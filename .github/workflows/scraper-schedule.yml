@@ -1,0 +1,134 @@
+name: scraper
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Run every 6 hours
+  workflow_dispatch: # Allow manual triggering
+
+permissions:
+  contents: write
+  issues: write
+
+env:
+  SCRAPER_DIR: src/scraper
+  PROJECT_ROOT: ${{ github.workspace }}
+  COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
+  COMMIT_NAME: github-actions[bot]
+  TIMEOUT_MINUTES: 30
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Australia/Sydney
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          cd ${{ env.SCRAPER_DIR }}
+          pip install -r requirements.txt
+          pip install requests beautifulsoup4
+        continue-on-error: false
+
+      - name: Create data directory
+        run: |
+          mkdir -p ${{ env.PROJECT_ROOT }}/data/$(date +%Y-%m-%d)
+        continue-on-error: false
+
+      - name: Run scraper
+        run: |
+          cd ${{ env.SCRAPER_DIR }}
+          python main.py --site all
+        continue-on-error: false
+
+      - name: Validate scraped data
+        run: |
+          cd ${{ env.PROJECT_ROOT }}
+          python ${{ env.SCRAPER_DIR }}/scripts/validate_data.py
+        continue-on-error: false
+
+      - name: Check for broken links
+        run: |
+          cd ${{ env.PROJECT_ROOT }}
+          python ${{ env.SCRAPER_DIR }}/scripts/check_links.py
+        continue-on-error: true
+
+      - name: Archive old data
+        run: |
+          cd ${{ env.PROJECT_ROOT }}
+          python ${{ env.SCRAPER_DIR }}/scripts/archive_data.py
+        continue-on-error: true
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add --all
+          git status --porcelain
+          echo "changes=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
+
+      - name: Set up Git
+        if: steps.changes.outputs.changes != '0'
+        run: |
+          git config --global user.email "${{ env.COMMIT_EMAIL }}"
+          git config --global user.name "${{ env.COMMIT_NAME }}"
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changes != '0'
+        run: |
+          git add --all
+          git commit -m "Update scraped data [skip ci]
+
+          Run ID: ${{ github.run_id }}
+          Triggered by: ${{ github.event_name }}"
+          git push
+
+      - name: Report status
+        if: always()
+        run: |
+          if [ ${{ job.status }} == 'success' ]; then
+            echo "status=success" >> $GITHUB_OUTPUT
+          else
+            echo "status=failure" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Clean up
+        if: always()
+        run: |
+          find . -type d -name "__pycache__" -exec rm -r {} +
+          find . -type f -name "*.pyc" -delete
+
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Scraper failed`,
+              body: `The scraper workflow failed.
+
+              Run ID: ${{ github.run_id }}
+              Triggered by: ${{ github.event_name }}
+
+              Please check the workflow logs for details.`
+            })
