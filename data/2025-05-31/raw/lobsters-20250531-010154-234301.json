@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A break from programming languages",
+    "author": "",
+    "score": "71",
+    "comments": "0",
+    "tags": "person, plt",
+    "url": "https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "A poor man’s types",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://blog.snork.dev/posts/a-poor-man-s-types.html",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "dotnet",
+    "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Grog: the mono-repo build tool for the grug-brained dev",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://grog.build/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "HellCaptcha: Accessibility Theater at Its Worst",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "a11y, web",
+    "url": "https://fireborn.mataroa.blog/blog/hellcaptcha-accessibility-theater-at-its-worst/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access — fireborn",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "a11y, linux",
+    "url": "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "I am disappointed in the AI discourse",
+    "author": "",
+    "score": "157",
+    "comments": "0",
+    "tags": "culture, vibecoding",
+    "url": "https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/",
+    "date": "2025-05-31",
+    "description": "☶"
+  },
+  {
+    "title": "Iconography of the X Window System: The Boot Stipple",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "design, historical, unix",
+    "url": "https://matttproud.com/blog/posts/x-window-system-boot-stipple.html",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Learning C3",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "c",
+    "url": "https://alloc.dev/2025/05/29/learning_c3",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Making openat(2) and friends more useful in practice",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "openbsd",
+    "url": "https://undeadly.org/cgi?action=article;sid=20250529080623",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "api, web",
+    "url": "https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Net-Negative Cursor",
+    "author": "",
+    "score": "43",
+    "comments": "0",
+    "tags": "rust, vibecoding",
+    "url": "https://lukasatkinson.de/2025/net-negative-cursor/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "databases, devops, security",
+    "url": "https://openbao.org/blog/namespaces-announcement/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Revisiting Loop Recognition in C++... in Rust",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "c++, rust",
+    "url": "http://blomqu.ist/posts/2025/loop-recognition",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Systems Correctness Practices at Amazon Web Services",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "formalmethods, testing",
+    "url": "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "The Coming AI Revolution in Distributed Systems",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "formalmethods, vibecoding",
+    "url": "https://zfhuang99.github.io/github%20copilot/formal%20verification/tla+/2025/05/24/ai-revolution-in-distributed-systems.html",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "The Linux 6.15 kernel arrives and it's big a victory for Rust fans",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "linux, rust",
+    "url": "https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "The case for using a web browser as your terminal",
+    "author": "",
+    "score": "49",
+    "comments": "0",
+    "tags": "browsers, web",
+    "url": "https://blog.pomdtr.me/posts/tweety-v1/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "The radix 2^51 trick to 256-bit addition (2020)",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "assembly, performance",
+    "url": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "This website does not exist",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "ai, vibecoding",
+    "url": "https://thiswebsitedoesnotexist.net/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Three Level Summary: Neural Radiance Fields vs. 3D Gaussian Splatting",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "graphics",
+    "url": "https://edwardahn.me/archive/2024/02/19/NeRFvs3DGS",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Types and other techniques as an accessibility tool for the ADHD brain",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "video, a11y, plt, practices",
+    "url": "https://www.youtube.com/watch?v=DG5gLPFKcbk",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "What's cooking on SourceHut? Q2 2025",
+    "author": "",
+    "score": "50",
+    "comments": "0",
+    "tags": "release",
+    "url": "https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "When was the last time you broke production and how?",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "ask, practices",
+    "url": "https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production",
+    "date": "2025-05-31",
+    "description": "☶"
+  },
+  {
+    "title": "Which New Language Should I Learn for Web Development?",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "elixir, web",
+    "url": "https://mtlynch.io/notes/which-new-language/",
+    "date": "2025-05-31",
+    "description": ""
+  }
+]

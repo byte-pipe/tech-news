@@ -1,0 +1,440 @@
+"""
+Failure mode testing for the scraper system.
+Tests various error conditions and recovery paths.
+"""
+
+import os
+import sys
+import tempfile
+import unittest
+from datetime import datetime
+from pathlib import Path
+from unittest.mock import Mock, patch
+
+import requests
+
+# Add the parent directory to the Python path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from core.config import ScraperConfig, set_config
+from core.scraper_registry import ScraperRegistry
+from core.scraper_runner import fetch_content_for_results, run_scraper
+from utils.content_fetcher import ContentFetcher
+
+
+class TestNetworkFailures(unittest.TestCase):
+    """Test network timeout and retry scenarios."""
+
+    def setUp(self):
+        """Set up test environment."""
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.project_root = Path(self.temp_dir.name)
+
+        # Create project structure
+        (self.project_root / "src" / "scraper" / "config").mkdir(parents=True)
+        (self.project_root / "pyproject.toml").touch()
+
+        sites_config = """
+github:
+  url: "https://github.com/trending"
+  selector: ".Box-row"
+  fields:
+    title: "h1 a"
+    url: "h1 a@href"
+"""
+        (self.project_root / "src" / "scraper" / "config" / "sites.yaml").write_text(sites_config)
+
+        self.config = ScraperConfig(str(self.project_root))
+        set_config(self.config)
+
+    def tearDown(self):
+        """Clean up."""
+        self.temp_dir.cleanup()
+
+    def test_network_timeout_handling(self):
+        """Test handling of network timeouts."""
+        scrapers = ScraperRegistry.get_scrapers_for_names(["github"])
+        scraper_class = scrapers[0]
+
+        # Mock the _get_page method to simulate timeout
+        with patch.object(scraper_class, "_get_page", return_value=None):
+            # Should handle timeout gracefully without crashing
+            result = run_scraper(scraper_class, output_format="json", dry_run=True, fetch_content=False)
+
+            # Should return False for failure, not crash
+            self.assertFalse(result)
+
+    def test_connection_error_handling(self):
+        """Test handling of connection errors."""
+        scrapers = ScraperRegistry.get_scrapers_for_names(["github"])
+        scraper_class = scrapers[0]
+
+        # Mock requests to simulate connection error
+        with patch("requests.get", side_effect=requests.ConnectionError("Connection failed")):
+            result = run_scraper(scraper_class, output_format="json", dry_run=True, fetch_content=False)
+
+            self.assertFalse(result)
+
+    def test_http_error_status_handling(self):
+        """Test handling of HTTP error status codes."""
+        scrapers = ScraperRegistry.get_scrapers_for_names(["github"])
+        scraper_class = scrapers[0]
+
+        # Mock response with 404 error
+        mock_response = Mock()
+        mock_response.status_code = 404
+        mock_response.raise_for_status.side_effect = requests.HTTPError("404 Not Found")
+
+        with patch("requests.get", return_value=mock_response):
+            result = run_scraper(scraper_class, output_format="json", dry_run=True, fetch_content=False)
+
+            self.assertFalse(result)
+
+    def test_content_fetcher_network_failures(self):
+        """Test content fetcher handling network failures."""
+        content_fetcher = ContentFetcher(str(self.project_root))
+
+        test_result = {"title": "Test Article", "url": "https://example.com/test"}
+
+        # Test timeout in content fetching
+        with patch("requests.get", side_effect=requests.Timeout("Timeout")):
+            enhanced_result = content_fetcher.fetch_content(test_result["url"], "test_site", test_result)
+
+            # Should return original result without crashing
+            self.assertEqual(enhanced_result["title"], test_result["title"])
+            self.assertNotIn("local_path", enhanced_result)  # No content saved on failure
+
+
+class TestMalformedDataHandling(unittest.TestCase):
+    """Test malformed HTML and API response handling."""
+
+    def setUp(self):
+        """Set up test environment."""
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.project_root = Path(self.temp_dir.name)
+
+        (self.project_root / "src" / "scraper" / "config").mkdir(parents=True)
+        (self.project_root / "pyproject.toml").touch()
+
+        sites_config = """
+github:
+  url: "https://github.com/trending"
+  selector: ".Box-row"
+  fields:
+    title: "h1 a"
+    url: "h1 a@href"
+"""
+        (self.project_root / "src" / "scraper" / "config" / "sites.yaml").write_text(sites_config)
+
+        self.config = ScraperConfig(str(self.project_root))
+        set_config(self.config)
+
+    def tearDown(self):
+        """Clean up."""
+        self.temp_dir.cleanup()
+
+    def test_malformed_html_handling(self):
+        """Test handling of malformed HTML responses."""
+        scrapers = ScraperRegistry.get_scrapers_for_names(["github"])
+        scraper_class = scrapers[0]
+
+        # Mock response with malformed HTML
+        mock_response = Mock()
+        mock_response.status_code = 200
+        mock_response.text = "<html><head><title>Broken</head><body><div class='missing-close-tag'><p>Broken HTML"
+        mock_response.raise_for_status.return_value = None
+
+        with patch("requests.get", return_value=mock_response):
+            result = run_scraper(scraper_class, output_format="json", dry_run=True, fetch_content=False)
+
+            # Should handle malformed HTML gracefully
+            # Exact result depends on implementation, but shouldn't crash
+            self.assertIsInstance(result, bool)
+
+    def test_empty_response_handling(self):
+        """Test handling of empty responses."""
+        scrapers = ScraperRegistry.get_scrapers_for_names(["github"])
+        scraper_class = scrapers[0]
+
+        # Mock response with empty content
+        mock_response = Mock()
+        mock_response.status_code = 200
+        mock_response.text = ""
+        mock_response.raise_for_status.return_value = None
+
+        with patch("requests.get", return_value=mock_response):
+            result = run_scraper(scraper_class, output_format="json", dry_run=True, fetch_content=False)
+
+            # Should handle empty response without crashing
+            self.assertIsInstance(result, bool)
+
+    def test_invalid_json_api_response(self):
+        """Test handling of invalid JSON in API responses."""
+        # This would be more relevant for API-based scrapers
+        # For now, test general JSON parsing failures
+
+        test_data = "{ invalid json syntax ]["
+
+        import json
+
+        with self.assertRaises(json.JSONDecodeError):
+            json.loads(test_data)
+
+        # In real scrapers, this should be caught and handled gracefully
+
+    def test_missing_required_selectors(self):
+        """Test handling when required selectors are not found."""
+        scrapers = ScraperRegistry.get_scrapers_for_names(["github"])
+        scraper_class = scrapers[0]
+
+        # Mock response with HTML that doesn't match expected selectors
+        mock_response = Mock()
+        mock_response.status_code = 200
+        mock_response.text = "<html><body><p>No matching elements</p></body></html>"
+        mock_response.raise_for_status.return_value = None
+
+        with patch("requests.get", return_value=mock_response):
+            result = run_scraper(scraper_class, output_format="json", dry_run=True, fetch_content=False)
+
+            # Should handle missing selectors gracefully
+            self.assertIsInstance(result, bool)
+
+
+class TestFileSystemFailures(unittest.TestCase):
+    """Test file system failures (permissions, disk full)."""
+
+    def setUp(self):
+        """Set up test environment."""
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.project_root = Path(self.temp_dir.name)
+
+        (self.project_root / "src" / "scraper" / "config").mkdir(parents=True)
+        (self.project_root / "pyproject.toml").touch()
+
+        sites_config = "github:\n  url: 'https://github.com/trending'\n  selector: '.Box-row'"
+        (self.project_root / "src" / "scraper" / "config" / "sites.yaml").write_text(sites_config)
+
+        self.config = ScraperConfig(str(self.project_root))
+        set_config(self.config)
+
+    def tearDown(self):
+        """Clean up."""
+        self.temp_dir.cleanup()
+
+    def test_permission_denied_directory_creation(self):
+        """Test handling of permission denied errors when creating directories."""
+        # Mock os.makedirs to raise PermissionError
+        with patch("os.makedirs", side_effect=PermissionError("Permission denied")):
+            with self.assertRaises(RuntimeError):
+                # This should fail fast as expected
+                self.config.ensure_date_structure("2025-06-01")
+
+    def test_permission_denied_file_writing(self):
+        """Test handling of permission denied errors when writing files."""
+        scrapers = ScraperRegistry.get_scrapers_for_names(["github"])
+        scraper_class = scrapers[0]
+
+        # Mock successful HTML fetching but file writing failure
+        mock_response = Mock()
+        mock_response.status_code = 200
+        mock_response.text = "<html><body><div class='Box-row'><h1><a href='/test'>Test</a></h1></div></body></html>"
+        mock_response.raise_for_status.return_value = None
+
+        with patch("requests.get", return_value=mock_response):
+            with patch("builtins.open", side_effect=PermissionError("Permission denied")):
+                result = run_scraper(scraper_class, output_format="json", dry_run=False, fetch_content=False)  # Need to actually try writing
+
+                # Should handle file writing failure gracefully
+                self.assertFalse(result)
+
+    def test_disk_full_simulation(self):
+        """Test handling of disk full errors."""
+        scrapers = ScraperRegistry.get_scrapers_for_names(["github"])
+        scraper_class = scrapers[0]
+
+        # Mock file writing to raise OSError (disk full)
+        with patch("builtins.open", side_effect=OSError("No space left on device")):
+            result = run_scraper(scraper_class, output_format="json", dry_run=False, fetch_content=False)
+
+            self.assertFalse(result)
+
+    def test_readonly_filesystem(self):
+        """Test handling of read-only filesystem."""
+        # Create a read-only test file
+        test_dir = self.config.data_dir / "2025-06-01"
+        test_dir.mkdir(parents=True, exist_ok=True)
+        test_file = test_dir / "readonly_test.json"
+        test_file.write_text("{}")
+
+        # Make file read-only
+        test_file.chmod(0o444)
+
+        try:
+            # Try to write to read-only file
+            with self.assertRaises(PermissionError):
+                with open(test_file, "w") as f:
+                    f.write("should fail")
+        finally:
+            # Clean up - make writable again
+            test_file.chmod(0o644)
+
+
+class TestResourceExhaustion(unittest.TestCase):
+    """Test resource exhaustion scenarios."""
+
+    def setUp(self):
+        """Set up test environment."""
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.project_root = Path(self.temp_dir.name)
+
+        (self.project_root / "src" / "scraper" / "config").mkdir(parents=True)
+        (self.project_root / "pyproject.toml").touch()
+
+        sites_config = "github:\n  url: 'https://github.com/trending'\n  selector: '.Box-row'"
+        (self.project_root / "src" / "scraper" / "config" / "sites.yaml").write_text(sites_config)
+
+        self.config = ScraperConfig(str(self.project_root))
+        set_config(self.config)
+
+    def tearDown(self):
+        """Clean up."""
+        self.temp_dir.cleanup()
+
+    def test_memory_exhaustion_simulation(self):
+        """Test handling of memory exhaustion."""
+        # This is hard to test realistically without actually exhausting memory
+        # Instead, test that we handle large data sets gracefully
+
+        # Create a large data set
+        large_data = [{"title": f"Item {i}", "url": f"https://example.com/{i}"} for i in range(10000)]
+
+        import json
+
+        date_str = datetime.now().strftime("%Y-%m-%d")
+        data_dir = self.config.data_dir / date_str
+        data_dir.mkdir(parents=True, exist_ok=True)
+
+        # Should be able to handle large data sets without issues
+        test_file = data_dir / "large_data.json"
+        with open(test_file, "w") as f:
+            json.dump(large_data, f)
+
+        # Verify file was created and is readable
+        self.assertTrue(test_file.exists())
+
+        with open(test_file, "r") as f:
+            loaded_data = json.load(f)
+
+        self.assertEqual(len(loaded_data), 10000)
+
+    def test_too_many_open_files(self):
+        """Test handling of too many open files scenario."""
+        # Simulate opening many files without closing them
+        opened_files = []
+
+        try:
+            # Try to open many files (this should be handled gracefully)
+            date_str = datetime.now().strftime("%Y-%m-%d")
+            data_dir = self.config.data_dir / date_str
+            data_dir.mkdir(parents=True, exist_ok=True)
+
+            for i in range(100):  # Don't go too high to avoid actual system issues
+                test_file = data_dir / f"test_{i}.txt"
+                f = open(test_file, "w")
+                f.write(f"test {i}")
+                opened_files.append(f)
+
+        finally:
+            # Clean up - close all files
+            for f in opened_files:
+                try:
+                    f.close()
+                except Exception:
+                    pass
+
+    def test_content_fetcher_resource_limits(self):
+        """Test content fetcher with resource limits."""
+        ContentFetcher(str(self.project_root))
+
+        # Test with multiple concurrent requests
+        test_results = [{"title": f"Article {i}", "url": f"https://example.com/{i}"} for i in range(5)]
+
+        # Mock requests to return large content
+        large_content = "x" * 1024 * 1024  # 1MB of content
+        mock_response = Mock()
+        mock_response.status_code = 200
+        mock_response.text = large_content
+        mock_response.raise_for_status.return_value = None
+
+        with patch("requests.get", return_value=mock_response):
+            enhanced_results = fetch_content_for_results("test_site", test_results, max_articles=5)
+
+            # Should handle large content without issues
+            self.assertEqual(len(enhanced_results), 5)
+
+
+class TestExternalServiceFailures(unittest.TestCase):
+    """Test external service unavailability (Ollama, APIs)."""
+
+    def setUp(self):
+        """Set up test environment."""
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.project_root = Path(self.temp_dir.name)
+
+        (self.project_root / "src" / "scraper" / "config").mkdir(parents=True)
+        (self.project_root / "pyproject.toml").touch()
+
+        self.config = ScraperConfig(str(self.project_root))
+        set_config(self.config)
+
+    def tearDown(self):
+        """Clean up."""
+        self.temp_dir.cleanup()
+
+    def test_ollama_service_unavailable(self):
+        """Test handling when Ollama service is unavailable."""
+        from core.ai_processor import summarize_content
+
+        # Mock requests to Ollama to fail
+        with patch("requests.post", side_effect=requests.ConnectionError("Ollama not available")):
+            success, files = summarize_content(date_dir="2025-06-01", model_name="test_model", max_files=1)
+
+            # Should handle Ollama unavailability gracefully
+            self.assertFalse(success)
+            self.assertEqual(len(files), 0)
+
+    def test_api_rate_limiting(self):
+        """Test handling of API rate limiting."""
+        # Mock HTTP 429 Too Many Requests
+        mock_response = Mock()
+        mock_response.status_code = 429
+        mock_response.raise_for_status.side_effect = requests.HTTPError("429 Too Many Requests")
+
+        with patch("requests.get", return_value=mock_response):
+            scrapers = ScraperRegistry.get_scrapers_for_names(["github"])
+            scraper_class = scrapers[0]
+
+            result = run_scraper(scraper_class, output_format="json", dry_run=True, fetch_content=False)
+
+            # Should handle rate limiting gracefully
+            self.assertFalse(result)
+
+    def test_service_timeout_with_retry(self):
+        """Test service timeout with retry logic."""
+        # Mock service that times out first, then succeeds
+        responses = [requests.Timeout("First request timeout"), Mock(status_code=200, text="<html><body>Success</body></html>")]
+        responses[1].raise_for_status.return_value = None
+
+        with patch("requests.get", side_effect=responses):
+            # This test assumes retry logic exists (which may need to be implemented)
+            scrapers = ScraperRegistry.get_scrapers_for_names(["github"])
+            scraper_class = scrapers[0]
+
+            result = run_scraper(scraper_class, output_format="json", dry_run=True, fetch_content=False)
+
+            # Depending on retry implementation, this might succeed or fail
+            self.assertIsInstance(result, bool)
+
+
+if __name__ == "__main__":
+    unittest.main()

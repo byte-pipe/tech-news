@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A break from programming languages",
+    "author": "",
+    "score": "48",
+    "comments": "0",
+    "tags": "person, plt",
+    "url": "https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "dotnet",
+    "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Golden File Testing",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "go, testing",
+    "url": "https://matttproud.com/blog/posts/golden-file-testing.html",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Grog: the mono-repo build tool for the grug-brained dev",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://grog.build/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "HellCaptcha: Accessibility Theater at Its Worst",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "a11y, web",
+    "url": "https://fireborn.mataroa.blog/blog/hellcaptcha-accessibility-theater-at-its-worst/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Helonium's Hartree-Fock program",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "apl, science",
+    "url": "https://panadestein.github.io/blog/posts/hf.html",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "How to fix email encryption",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "email, security",
+    "url": "https://weddige.eu/en/articles/lets-encrypt-emails/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "I am disappointed in the AI discourse",
+    "author": "",
+    "score": "146",
+    "comments": "0",
+    "tags": "culture, vibecoding",
+    "url": "https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/",
+    "date": "2025-05-30",
+    "description": "☶"
+  },
+  {
+    "title": "Kea DHCP: Local Vulnerabilities in many Linux and BSD Distributions",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "networking, security",
+    "url": "https://security.opensuse.org/2025/05/28/kea-dhcp-security-issues.html",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Learning C3",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "c",
+    "url": "https://alloc.dev/2025/05/29/learning_c3",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Making openat(2) and friends more useful in practice",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "openbsd",
+    "url": "https://undeadly.org/cgi?action=article;sid=20250529080623",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Net-Negative Cursor",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "rust, vibecoding",
+    "url": "https://lukasatkinson.de/2025/net-negative-cursor/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "databases, devops, security",
+    "url": "https://openbao.org/blog/namespaces-announcement/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Redesigning the Initial Bootstrap Sequence",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "compilers, rust",
+    "url": "https://blog.rust-lang.org/inside-rust/2025/05/29/redesigning-the-initial-bootstrap-sequence/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Revisiting Loop Recognition in C++... in Rust",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "c++, rust",
+    "url": "http://blomqu.ist/posts/2025/loop-recognition",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Saying Bye to Glitch",
+    "author": "",
+    "score": "46",
+    "comments": "0",
+    "tags": "editors, web",
+    "url": "https://pketh.org/bye-glitch.html",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Systems Correctness Practices at Amazon Web Services",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "formalmethods, testing",
+    "url": "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Terraria and Celeste ported to WebAssembly",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "programming, wasm",
+    "url": "https://velzie.rip/blog/celeste-wasm",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "The Coming AI Revolution in Distributed Systems",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "formalmethods, vibecoding",
+    "url": "https://zfhuang99.github.io/github%20copilot/formal%20verification/tla+/2025/05/24/ai-revolution-in-distributed-systems.html",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "The case for using a web browser as your terminal",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "browsers, web",
+    "url": "https://blog.pomdtr.me/posts/tweety-v1/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "The-One-True-Lisp-Style-Guide",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "lisp",
+    "url": "https://github.com/foxsae/The-One-True-Lisp-Style-Guide",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "This website does not exist",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "ai, vibecoding",
+    "url": "https://thiswebsitedoesnotexist.net/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "What's cooking on SourceHut? Q2 2025",
+    "author": "",
+    "score": "45",
+    "comments": "0",
+    "tags": "release",
+    "url": "https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "Which New Language Should I Learn for Web Development?",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "elixir, web",
+    "url": "https://mtlynch.io/notes/which-new-language/",
+    "date": "2025-05-30",
+    "description": ""
+  },
+  {
+    "title": "parking_lot: ffffffffffffffff",
+    "author": "",
+    "score": "55",
+    "comments": "0",
+    "tags": "debugging, rust",
+    "url": "https://fly.io/blog/parking-lot-ffffffffffffffff/",
+    "date": "2025-05-30",
+    "description": ""
+  }
+]

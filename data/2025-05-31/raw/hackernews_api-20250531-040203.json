@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A visual exploration of vector embeddings",
+    "url": "http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html",
+    "author": "pamelafox",
+    "date": "2025-05-29",
+    "score": 163,
+    "comments": 38,
+    "id": 44120306,
+    "discussion_url": "https://news.ycombinator.com/item?id=44120306",
+    "description": "A visual exploration of vector embeddings",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436646"
+  },
+  {
+    "title": "Atomics and Concurrency",
+    "url": "https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html",
+    "author": "LAC-Tech",
+    "date": "2025-05-28",
+    "score": 99,
+    "comments": 20,
+    "id": 44113706,
+    "discussion_url": "https://news.ycombinator.com/item?id=44113706",
+    "description": "Atomics and Concurrency",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436444"
+  },
+  {
+    "title": "Beating Google's kernelCTF PoW using AVX512",
+    "url": "https://anemato.de/blog/kctf-vdf",
+    "author": "anematode",
+    "date": "2025-05-31",
+    "score": 102,
+    "comments": 19,
+    "id": 44137715,
+    "discussion_url": "https://news.ycombinator.com/item?id=44137715",
+    "description": "Beating Google's kernelCTF PoW using AVX512",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436238"
+  },
+  {
+    "title": "Car Physics for Games (2003)",
+    "url": "https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html",
+    "author": "ibobev",
+    "date": "2025-05-28",
+    "score": 71,
+    "comments": 12,
+    "id": 44108590,
+    "discussion_url": "https://news.ycombinator.com/item?id=44108590",
+    "description": "Car Physics for Games (2003)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436667"
+  },
+  {
+    "title": "Dr John C. Clark, a scientist who disarmed atomic bombs twice",
+    "url": "https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst",
+    "author": "vinnyglennon",
+    "date": "2025-05-27",
+    "score": 123,
+    "comments": 92,
+    "id": 44106007,
+    "discussion_url": "https://news.ycombinator.com/item?id=44106007",
+    "description": "Dr John C. Clark, a scientist who disarmed atomic bombs twice",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436683"
+  },
+  {
+    "title": "FLUX.1 Kontext",
+    "url": "https://bfl.ai/models/flux-kontext",
+    "author": "minimaxir",
+    "date": "2025-05-30",
+    "score": 471,
+    "comments": 109,
+    "id": 44128322,
+    "discussion_url": "https://news.ycombinator.com/item?id=44128322",
+    "description": "FLUX.1 Kontext",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436461"
+  },
+  {
+    "title": "Human coders are still better than LLMs",
+    "url": "https://antirez.com/news/153",
+    "author": "longwave",
+    "date": "2025-05-30",
+    "score": 566,
+    "comments": 673,
+    "id": 44127739,
+    "discussion_url": "https://news.ycombinator.com/item?id=44127739",
+    "description": "Human coders are still better than LLMs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436628"
+  },
+  {
+    "title": "I started a little math club in Bangalore",
+    "url": "https://teachyourselfmath.app/club",
+    "author": "viveknathani_",
+    "date": "2025-05-29",
+    "score": 125,
+    "comments": 26,
+    "id": 44125489,
+    "discussion_url": "https://news.ycombinator.com/item?id=44125489",
+    "description": "I started a little math club in Bangalore",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436675"
+  },
+  {
+    "title": "I'm starting a social club to solve the male loneliness epidemic",
+    "url": "https://wave3.social",
+    "author": "nswizzle31",
+    "date": "2025-05-30",
+    "score": 260,
+    "comments": 555,
+    "id": 44131513,
+    "discussion_url": "https://news.ycombinator.com/item?id=44131513",
+    "description": "I'm starting a social club to solve the male loneliness epidemic",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436642"
+  },
+  {
+    "title": "Learning C3",
+    "url": "https://alloc.dev/2025/05/29/learning_c3",
+    "author": "lerno",
+    "date": "2025-05-29",
+    "score": 243,
+    "comments": 137,
+    "id": 44125966,
+    "discussion_url": "https://news.ycombinator.com/item?id=44125966",
+    "description": "Learning C3",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436624"
+  },
+  {
+    "title": "Making C and Python Talk to Each Other",
+    "url": "https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each",
+    "author": "muragekibicho",
+    "date": "2025-05-27",
+    "score": 139,
+    "comments": 86,
+    "id": 44105746,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105746",
+    "description": "Making C and Python Talk to Each Other",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436614"
+  },
+  {
+    "title": "Microsandbox: Virtual Machines that feel and perform like containers",
+    "url": "https://github.com/microsandbox/microsandbox",
+    "author": "makeboss",
+    "date": "2025-05-30",
+    "score": 127,
+    "comments": 64,
+    "id": 44135977,
+    "discussion_url": "https://news.ycombinator.com/item?id=44135977",
+    "description": "Microsandbox: Virtual Machines that feel and perform like containers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436293"
+  },
+  {
+    "title": "MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans",
+    "url": "https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features",
+    "author": "jordigh",
+    "date": "2025-05-30",
+    "score": 138,
+    "comments": 69,
+    "id": 44136108,
+    "discussion_url": "https://news.ycombinator.com/item?id=44136108",
+    "description": "MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436573"
+  },
+  {
+    "title": "Open-sourcing circuit tracing tools",
+    "url": "https://www.anthropic.com/research/open-source-circuit-tracing",
+    "author": "jlaneve",
+    "date": "2025-05-30",
+    "score": 142,
+    "comments": 20,
+    "id": 44128101,
+    "discussion_url": "https://news.ycombinator.com/item?id=44128101",
+    "description": "Open-sourcing circuit tracing tools",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436663"
+  },
+  {
+    "title": "OpenBao Namespaces",
+    "url": "https://openbao.org/blog/namespaces-announcement/",
+    "author": "gslin",
+    "date": "2025-05-30",
+    "score": 74,
+    "comments": 26,
+    "id": 44132486,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132486",
+    "description": "OpenBao Namespaces",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436551"
+  },
+  {
+    "title": "Practical SDR: Getting started with software-defined radio",
+    "url": "https://nostarch.com/practical-sdr",
+    "author": "teleforce",
+    "date": "2025-05-30",
+    "score": 223,
+    "comments": 66,
+    "id": 44131984,
+    "discussion_url": "https://news.ycombinator.com/item?id=44131984",
+    "description": "Practical SDR: Getting started with software-defined radio",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436453"
+  },
+  {
+    "title": "Putting Rigid Bodies to Rest",
+    "url": "https://twitter.com/keenanisalive/status/1925225500659658999",
+    "author": "pvg",
+    "date": "2025-05-30",
+    "score": 119,
+    "comments": 10,
+    "id": 44127173,
+    "discussion_url": "https://news.ycombinator.com/item?id=44127173",
+    "description": "Putting Rigid Bodies to Rest",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436679"
+  },
+  {
+    "title": "Radio Astronomy Software Defined Radio (Rasdr)",
+    "url": "https://radio-astronomy.org/rasdr",
+    "author": "zeristor",
+    "date": "2025-05-30",
+    "score": 78,
+    "comments": 5,
+    "id": 44134364,
+    "discussion_url": "https://news.ycombinator.com/item?id=44134364",
+    "description": "Radio Astronomy Software Defined Radio (Rasdr)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436380"
+  },
+  {
+    "title": "Show HN: Donut Browser, a Browser Orchestrator",
+    "url": "https://donutbrowser.com/",
+    "author": "andrewzeno",
+    "date": "2025-05-30",
+    "score": 70,
+    "comments": 28,
+    "id": 44132752,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132752",
+    "description": "Show HN: Donut Browser, a Browser Orchestrator",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436596"
+  },
+  {
+    "title": "Show HN: I wrote a modern Command Line Handbook",
+    "url": "https://commandline.stribny.name/",
+    "author": "petr25102018",
+    "date": "2025-05-30",
+    "score": 404,
+    "comments": 107,
+    "id": 44126612,
+    "discussion_url": "https://news.ycombinator.com/item?id=44126612",
+    "description": "Show HN: I wrote a modern Command Line Handbook",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436543"
+  },
+  {
+    "title": "Show HN: MCP Server SDK in Bash",
+    "url": "https://github.com/muthuishere/mcp-server-bash-sdk",
+    "author": "muthuishere",
+    "date": "2025-05-30",
+    "score": 115,
+    "comments": 31,
+    "id": 44132823,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132823",
+    "description": "Show HN: MCP Server SDK in Bash",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436512"
+  },
+  {
+    "title": "Smallest Possible Files",
+    "url": "https://github.com/mathiasbynens/small",
+    "author": "yread",
+    "date": "2025-05-27",
+    "score": 74,
+    "comments": 37,
+    "id": 44106048,
+    "discussion_url": "https://news.ycombinator.com/item?id=44106048",
+    "description": "Smallest Possible Files",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436558"
+  },
+  {
+    "title": "Systems Correctness Practices at Amazon Web Services",
+    "url": "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/",
+    "author": "tanelpoder",
+    "date": "2025-05-30",
+    "score": 201,
+    "comments": 68,
+    "id": 44135638,
+    "discussion_url": "https://news.ycombinator.com/item?id=44135638",
+    "description": "Systems Correctness Practices at Amazon Web Services",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436275"
+  },
+  {
+    "title": "The Darwin Gödel Machine: AI that improves itself by rewriting its own code",
+    "url": "https://sakana.ai/dgm/",
+    "author": "birriel",
+    "date": "2025-05-30",
+    "score": 115,
+    "comments": 95,
+    "id": 44135369,
+    "discussion_url": "https://news.ycombinator.com/item?id=44135369",
+    "description": "The Darwin Gödel Machine: AI that improves itself by rewriting its own code",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436417"
+  },
+  {
+    "title": "The flip phone web: browsing with the original Opera Mini",
+    "url": "https://www.spacebar.news/the-flip-phone-web-browsing-with-the-original-opera-mini/",
+    "author": "protonbob",
+    "date": "2025-05-30",
+    "score": 112,
+    "comments": 69,
+    "id": 44127027,
+    "discussion_url": "https://news.ycombinator.com/item?id=44127027",
+    "description": "The flip phone web: browsing with the original Opera Mini",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436671"
+  },
+  {
+    "title": "The radix 2^51 trick (2017)",
+    "url": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
+    "author": "blobcode",
+    "date": "2025-05-30",
+    "score": 341,
+    "comments": 58,
+    "id": 44132673,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132673",
+    "description": "The radix 2^51 trick (2017)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436343"
+  },
+  {
+    "title": "Triangle splatting: radiance fields represented by triangles",
+    "url": "https://trianglesplatting.github.io/",
+    "author": "ath92",
+    "date": "2025-05-30",
+    "score": 136,
+    "comments": 58,
+    "id": 44132744,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132744",
+    "description": "Triangle splatting: radiance fields represented by triangles",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436470"
+  },
+  {
+    "title": "U.S. sanctions cloud provider 'Funnull' as top source of 'pig butchering' scams",
+    "url": "https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/",
+    "author": "todsacerdoti",
+    "date": "2025-05-30",
+    "score": 151,
+    "comments": 193,
+    "id": 44132075,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132075",
+    "description": "U.S. sanctions cloud provider 'Funnull' as top source of 'pig butchering' scams",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436535"
+  },
+  {
+    "title": "WeatherStar 4000+: Weather Channel Simulator",
+    "url": "https://weatherstar.netbymatt.com/",
+    "author": "adam_gyroscope",
+    "date": "2025-05-30",
+    "score": 673,
+    "comments": 127,
+    "id": 44127109,
+    "discussion_url": "https://news.ycombinator.com/item?id=44127109",
+    "description": "WeatherStar 4000+: Weather Channel Simulator",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436650"
+  },
+  {
+    "title": "Why is everybody knitting chickens?",
+    "url": "https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/",
+    "author": "mooreds",
+    "date": "2025-05-28",
+    "score": 158,
+    "comments": 114,
+    "id": 44108139,
+    "discussion_url": "https://news.ycombinator.com/item?id=44108139",
+    "description": "Why is everybody knitting chickens?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T04:02:03.436588"
+  }
+]

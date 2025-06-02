@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://github.com/leoshimo/vrs",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "A thought on JavaScript \"proof of work\" anti-scraper systems",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "devops, javascript, security",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Add Virtual Threads to Python",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://discuss.python.org/t/add-virtual-threads-to-python/91403",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Awesome Emacs on macOS",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "emacs, mac",
+    "url": "https://xenodium.com/awesome-emacs-on-macos",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "BGP handling bug causes widespread internet routing instability",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Docker",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "design, linux, osdev",
+    "url": "https://icculus.org/openbox/2/docker/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Failed Backup Server Build",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "freebsd, hardware",
+    "url": "https://vermaden.wordpress.com/2025/05/28/failed-backup-server-build/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Firefox 139 adds experimental AI-powered link previews",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "browsers, vibecoding",
+    "url": "https://9to5mac.com/2025/05/27/firefox-ai-link-previews/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "GitHub MCP Exploited: Accessing private repositories via MCP",
+    "author": "",
+    "score": "40",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://simonwillison.net/2025/May/26/github-mcp-exploited/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Hacker News now runs on top of Common Lisp",
+    "author": "",
+    "score": "32",
+    "comments": "0",
+    "tags": "lisp",
+    "url": "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Just make it scale: An Aurora DSQL story",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "databases, distributed, rust",
+    "url": "https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Large Language Models can run tools in your terminal with LLM 0.26",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://simonwillison.net/2025/May/27/llm-tools/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "List of \"tech for good\" job boards",
+    "author": "",
+    "score": "70",
+    "comments": "0",
+    "tags": "job",
+    "url": "https://evanhahn.com/list-of-tech-for-good-job-boards/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Luciole Math: a typeface developed explicitly for visually impaired academics",
+    "author": "",
+    "score": "27",
+    "comments": "0",
+    "tags": "a11y, design, math",
+    "url": "https://luciole-vision.com/en/math.html",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "MCP explained without hype or fluff",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Own Your Email Domain",
+    "author": "",
+    "score": "42",
+    "comments": "0",
+    "tags": "email",
+    "url": "https://matthewsanabria.dev/posts/own-your-email-domain/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers",
+    "author": "",
+    "score": "27",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Rust streams and timeouts gotcha",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://laplab.me/posts/rust-streams-gotcha/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Scrappy: make little apps for you and your friends",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "programming, web",
+    "url": "https://pontus.granstrom.me/scrappy/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Teaching old hippies new tricks",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "historical",
+    "url": "https://www.oblomovka.com/wp/2025/01/02/teaching-old-hippies-new-tricks/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "The two types of open source",
+    "author": "",
+    "score": "28",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://filiph.net/text/two-types-of-open-source.html",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Vibe coding for teams, thoughts to date",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://laughingmeme.org//2025/05/25/vibe-coding-for-teams.html",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "What a Difference a Faster Hash Makes",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "performance, rust",
+    "url": "https://nickdrozd.github.io/2025/05/27/faster-hash.html",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Why are 2025/05/28 and 2025-05-28 different days in JavaScript?",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "javascript",
+    "url": "https://brandondong.github.io/blog/javascript_dates/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "flags and usability",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "unix",
+    "url": "https://orib.dev/flags.html",
+    "date": "2025-05-28",
+    "description": ""
+  }
+]

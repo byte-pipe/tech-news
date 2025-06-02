@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A smarter, simpler Firefox address bar",
+    "author": "",
+    "score": "50",
+    "comments": "0",
+    "tags": "browsers",
+    "url": "https://blog.mozilla.org/en/firefox/address-bar/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Access Control Syntax",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Against Curry-Howard Mysticism",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://liamoc.net/forest/loc-000S/index.xml",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Asserting Implications",
+    "author": "",
+    "score": "30",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://tigerbeetle.com/blog/2025-05-26-asserting-implications/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "BGP handling bug causes widespread internet routing instability",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "DumPy: NumPy except it’s OK if you’re dum",
+    "author": "",
+    "score": "32",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://dynomight.net/dumpy/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Effekt Language: Home",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "compsci, plt",
+    "url": "https://effekt-lang.org/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Five-year review of BQN design",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "apl, historical, plt",
+    "url": "https://mlochbaum.github.io/BQN/commentary/fiveyears.html",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "From Zero to Full Stack Gren with a Database",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "video, web",
+    "url": "https://www.youtube.com/watch?v=Ld1Lc10dO2k",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "GitHub MCP Exploited: Accessing private repositories via MCP",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://simonwillison.net/2025/May/26/github-mcp-exploited/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Hacker News now runs on top of Common Lisp",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "lisp",
+    "url": "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "I made a font",
+    "author": "",
+    "score": "61",
+    "comments": "0",
+    "tags": "design",
+    "url": "https://blog.chay.dev/i-made-a-font/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Linux cgroup from first principles",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://fzakaria.com/2025/05/26/linux-cgroup-from-first-principles",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "List of \"tech for good\" job boards",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "job",
+    "url": "https://evanhahn.com/list-of-tech-for-good-job-boards/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "LiveStore is a next-generation state management framework based on reactive SQLite and git-inspired syncing (via event-sourcing)",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "databases, release",
+    "url": "https://livestore.dev/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Luciole Math: a typeface developed explicitly for visually impaired academics",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "a11y, design, math",
+    "url": "https://luciole-vision.com/en/math.html",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "MCP explained without hype or fluff",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Non-Pointless Software Projects for New Devs in the LLM Age",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://cprimozic.net/blog/non-pointless-software-projects-for-new-devs-in-the-llm-age/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Relocation generation in assemblers",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "assembly, compilers",
+    "url": "https://maskray.me/blog/2025-03-16-relocation-generation-in-assemblers",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Rust streams and timeouts gotcha",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://laplab.me/posts/rust-streams-gotcha/",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "The two types of open source",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://filiph.net/text/two-types-of-open-source.html",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "You Can Choose Tools That Make You Happy",
+    "author": "",
+    "score": "145",
+    "comments": "0",
+    "tags": "philosophy",
+    "url": "https://borretti.me/article/you-can-choose-tools-that-make-you-happy",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "ash: a hybrid between getopts and 'sh -c'",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://github.com/avamsi/ash",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "jjui: a text user interface (TUI) for the Jujutsu version control system",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://github.com/idursun/jjui",
+    "date": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "love-hate and otel: using it while avoiding complexity",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "distributed, go",
+    "url": "https://github.com/jonjohnsonjr/til/blob/main/post/otel.md",
+    "date": "2025-05-28",
+    "description": "☶"
+  }
+]

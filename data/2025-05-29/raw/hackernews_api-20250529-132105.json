@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A thought on JavaScript \"proof of work\" anti-scraper systems",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles",
+    "author": "zdw",
+    "date": "2025-05-26",
+    "score": 158,
+    "comments": 186,
+    "id": 44094109,
+    "discussion_url": "https://news.ycombinator.com/item?id=44094109",
+    "description": "A thought on JavaScript \"proof of work\" anti-scraper systems",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476736"
+  },
+  {
+    "title": "A toy RTOS inside Super Mario Bros. using emulator save states",
+    "url": "https://prettygoodblog.com/p/what-threads-are-part-2",
+    "author": "notorious_pgb",
+    "date": "2025-05-29",
+    "score": 155,
+    "comments": 32,
+    "id": 44120241,
+    "discussion_url": "https://news.ycombinator.com/item?id=44120241",
+    "description": "A toy RTOS inside Super Mario Bros. using emulator save states",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476583"
+  },
+  {
+    "title": "As a developer, my most important tools are a pen and a notebook",
+    "url": "https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/",
+    "author": "ingve",
+    "date": "2025-05-28",
+    "score": 381,
+    "comments": 251,
+    "id": 44113210,
+    "discussion_url": "https://news.ycombinator.com/item?id=44113210",
+    "description": "As a developer, my most important tools are a pen and a notebook",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476671"
+  },
+  {
+    "title": "BGP handling bug causes widespread internet routing instability",
+    "url": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
+    "author": "robin_reala",
+    "date": "2025-05-27",
+    "score": 328,
+    "comments": 156,
+    "id": 44105796,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105796",
+    "description": "BGP handling bug causes widespread internet routing instability",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476917"
+  },
+  {
+    "title": "Compiler Explorer and the promise of URLs that last forever",
+    "url": "https://xania.org/202505/compiler-explorer-urls-forever",
+    "author": "anarazel",
+    "date": "2025-05-29",
+    "score": 227,
+    "comments": 111,
+    "id": 44117722,
+    "discussion_url": "https://news.ycombinator.com/item?id=44117722",
+    "description": "Compiler Explorer and the promise of URLs that last forever",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476509"
+  },
+  {
+    "title": "Compiling a neural net to C for a speedup",
+    "url": "https://slightknack.dev/blog/difflogic/",
+    "author": "todsacerdoti",
+    "date": "2025-05-29",
+    "score": 197,
+    "comments": 64,
+    "id": 44118373,
+    "discussion_url": "https://news.ycombinator.com/item?id=44118373",
+    "description": "Compiling a neural net to C for a speedup",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476567"
+  },
+  {
+    "title": "DWARF as a Shared Reverse Engineering Format",
+    "url": "https://lief.re/blog/2025-05-27-dwarf-editor/",
+    "author": "matt_d",
+    "date": "2025-05-28",
+    "score": 88,
+    "comments": 17,
+    "id": 44113026,
+    "discussion_url": "https://news.ycombinator.com/item?id=44113026",
+    "description": "DWARF as a Shared Reverse Engineering Format",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476865"
+  },
+  {
+    "title": "De-anonymization attacks against the privacy coin XMR",
+    "url": "https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/",
+    "author": "DbigCOX",
+    "date": "2025-05-29",
+    "score": 156,
+    "comments": 89,
+    "id": 44116236,
+    "discussion_url": "https://news.ycombinator.com/item?id=44116236",
+    "description": "De-anonymization attacks against the privacy coin XMR",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476704"
+  },
+  {
+    "title": "Deepseek R1-0528",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
+    "author": "error404x",
+    "date": "2025-05-29",
+    "score": 298,
+    "comments": 122,
+    "id": 44118818,
+    "discussion_url": "https://news.ycombinator.com/item?id=44118818",
+    "description": "Deepseek R1-0528",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476688"
+  },
+  {
+    "title": "Getting a Cease and Desist from Waffle House",
+    "url": "https://www.jack.bio/blog/wafflehouse",
+    "author": "lafond",
+    "date": "2025-05-29",
+    "score": 267,
+    "comments": 155,
+    "id": 44117302,
+    "discussion_url": "https://news.ycombinator.com/item?id=44117302",
+    "description": "Getting a Cease and Desist from Waffle House",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476711"
+  },
+  {
+    "title": "Japan Post launches 'digital address' system",
+    "url": "https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/",
+    "author": "jmsflknr",
+    "date": "2025-05-29",
+    "score": 206,
+    "comments": 142,
+    "id": 44117779,
+    "discussion_url": "https://news.ycombinator.com/item?id=44117779",
+    "description": "Japan Post launches 'digital address' system",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476482"
+  },
+  {
+    "title": "LLM codegen go brrr – Parallelization with Git worktrees and tmux",
+    "url": "https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/",
+    "author": "skeptrune",
+    "date": "2025-05-29",
+    "score": 101,
+    "comments": 51,
+    "id": 44116872,
+    "discussion_url": "https://news.ycombinator.com/item?id=44116872",
+    "description": "LLM codegen go brrr – Parallelization with Git worktrees and tmux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476623"
+  },
+  {
+    "title": "Long live American Science and Surplus (which needs your help)",
+    "url": "https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/",
+    "author": "thinkalone",
+    "date": "2025-05-29",
+    "score": 190,
+    "comments": 43,
+    "id": 44120507,
+    "discussion_url": "https://news.ycombinator.com/item?id=44120507",
+    "description": "Long live American Science and Surplus (which needs your help)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476453"
+  },
+  {
+    "title": "Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B",
+    "url": "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles",
+    "author": "ljosifov",
+    "date": "2025-05-28",
+    "score": 223,
+    "comments": 28,
+    "id": 44111673,
+    "discussion_url": "https://news.ycombinator.com/item?id=44111673",
+    "description": "Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476842"
+  },
+  {
+    "title": "Mathematical Fiction",
+    "url": "https://kasmana.people.charleston.edu/MATHFICT/default.html",
+    "author": "the-mitr",
+    "date": "2025-05-25",
+    "score": 76,
+    "comments": 21,
+    "id": 44087390,
+    "discussion_url": "https://news.ycombinator.com/item?id=44087390",
+    "description": "Mathematical Fiction",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476719"
+  },
+  {
+    "title": "Mullvad Leta",
+    "url": "https://leta.mullvad.net",
+    "author": "microflash",
+    "date": "2025-05-29",
+    "score": 315,
+    "comments": 158,
+    "id": 44116503,
+    "discussion_url": "https://news.ycombinator.com/item?id=44116503",
+    "description": "Mullvad Leta",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476759"
+  },
+  {
+    "title": "Negotiating PoE+ Power in the Pre‑Boot Environment",
+    "url": "https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution",
+    "author": "pietrushnic",
+    "date": "2025-05-28",
+    "score": 211,
+    "comments": 59,
+    "id": 44111609,
+    "discussion_url": "https://news.ycombinator.com/item?id=44111609",
+    "description": "Negotiating PoE+ Power in the Pre‑Boot Environment",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476821"
+  },
+  {
+    "title": "OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)",
+    "url": "https://github.com/UCSBarchlab/OpenTPU",
+    "author": "walterbell",
+    "date": "2025-05-28",
+    "score": 155,
+    "comments": 22,
+    "id": 44111452,
+    "discussion_url": "https://news.ycombinator.com/item?id=44111452",
+    "description": "OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476874"
+  },
+  {
+    "title": "Show HN: I rewrote my Mac Electron app in Rust",
+    "url": "https://desktopdocs.com/?v=2025",
+    "author": "katrinarodri",
+    "date": "2025-05-29",
+    "score": 426,
+    "comments": 285,
+    "id": 44118023,
+    "discussion_url": "https://news.ycombinator.com/item?id=44118023",
+    "description": "Show HN: I rewrote my Mac Electron app in Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476492"
+  },
+  {
+    "title": "Show HN: Lazy Tetris",
+    "url": "https://lazytetris.com/",
+    "author": "admtal",
+    "date": "2025-05-27",
+    "score": 389,
+    "comments": 143,
+    "id": 44103839,
+    "discussion_url": "https://news.ycombinator.com/item?id=44103839",
+    "description": "Show HN: Lazy Tetris",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476900"
+  },
+  {
+    "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
+    "url": "https://simonwillison.net/2025/May/27/llm-tools/",
+    "author": "simonw",
+    "date": "2025-05-28",
+    "score": 495,
+    "comments": 159,
+    "id": 44110584,
+    "discussion_url": "https://news.ycombinator.com/item?id=44110584",
+    "description": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476904"
+  },
+  {
+    "title": "Show HN: Tesseral – Open-Source Auth",
+    "url": "https://github.com/tesseral-labs/tesseral",
+    "author": "ucarion",
+    "date": "2025-05-29",
+    "score": 144,
+    "comments": 53,
+    "id": 44117059,
+    "discussion_url": "https://news.ycombinator.com/item?id=44117059",
+    "description": "Show HN: Tesseral – Open-Source Auth",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476613"
+  },
+  {
+    "title": "Square Theory",
+    "url": "https://aaronson.org/blog/square-theory",
+    "author": "aaaronson",
+    "date": "2025-05-28",
+    "score": 695,
+    "comments": 129,
+    "id": 44107942,
+    "discussion_url": "https://news.ycombinator.com/item?id=44107942",
+    "description": "Square Theory",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476895"
+  },
+  {
+    "title": "The Blowtorch Theory: A new model for structure formation in the universe",
+    "url": "https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model",
+    "author": "surprisetalk",
+    "date": "2025-05-28",
+    "score": 133,
+    "comments": 102,
+    "id": 44115973,
+    "discussion_url": "https://news.ycombinator.com/item?id=44115973",
+    "description": "The Blowtorch Theory: A new model for structure formation in the universe",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476751"
+  },
+  {
+    "title": "The Ingredients of a Productive Monorepo",
+    "url": "https://blog.swgillespie.me/posts/monorepo-ingredients/",
+    "author": "mifydev",
+    "date": "2025-05-25",
+    "score": 285,
+    "comments": 228,
+    "id": 44086917,
+    "discussion_url": "https://news.ycombinator.com/item?id=44086917",
+    "description": "The Ingredients of a Productive Monorepo",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476797"
+  },
+  {
+    "title": "The Who Cares Era",
+    "url": "https://dansinker.com/posts/2025-05-23-who-cares/",
+    "author": "NotInOurNames",
+    "date": "2025-05-28",
+    "score": 588,
+    "comments": 567,
+    "id": 44115620,
+    "discussion_url": "https://news.ycombinator.com/item?id=44115620",
+    "description": "The Who Cares Era",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476925"
+  },
+  {
+    "title": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
+    "url": "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/",
+    "author": "todsacerdoti",
+    "date": "2025-05-25",
+    "score": 123,
+    "comments": 57,
+    "id": 44083753,
+    "discussion_url": "https://news.ycombinator.com/item?id=44083753",
+    "description": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476891"
+  },
+  {
+    "title": "US Trade Court Finds Trump Tariffs Illegal",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court",
+    "author": "master_crab",
+    "date": "2025-05-29",
+    "score": 369,
+    "comments": 238,
+    "id": 44121732,
+    "discussion_url": "https://news.ycombinator.com/item?id=44121732",
+    "description": "US Trade Court Finds Trump Tariffs Illegal",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476603"
+  },
+  {
+    "title": "Visualize and debug Rust programs with a new lens",
+    "url": "https://firedbg.sea-ql.org/",
+    "author": "alex_hirner",
+    "date": "2025-05-25",
+    "score": 114,
+    "comments": 16,
+    "id": 44086429,
+    "discussion_url": "https://news.ycombinator.com/item?id=44086429",
+    "description": "Visualize and debug Rust programs with a new lens",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476593"
+  },
+  {
+    "title": "xAI to pay telegram $300M to integrate Grok into the chat app",
+    "url": "https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/",
+    "author": "freetonik",
+    "date": "2025-05-29",
+    "score": 267,
+    "comments": 346,
+    "id": 44116862,
+    "discussion_url": "https://news.ycombinator.com/item?id=44116862",
+    "description": "xAI to pay telegram $300M to integrate Grok into the chat app",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T13:21:05.476813"
+  }
+]

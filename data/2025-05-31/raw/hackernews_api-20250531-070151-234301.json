@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A visual exploration of vector embeddings",
+    "url": "http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html",
+    "author": "pamelafox",
+    "date": "2025-05-29",
+    "score": 167,
+    "comments": 38,
+    "id": 44120306,
+    "discussion_url": "https://news.ycombinator.com/item?id=44120306",
+    "description": "A visual exploration of vector embeddings",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934924"
+  },
+  {
+    "title": "Atomics and Concurrency",
+    "url": "https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html",
+    "author": "LAC-Tech",
+    "date": "2025-05-28",
+    "score": 115,
+    "comments": 33,
+    "id": 44113706,
+    "discussion_url": "https://news.ycombinator.com/item?id=44113706",
+    "description": "Atomics and Concurrency",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934786"
+  },
+  {
+    "title": "Beating Google's kernelCTF PoW using AVX512",
+    "url": "https://anemato.de/blog/kctf-vdf",
+    "author": "anematode",
+    "date": "2025-05-31",
+    "score": 196,
+    "comments": 57,
+    "id": 44137715,
+    "discussion_url": "https://news.ycombinator.com/item?id=44137715",
+    "description": "Beating Google's kernelCTF PoW using AVX512",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934492"
+  },
+  {
+    "title": "Bridged Indexes in OrioleDB: architecture, internals and everyday use?",
+    "url": "https://www.orioledb.com/blog/orioledb-bridged-indexes",
+    "author": "pella",
+    "date": "2025-05-30",
+    "score": 65,
+    "comments": 10,
+    "id": 44134728,
+    "discussion_url": "https://news.ycombinator.com/item?id=44134728",
+    "description": "Bridged Indexes in OrioleDB: architecture, internals and everyday use?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934819"
+  },
+  {
+    "title": "Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work",
+    "url": "https://capjs.js.org/",
+    "author": "tiagorangel",
+    "date": "2025-05-31",
+    "score": 94,
+    "comments": 72,
+    "id": 44137867,
+    "discussion_url": "https://news.ycombinator.com/item?id=44137867",
+    "description": "Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934694"
+  },
+  {
+    "title": "De Bruijn notation, and why it's useful",
+    "url": "https://blueberrywren.dev/blog/debruijn-explanation/",
+    "author": "blueberry87",
+    "date": "2025-05-31",
+    "score": 93,
+    "comments": 24,
+    "id": 44137439,
+    "discussion_url": "https://news.ycombinator.com/item?id=44137439",
+    "description": "De Bruijn notation, and why it's useful",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934646"
+  },
+  {
+    "title": "FLUX.1 Kontext",
+    "url": "https://bfl.ai/models/flux-kontext",
+    "author": "minimaxir",
+    "date": "2025-05-30",
+    "score": 488,
+    "comments": 113,
+    "id": 44128322,
+    "discussion_url": "https://news.ycombinator.com/item?id=44128322",
+    "description": "FLUX.1 Kontext",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934898"
+  },
+  {
+    "title": "Human coders are still better than LLMs",
+    "url": "https://antirez.com/news/153",
+    "author": "longwave",
+    "date": "2025-05-30",
+    "score": 578,
+    "comments": 687,
+    "id": 44127739,
+    "discussion_url": "https://news.ycombinator.com/item?id=44127739",
+    "description": "Human coders are still better than LLMs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934916"
+  },
+  {
+    "title": "Learning C3",
+    "url": "https://alloc.dev/2025/05/29/learning_c3",
+    "author": "lerno",
+    "date": "2025-05-29",
+    "score": 246,
+    "comments": 138,
+    "id": 44125966,
+    "discussion_url": "https://news.ycombinator.com/item?id=44125966",
+    "description": "Learning C3",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934903"
+  },
+  {
+    "title": "Making C and Python Talk to Each Other",
+    "url": "https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each",
+    "author": "muragekibicho",
+    "date": "2025-05-27",
+    "score": 146,
+    "comments": 87,
+    "id": 44105746,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105746",
+    "description": "Making C and Python Talk to Each Other",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934893"
+  },
+  {
+    "title": "Microsandbox: Virtual Machines that feel and perform like containers",
+    "url": "https://github.com/microsandbox/microsandbox",
+    "author": "makeboss",
+    "date": "2025-05-30",
+    "score": 188,
+    "comments": 98,
+    "id": 44135977,
+    "discussion_url": "https://news.ycombinator.com/item?id=44135977",
+    "description": "Microsandbox: Virtual Machines that feel and perform like containers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934503"
+  },
+  {
+    "title": "OpenBao Namespaces",
+    "url": "https://openbao.org/blog/namespaces-announcement/",
+    "author": "gslin",
+    "date": "2025-05-30",
+    "score": 78,
+    "comments": 26,
+    "id": 44132486,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132486",
+    "description": "OpenBao Namespaces",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934856"
+  },
+  {
+    "title": "Practical SDR: Getting started with software-defined radio",
+    "url": "https://nostarch.com/practical-sdr",
+    "author": "teleforce",
+    "date": "2025-05-30",
+    "score": 241,
+    "comments": 70,
+    "id": 44131984,
+    "discussion_url": "https://news.ycombinator.com/item?id=44131984",
+    "description": "Practical SDR: Getting started with software-defined radio",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934809"
+  },
+  {
+    "title": "Radio Astronomy Software Defined Radio (Rasdr)",
+    "url": "https://radio-astronomy.org/rasdr",
+    "author": "zeristor",
+    "date": "2025-05-30",
+    "score": 102,
+    "comments": 6,
+    "id": 44134364,
+    "discussion_url": "https://news.ycombinator.com/item?id=44134364",
+    "description": "Radio Astronomy Software Defined Radio (Rasdr)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934790"
+  },
+  {
+    "title": "Show HN: Donut Browser, a Browser Orchestrator",
+    "url": "https://donutbrowser.com/",
+    "author": "andrewzeno",
+    "date": "2025-05-30",
+    "score": 78,
+    "comments": 31,
+    "id": 44132752,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132752",
+    "description": "Show HN: Donut Browser, a Browser Orchestrator",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934884"
+  },
+  {
+    "title": "Show HN: I wrote a modern Command Line Handbook",
+    "url": "https://commandline.stribny.name/",
+    "author": "petr25102018",
+    "date": "2025-05-30",
+    "score": 412,
+    "comments": 107,
+    "id": 44126612,
+    "discussion_url": "https://news.ycombinator.com/item?id=44126612",
+    "description": "Show HN: I wrote a modern Command Line Handbook",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934838"
+  },
+  {
+    "title": "Show HN: MCP Server SDK in Bash",
+    "url": "https://github.com/muthuishere/mcp-server-bash-sdk",
+    "author": "muthuishere",
+    "date": "2025-05-30",
+    "score": 124,
+    "comments": 32,
+    "id": 44132823,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132823",
+    "description": "Show HN: MCP Server SDK in Bash",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934847"
+  },
+  {
+    "title": "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
+    "url": "https://github.com/sinisterMage/WPlusPlus",
+    "author": "sinisterMage",
+    "date": "2025-05-31",
+    "score": 72,
+    "comments": 42,
+    "id": 44136884,
+    "discussion_url": "https://news.ycombinator.com/item?id=44136884",
+    "description": "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934678"
+  },
+  {
+    "title": "Smallest Possible Files",
+    "url": "https://github.com/mathiasbynens/small",
+    "author": "yread",
+    "date": "2025-05-27",
+    "score": 77,
+    "comments": 38,
+    "id": 44106048,
+    "discussion_url": "https://news.ycombinator.com/item?id=44106048",
+    "description": "Smallest Possible Files",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934866"
+  },
+  {
+    "title": "Systems Correctness Practices at Amazon Web Services",
+    "url": "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/",
+    "author": "tanelpoder",
+    "date": "2025-05-30",
+    "score": 250,
+    "comments": 92,
+    "id": 44135638,
+    "discussion_url": "https://news.ycombinator.com/item?id=44135638",
+    "description": "Systems Correctness Practices at Amazon Web Services",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934661"
+  },
+  {
+    "title": "The 'white-collar bloodbath' is all part of the AI hype machine",
+    "url": "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap",
+    "author": "lwo32k",
+    "date": "2025-05-30",
+    "score": 106,
+    "comments": 186,
+    "id": 44136117,
+    "discussion_url": "https://news.ycombinator.com/item?id=44136117",
+    "description": "The 'white-collar bloodbath' is all part of the AI hype machine",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934742"
+  },
+  {
+    "title": "The Darwin Gödel Machine: AI that improves itself by rewriting its own code",
+    "url": "https://sakana.ai/dgm/",
+    "author": "birriel",
+    "date": "2025-05-30",
+    "score": 141,
+    "comments": 140,
+    "id": 44135369,
+    "discussion_url": "https://news.ycombinator.com/item?id=44135369",
+    "description": "The Darwin Gödel Machine: AI that improves itself by rewriting its own code",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934833"
+  },
+  {
+    "title": "The Surveilled Student (2021)",
+    "url": "https://www.chronicle.com/article/the-surveilled-student",
+    "author": "smlacy",
+    "date": "2025-05-31",
+    "score": 75,
+    "comments": 38,
+    "id": 44137187,
+    "discussion_url": "https://news.ycombinator.com/item?id=44137187",
+    "description": "The Surveilled Student (2021)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934875"
+  },
+  {
+    "title": "The radix 2^51 trick (2017)",
+    "url": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
+    "author": "blobcode",
+    "date": "2025-05-30",
+    "score": 371,
+    "comments": 70,
+    "id": 44132673,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132673",
+    "description": "The radix 2^51 trick (2017)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934765"
+  },
+  {
+    "title": "Tokenization for language modeling: BPE vs. Unigram Language Modeling (2020)",
+    "url": "https://ndingwall.github.io/blog/tokenization",
+    "author": "phewlink",
+    "date": "2025-05-30",
+    "score": 65,
+    "comments": 20,
+    "id": 44134290,
+    "discussion_url": "https://news.ycombinator.com/item?id=44134290",
+    "description": "Tokenization for language modeling: BPE vs. Unigram Language Modeling (2020)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934800"
+  },
+  {
+    "title": "Toxic Origins, Toxic Decisions: Biases in CEO Selection",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5270031",
+    "author": "marojejian",
+    "date": "2025-05-31",
+    "score": 78,
+    "comments": 49,
+    "id": 44137542,
+    "discussion_url": "https://news.ycombinator.com/item?id=44137542",
+    "description": "Toxic Origins, Toxic Decisions: Biases in CEO Selection",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934795"
+  },
+  {
+    "title": "Triangle splatting: radiance fields represented by triangles",
+    "url": "https://trianglesplatting.github.io/",
+    "author": "ath92",
+    "date": "2025-05-30",
+    "score": 148,
+    "comments": 67,
+    "id": 44132744,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132744",
+    "description": "Triangle splatting: radiance fields represented by triangles",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934829"
+  },
+  {
+    "title": "U.S. sanctions cloud provider 'Funnull' as top source of 'pig butchering' scams",
+    "url": "https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/",
+    "author": "todsacerdoti",
+    "date": "2025-05-30",
+    "score": 159,
+    "comments": 216,
+    "id": 44132075,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132075",
+    "description": "U.S. sanctions cloud provider 'Funnull' as top source of 'pig butchering' scams",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934870"
+  },
+  {
+    "title": "Vrs: Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia",
+    "url": "https://github.com/leoshimo/vrs",
+    "author": "surprisetalk",
+    "date": "2025-05-28",
+    "score": 89,
+    "comments": 3,
+    "id": 44108386,
+    "discussion_url": "https://news.ycombinator.com/item?id=44108386",
+    "description": "Vrs: Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934781"
+  },
+  {
+    "title": "Why is everybody knitting chickens?",
+    "url": "https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/",
+    "author": "mooreds",
+    "date": "2025-05-28",
+    "score": 163,
+    "comments": 117,
+    "id": 44108139,
+    "discussion_url": "https://news.ycombinator.com/item?id=44108139",
+    "description": "Why is everybody knitting chickens?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-31T07:01:51.934889"
+  }
+]

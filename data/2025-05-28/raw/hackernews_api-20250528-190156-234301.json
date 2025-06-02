@@ -1,0 +1,512 @@
+[
+  {
+    "title": "BGP handling bug causes widespread internet routing instability",
+    "url": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
+    "author": "robin_reala",
+    "date": "2025-05-27",
+    "score": 287,
+    "comments": 132,
+    "id": 44105796,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105796",
+    "description": "BGP handling bug causes widespread internet routing instability",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205335"
+  },
+  {
+    "title": "CSS Minecraft",
+    "url": "https://benjaminaster.com/css-minecraft/",
+    "author": "mudkipdev",
+    "date": "2025-05-27",
+    "score": 1125,
+    "comments": 129,
+    "id": 44100148,
+    "discussion_url": "https://news.ycombinator.com/item?id=44100148",
+    "description": "CSS Minecraft",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205485"
+  },
+  {
+    "title": "Clojure MCP",
+    "url": "https://github.com/bhauman/clojure-mcp",
+    "author": "todsacerdoti",
+    "date": "2025-05-25",
+    "score": 190,
+    "comments": 45,
+    "id": 44086062,
+    "discussion_url": "https://news.ycombinator.com/item?id=44086062",
+    "description": "Clojure MCP",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205527"
+  },
+  {
+    "title": "DuckLake is an integrated data lake and catalog format",
+    "url": "https://ducklake.select/",
+    "author": "kermatt",
+    "date": "2025-05-27",
+    "score": 236,
+    "comments": 91,
+    "id": 44106934,
+    "discussion_url": "https://news.ycombinator.com/item?id=44106934",
+    "description": "DuckLake is an integrated data lake and catalog format",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205443"
+  },
+  {
+    "title": "GitHub MCP exploited: Accessing private repositories via MCP",
+    "url": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
+    "author": "andy99",
+    "date": "2025-05-26",
+    "score": 483,
+    "comments": 288,
+    "id": 44097390,
+    "discussion_url": "https://news.ycombinator.com/item?id=44097390",
+    "description": "GitHub MCP exploited: Accessing private repositories via MCP",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205544"
+  },
+  {
+    "title": "How a hawk learned to use traffic signals to hunt more successfully",
+    "url": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting",
+    "author": "layer8",
+    "date": "2025-05-27",
+    "score": 384,
+    "comments": 117,
+    "id": 44105965,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105965",
+    "description": "How a hawk learned to use traffic signals to hunt more successfully",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205277"
+  },
+  {
+    "title": "I salvaged $6k of luxury items discarded by Duke students",
+    "url": "https://indyweek.com/culture/duke-students-dumpster-diving/",
+    "author": "drvladb",
+    "date": "2025-05-28",
+    "score": 241,
+    "comments": 282,
+    "id": 44108207,
+    "discussion_url": "https://news.ycombinator.com/item?id=44108207",
+    "description": "I salvaged $6k of luxury items discarded by Duke students",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205519"
+  },
+  {
+    "title": "Just make it scale: An Aurora DSQL story",
+    "url": "https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html",
+    "author": "cebert",
+    "date": "2025-05-27",
+    "score": 123,
+    "comments": 36,
+    "id": 44105878,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105878",
+    "description": "Just make it scale: An Aurora DSQL story",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205515"
+  },
+  {
+    "title": "Look ma, no bubbles designing a low-latency megakernel for Llama-1B",
+    "url": "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles",
+    "author": "ljosifov",
+    "date": "2025-05-28",
+    "score": 131,
+    "comments": 19,
+    "id": 44111673,
+    "discussion_url": "https://news.ycombinator.com/item?id=44111673",
+    "description": "Look ma, no bubbles designing a low-latency megakernel for Llama-1B",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205230"
+  },
+  {
+    "title": "LumoSQL",
+    "url": "https://lumosql.org/src/lumosql/doc/trunk/README.md",
+    "author": "smartmic",
+    "date": "2025-05-27",
+    "score": 228,
+    "comments": 82,
+    "id": 44105619,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105619",
+    "description": "LumoSQL",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205349"
+  },
+  {
+    "title": "Negotiating PoE+ Power in the Pre‑Boot Environment",
+    "url": "https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution",
+    "author": "pietrushnic",
+    "date": "2025-05-28",
+    "score": 135,
+    "comments": 27,
+    "id": 44111609,
+    "discussion_url": "https://news.ycombinator.com/item?id=44111609",
+    "description": "Negotiating PoE+ Power in the Pre‑Boot Environment",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205169"
+  },
+  {
+    "title": "Outcome-Based Reinforcement Learning to Predict the Future",
+    "url": "https://arxiv.org/abs/2505.17989",
+    "author": "bturtel",
+    "date": "2025-05-27",
+    "score": 91,
+    "comments": 14,
+    "id": 44106842,
+    "discussion_url": "https://news.ycombinator.com/item?id=44106842",
+    "description": "Outcome-Based Reinforcement Learning to Predict the Future",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205477"
+  },
+  {
+    "title": "Power Failure: The downfall of General Electric",
+    "url": "https://www.gwintrob.com/power-failure-review/",
+    "author": "gwintrob",
+    "date": "2025-05-27",
+    "score": 233,
+    "comments": 155,
+    "id": 44102034,
+    "discussion_url": "https://news.ycombinator.com/item?id=44102034",
+    "description": "Power Failure: The downfall of General Electric",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205548"
+  },
+  {
+    "title": "Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers",
+    "url": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/",
+    "author": "edwardjxli",
+    "date": "2025-05-28",
+    "score": 316,
+    "comments": 130,
+    "id": 44107655,
+    "discussion_url": "https://news.ycombinator.com/item?id=44107655",
+    "description": "Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205211"
+  },
+  {
+    "title": "Revisiting the algorithm that changed horse race betting (2023)",
+    "url": "https://actamachina.com/posts/annotated-benter-paper",
+    "author": "areoform",
+    "date": "2025-05-27",
+    "score": 123,
+    "comments": 54,
+    "id": 44105470,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105470",
+    "description": "Revisiting the algorithm that changed horse race betting (2023)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205418"
+  },
+  {
+    "title": "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
+    "url": "https://nathan.rs/posts/gpu-shader-programming/",
+    "author": "nathan-barry",
+    "date": "2025-05-28",
+    "score": 126,
+    "comments": 33,
+    "id": 44109257,
+    "discussion_url": "https://news.ycombinator.com/item?id=44109257",
+    "description": "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205300"
+  },
+  {
+    "title": "Semicolons bring the drama; that's why I love them",
+    "url": "https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02",
+    "author": "bishopsmother",
+    "date": "2025-05-25",
+    "score": 90,
+    "comments": 84,
+    "id": 44081383,
+    "discussion_url": "https://news.ycombinator.com/item?id=44081383",
+    "description": "Semicolons bring the drama; that's why I love them",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205378"
+  },
+  {
+    "title": "Show HN: Lazy Tetris",
+    "url": "https://lazytetris.com/",
+    "author": "admtal",
+    "date": "2025-05-27",
+    "score": 341,
+    "comments": 137,
+    "id": 44103839,
+    "discussion_url": "https://news.ycombinator.com/item?id=44103839",
+    "description": "Show HN: Lazy Tetris",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205392"
+  },
+  {
+    "title": "Show HN: Malai – securely share local TCP services (database/SSH) with others",
+    "url": "https://malai.sh/hello-tcp/",
+    "author": "amitu",
+    "date": "2025-05-28",
+    "score": 106,
+    "comments": 44,
+    "id": 44107393,
+    "discussion_url": "https://news.ycombinator.com/item?id=44107393",
+    "description": "Show HN: Malai – securely share local TCP services (database/SSH) with others",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205451"
+  },
+  {
+    "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
+    "url": "https://simonwillison.net/2025/May/27/llm-tools/",
+    "author": "simonw",
+    "date": "2025-05-28",
+    "score": 343,
+    "comments": 121,
+    "id": 44110584,
+    "discussion_url": "https://news.ycombinator.com/item?id=44110584",
+    "description": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205160"
+  },
+  {
+    "title": "Show HN: PgDog – Shard Postgres without extensions",
+    "url": "https://github.com/pgdogdev/pgdog",
+    "author": "levkk",
+    "date": "2025-05-27",
+    "score": 283,
+    "comments": 78,
+    "id": 44099187,
+    "discussion_url": "https://news.ycombinator.com/item?id=44099187",
+    "description": "Show HN: PgDog – Shard Postgres without extensions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205506"
+  },
+  {
+    "title": "Space Selfie",
+    "url": "https://space.crunchlabs.com/",
+    "author": "rossdavidh",
+    "date": "2025-05-25",
+    "score": 125,
+    "comments": 28,
+    "id": 44084892,
+    "discussion_url": "https://news.ycombinator.com/item?id=44084892",
+    "description": "Space Selfie",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205284"
+  },
+  {
+    "title": "Square Theory",
+    "url": "https://aaronson.org/blog/square-theory",
+    "author": "aaaronson",
+    "date": "2025-05-28",
+    "score": 550,
+    "comments": 112,
+    "id": 44107942,
+    "discussion_url": "https://news.ycombinator.com/item?id=44107942",
+    "description": "Square Theory",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205195"
+  },
+  {
+    "title": "The Art of Fugue – Contrapunctus I (2021)",
+    "url": "https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/",
+    "author": "xeonmc",
+    "date": "2025-05-27",
+    "score": 120,
+    "comments": 52,
+    "id": 44106764,
+    "discussion_url": "https://news.ycombinator.com/item?id=44106764",
+    "description": "The Art of Fugue – Contrapunctus I (2021)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205435"
+  },
+  {
+    "title": "The Hobby Computer Culture",
+    "url": "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/",
+    "author": "cfmcdonald",
+    "date": "2025-05-25",
+    "score": 139,
+    "comments": 63,
+    "id": 44081395,
+    "discussion_url": "https://news.ycombinator.com/item?id=44081395",
+    "description": "The Hobby Computer Culture",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205328"
+  },
+  {
+    "title": "The Ingredients of a Productive Monorepo",
+    "url": "https://blog.swgillespie.me/posts/monorepo-ingredients/",
+    "author": "mifydev",
+    "date": "2025-05-25",
+    "score": 130,
+    "comments": 55,
+    "id": 44086917,
+    "discussion_url": "https://news.ycombinator.com/item?id=44086917",
+    "description": "The Ingredients of a Productive Monorepo",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205150"
+  },
+  {
+    "title": "The Level Design Book",
+    "url": "https://book.leveldesignbook.com",
+    "author": "keiferski",
+    "date": "2025-05-25",
+    "score": 168,
+    "comments": 23,
+    "id": 44086973,
+    "discussion_url": "https://news.ycombinator.com/item?id=44086973",
+    "description": "The Level Design Book",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205186"
+  },
+  {
+    "title": "The Myth of Developer Obsolescence",
+    "url": "https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/",
+    "author": "cat-whisperer",
+    "date": "2025-05-27",
+    "score": 329,
+    "comments": 355,
+    "id": 44105592,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105592",
+    "description": "The Myth of Developer Obsolescence",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205523"
+  },
+  {
+    "title": "Why the original Macintosh had a screen resolution of 512×324",
+    "url": "https://512pixels.net/2025/05/original-macintosh-resolution/",
+    "author": "ingve",
+    "date": "2025-05-28",
+    "score": 154,
+    "comments": 109,
+    "id": 44110219,
+    "discussion_url": "https://news.ycombinator.com/item?id=44110219",
+    "description": "Why the original Macintosh had a screen resolution of 512×324",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205385"
+  },
+  {
+    "title": "Worlds first petahertz transistor at ambient conditions",
+    "url": "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions",
+    "author": "ChuckMcM",
+    "date": "2025-05-25",
+    "score": 110,
+    "comments": 71,
+    "id": 44083474,
+    "discussion_url": "https://news.ycombinator.com/item?id=44083474",
+    "description": "Worlds first petahertz transistor at ambient conditions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-28T19:01:56.205468"
+  }
+]

@@ -1,14 +1,23 @@
-import logging
-from .base import BaseScraper
-from typing import List, Dict, Optional
 import json
+import logging
 import os
+import re
 from datetime import datetime
+from typing import Dict, List, Optional
+
 from bs4 import BeautifulSoup
 
+from .base import BaseScraper
+
+logger = logging.getLogger(__name__)
+
+# Set up logging
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+
+
 def normalize_whitespace(text):
-    import re
-    return re.sub(r'\s+', ' ', text).strip() if text else ''
+    return re.sub(r"\s+", " ", text).strip() if text else ""
+
 
 class HackerNoonScraper(BaseScraper):
     SITE_NAME = "hackernoon"
@@ -16,23 +25,109 @@ class HackerNoonScraper(BaseScraper):
     SELECTOR = "article.story-card"
     main_selector = "script#__NEXT_DATA__"  # This contains the JSON data
 
-    def __init__(self):
-        super().__init__()
-        self.logger = logging.getLogger(__name__)
+    def __init__(self, test_mode=False, test_output_dir=None):
+        super().__init__(test_mode=test_mode, test_output_dir=test_output_dir)
+
+    def _extract_data(self, items, fields=None):
+        """Extract data from HackerNoon items.
+
+        This method is implemented to override the base class method, but
+        in practice we use the custom scrape() implementation for HackerNoon
+        since it requires special JSON handling.
+        """
+        data = []
+
+        try:
+            # Look for the script tag with JSON data
+            for item in items:
+                if item.name == "script" and "id" in item.attrs and item["id"] == "__NEXT_DATA__":
+                    # Parse the JSON data
+                    json_data = json.loads(item.string)
+
+                    # Navigate to the articles data
+                    articles = json_data.get("props", {}).get("pageProps", {}).get("stories", [])
+
+                    if not articles:
+                        self.logger.warning("No articles found in JSON data")
+                        continue
+
+                    # Process all articles
+                    for article in articles:
+                        # Extract article data
+                        title = article.get("title", "").strip()
+                        author = article.get("profile", {}).get("displayName", "").strip()
+                        read_time = article.get("readTime", "")
+
+                        # Parse date with error handling
+                        date = ""
+                        try:
+                            date = datetime.fromtimestamp(article.get("publishedAt", 0)).strftime("%Y-%m-%d")
+                        except Exception as e:
+                            self.logger.warning(f"Failed to parse date: {e}")
+                            date = str(article.get("publishedAt", ""))
+
+                        # Get tags
+                        tags = [tag.strip() for tag in article.get("tags", [])]
+                        url = f"https://hackernoon.com/{article.get('slug', '')}"
+
+                        data.append({"title": title, "author": author, "read_time": read_time, "date": date, "tags": ", ".join(tags), "url": url})
+        except Exception as e:
+            self.logger.error(f"Error extracting data from HackerNoon: {str(e)}")
+
+        return data
+
+    def parse_item(self, item: BeautifulSoup) -> Optional[List[Dict[str, str]]]:
+        """Parse a HackerNoon article item.
+
+        Note: This method now returns a list of articles, not just one.
+        """
+        try:
+            # Extract the JSON data from the script tag
+            json_data = json.loads(item.string)
+
+            # Navigate to the articles data
+            articles = json_data.get("props", {}).get("pageProps", {}).get("stories", [])
+
+            if not articles:
+                self.logger.warning("No articles found in JSON data")
+                return None
+
+            result = []
+            # Process all articles
+            for article in articles:
+                # Extract article data
+                title = article.get("title", "").strip()
+                author = article.get("profile", {}).get("displayName", "").strip()
+                read_time = article.get("readTime", "")
+                date = datetime.fromtimestamp(article.get("publishedAt", 0)).strftime("%Y-%m-%d")
+                tags = [tag.strip() for tag in article.get("tags", [])]
+                url = f"https://hackernoon.com/{article.get('slug', '')}"
+
+                result.append({"title": title, "author": author, "read_time": read_time, "date": date, "tags": ", ".join(tags), "url": url})
+
+            return result
+
+        except (json.JSONDecodeError, KeyError, IndexError) as e:
+            self.logger.error(f"Error parsing article: {str(e)}")
+            return None
 
     def get_items(self) -> List[BeautifulSoup]:
+        """Get all article items from the page."""
         try:
+            # Find the script tag containing the JSON data
             script_tag = self.soup.select_one(self.main_selector)
             if not script_tag:
                 self.logger.error("Could not find JSON data script tag")
                 return []
+
             return [script_tag]
+
         except Exception as e:
             self.logger.error(f"Error getting items: {str(e)}")
             return []
 
     def scrape(self):
-        """Custom scrape method for HackerNoon to handle JSON-based articles and log JSON structure for debugging."""
+        """Custom scrape method for HackerNoon to handle JSON-based articles."""
         try:
             html = self._get_page(self.url)
             if not html:
@@ -43,45 +138,222 @@ class HackerNoonScraper(BaseScraper):
             if not items:
                 self.logger.error("No items found in HackerNoon JSON data.")
                 return
+            # Parse the JSON data from the script tag
             try:
                 json_data = json.loads(items[0].string)
-                # Log the top-level keys for debugging
-                self.logger.error(f"HackerNoon JSON top-level keys: {list(json_data.keys())}")
-                # Try to log deeper keys if possible
-                props = json_data.get('props', {})
-                self.logger.error(f"props keys: {list(props.keys())}")
-                pageProps = props.get('pageProps', {})
-                self.logger.error(f"pageProps keys: {list(pageProps.keys())}")
-                # Try to extract stories as before
-                articles = pageProps.get('stories', [])
+
+                # Debug: Log the top-level JSON structure
+                self.logger.info(f"HackerNoon JSON top-level keys: {list(json_data.keys())}")
+
+                # Check for different possible paths to articles
+                props = json_data.get("props", {})
+                self.logger.info(f"Props keys: {list(props.keys())}")
+
+                page_props = props.get("pageProps", {})
+                self.logger.info(f"PageProps keys: {list(page_props.keys())}")
+
+                # Based on the logs, we can see the structure has 'data' key in pageProps
+                # Let's inspect its structure
+                data = page_props.get("data", {})
+                if data:
+                    self.logger.info(f"Data keys: {list(data.keys())}")
+
+                # Try different paths to find articles
+                articles = []
+
+                # NEW Path: Check if data contains stories or a relevant articles list
+                if isinstance(data, dict):
+                    # Check if there's a top stories or featured stories key
+                    for possible_key in ["topStories", "featuredStories", "stories", "articles", "latestStories"]:
+                        if possible_key in data:
+                            possible_articles = data.get(possible_key, [])
+                            if possible_articles and len(possible_articles) > 0:
+                                self.logger.info(f"Found {len(possible_articles)} articles in pageProps.data.{possible_key}")
+                                articles = possible_articles
+                                break
+
+                    # If still no articles, try looking at other keys in data
+                    article_lists = []
+                    for key, value in data.items():
+                        if isinstance(value, list) and len(value) > 0 and isinstance(value[0], dict):
+                            # This might be a list of articles - log it for inspection
+                            self.logger.info(f"Potential articles in pageProps.data.{key}: {len(value)} items")
+                            # Check if items look like articles (have title, etc.)
+                            sample = value[0]
+                            if any(k in sample for k in ["title", "headline", "slug", "url"]):
+                                self.logger.info(f"Found likely articles in pageProps.data.{key}")
+                                self.logger.info(f"Sample keys for {key}: {list(sample.keys())}")
+                                article_lists.append(value)
+
+                    # Combine all article lists if found
+                    if article_lists:
+                        self.logger.info(f"Combining {len(article_lists)} article lists")
+                        all_articles = []
+                        for article_list in article_lists:
+                            all_articles.extend(article_list)
+                        articles = all_articles
+
+                # The original paths as fallback
+                if not articles:
+                    # Path 1: Original path
+                    stories = page_props.get("stories", [])
+                    if stories:
+                        self.logger.info(f"Found {len(stories)} stories in pageProps.stories")
+                        articles = stories
+
+                    # Path 2: Try homepage structure
+                    home_articles = page_props.get("homepage", {}).get("articles", [])
+                    if not articles and home_articles:
+                        self.logger.info(f"Found {len(home_articles)} articles in pageProps.homepage.articles")
+                        articles = home_articles
+
+                    # Path 3: Try mainFeed structure
+                    main_feed = page_props.get("mainFeed", [])
+                    if not articles and main_feed:
+                        self.logger.info(f"Found {len(main_feed)} articles in pageProps.mainFeed")
+                        articles = main_feed
+
+                if not articles:
+                    self.logger.error("Could not find articles in any expected JSON path")
             except Exception as e:
                 self.logger.error(f"Error loading JSON from script tag: {str(e)}")
                 return
             data = []
-            for article in articles:
+            # Log a sample article to debug structure
+            if articles and len(articles) > 0:
+                self.logger.info(f"Sample article keys: {list(articles[0].keys())}")
+
+            for article in articles[:20]:  # Limit to 20 articles to prevent overly large files
                 try:
-                    title = article.get('title', '').strip()
-                    author = article.get('profile', {}).get('displayName', '').strip()
-                    read_time = article.get('readTime', '')
-                    date = datetime.fromtimestamp(article.get('publishedAt', 0)).strftime('%Y-%m-%d')
-                    tags = [tag.strip() for tag in article.get('tags', [])]
-                    url = f"https://hackernoon.com/{article.get('slug', '')}"
-                    data.append({
-                        'title': title,
-                        'author': author,
-                        'read_time': read_time,
-                        'date': date,
-                        'tags': ', '.join(tags),
-                        'url': url
-                    })
+                    # Attempt to extract title with fallbacks
+                    title = ""
+                    if "title" in article:
+                        title = article.get("title", "").strip()
+                    elif "headline" in article:
+                        title = article.get("headline", "").strip()
+                    elif "name" in article:
+                        title = article.get("name", "").strip()
+
+                    # Author extraction with multiple paths
+                    author = ""
+                    if "profile" in article and isinstance(article.get("profile"), dict):
+                        author = article.get("profile", {}).get("displayName", "").strip()
+                    elif "author" in article and isinstance(article.get("author"), dict):
+                        author = article.get("author", {}).get("name", "").strip()
+                    elif "user" in article and isinstance(article.get("user"), dict):
+                        author = article.get("user", {}).get("name", "").strip()
+                    elif "authorName" in article:
+                        author = article.get("authorName", "").strip()
+
+                    # Read time with fallbacks
+                    read_time = ""
+                    if "readTime" in article:
+                        read_time = article.get("readTime", "")
+                    elif "readTimeMinutes" in article:
+                        read_time = f"{article.get('readTimeMinutes', '')} min"
+                    elif "minutesToRead" in article:
+                        read_time = f"{article.get('minutesToRead', '')} min"
+
+                    # Date handling with fallbacks
+                    date = ""
+                    if "publishedAt" in article:
+                        publish_date = article.get("publishedAt", 0)
+                        try:
+                            # Handle potential string timestamps
+                            if isinstance(publish_date, str):
+                                # Try to convert from ISO format or parse timestamp
+                                try:
+                                    # Try parsing as ISO date
+                                    date = datetime.fromisoformat(publish_date.replace("Z", "+00:00")).strftime("%Y-%m-%d")
+                                except ValueError:
+                                    # Try parsing as timestamp string
+                                    date = datetime.fromtimestamp(float(publish_date)).strftime("%Y-%m-%d")
+                            else:
+                                date = datetime.fromtimestamp(publish_date).strftime("%Y-%m-%d")
+                        except Exception as e:
+                            self.logger.warning(f"Failed to parse publishedAt date: {e}")
+                            date = str(publish_date)
+                    elif "dateAdded" in article:
+                        try:
+                            date_added = article.get("dateAdded", 0)
+                            if isinstance(date_added, str):
+                                try:
+                                    date = datetime.fromisoformat(date_added.replace("Z", "+00:00")).strftime("%Y-%m-%d")
+                                except ValueError:
+                                    date = datetime.fromtimestamp(float(date_added)).strftime("%Y-%m-%d")
+                            else:
+                                date = datetime.fromtimestamp(date_added).strftime("%Y-%m-%d")
+                        except Exception as e:
+                            self.logger.warning(f"Failed to parse dateAdded: {e}")
+                            date = str(article.get("dateAdded", ""))
+                    elif "publishDate" in article:
+                        try:
+                            publish_date = article.get("publishDate", 0)
+                            if isinstance(publish_date, str):
+                                try:
+                                    date = datetime.fromisoformat(publish_date.replace("Z", "+00:00")).strftime("%Y-%m-%d")
+                                except ValueError:
+                                    date = datetime.fromtimestamp(float(publish_date)).strftime("%Y-%m-%d")
+                            else:
+                                date = datetime.fromtimestamp(publish_date).strftime("%Y-%m-%d")
+                        except Exception as e:
+                            self.logger.warning(f"Failed to parse publishDate: {e}")
+                            date = str(article.get("publishDate", ""))
+                    elif "date" in article:
+                        date_val = article.get("date", "")
+                        if isinstance(date_val, (int, float)):
+                            try:
+                                date = datetime.fromtimestamp(date_val).strftime("%Y-%m-%d")
+                            except Exception as e:
+                                self.logger.warning(f"Failed to parse date: {e}")
+                                date = str(date_val)
+                        else:
+                            date = str(date_val)
+
+                    # Tags with fallbacks
+                    tags = []
+                    if "tags" in article and isinstance(article.get("tags"), list):
+                        tags = [tag.strip() for tag in article.get("tags", [])]
+                    elif "categories" in article and isinstance(article.get("categories"), list):
+                        tags = [cat.strip() for cat in article.get("categories", [])]
+
+                    # URL with fallbacks
+                    url = ""
+                    if "slug" in article:
+                        url = f"https://hackernoon.com/{article.get('slug', '')}"
+                    elif "canonical" in article:
+                        url = article.get("canonical", "")
+                    elif "url" in article:
+                        url = article.get("url", "")
+                    elif "href" in article:
+                        url = article.get("href", "")
+
+                    # Add absolute URL if relative
+                    if url and not url.startswith("http"):
+                        url = f"https://hackernoon.com{url if url.startswith('/') else '/' + url}"
+
+                    data.append({"title": title, "author": author, "read_time": read_time, "date": date, "tags": ", ".join(tags), "url": url})
                 except Exception as e:
                     self.logger.error(f"Error parsing article: {str(e)}")
             if not data:
                 self.logger.error("No articles extracted from HackerNoon JSON data.")
                 return
-            timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
-            file_path = os.path.join(self.project_root, "data", f"{self.site_name}-{timestamp}.md")
+            now = datetime.now()
+            date_folder = now.strftime("%Y-%m-%d")
+            timestamp = now.strftime("%Y%m%d-%H%M%S")
+
+            # Create date folder if it doesn't exist
+            folder_path = os.path.join(self.project_root, "data", date_folder)
+            os.makedirs(folder_path, exist_ok=True)
+
+            file_path = os.path.join(folder_path, f"{self.site_name}-{timestamp}.md")
             self._save_data(data, file_path)
             self.logger.info(f"Saved {len(data)} HackerNoon articles to {file_path}")
         except Exception as e:
             self.logger.error(f"Error scraping HackerNoon: {str(e)}")
+
+
+# When run directly, execute the scraper
+if __name__ == "__main__":
+    scraper = HackerNoonScraper(test_mode=False)
+    scraper.scrape()

@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A thought on JavaScript \"proof of work\" anti-scraper systems",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles",
+    "author": "zdw",
+    "date": "2025-05-26",
+    "score": 120,
+    "comments": 152,
+    "id": 44094109,
+    "discussion_url": "https://news.ycombinator.com/item?id=44094109",
+    "description": "A thought on JavaScript \"proof of work\" anti-scraper systems",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980610"
+  },
+  {
+    "title": "AI: Accelerated Incompetence",
+    "url": "https://www.slater.dev/accelerated-incompetence/",
+    "author": "stevekrouse",
+    "date": "2025-05-28",
+    "score": 254,
+    "comments": 237,
+    "id": 44114631,
+    "discussion_url": "https://news.ycombinator.com/item?id=44114631",
+    "description": "AI: Accelerated Incompetence",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980723"
+  },
+  {
+    "title": "As a developer, my most important tools are a pen and a notebook",
+    "url": "https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/",
+    "author": "ingve",
+    "date": "2025-05-28",
+    "score": 229,
+    "comments": 183,
+    "id": 44113210,
+    "discussion_url": "https://news.ycombinator.com/item?id=44113210",
+    "description": "As a developer, my most important tools are a pen and a notebook",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980484"
+  },
+  {
+    "title": "BGP handling bug causes widespread internet routing instability",
+    "url": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
+    "author": "robin_reala",
+    "date": "2025-05-27",
+    "score": 321,
+    "comments": 153,
+    "id": 44105796,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105796",
+    "description": "BGP handling bug causes widespread internet routing instability",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980764"
+  },
+  {
+    "title": "CSS Minecraft",
+    "url": "https://benjaminaster.com/css-minecraft/",
+    "author": "mudkipdev",
+    "date": "2025-05-27",
+    "score": 1149,
+    "comments": 132,
+    "id": 44100148,
+    "discussion_url": "https://news.ycombinator.com/item?id=44100148",
+    "description": "CSS Minecraft",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980806"
+  },
+  {
+    "title": "De-anonymization attacks against the privacy coin XMR",
+    "url": "https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/",
+    "author": "DbigCOX",
+    "date": "2025-05-29",
+    "score": 102,
+    "comments": 48,
+    "id": 44116236,
+    "discussion_url": "https://news.ycombinator.com/item?id=44116236",
+    "description": "De-anonymization attacks against the privacy coin XMR",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980413"
+  },
+  {
+    "title": "Getting a Cease and Desist from Waffle House",
+    "url": "https://www.jack.bio/blog/wafflehouse",
+    "author": "lafond",
+    "date": "2025-05-29",
+    "score": 114,
+    "comments": 68,
+    "id": 44117302,
+    "discussion_url": "https://news.ycombinator.com/item?id=44117302",
+    "description": "Getting a Cease and Desist from Waffle House",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980446"
+  },
+  {
+    "title": "How a hawk learned to use traffic signals to hunt more successfully",
+    "url": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting",
+    "author": "layer8",
+    "date": "2025-05-27",
+    "score": 440,
+    "comments": 128,
+    "id": 44105965,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105965",
+    "description": "How a hawk learned to use traffic signals to hunt more successfully",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980683"
+  },
+  {
+    "title": "Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B",
+    "url": "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles",
+    "author": "ljosifov",
+    "date": "2025-05-28",
+    "score": 209,
+    "comments": 28,
+    "id": 44111673,
+    "discussion_url": "https://news.ycombinator.com/item?id=44111673",
+    "description": "Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980602"
+  },
+  {
+    "title": "LumoSQL",
+    "url": "https://lumosql.org/src/lumosql/doc/trunk/README.md",
+    "author": "smartmic",
+    "date": "2025-05-27",
+    "score": 248,
+    "comments": 85,
+    "id": 44105619,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105619",
+    "description": "LumoSQL",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980749"
+  },
+  {
+    "title": "Microsoft is starting to open Windows Update up to any third-party app",
+    "url": "https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform",
+    "author": "Tomte",
+    "date": "2025-05-28",
+    "score": 86,
+    "comments": 102,
+    "id": 44114621,
+    "discussion_url": "https://news.ycombinator.com/item?id=44114621",
+    "description": "Microsoft is starting to open Windows Update up to any third-party app",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980740"
+  },
+  {
+    "title": "Mullvad Leta",
+    "url": "https://leta.mullvad.net",
+    "author": "microflash",
+    "date": "2025-05-29",
+    "score": 252,
+    "comments": 124,
+    "id": 44116503,
+    "discussion_url": "https://news.ycombinator.com/item?id=44116503",
+    "description": "Mullvad Leta",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980618"
+  },
+  {
+    "title": "Mustard Watches (1990)",
+    "url": "https://girard.perso.math.cnrs.fr/mustard/article.html",
+    "author": "fscaramuzza",
+    "date": "2025-05-28",
+    "score": 91,
+    "comments": 30,
+    "id": 44110931,
+    "discussion_url": "https://news.ycombinator.com/item?id=44110931",
+    "description": "Mustard Watches (1990)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980757"
+  },
+  {
+    "title": "Negotiating PoE+ Power in the Pre‑Boot Environment",
+    "url": "https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution",
+    "author": "pietrushnic",
+    "date": "2025-05-28",
+    "score": 201,
+    "comments": 55,
+    "id": 44111609,
+    "discussion_url": "https://news.ycombinator.com/item?id=44111609",
+    "description": "Negotiating PoE+ Power in the Pre‑Boot Environment",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980645"
+  },
+  {
+    "title": "OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)",
+    "url": "https://github.com/UCSBarchlab/OpenTPU",
+    "author": "walterbell",
+    "date": "2025-05-28",
+    "score": 145,
+    "comments": 22,
+    "id": 44111452,
+    "discussion_url": "https://news.ycombinator.com/item?id=44111452",
+    "description": "OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980669"
+  },
+  {
+    "title": "Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers",
+    "url": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/",
+    "author": "edwardjxli",
+    "date": "2025-05-28",
+    "score": 372,
+    "comments": 146,
+    "id": 44107655,
+    "discussion_url": "https://news.ycombinator.com/item?id=44107655",
+    "description": "Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980702"
+  },
+  {
+    "title": "Revisiting the algorithm that changed horse race betting (2023)",
+    "url": "https://actamachina.com/posts/annotated-benter-paper",
+    "author": "areoform",
+    "date": "2025-05-27",
+    "score": 134,
+    "comments": 59,
+    "id": 44105470,
+    "discussion_url": "https://news.ycombinator.com/item?id=44105470",
+    "description": "Revisiting the algorithm that changed horse race betting (2023)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980790"
+  },
+  {
+    "title": "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
+    "url": "https://nathan.rs/posts/gpu-shader-programming/",
+    "author": "nathan-barry",
+    "date": "2025-05-28",
+    "score": 140,
+    "comments": 38,
+    "id": 44109257,
+    "discussion_url": "https://news.ycombinator.com/item?id=44109257",
+    "description": "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980772"
+  },
+  {
+    "title": "Show HN: I rewrote my Mac Electron app in Rust",
+    "url": "https://desktopdocs.com/?v=2025",
+    "author": "katrinarodri",
+    "date": "2025-05-29",
+    "score": 84,
+    "comments": 70,
+    "id": 44118023,
+    "discussion_url": "https://news.ycombinator.com/item?id=44118023",
+    "description": "Show HN: I rewrote my Mac Electron app in Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980359"
+  },
+  {
+    "title": "Show HN: Lazy Tetris",
+    "url": "https://lazytetris.com/",
+    "author": "admtal",
+    "date": "2025-05-27",
+    "score": 382,
+    "comments": 143,
+    "id": 44103839,
+    "discussion_url": "https://news.ycombinator.com/item?id=44103839",
+    "description": "Show HN: Lazy Tetris",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980786"
+  },
+  {
+    "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
+    "url": "https://simonwillison.net/2025/May/27/llm-tools/",
+    "author": "simonw",
+    "date": "2025-05-28",
+    "score": 457,
+    "comments": 152,
+    "id": 44110584,
+    "discussion_url": "https://news.ycombinator.com/item?id=44110584",
+    "description": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980544"
+  },
+  {
+    "title": "Space Selfie",
+    "url": "https://space.crunchlabs.com/",
+    "author": "rossdavidh",
+    "date": "2025-05-25",
+    "score": 150,
+    "comments": 34,
+    "id": 44084892,
+    "discussion_url": "https://news.ycombinator.com/item?id=44084892",
+    "description": "Space Selfie",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980778"
+  },
+  {
+    "title": "Square Theory",
+    "url": "https://aaronson.org/blog/square-theory",
+    "author": "aaaronson",
+    "date": "2025-05-28",
+    "score": 664,
+    "comments": 125,
+    "id": 44107942,
+    "discussion_url": "https://news.ycombinator.com/item?id=44107942",
+    "description": "Square Theory",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980553"
+  },
+  {
+    "title": "The Art of Fugue – Contrapunctus I (2021)",
+    "url": "https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/",
+    "author": "xeonmc",
+    "date": "2025-05-27",
+    "score": 129,
+    "comments": 60,
+    "id": 44106764,
+    "discussion_url": "https://news.ycombinator.com/item?id=44106764",
+    "description": "The Art of Fugue – Contrapunctus I (2021)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980798"
+  },
+  {
+    "title": "The Hobby Computer Culture",
+    "url": "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/",
+    "author": "cfmcdonald",
+    "date": "2025-05-25",
+    "score": 173,
+    "comments": 93,
+    "id": 44081395,
+    "discussion_url": "https://news.ycombinator.com/item?id=44081395",
+    "description": "The Hobby Computer Culture",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980730"
+  },
+  {
+    "title": "The Ingredients of a Productive Monorepo",
+    "url": "https://blog.swgillespie.me/posts/monorepo-ingredients/",
+    "author": "mifydev",
+    "date": "2025-05-25",
+    "score": 258,
+    "comments": 179,
+    "id": 44086917,
+    "discussion_url": "https://news.ycombinator.com/item?id=44086917",
+    "description": "The Ingredients of a Productive Monorepo",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980570"
+  },
+  {
+    "title": "The Level Design Book",
+    "url": "https://book.leveldesignbook.com",
+    "author": "keiferski",
+    "date": "2025-05-25",
+    "score": 263,
+    "comments": 49,
+    "id": 44086973,
+    "discussion_url": "https://news.ycombinator.com/item?id=44086973",
+    "description": "The Level Design Book",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980578"
+  },
+  {
+    "title": "The Who Cares Era",
+    "url": "https://dansinker.com/posts/2025-05-23-who-cares/",
+    "author": "NotInOurNames",
+    "date": "2025-05-28",
+    "score": 435,
+    "comments": 395,
+    "id": 44115620,
+    "discussion_url": "https://news.ycombinator.com/item?id=44115620",
+    "description": "The Who Cares Era",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980586"
+  },
+  {
+    "title": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
+    "url": "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/",
+    "author": "todsacerdoti",
+    "date": "2025-05-25",
+    "score": 115,
+    "comments": 51,
+    "id": 44083753,
+    "discussion_url": "https://news.ycombinator.com/item?id=44083753",
+    "description": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980716"
+  },
+  {
+    "title": "xAI to pay telegram $300M to integrate Grok into the chat app",
+    "url": "https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/",
+    "author": "freetonik",
+    "date": "2025-05-29",
+    "score": 123,
+    "comments": 157,
+    "id": 44116862,
+    "discussion_url": "https://news.ycombinator.com/item?id=44116862",
+    "description": "xAI to pay telegram $300M to integrate Grok into the chat app",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-05-29T04:02:03.980536"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A break from programming languages",
+    "author": "",
+    "score": "84",
+    "comments": "0",
+    "tags": "person, plt",
+    "url": "https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "A poor man’s types",
+    "author": "",
+    "score": "48",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://blog.snork.dev/posts/a-poor-man-s-types.html",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Beating the kCTF PoW with AVX512IFMA for $51k",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "performance",
+    "url": "https://anemato.de/blog/kctf-vdf",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "C++ to Rust Phrasebook",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "c++, rust",
+    "url": "https://cel.cs.brown.edu/crp/title-page.html",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Decomplexification",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "devops",
+    "url": "https://daniel.haxx.se/blog/2025/05/29/decomplexification/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "FOSS tools for infrastructure testing",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "devops",
+    "url": "https://bitfehler.srht.site/posts/2025-04-04_foss-tools-for-infrastructure-testing.html",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "a11y, linux",
+    "url": "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Iconography of the X Window System: The Boot Stipple",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "design, historical, unix",
+    "url": "https://matttproud.com/blog/posts/x-window-system-boot-stipple.html",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Implementing a Forth",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "concatenative",
+    "url": "https://ratfactor.com/forth/implementing",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Improving EC2 boot time from 4s to 2.8s",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "linux, performance, systemd",
+    "url": "https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Inboxes are Underrated",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "design",
+    "url": "https://borretti.me/article/inboxes-are-underrated",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans",
+    "author": "",
+    "score": "48",
+    "comments": "0",
+    "tags": "api, web",
+    "url": "https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "My Backup Infrastructure, 2025 Edition",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://borretti.me/article/my-backup-infrastructure-2025-edition",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Net-Negative Cursor",
+    "author": "",
+    "score": "51",
+    "comments": "0",
+    "tags": "rust, vibecoding",
+    "url": "https://lukasatkinson.de/2025/net-negative-cursor/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Programming Beyond Practices",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "book, pdf, practices",
+    "url": "https://notes.skillstopractice.com/pbp.pdf",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Simpler backoff",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://commaok.xyz/post/simple-backoff/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "The Book of Shen",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "lisp",
+    "url": "https://shenlanguage.org/TBoS/tbos.html",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "The case for using a web browser as your terminal",
+    "author": "",
+    "score": "56",
+    "comments": "0",
+    "tags": "browsers, web",
+    "url": "https://blog.pomdtr.me/posts/tweety-v1/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "The radix 2^51 trick to 256-bit addition (2020)",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "assembly, performance",
+    "url": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Types and other techniques as an accessibility tool for the ADHD brain",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "video, a11y, plt, practices",
+    "url": "https://www.youtube.com/watch?v=DG5gLPFKcbk",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "Using ‘Slop Forensics’ to Determine Model Ancestry",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "ai",
+    "url": "https://www.dbreunig.com/2025/05/30/using-slop-forensics-to-determine-model-ancestry.html",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "What are you doing this weekend?",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "ask, programming",
+    "url": "https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend",
+    "date": "2025-05-31",
+    "description": "☶"
+  },
+  {
+    "title": "What is Racket DOING???",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "debugging, lisp",
+    "url": "https://defn.io/2025/05/30/racket-thread-stack-dumps/",
+    "date": "2025-05-31",
+    "description": ""
+  },
+  {
+    "title": "When was the last time you broke production and how?",
+    "author": "",
+    "score": "45",
+    "comments": "0",
+    "tags": "ask, practices",
+    "url": "https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production",
+    "date": "2025-05-31",
+    "description": "☶"
+  },
+  {
+    "title": "Which New Language Should I Learn for Web Development?",
+    "author": "",
+    "score": "32",
+    "comments": "0",
+    "tags": "elixir, web",
+    "url": "https://mtlynch.io/notes/which-new-language/",
+    "date": "2025-05-31",
+    "description": ""
+  }
+]

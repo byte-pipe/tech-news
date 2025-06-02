@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix",
+    "author": "",
+    "score": "49",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://github.com/leoshimo/vrs",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "A thought on JavaScript \"proof of work\" anti-scraper systems",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "devops, javascript, security",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Awesome Emacs on macOS",
+    "author": "",
+    "score": "30",
+    "comments": "0",
+    "tags": "emacs, mac",
+    "url": "https://xenodium.com/awesome-emacs-on-macos",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Compiling a Neural Net to C for a 1,744× speedup",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "c, math",
+    "url": "https://slightknack.dev/blog/difflogic/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Cory Doctorow on how we lost the internet",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "culture, law, person",
+    "url": "https://lwn.net/SubscriberLink/1021871/ffeed46818908c91/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Docker",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "design, linux, osdev",
+    "url": "https://icculus.org/openbox/2/docker/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Failed Backup Server Build",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "freebsd, hardware",
+    "url": "https://vermaden.wordpress.com/2025/05/28/failed-backup-server-build/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Firefox 139 adds experimental AI-powered link previews",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "browsers, vibecoding",
+    "url": "https://9to5mac.com/2025/05/27/firefox-ai-link-previews/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "I am disappointed in the AI discourse",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/",
+    "date": "2025-05-29",
+    "description": "☶"
+  },
+  {
+    "title": "LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "practices, vibecoding",
+    "url": "https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Large Language Models can run tools in your terminal with LLM 0.26",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://simonwillison.net/2025/May/27/llm-tools/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Linux Mount Namespaces and persistence",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://jmtd.net/log/mount_namespaces/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "LispOS Archives",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "historical, lisp, osdev",
+    "url": "http://lists.tunes.org/archives/lispos/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "List of \"tech for good\" job boards",
+    "author": "",
+    "score": "76",
+    "comments": "0",
+    "tags": "job",
+    "url": "https://evanhahn.com/list-of-tech-for-good-job-boards/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Mullvad Leta",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "privacy, web",
+    "url": "https://leta.mullvad.net",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Own Your Email Domain",
+    "author": "",
+    "score": "51",
+    "comments": "0",
+    "tags": "email",
+    "url": "https://matthewsanabria.dev/posts/own-your-email-domain/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers",
+    "author": "",
+    "score": "32",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Ray Tracing in J",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "apl",
+    "url": "https://idle.nprescott.com/2020/ray-tracing-in-j.html",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Scrappy: make little apps for you and your friends",
+    "author": "",
+    "score": "40",
+    "comments": "0",
+    "tags": "programming, web",
+    "url": "https://pontus.granstrom.me/scrappy/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Teaching old hippies new tricks",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "historical",
+    "url": "https://www.oblomovka.com/wp/2025/01/02/teaching-old-hippies-new-tricks/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Vibe coding for teams, thoughts to date",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://laughingmeme.org//2025/05/25/vibe-coding-for-teams.html",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "What a Difference a Faster Hash Makes",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "performance, rust",
+    "url": "https://nickdrozd.github.io/2025/05/27/faster-hash.html",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "Why are 2025/05/28 and 2025-05-28 different days in JavaScript?",
+    "author": "",
+    "score": "40",
+    "comments": "0",
+    "tags": "javascript",
+    "url": "https://brandondong.github.io/blog/javascript_dates/",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "flags and usability",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "unix",
+    "url": "https://orib.dev/flags.html",
+    "date": "2025-05-29",
+    "description": ""
+  },
+  {
+    "title": "the first smart homes",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "historical",
+    "url": "https://computer.rip/2025-05-27-the-first-smart-homes.html",
+    "date": "2025-05-29",
+    "description": ""
+  }
+]

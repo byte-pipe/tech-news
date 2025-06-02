@@ -1,0 +1,512 @@
+[
+  {
+    "title": "Adam Riess and the Hubble tension",
+    "url": "https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/",
+    "author": "samizdis",
+    "date": "2025-05-31",
+    "score": 86,
+    "comments": 69,
+    "id": 44136945,
+    "discussion_url": "https://news.ycombinator.com/item?id=44136945",
+    "description": "Adam Riess and the Hubble tension",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510883"
+  },
+  {
+    "title": "Anthropic launches a voice mode for Claude",
+    "url": "https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/",
+    "author": "kordlessagain",
+    "date": "2025-05-29",
+    "score": 111,
+    "comments": 29,
+    "id": 44116535,
+    "discussion_url": "https://news.ycombinator.com/item?id=44116535",
+    "description": "Anthropic launches a voice mode for Claude",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510937"
+  },
+  {
+    "title": "Atomics and Concurrency",
+    "url": "https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html",
+    "author": "LAC-Tech",
+    "date": "2025-05-28",
+    "score": 137,
+    "comments": 52,
+    "id": 44113706,
+    "discussion_url": "https://news.ycombinator.com/item?id=44113706",
+    "description": "Atomics and Concurrency",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510977"
+  },
+  {
+    "title": "Beating Google's kernelCTF PoW using AVX512",
+    "url": "https://anemato.de/blog/kctf-vdf",
+    "author": "anematode",
+    "date": "2025-05-31",
+    "score": 297,
+    "comments": 89,
+    "id": 44137715,
+    "discussion_url": "https://news.ycombinator.com/item?id=44137715",
+    "description": "Beating Google's kernelCTF PoW using AVX512",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510696"
+  },
+  {
+    "title": "Beware of Fast-Math",
+    "url": "https://simonbyrne.github.io/notes/fastmath/",
+    "author": "blobcode",
+    "date": "2025-05-31",
+    "score": 192,
+    "comments": 96,
+    "id": 44142472,
+    "discussion_url": "https://news.ycombinator.com/item?id=44142472",
+    "description": "Beware of Fast-Math",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510598"
+  },
+  {
+    "title": "C++ to Rust Phrasebook",
+    "url": "https://cel.cs.brown.edu/crp/",
+    "author": "wcrichton",
+    "date": "2025-05-31",
+    "score": 121,
+    "comments": 25,
+    "id": 44140349,
+    "discussion_url": "https://news.ycombinator.com/item?id=44140349",
+    "description": "C++ to Rust Phrasebook",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510719"
+  },
+  {
+    "title": "Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work",
+    "url": "https://capjs.js.org/",
+    "author": "tiagorangel",
+    "date": "2025-05-31",
+    "score": 146,
+    "comments": 110,
+    "id": 44137867,
+    "discussion_url": "https://news.ycombinator.com/item?id=44137867",
+    "description": "Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510808"
+  },
+  {
+    "title": "Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)",
+    "url": "https://www.cerebras.ai/press-release/maverick",
+    "author": "ByteAtATime",
+    "date": "2025-05-31",
+    "score": 82,
+    "comments": 55,
+    "id": 44141728,
+    "discussion_url": "https://news.ycombinator.com/item?id=44141728",
+    "description": "Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.511037"
+  },
+  {
+    "title": "Copy Excel to Markdown Table (and vice versa)",
+    "url": "https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/",
+    "author": "thisdavej",
+    "date": "2025-05-30",
+    "score": 97,
+    "comments": 14,
+    "id": 44131669,
+    "discussion_url": "https://news.ycombinator.com/item?id=44131669",
+    "description": "Copy Excel to Markdown Table (and vice versa)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510868"
+  },
+  {
+    "title": "De Bruijn notation, and why it's useful",
+    "url": "https://blueberrywren.dev/blog/debruijn-explanation/",
+    "author": "blueberry87",
+    "date": "2025-05-31",
+    "score": 131,
+    "comments": 39,
+    "id": 44137439,
+    "discussion_url": "https://news.ycombinator.com/item?id=44137439",
+    "description": "De Bruijn notation, and why it's useful",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510914"
+  },
+  {
+    "title": "Every 5x5 Nonogram",
+    "url": "https://pixelogic.app/every-5x5-nonogram",
+    "author": "eieio",
+    "date": "2025-05-31",
+    "score": 95,
+    "comments": 37,
+    "id": 44140918,
+    "discussion_url": "https://news.ycombinator.com/item?id=44140918",
+    "description": "Every 5x5 Nonogram",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510845"
+  },
+  {
+    "title": "Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory",
+    "url": "https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6",
+    "author": "dariobalinzo",
+    "date": "2025-05-29",
+    "score": 89,
+    "comments": 36,
+    "id": 44125734,
+    "discussion_url": "https://news.ycombinator.com/item?id=44125734",
+    "description": "Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510772"
+  },
+  {
+    "title": "Jerry Lewis's “The Day the Clown Cried” discovered in Sweden after 53 years",
+    "url": "https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/",
+    "author": "danso",
+    "date": "2025-05-31",
+    "score": 167,
+    "comments": 73,
+    "id": 44139592,
+    "discussion_url": "https://news.ycombinator.com/item?id=44139592",
+    "description": "Jerry Lewis's “The Day the Clown Cried” discovered in Sweden after 53 years",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510922"
+  },
+  {
+    "title": "Microsandbox: Virtual Machines that feel and perform like containers",
+    "url": "https://github.com/microsandbox/microsandbox",
+    "author": "makeboss",
+    "date": "2025-05-30",
+    "score": 329,
+    "comments": 156,
+    "id": 44135977,
+    "discussion_url": "https://news.ycombinator.com/item?id=44135977",
+    "description": "Microsandbox: Virtual Machines that feel and perform like containers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510748"
+  },
+  {
+    "title": "Photos taken inside musical instruments",
+    "url": "https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments",
+    "author": "worik",
+    "date": "2025-05-31",
+    "score": 778,
+    "comments": 39,
+    "id": 44139626,
+    "discussion_url": "https://news.ycombinator.com/item?id=44139626",
+    "description": "Photos taken inside musical instruments",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510581"
+  },
+  {
+    "title": "Radio Astronomy Software Defined Radio (Rasdr)",
+    "url": "https://radio-astronomy.org/rasdr",
+    "author": "zeristor",
+    "date": "2025-05-30",
+    "score": 127,
+    "comments": 8,
+    "id": 44134364,
+    "discussion_url": "https://news.ycombinator.com/item?id=44134364",
+    "description": "Radio Astronomy Software Defined Radio (Rasdr)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.511008"
+  },
+  {
+    "title": "Revenge of the Chickenized Reverse-Centaurs",
+    "url": "https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/",
+    "author": "GreenWatermelon",
+    "date": "2025-05-29",
+    "score": 133,
+    "comments": 64,
+    "id": 44118055,
+    "discussion_url": "https://news.ycombinator.com/item?id=44118055",
+    "description": "Revenge of the Chickenized Reverse-Centaurs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510756"
+  },
+  {
+    "title": "Reverse engineering of Linear's sync engine",
+    "url": "https://github.com/wzhudev/reverse-linear-sync-engine",
+    "author": "flashblaze",
+    "date": "2025-05-29",
+    "score": 125,
+    "comments": 22,
+    "id": 44123131,
+    "discussion_url": "https://news.ycombinator.com/item?id=44123131",
+    "description": "Reverse engineering of Linear's sync engine",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510763"
+  },
+  {
+    "title": "Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent",
+    "url": "https://github.com/cheyao/icepi-zero",
+    "author": "Cyao",
+    "date": "2025-05-28",
+    "score": 192,
+    "comments": 45,
+    "id": 44115853,
+    "discussion_url": "https://news.ycombinator.com/item?id=44115853",
+    "description": "Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510733"
+  },
+  {
+    "title": "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
+    "url": "https://github.com/sinisterMage/WPlusPlus",
+    "author": "sinisterMage",
+    "date": "2025-05-31",
+    "score": 92,
+    "comments": 50,
+    "id": 44136884,
+    "discussion_url": "https://news.ycombinator.com/item?id=44136884",
+    "description": "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510944"
+  },
+  {
+    "title": "Silicon Valley finally has a big electronics retailer again: Micro Center opens",
+    "url": "https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx",
+    "author": "modeless",
+    "date": "2025-05-31",
+    "score": 255,
+    "comments": 133,
+    "id": 44140378,
+    "discussion_url": "https://news.ycombinator.com/item?id=44140378",
+    "description": "Silicon Valley finally has a big electronics retailer again: Micro Center opens",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510891"
+  },
+  {
+    "title": "Simpler Backoff",
+    "url": "https://commaok.xyz/post/simple-backoff/",
+    "author": "todsacerdoti",
+    "date": "2025-05-31",
+    "score": 92,
+    "comments": 32,
+    "id": 44141887,
+    "discussion_url": "https://news.ycombinator.com/item?id=44141887",
+    "description": "Simpler Backoff",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510704"
+  },
+  {
+    "title": "Surprisingly fast AI-generated kernels we didn't mean to publish yet",
+    "url": "https://crfm.stanford.edu/2025/05/28/fast-kernels.html",
+    "author": "mfiguiere",
+    "date": "2025-05-31",
+    "score": 321,
+    "comments": 106,
+    "id": 44139454,
+    "discussion_url": "https://news.ycombinator.com/item?id=44139454",
+    "description": "Surprisingly fast AI-generated kernels we didn't mean to publish yet",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510669"
+  },
+  {
+    "title": "Systems Correctness Practices at Amazon Web Services",
+    "url": "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/",
+    "author": "tanelpoder",
+    "date": "2025-05-30",
+    "score": 345,
+    "comments": 126,
+    "id": 44135638,
+    "discussion_url": "https://news.ycombinator.com/item?id=44135638",
+    "description": "Systems Correctness Practices at Amazon Web Services",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510786"
+  },
+  {
+    "title": "The Darwin Gödel Machine: AI that improves itself by rewriting its own code",
+    "url": "https://sakana.ai/dgm/",
+    "author": "birriel",
+    "date": "2025-05-30",
+    "score": 213,
+    "comments": 187,
+    "id": 44135369,
+    "discussion_url": "https://news.ycombinator.com/item?id=44135369",
+    "description": "The Darwin Gödel Machine: AI that improves itself by rewriting its own code",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510816"
+  },
+  {
+    "title": "The radix 2^51 trick (2017)",
+    "url": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
+    "author": "blobcode",
+    "date": "2025-05-30",
+    "score": 407,
+    "comments": 80,
+    "id": 44132673,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132673",
+    "description": "The radix 2^51 trick (2017)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.511053"
+  },
+  {
+    "title": "The ‘white-collar bloodbath’ is all part of the AI hype machine",
+    "url": "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap",
+    "author": "lwo32k",
+    "date": "2025-05-30",
+    "score": 499,
+    "comments": 870,
+    "id": 44136117,
+    "discussion_url": "https://news.ycombinator.com/item?id=44136117",
+    "description": "The ‘white-collar bloodbath’ is all part of the AI hype machine",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510711"
+  },
+  {
+    "title": "Triangle splatting: radiance fields represented by triangles",
+    "url": "https://trianglesplatting.github.io/",
+    "author": "ath92",
+    "date": "2025-05-30",
+    "score": 162,
+    "comments": 69,
+    "id": 44132744,
+    "discussion_url": "https://news.ycombinator.com/item?id=44132744",
+    "description": "Triangle splatting: radiance fields represented by triangles",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510992"
+  },
+  {
+    "title": "Valkey Turns One: Community fork of Redis",
+    "url": "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/",
+    "author": "cebert",
+    "date": "2025-05-31",
+    "score": 229,
+    "comments": 97,
+    "id": 44140379,
+    "discussion_url": "https://news.ycombinator.com/item?id=44140379",
+    "description": "Valkey Turns One: Community fork of Redis",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510853"
+  },
+  {
+    "title": "What's working for YC companies since the AI boom",
+    "url": "https://jamesin.substack.com/p/whats-working-for-yc-companies-since",
+    "author": "jseidel",
+    "date": "2025-05-31",
+    "score": 123,
+    "comments": 85,
+    "id": 44136539,
+    "discussion_url": "https://news.ycombinator.com/item?id=44136539",
+    "description": "What's working for YC companies since the AI boom",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-01T01:02:20.510779"
+  }
+]

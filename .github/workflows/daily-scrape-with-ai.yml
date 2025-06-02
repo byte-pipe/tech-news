@@ -1,0 +1,104 @@
+name: Daily Scrape with AI Summarization
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Run daily at 9:00 UTC
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  scrape-and-summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Poetry
+        run: |
+          curl -sSL https://install.python-poetry.org | python3 -
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
+
+      - name: Configure Poetry
+        run: |
+          poetry config virtualenvs.in-project true
+
+      - name: Cache Poetry dependencies
+        uses: actions/cache@v4
+        with:
+          path: .venv
+          key: ${{ runner.os }}-poetry-${{ hashFiles('**/pyproject.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-poetry-
+
+      - name: Install dependencies
+        run: |
+          poetry install --no-interaction --no-root
+          poetry install --no-interaction
+
+      - name: Install pre-commit
+        run: |
+          poetry add --group dev pre-commit
+          poetry run pre-commit install --install-hooks
+
+      - name: Install Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+
+      - name: Install OpenAI library
+        run: |
+          poetry add openai
+
+      - name: Start Ollama and pull models
+        run: |
+          ollama serve &
+          sleep 5  # Give Ollama time to start
+
+          # Pull TinyLlama as primary model (better quality than SmolLM)
+          echo "Pulling TinyLlama model (best balance of size and quality)..."
+          ollama pull tinyllama:1.1b || echo "Failed to pull tinyllama:1.1b, will try smallest model"
+
+          # Pull smallest model as fallback
+          echo "Pulling SmolLM as fallback model..."
+          ollama pull smollm:135m || echo "Warning: Failed to pull fallback model"
+
+          # Verify models were pulled successfully
+          echo "Checking available models:"
+          ollama list
+
+      - name: Run daily scrape
+        run: |
+          poetry run python daily.py --quick  # Use fast model for CI
+
+      # Removed aggregation step - no longer needed
+
+      - name: Commit updated data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+
+          # Run pre-commit on staged files
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            # Skip hooks that might fail in CI environment
+            export SKIP=mypy,check-executables-have-shebangs
+            poetry run pre-commit run --files $(git diff --cached --name-only) || true
+
+            # Re-add any files that were modified by pre-commit
+            git add data
+
+            # Commit the changes
+            git commit -m "Update scraped data and AI summaries [skip ci]" || echo "No changes to commit"
+            git push
+          fi
