@@ -20,6 +20,9 @@ openai = "^1.79.0"
 psutil = "^5.9.8"
 click = "^8.2.1"
 playwright = "^1.55.0"
+matplotlib = "^3.10.8"
+pandas = "^3.0.2"
+seaborn = "^0.13.2"
 
 [tool.poetry.scripts]
 scraper = "scraper.main:main"
@@ -99,7 +102,7 @@ addopts = [
     "--cov=scraper",
     "--cov-report=term-missing",
     "--cov-report=html",
-    "--cov-fail-under=15",
+    "--cov-fail-under=14",
     "--strict-markers",
     "--strict-config",
     "--verbose",

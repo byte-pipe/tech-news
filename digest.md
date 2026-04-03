@@ -1,44 +1,48 @@
 ---
-date: '2026-04-03'
+date: '2026-04-04'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-03T20:00:31.310482'
+generated_at: '2026-04-04T01:05:40.265888'
 ---
 
-## Executive Summary  
-Today’s tech landscape is marked by heightened privacy battles, with LinkedIn’s covert “BrowserGate” scans and new UK subscription‑cancellation laws drawing regulatory fire.  Open‑source AI continues to mature, highlighted by the locally‑run “Lemonade” platform and growing debate over responsible use of generative agents.  In hardware, IBM’s partnership with Arm promises dual‑architecture servers for enterprise AI, while the space sector celebrated the emotional Artemis II launch.  Across software, enterprises are shifting toward more efficient data pipelines (CDC) and modern language stacks (Clojure, Rust‑based Claw Code), underscoring a drive for productivity and security.
+## Executive Summary
+- A whistle‑blower’s account reveals that Microsoft’s misguided Overlake accelerator project jeopardized critical Azure workloads and may have contributed to a “trillion‑dollar” market‑cap loss.  
+- Global energy turbulence from the Iran‑Israel conflict prompted Amazon to add a 3.5 % fuel surcharge for FBA sellers, while farms across Asia report crippling diesel price spikes.  
+- Anthropic’s Claude Code source leak and the ensuing over‑broad DMCA takedown highlight the growing legal and security challenges of AI‑generated software.  
+- A high‑severity CVE in NSA‑built Ghidra (CVE‑2026‑4946) exposes analysts to remote command execution, underscoring the need for rapid patching of developer tools.  
+- On the developer front, Apple‑silicon‑only “apfel” brings free on‑device LLMs to macOS, and the community is adapting to sudden team cuts with new knowledge‑capture practices.
 
----  
+---
 
-## AI and Machine Learning  
+## AI and Machine Learning
 
-- *Email obfuscation: What works in 2026?* [hackernews_api] – A systematic test of 13 anti‑scraping methods shows that combining CSS hiding, JavaScript‑based techniques, and server‑side rendering can block 100 % of 318 spam bots while preserving accessibility.  
-- *Lemonade: Local AI for Text, Images, and Speech* [hnrss] – The open‑source “Lemonade” stack delivers a 2 MB C++ backend that runs multimodal models locally on Windows, macOS and Linux, offering privacy‑first AI with plug‑and‑play OpenAI‑compatible APIs.  
-- *New laws to make it easier to cancel subscriptions* [hnrss] – UK legislation slated for spring 2027 will force firms to provide one‑click cancellations and a 14‑day cooling‑off period, aiming to save consumers £170 each year.  
-- *A New Implant Aims to Rewire Stroke Patients’ Brains* [newsfeed] – Epia Neuro’s implant‑plus‑motor‑glove system uses AI to translate brain signals into hand movements, with first‑in‑human trials planned for later 2026 and the goal of fostering lasting neuroplastic recovery.  
-- *Apple iPad Air (M4) Review: The Ultimate iPad* [newsfeed] – Apple’s 2026 iPad Air upgrades to the M4 chip and 12 GB RAM, delivering ~13 % GPU gains over the M3 and positioning the tablet as a strong mid‑range alternative to the Pro and MacBook Air.  
-- *‘Stay Alive’ review: In Nazi Berlin, it was easy to just go along* [NPR] – Historian Ian Buruma’s book examines ordinary Berliners’ moral compromises, arguing that authoritarian regimes thrive when most people choose convenience over conscience.  
-- *Agent responsibly* [tldr] – Vercel warns that AI‑generated code can mask production‑grade assumptions; it advocates a “leverage‑not‑rely” mindset, continuous validation, and executable guardrails to keep agents safe in CI pipelines.  
+- **How Microsoft Vaporized a Trillion Dollars** [Hacker News] **(trending)** – A former Azure engineer details a costly mis‑design that attempted to port dozens of Windows components onto an under‑powered FPGA accelerator, risking key workloads (OpenAI, government clouds) and prompting escalations to Microsoft’s top leadership.  
+- **April 2026 TLDR: Ollama + Gemma 4 26B on a Mac mini** [HN RSS] – Step‑by‑step guide to install Ollama, pull the 26‑billion‑parameter Gemma 4 model on Apple‑silicon, and configure launch agents for auto‑start and keep‑alive.  
+- **A day in the life of Asia’s fuel crisis | US‑Israel war on Iran** [The Guardian] – Farm and transport operators in New Zealand, Vanuatu, South Korea, Thailand and Japan describe soaring diesel costs that threaten profitability and basic services amid geopolitical turmoil.  
+- **Amazon adds 3.5 % fuel surcharge for FBA sellers** [TechCrunch] – In response to Iran‑related oil market spikes, Amazon will temporarily tack a fuel surcharge onto Fulfilled‑by‑Amazon orders, a move reminiscent of its 2022 surcharge during the Ukraine war.  
+- **AO3 exits beta after 17 years** [The Verge] – The fan‑fiction archive removes its “beta” label, signaling maturity while continuing community‑driven development and feature upgrades.  
+- **Chatbots: Unsafe at Any Speed** [Jeffrey Snover’s blog] – Snover argues that unrestricted general‑purpose chatbots are inherently unsafe due to an infinite loss space, and advocates purpose‑built “Chatbots for X” to enable conventional safety engineering.  
+- **Claude Code source leak in NPM package** [tldr] – A packaging error exposed the full Claude Code 2.1.88 source map, revealing proprietary features; Anthropic responded with DMCA takedowns and is investigating a separate usage‑limit bug.  
+- **Reddit – Please wait for verification** [Reddit] – *Content not provided; unable to summarize.*
 
----  
+---
 
-## Cybersecurity and Privacy  
+## Cybersecurity and Privacy
 
-- *BrowserGate* [hackernews_api] – An investigation by Fairlinked e.V. reveals LinkedIn (Microsoft) silently scans every visitor’s browser for extensions, software and personal traits, harvesting data on religion, politics and competitor tools in violation of GDPR and the EU Digital Markets Act.  
-- *Your sign‑up form is a weapon* [Bytemash] – The “subscription‑bombing” attack abuses unchecked sign‑up forms to flood real users with verification, welcome and password‑reset emails, effectively hiding critical alerts; mitigation with Cloudflare Turnstile and email‑verification gating stopped the abuse.  
-- *Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks* [TechCrunch] – iOS 18.7.7 and iPadOS 18.7.7 patch a web‑based exploit used by the DarkSword toolkit, extending protection to devices that cannot yet upgrade to iOS 26 and shielding millions from credential and wallet theft.  
+- **CVE‑2026‑4946 – Ghidra command‑execution flaw** [tldr] – Improper handling of `@execute` annotations in auto‑generated comments lets an attacker trigger arbitrary OS commands when a reverse‑engineer clicks a UI link, earning an 8.8 CVSS score; a patch was released in Ghidra 12.0.3.
 
----  
+---
 
-## Software Engineering and Dev Tools  
+## Software Engineering and Dev Tools
 
-- *Bringing Clojure programming to Enterprise* [hnrss] – The article argues Clojure’s immutable data structures, REPL‑driven workflow and seamless Java interop enable rapid prototyping and DSL creation, though teams must budget for a learning curve and phased adoption.  
-- *IBM Announces Strategic Collaboration with Arm to Shape the Future of Enterprise Computing* [hnrss] – IBM and Arm will co‑develop dual‑architecture servers that combine Arm’s power efficiency with IBM’s reliability, expanding virtualization, security and data‑sovereignty options for AI‑heavy workloads.  
-- *Artemis II: An emotional moment as the Moon mission blasts off* [newsfeed] – NASA’s crewed lunar‑orbit flight launched successfully after a brief abort‑system glitch, marking the first human deep‑space mission since 1972 and reinforcing the agency’s long‑term exploration roadmap.  
-- *Change Data Capture: Stop Copying 50M Rows to Move 5K Changes* [tldr] – The piece promotes CDC (timestamp, trigger, or log‑based) as a far more efficient alternative to nightly full‑table ETL, cutting compute, network and latency while keeping downstream systems in near‑real‑time sync.  
-- *ultraworkers/claw-code* [tldr] – After a March 2026 leak, the project rewrote the “Claw Code” toolset in clean‑room Python and Rust, achieving rapid community adoption (100 K+ stars) and delivering a memory‑safe, open‑source runtime for AI‑augmented coding.  
+- **apfel – Free AI on Your Mac** [Hacker News] **(trending)** – An MIT‑licensed Swift tool leverages Apple’s on‑device LLM to provide CLI, OpenAI‑compatible server, and interactive chat modes, running entirely offline on Apple Silicon with multi‑language support.  
+- **c89cc.sh – Standalone C89/ELF64 compiler in pure shell** [HN RSS] – A single POSIX‑shell script parses C89 source and emits 64‑bit ELF binaries without external tools, demonstrating extreme portability and self‑contained compilation.  
+- **Espressif Unveils ESP32‑S31 (dual‑core RISC‑V SoC)** [Espressif Systems] – *Full article text not supplied; details unavailable.*  
+- **Interview: ReXGlue brings Xbox 360 to static recompilation era** [HN RSS] – Creator Tom explains how ReXGlue replaces Xenia’s JIT with ahead‑of‑time C++ recompilation of PowerPC code, yielding native binaries that can outperform the original console and enable deep modding.  
+- **NHS staff resist Palantir’s Federated Data Platform** [HN RSS] – UK health‑service clinicians object to a £330 M Palantir contract on ethical grounds, with many refusing to use the platform despite its on‑time delivery; political pressure may trigger a contract break clause.  
+- **Anthropic’s over‑broad DMCA takedown of Claude Code forks** [Ars Technica] – A notice intended for 96 infringing forks mistakenly removed ~8,100 legitimate forks, prompting public backlash and a rapid correction by GitHub; the leak’s persistence raises questions about copyright enforcement for AI‑generated code.  
+- **3 ways to bounce back from sudden team cuts** [LeadDev] – Practical advice for post‑layoff environments: capture tacit knowledge during off‑boarding, re‑prioritize “lights‑on” work, and plan realistic staffing (back‑fills or internal reallocation).  
 
----  
+---
 
-## Notable Mentions  
-- AlloyDB AI | Google Cloud  
-- Claude Mythos - Archive
+## Notable Mentions
+- Artemis II, NASA’s boldest mission in generations, launches crew to the Moon – *Ars Technica* (tldr)

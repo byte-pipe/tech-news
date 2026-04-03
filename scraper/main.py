@@ -810,6 +810,24 @@ def health(verbose, strict, json):
 
 
 @cli.command()
+@click.option("--days", "-d", type=int, default=None, help="Only analyze last N days")
+@click.option("--out-dir", "-o", type=str, default=None, help="Directory to save PNGs (default: temp dir)")
+@click.option("--chart", "-c", multiple=True, help="Specific chart(s) to generate (default: all)")
+@click.option("--width", "-w", type=int, default=None, help="Chafa display width in columns")
+def analytics(days, out_dir, chart, width):
+    """Generate visual analytics from links.csv."""
+    from scraper.core.analytics import run_analytics
+
+    csv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "links.csv")
+    if not os.path.exists(csv_path):
+        console.print("[red]No links.csv found. Run 'scraper backfill-links' first.[/red]")
+        sys.exit(1)
+
+    charts_list = list(chart) if chart else None
+    run_analytics(csv_path, out_dir=out_dir, days=days, charts=charts_list, width=width)
+
+
+@cli.command()
 @click.option("--quiet", "-q", is_flag=True, help="Suppress non-essential output")
 def backfill_links(quiet):
     """Populate links.csv from existing JSON data files and url_registry."""
