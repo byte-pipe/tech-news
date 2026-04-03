@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A proposal for inline LLM instructions in HTML based on llms.txt",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "ai, web",
+    "url": "https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Building a Regex Engine",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "compsci, javascript",
+    "url": "https://www.abstractsyntaxseed.com/blog/regex-engine/introduction",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Code Review Can Be Better",
+    "author": "",
+    "score": "67",
+    "comments": "0",
+    "tags": "practices, vcs",
+    "url": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Const Trait Counterexamples",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "plt, rust",
+    "url": "https://dbeef.dev/const-trait-counterexamples/",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Container-aware GOMAXPROCS",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://go.dev/blog/container-aware-gomaxprocs",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Default musl allocator considered harmful (to performance)",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "c, performance",
+    "url": "https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Emacs as your video-trimming tool",
+    "author": "",
+    "score": "37",
+    "comments": "0",
+    "tags": "emacs, lisp",
+    "url": "https://xenodium.com/emacs-as-your-video-trimming-tool",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
+    "author": "",
+    "score": "64",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Improvements to OCaml code editing: the basics of a refactor engine",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "ml",
+    "url": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "L2AW theorem",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "compsci, databases, distributed",
+    "url": "https://law-theorem.com/",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Let `jj absorb` help you keep a clean commit history",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://www.pauladamsmith.com/blog/2025/08/jj-absorb.html",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Monad annoyance",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "javascript",
+    "url": "https://macwright.com/2025/08/19/monad-annoyance",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Monoid-augmented FIFOs, deamortised",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "NASA’s 10 Rules for Safety-Critical Code",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Privacy-Preserving Age Verification—and Its Limitations",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "pdf, privacy",
+    "url": "https://www.cs.columbia.edu/~smb/papers/age-verify.pdf",
+    "date": "2025-08-20",
+    "description": "☶"
+  },
+  {
+    "title": "Reserve First",
+    "author": "",
+    "score": "60",
+    "comments": "0",
+    "tags": "programming, zig",
+    "url": "https://matklad.github.io/2025/08/16/reserve-first.html",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Tag-based logging",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "practices, programming",
+    "url": "https://mmapped.blog/posts/44-tag-based-logging",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "The Lawnmower IRC Server",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "The long season of langdev",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://blog.fogus.me/langdev/long-season.html",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Why are anime catgirls blocking my access to the Linux kernel?",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "a11y, security",
+    "url": "https://lock.cmpxchg8b.com/anubis.html",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Why is my device a touchpad and a mouse and a keyboard?",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "linux",
+    "url": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Without the futex, it's futile",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "performance",
+    "url": "https://h4x0r.org/futex/",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Zed for Windows: What's Taking So Long?",
+    "author": "",
+    "score": "35",
+    "comments": "0",
+    "tags": "editors, windows",
+    "url": "https://zed.dev/blog/windows-progress-report",
+    "date": "2025-08-20",
+    "description": ""
+  },
+  {
+    "title": "Zig 0.15.1 Release Notes",
+    "author": "",
+    "score": "32",
+    "comments": "0",
+    "tags": "release, zig",
+    "url": "https://ziglang.org/download/0.15.1/release-notes.html",
+    "date": "2025-08-20",
+    "description": ""
+  }
+]

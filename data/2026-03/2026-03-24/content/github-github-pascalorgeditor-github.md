@@ -1,0 +1,1306 @@
+---
+title: GitHub - pascalorg/editor · GitHub
+url: https://github.com/pascalorg/editor
+site_name: github
+content_file: github-github-pascalorgeditor-github
+fetched_at: '2026-03-24T11:20:49.235633'
+original_url: https://github.com/pascalorg/editor
+author: pascalorg
+description: Contribute to pascalorg/editor development by creating an account on GitHub.
+---
+
+pascalorg
+
+ 
+
+/
+
+editor
+
+Public
+
+* NotificationsYou must be signed in to change notification settings
+* Fork627
+* Star4.1k
+
+ 
+ 
+ 
+ 
+main
+Branches
+Tags
+Go to file
+Code
+Open more actions menu
+
+## Folders and files
+
+Name
+Name
+Last commit message
+Last commit date
+
+## Latest commit
+
+ 
+
+## History
+
+424 Commits
+424 Commits
+.claude
+.claude
+ 
+ 
+.cursor/
+rules
+.cursor/
+rules
+ 
+ 
+.github/
+workflows
+.github/
+workflows
+ 
+ 
+.vscode
+.vscode
+ 
+ 
+apps/
+editor
+apps/
+editor
+ 
+ 
+packages
+packages
+ 
+ 
+tooling
+tooling
+ 
+ 
+.env.example
+.env.example
+ 
+ 
+.gitignore
+.gitignore
+ 
+ 
+.npmrc
+.npmrc
+ 
+ 
+AGENTS.md
+AGENTS.md
+ 
+ 
+CLAUDE.md
+CLAUDE.md
+ 
+ 
+LICENSE
+LICENSE
+ 
+ 
+README.md
+README.md
+ 
+ 
+SETUP.md
+SETUP.md
+ 
+ 
+biome.jsonc
+biome.jsonc
+ 
+ 
+bun.lock
+bun.lock
+ 
+ 
+package.json
+package.json
+ 
+ 
+turbo.json
+turbo.json
+ 
+ 
+View all files
+
+## Repository files navigation
+
+# Pascal Editor
+
+A 3D building editor built with React Three Fiber and WebGPU.
+
+pascal_editor.mp4
+
+## Repository Architecture
+
+This is a Turborepo monorepo with three main packages:
+
+editor-v2/
+├── apps/
+│ └── editor/ # Next.js application
+├── packages/
+│ ├── core/ # Schema definitions, state management, systems
+│ └── viewer/ # 3D rendering components
+
+### Separation of Concerns
+
+Package
+
+Responsibility
+
+@pascal-app/core
+
+Node schemas, scene state (Zustand), systems (geometry generation), spatial queries, event bus
+
+@pascal-app/viewer
+
+3D rendering via React Three Fiber, default camera/controls, post-processing
+
+apps/editor
+
+UI components, tools, custom behaviors, editor-specific systems
+
+Theviewerrenders the scene with sensible defaults. Theeditorextends it with interactive tools, selection management, and editing capabilities.
+
+### Stores
+
+Each package has its own Zustand store for managing state:
+
+Store
+
+Package
+
+Responsibility
+
+useScene
+
+@pascal-app/core
+
+Scene data: nodes, root IDs, dirty nodes, CRUD operations. Persisted to IndexedDB with undo/redo via Zundo.
+
+useViewer
+
+@pascal-app/viewer
+
+Viewer state: current selection (building/level/zone IDs), level display mode (stacked/exploded/solo), camera mode.
+
+useEditor
+
+apps/editor
+
+Editor state: active tool, structure layer visibility, panel states, editor-specific preferences.
+
+Access patterns:
+
+// Subscribe to state changes (React component)
+
+const
+ 
+nodes
+ 
+=
+ 
+useScene
+(
+(
+state
+)
+ 
+=>
+ 
+state
+.
+nodes
+)
+
+const
+ 
+levelId
+ 
+=
+ 
+useViewer
+(
+(
+state
+)
+ 
+=>
+ 
+state
+.
+selection
+.
+levelId
+)
+
+const
+ 
+activeTool
+ 
+=
+ 
+useEditor
+(
+(
+state
+)
+ 
+=>
+ 
+state
+.
+tool
+)
+
+// Access state outside React (callbacks, systems)
+
+const
+ 
+node
+ 
+=
+ 
+useScene
+.
+getState
+(
+)
+.
+nodes
+[
+id
+]
+
+useViewer
+.
+getState
+(
+)
+.
+setSelection
+(
+{
+ 
+levelId
+: 
+'level_123'
+ 
+}
+)
+
+## Core Concepts
+
+### Nodes
+
+Nodes are the data primitives that describe the 3D scene. All nodes extendBaseNode:
+
+BaseNode
+ 
+{
+
+ id: 
+string
+ 
+// Auto-generated with type prefix (e.g., "wall_abc123")
+
+ type: 
+string
+ 
+// Discriminator for type-safe handling
+
+ parentId: 
+string
+ 
+|
+ 
+null
+ 
+// Parent node reference
+
+ visible: 
+boolean
+
+ camera?: 
+Camera
+ 
+// Optional saved camera position
+
+ metadata?: 
+JSON
+ 
+// Arbitrary metadata (e.g., { isTransient: true })
+
+}
+
+Node Hierarchy:
+
+Site
+└── Building
+ └── Level
+ ├── Wall → Item (doors, windows)
+ ├── Slab
+ ├── Ceiling → Item (lights)
+ ├── Roof
+ ├── Zone
+ ├── Scan (3D reference)
+ └── Guide (2D reference)
+
+Nodes are stored in aflat dictionary(Record<id, Node>), not a nested tree. Parent-child relationships are defined viaparentIdandchildrenarrays.
+
+### Scene State (Zustand Store)
+
+The scene is managed by a Zustand store in@pascal-app/core:
+
+useScene
+.
+getState
+(
+)
+ 
+=
+ 
+{
+
+ 
+nodes
+: 
+Record
+<
+id
+,
+ 
+AnyNode
+>
+,
+ 
+// All nodes
+
+ 
+rootNodeIds
+: 
+string
+[
+]
+,
+ 
+// Top-level nodes (sites)
+
+ 
+dirtyNodes
+: 
+Set
+<
+string
+>
+,
+ 
+// Nodes pending system updates
+
+ 
+createNode
+(
+node
+,
+ 
+parentId
+)
+,
+
+ 
+updateNode
+(
+id
+,
+ 
+updates
+)
+,
+
+ 
+deleteNode
+(
+id
+)
+,
+
+}
+
+Middleware:
+
+* Persist- Saves to IndexedDB (excludes transient nodes)
+* Temporal(Zundo) - Undo/redo with 50-step history
+
+### Scene Registry
+
+The registry maps node IDs to their Three.js objects for fast lookup:
+
+sceneRegistry
+ 
+=
+ 
+{
+
+ 
+nodes
+: 
+Map
+<
+id
+,
+ 
+Object3D
+>
+,
+ 
+// ID → 3D object
+
+ 
+byType
+: 
+{
+
+ 
+wall
+: 
+Set
+<
+id
+>
+,
+
+ 
+item
+: 
+Set
+<
+id
+>
+,
+
+ 
+zone
+: 
+Set
+<
+id
+>
+,
+
+ 
+// ...
+
+ 
+}
+
+}
+
+Renderers register their refs using theuseRegistryhook:
+
+const
+ 
+ref
+ 
+=
+ 
+useRef
+<
+Mesh
+>
+(
+null
+!
+)
+
+useRegistry
+(
+node
+.
+id
+,
+ 
+'wall'
+,
+ 
+ref
+)
+
+This allows systems to access 3D objects directly without traversing the scene graph.
+
+### Node Renderers
+
+Renderers are React components that create Three.js objects for each node type:
+
+SceneRenderer
+└── NodeRenderer (dispatches by type)
+ ├── BuildingRenderer
+ ├── LevelRenderer
+ ├── WallRenderer
+ ├── SlabRenderer
+ ├── ZoneRenderer
+ ├── ItemRenderer
+ └── ...
+
+Pattern:
+
+1. Renderer creates a placeholder mesh/group
+2. Registers it withuseRegistry
+3. Systems update geometry based on node data
+
+Example (simplified):
+
+const
+ 
+WallRenderer
+ 
+=
+ 
+(
+{
+ node 
+}
+)
+ 
+=>
+ 
+{
+
+ 
+const
+ 
+ref
+ 
+=
+ 
+useRef
+<
+Mesh
+>
+(
+null
+!
+)
+
+ 
+useRegistry
+(
+node
+.
+id
+,
+ 
+'wall'
+,
+ 
+ref
+)
+
+ 
+return
+ 
+(
+
+ 
+<
+mesh
+ 
+ref
+=
+{
+ref
+}
+>
+
+ 
+<
+boxGeometry
+ 
+args
+=
+{
+[
+0
+,
+ 
+0
+,
+ 
+0
+]
+}
+ 
+/>
+ 
+{
+/* Replaced by WallSystem */
+}
+
+ 
+<
+meshStandardMaterial
+ 
+/>
+
+ 
+{
+node
+.
+children
+.
+map
+(
+id
+ 
+=>
+ 
+<
+NodeRenderer
+ 
+key
+=
+{
+id
+}
+ 
+nodeId
+=
+{
+id
+}
+ 
+/>
+)
+}
+
+ 
+</
+mesh
+>
+
+ 
+)
+
+}
+
+### Systems
+
+Systems are React components that run in the render loop (useFrame) to update geometry and transforms. They processdirty nodesmarked by the store.
+
+Core Systems (in@pascal-app/core):
+
+System
+
+Responsibility
+
+WallSystem
+
+Generates wall geometry with mitering and CSG cutouts for doors/windows
+
+SlabSystem
+
+Generates floor geometry from polygons
+
+CeilingSystem
+
+Generates ceiling geometry
+
+RoofSystem
+
+Generates roof geometry
+
+ItemSystem
+
+Positions items on walls, ceilings, or floors (slab elevation)
+
+Viewer Systems (in@pascal-app/viewer):
+
+System
+
+Responsibility
+
+LevelSystem
+
+Handles level visibility and vertical positioning (stacked/exploded/solo modes)
+
+ScanSystem
+
+Controls 3D scan visibility
+
+GuideSystem
+
+Controls guide image visibility
+
+Processing Pattern:
+
+useFrame
+(
+(
+)
+ 
+=>
+ 
+{
+
+ 
+for
+ 
+(
+const
+ 
+id
+ 
+of
+ 
+dirtyNodes
+)
+ 
+{
+
+ 
+const
+ 
+obj
+ 
+=
+ 
+sceneRegistry
+.
+nodes
+.
+get
+(
+id
+)
+
+ 
+const
+ 
+node
+ 
+=
+ 
+useScene
+.
+getState
+(
+)
+.
+nodes
+[
+id
+]
+
+ 
+// Update geometry, transforms, etc.
+
+ 
+updateGeometry
+(
+obj
+,
+ 
+node
+)
+
+ 
+dirtyNodes
+.
+delete
+(
+id
+)
+
+ 
+}
+
+}
+)
+
+### Dirty Nodes
+
+When a node changes, it's marked asdirtyinuseScene.getState().dirtyNodes. Systems check this set each frame and only recompute geometry for dirty nodes.
+
+// Automatic: createNode, updateNode, deleteNode mark nodes dirty
+
+useScene
+.
+getState
+(
+)
+.
+updateNode
+(
+wallId
+,
+ 
+{
+ 
+thickness
+: 
+0.2
+ 
+}
+)
+
+// → wallId added to dirtyNodes
+
+// → WallSystem regenerates geometry next frame
+
+// → wallId removed from dirtyNodes
+
+Manual marking:
+
+useScene
+.
+getState
+(
+)
+.
+dirtyNodes
+.
+add
+(
+wallId
+)
+
+### Event Bus
+
+Inter-component communication uses a typed event emitter (mitt):
+
+// Node events
+
+emitter
+.
+on
+(
+'wall:click'
+,
+ 
+(
+event
+)
+ 
+=>
+ 
+{
+ ... 
+}
+)
+
+emitter
+.
+on
+(
+'item:enter'
+,
+ 
+(
+event
+)
+ 
+=>
+ 
+{
+ ... 
+}
+)
+
+emitter
+.
+on
+(
+'zone:context-menu'
+,
+ 
+(
+event
+)
+ 
+=>
+ 
+{
+ ... 
+}
+)
+
+// Grid events (background)
+
+emitter
+.
+on
+(
+'grid:click'
+,
+ 
+(
+event
+)
+ 
+=>
+ 
+{
+ ... 
+}
+)
+
+// Event payload
+
+NodeEvent
+ 
+{
+
+ node: 
+AnyNode
+
+ position: 
+[
+x
+,
+ 
+y
+,
+ 
+z
+]
+
+ localPosition: 
+[
+x
+,
+ 
+y
+,
+ 
+z
+]
+
+ normal?: 
+[
+x
+,
+ 
+y
+,
+ 
+z
+]
+
+ stopPropagation: 
+(
+)
+ 
+=>
+ 
+void
+
+}
+
+### Spatial Grid Manager
+
+Handles collision detection and placement validation:
+
+spatialGridManager
+.
+canPlaceOnFloor
+(
+levelId
+,
+ 
+position
+,
+ 
+dimensions
+,
+ 
+rotation
+)
+
+spatialGridManager
+.
+canPlaceOnWall
+(
+wallId
+,
+ 
+t
+,
+ 
+height
+,
+ 
+dimensions
+)
+
+spatialGridManager
+.
+getSlabElevationAt
+(
+levelId
+,
+ 
+x
+,
+ 
+z
+)
+
+Used by item placement tools to validate positions and calculate slab elevations.
+
+## Editor Architecture
+
+The editor extends the viewer with:
+
+### Tools
+
+Tools are activated via the toolbar and handle user input for specific operations:
+
+* SelectTool- Selection and manipulation
+* WallTool- Draw walls
+* ZoneTool- Create zones
+* ItemTool- Place furniture/fixtures
+* SlabTool- Create floor slabs
+
+### Selection Manager
+
+The editor uses a custom selection manager with hierarchical navigation:
+
+Site → Building → Level → Zone → Items
+
+Each depth level has its own selection strategy for hover/click behavior.
+
+### Editor-Specific Systems
+
+* ZoneSystem- Controls zone visibility based on level mode
+* Custom camera controls with node focusing
+
+## Data Flow
+
+User Action (click, drag)
+ ↓
+Tool Handler
+ ↓
+useScene.createNode() / updateNode()
+ ↓
+Node added/updated in store
+Node marked dirty
+ ↓
+React re-renders NodeRenderer
+useRegistry() registers 3D object
+ ↓
+System detects dirty node (useFrame)
+Updates geometry via sceneRegistry
+Clears dirty flag
+
+## Technology Stack
+
+* React 19+Next.js 16
+* Three.js(WebGPU renderer)
+* React Three Fiber+Drei
+* Zustand(state management)
+* Zod(schema validation)
+* Zundo(undo/redo)
+* three-bvh-csg(Boolean geometry operations)
+* Turborepo(monorepo management)
+* Bun(package manager)
+
+## Getting Started
+
+### Development
+
+Run the development server from theroot directoryto enable hot reload for all packages:
+
+#
+ Install dependencies
+
+bun install
+
+#
+ Run development server (builds packages + starts editor with watch mode)
+
+bun dev
+
+#
+ This will:
+
+#
+ 1. Build @pascal-app/core and @pascal-app/viewer
+
+#
+ 2. Start watching both packages for changes
+
+#
+ 3. Start the Next.js editor dev server
+
+#
+ Open http://localhost:3000
+
+Important:Always runbun devfrom the root directory to ensure the package watchers are running. This enables hot reload when you edit files inpackages/core/src/orpackages/viewer/src/.
+
+### Building for Production
+
+#
+ Build all packages
+
+turbo build
+
+#
+ Build specific package
+
+turbo build --filter=@pascal-app/core
+
+### Publishing Packages
+
+#
+ Build packages
+
+turbo build --filter=@pascal-app/core --filter=@pascal-app/viewer
+
+#
+ Publish to npm
+
+npm publish --workspace=@pascal-app/core --access public
+npm publish --workspace=@pascal-app/viewer --access public
+
+## Key Files
+
+Path
+
+Description
+
+packages/core/src/schema/
+
+Node type definitions (Zod schemas)
+
+packages/core/src/store/use-scene.ts
+
+Scene state store
+
+packages/core/src/hooks/scene-registry/
+
+3D object registry
+
+packages/core/src/systems/
+
+Geometry generation systems
+
+packages/viewer/src/components/renderers/
+
+Node renderers
+
+packages/viewer/src/components/viewer/
+
+Main Viewer component
+
+apps/editor/components/tools/
+
+Editor tools
+
+apps/editor/store/
+
+Editor-specific state
+
+## About
+
+editor.pascal.app
+
+### Resources
+
+ Readme
+
+ 
+
+### License
+
+ MIT license
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+Activity
+ 
+
+Custom properties
+ 
+
+### Stars
+
+4.1k
+
+ stars
+ 
+
+### Watchers
+
+43
+
+ watching
+ 
+
+### Forks
+
+627
+
+ forks
+ 
+
+ Report repository
+
+ 
+
+## Releases1
+
+v0.2.0
+
+ Latest
+
+ 
+
+Mar 21, 2026
+
+## Packages0
+
+ 
+
+ 
+
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Contributors
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Languages
+
+* TypeScript97.7%
+* Shell1.2%
+* Other1.1%

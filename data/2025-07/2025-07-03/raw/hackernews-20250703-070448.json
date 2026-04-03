@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A list is a monad",
+    "url": "https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/",
+    "author": "polygot",
+    "date": "2025-07-03",
+    "points": "75",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44414965"
+  },
+  {
+    "title": "A proof-of-concept neural brain implant providing speech",
+    "url": "https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/",
+    "author": "LorenDB",
+    "date": "2025-07-03",
+    "points": "100",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44412488"
+  },
+  {
+    "title": "ASCIIMoon: The moon's phase live in ASCII art",
+    "url": "https://asciimoon.com/",
+    "author": "zayat",
+    "date": "2025-07-03",
+    "points": "37",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44432571"
+  },
+  {
+    "title": "Azure API vulnerability and roles misconfiguration compromise corporate networks",
+    "url": "https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks",
+    "author": "ArielSimon",
+    "date": "2025-07-03",
+    "points": "92",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44443832"
+  },
+  {
+    "title": "Cloudflare Introduces Default Blocking of A.I. Data Scrapers",
+    "url": "https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html",
+    "author": "stephendause",
+    "date": "2025-07-03",
+    "points": "295",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44443480"
+  },
+  {
+    "title": "Couchers is officially out of beta",
+    "url": "https://couchers.org/blog/2025/07/01/releasing-couchers-v1",
+    "author": "laurentlb",
+    "date": "2025-07-03",
+    "points": "77",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44446917"
+  },
+  {
+    "title": "Don’t use “click here” as link text (2001)",
+    "url": "https://www.w3.org/QA/Tips/noClickHere",
+    "author": "theandrewbailey",
+    "date": "2025-07-03",
+    "points": "350",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44442473"
+  },
+  {
+    "title": "Efficient set-membership filters and dictionaries based on SAT",
+    "url": "https://github.com/NationalSecurityAgency/XORSATFilter",
+    "author": "keepamovin",
+    "date": "2025-07-03",
+    "points": "19",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44413308"
+  },
+  {
+    "title": "Escher's art and computer science",
+    "url": "https://github.com/gritzko/librdx/blob/master/blog/escher.md",
+    "author": "signa11",
+    "date": "2025-07-03",
+    "points": "15",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44432142"
+  },
+  {
+    "title": "Evidence of a 12,800-year-old shallow airburst depression in Louisiana",
+    "url": "https://www.scienceopen.com/hosted-document?doi=10.14293/ACI.2025.0004",
+    "author": "keepamovin",
+    "date": "2025-07-03",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44431638"
+  },
+  {
+    "title": "Evolution of Minimum Viable Product",
+    "url": "https://raspasov.posthaven.com/evolution-of-minimum-viable-product",
+    "author": "johnxie",
+    "date": "2025-07-03",
+    "points": "14",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44447429"
+  },
+  {
+    "title": "Exploiting the IKKO Activebuds \"AI powered\" earbuds",
+    "url": "https://blog.mgdproductions.com/ikko-activebuds/",
+    "author": "ajdude",
+    "date": "2025-07-03",
+    "points": "351",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44443919"
+  },
+  {
+    "title": "Finding and understanding bugs in C compilers [pdf]",
+    "url": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
+    "author": "todsacerdoti",
+    "date": "2025-07-03",
+    "points": "7",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44432644"
+  },
+  {
+    "title": "Gene therapy restored hearing in deaf patients",
+    "url": "https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients",
+    "author": "justacrow",
+    "date": "2025-07-03",
+    "points": "243",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44444626"
+  },
+  {
+    "title": "Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands",
+    "url": "https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands",
+    "author": "mschuster91",
+    "date": "2025-07-03",
+    "points": "69",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44442189"
+  },
+  {
+    "title": "How large are large language models?",
+    "url": "https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e",
+    "author": "rain1",
+    "date": "2025-07-03",
+    "points": "196",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44442072"
+  },
+  {
+    "title": "Huawei releases an open weight model trained on Huawei Ascend GPUs",
+    "url": "https://arxiv.org/abs/2505.21411",
+    "author": "buyucu",
+    "date": "2025-07-03",
+    "points": "285",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44441089"
+  },
+  {
+    "title": "I'm dialing back my LLM usage",
+    "url": "https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin",
+    "author": "sagacity",
+    "date": "2025-07-03",
+    "points": "314",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44443109"
+  },
+  {
+    "title": "Law360 mandates reporters use AI \"bias\" detection on all stories",
+    "url": "https://www.niemanlab.org/2025/07/law360-mandates-reporters-use-ai-bias-detection-on-all-stories/",
+    "author": "12_throw_away",
+    "date": "2025-07-03",
+    "points": "31",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44447220"
+  },
+  {
+    "title": "MindsDB (YC W20) is hiring an AI solutions engineer",
+    "url": "https://job-boards.greenhouse.io/mindsdb/jobs/4770283007",
+    "author": "",
+    "date": "2025-07-03",
+    "points": "0",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44446477"
+  },
+  {
+    "title": "More assorted notes on Liquid Glass",
+    "url": "https://morrick.me/archives/10068",
+    "author": "freediver",
+    "date": "2025-07-03",
+    "points": "60",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44441279"
+  },
+  {
+    "title": "Private sector lost 33k jobs, badly missing expectations of 100k increase",
+    "url": "https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html",
+    "author": "ceejayoz",
+    "date": "2025-07-03",
+    "points": "285",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44443622"
+  },
+  {
+    "title": "Reuleaux Kinematic Mechanisms Collection",
+    "url": "https://digital.library.cornell.edu/collections/kmoddl",
+    "author": "gyomu",
+    "date": "2025-07-03",
+    "points": "6",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44430932"
+  },
+  {
+    "title": "Show HN: CSS generator for a high-def glass effect",
+    "url": "https://glass3d.dev/",
+    "author": "kris-kay",
+    "date": "2025-07-03",
+    "points": "128",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44445238"
+  },
+  {
+    "title": "Sony's Mark Cerny Has Worked on \"Big Chunks of RDNA 5\" with AMD",
+    "url": "https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/",
+    "author": "ZenithExtreme",
+    "date": "2025-07-03",
+    "points": "51",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44445458"
+  },
+  {
+    "title": "Tesla's energy storage business gets sucked into the company's downward spiral",
+    "url": "https://techcrunch.com/2025/07/02/teslas-energy-storage-business-gets-sucked-into-the-companys-downward-spiral/",
+    "author": "rntn",
+    "date": "2025-07-03",
+    "points": "35",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44447927"
+  },
+  {
+    "title": "The Evolution of Caching Libraries in Go",
+    "url": "https://maypok86.github.io/otter/blog/cache-evolution/",
+    "author": "maypok86",
+    "date": "2025-07-03",
+    "points": "21",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44414630"
+  },
+  {
+    "title": "The Zen of Quakerism (2016)",
+    "url": "https://www.friendsjournal.org/the-zen-of-quakerism/",
+    "author": "surprisetalk",
+    "date": "2025-07-03",
+    "points": "62",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44413076"
+  },
+  {
+    "title": "WebAssembly Troubles part 4: Microwasm (2019)",
+    "url": "http://troubles.md/microwasm/",
+    "author": "Bogdanp",
+    "date": "2025-07-03",
+    "points": "9",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44411445"
+  },
+  {
+    "title": "What I learned gathering nootropic ratings (2022)",
+    "url": "https://troof.blog/posts/nootropics/",
+    "author": "julianh65",
+    "date": "2025-07-03",
+    "points": "95",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44443492"
+  }
+]

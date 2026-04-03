@@ -1,0 +1,86 @@
+---
+title: The Framework Desktop is a beast
+url: https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff
+site_name: hackernews_api
+fetched_at: '2025-08-11T19:08:08.716910'
+original_url: https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff
+author: lemonberry
+date: '2025-08-09'
+description: The Framework Desktop is a beast
+tags:
+- hackernews
+- trending
+---
+
+August 7, 2025
+
+## The Framework Desktop is a beast
+
+I've been running the
+Framework Desktop
+ for a few months here in Copenhagen now. It's an incredible machine. It's completely quiet, even under heavy, stress-all-cores load. It's tiny too, at just 4.5L of volume, especially compared to my old beautiful but bulky North tower running the 7950X — yet it's faster! And finally, it's simply funky, quirky, and fun!
+In some ways, the Framework Desktop is a curious machine. Desktop PCs are already very user-repairable! So why is Framework even bringing their talents to this domain? In the laptop realm, they're basically alone with that concept, but in the desktop space, it's rather crowded already. Yet it somehow still makes sense.
+Partly because Framework has gone with the AMD Ryzen AI Max 395+, which is technically a laptop CPU. You can find it in the ASUS ROG Flow Z13 and the HP ZBook Ultra. Which means it'll fit in a tiny footprint, and Framework apparently just wanted to see what they could do in that form factor. They clearly had fun with it. Look at mine:
+
+
+There are 21 little tiles on the front that you can get in a bunch of different colors or with logos from Framework. Or you can 3D print your own! It's a welcome change in aesthetic from the brushed aluminum or gamer-focused RGBs approach that most of the competition is taking.
+But let's cut to the benchmarks. That's really why you'd buy a machine like the Framework Desktop. There are significantly cheaper mini PCs available from Beelink and others, but so far, Framework has the only AMD 395+ unit on sale that's completely silent (the GMKTec very much is not, nor is the Z3 Flow). And for me, that's just a dealbreaker. I can't listen to roaring fans anymore.
+Here's the key benchmark for me:
+
+
+That's the only type of multi-core workload I really sit around waiting on these days, and the Framework Desktop absolutely crushes it. It's almost twice as fast as the Beelink SER8 and still a solid third faster than the Beelink SER9 too. Of course, it's also a lot more expensive, but you're clearly getting some multi-core bang for your buck here!
+It's even a more dramatic difference to the Macs. It's a solid 40% faster than the M4 Max and 50% faster than the M4 Pro! Now some will say "that's just because Docker is faster on Linux," and they're not entirely wrong. Docker runs natively on Linux, so for this test, where the MySQL/Redis/ElasticSearch data stores run in Docker while Ruby and the app code runs natively, that's part of the answer. Last I checked, it was about 25% of the difference.
+But so what? Docker is an integral part of the workflow for tons of developers. We use it to be able to run different versions of MySQL, Redis, and ElasticSearch for different applications on the same machine at the same time. You can't really do that without Docker. So this is what Real World benchmarks reveal.
+It's not just about having a Docker advantage, though. The AMD 395+ is also incredibly potent in RAW CPU performance. Those 16 Zen5 cores are running at 5.1GHz, and in Geekbench 6 multicore, this is how they stack up:
+
+
+Basically matching the M4 Max! And a good chunk faster than the M4 Pro (as well as other AMDs and Intel's 14900K!). No wonder that it's crazy quick with a full-core stress test like running 30,000 assertions for our
+HEY
+ test suite.
+To be fair, the M4s are faster in single-core performance. Apple holds the crown there. It's about 20%. And you'll see that in benchmarks like Speedometer, which mostly measures JavaScript single-core performance. The Framework Desktop puts out 670 vs 744 on the M4 Pro on Speedometer 2.1. On SP 3.1, it's an even bigger difference with 35 vs 50.
+
+
+But I've found that all these computers feel fast enough in single-core performance these days. I can't actually feel the difference browsing on a machine that does 670 vs 744 on SP2.1. Hell, I can barely feel the difference between the SER8, which does 506, and the M4 Pro! The only time I actually feel like I'm waiting on anything is in multi-core workloads like the HEY test suite, and here the AMD 395+ is very near the fastest you can get for a consumer desktop machine today at any price.
+It gets even better when you bring price into the equation, though. The Framework Desktop with 64GB RAM + 2TB NVMe is $1,876. To get a Mac Studio with similar specs — M4 Max, 64GB RAM, 2TB NVMe — you'll literally spend nearly twice as much at $3,299! If you go for 128GB RAM, you'll spend $2,276 on the Framework, but $4,099 on the Mac. And it'll still be way slower for development work using Docker! The Framework Desktop is simply a great deal.
+Speaking of 64GB vs 128GB, I've been running the 64GB version, and I almost never get anywhere close to the limits. I think the highest I've seen in regular use is about 20GB of RAM in action. Linux is really efficient. Especially when you're using a window manager like Hyprland, as we do in Omarchy.
+The only reason you really want to go for the full 128GB RAM is to run local LLM models. The AMD 395+ uses unified memory, like Apple, so nearly all of it is addressable to be used by the GPU. That means you can run monster models, like the new 120b gpt-oss from OpenAI. Framework has a
+video showing them pushing out 40 tokens/second
+ doing just that. That seems about in range of the numbers I've seen from the M4 Max, which also seem in the 40-50 token/second range, but I'll defer to folks who benchmark local LLMs for the exact details on that.
+I tried running the new gpt-oss-20b on my 64GB machine, though, and I wasn't exactly blown away by the accuracy. In fact, I'd say it was pretty bad. I mean, exceptionally cool that it's doable, but very far off the frontier models we have access to as SaaS. So personally, this isn't yet something I actually use all that much in day-to-day development. I want the best models running at full speed, and right now that means SaaS.
+So if you just want the best, small computer that runs Linux superbly well out of the box, you should buy the Framework Desktop. It's completely quiet, fantastically fast, and super fun to look at.
+But I think it's also fair to mention that you can get something like
+a Beelink SER9 for half the price
+! Yes, it's also only 2/3 the performance in multi-core, but it's just as fast in single-core. Most developers could totally get away with the SER9, and barely notice what they were missing. But there are just as many people for whom the extra $1,000 is worth the price to run the test suite 40 seconds quicker! You know who you are.
+Oh, before I close, I also need to mention that this thing is a gaming powerhouse. It basically punches about as hard as an RTX 4060! With an iGPU! That's kinda crazy. Totally new territory on the PC side for integrated graphics. ETA Prime has a video showing the same chip in the GMK Tech
+running premier games at 1440p High Settings at great frame rates
+. You can run most games under Linux these days too (thanks Valve and Steam Deck!), but if you need to dual boot with Windows, the dual NVMe slots in the Framework Desktop come very handy.
+Framework did good with this one. AMD really blew it out of the water with the 395+. We're spoiled to have such incredible hardware available for Linux at such appealing discounts over similar stuff from Cupertino. What a great time to love open source software and tinker-friendly hardware!
+
+About David Heinemeier Hansson
+
+Made
+Basecamp
+ and
+HEY
+ for the underdogs as co-owner and CTO of
+37signals
+. Created
+Ruby on Rails
+. Wrote
+REWORK
+,
+It Doesn't Have to Be Crazy at Work
+, and
+REMOTE
+. Won at Le Mans as a
+racing driver
+. Invested in
+Danish startups
+.
+
+ Subscribe to get future posts via email (or grab the
+RSS feed
+)
+
+
+Subscribe

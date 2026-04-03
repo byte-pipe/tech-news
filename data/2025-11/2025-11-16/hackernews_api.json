@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A new documentary about the history of forced psychiatric treatment in Spain",
+    "url": "https://www.bbc.co.uk/news/articles/cr43vx0rrwvo",
+    "author": "binning",
+    "date": "2025-11-16",
+    "score": 118,
+    "comments": 104,
+    "id": 45945101,
+    "discussion_url": "https://news.ycombinator.com/item?id=45945101",
+    "description": "A new documentary about the history of forced psychiatric treatment in Spain",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427862"
+  },
+  {
+    "title": "AirPods libreated from Apple's ecosystem",
+    "url": "https://github.com/kavishdevar/librepods",
+    "author": "moonleay",
+    "date": "2025-11-16",
+    "score": 1121,
+    "comments": 327,
+    "id": 45941596,
+    "discussion_url": "https://news.ycombinator.com/item?id=45941596",
+    "description": "AirPods libreated from Apple's ecosystem",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427803"
+  },
+  {
+    "title": "Anthropic's report smells a lot like bullshit",
+    "url": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
+    "author": "vxvxvx",
+    "date": "2025-11-16",
+    "score": 640,
+    "comments": 205,
+    "id": 45944296,
+    "discussion_url": "https://news.ycombinator.com/item?id=45944296",
+    "description": "Anthropic's report smells a lot like bullshit",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427841"
+  },
+  {
+    "title": "Archimedes – A Python toolkit for hardware engineering",
+    "url": "https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html",
+    "author": "i_don_t_know",
+    "date": "2025-11-15",
+    "score": 104,
+    "comments": 13,
+    "id": 45939938,
+    "discussion_url": "https://news.ycombinator.com/item?id=45939938",
+    "description": "Archimedes – A Python toolkit for hardware engineering",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427948"
+  },
+  {
+    "title": "AsciiMath",
+    "url": "https://asciimath.org/",
+    "author": "smartmic",
+    "date": "2025-11-15",
+    "score": 138,
+    "comments": 44,
+    "id": 45940706,
+    "discussion_url": "https://news.ycombinator.com/item?id=45940706",
+    "description": "AsciiMath",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427924"
+  },
+  {
+    "title": "Blocking LLM crawlers without JavaScript",
+    "url": "https://www.owl.is/blogg/blocking-crawlers-without-javascript/",
+    "author": "todsacerdoti",
+    "date": "2025-11-15",
+    "score": 185,
+    "comments": 89,
+    "id": 45941441,
+    "discussion_url": "https://news.ycombinator.com/item?id=45941441",
+    "description": "Blocking LLM crawlers without JavaScript",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427895"
+  },
+  {
+    "title": "Boa: A standard-conforming embeddable JavaScript engine written in Rust",
+    "url": "https://github.com/boa-dev/boa",
+    "author": "maxloh",
+    "date": "2025-11-06",
+    "score": 265,
+    "comments": 67,
+    "id": 45832051,
+    "discussion_url": "https://news.ycombinator.com/item?id=45832051",
+    "description": "Boa: A standard-conforming embeddable JavaScript engine written in Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427899"
+  },
+  {
+    "title": "Brimstone: ES2025 JavaScript engine written in Rust",
+    "url": "https://github.com/Hans-Halverson/brimstone",
+    "author": "ivankra",
+    "date": "2025-11-16",
+    "score": 144,
+    "comments": 73,
+    "id": 45944337,
+    "discussion_url": "https://news.ycombinator.com/item?id=45944337",
+    "description": "Brimstone: ES2025 JavaScript engine written in Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427853"
+  },
+  {
+    "title": "Heretic: Automatic censorship removal for language models",
+    "url": "https://github.com/p-e-w/heretic",
+    "author": "melded",
+    "date": "2025-11-16",
+    "score": 204,
+    "comments": 49,
+    "id": 45945587,
+    "discussion_url": "https://news.ycombinator.com/item?id=45945587",
+    "description": "Heretic: Automatic censorship removal for language models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427757"
+  },
+  {
+    "title": "Hyundai Paywalls Brake Pads replacement on Ioniq 5 N",
+    "url": "https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login",
+    "author": "zdw",
+    "date": "2025-11-16",
+    "score": 194,
+    "comments": 148,
+    "id": 45942518,
+    "discussion_url": "https://news.ycombinator.com/item?id=45942518",
+    "description": "Hyundai Paywalls Brake Pads replacement on Ioniq 5 N",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427975"
+  },
+  {
+    "title": "I don’t need a Steam Machine",
+    "url": "https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/",
+    "author": "ingve",
+    "date": "2025-11-16",
+    "score": 120,
+    "comments": 215,
+    "id": 45943992,
+    "discussion_url": "https://news.ycombinator.com/item?id=45943992",
+    "description": "I don’t need a Steam Machine",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427951"
+  },
+  {
+    "title": "IDEmacs: A Visual Studio Code clone for Emacs",
+    "url": "https://codeberg.org/IDEmacs/IDEmacs",
+    "author": "nogajun",
+    "date": "2025-11-16",
+    "score": 283,
+    "comments": 116,
+    "id": 45941835,
+    "discussion_url": "https://news.ycombinator.com/item?id=45941835",
+    "description": "IDEmacs: A Visual Studio Code clone for Emacs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427832"
+  },
+  {
+    "title": "Iran begins cloud seeding operations as drought bites",
+    "url": "https://www.arabnews.com/node/2622812/middle-east",
+    "author": "mhb",
+    "date": "2025-11-16",
+    "score": 113,
+    "comments": 122,
+    "id": 45945188,
+    "discussion_url": "https://news.ycombinator.com/item?id=45945188",
+    "description": "Iran begins cloud seeding operations as drought bites",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427870"
+  },
+  {
+    "title": "Linux on the Fujitsu Lifebook U729",
+    "url": "https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729",
+    "author": "ibobev",
+    "date": "2025-11-15",
+    "score": 200,
+    "comments": 147,
+    "id": 45937989,
+    "discussion_url": "https://news.ycombinator.com/item?id=45937989",
+    "description": "Linux on the Fujitsu Lifebook U729",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427916"
+  },
+  {
+    "title": "Mag Wealth (2024)",
+    "url": "https://saul.pw/mag/wealth/",
+    "author": "andsoitis",
+    "date": "2025-11-15",
+    "score": 147,
+    "comments": 171,
+    "id": 45938427,
+    "discussion_url": "https://news.ycombinator.com/item?id=45938427",
+    "description": "Mag Wealth (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427963"
+  },
+  {
+    "title": "Maybe you’re not trying",
+    "url": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
+    "author": "eatitraw",
+    "date": "2025-11-16",
+    "score": 302,
+    "comments": 140,
+    "id": 45943979,
+    "discussion_url": "https://news.ycombinator.com/item?id=45943979",
+    "description": "Maybe you’re not trying",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427794"
+  },
+  {
+    "title": "Our investigation into the suspicious pressure on Archive.today",
+    "url": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
+    "author": "immibis",
+    "date": "2025-11-15",
+    "score": 1700,
+    "comments": 423,
+    "id": 45936460,
+    "discussion_url": "https://news.ycombinator.com/item?id=45936460",
+    "description": "Our investigation into the suspicious pressure on Archive.today",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427874"
+  },
+  {
+    "title": "Report: Tim Cook could step down as Apple CEO 'as soon as next year'",
+    "url": "https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/",
+    "author": "achow",
+    "date": "2025-11-15",
+    "score": 188,
+    "comments": 385,
+    "id": 45940681,
+    "discussion_url": "https://news.ycombinator.com/item?id=45940681",
+    "description": "Report: Tim Cook could step down as Apple CEO 'as soon as next year'",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427971"
+  },
+  {
+    "title": "Run Nix Based Environments in Kubernetes",
+    "url": "https://flox.dev/kubernetes/",
+    "author": "kelseyhightower",
+    "date": "2025-11-10",
+    "score": 95,
+    "comments": 29,
+    "id": 45876884,
+    "discussion_url": "https://news.ycombinator.com/item?id=45876884",
+    "description": "Run Nix Based Environments in Kubernetes",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427886"
+  },
+  {
+    "title": "Running the \"Reflections on Trusting Trust\" Compiler (2023)",
+    "url": "https://research.swtch.com/nih",
+    "author": "naves",
+    "date": "2025-11-16",
+    "score": 87,
+    "comments": 2,
+    "id": 45945202,
+    "discussion_url": "https://news.ycombinator.com/item?id=45945202",
+    "description": "Running the \"Reflections on Trusting Trust\" Compiler (2023)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427773"
+  },
+  {
+    "title": "Show HN: Unflip – a puzzle game about XOR patterns of squares",
+    "url": "https://unflipgame.com/",
+    "author": "bogdanoff_2",
+    "date": "2025-11-11",
+    "score": 163,
+    "comments": 40,
+    "id": 45891066,
+    "discussion_url": "https://news.ycombinator.com/item?id=45891066",
+    "description": "Show HN: Unflip – a puzzle game about XOR patterns of squares",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427967"
+  },
+  {
+    "title": "The Internet Is No Longer a Safe Haven",
+    "url": "https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/",
+    "author": "akyuu",
+    "date": "2025-11-16",
+    "score": 182,
+    "comments": 141,
+    "id": 45944870,
+    "discussion_url": "https://news.ycombinator.com/item?id=45944870",
+    "description": "The Internet Is No Longer a Safe Haven",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427858"
+  },
+  {
+    "title": "The inconceivable types of Rust: How to make self-borrows safe (2024)",
+    "url": "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html",
+    "author": "birdculture",
+    "date": "2025-11-15",
+    "score": 107,
+    "comments": 19,
+    "id": 45941443,
+    "discussion_url": "https://news.ycombinator.com/item?id=45941443",
+    "description": "The inconceivable types of Rust: How to make self-borrows safe (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427928"
+  },
+  {
+    "title": "Things that aren't doing the thing",
+    "url": "https://strangestloop.io/essays/things-that-arent-doing-the-thing",
+    "author": "downboots",
+    "date": "2025-11-15",
+    "score": 420,
+    "comments": 194,
+    "id": 45939431,
+    "discussion_url": "https://news.ycombinator.com/item?id=45939431",
+    "description": "Things that aren't doing the thing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427866"
+  },
+  {
+    "title": "Transgenerational Epigenetic Inheritance: the story of learned avoidance",
+    "url": "https://elifesciences.org/articles/109427",
+    "author": "nabla9",
+    "date": "2025-11-15",
+    "score": 161,
+    "comments": 92,
+    "id": 45939550,
+    "discussion_url": "https://news.ycombinator.com/item?id=45939550",
+    "description": "Transgenerational Epigenetic Inheritance: the story of learned avoidance",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427944"
+  },
+  {
+    "title": "UK's first small nuclear power station to be built in north Wales",
+    "url": "https://www.bbc.com/news/articles/c051y3d7myzo",
+    "author": "ksec",
+    "date": "2025-11-16",
+    "score": 138,
+    "comments": 177,
+    "id": 45944056,
+    "discussion_url": "https://news.ycombinator.com/item?id=45944056",
+    "description": "UK's first small nuclear power station to be built in north Wales",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427891"
+  },
+  {
+    "title": "When UPS charged me a $684 tariff on $355 of vintage computer parts",
+    "url": "http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html",
+    "author": "goldenskye",
+    "date": "2025-11-15",
+    "score": 290,
+    "comments": 253,
+    "id": 45941563,
+    "discussion_url": "https://news.ycombinator.com/item?id=45941563",
+    "description": "When UPS charged me a $684 tariff on $355 of vintage computer parts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427959"
+  },
+  {
+    "title": "When did people favor composition over inheritance?",
+    "url": "https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/",
+    "author": "ingve",
+    "date": "2025-11-06",
+    "score": 218,
+    "comments": 187,
+    "id": 45841095,
+    "discussion_url": "https://news.ycombinator.com/item?id=45841095",
+    "description": "When did people favor composition over inheritance?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427903"
+  },
+  {
+    "title": "Why use OpenBSD?",
+    "url": "https://www.tumfatig.net/2025/why-are-you-still-using-openbsd/",
+    "author": "akagusu",
+    "date": "2025-11-16",
+    "score": 111,
+    "comments": 76,
+    "id": 45944595,
+    "discussion_url": "https://news.ycombinator.com/item?id=45944595",
+    "description": "Why use OpenBSD?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427912"
+  },
+  {
+    "title": "libwifi: an 802.11 frame parsing and generation library written in C (2023)",
+    "url": "https://libwifi.so/",
+    "author": "vitalnodo",
+    "date": "2025-11-15",
+    "score": 142,
+    "comments": 14,
+    "id": 45941025,
+    "discussion_url": "https://news.ycombinator.com/item?id=45941025",
+    "description": "libwifi: an 802.11 frame parsing and generation library written in C (2023)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-16T19:06:30.427907"
+  }
+]

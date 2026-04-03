@@ -1,0 +1,252 @@
+[
+  {
+    "title": "15+ years later, Microsoft morged my diagram",
+    "author": "",
+    "score": "126",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://nvie.com/posts/15-years-later/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Asahi Linux Progress Report: Linux 6.19",
+    "author": "",
+    "score": "94",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Bruteforcing the Bitwarden master password I forgor",
+    "author": "",
+    "score": "41",
+    "comments": "0",
+    "tags": "cryptography, reversing",
+    "url": "https://compilercrim.es/forgor/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "C++26: std::is_within_lifetime",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "c++",
+    "url": "https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Choosing a Language Based on its Syntax?",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "design, plt, programming",
+    "url": "https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "ClawShell, Process-Level Isolation for OpenClaw Credentials",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "security, vibecoding",
+    "url": "https://github.com/clawshell/clawshell",
+    "date": "2026-02-20",
+    "description": "☶"
+  },
+  {
+    "title": "Current - An RSS reader",
+    "author": "",
+    "score": "64",
+    "comments": "0",
+    "tags": "design, mobile",
+    "url": "https://www.terrygodier.com/current",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "DNS-PERSIST-01: A New Model for DNS-based Challenge Validation",
+    "author": "",
+    "score": "73",
+    "comments": "0",
+    "tags": "networking, security",
+    "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Lilush: A static LuaJIT runtime with batteries",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "lua, vibecoding",
+    "url": "https://lilush.link/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Linux CVE assignment process",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "http://www.kroah.com/log/blog/2026/02/16/linux-cve-assignment-process/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Netbase a port of the netbsd utilities for linux",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "linux, netbsd",
+    "url": "https://github.com/littlefly365/Netbase",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Notes on clarifying man pages",
+    "author": "",
+    "score": "42",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://jvns.ca/blog/2026/02/18/man-pages/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Paged Out! #8",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "pdf, security",
+    "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Rust on CHERIoT: Status update #0",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "compilers, rust",
+    "url": "https://rust.cheriot.org/2026/02/15/status-update.html",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Salt: Systems programming, mathematically verified",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "plt, vibecoding",
+    "url": "https://salt-lang.dev/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Self-hosting my websites using bootable containers",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "devops, linux",
+    "url": "https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "State of Clojure 2025 Results",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "clojure, practices",
+    "url": "https://clojure.org/news/2026/02/18/state-of-clojure-2025",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "The Missing Semester of Your CS Education (2026)",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "compsci, education, practices, unix",
+    "url": "https://missing.csail.mit.edu/",
+    "date": "2026-02-20",
+    "description": "☶"
+  },
+  {
+    "title": "The Perils of ISBN",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "science",
+    "url": "https://rygoldstein.com/posts/perils-of-isbn",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Tuple Spaces",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "compsci, databases, distributed, logiclangs",
+    "url": "https://www.mcs.anl.gov/~itf/dbpp/text/node44.html#SECTION02550000000000000000",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Using the Browser’s <canvas> for Data Compression",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "browsers, javascript, web",
+    "url": "https://jstrieb.github.io/posts/canvas-compress/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "What Your Bluetooth Devices Reveal About You",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "privacy",
+    "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "Why I don't think AGI is imminent",
+    "author": "",
+    "score": "37",
+    "comments": "0",
+    "tags": "ai",
+    "url": "https://dlants.me/agi-not-imminent.html",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds",
+    "author": "",
+    "score": "110",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://vmfunc.re/blog/persona/",
+    "date": "2026-02-20",
+    "description": ""
+  },
+  {
+    "title": "pg-here: Run a local PostgreSQL instance in your project folder with one command",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://github.com/mayfer/pg-here",
+    "date": "2026-02-20",
+    "description": ""
+  }
+]

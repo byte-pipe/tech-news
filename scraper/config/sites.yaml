@@ -1,0 +1,233 @@
+# Sites Configuration for Market Intelligence Scraper
+# This file contains configuration for all scrapers
+
+# Global settings
+global:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  request_timeout: 30  # seconds
+  max_retries: 3
+  retry_delay: 2  # seconds
+
+# Site-specific settings
+sites:
+  github:
+    name: "github"
+    url: "https://github.com/trending"
+    selector: "article.Box-row"
+    time_periods:
+      - "daily"
+      - "weekly"
+      - "monthly"
+    fields:
+      - name: "title"
+        selector: "h2 a"
+        required: true
+      - name: "description"
+        selector: "p"
+        required: false
+      - name: "stars"
+        selector: "a[href*=\"stargazers\"]"
+        required: false
+      - name: "language"
+        selector: "span[itemprop=\"programmingLanguage\"]"
+        required: false
+      - name: "url"
+        selector: "h2 a"
+        attribute: "href"
+        required: true
+        prefix: "https://github.com"
+
+  reddit:
+    name: "reddit"
+    url: "https://www.reddit.com/r/startups/top.json?t=day"
+    api_based: true
+    fields:
+      - name: "title"
+        json_path: "data.title"
+        required: true
+      - name: "score"
+        json_path: "data.score"
+        required: false
+      - name: "comments"
+        json_path: "data.num_comments"
+        required: false
+      - name: "url"
+        json_path: "data.permalink"
+        required: true
+        prefix: "https://www.reddit.com"
+
+  hackernews:
+    name: "hackernews"
+    url: "https://news.ycombinator.com"
+    selector: "tr.athing"
+    fields:
+      - name: "title"
+        selector: "td.title a.titlelink"
+        required: true
+      - name: "url"
+        selector: "td.title a.titlelink"
+        attribute: "href"
+        required: true
+      - name: "score"
+        selector: "span.score"
+        required: false
+      - name: "comments"
+        selector: "td.subtext a:last-child"
+        required: false
+
+  hackernews_api:
+    name: "hackernews_api"
+    url: "https://hacker-news.firebaseio.com/v0/topstories.json"
+    api_based: true
+    description: "HackerNews API-based scraper for reliable data collection"
+    rate_limit: 1  # seconds between API calls
+    max_stories: 30
+    min_score: 50
+    fields:
+      - name: "title"
+        json_path: "title"
+        required: true
+      - name: "url"
+        json_path: "url"
+        required: true
+      - name: "score"
+        json_path: "score"
+        required: false
+      - name: "comments"
+        json_path: "descendants"
+        required: false
+      - name: "author"
+        json_path: "by"
+        required: false
+      - name: "time"
+        json_path: "time"
+        required: false
+
+  devto:
+    name: "devto"
+    url: "https://dev.to/top/week"
+    selector: "div.crayons-story"
+    fields:
+      - name: "title"
+        selector: "h3 a"
+        required: true
+      - name: "url"
+        selector: "h3 a"
+        attribute: "href"
+        required: true
+        prefix: "https://dev.to"
+      - name: "comments"
+        selector: "a.crayons-btn--s"
+        required: false
+      - name: "reactions"
+        selector: "div.crayons-story__details a.crayons-btn"
+        required: false
+
+  lobsters:
+    name: "lobsters"
+    url: "https://lobste.rs"
+    selector: "div.story_liner"
+    requires_selenium: true
+    fields:
+      - name: "title"
+        selector: "a.u-url"
+        required: true
+      - name: "url"
+        selector: "a.u-url"
+        attribute: "href"
+        required: true
+      - name: "score"
+        selector: "span.score"
+        required: false
+      - name: "comments"
+        selector: "a.comments_label"
+        required: false
+
+  hackernoon:
+    name: "hackernoon"
+    url: "https://hackernoon.com"
+    json_selector: "script#__NEXT_DATA__"
+    json_paths:
+      - "props.pageProps.data.boostedStories"
+      - "props.pageProps.data.trendingStories"
+      - "props.pageProps.stories"
+    fields:
+      - name: "title"
+        json_path: "title"
+        required: true
+      - name: "author"
+        json_path: "profile.displayName"
+        fallback_paths:
+          - "author.name"
+          - "authorName"
+        required: false
+      - name: "read_time"
+        json_path: "readTime"
+        fallback_paths:
+          - "estimatedTime"
+          - "readTimeMinutes"
+        required: false
+      - name: "date"
+        json_path: "publishedAt"
+        fallback_paths:
+          - "dateAdded"
+          - "publishDate"
+        required: false
+      - name: "tags"
+        json_path: "tags"
+        is_array: true
+        required: false
+      - name: "url"
+        json_path: "slug"
+        prefix: "https://hackernoon.com/"
+        required: true
+
+  hnrss:
+    name: "hnrss"
+    url: "https://hnrss.org/frontpage?points=100&count=30"
+    api_based: true
+    description: "HackerNews stories filtered by engagement via hnrss.org RSS feed"
+    fields:
+      - name: "title"
+        required: true
+      - name: "url"
+        required: true
+      - name: "score"
+        required: false
+      - name: "comments"
+        required: false
+      - name: "discussion_url"
+        required: false
+
+  tldr:
+    name: "tldr"
+    url: "https://tldr.tech/tech"
+    description: "Human-curated daily tech picks from TLDR newsletter"
+    fields:
+      - name: "title"
+        required: true
+      - name: "url"
+        required: true
+      - name: "description"
+        required: false
+      - name: "tags"
+        required: false
+
+  newsfeed:
+    name: "newsfeed"
+    url: "https://feeds.bbci.co.uk/news/rss.xml"
+    api_based: true
+    description: "Multi-source RSS aggregator covering tech, science, world news, and geopolitics"
+    fields:
+      - name: "title"
+        required: true
+      - name: "url"
+        required: true
+      - name: "description"
+        required: false
+      - name: "source"
+        required: false
+      - name: "tags"
+        required: false
+
+  # Add other sites as needed

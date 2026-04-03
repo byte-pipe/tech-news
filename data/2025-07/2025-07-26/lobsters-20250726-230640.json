@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Arm desktop: x86 emulation",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software (and DOOM)",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "hardware, reversing",
+    "url": "https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Can LLMs Do Accounting?",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://accounting.penrose.com/",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Celebrating 20 years of MDN",
+    "author": "",
+    "score": "71",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "From Async/Await to Virtual Threads",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://lucumr.pocoo.org/2025/7/26/virtual-threads/",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "GNOME Calendar: A New Era of Accessibility Achieved in 90 Days",
+    "author": "",
+    "score": "36",
+    "comments": "0",
+    "tags": "a11y",
+    "url": "https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Hand Drawn CGI: Animating the Terrahawks Title Sequence",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "video, art, design",
+    "url": "https://www.youtube.com/watch?v=HI7oEiaR8PU",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "It's time for modern CSS to kill the SPA",
+    "author": "",
+    "score": "32",
+    "comments": "0",
+    "tags": "css, web",
+    "url": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Lobsters Interview with Technomancy",
+    "author": "",
+    "score": "132",
+    "comments": "0",
+    "tags": "interview, person",
+    "url": "https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy",
+    "date": "2025-07-26",
+    "description": "☶"
+  },
+  {
+    "title": "Most of your projects are stupid. Please make some actual games",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "video, games, programming",
+    "url": "https://www.youtube.com/watch?v=Ca53JTohdN4",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Optimi-Zi(n)g Sudoku-Solving",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "performance, zig",
+    "url": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Perfecting anti-aliasing on signed distance functions",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "graphics",
+    "url": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Renting is for Suckers",
+    "author": "",
+    "score": "147",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://andrewkelley.me/post/renting-is-for-suckers.html",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Resizable structs in Zig",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://tristanpemble.com/resizable-structs-in-zig/",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Reversing the C64 Bubble Bobble RNG",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "retrocomputing, reversing",
+    "url": "http://geon.github.io/programming/2025/07/24/bubble-bobble-c64-rng-emulator",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Rust running on every major GPU platform",
+    "author": "",
+    "score": "27",
+    "comments": "0",
+    "tags": "graphics, rust",
+    "url": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Split Flap",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "design, web",
+    "url": "https://fx.hot.page/split-flap",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Test results for AMD Zen 5",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "hardware, performance",
+    "url": "https://www.agner.org/forum/viewtopic.php?t=287&start=11",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "The MonTana Mini Computer",
+    "author": "",
+    "score": "30",
+    "comments": "0",
+    "tags": "compsci, retrocomputing",
+    "url": "https://mtmc.cs.montana.edu",
+    "date": "2025-07-26",
+    "description": "☶"
+  },
+  {
+    "title": "Using fortune to reinforce habits",
+    "author": "",
+    "score": "54",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "Wren - a small, fast, class-based concurrent scripting language",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "erlang, plt",
+    "url": "https://github.com/wren-lang/wren",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "clj-coll: Clojure collections and sequences in Common Lisp",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "lisp",
+    "url": "https://github.com/dtenny/clj-coll",
+    "date": "2025-07-26",
+    "description": ""
+  },
+  {
+    "title": "emacs-arei Async IDE for Guile",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "emacs",
+    "url": "https://git.sr.ht/~abcdw/emacs-arei",
+    "date": "2025-07-26",
+    "description": "☶"
+  }
+]

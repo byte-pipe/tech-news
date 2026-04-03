@@ -1,0 +1,512 @@
+[
+  {
+    "title": "Blockdiff: We built our own file format for VM disk snapshots",
+    "url": "https://cognition.ai/blog/blockdiff",
+    "author": "cyanf",
+    "date": "2025-10-01",
+    "score": 82,
+    "comments": 19,
+    "id": 45433926,
+    "discussion_url": "https://news.ycombinator.com/item?id=45433926",
+    "description": "Blockdiff: We built our own file format for VM disk snapshots",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932753"
+  },
+  {
+    "title": "Building an IoT Notification Device from Scratch",
+    "url": "https://bertwagner.com/posts/splashflag-building-an-iot-swimming-notification-device-from-scratch/",
+    "author": "bertwagner",
+    "date": "2025-10-01",
+    "score": 67,
+    "comments": 14,
+    "id": 45437027,
+    "discussion_url": "https://news.ycombinator.com/item?id=45437027",
+    "description": "Building an IoT Notification Device from Scratch",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932538"
+  },
+  {
+    "title": "Building the heap: racking 30 petabytes of hard drives for pretraining",
+    "url": "https://si.inc/posts/the-heap/",
+    "author": "nee1r",
+    "date": "2025-10-01",
+    "score": 159,
+    "comments": 129,
+    "id": 45438496,
+    "discussion_url": "https://news.ycombinator.com/item?id=45438496",
+    "description": "Building the heap: racking 30 petabytes of hard drives for pretraining",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932549"
+  },
+  {
+    "title": "CDC File Transfer",
+    "url": "https://github.com/google/cdc-file-transfer",
+    "author": "GalaxySnail",
+    "date": "2025-10-01",
+    "score": 357,
+    "comments": 94,
+    "id": 45433768,
+    "discussion_url": "https://news.ycombinator.com/item?id=45433768",
+    "description": "CDC File Transfer",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932709"
+  },
+  {
+    "title": "Category Theory Illustrated – Natural Transformations",
+    "url": "https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/",
+    "author": "boris_m",
+    "date": "2025-10-01",
+    "score": 158,
+    "comments": 58,
+    "id": 45435422,
+    "discussion_url": "https://news.ycombinator.com/item?id=45435422",
+    "description": "Category Theory Illustrated – Natural Transformations",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932524"
+  },
+  {
+    "title": "Codeberg Reaches 300k Projects",
+    "url": "https://codeberg.org/",
+    "author": "welovebunnies",
+    "date": "2025-10-01",
+    "score": 132,
+    "comments": 48,
+    "id": 45439955,
+    "discussion_url": "https://news.ycombinator.com/item?id=45439955",
+    "description": "Codeberg Reaches 300k Projects",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932513"
+  },
+  {
+    "title": "Cursor 1.7",
+    "url": "https://cursor.com/changelog/1-7",
+    "author": "mustaphah",
+    "date": "2025-10-01",
+    "score": 119,
+    "comments": 122,
+    "id": 45437735,
+    "discussion_url": "https://news.ycombinator.com/item?id=45437735",
+    "description": "Cursor 1.7",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932574"
+  },
+  {
+    "title": "Detect Electron apps on Mac that hasn't been updated to fix the system wide lag",
+    "url": "https://gist.github.com/tkafka/e3eb63a5ec448e9be6701bfd1f1b1e58",
+    "author": "tomaskafka",
+    "date": "2025-10-01",
+    "score": 143,
+    "comments": 95,
+    "id": 45437112,
+    "discussion_url": "https://news.ycombinator.com/item?id=45437112",
+    "description": "Detect Electron apps on Mac that hasn't been updated to fix the system wide lag",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932648"
+  },
+  {
+    "title": "DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025",
+    "url": "https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/",
+    "author": "oalders",
+    "date": "2025-10-01",
+    "score": 69,
+    "comments": 17,
+    "id": 45439883,
+    "discussion_url": "https://news.ycombinator.com/item?id=45439883",
+    "description": "DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932620"
+  },
+  {
+    "title": "Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts",
+    "url": "https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/",
+    "author": "robszumski",
+    "date": "2025-10-01",
+    "score": 64,
+    "comments": 9,
+    "id": 45439721,
+    "discussion_url": "https://news.ycombinator.com/item?id=45439721",
+    "description": "Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932607"
+  },
+  {
+    "title": "High-resolution efficient image generation from WiFi Mapping",
+    "url": "https://arxiv.org/abs/2506.10605",
+    "author": "oldfuture",
+    "date": "2025-10-01",
+    "score": 120,
+    "comments": 33,
+    "id": 45434941,
+    "discussion_url": "https://news.ycombinator.com/item?id=45434941",
+    "description": "High-resolution efficient image generation from WiFi Mapping",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932652"
+  },
+  {
+    "title": "I only use Google Sheets",
+    "url": "https://mayberay.bearblog.dev/why-i-only-use-google-sheets/",
+    "author": "mugamuga",
+    "date": "2025-10-01",
+    "score": 234,
+    "comments": 248,
+    "id": 45435463,
+    "discussion_url": "https://news.ycombinator.com/item?id=45435463",
+    "description": "I only use Google Sheets",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932697"
+  },
+  {
+    "title": "Intelligent Kubernetes Load Balancing at Databricks",
+    "url": "https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks",
+    "author": "ayf",
+    "date": "2025-10-01",
+    "score": 105,
+    "comments": 20,
+    "id": 45434417,
+    "discussion_url": "https://news.ycombinator.com/item?id=45434417",
+    "description": "Intelligent Kubernetes Load Balancing at Databricks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932693"
+  },
+  {
+    "title": "Jane Goodall has died",
+    "url": "https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead",
+    "author": "jaredwiener",
+    "date": "2025-10-01",
+    "score": 218,
+    "comments": 17,
+    "id": 45441069,
+    "discussion_url": "https://news.ycombinator.com/item?id=45441069",
+    "description": "Jane Goodall has died",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932501"
+  },
+  {
+    "title": "Minimal files and config for a PWA",
+    "url": "https://github.com/chr15m/minimal-pwa",
+    "author": "rcarmo",
+    "date": "2025-10-01",
+    "score": 121,
+    "comments": 20,
+    "id": 45437326,
+    "discussion_url": "https://news.ycombinator.com/item?id=45437326",
+    "description": "Minimal files and config for a PWA",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932636"
+  },
+  {
+    "title": "NJ theme park puts animatronic dinosaurs on Facebook Marketplace",
+    "url": "https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489",
+    "author": "ohjeez",
+    "date": "2025-09-28",
+    "score": 119,
+    "comments": 55,
+    "id": 45405144,
+    "discussion_url": "https://news.ycombinator.com/item?id=45405144",
+    "description": "NJ theme park puts animatronic dinosaurs on Facebook Marketplace",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932673"
+  },
+  {
+    "title": "No more \"check mail from other accounts\" in Gmail web",
+    "url": "https://support.google.com/mail/answer/16604719?hl=en",
+    "author": "sumanep",
+    "date": "2025-10-01",
+    "score": 80,
+    "comments": 30,
+    "id": 45439670,
+    "discussion_url": "https://news.ycombinator.com/item?id=45439670",
+    "description": "No more \"check mail from other accounts\" in Gmail web",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932529"
+  },
+  {
+    "title": "OpenTSLM: Language Models That Understand Time-Series (Stanford, ETH, Google)",
+    "url": "https://www.opentslm.com/",
+    "author": "rjakob",
+    "date": "2025-10-01",
+    "score": 57,
+    "comments": 16,
+    "id": 45440431,
+    "discussion_url": "https://news.ycombinator.com/item?id=45440431",
+    "description": "OpenTSLM: Language Models That Understand Time-Series (Stanford, ETH, Google)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932594"
+  },
+  {
+    "title": "Our efforts, in part, define us",
+    "url": "https://weakty.com/posts/efforts/",
+    "author": "todsacerdoti",
+    "date": "2025-10-01",
+    "score": 227,
+    "comments": 166,
+    "id": 45435825,
+    "discussion_url": "https://news.ycombinator.com/item?id=45435825",
+    "description": "Our efforts, in part, define us",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932582"
+  },
+  {
+    "title": "People want platforms, not governments, to be responsible for moderating content",
+    "url": "https://reutersinstitute.politics.ox.ac.uk/news/most-people-want-platforms-not-governments-be-responsible-moderating-content",
+    "author": "giuliomagnifico",
+    "date": "2025-10-01",
+    "score": 66,
+    "comments": 112,
+    "id": 45436664,
+    "discussion_url": "https://news.ycombinator.com/item?id=45436664",
+    "description": "People want platforms, not governments, to be responsible for moderating content",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932640"
+  },
+  {
+    "title": "Show HN: Autism Simulator",
+    "url": "https://autism-simulator.vercel.app/",
+    "author": "joshcsimmons",
+    "date": "2025-10-01",
+    "score": 315,
+    "comments": 362,
+    "id": 45438346,
+    "discussion_url": "https://news.ycombinator.com/item?id=45438346",
+    "description": "Show HN: Autism Simulator",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932534"
+  },
+  {
+    "title": "Show HN: ChartDB Agent – Cursor for DB schema design",
+    "url": "https://app.chartdb.io/ai",
+    "author": "guyb3",
+    "date": "2025-10-01",
+    "score": 93,
+    "comments": 28,
+    "id": 45437594,
+    "discussion_url": "https://news.ycombinator.com/item?id=45437594",
+    "description": "Show HN: ChartDB Agent – Cursor for DB schema design",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932628"
+  },
+  {
+    "title": "Solar leads EU electricity generation as renewables hit 54%",
+    "url": "https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/",
+    "author": "toomuchtodo",
+    "date": "2025-10-01",
+    "score": 85,
+    "comments": 19,
+    "id": 45440387,
+    "discussion_url": "https://news.ycombinator.com/item?id=45440387",
+    "description": "Solar leads EU electricity generation as renewables hit 54%",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932664"
+  },
+  {
+    "title": "Sora 2",
+    "url": "https://openai.com/index/sora-2/",
+    "author": "skilled",
+    "date": "2025-09-30",
+    "score": 843,
+    "comments": 829,
+    "id": 45427982,
+    "discussion_url": "https://news.ycombinator.com/item?id=45427982",
+    "description": "Sora 2",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932713"
+  },
+  {
+    "title": "Stop Avoiding Politics",
+    "url": "https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/",
+    "author": "matheusml",
+    "date": "2025-10-01",
+    "score": 209,
+    "comments": 99,
+    "id": 45440571,
+    "discussion_url": "https://news.ycombinator.com/item?id=45440571",
+    "description": "Stop Avoiding Politics",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932586"
+  },
+  {
+    "title": "TigerBeetle is a most interesting database",
+    "url": "https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world",
+    "author": "todsacerdoti",
+    "date": "2025-10-01",
+    "score": 267,
+    "comments": 181,
+    "id": 45436534,
+    "discussion_url": "https://news.ycombinator.com/item?id=45436534",
+    "description": "TigerBeetle is a most interesting database",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932656"
+  },
+  {
+    "title": "Type Theory and Functional Programming (1999) [pdf]",
+    "url": "https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf",
+    "author": "fanf2",
+    "date": "2025-10-01",
+    "score": 164,
+    "comments": 56,
+    "id": 45435100,
+    "discussion_url": "https://news.ycombinator.com/item?id=45435100",
+    "description": "Type Theory and Functional Programming (1999) [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932519"
+  },
+  {
+    "title": "Unix philosophy and filesystem access makes Claude Code amazing",
+    "url": "https://www.alephic.com/writing/the-magic-of-claude-code",
+    "author": "noahbrier",
+    "date": "2025-10-01",
+    "score": 117,
+    "comments": 85,
+    "id": 45437893,
+    "discussion_url": "https://news.ycombinator.com/item?id=45437893",
+    "description": "Unix philosophy and filesystem access makes Claude Code amazing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932578"
+  },
+  {
+    "title": "Walmart U.S. moves to eliminate synthetic dyes across all private brand foods",
+    "url": "https://corporate.walmart.com/news/2025/10/01/walmart-u-s-moves-to-eliminate-synthetic-dyes-across-all-private-brand-food-products",
+    "author": "prossercj",
+    "date": "2025-10-01",
+    "score": 63,
+    "comments": 63,
+    "id": 45440028,
+    "discussion_url": "https://news.ycombinator.com/item?id=45440028",
+    "description": "Walmart U.S. moves to eliminate synthetic dyes across all private brand foods",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932689"
+  },
+  {
+    "title": "Washi: The Japanese paper crafted to last 1000 years [video]",
+    "url": "https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years",
+    "author": "rmason",
+    "date": "2025-09-27",
+    "score": 112,
+    "comments": 28,
+    "id": 45399589,
+    "discussion_url": "https://news.ycombinator.com/item?id=45399589",
+    "description": "Washi: The Japanese paper crafted to last 1000 years [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-01T19:09:06.932736"
+  }
+]

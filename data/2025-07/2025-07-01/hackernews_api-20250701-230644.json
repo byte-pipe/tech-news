@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A CarFax for Used PCs; Hewlett Packard wants to give old laptops new life",
+    "url": "https://spectrum.ieee.org/carmax-used-pcs",
+    "author": "rubenbe",
+    "date": "2025-06-30",
+    "score": 92,
+    "comments": 99,
+    "id": 44425253,
+    "discussion_url": "https://news.ycombinator.com/item?id=44425253",
+    "description": "A CarFax for Used PCs; Hewlett Packard wants to give old laptops new life",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086368"
+  },
+  {
+    "title": "Abstraction boundaries are optimization boundaries",
+    "url": "https://blog.snork.dev/posts/abstraction-boundaries-are-optimization-boundaries.html",
+    "author": "delifue",
+    "date": "2025-06-28",
+    "score": 52,
+    "comments": 18,
+    "id": 44404831,
+    "discussion_url": "https://news.ycombinator.com/item?id=44404831",
+    "description": "Abstraction boundaries are optimization boundaries",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086320"
+  },
+  {
+    "title": "Claude Code now supports hooks",
+    "url": "https://docs.anthropic.com/en/docs/claude-code/hooks",
+    "author": "ramoz",
+    "date": "2025-07-01",
+    "score": 348,
+    "comments": 152,
+    "id": 44429225,
+    "discussion_url": "https://news.ycombinator.com/item?id=44429225",
+    "description": "Claude Code now supports hooks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086364"
+  },
+  {
+    "title": "Cloudflare to introduce pay-per-crawl for AI bots",
+    "url": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
+    "author": "scotchmi_st",
+    "date": "2025-07-01",
+    "score": 476,
+    "comments": 257,
+    "id": 44432385,
+    "discussion_url": "https://news.ycombinator.com/item?id=44432385",
+    "description": "Cloudflare to introduce pay-per-crawl for AI bots",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086353"
+  },
+  {
+    "title": "Code⇄GUI bidirectional editing via LSP",
+    "url": "https://jamesbvaughan.com/bidirectional-editing/",
+    "author": "jamesbvaughan",
+    "date": "2025-07-01",
+    "score": 87,
+    "comments": 26,
+    "id": 44435716,
+    "discussion_url": "https://news.ycombinator.com/item?id=44435716",
+    "description": "Code⇄GUI bidirectional editing via LSP",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086141"
+  },
+  {
+    "title": "End of an Era",
+    "url": "https://www.erasmatazz.com/personal/self/end-of-an-era.html",
+    "author": "marcusestes",
+    "date": "2025-06-30",
+    "score": 196,
+    "comments": 50,
+    "id": 44426845,
+    "discussion_url": "https://news.ycombinator.com/item?id=44426845",
+    "description": "End of an Era",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086317"
+  },
+  {
+    "title": "Experience converting a mathematical software package to C++20 modules [PDF]",
+    "url": "https://arxiv.org/abs/2506.21654",
+    "author": "vblanco",
+    "date": "2025-07-01",
+    "score": 87,
+    "comments": 15,
+    "id": 44433899,
+    "discussion_url": "https://news.ycombinator.com/item?id=44433899",
+    "description": "Experience converting a mathematical software package to C++20 modules [PDF]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086184"
+  },
+  {
+    "title": "Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing",
+    "url": "https://arxiv.org/abs/2506.17732",
+    "author": "speckx",
+    "date": "2025-07-01",
+    "score": 157,
+    "comments": 54,
+    "id": 44434062,
+    "discussion_url": "https://news.ycombinator.com/item?id=44434062",
+    "description": "Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086180"
+  },
+  {
+    "title": "Figma Files Registration Statement for Proposed Initial Public Offering",
+    "url": "https://www.figma.com/blog/s1-public/",
+    "author": "kualto",
+    "date": "2025-07-01",
+    "score": 139,
+    "comments": 53,
+    "id": 44437316,
+    "discussion_url": "https://news.ycombinator.com/item?id=44437316",
+    "description": "Figma Files Registration Statement for Proposed Initial Public Offering",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086126"
+  },
+  {
+    "title": "GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]",
+    "url": "https://vldb.org/pvldb/vol18/p1919-wang.pdf",
+    "author": "matt_d",
+    "date": "2025-06-30",
+    "score": 71,
+    "comments": 11,
+    "id": 44428674,
+    "discussion_url": "https://news.ycombinator.com/item?id=44428674",
+    "description": "GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086328"
+  },
+  {
+    "title": "Genetic code enables zebrafish to mend damaged organs",
+    "url": "https://www.caltech.edu/about/news/genetic-code-enables-zebrafish-to-mend-damaged-organs",
+    "author": "bookofjoe",
+    "date": "2025-06-29",
+    "score": 102,
+    "comments": 12,
+    "id": 44409488,
+    "discussion_url": "https://news.ycombinator.com/item?id=44409488",
+    "description": "Genetic code enables zebrafish to mend damaged organs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086360"
+  },
+  {
+    "title": "Grammarly acquires Superhuman",
+    "url": "https://www.reuters.com/business/grammarly-acquires-email-startup-superhuman-ai-platform-push-2025-07-01/",
+    "author": "thm",
+    "date": "2025-07-01",
+    "score": 167,
+    "comments": 104,
+    "id": 44433994,
+    "discussion_url": "https://news.ycombinator.com/item?id=44433994",
+    "description": "Grammarly acquires Superhuman",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086304"
+  },
+  {
+    "title": "HN Slop: AI startup ideas generated from Hacker News",
+    "url": "https://www.josh.ing/hn-slop",
+    "author": "coloneltcb",
+    "date": "2025-07-01",
+    "score": 76,
+    "comments": 25,
+    "id": 44434938,
+    "discussion_url": "https://news.ycombinator.com/item?id=44434938",
+    "description": "HN Slop: AI startup ideas generated from Hacker News",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086238"
+  },
+  {
+    "title": "I built something that changed my friend group's social fabric",
+    "url": "https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/",
+    "author": "dandano",
+    "date": "2025-06-28",
+    "score": 486,
+    "comments": 209,
+    "id": 44403988,
+    "discussion_url": "https://news.ycombinator.com/item?id=44403988",
+    "description": "I built something that changed my friend group's social fabric",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086171"
+  },
+  {
+    "title": "I write type-safe generic data structures in C",
+    "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+    "author": "todsacerdoti",
+    "date": "2025-06-30",
+    "score": 399,
+    "comments": 164,
+    "id": 44425461,
+    "discussion_url": "https://news.ycombinator.com/item?id=44425461",
+    "description": "I write type-safe generic data structures in C",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086336"
+  },
+  {
+    "title": "OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine",
+    "url": "https://github.com/stan-smith/OpenFLOW",
+    "author": "x0z",
+    "date": "2025-07-01",
+    "score": 259,
+    "comments": 63,
+    "id": 44431178,
+    "discussion_url": "https://news.ycombinator.com/item?id=44431178",
+    "description": "OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086201"
+  },
+  {
+    "title": "People Keep Inventing Prolly Trees",
+    "url": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
+    "author": "lifty",
+    "date": "2025-06-28",
+    "score": 169,
+    "comments": 41,
+    "id": 44407708,
+    "discussion_url": "https://news.ycombinator.com/item?id=44407708",
+    "description": "People Keep Inventing Prolly Trees",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086372"
+  },
+  {
+    "title": "PlanetScale for Postgres",
+    "url": "https://planetscale.com/blog/planetscale-for-postgres",
+    "author": "adocomplete",
+    "date": "2025-07-01",
+    "score": 121,
+    "comments": 14,
+    "id": 44434667,
+    "discussion_url": "https://news.ycombinator.com/item?id=44434667",
+    "description": "PlanetScale for Postgres",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086312"
+  },
+  {
+    "title": "Pluto is a unique dialect of Lua with a focus on general-purpose programming",
+    "url": "https://github.com/PlutoLang/Pluto",
+    "author": "90s_dev",
+    "date": "2025-07-01",
+    "score": 71,
+    "comments": 39,
+    "id": 44429531,
+    "discussion_url": "https://news.ycombinator.com/item?id=44429531",
+    "description": "Pluto is a unique dialect of Lua with a focus on general-purpose programming",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086332"
+  },
+  {
+    "title": "Sam Altman Slams Meta's AI Talent Poaching: 'Missionaries Will Beat Mercenaries'",
+    "url": "https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/",
+    "author": "spenvo",
+    "date": "2025-07-01",
+    "score": 84,
+    "comments": 185,
+    "id": 44436579,
+    "discussion_url": "https://news.ycombinator.com/item?id=44436579",
+    "description": "Sam Altman Slams Meta's AI Talent Poaching: 'Missionaries Will Beat Mercenaries'",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086250"
+  },
+  {
+    "title": "Scientists identify culprit behind biggest-ever U.S. honey bee die-off",
+    "url": "https://www.science.org/content/article/scientists-identify-culprit-behind-biggest-ever-u-s-honeybee-die",
+    "author": "pseudolus",
+    "date": "2025-07-01",
+    "score": 161,
+    "comments": 123,
+    "id": 44432467,
+    "discussion_url": "https://news.ycombinator.com/item?id=44432467",
+    "description": "Scientists identify culprit behind biggest-ever U.S. honey bee die-off",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086324"
+  },
+  {
+    "title": "Show HN: A continuation of IRS Direct File that can be self-hosted",
+    "url": "https://github.com/openfiletax/openfile",
+    "author": "elijahwright_",
+    "date": "2025-06-30",
+    "score": 196,
+    "comments": 23,
+    "id": 44428438,
+    "discussion_url": "https://news.ycombinator.com/item?id=44428438",
+    "description": "Show HN: A continuation of IRS Direct File that can be self-hosted",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086308"
+  },
+  {
+    "title": "Show HN: I built the tool I wished existed for moving Stripe between countries",
+    "url": "https://www.stripemove.com/",
+    "author": "felphos",
+    "date": "2025-07-01",
+    "score": 79,
+    "comments": 40,
+    "id": 44433429,
+    "discussion_url": "https://news.ycombinator.com/item?id=44433429",
+    "description": "Show HN: I built the tool I wished existed for moving Stripe between countries",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086230"
+  },
+  {
+    "title": "Show HN: Jobs by Referral: Find jobs in your LinkedIn network",
+    "url": "https://jobsbyreferral.com/",
+    "author": "nicksergeant",
+    "date": "2025-07-01",
+    "score": 106,
+    "comments": 53,
+    "id": 44433386,
+    "discussion_url": "https://news.ycombinator.com/item?id=44433386",
+    "description": "Show HN: Jobs by Referral: Find jobs in your LinkedIn network",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086205"
+  },
+  {
+    "title": "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
+    "url": "https://simedw.com/2025/06/23/introducing-spegel/",
+    "author": "simedw",
+    "date": "2025-07-01",
+    "score": 292,
+    "comments": 133,
+    "id": 44433409,
+    "discussion_url": "https://news.ycombinator.com/item?id=44433409",
+    "description": "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086162"
+  },
+  {
+    "title": "Show HN: ToplingDB - A Persistent Key-Value Store for External Storage",
+    "url": "https://github.com/topling/toplingdb",
+    "author": "rockeetterark",
+    "date": "2025-07-01",
+    "score": 57,
+    "comments": 14,
+    "id": 44432322,
+    "discussion_url": "https://news.ycombinator.com/item?id=44432322",
+    "description": "Show HN: ToplingDB - A Persistent Key-Value Store for External Storage",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086357"
+  },
+  {
+    "title": "The Fed says this is a cube of $1M. They're off by half a million",
+    "url": "https://calvin.sh/blog/fed-lie/",
+    "author": "c249709",
+    "date": "2025-07-01",
+    "score": 795,
+    "comments": 314,
+    "id": 44435484,
+    "discussion_url": "https://news.ycombinator.com/item?id=44435484",
+    "description": "The Fed says this is a cube of $1M. They're off by half a million",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086108"
+  },
+  {
+    "title": "The new skill in AI is not prompting, it's context engineering",
+    "url": "https://www.philschmid.de/context-engineering",
+    "author": "robotswantdata",
+    "date": "2025-06-30",
+    "score": 848,
+    "comments": 481,
+    "id": 44427757,
+    "discussion_url": "https://news.ycombinator.com/item?id=44427757",
+    "description": "The new skill in AI is not prompting, it's context engineering",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086296"
+  },
+  {
+    "title": "The original LZEXE (A.K.A. Kosinski) compressor source code has been released",
+    "url": "https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/",
+    "author": "elvis70",
+    "date": "2025-06-30",
+    "score": 112,
+    "comments": 8,
+    "id": 44426864,
+    "discussion_url": "https://news.ycombinator.com/item?id=44426864",
+    "description": "The original LZEXE (A.K.A. Kosinski) compressor source code has been released",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086349"
+  },
+  {
+    "title": "When Did Nature Burst into Vivid Color?",
+    "url": "https://www.quantamagazine.org/when-did-nature-burst-into-vivid-color-20250627/",
+    "author": "jandrewrogers",
+    "date": "2025-06-27",
+    "score": 82,
+    "comments": 57,
+    "id": 44397921,
+    "discussion_url": "https://news.ycombinator.com/item?id=44397921",
+    "description": "When Did Nature Burst into Vivid Color?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-01T23:06:44.086192"
+  }
+]

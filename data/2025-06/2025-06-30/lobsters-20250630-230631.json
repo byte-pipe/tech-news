@@ -1,0 +1,252 @@
+[
+  {
+    "title": "20 years of programming",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "philosophy, programming",
+    "url": "https://sidhion.com/blog/20_years/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Agile Was Never Your Problem",
+    "author": "",
+    "score": "40",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://thecynical.dev/posts/agile-was-never-your-problem/",
+    "date": "2025-06-30",
+    "description": "☶"
+  },
+  {
+    "title": "An update on improving passkey support in Linux",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Building Accurate Address Matching Systems",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://www.robinlinacre.com/address_matching/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Building Replication-Safe LSM Trees in Postgres",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "databases, distributed, rust",
+    "url": "https://www.paradedb.com/blog/lsm_trees_in_postgres",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Caching is an Abstraction, not an Optimization",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Critical correctness bug in Lix",
+    "author": "",
+    "score": "27",
+    "comments": "0",
+    "tags": "nix, security",
+    "url": "https://lix.systems/blog/2025-06-27-lix-critical-bug/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "HMPL-DOM: The HTMX Alternative for Writing Reactive HTML Without JavaScript",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "release",
+    "url": "https://github.com/hmpl-language/hmpl-dom",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "History of UNIX Manpages",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "historical, unix",
+    "url": "https://manpages.bsd.lv/history.html",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "How I Write Type Safe Generic Data Structures in C",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "c, education",
+    "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "How often is the query plan optimal?",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://vondra.me/posts/how-often-is-the-query-plan-optimal/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Maestro now supports GCC",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "osdev",
+    "url": "https://blog.lenot.re/a/compiler",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Making Rails delegated_type’s clearer",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "ruby",
+    "url": "https://kaspth.com/posts/making-rails-delegated_types-clearer",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Reverse Engineering Vercel's BotID",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "javascript, reversing, web",
+    "url": "https://www.nullpt.rs/reversing-botid",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Tail Latency Might Matter More Than You Think",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "distributed, performance",
+    "url": "https://brooker.co.za/blog/2021/04/19/latency.html",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "That boolean should probably be something else",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "The provenance memory model for C",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "c",
+    "url": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "The role of the University is to resist AI",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.danmcquillan.org/cpct_seminar.html",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Tools I love: mise(-en-place)",
+    "author": "",
+    "score": "58",
+    "comments": "0",
+    "tags": "devops, programming",
+    "url": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Use keyword-only arguments in Python dataclasses",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "VibeTunnel - access terminal from the browser to command agents",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "release, vibecoding",
+    "url": "https://github.com/amantus-ai/vibetunnel",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "What are you doing this week?",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "ask, programming",
+    "url": "https://lobste.rs/s/ksacpj/what_are_you_doing_this_week",
+    "date": "2025-06-30",
+    "description": "☶"
+  },
+  {
+    "title": "Zig Community Mirrors",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://ziglang.org/download/community-mirrors/",
+    "date": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "ai, vibecoding",
+    "url": "https://simonwillison.net/2025/Jun/30/llvm/",
+    "date": "2025-06-30",
+    "description": ""
+  }
+]

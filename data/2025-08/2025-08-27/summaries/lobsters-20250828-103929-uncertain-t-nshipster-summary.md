@@ -1,0 +1,20 @@
+---
+title: Uncertain⟨T⟩ - NSHipster
+url: https://nshipster.com/uncertainty/
+date: 2025-08-27
+site: lobsters
+model: gemma3:27b
+summarized_at: 2025-08-28T10:39:29.011142
+---
+
+# Uncertain⟨T⟩ - NSHipster
+
+## Analysis of "Uncertain⟨T⟩ - NSHipster" for a Solo Developer Business
+
+This NSHipster article discusses the concept of encoding uncertainty directly into the type system using a custom `Uncertain<T>` type. From a solo developer perspective, this presents a niche opportunity to address “boring problems” – the reliable handling of imprecise data – that businesses will quietly pay to solve. The core problem isn’t flashy; it's that GPS data, sensor readings, and other real-world inputs *aren’t* precise, yet software often treats them as absolute truth. This leads to bugs, poor UX, and ultimately, unreliable applications. The article positions this as a move away from brittle boolean logic towards more robust probabilistic modeling.
+
+**Market Indicators & Pain Points:** The article doesn’t explicitly state market size or revenue, but hints at a clear pain point. The author laments the need to constantly qualify statements with “it depends” at the senior level, highlighting the difficulty of dealing with inherent uncertainty in software. This suggests demand exists for tools that acknowledge and manage this uncertainty rather than forcing developers to workaround it. The examples provided – location services, sensor data, speed calculations – point towards applications in areas like logistics, delivery services, fitness tracking, and potentially even autonomous systems. While the examples are somewhat technical, the underlying need for reliable data is universal. No pricing or revenue figures are mentioned, indicating this is an early-stage concept. User adoption would be measured by developer interest in the GitHub library and integration into real-world applications.
+
+**Technical Feasibility:** For a solo developer, the technical feasibility is *moderate*. The article provides a Swift implementation, so the foundational work is already done. The complexity lies in understanding the underlying mathematics (probability distributions, statistical inference) and ensuring the type is well-documented and thoroughly tested. Skills required are strong Swift proficiency, a good grasp of statistics, and experience with unit/integration testing. Time investment would depend greatly on the scope. A simple, well-documented library with basic probability distribution support could be built in a few weeks to a month. Expanding beyond that (adding more distributions, advanced statistical functions) would significantly increase the time commitment. However, the core concept is relatively contained, making it a manageable project for a solo developer.
+
+**Business Viability Signals & Actionable Insights:** The biggest signal for business viability is the potential for a *specialized toolkit*. This isn't a general-purpose library aiming wide adoption; it targets developers working with inherently uncertain data. This allows for a focused marketing approach (e.g., targeting developers involved in logistics or fitness apps). The existence of the initial GitHub implementation reduces initial development risk. Potential revenue models include:  1) **Premium Support/Consulting:** Helping businesses integrate the library into their existing systems. 2) **SaaS offering:** Build a platform on top of the library focused on probabilistic models. 3) **Licensing (unlikely but possible):** If adoption grows significantly, offering a commercial license. The initial step should be building a robust, well-documented library, showcasing its benefits with clear examples, and building a community around it. Focus could be on creating a *platform* for dealing with uncertain data – not just a library. This might involve integrating with data visualization tools to make probabilistic outputs more understandable.  Competition is relatively low, as most existing solutions rely on workarounds rather than directly addressing uncertainty within the type system.

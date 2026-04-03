@@ -1,0 +1,37 @@
+{
+  "kind": "Listing",
+  "data": {
+    "after": "t3_abcdef",
+    "dist": 2,
+    "modhash": "",
+    "geo_filter": "",
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "startups",
+          "title": "Sample Reddit Post 1",
+          "name": "t3_abcdef",
+          "score": 42,
+          "num_comments": 15,
+          "created": 1620000000.0,
+          "permalink": "/r/startups/comments/abcdef/sample_reddit_post_1/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "startups",
+          "title": "Sample Reddit Post 2",
+          "name": "t3_ghijkl",
+          "score": 27,
+          "num_comments": 8,
+          "created": 1620086400.0,
+          "permalink": "/r/startups/comments/ghijkl/sample_reddit_post_2/"
+        }
+      }
+    ]
+  }
+}

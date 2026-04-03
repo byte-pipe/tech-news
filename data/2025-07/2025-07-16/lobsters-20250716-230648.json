@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Artisanal Handcrafted Git Repositories",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://drew.silcock.dev/blog/artisanal-git/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "CSS conditionals with the new if() function",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "css, web",
+    "url": "https://developer.chrome.com/blog/if-article",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Cloudflare 1.1.1.1 incident postmortem for July 14, 2025",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Compiler bootstrapping in Nixpkgs",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "nix",
+    "url": "https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Death by a thousand slops",
+    "author": "",
+    "score": "156",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Fedora SIG changes Python packaging strategy",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "linux, python",
+    "url": "https://lwn.net/SubscriberLink/1029354/8e707178c74ae2f8/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "GPUHammer: Rowhammer Attacks on GPU Memories are Practical",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "hardware, security",
+    "url": "https://gpuhammer.com/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Geomys, a blueprint for a sustainable open source maintenance firm (2024)",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "go, practices",
+    "url": "https://words.filippo.io/geomys/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Helix 25.07 Highlights",
+    "author": "",
+    "score": "76",
+    "comments": "0",
+    "tags": "editors",
+    "url": "https://helix-editor.com/news/release-25-07-highlights/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "How to Test the Reliability of Durable Execution",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "distributed, testing",
+    "url": "https://www.dbos.dev/blog/how-to-test-durable-execution",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "I'm unsatisfied with easing functions",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "design, javascript, visualization, web",
+    "url": "https://www.davepagurek.com/blog/easing-functions/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Introducing go-cdc-chunkers: chunk and deduplicate everything",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Janet Feature Demos",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "lisp, plt",
+    "url": "https://github.com/sogaiu/janet-features-demos",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Kiro and the future of AI spec-driven software development",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "formalmethods, practices, vibecoding",
+    "url": "https://kiro.dev/blog/kiro-and-the-future-of-software-development/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "javascript, security",
+    "url": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "distributed, security",
+    "url": "https://matrix.org/blog/2025/07/security-predisclosure/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Reviving Genius",
+    "author": "",
+    "score": "42",
+    "comments": "0",
+    "tags": "historical, mac, objectivec",
+    "url": "https://andrewshaw.nl/blog/reviving-genius",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Scientific Computing in Rust",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "event, rust, science",
+    "url": "https://scientificcomputing.rs/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Shipping WebGPU on Windows in Firefox 141",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "browsers, graphics",
+    "url": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "The FIPS 140-3 Go Cryptographic Module",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "cryptography, go, law",
+    "url": "https://go.dev/blog/fips140",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "The sound of inevitability",
+    "author": "",
+    "score": "51",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://tomrenner.com/posts/llm-inevitabilism/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Underused Techniques for Effective Emails",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://refactoringenglish.com/chapters/techniques-for-writing-emails/",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Wikipedia outage report for May's Pope traffic spike",
+    "author": "",
+    "score": "50",
+    "comments": "0",
+    "tags": "devops",
+    "url": "https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge",
+    "date": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "gren-tui: Pure functional TUIs with The Elm Architecture",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://github.com/blaix/gren-tui",
+    "date": "2025-07-16",
+    "description": ""
+  }
+]

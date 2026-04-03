@@ -1,0 +1,14 @@
+---
+title: Starship
+url: https://starship.rs/
+site_name: hackernews
+fetched_at: '2025-06-25T04:07:01.252281'
+original_url: https://starship.rs/
+author: benoitg
+date: '2025-06-25'
+description: Starship is the minimal, blazing fast, and extremely customizable prompt for any shell! Shows the information you need, while staying sleek and minimal. Quick installation available for Bash, Fish, ZSH, Ion, Tcsh, Elvish, Nu, Xonsh, Cmd, and PowerShell.
+---
+
+## Compatibility First
+
+Works on the most common shells on the most common operating systems. Use it everywhere!

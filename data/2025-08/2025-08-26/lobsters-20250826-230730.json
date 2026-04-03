@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A Qt Model for all C++ Ranges",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "c++",
+    "url": "https://www.qt.io/blog/a-model-for-all-ranges",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Apple vs. Facebook is Kayfabe",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "browsers, privacy",
+    "url": "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Blast from the past: Facit A2400 terminal",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "hardware, linux",
+    "url": "https://jpmens.net/2025/08/26/blast-from-the-past-facit-a2400-terminal/",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Chez Scheme vs. SBCL: a comparison (2019)",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "lisp, performance",
+    "url": "https://elmord.org/blog/?entry=20191114-sbcl-chez",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Compositional Datalog on SQL: Relational Algebra of the Environment",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "databases, plt",
+    "url": "https://www.philipzucker.com/compose_datalog/",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Das Problem mit German Strings",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Developing an alt text button for images on my website",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "css, web",
+    "url": "https://jamesg.blog/2025/08/17/alt-text-button",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Emulating aarch64 in software using JIT compilation and Rust",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "virtualization",
+    "url": "https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Give Your Spouse the Gift of a Couple's Email Domain",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "email, practices",
+    "url": "https://mtlynch.io/couples-email-domain/",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Google wants to make sideloading Android apps safer by verifying developers’ identities",
+    "author": "",
+    "score": "106",
+    "comments": "0",
+    "tags": "android, privacy",
+    "url": "https://www.androidauthority.com/android-developer-verification-requirements-3590911/",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Hands on Capture Checking in Scala",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "scala",
+    "url": "https://nrinaudo.github.io/articles/capture_checking.html",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "How \"special register groups\" invaded computer dictionaries for decades (2019)",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "historical",
+    "url": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "How my mail notifier avoids interrupting me (2010)",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "design, practices",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/AvoidNotifierInterrupts",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "I Know When You're Vibe Coding",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Inside Windows 3",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "historical, osdev, windows",
+    "url": "https://www.xtof.info/inside-windows3.html",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Put a ring on it: a lock-free MPMC ring buffer",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "c, distributed, performance",
+    "url": "https://h4x0r.org/ring/",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Stable, Mutable References",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://antelang.org/blog/stable_mutable_refs/",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Trying to get error backtraces in rust libraries right",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://www.iroh.computer/blog/error-handling-in-iroh",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Understand the Temporary Allocator; Understand arenas",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://zylinski.se/posts/temporary-allocator-your-first-arena/",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "We should rethink how we teach people to code",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "education, practices",
+    "url": "https://deadsimpletech.com/blog/notes_teaching_coding",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Who's Afraid of a Hard Page Load?",
+    "author": "",
+    "score": "55",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://unplannedobsolescence.com/blog/hard-page-load/",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Why I Read Technical Books",
+    "author": "",
+    "score": "90",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://ratfactor.com/b/technical-books",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Xz format inadequate for general use",
+    "author": "",
+    "score": "28",
+    "comments": "0",
+    "tags": "unix",
+    "url": "https://www.nongnu.org/lzip/xz_inadequate.html",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "macOS dotfiles should not go in ~/Library/Application Support",
+    "author": "",
+    "score": "48",
+    "comments": "0",
+    "tags": "mac, unix",
+    "url": "https://becca.ooo/blog/macos-dotfiles/",
+    "date": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "rv, a new kind of Ruby management tool",
+    "author": "",
+    "score": "58",
+    "comments": "0",
+    "tags": "ruby",
+    "url": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
+    "date": "2025-08-26",
+    "description": ""
+  }
+]

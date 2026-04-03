@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A brief consideration of input shapes (fuzzing)",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "testing",
+    "url": "https://addisoncrump.info/research/consideration-of-input-shapes/",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "A programmer's field guide to assertions",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://typesanitizer.com/blog/assertions.html",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Ambient age verification",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "privacy, web",
+    "url": "https://www.jwz.org/blog/2025/07/ambient-age-verification/",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Beyond Booleans: Propositions in Lean",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "math, plt",
+    "url": "https://overreacted.io/beyond-booleans/",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Careful Communication",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "practices, vibecoding",
+    "url": "https://blog.lyall.co/careful-communication/",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Consensus algorithms at scale (2020)",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "databases, distributed",
+    "url": "https://planetscale.com/blog/consensus-algorithms-at-scale-part-1",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Dicing an Onion, the Mathematically Optimal Way",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "math",
+    "url": "https://pudding.cool/2025/08/onions/",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Everything I know about good system design",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "distributed",
+    "url": "https://www.seangoedecke.com/good-system-design/",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Functional Programming HOWTO",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "plt, python",
+    "url": "https://docs.python.org/3/howto/functional.html",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Gaussian Processes for Machine Learning",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "book, pdf, ai, math",
+    "url": "https://gaussianprocess.org/gpml/chapters/RW.pdf",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Here be dragons: Preventing static damage, latchup, and metastability in the 386",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "hardware, historical",
+    "url": "http://www.righto.com/2025/08/static-latchup-metastability-386.html",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "How Attention Sinks Keep Language Models Stable",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "ai",
+    "url": "https://hanlab.mit.edu/blog/streamingllm",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Is Gleam production ready?",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "gleam",
+    "url": "https://lindbakk.com/blog/is-gleam-production-ready-part-1",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "LLMs aren’t world models",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "ai",
+    "url": "https://yosefk.com/blog/llms-arent-world-models.html",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Lobsters Blog Carnival",
+    "author": "",
+    "score": "109",
+    "comments": "0",
+    "tags": "show, event",
+    "url": "https://lobste.rs/s/gwh1ys/lobsters_blog_carnival",
+    "date": "2025-08-17",
+    "description": "☶"
+  },
+  {
+    "title": "Maintainers of Last Resort",
+    "author": "",
+    "score": "54",
+    "comments": "0",
+    "tags": "practices, security",
+    "url": "https://words.filippo.io/last-resort/",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "The Enterprise Experience",
+    "author": "",
+    "score": "54",
+    "comments": "0",
+    "tags": "practices, satire",
+    "url": "https://churchofturing.github.io/the-enterprise-experience.html",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "The Tech Behind Geotoy",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "graphics, plt, wasm",
+    "url": "https://cprimozic.net/blog/the-tech-behind-geotoy/",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Various desktop Linux tips for newbies",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://akselmo.dev/posts/how-to-linux-2025/",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "Who does your assistant serve?",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "ai",
+    "url": "https://xeiaso.net/blog/2025/who-assistant-serve/",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden",
+    "author": "",
+    "score": "58",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "passive microwave repeaters",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "historical, networking",
+    "url": "https://computer.rip/2025-08-16-passive-microwave-repeaters.html",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "proposal: mark/punish ai imagery",
+    "author": "",
+    "score": "209",
+    "comments": "0",
+    "tags": "meta",
+    "url": "https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery",
+    "date": "2025-08-17",
+    "description": "☶"
+  },
+  {
+    "title": "wifiscan-rs - A cross-platform Rust crate for scanning Wi-Fi networks",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "networking, release, rust",
+    "url": "https://codeberg.org/fuxle/wifiscan-rs",
+    "date": "2025-08-17",
+    "description": ""
+  },
+  {
+    "title": "“Email is Easy” email address quiz",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "email",
+    "url": "https://e-mail.wtf",
+    "date": "2025-08-17",
+    "description": ""
+  }
+]

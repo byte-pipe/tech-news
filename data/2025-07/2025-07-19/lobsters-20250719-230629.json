@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Async Rust Is A Bad Language (2023)",
+    "author": "",
+    "score": "42",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://bitbashing.io/async-rust.html",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Asynchrony is not Concurrency",
+    "author": "",
+    "score": "39",
+    "comments": "0",
+    "tags": "plt, zig",
+    "url": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Do you understand f-strings?",
+    "author": "",
+    "score": "58",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://fstrings.wtf/",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Engineering the End of Work",
+    "author": "",
+    "score": "49",
+    "comments": "0",
+    "tags": "ai, culture",
+    "url": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "FAQ: What’s a @KevlinHenney?",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "culture, person",
+    "url": "https://kevlinhenney.medium.com/faq-whats-a-kevlinhenney-cc98d172f811",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Frequently Asked Questions about FHE",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "cryptography, math",
+    "url": "https://www.jeremykun.com/frequently-asked-questions-about-fhe/",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder (2020)",
+    "author": "",
+    "score": "28",
+    "comments": "0",
+    "tags": "c, compilers, performance",
+    "url": "https://nigeltao.github.io/blog/2020/jsonptr.html",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Legendary Software Rendering Era with Sean Barrett",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "audio, graphics, person",
+    "url": "https://www.youtube.com/watch?v=T1tXepGXDDM",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Linux and Secure Boot certificate expiration",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Make Your Own Backup System – Part 1: Strategy Before Scripts",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "devops, freebsd",
+    "url": "https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "My Ultimate Self-hosting Setup",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "devops",
+    "url": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "NIH Is Far Cheaper Than The Wrong Dependency",
+    "author": "",
+    "score": "67",
+    "comments": "0",
+    "tags": "practices, scaling",
+    "url": "https://lewiscampbell.tech/blog/250718.html",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Petition: Repeal the Online Safety Act",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "law",
+    "url": "https://petition.parliament.uk/petitions/722903",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Pimping my Casio: Part Deux",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Rethinking CLI interfaces for AI",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Servo adds support for network inspector devtools",
+    "author": "",
+    "score": "44",
+    "comments": "0",
+    "tags": "browsers",
+    "url": "https://servo.org/blog/2025/07/17/this-month-in-servo/",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Shutting down Clear Linux OS",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "The borrowchecker is what I like the least about Rust",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://viralinstruction.com/posts/borrowchecker/",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "The current technology is not ready for proper blending",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "graphics",
+    "url": "https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Trigon: exploiting coprocessors for fun and for profit (part 2)",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "ios, security",
+    "url": "https://alfiecg.uk/2025/07/16/Trigon.html",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Using leaked data to examine vulnerabilities in SMS routing and SS7 signalling",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://medium.com/@lighthousereports/using-leaked-data-to-examine-vulnerabilities-in-sms-routing-and-ss7-signalling-8e30298491d9",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "Why you should choose HTMX for your next web-based side project - and ditch the crufty MPA and complex SPA",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "programming, web",
+    "url": "https://hamy.xyz/blog/2024-02_htmx-for-side-projects",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware",
+    "author": "",
+    "score": "77",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "metap: A Meta-Programming Layer for Python",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://sbaziotis.com/compilers/metap.html",
+    "date": "2025-07-19",
+    "description": ""
+  },
+  {
+    "title": "polycode: Encode a binary file as a rational polynomial function",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "math, rust",
+    "url": "https://codeberg.org/cve/polycode",
+    "date": "2025-07-19",
+    "description": ""
+  }
+]

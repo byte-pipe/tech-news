@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Asynchrony is not Concurrency",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "plt, zig",
+    "url": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Engineering the End of Work",
+    "author": "",
+    "score": "38",
+    "comments": "0",
+    "tags": "ai, culture",
+    "url": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Enough unix to get by",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "unix",
+    "url": "https://thoughtbot.com/blog/enough-unix-to-get-by",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "browsers, hardware",
+    "url": "https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Forgejo v12",
+    "author": "",
+    "score": "69",
+    "comments": "0",
+    "tags": "release, vcs",
+    "url": "https://forgejo.org/2025-07-release-v12-0/",
+    "date": "2025-07-18",
+    "description": "☶"
+  },
+  {
+    "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
+    "author": "",
+    "score": "28",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "ruby",
+    "url": "https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "c, compilers, performance",
+    "url": "https://nigeltao.github.io/blog/2020/jsonptr.html",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Kap lang",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "apl",
+    "url": "https://kapdemo.dhsdevelopments.com/",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true",
+    "author": "",
+    "score": "42",
+    "comments": "0",
+    "tags": "games, math",
+    "url": "https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "NIH Is Far Cheaper Than The Wrong Dependency",
+    "author": "",
+    "score": "59",
+    "comments": "0",
+    "tags": "practices, scaling",
+    "url": "https://lewiscampbell.tech/blog/250718.html",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Parsing Protobuf Like Never Before",
+    "author": "",
+    "score": "43",
+    "comments": "0",
+    "tags": "go, performance",
+    "url": "https://mcyoung.xyz/2025/07/16/hyperpb/",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Petition: Repeal the Online Safety Act",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "meta",
+    "url": "https://petition.parliament.uk/petitions/722903",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Pimping my Casio: Part Deux",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Servo adds support for network inspector devtools",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "browsers",
+    "url": "https://servo.org/blog/2025/07/17/this-month-in-servo/",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Supporting Faster File Load Times with Memory Optimizations in Rust",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "performance, rust",
+    "url": "https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
+    "author": "",
+    "score": "67",
+    "comments": "0",
+    "tags": "video, historical, programming",
+    "url": "https://www.youtube.com/watch?v=wo84LFzx5nI",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "The current technology is not ready for proper blending",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "graphics",
+    "url": "https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Two Simple Rules to Fix Code Reviews",
+    "author": "",
+    "score": "57",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "What are you doing this weekend?",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "ask, programming",
+    "url": "https://lobste.rs/s/dw7vlt/what_are_you_doing_this_weekend",
+    "date": "2025-07-18",
+    "description": "☶"
+  },
+  {
+    "title": "When Root Meets Immutable: OpenBSD chflags vs. Log Tampering",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "openbsd, security",
+    "url": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "Zig's new Writer",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://www.openmymind.net/Zigs-New-Writer/",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "lsr: ls but with io_uring",
+    "author": "",
+    "score": "51",
+    "comments": "0",
+    "tags": "performance, zig",
+    "url": "https://tangled.sh/@rockorager.dev/lsr",
+    "date": "2025-07-18",
+    "description": ""
+  },
+  {
+    "title": "polycode: Encode a binary file as a rational polynomial function",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "math, rust",
+    "url": "https://codeberg.org/cve/polycode",
+    "date": "2025-07-18",
+    "description": ""
+  }
+]

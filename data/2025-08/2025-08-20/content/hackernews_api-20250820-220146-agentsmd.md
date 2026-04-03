@@ -1,0 +1,176 @@
+---
+title: AGENTS.md
+url: https://agents.md/
+site_name: hackernews_api
+fetched_at: '2025-08-20T22:01:46.215203'
+original_url: https://agents.md/
+author: ghuntley
+date: '2025-08-20'
+description: AGENTS.md is a simple, open format for guiding coding agents, used by over 20k open-source projects. Think of it as a README for agents.
+tags:
+- hackernews
+- trending
+---
+
+## Why AGENTS.md?
+
+README.md files are for humans: quick starts, project descriptions, and contribution guidelines.
+
+AGENTS.md complements this by containing the extra, sometimes detailed context coding agents need: build steps, tests, and conventions that might clutter a README or aren’t relevant to human contributors.
+
+We intentionally kept it separate to:
+
+Give agents a clear, predictable place for instructions.
+
+Keep READMEs concise and focused on human contributors.
+
+Provide precise, agent-focused guidance that complements existing README and docs.
+
+Rather than introducing another proprietary file, we chose a name and format that could work for anyone. If you’re building or using coding agents and find this helpful, feel free to adopt it.
+
+## One AGENTS.md works across many agents
+
+Your agent definitions are compatible with a growing ecosystem of AI coding agents and tools:
+
+Codex
+from
+
+OpenAI
+Amp
+Jules
+from
+
+Google
+Cursor
+Factory
+RooCode
+
+## Examples
+
+# Sample AGENTS.md file
+ 
+## Dev environment tips
+- Use
+`pnpm dlx turbo run where <project_name>`
+ to jump to a package instead of scanning with
+`ls`
+.
+- Run
+`pnpm install --filter <project_name>`
+ to add the package to your workspace so Vite, ESLint, and TypeScript can see it.
+- Use
+`pnpm create vite@latest <project_name> -- --template react-ts`
+ to spin up a new React + Vite package with TypeScript checks ready.
+- Check the name field inside each package's package.json to confirm the right name—skip the top-level one.
+ 
+## Testing instructions
+- Find the CI plan in the .github/workflows folder.
+- Run
+`pnpm turbo run test --filter <project_name>`
+ to run every check defined for that package.
+- From the package root you can just call
+`pnpm test`
+. The commit should pass all tests before you merge.
+- To focus on one step, add the Vitest pattern:
+`pnpm vitest run -t "<test name>"`
+.
+- Fix any test or type errors until the whole suite is green.
+- After moving files or changing imports, run
+`pnpm lint --filter <project_name>`
+ to be sure ESLint and TypeScript rules still pass.
+- Add or update tests for the code you change, even if nobody asked.
+ 
+## PR instructions
+- Title format: [<project_name>] <Title>
+- Always run
+`pnpm lint`
+ and
+`pnpm test`
+ before committing.
+
+### openai/codex
+
+General-purpose CLI tooling for AI coding agents.
+
+Rust
++
+135
+
+### apache/airflow
+
+Platform to programmatically author, schedule, and monitor workflows.
+
+Python
++
+3854
+
+### temporalio/sdk-java
+
+Java SDK for Temporal, workflow orchestration defined in code.
+
+Java
++
+108
+
+### PlutoLang/Pluto
+
+A superset of Lua 5.4 with a focus on general-purpose programming.
+
+C++
++
+8
+View 20k+ examples on GitHub
+
+## How to use AGENTS.md?
+
+### 1.Add AGENTS.md
+
+Create an AGENTS.md file at the root of the repository. Most coding agents can even scaffold one for you if you ask nicely.
+
+### 2.Cover what matters
+
+Add sections that help an agent work effectively with your project. Popular choices:
+
+* Project overview
+* Build and test commands
+* Code style guidelines
+* Testing instructions
+* Security considerations
+
+### 3.Add extra instructions
+
+Commit messages or pull request guidelines, security gotchas, large datasets, deployment steps: anything you’d tell a new teammate belongs here too.
+
+### 4.Large monorepo? Use nested AGENTS.md files for subprojects
+
+Place another AGENTS.md inside each package. Agents automatically read the nearest file in the directory tree, so the closest one takes precedence and every subproject can ship tailored instructions. For example, at time of writing the main OpenAI repo has 88 AGENTS.md files.
+
+## About
+
+AGENTS.md emerged from collaborative efforts across the AI software development ecosystem, includingOpenAI Codex,Amp,Jules from Google,Cursor, andFactory.
+
+We’re committed to helping maintain and evolve this as an open format that benefits the entire developer community, regardless of which coding agent you use.
+
+## FAQ
+
+### Are there required fields?
+
+No. AGENTS.md is just standard Markdown. Use any headings you like; the agent simply parses the text you provide.
+
+### What if instructions conflict?
+
+The closest AGENTS.md to the edited file wins; explicit user chat prompts override everything.
+
+### Will the agent run testing commands found in AGENTS.md automatically?
+
+Yes—if you list them. The agent will attempt to execute relevant programmatic checks and fix failures before finishing the task.
+
+### Can I update it later?
+
+Absolutely. Treat AGENTS.md as living documentation.
+
+### How do I migrate existing docs to AGENTS.md?
+
+Rename existing files to AGENTS.md and create symbolic links for backward compatibility:
+
+mv AGENT.md AGENTS.md && ln -s AGENTS.md AGENT.md

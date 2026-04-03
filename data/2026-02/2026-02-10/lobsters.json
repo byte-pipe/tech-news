@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A Language For Agents",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "plt, vibecoding",
+    "url": "https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Algorithmically Finding the Longest Line of Sight on Earth",
+    "author": "",
+    "score": "46",
+    "comments": "0",
+    "tags": "release, rust",
+    "url": "https://lobste.rs/s/8959u3/algorithmically_finding_longest_line",
+    "date": "2026-02-10",
+    "description": "☶"
+  },
+  {
+    "title": "Alice the Caml",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "ml",
+    "url": "https://www.gridbugs.org/alice-the-caml/",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Better Python tests with inline-snapshot",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "python, testing",
+    "url": "https://pydantic.dev/articles/inline-snapshot",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Can my SPARC server host a website?",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "hardware, web",
+    "url": "https://rup12.net/posts/can-my-sparc-server-host-my-website/",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Code injections through Git commit messages",
+    "author": "",
+    "score": "50",
+    "comments": "0",
+    "tags": "security, vcs",
+    "url": "https://mas.to/@zekjur/116022397626943871",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Computers can be understood",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "philosophy, programming",
+    "url": "https://blog.nelhage.com/post/computers-can-be-understood/",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Concerns about low-quality PRs beeing merged into main",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://discourse.llvm.org/t/concerns-about-low-quality-prs-beeing-merged-into-main/89748",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Discord Launches Teen-by-Default Settings Globally",
+    "author": "",
+    "score": "38",
+    "comments": "0",
+    "tags": "privacy, security",
+    "url": "https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Don't Get Distracted (2017)",
+    "author": "",
+    "score": "146",
+    "comments": "0",
+    "tags": "philosophy",
+    "url": "https://calebhearth.com/dont-get-distracted",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "ESP8266 WiFi Analog Clock",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "I Am Happier Writing Code by Hand",
+    "author": "",
+    "score": "27",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Implementing custom error types in Rust + Axum",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "practices, rust",
+    "url": "https://rup12.net/posts/learning-rust-custom-errors/",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Let's compile Quake like it's 1997",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "games, retrocomputing",
+    "url": "https://fabiensanglard.net/compile_like_1997/index.html",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Nobody knows how the whole system works",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Offpunk 3.0",
+    "author": "",
+    "score": "78",
+    "comments": "0",
+    "tags": "show, browsers",
+    "url": "https://ploum.net/2026-02-09-offpunk3.html",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Proposal: Add Hotness -.25 to Vibe Coding",
+    "author": "",
+    "score": "79",
+    "comments": "0",
+    "tags": "meta",
+    "url": "https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding",
+    "date": "2026-02-10",
+    "description": "☶"
+  },
+  {
+    "title": "Rebuilding my home network with VLANs and 10Gbps",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://clintonboys.com/projects/homelab/03-network/",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Ruby Newbie is joining the Ruby Users Forum",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "programming, ruby",
+    "url": "https://www.rubyforum.org/tag/getting-started",
+    "date": "2026-02-10",
+    "description": "☶"
+  },
+  {
+    "title": "The little bool of doom",
+    "author": "",
+    "score": "30",
+    "comments": "0",
+    "tags": "c, debugging",
+    "url": "https://blog.svgames.pl/article/the-little-bool-of-doom",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "The original vi is a product of its time (and its time has passed)",
+    "author": "",
+    "score": "43",
+    "comments": "0",
+    "tags": "editors",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Trying out Thunderbird Appointment While I Patiently Wait For An Invite",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "You Are Here",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://brooker.co.za/blog/2026/02/07/you-are-here.html",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "miniKanren.org",
+    "author": "",
+    "score": "35",
+    "comments": "0",
+    "tags": "logiclangs",
+    "url": "https://minikanren.org/",
+    "date": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "six thoughts on generating c",
+    "author": "",
+    "score": "35",
+    "comments": "0",
+    "tags": "compilers",
+    "url": "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c",
+    "date": "2026-02-10",
+    "description": ""
+  }
+]

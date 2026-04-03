@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A SQL Heuristic: ORs Are Expensive",
+    "url": "https://ethanseal.com/articles/ors-are-expensive",
+    "author": "ethanseal",
+    "date": "2025-09-29",
+    "score": 153,
+    "comments": 71,
+    "id": 45413525,
+    "discussion_url": "https://news.ycombinator.com/item?id=45413525",
+    "description": "A SQL Heuristic: ORs Are Expensive",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333078"
+  },
+  {
+    "title": "AI tools I wish existed",
+    "url": "https://sharif.io/28-ideas-2025",
+    "author": "Poleris",
+    "date": "2025-09-30",
+    "score": 112,
+    "comments": 95,
+    "id": 45421812,
+    "discussion_url": "https://news.ycombinator.com/item?id=45421812",
+    "description": "AI tools I wish existed",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333039"
+  },
+  {
+    "title": "AI will happily design the wrong thing for you",
+    "url": "https://www.antonsten.com/articles/ai-will-happily-design-the-wrong-thing-for-you/",
+    "author": "zdw",
+    "date": "2025-09-30",
+    "score": 85,
+    "comments": 12,
+    "id": 45426673,
+    "discussion_url": "https://news.ycombinator.com/item?id=45426673",
+    "description": "AI will happily design the wrong thing for you",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333026"
+  },
+  {
+    "title": "Bad Apple but it's played inside Super Mario Bros",
+    "url": "https://tasvideos.org/8991S",
+    "author": "carlesfe",
+    "date": "2025-09-29",
+    "score": 205,
+    "comments": 36,
+    "id": 45411831,
+    "discussion_url": "https://news.ycombinator.com/item?id=45411831",
+    "description": "Bad Apple but it's played inside Super Mario Bros",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333057"
+  },
+  {
+    "title": "Bcachefs removed from the mainline kernel",
+    "url": "https://lwn.net/Articles/1040120/",
+    "author": "Bogdanp",
+    "date": "2025-09-30",
+    "score": 210,
+    "comments": 151,
+    "id": 45423004,
+    "discussion_url": "https://news.ycombinator.com/item?id=45423004",
+    "description": "Bcachefs removed from the mainline kernel",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332931"
+  },
+  {
+    "title": "Can you use GDPR to circumvent BlueSky's adult content blocks?",
+    "url": "https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/",
+    "author": "furkansahin",
+    "date": "2025-09-30",
+    "score": 90,
+    "comments": 69,
+    "id": 45423363,
+    "discussion_url": "https://news.ycombinator.com/item?id=45423363",
+    "description": "Can you use GDPR to circumvent BlueSky's adult content blocks?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332832"
+  },
+  {
+    "title": "Claude Code 2.0",
+    "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code",
+    "author": "polyrand",
+    "date": "2025-09-29",
+    "score": 813,
+    "comments": 383,
+    "id": 45416228,
+    "discussion_url": "https://news.ycombinator.com/item?id=45416228",
+    "description": "Claude Code 2.0",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333085"
+  },
+  {
+    "title": "Claude Sonnet 4.5",
+    "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+    "author": "adocomplete",
+    "date": "2025-09-29",
+    "score": 1509,
+    "comments": 751,
+    "id": 45415962,
+    "discussion_url": "https://news.ycombinator.com/item?id=45415962",
+    "description": "Claude Sonnet 4.5",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333021"
+  },
+  {
+    "title": "Companies are lying about AI layoffs?",
+    "url": "https://huijzer.xyz/posts/111/companies-are-lying-about-ai-layoffs",
+    "author": "huijzer",
+    "date": "2025-09-30",
+    "score": 169,
+    "comments": 131,
+    "id": 45423088,
+    "discussion_url": "https://news.ycombinator.com/item?id=45423088",
+    "description": "Companies are lying about AI layoffs?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333094"
+  },
+  {
+    "title": "Comprehension debt: A ticking time bomb of LLM-generated code",
+    "url": "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/",
+    "author": "todsacerdoti",
+    "date": "2025-09-30",
+    "score": 452,
+    "comments": 281,
+    "id": 45423917,
+    "discussion_url": "https://news.ycombinator.com/item?id=45423917",
+    "description": "Comprehension debt: A ticking time bomb of LLM-generated code",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332860"
+  },
+  {
+    "title": "Correctness and composability bugs in the Julia ecosystem (2022)",
+    "url": "https://yuri.is/not-julia/",
+    "author": "cs702",
+    "date": "2025-09-30",
+    "score": 98,
+    "comments": 51,
+    "id": 45427021,
+    "discussion_url": "https://news.ycombinator.com/item?id=45427021",
+    "description": "Correctness and composability bugs in the Julia ecosystem (2022)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333008"
+  },
+  {
+    "title": "Extract-0: A specialized language model for document information extraction",
+    "url": "https://arxiv.org/abs/2509.22906",
+    "author": "henriquegodoy",
+    "date": "2025-09-30",
+    "score": 168,
+    "comments": 40,
+    "id": 45427634,
+    "discussion_url": "https://news.ycombinator.com/item?id=45427634",
+    "description": "Extract-0: A specialized language model for document information extraction",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332987"
+  },
+  {
+    "title": "Geolocation and Starlink",
+    "url": "https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html",
+    "author": "tatersolid",
+    "date": "2025-09-30",
+    "score": 136,
+    "comments": 57,
+    "id": 45422514,
+    "discussion_url": "https://news.ycombinator.com/item?id=45422514",
+    "description": "Geolocation and Starlink",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332936"
+  },
+  {
+    "title": "Heavy codes of conduct are unnecessary for open source projects",
+    "url": "https://shujisado.org/2025/09/30/why-heavy-codes-of-conduct-are-unnecessary-for-most-open-source-projects/",
+    "author": "jonymo",
+    "date": "2025-09-30",
+    "score": 85,
+    "comments": 115,
+    "id": 45423014,
+    "discussion_url": "https://news.ycombinator.com/item?id=45423014",
+    "description": "Heavy codes of conduct are unnecessary for open source projects",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333012"
+  },
+  {
+    "title": "How has mathematics gotten so abstract?",
+    "url": "https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract",
+    "author": "thadt",
+    "date": "2025-09-30",
+    "score": 91,
+    "comments": 121,
+    "id": 45424648,
+    "discussion_url": "https://news.ycombinator.com/item?id=45424648",
+    "description": "How has mathematics gotten so abstract?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332940"
+  },
+  {
+    "title": "How to create an OS from scratch",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "author": "pykello",
+    "date": "2025-09-29",
+    "score": 211,
+    "comments": 71,
+    "id": 45420173,
+    "discussion_url": "https://news.ycombinator.com/item?id=45420173",
+    "description": "How to create an OS from scratch",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332991"
+  },
+  {
+    "title": "Imgur pulls out of UK as data watchdog threatens fine",
+    "url": "https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out",
+    "author": "ANewbury",
+    "date": "2025-09-30",
+    "score": 114,
+    "comments": 121,
+    "id": 45424888,
+    "discussion_url": "https://news.ycombinator.com/item?id=45424888",
+    "description": "Imgur pulls out of UK as data watchdog threatens fine",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332983"
+  },
+  {
+    "title": "I’ve removed Disqus. It was making my blog worse",
+    "url": "https://ryansouthgate.com/goodbye-disqus/",
+    "author": "ry8806",
+    "date": "2025-09-30",
+    "score": 518,
+    "comments": 304,
+    "id": 45423268,
+    "discussion_url": "https://news.ycombinator.com/item?id=45423268",
+    "description": "I’ve removed Disqus. It was making my blog worse",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333003"
+  },
+  {
+    "title": "Kagi News",
+    "url": "https://blog.kagi.com/kagi-news",
+    "author": "grappler",
+    "date": "2025-09-30",
+    "score": 545,
+    "comments": 238,
+    "id": 45426490,
+    "discussion_url": "https://news.ycombinator.com/item?id=45426490",
+    "description": "Kagi News",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332921"
+  },
+  {
+    "title": "Launch HN: Airweave (YC X25) – Let agents search any app",
+    "url": "https://github.com/airweave-ai/airweave",
+    "author": "lennertjansen",
+    "date": "2025-09-30",
+    "score": 95,
+    "comments": 9,
+    "id": 45427482,
+    "discussion_url": "https://news.ycombinator.com/item?id=45427482",
+    "description": "Launch HN: Airweave (YC X25) – Let agents search any app",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332907"
+  },
+  {
+    "title": "Leaked Apple M5 9 core Geekbench scores",
+    "url": "https://browser.geekbench.com/v6/cpu/14173685",
+    "author": "aurareturn",
+    "date": "2025-09-30",
+    "score": 121,
+    "comments": 117,
+    "id": 45427197,
+    "discussion_url": "https://news.ycombinator.com/item?id=45427197",
+    "description": "Leaked Apple M5 9 core Geekbench scores",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332888"
+  },
+  {
+    "title": "Safe zero-copy operations in C#",
+    "url": "https://ssg.dev/safe-zero-copy-operations-in-c/",
+    "author": "sedatk",
+    "date": "2025-09-29",
+    "score": 204,
+    "comments": 62,
+    "id": 45420001,
+    "discussion_url": "https://news.ycombinator.com/item?id=45420001",
+    "description": "Safe zero-copy operations in C#",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333044"
+  },
+  {
+    "title": "Selling Lemons",
+    "url": "https://frankchimero.com/blog/2025/selling-lemons/",
+    "author": "gregwolanski",
+    "date": "2025-09-30",
+    "score": 141,
+    "comments": 79,
+    "id": 45425746,
+    "discussion_url": "https://news.ycombinator.com/item?id=45425746",
+    "description": "Selling Lemons",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332979"
+  },
+  {
+    "title": "Show HN: Devbox – Containers for better dev environments",
+    "url": "https://devbox.ar0.eu/",
+    "author": "TheRealBadDev",
+    "date": "2025-09-30",
+    "score": 102,
+    "comments": 49,
+    "id": 45421302,
+    "discussion_url": "https://news.ycombinator.com/item?id=45421302",
+    "description": "Show HN: Devbox – Containers for better dev environments",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333030"
+  },
+  {
+    "title": "Show HN: Sculptor, the Missing UI for Claude Code",
+    "url": "https://imbue.com/sculptor/",
+    "author": "thejash",
+    "date": "2025-09-30",
+    "score": 88,
+    "comments": 48,
+    "id": 45427697,
+    "discussion_url": "https://news.ycombinator.com/item?id=45427697",
+    "description": "Show HN: Sculptor, the Missing UI for Claude Code",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333098"
+  },
+  {
+    "title": "Sora 2",
+    "url": "https://openai.com/index/sora-2/",
+    "author": "meetpateltech",
+    "date": "2025-09-30",
+    "score": 237,
+    "comments": 163,
+    "id": 45428122,
+    "discussion_url": "https://news.ycombinator.com/item?id=45428122",
+    "description": "Sora 2",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332811"
+  },
+  {
+    "title": "There is a huge pool of exceptional junior engineers",
+    "url": "https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies",
+    "author": "mooreds",
+    "date": "2025-09-30",
+    "score": 173,
+    "comments": 274,
+    "id": 45421564,
+    "discussion_url": "https://news.ycombinator.com/item?id=45421564",
+    "description": "There is a huge pool of exceptional junior engineers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332893"
+  },
+  {
+    "title": "Voronoi map generation in Civilization VII",
+    "url": "https://civilization.2k.com/civ-vii/from-the-devs/map-generation/",
+    "author": "Areibman",
+    "date": "2025-09-26",
+    "score": 225,
+    "comments": 20,
+    "id": 45382300,
+    "discussion_url": "https://news.ycombinator.com/item?id=45382300",
+    "description": "Voronoi map generation in Civilization VII",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333090"
+  },
+  {
+    "title": "dgsh – Directed Graph Shell",
+    "url": "https://www2.dmst.aueb.gr/dds/sw/dgsh/",
+    "author": "pabs3",
+    "date": "2025-09-30",
+    "score": 82,
+    "comments": 37,
+    "id": 45425298,
+    "discussion_url": "https://news.ycombinator.com/item?id=45425298",
+    "description": "dgsh – Directed Graph Shell",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.332903"
+  },
+  {
+    "title": "iRobot Founder: Don't Believe the AI and Robotics Hype",
+    "url": "https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/",
+    "author": "herbertl",
+    "date": "2025-09-29",
+    "score": 241,
+    "comments": 167,
+    "id": 45418261,
+    "discussion_url": "https://news.ycombinator.com/item?id=45418261",
+    "description": "iRobot Founder: Don't Believe the AI and Robotics Hype",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-30T19:08:36.333074"
+  }
+]

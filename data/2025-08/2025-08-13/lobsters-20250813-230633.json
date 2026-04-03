@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Arch shares its wiki strategy with Debian",
+    "author": "",
+    "score": "30",
+    "comments": "0",
+    "tags": "culture, linux",
+    "url": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Ashet Home Computer",
+    "author": "",
+    "score": "41",
+    "comments": "0",
+    "tags": "hardware, osdev, retrocomputing",
+    "url": "https://ashet.computer/",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Coalton Playground: Type-Safe Lisp in Your Browser",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "lisp, plt",
+    "url": "https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Go 1.25 Release Notes",
+    "author": "",
+    "score": "58",
+    "comments": "0",
+    "tags": "go, release",
+    "url": "https://go.dev/doc/go1.25",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "How I do (type-safe) container types in C",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "c",
+    "url": "https://louissven.xyz/article/how_I_do_container_types_in_C.md",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Linear scan register allocation on SSA",
+    "author": "",
+    "score": "30",
+    "comments": "0",
+    "tags": "compilers, plt",
+    "url": "https://bernsteinbear.com/blog/linear-scan/",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Miegakure SIGGRAPH 2025 Talk",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "video, games, graphics",
+    "url": "https://www.youtube.com/live/ucRukZM0d1s?t=5203s",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "NYC’s Urban Textscape",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "design, web",
+    "url": "https://pudding.cool/2025/07/street-view/",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Numba v2 Compiler Design",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "compilers, performance, plt, python",
+    "url": "https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "OOMProf - Take a heap profile just before OOMkill using eBPF",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "debugging, go, linux, performance, programming",
+    "url": "https://www.polarsignals.com/blog/posts/2025/08/13/oomprof",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Plan 9 Desktop Guide",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "osdev",
+    "url": "https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Snooping On Slow Builds (Using Syscalls)",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "compilers, performance, programming",
+    "url": "https://danielchasehooper.com/posts/syscall-build-snooping/",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Standard Package Layout (2016)",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "go, practices, programming",
+    "url": "https://www.gobeyond.dev/standard-package-layout/",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Starting with pytest’s parametrize",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "python, testing",
+    "url": "https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Study: Social media probably can’t be fixed",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "distributed, science",
+    "url": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Syncthing v2.0",
+    "author": "",
+    "score": "161",
+    "comments": "0",
+    "tags": "distributed, release",
+    "url": "https://github.com/syncthing/syncthing/releases/tag/v2.0.0",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "That 16 Billion Password Story (AKA \"Data Troll\")",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "The Best \"Hello World\" in Web Development",
+    "author": "",
+    "score": "65",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://unplannedobsolescence.com/blog/best-hello-world-web-development/",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "The Factory Timezone",
+    "author": "",
+    "score": "39",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://data.iana.org/time-zones/tzdb-2025a/factory",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Type inference for plain data",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://www.haskellforall.com/2025/08/type-inference-for-plain-data.html",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Why I chose OCaml as my primary language",
+    "author": "",
+    "score": "39",
+    "comments": "0",
+    "tags": "ml, plt, programming",
+    "url": "https://xvw.lol/en/articles/why-ocaml.html",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "Writing Your Own Simple Tab-Completions for Bash and Zsh",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://mill-build.org/blog/14-bash-zsh-completion.html",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "git-who: Git blame for file trees",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://github.com/sinclairtarget/git-who",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "nixidy: Kubernetes GitOps with nix and Argo CD",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "show, devops, nix",
+    "url": "https://nixidy.dev",
+    "date": "2025-08-13",
+    "description": ""
+  },
+  {
+    "title": "pyx: a Python-native package registry, now in Beta",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://astral.sh/blog/introducing-pyx",
+    "date": "2025-08-13",
+    "description": ""
+  }
+]

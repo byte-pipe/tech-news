@@ -1,0 +1,252 @@
+[
+  {
+    "title": "--dangerously-skip-reading-code",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "practices, vibecoding",
+    "url": "https://olano.dev/blog/dangerously-skip",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "A Broken Heart",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "vibecoding, web",
+    "url": "https://allenpike.com/2026/a-broken-heart/",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "AI Agent Lands PRs in Major OSS Projects, Targets Maintainers via Cold Outreach",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "security, vibecoding",
+    "url": "https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "An AI Called Winter: Neurosymbolic Computation or Illusion?",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "logiclangs, vibecoding",
+    "url": "https://dustycloud.org/blog/an-ai-called-winter-neurosymbolic-computation-or-illusion/",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Babashka 1.12.215: Revenge of the TUIs",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "clojure",
+    "url": "https://blog.michielborkent.nl/babashka-1.12.215.html",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Browse code by meaning",
+    "author": "",
+    "score": "37",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://haskellforall.com/2026/02/browse-code-by-meaning",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Fast sorting, branchless by design",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "cryptography, zig",
+    "url": "https://00f.net/2026/02/17/sorting-without-leaking-secrets/",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "GPU code can now use Rust's async/await",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "graphics, rust",
+    "url": "https://vectorware.com/blog/async-await-on-gpu/",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Gentoo on Codeberg",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "How a single typo led to RCE in Firefox",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "browsers",
+    "url": "https://kqx.io/post/firefox0day/",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Let's practice! (bsd.rd)",
+    "author": "",
+    "score": "38",
+    "comments": "0",
+    "tags": "openbsd",
+    "url": "https://openbsdjumpstart.org/bsd.rd/",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Modern CSS Code Snippets",
+    "author": "",
+    "score": "48",
+    "comments": "0",
+    "tags": "css, web",
+    "url": "https://modern-css.com",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Plasma 6.6 released",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://kde.org/announcements/plasma/6/6.6.0/",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Please consider tagging a vibecoding griefpost or hypepost as a rant",
+    "author": "",
+    "score": "125",
+    "comments": "0",
+    "tags": "meta, vibecoding",
+    "url": "https://lobste.rs/s/jdoe4x/please_consider_tagging_vibecoding",
+    "date": "2026-02-18",
+    "description": "☶"
+  },
+  {
+    "title": "Poor Deming never stood a chance",
+    "author": "",
+    "score": "65",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Rise of the Triforce",
+    "author": "",
+    "score": "77",
+    "comments": "0",
+    "tags": "games, retrocomputing",
+    "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Sometimes giving syndication feed readers good errors is a mistake",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblemII",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "TIL: Docker log rotation",
+    "author": "",
+    "score": "60",
+    "comments": "0",
+    "tags": "devops",
+    "url": "https://ntietz.com/blog/til-docker-log-rotation/",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "The Next Version of Curling IO",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "gleam",
+    "url": "https://curling.io/blog/the-next-version-of-curling-io",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "The Servo project and its impact on the web platform ecosystem",
+    "author": "",
+    "score": "53",
+    "comments": "0",
+    "tags": "slides, browsers",
+    "url": "https://servo.org/slides/2026-02-fosdem-servo-web-platform/",
+    "date": "2026-02-18",
+    "description": "☶"
+  },
+  {
+    "title": "Undo in Vi and its successors",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "a11y, editors, vim",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Using go fix to modernize Go code",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://go.dev/blog/gofix",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Vinyl Cache has left github",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://vinyl-cache.org/organization/moving.html",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "Zero Knowledge (About) Encryption: A Comparative Security Analysis of Three Cloud-based Password Managers",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "pdf, security",
+    "url": "https://eprint.iacr.org/2026/058.pdf",
+    "date": "2026-02-18",
+    "description": ""
+  },
+  {
+    "title": "fixapl",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "apl, plt",
+    "url": "https://fixapl.netlify.app/",
+    "date": "2026-02-18",
+    "description": ""
+  }
+]

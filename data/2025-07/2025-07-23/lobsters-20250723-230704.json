@@ -1,0 +1,252 @@
+[
+  {
+    "title": "20 years of Linux on the Desktop (part 4)",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "historical",
+    "url": "https://ploum.net/2025-07-23-linux_desktop4.html",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "AI Coding Agents Are Removing Programming Language Barriers",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Branch Coverage Won't Prove The Collatz Conjecture",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "programming, testing",
+    "url": "https://concerningquality.com/collatz-conjecture/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Building Systems, Simply",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "video, practices",
+    "url": "https://www.youtube.com/watch?v=jVC4DP-8xLM",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Comparing the Glove80 and Maltron keyboards",
+    "author": "",
+    "score": "39",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Computational Tyranny",
+    "author": "",
+    "score": "48",
+    "comments": "0",
+    "tags": "culture, philosophy",
+    "url": "https://happyfellow.bearblog.dev/computational-tyranny/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Developing our position on AI",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Extending Emacs with Fennel (2024)",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "emacs, lisp",
+    "url": "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://matrix.org/blog/2025/07/postgres-corruption-postmortem/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Implementing dynamic scope for Fennel and Lua",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "lisp",
+    "url": "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Is it feasible to start a local forum in 2025?",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "ask, culture",
+    "url": "https://lobste.rs/s/txrjel/is_it_feasible_start_local_forum_2025",
+    "date": "2025-07-23",
+    "description": "☶"
+  },
+  {
+    "title": "Migrating a ZFS pool from RAIDZ1 to RAIDZ2",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "devops",
+    "url": "https://mtlynch.io/raidz1-to-raidz2/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "More than you wanted to know about how Game Boy cartridges work",
+    "author": "",
+    "score": "41",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://abc.decontextualize.com/more-than-you-wanted-to-know/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "NPM 'accidentally' removes Stylus package, breaks builds and pipelines",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "javascript, security",
+    "url": "https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Python 3.14 release candidate 1 is go",
+    "author": "",
+    "score": "36",
+    "comments": "0",
+    "tags": "python, release",
+    "url": "https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Superfunctions: solve the \"color\" problem of Python",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://github.com/pomponchik/transfunctions",
+    "date": "2025-07-23",
+    "description": "☶"
+  },
+  {
+    "title": "TODOs aren’t for doing",
+    "author": "",
+    "score": "67",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://sophiebits.com/2025/07/21/todos-arent-for-doing",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Tailwind is the Worst of All Worlds",
+    "author": "",
+    "score": "78",
+    "comments": "0",
+    "tags": "css, javascript, web",
+    "url": "https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "The Promised LAN",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://tpl.house/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "TrackWeight: Use your Mac trackpad as a weighing scale",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "mac",
+    "url": "https://github.com/KrishKrosh/TrackWeight",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Using Radicle CI for Development",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://radicle.xyz/2025/07/23/using-radicle-ci-for-development",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "What is X-Forwarded-For and when can you trust it?",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://httptoolkit.com/blog/what-is-x-forwarded-for/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "What to expect from Debian/trixie",
+    "author": "",
+    "score": "41",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "You Can Now Disable All AI Features in Zed",
+    "author": "",
+    "score": "39",
+    "comments": "0",
+    "tags": "editors, vibecoding",
+    "url": "https://zed.dev/blog/disable-ai-features",
+    "date": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "font-size-adjust Is Useful",
+    "author": "",
+    "score": "51",
+    "comments": "0",
+    "tags": "design, web",
+    "url": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
+    "date": "2025-07-23",
+    "description": ""
+  }
+]

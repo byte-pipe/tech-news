@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A desktop environment without graphics (tmux-like)",
+    "url": "https://github.com/Julien-cpsn/desktop-tui",
+    "author": "mustaphah",
+    "date": "2025-09-11",
+    "points": "96",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45167295"
+  },
+  {
+    "title": "BCacheFS is being disabled in the openSUSE kernels 6.17+",
+    "url": "https://lwn.net/ml/all/9032de2a-03a7-4f9e-9c8a-8bd81c5d1fc5@suse.cz/",
+    "author": "6581",
+    "date": "2025-09-11",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45209599"
+  },
+  {
+    "title": "ChatGPT Developer Mode: Full MCP client access",
+    "url": "https://platform.openai.com/docs/guides/developer-mode",
+    "author": "meetpateltech",
+    "date": "2025-09-11",
+    "points": "454",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45199713"
+  },
+  {
+    "title": "Clojure's Solutions to the Expression Problem",
+    "url": "https://www.infoq.com/presentations/Clojure-Expression-Problem/",
+    "author": "adityaathalye",
+    "date": "2025-09-11",
+    "points": "134",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45161410"
+  },
+  {
+    "title": "Court rejects Verizon claim that selling location data without consent is legal",
+    "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
+    "author": "nobody9999",
+    "date": "2025-09-11",
+    "points": "437",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45206567"
+  },
+  {
+    "title": "DOOMscrolling: The Game",
+    "url": "https://ironicsans.ghost.io/doomscrolling-the-game/",
+    "author": "jfil",
+    "date": "2025-09-11",
+    "points": "298",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45205232"
+  },
+  {
+    "title": "DeepCodeBench: Real-World Codebase Understanding by Q&A Benchmarking",
+    "url": "https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/",
+    "author": "blazercohen",
+    "date": "2025-09-11",
+    "points": "10",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45209532"
+  },
+  {
+    "title": "Defeating Nondeterminism in LLM Inference",
+    "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
+    "author": "jxmorris12",
+    "date": "2025-09-11",
+    "points": "262",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45200925"
+  },
+  {
+    "title": "Fraudulent Publishing in the Mathematical Sciences",
+    "url": "https://arxiv.org/abs/2509.07257",
+    "author": "bikenaga",
+    "date": "2025-09-11",
+    "points": "69",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45203935"
+  },
+  {
+    "title": "Germany is not supporting ChatControl – blocking minority secured",
+    "url": "https://digitalcourage.social/@echo_pbreyer/115184350819592476",
+    "author": "xyzal",
+    "date": "2025-09-11",
+    "points": "488",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45209366"
+  },
+  {
+    "title": "Hashed sorting is typically faster than hash tables",
+    "url": "https://reiner.org/hashed-sorting",
+    "author": "Bogdanp",
+    "date": "2025-09-11",
+    "points": "84",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45165721"
+  },
+  {
+    "title": "Hot Chips 2025: Session 1 – CPUs – By George Cozma",
+    "url": "https://chipsandcheese.com/p/hot-chips-2025-session-1-cpus",
+    "author": "rbanffy",
+    "date": "2025-09-11",
+    "points": "24",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45167260"
+  },
+  {
+    "title": "How the tz database works (2020)",
+    "url": "https://yatsushi.com/blog/tz-database/",
+    "author": "jumbosushi",
+    "date": "2025-09-11",
+    "points": "13",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45162559"
+  },
+  {
+    "title": "I didn't bring my son to a museum to look at screens",
+    "url": "https://sethpurcell.com/writing/screens-in-museums/",
+    "author": "arch_deluxe",
+    "date": "2025-09-11",
+    "points": "1014",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45199931"
+  },
+  {
+    "title": "Intel's E2200 \"Mount Morgan\" IPU at Hot Chips 2025",
+    "url": "https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at",
+    "author": "ingve",
+    "date": "2025-09-11",
+    "points": "72",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45204838"
+  },
+  {
+    "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
+    "url": "https://jiratui.sh/",
+    "author": "gjvc",
+    "date": "2025-09-11",
+    "points": "250",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45198481"
+  },
+  {
+    "title": "KDE launches its own distribution",
+    "url": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
+    "author": "Bogdanp",
+    "date": "2025-09-11",
+    "points": "521",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45204393"
+  },
+  {
+    "title": "Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts",
+    "url": "https://news.ycombinator.com/item?id=45199648",
+    "author": "davidgu",
+    "date": "2025-09-11",
+    "points": "87",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45199648"
+  },
+  {
+    "title": "Learning lessons from the loss of the Norwegian frigate Helge Ingstad",
+    "url": "https://www.navylookout.com/learning-the-lessons-the-loss-the-norwegian-frigate-helge-ingstad/",
+    "author": "ilamont",
+    "date": "2025-09-11",
+    "points": "48",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45169194"
+  },
+  {
+    "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
+    "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
+    "author": "robtherobber",
+    "date": "2025-09-11",
+    "points": "812",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45195520"
+  },
+  {
+    "title": "Pure and Impure Software Engineering",
+    "url": "https://www.seangoedecke.com/pure-and-impure-engineering/",
+    "author": "colonCapitalDee",
+    "date": "2025-09-11",
+    "points": "7",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45165753"
+  },
+  {
+    "title": "Removing yellow stains from fabric with blue light",
+    "url": "https://phys.org/news/2025-09-yellow-fabric-blue.html",
+    "author": "bookofjoe",
+    "date": "2025-09-11",
+    "points": "39",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45163423"
+  },
+  {
+    "title": "Reshaped is now open source",
+    "url": "https://reshaped.so/blog/reshaped-oss",
+    "author": "michaelmior",
+    "date": "2025-09-11",
+    "points": "4",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45209558"
+  },
+  {
+    "title": "Rewriting Dataframes for MicroHaskell",
+    "url": "https://mchav.github.io/rewriting-dataframes-for-microhs/",
+    "author": "internet_points",
+    "date": "2025-09-11",
+    "points": "43",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45165608"
+  },
+  {
+    "title": "Samsung taking market share from Apple in U.S. as foldable phones gain momentum",
+    "url": "https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html",
+    "author": "mgh2",
+    "date": "2025-09-11",
+    "points": "22",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45209389"
+  },
+  {
+    "title": "Show HN: Haystack – Review pull requests like you wrote them yourself",
+    "url": "https://haystackeditor.com",
+    "author": "akshaysg",
+    "date": "2025-09-11",
+    "points": "71",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45201703"
+  },
+  {
+    "title": "Show HN: Term.everything – Run any GUI app in the terminal",
+    "url": "https://github.com/mmulet/term.everything",
+    "author": "mmulet",
+    "date": "2025-09-11",
+    "points": "913",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45181535"
+  },
+  {
+    "title": "The HackberryPi CM5 handheld computer",
+    "url": "https://github.com/ZitaoTech/HackberryPiCM5",
+    "author": "kristianpaul",
+    "date": "2025-09-11",
+    "points": "210",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45172058"
+  },
+  {
+    "title": "Where did the Smurfs get their hats (2018)",
+    "url": "https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/",
+    "author": "andsoitis",
+    "date": "2025-09-11",
+    "points": "83",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45206311"
+  },
+  {
+    "title": "“No Tax on Tips” Includes Digital Creators, Too",
+    "url": "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/",
+    "author": "aspenmayer",
+    "date": "2025-09-11",
+    "points": "137",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45200024"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "title": "AI overviews cause massive drop in search clicks",
+    "url": "https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/",
+    "author": "jonbaer",
+    "date": "2025-07-25",
+    "points": "543",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44663227"
+  },
+  {
+    "title": "AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it",
+    "url": "https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative",
+    "author": "LorenDB",
+    "date": "2025-07-25",
+    "points": "87",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44670624"
+  },
+  {
+    "title": "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
+    "url": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b",
+    "author": "Bogdanp",
+    "date": "2025-07-25",
+    "points": "108",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44666896"
+  },
+  {
+    "title": "BGP.Tools: Browse the Internet Ecosystem",
+    "url": "https://bgp.tools/",
+    "author": "RGBCube",
+    "date": "2025-07-25",
+    "points": "237",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44665815"
+  },
+  {
+    "title": "Building better AI tools",
+    "url": "https://hazelweakly.me/blog/stop-building-ai-tools-backwards/",
+    "author": "eternalreturn",
+    "date": "2025-07-25",
+    "points": "318",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44659921"
+  },
+  {
+    "title": "CARA – High precision robot dog using rope",
+    "url": "https://www.aaedmusa.com/projects/cara",
+    "author": "hakonjdjohnsen",
+    "date": "2025-07-25",
+    "points": "876",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44661846"
+  },
+  {
+    "title": "Colodebug: A simple way to improve bash script debugging (2021)",
+    "url": "https://johannes.truschnigg.info/writing/2021-12_colodebug/",
+    "author": "c0l0",
+    "date": "2025-07-25",
+    "points": "4",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44632890"
+  },
+  {
+    "title": "Covers as a way of learning music and code",
+    "url": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
+    "author": "zdw",
+    "date": "2025-07-25",
+    "points": "33",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44636240"
+  },
+  {
+    "title": "Detekt – A static code analyzer for Kotlin",
+    "url": "https://detekt.dev/",
+    "author": "TheWiggles",
+    "date": "2025-07-25",
+    "points": "64",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44669365"
+  },
+  {
+    "title": "Distillation makes AI models smaller and cheaper",
+    "url": "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/",
+    "author": "pseudolus",
+    "date": "2025-07-25",
+    "points": "128",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44629805"
+  },
+  {
+    "title": "Electric cars produce far less brake dust pollution than combustion-engine cars",
+    "url": "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/",
+    "author": "tzs",
+    "date": "2025-07-25",
+    "points": "393",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44666157"
+  },
+  {
+    "title": "I drank every cocktail",
+    "url": "https://aaronson.org/blog/i-drank-every-cocktail",
+    "author": "colinprince",
+    "date": "2025-07-25",
+    "points": "347",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44665373"
+  },
+  {
+    "title": "Jitsi privacy flaw enables one-click stealth audio and video capture",
+    "url": "https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one",
+    "author": "zielmicha",
+    "date": "2025-07-25",
+    "points": "186",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44663684"
+  },
+  {
+    "title": "Neil Armstrong's customs form for moon rocks (2016)",
+    "url": "https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html",
+    "author": "ajuhasz",
+    "date": "2025-07-25",
+    "points": "279",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44660437"
+  },
+  {
+    "title": "PSA: SQLite WAL checksums fail silently and may lose data",
+    "url": "https://avi.im/blag/2025/sqlite-wal-checksum/",
+    "author": "avinassh",
+    "date": "2025-07-25",
+    "points": "15",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44671373"
+  },
+  {
+    "title": "Parsing Protobuf like never before",
+    "url": "https://mcyoung.xyz/2025/07/16/hyperpb/",
+    "author": "ibobev",
+    "date": "2025-07-25",
+    "points": "226",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44591605"
+  },
+  {
+    "title": "Shattering the rotation illusion: The attacker view and AWSKeyLockdown (2024)",
+    "url": "https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown",
+    "author": "complexpass",
+    "date": "2025-07-25",
+    "points": "32",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44667472"
+  },
+  {
+    "title": "Show HN: Tinder but it's only pictures of my wife and I can only swipe right",
+    "url": "https://trytender.app/",
+    "author": "risquer",
+    "date": "2025-07-25",
+    "points": "847",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44664873"
+  },
+  {
+    "title": "Solving a Childhood Mystery: How BASIC Games Learned to Win",
+    "url": "https://sublevelgames.github.io/blogs/2025-07-20-basic-game-hexapawn/",
+    "author": "greentec",
+    "date": "2025-07-25",
+    "points": "39",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44625846"
+  },
+  {
+    "title": "The Promised LAN",
+    "url": "https://tpl.house/",
+    "author": "Bogdanp",
+    "date": "2025-07-25",
+    "points": "366",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44661682"
+  },
+  {
+    "title": "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
+    "url": "https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer",
+    "author": "",
+    "date": "2025-07-25",
+    "points": "0",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44669631"
+  },
+  {
+    "title": "US AI Action Plan",
+    "url": "https://www.ai.gov/action-plan",
+    "author": "joelburget",
+    "date": "2025-07-25",
+    "points": "370",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44660323"
+  },
+  {
+    "title": "Vanishing home field advantage in English football",
+    "url": "https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html",
+    "author": "Vermin2000",
+    "date": "2025-07-25",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44629300"
+  },
+  {
+    "title": "Vector Tiles are deployed on OpenStreetMap.org",
+    "url": "https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/",
+    "author": "ikawe",
+    "date": "2025-07-25",
+    "points": "234",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44653136"
+  },
+  {
+    "title": "Vet is a safety net for the risky curl | bash pattern",
+    "url": "https://github.com/vet-run/vet",
+    "author": "mooreds",
+    "date": "2025-07-25",
+    "points": "87",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44669998"
+  },
+  {
+    "title": "Web fingerprinting is worse than I thought (2023)",
+    "url": "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html",
+    "author": "xrayarx",
+    "date": "2025-07-25",
+    "points": "141",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44669853"
+  },
+  {
+    "title": "Wix: Introduce the Open Source Maintenance Fee",
+    "url": "https://github.com/wixtoolset/issues/issues/8974",
+    "author": "AndrewDucker",
+    "date": "2025-07-25",
+    "points": "95",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44669858"
+  },
+  {
+    "title": "Writing is thinking",
+    "url": "https://www.nature.com/articles/s44222-025-00323-4",
+    "author": "__rito__",
+    "date": "2025-07-25",
+    "points": "99",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44632314"
+  },
+  {
+    "title": "XOR_singleheader: Header-only binary fuse and XOR filter library",
+    "url": "https://github.com/FastFilter/xor_singleheader",
+    "author": "klaussilveira",
+    "date": "2025-07-25",
+    "points": "13",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44669318"
+  },
+  {
+    "title": "You can't outrun a bad diet",
+    "url": "https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition",
+    "author": "andsoitis",
+    "date": "2025-07-25",
+    "points": "60",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44670590"
+  }
+]

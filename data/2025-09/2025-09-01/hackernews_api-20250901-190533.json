@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A Crack in the Cosmos",
+    "url": "https://drb.ie/articles/a-crack-in-the-cosmos/",
+    "author": "Hooke",
+    "date": "2025-08-31",
+    "score": 98,
+    "comments": 18,
+    "id": 45080313,
+    "discussion_url": "https://news.ycombinator.com/item?id=45080313",
+    "description": "A Crack in the Cosmos",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116329"
+  },
+  {
+    "title": "A Linux version of the Procmon Sysinternals tool",
+    "url": "https://github.com/microsoft/ProcMon-for-Linux",
+    "author": "LelouBil",
+    "date": "2025-08-31",
+    "score": 155,
+    "comments": 47,
+    "id": 45087748,
+    "discussion_url": "https://news.ycombinator.com/item?id=45087748",
+    "description": "A Linux version of the Procmon Sysinternals tool",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116305"
+  },
+  {
+    "title": "A review of Nim 2: The good and bad with example code",
+    "url": "https://miguel-martin.com/blog/nim2-review",
+    "author": "miguel_martin",
+    "date": "2025-08-28",
+    "score": 176,
+    "comments": 39,
+    "id": 45057734,
+    "discussion_url": "https://news.ycombinator.com/item?id=45057734",
+    "description": "A review of Nim 2: The good and bad with example code",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116376"
+  },
+  {
+    "title": "AI enters the grant game, picking winners",
+    "url": "https://www.science.org/content/article/ai-enters-grant-game-picking-winners",
+    "author": "JeanKage",
+    "date": "2025-09-01",
+    "score": 68,
+    "comments": 38,
+    "id": 45092880,
+    "discussion_url": "https://news.ycombinator.com/item?id=45092880",
+    "description": "AI enters the grant game, picking winners",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116112"
+  },
+  {
+    "title": "Adaptive LLM routing under budget constraints",
+    "url": "https://arxiv.org/abs/2508.21141",
+    "author": "tdchaitanya",
+    "date": "2025-09-01",
+    "score": 103,
+    "comments": 27,
+    "id": 45094421,
+    "discussion_url": "https://news.ycombinator.com/item?id=45094421",
+    "description": "Adaptive LLM routing under budget constraints",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116135"
+  },
+  {
+    "title": "Bayes, Bits and Brains",
+    "url": "https://bayesbitsbrains.github.io/",
+    "author": "cgadski",
+    "date": "2025-08-28",
+    "score": 92,
+    "comments": 4,
+    "id": 45052191,
+    "discussion_url": "https://news.ycombinator.com/item?id=45052191",
+    "description": "Bayes, Bits and Brains",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116367"
+  },
+  {
+    "title": "Bear is now source-available",
+    "url": "https://herman.bearblog.dev/license/",
+    "author": "neoromantique",
+    "date": "2025-09-01",
+    "score": 166,
+    "comments": 169,
+    "id": 45092490,
+    "discussion_url": "https://news.ycombinator.com/item?id=45092490",
+    "description": "Bear is now source-available",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116209"
+  },
+  {
+    "title": "C++: Strongly Happens Before?",
+    "url": "https://nekrozqliphort.github.io/posts/happens-b4/",
+    "author": "signa11",
+    "date": "2025-08-28",
+    "score": 91,
+    "comments": 17,
+    "id": 45052960,
+    "discussion_url": "https://news.ycombinator.com/item?id=45052960",
+    "description": "C++: Strongly Happens Before?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116295"
+  },
+  {
+    "title": "Cloudflare Radar: AI Insights",
+    "url": "https://radar.cloudflare.com/ai-insights",
+    "author": "tosh",
+    "date": "2025-09-01",
+    "score": 207,
+    "comments": 70,
+    "id": 45093090,
+    "discussion_url": "https://news.ycombinator.com/item?id=45093090",
+    "description": "Cloudflare Radar: AI Insights",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116188"
+  },
+  {
+    "title": "CocoaPods trunk read-only plan",
+    "url": "https://blog.cocoapods.org/CocoaPods-Specs-Repo/",
+    "author": "matharmin",
+    "date": "2025-09-01",
+    "score": 215,
+    "comments": 83,
+    "id": 45091493,
+    "discussion_url": "https://news.ycombinator.com/item?id=45091493",
+    "description": "CocoaPods trunk read-only plan",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116128"
+  },
+  {
+    "title": "De-Googling TOTP Authenticator Codes",
+    "url": "https://imrannazar.com/articles/degoogle-otp",
+    "author": "Two9A",
+    "date": "2025-09-01",
+    "score": 82,
+    "comments": 118,
+    "id": 45091202,
+    "discussion_url": "https://news.ycombinator.com/item?id=45091202",
+    "description": "De-Googling TOTP Authenticator Codes",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116282"
+  },
+  {
+    "title": "Effective learning: Rules of formulating knowledge (1999)",
+    "url": "https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge",
+    "author": "swatson741",
+    "date": "2025-09-01",
+    "score": 63,
+    "comments": 13,
+    "id": 45093022,
+    "discussion_url": "https://news.ycombinator.com/item?id=45093022",
+    "description": "Effective learning: Rules of formulating knowledge (1999)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116219"
+  },
+  {
+    "title": "Eternal Struggle",
+    "url": "https://yoavg.github.io/eternal/",
+    "author": "yurivish",
+    "date": "2025-08-31",
+    "score": 613,
+    "comments": 126,
+    "id": 45086020,
+    "discussion_url": "https://news.ycombinator.com/item?id=45086020",
+    "description": "Eternal Struggle",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116233"
+  },
+  {
+    "title": "Google AI Overview made up an elaborate story about me",
+    "url": "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z",
+    "author": "jsheard",
+    "date": "2025-09-01",
+    "score": 380,
+    "comments": 174,
+    "id": 45092925,
+    "discussion_url": "https://news.ycombinator.com/item?id=45092925",
+    "description": "Google AI Overview made up an elaborate story about me",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116321"
+  },
+  {
+    "title": "India's billion-dollar e-waste empire",
+    "url": "https://restofworld.org/2025/india-e-waste-recycling-electronics/",
+    "author": "Brajeshwar",
+    "date": "2025-08-29",
+    "score": 71,
+    "comments": 18,
+    "id": 45061376,
+    "discussion_url": "https://news.ycombinator.com/item?id=45061376",
+    "description": "India's billion-dollar e-waste empire",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116160"
+  },
+  {
+    "title": "Lewis and Clark marked their trail with laxatives",
+    "url": "https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html",
+    "author": "toomuchtodo",
+    "date": "2025-08-31",
+    "score": 227,
+    "comments": 82,
+    "id": 45087815,
+    "discussion_url": "https://news.ycombinator.com/item?id=45087815",
+    "description": "Lewis and Clark marked their trail with laxatives",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116242"
+  },
+  {
+    "title": "Making Minecraft Spherical",
+    "url": "https://www.bowerbyte.com/posts/blocky-planet/",
+    "author": "iamwil",
+    "date": "2025-08-28",
+    "score": 423,
+    "comments": 46,
+    "id": 45055205,
+    "discussion_url": "https://news.ycombinator.com/item?id=45055205",
+    "description": "Making Minecraft Spherical",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116194"
+  },
+  {
+    "title": "Nintendo Switch 2 Dock USB-C Compatibility",
+    "url": "https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock",
+    "author": "croes",
+    "date": "2025-08-31",
+    "score": 272,
+    "comments": 165,
+    "id": 45087971,
+    "discussion_url": "https://news.ycombinator.com/item?id=45087971",
+    "description": "Nintendo Switch 2 Dock USB-C Compatibility",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116253"
+  },
+  {
+    "title": "Pong Clock",
+    "url": "https://bigjobby.com/pong/?v=2.0/",
+    "author": "donohoe",
+    "date": "2025-08-28",
+    "score": 163,
+    "comments": 28,
+    "id": 45054119,
+    "discussion_url": "https://news.ycombinator.com/item?id=45054119",
+    "description": "Pong Clock",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116301"
+  },
+  {
+    "title": "Preserving Order in Concurrent Go Apps: Three Approaches Compared",
+    "url": "https://destel.dev/blog/preserving-order-in-concurrent-go",
+    "author": "destel",
+    "date": "2025-09-01",
+    "score": 63,
+    "comments": 18,
+    "id": 45089938,
+    "discussion_url": "https://news.ycombinator.com/item?id=45089938",
+    "description": "Preserving Order in Concurrent Go Apps: Three Approaches Compared",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116155"
+  },
+  {
+    "title": "The Qweremin",
+    "url": "https://www.linusakesson.net/qweremin/index.php",
+    "author": "aebtebeten",
+    "date": "2025-08-29",
+    "score": 98,
+    "comments": 15,
+    "id": 45061702,
+    "discussion_url": "https://news.ycombinator.com/item?id=45061702",
+    "description": "The Qweremin",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116352"
+  },
+  {
+    "title": "The time picker on the iPhone's alarm app isn't circular, it's just a long list",
+    "url": "https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/",
+    "author": "oidar",
+    "date": "2025-09-01",
+    "score": 143,
+    "comments": 42,
+    "id": 45093765,
+    "discussion_url": "https://news.ycombinator.com/item?id=45093765",
+    "description": "The time picker on the iPhone's alarm app isn't circular, it's just a long list",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116412"
+  },
+  {
+    "title": "Trade in War",
+    "url": "https://news.mit.edu/2025/why-countries-trade-each-other-while-fighting-mariya-grinberg-book-0828",
+    "author": "LorenDB",
+    "date": "2025-08-28",
+    "score": 80,
+    "comments": 100,
+    "id": 45053029,
+    "discussion_url": "https://news.ycombinator.com/item?id=45053029",
+    "description": "Trade in War",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116286"
+  },
+  {
+    "title": "UK's largest battery storage facility at Tilbury substation",
+    "url": "https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation",
+    "author": "zeristor",
+    "date": "2025-09-01",
+    "score": 85,
+    "comments": 102,
+    "id": 45091119,
+    "discussion_url": "https://news.ycombinator.com/item?id=45091119",
+    "description": "UK's largest battery storage facility at Tilbury substation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116182"
+  },
+  {
+    "title": "Use One Big Server (2022)",
+    "url": "https://specbranch.com/posts/one-big-server/",
+    "author": "antov825",
+    "date": "2025-08-31",
+    "score": 312,
+    "comments": 277,
+    "id": 45085029,
+    "discussion_url": "https://news.ycombinator.com/item?id=45085029",
+    "description": "Use One Big Server (2022)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116272"
+  },
+  {
+    "title": "We should have the ability to run any code we want on hardware we own",
+    "url": "https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html",
+    "author": "K0nserv",
+    "date": "2025-08-31",
+    "score": 1643,
+    "comments": 938,
+    "id": 45087396,
+    "discussion_url": "https://news.ycombinator.com/item?id=45087396",
+    "description": "We should have the ability to run any code we want on hardware we own",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116199"
+  },
+  {
+    "title": "What Is Complexity in Chess?",
+    "url": "https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh",
+    "author": "fzliu",
+    "date": "2025-09-01",
+    "score": 86,
+    "comments": 59,
+    "id": 45089256,
+    "discussion_url": "https://news.ycombinator.com/item?id=45089256",
+    "description": "What Is Complexity in Chess?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116204"
+  },
+  {
+    "title": "What brain surgery taught me about the fragile gift of consciousness",
+    "url": "https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/",
+    "author": "NaOH",
+    "date": "2025-08-28",
+    "score": 181,
+    "comments": 104,
+    "id": 45052517,
+    "discussion_url": "https://news.ycombinator.com/item?id=45052517",
+    "description": "What brain surgery taught me about the fragile gift of consciousness",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116223"
+  },
+  {
+    "title": "What to do with C++ modules?",
+    "url": "https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html",
+    "author": "ingve",
+    "date": "2025-08-31",
+    "score": 210,
+    "comments": 215,
+    "id": 45086210,
+    "discussion_url": "https://news.ycombinator.com/item?id=45086210",
+    "description": "What to do with C++ modules?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116316"
+  },
+  {
+    "title": "“This telegram must be closely paraphrased before being communicated to anyone”",
+    "url": "https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone",
+    "author": "azeemba",
+    "date": "2025-08-31",
+    "score": 727,
+    "comments": 131,
+    "id": 45082731,
+    "discussion_url": "https://news.ycombinator.com/item?id=45082731",
+    "description": "“This telegram must be closely paraphrased before being communicated to anyone”",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-01T19:05:33.116362"
+  }
+]

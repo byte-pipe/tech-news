@@ -1,0 +1,198 @@
+---
+title: Interview With Steve Klabnik
+url: https://alexalejandre.com/programming/steve-klabnik-interview/
+site_name: lobsters
+content_file: lobsters-interview-with-steve-klabnik
+fetched_at: '2026-02-22T06:00:33.716065'
+original_url: https://alexalejandre.com/programming/steve-klabnik-interview/
+date: '2026-02-22'
+published_date: '2026-02-15T01:42:23-04:00'
+description: Alex's Blog
+tags: interview, person, vibecoding
+---
+
+Feb 2026 - Alex Alejandre
+
+Steve Klabnikwrote the Rust Book, a lovelyJujutsu tutorial, worked at Oxide and gave manyinteresting talks. We spoke a few times in the fall and around new years.
+
+How did you discover programming?
+
+I started programming when I was 7. I grew up on a beef farm. My dad, his dad and his dad were all butchers. My uncle was a programmer in the 70s and 80s and brought a computer over to show what he did. When I saw it, I knew I wouldn’t go outside anymore. Sorry dad. My little sister became the farm boy, she’s a veterinarian now.
+
+I learned BASIC, then C, C++, Java. I don’t remember not being able to program. I grew up reading slash dot (had a 5 digit id) and absorbed the culture around open source and free software. So I just ended up contributing to open source and joining a startup after college. People know me for Rust now, but I was involved in Ruby for years before that. Back then, in Rubyland, there was a guy namedWhy the Lucky Stiff, a deliberately constructed identity doing important work. When he disappeared, I wanted to keep it going. He disappeared because people revealed his private persona to the world, which he wanted to keep separate. I made the choice there.
+
+Many quite dislike their work and only want to talk about personal projects, but as a public personality does your professional and personal lives and interests totally merge together?
+
+It’s definitely a bit weird. I’ve been dating someone for about a year now and had to explain thismy being an online personthing which clarified a lot of stuff.
+
+What matters most to me is impact, I’m trying to improve the world, make things better. For me, the best way is being a relatively public person; a public persona helps push things forward. I have a joke about a secret gamer identity; my Discord is my gamer name first which I change to Steve Klabnik in technical/programming Discords. That’s most to keep from leaking my literal name into video game spaces, but if I had to maintain a public Steve and a private Steve, that’d be a little harder. So I got used to being a public person. It’s easier to get things done when your goal’s also your job, so I don’t try to maximize personal income but find things I want to do. These days I don’t have time to do a second job after my first job, whereas I used to have the time to work 80 hours around the clock. Hitting 40, I’ve been thinking about getting older…
+
+On the other hand, if I’m checking Lobsters, HN, Bluesky at night… Since I’ve often been in developer relations, like PR, if there were a crisis in the Rust community at Friday night… I’m always a bit on.
+
+How did you avoid a you-shaped hole when you left Ruby or Oxide? How do you help keep something going without you?
+
+I had the habit of picking up and maintaining other existing projects no one was working on. If someone else wanted to take over, great! But there wasn’t so much of a crisis to leave things as I left them before. Some of those projects already had replacements likeResqueandSidekiqtoo. I also felt increasingly weird maintaining Why’s stuff after he deliberately destroyed it. Worse, his projects were deeply tied into Ruby internals and deprecating APIs, making it difficult and time-consuming to maintain. This maintenance burden also informed his departure, which I came to learn first hand.
+
+I started going to Ruby conferences where people asked me to talk about things I cared about. But well, I cared about Rust and talked about it, connecting those communities together. So there was no clean break. Unless you commit info suicide on your persona like Why, which I couldn’t do. I still like the Ruby community but did deliberately decide to focus my attention away; I haven’t written Ruby in a long time.
+
+For Oxide, I said I was quitting and asked to discuss a transition plan. I started pair programming every day to onboard someone to the project I was working on by myself. It took about 6 weeks to hand everything over.
+
+Matklad has anarticleabout what open source projects need. You also have a fewalong these lines. What advice do you have for a newer community which wants to build these things up and stay maintained long term?
+
+A big thing I did in Rust and want JJ to follow is open source is an act of creation. You want something to exist, so you build it. That need for creation’s often born out of unhappiness with how things exist today. I used to teach programming as a job and tell people if the program existed bug-free, you wouldn’t be programming. It’s the act of moving things from a state you don’t like to one you do. When writing code, you’re creating features which don’t exist or fixing problems which do. It’s easy and tempting for projects to fixate on the criticism they create by existing, but this is unhealthy. As an example, Rails was focused on Java sucking, but when you fixate on someone else sucking, you’re not focused on improving your own stuff and rot. And what happens if you win? You lack a positive narrative to keep growing and eat yourself alive if you can’t find another enemy. Well, it turns out JavaScript’s not actually that bad and Rails missed the boat on JavaScript-heavy applications. Rails didn’t fail into irrelevance, but did lose cultural dominance.
+
+So the Rust world focused on not saying Rust is great because C++ is terrible. There is criticism, but the project can’t be about that. It’s bad on a personal and a strategic level. Hating on others makes you a bad person. Instead, you have to focus on excited people building and creating. In the jj community, we should be “git is fine, we just like jj better” not “git sucks, jj is good”. This is important and healthier for a community long term.
+
+I haven’t been involved in Rust for about 3 years, but before there was a clear perspective that we were building a community, which meant we needed to bring people into the community. There’s a funnel from all the people who hear the name “Rust”, then who click on Rustlings, then who make a contribution…
+
+How do you manage projects and communities in open source?
+
+With open source, you can’t compel people to do certain things. Well, programmers are prima donnas in a few ways, so even as employees you can’t force them to do anything or they’ll push back. So you need the soft skills to sell the vision and convince people to help. Building consensus is always a nice thing. People will follow good examples, but also bad ones. If leadership encourages a brash, off-the-cuff communication style, they will attract and retain similar people. If leadership is more measured, they’ll accumulate a community of measured people.
+
+If I find words or styles of communication which resonates, I’ll see community members replicate those same arguments. There’s a classic book “High Output Management” by the Intel guy from the 90s, whose whole thing was that a CEO’s job is purely cultural transmission to others because that’s the only way you can affect change at scale. A CEO can’t just stand on the assembly line and do everyone else’s job better at the same time, after all. When managing, you reproduce the culture you want to see and it either works or it doesn’t! It’s a second order way of working, not doing it yourself but creating the environment where the work is done.
+
+Especially the higher you go, e.g. what distro is integrating what systems is all intraproject management and intracommunity coordination, 100% soft skills, because you’re not even in the project you’re managing. As an example, Ubuntu is currently integrating the Rust baseduutil, but can’t force them to do anything. Ubuntu’s communication must be like “hey, we want this in order to make that happen, are you interested in it?” Then the uutil people hopefully say “yes, we will take your advice and do this, because this is a shared goal.”
+
+How do you approach course design, textbook writing?
+
+TheRust Bookwas me making a 50 pg. tutorial called Rust for Rubyists in 2013, which I then rewrote into 175ish pages. Later I got Carol in as my coauthor and we wrote what’s now on the site. Thejj tutorialis 100% me besides the Gerrit chapter.
+
+For all of these, I write down what I’m learning in the order I learn because writing helps me understand. There’s no better way to know what a new person needs than by being new yourself. The problem’s that not everyone is you, so you have to go beyond. The trick with the Rust Book’s that it has extra constraints from being official e.g. not using many external packages lest it bias the ecosystem. Normally writing Rust involves many third party libraries, which you don’t do in the course at all. I also felt the need to include all language features because it was going to be the primary way for people to learn.
+
+For the final version, I wrote down a ton of concepts I knew and went through the reference writing down more features to cover. I wrote them on note cards and started arranging them into a concept map. You need to know x before you learn y. The difficulty’s all the dependencies especially early on. Guy Steele showed how togrow a language. To learn Rust, you have to build the smallest possible “kernel” to bootstrap your understanding on, growing the language one piece at a time. This meant putting ownership and borrowing as soon as reasonable, because it was the newest thing really impacting people. After functions, variables, loops and borrowing, readers have a base to understand the rest.
+
+In the 2nd version of the jj tutorial, I’m focusing more heavily on workflows. People want to know what they can actually do with something more than what it is. Especially experienced programmers are willing to hand-wave things although they claim to want the details. They just want to get things done, at first.
+
+Those are the two major design philosophies for a book-length tutorial, start building from small parts or just run with it, explaining as you go. With jj, most people just want to get things done; there aren’t many version control fanatics.
+
+How do you yourself learn?
+
+I read existing documentation then try to do stuff, mess around. When learning a programming language, I try to implement a text adventure game going back to the first thing I ever did on a computer at my grandma’s house playing theCollosal Cave Adventure. I’ve always loved text adventures. You get a little bit of I/O, data management, loops and stuff, enough to get a feel for writing something real. The one I wrote in Rust just had nine rooms, but that’s enough to really get going. But you can’t write a game in jj. I just had to use it, run into problems and ask for help.
+
+How do you think about languages, APIs and design?
+
+Simon Peyton Jones’ “avoid success at any cost” motto for Haskell is really interesting, with multiple interpretations. The most important thing is build the thing you want to build. You have deliberately decide your priorities and what you care about. Oxide’s really big on values. Figure out what’s most important then put them in an order. Rust cares about safety, performance, correctness in that order. On a different axis, Rust always wanted to be used by many people, so choices leading to broad industry adoption were important to us.
+
+I have an article about thelanguage strangeness budgetwhere you can only be weird about so many things before no one uses your thing anymore. You have to be deliberate and careful about where you innovate. Now, this advice only matters if aiming for broad adoption, but the key is making that deliberate choice. If you just want something fun for yourself, great! But you’re making the compromise of it only being for yourself. Designing is inherently about making tough choices. Be aware and deliberate. Design requires taste and taste requires broad exposure and experience. If you don’t realize there’s a choice because you don’t have enough context to know what your options are, you will do things accidentally, not deliberately.
+
+If you could reinvent/change any aspect of Rust, what would you do alternatively?
+
+A lot happened because we wanted to ship a useful thing with only so much time in the day, so some things were less deliberate than others. There’s an alternate version of Rust with significantly faster compiler times, because while we cared about compile times when designing we always prioritized other values more. We never asked ourselves how this feature or implementation impacted compiler analysis time and there are several spots where something slightly different would have much faster compiler times, which people do care about. But had we spent time on that, we would have neglected other things and not been any more successful. I think whatever language eventually succeeds Rust will be much faster to compile and borrow checking will never be the big time sink when compiling.
+
+Rue’s readme says it’s mostly a way of working on different compiler optimizations. Which of those have been most interesting?
+
+Honestly, Rue’s only public because GitHub charges for actions when your repo is private and I’m addicted to CI. Now, I love compilers and organized my college classes to get to compilers first but never worked on the Rust compiler, that just wasn’t the best way to utilize my skills. So I wanted to mess around with compilers.
+
+Conceptually, I understood single static assignment with block params vs. fine nodes from reading papers, but never actually seriously looked at implementation code. Partly, I just want some code I can look at and mess around with without responsibilities. There’s a big difference between intellectually understanding something and actually writing code for it. I knew about React’s architecture for like years before I wrote a line of React - my understanding only grew when I actually coded and experimented with it.
+
+I’ve only been working on it for a few months, but I have a small effectively useless language (without strings). My goal is building out a full production compiler pipeline for this tiny, useless language because most people make languages useful then try to refactor the compiler; I’m doing the opposite. What if I grew the compiler wide and the language very short? While I don’t have strings, I have 7 different layers of IR and will probably reach full incremental compilation before adding strings. That’s just what I care about building.
+
+It took Rust like 2 years to implementMIRbecause there was a whole production programming language, but it took me a few hours because no one uses it and there are no features. Implementing compiler internals is easier without surface features! I do have some language design features, but I’ll only work on that when the compiler’s ready. I only want to add features required to improve the compiler.
+
+Hey, a few months have passed since we last spoke!
+
+It’s interesting how some of my thoughts have changed! I recently spent more time with Rue and came to appreciate Zig more, for example.
+
+A lot of Rust’s complexity comes from wanting to be as low level and fast as C. In Rue, what if we don’t make decisions based on those values? I assume Rue will have a runtime etc. Higher than Rust but lower than Go. It builds on some of Swift and Hylo’s mutable value semantics. If you don’t have references as a language construct, you can get rid of lifetimes! If you don’t put references in structs nor return references, you don’t need lifetimes and the borrow checker goes away! You lose a little efficiency, but oh well.
+
+Rust has affine types, but I think linear types are also neat. Linear types and borrowing’s also weird…
+
+There’s an issue of expressed and acted values too. The Rust team cares about compiler performance, has people working on it etc. We did care about this, but no enough to require RFCs to analyze compiler impacts and reject things for compiler overhead. I don’t mean to criticize - I was there and involved too. (I still think the compiler will get faster, and maybe it’d be better from scratch but some features put a ceiling on it.)
+
+With Rue, how close can I get to Rust while caring about compiler performance? Recently, I’ve come to appreciate Zig a lot more for its decisions. Concretely, macros can introduce new items, so you have to expand all macros before type checking a Rust program. At least one of the Rust analyzer devs said they’d remove the ability of macros introducing items. Heavily relying onmonomorphizationimpacts compile time significantly, because you generate a lot of similar code then expect LLVM to filter it out. In Rust, conditional compilation is based on attribution. Zig made me uncomfortable in the past; dead code elimination finds things that aren’t used and eliminates them, making the binary smaller. But you can also view that as a failure; any code generated but thrown away means you did work producing it before dumping it. Rust programs often generate a lot of code which it eventually dumps later. Zig just doesn’t compile or process things if you know it won’t occur! This had made me uncomfortable if e.g. had errors in some other branch e.g. compiling for Linux while the Windows config is fundamentally broken.
+
+How did you approach building a system of values and getting buy-in for people?
+
+I am kind of old school. A lot of it flows top-down; you can’t have an outsider show up and impose values on a community. They have to come from some legitimate source in the community itself. Expressing values requires action too. People will notice if you say one thing and do another. On some level,what leadership doescreates the actual values. It’s tricky in general, because even rational adults find it hard to always act in accordance with their values.
+
+How’d you decide which your values would be then?
+
+I joked that my parents’ biggest mistake was telling me to do what I thought was right, which caused a lot of friction when we disagreed! I have changed a lot as a person over the course of my life. I’d like to think that things happened which I took under consideration and made changes after. It often happens in software development communities that you find yourself among people you don’t want to be like. You have to ask whether you’re the kind of person you want to be, and make changes to align yourself. Earlier in my career, I loved talking shit on languages, tools and communities I thought were bad - but then I realized who I was becoming and made serious changes.
+
+How do you approach programming? What’s unusual about your methods?
+
+My weirdest thing is not customizing my software. I don’t set color schemes. I don’t have a dot-files repo. A long time ago, teaching programming as a job, I helped people with their setups and wanted to understand the default user experience; I didn’t want to recommend a program I only liked because I had 45 extensions… I didn’t want to get out of touch. I don’t use an ad-blocker.
+
+A hater once wrote that my Rust code seemed simpler and more straight forward, which I thought was a very nice thing for a hater to say! I tend not to write macros at all. I also avoid fancy advanced type system tricks. Although Rust has the reputation of a complicated, big language, you don’t have to use it that way. I’m actually pretty tolerant of boilerplate these days.
+
+Handing off a project at Oxide, I mentioned some packages would reduce duplicates and boilerplate, but seeing the struct fields copied from one struct to another is more straightforward than some macro automatically doing it besides this one exception where….
+
+I can’t get over no ad-block.
+
+A lot of pages have terrible intrusive ads, which guide my behavior to stay away from them.
+
+My relationship with privacy has also changed. I used to think tracking me was offensive and upsetting, but now I live such a public life with hundreds of hours of talks on youtube, where ads are the least of my worries.
+
+Oxide rewrites basically everything. How’d you make sure you were actually writing better fitting replacements?
+
+In other organizations, there’s constantly a low-key conflict between programmers and management about what we spend time on. People often slip refactoring in before shipping the ticket, because they’ll never get permission to refactor after closing the ticket.
+
+Oxide looks at what exits, what it needs and figures out whether they should build it or use something. Culturally, a lot of programmers readJoel Spolsky25 years ago. Oxide is like if that article had never been written and people would rewrite when useful.
+
+It comes down to what’s fit for purpose. Software’s often an 80% fit. Do you just live with that other 20%? Perhaps some people can live with a bigger misfit than others. This does slow down when we ship, but quality emerges from really working on this ourselves. That’s an intangible but important benefit. We had more willingness to experiment and try than other places, which paid off.
+
+Oxide’s leadership really cares about knowing your tools well. So if a tool doesn’t yet exist, it’s fine to make that tool for future productivity benefits. We wrote our own debugger for our own embedded real time operating system, which paid off when we had to debug firmware issues. Brian et al. had seen this approach work out in the past, so the whole organization buys in too. Oxide’s the only company to rewrite AMD’s CPU firmware. They didn’t believe us until it happened.
+
+How deeply did you dive into less popular programming paradigms?
+
+I used to joke that I didn’t do LSD in college but did Haskell instead; not sure which is more harmful! I used to experiment a lot. Earlier in my career, I cared a lot about programming for its own sake and now I care more about what I can do with programs. High level languages seem to have an inherent low end of where they can go. (I know this isn’t directly true, you can write an OS in Lisp.) I care less about “everything is a…” type languages. “Everything is an object” is like a Beatles cover band, it’s not a novel thing because we already explored that space but the interesting developments aren’t there. The vitalization of lower level languages is some cyclical effect after spending a lot of energy on higher level languages.
+
+I do findUnisoncool. There’s definitely room for alternative paradigms, but I want to see them prove themselves before investing a lot of time in it. Time’s precious. I think I experienced enough with most of that stuff. There are some unexplored avenues like effect systems though.
+
+How do you manage and prioritize your time?
+
+It’s hard and changed a lot for me this past year. I’m now in a serious relationship with someone who has kids, adding constraints I didn’t previously have. A year ago, I could do whatever whenever, but now I care about people and have obligations to them.
+
+But when I feel I want to do the thing, I just do the thing as hard as possible. For example, I started working on Rue in August, got busy in September and set it down until the end of December when I spent a few frantic weeks on it. Claude and I shipped 100 commits on Christmas day! I wait for inspiration to spark then push on it as hard as I can.
+
+I have time blocks, spend time with work, spend time with my girlfriend, spend time on me, and within those I just do whatever I feel.
+
+How do you structure commits?
+
+I’m a big believer in CI and use it on PRs, even on personal projects. I don’t push to main myself, either. Well, I use trunk. I care more about whether CI passes than perfectly crafting the exact commit I want. Committing to use PRs for everything, looking over the diff for 10k lines sucks on GitHub. So I tend towards very small changes. Ideally under 1000-line diffs. I once had a client where the CEO would disappear for a few months, then appear and commit something to master, so the rest of the company would frantically try to rebase all their work on top of everything. The original principles of CI matter a lot. I prefer high velocity of a small number of commits, rather than big perfect ones. Sometimes this means shipping duplication to master, then cleaning it up in a later PR, because keeping things factored while adding a new feature might suck. I trust my tests, keep my cycles quick and keep things small. Sometimes that even means feature flags; I’ll ship broken features behind flags which won’t get shown in production, and remove the flag when the feature’s done, rather than work on a branch for a long time and eventually ship it in the end. At least, these processes work better for me.
+
+I’d rather have more small things than fewer larger things.
+
+What about version control inspired you enough to leave Oxide?
+
+I always loved git. I was early on it. I really hated howCVSworked (i.e. the above story.) Distributed version control just seemed straight up better to me. Code matters, but this is the software we entrust all our work output to. If git deleted all our repos tomorrow, it’d be a problem but not so bad because distributed, because backups, while your CVS repo going down would ruin you.
+
+You’re the sum of all the people you spend time with. That’s true of tools, too. We spend hours and hours with version control, if that tool can get better, it’ll help a lot of people. I got involved with Rails, because I realized I could help every single webapp at once. I got involved with Ruby to help an even bigger set of people. I got involved with Rust, because making the OS better helps everyone! Moving down the stack gives you higher leverage to help more people and DVCS is quite low; there are few things you can do to make JavaScript, C and Rust developer’s lives better at the same time.
+
+I like doing high leverage things. Working on version control is interesting to me because it can help a lot of people. I also really just like jj.
+
+But another thing: I never worked at a FAANG, but they’ve all converged on some things different from the rest of our industry, like monorepos. At some scale, they just move to monorepos for rational reasons (which aren’t important right now.) This implies a lot of other things: path dependence and unexpected technology choices and unique systems. They have their own version control systems, often based on Mercurial for interesting historical reasons.
+
+In the past, rich people had access to things other people didn’t. But today, there’s no better Coca-Cola than Coca-Cola. Elon and me drink the same cola! Software’s largely like this too. But FAANG companies have these entire stacks not available to the rest of us. If I wanted to use a monorepo and use Piper, that’s just not an option; it’s internal to Google, tied to their individual infrastructure… So I think there’s some sort of Prometheus play around stealing the fire from the gods.
+
+I’ve been toying with my own personal monorepo for all projects. You know what sucks? Setting up integrations, IDEs etc. every time I start a new project! I’m very monorepo brained. I’m interested in tools like jj which show that world to the rest of us.
+
+What are the benefits of a monorepo?
+
+If I want CI to pass, my commits are limited. If it takes an hour for my CI to run, I get 24 commits a day and that’s it. To scale up, you need to start to think about whether literally every test should run on every commit: No. How do you determine which tests to run? How do I share dependencies across projects? How do I integrate build systems with all the projects? There are a lot of big topics. But then it’s quick to start a new project. It removes coordination costs. At Oxide, every team can use any tools they want. So some teams run on Gerrit, others on GitHub etc. which is cool but moving teams means relearning a new stack. On the flip side, a monorepo’s homogeneity means you don’t have to learn something new to work on another part of the code base. But now the monorepo’s huge. Making everyone download the whole repo kind of sucks. Trade offs. At scale, different trade offs make more sense. These tools also assume scale. Cargo doesn’t scale up to a Google sized monorepo. Buck, Blaze or Bazel are built for monorepos, annoying to use on small scales. I feel like there’s a smoother transition somewhere with more powerful tools.
+
+How did you become “AI-pilled?”
+
+A year ago, I would have said these tools were BS and didn’t matter. I try to be an informed hater though and realized I hadn’t tried them in a while. I never liked autocomplete, so the first generation of “spicy autocomplete” did nothing for me. But agents are a fundamentally different way of working. Claude and ChatGPT also started writing ok Rust code.
+
+I had a rough 2024. In 2025, I did a lot of soul searching and considered the implications of these new tools, what my actual opinions about software development were etc. And I don’t know man, I barely wrote any code last year. I don’t know if I’m going to write any code this year personally, by hand, like at all. I started programming at 7. This might be the first year I don’t code since then. It’suncomfortable and strange.
+
+I hate the whole “if you don’t learn this stuff, you’ll fall behind” rhetoric from AI people. When Rails came out, everyone loved and flocked to it. But you know what? Not everyone actually did, only a small vocal minority. The people who didn’t learn Rails weren’t left behind. They didn’t lose their career for not jumping on the hottest trend. It’s reasonable and rational to not care. But I enjoy them. They are tools which require skill. People are willing to acknowledge that vim is useful, even if they use Emacs. I see AI tooling like vim. You have to approach it like a scientist or an engineer. You can’t just say “build me a Google clone”. Using them in an engineering-science-y way to produce good results takes different kinds of skills than directly writing code yourself. I used to care a lot about being one with the code; some of my best memories are spending a weekend solving a bug in college. But these days that just means I spent my whole weekend being frustrated and didn’t get anything done!
+
+I’ve been meaning to write abouthow to approach this, but it takes so much heat from people online… Some of my friends are vehement anti-AI people which has made our friendship awkward, which sucks, because I like my friends. I also talk about this less on e.g. Lobsters than I normally would. I just do it in private channels to avoid the shit. But I should be more open about it, it can help people.
+
+People have been complaining about AI-driven PR spam.
+
+My work in open source predisposed me to be ok with AI here. There have always been crap PRs by people who don’t know what they’re doing. That’s the normal state of things for open source! You just get a bunch of junk from people you don’t know. Some might be great, don’t get me wrong. You need to have processes in place to make sure a PR is good before merging and that’s true no matter who authors the code.
+
+How do you use it?
+
+I’ll briefly go into how these tools work. I’ll assume you’re using Claude here. You send a request to the model. What’s in the request? The tool author’s system prompt, the prompt you typed in, then a bag of context (e.g. the conversation history). You can tweak all these parameters. Sometimes the correct approach is throwing the system prompt away and writing your own (using an API). People were obsessed with prompt engineering for a while - thinking prompts were the primary lever. But the context window is the biggest percentage of input. So recently people have been talking about context engineering. When the context window fills up, LLM performance goes down. You can make worse prompts if you do a better job context engineering.
+
+We used to argue about horizontal vs. vertical slicing for apps, DB, framework, application, view layers vs. feature folders. From a context perspective, a folder per feature is easier for an agent or a person to figure out what’s needed (assuming you separated your feature out). How do you ensure the context window only has what’s relevant to the goal?
+
+In Rue, I have these architecture decision records (ADR) describing a design and its rationale. I’ll tell Claude to read ADR 1 and 5 and then mention I want to modify the type system. It’s like tickets, you want a ticket with a minimum reproduction. I don’t think these are new things, rather we’ve been collectively paying these practices lip service, and those who actually follow them will do better with these tools. A well-structured codebase means both a human and an agent will have a better time; it’s just easier to notice an agent flailing around than realize a developer taking 3 weeks to ship a fix is the same symptom.
+
+LLMs are like an average user, which is a nice feedback mechanism too. In the first iteration of Rue, Claude was trying to dump the assembly for a program it was debugging. It kept passing-Swhich wasn’t implemented instead of--emit-asm-which I thought was nicer. But it turns out-Sis a standard flag across compilers, assuming it exists is a good assumption. So I implemented that as an LLM to stop it from flailing around. There’s value in watching what an LLM assumes. It will give reasonable attempts or answers, because it’s seen everything. If you can make something easy enough for Claude to understand, it might be a good model.
+
+Since we spoke, he has publisheda few articlesabout coding with LLMs.

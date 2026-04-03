@@ -1,0 +1,18 @@
+# User preferences for digest filtering and display.
+# Edit this file to customize your daily digest.
+
+blocklist:
+  # Articles matching these keywords (case-insensitive) are excluded
+  keywords: []      # e.g. ["cryptocurrency", "NFT"]
+  # Articles from these domains are excluded
+  domains: []       # e.g. ["medium.com"]
+
+# Minimum score thresholds (articles below these are excluded)
+min_score:
+  hackernews: 50
+  github_stars: 100
+
+# Digest display settings
+digest:
+  max_stories_per_section: 8
+  show_notable_mentions: true

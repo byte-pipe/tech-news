@@ -1,0 +1,512 @@
+[
+  {
+    "title": "Anticheat Update Tracking",
+    "url": "https://not-matthias.github.io/posts/anticheat-update-tracking/",
+    "author": "not-matthias",
+    "date": "2025-06-30",
+    "score": 67,
+    "comments": 22,
+    "id": 44416421,
+    "discussion_url": "https://news.ycombinator.com/item?id=44416421",
+    "description": "Anticheat Update Tracking",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818096"
+  },
+  {
+    "title": "Bloom Filters by Example",
+    "url": "https://llimllib.github.io/bloomfilter-tutorial/",
+    "author": "ibobev",
+    "date": "2025-06-29",
+    "score": 219,
+    "comments": 34,
+    "id": 44412370,
+    "discussion_url": "https://news.ycombinator.com/item?id=44412370",
+    "description": "Bloom Filters by Example",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818196"
+  },
+  {
+    "title": "Brad Woods Digital Garden",
+    "url": "https://garden.bradwoods.io",
+    "author": "samuel246",
+    "date": "2025-06-27",
+    "score": 67,
+    "comments": 4,
+    "id": 44393920,
+    "discussion_url": "https://news.ycombinator.com/item?id=44393920",
+    "description": "Brad Woods Digital Garden",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818216"
+  },
+  {
+    "title": "Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)",
+    "url": "https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security",
+    "author": "transpute",
+    "date": "2025-06-30",
+    "score": 97,
+    "comments": 44,
+    "id": 44416761,
+    "discussion_url": "https://news.ycombinator.com/item?id=44416761",
+    "description": "Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818070"
+  },
+  {
+    "title": "Error handling in Rust",
+    "url": "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html",
+    "author": "emschwartz",
+    "date": "2025-06-30",
+    "score": 140,
+    "comments": 124,
+    "id": 44416157,
+    "discussion_url": "https://news.ycombinator.com/item?id=44416157",
+    "description": "Error handling in Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818179"
+  },
+  {
+    "title": "Event – Fast, In-Process Event Dispatcher",
+    "url": "https://github.com/kelindar/event",
+    "author": "kelindar",
+    "date": "2025-06-30",
+    "score": 150,
+    "comments": 32,
+    "id": 44413809,
+    "discussion_url": "https://news.ycombinator.com/item?id=44413809",
+    "description": "Event – Fast, In-Process Event Dispatcher",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818092"
+  },
+  {
+    "title": "Finding a former Australian prime minister’s passport number on Instagram (2020)",
+    "url": "https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/",
+    "author": "guiambros",
+    "date": "2025-06-30",
+    "score": 137,
+    "comments": 55,
+    "id": 44417091,
+    "discussion_url": "https://news.ycombinator.com/item?id=44417091",
+    "description": "Finding a former Australian prime minister’s passport number on Instagram (2020)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818137"
+  },
+  {
+    "title": "Gridfinity: The modular, open-source grid storage system",
+    "url": "https://gridfinity.xyz/",
+    "author": "nateb2022",
+    "date": "2025-06-30",
+    "score": 189,
+    "comments": 74,
+    "id": 44419091,
+    "discussion_url": "https://news.ycombinator.com/item?id=44419091",
+    "description": "Gridfinity: The modular, open-source grid storage system",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818013"
+  },
+  {
+    "title": "I made my VM think it has a CPU fan",
+    "url": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
+    "author": "todsacerdoti",
+    "date": "2025-06-29",
+    "score": 563,
+    "comments": 137,
+    "id": 44413185,
+    "discussion_url": "https://news.ycombinator.com/item?id=44413185",
+    "description": "I made my VM think it has a CPU fan",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818034"
+  },
+  {
+    "title": "Implementing fast TCP fingerprinting with eBPF",
+    "url": "https://halb.it/posts/ebpf-fingerprinting-1/",
+    "author": "halb",
+    "date": "2025-06-29",
+    "score": 88,
+    "comments": 38,
+    "id": 44412080,
+    "discussion_url": "https://news.ycombinator.com/item?id=44412080",
+    "description": "Implementing fast TCP fingerprinting with eBPF",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818200"
+  },
+  {
+    "title": "Improving River Simulation",
+    "url": "https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html",
+    "author": "Hooke",
+    "date": "2025-06-26",
+    "score": 77,
+    "comments": 1,
+    "id": 44382419,
+    "discussion_url": "https://news.ycombinator.com/item?id=44382419",
+    "description": "Improving River Simulation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818224"
+  },
+  {
+    "title": "Is being bilingual good for your brain?",
+    "url": "https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain",
+    "author": "Anon84",
+    "date": "2025-06-29",
+    "score": 148,
+    "comments": 165,
+    "id": 44406140,
+    "discussion_url": "https://news.ycombinator.com/item?id=44406140",
+    "description": "Is being bilingual good for your brain?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818264"
+  },
+  {
+    "title": "LetsEncrypt – Expiration Notification Service Has Ended",
+    "url": "https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/",
+    "author": "zdw",
+    "date": "2025-06-30",
+    "score": 131,
+    "comments": 84,
+    "id": 44419496,
+    "discussion_url": "https://news.ycombinator.com/item?id=44419496",
+    "description": "LetsEncrypt – Expiration Notification Service Has Ended",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818100"
+  },
+  {
+    "title": "MCP: An (Accidentally) Universal Plugin System",
+    "url": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
+    "author": "Stwerner",
+    "date": "2025-06-29",
+    "score": 765,
+    "comments": 339,
+    "id": 44404905,
+    "discussion_url": "https://news.ycombinator.com/item?id=44404905",
+    "description": "MCP: An (Accidentally) Universal Plugin System",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818220"
+  },
+  {
+    "title": "Many ransomware strains will abort if they detect a Russian keyboard installed (2021)",
+    "url": "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/",
+    "author": "air7",
+    "date": "2025-06-30",
+    "score": 309,
+    "comments": 173,
+    "id": 44415233,
+    "discussion_url": "https://news.ycombinator.com/item?id=44415233",
+    "description": "Many ransomware strains will abort if they detect a Russian keyboard installed (2021)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818112"
+  },
+  {
+    "title": "Microsoft is moving antivirus providers out of the Windows kernel",
+    "url": "https://www.theverge.com/news/692637/microsoft-windows-kernel-antivirus-changes",
+    "author": "mrcsharp",
+    "date": "2025-06-27",
+    "score": 81,
+    "comments": 38,
+    "id": 44392948,
+    "discussion_url": "https://news.ycombinator.com/item?id=44392948",
+    "description": "Microsoft is moving antivirus providers out of the Windows kernel",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818204"
+  },
+  {
+    "title": "Nearly 20% of cancer drugs defective in four African nations",
+    "url": "https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221",
+    "author": "woldemariam",
+    "date": "2025-06-30",
+    "score": 135,
+    "comments": 69,
+    "id": 44417549,
+    "discussion_url": "https://news.ycombinator.com/item?id=44417549",
+    "description": "Nearly 20% of cancer drugs defective in four African nations",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818141"
+  },
+  {
+    "title": "Personal care products disrupt the human oxidation field",
+    "url": "https://www.science.org/doi/10.1126/sciadv.ads7908",
+    "author": "XzetaU8",
+    "date": "2025-06-30",
+    "score": 194,
+    "comments": 139,
+    "id": 44414719,
+    "discussion_url": "https://news.ycombinator.com/item?id=44414719",
+    "description": "Personal care products disrupt the human oxidation field",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818256"
+  },
+  {
+    "title": "Revisiting Knuth's \"Premature Optimization\" Paper",
+    "url": "https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/",
+    "author": "signa11",
+    "date": "2025-06-26",
+    "score": 140,
+    "comments": 75,
+    "id": 44386236,
+    "discussion_url": "https://news.ycombinator.com/item?id=44386236",
+    "description": "Revisiting Knuth's \"Premature Optimization\" Paper",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818066"
+  },
+  {
+    "title": "Sequence and first differences together list all positive numbers exactly once",
+    "url": "https://oeis.org/A005228",
+    "author": "andersource",
+    "date": "2025-06-25",
+    "score": 78,
+    "comments": 28,
+    "id": 44375075,
+    "discussion_url": "https://news.ycombinator.com/item?id=44375075",
+    "description": "Sequence and first differences together list all positive numbers exactly once",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818208"
+  },
+  {
+    "title": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
+    "url": "https://github.com/octelium/octelium",
+    "author": "geoctl",
+    "date": "2025-06-29",
+    "score": 319,
+    "comments": 136,
+    "id": 44412207,
+    "discussion_url": "https://news.ycombinator.com/item?id=44412207",
+    "description": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818175"
+  },
+  {
+    "title": "The $25k car is going extinct?",
+    "url": "https://media.hubspot.com/why-the-25000-car-is-going-extinct",
+    "author": "pseudolus",
+    "date": "2025-06-30",
+    "score": 205,
+    "comments": 502,
+    "id": 44414115,
+    "discussion_url": "https://news.ycombinator.com/item?id=44414115",
+    "description": "The $25k car is going extinct?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818056"
+  },
+  {
+    "title": "The Book of Shaders (2015)",
+    "url": "https://thebookofshaders.com/",
+    "author": "max_",
+    "date": "2025-06-27",
+    "score": 159,
+    "comments": 22,
+    "id": 44389622,
+    "discussion_url": "https://news.ycombinator.com/item?id=44389622",
+    "description": "The Book of Shaders (2015)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818121"
+  },
+  {
+    "title": "The Medley Interlisp Project: Reviving a Historical Software System [pdf]",
+    "url": "https://interlisp.org/documentation/young-ccece2025.pdf",
+    "author": "pamoroso",
+    "date": "2025-06-30",
+    "score": 100,
+    "comments": 11,
+    "id": 44413574,
+    "discussion_url": "https://news.ycombinator.com/item?id=44413574",
+    "description": "The Medley Interlisp Project: Reviving a Historical Software System [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818117"
+  },
+  {
+    "title": "Touching the back wall of the Apple store",
+    "url": "https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/",
+    "author": "nivethan",
+    "date": "2025-06-27",
+    "score": 194,
+    "comments": 154,
+    "id": 44393307,
+    "discussion_url": "https://news.ycombinator.com/item?id=44393307",
+    "description": "Touching the back wall of the Apple store",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818108"
+  },
+  {
+    "title": "Using the Internet without IPv4 connectivity",
+    "url": "https://jamesmcm.github.io/blog/no-ipv4/",
+    "author": "jmillikin",
+    "date": "2025-06-29",
+    "score": 270,
+    "comments": 117,
+    "id": 44411273,
+    "discussion_url": "https://news.ycombinator.com/item?id=44411273",
+    "description": "Using the Internet without IPv4 connectivity",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818212"
+  },
+  {
+    "title": "Want to meet people, try charging them for it?",
+    "url": "https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html",
+    "author": "ArneVogel",
+    "date": "2025-06-30",
+    "score": 106,
+    "comments": 53,
+    "id": 44419986,
+    "discussion_url": "https://news.ycombinator.com/item?id=44419986",
+    "description": "Want to meet people, try charging them for it?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818083"
+  },
+  {
+    "title": "We accidentally solved robotics by watching 1M hours of YouTube",
+    "url": "https://ksagar.bearblog.dev/vjepa/",
+    "author": "alexcos",
+    "date": "2025-06-30",
+    "score": 180,
+    "comments": 128,
+    "id": 44414171,
+    "discussion_url": "https://news.ycombinator.com/item?id=44414171",
+    "description": "We accidentally solved robotics by watching 1M hours of YouTube",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818188"
+  },
+  {
+    "title": "What LLMs Know About Their Users",
+    "url": "https://www.schneier.com/",
+    "author": "voxleone",
+    "date": "2025-06-26",
+    "score": 81,
+    "comments": 33,
+    "id": 44380655,
+    "discussion_url": "https://news.ycombinator.com/item?id=44380655",
+    "description": "What LLMs Know About Their Users",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818244"
+  },
+  {
+    "title": "Why Go Rocks for Building a Lua Interpreter",
+    "url": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
+    "author": "Bogdanp",
+    "date": "2025-06-26",
+    "score": 84,
+    "comments": 44,
+    "id": 44384425,
+    "discussion_url": "https://news.ycombinator.com/item?id=44384425",
+    "description": "Why Go Rocks for Building a Lua Interpreter",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-30T22:08:12.818260"
+  }
+]

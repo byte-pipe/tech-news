@@ -1,0 +1,252 @@
+[
+  {
+    "title": "\"Bypassing\" specialization in Rust or How I Learned to Stop Worrying and Love Function Pointers",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://oakchris1955.eu/posts/bypassing_specialization/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "A Rust shaped hole",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://mnvr.in/rust",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Active-active Replication Extension for PostgreSQL by AWS",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://github.com/aws/pgactive",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Artisanal Handcrafted Git Repositories",
+    "author": "",
+    "score": "68",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://drew.silcock.dev/blog/artisanal-git/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Blender HDR and the reference white issue",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "graphics",
+    "url": "https://blog.sebastianwick.net/posts/blender-hdr-reference-white/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Bundler v2.7: last release before Bundler 4",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "release, ruby",
+    "url": "https://bundler.io/blog/2025/07/17/bundler-v2-7.html",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "C++ Trailing Return Types (2022)",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "c++",
+    "url": "https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Defeating Dependency Duplication in Tests?",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "ask, practices",
+    "url": "https://lobste.rs/s/vpzlcr/defeating_dependency_duplication_tests",
+    "date": "2025-07-17",
+    "description": "☶"
+  },
+  {
+    "title": "Firefox Security & Privacy newsletter 2025 Q2",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "browsers, release, security",
+    "url": "https://attackanddefense.dev/2025/07/17/firefox-security-privacy-newsletter-2025-q2.html",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "browsers, hardware",
+    "url": "https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Hackers exploit a blind spot by hiding malware inside DNS records",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "How I Became the First Linux User in India",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "historical, linux",
+    "url": "https://medium.com/@vishalmisra/how-i-became-the-first-linux-user-in-india-b86be9d2a6c5",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "I was wrong about robots.txt",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "I'm unsatisfied with easing functions",
+    "author": "",
+    "score": "37",
+    "comments": "0",
+    "tags": "design, javascript, visualization, web",
+    "url": "https://www.davepagurek.com/blog/easing-functions/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Parsing Protobuf Like Never Before",
+    "author": "",
+    "score": "35",
+    "comments": "0",
+    "tags": "go, performance",
+    "url": "https://mcyoung.xyz/2025/07/16/hyperpb/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "distributed, security",
+    "url": "https://matrix.org/blog/2025/07/security-predisclosure/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Project SERVFAIL: one year in",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://sdomi.pl/weblog/25-servfail-first-year/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Terminal Trove - The $HOME of all things in the terminal",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "debugging, freebsd, linux, unix",
+    "url": "https://terminaltrove.com/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "video, historical, programming",
+    "url": "https://www.youtube.com/watch?v=wo84LFzx5nI",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "The Mercury Protocol",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "networking, satire",
+    "url": "https://raw.githubusercontent.com/floren/mercury/master/SPEC",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Two Simple Rules to Fix Code Reviews",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Underused Techniques for Effective Emails",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://refactoringenglish.com/chapters/techniques-for-writing-emails/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Why pull-based pipelines are faster",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "databases, scaling",
+    "url": "https://blog.sequinstream.com/why-pull-based-pipelines-are-faster/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Zig's new Writer",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://www.openmymind.net/Zigs-New-Writer/",
+    "date": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "lsr: ls but with io_uring",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "show, performance, zig",
+    "url": "https://tangled.sh/@rockorager.dev/lsr",
+    "date": "2025-07-17",
+    "description": ""
+  }
+]

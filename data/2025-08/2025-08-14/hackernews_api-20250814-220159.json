@@ -1,0 +1,512 @@
+[
+  {
+    "title": "Bezier-rs – algorithms for Bézier segments and shapes",
+    "url": "https://graphite.rs/libraries/bezier-rs/",
+    "author": "jarek-foksa",
+    "date": "2025-08-10",
+    "score": 222,
+    "comments": 49,
+    "id": 44846781,
+    "discussion_url": "https://news.ycombinator.com/item?id=44846781",
+    "description": "Bezier-rs – algorithms for Bézier segments and shapes",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712993"
+  },
+  {
+    "title": "Claude Sonnet 4 now supports 1M tokens of context",
+    "url": "https://www.anthropic.com/news/1m-context",
+    "author": "adocomplete",
+    "date": "2025-08-13",
+    "score": 1290,
+    "comments": 681,
+    "id": 44878147,
+    "discussion_url": "https://news.ycombinator.com/item?id=44878147",
+    "description": "Claude Sonnet 4 now supports 1M tokens of context",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712969"
+  },
+  {
+    "title": "Claude says “You're absolutely right!” about everything",
+    "url": "https://github.com/anthropics/claude-code/issues/3382",
+    "author": "pr337h4m",
+    "date": "2025-08-13",
+    "score": 717,
+    "comments": 508,
+    "id": 44885398,
+    "discussion_url": "https://news.ycombinator.com/item?id=44885398",
+    "description": "Claude says “You're absolutely right!” about everything",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.713010"
+  },
+  {
+    "title": "Coalton Playground: Type-Safe Lisp in the Browser",
+    "url": "https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/",
+    "author": "reikonomusha",
+    "date": "2025-08-14",
+    "score": 111,
+    "comments": 36,
+    "id": 44889359,
+    "discussion_url": "https://news.ycombinator.com/item?id=44889359",
+    "description": "Coalton Playground: Type-Safe Lisp in the Browser",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712951"
+  },
+  {
+    "title": "Cross-Site Request Forgery",
+    "url": "https://words.filippo.io/csrf/",
+    "author": "tatersolid",
+    "date": "2025-08-14",
+    "score": 136,
+    "comments": 28,
+    "id": 44891302,
+    "discussion_url": "https://news.ycombinator.com/item?id=44891302",
+    "description": "Cross-Site Request Forgery",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712908"
+  },
+  {
+    "title": "DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls",
+    "url": "https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e",
+    "author": "grumblemumble",
+    "date": "2025-08-13",
+    "score": 84,
+    "comments": 28,
+    "id": 44888210,
+    "discussion_url": "https://news.ycombinator.com/item?id=44888210",
+    "description": "DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712964"
+  },
+  {
+    "title": "FFmpeg 8.0 adds Whisper support",
+    "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b",
+    "author": "rilawa",
+    "date": "2025-08-13",
+    "score": 940,
+    "comments": 307,
+    "id": 44886647,
+    "discussion_url": "https://news.ycombinator.com/item?id=44886647",
+    "description": "FFmpeg 8.0 adds Whisper support",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712795"
+  },
+  {
+    "title": "Facial recognition vans to be rolled out across police forces in England",
+    "url": "https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613",
+    "author": "amarcheschi",
+    "date": "2025-08-13",
+    "score": 314,
+    "comments": 440,
+    "id": 44886913,
+    "discussion_url": "https://news.ycombinator.com/item?id=44886913",
+    "description": "Facial recognition vans to be rolled out across police forces in England",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712853"
+  },
+  {
+    "title": "ForgeFed: ActivityPub-based forge federation protocol",
+    "url": "https://forgefed.org",
+    "author": "rapnie",
+    "date": "2025-08-12",
+    "score": 90,
+    "comments": 30,
+    "id": 44873341,
+    "discussion_url": "https://news.ycombinator.com/item?id=44873341",
+    "description": "ForgeFed: ActivityPub-based forge federation protocol",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712857"
+  },
+  {
+    "title": "Funding Open Source like public infrastructure",
+    "url": "https://dri.es/funding-open-source-like-public-infrastructure",
+    "author": "pabs3",
+    "date": "2025-08-14",
+    "score": 109,
+    "comments": 44,
+    "id": 44896433,
+    "discussion_url": "https://news.ycombinator.com/item?id=44896433",
+    "description": "Funding Open Source like public infrastructure",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712780"
+  },
+  {
+    "title": "Igor Babuschkin, a co-founder of xAI, has announced his departure",
+    "url": "https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/",
+    "author": "TheAlchemist",
+    "date": "2025-08-14",
+    "score": 115,
+    "comments": 50,
+    "id": 44895270,
+    "discussion_url": "https://news.ycombinator.com/item?id=44895270",
+    "description": "Igor Babuschkin, a co-founder of xAI, has announced his departure",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712960"
+  },
+  {
+    "title": "Illinois limits the use of AI in therapy and psychotherapy",
+    "url": "https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/",
+    "author": "reaperducer",
+    "date": "2025-08-14",
+    "score": 363,
+    "comments": 210,
+    "id": 44893254,
+    "discussion_url": "https://news.ycombinator.com/item?id=44893254",
+    "description": "Illinois limits the use of AI in therapy and psychotherapy",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712900"
+  },
+  {
+    "title": "Kodak says it might have to cease operations",
+    "url": "https://www.cnn.com/2025/08/12/business/kodak-survival-warning",
+    "author": "mastry",
+    "date": "2025-08-12",
+    "score": 258,
+    "comments": 171,
+    "id": 44875270,
+    "discussion_url": "https://news.ycombinator.com/item?id=44875270",
+    "description": "Kodak says it might have to cease operations",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712773"
+  },
+  {
+    "title": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+    "url": "https://video.golpoai.com/",
+    "author": "skar01",
+    "date": "2025-08-14",
+    "score": 96,
+    "comments": 84,
+    "id": 44891090,
+    "discussion_url": "https://news.ycombinator.com/item?id=44891090",
+    "description": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712926"
+  },
+  {
+    "title": "NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices",
+    "url": "https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices",
+    "author": "gnabgib",
+    "date": "2025-08-14",
+    "score": 145,
+    "comments": 92,
+    "id": 44893600,
+    "discussion_url": "https://news.ycombinator.com/item?id=44893600",
+    "description": "NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712870"
+  },
+  {
+    "title": "New treatment eliminates bladder cancer in 82% of patients",
+    "url": "https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/",
+    "author": "geox",
+    "date": "2025-08-14",
+    "score": 327,
+    "comments": 141,
+    "id": 44889580,
+    "discussion_url": "https://news.ycombinator.com/item?id=44889580",
+    "description": "New treatment eliminates bladder cancer in 82% of patients",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712981"
+  },
+  {
+    "title": "Nginx introduces native support for ACME protocol",
+    "url": "https://blog.nginx.org/blog/native-support-for-acme-protocol",
+    "author": "phickey",
+    "date": "2025-08-14",
+    "score": 694,
+    "comments": 249,
+    "id": 44889941,
+    "discussion_url": "https://news.ycombinator.com/item?id=44889941",
+    "description": "Nginx introduces native support for ACME protocol",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712790"
+  },
+  {
+    "title": "OCaml as my primary language",
+    "url": "https://xvw.lol/en/articles/why-ocaml.html",
+    "author": "nukifw",
+    "date": "2025-08-14",
+    "score": 318,
+    "comments": 222,
+    "id": 44891759,
+    "discussion_url": "https://news.ycombinator.com/item?id=44891759",
+    "description": "OCaml as my primary language",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712826"
+  },
+  {
+    "title": "Open Banking and Payments Competition",
+    "url": "https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/",
+    "author": "smitop",
+    "date": "2025-08-14",
+    "score": 121,
+    "comments": 60,
+    "id": 44895222,
+    "discussion_url": "https://news.ycombinator.com/item?id=44895222",
+    "description": "Open Banking and Payments Competition",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712875"
+  },
+  {
+    "title": "PCIe 8.0 announced by the PCI-Sig will double throughput again",
+    "url": "https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/",
+    "author": "rbanffy",
+    "date": "2025-08-10",
+    "score": 161,
+    "comments": 193,
+    "id": 44851019,
+    "discussion_url": "https://news.ycombinator.com/item?id=44851019",
+    "description": "PCIe 8.0 announced by the PCI-Sig will double throughput again",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712947"
+  },
+  {
+    "title": "PYX: The next step in Python packaging",
+    "url": "https://astral.sh/blog/introducing-pyx",
+    "author": "the_mitsuhiko",
+    "date": "2025-08-14",
+    "score": 652,
+    "comments": 392,
+    "id": 44892209,
+    "discussion_url": "https://news.ycombinator.com/item?id=44892209",
+    "description": "PYX: The next step in Python packaging",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712821"
+  },
+  {
+    "title": "Pebble Time 2 Design Reveal [video]",
+    "url": "https://www.youtube.com/watch?v=pcPzmDePH3E",
+    "author": "net01",
+    "date": "2025-08-13",
+    "score": 263,
+    "comments": 217,
+    "id": 44887853,
+    "discussion_url": "https://news.ycombinator.com/item?id=44887853",
+    "description": "Pebble Time 2 Design Reveal [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712917"
+  },
+  {
+    "title": "Show HN: Yet another memory system for LLMs",
+    "url": "https://github.com/trvon/yams",
+    "author": "blackmanta",
+    "date": "2025-08-14",
+    "score": 103,
+    "comments": 21,
+    "id": 44896489,
+    "discussion_url": "https://news.ycombinator.com/item?id=44896489",
+    "description": "Show HN: Yet another memory system for LLMs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712835"
+  },
+  {
+    "title": "So what's the difference between plotted and printed artwork?",
+    "url": "https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork",
+    "author": "cosiiine",
+    "date": "2025-08-13",
+    "score": 243,
+    "comments": 77,
+    "id": 44887965,
+    "discussion_url": "https://news.ycombinator.com/item?id=44887965",
+    "description": "So what's the difference between plotted and printed artwork?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712939"
+  },
+  {
+    "title": "Study: Social media probably can't be fixed",
+    "url": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
+    "author": "todsacerdoti",
+    "date": "2025-08-14",
+    "score": 172,
+    "comments": 161,
+    "id": 44889715,
+    "discussion_url": "https://news.ycombinator.com/item?id=44889715",
+    "description": "Study: Social media probably can't be fixed",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712892"
+  },
+  {
+    "title": "This website is for humans",
+    "url": "https://localghost.dev/blog/this-website-is-for-humans/",
+    "author": "charles_f",
+    "date": "2025-08-14",
+    "score": 575,
+    "comments": 309,
+    "id": 44889627,
+    "discussion_url": "https://news.ycombinator.com/item?id=44889627",
+    "description": "This website is for humans",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712904"
+  },
+  {
+    "title": "We caught companies making it harder to delete your personal data online",
+    "url": "https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data",
+    "author": "amarcheschi",
+    "date": "2025-08-13",
+    "score": 289,
+    "comments": 69,
+    "id": 44888445,
+    "discussion_url": "https://news.ycombinator.com/item?id=44888445",
+    "description": "We caught companies making it harder to delete your personal data online",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712989"
+  },
+  {
+    "title": "What Medieval People Got Right About Learning (2019)",
+    "url": "https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/",
+    "author": "ripe",
+    "date": "2025-08-14",
+    "score": 99,
+    "comments": 54,
+    "id": 44895497,
+    "discussion_url": "https://news.ycombinator.com/item?id=44895497",
+    "description": "What Medieval People Got Right About Learning (2019)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712844"
+  },
+  {
+    "title": "When DEF CON partners with the U.S. Army",
+    "url": "https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge",
+    "author": "OgsyedIE",
+    "date": "2025-08-13",
+    "score": 194,
+    "comments": 232,
+    "id": 44888236,
+    "discussion_url": "https://news.ycombinator.com/item?id=44888236",
+    "description": "When DEF CON partners with the U.S. Army",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712921"
+  },
+  {
+    "title": "Zenobia Pay – A mission to build an alternative to high-fee card networks",
+    "url": "https://zenobiapay.com/blog/open-source-payments",
+    "author": "pranay01",
+    "date": "2025-08-14",
+    "score": 149,
+    "comments": 161,
+    "id": 44896085,
+    "discussion_url": "https://news.ycombinator.com/item?id=44896085",
+    "description": "Zenobia Pay – A mission to build an alternative to high-fee card networks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-14T22:01:59.712800"
+  }
+]

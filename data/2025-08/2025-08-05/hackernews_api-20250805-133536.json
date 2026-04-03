@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A deep dive into Rust and C memory interoperability",
+    "url": "https://notashes.me/blog/part-1-memory-management/",
+    "author": "hyperbrainer",
+    "date": "2025-08-05",
+    "score": 136,
+    "comments": 68,
+    "id": 44786962,
+    "discussion_url": "https://news.ycombinator.com/item?id=44786962",
+    "description": "A deep dive into Rust and C memory interoperability",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.818000"
+  },
+  {
+    "title": "Century-old stone “tsunami stones” dot Japan's coastline (2015)",
+    "url": "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/",
+    "author": "deegles",
+    "date": "2025-08-04",
+    "score": 135,
+    "comments": 51,
+    "id": 44785107,
+    "discussion_url": "https://news.ycombinator.com/item?id=44785107",
+    "description": "Century-old stone “tsunami stones” dot Japan's coastline (2015)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817957"
+  },
+  {
+    "title": "Content-Aware Spaced Repetition",
+    "url": "https://www.giacomoran.com/blog/content-aware-sr/",
+    "author": "ran3000",
+    "date": "2025-08-05",
+    "score": 99,
+    "comments": 19,
+    "id": 44790422,
+    "discussion_url": "https://news.ycombinator.com/item?id=44790422",
+    "description": "Content-Aware Spaced Repetition",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817849"
+  },
+  {
+    "title": "Customizing tmux",
+    "url": "https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/",
+    "author": "EPendragon",
+    "date": "2025-08-05",
+    "score": 100,
+    "comments": 88,
+    "id": 44787374,
+    "discussion_url": "https://news.ycombinator.com/item?id=44787374",
+    "description": "Customizing tmux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817927"
+  },
+  {
+    "title": "DrawAFish.com Postmortem",
+    "url": "https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html",
+    "author": "hallak",
+    "date": "2025-08-04",
+    "score": 272,
+    "comments": 68,
+    "id": 44784743,
+    "discussion_url": "https://news.ycombinator.com/item?id=44784743",
+    "description": "DrawAFish.com Postmortem",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817896"
+  },
+  {
+    "title": "Facts will not save you – AI, history and Soviet sci-fi",
+    "url": "https://hegemon.substack.com/p/facts-will-not-save-you",
+    "author": "veqq",
+    "date": "2025-08-02",
+    "score": 150,
+    "comments": 68,
+    "id": 44760411,
+    "discussion_url": "https://news.ycombinator.com/item?id=44760411",
+    "description": "Facts will not save you – AI, history and Soviet sci-fi",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.818043"
+  },
+  {
+    "title": "GHz spiking neuromorphic photonic chip with in-situ training",
+    "url": "https://arxiv.org/abs/2506.14272",
+    "author": "juanviera23",
+    "date": "2025-08-04",
+    "score": 111,
+    "comments": 17,
+    "id": 44784297,
+    "discussion_url": "https://news.ycombinator.com/item?id=44784297",
+    "description": "GHz spiking neuromorphic photonic chip with in-situ training",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.818025"
+  },
+  {
+    "title": "How we built Bluey’s world",
+    "url": "https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725",
+    "author": "skrebbel",
+    "date": "2025-08-01",
+    "score": 335,
+    "comments": 153,
+    "id": 44755827,
+    "discussion_url": "https://news.ycombinator.com/item?id=44755827",
+    "description": "How we built Bluey’s world",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817887"
+  },
+  {
+    "title": "How we made JSON.stringify more than twice as fast",
+    "url": "https://v8.dev/blog/json-stringify",
+    "author": "emschwartz",
+    "date": "2025-08-05",
+    "score": 232,
+    "comments": 54,
+    "id": 44786005,
+    "discussion_url": "https://news.ycombinator.com/item?id=44786005",
+    "description": "How we made JSON.stringify more than twice as fast",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817842"
+  },
+  {
+    "title": "I asked four former friends why we stopped speaking (2023)",
+    "url": "https://www.vogue.com/article/reconnecting-with-ex-friends",
+    "author": "mooreds",
+    "date": "2025-08-05",
+    "score": 140,
+    "comments": 93,
+    "id": 44788783,
+    "discussion_url": "https://news.ycombinator.com/item?id=44788783",
+    "description": "I asked four former friends why we stopped speaking (2023)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.818087"
+  },
+  {
+    "title": "I tried to replace myself with ChatGPT in my English class",
+    "url": "https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/",
+    "author": "lapcat",
+    "date": "2025-08-03",
+    "score": 116,
+    "comments": 110,
+    "id": 44769547,
+    "discussion_url": "https://news.ycombinator.com/item?id=44769547",
+    "description": "I tried to replace myself with ChatGPT in my English class",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817891"
+  },
+  {
+    "title": "Indian Sign Painting: A typeface designer's take on the craft",
+    "url": "https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/",
+    "author": "detaro",
+    "date": "2025-08-03",
+    "score": 132,
+    "comments": 26,
+    "id": 44767727,
+    "discussion_url": "https://news.ycombinator.com/item?id=44767727",
+    "description": "Indian Sign Painting: A typeface designer's take on the craft",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817901"
+  },
+  {
+    "title": "Job-seekers are dodging AI interviewers",
+    "url": "https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/",
+    "author": "robtherobber",
+    "date": "2025-08-04",
+    "score": 541,
+    "comments": 788,
+    "id": 44783155,
+    "discussion_url": "https://news.ycombinator.com/item?id=44783155",
+    "description": "Job-seekers are dodging AI interviewers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817992"
+  },
+  {
+    "title": "Mastercard deflects blame for NSFW games being taken down",
+    "url": "https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/",
+    "author": "croes",
+    "date": "2025-08-04",
+    "score": 535,
+    "comments": 529,
+    "id": 44783566,
+    "discussion_url": "https://news.ycombinator.com/item?id=44783566",
+    "description": "Mastercard deflects blame for NSFW games being taken down",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.818055"
+  },
+  {
+    "title": "My Ideal Array Language",
+    "url": "https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html",
+    "author": "bobajeff",
+    "date": "2025-08-04",
+    "score": 119,
+    "comments": 52,
+    "id": 44785224,
+    "discussion_url": "https://news.ycombinator.com/item?id=44785224",
+    "description": "My Ideal Array Language",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817970"
+  },
+  {
+    "title": "NASA's Curiosity picks up new skills",
+    "url": "https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/",
+    "author": "Bluestein",
+    "date": "2025-08-05",
+    "score": 103,
+    "comments": 35,
+    "id": 44790271,
+    "discussion_url": "https://news.ycombinator.com/item?id=44790271",
+    "description": "NASA's Curiosity picks up new skills",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817949"
+  },
+  {
+    "title": "New quantum state of matter found at interface of exotic materials",
+    "url": "https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html",
+    "author": "janandonly",
+    "date": "2025-08-01",
+    "score": 137,
+    "comments": 24,
+    "id": 44754697,
+    "discussion_url": "https://news.ycombinator.com/item?id=44754697",
+    "description": "New quantum state of matter found at interface of exotic materials",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.818063"
+  },
+  {
+    "title": "Objects should shut up",
+    "url": "https://dustri.org/b/objects-should-shut-the-fuck-up.html",
+    "author": "gm678",
+    "date": "2025-08-05",
+    "score": 324,
+    "comments": 238,
+    "id": 44786367,
+    "discussion_url": "https://news.ycombinator.com/item?id=44786367",
+    "description": "Objects should shut up",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817966"
+  },
+  {
+    "title": "Once a death sentence, cardiac amyloidosis is finally treatable",
+    "url": "https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html",
+    "author": "elektor",
+    "date": "2025-08-05",
+    "score": 114,
+    "comments": 13,
+    "id": 44790944,
+    "discussion_url": "https://news.ycombinator.com/item?id=44790944",
+    "description": "Once a death sentence, cardiac amyloidosis is finally treatable",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817945"
+  },
+  {
+    "title": "OpenIPC: Open IP Camera Firmware",
+    "url": "https://openipc.org/à",
+    "author": "zakki",
+    "date": "2025-08-02",
+    "score": 211,
+    "comments": 119,
+    "id": 44758463,
+    "discussion_url": "https://news.ycombinator.com/item?id=44758463",
+    "description": "OpenIPC: Open IP Camera Firmware",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817881"
+  },
+  {
+    "title": "PHP: The Toyota Corolla of programming",
+    "url": "https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/",
+    "author": "secstate",
+    "date": "2025-08-04",
+    "score": 164,
+    "comments": 171,
+    "id": 44785759,
+    "discussion_url": "https://news.ycombinator.com/item?id=44785759",
+    "description": "PHP: The Toyota Corolla of programming",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.818091"
+  },
+  {
+    "title": "Palantir is extending its reach even further into government",
+    "url": "https://www.wired.com/story/palantir-government-contracting-push/",
+    "author": "mooreds",
+    "date": "2025-08-04",
+    "score": 234,
+    "comments": 221,
+    "id": 44784498,
+    "discussion_url": "https://news.ycombinator.com/item?id=44784498",
+    "description": "Palantir is extending its reach even further into government",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817988"
+  },
+  {
+    "title": "Passkeys are just passwords that require a password manager",
+    "url": "https://danfabulich.medium.com/passkeys-are-just-passwords-that-require-a-password-manager-ebb7f2fdcadf",
+    "author": "dfabulich",
+    "date": "2025-08-05",
+    "score": 101,
+    "comments": 66,
+    "id": 44790385,
+    "discussion_url": "https://news.ycombinator.com/item?id=44790385",
+    "description": "Passkeys are just passwords that require a password manager",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817910"
+  },
+  {
+    "title": "Perfecting anti-aliasing on signed distance functions",
+    "url": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
+    "author": "ibobev",
+    "date": "2025-08-04",
+    "score": 98,
+    "comments": 21,
+    "id": 44784141,
+    "discussion_url": "https://news.ycombinator.com/item?id=44784141",
+    "description": "Perfecting anti-aliasing on signed distance functions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.818099"
+  },
+  {
+    "title": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
+    "url": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
+    "author": "rrampage",
+    "date": "2025-08-04",
+    "score": 993,
+    "comments": 563,
+    "id": 44785636,
+    "discussion_url": "https://news.ycombinator.com/item?id=44785636",
+    "description": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817941"
+  },
+  {
+    "title": "Projects evaluated to see if they're as free and open source as advertised",
+    "url": "https://isitreallyfoss.com/",
+    "author": "exiguus",
+    "date": "2025-08-05",
+    "score": 135,
+    "comments": 45,
+    "id": 44791554,
+    "discussion_url": "https://news.ycombinator.com/item?id=44791554",
+    "description": "Projects evaluated to see if they're as free and open source as advertised",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817974"
+  },
+  {
+    "title": "Qwen-Image: Crafting with native text rendering",
+    "url": "https://qwenlm.github.io/blog/qwen-image/",
+    "author": "meetpateltech",
+    "date": "2025-08-05",
+    "score": 332,
+    "comments": 88,
+    "id": 44787631,
+    "discussion_url": "https://news.ycombinator.com/item?id=44787631",
+    "description": "Qwen-Image: Crafting with native text rendering",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817865"
+  },
+  {
+    "title": "Read your code",
+    "url": "https://etsd.tech/posts/rtfc/",
+    "author": "noeclement",
+    "date": "2025-08-04",
+    "score": 163,
+    "comments": 96,
+    "id": 44785562,
+    "discussion_url": "https://news.ycombinator.com/item?id=44785562",
+    "description": "Read your code",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.818013"
+  },
+  {
+    "title": "Show HN: I spent 6 years building a ridiculous wooden pixel display",
+    "url": "https://benholmen.com/blog/kilopixel/",
+    "author": "benholmen",
+    "date": "2025-08-05",
+    "score": 763,
+    "comments": 114,
+    "id": 44787902,
+    "discussion_url": "https://news.ycombinator.com/item?id=44787902",
+    "description": "Show HN: I spent 6 years building a ridiculous wooden pixel display",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817829"
+  },
+  {
+    "title": "Show HN: I've been building an ERP for manufacturing for the last 3 years",
+    "url": "https://github.com/crbnos/carbon",
+    "author": "barbinbrad",
+    "date": "2025-08-05",
+    "score": 137,
+    "comments": 45,
+    "id": 44792005,
+    "discussion_url": "https://news.ycombinator.com/item?id=44792005",
+    "description": "Show HN: I've been building an ERP for manufacturing for the last 3 years",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-05T13:35:36.817859"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "title": "4-10x faster in-process pub/sub for Go",
+    "url": "https://github.com/kelindar/event",
+    "author": "kelindar",
+    "date": "2025-06-30",
+    "points": "75",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44413809"
+  },
+  {
+    "title": "America's Coming Smoke Epidemic",
+    "url": "https://www.theatlantic.com/science/archive/2025/06/wildfire-smoke-epidemic/683343/",
+    "author": "JumpCrisscross",
+    "date": "2025-06-30",
+    "points": "57",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44414700"
+  },
+  {
+    "title": "Bloom Filters by Example",
+    "url": "https://llimllib.github.io/bloomfilter-tutorial/",
+    "author": "ibobev",
+    "date": "2025-06-30",
+    "points": "149",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44412370"
+  },
+  {
+    "title": "Brad Woods Digital Garden",
+    "url": "https://garden.bradwoods.io",
+    "author": "samuel246",
+    "date": "2025-06-30",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44393920"
+  },
+  {
+    "title": "Engineered Addictions",
+    "url": "https://masonyarbrough.substack.com/p/engineered-addictions",
+    "author": "echollama",
+    "date": "2025-06-30",
+    "points": "651",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44405057"
+  },
+  {
+    "title": "Error Handling in Rust",
+    "url": "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html",
+    "author": "emschwartz",
+    "date": "2025-06-30",
+    "points": "17",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44416157"
+  },
+  {
+    "title": "I made my VM think it has a CPU fan",
+    "url": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
+    "author": "todsacerdoti",
+    "date": "2025-06-30",
+    "points": "333",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44413185"
+  },
+  {
+    "title": "Implementing fast TCP fingerprinting with eBPF",
+    "url": "https://halb.it/posts/ebpf-fingerprinting-1/",
+    "author": "halb",
+    "date": "2025-06-30",
+    "points": "56",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44412080"
+  },
+  {
+    "title": "Improving River Simulation",
+    "url": "https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html",
+    "author": "Hooke",
+    "date": "2025-06-30",
+    "points": "62",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44382419"
+  },
+  {
+    "title": "JavaScript Trademark Update",
+    "url": "https://deno.com/blog/deno-v-oracle4",
+    "author": "thebeardisred",
+    "date": "2025-06-30",
+    "points": "851",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44407139"
+  },
+  {
+    "title": "Loss of key US satellite data could send hurricane forecasting back 'decades'",
+    "url": "https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate",
+    "author": "trauco",
+    "date": "2025-06-30",
+    "points": "131",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44414853"
+  },
+  {
+    "title": "Many ransomware strains will abort if they detect a Russian keyboard installed",
+    "url": "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/",
+    "author": "air7",
+    "date": "2025-06-30",
+    "points": "67",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44415233"
+  },
+  {
+    "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
+    "url": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
+    "author": "dotcoma",
+    "date": "2025-06-30",
+    "points": "729",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44411069"
+  },
+  {
+    "title": "Most ints are not floats",
+    "url": "https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/",
+    "author": "zdw",
+    "date": "2025-06-30",
+    "points": "24",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44397809"
+  },
+  {
+    "title": "Personal care products disrupt the human oxidation field",
+    "url": "https://www.science.org/doi/10.1126/sciadv.ads7908",
+    "author": "XzetaU8",
+    "date": "2025-06-30",
+    "points": "152",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44414719"
+  },
+  {
+    "title": "Revisiting Knuth's \"Premature Optimization\" Paper",
+    "url": "https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/",
+    "author": "signa11",
+    "date": "2025-06-30",
+    "points": "11",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44386236"
+  },
+  {
+    "title": "Schizophrenia is the price we pay for minds poised near the edge of a cliff",
+    "url": "https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay",
+    "author": "Anon84",
+    "date": "2025-06-30",
+    "points": "208",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44408286"
+  },
+  {
+    "title": "Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log",
+    "url": "https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html",
+    "author": "benbreen",
+    "date": "2025-06-30",
+    "points": "31",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44382356"
+  },
+  {
+    "title": "Sequence and first differences together list all positive numbers exactly once",
+    "url": "https://oeis.org/A005228",
+    "author": "andersource",
+    "date": "2025-06-30",
+    "points": "68",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44375075"
+  },
+  {
+    "title": "Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)",
+    "url": "https://llmapitest.com/",
+    "author": "mrqjr",
+    "date": "2025-06-30",
+    "points": "18",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44413921"
+  },
+  {
+    "title": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
+    "url": "https://github.com/octelium/octelium",
+    "author": "geoctl",
+    "date": "2025-06-30",
+    "points": "234",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44412207"
+  },
+  {
+    "title": "Show HN: Rust ↦ WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art",
+    "url": "https://github.com/gametorch/image_to_pixel_art_wasm",
+    "author": "gametorch",
+    "date": "2025-06-30",
+    "points": "10",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44387923"
+  },
+  {
+    "title": "Show HN: Sharpe Ratio Calculation Tool",
+    "url": "https://www.fundratios.com/",
+    "author": "navquant",
+    "date": "2025-06-30",
+    "points": "8",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44414848"
+  },
+  {
+    "title": "Solving `Passport Application` with Haskell",
+    "url": "https://jameshaydon.github.io/passport/",
+    "author": "jameshh",
+    "date": "2025-06-30",
+    "points": "278",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44408872"
+  },
+  {
+    "title": "The Death of the Middle-Class Musician",
+    "url": "https://thewalrus.ca/the-death-of-the-middle-class-musician/",
+    "author": "pseudolus",
+    "date": "2025-06-30",
+    "points": "256",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44408552"
+  },
+  {
+    "title": "The Medley Interlisp Project: Reviving a Historical Software System [pdf]",
+    "url": "https://interlisp.org/documentation/young-ccece2025.pdf",
+    "author": "pamoroso",
+    "date": "2025-06-30",
+    "points": "59",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44413574"
+  },
+  {
+    "title": "The Unsustainability of Moore's Law",
+    "url": "https://bzolang.blog/p/the-unsustainability-of-moores-law",
+    "author": "shadyboi",
+    "date": "2025-06-30",
+    "points": "122",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44410900"
+  },
+  {
+    "title": "Tools I love: mise(-en-place)",
+    "url": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
+    "author": "micvbang",
+    "date": "2025-06-30",
+    "points": "103",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44414987"
+  },
+  {
+    "title": "Using the Internet without IPv4 connectivity",
+    "url": "https://jamesmcm.github.io/blog/no-ipv4/",
+    "author": "jmillikin",
+    "date": "2025-06-30",
+    "points": "239",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44411273"
+  },
+  {
+    "title": "Why Go Rocks for Building a Lua Interpreter",
+    "url": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
+    "author": "Bogdanp",
+    "date": "2025-06-30",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44384425"
+  }
+]

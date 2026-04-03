@@ -1,0 +1,77 @@
+---
+title: How good engineers write bad code at big companies
+url: https://www.seangoedecke.com/bad-code-at-big-companies/
+site_name: hackernews
+fetched_at: '2025-11-29T11:06:50.438826'
+original_url: https://www.seangoedecke.com/bad-code-at-big-companies/
+author: gfysfm
+date: '2025-11-29'
+description: --
+---
+
+Every couple of yearssomebodynoticesthat large tech companies sometimes produce surprisingly sloppy code. If you haven’t worked at a big company, it might be hard to understand how this happens. Big tech companies pay well enough to attract many competent engineers. They move slowly enough that it looks like they’re able to take their time and do solid work. How does bad code happen?
+
+### Most code changes are made by relative beginners
+
+I think the main reason is thatbig companies are full of engineers working outside their area of expertise. The average big tech employee stays for onlya year or two1. In fact, big tech compensation packages are typically designed to put a four-year cap on engineer tenure: after four years, the initial share grant is fully vested, causing engineers to take what can be a 50% pay cut. Companies do extend temporary yearly refreshes, but it obviously incentivizes engineers to go find another job where they don’t have to wonder if they’re going to get the other half of their compensation each year.
+
+If you count internal mobility, it’s even worse. The longest I have ever stayed on a single team or codebase was three years, near the start of my career. I expect to bere-orgedat least every year, and often much more frequently.
+
+However, the average tenure of a codebase in a big tech company is a lot longer than that. Many of the services I work on are a decade old or more, and have had many, many different owners over the years. That means many big tech engineers are constantly “figuring it out”.A pretty high percentage of code changes are made by “beginners”:people who have onboarded to the company, the codebase, or even the programming language in the past six months.
+
+### Old hands
+
+To some extent, this problem is mitigated by “old hands”: engineers who happen to have been in the orbit of a particular system for long enough to develop real expertise. These engineers can give deep code reviews and reliably catch obvious problems. But relying on “old hands” has two problems.
+
+First,this process is entirely informal. Big tech companies make surprisingly little effort to develop long-term expertise in individual systems, and once they’ve got it they seem to barely care at all about retaining it. Often the engineers in question are moved to different services, and have to either keep up their “old hand” duties on an effectively volunteer basis, or abandon them and become a relative beginner on a brand new system.
+
+Second,experienced engineers are always overloaded. It is abusyjob being one of the few engineers who has deep expertise on a particular service. You don’t have enough time to personally review every software change, or to be actively involved in every decision-making process. Remember thatyou also have your own work to do: if you spend all your time reviewing changes and being involved in discussions, you’ll likely be punished by the company for not having enough individual output.
+
+### The median productive engineer
+
+Putting all this together, what does the median productive2engineer at a big tech company look like? They are usually:
+
+* competent enough to pass the hiring bar and be able to do the work, but either
+* working on a codebase or language that is largely new to them, or
+* trying to stay on top of a flood of code changes while also juggling their own work.
+
+They are almost certainly working to a deadline, or to a series of overlapping deadlines for different projects. In other words,they are trying to do their best in an environment that is not set up to produce quality code.
+
+That’s how “obviously” bad code happens. For instance, a junior engineer picks up a ticket for an annoying bug in a codebase they’re barely familiar with. They spend a few days figuring it out and come up with a hacky solution. One of the more senior “old hands” (if they’re lucky) glances over it in a spare half-hour, vetoes it, and suggests something slightly better that would at least work. The junior engineer implements that as best they can, tests that it works, it gets briefly reviewed and shipped, and everyone involved immediately moves on to higher-priority work. Five years later somebody notices this3and thinks “wow, that’s hacky - how did such bad code get written at such a big software company”?
+
+### Big tech companies are fine with this
+
+I have written a lot about the internal tech company dynamics that contribute to this. Most directly, inSeeing like a software companyI argue that big tech companies consistently prioritize internallegibility- the ability to see at a glance who’s working on what and to change it at will - over productivity. Big companies know that treating engineers as fungible and moving them around destroys their ability to develop long-term expertise in a single codebase.That’s a deliberate tradeoff.They’re giving up some amount of expertise and software quality in order to gain the ability to rapidly deploy skilled engineers onto whatever the problem-of-the-month is.
+
+I don’t know if this is a good idea or a bad idea. It certainly seems to be working for the big tech companies, particularly now that “how fast can you pivot to something AI-related” is so important. But if you’re doing this, thenof courseyou’re going to produce some genuinely bad code. That’s what happens when you ask engineers to rush out work on systems they’re unfamiliar with.
+
+Individual engineers are entirely powerless to alter this dynamic. This is particularly true in 2025, whenthe balance of power has tiltedaway from engineers and towards tech company leadership. The most you can do as an individual engineer is to try and become an “old hand”: to develop expertise in at least one area, and to use it to block the worst changes and steer people towards at least minimally-sensible technical decisions. But even that is often swimming against the current of the organization, and if inexpertly done can cause you to getPIP-edor worse.
+
+### Pure and impure engineering
+
+I think a lot of this comes down to the distinction betweenpure and impure software engineering. To pure engineers - engineers working on self-contained technical projects, likea programming language- the only explanation for bad code is incompetence. But impure engineers operate more like plumbers or electricians. They’re working to deadlines on projects that are relatively new to them, and even if their technical fundamentals are impeccable, there’s alwayssomethingabout the particular setup of this situation that’s awkward or surprising. To impure engineers, bad code is inevitable. As long as the overall system works well enough, the project is a success.
+
+At big tech companies, engineers don’t get to decide if they’re working on pure or impure engineering work. It’snot their codebase! If the company wants to move you from working on database infrastructure to building the new payments system, they’re fully entitled to do that. The fact that you might make some mistakes in an unfamiliar system - or that your old colleagues on the database infra team might suffer without your expertise - is a deliberate tradeoff being made bythe company, not the engineer.
+
+It’s fine to point out examples of bad code at big companies. If nothing else, it can be an effective way to get those specific examples fixed, since execs usually jump at the chance to turn bad PR into good PR. But I think it’s a mistake4to attribute primary responsibility to the engineers at those companies. If you could wave a magic wand and make every engineer twice as strong,you would still have bad code, because almost nobody can come into a brand new codebase and quickly make changes with zero mistakes. The root cause is thatmost big company engineers are forced to do most of their work in unfamiliar codebases.
+
+edit: this post got lots of comments on bothHacker Newsandlobste.rs.
+
+It was surprising to me thatmanycommentersfind this point of view unplesasantly nihilistic. I consider myself fairly optimistic about my work. In fact, I meant this post as a rousing defence of big tech software engineers from theircritics! Still, I found thisresponse blog postto be an excellent articulation of the “this is too cynical” position, and will likely write a followup post about it soon. If you can’t wait, I wrote a bit on this topic at the start of 2025 inIs it cynical to do what your manager wants?.
+
+Some Hacker News commenters had alternate theories for why bad code happens:lack of motivation, deliberatelydemoralizing engineersso they won’t unionize, or just purely optimizing for speed. I don’t find these compelling, based on my own experience. Many of my colleagues are highly motivated, and I just don’t believe any tech company is deliberately trying to make its engineers demoralized and unhappy.
+
+A few readersdisagreed with meabout RSUs providing an incentive to leave, because their companies give stock refreshers. I don’t know about this. I get refreshers too, but if they’re not in the contract, then I don’t think it matters - the company can decide not to give you 50% of your comp at-will by just pausing the refreshers, which is an incentive to move jobs so it’s locked in for four more years.
+
+1. I struggled to find a good original source on this. There’s a 2013 PayScalereportciting a 1.1 year median turnover at Google, which seems low.↩
+2. Many engineers at big tech companies are not productive, but that’s a post all to itself. I don’t want to get into it here for two reasons. First, I think competent engineers produce enough bad code that it’s fine to be a bit generous and just scope the discussion to them. Second, even if an incompetent engineer wrote the code, there’s almost always competent engineers who could have reviewed it, and the question of why that didn’t happen is still interesting.↩
+3. The example I’m thinking of here is not therecent GitHub Actions one, which I have no first-hand experience of. I can think of at least ten separate instances of this happening to me.↩
+4. In my view, mainly a failure ofimagination: thinking that your own work environment must be pretty similar to everyone else’s.↩
+
+If you liked this post, considersubscribingto email updates about my new posts, orsharing it on Hacker News.Here's a preview of a related post that shares tags with this one.
+
+How I influence tech company politics as a staff software engineer
+
+Many software engineers are fatalistic about company politics. They believe that it’s pointless to get involved, because:
+
+The general idea here is thatsoftware engineers are simply not equipped to play the game at the same level as real political operators. This is true! It would be a terrible mistake for a software engineer to think that you ought to start scheming and plotting like you’re inGame of Thrones. Your schemes will be immediately uncovered and repurposed to your disadvantage and other people’s gain. Scheming takes practice and power, and neither of those things are available to software engineers.Continue reading...

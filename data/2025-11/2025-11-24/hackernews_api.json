@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A desktop app for isolated, parallel agentic development",
+    "url": "https://github.com/coder/mux",
+    "author": "mercat",
+    "date": "2025-11-23",
+    "score": 94,
+    "comments": 45,
+    "id": 46027947,
+    "discussion_url": "https://news.ycombinator.com/item?id=46027947",
+    "description": "A desktop app for isolated, parallel agentic development",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199684"
+  },
+  {
+    "title": "An Economy of AI Agents",
+    "url": "https://arxiv.org/abs/2509.01063",
+    "author": "nerder92",
+    "date": "2025-11-23",
+    "score": 125,
+    "comments": 86,
+    "id": 46020096,
+    "discussion_url": "https://news.ycombinator.com/item?id=46020096",
+    "description": "An Economy of AI Agents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199676"
+  },
+  {
+    "title": "Bureau of Meteorology's new boss asked to examine $96M bill for website redesign",
+    "url": "https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202",
+    "author": "OuterVale",
+    "date": "2025-11-24",
+    "score": 97,
+    "comments": 63,
+    "id": 46033435,
+    "discussion_url": "https://news.ycombinator.com/item?id=46033435",
+    "description": "Bureau of Meteorology's new boss asked to examine $96M bill for website redesign",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199651"
+  },
+  {
+    "title": "Chrome Jpegxl Issue Reopened",
+    "url": "https://issues.chromium.org/issues/40168998",
+    "author": "markdog12",
+    "date": "2025-11-24",
+    "score": 150,
+    "comments": 50,
+    "id": 46033330,
+    "discussion_url": "https://news.ycombinator.com/item?id=46033330",
+    "description": "Chrome Jpegxl Issue Reopened",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199535"
+  },
+  {
+    "title": "Disney Lost Roger Rabbit",
+    "url": "https://pluralistic.net/2025/11/18/im-not-bad/",
+    "author": "leephillips",
+    "date": "2025-11-18",
+    "score": 424,
+    "comments": 207,
+    "id": 45968827,
+    "discussion_url": "https://news.ycombinator.com/item?id=45968827",
+    "description": "Disney Lost Roger Rabbit",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199413"
+  },
+  {
+    "title": "Ego, empathy, and humility at work",
+    "url": "https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/",
+    "author": "mrmatthogg",
+    "date": "2025-11-24",
+    "score": 145,
+    "comments": 49,
+    "id": 46029534,
+    "discussion_url": "https://news.ycombinator.com/item?id=46029534",
+    "description": "Ego, empathy, and humility at work",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199564"
+  },
+  {
+    "title": "Fran Sans – font inspired by San Francisco light rail displays",
+    "url": "https://emilysneddon.com/fran-sans-essay",
+    "author": "ChrisArchitect",
+    "date": "2025-11-23",
+    "score": 1091,
+    "comments": 131,
+    "id": 46025942,
+    "discussion_url": "https://news.ycombinator.com/item?id=46025942",
+    "description": "Fran Sans – font inspired by San Francisco light rail displays",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199568"
+  },
+  {
+    "title": "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
+    "url": "https://mamot.fr/@LaQuadrature/115581775965025042",
+    "author": "nabakin",
+    "date": "2025-11-24",
+    "score": 525,
+    "comments": 176,
+    "id": 46036217,
+    "discussion_url": "https://news.ycombinator.com/item?id=46036217",
+    "description": "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199380"
+  },
+  {
+    "title": "I built a faster Notion in Rust",
+    "url": "https://imedadel.com/outcrop/",
+    "author": "PaulHoule",
+    "date": "2025-11-19",
+    "score": 136,
+    "comments": 69,
+    "id": 45985306,
+    "discussion_url": "https://news.ycombinator.com/item?id=45985306",
+    "description": "I built a faster Notion in Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199467"
+  },
+  {
+    "title": "Inside Rust's std and parking_lot mutexes – who wins?",
+    "url": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
+    "author": "signa11",
+    "date": "2025-11-20",
+    "score": 86,
+    "comments": 15,
+    "id": 45989284,
+    "discussion_url": "https://news.ycombinator.com/item?id=45989284",
+    "description": "Inside Rust's std and parking_lot mutexes – who wins?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199486"
+  },
+  {
+    "title": "Iowa City made its buses free. Traffic cleared, and so did the air",
+    "url": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
+    "author": "bookofjoe",
+    "date": "2025-11-23",
+    "score": 451,
+    "comments": 540,
+    "id": 46027833,
+    "discussion_url": "https://news.ycombinator.com/item?id=46027833",
+    "description": "Iowa City made its buses free. Traffic cleared, and so did the air",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199672"
+  },
+  {
+    "title": "Japan's gamble to turn island of Hokkaido into global chip hub",
+    "url": "https://www.bbc.com/news/articles/c8676qpxgnqo",
+    "author": "1659447091",
+    "date": "2025-11-24",
+    "score": 257,
+    "comments": 381,
+    "id": 46029929,
+    "discussion_url": "https://news.ycombinator.com/item?id=46029929",
+    "description": "Japan's gamble to turn island of Hokkaido into global chip hub",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199433"
+  },
+  {
+    "title": "Lambda Calculus – Animated Beta Reduction of Lambda Diagrams",
+    "url": "https://cruzgodar.com/applets/lambda-calculus",
+    "author": "perryprog",
+    "date": "2025-11-24",
+    "score": 128,
+    "comments": 8,
+    "id": 46030613,
+    "discussion_url": "https://news.ycombinator.com/item?id=46030613",
+    "description": "Lambda Calculus – Animated Beta Reduction of Lambda Diagrams",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199526"
+  },
+  {
+    "title": "Mount Proton Drive on Linux using rclone and systemd",
+    "url": "https://github.com/dadtronics/protondrive-linux",
+    "author": "cf100clunk",
+    "date": "2025-11-23",
+    "score": 139,
+    "comments": 54,
+    "id": 46024584,
+    "discussion_url": "https://news.ycombinator.com/item?id=46024584",
+    "description": "Mount Proton Drive on Linux using rclone and systemd",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199692"
+  },
+  {
+    "title": "NSA and IETF, part 3: Dodging the issues at hand",
+    "url": "https://blog.cr.yp.to/20251123-dodging.html",
+    "author": "upofadown",
+    "date": "2025-11-24",
+    "score": 251,
+    "comments": 118,
+    "id": 46033151,
+    "discussion_url": "https://news.ycombinator.com/item?id=46033151",
+    "description": "NSA and IETF, part 3: Dodging the issues at hand",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199481"
+  },
+  {
+    "title": "New magnetic component discovered in the Faraday effect",
+    "url": "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html",
+    "author": "rbanffy",
+    "date": "2025-11-19",
+    "score": 194,
+    "comments": 69,
+    "id": 45985008,
+    "discussion_url": "https://news.ycombinator.com/item?id=45985008",
+    "description": "New magnetic component discovered in the Faraday effect",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199559"
+  },
+  {
+    "title": "RuBee",
+    "url": "https://computer.rip/2025-11-22-RuBee.html",
+    "author": "Sniffnoy",
+    "date": "2025-11-24",
+    "score": 319,
+    "comments": 56,
+    "id": 46029932,
+    "discussion_url": "https://news.ycombinator.com/item?id=46029932",
+    "description": "RuBee",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199418"
+  },
+  {
+    "title": "SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM",
+    "url": "https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains",
+    "author": "birdculture",
+    "date": "2025-11-24",
+    "score": 305,
+    "comments": 98,
+    "id": 46035533,
+    "discussion_url": "https://news.ycombinator.com/item?id=46035533",
+    "description": "SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199472"
+  },
+  {
+    "title": "Serflings is a remake of The Settlers 1",
+    "url": "https://www.simpleguide.net/serflings.xhtml",
+    "author": "doener",
+    "date": "2025-11-22",
+    "score": 103,
+    "comments": 33,
+    "id": 46013132,
+    "discussion_url": "https://news.ycombinator.com/item?id=46013132",
+    "description": "Serflings is a remake of The Settlers 1",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199522"
+  },
+  {
+    "title": "Set theory with types",
+    "url": "https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html",
+    "author": "baruchel",
+    "date": "2025-11-22",
+    "score": 106,
+    "comments": 18,
+    "id": 46012846,
+    "discussion_url": "https://news.ycombinator.com/item?id=46012846",
+    "description": "Set theory with types",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199577"
+  },
+  {
+    "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+    "url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+    "author": "mrdosija",
+    "date": "2025-11-24",
+    "score": 644,
+    "comments": 502,
+    "id": 46032539,
+    "discussion_url": "https://news.ycombinator.com/item?id=46032539",
+    "description": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199573"
+  },
+  {
+    "title": "Show HN: Gitlogue – A terminal tool that replays your Git commits with animation",
+    "url": "https://github.com/unhappychoice/gitlogue",
+    "author": "unhappychoice",
+    "date": "2025-11-18",
+    "score": 147,
+    "comments": 19,
+    "id": 45964956,
+    "discussion_url": "https://news.ycombinator.com/item?id=45964956",
+    "description": "Show HN: Gitlogue – A terminal tool that replays your Git commits with animation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199663"
+  },
+  {
+    "title": "Show HN: I wrote a minimal memory allocator in C",
+    "url": "https://github.com/t9nzin/memory",
+    "author": "t9nzin",
+    "date": "2025-11-23",
+    "score": 123,
+    "comments": 29,
+    "id": 46027962,
+    "discussion_url": "https://news.ycombinator.com/item?id=46027962",
+    "description": "Show HN: I wrote a minimal memory allocator in C",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199633"
+  },
+  {
+    "title": "Show HN: Stun LLMs with thousands of invisible Unicode characters",
+    "url": "https://gibberifier.com",
+    "author": "wdpatti",
+    "date": "2025-11-24",
+    "score": 177,
+    "comments": 91,
+    "id": 46029889,
+    "discussion_url": "https://news.ycombinator.com/item?id=46029889",
+    "description": "Show HN: Stun LLMs with thousands of invisible Unicode characters",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199582"
+  },
+  {
+    "title": "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
+    "url": "https://arxiv.org/abs/2510.08874",
+    "author": "matt_d",
+    "date": "2025-11-19",
+    "score": 83,
+    "comments": 9,
+    "id": 45981441,
+    "discussion_url": "https://news.ycombinator.com/item?id=45981441",
+    "description": "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199407"
+  },
+  {
+    "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
+    "url": "https://mathstodon.xyz/@tao/115591487350860999",
+    "author": "dwohnitmok",
+    "date": "2025-11-22",
+    "score": 284,
+    "comments": 71,
+    "id": 46017972,
+    "discussion_url": "https://news.ycombinator.com/item?id=46017972",
+    "description": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199642"
+  },
+  {
+    "title": "The Cloudflare outage might be a good thing",
+    "url": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
+    "author": "radeeyate",
+    "date": "2025-11-24",
+    "score": 223,
+    "comments": 157,
+    "id": 46029908,
+    "discussion_url": "https://news.ycombinator.com/item?id=46029908",
+    "description": "The Cloudflare outage might be a good thing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199629"
+  },
+  {
+    "title": "The Rust Performance Book (2020)",
+    "url": "https://nnethercote.github.io/perf-book/",
+    "author": "vinhnx",
+    "date": "2025-11-19",
+    "score": 190,
+    "comments": 31,
+    "id": 45977386,
+    "discussion_url": "https://news.ycombinator.com/item?id=45977386",
+    "description": "The Rust Performance Book (2020)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199513"
+  },
+  {
+    "title": "We stopped roadmap work for a week and fixed bugs",
+    "url": "https://lalitm.com/fixits-are-good-for-the-soul/",
+    "author": "lalitmaganti",
+    "date": "2025-11-23",
+    "score": 199,
+    "comments": 274,
+    "id": 46024541,
+    "discussion_url": "https://news.ycombinator.com/item?id=46024541",
+    "description": "We stopped roadmap work for a week and fixed bugs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199539"
+  },
+  {
+    "title": "µcad: New open source programming language that can generate 2D sketches and 3D",
+    "url": "https://microcad.xyz/",
+    "author": "todsacerdoti",
+    "date": "2025-11-23",
+    "score": 361,
+    "comments": 117,
+    "id": 46027216,
+    "discussion_url": "https://news.ycombinator.com/item?id=46027216",
+    "description": "µcad: New open source programming language that can generate 2D sketches and 3D",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-24T19:06:20.199455"
+  }
+]

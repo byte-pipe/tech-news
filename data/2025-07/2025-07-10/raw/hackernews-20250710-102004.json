@@ -1,0 +1,272 @@
+[
+  {
+    "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
+    "url": "https://www.7-zip.org/history.txt",
+    "author": "doener",
+    "date": "2025-07-10",
+    "points": "253",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44489359"
+  },
+  {
+    "title": "A Typology of Canadianisms",
+    "url": "https://dchp.arts.ubc.ca/how-to-use",
+    "author": "gnabgib",
+    "date": "2025-07-10",
+    "points": "35",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44515101"
+  },
+  {
+    "title": "A fast 3D collision detection algorithm",
+    "url": "https://cairno.substack.com/p/improvements-to-the-separating-axis",
+    "author": "OlympicMarmoto",
+    "date": "2025-07-10",
+    "points": "172",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44510282"
+  },
+  {
+    "title": "An ambitious vision of a city built from lava",
+    "url": "https://www.cnn.com/2025/07/03/style/lava-material-architecture-venice-biennale",
+    "author": "dabinat",
+    "date": "2025-07-10",
+    "points": "5",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44492695"
+  },
+  {
+    "title": "Archaeologists unveil 3,500-year-old city in Peru",
+    "url": "https://www.bbc.co.uk/news/articles/c07dmx38kyeo",
+    "author": "neversaydie",
+    "date": "2025-07-10",
+    "points": "118",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44487451"
+  },
+  {
+    "title": "Biomni: A General-Purpose Biomedical AI Agent",
+    "url": "https://github.com/snap-stanford/Biomni",
+    "author": "GavCo",
+    "date": "2025-07-10",
+    "points": "123",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44513843"
+  },
+  {
+    "title": "Bootstrapping a side project into a profitable seven-figure business",
+    "url": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
+    "author": "jonkuipers",
+    "date": "2025-07-10",
+    "points": "788",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44495428"
+  },
+  {
+    "title": "Configuring Split Horizon DNS with Pi-Hole and Tailscale",
+    "url": "https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html",
+    "author": "gm678",
+    "date": "2025-07-10",
+    "points": "65",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44512470"
+  },
+  {
+    "title": "HyAB k-means for color quantization",
+    "url": "https://30fps.net/pages/hyab-kmeans/",
+    "author": "ibobev",
+    "date": "2025-07-10",
+    "points": "20",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44514946"
+  },
+  {
+    "title": "I Ported SAP to a 1976 CPU. It Wasn't That Slow",
+    "url": "https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md",
+    "author": "weinzierl",
+    "date": "2025-07-10",
+    "points": "127",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44487110"
+  },
+  {
+    "title": "Jank Programming Language",
+    "url": "https://jank-lang.org/",
+    "author": "akkad33",
+    "date": "2025-07-10",
+    "points": "192",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44482273"
+  },
+  {
+    "title": "Linda Yaccarino is leaving X",
+    "url": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
+    "author": "donohoe",
+    "date": "2025-07-10",
+    "points": "352",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44510731"
+  },
+  {
+    "title": "MCP-B: A Protocol for AI Browser Automation",
+    "url": "https://mcp-b.ai/",
+    "author": "bustodisgusto",
+    "date": "2025-07-10",
+    "points": "47",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44515403"
+  },
+  {
+    "title": "Making Explainable Minesweeper",
+    "url": "https://sublevelgames.github.io/blogs/2025-07-06-making-explainable-minesweeper/",
+    "author": "greentec",
+    "date": "2025-07-10",
+    "points": "17",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44480852"
+  },
+  {
+    "title": "Memory-Level Parallelism: Apple M2 vs. Apple M4",
+    "url": "https://lemire.me/blog/2025/07/09/memory-level-parallelism-apple-m2-vs-apple-m4/",
+    "author": "zdw",
+    "date": "2025-07-10",
+    "points": "25",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44514877"
+  },
+  {
+    "title": "Most RESTful APIs aren't really RESTful",
+    "url": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
+    "author": "BerislavLopac",
+    "date": "2025-07-10",
+    "points": "278",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507076"
+  },
+  {
+    "title": "Multi-Region Row Level Security in CockroachDB",
+    "url": "https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/",
+    "author": "rusticwizard",
+    "date": "2025-07-10",
+    "points": "17",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44515087"
+  },
+  {
+    "title": "Nuclear Waste Reprocessing Gains Momentum in the U.S.",
+    "url": "https://spectrum.ieee.org/nuclear-waste-reprocessing-transmutation",
+    "author": "rbanffy",
+    "date": "2025-07-10",
+    "points": "88",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44511282"
+  },
+  {
+    "title": "Phrase origin: Why do we \"call\" functions?",
+    "url": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+    "author": "todsacerdoti",
+    "date": "2025-07-10",
+    "points": "246",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44506251"
+  },
+  {
+    "title": "QRS: Epsilon Wrangling",
+    "url": "https://www.tbray.org/ongoing/When/202x/2025/07/07/Epsilon-Wrangling",
+    "author": "zdw",
+    "date": "2025-07-10",
+    "points": "10",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44514559"
+  },
+  {
+    "title": "Ruby 3.4 frozen string literals: What Rails developers need to know",
+    "url": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
+    "author": "thomas_witt",
+    "date": "2025-07-10",
+    "points": "197",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44479302"
+  },
+  {
+    "title": "Show HN: FlopperZiro – A DIY open-source Flipper Zero clone",
+    "url": "https://github.com/lraton/FlopperZiro",
+    "author": "iraton",
+    "date": "2025-07-10",
+    "points": "156",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44512763"
+  },
+  {
+    "title": "Show HN: MCP server for searching and downloading documents from Anna's Archive",
+    "url": "https://github.com/iosifache/annas-mcp",
+    "author": "iosifache",
+    "date": "2025-07-10",
+    "points": "40",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44514753"
+  },
+  {
+    "title": "Show HN: Petrichor – a free, open-source, offline music player for macOS",
+    "url": "https://github.com/kushalpandya/Petrichor",
+    "author": "kushalpandya",
+    "date": "2025-07-10",
+    "points": "12",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44515266"
+  },
+  {
+    "title": "The most otherworldly, mysterious forms of lightning on Earth",
+    "url": "https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms",
+    "author": "Anon84",
+    "date": "2025-07-10",
+    "points": "48",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44480363"
+  },
+  {
+    "title": "Tree Borrows",
+    "url": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html",
+    "author": "zdw",
+    "date": "2025-07-10",
+    "points": "391",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44510600"
+  },
+  {
+    "title": "Understand CPU Branch Instructions Better",
+    "url": "https://chrisfeilbach.com/2025/07/05/understand-cpu-branch-instructions-better/",
+    "author": "mfiguiere",
+    "date": "2025-07-10",
+    "points": "24",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44481627"
+  },
+  {
+    "title": "White Noise – secure and private messenger",
+    "url": "https://www.whitenoise.chat/",
+    "author": "onhacker",
+    "date": "2025-07-10",
+    "points": "24",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44515023"
+  },
+  {
+    "title": "Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left",
+    "url": "https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443",
+    "author": "gabiteodoru",
+    "date": "2025-07-10",
+    "points": "172",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44498766"
+  },
+  {
+    "title": "Would You Like an IDOR With That? Leaking 64m McDonald's Job Applications",
+    "url": "https://ian.sh/mcdonalds",
+    "author": "samwcurry",
+    "date": "2025-07-10",
+    "points": "39",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44513940"
+  }
+]

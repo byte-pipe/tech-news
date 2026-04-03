@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Cross-Site Request Forgery",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "browsers, security, web",
+    "url": "https://words.filippo.io/csrf/",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Emacs 30.2 is here",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "emacs, release",
+    "url": "https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Enforce Proper direnv Setup",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://joeyates.info/posts/enforce-proper-direnv-setup/",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Fun with finite state transducers",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "compsci, rust",
+    "url": "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "How to rig elections",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "video, security, visualization",
+    "url": "https://media.ccc.de/v/why2025-218-how-to-rig-elections",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Jujutsu with Radicle",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://radicle.xyz/2025/08/14/jujutsu-with-radicle",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "LazyLog: A New Shared Log Abstraction for Low-Latency Applications",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "pdf, databases, distributed",
+    "url": "https://ramalagappan.github.io/pdfs/papers/lazylog.pdf",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Mixbox - Natural Color Mixing Based on Real Pigments (2021)",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "art, graphics",
+    "url": "https://scrtwpns.com/mixbox/",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Modifying Other People's Software",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "show, vcs",
+    "url": "https://natkr.com/2025-08-14-modifying-other-peoples-software/",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "NGINX Introduces Native Support for ACME Protocol",
+    "author": "",
+    "score": "32",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://blog.nginx.org/blog/native-support-for-acme-protocol",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "NaN-Propagation: A Novel Method for Sparsity Detection in Black-Box Computational Functions",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "math",
+    "url": "https://arxiv.org/abs/2507.23186",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Optimizing Your Debian 13 Desktop",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://teejeetech.com/2025/08/14/debian_13_tips/",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Org-social is a decentralized social network that runs on an Org Mode",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "emacs",
+    "url": "https://github.com/tanrax/org-social",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Placing Arguments",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "compilers, plt, rust",
+    "url": "https://blog.yoshuawuyts.com/placing-arguments/",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Plan 9 Desktop Guide",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "historical, osdev",
+    "url": "https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Snooping On Slow Builds (Using Syscalls)",
+    "author": "",
+    "score": "63",
+    "comments": "0",
+    "tags": "compilers, performance, programming",
+    "url": "https://danielchasehooper.com/posts/syscall-build-snooping/",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Study: Social media probably can’t be fixed",
+    "author": "",
+    "score": "39",
+    "comments": "0",
+    "tags": "distributed, science",
+    "url": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Syncing with Postgres: Logical Replication vs. ETL",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://www.paradedb.com/blog/etl_vs_logical_replication",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Taming the Beast: Comparing Jsonnet, Dhall, Cue",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://pv.wtf/posts/taming-the-beast",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "We Rewrote the Ghostty GTK Application",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://mitchellh.com/writing/ghostty-gtk-rewrite",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Why I chose OCaml as my primary language",
+    "author": "",
+    "score": "87",
+    "comments": "0",
+    "tags": "ml, plt, programming",
+    "url": "https://xvw.lol/en/articles/why-ocaml.html",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Why LLMs Can't Really Build Software",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://zed.dev/blog/why-llms-cant-build-software",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "nixidy: Kubernetes GitOps with nix and Argo CD",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "show, devops, nix",
+    "url": "https://nixidy.dev",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "pyx: a Python-native package registry, now in Beta",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://astral.sh/blog/introducing-pyx",
+    "date": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "what is the go proxy even doing?",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing",
+    "date": "2025-08-14",
+    "description": ""
+  }
+]

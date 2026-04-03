@@ -1,0 +1,252 @@
+[
+  {
+    "title": "#[derive(Clone)] is broken",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://rgbcu.be/blog/derive-broken/",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "AI Hallucination Cases Database",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "law, vibecoding",
+    "url": "https://www.damiencharlotin.com/hallucinations/",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
+    "author": "",
+    "score": "109",
+    "comments": "0",
+    "tags": "programming, vibecoding",
+    "url": "https://www.holovaty.com/writing/chatgpt-fake-feature/",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "All Programming Languages are Fast",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "clojure, plt",
+    "url": "https://orgpad.info/blog/all-programming-langs-are-fast",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "Announcing FOKS, the Federated Open Key Service",
+    "author": "",
+    "score": "27",
+    "comments": "0",
+    "tags": "cryptography",
+    "url": "https://blog.foks.pub/posts/introducing/",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "C3 0.7.3 - Small improvements",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "c, compilers, programming",
+    "url": "https://c3-lang.org/blog/c3-0-7-3-small-improvements/",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "CVE-2025-48384: Breaking git with a carriage return and cloning RCE",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "security, vcs",
+    "url": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "Customize your keyboard shortcuts in Chrome with a Chrome extension",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "show, browsers, vim",
+    "url": "https://taupiqueur.github.io/chrome-shortcuts",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "Deterministic Simulation Testing in Rust: A Theater Of State Machines",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "databases, distributed, rust, testing",
+    "url": "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "How I build software quickly",
+    "author": "",
+    "score": "54",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://evanhahn.com/how-i-build-software-quickly/",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "How I ensure every Daily Q-less puzzle is solvable",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "games",
+    "url": "https://www.damiensnyder.com/blog/qless-solver/",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "How Janet's PEG module works",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "lisp",
+    "url": "https://bakpakin.com/writing/how-janets-peg-works.html",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "IBM Power11 hits the market this month",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://www.talospace.com/2025/07/power11-hits-market-this-month.html",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "In Praise of the Contrarian Stack",
+    "author": "",
+    "score": "84",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://hackers.pub/@hongminhee/2025/contrarian-stack/en",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "Multiple vulnerabilities fixed in Git",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "security, vcs",
+    "url": "https://www.openwall.com/lists/oss-security/2025/07/08/4",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "Stop putting nix setup in your checked-in .envrc files",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "nix, practices",
+    "url": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "The Future of Forums is Lies, I Guess",
+    "author": "",
+    "score": "148",
+    "comments": "0",
+    "tags": "culture",
+    "url": "https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "The case against which-key: a polemic",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "emacs",
+    "url": "https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "Two weeks of wayback",
+    "author": "",
+    "score": "46",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://ariadne.space/2025/07/07/two-weeks-of-wayback.html",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "WebAssembly: Yes, but for What?",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "wasm",
+    "url": "https://queue.acm.org/detail.cfm?id=3746171",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "distributed, linux",
+    "url": "https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "You Should Run a Certificate Transparency Log",
+    "author": "",
+    "score": "32",
+    "comments": "0",
+    "tags": "cryptography, security",
+    "url": "https://words.filippo.io/run-sunlight/",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md",
+    "date": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "systemd has been a complete, utter, unmitigated success",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
+    "date": "2025-07-08",
+    "description": ""
+  }
+]

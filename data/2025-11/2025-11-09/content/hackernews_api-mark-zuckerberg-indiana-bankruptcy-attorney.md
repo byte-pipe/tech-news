@@ -1,0 +1,18 @@
+---
+title: Mark Zuckerberg | Indiana Bankruptcy Attorney
+url: https://iammarkzuckerberg.com/
+site_name: hackernews_api
+fetched_at: '2025-11-09T19:09:37.700438'
+original_url: https://iammarkzuckerberg.com/
+author: jb1991
+date: '2025-11-09'
+description: Indianapolis Bankruptcy Attorney Mark Zuckerberg shares the same name as Facebook founder Mark Zuckerberg.
+tags:
+- hackernews
+- trending
+---
+
+# Welcome to iammarkzuckerg.com
+
+No, notTHATMark Zuckerberg-this one's busy helping Hoosiers, not launching social networks.Relax, you haven't accidentally logged into Facebook or the Metaverse. You're on the site ofMark S. Zuckerberg, Indiana's original bearer of the name, proudbankruptcy attorney, and frequent recipient of confused emails from people seeking tech support or handouts of money.What I Really Do:Help people obtain a fresh financial start (no passwords required)Offer dependable, human-involved advice (my artificial intelligence is powered by coffee)Answer local legal questions, not privacy scandalsReal Zuckerberg Facts:Shares a name, not fortune, with the Facebook founderGets mistaken daily for a tech billionaireHas written zero social media apps, but plenty of court briefsFun Fact:In Indiana, saying "I'm Mark Zuckerberg" gets more laughs than likes. But if you need trustworthy bankruptcy help, you're in exactly the right place!
+Click around, get to know your (non-billionaire) local Mark, and remember: No login required.### Click Here to See How OtherWebsites Have Reacted to This### Interesting Things That Have Happened to Me Because My Name is Mark ZuckerbergI was sued by the state of Washington due to mistaken Identity.They thought I was the founder of FaceBook who was accused of endangering an adult in need of services. (click to see full document)My personal Facebook account has been disabled five times and my business account four times because Facebook believes I am impersonating a celebrity or using a fake name (click to see full document)My FaceBook account is constantly being hacked, and I am asked to constantly reset my password multiple times a day. (click to see full document)I must turn off my phone at night to avoid the flood of notifications I receive.I was forced to provide multiple forms of identification (birth certificate, drivers license, credit card) in order to open my orginal Facebook account and again each time my account is disabled. Far beyond the norm.When a Facebook scam promised money from "Mark Zuckerberg" I was inundated with calls and emails from strangers, receiving phone calls at all hours of the night.I receive over 100+ friend requests daily from people confusing me with the "other" Mark Zuckerberg.I continually receive packages and letters containing complaints, suggestions, or demands for how to "improve Facebook"I receive phone calls at my office every day from angry people demanding tech support, or help with Facebook from resets to remove photos to locked accounts.I was removed from Nextdoor app for using a fake name (click to see full document)I routinely receive death threats and harassment on the Messenger app directed to the "other" Mark Zuckerberg (click to see full document)I get Venmo payment requests and money solicitations from total strangers (click to see full document)For a complete list of things that have happened to Mark Zuckerbergclick hereLike I said, I don't wish Mark E. Zuckerberg any ill will at all. I hope the best for him, but let me tell you this: I will rule the search for "Mark Zuckerberg bankruptcy". And if he does fall upon difficult financial times, and happens to be in Indiana, I will gladly handle his case in honor of our eponymy.

@@ -1,0 +1,272 @@
+[
+  {
+    "title": "2025 ARRL Field Day",
+    "url": "https://www.arrl.org/field-day",
+    "author": "rookderby",
+    "date": "2025-06-30",
+    "points": "117",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44407245"
+  },
+  {
+    "title": "An Indoor Beehive in My Bedroom Wall",
+    "url": "https://www.keepingbackyardbees.com/an-indoor-beehive-zbwz1810zsau/",
+    "author": "gscott",
+    "date": "2025-06-30",
+    "points": "139",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44406178"
+  },
+  {
+    "title": "Bloom Filters by Example",
+    "url": "https://llimllib.github.io/bloomfilter-tutorial/",
+    "author": "ibobev",
+    "date": "2025-06-30",
+    "points": "50",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44412370"
+  },
+  {
+    "title": "BusyBeaver(6) Is Quite Large",
+    "url": "https://scottaaronson.blog/?p=8972",
+    "author": "bdr",
+    "date": "2025-06-30",
+    "points": "240",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44406171"
+  },
+  {
+    "title": "Community Is Motivation on Tap",
+    "url": "https://alanwu.xyz/posts/community/",
+    "author": "lunw",
+    "date": "2025-06-30",
+    "points": "92",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44373562"
+  },
+  {
+    "title": "Engineered Addictions",
+    "url": "https://masonyarbrough.substack.com/p/engineered-addictions",
+    "author": "echollama",
+    "date": "2025-06-30",
+    "points": "592",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44405057"
+  },
+  {
+    "title": "I made my VM think it has a CPU fan",
+    "url": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
+    "author": "todsacerdoti",
+    "date": "2025-06-30",
+    "points": "79",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44413185"
+  },
+  {
+    "title": "Implementing fast TCP fingerprinting with eBPF",
+    "url": "https://halb.it/posts/ebpf-fingerprinting-1/",
+    "author": "halb",
+    "date": "2025-06-30",
+    "points": "15",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44412080"
+  },
+  {
+    "title": "Improving River Simulation",
+    "url": "https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html",
+    "author": "Hooke",
+    "date": "2025-06-30",
+    "points": "42",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44382419"
+  },
+  {
+    "title": "Is being bilingual good for your brain?",
+    "url": "https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain",
+    "author": "Anon84",
+    "date": "2025-06-30",
+    "points": "117",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44406140"
+  },
+  {
+    "title": "JavaScript Trademark Update",
+    "url": "https://deno.com/blog/deno-v-oracle4",
+    "author": "thebeardisred",
+    "date": "2025-06-30",
+    "points": "806",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44407139"
+  },
+  {
+    "title": "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
+    "url": "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1",
+    "author": "samaysharma",
+    "date": "2025-06-30",
+    "points": "154",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44407058"
+  },
+  {
+    "title": "MCP: An (Accidentally) Universal Plugin System",
+    "url": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
+    "author": "Stwerner",
+    "date": "2025-06-30",
+    "points": "673",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44404905"
+  },
+  {
+    "title": "Magnetic Tape Storage Technology: usage, history, and future outlook",
+    "url": "https://dl.acm.org/doi/10.1145/3708997",
+    "author": "matt_d",
+    "date": "2025-06-30",
+    "points": "25",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44410822"
+  },
+  {
+    "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
+    "url": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
+    "author": "dotcoma",
+    "date": "2025-06-30",
+    "points": "423",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44411069"
+  },
+  {
+    "title": "Performance Debugging with LLVM-mca: Simulating the CPU",
+    "url": "https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/",
+    "author": "signa11",
+    "date": "2025-06-30",
+    "points": "9",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44413083"
+  },
+  {
+    "title": "Schizophrenia is the price we pay for minds poised near the edge of a cliff",
+    "url": "https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay",
+    "author": "Anon84",
+    "date": "2025-06-30",
+    "points": "130",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44408286"
+  },
+  {
+    "title": "Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log",
+    "url": "https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html",
+    "author": "benbreen",
+    "date": "2025-06-30",
+    "points": "3",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44382356"
+  },
+  {
+    "title": "Sequence and first differences together list all positive numbers exactly once",
+    "url": "https://oeis.org/A005228",
+    "author": "andersource",
+    "date": "2025-06-30",
+    "points": "45",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44375075"
+  },
+  {
+    "title": "Show HN: A different kind of AI Video generation",
+    "url": "https://news.ycombinator.com/item?id=44383086",
+    "author": "fcpguru",
+    "date": "2025-06-30",
+    "points": "24",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44383086"
+  },
+  {
+    "title": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
+    "url": "https://github.com/octelium/octelium",
+    "author": "geoctl",
+    "date": "2025-06-30",
+    "points": "89",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44412207"
+  },
+  {
+    "title": "Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow",
+    "url": "https://github.com/Miladxsar23/smartstepper",
+    "author": "milad_shirian",
+    "date": "2025-06-30",
+    "points": "6",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44413184"
+  },
+  {
+    "title": "Solving `Passport Application` with Haskell",
+    "url": "https://jameshaydon.github.io/passport/",
+    "author": "jameshh",
+    "date": "2025-06-30",
+    "points": "231",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44408872"
+  },
+  {
+    "title": "The Death of the Middle-Class Musician",
+    "url": "https://thewalrus.ca/the-death-of-the-middle-class-musician/",
+    "author": "pseudolus",
+    "date": "2025-06-30",
+    "points": "193",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44408552"
+  },
+  {
+    "title": "The Unsustainability of Moore's Law",
+    "url": "https://bzolang.blog/p/the-unsustainability-of-moores-law",
+    "author": "shadyboi",
+    "date": "2025-06-30",
+    "points": "87",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44410900"
+  },
+  {
+    "title": "Using the Internet without IPv4 connectivity",
+    "url": "https://jamesmcm.github.io/blog/no-ipv4/",
+    "author": "jmillikin",
+    "date": "2025-06-30",
+    "points": "174",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44411273"
+  },
+  {
+    "title": "We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)",
+    "url": "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/",
+    "author": "AlexeyBrin",
+    "date": "2025-06-30",
+    "points": "279",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44404164"
+  },
+  {
+    "title": "What LLMs Know About Their Users",
+    "url": "https://www.schneier.com/",
+    "author": "voxleone",
+    "date": "2025-06-30",
+    "points": "12",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44380655"
+  },
+  {
+    "title": "What UI first distinguished radio buttons from checkboxes with circles/squares?",
+    "url": "https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar",
+    "author": "azeemba",
+    "date": "2025-06-30",
+    "points": "42",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44386670"
+  },
+  {
+    "title": "YouTube: Robotic translation annoys users and cannot be turned off",
+    "url": "https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html",
+    "author": "doener",
+    "date": "2025-06-30",
+    "points": "11",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44413463"
+  }
+]

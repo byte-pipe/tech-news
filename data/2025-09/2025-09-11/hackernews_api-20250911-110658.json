@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A desktop environment without graphics (tmux-like)",
+    "url": "https://github.com/Julien-cpsn/desktop-tui",
+    "author": "mustaphah",
+    "date": "2025-09-08",
+    "score": 96,
+    "comments": 29,
+    "id": 45167295,
+    "discussion_url": "https://news.ycombinator.com/item?id=45167295",
+    "description": "A desktop environment without graphics (tmux-like)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789963"
+  },
+  {
+    "title": "A love letter to the CSV format (2024)",
+    "url": "https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/",
+    "author": "jordigh",
+    "date": "2025-09-10",
+    "score": 98,
+    "comments": 107,
+    "id": 45195267,
+    "discussion_url": "https://news.ycombinator.com/item?id=45195267",
+    "description": "A love letter to the CSV format (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790072"
+  },
+  {
+    "title": "All clickwheel iPod games have now been preserved for posterity",
+    "url": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/",
+    "author": "CharlesW",
+    "date": "2025-09-08",
+    "score": 244,
+    "comments": 61,
+    "id": 45171733,
+    "discussion_url": "https://news.ycombinator.com/item?id=45171733",
+    "description": "All clickwheel iPod games have now been preserved for posterity",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790007"
+  },
+  {
+    "title": "Charlie Kirk killed at event in Utah",
+    "url": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437",
+    "author": "david927",
+    "date": "2025-09-10",
+    "score": 877,
+    "comments": 2211,
+    "id": 45202200,
+    "discussion_url": "https://news.ycombinator.com/item?id=45202200",
+    "description": "Charlie Kirk killed at event in Utah",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790031"
+  },
+  {
+    "title": "ChatGPT Developer Mode: Full MCP client access",
+    "url": "https://platform.openai.com/docs/guides/developer-mode",
+    "author": "meetpateltech",
+    "date": "2025-09-10",
+    "score": 454,
+    "comments": 246,
+    "id": 45199713,
+    "discussion_url": "https://news.ycombinator.com/item?id=45199713",
+    "description": "ChatGPT Developer Mode: Full MCP client access",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789935"
+  },
+  {
+    "title": "Clojure's Solutions to the Expression Problem",
+    "url": "https://www.infoq.com/presentations/Clojure-Expression-Problem/",
+    "author": "adityaathalye",
+    "date": "2025-09-07",
+    "score": 134,
+    "comments": 14,
+    "id": 45161410,
+    "discussion_url": "https://news.ycombinator.com/item?id=45161410",
+    "description": "Clojure's Solutions to the Expression Problem",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789887"
+  },
+  {
+    "title": "Court rejects Verizon claim that selling location data without consent is legal",
+    "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
+    "author": "nobody9999",
+    "date": "2025-09-11",
+    "score": 437,
+    "comments": 44,
+    "id": 45206567,
+    "discussion_url": "https://news.ycombinator.com/item?id=45206567",
+    "description": "Court rejects Verizon claim that selling location data without consent is legal",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789949"
+  },
+  {
+    "title": "DOOMscrolling: The Game",
+    "url": "https://ironicsans.ghost.io/doomscrolling-the-game/",
+    "author": "jfil",
+    "date": "2025-09-10",
+    "score": 298,
+    "comments": 70,
+    "id": 45205232,
+    "discussion_url": "https://news.ycombinator.com/item?id=45205232",
+    "description": "DOOMscrolling: The Game",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789849"
+  },
+  {
+    "title": "Defeating Nondeterminism in LLM Inference",
+    "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
+    "author": "jxmorris12",
+    "date": "2025-09-10",
+    "score": 262,
+    "comments": 111,
+    "id": 45200925,
+    "discussion_url": "https://news.ycombinator.com/item?id=45200925",
+    "description": "Defeating Nondeterminism in LLM Inference",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789832"
+  },
+  {
+    "title": "Germany is not supporting ChatControl – blocking minority secured",
+    "url": "https://digitalcourage.social/@echo_pbreyer/115184350819592476",
+    "author": "xyzal",
+    "date": "2025-09-11",
+    "score": 489,
+    "comments": 115,
+    "id": 45209366,
+    "discussion_url": "https://news.ycombinator.com/item?id=45209366",
+    "description": "Germany is not supporting ChatControl – blocking minority secured",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789854"
+  },
+  {
+    "title": "I didn't bring my son to a museum to look at screens",
+    "url": "https://sethpurcell.com/writing/screens-in-museums/",
+    "author": "arch_deluxe",
+    "date": "2025-09-10",
+    "score": 1015,
+    "comments": 334,
+    "id": 45199931,
+    "discussion_url": "https://news.ycombinator.com/item?id=45199931",
+    "description": "I didn't bring my son to a museum to look at screens",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789911"
+  },
+  {
+    "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
+    "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
+    "author": "vuciv",
+    "date": "2025-09-10",
+    "score": 829,
+    "comments": 176,
+    "id": 45192655,
+    "discussion_url": "https://news.ycombinator.com/item?id=45192655",
+    "description": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790003"
+  },
+  {
+    "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
+    "url": "https://jiratui.sh/",
+    "author": "gjvc",
+    "date": "2025-09-10",
+    "score": 250,
+    "comments": 63,
+    "id": 45198481,
+    "discussion_url": "https://news.ycombinator.com/item?id=45198481",
+    "description": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789958"
+  },
+  {
+    "title": "KDE launches its own distribution",
+    "url": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
+    "author": "Bogdanp",
+    "date": "2025-09-10",
+    "score": 523,
+    "comments": 311,
+    "id": 45204393,
+    "discussion_url": "https://news.ycombinator.com/item?id=45204393",
+    "description": "KDE launches its own distribution",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789866"
+  },
+  {
+    "title": "Kerberoasting",
+    "url": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
+    "author": "feross",
+    "date": "2025-09-10",
+    "score": 179,
+    "comments": 61,
+    "id": 45196437,
+    "discussion_url": "https://news.ycombinator.com/item?id=45196437",
+    "description": "Kerberoasting",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789916"
+  },
+  {
+    "title": "Knowledge and memory",
+    "url": "https://www.robinsloan.com/lab/knowledge-and-memory/",
+    "author": "zdw",
+    "date": "2025-09-07",
+    "score": 96,
+    "comments": 47,
+    "id": 45154088,
+    "discussion_url": "https://news.ycombinator.com/item?id=45154088",
+    "description": "Knowledge and memory",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790081"
+  },
+  {
+    "title": "OrioleDB Patent: now freely available to the Postgres community",
+    "url": "https://supabase.com/blog/orioledb-patent-free",
+    "author": "tosh",
+    "date": "2025-09-10",
+    "score": 388,
+    "comments": 132,
+    "id": 45196173,
+    "discussion_url": "https://news.ycombinator.com/item?id=45196173",
+    "description": "OrioleDB Patent: now freely available to the Postgres community",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790021"
+  },
+  {
+    "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
+    "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
+    "author": "robtherobber",
+    "date": "2025-09-10",
+    "score": 812,
+    "comments": 889,
+    "id": 45195520,
+    "discussion_url": "https://news.ycombinator.com/item?id=45195520",
+    "description": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789871"
+  },
+  {
+    "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
+    "url": "https://arxiv.org/abs/2508.05004",
+    "author": "lawrenceyan",
+    "date": "2025-09-10",
+    "score": 115,
+    "comments": 61,
+    "id": 45192194,
+    "discussion_url": "https://news.ycombinator.com/item?id=45192194",
+    "description": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790076"
+  },
+  {
+    "title": "Semantic Line Breaks (2017)",
+    "url": "https://sembr.org",
+    "author": "Bogdanp",
+    "date": "2025-09-07",
+    "score": 89,
+    "comments": 57,
+    "id": 45157505,
+    "discussion_url": "https://news.ycombinator.com/item?id=45157505",
+    "description": "Semantic Line Breaks (2017)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789967"
+  },
+  {
+    "title": "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
+    "url": "https://github.com/juhovh/tailguard",
+    "author": "juhovh",
+    "date": "2025-09-10",
+    "score": 137,
+    "comments": 26,
+    "id": 45192963,
+    "discussion_url": "https://news.ycombinator.com/item?id=45192963",
+    "description": "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789921"
+  },
+  {
+    "title": "Show HN: Term.everything – Run any GUI app in the terminal",
+    "url": "https://github.com/mmulet/term.everything",
+    "author": "mmulet",
+    "date": "2025-09-09",
+    "score": 914,
+    "comments": 126,
+    "id": 45181535,
+    "discussion_url": "https://news.ycombinator.com/item?id=45181535",
+    "description": "Show HN: Term.everything – Run any GUI app in the terminal",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789901"
+  },
+  {
+    "title": "Some thoughts on personal Git hosting",
+    "url": "https://shkspr.mobi/blog/2025/09/some-thoughts-on-personal-git-hosting/",
+    "author": "ColinWright",
+    "date": "2025-09-07",
+    "score": 92,
+    "comments": 87,
+    "id": 45157425,
+    "discussion_url": "https://news.ycombinator.com/item?id=45157425",
+    "description": "Some thoughts on personal Git hosting",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790026"
+  },
+  {
+    "title": "Tarsnap is cozy",
+    "url": "https://til.andrew-quinn.me/posts/tarsnap-is-cozy/",
+    "author": "hiAndrewQuinn",
+    "date": "2025-09-10",
+    "score": 120,
+    "comments": 77,
+    "id": 45196568,
+    "discussion_url": "https://news.ycombinator.com/item?id=45196568",
+    "description": "Tarsnap is cozy",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789980"
+  },
+  {
+    "title": "The HackberryPi CM5 handheld computer",
+    "url": "https://github.com/ZitaoTech/HackberryPiCM5",
+    "author": "kristianpaul",
+    "date": "2025-09-08",
+    "score": 210,
+    "comments": 73,
+    "id": 45172058,
+    "discussion_url": "https://news.ycombinator.com/item?id=45172058",
+    "description": "The HackberryPi CM5 handheld computer",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789985"
+  },
+  {
+    "title": "Things you can do with a debugger but not with print debugging",
+    "url": "https://mahesh-hegde.github.io/posts/what_debugger_can/",
+    "author": "never_inline",
+    "date": "2025-09-07",
+    "score": 234,
+    "comments": 209,
+    "id": 45156414,
+    "discussion_url": "https://news.ycombinator.com/item?id=45156414",
+    "description": "Things you can do with a debugger but not with print debugging",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790085"
+  },
+  {
+    "title": "We can’t circumvent the work needed to train our minds",
+    "url": "https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/",
+    "author": "maksimur",
+    "date": "2025-09-10",
+    "score": 358,
+    "comments": 160,
+    "id": 45198420,
+    "discussion_url": "https://news.ycombinator.com/item?id=45198420",
+    "description": "We can’t circumvent the work needed to train our minds",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790067"
+  },
+  {
+    "title": "Zoox robotaxi launches in Las Vegas",
+    "url": "https://zoox.com/journal/las-vegas",
+    "author": "krschultz",
+    "date": "2025-09-10",
+    "score": 174,
+    "comments": 221,
+    "id": 45199031,
+    "discussion_url": "https://news.ycombinator.com/item?id=45199031",
+    "description": "Zoox robotaxi launches in Las Vegas",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790040"
+  },
+  {
+    "title": "iPhone Air",
+    "url": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+    "author": "excerionsforte",
+    "date": "2025-09-09",
+    "score": 877,
+    "comments": 1847,
+    "id": 45186015,
+    "discussion_url": "https://news.ycombinator.com/item?id=45186015",
+    "description": "iPhone Air",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.790063"
+  },
+  {
+    "title": "“No Tax on Tips” Includes Digital Creators, Too",
+    "url": "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/",
+    "author": "aspenmayer",
+    "date": "2025-09-10",
+    "score": 137,
+    "comments": 220,
+    "id": 45200024,
+    "discussion_url": "https://news.ycombinator.com/item?id=45200024",
+    "description": "“No Tax on Tips” Includes Digital Creators, Too",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-09-11T11:06:58.789839"
+  }
+]

@@ -1,0 +1,31 @@
+---
+title: It's insulting to read your AI-generated blog post | pablog
+url: https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/
+site_name: hackernews_api
+fetched_at: '2025-10-29T11:09:28.832541'
+original_url: https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/
+author: speckx
+date: '2025-10-27'
+description: It seems so rude and careless to make me, a person with thoughts, ideas, humor, contradictions and life experience to read something spit out by the equivale...
+tags:
+- hackernews
+- trending
+---
+
+# It's insulting to read your AI-generated blog post
+
+24 Oct 2025
+
+It seems so rude and careless to make me, a person with thoughts, ideas, humor, contradictions and life experience to read something spit out by the equivalent of a lexical bingo machine because you were too lazy to write it yourself.
+
+Do you not enjoy the pride that comes with attaching your name to something you made on your own? It's great!
+
+No, don't use it to fix your grammar, or for translations, or for whatever else you think you are incapable of doing. Make the mistake. Feel embarrassed. Learn from it. Why? Because that's what makes us human!
+
+Everyone wants to help each other. And people are far kinder than you may think. By adding a sterile robo-liaison between yourself and your readers, you don't give us a chance to engage with you.
+
+Here is a secret: most people want to help you succeed. The problem is that you, yes,youare too afraid to ask for help. You think smart, capable people don't ask for help because they should know it all. Wrooooooooong. On the contrary, smart people know when to ask for help and when to give it too. They create mutually beneficial relationships with the people surrounding them.
+
+I ask you, human to human, both as beings capable of love and fear and humor and all the other great feelings we have cultivated for thousands of years: leave the AI to your quantitative tasks if you have to use it at all. Face the world with your thoughts and enrich them through real-world experience. The best thoughts are the ones that have beenfelt, anyway.
+
+1486

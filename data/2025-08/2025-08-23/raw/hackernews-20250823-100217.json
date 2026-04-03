@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Build Log: Macintosh Classic",
+    "url": "https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic",
+    "author": "speckx",
+    "date": "2025-08-23",
+    "points": "37",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44984958"
+  },
+  {
+    "title": "Closing the Nix gap: From environments to packaged applications for rust",
+    "url": "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/",
+    "author": "domenkozar",
+    "date": "2025-08-23",
+    "points": "42",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44986251"
+  },
+  {
+    "title": "Coinbase CEO explains why he fired engineers who didn't try AI immediately",
+    "url": "https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/",
+    "author": "ed1024",
+    "date": "2025-08-23",
+    "points": "34",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44991082"
+  },
+  {
+    "title": "Control shopping cart wheels with your phone (2021)",
+    "url": "https://www.begaydocrime.com/",
+    "author": "mystraline",
+    "date": "2025-08-23",
+    "points": "266",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44980004"
+  },
+  {
+    "title": "Ejabberd 25.08",
+    "url": "https://www.process-one.net/blog/ejabberd-25-08/",
+    "author": "neustradamus",
+    "date": "2025-08-23",
+    "points": "31",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44989373"
+  },
+  {
+    "title": "Everything is correlated (2014–23)",
+    "url": "https://gwern.net/everything",
+    "author": "gmays",
+    "date": "2025-08-23",
+    "points": "237",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44980339"
+  },
+  {
+    "title": "FFmpeg 8.0",
+    "url": "https://ffmpeg.org/index.html#pr8.0",
+    "author": "gyan",
+    "date": "2025-08-23",
+    "points": "667",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44985730"
+  },
+  {
+    "title": "From M1 MacBook to Arch Linux: A month-long experiment that became permanenent",
+    "url": "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/",
+    "author": "articsputnik",
+    "date": "2025-08-23",
+    "points": "22",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44955923"
+  },
+  {
+    "title": "Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering",
+    "url": "https://github.com/mbuhot/glyn",
+    "author": "TheWiggles",
+    "date": "2025-08-23",
+    "points": "12",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44990680"
+  },
+  {
+    "title": "It’s not wrong that \"\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F\".length == 7 (2019)",
+    "url": "https://hsivonen.fi/string-length/",
+    "author": "program",
+    "date": "2025-08-23",
+    "points": "141",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44981525"
+  },
+  {
+    "title": "LabPlot: Free, open source and cross-platform Data Visualization and Analysis",
+    "url": "https://labplot.org/",
+    "author": "turrini",
+    "date": "2025-08-23",
+    "points": "187",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44982409"
+  },
+  {
+    "title": "Launch HN: BlankBio (YC S25) - Making RNA Programmable",
+    "url": "https://news.ycombinator.com/item?id=44986809",
+    "author": "antichronology",
+    "date": "2025-08-23",
+    "points": "34",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44986809"
+  },
+  {
+    "title": "Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics",
+    "url": "https://news.ycombinator.com/item?id=44984096",
+    "author": "ogham",
+    "date": "2025-08-23",
+    "points": "33",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44984096"
+  },
+  {
+    "title": "Leaving Gmail for Mailbox.org",
+    "url": "https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/",
+    "author": "giuliomagnifico",
+    "date": "2025-08-23",
+    "points": "150",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44987380"
+  },
+  {
+    "title": "Mail Carriers Pause US Deliveries as Tariff Shift Sows Confusion",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end",
+    "author": "voxadam",
+    "date": "2025-08-23",
+    "points": "11",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44991039"
+  },
+  {
+    "title": "Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing",
+    "url": "https://arxiv.org/abs/2508.12631",
+    "author": "omarsar",
+    "date": "2025-08-23",
+    "points": "105",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44985278"
+  },
+  {
+    "title": "Nitro: A tiny but flexible init system and process supervisor",
+    "url": "https://git.vuxu.org/nitro/about/",
+    "author": "todsacerdoti",
+    "date": "2025-08-23",
+    "points": "112",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44988530"
+  },
+  {
+    "title": "Our Response to Mississippi's Age Assurance Law",
+    "url": "https://bsky.social/about/blog/08-22-2025-mississippi-hb1126",
+    "author": "Kye",
+    "date": "2025-08-23",
+    "points": "80",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44989125"
+  },
+  {
+    "title": "Should the web platform adopt XSLT 3.0?",
+    "url": "https://github.com/whatwg/html/issues/11578",
+    "author": "protomolecool",
+    "date": "2025-08-23",
+    "points": "81",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44987552"
+  },
+  {
+    "title": "Show HN: Clyp – Clipboard Manager for Linux",
+    "url": "https://github.com/murat-cileli/clyp",
+    "author": "timeoperator",
+    "date": "2025-08-23",
+    "points": "65",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44986205"
+  },
+  {
+    "title": "Show HN: JavaScript-free (X)HTML Includes",
+    "url": "https://github.com/Evidlo/xsl-website",
+    "author": "Evidlo",
+    "date": "2025-08-23",
+    "points": "23",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44988271"
+  },
+  {
+    "title": "The First Media over QUIC CDN: Cloudflare",
+    "url": "https://moq.dev/blog/first-cdn/",
+    "author": "kixelated",
+    "date": "2025-08-23",
+    "points": "134",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44987924"
+  },
+  {
+    "title": "The US Department of Agriculture Bans Support for Renewables",
+    "url": "https://insideclimatenews.org/news/19082025/usda-bans-farm-renewables-support/",
+    "author": "mooreds",
+    "date": "2025-08-23",
+    "points": "148",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44987539"
+  },
+  {
+    "title": "The issue of anti-cheat on Linux (2024)",
+    "url": "https://tulach.cc/the-issue-of-anti-cheat-on-linux/",
+    "author": "todsacerdoti",
+    "date": "2025-08-23",
+    "points": "73",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44980064"
+  },
+  {
+    "title": "Top Secret: Automatically filter sensitive information",
+    "url": "https://thoughtbot.com/blog/top-secret",
+    "author": "thunderbong",
+    "date": "2025-08-23",
+    "points": "36",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44981088"
+  },
+  {
+    "title": "Transcribe music in abc with syntax highlighting",
+    "url": "https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597",
+    "author": "jonzudell",
+    "date": "2025-08-23",
+    "points": "4",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44990798"
+  },
+  {
+    "title": "U.S. government takes 10% stake in Intel",
+    "url": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html",
+    "author": "givemeethekeys",
+    "date": "2025-08-23",
+    "points": "346",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44989773"
+  },
+  {
+    "title": "Waymo granted permit to begin testing in New York City",
+    "url": "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html",
+    "author": "achristmascarl",
+    "date": "2025-08-23",
+    "points": "468",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44986949"
+  },
+  {
+    "title": "What about using rel=\"share-url\" to expose sharing intents?",
+    "url": "https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/",
+    "author": "edent",
+    "date": "2025-08-23",
+    "points": "74",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44983364"
+  },
+  {
+    "title": "Writing Micro Compiler in OCaml (2014)",
+    "url": "http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/",
+    "author": "notagoodidea",
+    "date": "2025-08-23",
+    "points": "11",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44947484"
+  }
+]

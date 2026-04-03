@@ -1,0 +1,512 @@
+[
+  {
+    "title": "\"Vibe code hell\" has replaced \"tutorial hell\" in coding education",
+    "url": "https://blog.boot.dev/education/vibe-code-hell/",
+    "author": "wagslane",
+    "date": "2025-10-10",
+    "score": 195,
+    "comments": 92,
+    "id": 45540313,
+    "discussion_url": "https://news.ycombinator.com/item?id=45540313",
+    "description": "\"Vibe code hell\" has replaced \"tutorial hell\" in coding education",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925450"
+  },
+  {
+    "title": "A beginner's guide to deploying LLMs with AMD on Windows using PyTorch",
+    "url": "https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/",
+    "author": "beckford",
+    "date": "2025-10-06",
+    "score": 103,
+    "comments": 32,
+    "id": 45491057,
+    "discussion_url": "https://news.ycombinator.com/item?id=45491057",
+    "description": "A beginner's guide to deploying LLMs with AMD on Windows using PyTorch",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925598"
+  },
+  {
+    "title": "A built-in 'off switch' to stop persistent pain",
+    "url": "https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain",
+    "author": "gmays",
+    "date": "2025-10-09",
+    "score": 190,
+    "comments": 100,
+    "id": 45532685,
+    "discussion_url": "https://news.ycombinator.com/item?id=45532685",
+    "description": "A built-in 'off switch' to stop persistent pain",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925563"
+  },
+  {
+    "title": "A small number of samples can poison LLMs of any size",
+    "url": "https://www.anthropic.com/research/small-samples-poison",
+    "author": "meetpateltech",
+    "date": "2025-10-09",
+    "score": 1091,
+    "comments": 406,
+    "id": 45529587,
+    "discussion_url": "https://news.ycombinator.com/item?id=45529587",
+    "description": "A small number of samples can poison LLMs of any size",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925575"
+  },
+  {
+    "title": "A story about bypassing air Canada's in-flight network restrictions",
+    "url": "https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/",
+    "author": "samray",
+    "date": "2025-10-10",
+    "score": 138,
+    "comments": 106,
+    "id": 45536325,
+    "discussion_url": "https://news.ycombinator.com/item?id=45536325",
+    "description": "A story about bypassing air Canada's in-flight network restrictions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925542"
+  },
+  {
+    "title": "Boring Company cited for almost 800 environmental violations in Las Vegas",
+    "url": "https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop",
+    "author": "maxeda",
+    "date": "2025-10-10",
+    "score": 226,
+    "comments": 216,
+    "id": 45540585,
+    "discussion_url": "https://news.ycombinator.com/item?id=45540585",
+    "description": "Boring Company cited for almost 800 environmental violations in Las Vegas",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925494"
+  },
+  {
+    "title": "CPU cache-friendly data structures in Go",
+    "url": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
+    "author": "g0xA52A2A",
+    "date": "2025-10-06",
+    "score": 178,
+    "comments": 66,
+    "id": 45488201,
+    "discussion_url": "https://news.ycombinator.com/item?id=45488201",
+    "description": "CPU cache-friendly data structures in Go",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925658"
+  },
+  {
+    "title": "Datastar: Lightweight hypermedia framework for building interactive web apps",
+    "url": "https://data-star.dev/",
+    "author": "freetonik",
+    "date": "2025-10-10",
+    "score": 176,
+    "comments": 181,
+    "id": 45536618,
+    "discussion_url": "https://news.ycombinator.com/item?id=45536618",
+    "description": "Datastar: Lightweight hypermedia framework for building interactive web apps",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925649"
+  },
+  {
+    "title": "ESP32 and Termux",
+    "url": "https://blog.gavide.dev/blog/esp32-and-termux",
+    "author": "gavide",
+    "date": "2025-10-09",
+    "score": 127,
+    "comments": 45,
+    "id": 45530261,
+    "discussion_url": "https://news.ycombinator.com/item?id=45530261",
+    "description": "ESP32 and Termux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925627"
+  },
+  {
+    "title": "Embracing the parallel coding agent lifestyle",
+    "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
+    "author": "jbredeche",
+    "date": "2025-10-06",
+    "score": 159,
+    "comments": 130,
+    "id": 45489884,
+    "discussion_url": "https://news.ycombinator.com/item?id=45489884",
+    "description": "Embracing the parallel coding agent lifestyle",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925615"
+  },
+  {
+    "title": "Examples Are the Best Documentation",
+    "url": "https://rakhim.exotext.com/examples-are-the-best-documentation",
+    "author": "Bogdanp",
+    "date": "2025-10-09",
+    "score": 349,
+    "comments": 130,
+    "id": 45532090,
+    "discussion_url": "https://news.ycombinator.com/item?id=45532090",
+    "description": "Examples Are the Best Documentation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925408"
+  },
+  {
+    "title": "Hacker News Live Feed",
+    "url": "https://jerbear2008.github.io/hn-live/",
+    "author": "gregsadetsky",
+    "date": "2025-10-09",
+    "score": 236,
+    "comments": 79,
+    "id": 45531367,
+    "discussion_url": "https://news.ycombinator.com/item?id=45531367",
+    "description": "Hacker News Live Feed",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925635"
+  },
+  {
+    "title": "I Switched from Htmx to Datastar",
+    "url": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
+    "author": "ksec",
+    "date": "2025-10-10",
+    "score": 286,
+    "comments": 217,
+    "id": 45536000,
+    "discussion_url": "https://news.ycombinator.com/item?id=45536000",
+    "description": "I Switched from Htmx to Datastar",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925498"
+  },
+  {
+    "title": "Igalia, Servo, and the Sovereign Tech Fund",
+    "url": "https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html",
+    "author": "robin_reala",
+    "date": "2025-10-10",
+    "score": 286,
+    "comments": 44,
+    "id": 45538137,
+    "discussion_url": "https://news.ycombinator.com/item?id=45538137",
+    "description": "Igalia, Servo, and the Sovereign Tech Fund",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925490"
+  },
+  {
+    "title": "LLMs are mortally terrified of exceptions",
+    "url": "https://twitter.com/karpathy/status/1976077806443569355",
+    "author": "nought",
+    "date": "2025-10-09",
+    "score": 288,
+    "comments": 139,
+    "id": 45530486,
+    "discussion_url": "https://news.ycombinator.com/item?id=45530486",
+    "description": "LLMs are mortally terrified of exceptions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925534"
+  },
+  {
+    "title": "My approach to building large technical projects (2023)",
+    "url": "https://mitchellh.com/writing/building-large-technical-projects",
+    "author": "mad2021",
+    "date": "2025-10-10",
+    "score": 285,
+    "comments": 39,
+    "id": 45535202,
+    "discussion_url": "https://news.ycombinator.com/item?id=45535202",
+    "description": "My approach to building large technical projects (2023)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925513"
+  },
+  {
+    "title": "My first contribution to Linux",
+    "url": "https://vkoskiv.com/first-linux-patch/",
+    "author": "vkoskiv",
+    "date": "2025-10-06",
+    "score": 643,
+    "comments": 79,
+    "id": 45490652,
+    "discussion_url": "https://news.ycombinator.com/item?id=45490652",
+    "description": "My first contribution to Linux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925623"
+  },
+  {
+    "title": "Nobel Peace Prize 2025: María Corina Machado",
+    "url": "https://www.nobelprize.org/prizes/peace/2025/summary/",
+    "author": "pykello",
+    "date": "2025-10-10",
+    "score": 516,
+    "comments": 546,
+    "id": 45536700,
+    "discussion_url": "https://news.ycombinator.com/item?id=45536700",
+    "description": "Nobel Peace Prize 2025: María Corina Machado",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925455"
+  },
+  {
+    "title": "Notes on Switching to Helix from Vim",
+    "url": "https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/",
+    "author": "chmaynard",
+    "date": "2025-10-10",
+    "score": 178,
+    "comments": 77,
+    "id": 45539609,
+    "discussion_url": "https://news.ycombinator.com/item?id=45539609",
+    "description": "Notes on Switching to Helix from Vim",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925441"
+  },
+  {
+    "title": "Ohno Type School",
+    "url": "https://ohnotype.co/blog/ohno-type-school-a",
+    "author": "tobr",
+    "date": "2025-10-06",
+    "score": 150,
+    "comments": 54,
+    "id": 45489757,
+    "discussion_url": "https://news.ycombinator.com/item?id=45489757",
+    "description": "Ohno Type School",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925547"
+  },
+  {
+    "title": "Python 3.14 is here. How fast is it?",
+    "url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
+    "author": "pjmlp",
+    "date": "2025-10-09",
+    "score": 689,
+    "comments": 497,
+    "id": 45524702,
+    "discussion_url": "https://news.ycombinator.com/item?id=45524702",
+    "description": "Python 3.14 is here. How fast is it?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925402"
+  },
+  {
+    "title": "Ryanair flight landed at Manchester airport with six minutes of fuel left",
+    "url": "https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests",
+    "author": "mazokum",
+    "date": "2025-10-10",
+    "score": 301,
+    "comments": 266,
+    "id": 45539943,
+    "discussion_url": "https://news.ycombinator.com/item?id=45539943",
+    "description": "Ryanair flight landed at Manchester airport with six minutes of fuel left",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925464"
+  },
+  {
+    "title": "Show HN: I invented a new generative model and got accepted to ICLR",
+    "url": "https://discrete-distribution-networks.github.io/",
+    "author": "diyer22",
+    "date": "2025-10-10",
+    "score": 393,
+    "comments": 45,
+    "id": 45536694,
+    "discussion_url": "https://news.ycombinator.com/item?id=45536694",
+    "description": "Show HN: I invented a new generative model and got accepted to ICLR",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925424"
+  },
+  {
+    "title": "Show HN: I've built a tiny hand-held keyboard",
+    "url": "https://github.com/mafik/keyer",
+    "author": "mafik",
+    "date": "2025-10-09",
+    "score": 385,
+    "comments": 104,
+    "id": 45529393,
+    "discussion_url": "https://news.ycombinator.com/item?id=45529393",
+    "description": "Show HN: I've built a tiny hand-held keyboard",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925522"
+  },
+  {
+    "title": "Show HN: Open source, logical multi-master PostgreSQL replication",
+    "url": "https://github.com/pgEdge/spock",
+    "author": "pgedge_postgres",
+    "date": "2025-10-09",
+    "score": 131,
+    "comments": 56,
+    "id": 45533870,
+    "discussion_url": "https://news.ycombinator.com/item?id=45533870",
+    "description": "Show HN: Open source, logical multi-master PostgreSQL replication",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925605"
+  },
+  {
+    "title": "Subway Builder: A realistic subway simulation game",
+    "url": "https://www.subwaybuilder.com/",
+    "author": "0xbeefcab",
+    "date": "2025-10-09",
+    "score": 285,
+    "comments": 125,
+    "id": 45530744,
+    "discussion_url": "https://news.ycombinator.com/item?id=45530744",
+    "description": "Subway Builder: A realistic subway simulation game",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925571"
+  },
+  {
+    "title": "The Burrows-Wheeler Transform",
+    "url": "https://sandbox.bio/concepts/bwt",
+    "author": "g0xA52A2A",
+    "date": "2025-10-09",
+    "score": 143,
+    "comments": 32,
+    "id": 45532352,
+    "discussion_url": "https://news.ycombinator.com/item?id=45532352",
+    "description": "The Burrows-Wheeler Transform",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925641"
+  },
+  {
+    "title": "Use a separate domain for user content",
+    "url": "https://www.statichost.eu/blog/google-safe-browsing/",
+    "author": "ericselin",
+    "date": "2025-10-10",
+    "score": 140,
+    "comments": 118,
+    "id": 45538760,
+    "discussion_url": "https://news.ycombinator.com/item?id=45538760",
+    "description": "Use a separate domain for user content",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925460"
+  },
+  {
+    "title": "Using a laptop as an HDMI monitor for an SBC",
+    "url": "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/",
+    "author": "hasheddan",
+    "date": "2025-10-09",
+    "score": 152,
+    "comments": 85,
+    "id": 45527507,
+    "discussion_url": "https://news.ycombinator.com/item?id=45527507",
+    "description": "Using a laptop as an HDMI monitor for an SBC",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925631"
+  },
+  {
+    "title": "You can't build tcc from Nixpkgs if you are in the UK",
+    "url": "https://github.com/NixOS/nixpkgs/issues/444342",
+    "author": "RGBCube",
+    "date": "2025-10-10",
+    "score": 105,
+    "comments": 39,
+    "id": 45540011,
+    "discussion_url": "https://news.ycombinator.com/item?id=45540011",
+    "description": "You can't build tcc from Nixpkgs if you are in the UK",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-10T19:08:21.925477"
+  }
+]

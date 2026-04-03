@@ -1,0 +1,512 @@
+[
+  {
+    "title": "2025 ARRL Field Day",
+    "url": "https://www.arrl.org/field-day",
+    "author": "rookderby",
+    "date": "2025-06-28",
+    "score": 128,
+    "comments": 37,
+    "id": 44407245,
+    "discussion_url": "https://news.ycombinator.com/item?id=44407245",
+    "description": "2025 ARRL Field Day",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723630"
+  },
+  {
+    "title": "4-10x faster in-process pub/sub for Go",
+    "url": "https://github.com/kelindar/event",
+    "author": "kelindar",
+    "date": "2025-06-29",
+    "score": 90,
+    "comments": 16,
+    "id": 44413809,
+    "discussion_url": "https://news.ycombinator.com/item?id=44413809",
+    "description": "4-10x faster in-process pub/sub for Go",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723448"
+  },
+  {
+    "title": "America's Coming Smoke Epidemic",
+    "url": "https://www.theatlantic.com/science/archive/2025/06/wildfire-smoke-epidemic/683343/",
+    "author": "JumpCrisscross",
+    "date": "2025-06-29",
+    "score": 65,
+    "comments": 17,
+    "id": 44414700,
+    "discussion_url": "https://news.ycombinator.com/item?id=44414700",
+    "description": "America's Coming Smoke Epidemic",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723572"
+  },
+  {
+    "title": "An Indoor Beehive in My Bedroom Wall",
+    "url": "https://www.keepingbackyardbees.com/an-indoor-beehive-zbwz1810zsau/",
+    "author": "gscott",
+    "date": "2025-06-28",
+    "score": 167,
+    "comments": 88,
+    "id": 44406178,
+    "discussion_url": "https://news.ycombinator.com/item?id=44406178",
+    "description": "An Indoor Beehive in My Bedroom Wall",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723612"
+  },
+  {
+    "title": "Bloom Filters by Example",
+    "url": "https://llimllib.github.io/bloomfilter-tutorial/",
+    "author": "ibobev",
+    "date": "2025-06-29",
+    "score": 164,
+    "comments": 26,
+    "id": 44412370,
+    "discussion_url": "https://news.ycombinator.com/item?id=44412370",
+    "description": "Bloom Filters by Example",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723465"
+  },
+  {
+    "title": "BusyBeaver(6) Is Quite Large",
+    "url": "https://scottaaronson.blog/?p=8972",
+    "author": "bdr",
+    "date": "2025-06-28",
+    "score": 260,
+    "comments": 192,
+    "id": 44406171,
+    "discussion_url": "https://news.ycombinator.com/item?id=44406171",
+    "description": "BusyBeaver(6) Is Quite Large",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723585"
+  },
+  {
+    "title": "Community Is Motivation on Tap",
+    "url": "https://alanwu.xyz/posts/community/",
+    "author": "lunw",
+    "date": "2025-06-25",
+    "score": 100,
+    "comments": 42,
+    "id": 44373562,
+    "discussion_url": "https://news.ycombinator.com/item?id=44373562",
+    "description": "Community Is Motivation on Tap",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723662"
+  },
+  {
+    "title": "Error handling in Rust",
+    "url": "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html",
+    "author": "emschwartz",
+    "date": "2025-06-29",
+    "score": 69,
+    "comments": 52,
+    "id": 44416157,
+    "discussion_url": "https://news.ycombinator.com/item?id=44416157",
+    "description": "Error handling in Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723409"
+  },
+  {
+    "title": "I made my VM think it has a CPU fan",
+    "url": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
+    "author": "todsacerdoti",
+    "date": "2025-06-29",
+    "score": 364,
+    "comments": 75,
+    "id": 44413185,
+    "discussion_url": "https://news.ycombinator.com/item?id=44413185",
+    "description": "I made my VM think it has a CPU fan",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723395"
+  },
+  {
+    "title": "Implementing fast TCP fingerprinting with eBPF",
+    "url": "https://halb.it/posts/ebpf-fingerprinting-1/",
+    "author": "halb",
+    "date": "2025-06-29",
+    "score": 65,
+    "comments": 26,
+    "id": 44412080,
+    "discussion_url": "https://news.ycombinator.com/item?id=44412080",
+    "description": "Implementing fast TCP fingerprinting with eBPF",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723544"
+  },
+  {
+    "title": "Improving River Simulation",
+    "url": "https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html",
+    "author": "Hooke",
+    "date": "2025-06-25",
+    "score": 65,
+    "comments": 1,
+    "id": 44382419,
+    "discussion_url": "https://news.ycombinator.com/item?id=44382419",
+    "description": "Improving River Simulation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723581"
+  },
+  {
+    "title": "Is being bilingual good for your brain?",
+    "url": "https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain",
+    "author": "Anon84",
+    "date": "2025-06-28",
+    "score": 133,
+    "comments": 157,
+    "id": 44406140,
+    "discussion_url": "https://news.ycombinator.com/item?id=44406140",
+    "description": "Is being bilingual good for your brain?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723644"
+  },
+  {
+    "title": "JavaScript Trademark Update",
+    "url": "https://deno.com/blog/deno-v-oracle4",
+    "author": "thebeardisred",
+    "date": "2025-06-28",
+    "score": 855,
+    "comments": 319,
+    "id": 44407139,
+    "discussion_url": "https://news.ycombinator.com/item?id=44407139",
+    "description": "JavaScript Trademark Update",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723576"
+  },
+  {
+    "title": "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
+    "url": "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1",
+    "author": "samaysharma",
+    "date": "2025-06-28",
+    "score": 167,
+    "comments": 18,
+    "id": 44407058,
+    "discussion_url": "https://news.ycombinator.com/item?id=44407058",
+    "description": "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723608"
+  },
+  {
+    "title": "Loss of key US satellite data could send hurricane forecasting back 'decades'",
+    "url": "https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate",
+    "author": "trauco",
+    "date": "2025-06-29",
+    "score": 184,
+    "comments": 96,
+    "id": 44414853,
+    "discussion_url": "https://news.ycombinator.com/item?id=44414853",
+    "description": "Loss of key US satellite data could send hurricane forecasting back 'decades'",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723480"
+  },
+  {
+    "title": "MCP: An (Accidentally) Universal Plugin System",
+    "url": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
+    "author": "Stwerner",
+    "date": "2025-06-28",
+    "score": 746,
+    "comments": 332,
+    "id": 44404905,
+    "discussion_url": "https://news.ycombinator.com/item?id=44404905",
+    "description": "MCP: An (Accidentally) Universal Plugin System",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723599"
+  },
+  {
+    "title": "Many ransomware strains will abort if they detect a Russian keyboard installed (2021)",
+    "url": "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/",
+    "author": "air7",
+    "date": "2025-06-29",
+    "score": 145,
+    "comments": 87,
+    "id": 44415233,
+    "discussion_url": "https://news.ycombinator.com/item?id=44415233",
+    "description": "Many ransomware strains will abort if they detect a Russian keyboard installed (2021)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723427"
+  },
+  {
+    "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
+    "url": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
+    "author": "dotcoma",
+    "date": "2025-06-29",
+    "score": 790,
+    "comments": 503,
+    "id": 44411069,
+    "discussion_url": "https://news.ycombinator.com/item?id=44411069",
+    "description": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723522"
+  },
+  {
+    "title": "Personal care products disrupt the human oxidation field",
+    "url": "https://www.science.org/doi/10.1126/sciadv.ads7908",
+    "author": "XzetaU8",
+    "date": "2025-06-29",
+    "score": 176,
+    "comments": 125,
+    "id": 44414719,
+    "discussion_url": "https://news.ycombinator.com/item?id=44414719",
+    "description": "Personal care products disrupt the human oxidation field",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723475"
+  },
+  {
+    "title": "Schizophrenia is the price we pay for minds poised near the edge of a cliff",
+    "url": "https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay",
+    "author": "Anon84",
+    "date": "2025-06-28",
+    "score": 226,
+    "comments": 338,
+    "id": 44408286,
+    "discussion_url": "https://news.ycombinator.com/item?id=44408286",
+    "description": "Schizophrenia is the price we pay for minds poised near the edge of a cliff",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723558"
+  },
+  {
+    "title": "Sequence and first differences together list all positive numbers exactly once",
+    "url": "https://oeis.org/A005228",
+    "author": "andersource",
+    "date": "2025-06-25",
+    "score": 72,
+    "comments": 26,
+    "id": 44375075,
+    "discussion_url": "https://news.ycombinator.com/item?id=44375075",
+    "description": "Sequence and first differences together list all positive numbers exactly once",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723567"
+  },
+  {
+    "title": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
+    "url": "https://github.com/octelium/octelium",
+    "author": "geoctl",
+    "date": "2025-06-29",
+    "score": 261,
+    "comments": 100,
+    "id": 44412207,
+    "discussion_url": "https://news.ycombinator.com/item?id=44412207",
+    "description": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723432"
+  },
+  {
+    "title": "Sirius: A GPU-native SQL engine",
+    "url": "https://github.com/sirius-db/sirius",
+    "author": "qianli_cs",
+    "date": "2025-06-28",
+    "score": 134,
+    "comments": 16,
+    "id": 44404876,
+    "discussion_url": "https://news.ycombinator.com/item?id=44404876",
+    "description": "Sirius: A GPU-native SQL engine",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723653"
+  },
+  {
+    "title": "Solving `Passport Application` with Haskell",
+    "url": "https://jameshaydon.github.io/passport/",
+    "author": "jameshh",
+    "date": "2025-06-28",
+    "score": 282,
+    "comments": 111,
+    "id": 44408872,
+    "discussion_url": "https://news.ycombinator.com/item?id=44408872",
+    "description": "Solving `Passport Application` with Haskell",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723531"
+  },
+  {
+    "title": "The Death of the Middle-Class Musician",
+    "url": "https://thewalrus.ca/the-death-of-the-middle-class-musician/",
+    "author": "pseudolus",
+    "date": "2025-06-28",
+    "score": 266,
+    "comments": 599,
+    "id": 44408552,
+    "discussion_url": "https://news.ycombinator.com/item?id=44408552",
+    "description": "The Death of the Middle-Class Musician",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723603"
+  },
+  {
+    "title": "The Medley Interlisp Project: Reviving a Historical Software System [pdf]",
+    "url": "https://interlisp.org/documentation/young-ccece2025.pdf",
+    "author": "pamoroso",
+    "date": "2025-06-29",
+    "score": 71,
+    "comments": 6,
+    "id": 44413574,
+    "discussion_url": "https://news.ycombinator.com/item?id=44413574",
+    "description": "The Medley Interlisp Project: Reviving a Historical Software System [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723490"
+  },
+  {
+    "title": "The Unsustainability of Moore's Law",
+    "url": "https://bzolang.blog/p/the-unsustainability-of-moores-law",
+    "author": "shadyboi",
+    "date": "2025-06-29",
+    "score": 124,
+    "comments": 99,
+    "id": 44410900,
+    "discussion_url": "https://news.ycombinator.com/item?id=44410900",
+    "description": "The Unsustainability of Moore's Law",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723562"
+  },
+  {
+    "title": "Tools I love: mise(-en-place)",
+    "url": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
+    "author": "micvbang",
+    "date": "2025-06-29",
+    "score": 132,
+    "comments": 42,
+    "id": 44414987,
+    "discussion_url": "https://news.ycombinator.com/item?id=44414987",
+    "description": "Tools I love: mise(-en-place)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723553"
+  },
+  {
+    "title": "Using the Internet without IPv4 connectivity",
+    "url": "https://jamesmcm.github.io/blog/no-ipv4/",
+    "author": "jmillikin",
+    "date": "2025-06-29",
+    "score": 246,
+    "comments": 108,
+    "id": 44411273,
+    "discussion_url": "https://news.ycombinator.com/item?id=44411273",
+    "description": "Using the Internet without IPv4 connectivity",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723460"
+  },
+  {
+    "title": "We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)",
+    "url": "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/",
+    "author": "AlexeyBrin",
+    "date": "2025-06-28",
+    "score": 295,
+    "comments": 27,
+    "id": 44404164,
+    "discussion_url": "https://news.ycombinator.com/item?id=44404164",
+    "description": "We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-29T23:06:27.723670"
+  }
+]

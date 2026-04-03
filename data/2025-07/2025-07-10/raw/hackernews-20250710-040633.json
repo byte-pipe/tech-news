@@ -1,0 +1,272 @@
+[
+  {
+    "title": "\"Just Fucking Ship IT\" (Or: On Vibecoding)",
+    "url": "https://coal.sh/blog/pandu_bad",
+    "author": "coal320",
+    "date": "2025-07-10",
+    "points": "25",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44512368"
+  },
+  {
+    "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
+    "url": "https://www.7-zip.org/history.txt",
+    "author": "doener",
+    "date": "2025-07-10",
+    "points": "206",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44489359"
+  },
+  {
+    "title": "A Emoji Reverse Polish Notation Calculator Written in COBOL",
+    "url": "https://github.com/ghuntley/cobol-emoji-rpn-calculator",
+    "author": "ghuntley",
+    "date": "2025-07-10",
+    "points": "18",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44476848"
+  },
+  {
+    "title": "A fast 3D collision detection algorithm",
+    "url": "https://cairno.substack.com/p/improvements-to-the-separating-axis",
+    "author": "OlympicMarmoto",
+    "date": "2025-07-10",
+    "points": "88",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44510282"
+  },
+  {
+    "title": "Archaeologists unveil 3,500-year-old city in Peru",
+    "url": "https://www.bbc.co.uk/news/articles/c07dmx38kyeo",
+    "author": "neversaydie",
+    "date": "2025-07-10",
+    "points": "45",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44487451"
+  },
+  {
+    "title": "Astro is a return to the fundamentals of the web",
+    "url": "https://websmith.studio/blog/astro-is-a-developers-dream/",
+    "author": "pumbaa",
+    "date": "2025-07-10",
+    "points": "232",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507854"
+  },
+  {
+    "title": "Bootstrapping a side project into a profitable seven-figure business",
+    "url": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
+    "author": "jonkuipers",
+    "date": "2025-07-10",
+    "points": "708",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44495428"
+  },
+  {
+    "title": "Breaking Git with a carriage return and cloning RCE",
+    "url": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
+    "author": "dgl",
+    "date": "2025-07-10",
+    "points": "353",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44502330"
+  },
+  {
+    "title": "ESIM Security",
+    "url": "https://security-explorations.com/esim-security.html",
+    "author": "todsacerdoti",
+    "date": "2025-07-10",
+    "points": "98",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507830"
+  },
+  {
+    "title": "Evolution Mail Users Easily Trackable",
+    "url": "https://www.grepular.com/Evolution_Mail_Users_Easily_Trackable",
+    "author": "mike-cardwell",
+    "date": "2025-07-10",
+    "points": "3",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44512684"
+  },
+  {
+    "title": "Frame of preference A history of Mac settings, 1984–2004",
+    "url": "https://aresluna.org/frame-of-preference/",
+    "author": "K7PJP",
+    "date": "2025-07-10",
+    "points": "169",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44505171"
+  },
+  {
+    "title": "Galiliean-invariant cosmological hydrodynamical simulations on a moving mesh",
+    "url": "https://wwwmpa.mpa-garching.mpg.de/~volker/arepo/",
+    "author": "gone35",
+    "date": "2025-07-10",
+    "points": "10",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44490848"
+  },
+  {
+    "title": "Helm local code execution via a malicious chart",
+    "url": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
+    "author": "irke882",
+    "date": "2025-07-10",
+    "points": "143",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44506696"
+  },
+  {
+    "title": "I Ported SAP to a 1976 CPU. It Wasn't That Slow",
+    "url": "https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md",
+    "author": "weinzierl",
+    "date": "2025-07-10",
+    "points": "88",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44487110"
+  },
+  {
+    "title": "I'm Building LLM for Satellite Data EarthGPT.app",
+    "url": "https://www.earthgpt.app/",
+    "author": "sabman",
+    "date": "2025-07-10",
+    "points": "91",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44488742"
+  },
+  {
+    "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
+    "url": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
+    "author": "thunderbong",
+    "date": "2025-07-10",
+    "points": "286",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507971"
+  },
+  {
+    "title": "Is the doc bot docs, or not?",
+    "url": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
+    "author": "tobr",
+    "date": "2025-07-10",
+    "points": "166",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507244"
+  },
+  {
+    "title": "Most RESTful APIs aren't really RESTful",
+    "url": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
+    "author": "BerislavLopac",
+    "date": "2025-07-10",
+    "points": "218",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507076"
+  },
+  {
+    "title": "Phrase origin: Why do we \"call\" functions?",
+    "url": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+    "author": "todsacerdoti",
+    "date": "2025-07-10",
+    "points": "185",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44506251"
+  },
+  {
+    "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
+    "url": "https://github.com/CyberTimon/RapidRAW",
+    "author": "l8rlump",
+    "date": "2025-07-10",
+    "points": "226",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44505876"
+  },
+  {
+    "title": "Ruby 3.4 frozen string literals: What Rails developers need to know",
+    "url": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
+    "author": "thomas_witt",
+    "date": "2025-07-10",
+    "points": "157",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44479302"
+  },
+  {
+    "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
+    "url": "https://huggingface.co/blog/smollm3",
+    "author": "kashifr",
+    "date": "2025-07-10",
+    "points": "355",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44501413"
+  },
+  {
+    "title": "Splice: Cable Harness Design Made Simple",
+    "url": "https://splice-cad.com",
+    "author": "nateb2022",
+    "date": "2025-07-10",
+    "points": "5",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44486651"
+  },
+  {
+    "title": "Supabase MCP can leak your entire SQL database",
+    "url": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
+    "author": "rexpository",
+    "date": "2025-07-10",
+    "points": "796",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44502318"
+  },
+  {
+    "title": "Tree Borrows",
+    "url": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html",
+    "author": "zdw",
+    "date": "2025-07-10",
+    "points": "206",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44510600"
+  },
+  {
+    "title": "US Court nullifies FTC requirement for click-to-cancel",
+    "url": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
+    "author": "gausswho",
+    "date": "2025-07-10",
+    "points": "428",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44504699"
+  },
+  {
+    "title": "Using MPC for Anonymous and Private DNA Analysis",
+    "url": "https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/",
+    "author": "vishakh82",
+    "date": "2025-07-10",
+    "points": "20",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44508866"
+  },
+  {
+    "title": "Where can I see Hokusai's Great Wave today?",
+    "url": "https://greatwavetoday.com/",
+    "author": "colinprince",
+    "date": "2025-07-10",
+    "points": "115",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44506117"
+  },
+  {
+    "title": "Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left",
+    "url": "https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443",
+    "author": "gabiteodoru",
+    "date": "2025-07-10",
+    "points": "128",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44498766"
+  },
+  {
+    "title": "X Chief Says She Is Leaving the Social Media Platform",
+    "url": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
+    "author": "donohoe",
+    "date": "2025-07-10",
+    "points": "233",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44510731"
+  }
+]

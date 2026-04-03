@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A Macro Story",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "lisp",
+    "url": "https://courses.cs.northwestern.edu/325/readings/macro-lesson.html",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "Adding linear-time lookbehinds to RE2",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "compsci",
+    "url": "https://systemf.epfl.ch/blog/re2-lookbehinds/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "Announcing LogTape 1.0.0",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "javascript",
+    "url": "https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "Announcing the Clippy feature freeze",
+    "author": "",
+    "score": "62",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "B compiler written in Crust",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "retrocomputing, rust",
+    "url": "https://github.com/tsoding/b",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "Balatro for the Nintendo E-Reader",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "games",
+    "url": "https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "Basic facts about GPUs",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "hardware, performance",
+    "url": "https://damek.github.io/random/basic-facts-about-gpus/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "Building my own paper tape punch",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "hardware, retrocomputing",
+    "url": "https://unimplementedtrap.com/paper-tape-punch",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "CDP Retirement in Firefox",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "browsers",
+    "url": "https://fxdx.dev/cdp-retirement-in-firefox/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "Discover C++26’s compile-time reflection",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "c++",
+    "url": "https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "FreeBSD Kernel Modules pkg(8) Repositories",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "freebsd, release",
+    "url": "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "GEM: GPU-Accelerated Emulator-Inspired RTL Simulation | Research",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "hardware, rust",
+    "url": "https://research.nvidia.com/publication/2025-06_gem-gpu-accelerated-emulator-inspired-rtl-simulation",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "Generating Musical Scales",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "art, elixir",
+    "url": "https://petecorey.com/blog/2025/06/22/generating-musical-scales/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "How fast are Linux pipes anyway? (2022)",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "linux, performance",
+    "url": "https://mazzo.li/posts/fast-pipes.html",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "I wrote my PhD Thesis in Typst",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://fransskarman.com/phd_thesis_in_typst.html",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "More Undervalued Hardware Companions",
+    "author": "",
+    "score": "51",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "My First Impressions of Gleam",
+    "author": "",
+    "score": "30",
+    "comments": "0",
+    "tags": "gleam",
+    "url": "https://mtlynch.io/notes/gleam-first-impressions/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "Pallene Language",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "lua, plt",
+    "url": "https://github.com/pallene-lang/pallene",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "Remaking Celeste's Lighting (2017)",
+    "author": "",
+    "score": "72",
+    "comments": "0",
+    "tags": "games, graphics",
+    "url": "https://noelberry.ca/posts/celeste_lighting/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "The Mental Model of Server Components",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "javascript, web",
+    "url": "https://saewitz.com/the-mental-model-of-server-components",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "Unexpected security footguns in Go's parsers",
+    "author": "",
+    "score": "77",
+    "comments": "0",
+    "tags": "go, security",
+    "url": "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "my website is one binary",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://j3s.sh/thought/my-website-is-one-binary.html",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "postmarketOS v25.06: the one with systemd",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "linux, mobile, systemd",
+    "url": "https://postmarketos.org/blog/2025/06/22/v25.06-release/",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "tayga: Simple, no-fuss NAT64 for Linux",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://github.com/apalrd/tayga",
+    "date": "2025-06-22",
+    "description": ""
+  },
+  {
+    "title": "you are what you launch: how software became a lifestyle brand",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "culture",
+    "url": "https://omeru.bearblog.dev/lifestyle/",
+    "date": "2025-06-22",
+    "description": ""
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A string formatting library in 65 lines of C++",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "c++, programming",
+    "url": "https://riki.house/fmt",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "AI Chatbots Undermining the Enlightenment",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "science, vibecoding",
+    "url": "https://maggieappleton.com/ai-enlightenment",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "Big O",
+    "author": "",
+    "score": "39",
+    "comments": "0",
+    "tags": "compsci",
+    "url": "https://samwho.dev/big-o/",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "Developer's block",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://underlap.org/developers-block/",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "I'm too dumb for Zig's new IO interface",
+    "author": "",
+    "score": "80",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "Lobsters Interview with Matklad",
+    "author": "",
+    "score": "133",
+    "comments": "0",
+    "tags": "interview, person",
+    "url": "https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad",
+    "date": "2025-08-23",
+    "description": "☶"
+  },
+  {
+    "title": "Materialized views are obviously useful",
+    "author": "",
+    "score": "37",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "No, Google Did Not Unilaterally Decide to Kill XSLT",
+    "author": "",
+    "score": "49",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "On the use of LLM assistants for kernel development",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "linux, vibecoding",
+    "url": "https://lwn.net/Articles/1032612/",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "Optimizing FizzBuzz in Rust",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "performance, rust",
+    "url": "https://github.com/nrposner/fizzcrate",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "RFC 9839 and Bad Unicode",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "Retry Loop Retry",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://matklad.github.io/2025/08/23/retry-loop-retry.html",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "SXO :: Optimized Server-Side JSX. Build Simple. Build Fast",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "javascript, nodejs, rust",
+    "url": "https://github.com/gc-victor/sxo",
+    "date": "2025-08-23",
+    "description": "☶"
+  },
+  {
+    "title": "TaMaRa: Towards a Triple Modular Redundancy Pass for Yosys",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://blog.yosyshq.com/p/tamara-towards-a-triple-modular-redundancy-pass-for-yosys/",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "The 9 Go test assertions I use (and why)",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "go, testing",
+    "url": "https://www.alexedwards.net/blog/the-9-go-test-assertions-i-use",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "The First MoQ CDN: Cloudflare",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "javascript, networking, rust, web",
+    "url": "https://moq.dev/blog/first-cdn/",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "Understanding Jujutsu bookmarks",
+    "author": "",
+    "score": "37",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://neugierig.org/software/blog/2025/08/jj-bookmarks.html",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "WebR - R in the Browser",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "wasm",
+    "url": "https://docs.r-wasm.org/webr/latest/",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "Why Was Apache Kafka Created?",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "distributed",
+    "url": "https://bigdatastream.substack.com/p/why-was-apache-kafka-created",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "bubbletea-rs: A rust implementation of Bubbletea",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://github.com/whit3rabbit/bubbletea-rs",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "debdelta",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://debdelta.debian.net/",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "io_uring, kTLS and Rust for zero syscall HTTPS server",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "linux, rust",
+    "url": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "microdot: The impossibly small web framework for Python and MicroPython",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "python, web",
+    "url": "https://github.com/miguelgrinberg/microdot",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "nitro: a tiny but flexible init system and process supervisor",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "unix",
+    "url": "https://git.vuxu.org/nitro/about/",
+    "date": "2025-08-23",
+    "description": ""
+  },
+  {
+    "title": "rue: A programming language that is a minimal subset of Rust",
+    "author": "",
+    "score": "28",
+    "comments": "0",
+    "tags": "compilers, rust",
+    "url": "https://github.com/steveklabnik/rue",
+    "date": "2025-08-23",
+    "description": ""
+  }
+]

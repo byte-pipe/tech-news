@@ -1,0 +1,252 @@
+[
+  {
+    "title": "433: How to Make a Font that Says Nothing",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "show, a11y, python, web",
+    "url": "https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software (and DOOM)",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "hardware, reversing",
+    "url": "https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Celebrating 20 years of MDN",
+    "author": "",
+    "score": "45",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Combinatory Programming",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://blog.zdsmith.com/posts/combinatory-programming.html",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "HTTP/1.1 Must Die",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "networking, security",
+    "url": "https://http1mustdie.com/",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Implementing a Functional Language with Graph Reduction",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "compilers, plt",
+    "url": "https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Lobsters Interview with Technomancy",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy",
+    "date": "2025-07-25",
+    "description": "☶"
+  },
+  {
+    "title": "Monotonic and Wall Clock Time in the Go time package",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "New Aarch64 Backend",
+    "author": "",
+    "score": "42",
+    "comments": "0",
+    "tags": "compilers, zig",
+    "url": "https://ziglang.org/devlog/2025/#2025-07-23",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Nullable but not null",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://efe.me/posts/nullable-but-not-null/",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Open Source Maintenance Fee",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://opensourcemaintenancefee.org/",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "PSA: SQLite WAL checksums fail silently and may lose data",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://avi.im/blag/2025/sqlite-wal-checksum/",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Programming Vehicles in Games",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "games",
+    "url": "https://wassimulator.com/blog/programming/programming_vehicles_in_games.html",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Racket as a first language",
+    "author": "",
+    "score": "58",
+    "comments": "0",
+    "tags": "education",
+    "url": "https://felleisen.org/matthias/Thoughts/py.html",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Renting is for Suckers",
+    "author": "",
+    "score": "132",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://andrewkelley.me/post/renting-is-for-suckers.html",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "That time I wasted weeks hand optimizing assembly because I benchmarked on random data",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "performance",
+    "url": "https://www.vidarholen.net/contents/blog/?p=1160",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "The MonTana Mini Computer",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "compsci, retrocomputing",
+    "url": "https://mtmc.cs.montana.edu",
+    "date": "2025-07-25",
+    "description": "☶"
+  },
+  {
+    "title": "There is no memory safety without thread safety",
+    "author": "",
+    "score": "71",
+    "comments": "0",
+    "tags": "go, java, plt",
+    "url": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Three HTTP versions later, forms are still a mess",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Use Your Type System",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "plt, practices",
+    "url": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Using fortune to reinforce habits",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "Wayback 0.1 released",
+    "author": "",
+    "score": "115",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/",
+    "date": "2025-07-25",
+    "description": ""
+  },
+  {
+    "title": "What are you doing this weekend?",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "ask, programming",
+    "url": "https://lobste.rs/s/nz9afc/what_are_you_doing_this_weekend",
+    "date": "2025-07-25",
+    "description": "☶"
+  },
+  {
+    "title": "vet a command-line tool that acts as a safety net for the risky curl | bash pattern",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://github.com/vet-run/vet",
+    "date": "2025-07-25",
+    "description": ""
+  }
+]

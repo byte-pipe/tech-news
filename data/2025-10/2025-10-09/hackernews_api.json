@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A History of Large Language Models",
+    "url": "https://gregorygundersen.com/blog/2025/10/01/large-language-models/",
+    "author": "alexmolas",
+    "date": "2025-10-06",
+    "score": 249,
+    "comments": 18,
+    "id": 45488892,
+    "discussion_url": "https://news.ycombinator.com/item?id=45488892",
+    "description": "A History of Large Language Models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801085"
+  },
+  {
+    "title": "A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator",
+    "url": "https://larslofgren.com/codesmith-reddit-reputation-attack/",
+    "author": "SilverElfin",
+    "date": "2025-10-08",
+    "score": 1101,
+    "comments": 763,
+    "id": 45521920,
+    "discussion_url": "https://news.ycombinator.com/item?id=45521920",
+    "description": "A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801154"
+  },
+  {
+    "title": "A small number of samples can poison LLMs of any size",
+    "url": "https://www.anthropic.com/research/small-samples-poison",
+    "author": "meetpateltech",
+    "date": "2025-10-09",
+    "score": 336,
+    "comments": 80,
+    "id": 45529587,
+    "discussion_url": "https://news.ycombinator.com/item?id=45529587",
+    "description": "A small number of samples can poison LLMs of any size",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.800899"
+  },
+  {
+    "title": "Birth of Prettier",
+    "url": "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html",
+    "author": "garretruh",
+    "date": "2025-10-05",
+    "score": 70,
+    "comments": 47,
+    "id": 45482198,
+    "discussion_url": "https://news.ycombinator.com/item?id=45482198",
+    "description": "Birth of Prettier",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801149"
+  },
+  {
+    "title": "CPU cache-friendly data structures in Go",
+    "url": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
+    "author": "g0xA52A2A",
+    "date": "2025-10-06",
+    "score": 115,
+    "comments": 40,
+    "id": 45488201,
+    "discussion_url": "https://news.ycombinator.com/item?id=45488201",
+    "description": "CPU cache-friendly data structures in Go",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801042"
+  },
+  {
+    "title": "Dark patterns: Buying a Bahncard at Deutsche Bahn",
+    "url": "https://www.ketzu.net/dark-patterns-buying-a-bahncard-at-deutsche-bahn/",
+    "author": "ketzu",
+    "date": "2025-10-09",
+    "score": 69,
+    "comments": 78,
+    "id": 45526582,
+    "discussion_url": "https://news.ycombinator.com/item?id=45526582",
+    "description": "Dark patterns: Buying a Bahncard at Deutsche Bahn",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801081"
+  },
+  {
+    "title": "Designing a Low Latency 10G Ethernet Core (2023)",
+    "url": "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html",
+    "author": "picture",
+    "date": "2025-10-09",
+    "score": 155,
+    "comments": 68,
+    "id": 45522406,
+    "discussion_url": "https://news.ycombinator.com/item?id=45522406",
+    "description": "Designing a Low Latency 10G Ethernet Core (2023)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801173"
+  },
+  {
+    "title": "Discord says 70k users may have had their government IDs leaked in breach",
+    "url": "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach",
+    "author": "PaulKeeble",
+    "date": "2025-10-08",
+    "score": 726,
+    "comments": 378,
+    "id": 45521738,
+    "discussion_url": "https://news.ycombinator.com/item?id=45521738",
+    "description": "Discord says 70k users may have had their government IDs leaked in breach",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801158"
+  },
+  {
+    "title": "Figure 03, our 3rd generation humanoid robot",
+    "url": "https://www.figure.ai/news/introducing-figure-03",
+    "author": "lairv",
+    "date": "2025-10-09",
+    "score": 165,
+    "comments": 182,
+    "id": 45527402,
+    "discussion_url": "https://news.ycombinator.com/item?id=45527402",
+    "description": "Figure 03, our 3rd generation humanoid robot",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.800966"
+  },
+  {
+    "title": "Incident with Webhooks",
+    "url": "https://www.githubstatus.com/incidents/k7bhmjkblcwp",
+    "author": "munksbeer",
+    "date": "2025-10-09",
+    "score": 104,
+    "comments": 69,
+    "id": 45528735,
+    "discussion_url": "https://news.ycombinator.com/item?id=45528735",
+    "description": "Incident with Webhooks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801131"
+  },
+  {
+    "title": "My first contribution to Linux",
+    "url": "https://vkoskiv.com/first-linux-patch/",
+    "author": "vkoskiv",
+    "date": "2025-10-06",
+    "score": 156,
+    "comments": 20,
+    "id": 45490652,
+    "discussion_url": "https://news.ycombinator.com/item?id=45490652",
+    "description": "My first contribution to Linux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.800985"
+  },
+  {
+    "title": "N8n raises $180M",
+    "url": "https://blog.n8n.io/series-c/",
+    "author": "doppp",
+    "date": "2025-10-09",
+    "score": 190,
+    "comments": 157,
+    "id": 45525336,
+    "discussion_url": "https://news.ycombinator.com/item?id=45525336",
+    "description": "N8n raises $180M",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801098"
+  },
+  {
+    "title": "New nanotherapy clears amyloid-β, reversing symptoms of Alzheimer's in mice",
+    "url": "https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/",
+    "author": "self_awareness",
+    "date": "2025-10-09",
+    "score": 128,
+    "comments": 64,
+    "id": 45528308,
+    "discussion_url": "https://news.ycombinator.com/item?id=45528308",
+    "description": "New nanotherapy clears amyloid-β, reversing symptoms of Alzheimer's in mice",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.800915"
+  },
+  {
+    "title": "Nobel Prize in Literature 2025: László Krasznahorkai",
+    "url": "https://www.nobelprize.org/prizes/literature/2025/press-release/",
+    "author": "PikelEmi",
+    "date": "2025-10-09",
+    "score": 183,
+    "comments": 75,
+    "id": 45527003,
+    "discussion_url": "https://news.ycombinator.com/item?id=45527003",
+    "description": "Nobel Prize in Literature 2025: László Krasznahorkai",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.800927"
+  },
+  {
+    "title": "Python 3.14 is here. How fast is it?",
+    "url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
+    "author": "pjmlp",
+    "date": "2025-10-09",
+    "score": 79,
+    "comments": 85,
+    "id": 45524702,
+    "discussion_url": "https://news.ycombinator.com/item?id=45524702",
+    "description": "Python 3.14 is here. How fast is it?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.800960"
+  },
+  {
+    "title": "Python's splitlines does more than just newlines",
+    "url": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/",
+    "author": "Bogdanp",
+    "date": "2025-10-09",
+    "score": 70,
+    "comments": 26,
+    "id": 45527758,
+    "discussion_url": "https://news.ycombinator.com/item?id=45527758",
+    "description": "Python's splitlines does more than just newlines",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.800994"
+  },
+  {
+    "title": "Real-time Nvidia GPU dashboard",
+    "url": "https://github.com/psalias2006/gpu-hot",
+    "author": "github-trending",
+    "date": "2025-10-06",
+    "score": 71,
+    "comments": 31,
+    "id": 45490957,
+    "discussion_url": "https://news.ycombinator.com/item?id=45490957",
+    "description": "Real-time Nvidia GPU dashboard",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801055"
+  },
+  {
+    "title": "Rejected announces from libtorrent clients proxying through SOCKS",
+    "url": "https://catgirl.online/2025/10/01/libtorrent-socks-woes",
+    "author": "apsec112",
+    "date": "2025-10-06",
+    "score": 75,
+    "comments": 30,
+    "id": 45486622,
+    "discussion_url": "https://news.ycombinator.com/item?id=45486622",
+    "description": "Rejected announces from libtorrent clients proxying through SOCKS",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801178"
+  },
+  {
+    "title": "Rubygems.org AWS Root Access Event – September 2025",
+    "url": "https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/",
+    "author": "ilikepi",
+    "date": "2025-10-09",
+    "score": 100,
+    "comments": 31,
+    "id": 45530832,
+    "discussion_url": "https://news.ycombinator.com/item?id=45530832",
+    "description": "Rubygems.org AWS Root Access Event – September 2025",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801003"
+  },
+  {
+    "title": "Show HN: I built a web framework in C",
+    "url": "https://github.com/ashtonjamesd/lavandula",
+    "author": "ashtonjamesd",
+    "date": "2025-10-09",
+    "score": 198,
+    "comments": 119,
+    "id": 45526890,
+    "discussion_url": "https://news.ycombinator.com/item?id=45526890",
+    "description": "Show HN: I built a web framework in C",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801024"
+  },
+  {
+    "title": "Show HN: I've built a tiny hand-held keyboard",
+    "url": "https://github.com/mafik/keyer",
+    "author": "mafik",
+    "date": "2025-10-09",
+    "score": 126,
+    "comments": 47,
+    "id": 45529393,
+    "discussion_url": "https://news.ycombinator.com/item?id=45529393",
+    "description": "Show HN: I've built a tiny hand-held keyboard",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.800976"
+  },
+  {
+    "title": "Talk Python in Production",
+    "url": "https://talkpython.fm/books/python-in-production",
+    "author": "mikeckennedy",
+    "date": "2025-10-06",
+    "score": 99,
+    "comments": 66,
+    "id": 45495607,
+    "discussion_url": "https://news.ycombinator.com/item?id=45495607",
+    "description": "Talk Python in Production",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801136"
+  },
+  {
+    "title": "Tariffs Are Way Up. Interest on Debt Tops $1T. and Doge Didn't Do Much",
+    "url": "https://www.wsj.com/economy/federal-budget-fiscal-2025-e8d21595",
+    "author": "JumpCrisscross",
+    "date": "2025-10-09",
+    "score": 104,
+    "comments": 56,
+    "id": 45530234,
+    "discussion_url": "https://news.ycombinator.com/item?id=45530234",
+    "description": "Tariffs Are Way Up. Interest on Debt Tops $1T. and Doge Didn't Do Much",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801123"
+  },
+  {
+    "title": "The C++ programmer and educator Rainer Grimm has passed away",
+    "url": "https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/",
+    "author": "ibobev",
+    "date": "2025-10-09",
+    "score": 90,
+    "comments": 9,
+    "id": 45527156,
+    "discussion_url": "https://news.ycombinator.com/item?id=45527156",
+    "description": "The C++ programmer and educator Rainer Grimm has passed away",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801166"
+  },
+  {
+    "title": "The Debugging Book",
+    "url": "https://www.debuggingbook.org/",
+    "author": "signa11",
+    "date": "2025-10-06",
+    "score": 145,
+    "comments": 8,
+    "id": 45489625,
+    "discussion_url": "https://news.ycombinator.com/item?id=45489625",
+    "description": "The Debugging Book",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801102"
+  },
+  {
+    "title": "The React Foundation",
+    "url": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/",
+    "author": "DanielHB",
+    "date": "2025-10-09",
+    "score": 286,
+    "comments": 325,
+    "id": 45524624,
+    "discussion_url": "https://news.ycombinator.com/item?id=45524624",
+    "description": "The React Foundation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801115"
+  },
+  {
+    "title": "The Unknotting Number Is Not Additive",
+    "url": "https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/",
+    "author": "JohnHammersley",
+    "date": "2025-10-09",
+    "score": 149,
+    "comments": 59,
+    "id": 45524293,
+    "discussion_url": "https://news.ycombinator.com/item?id=45524293",
+    "description": "The Unknotting Number Is Not Additive",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801119"
+  },
+  {
+    "title": "Two things LLM coding agents are still bad at",
+    "url": "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/",
+    "author": "kixpanganiban",
+    "date": "2025-10-09",
+    "score": 274,
+    "comments": 306,
+    "id": 45523537,
+    "discussion_url": "https://news.ycombinator.com/item?id=45523537",
+    "description": "Two things LLM coding agents are still bad at",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801028"
+  },
+  {
+    "title": "Under the hood: Vec<T>",
+    "url": "https://marma.dev/articles/2025/under-the-hood-vec-t",
+    "author": "r4um",
+    "date": "2025-10-06",
+    "score": 141,
+    "comments": 109,
+    "id": 45488647,
+    "discussion_url": "https://news.ycombinator.com/item?id=45488647",
+    "description": "Under the hood: Vec<T>",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801046"
+  },
+  {
+    "title": "Why Self-Host?",
+    "url": "https://romanzipp.com/blog/why-a-homelab-why-self-host",
+    "author": "romanzipp",
+    "date": "2025-10-09",
+    "score": 243,
+    "comments": 168,
+    "id": 45528342,
+    "discussion_url": "https://news.ycombinator.com/item?id=45528342",
+    "description": "Why Self-Host?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-09T19:07:10.801051"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A Fast, Growable Array With Stable Pointers in C",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "c, performance",
+    "url": "https://danielchasehooper.com/posts/segment_array/",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Announcing Rust 1.89.0",
+    "author": "",
+    "score": "42",
+    "comments": "0",
+    "tags": "release, rust",
+    "url": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Asahi Linux Progress Report: Linux 6.16",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "linux, release",
+    "url": "https://asahilinux.org/2025/08/progress-report-6-16/",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Cursor CLI",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://cursor.com/cli",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Disposable Code Is Here to Stay, but Durable Code Is What Runs the World",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.honeycomb.io/blog/disposable-code-is-here-to-stay",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "lisp, plt",
+    "url": "https://xorvoid.com/forsp.html",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "GPT-5 is here",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "ai, vibecoding",
+    "url": "https://openai.com/gpt-5/",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "HTTP/1.1 must die: the desync endgame",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "security, web",
+    "url": "https://portswigger.net/research/http1-must-die",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Jepsen: Capela dda5892",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "databases, distributed, testing",
+    "url": "https://jepsen.io/analyses/capela-dda5892",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Jujutsu support in Reviewboard",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://reviews.reviewboard.org/r/14336/",
+    "date": "2025-08-07",
+    "description": "☶"
+  },
+  {
+    "title": "KomoDo, my first KDE app",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "linux, release",
+    "url": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Litestar is worth a look",
+    "author": "",
+    "score": "61",
+    "comments": "0",
+    "tags": "python, web",
+    "url": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Live coding sucks",
+    "author": "",
+    "score": "36",
+    "comments": "0",
+    "tags": "culture, programming",
+    "url": "https://hadid.dev/posts/living-coding/",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Mac history echoes in current Mac operating systems",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "historical, mac",
+    "url": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "More shell tricks: first class lists, jq, and the es shell",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "unix",
+    "url": "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Nixpkgs module system config modules graph",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "nix",
+    "url": "https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "TUI version of dmidecode tool",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://github.com/pythops/dmitui",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "The how and why of GitHub to Codeberg",
+    "author": "",
+    "score": "88",
+    "comments": "0",
+    "tags": "privacy, web",
+    "url": "https://www.arscyni.cc/file/codeberg.html",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "We replaced passwords with something worse",
+    "author": "",
+    "score": "44",
+    "comments": "0",
+    "tags": "practices, security",
+    "url": "https://blog.danielh.cc/blog/passwords",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "We shouldn’t have needed lockfiles",
+    "author": "",
+    "score": "61",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://tonsky.me/blog/lockfiles/",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Who's Hiring? Q3 2025",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "job",
+    "url": "https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025",
+    "date": "2025-08-07",
+    "description": "☶"
+  },
+  {
+    "title": "Why hx-boost is actually the most important feature of htmx",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "You don't really need monads",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "hardmode-triangle-0",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "graphics",
+    "url": "https://glfmn.io/posts/hardmode-triangle-0/",
+    "date": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "uBlock Origin Lite for Safari",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "browsers, ios, mac, release",
+    "url": "https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/",
+    "date": "2025-08-07",
+    "description": "☶"
+  }
+]

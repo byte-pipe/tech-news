@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Algorithms for making interesting organic simulations",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "graphics, visualization",
+    "url": "https://bleuje.com/physarum-explanation/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Apple Trace Cache",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://www.realworldtech.com/forum/?threadid=223220",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Bringing Virtualization to the x86 Architecture with the Original VMware Workstation (2012)",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "pdf, historical, virtualization",
+    "url": "https://web.archive.org/web/20250603150137if_/http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Don't animate height",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "css, performance",
+    "url": "https://www.granola.ai/blog/dont-animate-height",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Dyson Sphere Program's new multithreading framework",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "games, performance",
+    "url": "https://store.steampowered.com/news/app/1366540/view/543361383085900510",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Easy dynamic dispatch using GLIBC Hardware Capabilities",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "c",
+    "url": "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: A RBTree Family Drama (Part One)",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://syst3mfailure.io/rbtree-family-drama/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Hacking coroutines into C",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "c",
+    "url": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Haiku Activity & Contract Report, June 2025",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "osdev",
+    "url": "https://www.haiku-os.org/blog/waddlesplash/2025-07-12-haiku_activity_contract_report_june_2025/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "How I found a bypass in Google's big anti-adblock update",
+    "author": "",
+    "score": "45",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://0x44.xyz/blog/web-request-blocking/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Linux Kernel Pipapo Set Double Free LPE",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://ssd-disclosure.com/ssd-advisory-linux-kernel-pipapo-set-double-free-lpe/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Local Chatbot RAG with FreeBSD Knowledge",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "freebsd, osdev, vibecoding",
+    "url": "https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Migrating my NAS from CoreOS/Flatcar Linux to NixOS",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "nix",
+    "url": "https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Notes on Graham's ANSI Common Lisp",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "lisp",
+    "url": "https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Programming Language Theory has a public relations problem",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Simple live reload for developing static sites",
+    "author": "",
+    "score": "44",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://leanrada.com/notes/simple-live-reload/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Task Runner Census 2025",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "show, programming",
+    "url": "https://aleyan.com/blog/2025-task-runners-census/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "The Design and Implementation of Extensible Records for Rust in CGP",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "plt, rust",
+    "url": "https://contextgeneric.dev/blog/extensible-datatypes-part-3/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Working through ‘Writing A C Compiler’",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "c, compilers",
+    "url": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "Zig's New Async I/O",
+    "author": "",
+    "score": "101",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://kristoff.it/blog/zig-new-async-io/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "constrained languages are easier to optimize",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://jyn.dev/constrained-languages-are-easier-to-optimize/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "detour: A detour through the Linux dynamic linker",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "c, linux",
+    "url": "https://github.com/graphitemaster/detour",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "dict-unpacking-at-home: can we have dict unpacking in python?",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://github.com/asottile/dict-unpacking-at-home",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "new Date(\"wtf\")",
+    "author": "",
+    "score": "132",
+    "comments": "0",
+    "tags": "javascript",
+    "url": "https://jsdate.wtf/",
+    "date": "2025-07-13",
+    "description": ""
+  },
+  {
+    "title": "perldelta - what is new for perl v5.42.0",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "perl, release",
+    "url": "https://perldoc.perl.org/5.42.0/perldelta",
+    "date": "2025-07-13",
+    "description": ""
+  }
+]

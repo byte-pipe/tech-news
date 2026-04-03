@@ -1,0 +1,176 @@
+# Category definitions for pre-clustering articles before digest generation.
+# Each category has a label (used as section header) and keywords
+# matched against article titles and bodies.
+
+categories:
+  ai_ml:
+    label: "AI and Machine Learning"
+    keywords:
+      - ai
+      - artificial intelligence
+      - machine learning
+      - llm
+      - gpt
+      - claude
+      - gemini
+      - neural
+      - deep learning
+      - transformer
+      - diffusion
+      - generative
+      - chatbot
+      - openai
+      - anthropic
+      - fine-tuning
+      - inference
+      - embedding
+      - rag
+      - agent
+      - copilot
+      - foundation model
+
+  cybersecurity:
+    label: "Cybersecurity and Privacy"
+    keywords:
+      - security
+      - vulnerability
+      - breach
+      - hack
+      - exploit
+      - cvss
+      - malware
+      - ransomware
+      - phishing
+      - zero-day
+      - encryption
+      - privacy
+      - cve
+      - authentication
+      - firewall
+      - threat
+      - infosec
+      - cybersecurity
+
+  devtools:
+    label: "Software Engineering and Dev Tools"
+    keywords:
+      - compiler
+      - rust
+      - golang
+      - python
+      - typescript
+      - javascript
+      - framework
+      - library
+      - api
+      - sdk
+      - ide
+      - editor
+      - git
+      - ci/cd
+      - testing
+      - debugging
+      - performance
+      - programming
+      - developer
+      - devtools
+      - package manager
+      - build tool
+      - linter
+      - formatter
+      - database
+      - sql
+      - postgres
+      - redis
+
+  opensource:
+    label: "Open Source"
+    keywords:
+      - open source
+      - open-source
+      - github
+      - repository
+      - fork
+      - contributor
+      - license
+      - maintainer
+      - oss
+      - foss
+
+  cloud:
+    label: "Cloud and Infrastructure"
+    keywords:
+      - aws
+      - azure
+      - gcp
+      - cloud
+      - kubernetes
+      - docker
+      - serverless
+      - terraform
+      - infrastructure
+      - devops
+      - container
+      - microservice
+      - deployment
+      - cdn
+      - load balancer
+      - observability
+      - monitoring
+
+  startups:
+    label: "Startups and Business"
+    keywords:
+      - startup
+      - funding
+      - acquisition
+      - revenue
+      - ipo
+      - valuation
+      - venture capital
+      - seed round
+      - series a
+      - layoff
+      - hiring
+      - fundraise
+      - unicorn
+      - market cap
+      - earnings
+
+  science:
+    label: "Science and Research"
+    keywords:
+      - research
+      - study
+      - experiment
+      - physics
+      - biology
+      - chemistry
+      - space
+      - nasa
+      - quantum
+      - climate
+      - genome
+      - neuroscience
+      - astronomy
+      - telescope
+      - particle
+      - discovery
+
+  worldnews:
+    label: "World News and Geopolitics"
+    keywords:
+      - government
+      - policy
+      - regulation
+      - geopolitics
+      - sanctions
+      - election
+      - legislation
+      - antitrust
+      - eu
+      - congress
+      - trade war
+      - tariff
+      - diplomacy
+      - treaty

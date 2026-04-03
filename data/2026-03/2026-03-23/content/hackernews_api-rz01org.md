@@ -1,0 +1,59 @@
+---
+title: rz01.org
+url: https://rz01.org/eu-migration/
+site_name: hackernews_api
+content_file: hackernews_api-rz01org
+fetched_at: '2026-03-23T19:49:09.119000'
+original_url: https://rz01.org/eu-migration/
+author: exitnode
+date: '2026-03-23'
+description: Migrating to the EU
+tags:
+- hackernews
+- trending
+---
+
+# Migrating to the EU
+
+Posted on 2026-03-22
+
+## Introduction
+
+For various reasons, I have decided to move as many services and subscriptions as possible from non-EU countries to the EU or to switch to European service providers. The reasons for this are the current global political situation and improved data protection. I don’t want to go into the first point any further for various reasons, but the second point should be immediately obvious, since the EU currently has the most user-friendly laws when it comes to data protection. Below, I will list both the old and new service providers; this is not an advertisement, but simply the result of my research, which was aimed at achieving the same or better quality at affordable prices.
+
+I would call this post an interim report, and I will expand on it if I end up migrating more services.
+
+## Mail
+
+In my opinion,Fastmailis one of the best email providers. In all the years I’ve had my email accounts there, I’ve never had any problems. I paid 10 euros a month for two accounts, could use an unlimited number of my own domains, and could not only set up catch-all addresses but also send emails from any email address I wanted. This is important formy email setup. The calendar is also solid and was used within the family. All of this was also available in a well-designed Android app.
+Finding a European alternative that offers all of this proved difficult. First, I triedmailbox.org, which I can generally recommend without reservation. Unfortunately, you can’t send emails from any address on your own domain without a workaround, so the search continued. Eventually, I landed onUberspace. This “pay what you want” provider offers a shell account, web hosting, email hosting, and more at fair prices. In addition, you can use as many of your own domains as you like for
+ both web and email, and send emails from any sender address. There isn’t a dedicated app, which is why I now use Thunderbird for Android and am very satisfied with it.
+
+## Calendar
+
+Uberspacedoesn't offer a built-in calendar solution. So I tried installing various CalDAV servers, but none of them really convinced me. In the end, I simply installed NextCloud on myUberspaceAsteroid, which has CalDAV and CardDAV built in. On my desktop, I use Thunderbird as a client; on Android, I use DAVx5 and Fossil Calendar. It works great, even if NextCloud does come with some overhead. In return, I can now easily share files with others and, in theory, also use NextCloud’s
+ online office functionality.
+
+## Web
+
+Now that I’m already usingUberspacefor my email and calendar, I was able to host this website there as well. I previously had a VPS with Hetzner for this purpose, which I no longer need. The only minor hurdle was that I use SSI on this site to manage the header centrally. I had previously used Nginx, butUberspacehosts on Apache, where the SSI implementation is handled slightly differently. However, adapting my HTML code
+was quite simple, so I was able to quickly migrate the site toUberspace.
+
+## Domains and DNS
+
+For a long time, I was a satisfiedNamecheapcustomer. They offer good prices, a wide selection of available domains, their DNS management has everything you need, and their support team has helped me quickly on several occasions. But now it was time to look for a comparable provider in the EU. In the end, I settled onhosting.de. Some of the reasons were the prices, reviews, the location in Germany, and the availability of .is domains. So far, everything has been running smoothly; support helped me quickly and competently with one issue; and while prices for non-German domains are slightly higher, they’re still within an acceptable range.
+
+## Git
+
+At some point, pretty much everyone had their code onGitHub(or still does). I was no exception, though I had also hosted my own Gitea instance. Eventually, I got tired of that too and migrated all my Git repositories to codeberg.org.Codebergis a German-based nonprofit organization, and it’s hard to imagine going wrong with this choice.
+
+## VPN
+
+No changes here. I’ve always been a happyMullvadcustomer. For 5 euros a month, I pay a Swedish company that has proven it doesn’t log any data and doesn’t even require me to create an account. No subscription traps, no weird Black Friday deals, no discounts: just 5 euros a month for a reliable, trustworthy service.
+
+## Android, Chromebook and Google
+
+For many years, I used my work smartphone for personal use as well. I was more than satisfied with the Pixel 6, but understandably, I wasn’t allowed to install a custom ROM or use alternative app stores like F-Droid. That’s why I decided to buy a separate personal smartphone. I chose the Pixel 9a, which is supported byGraphene OS. I still installed the Google Play Store so I could install a significant number of apps that are only available there. However, I can now use alternative
+ app stores, which allows me to install and use apps like NewPipe. This way, I can enjoy YouTube ad-free and without an account.
+
+For casual use on the couch, a Chromebook has been unbeatable for me so far. It’s affordable, the battery lasts forever, and it wakes up from sleep mode extremely quickly. To break away from Google here as well, I recently bought a cheap used 11-inch MacBook Air (A1465) to installMX Linux with Fluxboxon it and use it for browsing and watching videos. I haven’t had a chance to test it out yet, but I’m hoping it will be able to replace the Chromebook.

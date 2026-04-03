@@ -1,0 +1,115 @@
+---
+title: Apple Blocks US Users From Downloading ByteDance’s Chinese Apps | WIRED
+url: https://www.wired.com/story/bytedance-apps-are-no-longer-available-in-us-app-stores/
+site_name: newsfeed
+content_file: newsfeed-apple-blocks-us-users-from-downloading-bytedances
+fetched_at: '2026-03-05T19:30:54.295809'
+original_url: https://www.wired.com/story/bytedance-apps-are-no-longer-available-in-us-app-stores/
+author: Zeyi Yang
+date: '2026-03-05'
+published_date: '2026-03-05T17:03:59.814Z'
+description: In January, after TikTok announced a deal to transfer its US operations, Apple began blocking people in the US from downloading or updating ByteDance apps designed for the Chinese market.
+tags:
+- wired
+- business
+- business / regulation
+- business / social media
+---
+
+Save Story
+Save this story
+Save Story
+Save this story
+
+While TikTok operatesin the United States undernew ownership, Apple has deployed technical restrictions to blockiOS usersin the United States from downloading other apps made by the video platform’s Chinese parent organization ByteDance.
+
+ByteDance owns a vast array of different apps spanning social media, entertainment, artificial intelligence, and other sectors. The leading one isDouyin, the Chinese version of TikTok, which has over 1 billion monthly active users. While most of those users reside in China, iPhone owners around the world have traditionally been able to download these apps from anywhere without using a VPN, as long as they have a valid App Store account registered in China.
+
+That’s not true anymore. Starting in late January, iPhone users in the US with Chinese App Store accounts began reporting that they were encountering new obstacles when they tried to download apps developed by ByteDance. WIRED has confirmed that even with a valid Chinese App Store account, downloading or updating a ByteDance-owned Chinese app is blocked on Apple devices located in the United States.
+
+Instead, a pop-up window appears that says, “This app is unavailable in the country or region you’re in.” The restriction appears to apply only to ByteDance-owned apps and not those developed by other Chinese companies.
+
+Apple and ByteDance declined to comment. TikTok USDS Joint Venture (the new entity controlling TikTok’s US operations) didn’t respond to WIRED’s request for comment.
+
+The timing and technical specifics suggest the restriction is related to the deal TikTok agreed to in January to divest Chinese ownership of its US operations. The agreement was the result of the so-calledTikTok ban law passedby Congress in 2024, which also barred companies like Apple and Google from distributing other apps majority-owned by ByteDance. The Protecting Americans from Foreign Adversary Controlled Applications Act states that no company can “distribute, maintain, or update” any app majority-controlled by ByteDance “within the land or maritime borders of the United States.”
+
+The law was primarily aimed at TikTok, which has more than 100 million users in the US and had been the subject of years of debate in Washington over whether its Chinese ownership posed a national security risk. But ByteDance also has dozens of other apps that at some point werealso removedfrom Apple’s and Google’s app stores in the US. Now it seems like the scope of impact has reached even more apps that are not technically designed for US audiences, such as Douyin, the AI chatbot Doubao, and the fiction reading platform Fanqie Novel.
+
+## New Restrictions
+
+WIRED collected dozens of user reports on Chinese social media from people either living in or traveling to the US who said they had been blocked from downloading or updating popular ByteDance-owned apps. These apps are also not available on the Google Play Store, but it’s less of a concern for Android users as their devices have fewer restrictions on downloading apps from non-Google sources.
+
+“All ByteDance’s apps seem to be a no-go—Douyin included,” Xiao Peng Digital, a YouTuber and tech creator,posted on social mediaon January 28. He also shared a screen recording of a friend’s phone failing to update Doubao in the US. “Is it related to the TikTok stuff?” he asked.
+
+Until Wednesday, when a user requested a ByteDance app not available in their region, Apple’s pop-up window displayed a “Learn More” button that linked to a webpage on Apple Support. The link was not functioning as of publication, but anarchived version of the linkshowed that it was first published in January 2025 and explained Apple’s decision to remove TikTok and other ByteDance-owned apps from its app store at the time. After WIRED reached out to Apple about the link, the Learn More button was removed from the pop-up notification.
+
+“Pursuant to the Protecting Americans from Foreign Adversary Controlled Applications Act, apps developed by ByteDance Ltd. and its subsidiaries—including TikTok, CapCut, Lemon8, and others—will no longer be available for download or updates on the App Store for users in the United States starting January 19, 2025,” the archived webpage reads.
+
+As of Thursday, ByteDance apps like TikTok, CapCut (a video editor app). and Lemon8 (an Instagram-like social media platform) remain available on the US App Store, as they are covered by the January 22 deal to transfer TikTok’s US business to a group of investors led by Silver Lake, Oracle, and MGX. But the timing of the deal coincides with Apple’s decision to block this other set of ByteDance apps from being downloaded.
+
+Anexecutive orderissued in September by President Trump extended the deadline of the TikTok ban-or-divest law to January 23, 2026. A day before that deadline, TikTokpublicly announced it had entered into a deal, saying that “the safeguards provided by the Joint Venture will also cover CapCut, and Lemon8, and a portfolio of other apps and websites in the US.” But the announcement never explicitly elaborated on whether other ByteDance apps would be included in the transfer. A few days later, people started reporting they couldn’t download Douyin in the US.
+
+## Geoblocking Solution
+
+The restrictions on downloading ByteDance apps in the US shows how Apple is increasingly using technical restrictions to separate different regional versions of the App Store.
+
+Traditionally, the primary way Apple enforced geographic restrictions on iPhone apps was according to the country where a user registered their Apple ID. To have an Apple account registered in, say, China, a person would typically need to have a phone number, payment method, and billing address in China. But once their account was registered, they could download apps designed for the Chinese market regardless of where they traveled.
+
+In recent years, however, Apple has been developing more sophisticated mechanisms to identify where an App Store user is physically located. In 2023, the tech outlet 9to5Macreported thatApple devices had created a new system called “countryd” to precisely determine a person’s location based on “data such as current GPS location, country code from the Wi-Fi router, and information obtained from the SIM card.”
+
+Observers theorized that the new system was created in response to the European Union’sDigital Markets Act, which went into effect in 2024 and required Apple to begin allowing people in the EU to download apps from third-party app marketplaces. Apple complied with the EU regulation, but it restricted the accessibility of alternative app stores only to people physically in the territory of the EU.
+
+The exact mechanism Apple uses to enable geoblocking of iPhone apps is unclear, says Friso Bostoen, assistant professor of law at Tilburg University who has studied the effect of EU regulations on Apple. “Presumably, there's some on-device processing saying, ‘Look, this phone is somewhere in the EU borders, so you get an eligibility green check mark.’” And if the device detects that an EU resident leaves the region for more than 90 days, according to Apple’spolicy, that eligibility is withdrawn, Bostoen says.
+
+The new restriction on ByteDance apps in the US resembles the EU-specific geographical restrictions that were previously reported. Some ByteDance users have said that they are able to circumvent the restrictions by using virtual private networks, which allow people to spoof their device’s location, but the work-arounds aren’t foolproof.
+
+“Apple may use the IP address of your internet connection to approximate your location in order to determine whether certain apps that are subject to legal restrictions in some regions can be made available to you,” the App Store’s legal terms explicitly state. But according toonline archivesof the terms page, this specific sentence was added at the end of January 2025, shortly after the company first removed ByteDance apps from the US version of the App Store.
+
+So far, there’ve been few instances of Apple actually implementing technical capabilities to geoblock users. “However, you could think about this having some wider spillover effects if this becomes the more general way of ensuring that apps that shouldn't be available indeed aren't available,” Bostoen says. “If Apple gets more sophisticated about blocking access in a way that cannot simply be circumvented with a VPN, obviously citizens in those places are now left with much less liberty.”
+
+## You Might Also Like
+
+* In your inbox:The week’s biggest tech news in perspective
+* This popularpro-Trump X accountis apparently run by a White House staffer
+* Big Story:Thefive big ‘known unknowns’of Trump’s war with Iran
+* The system that intercepted Iran’s missilesover the UAE
+* Listen:The Pentagon vs. “woke” Anthropic
+Zeyi Yang
+ is a senior writer at WIRED, covering technology and business in China. He cowrites 
+Made in China
+, a weekly newsletter that gives readers a clear-eyed, unbiased view of the biggest tech news coming out of the country. Prior to joining WIRED, he was China reporter at MIT Technology ... 
+Read More
+Senior Writer
+
+Topics
+ByteDance
+China
+TikTok
+app stores
+App Store
+apple
+Google
+The Piracy Problem Streaming Platforms Can’t Solve
+In parts of the Middle East and North Africa, a patchwork of sanctions, payment failures, and licensing gaps pushes people into piracy networks.
+How Journalists Are Reporting From Iran With No Internet
+After strikes killed senior Iranian officials, Iran cut off internet access. Journalists are relying on satellite links, encrypted apps, and smuggled footage to report from inside the country.
+How a Music Streaming CEO Built an Open-Source Global Threat Map in His Spare Time
+Frustrated by fragmented war news, Anghami’s Elie Habib built World Monitor, a platform that fuses global data, like aircraft signals and satellite detections, to track conflicts as they unfold.
+Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes
+As Israeli airstrikes hit Tehran this morning, Iranians received mysterious push notifications saying that “help is on the way,” promising amnesty if they surrender.
+Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses
+A report copublished by WIRED sparked a probe into opt-out pages hidden by data brokers. Now congressional Democrats say breaches tied to the industry have cost people tens of billions of dollars.
+Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI
+The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.
+Gmail Is Killing POP and Gmailify Access. Here’s What It Means for You
+If you have multiple email accounts, your Gmail setup may soon need some reorganizing.
+Summon This AI Agent by Speaking Its Wake Word Mid-Phone Call
+Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.
+ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are
+ICE has used Mobile Fortify to identify immigrants and citizens alike over 100,000 times, by one estimate. It wasn't built to work like that—and only got approved after DHS abandoned its own privacy rules.
+Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files
+The US Justice Department disclosures give fresh clues about how tech companies handle government inquiries about your data.
+OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK
+As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.
+OpenAI Fires an Employee for Prediction Market Insider Trading
+Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.

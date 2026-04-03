@@ -1,0 +1,272 @@
+[
+  {
+    "title": "\"AI first\" and the Bus Factor of 0",
+    "url": "https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608",
+    "author": "AntwaneB",
+    "date": "2025-08-21",
+    "points": "73",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44966856"
+  },
+  {
+    "title": "AWS in 2025: Stuff you think you know that's now wrong",
+    "url": "https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/",
+    "author": "keithly",
+    "date": "2025-08-21",
+    "points": "239",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44962844"
+  },
+  {
+    "title": "An Update on Pytype",
+    "url": "https://github.com/google/pytype",
+    "author": "mxmlnkn",
+    "date": "2025-08-21",
+    "points": "131",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44963724"
+  },
+  {
+    "title": "Closer to the Metal: Leaving Playwright for CDP",
+    "url": "https://browser-use.com/posts/playwright-to-cdp",
+    "author": "gregpr07",
+    "date": "2025-08-21",
+    "points": "128",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44962869"
+  },
+  {
+    "title": "Code Review Can Be Better",
+    "url": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
+    "author": "sealeck",
+    "date": "2025-08-21",
+    "points": "12",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44967469"
+  },
+  {
+    "title": "Coris (YC S22) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer",
+    "author": "",
+    "date": "2025-08-21",
+    "points": "0",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44966408"
+  },
+  {
+    "title": "Gemma 3 270M re-implemented in pure PyTorch for local tinkering",
+    "url": "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3",
+    "author": "ModelForge",
+    "date": "2025-08-21",
+    "points": "282",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44962059"
+  },
+  {
+    "title": "How to Think About GPUs",
+    "url": "https://jax-ml.github.io/scaling-book/gpus/",
+    "author": "alphabetting",
+    "date": "2025-08-21",
+    "points": "361",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44943666"
+  },
+  {
+    "title": "Improvements to OCaml code editing: the basics of a refactor engine",
+    "url": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
+    "author": "nukifw",
+    "date": "2025-08-21",
+    "points": "89",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44961847"
+  },
+  {
+    "title": "Introduction to AT Protocol",
+    "url": "https://mackuba.eu/2025/08/20/introduction-to-atproto/",
+    "author": "psionides",
+    "date": "2025-08-21",
+    "points": "109",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44965233"
+  },
+  {
+    "title": "Launch HN: Channel3 (YC S25) – A database of every product on the internet",
+    "url": "https://news.ycombinator.com/item?id=44962881",
+    "author": "glawrence13",
+    "date": "2025-08-21",
+    "points": "75",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44962881"
+  },
+  {
+    "title": "Lean proof of Fermat's Last Theorem [pdf]",
+    "url": "https://imperialcollegelondon.github.io/FLT/blueprint.pdf",
+    "author": "ljlolel",
+    "date": "2025-08-21",
+    "points": "59",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44964693"
+  },
+  {
+    "title": "Learning about GPUs through measuring memory bandwidth",
+    "url": "https://www.evolvebenchmark.com/blog-posts/learning-about-gpus-through-measuring-memory-bandwidth",
+    "author": "JasperBekkers",
+    "date": "2025-08-21",
+    "points": "38",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44962361"
+  },
+  {
+    "title": "Linear scan register allocation on SSA",
+    "url": "https://bernsteinbear.com/blog/linear-scan/",
+    "author": "surprisetalk",
+    "date": "2025-08-21",
+    "points": "28",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44931079"
+  },
+  {
+    "title": "Mirrorshades: The Cyberpunk Anthology (1986)",
+    "url": "https://www.rudyrucker.com/mirrorshades/HTML/",
+    "author": "keepamovin",
+    "date": "2025-08-21",
+    "points": "137",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44959833"
+  },
+  {
+    "title": "OPA maintainers and Styra employees hired by Apple",
+    "url": "https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371",
+    "author": "crcsmnky",
+    "date": "2025-08-21",
+    "points": "108",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44962969"
+  },
+  {
+    "title": "Pixel 10 Phones",
+    "url": "https://blog.google/products/pixel/google-pixel-10-pro-xl/",
+    "author": "gotmedium",
+    "date": "2025-08-21",
+    "points": "315",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44963939"
+  },
+  {
+    "title": "Sequoia backs Zed",
+    "url": "https://zed.dev/blog/sequoia-backs-zed",
+    "author": "vquemener",
+    "date": "2025-08-21",
+    "points": "262",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44961172"
+  },
+  {
+    "title": "Show HN: Anchor Relay – A faster, easier way to get Let's Encrypt certificates",
+    "url": "https://anchor.dev/relay",
+    "author": "geemus",
+    "date": "2025-08-21",
+    "points": "56",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44963226"
+  },
+  {
+    "title": "Show HN: I was curious about spherical helix, ended up making this visualization",
+    "url": "https://visualrambling.space/moving-objects-in-3d/",
+    "author": "damarberlari",
+    "date": "2025-08-21",
+    "points": "588",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44962066"
+  },
+  {
+    "title": "Show HN: Luminal – Open-source, search-based GPU compiler",
+    "url": "https://github.com/luminal-ai/luminal",
+    "author": "jafioti",
+    "date": "2025-08-21",
+    "points": "79",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44963135"
+  },
+  {
+    "title": "Show HN: Nestable.dev – local whiteboard app with nestable canvases, deep links",
+    "url": "https://nestable.dev/about",
+    "author": "anorak27",
+    "date": "2025-08-21",
+    "points": "31",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44964266"
+  },
+  {
+    "title": "Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python",
+    "url": "https://github.com/plutoprint/plutoprint",
+    "author": "sammycage",
+    "date": "2025-08-21",
+    "points": "68",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44966170"
+  },
+  {
+    "title": "SimpleIDE",
+    "url": "https://github.com/jamesplotts/simpleide",
+    "author": "impendingchange",
+    "date": "2025-08-21",
+    "points": "4",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44967505"
+  },
+  {
+    "title": "The Rise and Fall of Music Ringtones: A Statistical Analysis",
+    "url": "https://www.statsignificant.com/p/the-rise-and-fall-of-music-ringtones",
+    "author": "gmays",
+    "date": "2025-08-21",
+    "points": "43",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44935850"
+  },
+  {
+    "title": "Tidewave Web: in-browser coding agent for Rails and Phoenix",
+    "url": "https://tidewave.ai/blog/tidewave-web-phoenix-rails",
+    "author": "kieloo",
+    "date": "2025-08-21",
+    "points": "255",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44960316"
+  },
+  {
+    "title": "Understanding Moravec's Paradox",
+    "url": "https://hexhowells.com/posts/moravecs-paradox.html",
+    "author": "hexhowells",
+    "date": "2025-08-21",
+    "points": "11",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44933802"
+  },
+  {
+    "title": "Visualizing GPT-OSS-20B embeddings",
+    "url": "https://melonmars.github.io/LatentExplorer/embedding_viewer.html",
+    "author": "melonmars",
+    "date": "2025-08-21",
+    "points": "58",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44932509"
+  },
+  {
+    "title": "Why are anime catgirls blocking my access to the Linux kernel?",
+    "url": "https://lock.cmpxchg8b.com/anubis.html",
+    "author": "taviso",
+    "date": "2025-08-21",
+    "points": "188",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44962529"
+  },
+  {
+    "title": "Zedless: Zed fork focused on privacy and being local-first",
+    "url": "https://github.com/zedless-editor/zed",
+    "author": "homebrewer",
+    "date": "2025-08-21",
+    "points": "349",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44964916"
+  }
+]

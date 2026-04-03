@@ -1,0 +1,512 @@
+[
+  {
+    "title": "An eBPF Loophole: Using XDP for Egress Traffic",
+    "url": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
+    "author": "loopholelabs",
+    "date": "2025-11-04",
+    "score": 148,
+    "comments": 64,
+    "id": 45812756,
+    "discussion_url": "https://news.ycombinator.com/item?id=45812756",
+    "description": "An eBPF Loophole: Using XDP for Egress Traffic",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638357"
+  },
+  {
+    "title": "Apple’s Persona technology uses Gaussian splatting to create 3D facial scans",
+    "url": "https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/",
+    "author": "dmarcos",
+    "date": "2025-10-30",
+    "score": 199,
+    "comments": 88,
+    "id": 45761433,
+    "discussion_url": "https://news.ycombinator.com/item?id=45761433",
+    "description": "Apple’s Persona technology uses Gaussian splatting to create 3D facial scans",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638331"
+  },
+  {
+    "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
+    "url": "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/",
+    "author": "Roachma",
+    "date": "2025-10-28",
+    "score": 143,
+    "comments": 238,
+    "id": 45733204,
+    "discussion_url": "https://news.ycombinator.com/item?id=45733204",
+    "description": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638310"
+  },
+  {
+    "title": "Bluetui – A TUI for managing Bluetooth on Linux",
+    "url": "https://github.com/pythops/bluetui",
+    "author": "birdculture",
+    "date": "2025-11-04",
+    "score": 237,
+    "comments": 92,
+    "id": 45817114,
+    "discussion_url": "https://news.ycombinator.com/item?id=45817114",
+    "description": "Bluetui – A TUI for managing Bluetooth on Linux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638326"
+  },
+  {
+    "title": "Carice TC2 – A non-digital electric car",
+    "url": "https://www.caricecars.com/",
+    "author": "RubenvanE",
+    "date": "2025-11-05",
+    "score": 113,
+    "comments": 83,
+    "id": 45823186,
+    "discussion_url": "https://news.ycombinator.com/item?id=45823186",
+    "description": "Carice TC2 – A non-digital electric car",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638348"
+  },
+  {
+    "title": "Developers are choosing older AI models",
+    "url": "https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why",
+    "author": "knes",
+    "date": "2025-10-29",
+    "score": 165,
+    "comments": 149,
+    "id": 45749833,
+    "discussion_url": "https://news.ycombinator.com/item?id=45749833",
+    "description": "Developers are choosing older AI models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638401"
+  },
+  {
+    "title": "Direct File won't happen in 2026, IRS tells states",
+    "url": "https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/",
+    "author": "jhatax",
+    "date": "2025-11-05",
+    "score": 310,
+    "comments": 194,
+    "id": 45818319,
+    "discussion_url": "https://news.ycombinator.com/item?id=45818319",
+    "description": "Direct File won't happen in 2026, IRS tells states",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638426"
+  },
+  {
+    "title": "Google Removed 749M Anna's Archive URLs from Its Search Results",
+    "url": "https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/",
+    "author": "gslin",
+    "date": "2025-11-04",
+    "score": 351,
+    "comments": 143,
+    "id": 45816968,
+    "discussion_url": "https://news.ycombinator.com/item?id=45816968",
+    "description": "Google Removed 749M Anna's Archive URLs from Its Search Results",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638505"
+  },
+  {
+    "title": "Grayskull: A tiny computer vision library in C for embedded systems, etc.",
+    "url": "https://github.com/zserge/grayskull",
+    "author": "gurjeet",
+    "date": "2025-11-04",
+    "score": 175,
+    "comments": 15,
+    "id": 45816673,
+    "discussion_url": "https://news.ycombinator.com/item?id=45816673",
+    "description": "Grayskull: A tiny computer vision library in C for embedded systems, etc.",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638339"
+  },
+  {
+    "title": "Hypothesis: Property-Based Testing for Python",
+    "url": "https://hypothesis.readthedocs.io/en/latest/",
+    "author": "lwhsiao",
+    "date": "2025-11-05",
+    "score": 199,
+    "comments": 116,
+    "id": 45818562,
+    "discussion_url": "https://news.ycombinator.com/item?id=45818562",
+    "description": "Hypothesis: Property-Based Testing for Python",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638304"
+  },
+  {
+    "title": "I took all my projects off the cloud, saving thousands of dollars",
+    "url": "https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/",
+    "author": "sebnun",
+    "date": "2025-11-04",
+    "score": 441,
+    "comments": 359,
+    "id": 45816041,
+    "discussion_url": "https://news.ycombinator.com/item?id=45816041",
+    "description": "I took all my projects off the cloud, saving thousands of dollars",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638379"
+  },
+  {
+    "title": "I’m worried that they put co-pilot in Excel",
+    "url": "https://simonwillison.net/2025/Nov/5/brenda/",
+    "author": "isaacfrond",
+    "date": "2025-11-05",
+    "score": 351,
+    "comments": 249,
+    "id": 45820872,
+    "discussion_url": "https://news.ycombinator.com/item?id=45820872",
+    "description": "I’m worried that they put co-pilot in Excel",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638374"
+  },
+  {
+    "title": "Microsoft Can't Keep EU Data Safe from US Authorities",
+    "url": "https://www.forbes.com/sites/emmawoollacott/2025/07/22/microsoft-cant-keep-eu-data-safe-from-us-authorities/",
+    "author": "Mossy9",
+    "date": "2025-11-05",
+    "score": 144,
+    "comments": 41,
+    "id": 45822902,
+    "discussion_url": "https://news.ycombinator.com/item?id=45822902",
+    "description": "Microsoft Can't Keep EU Data Safe from US Authorities",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638477"
+  },
+  {
+    "title": "Mr TIFF",
+    "url": "https://inventingthefuture.ghost.io/mr-tiff/",
+    "author": "speckx",
+    "date": "2025-11-04",
+    "score": 926,
+    "comments": 120,
+    "id": 45816853,
+    "discussion_url": "https://news.ycombinator.com/item?id=45816853",
+    "description": "Mr TIFF",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638344"
+  },
+  {
+    "title": "NY smartphone ban has made lunch loud again",
+    "url": "https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again",
+    "author": "hrldcpr",
+    "date": "2025-11-05",
+    "score": 102,
+    "comments": 58,
+    "id": 45822539,
+    "discussion_url": "https://news.ycombinator.com/item?id=45822539",
+    "description": "NY smartphone ban has made lunch loud again",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638514"
+  },
+  {
+    "title": "NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware",
+    "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
+    "author": "mukti",
+    "date": "2025-11-04",
+    "score": 370,
+    "comments": 134,
+    "id": 45813343,
+    "discussion_url": "https://news.ycombinator.com/item?id=45813343",
+    "description": "NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638518"
+  },
+  {
+    "title": "Norway reviews cybersecurity after remote-access feature found in Chinese buses",
+    "url": "https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/",
+    "author": "dredmorbius",
+    "date": "2025-11-05",
+    "score": 117,
+    "comments": 75,
+    "id": 45824658,
+    "discussion_url": "https://news.ycombinator.com/item?id=45824658",
+    "description": "Norway reviews cybersecurity after remote-access feature found in Chinese buses",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638383"
+  },
+  {
+    "title": "Pg_lake: Postgres with Iceberg and data lake access",
+    "url": "https://github.com/Snowflake-Labs/pg_lake",
+    "author": "plaur782",
+    "date": "2025-11-04",
+    "score": 360,
+    "comments": 111,
+    "id": 45812606,
+    "discussion_url": "https://news.ycombinator.com/item?id=45812606",
+    "description": "Pg_lake: Postgres with Iceberg and data lake access",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638510"
+  },
+  {
+    "title": "RISC-V takes first step toward international ISO/IEC standardization",
+    "url": "https://riscv.org/blog/risc-v-jtc1-pas-submitter/",
+    "author": "jrepinc",
+    "date": "2025-10-30",
+    "score": 232,
+    "comments": 88,
+    "id": 45759839,
+    "discussion_url": "https://news.ycombinator.com/item?id=45759839",
+    "description": "RISC-V takes first step toward international ISO/IEC standardization",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638530"
+  },
+  {
+    "title": "Radiant Computer",
+    "url": "https://radiant.computer",
+    "author": "beardicus",
+    "date": "2025-11-05",
+    "score": 132,
+    "comments": 97,
+    "id": 45822559,
+    "discussion_url": "https://news.ycombinator.com/item?id=45822559",
+    "description": "Radiant Computer",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638469"
+  },
+  {
+    "title": "Removing XSLT for a more secure browser",
+    "url": "https://developer.chrome.com/docs/web-platform/deprecating-xslt",
+    "author": "justin-reeves",
+    "date": "2025-11-05",
+    "score": 117,
+    "comments": 176,
+    "id": 45823059,
+    "discussion_url": "https://news.ycombinator.com/item?id=45823059",
+    "description": "Removing XSLT for a more secure browser",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638435"
+  },
+  {
+    "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
+    "url": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
+    "author": "og_kalu",
+    "date": "2025-10-30",
+    "score": 184,
+    "comments": 87,
+    "id": 45761594,
+    "discussion_url": "https://news.ycombinator.com/item?id=45761594",
+    "description": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638271"
+  },
+  {
+    "title": "Singing bus horns in West Sumatra",
+    "url": "https://www.auralarchipelago.com/auralarchipelago/kalason",
+    "author": "Kaibeezy",
+    "date": "2025-10-24",
+    "score": 98,
+    "comments": 13,
+    "id": 45692042,
+    "discussion_url": "https://news.ycombinator.com/item?id=45692042",
+    "description": "Singing bus horns in West Sumatra",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638497"
+  },
+  {
+    "title": "The Hacker’s Manifesto (1986)",
+    "url": "https://phrack.org/issues/7/3",
+    "author": "OuterVale",
+    "date": "2025-11-05",
+    "score": 119,
+    "comments": 55,
+    "id": 45820715,
+    "discussion_url": "https://news.ycombinator.com/item?id=45820715",
+    "description": "The Hacker’s Manifesto (1986)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638413"
+  },
+  {
+    "title": "The Microsoft SoftCard for the Apple II: Getting two processors to share memory",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758",
+    "author": "zdw",
+    "date": "2025-11-05",
+    "score": 95,
+    "comments": 51,
+    "id": 45818471,
+    "discussion_url": "https://news.ycombinator.com/item?id=45818471",
+    "description": "The Microsoft SoftCard for the Apple II: Getting two processors to share memory",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638388"
+  },
+  {
+    "title": "The shadows lurking in the equations",
+    "url": "https://gods.art/articles/equation_shadows.html",
+    "author": "calebm",
+    "date": "2025-11-05",
+    "score": 197,
+    "comments": 59,
+    "id": 45823141,
+    "discussion_url": "https://news.ycombinator.com/item?id=45823141",
+    "description": "The shadows lurking in the equations",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638284"
+  },
+  {
+    "title": "This week in 1988, Robert Morris unleashed his eponymous worm",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
+    "author": "canucker2016",
+    "date": "2025-11-04",
+    "score": 420,
+    "comments": 182,
+    "id": 45812024,
+    "discussion_url": "https://news.ycombinator.com/item?id=45812024",
+    "description": "This week in 1988, Robert Morris unleashed his eponymous worm",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638460"
+  },
+  {
+    "title": "UPS plane crashes near Louisville airport",
+    "url": "https://avherald.com/h?article=52f5748f&opt=0",
+    "author": "jnsaff2",
+    "date": "2025-11-04",
+    "score": 323,
+    "comments": 313,
+    "id": 45816963,
+    "discussion_url": "https://news.ycombinator.com/item?id=45816963",
+    "description": "UPS plane crashes near Louisville airport",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638294"
+  },
+  {
+    "title": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
+    "url": "https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
+    "author": "SanjayMehta",
+    "date": "2025-11-04",
+    "score": 348,
+    "comments": 228,
+    "id": 45817167,
+    "discussion_url": "https://news.ycombinator.com/item?id=45817167",
+    "description": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638444"
+  },
+  {
+    "title": "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
+    "url": "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/",
+    "author": "tosh",
+    "date": "2025-11-05",
+    "score": 256,
+    "comments": 167,
+    "id": 45822302,
+    "discussion_url": "https://news.ycombinator.com/item?id=45822302",
+    "description": "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-05T19:08:06.638522"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A technical look at Iran's internet shutdowns",
+    "url": "https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown",
+    "author": "znano",
+    "date": "2025-07-14",
+    "score": 198,
+    "comments": 85,
+    "id": 44551652,
+    "discussion_url": "https://news.ycombinator.com/item?id=44551652",
+    "description": "A technical look at Iran's internet shutdowns",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574559"
+  },
+  {
+    "title": "APKLab: Android Reverse-Engineering Workbench for VS Code",
+    "url": "https://github.com/APKLab/APKLab",
+    "author": "nateb2022",
+    "date": "2025-07-14",
+    "score": 122,
+    "comments": 8,
+    "id": 44553747,
+    "discussion_url": "https://news.ycombinator.com/item?id=44553747",
+    "description": "APKLab: Android Reverse-Engineering Workbench for VS Code",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574571"
+  },
+  {
+    "title": "Apple's Browser Engine Ban Persists, Even Under the DMA",
+    "url": "https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/",
+    "author": "yashghelani",
+    "date": "2025-07-14",
+    "score": 211,
+    "comments": 107,
+    "id": 44557348,
+    "discussion_url": "https://news.ycombinator.com/item?id=44557348",
+    "description": "Apple's Browser Engine Ban Persists, Even Under the DMA",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574586"
+  },
+  {
+    "title": "Axon’s Draft One is designed to defy transparency",
+    "url": "https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency",
+    "author": "zdw",
+    "date": "2025-07-11",
+    "score": 236,
+    "comments": 155,
+    "id": 44527172,
+    "discussion_url": "https://news.ycombinator.com/item?id=44527172",
+    "description": "Axon’s Draft One is designed to defy transparency",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574722"
+  },
+  {
+    "title": "Bypassing Google's big anti-adblock update",
+    "url": "https://0x44.xyz/blog/web-request-blocking/",
+    "author": "deryilz",
+    "date": "2025-07-13",
+    "score": 978,
+    "comments": 857,
+    "id": 44544266,
+    "discussion_url": "https://news.ycombinator.com/item?id=44544266",
+    "description": "Bypassing Google's big anti-adblock update",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574717"
+  },
+  {
+    "title": "C3 solved memory lifetimes with scopes",
+    "url": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/",
+    "author": "lerno",
+    "date": "2025-07-12",
+    "score": 121,
+    "comments": 99,
+    "id": 44532527,
+    "discussion_url": "https://news.ycombinator.com/item?id=44532527",
+    "description": "C3 solved memory lifetimes with scopes",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574641"
+  },
+  {
+    "title": "Does showing seconds in the system tray actually use more power?",
+    "url": "https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power",
+    "author": "LorenDB",
+    "date": "2025-07-14",
+    "score": 188,
+    "comments": 161,
+    "id": 44551913,
+    "discussion_url": "https://news.ycombinator.com/item?id=44551913",
+    "description": "Does showing seconds in the system tray actually use more power?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574726"
+  },
+  {
+    "title": "Edward Burtynsky's monumental chronicle of the human impact on the planet",
+    "url": "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale",
+    "author": "pseudolus",
+    "date": "2025-07-13",
+    "score": 115,
+    "comments": 16,
+    "id": 44547089,
+    "discussion_url": "https://news.ycombinator.com/item?id=44547089",
+    "description": "Edward Burtynsky's monumental chronicle of the human impact on the planet",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574789"
+  },
+  {
+    "title": "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs",
+    "url": "https://arxiv.org/abs/2502.17424",
+    "author": "martythemaniak",
+    "date": "2025-07-14",
+    "score": 125,
+    "comments": 37,
+    "id": 44554865,
+    "discussion_url": "https://news.ycombinator.com/item?id=44554865",
+    "description": "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574595"
+  },
+  {
+    "title": "Five companies now control over 90% of the restaurant food delivery market",
+    "url": "https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90",
+    "author": "goinggetthem",
+    "date": "2025-07-14",
+    "score": 248,
+    "comments": 266,
+    "id": 44553389,
+    "discussion_url": "https://news.ycombinator.com/item?id=44553389",
+    "description": "Five companies now control over 90% of the restaurant food delivery market",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574690"
+  },
+  {
+    "title": "GLP-1s are breaking life insurance",
+    "url": "https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance",
+    "author": "alexslobodnik",
+    "date": "2025-07-14",
+    "score": 345,
+    "comments": 416,
+    "id": 44552414,
+    "discussion_url": "https://news.ycombinator.com/item?id=44552414",
+    "description": "GLP-1s are breaking life insurance",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574704"
+  },
+  {
+    "title": "How I build software quickly",
+    "url": "https://evanhahn.com/how-i-build-software-quickly/",
+    "author": "kiyanwang",
+    "date": "2025-07-14",
+    "score": 137,
+    "comments": 54,
+    "id": 44557115,
+    "discussion_url": "https://news.ycombinator.com/item?id=44557115",
+    "description": "How I build software quickly",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574540"
+  },
+  {
+    "title": "How does a screen work?",
+    "url": "https://www.makingsoftware.com/chapters/how-a-screen-works",
+    "author": "chkhd",
+    "date": "2025-07-14",
+    "score": 453,
+    "comments": 93,
+    "id": 44550572,
+    "discussion_url": "https://news.ycombinator.com/item?id=44550572",
+    "description": "How does a screen work?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574604"
+  },
+  {
+    "title": "Hypercapitalism and the AI talent wars",
+    "url": "https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent",
+    "author": "walterbell",
+    "date": "2025-07-14",
+    "score": 109,
+    "comments": 94,
+    "id": 44553257,
+    "discussion_url": "https://news.ycombinator.com/item?id=44553257",
+    "description": "Hypercapitalism and the AI talent wars",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574695"
+  },
+  {
+    "title": "James Webb, Hubble space telescopes face reduction in operations",
+    "url": "https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/",
+    "author": "geox",
+    "date": "2025-07-14",
+    "score": 118,
+    "comments": 63,
+    "id": 44555804,
+    "discussion_url": "https://news.ycombinator.com/item?id=44555804",
+    "description": "James Webb, Hubble space telescopes face reduction in operations",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574663"
+  },
+  {
+    "title": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model",
+    "url": "https://twitter.com/Kimi_Moonshot/status/1943687594560332025",
+    "author": "c4pt0r",
+    "date": "2025-07-12",
+    "score": 305,
+    "comments": 167,
+    "id": 44533403,
+    "discussion_url": "https://news.ycombinator.com/item?id=44533403",
+    "description": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574785"
+  },
+  {
+    "title": "Let's Learn x86-64 Assembly (2020)",
+    "url": "https://gpfault.net/posts/asm-tut-0.txt.html",
+    "author": "90s_dev",
+    "date": "2025-07-14",
+    "score": 304,
+    "comments": 69,
+    "id": 44554307,
+    "discussion_url": "https://news.ycombinator.com/item?id=44554307",
+    "description": "Let's Learn x86-64 Assembly (2020)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574591"
+  },
+  {
+    "title": "MacPaint Art from the Mid-80s Still Looks Great Today",
+    "url": "https://blog.decryption.net.au/posts/macpaint.html",
+    "author": "decryption",
+    "date": "2025-07-12",
+    "score": 1001,
+    "comments": 194,
+    "id": 44540402,
+    "discussion_url": "https://news.ycombinator.com/item?id=44540402",
+    "description": "MacPaint Art from the Mid-80s Still Looks Great Today",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574780"
+  },
+  {
+    "title": "Monitoring My Homelab, Simply",
+    "url": "https://b.tuxes.uk/simple-homelab-monitoring.html",
+    "author": "Bogdanp",
+    "date": "2025-07-10",
+    "score": 149,
+    "comments": 48,
+    "id": 44519776,
+    "discussion_url": "https://news.ycombinator.com/item?id=44519776",
+    "description": "Monitoring My Homelab, Simply",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574713"
+  },
+  {
+    "title": "Notes on Graham's ANSI Common Lisp (2024)",
+    "url": "https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html",
+    "author": "oumua_don17",
+    "date": "2025-07-10",
+    "score": 99,
+    "comments": 35,
+    "id": 44515783,
+    "discussion_url": "https://news.ycombinator.com/item?id=44515783",
+    "description": "Notes on Graham's ANSI Common Lisp (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574776"
+  },
+  {
+    "title": "OpenCut: The open-source CapCut alternative",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "author": "nateb2022",
+    "date": "2025-07-14",
+    "score": 368,
+    "comments": 115,
+    "id": 44553752,
+    "discussion_url": "https://news.ycombinator.com/item?id=44553752",
+    "description": "OpenCut: The open-source CapCut alternative",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574623"
+  },
+  {
+    "title": "Reading Neuromancer for the first time in 2025",
+    "url": "https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson",
+    "author": "keiferski",
+    "date": "2025-07-13",
+    "score": 398,
+    "comments": 346,
+    "id": 44548353,
+    "discussion_url": "https://news.ycombinator.com/item?id=44548353",
+    "description": "Reading Neuromancer for the first time in 2025",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574730"
+  },
+  {
+    "title": "Show HN: A Raycast-compatible launcher for Linux",
+    "url": "https://github.com/ByteAtATime/raycast-linux",
+    "author": "ByteAtATime",
+    "date": "2025-07-14",
+    "score": 174,
+    "comments": 50,
+    "id": 44551762,
+    "discussion_url": "https://news.ycombinator.com/item?id=44551762",
+    "description": "Show HN: A Raycast-compatible launcher for Linux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574699"
+  },
+  {
+    "title": "Show HN: FFmpeg in plain English – LLM-assisted FFmpeg in the browser",
+    "url": "https://vidmix.app/ffmpeg-in-plain-english/",
+    "author": "bjano",
+    "date": "2025-07-10",
+    "score": 116,
+    "comments": 25,
+    "id": 44520855,
+    "discussion_url": "https://news.ycombinator.com/item?id=44520855",
+    "description": "Show HN: FFmpeg in plain English – LLM-assisted FFmpeg in the browser",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574650"
+  },
+  {
+    "title": "Show HN: Learn LLMs LeetCode Style",
+    "url": "https://github.com/Exorust/TorchLeet",
+    "author": "Exorust",
+    "date": "2025-07-13",
+    "score": 159,
+    "comments": 18,
+    "id": 44550157,
+    "discussion_url": "https://news.ycombinator.com/item?id=44550157",
+    "description": "Show HN: Learn LLMs LeetCode Style",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574659"
+  },
+  {
+    "title": "Show HN: Refine – A Local Alternative to Grammarly",
+    "url": "https://refine.sh",
+    "author": "runjuu",
+    "date": "2025-07-14",
+    "score": 200,
+    "comments": 97,
+    "id": 44556684,
+    "discussion_url": "https://news.ycombinator.com/item?id=44556684",
+    "description": "Show HN: Refine – A Local Alternative to Grammarly",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574533"
+  },
+  {
+    "title": "Show HN: Ten years of running every day, visualized",
+    "url": "https://nodaysoff.run",
+    "author": "friggeri",
+    "date": "2025-07-11",
+    "score": 559,
+    "comments": 225,
+    "id": 44522683,
+    "discussion_url": "https://news.ycombinator.com/item?id=44522683",
+    "description": "Show HN: Ten years of running every day, visualized",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574550"
+  },
+  {
+    "title": "The North Korean fake IT worker problem is ubiquitous",
+    "url": "https://www.theregister.com/2025/07/13/fake_it_worker_problem/",
+    "author": "rntn",
+    "date": "2025-07-13",
+    "score": 285,
+    "comments": 324,
+    "id": 44549762,
+    "discussion_url": "https://news.ycombinator.com/item?id=44549762",
+    "description": "The North Korean fake IT worker problem is ubiquitous",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574768"
+  },
+  {
+    "title": "The underground cathedral protecting Tokyo from floods (2018)",
+    "url": "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods",
+    "author": "barry-cotter",
+    "date": "2025-07-10",
+    "score": 122,
+    "comments": 40,
+    "id": 44519395,
+    "discussion_url": "https://news.ycombinator.com/item?id=44519395",
+    "description": "The underground cathedral protecting Tokyo from floods (2018)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574576"
+  },
+  {
+    "title": "The upcoming GPT-3 moment for RL",
+    "url": "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/",
+    "author": "jxmorris12",
+    "date": "2025-07-10",
+    "score": 211,
+    "comments": 88,
+    "id": 44512350,
+    "discussion_url": "https://news.ycombinator.com/item?id=44512350",
+    "description": "The upcoming GPT-3 moment for RL",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-14T22:08:19.574645"
+  }
+]

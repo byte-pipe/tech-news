@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": ["Bash(curl:*)", "Bash(grep:*)", "mcp__github__get_issue", "Bash(rm:*)", "Bash(python:*)", "Bash(mkdir:*)", "Bash(ls:*)", "WebFetch(domain:techcrunch.com)", "WebFetch(domain:venturebeat.com)", "Bash(touch:*)", "Bash(chmod:*)", "Bash(poetry install:*)", "Bash(poetry run:*)", "Bash(poetry add:*)", "Bash(poetry:*)", "Bash(flake8:*)", "Bash(git add:*)", "Bash(git rm:*)", "mcp__github__get_me", "Bash(find:*)", "Bash(git merge:*)", "Bash(cat:*)", "Bash(git config:*)", "Bash(git commit:*)", "Bash(git checkout:*)", "Bash(cp:*)", "Bash(git mv:*)", "Bash(git reset:*)", "Bash(git push:*)", "Bash(git branch:*)", "WebFetch(domain:github.com)", "Bash(./daily-local-run.sh:*)", "Bash(./scrape --help)", "Bash(./scrape run --help)", "Bash(./scrape run:*)", "Bash(mv:*)", "Bash(./organize-data --preview --recent 2)", "Bash(./organize-data:*)", "Bash(./scrape scrape:*)", "Bash(tree:*)", "Bash(./scrape organize:*)", "Bash(ollama list:*)", "Bash(rg:*)", "mcp__sequentialthinking__sequentialthinking", "Bash(pre-commit run:*)"],
+    "deny": []
+  },
+  "enableAllProjectMcpServers": false
+}

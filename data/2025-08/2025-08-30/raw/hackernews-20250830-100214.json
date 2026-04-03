@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Data engineering and software engineering are converging",
+    "url": "https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure",
+    "author": "craneca0",
+    "date": "2025-08-30",
+    "points": "57",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45067867"
+  },
+  {
+    "title": "Deploying DeepSeek on 96 H100 GPUs",
+    "url": "https://lmsys.org/blog/2025-05-05-large-scale-ep/",
+    "author": "GabrielBianconi",
+    "date": "2025-08-30",
+    "points": "182",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45064329"
+  },
+  {
+    "title": "Do the simplest thing that could possibly work",
+    "url": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
+    "author": "dondraper36",
+    "date": "2025-08-30",
+    "points": "299",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45068091"
+  },
+  {
+    "title": "Essential Coding Theory [pdf]",
+    "url": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf",
+    "author": "ibobev",
+    "date": "2025-08-30",
+    "points": "244",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45065705"
+  },
+  {
+    "title": "Fixing an old .NET Core native library loading issue on Alpine",
+    "url": "https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/",
+    "author": "ingve",
+    "date": "2025-08-30",
+    "points": "59",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45037936"
+  },
+  {
+    "title": "Flunking my Anthropic interview again",
+    "url": "https://taylor.town/flunking-anthropic",
+    "author": "surprisetalk",
+    "date": "2025-08-30",
+    "points": "237",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45064284"
+  },
+  {
+    "title": "God created the real numbers",
+    "url": "https://www.ethanheilman.com/x/34/index.html",
+    "author": "Bogdanp",
+    "date": "2025-08-30",
+    "points": "58",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45065425"
+  },
+  {
+    "title": "Grok Code Fast 1",
+    "url": "https://x.ai/news/grok-code-fast-1",
+    "author": "Terretta",
+    "date": "2025-08-30",
+    "points": "292",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45063559"
+  },
+  {
+    "title": "Hermes 4",
+    "url": "https://hermes4.nousresearch.com/",
+    "author": "sibellavia",
+    "date": "2025-08-30",
+    "points": "78",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45037064"
+  },
+  {
+    "title": "How did .agakhan, .ismaili and .imamat get their own TLDs?",
+    "url": "https://data.iana.org/TLD/tlds-alpha-by-domain.txt",
+    "author": "aerodog",
+    "date": "2025-08-30",
+    "points": "61",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45068215"
+  },
+  {
+    "title": "John Carmack's arguments against building a custom XR OS at Meta",
+    "url": "https://twitter.com/ID_AA_Carmack/status/1961172409920491849",
+    "author": "OlympicMarmoto",
+    "date": "2025-08-30",
+    "points": "205",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45066395"
+  },
+  {
+    "title": "Lisp from Nothing, Second Edition",
+    "url": "http://t3x.org/lfn/index.html",
+    "author": "nils-m-holm",
+    "date": "2025-08-30",
+    "points": "149",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45037419"
+  },
+  {
+    "title": "Make any site multiplayer in a few lines. Serverless WebRTC matchmaking",
+    "url": "https://oxism.com/trystero/",
+    "author": "haxiomic",
+    "date": "2025-08-30",
+    "points": "206",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45012080"
+  },
+  {
+    "title": "Offline-First Landscape – 2025",
+    "url": "https://marcoapp.io/blog/offline-first-landscape",
+    "author": "Onavo",
+    "date": "2025-08-30",
+    "points": "86",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45066070"
+  },
+  {
+    "title": "Reloading Classes in Python",
+    "url": "https://andrewpwheeler.com/2025/08/26/reloading-classes-in-python-and-shared-borders/",
+    "author": "apwheele",
+    "date": "2025-08-30",
+    "points": "9",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45024980"
+  },
+  {
+    "title": "SQLite's documentation about its durability properties is unclear",
+    "url": "https://www.agwa.name/blog/post/sqlite_durability",
+    "author": "ciconia",
+    "date": "2025-08-30",
+    "points": "113",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45066999"
+  },
+  {
+    "title": "Seedbox Lite: A lightweight torrent streaming app with instant playback",
+    "url": "https://github.com/hotheadhacker/seedbox-lite",
+    "author": "redbell",
+    "date": "2025-08-30",
+    "points": "86",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45065278"
+  },
+  {
+    "title": "Show HN: Find Hidden Gems on HN",
+    "url": "https://pj4533.com/hn-overlooked/",
+    "author": "pj4533",
+    "date": "2025-08-30",
+    "points": "90",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45064210"
+  },
+  {
+    "title": "Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown",
+    "url": "https://sosumi.ai/",
+    "author": "_mattt",
+    "date": "2025-08-30",
+    "points": "91",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45063874"
+  },
+  {
+    "title": "Some users have noticed settings that let Meta analyze and retain phone photos",
+    "url": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/",
+    "author": "mdhb",
+    "date": "2025-08-30",
+    "points": "444",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45062910"
+  },
+  {
+    "title": "The No-CPU Amiga Demo Challenge",
+    "url": "https://github.com/askeksa/NoCpuChallenge",
+    "author": "doener",
+    "date": "2025-08-30",
+    "points": "77",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45068268"
+  },
+  {
+    "title": "The Synology End Game",
+    "url": "https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/",
+    "author": "amacbride",
+    "date": "2025-08-30",
+    "points": "383",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45060920"
+  },
+  {
+    "title": "The Theoretical Limitations of Embedding-Based Retrieval",
+    "url": "https://arxiv.org/abs/2508.21038",
+    "author": "fzliu",
+    "date": "2025-08-30",
+    "points": "59",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45068986"
+  },
+  {
+    "title": "This is my brain on leeches",
+    "url": "https://todaythings.substack.com/p/this-is-my-brain-on-leeches",
+    "author": "aebtebeten",
+    "date": "2025-08-30",
+    "points": "55",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45037109"
+  },
+  {
+    "title": "Thunder Compute (YC S24) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire",
+    "author": "",
+    "date": "2025-08-30",
+    "points": "0",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45066592"
+  },
+  {
+    "title": "Updates to Consumer Terms and Privacy Policy",
+    "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
+    "author": "porridgeraisin",
+    "date": "2025-08-30",
+    "points": "711",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45062683"
+  },
+  {
+    "title": "What Does will-change In CSS Do?",
+    "url": "https://jakub.kr/components/will-change-in-css",
+    "author": "ssernikk",
+    "date": "2025-08-30",
+    "points": "26",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45037120"
+  },
+  {
+    "title": "Why AI Isn't Ready to Be a Real Coder",
+    "url": "https://spectrum.ieee.org/ai-for-coding",
+    "author": "WolfOliver",
+    "date": "2025-08-30",
+    "points": "141",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45065343"
+  },
+  {
+    "title": "Why You Should Be Using XSLT 3.0 (2017)",
+    "url": "https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/",
+    "author": "protomolecool",
+    "date": "2025-08-30",
+    "points": "26",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45026013"
+  },
+  {
+    "title": "Wikipedia as a Graph",
+    "url": "https://wikigrapher.com/paths",
+    "author": "gidellav",
+    "date": "2025-08-30",
+    "points": "152",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45066060"
+  }
+]

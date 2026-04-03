@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A puzzling Python program",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://jo3-l.dev/posts/python-countdown/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Abusing Ubuntu 24.04 features for root privilege escalation (2024)",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "All the cool kids are doing it",
+    "author": "",
+    "score": "35",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Announcing Rust 1.89.0",
+    "author": "",
+    "score": "55",
+    "comments": "0",
+    "tags": "release, rust",
+    "url": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Arenas in Rust",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://russellw.github.io/arenas",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "compsci",
+    "url": "https://arxiv.org/abs/2504.17033",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "GPT-5 is here",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "ai, vibecoding",
+    "url": "https://openai.com/gpt-5/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "HTTP is not simple",
+    "author": "",
+    "score": "42",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "How I ended up writing Gleam for a living",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "video, gleam",
+    "url": "https://www.youtube.com/watch?v=BfPRcanTWXA",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "How long does it take to upgrade an eBook?",
+    "author": "",
+    "score": "28",
+    "comments": "0",
+    "tags": "a11y",
+    "url": "https://shkspr.mobi/blog/2025/08/how-long-does-it-take-to-upgrade-an-ebook/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Hypothesis is now thread-safe",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "python, testing",
+    "url": "https://hypothesis.works/articles/thread-safe/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Introducing Wassette: WebAssembly-based tools for AI agents",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "vibecoding, wasm",
+    "url": "https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Jepsen: Capela dda5892",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "databases, distributed, testing",
+    "url": "https://jepsen.io/analyses/capela-dda5892",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "KomoDo, my first KDE app",
+    "author": "",
+    "score": "56",
+    "comments": "0",
+    "tags": "linux, release",
+    "url": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "LVFS Sustainability Plan",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://blogs.gnome.org/hughsie/2025/08/08/lvfs-sustainability-plan/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Lobsters Interview with Hwayne",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "formalmethods, person",
+    "url": "https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne",
+    "date": "2025-08-08",
+    "description": "☶"
+  },
+  {
+    "title": "Mac history echoes in current Mac operating systems",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "historical, mac",
+    "url": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Overview of Jepsen at BugBash 2025",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "databases, distributed, testing",
+    "url": "https://antithesis.com/blog/2025/bugbash_2025/kyle_kingsbury/",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Programming as Extended Cognition",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://ieeexplore.ieee.org/document/11119124",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Understanding not just Clojure's comp function by re-implementing it",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "clojure",
+    "url": "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "Updated Google Project Zero disclosure policy",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html",
+    "date": "2025-08-08",
+    "description": "☶"
+  },
+  {
+    "title": "We replaced passwords with something worse",
+    "author": "",
+    "score": "87",
+    "comments": "0",
+    "tags": "practices, security",
+    "url": "https://blog.danielh.cc/blog/passwords",
+    "date": "2025-08-08",
+    "description": ""
+  },
+  {
+    "title": "What are you doing this weekend?",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "ask, programming",
+    "url": "https://lobste.rs/s/qr1kro/what_are_you_doing_this_weekend",
+    "date": "2025-08-08",
+    "description": "☶"
+  },
+  {
+    "title": "Who's Hiring? Q3 2025",
+    "author": "",
+    "score": "45",
+    "comments": "0",
+    "tags": "job",
+    "url": "https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025",
+    "date": "2025-08-08",
+    "description": "☶"
+  },
+  {
+    "title": "Writing surtoget.no with gleam",
+    "author": "",
+    "score": "30",
+    "comments": "0",
+    "tags": "gleam",
+    "url": "https://lindbakk.com/blog/introducing-surtoget_no",
+    "date": "2025-08-08",
+    "description": ""
+  }
+]

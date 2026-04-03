@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A production bug that made me care about undefined behavior",
+    "url": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
+    "author": "birdculture",
+    "date": "2025-12-29",
+    "score": 153,
+    "comments": 99,
+    "id": 46423521,
+    "discussion_url": "https://news.ycombinator.com/item?id=46423521",
+    "description": "A production bug that made me care about undefined behavior",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397714"
+  },
+  {
+    "title": "AI is forcing us to write good code",
+    "url": "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code",
+    "author": "sgk284",
+    "date": "2025-12-29",
+    "score": 273,
+    "comments": 202,
+    "id": 46424200,
+    "discussion_url": "https://news.ycombinator.com/item?id=46424200",
+    "description": "AI is forcing us to write good code",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397626"
+  },
+  {
+    "title": "Approachable Swift Concurrency",
+    "url": "https://fuckingapproachableswiftconcurrency.com/en/",
+    "author": "wrxd",
+    "date": "2025-12-30",
+    "score": 111,
+    "comments": 47,
+    "id": 46432916,
+    "discussion_url": "https://news.ycombinator.com/item?id=46432916",
+    "description": "Approachable Swift Concurrency",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397543"
+  },
+  {
+    "title": "Flame Graphs vs Tree Maps vs Sunburst (2017)",
+    "url": "https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html",
+    "author": "gudzpoz",
+    "date": "2025-12-27",
+    "score": 128,
+    "comments": 35,
+    "id": 46401052,
+    "discussion_url": "https://news.ycombinator.com/item?id=46401052",
+    "description": "Flame Graphs vs Tree Maps vs Sunburst (2017)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397674"
+  },
+  {
+    "title": "GOG is getting acquired by its original co-founder",
+    "url": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+    "author": "haunter",
+    "date": "2025-12-29",
+    "score": 822,
+    "comments": 502,
+    "id": 46422412,
+    "discussion_url": "https://news.ycombinator.com/item?id=46422412",
+    "description": "GOG is getting acquired by its original co-founder",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397525"
+  },
+  {
+    "title": "Go away Python",
+    "url": "https://lorentz.app/blog-item.html?id=go-shebang",
+    "author": "baalimago",
+    "date": "2025-12-30",
+    "score": 251,
+    "comments": 236,
+    "id": 46431028,
+    "discussion_url": "https://news.ycombinator.com/item?id=46431028",
+    "description": "Go away Python",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397539"
+  },
+  {
+    "title": "Google is dead. Where do we go now?",
+    "url": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
+    "author": "tomjuggler",
+    "date": "2025-12-29",
+    "score": 992,
+    "comments": 785,
+    "id": 46425198,
+    "discussion_url": "https://news.ycombinator.com/item?id=46425198",
+    "description": "Google is dead. Where do we go now?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397607"
+  },
+  {
+    "title": "Hacking Washing Machines [video]",
+    "url": "https://media.ccc.de/v/39c3-hacking-washing-machines",
+    "author": "clausecker",
+    "date": "2025-12-30",
+    "score": 183,
+    "comments": 39,
+    "id": 46428496,
+    "discussion_url": "https://news.ycombinator.com/item?id=46428496",
+    "description": "Hacking Washing Machines [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397557"
+  },
+  {
+    "title": "I migrated to an almost all-EU stack and saved 500€ per year",
+    "url": "https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to",
+    "author": "alexcos",
+    "date": "2025-12-29",
+    "score": 308,
+    "comments": 222,
+    "id": 46427582,
+    "discussion_url": "https://news.ycombinator.com/item?id=46427582",
+    "description": "I migrated to an almost all-EU stack and saved 500€ per year",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397689"
+  },
+  {
+    "title": "Incremental Backups of Gmail Takeouts",
+    "url": "https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/",
+    "author": "pbhn",
+    "date": "2025-12-25",
+    "score": 112,
+    "comments": 55,
+    "id": 46384153,
+    "discussion_url": "https://news.ycombinator.com/item?id=46384153",
+    "description": "Incremental Backups of Gmail Takeouts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397622"
+  },
+  {
+    "title": "Kidnapped by Deutsche Bahn",
+    "url": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
+    "author": "JeremyTheo",
+    "date": "2025-12-29",
+    "score": 1138,
+    "comments": 989,
+    "id": 46419970,
+    "discussion_url": "https://news.ycombinator.com/item?id=46419970",
+    "description": "Kidnapped by Deutsche Bahn",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397657"
+  },
+  {
+    "title": "Libgodc: Write Go Programs for Sega Dreamcast",
+    "url": "https://github.com/drpaneas/libgodc",
+    "author": "drpaneas",
+    "date": "2025-12-29",
+    "score": 225,
+    "comments": 56,
+    "id": 46420672,
+    "discussion_url": "https://news.ycombinator.com/item?id=46420672",
+    "description": "Libgodc: Write Go Programs for Sega Dreamcast",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397702"
+  },
+  {
+    "title": "Linux DAW: Help Linux musicians to quickly and easily find the tools they need",
+    "url": "https://linuxdaw.org/",
+    "author": "prmoustache",
+    "date": "2025-12-29",
+    "score": 278,
+    "comments": 116,
+    "id": 46419968,
+    "discussion_url": "https://news.ycombinator.com/item?id=46419968",
+    "description": "Linux DAW: Help Linux musicians to quickly and easily find the tools they need",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397616"
+  },
+  {
+    "title": "List of domains censored by German ISPs",
+    "url": "https://cuiiliste.de/domains",
+    "author": "elcapitan",
+    "date": "2025-12-29",
+    "score": 398,
+    "comments": 163,
+    "id": 46423566,
+    "discussion_url": "https://news.ycombinator.com/item?id=46423566",
+    "description": "List of domains censored by German ISPs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397706"
+  },
+  {
+    "title": "ManusAI Joins Meta",
+    "url": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
+    "author": "gniting",
+    "date": "2025-12-29",
+    "score": 295,
+    "comments": 192,
+    "id": 46426534,
+    "discussion_url": "https://news.ycombinator.com/item?id=46426534",
+    "description": "ManusAI Joins Meta",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397575"
+  },
+  {
+    "title": "Netflix Open Content",
+    "url": "https://opencontent.netflix.com/",
+    "author": "tosh",
+    "date": "2025-12-30",
+    "score": 486,
+    "comments": 90,
+    "id": 46431560,
+    "discussion_url": "https://news.ycombinator.com/item?id=46431560",
+    "description": "Netflix Open Content",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397491"
+  },
+  {
+    "title": "Nicolas Guillou, French ICC judge sanctioned by the US and “debanked”",
+    "url": "https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html",
+    "author": "lifeisstillgood",
+    "date": "2025-12-30",
+    "score": 291,
+    "comments": 271,
+    "id": 46432057,
+    "discussion_url": "https://news.ycombinator.com/item?id=46432057",
+    "description": "Nicolas Guillou, French ICC judge sanctioned by the US and “debanked”",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397598"
+  },
+  {
+    "title": "No strcpy either",
+    "url": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
+    "author": "firesteelrain",
+    "date": "2025-12-30",
+    "score": 164,
+    "comments": 77,
+    "id": 46433029,
+    "discussion_url": "https://news.ycombinator.com/item?id=46433029",
+    "description": "No strcpy either",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397530"
+  },
+  {
+    "title": "Non-Zero-Sum Games",
+    "url": "https://nonzerosum.games/",
+    "author": "8organicbits",
+    "date": "2025-12-30",
+    "score": 251,
+    "comments": 114,
+    "id": 46432311,
+    "discussion_url": "https://news.ycombinator.com/item?id=46432311",
+    "description": "Non-Zero-Sum Games",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397511"
+  },
+  {
+    "title": "Public Sans – A strong, neutral typeface",
+    "url": "https://public-sans.digital.gov/",
+    "author": "mhb",
+    "date": "2025-12-30",
+    "score": 214,
+    "comments": 90,
+    "id": 46433579,
+    "discussion_url": "https://news.ycombinator.com/item?id=46433579",
+    "description": "Public Sans – A strong, neutral typeface",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397685"
+  },
+  {
+    "title": "Show HN: One clean, developer-focused page for every Unicode symbol",
+    "url": "https://fontgenerator.design/symbols",
+    "author": "yarlinghe",
+    "date": "2025-12-25",
+    "score": 131,
+    "comments": 53,
+    "id": 46384975,
+    "discussion_url": "https://news.ycombinator.com/item?id=46384975",
+    "description": "Show HN: One clean, developer-focused page for every Unicode symbol",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397718"
+  },
+  {
+    "title": "Show HN: Stop Claude Code from forgetting everything",
+    "url": "https://github.com/mutable-state-inc/ensue-skill",
+    "author": "austinbaggio",
+    "date": "2025-12-29",
+    "score": 175,
+    "comments": 209,
+    "id": 46426624,
+    "discussion_url": "https://news.ycombinator.com/item?id=46426624",
+    "description": "Show HN: Stop Claude Code from forgetting everything",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397666"
+  },
+  {
+    "title": "Static Allocation with Zig",
+    "url": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
+    "author": "todsacerdoti",
+    "date": "2025-12-29",
+    "score": 203,
+    "comments": 101,
+    "id": 46422009,
+    "discussion_url": "https://news.ycombinator.com/item?id=46422009",
+    "description": "Static Allocation with Zig",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397635"
+  },
+  {
+    "title": "Stranger Things creator says turn off \"garbage\" settings",
+    "url": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
+    "author": "1970-01-01",
+    "date": "2025-12-29",
+    "score": 349,
+    "comments": 632,
+    "id": 46427586,
+    "discussion_url": "https://news.ycombinator.com/item?id=46427586",
+    "description": "Stranger Things creator says turn off \"garbage\" settings",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397710"
+  },
+  {
+    "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+    "url": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+    "author": "coloneltcb",
+    "date": "2025-12-29",
+    "score": 604,
+    "comments": 672,
+    "id": 46423290,
+    "discussion_url": "https://news.ycombinator.com/item?id=46423290",
+    "description": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397453"
+  },
+  {
+    "title": "The British empire's resilient subsea telegraph network",
+    "url": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
+    "author": "giuliomagnifico",
+    "date": "2025-12-30",
+    "score": 106,
+    "comments": 23,
+    "id": 46432999,
+    "discussion_url": "https://news.ycombinator.com/item?id=46432999",
+    "description": "The British empire's resilient subsea telegraph network",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397475"
+  },
+  {
+    "title": "The future of software development is software developers",
+    "url": "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/",
+    "author": "cdrnsf",
+    "date": "2025-12-29",
+    "score": 357,
+    "comments": 427,
+    "id": 46424233,
+    "discussion_url": "https://news.ycombinator.com/item?id=46424233",
+    "description": "The future of software development is software developers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397534"
+  },
+  {
+    "title": "Times New American: A Tale of Two Fonts",
+    "url": "https://hsu.cy/2025/12/times-new-american/",
+    "author": "firexcy",
+    "date": "2025-12-30",
+    "score": 140,
+    "comments": 86,
+    "id": 46432862,
+    "discussion_url": "https://news.ycombinator.com/item?id=46432862",
+    "description": "Times New American: A Tale of Two Fonts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397496"
+  },
+  {
+    "title": "What an unprocessed photo looks like",
+    "url": "https://maurycyz.com/misc/raw_photo/",
+    "author": "zdw",
+    "date": "2025-12-28",
+    "score": 2378,
+    "comments": 395,
+    "id": 46415225,
+    "discussion_url": "https://news.ycombinator.com/item?id=46415225",
+    "description": "What an unprocessed photo looks like",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397644"
+  },
+  {
+    "title": "When someone says they hate your product",
+    "url": "https://www.getflack.com/p/responding-to-negative-feedback",
+    "author": "jger15",
+    "date": "2025-12-29",
+    "score": 167,
+    "comments": 121,
+    "id": 46424460,
+    "discussion_url": "https://news.ycombinator.com/item?id=46424460",
+    "description": "When someone says they hate your product",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-12-30T19:07:45.397697"
+  }
+]

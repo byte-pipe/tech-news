@@ -1,0 +1,253 @@
+name: Scrape and Summarize
+on:
+  schedule:
+    - cron: '0 11,19 * * *' # Run twice daily: 11:00 UTC (9:00 PM Sydney) and 19:00 UTC (5:00 AM Sydney next day)
+  workflow_dispatch: # Allow manual triggering
+    inputs:
+      debug_mode:
+        description: 'Enable debug mode'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+permissions:
+  contents: write
+  issues: write
+jobs:
+  scrape-and-summarize:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: ${{ github.workspace }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Poetry
+        run: |
+          curl -sSL https://install.python-poetry.org | python3 -
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
+      - name: Configure Poetry
+        run: |
+          poetry config virtualenvs.in-project true
+      - name: Cache Poetry dependencies
+        uses: actions/cache@v4
+        with:
+          path: .venv
+          key: ${{ runner.os }}-tech-news-poetry-${{ hashFiles('**/pyproject.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-tech-news-poetry-
+      - name: Install dependencies
+        run: |
+          poetry install --no-interaction --no-root
+          poetry install --no-interaction
+      - name: Install Playwright browsers
+        run: |
+          # Install playwright with specific version
+          poetry add playwright@^1.55.0
+          # Then install browsers
+          poetry run playwright install chromium
+          poetry run playwright install-deps
+      - name: Install pre-commit
+        run: |
+          poetry add --group dev pre-commit
+          # DISABLED: Don't install git hooks to prevent pre-commit from running on git commit
+          # poetry run pre-commit install --install-hooks
+      - name: Install Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+      - name: Start Ollama and pull models
+        run: |
+          # Check if Ollama is already running
+          if ! curl -s http://localhost:11434/api/version > /dev/null 2>&1; then
+            echo "Starting Ollama service..."
+            ollama serve &
+            sleep 5  # Give Ollama time to start
+          else
+            echo "Ollama is already running"
+          fi
+          # Pull Llama 3.2 1B as primary model (matches default in code)
+          echo "Pulling Llama 3.2 1B model..."
+          ollama pull llama3.2:1b || echo "Failed to pull llama3.2:1b, will try fallback"
+          # Pull TinyLlama as fallback model
+          echo "Pulling TinyLlama as fallback model..."
+          ollama pull tinyllama:1.1b || echo "Warning: Failed to pull fallback model"
+          # Verify models were pulled successfully
+          echo "Checking available models:"
+          ollama list
+      - name: Run scrape with AI summarization
+        id: scrape_and_summarize
+        run: |
+          # Set overall status
+          OVERALL_STATUS=0
+
+          # First scrape content (full mode for all 6 sources)
+          # Continue even if some sources fail
+          echo "Starting scraping process..."
+          if poetry run scraper scrape --quiet; then
+            echo "✓ Scraping completed successfully"
+          else
+            echo "⚠️ Warning: Some scraping sources failed, but continuing..."
+            OVERALL_STATUS=1
+          fi
+
+          # Check if we have any data to summarize
+          if [ -d "data/$(date +%Y-%m-%d)" ]; then
+            echo "✓ Data directory exists, proceeding with summarization"
+            # Count scraped files
+            FILE_COUNT=$(find "data/$(date +%Y-%m-%d)" -name "*.json" -o -name "*.md" | wc -l)
+            echo "Found $FILE_COUNT data files"
+
+            if [ "$FILE_COUNT" -gt 0 ]; then
+              # Run AI summarization with fast model
+              if poetry run scraper summarize --model llama3.2:1b; then
+                echo "✓ Summarization completed successfully"
+              else
+                echo "⚠️ Warning: Summarization encountered issues"
+                OVERALL_STATUS=1
+              fi
+            else
+              echo "❌ Error: No data files found to summarize"
+              exit 1
+            fi
+          else
+            echo "❌ Error: No data directory found for today, cannot proceed"
+            exit 1
+          fi
+
+          # Exit with warning status if there were any failures
+          exit $OVERALL_STATUS
+
+      # 2025-08-12 commented out. it was working. not sure which key it was using
+      # - name: Run Anthropic summarization
+      #   env:
+      #     ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      #     DEBUG_MODE: ${{ inputs.debug_mode || 'false' }}
+      #   run: |
+      #     # Run Anthropic summarization using OpenAI-compatible API
+      #     # Only run if ANTHROPIC_API_KEY is set
+      #     if [ -n "$ANTHROPIC_API_KEY" ]; then
+      #       echo "Running Anthropic summarization..."
+      #       echo "API key length: ${#ANTHROPIC_API_KEY}"
+      #       # Debug mode - show more details
+      #       if [ "$DEBUG_MODE" = "true" ]; then
+      #         echo "Debug: API key first 8 chars: ${ANTHROPIC_API_KEY:0:8}..."
+      #         echo "Debug: Current directory: $(pwd)"
+      #         echo "Debug: Data directory contents:"
+      #         ls -la data/$(date +%Y-%m-%d)/ || echo "Data directory not found"
+      #       fi
+      #       # Run the command without --quiet in debug mode
+      #       if [ "$DEBUG_MODE" = "true" ]; then
+      #         poetry run scraper summarize-anthropic
+      #       else
+      #         poetry run scraper summarize-anthropic --quiet
+      #       fi
+      #       # Check if summaries_anthropic directory was created
+      #       if [ -d "data/$(date +%Y-%m-%d)/summaries_anthropic" ]; then
+      #         echo "✓ summaries_anthropic directory created successfully"
+      #         echo "Files created: $(ls -1 data/$(date +%Y-%m-%d)/summaries_anthropic/ | wc -l)"
+      #         # In debug mode, show the files
+      #         if [ "$DEBUG_MODE" = "true" ]; then
+      #           echo "Debug: Files in summaries_anthropic:"
+      #           ls -la data/$(date +%Y-%m-%d)/summaries_anthropic/
+      #         fi
+      #       else
+      #         echo "✗ summaries_anthropic directory not found"
+      #         # In debug mode, check what directories exist
+      #         if [ "$DEBUG_MODE" = "true" ]; then
+      #           echo "Debug: Directories in data/$(date +%Y-%m-%d)/:"
+      #           ls -d data/$(date +%Y-%m-%d)/*/ || echo "No subdirectories found"
+      #         fi
+      #       fi
+      #     else
+      #       echo "Skipping Anthropic summarization - ANTHROPIC_API_KEY not set"
+      #       echo "Note: To enable Anthropic summaries, add ANTHROPIC_API_KEY to repository secrets"
+      #     fi
+
+      # Removed aggregation step - no longer needed
+      - name: Commit updated data
+        if: always() && steps.scrape_and_summarize.outcome != 'failure'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Only add data directory, never workflow files
+          git add data/
+          # Run pre-commit on staged files
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            # DISABLED: Pre-commit keeps failing even with || true due to bash -e mode
+            # echo "Running pre-commit hooks to fix code formatting..."
+            # poetry run pre-commit run --files $(git diff --cached --name-only | grep "^data/" || echo "data/dummy") || true
+            # echo "Pre-commit complete (ignoring exit code)"
+            echo "Skipping pre-commit to ensure workflow stability"
+            # Always stage data files after pre-commit (it modifies them)
+            git add data/
+
+            # Check if there are changes to commit
+            if git diff --cached --quiet; then
+              echo "⚠️ WARNING: No changes to commit - this suggests scraping or summarization failed"
+              echo "Checking if data directory exists and has content..."
+              if [ ! -d "data/$(date +%Y-%m-%d)" ]; then
+                echo "❌ FAILURE: No data directory for today"
+                exit 1
+              fi
+              FILE_COUNT=$(find "data/$(date +%Y-%m-%d)" -name "*.json" -o -name "*.md" | wc -l)
+              if [ "$FILE_COUNT" -eq 0 ]; then
+                echo "❌ FAILURE: Data directory exists but contains no files"
+                exit 1
+              fi
+              echo "✓ Data exists ($FILE_COUNT files) but no git changes detected"
+            else
+              # Commit the changes (data files are staged)
+              echo "Committing changes to data files..."
+              git commit -m "Update scraped data and AI summaries [skip ci]"
+
+              # Fetch and rebase before pushing
+              echo "Fetching latest changes..."
+              git fetch origin master
+              if ! git rebase origin/master; then
+                echo "Rebase failed, using merge strategy"
+                git rebase --abort 2>/dev/null || true
+                if ! git pull origin master --no-rebase; then
+                  echo "Merge conflict detected, resolving..."
+                  # For data files like url_registry.json, keep our version (most up-to-date from this run)
+                  git checkout --ours data/url_registry.json 2>/dev/null || true
+                  git add data/
+                  git commit --no-edit || true
+                fi
+              fi
+
+              # Push changes
+              echo "Pushing changes..."
+              if ! git push origin master; then
+                echo "Regular push failed, trying force-with-lease..."
+                git push --force-with-lease origin master
+              fi
+
+              echo "✅ Successfully committed and pushed data updates"
+            fi
+          fi
+      - name: Create issue on partial failure
+        if: failure() || (success() && steps.scrape_and_summarize.outcome == 'success' && steps.scrape_and_summarize.outputs.exit_code == '1')
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Scraper had partial failures - ${new Date().toISOString().split('T')[0]}`,
+              body: `The scraper workflow had partial failures.
+
+              Some sources (likely Reddit/Cloudflare) returned errors, but the workflow continued.
+              Please check the logs for details.
+
+              Run ID: ${{ github.run_id }}
+              Triggered by: ${{ github.event_name }}`
+            })

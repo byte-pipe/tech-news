@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A CarFax for Used PCs: Hewlett Packard wants to give old laptops new life",
+    "url": "https://spectrum.ieee.org/carfax-used-pcs",
+    "author": "miles",
+    "date": "2025-07-19",
+    "points": "5",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44574065"
+  },
+  {
+    "title": "Advertising Without Signal: The Rise of the Grifter Equilibrium",
+    "url": "https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/",
+    "author": "neehao",
+    "date": "2025-07-19",
+    "points": "92",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44612023"
+  },
+  {
+    "title": "An exponential improvement for Ramsey lower bounds",
+    "url": "https://arxiv.org/abs/2507.12926",
+    "author": "IdealeZahlen",
+    "date": "2025-07-19",
+    "points": "3",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44613947"
+  },
+  {
+    "title": "Asynchrony is not concurrency",
+    "url": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
+    "author": "kristoff_it",
+    "date": "2025-07-19",
+    "points": "251",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44608754"
+  },
+  {
+    "title": "Broadcom to discontinue free Bitnami Helm charts",
+    "url": "https://github.com/bitnami/charts/issues/35164",
+    "author": "mmoogle",
+    "date": "2025-07-19",
+    "points": "175",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44608856"
+  },
+  {
+    "title": "Bun adds pnpm-style isolated installation mode",
+    "url": "https://github.com/oven-sh/bun/pull/20440",
+    "author": "nateb2022",
+    "date": "2025-07-19",
+    "points": "82",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44611467"
+  },
+  {
+    "title": "C# Language Design Meeting for June 30th, 2025",
+    "url": "https://github.com/dotnet/csharplang/blob/main/meetings/2025/LDM-2025-06-30.md",
+    "author": "jasonthorsness",
+    "date": "2025-07-19",
+    "points": "16",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44571765"
+  },
+  {
+    "title": "C++: Zero-cost static initialization",
+    "url": "https://cofault.com/zero-cost-static.html",
+    "author": "oecumena",
+    "date": "2025-07-19",
+    "points": "63",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44570113"
+  },
+  {
+    "title": "Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files",
+    "url": "https://github.com/ryoppippi/ccusage",
+    "author": "kristianp",
+    "date": "2025-07-19",
+    "points": "59",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44610925"
+  },
+  {
+    "title": "Debcraft – Easiest way to modify and build Debian packages",
+    "url": "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/",
+    "author": "pabs3",
+    "date": "2025-07-19",
+    "points": "61",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44611223"
+  },
+  {
+    "title": "Every part on a bicycle is safety critical",
+    "url": "https://escapecollective.com/threaded-43-every-part-on-a-bike-is-safety-critical/",
+    "author": "spooky_deep",
+    "date": "2025-07-19",
+    "points": "20",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44613419"
+  },
+  {
+    "title": "Felix Baumgartner, Who Jumped from Stratosphere, Dies in Italy",
+    "url": "https://www.theinternational.at/felix-baumgartner-who-jumped-from-stratosphere-dies-in-italy/",
+    "author": "signa11",
+    "date": "2025-07-19",
+    "points": "11",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44614292"
+  },
+  {
+    "title": "Fstrings.wtf",
+    "url": "https://fstrings.wtf/",
+    "author": "darkamaul",
+    "date": "2025-07-19",
+    "points": "52",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44614370"
+  },
+  {
+    "title": "GPT-5-reasoning alpha found in the wild",
+    "url": "https://twitter.com/btibor91/status/1946532308896628748",
+    "author": "dejavucoder",
+    "date": "2025-07-19",
+    "points": "8",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44614644"
+  },
+  {
+    "title": "How to write Rust in the Linux kernel: part 3",
+    "url": "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/",
+    "author": "chmaynard",
+    "date": "2025-07-19",
+    "points": "202",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44610468"
+  },
+  {
+    "title": "I avoid using LLMs as a publisher and writer",
+    "url": "https://lifehacky.net/prompt-0b953c089b44",
+    "author": "tombarys",
+    "date": "2025-07-19",
+    "points": "15",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44614365"
+  },
+  {
+    "title": "Meta says it won’t sign Europe AI agreement, calling it an overreach",
+    "url": "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html",
+    "author": "rntn",
+    "date": "2025-07-19",
+    "points": "250",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44607838"
+  },
+  {
+    "title": "Microsoft Office is using an artificially complex XML schema as a lock-in tool",
+    "url": "https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool/",
+    "author": "firexcy",
+    "date": "2025-07-19",
+    "points": "139",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44612569"
+  },
+  {
+    "title": "Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs",
+    "url": "https://www.macintoshrepository.org/44146-mr-browser",
+    "author": "zdw",
+    "date": "2025-07-19",
+    "points": "69",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44611320"
+  },
+  {
+    "title": "My Self-Hosting Setup",
+    "url": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
+    "author": "mirdaki",
+    "date": "2025-07-19",
+    "points": "316",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44612151"
+  },
+  {
+    "title": "Pimping My Casio: Part Deux",
+    "url": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
+    "author": "r4um",
+    "date": "2025-07-19",
+    "points": "58",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44613486"
+  },
+  {
+    "title": "Piramidal (YC W24) Is Hiring a Full Stack Engineer",
+    "url": "https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer",
+    "author": "",
+    "date": "2025-07-19",
+    "points": "0",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44614788"
+  },
+  {
+    "title": "Show HN: OrioleDB Beta12 Features and Benchmarks",
+    "url": "https://www.orioledb.com/blog/orioledb-beta12-benchmarks",
+    "author": "akorotkov",
+    "date": "2025-07-19",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44570389"
+  },
+  {
+    "title": "Silence Is a Commons by Ivan Illich (1983)",
+    "url": "http://www.davidtinapple.com/illich/1983_silence_commons.html",
+    "author": "entaloneralie",
+    "date": "2025-07-19",
+    "points": "157",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44609969"
+  },
+  {
+    "title": "Valve confirms credit card companies pressured it to delist certain adult games",
+    "url": "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/",
+    "author": "freedomben",
+    "date": "2025-07-19",
+    "points": "582",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44606184"
+  },
+  {
+    "title": "When to make LODs: Understanding model costs",
+    "url": "https://medium.com/@jasonbooth_86226/when-to-make-lods-c3109c35b802",
+    "author": "azeemba",
+    "date": "2025-07-19",
+    "points": "12",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44587717"
+  },
+  {
+    "title": "Why your website should be under 14kB in size",
+    "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/",
+    "author": "truxs",
+    "date": "2025-07-19",
+    "points": "231",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44613625"
+  },
+  {
+    "title": "Wii U SDBoot1 Exploit “paid the beak”",
+    "url": "https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/",
+    "author": "sjuut",
+    "date": "2025-07-19",
+    "points": "150",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44609479"
+  },
+  {
+    "title": "YouTube No Translation",
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/",
+    "author": "thefox",
+    "date": "2025-07-19",
+    "points": "37",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44613491"
+  },
+  {
+    "title": "Zig's New Writer",
+    "url": "https://www.openmymind.net/Zigs-New-Writer/",
+    "author": "Bogdanp",
+    "date": "2025-07-19",
+    "points": "71",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44594165"
+  }
+]

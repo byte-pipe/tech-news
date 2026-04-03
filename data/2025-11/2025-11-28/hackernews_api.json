@@ -1,0 +1,512 @@
+[
+  {
+    "title": "28M Hacker News comments as vector embedding search dataset",
+    "url": "https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset",
+    "author": "walterbell",
+    "date": "2025-11-28",
+    "score": 89,
+    "comments": 31,
+    "id": 46081053,
+    "discussion_url": "https://news.ycombinator.com/item?id=46081053",
+    "description": "28M Hacker News comments as vector embedding search dataset",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865665"
+  },
+  {
+    "title": "A Remarkable Assertion from A16Z",
+    "url": "https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z",
+    "author": "boplicity",
+    "date": "2025-11-28",
+    "score": 273,
+    "comments": 106,
+    "id": 46078138,
+    "discussion_url": "https://news.ycombinator.com/item?id=46078138",
+    "description": "A Remarkable Assertion from A16Z",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865737"
+  },
+  {
+    "title": "A Repository with 44 Years of Unix Evolution",
+    "url": "https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html",
+    "author": "lioeters",
+    "date": "2025-11-28",
+    "score": 79,
+    "comments": 19,
+    "id": 46077106,
+    "discussion_url": "https://news.ycombinator.com/item?id=46077106",
+    "description": "A Repository with 44 Years of Unix Evolution",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865768"
+  },
+  {
+    "title": "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
+    "url": "https://github.com/DotFox/edn.c",
+    "author": "delaguardo",
+    "date": "2025-11-24",
+    "score": 104,
+    "comments": 35,
+    "id": 46032230,
+    "discussion_url": "https://news.ycombinator.com/item?id=46032230",
+    "description": "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865924"
+  },
+  {
+    "title": "AI Adoption Rates Starting to Flatten Out",
+    "url": "https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/",
+    "author": "toomuchtodo",
+    "date": "2025-11-28",
+    "score": 105,
+    "comments": 51,
+    "id": 46079987,
+    "discussion_url": "https://news.ycombinator.com/item?id=46079987",
+    "description": "AI Adoption Rates Starting to Flatten Out",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865964"
+  },
+  {
+    "title": "Apple and Intel Rumored to Partner on Mac Chips",
+    "url": "https://www.macrumors.com/2025/11/28/intel-rumored-to-supply-new-mac-chip/",
+    "author": "bigyabai",
+    "date": "2025-11-28",
+    "score": 62,
+    "comments": 32,
+    "id": 46080424,
+    "discussion_url": "https://news.ycombinator.com/item?id=46080424",
+    "description": "Apple and Intel Rumored to Partner on Mac Chips",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865721"
+  },
+  {
+    "title": "Atuin’s New Runbook Execution Engine",
+    "url": "https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/",
+    "author": "emschwartz",
+    "date": "2025-11-24",
+    "score": 73,
+    "comments": 8,
+    "id": 46039317,
+    "discussion_url": "https://news.ycombinator.com/item?id=46039317",
+    "description": "Atuin’s New Runbook Execution Engine",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865804"
+  },
+  {
+    "title": "Bringing Sexy Back. Internet surveillance has killed eroticism",
+    "url": "https://lux-magazine.com/article/privacy-eroticism/",
+    "author": "eustoria",
+    "date": "2025-11-28",
+    "score": 129,
+    "comments": 63,
+    "id": 46080473,
+    "discussion_url": "https://news.ycombinator.com/item?id=46080473",
+    "description": "Bringing Sexy Back. Internet surveillance has killed eroticism",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865846"
+  },
+  {
+    "title": "Can Dutch universities do without Microsoft?",
+    "url": "https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft",
+    "author": "robtherobber",
+    "date": "2025-11-28",
+    "score": 151,
+    "comments": 127,
+    "id": 46079721,
+    "discussion_url": "https://news.ycombinator.com/item?id=46079721",
+    "description": "Can Dutch universities do without Microsoft?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865818"
+  },
+  {
+    "title": "Don't tug on that, you never know what it might be attached to (2016)",
+    "url": "https://blog.plover.com/2016/07/01/#tmpdir",
+    "author": "todsacerdoti",
+    "date": "2025-11-28",
+    "score": 65,
+    "comments": 16,
+    "id": 46079785,
+    "discussion_url": "https://news.ycombinator.com/item?id=46079785",
+    "description": "Don't tug on that, you never know what it might be attached to (2016)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865827"
+  },
+  {
+    "title": "EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance",
+    "url": "https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance",
+    "author": "fragebogen",
+    "date": "2025-11-28",
+    "score": 543,
+    "comments": 360,
+    "id": 46077393,
+    "discussion_url": "https://news.ycombinator.com/item?id=46077393",
+    "description": "EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865832"
+  },
+  {
+    "title": "GitLab discovers widespread NPM supply chain attack",
+    "url": "https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/",
+    "author": "OuterVale",
+    "date": "2025-11-27",
+    "score": 357,
+    "comments": 208,
+    "id": 46070203,
+    "discussion_url": "https://news.ycombinator.com/item?id=46070203",
+    "description": "GitLab discovers widespread NPM supply chain attack",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865822"
+  },
+  {
+    "title": "How to make precise sheet metal parts (photochemical machining) [video]",
+    "url": "https://www.youtube.com/watch?v=bR9EN3kUlfg",
+    "author": "surprisetalk",
+    "date": "2025-11-23",
+    "score": 73,
+    "comments": 11,
+    "id": 46020561,
+    "discussion_url": "https://news.ycombinator.com/item?id=46020561",
+    "description": "How to make precise sheet metal parts (photochemical machining) [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865813"
+  },
+  {
+    "title": "How to use Linux vsock for fast VM communication",
+    "url": "https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/",
+    "author": "mfrw",
+    "date": "2025-11-28",
+    "score": 73,
+    "comments": 17,
+    "id": 46075746,
+    "discussion_url": "https://news.ycombinator.com/item?id=46075746",
+    "description": "How to use Linux vsock for fast VM communication",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865929"
+  },
+  {
+    "title": "Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network",
+    "url": "https://blog.tymscar.com/posts/imgurukproxy/",
+    "author": "tymscar",
+    "date": "2025-11-28",
+    "score": 59,
+    "comments": 16,
+    "id": 46081188,
+    "discussion_url": "https://news.ycombinator.com/item?id=46081188",
+    "description": "Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865751"
+  },
+  {
+    "title": "Implementing Bluetooth LE Audio and Auracast on Linux Systems",
+    "url": "https://www.collabora.com/news-and-blog/blog/2025/11/24/implementing-bluetooth-le-audio-and-auracast-on-linux-systems/",
+    "author": "losgehts",
+    "date": "2025-11-24",
+    "score": 122,
+    "comments": 10,
+    "id": 46038684,
+    "discussion_url": "https://news.ycombinator.com/item?id=46038684",
+    "description": "Implementing Bluetooth LE Audio and Auracast on Linux Systems",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865943"
+  },
+  {
+    "title": "Meta hiding $27B in debt using advanced geometry",
+    "url": "https://stohl.substack.com/p/exclusive-credit-report-shows-meta",
+    "author": "FreeQueso",
+    "date": "2025-11-28",
+    "score": 214,
+    "comments": 104,
+    "id": 46079868,
+    "discussion_url": "https://news.ycombinator.com/item?id=46079868",
+    "description": "Meta hiding $27B in debt using advanced geometry",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865855"
+  },
+  {
+    "title": "Moss: a Rust Linux-compatible kernel in 26,000 lines of code",
+    "url": "https://github.com/hexagonal-sun/moss",
+    "author": "hexagonal-sun",
+    "date": "2025-11-22",
+    "score": 324,
+    "comments": 84,
+    "id": 46012803,
+    "discussion_url": "https://news.ycombinator.com/item?id=46012803",
+    "description": "Moss: a Rust Linux-compatible kernel in 26,000 lines of code",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865679"
+  },
+  {
+    "title": "Petition to formally recognize open source work as civic service in Germany",
+    "url": "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main",
+    "author": "PhilippGille",
+    "date": "2025-11-28",
+    "score": 388,
+    "comments": 102,
+    "id": 46078770,
+    "discussion_url": "https://news.ycombinator.com/item?id=46078770",
+    "description": "Petition to formally recognize open source work as civic service in Germany",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865701"
+  },
+  {
+    "title": "Pocketbase – open-source realtime back end in 1 file",
+    "url": "https://pocketbase.io/",
+    "author": "modinfo",
+    "date": "2025-11-28",
+    "score": 573,
+    "comments": 160,
+    "id": 46075320,
+    "discussion_url": "https://news.ycombinator.com/item?id=46075320",
+    "description": "Pocketbase – open-source realtime back end in 1 file",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865972"
+  },
+  {
+    "title": "SQLite as an Application File Format",
+    "url": "https://sqlite.org/appfileformat.html",
+    "author": "gjvc",
+    "date": "2025-11-28",
+    "score": 103,
+    "comments": 65,
+    "id": 46076642,
+    "discussion_url": "https://news.ycombinator.com/item?id=46076642",
+    "description": "SQLite as an Application File Format",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865851"
+  },
+  {
+    "title": "Show HN: Glasses to detect smart-glasses that have cameras",
+    "url": "https://github.com/NullPxl/banrays",
+    "author": "nullpxl",
+    "date": "2025-11-28",
+    "score": 426,
+    "comments": 155,
+    "id": 46075882,
+    "discussion_url": "https://news.ycombinator.com/item?id=46075882",
+    "description": "Show HN: Glasses to detect smart-glasses that have cameras",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865696"
+  },
+  {
+    "title": "So you wanna build a local RAG?",
+    "url": "https://blog.yakkomajuri.com/blog/local-rag",
+    "author": "pedriquepacheco",
+    "date": "2025-11-28",
+    "score": 68,
+    "comments": 14,
+    "id": 46080364,
+    "discussion_url": "https://news.ycombinator.com/item?id=46080364",
+    "description": "So you wanna build a local RAG?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865746"
+  },
+  {
+    "title": "Stellantis Is Spamming Owners' Screens with Pop-Up Ads for New Car Discounts",
+    "url": "https://www.thedrive.com/news/stellantis-is-spamming-owners-screens-with-pop-up-ads-for-new-car-discounts",
+    "author": "cf100clunk",
+    "date": "2025-11-28",
+    "score": 78,
+    "comments": 34,
+    "id": 46080161,
+    "discussion_url": "https://news.ycombinator.com/item?id=46080161",
+    "description": "Stellantis Is Spamming Owners' Screens with Pop-Up Ads for New Car Discounts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865706"
+  },
+  {
+    "title": "Swedish publishers file police report against Meta's Zuckerberg for fraud",
+    "url": "https://www.sverigesradio.se/artikel/swedish-publishers-file-police-report-against-metas-zuckerberg-for-fraud",
+    "author": "Frieren",
+    "date": "2025-11-28",
+    "score": 88,
+    "comments": 28,
+    "id": 46079460,
+    "discussion_url": "https://news.ycombinator.com/item?id=46079460",
+    "description": "Swedish publishers file police report against Meta's Zuckerberg for fraud",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865761"
+  },
+  {
+    "title": "Switzerland: Data Protection Officers Impose Broad Cloud Ban for Authorities",
+    "url": "https://www.heise.de/en/news/Switzerland-Data-Protection-Officers-Impose-Broad-Cloud-Ban-for-Authorities-11093477.html",
+    "author": "TechTechTech",
+    "date": "2025-11-28",
+    "score": 80,
+    "comments": 42,
+    "id": 46077885,
+    "discussion_url": "https://news.ycombinator.com/item?id=46077885",
+    "description": "Switzerland: Data Protection Officers Impose Broad Cloud Ban for Authorities",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865920"
+  },
+  {
+    "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
+    "url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
+    "author": "thm",
+    "date": "2025-11-28",
+    "score": 159,
+    "comments": 157,
+    "id": 46077038,
+    "discussion_url": "https://news.ycombinator.com/item?id=46077038",
+    "description": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865938"
+  },
+  {
+    "title": "The Math of Why You Can't Focus at Work",
+    "url": "https://justoffbyone.com/posts/math-of-why-you-cant-focus-at-work/",
+    "author": "0x79de",
+    "date": "2025-11-28",
+    "score": 70,
+    "comments": 24,
+    "id": 46077136,
+    "discussion_url": "https://news.ycombinator.com/item?id=46077136",
+    "description": "The Math of Why You Can't Focus at Work",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865777"
+  },
+  {
+    "title": "Tiger Style: Coding philosophy (2024)",
+    "url": "https://tigerstyle.dev/",
+    "author": "nateb2022",
+    "date": "2025-11-28",
+    "score": 103,
+    "comments": 116,
+    "id": 46075628,
+    "discussion_url": "https://news.ycombinator.com/item?id=46075628",
+    "description": "Tiger Style: Coding philosophy (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865842"
+  },
+  {
+    "title": "True P2P Email on Top of Yggdrasil Network",
+    "url": "https://github.com/JB-SelfCompany/Tyr",
+    "author": "basemi",
+    "date": "2025-11-28",
+    "score": 54,
+    "comments": 9,
+    "id": 46080143,
+    "discussion_url": "https://news.ycombinator.com/item?id=46080143",
+    "description": "True P2P Email on Top of Yggdrasil Network",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-28T19:06:49.865685"
+  }
+]

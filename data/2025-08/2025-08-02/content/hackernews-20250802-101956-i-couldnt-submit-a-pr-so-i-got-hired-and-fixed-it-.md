@@ -1,0 +1,60 @@
+---
+title: I couldn't submit a PR, so I got hired and fixed it myself
+url: https://www.skeptrune.com/posts/doing-the-little-things/
+site_name: hackernews
+fetched_at: '2025-08-02T10:19:56.512565'
+original_url: https://www.skeptrune.com/posts/doing-the-little-things/
+author: Nicholas Khami
+date: '2025-08-02'
+published_date: '2025-07-30T00:00:00.000Z'
+description: After joining Mintlify (which acquired my previous company), I finally fixed a search bug that had bothered me for over a year as a user - the debounced search queries weren't being aborted, causing race conditions and poaor search quality. By adding an AbortController to ensure only the most recent search query returns results, I made the search experience crisper and more responsive across their 30,000+ documentation
+---
+
+July 30, 2025 , Nicholas Khami
+
+
+ work
+ mintlify
+
+
+
+# I couldn't submit a PR, so I got hired and fixed it myself
+
+
+
+For over a year, I was bugged by a search quirk onMintlifythat caused race conditions and wonky search results.
+
+Here’s the fun irony: I was the founder of Trieve, the company that powered search for their 30,000+ documentation sites, yet their debounced search queries weren’t being aborted as you typed. Check out this delightful chaos:
+
+
+
+
+
+
+I had brought this up in our shared Slack before when I was just a vendor tothemus(weird), but it wasn’t a priority and never got fixed. It was extra frustrating because the race condition on the query was apparent enough that search would sometimes feel low quality since it would return results for a query many characters before the user was done typing.
+
+Even worse, as the founder of the search company powering this experience, it felt like a poor reflection on Trieve every time someone encountered these wonky results.
+
+## Fixed It
+
+Now that I’m on the team, I was able to finally fix it. I added anAbortControllerto the debounced search function, so that it aborts any previous queries when a new one is made. This means that the search results are always relevant to what the user is currently typing.
+
+There’s something deeply satisfying about finally being able to fix the things that bug you. It reminds me of George Hotz’s legendarysingle week at Twitterin 2022, where he boldly joined with perhaps overambitious plans to fix Twitter search, got humbled by the complexity, but still managed to ship a useful login popup fix before his characteristically dramatic exit. Classic hacker hubris meeting reality, but still getting something done.
+
+I’ve always admired engineers who are part hacker, part entrepreneur - people who see a problem and just… fix it. Getting to do something similar here (minus the dramatic exit) felt like a small win in steering my career toward that kind of direct approach.
+
+## Open Source
+
+I prefer building and using open source software whenever possible, and this whole situation is a great example of why.
+
+With open source - when you encounter a bug or pain point, you can actually fix it yourself. Had this been an open source project during the year I was frustrated with the search race condition, I could have submitted a pull request with the AbortController fix and saved myself (and thousands of other users) the daily annoyance.
+
+Instead, it remained a persistent irritation until I happened to join the company and gain access to the codebase. There’s something to be said for the immediate empowerment that comes with open source - though I understand why many companies choose different models for various business reasons.
+
+## Self-Congratulation
+
+If search feels just a bit crisper and more responsive on Mintlify, it’s because of me! I fixed a bug that bothered me for over a year, and it feels great to have made that little improvement to the product.
+
+I can’t wait to make more. Fixing small issues like this over and over again is how products become legendary. There’s something deeply satisfying about finally having the power to fix the things that annoy you - even if they’re tiny.
+
+Especially if they’re tiny.

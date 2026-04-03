@@ -1,0 +1,491 @@
+---
+title: 'GitHub - drona23/claude-token-efficient: Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes. · GitHub'
+url: https://github.com/drona23/claude-token-efficient
+site_name: hnrss
+content_file: hnrss-github-drona23claude-token-efficient-universal-cla
+fetched_at: '2026-03-31T11:22:29.982545'
+original_url: https://github.com/drona23/claude-token-efficient
+date: '2026-03-31'
+description: Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes. - drona23/claude-token-efficient
+tags:
+- hackernews
+- hnrss
+---
+
+drona23
+
+ 
+
+/
+
+claude-token-efficient
+
+Public
+
+* NotificationsYou must be signed in to change notification settings
+* Fork43
+* Star1k
+
+ 
+ 
+ 
+ 
+main
+Branches
+Tags
+Go to file
+Code
+Open more actions menu
+
+## Folders and files
+
+Name
+Name
+Last commit message
+Last commit date
+
+## Latest commit
+
+ 
+
+## History
+
+15 Commits
+15 Commits
+examples
+examples
+ 
+ 
+profiles
+profiles
+ 
+ 
+.gitignore
+.gitignore
+ 
+ 
+BENCHMARK.md
+BENCHMARK.md
+ 
+ 
+CLAUDE.md
+CLAUDE.md
+ 
+ 
+LICENSE
+LICENSE
+ 
+ 
+README.md
+README.md
+ 
+ 
+View all files
+
+## Repository files navigation
+
+# claude-token-efficient
+
+One file. Drop it in your project. Cuts Claude output verbosity by ~63%. No code changes required.
+Note: most Claude costs come from input tokens, not output. This file targets output behavior - sycophancy, verbosity, formatting noise. It won't fix your biggest bill but it will fix your most annoying responses.
+Model support: benchmarks were run on Claude only. The rules are model-agnostic and should work on any model that reads context - but results on local models like llama.cpp, Mistral, or others are untested. Community results welcome.
+
+## The Problem
+
+When you use Claude Code, every word Claude generates costs tokens.
+Most people never controlhowClaude responds - they just get whatever the model decides to output.
+
+By default, Claude:
+
+* Opens every response with "Sure!", "Great question!", "Absolutely!"
+* Ends with "I hope this helps! Let me know if you need anything!"
+* Uses em dashes (--), smart quotes, Unicode characters that break parsers
+* Restates your question before answering it
+* Adds unsolicited suggestions beyond what you asked
+* Over-engineers code with abstractions you never requested
+* Agrees with incorrect statements ("You're absolutely right!")
+
+All of this wastes tokens. None of it adds value.
+
+## The Fix
+
+DropCLAUDE.mdinto your project root.
+Claude Code reads it automatically. Behavior changes immediately.
+
+your-project/
+└── CLAUDE.md <- one file, zero setup, no code changes
+
+## When This Helps vs When It Doesn't
+
+This file works best for:
+
+* Automation pipelines with high output volume (resume bots, agent loops, code generation)
+* Repeated structured tasks where Claude's default verbosity compounds across hundreds of calls
+* Teams who need consistent, parseable output format across sessions
+
+This file is not worth it for:
+
+* Single short queries - the file loads into context on every message, so on low-output exchanges it is a net token increase
+* Casual one-off use - the overhead doesn't pay off at low volume
+* Fixing deep failure modes like hallucinated implementations or architectural drift - those require hooks, gates, and mechanical enforcement
+* Pipelines using multiple fresh sessions per task - fresh sessions don't carry the CLAUDE.md overhead benefit the same way persistent sessions do
+* Parser reliability at scale - if you need guaranteed parseable output, use structured outputs (JSON mode, tool use with schemas) built into the API - that is a more robust solution than prompt-based formatting rules
+* Exploratory or architectural work where debate, pushback, and alternatives are the point - the override rule lets you ask for that any time, but if that's your primary workflow this file will feel restrictive
+
+The honest trade-off:The CLAUDE.md file itself consumes input tokens on every message. The savings come from reduced output tokens. The net is only positive when output volume is high enough to offset the persistent input cost. At low usage it costs more than it saves.
+
+## Benchmark Results
+
+Same 5 prompts. Run without CLAUDE.md (baseline) then with CLAUDE.md (optimized).
+
+Test
+
+Baseline
+
+Optimized
+
+Reduction
+
+Explain async/await
+
+180 words
+
+65 words
+
+64%
+
+Code review
+
+120 words
+
+30 words
+
+75%
+
+What is a REST API
+
+110 words
+
+55 words
+
+50%
+
+Hallucination correction
+
+55 words
+
+20 words
+
+64%
+
+Total
+
+465 words
+
+170 words
+
+63%
+
+~384 output tokens saved per 4 prompts. Same information. Zero signal loss.
+
+Methodology note:This is a 5-prompt directional indicator, not a statistically controlled study. Claude's output length varies naturally between identical prompts. No variance controls or repeated runs were applied. Treat the 63% as a directional signal for output-heavy use cases, not a precise universal measurement. The CLAUDE.md file itself adds input tokens on every message - net savings only apply when output volume is high enough to offset that persistent cost.
+
+### At Scale
+
+Usage
+
+Tokens Saved/Day
+
+Monthly Savings (Sonnet)
+
+100 prompts/day
+
+~9,600 tokens
+
+~$0.86
+
+1,000 prompts/day
+
+~96,000 tokens
+
+~$8.64
+
+3 projects combined
+
+~288,000 tokens
+
+~$25.92
+
+## Before vs After
+
+Without CLAUDE.md - Code Review:
+
+Great question! I can see you're working with a loop. Let me take a look at that.
+That's a thoughtful piece of code! However, I notice there's actually a subtle bug
+here that's worth pointing out. The condition i <= arr.length should be i < arr.length.
+Using <= means the loop will run one extra iteration... You might also want to consider
+using modern array methods like forEach, map, or for...of which are cleaner...
+Great catch on reviewing this - it's always good practice to double-check loop
+boundaries! I hope this review was helpful. Feel free to share more code anytime!
+
+120 words.
+
+With CLAUDE.md - Same prompt:
+
+Bug: <= causes an off-by-one error. On the final iteration arr[arr.length] is undefined.
+
+Fix:
+for (let i = 0; i < arr.length; i++)
+
+30 words. Same fix. 75% fewer tokens.
+
+## What It Fixes
+
+#
+
+Problem
+
+Fix
+
+1
+
+Sycophantic openers
+
+Banned - answer is always line 1
+
+2
+
+Hollow closings
+
+Banned - no "I hope this helps!"
+
+3
+
+Restating the prompt
+
+Banned - execute immediately
+
+4
+
+Em dashes, smart quotes, Unicode
+
+ASCII-only output enforced
+
+5
+
+"As an AI..." framing
+
+Banned
+
+6
+
+Unnecessary disclaimers
+
+Banned unless genuine safety risk
+
+7
+
+Unsolicited suggestions
+
+Banned - exact scope only
+
+8
+
+Over-engineered code
+
+Simplest working solution enforced
+
+9
+
+Hallucination on uncertain facts
+
+Must say "I don't know" - no guessing
+
+10
+
+User correction ignored
+
+Correction becomes session ground truth
+
+11
+
+Redundant file reads
+
+Never read the same file twice
+
+12
+
+Scope creep
+
+Do not touch code outside the request
+
+## Pro Tips From the Community
+
+Scope rules to your actual failure modes, not generic ones.Generic rules like "be concise" help but the real wins come from targeting specific failures you've actually hit. For example if Claude silently swallows errors in your pipeline, add a rule like: "when a step fails, stop immediately and report the full error with traceback before attempting any fix." Specific beats generic every time.
+
+CLAUDE.md files compose - use that.Claude reads multiple CLAUDE.md files at once - global (~/.claude/CLAUDE.md), project-level, and subdirectory-level. This means:
+
+* Keep general preferences (tone, format, ASCII rules) in your global file
+* Keep project-specific constraints ("never modify /config without confirmation") at the project level
+* Keep task-specific rules in subdirectory files
+
+This avoids bloating any single file and keeps rules close to where they apply.
+
+## Profiles
+
+Different project types need different levels of compression.
+Pick the base file + a profile, or use the base alone.
+
+Profile
+
+Best For
+
+CLAUDE.md
+
+Universal - works for any project
+
+profiles/CLAUDE.coding.md
+
+Dev projects, code review, debugging
+
+profiles/CLAUDE.agents.md
+
+Automation pipelines, multi-agent systems
+
+profiles/CLAUDE.analysis.md
+
+Data analysis, research, reporting
+
+## How to Use
+
+Option 1 - Universal (any project):
+
+curl -o CLAUDE.md https://raw.githubusercontent.com/drona23/claude-token-efficient/main/CLAUDE.md
+
+Option 2 - Clone and pick a profile:
+
+git clone https://github.com/drona23/claude-token-efficient
+cp claude-token-efficient/profiles/CLAUDE.coding.md your-project/CLAUDE.md
+
+Option 3 - Manual:Copy the contents ofCLAUDE.mdfrom this repo into your project root.
+
+## Override Rule
+
+User instructions always win.
+If you explicitly ask for a detailed explanation or verbose output, Claude will follow your instruction - the file never fights you.
+
+## Contributing
+
+Found a behavior that CLAUDE.md can fix?
+Open an issue with:
+
+1. The annoying behavior (what Claude does by default)
+2. The prompt that triggers it
+3. The fix rule you propose
+
+Community submissions become part of the next version with full credit.
+
+## Validation
+
+Full benchmark results with before/after word counts:
+SeeBENCHMARK.md
+
+## References and Credits
+
+This project was built on real complaints from the Claude community.
+Full credit to every source that contributed a fix:
+
+* GitHub #3382 - "Claude says You're absolutely right about everything"- 350+ upvotes
+* GitHub #14759 - "Sycophantic behavior undermines usefulness as coding assistant"
+* GitHub #9340 - "Add --quiet flag to suppress tool call output"
+* GitHub #21818 - "Tool Output Verbosity Creates Visual Noise"
+* GitHub #20542 - "Verbose output overwhelms session and consumes excessive tokens"
+* The Register - "Claude Code's endless sycophancy annoys customers"
+* DEV Community - "7 Ways to Cut Your Claude Code Token Usage"
+* Medium - "Stop Wasting Tokens: Optimize Claude Code Context by 60%"
+* Anthropic Docs - Reduce Hallucinations
+* PromptHub - "Three Prompt Engineering Methods to Reduce Hallucinations"
+* GitHub Gist - Practical workflow for reducing token usage
+* Claude Code Best Practices - community
+
+## License
+
+MIT - free to use, modify, and distribute.
+
+Built byDrona Gangarapu- open to PRs, issues, and profile contributions.
+
+## About
+
+Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes.
+
+### Resources
+
+ Readme
+
+ 
+
+### License
+
+ MIT license
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+Activity
+ 
+
+### Stars
+
+1k
+
+ stars
+ 
+
+### Watchers
+
+2
+
+ watching
+ 
+
+### Forks
+
+43
+
+ forks
+ 
+
+ Report repository
+
+ 
+
+## Releases
+
+No releases published
+
+## Packages0
+
+ 
+
+ 
+
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Contributors2
+
+* claudeClaude
+* drona23drona

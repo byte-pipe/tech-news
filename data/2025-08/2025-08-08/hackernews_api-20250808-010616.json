@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A candidate giant planet imaged in the habitable zone of α  Cen A",
+    "url": "https://arxiv.org/abs/2508.03814",
+    "author": "pinewurst",
+    "date": "2025-08-07",
+    "score": 106,
+    "comments": 35,
+    "id": 44819738,
+    "discussion_url": "https://news.ycombinator.com/item?id=44819738",
+    "description": "A candidate giant planet imaged in the habitable zone of α  Cen A",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111532"
+  },
+  {
+    "title": "A fast, growable array with stable pointers in C",
+    "url": "https://danielchasehooper.com/posts/segment_array/",
+    "author": "ibobev",
+    "date": "2025-08-07",
+    "score": 205,
+    "comments": 77,
+    "id": 44815702,
+    "discussion_url": "https://news.ycombinator.com/item?id=44815702",
+    "description": "A fast, growable array with stable pointers in C",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111574"
+  },
+  {
+    "title": "AI Ethics is being narrowed on purpose, like privacy was",
+    "url": "https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose",
+    "author": "i_dont_know_",
+    "date": "2025-08-07",
+    "score": 126,
+    "comments": 78,
+    "id": 44823094,
+    "discussion_url": "https://news.ycombinator.com/item?id=44823094",
+    "description": "AI Ethics is being narrowed on purpose, like privacy was",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111494"
+  },
+  {
+    "title": "AI in Search is driving more queries and higher quality clicks",
+    "url": "https://blog.google/products/search/ai-search-driving-more-queries-higher-quality-clicks/",
+    "author": "thm",
+    "date": "2025-08-07",
+    "score": 82,
+    "comments": 108,
+    "id": 44815046,
+    "discussion_url": "https://news.ycombinator.com/item?id=44815046",
+    "description": "AI in Search is driving more queries and higher quality clicks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111631"
+  },
+  {
+    "title": "Claude Code IDE integration for Emacs",
+    "url": "https://github.com/manzaltu/claude-code-ide.el",
+    "author": "kgwgk",
+    "date": "2025-08-06",
+    "score": 702,
+    "comments": 235,
+    "id": 44811567,
+    "discussion_url": "https://news.ycombinator.com/item?id=44811567",
+    "description": "Claude Code IDE integration for Emacs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111455"
+  },
+  {
+    "title": "Comptime.ts: compile-time expressions for TypeScript",
+    "url": "https://comptime.js.org/",
+    "author": "excalo",
+    "date": "2025-08-04",
+    "score": 142,
+    "comments": 32,
+    "id": 44778898,
+    "discussion_url": "https://news.ycombinator.com/item?id=44778898",
+    "description": "Comptime.ts: compile-time expressions for TypeScript",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111611"
+  },
+  {
+    "title": "Cracking the Vault: How we found zero-day flaws in HashiCorp Vault",
+    "url": "https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/",
+    "author": "nihsy",
+    "date": "2025-08-07",
+    "score": 166,
+    "comments": 67,
+    "id": 44821434,
+    "discussion_url": "https://news.ycombinator.com/item?id=44821434",
+    "description": "Cracking the Vault: How we found zero-day flaws in HashiCorp Vault",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111464"
+  },
+  {
+    "title": "Debounce",
+    "url": "https://developer.mozilla.org/en-US/docs/Glossary/Debounce",
+    "author": "aanthonymax",
+    "date": "2025-08-05",
+    "score": 108,
+    "comments": 56,
+    "id": 44787738,
+    "discussion_url": "https://news.ycombinator.com/item?id=44787738",
+    "description": "Debounce",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111503"
+  },
+  {
+    "title": "Herbie detects inaccurate expressions and finds more accurate replacements",
+    "url": "https://herbie.uwplse.org/",
+    "author": "bwidlar",
+    "date": "2025-08-04",
+    "score": 74,
+    "comments": 8,
+    "id": 44777419,
+    "discussion_url": "https://news.ycombinator.com/item?id=44777419",
+    "description": "Herbie detects inaccurate expressions and finds more accurate replacements",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111615"
+  },
+  {
+    "title": "How AI Conquered the US Economy: A Visual FAQ",
+    "url": "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a",
+    "author": "rbanffy",
+    "date": "2025-08-07",
+    "score": 84,
+    "comments": 76,
+    "id": 44822665,
+    "discussion_url": "https://news.ycombinator.com/item?id=44822665",
+    "description": "How AI Conquered the US Economy: A Visual FAQ",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111472"
+  },
+  {
+    "title": "Infinite Pixels",
+    "url": "https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/",
+    "author": "OuterVale",
+    "date": "2025-08-07",
+    "score": 122,
+    "comments": 16,
+    "id": 44824056,
+    "discussion_url": "https://news.ycombinator.com/item?id=44824056",
+    "description": "Infinite Pixels",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111359"
+  },
+  {
+    "title": "Jules, our asynchronous coding agent",
+    "url": "https://blog.google/technology/google-labs/jules-now-available/",
+    "author": "meetpateltech",
+    "date": "2025-08-07",
+    "score": 324,
+    "comments": 220,
+    "id": 44813854,
+    "discussion_url": "https://news.ycombinator.com/item?id=44813854",
+    "description": "Jules, our asynchronous coding agent",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111537"
+  },
+  {
+    "title": "Leonardo Chiariglione: “I closed MPEG on 2 June 2020”",
+    "url": "https://leonardo.chiariglione.org/",
+    "author": "eggspurt",
+    "date": "2025-08-07",
+    "score": 169,
+    "comments": 138,
+    "id": 44822637,
+    "discussion_url": "https://news.ycombinator.com/item?id=44822637",
+    "description": "Leonardo Chiariglione: “I closed MPEG on 2 June 2020”",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111477"
+  },
+  {
+    "title": "Litestar is worth a look",
+    "url": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+    "author": "todsacerdoti",
+    "date": "2025-08-07",
+    "score": 317,
+    "comments": 81,
+    "id": 44816755,
+    "discussion_url": "https://news.ycombinator.com/item?id=44816755",
+    "description": "Litestar is worth a look",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111541"
+  },
+  {
+    "title": "Mac history echoes in current Mac operating systems",
+    "url": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
+    "author": "classichasclass",
+    "date": "2025-08-07",
+    "score": 131,
+    "comments": 43,
+    "id": 44819962,
+    "discussion_url": "https://news.ycombinator.com/item?id=44819962",
+    "description": "Mac history echoes in current Mac operating systems",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111627"
+  },
+  {
+    "title": "Multics",
+    "url": "https://www.multicians.org/multics.html",
+    "author": "unleaded",
+    "date": "2025-08-07",
+    "score": 128,
+    "comments": 29,
+    "id": 44814596,
+    "discussion_url": "https://news.ycombinator.com/item?id=44814596",
+    "description": "Multics",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111606"
+  },
+  {
+    "title": "New AI Coding Teammate: Gemini CLI GitHub Actions",
+    "url": "https://blog.google/technology/developers/introducing-gemini-cli-github-actions/",
+    "author": "michael-sumner",
+    "date": "2025-08-07",
+    "score": 128,
+    "comments": 53,
+    "id": 44822389,
+    "discussion_url": "https://news.ycombinator.com/item?id=44822389",
+    "description": "New AI Coding Teammate: Gemini CLI GitHub Actions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111372"
+  },
+  {
+    "title": "Open models by OpenAI",
+    "url": "https://openai.com/open-models/",
+    "author": "lackoftactics",
+    "date": "2025-08-06",
+    "score": 2087,
+    "comments": 848,
+    "id": 44800746,
+    "discussion_url": "https://news.ycombinator.com/item?id=44800746",
+    "description": "Open models by OpenAI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111648"
+  },
+  {
+    "title": "Project Hyperion: Interstellar ship design competition",
+    "url": "https://www.projecthyperion.org",
+    "author": "codeulike",
+    "date": "2025-08-07",
+    "score": 326,
+    "comments": 246,
+    "id": 44817539,
+    "discussion_url": "https://news.ycombinator.com/item?id=44817539",
+    "description": "Project Hyperion: Interstellar ship design competition",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111516"
+  },
+  {
+    "title": "Rules by which a great empire may be reduced to a small one (1773)",
+    "url": "https://founders.archives.gov/documents/Franklin/01-20-02-0213",
+    "author": "freediver",
+    "date": "2025-08-07",
+    "score": 221,
+    "comments": 137,
+    "id": 44819037,
+    "discussion_url": "https://news.ycombinator.com/item?id=44819037",
+    "description": "Rules by which a great empire may be reduced to a small one (1773)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111520"
+  },
+  {
+    "title": "Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs",
+    "url": "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/",
+    "author": "philipkiely",
+    "date": "2025-08-07",
+    "score": 214,
+    "comments": 141,
+    "id": 44819968,
+    "discussion_url": "https://news.ycombinator.com/item?id=44819968",
+    "description": "Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111528"
+  },
+  {
+    "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "author": "divamgupta",
+    "date": "2025-08-06",
+    "score": 888,
+    "comments": 342,
+    "id": 44807868,
+    "discussion_url": "https://news.ycombinator.com/item?id=44807868",
+    "description": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111524"
+  },
+  {
+    "title": "Show HN: Sinkzone DNS – Forwarder that blocks everything except your allowlist",
+    "url": "https://github.com/berbyte/sinkzone",
+    "author": "dominis",
+    "date": "2025-08-07",
+    "score": 83,
+    "comments": 42,
+    "id": 44813905,
+    "discussion_url": "https://news.ycombinator.com/item?id=44813905",
+    "description": "Show HN: Sinkzone DNS – Forwarder that blocks everything except your allowlist",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111652"
+  },
+  {
+    "title": "The Bluesky Dictionary",
+    "url": "https://www.avibagla.com/blueskydictionary/",
+    "author": "gaws",
+    "date": "2025-08-07",
+    "score": 192,
+    "comments": 53,
+    "id": 44817583,
+    "discussion_url": "https://news.ycombinator.com/item?id=44817583",
+    "description": "The Bluesky Dictionary",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111570"
+  },
+  {
+    "title": "We replaced passwords with something worse",
+    "url": "https://blog.danielh.cc/blog/passwords",
+    "author": "max__dev",
+    "date": "2025-08-07",
+    "score": 593,
+    "comments": 484,
+    "id": 44819917,
+    "discussion_url": "https://news.ycombinator.com/item?id=44819917",
+    "description": "We replaced passwords with something worse",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111419"
+  },
+  {
+    "title": "We'd be better off with 9-bit bytes",
+    "url": "https://pavpanchekha.com/blog/9bit.html",
+    "author": "luu",
+    "date": "2025-08-07",
+    "score": 168,
+    "comments": 313,
+    "id": 44816692,
+    "discussion_url": "https://news.ycombinator.com/item?id=44816692",
+    "description": "We'd be better off with 9-bit bytes",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111558"
+  },
+  {
+    "title": "Windows XP Professional",
+    "url": "https://win32.run/",
+    "author": "pentagrama",
+    "date": "2025-08-07",
+    "score": 72,
+    "comments": 35,
+    "id": 44824539,
+    "discussion_url": "https://news.ycombinator.com/item?id=44824539",
+    "description": "Windows XP Professional",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111411"
+  },
+  {
+    "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
+    "url": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
+    "author": "losgehts",
+    "date": "2025-08-07",
+    "score": 283,
+    "comments": 33,
+    "id": 44813789,
+    "discussion_url": "https://news.ycombinator.com/item?id=44813789",
+    "description": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111550"
+  },
+  {
+    "title": "You know more Finnish than you think",
+    "url": "https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/",
+    "author": "infinate",
+    "date": "2025-08-05",
+    "score": 130,
+    "comments": 107,
+    "id": 44790132,
+    "discussion_url": "https://news.ycombinator.com/item?id=44790132",
+    "description": "You know more Finnish than you think",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111566"
+  },
+  {
+    "title": "Zig Error Patterns",
+    "url": "https://glfmn.io/posts/zig-error-patterns/",
+    "author": "Bogdanp",
+    "date": "2025-08-07",
+    "score": 151,
+    "comments": 48,
+    "id": 44812985,
+    "discussion_url": "https://news.ycombinator.com/item?id=44812985",
+    "description": "Zig Error Patterns",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-08-08T01:06:16.111623"
+  }
+]

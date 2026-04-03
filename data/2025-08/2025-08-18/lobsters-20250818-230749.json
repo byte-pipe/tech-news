@@ -1,0 +1,252 @@
+[
+  {
+    "title": "All ATC message routing in Germany was done through Emacs (2021)",
+    "author": "",
+    "score": "45",
+    "comments": "0",
+    "tags": "emacs, lisp",
+    "url": "https://www.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "AsciiDots: an esolang based on ascii art",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://ajanse.me/asciidots/",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Atmos",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "lua, plt",
+    "url": "https://github.com/atmos-lang/atmos",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Basic dependency injection in OCaml with objects",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "ml",
+    "url": "https://gr-im.github.io/a/dependency-injection.html",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Dynamo, DynamoDB, and Aurora DSQL",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "GPT-5 goes hard on real-world programming",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "vibecoding, zig",
+    "url": "https://www.omerba.dev/blog/gpt-5-evtx-zig-parser",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Google is killing the open web",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "browsers, web",
+    "url": "https://wok.oblomov.eu/tecnologia/google-killing-open-web/",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "How Indirect Prompt Injections Exploit Context, Format, and Salience",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "ai, security",
+    "url": "https://www.fogel.dev/prompt_injection_cfs_framework",
+    "date": "2025-08-18",
+    "description": "☶"
+  },
+  {
+    "title": "I Tried Every Todo App and Ended Up With a .txt File",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://www.al3rez.com/todo-txt-journey",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Introducing Action Native Push",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "release, ruby",
+    "url": "https://dev.37signals.com/introducing-action-native-push/",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Introducing the illumos Cafe: Another Cozy Corner for OS Diversity",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "illumos",
+    "url": "https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "NixOS & Flakes Book",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "book, nix",
+    "url": "https://nixos-and-flakes.thiscute.world/introduction/",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Phrack 72",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://phrack.org/issues/72/1",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Preventing Domain Resurrection Attacks (on the Python Package Index)",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "python, security",
+    "url": "https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Preventing NAPTR Spam",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "historical, privacy",
+    "url": "https://shkspr.mobi/blog/2025/08/preventing-naptr-spam/",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Recto — a truly 2D language",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://masatohagiwara.net/recto.html",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "SystemD Service Hardening",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://roguesecurity.dev/blog/systemd-hardening",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
+    "author": "",
+    "score": "73",
+    "comments": "0",
+    "tags": "lua, vim",
+    "url": "https://vim.gabornyeki.com/",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Trap: Autoregressive Transformers in APL",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "ai, apl",
+    "url": "https://github.com/BobMcDear/trap",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Treetable: a case-study in q",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "apl, compsci",
+    "url": "https://archive.vector.org.uk/art10500340",
+    "date": "2025-08-18",
+    "description": "☶"
+  },
+  {
+    "title": "What are you doing this week?",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "ask, programming",
+    "url": "https://lobste.rs/s/monzbv/what_are_you_doing_this_week",
+    "date": "2025-08-18",
+    "description": "☶"
+  },
+  {
+    "title": "Why I prefer rST [reStructuredText] to Markdown (2024)",
+    "author": "",
+    "score": "38",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "ZFS scrubs check (much) less than you probably think they do (2018)",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "osdev",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "wrkflw: Validate and Run GitHub Actions locally",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "testing",
+    "url": "https://github.com/bahdotsh/wrkflw",
+    "date": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "“Email is Easy” email address quiz",
+    "author": "",
+    "score": "110",
+    "comments": "0",
+    "tags": "email",
+    "url": "https://e-mail.wtf",
+    "date": "2025-08-18",
+    "description": ""
+  }
+]

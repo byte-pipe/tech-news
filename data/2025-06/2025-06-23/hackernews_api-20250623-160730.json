@@ -1,0 +1,512 @@
+[
+  {
+    "title": "2048 with only 64 bits of state",
+    "url": "https://github.com/izabera/bitwise-challenge-2048",
+    "author": "todsacerdoti",
+    "date": "2025-06-20",
+    "score": 121,
+    "comments": 27,
+    "id": 44320285,
+    "discussion_url": "https://news.ycombinator.com/item?id=44320285",
+    "description": "2048 with only 64 bits of state",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420315"
+  },
+  {
+    "title": "AGI is Mathematically Impossible 2: When Entropy Returns",
+    "url": "https://philarchive.org/archive/SCHAIM-14",
+    "author": "ICBTheory",
+    "date": "2025-06-23",
+    "score": 103,
+    "comments": 147,
+    "id": 44348813,
+    "discussion_url": "https://news.ycombinator.com/item?id=44348813",
+    "description": "AGI is Mathematically Impossible 2: When Entropy Returns",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420289"
+  },
+  {
+    "title": "Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge",
+    "url": "https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/",
+    "author": "sohkamyung",
+    "date": "2025-06-18",
+    "score": 205,
+    "comments": 103,
+    "id": 44309191,
+    "discussion_url": "https://news.ycombinator.com/item?id=44309191",
+    "description": "Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420456"
+  },
+  {
+    "title": "Finding a billion factorials in 60 ms with SIMD",
+    "url": "https://codeforces.com/blog/entry/143279",
+    "author": "todsacerdoti",
+    "date": "2025-06-23",
+    "score": 83,
+    "comments": 5,
+    "id": 44351068,
+    "discussion_url": "https://news.ycombinator.com/item?id=44351068",
+    "description": "Finding a billion factorials in 60 ms with SIMD",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420229"
+  },
+  {
+    "title": "Git Notes: Git's coolest, most unloved­ feature (2022)",
+    "url": "https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/",
+    "author": "Delgan",
+    "date": "2025-06-22",
+    "score": 495,
+    "comments": 116,
+    "id": 44345334,
+    "discussion_url": "https://news.ycombinator.com/item?id=44345334",
+    "description": "Git Notes: Git's coolest, most unloved­ feature (2022)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420293"
+  },
+  {
+    "title": "How fast are Linux pipes anyway?",
+    "url": "https://mazzo.li/posts/fast-pipes.html",
+    "author": "keepamovin",
+    "date": "2025-06-22",
+    "score": 199,
+    "comments": 30,
+    "id": 44344708,
+    "discussion_url": "https://news.ycombinator.com/item?id=44344708",
+    "description": "How fast are Linux pipes anyway?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420356"
+  },
+  {
+    "title": "How to negotiate your salary package",
+    "url": "https://www.complexsystemspodcast.com/episodes/how-to-negotiate-your-salary-package/",
+    "author": "surprisetalk",
+    "date": "2025-06-19",
+    "score": 270,
+    "comments": 228,
+    "id": 44313739,
+    "discussion_url": "https://news.ycombinator.com/item?id=44313739",
+    "description": "How to negotiate your salary package",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420212"
+  },
+  {
+    "title": "I was surprised by how simple an allocator is",
+    "url": "https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/",
+    "author": "gilgamesh3",
+    "date": "2025-06-19",
+    "score": 83,
+    "comments": 37,
+    "id": 44315968,
+    "discussion_url": "https://news.ycombinator.com/item?id=44315968",
+    "description": "I was surprised by how simple an allocator is",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420415"
+  },
+  {
+    "title": "I wrote my PhD Thesis in Typst",
+    "url": "https://fransskarman.com/phd_thesis_in_typst.html",
+    "author": "todsacerdoti",
+    "date": "2025-06-23",
+    "score": 237,
+    "comments": 118,
+    "id": 44350322,
+    "discussion_url": "https://news.ycombinator.com/item?id=44350322",
+    "description": "I wrote my PhD Thesis in Typst",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420234"
+  },
+  {
+    "title": "Kilauea volcano errupts, lava more than 1k feet high [video]",
+    "url": "https://www.youtube.com/watch?v=oG5zz9Sjw3E",
+    "author": "asix66",
+    "date": "2025-06-21",
+    "score": 87,
+    "comments": 36,
+    "id": 44331201,
+    "discussion_url": "https://news.ycombinator.com/item?id=44331201",
+    "description": "Kilauea volcano errupts, lava more than 1k feet high [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420340"
+  },
+  {
+    "title": "Klein Bottle Amazon Brand Hijacking (2021)",
+    "url": "https://www.kleinbottle.com/Amazon_Brand_Hijacking.html",
+    "author": "sebg",
+    "date": "2025-06-23",
+    "score": 179,
+    "comments": 72,
+    "id": 44349525,
+    "discussion_url": "https://news.ycombinator.com/item?id=44349525",
+    "description": "Klein Bottle Amazon Brand Hijacking (2021)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420275"
+  },
+  {
+    "title": "LaborBerlin: State-of-the-Art 16mm Projector",
+    "url": "https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start",
+    "author": "audionerd",
+    "date": "2025-06-22",
+    "score": 208,
+    "comments": 34,
+    "id": 44340386,
+    "discussion_url": "https://news.ycombinator.com/item?id=44340386",
+    "description": "LaborBerlin: State-of-the-Art 16mm Projector",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420435"
+  },
+  {
+    "title": "Largest Wildlife Bridge Spanning 10 Lanes of CA 101 Is Nearly Complete",
+    "url": "https://www.thedrive.com/news/worlds-largest-wildlife-bridge-spanning-10-lanes-of-101-freeway-is-nearly-complete",
+    "author": "PaulHoule",
+    "date": "2025-06-19",
+    "score": 136,
+    "comments": 77,
+    "id": 44314203,
+    "discussion_url": "https://news.ycombinator.com/item?id=44314203",
+    "description": "Largest Wildlife Bridge Spanning 10 Lanes of CA 101 Is Nearly Complete",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420411"
+  },
+  {
+    "title": "LibRedirect – Redirects popular sites to alternative privacy-friendly frontends",
+    "url": "https://libredirect.github.io",
+    "author": "riffraff",
+    "date": "2025-06-22",
+    "score": 400,
+    "comments": 99,
+    "id": 44344246,
+    "discussion_url": "https://news.ycombinator.com/item?id=44344246",
+    "description": "LibRedirect – Redirects popular sites to alternative privacy-friendly frontends",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420302"
+  },
+  {
+    "title": "Low-Temperature Additive Manufacturing of Glass",
+    "url": "https://www.ll.mit.edu/research-and-development/advanced-technology/microsystems-prototyping-foundry/low-temperature",
+    "author": "LorenDB",
+    "date": "2025-06-19",
+    "score": 107,
+    "comments": 19,
+    "id": 44311141,
+    "discussion_url": "https://news.ycombinator.com/item?id=44311141",
+    "description": "Low-Temperature Additive Manufacturing of Glass",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420394"
+  },
+  {
+    "title": "Mbake – A Makefile formatter and linter, that only took 50 years",
+    "url": "https://github.com/EbodShojaei/bake",
+    "author": "rainmans",
+    "date": "2025-06-20",
+    "score": 219,
+    "comments": 103,
+    "id": 44323905,
+    "discussion_url": "https://news.ycombinator.com/item?id=44323905",
+    "description": "Mbake – A Makefile formatter and linter, that only took 50 years",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420386"
+  },
+  {
+    "title": "Mechanical Watch: Exploded View",
+    "url": "https://fellerts.no/projects/epoch.html",
+    "author": "fellerts",
+    "date": "2025-06-23",
+    "score": 747,
+    "comments": 97,
+    "id": 44347425,
+    "discussion_url": "https://news.ycombinator.com/item?id=44347425",
+    "description": "Mechanical Watch: Exploded View",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420196"
+  },
+  {
+    "title": "P-Hacking in Startups",
+    "url": "https://briefer.cloud/blog/posts/p-hacking/",
+    "author": "thaisstein",
+    "date": "2025-06-18",
+    "score": 292,
+    "comments": 132,
+    "id": 44308328,
+    "discussion_url": "https://news.ycombinator.com/item?id=44308328",
+    "description": "P-Hacking in Startups",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420403"
+  },
+  {
+    "title": "Phoenix.new – Remote AI Runtime for Phoenix",
+    "url": "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/",
+    "author": "wut42",
+    "date": "2025-06-21",
+    "score": 612,
+    "comments": 256,
+    "id": 44328326,
+    "discussion_url": "https://news.ycombinator.com/item?id=44328326",
+    "description": "Phoenix.new – Remote AI Runtime for Phoenix",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420431"
+  },
+  {
+    "title": "Python can run Mojo now",
+    "url": "https://koaning.io/posts/giving-mojo-a-spin/",
+    "author": "cantdutchthis",
+    "date": "2025-06-21",
+    "score": 93,
+    "comments": 21,
+    "id": 44331316,
+    "discussion_url": "https://news.ycombinator.com/item?id=44331316",
+    "description": "Python can run Mojo now",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420224"
+  },
+  {
+    "title": "Remote MCP Support in Claude Code",
+    "url": "https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367",
+    "author": "surprisetalk",
+    "date": "2025-06-19",
+    "score": 166,
+    "comments": 76,
+    "id": 44312363,
+    "discussion_url": "https://news.ycombinator.com/item?id=44312363",
+    "description": "Remote MCP Support in Claude Code",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420361"
+  },
+  {
+    "title": "Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep",
+    "url": "https://apps.apple.com/us/app/lungy-breathing-exercises/id1545223887",
+    "author": "lukko",
+    "date": "2025-06-22",
+    "score": 88,
+    "comments": 38,
+    "id": 44345451,
+    "discussion_url": "https://news.ycombinator.com/item?id=44345451",
+    "description": "Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420447"
+  },
+  {
+    "title": "Show HN: Luna Rail – Treating night trains as a spatial optimization problem",
+    "url": "https://luna-rail.com/en/home-2",
+    "author": "ant6n",
+    "date": "2025-06-18",
+    "score": 117,
+    "comments": 60,
+    "id": 44307976,
+    "discussion_url": "https://news.ycombinator.com/item?id=44307976",
+    "description": "Show HN: Luna Rail – Treating night trains as a spatial optimization problem",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420377"
+  },
+  {
+    "title": "Show HN: Report idling vehicles in NYC (and get a cut of the fines) with AI",
+    "url": "https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971",
+    "author": "rafram",
+    "date": "2025-06-23",
+    "score": 137,
+    "comments": 176,
+    "id": 44348448,
+    "discussion_url": "https://news.ycombinator.com/item?id=44348448",
+    "description": "Show HN: Report idling vehicles in NYC (and get a cut of the fines) with AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420344"
+  },
+  {
+    "title": "Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth",
+    "url": "https://github.com/lfnoise/sapf",
+    "author": "mindcrime",
+    "date": "2025-06-22",
+    "score": 183,
+    "comments": 38,
+    "id": 44342731,
+    "discussion_url": "https://news.ycombinator.com/item?id=44342731",
+    "description": "Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420399"
+  },
+  {
+    "title": "TPU Deep Dive",
+    "url": "https://henryhmko.github.io/posts/tpu/tpu.html",
+    "author": "transpute",
+    "date": "2025-06-22",
+    "score": 393,
+    "comments": 80,
+    "id": 44342977,
+    "discussion_url": "https://news.ycombinator.com/item?id=44342977",
+    "description": "TPU Deep Dive",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420336"
+  },
+  {
+    "title": "The cultural decline of literary fiction",
+    "url": "https://oyyy.substack.com/p/the-cultural-decline-of-literary",
+    "author": "libraryofbabel",
+    "date": "2025-06-23",
+    "score": 141,
+    "comments": 257,
+    "id": 44347973,
+    "discussion_url": "https://news.ycombinator.com/item?id=44347973",
+    "description": "The cultural decline of literary fiction",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420328"
+  },
+  {
+    "title": "Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot",
+    "url": "https://www.romanklasen.com/blog/beating-brainrot-by-button/",
+    "author": "remuskaos",
+    "date": "2025-06-23",
+    "score": 179,
+    "comments": 88,
+    "id": 44350002,
+    "discussion_url": "https://news.ycombinator.com/item?id=44350002",
+    "description": "Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420239"
+  },
+  {
+    "title": "Using an $8 smart outlet to avoid brainrot",
+    "url": "https://www.neilchen.co/blog/kasa",
+    "author": "NWChen",
+    "date": "2025-06-22",
+    "score": 127,
+    "comments": 72,
+    "id": 44346450,
+    "discussion_url": "https://news.ycombinator.com/item?id=44346450",
+    "description": "Using an $8 smart outlet to avoid brainrot",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420348"
+  },
+  {
+    "title": "Why do all browsers' user agents start with \"Mozilla/\"? (2008)",
+    "url": "https://stackoverflow.com/questions/1114254/why-do-all-browsers-user-agents-start-with-mozilla",
+    "author": "nan60",
+    "date": "2025-06-23",
+    "score": 98,
+    "comments": 55,
+    "id": 44349845,
+    "discussion_url": "https://news.ycombinator.com/item?id=44349845",
+    "description": "Why do all browsers' user agents start with \"Mozilla/\"? (2008)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-23T16:07:30.420452"
+  }
+]

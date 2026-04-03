@@ -1,0 +1,64 @@
+---
+title: Statement from Federal Reserve Chair Jerome H. Powell - Federal Reserve Board
+url: https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm
+site_name: hackernews_api
+fetched_at: '2026-01-12T11:08:03.852717'
+original_url: https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm
+author: '0xedb'
+date: '2026-01-12'
+description: Good evening. On Friday, the Department of Justice served the Federal Reserve with grand jury subpoenas, threatening a criminal indictment related to my testi
+tags:
+- hackernews
+- trending
+---
+
+1. Home
+2. News & Events
+3. Speeches
+
+## Speech
+
+PDF
+
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+
+
+January 11, 2026
+
+### Statement from Federal Reserve Chair Jerome H. Powell
+
+Chair Jerome H. Powell
+
+* Share
+
+Accessible Keys for Video
+
+[Space Bar]toggles play/pause;
+
+[Right/Left Arrows]seeks the video forwards and back (5 sec );
+
+[Up/Down Arrows]increase/decrease volume;
+
+[M]toggles mute on/off;
+
+[F]toggles fullscreen on/off (Except IE 11);
+
+The[Tab]key may be used in combination with the[Enter/Return]key to navigate and activate control buttons, such as caption on/off.
+
+Good evening.
+
+On Friday, the Department of Justice served the Federal Reserve with grand jury subpoenas, threatening a criminal indictment related to my testimony before the Senate Banking Committee last June. That testimony concerned in part a multi-year project to renovate historic Federal Reserve office buildings.
+
+I have deep respect for the rule of law and for accountability in our democracy. No one—certainly not the chair of the Federal Reserve—is above the law. But this unprecedented action should be seen in the broader context of the administration's threats and ongoing pressure.
+
+This new threat is not about my testimony last June or about the renovation of the Federal Reserve buildings. It is not about Congress's oversight role; the Fed through testimony and other public disclosures made every effort to keep Congress informed about the renovation project. Those are pretexts. The threat of criminal charges is a consequence of the Federal Reserve setting interest rates based on our best assessment of what will serve the public, rather than following the preferences of the President.
+
+This is about whether the Fed will be able to continue to set interest rates based on evidence and economic conditions—or whether instead monetary policy will be directed by political pressure or intimidation.
+
+I have served at the Federal Reserve under four administrations, Republicans and Democrats alike. In every case, I have carried out my duties without political fear or favor, focused solely on our mandate of price stability and maximum employment. Public service sometimes requires standing firm in the face of threats. I will continue to do the job the Senate confirmed me to do, with integrity and a commitment to serving the American people.
+
+Thank you.
+
+Last Update:
+
+ January 11, 2026

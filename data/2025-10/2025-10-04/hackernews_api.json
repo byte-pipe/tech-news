@@ -1,0 +1,512 @@
+[
+  {
+    "title": "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
+    "url": "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core",
+    "author": "rbanffy",
+    "date": "2025-10-03",
+    "score": 158,
+    "comments": 36,
+    "id": 45467166,
+    "discussion_url": "https://news.ycombinator.com/item?id=45467166",
+    "description": "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110963"
+  },
+  {
+    "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
+    "url": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
+    "author": "signa11",
+    "date": "2025-10-04",
+    "score": 204,
+    "comments": 56,
+    "id": 45471136,
+    "discussion_url": "https://news.ycombinator.com/item?id=45471136",
+    "description": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110940"
+  },
+  {
+    "title": "Arenas in Rust",
+    "url": "https://russellw.github.io/arenas",
+    "author": "welovebunnies",
+    "date": "2025-10-03",
+    "score": 128,
+    "comments": 81,
+    "id": 45467032,
+    "discussion_url": "https://news.ycombinator.com/item?id=45467032",
+    "description": "Arenas in Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111132"
+  },
+  {
+    "title": "Asked to do something illegal at work? Here's what these software engineers did",
+    "url": "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/",
+    "author": "bschne",
+    "date": "2025-10-02",
+    "score": 479,
+    "comments": 310,
+    "id": 45447536,
+    "discussion_url": "https://news.ycombinator.com/item?id=45447536",
+    "description": "Asked to do something illegal at work? Here's what these software engineers did",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111124"
+  },
+  {
+    "title": "Cancellations in async Rust",
+    "url": "https://sunshowers.io/posts/cancelling-async-rust/",
+    "author": "todsacerdoti",
+    "date": "2025-10-03",
+    "score": 224,
+    "comments": 77,
+    "id": 45464632,
+    "discussion_url": "https://news.ycombinator.com/item?id=45464632",
+    "description": "Cancellations in async Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110996"
+  },
+  {
+    "title": "Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?",
+    "url": "https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/",
+    "author": "miltava",
+    "date": "2025-10-04",
+    "score": 197,
+    "comments": 178,
+    "id": 45473033,
+    "discussion_url": "https://news.ycombinator.com/item?id=45473033",
+    "description": "Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110972"
+  },
+  {
+    "title": "Earth was born dry until a cosmic collision made it a blue planet",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250928095654.htm",
+    "author": "amichail",
+    "date": "2025-09-30",
+    "score": 144,
+    "comments": 113,
+    "id": 45427972,
+    "discussion_url": "https://news.ycombinator.com/item?id=45427972",
+    "description": "Earth was born dry until a cosmic collision made it a blue planet",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111052"
+  },
+  {
+    "title": "Effective context engineering for AI agents",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "author": "epenson",
+    "date": "2025-09-29",
+    "score": 133,
+    "comments": 28,
+    "id": 45418251,
+    "discussion_url": "https://news.ycombinator.com/item?id=45418251",
+    "description": "Effective context engineering for AI agents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110987"
+  },
+  {
+    "title": "Flock's gunshot detection microphones will start listening for human voices",
+    "url": "https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices",
+    "author": "hhs",
+    "date": "2025-10-04",
+    "score": 178,
+    "comments": 100,
+    "id": 45473698,
+    "discussion_url": "https://news.ycombinator.com/item?id=45473698",
+    "description": "Flock's gunshot detection microphones will start listening for human voices",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110979"
+  },
+  {
+    "title": "Fluid Glass",
+    "url": "https://chiuhans111.github.io/fluidglass/",
+    "author": "memalign",
+    "date": "2025-09-30",
+    "score": 590,
+    "comments": 99,
+    "id": 45422147,
+    "discussion_url": "https://news.ycombinator.com/item?id=45422147",
+    "description": "Fluid Glass",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111056"
+  },
+  {
+    "title": "How I influence tech company politics as a staff software engineer",
+    "url": "https://www.seangoedecke.com/how-to-influence-politics/",
+    "author": "facundo_olano",
+    "date": "2025-10-04",
+    "score": 175,
+    "comments": 101,
+    "id": 45473852,
+    "discussion_url": "https://news.ycombinator.com/item?id=45473852",
+    "description": "How I influence tech company politics as a staff software engineer",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111025"
+  },
+  {
+    "title": "Inkjet printer with DRM-free ink will be launched via a crowdfunding campaign",
+    "url": "https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html",
+    "author": "mnmalst",
+    "date": "2025-09-30",
+    "score": 512,
+    "comments": 153,
+    "id": 45423404,
+    "discussion_url": "https://news.ycombinator.com/item?id=45423404",
+    "description": "Inkjet printer with DRM-free ink will be launched via a crowdfunding campaign",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111172"
+  },
+  {
+    "title": "Interstellar Object 3I/Atlas Passed Mars Last Night",
+    "url": "https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/",
+    "author": "jandrewrogers",
+    "date": "2025-10-03",
+    "score": 172,
+    "comments": 123,
+    "id": 45467543,
+    "discussion_url": "https://news.ycombinator.com/item?id=45467543",
+    "description": "Interstellar Object 3I/Atlas Passed Mars Last Night",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111005"
+  },
+  {
+    "title": "Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits",
+    "url": "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html",
+    "author": "belter",
+    "date": "2025-10-03",
+    "score": 250,
+    "comments": 549,
+    "id": 45464429,
+    "discussion_url": "https://news.ycombinator.com/item?id=45464429",
+    "description": "Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110925"
+  },
+  {
+    "title": "Jules, remote coding agent from Google Labs, announces API",
+    "url": "https://jules.google/docs/changelog/",
+    "author": "watkajtys",
+    "date": "2025-10-03",
+    "score": 200,
+    "comments": 66,
+    "id": 45466588,
+    "discussion_url": "https://news.ycombinator.com/item?id=45466588",
+    "description": "Jules, remote coding agent from Google Labs, announces API",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110930"
+  },
+  {
+    "title": "Litestream v0.5.0",
+    "url": "https://fly.io/blog/litestream-v050-is-here/",
+    "author": "emschwartz",
+    "date": "2025-10-02",
+    "score": 412,
+    "comments": 181,
+    "id": 45453936,
+    "discussion_url": "https://news.ycombinator.com/item?id=45453936",
+    "description": "Litestream v0.5.0",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111148"
+  },
+  {
+    "title": "LoRA Without Regret",
+    "url": "https://thinkingmachines.ai/blog/lora/",
+    "author": "grantpitt",
+    "date": "2025-09-29",
+    "score": 172,
+    "comments": 48,
+    "id": 45416706,
+    "discussion_url": "https://news.ycombinator.com/item?id=45416706",
+    "description": "LoRA Without Regret",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110950"
+  },
+  {
+    "title": "Modern Font Stacks",
+    "url": "https://modernfontstacks.com/",
+    "author": "surprisetalk",
+    "date": "2025-09-30",
+    "score": 324,
+    "comments": 74,
+    "id": 45420722,
+    "discussion_url": "https://news.ycombinator.com/item?id=45420722",
+    "description": "Modern Font Stacks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111115"
+  },
+  {
+    "title": "New antibiotic targets IBD and AI predicted how it would work",
+    "url": "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/",
+    "author": "KLK2019",
+    "date": "2025-10-04",
+    "score": 177,
+    "comments": 63,
+    "id": 45469579,
+    "discussion_url": "https://news.ycombinator.com/item?id=45469579",
+    "description": "New antibiotic targets IBD and AI predicted how it would work",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111060"
+  },
+  {
+    "title": "Offline card payments should be possible no later than 1 July 2026",
+    "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/",
+    "author": "sebiw",
+    "date": "2025-10-03",
+    "score": 448,
+    "comments": 510,
+    "id": 45467500,
+    "discussion_url": "https://news.ycombinator.com/item?id=45467500",
+    "description": "Offline card payments should be possible no later than 1 July 2026",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111017"
+  },
+  {
+    "title": "Old Stockholm Telephone Tower",
+    "url": "https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower",
+    "author": "ZeljkoS",
+    "date": "2025-10-02",
+    "score": 127,
+    "comments": 33,
+    "id": 45447057,
+    "discussion_url": "https://news.ycombinator.com/item?id=45447057",
+    "description": "Old Stockholm Telephone Tower",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110913"
+  },
+  {
+    "title": "PEP 810 – Explicit lazy imports",
+    "url": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
+    "author": "azhenley",
+    "date": "2025-10-03",
+    "score": 372,
+    "comments": 215,
+    "id": 45466086,
+    "discussion_url": "https://news.ycombinator.com/item?id=45466086",
+    "description": "PEP 810 – Explicit lazy imports",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110902"
+  },
+  {
+    "title": "Paged Out Issue #7 [pdf]",
+    "url": "https://pagedout.institute/download/PagedOut_007.pdf",
+    "author": "todsacerdoti",
+    "date": "2025-10-04",
+    "score": 181,
+    "comments": 13,
+    "id": 45472319,
+    "discussion_url": "https://news.ycombinator.com/item?id=45472319",
+    "description": "Paged Out Issue #7 [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111048"
+  },
+  {
+    "title": "Social anxiety isn't about being liked",
+    "url": "https://chrislakin.blog/p/social-anxiety",
+    "author": "rohmanhakim",
+    "date": "2025-10-03",
+    "score": 225,
+    "comments": 179,
+    "id": 45463656,
+    "discussion_url": "https://news.ycombinator.com/item?id=45463656",
+    "description": "Social anxiety isn't about being liked",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111128"
+  },
+  {
+    "title": "The Beer Can (2023)",
+    "url": "https://brr.fyi/posts/beer-can",
+    "author": "Michelangelo11",
+    "date": "2025-10-01",
+    "score": 300,
+    "comments": 53,
+    "id": 45435375,
+    "discussion_url": "https://news.ycombinator.com/item?id=45435375",
+    "description": "The Beer Can (2023)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111164"
+  },
+  {
+    "title": "The Faroes",
+    "url": "https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr",
+    "author": "speckx",
+    "date": "2025-10-03",
+    "score": 172,
+    "comments": 92,
+    "id": 45462297,
+    "discussion_url": "https://news.ycombinator.com/item?id=45462297",
+    "description": "The Faroes",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111140"
+  },
+  {
+    "title": "The collapse of the econ PhD job market",
+    "url": "https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job",
+    "author": "Ozarkian",
+    "date": "2025-10-03",
+    "score": 178,
+    "comments": 269,
+    "id": 45464984,
+    "discussion_url": "https://news.ycombinator.com/item?id=45464984",
+    "description": "The collapse of the econ PhD job market",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110955"
+  },
+  {
+    "title": "Where it's at://",
+    "url": "https://overreacted.io/where-its-at/",
+    "author": "steveklabnik",
+    "date": "2025-10-02",
+    "score": 348,
+    "comments": 214,
+    "id": 45455164,
+    "discussion_url": "https://news.ycombinator.com/item?id=45455164",
+    "description": "Where it's at://",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110983"
+  },
+  {
+    "title": "WireGuard topologies for self-hosting at home",
+    "url": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
+    "author": "todsacerdoti",
+    "date": "2025-10-03",
+    "score": 124,
+    "comments": 50,
+    "id": 45466980,
+    "discussion_url": "https://news.ycombinator.com/item?id=45466980",
+    "description": "WireGuard topologies for self-hosting at home",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.111168"
+  },
+  {
+    "title": "Zig builds are getting faster",
+    "url": "https://mitchellh.com/writing/zig-builds-getting-faster",
+    "author": "emschwartz",
+    "date": "2025-10-03",
+    "score": 380,
+    "comments": 173,
+    "id": 45468698,
+    "discussion_url": "https://news.ycombinator.com/item?id=45468698",
+    "description": "Zig builds are getting faster",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-04T19:07:54.110860"
+  }
+]

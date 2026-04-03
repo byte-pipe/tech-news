@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A Fast Bytecode VM for Arithmetic: The Compiler",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "compilers, haskell",
+    "url": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
+    "author": "",
+    "score": "80",
+    "comments": "0",
+    "tags": "law, networking",
+    "url": "https://lina.sh/blog/telefonica-sabotages-me",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "Automating Pre-Push Checks with Jujutsu",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://www.aazuspan.dev/blog/automating-pre-push-checks-with-jujutsu/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "Big O",
+    "author": "",
+    "score": "70",
+    "comments": "0",
+    "tags": "compsci",
+    "url": "https://samwho.dev/big-o/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "Comparing nitro to runit",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "unix",
+    "url": "https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "Good Vibes: A Claude-Code Case-Study",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://taylor.town/diggit-000",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "I Don't Like Imports",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "practices, rust",
+    "url": "https://kevincox.ca/2025/07/20/no-imports/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "I Hacked Monster Energy and Uncovered Their Employee Training Material",
+    "author": "",
+    "score": "36",
+    "comments": "0",
+    "tags": "rant, security",
+    "url": "https://bobdahacker.com/blog/monster-energy",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "Interview with Jon Corbett: Cree#, Ancestral Code, and an Indigenous Computing Framework",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "person, philosophy",
+    "url": "https://esoteric.codes/blog/jon-corbett",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "Introducing Zod Codecs",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "javascript, release",
+    "url": "https://colinhacks.com/essays/introducing-zod-codecs",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "Line scan camera image processing (train photography)",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "art, graphics, math",
+    "url": "https://daniel.lawrence.lu/blog/y2025m09d21/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "Marshal madness: A brief history of Ruby deserialization exploits",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "ruby, security",
+    "url": "https://blog.trailofbits.com/2025/08/20/marshal-madness-a-brief-history-of-ruby-deserialization-exploits/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "Optimizing FizzBuzz in Rust",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "performance, rust",
+    "url": "https://github.com/nrposner/fizzcrate",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://avi.im/blag/2025/sqlite-fsync/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "Secret Management on NixOS with sops-nix",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "nix",
+    "url": "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "SurrealDB is sacrificing data durability to make benchmarks look better",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://blog.cf8.gg/surrealdbs-ch/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "True names matter in C++",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "c++",
+    "url": "https://quuxplusone.github.io/blog/2025/08/01/true-names/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "Update on my Racket exit",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "lisp, practices",
+    "url": "https://blog.winny.tech/posts/update-on-my-racket-exit/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "What are you doing this weekend?",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "ask, programming",
+    "url": "https://lobste.rs/s/ayqmih/what_are_you_doing_this_weekend",
+    "date": "2025-08-24",
+    "description": "☶"
+  },
+  {
+    "title": "Which Programming Language Should I Teach First?",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "education",
+    "url": "https://parentheticallyspeaking.org/articles/first-language-wrong-question/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://github.com/DavidBuchanan314/anubis_offload",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "how to build a coding agent",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://ghuntley.com/agent/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "kruci: Post-mortem of a UI library",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "graphics, rust",
+    "url": "https://pwy.io/posts/kruci-post-mortem/",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "rue: A programming language that is a minimal subset of Rust",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "compilers, rust, vibecoding",
+    "url": "https://github.com/steveklabnik/rue",
+    "date": "2025-08-24",
+    "description": ""
+  },
+  {
+    "title": "seed: Interactive software environment based on Common Lisp",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "editors, lisp",
+    "url": "https://github.com/phantomics/seed",
+    "date": "2025-08-24",
+    "description": ""
+  }
+]

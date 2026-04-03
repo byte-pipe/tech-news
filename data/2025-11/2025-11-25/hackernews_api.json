@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A million ways to die from a data race in Go",
+    "url": "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html",
+    "author": "ingve",
+    "date": "2025-11-22",
+    "score": 125,
+    "comments": 110,
+    "id": 46015095,
+    "discussion_url": "https://news.ycombinator.com/item?id=46015095",
+    "description": "A million ways to die from a data race in Go",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482781"
+  },
+  {
+    "title": "AI has a deep understanding of how this code works",
+    "url": "https://github.com/ocaml/ocaml/pull/14369",
+    "author": "theresistor",
+    "date": "2025-11-24",
+    "score": 256,
+    "comments": 121,
+    "id": 46039274,
+    "discussion_url": "https://news.ycombinator.com/item?id=46039274",
+    "description": "AI has a deep understanding of how this code works",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482922"
+  },
+  {
+    "title": "APT Rust requirement raises questions",
+    "url": "https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/",
+    "author": "todsacerdoti",
+    "date": "2025-11-25",
+    "score": 213,
+    "comments": 372,
+    "id": 46045972,
+    "discussion_url": "https://news.ycombinator.com/item?id=46045972",
+    "description": "APT Rust requirement raises questions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482900"
+  },
+  {
+    "title": "Brain has five 'eras' with adult mode not starting until early 30s",
+    "url": "https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study",
+    "author": "hackernj",
+    "date": "2025-11-25",
+    "score": 208,
+    "comments": 188,
+    "id": 46045661,
+    "discussion_url": "https://news.ycombinator.com/item?id=46045661",
+    "description": "Brain has five 'eras' with adult mode not starting until early 30s",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482691"
+  },
+  {
+    "title": "Broccoli Man, Remastered",
+    "url": "https://mbleigh.dev/posts/broccoli-man-remastered/",
+    "author": "mbleigh",
+    "date": "2025-11-19",
+    "score": 123,
+    "comments": 63,
+    "id": 45982875,
+    "discussion_url": "https://news.ycombinator.com/item?id=45982875",
+    "description": "Broccoli Man, Remastered",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482814"
+  },
+  {
+    "title": "Build a Compiler in Five Projects",
+    "url": "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/",
+    "author": "azhenley",
+    "date": "2025-11-24",
+    "score": 187,
+    "comments": 41,
+    "id": 46031220,
+    "discussion_url": "https://news.ycombinator.com/item?id=46031220",
+    "description": "Build a Compiler in Five Projects",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482800"
+  },
+  {
+    "title": "Building the largest known Kubernetes cluster",
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
+    "author": "TangerineDream",
+    "date": "2025-11-21",
+    "score": 148,
+    "comments": 82,
+    "id": 46006891,
+    "discussion_url": "https://news.ycombinator.com/item?id=46006891",
+    "description": "Building the largest known Kubernetes cluster",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482940"
+  },
+  {
+    "title": "Chrome Jpegxl Issue Reopened",
+    "url": "https://issues.chromium.org/issues/40168998",
+    "author": "markdog12",
+    "date": "2025-11-24",
+    "score": 283,
+    "comments": 128,
+    "id": 46033330,
+    "discussion_url": "https://news.ycombinator.com/item?id=46033330",
+    "description": "Chrome Jpegxl Issue Reopened",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482873"
+  },
+  {
+    "title": "Claude Advanced Tool Use",
+    "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+    "author": "lebovic",
+    "date": "2025-11-24",
+    "score": 611,
+    "comments": 245,
+    "id": 46038047,
+    "discussion_url": "https://news.ycombinator.com/item?id=46038047",
+    "description": "Claude Advanced Tool Use",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482944"
+  },
+  {
+    "title": "Claude Opus 4.5",
+    "url": "https://www.anthropic.com/news/claude-opus-4-5",
+    "author": "adocomplete",
+    "date": "2025-11-24",
+    "score": 1059,
+    "comments": 485,
+    "id": 46037637,
+    "discussion_url": "https://news.ycombinator.com/item?id=46037637",
+    "description": "Claude Opus 4.5",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482837"
+  },
+  {
+    "title": "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
+    "url": "https://github.com/Swordfish90/cool-retro-term",
+    "author": "michalpleban",
+    "date": "2025-11-24",
+    "score": 281,
+    "comments": 109,
+    "id": 46036895,
+    "discussion_url": "https://news.ycombinator.com/item?id=46036895",
+    "description": "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482918"
+  },
+  {
+    "title": "FLUX.2: Frontier Visual Intelligence",
+    "url": "https://bfl.ai/blog/flux-2",
+    "author": "meetpateltech",
+    "date": "2025-11-25",
+    "score": 122,
+    "comments": 39,
+    "id": 46046916,
+    "discussion_url": "https://news.ycombinator.com/item?id=46046916",
+    "description": "FLUX.2: Frontier Visual Intelligence",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482762"
+  },
+  {
+    "title": "Fifty Shades of OOP",
+    "url": "https://lesleylai.info/en/fifty_shades_of_oop/",
+    "author": "todsacerdoti",
+    "date": "2025-11-24",
+    "score": 128,
+    "comments": 91,
+    "id": 46032148,
+    "discussion_url": "https://news.ycombinator.com/item?id=46032148",
+    "description": "Fifty Shades of OOP",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482936"
+  },
+  {
+    "title": "Google's new 'Aluminium OS' project brings Android to PC",
+    "url": "https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/",
+    "author": "jmsflknr",
+    "date": "2025-11-24",
+    "score": 168,
+    "comments": 250,
+    "id": 46037591,
+    "discussion_url": "https://news.ycombinator.com/item?id=46037591",
+    "description": "Google's new 'Aluminium OS' project brings Android to PC",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482905"
+  },
+  {
+    "title": "Human brains are preconfigured with instructions for understanding the world",
+    "url": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
+    "author": "XzetaU8",
+    "date": "2025-11-25",
+    "score": 349,
+    "comments": 234,
+    "id": 46042928,
+    "discussion_url": "https://news.ycombinator.com/item?id=46042928",
+    "description": "Human brains are preconfigured with instructions for understanding the world",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482856"
+  },
+  {
+    "title": "Implications of AI to schools",
+    "url": "https://twitter.com/karpathy/status/1993010584175141038",
+    "author": "bilsbie",
+    "date": "2025-11-24",
+    "score": 333,
+    "comments": 395,
+    "id": 46036878,
+    "discussion_url": "https://news.ycombinator.com/item?id=46036878",
+    "description": "Implications of AI to schools",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482790"
+  },
+  {
+    "title": "Making Crash Bandicoot (2011)",
+    "url": "https://all-things-andy-gavin.com/video-games/making-crash/",
+    "author": "davikr",
+    "date": "2025-11-25",
+    "score": 154,
+    "comments": 12,
+    "id": 46045039,
+    "discussion_url": "https://news.ycombinator.com/item?id=46045039",
+    "description": "Making Crash Bandicoot (2011)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482686"
+  },
+  {
+    "title": "Mind-reading devices can now predict preconscious thoughts",
+    "url": "https://www.nature.com/articles/d41586-025-03714-0",
+    "author": "srameshc",
+    "date": "2025-11-24",
+    "score": 165,
+    "comments": 125,
+    "id": 46037267,
+    "discussion_url": "https://news.ycombinator.com/item?id=46037267",
+    "description": "Mind-reading devices can now predict preconscious thoughts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482892"
+  },
+  {
+    "title": "Most Stable Raspberry Pi? Better NTP with Thermal Management",
+    "url": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/",
+    "author": "todsacerdoti",
+    "date": "2025-11-25",
+    "score": 250,
+    "comments": 77,
+    "id": 46042946,
+    "discussion_url": "https://news.ycombinator.com/item?id=46042946",
+    "description": "Most Stable Raspberry Pi? Better NTP with Thermal Management",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482673"
+  },
+  {
+    "title": "Moving from OpenBSD to FreeBSD for firewalls",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
+    "author": "zdw",
+    "date": "2025-11-19",
+    "score": 197,
+    "comments": 137,
+    "id": 45980474,
+    "discussion_url": "https://news.ycombinator.com/item?id=45980474",
+    "description": "Moving from OpenBSD to FreeBSD for firewalls",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482882"
+  },
+  {
+    "title": "Orion 1.0",
+    "url": "https://blog.kagi.com/orion",
+    "author": "STRiDEX",
+    "date": "2025-11-25",
+    "score": 185,
+    "comments": 111,
+    "id": 46047350,
+    "discussion_url": "https://news.ycombinator.com/item?id=46047350",
+    "description": "Orion 1.0",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482733"
+  },
+  {
+    "title": "Pebble Watch software is now open source",
+    "url": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
+    "author": "Larrikin",
+    "date": "2025-11-24",
+    "score": 1192,
+    "comments": 213,
+    "id": 46037626,
+    "discussion_url": "https://news.ycombinator.com/item?id=46037626",
+    "description": "Pebble Watch software is now open source",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482772"
+  },
+  {
+    "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+    "url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+    "author": "mrdosija",
+    "date": "2025-11-24",
+    "score": 977,
+    "comments": 747,
+    "id": 46032539,
+    "discussion_url": "https://news.ycombinator.com/item?id=46032539",
+    "description": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482869"
+  },
+  {
+    "title": "Show HN: I built an interactive HN Simulator",
+    "url": "https://news.ysimulator.run/news",
+    "author": "johnsillings",
+    "date": "2025-11-24",
+    "score": 460,
+    "comments": 202,
+    "id": 46036908,
+    "discussion_url": "https://news.ycombinator.com/item?id=46036908",
+    "description": "Show HN: I built an interactive HN Simulator",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482724"
+  },
+  {
+    "title": "Show HN: OCR Arena – A playground for OCR models",
+    "url": "https://www.ocrarena.ai/battle",
+    "author": "kbyatnal",
+    "date": "2025-11-21",
+    "score": 198,
+    "comments": 60,
+    "id": 46006104,
+    "discussion_url": "https://news.ycombinator.com/item?id=46006104",
+    "description": "Show HN: OCR Arena – A playground for OCR models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482819"
+  },
+  {
+    "title": "The Bitter Lesson of LLM Extensions",
+    "url": "https://www.sawyerhood.com/blog/llm-extension",
+    "author": "sawyerjhood",
+    "date": "2025-11-24",
+    "score": 134,
+    "comments": 72,
+    "id": 46037343,
+    "discussion_url": "https://news.ycombinator.com/item?id=46037343",
+    "description": "The Bitter Lesson of LLM Extensions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482909"
+  },
+  {
+    "title": "The history of Indian science fiction",
+    "url": "https://altermag.com/articles/the-secret-history-of-indian-science-fiction",
+    "author": "adityaathalye",
+    "date": "2025-11-22",
+    "score": 198,
+    "comments": 36,
+    "id": 46013478,
+    "discussion_url": "https://news.ycombinator.com/item?id=46013478",
+    "description": "The history of Indian science fiction",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482828"
+  },
+  {
+    "title": "Three Years from GPT-3 to Gemini 3",
+    "url": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
+    "author": "JumpCrisscross",
+    "date": "2025-11-23",
+    "score": 338,
+    "comments": 270,
+    "id": 46019898,
+    "discussion_url": "https://news.ycombinator.com/item?id=46019898",
+    "description": "Three Years from GPT-3 to Gemini 3",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482748"
+  },
+  {
+    "title": "Unpowered SSDs slowly lose data",
+    "url": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
+    "author": "amichail",
+    "date": "2025-11-24",
+    "score": 665,
+    "comments": 275,
+    "id": 46038099,
+    "discussion_url": "https://news.ycombinator.com/item?id=46038099",
+    "description": "Unpowered SSDs slowly lose data",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482680"
+  },
+  {
+    "title": "What OpenAI did when ChatGPT users lost touch with reality",
+    "url": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html",
+    "author": "nonprofiteer",
+    "date": "2025-11-24",
+    "score": 265,
+    "comments": 454,
+    "id": 46030799,
+    "discussion_url": "https://news.ycombinator.com/item?id=46030799",
+    "description": "What OpenAI did when ChatGPT users lost touch with reality",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-11-25T19:07:27.482823"
+  }
+]

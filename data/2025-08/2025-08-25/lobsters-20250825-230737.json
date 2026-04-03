@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
+    "author": "",
+    "score": "125",
+    "comments": "0",
+    "tags": "law, networking",
+    "url": "https://lina.sh/blog/telefonica-sabotages-me",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Barking Up The Ratchet Tree – MLS Is Neither Royal Nor Nude",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "cryptography",
+    "url": "https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Bro, ban me at the IP level if you don't like me",
+    "author": "",
+    "score": "81",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://boston.conman.org/2025/08/21.1",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Comparing nitro to runit",
+    "author": "",
+    "score": "56",
+    "comments": "0",
+    "tags": "unix",
+    "url": "https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Don't pick weird subnets for embedded networks, use VRFs",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Extending Kafka the Hard Way (Part 1) | Middle of Nowhere",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "java, scala, wasm",
+    "url": "https://blog.evacchi.dev/posts/2025/08/25/extending-kafka-the-hard-way-part-1/",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Google wants to make sideloading Android apps safer by verifying developers’ identities",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "android, privacy",
+    "url": "https://www.androidauthority.com/android-developer-verification-requirements-3590911/",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "I Don't Like Imports",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "practices, rust",
+    "url": "https://kevincox.ca/2025/07/20/no-imports/",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Linear scan with lifetime holes",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "compilers",
+    "url": "https://bernsteinbear.com/blog/linear-scan-lifetime-holes/",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Make the easy change hard",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "distributed, rust",
+    "url": "https://blog.appliedcomputing.io/p/make-the-easy-change-hard",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Making Software: What is a color space?",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "design, graphics",
+    "url": "https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Nullable vs nullable in C#",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "dotnet",
+    "url": "https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Once Upon a Pipe in the West: A working adapter from HDMI to Gardena",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://jhauser.de/once-upon-a-pipe-in-the-west-hdmi-gardena",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Precision-Encoded Pixels: a tiny yet powerful pixel art compression method",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "graphics",
+    "url": "https://github.com/ENDESGA/PEP",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Regular Expression Matching Can Be Simple And Fast (2007)",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "compsci",
+    "url": "https://swtch.com/~rsc/regexp/regexp1.html",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Sharing is Scaring: Why is Cloud File-Sharing Hard?",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "pdf, cogsci, distributed, formalmethods",
+    "url": "https://blog.brownplt.org/2025/08/25/cloud-sharing.html",
+    "date": "2025-08-25",
+    "description": "☶"
+  },
+  {
+    "title": "The Limits of NTP Accuracy on Linux",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://scottstuff.net/posts/2025/05/19/ntp-limits/",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "What are OKLCH colors?",
+    "author": "",
+    "score": "40",
+    "comments": "0",
+    "tags": "design",
+    "url": "https://jakub.kr/components/oklch-colors",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "What are you doing this week?",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "ask, programming",
+    "url": "https://lobste.rs/s/yskpd6/what_are_you_doing_this_week",
+    "date": "2025-08-25",
+    "description": "☶"
+  },
+  {
+    "title": "Who's Afraid of a Hard Page Load?",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://unplannedobsolescence.com/blog/hard-page-load/",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Why I Read Technical Books",
+    "author": "",
+    "score": "56",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://ratfactor.com/b/technical-books",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
+    "author": "",
+    "score": "66",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://github.com/DavidBuchanan314/anubis_offload",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "ghrc.io Appears to be Malicious",
+    "author": "",
+    "score": "51",
+    "comments": "0",
+    "tags": "devops, security, virtualization",
+    "url": "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "macOS dotfiles should not go in ~/Library/Application Support",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "mac, unix",
+    "url": "https://becca.ooo/blog/macos-dotfiles/",
+    "date": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "teletext in north america",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "historical, networking",
+    "url": "https://computer.rip/2025-08-25-teletext-in-north-america.html",
+    "date": "2025-08-25",
+    "description": ""
+  }
+]

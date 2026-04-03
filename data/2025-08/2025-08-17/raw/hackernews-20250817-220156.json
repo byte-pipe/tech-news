@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A Lisp in 99LOC",
+    "url": "https://github.com/Robert-van-Engelen/tinylisp",
+    "author": "shikaan",
+    "date": "2025-08-17",
+    "points": "85",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44925853"
+  },
+  {
+    "title": "An Argument for Increasing TCP's Initial Congestion Window Again",
+    "url": "https://jeclark.net/articles/tcp-initcwnd/?tag=performance",
+    "author": "cyb0rg0",
+    "date": "2025-08-17",
+    "points": "83",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44889673"
+  },
+  {
+    "title": "Clinical genetics and the problem of uncertain significance",
+    "url": "https://stetson.substack.com/p/solving-the-problem-of-uncertain",
+    "author": "pluripote",
+    "date": "2025-08-17",
+    "points": "9",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44897043"
+  },
+  {
+    "title": "Counting Words at SIMD Speed",
+    "url": "https://healeycodes.com/counting-words-at-simd-speed",
+    "author": "healeycodes",
+    "date": "2025-08-17",
+    "points": "31",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44887643"
+  },
+  {
+    "title": "Dev Compass – Programming Philosophy Quiz",
+    "url": "https://treeform.github.io/devcompas/",
+    "author": "todsacerdoti",
+    "date": "2025-08-17",
+    "points": "168",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44927244"
+  },
+  {
+    "title": "Dicing an Onion, the Mathematically Optimal Way",
+    "url": "https://pudding.cool/2025/08/onions/",
+    "author": "surprisetalk",
+    "date": "2025-08-17",
+    "points": "299",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44923465"
+  },
+  {
+    "title": "Do things that don't scale, and then don't scale",
+    "url": "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156",
+    "author": "derwiki",
+    "date": "2025-08-17",
+    "points": "453",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44925380"
+  },
+  {
+    "title": "Dyna – Logic Programming for Machine Learning",
+    "url": "https://dyna.org/",
+    "author": "matteodelabre",
+    "date": "2025-08-17",
+    "points": "126",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44926414"
+  },
+  {
+    "title": "Eliminating JavaScript cold starts on AWS Lambda",
+    "url": "https://goose.icu/lambda/",
+    "author": "styfle",
+    "date": "2025-08-17",
+    "points": "42",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44922383"
+  },
+  {
+    "title": "Good multipliers for congruential pseudorandom number generators",
+    "url": "https://arxiv.org/abs/2001.05304",
+    "author": "luu",
+    "date": "2025-08-17",
+    "points": "3",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44896529"
+  },
+  {
+    "title": "Good system design",
+    "url": "https://www.seangoedecke.com/good-system-design/",
+    "author": "dondraper36",
+    "date": "2025-08-17",
+    "points": "810",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44921137"
+  },
+  {
+    "title": "LL3M: Large Language 3D Modelers",
+    "url": "https://threedle.github.io/ll3m/",
+    "author": "simonpure",
+    "date": "2025-08-17",
+    "points": "28",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44930808"
+  },
+  {
+    "title": "Lessons learned from building a sync-engine and reactivity system with SQLite",
+    "url": "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity",
+    "author": "engmarketer",
+    "date": "2025-08-17",
+    "points": "92",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44929478"
+  },
+  {
+    "title": "Living with Williams Syndrome, the 'opposite of autism' (2014)",
+    "url": "https://www.bbc.com/news/health-26888280",
+    "author": "colinprince",
+    "date": "2025-08-17",
+    "points": "96",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44926965"
+  },
+  {
+    "title": "Node.js can now execute TypeScript files",
+    "url": "https://nodejs.org/en/blog/release/v22.18.0",
+    "author": "steren",
+    "date": "2025-08-17",
+    "points": "204",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44929260"
+  },
+  {
+    "title": "Nuvistor Valves",
+    "url": "http://www.r-type.org/articles/art-150.htm",
+    "author": "userbinator",
+    "date": "2025-08-17",
+    "points": "8",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44930111"
+  },
+  {
+    "title": "OpenAI Misled You on RLHF",
+    "url": "https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff",
+    "author": "fpgaminer",
+    "date": "2025-08-17",
+    "points": "27",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44929424"
+  },
+  {
+    "title": "OpenAI Progress",
+    "url": "https://progress.openai.com",
+    "author": "vinhnx",
+    "date": "2025-08-17",
+    "points": "305",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44924461"
+  },
+  {
+    "title": "Pfeilstorch",
+    "url": "https://en.wikipedia.org/wiki/Pfeilstorch",
+    "author": "gyomu",
+    "date": "2025-08-17",
+    "points": "269",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44921609"
+  },
+  {
+    "title": "Running Wayland Clients as Non-Root Users on Yocto",
+    "url": "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/",
+    "author": "jandeboevrie",
+    "date": "2025-08-17",
+    "points": "25",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44903923"
+  },
+  {
+    "title": "SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"",
+    "url": "https://marnetto.net/2025/02/20/broderbund-stunts-1",
+    "author": "alberto-m",
+    "date": "2025-08-17",
+    "points": "81",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44887744"
+  },
+  {
+    "title": "That 16B password story (a.k.a. \"data troll\")",
+    "url": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
+    "author": "el_duderino",
+    "date": "2025-08-17",
+    "points": "95",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44893118"
+  },
+  {
+    "title": "The Raft Consensus Algorithm (2015)",
+    "url": "https://raft.github.io/",
+    "author": "nromiun",
+    "date": "2025-08-17",
+    "points": "146",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44886202"
+  },
+  {
+    "title": "Toothpaste made with keratin may protect and repair damaged teeth: study",
+    "url": "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth",
+    "author": "sohkamyung",
+    "date": "2025-08-17",
+    "points": "387",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44922571"
+  },
+  {
+    "title": "Traps to Developers",
+    "url": "https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers",
+    "author": "qouteall",
+    "date": "2025-08-17",
+    "points": "227",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44922020"
+  },
+  {
+    "title": "Tversky Neural Networks",
+    "url": "https://gonzoml.substack.com/p/tversky-neural-networks",
+    "author": "che_shr_cat",
+    "date": "2025-08-17",
+    "points": "108",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44925123"
+  },
+  {
+    "title": "Visualising how close random GUIDs come to being the same",
+    "url": "https://www.guidsmash.com",
+    "author": "nugzbunny",
+    "date": "2025-08-17",
+    "points": "142",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44927271"
+  },
+  {
+    "title": "Wan – Open-source alternative to VEO 3",
+    "url": "https://github.com/Wan-Video/Wan2.2",
+    "author": "modinfo",
+    "date": "2025-08-17",
+    "points": "55",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44928997"
+  },
+  {
+    "title": "Why LinkedIn Rewards Mediocrity",
+    "url": "https://www.elliotcsmith.com/linkedin-toxic-mediocrity/",
+    "author": "smitec",
+    "date": "2025-08-17",
+    "points": "68",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44930186"
+  },
+  {
+    "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
+    "url": "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html",
+    "author": "ajdude",
+    "date": "2025-08-17",
+    "points": "111",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44889163"
+  }
+]

@@ -1,0 +1,568 @@
+---
+title: 'Emacs Internal #02: Data First — Deconstructing Lisp_Object in C | The Cloudlet'
+url: https://thecloudlet.github.io/blog/project/emacs-02/
+site_name: hackernews_api
+content_file: hackernews_api-emacs-internal-02-data-first-deconstructing-lisp_o
+fetched_at: '2026-03-09T07:24:35.247450'
+original_url: https://thecloudlet.github.io/blog/project/emacs-02/
+author: Yi-Ping Pan (Cloudlet)
+date: '2026-03-05'
+description: 'From von Neumann architecture to C struct memory layouts: understanding the core data representation of Emacs Lisp.'
+tags:
+- hackernews
+- trending
+---
+
+# Emacs Internal #02: Data First — Deconstructing Lisp_Object in C
+
+ March 05, 2026 [
+c
+, 
+project
+, 
+compiler
+, 
+emacs
+] #
+c
+ #
+system-design
+ #
+history
+ #
+lisp
+ #
+compiler
+ 
+ 
+
+In the first part of this GNU Emacs series, I focused on the history and explains why there is a Lisp interpreter embedded inside a text editor. Before diving into this part, I recommend reading the previous post:
+
+Emacs Internal #01: Emacs is a Lisp Runtime in C, Not an Editor
+
+In this post, I want to look at GNU Emacs from a higher system-design perspective.
+
+## The Mathematical Foundation: McCarthy's Lisp
+
+Before diving into the source code, I left a short reference on Lisp here. Feel free to skip it if you are familiar with its background.
+
+* Wiki - Lisp(LISt Processing)
+* The Roots of Lisp- Paul Graham
+* How Lisp Became God's Own Programming Language- Two-Bit history
+
+## First Principle: Data and Operations
+
+This is how I personally approach reading source code: I start from how general computation works.
+
+Given somedata, and someoperation, then we get a new piece ofdata
+
+Starting with the very basic,3 + 4 = 7. The data is3and4. The operation is+.
+
+If we pile up the abstractions of basic math operations with data abstractions:
+
+* Complex numbers:
+$$
+(a + bi)(c + di) = (ac - bd) + (ad + bc)i
+$$
+* Matrix multiplication:
+$$
+C_{ij} = \sum_{k=1}^{n} A_{ik} B_{kj}
+$$
+* Convolution:
+$$
+(f * g)(t) = \int_{-\infty}^{\infty} f(\tau)g(t - \tau), d\tau
+$$
+* A step function:
+$$
+H(x) = \begin{cases} 1 & \text{if } x \ge 0 \ 0 & \text{if } x < 0 \end{cases}
+$$
+
+From mathematical computation to a Von Neumann machine, the computation can be lowered through IRs and eventually to assembly code.
+
+o
+p
+ 
+r
+d
+,
+ 
+r
+1
+,
+ 
+r
+2
+
+When I think about compilers here, I usually picture SSA form at this stage.
+
+At this level, the model is brutally clean:
+
+* Datais a sequence of bits in the memory hierarchy, waiting to be fetched into a register.
+* Operationsare high-level semantics that the compiler lowers — pass by pass, IR by IR — until they become the native instruction set the silicon actually understands.
+
+This leads me to three things:
+
+First, modern compilers work from this first principle. LLVM's main challenge is to merge, traverse, and select a sequence of instructions so that we have the least computation time (usually on a single core). MLIR aims to unify lowering across heterogeneous hardware targets, especially when the hardware supports domain-specific operations like convolution, matrix multiplication, and precision conversion. (MLIR is the next planned series to dive in.)
+
+Second, the idea thatcode is data, and data is codekeeps showing up for me. Data is just bits; instructions are also just bit patterns stored in memory. The instruction stream lives in the same memory hierarchy as the data it operates on, and the CPU treats some bits as "code" only because the program counter (PC) points to them.
+
+(Thanks for error correct by r/emacs community)
+
+Lisp machines of the day were not a different architectural alternative to "von Neumann machine". They had RAM, disk, cpu, some peripherals attached to them. Basically a high-end workstations that just happened to have an OS written in Lisp, and bunch of user's program also implemented in Lisp, a lisp compiler, and so on. Differences in computational environment, and how one worked with them existed, but from the hardware point of view, Lisp machines, were also von Neumann architecture.
+
+They do seem to had some stuff implemented in hardware that accelerated certain computations important for Lisp. But architecturally, this isn't different than say Intel shipping AES encryption in hardware and calling it a "crypto machine", or as we see nowadays, extensions on GPUs that benefit LLMs.
+
+—u/authurno1on Reddit
+
+Third, when I read code, I tend to start from the data: in C/C++ terms, thestructor private members of a class. Data is often more self-descriptive than operations. Once I understand the data model, the operations become transformations over that model. This is a personal bias, but it matches how I think about functional programming (FP) and data-oriented programming (DOP). It also explains why OOP doesn’t click with me as easily: it starts from behavior and encapsulation, while I prefer to anchor my understanding in data first. From this lens I could talk about side effects, mutability, and other concepts, but that would take us too far.
+
+Starting with the data...
+
+## Lisp_Object: The Universal C Type
+
+### Tagged Pointer Layout
+
+Back to the GNU Emacssource code, the core data type used to represent Elisp values in C is calledLisp_Object, defined insrc/lisp.h.
+
+For simplicity, using a 64-bit system to explain.
+
+Lisp_Object is a 64-bit machine word. For pointers, because heap allocations are 8-byte aligned, their lowest 3 bits are guaranteed to be000. Emacs simply embeds the 3-bit type tag directly into these "free" zero bits. For immediate integers (fixnums), the upper 62 bits hold the actual value.
+
+64-bit Lisp_Object:
+
+┌────────────────────────────────────────────────┬─────┐
+
+│ pointer or value (61 bits) │ tag │
+
+│ │ 3b │
+
+└────────────────────────────────────────────────┴─────┘
+
+Why the lowest 3 bits?
+
+Because all heap-allocated objects are 8-byte aligned (due toGCALIGNMENT), their addresses always end in 000 in binary. These 3 bits are "free" — we can borrow them to store type information without losing any address precision.
+
+The tag is a enum, namedLisp_Type. And the simplified source code is as below:
+
+enum
+ 
+Lisp_Type
+
+ 
+{
+
+ Lisp_Symbol 
+=
+ 
+0
+,
+ 
+//
+ 0b000
+
+ Lisp_Type_Unused0 
+=
+ 
+1
+,
+ 
+//
+ 0b001
+
+ Lisp_Int0 
+=
+ 
+2
+,
+ 
+//
+ 0b010
+
+ Lisp_Int1 
+=
+ 
+6
+,
+ 
+//
+ 0b110 <-- !
+
+ Lisp_String 
+=
+ 
+4
+,
+ 
+//
+ 0b100
+
+ Lisp_Vectorlike 
+=
+ 
+5
+,
+ 
+//
+ 0b101
+
+ Lisp_Cons 
+=
+ 
+3
+,
+ 
+//
+ 0b010 <-- !
+
+ Lisp_Float 
+=
+ 
+7
+ 
+//
+ 0b111
+
+ 
+}
+;
+
+PS. This tagged pointer technique is actually a universal pattern across systems programming. It solves two problems: First, in dynamically typed contexts, the execution engine must know a value's type before operating on it. Second, placing this metadata in an extra struct field wastes memory and causes cache-misses from pointer chasing. To survive memory bus bottlenecks, engineers cram metadata directly into the unused bits of pointers. We'll discuss in the next post.
+
+### Stealing One More Bit
+
+Looking closely to theLisp_Int0andLisp_Int1, something looks weird...
+
+Lisp_Int0 = 0b010
+
+Lisp_Int1 = 0b110
+
+ ^^
+
+lowest 2 bits are the same!
+
+This design actually doubled the value that can be represented by aLisp_Int
+
+Normal 3-bit tag:
+
+┌─────────────────────────────────────────────────────┬─────┐
+
+│ value (61 bits) │ tag │
+
+│ │ 3b │
+
+└─────────────────────────────────────────────────────┴─────┘
+
+Range: -2^60 to 2^60-1
+
+Fixnum with 2-bit tag:
+
+┌───────────────────────────────────────────────────────┬───┐
+
+│ value (62 bits) │tag│
+
+│ │2b │
+
+└───────────────────────────────────────────────────────┴───┘
+
+Range: -2^61 to 2^61-1 (doubled!)
+
+One important distinction: for a fixnum, the upper bits hold the integer value directly (animmediate). For all other types, those bits are a heap pointer to the underlying C struct.
+
+### The Operation Conventions
+
+The macros (or in debug mode is inline function) that work onLisp_Objectfollow a naming convention:
+
+* Xprefix—eXtract: strip the tag bits and get the underlying value or pointer
+* Psuffix—Predicate: check the type, returns bool
+* CHECK_prefix—Assert: like a predicate, but signals a Lisp error if the type is wrong
+
+For example, to check if an object is an integer and then read it:
+
+//
+ Source: src/bignum.h
+
+if
+ 
+(
+FIXNUMP
+ 
+(
+obj
+)
+)
+ 
+//
+ P: check type tag
+
+{
+
+ EMACS_INT n 
+=
+ 
+XFIXNUM
+ 
+(
+obj
+)
+;
+ 
+//
+ X: extract value
+
+}
+
+internally,XSTRING,XCONS,XFIXNUMand all other X macros work by masking off the tag bits using XUNTAG, then casting to the appropriate C struct pointer.
+
+ForXFIXNUMthe mask is 2 bits, so
+
+//
+ Source: src/lisp.h — XFIXNUM_RAW
+
+return
+ 
+XLI
+(
+a
+)
+ 
+>>
+ INTTYPEBITS
+;
+ 
+//
+ INTTYPEBITS = 2 for fixnums
+
+PS. By performing a right shift (>>) on a signed integer, it forces the compiler to emit an arithmetic shift instruction. The hardware preserves the sign bit.
+
+and for other types usingXUNTAG:
+
+//
+ Source: src/lisp.h — XUNTAG (for pointer types: XCONS, XSTRING, XSYMBOL, ...)
+
+#define
+ 
+XUNTAG
+(
+a
+,
+ 
+type
+,
+ 
+ctype
+)
+ 
+\
+
+ 
+(
+(
+ctype 
+*
+)
+ 
+(
+(
+uintptr_t
+)
+ 
+XLP
+(
+a
+)
+ 
+-
+ 
+(
+uintptr_t
+)
+ 
+LISP_WORD_TAG
+(
+type
+)
+)
+)
+
+//
+ e.g. XCONS expands to:
+
+return
+ 
+XUNTAG
+ 
+(
+a
+,
+ Lisp_Cons
+,
+ 
+struct
+ Lisp_Cons
+)
+;
+
+//
+ ^^^^^^ subtract the tag word from the raw pointer address
+
+Why clear the lower 3 bit tag using subtraction (-) instead of a bitwise AND (& ~0x7)?
+
+On architectures like x86, memory addressing supportsBase - Offset. A C compiler can fold the tag clearing and the subsequent struct access (like.caror.cdr) into a single instruction, saving a CPU register.
+
+Wait, why would an application developer care about instruction folding and x86 addressing modes? Because GNU Emacs was built by the same maniacs who built GCC. What??????
+
+### The Big Picture
+
+McCarthy's Lisp (1960) abstract math
+
+ atom eq car cdr
+
+ cons quote cond
+
+ │
+
+ │ Emacs engineers bridge:
+
+ │ "statically typed C must represent
+
+ │ dynamically typed Lisp"
+
+ ▼
+
+ Lisp_Object (src/lisp.h) C layer
+
+ ┌──────────────────────┬────┐
+
+ │ pointer or value │tag │ ← one machine word
+
+ │ 61 bits │ 3b │
+
+ └──────────────────────┴────┘
+
+ │
+
+ ├─ tag = Cons → CONSP() → XCONS() → struct Lisp_Cons
+
+ ├─ tag = String → STRINGP() → XSTRING() → struct Lisp_String
+
+ ├─ tag = Int0/1 → FIXNUMP() → XFIXNUM() → EMACS_INT (immediate)
+
+ └─ tag = Symbol → SYMBOLP() → XSYMBOL() → struct Lisp_Symbol
+
+ machine bits
+
+With the data representation in place, we can now map McCarthy's original 7 axioms directly onto these C macros.
+
+## Mapping McCarthy's 7 Axioms to C
+
+If McCarthy's 7 axioms are the soul of Lisp, the Emacs source is its physical body — but that body is not confined to a single file. The axioms split across three files depending on whether they are aboutdata representation,memory, orcontrol flow:
+
+Axiom
+Meaning
+C struct / function
+File
+
+atom
+is it NOT a pair?
+!CONSP(obj)
+ (e.g., 
+EMACS_INT
+, 
+struct Lisp_String
+, etc.)
+lisp.h
+
+eq
+are two refs identical?
+Lisp_Object
+ (raw 64-bit word compare)
+lisp.h
+
+car
+first element of pair
+struct Lisp_Cons
+ - 
+.car
+ field
+lisp.h
+
+cdr
+rest of pair
+struct Lisp_Cons
+ - 
+.cdr
+ field
+lisp.h
+
+cons
+construct a new pair
+struct Lisp_Cons
+ allocated by 
+Fcons()
+alloc.c
+
+quote
+return without evaluating
+Fquote()
+ — special form
+eval.c
+
+cond
+branch on predicate
+Fcond()
+ — special form
+eval.c
+
+Notice the split: the first four axioms —atom,eq,car,cdr— are puredataoperations, living entirely inlisp.h.conscrosses into memory management. Onlyquoteandcondrequire theevaluator— they are the boundary where data becomes behavior.
+
+PS. Other important files written in C.
+
+* lread.c— tokenizing and reading Lisp source intoLisp_Objecttrees
+* eval.c— evaluating those trees
+* alloc.c— allocating and garbage-collecting Lisp objects
+* xdisp.c— redisplay engine
+
+Emacs C sources, use a lot of Lisp idioms abstracted as preprocessor macros, masking C language as Lisp look alike. Observe that, when you use them, you are not writing Lisp, you are writing pure C that just happens to look like Lisp. Those preprocessor macros exist for use in C core only, they are not visible to Elisp, and they happen to be macros for practical reasons of C programming: to always get inlined, in both release and debug builds. Alternative would be of course to implement them as inlined functions and I think they have start to replace some of those preprocessor macros with inlined versions. I am not really watching the mailing list and commited patches, so don't take me for the word.
+
+If you want connection to the Lisp implementation, I think you should look into Fatom, Feq, Fcar and Fcdr in data.c, which are those "McCarthian operators" we are using in Elisp.
+
+Another remark about McCarthian Lisp, since you touch on it, is that Lisp is a theory of computation that also happens to be practical tool. As a computation theory, it stands at the same level as as lambda calculus and turing machine; a mathematical construct, that happens to be runnable, so to say.
+
+In McCarthy's papers it varies how many are needed, depending on which paper you read. Regardless, the idea is that those "axioms" is all you need to build computations on. A closed universe. A mathematical theory. Those axioms are like Euclidean axioms, something you can build other mathematical constructs, it is just that here we are talking about computing.
+
+However, only in theory, i.e. in McCarthy's papers! :). in practical terms, I don't think there is any practical Lisp, more than toy examples, based on only those first 5, or 9 or 7 or how many forms McCarthy thought at some point in time are "basics". Emacs does not have statements on which are "elementary forms". C core implements ~1700 of "primitive" forms. Graham came up with 17 for Arc. Common Lisp has 25. Now, I have never used Arc, but I am sure that none of Common Lisp implementations in Common Lisp are implemented directly on top of only those 25 so called "special operators", even though, in theory that might have been the idea. Of course I don't know for sure, I discovered Lisp after the Lisp, and am just learning this myself, but to be practical you have to talk to the outside world, and outside world is often a bit more complex than what those 25 forms cover.
+
+u/authurno1on Reddit
+
+## Next step
+
+The tagged pointer trick Emacs uses is a specific instance of a broader pattern in systems programming: thetagged union. In the next post, we will look at how the same idea appears across different languages and eras — from manual Cunion+ discriminant, to C++std::variant, to Rust'senum. Same problem, different levels of language support.
+
+Emacs Internal Series:
+
+* #01:Emacs is a Lisp Runtime in C, Not an Editor
+* #02: Data First — Deconstructing Lisp_Object in C <-- We are here
+
+> share ontwitter/bluesky/mastodon/facebook/reddit/telegram/email
+
+> related articles:1)Emacs Internal #01: is a Lisp Runtime in C, Not an Editor2)Stratum: Architecting a Configurable Cache Simulator with C++ and Racket3)Introducing Coogle: Bringing Haskell's Hoogle to C++
+
+Index
+
+The Mathematical Foundation: McCarthy's Lisp
+
+First Principle: Data and Operations
+
+Lisp_Object: The Universal C Type
+
+- Tagged Pointer Layout
+
+- Stealing One More Bit
+
+- The Operation Conventions
+
+- The Big Picture
+
+Mapping McCarthy's 7 Axioms to C
+
+Next step

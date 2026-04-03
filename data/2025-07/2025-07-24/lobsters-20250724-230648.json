@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A valid HTML zip bomb",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://ache.one/notes/html_zip_bomb",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "Arch Linux Dev Blog",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://devblog.archlinux.page/",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "Code Creation, The Way Nature Intended",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "go, programming",
+    "url": "https://pehringer.info/code_creation",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "Developing our position on AI",
+    "author": "",
+    "score": "48",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "Fallout's Memory Model",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "video, c, games",
+    "url": "https://youtube.com/watch?v=6kB_fko6SIg",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "How much do you spend on AI-assisted tools?",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "ask, vibecoding",
+    "url": "https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools",
+    "date": "2025-07-24",
+    "description": "☶"
+  },
+  {
+    "title": "How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver",
+    "author": "",
+    "score": "37",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://matrix.org/blog/2025/07/postgres-corruption-postmortem/",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "JNJ: J iN Janet",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "apl, lisp",
+    "url": "https://sr.ht/~subsetpark/JNJ/",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "Jitsi privacy flaw that enables one-click stealth audio and video capture",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "Migrating a ZFS pool from RAIDZ1 to RAIDZ2",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "devops",
+    "url": "https://mtlynch.io/raidz1-to-raidz2/",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "New Aarch64 Backend",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "compilers, zig",
+    "url": "https://ziglang.org/devlog/2025/#2025-07-23",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "PSA: SQLite WAL checksums fail silently and may lose data",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://avi.im/blag/2025/sqlite-wal-checksum/",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "RFC 9773: ACME Renewal Information (ARI) Extension",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "a11y, security",
+    "url": "https://datatracker.ietf.org/doc/rfc9773/",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "Racket as a first language",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "education",
+    "url": "https://felleisen.org/matthias/Thoughts/py.html",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "The Death Of Industrial Design And The Era Of Dull Electronics",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "design, hardware",
+    "url": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "The FastLanes File Format",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "pdf, databases",
+    "url": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "The Promised LAN",
+    "author": "",
+    "score": "36",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://tpl.house/",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "There is no memory safety without thread safety",
+    "author": "",
+    "score": "37",
+    "comments": "0",
+    "tags": "go, java, plt",
+    "url": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "Transformers without Normalization",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "pdf, ai",
+    "url": "https://arxiv.org/pdf/2503.10622",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "Use Your Type System",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "plt, practices",
+    "url": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "Wayback 0.1 released",
+    "author": "",
+    "score": "82",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "When Is WebAssembly Going to Get DOM Support? Or, how I learned to stop worrying and love glue code",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "practices, wasm, web",
+    "url": "https://queue.acm.org/detail.cfm?id=3746174",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "You Can Now Disable All AI Features in Zed",
+    "author": "",
+    "score": "96",
+    "comments": "0",
+    "tags": "editors, vibecoding",
+    "url": "https://zed.dev/blog/disable-ai-features",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "font-size-adjust Is Useful",
+    "author": "",
+    "score": "71",
+    "comments": "0",
+    "tags": "design, web",
+    "url": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
+    "date": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://www.phoronix.com/news/systemd-258-rc1",
+    "date": "2025-07-24",
+    "description": ""
+  }
+]

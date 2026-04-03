@@ -1,0 +1,272 @@
+[
+  {
+    "title": "36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens",
+    "url": "https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false",
+    "author": "bookofjoe",
+    "date": "2025-08-12",
+    "points": "83",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44864680"
+  },
+  {
+    "title": "A Guide Dog for the Face-Blind",
+    "url": "https://asimov.blog/a-guide-dog-for-the-face-blind/",
+    "author": "arto",
+    "date": "2025-08-12",
+    "points": "9",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44841354"
+  },
+  {
+    "title": "AP to end its weekly book reviews",
+    "url": "https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/",
+    "author": "thm",
+    "date": "2025-08-12",
+    "points": "60",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44866894"
+  },
+  {
+    "title": "Apache Iceberg V3 Spec new features for more efficient and flexible data lakes",
+    "url": "https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html",
+    "author": "talatuyarer",
+    "date": "2025-08-12",
+    "points": "54",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44866677"
+  },
+  {
+    "title": "Byte Buddy is a code generation and manipulation library for Java",
+    "url": "https://bytebuddy.net/",
+    "author": "mooreds",
+    "date": "2025-08-12",
+    "points": "44",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44839496"
+  },
+  {
+    "title": "Claude Code is all you need",
+    "url": "https://dwyer.co.za/static/claude-code-is-all-you-need.html",
+    "author": "sixhobbits",
+    "date": "2025-08-12",
+    "points": "356",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44864185"
+  },
+  {
+    "title": "Claude is the drug, Cursor is the dealer",
+    "url": "https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the",
+    "author": "logan1085",
+    "date": "2025-08-12",
+    "points": "118",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44865813"
+  },
+  {
+    "title": "Designing Software in the Large",
+    "url": "https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/",
+    "author": "davidfstr",
+    "date": "2025-08-12",
+    "points": "59",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44864467"
+  },
+  {
+    "title": "Faster substring search with SIMD in Zig",
+    "url": "https://aarol.dev/posts/zig-simd-substr/",
+    "author": "todsacerdoti",
+    "date": "2025-08-12",
+    "points": "166",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44862414"
+  },
+  {
+    "title": "GitHub is no longer independent at Microsoft after CEO resignation",
+    "url": "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition",
+    "author": "Handy-Man",
+    "date": "2025-08-12",
+    "points": "736",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44865560"
+  },
+  {
+    "title": "How Boom uses software to accelerate hardware development",
+    "url": "https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical",
+    "author": "flabber",
+    "date": "2025-08-12",
+    "points": "34",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44857643"
+  },
+  {
+    "title": "I tried every todo app and ended up with a .txt file",
+    "url": "https://www.al3rez.com/todo-txt-journey",
+    "author": "al3rez",
+    "date": "2025-08-12",
+    "points": "591",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44864134"
+  },
+  {
+    "title": "Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use",
+    "url": "https://news.ycombinator.com/item?id=44865290",
+    "author": "wujerry2000",
+    "date": "2025-08-12",
+    "points": "28",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44865290"
+  },
+  {
+    "title": "Learn, Reflect, Apply, Prepare: The Four Daily Practices That Changed How I Live",
+    "url": "https://opuslabs.substack.com/p/learn-reflect-apply-prepare",
+    "author": "opuslabs",
+    "date": "2025-08-12",
+    "points": "42",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44865834"
+  },
+  {
+    "title": "Mistral Integration Improved in Llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp/pull/14737",
+    "author": "decide1000",
+    "date": "2025-08-12",
+    "points": "73",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44862583"
+  },
+  {
+    "title": "Neki – sharded Postgres by the team behind Vitess",
+    "url": "https://planetscale.com/blog/announcing-neki",
+    "author": "thdxr",
+    "date": "2025-08-12",
+    "points": "81",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44867374"
+  },
+  {
+    "title": "Ollama and gguf",
+    "url": "https://github.com/ollama/ollama/issues/11714",
+    "author": "indigodaddy",
+    "date": "2025-08-12",
+    "points": "21",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44867238"
+  },
+  {
+    "title": "OpenSSH Post-Quantum Cryptography",
+    "url": "https://www.openssh.com/pq.html",
+    "author": "throw0101d",
+    "date": "2025-08-12",
+    "points": "292",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44863242"
+  },
+  {
+    "title": "Optimizing my sleep around Claude usage limits",
+    "url": "https://mattwie.se/no-sleep-till-agi",
+    "author": "mattwiese",
+    "date": "2025-08-12",
+    "points": "102",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44860015"
+  },
+  {
+    "title": "Porting to OS/2 (1987)",
+    "url": "https://gitpi.us/article-archive/porting-to-os2/",
+    "author": "rbanffy",
+    "date": "2025-08-12",
+    "points": "35",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44829783"
+  },
+  {
+    "title": "Pricing Pages – A Curated Gallery of Pricing Page Designs",
+    "url": "https://pricingpages.design/",
+    "author": "finniansturdy",
+    "date": "2025-08-12",
+    "points": "150",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44863409"
+  },
+  {
+    "title": "The Chrome VRP Panel has decided to award $250k for this report",
+    "url": "https://issues.chromium.org/issues/412578726",
+    "author": "alexcos",
+    "date": "2025-08-12",
+    "points": "460",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44861106"
+  },
+  {
+    "title": "The Joy of Mixing Custom Elements, Web Components, and Markdown",
+    "url": "https://deanebarker.net/tech/blog/custom-elements-markdown/",
+    "author": "deanebarker",
+    "date": "2025-08-12",
+    "points": "52",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44865997"
+  },
+  {
+    "title": "The Value of Institutional Memory",
+    "url": "https://timharford.com/2025/05/the-value-of-institutional-memory/",
+    "author": "leoc",
+    "date": "2025-08-12",
+    "points": "65",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44866500"
+  },
+  {
+    "title": "Token growth indicates future AI spend per dev",
+    "url": "https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev",
+    "author": "twapi",
+    "date": "2025-08-12",
+    "points": "154",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44867312"
+  },
+  {
+    "title": "Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare",
+    "url": "https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025",
+    "author": "",
+    "date": "2025-08-12",
+    "points": "0",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44866587"
+  },
+  {
+    "title": "UI vs. API. vs. UAI",
+    "url": "https://www.joshbeckman.org/blog/practicing/ui-vs-api-vs-uai",
+    "author": "bckmn",
+    "date": "2025-08-12",
+    "points": "48",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44865916"
+  },
+  {
+    "title": "White Mountain Direttissima",
+    "url": "https://whitemountainski.co/pages/white-mountain-direttissima",
+    "author": "oftenwrong",
+    "date": "2025-08-12",
+    "points": "19",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44834570"
+  },
+  {
+    "title": "Why Tail-Recursive Functions Are Loops",
+    "url": "https://kmicinski.com/functional-programming/2025/08/01/loops/",
+    "author": "speckx",
+    "date": "2025-08-12",
+    "points": "5",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44837949"
+  },
+  {
+    "title": "Wikipedia loses challenge against Online Safety Act",
+    "url": "https://www.bbc.com/news/articles/cjr11qqvvwlo",
+    "author": "phlummox",
+    "date": "2025-08-12",
+    "points": "226",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44866208"
+  }
+]

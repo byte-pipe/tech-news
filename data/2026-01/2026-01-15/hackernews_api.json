@@ -1,0 +1,512 @@
+[
+  {
+    "title": "25 Years of Wikipedia",
+    "url": "https://wikipedia25.org",
+    "author": "easton",
+    "date": "2026-01-15",
+    "score": 298,
+    "comments": 250,
+    "id": 46632023,
+    "discussion_url": "https://news.ycombinator.com/item?id=46632023",
+    "description": "25 Years of Wikipedia",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148841"
+  },
+  {
+    "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
+    "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
+    "author": "speckx",
+    "date": "2026-01-15",
+    "score": 342,
+    "comments": 236,
+    "id": 46633488,
+    "discussion_url": "https://news.ycombinator.com/item?id=46633488",
+    "description": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148794"
+  },
+  {
+    "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
+    "url": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
+    "author": "0o_MrPatrick_o0",
+    "date": "2026-01-15",
+    "score": 166,
+    "comments": 121,
+    "id": 46626836,
+    "discussion_url": "https://news.ycombinator.com/item?id=46626836",
+    "description": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148953"
+  },
+  {
+    "title": "Claude Cowork exfiltrates files",
+    "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+    "author": "takira",
+    "date": "2026-01-14",
+    "score": 830,
+    "comments": 372,
+    "id": 46622328,
+    "discussion_url": "https://news.ycombinator.com/item?id=46622328",
+    "description": "Claude Cowork exfiltrates files",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148975"
+  },
+  {
+    "title": "Crafting Interpreters",
+    "url": "https://craftinginterpreters.com/",
+    "author": "tosh",
+    "date": "2026-01-14",
+    "score": 216,
+    "comments": 49,
+    "id": 46624658,
+    "discussion_url": "https://news.ycombinator.com/item?id=46624658",
+    "description": "Crafting Interpreters",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148923"
+  },
+  {
+    "title": "Denmark's struggle to break up with Silicon Valley",
+    "url": "https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/",
+    "author": "giuliomagnifico",
+    "date": "2026-01-15",
+    "score": 68,
+    "comments": 48,
+    "id": 46636445,
+    "discussion_url": "https://news.ycombinator.com/item?id=46636445",
+    "description": "Denmark's struggle to break up with Silicon Valley",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148970"
+  },
+  {
+    "title": "Design and Implementation of Sprites",
+    "url": "https://fly.io/blog/design-and-implementation/",
+    "author": "sethev",
+    "date": "2026-01-15",
+    "score": 67,
+    "comments": 43,
+    "id": 46634450,
+    "discussion_url": "https://news.ycombinator.com/item?id=46634450",
+    "description": "Design and Implementation of Sprites",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148831"
+  },
+  {
+    "title": "Furiosa: 3.5x efficiency over H100s",
+    "url": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
+    "author": "written-beyond",
+    "date": "2026-01-15",
+    "score": 202,
+    "comments": 145,
+    "id": 46626410,
+    "discussion_url": "https://news.ycombinator.com/item?id=46626410",
+    "description": "Furiosa: 3.5x efficiency over H100s",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.149013"
+  },
+  {
+    "title": "GitHub Incident",
+    "url": "https://www.githubstatus.com/incidents/q987xpbqjbpl",
+    "author": "aggrrrh",
+    "date": "2026-01-15",
+    "score": 90,
+    "comments": 70,
+    "id": 46635550,
+    "discussion_url": "https://news.ycombinator.com/item?id=46635550",
+    "description": "GitHub Incident",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148799"
+  },
+  {
+    "title": "Handy – Free open source speech-to-text app",
+    "url": "https://github.com/cjpais/Handy",
+    "author": "tin7in",
+    "date": "2026-01-15",
+    "score": 184,
+    "comments": 89,
+    "id": 46628397,
+    "discussion_url": "https://news.ycombinator.com/item?id=46628397",
+    "description": "Handy – Free open source speech-to-text app",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148871"
+  },
+  {
+    "title": "Impeccable Style",
+    "url": "https://impeccable.style",
+    "author": "noemit",
+    "date": "2026-01-12",
+    "score": 92,
+    "comments": 48,
+    "id": 46587284,
+    "discussion_url": "https://news.ycombinator.com/item?id=46587284",
+    "description": "Impeccable Style",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148962"
+  },
+  {
+    "title": "Is Rust faster than C?",
+    "url": "https://steveklabnik.com/writing/is-rust-faster-than-c/",
+    "author": "vincentchau",
+    "date": "2026-01-10",
+    "score": 298,
+    "comments": 356,
+    "id": 46569175,
+    "discussion_url": "https://news.ycombinator.com/item?id=46569175",
+    "description": "Is Rust faster than C?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.149004"
+  },
+  {
+    "title": "New Safari developer tools provide insight into CSS Grid Lanes",
+    "url": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/",
+    "author": "feross",
+    "date": "2026-01-15",
+    "score": 110,
+    "comments": 58,
+    "id": 46626210,
+    "discussion_url": "https://news.ycombinator.com/item?id=46626210",
+    "description": "New Safari developer tools provide insight into CSS Grid Lanes",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148992"
+  },
+  {
+    "title": "OBS Studio 32.1.0 Beta 1 available",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1",
+    "author": "Sean-Der",
+    "date": "2026-01-15",
+    "score": 110,
+    "comments": 29,
+    "id": 46633429,
+    "discussion_url": "https://news.ycombinator.com/item?id=46633429",
+    "description": "OBS Studio 32.1.0 Beta 1 available",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148781"
+  },
+  {
+    "title": "Project SkyWatch (a.k.a. Wescam at Home)",
+    "url": "https://ianservin.com/2026/01/13/project-skywatch-aka-wescam-at-home/",
+    "author": "jjwiseman",
+    "date": "2026-01-14",
+    "score": 79,
+    "comments": 18,
+    "id": 46618503,
+    "discussion_url": "https://news.ycombinator.com/item?id=46618503",
+    "description": "Project SkyWatch (a.k.a. Wescam at Home)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.149017"
+  },
+  {
+    "title": "Python: Tprof, a Targeting Profiler",
+    "url": "https://adamj.eu/tech/2026/01/14/python-introducing-tprof/",
+    "author": "jonatron",
+    "date": "2026-01-15",
+    "score": 72,
+    "comments": 4,
+    "id": 46629964,
+    "discussion_url": "https://news.ycombinator.com/item?id=46629964",
+    "description": "Python: Tprof, a Targeting Profiler",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148915"
+  },
+  {
+    "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
+    "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
+    "author": "ingve",
+    "date": "2026-01-15",
+    "score": 229,
+    "comments": 183,
+    "id": 46629682,
+    "discussion_url": "https://news.ycombinator.com/item?id=46629682",
+    "description": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148867"
+  },
+  {
+    "title": "Scaling long-running autonomous coding",
+    "url": "https://cursor.com/blog/scaling-agents",
+    "author": "samwillis",
+    "date": "2026-01-14",
+    "score": 261,
+    "comments": 163,
+    "id": 46624541,
+    "discussion_url": "https://news.ycombinator.com/item?id=46624541",
+    "description": "Scaling long-running autonomous coding",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148885"
+  },
+  {
+    "title": "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
+    "url": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice",
+    "author": "code_brian",
+    "date": "2026-01-14",
+    "score": 108,
+    "comments": 40,
+    "id": 46619614,
+    "discussion_url": "https://news.ycombinator.com/item?id=46619614",
+    "description": "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148889"
+  },
+  {
+    "title": "Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro console)",
+    "url": "https://github.com/chrisdiana/TinyCity",
+    "author": "inflam52",
+    "date": "2026-01-15",
+    "score": 93,
+    "comments": 16,
+    "id": 46632768,
+    "discussion_url": "https://news.ycombinator.com/item?id=46632768",
+    "description": "Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro console)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148788"
+  },
+  {
+    "title": "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
+    "url": "https://webtiles.kicya.net/",
+    "author": "dimden",
+    "date": "2026-01-10",
+    "score": 219,
+    "comments": 36,
+    "id": 46561341,
+    "discussion_url": "https://news.ycombinator.com/item?id=46561341",
+    "description": "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148980"
+  },
+  {
+    "title": "Show HN: Webctl – Browser automation for agents based on CLI instead of MCP",
+    "url": "https://github.com/cosinusalpha/webctl",
+    "author": "cosinusalpha",
+    "date": "2026-01-14",
+    "score": 115,
+    "comments": 34,
+    "id": 46616481,
+    "discussion_url": "https://news.ycombinator.com/item?id=46616481",
+    "description": "Show HN: Webctl – Browser automation for agents based on CLI instead of MCP",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148984"
+  },
+  {
+    "title": "Sinclair C5",
+    "url": "https://en.wikipedia.org/wiki/Sinclair_C5",
+    "author": "jszymborski",
+    "date": "2026-01-10",
+    "score": 69,
+    "comments": 45,
+    "id": 46569640,
+    "discussion_url": "https://news.ycombinator.com/item?id=46569640",
+    "description": "Sinclair C5",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148809"
+  },
+  {
+    "title": "Sun Position Calculator",
+    "url": "https://drajmarsh.bitbucket.io/earthsun.html",
+    "author": "sanbor",
+    "date": "2026-01-14",
+    "score": 151,
+    "comments": 30,
+    "id": 46623761,
+    "discussion_url": "https://news.ycombinator.com/item?id=46623761",
+    "description": "Sun Position Calculator",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148966"
+  },
+  {
+    "title": "The 3D Software Rendering Technology of 1998's Thief: The Dark Project (2019)",
+    "url": "https://nothings.org/gamedev/thief_rendering.html",
+    "author": "suioir",
+    "date": "2026-01-15",
+    "score": 106,
+    "comments": 48,
+    "id": 46630798,
+    "discussion_url": "https://news.ycombinator.com/item?id=46630798",
+    "description": "The 3D Software Rendering Technology of 1998's Thief: The Dark Project (2019)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148941"
+  },
+  {
+    "title": "The 500k-ton typo: Why data center copper math doesn't add up",
+    "url": "https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/",
+    "author": "thebeardisred",
+    "date": "2026-01-15",
+    "score": 103,
+    "comments": 135,
+    "id": 46631728,
+    "discussion_url": "https://news.ycombinator.com/item?id=46631728",
+    "description": "The 500k-ton typo: Why data center copper math doesn't add up",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148945"
+  },
+  {
+    "title": "The State of OpenSSL for pyca/cryptography",
+    "url": "https://cryptography.io/en/latest/statements/state-of-openssl/",
+    "author": "SGran",
+    "date": "2026-01-14",
+    "score": 199,
+    "comments": 48,
+    "id": 46624352,
+    "discussion_url": "https://news.ycombinator.com/item?id=46624352",
+    "description": "The State of OpenSSL for pyca/cryptography",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.149027"
+  },
+  {
+    "title": "The URL shortener that makes your links look as suspicious as possible",
+    "url": "https://creepylink.com/",
+    "author": "dreadsword",
+    "date": "2026-01-15",
+    "score": 699,
+    "comments": 131,
+    "id": 46627652,
+    "discussion_url": "https://news.ycombinator.com/item?id=46627652",
+    "description": "The URL shortener that makes your links look as suspicious as possible",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148928"
+  },
+  {
+    "title": "To those who fired or didn't hire tech writers because of AI",
+    "url": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
+    "author": "theletterf",
+    "date": "2026-01-15",
+    "score": 296,
+    "comments": 212,
+    "id": 46629474,
+    "discussion_url": "https://news.ycombinator.com/item?id=46629474",
+    "description": "To those who fired or didn't hire tech writers because of AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148898"
+  },
+  {
+    "title": "Z80 Mem­ber­ship Card",
+    "url": "https://sunrise-ev.com/z80.htm",
+    "author": "exvi",
+    "date": "2026-01-12",
+    "score": 90,
+    "comments": 27,
+    "id": 46584523,
+    "discussion_url": "https://news.ycombinator.com/item?id=46584523",
+    "description": "Z80 Mem­ber­ship Card",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-01-15T19:12:05.148876"
+  }
+]

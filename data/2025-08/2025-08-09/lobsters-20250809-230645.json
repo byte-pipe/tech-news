@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A CT scanner reveals surprises inside the 386 processor's ceramic package",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "hardware, historical, reversing",
+    "url": "http://www.righto.com/2025/08/intel-386-package-ct-scan.html",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "A Spellchecker Used to Be a Major Feat of Software Engineering (2008)",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "historical",
+    "url": "https://prog21.dadgum.com/29.html",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "A puzzling Python program",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://jo3-l.dev/posts/python-countdown/",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "All the cool kids are doing it",
+    "author": "",
+    "score": "53",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "Debian 13 \"trixie\" released",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "linux, release",
+    "url": "https://debian.org/News/2025/20250809",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "From Chrome renderer code exec to kernel with MSG_OOB",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://googleprojectzero.blogspot.com/2025/08/from-chrome-renderer-code-exec-to-kernel.html",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "GNOME 49 Backlight Changes",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://blog.sebastianwick.net/posts/gnome-49-backlight-changes/",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "GPTs and feeling left behind",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "HTTP is not simple",
+    "author": "",
+    "score": "64",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "How long does it take to upgrade an eBook?",
+    "author": "",
+    "score": "46",
+    "comments": "0",
+    "tags": "a11y",
+    "url": "https://shkspr.mobi/blog/2025/08/how-long-does-it-take-to-upgrade-an-ebook/",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "Hypothesis is now thread-safe",
+    "author": "",
+    "score": "41",
+    "comments": "0",
+    "tags": "python, testing",
+    "url": "https://hypothesis.works/articles/thread-safe/",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "Irmin Retrospective",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "ml",
+    "url": "https://patrick.sirref.org/irmin-retro/index.xml",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "Lobsters Interview with Hwayne",
+    "author": "",
+    "score": "51",
+    "comments": "0",
+    "tags": "formalmethods, interview, person",
+    "url": "https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne",
+    "date": "2025-08-09",
+    "description": "☶"
+  },
+  {
+    "title": "Myths About Floating-Point Numbers (2021)",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://www.asawicki.info/news_1741_myths_about_floating-point_numbers",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "Notes on a smaller Rust (2019)",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://without.boats/blog/notes-on-a-smaller-rust/",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "On Window Activation",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://blog.broulik.de/2025/08/on-window-activation/",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "Over engineering my homelab so I don't pay cloud providers",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://ergaster.org/posts/2025/08/04-overegineering-homelab/",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "Partially Matching Zig Enums",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "The Framework Desktop is a beast",
+    "author": "",
+    "score": "35",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "What even is distributed systems",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "distributed",
+    "url": "https://notes.eatonphil.com/2025-08-09-what-even-is-distributed-systems.html",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "Why I prefer human-readable file formats",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://adele.pollux.casa/gemlog/2025-08-04_why_I_prefer_human-readble_file_formats.gmi",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "api, vibecoding",
+    "url": "https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "Why Racket? Why Lisp?",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "lisp",
+    "url": "https://practicaltypography.com/why-racket-why-lisp.html",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "Why is GitHub UI getting so much slower?",
+    "author": "",
+    "score": "146",
+    "comments": "0",
+    "tags": "performance, web",
+    "url": "https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/",
+    "date": "2025-08-09",
+    "description": ""
+  },
+  {
+    "title": "an engineer's perspective on hiring",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://jyn.dev/an-engineers-perspective-on-hiring",
+    "date": "2025-08-09",
+    "description": "☶"
+  }
+]

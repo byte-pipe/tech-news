@@ -1,0 +1,101 @@
+---
+title: TikTok says it won't encrypt DMs claiming it puts users at risk
+url: https://www.bbc.com/news/articles/cly2m5e5ke4o
+site_name: hackernews_api
+content_file: hackernews_api-tiktok-says-it-wont-encrypt-dms-claiming-it-puts-u
+fetched_at: '2026-03-04T11:13:09.035780'
+original_url: https://www.bbc.com/news/articles/cly2m5e5ke4o
+author: '1659447091'
+date: '2026-03-04'
+description: TikTok tells the BBC it won't join rival platforms such as WhatsApp and Messenger in using end-to-end encryption.
+tags:
+- hackernews
+- trending
+---
+
+# TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk
+
+11 hours ago
+Share
+Save
+Joe Tidy
+Cyber correspondent, BBC World Service
+Share
+Save
+Getty Images
+
+TikTok will not introduce end-to-end encryption (E2EE) - the controversial privacy feature used by nearly all its rivals - arguing it makes users less safe.
+
+E2EE means only the sender and recipient of a direct message can view its contents, making it the most secure form of communication available to the general public.
+
+Platforms such as Facebook, Instagram, Messenger and X have embraced it because they say their priority is maximising user privacy.
+
+But critics have said E2EE makes it harder to stop harmful content spreading online, because it means tech firms and law enforcement have no way of viewing any material sent in direct messages.
+
+The situation is made more complex because TikTok has long faced accusations that ties to the Chinese state may put users' data at risk.
+
+TikTok has consistently denied this, but earlier this year the social media firm's US operations wereseparated from its global businesson the orders of US lawmakers.
+
+TikTok told the BBC it believed end-to-end encryption prevented police and safety teams from being able to read direct messages if they needed to.
+
+It confirmed its approach to the BBC in a briefing about security at its London office - saying it wanted to protect users, especially young people, from harm.
+
+It described this stance as a deliberate decision to set itself apart from rivals.
+
+TikTok, which claims to have 30 million monthly users in the UK and more than a billion worldwide, has faced scrutiny over its data protection practices.
+
+The social video platform is headquartered in Los Angeles and Singapore, but owned by Chinese tech giant ByteDance.
+
+Social media industry analyst Matt Navarra said TikTok's decision to "swim against the tide" is a savvy one - but comes with "pretty combustible optics".
+
+"Grooming and harassment risks are very real in DMs [direct messages] so TikTok now can credibly argue that it's prioritising 'proactive safety' over 'privacy absolutism' which is a pretty powerful soundbite," he told the BBC.
+
+But Navarra said the move also "puts TikTok out of step with global privacy expectations" and might reinforce wariness for some about its ownership.
+
+E2EE has been hailed by privacy experts as the best way to protect conversations from hackers, corporations and even repressive authorities trying to snoop on users.
+
+## Which apps use end-to-end encryption?
+
+* E2EE is the default technology used in Signal, WhatsApp, Facebook DMs/ Messenger, Apple's iMessage and Google Messages
+* Instagram is in the process of making it default for DMs
+* X (formerly Twitter) DMs are E2EE-like but some critics argue the platform's system is not as secure as the industry standard
+* It is offered as a choice on Telegram but not as default
+* Snapchat uses it for DM pictures and videos. Snap previously said it plans to roll out more widely to include text content too
+* On Monday, Discord announced that voice and video calls will soon be E2EE as default
+Watch: How end-to-end encryption works
+
+End-to-end encryption has beencriticised by governments, police forces and child protection charities.
+
+They warn it allows criminals to harm users and share illegal content without authorities or platforms being able to investigate the content exchanged.
+
+TikTok insists all direct messages are still secured using standard encryption, similar to services like Gmail.
+
+It also says only authorised employees can look at direct messages and only in certain situations, such as in response to a valid law enforcement request or a user report about harmful behaviour.
+
+* Should big tech be able to read people's messages?
+
+UK child protection charity the NSPCC has welcomed TikTok's decision, citing the platform's popularity with young people.
+
+"We know just how risky end-to-end-encrypted platforms can be for children, preventing the detection of child sexual abuse and exploitation and contributing to a worrying global decline in reports," said Rani Govender, its associate head of policy for child online safety.
+
+The Internet Watch Foundation (IWF), which monitors and removes child sexual abuse material from the internet, also applauded it.
+
+"At a time where platforms seem to be rushing to implement end-to-end encryption whatever the implications, the conscious choice to step back from this on safety grounds is an important precedent," said Dan Sexton, the IWF's chief technology officer.
+
+Alan Woodward, cyber security professor at Surrey University, said the company's "Chinese influence might be behind the decision," adding E2EE is "largely banned in China".
+
+Industry watchers also suggest the firm's decision could be about keeping lawmakers on side by continuing to offer support to police in cases where safeguarding of its young user base is impacted.
+
+## What Apple pulling Advanced Data Protection means for you
+
+## Apple pulls data protection tool after UK government security row
+
+## TikTok US venture to collect precise user location data
+
+Sign up for our Tech Decoded newsletterto follow the world's top tech stories and trends.Outside the UK? Sign up here.
+
+Social media
+TikTok
+End-to-end encryption
+Privacy
+Technology

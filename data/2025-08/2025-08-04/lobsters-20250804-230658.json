@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A Few Things About the Anchor Element’s href You Might Not Have Known",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://blog.jim-nielsen.com/2025/href-value-possibilities/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "A Friendly Introduction to SVG",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "graphics",
+    "url": "https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "A systematic evaluation of OpenBSD’s mitigations (2019)",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "openbsd, security",
+    "url": "https://isopenbsdsecu.re/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Complex Iterators are Slow",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "javascript",
+    "url": "https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "HTMX is hard so let's get it right",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "How Perplexity is Evading Anti-crawling Measures",
+    "author": "",
+    "score": "66",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "How we made JSON.stringify more than twice as fast",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "browsers, performance",
+    "url": "https://v8.dev/blog/json-stringify",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "In the Future All Food Will Be Cooked in a Microwave, and if You Can’t Deal With That Then You Need to Get Out of the Kitchen",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "ai, rant, satire",
+    "url": "https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Introducing luzer, a coverage-guided Lua fuzzing engine",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "lua, practices, programming, security, testing",
+    "url": "https://bronevichok.ru/posts/introducing-luzer.html",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Let's hax0r a GC… (eventually)",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "c",
+    "url": "https://h4x0r.org/lets-hax0r-a-garbage-collector-eventually/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Markdown Monster",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Maybe the Fastest Disk Usage Program on macOS",
+    "author": "",
+    "score": "32",
+    "comments": "0",
+    "tags": "mac, performance",
+    "url": "https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Minimal Scala Container Images using Nix",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "java, nix, scala",
+    "url": "https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html",
+    "date": "2025-08-04",
+    "description": "☶"
+  },
+  {
+    "title": "More retrocomputing, less nostalgia",
+    "author": "",
+    "score": "32",
+    "comments": "0",
+    "tags": "philosophy, retrocomputing",
+    "url": "https://datagubbe.se/retnost/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "NetBSD 11.0 release process underway",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "netbsd",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "NetBSD New build cluster speeds up daily autobuilds",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "netbsd",
+    "url": "https://blog.netbsd.org/tnf/entry/new_build_cluster_speeds_up",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Parse, don’t validate (2019)",
+    "author": "",
+    "score": "127",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks",
+    "author": "",
+    "score": "75",
+    "comments": "0",
+    "tags": "law, reversing",
+    "url": "https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Rust, Python, and TypeScript: the new trifecta",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "javascript, python, rust, vibecoding",
+    "url": "https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "So you want to parse a PDF?",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://eliot-jones.com/2025/8/pdf-parsing-xref",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "The Future is NOT Self-Hosted",
+    "author": "",
+    "score": "35",
+    "comments": "0",
+    "tags": "distributed, scaling",
+    "url": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "The Generativity Pattern in Rust",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://arhan.sh/blog/the-generativity-pattern-in-rust/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "The Q Programming Language",
+    "author": "",
+    "score": "46",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://git.urbach.dev/cli/q",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "The Toyota Corolla Of Programming",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "php",
+    "url": "https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/",
+    "date": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "p-fast trie: lexically ordered hash map",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "compsci",
+    "url": "https://dotat.at/@/2025-08-04-p-fast-trie.html",
+    "date": "2025-08-04",
+    "description": ""
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A 'toaster with a lens': The story behind the first handheld digital camera",
+    "url": "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born",
+    "author": "selvan",
+    "date": "2025-12-13",
+    "points": "62",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46191734"
+  },
+  {
+    "title": "A Lisp Interpreter Implemented in Conway's Game of Life (2021)",
+    "url": "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html",
+    "author": "pabs3",
+    "date": "2025-12-13",
+    "points": "65",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46251620"
+  },
+  {
+    "title": "Analysis finds anytime electricity from solar available as battery costs plummet",
+    "url": "https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/",
+    "author": "Matrixik",
+    "date": "2025-12-13",
+    "points": "44",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46256249"
+  },
+  {
+    "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
+    "url": "https://hey.paris/posts/appleid/",
+    "author": "parisidau",
+    "date": "2025-12-13",
+    "points": "1343",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46252114"
+  },
+  {
+    "title": "Beautiful Abelian Sandpiles",
+    "url": "https://eavan.blog/posts/beautiful-sandpiles.html",
+    "author": "eavan0",
+    "date": "2025-12-13",
+    "points": "113",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46210044"
+  },
+  {
+    "title": "Computer Animator and Amiga fanatic Dick Van Dyke turns 100",
+    "url": "https://news.ycombinator.com/item?id=46252993",
+    "author": "ggm",
+    "date": "2025-12-13",
+    "points": "187",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46252993"
+  },
+  {
+    "title": "Cryptids",
+    "url": "https://wiki.bbchallenge.org/wiki/Cryptids",
+    "author": "frozenseven",
+    "date": "2025-12-13",
+    "points": "48",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46172586"
+  },
+  {
+    "title": "Dynamic Pong Wars",
+    "url": "https://markodenic.tech/dynamic-pong-wars/",
+    "author": "rendall",
+    "date": "2025-12-13",
+    "points": "17",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46172417"
+  },
+  {
+    "title": "EasyPost (YC S13) Is Hiring",
+    "url": "https://www.easypost.com/careers",
+    "author": "",
+    "date": "2025-12-13",
+    "points": "0",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46256002"
+  },
+  {
+    "title": "Fast, Memory-Efficient Hash Table in Java: Borrowing the Best Ideas",
+    "url": "https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/",
+    "author": "birdculture",
+    "date": "2025-12-13",
+    "points": "42",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46256325"
+  },
+  {
+    "title": "GNU Unifont",
+    "url": "https://unifoundry.com/unifont/index.html",
+    "author": "remywang",
+    "date": "2025-12-13",
+    "points": "302",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46248859"
+  },
+  {
+    "title": "Go Proposal: Secret Mode",
+    "url": "https://antonz.org/accepted/runtime-secret/",
+    "author": "enz",
+    "date": "2025-12-13",
+    "points": "85",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46210705"
+  },
+  {
+    "title": "How exchanges turn order books into distributed logs",
+    "url": "https://quant.engineering/exchange-order-book-distributed-logs.html",
+    "author": "rundef",
+    "date": "2025-12-13",
+    "points": "98",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46192181"
+  },
+  {
+    "title": "I tried Gleam for Advent of Code",
+    "url": "https://blog.tymscar.com/posts/gleamaoc2025/",
+    "author": "tymscar",
+    "date": "2025-12-13",
+    "points": "90",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46255991"
+  },
+  {
+    "title": "Indexing 100M vectors in 20 minutes on PostgreSQL with 12GB RAM",
+    "url": "https://blog.vectorchord.ai/how-we-made-100m-vector-indexing-in-20-minutes-possible-on-postgresql",
+    "author": "gaocegege",
+    "date": "2025-12-13",
+    "points": "64",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46195068"
+  },
+  {
+    "title": "Java FFM zero-copy transport using io_uring",
+    "url": "https://www.mvp.express/",
+    "author": "mands",
+    "date": "2025-12-13",
+    "points": "76",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46182307"
+  },
+  {
+    "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+    "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+    "author": "simonw",
+    "date": "2025-12-13",
+    "points": "514",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46250332"
+  },
+  {
+    "title": "Photographer built a medium-format rangefinder, and so can you",
+    "url": "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/",
+    "author": "shinryuu",
+    "date": "2025-12-13",
+    "points": "123",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46177160"
+  },
+  {
+    "title": "Rats Play DOOM",
+    "url": "https://ratsplaydoom.com/",
+    "author": "ano-ther",
+    "date": "2025-12-13",
+    "points": "366",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46248323"
+  },
+  {
+    "title": "Researchers seeking better measures of cognitive fatigue",
+    "url": "https://www.nature.com/articles/d41586-025-03974-w",
+    "author": "bikenaga",
+    "date": "2025-12-13",
+    "points": "66",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46222162"
+  },
+  {
+    "title": "SSE sucks for transporting LLM tokens",
+    "url": "https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/",
+    "author": "zknill",
+    "date": "2025-12-13",
+    "points": "8",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46203824"
+  },
+  {
+    "title": "Show HN: I audited 500 K8s pods. Java wastes ~48% RAM, Go ~18%",
+    "url": "https://github.com/WozzHQ/wozz",
+    "author": "wozzio",
+    "date": "2025-12-13",
+    "points": "6",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46255158"
+  },
+  {
+    "title": "Show HN: I made a spreadsheet where formulas also update backwards",
+    "url": "https://victorpoughon.github.io/bidicalc/",
+    "author": "fouronnes3",
+    "date": "2025-12-13",
+    "points": "208",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46234734"
+  },
+  {
+    "title": "Show HN: LinkedQL – Live Queries over Postgres, MySQL, MariaDB",
+    "url": "https://github.com/linked-db/linked-ql",
+    "author": "phrasecode",
+    "date": "2025-12-13",
+    "points": "16",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46192545"
+  },
+  {
+    "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+    "url": "https://github.com/ringtailsoftware/uvm32",
+    "author": "trj",
+    "date": "2025-12-13",
+    "points": "177",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46249538"
+  },
+  {
+    "title": "Useful patterns for building HTML tools",
+    "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
+    "author": "simonw",
+    "date": "2025-12-13",
+    "points": "128",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46223882"
+  },
+  {
+    "title": "What is the nicest thing a stranger has ever done for you?",
+    "url": "https://louplummer.lol/nice-stranger/",
+    "author": "speckx",
+    "date": "2025-12-13",
+    "points": "155",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46236001"
+  },
+  {
+    "title": "Will West Coast Jazz Get Some Respect?",
+    "url": "https://www.honest-broker.com/p/will-west-coast-jazz-finally-get",
+    "author": "paulpauper",
+    "date": "2025-12-13",
+    "points": "39",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46176592"
+  },
+  {
+    "title": "Z8086: Rebuilding the 8086 from Original Microcode",
+    "url": "https://nand2mario.github.io/posts/2025/z8086/",
+    "author": "nand2mario",
+    "date": "2025-12-13",
+    "points": "21",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46255007"
+  },
+  {
+    "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+    "url": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+    "author": "guiand",
+    "date": "2025-12-13",
+    "points": "506",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46248644"
+  }
+]

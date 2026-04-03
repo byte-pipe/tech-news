@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A Lisp adventure on the calm waters of the dead C",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "lisp, plt",
+    "url": "https://mihaiolteanu.me/language-abstractions",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "A family of OpenSSL forks",
+    "author": "",
+    "score": "39",
+    "comments": "0",
+    "tags": "networking, security",
+    "url": "https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Bazel’s Original Sins",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://fzakaria.com/2025/06/22/bazel-s-original-sins",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Chromium's build system is switching from Ninja to Siso for external developers",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "browsers, c++, go, practices",
+    "url": "https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Everyone should copy Thunderbird's donation model",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://blog.cyrneko.eu/everyone-should-copy-thunderbird",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Finding a 27-year-old easter egg in the Power Mac G3 ROM",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "historical, mac, reversing",
+    "url": "https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Firefox 140 Released With \"Unload Tab\", CSS Custom Highlighting API",
+    "author": "",
+    "score": "27",
+    "comments": "0",
+    "tags": "browsers, release",
+    "url": "https://www.phoronix.com/news/Firefox-140",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Fixes for five Lix CVEs",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "nix, security",
+    "url": "https://lix.systems/blog/2025-06-24-lix-cves/",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Fun with uv and PEP 723",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Interesting Bits of Postgres Grammar",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "LR(1) parse-tables generator",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "c++, plt, programming",
+    "url": "https://github.com/wldfngrs/parser-generator",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Lifetime Dispersion and Generational GC: An Intellectual Abstract",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://dl.acm.org/doi/10.1145/3735950.3735958",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Making TRAMP go Brrrr…",
+    "author": "",
+    "score": "57",
+    "comments": "0",
+    "tags": "emacs, performance",
+    "url": "https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Nix Development Setup for Factor",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "concatenative, nix",
+    "url": "https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Nix/NixOS is the new “dotfiles golf” - and that’s awesome",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "linux, nix",
+    "url": "https://whynot.fail/nixos/the-new-dotfile-golf/",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Onion Services: Design, Protocol and Implementation",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "video, security",
+    "url": "https://media.ccc.de/v/gpn23-52-onion-services-design-protocol-and-implementation",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Porting GPU shaders to Rust GPU 30x faster with AI",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "graphics, rust, vibecoding",
+    "url": "https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Skip the Design Patterns Architecting with Nouns and Verbs",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "video, python",
+    "url": "https://www.youtube.com/watch?v=v-N6r8lcsNc",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Solving LinkedIn Queens using MiniZinc",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "compsci, programming",
+    "url": "https://zayenz.se/blog/post/linkedin-queens/",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "The Bitter Lesson is coming for Tokenization",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "ai",
+    "url": "https://lucalp.dev/bitter-lesson-tokenization-and-blt",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "The one-more-re-nightmare compiler (2021)",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "lisp",
+    "url": "https://applied-langua.ge/posts/omrn-compiler.html",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Using LXCFS together with Podman",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "devops, linux",
+    "url": "https://www.die-welt.net/2025/06/using-lxcfs-together-with-podman/",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Waiting for SQL:202y: Vectors",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "databases",
+    "url": "http://peter.eisentraut.org/blog/2025/06/24/waiting-for-sql-202y-vectors",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "forbidden secrets of ancient X11 scaling technology revealed",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "graphics, unix",
+    "url": "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed",
+    "date": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "how i use my terminal",
+    "author": "",
+    "score": "45",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://jyn.dev/how-i-use-my-terminal/",
+    "date": "2025-06-24",
+    "description": ""
+  }
+]

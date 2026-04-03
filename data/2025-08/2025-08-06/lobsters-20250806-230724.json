@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A Fast, Growable Array With Stable Pointers in C",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "c, performance",
+    "url": "https://danielchasehooper.com/posts/segment_array/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "compilers, haskell",
+    "url": "http://blog.vmchale.com/article/escardo-oliva-functional",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "An easy-to-implement, arena-friendly hash map",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "c, performance",
+    "url": "https://nullprogram.com/blog/2023/09/30/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "Bag of words, have mercy on us",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "philosophy, vibecoding",
+    "url": "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "Be Careful with Go Struct Embedding",
+    "author": "",
+    "score": "36",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "Dotfiles feel too intimate and personal to share",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "Gleam v1.12.0 released",
+    "author": "",
+    "score": "71",
+    "comments": "0",
+    "tags": "gleam, release",
+    "url": "https://gleam.run/news/no-more-dependency-management-headaches/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "Have you ever regretted open-sourcing something?",
+    "author": "",
+    "score": "43",
+    "comments": "0",
+    "tags": "ask, programming",
+    "url": "https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing",
+    "date": "2025-08-06",
+    "description": "☶"
+  },
+  {
+    "title": "Implementing Viewstamped Replication protocol (2023)",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "distributed, go",
+    "url": "https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "Litestar is worth a look",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "python, web",
+    "url": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "New Method Is the Fastest Way To Find the Best Routes",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "compsci",
+    "url": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "No, AI is not Making Engineers 10x as Productive",
+    "author": "",
+    "score": "49",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "One Billion Row Challenge (2024)",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "performance",
+    "url": "https://curiouscoding.nl/posts/1brc/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "Python performance myths and fairy tales",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "Quickshell, building blocks for your desktop",
+    "author": "",
+    "score": "61",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://quickshell.org/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "Rethinking devtools: Escaping the Cloud and SaaS trap",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "api, scaling, web",
+    "url": "https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas",
+    "date": "2025-08-06",
+    "description": "☶"
+  },
+  {
+    "title": "TIL that You can spot base64 encoded JSON, certificates, and private keys",
+    "author": "",
+    "score": "69",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://ergaster.org/til/base64-encoded-json/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "The how and why of GitHub to Codeberg",
+    "author": "",
+    "score": "54",
+    "comments": "0",
+    "tags": "privacy, web",
+    "url": "https://www.arscyni.cc/file/codeberg.html",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "We shouldn’t have needed lockfiles",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://tonsky.me/blog/lockfiles/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "What Happens When You Start Panic!ing",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "video, rust",
+    "url": "https://www.youtube.com/watch?v=GsnwR-Doeeo",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "Why are Windows semiannual updates named H1 and H2?",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "windows",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "Why hx-boost is actually the most important feature of htmx",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "comptime.ts — compile-time expressions for TypeScript",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "javascript",
+    "url": "https://comptime.js.org/",
+    "date": "2025-08-06",
+    "description": ""
+  },
+  {
+    "title": "zig-error-patterns",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://glfmn.io/posts/zig-error-patterns/",
+    "date": "2025-08-06",
+    "description": ""
+  }
+]

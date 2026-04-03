@@ -1,0 +1,252 @@
+[
+  {
+    "title": "15+ years later, Microsoft morged my diagram",
+    "author": "",
+    "score": "74",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://nvie.com/posts/15-years-later/",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "6502 Emulation - The Jump Indirect Bug",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "retrocomputing",
+    "url": "https://markjames.dev/blog/6502-jump-indirect-bug",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "performance, programming",
+    "url": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "An assembler that compiles to a printf loop",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "show, c",
+    "url": "https://git.sr.ht/~sebsite/printfasm",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "Are We Becoming Architects or Butlers to LLMs?",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "http://muratbuffalo.blogspot.com/2026/02/butlers-or-architects.html",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "Asahi Linux Progress Report: Linux 6.19",
+    "author": "",
+    "score": "49",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "Babashka 1.12.215: Revenge of the TUIs",
+    "author": "",
+    "score": "50",
+    "comments": "0",
+    "tags": "clojure",
+    "url": "https://blog.michielborkent.nl/babashka-1.12.215.html",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "BarraCUDA: Open-source CUDA compiler targeting AMD GPUs (and more in the future!)",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "compilers",
+    "url": "https://github.com/Zaneham/BarraCUDA",
+    "date": "2026-02-19",
+    "description": "☶"
+  },
+  {
+    "title": "DNS-PERSIST-01: A New Model for DNS-based Challenge Validation",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "networking, security",
+    "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "Dank Linux - Desktop Environment for Wayland and Niri",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "design, linux",
+    "url": "https://danklinux.com",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "Gentoo on Codeberg",
+    "author": "",
+    "score": "98",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "How a single typo led to RCE in Firefox",
+    "author": "",
+    "score": "49",
+    "comments": "0",
+    "tags": "browsers, security",
+    "url": "https://kqx.io/post/firefox0day/",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "ai, programming, science",
+    "url": "https://github.com/skavanagh/lebron-james-is-president",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies",
+    "author": "",
+    "score": "39",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://oat.ink/",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "One page of async Rust",
+    "author": "",
+    "score": "36",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://dotat.at/@/2026-02-16-async.html",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "Plasma 6.6 released",
+    "author": "",
+    "score": "120",
+    "comments": "0",
+    "tags": "linux, release",
+    "url": "https://kde.org/announcements/plasma/6/6.6.0/",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "Terminals should generate the 256-color palette",
+    "author": "",
+    "score": "62",
+    "comments": "0",
+    "tags": "design",
+    "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "The Global Trust Register (1999)",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "book, cryptography",
+    "url": "https://www.cl.cam.ac.uk/research/security/OLD/Trust-Register/index-1998.html",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "The Servo project and its impact on the web platform ecosystem",
+    "author": "",
+    "score": "75",
+    "comments": "0",
+    "tags": "slides, browsers",
+    "url": "https://servo.org/slides/2026-02-fosdem-servo-web-platform/",
+    "date": "2026-02-19",
+    "description": "☶"
+  },
+  {
+    "title": "The case for gatekeeping, or: why medieval guilds had it figured out",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "practices, vibecoding",
+    "url": "https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "Understanding Whole Program Paths and Path Profiling",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "compilers, compsci",
+    "url": "https://abhamra.com/blog/path-profiling/",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "Using go fix to modernize Go code",
+    "author": "",
+    "score": "42",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://go.dev/blog/gofix",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "Vinyl Cache has left github",
+    "author": "",
+    "score": "67",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://vinyl-cache.org/organization/moving.html",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "What's cooking on SourceHut? Q1 2026",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "devops",
+    "url": "https://sourcehut.org/blog/2026-02-18-whats-cooking-q1-2026/",
+    "date": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "claimcheck: Narrowing the Gap between Proof and Intent",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "ai, formalmethods",
+    "url": "https://midspiral.com/blog/claimcheck-narrowing-the-gap-between-proof-and-intent/",
+    "date": "2026-02-19",
+    "description": ""
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A Decade of Docker Containers",
+    "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+    "author": "zacwest",
+    "date": "2026-03-07",
+    "score": 103,
+    "comments": 51,
+    "id": 47289311,
+    "discussion_url": "https://news.ycombinator.com/item?id=47289311",
+    "description": "A Decade of Docker Containers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224792"
+  },
+  {
+    "title": "A tool that removes censorship from open-weight LLMs",
+    "url": "https://github.com/elder-plinius/OBLITERATUS",
+    "author": "mvdwoord",
+    "date": "2026-03-06",
+    "score": 198,
+    "comments": 82,
+    "id": 47275291,
+    "discussion_url": "https://news.ycombinator.com/item?id=47275291",
+    "description": "A tool that removes censorship from open-weight LLMs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224975"
+  },
+  {
+    "title": "CT Scans of Health Wearables",
+    "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+    "author": "radeeyate",
+    "date": "2026-03-06",
+    "score": 241,
+    "comments": 51,
+    "id": 47275152,
+    "discussion_url": "https://news.ycombinator.com/item?id=47275152",
+    "description": "CT Scans of Health Wearables",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224917"
+  },
+  {
+    "title": "Entomologists use a particle accelerator to image ants at scale",
+    "url": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
+    "author": "gmays",
+    "date": "2026-03-06",
+    "score": 140,
+    "comments": 26,
+    "id": 47276539,
+    "discussion_url": "https://news.ycombinator.com/item?id=47276539",
+    "description": "Entomologists use a particle accelerator to image ants at scale",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224953"
+  },
+  {
+    "title": "Filesystems Are Having a Moment",
+    "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
+    "author": "malgamves",
+    "date": "2026-03-07",
+    "score": 95,
+    "comments": 46,
+    "id": 47286408,
+    "discussion_url": "https://news.ycombinator.com/item?id=47286408",
+    "description": "Filesystems Are Having a Moment",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224848"
+  },
+  {
+    "title": "GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "author": "mudkipdev",
+    "date": "2026-03-05",
+    "score": 1002,
+    "comments": 793,
+    "id": 47265045,
+    "discussion_url": "https://news.ycombinator.com/item?id=47265045",
+    "description": "GPT-5.4",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.225014"
+  },
+  {
+    "title": "Galileo's handwritten notes found in ancient astronomy text",
+    "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+    "author": "tzury",
+    "date": "2026-03-05",
+    "score": 196,
+    "comments": 36,
+    "id": 47263938,
+    "discussion_url": "https://news.ycombinator.com/item?id=47263938",
+    "description": "Galileo's handwritten notes found in ancient astronomy text",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224844"
+  },
+  {
+    "title": "Global warming has accelerated significantly",
+    "url": "https://www.researchsquare.com/article/rs-6079807/v1",
+    "author": "morsch",
+    "date": "2026-03-06",
+    "score": 1115,
+    "comments": 1119,
+    "id": 47275088,
+    "discussion_url": "https://news.ycombinator.com/item?id=47275088",
+    "description": "Global warming has accelerated significantly",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.225026"
+  },
+  {
+    "title": "Good Bad ISPs",
+    "url": "https://community.torproject.org/relay/community-resources/good-bad-isps/",
+    "author": "rzk",
+    "date": "2026-03-06",
+    "score": 131,
+    "comments": 42,
+    "id": 47275230,
+    "discussion_url": "https://news.ycombinator.com/item?id=47275230",
+    "description": "Good Bad ISPs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224979"
+  },
+  {
+    "title": "Hardening Firefox with Anthropic's Red Team",
+    "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+    "author": "todsacerdoti",
+    "date": "2026-03-06",
+    "score": 601,
+    "comments": 165,
+    "id": 47273854,
+    "discussion_url": "https://news.ycombinator.com/item?id=47273854",
+    "description": "Hardening Firefox with Anthropic's Red Team",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224966"
+  },
+  {
+    "title": "Helix: A post-modern text editor",
+    "url": "https://helix-editor.com/",
+    "author": "doener",
+    "date": "2026-03-06",
+    "score": 276,
+    "comments": 136,
+    "id": 47282701,
+    "discussion_url": "https://news.ycombinator.com/item?id=47282701",
+    "description": "Helix: A post-modern text editor",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224894"
+  },
+  {
+    "title": "It took four years until 2011’s iOS 5 gave everyone an emoji keyboard",
+    "url": "https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/",
+    "author": "tobr",
+    "date": "2026-03-06",
+    "score": 152,
+    "comments": 83,
+    "id": 47272338,
+    "discussion_url": "https://news.ycombinator.com/item?id=47272338",
+    "description": "It took four years until 2011’s iOS 5 gave everyone an emoji keyboard",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224988"
+  },
+  {
+    "title": "Ki Editor - an editor that operates on the AST",
+    "url": "https://ki-editor.org/",
+    "author": "ravenical",
+    "date": "2026-03-07",
+    "score": 285,
+    "comments": 94,
+    "id": 47286311,
+    "discussion_url": "https://news.ycombinator.com/item?id=47286311",
+    "description": "Ki Editor - an editor that operates on the AST",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224814"
+  },
+  {
+    "title": "LLMs work best when the user defines their acceptance criteria first",
+    "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+    "author": "dnw",
+    "date": "2026-03-07",
+    "score": 380,
+    "comments": 269,
+    "id": 47283337,
+    "discussion_url": "https://news.ycombinator.com/item?id=47283337",
+    "description": "LLMs work best when the user defines their acceptance criteria first",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224881"
+  },
+  {
+    "title": "PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon",
+    "url": "https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose",
+    "author": "LorenDB",
+    "date": "2026-03-07",
+    "score": 116,
+    "comments": 86,
+    "id": 47287792,
+    "discussion_url": "https://news.ycombinator.com/item?id=47287792",
+    "description": "PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224890"
+  },
+  {
+    "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+    "url": "https://plasma-bigscreen.org",
+    "author": "PaulHoule",
+    "date": "2026-03-06",
+    "score": 593,
+    "comments": 191,
+    "id": 47282736,
+    "discussion_url": "https://news.ycombinator.com/item?id=47282736",
+    "description": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224820"
+  },
+  {
+    "title": "QGIS 4.0",
+    "url": "https://changelog.qgis.org/en/version/4.0/",
+    "author": "jonbaer",
+    "date": "2026-03-07",
+    "score": 177,
+    "comments": 45,
+    "id": 47285846,
+    "discussion_url": "https://news.ycombinator.com/item?id=47285846",
+    "description": "QGIS 4.0",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224908"
+  },
+  {
+    "title": "Sarvam 105B, the first competitive Indian open source LLM",
+    "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+    "author": "logicchains",
+    "date": "2026-03-07",
+    "score": 164,
+    "comments": 49,
+    "id": 47285422,
+    "discussion_url": "https://news.ycombinator.com/item?id=47285422",
+    "description": "Sarvam 105B, the first competitive Indian open source LLM",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224921"
+  },
+  {
+    "title": "Show HN: Claude-replay – A video-like player for Claude Code sessions",
+    "url": "https://github.com/es617/claude-replay",
+    "author": "es617",
+    "date": "2026-03-06",
+    "score": 92,
+    "comments": 31,
+    "id": 47276604,
+    "discussion_url": "https://news.ycombinator.com/item?id=47276604",
+    "description": "Show HN: Claude-replay – A video-like player for Claude Code sessions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.225022"
+  },
+  {
+    "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+    "url": "https://github.com/moongate-community/moongatev2",
+    "author": "squidleon",
+    "date": "2026-03-06",
+    "score": 276,
+    "comments": 157,
+    "id": 47275236,
+    "discussion_url": "https://news.ycombinator.com/item?id=47275236",
+    "description": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.225010"
+  },
+  {
+    "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+    "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+    "author": "enraged_camel",
+    "date": "2026-03-06",
+    "score": 976,
+    "comments": 657,
+    "id": 47278426,
+    "discussion_url": "https://news.ycombinator.com/item?id=47278426",
+    "description": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224948"
+  },
+  {
+    "title": "The Millisecond That Could Change Cancer Treatment",
+    "url": "https://spectrum.ieee.org/flash-radiotherapy",
+    "author": "marc__1",
+    "date": "2026-03-07",
+    "score": 103,
+    "comments": 29,
+    "id": 47288533,
+    "discussion_url": "https://news.ycombinator.com/item?id=47288533",
+    "description": "The Millisecond That Could Change Cancer Treatment",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224753"
+  },
+  {
+    "title": "The yoghurt delivery women combatting loneliness in Japan",
+    "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+    "author": "ranit",
+    "date": "2026-03-07",
+    "score": 127,
+    "comments": 85,
+    "id": 47287344,
+    "discussion_url": "https://news.ycombinator.com/item?id=47287344",
+    "description": "The yoghurt delivery women combatting loneliness in Japan",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224853"
+  },
+  {
+    "title": "Tinnitus Is Connected to Sleep",
+    "url": "https://www.sciencealert.com/tinnitus-is-somehow-connected-to-a-crucial-bodily-function",
+    "author": "bookofjoe",
+    "date": "2026-03-07",
+    "score": 105,
+    "comments": 126,
+    "id": 47287763,
+    "discussion_url": "https://news.ycombinator.com/item?id=47287763",
+    "description": "Tinnitus Is Connected to Sleep",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224768"
+  },
+  {
+    "title": "UUID package coming to Go standard library",
+    "url": "https://github.com/golang/go/issues/62026",
+    "author": "soypat",
+    "date": "2026-03-07",
+    "score": 319,
+    "comments": 196,
+    "id": 47283665,
+    "discussion_url": "https://news.ycombinator.com/item?id=47283665",
+    "description": "UUID package coming to Go standard library",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224867"
+  },
+  {
+    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+    "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+    "author": "askl",
+    "date": "2026-03-07",
+    "score": 299,
+    "comments": 173,
+    "id": 47285960,
+    "discussion_url": "https://news.ycombinator.com/item?id=47285960",
+    "description": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224780"
+  },
+  {
+    "title": "What canceled my Go context?",
+    "url": "https://rednafi.com/go/context-cancellation-cause/",
+    "author": "mweibel",
+    "date": "2026-03-04",
+    "score": 92,
+    "comments": 53,
+    "id": 47244882,
+    "discussion_url": "https://news.ycombinator.com/item?id=47244882",
+    "description": "What canceled my Go context?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224983"
+  },
+  {
+    "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+    "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+    "author": "Anon84",
+    "date": "2026-03-06",
+    "score": 579,
+    "comments": 324,
+    "id": 47274676,
+    "discussion_url": "https://news.ycombinator.com/item?id=47274676",
+    "description": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224992"
+  },
+  {
+    "title": "Working and Communicating with Japanese Engineers",
+    "url": "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers",
+    "author": "zdw",
+    "date": "2026-03-03",
+    "score": 111,
+    "comments": 58,
+    "id": 47233441,
+    "discussion_url": "https://news.ycombinator.com/item?id=47233441",
+    "description": "Working and Communicating with Japanese Engineers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224808"
+  },
+  {
+    "title": "this css proves me human",
+    "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
+    "author": "todsacerdoti",
+    "date": "2026-03-06",
+    "score": 335,
+    "comments": 102,
+    "id": 47281593,
+    "discussion_url": "https://news.ycombinator.com/item?id=47281593",
+    "description": "this css proves me human",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-03-07T19:08:59.224858"
+  }
+]

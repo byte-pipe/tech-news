@@ -1,0 +1,187 @@
+---
+title: 'Google announces Gemini CLI: your open-source AI agent'
+url: https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/
+site_name: hackernews_api
+fetched_at: '2025-06-26T04:06:48.315559'
+original_url: https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/
+author: sync
+date: '2025-06-25'
+published_date: '2025-06-25'
+description: Free and open source, Gemini CLI brings Gemini directly into developers’ terminals — with unmatched access for individuals.
+tags:
+- hackernews
+- trending
+---
+
+# Gemini CLI: your open-source AI agent
+
+Jun 25, 2025
+
+·
+
+Free and open source, Gemini CLI brings Gemini directly into developers’ terminals — with unmatched access for individuals.
+
+Taylor Mullen
+
+ Senior Staff Software Engineer
+
+
+Ryan J. Salva
+
+ Senior Director, Product Management
+
+
+ Gemini CLI
+
+
+Upgrade your terminal experience with Gemini CLI today.
+
+ Try it now
+
+
+For developers, the command line interface (CLI) isn't just a tool; it's home. The terminal’s efficiency, ubiquity and portability make it the go-to utility for getting work done. And as developers' reliance on the terminal endures, so does the demand for integrated AI assistance.
+
+That’s why we’re introducingGemini CLI, an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model. While it excels at coding, we built Gemini CLI to do so much more. It’s a versatile, local utility you can use for a wide range of tasks, from content generation and problem solving to deep research and task management.
+
+We’ve also integrated Gemini CLI with Google’s AI coding assistant,Gemini Code Assist, so that all developers — on free, Standard, and Enterprise Code Assist plans — get prompt-driven, AI-first coding in both VS Code and Gemini CLI.
+
+## Unmatched usage limits for individual developers
+
+To use Gemini CLI free-of-charge, simply login with a personal Google account to get a free Gemini Code Assist license. That free license gets you access to Gemini 2.5 Pro and its massive 1 million token context window. To ensure you rarely, if ever, hit a limit during this preview, we offer the industry’s largest allowance: 60 model requests per minute and 1,000 requests per day at no charge.
+
+If you’re a professional developer who needs to run multiple agents simultaneously, or if you prefer to use specific models, you can use aGoogle AI StudioorVertex AIkey for usage-based billing or get a Gemini Code Assist Standard or Enterprise license.
+
+Gemini CLI offers the industry’s largest usage allowance at 60 model requests per minute and 1,000 model requests per day at no charge
+
+## Powerful models in your command line
+
+Now in preview, Gemini CLI provides powerful AI capabilities, from code understanding and file manipulation to command execution and dynamic troubleshooting. It offers a fundamental upgrade to your command line experience, enabling you to write code, debug issues and streamline your workflow with natural language.
+
+Its power comes from built-in tools allowing you to:
+
+* Ground prompts with Google Searchso you can fetch web pages and provide real-time, external context to the model
+* Extend Gemini CLI’s capabilitiesthrough built-in support for the Model Context Protocol (MCP) or bundled extensions
+* Customize prompts and instructionsto tailor Gemini for your specific needs and workflows
+* Automate tasks and integrate with existing workflowsby invoking Gemini CLI non-interactively within your scripts
+
+Gemini CLI can be used for a wide variety of tasks, including making a short video showing the story of a ginger cat’s adventures around Australia with Veo and Imagen
+
+## Open and extensible
+
+Because Gemini CLI is fullyopen source (Apache 2.0), developers can inspect the code to understand how it works and verify its security implications. We fully expect (and welcome!) a global community of developers tocontribute to this projectby reporting bugs, suggesting features, continuously improving security practices and submitting code improvements.Post your issuesorsubmit your ideasin our GitHub repo.
+
+We also built Gemini CLI to be extensible, building on emerging standards like MCP, system prompts (via GEMINI.md) and settings for both personal and team configuration. We know the terminal is a personal space, and everyone deserves the autonomy to make theirs unique.
+
+## Shared technology with Gemini Code Assist
+
+Sometimes, an IDE is the right tool for the job. When that time comes, you want all the capabilities of a powerful AI agent by your side to iterate, learn and overcome issues quickly.
+
+Gemini Code Assist, Google’s AI coding assistant for students, hobbyists and professional developers, now shares the same technology with Gemini CLI. In VS Code, you can place any prompt into the chat window using agent mode, and Code Assist will relentlessly work on your behalf to write tests, fix errors, build out features or even migrate your code. Based on your prompt, Code Assist’s agent will build a multi-step plan, auto-recover from failed implementation paths and recommend solutions you may not have even imagined.
+
+Gemini Code Assist’s chat agent is a multi-step, collaborative, reasoning agent that expands the capabilities of simple-command response interactions
+
+Gemini Code Assist agent mode is available at no additional cost for all plans (free, Standard and Enterprise) through theInsiders channel. If you aren’t already using Gemini Code Assist, give it a try. Its free tier has the highest usage limit in the market today, and only takes less than a minute toget started.
+
+## Easy to get started
+
+So what are you waiting for? Upgrade your terminal experience with Gemini CLI today. Getstarted by installing Gemini CLI.All you need is an email address to get Gemini practically unlimited in your terminal.
+
+ Gemini CLI
+
+
+Upgrade your terminal experience with Gemini CLI today.
+
+ Try it now
+
+
+POSTED IN:
+
+### Related stories
+
+AI
+
+#### Ask a Techspert: What is inference?
+
+ By
+
+
+
+
+ Molly McHugh-Johnson
+
+
+ Jun 23, 2025
+
+
+Search
+
+#### Search Live: Talk, listen and explore in real time with AI Mode
+
+ By
+
+
+
+
+ Liza Ma
+
+
+ Jun 18, 2025
+
+
+Gemini Models
+
+#### Hear a podcast discussion about Gemini’s coding capabilities.
+
+ Jun 18, 2025
+
+
+Gemini Models
+
+#### We’re expanding our Gemini 2.5 family of models
+
+ By
+
+
+
+
+ Tulsee Doshi
+
+
+ Jun 17, 2025
+
+
+Search
+
+#### Get an audio overview of Search results in Labs, then click through to learn more.
+
+ Jun 13, 2025
+
+
+Google DeepMind
+
+#### Behind “ANCESTRA:” combining Veo with live-action filmmaking
+
+ By
+
+
+
+
+ Kory Mathewson
+
+
+ Jun 13, 2025
+
+
+.
+
+ Jump to position 1
+
+ Jump to position 2
+
+ Jump to position 3
+
+ Jump to position 4
+
+ Jump to position 5
+
+ Jump to position 6

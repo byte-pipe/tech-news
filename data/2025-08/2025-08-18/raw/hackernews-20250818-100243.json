@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A Visual Exploration of Gaussian Processes (2019)",
+    "url": "https://distill.pub/2019/visual-exploration-gaussian-processes/",
+    "author": "vinhnx",
+    "date": "2025-08-18",
+    "points": "22",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44919831"
+  },
+  {
+    "title": "AI vs. Professional Authors Results",
+    "url": "http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html",
+    "author": "biffles",
+    "date": "2025-08-18",
+    "points": "4",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44935171"
+  },
+  {
+    "title": "ArchiveTeam has finished archiving all goo.gl short links",
+    "url": "https://tracker.archiveteam.org/goo-gl/",
+    "author": "pentagrama",
+    "date": "2025-08-18",
+    "points": "252",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44933401"
+  },
+  {
+    "title": "BBC Micro, the ancestor to ARM",
+    "url": "https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/",
+    "author": "ingve",
+    "date": "2025-08-18",
+    "points": "95",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44931321"
+  },
+  {
+    "title": "Claudia – Desktop companion for Claude code",
+    "url": "https://claudiacode.com/",
+    "author": "zerealshadowban",
+    "date": "2025-08-18",
+    "points": "260",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44933255"
+  },
+  {
+    "title": "ClickHouse matches PG for single-row UPDATEs and 4000 x faster for bulk UPDATEs",
+    "url": "https://clickhouse.com/blog/update-performance-clickhouse-vs-postgresql",
+    "author": "truth_seeker",
+    "date": "2025-08-18",
+    "points": "96",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44933452"
+  },
+  {
+    "title": "Derivatives, Gradients, Jacobians and Hessians",
+    "url": "https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/",
+    "author": "ibobev",
+    "date": "2025-08-18",
+    "points": "167",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44931666"
+  },
+  {
+    "title": "Does OLAP Need an ORM",
+    "url": "https://clickhouse.com/blog/moosestack-does-olap-need-an-orm",
+    "author": "craneca0",
+    "date": "2025-08-18",
+    "points": "57",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44932565"
+  },
+  {
+    "title": "Eliminating JavaScript cold starts on AWS Lambda",
+    "url": "https://goose.icu/lambda/",
+    "author": "styfle",
+    "date": "2025-08-18",
+    "points": "178",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44922383"
+  },
+  {
+    "title": "Faster Index I/O with NVMe SSDs",
+    "url": "https://www.marginalia.nu/log/a_123_index_io/",
+    "author": "ingve",
+    "date": "2025-08-18",
+    "points": "129",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44931368"
+  },
+  {
+    "title": "HN Search isn't ingesting new data since Friday",
+    "url": "https://github.com/algolia/hn-search/issues/248",
+    "author": "busymom0",
+    "date": "2025-08-18",
+    "points": "143",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44934518"
+  },
+  {
+    "title": "He found a bomb under a playground – and there were 176 more",
+    "url": "https://www.bbc.co.uk/news/articles/c36x08jezw5o",
+    "author": "iamben",
+    "date": "2025-08-18",
+    "points": "28",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44910530"
+  },
+  {
+    "title": "Here be dragons: Preventing static damage, latchup, and metastability in the 386",
+    "url": "http://www.righto.com/2025/08/static-latchup-metastability-386.html",
+    "author": "todsacerdoti",
+    "date": "2025-08-18",
+    "points": "54",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44932342"
+  },
+  {
+    "title": "IQ Tests Results for AI",
+    "url": "https://www.trackingai.org/home",
+    "author": "stared",
+    "date": "2025-08-18",
+    "points": "165",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44930222"
+  },
+  {
+    "title": "LL3M: Large Language 3D Modelers",
+    "url": "https://threedle.github.io/ll3m/",
+    "author": "simonpure",
+    "date": "2025-08-18",
+    "points": "350",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44930808"
+  },
+  {
+    "title": "Llama-Scan: Convert PDFs to Text W Local LLMs",
+    "url": "https://github.com/ngafar/llama-scan",
+    "author": "nawazgafar",
+    "date": "2025-08-18",
+    "points": "35",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44935169"
+  },
+  {
+    "title": "MS-DOS development resources",
+    "url": "https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md",
+    "author": "mariuz",
+    "date": "2025-08-18",
+    "points": "32",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44932624"
+  },
+  {
+    "title": "PG Auto Upgrade – Docker (and K8s) container to auto upgrade your database",
+    "url": "https://github.com/pgautoupgrade/docker-pgautoupgrade",
+    "author": "justinclift",
+    "date": "2025-08-18",
+    "points": "12",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44922556"
+  },
+  {
+    "title": "Review of Anti-Aging Drugs",
+    "url": "https://scienceblog.com/joshmitteldorf/2025/08/17/review-of-anti-aging-drugs/",
+    "author": "XzetaU8",
+    "date": "2025-08-18",
+    "points": "132",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44933219"
+  },
+  {
+    "title": "Show HN: Doxx – Terminal .docx viewer inspired by Glow",
+    "url": "https://github.com/bgreenwell/doxx",
+    "author": "w108bmg",
+    "date": "2025-08-18",
+    "points": "36",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44934391"
+  },
+  {
+    "title": "Show HN: Fallinorg - Offline Mac app that organizes files by meaning",
+    "url": "https://fallinorg.com/",
+    "author": "bobnarizes",
+    "date": "2025-08-18",
+    "points": "52",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44932375"
+  },
+  {
+    "title": "Show HN: NextDNS Adds \"Bypass Age Verification\"",
+    "url": "https://news.ycombinator.com/item?id=44931824",
+    "author": "nextdns",
+    "date": "2025-08-18",
+    "points": "188",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44931824"
+  },
+  {
+    "title": "Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea",
+    "url": "https://news.ycombinator.com/item?id=44932651",
+    "author": "panphora",
+    "date": "2025-08-18",
+    "points": "158",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44932651"
+  },
+  {
+    "title": "Sunny days are warm: why LinkedIn rewards mediocrity",
+    "url": "https://www.elliotcsmith.com/linkedin-toxic-mediocrity/",
+    "author": "smitec",
+    "date": "2025-08-18",
+    "points": "420",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44930186"
+  },
+  {
+    "title": "Teaching GPT-5 to Use a Computer",
+    "url": "https://prava.co/archon/",
+    "author": "Areibman",
+    "date": "2025-08-18",
+    "points": "31",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44913587"
+  },
+  {
+    "title": "The Enterprise Experience",
+    "url": "https://churchofturing.github.io/the-enterprise-experience.html",
+    "author": "Improvement",
+    "date": "2025-08-18",
+    "points": "192",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44932980"
+  },
+  {
+    "title": "The Oldest Mask in the World (Pre-Pottery Neolithic B)",
+    "url": "https://www.imj.org.il/en/collections/334459-0",
+    "author": "webmaven",
+    "date": "2025-08-18",
+    "points": "36",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44914362"
+  },
+  {
+    "title": "The decline of high-tech manufacturing in the United States",
+    "url": "https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing",
+    "author": "giuliomagnifico",
+    "date": "2025-08-18",
+    "points": "25",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44935544"
+  },
+  {
+    "title": "Two sizes fit most: PostgreSQL and ClickHouse",
+    "url": "https://about.gitlab.com/blog/two-sizes-fit-most-postgresql-and-clickhouse/",
+    "author": "saisrirampur",
+    "date": "2025-08-18",
+    "points": "8",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44895954"
+  },
+  {
+    "title": "Why Nim?",
+    "url": "https://undefined.pyfy.ch/why-nim",
+    "author": "TheWiggles",
+    "date": "2025-08-18",
+    "points": "102",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44931415"
+  }
+]

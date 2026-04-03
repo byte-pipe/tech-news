@@ -1,0 +1,55 @@
+---
+title: Celebrating 20 years of MDN | MDN Blog
+url: https://developer.mozilla.org/en-US/blog/mdn-turns-20/
+site_name: lobsters
+fetched_at: '2025-07-26T23:06:41.838141'
+original_url: https://developer.mozilla.org/en-US/blog/mdn-turns-20/
+date: '2025-07-26'
+description: MDN turns 20! Let's look at how we started, how MDN became the most trusted resource for web developers, the impact it's had on the open web, and yes, there's cake, too.
+tags: web
+---
+
+# Celebrating 20 years of MDN
+
+Joe Walker
+July 23, 2025
+3
+ minute read
+
+This month, we're celebrating a big anniversary: 20 years of MDN.
+Twenty years ago, the web was growing into a complex, interactive platform that was getting easier to access, but more challenging to build for.
+MDN started as a community-driven wiki, helping developers navigate that rapidly-evolving web with an emphasis on web standards.
+As the web platform matured and grew, so did the vast amount of knowledge captured on MDN and the community of people who read and contribute to it.
+
+Today, there's nearly 14,000 pages of documentation, more than 33,000 localized articles, and compatibility data on close to 18,000 features that make MDN the most trusted and comprehensive resource available for web developers.
+We've helped people of every skill level and background build a better web for two decades now, driving an open ecosystem that billions of people use to work, learn, shop, socialize, and share their beloved creations.
+
+## Time to break out the cake
+
+What would a birthday celebration be without cake?
+Well in the web world, cakes have a very special place.
+There's a long-standing tradition among browser makers of sending cakes to each other to mark major milestones.
+A good cake matters a lot to keep a spirit of collaboration alive between teams who compete at times, but ultimately build towards one open web that everybody can enjoy.
+Microsoft sent Mozilla cakes for Firefox 2, 3, and 4, and we also sent them one for IE10:
+
+And what better way to celebrate an MDN birthday, than our own birthday cake from our friends atweb.dev:
+
+A very big thank you to the web.dev team for the delicious cake, and to all the partners, colleagues, and community members who make MDN what it is today.
+It would be hard to mention every single person who has worked on and contributed to MDN, and none of it happens without our global community.
+
+MDN reaches millions of developers each month and over 100,000 contributors have interacted with us throughour GitHub organization.
+From the MDN team, a very big thank you to every single one of you.
+Your passion, curiosity, and direct contributions are what keep MDN going.
+Here's to 20 more years of empowering developers and building a better web together.
+
+## Sharing the love
+
+We'd love to hear about your experiences and memories of MDN over the years; tag us onX,MastodonorBlueskyif you have stories to share.
+There's never been a better time to join us in collaboration on web platform docs.
+Getting involved means you have the opportunity to write the next chapter in MDN's story.
+
+* About MDN
+* MDN celebrates 10 years of documenting your Web
+* MDN Web Docs: 15 years young
+
+## PreviousPostColor models for humans and devices

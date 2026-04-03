@@ -1,0 +1,512 @@
+[
+  {
+    "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
+    "url": "https://www.7-zip.org/history.txt",
+    "author": "doener",
+    "date": "2025-07-07",
+    "score": 253,
+    "comments": 172,
+    "id": 44489359,
+    "discussion_url": "https://news.ycombinator.com/item?id=44489359",
+    "description": "7-Zip for Windows can now use more than 64 CPU threads for compression",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482611"
+  },
+  {
+    "title": "A fast 3D collision detection algorithm",
+    "url": "https://cairno.substack.com/p/improvements-to-the-separating-axis",
+    "author": "OlympicMarmoto",
+    "date": "2025-07-10",
+    "score": 172,
+    "comments": 23,
+    "id": 44510282,
+    "discussion_url": "https://news.ycombinator.com/item?id=44510282",
+    "description": "A fast 3D collision detection algorithm",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482494"
+  },
+  {
+    "title": "Archaeologists unveil 3,500-year-old city in Peru",
+    "url": "https://www.bbc.co.uk/news/articles/c07dmx38kyeo",
+    "author": "neversaydie",
+    "date": "2025-07-07",
+    "score": 118,
+    "comments": 30,
+    "id": 44487451,
+    "discussion_url": "https://news.ycombinator.com/item?id=44487451",
+    "description": "Archaeologists unveil 3,500-year-old city in Peru",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482561"
+  },
+  {
+    "title": "Astro is a return to the fundamentals of the web",
+    "url": "https://websmith.studio/blog/astro-is-a-developers-dream/",
+    "author": "pumbaa",
+    "date": "2025-07-09",
+    "score": 265,
+    "comments": 214,
+    "id": 44507854,
+    "discussion_url": "https://news.ycombinator.com/item?id=44507854",
+    "description": "Astro is a return to the fundamentals of the web",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482698"
+  },
+  {
+    "title": "Biomni: A General-Purpose Biomedical AI Agent",
+    "url": "https://github.com/snap-stanford/Biomni",
+    "author": "GavCo",
+    "date": "2025-07-10",
+    "score": 123,
+    "comments": 25,
+    "id": 44513843,
+    "discussion_url": "https://news.ycombinator.com/item?id=44513843",
+    "description": "Biomni: A General-Purpose Biomedical AI Agent",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482535"
+  },
+  {
+    "title": "Bootstrapping a side project into a profitable seven-figure business",
+    "url": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
+    "author": "jonkuipers",
+    "date": "2025-07-08",
+    "score": 787,
+    "comments": 208,
+    "id": 44495428,
+    "discussion_url": "https://news.ycombinator.com/item?id=44495428",
+    "description": "Bootstrapping a side project into a profitable seven-figure business",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482574"
+  },
+  {
+    "title": "Breaking Git with a carriage return and cloning RCE",
+    "url": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
+    "author": "dgl",
+    "date": "2025-07-09",
+    "score": 359,
+    "comments": 153,
+    "id": 44502330,
+    "discussion_url": "https://news.ycombinator.com/item?id=44502330",
+    "description": "Breaking Git with a carriage return and cloning RCE",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482715"
+  },
+  {
+    "title": "Dynamical origin of Theia, the last giant impactor on Earth",
+    "url": "https://arxiv.org/abs/2507.01826",
+    "author": "bikenaga",
+    "date": "2025-07-09",
+    "score": 94,
+    "comments": 44,
+    "id": 44502527,
+    "discussion_url": "https://news.ycombinator.com/item?id=44502527",
+    "description": "Dynamical origin of Theia, the last giant impactor on Earth",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482727"
+  },
+  {
+    "title": "ESIM Security",
+    "url": "https://security-explorations.com/esim-security.html",
+    "author": "todsacerdoti",
+    "date": "2025-07-09",
+    "score": 128,
+    "comments": 44,
+    "id": 44507830,
+    "discussion_url": "https://news.ycombinator.com/item?id=44507830",
+    "description": "ESIM Security",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482621"
+  },
+  {
+    "title": "Evolution Mail Users Easily Trackable",
+    "url": "https://www.grepular.com/Evolution_Mail_Users_Easily_Trackable",
+    "author": "mike-cardwell",
+    "date": "2025-07-10",
+    "score": 97,
+    "comments": 55,
+    "id": 44512684,
+    "discussion_url": "https://news.ycombinator.com/item?id=44512684",
+    "description": "Evolution Mail Users Easily Trackable",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482603"
+  },
+  {
+    "title": "Frame of preference A history of Mac settings, 1984–2004",
+    "url": "https://aresluna.org/frame-of-preference/",
+    "author": "K7PJP",
+    "date": "2025-07-09",
+    "score": 190,
+    "comments": 24,
+    "id": 44505171,
+    "discussion_url": "https://news.ycombinator.com/item?id=44505171",
+    "description": "Frame of preference A history of Mac settings, 1984–2004",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482653"
+  },
+  {
+    "title": "Helm local code execution via a malicious chart",
+    "url": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
+    "author": "irke882",
+    "date": "2025-07-09",
+    "score": 156,
+    "comments": 80,
+    "id": 44506696,
+    "discussion_url": "https://news.ycombinator.com/item?id=44506696",
+    "description": "Helm local code execution via a malicious chart",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482629"
+  },
+  {
+    "title": "I Ported SAP to a 1976 CPU. It Wasn't That Slow",
+    "url": "https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md",
+    "author": "weinzierl",
+    "date": "2025-07-07",
+    "score": 127,
+    "comments": 58,
+    "id": 44487110,
+    "discussion_url": "https://news.ycombinator.com/item?id=44487110",
+    "description": "I Ported SAP to a 1976 CPU. It Wasn't That Slow",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482590"
+  },
+  {
+    "title": "I'm Building LLM for Satellite Data EarthGPT.app",
+    "url": "https://www.earthgpt.app/",
+    "author": "sabman",
+    "date": "2025-07-07",
+    "score": 95,
+    "comments": 16,
+    "id": 44488742,
+    "discussion_url": "https://news.ycombinator.com/item?id=44488742",
+    "description": "I'm Building LLM for Satellite Data EarthGPT.app",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482694"
+  },
+  {
+    "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
+    "url": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
+    "author": "thunderbong",
+    "date": "2025-07-09",
+    "score": 360,
+    "comments": 221,
+    "id": 44507971,
+    "discussion_url": "https://news.ycombinator.com/item?id=44507971",
+    "description": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482641"
+  },
+  {
+    "title": "Is the doc bot docs, or not?",
+    "url": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
+    "author": "tobr",
+    "date": "2025-07-09",
+    "score": 186,
+    "comments": 109,
+    "id": 44507244,
+    "discussion_url": "https://news.ycombinator.com/item?id=44507244",
+    "description": "Is the doc bot docs, or not?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482637"
+  },
+  {
+    "title": "Jank Programming Language",
+    "url": "https://jank-lang.org/",
+    "author": "akkad33",
+    "date": "2025-07-07",
+    "score": 192,
+    "comments": 40,
+    "id": 44482273,
+    "discussion_url": "https://news.ycombinator.com/item?id=44482273",
+    "description": "Jank Programming Language",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482530"
+  },
+  {
+    "title": "Let Kids Be Loud",
+    "url": "https://www.afterbabel.com/p/let-kids-be-loud",
+    "author": "trevin",
+    "date": "2025-07-10",
+    "score": 110,
+    "comments": 118,
+    "id": 44513801,
+    "discussion_url": "https://news.ycombinator.com/item?id=44513801",
+    "description": "Let Kids Be Loud",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482633"
+  },
+  {
+    "title": "Linda Yaccarino is leaving X",
+    "url": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
+    "author": "donohoe",
+    "date": "2025-07-10",
+    "score": 352,
+    "comments": 522,
+    "id": 44510731,
+    "discussion_url": "https://news.ycombinator.com/item?id=44510731",
+    "description": "Linda Yaccarino is leaving X",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482539"
+  },
+  {
+    "title": "Most RESTful APIs aren't really RESTful",
+    "url": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
+    "author": "BerislavLopac",
+    "date": "2025-07-09",
+    "score": 278,
+    "comments": 445,
+    "id": 44507076,
+    "discussion_url": "https://news.ycombinator.com/item?id=44507076",
+    "description": "Most RESTful APIs aren't really RESTful",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482548"
+  },
+  {
+    "title": "Phrase origin: Why do we \"call\" functions?",
+    "url": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+    "author": "todsacerdoti",
+    "date": "2025-07-09",
+    "score": 246,
+    "comments": 170,
+    "id": 44506251,
+    "discussion_url": "https://news.ycombinator.com/item?id=44506251",
+    "description": "Phrase origin: Why do we \"call\" functions?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482570"
+  },
+  {
+    "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
+    "url": "https://github.com/CyberTimon/RapidRAW",
+    "author": "l8rlump",
+    "date": "2025-07-09",
+    "score": 252,
+    "comments": 106,
+    "id": 44505876,
+    "discussion_url": "https://news.ycombinator.com/item?id=44505876",
+    "description": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482595"
+  },
+  {
+    "title": "Ruby 3.4 frozen string literals: What Rails developers need to know",
+    "url": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
+    "author": "thomas_witt",
+    "date": "2025-07-06",
+    "score": 197,
+    "comments": 99,
+    "id": 44479302,
+    "discussion_url": "https://news.ycombinator.com/item?id=44479302",
+    "description": "Ruby 3.4 frozen string literals: What Rails developers need to know",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482488"
+  },
+  {
+    "title": "Show HN: FlopperZiro – A DIY open-source Flipper Zero clone",
+    "url": "https://github.com/lraton/FlopperZiro",
+    "author": "iraton",
+    "date": "2025-07-10",
+    "score": 156,
+    "comments": 45,
+    "id": 44512763,
+    "discussion_url": "https://news.ycombinator.com/item?id=44512763",
+    "description": "Show HN: FlopperZiro – A DIY open-source Flipper Zero clone",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482544"
+  },
+  {
+    "title": "Show HN: OffChess – Offline chess puzzles app",
+    "url": "https://offchess.com",
+    "author": "avadhesh18",
+    "date": "2025-07-08",
+    "score": 348,
+    "comments": 156,
+    "id": 44498296,
+    "discussion_url": "https://news.ycombinator.com/item?id=44498296",
+    "description": "Show HN: OffChess – Offline chess puzzles app",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482682"
+  },
+  {
+    "title": "Tree Borrows",
+    "url": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html",
+    "author": "zdw",
+    "date": "2025-07-10",
+    "score": 391,
+    "comments": 60,
+    "id": 44510600,
+    "discussion_url": "https://news.ycombinator.com/item?id=44510600",
+    "description": "Tree Borrows",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482515"
+  },
+  {
+    "title": "US Court nullifies FTC requirement for click-to-cancel",
+    "url": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
+    "author": "gausswho",
+    "date": "2025-07-09",
+    "score": 531,
+    "comments": 489,
+    "id": 44504699,
+    "discussion_url": "https://news.ycombinator.com/item?id=44504699",
+    "description": "US Court nullifies FTC requirement for click-to-cancel",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482661"
+  },
+  {
+    "title": "Where can I see Hokusai's Great Wave today?",
+    "url": "https://greatwavetoday.com/",
+    "author": "colinprince",
+    "date": "2025-07-09",
+    "score": 127,
+    "comments": 96,
+    "id": 44506117,
+    "discussion_url": "https://news.ycombinator.com/item?id=44506117",
+    "description": "Where can I see Hokusai's Great Wave today?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482657"
+  },
+  {
+    "title": "Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left",
+    "url": "https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443",
+    "author": "gabiteodoru",
+    "date": "2025-07-08",
+    "score": 172,
+    "comments": 119,
+    "id": 44498766,
+    "discussion_url": "https://news.ycombinator.com/item?id=44498766",
+    "description": "Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482616"
+  },
+  {
+    "title": "Zorin OS",
+    "url": "https://zorin.com/os/",
+    "author": "oldfuture",
+    "date": "2025-07-09",
+    "score": 174,
+    "comments": 154,
+    "id": 44501034,
+    "discussion_url": "https://news.ycombinator.com/item?id=44501034",
+    "description": "Zorin OS",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-10T10:20:03.482690"
+  }
+]

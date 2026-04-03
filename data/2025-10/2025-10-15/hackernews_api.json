@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A modern approach to preventing CSRF in Go",
+    "url": "https://www.alexedwards.net/blog/preventing-csrf-in-go",
+    "author": "todsacerdoti",
+    "date": "2025-10-14",
+    "score": 121,
+    "comments": 84,
+    "id": 45581288,
+    "discussion_url": "https://news.ycombinator.com/item?id=45581288",
+    "description": "A modern approach to preventing CSRF in Go",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900367"
+  },
+  {
+    "title": "Apple M5 chip",
+    "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
+    "author": "mihau",
+    "date": "2025-10-15",
+    "score": 701,
+    "comments": 725,
+    "id": 45591799,
+    "discussion_url": "https://news.ycombinator.com/item?id=45591799",
+    "description": "Apple M5 chip",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900235"
+  },
+  {
+    "title": "Apple Vision Pro upgraded with M5 chip",
+    "url": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
+    "author": "mihau",
+    "date": "2025-10-15",
+    "score": 220,
+    "comments": 275,
+    "id": 45591801,
+    "discussion_url": "https://news.ycombinator.com/item?id=45591801",
+    "description": "Apple Vision Pro upgraded with M5 chip",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900294"
+  },
+  {
+    "title": "Beliefs that are true for regular software but false when applied to AI",
+    "url": "https://boydkane.com/essays/boss",
+    "author": "beyarkay",
+    "date": "2025-10-14",
+    "score": 492,
+    "comments": 374,
+    "id": 45583180,
+    "discussion_url": "https://news.ycombinator.com/item?id=45583180",
+    "description": "Beliefs that are true for regular software but false when applied to AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900415"
+  },
+  {
+    "title": "Bots are getting good at mimicking engagement",
+    "url": "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake",
+    "author": "simul007",
+    "date": "2025-10-15",
+    "score": 291,
+    "comments": 217,
+    "id": 45590681,
+    "discussion_url": "https://news.ycombinator.com/item?id=45590681",
+    "description": "Bots are getting good at mimicking engagement",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900184"
+  },
+  {
+    "title": "Claude Haiku 4.5",
+    "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+    "author": "adocomplete",
+    "date": "2025-10-15",
+    "score": 204,
+    "comments": 71,
+    "id": 45595403,
+    "discussion_url": "https://news.ycombinator.com/item?id=45595403",
+    "description": "Claude Haiku 4.5",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900249"
+  },
+  {
+    "title": "DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia",
+    "url": "https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html",
+    "author": "pseudolus",
+    "date": "2025-10-14",
+    "score": 330,
+    "comments": 323,
+    "id": 45580981,
+    "discussion_url": "https://news.ycombinator.com/item?id=45580981",
+    "description": "DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900306"
+  },
+  {
+    "title": "FSF announces Librephone project",
+    "url": "https://www.fsf.org/news/librephone-project",
+    "author": "g-b-r",
+    "date": "2025-10-14",
+    "score": 1310,
+    "comments": 523,
+    "id": 45586339,
+    "discussion_url": "https://news.ycombinator.com/item?id=45586339",
+    "description": "FSF announces Librephone project",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900226"
+  },
+  {
+    "title": "Hacking the Humane AI Pin",
+    "url": "https://writings.agg.im/posts/hacking_ai_pin/",
+    "author": "agg23",
+    "date": "2025-10-08",
+    "score": 172,
+    "comments": 41,
+    "id": 45515915,
+    "discussion_url": "https://news.ycombinator.com/item?id=45515915",
+    "description": "Hacking the Humane AI Pin",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900407"
+  },
+  {
+    "title": "I almost got hacked by a 'job interview'",
+    "url": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview",
+    "author": "DavidDodda",
+    "date": "2025-10-15",
+    "score": 397,
+    "comments": 207,
+    "id": 45591707,
+    "discussion_url": "https://news.ycombinator.com/item?id=45591707",
+    "description": "I almost got hacked by a 'job interview'",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900281"
+  },
+  {
+    "title": "Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM",
+    "url": "https://www.phoronix.com/review/intel-crescent-island",
+    "author": "wrigby",
+    "date": "2025-10-14",
+    "score": 159,
+    "comments": 111,
+    "id": 45583243,
+    "discussion_url": "https://news.ycombinator.com/item?id=45583243",
+    "description": "Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900383"
+  },
+  {
+    "title": "Interviewing Intel's Chief Architect of x86 Cores",
+    "url": "https://chipsandcheese.com/p/interviewing-intels-chief-architect",
+    "author": "ryandotsmith",
+    "date": "2025-10-09",
+    "score": 129,
+    "comments": 22,
+    "id": 45529534,
+    "discussion_url": "https://news.ycombinator.com/item?id=45529534",
+    "description": "Interviewing Intel's Chief Architect of x86 Cores",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900375"
+  },
+  {
+    "title": "Ireland is making basic income for artists program permanent",
+    "url": "https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/",
+    "author": "rbanffy",
+    "date": "2025-10-15",
+    "score": 383,
+    "comments": 394,
+    "id": 45590900,
+    "discussion_url": "https://news.ycombinator.com/item?id=45590900",
+    "description": "Ireland is making basic income for artists program permanent",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900298"
+  },
+  {
+    "title": "Just talk to it – A way of agentic engineering",
+    "url": "https://steipete.me/posts/just-talk-to-it",
+    "author": "freediver",
+    "date": "2025-10-15",
+    "score": 132,
+    "comments": 74,
+    "id": 45588689,
+    "discussion_url": "https://news.ycombinator.com/item?id=45588689",
+    "description": "Just talk to it – A way of agentic engineering",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900231"
+  },
+  {
+    "title": "Leaving serverless led to performance improvement and a simplified architecture",
+    "url": "https://www.unkey.com/blog/serverless-exit",
+    "author": "vednig",
+    "date": "2025-10-15",
+    "score": 200,
+    "comments": 141,
+    "id": 45590756,
+    "discussion_url": "https://news.ycombinator.com/item?id=45590756",
+    "description": "Leaving serverless led to performance improvement and a simplified architecture",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900253"
+  },
+  {
+    "title": "M5 MacBook Pro",
+    "url": "https://www.apple.com/macbook-pro/",
+    "author": "tambourine_man",
+    "date": "2025-10-15",
+    "score": 221,
+    "comments": 264,
+    "id": 45591902,
+    "discussion_url": "https://news.ycombinator.com/item?id=45591902",
+    "description": "M5 MacBook Pro",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900314"
+  },
+  {
+    "title": "Mac Source Ports – Run old games on new Macs",
+    "url": "https://www.macsourceports.com/",
+    "author": "stared",
+    "date": "2025-10-15",
+    "score": 128,
+    "comments": 51,
+    "id": 45591865,
+    "discussion_url": "https://news.ycombinator.com/item?id=45591865",
+    "description": "Mac Source Ports – Run old games on new Macs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900244"
+  },
+  {
+    "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
+    "url": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
+    "author": "GavinAnderegg",
+    "date": "2025-10-15",
+    "score": 164,
+    "comments": 96,
+    "id": 45586776,
+    "discussion_url": "https://news.ycombinator.com/item?id=45586776",
+    "description": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900371"
+  },
+  {
+    "title": "Pixnapping Attack",
+    "url": "https://www.pixnapping.com/",
+    "author": "kevcampb",
+    "date": "2025-10-15",
+    "score": 261,
+    "comments": 61,
+    "id": 45588594,
+    "discussion_url": "https://news.ycombinator.com/item?id=45588594",
+    "description": "Pixnapping Attack",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900189"
+  },
+  {
+    "title": "Pwning the Nix ecosystem",
+    "url": "https://ptrpa.ws/nixpkgs-actions-abuse",
+    "author": "SuperShibe",
+    "date": "2025-10-15",
+    "score": 181,
+    "comments": 27,
+    "id": 45592401,
+    "discussion_url": "https://news.ycombinator.com/item?id=45592401",
+    "description": "Pwning the Nix ecosystem",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900257"
+  },
+  {
+    "title": "Show HN: Firm, a text-based work management system",
+    "url": "https://github.com/42futures/firm",
+    "author": "danielrothmann",
+    "date": "2025-10-15",
+    "score": 126,
+    "comments": 49,
+    "id": 45588959,
+    "discussion_url": "https://news.ycombinator.com/item?id=45588959",
+    "description": "Show HN: Firm, a text-based work management system",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900319"
+  },
+  {
+    "title": "Show HN: Halloy – Modern IRC client",
+    "url": "https://github.com/squidowl/halloy",
+    "author": "culinary-robot",
+    "date": "2025-10-15",
+    "score": 192,
+    "comments": 61,
+    "id": 45590949,
+    "discussion_url": "https://news.ycombinator.com/item?id=45590949",
+    "description": "Show HN: Halloy – Modern IRC client",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900277"
+  },
+  {
+    "title": "Show HN: Scriber Pro – Offline AI transcription for macOS",
+    "url": "https://scriberpro.cc/hn/",
+    "author": "rezivor",
+    "date": "2025-10-15",
+    "score": 105,
+    "comments": 98,
+    "id": 45591222,
+    "discussion_url": "https://news.ycombinator.com/item?id=45591222",
+    "description": "Show HN: Scriber Pro – Offline AI transcription for macOS",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900334"
+  },
+  {
+    "title": "Surveillance data challenges what we thought we knew about location tracking",
+    "url": "https://www.lighthousereports.com/investigation/surveillance-secrets/",
+    "author": "_tk_",
+    "date": "2025-10-14",
+    "score": 446,
+    "comments": 126,
+    "id": 45584498,
+    "discussion_url": "https://news.ycombinator.com/item?id=45584498",
+    "description": "Surveillance data challenges what we thought we knew about location tracking",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900438"
+  },
+  {
+    "title": "The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps",
+    "url": "https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/",
+    "author": "XzetaU8",
+    "date": "2025-10-08",
+    "score": 95,
+    "comments": 32,
+    "id": 45512538,
+    "discussion_url": "https://news.ycombinator.com/item?id=45512538",
+    "description": "The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900338"
+  },
+  {
+    "title": "Unpacking Cloudflare Workers CPU Performance Benchmarks",
+    "url": "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/",
+    "author": "makepanic",
+    "date": "2025-10-14",
+    "score": 293,
+    "comments": 69,
+    "id": 45584281,
+    "discussion_url": "https://news.ycombinator.com/item?id=45584281",
+    "description": "Unpacking Cloudflare Workers CPU Performance Benchmarks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900379"
+  },
+  {
+    "title": "What Americans die from vs. what the news reports on",
+    "url": "https://ourworldindata.org/does-the-news-reflect-what-we-die-from",
+    "author": "alphabetatango",
+    "date": "2025-10-14",
+    "score": 641,
+    "comments": 438,
+    "id": 45583336,
+    "discussion_url": "https://news.ycombinator.com/item?id=45583336",
+    "description": "What Americans die from vs. what the news reports on",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900423"
+  },
+  {
+    "title": "Why Is SQLite Coded In C",
+    "url": "https://www.sqlite.org/whyc.html",
+    "author": "plainOldText",
+    "date": "2025-10-14",
+    "score": 304,
+    "comments": 319,
+    "id": 45584464,
+    "discussion_url": "https://news.ycombinator.com/item?id=45584464",
+    "description": "Why Is SQLite Coded In C",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900419"
+  },
+  {
+    "title": "Zoo of array languages",
+    "url": "https://ktye.github.io/",
+    "author": "mpweiher",
+    "date": "2025-10-14",
+    "score": 168,
+    "comments": 59,
+    "id": 45578540,
+    "discussion_url": "https://news.ycombinator.com/item?id=45578540",
+    "description": "Zoo of array languages",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900434"
+  },
+  {
+    "title": "iPad Pro with M5 chip",
+    "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
+    "author": "chasingbrains",
+    "date": "2025-10-15",
+    "score": 162,
+    "comments": 185,
+    "id": 45591905,
+    "discussion_url": "https://news.ycombinator.com/item?id=45591905",
+    "description": "iPad Pro with M5 chip",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-10-15T19:08:09.900204"
+  }
+]

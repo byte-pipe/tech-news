@@ -1,0 +1,138 @@
+---
+title: 'Visa and Mastercard: The Global Payment Duopoly'
+url: https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly
+site_name: hackernews_api
+fetched_at: '2025-07-25T19:07:31.011278'
+original_url: https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly
+author: bilekas
+date: '2025-07-25'
+published_date: '2025-05-26T07:24:56.069Z'
+description: Explore one of the world's largest and most discussed duopolies, from the origins of the credit card to its combined market value of $850 billion.
+tags:
+- hackernews
+- trending
+---
+
+* Insights
+* Visa and Mastercard: The Global Payment Duopoly
+
+# Visa and Mastercard: The Global Payment Duopoly
+
+1
+ minutes reading time
+Published
+
+1 Mar 2024
+Author:
+Peter Westberg
+Reviewed by:
+
+Kasper Karlsson
+Updated
+
+26 May 2025
+
+The global payments processing market is dominated by two major players: Visa and Mastercard. These two companies account for 90% of all payment processing outside of China and have a combined market value of approximately $850 billion. How is it possible that, in the era of global competition, such a large market niche is completely dominated by only two players? Let's explore this in-depth and examine the increasing challenges they face in protecting their market positions.
+
+## Key Insights
+
+* Dominant market share:Visa and Mastercard control approximately 90% of all payment processing outside of China, showcasing a significant duopoly in the global payments processing market with a combined market value of around $850 billion.
+* Historical foundations:The origins of the credit card industry trace back to the 1950s with companies like Diners Club and American Express pioneering the space. Visa and Mastercard emerged from major American banks, leveraging first-mover advantages and restrictive contracts to solidify their market position.
+* Competitive advantages:The analogy of payment processing to railroads highlights their control over digital transactions, benefiting from network effects, scalability, and distribution through major banks.
+* Challenges to the duopoly:Recent years have seen challenges to their dominance, from major companies like Amazon negotiating for lower fees, to the rise of national payment processors like RuPay in India.
+
+## Historical Context: Origins of the Credit Card
+
+In 1950, Diners Club issued the first modern credit card to exist, representing the type of cards familiar to us today. Seeing its success, a range of large financial institutions and other companies in America began issuing their own form of credit cards.
+
+In 1958,American Expressemerged as one of the first major players to issue its own charge cards. Public interest was so substantial that American Express had already issued 250,000 of its cards before the official launch date, despite the card's high annual fee of $6 at the time ($64 inflation-adjusted).Bank of Americaentered the credit card arena in the same year, introducing a product that was initially exclusive to California. In 1966, Bank of America's card began to be licensed for use in other states, and the name of this business was changed toVisa. It was spun off as an independent corporation in 1976.
+
+The same year that Bank of America launched Visa, in 1966, a consortium of competitors established the Interbank Card Association (ICA), which would ultimately introduce Master Charge shortly after, which saw a name change toMastercardin 1979. Today, Mastercard and Visa are the two biggest credit card networks globally, controlling roughly 90% of the payment processing market outside of China. Due to their duopoly and scalable underlying business models, Visa and Mastercard boast the highest operating margins among all companies in the S&P 500, with 67% and 57% respectively in 2023.
+
+## How Visa and Mastercard Came to Dominate
+
+Since debit and credit cards originated in America, Visa and MasterCard had a head start from a global perspective, both being founded in 1966. However, as previously mentioned, Diners Club issued its first credit card in 1950, followed by American Express, which pivoted to credit cards in 1958. American Express issued the first plastic credit card in 1959, and the magnetic stripes were developed byIBM.
+
+This radical shift by American Express, which originated as a transportation and currency exchange company in 1850, was a response to the changing needs of post-war America. During this era, consumerism was on the rise, and a growing middle class with an increasing disposable income. The American Express card, initially a paper card with an annual fee, allowed cardholders to make purchases on credit and settle their bills at the end of each month.
+
+The American Express Card revolutionized the payment landscape, fostering a shift from cash and checks to electronic payments. Consequently, American Express can be considered the true pioneer and first-mover in the credit card and payment processing space. Despite this, Visa and Mastercard would subsequently come to dominate almost the entire market.
+
+In response to the success of American Express, Visa and Mastercard were born out of the major banks in America, arguably the most crucial variable in the creation of this global duopoly. For a long time, Mastercard and Visa used restrictive contracts to their advantage. Merchants were therefore left with no choice but to deal with these companies due to the lack of viable alternatives. To prevent competitors from expanding, the banks who held influence over Visa and MasterCard also refused issuing cards from other networks (such as American Express), and merchants from accepting them.
+
+In response to these unfair business practices, American Express sued MasterCard and Visa for monopolistic practices and won. As a result, the duopoly was required to cease the aforementioned restrictive practices. However, these regulations served merely as a delaying tactic. While the lawsuit was proceeding, MasterCard and Visa further consolidated their market dominance. By this point, their already substantial size had initiated the flywheel effect of network advantages, and the continued support from America's largest financial institutions made breaking the duopoly very challenging.
+
+## The Debit Card Network
+
+Debit card payments are essential for most of us. According to the Federal Reserve, over 100 billion debit card payments were made in 2021, compared to 51 billion credit card payments. In terms of transaction value, debit cards processed $4.6 trillion, while credit cards reached $4.9 trillion, indicating that credit transactions tend to be about double in average value.
+
+In the U.S., Visa and Mastercard dominate the debit card market, handling 60% and 25% of all debit transactions, respectively. The fee structure is complex, varying by region, PIN use, card presence, number of merchant locations, and transaction volume. However, Visa and Mastercard take a cut each time a transaction runs through their networks. A visualization of the debit card network:
+
+The debit card network visualized
+The debit card network visualized
+
+## Business Model and Competitive Advantages
+
+To truly understand the power of Visa and Mastercard's business models, it's important to note their revenue sources and how the value chain works regarding payment processing. They do not issue cards themselves or set interest rates; instead, they provide networks for electronic payments involving merchants, banks, and consumers. Their revenues stem from transaction processing fees and services offered to financial institutions.
+
+The best way to describe payment processing is as a digital counterpart to railroads. Just as goods cannot be transported by train without railroads, giving railroad owners significant control over transportation, so too do payment processors control digital transactions. If a new entity were to start building railroads, the costs would be prohibitive. Initial investments would yield little return, as a single railroad in, for example, Texas, would offer limited value if not connected to a broader network across America. The same applies to payment processing.
+
+Network effects describe a phenomenon where a product or service becomes more valuable as its user base grows. This concept is essential in understanding the dynamics of many businesses and technologies, especially in the digital age, and is particularly relevant to the Visa-Mastercard duopoly. Essentially, as Visa or Mastercard adds another bank to its payment network, its value to merchants increases, and the same is true in reverse. This creates a virtuous cycle, making Visa and Mastercard increasingly difficult to compete with as they expand.
+
+MasterCard and Visa, with their large base of users and merchants, thus find themselves in a secure position. Consequently, American Express, their arguably closest competitor, has been forced to expand its payment network in alternative ways. These include offering loyalty points, with the hope that increasing its user base will encourage more merchants to accept its card.
+
+Moreover, the power of payment processing from a competitive perspective is significantly enhanced by its distribution. Beyond relying on size (network) and first-mover advantages, Visa and Mastercard have gained immense benefits by having major banks serve as distributors of their cards – a relationship that persists to this day. This means that the banks, which initially controlled Visa and Mastercard, ensured that these networks became the exclusive options available to merchants.
+
+Additionally, payment processing is remarkably scalable: more transactions over their networks result in increased revenue without a proportional increase in costs. This scalability, combined with network effects and distribution advantages, arguably constitutes the three most crucial aspects of creating this duopoly, which is among the largest globally.
+
+Further reading:The Payments Value Chain: A Complex Ecosystem
+
+Join 100,000+ other business enthusiasts
+
+Sign up for Edge, our free bi-weekly newsletter.
+
+* Sign up
+
+## Breaking the Duopoly
+
+Since the early days of payment processing in the 1970s and 1980s, various entities have attempted to persuade regulators to break the Visa-Mastercard duopoly, albeit without success. As of 2024, this issue is arguably more contentious than ever.
+
+For example,Amazonrecently announced its decision to stop accepting Visa's UK credit cards, a move that appears to be an attempt to negotiate lower transaction fees. This kind of frustration among merchants is not uncommon; major retailers such asWalmart,Costco, and others have long advocated, sometimes successfully, for better terms.
+
+However, the Amazon situation is arguably unique. As a company valued at $1.6 trillion and accounting for 40% of U.S. e-commerce sales, according to eMarketer, Amazon should have significant leverage over payment networks. Its global presence further complicates matters for Visa and Mastercard. If they reduce fees to satisfy Amazon and Walmart, they risk upsetting banking clients such as JPMorgan Chase and Bank of America, who in part rely on these fees to fund credit card rewards.
+
+Moreover, the Indian government has launched a payment processing company called RuPay. Within a short span of five to six years, RuPay has become the largest issuer of debit cards in India by volume, and is thus on the verge of surpassing Visa and MasterCard. This small scare in just one market caused MasterCard and Visa to complain to the American government. They believe that the Indian government is needlessly favoring RuPay, creating a hostile environment for other companies.
+
+Firstly, it should be understood that RuPay is not the first payment processor backed by a national government. There are many examples. For instance, JCB is supported by Japan, Alpha card by the Russian government, and Aurora by Brazil. Since many countries are making efforts to break the Visa-MasterCard duopoly, there must be underlying issues. The primary concern is the high fee these companies charge for transaction processing, which becomes possible due to the lack of competition.
+
+Visa and MasterCard typically charge a percentage of the sales amount to the merchant. In contrast, RuPay in India charges a nominal flat fee. There appears to be little justification for the substantial fees charged by Visa and MasterCard. This practice of market skimming is also why they have complained to the American government. If national payment processors are allowed to flourish, over time, all merchants might migrate to their networks due to the significant cost savings.
+
+Another significant threat is the potential for new fintech players to bypass traditional payment networks entirely. Digital wallet services such asPayPalandBlock, formerly known as Square, enable consumers to make direct payments to merchants through bank transfers. These digital wallets, includingApple Pay, collectively account for roughly one-third of e-commerce transactions across North America and Europe, as reported by Worldpay.
+
+It's worth noting that consumers often link their cards to these digital wallets rather than conducting direct bank transfers, which still involve Visa and Mastercard in the payment process. However, this dynamic could evolve over time. In China, dominant players likeAlipayandWeChat Payhave successfully connected merchants and consumers directly.
+
+Furthermore, the emergence of fast-growing "buy-now-pay-later" companies likeKlarnaandAffirmprovides shoppers with the option to split their purchases into monthly installments. This poses a direct threat to credit cards.
+
+## Future Outlook
+
+The Visa-Mastercard duopoly has played a vital role in digitizing payments but also raises questions about stifling competition, a common concern with monopolies and duopolies. With increasing regulatory scrutiny, they might face changes in their business practices or encounter a more competitive market environment.
+
+In summary, Visa and Mastercard's control over payment processing represents a complex interplay of historical development, strategic business practices, technological innovation, and regulatory engagement. Their continued dominance hinges on adapting to new technologies, navigating regulatory shifts, and responding to market dynamics. The future of payment processing will likely be significantly influenced by how regulators address ongoing and future issues related to the duopoly.
+
+### Have you tried the Quartr mobile app?
+
+Get free access to live earnings calls, transcripts, analyst estimates, and more
+
+* Get the app
+Related articles
+The Boeing-Airbus Duopoly: Titans of the Skies
+Dive into the fascinating history and competitive dynamics of the Boeing-Airbus duopoly in the commercial aircraft industry.
+2024-03-19
+The Coca-Cola and Pepsi Duopoly: The Secret Ingredients
+Dive into the iconic rivalry between Coca-Cola and Pepsi, the two behemoths of the soft drink industry, and their primary competitive strengths.
+2024-03-18
+Monopolies and Duopolies: Competition is for Losers?
+Explore Peter Thiel's view on why monopolies lead to success and examine the world's top monopolies and duopolies.
+2024-02-27
+Klarna's Journey from Stockholm to Wall Street: The Road to an IPO
+Explore Klarna's journey from a 2005 startup to a fintech giant, its innovative business model, and the upcoming 2025 IPO.
+2024-02-23

@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A CT scanner reveals surprises inside the 386 processor's ceramic package",
+    "url": "https://www.righto.com/2025/08/intel-386-package-ct-scan.html",
+    "author": "robin_reala",
+    "date": "2025-08-10",
+    "points": "182",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44848293"
+  },
+  {
+    "title": "A Simple CPU on the Game of Life (2021)",
+    "url": "https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html",
+    "author": "jxmorris12",
+    "date": "2025-08-10",
+    "points": "40",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44813175"
+  },
+  {
+    "title": "Abusing Entra OAuth for fun and access to internal Microsoft applications",
+    "url": "https://research.eye.security/consent-and-compromise/",
+    "author": "the1bernard",
+    "date": "2025-08-10",
+    "points": "110",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44850681"
+  },
+  {
+    "title": "An AI-first program synthesis framework built around a new programming language",
+    "url": "https://queue.acm.org/detail.cfm?id=3746223",
+    "author": "tosh",
+    "date": "2025-08-10",
+    "points": "70",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44847334"
+  },
+  {
+    "title": "An engineer's perspective on hiring",
+    "url": "https://jyn.dev/an-engineers-perspective-on-hiring",
+    "author": "pabs3",
+    "date": "2025-08-10",
+    "points": "72",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44845251"
+  },
+  {
+    "title": "Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API",
+    "url": "https://ch.at/",
+    "author": "ownlife",
+    "date": "2025-08-10",
+    "points": "105",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44849129"
+  },
+  {
+    "title": "Consistency over Availability: How rqlite Handles the CAP theorem",
+    "url": "https://philipotoole.com/consistency-over-availability-how-rqlite-handles-the-cap-theorem/",
+    "author": "otoolep",
+    "date": "2025-08-10",
+    "points": "29",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44814587"
+  },
+  {
+    "title": "Curious about the training data of OpenAI's new GPT-OSS models? I was too",
+    "url": "https://twitter.com/jxmnop/status/1953899426075816164",
+    "author": "flabber",
+    "date": "2025-08-10",
+    "points": "8",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44850260"
+  },
+  {
+    "title": "Debian 13 \"Trixie\"",
+    "url": "https://www.debian.org/News/2025/20250809",
+    "author": "ducktective",
+    "date": "2025-08-10",
+    "points": "565",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44848782"
+  },
+  {
+    "title": "Did California's fast food minimum wage reduce employment?",
+    "url": "https://www.nber.org/papers/w34033",
+    "author": "lxm",
+    "date": "2025-08-10",
+    "points": "95",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44845273"
+  },
+  {
+    "title": "Don't “let it crash”, let it heal",
+    "url": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
+    "author": "ahamez",
+    "date": "2025-08-10",
+    "points": "43",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44810890"
+  },
+  {
+    "title": "ESP32 Bus Pirate 0.5 – A hardware hacking tool that speaks every protocol",
+    "url": "https://github.com/geo-tp/ESP32-Bus-Pirate",
+    "author": "geo-tp",
+    "date": "2025-08-10",
+    "points": "113",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44847001"
+  },
+  {
+    "title": "GPTs and Feeling Left Behind",
+    "url": "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/",
+    "author": "Bogdanp",
+    "date": "2025-08-10",
+    "points": "77",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44851214"
+  },
+  {
+    "title": "Happy BuyNothing Day",
+    "url": "https://justbuynothing.com/",
+    "author": "Improvement",
+    "date": "2025-08-10",
+    "points": "150",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44851590"
+  },
+  {
+    "title": "How I code with AI on a budget/free",
+    "url": "https://wuu73.org/blog/aiguide1.html",
+    "author": "indigodaddy",
+    "date": "2025-08-10",
+    "points": "126",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44850913"
+  },
+  {
+    "title": "How I use Tailscale",
+    "url": "https://chameth.com/how-i-use-tailscale/",
+    "author": "aquariusDue",
+    "date": "2025-08-10",
+    "points": "205",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44809166"
+  },
+  {
+    "title": "Installing a mini-split AC in a Brooklyn apartment",
+    "url": "https://probablydance.com/2025/08/04/installing-a-mini-split-ac-in-a-brooklyn-apartment/",
+    "author": "ibobev",
+    "date": "2025-08-10",
+    "points": "68",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44810047"
+  },
+  {
+    "title": "Long-term exposure to outdoor air pollution linked to increased risk of dementia",
+    "url": "https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia",
+    "author": "hhs",
+    "date": "2025-08-10",
+    "points": "258",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44846164"
+  },
+  {
+    "title": "MCP overlooks hard-won lessons from distributed systems",
+    "url": "https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b",
+    "author": "yodon",
+    "date": "2025-08-10",
+    "points": "281",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44846871"
+  },
+  {
+    "title": "My Lethal Trifecta talk at the Bay Area AI Security Meetup",
+    "url": "https://simonwillison.net/2025/Aug/9/bay-area-ai/",
+    "author": "vismit2000",
+    "date": "2025-08-10",
+    "points": "295",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44846922"
+  },
+  {
+    "title": "OpenFreeMap survived 100k requests per second",
+    "url": "https://blog.hyperknot.com/p/openfreemap-survived-100000-requests",
+    "author": "hyperknot",
+    "date": "2025-08-10",
+    "points": "388",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44846318"
+  },
+  {
+    "title": "People returned to live in Pompeii's ruins, archaeologists say",
+    "url": "https://www.bbc.com/news/articles/c62wx23y2v1o",
+    "author": "bookofjoe",
+    "date": "2025-08-10",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44824088"
+  },
+  {
+    "title": "Quickshell – building blocks for your desktop",
+    "url": "https://quickshell.org/",
+    "author": "abhinavk",
+    "date": "2025-08-10",
+    "points": "258",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44800048"
+  },
+  {
+    "title": "R0ML's Ratio",
+    "url": "https://blog.glyph.im/2025/08/r0mls-ratio.html",
+    "author": "zdw",
+    "date": "2025-08-10",
+    "points": "46",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44845957"
+  },
+  {
+    "title": "Ratfactor's illustrated guide to folding fitted sheets",
+    "url": "https://ratfactor.com/cards/fitted-sheets",
+    "author": "zdw",
+    "date": "2025-08-10",
+    "points": "145",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44845839"
+  },
+  {
+    "title": "Show HN: The current sky at your approximate location, as a CSS gradient",
+    "url": "https://sky.dlazaro.ca",
+    "author": "dlazaro",
+    "date": "2025-08-10",
+    "points": "573",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44846281"
+  },
+  {
+    "title": "Stanford to continue legacy admissions and withdraw from Cal Grants",
+    "url": "https://www.forbes.com/sites/michaeltnietzel/2025/08/08/stanford-to-continue-legacy-admissions-and-withdraw-from-cal-grants/",
+    "author": "hhs",
+    "date": "2025-08-10",
+    "points": "179",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44846130"
+  },
+  {
+    "title": "Suzhou Imperial Kiln Ruins Park and Museum of Imperial Kiln Brick (2018)",
+    "url": "https://www.theplan.it/eng/award-2018-Culture/suzhou-imperial-kiln-ruins-park-museum-of-imperial-kiln-brick-1",
+    "author": "mooreds",
+    "date": "2025-08-10",
+    "points": "4",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44810565"
+  },
+  {
+    "title": "Testing Bitchat at the music festival",
+    "url": "https://primal.net/saunter/testing-bitchat-at-the-music-festival",
+    "author": "alexcos",
+    "date": "2025-08-10",
+    "points": "83",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44815164"
+  },
+  {
+    "title": "Who got arrested in the raid on the XSS crime forum?",
+    "url": "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/",
+    "author": "todsacerdoti",
+    "date": "2025-08-10",
+    "points": "72",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44810945"
+  }
+]

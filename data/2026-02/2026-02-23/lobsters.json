@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Accessibility Is Civil Rights. AI Must Stop Shipping Barriers",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "a11y, vibecoding",
+    "url": "https://conesible.de/wab/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Are Compilers Deterministic?",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "compilers, vibecoding",
+    "url": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Back to FreeBSD: Part 1",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "freebsd",
+    "url": "https://hypha.pub/back-to-freebsd-part-1",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "CSLib: The Lean Computer Science Library",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "formalmethods",
+    "url": "https://arxiv.org/abs/2602.04846",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Cosmologically Unique IDs",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "distributed",
+    "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Drowse: Nix dynamic derivations made easy",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "nix",
+    "url": "https://github.com/figsoda/drowse",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Fix your tools",
+    "author": "",
+    "score": "44",
+    "comments": "0",
+    "tags": "debugging, programming",
+    "url": "https://ochagavia.nl/blog/fix-your-tools/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "HTTP/3 on FreeBSD: Getting QUIC Working with nginx in a Bastille Jail",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "freebsd",
+    "url": "https://blog.hofstede.it/http3-on-freebsd-getting-quic-working-with-nginx-in-a-bastille-jail/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "How We Fixed YAML Comment Preservation in Ruby (And Why We Sponsored It)",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "ruby",
+    "url": "https://blog.discourse.org/2026/02/how-we-fixed-yaml-comment-preservation-in-ruby-and-why-we-sponsored-it/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "How and Why Local LLMs Perform On Framework 13 AMD Strix Point",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "hardware, testing, vibecoding",
+    "url": "https://msf.github.io/blogpost/local-llm-performance-framework13.html",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "IPv6 address assignment",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "networking",
+    "url": "https://lpar.ATH0.com/posts/2026/02/ipv6-address-assignment/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Intent - The developer workspace for agent orchestration",
+    "author": "",
+    "score": "0",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.augmentcode.com/product/intent",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Lobsters Interview with steveklabnik",
+    "author": "",
+    "score": "97",
+    "comments": "0",
+    "tags": "interview, person, vibecoding",
+    "url": "https://alexalejandre.com/programming/steve-klabnik-interview/",
+    "date": "2026-02-23",
+    "description": "☶"
+  },
+  {
+    "title": "Loon — A LISP that flies",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "lisp, vibecoding, wasm",
+    "url": "https://loonlang.com",
+    "date": "2026-02-23",
+    "description": "☶"
+  },
+  {
+    "title": "Parse, Don’t Validate AKA Some C Safety Tips",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "c",
+    "url": "https://www.lelanthran.com/chap13/content.html",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Parse, don't Validate and Type-Driven Design in Rust",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Proposal: add \"AI generated\" as a flag reason",
+    "author": "",
+    "score": "240",
+    "comments": "0",
+    "tags": "meta",
+    "url": "https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason",
+    "date": "2026-02-23",
+    "description": "☶"
+  },
+  {
+    "title": "The Fastest Way to Board an Airplane",
+    "author": "",
+    "score": "78",
+    "comments": "0",
+    "tags": "visualization",
+    "url": "https://navendu.me/posts/airlines-hate-this-trick/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "The Four-Color Theorem 1852–1976",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "math",
+    "url": "https://www.ams.org/journals/notices/202603/noti3305/noti3305.html",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Velocity Is Dead: AI-Generated Compilers and the Future of Software",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.openhands.dev/blog/20260219-velocity-is-dead",
+    "date": "2026-02-23",
+    "description": "☶"
+  },
+  {
+    "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://quesma.com/blog/introducing-binaryaudit/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Wikipedia blacklists Archive.today, starts removing 695,000 archive links",
+    "author": "",
+    "score": "66",
+    "comments": "0",
+    "tags": "culture",
+    "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "You are not left behind",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "practices, vibecoding",
+    "url": "https://www.ufried.com/blog/not_left_behind/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "cl-kawa: A Turducken of Programming Languages",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "java, lisp, vibecoding",
+    "url": "https://atgreen.github.io/repl-yell/posts/cl-kawa/",
+    "date": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "lobste.rs migrates from MariaDB to SQLite",
+    "author": "",
+    "score": "135",
+    "comments": "0",
+    "tags": "databases, meta",
+    "url": "https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite",
+    "date": "2026-02-23",
+    "description": "☶"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "title": "200k Flemish drivers can turn traffic lights green",
+    "url": "https://www.vrt.be/vrtnws/en/2025/07/24/200-000-flemish-drivers-can-turn-traffic-lights-green-but-waze/",
+    "author": "svenfaw",
+    "date": "2025-07-29",
+    "points": "54",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44670885"
+  },
+  {
+    "title": "A Photonic SRAM with Embedded XOR Logic for Ultra-Fast In-Memory Computing",
+    "url": "https://arxiv.org/abs/2506.22707",
+    "author": "PaulHoule",
+    "date": "2025-07-29",
+    "points": "20",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44675438"
+  },
+  {
+    "title": "AI Companion Piece",
+    "url": "https://thezvi.substack.com/p/ai-companion-piece",
+    "author": "jsnider3",
+    "date": "2025-07-29",
+    "points": "3",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44711075"
+  },
+  {
+    "title": "Ask HN: What are you working on? (July 2025)",
+    "url": "https://news.ycombinator.com/item?id=44702833",
+    "author": "david927",
+    "date": "2025-07-29",
+    "points": "225",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44702833"
+  },
+  {
+    "title": "Blender: Beyond Mouse and Keyboard",
+    "url": "https://code.blender.org/2025/07/beyond-mouse-keyboard/",
+    "author": "dagmx",
+    "date": "2025-07-29",
+    "points": "218",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44671802"
+  },
+  {
+    "title": "Claude Code Router",
+    "url": "https://github.com/musistudio/claude-code-router",
+    "author": "y1n0",
+    "date": "2025-07-29",
+    "points": "118",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44705958"
+  },
+  {
+    "title": "Copyparty, turn almost any device into a file server",
+    "url": "https://github.com/9001/copyparty",
+    "author": "saint11",
+    "date": "2025-07-29",
+    "points": "4",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44711519"
+  },
+  {
+    "title": "Debian switches to 64-bit time for everything",
+    "url": "https://www.theregister.com/2025/07/25/y2k38_bug_debian/",
+    "author": "pseudolus",
+    "date": "2025-07-29",
+    "points": "218",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44709408"
+  },
+  {
+    "title": "Dumb Pipe",
+    "url": "https://www.dumbpipe.dev/",
+    "author": "udev4096",
+    "date": "2025-07-29",
+    "points": "866",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44701555"
+  },
+  {
+    "title": "Enough AI copilots, we need AI HUDs",
+    "url": "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds",
+    "author": "walterbell",
+    "date": "2025-07-29",
+    "points": "632",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44705445"
+  },
+  {
+    "title": "Getting the KIM-1 to talk to my Mac",
+    "url": "https://blog.jgc.org/2025/02/getting-kim-1-to-talk-to-my-mac.html",
+    "author": "jgrahamc",
+    "date": "2025-07-29",
+    "points": "9",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44684055"
+  },
+  {
+    "title": "How I fixed my blog's performance issues by writing a new Jekyll plugin",
+    "url": "https://arclight.run/how-i-fixed-my-blogs-performance-issues-by-writing-a-new-jekyll-plugin-jekyll-skyhook/",
+    "author": "arclight_",
+    "date": "2025-07-29",
+    "points": "63",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44675053"
+  },
+  {
+    "title": "I hacked my washing machine",
+    "url": "https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/",
+    "author": "JadedBlueEyes",
+    "date": "2025-07-29",
+    "points": "300",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44704270"
+  },
+  {
+    "title": "LLM Embeddings Explained: A Visual and Intuitive Guide",
+    "url": "https://huggingface.co/spaces/hesamation/primer-llm-embedding",
+    "author": "eric-burel",
+    "date": "2025-07-29",
+    "points": "255",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44708028"
+  },
+  {
+    "title": "Making Postgres slower",
+    "url": "https://byteofdev.com/posts/making-postgres-slow/",
+    "author": "AsyncBanana",
+    "date": "2025-07-29",
+    "points": "310",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44704736"
+  },
+  {
+    "title": "Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork",
+    "url": "https://github.com/segmentationf4u1t/trae_telemetry_research",
+    "author": "segfault22",
+    "date": "2025-07-29",
+    "points": "893",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44703164"
+  },
+  {
+    "title": "SIMD within a register: How I doubled hash table lookup performance",
+    "url": "https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance",
+    "author": "axeluser",
+    "date": "2025-07-29",
+    "points": "122",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44707546"
+  },
+  {
+    "title": "Samsung Removes Bootloader Unlocking with One UI 8",
+    "url": "https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/",
+    "author": "1una",
+    "date": "2025-07-29",
+    "points": "113",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44706409"
+  },
+  {
+    "title": "Show HN: I made a tool to generate photomosaics with your pictures",
+    "url": "https://pictiler.com",
+    "author": "jakemanger",
+    "date": "2025-07-29",
+    "points": "65",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44709727"
+  },
+  {
+    "title": "Software Development at 800 Words per Minute",
+    "url": "https://neurrone.com/posts/software-development-at-800-wpm/",
+    "author": "ClawsOnPaws",
+    "date": "2025-07-29",
+    "points": "123",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44672149"
+  },
+  {
+    "title": "Solid protocol restores digital agency",
+    "url": "https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html",
+    "author": "speckx",
+    "date": "2025-07-29",
+    "points": "62",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44670483"
+  },
+  {
+    "title": "Tao on \"blue team\" vs. \"red team\" LLMs",
+    "url": "https://mathstodon.xyz/@tao/114915604830689046",
+    "author": "qsort",
+    "date": "2025-07-29",
+    "points": "26",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44711306"
+  },
+  {
+    "title": "Terminal app can now run full graphical Linux apps in the latest Android Canary",
+    "url": "https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/",
+    "author": "thunderbong",
+    "date": "2025-07-29",
+    "points": "53",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44681858"
+  },
+  {
+    "title": "The 1970s psychology experiment behind 'Star Wars' special effects (2023)",
+    "url": "https://www.nsf.gov/science-matters/1970s-psychology-experiment-behind-star-wars-special-effects",
+    "author": "cainxinth",
+    "date": "2025-07-29",
+    "points": "21",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44710750"
+  },
+  {
+    "title": "The Geological Sublime",
+    "url": "https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/",
+    "author": "prismatic",
+    "date": "2025-07-29",
+    "points": "36",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44710533"
+  },
+  {
+    "title": "The JJ VCS workshop: A zero-to-hero speedrun",
+    "url": "https://github.com/jkoppel/jj-workshop",
+    "author": "todsacerdoti",
+    "date": "2025-07-29",
+    "points": "160",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44700815"
+  },
+  {
+    "title": "Trying to play an isomorphic piano (2022) [video]",
+    "url": "https://www.youtube.com/watch?v=j4itL174C-4",
+    "author": "surprisetalk",
+    "date": "2025-07-29",
+    "points": "31",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44673787"
+  },
+  {
+    "title": "VPN use surges in UK as new online safety rules kick in",
+    "url": "https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b",
+    "author": "mmarian",
+    "date": "2025-07-29",
+    "points": "278",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44706653"
+  },
+  {
+    "title": "Viral Language",
+    "url": "https://lareviewofbooks.org/article/viral-language/",
+    "author": "lermontov",
+    "date": "2025-07-29",
+    "points": "17",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44691232"
+  },
+  {
+    "title": "What would an efficient and trustworthy meeting culture look like?",
+    "url": "https://abitmighty.com/posts/the-ultimate-meeting-culture",
+    "author": "todsacerdoti",
+    "date": "2025-07-29",
+    "points": "87",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44708173"
+  }
+]

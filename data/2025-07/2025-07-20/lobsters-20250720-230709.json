@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A tour of Microsoft's MacBU lab (2006)",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "historical",
+    "url": "https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Async I/O on Linux and durability",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "performance",
+    "url": "https://blog.canoozie.net/async-i-o-on-linux-and-durability/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Async Rust Is A Bad Language (2023)",
+    "author": "",
+    "score": "43",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://bitbashing.io/async-rust.html",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Asynchrony is not Concurrency",
+    "author": "",
+    "score": "41",
+    "comments": "0",
+    "tags": "plt, zig",
+    "url": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Coding with LLMs in the summer of 2025 (an update)",
+    "author": "",
+    "score": "32",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://antirez.com/news/154",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Do you understand f-strings?",
+    "author": "",
+    "score": "81",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://fstrings.wtf/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Exploring the Secrets of layoutPriority in SwiftUI ZStack",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "swift",
+    "url": "https://fatbobman.com/en/posts/exploring-the-secrets-of-layoutpriority-in-zstack/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Giving Up on Element & Matrix.org",
+    "author": "",
+    "score": "62",
+    "comments": "0",
+    "tags": "rant",
+    "url": "https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "How I Found Myself In the Game Industry",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "graphics, historical",
+    "url": "https://nothings.org/gamedev/how_i_found_myself_in_the_game_industry.html",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Introducing XMLUI",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "I’m Tired of Talking About AI",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "culture, rant, vibecoding",
+    "url": "https://paddy.carvers.com/posts/2025/07/ai/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Legendary Software Rendering Era with Sean Barrett",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "audio, graphics, person",
+    "url": "https://www.youtube.com/watch?v=T1tXepGXDDM",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Make Your Own Backup System – Part 1: Strategy Before Scripts",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "devops, freebsd",
+    "url": "https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "My Ultimate Self-hosting Setup",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "devops",
+    "url": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Parallelizing the physics solver",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "video, games, performance",
+    "url": "https://youtu.be/Kvsvd67XUKw",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Responsible AI in Enterprise Applications: A Practitioner's View",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "ai",
+    "url": "https://www.jjude.com/responsible-ai-in-enterprise-apps/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Rethinking CLI interfaces for AI",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Rust Clippy performance status update",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://blog.goose.love/posts/clippy-performance-status-update/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "The Foo Archive",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "unix",
+    "url": "https://soda.privatevoid.net/foo/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "The borrowchecker is what I like the least about Rust",
+    "author": "",
+    "score": "28",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://viralinstruction.com/posts/borrowchecker/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "They're putting blue food coloring in everything",
+    "author": "",
+    "score": "74",
+    "comments": "0",
+    "tags": "culture, rant",
+    "url": "https://blog.foxtrotluna.social/theyre-putting-blue-food-coloring-in-everything/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "Why you should choose HTMX for your next web-based side project - and ditch the crufty MPA and complex SPA",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "programming, web",
+    "url": "https://hamy.xyz/blog/2024-02_htmx-for-side-projects",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware",
+    "author": "",
+    "score": "83",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "metap: A Meta-Programming Layer for Python",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://sbaziotis.com/compilers/metap.html",
+    "date": "2025-07-20",
+    "description": ""
+  },
+  {
+    "title": "stdio(3) change: FILE is now opaque",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "openbsd",
+    "url": "https://undeadly.org/cgi?action=article;sid=20250717103345",
+    "date": "2025-07-20",
+    "description": ""
+  }
+]

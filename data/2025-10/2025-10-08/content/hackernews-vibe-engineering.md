@@ -1,0 +1,165 @@
+---
+title: Vibe engineering
+url: https://simonwillison.net/2025/Oct/7/vibe-engineering/
+site_name: hackernews
+fetched_at: '2025-10-08T19:08:27.911255'
+original_url: https://simonwillison.net/2025/Oct/7/vibe-engineering/
+author: Simon Willison
+date: '2025-10-08'
+---
+
+# Simon Willison’s Weblog
+
+Subscribe
+
+## Vibe engineering
+
+7th October 2025
+
+I feel likevibe codingispretty well established nowas covering the fast, loose and irresponsible way of building software with AI—entirely prompt-driven, and with no attention paid to how the code actually works. This leaves us with a terminology gap: what should we call the other end of the spectrum, where seasoned professionals accelerate their work with LLMs while staying proudly and confidently accountable for the software they produce?
+
+I propose we call thisvibe engineering, with my tongue only partially in my cheek.
+
+One of the lesser spoken truths of working productively with LLMs as a software engineer on non-toy-projects is that it’sdifficult. There’s a lot of depth to understanding how to use the tools, there are plenty of traps to avoid, and the pace at which they can churn out working code raises the bar for what the human participant can and should be contributing.
+
+The rise ofcoding agents—tools likeClaude Code(released February 2025), OpenAI’sCodex CLI(April) andGemini CLI(June) that can iterate on code, actively testing and modifying it until it achieves a specified goal, has dramatically increased the usefulness of LLMs for real-world coding problems.
+
+I’m increasingly hearing from experienced, credible software engineers who are running multiple copies of agents at once, tackling several problems in parallel and expanding the scope of what they can take on. I was skeptical of this at first butI’ve started running multiple agents myself nowand it’s surprisingly effective, if mentally exhausting!
+
+This feels very different from classic vibe coding, where I outsource a simple, low-stakes task to an LLM and accept the result if it appears to work. Most of mytools.simonwillison.netcollection (previously) were built like that. Iterating with coding agents to produce production-quality code that I’m confident I can maintain in the future feels like a different process entirely.
+
+It’s also become clear to me that LLMs actively reward existing top tier software engineering practices:
+
+* Automated testing. If your project has a robust, comprehensive and stable test suite agentic coding tools canflywith it. Without tests? Your agent might claim something works without having actually tested it at all, plus any new change could break an unrelated feature without you realizing it. Test-first development is particularly effective with agents that can iterate in a loop.
+* Planning in advance. Sitting down to hack something together goes much better if you start with a high level plan. Working with an agent makes this even more important—you can iterate on the plan first, then hand it off to the agent to write the code.
+* Comprehensive documentation. Just like human programmers, an LLM can only keep a subset of the codebase in its context at once. Being able to feed in relevant documentation lets it use APIs from other areas without reading the code first. Write good documentation first and the model may be able to build the matching implementation from that input alone.
+* Good version control habits. Being able to undo mistakes and understand when and how something was changed is even more important when a coding agent might have made the changes. LLMs are also fiercely competent at Git—they can navigate the history themselves to track down the origin of bugs, and they’re better than most developers at usinggit bisect. Use that to your advantage.
+* Havingeffective automationin place. Continuous integration, automated formatting and linting, continuous deployment to a preview environment—all things that agentic coding tools can benefit from too. LLMs make writing quick automation scripts easier as well, which can help them then repeat tasks accurately and consistently next time.
+* Aculture of code review. This one explains itself. If you’re fast and productive at code review you’re going to have a much better time working with LLMs than if you’d rather write code yourself than review the same thing written by someone (or something) else.
+* Avery weird form of management. Getting good results out of a coding agent feels uncomfortably close to getting good results out of a human collaborator. You need to provide clear instructions, ensure they have the necessary context and provide actionable feedback on what they produce. It’s aloteasier than working with actual people because you don’t have to worry about offending or discouraging them—but any existing management experience you have will prove surprisingly useful.
+* Really goodmanual QA (quality assurance). Beyond automated tests, you need to be really good at manually testing software, including predicting and digging into edge-cases.
+* Strongresearch skills. There are dozens of ways to solve any given coding problem. Figuring out the best options and proving an approach has always been important, and remains a blocker on unleashing an agent to write the actual code.
+* The ability toship to a preview environment. If an agent builds a feature, having a way to safely preview that feature (without deploying it straight to production) makes reviews much more productive and greatly reduces the risk of shipping something broken.
+* An instinct forwhat can be outsourcedto AI and what you need to manually handle yourself. This is constantly evolving as the models and tools become more effective. A big part of working effectively with LLMs is maintaining a strong intuition for when they can best be applied.
+* An updatedsense of estimation. Estimating how long a project will take has always been one of the hardest but most important parts of being a senior engineer, especially in organizations where budget and strategy decisions are made based on those estimates. AI-assisted coding makes thiseven harder—things that used to take a long time are much faster, but estimations now depend on new factors which we’re all still trying to figure out.
+
+If you’re going to really exploit the capabilities of these new tools, you need to be operatingat the top of your game. You’re not just responsible for writing the code—you’re researching approaches, deciding on high-level architecture, writing specifications, defining success criteria,designing agentic loops, planning QA, managing a growing army of weird digital interns who will absolutely cheat if you give them a chance, and spendingso much time on code review.
+
+Almost all of these are characteristics of senior software engineers already!
+
+AI toolsamplify existing expertise. The more skills and experience you have as a software engineer the faster and better the results you can get from working with LLMs and coding agents.
+
+#### “Vibe engineering”, really?
+
+Is this a stupid name? Yeah, probably. “Vibes” as a concept in AI feels a little tired at this point. “Vibe coding” itself is used by a lot of developers in a dismissive way. I’m ready to reclaim vibes for something more constructive.
+
+I’ve never really liked the artificial distinction between “coders” and “engineers”—that’s always smelled to me a bit like gatekeeping. But in this case a bit of gatekeeping is exactly what we need!
+
+Vibe engineeringestablishes a clear distinction from vibe coding. It signals that this is a different, harder and more sophisticated way of working with AI tools to build production software.
+
+I like that this is cheeky and likely to be controversial. This whole space is still absurd in all sorts of different ways. We shouldn’t take ourselves too seriously while we figure out the most productive ways to apply these new tools.
+
+I’ve tried in the past to get terms likeAI-assisted programmingto stick, with approximately zero success. May as well try rubbing some vibes on it and see what happens.
+
+I also really like the clear mismatch between “vibes” and “engineering”. It makes the combined term self-contradictory in a way that I find mischievous and (hopefully) sticky.
+
+Posted
+7th October 2025
+ at 2:32 pm · Follow me on
+Mastodon
+,
+Bluesky
+,
+Twitter
+ or
+subscribe to my newsletter
+
+## More recent articles
+
+* OpenAI DevDay 2025 live blog- 6th October 2025
+* Embracing the parallel coding agent lifestyle- 5th October 2025
+
+
+
+This isVibe engineeringby Simon Willison, posted on7th October 2025.
+
+Part of seriesHow I use LLMs and ChatGPT
+
+1. Tips on prompting ChatGPT for UK technology secretary Peter Kyle- June 3, 2025, 7:08 p.m.
+2. Designing agentic loops- Sept. 30, 2025, 3:20 p.m.
+3. Embracing the parallel coding agent lifestyle- Oct. 5, 2025, 12:06 p.m.
+4. Vibe engineering- Oct. 7, 2025, 2:32 p.m.
+
+ definitions
+
+30
+
+ software-engineering
+
+59
+
+ ai
+
+1604
+
+ generative-ai
+
+1413
+
+ llms
+
+1382
+
+ ai-assisted-programming
+
+246
+
+ vibe-coding
+
+47
+
+ coding-agents
+
+62
+
+Previous:OpenAI DevDay 2025 live blog
+
+### Monthly briefing
+
+Sponsor me for$10/monthand get a curated email digest of the month's most important LLM developments.
+
+Pay me to send you less!
+
+ Sponsor & subscribe
+
+
+
+
+
+
+* Colophon
+* ©
+* 2002
+* 2003
+* 2004
+* 2005
+* 2006
+* 2007
+* 2008
+* 2009
+* 2010
+* 2011
+* 2012
+* 2013
+* 2014
+* 2015
+* 2016
+* 2017
+* 2018
+* 2019
+* 2020
+* 2021
+* 2022
+* 2023
+* 2024
+* 2025

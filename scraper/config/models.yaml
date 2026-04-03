@@ -1,0 +1,32 @@
+# Model Configuration
+# This file defines the models used for different summarization modes
+
+# Quality mode - for comprehensive summaries
+quality:
+  default_model: "gpt-oss:120b-cloud"
+  fallback_model: "llama3.2:1b"
+  description: "High-quality, comprehensive summaries with detailed analysis"
+
+# Fast mode - for quick summaries
+fast:
+  default_model: "tinyllama:latest"
+  fallback_model: "tinyllama:1.1b"
+  description: "Quick summaries for rapid processing"
+
+# CI/CD environment models
+ci:
+  primary_model: "llama3.2:1b"
+  fallback_model: "tinyllama:1.1b"
+  description: "Optimized models for CI environment"
+
+# Digest mode - for daily digest generation (needs larger context)
+digest:
+  default_model: "gpt-oss:120b-cloud"
+  fallback_model: "llama3.2:1b"
+  description: "Daily digest synthesis from individual summaries"
+
+# Anthropic API models
+anthropic:
+  default_model: "claude-3-haiku-20240307"
+  premium_model: "claude-3-opus-20240229"
+  description: "Anthropic Claude API models for premium summarization"

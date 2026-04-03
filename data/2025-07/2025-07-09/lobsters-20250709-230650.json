@@ -1,0 +1,252 @@
+[
+  {
+    "title": "(Quite) A Few Words About Async",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "distributed, programming",
+    "url": "https://yoric.github.io/post/quite-a-few-words-about-async/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Agents don't have agency",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://kconner.com/2025/07/08/agents-dont-have-agency.html",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "An online searchable reference tool for C intrinsics of all major SIMD engines",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "performance",
+    "url": "https://simd.info/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Announcing FOKS, the Federated Open Key Service",
+    "author": "",
+    "score": "59",
+    "comments": "0",
+    "tags": "cryptography",
+    "url": "https://blog.foks.pub/posts/introducing/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Brut: A New Web Framework for Ruby",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "ruby",
+    "url": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Client-side epub generation",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "show, web",
+    "url": "https://little.webby.press/",
+    "date": "2025-07-09",
+    "description": "☶"
+  },
+  {
+    "title": "Frame of preference – A history of Mac settings, 1984–2004",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "historical, mac",
+    "url": "https://aresluna.org/frame-of-preference/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Get the location of the ISS using DNS",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "distributed",
+    "url": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Hare by Example",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://harebyexample.org",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Hippocratic License",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "law",
+    "url": "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "How I build software quickly",
+    "author": "",
+    "score": "102",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://evanhahn.com/how-i-build-software-quickly/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "HyAB k-means for color quantization",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "graphics, python",
+    "url": "https://30fps.net/pages/hyab-kmeans/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "IBM Power11 hits the market this month",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://www.talospace.com/2025/07/power11-hits-market-this-month.html",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Is the doc bot docs, or not?",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "video, education, formalmethods, plt",
+    "url": "https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Phrase origin: Why do we “call” functions?",
+    "author": "",
+    "score": "48",
+    "comments": "0",
+    "tags": "historical, plt",
+    "url": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Roll your own in-game UI with Clay and NanoVG",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "c++, games, programming",
+    "url": "https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Summary of the May 2025 TC39 plenary",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "browsers, javascript, plt, web",
+    "url": "https://blogs.igalia.com/compilers/2025/07/03/summary-of-the-may-2025-tc39-plenary/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Supabase MCP can leak your entire SQL database",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "security, vibecoding",
+    "url": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "The Tree Borrows paper is finally published",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "formalmethods, plt, rust",
+    "url": "https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Two weeks of wayback",
+    "author": "",
+    "score": "70",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://ariadne.space/2025/07/07/two-weeks-of-wayback.html",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Variadic Generics ideas that won’t work for Rust",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "plt, rust",
+    "url": "https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "Vim Fugitive in action (2021)",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "vcs, vim",
+    "url": "https://dzx.fr/blog/introduction-to-vim-fugitive/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "systemd has been a complete, utter, unmitigated success",
+    "author": "",
+    "score": "190",
+    "comments": "0",
+    "tags": "linux, systemd",
+    "url": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
+    "date": "2025-07-09",
+    "description": ""
+  },
+  {
+    "title": "toml v0.9",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://epage.github.io/blog/2025/07/toml-09/",
+    "date": "2025-07-09",
+    "description": ""
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "title": "500× faster: Four different ways to speed up your code",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "performance, python, rust",
+    "url": "https://pythonspeed.com/articles/different-ways-speed/",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "A Higgs-bugson in the Linux Kernel",
+    "author": "",
+    "score": "43",
+    "comments": "0",
+    "tags": "debugging, linux",
+    "url": "https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Can we test it? Yes, we can",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "video, testing",
+    "url": "https://youtu.be/MqC3tudPH6w",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Counterexamples of positivity implications in Kähler curvature tensors",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "math",
+    "url": "https://www.magnusson.io/post/curvature-examples/",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "security, vibecoding",
+    "url": "https://blog.mgdproductions.com/ikko-activebuds/",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Fail Faster: Staging and Fast Randomness for High-Performance Property-Based Testing",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "video, ml, performance, scala, testing",
+    "url": "https://www.youtube.com/watch?v=ux49IvxKQR8",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "How large are large language models? (2025)",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "ai",
+    "url": "https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Inequality Union Finds: Baby Steps to Refinement E-graphs",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "formalmethods, plt",
+    "url": "https://www.philipzucker.com/le_find/",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
+    "author": "",
+    "score": "51",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "OpenBao, the community fork of Vault, released v2.3.1 with namespaces",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "release, security",
+    "url": "https://github.com/openbao/openbao/releases/tag/v2.3.1",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Programming as Theory Building",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "pdf, plt",
+    "url": "https://pablo.rauzy.name/dev/naur1985programming.pdf",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "The Chapel Programming Language",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "performance",
+    "url": "https://chapel-lang.org/",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "The Hell of FFIX Tetra Master",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "games, ml",
+    "url": "https://xvw.lol/en/articles/tetra-master.html",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "The web's broken deal with AI companies",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "ai, web",
+    "url": "https://dri.es/the-webs-broken-deal-with-ai-companies",
+    "date": "2025-07-02",
+    "description": "☶"
+  },
+  {
+    "title": "This Overly Long Variable Name Could Have Been a Comment",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://jonathan-frere.com/posts/names-vs-comments/",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Three Years of Nix and NixOS: The Good, the Bad, and the Ugly",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "nix",
+    "url": "https://pierrezemb.fr/posts/nixos-good-bad-ugly/",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Uncloud -  tool for deploying and managing containerised applications",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "devops, go",
+    "url": "https://github.com/psviderski/uncloud",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Why I'm Dialing Back My LLM Usage",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Yet another ZIP trick",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://hackarcana.com/article/yet-another-zip-trick",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "You MUST listen to RFC 2119",
+    "author": "",
+    "score": "87",
+    "comments": "0",
+    "tags": "satire",
+    "url": "https://ericwbailey.website/published/you-must-listen-to-rfc-2119/",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "You should delete tests",
+    "author": "",
+    "score": "37",
+    "comments": "0",
+    "tags": "testing",
+    "url": "https://andre.arko.net/2025/06/30/you-should-delete-tests/",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "clamp / median / range",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://dotat.at/@/2025-07-02-cmp.html",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "jujutsu v0.31.0 released",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "release, vcs",
+    "url": "https://github.com/jj-vcs/jj/releases/tag/v0.31.0",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "show, python",
+    "url": "https://github.com/i04n/sslcheck",
+    "date": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "using Sun Ray thin clients in 2025",
+    "author": "",
+    "score": "35",
+    "comments": "0",
+    "tags": "retrocomputing",
+    "url": "https://catstret.ch/202506/sun-ray-shenanigans/",
+    "date": "2025-07-02",
+    "description": ""
+  }
+]

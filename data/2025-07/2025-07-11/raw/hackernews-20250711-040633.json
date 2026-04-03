@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A Typology of Canadianisms",
+    "url": "https://dchp.arts.ubc.ca/how-to-use",
+    "author": "gnabgib",
+    "date": "2025-07-11",
+    "points": "234",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44515101"
+  },
+  {
+    "title": "Analyzing database trends through 1.8M Hacker News headlines",
+    "url": "https://camelai.com/blog/hn-database-hype/",
+    "author": "vercantez",
+    "date": "2025-07-11",
+    "points": "58",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44496537"
+  },
+  {
+    "title": "Author of William the Conqueror's 'Medieval Big Data' Project Revealed",
+    "url": "https://www.ox.ac.uk/news/2025-07-02-author-william-conqueror-s-medieval-big-data-project-revealed",
+    "author": "zeristor",
+    "date": "2025-07-11",
+    "points": "43",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44487316"
+  },
+  {
+    "title": "Automatically Packaging a Haskell Library as a Swift Binary XCFramework",
+    "url": "https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html",
+    "author": "Bogdanp",
+    "date": "2025-07-11",
+    "points": "23",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44492345"
+  },
+  {
+    "title": "Diffsitter – A Tree-sitter based AST difftool to get meaningful semantic diffs",
+    "url": "https://github.com/afnanenayet/diffsitter",
+    "author": "mihau",
+    "date": "2025-07-11",
+    "points": "26",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44520438"
+  },
+  {
+    "title": "FOKS: The Federated Open Key Service",
+    "url": "https://foks.pub/",
+    "author": "ubj",
+    "date": "2025-07-11",
+    "points": "35",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44520419"
+  },
+  {
+    "title": "Flix – A powerful effect-oriented programming language",
+    "url": "https://flix.dev/",
+    "author": "freilanzer",
+    "date": "2025-07-11",
+    "points": "92",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44521224"
+  },
+  {
+    "title": "Graphical Linear Algebra",
+    "url": "https://graphicallinearalgebra.net/",
+    "author": "hyperbrainer",
+    "date": "2025-07-11",
+    "points": "27",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44522505"
+  },
+  {
+    "title": "Grok 4 Launch [video]",
+    "url": "https://twitter.com/xai/status/1943158495588815072",
+    "author": "meetpateltech",
+    "date": "2025-07-11",
+    "points": "366",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44517055"
+  },
+  {
+    "title": "How to prove false statements: Practical attacks on Fiat-Shamir",
+    "url": "https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/",
+    "author": "nsoonhui",
+    "date": "2025-07-11",
+    "points": "177",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44519175"
+  },
+  {
+    "title": "Is Gemini 2.5 good at bounding boxes?",
+    "url": "https://simedw.com/2025/07/10/gemini-bounding-boxes/",
+    "author": "simedw",
+    "date": "2025-07-11",
+    "points": "193",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44520292"
+  },
+  {
+    "title": "Launch HN: Leaping (YC W25) – Self-Improving Voice AI",
+    "url": "https://news.ycombinator.com/item?id=44523523",
+    "author": "akyshnik",
+    "date": "2025-07-11",
+    "points": "5",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44523523"
+  },
+  {
+    "title": "MCP-B: A Protocol for AI Browser Automation",
+    "url": "https://mcp-b.ai/",
+    "author": "bustodisgusto",
+    "date": "2025-07-11",
+    "points": "304",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44515403"
+  },
+  {
+    "title": "Measuring the Impact of AI on Experienced Open-Source Developer Productivity",
+    "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+    "author": "dheerajvs",
+    "date": "2025-07-11",
+    "points": "137",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44522772"
+  },
+  {
+    "title": "Mini robots detect and fix water pipe leaks without digging",
+    "url": "https://www.foxnews.com/tech/mini-robots-detect-fix-water-pipe-leaks-without-digging",
+    "author": "Bluestein",
+    "date": "2025-07-11",
+    "points": "67",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44494923"
+  },
+  {
+    "title": "Optimizing a Math Expression Parser in Rust",
+    "url": "https://rpallas.xyz/math-parser/",
+    "author": "serial_dev",
+    "date": "2025-07-11",
+    "points": "106",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44519034"
+  },
+  {
+    "title": "Perplexity launches Comet, an AI-powered web browser",
+    "url": "https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/",
+    "author": "gniting",
+    "date": "2025-07-11",
+    "points": "33",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44510913"
+  },
+  {
+    "title": "Red Hat Technical Writing Style Guide",
+    "url": "https://stylepedia.net/style/",
+    "author": "jumpocelot",
+    "date": "2025-07-11",
+    "points": "33",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44521871"
+  },
+  {
+    "title": "Seven Engineers Suspended After $2.3M Bridge Includes 90-Degree Turn",
+    "url": "https://www.vice.com/en/article/7-engineers-suspended-after-2-3-million-bridge-includes-bizarre-90-degree-turn/",
+    "author": "_sbl_",
+    "date": "2025-07-11",
+    "points": "131",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44522579"
+  },
+  {
+    "title": "Show HN: CXXStateTree – A modern C++ library for hierarchical state machines",
+    "url": "https://github.com/ZigRazor/CXXStateTree",
+    "author": "zigrazor",
+    "date": "2025-07-11",
+    "points": "8",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44487221"
+  },
+  {
+    "title": "Show HN: FlopperZiro – A DIY open-source Flipper Zero clone",
+    "url": "https://github.com/lraton/FlopperZiro",
+    "author": "iraton",
+    "date": "2025-07-11",
+    "points": "334",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44512763"
+  },
+  {
+    "title": "Show HN: MCP server for searching and downloading documents from Anna's Archive",
+    "url": "https://github.com/iosifache/annas-mcp",
+    "author": "iosifache",
+    "date": "2025-07-11",
+    "points": "231",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44514753"
+  },
+  {
+    "title": "Show HN: Typeform was too expensive so I built my own forms",
+    "url": "https://www.ikiform.com/",
+    "author": "preetsuthar17",
+    "date": "2025-07-11",
+    "points": "132",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44518898"
+  },
+  {
+    "title": "Show HN: asyncmcp – Run MCP over async transport via AWS SNS+SQS",
+    "url": "https://github.com/bh-rat/asyncmcp",
+    "author": "bharatgel",
+    "date": "2025-07-11",
+    "points": "5",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44523094"
+  },
+  {
+    "title": "Solar power has begun to transform the world’s energy system",
+    "url": "https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment",
+    "author": "dmazin",
+    "date": "2025-07-11",
+    "points": "301",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44509254"
+  },
+  {
+    "title": "State of the Art: Economic Development Through the Lens of Paintings",
+    "url": "https://www.nber.org/papers/w33976",
+    "author": "surprisetalk",
+    "date": "2025-07-11",
+    "points": "5",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44490321"
+  },
+  {
+    "title": "The death of partying in the USA",
+    "url": "https://www.derekthompson.org/p/the-death-of-partying-in-the-usaand",
+    "author": "tysone",
+    "date": "2025-07-11",
+    "points": "230",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44514550"
+  },
+  {
+    "title": "The jank programming language",
+    "url": "https://jank-lang.org/",
+    "author": "akkad33",
+    "date": "2025-07-11",
+    "points": "390",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44482273"
+  },
+  {
+    "title": "Tree Borrows",
+    "url": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html",
+    "author": "zdw",
+    "date": "2025-07-11",
+    "points": "547",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44510600"
+  },
+  {
+    "title": "Underwater turbine spinning for 6 years off Scotland's coast is a breakthrough",
+    "url": "https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6",
+    "author": "djoldman",
+    "date": "2025-07-11",
+    "points": "84",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44521457"
+  }
+]

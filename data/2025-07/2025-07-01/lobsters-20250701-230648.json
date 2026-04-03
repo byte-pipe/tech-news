@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Alternative Blanket Implementations for a Single Rust Trait",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "An update on improving passkey support in Linux",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Animating Number Counters",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "css, web",
+    "url": "https://css-tricks.com/animating-number-counters/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
+    "author": "",
+    "score": "46",
+    "comments": "0",
+    "tags": "linux, security",
+    "url": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Doing My Day Job on Chimera Linux",
+    "author": "",
+    "score": "46",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Emoji Kitchen - Browse Google's unique emoji combinations",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://emojikitchen.dev/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Exception handling in rustc_codegen_cranelift",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "compilers, rust",
+    "url": "https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "FUZZING'25 Keynote: \"Are you sure you belong in academia?\"",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "video, education",
+    "url": "https://www.youtube.com/watch?v=qQGuQ_4V6WI",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Finding and understanding bugs in C compilers (2011)",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "pdf, compilers",
+    "url": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
+    "date": "2025-07-01",
+    "description": "☶"
+  },
+  {
+    "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "education",
+    "url": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Google Developer Search Appliance – Proxmox Port",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "retrocomputing",
+    "url": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
+    "date": "2025-07-01",
+    "description": "☶"
+  },
+  {
+    "title": "Helix language",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://github.com/helixlang/helix-lang",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "How I Write Type Safe Generic Data Structures in C",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "c, education",
+    "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
+    "author": "",
+    "score": "35",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Parsing Layout, or: Haskell's Syntax is a Mess",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "haskell",
+    "url": "https://amelia.how/posts/parsing-layout.html",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "People Keep Inventing Prolly Trees",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "historical, merkle-trees",
+    "url": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Reflections on Haskell and Rust",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "haskell, programming, rust",
+    "url": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Reverse Engineering Vercel's BotID",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "javascript, reversing, web",
+    "url": "https://www.nullpt.rs/reversing-botid",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Software engineering with LLMs in 2025: reality check",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "video, vibecoding",
+    "url": "https://www.youtube.com/watch?v=EO3_qN_Ynsk",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Stream per agent session",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "ai, databases, distributed",
+    "url": "https://s2.dev/blog/agent-sessions",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "That boolean should probably be something else",
+    "author": "",
+    "score": "46",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "The role of the University is to resist AI",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "ai",
+    "url": "https://www.danmcquillan.org/cpct_seminar.html",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Types of Types: Common to Exotic",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://www.stephendiehl.com/posts/types_of_types/",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "What should a native DOM templating API look like?",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like",
+    "date": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "`git stage` over `git add`",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://bhoot.dev/2025/git-stage-over-git-add/",
+    "date": "2025-07-01",
+    "description": ""
+  }
+]

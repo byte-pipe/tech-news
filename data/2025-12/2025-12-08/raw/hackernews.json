@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A series of tricks and techniques I learned doing tiny GLSL demos",
+    "url": "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
+    "author": "ibobev",
+    "date": "2025-12-08",
+    "points": "29",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46194477"
+  },
+  {
+    "title": "AI should only run as fast as we can catch up",
+    "url": "https://higashi.blog/2025/12/07/ai-verification/",
+    "author": "yuedongze",
+    "date": "2025-12-08",
+    "points": "40",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46195198"
+  },
+  {
+    "title": "AMD GPU Debugger",
+    "url": "https://thegeeko.me/blog/amd-gpu-debugging/",
+    "author": "ibobev",
+    "date": "2025-12-08",
+    "points": "129",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46193931"
+  },
+  {
+    "title": "Apex: Universal Markdown Processor",
+    "url": "https://brettterpstra.com/2025/12/06/introducing-apex-universal-markdown-processor/",
+    "author": "zdw",
+    "date": "2025-12-08",
+    "points": "16",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46176965"
+  },
+  {
+    "title": "Bag of words, have mercy on us",
+    "url": "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us",
+    "author": "ntnbr",
+    "date": "2025-12-08",
+    "points": "292",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46185957"
+  },
+  {
+    "title": "Berkshire Hathaway Announces Leadership Appointments [pdf]",
+    "url": "https://berkshirehathaway.com/news/dec0825.pdf",
+    "author": "kamaraju",
+    "date": "2025-12-08",
+    "points": "58",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46193116"
+  },
+  {
+    "title": "Client-side GPU load balancing with Redis and Lua",
+    "url": "https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua",
+    "author": "lneiman",
+    "date": "2025-12-08",
+    "points": "39",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46123948"
+  },
+  {
+    "title": "Colors of Growth",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462",
+    "author": "mhb",
+    "date": "2025-12-08",
+    "points": "39",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46191814"
+  },
+  {
+    "title": "Damn Small Linux",
+    "url": "https://www.damnsmalllinux.org/",
+    "author": "grubbs",
+    "date": "2025-12-08",
+    "points": "215",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46187387"
+  },
+  {
+    "title": "Emacs is my new window manager (2015)",
+    "url": "https://www.howardism.org/Technical/Emacs/new-window-manager.html",
+    "author": "gpi",
+    "date": "2025-12-08",
+    "points": "202",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46161328"
+  },
+  {
+    "title": "Flow: Actor-based language for C++, used by FoundationDB",
+    "url": "https://github.com/apple/foundationdb/tree/main/flow",
+    "author": "SchwKatze",
+    "date": "2025-12-08",
+    "points": "127",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46191763"
+  },
+  {
+    "title": "How the Creator Economy Destroyed the Internet",
+    "url": "https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series",
+    "author": "ecliptik",
+    "date": "2025-12-08",
+    "points": "44",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46194302"
+  },
+  {
+    "title": "Hunting for North Korean Fiber Optic Cables",
+    "url": "https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/",
+    "author": "Bezod",
+    "date": "2025-12-08",
+    "points": "111",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46194384"
+  },
+  {
+    "title": "I wasted years of my life in crypto",
+    "url": "https://twitter.com/kenchangh/status/1994854381267947640",
+    "author": "Anon84",
+    "date": "2025-12-08",
+    "points": "588",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46181371"
+  },
+  {
+    "title": "IBM to Acquire Confluent",
+    "url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
+    "author": "abd12",
+    "date": "2025-12-08",
+    "points": "225",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46192130"
+  },
+  {
+    "title": "Jepsen: Nats 2.12.1",
+    "url": "https://jepsen.io/analyses/nats-2.12.1",
+    "author": "aphyr",
+    "date": "2025-12-08",
+    "points": "4",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46196105"
+  },
+  {
+    "title": "Launch HN: Nia (YC S25) – Give better context to coding agents",
+    "url": "https://www.trynia.ai/",
+    "author": "jellyotsiro",
+    "date": "2025-12-08",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46194828"
+  },
+  {
+    "title": "Legion Health (YC S21) is hiring a founding engineer (SF, in-person)",
+    "url": "https://news.ycombinator.com/item?id=46194720",
+    "author": "",
+    "date": "2025-12-08",
+    "points": "0",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46194720"
+  },
+  {
+    "title": "Let's put Tailscale on a jailbroken Kindle",
+    "url": "https://tailscale.com/blog/tailscale-jailbroken-kindle",
+    "author": "Quizzical4230",
+    "date": "2025-12-08",
+    "points": "94",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46194337"
+  },
+  {
+    "title": "Microsoft Download Center Archive",
+    "url": "https://legacyupdate.net/download-center/",
+    "author": "luu",
+    "date": "2025-12-08",
+    "points": "19",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46166178"
+  },
+  {
+    "title": "Microsoft has a problem: nobody wants to buy or use its shoddy AI products",
+    "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai",
+    "author": "mohi-kalantari",
+    "date": "2025-12-08",
+    "points": "252",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46194615"
+  },
+  {
+    "title": "Nova Programming Language",
+    "url": "https://nova-lang.net",
+    "author": "surprisetalk",
+    "date": "2025-12-08",
+    "points": "51",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46192997"
+  },
+  {
+    "title": "Quanta to Publish Popular Math and Physics Titles by Terence Tao and David Tong",
+    "url": "https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/",
+    "author": "digital55",
+    "date": "2025-12-08",
+    "points": "44",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46195225"
+  },
+  {
+    "title": "RIP Tetsu Yamauchi (Former Free and Faces Bassist)",
+    "url": "https://www.loudersound.com/bands-artists/former-free-and-faces-bassist-tetsu-yamauchi-dead-at-79",
+    "author": "pauseandplay",
+    "date": "2025-12-08",
+    "points": "17",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46194805"
+  },
+  {
+    "title": "Show HN: DuckDB for Kafka Stream Processing",
+    "url": "https://sql-flow.com/docs/tutorials/intro/",
+    "author": "dm03514",
+    "date": "2025-12-08",
+    "points": "17",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46195007"
+  },
+  {
+    "title": "Show HN: Lockenv – Simple encrypted secrets storage for Git",
+    "url": "https://github.com/illarion/lockenv",
+    "author": "shoemann",
+    "date": "2025-12-08",
+    "points": "85",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46189480"
+  },
+  {
+    "title": "Strong earthquake hits northern Japan, tsunami warning issued",
+    "url": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/",
+    "author": "lattis",
+    "date": "2025-12-08",
+    "points": "144",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46192846"
+  },
+  {
+    "title": "The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks",
+    "url": "https://steerlabs.substack.com/p/confident-idiot-problem",
+    "author": "steerlabs",
+    "date": "2025-12-08",
+    "points": "255",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46152838"
+  },
+  {
+    "title": "Turtletoy",
+    "url": "https://turtletoy.net/",
+    "author": "ustad",
+    "date": "2025-12-08",
+    "points": "291",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46138459"
+  },
+  {
+    "title": "Twelve Days of Shell",
+    "url": "https://12days.cmdchallenge.com",
+    "author": "zoidb",
+    "date": "2025-12-08",
+    "points": "209",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46190577"
+  }
+]

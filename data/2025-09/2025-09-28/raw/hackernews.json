@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A WebGL game where you deliver messages on a tiny planet",
+    "url": "https://messenger.abeto.co/",
+    "author": "thecupisblue",
+    "date": "2025-09-28",
+    "points": "1854",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45396441"
+  },
+  {
+    "title": "A safe, non-owning C++ pointer class",
+    "url": "https://techblog.rosemanlabs.com/c++/safety/object-lifetime/2025/08/28/a-safe-pointer-that-protects-against-use-after-free-and-updates-when-the-pointee-is-moved.html",
+    "author": "niekb",
+    "date": "2025-09-28",
+    "points": "11",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45375977"
+  },
+  {
+    "title": "Bayesian Data Analysis, Third edition [pdf]",
+    "url": "https://sites.stat.columbia.edu/gelman/book/BDA3.pdf",
+    "author": "ibobev",
+    "date": "2025-09-28",
+    "points": "42",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45406109"
+  },
+  {
+    "title": "Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union",
+    "url": "https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/",
+    "author": "ashvardanian",
+    "date": "2025-09-28",
+    "points": "104",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45402820"
+  },
+  {
+    "title": "Broker-Side SQL Filtering with RabbitMQ Streams",
+    "url": "https://www.rabbitmq.com/blog/2025/09/23/sql-filter-expressions",
+    "author": "ansd",
+    "date": "2025-09-28",
+    "points": "8",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45366149"
+  },
+  {
+    "title": "Denmark bans civil drones after more sightings",
+    "url": "https://www.dw.com/en/denmark-bans-civil-drones-after-more-sightings/a-74166973",
+    "author": "rntn",
+    "date": "2025-09-28",
+    "points": "19",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45406256"
+  },
+  {
+    "title": "I built and launched the first AirPods-Controlled Game",
+    "url": "https://apps.apple.com/us/app/ridepods-race-with-head/id6752268828",
+    "author": "tanis46",
+    "date": "2025-09-28",
+    "points": "152",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45362365"
+  },
+  {
+    "title": "IBM Intellistation 185 AIX workstation (2016)",
+    "url": "http://www.ibmfiles.com/pages/intellipower185.htm",
+    "author": "hxorr",
+    "date": "2025-09-28",
+    "points": "75",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45401907"
+  },
+  {
+    "title": "Learn to play Go",
+    "url": "https://online-go.com/learn-to-play-go",
+    "author": "kqr",
+    "date": "2025-09-28",
+    "points": "327",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45400376"
+  },
+  {
+    "title": "Man still alive six months after pig kidney transplant",
+    "url": "https://www.nature.com/articles/d41586-025-02851-w",
+    "author": "signa11",
+    "date": "2025-09-28",
+    "points": "475",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45370798"
+  },
+  {
+    "title": "Plan 9 from User Space",
+    "url": "https://github.com/9fans/plan9port",
+    "author": "welovebunnies",
+    "date": "2025-09-28",
+    "points": "47",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45404573"
+  },
+  {
+    "title": "Privacy Badger is a free browser extension made by EFF to stop spying",
+    "url": "https://privacybadger.org/",
+    "author": "doener",
+    "date": "2025-09-28",
+    "points": "306",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45404021"
+  },
+  {
+    "title": "Python developers are embracing type hints",
+    "url": "https://pyrefly.org/blog/why-typed-python/",
+    "author": "ocamoss",
+    "date": "2025-09-28",
+    "points": "275",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45358841"
+  },
+  {
+    "title": "Real-Time Radiation World Map",
+    "url": "https://www.gmcmap.com/",
+    "author": "toomuchtodo",
+    "date": "2025-09-28",
+    "points": "7",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45405990"
+  },
+  {
+    "title": "Rustroid, a Rust IDE for Android",
+    "url": "https://rustroid.is-a.dev/story",
+    "author": "coolcoder613",
+    "date": "2025-09-28",
+    "points": "22",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45367732"
+  },
+  {
+    "title": "Scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC",
+    "url": "https://git.lain.faith/iitalics/scm2wasm",
+    "author": "todsacerdoti",
+    "date": "2025-09-28",
+    "points": "42",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45405175"
+  },
+  {
+    "title": "Show HN: Built an MCP server using Cloudflare's Code Mode pattern",
+    "url": "https://github.com/jx-codes/codemode-mcp",
+    "author": "jmcodes",
+    "date": "2025-09-28",
+    "points": "25",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45405584"
+  },
+  {
+    "title": "Show HN: Curated gamedev specific search engine",
+    "url": "https://gamedevtorch.com/",
+    "author": "Voycawojka",
+    "date": "2025-09-28",
+    "points": "44",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45403288"
+  },
+  {
+    "title": "Show HN: Toolbrew – Free little tools without signups or ads",
+    "url": "https://toolbrew.co/",
+    "author": "andreisergo",
+    "date": "2025-09-28",
+    "points": "91",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45404667"
+  },
+  {
+    "title": "Supermicro server motherboards can be infected with unremovable malware",
+    "url": "https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/",
+    "author": "zdw",
+    "date": "2025-09-28",
+    "points": "96",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45363465"
+  },
+  {
+    "title": "Swiss voters back e-ID and abolish rental tax",
+    "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-have-decided-on-electronic-id-and-abolishing-rental-tax/90057432",
+    "author": "YakBizzarro",
+    "date": "2025-09-28",
+    "points": "39",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45405675"
+  },
+  {
+    "title": "Testing \"Exotic\" P2P VPN",
+    "url": "https://blog.nommy.moe/blog/exotic-mesh-vpn/",
+    "author": "todsacerdoti",
+    "date": "2025-09-28",
+    "points": "46",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45405815"
+  },
+  {
+    "title": "The AI coding trap",
+    "url": "https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap",
+    "author": "chrisloy",
+    "date": "2025-09-28",
+    "points": "261",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45405177"
+  },
+  {
+    "title": "The Weird Concept of Branchless Programming",
+    "url": "https://sanixdk.xyz/blogs/the-weird-concept-of-branchless-programming",
+    "author": "judicious",
+    "date": "2025-09-28",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45405750"
+  },
+  {
+    "title": "Time travel? Or, just clever technology",
+    "url": "https://www.syncdna.com/blog/time-travel-or-just-clever-tech",
+    "author": "yabones",
+    "date": "2025-09-28",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45375462"
+  },
+  {
+    "title": "UK Petition: Do not introduce Digital ID cards",
+    "url": "https://petition.parliament.uk/petitions/730194",
+    "author": "DamonHD",
+    "date": "2025-09-28",
+    "points": "36",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45406442"
+  },
+  {
+    "title": "VMScape and why Xen dodged it",
+    "url": "https://virtualize.sh/blog/vmscape-and-why-xen-dodged-it/",
+    "author": "plam503711",
+    "date": "2025-09-28",
+    "points": "8",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45406573"
+  },
+  {
+    "title": "What's New in PostgreSQL 18 – A Devel",
+    "url": "https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/",
+    "author": "datelligence",
+    "date": "2025-09-28",
+    "points": "44",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45405055"
+  },
+  {
+    "title": "When I say \"alphabetical order\", I mean \"alphabetical order\"",
+    "url": "https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/",
+    "author": "sebtron",
+    "date": "2025-09-28",
+    "points": "180",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45404022"
+  },
+  {
+    "title": "Why I'm not rushing to take sides in the RubyGems fiasco",
+    "url": "https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/",
+    "author": "felipemesquita",
+    "date": "2025-09-28",
+    "points": "116",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45405221"
+  }
+]

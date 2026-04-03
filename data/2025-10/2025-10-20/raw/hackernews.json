@@ -1,0 +1,272 @@
+[
+  {
+    "title": "AWS Multiple Services Down in us-east-1",
+    "url": "https://health.aws.amazon.com/health/status?ts=20251020",
+    "author": "kondro",
+    "date": "2025-10-20",
+    "points": "1193",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45640838"
+  },
+  {
+    "title": "AWS outage shows internet users 'at mercy' of too few providers, experts say",
+    "url": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
+    "author": "evolve2k",
+    "date": "2025-10-20",
+    "points": "125",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45646649"
+  },
+  {
+    "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
+    "author": "hd4",
+    "date": "2025-10-20",
+    "points": "215",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45643163"
+  },
+  {
+    "title": "Automate all the things with Swift Subprocess",
+    "url": "https://blog.jacobstechtavern.com/p/swift-subprocess",
+    "author": "jakey_bakey",
+    "date": "2025-10-20",
+    "points": "20",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45569787"
+  },
+  {
+    "title": "BERT is just a single text diffusion step",
+    "url": "https://nathan.rs/posts/roberta-diffusion/",
+    "author": "nathan-barry",
+    "date": "2025-10-20",
+    "points": "262",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45644328"
+  },
+  {
+    "title": "Chess grandmaster Daniel Naroditsky has passed away",
+    "url": "https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/",
+    "author": "ntnbr",
+    "date": "2025-10-20",
+    "points": "136",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45646561"
+  },
+  {
+    "title": "Claude Code on the Web",
+    "url": "https://www.anthropic.com/news/claude-code-on-the-web",
+    "author": "adocomplete",
+    "date": "2025-10-20",
+    "points": "36",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45647166"
+  },
+  {
+    "title": "DeepSeek OCR",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "author": "pierre",
+    "date": "2025-10-20",
+    "points": "770",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45640594"
+  },
+  {
+    "title": "Docker Systems Status: Full Service Disruption",
+    "url": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c",
+    "author": "l2dy",
+    "date": "2025-10-20",
+    "points": "298",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45640877"
+  },
+  {
+    "title": "Dutch spy services have restricted intelligence-sharing with the United States",
+    "url": "https://intelnews.org/2025/10/20/01-3416/",
+    "author": "Refreeze5224",
+    "date": "2025-10-20",
+    "points": "118",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45646572"
+  },
+  {
+    "title": "Entire Linux Network stack diagram (2024)",
+    "url": "https://zenodo.org/records/14179366",
+    "author": "hhutw",
+    "date": "2025-10-20",
+    "points": "515",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45639995"
+  },
+  {
+    "title": "Fractal Imaginary Cubes",
+    "url": "https://www.i.h.kyoto-u.ac.jp/users/tsuiki/icube/fractal/index-e.html",
+    "author": "strstr",
+    "date": "2025-10-20",
+    "points": "47",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45560864"
+  },
+  {
+    "title": "Gleam OTP – Fault Tolerant Multicore Programs with Actors",
+    "url": "https://github.com/gleam-lang/otp",
+    "author": "TheWiggles",
+    "date": "2025-10-20",
+    "points": "179",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45638588"
+  },
+  {
+    "title": "How to stop Linux threads cleanly",
+    "url": "https://mazzo.li/posts/stopping-linux-threads.html",
+    "author": "signa11",
+    "date": "2025-10-20",
+    "points": "109",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45589156"
+  },
+  {
+    "title": "Introduction to reverse-engineering vintage synth firmware",
+    "url": "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html",
+    "author": "jmillikin",
+    "date": "2025-10-20",
+    "points": "173",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45639860"
+  },
+  {
+    "title": "Matrix Conference 2025 Highlights",
+    "url": "https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/",
+    "author": "Arathorn",
+    "date": "2025-10-20",
+    "points": "120",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45642923"
+  },
+  {
+    "title": "Modeling Others' Minds as Code",
+    "url": "https://arxiv.org/abs/2510.01272",
+    "author": "PaulHoule",
+    "date": "2025-10-20",
+    "points": "49",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45643976"
+  },
+  {
+    "title": "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
+    "url": "https://www.youtube.com/watch?v=RsGHr7dXLuI",
+    "author": "emsign",
+    "date": "2025-10-20",
+    "points": "61",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45577086"
+  },
+  {
+    "title": "Optimizing writes to OLAP using buffers (ClickHouse, Redpanda, MooseStack)",
+    "url": "https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers",
+    "author": "oatsandsugar",
+    "date": "2025-10-20",
+    "points": "29",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45583116"
+  },
+  {
+    "title": "Peanut Allergies Have Plummeted in Children",
+    "url": "https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html",
+    "author": "JumpCrisscross",
+    "date": "2025-10-20",
+    "points": "22",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45647133"
+  },
+  {
+    "title": "Pointer Pointer (2012)",
+    "url": "https://pointerpointer.com",
+    "author": "surprisetalk",
+    "date": "2025-10-20",
+    "points": "206",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45526845"
+  },
+  {
+    "title": "Production RAG: what I learned from processing 5M+ documents",
+    "url": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
+    "author": "tifa2up",
+    "date": "2025-10-20",
+    "points": "174",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45645349"
+  },
+  {
+    "title": "Qt Group Buys IAR Systems Group",
+    "url": "https://www.qt.io/stock/qt-completes-the-recommended-public-cash-offer-to-the-shareholders-of-iar-systems-group-1760351460000-3668995",
+    "author": "shrimp-chimp",
+    "date": "2025-10-20",
+    "points": "48",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45642979"
+  },
+  {
+    "title": "Servo v0.0.1",
+    "url": "https://github.com/servo/servo",
+    "author": "undeveloper",
+    "date": "2025-10-20",
+    "points": "359",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45643357"
+  },
+  {
+    "title": "Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP",
+    "url": "https://github.com/lackeyjb/playwright-skill",
+    "author": "syntax-sherlock",
+    "date": "2025-10-20",
+    "points": "101",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45642911"
+  },
+  {
+    "title": "Space Elevator",
+    "url": "https://neal.fun/space-elevator/",
+    "author": "kaonwarb",
+    "date": "2025-10-20",
+    "points": "1273",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45640226"
+  },
+  {
+    "title": "TernFS – an exabyte scale, multi-region distributed filesystem",
+    "url": "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped",
+    "author": "kirlev",
+    "date": "2025-10-20",
+    "points": "37",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45646691"
+  },
+  {
+    "title": "The Great Horse Manure Crisis of 1894: predictions of 9 feet of manure in cities",
+    "url": "https://en.wikipedia.org/wiki/Great_horse_manure_crisis_of_1894",
+    "author": "SweetSoftPillow",
+    "date": "2025-10-20",
+    "points": "16",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45577626"
+  },
+  {
+    "title": "The Peach meme: On CRTs, pixels and signal quality (again)",
+    "url": "https://www.datagubbe.se/crt2/",
+    "author": "zdw",
+    "date": "2025-10-20",
+    "points": "65",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45564696"
+  },
+  {
+    "title": "x86-64 Playground – An online assembly editor and GDB-like debugger",
+    "url": "https://x64.halb.it/",
+    "author": "modinfo",
+    "date": "2025-10-20",
+    "points": "13",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=45646958"
+  }
+]

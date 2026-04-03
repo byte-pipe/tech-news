@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A distributed systems reliability glossary",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "distributed, testing",
+    "url": "https://antithesis.com/resources/reliability_glossary/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Adding lookbehinds to rust-lang/regex",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Automerge 3.0",
+    "author": "",
+    "score": "35",
+    "comments": "0",
+    "tags": "distributed, release",
+    "url": "https://automerge.github.io/blog/automerge-3/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "osdev, virtualization",
+    "url": "https://benbridle.com/projects/bedrock.html",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Compiler bootstrapping in Nixpkgs",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "nix",
+    "url": "https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Death by a thousand slops",
+    "author": "",
+    "score": "90",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Diving into Plasma Bigscreen",
+    "author": "",
+    "score": "26",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://espi.dev/posts/2025/07/plasma-bigscreen/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Encrypting Files with Passkeys and age",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "cryptography, security",
+    "url": "https://words.filippo.io/passkey-encryption/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Game of Trees Hub",
+    "author": "",
+    "score": "19",
+    "comments": "0",
+    "tags": "openbsd",
+    "url": "https://gothub.org/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Hazel: A live functional programming environment with typed holes",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://github.com/hazelgrove/hazel",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Helix 25.07 Highlights",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "editors",
+    "url": "https://helix-editor.com/news/release-25-07-highlights/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "How I keep up with AI progress",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "How to Get Foreign Keys Horribly Wrong",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "databases, python",
+    "url": "https://hakibenita.com/django-foreign-keys",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "c++",
+    "url": "https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333",
+    "date": "2025-07-15",
+    "description": "☶"
+  },
+  {
+    "title": "Introducing go-cdc-chunkers: chunk and deduplicate everything",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "OpenZFS Bug Ported to Zig",
+    "author": "",
+    "score": "39",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Packages proxies",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "devops, performance",
+    "url": "https://blog.garambrogne.net/packages-proxies-en.html",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Panasonic + OpenBSD = <3",
+    "author": "",
+    "score": "63",
+    "comments": "0",
+    "tags": "openbsd",
+    "url": "https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Poor man's bitemporal data system in SQLite and Clojure",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "clojure, databases",
+    "url": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Ten years of running every day, visualized",
+    "author": "",
+    "score": "54",
+    "comments": "0",
+    "tags": "visualization",
+    "url": "https://nodaysoff.run/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "The Best C++ Library",
+    "author": "",
+    "score": "70",
+    "comments": "0",
+    "tags": "c++",
+    "url": "https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "The sound of inevitability",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://tomrenner.com/posts/llm-inevitabilism/",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Trying Guix: A Nixer's Impressions",
+    "author": "",
+    "score": "52",
+    "comments": "0",
+    "tags": "nix",
+    "url": "https://tazj.in/blog/trying-guix",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Using Elm in 2025",
+    "author": "",
+    "score": "38",
+    "comments": "0",
+    "tags": "elm",
+    "url": "https://engagesoftware.com/news/post/7033/using-elm-in-2025",
+    "date": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Wikipedia outage report for May's Pope traffic spike",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "devops",
+    "url": "https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge",
+    "date": "2025-07-15",
+    "description": ""
+  }
+]

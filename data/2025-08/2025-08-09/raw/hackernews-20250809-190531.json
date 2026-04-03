@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A SPARC makes a little fire",
+    "url": "https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html",
+    "author": "zdw",
+    "date": "2025-08-09",
+    "points": "13",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44799929"
+  },
+  {
+    "title": "A robust, open-source framework for Spiking Neural Networks on low-end FPGAs",
+    "url": "https://arxiv.org/abs/2507.07284",
+    "author": "PaulHoule",
+    "date": "2025-08-09",
+    "points": "59",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44790472"
+  },
+  {
+    "title": "Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?",
+    "url": "https://news.ycombinator.com/item?id=44840728",
+    "author": "superasn",
+    "date": "2025-08-09",
+    "points": "405",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44840728"
+  },
+  {
+    "title": "Astronomy Photographer of the Year 2025 shortlist",
+    "url": "https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist",
+    "author": "speckx",
+    "date": "2025-08-09",
+    "points": "207",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44837434"
+  },
+  {
+    "title": "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths",
+    "url": "https://arxiv.org/abs/2504.17033",
+    "author": "pentestercrab",
+    "date": "2025-08-09",
+    "points": "43",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44844257"
+  },
+  {
+    "title": "Build durable workflows with Postgres",
+    "url": "https://www.dbos.dev/blog/why-postgres-durable-execution",
+    "author": "KraftyOne",
+    "date": "2025-08-09",
+    "points": "128",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44840693"
+  },
+  {
+    "title": "Car has more than 1.2M km on it – and it's still going strong",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/1985-toyota-tercel-high-mileage-1.7597168",
+    "author": "Sgt_Apone",
+    "date": "2025-08-09",
+    "points": "3",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44806422"
+  },
+  {
+    "title": "Debugging a mysterious HTTP streaming issue",
+    "url": "https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything",
+    "author": "skeptrune",
+    "date": "2025-08-09",
+    "points": "10",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44801363"
+  },
+  {
+    "title": "Efrit: A native elisp coding agent running in Emacs",
+    "url": "https://github.com/steveyegge/efrit",
+    "author": "simonpure",
+    "date": "2025-08-09",
+    "points": "120",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44840654"
+  },
+  {
+    "title": "Engineer restores pay phones for free public use",
+    "url": "https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use",
+    "author": "andsoitis",
+    "date": "2025-08-09",
+    "points": "104",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44806537"
+  },
+  {
+    "title": "Fire hazard of WHY2025 badge due to 18650 Li-Ion cells",
+    "url": "https://wiki.why2025.org/Badge/Fire_hazard",
+    "author": "fjfaase",
+    "date": "2025-08-09",
+    "points": "95",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44808423"
+  },
+  {
+    "title": "Getting good results from Claude Code",
+    "url": "https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/",
+    "author": "ingve",
+    "date": "2025-08-09",
+    "points": "343",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44836879"
+  },
+  {
+    "title": "Hacking Diffusion into Qwen3 for the Arc Challenge",
+    "url": "https://www.matthewnewton.com/blog/arc-challenge-diffusion",
+    "author": "mattnewton",
+    "date": "2025-08-09",
+    "points": "83",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44798624"
+  },
+  {
+    "title": "How attention sinks keep language models stable",
+    "url": "https://hanlab.mit.edu/blog/streamingllm",
+    "author": "pr337h4m",
+    "date": "2025-08-09",
+    "points": "185",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44834918"
+  },
+  {
+    "title": "How to safely escape JSON inside HTML SCRIPT elements",
+    "url": "https://sirre.al/2025/08/06/safe-json-in-script-tags-how-not-to-break-a-site/",
+    "author": "dmsnell",
+    "date": "2025-08-09",
+    "points": "36",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44842442"
+  },
+  {
+    "title": "How we replaced Elasticsearch and MongoDB with Rust and RocksDB",
+    "url": "https://radar.com/blog/high-performance-geocoding-in-rust",
+    "author": "j_kao",
+    "date": "2025-08-09",
+    "points": "236",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44836463"
+  },
+  {
+    "title": "I bought a £16 smartwatch just because it used USB-C",
+    "url": "https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/",
+    "author": "blenderob",
+    "date": "2025-08-09",
+    "points": "146",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44810916"
+  },
+  {
+    "title": "I want everything local – Building my offline AI workspace",
+    "url": "https://instavm.io/blog/building-my-offline-ai-workspace",
+    "author": "mkagenius",
+    "date": "2025-08-09",
+    "points": "713",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44840013"
+  },
+  {
+    "title": "Jim Lovell, Apollo 13 commander, has died",
+    "url": "https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/",
+    "author": "LorenDB",
+    "date": "2025-08-09",
+    "points": "488",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44840582"
+  },
+  {
+    "title": "Let's properly analyze an AI article for once",
+    "url": "https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html",
+    "author": "pabs3",
+    "date": "2025-08-09",
+    "points": "60",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44843605"
+  },
+  {
+    "title": "Our European search index goes live",
+    "url": "https://blog.ecosia.org/launching-our-european-search-index/",
+    "author": "maelito",
+    "date": "2025-08-09",
+    "points": "45",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44841741"
+  },
+  {
+    "title": "Representing Python notebooks as dataflow graphs",
+    "url": "https://marimo.io/blog/dataflow",
+    "author": "akshayka",
+    "date": "2025-08-09",
+    "points": "18",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44801392"
+  },
+  {
+    "title": "Sandstorm- self-hostable web productivity suite",
+    "url": "https://sandstorm.org/",
+    "author": "nalinidash",
+    "date": "2025-08-09",
+    "points": "31",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44844394"
+  },
+  {
+    "title": "The surprise deprecation of GPT-4o for ChatGPT consumers",
+    "url": "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/",
+    "author": "tosh",
+    "date": "2025-08-09",
+    "points": "357",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44839842"
+  },
+  {
+    "title": "Tor: How a military project became a lifeline for privacy",
+    "url": "https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/",
+    "author": "anarbadalov",
+    "date": "2025-08-09",
+    "points": "317",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44838378"
+  },
+  {
+    "title": "Tribblix – The Retro Illumos Distribution",
+    "url": "http://www.tribblix.org/",
+    "author": "bilegeek",
+    "date": "2025-08-09",
+    "points": "34",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44844561"
+  },
+  {
+    "title": "Ultrathin business card runs a fluid simulation",
+    "url": "https://github.com/Nicholas-L-Johnson/flip-card",
+    "author": "wompapumpum",
+    "date": "2025-08-09",
+    "points": "972",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44835879"
+  },
+  {
+    "title": "Unmasking the Sea Star Killer",
+    "url": "https://www.biographic.com/unmasking-the-sea-star-killer/",
+    "author": "sohkamyung",
+    "date": "2025-08-09",
+    "points": "62",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44797566"
+  },
+  {
+    "title": "What the windsurf sale means for the AI coding ecosystem",
+    "url": "https://ethanding.substack.com/p/windsurf-gets-margin-called",
+    "author": "whoami_nr",
+    "date": "2025-08-09",
+    "points": "95",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44843801"
+  },
+  {
+    "title": "Window Activation",
+    "url": "https://blog.broulik.de/2025/08/on-window-activation/",
+    "author": "LorenDB",
+    "date": "2025-08-09",
+    "points": "199",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44784685"
+  }
+]

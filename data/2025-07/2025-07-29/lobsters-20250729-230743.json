@@ -1,0 +1,252 @@
+[
+  {
+    "title": "2025 Stack Overflow Developer Survey",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "practices, programming",
+    "url": "https://survey.stackoverflow.co/2025/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "A pretty nice web framework",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://github.com/blaix/prettynice",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Advanced Rust macros with derive-deftly",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://diziet.pages.torproject.net/rust-derive-deftly/latest/guide/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "An AI tool I find useful",
+    "author": "",
+    "score": "51",
+    "comments": "0",
+    "tags": "practices, vibecoding",
+    "url": "https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Artificial Intelligence and the Linux Community",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "linux, vibecoding",
+    "url": "https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Debugging the Pixel 8 kernel via KGDB",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "android, debugging",
+    "url": "https://xairy.io/articles/pixel-kgdb",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Eskil Steenberg – I've had it with the security orthodoxy",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "video, security",
+    "url": "https://www.youtube.com/watch?v=SbeNRICgzTA",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Ethersync: Peer-to-peer collaborative editing of local text files",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "vim, vscode",
+    "url": "https://github.com/ethersync/ethersync",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Following up on the Python JIT",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "performance, python",
+    "url": "https://lwn.net/Articles/1029307/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "I designed my own ridiculously fast game streaming video codec",
+    "author": "",
+    "score": "68",
+    "comments": "0",
+    "tags": "graphics, performance",
+    "url": "https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "I'm never going back to Matrix",
+    "author": "",
+    "score": "89",
+    "comments": "0",
+    "tags": "rant",
+    "url": "https://shkspr.mobi/blog/2025/07/im-never-going-back-to-matrix/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "KernelScript: DSL for eBPF-Centric Development",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "linux, plt",
+    "url": "https://github.com/multikernel/kernelscript",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Loading credentials from Bitwarden with direnv",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://ergaster.org/posts/2025/07/28-direnv-bitwarden-integration/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Make Your Own Backup System – Part 2: Forging the FreeBSD Backup Stronghold",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "freebsd",
+    "url": "https://it-notes.dragas.net/2025/07/29/make-your-own-backup-system-part-2-forging-the-freebsd-backup-stronghold/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "No more Erlang manuals",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "erlang",
+    "url": "https://blog.whenhen.com/posts/no-more-erlang-manuals.html",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "On designing application UIs for children",
+    "author": "",
+    "score": "40",
+    "comments": "0",
+    "tags": "design",
+    "url": "https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Printing a Book at Home with Minimal Equipment",
+    "author": "",
+    "score": "40",
+    "comments": "0",
+    "tags": "show, education, historical",
+    "url": "https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Redditor Speculates that EU age verification app to ban any Android system not licensed by Google",
+    "author": "",
+    "score": "52",
+    "comments": "0",
+    "tags": "android, security",
+    "url": "https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "The Useless useCallback",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "javascript",
+    "url": "https://tkdodo.eu/blog/the-useless-use-callback",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "This Was Not Really Quite Simple: Building a Redstone Calculator in Minecraft",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "video, games, hardware",
+    "url": "https://www.youtube.com/watch?v=lebdqAN1pd8",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Typechecking Is Undecidable When 'Type' Is a Type (1989)",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Weather Model based on ADS-B",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "hardware, visualization",
+    "url": "https://obrhubr.org/adsb-weather-model",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "What does AI testing done right look like?",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "distributed, testing, vibecoding",
+    "url": "https://antithesis.com/blog/2025/ai_testing/",
+    "date": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "rules_derive: deriving using macro_rules",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "release, rust",
+    "url": "https://matx.com/research/rules_derive",
+    "date": "2025-07-29",
+    "description": ""
+  }
+]

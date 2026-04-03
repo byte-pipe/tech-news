@@ -1,0 +1,252 @@
+[
+  {
+    "title": "A Lisp adventure on the calm waters of the dead C",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "lisp, plt",
+    "url": "https://mihaiolteanu.me/language-abstractions",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Abusing copyright strings to trick software into thinking it's running on your competitor's PC",
+    "author": "",
+    "score": "42",
+    "comments": "0",
+    "tags": "historical, law",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Bazel’s Original Sins",
+    "author": "",
+    "score": "41",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://fzakaria.com/2025/06/22/bazel-s-original-sins",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Build your first iOS app on Linux / Windows",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "mobile",
+    "url": "https://xtool.sh/tutorials/xtool/first-app",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Coding Independent Code Points (cICP) in PNG, explained",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "graphics",
+    "url": "https://svgees.us/blog/cICP.html",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Coding in a material world",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "philosophy",
+    "url": "https://deadsimpletech.com/blog/material_girl",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Deep down the rabbit hole: Bash, OverlayFS, and a 30-year-old surprise",
+    "author": "",
+    "score": "10",
+    "comments": "0",
+    "tags": "debugging, linux",
+    "url": "https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Everyone should copy Thunderbird's donation model",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://blog.cyrneko.eu/everyone-should-copy-thunderbird",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Fun with uv and PEP 723",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Gemini CLI: your open-source AI agent",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "release, vibecoding",
+    "url": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Getting ready to issue IP address certificates",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "security, web",
+    "url": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "How keys are used in FileVault and encryption",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "mac",
+    "url": "https://eclecticlight.co/2025/06/25/how-keys-are-used-in-filevault-and-encryption/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "How to Write Compelling Release Announcements",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://refactoringenglish.com/chapters/release-announcements/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Inspecting Service Traffic with mirrord dump",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "api, debugging, devops, distributed, networking, web",
+    "url": "https://metalbear.co/blog/mirrord-dump/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Interactive Handbook on Data Structures and Algorithms",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "compsci, education, visualization",
+    "url": "https://cartesian.app/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Nix Development Setup for Factor",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "concatenative, nix",
+    "url": "https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Nix/NixOS is the new “dotfiles golf” - and that’s awesome",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "linux, nix",
+    "url": "https://whynot.fail/nixos/the-new-dotfile-golf/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "OpenAI Charges by the Minute, So Make the Minutes Shorter",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "performance, vibecoding",
+    "url": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Printing the web: making webpages look good on paper",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "css, web",
+    "url": "https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Reading NFC Passport Chips in Linux",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "hardware, linux",
+    "url": "https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Scales as Multipermutations of 0 and 1 into Twelve Places",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "art, elixir",
+    "url": "https://petecorey.com/blog/2025/06/25/scales-as-multipermutations-of-0-and-1-into-twelve-places/",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "The Implementation of Postgres (1990)",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "pdf, databases",
+    "url": "https://dsf.berkeley.edu/papers/ERL-M90-34.pdf",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Web Embeddable Common Lisp",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "lisp, wasm",
+    "url": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "What's new in Gleam 1.11",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "video, gleam, release",
+    "url": "https://www.youtube.com/watch?v=AKIZG0Dq3Bc",
+    "date": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "forbidden secrets of ancient X11 scaling technology revealed",
+    "author": "",
+    "score": "66",
+    "comments": "0",
+    "tags": "graphics, unix",
+    "url": "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed",
+    "date": "2025-06-25",
+    "description": ""
+  }
+]

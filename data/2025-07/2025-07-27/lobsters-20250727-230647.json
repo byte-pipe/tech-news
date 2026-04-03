@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Designing a flatpack bed",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "hardware",
+    "url": "https://kevinlynagh.com/newsletter/2025_07_flatpack/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "Development shells with Nix: four quick examples",
+    "author": "",
+    "score": "36",
+    "comments": "0",
+    "tags": "nix",
+    "url": "https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "Formal specs as sets of behaviors",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "formalmethods",
+    "url": "https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "From Async/Await to Virtual Threads",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://lucumr.pocoo.org/2025/7/26/virtual-threads/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "Getting decent error reports in Bash when you're using 'set -e'",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "practices, programming",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
+    "author": "",
+    "score": "30",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "How I hacked my washing machine",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "reversing",
+    "url": "https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "How to configure X11 in a simple way",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "unix",
+    "url": "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "IPng Networks - Certificate Transparency - Part 1",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://ipng.ch/s/articles/2025/07/26/certificate-transparency-part-1/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "It's time for modern CSS to kill the SPA",
+    "author": "",
+    "score": "48",
+    "comments": "0",
+    "tags": "css, web",
+    "url": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "LLMs are bad at returning code in JSON",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://aider.chat/2024/08/14/code-in-json.html",
+    "date": "2025-07-27",
+    "description": "☶"
+  },
+  {
+    "title": "Optimi-Zi(n)g Sudoku-Solving",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "performance, zig",
+    "url": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "OverHAuL: Harnessing Automation for C Libraries with Large Language Models",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "ai, security, testing",
+    "url": "https://kchousos.github.io/BSc-Thesis/",
+    "date": "2025-07-27",
+    "description": "☶"
+  },
+  {
+    "title": "Perfecting anti-aliasing on signed distance functions",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "graphics",
+    "url": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "Protest footage blocked as online safety act comes into force",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "law",
+    "url": "https://freespeechunion.org/protest-footage-blocked-as-online-safety-act-comes-into-force/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "Resizable structs in Zig",
+    "author": "",
+    "score": "24",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://tristanpemble.com/resizable-structs-in-zig/",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "Revontuli Colorscheme Collection",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "design",
+    "url": "https://codeberg.org/akselmo/Revontuli",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "Specials (2021)",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "satire, unix",
+    "url": "https://www.brendangregg.com/specials.html",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "TIL: Exception.add_note",
+    "author": "",
+    "score": "34",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "Test results for AMD Zen 5",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "hardware, performance",
+    "url": "https://www.agner.org/forum/viewtopic.php?t=287&start=11",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "The JJ VCS Workshop: A Zero-to-Hero Speedrun",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "vcs",
+    "url": "https://github.com/jkoppel/jj-workshop",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "Wren - a small, fast, class-based concurrent scripting language",
+    "author": "",
+    "score": "51",
+    "comments": "0",
+    "tags": "plt",
+    "url": "https://github.com/wren-lang/wren",
+    "date": "2025-07-27",
+    "description": ""
+  },
+  {
+    "title": "copyparty: portable file server with resumable uploads, dedup, WebDAV, and more",
+    "author": "",
+    "score": "37",
+    "comments": "0",
+    "tags": "privacy, python",
+    "url": "https://github.com/9001/copyparty",
+    "date": "2025-07-27",
+    "description": "☶"
+  },
+  {
+    "title": "printSim: a command-line python program that turns gcode into realistic 3d printer sound",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://github.com/dannyboy1996/printSim",
+    "date": "2025-07-27",
+    "description": ""
+  }
+]

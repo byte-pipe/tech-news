@@ -1,0 +1,190 @@
+---
+title: The Quantum Echoes algorithm breakthrough
+url: https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/
+site_name: hackernews
+fetched_at: '2025-10-23T11:13:17.784818'
+original_url: https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/
+author: AbhishekParmar
+date: '2025-10-23'
+published_date: '2025-10-22'
+description: Our latest quantum breakthrough, Quantum Echoes, offers a path toward unprecedented scientific discoveries and analysis.
+---
+
+# Our Quantum Echoes algorithm is a big step toward real-world applications for quantum computing
+
+Oct 22, 2025
+
+·
+
+Our Willow quantum chip demonstrates the first-ever algorithm to achieve verifiable quantum advantage on hardware.
+
+Hartmut Neven
+
+ Founder and Lead, Google Quantum AI
+
+
+Vadim Smelyanskiy
+
+ Director, Quantum Pathfinding, Google Quantum AI
+
+
+ Sorry, your browser doesn't support embedded videos, but don't worry, you can
+
+download it
+
+ and watch it with your favorite video player!
+
+
+Editor’s note:Today, we’re announcing research that shows — for the first time in history — that a quantum computer can successfully run a verifiable algorithm on hardware, surpassing even the fastest classical supercomputers (13,000x faster). It can compute the structure of a molecule, and paves a path towards real-world applications. Today’s advance builds on decades of work, and six years of major breakthroughs. Back in 2019, wedemonstratedthat a quantum computer could solve a problem that would take the fastest classical supercomputer thousands of years. Then, late last year (2024), our newWillow quantum chipshowed how to dramatically suppress errors, solving a major issue that challenged scientists for nearly 30 years. Today’s breakthrough moves us much closer to quantum computers that can drive major discoveries in areas like medicine and materials science.
+
+Imagine you’re trying to find a lost ship at the bottom of the ocean. Sonar technology might give you a blurry shape and tell you, "There's a shipwreck down there." But what if you could not only find the ship but also read the nameplate on its hull?
+
+That's the kind of unprecedented precision we've just achieved with our Willow quantum chip. Today, we’re announcing a major algorithmic breakthrough that marks a significant step towards a first real-world application. Justpublished in Nature, we have demonstrated thefirst-ever verifiable quantum advantagerunning the out-of-order time correlator (OTOC) algorithm, which we call Quantum Echoes.
+
+Quantum Echoes can be useful in learning the structure of systems in nature, from molecules to magnets to black holes, and we’ve demonstrated it runs 13,000 times faster on Willow than the best classical algorithm on one of the world’s fastest supercomputers.
+
+In a separate, proof-of-principle experimentQuantum computation of molecular geometry via many-body nuclear spin echoes(to be posted on arXiv later today), we showed how our new technique — a “molecular ruler” — can measure longer distances than today’s methods, using data from Nuclear Magnetic Resonance (NMR) to gain more information about chemical structure.
+
+### The Quantum Echoes algorithm, a verifiable quantum advantage
+
+This is the first time in history that any quantum computer has successfully run a verifiable algorithm that surpasses the ability of supercomputers. Quantum verifiability means the result can be repeated on our quantum computer — or any other of the same caliber — to get the same answer, confirming the result. This repeatable, beyond-classical computation is the basis for scalable verification, bringing quantum computers closer to becoming tools for practical applications.
+
+Our new technique works like a highly advanced echo. We send a carefully crafted signal into our quantum system (qubits on Willow chip), perturb one qubit, then precisely reverse the signal’s evolution to listen for the "echo" that comes back.
+
+This quantum echo is special because it gets amplified by constructive interference — a phenomenon where quantum waves add up to become stronger. This makes our measurement incredibly sensitive.
+
+This diagram shows the four-step process for creating a quantum echo on our 105-qubit array: run operations forward, perturb one qubit, run operations backward, and measure the result. The signal's overlap reveals how a disturbance spreads across the Willow chip.
+
+This implementation of the Quantum Echoes algorithm is enabled by the advances inquantum hardwareof our Willow chip. Last year, Willow proved its power with our Random Circuit Sampling benchmark, a test designed to measure maximum quantum state complexity. The Quantum Echoes algorithm represents a new class of challenge because it models a physical experiment. This means this algorithm tests not only for complexity, but also for precision in the final calculation. This is why we call it “quantum verifiable,” meaning the result can be cross-benchmarked and verified by another quantum computer of similar quality. To deliver both precision and complexity, the hardware must have two key traits: extremely low error rates and high-speed operations.
+
+### Towards real world application
+
+Quantum computers will be instrumental in modeling quantum mechanical phenomena, such as the interactions of atoms and particles and the structure (or shape) of molecules. One of the tools scientists use to understand chemical structure is Nuclear Magnetic Resonance (NMR), the same science behind MRI technology. NMR acts as a molecular microscope, powerful enough to let us see the relative position of atoms, which helps us understand a molecule’s structure. Modeling molecules’ shape and dynamics is foundational in chemistry, biology and materials science, and advances that help us do this better underpin progress in fields ranging from biotechnology to solar energy to nuclear fusion.
+
+In aproof-of-principle experimentin partnership with The University of California, Berkeley, we ran the Quantum Echoes algorithm on our Willow chip to study two molecules, one with 15 atoms and another with 28 atoms, to verify this approach. The results on our quantum computer matched those of traditional NMR, and revealed information not usually available from NMR, which is a crucial validation of our approach.
+
+Just as the telescope and the microscope opened up new, unseen worlds, this experiment is a step toward a ‘quantum-scope’ capable of measuring previously unobservable natural phenomena. Quantum computing-enhanced NMR could become a powerful tool in drug discovery, helping determine how potential medicines bind to their targets, or in materials science for characterizing the molecular structure of new materials like polymers, battery components or even the materials that comprise our quantum bits (qubits).
+
+### What’s next
+
+This demonstration of the first-ever verifiable quantum advantage with our Quantum Echoes algorithm marks a significant step toward the first real-world applications of quantum computing.
+
+As we scale up towards a full-scale, error-corrected quantum computer, we expect many more such useful real-world applications to be invented. Now, we’re focused on achieving Milestone 3 on ourquantum hardware roadmap, a long-lived logical qubit.
+
+POSTED IN:
+
+### Related stories
+
+Research
+
+#### Our quantum hardware: the engine for verifiable quantum advantage
+
+ By
+
+
+
+
+ Yu Chen
+
+
+
+
+ &
+
+
+
+ Michel Devoret
+
+
+ Oct 22, 2025
+
+
+Research
+
+#### 10 years of genomics research at Google
+
+ By
+
+
+
+
+ Katherine Chou
+
+
+
+
+ &
+
+
+
+ Pushmeet Kohli
+
+
+ Oct 16, 2025
+
+
+Research
+
+#### DeepSomatic, an open-source AI model, is speeding up genetic analysis for cancer research.
+
+ Oct 16, 2025
+
+
+Google.org
+
+#### Congratulations to the 2025 Google Academic Research Award recipients
+
+ By
+
+
+
+
+ Rebecca Hardy
+
+
+ Oct 16, 2025
+
+
+Company announcements
+
+#### Googler Michel Devoret awarded the Nobel Prize in Physics
+
+ By
+
+
+
+
+ Hartmut Neven
+
+
+ Oct 07, 2025
+
+
+Research
+
+#### We’re scaling quantum computing even faster with Atlantic Quantum.
+
+ By
+
+
+
+
+ Hartmut Neven
+
+
+ Oct 02, 2025
+
+
+.
+
+ Jump to position 1
+
+ Jump to position 2
+
+ Jump to position 3
+
+ Jump to position 4
+
+ Jump to position 5
+
+ Jump to position 6

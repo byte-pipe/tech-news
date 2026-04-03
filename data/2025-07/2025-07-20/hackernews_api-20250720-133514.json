@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A 14kb page can load much faster than a 15kb page (2022)",
+    "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/",
+    "author": "truxs",
+    "date": "2025-07-19",
+    "score": 443,
+    "comments": 284,
+    "id": 44613625,
+    "discussion_url": "https://news.ycombinator.com/item?id=44613625",
+    "description": "A 14kb page can load much faster than a 15kb page (2022)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514432"
+  },
+  {
+    "title": "Advertising without signal: The rise of the grifter equilibrium",
+    "url": "https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/",
+    "author": "neehao",
+    "date": "2025-07-19",
+    "score": 163,
+    "comments": 79,
+    "id": 44612023,
+    "discussion_url": "https://news.ycombinator.com/item?id=44612023",
+    "description": "Advertising without signal: The rise of the grifter equilibrium",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514548"
+  },
+  {
+    "title": "Babies made using three people's DNA are born free of mitochondrial disease",
+    "url": "https://www.bbc.com/news/articles/cn8179z199vo",
+    "author": "1659447091",
+    "date": "2025-07-17",
+    "score": 261,
+    "comments": 152,
+    "id": 44587116,
+    "discussion_url": "https://news.ycombinator.com/item?id=44587116",
+    "description": "Babies made using three people's DNA are born free of mitochondrial disease",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514307"
+  },
+  {
+    "title": "Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files",
+    "url": "https://github.com/ryoppippi/ccusage",
+    "author": "kristianp",
+    "date": "2025-07-19",
+    "score": 74,
+    "comments": 28,
+    "id": 44610925,
+    "discussion_url": "https://news.ycombinator.com/item?id=44610925",
+    "description": "Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514544"
+  },
+  {
+    "title": "Death by AI",
+    "url": "https://davebarry.substack.com/p/death-by-ai",
+    "author": "ano-ther",
+    "date": "2025-07-20",
+    "score": 187,
+    "comments": 58,
+    "id": 44615801,
+    "discussion_url": "https://news.ycombinator.com/item?id=44615801",
+    "description": "Death by AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514312"
+  },
+  {
+    "title": "Felix Baumgartner, who jumped from stratosphere, dies in Italy",
+    "url": "https://www.theinternational.at/felix-baumgartner-who-jumped-from-stratosphere-dies-in-italy/",
+    "author": "signa11",
+    "date": "2025-07-19",
+    "score": 107,
+    "comments": 89,
+    "id": 44614292,
+    "discussion_url": "https://news.ycombinator.com/item?id=44614292",
+    "description": "Felix Baumgartner, who jumped from stratosphere, dies in Italy",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514494"
+  },
+  {
+    "title": "Fstrings.wtf",
+    "url": "https://fstrings.wtf/",
+    "author": "darkamaul",
+    "date": "2025-07-19",
+    "score": 383,
+    "comments": 119,
+    "id": 44614370,
+    "discussion_url": "https://news.ycombinator.com/item?id=44614370",
+    "description": "Fstrings.wtf",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514421"
+  },
+  {
+    "title": "How to write Rust in the Linux kernel: part 3",
+    "url": "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/",
+    "author": "chmaynard",
+    "date": "2025-07-19",
+    "score": 254,
+    "comments": 20,
+    "id": 44610468,
+    "discussion_url": "https://news.ycombinator.com/item?id=44610468",
+    "description": "How to write Rust in the Linux kernel: part 3",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514536"
+  },
+  {
+    "title": "How we tracked down a Go 1.24 memory regression",
+    "url": "https://www.datadoghq.com/blog/engineering/go-memory-regression/",
+    "author": "gandem",
+    "date": "2025-07-18",
+    "score": 129,
+    "comments": 8,
+    "id": 44597550,
+    "discussion_url": "https://news.ycombinator.com/item?id=44597550",
+    "description": "How we tracked down a Go 1.24 memory regression",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514405"
+  },
+  {
+    "title": "Hyatt Hotels are using algorithmic Rest “smoking detectors”",
+    "url": "https://twitter.com/_ZachGriff/status/1945959030851035223",
+    "author": "RebeccaTheDev",
+    "date": "2025-07-19",
+    "score": 753,
+    "comments": 439,
+    "id": 44612487,
+    "discussion_url": "https://news.ycombinator.com/item?id=44612487",
+    "description": "Hyatt Hotels are using algorithmic Rest “smoking detectors”",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514417"
+  },
+  {
+    "title": "Linux and Secure Boot certificate expiration",
+    "url": "https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/",
+    "author": "pabs3",
+    "date": "2025-07-18",
+    "score": 230,
+    "comments": 240,
+    "id": 44601045,
+    "discussion_url": "https://news.ycombinator.com/item?id=44601045",
+    "description": "Linux and Secure Boot certificate expiration",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514489"
+  },
+  {
+    "title": "Local LLMs versus offline Wikipedia",
+    "url": "https://evanhahn.com/local-llms-versus-offline-wikipedia/",
+    "author": "EvanHahn",
+    "date": "2025-07-20",
+    "score": 177,
+    "comments": 95,
+    "id": 44617078,
+    "discussion_url": "https://news.ycombinator.com/item?id=44617078",
+    "description": "Local LLMs versus offline Wikipedia",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514285"
+  },
+  {
+    "title": "MCP Security Vulnerabilities and Attack Vectors",
+    "url": "https://forgecode.dev/blog/prevent-attacks-on-mcp/",
+    "author": "tested1",
+    "date": "2025-07-20",
+    "score": 152,
+    "comments": 16,
+    "id": 44617910,
+    "discussion_url": "https://news.ycombinator.com/item?id=44617910",
+    "description": "MCP Security Vulnerabilities and Attack Vectors",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514264"
+  },
+  {
+    "title": "Make Your Own Backup System – Part 1: Strategy Before Scripts",
+    "url": "https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/",
+    "author": "Bogdanp",
+    "date": "2025-07-20",
+    "score": 183,
+    "comments": 64,
+    "id": 44618687,
+    "discussion_url": "https://news.ycombinator.com/item?id=44618687",
+    "description": "Make Your Own Backup System – Part 1: Strategy Before Scripts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514271"
+  },
+  {
+    "title": "Mushroom learns to crawl after being given robot body (2024)",
+    "url": "https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html",
+    "author": "Anon84",
+    "date": "2025-07-17",
+    "score": 73,
+    "comments": 12,
+    "id": 44591775,
+    "discussion_url": "https://news.ycombinator.com/item?id=44591775",
+    "description": "Mushroom learns to crawl after being given robot body (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514301"
+  },
+  {
+    "title": "My Self-Hosting Setup",
+    "url": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
+    "author": "mirdaki",
+    "date": "2025-07-19",
+    "score": 538,
+    "comments": 185,
+    "id": 44612151,
+    "discussion_url": "https://news.ycombinator.com/item?id=44612151",
+    "description": "My Self-Hosting Setup",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514440"
+  },
+  {
+    "title": "Nobody knows how to build with AI yet",
+    "url": "https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai",
+    "author": "Stwerner",
+    "date": "2025-07-20",
+    "score": 247,
+    "comments": 207,
+    "id": 44616479,
+    "discussion_url": "https://news.ycombinator.com/item?id=44616479",
+    "description": "Nobody knows how to build with AI yet",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514290"
+  },
+  {
+    "title": "OpenAI claims gold-medal performance at IMO 2025",
+    "url": "https://twitter.com/alexwei_/status/1946477742855532918",
+    "author": "Davidzheng",
+    "date": "2025-07-19",
+    "score": 424,
+    "comments": 635,
+    "id": 44613840,
+    "discussion_url": "https://news.ycombinator.com/item?id=44613840",
+    "description": "OpenAI claims gold-medal performance at IMO 2025",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514353"
+  },
+  {
+    "title": "Pimping My Casio: Part Deux",
+    "url": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
+    "author": "r4um",
+    "date": "2025-07-19",
+    "score": 169,
+    "comments": 53,
+    "id": 44613486,
+    "discussion_url": "https://news.ycombinator.com/item?id=44613486",
+    "description": "Pimping My Casio: Part Deux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514400"
+  },
+  {
+    "title": "Rethinking CLI interfaces for AI",
+    "url": "https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/",
+    "author": "Bogdanp",
+    "date": "2025-07-20",
+    "score": 137,
+    "comments": 67,
+    "id": 44617184,
+    "discussion_url": "https://news.ycombinator.com/item?id=44617184",
+    "description": "Rethinking CLI interfaces for AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514367"
+  },
+  {
+    "title": "Ring introducing new feature to allow police to live-stream access to cameras",
+    "url": "https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance",
+    "author": "xoa",
+    "date": "2025-07-20",
+    "score": 167,
+    "comments": 79,
+    "id": 44620002,
+    "discussion_url": "https://news.ycombinator.com/item?id=44620002",
+    "description": "Ring introducing new feature to allow police to live-stream access to cameras",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514325"
+  },
+  {
+    "title": "Section 174 is reversed, mostly",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-section-174-is-reversed",
+    "author": "jawns",
+    "date": "2025-07-19",
+    "score": 143,
+    "comments": 89,
+    "id": 44607961,
+    "discussion_url": "https://news.ycombinator.com/item?id=44607961",
+    "description": "Section 174 is reversed, mostly",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514540"
+  },
+  {
+    "title": "TSMC to start building four new plants with 1.4nm technology",
+    "url": "https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583",
+    "author": "giuliomagnifico",
+    "date": "2025-07-20",
+    "score": 141,
+    "comments": 95,
+    "id": 44618762,
+    "discussion_url": "https://news.ycombinator.com/item?id=44618762",
+    "description": "TSMC to start building four new plants with 1.4nm technology",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514320"
+  },
+  {
+    "title": "The borrowchecker is what I like the least about Rust",
+    "url": "https://viralinstruction.com/posts/borrowchecker/",
+    "author": "jakobnissen",
+    "date": "2025-07-20",
+    "score": 161,
+    "comments": 217,
+    "id": 44618535,
+    "discussion_url": "https://news.ycombinator.com/item?id=44618535",
+    "description": "The borrowchecker is what I like the least about Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514358"
+  },
+  {
+    "title": "The curious case of the Unix workstation layout",
+    "url": "https://thejpster.org.uk/blog/blog-2025-07-19/",
+    "author": "ingve",
+    "date": "2025-07-20",
+    "score": 73,
+    "comments": 21,
+    "id": 44616760,
+    "discussion_url": "https://news.ycombinator.com/item?id=44616760",
+    "description": "The curious case of the Unix workstation layout",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514384"
+  },
+  {
+    "title": "Valve confirms credit card companies pressured it to delist certain adult games",
+    "url": "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/",
+    "author": "freedomben",
+    "date": "2025-07-19",
+    "score": 846,
+    "comments": 831,
+    "id": 44606184,
+    "discussion_url": "https://news.ycombinator.com/item?id=44606184",
+    "description": "Valve confirms credit card companies pressured it to delist certain adult games",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514444"
+  },
+  {
+    "title": "What the Fuck Python",
+    "url": "https://colab.research.google.com/github/satwikkansal/wtfpython/blob/master/irrelevant/wtf.ipynb",
+    "author": "sundarurfriend",
+    "date": "2025-07-20",
+    "score": 131,
+    "comments": 139,
+    "id": 44618335,
+    "discussion_url": "https://news.ycombinator.com/item?id=44618335",
+    "description": "What the Fuck Python",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514375"
+  },
+  {
+    "title": "YouTube No Translation",
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/",
+    "author": "thefox",
+    "date": "2025-07-19",
+    "score": 204,
+    "comments": 94,
+    "id": 44613491,
+    "discussion_url": "https://news.ycombinator.com/item?id=44613491",
+    "description": "YouTube No Translation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514497"
+  },
+  {
+    "title": "Zig Interface Revisited",
+    "url": "https://williamw520.github.io/2025/07/13/zig-interface-revisited.html",
+    "author": "ww520",
+    "date": "2025-07-17",
+    "score": 85,
+    "comments": 20,
+    "id": 44584414,
+    "discussion_url": "https://news.ycombinator.com/item?id=44584414",
+    "description": "Zig Interface Revisited",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514363"
+  },
+  {
+    "title": "Zig's New Writer",
+    "url": "https://www.openmymind.net/Zigs-New-Writer/",
+    "author": "Bogdanp",
+    "date": "2025-07-18",
+    "score": 100,
+    "comments": 14,
+    "id": 44594165,
+    "discussion_url": "https://news.ycombinator.com/item?id=44594165",
+    "description": "Zig's New Writer",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-20T13:35:14.514506"
+  }
+]

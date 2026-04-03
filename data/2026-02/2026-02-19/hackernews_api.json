@@ -1,0 +1,512 @@
+[
+  {
+    "title": "-fbounds-safety: Enforcing bounds safety for C",
+    "url": "https://clang.llvm.org/docs/BoundsSafety.html",
+    "author": "thefilmore",
+    "date": "2026-02-16",
+    "score": 91,
+    "comments": 83,
+    "id": 47035088,
+    "discussion_url": "https://news.ycombinator.com/item?id=47035088",
+    "description": "-fbounds-safety: Enforcing bounds safety for C",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375157"
+  },
+  {
+    "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+    "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+    "author": "fp64enjoyer",
+    "date": "2026-02-19",
+    "score": 188,
+    "comments": 68,
+    "id": 47068890,
+    "discussion_url": "https://news.ycombinator.com/item?id=47068890",
+    "description": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375113"
+  },
+  {
+    "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+    "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+    "author": "surprisetalk",
+    "date": "2026-02-18",
+    "score": 429,
+    "comments": 252,
+    "id": 47066241,
+    "discussion_url": "https://news.ycombinator.com/item?id=47066241",
+    "description": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375246"
+  },
+  {
+    "title": "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
+    "url": "https://tempus-word.de/en/index",
+    "author": "muzzy19",
+    "date": "2026-02-16",
+    "score": 99,
+    "comments": 44,
+    "id": 47038578,
+    "discussion_url": "https://news.ycombinator.com/item?id=47038578",
+    "description": "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375187"
+  },
+  {
+    "title": "AI makes you boring",
+    "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+    "author": "speckx",
+    "date": "2026-02-19",
+    "score": 258,
+    "comments": 170,
+    "id": 47076966,
+    "discussion_url": "https://news.ycombinator.com/item?id=47076966",
+    "description": "AI makes you boring",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375250"
+  },
+  {
+    "title": "All Look Same?",
+    "url": "https://alllooksame.com/",
+    "author": "mirawelner",
+    "date": "2026-02-18",
+    "score": 98,
+    "comments": 77,
+    "id": 47067498,
+    "discussion_url": "https://news.ycombinator.com/item?id=47067498",
+    "description": "All Look Same?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375275"
+  },
+  {
+    "title": "America vs. Singapore: You Can't Save Your Way Out of Economic Shocks",
+    "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+    "author": "guardianbob",
+    "date": "2026-02-19",
+    "score": 152,
+    "comments": 187,
+    "id": 47074389,
+    "discussion_url": "https://news.ycombinator.com/item?id=47074389",
+    "description": "America vs. Singapore: You Can't Save Your Way Out of Economic Shocks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375201"
+  },
+  {
+    "title": "Anthropic officially bans using subscription auth for third party use",
+    "url": "https://code.claude.com/docs/en/legal-and-compliance",
+    "author": "theahura",
+    "date": "2026-02-19",
+    "score": 581,
+    "comments": 711,
+    "id": 47069299,
+    "discussion_url": "https://news.ycombinator.com/item?id=47069299",
+    "description": "Anthropic officially bans using subscription auth for third party use",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375183"
+  },
+  {
+    "title": "Bridging Elixir and Python with Oban",
+    "url": "https://oban.pro/articles/bridging-with-oban",
+    "author": "sorentwo",
+    "date": "2026-02-19",
+    "score": 98,
+    "comments": 46,
+    "id": 47072539,
+    "discussion_url": "https://news.ycombinator.com/item?id=47072539",
+    "description": "Bridging Elixir and Python with Oban",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375293"
+  },
+  {
+    "title": "Coding Tricks Used in the C64 Game Seawolves",
+    "url": "https://kodiak64.co.uk/blog/seawolves-technical-tricks",
+    "author": "atan2",
+    "date": "2026-02-19",
+    "score": 83,
+    "comments": 6,
+    "id": 47073044,
+    "discussion_url": "https://news.ycombinator.com/item?id=47073044",
+    "description": "Coding Tricks Used in the C64 Game Seawolves",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375325"
+  },
+  {
+    "title": "Cosmologically Unique IDs",
+    "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "author": "jfantl",
+    "date": "2026-02-18",
+    "score": 445,
+    "comments": 147,
+    "id": 47064490,
+    "discussion_url": "https://news.ycombinator.com/item?id=47064490",
+    "description": "Cosmologically Unique IDs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375317"
+  },
+  {
+    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+    "author": "benbreen",
+    "date": "2026-02-16",
+    "score": 153,
+    "comments": 63,
+    "id": 47038032,
+    "discussion_url": "https://news.ycombinator.com/item?id=47038032",
+    "description": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375225"
+  },
+  {
+    "title": "Gemini 3.1 Pro",
+    "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+    "author": "PunchTornado",
+    "date": "2026-02-19",
+    "score": 486,
+    "comments": 329,
+    "id": 47075318,
+    "discussion_url": "https://news.ycombinator.com/item?id=47075318",
+    "description": "Gemini 3.1 Pro",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375284"
+  },
+  {
+    "title": "Gemini 3.1 Pro Preview",
+    "url": "https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1",
+    "author": "MallocVoidstar",
+    "date": "2026-02-19",
+    "score": 158,
+    "comments": 84,
+    "id": 47074735,
+    "discussion_url": "https://news.ycombinator.com/item?id=47074735",
+    "description": "Gemini 3.1 Pro Preview",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375086"
+  },
+  {
+    "title": "How AI is affecting productivity and jobs in Europe",
+    "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+    "author": "pseudolus",
+    "date": "2026-02-19",
+    "score": 158,
+    "comments": 123,
+    "id": 47068320,
+    "discussion_url": "https://news.ycombinator.com/item?id=47068320",
+    "description": "How AI is affecting productivity and jobs in Europe",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375333"
+  },
+  {
+    "title": "How to choose between Hindley-Milner and bidirectional typing",
+    "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+    "author": "thunderseethe",
+    "date": "2026-02-15",
+    "score": 126,
+    "comments": 48,
+    "id": 47025885,
+    "discussion_url": "https://news.ycombinator.com/item?id=47025885",
+    "description": "How to choose between Hindley-Milner and bidirectional typing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375217"
+  },
+  {
+    "title": "Minecraft Java is switching from OpenGL to Vulkan",
+    "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
+    "author": "tuananh",
+    "date": "2026-02-19",
+    "score": 261,
+    "comments": 150,
+    "id": 47068948,
+    "discussion_url": "https://news.ycombinator.com/item?id=47068948",
+    "description": "Minecraft Java is switching from OpenGL to Vulkan",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375368"
+  },
+  {
+    "title": "Paged Out Issue #8 [pdf]",
+    "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+    "author": "SteveHawk27",
+    "date": "2026-02-19",
+    "score": 203,
+    "comments": 40,
+    "id": 47072968,
+    "discussion_url": "https://news.ycombinator.com/item?id=47072968",
+    "description": "Paged Out Issue #8 [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375271"
+  },
+  {
+    "title": "Pebble Production: February Update",
+    "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+    "author": "smig0",
+    "date": "2026-02-19",
+    "score": 208,
+    "comments": 94,
+    "id": 47073112,
+    "discussion_url": "https://news.ycombinator.com/item?id=47073112",
+    "description": "Pebble Production: February Update",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375254"
+  },
+  {
+    "title": "R3forth: A concatenative language derived from ColorForth",
+    "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+    "author": "tosh",
+    "date": "2026-02-18",
+    "score": 92,
+    "comments": 21,
+    "id": 47065179,
+    "discussion_url": "https://news.ycombinator.com/item?id=47065179",
+    "description": "R3forth: A concatenative language derived from ColorForth",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375336"
+  },
+  {
+    "title": "Show HN: A physically-based GPU ray tracer written in Julia",
+    "url": "https://makie.org/website/blogposts/raytracing/",
+    "author": "simondanisch",
+    "date": "2026-02-19",
+    "score": 128,
+    "comments": 46,
+    "id": 47072444,
+    "discussion_url": "https://news.ycombinator.com/item?id=47072444",
+    "description": "Show HN: A physically-based GPU ray tracer written in Julia",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375242"
+  },
+  {
+    "title": "Show HN: Micasa – track your house from the terminal",
+    "url": "https://micasa.dev",
+    "author": "cpcloud",
+    "date": "2026-02-19",
+    "score": 144,
+    "comments": 55,
+    "id": 47075124,
+    "discussion_url": "https://news.ycombinator.com/item?id=47075124",
+    "description": "Show HN: Micasa – track your house from the terminal",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375073"
+  },
+  {
+    "title": "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
+    "url": "https://github.com/fjrevoredo/mini-diarium",
+    "author": "holyknight",
+    "date": "2026-02-19",
+    "score": 87,
+    "comments": 43,
+    "id": 47072863,
+    "discussion_url": "https://news.ycombinator.com/item?id=47072863",
+    "description": "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375313"
+  },
+  {
+    "title": "Sizing chaos",
+    "url": "https://pudding.cool/2026/02/womens-sizing/",
+    "author": "zdw",
+    "date": "2026-02-18",
+    "score": 774,
+    "comments": 401,
+    "id": 47066552,
+    "discussion_url": "https://news.ycombinator.com/item?id=47066552",
+    "description": "Sizing chaos",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375178"
+  },
+  {
+    "title": "South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection",
+    "url": "https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea",
+    "author": "Geekette",
+    "date": "2026-02-19",
+    "score": 120,
+    "comments": 46,
+    "id": 47077163,
+    "discussion_url": "https://news.ycombinator.com/item?id=47077163",
+    "description": "South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375093"
+  },
+  {
+    "title": "Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed",
+    "url": "https://static.stepfun.com/blog/step-3.5-flash/",
+    "author": "kristianp",
+    "date": "2026-02-19",
+    "score": 185,
+    "comments": 83,
+    "id": 47069179,
+    "discussion_url": "https://news.ycombinator.com/item?id=47069179",
+    "description": "Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375129"
+  },
+  {
+    "title": "The Mongol Khans of Medieval France",
+    "url": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
+    "author": "Thevet",
+    "date": "2026-02-16",
+    "score": 88,
+    "comments": 48,
+    "id": 47041225,
+    "discussion_url": "https://news.ycombinator.com/item?id=47041225",
+    "description": "The Mongol Khans of Medieval France",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375164"
+  },
+  {
+    "title": "The Perils of ISBN",
+    "url": "https://rygoldstein.com/posts/perils-of-isbn",
+    "author": "evakhoury",
+    "date": "2026-02-18",
+    "score": 151,
+    "comments": 77,
+    "id": 47063663,
+    "discussion_url": "https://news.ycombinator.com/item?id=47063663",
+    "description": "The Perils of ISBN",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375258"
+  },
+  {
+    "title": "Voith Schneider Propeller",
+    "url": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
+    "author": "Luc",
+    "date": "2026-02-15",
+    "score": 86,
+    "comments": 24,
+    "id": 47027171,
+    "discussion_url": "https://news.ycombinator.com/item?id=47027171",
+    "description": "Voith Schneider Propeller",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375321"
+  },
+  {
+    "title": "What years of production-grade concurrency teaches us about building AI agents",
+    "url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
+    "author": "ellieh",
+    "date": "2026-02-18",
+    "score": 118,
+    "comments": 41,
+    "id": 47067395,
+    "discussion_url": "https://news.ycombinator.com/item?id=47067395",
+    "description": "What years of production-grade concurrency teaches us about building AI agents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-02-19T19:25:03.375297"
+  }
+]

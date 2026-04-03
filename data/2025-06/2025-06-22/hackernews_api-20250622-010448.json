@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A Python-first data lakehouse",
+    "url": "https://www.bauplanlabs.com/blog/everything-as-python",
+    "author": "akshayka",
+    "date": "2025-06-18",
+    "score": 128,
+    "comments": 42,
+    "id": 44304607,
+    "discussion_url": "https://news.ycombinator.com/item?id=44304607",
+    "description": "A Python-first data lakehouse",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255443"
+  },
+  {
+    "title": "A brief, incomplete, and mostly wrong history of robotics",
+    "url": "https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong",
+    "author": "Bogdanp",
+    "date": "2025-06-17",
+    "score": 116,
+    "comments": 63,
+    "id": 44291052,
+    "discussion_url": "https://news.ycombinator.com/item?id=44291052",
+    "description": "A brief, incomplete, and mostly wrong history of robotics",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255414"
+  },
+  {
+    "title": "AMD's Freshly-Baked MI350: An Interview with the Chief Architect",
+    "url": "https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview",
+    "author": "pella",
+    "date": "2025-06-21",
+    "score": 114,
+    "comments": 64,
+    "id": 44332221,
+    "discussion_url": "https://news.ycombinator.com/item?id=44332221",
+    "description": "AMD's Freshly-Baked MI350: An Interview with the Chief Architect",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255381"
+  },
+  {
+    "title": "AbsenceBench: Language models can't tell what's missing",
+    "url": "https://arxiv.org/abs/2506.11440",
+    "author": "JnBrymn",
+    "date": "2025-06-21",
+    "score": 269,
+    "comments": 61,
+    "id": 44332699,
+    "discussion_url": "https://news.ycombinator.com/item?id=44332699",
+    "description": "AbsenceBench: Language models can't tell what's missing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255302"
+  },
+  {
+    "title": "Alpha Centauri",
+    "url": "https://www.filfre.net/2025/06/alpha-centauri/",
+    "author": "doppp",
+    "date": "2025-06-21",
+    "score": 183,
+    "comments": 57,
+    "id": 44329600,
+    "discussion_url": "https://news.ycombinator.com/item?id=44329600",
+    "description": "Alpha Centauri",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255393"
+  },
+  {
+    "title": "Andrej Karpathy: Software in the era of AI [video]",
+    "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+    "author": "sandslash",
+    "date": "2025-06-19",
+    "score": 1389,
+    "comments": 760,
+    "id": 44314423,
+    "discussion_url": "https://news.ycombinator.com/item?id=44314423",
+    "description": "Andrej Karpathy: Software in the era of AI [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255435"
+  },
+  {
+    "title": "BYD begins testing solid-state EV batteries in the Seal",
+    "url": "https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/",
+    "author": "toomuchtodo",
+    "date": "2025-06-21",
+    "score": 153,
+    "comments": 177,
+    "id": 44331898,
+    "discussion_url": "https://news.ycombinator.com/item?id=44331898",
+    "description": "BYD begins testing solid-state EV batteries in the Seal",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255480"
+  },
+  {
+    "title": "College baseball, venture capital, and the long maybe",
+    "url": "https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/",
+    "author": "bcantrill",
+    "date": "2025-06-17",
+    "score": 166,
+    "comments": 116,
+    "id": 44290992,
+    "discussion_url": "https://news.ycombinator.com/item?id=44290992",
+    "description": "College baseball, venture capital, and the long maybe",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255377"
+  },
+  {
+    "title": "Cosmoe: BeOS Class Library on Top of Wayland",
+    "url": "https://cosmoe.org/index.html",
+    "author": "Bogdanp",
+    "date": "2025-06-21",
+    "score": 112,
+    "comments": 41,
+    "id": 44335907,
+    "discussion_url": "https://news.ycombinator.com/item?id=44335907",
+    "description": "Cosmoe: BeOS Class Library on Top of Wayland",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255231"
+  },
+  {
+    "title": "Delta Chat is a decentralized and secure messenger app",
+    "url": "https://delta.chat/en/",
+    "author": "Bluestein",
+    "date": "2025-06-21",
+    "score": 110,
+    "comments": 43,
+    "id": 44335065,
+    "discussion_url": "https://news.ycombinator.com/item?id=44335065",
+    "description": "Delta Chat is a decentralized and secure messenger app",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255278"
+  },
+  {
+    "title": "Harper – an open-source alternative to Grammarly",
+    "url": "https://writewithharper.com",
+    "author": "ReadCarlBarks",
+    "date": "2025-06-21",
+    "score": 428,
+    "comments": 118,
+    "id": 44331362,
+    "discussion_url": "https://news.ycombinator.com/item?id=44331362",
+    "description": "Harper – an open-source alternative to Grammarly",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255298"
+  },
+  {
+    "title": "Hurl: Run and test HTTP requests with plain text",
+    "url": "https://github.com/Orange-OpenSource/hurl",
+    "author": "flykespice",
+    "date": "2025-06-20",
+    "score": 437,
+    "comments": 99,
+    "id": 44324592,
+    "discussion_url": "https://news.ycombinator.com/item?id=44324592",
+    "description": "Hurl: Run and test HTTP requests with plain text",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255476"
+  },
+  {
+    "title": "Jürgen Schmidhuber：the Father of Generative AI Without Turing Award",
+    "url": "http://www.jazzyear.com/article_info.html?id=1352",
+    "author": "kleiba",
+    "date": "2025-06-21",
+    "score": 104,
+    "comments": 51,
+    "id": 44330850,
+    "discussion_url": "https://news.ycombinator.com/item?id=44330850",
+    "description": "Jürgen Schmidhuber：the Father of Generative AI Without Turing Award",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255472"
+  },
+  {
+    "title": "Klong: A Simple Array Language",
+    "url": "https://t3x.org/klong/",
+    "author": "tosh",
+    "date": "2025-06-20",
+    "score": 121,
+    "comments": 63,
+    "id": 44327173,
+    "discussion_url": "https://news.ycombinator.com/item?id=44327173",
+    "description": "Klong: A Simple Array Language",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255447"
+  },
+  {
+    "title": "Learn You Galois Fields for Great Good (00)",
+    "url": "https://xorvoid.com/galois_fields_for_great_good_00.html",
+    "author": "signa11",
+    "date": "2025-06-21",
+    "score": 106,
+    "comments": 19,
+    "id": 44333388,
+    "discussion_url": "https://news.ycombinator.com/item?id=44333388",
+    "description": "Learn You Galois Fields for Great Good (00)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255344"
+  },
+  {
+    "title": "Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor (2018)",
+    "url": "https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor",
+    "author": "keepamovin",
+    "date": "2025-06-20",
+    "score": 191,
+    "comments": 108,
+    "id": 44326145,
+    "discussion_url": "https://news.ycombinator.com/item?id=44326145",
+    "description": "Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor (2018)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255385"
+  },
+  {
+    "title": "Open source can't coordinate?",
+    "url": "https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html",
+    "author": "LorenDB",
+    "date": "2025-06-20",
+    "score": 173,
+    "comments": 224,
+    "id": 44323904,
+    "discussion_url": "https://news.ycombinator.com/item?id=44323904",
+    "description": "Open source can't coordinate?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255460"
+  },
+  {
+    "title": "Phoenix.new – Remote AI Runtime for Phoenix",
+    "url": "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/",
+    "author": "wut42",
+    "date": "2025-06-21",
+    "score": 494,
+    "comments": 221,
+    "id": 44328326,
+    "discussion_url": "https://news.ycombinator.com/item?id=44328326",
+    "description": "Phoenix.new – Remote AI Runtime for Phoenix",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255289"
+  },
+  {
+    "title": "Plastic bag bans and fees reduce harmful bag litter on shorelines",
+    "url": "https://www.science.org/doi/10.1126/science.adp9274",
+    "author": "miles",
+    "date": "2025-06-21",
+    "score": 128,
+    "comments": 73,
+    "id": 44333187,
+    "discussion_url": "https://news.ycombinator.com/item?id=44333187",
+    "description": "Plastic bag bans and fees reduce harmful bag litter on shorelines",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255323"
+  },
+  {
+    "title": "Samsung embeds IronSource spyware app on phones across WANA",
+    "url": "https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/",
+    "author": "the-anarchist",
+    "date": "2025-06-21",
+    "score": 514,
+    "comments": 317,
+    "id": 44334167,
+    "discussion_url": "https://news.ycombinator.com/item?id=44334167",
+    "description": "Samsung embeds IronSource spyware app on phones across WANA",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255284"
+  },
+  {
+    "title": "Sega mistakenly reveals sales numbers of popular games",
+    "url": "https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more",
+    "author": "kelt",
+    "date": "2025-06-21",
+    "score": 162,
+    "comments": 132,
+    "id": 44335038,
+    "discussion_url": "https://news.ycombinator.com/item?id=44335038",
+    "description": "Sega mistakenly reveals sales numbers of popular games",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255315"
+  },
+  {
+    "title": "Show HN: Inspect and extract files from MSI installers directly in your browser",
+    "url": "https://pymsi.readthedocs.io/en/latest/msi_viewer.html",
+    "author": "rmast",
+    "date": "2025-06-21",
+    "score": 116,
+    "comments": 19,
+    "id": 44331518,
+    "discussion_url": "https://news.ycombinator.com/item?id=44331518",
+    "description": "Show HN: Inspect and extract files from MSI installers directly in your browser",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255431"
+  },
+  {
+    "title": "Show HN: Nxtscape – an open-source agentic browser",
+    "url": "https://github.com/nxtscape/nxtscape",
+    "author": "felarof",
+    "date": "2025-06-21",
+    "score": 276,
+    "comments": 170,
+    "id": 44329457,
+    "discussion_url": "https://news.ycombinator.com/item?id=44329457",
+    "description": "Show HN: Nxtscape – an open-source agentic browser",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255357"
+  },
+  {
+    "title": "The JAWS shark is public domain",
+    "url": "https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/",
+    "author": "MBCook",
+    "date": "2025-06-21",
+    "score": 141,
+    "comments": 29,
+    "id": 44331125,
+    "discussion_url": "https://news.ycombinator.com/item?id=44331125",
+    "description": "The JAWS shark is public domain",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255468"
+  },
+  {
+    "title": "Tuxracer.js play Tux Racer in the browser",
+    "url": "https://github.com/ebbejan/tux-racer-js",
+    "author": "retro_guy",
+    "date": "2025-06-21",
+    "score": 123,
+    "comments": 37,
+    "id": 44329640,
+    "discussion_url": "https://news.ycombinator.com/item?id=44329640",
+    "description": "Tuxracer.js play Tux Racer in the browser",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255405"
+  },
+  {
+    "title": "Unexpected security footguns in Go's parsers",
+    "url": "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/",
+    "author": "ingve",
+    "date": "2025-06-18",
+    "score": 115,
+    "comments": 51,
+    "id": 44308953,
+    "discussion_url": "https://news.ycombinator.com/item?id=44308953",
+    "description": "Unexpected security footguns in Go's parsers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255306"
+  },
+  {
+    "title": "Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä",
+    "url": "https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/",
+    "author": "zdw",
+    "date": "2025-06-21",
+    "score": 233,
+    "comments": 63,
+    "id": 44328598,
+    "discussion_url": "https://news.ycombinator.com/item?id=44328598",
+    "description": "Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255340"
+  },
+  {
+    "title": "We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible",
+    "url": "https://medium.com/@accounts_73078/goodbye-aws-how-we-kept-iso-27001-slashed-costs-by-90-914ccb4b89fc",
+    "author": "sksjvsla",
+    "date": "2025-06-21",
+    "score": 179,
+    "comments": 93,
+    "id": 44335920,
+    "discussion_url": "https://news.ycombinator.com/item?id=44335920",
+    "description": "We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255419"
+  },
+  {
+    "title": "Wiki Radio: The thrilling sound of random Wikipedia",
+    "url": "https://www.monkeon.co.uk/wikiradio/",
+    "author": "if-curious",
+    "date": "2025-06-21",
+    "score": 126,
+    "comments": 26,
+    "id": 44332170,
+    "discussion_url": "https://news.ycombinator.com/item?id=44332170",
+    "description": "Wiki Radio: The thrilling sound of random Wikipedia",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255352"
+  },
+  {
+    "title": "YouTube's new anti-adblock measures",
+    "url": "https://iter.ca/post/yt-adblock/",
+    "author": "smitop",
+    "date": "2025-06-21",
+    "score": 652,
+    "comments": 962,
+    "id": 44329712,
+    "discussion_url": "https://news.ycombinator.com/item?id=44329712",
+    "description": "YouTube's new anti-adblock measures",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-06-22T01:04:48.255332"
+  }
+]

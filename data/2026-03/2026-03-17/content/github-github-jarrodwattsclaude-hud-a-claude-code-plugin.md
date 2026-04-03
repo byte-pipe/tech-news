@@ -1,0 +1,912 @@
+---
+title: 'GitHub - jarrodwatts/claude-hud: A Claude Code plugin that shows what''s happening - context usage, active tools, running agents, and todo progress · GitHub'
+url: https://github.com/jarrodwatts/claude-hud
+site_name: github
+content_file: github-github-jarrodwattsclaude-hud-a-claude-code-plugin
+fetched_at: '2026-03-17T11:21:38.289093'
+original_url: https://github.com/jarrodwatts/claude-hud
+author: jarrodwatts
+description: A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress - jarrodwatts/claude-hud
+---
+
+jarrodwatts
+
+ 
+
+/
+
+claude-hud
+
+Public
+
+* NotificationsYou must be signed in to change notification settings
+* Fork231
+* Star5.1k
+
+ 
+ 
+ 
+ 
+main
+Branches
+Tags
+Go to file
+Code
+Open more actions menu
+
+## Folders and files
+
+Name
+Name
+Last commit message
+Last commit date
+
+## Latest commit
+
+ 
+
+## History
+
+271 Commits
+271 Commits
+.claude-plugin
+.claude-plugin
+ 
+ 
+.github
+.github
+ 
+ 
+commands
+commands
+ 
+ 
+dist
+dist
+ 
+ 
+src
+src
+ 
+ 
+tests
+tests
+ 
+ 
+.editorconfig
+.editorconfig
+ 
+ 
+.gitignore
+.gitignore
+ 
+ 
+CHANGELOG.md
+CHANGELOG.md
+ 
+ 
+CLAUDE.README.md
+CLAUDE.README.md
+ 
+ 
+CLAUDE.md
+CLAUDE.md
+ 
+ 
+CODE_OF_CONDUCT.md
+CODE_OF_CONDUCT.md
+ 
+ 
+CONTRIBUTING.md
+CONTRIBUTING.md
+ 
+ 
+LICENSE
+LICENSE
+ 
+ 
+MAINTAINERS.md
+MAINTAINERS.md
+ 
+ 
+README.md
+README.md
+ 
+ 
+RELEASING.md
+RELEASING.md
+ 
+ 
+SECURITY.md
+SECURITY.md
+ 
+ 
+SUPPORT.md
+SUPPORT.md
+ 
+ 
+TESTING.md
+TESTING.md
+ 
+ 
+claude-hud-preview-16-9.png
+claude-hud-preview-16-9.png
+ 
+ 
+claude-hud-preview-5-2.png
+claude-hud-preview-5-2.png
+ 
+ 
+package-lock.json
+package-lock.json
+ 
+ 
+package.json
+package.json
+ 
+ 
+tsconfig.json
+tsconfig.json
+ 
+ 
+View all files
+
+## Repository files navigation
+
+# Claude HUD
+
+A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input.
+
+## Install
+
+Inside a Claude Code instance, run the following commands:
+
+Step 1: Add the marketplace
+
+/plugin marketplace add jarrodwatts/claude-hud
+
+Step 2: Install the plugin
+
+⚠️
+ Linux users: Click here first
+
+On Linux,/tmpis often a separate filesystem (tmpfs), which causes plugin installation to fail with:
+
+EXDEV: cross-device link not permitted
+
+Fix: Set TMPDIR before installing:
+
+mkdir -p 
+~
+/.cache/tmp 
+&&
+ TMPDIR=
+~
+/.cache/tmp claude
+
+Then run the install command below in that session. This is aClaude Code platform limitation.
+
+/plugin install claude-hud
+
+Step 3: Configure the statusline
+
+/claude-hud:setup
+
+Done! The HUD appears immediately — no restart needed.
+
+## What is Claude HUD?
+
+Claude HUD gives you better insights into what's happening in your Claude Code session.
+
+What You See
+
+Why It Matters
+
+Project path
+
+Know which project you're in (configurable 1-3 directory levels)
+
+Context health
+
+Know exactly how full your context window is before it's too late
+
+Tool activity
+
+Watch Claude read, edit, and search files as it happens
+
+Agent tracking
+
+See which subagents are running and what they're doing
+
+Todo progress
+
+Track task completion in real-time
+
+## What You See
+
+### Default (2 lines)
+
+[Opus | Max] │ my-project git:(main*)
+Context █████░░░░░ 45% │ Usage ██░░░░░░░░ 25% (1h 30m / 5h)
+
+* Line 1— Model, plan name (orBedrock), project path, git branch
+* Line 2— Context bar (green → yellow → red) and usage rate limits
+
+### Optional lines (enable via/claude-hud:configure)
+
+◐ Edit: auth.ts | ✓ Read ×3 | ✓ Grep ×2 ← Tools activity
+◐ explore [haiku]: Finding auth code (2m 15s) ← Agent status
+▸ Fix authentication bug (2/5) ← Todo progress
+
+## How It Works
+
+Claude HUD uses Claude Code's nativestatusline API— no separate window, no tmux required, works in any terminal.
+
+Claude Code → stdin JSON → claude-hud → stdout → displayed in your terminal
+ ↘ transcript JSONL (tools, agents, todos)
+
+Key features:
+
+* Native token data from Claude Code (not estimated)
+* Scales with Claude Code's reported context window size, including newer 1M-context sessions
+* Parses the transcript for tool/agent activity
+* Updates every ~300ms
+
+## Configuration
+
+Customize your HUD anytime:
+
+/claude-hud:configure
+
+The guided flow handles layout and display toggles. Advanced overrides such as
+custom colors and thresholds are preserved there, but you set them by editing the config file directly:
+
+* First time setup: Choose a preset (Full/Essential/Minimal), then fine-tune individual elements
+* Customize anytime: Toggle items on/off, adjust git display style, switch layouts
+* Preview before saving: See exactly how your HUD will look before committing changes
+
+### Presets
+
+Preset
+
+What's Shown
+
+Full
+
+Everything enabled — tools, agents, todos, git, usage, duration
+
+Essential
+
+Activity lines + git status, minimal info clutter
+
+Minimal
+
+Core only — just model name and context bar
+
+After choosing a preset, you can turn individual elements on or off.
+
+### Manual Configuration
+
+Edit~/.claude/plugins/claude-hud/config.jsondirectly for advanced settings such ascolors.*,pathLevels, and threshold overrides. Running/claude-hud:configurepreserves those manual settings.
+
+### Options
+
+Option
+
+Type
+
+Default
+
+Description
+
+lineLayout
+
+string
+
+expanded
+
+Layout: 
+expanded
+ (multi-line) or 
+compact
+ (single line)
+
+pathLevels
+
+1-3
+
+1
+
+Directory levels to show in project path
+
+elementOrder
+
+string[]
+
+["project","context","usage","environment","tools","agents","todos"]
+
+Expanded-mode element order. Omit entries to hide them in expanded mode.
+
+gitStatus.enabled
+
+boolean
+
+true
+
+Show git branch in HUD
+
+gitStatus.showDirty
+
+boolean
+
+true
+
+Show 
+*
+ for uncommitted changes
+
+gitStatus.showAheadBehind
+
+boolean
+
+false
+
+Show 
+↑N ↓N
+ for ahead/behind remote
+
+gitStatus.showFileStats
+
+boolean
+
+false
+
+Show file change counts 
+!M +A ✘D ?U
+
+display.showModel
+
+boolean
+
+true
+
+Show model name 
+[Opus]
+
+display.showContextBar
+
+boolean
+
+true
+
+Show visual context bar 
+████░░░░░░
+
+display.contextValue
+
+percent
+ | 
+tokens
+ | 
+remaining
+
+percent
+
+Context display format (
+45%
+, 
+45k/200k
+, or 
+55%
+ remaining)
+
+display.showConfigCounts
+
+boolean
+
+false
+
+Show CLAUDE.md, rules, MCPs, hooks counts
+
+display.showDuration
+
+boolean
+
+false
+
+Show session duration 
+⏱️ 5m
+
+display.showSpeed
+
+boolean
+
+false
+
+Show output token speed 
+out: 42.1 tok/s
+
+display.showUsage
+
+boolean
+
+true
+
+Show usage limits (Pro/Max/Team only)
+
+display.usageBarEnabled
+
+boolean
+
+true
+
+Display usage as visual bar instead of text
+
+display.sevenDayThreshold
+
+0-100
+
+80
+
+Show 7-day usage when >= threshold (0 = always)
+
+display.showTokenBreakdown
+
+boolean
+
+true
+
+Show token details at high context (85%+)
+
+display.showTools
+
+boolean
+
+false
+
+Show tools activity line
+
+display.showAgents
+
+boolean
+
+false
+
+Show agents activity line
+
+display.showTodos
+
+boolean
+
+false
+
+Show todos progress line
+
+display.showSessionName
+
+boolean
+
+false
+
+Show session slug or custom title from 
+/rename
+
+usage.cacheTtlSeconds
+
+number
+
+60
+
+How long (seconds) to cache a successful usage API response
+
+usage.failureCacheTtlSeconds
+
+number
+
+15
+
+How long (seconds) to cache a failed usage API response before retrying
+
+colors.context
+
+color name
+
+green
+
+Base color for the context bar and context percentage
+
+colors.usage
+
+color name
+
+brightBlue
+
+Base color for usage bars and percentages below warning thresholds
+
+colors.warning
+
+color name
+
+yellow
+
+Warning color for context thresholds and usage warning text
+
+colors.usageWarning
+
+color name
+
+brightMagenta
+
+Warning color for usage bars and percentages near their threshold
+
+colors.critical
+
+color name
+
+red
+
+Critical color for limit-reached states and critical thresholds
+
+Supported color names:red,green,yellow,magenta,cyan,brightBlue,brightMagenta.
+
+### Usage Limits (Pro/Max/Team)
+
+Usage display isenabled by defaultfor Claude Pro, Max, and Team subscribers. It shows your rate limit consumption on line 2 alongside the context bar.
+
+The 7-day percentage appears when above thedisplay.sevenDayThreshold(default 80%):
+
+Context █████░░░░░ 45% │ Usage ██░░░░░░░░ 25% (1h 30m / 5h) | ██████████ 85% (2d / 7d)
+
+To disable, setdisplay.showUsagetofalse.
+
+Requirements:
+
+* Claude Pro, Max, or Team subscription (not available for API users)
+* OAuth credentials from Claude Code (created automatically when you log in)
+
+Troubleshooting:If usage doesn't appear:
+
+* Ensure you're logged in with a Pro/Max/Team account (not API key)
+* Checkdisplay.showUsageis not set tofalsein config
+* API users see no usage display (they have pay-per-token, not rate limits)
+* AWS Bedrock models displayBedrockand hide usage limits (usage is managed in AWS)
+* Non-defaultANTHROPIC_BASE_URL/ANTHROPIC_API_BASE_URLsettings skip usage display, because the Anthropic OAuth usage API may not apply
+* If you are behind a proxy, setHTTPS_PROXY(orHTTP_PROXY/ALL_PROXY) and optionalNO_PROXY
+* For high-latency environments, increase usage API timeout withCLAUDE_HUD_USAGE_TIMEOUT_MS(milliseconds)
+
+### Example Configuration
+
+{
+ 
+"lineLayout"
+: 
+"
+expanded
+"
+,
+ 
+"pathLevels"
+: 
+2
+,
+ 
+"elementOrder"
+: [
+"
+project
+"
+, 
+"
+tools
+"
+, 
+"
+context
+"
+, 
+"
+usage
+"
+, 
+"
+environment
+"
+, 
+"
+agents
+"
+, 
+"
+todos
+"
+],
+ 
+"gitStatus"
+: {
+ 
+"enabled"
+: 
+true
+,
+ 
+"showDirty"
+: 
+true
+,
+ 
+"showAheadBehind"
+: 
+true
+,
+ 
+"showFileStats"
+: 
+true
+
+ },
+ 
+"display"
+: {
+ 
+"showTools"
+: 
+true
+,
+ 
+"showAgents"
+: 
+true
+,
+ 
+"showTodos"
+: 
+true
+,
+ 
+"showConfigCounts"
+: 
+true
+,
+ 
+"showDuration"
+: 
+true
+
+ },
+ 
+"colors"
+: {
+ 
+"context"
+: 
+"
+cyan
+"
+,
+ 
+"usage"
+: 
+"
+cyan
+"
+,
+ 
+"warning"
+: 
+"
+yellow
+"
+,
+ 
+"usageWarning"
+: 
+"
+magenta
+"
+,
+ 
+"critical"
+: 
+"
+red
+"
+
+ },
+ 
+"usage"
+: {
+ 
+"cacheTtlSeconds"
+: 
+120
+,
+ 
+"failureCacheTtlSeconds"
+: 
+30
+
+ }
+}
+
+### Display Examples
+
+1 level (default):[Opus] │ my-project git:(main)
+
+2 levels:[Opus] │ apps/my-project git:(main)
+
+3 levels:[Opus] │ dev/apps/my-project git:(main)
+
+With dirty indicator:[Opus] │ my-project git:(main*)
+
+With ahead/behind:[Opus] │ my-project git:(main ↑2 ↓1)
+
+With file stats:[Opus] │ my-project git:(main* !3 +1 ?2)
+
+* != modified files,+= added/staged,✘= deleted,?= untracked
+* Counts of 0 are omitted for cleaner display
+
+### Troubleshooting
+
+Config not applying?
+
+* Check for JSON syntax errors: invalid JSON silently falls back to defaults
+* Ensure valid values:pathLevelsmust be 1, 2, or 3;lineLayoutmust beexpandedorcompact
+* Delete config and run/claude-hud:configureto regenerate
+
+Git status missing?
+
+* Verify you're in a git repository
+* CheckgitStatus.enabledis notfalsein config
+
+Tool/agent/todo lines missing?
+
+* These are hidden by default — enable withshowTools,showAgents,showTodosin config
+* They also only appear when there's activity to show
+
+## Requirements
+
+* Claude Code v1.0.80+
+* Node.js 18+ or Bun
+
+## Development
+
+git clone https://github.com/jarrodwatts/claude-hud
+
+cd
+ claude-hud
+npm ci 
+&&
+ npm run build
+npm 
+test
+
+SeeCONTRIBUTING.mdfor guidelines.
+
+## License
+
+MIT — seeLICENSE
+
+## Star History
+
+## About
+
+A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+
+### Topics
+
+ plugin
+
+ cli
+
+ typescript
+
+ statusline
+
+ claude
+
+ anthropic
+
+ claude-code
+
+### Resources
+
+ Readme
+
+ 
+
+### License
+
+ MIT license
+ 
+
+### Code of conduct
+
+ Code of conduct
+ 
+
+### Contributing
+
+ Contributing
+ 
+
+### Security policy
+
+ Security policy
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+Activity
+ 
+
+### Stars
+
+5.1k
+
+ stars
+ 
+
+### Watchers
+
+10
+
+ watching
+ 
+
+### Forks
+
+231
+
+ forks
+ 
+
+ Report repository
+
+ 
+
+## Releases1
+
+v0.0.9
+
+ Latest
+
+ 
+
+Mar 5, 2026
+
+## Packages0
+
+ 
+
+ 
+
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Contributors
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Languages
+
+* JavaScript58.2%
+* TypeScript41.8%

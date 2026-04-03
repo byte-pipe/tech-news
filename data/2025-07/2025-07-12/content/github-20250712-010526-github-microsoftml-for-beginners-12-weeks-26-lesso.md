@@ -1,0 +1,69 @@
+---
+title: 'GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all'
+url: https://github.com/microsoft/ML-For-Beginners
+site_name: github
+fetched_at: '2025-07-12T01:05:26.148517'
+original_url: https://github.com/microsoft/ML-For-Beginners
+author: microsoft
+description: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all - microsoft/ML-For-Beginners
+---
+
+microsoft
+
+
+
+/
+
+ML-For-Beginners
+
+Public
+
+* NotificationsYou must be signed in to change notification settings
+* Fork16.4k
+* Star74.4k
+
+12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+microsoft.github.io/ML-For-Beginners/
+
+### License
+
+ MIT license
+
+
+74.4k
+
+ stars
+
+
+
+16.4k
+
+ forks
+
+
+
+Branches
+
+
+
+Tags
+
+
+
+Activity
+
+
+
+
+
+ Star
+
+
+
+Notifications
+
+
+You must be signed in to change notification settings
+
+# microsoft/ML-For-Beginners

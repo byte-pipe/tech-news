@@ -1,0 +1,60 @@
+---
+title: Personal blogs are back, should niche blogs be next? – disassociated.com
+url: https://disassociated.com/personal-blogs-back-niche-blogs-next/
+site_name: hackernews
+fetched_at: '2025-11-22T11:06:29.774396'
+original_url: https://disassociated.com/personal-blogs-back-niche-blogs-next/
+author: gnabgib
+date: '2025-11-22'
+description: Personal blogs are back, should niche blogs be next? Might good old fashion niche blogs be the solution to rampant social media misinformation, AI slop, and more?
+---
+
+## Personal blogs are back, should niche blogs be next?
+
+20 November 2025
+
+When it comes to blogging there are few rules. Write content that is somehow meaningful might be one of them though. I think it’s down to the individual to determine what constitutes meaningful.
+
+In the hey-day, the so-called golden age of blogging, there were plenty of people prepared to offer definitions of meaningful, and how to write accordingly. It was natural. The web was once awash with all sorts of blogs. Likewise people who wanted to show others how to blog “successfully”.
+
+Again, the definition of successful resided with the individual, but it was obvious this involved monetary return for some people. And why not. If you’re going to invest time and energy in creating a resource that is useful to other people, why shouldn’t you earn money, make a living even, from it?
+
+One of these people blogging about blogging was Melbourne based Australian writer and author Darren Rowse, who launched his blogging resourceProbloggerin 2004. Without going into detail, because you can look it up for yourself, Rowse, as one of the earlier bloggers about blogging, did, and still does presumably, rather well for himself.
+
+Rowse’s writing, and that of his contributors, attracted numerous readers keen to learn what they could about blogging, and the potential to make money from it.
+
+Problogger is what’s called a niche blog. As a blog about blogging, it has a reasonably singular focus. Some people considered this niche principle to be a core tenet of blogging. There was this idea, in the earlier days of blogging, which possibly still persists, that blogs would do better if they had a speciality. Not only were search engines said to be in favour the approach, but the author of a speciality, or niche blog, would generally be considered to be an expert, of some sort, in their field.
+
+A master of one trade, rather than the proverbial jack of all trades.
+
+Regardless, the world was once full of blogs on every topic imaginable. It was a great time to be alive. If you wanted to learn about something in particular, there was a blog for you. Some publications featured quality content, others required a little fact checking, while some were definitely to be taken with a pinch of salt.
+
+But niche blogging was never a format that suited everyone. There are people who did, still do, well, writing about a range, sometimes a wide range, of topics.Kottkeis one of the better known blogs that does not have a specific speciality. Here, the publication itself is the speciality. To repeat what I wrote in the first sentence of this article: the rules of blogging are few.
+
+But the facets of blogging covered at Problogger, and numerous other similar websites, usually only applied to blogs of a commercial nature. That’s not to say one or two personal bloggers might have looked at the tips posted there for increasing their audience, or improving their writing though. But in my view, personal bloggers were not, are not, part of Problogger’s target audience.
+
+It’s been a long time since I last wrote about Problogger, let alone visited the website, maybe fifteen plus years, but a recent mention of itby Kev Quick,via ldstephens, caught my eye. But I don’t believe Rowse is being critical, in any way, of personal bloggers because they do not adhere to a niche or speciality publishing format. That’s not what Problogger, or Rowse, is about.
+
+But this started me thinking, and writing another of my long posts.
+
+In an age where social media, and influencers, have usurped blogs and their A-List authors, in the jostle for supremacy, it has to be wondered what role websites like Problogger still have. Only a handful of blogs generate liveable incomes today. Despite the doom and gloom though, the form has not completely died off. A backlash against social media, and a growing IndieWeb/SmallWeb community, has precipitated a revival in personal websites.
+
+This is a largely non-commercial movement. Of course, there’s nothing wrong with personal websites. Many of us started out with them in the early days of the web. But the web was not only intended for personal journals. It was a vehicle for sharing all manner of information. The web could also empower individuals, and partnerships, to not only set up shop online, be that blogs, or quite literally shops, but potentially make a living at the same time.
+
+But with the revival of personal blogs well underway, I think it’s time to bring niche blogs back into the fold. I’m talking about well written, quality, topic focused resources. This is material fast vanishing from the web, leaving ever diminishing options to source useful and accurate information. What are the alternatives? The misinformation morass that is social media? Being servedAIgenerated summaries in response to search engine queries? A web choke full of AI slop?
+
+At the same time, I’m not advocating for a return of niche blogs plastered with adverts, and popup boxes urging visitors to subscribe to say a newsletter, before they’ve even had a chance to blink at what they came to read.
+
+I’m talking about work produced by independent writers, with an interest in their subject matter, who are not backed by large media organisations, or private equity. This is bringing back reliable sources of information, that also recompenses the content writers in some way. Hopefully we’ve learned a few lessons about monetisation since the earlier wave of niche blogging. We know it is possible to generate revenue without compromising the reader experience.
+
+A resurgence in personal blogging is the first step in rebuilding a vibrant, thriving, web, of if you like, blogosphere. Now the focus needs to be on restoring the flow of accessible and trusted information.
+
+RELATED CONTENT
+
+blogs,history,IndieWeb,self publishing,SmallWeb,technology,trends
+
+PREVIOUS POST
+
+When is the social web not the social web? When it is THE social web
+
+NEXT POST

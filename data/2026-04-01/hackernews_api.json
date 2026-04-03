@@ -1,0 +1,512 @@
+[
+  {
+    "title": "4D Doom",
+    "url": "https://github.com/danieldugas/HYPERHELL",
+    "author": "chronolitus",
+    "date": "2026-03-27",
+    "score": 270,
+    "comments": 77,
+    "id": 47549128,
+    "discussion_url": "https://news.ycombinator.com/item?id=47549128",
+    "description": "4D Doom",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987867"
+  },
+  {
+    "title": "A dot a day keeps the clutter away",
+    "url": "https://scottlawsonbc.com/post/dot-system",
+    "author": "scottlawson",
+    "date": "2026-03-31",
+    "score": 509,
+    "comments": 155,
+    "id": 47593556,
+    "discussion_url": "https://news.ycombinator.com/item?id=47593556",
+    "description": "A dot a day keeps the clutter away",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987763"
+  },
+  {
+    "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+    "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+    "author": "mtud",
+    "date": "2026-03-31",
+    "score": 1900,
+    "comments": 778,
+    "id": 47582220,
+    "discussion_url": "https://news.ycombinator.com/item?id=47582220",
+    "description": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987875"
+  },
+  {
+    "title": "Back to FreeBSD – Part 2 – Jails",
+    "url": "https://hypha.pub/back-to-freebsd-part-2",
+    "author": "vermaden",
+    "date": "2026-03-27",
+    "score": 111,
+    "comments": 28,
+    "id": 47546775,
+    "discussion_url": "https://news.ycombinator.com/item?id=47546775",
+    "description": "Back to FreeBSD – Part 2 – Jails",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987929"
+  },
+  {
+    "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+    "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+    "author": "ingve",
+    "date": "2026-03-28",
+    "score": 115,
+    "comments": 25,
+    "id": 47558101,
+    "discussion_url": "https://news.ycombinator.com/item?id=47558101",
+    "description": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987862"
+  },
+  {
+    "title": "CERN levels up with new superconducting karts",
+    "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+    "author": "fnands",
+    "date": "2026-04-01",
+    "score": 350,
+    "comments": 79,
+    "id": 47597935,
+    "discussion_url": "https://news.ycombinator.com/item?id=47597935",
+    "description": "CERN levels up with new superconducting karts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987977"
+  },
+  {
+    "title": "Chess in SQL",
+    "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
+    "author": "upmostly",
+    "date": "2026-03-29",
+    "score": 166,
+    "comments": 39,
+    "id": 47562961,
+    "discussion_url": "https://news.ycombinator.com/item?id=47562961",
+    "description": "Chess in SQL",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987813"
+  },
+  {
+    "title": "Claude Code Unpacked : A visual guide",
+    "url": "https://ccunpacked.dev/",
+    "author": "autocracy101",
+    "date": "2026-04-01",
+    "score": 959,
+    "comments": 347,
+    "id": 47597085,
+    "discussion_url": "https://news.ycombinator.com/item?id=47597085",
+    "description": "Claude Code Unpacked : A visual guide",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987784"
+  },
+  {
+    "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+    "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+    "author": "ishqdehlvi",
+    "date": "2026-04-01",
+    "score": 205,
+    "comments": 91,
+    "id": 47597119,
+    "discussion_url": "https://news.ycombinator.com/item?id=47597119",
+    "description": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987737"
+  },
+  {
+    "title": "Cohere Transcribe: Speech Recognition",
+    "url": "https://cohere.com/blog/transcribe",
+    "author": "gmays",
+    "date": "2026-03-31",
+    "score": 215,
+    "comments": 69,
+    "id": 47589818,
+    "discussion_url": "https://news.ycombinator.com/item?id=47589818",
+    "description": "Cohere Transcribe: Speech Recognition",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987917"
+  },
+  {
+    "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
+    "url": "https://blog.cloudflare.com/emdash-wordpress/",
+    "author": "elithrar",
+    "date": "2026-04-01",
+    "score": 280,
+    "comments": 171,
+    "id": 47602832,
+    "discussion_url": "https://news.ycombinator.com/item?id=47602832",
+    "description": "EmDash – a spiritual successor to WordPress that solves plugin security",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987731"
+  },
+  {
+    "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+    "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+    "author": "future-shock-ai",
+    "date": "2026-03-28",
+    "score": 151,
+    "comments": 11,
+    "id": 47558733,
+    "discussion_url": "https://news.ycombinator.com/item?id=47558733",
+    "description": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987933"
+  },
+  {
+    "title": "I traced my traffic through a home Tailscale exit node",
+    "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+    "author": "stonecharioteer",
+    "date": "2026-03-31",
+    "score": 138,
+    "comments": 70,
+    "id": 47592462,
+    "discussion_url": "https://news.ycombinator.com/item?id=47592462",
+    "description": "I traced my traffic through a home Tailscale exit node",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987925"
+  },
+  {
+    "title": "Intuiting Pratt Parsing",
+    "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
+    "author": "signa11",
+    "date": "2026-03-30",
+    "score": 122,
+    "comments": 40,
+    "id": 47573450,
+    "discussion_url": "https://news.ycombinator.com/item?id=47573450",
+    "description": "Intuiting Pratt Parsing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987725"
+  },
+  {
+    "title": "Is BGP safe yet?",
+    "url": "https://isbgpsafeyet.com/",
+    "author": "janandonly",
+    "date": "2026-04-01",
+    "score": 198,
+    "comments": 69,
+    "id": 47600382,
+    "discussion_url": "https://news.ycombinator.com/item?id=47600382",
+    "description": "Is BGP safe yet?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987711"
+  },
+  {
+    "title": "MiniStack (replacement for LocalStack)",
+    "url": "https://ministack.org/",
+    "author": "kerblang",
+    "date": "2026-03-31",
+    "score": 301,
+    "comments": 62,
+    "id": 47593285,
+    "discussion_url": "https://news.ycombinator.com/item?id=47593285",
+    "description": "MiniStack (replacement for LocalStack)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987852"
+  },
+  {
+    "title": "NASA Artemis II moon mission live launch broadcast",
+    "url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
+    "author": "apitman",
+    "date": "2026-04-01",
+    "score": 177,
+    "comments": 89,
+    "id": 47603657,
+    "discussion_url": "https://news.ycombinator.com/item?id=47603657",
+    "description": "NASA Artemis II moon mission live launch broadcast",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987817"
+  },
+  {
+    "title": "Neanderthals survived on a knife's edge for 350k years",
+    "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+    "author": "Hooke",
+    "date": "2026-04-01",
+    "score": 222,
+    "comments": 187,
+    "id": 47595572,
+    "discussion_url": "https://news.ycombinator.com/item?id=47595572",
+    "description": "Neanderthals survived on a knife's edge for 350k years",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987901"
+  },
+  {
+    "title": "New patches allow building Linux IPv6-only",
+    "url": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
+    "author": "Bender",
+    "date": "2026-04-01",
+    "score": 104,
+    "comments": 128,
+    "id": 47600434,
+    "discussion_url": "https://news.ycombinator.com/item?id=47600434",
+    "description": "New patches allow building Linux IPv6-only",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987848"
+  },
+  {
+    "title": "OpenAI closes funding round at an $852B valuation",
+    "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+    "author": "surprisetalk",
+    "date": "2026-03-31",
+    "score": 507,
+    "comments": 470,
+    "id": 47592755,
+    "discussion_url": "https://news.ycombinator.com/item?id=47592755",
+    "description": "OpenAI closes funding round at an $852B valuation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987889"
+  },
+  {
+    "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+    "url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+    "author": "WaitWaitWha",
+    "date": "2026-03-31",
+    "score": 132,
+    "comments": 51,
+    "id": 47593634,
+    "discussion_url": "https://news.ycombinator.com/item?id=47593634",
+    "description": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987913"
+  },
+  {
+    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "url": "https://prismml.com/",
+    "author": "PrismML",
+    "date": "2026-03-31",
+    "score": 380,
+    "comments": 143,
+    "id": 47593422,
+    "discussion_url": "https://news.ycombinator.com/item?id=47593422",
+    "description": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987835"
+  },
+  {
+    "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+    "url": "https://github.com/yannick-cw/korb",
+    "author": "wazHFsRy",
+    "date": "2026-03-30",
+    "score": 180,
+    "comments": 78,
+    "id": 47571183,
+    "discussion_url": "https://news.ycombinator.com/item?id=47571183",
+    "description": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987742"
+  },
+  {
+    "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+    "url": "https://github.com/timescale/pg_textsearch",
+    "author": "tjgreen",
+    "date": "2026-03-31",
+    "score": 187,
+    "comments": 51,
+    "id": 47589856,
+    "discussion_url": "https://news.ycombinator.com/item?id=47589856",
+    "description": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987941"
+  },
+  {
+    "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
+    "url": "https://sycamore.dev",
+    "author": "lukechu10",
+    "date": "2026-04-01",
+    "score": 89,
+    "comments": 64,
+    "id": 47599956,
+    "discussion_url": "https://news.ycombinator.com/item?id=47599956",
+    "description": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987839"
+  },
+  {
+    "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+    "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+    "author": "skysniper",
+    "date": "2026-04-01",
+    "score": 88,
+    "comments": 31,
+    "id": 47602879,
+    "discussion_url": "https://news.ycombinator.com/item?id=47602879",
+    "description": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987794"
+  },
+  {
+    "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+    "url": "https://github.com/ericlewis/libpo32",
+    "author": "ericlewis",
+    "date": "2026-03-28",
+    "score": 138,
+    "comments": 32,
+    "id": 47550433,
+    "discussion_url": "https://news.ycombinator.com/item?id=47550433",
+    "description": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987897"
+  },
+  {
+    "title": "The OpenAI Graveyard: All the Deals and Products That Haven't Happened",
+    "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+    "author": "dherls",
+    "date": "2026-04-01",
+    "score": 143,
+    "comments": 111,
+    "id": 47602565,
+    "discussion_url": "https://news.ycombinator.com/item?id=47602565",
+    "description": "The OpenAI Graveyard: All the Deals and Products That Haven't Happened",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987905"
+  },
+  {
+    "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+    "url": "https://arxiv.org/abs/2602.04118",
+    "author": "sorenjan",
+    "date": "2026-03-27",
+    "score": 228,
+    "comments": 44,
+    "id": 47541733,
+    "discussion_url": "https://news.ycombinator.com/item?id=47541733",
+    "description": "TinyLoRA – Learning to Reason in 13 Parameters",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987843"
+  },
+  {
+    "title": "TruffleRuby",
+    "url": "https://chrisseaton.com/truffleruby/",
+    "author": "tosh",
+    "date": "2026-03-28",
+    "score": 191,
+    "comments": 26,
+    "id": 47557171,
+    "discussion_url": "https://news.ycombinator.com/item?id=47557171",
+    "description": "TruffleRuby",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-01T19:28:03.987830"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "title": "10 features of D that I love",
+    "author": "",
+    "score": "50",
+    "comments": "0",
+    "tags": "d",
+    "url": "https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "A compact bitset implementation used in Ocarina of Time save files",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "c, retrocomputing",
+    "url": "https://github.com/jb55/oot_bitset",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "A supposedly worthwhile contract I'll never do again",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "formalmethods",
+    "url": "https://ahelwer.ca/post/2025-07-04-tla-contracts/",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "Compression Dictionary Transport",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "performance, web",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "Getting extensions to work with free-threaded Python",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "python",
+    "url": "https://lwn.net/Articles/1025893/",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "Git experts should try Jujutsu",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "practices, vcs",
+    "url": "https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "Gödel's beavers, or the limits of knowledge",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "math",
+    "url": "https://lcamtuf.substack.com/p/monkeys-typewriters-and-busy-beavers",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "I want to leave tech: what do I do?",
+    "author": "",
+    "score": "45",
+    "comments": "0",
+    "tags": "culture, person",
+    "url": "https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "Introducing the first alpha of Turso: The next evolution of SQLite",
+    "author": "",
+    "score": "46",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "Introducing tmux-rs",
+    "author": "",
+    "score": "68",
+    "comments": "0",
+    "tags": "c, rust",
+    "url": "https://richardscollin.github.io/tmux-rs/",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "Lucky 13 Lobsters",
+    "author": "",
+    "score": "351",
+    "comments": "0",
+    "tags": "announce",
+    "url": "https://lobste.rs/s/8we4dn/lucky_13_lobsters",
+    "date": "2025-07-04",
+    "description": "☶"
+  },
+  {
+    "title": "NVIDIA is full of shit",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "hardware, rant",
+    "url": "https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "One Billion Cells, Another Multiplayer Demo with Clojure",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "clojure, databases, games, javascript, performance, web",
+    "url": "https://cells.andersmurphy.com/",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "Our Fullstack Architecture: Eta, HTMX, and Lit",
+    "author": "",
+    "score": "23",
+    "comments": "0",
+    "tags": "web",
+    "url": "https://www.lorenstew.art/blog/eta-htmx-lit-stack",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "Riff: LLMs are Software Diamonds",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://www.evalapply.org/posts/llms-are-diamonds/index.html",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "The Eternal Mainframe",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "browsers, historical, philosophy",
+    "url": "https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "The rise of Whatever",
+    "author": "",
+    "score": "95",
+    "comments": "0",
+    "tags": "culture, rant",
+    "url": "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "What are you doing this weekend?",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "ask, programming",
+    "url": "https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend",
+    "date": "2025-07-04",
+    "description": "☶"
+  },
+  {
+    "title": "When AI Codes, What’s Left for me?",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "transcript, vibecoding",
+    "url": "https://corecursive.com/coding-agents/",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "Zig Roadmap 2026",
+    "author": "",
+    "score": "43",
+    "comments": "0",
+    "tags": "video, zig",
+    "url": "https://www.youtube.com/watch?v=x3hOiOcbgeA",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "awesome-standards: A curated list of technical standards",
+    "author": "",
+    "score": "4",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://github.com/donBarbos/awesome-standards",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "gremllm: A slight upgrade to the Gremlins in your code",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "python, vibecoding",
+    "url": "https://github.com/awwaiid/gremllm",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "iris: A neurosymbolic framework for vulnerability detection in code",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "ai, security, testing",
+    "url": "https://github.com/iris-sast/iris",
+    "date": "2025-07-04",
+    "description": ""
+  },
+  {
+    "title": "mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk",
+    "author": "",
+    "score": "7",
+    "comments": "0",
+    "tags": "unix, web",
+    "url": "https://codeberg.org/owl/mawkdown",
+    "date": "2025-07-04",
+    "description": "☶"
+  },
+  {
+    "title": "writing a little gosh",
+    "author": "",
+    "score": "21",
+    "comments": "0",
+    "tags": "go, unix",
+    "url": "https://flak.tedunangst.com/post/writing-a-gosh",
+    "date": "2025-07-04",
+    "description": ""
+  }
+]

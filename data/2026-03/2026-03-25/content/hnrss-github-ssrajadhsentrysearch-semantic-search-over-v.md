@@ -1,0 +1,336 @@
+---
+title: 'GitHub - ssrajadh/sentrysearch: Semantic search over videos using Gemini Embedding 2. · GitHub'
+url: https://github.com/ssrajadh/sentrysearch
+site_name: hnrss
+content_file: hnrss-github-ssrajadhsentrysearch-semantic-search-over-v
+fetched_at: '2026-03-25T11:19:59.696261'
+original_url: https://github.com/ssrajadh/sentrysearch
+date: '2026-03-24'
+description: Semantic search over videos using Gemini Embedding 2. - ssrajadh/sentrysearch
+tags:
+- hackernews
+- hnrss
+---
+
+ssrajadh
+
+ 
+
+/
+
+sentrysearch
+
+Public
+
+* NotificationsYou must be signed in to change notification settings
+* Fork19
+* Star551
+
+ 
+ 
+ 
+ 
+master
+Branches
+Tags
+Go to file
+Code
+Open more actions menu
+
+## Folders and files
+
+Name
+Name
+Last commit message
+Last commit date
+
+## Latest commit
+
+ 
+
+## History
+
+23 Commits
+23 Commits
+docs
+docs
+ 
+ 
+natural-language-video-search
+natural-language-video-search
+ 
+ 
+sentrysearch
+sentrysearch
+ 
+ 
+.env.example
+.env.example
+ 
+ 
+.gitignore
+.gitignore
+ 
+ 
+README.md
+README.md
+ 
+ 
+pyproject.toml
+pyproject.toml
+ 
+ 
+View all files
+
+## Repository files navigation
+
+# SentrySearch
+
+Semantic search over dashcam footage. Type what you're looking for, get a trimmed clip back.
+
+ClawHub Skill
+
+demo.mp4
+
+## How it works
+
+SentrySearch splits your dashcam videos into overlapping chunks, embeds each chunk directly as video using Google's Gemini Embedding model, and stores the vectors in a local ChromaDB database. When you search, your text query is embedded into the same vector space and matched against the stored video embeddings. The top match is automatically trimmed from the original file and saved as a clip.
+
+## Getting Started
+
+1. Clone and install:
+
+git clone https://github.com/ssrajadh/sentrysearch.git
+
+cd
+ sentrysearch
+python -m venv venv 
+&&
+ 
+source
+ venv/bin/activate
+pip install -e 
+.
+
+1. Set up your API key:
+
+sentrysearch init
+
+This prompts for your Gemini API key, writes it to.env, and validates it with a test embedding.
+
+1. Index your footage:
+
+sentrysearch index /path/to/dashcam/footage
+
+1. Search:
+
+sentrysearch search 
+"
+red truck running a stop sign
+"
+
+ffmpeg is required for video chunking and trimming. If you don't have it system-wide, the bundledimageio-ffmpegis used automatically.
+
+Manual setup:If you prefer not to usesentrysearch init, you can copy.env.exampleto.envand add your key fromaistudio.google.com/apikeymanually.
+
+## Usage
+
+### Init
+
+$ sentrysearch init
+Enter your Gemini API key (get one at https://aistudio.google.com/apikey): 
+****
+
+Validating API key...
+Setup complete. You
+'
+re ready to go — run `sentrysearch index <directory>` to get started.
+
+If a key is already configured, you'll be asked whether to overwrite it.
+
+### Index footage
+
+$ sentrysearch index /path/to/dashcam/footage
+Indexing file 1/3: front_2024-01-15_14-30.mp4 [chunk 1/4]
+Indexing file 1/3: front_2024-01-15_14-30.mp4 [chunk 2/4]
+...
+Indexed 12 new chunks from 3 files. Total: 12 chunks from 3 files.
+
+Options:
+
+* --chunk-duration 30— seconds per chunk
+* --overlap 5— overlap between chunks
+* --no-preprocess— skip downscaling/frame rate reduction (send raw chunks)
+* --target-resolution 480— target height in pixels for preprocessing
+* --target-fps 5— target frame rate for preprocessing
+* --no-skip-still— embed all chunks, even ones with no visual change
+
+### Search
+
+$ sentrysearch search 
+"
+red truck running a stop sign
+"
+
+ 
+#
+1 [0.87] front_2024-01-15_14-30.mp4 @ 02:15-02:45
+
+ 
+#
+2 [0.74] left_2024-01-15_14-30.mp4 @ 02:10-02:40
+
+ 
+#
+3 [0.61] front_2024-01-20_09-15.mp4 @ 00:30-01:00
+
+Saved clip: ./match_front_2024-01-15_14-30_02m15s-02m45s.mp4
+
+Options:--results N,--output-dir DIR,--no-trimto skip auto-trimming.
+
+### Stats
+
+$ sentrysearch stats
+Total chunks: 47
+Source files: 12
+
+### Verbose mode
+
+Add--verboseto either command for debug info (embedding dimensions, API response times, similarity scores).
+
+## How is this possible?
+
+Gemini Embedding 2 can natively embed video — raw video pixels are projected into the same 768-dimensional vector space as text queries. There's no transcription, no frame captioning, no text middleman. A text query like "red truck at a stop sign" is directly comparable to a 30-second video clip at the vector level. This is what makes sub-second semantic search over hours of footage practical.
+
+## Cost
+
+Indexing 1 hour of footage costs ~$2.84 with Gemini's embedding API (default settings: 30s chunks, 5s overlap):
+
+1 hour = 3,600 seconds of video = 3,600 frames processed by the model.
+3,600 frames × $0.00079 = ~$2.84/hr
+
+The Gemini API natively extracts and tokenizes exactly 1 frame per second from uploaded video, regardless of the file's actual frame rate. The preprocessing step (which downscales chunks to 480p at 5fps via ffmpeg) is a local/bandwidth optimization — it keeps payload sizes small so API requests are fast and don't timeout — but does not change the number of frames the API processes.
+
+Two built-in optimizations help reduce costs in different ways:
+
+* Preprocessing(on by default) — chunks are downscaled to 480p at 5fps before uploading. Since the API processes at 1fps regardless, this only reduces upload size and transfer time, not the number of frames billed. It primarily improves speed and prevents request timeouts.
+* Still-frame skipping(on by default) — chunks with no meaningful visual change (e.g. a parked car) are skipped entirely. This saves real API calls and directly reduces cost. The savings depend on your footage — Sentry Mode recordings with hours of idle time benefit the most, while action-packed driving footage may have nothing to skip.
+
+Search queries are negligible (text embedding only).
+
+Tuning options:
+
+* --chunk-duration/--overlap— longer chunks with less overlap = fewer API calls = lower cost
+* --no-skip-still— embed every chunk even if nothing is happening
+* --target-resolution/--target-fps— adjust preprocessing quality
+* --no-preprocess— send raw chunks to the API
+
+## Limitations & Future Work
+
+* Still-frame detection is heuristic— it uses JPEG file size comparison across sampled frames. It may occasionally skip chunks with subtle motion or embed chunks that are truly static. Disable with--no-skip-stillif you need every chunk indexed.
+* Search quality depends on chunk boundaries— if an event spans two chunks, the overlapping window helps but isn't perfect. Smarter chunking (e.g. scene detection) could improve this.
+* Gemini Embedding 2 is in preview— API behavior and pricing may change.
+
+## Compatibility
+
+This works with any footage in mp4 format, not just Tesla Sentry Mode. The directory scanner recursively finds all.mp4files regardless of folder structure.
+
+## Requirements
+
+* Python 3.10+
+* ffmpegon PATH, or use bundled ffmpeg viaimageio-ffmpeg(installed by default)
+* Gemini API key (get one free)
+
+## About
+
+Semantic search over videos using Gemini Embedding 2.
+
+### Topics
+
+ video
+
+ gemini
+
+ semantic-search
+
+ dashcam
+
+ chromadb
+
+ gemini-embedding-2
+
+### Resources
+
+ Readme
+
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+Activity
+ 
+
+### Stars
+
+551
+
+ stars
+ 
+
+### Watchers
+
+3
+
+ watching
+ 
+
+### Forks
+
+19
+
+ forks
+ 
+
+ Report repository
+
+ 
+
+## Releases
+
+No releases published
+
+## Packages0
+
+ 
+
+ 
+
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Contributors
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Languages
+
+* Python100.0%

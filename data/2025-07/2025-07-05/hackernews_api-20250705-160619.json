@@ -1,0 +1,512 @@
+[
+  {
+    "title": "Ask HN: I want to leave tech: what do I do?",
+    "url": "https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a",
+    "author": "todsacerdoti",
+    "date": "2025-07-04",
+    "score": 120,
+    "comments": 143,
+    "id": 44464647,
+    "discussion_url": "https://news.ycombinator.com/item?id=44464647",
+    "description": "Ask HN: I want to leave tech: what do I do?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946621"
+  },
+  {
+    "title": "Baba Is Eval",
+    "url": "https://fi-le.net/baba/",
+    "author": "fi-le",
+    "date": "2025-07-03",
+    "score": 95,
+    "comments": 9,
+    "id": 44455124,
+    "discussion_url": "https://news.ycombinator.com/item?id=44455124",
+    "description": "Baba Is Eval",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946438"
+  },
+  {
+    "title": "Bcachefs may be headed out of the kernel",
+    "url": "https://lwn.net/Articles/1027289/",
+    "author": "ksec",
+    "date": "2025-07-04",
+    "score": 115,
+    "comments": 158,
+    "id": 44464396,
+    "discussion_url": "https://news.ycombinator.com/item?id=44464396",
+    "description": "Bcachefs may be headed out of the kernel",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946556"
+  },
+  {
+    "title": "Being too ambitious is a clever form of self-sabotage",
+    "url": "https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form",
+    "author": "alihm",
+    "date": "2025-07-05",
+    "score": 217,
+    "comments": 55,
+    "id": 44467912,
+    "discussion_url": "https://news.ycombinator.com/item?id=44467912",
+    "description": "Being too ambitious is a clever form of self-sabotage",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946422"
+  },
+  {
+    "title": "ChatGPT creates phisher's paradise by serving the wrong URLs for major companies",
+    "url": "https://www.theregister.com/2025/07/03/ai_phishing_websites/",
+    "author": "josephcsible",
+    "date": "2025-07-05",
+    "score": 166,
+    "comments": 17,
+    "id": 44466826,
+    "discussion_url": "https://news.ycombinator.com/item?id=44466826",
+    "description": "ChatGPT creates phisher's paradise by serving the wrong URLs for major companies",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946561"
+  },
+  {
+    "title": "Compression Dictionary Transport",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport",
+    "author": "todsacerdoti",
+    "date": "2025-07-05",
+    "score": 85,
+    "comments": 27,
+    "id": 44465206,
+    "discussion_url": "https://news.ycombinator.com/item?id=44465206",
+    "description": "Compression Dictionary Transport",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946547"
+  },
+  {
+    "title": "Context Engineering for Agents",
+    "url": "https://rlancemartin.github.io/2025/06/23/context_engineering/",
+    "author": "0x79de",
+    "date": "2025-07-01",
+    "score": 107,
+    "comments": 33,
+    "id": 44432596,
+    "discussion_url": "https://news.ycombinator.com/item?id=44432596",
+    "description": "Context Engineering for Agents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946661"
+  },
+  {
+    "title": "EverQuest",
+    "url": "https://www.filfre.net/2025/07/everquest/",
+    "author": "dmazin",
+    "date": "2025-07-05",
+    "score": 203,
+    "comments": 95,
+    "id": 44465731,
+    "discussion_url": "https://news.ycombinator.com/item?id=44465731",
+    "description": "EverQuest",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946480"
+  },
+  {
+    "title": "Everything around LLMs is still magical and wishful thinking",
+    "url": "https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking",
+    "author": "troupo",
+    "date": "2025-07-05",
+    "score": 230,
+    "comments": 231,
+    "id": 44467949,
+    "discussion_url": "https://news.ycombinator.com/item?id=44467949",
+    "description": "Everything around LLMs is still magical and wishful thinking",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946569"
+  },
+  {
+    "title": "Gremllm",
+    "url": "https://github.com/awwaiid/gremllm",
+    "author": "andreabergia",
+    "date": "2025-07-05",
+    "score": 96,
+    "comments": 15,
+    "id": 44465980,
+    "discussion_url": "https://news.ycombinator.com/item?id=44465980",
+    "description": "Gremllm",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946578"
+  },
+  {
+    "title": "How to Incapacitate Google Tag Manager and Why You Should (2022)",
+    "url": "https://backlit.neocities.org/incapacitate-google-tag-manager",
+    "author": "fsflover",
+    "date": "2025-07-05",
+    "score": 146,
+    "comments": 101,
+    "id": 44466697,
+    "discussion_url": "https://news.ycombinator.com/item?id=44466697",
+    "description": "How to Incapacitate Google Tag Manager and Why You Should (2022)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946432"
+  },
+  {
+    "title": "In a milestone for Manhattan, a pair of coyotes has made Central Park their home",
+    "url": "https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/",
+    "author": "sohkamyung",
+    "date": "2025-07-01",
+    "score": 115,
+    "comments": 114,
+    "id": 44433094,
+    "discussion_url": "https://news.ycombinator.com/item?id=44433094",
+    "description": "In a milestone for Manhattan, a pair of coyotes has made Central Park their home",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946498"
+  },
+  {
+    "title": "Introducing tmux-rs",
+    "url": "https://richardscollin.github.io/tmux-rs/",
+    "author": "Jtsummers",
+    "date": "2025-07-04",
+    "score": 824,
+    "comments": 283,
+    "id": 44455787,
+    "discussion_url": "https://news.ycombinator.com/item?id=44455787",
+    "description": "Introducing tmux-rs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946653"
+  },
+  {
+    "title": "Is an Intel N100 or N150 a better value than a Raspberry Pi?",
+    "url": "https://www.jeffgeerling.com/blog/2025/intel-n100-better-value-raspberry-pi",
+    "author": "transpute",
+    "date": "2025-07-04",
+    "score": 264,
+    "comments": 229,
+    "id": 44463813,
+    "discussion_url": "https://news.ycombinator.com/item?id=44463813",
+    "description": "Is an Intel N100 or N150 a better value than a Raspberry Pi?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946604"
+  },
+  {
+    "title": "Kepler.gl",
+    "url": "https://kepler.gl/",
+    "author": "9woc",
+    "date": "2025-07-04",
+    "score": 143,
+    "comments": 19,
+    "id": 44464641,
+    "discussion_url": "https://news.ycombinator.com/item?id=44464641",
+    "description": "Kepler.gl",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946533"
+  },
+  {
+    "title": "Killer whales groom each other with pieces of kelp",
+    "url": "https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp",
+    "author": "noleary",
+    "date": "2025-07-01",
+    "score": 91,
+    "comments": 50,
+    "id": 44428997,
+    "discussion_url": "https://news.ycombinator.com/item?id=44428997",
+    "description": "Killer whales groom each other with pieces of kelp",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946587"
+  },
+  {
+    "title": "LLM-assisted writing in biomedical publications through excess vocabulary",
+    "url": "https://www.science.org/doi/10.1126/sciadv.adt3813",
+    "author": "em3rgent0rdr",
+    "date": "2025-07-05",
+    "score": 101,
+    "comments": 101,
+    "id": 44466751,
+    "discussion_url": "https://news.ycombinator.com/item?id=44466751",
+    "description": "LLM-assisted writing in biomedical publications through excess vocabulary",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946637"
+  },
+  {
+    "title": "Larry (cat)",
+    "url": "https://en.wikipedia.org/wiki/Larry_(cat)",
+    "author": "dcminter",
+    "date": "2025-07-04",
+    "score": 281,
+    "comments": 66,
+    "id": 44462947,
+    "discussion_url": "https://news.ycombinator.com/item?id=44462947",
+    "description": "Larry (cat)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946507"
+  },
+  {
+    "title": "LooksMapping",
+    "url": "https://looksmapping.com/",
+    "author": "elsewhen",
+    "date": "2025-07-04",
+    "score": 105,
+    "comments": 55,
+    "id": 44461015,
+    "discussion_url": "https://news.ycombinator.com/item?id=44461015",
+    "description": "LooksMapping",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946658"
+  },
+  {
+    "title": "Mini NASes marry NVMe to Intel's efficient chip",
+    "url": "https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip",
+    "author": "ingve",
+    "date": "2025-07-05",
+    "score": 330,
+    "comments": 168,
+    "id": 44465319,
+    "discussion_url": "https://news.ycombinator.com/item?id=44465319",
+    "description": "Mini NASes marry NVMe to Intel's efficient chip",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946465"
+  },
+  {
+    "title": "Nvidia is full of shit",
+    "url": "https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/",
+    "author": "todsacerdoti",
+    "date": "2025-07-05",
+    "score": 536,
+    "comments": 267,
+    "id": 44468175,
+    "discussion_url": "https://news.ycombinator.com/item?id=44468175",
+    "description": "Nvidia is full of shit",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946475"
+  },
+  {
+    "title": "OBBB signed: Reinstates immediate expensing for U.S.-based R&D",
+    "url": "https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature",
+    "author": "tareqak",
+    "date": "2025-07-05",
+    "score": 248,
+    "comments": 115,
+    "id": 44469124,
+    "discussion_url": "https://news.ycombinator.com/item?id=44469124",
+    "description": "OBBB signed: Reinstates immediate expensing for U.S.-based R&D",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946401"
+  },
+  {
+    "title": "Prompting LLMs is not engineering",
+    "url": "https://dmitriid.com/prompting-llms-is-not-engineering",
+    "author": "Bluestein",
+    "date": "2025-07-05",
+    "score": 83,
+    "comments": 70,
+    "id": 44468058,
+    "discussion_url": "https://news.ycombinator.com/item?id=44468058",
+    "description": "Prompting LLMs is not engineering",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946633"
+  },
+  {
+    "title": "Show HN: BunkerWeb – the open-source and cloud-native WAF",
+    "url": "https://docs.bunkerweb.io/latest/",
+    "author": "bnkty",
+    "date": "2025-07-04",
+    "score": 85,
+    "comments": 29,
+    "id": 44463747,
+    "discussion_url": "https://news.ycombinator.com/item?id=44463747",
+    "description": "Show HN: BunkerWeb – the open-source and cloud-native WAF",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946617"
+  },
+  {
+    "title": "Show HN: I AI-coded a tower defense game and documented the whole process",
+    "url": "https://github.com/maciej-trebacz/tower-of-time-game",
+    "author": "M4v3R",
+    "date": "2025-07-04",
+    "score": 234,
+    "comments": 123,
+    "id": 44463967,
+    "discussion_url": "https://news.ycombinator.com/item?id=44463967",
+    "description": "Show HN: I AI-coded a tower defense game and documented the whole process",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946493"
+  },
+  {
+    "title": "Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B",
+    "url": "https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f",
+    "author": "aorloff",
+    "date": "2025-07-05",
+    "score": 110,
+    "comments": 227,
+    "id": 44466888,
+    "discussion_url": "https://news.ycombinator.com/item?id=44466888",
+    "description": "Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946470"
+  },
+  {
+    "title": "The story behind Caesar salad",
+    "url": "https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad",
+    "author": "Bluestein",
+    "date": "2025-07-05",
+    "score": 88,
+    "comments": 48,
+    "id": 44467312,
+    "discussion_url": "https://news.ycombinator.com/item?id=44467312",
+    "description": "The story behind Caesar salad",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946502"
+  },
+  {
+    "title": "Why I left my tech job to work on chronic pain",
+    "url": "https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on",
+    "author": "glasscannon",
+    "date": "2025-07-04",
+    "score": 303,
+    "comments": 182,
+    "id": 44464068,
+    "discussion_url": "https://news.ycombinator.com/item?id=44464068",
+    "description": "Why I left my tech job to work on chronic pain",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946460"
+  },
+  {
+    "title": "Wind Knitting Factory",
+    "url": "https://www.merelkarhof.nl/work/wind-knitting-factory",
+    "author": "bschne",
+    "date": "2025-07-04",
+    "score": 236,
+    "comments": 60,
+    "id": 44458890,
+    "discussion_url": "https://news.ycombinator.com/item?id=44458890",
+    "description": "Wind Knitting Factory",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946542"
+  },
+  {
+    "title": "Writing a Game Boy Emulator in OCaml",
+    "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/",
+    "author": "ibobev",
+    "date": "2025-07-04",
+    "score": 224,
+    "comments": 39,
+    "id": 44462896,
+    "discussion_url": "https://news.ycombinator.com/item?id=44462896",
+    "description": "Writing a Game Boy Emulator in OCaml",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-05T16:06:19.946524"
+  }
+]

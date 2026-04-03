@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A software conference that advocates for quality",
+    "url": "https://bettersoftwareconference.com/",
+    "author": "leoncaet",
+    "date": "2025-07-12",
+    "score": 148,
+    "comments": 132,
+    "id": 44537113,
+    "discussion_url": "https://news.ycombinator.com/item?id=44537113",
+    "description": "A software conference that advocates for quality",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636937"
+  },
+  {
+    "title": "Arizona resident dies from the plague less than 24 hours after showing symptoms",
+    "url": "https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html",
+    "author": "Anon84",
+    "date": "2025-07-13",
+    "score": 239,
+    "comments": 129,
+    "id": 44543368,
+    "discussion_url": "https://news.ycombinator.com/item?id=44543368",
+    "description": "Arizona resident dies from the plague less than 24 hours after showing symptoms",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636805"
+  },
+  {
+    "title": "Bypassing Google's big anti-adblock update",
+    "url": "https://0x44.xyz/blog/web-request-blocking/",
+    "author": "deryilz",
+    "date": "2025-07-13",
+    "score": 675,
+    "comments": 574,
+    "id": 44544266,
+    "discussion_url": "https://news.ycombinator.com/item?id=44544266",
+    "description": "Bypassing Google's big anti-adblock update",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636658"
+  },
+  {
+    "title": "Chrome's hidden X-Browser-Validation header reverse engineered",
+    "url": "https://github.com/dsekz/chrome-x-browser-validation-header",
+    "author": "dsekz",
+    "date": "2025-07-11",
+    "score": 177,
+    "comments": 38,
+    "id": 44527739,
+    "discussion_url": "https://news.ycombinator.com/item?id=44527739",
+    "description": "Chrome's hidden X-Browser-Validation header reverse engineered",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636697"
+  },
+  {
+    "title": "Commodore 64 Ultimate",
+    "url": "https://www.commodore.net",
+    "author": "peterkelly",
+    "date": "2025-07-12",
+    "score": 161,
+    "comments": 114,
+    "id": 44540589,
+    "discussion_url": "https://news.ycombinator.com/item?id=44540589",
+    "description": "Commodore 64 Ultimate",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636945"
+  },
+  {
+    "title": "Dict Unpacking in Python",
+    "url": "https://github.com/asottile/dict-unpacking-at-home",
+    "author": "_ZeD_",
+    "date": "2025-07-09",
+    "score": 140,
+    "comments": 63,
+    "id": 44501287,
+    "discussion_url": "https://news.ycombinator.com/item?id=44501287",
+    "description": "Dict Unpacking in Python",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636869"
+  },
+  {
+    "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
+    "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html",
+    "author": "andy99",
+    "date": "2025-07-12",
+    "score": 665,
+    "comments": 92,
+    "id": 44535637,
+    "discussion_url": "https://news.ycombinator.com/item?id=44535637",
+    "description": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636834"
+  },
+  {
+    "title": "Faking a JPEG",
+    "url": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/",
+    "author": "todsacerdoti",
+    "date": "2025-07-12",
+    "score": 393,
+    "comments": 90,
+    "id": 44537631,
+    "discussion_url": "https://news.ycombinator.com/item?id=44537631",
+    "description": "Faking a JPEG",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636924"
+  },
+  {
+    "title": "First malaria treatment for babies approved for use",
+    "url": "https://www.bbc.com/news/articles/c89e872jdjxo",
+    "author": "toomuchtodo",
+    "date": "2025-07-09",
+    "score": 133,
+    "comments": 38,
+    "id": 44500815,
+    "discussion_url": "https://news.ycombinator.com/item?id=44500815",
+    "description": "First malaria treatment for babies approved for use",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636801"
+  },
+  {
+    "title": "Fundamentals of garbage collection (2023)",
+    "url": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals",
+    "author": "b-man",
+    "date": "2025-07-09",
+    "score": 138,
+    "comments": 30,
+    "id": 44505121,
+    "discussion_url": "https://news.ycombinator.com/item?id=44505121",
+    "description": "Fundamentals of garbage collection (2023)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636852"
+  },
+  {
+    "title": "Incus – Next-generation system container, application container, and VM manager",
+    "url": "https://linuxcontainers.org/incus/",
+    "author": "motorest",
+    "date": "2025-07-12",
+    "score": 122,
+    "comments": 70,
+    "id": 44539338,
+    "discussion_url": "https://news.ycombinator.com/item?id=44539338",
+    "description": "Incus – Next-generation system container, application container, and VM manager",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636856"
+  },
+  {
+    "title": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model",
+    "url": "https://github.com/MoonshotAI/Kimi-K2",
+    "author": "ConteMascetti71",
+    "date": "2025-07-13",
+    "score": 341,
+    "comments": 81,
+    "id": 44543508,
+    "discussion_url": "https://news.ycombinator.com/item?id=44543508",
+    "description": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636740"
+  },
+  {
+    "title": "Leveraging Elixir's hot code loading capabilities to modularize a monolithic app",
+    "url": "https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/",
+    "author": "ronxjansen",
+    "date": "2025-07-08",
+    "score": 118,
+    "comments": 22,
+    "id": 44497808,
+    "discussion_url": "https://news.ycombinator.com/item?id=44497808",
+    "description": "Leveraging Elixir's hot code loading capabilities to modularize a monolithic app",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636860"
+  },
+  {
+    "title": "Light exposure at night predicts incidence of cardiovascular diseases",
+    "url": "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1",
+    "author": "gnabgib",
+    "date": "2025-07-13",
+    "score": 109,
+    "comments": 75,
+    "id": 44545858,
+    "discussion_url": "https://news.ycombinator.com/item?id=44545858",
+    "description": "Light exposure at night predicts incidence of cardiovascular diseases",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636731"
+  },
+  {
+    "title": "Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python",
+    "url": "https://inventwithpython.com/blog/lost-av-chapter.html",
+    "author": "AlSweigart",
+    "date": "2025-07-13",
+    "score": 158,
+    "comments": 9,
+    "id": 44543240,
+    "discussion_url": "https://news.ycombinator.com/item?id=44543240",
+    "description": "Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636726"
+  },
+  {
+    "title": "MacPaint Art from the Mid-80s Still Looks Great Today",
+    "url": "https://blog.decryption.net.au/posts/macpaint.html",
+    "author": "decryption",
+    "date": "2025-07-12",
+    "score": 877,
+    "comments": 181,
+    "id": 44540402,
+    "discussion_url": "https://news.ycombinator.com/item?id=44540402",
+    "description": "MacPaint Art from the Mid-80s Still Looks Great Today",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636663"
+  },
+  {
+    "title": "Malware found in official gravityforms plugin indicating supply chain breach",
+    "url": "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/",
+    "author": "taubek",
+    "date": "2025-07-12",
+    "score": 217,
+    "comments": 43,
+    "id": 44539879,
+    "discussion_url": "https://news.ycombinator.com/item?id=44539879",
+    "description": "Malware found in official gravityforms plugin indicating supply chain breach",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636764"
+  },
+  {
+    "title": "Monorail – Turn CSS animations into interactive SVG graphs",
+    "url": "https://muffinman.io/monorail/",
+    "author": "stanko",
+    "date": "2025-07-09",
+    "score": 114,
+    "comments": 8,
+    "id": 44504250,
+    "discussion_url": "https://news.ycombinator.com/item?id=44504250",
+    "description": "Monorail – Turn CSS animations into interactive SVG graphs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636941"
+  },
+  {
+    "title": "New Date(\"wtf\") – How well do you know JavaScript's Date class?",
+    "url": "https://jsdate.wtf",
+    "author": "OuterVale",
+    "date": "2025-07-12",
+    "score": 326,
+    "comments": 196,
+    "id": 44540241,
+    "discussion_url": "https://news.ycombinator.com/item?id=44540241",
+    "description": "New Date(\"wtf\") – How well do you know JavaScript's Date class?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636768"
+  },
+  {
+    "title": "OpenAI delays launch of open-weight model",
+    "url": "https://twitter.com/sama/status/1943837550369812814",
+    "author": "martinald",
+    "date": "2025-07-12",
+    "score": 248,
+    "comments": 196,
+    "id": 44538413,
+    "discussion_url": "https://news.ycombinator.com/item?id=44538413",
+    "description": "OpenAI delays launch of open-weight model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636928"
+  },
+  {
+    "title": "OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google",
+    "url": "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai",
+    "author": "rcchen",
+    "date": "2025-07-12",
+    "score": 988,
+    "comments": 634,
+    "id": 44536988,
+    "discussion_url": "https://news.ycombinator.com/item?id=44536988",
+    "description": "OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636824"
+  },
+  {
+    "title": "Preliminary report into Air India crash released",
+    "url": "https://www.bbc.co.uk/news/live/cx20p2x9093t",
+    "author": "cjr",
+    "date": "2025-07-12",
+    "score": 392,
+    "comments": 794,
+    "id": 44536459,
+    "discussion_url": "https://news.ycombinator.com/item?id=44536459",
+    "description": "Preliminary report into Air India crash released",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636933"
+  },
+  {
+    "title": "Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions",
+    "url": "https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/",
+    "author": "bikenaga",
+    "date": "2025-07-13",
+    "score": 339,
+    "comments": 198,
+    "id": 44543150,
+    "discussion_url": "https://news.ycombinator.com/item?id=44543150",
+    "description": "Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636782"
+  },
+  {
+    "title": "Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]",
+    "url": "https://eprint.iacr.org/2025/1237.pdf",
+    "author": "sebgan",
+    "date": "2025-07-12",
+    "score": 130,
+    "comments": 29,
+    "id": 44538693,
+    "discussion_url": "https://news.ycombinator.com/item?id=44538693",
+    "description": "Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636889"
+  },
+  {
+    "title": "Supreme Court's ruling practically wipes out free speech for sex writing online",
+    "url": "https://ellsberg.substack.com/p/free-speech",
+    "author": "macawfish",
+    "date": "2025-07-13",
+    "score": 581,
+    "comments": 769,
+    "id": 44543865,
+    "discussion_url": "https://news.ycombinator.com/item?id=44543865",
+    "description": "Supreme Court's ruling practically wipes out free speech for sex writing online",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636778"
+  },
+  {
+    "title": "Switching to Claude Code and VSCode Inside Docker",
+    "url": "https://timsh.org/claude-inside-docker/",
+    "author": "timsh",
+    "date": "2025-07-12",
+    "score": 117,
+    "comments": 53,
+    "id": 44533044,
+    "discussion_url": "https://news.ycombinator.com/item?id=44533044",
+    "description": "Switching to Claude Code and VSCode Inside Docker",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636669"
+  },
+  {
+    "title": "The fish kick may be the fastest subsurface swim stroke yet (2015)",
+    "url": "https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/",
+    "author": "bookofjoe",
+    "date": "2025-07-12",
+    "score": 216,
+    "comments": 143,
+    "id": 44541576,
+    "discussion_url": "https://news.ycombinator.com/item?id=44541576",
+    "description": "The fish kick may be the fastest subsurface swim stroke yet (2015)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636735"
+  },
+  {
+    "title": "Vibe-Coding a PCB – surprisingly good",
+    "url": "https://atomic14.substack.com/p/vibe-coding-a-pcb-surprisingly-good",
+    "author": "iamflimflam1",
+    "date": "2025-07-13",
+    "score": 150,
+    "comments": 62,
+    "id": 44542880,
+    "discussion_url": "https://news.ycombinator.com/item?id=44542880",
+    "description": "Vibe-Coding a PCB – surprisingly good",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636787"
+  },
+  {
+    "title": "Working through 'Writing A C Compiler'",
+    "url": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/",
+    "author": "AlexeyBrin",
+    "date": "2025-07-12",
+    "score": 144,
+    "comments": 34,
+    "id": 44541565,
+    "discussion_url": "https://news.ycombinator.com/item?id=44541565",
+    "description": "Working through 'Writing A C Compiler'",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636773"
+  },
+  {
+    "title": "Zig's New Async I/O",
+    "url": "https://kristoff.it/blog/zig-new-async-io/",
+    "author": "afirium",
+    "date": "2025-07-13",
+    "score": 174,
+    "comments": 114,
+    "id": 44545949,
+    "discussion_url": "https://news.ycombinator.com/item?id=44545949",
+    "description": "Zig's New Async I/O",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2025-07-13T19:05:23.636640"
+  }
+]

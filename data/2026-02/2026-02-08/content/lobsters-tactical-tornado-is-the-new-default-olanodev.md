@@ -1,0 +1,36 @@
+---
+title: Tactical tornado is the new default | olano.dev
+url: https://olano.dev/blog/tactical-tornado
+site_name: lobsters
+content_file: lobsters-tactical-tornado-is-the-new-default-olanodev
+fetched_at: '2026-02-08T13:38:49.855113'
+original_url: https://olano.dev/blog/tactical-tornado
+author: Facundo Olano
+date: '2026-02-08'
+description: The more work we delegate to LLMs, the closer we are to becoming tactical tornadoes ourselves.
+tags: practices, vibecoding
+---
+
+I’m a big fan of John Ousterhout’sA Philosophy of Software Designbook. One of its valuable ideas is the distinction between the tactical and strategic approaches to programming:
+
+In the tactical approach, your main focus is to get something working, such as a new feature or a bug fix. At first glance this seems totally reasonable: what could be more important than writing code that works? However, tactical programming makes it nearly impossible to produce a good system design. The problem with tactical programming is that it is short-sighted. If you’re programming tactically, you’re trying to finish a task as quickly as possible. Perhaps you have a hard deadline. As a result, planning for the future isn’t a priority. You don’t spend much time looking for the best design; you just want to get something working soon. You tell yourself that it’s OK to add a bit of complexity or introduce a small kludge or two, if that allows the current task to be completed more quickly.
+
+This discussion famously defines thetactical tornado:
+
+Almost every software development organization has at least one developer who takes tactical programming to the extreme: atactical tornado. The tactical tornado isa prolific programmer who pumps out code far faster than others but works in a totally tactical fashion. When it comes to implementing a quick feature, nobody gets it done faster than the tactical tornado. In some organizations, management treats tactical tornadoes as heroes. However, tactical tornadoes leave behind a wake of destruction. They are rarely considered heroes by the engineers who must work with their code in the future. Typically, other engineers must clean up the messes left behind by the tactical tornado, which makes it appear that those engineers (who are the real heroes) are making slower progress than the tactical tornado.
+
+I realized that the LLM mode of operation fits this description exactly. And, by extension, the more work we delegate to LLMs, the closer we are to becoming tactical tornadoes ourselves.
+
+LLMs pull us in the direction offocusing on a single taskat a time,looking at a batch of diffsrather than at the overall system design. There is no big picture thinking, no consideration of conceptual integrity in the process. It’s of course the job of the human to supply these, but it’s important to realize that the tool actively worksagainstthis mindset.
+
+In my experience, the more detached I am from the lower level code-writing activities, the harder it becomes to maintain a tight mental model of the system design and runtime behavior. I acknowledge that not all brains work the same, so maybe other people are successfully producing good designs without writing any of the code. But I doubt I’m a rare exception. Rather, I feel that as an industry we’re collectively giving in to tactical mode.
+
+This isn’t surprising, considering that we live in a veryshort-termistsociety (think about our political institutions, our online habits, our relationship with the environment). Programmers have beenlosing leverageto push for strategic decision making; increasingly, what used to be software design discussions are now perceived as bikeshedding.
+
+It’s hard to deny that LLMs are powerful. It’s also hard to deny that by using them, even conservatively, we take higher risks in exchange for the productivity boost. I suspect that behind this drift is the assumption that models and tooling will become—or already are—good enough, and remain cheap enough, that we won’t need to worry about software maintainability anymore. That whatever debt we’re taking on by working in a purely tactical manner, the LLMs will be able to pay for us before it becomes a problem.
+
+I have no idea how likely it is for that future to materialize, but it sure sounds irresponsible to take it for granted.
+
+←
+
+ La pieza ausente

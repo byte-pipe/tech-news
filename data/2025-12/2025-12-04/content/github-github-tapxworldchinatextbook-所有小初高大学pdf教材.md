@@ -1,0 +1,62 @@
+---
+title: 'GitHub - TapXWorld/ChinaTextbook: 所有小初高、大学PDF教材。'
+url: https://github.com/TapXWorld/ChinaTextbook
+site_name: github
+fetched_at: '2025-12-04T11:08:05.387113'
+original_url: https://github.com/TapXWorld/ChinaTextbook
+author: TapXWorld
+description: 所有小初高、大学PDF教材。. Contribute to TapXWorld/ChinaTextbook development by creating an account on GitHub.
+---
+
+TapXWorld
+
+
+
+/
+
+ChinaTextbook
+
+Public
+
+* NotificationsYou must be signed in to change notification settings
+* Fork13.5k
+* Star60.9k
+
+所有小初高、大学PDF教材。
+
+60.9k
+
+ stars
+
+
+
+13.5k
+
+ forks
+
+
+
+Branches
+
+
+
+Tags
+
+
+
+Activity
+
+
+
+
+
+ Star
+
+
+
+Notifications
+
+
+You must be signed in to change notification settings
+
+# TapXWorld/ChinaTextbook

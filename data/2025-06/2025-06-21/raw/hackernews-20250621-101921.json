@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A Python-first data lakehouse",
+    "url": "https://www.bauplanlabs.com/blog/everything-as-python",
+    "author": "akshayka",
+    "date": "2025-06-21",
+    "points": "96",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44304607"
+  },
+  {
+    "title": "A brief, incomplete, and mostly wrong history of robotics",
+    "url": "https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong",
+    "author": "Bogdanp",
+    "date": "2025-06-21",
+    "points": "94",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44291052"
+  },
+  {
+    "title": "AMD's Freshly-Baked MI350: An Interview with the Chief Architect",
+    "url": "https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview",
+    "author": "pella",
+    "date": "2025-06-21",
+    "points": "25",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44332221"
+  },
+  {
+    "title": "AbsenceBench: Language models can't tell what's missing",
+    "url": "https://arxiv.org/abs/2506.11440",
+    "author": "JnBrymn",
+    "date": "2025-06-21",
+    "points": "82",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44332699"
+  },
+  {
+    "title": "Alpha Centauri",
+    "url": "https://www.filfre.net/2025/06/alpha-centauri/",
+    "author": "doppp",
+    "date": "2025-06-21",
+    "points": "60",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44329600"
+  },
+  {
+    "title": "An analysis of recent multithreading improvements for a smoother game",
+    "url": "https://dev.arma3.com/post/oprep-performance-optimizations-in-220",
+    "author": "diggan",
+    "date": "2025-06-21",
+    "points": "43",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44303246"
+  },
+  {
+    "title": "Ancient termite poo reveals 120M-year-old secrets of Australia's forests",
+    "url": "https://phys.org/news/2025-06-ancient-termite-poo-reveals-million.html",
+    "author": "janandonly",
+    "date": "2025-06-21",
+    "points": "14",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44307445"
+  },
+  {
+    "title": "BYD begins testing solid-state EV batteries in the Seal",
+    "url": "https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/",
+    "author": "toomuchtodo",
+    "date": "2025-06-21",
+    "points": "69",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44331898"
+  },
+  {
+    "title": "College baseball, venture capital, and the long maybe",
+    "url": "https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/",
+    "author": "bcantrill",
+    "date": "2025-06-21",
+    "points": "116",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44290992"
+  },
+  {
+    "title": "Cracovians: The Twisted Twins of Matrices",
+    "url": "https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/",
+    "author": "mci",
+    "date": "2025-06-21",
+    "points": "49",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44329449"
+  },
+  {
+    "title": "Dancing Naked on the Head of a Pin: The Early History of Microphotography",
+    "url": "https://publicdomainreview.org/essay/dancing-naked-on-the-head-of-a-pin",
+    "author": "crescit_eundo",
+    "date": "2025-06-21",
+    "points": "39",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44312501"
+  },
+  {
+    "title": "Drinks in glass bottles contain more microplastics than those in other container",
+    "url": "https://www.anses.fr/en/content/drinks-glass-bottles-contain-more-microplastics-those-other-containers",
+    "author": "Zealotux",
+    "date": "2025-06-21",
+    "points": "32",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44332912"
+  },
+  {
+    "title": "Harper – an open-source alternative to Grammarly",
+    "url": "https://writewithharper.com",
+    "author": "ReadCarlBarks",
+    "date": "2025-06-21",
+    "points": "75",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44331362"
+  },
+  {
+    "title": "Jürgen Schmidhuber：the Father of Generative AI Without Turing Award",
+    "url": "http://www.jazzyear.com/article_info.html?id=1352",
+    "author": "kleiba",
+    "date": "2025-06-21",
+    "points": "63",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44330850"
+  },
+  {
+    "title": "Klong: A Simple Array Language",
+    "url": "https://t3x.org/klong/",
+    "author": "tosh",
+    "date": "2025-06-21",
+    "points": "102",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44327173"
+  },
+  {
+    "title": "Minimal auto-differentiation engine in Rust",
+    "url": "https://github.com/e3ntity/nanograd",
+    "author": "lschneider",
+    "date": "2025-06-21",
+    "points": "55",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44327759"
+  },
+  {
+    "title": "No More Shading Languages: Compiling C++ to Vulkan Shaders [pdf]",
+    "url": "https://xol.io/random/vcc-paper.pdf",
+    "author": "pjmlp",
+    "date": "2025-06-21",
+    "points": "3",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44307892"
+  },
+  {
+    "title": "Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor (2018)",
+    "url": "https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor",
+    "author": "keepamovin",
+    "date": "2025-06-21",
+    "points": "156",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44326145"
+  },
+  {
+    "title": "Phoenix.new – Remote AI Runtime for Phoenix",
+    "url": "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/",
+    "author": "wut42",
+    "date": "2025-06-21",
+    "points": "355",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44328326"
+  },
+  {
+    "title": "Proba-3's first artificial solar eclipse",
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse",
+    "author": "sohkamyung",
+    "date": "2025-06-21",
+    "points": "11",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44309208"
+  },
+  {
+    "title": "Show HN: Inspect and extract files from MSI installers directly in your browser",
+    "url": "https://pymsi.readthedocs.io/en/latest/msi_viewer.html",
+    "author": "rmast",
+    "date": "2025-06-21",
+    "points": "69",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44331518"
+  },
+  {
+    "title": "Show HN: Nxtscape – an open-source agentic browser",
+    "url": "https://github.com/nxtscape/nxtscape",
+    "author": "felarof",
+    "date": "2025-06-21",
+    "points": "183",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44329457"
+  },
+  {
+    "title": "Show HN: SnapQL – Desktop app to query Postgres with AI",
+    "url": "https://github.com/NickTikhonov/snap-ql",
+    "author": "nicktikhonov",
+    "date": "2025-06-21",
+    "points": "85",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44326620"
+  },
+  {
+    "title": "Smartphones: Parts of Our Minds? Or Parasites?",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/00048402.2025.2504070",
+    "author": "cratermoon",
+    "date": "2025-06-21",
+    "points": "36",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44331193"
+  },
+  {
+    "title": "The JAWS shark is public domain",
+    "url": "https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/",
+    "author": "MBCook",
+    "date": "2025-06-21",
+    "points": "111",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44331125"
+  },
+  {
+    "title": "Tuxracer.js play Tux Racer in the browser",
+    "url": "https://github.com/ebbejan/tux-racer-js",
+    "author": "retro_guy",
+    "date": "2025-06-21",
+    "points": "79",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44329640"
+  },
+  {
+    "title": "Verified dynamic programming with Σ-types in Lean",
+    "url": "https://tannerduve.github.io/blog/memoization-sigma/",
+    "author": "rck",
+    "date": "2025-06-21",
+    "points": "43",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44299680"
+  },
+  {
+    "title": "Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä",
+    "url": "https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/",
+    "author": "zdw",
+    "date": "2025-06-21",
+    "points": "164",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44328598"
+  },
+  {
+    "title": "Wiki Radio: The thrilling sound of random Wikipedia",
+    "url": "https://www.monkeon.co.uk/wikiradio/",
+    "author": "if-curious",
+    "date": "2025-06-21",
+    "points": "42",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44332170"
+  },
+  {
+    "title": "YouTube's new anti-adblock measures",
+    "url": "https://iter.ca/post/yt-adblock/",
+    "author": "smitop",
+    "date": "2025-06-21",
+    "points": "97",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44329712"
+  }
+]

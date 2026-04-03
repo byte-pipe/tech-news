@@ -1,0 +1,252 @@
+[
+  {
+    "title": "\"Why is the Rust compiler so slow?\"",
+    "author": "",
+    "score": "33",
+    "comments": "0",
+    "tags": "performance, rust",
+    "url": "https://sharnoff.io/blog/why-rust-compiler-slow",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Adding a trash can to Linux with trash-cli",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "linux",
+    "url": "https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Announcing Rust 1.88.0",
+    "author": "",
+    "score": "74",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Announcing Sniffnet v1.4: it’s 2X faster than Wireshark at processing PCAP files",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "networking, rust",
+    "url": "https://sniffnet.net/news/v1.4/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Apple announces sweeping App Store changes in the EU",
+    "author": "",
+    "score": "27",
+    "comments": "0",
+    "tags": "ios",
+    "url": "https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Conferences, Clarity, and Smokescreens",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "mobile, web",
+    "url": "https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "hardware, lisp, retrocomputing",
+    "url": "http://www.aviduratas.de/lisp/lispmfpga/index.html",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "My Lights Run on Bash",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "New zine: The Secret Rules of the Terminal",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "release, unix",
+    "url": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "No Time To Learn (Web) Framework X",
+    "author": "",
+    "score": "16",
+    "comments": "0",
+    "tags": "javascript, web",
+    "url": "https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "PNG is back",
+    "author": "",
+    "score": "81",
+    "comments": "0",
+    "tags": "graphics, web",
+    "url": "https://www.programmax.net/articles/png-is-back/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Parameterized types in C using the new tag compatibility rule",
+    "author": "",
+    "score": "15",
+    "comments": "0",
+    "tags": "c",
+    "url": "https://nullprogram.com/blog/2025/06/26/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Python can run Mojo now",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "performance, python",
+    "url": "https://koaning.io/posts/giving-mojo-a-spin/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "RSS Server Side Reader",
+    "author": "",
+    "score": "44",
+    "comments": "0",
+    "tags": "api",
+    "url": "https://matklad.github.io/2025/06/26/rssssr.html",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Richard Feldman on new language adoption in the LLM age",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "video, vibecoding",
+    "url": "https://youtu.be/ZsBHc-J9f8o",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Run coverage on tests",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "practices, testing",
+    "url": "https://hugovk.dev/blog/2025/run-coverage-on-tests/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Simplifying Vulkan Synchronization",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "graphics",
+    "url": "https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Slightly better named character reference tokenization than Chrome, Safari, and Firefox",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "browsers, programming",
+    "url": "https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Structuring Arrays with Algebraic Shapes",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "pdf, plt",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3736112.3736141",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Ticket-Driven Development: The Fastest Way to Go Nowhere",
+    "author": "",
+    "score": "44",
+    "comments": "0",
+    "tags": "practices",
+    "url": "https://thecynical.dev/posts/ticket-driven-development/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "Transmitting data via ultrasound without any special equipment",
+    "author": "",
+    "score": "6",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "What are you doing this weekend?",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "ask, programming",
+    "url": "https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend",
+    "date": "2025-06-27",
+    "description": "☶"
+  },
+  {
+    "title": "You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine",
+    "author": "",
+    "score": "122",
+    "comments": "0",
+    "tags": "a11y, linux, rant",
+    "url": "https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/",
+    "date": "2025-06-27",
+    "description": ""
+  },
+  {
+    "title": "alternate histories of computing (2018)",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "video, historical, osdev",
+    "url": "https://archive.fosdem.org/2018/schedule/event/alternative_histories/",
+    "date": "2025-06-27",
+    "description": ""
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Chez Scheme vs. SBCL: a comparison (2019)",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "lisp, performance",
+    "url": "https://elmord.org/blog/?entry=20191114-sbcl-chez",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Das Problem mit German Strings",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Developing an alt text button for images on my website",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "css, web",
+    "url": "https://jamesg.blog/2025/08/17/alt-text-button",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Dissecting the Apple M1 GPU, the end",
+    "author": "",
+    "score": "93",
+    "comments": "0",
+    "tags": "graphics, reversing",
+    "url": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Efficient Array Programming",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "apl",
+    "url": "https://github.com/razetime/efficient-array-programming",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Give Your Spouse the Gift of a Couple's Email Domain",
+    "author": "",
+    "score": "40",
+    "comments": "0",
+    "tags": "email, practices",
+    "url": "https://mtlynch.io/couples-email-domain/",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "How do you communicate with your team/organization?",
+    "author": "",
+    "score": "1",
+    "comments": "0",
+    "tags": "ask, practices",
+    "url": "https://lobste.rs/s/xzev05/how_do_you_communicate_with_your_team",
+    "date": "2025-08-27",
+    "description": "☶"
+  },
+  {
+    "title": "How to Slow Down a Program? And Why it Can Be Useful",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "performance, programming",
+    "url": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "I Know When You're Vibe Coding",
+    "author": "",
+    "score": "59",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Implementing Forth in Go and C",
+    "author": "",
+    "score": "14",
+    "comments": "0",
+    "tags": "c, concatenative, go",
+    "url": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Inside Zig's New Writer",
+    "author": "",
+    "score": "22",
+    "comments": "0",
+    "tags": "zig",
+    "url": "https://joegm.github.io/blog/inside-zigs-new-writer-interface/",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Lessons from Building a Game Engine from Scratch in Gleam",
+    "author": "",
+    "score": "8",
+    "comments": "0",
+    "tags": "video, games, gleam",
+    "url": "https://www.youtube.com/watch?v=uExwRo_qM-k",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Malicious versions of Nx and some supporting plugins were published",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "programming, security",
+    "url": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Object-oriented design patterns",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "c, osdev",
+    "url": "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Put a ring on it: a lock-free MPMC ring buffer",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "c, distributed, performance",
+    "url": "https://h4x0r.org/ring/",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "So many conferences are mid. Why was BSC 2025 so good?",
+    "author": "",
+    "score": "55",
+    "comments": "0",
+    "tags": "event",
+    "url": "https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "State of the art for reducing executable size with heavily optimized program",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "c++, practices",
+    "url": "https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Testing Time (and other asyncronicities)",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "go",
+    "url": "https://go.dev/blog/testing-time",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "The unexpected productivity boost of Rust",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://lubeno.dev/blog/rusts-productivity-curve",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "The vulnerability might be in the proof-of-concept",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://sethmlarson.dev/the-vulnerability-is-in-the-proof-of-concept",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Uncertain<T>",
+    "author": "",
+    "score": "47",
+    "comments": "0",
+    "tags": "swift",
+    "url": "https://nshipster.com/uncertainty/",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "Why AI Isn’t Ready to Be a Real Coder",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://spectrum.ieee.org/ai-for-coding",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "doxx - A viewer for Microsoft Word .docx files in the terminal",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://terminaltrove.com/doxx/",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "rv, a new kind of Ruby management tool",
+    "author": "",
+    "score": "78",
+    "comments": "0",
+    "tags": "ruby",
+    "url": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
+    "date": "2025-08-27",
+    "description": ""
+  },
+  {
+    "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
+    "author": "",
+    "score": "20",
+    "comments": "0",
+    "tags": "c++, performance",
+    "url": "https://snf.github.io/2019/02/13/shared-ptr-optimization/",
+    "date": "2025-08-27",
+    "description": ""
+  }
+]

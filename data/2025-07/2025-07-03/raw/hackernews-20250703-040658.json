@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A List Is a Monad",
+    "url": "https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/",
+    "author": "polygot",
+    "date": "2025-07-03",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44414965"
+  },
+  {
+    "title": "A proof-of-concept neural brain implant providing speech",
+    "url": "https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/",
+    "author": "LorenDB",
+    "date": "2025-07-03",
+    "points": "93",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44412488"
+  },
+  {
+    "title": "Azure API vulnerability and roles misconfiguration compromise corporate networks",
+    "url": "https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks",
+    "author": "ArielSimon",
+    "date": "2025-07-03",
+    "points": "63",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44443832"
+  },
+  {
+    "title": "Chatbot Flow Editor – Visual tool for designing conversation flows",
+    "url": "https://github.com/enumura1/chatbot-flow-editor",
+    "author": "enumura",
+    "date": "2025-07-03",
+    "points": "24",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44411252"
+  },
+  {
+    "title": "Cloudflare Introduces Default Blocking of A.I. Data Scrapers",
+    "url": "https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html",
+    "author": "stephendause",
+    "date": "2025-07-03",
+    "points": "207",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44443480"
+  },
+  {
+    "title": "Content Independence Day: no AI crawl without compensation",
+    "url": "https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/",
+    "author": "kotk",
+    "date": "2025-07-03",
+    "points": "25",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44445297"
+  },
+  {
+    "title": "Don’t use “click here” as link text (2001)",
+    "url": "https://www.w3.org/QA/Tips/noClickHere",
+    "author": "theandrewbailey",
+    "date": "2025-07-03",
+    "points": "282",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44442473"
+  },
+  {
+    "title": "Double Is Winding Down",
+    "url": "https://double.finance/blog/wind_down",
+    "author": "NetOpWibby",
+    "date": "2025-07-03",
+    "points": "41",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44444987"
+  },
+  {
+    "title": "Exploiting the IKKO Activebuds \"AI powered\" earbuds",
+    "url": "https://blog.mgdproductions.com/ikko-activebuds/",
+    "author": "ajdude",
+    "date": "2025-07-03",
+    "points": "261",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44443919"
+  },
+  {
+    "title": "Fakespot shuts down today after 9 years of detecting fake product reviews",
+    "url": "https://blog.truestar.pro/fakespot-shuts-down/",
+    "author": "doppio19",
+    "date": "2025-07-03",
+    "points": "366",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44437712"
+  },
+  {
+    "title": "Figma files for proposed IPO",
+    "url": "https://www.figma.com/blog/s1-public/",
+    "author": "kualto",
+    "date": "2025-07-03",
+    "points": "470",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44437316"
+  },
+  {
+    "title": "Firefox 120 to Firefox 141 Web Browser Benchmarks",
+    "url": "https://www.phoronix.com/review/firefox-benchmarks-120-141",
+    "author": "mikece",
+    "date": "2025-07-03",
+    "points": "74",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44444722"
+  },
+  {
+    "title": "Gene therapy restored hearing in deaf patients",
+    "url": "https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients",
+    "author": "justacrow",
+    "date": "2025-07-03",
+    "points": "125",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44444626"
+  },
+  {
+    "title": "Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands",
+    "url": "https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands",
+    "author": "mschuster91",
+    "date": "2025-07-03",
+    "points": "64",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44442189"
+  },
+  {
+    "title": "Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory",
+    "url": "https://arxiv.org/abs/2503.01800",
+    "author": "nsoonhui",
+    "date": "2025-07-03",
+    "points": "135",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44439242"
+  },
+  {
+    "title": "How large are large language models?",
+    "url": "https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e",
+    "author": "rain1",
+    "date": "2025-07-03",
+    "points": "160",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44442072"
+  },
+  {
+    "title": "Huawei releases an open weight model trained on Huawei Ascend GPUs",
+    "url": "https://arxiv.org/abs/2505.21411",
+    "author": "buyucu",
+    "date": "2025-07-03",
+    "points": "249",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44441089"
+  },
+  {
+    "title": "I'm dialing back my LLM usage",
+    "url": "https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin",
+    "author": "sagacity",
+    "date": "2025-07-03",
+    "points": "238",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44443109"
+  },
+  {
+    "title": "ICEBlock climbs to the top of the App Store charts after officials slam it",
+    "url": "https://www.engadget.com/social-media/iceblock-climbs-to-the-top-of-the-app-store-charts-after-officials-slam-it-004319963.html",
+    "author": "doener",
+    "date": "2025-07-03",
+    "points": "230",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44445180"
+  },
+  {
+    "title": "IntyBASIC: A Basic Compiler for Intellivision",
+    "url": "https://nanochess.org/intybasic.html",
+    "author": "joemanaco",
+    "date": "2025-07-03",
+    "points": "21",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44410537"
+  },
+  {
+    "title": "MindsDB (YC W20) Is Hiring for an AI Solutions Engineer",
+    "url": "https://job-boards.greenhouse.io/mindsdb/jobs/4770283007",
+    "author": "",
+    "date": "2025-07-03",
+    "points": "0",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44446477"
+  },
+  {
+    "title": "Private sector lost 33k jobs, badly missing expectations of 100k increase",
+    "url": "https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html",
+    "author": "ceejayoz",
+    "date": "2025-07-03",
+    "points": "195",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44443622"
+  },
+  {
+    "title": "Sam Altman Slams Meta’s AI Talent Poaching: 'Missionaries Will Beat Mercenaries'",
+    "url": "https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/",
+    "author": "spenvo",
+    "date": "2025-07-03",
+    "points": "303",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44436579"
+  },
+  {
+    "title": "Show HN: CSS generator for a high-def glass effect",
+    "url": "https://glass3d.dev/",
+    "author": "kris-kay",
+    "date": "2025-07-03",
+    "points": "37",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44445238"
+  },
+  {
+    "title": "Sony's Mark Cerny Has Worked on \"Big Chunks of RDNA 5\" with AMD",
+    "url": "https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/",
+    "author": "ZenithExtreme",
+    "date": "2025-07-03",
+    "points": "24",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44445458"
+  },
+  {
+    "title": "Stop Killing Games",
+    "url": "https://www.stopkillinggames.com/",
+    "author": "MYEUHD",
+    "date": "2025-07-03",
+    "points": "118",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44445880"
+  },
+  {
+    "title": "The Fed says this is a cube of $1M. They're off by half a million",
+    "url": "https://calvin.sh/blog/fed-lie/",
+    "author": "c249709",
+    "date": "2025-07-03",
+    "points": "1394",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44435484"
+  },
+  {
+    "title": "The Zen of Quakerism (2016)",
+    "url": "https://www.friendsjournal.org/the-zen-of-quakerism/",
+    "author": "surprisetalk",
+    "date": "2025-07-03",
+    "points": "28",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44413076"
+  },
+  {
+    "title": "They tried Made in the USA – it was too expensive for their customers",
+    "url": "https://www.reuters.com/business/they-tried-made-usa-it-was-too-expensive-their-customers-2025-07-02/",
+    "author": "petethomas",
+    "date": "2025-07-03",
+    "points": "150",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44442134"
+  },
+  {
+    "title": "Why Do Swallows Fly to the Korean DMZ?",
+    "url": "https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/",
+    "author": "gaws",
+    "date": "2025-07-03",
+    "points": "84",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44404243"
+  }
+]

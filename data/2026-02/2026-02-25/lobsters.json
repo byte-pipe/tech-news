@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Binding port 0 to avoid port collisions",
+    "author": "",
+    "score": "41",
+    "comments": "0",
+    "tags": "linux, testing",
+    "url": "https://ntietz.com/blog/binding-ephemeral-port/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "C Enum Sizes; or, How MSVC Ignores The Standard Once Again",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "c",
+    "url": "https://ettolrach.com/blog/c_enum_msvc.html",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Can agentic coding raise the quality bar?",
+    "author": "",
+    "score": "9",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://lpalmieri.com/posts/agentic-coding-raises-quality/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Compiler Education Deserves a Revolution",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "compilers, education",
+    "url": "https://thunderseethe.dev/posts/compiler-education-deserves-a-revoluation/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Cursed engineering: jumping randomly through CSV files without hurting yourself",
+    "author": "",
+    "score": "29",
+    "comments": "0",
+    "tags": "performance, rust",
+    "url": "https://github.com/medialab/xan/blob/master/docs/blog/csv_base_jumping.md",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Desk Setup: From Multi-Monitor to Single Screen with Virtual Desktops",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "linux, mac, windows",
+    "url": "https://www.ssp.sh/brain/computer-desk-setup-monitor-workflow/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Disappointing phones",
+    "author": "",
+    "score": "61",
+    "comments": "0",
+    "tags": "android, mobile",
+    "url": "https://cadence.moe/blog/2026-02-08-disappointing-phones",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148",
+    "author": "",
+    "score": "49",
+    "comments": "0",
+    "tags": "browsers, security, web",
+    "url": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "How I got Claude to teach me dbt",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "vibecoding",
+    "url": "https://rmoff.net/2026/02/20/claude-the-instructor/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet",
+    "author": "",
+    "score": "43",
+    "comments": "0",
+    "tags": "security",
+    "url": "https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Ladybird adopts Rust, with help from AI",
+    "author": "",
+    "score": "52",
+    "comments": "0",
+    "tags": "browsers, rust, vibecoding",
+    "url": "https://ladybird.org/posts/adopting-rust/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Lines of Code Are Back (And It's Worse Than Before)",
+    "author": "",
+    "score": "18",
+    "comments": "0",
+    "tags": "programming, vibecoding",
+    "url": "https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Permacomputing",
+    "author": "",
+    "score": "31",
+    "comments": "0",
+    "tags": "retrocomputing",
+    "url": "http://permacomputing.net/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Reducing the size of Go binaries by up to 77%",
+    "author": "",
+    "score": "25",
+    "comments": "0",
+    "tags": "go, performance",
+    "url": "https://www.datadoghq.com/blog/engineering/agent-go-binaries/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Row Locks With Joins Can Produce Surprising Results in PostgreSQL",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "databases",
+    "url": "https://hakibenita.com/postgres-row-lock-with-join",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Rust debugging survey 2026",
+    "author": "",
+    "score": "12",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://blog.rust-lang.org/2026/02/23/rust-debugging-survey-2026/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Scheduling in a Bare-Metal Web Server",
+    "author": "",
+    "score": "2",
+    "comments": "0",
+    "tags": "c, osdev",
+    "url": "https://thasso.xyz/scheduling.html",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "So I've Been Thinking About Static Site Generators",
+    "author": "",
+    "score": "82",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://wolfgirl.dev/blog/2026-02-23-so-ive-been-thinking-about-static-site-generators/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "Sometimes it's just better to load \"all\" the data",
+    "author": "",
+    "score": "3",
+    "comments": "0",
+    "tags": "performance",
+    "url": "https://blog.codingmilitia.com/2026/02/15/sometimes-its-just-better-to-load-all-the-data/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "TLA+ By Example",
+    "author": "",
+    "score": "5",
+    "comments": "0",
+    "tags": "formalmethods",
+    "url": "https://tlabyexample.com/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "You don't need free lists",
+    "author": "",
+    "score": "52",
+    "comments": "0",
+    "tags": "programming",
+    "url": "https://jakubtomsu.github.io/posts/bit_pools/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "framedeck: A Framework mainboard based Cyberdeck",
+    "author": "",
+    "score": "11",
+    "comments": "0",
+    "tags": "art, hardware",
+    "url": "https://github.com/brickbots/framedeck",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "trolley: Run terminal apps anywhere",
+    "author": "",
+    "score": "13",
+    "comments": "0",
+    "tags": "rust",
+    "url": "https://github.com/weedonandscott/trolley",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "x86CSS - An x86 CPU emulator written in CSS",
+    "author": "",
+    "score": "105",
+    "comments": "0",
+    "tags": "show, css",
+    "url": "https://lyra.horse/x86css/",
+    "date": "2026-02-25",
+    "description": ""
+  },
+  {
+    "title": "“Just a little detail that wouldn’t sell anything”",
+    "author": "",
+    "score": "17",
+    "comments": "0",
+    "tags": "design, mac, retrocomputing",
+    "url": "https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/",
+    "date": "2026-02-25",
+    "description": ""
+  }
+]

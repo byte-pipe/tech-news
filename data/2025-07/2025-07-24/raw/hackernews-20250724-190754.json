@@ -1,0 +1,272 @@
+[
+  {
+    "title": "A Python tool to parse PDF statements from Poste Italiane",
+    "url": "https://github.com/genbs/poste-italiane-parser",
+    "author": "genbs",
+    "date": "2025-07-24",
+    "points": "19",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44634756"
+  },
+  {
+    "title": "A small web July",
+    "url": "https://smallcypress.bearblog.dev/a-small-web-july/",
+    "author": "debo_",
+    "date": "2025-07-24",
+    "points": "86",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44665984"
+  },
+  {
+    "title": "AI overviews cause massive drop in search clicks",
+    "url": "https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/",
+    "author": "jonbaer",
+    "date": "2025-07-24",
+    "points": "335",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44663227"
+  },
+  {
+    "title": "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
+    "url": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b",
+    "author": "Bogdanp",
+    "date": "2025-07-24",
+    "points": "53",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44666896"
+  },
+  {
+    "title": "BGP.Tools: Browse the Internet Ecosystem",
+    "url": "https://bgp.tools/",
+    "author": "RGBCube",
+    "date": "2025-07-24",
+    "points": "152",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44665815"
+  },
+  {
+    "title": "Building better AI tools",
+    "url": "https://hazelweakly.me/blog/stop-building-ai-tools-backwards/",
+    "author": "eternalreturn",
+    "date": "2025-07-24",
+    "points": "287",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44659921"
+  },
+  {
+    "title": "Bus Bunching",
+    "url": "https://www.futilitycloset.com/2025/07/12/bus-bunching/",
+    "author": "surprisetalk",
+    "date": "2025-07-24",
+    "points": "12",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44625493"
+  },
+  {
+    "title": "CARA – High precision robot dog using rope",
+    "url": "https://www.aaedmusa.com/projects/cara",
+    "author": "hakonjdjohnsen",
+    "date": "2025-07-24",
+    "points": "675",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44661846"
+  },
+  {
+    "title": "Checklists are hard, but still a good thing",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood",
+    "author": "zdw",
+    "date": "2025-07-24",
+    "points": "131",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44626359"
+  },
+  {
+    "title": "Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom",
+    "url": "https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/",
+    "author": "pabs3",
+    "date": "2025-07-24",
+    "points": "518",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44658908"
+  },
+  {
+    "title": "Distillation makes AI models smaller and cheaper",
+    "url": "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/",
+    "author": "pseudolus",
+    "date": "2025-07-24",
+    "points": "63",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44629805"
+  },
+  {
+    "title": "Electric cars produce far less brake dust pollution than combustion-engine cars",
+    "url": "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/",
+    "author": "tzs",
+    "date": "2025-07-24",
+    "points": "242",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44666157"
+  },
+  {
+    "title": "FastVLM: Efficient Vision Encoding for Vision Language Models",
+    "url": "https://machinelearning.apple.com/research/fast-vision-language-models",
+    "author": "2bit",
+    "date": "2025-07-24",
+    "points": "81",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44661527"
+  },
+  {
+    "title": "I drank every cocktail",
+    "url": "https://aaronson.org/blog/i-drank-every-cocktail",
+    "author": "colinprince",
+    "date": "2025-07-24",
+    "points": "259",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44665373"
+  },
+  {
+    "title": "Jitsi privacy flaw enables one-click stealth audio and video capture",
+    "url": "https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one",
+    "author": "zielmicha",
+    "date": "2025-07-24",
+    "points": "128",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44663684"
+  },
+  {
+    "title": "Leprechauns, root causes, and other fairy tales",
+    "url": "https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/",
+    "author": "ingve",
+    "date": "2025-07-24",
+    "points": "14",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44632739"
+  },
+  {
+    "title": "Lumo: Privacy-first AI assistant",
+    "url": "https://proton.me/blog/lumo-ai",
+    "author": "pentagrama",
+    "date": "2025-07-24",
+    "points": "140",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44657556"
+  },
+  {
+    "title": "Major rule about cooking meat turns out to be wrong",
+    "url": "https://www.seriouseats.com/meat-resting-science-11776272",
+    "author": "voxadam",
+    "date": "2025-07-24",
+    "points": "282",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44662757"
+  },
+  {
+    "title": "Neil Armstrong's customs form for moon rocks (2016)",
+    "url": "https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html",
+    "author": "ajuhasz",
+    "date": "2025-07-24",
+    "points": "259",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44660437"
+  },
+  {
+    "title": "Parsing Protobuf like never before",
+    "url": "https://mcyoung.xyz/2025/07/16/hyperpb/",
+    "author": "ibobev",
+    "date": "2025-07-24",
+    "points": "202",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44591605"
+  },
+  {
+    "title": "Seven Sisters eclipse will temporarily block stars from view",
+    "url": "https://www.discovermagazine.com/the-sciences/the-seven-sisters-eclipse-will-temporarily-block-stars-from-view",
+    "author": "Bluestein",
+    "date": "2025-07-24",
+    "points": "43",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44622994"
+  },
+  {
+    "title": "Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown",
+    "url": "https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown",
+    "author": "complexpass",
+    "date": "2025-07-24",
+    "points": "10",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44667472"
+  },
+  {
+    "title": "Show HN: TheProtector – Linux Bash script for the paranoid admin on a budget",
+    "url": "https://github.com/IHATEGIVINGAUSERNAME/theProtector",
+    "author": "lotussmellsbad",
+    "date": "2025-07-24",
+    "points": "130",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44662497"
+  },
+  {
+    "title": "Show HN: Tinder but it's only pictures of my wife and I can only swipe right",
+    "url": "https://trytender.app/",
+    "author": "risquer",
+    "date": "2025-07-24",
+    "points": "615",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44664873"
+  },
+  {
+    "title": "The Promised LAN",
+    "url": "https://tpl.house/",
+    "author": "Bogdanp",
+    "date": "2025-07-24",
+    "points": "306",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44661682"
+  },
+  {
+    "title": "Tram Trains",
+    "url": "https://www.worksinprogress.news/p/tram-trains",
+    "author": "ortegaygasset",
+    "date": "2025-07-24",
+    "points": "78",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44659712"
+  },
+  {
+    "title": "US AI Action Plan",
+    "url": "https://www.ai.gov/action-plan",
+    "author": "joelburget",
+    "date": "2025-07-24",
+    "points": "287",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44660323"
+  },
+  {
+    "title": "Vector Tiles are deployed on OpenStreetMap.org",
+    "url": "https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/",
+    "author": "ikawe",
+    "date": "2025-07-24",
+    "points": "162",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44653136"
+  },
+  {
+    "title": "What to expect from Debian/Trixie",
+    "url": "https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/",
+    "author": "exiguus",
+    "date": "2025-07-24",
+    "points": "240",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44659019"
+  },
+  {
+    "title": "Why Elixir? Common misconceptions",
+    "url": "https://matthewsinclair.com/blog/0181-why-elixir",
+    "author": "ahamez",
+    "date": "2025-07-24",
+    "points": "198",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44659251"
+  }
+]

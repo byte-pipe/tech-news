@@ -1,0 +1,272 @@
+[
+  {
+    "title": "1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5",
+    "url": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5",
+    "author": "rbanffy",
+    "date": "2025-12-19",
+    "points": "551",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46319657"
+  },
+  {
+    "title": "AMD Ryzen 7 5800X3D sells for more than 9800X3D, enthusiasts flock to AM4 DDR4",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amds-legacy-ryzen-7-5800x3d-chips-now-sell-for-up-to-usd800-more-than-a-new-9800x3d-am4-chip-costs-twice-as-much-as-msrp-as-enthusiasts-flock-to-old-ddr4-memory",
+    "author": "walterbell",
+    "date": "2025-12-19",
+    "points": "26",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46328288"
+  },
+  {
+    "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
+    "url": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
+    "author": "captn3m0",
+    "date": "2025-12-19",
+    "points": "379",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46324078"
+  },
+  {
+    "title": "Beginning January 2026, all ACM publications will be made open access",
+    "url": "https://dl.acm.org/openaccess",
+    "author": "Kerrick",
+    "date": "2025-12-19",
+    "points": "1930",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46313991"
+  },
+  {
+    "title": "Believe the Checkbook",
+    "url": "https://robertgreiner.com/believe-the-checkbook/",
+    "author": "rg81",
+    "date": "2025-12-19",
+    "points": "50",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46327133"
+  },
+  {
+    "title": "Building a Transparent Keyserver",
+    "url": "https://words.filippo.io/keyserver-tlog/",
+    "author": "noident",
+    "date": "2025-12-19",
+    "points": "37",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46326506"
+  },
+  {
+    "title": "Cursor Acquires Graphite",
+    "url": "https://graphite.com/blog/graphite-joins-cursor",
+    "author": "timvdalen",
+    "date": "2025-12-19",
+    "points": "147",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46327325"
+  },
+  {
+    "title": "Designing a Passive Lidar Detector Device",
+    "url": "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor",
+    "author": "speckx",
+    "date": "2025-12-19",
+    "points": "62",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46281355"
+  },
+  {
+    "title": "Does my key fob have more computing power than the Lunar lander?",
+    "url": "https://www.buzzsprout.com/2469780/episodes/18340142-17-does-my-key-fob-have-more-computing-power-than-the-lunar-lander",
+    "author": "jammcq",
+    "date": "2025-12-19",
+    "points": "33",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46258377"
+  },
+  {
+    "title": "From Zero to QED: An informal introduction to formality with Lean 4",
+    "url": "https://sdiehl.github.io/zero-to-qed/01_introduction.html",
+    "author": "rwosync",
+    "date": "2025-12-19",
+    "points": "126",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46259343"
+  },
+  {
+    "title": "GPT-5.2-Codex",
+    "url": "https://openai.com/index/introducing-gpt-5-2-codex/",
+    "author": "meetpateltech",
+    "date": "2025-12-19",
+    "points": "559",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46316367"
+  },
+  {
+    "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
+    "url": "https://garagehq.deuxfleurs.fr/",
+    "author": "ibobev",
+    "date": "2025-12-19",
+    "points": "227",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46326984"
+  },
+  {
+    "title": "Getting bitten by Intel's poor naming schemes",
+    "url": "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/",
+    "author": "LorenDB",
+    "date": "2025-12-19",
+    "points": "237",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46322540"
+  },
+  {
+    "title": "GotaTun -- Mullvad's WireGuard Implementation in Rust",
+    "url": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+    "author": "km",
+    "date": "2025-12-19",
+    "points": "415",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46324543"
+  },
+  {
+    "title": "History LLMs: Models trained exclusively on pre-1913 texts",
+    "url": "https://github.com/DGoettlich/history-llms",
+    "author": "iamwil",
+    "date": "2025-12-19",
+    "points": "678",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46319826"
+  },
+  {
+    "title": "How China built its ‘Manhattan Project’ to rival the West in AI chips",
+    "url": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
+    "author": "artninja1988",
+    "date": "2025-12-19",
+    "points": "438",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46316907"
+  },
+  {
+    "title": "How to think about durable execution",
+    "url": "https://hatchet.run/blog/durable-execution",
+    "author": "abelanger",
+    "date": "2025-12-19",
+    "points": "79",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46245238"
+  },
+  {
+    "title": "Noclip.website – A digital museum of video game levels",
+    "url": "https://noclip.website/",
+    "author": "ivmoreau",
+    "date": "2025-12-19",
+    "points": "399",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46321619"
+  },
+  {
+    "title": "Prepare for That Stupid World",
+    "url": "https://ploum.net/2025-12-19-prepare-for-that-world.html",
+    "author": "speckx",
+    "date": "2025-12-19",
+    "points": "77",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46328109"
+  },
+  {
+    "title": "Prompt caching for cheaper LLM tokens",
+    "url": "https://ngrok.com/blog/prompt-caching/",
+    "author": "samwho",
+    "date": "2025-12-19",
+    "points": "236",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46290620"
+  },
+  {
+    "title": "Reverse Engineering Major US Airline's PNR System and Accessing All Reservations",
+    "url": "https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability",
+    "author": "bearsyankees",
+    "date": "2025-12-19",
+    "points": "15",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46328992"
+  },
+  {
+    "title": "Show HN: I Made Loom for Mobile",
+    "url": "https://demoscope.app",
+    "author": "admtal",
+    "date": "2025-12-19",
+    "points": "25",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46328203"
+  },
+  {
+    "title": "Show HN: Stepped Actions – distributed workflow orchestration for Rails",
+    "url": "https://github.com/envirobly/stepped",
+    "author": "klevo",
+    "date": "2025-12-19",
+    "points": "67",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46261884"
+  },
+  {
+    "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
+    "url": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
+    "author": "sibellavia",
+    "date": "2025-12-19",
+    "points": "27",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46329038"
+  },
+  {
+    "title": "Texas is suing all of the big TV makers for spying on what you watch",
+    "url": "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying",
+    "author": "tortilla",
+    "date": "2025-12-19",
+    "points": "1146",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46294456"
+  },
+  {
+    "title": "The FreeBSD Foundation's Laptop Support and Usability Project",
+    "url": "https://github.com/FreeBSDFoundation/proj-laptop",
+    "author": "mikece",
+    "date": "2025-12-19",
+    "points": "90",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46326519"
+  },
+  {
+    "title": "The New Right-Wing Tech Intelligentsia",
+    "url": "https://bayareacurrent.com/meet-the-new-right-wing-tech-intelligentsia/",
+    "author": "counteroptimize",
+    "date": "2025-12-19",
+    "points": "16",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46329375"
+  },
+  {
+    "title": "TikTok Deal Is the Shittiest Possible Outcome, Making Everything Worse",
+    "url": "https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/",
+    "author": "lateforwork",
+    "date": "2025-12-19",
+    "points": "224",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46327406"
+  },
+  {
+    "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
+    "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
+    "author": "hackermondev",
+    "date": "2025-12-19",
+    "points": "1054",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46317098"
+  },
+  {
+    "title": "Where Is GPT in the Chomsky Hierarchy?",
+    "url": "https://fi-le.net/chomsky/",
+    "author": "fi-le",
+    "date": "2025-12-19",
+    "points": "17",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=46267862"
+  }
+]

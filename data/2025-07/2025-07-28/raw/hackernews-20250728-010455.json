@@ -1,0 +1,272 @@
+[
+  {
+    "title": "16colo.rs: ANSI/ASCII art archive",
+    "url": "https://16colo.rs/",
+    "author": "debo_",
+    "date": "2025-07-28",
+    "points": "76",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44665816"
+  },
+  {
+    "title": "4k NASA employees opt to leave agency through deferred resignation program",
+    "url": "https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304",
+    "author": "ProAm",
+    "date": "2025-07-28",
+    "points": "146",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44699052"
+  },
+  {
+    "title": "A low power 1U Raspberry Pi cluster server for inexpensive colocation (2021)",
+    "url": "https://github.com/pawl/raspberry-pi-1u-server",
+    "author": "LorenDB",
+    "date": "2025-07-28",
+    "points": "91",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44660219"
+  },
+  {
+    "title": "Base58 versus Base85 Encoding",
+    "url": "https://www.johndcook.com/blog/2025/07/23/base58-base85/",
+    "author": "zdw",
+    "date": "2025-07-28",
+    "points": "5",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44661402"
+  },
+  {
+    "title": "Beetroot juice lowers blood pressure in older people by changing oral microbiome",
+    "url": "https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/",
+    "author": "lightlyused",
+    "date": "2025-07-28",
+    "points": "73",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44700923"
+  },
+  {
+    "title": "BlueOS Kernel – Written in Rust, compatible with POSIX",
+    "url": "https://github.com/vivoblueos/kernel",
+    "author": "dacapoday",
+    "date": "2025-07-28",
+    "points": "21",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44669026"
+  },
+  {
+    "title": "Cable bacteria are living batteries",
+    "url": "https://www.asimov.press/p/cable-bacteria",
+    "author": "mailyk",
+    "date": "2025-07-28",
+    "points": "66",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44661571"
+  },
+  {
+    "title": "Chemical process produces critical battery metals with no waste",
+    "url": "https://spectrum.ieee.org/nmc-battery-aspiring-materials",
+    "author": "stubish",
+    "date": "2025-07-28",
+    "points": "165",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44698928"
+  },
+  {
+    "title": "Constrained languages are easier to optimize",
+    "url": "https://jyn.dev/constrained-languages-are-easier-to-optimize/",
+    "author": "PaulHoule",
+    "date": "2025-07-28",
+    "points": "32",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44699980"
+  },
+  {
+    "title": "Coronary artery calcium testing can reveal plaque in arteries, but is underused",
+    "url": "https://www.nytimes.com/2025/07/26/health/coronary-artery-calcium-heart.html",
+    "author": "brandonb",
+    "date": "2025-07-28",
+    "points": "139",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44697145"
+  },
+  {
+    "title": "Dumb Pipe",
+    "url": "https://www.dumbpipe.dev/",
+    "author": "udev4096",
+    "date": "2025-07-28",
+    "points": "7",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44701555"
+  },
+  {
+    "title": "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
+    "url": "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/",
+    "author": "todsacerdoti",
+    "date": "2025-07-28",
+    "points": "149",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44698754"
+  },
+  {
+    "title": "Hierarchical Reasoning Model",
+    "url": "https://arxiv.org/abs/2506.21734",
+    "author": "hansmayer",
+    "date": "2025-07-28",
+    "points": "134",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44699452"
+  },
+  {
+    "title": "High-performance RISC-V processors: UltraRISC UR-DP1000, Zhihe A210, SpacemIT K3",
+    "url": "https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/",
+    "author": "fork-bomber",
+    "date": "2025-07-28",
+    "points": "40",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44658722"
+  },
+  {
+    "title": "How we rooted Copilot",
+    "url": "https://research.eye.security/how-we-rooted-copilot/",
+    "author": "uponasmile",
+    "date": "2025-07-28",
+    "points": "327",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44695098"
+  },
+  {
+    "title": "Implementing dynamic scope for Fennel and Lua",
+    "url": "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/",
+    "author": "Bogdanp",
+    "date": "2025-07-28",
+    "points": "20",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44663887"
+  },
+  {
+    "title": "Janet: Lightweight, Expressive, Modern Lisp",
+    "url": "https://janet-lang.org",
+    "author": "veqq",
+    "date": "2025-07-28",
+    "points": "122",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44698185"
+  },
+  {
+    "title": "Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops",
+    "url": "https://www.linaro.org/blog/linux-on-snapdragon-x-elite/",
+    "author": "MarcusE1W",
+    "date": "2025-07-28",
+    "points": "180",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44699393"
+  },
+  {
+    "title": "Low cost mmWave 60GHz radar sensor for advanced sensing",
+    "url": "https://www.infineon.com/part/BGT60TR13C",
+    "author": "teleforce",
+    "date": "2025-07-28",
+    "points": "104",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44665982"
+  },
+  {
+    "title": "Personal aviation is about to get interesting (2023)",
+    "url": "https://www.elidourado.com/p/personal-aviation",
+    "author": "JumpCrisscross",
+    "date": "2025-07-28",
+    "points": "131",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44697590"
+  },
+  {
+    "title": "Purple Earth hypothesis",
+    "url": "https://en.wikipedia.org/wiki/Purple_Earth_hypothesis",
+    "author": "colinprince",
+    "date": "2025-07-28",
+    "points": "257",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44665644"
+  },
+  {
+    "title": "Resizable structs in Zig",
+    "url": "https://tristanpemble.com/resizable-structs-in-zig/",
+    "author": "rvrb",
+    "date": "2025-07-28",
+    "points": "136",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44697131"
+  },
+  {
+    "title": "Return of wolves to Yellowstone has led to a surge in aspen trees",
+    "url": "https://www.livescience.com/animals/land-mammals/return-of-wolves-to-yellowstone-has-led-to-a-surge-in-aspen-trees-unseen-for-80-years",
+    "author": "geox",
+    "date": "2025-07-28",
+    "points": "128",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44658323"
+  },
+  {
+    "title": "Rust running on every GPU",
+    "url": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
+    "author": "littlestymaar",
+    "date": "2025-07-28",
+    "points": "570",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44692876"
+  },
+  {
+    "title": "Smallest particulate matter air quality sensor for ultra-compact IoT devices",
+    "url": "https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html",
+    "author": "Liftyee",
+    "date": "2025-07-28",
+    "points": "123",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44698733"
+  },
+  {
+    "title": "StackSafe: Taming Recursion in Rust Without Stack Overflow",
+    "url": "https://fast.github.io/blog/stacksafe-taming-recursion-in-rust-without-stack-overflow/",
+    "author": "andylokandy",
+    "date": "2025-07-28",
+    "points": "9",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44669864"
+  },
+  {
+    "title": "Teach Yourself Programming in Ten Years (1998)",
+    "url": "https://norvig.com/21-days.html",
+    "author": "smartmic",
+    "date": "2025-07-28",
+    "points": "122",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44697007"
+  },
+  {
+    "title": "The future is not self-hosted, but self-sovereign",
+    "url": "https://www.robertmao.com/blog/en/the-future-is-not-self-hosted-but-self-sovereign",
+    "author": "robmao",
+    "date": "2025-07-28",
+    "points": "82",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44698899"
+  },
+  {
+    "title": "What went wrong for Yahoo",
+    "url": "https://dfarq.homeip.net/what-went-wrong-for-yahoo/",
+    "author": "giuliomagnifico",
+    "date": "2025-07-28",
+    "points": "209",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44696033"
+  },
+  {
+    "title": "When we get Komooted",
+    "url": "https://bikepacking.com/plog/when-we-get-komooted/",
+    "author": "atakan_gurkan",
+    "date": "2025-07-28",
+    "points": "322",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44699421"
+  }
+]

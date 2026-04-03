@@ -1,0 +1,272 @@
+[
+  {
+    "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
+    "url": "https://www.7-zip.org/history.txt",
+    "author": "doener",
+    "date": "2025-07-09",
+    "points": "108",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44489359"
+  },
+  {
+    "title": "Astro is a return to the fundamentals of the web",
+    "url": "https://websmith.studio/blog/astro-is-a-developers-dream/",
+    "author": "pumbaa",
+    "date": "2025-07-09",
+    "points": "87",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507854"
+  },
+  {
+    "title": "Bootstrapping a side project into a profitable seven-figure business",
+    "url": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
+    "author": "jonkuipers",
+    "date": "2025-07-09",
+    "points": "574",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44495428"
+  },
+  {
+    "title": "Breaking Git with a carriage return and cloning RCE",
+    "url": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
+    "author": "dgl",
+    "date": "2025-07-09",
+    "points": "329",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44502330"
+  },
+  {
+    "title": "Brut: A New Web Framework for Ruby",
+    "url": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
+    "author": "onnnon",
+    "date": "2025-07-09",
+    "points": "187",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44502463"
+  },
+  {
+    "title": "Bug Stories",
+    "url": "https://500mile.email/",
+    "author": "thinkingemote",
+    "date": "2025-07-09",
+    "points": "22",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507200"
+  },
+  {
+    "title": "ESIM Security",
+    "url": "https://security-explorations.com/esim-security.html",
+    "author": "todsacerdoti",
+    "date": "2025-07-09",
+    "points": "40",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507830"
+  },
+  {
+    "title": "Frame of preference A history of Mac settings, 1984–2004",
+    "url": "https://aresluna.org/frame-of-preference/",
+    "author": "K7PJP",
+    "date": "2025-07-09",
+    "points": "122",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44505171"
+  },
+  {
+    "title": "Helm local code execution via a malicious chart",
+    "url": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
+    "author": "irke882",
+    "date": "2025-07-09",
+    "points": "113",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44506696"
+  },
+  {
+    "title": "I'm Building LLM for Satellite Data EarthGPT.app",
+    "url": "https://www.earthgpt.app/",
+    "author": "sabman",
+    "date": "2025-07-09",
+    "points": "58",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44488742"
+  },
+  {
+    "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
+    "url": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
+    "author": "thunderbong",
+    "date": "2025-07-09",
+    "points": "57",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507971"
+  },
+  {
+    "title": "Is the doc bot docs, or not?",
+    "url": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
+    "author": "tobr",
+    "date": "2025-07-09",
+    "points": "73",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507244"
+  },
+  {
+    "title": "Libpostal: C library for parsing/normalizing street addresses around the world",
+    "url": "https://github.com/openvenues/libpostal",
+    "author": "nateb2022",
+    "date": "2025-07-09",
+    "points": "60",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44505610"
+  },
+  {
+    "title": "Million Times Million",
+    "url": "https://susam.net/million-times-million.html",
+    "author": "susam",
+    "date": "2025-07-09",
+    "points": "5",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44508837"
+  },
+  {
+    "title": "Most RESTful APIs aren't really RESTful",
+    "url": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
+    "author": "BerislavLopac",
+    "date": "2025-07-09",
+    "points": "84",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507076"
+  },
+  {
+    "title": "Proposal: GUI-first, text-based mechanical CAD inspired by software engineering",
+    "url": "https://news.ycombinator.com/item?id=44474620",
+    "author": "thinkmachyx",
+    "date": "2025-07-09",
+    "points": "11",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44474620"
+  },
+  {
+    "title": "Radium Music Editor",
+    "url": "http://users.notam02.no/~kjetism/radium/",
+    "author": "ofalkaed",
+    "date": "2025-07-09",
+    "points": "220",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44502298"
+  },
+  {
+    "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
+    "url": "https://github.com/CyberTimon/RapidRAW",
+    "author": "l8rlump",
+    "date": "2025-07-09",
+    "points": "181",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44505876"
+  },
+  {
+    "title": "Ruby 3.4 frozen string literals: What Rails developers need to know",
+    "url": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
+    "author": "thomas_witt",
+    "date": "2025-07-09",
+    "points": "50",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44479302"
+  },
+  {
+    "title": "SUSE launches new European digital sovereignty service to meet surging demand",
+    "url": "https://www.zdnet.com/article/suse-launches-new-european-digital-sovereignty-support-service-to-meet-surging-demand/",
+    "author": "saubeidl",
+    "date": "2025-07-09",
+    "points": "67",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507166"
+  },
+  {
+    "title": "Show HN: I rewrote an outdated React Native map clustering library",
+    "url": "https://github.com/suwi-lanji/rn-maps-clustering",
+    "author": "hadat",
+    "date": "2025-07-09",
+    "points": "22",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507084"
+  },
+  {
+    "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
+    "url": "https://huggingface.co/blog/smollm3",
+    "author": "kashifr",
+    "date": "2025-07-09",
+    "points": "312",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44501413"
+  },
+  {
+    "title": "Springer Nature book on machine learning is full of made-up citations",
+    "url": "https://retractionwatch.com/2025/06/30/springer-nature-book-on-machine-learning-is-full-of-made-up-citations/",
+    "author": "ArmageddonIt",
+    "date": "2025-07-09",
+    "points": "79",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44507061"
+  },
+  {
+    "title": "Supabase MCP can leak your entire SQL database",
+    "url": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
+    "author": "rexpository",
+    "date": "2025-07-09",
+    "points": "740",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44502318"
+  },
+  {
+    "title": "The Capacity, Performance, and Reliability of MicroSD Cards",
+    "url": "https://www.bahjeez.com/the-great-microsd-card-survey/",
+    "author": "userbinator",
+    "date": "2025-07-09",
+    "points": "35",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44477870"
+  },
+  {
+    "title": "US Court nullifies FTC requirement for click-to-cancel",
+    "url": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
+    "author": "gausswho",
+    "date": "2025-07-09",
+    "points": "158",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44504699"
+  },
+  {
+    "title": "Where can I see Hokusai's Great Wave today?",
+    "url": "https://greatwavetoday.com/",
+    "author": "colinprince",
+    "date": "2025-07-09",
+    "points": "73",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44506117"
+  },
+  {
+    "title": "Why I don't ride the AI Hype Train",
+    "url": "https://mertbulan.com/2025/06/26/why-i-dont-ride-the-ai-hype-train/",
+    "author": "mertbio",
+    "date": "2025-07-09",
+    "points": "33",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44508699"
+  },
+  {
+    "title": "Zorin OS",
+    "url": "https://zorin.com/os/",
+    "author": "oldfuture",
+    "date": "2025-07-09",
+    "points": "101",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44501034"
+  },
+  {
+    "title": "iPod Linux (2017)",
+    "url": "http://www.ipodlinux.org/",
+    "author": "nickysielicki",
+    "date": "2025-07-09",
+    "points": "52",
+    "comments": "0",
+    "discussion_url": "https://news.ycombinator.com/item?id=44505816"
+  }
+]
