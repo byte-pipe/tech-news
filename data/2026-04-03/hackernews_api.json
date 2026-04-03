@@ -1,62 +1,45 @@
 [
   {
-    "title": "'Backrooms' and the Rise of the Institutional Gothic",
-    "url": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
-    "author": "anarbadalov",
-    "date": "2026-04-02",
-    "score": 199,
-    "comments": 95,
-    "id": 47614100,
-    "discussion_url": "https://news.ycombinator.com/item?id=47614100",
-    "description": "'Backrooms' and the Rise of the Institutional Gothic",
+    "title": "A Recipe for Steganogravy",
+    "url": "https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html",
+    "author": "tbrockman",
+    "date": "2026-03-29",
+    "score": 103,
+    "comments": 27,
+    "id": 47560967,
+    "discussion_url": "https://news.ycombinator.com/item?id=47560967",
+    "description": "A Recipe for Steganogravy",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828384"
+    "fetched_at": "2026-04-03T19:18:53.115001"
   },
   {
-    "title": "Artemis II Launch Day Updates",
-    "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-    "author": "apitman",
-    "date": "2026-04-01",
-    "score": 1080,
-    "comments": 936,
-    "id": 47603657,
-    "discussion_url": "https://news.ycombinator.com/item?id=47603657",
-    "description": "Artemis II Launch Day Updates",
+    "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+    "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+    "author": "greenstevester",
+    "date": "2026-04-03",
+    "score": 244,
+    "comments": 101,
+    "id": 47624731,
+    "discussion_url": "https://news.ycombinator.com/item?id=47624731",
+    "description": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828418"
-  },
-  {
-    "title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
-    "url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
-    "author": "speckx",
-    "date": "2026-04-02",
-    "score": 351,
-    "comments": 146,
-    "id": 47615449,
-    "discussion_url": "https://news.ycombinator.com/item?id=47615449",
-    "description": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828437"
+    "fetched_at": "2026-04-03T19:18:53.115083"
   },
   {
     "title": "Artemis II's toilet is a moon mission milestone",
     "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
     "author": "1659447091",
     "date": "2026-04-02",
-    "score": 258,
-    "comments": 110,
+    "score": 315,
+    "comments": 155,
     "id": 47609356,
     "discussion_url": "https://news.ycombinator.com/item?id=47609356",
     "description": "Artemis II's toilet is a moon mission milestone",
@@ -65,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828303"
+    "fetched_at": "2026-04-03T19:18:53.115075"
   },
   {
     "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
     "url": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
     "author": "mooreds",
     "date": "2026-04-02",
-    "score": 434,
-    "comments": 326,
+    "score": 466,
+    "comments": 354,
     "id": 47615490,
     "discussion_url": "https://news.ycombinator.com/item?id=47615490",
     "description": "Artemis computer running two instances of MS outlook; they can't figure out why",
@@ -82,32 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828350"
-  },
-  {
-    "title": "Bringing Clojure programming to Enterprise (2021)",
-    "url": "https://blogit.michelin.io/clojure-programming/",
-    "author": "smartmic",
-    "date": "2026-04-02",
-    "score": 193,
-    "comments": 106,
-    "id": 47611481,
-    "discussion_url": "https://news.ycombinator.com/item?id=47611481",
-    "description": "Bringing Clojure programming to Enterprise (2021)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828414"
+    "fetched_at": "2026-04-03T19:18:53.115180"
   },
   {
     "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
     "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
     "author": "gaigalas",
     "date": "2026-04-01",
-    "score": 136,
-    "comments": 36,
+    "score": 184,
+    "comments": 58,
     "id": 47598413,
     "discussion_url": "https://news.ycombinator.com/item?id=47598413",
     "description": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
@@ -116,15 +82,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828329"
+    "fetched_at": "2026-04-03T19:18:53.115126"
+  },
+  {
+    "title": "Critics say EU risks ceding control of its tech laws under U.S. pressure",
+    "url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
+    "author": "nickslaughter02",
+    "date": "2026-04-03",
+    "score": 195,
+    "comments": 123,
+    "id": 47625244,
+    "discussion_url": "https://news.ycombinator.com/item?id=47625244",
+    "description": "Critics say EU risks ceding control of its tech laws under U.S. pressure",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-03T19:18:53.115103"
   },
   {
     "title": "Cursor 3",
     "url": "https://cursor.com/blog/cursor-3",
     "author": "adamfeldman",
     "date": "2026-04-02",
-    "score": 437,
-    "comments": 334,
+    "score": 517,
+    "comments": 385,
     "id": 47618084,
     "discussion_url": "https://news.ycombinator.com/item?id=47618084",
     "description": "Cursor 3",
@@ -133,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828295"
+    "fetched_at": "2026-04-03T19:18:53.115063"
   },
   {
     "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
     "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
     "author": "axelriet",
     "date": "2026-04-02",
-    "score": 830,
-    "comments": 349,
+    "score": 1129,
+    "comments": 546,
     "id": 47616242,
     "discussion_url": "https://news.ycombinator.com/item?id=47616242",
     "description": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
@@ -150,32 +133,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828266"
+    "fetched_at": "2026-04-03T19:18:53.115115"
   },
   {
-    "title": "Delve allegedly forked an open-source tool and sold it as its own",
-    "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-    "author": "nickvec",
-    "date": "2026-04-02",
-    "score": 283,
-    "comments": 145,
-    "id": 47615434,
-    "discussion_url": "https://news.ycombinator.com/item?id=47615434",
-    "description": "Delve allegedly forked an open-source tool and sold it as its own",
+    "title": "ESP32-S31: Dual-Core RISC-V SoC with Wi-Fi 6, Bluetooth 5.4, and Advanced HMI",
+    "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
+    "author": "topspin",
+    "date": "2026-03-29",
+    "score": 168,
+    "comments": 96,
+    "id": 47561678,
+    "discussion_url": "https://news.ycombinator.com/item?id=47561678",
+    "description": "ESP32-S31: Dual-Core RISC-V SoC with Wi-Fi 6, Bluetooth 5.4, and Advanced HMI",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828444"
+    "fetched_at": "2026-04-03T19:18:53.115079"
+  },
+  {
+    "title": "F-15E jet shot down over Iran",
+    "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+    "author": "tjwds",
+    "date": "2026-04-03",
+    "score": 89,
+    "comments": 215,
+    "id": 47628326,
+    "discussion_url": "https://news.ycombinator.com/item?id=47628326",
+    "description": "F-15E jet shot down over Iran",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-03T19:18:53.115087"
   },
   {
     "title": "George Goble has died",
     "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
     "author": "finaard",
     "date": "2026-04-02",
-    "score": 151,
-    "comments": 31,
+    "score": 168,
+    "comments": 38,
     "id": 47618176,
     "discussion_url": "https://news.ycombinator.com/item?id=47618176",
     "description": "George Goble has died",
@@ -184,32 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828241"
-  },
-  {
-    "title": "Gone (Almost) Phishin'",
-    "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-    "author": "luu",
-    "date": "2026-03-31",
-    "score": 176,
-    "comments": 83,
-    "id": 47582987,
-    "discussion_url": "https://news.ycombinator.com/item?id=47582987",
-    "description": "Gone (Almost) Phishin'",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828395"
+    "fetched_at": "2026-04-03T19:18:53.115150"
   },
   {
     "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
     "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
     "author": "sedev",
     "date": "2026-04-02",
-    "score": 269,
-    "comments": 115,
+    "score": 338,
+    "comments": 181,
     "id": 47617415,
     "discussion_url": "https://news.ycombinator.com/item?id=47617415",
     "description": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
@@ -218,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828287"
+    "fetched_at": "2026-04-03T19:18:53.115067"
   },
   {
     "title": "Google releases Gemma 4 open models",
     "url": "https://deepmind.google/models/gemma/gemma-4/",
     "author": "jeffmcjunkin",
     "date": "2026-04-02",
-    "score": 1520,
-    "comments": 418,
+    "score": 1693,
+    "comments": 448,
     "id": 47616361,
     "discussion_url": "https://news.ycombinator.com/item?id=47616361",
     "description": "Google releases Gemma 4 open models",
@@ -235,32 +218,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828284"
+    "fetched_at": "2026-04-03T19:18:53.115051"
   },
   {
-    "title": "Inside Nepal's Fake Rescue Racket",
-    "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-    "author": "lode",
-    "date": "2026-04-02",
-    "score": 292,
-    "comments": 125,
-    "id": 47613078,
-    "discussion_url": "https://news.ycombinator.com/item?id=47613078",
-    "description": "Inside Nepal's Fake Rescue Racket",
+    "title": "If you're running OpenClaw, you probably got hacked in the last week",
+    "url": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/",
+    "author": "kykeonaut",
+    "date": "2026-04-03",
+    "score": 173,
+    "comments": 106,
+    "id": 47628608,
+    "discussion_url": "https://news.ycombinator.com/item?id=47628608",
+    "description": "If you're running OpenClaw, you probably got hacked in the last week",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828246"
+    "fetched_at": "2026-04-03T19:18:53.115058"
   },
   {
     "title": "JSON Canvas Spec (2024)",
     "url": "https://jsoncanvas.org/spec/1.0/",
     "author": "tobr",
     "date": "2026-03-30",
-    "score": 114,
-    "comments": 32,
+    "score": 127,
+    "comments": 37,
     "id": 47572288,
     "discussion_url": "https://news.ycombinator.com/item?id=47572288",
     "description": "JSON Canvas Spec (2024)",
@@ -269,15 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828260"
+    "fetched_at": "2026-04-03T19:18:53.115157"
   },
   {
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "url": "https://lemonade-server.ai",
     "author": "AbuAssar",
     "date": "2026-04-02",
-    "score": 522,
-    "comments": 107,
+    "score": 541,
+    "comments": 111,
     "id": 47612724,
     "discussion_url": "https://news.ycombinator.com/item?id=47612724",
     "description": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
@@ -286,49 +269,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828377"
+    "fetched_at": "2026-04-03T19:18:53.115172"
   },
   {
-    "title": "LinkedIn is searching your browser extensions",
-    "url": "https://browsergate.eu/",
-    "author": "digitalWestie",
-    "date": "2026-04-02",
-    "score": 1763,
-    "comments": 718,
-    "id": 47613981,
-    "discussion_url": "https://news.ycombinator.com/item?id=47613981",
-    "description": "LinkedIn is searching your browser extensions",
+    "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
+    "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
+    "author": "chrisjj",
+    "date": "2026-04-03",
+    "score": 274,
+    "comments": 120,
+    "id": 47624736,
+    "discussion_url": "https://news.ycombinator.com/item?id=47624736",
+    "description": "NHS staff refusing to use FDP over Palantir ethical concerns",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828231"
+    "fetched_at": "2026-04-03T19:18:53.115010"
   },
   {
-    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
-    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "author": "jackson-mcd",
-    "date": "2026-04-01",
-    "score": 144,
-    "comments": 44,
-    "id": 47596739,
-    "discussion_url": "https://news.ycombinator.com/item?id=47596739",
-    "description": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+    "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+    "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+    "author": "01-_-",
+    "date": "2026-04-03",
+    "score": 121,
+    "comments": 8,
+    "id": 47624317,
+    "discussion_url": "https://news.ycombinator.com/item?id=47624317",
+    "description": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828403"
+    "fetched_at": "2026-04-03T19:18:53.115176"
   },
   {
     "title": "OpenAI Acquires TBPN",
     "url": "https://openai.com/index/openai-acquires-tbpn/",
     "author": "surprisetalk",
     "date": "2026-04-02",
-    "score": 214,
-    "comments": 173,
+    "score": 231,
+    "comments": 188,
     "id": 47617376,
     "discussion_url": "https://news.ycombinator.com/item?id=47617376",
     "description": "OpenAI Acquires TBPN",
@@ -337,100 +320,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828280"
+    "fetched_at": "2026-04-03T19:18:53.115146"
   },
   {
-    "title": "Proton Meet Isn't What They Told You It Was",
-    "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
-    "author": "bundie",
+    "title": "SSH certificates: the better SSH experience",
+    "url": "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/",
+    "author": "jandeboevrie",
     "date": "2026-04-03",
-    "score": 112,
-    "comments": 95,
-    "id": 47624558,
-    "discussion_url": "https://news.ycombinator.com/item?id=47624558",
-    "description": "Proton Meet Isn't What They Told You It Was",
+    "score": 151,
+    "comments": 66,
+    "id": 47624811,
+    "discussion_url": "https://news.ycombinator.com/item?id=47624811",
+    "description": "SSH certificates: the better SSH experience",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828308"
+    "fetched_at": "2026-04-03T19:18:53.115071"
   },
   {
-    "title": "Qwen3.6-Plus: Towards real world agents",
-    "url": "https://qwen.ai/blog?id=qwen3.6",
-    "author": "pretext",
-    "date": "2026-04-02",
-    "score": 540,
-    "comments": 186,
-    "id": 47615002,
-    "discussion_url": "https://news.ycombinator.com/item?id=47615002",
-    "description": "Qwen3.6-Plus: Towards real world agents",
+    "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+    "url": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
+    "author": "chalmovsky",
+    "date": "2026-03-29",
+    "score": 296,
+    "comments": 154,
+    "id": 47567222,
+    "discussion_url": "https://news.ycombinator.com/item?id=47567222",
+    "description": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828291"
+    "fetched_at": "2026-04-03T19:18:53.114993"
   },
   {
-    "title": "Renewables reached nearly 50% of global electricity capacity last year",
-    "url": "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/",
-    "author": "Growtika",
-    "date": "2026-04-02",
-    "score": 274,
-    "comments": 132,
-    "id": 47615756,
-    "discussion_url": "https://news.ycombinator.com/item?id=47615756",
-    "description": "Renewables reached nearly 50% of global electricity capacity last year",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828425"
-  },
-  {
-    "title": "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
-    "url": "https://only-eu.eu/en/",
-    "author": "madman_dev",
+    "title": "Show HN: Apfel – The free AI already on your Mac",
+    "url": "https://apfel.franzai.com",
+    "author": "franze",
     "date": "2026-04-03",
-    "score": 171,
-    "comments": 52,
-    "id": 47624741,
-    "discussion_url": "https://news.ycombinator.com/item?id=47624741",
-    "description": "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
+    "score": 567,
+    "comments": 130,
+    "id": 47624645,
+    "discussion_url": "https://news.ycombinator.com/item?id=47624645",
+    "description": "Show HN: Apfel – The free AI already on your Mac",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828225"
+    "fetched_at": "2026-04-03T19:18:53.114876"
   },
   {
-    "title": "Show HN: Made a little Artemis II tracker",
-    "url": "https://artemis-ii-tracker.com/",
-    "author": "codingmoh",
-    "date": "2026-04-02",
-    "score": 115,
-    "comments": 41,
-    "id": 47621438,
-    "discussion_url": "https://news.ycombinator.com/item?id=47621438",
-    "description": "Show HN: Made a little Artemis II tracker",
+    "title": "Show HN: I built a frontpage for personal blogs",
+    "url": "https://text.blogosphere.app/",
+    "author": "ramkarthikk",
+    "date": "2026-04-03",
+    "score": 495,
+    "comments": 140,
+    "id": 47625952,
+    "discussion_url": "https://news.ycombinator.com/item?id=47625952",
+    "description": "Show HN: I built a frontpage for personal blogs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828337"
+    "fetched_at": "2026-04-03T19:18:53.114901"
   },
   {
     "title": "Significant progress made on Xbox 360 recompilation",
     "url": "https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/",
     "author": "tetrisgm",
     "date": "2026-03-29",
-    "score": 126,
-    "comments": 25,
+    "score": 148,
+    "comments": 31,
     "id": 47562762,
     "discussion_url": "https://news.ycombinator.com/item?id=47562762",
     "description": "Significant progress made on Xbox 360 recompilation",
@@ -439,66 +405,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828357"
+    "fetched_at": "2026-04-03T19:18:53.115130"
   },
   {
-    "title": "Significant raise of reports",
-    "url": "https://lwn.net/Articles/1065620/",
-    "author": "stratos123",
-    "date": "2026-04-02",
-    "score": 295,
-    "comments": 150,
-    "id": 47611921,
-    "discussion_url": "https://news.ycombinator.com/item?id=47611921",
-    "description": "Significant raise of reports",
+    "title": "Solar and batteries can power the world",
+    "url": "https://nworbmot.org/blog/solar-battery-world.html",
+    "author": "edent",
+    "date": "2026-04-03",
+    "score": 236,
+    "comments": 324,
+    "id": 47627061,
+    "discussion_url": "https://news.ycombinator.com/item?id=47627061",
+    "description": "Solar and batteries can power the world",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828459"
+    "fetched_at": "2026-04-03T19:18:53.115047"
   },
   {
-    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
-    "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-    "author": "hkmaxpro",
-    "date": "2026-04-02",
-    "score": 743,
-    "comments": 343,
-    "id": 47609564,
-    "discussion_url": "https://news.ycombinator.com/item?id=47609564",
-    "description": "Steam on Linux Use Skyrocketed Above 5% in March",
+    "title": "TDF ejects its core developers",
+    "url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
+    "author": "janvdberg",
+    "date": "2026-04-03",
+    "score": 131,
+    "comments": 87,
+    "id": 47625639,
+    "discussion_url": "https://news.ycombinator.com/item?id=47625639",
+    "description": "TDF ejects its core developers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828433"
-  },
-  {
-    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "author": "novaRom",
-    "date": "2026-04-02",
-    "score": 859,
-    "comments": 409,
-    "id": 47612601,
-    "discussion_url": "https://news.ycombinator.com/item?id=47612601",
-    "description": "Sweden goes back to basics, swapping screens for books in the classroom",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828373"
+    "fetched_at": "2026-04-03T19:18:53.114882"
   },
   {
     "title": "Tailscale's new macOS home",
     "url": "https://tailscale.com/blog/macos-notch-escape",
     "author": "tosh",
     "date": "2026-04-02",
-    "score": 473,
-    "comments": 235,
+    "score": 539,
+    "comments": 288,
     "id": 47618189,
     "discussion_url": "https://news.ycombinator.com/item?id=47618189",
     "description": "Tailscale's new macOS home",
@@ -507,6 +456,57 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-03T11:18:58.828250"
+    "fetched_at": "2026-04-03T19:18:53.115035"
+  },
+  {
+    "title": "The True Shape of Io's Steeple Mountain",
+    "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+    "author": "carlosjobim",
+    "date": "2026-03-29",
+    "score": 101,
+    "comments": 2,
+    "id": 47562455,
+    "discussion_url": "https://news.ycombinator.com/item?id=47562455",
+    "description": "The True Shape of Io's Steeple Mountain",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-03T19:18:53.115099"
+  },
+  {
+    "title": "What Category Theory Teaches Us About DataFrames",
+    "url": "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/",
+    "author": "mchav",
+    "date": "2026-03-29",
+    "score": 153,
+    "comments": 48,
+    "id": 47561426,
+    "discussion_url": "https://news.ycombinator.com/item?id=47561426",
+    "description": "What Category Theory Teaches Us About DataFrames",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-03T19:18:53.115091"
+  },
+  {
+    "title": "iNaturalist",
+    "url": "https://www.inaturalist.org/",
+    "author": "bookofjoe",
+    "date": "2026-04-03",
+    "score": 150,
+    "comments": 45,
+    "id": 47629433,
+    "discussion_url": "https://news.ycombinator.com/item?id=47629433",
+    "description": "iNaturalist",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-03T19:18:53.114865"
   }
 ]
