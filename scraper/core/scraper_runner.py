@@ -9,6 +9,7 @@ from datetime import datetime
 from scraper.core.config import get_config
 from scraper.core.data_organizer import DataOrganizer
 from scraper.utils.content_fetcher import ContentFetcher
+from scraper.utils.link_tracker import get_link_tracker
 from scraper.utils.structured_logger import StructuredLogger, get_metrics_collector
 from scraper.utils.url_registry import get_url_registry
 
@@ -100,6 +101,14 @@ def run_scraper(scraper_class, output_format, dry_run=False, fetch_content=False
 
                 if items_count == 0:
                     logger.warning(f"Scraper {scraper.__class__.__name__} returned 0 items")
+
+                # Track links in CSV
+                if results:
+                    try:
+                        tracker = get_link_tracker(str(config.project_root))
+                        tracker.track_items(results, scraper.site_name)
+                    except Exception as e:
+                        logger.warning(f"Link tracking failed: {e}")
 
                 # Fetch content if requested
                 if fetch_content and results:

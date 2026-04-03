@@ -4,6 +4,7 @@ Market Intelligence Scraper - Single entry point for all commands.
 """
 
 import logging
+import os
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -806,6 +807,39 @@ def health(verbose, strict, json):
         sys.exit(1)
     elif overall_status == HealthStatus.UNHEALTHY:
         sys.exit(1)
+
+
+@cli.command()
+@click.option("--quiet", "-q", is_flag=True, help="Suppress non-essential output")
+def backfill_links(quiet):
+    """Populate links.csv from existing JSON data files and url_registry."""
+    log_level = logging.ERROR if quiet else logging.INFO
+    logging.basicConfig(level=log_level, format="%(message)s", force=True)
+
+    from scraper.utils.link_tracker import LinkTracker
+
+    tracker = LinkTracker()
+
+    if not quiet:
+        console.print("[cyan]Backfilling links.csv from JSON data files...[/cyan]")
+    added = tracker.backfill_from_json_files()
+    if not quiet:
+        console.print(f"[green]Added {added} links from JSON files[/green]")
+
+    if not quiet:
+        console.print("[cyan]Enriching seen_count from url_registry.json...[/cyan]")
+    updated = tracker.backfill_from_registry()
+    if not quiet:
+        console.print(f"[green]Updated seen_count for {updated} links[/green]")
+
+    csv_path = tracker.csv_path
+    if os.path.exists(csv_path):
+        import csv as csv_mod
+
+        with open(csv_path, "r", encoding="utf-8") as f:
+            total = sum(1 for _ in csv_mod.reader(f)) - 1
+        if not quiet:
+            console.print(f"\n[bold green]links.csv now has {total} total rows[/bold green]")
 
 
 def main():
