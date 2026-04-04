@@ -260,6 +260,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Claw Code (GitHub Repo)",
+    "url": "https://github.com/instructkr/claw-code",
+    "description": "Claw Code (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-04",
+    "site_name": "tldr"
+  },
+  {
     "title": "ClawKeeper Agent Security Framework (GitHub Repo)",
     "url": "https://github.com/SafeAI-Lab-X/ClawKeeper",
     "description": "ClawKeeper Agent Security Framework (GitHub Repo)",
@@ -273,16 +283,6 @@
     "title": "Cleveland's Open Data Overhaul: From Sticky Notes to Public Dashboards (5 minute read)",
     "url": "https://www.informationweek.com/data-management/cleveland-s-open-data-overhaul-from-sticky-notes-to-public-dashboards",
     "description": "Cleveland's Open Data Overhaul: From Sticky Notes to Public Dashboards (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Codex plugin for Claude Code (GitHub Repo)",
-    "url": "https://github.com/openai/codex-plugin-cc",
-    "description": "Codex plugin for Claude Code (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -403,16 +403,6 @@
     "title": "Engineering the Memory Layer For An AI Agent To Navigate Large-scale Event Data (12 minute read)",
     "url": "https://mlops.community/engineering-the-memory-layer-for-an-ai-agent-to-navigate-large-scale-event-data/",
     "description": "Engineering the Memory Layer For An AI Agent To Navigate Large-scale Event Data (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Enterprises Flying Blind on AI Activity (4 minute read)",
-    "url": "https://www.bankinfosecurity.com/racing-to-adopt-ai-puts-enterprise-security-at-risk-a-31198",
-    "description": "Enterprises Flying Blind on AI Activity (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1343,6 +1333,16 @@
     "title": "Your website still matters. Here's what to prioritize now. (11 minute read)",
     "url": "https://newsletter.mkt1.co/p/website-examples-2026",
     "description": "Your website still matters. Here's what to prioritize now. (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Zerobox (GitHub Repo)",
+    "url": "https://github.com/afshinm/zerobox",
+    "description": "Zerobox (GitHub Repo)",
     "tags": [
       "tldr"
     ],
