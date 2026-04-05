@@ -30,39 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Coding Agents, Deconstructed (32 minute read)",
-    "url": "https://blog.apiad.net/p/the-anatomy-of-ai-coding-agents",
-    "description": "AI Coding Agents, Deconstructed (32 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI Data Can Slip Through DNS (3 minute read)",
-    "url": "https://www.theregister.com/2026/03/30/openai_chatgpt_dns_data_snuggling_flaw/",
-    "description": "AI Data Can Slip Through DNS (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
     "title": "AI Image Tools Now in FigJam, Slides, and Buzz (1 minute read)",
     "url": "https://www.figma.com/release-notes/?title=ai-image-tools-now-in-figjam-slides-and-buzz&amp%3Butm_source=tldrdesign",
     "description": "AI Image Tools Now in FigJam, Slides, and Buzz (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI Infrastructure Roadmap: Five frontiers for 2026 (17 minute read)",
-    "url": "https://nextbigteng.substack.com/p/ai-infrastructure-roadmap-five-frontiers-for-2026",
-    "description": "AI Infrastructure Roadmap: Five frontiers for 2026 (17 minute read)",
     "tags": [
       "tldr"
     ],
@@ -93,16 +63,6 @@
     "title": "Adobe Firefly's custom AI models \"preserve the unique soul of your work\" (6 minute read)",
     "url": "https://www.creativebloq.com/design/graphic-design-software/adobe-fireflys-custom-ai-models-preserve-the-unique-soul-of-your-work",
     "description": "Adobe Firefly's custom AI models \"preserve the unique soul of your work\" (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Adobe Illustrator now lets you rotate 2D vectors in 3D space (1 minute read)",
-    "url": "https://9to5mac.com/2026/03/30/adobe-illustrator-now-lets-you-rotate-2d-vectors-in-3d-space/",
-    "description": "Adobe Illustrator now lets you rotate 2D vectors in 3D space (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -163,6 +123,16 @@
     "title": "Apple celebrates its 50th anniversary with special animated homepage (1 minute read)",
     "url": "https://9to5mac.com/2026/04/01/apple-50-birthday-homepage-celebration/",
     "description": "Apple celebrates its 50th anniversary with special animated homepage (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Artemis II, NASA's boldest mission in generations, launches crew to the Moon (5 minute read)",
+    "url": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
+    "description": "Artemis II, NASA's boldest mission in generations, launches crew to the Moon (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -270,29 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "ClawKeeper Agent Security Framework (GitHub Repo)",
-    "url": "https://github.com/SafeAI-Lab-X/ClawKeeper",
-    "description": "ClawKeeper Agent Security Framework (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
     "title": "Cleveland's Open Data Overhaul: From Sticky Notes to Public Dashboards (5 minute read)",
     "url": "https://www.informationweek.com/data-management/cleveland-s-open-data-overhaul-from-sticky-notes-to-public-dashboards",
     "description": "Cleveland's Open Data Overhaul: From Sticky Notes to Public Dashboards (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Codex plugin for Claude Code (GitHub Repo)",
-    "url": "https://github.com/openai/codex-plugin-cc",
-    "description": "Codex plugin for Claude Code (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -390,16 +340,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Email nurture sequence framework (4 minute read)",
-    "url": "https://www.linkedin.com/posts/jacalynbeales_steal-my-content-driven-email-sequence-play-ugcPost-7442640430296350720-_kC8",
-    "description": "Email nurture sequence framework (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
     "title": "Encoding Team Standards (8 minute read)",
     "url": "https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html",
     "description": "Encoding Team Standards (8 minute read)",
@@ -420,9 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Entire Claude Code CLI source code leaks thanks to exposed map file (2 minute read)",
-    "url": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
-    "description": "Entire Claude Code CLI source code leaks thanks to exposed map file (2 minute read)",
+    "title": "Enterprises Flying Blind on AI Activity (4 minute read)",
+    "url": "https://www.bankinfosecurity.com/racing-to-adopt-ai-puts-enterprise-security-at-risk-a-31198",
+    "description": "Enterprises Flying Blind on AI Activity (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -430,9 +370,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Epic Character Designs and Traditional Illustrations that Prove Hand-Painted Art is Timeless (1 minute read)",
-    "url": "https://designyoutrust.com/2026/03/epic-character-designs-and-traditional-illustrations-that-prove-hand-painted-art-is-timeless/",
-    "description": "Epic Character Designs and Traditional Illustrations that Prove Hand-Painted Art is Timeless (1 minute read)",
+    "title": "Entire Claude Code CLI source code leaks thanks to exposed map file (2 minute read)",
+    "url": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
+    "description": "Entire Claude Code CLI source code leaks thanks to exposed map file (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -490,16 +430,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Fun illustrations track Apple's top products through the last 5 decades (5 minute read)",
-    "url": "https://www.creativebloq.com/art/illustration/fun-illustrations-track-apples-top-products-through-the-last-5-decades",
-    "description": "Fun illustrations track Apple's top products through the last 5 decades (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
     "title": "Gemma 4 Open Models (5 minute read)",
     "url": "https://deepmind.google/models/gemma/gemma-4/",
     "description": "Gemma 4 Open Models (5 minute read)",
@@ -550,16 +480,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Hackers Now Exploit F5 BIG-IP Flaw in Attacks (2 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
-    "description": "Hackers Now Exploit F5 BIG-IP Flaw in Attacks (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
     "title": "Harness engineering for coding agent users (11 minute read)",
     "url": "https://martinfowler.com/articles/harness-engineering.html",
     "description": "Harness engineering for coding agent users (11 minute read)",
@@ -600,16 +520,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "How Bitcoin, Ethereum, and Solana Are Preparing for Quantum (4 minute read)",
-    "url": "https://www.coindesk.com/tech/2026/03/28/here-s-how-bitcoin-ethereum-and-other-networks-are-preparing-for-the-looming-quantum-threat",
-    "description": "How Bitcoin, Ethereum, and Solana Are Preparing for Quantum (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
     "title": "How Do Journalist Relationships Impact Email Performance? (7 minute read)",
     "url": "https://www.buzzstream.com/blog/journalist-relationship-study/",
     "description": "How Do Journalist Relationships Impact Email Performance? (7 minute read)",
@@ -633,16 +543,6 @@
     "title": "How Tracksmith Built a Cult Brand for the Amateur Runner (3 minute read)",
     "url": "https://www.marketergems.com/p/tracksmith-marketing-strategy-amateur-runner-brand",
     "description": "How Tracksmith Built a Cult Brand for the Amateur Runner (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How VS Code Builds with AI (10 minute read)",
-    "url": "https://code.visualstudio.com/blogs/2026/03/13/how-VS-Code-Builds-with-AI",
-    "description": "How VS Code Builds with AI (10 minute read)",
     "tags": [
       "tldr"
     ],
@@ -680,16 +580,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "I gave an AI SSH access to my production infrastructure (12 minute read)",
-    "url": "https://faridsaid.com/blog/ia-copilote-infrastructure-it.html",
-    "description": "I gave an AI SSH access to my production infrastructure (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
     "title": "I helped break online shopping. Not on purpose. (6 minute read)",
     "url": "https://somedesigners.substack.com/p/we-hit-every-metric-we-missed-everything",
     "description": "I helped break online shopping. Not on purpose. (6 minute read)",
@@ -703,16 +593,6 @@
     "title": "Inside the Claude Code source (9 minute read)",
     "url": "https://gist.github.com/Haseeb-Qureshi/d0dc36844c19d26303ce09b42e7188c1",
     "description": "Inside the Claude Code source (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Inside the stealthy startup that pitched brainless human clones (29 minute read)",
-    "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
-    "description": "Inside the stealthy startup that pitched brainless human clones (29 minute read)",
     "tags": [
       "tldr"
     ],
@@ -910,16 +790,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Plentiful, high-paying jobs in the age of AI (23 minute read)",
-    "url": "https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the-ff9",
-    "description": "Plentiful, high-paying jobs in the age of AI (23 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
     "title": "Proton Encrypted Meet Challenges Enterprise Video Stack (3 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
     "description": "Proton Encrypted Meet Challenges Enterprise Video Stack (3 minute read)",
@@ -1010,29 +880,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Security Analysis of the Official White House iOS App (8 minute read)",
-    "url": "https://www.atomic.computer/blog/white-house-app-security-analysis/",
-    "description": "Security Analysis of the Official White House iOS App (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
     "title": "Services: The New Software (10 minute read)",
     "url": "https://sequoiacap.com/article/services-the-new-software/",
     "description": "Services: The New Software (10 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Skills Gap Is Now a Strategic Risk (3 minute read)",
-    "url": "https://www.ciodive.com/news/ntt-data-cloud-readiness-AI/816146/",
-    "description": "Skills Gap Is Now a Strategic Risk (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1050,29 +900,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Start naming your useEffect functions, you will thank me later (12 minute read)",
-    "url": "https://neciudan.dev/name-your-effects",
-    "description": "Start naming your useEffect functions, you will thank me later (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
     "title": "Straight lines on graphs (6 minute read)",
     "url": "https://joelbkr.substack.com/p/straight-lines-on-graphs",
     "description": "Straight lines on graphs (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The 12th of Never (6 minute read)",
-    "url": "https://runthebusiness.substack.com/p/the-12th-of-never",
-    "description": "The 12th of Never (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1093,16 +923,6 @@
     "title": "The Beginning of Programming as We'll Know It (7 minute read)",
     "url": "https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/",
     "description": "The Beginning of Programming as We'll Know It (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The CXO Newsletter Playbook: Why 95% Fail (And the 5-Prompt Strategy System) (20 minute read)",
-    "url": "https://startupgtm.substack.com/p/how-to-build-a-newsletter-that-cxos",
-    "description": "The CXO Newsletter Playbook: Why 95% Fail (And the 5-Prompt Strategy System) (20 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1163,16 +983,6 @@
     "title": "The Revenge of the Data Scientist (9 minute read)",
     "url": "https://hamel.dev/blog/posts/revenge/",
     "description": "The Revenge of the Data Scientist (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-05",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The case for being unpromptable (3 minute read)",
-    "url": "https://blog.davidkaye.co/p/the-case-for-being-unpromptable",
-    "description": "The case for being unpromptable (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1300,9 +1110,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why too many micro-conversions hurt PPC performance (8 minute read)",
-    "url": "https://searchengineland.com/micro-conversions-hurt-ppc-performance-473139",
-    "description": "Why too many micro-conversions hurt PPC performance (8 minute read)",
+    "title": "Why a design agency took the colours out of the Brazilian flag (5 minute read)",
+    "url": "https://www.creativebloq.com/design/graphic-design/why-a-design-agency-took-the-colours-out-of-the-brazilian-flag",
+    "description": "Why a design agency took the colours out of the Brazilian flag (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1310,9 +1120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Working on products people hate (4 minute read)",
-    "url": "https://www.seangoedecke.com/working-on-products-people-hate/",
-    "description": "Working on products people hate (4 minute read)",
+    "title": "Why too many micro-conversions hurt PPC performance (8 minute read)",
+    "url": "https://searchengineland.com/micro-conversions-hurt-ppc-performance-473139",
+    "description": "Why too many micro-conversions hurt PPC performance (8 minute read)",
     "tags": [
       "tldr"
     ],
