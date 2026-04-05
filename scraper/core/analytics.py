@@ -7,19 +7,17 @@ Produces PNG charts and displays them in the terminal via chafa.
 import os
 import subprocess
 import tempfile
-import threading
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from pathlib import Path
 from typing import Optional
 
 import matplotlib
+
+matplotlib.use("Agg")
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 from rich.console import Console
 from rich.table import Table
-
-matplotlib.use("Agg")
 
 console = Console()
 
@@ -261,25 +259,17 @@ def run_analytics(csv_path: str, out_dir: Optional[str] = None, days: Optional[i
     if charts:
         chart_fns = [(n, fn) for n, fn in ALL_CHARTS if n in charts]
 
-    # Generate charts in parallel (matplotlib is thread-safe for separate figures)
     paths = []
-    lock = threading.Lock()
 
-    def _gen(name, fn):
-        try:
-            p = fn(df, out_dir, width)
-            if p:
-                with lock:
-                    console.print(f"[dim]  saved: {p}[/dim]")
-                return p
-        except Exception as e:
-            with lock:
-                console.print(f"[red]  {name} failed: {e}[/red]")
-        return None
-
-    # Run sequentially to avoid matplotlib threading issues with display
+    # Run sequentially for clean terminal display between charts
     for i, (name, fn) in enumerate(chart_fns):
-        result = _gen(name, fn)
+        try:
+            result = fn(df, out_dir, width)
+            if result:
+                console.print(f"[dim]  saved: {result}[/dim]")
+        except Exception as e:
+            console.print(f"[red]  {name} failed: {e}[/red]")
+            result = None
         if result:
             paths.append(result)
             if i < len(chart_fns) - 1:

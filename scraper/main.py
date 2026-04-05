@@ -717,8 +717,18 @@ def morning(model, no_push, quiet):
     if not quiet:
         console.print(f"[green]Digest saved to {digest_path}[/green]")
 
+    # Generate periodic digests if the date triggers them
+    if not quiet:
+        console.print("[cyan]Checking periodic digests...[/cyan]")
+    generator.auto_generate_periodic(date_str, force=True)
+
     # Step 4: git add, commit, push
     subprocess.run(["git", "add", "data/"], cwd=str(project_root), capture_output=True, text=True)
+    # Also add root digest files
+    for f in ["digest-daily.md", "digest-weekly.md", "digest-monthly.md", "digest-yearly.md"]:
+        digest_file = project_root / f
+        if digest_file.exists():
+            subprocess.run(["git", "add", str(digest_file)], cwd=str(project_root), capture_output=True, text=True)
 
     # Check if there's anything to commit
     status = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=str(project_root), capture_output=True)

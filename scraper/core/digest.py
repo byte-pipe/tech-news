@@ -11,7 +11,7 @@ import difflib
 import logging
 import shutil
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -45,6 +45,57 @@ Structure:
 Format as clean Markdown. Use H2 for sections, H3 for themes. Do not use bold formatting.
 Be comprehensive. Cover all the important stories rather than artificially limiting coverage.
 """
+
+WEEKLY_DIGEST_PROMPT = """You are a senior analyst writing a weekly tech intelligence briefing.
+You will receive daily digests from the past week.
+Your job is to synthesize them into a cohesive weekly overview.
+
+Structure:
+1. Executive Summary: 3-5 sentences on the week's most important developments.
+2. Key Themes: recurring topics and trends that appeared across multiple days.
+3. Top Stories: the 5-10 most significant stories, with context on why they matter.
+4. Category Highlights: brief summary per category (AI, Security, DevTools, etc.) — only include categories with notable activity.
+5. What to Watch: emerging stories or trends gaining momentum.
+
+Format as clean Markdown. Use H2 for sections.
+Focus on patterns and significance, not exhaustive coverage of every daily story.
+"""
+
+MONTHLY_DIGEST_PROMPT = """You are a senior analyst writing a monthly tech intelligence report.
+You will receive weekly digests from the past month.
+Your job is to synthesize them into a strategic monthly overview.
+
+Structure:
+1. Executive Summary: 3-5 sentences on the month's defining developments.
+2. Major Developments: the most significant stories and shifts this month.
+3. Trend Analysis: what topics gained or lost momentum compared to earlier weeks.
+4. Category Deep Dive: key developments per category with month-over-month context.
+5. Outlook: what trends are likely to continue or evolve.
+
+Format as clean Markdown. Use H2 for sections.
+Prioritize strategic insight over individual story details.
+"""
+
+YEARLY_DIGEST_PROMPT = """You are a senior analyst writing an annual tech intelligence review.
+You will receive monthly digests from the past year.
+Your job is to synthesize them into a comprehensive year-in-review.
+
+Structure:
+1. Executive Summary: the year's most defining developments in 5-7 sentences.
+2. Year-Defining Stories: the top 10-15 stories that shaped the year.
+3. Trend Evolution: how major themes evolved across the year (rise, peak, decline).
+4. Category Review: annual summary per category with key milestones.
+5. Year-over-Year Shifts: what changed fundamentally compared to the prior period.
+
+Format as clean Markdown. Use H2 for sections.
+Focus on the big picture and lasting impact, not transient news.
+"""
+
+PERIODIC_PROMPTS = {
+    "weekly": WEEKLY_DIGEST_PROMPT,
+    "monthly": MONTHLY_DIGEST_PROMPT,
+    "yearly": YEARLY_DIGEST_PROMPT,
+}
 
 MAX_DIGEST_INPUT_CHARS = 60000
 CROSS_SOURCE_SIMILARITY_THRESHOLD = 0.7
@@ -422,25 +473,7 @@ class DigestGenerator:
 
     def _call_llm(self, user_content: str, max_retries: int = 3) -> Optional[str]:
         """Send prompt to LLM and return the digest text."""
-        for attempt in range(max_retries):
-            try:
-                response = self.client.chat.completions.create(
-                    model=self.model_name,
-                    messages=[
-                        {"role": "system", "content": DIGEST_PROMPT},
-                        {"role": "user", "content": user_content},
-                    ],
-                    temperature=0.3,
-                )
-                return response.choices[0].message.content.strip()
-            except Exception as e:
-                logger.warning(f"Digest LLM attempt {attempt + 1} failed: {e}")
-                if "model not found" in str(e).lower():
-                    logger.error(f"Model '{self.model_name}' not available. Pull it with: ollama pull {self.model_name}")
-                    break
-                if attempt < max_retries - 1:
-                    time.sleep(10 * (2**attempt))
-        return None
+        return self._call_llm_with_prompt(DIGEST_PROMPT, user_content, max_retries)
 
     def _save_digest(self, date_str: str, content: str) -> str:
         """Save digest with YAML frontmatter."""
@@ -462,9 +495,195 @@ class DigestGenerator:
 
         logger.info(f"Saved digest to {digest_path}")
 
-        # Keep a copy at project root for quick access
-        root_digest = self.project_root / "digest.md"
-        shutil.copy2(digest_path, root_digest)
-        logger.info(f"Copied digest to {root_digest}")
+        # Keep a copy at project root for quick access (only for today's digest)
+        if date_str == datetime.now().strftime("%Y-%m-%d"):
+            root_digest = self.project_root / "digest-daily.md"
+            shutil.copy2(digest_path, root_digest)
+            logger.info(f"Copied digest to {root_digest}")
 
         return str(digest_path)
+
+    # ------------------------------------------------------------------
+    # Periodic digests (weekly / monthly / yearly)
+    # ------------------------------------------------------------------
+
+    def _collect_daily_digests(self, start_date: str, end_date: str) -> List[str]:
+        """Collect daily digest contents for a date range."""
+        start = datetime.strptime(start_date, "%Y-%m-%d")
+        end = datetime.strptime(end_date, "%Y-%m-%d")
+        digests = []
+
+        current = start
+        while current <= end:
+            date_str = current.strftime("%Y-%m-%d")
+            # Check both directory layouts
+            candidates = [
+                self.project_root / "data" / date_str / "digest.md",
+                self.project_root / "data" / current.strftime("%Y-%m") / date_str / "digest.md",
+            ]
+            for path in candidates:
+                if path.exists():
+                    content = path.read_text(encoding="utf-8")
+                    # Strip YAML frontmatter
+                    if content.startswith("---"):
+                        parts = content.split("---", 2)
+                        if len(parts) >= 3:
+                            content = parts[2].strip()
+                    digests.append(f"## Daily Digest: {date_str}\n\n{content}")
+                    break
+            current += timedelta(days=1)
+
+        return digests
+
+    def _get_period_range(self, period: str, end_date: str) -> tuple:
+        """Calculate start and end dates for a period.
+
+        For auto-trigger, end_date is typically yesterday:
+        - weekly (Monday trigger): end_date=Sunday -> returns Mon-Sun of that week
+        - monthly (1st trigger): end_date=last day of prev month -> returns that full month
+        - yearly (Jan 1 trigger): end_date=Dec 31 -> returns that full year
+        """
+        end = datetime.strptime(end_date, "%Y-%m-%d")
+
+        if period == "weekly":
+            # Find the Monday of the week containing end_date
+            days_since_monday = end.weekday()  # Mon=0, Sun=6
+            monday = end - timedelta(days=days_since_monday)
+            sunday = monday + timedelta(days=6)
+            return monday.strftime("%Y-%m-%d"), sunday.strftime("%Y-%m-%d")
+
+        elif period == "monthly":
+            # Full month containing end_date
+            first = end.replace(day=1)
+            # Find last day of month
+            if end.month == 12:
+                last = end.replace(day=31)
+            else:
+                last = end.replace(month=end.month + 1, day=1) - timedelta(days=1)
+            return first.strftime("%Y-%m-%d"), last.strftime("%Y-%m-%d")
+
+        elif period == "yearly":
+            return f"{end.year}-01-01", f"{end.year}-12-31"
+
+        return end_date, end_date
+
+    def generate_periodic(self, period: str, end_date: Optional[str] = None, force: bool = False) -> Optional[str]:
+        """Generate a periodic digest (weekly/monthly/yearly).
+
+        Args:
+            period: One of "weekly", "monthly", "yearly".
+            end_date: Reference date for calculating the period range.
+            force: Regenerate even if digest already exists.
+
+        Returns:
+            Path to the saved root digest file, or None on failure.
+        """
+        if period not in PERIODIC_PROMPTS:
+            logger.error(f"Unknown period: {period}")
+            return None
+
+        if not OPENAI_AVAILABLE or self.client is None:
+            logger.error("Cannot generate periodic digest: OpenAI client not initialized")
+            return None
+
+        if end_date is None:
+            end_date = datetime.now().strftime("%Y-%m-%d")
+
+        root_path = self.project_root / f"digest-{period}.md"
+        if root_path.exists() and not force:
+            logger.info(f"Periodic digest already exists: {root_path}")
+            return str(root_path)
+
+        start_date, period_end = self._get_period_range(period, end_date)
+        logger.info(f"Generating {period} digest for {start_date} to {period_end}")
+
+        # For monthly/yearly, try to use higher-level digests first
+        input_parts = []
+        if period == "monthly":
+            # Try reading weekly digests — but they live at root and get overwritten,
+            # so fall back to daily digests
+            input_parts = self._collect_daily_digests(start_date, period_end)
+        elif period == "yearly":
+            input_parts = self._collect_daily_digests(start_date, period_end)
+        else:
+            input_parts = self._collect_daily_digests(start_date, period_end)
+
+        if not input_parts:
+            logger.warning(f"No daily digests found for {period} period {start_date} to {period_end}")
+            return None
+
+        combined = "\n\n---\n\n".join(input_parts)
+        if len(combined) > MAX_DIGEST_INPUT_CHARS:
+            combined = combined[:MAX_DIGEST_INPUT_CHARS] + "\n\n[... truncated for context window ...]"
+
+        logger.info(f"Collected {len(input_parts)} daily digests ({len(combined)} chars) for {period} digest")
+
+        # Call LLM with period-appropriate prompt
+        system_prompt = PERIODIC_PROMPTS[period]
+        digest_content = self._call_llm_with_prompt(system_prompt, combined)
+        if not digest_content:
+            return None
+
+        # Save to root
+        frontmatter = {
+            "period": period,
+            "start_date": start_date,
+            "end_date": period_end,
+            "model": self.model_name,
+            "generated_at": datetime.now().isoformat(),
+            "source_count": len(input_parts),
+        }
+
+        with open(root_path, "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write(yaml.dump(frontmatter, default_flow_style=False, sort_keys=False))
+            f.write("---\n\n")
+            f.write(digest_content)
+
+        logger.info(f"Saved {period} digest to {root_path}")
+        return str(root_path)
+
+    def _call_llm_with_prompt(self, system_prompt: str, user_content: str, max_retries: int = 3) -> Optional[str]:
+        """Send prompt to LLM with a custom system prompt."""
+        for attempt in range(max_retries):
+            try:
+                response = self.client.chat.completions.create(
+                    model=self.model_name,
+                    messages=[
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": user_content},
+                    ],
+                    temperature=0.3,
+                )
+                return response.choices[0].message.content.strip()
+            except Exception as e:
+                logger.warning(f"Periodic digest LLM attempt {attempt + 1} failed: {e}")
+                if "model not found" in str(e).lower():
+                    logger.error(f"Model '{self.model_name}' not available")
+                    break
+                if attempt < max_retries - 1:
+                    time.sleep(10 * (2**attempt))
+        return None
+
+    def auto_generate_periodic(self, today_str: str, force: bool = False) -> None:
+        """Auto-generate periodic digests based on today's date.
+
+        Called after daily digest generation:
+        - Monday: generate weekly digest for the previous week
+        - 1st of month: generate monthly digest for the previous month
+        - Jan 1st: generate yearly digest for the previous year
+        """
+        dt = datetime.strptime(today_str, "%Y-%m-%d")
+        yesterday = (dt - timedelta(days=1)).strftime("%Y-%m-%d")
+
+        if dt.weekday() == 0:  # Monday
+            logger.info("Monday detected — generating weekly digest")
+            self.generate_periodic("weekly", end_date=yesterday, force=force)
+
+        if dt.day == 1:
+            logger.info("1st of month detected — generating monthly digest")
+            self.generate_periodic("monthly", end_date=yesterday, force=force)
+
+        if dt.month == 1 and dt.day == 1:
+            logger.info("January 1st detected — generating yearly digest")
+            self.generate_periodic("yearly", end_date=yesterday, force=force)

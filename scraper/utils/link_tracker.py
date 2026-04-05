@@ -157,10 +157,10 @@ class LinkTracker:
 
         os.makedirs(os.path.dirname(self.csv_path), exist_ok=True)
         with open(self.csv_path, "a", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=COLUMNS)
-            if not file_exists:
-                writer.writeheader()
-            writer.writerows(new_rows)
+            # Write header if file is empty/new
+            if f.tell() == 0:
+                csv.DictWriter(f, fieldnames=COLUMNS).writeheader()
+            csv.DictWriter(f, fieldnames=COLUMNS).writerows(new_rows)
 
         logger.info(f"Tracked {len(new_rows)} new links from {source} ({date_scraped})")
         return len(new_rows)
@@ -239,10 +239,12 @@ class LinkTracker:
                 rows.append(row)
 
         if updated > 0:
-            with open(self.csv_path, "w", newline="", encoding="utf-8") as f:
+            tmp_path = self.csv_path + ".tmp"
+            with open(tmp_path, "w", newline="", encoding="utf-8") as f:
                 writer = csv.DictWriter(f, fieldnames=COLUMNS)
                 writer.writeheader()
                 writer.writerows(rows)
+            os.replace(tmp_path, self.csv_path)
             logger.info(f"Updated seen_count for {updated} rows from registry")
 
         return updated

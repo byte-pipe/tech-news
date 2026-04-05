@@ -2,6 +2,7 @@
 
 import tempfile
 import unittest
+from datetime import datetime
 from pathlib import Path
 from unittest.mock import MagicMock, patch  # noqa: F401
 
@@ -338,6 +339,318 @@ class TestSaveDigest(unittest.TestCase):
             assert "date: '2026-01-15'" in content
             assert "model: test-model" in content
             assert "# Digest Content" in content
+
+
+class TestGetPeriodRange(unittest.TestCase):
+    """Test date range calculation for periodic digests."""
+
+    def _make_generator(self):
+        gen = DigestGenerator.__new__(DigestGenerator)
+        return gen
+
+    def test_weekly_from_sunday(self):
+        """Monday trigger -> yesterday is Sunday -> Mon-Sun of that week."""
+        gen = self._make_generator()
+        start, end = gen._get_period_range("weekly", "2026-04-05")  # Sunday
+        assert start == "2026-03-30"  # Monday
+        assert end == "2026-04-05"  # Sunday
+
+    def test_weekly_from_saturday(self):
+        gen = self._make_generator()
+        start, end = gen._get_period_range("weekly", "2026-04-04")  # Saturday
+        assert start == "2026-03-30"  # Monday of that week
+        assert end == "2026-04-05"  # Sunday of that week
+
+    def test_weekly_from_monday(self):
+        gen = self._make_generator()
+        start, end = gen._get_period_range("weekly", "2026-03-30")  # Monday
+        assert start == "2026-03-30"
+        assert end == "2026-04-05"
+
+    def test_monthly_end_of_march(self):
+        """1st April trigger -> yesterday is March 31 -> full March."""
+        gen = self._make_generator()
+        start, end = gen._get_period_range("monthly", "2026-03-31")
+        assert start == "2026-03-01"
+        assert end == "2026-03-31"
+
+    def test_monthly_february_non_leap(self):
+        gen = self._make_generator()
+        start, end = gen._get_period_range("monthly", "2026-02-15")
+        assert start == "2026-02-01"
+        assert end == "2026-02-28"
+
+    def test_monthly_february_leap_year(self):
+        gen = self._make_generator()
+        start, end = gen._get_period_range("monthly", "2028-02-15")  # 2028 is leap
+        assert start == "2028-02-01"
+        assert end == "2028-02-29"
+
+    def test_monthly_december(self):
+        gen = self._make_generator()
+        start, end = gen._get_period_range("monthly", "2026-12-25")
+        assert start == "2026-12-01"
+        assert end == "2026-12-31"
+
+    def test_yearly(self):
+        """Jan 1 trigger -> yesterday is Dec 31 -> full year."""
+        gen = self._make_generator()
+        start, end = gen._get_period_range("yearly", "2025-12-31")
+        assert start == "2025-01-01"
+        assert end == "2025-12-31"
+
+    def test_yearly_mid_year(self):
+        gen = self._make_generator()
+        start, end = gen._get_period_range("yearly", "2026-06-15")
+        assert start == "2026-01-01"
+        assert end == "2026-12-31"
+
+
+class TestCollectDailyDigests(unittest.TestCase):
+    """Test collecting daily digest files from data directories."""
+
+    def _make_generator(self, tmp_dir):
+        gen = DigestGenerator.__new__(DigestGenerator)
+        gen.project_root = Path(tmp_dir)
+        return gen
+
+    def test_collects_digests_in_range(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            # Create digest files for 3 days
+            for day in ["2026-04-01", "2026-04-02", "2026-04-03"]:
+                d = Path(tmp) / "data" / day
+                d.mkdir(parents=True)
+                (d / "digest.md").write_text(f"---\ndate: '{day}'\n---\n\nDigest for {day}")
+
+            digests = gen._collect_daily_digests("2026-04-01", "2026-04-03")
+            assert len(digests) == 3
+            assert "2026-04-01" in digests[0]
+            assert "2026-04-03" in digests[2]
+
+    def test_skips_missing_dates(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            # Only create day 1 and 3, skip day 2
+            for day in ["2026-04-01", "2026-04-03"]:
+                d = Path(tmp) / "data" / day
+                d.mkdir(parents=True)
+                (d / "digest.md").write_text(f"---\ndate: '{day}'\n---\n\nDigest for {day}")
+
+            digests = gen._collect_daily_digests("2026-04-01", "2026-04-03")
+            assert len(digests) == 2
+
+    def test_empty_range(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            digests = gen._collect_daily_digests("2026-04-01", "2026-04-03")
+            assert len(digests) == 0
+
+    def test_strips_frontmatter(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            d = Path(tmp) / "data" / "2026-04-01"
+            d.mkdir(parents=True)
+            (d / "digest.md").write_text("---\ndate: '2026-04-01'\nmodel: test\n---\n\nActual content here")
+
+            digests = gen._collect_daily_digests("2026-04-01", "2026-04-01")
+            assert len(digests) == 1
+            assert "Actual content here" in digests[0]
+            assert "model: test" not in digests[0]
+
+    def test_handles_nested_month_directories(self):
+        """Test data/YYYY-MM/YYYY-MM-DD/ layout."""
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            d = Path(tmp) / "data" / "2026-03" / "2026-03-15"
+            d.mkdir(parents=True)
+            (d / "digest.md").write_text("---\ndate: '2026-03-15'\n---\n\nNested digest")
+
+            digests = gen._collect_daily_digests("2026-03-15", "2026-03-15")
+            assert len(digests) == 1
+            assert "Nested digest" in digests[0]
+
+
+class TestAutoGeneratePeriodic(unittest.TestCase):
+    """Test auto-trigger logic based on date."""
+
+    def _make_generator(self, tmp_dir):
+        gen = DigestGenerator.__new__(DigestGenerator)
+        gen.project_root = Path(tmp_dir)
+        gen.client = None  # No actual LLM calls
+        gen.model_name = "test"
+        return gen
+
+    @patch.object(DigestGenerator, "generate_periodic")
+    def test_monday_triggers_weekly(self, mock_gen):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            gen.auto_generate_periodic("2026-04-06", force=True)  # Monday
+            mock_gen.assert_called_once_with("weekly", end_date="2026-04-05", force=True)
+
+    @patch.object(DigestGenerator, "generate_periodic")
+    def test_tuesday_no_trigger(self, mock_gen):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            gen.auto_generate_periodic("2026-04-07", force=True)  # Tuesday
+            mock_gen.assert_not_called()
+
+    @patch.object(DigestGenerator, "generate_periodic")
+    def test_first_of_month_triggers_monthly(self, mock_gen):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            gen.auto_generate_periodic("2026-04-01", force=True)  # 1st, not Monday
+            mock_gen.assert_called_once_with("monthly", end_date="2026-03-31", force=True)
+
+    @patch.object(DigestGenerator, "generate_periodic")
+    def test_first_of_month_on_monday_triggers_both(self, mock_gen):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            # Find a date that is both Monday and 1st of month
+            # 2026-06-01 is a Monday
+            gen.auto_generate_periodic("2026-06-01", force=True)
+            assert mock_gen.call_count == 2
+            calls = [c.args[0] for c in mock_gen.call_args_list]
+            assert "weekly" in calls
+            assert "monthly" in calls
+
+    @patch.object(DigestGenerator, "generate_periodic")
+    def test_jan_first_triggers_all_three(self, mock_gen):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            # 2026-01-01 is Thursday: triggers monthly + yearly but not weekly
+            gen.auto_generate_periodic("2026-01-01", force=True)
+            calls = [c.args[0] for c in mock_gen.call_args_list]
+            assert "monthly" in calls
+            assert "yearly" in calls
+
+    @patch.object(DigestGenerator, "generate_periodic")
+    def test_jan_first_on_monday_triggers_all(self, mock_gen):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            # 2029-01-01 is Monday
+            gen.auto_generate_periodic("2029-01-01", force=True)
+            assert mock_gen.call_count == 3
+            calls = [c.args[0] for c in mock_gen.call_args_list]
+            assert "weekly" in calls
+            assert "monthly" in calls
+            assert "yearly" in calls
+
+
+class TestGeneratePeriodic(unittest.TestCase):
+    """Test periodic digest generation end-to-end (with mocked LLM)."""
+
+    def _make_generator(self, tmp_dir):
+        gen = DigestGenerator.__new__(DigestGenerator)
+        gen.project_root = Path(tmp_dir)
+        gen.model_name = "test-model"
+        gen.client = MagicMock()
+        return gen
+
+    def _create_daily_digests(self, tmp_dir, dates):
+        for date in dates:
+            d = Path(tmp_dir) / "data" / date
+            d.mkdir(parents=True)
+            (d / "digest.md").write_text(f"---\ndate: '{date}'\n---\n\n## Summary for {date}\nSome content.")
+
+    @patch("scraper.core.digest.OPENAI_AVAILABLE", True)
+    def test_weekly_digest_generation(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            dates = ["2026-03-30", "2026-03-31", "2026-04-01", "2026-04-02", "2026-04-03", "2026-04-04", "2026-04-05"]
+            self._create_daily_digests(tmp, dates)
+
+            # Mock LLM response
+            mock_response = MagicMock()
+            mock_response.choices = [MagicMock()]
+            mock_response.choices[0].message.content = "# Weekly Digest\n\nWeekly summary content."
+            gen.client.chat.completions.create.return_value = mock_response
+
+            result = gen.generate_periodic("weekly", end_date="2026-04-05", force=True)
+            assert result is not None
+            assert "digest-weekly.md" in result
+
+            # Verify file was written
+            weekly_path = Path(tmp) / "digest-weekly.md"
+            assert weekly_path.exists()
+            content = weekly_path.read_text()
+            assert "period: weekly" in content
+            assert "Weekly summary content" in content
+
+    @patch("scraper.core.digest.OPENAI_AVAILABLE", True)
+    def test_monthly_digest_generation(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            # Create digests for a few days in March
+            dates = ["2026-03-01", "2026-03-10", "2026-03-20", "2026-03-31"]
+            self._create_daily_digests(tmp, dates)
+
+            mock_response = MagicMock()
+            mock_response.choices = [MagicMock()]
+            mock_response.choices[0].message.content = "# Monthly Digest\n\nMonthly summary."
+            gen.client.chat.completions.create.return_value = mock_response
+
+            result = gen.generate_periodic("monthly", end_date="2026-03-31", force=True)
+            assert result is not None
+
+            monthly_path = Path(tmp) / "digest-monthly.md"
+            assert monthly_path.exists()
+            content = monthly_path.read_text()
+            assert "period: monthly" in content
+            assert "source_count: 4" in content
+
+    @patch("scraper.core.digest.OPENAI_AVAILABLE", True)
+    def test_no_digests_returns_none(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            result = gen.generate_periodic("weekly", end_date="2026-04-05", force=True)
+            assert result is None
+
+    @patch("scraper.core.digest.OPENAI_AVAILABLE", True)
+    def test_skip_existing_without_force(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            # Create existing weekly digest
+            (Path(tmp) / "digest-weekly.md").write_text("existing")
+
+            result = gen.generate_periodic("weekly", end_date="2026-04-05", force=False)
+            assert result is not None
+            # LLM should NOT have been called
+            gen.client.chat.completions.create.assert_not_called()
+
+    def test_unknown_period_returns_none(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            result = gen.generate_periodic("biweekly", end_date="2026-04-05")
+            assert result is None
+
+    @patch("scraper.core.digest.OPENAI_AVAILABLE", True)
+    def test_correct_prompt_used_per_period(self):
+        """Verify the right system prompt is used for each period."""
+        from scraper.core.digest import MONTHLY_DIGEST_PROMPT, WEEKLY_DIGEST_PROMPT, YEARLY_DIGEST_PROMPT
+
+        with tempfile.TemporaryDirectory() as tmp:
+            gen = self._make_generator(tmp)
+            dates = [f"2026-03-{d:02d}" for d in range(1, 8)]
+            self._create_daily_digests(tmp, dates)
+
+            mock_response = MagicMock()
+            mock_response.choices = [MagicMock()]
+            mock_response.choices[0].message.content = "Content"
+            gen.client.chat.completions.create.return_value = mock_response
+
+            gen.generate_periodic("weekly", end_date="2026-03-07", force=True)
+            call_args = gen.client.chat.completions.create.call_args
+            system_msg = call_args.kwargs["messages"][0]["content"]
+            assert system_msg == WEEKLY_DIGEST_PROMPT
+
+            # Reset and test monthly
+            gen.client.chat.completions.create.reset_mock()
+            gen.client.chat.completions.create.return_value = mock_response
+            gen.generate_periodic("monthly", end_date="2026-03-31", force=True)
+            call_args = gen.client.chat.completions.create.call_args
+            system_msg = call_args.kwargs["messages"][0]["content"]
+            assert system_msg == MONTHLY_DIGEST_PROMPT
 
 
 if __name__ == "__main__":

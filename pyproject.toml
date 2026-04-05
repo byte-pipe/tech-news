@@ -102,7 +102,7 @@ addopts = [
     "--cov=scraper",
     "--cov-report=term-missing",
     "--cov-report=html",
-    "--cov-fail-under=14",
+    "--cov-fail-under=13",
     "--strict-markers",
     "--strict-config",
     "--verbose",

@@ -105,7 +105,7 @@ def run_scraper(scraper_class, output_format, dry_run=False, fetch_content=False
                 # Track links in CSV
                 if results:
                     try:
-                        tracker = get_link_tracker(str(config.project_root))
+                        tracker = get_link_tracker()
                         tracker.track_items(results, scraper.site_name)
                     except Exception as e:
                         logger.warning(f"Link tracking failed: {e}")
