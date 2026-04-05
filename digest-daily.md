@@ -1,69 +1,78 @@
 ---
-date: '2026-04-05'
+date: '2026-04-06'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-05T20:00:25.670309'
+generated_at: '2026-04-06T01:03:41.080633'
 ---
 
 ## Executive Summary
-- A simple self‑distillation technique dramatically lifts code‑generation performance for large language models, sparking fresh interest in low‑cost model improvement methods.  
-- Iranian missile strikes have forced Amazon Web Services to declare “hard‑down” availability zones in Bahrain and Dubai, prompting a rapid customer migration effort.  
-- The UK braces for Storm Dave with amber‑level wind warnings, while the US‑based cybersecurity veteran Mikko Hyppönen shifts his focus from malware to anti‑drone defense.  
-- Practitioners are repurposing commodity hardware: a Raspberry Pi can now run a nostalgic dial‑up ISP, and a modest Linux host can be turned into a full‑featured router or switch with just seven configuration steps.  
-- Municipal data strategy advances as Cleveland rolls out a city‑wide open‑data platform, and new governance tools like DefenseClaw aim to harden AI agent deployments.
+- Anthropic announced that Claude Code users will now pay separately for third‑party tools like OpenClaw, sparking debate over AI‑service pricing.  
+- A fake Claude Code source repository on GitHub was found distributing the Vidar infostealer and GhostSocks proxy malware, highlighting the rapid weaponisation of AI hype.  
+- NASA’s Artemis II crewed lunar flyby proceeded successfully, while the Orion spacecraft’s waste‑management system drew public attention after urine froze on‑board.  
+- In software tooling, the new Lisette language brings Rust‑style safety to Go, and a growing chorus of developers warns that AI‑generated static sites cannot replace traditional CMS platforms.  
+- Regulatory scrutiny intensified as Manhattan prosecutors examined whether prediction‑market betting may breach insider‑trading laws.
 
 ---
 
 ## AI and Machine Learning
 
-### Embarrassingly Simple Self‑Distillation Improves Code Generation (trending) – [2604.01193]  
-Self‑distillation (SSD) fine‑tunes a model on its own raw code outputs, raising Qwen3‑30B‑Instruct’s LiveCodeBench v6 pass@1 from 42.4 % to 55.3 % and showing consistent gains across model families and sizes.
+### GitHub – JuliusBrussee/caveman: Claude Code “caveman” skill cuts token use by ~75% [Hacker News]
+A community‑built Claude Code plugin strips filler language, delivering the same technical answer in a terse “caveman” style, slashing token consumption, cost, and latency while adding a humorous tone.
 
-### Iran Strikes Leave Amazon Availability Zones “Hard Down” in Bahrain and Dubai – [hackernews_api]  
-Missile attacks have rendered one AZ in each of AWS’s Bahrain and Dubai regions completely non‑functional and another zone impaired, leading Amazon to advise customers to scale down workloads and migrate to other regions.
+### The machines are fine. I'm worried about us. [Hacker News]
+An essay contrasts two PhD students—one who does research independently and another who leans on AI for every step—arguing that while AI can boost output metrics, it risks eroding deep learning and long‑term scientific capacity.
 
-### Aiper IrriSense 2 Smart Irrigation System Review (trending) – [newsfeed]  
-WIRED rates the $599 IrriSense 2 at 7/10, praising its app‑driven modes and weather‑aware scheduling but noting bulky hardware and uneven water distribution that can leave lawns partially dry.
+### Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage [TechCrunch]
+Effective April 4, Anthropic will bill third‑party tool usage (e.g., OpenClaw) on a pay‑as‑you‑go basis, citing unsustainable usage patterns; the move has drawn criticism from OpenClaw’s creator and raises concerns about AI‑service monetisation.
 
-### Storm Dave: Amber Wind Warning Issued for Parts of UK (trending) – [newsfeed]  
-An amber wind warning will cover northern England, north‑west Wales and southern Scotland on Saturday night, with gusts up to 80 mph, prompting travel advisories and warnings of power outages.
+### Apple at 50: Where did the tech giant succeed and fail? [Newsfeed]
+A retrospective examines Apple’s five‑decade arc, celebrating breakthroughs like the iPod, iPhone, and Apple Watch while critiquing missteps such as the Lisa, butterfly keyboards, and the high‑priced Vision Pro headset.
 
-### Craft is Untouchable – Christopher Butler (trending) – [tldr]  
-Butler argues that AI is merely a tool that shifts craft to higher‑level decision‑making; designers must still practice repetition and judgment to avoid letting fast‑generated outputs erode quality standards.
+### Fake Claude Code source downloads actually delivered malware [The Register]
+Cyber‑criminals posted a counterfeit Claude Code CLI repository that bundled a Rust dropper delivering the Vidar infostealer and GhostSocks proxy, exploiting hype around the leaked source to compromise unsuspecting developers.
 
-### Codex Plugin for Claude Code – OpenAI – [tldr]  
-The new plugin lets Claude Code call OpenAI Codex for read‑only reviews, adversarial critiques, and background “rescue” tasks, integrating with familiar CLI commands and requiring a ChatGPT subscription or API key.
-
-### Here’s What You Can Expect With the Burning Man Temple 2026 (trending) – [tldr]  
-The 2026 Burning Man temple, inspired by a rare flower, will offer an immersive, contemplative space; the article showcases its unique architecture and invites visitors to experience its meditative environment.
-
-### Reddit – Please wait for verification – [reddit]  
-*No content provided; unable to summarize.*
+### Reddit – Please wait for verification [Reddit]
+*No article content provided.*
 
 ---
 
 ## Cybersecurity and Privacy
 
-### After fighting malware for decades, this cybersecurity veteran is now hacking drones (trending) – [newsfeed]  
-Mikko Hyppönen, a 35‑year malware expert, opened Black Hat 2025 with a “cybersecurity Tetris” metaphor and announced his new role at Sensofusion, developing anti‑drone systems that mirror classic malware detection techniques.
+### Someone at BrowserStack is leaking users’ email address [Hacker News]
+A security researcher discovered his unique test email appearing in an unsolicited message traced to Apollo.io, suggesting BrowserStack (or a partner) may be sharing or selling user contact data without notice.
+
+### Et Tu, Agent? Did you install the backdoor? [TL;DR]
+The popular Axios npm package was compromised to pull in a malicious dependency that silently installed a remote‑access trojan; the incident underscores how AI‑generated code and supply‑chain complexity amplify the risk of fast, invisible attacks.
 
 ---
 
 ## Software Engineering and Dev Tools
 
-### A Survey of the 7 Configuration Changes That Turn a Multi‑homed Linux Host into a Switch/Router (trending) – [hackernews_api]  
-The guide shows how enabling IP forwarding, bridging, nftables, conntrack, NAT, dnsmasq, and hostapd transforms a standard Linux box into a full‑featured router, switch, or Wi‑Fi AP with minimal hardware changes.
+### Lisette – Rust syntax, Go runtime [Hacker News]
+Lisette is a new language that blends Rust‑style algebraic data types and pattern matching with Go’s runtime, offering compile‑time safety guarantees while interoperating seamlessly with existing Go libraries.
 
-### Build Your Own Dial‑up ISP with a Raspberry Pi – [hackernews_api]  
-Jeff Geerling demonstrates recreating a 1990s‑style dial‑up ISP using a Pi, a USB modem, and a line‑simulator, complete with PPP, mgetty, and a proxy that strips modern web assets for legacy browsers.
+### The CMS is dead. Long live the CMS. [Hacker News]
+A veteran WordPress developer argues that AI‑generated static sites cannot replace traditional CMSes, warning that framework churn, maintenance overhead, and loss of editable UI make the “CMS is dead” narrative a marketing hype.
 
-### Patrick Radden Keefe Tells the Tale of a Teen’s Double Life (trending) – [newsfeed]  
-Keefe’s upcoming true‑crime book “London Falling” investigates the mysterious 2019 death of Zac Brettler, who masqueraded as a Russian heir, exposing London’s elite‑wealth underworld and prompting questions about identity and ambition.
+### Artemis II is going so well that we’re left to talk about frozen urine [Ars Technica]
+During Orion’s deep‑space test, a water‑tank malfunction caused collected urine to freeze, forcing the crew to use bags while engineers rotate the spacecraft for sunlight exposure; the issue is minor now but highlights waste‑management challenges for future Mars missions.
 
-### PowerWash Simulator: How a UK Cleaning Game Became a Huge Hit – [newsfeed]  
-FuturLab’s “cathartic” PowerWash Simulator has sold over 17 million copies; its low‑stress gameplay is credited with mood‑boosting effects and a growing niche of “mundane job” simulation titles.
+### Deontay Wilder calls out Anthony Joshua after Chisora victory [BBC Sport]
+After a split‑decision win over Derek Chisora, heavyweight Deontay Wilder publicly challenged Anthony Joshua, reigniting speculation about a blockbuster bout that promoters say could still materialise.
 
-### Cleveland’s Open Data Overhaul (trending) – [tldr]  
-Chief Innovation Officer Elizabeth Crowe leads a city‑wide transformation, consolidating 130 legacy systems onto Azure and Power BI, launching public dashboards (e.g., Cemetery Viewer, 311 requests) and establishing a four‑tier data classification regime.
+### Clouded Judgement [TL;DR]
+The author posits digital twins—virtual replicas of organisational knowledge—as the next frontier for AI, arguing that scaling expertise via “knowledge twins” will outpace raw model improvements in driving business value.
 
-### DefenseClaw: Security Governance for Agentic AI (trending) – [tldr]  
-Cisco’s open‑source DefenseClaw inserts a guardrail layer between AI agents and infrastructure, automatically scanning skills, plugins, and generated code, blocking high‑severity threats, and logging findings to SIEMs.
+### Exclusive: Federal prosecutors are exploring whether prediction‑market bets trip insider‑trading laws [CNN Politics]
+Manhattan U.S. attorneys are reviewing whether high‑stakes prediction‑market trades (e.g., on Venezuelan elections or war timing) violate insider‑trading, fraud, or AML statutes, prompting platforms like Polymarket and Kalshi to tighten insider‑trade prohibitions.
+
+---
+
+## Science and Research
+
+### Artemis II is go: humans head to the Moon after half‑century absence [Newsfeed]
+NASA’s Artemis II successfully launched, delivering the first crewed lunar flyby since 1972; the mission tests Orion’s systems and gathers scientific data while sparking debate over its scientific merit amid budgetary pressures.
+
+---
+
+## Notable Mentions
+- None reported.
