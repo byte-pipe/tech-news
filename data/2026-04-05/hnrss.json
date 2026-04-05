@@ -1,242 +1,182 @@
 [
   {
-    "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
-    "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
-    "description": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+    "title": "Aegis – open-source FPGA silicon",
+    "url": "https://github.com/MidstallSoftware/aegis",
+    "description": "Aegis – open-source FPGA silicon",
     "date": "2026-04-05",
-    "score": 308,
-    "comments": 92,
-    "discussion_url": "https://news.ycombinator.com/item?id=47644864",
+    "score": 108,
+    "comments": 14,
+    "discussion_url": "https://news.ycombinator.com/item?id=47646472",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594167"
+    "fetched_at": "2026-04-05T19:17:20.327821"
   },
   {
-    "title": "Advice to young people, the lies I tell myself (2024)",
-    "url": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
-    "description": "Advice to young people, the lies I tell myself (2024)",
-    "date": "2026-04-04",
-    "score": 117,
-    "comments": 34,
-    "discussion_url": "https://news.ycombinator.com/item?id=47644566",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594183"
-  },
-  {
-    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-    "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-    "description": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-    "date": "2026-04-04",
-    "score": 437,
+    "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+    "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+    "description": "Artemis II crew see first glimpse of far side of Moon [video]",
+    "date": "2026-04-05",
+    "score": 269,
     "comments": 196,
-    "discussion_url": "https://news.ycombinator.com/item?id=47640380",
+    "discussion_url": "https://news.ycombinator.com/item?id=47649721",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594286"
+    "fetched_at": "2026-04-05T19:17:20.327715"
   },
   {
-    "title": "Components of a Coding Agent",
-    "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "description": "Components of a Coding Agent",
-    "date": "2026-04-04",
-    "score": 241,
-    "comments": 78,
-    "discussion_url": "https://news.ycombinator.com/item?id=47638810",
+    "title": "Caveman: Why use many token when few token do trick",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "description": "Caveman: Why use many token when few token do trick",
+    "date": "2026-04-05",
+    "score": 521,
+    "comments": 265,
+    "discussion_url": "https://news.ycombinator.com/item?id=47647455",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594358"
+    "fetched_at": "2026-04-05T19:17:20.327792"
   },
   {
-    "title": "Embarrassingly simple self-distillation improves code generation",
-    "url": "https://arxiv.org/abs/2604.01193",
-    "description": "Embarrassingly simple self-distillation improves code generation",
-    "date": "2026-04-04",
-    "score": 602,
-    "comments": 181,
-    "discussion_url": "https://news.ycombinator.com/item?id=47637757",
+    "title": "Codex pricing to align with API token usage, instead of per-message",
+    "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+    "description": "Codex pricing to align with API token usage, instead of per-message",
+    "date": "2026-04-05",
+    "score": 170,
+    "comments": 123,
+    "discussion_url": "https://news.ycombinator.com/item?id=47650726",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594371"
+    "fetched_at": "2026-04-05T19:17:20.327672"
+  },
+  {
+    "title": "Eight years of wanting, three months of building with AI",
+    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+    "description": "Eight years of wanting, three months of building with AI",
+    "date": "2026-04-05",
+    "score": 364,
+    "comments": 110,
+    "discussion_url": "https://news.ycombinator.com/item?id=47648828",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-05T19:17:20.327743"
+  },
+  {
+    "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
+    "description": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
+    "date": "2026-04-05",
+    "score": 231,
+    "comments": 143,
+    "discussion_url": "https://news.ycombinator.com/item?id=47649113",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-05T19:17:20.327729"
   },
   {
     "title": "German implementation of eIDAS will require an Apple/Google account to function",
     "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
     "description": "German implementation of eIDAS will require an Apple/Google account to function",
     "date": "2026-04-04",
-    "score": 308,
-    "comments": 278,
+    "score": 507,
+    "comments": 485,
     "discussion_url": "https://news.ycombinator.com/item?id=47644406",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594198"
-  },
-  {
-    "title": "How many products does Microsoft have named 'Copilot'?",
-    "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-    "description": "How many products does Microsoft have named 'Copilot'?",
-    "date": "2026-04-04",
-    "score": 660,
-    "comments": 317,
-    "discussion_url": "https://news.ycombinator.com/item?id=47642569",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594211"
+    "fetched_at": "2026-04-05T19:17:20.327854"
   },
   {
     "title": "Introduction to Computer Music (2009) [pdf]",
     "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
     "description": "Introduction to Computer Music (2009) [pdf]",
     "date": "2026-04-05",
-    "score": 166,
-    "comments": 53,
+    "score": 213,
+    "comments": 71,
     "discussion_url": "https://news.ycombinator.com/item?id=47645432",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594141"
+    "fetched_at": "2026-04-05T19:17:20.327841"
   },
   {
-    "title": "LLM Wiki – example of an \"idea file\"",
-    "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-    "description": "LLM Wiki – example of an \"idea file\"",
-    "date": "2026-04-04",
-    "score": 209,
-    "comments": 64,
-    "discussion_url": "https://news.ycombinator.com/item?id=47640875",
+    "title": "Japanese, French and Omani vessels cross Strait of Hormuz",
+    "url": "https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz",
+    "description": "Japanese, French and Omani vessels cross Strait of Hormuz",
+    "date": "2026-04-05",
+    "score": 112,
+    "comments": 138,
+    "discussion_url": "https://news.ycombinator.com/item?id=47649811",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594226"
+    "fetched_at": "2026-04-05T19:17:20.327698"
   },
   {
-    "title": "OpenScreen is an open-source alternative to Screen Studio",
-    "url": "https://github.com/siddharthvaddem/openscreen",
-    "description": "OpenScreen is an open-source alternative to Screen Studio",
-    "date": "2026-04-01",
-    "score": 312,
-    "comments": 54,
-    "discussion_url": "https://news.ycombinator.com/item?id=47595695",
+    "title": "Lisette a little language inspired by Rust that compiles to Go",
+    "url": "https://lisette.run/",
+    "description": "Lisette a little language inspired by Rust that compiles to Go",
+    "date": "2026-04-05",
+    "score": 217,
+    "comments": 116,
+    "discussion_url": "https://news.ycombinator.com/item?id=47646843",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594396"
+    "fetched_at": "2026-04-05T19:17:20.327807"
   },
   {
-    "title": "Ruckus: Racket for iOS",
-    "url": "https://ruckus.defn.io/",
-    "description": "Ruckus: Racket for iOS",
-    "date": "2026-04-02",
-    "score": 133,
-    "comments": 12,
-    "discussion_url": "https://news.ycombinator.com/item?id=47614532",
+    "title": "My Google Workspace account suspension",
+    "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
+    "description": "My Google Workspace account suspension",
+    "date": "2026-04-05",
+    "score": 274,
+    "comments": 143,
+    "discussion_url": "https://news.ycombinator.com/item?id=47648404",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594383"
+    "fetched_at": "2026-04-05T19:17:20.327758"
   },
   {
-    "title": "Show HN: A game where you build a GPU",
-    "url": "https://jaso1024.com/mvidia/",
-    "description": "Show HN: A game where you build a GPU",
-    "date": "2026-04-04",
-    "score": 774,
-    "comments": 160,
-    "discussion_url": "https://news.ycombinator.com/item?id=47640728",
+    "title": "The threat is comfortable drift toward not understanding what you're doing",
+    "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+    "description": "The threat is comfortable drift toward not understanding what you're doing",
+    "date": "2026-04-05",
+    "score": 672,
+    "comments": 458,
+    "discussion_url": "https://news.ycombinator.com/item?id=47647788",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594263"
-  },
-  {
-    "title": "Show HN: I made open source, zero power PCB hackathon badges",
-    "url": "https://github.com/KaiPereira/Overglade-Badges",
-    "description": "Show HN: I made open source, zero power PCB hackathon badges",
-    "date": "2026-04-04",
-    "score": 111,
-    "comments": 10,
-    "discussion_url": "https://news.ycombinator.com/item?id=47639303",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594332"
-  },
-  {
-    "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
-    "url": "https://github.com/teamchong/turboquant-wasm",
-    "description": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
-    "date": "2026-04-04",
-    "score": 154,
-    "comments": 6,
-    "discussion_url": "https://news.ycombinator.com/item?id=47639567",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594317"
-  },
-  {
-    "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-    "url": "https://sllm.cloud",
-    "description": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-    "date": "2026-04-04",
-    "score": 163,
-    "comments": 79,
-    "discussion_url": "https://news.ycombinator.com/item?id=47639779",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594302"
-  },
-  {
-    "title": "The Indie Internet Index – submit your favorite sites",
-    "url": "https://iii.social",
-    "description": "The Indie Internet Index – submit your favorite sites",
-    "date": "2026-04-04",
-    "score": 152,
-    "comments": 29,
-    "discussion_url": "https://news.ycombinator.com/item?id=47639291",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-05T11:12:43.594346"
+    "fetched_at": "2026-04-05T19:17:20.327771"
   }
 ]
