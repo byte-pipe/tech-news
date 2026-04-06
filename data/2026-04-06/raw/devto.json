@@ -5,7 +5,7 @@
     "date": "2026-04-01",
     "description": "Vibe coding and human-AI adoption frictionRyan SwiftRyan SwiftRyan SwiftFollowApr 13 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Human...",
     "tags": "#discuss, #ai, #mlh, #opensource",
-    "reactions": "43 reactions",
+    "reactions": "44 reactions",
     "comments": "Comments 10 comments",
     "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln"
   },
@@ -15,8 +15,8 @@
     "date": "2026-04-02",
     "description": "Native voice input and idle task APIsSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowApr 29 Things You’re Overengineering (The Browser Already S...",
     "tags": "#webdev, #javascript, #css, #browser",
-    "reactions": "159 reactions",
-    "comments": "Comments 74 comments",
+    "reactions": "180 reactions",
+    "comments": "Comments 78 comments",
     "url": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99"
   },
   {
@@ -35,19 +35,19 @@
     "date": "2026-04-01",
     "description": "April Fools Challenge Submission ☕️🤡Nikoloz Turazashvili (@axrisi)Nikoloz Turazashvili (@axrisi)Nikoloz Turazashvili (@axrisi)FollowApr 1BrewOps: I bu...",
     "tags": "#showdev, #devchallenge, #418challenge, #jokes",
-    "reactions": "41 reactions",
+    "reactions": "42 reactions",
     "comments": "Comments 4 comments",
     "url": "https://dev.to/axrisi/brewops-i-built-a-production-grade-htcpcp-server-because-nobody-else-would-3clh"
   },
   {
-    "title": "I Built a Local AI Agent That Audits My Own Articles. It Flagged Every Single One.",
-    "author": "Daniel Nwaneri",
-    "date": "2026-03-30",
-    "description": "Uses Claude and Browser Use for SEO auditsDaniel NwaneriDaniel NwaneriDaniel NwaneriFollowMar 30I Built a Local AI Agent That Audits My Own Articles. ...",
-    "tags": "#python, #automation, #ai, #webdev",
-    "reactions": "45 reactions",
-    "comments": "Comments 92 comments",
-    "url": "https://dev.to/dannwaneri/i-built-a-local-ai-agent-that-audits-my-own-articles-it-flagged-every-single-one-pkh"
+    "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
+    "author": "GDS K S",
+    "date": "2026-04-05",
+    "description": "GDS K SGDS K SGDS K SFollowApr 5I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi#ai#opensource#devtools#selfhosted17reactionsComments1commen...",
+    "tags": "#ai, #opensource, #devtools, #selfhosted",
+    "reactions": "17 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e"
   },
   {
     "title": "I've been building software for 40 years. But I want *you* to tell me about dev in 1986...",
@@ -55,7 +55,7 @@
     "date": "2026-04-01",
     "description": "Community guesses on mid-80s dev lifeJohn MunschJohn MunschJohn MunschFollowApr 1I've been building software for 40 years. But I want *you* to tell me...",
     "tags": "#discuss, #programming, #development, #watercooler",
-    "reactions": "38 reactions",
+    "reactions": "40 reactions",
     "comments": "Comments 36 comments",
     "url": "https://dev.to/johnmunsch/ive-been-building-software-for-40-years-but-i-want-you-to-tell-me-about-dev-in-1986-1pmj"
   },
@@ -63,11 +63,11 @@
     "title": "Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!",
     "author": "Jess Lee",
     "date": "2026-04-01",
-    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxNew Challenge Alert!!!Join our April Fools Challenge for a chance a...",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxIt’s time to lean into the chaos of the internet!!!Join our April F...",
     "tags": "#devchallenge, #418challenge",
-    "reactions": "91 reactions",
-    "comments": "Comments 16 comments",
-    "url": "https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa?bb=262894"
+    "reactions": "Comments Add Comment",
+    "comments": "0",
+    "url": "https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa?bb=262889"
   },
   {
     "title": "Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!",
@@ -75,9 +75,19 @@
     "date": "2026-04-01",
     "description": "Build software that is intentionally uselessJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 1Join our April Fools Challenge for a chance at TEA-RRIFI...",
     "tags": "#jokes, #devchallenge, #418challenge",
-    "reactions": "304 reactions",
-    "comments": "Comments 77 comments",
+    "reactions": "306 reactions",
+    "comments": "Comments 79 comments",
     "url": "https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa"
+  },
+  {
+    "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
+    "author": "Paulo Henrique",
+    "date": "2026-04-06",
+    "description": "April Fools Challenge Submission ☕️🤡Paulo HenriquePaulo HenriquePaulo HenriqueFollowApr 6Move over, Vibe-Coding: I built an AI editor for STRESS-CODIN...",
+    "tags": "#showdev, #devchallenge, #418challenge",
+    "reactions": "22 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243"
   },
   {
     "title": "PURESLOP.md — teach your AI agent to write terrible code.",
@@ -85,9 +95,19 @@
     "date": "2026-04-03",
     "description": "April Fools Challenge Submission ☕️🤡AlonsoAlonsoAlonsoFollowApr 3PURESLOP.md — teach your AI agent to write terrible code.#showdev#devchallenge#418cha...",
     "tags": "#showdev, #devchallenge, #418challenge, #agents",
-    "reactions": "16 reactions",
+    "reactions": "17 reactions",
     "comments": "Comments 13 comments",
     "url": "https://dev.to/alonsarias/pureslopmd-54ek"
+  },
+  {
+    "title": "Reflecting on \"dead\" communities, engagement, and AI",
+    "author": "Amara Graham",
+    "date": "2026-03-31",
+    "description": "How AI slop drives users awayAmara GrahamAmara GrahamAmara GrahamFollowMar 31Reflecting on \"dead\" communities, engagement, and AI#discuss#community#wa...",
+    "tags": "#discuss, #community, #watercooler",
+    "reactions": "19 reactions",
+    "comments": "Comments 11 comments",
+    "url": "https://dev.to/missamarakay/reflecting-on-dead-communities-engagement-and-ai-19hi"
   },
   {
     "title": "Surviving as a Human in the Age of AI",
@@ -96,7 +116,7 @@
     "description": "WeCoded 2026: Echoes of Experience 💜Jen LooperJen LooperJen LooperFollowMar 31Surviving as a Human in the Age of AI#ai#programming#career#wecoded76rea...",
     "tags": "#ai, #programming, #career, #wecoded",
     "reactions": "76 reactions",
-    "comments": "Comments 38 comments",
+    "comments": "Comments 41 comments",
     "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b"
   },
   {
@@ -115,19 +135,19 @@
     "date": "2026-04-01",
     "description": "Covers a source map leak and hidden featuresVarshith V HegdeVarshith V HegdeVarshith V HegdeFollowApr 1The Great Claude Code Leak of 2026: Accident, I...",
     "tags": "#webdev, #ai, #programming, #productivity",
-    "reactions": "184 reactions",
+    "reactions": "187 reactions",
     "comments": "Comments 56 comments",
     "url": "https://dev.to/varshithvhegde/the-great-claude-code-leak-of-2026-accident-incompetence-or-the-best-pr-stunt-in-ai-history-3igm"
   },
   {
     "title": "Top 7 Featured DEV Posts of the Week",
     "author": "Jess Lee",
-    "date": "2026-03-30",
-    "description": "Features AI culture and Pi hardware hacksJess LeeJess LeeJess LeeFollowforThe DEV TeamMar 30Top 7 Featured DEV Posts of the Week#discuss#top778reactio...",
+    "date": "2026-04-06",
+    "description": "Beaver-powered databases and ancient AIJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 6Top 7 Featured DEV Posts of the Week#discuss#top723reactionsC...",
     "tags": "#discuss, #top7",
-    "reactions": "78 reactions",
-    "comments": "Comments 19 comments",
-    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0"
+    "reactions": "23 reactions",
+    "comments": "Comments 4 comments",
+    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc"
   },
   {
     "title": "Trading My Body for Logic: The Physical Decay We Ignore",
@@ -150,33 +170,13 @@
     "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5"
   },
   {
-    "title": "What are your goals for the week? #172",
-    "author": "Chris Jarvis",
-    "date": "2026-03-30",
-    "description": "Job search goals and a first-time game jamChris JarvisChris JarvisChris JarvisFollowMar 30What are your goals for the week? #172#discuss#career#produc...",
-    "tags": "#discuss, #career, #productivity, #watercooler",
-    "reactions": "56 reactions",
-    "comments": "Comments 71 comments",
-    "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm"
-  },
-  {
-    "title": "What is your WPM (Words per Minute)? #1",
-    "author": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
-    "date": "2026-03-30",
-    "description": "Top scores will feature in a monthly reportFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowMar 30What is your WPM (Words per Minute)...",
-    "tags": "#discuss, #watercooler, #challenge, #community",
-    "reactions": "76 reactions",
-    "comments": "Comments 84 comments",
-    "url": "https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7"
-  },
-  {
     "title": "What was your win this week?",
     "author": "Jess Lee",
     "date": "2026-04-03",
-    "description": "Viral articles and career milestonesJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 3What was your win this week?#discuss#weeklyretro13reactionsComme...",
+    "description": "Viral articles and career milestonesJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 3What was your win this week?#discuss#weeklyretro14reactionsComme...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "13 reactions",
-    "comments": "Comments 32 comments",
+    "reactions": "14 reactions",
+    "comments": "Comments 38 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-2on5"
   },
   {
@@ -185,8 +185,8 @@
     "date": "2026-04-01",
     "description": "April Fools Challenge Submission ☕️🤡Malik Sohaib iqbalMalik Sohaib iqbalMalik Sohaib iqbalFollowApr 1🌪️ Proof of Work: The To-Do List of Infinite Regr...",
     "tags": "#showdev, #devchallenge, #418challenge, #webdev",
-    "reactions": "25 reactions",
-    "comments": "Comments 4 comments",
+    "reactions": "27 reactions",
+    "comments": "Comments 5 comments",
     "url": "https://dev.to/malik_sohaib_iqbal/proof-of-work-the-to-do-list-of-infinite-regret-48le"
   }
 ]

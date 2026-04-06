@@ -1,11 +1,45 @@
 [
   {
+    "title": "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
+    "url": "https://twitter.com/Suzierizzo1/status/2040864617467924865",
+    "author": "josephcsible",
+    "date": "2026-04-06",
+    "score": 257,
+    "comments": 261,
+    "id": 47662857,
+    "discussion_url": "https://news.ycombinator.com/item?id=47662857",
+    "description": "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-06T19:26:51.685900"
+  },
+  {
+    "title": "A cryptography engineer's perspective on quantum computing timelines",
+    "url": "https://words.filippo.io/crqc-timeline/",
+    "author": "thadt",
+    "date": "2026-04-06",
+    "score": 154,
+    "comments": 65,
+    "id": 47662234,
+    "discussion_url": "https://news.ycombinator.com/item?id=47662234",
+    "description": "A cryptography engineer's perspective on quantum computing timelines",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-06T19:26:51.685975"
+  },
+  {
     "title": "A tail-call interpreter in (nightly) Rust",
     "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
     "author": "g0xA52A2A",
     "date": "2026-04-05",
-    "score": 169,
-    "comments": 42,
+    "score": 186,
+    "comments": 50,
     "id": 47650312,
     "discussion_url": "https://news.ycombinator.com/item?id=47650312",
     "description": "A tail-call interpreter in (nightly) Rust",
@@ -14,32 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022991"
-  },
-  {
-    "title": "Aegis – open-source FPGA silicon",
-    "url": "https://github.com/MidstallSoftware/aegis",
-    "author": "rosscomputerguy",
-    "date": "2026-04-05",
-    "score": 137,
-    "comments": 32,
-    "id": 47646472,
-    "discussion_url": "https://news.ycombinator.com/item?id=47646472",
-    "description": "Aegis – open-source FPGA silicon",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023112"
+    "fetched_at": "2026-04-06T19:26:51.686127"
   },
   {
     "title": "An open-source 240-antenna array to bounce signals off the Moon",
     "url": "https://moonrf.com/",
     "author": "hillcrestenigma",
     "date": "2026-04-06",
-    "score": 126,
-    "comments": 15,
+    "score": 231,
+    "comments": 47,
     "id": 47656622,
     "discussion_url": "https://news.ycombinator.com/item?id=47656622",
     "description": "An open-source 240-antenna array to bounce signals off the Moon",
@@ -48,32 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022921"
-  },
-  {
-    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-    "url": "https://twitter.com/__tinygrad__/status/2039213719155310736",
-    "author": "naves",
-    "date": "2026-04-04",
-    "score": 505,
-    "comments": 232,
-    "id": 47640380,
-    "discussion_url": "https://news.ycombinator.com/item?id=47640380",
-    "description": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023120"
+    "fetched_at": "2026-04-06T19:26:51.685872"
   },
   {
     "title": "Artemis II crew see first glimpse of far side of Moon [video]",
     "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
     "author": "mooreds",
     "date": "2026-04-05",
-    "score": 487,
-    "comments": 373,
+    "score": 508,
+    "comments": 395,
     "id": 47649721,
     "discussion_url": "https://news.ycombinator.com/item?id=47649721",
     "description": "Artemis II crew see first glimpse of far side of Moon [video]",
@@ -82,15 +82,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023011"
+    "fetched_at": "2026-04-06T19:26:51.686109"
+  },
+  {
+    "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+    "url": "https://www.wesnoth.org",
+    "author": "akyuu",
+    "date": "2026-04-06",
+    "score": 171,
+    "comments": 47,
+    "id": 47664186,
+    "discussion_url": "https://news.ycombinator.com/item?id=47664186",
+    "description": "Battle for Wesnoth: open-source, turn-based strategy game",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-06T19:26:51.685858"
   },
   {
     "title": "Caveman: Why use many token when few token do trick",
     "url": "https://github.com/JuliusBrussee/caveman",
     "author": "tosh",
     "date": "2026-04-05",
-    "score": 775,
-    "comments": 338,
+    "score": 839,
+    "comments": 351,
     "id": 47647455,
     "discussion_url": "https://news.ycombinator.com/item?id=47647455",
     "description": "Caveman: Why use many token when few token do trick",
@@ -99,14 +116,31 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023007"
+    "fetched_at": "2026-04-06T19:26:51.686118"
+  },
+  {
+    "title": "Claude Code is unusable for complex engineering tasks with the Feb updates",
+    "url": "https://github.com/anthropics/claude-code/issues/42796",
+    "author": "StanAngeloff",
+    "date": "2026-04-06",
+    "score": 448,
+    "comments": 317,
+    "id": 47660925,
+    "discussion_url": "https://news.ycombinator.com/item?id=47660925",
+    "description": "Claude Code is unusable for complex engineering tasks with the Feb updates",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-06T19:26:51.685923"
   },
   {
     "title": "Computational Physics (2nd Edition) (2025)",
     "url": "https://websites.umich.edu/~mejn/cp2/",
     "author": "teleforce",
     "date": "2026-04-05",
-    "score": 146,
+    "score": 171,
     "comments": 20,
     "id": 47650502,
     "discussion_url": "https://news.ycombinator.com/item?id=47650502",
@@ -116,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022995"
+    "fetched_at": "2026-04-06T19:26:51.686101"
   },
   {
     "title": "Eight years of wanting, three months of building with AI",
     "url": "https://lalitm.com/post/building-syntaqlite-ai/",
     "author": "brilee",
     "date": "2026-04-05",
-    "score": 799,
-    "comments": 246,
+    "score": 893,
+    "comments": 281,
     "id": 47648828,
     "discussion_url": "https://news.ycombinator.com/item?id=47648828",
     "description": "Eight years of wanting, three months of building with AI",
@@ -133,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022999"
+    "fetched_at": "2026-04-06T19:26:51.686122"
   },
   {
     "title": "Employers use your personal data to figure out the lowest salary you'll accept",
     "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
     "author": "thisislife2",
     "date": "2026-04-06",
-    "score": 241,
-    "comments": 140,
+    "score": 402,
+    "comments": 255,
     "id": 47655466,
     "discussion_url": "https://news.ycombinator.com/item?id=47655466",
     "description": "Employers use your personal data to figure out the lowest salary you'll accept",
@@ -150,32 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022971"
-  },
-  {
-    "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
-    "author": "Growtika",
-    "date": "2026-04-05",
-    "score": 360,
-    "comments": 256,
-    "id": 47649113,
-    "discussion_url": "https://news.ycombinator.com/item?id=47649113",
-    "description": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023059"
+    "fetched_at": "2026-04-06T19:26:51.686083"
   },
   {
     "title": "France pulls last gold held in US for $15B gain",
     "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
     "author": "teleforce",
     "date": "2026-04-06",
-    "score": 154,
-    "comments": 107,
+    "score": 502,
+    "comments": 276,
     "id": 47658146,
     "discussion_url": "https://news.ycombinator.com/item?id=47658146",
     "description": "France pulls last gold held in US for $15B gain",
@@ -184,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022905"
+    "fetched_at": "2026-04-06T19:26:51.685911"
   },
   {
     "title": "Friendica – A Decentralized Social Network",
     "url": "https://friendi.ca/",
     "author": "janandonly",
     "date": "2026-04-05",
-    "score": 151,
-    "comments": 55,
+    "score": 158,
+    "comments": 57,
     "id": 47648048,
     "discussion_url": "https://news.ycombinator.com/item?id=47648048",
     "description": "Friendica – A Decentralized Social Network",
@@ -201,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023043"
+    "fetched_at": "2026-04-06T19:26:51.686130"
   },
   {
     "title": "Gemma 4 on iPhone",
     "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
     "author": "janandonly",
     "date": "2026-04-05",
-    "score": 661,
-    "comments": 187,
+    "score": 812,
+    "comments": 226,
     "id": 47652561,
     "discussion_url": "https://news.ycombinator.com/item?id=47652561",
     "description": "Gemma 4 on iPhone",
@@ -218,66 +235,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022942"
+    "fetched_at": "2026-04-06T19:26:51.686009"
   },
   {
-    "title": "German implementation of eIDAS will require an Apple/Google account to function",
-    "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-    "author": "DyslexicAtheist",
-    "date": "2026-04-04",
-    "score": 551,
-    "comments": 601,
-    "id": 47644406,
-    "discussion_url": "https://news.ycombinator.com/item?id=47644406",
-    "description": "German implementation of eIDAS will require an Apple/Google account to function",
+    "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
+    "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+    "author": "Bender",
+    "date": "2026-04-06",
+    "score": 200,
+    "comments": 93,
+    "id": 47660954,
+    "discussion_url": "https://news.ycombinator.com/item?id=47660954",
+    "description": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023097"
+    "fetched_at": "2026-04-06T19:26:51.685890"
   },
   {
-    "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
-    "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-    "author": "rbanffy",
-    "date": "2026-04-05",
-    "score": 172,
-    "comments": 207,
-    "id": 47654620,
-    "discussion_url": "https://news.ycombinator.com/item?id=47654620",
-    "description": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+    "title": "I won't download your app. The web version is a-ok",
+    "url": "https://www.0xsid.com/blog/wont-download-your-app",
+    "author": "ssiddharth",
+    "date": "2026-04-06",
+    "score": 690,
+    "comments": 386,
+    "id": 47661439,
+    "discussion_url": "https://news.ycombinator.com/item?id=47661439",
+    "description": "I won't download your app. The web version is a-ok",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023015"
-  },
-  {
-    "title": "LibreOffice – Let's put an end to the speculation",
-    "url": "https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/",
-    "author": "eisa01",
-    "date": "2026-04-05",
-    "score": 179,
-    "comments": 108,
-    "id": 47652324,
-    "discussion_url": "https://news.ycombinator.com/item?id=47652324",
-    "description": "LibreOffice – Let's put an end to the speculation",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023093"
+    "fetched_at": "2026-04-06T19:26:51.685952"
   },
   {
     "title": "LÖVE: 2D Game Framework for Lua",
     "url": "https://github.com/love2d/love",
     "author": "cl3misch",
     "date": "2026-04-04",
-    "score": 317,
-    "comments": 144,
+    "score": 394,
+    "comments": 201,
     "id": 47637377,
     "discussion_url": "https://news.ycombinator.com/item?id=47637377",
     "description": "LÖVE: 2D Game Framework for Lua",
@@ -286,32 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022950"
-  },
-  {
-    "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
-    "url": "https://github.com/mikf/gallery-dl/discussions/9304",
-    "author": "MoltenMonster",
-    "date": "2026-04-06",
-    "score": 157,
-    "comments": 48,
-    "id": 47656659,
-    "discussion_url": "https://news.ycombinator.com/item?id=47656659",
-    "description": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023003"
+    "fetched_at": "2026-04-06T19:26:51.685947"
   },
   {
     "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
     "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
     "author": "naves",
     "date": "2026-04-05",
-    "score": 505,
-    "comments": 328,
+    "score": 737,
+    "comments": 525,
     "id": 47651703,
     "discussion_url": "https://news.ycombinator.com/item?id=47651703",
     "description": "Microsoft hasn't had a coherent GUI strategy since Petzold",
@@ -320,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022955"
+    "fetched_at": "2026-04-06T19:26:51.685956"
   },
   {
     "title": "Music for Programming",
     "url": "https://musicforprogramming.net",
     "author": "merusame",
     "date": "2026-04-05",
-    "score": 215,
-    "comments": 89,
+    "score": 317,
+    "comments": 159,
     "id": 47652322,
     "discussion_url": "https://news.ycombinator.com/item?id=47652322",
     "description": "Music for Programming",
@@ -337,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022885"
+    "fetched_at": "2026-04-06T19:26:51.686051"
   },
   {
     "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
     "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
     "author": "desideratum",
     "date": "2026-04-05",
-    "score": 190,
-    "comments": 26,
+    "score": 202,
+    "comments": 27,
     "id": 47649742,
     "discussion_url": "https://news.ycombinator.com/item?id=47649742",
     "description": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
@@ -354,32 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023022"
-  },
-  {
-    "title": "OpenAI's fall from grace as investors race to Anthropic",
-    "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
-    "author": "1vuio0pswjnm7",
-    "date": "2026-04-05",
-    "score": 169,
-    "comments": 107,
-    "id": 47655058,
-    "discussion_url": "https://news.ycombinator.com/item?id=47655058",
-    "description": "OpenAI's fall from grace as investors race to Anthropic",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023075"
+    "fetched_at": "2026-04-06T19:26:51.686105"
   },
   {
     "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
     "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
     "author": "vbtechguy",
     "date": "2026-04-05",
-    "score": 287,
-    "comments": 71,
+    "score": 382,
+    "comments": 94,
     "id": 47651540,
     "discussion_url": "https://news.ycombinator.com/item?id=47651540",
     "description": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
@@ -388,49 +354,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022963"
+    "fetched_at": "2026-04-06T19:26:51.686032"
   },
   {
-    "title": "Scientists Figured Out How Eels Reproduce (2022)",
-    "url": "https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/",
-    "author": "thunderbong",
-    "date": "2026-04-01",
-    "score": 116,
-    "comments": 22,
-    "id": 47607408,
-    "discussion_url": "https://news.ycombinator.com/item?id=47607408",
-    "description": "Scientists Figured Out How Eels Reproduce (2022)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023071"
-  },
-  {
-    "title": "Show HN: A game where you build a GPU",
-    "url": "https://jaso1024.com/mvidia/",
-    "author": "Jaso1024",
+    "title": "Sheets Spreadsheets in Your Terminal",
+    "url": "https://github.com/maaslalani/sheets",
+    "author": "_____k",
     "date": "2026-04-04",
-    "score": 917,
-    "comments": 178,
-    "id": 47640728,
-    "discussion_url": "https://news.ycombinator.com/item?id=47640728",
-    "description": "Show HN: A game where you build a GPU",
+    "score": 174,
+    "comments": 47,
+    "id": 47636456,
+    "discussion_url": "https://news.ycombinator.com/item?id=47636456",
+    "description": "Sheets Spreadsheets in Your Terminal",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023067"
+    "fetched_at": "2026-04-06T19:26:51.686041"
   },
   {
     "title": "Show HN: I built a tiny LLM to demystify how language models work",
     "url": "https://github.com/arman-bd/guppylm",
     "author": "armanified",
     "date": "2026-04-06",
-    "score": 531,
-    "comments": 56,
+    "score": 796,
+    "comments": 121,
     "id": 47655408,
     "discussion_url": "https://news.ycombinator.com/item?id=47655408",
     "description": "Show HN: I built a tiny LLM to demystify how language models work",
@@ -439,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022866"
+    "fetched_at": "2026-04-06T19:26:51.685970"
   },
   {
     "title": "Show HN: I made a YouTube search form with advanced filters",
     "url": "https://playlists.at/youtube/search/",
     "author": "nevernothing",
     "date": "2026-04-06",
-    "score": 242,
-    "comments": 145,
+    "score": 297,
+    "comments": 191,
     "id": 47655392,
     "discussion_url": "https://news.ycombinator.com/item?id=47655392",
     "description": "Show HN: I made a YouTube search form with advanced filters",
@@ -456,15 +405,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022984"
+    "fetched_at": "2026-04-06T19:26:51.686087"
+  },
+  {
+    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "url": "https://github.com/fikrikarim/parlor",
+    "author": "karimf",
+    "date": "2026-04-05",
+    "score": 236,
+    "comments": 26,
+    "id": 47652007,
+    "discussion_url": "https://news.ycombinator.com/item?id=47652007",
+    "description": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-06T19:26:51.685999"
+  },
+  {
+    "title": "Signals, the push-pull based algorithm",
+    "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+    "author": "mpweiher",
+    "date": "2026-04-04",
+    "score": 141,
+    "comments": 34,
+    "id": 47637116,
+    "discussion_url": "https://news.ycombinator.com/item?id=47637116",
+    "description": "Signals, the push-pull based algorithm",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-06T19:26:51.686018"
   },
   {
     "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
     "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
     "author": "keepamovin",
     "date": "2026-04-06",
-    "score": 139,
-    "comments": 87,
+    "score": 250,
+    "comments": 162,
     "id": 47656501,
     "discussion_url": "https://news.ycombinator.com/item?id=47656501",
     "description": "The 1987 game “The Last Ninja” was 40 kilobytes",
@@ -473,32 +456,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022915"
+    "fetched_at": "2026-04-06T19:26:51.685938"
   },
   {
-    "title": "The threat is comfortable drift toward not understanding what you're doing",
-    "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-    "author": "zaikunzhang",
-    "date": "2026-04-05",
-    "score": 881,
-    "comments": 580,
-    "id": 47647788,
-    "discussion_url": "https://news.ycombinator.com/item?id=47647788",
-    "description": "The threat is comfortable drift toward not understanding what you're doing",
+    "title": "The Cult of Vibe Coding Is Insane",
+    "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+    "author": "drob518",
+    "date": "2026-04-06",
+    "score": 141,
+    "comments": 77,
+    "id": 47664912,
+    "discussion_url": "https://news.ycombinator.com/item?id=47664912",
+    "description": "The Cult of Vibe Coding Is Insane",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.023047"
+    "fetched_at": "2026-04-06T19:26:51.685895"
+  },
+  {
+    "title": "What being ripped off taught me",
+    "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
+    "author": "doctorhandshake",
+    "date": "2026-04-06",
+    "score": 237,
+    "comments": 141,
+    "id": 47660286,
+    "discussion_url": "https://news.ycombinator.com/item?id=47660286",
+    "description": "What being ripped off taught me",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-06T19:26:51.685961"
   },
   {
     "title": "Why Switzerland has 25 Gbit internet and America doesn't",
     "url": "https://sschueller.github.io/posts/the-free-market-lie/",
     "author": "sschueller",
     "date": "2026-04-05",
-    "score": 531,
-    "comments": 412,
+    "score": 727,
+    "comments": 608,
     "id": 47652400,
     "discussion_url": "https://news.ycombinator.com/item?id=47652400",
     "description": "Why Switzerland has 25 Gbit internet and America doesn't",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-06T11:21:47.022925"
+    "fetched_at": "2026-04-06T19:26:51.686037"
   }
 ]
