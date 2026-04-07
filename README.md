@@ -4,9 +4,7 @@ Gets tech news from 11+ sources with AI summaries.
 
 ## Setup
 
-```bash
-poetry install
-```
+`bash poetry install `
 
 ## Daily Routine (2 min)
 
@@ -27,6 +25,7 @@ poetry run scraper summarize --quiet
 ## Review (5 min)
 
 Check `data/YYYY-MM-DD/`:
+
 - `summaries/` - AI analysis of trending stuff
 - `content/` - Full articles if you want details
 
@@ -46,10 +45,12 @@ Check `data/YYYY-MM-DD/`:
 ## Migration from Old Commands
 
 The `poetry run daily` command has been replaced with:
+
 - `poetry run scraper scrape` - Scrape content
 - `poetry run scraper summarize` - Generate AI summaries
 
 For the old `daily --quick` behavior, use:
+
 ```bash
 poetry run scraper scrape --quick
 poetry run scraper summarize
