@@ -1,23 +1,23 @@
 [
   {
-    "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
-    "author": "Ryan Swift",
-    "date": "2026-04-01",
-    "description": "Vibe coding and human-AI adoption frictionRyan SwiftRyan SwiftRyan SwiftFollowApr 13 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Human...",
-    "tags": "#discuss, #ai, #mlh, #opensource",
-    "reactions": "44 reactions",
-    "comments": "Comments 10 comments",
-    "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln"
-  },
-  {
     "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
     "author": "Sylwia Laskowska",
     "date": "2026-04-02",
     "description": "Native voice input and idle task APIsSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowApr 29 Things You’re Overengineering (The Browser Already S...",
     "tags": "#webdev, #javascript, #css, #browser",
-    "reactions": "213 reactions",
+    "reactions": "216 reactions",
     "comments": "Comments 96 comments",
     "url": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99"
+  },
+  {
+    "title": "AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler",
+    "author": "Asmae",
+    "date": "2026-04-08",
+    "description": "April Fools Challenge Submission ☕️🤡AsmaeAsmaeAsmaeFollowApr 8AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI ...",
+    "tags": "#showdev, #devchallenge, #418challenge",
+    "reactions": "11 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/asamaes/as-htcpcp-ai-butler-the-ai-that-brews-chaos-not-coffee-418-chaos-your-useless-ai-butler-18m0"
   },
   {
     "title": "BrewOps: I built a production-grade HTCPCP server because nobody else would",
@@ -30,14 +30,14 @@
     "url": "https://dev.to/axrisi/brewops-i-built-a-production-grade-htcpcp-server-because-nobody-else-would-3clh"
   },
   {
-    "title": "Drop Your Challenge Submission Here - v1",
-    "author": "Nikoloz Turazashvili (@axrisi)",
-    "date": "2026-04-01",
-    "description": "Satirical ESLint rules and tea orchestrationNikoloz Turazashvili (@axrisi)Nikoloz Turazashvili (@axrisi)Nikoloz Turazashvili (@axrisi)FollowApr 1Drop ...",
-    "tags": "#418challenge",
-    "reactions": "23 reactions",
-    "comments": "Comments 24 comments",
-    "url": "https://dev.to/axrisi/drop-your-challenge-submission-here-v1-11e8"
+    "title": "Forem (Dev.to) is slow, so I del...optimized it.",
+    "author": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
+    "date": "2026-04-07",
+    "description": "April Fools Challenge Submission ☕️🤡FrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowApr 7Forem (Dev.to) is slow, so I del...optimize...",
+    "tags": "#showdev, #devchallenge, #418challenge, #discuss",
+    "reactions": "38 reactions",
+    "comments": "Comments 10 comments",
+    "url": "https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln"
   },
   {
     "title": "Forged Between Coal and Code",
@@ -50,13 +50,23 @@
     "url": "https://dev.to/anchildress1/forged-between-coal-and-code-phi"
   },
   {
+    "title": "Google Maps for Codebases: Paste a GitHub URL, Ask Anything",
+    "author": "Anmol Baranwal",
+    "date": "2026-04-06",
+    "description": "Live dependency graphs and local LLM supportAnmol BaranwalAnmol BaranwalAnmol BaranwalFollowforCopilotKitApr 6Google Maps for Codebases: Paste a GitHu...",
+    "tags": "#javascript, #opensource, #tutorial, #ai",
+    "reactions": "117 reactions",
+    "comments": "Comments 14 comments",
+    "url": "https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"
+  },
+  {
     "title": "How to Supervise AI Coding Agents Without Losing Your Mind",
     "author": "Batty",
     "date": "2026-04-04",
     "description": "Multi-agent isolation via Git worktreesBattyBattyBattyFollowApr 4How to Supervise AI Coding Agents Without Losing Your Mind#ai#devtools#productivity#t...",
     "tags": "#ai, #devtools, #productivity, #tutorial",
-    "reactions": "15 reactions",
-    "comments": "Comments 14 comments",
+    "reactions": "20 reactions",
+    "comments": "Comments 16 comments",
     "url": "https://dev.to/battyterm/how-to-supervise-ai-coding-agents-without-losing-your-mind-53m4"
   },
   {
@@ -70,24 +80,14 @@
     "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e"
   },
   {
-    "title": "I've been building software for 40 years. But I want *you* to tell me about dev in 1986...",
-    "author": "John Munsch",
-    "date": "2026-04-01",
-    "description": "Community guesses on mid-80s dev lifeJohn MunschJohn MunschJohn MunschFollowApr 1I've been building software for 40 years. But I want *you* to tell me...",
-    "tags": "#discuss, #programming, #development, #watercooler",
-    "reactions": "41 reactions",
-    "comments": "Comments 42 comments",
-    "url": "https://dev.to/johnmunsch/ive-been-building-software-for-40-years-but-i-want-you-to-tell-me-about-dev-in-1986-1pmj"
-  },
-  {
-    "title": "Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!",
-    "author": "Jess Lee",
-    "date": "2026-04-01",
-    "description": "Build software that is intentionally uselessJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 1Join our April Fools Challenge for a chance at TEA-RRIFI...",
-    "tags": "#jokes, #devchallenge, #418challenge",
-    "reactions": "313 reactions",
-    "comments": "Comments 81 comments",
-    "url": "https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa"
+    "title": "I Built a Website Whose Only Feature Is Explaining How It Builds Itself",
+    "author": "dtannen",
+    "date": "2026-04-08",
+    "description": "April Fools Challenge Submission ☕️🤡dtannendtannendtannenFollowApr 8I Built a Website Whose Only Feature Is Explaining How It Builds Itself#showdev#de...",
+    "tags": "#showdev, #devchallenge, #418challenge",
+    "reactions": "12 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/dtannen/i-built-a-website-whose-only-feature-is-explaining-how-it-builds-itself-4l92"
   },
   {
     "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
@@ -105,7 +105,7 @@
     "date": "2026-04-05",
     "description": "Alicia Marianne 🇧🇷Alicia Marianne 🇧🇷Alicia Marianne 🇧🇷FollowforHe4rt DevelopersApr 5O que uma usina nuclear tem a ver com o seu processo de QA?#brazil...",
     "tags": "#braziliandevs, #testing, #qa, #software",
-    "reactions": "82 reactions",
+    "reactions": "83 reactions",
     "comments": "Comments 1 comment",
     "url": "https://dev.to/he4rt/o-que-uma-usina-nuclear-tem-a-ver-com-o-seu-processo-de-qa-103j"
   },
@@ -115,8 +115,8 @@
     "date": "2026-04-06",
     "description": "Bypassing redundant steps to cut LLM costsConnie LeungConnie LeungConnie LeungFollowforGoogle Developer ExpertsApr 6Observability at Scale: Mastering ...",
     "tags": "#agents, #tutorial, #ai, #typescript",
-    "reactions": "22 reactions",
-    "comments": "Comments 8 comments",
+    "reactions": "26 reactions",
+    "comments": "Comments 9 comments",
     "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5"
   },
   {
@@ -133,9 +133,9 @@
     "title": "Top 7 Featured DEV Posts of the Week",
     "author": "Jess Lee",
     "date": "2026-04-06",
-    "description": "Beaver-powered databases and ancient AIJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 6Top 7 Featured DEV Posts of the Week#discuss#top757reactionsC...",
+    "description": "Beaver-powered databases and ancient AIJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 6Top 7 Featured DEV Posts of the Week#discuss#top758reactionsC...",
     "tags": "#discuss, #top7",
-    "reactions": "57 reactions",
+    "reactions": "58 reactions",
     "comments": "Comments 10 comments",
     "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc"
   },
@@ -160,14 +160,14 @@
     "url": "https://dev.to/devteam/what-was-your-win-this-week-2on5"
   },
   {
-    "title": "When Chrome Ate My RAM: Designing a Pressure-Aware Tab Orchestrator with Rust",
-    "author": "Tasos Nikolaou",
-    "date": "2026-04-01",
-    "description": "Prioritizes system metrics over idle timersTasos NikolaouTasos NikolaouTasos NikolaouFollowApr 1When Chrome Ate My RAM: Designing a Pressure-Aware Tab...",
-    "tags": "#rust, #chromeextension, #architecture, #performance",
-    "reactions": "11 reactions",
-    "comments": "Comments 7 comments",
-    "url": "https://dev.to/tasenikol/when-chrome-ate-my-ram-designing-a-pressure-aware-tab-orchestrator-with-rust-1g05"
+    "title": "Your accessibility score is lying to you",
+    "author": "Chris",
+    "date": "2026-04-07",
+    "description": "ChrisChrisChrisFollowApr 7Your accessibility score is lying to you#a11y#frontend#automation#lighthouse13reactionsCommentsAdd Comment4 min read",
+    "tags": "#a11y, #frontend, #automation, #lighthouse",
+    "reactions": "13 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/chris_devto/your-accessibility-score-is-lying-to-you-5fh2"
   },
   {
     "title": "🌪️ Proof of Work: The To-Do List of Infinite Regret",
