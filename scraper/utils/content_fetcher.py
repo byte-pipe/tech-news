@@ -129,11 +129,29 @@ class ContentFetcher(SessionManagerMixin):
 
             return metadata
 
+        # Skip non-HTML URLs (PDFs, images, videos, etc.) based on URL extension
+        _skip_extensions = {".pdf", ".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".mp4", ".mp3", ".wav", ".zip", ".tar", ".gz", ".bz2", ".xz", ".rar", ".7z", ".exe", ".dmg", ".iso", ".bin", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx"}
+        parsed_url = urlparse(url)
+        url_ext = os.path.splitext(parsed_url.path)[1].lower()
+        if url_ext in _skip_extensions:
+            logger.info(f"Skipping non-HTML URL ({url_ext}): {url}")
+            metadata["skipped"] = True
+            metadata["skip_reason"] = f"non_html_content ({url_ext})"
+            return metadata
+
         # Fetch the page content
         try:
             logger.info(f"Fetching content from {url}")
             response = self.session.get(url, timeout=DEFAULT_REQUEST_TIMEOUT)
             response.raise_for_status()
+
+            # Skip non-HTML responses based on Content-Type header
+            content_type = response.headers.get("Content-Type", "").lower()
+            if content_type and not any(t in content_type for t in ("text/html", "text/plain", "application/xhtml")):
+                logger.info(f"Skipping non-HTML response (Content-Type: {content_type}): {url}")
+                metadata["skipped"] = True
+                metadata["skip_reason"] = f"non_html_content ({content_type})"
+                return metadata
 
             # Extract content
             soup = BeautifulSoup(response.content, "html.parser")
