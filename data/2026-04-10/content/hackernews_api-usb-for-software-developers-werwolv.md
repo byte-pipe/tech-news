@@ -1,0 +1,1129 @@
+---
+title: USB for Software Developers | WerWolv
+url: https://werwolv.net/posts/usb_for_sw_devs/
+site_name: hackernews_api
+content_file: hackernews_api-usb-for-software-developers-werwolv
+fetched_at: '2026-04-10T06:00:16.265710'
+original_url: https://werwolv.net/posts/usb_for_sw_devs/
+author: WerWolv
+date: '2026-04-09'
+description: A basic introduction to USB for people that don't need to know what happens on the wire
+tags:
+- hackernews
+- trending
+---
+
+Overview
+
+* 01Introduction
+* 02The USB Device
+* 03Enumerating the device by hand
+* 04Basic Information
+* 05Class and Driver Information
+* 06Enumerating the device with libusb
+* 07Talking to the device
+* 08Requesting our first data
+* 09Requesting a Descriptor
+* 10Endpoints
+* 11Control Transfer Type
+* 12Bulk Transfer Type
+* 13Interrupt Transfer Type
+* 14Isochronous Transfer Type
+* 15In / Out Endpoints
+* 16Fastboot, finally
+* 17Final Words
+ 
+ 
+ 
+ 
+
+# Introductionh1
+
+Say you’re being handed a USB device and told to write a driver for it. Seems like a daunting task at first, right? Writing drivers means you have to write Kernel code, and writing Kernel code is hard, low level, hard to debug and so on.
+
+None of this is actually true though. Writing a driver for a USB device is actually not much more difficult than writing an application that uses Sockets.
+
+This post aims to be a high level introduction to using USB for people who may not have worked with Hardware too much yet and just want to use the technology. There are amazing resources out there such asUSB in a NutShellthat go into a lot of detail about how USB precisely works (check them out if you want more information), they are however not really approachable for somebody who has never worked with USB before and doesn’t have a certain background in Hardware. You don’t need to be an Embedded Systems Engineer to use USB the same way you don’t need to be a Network Specialist to use Sockets and the Internet.
+
+# The USB Deviceh1
+
+The device we’ll be using an Android phone in Bootloader mode. The reason for this is that
+
+* It’s a device you can easily get your hands on
+* The protocol it uses is well documented and incredibly simple
+* Drivers for it are generally not pre-installed on your system so the OS will not interfere with our experiments
+
+Getting the phone into Bootloader mode is different for every device, but usually involves holding down a combination of buttons while the phone is starting up. In my case it’s holding the volume down button while powering on the phone
+
+# Enumerating the device by handh1
+
+Enumeration refers to the process of the host asking the device for information about itself. This happens automatically when you plug in the device and it’s where the OS normally decides which driver to load for the device. For most standard devices, the OS will look at the USB Device Class and loads a driver that supports that class. For vendor specific devices, you generally install a driver made by the manufacturer which will look at theVID(Vendor ID) andPID(Product ID) instead to detect whether or not it should handle the device.
+
+## Basic Informationh2
+
+Even without a driver, plugging the phone into your computer will still make it get recognized as a USB device. That’s because theUSB specificationdefines a standard way for devices to identify themselves to the host, more on how that exactly works in a bit though.
+
+On Linux, we can use the handylsusbtool to see what the device identified itself as:
+
+lsusb
+$ lsusb
+...
+Bus 008 Device 014: ID 18d1:4ee0 Google Inc. Nexus/Pixel Device (fastboot)
+...
+
+BusandDeviceare just identifiers for the physical USB port the device is plugged into. They will most likely differ on your system since they depend on which port you plugged the device into.IDis the most interesting part here. The first part18d1is the Vendor ID (VID) and the second part4ee0is the Product ID (PID). These are identifiers that the device sends to the host to identify itself. TheVIDis assigned by the USB-IF to companies that pay them a lot of money, in this case Google, and thePIDis assigned by the company to a specific product, in this case the Nexus/Pixel Bootloader.
+
+## Class and Driver Informationh2
+
+Using thelsusb -tcommand we can also see the device’s USB class and what driver is currently handling it:
+
+lsusb
+$ lsusb -t
+...
+/: Bus 008.Port 001: Dev 001, Class=root_hub, Driver=xhci_hcd/1p, 480M
+ 
+|__ Port 001: Dev 002, If 0, Class=Hub, Driver=hub/4p, 480M
+ 
+|__ Port 003: Dev 003, If 0, Class=Hub, Driver=hub/4p, 480M
+ 
+|__ Port 002: Dev 014, If 0, Class=Vendor Specific Class, Driver=[none], 480M
+...
+
+This shows the entire tree of USB devices connected to the system. The bottom most one in this part of the tree is our device (Bus 008, Device 014 as reported in the previous command).
+TheClass=Vendor Specific Classpart specifies that the device does not use any of the standard USB classes (e.g HID, Mass Storage or Audio) but instead uses a custom protocol defined by the manufacturer.
+TheDriver=[none]part simply tells us that the OS didn’t load a driver for the device which is good for us since we want to write our own.
+
+#### Note for Windows
+
+If you’re on Windows, you won’t havelsusbbut you can still find most of this information using the Device Manager or tools likeUSB Device Tree Viewer
+
+We will also go after theVIDandPIDsince they are the only real identifying information we have. The Device Class is not very useful for it here since it’s justVendor Specific Classwhich any manufacturer can use for any device. Instead of doing all of this in the Kernel though, we can write a Userspace application that does the same thing. This is much easier to write and debug (and is arguably the correct place for drivers to live anyway but that’s a different topic). To do this, we can use thelibusblibrary which provides a simple API for communicating with USB devices from Userspace. It achieves this by providing a generic driver that can be loaded for any device and then provides a way for Userspace applications to claim the device and talk to it directly.
+
+# Enumerating the device withlibusbh1
+
+The same thing we just did manually can also be done in software though. The following program initializeslibusb, registers a hotplug event handler for devices matching the18d1:4ee0VendorId / ProductId combination and then waits for that device to be plugged into the host.
+
+main.cpp
+#include
+ 
+<
+print
+>
+#include
+ 
+<
+libusb-1.0/libusb.h
+>
+
+auto
+ 
+hotplug_callback
+(
+ 
+libusb_context
+ 
+*
+ctx
+,
+ 
+libusb_device
+ 
+*
+device
+,
+ 
+libusb_hotplug_event
+ 
+event
+,
+ 
+void
+ 
+*
+user_data
+)
+ 
+->
+ 
+int
+ 
+{
+ 
+std
+::
+println
+(
+"
+Device plugged in!
+\n
+"
+);
+
+ 
+return
+ 
+0
+;
+}
+
+auto
+ 
+main
+()
+ 
+->
+ 
+int
+ 
+{
+ 
+// Create a context so we can interact with the libusb driver
+ 
+libusb_context 
+*
+context 
+=
+ 
+nullptr
+;
+ 
+libusb_init
+(
+&
+context
+);
+
+ 
+// Register a hotplug event handler to wait for our device to be plugged in
+ 
+libusb_hotplug_callback_handle hotplug_callback_handle
+;
+ 
+libusb_hotplug_register_callback
+(
+ 
+context
+,
+ 
+LIBUSB_HOTPLUG_EVENT_DEVICE_ARRIVED
+,
+ // Device plugged in event
+ 
+LIBUSB_HOTPLUG_ENUMERATE
+,
+ // Fire event for already plugged in devices
+ 
+0x18d1
+,
+ 
+0x4ee0
+,
+ // The VID and PID we found previously
+ 
+LIBUSB_HOTPLUG_MATCH_ANY
+,
+ // Match any USB Class
+ 
+hotplug_callback
+,
+ 
+nullptr
+,
+ // The callback to call
+ 
+&
+hotplug_callback_handle
+ 
+);
+
+ 
+// Handle the libusb events
+ 
+while
+ 
+(
+true
+)
+ 
+{
+ 
+if
+ 
+(
+libusb_handle_events
+(
+context
+)
+ 
+<
+ 
+0
+)
+ 
+break
+;
+ 
+}
+
+ 
+// Clean up
+ 
+libusb_hotplug_deregister_callback
+(
+context
+,
+ hotplug_callback_handle
+);
+ 
+libusb_exit
+(
+context
+);
+}
+
+If you compile and run this, plugging in the device should result in the following output:
+
+libusb_enumerate
+$ ./libusb_enumerate
+
+Device plugged in!
+
+Congrats! You have a program now that can detect your device without ever having to touch any Kernel code at all.
+
+#### Note for Windows
+
+On Linux, all of this will generally just work. If for any reason a driver anyway being loaded, you can forcefully detach it usinglibusb_detach_kernel_driver().
+
+On Windows, things may look different. If you’re lucky, the device has aMicrosoft OS Descriptorthat tells Windows to load theWinusb.sysdriver for your device. In that case,libusbcan talk to it directly. However if no driver was loaded (the device shows up in the Device Manager with a little ⚠️ icon), you might need to useZadigto force-replace the driver of the device withWinusb.sysor another supported driver. More information can be found here:libusb Wiki
+
+# Talking to the deviceh1
+
+Next step, getting any answer from the device. The easiest way to do that for now is by using the standardizedControlendpoint. This endpoint is always on ID0x00and has a standardized protocol.
+This endpoint is also what the OS previously used to identify the device and get itsVID:PID.
+
+We’re getting a bit ahead of ourselves here since we don’t even know what endpoints are but it will all make sense in a bit, I promise. For now, simply think of Endpoints as Ports of a Device on the network with a specific number that we send data to.
+
+## Requesting our first datah2
+
+The way we use this endpoint is with yet anotherlibusbfunction that’s made specifically to send requests to that endpoint. So we can extend our hotplug event handler using the following code:
+
+main.cpp
+// Open the device so we can communicate with it
+libusb_device_handle 
+*
+handle 
+=
+ 
+nullptr
+;
+libusb_open
+(
+device
+,
+ 
+&
+handle
+);
+
+std
+::
+vector
+<
+std
+::
+uint8_t
+>
+ 
+data
+(
+0xFF
+);
+
+// Do a Control transfer
+const
+ 
+auto
+ result 
+=
+ 
+libusb_control_transfer
+(
+ 
+handle
+,
+ 
+uint8_t
+(
+LIBUSB_ENDPOINT_IN
+)
+ 
+|
+ // Ask for data from the device...
+ 
+LIBUSB_RECIPIENT_DEVICE 
+|
+ // about the device as a whole...
+ 
+LIBUSB_REQUEST_TYPE_STANDARD
+,
+ // using a standard request.
+ 
+LIBUSB_REQUEST_GET_STATUS
+,
+ // Send a GET_STATUS request
+ 
+0x00
+,
+ // wValue value of 0x00
+ 
+0x00
+,
+ // wIndex value of 0x00
+ 
+data
+.
+data
+(),
+ 
+data
+.
+size
+(),
+ // Buffer to read the data into
+ 
+1000
+ // 1000ms timeout
+);
+
+// Print the data returned by the device if there was no error
+if
+ 
+(
+result 
+>=
+ 
+0
+)
+ 
+print_bytes
+(
+std
+::
+span
+(
+data
+).
+subspan
+(
+0
+,
+ result
+));
+
+// Close device again
+libusb_close
+(
+handle
+);
+
+This code will now send aGET_STATUSrequest to the device as soon as it’s plugged in and prints out the data it sends back to the console.
+
+libusb_enumerate
+$ ./libusb_enumerate
+Addr 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
+
+0000: 01 00
+
+Those bytes came from the device itself! Decoding themusing the specificationtells us that the first byte tells us whether or not the device is Self-Powered (1 means it is which makes sense, the device has a battery) and the second byte means it does not support Remote Wakeup (meaning it cannot wake up the host).
+
+There are a few more standardized request types (and some devices even add their own for simple things!) but the main one we (and the OS too) are interested in is theGET_DESCRIPTORrequest.
+
+## Requesting a Descriptorh2
+
+Descriptors are binary structures that are generally hardcoded into the firmware of a USB device. They are what tells the host exactly what the device is, what it’s capable of and what driver it would like the OS to load. So when you plug in a device, the host simply sends multipleGET_DESCRIPTORrequests to the standardized Control Endpoint at ID0x00to get back a struct that gives it all the information it needs for enumeration. And the cool thing is,we can do that too!
+
+Instead of aGET_STATUSrequest, we now send aGET_DESCRIPTORrequest:
+
+main.cpp
+const
+ 
+auto
+ result 
+=
+ 
+libusb_control_transfer
+(
+ 
+handle
+,
+ 
+uint8_t
+(
+LIBUSB_ENDPOINT_IN
+)
+ 
+|
+ // Ask for data from the device...
+ 
+LIBUSB_RECIPIENT_DEVICE 
+|
+ // about the device as a whole...
+ 
+LIBUSB_REQUEST_TYPE_STANDARD
+,
+ // using a standard request.
+ 
+LIBUSB_REQUEST_GET_DESCRIPTOR
+,
+ // Send a GET_DESCRIPTOR request
+ 
+(
+LIBUSB_DT_DEVICE 
+<<
+ 
+8
+)
+ 
+|
+ 
+0
+,
+ // Request the 0th Device Descriptor
+ 
+0x00
+,
+ // Language ID, can be ignored here
+ 
+data
+.
+data
+(),
+ 
+data
+.
+size
+(),
+ // Buffer to read the data into
+ 
+1000
+ // 1000ms timeout
+);
+
+This now instead returns the following data:
+
+libusb_enumerate
+$ ./libusb_enumerate
+Addr 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
+
+0000: 12 01 00 02 00 00 00 40 D1 18 E0 4E 99 99 01 02
+0010: 00 01
+
+Now to decode this data, we need to look at theUSB specification on Chapter 9.6.1 Device. There we can find that the format looks as follows:
+
+usb.hexpat
+struct
+ 
+DeviceDescriptor
+ 
+{
+ 
+u8
+ bLength
+;
+ 
+u8
+ bDescriptorType
+;
+ 
+u16
+ bcdUSB
+;
+ 
+u8
+ bDeviceClass
+;
+ 
+u8
+ bDeviceSubClass
+;
+ 
+u8
+ bDeviceProtocol
+;
+ 
+u8
+ bMaxPacketSize0
+;
+ 
+u16
+ idVendor
+;
+ 
+u16
+ idProduct
+;
+ 
+u8
+ iManufacturer
+;
+ 
+u8
+ iProduct
+;
+ 
+u8
+ iSerialNumber
+;
+ 
+u8
+ bNumConfigurations
+;
+};
+
+Throwing the data intoImHexand giving its Pattern Language this structure definition yields the following result:
+
+And there we have it!idVendorandidProductcorrespond to the values we found previously usinglsusb.
+
+There’s more than just the device descriptor though. There’s also Configuration, Interface, Endpoint, String and a couple of other descriptors. These can all be read using the sameGET_DESCRIPTORrequest on the control endpoint. We could still do this all by hand but luckily for us,lsusbhas an option that can do that for us already!
+
+lsusb
+$ lsusb -d 18d1:4ee0 -v
+
+Bus 001 Device 012: ID 18d1:4ee0 Google Inc. Nexus/Pixel Device (fastboot)
+Negotiated speed: High Speed (480Mbps)
+Device Descriptor:
+ 
+bLength 18
+ 
+bDescriptorType 1
+ 
+bcdUSB 2.00
+ 
+bDeviceClass 0 [unknown]
+ 
+bDeviceSubClass 0 [unknown]
+ 
+bDeviceProtocol 0
+ 
+bMaxPacketSize0 64
+ 
+idVendor 0x18d1 Google Inc.
+ 
+idProduct 0x4ee0 Nexus/Pixel Device (fastboot)
+ 
+bcdDevice 99.99
+ 
+iManufacturer 1 Synaptics
+ 
+iProduct 2 USB download gadget
+ 
+iSerial 0
+ 
+bNumConfigurations 1
+51 collapsed lines
+ 
+Configuration Descriptor:
+ 
+bLength 9
+ 
+bDescriptorType 2
+ 
+wTotalLength 0x0020
+ 
+bNumInterfaces 1
+ 
+bConfigurationValue 1
+ 
+iConfiguration 2 USB download gadget
+ 
+bmAttributes 0xc0
+ 
+Self Powered
+ 
+MaxPower 2mA
+ 
+Interface Descriptor:
+ 
+bLength 9
+ 
+bDescriptorType 4
+ 
+bInterfaceNumber 0
+ 
+bAlternateSetting 0
+ 
+bNumEndpoints 2
+ 
+bInterfaceClass 255 Vendor Specific Class
+ 
+bInterfaceSubClass 66 [unknown]
+ 
+bInterfaceProtocol 3
+ 
+iInterface 3 Android Fastboot
+ 
+Endpoint Descriptor:
+ 
+bLength 7
+ 
+bDescriptorType 5
+ 
+bEndpointAddress 0x81 EP 1 IN
+ 
+bmAttributes 2
+ 
+Transfer Type Bulk
+ 
+Synch Type None
+ 
+Usage Type Data
+ 
+wMaxPacketSize 0x0200 1x 512 bytes
+ 
+bInterval 0
+ 
+Endpoint Descriptor:
+ 
+bLength 7
+ 
+bDescriptorType 5
+ 
+bEndpointAddress 0x02 EP 2 OUT
+ 
+bmAttributes 2
+ 
+Transfer Type Bulk
+ 
+Synch Type None
+ 
+Usage Type Data
+ 
+wMaxPacketSize 0x0200 1x 512 bytes
+ 
+bInterval 0
+Device Qualifier (for other device speed):
+ 
+bLength 10
+ 
+bDescriptorType 6
+ 
+bcdUSB 2.00
+ 
+bDeviceClass 0 [unknown]
+ 
+bDeviceSubClass 0 [unknown]
+ 
+bDeviceProtocol 0
+ 
+bMaxPacketSize0 64
+ 
+bNumConfigurations 1
+Device Status: 0x0001
+ 
+Self Powered
+
+This output shows us a few more of the descriptors the device has. Specifically, it has a single Configuration Descriptor that contains a Interface Descriptor for theAndroid Fastbootinterface. And that interface now contains two Endpoints. This is where the device tells the host about all the other endpoints, besides the Control endpoint, and these will be the ones we’ll be using in the next step to actually finally send data to the device’s Fastboot interface!
+
+# Endpointsh1
+
+Let’s talk a bit more about endpoints first though. We already learned about theControl endpoint on address 0x00.
+Endpoints are basically the equivalent to ports that a device on the network opened for us to send data back and fourth. The device specifies in its descriptor which kind of endpoints it has and then services these in its firmware. So we don’t even need to do port scanning or know thatSSHjust runs on port 22 usually, we have a nice way of finding out what interfaces the device has, what language they speak and how we can speak to them.
+Looking at the descriptors above, that control descriptor is not there though. Instead, there’s two others with different types.
+
+## Control Transfer Typeh2
+
+There’s exactly one per device and it’s always fixed on Endpoint Address0x00. It’s what is used do initial configuration and request information about the device.
+
+The main purpose of the Control endpoint is to solve the chicken-and-egg problem where you couldn’t communicate with a device without knowing its endpoints but to know its endpoints you’d need to communicate with it. That’s also why it doesn’t even appear in the descriptors. It’s not part of any interface but the device itself. And we know about its existence thanks to the spec, without it having to be advertised.
+
+It’s made for setting simple configuration values or requesting small amounts of data. The function in libusb doesn’t even allow you to set the endpoint address to make a control request to because there’s only ever one control endpoint and it’s always on address0x00
+
+## Bulk Transfer Typeh2
+
+Bulk Endpoints are what’s used when you want to transfer larger amounts of data. They’re used when you have large amounts of non-time-sensitive data that you just want to send over the wire.This is what’s used for things like the Mass Storage Class,CDC-ACM(Serial Port over USB) andRNDIS(Ethernet over USB).
+
+One detail: Data sent over Bulk endpoints is high bandwidth but low priority. This means, Bulk data will always just fill up the remaining bandwidth. Any Interrupt and Isochronous transfers (further detail below) have a higher priority so if you’re sending both Bulk and Isochronous data over the same connection, the bandwidth of the Bulk transmission will be lowered until the Isochronous one can transmit its data in the requested timeframe.
+
+## Interrupt Transfer Typeh2
+
+Interrupt Endpoints are the opposite of Bulk Endpoints. They allow you to send small amounts of data with very low latency. For example Keyboards and Mice use this transfer type under theHIDClass to poll for button presses 1000+ times per second. If no button was pressed, the transfer fails immediately without sending back a full failure message (only aNAK), only when something actually changed you’ll get a description back of what happened.
+
+The important fact here is, even though these are called interrupt endpoints, there’s no interrupts happening. The Devicestilldoes not talk to the Host without being asked. The Host just polls so frequently that it acts as if it’s an interrupt.The functions in libusb that handle interrupt transfers also abstract this behaviour away further. You can start an interrupt transfer and the function will block until the device sends back a full response.
+
+## Isochronous Transfer Typeh2
+
+Isochronous Endpoints are somewhat special. They’re used for bigger amounts of data that is really timing critical. They’re mainly used for streaming interfaces such asAudioorVideowhere any latency or delay will be immediately noticeable through stuttering or desyncs. In libusb, these work asynchronously. You can setup multiple transfers at once and they will be queued and you’ll get back an event once data has arrived so you can process it and queue further requests.This type is generally not used very often outside of the Audio and Video classes.
+
+## In / Out Endpointsh2
+
+Besides the Transfer Type, endpoints also have a direction. Keep in mind, USB is a full master-slave oriented interface. The Host is the only one ever making any requests and the Device will never answer unless addressed by the Host. This means, the device cannot actually send any data directly to the Host. Instead the Host needs toaskthe Device topleasesend the data over.
+
+This is what the direction is for.
+
+* INendpoints are for when the Host wants to receive some data. It makes a request on anINendpoint and waits for the device to respond back with the data.
+* OUTendpoints are for when the Host wants to transmit some data. It makes a request on anOUTendpoint and then immediately transfers the data it wants to send over. The Device in this case only acknowledges (ACK) that it received the data but won’t send any additional data back.
+
+The way I remember the directions is using that master-slave analogy. The master is very self-centered and always refers to everything fromits perspective.
+
+* IN: I want to get data in
+* OUT: I want to send data out
+
+Contrary to the transfer type, the direction is encoded in the endpoint address instead. If the topmost bit (MSB) is set to1, it’s anINendpoint, if it’s set to0it’s anOUTendpoint. (If you’re into Hardware, you might recognize this same concept from the I2C interface.)
+
+That means two things:
+
+* You can have a maximum of27−1=1272^7 - 1 = 12727−1=127custom endpoints available at once272^727because we have 7 bits available for addresses−1-1−1because we always have the control endpoint that’s on the fixed address0x00.
+* 272^727because we have 7 bits available for addresses
+* −1-1−1because we always have the control endpoint that’s on the fixed address0x00.
+* Endpoints are entirely unidirectional. Either you’re using an endpoint to request data or to transmit data, it cannot do both at onceThat’s also the reason why our Fastboot interface has two Bulk endpoints: one is dedicated to listening to requests the Host sends over and the other one is for responding to those same requests
+* That’s also the reason why our Fastboot interface has two Bulk endpoints: one is dedicated to listening to requests the Host sends over and the other one is for responding to those same requests
+
+# Fastboot, finallyh1
+
+Now that we have all this information about USB, let’s look into the Fastboot protocol. The best documentation for this is both theu-boot Source Codeand as itsDocumentation.
+
+According to the documentation, the protocol really is incredibly simple. The Host sends a string command and the device responds with a 4 character status code followed by some data.
+
+Excerpt from the example in the documentation
+Host: "getvar:version" request version variable
+
+Client: "OKAY0.4" return version "0.4"
+
+Host: "getvar:nonexistant" request some undefined variable
+
+Client: "OKAY" return value ""
+
+Let’s update our code to do just that then:
+
+main.cpp
+// Open the device so we can communicate with it
+libusb_device_handle 
+*
+handle 
+=
+ 
+nullptr
+;
+libusb_open
+(
+device
+,
+ 
+&
+handle
+);
+
+// Claim the interface to let libusb know which interface
+// we're sending data to
+libusb_claim_interface
+(
+handle
+,
+ 
+0
+);
+
+// Setup a 64 byte buffer for our request and response
+// The documentation specifies 64 bytes for full-speed and
+// 512 bytes for high-speed. Since this is a full-speed device,
+// we use 64 bytes.
+std
+::
+vector
+<
+uint8_t
+>
+ 
+bytes
+(
+64
+);
+
+// Copy the command "getvar:version"
+// to the start of the buffer
+std
+::
+ranges
+::
+copy
+(
+ 
+"
+getvar:version
+"
+,
+ 
+bytes
+.
+begin
+()
+);
+
+// Do a Bulk transfer of that data on the OUT Endpoint 0x02
+int
+ num_bytes_transferred 
+=
+ 
+0
+;
+libusb_bulk_transfer
+(
+ 
+handle
+,
+ // Device handle
+ 
+LIBUSB_ENDPOINT_OUT 
+|
+ 
+0x02
+,
+ // Endpoint OUT 0x02
+ 
+bytes
+.
+data
+(),
+ 
+bytes
+.
+size
+(),
+ // Data to send
+ 
+&
+num_bytes_transferred
+,
+ // Number of bytes sent
+ 
+1000
+ // 1000ms timeout
+);
+
+// Print the transmitted data data
+std
+::
+println
+(
+"
+Request: {}
+"
+,
+ 
+std
+::
+string_view
+(
+ 
+reinterpret_cast
+<
+const
+ 
+char
+ 
+*>
+(
+bytes
+.
+data
+()),
+ 
+num_bytes_transferred
+ 
+)
+);
+
+// Clear the buffer
+std
+::
+ranges
+::
+fill
+(
+bytes
+,
+ 
+0x00
+);
+num_bytes_transferred 
+=
+ 
+0
+;
+
+// Do a Bulk transfer on the IN Endpoint 0x01
+libusb_bulk_transfer
+(
+ 
+handle
+,
+ // Device handle
+ 
+LIBUSB_ENDPOINT_IN 
+|
+ 
+0x01
+,
+ // Endpoint IN 0x81
+ 
+bytes
+.
+data
+(),
+ 
+bytes
+.
+size
+(),
+ // Buffer to receive into
+ 
+&
+num_bytes_transferred
+,
+ // Number of bytes received
+ 
+1000
+ // 1000ms timeout
+);
+
+// Print the returned characters
+std
+::
+println
+(
+"
+Response: {}
+"
+,
+ 
+std
+::
+string_view
+(
+ 
+reinterpret_cast
+<
+const
+ 
+char
+ 
+*>
+(
+bytes
+.
+data
+()),
+ 
+num_bytes_transferred
+ 
+)
+);
+
+// Release the interface again
+libusb_release_interface
+(
+handle
+,
+ 
+0
+);
+
+// Close the device handle
+libusb_close
+(
+handle
+);
+
+Plugging the device in now, prints the following message to the terminal:
+
+libusb_enumerate
+$ ./libusb_enumerate
+Request: getvar:version
+Response: OKAY0.4
+
+That seems to match the documentation!First 4 bytes areOKAY, specifying that the request was executed successfully
+The rest of the data after that is0.4which corresponds to the implemented Fastboot Version in the Documentation:v0.4
+
+# Final Wordsh1
+
+And that’s it! You successfully made your first USB driver from scratch without ever touching the Kernel.
+
+All these same principles apply to all USB drivers out there. The underlying protocol may be significantly more complex than the fastboot protocol (I was pulling my hair out before over the atrocity that the MTP protocol is) but everything around it stays identical. Not much more complex than TCP over sockets, is it? :)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Author: 
+ 
+WerWolv
+ 
+ 
+ 
+ 
+ 
+ 
+Post: 
+ 
+USB for Software Developers
+ 
+ 
+ 
+ 
+ 
+ 
+Link: 
+ 
+ https://werwolv.net/posts/usb_for_sw_devs/ 
+ 
+ 
+ 
+ 
+ 
+ 
+License: 
+ 
+ 
+CC BY-NC-SA 4.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Back to Posts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+### Comments

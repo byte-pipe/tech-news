@@ -1,76 +1,64 @@
 ---
-date: '2026-04-06'
+date: '2026-04-10'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-06T01:03:41.080633'
+generated_at: '2026-04-10T06:03:36.736498'
 ---
 
 ## Executive Summary
-- Anthropic announced that Claude Code users will now pay separately for third‑party tools like OpenClaw, sparking debate over AI‑service pricing.  
-- A fake Claude Code source repository on GitHub was found distributing the Vidar infostealer and GhostSocks proxy malware, highlighting the rapid weaponisation of AI hype.  
-- NASA’s Artemis II crewed lunar flyby proceeded successfully, while the Orion spacecraft’s waste‑management system drew public attention after urine froze on‑board.  
-- In software tooling, the new Lisette language brings Rust‑style safety to Go, and a growing chorus of developers warns that AI‑generated static sites cannot replace traditional CMS platforms.  
-- Regulatory scrutiny intensified as Manhattan prosecutors examined whether prediction‑market betting may breach insider‑trading laws.
+- A critical misattribution bug in Anthropic’s Claude model, now trending on Hacker News, raises safety concerns for LLMs deployed in production environments.  
+- Amazon’s aggressive 2026 capital‑expenditure plan and its push into custom AI chips, satellite internet, and robotics signal a broadening of AWS beyond cloud services.  
+- New AI‑driven consumer products—from the Poke text‑messaging assistant to the controversial discontinuation of legacy Kindle devices—highlight both rapid innovation and growing sustainability worries.  
+- Environmental and policy debates intensify, with Argentina’s glacier‑mining amendment and mixed results from dairy‑farm manure digesters illustrating the tension between climate goals and economic incentives.  
+- In the developer arena, practical guides such as “USB for Software Developers” and advances in ambiphilic cross‑coupling chemistry showcase the continued diversification of technical expertise across hardware, software, and synthetic chemistry.
 
 ---
 
-## AI and Machine Learning
+## AI and Machine Learning (8 articles)
 
-### GitHub – JuliusBrussee/caveman: Claude Code “caveman” skill cuts token use by ~75% [Hacker News]
-A community‑built Claude Code plugin strips filler language, delivering the same technical answer in a terse “caveman” style, slashing token consumption, cost, and latency while adding a humorous tone.
+### Claude mixes up who said what, and that's not OK [Hacker News]  
+Claude occasionally treats its own internal messages as user input, leading it to follow self‑generated instructions—a bug that persisted across interfaces and even other models. The issue, highlighted as #1 on Hacker News, underscores the need for stricter message‑labeling safeguards, especially when LLMs have production‑level access.
 
-### The machines are fine. I'm worried about us. [Hacker News]
-An essay contrasts two PhD students—one who does research independently and another who leans on AI for every step—arguing that while AI can boost output metrics, it risks eroding deep learning and long‑term scientific capacity.
+### Ambiphilic cross‑coupling with aryl‑bismuth reagents [Nature]  
+Researchers introduced aryl‑bismuth reagents that can act as both nucleophiles and electrophiles in transition‑metal‑catalyzed cross‑couplings, challenging the traditional view of fixed bond polarity. This dual reactivity could streamline synthetic routes by eliminating the need for separate coupling partners.
 
-### Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage [TechCrunch]
-Effective April 4, Anthropic will bill third‑party tool usage (e.g., OpenClaw) on a pay‑as‑you‑go basis, citing unsustainable usage patterns; the move has drawn criticism from OpenClaw’s creator and raises concerns about AI‑service monetisation.
+### Are manure digesters a real solution to dairy farm emissions? [New Scientist]  
+Manure anaerobic digesters cut storage‑phase methane by ~91 % but can cause leaks, ammonia spikes, and generate e‑waste when combined with policy incentives. A California study found overall methane reductions of about half, while subsidies may unintentionally encourage herd expansion.
 
-### Apple at 50: Where did the tech giant succeed and fail? [Newsfeed]
-A retrospective examines Apple’s five‑decade arc, celebrating breakthroughs like the iPod, iPhone, and Apple Watch while critiquing missteps such as the Lisa, butterfly keyboards, and the high‑priced Vision Pro headset.
+### User anger as Amazon ends support for some older Kindles [Newsfeed]  
+Amazon will cease e‑book purchasing and syncing on Kindle devices released in 2012 or earlier, prompting backlash over planned obsolescence and an estimated 624 tons of e‑waste from up to 2 million discarded units. Discounts for newer models are offered, but critics warn of a growing electronic waste problem.
 
-### Fake Claude Code source downloads actually delivered malware [The Register]
-Cyber‑criminals posted a counterfeit Claude Code CLI repository that bundled a Rust dropper delivering the Vidar infostealer and GhostSocks proxy, exploiting hype around the leaked source to compromise unsuspecting developers.
+### 15 ideas to help you build a better personal network [tldr]  
+The article offers concrete networking tactics—such as specific asks, gratitude notes, active listening, and avoiding gossip—to cultivate mutually beneficial professional relationships and maintain long‑term value.
 
-### Reddit – Please wait for verification [Reddit]
-*No article content provided.*
+### AI Products Have Terrible UX: Here's Why [HackerNoon]  
+Designer‑turned‑engineer deeflect argues that AI product failures stem largely from distribution problems that prevent features from reaching users effectively, a factor rarely discussed in conventional UX critiques.
 
----
+### Poke makes using AI agents as easy as sending a text [TechCrunch]  
+Poke delivers AI‑powered personal assistance via standard messaging apps, using “recipes” to automate tasks across dozens of services. Backed by $25 M in funding and valued at $300 M, it offers a free‑to‑start, usage‑based pricing model while emphasizing security through token opacity.
 
-## Cybersecurity and Privacy
-
-### Someone at BrowserStack is leaking users’ email address [Hacker News]
-A security researcher discovered his unique test email appearing in an unsolicited message traced to Apollo.io, suggesting BrowserStack (or a partner) may be sharing or selling user contact data without notice.
-
-### Et Tu, Agent? Did you install the backdoor? [TL;DR]
-The popular Axios npm package was compromised to pull in a malicious dependency that silently installed a remote‑access trojan; the incident underscores how AI‑generated code and supply‑chain complexity amplify the risk of fast, invisible attacks.
+### Reddit – Please wait for verification [Reddit]  
+*No content provided; summary unavailable.*
 
 ---
 
-## Software Engineering and Dev Tools
+## Cybersecurity and Privacy (1 article)
 
-### Lisette – Rust syntax, Go runtime [Hacker News]
-Lisette is a new language that blends Rust‑style algebraic data types and pattern matching with Go’s runtime, offering compile‑time safety guarantees while interoperating seamlessly with existing Go libraries.
-
-### The CMS is dead. Long live the CMS. [Hacker News]
-A veteran WordPress developer argues that AI‑generated static sites cannot replace traditional CMSes, warning that framework churn, maintenance overhead, and loss of editable UI make the “CMS is dead” narrative a marketing hype.
-
-### Artemis II is going so well that we’re left to talk about frozen urine [Ars Technica]
-During Orion’s deep‑space test, a water‑tank malfunction caused collected urine to freeze, forcing the crew to use bags while engineers rotate the spacecraft for sunlight exposure; the issue is minor now but highlights waste‑management challenges for future Mars missions.
-
-### Deontay Wilder calls out Anthony Joshua after Chisora victory [BBC Sport]
-After a split‑decision win over Derek Chisora, heavyweight Deontay Wilder publicly challenged Anthony Joshua, reigniting speculation about a blockbuster bout that promoters say could still materialise.
-
-### Clouded Judgement [TL;DR]
-The author posits digital twins—virtual replicas of organisational knowledge—as the next frontier for AI, arguing that scaling expertise via “knowledge twins” will outpace raw model improvements in driving business value.
-
-### Exclusive: Federal prosecutors are exploring whether prediction‑market bets trip insider‑trading laws [CNN Politics]
-Manhattan U.S. attorneys are reviewing whether high‑stakes prediction‑market trades (e.g., on Venezuelan elections or war timing) violate insider‑trading, fraud, or AML statutes, prompting platforms like Polymarket and Kalshi to tighten insider‑trade prohibitions.
+### Argentina approves Milei’s glacier mining bill amid environmental protests [The Guardian]  
+Argentina’s lower house passed a amendment easing mining in glacier and permafrost zones, prompting large‑scale protests over water security. The law could boost lithium exports but shifts environmental oversight to provinces, raising concerns about inconsistent protection of vital water sources.
 
 ---
 
-## Science and Research
+## Software Engineering and Dev Tools (1 article)
 
-### Artemis II is go: humans head to the Moon after half‑century absence [Newsfeed]
-NASA’s Artemis II successfully launched, delivering the first crewed lunar flyby since 1972; the mission tests Orion’s systems and gathers scientific data while sparking debate over its scientific merit amid budgetary pressures.
+### USB for Software Developers [Hacker News]  
+The guide shows how to write a user‑space USB driver using libusb, using an Android phone in fastboot mode as a simple test device. It walks through enumeration, driver‑less operation, and cross‑platform tips for Linux and Windows, making hardware interfacing accessible to developers without kernel expertise.
+
+---
+
+## Cloud and Infrastructure (1 article)
+
+### Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter [TechCrunch]  
+Andy Jassy outlines AWS’s strategy to challenge Nvidia with Amazon‑built Trainium chips, expand Graviton CPU dominance, and launch the Leo satellite‑internet service. A $200 B capex plan for 2026, driven by a $100 B OpenAI contract, signals Amazon’s push into AI hardware, satellite broadband, and robotics while reassuring investors of sustained growth.  
 
 ---
 
