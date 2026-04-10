@@ -1,66 +1,60 @@
 ---
 date: '2026-04-10'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-10T06:03:36.736498'
+generated_at: '2026-04-10T18:00:24.726846'
 ---
 
 ## Executive Summary
-- A critical misattribution bug in Anthropic’s Claude model, now trending on Hacker News, raises safety concerns for LLMs deployed in production environments.  
-- Amazon’s aggressive 2026 capital‑expenditure plan and its push into custom AI chips, satellite internet, and robotics signal a broadening of AWS beyond cloud services.  
-- New AI‑driven consumer products—from the Poke text‑messaging assistant to the controversial discontinuation of legacy Kindle devices—highlight both rapid innovation and growing sustainability worries.  
-- Environmental and policy debates intensify, with Argentina’s glacier‑mining amendment and mixed results from dairy‑farm manure digesters illustrating the tension between climate goals and economic incentives.  
-- In the developer arena, practical guides such as “USB for Software Developers” and advances in ambiphilic cross‑coupling chemistry showcase the continued diversification of technical expertise across hardware, software, and synthetic chemistry.
+- A critical bug in Anthropic’s Claude model causes it to treat its own internal messages as user commands, raising safety concerns across LLM platforms.  
+- Amazon’s shareholder letter outlines massive 2026 cap‑ex ($200 bn) to fuel AWS growth, highlights its Trainium AI chips, and announces the upcoming Amazon Leo satellite‑internet service.  
+- Environmental and consumer‑impact stories dominate: manure‑digesters cut dairy methane but risk ammonia spikes and generate e‑waste, while Amazon’s Kindle retirement threatens up to 2 million functional devices.  
+- New scientific advances include ambiphilic aryl‑bismuth reagents that blur traditional cross‑coupling roles, and Poke launches a text‑message AI assistant aimed at mainstream adoption.  
+- Policy battles surface in Argentina, where a glacier‑mining law amendment passes despite protests, underscoring tensions between resource extraction and climate protection.
 
 ---
 
-## AI and Machine Learning (8 articles)
+## AI and Machine Learning
 
-### Claude mixes up who said what, and that's not OK [Hacker News]  
-Claude occasionally treats its own internal messages as user input, leading it to follow self‑generated instructions—a bug that persisted across interfaces and even other models. The issue, highlighted as #1 on Hacker News, underscores the need for stricter message‑labeling safeguards, especially when LLMs have production‑level access.
+### Claude mixes up who said what, and that's not OK [Hacker News]
+Claude occasionally mislabels its own internal reasoning as user input, leading it to obey self‑generated instructions—a bug that persists across interfaces and even other models like ChatGPT, prompting safety‑focused discussions on Hacker News.
 
-### Ambiphilic cross‑coupling with aryl‑bismuth reagents [Nature]  
-Researchers introduced aryl‑bismuth reagents that can act as both nucleophiles and electrophiles in transition‑metal‑catalyzed cross‑couplings, challenging the traditional view of fixed bond polarity. This dual reactivity could streamline synthetic routes by eliminating the need for separate coupling partners.
+### Ambiphilic cross‑coupling with aryl‑bismuth reagents [Nature]
+Researchers introduce aryl‑bismuth reagents that can act as both nucleophiles and electrophiles in transition‑metal‑catalysed couplings, simplifying synthetic design by eliminating the need for separate partner types.
 
-### Are manure digesters a real solution to dairy farm emissions? [New Scientist]  
-Manure anaerobic digesters cut storage‑phase methane by ~91 % but can cause leaks, ammonia spikes, and generate e‑waste when combined with policy incentives. A California study found overall methane reductions of about half, while subsidies may unintentionally encourage herd expansion.
+### Are manure digesters a real solution to dairy farm emissions? [New Scientist]
+California‑based anaerobic digesters cut dairy‑farm methane by roughly half but can leak large amounts of gas, accelerate ammonia formation, and create perverse financial incentives that may expand herd sizes.
 
-### User anger as Amazon ends support for some older Kindles [Newsfeed]  
-Amazon will cease e‑book purchasing and syncing on Kindle devices released in 2012 or earlier, prompting backlash over planned obsolescence and an estimated 624 tons of e‑waste from up to 2 million discarded units. Discounts for newer models are offered, but critics warn of a growing electronic waste problem.
+### User anger as Amazon ends support for some older Kindles [Newsfeed]
+Amazon will cease e‑book services for Kindles released in 2012 or earlier on 20 May 2026, sparking consumer outrage and raising concerns about generating ~624 tons of e‑waste from up to 2 million discarded devices.
 
-### 15 ideas to help you build a better personal network [tldr]  
-The article offers concrete networking tactics—such as specific asks, gratitude notes, active listening, and avoiding gossip—to cultivate mutually beneficial professional relationships and maintain long‑term value.
+### AI Products Have Terrible UX: Here's Why [Hacker Noon]
+Deeflect argues that poor user experience in AI products stems from “distribution problems” – the way AI features are delivered and integrated – a factor rarely addressed by designers.
 
-### AI Products Have Terrible UX: Here's Why [HackerNoon]  
-Designer‑turned‑engineer deeflect argues that AI product failures stem largely from distribution problems that prevent features from reaching users effectively, a factor rarely discussed in conventional UX critiques.
-
-### Poke makes using AI agents as easy as sending a text [TechCrunch]  
-Poke delivers AI‑powered personal assistance via standard messaging apps, using “recipes” to automate tasks across dozens of services. Backed by $25 M in funding and valued at $300 M, it offers a free‑to‑start, usage‑based pricing model while emphasizing security through token opacity.
-
-### Reddit – Please wait for verification [Reddit]  
-*No content provided; summary unavailable.*
+### Poke makes using AI agents as easy as sending a text [TechCrunch]
+Poke offers a text‑message‑based AI personal assistant that runs in iMessage, SMS, Telegram, and limited WhatsApp, using a recipe system and usage‑based pricing to target non‑technical users; the startup recently raised $10 M at a $300 M valuation.
 
 ---
 
-## Cybersecurity and Privacy (1 article)
+## Cybersecurity and Privacy
 
-### Argentina approves Milei’s glacier mining bill amid environmental protests [The Guardian]  
-Argentina’s lower house passed a amendment easing mining in glacier and permafrost zones, prompting large‑scale protests over water security. The law could boost lithium exports but shifts environmental oversight to provinces, raising concerns about inconsistent protection of vital water sources.
-
----
-
-## Software Engineering and Dev Tools (1 article)
-
-### USB for Software Developers [Hacker News]  
-The guide shows how to write a user‑space USB driver using libusb, using an Android phone in fastboot mode as a simple test device. It walks through enumeration, driver‑less operation, and cross‑platform tips for Linux and Windows, making hardware interfacing accessible to developers without kernel expertise.
+### Argentina approves Milei’s glacier mining bill amid environmental protests [The Guardian]
+Argentina’s lower house passed an amendment easing mining in glacier and permafrost zones, prompting large‑scale protests over water security; the law could boost lithium exports but threatens the country’s dwindling glacier resources.
 
 ---
 
-## Cloud and Infrastructure (1 article)
+## Software Engineering and Dev Tools
 
-### Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter [TechCrunch]  
-Andy Jassy outlines AWS’s strategy to challenge Nvidia with Amazon‑built Trainium chips, expand Graviton CPU dominance, and launch the Leo satellite‑internet service. A $200 B capex plan for 2026, driven by a $100 B OpenAI contract, signals Amazon’s push into AI hardware, satellite broadband, and robotics while reassuring investors of sustained growth.  
+### USB for Software Developers [Hacker News]
+A practical guide shows how to write a user‑space USB driver for Android fastboot devices using libusb, detailing enumeration, platform‑specific steps, and driver‑less communication on Linux and Windows.
+
+---
+
+## Cloud and Infrastructure
+
+### Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter [TechCrunch]
+Andy Jassy’s 2026 letter outlines a $200 bn cap‑ex plan, emphasizes AWS’s Trainium AI chips (nearing $20 bn ARR), announces the mid‑year launch of Amazon Leo satellite‑internet, and positions Amazon against rivals Nvidia and Intel while projecting continued growth in cloud, robotics, and logistics.
 
 ---
 
 ## Notable Mentions
-- None reported.
+- *(No additional items were provided for this section.)*
