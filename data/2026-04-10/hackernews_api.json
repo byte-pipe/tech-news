@@ -1,28 +1,45 @@
 [
   {
-    "title": "ChatGPT Pro now starts at $100/month",
-    "url": "https://chatgpt.com/pricing/",
-    "author": "strongpigeon",
-    "date": "2026-04-10",
-    "score": 140,
-    "comments": 143,
-    "id": 47707253,
-    "discussion_url": "https://news.ycombinator.com/item?id=47707253",
-    "description": "ChatGPT Pro now starts at $100/month",
+    "title": "A WebGPU implementation of Augmented Vertex Block Descent",
+    "url": "https://github.com/jure/webphysics",
+    "author": "juretriglav",
+    "date": "2026-04-09",
+    "score": 144,
+    "comments": 18,
+    "id": 47702541,
+    "discussion_url": "https://news.ycombinator.com/item?id=47702541",
+    "description": "A WebGPU implementation of Augmented Vertex Block Descent",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426654"
+    "fetched_at": "2026-04-10T11:21:47.623462"
+  },
+  {
+    "title": "Charcuterie – Visual similarity Unicode explorer",
+    "url": "https://charcuterie.elastiq.ch/",
+    "author": "rickcarlino",
+    "date": "2026-04-09",
+    "score": 246,
+    "comments": 48,
+    "id": 47709158,
+    "discussion_url": "https://news.ycombinator.com/item?id=47709158",
+    "description": "Charcuterie – Visual similarity Unicode explorer",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-10T11:21:47.623466"
   },
   {
     "title": "Claude mixes up who said what",
     "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
     "author": "sixhobbits",
     "date": "2026-04-09",
-    "score": 382,
-    "comments": 307,
+    "score": 438,
+    "comments": 337,
     "id": 47701233,
     "discussion_url": "https://news.ycombinator.com/item?id=47701233",
     "description": "Claude mixes up who said what",
@@ -31,49 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426941"
-  },
-  {
-    "title": "Creating the Futurescape for the Fifth Element (2019)",
-    "url": "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element",
-    "author": "nixass",
-    "date": "2026-04-09",
-    "score": 108,
-    "comments": 87,
-    "id": 47701100,
-    "discussion_url": "https://news.ycombinator.com/item?id=47701100",
-    "description": "Creating the Futurescape for the Fifth Element (2019)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426789"
-  },
-  {
-    "title": "Dr. Dobb's Developer Library DVD 6 (2010)",
-    "url": "https://archive.org/details/DDJDVD6",
-    "author": "kristianp",
-    "date": "2026-04-05",
-    "score": 122,
-    "comments": 44,
-    "id": 47645010,
-    "discussion_url": "https://news.ycombinator.com/item?id=47645010",
-    "description": "Dr. Dobb's Developer Library DVD 6 (2010)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.427112"
+    "fetched_at": "2026-04-10T11:21:47.623589"
   },
   {
     "title": "EFF is leaving X",
     "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
     "author": "gregsadetsky",
-    "date": "2026-04-10",
-    "score": 699,
-    "comments": 599,
+    "date": "2026-04-09",
+    "score": 1328,
+    "comments": 1153,
     "id": 47706268,
     "discussion_url": "https://news.ycombinator.com/item?id=47706268",
     "description": "EFF is leaving X",
@@ -82,32 +65,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426436"
+    "fetched_at": "2026-04-10T11:21:47.623529"
   },
   {
-    "title": "Emperor penguin and Antarctic fur seal now endangered",
-    "url": "https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn",
-    "author": "darth_avocado",
+    "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+    "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+    "author": "embedding-shape",
     "date": "2026-04-10",
-    "score": 141,
-    "comments": 34,
-    "id": 47705324,
-    "discussion_url": "https://news.ycombinator.com/item?id=47705324",
-    "description": "Emperor penguin and Antarctic fur seal now endangered",
+    "score": 193,
+    "comments": 56,
+    "id": 47716043,
+    "discussion_url": "https://news.ycombinator.com/item?id=47716043",
+    "description": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.427243"
+    "fetched_at": "2026-04-10T11:21:47.623286"
+  },
+  {
+    "title": "Generative art over the years",
+    "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
+    "author": "evakhoury",
+    "date": "2026-04-07",
+    "score": 159,
+    "comments": 41,
+    "id": 47675906,
+    "discussion_url": "https://news.ycombinator.com/item?id=47675906",
+    "description": "Generative art over the years",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-10T11:21:47.623490"
   },
   {
     "title": "Git commands I run before reading any code",
     "url": "https://piechowski.io/post/git-commands-before-reading-code/",
     "author": "grepsedawk",
     "date": "2026-04-08",
-    "score": 2177,
-    "comments": 465,
+    "score": 2250,
+    "comments": 480,
     "id": 47687273,
     "discussion_url": "https://news.ycombinator.com/item?id=47687273",
     "description": "Git commands I run before reading any code",
@@ -116,83 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.427279"
+    "fetched_at": "2026-04-10T11:21:47.623525"
   },
   {
-    "title": "Haunted Paper Toys",
-    "url": "http://ravensblight.com/papertoys.html",
-    "author": "exvi",
-    "date": "2026-04-06",
-    "score": 214,
-    "comments": 28,
-    "id": 47658950,
-    "discussion_url": "https://news.ycombinator.com/item?id=47658950",
-    "description": "Haunted Paper Toys",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426752"
-  },
-  {
-    "title": "Help Keep Thunderbird Alive",
-    "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
-    "author": "playfultones",
+    "title": "How NASA built Artemis II’s fault-tolerant computer",
+    "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+    "author": "speckx",
     "date": "2026-04-09",
-    "score": 427,
-    "comments": 312,
-    "id": 47700388,
-    "discussion_url": "https://news.ycombinator.com/item?id=47700388",
-    "description": "Help Keep Thunderbird Alive",
+    "score": 420,
+    "comments": 158,
+    "id": 47704804,
+    "discussion_url": "https://news.ycombinator.com/item?id=47704804",
+    "description": "How NASA built Artemis II’s fault-tolerant computer",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426712"
-  },
-  {
-    "title": "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
-    "url": "https://pizzalegacy.nl/blog/traffic-system.html",
-    "author": "FinnKuhn",
-    "date": "2026-04-09",
-    "score": 240,
-    "comments": 51,
-    "id": 47703123,
-    "discussion_url": "https://news.ycombinator.com/item?id=47703123",
-    "description": "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426732"
-  },
-  {
-    "title": "I imported the full Linux kernel git history into pgit",
-    "url": "https://oseifert.ch/blog/linux-kernel-pgit",
-    "author": "ImGajeed76",
-    "date": "2026-04-05",
-    "score": 161,
-    "comments": 38,
-    "id": 47648538,
-    "discussion_url": "https://news.ycombinator.com/item?id=47648538",
-    "description": "I imported the full Linux kernel git history into pgit",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.427226"
+    "fetched_at": "2026-04-10T11:21:47.623378"
   },
   {
     "title": "I ported Mac OS X to the Nintendo Wii",
     "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
     "author": "blkhp19",
-    "date": "2026-04-09",
-    "score": 1805,
-    "comments": 309,
+    "date": "2026-04-08",
+    "score": 1861,
+    "comments": 315,
     "id": 47691730,
     "discussion_url": "https://news.ycombinator.com/item?id=47691730",
     "description": "I ported Mac OS X to the Nintendo Wii",
@@ -201,32 +150,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.427035"
+    "fetched_at": "2026-04-10T11:21:47.623510"
   },
   {
-    "title": "Introduction to Nintendo DS Programming",
-    "url": "https://www.patater.com/files/projects/manual/manual.html",
-    "author": "medbar",
-    "date": "2026-04-08",
-    "score": 182,
-    "comments": 33,
-    "id": 47685644,
-    "discussion_url": "https://news.ycombinator.com/item?id=47685644",
-    "description": "Introduction to Nintendo DS Programming",
+    "title": "I still prefer MCP over skills",
+    "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+    "author": "gmays",
+    "date": "2026-04-10",
+    "score": 229,
+    "comments": 189,
+    "id": 47712718,
+    "discussion_url": "https://news.ycombinator.com/item?id=47712718",
+    "description": "I still prefer MCP over skills",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426576"
+    "fetched_at": "2026-04-10T11:21:47.623405"
+  },
+  {
+    "title": "Instant 1.0, a backend for AI-coded apps",
+    "url": "https://www.instantdb.com/essays/architecture",
+    "author": "stopachka",
+    "date": "2026-04-09",
+    "score": 158,
+    "comments": 84,
+    "id": 47707632,
+    "discussion_url": "https://news.ycombinator.com/item?id=47707632",
+    "description": "Instant 1.0, a backend for AI-coded apps",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-10T11:21:47.623498"
   },
   {
     "title": "Lichess and Take Take Take Sign Cooperation Agreement",
     "url": "https://lichess.org/@/Lichess/blog/lichess-and-take-take-take-sign-cooperation-agreement/DZS0S0Dy",
     "author": "stevage",
     "date": "2026-04-09",
-    "score": 153,
-    "comments": 43,
+    "score": 185,
+    "comments": 57,
     "id": 47702499,
     "discussion_url": "https://news.ycombinator.com/item?id=47702499",
     "description": "Lichess and Take Take Take Sign Cooperation Agreement",
@@ -235,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426673"
+    "fetched_at": "2026-04-10T11:21:47.623556"
   },
   {
     "title": "LittleSnitch for Linux",
     "url": "https://obdev.at/products/littlesnitch-linux/index.html",
     "author": "pluc",
     "date": "2026-04-09",
-    "score": 1225,
-    "comments": 403,
+    "score": 1319,
+    "comments": 427,
     "id": 47697870,
     "discussion_url": "https://news.ycombinator.com/item?id=47697870",
     "description": "LittleSnitch for Linux",
@@ -252,32 +218,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426864"
+    "fetched_at": "2026-04-10T11:21:47.623421"
   },
   {
-    "title": "ML promises to be profoundly weird",
-    "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
-    "author": "pabs3",
-    "date": "2026-04-08",
-    "score": 585,
-    "comments": 573,
-    "id": 47689648,
-    "discussion_url": "https://news.ycombinator.com/item?id=47689648",
-    "description": "ML promises to be profoundly weird",
+    "title": "Many African families spend fortunes burying their dead",
+    "url": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
+    "author": "powera",
+    "date": "2026-04-09",
+    "score": 198,
+    "comments": 191,
+    "id": 47710907,
+    "discussion_url": "https://news.ycombinator.com/item?id=47710907",
+    "description": "Many African families spend fortunes burying their dead",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.427150"
+    "fetched_at": "2026-04-10T11:21:47.623481"
   },
   {
     "title": "Meta removes ads for social media addiction litigation",
     "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
     "author": "giuliomagnifico",
     "date": "2026-04-09",
-    "score": 456,
-    "comments": 182,
+    "score": 591,
+    "comments": 238,
     "id": 47703419,
     "discussion_url": "https://news.ycombinator.com/item?id=47703419",
     "description": "Meta removes ads for social media addiction litigation",
@@ -286,49 +252,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426457"
+    "fetched_at": "2026-04-10T11:21:47.623552"
   },
   {
-    "title": "Muse Spark: Scaling towards personal superintelligence",
-    "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-    "author": "chabons",
+    "title": "Microsoft is employing dark patterns to goad users into paying for storage?",
+    "url": "https://lzon.ca/posts/other/microsoft-user-abuse/",
+    "author": "jpmitchell",
     "date": "2026-04-09",
-    "score": 381,
-    "comments": 361,
-    "id": 47692043,
-    "discussion_url": "https://news.ycombinator.com/item?id=47692043",
-    "description": "Muse Spark: Scaling towards personal superintelligence",
+    "score": 336,
+    "comments": 194,
+    "id": 47710149,
+    "discussion_url": "https://news.ycombinator.com/item?id=47710149",
+    "description": "Microsoft is employing dark patterns to goad users into paying for storage?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.427207"
+    "fetched_at": "2026-04-10T11:21:47.623548"
   },
   {
-    "title": "Open source security at Astral",
-    "url": "https://astral.sh/blog/open-source-security-at-astral",
-    "author": "vinhnx",
+    "title": "Native Instant Space Switching on macOS",
+    "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+    "author": "PaulHoule",
     "date": "2026-04-09",
-    "score": 328,
-    "comments": 84,
-    "id": 47699181,
-    "discussion_url": "https://news.ycombinator.com/item?id=47699181",
-    "description": "Open source security at Astral",
+    "score": 530,
+    "comments": 247,
+    "id": 47708818,
+    "discussion_url": "https://news.ycombinator.com/item?id=47708818",
+    "description": "Native Instant Space Switching on macOS",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426317"
+    "fetched_at": "2026-04-10T11:21:47.623393"
+  },
+  {
+    "title": "Netflix Prices Went Up Again – I Bought a DVD Player Instead",
+    "url": "https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/",
+    "author": "speckx",
+    "date": "2026-04-09",
+    "score": 214,
+    "comments": 235,
+    "id": 47709251,
+    "discussion_url": "https://news.ycombinator.com/item?id=47709251",
+    "description": "Netflix Prices Went Up Again – I Bought a DVD Player Instead",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-10T11:21:47.623560"
+  },
+  {
+    "title": "New iPhone age and identity checks restrict internet freedom in the UK",
+    "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
+    "author": "josephcsible",
+    "date": "2026-04-10",
+    "score": 199,
+    "comments": 114,
+    "id": 47712222,
+    "discussion_url": "https://news.ycombinator.com/item?id=47712222",
+    "description": "New iPhone age and identity checks restrict internet freedom in the UK",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-10T11:21:47.623568"
+  },
+  {
+    "title": "Old laptops in a colo as low cost servers",
+    "url": "https://colaptop.pages.dev/",
+    "author": "argentum47",
+    "date": "2026-04-09",
+    "score": 296,
+    "comments": 168,
+    "id": 47707477,
+    "discussion_url": "https://news.ycombinator.com/item?id=47707477",
+    "description": "Old laptops in a colo as low cost servers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-10T11:21:47.623298"
+  },
+  {
+    "title": "PicoZ80 – Drop-In Z80 Replacement",
+    "url": "https://eaw.app/picoz80/",
+    "author": "rickcarlino",
+    "date": "2026-04-09",
+    "score": 199,
+    "comments": 32,
+    "id": 47708041,
+    "discussion_url": "https://news.ycombinator.com/item?id=47708041",
+    "description": "PicoZ80 – Drop-In Z80 Replacement",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-10T11:21:47.623533"
+  },
+  {
+    "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
+    "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
+    "author": "surprisetalk",
+    "date": "2026-04-07",
+    "score": 253,
+    "comments": 83,
+    "id": 47680005,
+    "discussion_url": "https://news.ycombinator.com/item?id=47680005",
+    "description": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-10T11:21:47.623513"
   },
   {
     "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
     "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
     "author": "kisamoto",
     "date": "2026-04-09",
-    "score": 229,
-    "comments": 173,
+    "score": 332,
+    "comments": 220,
     "id": 47700972,
     "discussion_url": "https://news.ycombinator.com/item?id=47700972",
     "description": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
@@ -337,49 +388,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426273"
+    "fetched_at": "2026-04-10T11:21:47.623580"
   },
   {
-    "title": "Session is shutting down in 90 days",
-    "url": "https://getsession.org/donate",
-    "author": "balamatom",
+    "title": "Research-Driven Agents: When an agent reads before it codes",
+    "url": "https://blog.skypilot.co/research-driven-agents/",
+    "author": "hopechong",
     "date": "2026-04-09",
-    "score": 125,
-    "comments": 151,
-    "id": 47703065,
-    "discussion_url": "https://news.ycombinator.com/item?id=47703065",
-    "description": "Session is shutting down in 90 days",
+    "score": 180,
+    "comments": 48,
+    "id": 47706141,
+    "discussion_url": "https://news.ycombinator.com/item?id=47706141",
+    "description": "Research-Driven Agents: When an agent reads before it codes",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426959"
+    "fetched_at": "2026-04-10T11:21:47.623469"
   },
   {
-    "title": "Show HN: 41 years sea surface temperature anomalies",
-    "url": "https://ssta.willhelps.org",
-    "author": "willmeyers",
+    "title": "Reverse engineering Gemini's SynthID detection",
+    "url": "https://github.com/aloshdenny/reverse-SynthID",
+    "author": "_tk_",
     "date": "2026-04-09",
-    "score": 138,
-    "comments": 49,
-    "id": 47702791,
-    "discussion_url": "https://news.ycombinator.com/item?id=47702791",
-    "description": "Show HN: 41 years sea surface temperature anomalies",
+    "score": 154,
+    "comments": 52,
+    "id": 47709130,
+    "discussion_url": "https://news.ycombinator.com/item?id=47709130",
+    "description": "Reverse engineering Gemini's SynthID detection",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.427261"
+    "fetched_at": "2026-04-10T11:21:47.623417"
   },
   {
     "title": "Show HN: CSS Studio. Design by hand, code by agent",
     "url": "https://cssstudio.ai",
     "author": "SirHound",
     "date": "2026-04-09",
-    "score": 115,
-    "comments": 82,
+    "score": 154,
+    "comments": 95,
     "id": 47702196,
     "discussion_url": "https://news.ycombinator.com/item?id=47702196",
     "description": "Show HN: CSS Studio. Design by hand, code by agent",
@@ -388,49 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426614"
+    "fetched_at": "2026-04-10T11:21:47.623541"
   },
   {
-    "title": "The Importance of Being Idle",
-    "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
-    "author": "Caiero",
-    "date": "2026-04-07",
-    "score": 290,
-    "comments": 185,
-    "id": 47666639,
-    "discussion_url": "https://news.ycombinator.com/item?id=47666639",
-    "description": "The Importance of Being Idle",
+    "title": "Show HN: I built a Cargo-like build tool for C/C++",
+    "url": "https://github.com/randerson112/craft",
+    "author": "randerson_112",
+    "date": "2026-04-09",
+    "score": 151,
+    "comments": 137,
+    "id": 47705413,
+    "discussion_url": "https://news.ycombinator.com/item?id=47705413",
+    "description": "Show HN: I built a Cargo-like build tool for C/C++",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.427016"
-  },
-  {
-    "title": "The Vercel plugin on Claude Code wants to read your prompts",
-    "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
-    "author": "akshay2603",
-    "date": "2026-04-10",
-    "score": 242,
-    "comments": 90,
-    "id": 47704881,
-    "discussion_url": "https://news.ycombinator.com/item?id=47704881",
-    "description": "The Vercel plugin on Claude Code wants to read your prompts",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426771"
+    "fetched_at": "2026-04-10T11:21:47.623473"
   },
   {
     "title": "Top laptops to use with FreeBSD",
     "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
     "author": "fork-bomber",
     "date": "2026-04-09",
-    "score": 214,
-    "comments": 122,
+    "score": 315,
+    "comments": 178,
     "id": 47701148,
     "discussion_url": "https://news.ycombinator.com/item?id=47701148",
     "description": "Top laptops to use with FreeBSD",
@@ -439,74 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426477"
+    "fetched_at": "2026-04-10T11:21:47.623564"
   },
   {
-    "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-    "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-    "author": "WerWolv",
+    "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+    "url": "https://www.unfolder.app/",
+    "author": "codazoda",
     "date": "2026-04-09",
-    "score": 389,
-    "comments": 46,
-    "id": 47695012,
-    "discussion_url": "https://news.ycombinator.com/item?id=47695012",
-    "description": "USB for Software Developers: An introduction to writing userspace USB drivers",
+    "score": 244,
+    "comments": 45,
+    "id": 47706140,
+    "discussion_url": "https://news.ycombinator.com/item?id=47706140",
+    "description": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426977"
+    "fetched_at": "2026-04-10T11:21:47.623413"
   },
   {
-    "title": "Understanding Traceroute",
-    "url": "https://tech.stonecharioteer.com/posts/2026/traceroute/",
-    "author": "stonecharioteer",
-    "date": "2026-04-06",
-    "score": 159,
-    "comments": 24,
-    "id": 47656730,
-    "discussion_url": "https://news.ycombinator.com/item?id=47656730",
-    "description": "Understanding Traceroute",
+    "title": "We've raised $17M to build what comes after Git",
+    "url": "https://blog.gitbutler.com/series-a",
+    "author": "ellieh",
+    "date": "2026-04-10",
+    "score": 158,
+    "comments": 347,
+    "id": 47712656,
+    "discussion_url": "https://news.ycombinator.com/item?id=47712656",
+    "description": "We've raised $17M to build what comes after Git",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.427368"
-  },
-  {
-    "title": "Understanding the Kalman filter with a simple radar example",
-    "url": "https://kalmanfilter.net",
-    "author": "alex_be",
-    "date": "2026-04-09",
-    "score": 408,
-    "comments": 58,
-    "id": 47693153,
-    "discussion_url": "https://news.ycombinator.com/item?id=47693153",
-    "description": "Understanding the Kalman filter with a simple radar example",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426997"
-  },
-  {
-    "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
-    "url": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us",
-    "author": "eigenspace",
-    "date": "2026-04-09",
-    "score": 153,
-    "comments": 87,
-    "id": 47701572,
-    "discussion_url": "https://news.ycombinator.com/item?id=47701572",
-    "description": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-10T06:00:15.426634"
+    "fetched_at": "2026-04-10T11:21:47.623440"
   }
 ]
