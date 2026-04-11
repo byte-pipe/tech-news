@@ -4,8 +4,8 @@
     "url": "https://rowan441.github.io/1dchess/chess.html",
     "author": "burnt-resistor",
     "date": "2026-04-10",
-    "score": 834,
-    "comments": 144,
+    "score": 946,
+    "comments": 157,
     "id": 47719740,
     "discussion_url": "https://news.ycombinator.com/item?id=47719740",
     "description": "1D Chess",
@@ -14,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057072"
+    "fetched_at": "2026-04-11T19:18:26.901844"
   },
   {
     "title": "20 years on AWS and never not my job",
     "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
     "author": "cperciva",
     "date": "2026-04-11",
-    "score": 163,
-    "comments": 33,
+    "score": 232,
+    "comments": 59,
     "id": 47727711,
     "discussion_url": "https://news.ycombinator.com/item?id=47727711",
     "description": "20 years on AWS and never not my job",
@@ -31,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057219"
+    "fetched_at": "2026-04-11T19:18:26.901936"
   },
   {
     "title": "A compelling title that is cryptic enough to get you to take action on it",
     "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
     "author": "mooreds",
     "date": "2026-04-10",
-    "score": 241,
-    "comments": 127,
+    "score": 271,
+    "comments": 143,
     "id": 47720827,
     "discussion_url": "https://news.ycombinator.com/item?id=47720827",
     "description": "A compelling title that is cryptic enough to get you to take action on it",
@@ -48,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057037"
+    "fetched_at": "2026-04-11T19:18:26.901944"
   },
   {
     "title": "AI assistance when contributing to the Linux kernel",
     "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
     "author": "hmokiguess",
     "date": "2026-04-10",
-    "score": 339,
-    "comments": 250,
+    "score": 459,
+    "comments": 346,
     "id": 47721953,
     "discussion_url": "https://news.ycombinator.com/item?id=47721953",
     "description": "AI assistance when contributing to the Linux kernel",
@@ -65,15 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057145"
+    "fetched_at": "2026-04-11T19:18:26.901790"
+  },
+  {
+    "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+    "url": "https://www.v68k.org/advanced-mac-substitute/",
+    "author": "zdw",
+    "date": "2026-04-11",
+    "score": 110,
+    "comments": 18,
+    "id": 47731506,
+    "discussion_url": "https://news.ycombinator.com/item?id=47731506",
+    "description": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-11T19:18:26.901816"
   },
   {
     "title": "Artemis II safely splashes down",
     "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
     "author": "areoform",
     "date": "2026-04-11",
-    "score": 932,
-    "comments": 288,
+    "score": 1181,
+    "comments": 373,
     "id": 47725583,
     "discussion_url": "https://news.ycombinator.com/item?id=47725583",
     "description": "Artemis II safely splashes down",
@@ -82,32 +99,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.056964"
+    "fetched_at": "2026-04-11T19:18:26.901811"
   },
   {
-    "title": "CPU-Z and HWMonitor compromised",
-    "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
-    "author": "pashadee",
-    "date": "2026-04-10",
-    "score": 338,
-    "comments": 92,
-    "id": 47717847,
-    "discussion_url": "https://news.ycombinator.com/item?id=47717847",
-    "description": "CPU-Z and HWMonitor compromised",
+    "title": "Bevy game development tutorials and in-depth resources",
+    "url": "https://taintedcoders.com/",
+    "author": "GenericCanadian",
+    "date": "2026-04-09",
+    "score": 125,
+    "comments": 34,
+    "id": 47698111,
+    "discussion_url": "https://news.ycombinator.com/item?id=47698111",
+    "description": "Bevy game development tutorials and in-depth resources",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.056988"
+    "fetched_at": "2026-04-11T19:18:26.901835"
+  },
+  {
+    "title": "Bitcoin miners are losing on every coin produced as difficulty drops",
+    "url": "https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8",
+    "author": "PaulHoule",
+    "date": "2026-04-11",
+    "score": 156,
+    "comments": 143,
+    "id": 47730370,
+    "discussion_url": "https://news.ycombinator.com/item?id=47730370",
+    "description": "Bitcoin miners are losing on every coin produced as difficulty drops",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-11T19:18:26.901780"
   },
   {
     "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
     "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
     "author": "neversaydie",
     "date": "2026-04-10",
-    "score": 339,
-    "comments": 200,
+    "score": 397,
+    "comments": 240,
     "id": 47722333,
     "discussion_url": "https://news.ycombinator.com/item?id=47722333",
     "description": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
@@ -116,15 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057064"
+    "fetched_at": "2026-04-11T19:18:26.901957"
+  },
+  {
+    "title": "Cirrus Labs to join OpenAI",
+    "url": "https://cirruslabs.org/",
+    "author": "seekdeep",
+    "date": "2026-04-11",
+    "score": 189,
+    "comments": 93,
+    "id": 47730194,
+    "discussion_url": "https://news.ycombinator.com/item?id=47730194",
+    "description": "Cirrus Labs to join OpenAI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-11T19:18:26.901852"
   },
   {
     "title": "Clojure on Fennel Part One: Persistent Data Structures",
     "url": "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/",
     "author": "roxolotl",
     "date": "2026-04-07",
-    "score": 147,
-    "comments": 16,
+    "score": 153,
+    "comments": 18,
     "id": 47669923,
     "discussion_url": "https://news.ycombinator.com/item?id=47669923",
     "description": "Clojure on Fennel Part One: Persistent Data Structures",
@@ -133,49 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057068"
-  },
-  {
-    "title": "Code is run more than read (2023)",
-    "url": "https://olano.dev/blog/code-is-run-more-than-read/",
-    "author": "facundo_olano",
-    "date": "2026-04-10",
-    "score": 127,
-    "comments": 92,
-    "id": 47718470,
-    "discussion_url": "https://news.ycombinator.com/item?id=47718470",
-    "description": "Code is run more than read (2023)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057107"
-  },
-  {
-    "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
-    "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
-    "author": "01-_-",
-    "date": "2026-04-10",
-    "score": 588,
-    "comments": 291,
-    "id": 47716490,
-    "discussion_url": "https://news.ycombinator.com/item?id=47716490",
-    "description": "FBI used iPhone notification data to retrieve deleted Signal messages",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057181"
+    "fetched_at": "2026-04-11T19:18:26.901989"
   },
   {
     "title": "Filing the corners off my MacBooks",
     "url": "https://kentwalters.com/posts/corners/",
     "author": "normanvalentine",
     "date": "2026-04-10",
-    "score": 870,
-    "comments": 424,
+    "score": 1213,
+    "comments": 563,
     "id": 47724352,
     "discussion_url": "https://news.ycombinator.com/item?id=47724352",
     "description": "Filing the corners off my MacBooks",
@@ -184,66 +201,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.056977"
+    "fetched_at": "2026-04-11T19:18:26.901878"
   },
   {
-    "title": "France to ditch Windows for Linux to reduce reliance on US tech",
-    "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-    "author": "Teever",
-    "date": "2026-04-10",
-    "score": 517,
-    "comments": 644,
-    "id": 47719486,
-    "discussion_url": "https://news.ycombinator.com/item?id=47719486",
-    "description": "France to ditch Windows for Linux to reduce reliance on US tech",
+    "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+    "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+    "author": "pabs3",
+    "date": "2026-04-11",
+    "score": 360,
+    "comments": 199,
+    "id": 47728653,
+    "discussion_url": "https://news.ycombinator.com/item?id=47728653",
+    "description": "France's government is ditching Windows for Linux, says US tech a strategic risk",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057111"
+    "fetched_at": "2026-04-11T19:18:26.901821"
   },
   {
-    "title": "Helium is hard to replace",
-    "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
-    "author": "JumpCrisscross",
-    "date": "2026-04-10",
-    "score": 318,
-    "comments": 222,
-    "id": 47719274,
-    "discussion_url": "https://news.ycombinator.com/item?id=47719274",
-    "description": "Helium is hard to replace",
+    "title": "How Passive Radar Works",
+    "url": "https://www.passiveradar.com/how-passive-radar-works/",
+    "author": "surprisetalk",
+    "date": "2026-04-09",
+    "score": 123,
+    "comments": 41,
+    "id": 47702890,
+    "discussion_url": "https://news.ycombinator.com/item?id=47702890",
+    "description": "How Passive Radar Works",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057215"
-  },
-  {
-    "title": "Industrial design files for Keychron keyboards and mice",
-    "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-    "author": "stingraycharles",
-    "date": "2026-04-10",
-    "score": 381,
-    "comments": 119,
-    "id": 47720419,
-    "discussion_url": "https://news.ycombinator.com/item?id=47720419",
-    "description": "Industrial design files for Keychron keyboards and mice",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057128"
+    "fetched_at": "2026-04-11T19:18:26.901785"
   },
   {
     "title": "Installing every* Firefox extension",
     "url": "https://jack.cab/blog/every-firefox-extension",
     "author": "RohanAdwankar",
     "date": "2026-04-10",
-    "score": 423,
-    "comments": 58,
+    "score": 586,
+    "comments": 71,
     "id": 47724118,
     "discussion_url": "https://news.ycombinator.com/item?id=47724118",
     "description": "Installing every* Firefox extension",
@@ -252,32 +252,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057090"
+    "fetched_at": "2026-04-11T19:18:26.901768"
   },
   {
-    "title": "Intel 486 CPU announced April 10, 1989",
-    "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
-    "author": "jnord",
+    "title": "Italo Calvino: A traveller in a world of uncertainty",
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+    "author": "lermontov",
     "date": "2026-04-10",
-    "score": 170,
-    "comments": 156,
-    "id": 47716809,
-    "discussion_url": "https://news.ycombinator.com/item?id=47716809",
-    "description": "Intel 486 CPU announced April 10, 1989",
+    "score": 110,
+    "comments": 20,
+    "id": 47725403,
+    "discussion_url": "https://news.ycombinator.com/item?id=47725403",
+    "description": "Italo Calvino: A traveller in a world of uncertainty",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057045"
+    "fetched_at": "2026-04-11T19:18:26.901860"
   },
   {
     "title": "JSON formatter Chrome plugin now closed and injecting adware",
     "url": "https://github.com/callumlocke/json-formatter",
     "author": "jkl5xx",
     "date": "2026-04-10",
-    "score": 225,
-    "comments": 112,
+    "score": 265,
+    "comments": 128,
     "id": 47721946,
     "discussion_url": "https://news.ycombinator.com/item?id=47721946",
     "description": "JSON formatter Chrome plugin now closed and injecting adware",
@@ -286,49 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057206"
-  },
-  {
-    "title": "Molotov cocktail is hurled at home of Sam Altman",
-    "url": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
-    "author": "enraged_camel",
-    "date": "2026-04-10",
-    "score": 230,
-    "comments": 552,
-    "id": 47722096,
-    "discussion_url": "https://news.ycombinator.com/item?id=47722096",
-    "description": "Molotov cocktail is hurled at home of Sam Altman",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057202"
-  },
-  {
-    "title": "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
-    "url": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf",
-    "author": "JackeJR",
-    "date": "2026-04-07",
-    "score": 105,
-    "comments": 24,
-    "id": 47676174,
-    "discussion_url": "https://news.ycombinator.com/item?id=47676174",
-    "description": "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057157"
+    "fetched_at": "2026-04-11T19:18:26.901831"
   },
   {
     "title": "Nowhere is safe",
     "url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
     "author": "sblank",
     "date": "2026-04-10",
-    "score": 183,
-    "comments": 235,
+    "score": 203,
+    "comments": 275,
     "id": 47722562,
     "discussion_url": "https://news.ycombinator.com/item?id=47722562",
     "description": "Nowhere is safe",
@@ -337,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057049"
+    "fetched_at": "2026-04-11T19:18:26.901996"
   },
   {
     "title": "OpenClaw’s memory is unreliable, and you don’t know when it will break",
     "url": "https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys",
     "author": "sonink",
     "date": "2026-04-10",
-    "score": 112,
-    "comments": 132,
+    "score": 139,
+    "comments": 161,
     "id": 47721955,
     "discussion_url": "https://news.ycombinator.com/item?id=47721955",
     "description": "OpenClaw’s memory is unreliable, and you don’t know when it will break",
@@ -354,49 +320,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057055"
+    "fetched_at": "2026-04-11T19:18:26.901932"
   },
   {
-    "title": "Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia",
-    "url": "https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia",
-    "author": "giuliomagnifico",
-    "date": "2026-04-10",
-    "score": 151,
-    "comments": 73,
-    "id": 47714273,
-    "discussion_url": "https://news.ycombinator.com/item?id=47714273",
-    "description": "Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia",
+    "title": "Optimal Strategy for Connect 4",
+    "url": "https://2swap.github.io/WeakC4/explanation/",
+    "author": "marvinborner",
+    "date": "2026-04-08",
+    "score": 222,
+    "comments": 27,
+    "id": 47695213,
+    "discussion_url": "https://news.ycombinator.com/item?id=47695213",
+    "description": "Optimal Strategy for Connect 4",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057115"
+    "fetched_at": "2026-04-11T19:18:26.901755"
   },
   {
-    "title": "Sam Altman's response to Molotov cocktail incident",
-    "url": "https://blog.samaltman.com/2279512",
-    "author": "jack_hanford",
-    "date": "2026-04-10",
-    "score": 307,
-    "comments": 656,
-    "id": 47724921,
-    "discussion_url": "https://news.ycombinator.com/item?id=47724921",
-    "description": "Sam Altman's response to Molotov cocktail incident",
+    "title": "Polymarket gamblers betting millions on war",
+    "url": "https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth",
+    "author": "sandebert",
+    "date": "2026-04-11",
+    "score": 131,
+    "comments": 101,
+    "id": 47729994,
+    "discussion_url": "https://news.ycombinator.com/item?id=47729994",
+    "description": "Polymarket gamblers betting millions on war",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057103"
+    "fetched_at": "2026-04-11T19:18:26.901899"
   },
   {
     "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
     "url": "https://fluidcad.io/",
     "author": "maouida",
     "date": "2026-04-10",
-    "score": 129,
-    "comments": 32,
+    "score": 141,
+    "comments": 33,
     "id": 47721997,
     "discussion_url": "https://news.ycombinator.com/item?id=47721997",
     "description": "Show HN: FluidCAD – Parametric CAD with JavaScript",
@@ -405,15 +371,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057081"
+    "fetched_at": "2026-04-11T19:18:26.902000"
+  },
+  {
+    "title": "Small models also found the vulnerabilities that Mythos found",
+    "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+    "author": "dominicq",
+    "date": "2026-04-11",
+    "score": 357,
+    "comments": 106,
+    "id": 47732020,
+    "discussion_url": "https://news.ycombinator.com/item?id=47732020",
+    "description": "Small models also found the vulnerabilities that Mythos found",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-11T19:18:26.901848"
+  },
+  {
+    "title": "South Korea introduces universal basic mobile data access",
+    "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+    "author": "saikatsg",
+    "date": "2026-04-11",
+    "score": 214,
+    "comments": 63,
+    "id": 47730407,
+    "discussion_url": "https://news.ycombinator.com/item?id=47730407",
+    "description": "South Korea introduces universal basic mobile data access",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-11T19:18:26.901977"
   },
   {
     "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
     "url": "https://playstarfling.com",
     "author": "iceberger2001",
     "date": "2026-04-09",
-    "score": 200,
-    "comments": 57,
+    "score": 468,
+    "comments": 120,
     "id": 47698455,
     "discussion_url": "https://news.ycombinator.com/item?id=47698455",
     "description": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
@@ -422,66 +422,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057086"
+    "fetched_at": "2026-04-11T19:18:26.901895"
   },
   {
-    "title": "Team from ETH Zurich make high quality quantum swap gate using a geometric phase",
-    "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
-    "author": "joko42",
-    "date": "2026-04-10",
-    "score": 226,
-    "comments": 49,
-    "id": 47713495,
-    "discussion_url": "https://news.ycombinator.com/item?id=47713495",
-    "description": "Team from ETH Zurich make high quality quantum swap gate using a geometric phase",
+    "title": "The Bra-and-Girdle Maker That Fashioned the Impossible for NASA",
+    "url": "https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/",
+    "author": "sohkamyung",
+    "date": "2026-04-09",
+    "score": 118,
+    "comments": 14,
+    "id": 47701769,
+    "discussion_url": "https://news.ycombinator.com/item?id=47701769",
+    "description": "The Bra-and-Girdle Maker That Fashioned the Impossible for NASA",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057141"
+    "fetched_at": "2026-04-11T19:18:26.901924"
   },
   {
-    "title": "We've raised $17M to build what comes after Git",
-    "url": "https://blog.gitbutler.com/series-a",
-    "author": "ellieh",
-    "date": "2026-04-10",
-    "score": 315,
-    "comments": 692,
-    "id": 47712656,
-    "discussion_url": "https://news.ycombinator.com/item?id=47712656",
-    "description": "We've raised $17M to build what comes after Git",
+    "title": "The disturbing white paper Red Hat is trying to erase from the internet",
+    "url": "https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/",
+    "author": "choult",
+    "date": "2026-04-11",
+    "score": 114,
+    "comments": 25,
+    "id": 47731960,
+    "discussion_url": "https://news.ycombinator.com/item?id=47731960",
+    "description": "The disturbing white paper Red Hat is trying to erase from the internet",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057149"
+    "fetched_at": "2026-04-11T19:18:26.901795"
   },
   {
-    "title": "What is RISC-V and why it matters to Canonical",
-    "url": "https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical",
-    "author": "fork-bomber",
+    "title": "The future of everything is lies, I guess – Part 5: Annoyances",
+    "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+    "author": "aphyr",
+    "date": "2026-04-11",
+    "score": 145,
+    "comments": 77,
+    "id": 47730981,
+    "discussion_url": "https://news.ycombinator.com/item?id=47730981",
+    "description": "The future of everything is lies, I guess – Part 5: Annoyances",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-11T19:18:26.901948"
+  },
+  {
+    "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
+    "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
+    "author": "geox",
     "date": "2026-04-08",
-    "score": 129,
-    "comments": 98,
-    "id": 47691538,
-    "discussion_url": "https://news.ycombinator.com/item?id=47691538",
-    "description": "What is RISC-V and why it matters to Canonical",
+    "score": 287,
+    "comments": 50,
+    "id": 47687443,
+    "discussion_url": "https://news.ycombinator.com/item?id=47687443",
+    "description": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057076"
+    "fetched_at": "2026-04-11T19:18:26.901969"
   },
   {
     "title": "WireGuard makes new Windows release following Microsoft signing resolution",
     "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
     "author": "zx2c4",
     "date": "2026-04-10",
-    "score": 483,
-    "comments": 142,
+    "score": 533,
+    "comments": 150,
     "id": 47719942,
     "discussion_url": "https://news.ycombinator.com/item?id=47719942",
     "description": "WireGuard makes new Windows release following Microsoft signing resolution",
@@ -490,23 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057198"
-  },
-  {
-    "title": "You can't trust macOS Privacy and Security settings",
-    "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-    "author": "zdw",
-    "date": "2026-04-10",
-    "score": 462,
-    "comments": 158,
-    "id": 47719602,
-    "discussion_url": "https://news.ycombinator.com/item?id=47719602",
-    "description": "You can't trust macOS Privacy and Security settings",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-11T11:12:38.057099"
+    "fetched_at": "2026-04-11T19:18:26.901952"
   }
 ]
