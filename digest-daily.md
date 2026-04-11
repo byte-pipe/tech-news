@@ -1,79 +1,75 @@
 ---
-date: '2026-04-11'
+date: '2026-04-12'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-11T18:00:31.282612'
+generated_at: '2026-04-12T06:04:28.624027'
 ---
 
 ## Executive Summary
-- AI agents are moving from design tools to finance, with Figma’s new canvas agents and Luke Spill’s analysis of how agents could erode the banking “inertia premium.”  
-- Anthropic’s Mythos preview signals a potential shift toward AI‑generated exploit chains, prompting a security reckoning.  
-- GitButler secured $17 M to redesign collaboration beyond Git’s legacy constraints, while the developer community gears up for the next DEV Weekend Challenge.  
-- Battery‑recycling startup Ascend Elements entered Chapter 11, underscoring volatility in the EV supply chain, as NASA’s Artemis II delivered fresh lunar science data.  
+- Anthropic unveiled an “advisor” layer that lets Claude’s cheaper models call Opus for complex reasoning, promising near‑frontier intelligence at lower cost.  
+- Apache Airflow 3.2.0 shipped with data‑aware partitioning, experimental multi‑team isolation, and synchronous deadline callbacks, tightening enterprise workflow control.  
+- Investigations revealed the moral hazards of prediction‑market betting on war outcomes at Polymarket and a Red Hat white paper on lethal AI being quietly removed from the web.  
+- Apple expanded its Business Essentials suite to more than 200 countries, offering free MDM and low‑cost device‑care plans for SMBs.  
+- OpenClaw’s autonomous‑agent memory proved unreliable, and new research on persistent data structures in Fennel highlighted performance gaps versus native Lua tables.  
 
 ---
 
 ## AI and Machine Learning
 
-### Your RAM Has a 60 Year Old Design Flaw. I Bypassed It. – YouTube (hackernews_api)  
-*No substantive content was provided, so a summary cannot be generated.*
+### Join our April Fools Challenge for a chance at TEA‑RRIFIC prizes!!! – DEV Community [devto]  
+The DEV Community is running an April Fools hackathon that encourages participants to build deliberately useless software, rewarding creativity, over‑engineering, and humor with teapots, DEV++ memberships, and badges.
 
-### Author Correction: Multi‑omic profiling reveals age‑related immune dynamics in healthy adults – Nature (newsfeed)  
-Nature issued a correction for labeling errors in Figure 2c‑d of its October 2025 study on age‑related immune changes, updating both HTML and PDF versions to ensure accurate interpretation of the multi‑omic data.
+### ‘Abhorrent’: the inside story of the Polymarket gamblers betting millions on war – The Guardian [hackernews_api]  
+A Guardian investigation shows Polymarket users wagering hundreds of millions on geopolitical events—from Russian advances in Ukraine to US‑Iran ceasefires—while attempting to influence outcome‑determining sources, prompting calls for regulatory oversight.
 
-### Agents, Meet the Figma Canvas – Figma Blog (tldr)  
-Figma launched a beta where AI agents can read and edit the full design canvas using “skills”—markdown‑based instruction sets that encode design system rules—enabling agents like Claude Code and Codex to create or modify components, generate design‑informed code, and maintain brand consistency without custom plugins.
+### OpenClaw’s memory is unreliable, and you don’t know when it will break – Hacker News [hackernews_api]  
+An analysis of the OpenClaw autonomous‑agent platform finds it functional but plagued by unpredictable memory loss, making it unsuitable for reliable personal or business automation beyond simple daily news digests.
 
-### AI: The End of the Inertia Premium – Luke Spill (tldr)  
-Spill argues that consumer‑facing AI agents will continuously chase the highest‑yield accounts and optimal credit‑card rewards, potentially shrinking global banking profits by up to 10 % as “inertia premiums” evaporate, and suggests banks either build their own agents or compete on rates.
+### Anthropic launches advisor tool for Claude API users – TL;DR [tldr]  
+Anthropic added an “advisor” component that lets cheap Claude models (Sonnet/Haiku) invoke the powerful Opus model only when needed, delivering near‑Opus performance on benchmarks while keeping operational costs low.
 
----
+### Apple goes global with key MDM tools and services for business – Computerworld [tldr]  
+Apple rebranded its Business Essentials suite as “Apple Business,” launching free MDM, 5 GB per‑user storage, and low‑priced AppleCare+ plans worldwide, positioning the ecosystem as a direct competitor to Google Workspace and Microsoft 365 for SMBs.
 
-## Cybersecurity and Privacy
-
-### Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think – WIRED (newsfeed)  
-Anthropic’s Claude Mythos preview can autonomously discover vulnerabilities and stitch them into multi‑stage exploit chains, prompting a limited “Project Glasswing” rollout to major defenders; while some view it as hype, experts warn it may accelerate both attacker and defender capabilities, pushing the industry toward machine‑scale security defenses.
+### Reddit – Please wait for verification – Reddit [reddit]  
+*Content not provided; unable to summarize.*
 
 ---
 
 ## Software Engineering and Dev Tools
 
-### The Next DEV Weekend Challenge Launches on April 16‑20 – DEV Community (devto)  
-The DEV community announced a global weekend‑long coding sprint with a secret prompt revealed on launch; participants have a full weekend across time zones to build, document, and submit projects, with related challenges offering prizes and community exposure.
+### Clojure on Fennel part one: Persistent Data Structures – Hacker News [hackernews_api]  
+The author presents a Fennel implementation of Clojure‑style persistent data structures (HAMT, bit‑partitioned trie, red‑black trees) and benchmarks showing they are significantly slower than native Lua tables, highlighting the need for further optimization.
 
-### picoZ80 – engineers@work (hackernews_api)  
-The picoZ80 board replaces a classic Z80 CPU with a dual‑core RP2350 microcontroller, delivering cycle‑accurate bus timing, up to 300 MHz operation, Wi‑Fi/Bluetooth via an ESP32 co‑processor, and virtual device support, enabling retro‑computing enthusiasts to run faster, feature‑rich Z80‑compatible systems.
+### Tainted Coders – Bevy Game Development Guides – Hacker News [hackernews_api]  
+A comprehensive, community‑driven Bevy documentation site now covers fundamentals, physics integrations, and advanced Rust patterns, serving as the primary learning hub for developers building games with the Bevy engine.
 
-### We’ve raised $17 M to build what comes after Git – Butler’s Log (hackernews_api)  
-GitButler closed a $17 M Series A led by a16z to create tooling that transcends Git’s historic constraints, focusing on branch stacking, AI‑agent collaboration, and real‑time context sharing to reduce friction in modern software development workflows.
+### The disturbing white paper Red Hat is trying to erase from the internet – OSNews [hackernews_api]  
+OSNews reports that Red Hat removed a 2024 white paper describing AI‑enabled lethal targeting (“Device Edge”) from its website, sparking criticism over the company’s role in militarized AI and calls for greater transparency.
 
-### Aventon Current ADV Electric Mountain Bike Review – WIRED (newsfeed)  
-WIRED’s review of the $4,599 Aventon Current ADV e‑MTB highlights its 850 W motor, 800 Wh battery, and high‑end components that deliver a real‑mountain‑bike feel, while noting ergonomic drawbacks such as a top‑tube touchscreen and a long wheelbase that hampers tight maneuvering.
+### Advanced Mac Substitute – HNRSS [hnrss]  
+An open‑source project re‑creates the 1980s Macintosh OS at the API level, emulating 68K applications without Apple ROMs and supporting multiple front‑ends (SDL2, X11, framebuffer) across POSIX platforms.
 
-### How Agile practices ensure quality in GenAI‑assisted development – InfoWorld (tldr)  
-InfoWorld outlines how test‑driven, behavior‑driven, and acceptance‑test‑driven development, paired with pair programming, CI pipelines, and automated security/licensing checks, can mitigate the technical debt and security risks introduced by AI coding assistants.
+### Flight Viz — Cockpit View – HNRSS [hnrss]  
+A lightweight web UI displays real‑time flight telemetry (altitude, speed, heading) with an exit button and map panel, illustrating a minimalistic approach to cockpit visualization.
 
----
-
-## Open Source
-
-### Keychron/Keychron‑Keyboards‑Hardware‑Design – GitHub (hackernews_api)  
-The repository provides production‑grade CAD files (STEP, DWG, DXF, PDF) for over 100 Keychron keyboard and mouse models, licensed for personal/educational use and limited commercial accessory creation, with recent updates adding new “K0 Max” and “Q12 HE” designs.
+### Surelock – HNRSS [hnrss]  
+Surelock introduces a deadlock‑free locking library for Rust that eliminates circular‑wait via deterministic `LockSet` ordering and compile‑time level enforcement, operating with `no_std` and zero runtime dependencies.
 
 ---
 
-## Startups and Business
+## Cloud and Infrastructure
 
-### Battery recycler Ascend Elements files for bankruptcy – TechCrunch (newsfeed)  
-Ascend Elements entered Chapter 11 after exhausting nearly $900 M in capital; a canceled federal grant, a stalled EV market, and construction delays at its Kentucky recycling plant left the company insolvent, highlighting the competitive pressure from well‑funded Chinese recyclers.
+### Apache Airflow 3.2.0: Data‑Aware Workflows at Scale – Apache Airflow [tldr]  
+Airflow 3.2.0 adds partition‑driven scheduling, experimental multi‑team isolation, synchronous deadline callbacks, and UI enhancements (HITL approval history, XCom editing), enabling finer‑grained, enterprise‑scale orchestration.
 
 ---
 
 ## Science and Research
 
-### Behind the scenes with Artemis II’s scientists during the historic Moon fly‑by – (newsfeed)  
-A NASA science operations team captured real‑time data during Artemis II’s lunar far‑side fly‑by, revealing unexpected exosphere variations and confirming magnetic field models; the mission’s European instrument contributions and public‑engaging “Earthset” imagery underscore growing international collaboration in lunar exploration.  
+### Artemis II: What happens to the astronauts now? – Newsfeed [newsfeed]  
+Post‑splashdown, Artemis II crew undergo medical exams, face modest two‑week microgravity effects, and reunite with families; the mission’s success paves the way for lunar landings and future deep‑space flights.
 
 ---
 
 ## Notable Mentions
-- No additional items were provided for a Notable Mentions list.
+- CAR T‑cell therapy takes woman from bedridden to “perfectly fine” – New Scientist [newsfeed]
