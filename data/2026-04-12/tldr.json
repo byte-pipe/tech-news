@@ -20,49 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants (4 minute read)",
-    "url": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
-    "description": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
     "title": "5 New Chains, $1B+ Raised, $3B TVL, but $2.5M in Fees (1 minute read)",
     "url": "https://threadreaderapp.com/thread/2041184272586076449.html",
     "description": "5 New Chains, $1B+ Raised, $3B TVL, but $2.5M in Fees (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "5 Ways Product Discovery Breaks Down (5 minute read)",
-    "url": "https://itamargilad.com/discovery-problems2/",
-    "description": "5 Ways Product Discovery Breaks Down (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "58% of PRs in our largest monorepo merge without human review (10 minute read)",
-    "url": "https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review",
-    "description": "58% of PRs in our largest monorepo merge without human review (10 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "A Guide to Context Engineering for LLMs (13 minute read)",
-    "url": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for",
-    "description": "A Guide to Context Engineering for LLMs (13 minute read)",
     "tags": [
       "tldr"
     ],
@@ -100,9 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Products Have Terrible UX: Here's Why (8 minute read)",
-    "url": "https://hackernoon.com/ai-products-have-terrible-ux-heres-why",
-    "description": "AI Products Have Terrible UX: Here's Why (8 minute read)",
+    "title": "AI Governance Is the Bottleneck (4 minute read)",
+    "url": "https://www.cxtoday.com/ai-automation-in-cx/why-weak-ai-governance-is-the-biggest-risk-in-enterprise-automation-today/",
+    "description": "AI Governance Is the Bottleneck (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -110,9 +70,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI for IT Stalls as Network Complexity Rises (4 minute read)",
-    "url": "https://www.networkworld.com/article/4152655/ai-for-it-stalls-as-network-complexity-rises.html",
-    "description": "AI for IT Stalls as Network Complexity Rises (4 minute read)",
+    "title": "AI Products Have Terrible UX: Here's Why (8 minute read)",
+    "url": "https://hackernoon.com/ai-products-have-terrible-ux-heres-why",
+    "description": "AI Products Have Terrible UX: Here's Why (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -170,16 +130,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agents, Meet the Figma Canvas (5 minute read)",
-    "url": "https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/",
-    "description": "Agents, Meet the Figma Canvas (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
     "title": "Agile Still Matters for GenAI (5 minute read)",
     "url": "https://www.infoworld.com/article/4155901/how-agile-practices-ensure-quality-in-genai-assisted-development.html",
     "description": "Agile Still Matters for GenAI (5 minute read)",
@@ -193,16 +143,6 @@
     "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter (3 minute read)",
     "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
     "description": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Anthropic Doubles Down on Google Cloud (1 minute read)",
-    "url": "https://www.googlecloudpresscorner.com/2026-04-06-Anthropic-Expands-Use-of-Google-Cloud-and-TPUs",
-    "description": "Anthropic Doubles Down on Google Cloud (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -250,16 +190,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple Business Launches April 14 (5 minute read)",
-    "url": "https://www.computerworld.com/article/4149464/apple-goes-global-with-key-mdm-tools-and-services-for-business.html",
-    "description": "Apple Business Launches April 14 (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
     "title": "Archon (GitHub Repo)",
     "url": "https://github.com/coleam00/Archon",
     "description": "Archon (GitHub Repo)",
@@ -283,16 +213,6 @@
     "title": "Betting on Humans With Expertise (16 minute read)",
     "url": "https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/",
     "description": "Betting on Humans With Expertise (16 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "CISA Flags Fortinet Zero-Day (3 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
-    "description": "CISA Flags Fortinet Zero-Day (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -370,26 +290,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Confessions of a Millennial in Tech (6 minute read)",
-    "url": "https://www.elenaverna.com/p/confessions-of-a-millennial-in-tech",
-    "description": "Confessions of a Millennial in Tech (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Defuddle (GitHub Repo)",
-    "url": "https://github.com/kepano/defuddle",
-    "description": "Defuddle (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
     "title": "Dutch healthcare software vendor goes dark after ransomware attack (2 minute read)",
     "url": "https://www.theregister.com/2026/04/08/chipsoft_ransomware/",
     "description": "Dutch healthcare software vendor goes dark after ransomware attack (2 minute read)",
@@ -460,16 +360,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "GitNexus (GitHub Repo)",
-    "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "description": "GitNexus (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
     "title": "GitOps policy-as-code: Securing Kubernetes with Argo CD and Kyverno (3 minute read)",
     "url": "https://www.cncf.io/blog/2026/04/02/gitops-policy-as-code-securing-kubernetes-with-argo-cd-and-kyverno/",
     "description": "GitOps policy-as-code: Securing Kubernetes with Argo CD and Kyverno (3 minute read)",
@@ -510,19 +400,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google tests Jules V2 agent capable of taking bigger tasks (3 minute read)",
-    "url": "https://www.testingcatalog.com/google-prepares-jules-v2-agent-capable-of-taking-bigger-tasks/",
-    "description": "Google tests Jules V2 agent capable of taking bigger tasks (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Guest Posting Process on LinkedIn (2 minute read)",
-    "url": "https://www.linkedin.com/posts/benjamingoodey_guest-posting-has-quietly-become-one-of-the-share-7446897929019150337-YPZ-",
-    "description": "Guest Posting Process on LinkedIn (2 minute read)",
+    "title": "Hack-for-hire group caught targeting Android devices and iCloud backups (3 minute read)",
+    "url": "https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/",
+    "description": "Hack-for-hire group caught targeting Android devices and iCloud backups (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -570,16 +450,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Higgsfield Brings Art-directed Quality to AI Image Generation (2 minute read)",
-    "url": "https://www.designboom.com/technology/higgsfield-art-directed-quality-ai-image-generation/",
-    "description": "Higgsfield Brings Art-directed Quality to AI Image Generation (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
     "title": "How Consumers Really Feel About Shopping in ChatGPT and Google (14 minute read)",
     "url": "https://www.crazyegg.com/blog/ecommerce-ai-purchase-survey/",
     "description": "How Consumers Really Feel About Shopping in ChatGPT and Google (14 minute read)",
@@ -620,9 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines (9 minute read)",
+    "title": "How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines (8 minute read)",
     "url": "https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/",
-    "description": "How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines (9 minute read)",
+    "description": "How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -703,16 +573,6 @@
     "title": "How we built Organizations to help enterprises manage Cloudflare at scale (5 minute read)",
     "url": "https://blog.cloudflare.com/organizations-beta/",
     "description": "How we built Organizations to help enterprises manage Cloudflare at scale (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Hyperliquid HIP-3 + HIP-4 Composability (1 minute read)",
-    "url": "https://threadreaderapp.com/thread/2040636824922562892.html",
-    "description": "Hyperliquid HIP-3 + HIP-4 Composability (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -890,6 +750,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark (3 minute read)",
+    "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+    "description": "Meta's Superintelligence Lab unveils its first public model, Muse Spark (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-12",
+    "site_name": "tldr"
+  },
+  {
     "title": "Microsoft Device Code Phishing Bypasses MFA Using Legitimate Login Flow (3 minute read)",
     "url": "https://www.theregister.com/2026/04/07/microsoft_device_code_phishing/",
     "description": "Microsoft Device Code Phishing Bypasses MFA Using Legitimate Login Flow (3 minute read)",
@@ -933,16 +803,6 @@
     "title": "One simple reason why I think Satoshi is no longer with us (5 minute read)",
     "url": "https://murmurationstwo.substack.com/p/if-satoshi-is-still-alive-they-must",
     "description": "One simple reason why I think Satoshi is no longer with us (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI tests next-gen Image V2 model on ChatGPT and LM Arena (2 minute read)",
-    "url": "https://www.testingcatalog.com/openai-tests-next-gen-image-v2-model-on-chatgpt-and-lm-arena/",
-    "description": "OpenAI tests next-gen Image V2 model on ChatGPT and LM Arena (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1060,6 +920,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Rocket (Tool)",
+    "url": "https://www.rocket.new/",
+    "description": "Rocket (Tool)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-12",
+    "site_name": "tldr"
+  },
+  {
     "title": "Router hijacks hit Microsoft 365 logins (4 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
     "description": "Router hijacks hit Microsoft 365 logins (4 minute read)",
@@ -1100,16 +970,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "SEO A/B Testing: 5 Easy Experiments to Drive Traffic (7 minute read)",
-    "url": "https://www.wordstream.com/blog/seo-ab-testing",
-    "description": "SEO A/B Testing: 5 Easy Experiments to Drive Traffic (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
     "title": "SF is back - and the tech social scene is being run by the terminally online (6 minute read)",
     "url": "https://a16z.com/sf-is-back/",
     "description": "SF is back - and the tech social scene is being run by the terminally online (6 minute read)",
@@ -1123,16 +983,6 @@
     "title": "Scaling Managed Agents: Decoupling the brain from the hands (13 minute read)",
     "url": "https://www.anthropic.com/engineering/managed-agents",
     "description": "Scaling Managed Agents: Decoupling the brain from the hands (13 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Search moves beyond keywords as AI reshapes ad targeting (3 minute read)",
-    "url": "https://www.marketingtechnews.net/news/search-moves-beyond-keywords-as-ai-reshapes-ad-targeting/",
-    "description": "Search moves beyond keywords as AI reshapes ad targeting (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1173,16 +1023,6 @@
     "title": "ServiceNow Embeds AI Governance (4 minute read)",
     "url": "https://www.cio.com/article/4156549/servicenow-rolls-out-context-engine-to-embed-ai-governance-across-its-platform.html",
     "description": "ServiceNow Embeds AI Governance (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Social media has become a freak show (17 minute read)",
-    "url": "https://www.natesilver.net/p/social-media-has-become-a-freak-show",
-    "description": "Social media has become a freak show (17 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1243,16 +1083,6 @@
     "title": "The Claude Ecosystem (1 minute read)",
     "url": "https://www.linkedin.com/posts/richardking001_struggling-to-understand-claude-this-is-share-7447713761215279105-qRy9",
     "description": "The Claude Ecosystem (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The Cult Of Vibe Coding Is Insane (6 minute read)",
-    "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
-    "description": "The Cult Of Vibe Coding Is Insane (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1370,16 +1200,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Venture Capital Has a Starting Line Problem (7 minute read)",
-    "url": "https://www.thisisgoingtobebig.com/blog/2026/4/8/venture-capital-has-a-starting-line-problem",
-    "description": "Venture Capital Has a Starting Line Problem (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
     "title": "Veralang (Tool)",
     "url": "https://veralang.dev/",
     "description": "Veralang (Tool)",
@@ -1393,16 +1213,6 @@
     "title": "We're missing a much bigger point on Mythos (1 minute read)",
     "url": "https://danielmiessler.com/blog/wrong-message-from-mythos",
     "description": "We're missing a much bigger point on Mythos (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "What Being Ripped Off for $35k Taught Me (8 minute read)",
-    "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
-    "description": "What Being Ripped Off for $35k Taught Me (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1483,16 +1293,6 @@
     "title": "You need better storytelling (9 minute read)",
     "url": "https://www.growthunhinged.com/p/you-need-better-storytelling",
     "description": "You need better storytelling (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-12",
-    "site_name": "tldr"
-  },
-  {
-    "title": "YouTube Tests AI Summaries On Home Screen (5 minute read)",
-    "url": "https://www.findarticles.com/youtube-tests-ai-summaries-on-home-screen/",
-    "description": "YouTube Tests AI Summaries On Home Screen (5 minute read)",
     "tags": [
       "tldr"
     ],
