@@ -1,64 +1,97 @@
 ---
-date: '2026-04-13'
+date: '2026-04-14'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-13T18:00:27.419729'
+generated_at: '2026-04-14T06:05:59.444093'
 ---
 
-## Executive Summary
-- A developer‑focused company with a 99 % SendGrid reputation is still being flagged as spam by Gmail, highlighting the challenges of aligning third‑party scores with Google’s own reputation system.  
-- Californians have filed a proposed class‑action against Sutter Health, MemorialCare and AI‑transcription vendor Abridge, alleging undisclosed recording of doctor‑patient conversations.  
-- Eurail disclosed a breach affecting over 300 k travelers, while Dutch healthcare software vendor ChipSoft suffered a ransomware attack that temporarily knocked out its patient‑record platform.  
-- Apple is evaluating four frame designs for its first consumer smart glasses, aiming for a 2027 launch with core communication features rather than full mixed‑reality.  
-- New discussions on code complexity, a GitHub Action that forces PR authors to answer comprehension questions, and the award‑winning phyphox physics‑experiment app round out the day’s tech and science highlights.  
+## Executive Summary  
+- Apple’s “AI loser” position may become a strategic advantage as it leverages massive device‑level context and a $1 B Gemini license, while Microsoft simply rebrands its Windows 11 Copilot without changing functionality.  
+- AI‑generated influencers dominate the Coachella scene, raising concerns about undisclosed synthetic content and brand‑marketing ethics.  
+- A supply‑chain breach compromised more than 30 popular WordPress plugins, inserting a stealthy backdoor that serves SEO spam only to Googlebot.  
+- The open‑source Servo project is now available as a Rust crate, and a 13‑year‑old Remote Code Execution flaw in Apache ActiveMQ has been patched after active exploitation attempts.  
+- A new analysis shows engineering teams are “flying blind” on costs, while an APT41 cloud‑credential harvester targets major cloud providers via obscure SMTP C2.  
+- In geopolitics, Hungary’s long‑standing premier Viktor Orbán was ousted after Péter Magyar’s Tisza Party won a super‑majority, reshaping EU‑Hungary relations.
 
----  
+---
 
-## AI and Machine Learning  
+# AI and Machine Learning (8 articles)
 
-### We have a 99% email reputation. Gmail disagrees. [Hacker News]  
-The company’s SendGrid score is 99 % but Gmail still routes its messages to spam because Google runs an independent reputation system that penalizes low‑frequency sending and other “correct” practices. The team is cleaning lists, throttling sends and urging recipients to mark messages as “Not Spam.”  
+### How the “AI Loser” may end up winning – [@adlrocha] (hackernews_api)  
+Apple’s late entry into AI may become a moat by pairing a $1 B Gemini model license with its unrivaled on‑device personal context from 2.5 billion devices, allowing privacy‑preserving inference without heavy compute spend.
 
-### Californians sue over AI tool that records doctor visits [Ars Technica]  
-Patients in California have filed a proposed class‑action against Sutter Health, MemorialCare and AI transcription startup Abridge, claiming they were not informed that their visits were being recorded, transmitted off‑site and processed by a third‑party AI. The lawsuit underscores growing privacy concerns as AI‑driven clinical note‑taking expands across major health systems.  
+### Most people can't juggle one ball — LessWrong – [LessWrong] (trending)  
+A detailed, step‑by‑step tutorial walks readers from a single‑ball toss to mastering seven‑ball cascades, emphasizing posture, timing, and common mistakes for each progression.
 
-*Missing content: “Reddit – Please wait for verification” (no article text provided).*
+### Microsoft isn’t removing Copilot from Windows 11, it’s just renaming it – [Neowin]  
+Microsoft confirmed the AI assistant will stay in Windows 11 but will receive a new brand name; all features, shortcuts and Microsoft 365 integration remain unchanged.
 
----  
+### AI influencers are ‘everywhere’ at Coachella – [The Verge]  
+Synthetic avatars such as Ammarathegoat, Grannyspills and Lil Miquela flood Instagram with festival posts, often undisclosed, offering brands cheap, controllable promotion while blurring reality for viewers.
 
-## Cybersecurity and Privacy  
+### Servo is now available on crates.io – [hackernews_api] (trending)  
+The Servo web‑engine library reaches version 0.1.0 on crates.io, marking its first usable crate release and introducing an LTS track for embedders despite still being pre‑1.0.
 
-### Eurail data breach impacted 308,777 people [tldr]  
-Hackers accessed Eurail’s network in December 2025, exfiltrating personal identifiers, passport/ID numbers, contact details, IBANs and travel itineraries. The breach was disclosed in April 2026; Eurail has engaged forensic experts, notified authorities under GDPR and urged customers to monitor accounts and reset passwords.  
+### Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them – [hackernews_api] (trending)  
+A flippa acquisition inserted a PHP deserialization backdoor into 31 “Essential Plugin” extensions; the malware only serves SEO spam to Googlebot and survives the forced plugin update because it modifies `wp-config.php`.
 
-### Ransomware knocks Dutch healthcare software vendor offline [The Register]  
-ChipSoft, which powers patient‑record systems for roughly 80 % of Dutch hospitals, had its website taken down by a ransomware attack on 7 April 2026. While most hospitals remain online, 11 have temporarily disconnected the software. The incident highlights the acute risk ransomware poses to critical health‑care infrastructure.  
+### The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind – [Viktor Cessan] (trending)  
+A cost‑analysis shows a typical Western‑European engineer costs €130 k/yr, yet teams rarely know this; platform teams must save >1,340 hrs/month to break even, highlighting the need for transparent financial metrics.
 
----  
+### 13‑year‑old bug in ActiveMQ lets hackers remotely execute commands – [tldr]  
+CVE‑2026‑34197, a remote code execution flaw in Apache ActiveMQ Classic’s Jolokia API, existed for 13 years; patches released March 30, 2026, and early exploitation attempts have been observed in the wild.
 
-## Software Engineering and Dev Tools  
+# Cybersecurity and Privacy (1 article)
 
-### How Complex is my Code? [Hacker News]  
-The article breaks down multiple dimensions of code complexity—algorithmic, cyclomatic, Halstead, and linguistic—showing that low CPU cost can mask high mental effort. It argues that developers should weigh human‑centric metrics (e.g., working‑memory load) alongside traditional Big‑O analysis when assessing maintainability.  
+### 13‑year‑old bug in ActiveMQ lets hackers remotely execute commands – [tldr]  
+(See AI & ML section above for full synthesis.)
 
-### Apple reportedly testing four designs for upcoming smart glasses [TechCrunch]  
-Apple is prototyping four frame styles—large/small rectangular and oval—potentially in black, ocean‑blue or light‑brown, targeting a 2027 consumer launch. The glasses will focus on core functions (camera, calls, music, Siri) without a built‑in display, positioning them closer to Meta’s Ray‑Ban style than to full AR headsets.  
+# Software Engineering and Dev Tools (8 articles)
 
-### Best 2‑in‑1 Laptops (2026): Microsoft, Lenovo, and the iPad [WIRED]  
-WIRED’s buying guide evaluates detachable tablets (Surface Pro 13‑inch, Surface Pro 12, iPad Air M4) and convertible laptops (Lenovo Yoga 9i, Framework Laptop 12, Acer Chromebook Plus Spin 514). Detachables excel for true tablet experiences, while convertibles offer a traditional laptop feel with touchscreen versatility; price, performance and ecosystem considerations drive the recommendations.  
+### I Couldn’t Afford Earth, So I Built Something Better – [DEV Community]  
+A tongue‑in‑cheek April‑Fools project “SpaceEstate” pretends to sell real‑estate on planets, using React, Vite and the Gemini API for mock negotiations with aliens.
 
-### GitHub – islandbytesio/commit_comprehension_gate [tldr]  
-A new GitHub Action creates three multiple‑choice questions about a PR’s logic using Claude, requiring the author to answer before the “Comprehension Gate” status can pass. The workflow runs locally, costs roughly $0.05–$0.10 per PR, and can be enforced via branch protection rules to ensure developers demonstrate understanding of AI‑generated changes.  
+### Meet Hotfix—The Dragon Your Legacy Code Deserves – [DEV Community]  
+An April‑Fools incident‑management tool lets users upload screenshots; Gemini Vision generates a structured report while a PixiJS dragon “melts” the code artifact.
 
-*Missing content: “Happy map” (no article text provided).*
+### The Standup Chaos Simulator – [DEV Community]  
+A satirical web app simulates chaotic developer stand‑ups, exporting a transcript and GIF; built with Next.js, TypeScript and html2canvas, with no backend or LLM calls.
 
----  
+### Servo is now available on crates.io – [hackernews_api] (trending)  
+(See AI & ML section above for synthesis.)
 
-## Science and Research  
+### Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them – [hackernews_api] (trending)  
+(See AI & ML section above for synthesis.)
 
-### phyphox – Physical Phone Experiments [Hacker News]  
-The phyphox app turns smartphones into lab‑grade sensors for physics experiments, offering data export, remote control and a library of custom experiments. It has earned multiple teaching awards (Ars legendi‑faculty, DPG, Archimedes) and receives ongoing support from German research foundations and the Federal Ministry of Education and Research.  
+### The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind – [Viktor Cessan] (trending)  
+(See AI & ML section above for synthesis.)
 
----  
+### Android now stops you sharing your location in photos – [Terence Eden’s Blog]  
+Google’s recent Android changes strip EXIF geotags from web‑uploaded photos, breaking projects like OpenBenches that rely on location metadata; work‑arounds require native apps or manual coordinate entry.
 
-## Notable Mentions  
-- *(No additional mentions were supplied.)*
+### GitHub – nothing‑ever‑happens Polymarket Bot – [GitHub]  
+An async Python bot scans Polymarket “yes/no” markets, auto‑places “No” bets below a configurable cap, and runs in a safe “dry‑run” mode unless explicit live‑trading env vars are set.
+
+# Open Source (1 article)
+
+### The Final 1% of Every GitHub Project: Sealing It Properly – [DEV Community]  
+A checklist for “sealing” releases covers README quality, branch hygiene, semantic tags, GitHub rulesets, release notes and licensing to ensure a project is deployable, maintainable and trustworthy.
+
+# Cloud and Infrastructure (1 article)
+
+### APT41 Winnti ELF Cloud Credential Harvester – [Breakglass Intelligence]  
+APT41’s ELF backdoor harvests AWS, GCP, Azure and Alibaba Cloud credentials, exfiltrates via SMTP port 25, and uses three Alibaba‑typosquat domains in Singapore for covert C2; the campaign traces back six years.
+
+# Startups and Business (1 article)
+
+### Venture‑Backed CFO Report 2026 – [tldr]  
+Half of VC‑backed CFOs report measurable ROI from AI, with AI‑driven productivity reducing junior hiring needs; 2026 AI spend is projected to rise 2.5×, though median budgets remain modest (~$50 k).
+
+# World News and Geopolitics (1 article)
+
+### Who is Péter Magyar, who beat Hungarian PM Viktor Orbán? – [NPR]  
+Former Orbán ally Péter Magyar’s anti‑corruption platform propelled the Tisza Party to a two‑thirds parliamentary majority on 13 April 2026, ending Orbán’s 16‑year rule and promising EU‑NATO reintegration and systemic reforms.
+
+# Notable Mentions
+- AEO is not SEO 2.0 – The Future of SEO by Eli Schwartz [tldr]  
+- ClickUp may end becoming a cautionary SEO tale. They've gone all in on the LLMs but have gotten DECIMATED in search (-7M in estimated traffic) [tldr]  
+- BYD’s Fastest-Charging Car in the World Is Astonishing—in Good and Bad Ways | WIRED [newsfeed]
