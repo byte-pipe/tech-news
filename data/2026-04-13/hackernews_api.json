@@ -1,28 +1,11 @@
 [
   {
-    "title": "A Tour of Oodi",
-    "url": "https://blinry.org/oodi/",
-    "author": "zdw",
-    "date": "2026-04-09",
-    "score": 156,
-    "comments": 44,
-    "id": 47706560,
-    "discussion_url": "https://news.ycombinator.com/item?id=47706560",
-    "description": "A Tour of Oodi",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717848"
-  },
-  {
     "title": "A perfectable programming language",
     "url": "https://alok.github.io/lean-pages/perfectable-lean/",
     "author": "yuppiemephisto",
     "date": "2026-04-12",
-    "score": 140,
-    "comments": 49,
+    "score": 198,
+    "comments": 115,
     "id": 47744540,
     "discussion_url": "https://news.ycombinator.com/item?id=47744540",
     "description": "A perfectable programming language",
@@ -31,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717888"
+    "fetched_at": "2026-04-13T20:05:27.196902"
   },
   {
     "title": "All elementary functions from a single binary operator",
     "url": "https://arxiv.org/abs/2603.21852",
     "author": "pizza",
     "date": "2026-04-13",
-    "score": 504,
-    "comments": 125,
+    "score": 754,
+    "comments": 228,
     "id": 47746610,
     "discussion_url": "https://news.ycombinator.com/item?id=47746610",
     "description": "All elementary functions from a single binary operator",
@@ -48,32 +31,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717857"
+    "fetched_at": "2026-04-13T20:05:27.196886"
   },
   {
-    "title": "Anthropic downgraded cache TTL on March 6th",
-    "url": "https://github.com/anthropics/claude-code/issues/46829",
-    "author": "lsdmtme",
-    "date": "2026-04-12",
-    "score": 518,
-    "comments": 397,
-    "id": 47736476,
-    "discussion_url": "https://news.ycombinator.com/item?id=47736476",
-    "description": "Anthropic downgraded cache TTL on March 6th",
+    "title": "Android now stops you sharing your location in photos",
+    "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+    "author": "edent",
+    "date": "2026-04-13",
+    "score": 282,
+    "comments": 254,
+    "id": 47750669,
+    "discussion_url": "https://news.ycombinator.com/item?id=47750669",
+    "description": "Android now stops you sharing your location in photos",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717984"
+    "fetched_at": "2026-04-13T20:05:27.196809"
   },
   {
     "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
     "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
     "author": "walterbell",
     "date": "2026-04-13",
-    "score": 240,
-    "comments": 222,
+    "score": 377,
+    "comments": 337,
     "id": 47747017,
     "discussion_url": "https://news.ycombinator.com/item?id=47747017",
     "description": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
@@ -82,15 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717939"
+    "fetched_at": "2026-04-13T20:05:27.196925"
   },
   {
     "title": "Bring Back Idiomatic Design (2023)",
     "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
     "author": "phil294",
     "date": "2026-04-12",
-    "score": 575,
-    "comments": 331,
+    "score": 658,
+    "comments": 360,
     "id": 47738827,
     "discussion_url": "https://news.ycombinator.com/item?id=47738827",
     "description": "Bring Back Idiomatic Design (2023)",
@@ -99,15 +82,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717881"
+    "fetched_at": "2026-04-13T20:05:27.196749"
+  },
+  {
+    "title": "Building a CLI for All of Cloudflare",
+    "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+    "author": "soheilpro",
+    "date": "2026-04-13",
+    "score": 184,
+    "comments": 47,
+    "id": 47753689,
+    "discussion_url": "https://news.ycombinator.com/item?id=47753689",
+    "description": "Building a CLI for All of Cloudflare",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-13T20:05:27.196877"
   },
   {
     "title": "DIY Soft Drinks",
     "url": "https://blinry.org/diy-soft-drinks/",
     "author": "_Microft",
     "date": "2026-04-12",
-    "score": 505,
-    "comments": 145,
+    "score": 663,
+    "comments": 197,
     "id": 47741701,
     "discussion_url": "https://news.ycombinator.com/item?id=47741701",
     "description": "DIY Soft Drinks",
@@ -116,49 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717838"
-  },
-  {
-    "title": "European AI. A playbook to own it",
-    "url": "https://europe.mistral.ai/",
-    "author": "hjouneau",
-    "date": "2026-04-12",
-    "score": 187,
-    "comments": 113,
-    "id": 47743700,
-    "discussion_url": "https://news.ycombinator.com/item?id=47743700",
-    "description": "European AI. A playbook to own it",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.718039"
-  },
-  {
-    "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
-    "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
-    "author": "coolwulf",
-    "date": "2026-04-08",
-    "score": 378,
-    "comments": 71,
-    "id": 47694064,
-    "discussion_url": "https://news.ycombinator.com/item?id=47694064",
-    "description": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.718076"
+    "fetched_at": "2026-04-13T20:05:27.196898"
   },
   {
     "title": "Exploiting the most prominent AI agent benchmarks",
     "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
     "author": "Anon84",
     "date": "2026-04-11",
-    "score": 536,
-    "comments": 134,
+    "score": 567,
+    "comments": 137,
     "id": 47733217,
     "discussion_url": "https://news.ycombinator.com/item?id=47733217",
     "description": "Exploiting the most prominent AI agent benchmarks",
@@ -167,49 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717901"
-  },
-  {
-    "title": "Filing the corners off my MacBooks",
-    "url": "https://kentwalters.com/posts/corners/",
-    "author": "normanvalentine",
-    "date": "2026-04-10",
-    "score": 1376,
-    "comments": 654,
-    "id": 47724352,
-    "discussion_url": "https://news.ycombinator.com/item?id=47724352",
-    "description": "Filing the corners off my MacBooks",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.718012"
-  },
-  {
-    "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-    "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-    "author": "super256",
-    "date": "2026-04-12",
-    "score": 472,
-    "comments": 244,
-    "id": 47743730,
-    "discussion_url": "https://news.ycombinator.com/item?id=47743730",
-    "description": "Google removes \"Doki Doki Literature Club\" from Google Play",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717906"
+    "fetched_at": "2026-04-13T20:05:27.196910"
   },
   {
     "title": "I gave every train in New York an instrument",
     "url": "https://www.trainjazz.com/",
     "author": "joshuawolk",
     "date": "2026-04-10",
-    "score": 300,
-    "comments": 62,
+    "score": 376,
+    "comments": 71,
     "id": 47719490,
     "discussion_url": "https://news.ycombinator.com/item?id=47719490",
     "description": "I gave every train in New York an instrument",
@@ -218,32 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717843"
+    "fetched_at": "2026-04-13T20:05:27.196829"
   },
   {
-    "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-    "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-    "author": "tradertef",
+    "title": "I ran Gemma 4 as a local model in Codex CLI",
+    "url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
+    "author": "dvaughan",
     "date": "2026-04-12",
-    "score": 891,
-    "comments": 486,
-    "id": 47736555,
-    "discussion_url": "https://news.ycombinator.com/item?id=47736555",
-    "description": "I run multiple $10K MRR companies on a $20/month tech stack",
+    "score": 223,
+    "comments": 97,
+    "id": 47744255,
+    "discussion_url": "https://news.ycombinator.com/item?id=47744255",
+    "description": "I ran Gemma 4 as a local model in Codex CLI",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.718021"
+    "fetched_at": "2026-04-13T20:05:27.196825"
   },
   {
     "title": "JVM Options Explorer",
     "url": "https://chriswhocodes.com/vm-options-explorer.html",
     "author": "0x54MUR41",
     "date": "2026-04-12",
-    "score": 201,
-    "comments": 92,
+    "score": 216,
+    "comments": 101,
     "id": 47738094,
     "discussion_url": "https://news.ycombinator.com/item?id=47738094",
     "description": "JVM Options Explorer",
@@ -252,15 +184,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717796"
+    "fetched_at": "2026-04-13T20:05:27.196945"
+  },
+  {
+    "title": "Make Tmux Pretty and Usable (2024)",
+    "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+    "author": "speckx",
+    "date": "2026-04-13",
+    "score": 236,
+    "comments": 167,
+    "id": 47752819,
+    "discussion_url": "https://news.ycombinator.com/item?id=47752819",
+    "description": "Make Tmux Pretty and Usable (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-13T20:05:27.196781"
+  },
+  {
+    "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+    "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+    "author": "iamnothere",
+    "date": "2026-04-13",
+    "score": 183,
+    "comments": 94,
+    "id": 47750821,
+    "discussion_url": "https://news.ycombinator.com/item?id=47750821",
+    "description": "Michigan 'digital age' bills pulled after privacy concerns raised",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-13T20:05:27.196906"
+  },
+  {
+    "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+    "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+    "author": "bundie",
+    "date": "2026-04-13",
+    "score": 256,
+    "comments": 162,
+    "id": 47751936,
+    "discussion_url": "https://news.ycombinator.com/item?id=47751936",
+    "description": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-13T20:05:27.196890"
   },
   {
     "title": "Most people can't juggle one ball",
     "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
     "author": "surprisetalk",
     "date": "2026-04-09",
-    "score": 390,
-    "comments": 130,
+    "score": 482,
+    "comments": 167,
     "id": 47702887,
     "discussion_url": "https://news.ycombinator.com/item?id=47702887",
     "description": "Most people can't juggle one ball",
@@ -269,15 +252,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717852"
+    "fetched_at": "2026-04-13T20:05:27.196801"
+  },
+  {
+    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "author": "m-hodges",
+    "date": "2026-04-13",
+    "score": 279,
+    "comments": 114,
+    "id": 47753472,
+    "discussion_url": "https://news.ycombinator.com/item?id=47753472",
+    "description": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-13T20:05:27.196723"
   },
   {
     "title": "Phyphox – Physical Experiments Using a Smartphone",
     "url": "https://phyphox.org/",
     "author": "_Microft",
     "date": "2026-04-12",
-    "score": 226,
-    "comments": 34,
+    "score": 248,
+    "comments": 35,
     "id": 47737376,
     "discussion_url": "https://news.ycombinator.com/item?id=47737376",
     "description": "Phyphox – Physical Experiments Using a Smartphone",
@@ -286,15 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717822"
+    "fetched_at": "2026-04-13T20:05:27.196953"
   },
   {
     "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
     "url": "https://github.com/anthropics/claude-code/issues/45756",
     "author": "cmaster11",
     "date": "2026-04-12",
-    "score": 679,
-    "comments": 599,
+    "score": 718,
+    "comments": 637,
     "id": 47739260,
     "discussion_url": "https://news.ycombinator.com/item?id=47739260",
     "description": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
@@ -303,15 +303,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717832"
+    "fetched_at": "2026-04-13T20:05:27.196956"
+  },
+  {
+    "title": "Servo is now available on crates.io",
+    "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+    "author": "ffin",
+    "date": "2026-04-13",
+    "score": 338,
+    "comments": 116,
+    "id": 47750872,
+    "discussion_url": "https://news.ycombinator.com/item?id=47750872",
+    "description": "Servo is now available on crates.io",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-13T20:05:27.196794"
   },
   {
     "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
     "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
     "author": "mpweiher",
     "date": "2026-04-12",
-    "score": 596,
-    "comments": 371,
+    "score": 643,
+    "comments": 440,
     "id": 47739313,
     "discussion_url": "https://news.ycombinator.com/item?id=47739313",
     "description": "Seven countries now generate nearly all their electricity from renewables (2024)",
@@ -320,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717957"
+    "fetched_at": "2026-04-13T20:05:27.196941"
   },
   {
     "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
     "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
     "author": "Rochus",
     "date": "2026-04-12",
-    "score": 202,
-    "comments": 55,
+    "score": 232,
+    "comments": 83,
     "id": 47739174,
     "discussion_url": "https://news.ycombinator.com/item?id=47739174",
     "description": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
@@ -337,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717896"
+    "fetched_at": "2026-04-13T20:05:27.196914"
   },
   {
     "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
     "url": "https://boringbar.app/",
     "author": "a-ve",
     "date": "2026-04-12",
-    "score": 398,
-    "comments": 213,
+    "score": 486,
+    "comments": 278,
     "id": 47742200,
     "discussion_url": "https://news.ycombinator.com/item?id=47742200",
     "description": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
@@ -354,32 +371,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717915"
+    "fetched_at": "2026-04-13T20:05:27.196753"
   },
   {
-    "title": "Small models also found the vulnerabilities that Mythos found",
-    "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-    "author": "dominicq",
-    "date": "2026-04-11",
-    "score": 1250,
-    "comments": 329,
-    "id": 47732020,
-    "discussion_url": "https://news.ycombinator.com/item?id=47732020",
-    "description": "Small models also found the vulnerabilities that Mythos found",
+    "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+    "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+    "author": "speckx",
+    "date": "2026-04-13",
+    "score": 296,
+    "comments": 80,
+    "id": 47755629,
+    "discussion_url": "https://news.ycombinator.com/item?id=47755629",
+    "description": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.718059"
+    "fetched_at": "2026-04-13T20:05:27.196813"
   },
   {
     "title": "Taking on CUDA with ROCm: 'One Step After Another'",
     "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
     "author": "mindcrime",
     "date": "2026-04-12",
-    "score": 192,
-    "comments": 147,
+    "score": 248,
+    "comments": 185,
     "id": 47745284,
     "discussion_url": "https://news.ycombinator.com/item?id=47745284",
     "description": "Taking on CUDA with ROCm: 'One Step After Another'",
@@ -388,83 +405,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717816"
+    "fetched_at": "2026-04-13T20:05:27.196739"
   },
   {
-    "title": "The Closing of the Frontier",
-    "url": "https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html",
-    "author": "MindGods",
-    "date": "2026-04-12",
-    "score": 182,
-    "comments": 118,
-    "id": 47742790,
-    "discussion_url": "https://news.ycombinator.com/item?id=47742790",
-    "description": "The Closing of the Frontier",
+    "title": "The Future of Everything Is Lies, I Guess: Safety",
+    "url": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
+    "author": "aphyr",
+    "date": "2026-04-13",
+    "score": 199,
+    "comments": 92,
+    "id": 47754379,
+    "discussion_url": "https://news.ycombinator.com/item?id=47754379",
+    "description": "The Future of Everything Is Lies, I Guess: Safety",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.718043"
-  },
-  {
-    "title": "The End of Eleventy",
-    "url": "https://brennan.day/the-end-of-eleventy/",
-    "author": "ValentineC",
-    "date": "2026-04-12",
-    "score": 214,
-    "comments": 178,
-    "id": 47735535,
-    "discussion_url": "https://news.ycombinator.com/item?id=47735535",
-    "description": "The End of Eleventy",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.718007"
-  },
-  {
-    "title": "The Physics of GPS",
-    "url": "https://perthirtysix.com/how-does-gps-work",
-    "author": "maouida",
-    "date": "2026-04-12",
-    "score": 141,
-    "comments": 34,
-    "id": 47738343,
-    "discussion_url": "https://news.ycombinator.com/item?id=47738343",
-    "description": "The Physics of GPS",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.718002"
-  },
-  {
-    "title": "The Problem That Built an Industry",
-    "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
-    "author": "ShaggyHotDog",
-    "date": "2026-04-11",
-    "score": 146,
-    "comments": 49,
-    "id": 47730712,
-    "discussion_url": "https://news.ycombinator.com/item?id=47730712",
-    "description": "The Problem That Built an Industry",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.718064"
+    "fetched_at": "2026-04-13T20:05:27.196790"
   },
   {
     "title": "The economics of software teams: Why most engineering orgs are flying blind",
     "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
     "author": "kiyanwang",
     "date": "2026-04-13",
-    "score": 185,
-    "comments": 98,
+    "score": 368,
+    "comments": 222,
     "id": 47748064,
     "discussion_url": "https://news.ycombinator.com/item?id=47748064",
     "description": "The economics of software teams: Why most engineering orgs are flying blind",
@@ -473,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717779"
+    "fetched_at": "2026-04-13T20:05:27.196767"
   },
   {
     "title": "The peril of laziness lost",
     "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
     "author": "gpm",
     "date": "2026-04-12",
-    "score": 414,
-    "comments": 135,
+    "score": 450,
+    "comments": 142,
     "id": 47743628,
     "discussion_url": "https://news.ycombinator.com/item?id=47743628",
     "description": "The peril of laziness lost",
@@ -490,15 +456,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717920"
+    "fetched_at": "2026-04-13T20:05:27.196984"
+  },
+  {
+    "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+    "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+    "author": "t-3",
+    "date": "2026-04-13",
+    "score": 264,
+    "comments": 191,
+    "id": 47751781,
+    "discussion_url": "https://news.ycombinator.com/item?id=47751781",
+    "description": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-13T20:05:27.196858"
+  },
+  {
+    "title": "We May Be Living Through the Most Consequential Hundred Days in Cyber History",
+    "url": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
+    "author": "laurex",
+    "date": "2026-04-13",
+    "score": 200,
+    "comments": 120,
+    "id": 47752884,
+    "discussion_url": "https://news.ycombinator.com/item?id=47752884",
+    "description": "We May Be Living Through the Most Consequential Hundred Days in Cyber History",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-13T20:05:27.196773"
   },
   {
     "title": "We have a 99% email reputation, but Gmail disagrees",
     "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
     "author": "em-bee",
     "date": "2026-04-12",
-    "score": 271,
-    "comments": 243,
+    "score": 348,
+    "comments": 295,
     "id": 47738978,
     "discussion_url": "https://news.ycombinator.com/item?id=47738978",
     "description": "We have a 99% email reputation, but Gmail disagrees",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-13T12:02:12.717925"
+    "fetched_at": "2026-04-13T20:05:27.196881"
   }
 ]
