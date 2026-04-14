@@ -1,0 +1,78 @@
+---
+title: YouTube Now Worlds Largest Media Company, Topping Disney
+url: https://www.hollywoodreporter.com/business/digital/youtube-worlds-largest-media-company-2025-tops-disney-1236525130/
+site_name: hnrss
+content_file: hnrss-youtube-now-worlds-largest-media-company-topping-d
+fetched_at: '2026-04-14T20:22:38.095846'
+original_url: https://www.hollywoodreporter.com/business/digital/youtube-worlds-largest-media-company-2025-tops-disney-1236525130/
+author: Alex Weprin
+date: '2026-04-09'
+published_date: '2026-03-09T15:23:27+00:00'
+description: YouTube is now worlds largest media company, topping Disney in 2025.
+tags:
+- hackernews
+- hnrss
+---
+
+ByAlex Weprin
+
+Plus Icon
+
+### Alex Weprin
+
+Senior Editor
+
+	alexweprin
+
+		Follow	
+
+Sign Up
+
+	View All
+
+	March 9, 2026 8:23am	
+
+YouTube CEO Neal Mohan
+
+Photo by Noam Galai/Getty Images for YouTube
+
+YouTube‘s cultural influence is alreadyhard to ignore, but 2025 could nonetheless be a turning point for the Google-owned video platform: It’s the year it became the world’s largest media company.
+
+YouTube had more than $60 billion in revenue in 2025, parent company Alphabet reported last month. Now, the influential financial research firm MoffettNathanson runs the numbers and comes to the conclusion that YouTube’s estimated $62 billion in 2025 will have allowed it to pass The Walt Disney Co.’s media business, which generated $60.9 billion last year (excluding Disney’s lucrative experiences division).### Related StoriesMusic### Eurovision Song Contest to Stream for Free in U.S. on YouTube, in Addition to Peacock, as Executive Addresses Political BoycottsBusiness### "Streamflation" Might Be Nearing a Crisis Point
+
+The firm, which declared YouTube the “new king of all media” last year, is now valued at between $500 billion-$560 billion, far above any traditional media competitors. The closest would be Netflix, which has a market cap of about $409 billion as of writing.
+
+YouTube’s ad revenue hit $11.4 billion in Q4, totaling over $40 billion for the year. But it also has an enormous subscription business, encompassing YouTube Premium, YouTube Music, NFL Sunday Ticket, and the YouTube TV virtual multichannel video service.
+
+YouTube TV now has around 10 million subscribers, and is likely to overtake pay-TV leaders Charter and Comcast in the coming years.
+
+YouTube has now paid out more than $100 billion to creators, music companies and media partners, reflecting its starring role in the entertainment ecosystem.
+
+“There are two really fundamental things that we do for creators,” YouTube CEO Neal MohantoldThe Hollywood Reporterlast year, just a few hours after announcing the milestone. “One is help them build an audience and connect with their fans, regardless of where those fans are in the world; and the second thing we do is we help them build businesses. That’s what that $100 billion represents for me.”
+
+MoffettNathanson argues that the scale as a distributor, both of pay-TV and of creator-led content, will help it continue its explosive growth. So will its heavy investment into AI tools, which will allow creators to produce more content at a faster cadence.
+
+“Over the next few years, unlike almost any other asset we cover, we strongly believe that YouTube will be a major beneficiary of both the structural tailwinds and headwinds facing technology and media companies,” Michael Nathanson writes.
+
+Indeed, there may not be another company that sits so squarely at the intersection of media and technology.
+
+“I am a technologist, but I also love media and storytelling. I’ve been that way since I can remember, I’m a fan myself, fundamentally,” Mohan said. “Leading YouTube is a privilege where I can actually bring both those pieces together, that human storytelling and creativity and the best of technology, that’s what motivates me every morning.”
+
+One top YouTube creator says that they are already aggressively experimenting with the tools, mostly to help with things like set design, costumes, makeup and visual effects that would otherwise be prohibitively expensive or time-consuming.
+
+And a time when essentially every other media company is stuck in neutral, if not going in reverse, YouTube and Netflix appear to be the only players still able to put their foot and the pedal and accelerate. YouTube’s 2024 revenue topped $50 billion, and last year it topped $60 billion, with plans to roll out skinnier bundles for YouTube TV, and a creator-driven economy that shows no signs of slowing, how high can it go?
+
+## THR Newsletters
+
+Sign up for THR news straight to your inbox every day
+
+		Subscribe	
+
+Sign Up
+
+* Theater### Broadway Box Office: ‘Chicago’ Hits New High, ‘Proof,’ ‘Giant’ See Strong Grosses
+* Writers Guild of America### Unionized Lucky 8 and Sharp Entertainment Workers Ratify Contracts (Exclusive)
+* StreamTV Europe### Social Media Powers Online’s Ad Market Dominance, and Meta Eats 70 Percent of That Pie
+* The Walt Disney Company### Layoffs Hit Disney: 1,000 Jobs Cut as Josh D’Amaro Unveils Streamlining Push
+* international### Blink49 Studios Pushes Into Microdramas (Exclusive)
+* Netflix### Netflix Plans Next Big Live Soccer Game Offering in Mexico

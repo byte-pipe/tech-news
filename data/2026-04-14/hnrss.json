@@ -4,224 +4,179 @@
     "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
     "description": "A new spam policy for “back button hijacking”",
     "date": "2026-04-14",
-    "score": 433,
-    "comments": 259,
+    "score": 777,
+    "comments": 449,
     "discussion_url": "https://news.ycombinator.com/item?id=47760764",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081295"
+    "fetched_at": "2026-04-14T20:22:37.154254"
   },
   {
-    "title": "Android now stops you sharing your location in photos",
-    "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-    "description": "Android now stops you sharing your location in photos",
-    "date": "2026-04-13",
-    "score": 383,
-    "comments": 304,
-    "discussion_url": "https://news.ycombinator.com/item?id=47750669",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081443"
-  },
-  {
-    "title": "Backblaze has stopped backing up your data",
+    "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
     "url": "https://rareese.com/posts/backblaze/",
-    "description": "Backblaze has stopped backing up your data",
+    "description": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
     "date": "2026-04-14",
-    "score": 253,
-    "comments": 172,
+    "score": 822,
+    "comments": 510,
     "discussion_url": "https://news.ycombinator.com/item?id=47762864",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081252"
+    "fetched_at": "2026-04-14T20:22:37.154217"
+  },
+  {
+    "title": "Claude Code Routines",
+    "url": "https://code.claude.com/docs/en/routines",
+    "description": "Claude Code Routines",
+    "date": "2026-04-14",
+    "score": 195,
+    "comments": 125,
+    "discussion_url": "https://news.ycombinator.com/item?id=47768133",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-14T20:22:37.154176"
   },
   {
     "title": "DaVinci Resolve – Photo",
     "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
     "description": "DaVinci Resolve – Photo",
     "date": "2026-04-14",
-    "score": 664,
-    "comments": 173,
+    "score": 997,
+    "comments": 255,
     "discussion_url": "https://news.ycombinator.com/item?id=47760529",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081309"
+    "fetched_at": "2026-04-14T20:22:37.154267"
   },
   {
-    "title": "Design and implementation of DuckDB internals",
-    "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-    "description": "Design and implementation of DuckDB internals",
-    "date": "2026-04-10",
-    "score": 137,
-    "comments": 9,
-    "discussion_url": "https://news.ycombinator.com/item?id=47718284",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081468"
-  },
-  {
-    "title": "GitHub Stacked PRs",
-    "url": "https://github.github.com/gh-stack/",
-    "description": "GitHub Stacked PRs",
-    "date": "2026-04-13",
-    "score": 744,
-    "comments": 397,
-    "discussion_url": "https://news.ycombinator.com/item?id=47757495",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081352"
-  },
-  {
-    "title": "How to make Firefox builds 17% faster",
-    "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-    "description": "How to make Firefox builds 17% faster",
-    "date": "2026-04-13",
-    "score": 184,
-    "comments": 35,
-    "discussion_url": "https://news.ycombinator.com/item?id=47756321",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081374"
-  },
-  {
-    "title": "Lean proved this program correct; then I found a bug",
-    "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-    "description": "Lean proved this program correct; then I found a bug",
+    "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+    "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
+    "description": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
     "date": "2026-04-14",
-    "score": 279,
-    "comments": 133,
-    "discussion_url": "https://news.ycombinator.com/item?id=47759709",
+    "score": 321,
+    "comments": 131,
+    "discussion_url": "https://news.ycombinator.com/item?id=47768813",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081323"
+    "fetched_at": "2026-04-14T20:22:37.154116"
   },
   {
-    "title": "Make tmux pretty and usable (2024)",
-    "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-    "description": "Make tmux pretty and usable (2024)",
-    "date": "2026-04-13",
-    "score": 391,
-    "comments": 241,
-    "discussion_url": "https://news.ycombinator.com/item?id=47752819",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081417"
-  },
-  {
-    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-    "description": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-    "date": "2026-04-13",
-    "score": 433,
-    "comments": 242,
-    "discussion_url": "https://news.ycombinator.com/item?id=47753472",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081404"
-  },
-  {
-    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-    "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-    "description": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-    "date": "2026-04-13",
-    "score": 993,
-    "comments": 278,
-    "discussion_url": "https://news.ycombinator.com/item?id=47755629",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081389"
-  },
-  {
-    "title": "The secrets of the Shinkansen",
-    "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
-    "description": "The secrets of the Shinkansen",
+    "title": "Introspective Diffusion Language Models",
+    "url": "https://introspective-diffusion.github.io/",
+    "description": "Introspective Diffusion Language Models",
     "date": "2026-04-14",
-    "score": 101,
-    "comments": 93,
-    "discussion_url": "https://news.ycombinator.com/item?id=47762060",
+    "score": 204,
+    "comments": 39,
+    "discussion_url": "https://news.ycombinator.com/item?id=47762641",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081278"
+    "fetched_at": "2026-04-14T20:22:37.154239"
   },
   {
-    "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-    "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-    "description": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-    "date": "2026-04-13",
-    "score": 397,
-    "comments": 267,
-    "discussion_url": "https://news.ycombinator.com/item?id=47751781",
+    "title": "OpenSSL 4.0.0",
+    "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.0.0",
+    "description": "OpenSSL 4.0.0",
+    "date": "2026-04-14",
+    "score": 105,
+    "comments": 24,
+    "discussion_url": "https://news.ycombinator.com/item?id=47768788",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081430"
+    "fetched_at": "2026-04-14T20:22:37.154146"
   },
   {
-    "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-    "url": "https://github.com/fabienmillet/WiiFin",
-    "description": "WiiFin – Jellyfin Client for Nintendo Wii",
-    "date": "2026-04-13",
-    "score": 178,
-    "comments": 76,
-    "discussion_url": "https://news.ycombinator.com/item?id=47759341",
+    "title": "Rare concert recordings are landing on the Internet Archive",
+    "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+    "description": "Rare concert recordings are landing on the Internet Archive",
+    "date": "2026-04-14",
+    "score": 387,
+    "comments": 111,
+    "discussion_url": "https://news.ycombinator.com/item?id=47765604",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081338"
+    "fetched_at": "2026-04-14T20:22:37.154189"
   },
   {
-    "title": "Write less code, be more responsible",
-    "url": "https://blog.orhun.dev/code-responsibly/",
-    "description": "Write less code, be more responsible",
-    "date": "2026-04-11",
+    "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+    "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
+    "description": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+    "date": "2026-04-14",
+    "score": 344,
+    "comments": 298,
+    "discussion_url": "https://news.ycombinator.com/item?id=47768195",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-14T20:22:37.154162"
+  },
+  {
+    "title": "The M×N problem of tool calling and open-source models",
+    "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+    "description": "The M×N problem of tool calling and open-source models",
+    "date": "2026-04-09",
     "score": 107,
-    "comments": 64,
-    "discussion_url": "https://news.ycombinator.com/item?id=47728970",
+    "comments": 37,
+    "discussion_url": "https://news.ycombinator.com/item?id=47704729",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-14T11:57:26.081456"
+    "fetched_at": "2026-04-14T20:22:37.154293"
+  },
+  {
+    "title": "YouTube now world's largest media company, topping Disney",
+    "url": "https://www.hollywoodreporter.com/business/digital/youtube-worlds-largest-media-company-2025-tops-disney-1236525130/",
+    "description": "YouTube now world's largest media company, topping Disney",
+    "date": "2026-04-09",
+    "score": 125,
+    "comments": 86,
+    "discussion_url": "https://news.ycombinator.com/item?id=47705278",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-14T20:22:37.154280"
+  },
+  {
+    "title": "jj – the CLI for Jujutsu",
+    "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+    "description": "jj – the CLI for Jujutsu",
+    "date": "2026-04-14",
+    "score": 435,
+    "comments": 368,
+    "discussion_url": "https://news.ycombinator.com/item?id=47763759",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-14T20:22:37.154204"
   }
 ]
