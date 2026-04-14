@@ -1,110 +1,88 @@
 ---
-date: '2026-04-14'
+date: '2026-04-15'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-14T18:00:39.325223'
+generated_at: '2026-04-15T06:07:07.785928'
 ---
 
 ## Executive Summary  
-- AI is becoming a commodity, giving Apple a hidden advantage as it leverages massive user‑device context while competitors burn cash on ever‑larger models.  
-- The rise of synthetic influencers at Coachella highlights how generative‑AI avatars are blurring the line between authentic and manufactured experiences, prompting brands to consider cheaper AI‑only campaigns.  
-- A supply‑chain attack on 30+ free WordPress plugins exposed a stealthy backdoor that injects SEO spam only for Googlebot, underscoring the ongoing risk of third‑party software.  
-- A 13‑year‑old remote‑code‑execution flaw in Apache ActiveMQ resurfaced, reminding enterprises that legacy vulnerabilities can still be weaponised.  
-- APT41’s new ELF cloud‑credential harvester and Hungary’s historic parliamentary turnover illustrate how cyber‑espionage and geopolitical shifts continue to reshape the global threat and political landscape.
+- Anthropic’s Claude Code gains a long‑term memory layer via the open‑source **claude‑mem** plugin, while a DIY PowerShell hook offers a zero‑cost alternative.  
+- Researchers unveil **Introspective Diffusion Language Models (I‑DLM)** that close the quality gap with autoregressive models and deliver 3‑4× higher throughput.  
+- A new **declarative spec** is proposed to solve the exploding “M × N” tool‑calling support problem for open‑source LLMs.  
+- Privacy‑focused users clash with Flock Safety over CCPA deletion rights, and Adobe releases emergency patches for a widely‑exploited PDF zero‑day (CVE‑2026‑34621).  
+- Cultural highlights include the digitisation of 2,500 rare concert tapes, a public‑domain video of Artemis II’s splash‑down, and Spain’s telecom regulator extending sports‑event internet blocks to all major ISPs.  
 
----
+---  
 
 ## AI and Machine Learning  
 
-### How the “AI Loser” may end up winning – *Hacker News*  
-Apple’s late entry into AI may become a strength: commoditised models let it run sophisticated inference on billions of devices, pairing Google’s Gemini license with on‑device privacy‑preserving context to turn its “AI loser” label into a strategic moat.
+### Adding Persistent Memory to Claude Code with claude‑mem — DEV Community [devto]  
+Claude Code’s lack of session memory is addressed by the **claude‑mem** plugin, which logs tool usage and injects relevant context into future prompts via SQLite + Chroma hybrid search. The setup is a single `npx` command and runs as a local Bun HTTP worker, offering vector‑based retrieval and a web UI for browsing stored memories.  
 
-### Most people can't juggle one ball — LessWrong (trending) – *Hacker News*  
-A detailed, step‑by‑step tutorial explains how beginners can master juggling from one to six balls, emphasizing incremental practice and common mistakes; the piece has been viewed multiple times, indicating strong community interest.
+### The Future of Everything is Lies, I Guess: Work — Hacker News [hackernews_api]  
+The essay argues that LLM‑driven “programming as witchcraft” is reshaping software creation, but warns that natural‑language prompts lack the semantic guarantees of formal languages and can produce fragile code. It also warns that AI “employees” may behave like sociopaths—lying, sabotaging, and shifting blame—while highlighting classic automation pitfalls such as deskilling and automation bias.  
 
-### Microsoft isn’t removing Copilot from Windows 11, it’s just renaming it – *Neowin*  
-Microsoft confirmed the AI assistant will stay in Windows 11 but will receive a new brand name to align with its broader product ecosystem; functionality, shortcuts and integration with Microsoft 365 remain unchanged.
+### I‑DLM: Introspective Diffusion Language Models — HNRSS [hnrss]  
+I‑DLM converts a pretrained autoregressive model into a diffusion model with introspective‑consistency training and strided decoding, achieving AR‑level quality on 15 benchmarks while delivering 2.9–4.1× higher throughput. The approach is AR‑compatible, allowing drop‑in deployment on existing serving stacks like SGLang.  
 
-### US appeals court declares 158‑year‑old home distilling ban unconstitutional – *HNRSS*  
-*Content not provided; no synthesis available.*
+### Tool calling, open source, and the M×N problem — HNRSS [hnrss]  
+Open‑source LLMs expose diverse, model‑specific tool‑calling wire formats, forcing each inference engine to implement a separate parser (M applications × N models). The author proposes a **declarative specification** that centralises format knowledge, letting grammar engines and parsers share the same config and dramatically reducing duplicated engineering effort.  
 
-### AI influencers are ‘everywhere’ at Coachella – *The Verge*  
-Synthetic avatars such as Ammarathegoat, Grannyspills, and Lil Miquela flood Instagram with festival‑style posts, often without clear disclosure, offering brands a low‑cost, fully controllable alternative to human creators while raising ethical concerns about deception and audience exploitation.
+### About 250 missing after boat carrying Rohingya refugees capsizes — The Guardian [newsfeed]  
+A Bangladeshi trawler overloaded with ~280 Rohingya migrants capsized in the Andaman Sea, leaving roughly 250 people missing; nine survivors were rescued after drifting for up to 36 hours. The tragedy underscores the ongoing humanitarian crisis stemming from the 2017 Myanmar genocide and the lack of durable solutions for displaced Rohingya.  
 
-### Atletico Madrid vs Barcelona: Champions League – *Al Jazeera*  
-After a 2‑0 first‑leg win, Atletico hold a strong advantage heading into the second leg in Madrid; both sides face injury doubts and suspensions, with tactical tweaks expected from Simeone and Flick.
+### AI needs solid botanical data more than ever — Nature (newsfeed) [newsfeed]  
+The article warns that AI models for drug discovery, agriculture, and biosurveillance are hampered by the paucity of formally described plant and fungal species; less than 10 % of fungi have scientific names, limiting LLM training data. It calls for preserving specialist botany and taxonomy programs to supply the high‑quality species‑level data that next‑generation biotech AI will require.  
 
-### Bahamas police again question US man over disappearance of wife at sea – *The Guardian*  
-U.S. citizen Brian Hooker remains in Bahamian custody without charge after his wife vanished from a small dinghy; family members dispute his accident narrative, pointing to a troubled marital history.
+### An Israeli and a Palestinian work together for Mideast peace — NPR [newsfeed]  
+Former travel‑agency owners Aziz Abu Sarah (Palestinian) and Maoz Inon (Israeli) have turned personal tragedy into a joint peace‑building platform, touring, publishing a book, and meeting world leaders to model shared language and grassroots activism. They argue that a small, dedicated activist core can catalyse a broader movement toward a negotiated Israel‑Palestine settlement within five years.  
 
-### Reddit – Please wait for verification – *Reddit*  
-*Content not provided; no synthesis available.*
+### Reddit – Please wait for verification — Reddit (placeholder) [reddit]  
+*No substantive content was provided; the article consists of a request for the full Reddit post text.*  
 
----
+---  
 
 ## Cybersecurity and Privacy  
 
-### 13‑year‑old bug in ActiveMQ lets hackers remotely execute commands – *TLDR*  
-A critical RCE (CVE‑2026‑34197) in Apache ActiveMQ Classic, present for over a decade, can be triggered unauthenticated via the Jolokia API; patches were released on March 30, and organizations are urged to apply them immediately and monitor for suspicious broker connections.
+### Getting the Flock out — Honeypot.net (trending) [hackernews_api]  
+A California resident’s CCPA request to delete personal data from Flock Safety was rebuffed with the claim that Flock is merely a data **processor**, not a controller, and that the request should be directed to the hiring organization. The user argues this interpretation is legally inaccurate, sparking debate over AI‑enabled surveillance firms’ obligations under privacy law.  
 
----
+### Adobe fixes PDF zero‑day security bug that hackers have exploited for months — TechCrunch [newsfeed]  
+Adobe patched CVE‑2026‑34621, a remote‑code‑execution flaw in Acrobat DC/Reader that had been active in the wild for at least four months. Researchers observed malicious PDFs on VirusTotal since November 2025; the update is urged for all Windows and macOS users to stop the ongoing exploitation.  
+
+### Adobe fixes actively exploited Acrobat Reader flaw CVE‑2026‑34621 — TLDR [tldr]  
+A more technical recap of the same vulnerability confirms a critical prototype‑pollution bug (CVSS ≈ 9.6) that lets attackers read local files and execute arbitrary code. The exploit was discovered by Haifei Li and has been leveraged in the wild, making immediate patching essential for enterprises.  
+
+---  
 
 ## Software Engineering and Dev Tools  
 
-### I Couldn’t Afford Earth, So I Built Something Better – *DEV Community*  
-A tongue‑in‑cheek April‑Fools project, “SpaceEstate,” showcases a mock web platform for buying planetary real‑estate, using React, Vite and the Gemini API to satirise hype around crypto, space tourism and AI‑generated content.
+### Thousands of rare concert recordings are landing on the Internet Archive — TechCrunch (trending) [hackernews_api]  
+Volunteer effort led by Aadam Jacobs and the Internet Archive has digitised ~2,500 tapes from a 10,000‑tape personal collection, making rare live performances (e.g., 1989 Nirvana, early Sonic Youth) publicly accessible. The project preserves culturally significant audio that would otherwise degrade on magnetic tape.  
 
-### Meet Hotfix—The Dragon Your Legacy Code Deserves – *DEV Community*  
-An April‑Fools incident‑management tool lets users upload screenshots that Gemini Vision analyses into structured reports, then animates a dragon “smelting” the problem; the open‑source stack includes React 19, PixiJS, Firebase and Gemini Vision.
+### What is jj and why should I care? — Steve’s Jujutsu Tutorial (trending) [hackernews_api]  
+**jj** is a new command‑line front‑end for the Jujutsu DVCS, promising a simpler yet more powerful workflow than Git while retaining Git‑compatible back‑ends for seamless migration. It reduces core command surface and adds advanced features that are hard to achieve in Git alone.  
 
-### The Standup Chaos Simulator – *DEV Community*  
-A playful web app simulates chaotic developer stand‑ups, generating a transcript, dysfunction meter and exportable GIF; built with Next.js, TypeScript and Tailwind, it requires no backend or LLM calls.
+### Automate work with routines — Claude Code Docs [hnrss]  
+Claude Code now supports **routines**, saved configurations that can be triggered on schedules, API calls, or GitHub events, enabling automated code‑review, issue triage, documentation drift checks, and deployment verification directly from Anthropic’s cloud. Routines are managed via a web UI or CLI and count against the user’s daily run quota.  
 
-### Servo is now available on crates.io – *Hacker News* (trending)  
-The Servo browser engine’s first crate release enables developers to embed Servo as a library, with version 0.1.0 and an upcoming LTS roadmap, marking a significant step toward broader adoption of the open‑source rendering engine.
+### Artemis II: New video shows moment Orion capsule is opened at sea — Newsfeed [newsfeed]  
+A freshly released video captures NASA’s recovery crew opening the Orion hatch after the historic Artemis II splash‑down, showing the four astronauts emerging safely and marking the mission’s successful return from the deepest human spaceflight to date.  
 
-### Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them – *Hacker News* (trending)  
-A supply‑chain attack on the “Essential Plugin” portfolio inserted a PHP deserialization backdoor that serves SEO spam only to Googlebot; WordPress.org forced an emergency update, but the malicious code persisted in `wp-config.php`.
+### 8 Tips for Writing Agent Skills — TLDR [tldr]  
+The guide outlines best practices for building reusable “skills” for LLM agents, covering clear descriptions, lean file structures, explicit negative cases, thorough testing, and criteria for retiring skills once the model internalises the capability.  
 
-### The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind – *Hacker News* (trending)  
-A cost‑analysis shows a typical Western European engineer costs €130 k/year, yet teams rarely know this; platform teams must save 1 340 hours/month to break even, and any initiative should aim for 3‑5× that value to be financially justified.
+### AI is the Closest Thing to a Genie Lamp — Big Medium [tldr]  
+The article argues that AI has shifted the bottleneck from “how” to “what,” making the ability to define the right goals (design thinking) the new competitive advantage, while execution becomes a cheap, automated service.  
 
-### Android now stops you sharing your location in photos – *Terence Eden’s Blog*  
-Google’s recent changes strip EXIF geolocation from photos uploaded via web browsers on Android, breaking workflows like OpenBenches that rely on embedded coordinates; workarounds include native apps or zip‑file uploads, while the community debates privacy versus functionality.
-
-### Nothing Ever Happens Polymarket Bot – *GitHub*  
-An async Python bot monitors Polymarket “yes/no” markets, automatically placing “No” bets below a configurable cap; safety switches require explicit environment flags before any real trades are executed, making it a low‑risk experimental trading tool.
-
----
-
-## Open Source  
-
-### The Final 1% of Every GitHub Project: Sealing It Properly – *DEV Community*  
-A release‑checklist guides developers to “seal” a project by ensuring deployability, documentation, semantic version tags, branch hygiene, licensing and release notes, helping maintainability and discoverability for future contributors.
-
----
+---  
 
 ## Cloud and Infrastructure  
 
-### APT41 Winnti ELF Cloud Credential Harvester – *Breakglass Intelligence*  
-A zero‑detection ELF backdoor harvests cloud provider credentials across AWS, GCP, Azure and Alibaba Cloud, using SMTP port 25 for covert C2 and typosquat domains to hide infrastructure; the campaign traces back six years, highlighting sophisticated supply‑chain tactics by the APT41 group.
+### Internet será irrespirable los días de fútbol y otros deportes. Telefónica extiende los bloqueos a Champions, tenis y golf — Hacker News (trending) [hackernews_api]  
+A Spanish court authorises Telefónica to dynamically block IPs, domains, and URLs that stream unauthorized sports content, extending the measure to all major ISPs (Movistar, Orange, Vodafone, Digi) for every live football, tennis, and golf event. The broad IP‑level blocking risks collateral damage to legitimate services that share CDN infrastructure, effectively making the internet “unbreathable” on match days.  
 
----
-
-## Startups and Business  
-
-### Venture‑Backed CFO Report 2026 – *TLDR*  
-Among high‑growth VC‑backed firms, 51 % report ROI from AI investments, with AI reducing junior hiring needs but not yet prompting large layoffs; projected AI spend for 2026 is expected to rise 2.5×, though median budgets remain modest (~$50 k).
-
----
-
-## World News and Geopolitics  
-
-### Who is Péter Magyar, who beat Hungarian PM Viktor Orbán? – *NPR*  
-Former Orbán ally Péter Magyar’s anti‑corruption campaign propelled his Tisza Party to a two‑thirds parliamentary majority, ending Orbán’s 16‑year rule; his agenda focuses on EU reintegration, systemic reform and dismantling cronyism, though personal scandals and power‑consolidation concerns linger.
-
----
+---  
 
 ## Notable Mentions  
-- “AEO is not SEO 2.0 – The Future of SEO” by Eli Schwartz *(TLDR)*  
-- ClickUp’s LLM‑driven strategy backfires, losing ~7 M estimated traffic *(TLDR)*  
-- BYD’s fastest‑charging car – benefits and drawbacks *(WIRED)*
+- A bug on the dark side of the Moon – TLDR  
+- A Picture Is Worth a Thousand Tokens – Repaint – TLDR
