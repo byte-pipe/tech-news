@@ -130,6 +130,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Anthropic adds routines to redesigned Claude Code, here's how it works (2 minute read)",
+    "url": "https://9to5mac.com/2026/04/14/anthropic-adds-repeatable-routines-feature-to-claude-code-heres-how-it-works/",
+    "description": "Anthropic adds routines to redesigned Claude Code, here's how it works (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic shifts enterprise billing to per-token pricing. The flat-fee era is over (9 minute read)",
+    "url": "https://www.implicator.ai/anthropic-shifts-enterprise-billing-to-per-token-pricing-the-flat-fee-era-is-over/",
+    "description": "Anthropic shifts enterprise billing to per-token pricing. The flat-fee era is over (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "Anthropic tests Claude Code upgrade to rival Codex Superapp (2 minute read)",
     "url": "https://www.testingcatalog.com/anthropic-tests-claude-code-upgrade-to-rival-codex-superapp/",
     "description": "Anthropic tests Claude Code upgrade to rival Codex Superapp (2 minute read)",
@@ -140,9 +160,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple reportedly testing four designs for upcoming smart glasses (2 minute read)",
-    "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-    "description": "Apple reportedly testing four designs for upcoming smart glasses (2 minute read)",
+    "title": "Apple chooses Amazon satellites for iPhone, years after rejecting Starlink offer (6 minute read)",
+    "url": "https://arstechnica.com/tech-policy/2026/04/amazon-to-merge-with-globalstar-become-iphones-primary-satellite-provider/",
+    "description": "Apple chooses Amazon satellites for iPhone, years after rejecting Starlink offer (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -150,9 +170,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Archon (GitHub Repo)",
-    "url": "https://github.com/coleam00/Archon",
-    "description": "Archon (GitHub Repo)",
+    "title": "Apple reportedly testing four designs for upcoming smart glasses (2 minute read)",
+    "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+    "description": "Apple reportedly testing four designs for upcoming smart glasses (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -240,16 +260,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Caveman (GitHub Repo)",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "description": "Caveman (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "Charm Bars (2 minute read)",
     "url": "https://www.eventmarketer.com/article/experiential-marketing-trend-of-the-week-charm-bars/",
     "description": "Charm Bars (2 minute read)",
@@ -283,16 +293,6 @@
     "title": "Commercial vs Internal Products (4 minute read)",
     "url": "https://www.svpg.com/commercial-vs-internal-products/",
     "description": "Commercial vs Internal Products (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Configuration flags are where software goes to rot (4 minute read)",
-    "url": "https://00f.net/2026/04/11/config-flags/",
-    "description": "Configuration flags are where software goes to rot (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -490,6 +490,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Google introduces “Skills” in Chrome to make Gemini prompts instantly reusable (2 minute read)",
+    "url": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
+    "description": "Google introduces “Skills” in Chrome to make Gemini prompts instantly reusable (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "Helpdesk Attacks Target Enterprises (4 minute read)",
     "url": "https://www.theregister.com/2026/04/09/several_dozen_highvalue_corporations_targeted/",
     "description": "Helpdesk Attacks Target Enterprises (4 minute read)",
@@ -593,6 +603,16 @@
     "title": "Ingress NGINX is EOL: A practical guide for migrating to Kubernetes Gateway API (12 minute read)",
     "url": "https://www.datadoghq.com/blog/migrate-to-gateway-api/",
     "description": "Ingress NGINX is EOL: A practical guide for migrating to Kubernetes Gateway API (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Inside GitHub's Fake Star Economy (16 minute read)",
+    "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+    "description": "Inside GitHub's Fake Star Economy (16 minute read)",
     "tags": [
       "tldr"
     ],
@@ -740,6 +760,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Max Hodak's Science Corp. is preparing to place its first sensor in a human brain (5 minute read)",
+    "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+    "description": "Max Hodak's Science Corp. is preparing to place its first sensor in a human brain (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "Morgan Stanley Expands Beyond Bitcoin (4 minute read)",
     "url": "https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions",
     "description": "Morgan Stanley Expands Beyond Bitcoin (4 minute read)",
@@ -820,9 +850,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI touts Amazon alliance in memo, says Microsoft has ‘limited our ability' to reach clients (4 minute read)",
-    "url": "https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html",
-    "description": "OpenAI touts Amazon alliance in memo, says Microsoft has ‘limited our ability' to reach clients (4 minute read)",
+    "title": "Opendataloader-pdf (GitHub Repo)",
+    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "description": "Opendataloader-pdf (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -1010,16 +1040,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else (3 minute read)",
-    "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-    "description": "Stanford report highlights growing disconnect between AI insiders and everyone else (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "Tesla (TSLA) reportedly developing new smaller, cheaper EV after killing Model 2 (4 minute read)",
     "url": "https://electrek.co/2026/04/09/tesla-reportedly-developing-new-smaller-cheaper-ev-after-killing-model-2/",
     "description": "Tesla (TSLA) reportedly developing new smaller, cheaper EV after killing Model 2 (4 minute read)",
@@ -1050,9 +1070,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Economics of Software Teams: Why Most Organizations Are Flying Blind (20 minute read)",
+    "title": "The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind (7 minute read)",
     "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-    "description": "The Economics of Software Teams: Why Most Organizations Are Flying Blind (20 minute read)",
+    "description": "The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1233,6 +1253,16 @@
     "title": "Write less code, be more responsible (6 minute read)",
     "url": "https://blog.orhun.dev/code-responsibly/",
     "description": "Write less code, be more responsible (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "X's Standalone Chat App ‘XChat' Listed on App Store, Expected to Launch on April 17 for iPhone and iPad (1 minute read)",
+    "url": "https://thetechportal.com/2026/04/12/xs-standalone-chat-app-xchat-listed-on-app-store-expected-to-launch-on-april-17-for-iphone-and-ipad/",
+    "description": "X's Standalone Chat App ‘XChat' Listed on App Store, Expected to Launch on April 17 for iPhone and iPad (1 minute read)",
     "tags": [
       "tldr"
     ],
