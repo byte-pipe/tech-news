@@ -1,28 +1,11 @@
 [
   {
-    "title": "40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal",
-    "url": "https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b",
-    "author": "randycupertino",
-    "date": "2026-04-15",
-    "score": 103,
-    "comments": 154,
-    "id": 47769183,
-    "discussion_url": "https://news.ycombinator.com/item?id=47769183",
-    "description": "40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799993"
-  },
-  {
     "title": "5NF and Database Design",
     "url": "https://kb.databasedesignbook.com/posts/5nf/",
     "author": "petalmind",
-    "date": "2026-04-15",
-    "score": 81,
-    "comments": 33,
+    "date": "2026-04-14",
+    "score": 175,
+    "comments": 64,
     "id": 47767676,
     "discussion_url": "https://news.ycombinator.com/item?id=47767676",
     "description": "5NF and Database Design",
@@ -31,15 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799452"
+    "fetched_at": "2026-04-15T11:55:51.648176"
+  },
+  {
+    "title": "A communist Apple II and fourteen years of not knowing what you're testing",
+    "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
+    "author": "major4x",
+    "date": "2026-04-10",
+    "score": 185,
+    "comments": 80,
+    "id": 47724571,
+    "discussion_url": "https://news.ycombinator.com/item?id=47724571",
+    "description": "A communist Apple II and fourteen years of not knowing what you're testing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-15T11:55:51.648113"
   },
   {
     "title": "A new spam policy for “back button hijacking”",
     "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
     "author": "zdw",
     "date": "2026-04-14",
-    "score": 769,
-    "comments": 448,
+    "score": 881,
+    "comments": 494,
     "id": 47760764,
     "discussion_url": "https://news.ycombinator.com/item?id=47760764",
     "description": "A new spam policy for “back button hijacking”",
@@ -48,49 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799637"
-  },
-  {
-    "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
-    "url": "https://rareese.com/posts/backblaze/",
-    "author": "rrreese",
-    "date": "2026-04-14",
-    "score": 813,
-    "comments": 501,
-    "id": 47762864,
-    "discussion_url": "https://news.ycombinator.com/item?id=47762864",
-    "description": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799655"
-  },
-  {
-    "title": "Building a CLI for all of Cloudflare",
-    "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-    "author": "soheilpro",
-    "date": "2026-04-14",
-    "score": 323,
-    "comments": 106,
-    "id": 47753689,
-    "discussion_url": "https://news.ycombinator.com/item?id=47753689",
-    "description": "Building a CLI for all of Cloudflare",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800341"
+    "fetched_at": "2026-04-15T11:55:51.648162"
   },
   {
     "title": "Claude Code Routines",
     "url": "https://code.claude.com/docs/en/routines",
     "author": "matthieu_bl",
-    "date": "2026-04-15",
-    "score": 184,
-    "comments": 113,
+    "date": "2026-04-14",
+    "score": 639,
+    "comments": 370,
     "id": 47768133,
     "discussion_url": "https://news.ycombinator.com/item?id=47768133",
     "description": "Claude Code Routines",
@@ -99,15 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799582"
+    "fetched_at": "2026-04-15T11:55:51.648103"
   },
   {
     "title": "DaVinci Resolve – Photo",
     "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
     "author": "thebiblelover7",
     "date": "2026-04-14",
-    "score": 990,
-    "comments": 254,
+    "score": 1103,
+    "comments": 284,
     "id": 47760529,
     "discussion_url": "https://news.ycombinator.com/item?id=47760529",
     "description": "DaVinci Resolve – Photo",
@@ -116,32 +82,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799886"
+    "fetched_at": "2026-04-15T11:55:51.648142"
   },
   {
-    "title": "Design and implementation of DuckDB internals",
-    "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-    "author": "mpweiher",
-    "date": "2026-04-10",
-    "score": 173,
-    "comments": 15,
-    "id": 47718284,
-    "discussion_url": "https://news.ycombinator.com/item?id=47718284",
-    "description": "Design and implementation of DuckDB internals",
+    "title": "Dependency cooldowns turn you into a free-rider",
+    "url": "https://calpaterson.com/deps.html",
+    "author": "pabs3",
+    "date": "2026-04-15",
+    "score": 129,
+    "comments": 89,
+    "id": 47773812,
+    "discussion_url": "https://news.ycombinator.com/item?id=47773812",
+    "description": "Dependency cooldowns turn you into a free-rider",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800166"
+    "fetched_at": "2026-04-15T11:55:51.648214"
   },
   {
     "title": "Distributed DuckDB Instance",
     "url": "https://github.com/citguru/openduck",
     "author": "citguru",
     "date": "2026-04-14",
-    "score": 143,
-    "comments": 31,
+    "score": 178,
+    "comments": 33,
     "id": 47761997,
     "discussion_url": "https://news.ycombinator.com/item?id=47761997",
     "description": "Distributed DuckDB Instance",
@@ -150,49 +116,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799905"
+    "fetched_at": "2026-04-15T11:55:51.648195"
   },
   {
-    "title": "For the first time in the U.S., renewables generate more power than natural gas",
-    "url": "https://e360.yale.edu/digest/us-renewables-natural-gas-coal",
-    "author": "Brajeshwar",
+    "title": "Fixing a 20-year-old bug in Enlightenment E16",
+    "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
+    "author": "snoofydude",
     "date": "2026-04-15",
-    "score": 144,
-    "comments": 115,
-    "id": 47767160,
-    "discussion_url": "https://news.ycombinator.com/item?id=47767160",
-    "description": "For the first time in the U.S., renewables generate more power than natural gas",
+    "score": 171,
+    "comments": 62,
+    "id": 47774789,
+    "discussion_url": "https://news.ycombinator.com/item?id=47774789",
+    "description": "Fixing a 20-year-old bug in Enlightenment E16",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800149"
+    "fetched_at": "2026-04-15T11:55:51.648098"
   },
   {
-    "title": "Franklin's bad ads for Apple II clones and the beloved impersonator they depict",
-    "url": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
-    "author": "rfarley04",
-    "date": "2026-04-11",
-    "score": 116,
-    "comments": 69,
-    "id": 47722629,
-    "discussion_url": "https://news.ycombinator.com/item?id=47722629",
-    "description": "Franklin's bad ads for Apple II clones and the beloved impersonator they depict",
+    "title": "Fuck the cloud (2009)",
+    "url": "https://ascii.textfiles.com/archives/1717",
+    "author": "downbad_",
+    "date": "2026-04-14",
+    "score": 149,
+    "comments": 88,
+    "id": 47772048,
+    "discussion_url": "https://news.ycombinator.com/item?id=47772048",
+    "description": "Fuck the cloud (2009)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799923"
+    "fetched_at": "2026-04-15T11:55:51.648302"
   },
   {
     "title": "GitHub Stacked PRs",
     "url": "https://github.github.com/gh-stack/",
     "author": "ezekg",
-    "date": "2026-04-14",
-    "score": 859,
-    "comments": 487,
+    "date": "2026-04-13",
+    "score": 879,
+    "comments": 508,
     "id": 47757495,
     "discussion_url": "https://news.ycombinator.com/item?id=47757495",
     "description": "GitHub Stacked PRs",
@@ -201,49 +167,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800115"
+    "fetched_at": "2026-04-15T11:55:51.648311"
   },
   {
-    "title": "How to make Firefox builds 17% faster",
-    "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-    "author": "mbitsnbites",
-    "date": "2026-04-14",
-    "score": 199,
-    "comments": 37,
-    "id": 47756321,
-    "discussion_url": "https://news.ycombinator.com/item?id=47756321",
-    "description": "How to make Firefox builds 17% faster",
+    "title": "Guide.world: A compendium of travel guides",
+    "url": "https://guide.world/",
+    "author": "firloop",
+    "date": "2026-04-09",
+    "score": 120,
+    "comments": 20,
+    "id": 47707382,
+    "discussion_url": "https://news.ycombinator.com/item?id=47707382",
+    "description": "Guide.world: A compendium of travel guides",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800256"
-  },
-  {
-    "title": "I just want simple S3",
-    "url": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
-    "author": "g0xA52A2A",
-    "date": "2026-04-11",
-    "score": 216,
-    "comments": 115,
-    "id": 47729350,
-    "discussion_url": "https://news.ycombinator.com/item?id=47729350",
-    "description": "I just want simple S3",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800239"
+    "fetched_at": "2026-04-15T11:55:51.648088"
   },
   {
     "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
     "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
     "author": "speckx",
-    "date": "2026-04-15",
-    "score": 278,
-    "comments": 117,
+    "date": "2026-04-14",
+    "score": 618,
+    "comments": 240,
     "id": 47768813,
     "discussion_url": "https://news.ycombinator.com/item?id=47768813",
     "description": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
@@ -252,49 +201,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799373"
+    "fetched_at": "2026-04-15T11:55:51.648128"
   },
   {
-    "title": "Introspective Diffusion Language Models",
-    "url": "https://introspective-diffusion.github.io/",
-    "author": "zagwdt",
-    "date": "2026-04-14",
-    "score": 202,
-    "comments": 39,
-    "id": 47762641,
-    "discussion_url": "https://news.ycombinator.com/item?id=47762641",
-    "description": "Introspective Diffusion Language Models",
+    "title": "Let's talk space toilets",
+    "url": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
+    "author": "zdw",
+    "date": "2026-04-13",
+    "score": 190,
+    "comments": 52,
+    "id": 47758870,
+    "discussion_url": "https://news.ycombinator.com/item?id=47758870",
+    "description": "Let's talk space toilets",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799763"
-  },
-  {
-    "title": "Lean proved this program correct; then I found a bug",
-    "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-    "author": "bumbledraven",
-    "date": "2026-04-14",
-    "score": 365,
-    "comments": 164,
-    "id": 47759709,
-    "discussion_url": "https://news.ycombinator.com/item?id=47759709",
-    "description": "Lean proved this program correct; then I found a bug",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799941"
+    "fetched_at": "2026-04-15T11:55:51.648070"
   },
   {
     "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
     "url": "https://kirancodes.me/posts/log-distributed-llms.html",
     "author": "tie-in",
     "date": "2026-04-14",
-    "score": 97,
-    "comments": 45,
+    "score": 111,
+    "comments": 61,
     "id": 47761625,
     "discussion_url": "https://news.ycombinator.com/item?id=47761625",
     "description": "Multi-Agentic Software Development Is a Distributed Systems Problem",
@@ -303,32 +235,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800062"
+    "fetched_at": "2026-04-15T11:55:51.648333"
   },
   {
-    "title": "NimConf 2026: Dates Announced, Registrations Open",
-    "url": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
-    "author": "moigagoo",
-    "date": "2026-04-14",
-    "score": 99,
-    "comments": 29,
-    "id": 47764098,
-    "discussion_url": "https://news.ycombinator.com/item?id=47764098",
-    "description": "NimConf 2026: Dates Announced, Registrations Open",
+    "title": "Not all elementary functions can be expressed with exp-minus-log",
+    "url": "https://www.stylewarning.com/posts/not-all-elementary/",
+    "author": "mmastrac",
+    "date": "2026-04-15",
+    "score": 111,
+    "comments": 84,
+    "id": 47773788,
+    "discussion_url": "https://news.ycombinator.com/item?id=47773788",
+    "description": "Not all elementary functions can be expressed with exp-minus-log",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800132"
+    "fetched_at": "2026-04-15T11:55:51.648064"
   },
   {
     "title": "OpenSSL 4.0.0",
     "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.0.0",
     "author": "petecooper",
-    "date": "2026-04-15",
-    "score": 94,
-    "comments": 20,
+    "date": "2026-04-14",
+    "score": 261,
+    "comments": 83,
     "id": 47768788,
     "discussion_url": "https://news.ycombinator.com/item?id=47768788",
     "description": "OpenSSL 4.0.0",
@@ -337,15 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799545"
+    "fetched_at": "2026-04-15T11:55:51.648205"
+  },
+  {
+    "title": "Picasso’s Guernica (Gigapixel)",
+    "url": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
+    "author": "guigar",
+    "date": "2026-04-11",
+    "score": 153,
+    "comments": 52,
+    "id": 47728662,
+    "discussion_url": "https://news.ycombinator.com/item?id=47728662",
+    "description": "Picasso’s Guernica (Gigapixel)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-15T11:55:51.648046"
   },
   {
     "title": "Rare concert recordings are landing on the Internet Archive",
     "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
     "author": "jrm-veris",
     "date": "2026-04-14",
-    "score": 376,
-    "comments": 106,
+    "score": 657,
+    "comments": 191,
     "id": 47765604,
     "discussion_url": "https://news.ycombinator.com/item?id=47765604",
     "description": "Rare concert recordings are landing on the Internet Archive",
@@ -354,32 +303,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799619"
+    "fetched_at": "2026-04-15T11:55:51.648052"
   },
   {
-    "title": "Rust Threads on the GPU",
-    "url": "https://www.vectorware.com/blog/threads-on-gpu/",
-    "author": "PaulHoule",
-    "date": "2026-04-10",
-    "score": 113,
-    "comments": 40,
-    "id": 47708457,
-    "discussion_url": "https://news.ycombinator.com/item?id=47708457",
-    "description": "Rust Threads on the GPU",
+    "title": "Saying goodbye to Agile",
+    "url": "https://lewiscampbell.tech/blog/260414.html",
+    "author": "matrixhelix",
+    "date": "2026-04-15",
+    "score": 147,
+    "comments": 209,
+    "id": 47774781,
+    "discussion_url": "https://news.ycombinator.com/item?id=47774781",
+    "description": "Saying goodbye to Agile",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800408"
+    "fetched_at": "2026-04-15T11:55:51.648293"
+  },
+  {
+    "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+    "url": "https://github.com/ginlix-ai/langalpha",
+    "author": "zc2610",
+    "date": "2026-04-14",
+    "score": 135,
+    "comments": 49,
+    "id": 47766370,
+    "discussion_url": "https://news.ycombinator.com/item?id=47766370",
+    "description": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-15T11:55:51.648266"
   },
   {
     "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
     "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
     "author": "speckx",
-    "date": "2026-04-14",
-    "score": 1125,
-    "comments": 316,
+    "date": "2026-04-13",
+    "score": 1166,
+    "comments": 326,
     "id": 47755629,
     "discussion_url": "https://news.ycombinator.com/item?id=47755629",
     "description": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
@@ -388,32 +354,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800010"
+    "fetched_at": "2026-04-15T11:55:51.648181"
   },
   {
-    "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
-    "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
-    "author": "akyuu",
-    "date": "2026-04-15",
-    "score": 313,
-    "comments": 270,
-    "id": 47768195,
-    "discussion_url": "https://news.ycombinator.com/item?id=47768195",
-    "description": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+    "title": "Stop Flock",
+    "url": "https://stopflock.com",
+    "author": "cdrnsf",
+    "date": "2026-04-14",
+    "score": 736,
+    "comments": 188,
+    "id": 47772012,
+    "discussion_url": "https://news.ycombinator.com/item?id=47772012",
+    "description": "Stop Flock",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799414"
+    "fetched_at": "2026-04-15T11:55:51.648138"
   },
   {
     "title": "The M×N problem of tool calling and open-source models",
     "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
     "author": "remilouf",
-    "date": "2026-04-10",
-    "score": 106,
-    "comments": 36,
+    "date": "2026-04-09",
+    "score": 151,
+    "comments": 47,
     "id": 47704729,
     "discussion_url": "https://news.ycombinator.com/item?id=47704729",
     "description": "The M×N problem of tool calling and open-source models",
@@ -422,83 +388,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799869"
+    "fetched_at": "2026-04-15T11:55:51.648278"
   },
   {
-    "title": "The future of everything is lies, I guess: Work",
-    "url": "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work",
-    "author": "aphyr",
-    "date": "2026-04-15",
-    "score": 221,
-    "comments": 191,
-    "id": 47766550,
-    "discussion_url": "https://news.ycombinator.com/item?id=47766550",
-    "description": "The future of everything is lies, I guess: Work",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799976"
-  },
-  {
-    "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-    "url": "https://github.com/fabienmillet/WiiFin",
-    "author": "throwawayk7h",
-    "date": "2026-04-14",
-    "score": 232,
-    "comments": 112,
-    "id": 47759341,
-    "discussion_url": "https://news.ycombinator.com/item?id=47759341",
-    "description": "WiiFin – Jellyfin Client for Nintendo Wii",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800028"
-  },
-  {
-    "title": "Write less code, be more responsible",
-    "url": "https://blog.orhun.dev/code-responsibly/",
-    "author": "orhunp_",
+    "title": "The Orange Pi 6 Plus",
+    "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
+    "author": "rcarmo",
     "date": "2026-04-11",
-    "score": 153,
-    "comments": 105,
-    "id": 47728970,
-    "discussion_url": "https://news.ycombinator.com/item?id=47728970",
-    "description": "Write less code, be more responsible",
+    "score": 199,
+    "comments": 169,
+    "id": 47732535,
+    "discussion_url": "https://news.ycombinator.com/item?id=47732535",
+    "description": "The Orange Pi 6 Plus",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.800203"
+    "fetched_at": "2026-04-15T11:55:51.648132"
   },
   {
-    "title": "YouTube now world's largest media company, topping Disney",
-    "url": "https://www.hollywoodreporter.com/business/digital/youtube-worlds-largest-media-company-2025-tops-disney-1236525130/",
-    "author": "bookofjoe",
-    "date": "2026-04-10",
-    "score": 81,
-    "comments": 51,
-    "id": 47705278,
-    "discussion_url": "https://news.ycombinator.com/item?id=47705278",
-    "description": "YouTube now world's largest media company, topping Disney",
+    "title": "The dangers of California's legislation to censor 3D printing",
+    "url": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
+    "author": "salkahfi",
+    "date": "2026-04-13",
+    "score": 425,
+    "comments": 376,
+    "id": 47759420,
+    "discussion_url": "https://news.ycombinator.com/item?id=47759420",
+    "description": "The dangers of California's legislation to censor 3D printing",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799343"
+    "fetched_at": "2026-04-15T11:55:51.648093"
+  },
+  {
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "author": "xnx",
+    "date": "2026-04-14",
+    "score": 171,
+    "comments": 86,
+    "id": 47768339,
+    "discussion_url": "https://news.ycombinator.com/item?id=47768339",
+    "description": "Turn your best AI prompts into one-click tools in Chrome",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-15T11:55:51.648118"
+  },
+  {
+    "title": "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
+    "url": "https://hypirion.com/musings/understanding-persistent-vector-pt-1",
+    "author": "mirzap",
+    "date": "2026-04-10",
+    "score": 94,
+    "comments": 22,
+    "id": 47721076,
+    "discussion_url": "https://news.ycombinator.com/item?id=47721076",
+    "description": "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-15T11:55:51.648041"
+  },
+  {
+    "title": "Wacli – WhatsApp CLI: sync, search, send",
+    "url": "https://github.com/steipete/wacli",
+    "author": "dinakars777",
+    "date": "2026-04-15",
+    "score": 128,
+    "comments": 100,
+    "id": 47775628,
+    "discussion_url": "https://news.ycombinator.com/item?id=47775628",
+    "description": "Wacli – WhatsApp CLI: sync, search, send",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-15T11:55:51.648209"
+  },
+  {
+    "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+    "url": "https://prog21.dadgum.com/30.html",
+    "author": "downbad_",
+    "date": "2026-04-15",
+    "score": 121,
+    "comments": 45,
+    "id": 47776796,
+    "discussion_url": "https://news.ycombinator.com/item?id=47776796",
+    "description": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-15T11:55:51.648020"
   },
   {
     "title": "jj – the CLI for Jujutsu",
     "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
     "author": "tigerlily",
     "date": "2026-04-14",
-    "score": 428,
-    "comments": 365,
+    "score": 525,
+    "comments": 459,
     "id": 47763759,
     "discussion_url": "https://news.ycombinator.com/item?id=47763759",
     "description": "jj – the CLI for Jujutsu",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-15T06:00:11.799709"
+    "fetched_at": "2026-04-15T11:55:51.648200"
   }
 ]
