@@ -1,0 +1,2361 @@
+---
+title: Build a voice-enabled Telegram Bot with the Gemini Interactions API - DEV Community
+url: https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5
+site_name: devto
+content_file: devto-build-a-voice-enabled-telegram-bot-with-the-gemini
+fetched_at: '2026-04-16T19:59:55.979389'
+original_url: https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5
+author: Thor 雷神 Schaeff
+date: '2026-04-16'
+description: What if your Telegram bot could listen? Not just read text — actually understand voice messages,... Tagged with ai, gemini, python, tutorial.
+tags: '#ai, #gemini, #python, #tutorial'
+---
+
+What if your Telegram bot couldlisten?
+
+Not just read text — actually understand voice messages, reason about them, and talk back with a natural-sounding voice. That's what we're building today: a Telegram bot powered by Google's Gemini API that handles both text and voice, with multi-turn memory and text-to-speech replies.
+
+Here's what it looks like in action:
+
+1. You send a voice note in any language
+2. Gemini understands the audio and generates a text response
+3. The bot sends the textandspeaks the reply back as a voice message
+
+All in about 400 lines of Python. Let's build it.
+
+## What We're Using
+
+* python-telegram-bot— async Telegram Bot API wrapper
+* Gemini Interactions API— Google's unified API for text, audio, and multi-turn conversations
+* Gemini 3.1 Flash Lite— fast, cost-efficient model for reasoning
+* Gemini 3.1 Flash TTS— text-to-speech model with natural-sounding voices
+* pydub + ffmpeg— audio format conversion (PCM → OGG/Opus for Telegram)
+
+## Prerequisites
+
+* Python 3.11+
+* ATelegram Bot Token(create a bot via@botfather)
+* AGoogle AI API Key
+* ffmpeginstalled (brew install ffmpegon macOS,apt-get install ffmpegon Linux)
+
+## Project Setup
+
+Create a new directory and set up the basics:
+
+mkdir 
+telegram-gemini-voice-bot 
+&&
+ 
+cd 
+telegram-gemini-voice-bot
+
+# Create a virtual environment
+
+python 
+-m
+ venv .venv 
+&&
+ 
+source
+ .venv/bin/activate
+
+# Install dependencies
+
+pip 
+install
+ 
+'python-telegram-bot[webhooks]~=21.11'
+ 
+'google-genai>=1.55.0'
+ 
+'pydub~=0.25'
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+Create a.envfile with your credentials:
+
+# .env
+
+TELEGRAM_BOT_TOKEN
+=
+your-telegram-bot-token
+
+GOOGLE_API_KEY
+=
+your-google-api-key
+
+TELEGRAM_SECRET_TOKEN
+=
+generate-a-random-string-here
+
+VOICE_ENABLED
+=
+true
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+## Step 1: The Skeleton
+
+Createbot.pyand start with imports and config:
+
+import
+ 
+base64
+
+import
+ 
+io
+
+import
+ 
+logging
+
+import
+ 
+os
+
+import
+ 
+wave
+
+from
+ 
+google
+ 
+import
+ 
+genai
+
+from
+ 
+pydub
+ 
+import
+ 
+AudioSegment
+
+from
+ 
+telegram
+ 
+import
+ 
+Update
+
+from
+ 
+telegram.ext
+ 
+import
+ 
+(
+
+ 
+Application
+,
+
+ 
+CommandHandler
+,
+
+ 
+ContextTypes
+,
+
+ 
+MessageHandler
+,
+
+ 
+filters
+,
+
+)
+
+# Config
+
+TELEGRAM_BOT_TOKEN
+ 
+=
+ 
+os
+.
+environ
+[
+"
+TELEGRAM_BOT_TOKEN
+"
+]
+
+GOOGLE_API_KEY
+ 
+=
+ 
+os
+.
+environ
+[
+"
+GOOGLE_API_KEY
+"
+]
+
+WEBHOOK_URL
+ 
+=
+ 
+os
+.
+environ
+.
+get
+(
+"
+WEBHOOK_URL
+"
+,
+ 
+""
+)
+
+TELEGRAM_SECRET_TOKEN
+ 
+=
+ 
+os
+.
+environ
+.
+get
+(
+"
+TELEGRAM_SECRET_TOKEN
+"
+)
+
+PORT
+ 
+=
+ 
+int
+(
+os
+.
+environ
+.
+get
+(
+"
+PORT
+"
+,
+ 
+"
+8080
+"
+))
+
+REASONING_MODEL
+ 
+=
+ 
+"
+gemini-3.1-flash-lite-preview
+"
+
+TTS_MODEL
+ 
+=
+ 
+"
+gemini-3.1-flash-tts-preview
+"
+
+TTS_VOICE
+ 
+=
+ 
+"
+Kore
+"
+
+logging
+.
+basicConfig
+(
+
+ 
+format
+=
+"
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+"
+,
+
+ 
+level
+=
+logging
+.
+INFO
+,
+
+)
+
+logger
+ 
+=
+ 
+logging
+.
+getLogger
+(
+__name__
+)
+
+# Initialize the Gemini client
+
+gemini_client
+ 
+=
+ 
+genai
+.
+Client
+(
+api_key
+=
+GOOGLE_API_KEY
+)
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+We're using two Gemini models:
+
+* Flash Litefor understanding text and audio — it's the fastest, cheapest model in the Gemini family, perfect for a chatbot.
+* Flash TTSfor generating voice replies — it produces natural speech with configurable voices.
+
+## Step 2: Understanding Audio with the Interactions API
+
+The Interactions API is Gemini's unified interface. Instead of jugglinggenerateContentand manually tracking conversation history, you callinteractions.create()and pass aprevious_interaction_idfor multi-turn — the server handles the rest.
+
+Here's the core function that sends text or audio to Gemini:
+
+# Track conversation state (in-memory, resets on restart)
+
+last_interaction_ids
+:
+ 
+dict
+[
+int
+,
+ 
+str
+]
+ 
+=
+ 
+{}
+ 
+# chat_id → interaction ID
+
+async
+ 
+def
+ 
+gemini_interact
+(
+
+ 
+chat_id
+:
+ 
+int
+,
+
+ 
+text
+:
+ 
+str
+ 
+|
+ 
+None
+ 
+=
+ 
+None
+,
+
+ 
+audio_bytes
+:
+ 
+bytes
+ 
+|
+ 
+None
+ 
+=
+ 
+None
+,
+
+)
+ 
+->
+ 
+str
+:
+
+ 
+"""
+Send text or audio to Gemini, return the text response.
+"""
+
+ 
+input_parts
+:
+ 
+list
+ 
+=
+ 
+[]
+
+ 
+if
+ 
+audio_bytes
+ 
+is
+ 
+not
+ 
+None
+:
+
+ 
+# Encode audio as base64 for the API
+
+ 
+audio_b64
+ 
+=
+ 
+base64
+.
+b64encode
+(
+audio_bytes
+).
+decode
+(
+"
+utf-8
+"
+)
+
+ 
+input_parts
+.
+append
+(
+
+ 
+{
+"
+type
+"
+:
+ 
+"
+audio
+"
+,
+ 
+"
+data
+"
+:
+ 
+audio_b64
+,
+ 
+"
+mime_type
+"
+:
+ 
+"
+audio/ogg
+"
+}
+
+ 
+)
+
+ 
+input_parts
+.
+append
+(
+
+ 
+{
+"
+type
+"
+:
+ 
+"
+text
+"
+,
+ 
+"
+text
+"
+:
+ 
+"
+Listen to this voice message and respond helpfully.
+"
+}
+
+ 
+)
+
+ 
+if
+ 
+text
+ 
+is
+ 
+not
+ 
+None
+:
+
+ 
+input_parts
+.
+append
+({
+"
+type
+"
+:
+ 
+"
+text
+"
+,
+ 
+"
+text
+"
+:
+ 
+text
+})
+
+ 
+# Simplify input if it's just a single text part
+
+ 
+if
+ 
+len
+(
+input_parts
+)
+ 
+==
+ 
+1
+ 
+and
+ 
+input_parts
+[
+0
+][
+"
+type
+"
+]
+ 
+==
+ 
+"
+text
+"
+:
+
+ 
+input_value
+ 
+=
+ 
+input_parts
+[
+0
+][
+"
+text
+"
+]
+
+ 
+else
+:
+
+ 
+input_value
+ 
+=
+ 
+input_parts
+
+ 
+kwargs
+ 
+=
+ 
+{
+
+ 
+"
+model
+"
+:
+ 
+REASONING_MODEL
+,
+
+ 
+"
+input
+"
+:
+ 
+input_value
+,
+
+ 
+"
+system_instruction
+"
+:
+ 
+(
+
+ 
+"
+You are a helpful, concise AI assistant on Telegram. 
+"
+
+ 
+"
+Keep responses short and informative. 
+"
+
+ 
+"
+Always respond in the same language the user writes or speaks in.
+"
+
+ 
+),
+
+ 
+}
+
+ 
+# Chain to previous interaction for multi-turn context
+
+ 
+prev_id
+ 
+=
+ 
+last_interaction_ids
+.
+get
+(
+chat_id
+)
+
+ 
+if
+ 
+prev_id
+:
+
+ 
+kwargs
+[
+"
+previous_interaction_id
+"
+]
+ 
+=
+ 
+prev_id
+
+ 
+interaction
+ 
+=
+ 
+gemini_client
+.
+interactions
+.
+create
+(
+**
+kwargs
+)
+
+ 
+# Store this interaction's ID for the next turn
+
+ 
+last_interaction_ids
+[
+chat_id
+]
+ 
+=
+ 
+interaction
+.
+id
+
+ 
+return
+ 
+interaction
+.
+outputs
+[
+-
+1
+].
+text
+ 
+or
+ 
+"
+(No response generated)
+"
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+What's happening here:
+
+1. Audio input— We base64-encode the voice message bytes and pass them as anaudiopart alongside a text prompt telling the model what to do.
+2. Multi-turn— We store theinteraction.idfrom each response and pass it asprevious_interaction_idon the next call. The server keeps the full conversation history — we don't need to.
+3. Text input— For plain text messages, we send a simple string instead of a multipart array.
+
+## Step 3: Text-to-Speech with Gemini TTS
+
+Gemini's TTS model returns raw PCM audio. Telegram voice messages require OGG/Opus format. So we need a conversion pipeline:
+
+Text → Gemini TTS → raw PCM (24kHz, 16-bit, mono) → WAV → OGG/Opus → Telegram
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+Here's the implementation:
+
+async
+ 
+def
+ 
+gemini_tts
+(
+text
+:
+ 
+str
+)
+ 
+->
+ 
+bytes
+:
+
+ 
+"""
+Convert text to OGG/Opus audio bytes via Gemini TTS.
+"""
+
+ 
+interaction
+ 
+=
+ 
+gemini_client
+.
+interactions
+.
+create
+(
+
+ 
+model
+=
+TTS_MODEL
+,
+
+ 
+input
+=
+text
+,
+
+ 
+response_modalities
+=
+[
+"
+AUDIO
+"
+],
+
+ 
+generation_config
+=
+{
+
+ 
+"
+speech_config
+"
+:
+ 
+{
+
+ 
+"
+voice
+"
+:
+ 
+TTS_VOICE
+.
+lower
+(),
+
+ 
+}
+
+ 
+},
+
+ 
+)
+
+ 
+# Extract PCM audio from response
+
+ 
+pcm_audio
+ 
+=
+ 
+None
+
+ 
+for
+ 
+output
+ 
+in
+ 
+interaction
+.
+outputs
+:
+
+ 
+if
+ 
+output
+.
+type
+ 
+==
+ 
+"
+audio
+"
+:
+
+ 
+pcm_audio
+ 
+=
+ 
+base64
+.
+b64decode
+(
+output
+.
+data
+)
+
+ 
+break
+
+ 
+if
+ 
+pcm_audio
+ 
+is
+ 
+None
+:
+
+ 
+raise
+ 
+RuntimeError
+(
+"
+No audio output from TTS
+"
+)
+
+ 
+# Convert raw PCM → WAV (pydub needs a container format)
+
+ 
+wav_buffer
+ 
+=
+ 
+io
+.
+BytesIO
+()
+
+ 
+with
+ 
+wave
+.
+open
+(
+wav_buffer
+,
+ 
+"
+wb
+"
+)
+ 
+as
+ 
+wav_file
+:
+
+ 
+wav_file
+.
+setnchannels
+(
+1
+)
+ 
+# mono
+
+ 
+wav_file
+.
+setsampwidth
+(
+2
+)
+ 
+# 16-bit
+
+ 
+wav_file
+.
+setframerate
+(
+24000
+)
+ 
+# 24kHz
+
+ 
+wav_file
+.
+writeframes
+(
+pcm_audio
+)
+
+ 
+wav_buffer
+.
+seek
+(
+0
+)
+
+ 
+audio_segment
+ 
+=
+ 
+AudioSegment
+.
+from_wav
+(
+wav_buffer
+)
+
+ 
+# WAV → OGG/Opus (Telegram's required format for voice messages)
+
+ 
+ogg_buffer
+ 
+=
+ 
+io
+.
+BytesIO
+()
+
+ 
+audio_segment
+.
+export
+(
+ogg_buffer
+,
+ 
+format
+=
+"
+ogg
+"
+,
+ 
+codec
+=
+"
+libopus
+"
+)
+
+ 
+ogg_buffer
+.
+seek
+(
+0
+)
+
+ 
+return
+ 
+ogg_buffer
+.
+read
+()
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+The key detail: Gemini TTS returnsraw PCMsamples at 24kHz, 16-bit, mono. We wrap it in a WAV header using Python'swavemodule, then usepydub(which callsffmpegunder the hood) to re-encode as OGG/Opus — the format Telegram expects forreply_voice().
+
+💡 Inline audio tags:Gemini TTS supportsinline audio tags— square-bracket modifiers you can embed directly in your transcript to control delivery. For example,[whispers],[laughs],[excited],[sighs], or[shouting]. You can use these in the text you pass to TTS to make responses more expressive:
+
+"[laughs] Oh that's a great question! [whispers] Let me tell you a secret..."
+
+There's no fixed list — the model understands a wide range of emotions and expressions like[sarcastic],[panicked],[curious], and more.
+
+Find a Gemini TTS prompting guide here:https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb
+
+## Step 4: Telegram Handlers
+
+Now wire it all together with Telegram's handler system. We need two handlers: one for text, one for voice.
+
+### Handling Text Messages
+
+async
+ 
+def
+ 
+handle_text
+(
+update
+:
+ 
+Update
+,
+ 
+context
+:
+ 
+ContextTypes
+.
+DEFAULT_TYPE
+)
+ 
+->
+ 
+None
+:
+
+ 
+"""
+Handle incoming text messages.
+"""
+
+ 
+chat_id
+ 
+=
+ 
+update
+.
+effective_chat
+.
+id
+
+ 
+user_text
+ 
+=
+ 
+update
+.
+message
+.
+text
+
+ 
+logger
+.
+info
+(
+"
+Text message from chat %s: %s
+"
+,
+ 
+chat_id
+,
+ 
+user_text
+[:
+100
+])
+
+ 
+# Show typing indicator
+
+ 
+await
+ 
+update
+.
+message
+.
+chat
+.
+send_action
+(
+"
+typing
+"
+)
+
+ 
+# Get Gemini response
+
+ 
+response_text
+ 
+=
+ 
+await
+ 
+gemini_interact
+(
+chat_id
+,
+ 
+text
+=
+user_text
+)
+
+ 
+# Always send text
+
+ 
+await
+ 
+update
+.
+message
+.
+reply_text
+(
+response_text
+)
+
+ 
+# Also send voice reply
+
+ 
+try
+:
+
+ 
+await
+ 
+update
+.
+message
+.
+chat
+.
+send_action
+(
+"
+record_voice
+"
+)
+
+ 
+ogg_audio
+ 
+=
+ 
+await
+ 
+gemini_tts
+(
+response_text
+)
+
+ 
+await
+ 
+update
+.
+message
+.
+reply_voice
+(
+voice
+=
+ogg_audio
+)
+
+ 
+except
+ 
+Exception
+ 
+as
+ 
+e
+:
+
+ 
+logger
+.
+error
+(
+"
+TTS failed: %s
+"
+,
+ 
+e
+)
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+### Handling Voice Messages
+
+async
+ 
+def
+ 
+handle_voice
+(
+update
+:
+ 
+Update
+,
+ 
+context
+:
+ 
+ContextTypes
+.
+DEFAULT_TYPE
+)
+ 
+->
+ 
+None
+:
+
+ 
+"""
+Handle incoming voice messages.
+"""
+
+ 
+chat_id
+ 
+=
+ 
+update
+.
+effective_chat
+.
+id
+
+ 
+logger
+.
+info
+(
+"
+Voice message from chat %s
+"
+,
+ 
+chat_id
+)
+
+ 
+await
+ 
+update
+.
+message
+.
+chat
+.
+send_action
+(
+"
+typing
+"
+)
+
+ 
+# Download voice file from Telegram (already in OGG/Opus format)
+
+ 
+voice
+ 
+=
+ 
+update
+.
+message
+.
+voice
+
+ 
+voice_file
+ 
+=
+ 
+await
+ 
+voice
+.
+get_file
+()
+
+ 
+audio_bytes
+ 
+=
+ 
+await
+ 
+voice_file
+.
+download_as_bytearray
+()
+
+ 
+# Send audio directly to Gemini — it understands OGG natively
+
+ 
+response_text
+ 
+=
+ 
+await
+ 
+gemini_interact
+(
+chat_id
+,
+ 
+audio_bytes
+=
+bytes
+(
+audio_bytes
+))
+
+ 
+# Send text response
+
+ 
+await
+ 
+update
+.
+message
+.
+reply_text
+(
+response_text
+)
+
+ 
+# Send voice response
+
+ 
+try
+:
+
+ 
+await
+ 
+update
+.
+message
+.
+chat
+.
+send_action
+(
+"
+record_voice
+"
+)
+
+ 
+ogg_audio
+ 
+=
+ 
+await
+ 
+gemini_tts
+(
+response_text
+)
+
+ 
+await
+ 
+update
+.
+message
+.
+reply_voice
+(
+voice
+=
+ogg_audio
+)
+
+ 
+except
+ 
+Exception
+ 
+as
+ 
+e
+:
+
+ 
+logger
+.
+error
+(
+"
+TTS failed: %s
+"
+,
+ 
+e
+)
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+The beautiful thing here:Telegram voice messages are already OGG/Opus, and Gemini understands that format directly. No transcoding needed on input — we just pass the raw bytes.
+
+## Step 5: Launching the Bot
+
+Finally, set up the application with both polling (local dev) and webhook (production) support:
+
+def
+ 
+main
+()
+ 
+->
+ 
+None
+:
+
+ 
+"""
+Start the bot.
+"""
+
+ 
+app
+ 
+=
+ 
+Application
+.
+builder
+().
+token
+(
+TELEGRAM_BOT_TOKEN
+).
+build
+()
+
+ 
+# Register handlers
+
+ 
+app
+.
+add_handler
+(
+CommandHandler
+(
+"
+start
+"
+,
+ 
+start_command
+))
+
+ 
+app
+.
+add_handler
+(
+MessageHandler
+(
+filters
+.
+TEXT
+ 
+&
+ 
+~
+filters
+.
+COMMAND
+,
+ 
+handle_text
+))
+
+ 
+app
+.
+add_handler
+(
+MessageHandler
+(
+filters
+.
+VOICE
+,
+ 
+handle_voice
+))
+
+ 
+if
+ 
+WEBHOOK_URL
+:
+
+ 
+# Webhook mode (production / Cloud Run)
+
+ 
+logger
+.
+info
+(
+"
+Starting webhook on port %s → %s
+"
+,
+ 
+PORT
+,
+ 
+WEBHOOK_URL
+)
+
+ 
+app
+.
+run_webhook
+(
+
+ 
+listen
+=
+"
+0.0.0.0
+"
+,
+
+ 
+port
+=
+PORT
+,
+
+ 
+url_path
+=
+"
+webhook
+"
+,
+
+ 
+webhook_url
+=
+f
+"
+{
+WEBHOOK_URL
+}
+/webhook
+"
+,
+
+ 
+secret_token
+=
+TELEGRAM_SECRET_TOKEN
+,
+
+ 
+)
+
+ 
+else
+:
+
+ 
+# Polling mode (local dev — no public URL needed)
+
+ 
+logger
+.
+info
+(
+"
+Starting polling mode (no WEBHOOK_URL set)
+"
+)
+
+ 
+app
+.
+run_polling
+(
+allowed_updates
+=
+Update
+.
+ALL_TYPES
+)
+
+if
+ 
+__name__
+ 
+==
+ 
+"
+__main__
+"
+:
+
+ 
+main
+()
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+Polling vs. Webhook:
+
+* Polling— The bot asks Telegram "any new messages?" in a loop. Simple, works anywhere. Great for local development.
+* Webhook— Telegram pushes messages to your URL. More efficient, required for serverless (Cloud Run). Thepython-telegram-botlibrary handles webhook registration automatically viarun_webhook().
+
+## Running Locally
+
+# Load environment variables
+
+export
+ 
+$(
+cat
+ .env | xargs
+)
+
+# Start in polling mode (no WEBHOOK_URL = polling)
+
+python bot.py
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+Open Telegram, find your bot, and send it a voice message. You should get back a text reply and a spoken response. 🎉
+
+## Deploy to Cloud Run
+
+Want this running 24/7 with scale-to-zero? Here's the Dockerfile:
+
+FROM
+ python:3.12-slim
+
+# Install ffmpeg for audio conversion (WAV → OGG/Opus)
+
+RUN 
+apt-get update 
+&&
+ 
+\
+
+ apt-get 
+install
+ 
+-y
+ 
+--no-install-recommends
+ ffmpeg 
+&&
+ 
+\
+
+ 
+rm
+ 
+-rf
+ /var/lib/apt/lists/
+*
+
+WORKDIR
+ /app
+
+COPY
+ requirements.txt .
+
+RUN 
+pip 
+install
+ 
+--no-cache-dir
+ 
+-r
+ requirements.txt
+
+COPY
+ bot.py .
+
+ENV
+ PORT=8080
+
+EXPOSE
+ 8080
+
+CMD
+ ["python", "bot.py"]
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+### 1. Initializegcloudand Enable APIs
+
+First, make sure yourgcloudCLI is configured with the right project:
+
+gcloud init 
+--skip-diagnostics
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+Enable the required APIs — Secret Manager for storing credentials and Cloud Build for building your container:
+
+gcloud services 
+enable 
+secretmanager.googleapis.com
+gcloud services 
+enable 
+cloudbuild.googleapis.com
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+### 2. Store Secrets
+
+Never put API keys in environment variables directly. Use Secret Manager:
+
+echo
+ 
+-n
+ 
+"
+$(
+grep 
+TELEGRAM_BOT_TOKEN .env | 
+cut
+ 
+-d
+ 
+'='
+ 
+-f2
+)
+"
+ | 
+\
+
+ gcloud secrets create TELEGRAM_BOT_TOKEN 
+--data-file
+=
+-
+
+echo
+ 
+-n
+ 
+"
+$(
+grep 
+GOOGLE_API_KEY .env | 
+cut
+ 
+-d
+ 
+'='
+ 
+-f2
+)
+"
+ | 
+\
+
+ gcloud secrets create GOOGLE_API_KEY 
+--data-file
+=
+-
+
+echo
+ 
+-n
+ 
+"
+$(
+openssl rand 
+-base64
+ 32
+)
+"
+ | 
+\
+
+ gcloud secrets create TELEGRAM_SECRET_TOKEN 
+--data-file
+=
+-
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+Note:Theecho -nflag strips the trailing newline so it's not included in the stored secret. If you see a%at the end of the output when echoing — that's just zsh indicating no trailing newline, not part of your secret.
+
+### 3. Grant IAM Permissions
+
+Cloud Run source deploys use thedefault Compute Engine service accountto build and run your container. This account needs three additional roles that aren't granted by default:
+
+# Get your project number
+
+PROJECT_NUMBER
+=
+$(
+gcloud projects describe 
+$(
+gcloud config get-value project
+)
+ 
+\
+
+ 
+--format
+=
+'value(projectNumber)'
+)
+
+# Allow the service account to build containers
+
+gcloud projects add-iam-policy-binding 
+$(
+gcloud config get-value project
+)
+ 
+\
+
+ 
+--member
+=
+"serviceAccount:
+${
+PROJECT_NUMBER
+}
+-compute@developer.gserviceaccount.com"
+ 
+\
+
+ 
+--role
+=
+"roles/cloudbuild.builds.builder"
+
+# Allow it to read uploaded source code from Cloud Storage
+
+gcloud projects add-iam-policy-binding 
+$(
+gcloud config get-value project
+)
+ 
+\
+
+ 
+--member
+=
+"serviceAccount:
+${
+PROJECT_NUMBER
+}
+-compute@developer.gserviceaccount.com"
+ 
+\
+
+ 
+--role
+=
+"roles/storage.objectViewer"
+
+# Allow it to access secrets at runtime
+
+gcloud projects add-iam-policy-binding 
+$(
+gcloud config get-value project
+)
+ 
+\
+
+ 
+--member
+=
+"serviceAccount:
+${
+PROJECT_NUMBER
+}
+-compute@developer.gserviceaccount.com"
+ 
+\
+
+ 
+--role
+=
+"roles/secretmanager.secretAccessor"
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+Why are these needed?The default Compute Engine service account has theroles/editorrole, but Editor doesn't include Cloud Build execution, fine-grained Cloud Storage read access, or Secret Manager access. This is a one-time setup per project.
+
+### 4. Deploy
+
+gcloud run deploy telegram-gemini-bot 
+\
+
+ 
+--source
+ 
+.
+ 
+\
+
+ 
+--region
+ us-central1 
+\
+
+ 
+--allow-unauthenticated
+ 
+\
+
+ 
+--set-secrets
+=
+"TELEGRAM_BOT_TOKEN=TELEGRAM_BOT_TOKEN:latest,GOOGLE_API_KEY=GOOGLE_API_KEY:latest,TELEGRAM_SECRET_TOKEN=TELEGRAM_SECRET_TOKEN:latest"
+ 
+\
+
+ 
+--no-cpu-throttling
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+Note on--no-cpu-throttling: This tells Cloud Run to keep the CPU active even after the initial response is sent. Since the bot needs to process TTS and send a voice replyafteracknowledging the message, this prevents the CPU from being throttled, which would otherwise cause the voice reply to be delayed or stall until the next message arrives.
+
+Notice there's noWEBHOOK_URLhere — and that's fine. The bot detects Cloud Run automatically via theK_SERVICEenvironment variable (which Cloud Run always sets) and starts the HTTP server on port 8080. It just won't register a webhook with Telegram yet, so it won't receive messages until Step 5.
+
+### 5. Set the Real Webhook URL
+
+Grab the actual service URL from the deploy output, then update the service:
+
+gcloud run services update telegram-gemini-bot 
+\
+
+ 
+--region
+ us-central1 
+\
+
+ 
+--update-env-vars
+=
+"WEBHOOK_URL=https://telegram-gemini-bot-xxxxx-uc.a.run.app"
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+Cloud Run gives you HTTPS, auto-scaling, and scale-to-zero — you only pay when someone actually messages the bot.
+
+### Troubleshooting Deployment
+
+Error
+
+Cause
+
+Fix
+
+PERMISSION_DENIED: Build failed because the default service account is missing required IAM permissions
+
+Compute Engine service account lacks Cloud Build permissions
+
+Grant 
+roles/cloudbuild.builds.builder
+ and 
+roles/storage.objectViewer
+ (see Step 3)
+
+Permission denied on secret
+
+Service account can't access Secret Manager
+
+Grant 
+roles/secretmanager.secretAccessor
+ (see Step 3)
+
+API [secretmanager.googleapis.com] not enabled
+
+Secret Manager API hasn't been turned on
+
+Run 
+gcloud services enable secretmanager.googleapis.com
+
+API [cloudbuild.googleapis.com] not enabled
+
+Cloud Build API hasn't been turned on
+
+Say 
+Y
+ when prompted, or run 
+gcloud services enable cloudbuild.googleapis.com
+
+Voice replies are slow or delayed
+
+CPU is being throttled after the text response
+
+Deploy with 
+--no-cpu-throttling
+ to keep CPU active for background tasks
+
+## The Key Architectural Ideas
+
+### 1. Server-Side Conversation Memory
+
+Traditional chatbot APIs makeyoumanage the conversation history. You send the full history on every request, and your token costs grow with every turn.
+
+The Interactions API flips this. You passprevious_interaction_idand the server keeps the context:
+
+# Turn 1
+
+i1
+ 
+=
+ 
+client
+.
+interactions
+.
+create
+(
+model
+=
+"
+gemini-3.1-flash-lite-preview
+"
+,
+ 
+input
+=
+"
+Hi, I
+'
+m Alex
+"
+)
+
+# Turn 2 — server remembers "Alex"
+
+i2
+ 
+=
+ 
+client
+.
+interactions
+.
+create
+(
+
+ 
+model
+=
+"
+gemini-3.1-flash-lite-preview
+"
+,
+
+ 
+input
+=
+"
+What
+'
+s my name?
+"
+,
+
+ 
+previous_interaction_id
+=
+i1
+.
+id
+ 
+# ← that's it
+
+)
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+In our bot, we key this bychat_id, so each Telegram chat gets its own conversation thread.
+
+### 2. Multimodal Input Without Transcription
+
+Gemini understands audio natively. No whisper, no transcription step, no intermediate text. We send the OGG bytes directly:
+
+input_parts
+ 
+=
+ 
+[
+
+ 
+{
+"
+type
+"
+:
+ 
+"
+audio
+"
+,
+ 
+"
+data
+"
+:
+ 
+audio_b64
+,
+ 
+"
+mime_type
+"
+:
+ 
+"
+audio/ogg
+"
+},
+
+ 
+{
+"
+type
+"
+:
+ 
+"
+text
+"
+,
+ 
+"
+text
+"
+:
+ 
+"
+Listen and respond helpfully.
+"
+},
+
+]
+
+Enter fullscreen mode
+
+Exit fullscreen mode
+
+This means the model hearstone,emphasis, andlanguage— not just words. It can respond in the same language the user speaks, detect questions vs. statements, and pick up on nuance that'd be lost in transcription.
+
+### 3. Two-Model Architecture
+
+We use two different models for two different jobs:
+
+Job
+
+Model
+
+Why
+
+Understanding + reasoning
+
+gemini-3.1-flash-lite-preview
+
+Cheapest, fastest — ideal for a chatbot
+
+Text-to-speech
+
+gemini-3.1-flash-tts-preview
+
+Purpose-built for natural speech synthesis
+
+This is cheaper and better than using a single model for both. Flash Lite handles the thinking, TTS handles the speaking.
+
+## Going Further
+
+Thefull source codeextends this with:
+
+* Mode switching— Agent, Transcribe, and Translate modes with inline keyboards
+* Configurable voice toggle—/voice on|offto control TTS responses
+* Language selection—/language Spanishto set the translation target
+* Mode-specific system instructions— each mode has tailored prompts
+
+These are all just variations on the samegemini_interact()function with differentsystem_instructionvalues. The core voice pipeline stays the same.
+
+TL;DR:Gemini's Interactions API makes voice bots surprisingly simple. Audio goes in as base64, text comes out, TTS converts it back to speech. The server tracks conversation state so you don't have to. Add a Dockerfile and you've got a production-ready voice assistant on Cloud Run.
+
+Happy hacking! 🚀
+
+ Create template
+ 
+
+Templates let you quickly answer FAQs or store snippets for re-use.
+
+Submit
+
+Preview
+
+Dismiss
+
+For further actions, you may consider blocking this person and/orreporting abuse

@@ -1,62 +1,28 @@
 [
   {
-    "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
-    "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
-    "author": "askl",
-    "date": "2026-04-15",
-    "score": 409,
-    "comments": 418,
-    "id": 47776035,
-    "discussion_url": "https://news.ycombinator.com/item?id=47776035",
-    "description": "Anna's Archive loses $322M Spotify piracy case without a fight",
+    "title": "AI cybersecurity is not proof of work",
+    "url": "https://antirez.com/news/163",
+    "author": "surprisetalk",
+    "date": "2026-04-16",
+    "score": 163,
+    "comments": 73,
+    "id": 47791236,
+    "discussion_url": "https://news.ycombinator.com/item?id=47791236",
+    "description": "AI cybersecurity is not proof of work",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740210"
-  },
-  {
-    "title": "CRISPR takes important step toward silencing Down syndrome’s extra chromosome",
-    "url": "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html",
-    "author": "amichail",
-    "date": "2026-04-15",
-    "score": 182,
-    "comments": 104,
-    "id": 47781286,
-    "discussion_url": "https://news.ycombinator.com/item?id=47781286",
-    "description": "CRISPR takes important step toward silencing Down syndrome’s extra chromosome",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.739958"
-  },
-  {
-    "title": "Cal.com is going closed source",
-    "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-    "author": "Benjamin_Dobell",
-    "date": "2026-04-15",
-    "score": 324,
-    "comments": 258,
-    "id": 47780456,
-    "discussion_url": "https://news.ycombinator.com/item?id=47780456",
-    "description": "Cal.com is going closed source",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740155"
+    "fetched_at": "2026-04-16T19:59:48.579224"
   },
   {
     "title": "ChatGPT for Excel",
     "url": "https://chatgpt.com/apps/spreadsheets/",
     "author": "armcat",
     "date": "2026-04-15",
-    "score": 228,
-    "comments": 148,
+    "score": 308,
+    "comments": 190,
     "id": 47785397,
     "discussion_url": "https://news.ycombinator.com/item?id=47785397",
     "description": "ChatGPT for Excel",
@@ -65,15 +31,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740070"
+    "fetched_at": "2026-04-16T19:59:48.579192"
+  },
+  {
+    "title": "Claude Opus 4.7",
+    "url": "https://www.anthropic.com/news/claude-opus-4-7",
+    "author": "meetpateltech",
+    "date": "2026-04-16",
+    "score": 1091,
+    "comments": 828,
+    "id": 47793411,
+    "discussion_url": "https://news.ycombinator.com/item?id=47793411",
+    "description": "Claude Opus 4.7",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-16T19:59:48.579121"
+  },
+  {
+    "title": "Claude Opus 4.7 Model Card",
+    "url": "https://anthropic.com/claude-opus-4-7-system-card",
+    "author": "adocomplete",
+    "date": "2026-04-16",
+    "score": 139,
+    "comments": 67,
+    "id": 47793546,
+    "discussion_url": "https://news.ycombinator.com/item?id=47793546",
+    "description": "Claude Opus 4.7 Model Card",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-16T19:59:48.579204"
+  },
+  {
+    "title": "Cloudflare Email Service",
+    "url": "https://blog.cloudflare.com/email-for-agents/",
+    "author": "jilles",
+    "date": "2026-04-16",
+    "score": 342,
+    "comments": 150,
+    "id": 47792593,
+    "discussion_url": "https://news.ycombinator.com/item?id=47792593",
+    "description": "Cloudflare Email Service",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-16T19:59:48.579257"
+  },
+  {
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "url": "https://blog.cloudflare.com/ai-platform/",
+    "author": "nikitoci",
+    "date": "2026-04-16",
+    "score": 183,
+    "comments": 43,
+    "id": 47792538,
+    "discussion_url": "https://news.ycombinator.com/item?id=47792538",
+    "description": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-16T19:59:48.579236"
+  },
+  {
+    "title": "Codex Hacked a Samsung TV",
+    "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
+    "author": "campuscodi",
+    "date": "2026-04-16",
+    "score": 174,
+    "comments": 102,
+    "id": 47791212,
+    "discussion_url": "https://news.ycombinator.com/item?id=47791212",
+    "description": "Codex Hacked a Samsung TV",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-16T19:59:48.579154"
+  },
+  {
+    "title": "Codex for almost everything",
+    "url": "https://openai.com/index/codex-for-almost-everything/",
+    "author": "mikeevans",
+    "date": "2026-04-16",
+    "score": 382,
+    "comments": 181,
+    "id": 47796469,
+    "discussion_url": "https://news.ycombinator.com/item?id=47796469",
+    "description": "Codex for almost everything",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-16T19:59:48.579187"
   },
   {
     "title": "Cybersecurity looks like proof of work now",
     "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
     "author": "dbreunig",
     "date": "2026-04-14",
-    "score": 459,
-    "comments": 170,
+    "score": 531,
+    "comments": 199,
     "id": 47769089,
     "discussion_url": "https://news.ycombinator.com/item?id=47769089",
     "description": "Cybersecurity looks like proof of work now",
@@ -82,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740017"
+    "fetched_at": "2026-04-16T19:59:48.579232"
   },
   {
     "title": "Darkbloom – Private inference on idle Macs",
     "url": "https://darkbloom.dev",
     "author": "twapi",
     "date": "2026-04-16",
-    "score": 280,
-    "comments": 152,
+    "score": 444,
+    "comments": 219,
     "id": 47788542,
     "discussion_url": "https://news.ycombinator.com/item?id=47788542",
     "description": "Darkbloom – Private inference on idle Macs",
@@ -99,49 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740075"
-  },
-  {
-    "title": "Direct Win32 API, weird-shaped windows, and why they mostly disappeared",
-    "url": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
-    "author": "birdculture",
-    "date": "2026-04-15",
-    "score": 191,
-    "comments": 113,
-    "id": 47776667,
-    "discussion_url": "https://news.ycombinator.com/item?id=47776667",
-    "description": "Direct Win32 API, weird-shaped windows, and why they mostly disappeared",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740126"
-  },
-  {
-    "title": "Do you even need a database?",
-    "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
-    "author": "upmostly",
-    "date": "2026-04-15",
-    "score": 243,
-    "comments": 272,
-    "id": 47778086,
-    "discussion_url": "https://news.ycombinator.com/item?id=47778086",
-    "description": "Do you even need a database?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740027"
+    "fetched_at": "2026-04-16T19:59:48.579300"
   },
   {
     "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
     "url": "https://daedal.io/@thomzane/116410863009847575",
     "author": "pabs3",
     "date": "2026-04-16",
-    "score": 205,
-    "comments": 111,
+    "score": 341,
+    "comments": 196,
     "id": 47788424,
     "discussion_url": "https://news.ycombinator.com/item?id=47788424",
     "description": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
@@ -150,100 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740059"
+    "fetched_at": "2026-04-16T19:59:48.579139"
   },
   {
-    "title": "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
-    "url": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
-    "author": "cyclopeanutopia",
+    "title": "Fast and Easy Levenshtein distance using a Trie (2011)",
+    "url": "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie",
+    "author": "sebg",
     "date": "2026-04-12",
-    "score": 132,
-    "comments": 70,
-    "id": 47738081,
-    "discussion_url": "https://news.ycombinator.com/item?id=47738081",
-    "description": "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
+    "score": 100,
+    "comments": 19,
+    "id": 47738673,
+    "discussion_url": "https://news.ycombinator.com/item?id=47738673",
+    "description": "Fast and Easy Levenshtein distance using a Trie (2011)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740093"
-  },
-  {
-    "title": "God sleeps in the minerals",
-    "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-    "author": "speckx",
-    "date": "2026-04-15",
-    "score": 524,
-    "comments": 102,
-    "id": 47778475,
-    "discussion_url": "https://news.ycombinator.com/item?id=47778475",
-    "description": "God sleeps in the minerals",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740121"
-  },
-  {
-    "title": "Good sleep, good learning, good life (2012)",
-    "url": "https://super-memory.com/articles/sleep.htm",
-    "author": "downbad_",
-    "date": "2026-04-15",
-    "score": 396,
-    "comments": 202,
-    "id": 47776557,
-    "discussion_url": "https://news.ycombinator.com/item?id=47776557",
-    "description": "Good sleep, good learning, good life (2012)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740201"
-  },
-  {
-    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-    "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-    "author": "takumi123",
-    "date": "2026-04-15",
-    "score": 283,
-    "comments": 174,
-    "id": 47774971,
-    "discussion_url": "https://news.ycombinator.com/item?id=47774971",
-    "description": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740131"
-  },
-  {
-    "title": "Google broke its promise to me – now ICE has my data",
-    "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-    "author": "Brajeshwar",
-    "date": "2026-04-15",
-    "score": 1528,
-    "comments": 651,
-    "id": 47782570,
-    "discussion_url": "https://news.ycombinator.com/item?id=47782570",
-    "description": "Google broke its promise to me – now ICE has my data",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740165"
+    "fetched_at": "2026-04-16T19:59:48.579365"
   },
   {
     "title": "I made a terminal pager",
     "url": "https://theleo.zone/posts/pager/",
     "author": "speckx",
     "date": "2026-04-15",
-    "score": 139,
-    "comments": 32,
+    "score": 165,
+    "comments": 45,
     "id": 47786164,
     "discussion_url": "https://news.ycombinator.com/item?id=47786164",
     "description": "I made a terminal pager",
@@ -252,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740113"
+    "fetched_at": "2026-04-16T19:59:48.579331"
   },
   {
     "title": "IPv6 traffic crosses the 50% mark",
     "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
     "author": "Aaronmacaron",
     "date": "2026-04-15",
-    "score": 389,
-    "comments": 240,
+    "score": 722,
+    "comments": 509,
     "id": 47777894,
     "discussion_url": "https://news.ycombinator.com/item?id=47777894",
     "description": "IPv6 traffic crosses the 50% mark",
@@ -269,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740012"
+    "fetched_at": "2026-04-16T19:59:48.579320"
   },
   {
     "title": "Introduction to spherical harmonics for graphics programmers",
     "url": "https://gpfault.net/posts/sph.html",
     "author": "luu",
     "date": "2026-04-13",
-    "score": 110,
-    "comments": 18,
+    "score": 139,
+    "comments": 26,
     "id": 47749548,
     "discussion_url": "https://news.ycombinator.com/item?id=47749548",
     "description": "Introduction to spherical harmonics for graphics programmers",
@@ -286,83 +252,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.739937"
+    "fetched_at": "2026-04-16T19:59:48.579339"
   },
   {
-    "title": "Live Nation illegally monopolized ticketing market, jury finds",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-    "author": "Alex_Bond",
-    "date": "2026-04-15",
-    "score": 554,
-    "comments": 165,
-    "id": 47783713,
-    "discussion_url": "https://news.ycombinator.com/item?id=47783713",
-    "description": "Live Nation illegally monopolized ticketing market, jury finds",
+    "title": "Laravel raised money and now injects ads directly into your agent",
+    "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
+    "author": "mooreds",
+    "date": "2026-04-16",
+    "score": 168,
+    "comments": 99,
+    "id": 47793926,
+    "discussion_url": "https://news.ycombinator.com/item?id=47793926",
+    "description": "Laravel raised money and now injects ads directly into your agent",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740001"
+    "fetched_at": "2026-04-16T19:59:48.579250"
   },
   {
-    "title": "Ohio prison inmates 'built computers and hid them in ceiling' (2017)",
-    "url": "https://www.bbc.com/news/technology-39576394",
-    "author": "harambae",
-    "date": "2026-04-15",
-    "score": 103,
-    "comments": 100,
-    "id": 47785948,
-    "discussion_url": "https://news.ycombinator.com/item?id=47785948",
-    "description": "Ohio prison inmates 'built computers and hid them in ceiling' (2017)",
+    "title": "Modern Microprocessors – A 90-Minute Guide",
+    "url": "https://www.lighterra.com/papers/modernmicroprocessors/",
+    "author": "Flex247A",
+    "date": "2026-04-12",
+    "score": 161,
+    "comments": 19,
+    "id": 47737499,
+    "discussion_url": "https://news.ycombinator.com/item?id=47737499",
+    "description": "Modern Microprocessors – A 90-Minute Guide",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740192"
+    "fetched_at": "2026-04-16T19:59:48.579158"
   },
   {
-    "title": "Open Source Isn't Dead",
-    "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
-    "author": "bearsyankees",
-    "date": "2026-04-15",
-    "score": 332,
-    "comments": 174,
-    "id": 47780712,
-    "discussion_url": "https://news.ycombinator.com/item?id=47780712",
-    "description": "Open Source Isn't Dead",
+    "title": "Mozilla Thunderbolt",
+    "url": "https://www.thunderbolt.io/",
+    "author": "dabinat",
+    "date": "2026-04-16",
+    "score": 296,
+    "comments": 266,
+    "id": 47792368,
+    "discussion_url": "https://news.ycombinator.com/item?id=47792368",
+    "description": "Mozilla Thunderbolt",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740183"
+    "fetched_at": "2026-04-16T19:59:48.579254"
   },
   {
-    "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
-    "url": "http://tinycorelinux.net/5.x/armv6/releases/README",
-    "author": "gregsadetsky",
-    "date": "2026-04-15",
-    "score": 115,
-    "comments": 13,
-    "id": 47784244,
-    "discussion_url": "https://news.ycombinator.com/item?id=47784244",
-    "description": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+    "title": "North American English Dialects",
+    "url": "https://aschmann.net/AmEng/",
+    "author": "skogstokig",
+    "date": "2026-04-16",
+    "score": 127,
+    "comments": 76,
+    "id": 47788398,
+    "discussion_url": "https://news.ycombinator.com/item?id=47788398",
+    "description": "North American English Dialects",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.739985"
+    "fetched_at": "2026-04-16T19:59:48.579269"
+  },
+  {
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "author": "cmitsakis",
+    "date": "2026-04-16",
+    "score": 698,
+    "comments": 336,
+    "id": 47792764,
+    "discussion_url": "https://news.ycombinator.com/item?id=47792764",
+    "description": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-16T19:59:48.579228"
   },
   {
     "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
     "url": "https://github.com/Nightmare-Eclipse/RedSun",
     "author": "airhangerf15",
     "date": "2026-04-16",
-    "score": 107,
-    "comments": 21,
+    "score": 162,
+    "comments": 44,
     "id": 47788473,
     "discussion_url": "https://news.ycombinator.com/item?id=47788473",
     "description": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
@@ -371,15 +354,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740045"
+    "fetched_at": "2026-04-16T19:59:48.579288"
+  },
+  {
+    "title": "Retrofitting JIT Compilers into C Interpreters",
+    "url": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
+    "author": "ltratt",
+    "date": "2026-04-15",
+    "score": 118,
+    "comments": 25,
+    "id": 47777897,
+    "discussion_url": "https://news.ycombinator.com/item?id=47777897",
+    "description": "Retrofitting JIT Compilers into C Interpreters",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-16T19:59:48.579346"
   },
   {
     "title": "Show HN: Libretto – Making AI browser automations deterministic",
     "url": "https://github.com/saffron-health/libretto",
     "author": "muchael",
     "date": "2026-04-15",
-    "score": 108,
-    "comments": 41,
+    "score": 121,
+    "comments": 51,
     "id": 47780971,
     "discussion_url": "https://news.ycombinator.com/item?id=47780971",
     "description": "Show HN: Libretto – Making AI browser automations deterministic",
@@ -388,32 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.739953"
-  },
-  {
-    "title": "The Gemini app is now on Mac",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
-    "author": "thm",
-    "date": "2026-04-15",
-    "score": 145,
-    "comments": 80,
-    "id": 47782256,
-    "discussion_url": "https://news.ycombinator.com/item?id=47782256",
-    "description": "The Gemini app is now on Mac",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.739996"
+    "fetched_at": "2026-04-16T19:59:48.579343"
   },
   {
     "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
     "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
     "author": "bckygldstn",
     "date": "2026-04-15",
-    "score": 511,
-    "comments": 239,
+    "score": 623,
+    "comments": 295,
     "id": 47785738,
     "discussion_url": "https://news.ycombinator.com/item?id=47785738",
     "description": "The buns in McDonald's Japan's burger photos are all slightly askew",
@@ -422,32 +405,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.739975"
+    "fetched_at": "2026-04-16T19:59:48.579369"
   },
   {
-    "title": "The local LLM ecosystem doesn’t need Ollama",
-    "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-    "author": "Zetaphor",
+    "title": "The future of everything is lies, I guess: Where do we go from here?",
+    "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+    "author": "aphyr",
     "date": "2026-04-16",
-    "score": 534,
-    "comments": 162,
-    "id": 47788385,
-    "discussion_url": "https://news.ycombinator.com/item?id=47788385",
-    "description": "The local LLM ecosystem doesn’t need Ollama",
+    "score": 378,
+    "comments": 377,
+    "id": 47792718,
+    "discussion_url": "https://news.ycombinator.com/item?id=47792718",
+    "description": "The future of everything is lies, I guess: Where do we go from here?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740178"
+    "fetched_at": "2026-04-16T19:59:48.579212"
   },
   {
     "title": "The paper computer",
     "url": "https://jsomers.net/blog/the-paper-computer",
     "author": "jsomers",
     "date": "2026-04-13",
-    "score": 166,
-    "comments": 40,
+    "score": 253,
+    "comments": 80,
     "id": 47747770,
     "discussion_url": "https://news.ycombinator.com/item?id=47747770",
     "description": "The paper computer",
@@ -456,15 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740083"
+    "fetched_at": "2026-04-16T19:59:48.579312"
+  },
+  {
+    "title": "Too much discussion of the XOR swap trick",
+    "url": "https://heather.cafe/posts/too_much_xor_swap_trick/",
+    "author": "CJefferson",
+    "date": "2026-04-13",
+    "score": 133,
+    "comments": 104,
+    "id": 47750486,
+    "discussion_url": "https://news.ycombinator.com/item?id=47750486",
+    "description": "Too much discussion of the XOR swap trick",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-16T19:59:48.579292"
   },
   {
     "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
     "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
     "author": "1vuio0pswjnm7",
     "date": "2026-04-15",
-    "score": 146,
-    "comments": 105,
+    "score": 175,
+    "comments": 125,
     "id": 47778920,
     "discussion_url": "https://news.ycombinator.com/item?id=47778920",
     "description": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
@@ -473,40 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.739969"
+    "fetched_at": "2026-04-16T19:59:48.579327"
   },
   {
-    "title": "Want to write a compiler? Just read these two papers (2008)",
-    "url": "https://prog21.dadgum.com/30.html",
-    "author": "downbad_",
-    "date": "2026-04-15",
-    "score": 490,
-    "comments": 149,
-    "id": 47776796,
-    "discussion_url": "https://news.ycombinator.com/item?id=47776796",
-    "description": "Want to write a compiler? Just read these two papers (2008)",
+    "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+    "url": "https://andonlabs.com/blog/andon-market-launch",
+    "author": "lukaspetersson",
+    "date": "2026-04-16",
+    "score": 153,
+    "comments": 221,
+    "id": 47794391,
+    "discussion_url": "https://news.ycombinator.com/item?id=47794391",
+    "description": "We gave an AI a 3 year retail lease and asked it to make a profit",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740145"
+    "fetched_at": "2026-04-16T19:59:48.579284"
   },
   {
-    "title": "YouTube users get option to set their Shorts time limit to zero minutes",
-    "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
-    "author": "pentagrama",
-    "date": "2026-04-15",
-    "score": 287,
-    "comments": 134,
-    "id": 47786791,
-    "discussion_url": "https://news.ycombinator.com/item?id=47786791",
-    "description": "YouTube users get option to set their Shorts time limit to zero minutes",
+    "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+    "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+    "author": "zanbezi",
+    "date": "2026-04-16",
+    "score": 364,
+    "comments": 264,
+    "id": 47791871,
+    "discussion_url": "https://news.ycombinator.com/item?id=47791871",
+    "description": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-16T11:58:49.740173"
+    "fetched_at": "2026-04-16T19:59:48.579246"
   }
 ]
