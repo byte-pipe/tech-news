@@ -4,8 +4,8 @@
     "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
     "author": "sebg",
     "date": "2026-04-16",
-    "score": 135,
-    "comments": 22,
+    "score": 151,
+    "comments": 30,
     "id": 47799573,
     "discussion_url": "https://news.ycombinator.com/item?id=47799573",
     "description": "A Better R Programming Experience Thanks to Tree-sitter",
@@ -14,15 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121354"
+    "fetched_at": "2026-04-17T19:59:09.901435"
+  },
+  {
+    "title": "A Python Interpreter Written in Python",
+    "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+    "author": "xk3",
+    "date": "2026-04-13",
+    "score": 133,
+    "comments": 39,
+    "id": 47755261,
+    "discussion_url": "https://news.ycombinator.com/item?id=47755261",
+    "description": "A Python Interpreter Written in Python",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-17T19:59:09.901350"
   },
   {
     "title": "AI cybersecurity is not proof of work",
     "url": "https://antirez.com/news/163",
     "author": "surprisetalk",
     "date": "2026-04-16",
-    "score": 224,
-    "comments": 85,
+    "score": 232,
+    "comments": 88,
     "id": 47791236,
     "discussion_url": "https://news.ycombinator.com/item?id=47791236",
     "description": "AI cybersecurity is not proof of work",
@@ -31,15 +48,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121336"
+    "fetched_at": "2026-04-17T19:59:09.901471"
+  },
+  {
+    "title": "Ada, its design, and the language that built the languages",
+    "url": "https://www.iqiipi.com/the-quiet-colossus.html",
+    "author": "mpweiher",
+    "date": "2026-04-17",
+    "score": 224,
+    "comments": 156,
+    "id": 47803844,
+    "discussion_url": "https://news.ycombinator.com/item?id=47803844",
+    "description": "Ada, its design, and the language that built the languages",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-17T19:59:09.901247"
   },
   {
     "title": "Android CLI: Build Android apps 3x faster using any agent",
     "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
     "author": "ingve",
     "date": "2026-04-16",
-    "score": 256,
-    "comments": 100,
+    "score": 298,
+    "comments": 122,
     "id": 47797665,
     "discussion_url": "https://news.ycombinator.com/item?id=47797665",
     "description": "Android CLI: Build Android apps 3x faster using any agent",
@@ -48,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121286"
+    "fetched_at": "2026-04-17T19:59:09.901375"
   },
   {
     "title": "Artifacts: Versioned storage that speaks Git",
     "url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
     "author": "jgrahamc",
     "date": "2026-04-16",
-    "score": 195,
-    "comments": 24,
+    "score": 202,
+    "comments": 25,
     "id": 47792374,
     "discussion_url": "https://news.ycombinator.com/item?id=47792374",
     "description": "Artifacts: Versioned storage that speaks Git",
@@ -65,15 +99,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121314"
+    "fetched_at": "2026-04-17T19:59:09.901475"
+  },
+  {
+    "title": "Ban the sale of precise geolocation",
+    "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+    "author": "hn_acker",
+    "date": "2026-04-17",
+    "score": 435,
+    "comments": 134,
+    "id": 47806304,
+    "discussion_url": "https://news.ycombinator.com/item?id=47806304",
+    "description": "Ban the sale of precise geolocation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-17T19:59:09.901266"
+  },
+  {
+    "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
+    "url": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
+    "author": "dotmanish",
+    "date": "2026-04-17",
+    "score": 151,
+    "comments": 81,
+    "id": 47802330,
+    "discussion_url": "https://news.ycombinator.com/item?id=47802330",
+    "description": "Bluesky has been dealing with a DDoS attack for nearly a full day",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-17T19:59:09.901451"
   },
   {
     "title": "CadQuery is an open-source Python library for building 3D CAD models",
     "url": "https://cadquery.github.io/",
     "author": "gregsadetsky",
     "date": "2026-04-14",
-    "score": 159,
-    "comments": 40,
+    "score": 206,
+    "comments": 58,
     "id": 47772725,
     "discussion_url": "https://news.ycombinator.com/item?id=47772725",
     "description": "CadQuery is an open-source Python library for building 3D CAD models",
@@ -82,15 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121304"
+    "fetched_at": "2026-04-17T19:59:09.901331"
+  },
+  {
+    "title": "Claude Design",
+    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "author": "meetpateltech",
+    "date": "2026-04-17",
+    "score": 588,
+    "comments": 399,
+    "id": 47806725,
+    "discussion_url": "https://news.ycombinator.com/item?id=47806725",
+    "description": "Claude Design",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-17T19:59:09.901303"
   },
   {
     "title": "Claude Opus 4.7",
     "url": "https://www.anthropic.com/news/claude-opus-4-7",
     "author": "meetpateltech",
     "date": "2026-04-16",
-    "score": 1799,
-    "comments": 1291,
+    "score": 1926,
+    "comments": 1408,
     "id": 47793411,
     "discussion_url": "https://news.ycombinator.com/item?id=47793411",
     "description": "Claude Opus 4.7",
@@ -99,32 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121183"
+    "fetched_at": "2026-04-17T19:59:09.901383"
   },
   {
-    "title": "Cloudflare Email Service",
-    "url": "https://blog.cloudflare.com/email-for-agents/",
-    "author": "jilles",
-    "date": "2026-04-16",
-    "score": 440,
-    "comments": 198,
-    "id": 47792593,
-    "discussion_url": "https://news.ycombinator.com/item?id=47792593",
-    "description": "Cloudflare Email Service",
+    "title": "Claude Opus 4.7 costs 20–30% more per session",
+    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+    "author": "aray07",
+    "date": "2026-04-17",
+    "score": 367,
+    "comments": 221,
+    "id": 47807006,
+    "discussion_url": "https://news.ycombinator.com/item?id=47807006",
+    "description": "Claude Opus 4.7 costs 20–30% more per session",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121417"
+    "fetched_at": "2026-04-17T19:59:09.901295"
   },
   {
     "title": "Cloudflare's AI Platform: an inference layer designed for agents",
     "url": "https://blog.cloudflare.com/ai-platform/",
     "author": "nikitoci",
     "date": "2026-04-16",
-    "score": 289,
-    "comments": 73,
+    "score": 305,
+    "comments": 91,
     "id": 47792538,
     "discussion_url": "https://news.ycombinator.com/item?id=47792538",
     "description": "Cloudflare's AI Platform: an inference layer designed for agents",
@@ -133,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121396"
+    "fetched_at": "2026-04-17T19:59:09.901395"
   },
   {
     "title": "Codex Hacked a Samsung TV",
     "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
     "author": "campuscodi",
     "date": "2026-04-16",
-    "score": 244,
-    "comments": 128,
+    "score": 251,
+    "comments": 131,
     "id": 47791212,
     "discussion_url": "https://news.ycombinator.com/item?id=47791212",
     "description": "Codex Hacked a Samsung TV",
@@ -150,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121259"
+    "fetched_at": "2026-04-17T19:59:09.901459"
   },
   {
     "title": "Codex for almost everything",
     "url": "https://openai.com/index/codex-for-almost-everything/",
     "author": "mikeevans",
     "date": "2026-04-16",
-    "score": 906,
-    "comments": 465,
+    "score": 979,
+    "comments": 525,
     "id": 47796469,
     "discussion_url": "https://news.ycombinator.com/item?id=47796469",
     "description": "Codex for almost everything",
@@ -167,32 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121207"
-  },
-  {
-    "title": "Darkbloom – Private inference on idle Macs",
-    "url": "https://darkbloom.dev",
-    "author": "twapi",
-    "date": "2026-04-16",
-    "score": 483,
-    "comments": 237,
-    "id": 47788542,
-    "discussion_url": "https://news.ycombinator.com/item?id=47788542",
-    "description": "Darkbloom – Private inference on idle Macs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121458"
+    "fetched_at": "2026-04-17T19:59:09.901412"
   },
   {
     "title": "Discourse Is Not Going Closed Source",
     "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
     "author": "sams99",
     "date": "2026-04-17",
-    "score": 148,
-    "comments": 54,
+    "score": 200,
+    "comments": 79,
     "id": 47802233,
     "discussion_url": "https://news.ycombinator.com/item?id=47802233",
     "description": "Discourse Is Not Going Closed Source",
@@ -201,49 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121234"
+    "fetched_at": "2026-04-17T19:59:09.901447"
   },
   {
-    "title": "Everything we like is a psyop?",
-    "url": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
-    "author": "evo_9",
-    "date": "2026-04-16",
-    "score": 271,
-    "comments": 193,
-    "id": 47800738,
-    "discussion_url": "https://news.ycombinator.com/item?id=47800738",
-    "description": "Everything we like is a psyop?",
+    "title": "FIM – Linux framebuffer image viewer",
+    "url": "https://www.nongnu.org/fbi-improved/",
+    "author": "Mr_Minderbinder",
+    "date": "2026-04-17",
+    "score": 128,
+    "comments": 63,
+    "id": 47803323,
+    "discussion_url": "https://news.ycombinator.com/item?id=47803323",
+    "description": "FIM – Linux framebuffer image viewer",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121269"
-  },
-  {
-    "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-    "url": "https://daedal.io/@thomzane/116410863009847575",
-    "author": "pabs3",
-    "date": "2026-04-16",
-    "score": 381,
-    "comments": 221,
-    "id": 47788424,
-    "discussion_url": "https://news.ycombinator.com/item?id=47788424",
-    "description": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121438"
+    "fetched_at": "2026-04-17T19:59:09.901307"
   },
   {
     "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
     "url": "https://github.com/gainsec/autoprober",
     "author": "scaredpelican",
     "date": "2026-04-16",
-    "score": 192,
-    "comments": 40,
+    "score": 217,
+    "comments": 46,
     "id": 47800033,
     "discussion_url": "https://news.ycombinator.com/item?id=47800033",
     "description": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
@@ -252,32 +303,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121277"
+    "fetched_at": "2026-04-17T19:59:09.901431"
   },
   {
-    "title": "IPv6 traffic crosses the 50% mark",
-    "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-    "author": "Aaronmacaron",
-    "date": "2026-04-15",
-    "score": 794,
-    "comments": 586,
-    "id": 47777894,
-    "discussion_url": "https://news.ycombinator.com/item?id=47777894",
-    "description": "IPv6 traffic crosses the 50% mark",
+    "title": "Isaac Asimov: The Last Question (1956)",
+    "url": "https://hex.ooo/library/last_question.html",
+    "author": "ColinWright",
+    "date": "2026-04-17",
+    "score": 511,
+    "comments": 197,
+    "id": 47804965,
+    "discussion_url": "https://news.ycombinator.com/item?id=47804965",
+    "description": "Isaac Asimov: The Last Question (1956)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121454"
+    "fetched_at": "2026-04-17T19:59:09.901335"
+  },
+  {
+    "title": "Middle schooler finds coin from Troy in Berlin",
+    "url": "https://www.thehistoryblog.com/archives/75848",
+    "author": "speckx",
+    "date": "2026-04-17",
+    "score": 148,
+    "comments": 64,
+    "id": 47806484,
+    "discussion_url": "https://news.ycombinator.com/item?id=47806484",
+    "description": "Middle schooler finds coin from Troy in Berlin",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-17T19:59:09.901311"
+  },
+  {
+    "title": "NASA Force",
+    "url": "https://nasaforce.gov/",
+    "author": "LorenDB",
+    "date": "2026-04-17",
+    "score": 128,
+    "comments": 140,
+    "id": 47807209,
+    "discussion_url": "https://news.ycombinator.com/item?id=47807209",
+    "description": "NASA Force",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-17T19:59:09.901276"
+  },
+  {
+    "title": "NIST gives up enriching most CVEs",
+    "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+    "author": "mooreds",
+    "date": "2026-04-17",
+    "score": 119,
+    "comments": 28,
+    "id": 47806777,
+    "discussion_url": "https://news.ycombinator.com/item?id=47806777",
+    "description": "NIST gives up enriching most CVEs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-17T19:59:09.901319"
   },
   {
     "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
     "author": "kmfrk",
     "date": "2026-04-16",
-    "score": 227,
-    "comments": 57,
+    "score": 250,
+    "comments": 66,
     "id": 47800166,
     "discussion_url": "https://news.ycombinator.com/item?id=47800166",
     "description": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
@@ -286,32 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121264"
-  },
-  {
-    "title": "North American English Dialects",
-    "url": "https://aschmann.net/AmEng/",
-    "author": "skogstokig",
-    "date": "2026-04-16",
-    "score": 149,
-    "comments": 90,
-    "id": 47788398,
-    "discussion_url": "https://news.ycombinator.com/item?id=47788398",
-    "description": "North American English Dialects",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121421"
+    "fetched_at": "2026-04-17T19:59:09.901479"
   },
   {
     "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
     "url": "https://clojure.org/about/documentary",
     "author": "adityaathalye",
     "date": "2026-04-16",
-    "score": 236,
-    "comments": 60,
+    "score": 317,
+    "comments": 100,
     "id": 47798345,
     "discussion_url": "https://news.ycombinator.com/item?id=47798345",
     "description": "Official Clojure Documentary page with Video, Shownotes, and Links",
@@ -320,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121309"
+    "fetched_at": "2026-04-17T19:59:09.901371"
   },
   {
     "title": "Playdate’s handheld changed how Duke University teaches game design",
     "url": "https://news.play.date/news/duke-playdate-education/",
     "author": "Ivoah",
     "date": "2026-04-16",
-    "score": 165,
-    "comments": 74,
+    "score": 249,
+    "comments": 110,
     "id": 47798176,
     "discussion_url": "https://news.ycombinator.com/item?id=47798176",
     "description": "Playdate’s handheld changed how Duke University teaches game design",
@@ -337,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121362"
+    "fetched_at": "2026-04-17T19:59:09.901427"
   },
   {
     "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
     "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
     "author": "simonw",
     "date": "2026-04-16",
-    "score": 411,
-    "comments": 84,
+    "score": 438,
+    "comments": 91,
     "id": 47796830,
     "discussion_url": "https://news.ycombinator.com/item?id=47796830",
     "description": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
@@ -354,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121295"
+    "fetched_at": "2026-04-17T19:59:09.901467"
   },
   {
     "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
     "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
     "author": "cmitsakis",
     "date": "2026-04-16",
-    "score": 1133,
-    "comments": 479,
+    "score": 1226,
+    "comments": 510,
     "id": 47792764,
     "discussion_url": "https://news.ycombinator.com/item?id=47792764",
     "description": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
@@ -371,66 +456,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121341"
+    "fetched_at": "2026-04-17T19:59:09.901420"
   },
   {
-    "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-    "url": "https://github.com/Nightmare-Eclipse/RedSun",
-    "author": "airhangerf15",
-    "date": "2026-04-16",
-    "score": 180,
-    "comments": 51,
-    "id": 47788473,
-    "discussion_url": "https://news.ycombinator.com/item?id=47788473",
-    "description": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+    "title": "Reflections on 30 years of HPC programming",
+    "url": "https://chapel-lang.org/blog/posts/30years/",
+    "author": "matt_d",
+    "date": "2026-04-13",
+    "score": 118,
+    "comments": 88,
+    "id": 47759436,
+    "discussion_url": "https://news.ycombinator.com/item?id=47759436",
+    "description": "Reflections on 30 years of HPC programming",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121446"
+    "fetched_at": "2026-04-17T19:59:09.901257"
   },
   {
-    "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
-    "url": "https://github.com/SeanFDZ/macmind",
-    "author": "hammer32",
+    "title": "The beginning of scarcity in AI",
+    "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
+    "author": "gmays",
     "date": "2026-04-16",
-    "score": 139,
-    "comments": 40,
-    "id": 47792525,
-    "discussion_url": "https://news.ycombinator.com/item?id=47792525",
-    "description": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+    "score": 163,
+    "comments": 206,
+    "id": 47799322,
+    "discussion_url": "https://news.ycombinator.com/item?id=47799322",
+    "description": "The beginning of scarcity in AI",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121367"
-  },
-  {
-    "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
-    "url": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
-    "author": "devonnull",
-    "date": "2026-04-16",
-    "score": 323,
-    "comments": 210,
-    "id": 47799120,
-    "discussion_url": "https://news.ycombinator.com/item?id=47799120",
-    "description": "The \"Passive Income\" trap ate a generation of entrepreneurs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121358"
+    "fetched_at": "2026-04-17T19:59:09.901399"
   },
   {
     "title": "The future of everything is lies, I guess: Where do we go from here?",
     "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
     "author": "aphyr",
     "date": "2026-04-16",
-    "score": 638,
-    "comments": 656,
+    "score": 703,
+    "comments": 732,
     "id": 47792718,
     "discussion_url": "https://news.ycombinator.com/item?id=47792718",
     "description": "The future of everything is lies, I guess: Where do we go from here?",
@@ -439,74 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121217"
-  },
-  {
-    "title": "The paper computer",
-    "url": "https://jsomers.net/blog/the-paper-computer",
-    "author": "jsomers",
-    "date": "2026-04-13",
-    "score": 281,
-    "comments": 87,
-    "id": 47747770,
-    "discussion_url": "https://news.ycombinator.com/item?id=47747770",
-    "description": "The paper computer",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121433"
-  },
-  {
-    "title": "Too much discussion of the XOR swap trick",
-    "url": "https://heather.cafe/posts/too_much_xor_swap_trick/",
-    "author": "CJefferson",
-    "date": "2026-04-13",
-    "score": 145,
-    "comments": 113,
-    "id": 47750486,
-    "discussion_url": "https://news.ycombinator.com/item?id=47750486",
-    "description": "Too much discussion of the XOR swap trick",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121450"
-  },
-  {
-    "title": "US Bill Mandates On-Device Age Verification",
-    "url": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
-    "author": "ronsor",
-    "date": "2026-04-17",
-    "score": 200,
-    "comments": 123,
-    "id": 47801991,
-    "discussion_url": "https://news.ycombinator.com/item?id=47801991",
-    "description": "US Bill Mandates On-Device Age Verification",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121195"
-  },
-  {
-    "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-    "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-    "author": "1vuio0pswjnm7",
-    "date": "2026-04-15",
-    "score": 184,
-    "comments": 134,
-    "id": 47778920,
-    "discussion_url": "https://news.ycombinator.com/item?id=47778920",
-    "description": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-17T11:51:17.121442"
+    "fetched_at": "2026-04-17T19:59:09.901423"
   }
 ]
