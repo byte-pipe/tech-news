@@ -1,287 +1,272 @@
 [
   {
-    "title": "\"cat readme.txt\" is not safe if you use iTerm2",
-    "url": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
-    "description": "\"cat readme.txt\" is not safe if you use iTerm2",
-    "date": "2026-04-17",
-    "score": 200,
-    "comments": 115,
-    "discussion_url": "https://news.ycombinator.com/item?id=47809190",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506695"
-  },
-  {
-    "title": "A simplified model of Fil-C",
-    "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
-    "description": "A simplified model of Fil-C",
-    "date": "2026-04-17",
-    "score": 179,
-    "comments": 98,
-    "discussion_url": "https://news.ycombinator.com/item?id=47810872",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506681"
-  },
-  {
     "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
     "description": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
     "date": "2026-04-17",
-    "score": 348,
-    "comments": 201,
+    "score": 428,
+    "comments": 242,
     "discussion_url": "https://news.ycombinator.com/item?id=47808913",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506708"
+    "fetched_at": "2026-04-18T19:41:23.443290"
   },
   {
-    "title": "Amiga Graphics",
+    "title": "Amiga Graphics Archive",
     "url": "https://amiga.lychesis.net/",
-    "description": "Amiga Graphics",
+    "description": "Amiga Graphics Archive",
     "date": "2026-04-18",
-    "score": 106,
-    "comments": 11,
+    "score": 207,
+    "comments": 55,
     "discussion_url": "https://news.ycombinator.com/item?id=47813566",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506634"
+    "fetched_at": "2026-04-18T19:41:23.443256"
   },
   {
-    "title": "Are the costs of AI agents also rising exponentially? (2025)",
-    "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-    "description": "Are the costs of AI agents also rising exponentially? (2025)",
-    "date": "2026-04-15",
-    "score": 222,
-    "comments": 63,
-    "discussion_url": "https://news.ycombinator.com/item?id=47778922",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506929"
-  },
-  {
-    "title": "Claude Design",
-    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "description": "Claude Design",
-    "date": "2026-04-17",
-    "score": 1073,
-    "comments": 697,
-    "discussion_url": "https://news.ycombinator.com/item?id=47806725",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506868"
-  },
-  {
-    "title": "Hyperscalers have already outspent most famous US megaprojects",
-    "url": "https://twitter.com/finmoorhouse/status/2044933442236776794",
-    "description": "Hyperscalers have already outspent most famous US megaprojects",
-    "date": "2026-04-17",
-    "score": 205,
-    "comments": 165,
-    "discussion_url": "https://news.ycombinator.com/item?id=47807619",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506758"
-  },
-  {
-    "title": "Introducing: ShaderPad",
-    "url": "https://rileyjshaw.com/blog/introducing-shaderpad/",
-    "description": "Introducing: ShaderPad",
-    "date": "2026-04-15",
-    "score": 101,
-    "comments": 18,
-    "discussion_url": "https://news.ycombinator.com/item?id=47781889",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506905"
-  },
-  {
-    "title": "Measuring Claude 4.7's tokenizer costs",
-    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-    "description": "Measuring Claude 4.7's tokenizer costs",
-    "date": "2026-04-17",
-    "score": 622,
-    "comments": 439,
-    "discussion_url": "https://news.ycombinator.com/item?id=47807006",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506829"
-  },
-  {
-    "title": "Michael Rabin Has Died",
-    "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
-    "description": "Michael Rabin Has Died",
-    "date": "2026-04-15",
-    "score": 107,
-    "comments": 3,
-    "discussion_url": "https://news.ycombinator.com/item?id=47782925",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506892"
-  },
-  {
-    "title": "Middle schooler finds coin from Troy in Berlin",
-    "url": "https://www.thehistoryblog.com/archives/75848",
-    "description": "Middle schooler finds coin from Troy in Berlin",
-    "date": "2026-04-17",
-    "score": 241,
-    "comments": 111,
-    "discussion_url": "https://news.ycombinator.com/item?id=47806484",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506881"
-  },
-  {
-    "title": "NASA Force",
-    "url": "https://nasaforce.gov/",
-    "description": "NASA Force",
-    "date": "2026-04-17",
-    "score": 280,
-    "comments": 272,
-    "discussion_url": "https://news.ycombinator.com/item?id=47807209",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506814"
-  },
-  {
-    "title": "NIST gives up enriching most CVEs",
-    "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
-    "description": "NIST gives up enriching most CVEs",
-    "date": "2026-04-17",
-    "score": 205,
-    "comments": 51,
-    "discussion_url": "https://news.ycombinator.com/item?id=47806777",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506856"
-  },
-  {
-    "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-    "url": "https://victorpoughon.github.io/interval-calculator/",
-    "description": "Show HN: I made a calculator that works over disjoint sets of intervals",
+    "title": "Category Theory Illustrated – Orders",
+    "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+    "description": "Category Theory Illustrated – Orders",
     "date": "2026-04-18",
-    "score": 183,
-    "comments": 34,
-    "discussion_url": "https://news.ycombinator.com/item?id=47812341",
+    "score": 197,
+    "comments": 56,
+    "discussion_url": "https://news.ycombinator.com/item?id=47813668",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506664"
+    "fetched_at": "2026-04-18T19:41:23.443235"
   },
   {
-    "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
-    "url": "https://github.com/paniclock/paniclock/",
-    "description": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
-    "date": "2026-04-17",
-    "score": 206,
-    "comments": 92,
-    "discussion_url": "https://news.ycombinator.com/item?id=47807809",
+    "title": "It's OK to compare floating-points for equality",
+    "url": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
+    "description": "It's OK to compare floating-points for equality",
+    "date": "2026-04-14",
+    "score": 145,
+    "comments": 95,
+    "discussion_url": "https://news.ycombinator.com/item?id=47767398",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506736"
+    "fetched_at": "2026-04-18T19:41:23.443392"
   },
   {
-    "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-    "url": "https://github.com/smol-machines/smolvm",
-    "description": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-    "date": "2026-04-17",
-    "score": 345,
-    "comments": 111,
-    "discussion_url": "https://news.ycombinator.com/item?id=47808268",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506722"
-  },
-  {
-    "title": "Slop Cop",
-    "url": "https://awnist.com/slop-cop",
-    "description": "Slop Cop",
-    "date": "2026-04-17",
-    "score": 196,
-    "comments": 115,
-    "discussion_url": "https://news.ycombinator.com/item?id=47806845",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506843"
-  },
-  {
-    "title": "Spending 3 months coding by hand",
+    "title": "I’m spending months coding the old way",
     "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
-    "description": "Spending 3 months coding by hand",
+    "description": "I’m spending months coding the old way",
     "date": "2026-04-17",
-    "score": 227,
-    "comments": 232,
+    "score": 317,
+    "comments": 305,
     "discussion_url": "https://news.ycombinator.com/item?id=47807583",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506773"
+    "fetched_at": "2026-04-18T19:41:23.443316"
+  },
+  {
+    "title": "Measuring Claude 4.7's tokenizer costs",
+    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+    "description": "Measuring Claude 4.7's tokenizer costs",
+    "date": "2026-04-17",
+    "score": 677,
+    "comments": 473,
+    "discussion_url": "https://news.ycombinator.com/item?id=47807006",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443330"
+  },
+  {
+    "title": "Michael Rabin has died",
+    "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+    "description": "Michael Rabin has died",
+    "date": "2026-04-15",
+    "score": 323,
+    "comments": 70,
+    "discussion_url": "https://news.ycombinator.com/item?id=47782925",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443367"
+  },
+  {
+    "title": "Migrating from DigitalOcean to Hetzner",
+    "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+    "description": "Migrating from DigitalOcean to Hetzner",
+    "date": "2026-04-18",
+    "score": 527,
+    "comments": 297,
+    "discussion_url": "https://news.ycombinator.com/item?id=47815774",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443179"
+  },
+  {
+    "title": "Opus 4.7 to 4.6 Inflation is ~45%",
+    "url": "https://tokens.billchambers.me/leaderboard",
+    "description": "Opus 4.7 to 4.6 Inflation is ~45%",
+    "date": "2026-04-18",
+    "score": 285,
+    "comments": 295,
+    "discussion_url": "https://news.ycombinator.com/item?id=47816960",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443163"
+  },
+  {
+    "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+    "url": "https://victorpoughon.github.io/interval-calculator/",
+    "description": "Show HN: I made a calculator that works over disjoint sets of intervals",
+    "date": "2026-04-18",
+    "score": 265,
+    "comments": 47,
+    "discussion_url": "https://news.ycombinator.com/item?id=47812341",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443275"
+  },
+  {
+    "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+    "url": "https://github.com/smol-machines/smolvm",
+    "description": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+    "date": "2026-04-17",
+    "score": 428,
+    "comments": 130,
+    "discussion_url": "https://news.ycombinator.com/item?id=47808268",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443303"
+  },
+  {
+    "title": "State of Kdenlive",
+    "url": "https://kdenlive.org/news/2026/state-2026/",
+    "description": "State of Kdenlive",
+    "date": "2026-04-18",
+    "score": 263,
+    "comments": 85,
+    "discussion_url": "https://news.ycombinator.com/item?id=47815118",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443222"
+  },
+  {
+    "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
+    "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
+    "description": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
+    "date": "2026-04-15",
+    "score": 106,
+    "comments": 5,
+    "discussion_url": "https://news.ycombinator.com/item?id=47784395",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443354"
+  },
+  {
+    "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+    "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+    "description": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+    "date": "2026-04-18",
+    "score": 127,
+    "comments": 40,
+    "discussion_url": "https://news.ycombinator.com/item?id=47817132",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443137"
+  },
+  {
+    "title": "The quiet disappearance of the free-range childhood",
+    "url": "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/",
+    "description": "The quiet disappearance of the free-range childhood",
+    "date": "2026-04-18",
+    "score": 135,
+    "comments": 139,
+    "discussion_url": "https://news.ycombinator.com/item?id=47815127",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443208"
+  },
+  {
+    "title": "The simple geometry behind any road",
+    "url": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
+    "description": "The simple geometry behind any road",
+    "date": "2026-04-16",
+    "score": 108,
+    "comments": 12,
+    "discussion_url": "https://news.ycombinator.com/item?id=47788207",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443342"
   },
   {
     "title": "Towards trust in Emacs",
     "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
     "description": "Towards trust in Emacs",
     "date": "2026-04-15",
-    "score": 126,
-    "comments": 17,
+    "score": 164,
+    "comments": 25,
     "discussion_url": "https://news.ycombinator.com/item?id=47778938",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-18T11:34:30.506917"
+    "fetched_at": "2026-04-18T19:41:23.443379"
+  },
+  {
+    "title": "Why Japan has such good railways",
+    "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+    "description": "Why Japan has such good railways",
+    "date": "2026-04-18",
+    "score": 229,
+    "comments": 239,
+    "discussion_url": "https://news.ycombinator.com/item?id=47815395",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-18T19:41:23.443194"
   }
 ]

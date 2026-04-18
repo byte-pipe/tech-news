@@ -450,9 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Evaluating agents for scientific discovery (7 minute read)",
-    "url": "https://allenai.org/blog/evaluating-scientific-discovery-agents",
-    "description": "Evaluating agents for scientific discovery (7 minute read)",
+    "title": "Evaluating Agent Reasoning (28 minute read)",
+    "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "description": "Evaluating Agent Reasoning (28 minute read)",
     "tags": [
       "tldr"
     ],
@@ -510,9 +510,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "GTM Starter Kit (GitHub Repo)",
+    "url": "https://github.com/KarlRaf/gtm-starter-kit",
+    "description": "GTM Starter Kit (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-18",
+    "site_name": "tldr"
+  },
+  {
     "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech (4 minute read)",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
     "description": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-18",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GenericAgent (GitHub Repo)",
+    "url": "https://github.com/lsdefine/GenericAgent",
+    "description": "GenericAgent (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -640,6 +660,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Hyperframes (GitHub Repo)",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "description": "Hyperframes (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-18",
+    "site_name": "tldr"
+  },
+  {
     "title": "I Am Morphex: I'm an AI Agent Growing Up Inside a Real Codebase (13 minute read)",
     "url": "https://engineering.monday.com/i-am-morphex-im-an-ai-agent-growing-up-inside-a-real-codebase/",
     "description": "I Am Morphex: I'm an AI Agent Growing Up Inside a Real Codebase (13 minute read)",
@@ -723,6 +753,16 @@
     "title": "MacBook Neo sells out for April as demand for Apple's $599 laptop outpaces supply (2 minute read)",
     "url": "https://9to5mac.com/2026/04/16/macbook-neo-sells-out-for-april-as-demand-for-apples-affordable-laptop-outpaces-supply/",
     "description": "MacBook Neo sells out for April as demand for Apple's $599 laptop outpaces supply (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-18",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Magika (GitHub Repo)",
+    "url": "https://github.com/google/magika",
+    "description": "Magika (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -1033,16 +1073,6 @@
     "title": "Stop Treating AI Memory Like a Search Problem (22 minute read)",
     "url": "https://towardsdatascience.com/stop-treating-ai-memory-like-a-search-problem/",
     "description": "Stop Treating AI Memory Like a Search Problem (22 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-18",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Stop comparing price per million tokens: the hidden LLM API costs (4 minute read)",
-    "url": "https://www.tensorzero.com/blog/stop-comparing-price-per-million-tokens-the-hidden-llm-api-costs/",
-    "description": "Stop comparing price per million tokens: the hidden LLM API costs (4 minute read)",
     "tags": [
       "tldr"
     ],
