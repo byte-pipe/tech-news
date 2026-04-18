@@ -1,0 +1,158 @@
+---
+title: NASA Force
+url: https://nasaforce.gov/
+site_name: hackernews_api
+content_file: hackernews_api-nasa-force
+fetched_at: '2026-04-18T11:33:53.194032'
+original_url: https://nasaforce.gov/
+author: LorenDB
+date: '2026-04-17'
+description: NASA Force
+tags:
+- hackernews
+- trending
+---
+
+# BUILD THE FUTURE OF HUMANITY
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Four DAYS. Limited Spots.
+
+ 
+
+technologistsinsidethesystemsthatpowerAmericanspaceflight,aeronautics,andscientificdiscovery.Youworkonrealmissions,alongsidetheteamsbuildingthem,andyourcontributionsmovefromconcepttooperation.Forafewdays,accessisgrantedtothiswork.Thenumberisextremelylimited.Thewindowonlylastsfourdays.Willyouanswerthecall?
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+NASA Force is a new hiring initiative—developed in partnership with the U.S. Office of Personnel Management—designed to bring exceptional technical talent into mission-critical roles that support NASA’s exploration, research, and advanced technology priorities. Highly skilled early- to mid- career engineers, technologists, and innovators join NASA for focused term appointments, typically 1–2 years with the possibility of extension, to solve complex challenges and help maintain U.S. leadership in air and space.
+
+ 
+
+Through NASA Force, you will contribute to missions that advance human spaceflight, aeronautics, and scientific discovery while helping expand humanity’s understanding of the universe. You will take a systems approach to solving problems, working across teams and disciplines from concept to execution. Your work will demand technical excellence, critical thinking, and continuous learning, and every contribution will directly support NASA’s mission.
+
+ 
+ 
+ 
+ 
+ 
+
+## Contribute To Greatness
+
+ 
+ 
+MOVE MISSIONS FORWARD
+
+Work on flight systems, lunar infrastructure, and advanced technologies that go from concept to execution and support real missions beyond Earth.
+
+MOVE MISSIONS FORWARD
+
+Work on flight systems, lunar infrastructure, and advanced technologies that go from concept to execution and support real missions beyond Earth.
+
+SET THE FRONTIER
+
+Collaborate directly with engineers, scientists, and partners shaping the future of space, aeronautics, and national capability.
+
+DEVELOP RAPIDLY
+
+Expand your technical depth by solving complex, real-world problems where the standard is performance, not theory.
+
+LEAVE STRONGER
+
+Share knowledge, mentor others, and contribute to a culture that compounds capability across NASA’s workforce.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+HOW YOU WILL ENTER THE MISSION
+
+ 
+ 
+ 
+
+You will join a collaborative, mission-driven team where ideas are valued, contributions are recognized, and innovation is part of everyday work. NASA Force offers an opportunity to grow across projects and disciplines, build your expertise, and take on new challenges while working alongside some of the world’s leading minds.
+
+ 
+ 
+ 
+
+VIPER lunar rover operations
+
+ 
+ 
+ 
+
+Deep space logistics
+
+ 
+ 
+ 
+
+Development of NASA Spaceport 2.0
+
+ 
+ 
+ 
+
+Orion real-time operating system and core flight software
+
+ 
+ 
+ 
+
+Curation of lunar and astromaterials samples
+
+ 
+ 
+ 
+
+In-situ resource utilization (ISRU) plant development for a sustainable lunar outpost
+
+ 
+ 
+ 
+
+Advancing aeronautics research by developing AI/ML models for air traffic control automation
+
+ 
+ 
+ 
+
+Propulsion systems support across the Commercial Crew Program, Launch Services Program, and Artemis
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+If You Want Your Work to Operate Beyond Earth, This is Where it Begins.
+
+ 
+ 
+ JOIN NOW
