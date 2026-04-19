@@ -4,8 +4,8 @@
     "url": "https://nand2mario.github.io/posts/2026/80386_memory_pipeline/",
     "author": "wicket",
     "date": "2026-04-14",
-    "score": 107,
-    "comments": 16,
+    "score": 115,
+    "comments": 18,
     "id": 47767397,
     "discussion_url": "https://news.ycombinator.com/item?id=47767397",
     "description": "80386 Memory Pipeline",
@@ -14,15 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.007997"
+    "fetched_at": "2026-04-19T19:40:52.751474"
+  },
+  {
+    "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
+    "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
+    "author": "aa_is_op",
+    "date": "2026-04-19",
+    "score": 200,
+    "comments": 129,
+    "id": 47824068,
+    "discussion_url": "https://news.ycombinator.com/item?id=47824068",
+    "description": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-19T19:40:52.751404"
   },
   {
     "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
     "url": "https://tokens.billchambers.me/leaderboard",
     "author": "anabranch",
     "date": "2026-04-18",
-    "score": 530,
-    "comments": 518,
+    "score": 592,
+    "comments": 556,
     "id": 47816960,
     "discussion_url": "https://news.ycombinator.com/item?id=47816960",
     "description": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
@@ -31,15 +48,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.007984"
+    "fetched_at": "2026-04-19T19:40:52.751233"
+  },
+  {
+    "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+    "url": "https://archive.org/details/byte-magazine-1975-09",
+    "author": "DamnInteresting",
+    "date": "2026-04-17",
+    "score": 463,
+    "comments": 114,
+    "id": 47806096,
+    "discussion_url": "https://news.ycombinator.com/item?id=47806096",
+    "description": "Archive of BYTE magazine, starting with issue #1 in 1975",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-19T19:40:52.751220"
   },
   {
     "title": "Claude Design",
     "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
     "author": "meetpateltech",
     "date": "2026-04-17",
-    "score": 1198,
-    "comments": 745,
+    "score": 1208,
+    "comments": 748,
     "id": 47806725,
     "discussion_url": "https://news.ycombinator.com/item?id=47806725",
     "description": "Claude Design",
@@ -48,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008080"
+    "fetched_at": "2026-04-19T19:40:52.751478"
   },
   {
     "title": "College instructor turns to typewriters to curb AI-written work",
     "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
     "author": "gnabgib",
     "date": "2026-04-18",
-    "score": 303,
-    "comments": 296,
+    "score": 424,
+    "comments": 384,
     "id": 47818485,
     "discussion_url": "https://news.ycombinator.com/item?id=47818485",
     "description": "College instructor turns to typewriters to curb AI-written work",
@@ -65,32 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008010"
-  },
-  {
-    "title": "Fuzix OS",
-    "url": "https://www.fuzix.org/",
-    "author": "DeathArrow",
-    "date": "2026-04-18",
-    "score": 104,
-    "comments": 27,
-    "id": 47816625,
-    "discussion_url": "https://news.ycombinator.com/item?id=47816625",
-    "description": "Fuzix OS",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008005"
+    "fetched_at": "2026-04-19T19:40:52.751331"
   },
   {
     "title": "Game devs explain the tricks involved with letting you pause a game",
     "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
     "author": "speckx",
     "date": "2026-04-16",
-    "score": 152,
-    "comments": 98,
+    "score": 357,
+    "comments": 194,
     "id": 47793161,
     "discussion_url": "https://news.ycombinator.com/item?id=47793161",
     "description": "Game devs explain the tricks involved with letting you pause a game",
@@ -99,32 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008001"
-  },
-  {
-    "title": "Graphs that explain the state of AI in 2026",
-    "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-    "author": "bryanrasmussen",
-    "date": "2026-04-18",
-    "score": 94,
-    "comments": 57,
-    "id": 47817581,
-    "discussion_url": "https://news.ycombinator.com/item?id=47817581",
-    "description": "Graphs that explain the state of AI in 2026",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008105"
+    "fetched_at": "2026-04-19T19:40:52.751348"
   },
   {
     "title": "It's OK to compare floating-points for equality",
     "url": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
     "author": "coinfused",
     "date": "2026-04-14",
-    "score": 204,
-    "comments": 126,
+    "score": 210,
+    "comments": 132,
     "id": 47767398,
     "discussion_url": "https://news.ycombinator.com/item?id=47767398",
     "description": "It's OK to compare floating-points for equality",
@@ -133,32 +133,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008029"
+    "fetched_at": "2026-04-19T19:40:52.751470"
   },
   {
-    "title": "Michael Rabin has died",
-    "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
-    "author": "tkhattra",
-    "date": "2026-04-15",
-    "score": 405,
-    "comments": 82,
-    "id": 47782925,
-    "discussion_url": "https://news.ycombinator.com/item?id=47782925",
-    "description": "Michael Rabin has died",
+    "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+    "url": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+    "author": "nobody9999",
+    "date": "2026-04-19",
+    "score": 168,
+    "comments": 36,
+    "id": 47822356,
+    "discussion_url": "https://news.ycombinator.com/item?id=47822356",
+    "description": "Keep Pushing: We Get 10 More Days to Reform Section 702",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008067"
+    "fetched_at": "2026-04-19T19:40:52.751421"
   },
   {
     "title": "Migrating from DigitalOcean to Hetzner",
     "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
     "author": "yusufusta",
     "date": "2026-04-18",
-    "score": 795,
-    "comments": 401,
+    "score": 850,
+    "comments": 418,
     "id": 47815774,
     "discussion_url": "https://news.ycombinator.com/item?id=47815774",
     "description": "Migrating from DigitalOcean to Hetzner",
@@ -167,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.007902"
+    "fetched_at": "2026-04-19T19:40:52.751379"
   },
   {
     "title": "Modern Common Lisp with FSet",
     "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
     "author": "larve",
     "date": "2026-04-15",
-    "score": 162,
-    "comments": 19,
+    "score": 179,
+    "comments": 24,
     "id": 47779659,
     "discussion_url": "https://news.ycombinator.com/item?id=47779659",
     "description": "Modern Common Lisp with FSet",
@@ -184,32 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008101"
-  },
-  {
-    "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-    "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
-    "author": "sohkamyung",
-    "date": "2026-04-18",
-    "score": 191,
-    "comments": 83,
-    "id": 47820531,
-    "discussion_url": "https://news.ycombinator.com/item?id=47820531",
-    "description": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.007971"
+    "fetched_at": "2026-04-19T19:40:52.751408"
   },
   {
     "title": "NIST scientists create 'any wavelength' lasers",
     "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
     "author": "rbanffy",
     "date": "2026-04-18",
-    "score": 325,
-    "comments": 140,
+    "score": 394,
+    "comments": 177,
     "id": 47819453,
     "discussion_url": "https://news.ycombinator.com/item?id=47819453",
     "description": "NIST scientists create 'any wavelength' lasers",
@@ -218,15 +201,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008014"
+    "fetched_at": "2026-04-19T19:40:52.751361"
+  },
+  {
+    "title": "Notion leaks email addresses of all editors of any public page",
+    "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+    "author": "Tiberium",
+    "date": "2026-04-19",
+    "score": 207,
+    "comments": 65,
+    "id": 47824945,
+    "discussion_url": "https://news.ycombinator.com/item?id=47824945",
+    "description": "Notion leaks email addresses of all editors of any public page",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-19T19:40:52.751288"
   },
   {
     "title": "Optimizing Ruby Path Methods",
     "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
     "author": "weaksauce",
     "date": "2026-04-18",
-    "score": 106,
-    "comments": 38,
+    "score": 126,
+    "comments": 52,
     "id": 47819369,
     "discussion_url": "https://news.ycombinator.com/item?id=47819369",
     "description": "Optimizing Ruby Path Methods",
@@ -235,32 +235,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008071"
+    "fetched_at": "2026-04-19T19:40:52.751400"
   },
   {
-    "title": "PgQue: Zero-Bloat Postgres Queue",
-    "url": "https://github.com/NikolayS/pgque",
-    "author": "gmcabrita",
-    "date": "2026-04-18",
-    "score": 125,
-    "comments": 31,
-    "id": 47817349,
-    "discussion_url": "https://news.ycombinator.com/item?id=47817349",
-    "description": "PgQue: Zero-Bloat Postgres Queue",
+    "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+    "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+    "author": "Eridanus2",
+    "date": "2026-04-19",
+    "score": 138,
+    "comments": 63,
+    "id": 47822805,
+    "discussion_url": "https://news.ycombinator.com/item?id=47822805",
+    "description": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008046"
+    "fetched_at": "2026-04-19T19:40:52.751251"
   },
   {
     "title": "Scientists discover “cleaner ants” that groom giant ants in Arizona desert",
     "url": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm",
     "author": "t-3",
     "date": "2026-04-15",
-    "score": 113,
-    "comments": 40,
+    "score": 115,
+    "comments": 43,
     "id": 47784250,
     "discussion_url": "https://news.ycombinator.com/item?id=47784250",
     "description": "Scientists discover “cleaner ants” that groom giant ants in Arizona desert",
@@ -269,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.007962"
+    "fetched_at": "2026-04-19T19:40:52.751450"
   },
   {
     "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
     "url": "https://github.com/drasimwagan/mdv",
     "author": "drasim",
     "date": "2026-04-18",
-    "score": 123,
-    "comments": 44,
+    "score": 134,
+    "comments": 50,
     "id": 47816629,
     "discussion_url": "https://news.ycombinator.com/item?id=47816629",
     "description": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
@@ -286,15 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.007958"
+    "fetched_at": "2026-04-19T19:40:52.751458"
+  },
+  {
+    "title": "Show HN: Shader Lab, like Photoshop but for shaders",
+    "url": "https://eng.basement.studio/tools/shader-lab",
+    "author": "ragojose",
+    "date": "2026-04-16",
+    "score": 111,
+    "comments": 31,
+    "id": 47796759,
+    "discussion_url": "https://news.ycombinator.com/item?id=47796759",
+    "description": "Show HN: Shader Lab, like Photoshop but for shaders",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-19T19:40:52.751323"
   },
   {
     "title": "State of Kdenlive",
     "url": "https://kdenlive.org/news/2026/state-2026/",
     "author": "f_r_d",
     "date": "2026-04-18",
-    "score": 410,
-    "comments": 124,
+    "score": 451,
+    "comments": 142,
     "id": 47815118,
     "discussion_url": "https://news.ycombinator.com/item?id=47815118",
     "description": "State of Kdenlive",
@@ -303,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008033"
+    "fetched_at": "2026-04-19T19:40:52.751374"
   },
   {
     "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
     "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
     "author": "Lwrless",
     "date": "2026-04-15",
-    "score": 221,
-    "comments": 12,
+    "score": 232,
+    "comments": 18,
     "id": 47784395,
     "discussion_url": "https://news.ycombinator.com/item?id=47784395",
     "description": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
@@ -320,15 +337,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.007918"
+    "fetched_at": "2026-04-19T19:40:52.751416"
+  },
+  {
+    "title": "The creative software industry has declared war on Adobe",
+    "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+    "author": "tambourine_man",
+    "date": "2026-04-19",
+    "score": 137,
+    "comments": 120,
+    "id": 47824403,
+    "discussion_url": "https://news.ycombinator.com/item?id=47824403",
+    "description": "The creative software industry has declared war on Adobe",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-19T19:40:52.751412"
   },
   {
     "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
     "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
     "author": "NelsonMinar",
     "date": "2026-04-18",
-    "score": 347,
-    "comments": 92,
+    "score": 399,
+    "comments": 101,
     "id": 47817132,
     "discussion_url": "https://news.ycombinator.com/item?id=47817132",
     "description": "The electromechanical angle computer inside the B-52 bomber's star tracker",
@@ -337,49 +371,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008050"
+    "fetched_at": "2026-04-19T19:40:52.751240"
   },
   {
-    "title": "The quiet disappearance of the free-range childhood",
-    "url": "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/",
-    "author": "sylvainkalache",
-    "date": "2026-04-18",
-    "score": 228,
-    "comments": 241,
-    "id": 47815127,
-    "discussion_url": "https://news.ycombinator.com/item?id=47815127",
-    "description": "The quiet disappearance of the free-range childhood",
+    "title": "The seven programming ur-languages (2022)",
+    "url": "https://madhadron.com/programming/seven_ur_languages.html",
+    "author": "helloplanets",
+    "date": "2026-04-19",
+    "score": 210,
+    "comments": 83,
+    "id": 47822486,
+    "discussion_url": "https://news.ycombinator.com/item?id=47822486",
+    "description": "The seven programming ur-languages (2022)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008133"
+    "fetched_at": "2026-04-19T19:40:52.751302"
   },
   {
-    "title": "The simple geometry behind any road",
-    "url": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
-    "author": "azhenley",
-    "date": "2026-04-16",
-    "score": 137,
-    "comments": 16,
-    "id": 47788207,
-    "discussion_url": "https://news.ycombinator.com/item?id=47788207",
-    "description": "The simple geometry behind any road",
+    "title": "The world in which IPv6 was a good design (2017)",
+    "url": "https://apenwarr.ca/log/20170810",
+    "author": "signa11",
+    "date": "2026-04-19",
+    "score": 173,
+    "comments": 71,
+    "id": 47821429,
+    "discussion_url": "https://news.ycombinator.com/item?id=47821429",
+    "description": "The world in which IPv6 was a good design (2017)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008121"
+    "fetched_at": "2026-04-19T19:40:52.751283"
   },
   {
     "title": "Thoughts and feelings around Claude Design",
     "url": "https://samhenri.gold/blog/20260418-claude-design/",
     "author": "cdrnsf",
     "date": "2026-04-18",
-    "score": 325,
-    "comments": 201,
+    "score": 353,
+    "comments": 230,
     "id": 47818700,
     "discussion_url": "https://news.ycombinator.com/item?id=47818700",
     "description": "Thoughts and feelings around Claude Design",
@@ -388,66 +422,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.007923"
+    "fetched_at": "2026-04-19T19:40:52.751429"
   },
   {
-    "title": "Towards trust in Emacs",
-    "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
-    "author": "eshelyaron",
-    "date": "2026-04-15",
-    "score": 182,
-    "comments": 30,
-    "id": 47778938,
-    "discussion_url": "https://news.ycombinator.com/item?id=47778938",
-    "description": "Towards trust in Emacs",
+    "title": "Vercel April 2026 security incident",
+    "url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
+    "author": "colesantiago",
+    "date": "2026-04-19",
+    "score": 274,
+    "comments": 99,
+    "id": 47824463,
+    "discussion_url": "https://news.ycombinator.com/item?id=47824463",
+    "description": "Vercel April 2026 security incident",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008084"
+    "fetched_at": "2026-04-19T19:40:52.751454"
   },
   {
-    "title": "Understanding the FFT Algorithm (2013)",
-    "url": "https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/",
-    "author": "peter_d_sherman",
-    "date": "2026-04-15",
-    "score": 97,
-    "comments": 10,
-    "id": 47773969,
-    "discussion_url": "https://news.ycombinator.com/item?id=47773969",
-    "description": "Understanding the FFT Algorithm (2013)",
+    "title": "Vercel says internal systems hit in breach",
+    "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+    "author": "whiteyford",
+    "date": "2026-04-19",
+    "score": 336,
+    "comments": 87,
+    "id": 47824976,
+    "discussion_url": "https://news.ycombinator.com/item?id=47824976",
+    "description": "Vercel says internal systems hit in breach",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.007975"
-  },
-  {
-    "title": "Updating Gun Rocket through 10 years of Unity Engine",
-    "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
-    "author": "tyleo",
-    "date": "2026-04-16",
-    "score": 89,
-    "comments": 37,
-    "id": 47791771,
-    "discussion_url": "https://news.ycombinator.com/item?id=47791771",
-    "description": "Updating Gun Rocket through 10 years of Unity Engine",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008092"
+    "fetched_at": "2026-04-19T19:40:52.751306"
   },
   {
     "title": "What are skiplists good for?",
     "url": "https://antithesis.com/blog/2026/skiptrees/",
     "author": "mfiguiere",
     "date": "2026-04-17",
-    "score": 114,
-    "comments": 22,
+    "score": 232,
+    "comments": 49,
     "id": 47806021,
     "discussion_url": "https://news.ycombinator.com/item?id=47806021",
     "description": "What are skiplists good for?",
@@ -456,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.007954"
+    "fetched_at": "2026-04-19T19:40:52.751336"
   },
   {
     "title": "Why Japan has such good railways",
     "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
     "author": "RickJWagner",
     "date": "2026-04-18",
-    "score": 428,
-    "comments": 408,
+    "score": 522,
+    "comments": 483,
     "id": 47815395,
     "discussion_url": "https://news.ycombinator.com/item?id=47815395",
     "description": "Why Japan has such good railways",
@@ -473,32 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008058"
-  },
-  {
-    "title": "Why is IPv6 so complicated?",
-    "url": "https://github.com/becarpenter/misc/blob/main/why6why.md",
-    "author": "signa11",
-    "date": "2026-04-18",
-    "score": 100,
-    "comments": 209,
-    "id": 47813631,
-    "discussion_url": "https://news.ycombinator.com/item?id=47813631",
-    "description": "Why is IPv6 so complicated?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.008136"
+    "fetched_at": "2026-04-19T19:40:52.751256"
   },
   {
     "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
     "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
     "author": "agambrahma",
     "date": "2026-04-18",
-    "score": 91,
-    "comments": 36,
+    "score": 110,
+    "comments": 45,
     "id": 47820195,
     "discussion_url": "https://news.ycombinator.com/item?id=47820195",
     "description": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-19T11:34:38.007933"
+    "fetched_at": "2026-04-19T19:40:52.751425"
   }
 ]
