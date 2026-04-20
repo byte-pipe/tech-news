@@ -9,7 +9,7 @@ author: jackytheblade
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 jackytheblade
 
- 
+
 
 # US strikes on Iran ‘outside international law,’ says Macron
 
  politico.eu
- 
+
 
 Open

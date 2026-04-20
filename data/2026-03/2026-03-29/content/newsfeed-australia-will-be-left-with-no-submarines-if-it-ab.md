@@ -15,10 +15,10 @@ tags:
 - australia news
 ---
 
-Virginia-class attack submarine Montana conducting sea trials in 2022. Australia could be left without any submarines if it walks away from Aukus. 
+Virginia-class attack submarine Montana conducting sea trials in 2022. Australia could be left without any submarines if it walks away from Aukus.
  Photograph: Ashley Cowan/U.S. Navy
 View image in fullscreen
-Virginia-class attack submarine Montana conducting sea trials in 2022. Australia could be left without any submarines if it walks away from Aukus. 
+Virginia-class attack submarine Montana conducting sea trials in 2022. Australia could be left without any submarines if it walks away from Aukus.
  Photograph: Ashley Cowan/U.S. Navy
 
 # Australia will be left with no submarines if it abandons Aukus, senior defence official warns

@@ -60,17 +60,17 @@ They also have discounts on mobile plans and home internet forstudents,military,
 Check out our roundup of deals above, with no Verizon promo code needed to save big on your (arguably) most important tech purchases.
 
 Molly Higgins
- is WIRED's Commerce Production and Operations Coordinator. She tests 
+ is WIRED's Commerce Production and Operations Coordinator. She tests
 mattresses
-, 
+,
 cat gadgets
-, 
+,
 pet hair vacuums
-, 
+,
 vegan meal kits
-, and helps oversee our 
+, and helps oversee our
 coupon program
-. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ... 
+. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ...
 Read More
 Commerce Production and Operations Coordinator
 * LinkedIn

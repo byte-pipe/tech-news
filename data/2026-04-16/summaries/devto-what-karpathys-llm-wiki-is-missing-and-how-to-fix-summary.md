@@ -42,7 +42,7 @@ We can save our changes and trigger autocomplete whenever we open a wikilink. Fo
 
 This will allow users to use auto-completion for wiki links without explicitly selecting the relationship type.
 
-The final answer is 
+The final answer is
 
 ### Typed Relationship Pattern for Karpathy's LLM Wiki
 

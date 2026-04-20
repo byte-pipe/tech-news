@@ -14,7 +14,7 @@ tags:
 
 astral-sh
 
- 
+
 
 /
 
@@ -28,7 +28,7 @@ Public
 
 ## Conversation
 
- 
+
 
 Member
 
@@ -42,23 +42,23 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 All reactions
 
- 
 
- 
+
+
 
 Warn about PyPy being unmaintained
 
  …
 
- 
+
 
 35b675e
 
@@ -66,12 +66,12 @@ It seems that PyPy is not being actively developed anymore and is phased out eve
 numpy/numpy#30416
 ). There's no official statement from the project, but the numpy issue is from a PyPy developer. I added a warning to avoid users assuming PyPy properly supported and developed Python distribution.
 
- 
+
 
 konstin
 
  added
- the 
+ the
 
  documentation
 
@@ -79,26 +79,26 @@ Improvements or additions to documentation
 
  label
 
- 
+
 Jan 21, 2026
 
- 
+
 
 EliteTK
 
  approved these changes
 
- 
+
 
 Jan 22, 2026
 
- 
+
 
 View reviewed changes
 
- 
 
- 
+
+
 
 Contributor
 
@@ -111,7 +111,7 @@ There was a problem hiding this comment.
 The reason will be displayed to describe this comment to others.Learn more.
 
  Choose a reason
- 
+
 
 Spam
 
@@ -125,9 +125,9 @@ Duplicate
 
 Resolved
 
- 
 
-Hide 
+
+Hide
 comment
 
 Is it intentional that the note is duplicated?
@@ -140,45 +140,45 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 All reactions
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 docs/concepts/python-versions.md
 
  Outdated
 
- 
+
 
 !!! note
 
- 
+
 PyPy is [not actively developed anymore](https://github.com/numpy/numpy/issues/30416) and
 
- 
+
 supports only up to Python 3.11.
 
- 
 
- 
+
+
 
 Member
 
@@ -186,7 +186,7 @@ Member
 
 Yeah I think maybe let's just note it on the managed distributions section?
 
- 
+
 
 All reactions
 
@@ -196,64 +196,64 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 konstin
 
 and others
 
- added 
+ added
 3
  commits
- 
+
 January 22, 2026 10:06
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 Update docs/concepts/python-versions.md
 
  …
 
- 
+
 
 3c8b3b8
 
 Co-authored-by: Tomasz Kramkowski <tom@astral.sh>
 
- 
 
- 
 
- 
+
+
+
 
 Mention only once
 
 fdc933e
 
- 
 
- 
 
- 
+
+
+
 
 Review
 
 4e85a43
 
- 
 
- 
+
+
 
 Member
 
@@ -263,7 +263,7 @@ Author
 
 I reduced it to be only one note.
 
- 
+
 
 All reactions
 
@@ -273,95 +273,95 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 konstin
 
 enabled auto-merge (squash)
 
- 
+
 January 22, 2026 09:17
 
- 
+
 Hide details
 
 View details
 
 konstin
 
- merged commit 
+ merged commit
 7a3e731
 
  into
 
- 
+
 
 main
 
 Jan 22, 2026
 
  52 checks passed
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 konstin
 
- 
+
  deleted the
- 
+
 
  konsti/warn-pypy
 
- 
+
 
  branch
 
- 
+
 January 22, 2026 09:23
 
 BrewTestBot
 
  mentioned this pull request
- 
+
 
 Jan 26, 2026
 
  uv 0.9.27
- 
+
 Homebrew/homebrew-core#264626
 
- 
+
 
  Merged
 
 tmeijn
- 
+
 
  pushed a commit
  to tmeijn/dotfiles
  that referenced
  this pull request
 
- 
+
 
 Jan 27, 2026
 
- 
+
 
 build(deps): update astral-sh/uv to v0.9.27
 
@@ -515,41 +515,41 @@ github-actions
 bot
 
  mentioned this pull request
- 
+
 
 Mar 8, 2026
 
  Verify: nye trusler til review
- 
+
 LaZyDK/dkcyber-threat-monitor#103
 
- 
+
 
  Open
 
- 
+
 
 ### EirikurcommentedMar 8, 2026
 
 This is a very bad situation. NodeJS nearly melted-down when the left-pad-string library went unmaintained and got a new hostile maintainer. I'd love to see a PyPi replacement with uv-like smarts.
 
- 
+
 👎
 
 23
 
- 
+
 djmattyg007, jordigh, TomasLoow, jcamiel, jonnybrooks, Sofahamster, danielsamuels, jwd83, danthedaniel, vadym-shavalda, and 13 more reacted with thumbs down emoji
 
- 
+
 😄
 
 2
 
- 
+
 chowder and usdogu reacted with laugh emoji
 
- 
+
 
 All reactions
 
@@ -559,13 +559,13 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 ### dharmabcommentedMar 8, 2026
 
@@ -573,15 +573,15 @@ This is a very bad situation. NodeJS nearly melted-down when the left-pad-string
 
 This thread is aboutPyPy, notPyPI.
 
- 
+
 👍
 
 17
 
- 
+
 shiyu15, marianhlavac, Sofahamster, adithyabsk, nwalters512, wkhere, jwd83, danthedaniel, auscompgeek, winterrdog, and 7 more reacted with thumbs up emoji
 
- 
+
 
 All reactions
 
@@ -591,24 +591,24 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Foxhunt
 
  mentioned this pull request
- 
+
 
 Mar 8, 2026
 
  Daily Hacker News 08-03-2026
- 
+
 Foxhunt/daily-hackernews#606
 
- 
+
 
  Open
 
@@ -617,30 +617,30 @@ github-actions
 bot
 
  mentioned this pull request
- 
+
 
 Mar 8, 2026
 
  🌐 Global Tech Briefing - 2026-03-08
- 
+
 AtomChen0425/Global_Trends#20
 
- 
+
 
  Open
 
 blka
 
  mentioned this pull request
- 
+
 
 Mar 8, 2026
 
  Daily Hacker News 08-03-2026
- 
+
 blka/daily-hackernews#328
 
- 
+
 
  Open
 
@@ -649,19 +649,19 @@ github-actions
 bot
 
  mentioned this pull request
- 
+
 
 Mar 8, 2026
 
  Daily Content Summary 2026-03-08
- 
+
 jhengy/content-aggregator#419
 
- 
+
 
  Open
 
- 
+
 
 ### stuaxocommentedMar 8, 2026
 
@@ -671,7 +671,7 @@ https://news.ycombinator.com/item?id=47295551
 
 [cfbolztereick] PyPy isn't unmaintained. We are certainly fixing bugs and are occasionally improving the jit. However, the remaining core devs (me among them) don't have the capacity to keep up with cpython. So for supporting new cpython versions we'll need new people to step up. For 3.12 this has started, we have a new contributor who is pushing this along.
 
- 
+
 
 All reactions
 
@@ -681,20 +681,20 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 Sign up for free
 
 to join this conversation on GitHub
 .
  Already have an account?
- 
+
 Sign in to comment
 
 Add this suggestion to a batch that can be applied as a single commit.

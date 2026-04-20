@@ -27,22 +27,22 @@ tags:
 ﻿The AI Workmate Concept can scan documents, project presentations, or just keep you company in the office.
 
 by
- 
- 
+
+
 Andrew Liszewski
 Mar 1, 2026, 11:01 PM UTC
 * Link
 * Share
 * Gift
 The AI Workmate Concept can move and rotate to accomplish various tasks, but can it ever truly know love?
- 
+
 Image: Lenovo
 Part Of
 LIVE
 MWC 2026: all the phones, gadgets, and announcements from Barcelona
-see all updates 
+see all updates
 Andrew Liszewski
- 
+
 is a senior reporter who’s been covering and reviewing the latest gadgets and tech since 2006, but has loved all things electronic since he was a kid.
 
 Alongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship.
@@ -50,19 +50,19 @@ Alongside a handful of new laptop concepts (and a range of real products too), L
 Lenovo describes its AI Workmate Concept as an “always-on desk companion,” but it looks like a tiny robotic arm on a swiveling base with a bulbous screen on the end displaying an expressive pair of eyes. It doesn’t look as engaging as a human coworker, but through local AI processing you can interact with the device as a smart assistant via voice commands and physical gestures.
 
 The AI Workmate Concept’s arm can extend and hover over physical documents to scan them.
- 
+
 Image: Lenovo
 
 The Workmate Concept can also help with “practical business tasks.” Below its screen is a camera that can be used to scan notes and documents to generate summaries, organize your ideas, or automatically turn them into presentations. When it’s time to share with others, the Workmate Concept even incorporates a projector that can display documents on your desk or onto a nearby wall.
 
 It looks like a bedside alarm clock, but the AI Work Companion Concept can help manage your work schedule and stay ahead of burnout.
- 
+
 Image: Lenovo
 
 Lenovo’s AI Work Companion Concept takes a different approach to AI assistance. It looks like a bedside alarm clock with a large screen, but instead of waking you it leverages AI to “sync tasks and schedules from across the user’s devices to generate a balanced daily plan.” To help prevent burnout, the Work Companion monitors screentime and suggests taking breaks throughout the day, along with playful interactions using animated faces and end-of-week celebrations with reports of completed tasks.
 
 The concept doubles as a desktop hub connecting multiple monitors to a laptop and keeping other devices charged throughout the day.
- 
+
 Image: Lenovo
 
 It also doubles as a dock, connecting a laptop to multiple displays over HDMI and providing plenty of USB ports to keep other devices charging while reducing desktop clutter.
@@ -108,19 +108,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

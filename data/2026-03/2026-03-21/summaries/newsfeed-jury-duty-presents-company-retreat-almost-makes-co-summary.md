@@ -27,7 +27,7 @@ In "Jury Duty Presents" Season 2, actors are forced to play their real-life coun
 
 ### The Setup
 
-Anthony Norman is employed as a temp worker at Rockin' Grandma's Hot Sauce, a small business in southern California. He believes he knows what to expect from his two-week on-site work. 
+Anthony Norman is employed as a temp worker at Rockin' Grandma's Hot Sauce, a small business in southern California. He believes he knows what to expect from his two-week on-site work.
 
 ## Acting Unaware
 While Anthony is unaware that he has joined a staged sitcom, the company director Doug Womack decides it would be fun to have an actor participate in the office.

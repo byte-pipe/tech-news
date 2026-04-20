@@ -11,7 +11,7 @@ description: Command-line JSON processor. Contribute to jqlang/jq development by
 
 jqlang
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.8k
 * Star34.1k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -184,26 +184,26 @@ Pull thejq imageto start quickly with Docker.
 
 ##### Example: Extracting the version from apackage.jsonfile
 
-docker run --rm -i ghcr.io/jqlang/jq:latest 
+docker run --rm -i ghcr.io/jqlang/jq:latest
 <
- package.json 
+ package.json
 '
 .version
 '
 
 ##### Example: Extracting the version from apackage.jsonfile with a mounted volume
 
-docker run --rm -i -v 
+docker run --rm -i -v
 "
 $PWD
 :
 $PWD
 "
- -w 
+ -w
 "
 $PWD
 "
- ghcr.io/jqlang/jq:latest 
+ ghcr.io/jqlang/jq:latest
 '
 .version
 '
@@ -270,56 +270,56 @@ jqlang.org
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 34.1k
 
  stars
- 
+
 
 ### Watchers
 
 344
 
  watching
- 
+
 
 ### Forks
 
 1.8k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases15
 
@@ -327,11 +327,11 @@ jq 1.8.1
 
  Latest
 
- 
+
 
 Jul 1, 2025
 
- 
+
 
 + 14 releases
 
@@ -347,17 +347,17 @@ Jul 1, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -365,9 +365,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

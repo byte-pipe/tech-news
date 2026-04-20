@@ -11,7 +11,7 @@ description: Claude Code skill to support Android app's reverse engineering - Si
 
 SimoneAvogadro
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork245
 * Star2.1k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -242,48 +242,48 @@ Claude Code skill to support Android app's reverse engineering
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 2.1k
 
  stars
- 
+
 
 ### Watchers
 
 9
 
  watching
- 
+
 
 ### Forks
 
 245
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -303,9 +303,9 @@ tags
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -313,9 +313,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

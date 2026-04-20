@@ -46,15 +46,15 @@ Start building those relationships now.
 * Share on WhatsApp (Opens in new window)WhatsApp
 * Share on LinkedIn (Opens in new window)LinkedIn
 
-Tagged 
+Tagged
 AI
-, 
+,
 competitive advantage
-, 
+,
 customer centric
-, 
+,
 Okr
-, 
+,
 Product Discovery
 
 ## Books

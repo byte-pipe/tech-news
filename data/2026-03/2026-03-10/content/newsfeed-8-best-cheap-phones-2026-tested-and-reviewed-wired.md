@@ -95,17 +95,17 @@ Google
 ### Pixel 10a
 
 $499
- 
+
 
 Amazon
 
 $499
- 
+
 
 Best Buy
 
 $499
- 
+
 
 Google Store
 
@@ -117,7 +117,7 @@ The biggest changes from the Pixel 9a are a brighter screen, faster wired and wi
 
 It's nice to have faster charging speeds, but battery life overall is OK. It adequately lasts a full day with average use and then some, but folks who spend a lot of time on their smartphone during the day—whether it's for navigating, music streaming, or reading fanfic—will likely find themselves hunting for an outlet in the afternoon.
 
-1 
+1
 / 11
 Chevron
 Chevron
@@ -164,12 +164,12 @@ Apple
 ### iPhone 17e
 
 $599
- 
+
 
 Apple
 
 $600
- 
+
 
 Best Buy
 
@@ -179,7 +179,7 @@ Like the rest of the iPhone 17 lineup, the iPhone 17e also uses the same Ceramic
 
 It's powered by the latest-generation A19 chip, like theiPhone 17, though there's one less graphics core, so there's a minor hit to performance. I still had no trouble running all my usual apps and games, evenGenshin Impactat its max graphical settings. Battery life is also solid, comfortably lasting me a full day, though extreme users will likely need a top-up before bed. I suspect the improved and energy-efficient C1X 5G modem is what helps extend battery life despite the small size of the phone.
 
-1 
+1
 / 13
 Chevron
 Chevron
@@ -224,21 +224,21 @@ Samsung
 ### Galaxy S25 FE
 
 $650
- 
+
 $540
- 
+
 (17% off)
- 
+
 
 Amazon
 
 $650
- 
+
 
 Best Buy
 
 $650
- 
+
 
 Samsung
 
@@ -282,7 +282,7 @@ Nothing
 ### Phone (4a) Pro
 
 $499
- 
+
 
 Nothing
 
@@ -330,20 +330,20 @@ Motorola
 ### Moto G Stylus 2025
 
 $400
- 
+
 $350
- 
+
 (13% off)
- 
+
 
 Amazon
 
 $400
- 
+
 $350
- 
+
 (13% off)
- 
+
 
 Motorola
 
@@ -397,17 +397,17 @@ Motorola
 ### Moto G Power 2026
 
 $300
- 
+
 
 Amazon
 
 $300
- 
+
 
 Best Buy
 
 $300
- 
+
 
 Motorola
 
@@ -457,12 +457,12 @@ Samsung
 ### Galaxy A56 5G
 
 $500
- 
+
 
 Best Buy
 
 $500
- 
+
 
 Samsung
 
@@ -510,29 +510,29 @@ Motorola
 ### Razr (2025)
 
 $700
- 
+
 $488
- 
+
 (30% off)
- 
+
 
 Amazon
 
 $700
- 
+
 $600
- 
+
 (14% off)
- 
+
 
 Best Buy
 
 $700
- 
+
 $600
- 
+
 (14% off)
- 
+
 
 Motorola
 
@@ -647,7 +647,7 @@ Triangle
 * Everyone speaks incel now
 * Replay:Livestream on the hype, reality, and future of EVs
 Julian Chokkattu
- is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ... 
+ is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ...
 Read More
 Senior Editor, Gear
 * LinkedIn

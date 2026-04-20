@@ -19,7 +19,7 @@ Dagger
 ### Daniel Kokotajlo evaluates his 2021 essay, "What 2026 Looks Like."
 
 Daniel Kokotajlo
- and 
+ and
 Clara Collier
 Apr 14, 2026
 43
@@ -76,9 +76,9 @@ Another thing is concreteness. People often are talking past each other. They’
 
 Clara:If nothing else, you get to brag when a lot of these things happen. And there are also some things that didn’t happen. We’re going to talk about that too.
 
-Binoculars, Thaddeus S. C. Lowe. Courtesy 
+Binoculars, Thaddeus S. C. Lowe. Courtesy
 Smithsonian Air & Space Museum
-. 
+.
 
 ### Dollars, chips, and fabs
 
@@ -297,5 +297,5 @@ Share
 Previous
 A guest post by
 Daniel Kokotajlo
-Was a philosophy PhD student, left to work at AI Impacts, then Center on Long-Term Risk, then OpenAI. Quit OpenAI due to losing confidence that it would behave responsibly around the time of AGI. Now executive director of the AI Futures Project. 
+Was a philosophy PhD student, left to work at AI Impacts, then Center on Long-Term Risk, then OpenAI. Quit OpenAI due to losing confidence that it would behave responsibly around the time of AGI. Now executive director of the AI Futures Project.
 Subscribe to Daniel

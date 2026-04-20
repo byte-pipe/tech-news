@@ -33,7 +33,7 @@ The math behind this phenomenon is rooted in the following:
 
 ### What Can We Learn?
 
-By exploring the concurrency + floating point hypothesis for LLM inference determinism, researchers can refine our understanding of complex computational algorithms and consider additional mechanisms at play that may lead to non-determinacy. 
+By exploring the concurrency + floating point hypothesis for LLM inference determinism, researchers can refine our understanding of complex computational algorithms and consider additional mechanisms at play that may lead to non-determinacy.
 
 Moreover, identifying possible causes of nondeterminism in these computations can aid in building robust models that predict system behavior more accurately.
 

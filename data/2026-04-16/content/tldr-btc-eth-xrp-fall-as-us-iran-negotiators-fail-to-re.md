@@ -26,16 +26,16 @@ Email
 ## U.S. Vice President J.D. Vance said negotiations had ended after a daylong session in Pakistan, sending crypto prices down between 1.5% and 2%.
 
 By
- 
+
 Nikhilesh De
 Updated
- 
-Apr 12, 2026, 2:46 a.m. 
+
+Apr 12, 2026, 2:46 a.m.
 Published
- 
-Apr 12, 2026, 2:05 a.m. 
-Make 
- preferred on 
+
+Apr 12, 2026, 2:05 a.m.
+Make
+ preferred on
 (CoinDesk)
 
 BitcoinBTC$74,544.31and other major cryptocurrencies all fell around 2% late Saturday evening U.S. hours after Vice President J.D. Vance announced that U.S. and Iranian negotiators had failed to agree to an extended ceasefire.
@@ -61,13 +61,13 @@ More For You
 ### Bitcoin holds near $75,000 as short-term holders look for profit opportunities
 
 By
- 
+
 Francisco Rodrigues
-, 
+,
 Omkar Godbole
 |
 Edited by
- 
+
 Sheldon Reback
 1 hour ago
 
@@ -80,7 +80,7 @@ What to know:
 * Decentralized exchange aggregator CoW Swap suffered...
 Read full story
 Latest Crypto News
- 
+
 
 #### Bitcoin holds near $75,000 as short-term holders look for profit opportunities
 

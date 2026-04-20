@@ -17,10 +17,10 @@ tags:
 
 # Adobe Illustrator now lets you rotate 2D vectors in 3D space
 
- 
+
 
 Marcus Mendes
- | Mar 30 2026 - 6:00 am PT																
+ | Mar 30 2026 - 6:00 am PT
 
 Adobe Turntable is now generally available in Illustrator, allowing creators to generate multi-angle views from any vector illustration. Here’s how it works.
 
@@ -36,7 +36,7 @@ Adobe said that the feature was refined during the beta process, and now automat
 
 Watch it in action below:
 
- 
+
 
 The company adds:
 
@@ -58,27 +58,27 @@ To learn more about Adobe Turntable on Illustrator,follow this link.
 
 FTC: We use income earning auto affiliate links.More.
 
-You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out 
+You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out
 our homepage
- for all the latest news, and follow 9to5Mac on 
+ for all the latest news, and follow 9to5Mac on
 Twitter
-, 
+,
 Facebook
-, and 
+, and
 LinkedIn
- to stay in the loop. Don’t know where to start? Check out our 
+ to stay in the loop. Don’t know where to start? Check out our
 exclusive stories
-, 
+,
 reviews
-, 
+,
 how-tos
-, and 
+, and
 subscribe to our YouTube channel
- 
+
 
 Check out 9to5Mac on YouTube for more Apple news:
 
- 
+
 
 ## Comments
 
@@ -90,11 +90,11 @@ Adobe builds a wide variety of creative applicat…
 
 ## Author
 
- 
 
-			Marcus Mendes		
 
-https://www.threads.com/mvcmendes			
+			Marcus Mendes
+
+https://www.threads.com/mvcmendes
 
 Marcus Mendes is a Brazilian tech podcaster and journalist who has been closely following Apple since the mid-2000s.
 

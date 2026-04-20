@@ -11,7 +11,7 @@ description: Vite+ is the unified toolchain and entry point for web development.
 
 voidzero-dev
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork43
 * Star1.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -224,13 +224,13 @@ Install Vite+ globally asvp:
 
 For Linux or macOS:
 
-curl -fsSL https://vite.plus 
+curl -fsSL https://vite.plus
 |
  bash
 
 For Windows:
 
-irm https://viteplus.dev/install.ps1 
+irm https://viteplus.dev/install.ps1
 |
  iex
 
@@ -241,159 +241,159 @@ vphandles the full development lifecycle such as package management, development
 Vite+ can be configured using a singlevite.config.tsat the root of your project:
 
 import
- 
+
 {
- 
+
 defineConfig
- 
+
 }
- 
+
 from
- 
+
 'vite-plus'
 ;
 
 export
- 
+
 default
- 
+
 defineConfig
 (
 {
 
- 
+
 // Standard Vite configuration for dev/build/preview.
 
- 
+
 plugins
-: 
+:
 [
 ]
 ,
 
- 
+
 // Vitest configuration.
 
- 
+
 test
-: 
+:
 {
 
- 
+
 include
-: 
+:
 [
 'src/**/*.test.ts'
 ]
 ,
 
- 
+
 }
 ,
 
- 
+
 // Oxlint configuration.
 
- 
+
 lint
-: 
+:
 {
 
- 
+
 ignorePatterns
-: 
+:
 [
 'dist/**'
 ]
 ,
 
- 
+
 }
 ,
 
- 
+
 // Oxfmt configuration.
 
- 
+
 fmt
-: 
+:
 {
 
- 
+
 semi
-: 
+:
 true
 ,
 
- 
+
 singleQuote
-: 
+:
 true
 ,
 
- 
+
 }
 ,
 
- 
+
 // Vite Task configuration.
 
- 
+
 run
-: 
+:
 {
 
- 
+
 tasks
-: 
+:
 {
 
- 
+
 'generate:icons'
-: 
+:
 {
 
- 
+
 command
-: 
+:
 'node scripts/generate-icons.js'
 ,
 
- 
+
 envs
-: 
+:
 [
 'ICON_THEME'
 ]
 ,
 
- 
+
 }
 ,
 
- 
+
 }
 ,
 
- 
+
 }
 ,
 
- 
+
 // `vp staged` configuration.
 
- 
+
 staged
-: 
+:
 {
 
- 
+
 '*'
-: 
+:
 'vp check --fix'
 ,
 
- 
+
 }
 ,
 
@@ -475,24 +475,24 @@ vp migrate
 
 Use the officialsetup-vpaction to install Vite+ in GitHub Actions:
 
-- 
+-
 uses
-: 
+:
 voidzero-dev/setup-vp@v1
 
- 
+
 with
 :
- 
+
 node-version
-: 
+:
 '
 22
 '
 
- 
+
 cache
-: 
+:
 true
 
 #### Manual Installation & Migration
@@ -505,16 +505,16 @@ You need to add overrides to your package manager forviteandvitestso that other 
 
 "overrides"
 : {
- 
+
 "vite"
-: 
+:
 "
 npm:@voidzero-dev/vite-plus-core@latest
 "
 ,
- 
+
 "vitest"
-: 
+:
 "
 npm:@voidzero-dev/vite-plus-test@latest
 "
@@ -525,30 +525,30 @@ If you are usingpnpm, add this to yourpnpm-workspace.yaml:
 
 overrides
 :
- 
+
 vite
-: 
+:
 npm:@voidzero-dev/vite-plus-core@latest
 
- 
+
 vitest
-: 
+:
 npm:@voidzero-dev/vite-plus-test@latest
 
 Or, if you are using Yarn:
 
 "resolutions"
 : {
- 
+
 "vite"
-: 
+:
 "
 npm:@voidzero-dev/vite-plus-core@latest
 "
 ,
- 
+
 "vitest"
-: 
+:
 "
 npm:@voidzero-dev/vite-plus-test@latest
 "
@@ -565,56 +565,56 @@ viteplus.dev
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.4k
 
  stars
- 
+
 
 ### Watchers
 
 10
 
  watching
- 
+
 
 ### Forks
 
 43
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases62
 
@@ -622,11 +622,11 @@ vite-plus v0.1.11
 
  Latest
 
- 
+
 
 Mar 13, 2026
 
- 
+
 
 + 61 releases
 

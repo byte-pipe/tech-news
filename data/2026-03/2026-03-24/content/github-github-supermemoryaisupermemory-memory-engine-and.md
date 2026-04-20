@@ -11,7 +11,7 @@ description: Memory engine and app that is extremely fast, scalable. The Memory 
 
 supermemoryai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.8k
 * Star18.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -121,27 +121,27 @@ Your AI forgets everything between conversations. Supermemory fixes that.
 
 It automatically learns from conversations, extracts facts, builds user profiles, handles knowledge updates and contradictions, forgets expired information, and delivers the right context at the right time. Full RAG, connectors, file processing — the entire context stack, one system.
 
-🧠 
+🧠
 Memory
 
 Extracts facts from conversations. Handles temporal changes, contradictions, and automatic forgetting.
 
-👤 
+👤
 User Profiles
 
 Auto-maintained user context — stable facts + recent activity. One call, ~50ms.
 
-🔍 
+🔍
 Hybrid Search
 
 RAG + Memory in a single query. Knowledge base docs and personalized context together.
 
-🔌 
+🔌
 Connectors
 
 Google Drive · Gmail · Notion · OneDrive · GitHub — auto-sync with real-time webhooks.
 
-📄 
+📄
 Multi-modal Extractors
 
 PDFs, images (OCR), videos (transcription), code (AST-aware chunking). Upload and it works.
@@ -214,7 +214,7 @@ Search memories by query. Returns relevant memories + your user profile summary.
 
 context
 
-Injects your full profile (preferences, recent activity) into the conversation at start. In Cursor and Claude Code, just type 
+Injects your full profile (preferences, recent activity) into the conversation at start. In Cursor and Claude Code, just type
 /context
 .
 
@@ -239,15 +239,15 @@ The MCP server is open source —view the source.
 Add this to your MCP client config:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "supermemory"
 : {
- 
+
 "url"
-: 
+:
 "
 https://mcp.supermemory.ai/mcp
 "
@@ -259,25 +259,25 @@ https://mcp.supermemory.ai/mcp
 Or use an API key instead of OAuth:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "supermemory"
 : {
- 
+
 "url"
-: 
+:
 "
 https://mcp.supermemory.ai/mcp
 "
 ,
- 
+
 "headers"
 : {
- 
+
 "Authorization"
-: 
+:
 "
 Bearer sm_your_api_key_here
 "
@@ -293,29 +293,29 @@ If you're building AI agents or apps, Supermemory gives you the entire context s
 
 ### Install
 
-npm install supermemory 
+npm install supermemory
 #
  or: pip install supermemory
 
 ### Quickstart
 
 import
- 
+
 Supermemory
- 
+
 from
- 
+
 "supermemory"
 ;
 
 const
- 
+
 client
- 
+
 =
- 
+
 new
- 
+
 Supermemory
 (
 )
@@ -324,22 +324,22 @@ Supermemory
 // Store a conversation
 
 await
- 
+
 client
 .
 add
 (
 {
 
- 
+
 content
-: 
+:
 "User loves TypeScript and prefers functional patterns"
 ,
 
- 
+
 containerTag
-: 
+:
 "user_123"
 ,
 
@@ -350,32 +350,32 @@ containerTag
 // Get user profile + relevant memories in one call
 
 const
- 
+
 {
  profile
 ,
- searchResults 
+ searchResults
 }
- 
+
 =
- 
+
 await
- 
+
 client
 .
 profile
 (
 {
 
- 
+
 containerTag
-: 
+:
 "user_123"
 ,
 
- 
+
 q
-: 
+:
 "What programming style does the user prefer?"
 ,
 
@@ -390,17 +390,17 @@ q
 // searchResults → Relevant memories ranked by similarity
 
 from
- 
+
 supermemory
- 
+
 import
- 
+
 Supermemory
 
 client
- 
+
 =
- 
+
 Supermemory
 ()
 
@@ -408,12 +408,12 @@ client
 .
 add
 (
- 
+
 content
 =
 "User loves TypeScript and prefers functional patterns"
 ,
- 
+
 container_tag
 =
 "user_123"
@@ -421,9 +421,9 @@ container_tag
 )
 
 result
- 
+
 =
- 
+
 client
 .
 profile
@@ -431,7 +431,7 @@ profile
 container_tag
 =
 "user_123"
-, 
+,
 q
 =
 "programming style"
@@ -444,7 +444,7 @@ result
 profile
 .
 static
-) 
+)
 # Long-term facts
 
 print
@@ -454,7 +454,7 @@ result
 profile
 .
 dynamic
-) 
+)
 # Recent context
 
 Supermemory automatically extracts memories, builds user profiles, and returns relevant context. No embedding pipelines, no vector DB config, no chunking strategies.
@@ -466,24 +466,24 @@ Drop-in wrappers for every major AI framework:
 // Vercel AI SDK
 
 import
- 
+
 {
- 
+
 withSupermemory
- 
+
 }
- 
+
 from
- 
+
 "@supermemory/tools/ai-sdk"
 ;
 
 const
- 
+
 model
- 
+
 =
- 
+
 withSupermemory
 (
 openai
@@ -491,7 +491,7 @@ openai
 "gpt-4o"
 )
 ,
- 
+
 "user_123"
 )
 ;
@@ -499,42 +499,42 @@ openai
 // Mastra
 
 import
- 
+
 {
- 
+
 withSupermemory
- 
+
 }
- 
+
 from
- 
+
 "@supermemory/tools/mastra"
 ;
 
 const
- 
+
 agent
- 
+
 =
- 
+
 new
- 
+
 Agent
 (
 withSupermemory
 (
 config
 ,
- 
+
 "user-123"
 ,
- 
+
 {
- 
+
 mode
-: 
+:
 "full"
- 
+
 }
 )
 )
@@ -547,13 +547,13 @@ Vercel AI SDK·LangChain·LangGraph·OpenAI Agents SDK·Mastra·Agno·Claude Mem
 // Hybrid (default) — RAG + Memory in one query
 
 const
- 
+
 results
- 
+
 =
- 
+
 await
- 
+
 client
 .
 search
@@ -562,21 +562,21 @@ memories
 (
 {
 
- 
+
 q
-: 
+:
 "how do I deploy?"
 ,
 
- 
+
 containerTag
-: 
+:
 "user_123"
 ,
 
- 
+
 searchMode
-: 
+:
 "hybrid"
 ,
 
@@ -589,13 +589,13 @@ searchMode
 // Memories only
 
 const
- 
+
 results
- 
+
 =
- 
+
 await
- 
+
 client
 .
 search
@@ -604,21 +604,21 @@ memories
 (
 {
 
- 
+
 q
-: 
+:
 "user preferences"
 ,
 
- 
+
 containerTag
-: 
+:
 "user_123"
 ,
 
- 
+
 searchMode
-: 
+:
 "memories"
 ,
 
@@ -631,25 +631,25 @@ searchMode
 Traditional memory relies on search — you need to know what to ask for. Supermemory automatically maintains a profile for every user:
 
 const
- 
+
 {
- profile 
+ profile
 }
- 
+
 =
- 
+
 await
- 
+
 client
 .
 profile
 (
 {
- 
+
 containerTag
-: 
+:
 "user_123"
- 
+
 }
 )
 ;
@@ -808,64 +808,64 @@ supermemory.ai/docs
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 18.2k
 
  stars
- 
+
 
 ### Watchers
 
 81
 
  watching
- 
+
 
 ### Forks
 
 1.8k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors75
 

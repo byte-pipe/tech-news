@@ -1,7 +1,7 @@
 ---
 title: GitHub - deepseek-ai/DeepGEMM: DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling · GitHub
 url: https://github.com/deepseek-ai/DeepGEMM
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-18T11:36:40.692158

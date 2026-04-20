@@ -1,7 +1,7 @@
 ---
 title: GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injecto...
 url: https://github.com/msitarzewski/agency-agents
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-04T11:14:22.887865

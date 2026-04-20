@@ -16,26 +16,26 @@ tags:
 ---
 
 00:00
-	
+
 
 		00:00
-	
+
 
 Newgrounds
 
 Login
 
  /
- 
+
 Sign Up
 
-						Bill					
+						Bill
 
  FOLLOW
 
- 
 
- Bill Premo 
+
+ Bill Premo
 
 @Bill
 
@@ -52,22 +52,22 @@ Joined on 7/15/03
 * YouTube
 * Twitter
 
- 
+
 
 Level:
- 
+
 23
 
 Exp Points:
- 
+
 5,874 / 5,880
 
 Exp Rank:
 
-													9,047											
+													9,047
 
 Vote Power:
- 
+
 6.52 votes
 
 Art Scouts
@@ -80,7 +80,7 @@ Private
 
 Global Rank:
 
-													3,700											
+													3,700
 
 Blams:
 
@@ -95,26 +95,26 @@ B/P Bonus:
 18%
 
 Whistle:
- 
+
 Bronze
 
 Trophies:
- 
+
 60
- 
+
 Medals:
- 
+
 514
- 
+
 Supporter:
- 
+
 10y 9m 18d
- 
+
 Gear:
- 
+
 3
 
- 
+
 
 ## Building a new Flash
 
@@ -301,90 +301,90 @@ This is a brief run down of everything there's so much already and I'm constantl
 9. Zoom dropdown— Preset zoom levels including fit-to-stage and 100%.
 10. Color picker panel— Integrated color selection UI control.
 11. Width profile editor— Edit stroke centerline width curves visually.
- 
+
 
 Tags:
 
 * flash
 
-	575 
- 
+	575
+
 
 ## Log in to Comment
 
- 
+
 
 IvanAlmighty2026-03-03 21:28:57
 
 you aight white boy
 
- 
 
- 
+
+
 
 Bill2026-03-03 21:28:57
 
 best first comment
 
- 
 
- 
+
+
 
 squidly2026-03-03 21:42:21
 
 WOW this is incredible
 
- 
 
- 
+
+
 
 Bill2026-03-03 21:42:21
 
 thanks squidly!
 
- 
 
- 
+
+
 
 LeviRamirez2026-03-03 21:46:45
 
 very cool looking mr. premo!
 
- 
 
- 
+
+
 
 Bill2026-03-03 21:46:45
 
 :) thanks levi!
 
- 
 
- 
+
+
 
 nicolistheguy2026-03-03 21:55:25
 
 Lookin fresh
 
- 
 
- 
+
+
 
 OatmealPecheneg2026-03-03 21:58:17
 
 Good luck with it.In reality there is Krita and Blender can easy replace flash(paid option is ToonBoom), but they all have a confusing interface. (Even Krita, try to do 2d rig and some custom easing on keyframes to understand the pain and limitations). If you will able to do it user friendly it might be the goal.
 
- 
 
- 
+
+
 
 Emizip2026-03-03 22:38:35
 
 this is what we love to see fuck yea bill
 
- 
 
- 
+
+
 
 Ceejaythe630th2026-03-03 22:47:35
 
@@ -392,120 +392,120 @@ I don't know what compelled me to read this entire thing, but honestly I'm prett
 
 Considering what Adobe did earlier with them trying to shut down Animate, I sincerely hope that THIS could be the Adobe killer we need, assuming everything you described here comes to fruition. I might even use this myself when this gets completed because I used to have .fla files I made before I got blocked out by Creative Cloud. You also have my utmost respect for making this compatible for the three main OSs (Windows, Mac and Linux), since that's something you don't usually see very often. With both this and Ruffle, the future for Flash is starting to look better every day.
 
- 
 
- 
+
+
 
 Wriizzy2026-03-03 23:00:12
 
 Woah, this rocks
 
- 
 
- 
+
+
 
 CatMonTri2026-03-03 23:08:31
 
 Looks and sounds really cool, Bill!I hope it works out for getting a team and making it even better.
 
- 
 
- 
+
+
 
 atlaslovesedm87042026-03-03 23:25:26
 
 SQUIDWAAARD!!! FLASH HAD A BABY!!!
 
- 
 
- 
+
+
 
 midgetsausage2026-03-03 23:29:14
 
 bill i am gonna give u a big ol kiss. compatibility with .flas is all i need
 
- 
 
- 
+
+
 
 KingCrowned2026-03-03 23:29:53
 
 Very interesting 🐛
 
- 
 
- 
+
+
 
 GlitchyPSI2026-03-03 23:37:13
 
 yo. yo? holy shit, this looks wonderful
 
- 
 
- 
+
+
 
 GlitchyPSI2026-03-03 23:43:22
 
 really intrigued by the open source part, wonder if I could help with something
 
- 
 
- 
+
+
 
 NBS-Toons2026-03-04 00:02:49
 
 That’s looks fantastic, and also it’s will having ActionScript 1.0 and ActionScript 2.0 too?
 
- 
 
- 
+
+
 
 noodelz12026-03-04 00:02:49
 
 This is really cool! I'm also trying to write an swf writer in c but it only supports a few basic tags right now.
 
- 
 
- 
+
+
 
 MaxIsJoe2026-03-04 00:17:46
 
 Excited for Linux support
 
- 
 
- 
+
+
 
 KingMB-XJ2026-03-04 00:28:59
 
 If this is free and open source, my life is legally yours.
 
- 
 
- 
+
+
 
 GamerJamesey232026-03-04 00:32:00
 
 Holy shit, thanks bill :D
 
- 
 
- 
+
+
 
 JamesLee2026-03-04 00:32:22
 
 Dope as!
 
- 
+
 
 More Results
 
- 
+
 
 			©Copyright 1995-2026 Newgrounds, Inc. All rights reserved.
-			
+
 Privacy Policy
 
 			|
-			
+
 Terms of Use

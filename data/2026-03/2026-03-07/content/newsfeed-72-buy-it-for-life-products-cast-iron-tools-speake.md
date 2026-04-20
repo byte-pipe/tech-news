@@ -578,9 +578,9 @@ Sweetwater
 Photograph: Parker Hall
 An XLR Microphone
 Shure SM7B
-, 
+,
 SM58
-, and 
+, and
 SM57
 
 Some of the most revered microphones on earth are vintage tube mics from the 1940s that were made in Germany, which still regularly see use in the top studios on earth. But they’re not the only ones! Because microphones are relatively simple and durable, they’re also easy to repair. Classic mics like the Shure SM7B, Shure SM57, and SM58, and many, many others last for decades in studios and at home and barely depreciate in price on the used market for a reason. If you are looking toup your sound for podcasts, making music, or just work calls, buying a decent mic is a solid investment that will last you a long time. The SM7B is the mic you're likely familiar with from podcasters, with a crisp midrange that's great for the human voice. The other two, the SM57 and SM58, are iconic studio and stage workhorses that you'll see everywhere. They sound great, take a beating, and don't cost too much, but they're not quite as hi-fi as the more expensive vocal mic if you're singing or podcasting.
@@ -606,7 +606,7 @@ Triangle
 * College campuses are in upheavalover faculty ties to Epstein
 * Event:Helping small business owners succeed
 Parker Hall
- is a senior editor of product reviews at WIRED with over 10 years of experience. He focuses on audiovisual (A/V) and entertainment products. Parker is a graduate of the Oberlin Conservatory of Music, where he studied jazz drums with Billy Hart (Miles Davis, Herbie Hancock). Prior to WIRED, ... 
+ is a senior editor of product reviews at WIRED with over 10 years of experience. He focuses on audiovisual (A/V) and entertainment products. Parker is a graduate of the Oberlin Conservatory of Music, where he studied jazz drums with Billy Hart (Miles Davis, Herbie Hancock). Prior to WIRED, ...
 Read More
 Writer and Reviewer
 
@@ -634,7 +634,7 @@ It’s Time to Switch to Bamboo Sheets. Here’s Where to Start
 Bamboo makes some of the softest bedding you can find. Here’s how it’s made and how it’s different from cotton and linen bedding.
 Uncanny Valley
 : ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants
-In this episode of 
+In this episode of
 Uncanny Valley
 , our hosts dive into WIRED’s scoop about a secret Trump administration campaign extending right into your backyard.
 Peacock Promo Codes: 40% Off March 2026

@@ -15,7 +15,7 @@ tags:
 
 JuliusBrussee
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork11
 * Star579
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -242,48 +242,48 @@ MIT — free like mass mammoth on open plain.
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 579
 
  stars
- 
+
 
 ### Watchers
 
 1
 
  watching
- 
+
 
 ### Forks
 
 11
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases1
 
@@ -291,7 +291,7 @@ v1.0.0 — why use many token when few token do trick
 
  Latest
 
- 
+
 
 Apr 4, 2026
 
@@ -307,17 +307,17 @@ Apr 4, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors2
 

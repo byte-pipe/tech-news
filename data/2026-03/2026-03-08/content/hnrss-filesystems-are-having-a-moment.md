@@ -13,14 +13,14 @@ tags:
 
 # Filesystems are having a moment
 
- 
- 
+
+
 
 published: February 24, 2026
 
- 
- 
- 
+
+
+
 
 🌱 - A collection of sprouting thoughts.
 
@@ -94,10 +94,10 @@ I'll admit this is a bit idealistic. The history of open formats is littered wit
 
 But I keep coming back to something Dan Abramov wrote: our memories, our thoughts, our designsshouldoutlive the software we used to create them. That's not a technical argument. It's a values argument. And it's one that the filesystem, for all its age and simplicity, is uniquely positioned to serve. Not because it's the best technology. But because it's the one technology that already belongs to you.
 
- 
+
 
 ### Previous
 
- 
+
 
 			Gaps in your Developer journey; Can you fix it?

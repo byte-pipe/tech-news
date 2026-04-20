@@ -15,24 +15,24 @@ tags:
 
 Home→AI & Automation in CX
 
- 
+
 
 # Why Weak AI Governance Is the Biggest Risk in Enterprise Automation Today
 
 Why governance is the missing layer between AI ambition and safe, scalable enterprise automation
 
- 
+
 6
 
- 
+
 
 AI & Automation in CX
 Explainer
- 
+
 
 Published: April 8, 2026
 
- 
+
 
 Thomas Walker
 
@@ -172,71 +172,71 @@ AI risk management is the practice of identifying, measuring, and controlling AI
 
 An AI compliance framework is the set of mapped requirements that helps you prove AI controls meet laws, standards, and internal policies. It is essential because regulation is increasingly lifecycle-based, including expectations for monitoring and documented oversight in higher-risk systems.
 
- 
+
 
 Agentic AI
 Agentic AI in Customer Service​
 AI Agents
 Autonomous Agents
- 
+
 
 Featured
 
- 
+
 
 AI & Automation in CX
 
 Meta Introduces Muse Spark to Strengthen AI Across Its Products
 
- 
+
 
 AI & Automation in CX
 
 The Forrester Wave Says AI Will Run Customer Service, CX Leaders Need A New Operating Model
 
- 
+
 
 AI & Automation in CX
 
 How to Win Buy-In for Agentic AI Investments Across the Enterprise
 
- 
+
 
 AI & Automation in CX
 
 Twilio Lands Biggest Enterprise Deal Ever, Voice AI Up 60%
 
- 
+
 
 AI & Automation in CX
 
 The Smart SMB Play for CX: Transparent, Integrated, Practical AI
 
- 
+
 
 AI & Automation in CX
 
 Adobe Summit 2026: The Enterprise Playbook For AI-Driven Customer Orchestration
 
- 
+
 
 Share This Post
 
 Related
 
- 
+
 
 AI & Automation in CX
 
 Meta Introduces Muse Spark to Strengthen AI Across Its Products
 
- 
+
 
 AI & Automation in CX
 
 The Forrester Wave Says AI Will Run Customer Service, CX Leaders Need A New Operating Model
 
- 
+
 
 AI & Automation in CX
 

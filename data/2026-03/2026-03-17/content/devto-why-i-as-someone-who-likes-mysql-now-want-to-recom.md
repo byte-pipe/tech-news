@@ -87,14 +87,14 @@ In PostgreSQL, you can useINSERT/UPDATE/DELETE ... RETURNING. Because you can re
 For example, you can do this:
 
 INSERT
- 
+
 INTO
- 
+
 users
 (
 name
 ,
- 
+
 email
 )
 
@@ -102,21 +102,21 @@ VALUES
 (
 'catatsuy'
 ,
- 
+
 'catatsuy@example.com'
 )
 
 RETURNING
- 
+
 id
 ,
- 
+
 name
 ,
- 
+
 email
 ,
- 
+
 created_at
 ;
 
@@ -160,72 +160,72 @@ It is easy to create a small constant table on the spot, join with it, and conne
 For example, when you want to join a small number of values received from the application and update based on them, in PostgreSQL you can write:
 
 UPDATE
- 
+
 users
- 
+
 u
 
 SET
- 
+
 plan
- 
+
 =
- 
+
 v
 .
 plan
 
 FROM
- 
+
 (
 
- 
+
 VALUES
 
- 
+
 (
 1
 ,
- 
+
 'pro'
 ),
 
- 
+
 (
 2
 ,
- 
+
 'free'
 ),
 
- 
+
 (
 3
 ,
- 
+
 'team'
 )
 
 )
- 
+
 AS
- 
+
 v
 (
 id
 ,
- 
+
 plan
 )
 
 WHERE
- 
+
 u
 .
 id
- 
+
 =
- 
+
 v
 .
 id
@@ -242,56 +242,56 @@ For example, you may want to pass a small set of master-like values on the spot 
 As another example, it is also natural to treat a group of values received from the application as a join target:
 
 SELECT
- 
+
 u
 .
 *
 
 FROM
- 
+
 users
- 
+
 u
 
 JOIN
- 
+
 (
 
- 
+
 VALUES
 
- 
+
 (
 1
 ),
 
- 
+
 (
 2
 ),
 
- 
+
 (
 5
 )
 
 )
- 
+
 AS
- 
+
 v
 (
 id
 )
 
 ON
- 
+
 u
 .
 id
- 
+
 =
- 
+
 v
 .
 id
@@ -308,53 +308,53 @@ However, in MySQL you need to write it withROW(...), and if you leave column nam
 For example, in MySQL the same idea would look like this:
 
 SELECT
- 
+
 u
 .
 *
 
 FROM
- 
+
 users
- 
+
 u
 
 JOIN
- 
+
 (
 
- 
+
 VALUES
- 
+
 ROW
 (
 1
 ),
- 
+
 ROW
 (
 2
 ),
- 
+
 ROW
 (
 5
 )
 
 )
- 
+
 AS
- 
+
 v
 
 ON
- 
+
 u
 .
 id
- 
+
 =
- 
+
 v
 .
 column_0
@@ -379,88 +379,88 @@ However, in PostgreSQL, by combining them withWITHandUPDATE ... FROM, it is easy
 For example, if you want to set a flag only on the latest row for each user, you can write:
 
 WITH
- 
+
 ranked
- 
+
 AS
- 
+
 (
 
- 
+
 SELECT
 
- 
+
 id
 ,
 
- 
+
 ROW_NUMBER
 ()
- 
+
 OVER
 (
 PARTITION
- 
+
 BY
- 
+
 user_id
- 
+
 ORDER
- 
+
 BY
- 
+
 created_at
- 
+
 DESC
 )
- 
+
 AS
- 
+
 rn
 
- 
+
 FROM
- 
+
 sessions
 
 )
 
 UPDATE
- 
+
 sessions
- 
+
 s
 
 SET
- 
+
 is_latest
- 
+
 =
- 
+
 (
 r
 .
 rn
- 
+
 =
- 
+
 1
 )
 
 FROM
- 
+
 ranked
- 
+
 r
 
 WHERE
- 
+
 s
 .
 id
- 
+
 =
- 
+
 r
 .
 id
@@ -485,24 +485,24 @@ MySQL did not originally have it, and it is still missing now.
 PostgreSQL has partial indexes, and you can create an index only on some rows, such as withWHERE deleted_at IS NULL. This fits very well with soft delete patterns, and it is also useful for managing records by status.
 
 CREATE
- 
+
 INDEX
- 
+
 idx_users_active_email
 
 ON
- 
+
 users
 (
 email
 )
 
 WHERE
- 
+
 deleted_at
- 
+
 IS
- 
+
 NULL
 ;
 
@@ -535,78 +535,78 @@ In PostgreSQL, foreign keys can be madeDEFERRABLE.
 This is extremely important.
 
 CREATE
- 
+
 TABLE
- 
+
 authors
- 
+
 (
 
- 
+
 id
- 
+
 bigint
- 
+
 PRIMARY
- 
+
 KEY
 
 );
 
 CREATE
- 
+
 TABLE
- 
+
 books
- 
+
 (
 
- 
+
 id
- 
+
 bigint
- 
+
 PRIMARY
- 
+
 KEY
 ,
 
- 
+
 author_id
- 
+
 bigint
- 
+
 NOT
- 
+
 NULL
 ,
 
- 
+
 CONSTRAINT
- 
+
 books_author_fk
 
- 
+
 FOREIGN
- 
+
 KEY
 (
 author_id
 )
 
- 
+
 REFERENCES
- 
+
 authors
 (
 id
 )
 
- 
+
 DEFERRABLE
- 
+
 INITIALLY
- 
+
 DEFERRED
 
 );
@@ -621,34 +621,34 @@ BEGIN
 ;
 
 INSERT
- 
+
 INTO
- 
+
 books
 (
 id
 ,
- 
+
 author_id
 )
- 
+
 VALUES
 (
 1
 ,
- 
+
 100
 );
 
 INSERT
- 
+
 INTO
- 
+
 authors
 (
 id
 )
- 
+
 VALUES
 (
 100
@@ -697,40 +697,40 @@ In MySQL, you can disable constraints withforeign_key_checks=0.
 This looks convenient, but it is quite dangerous.
 
 SET
- 
+
 foreign_key_checks
- 
+
 =
- 
+
 0
 ;
 
 INSERT
- 
+
 INTO
- 
+
 books
 (
 id
 ,
- 
+
 author_id
 )
- 
+
 VALUES
 (
 1
 ,
- 
+
 999
 );
 
 SET
- 
+
 foreign_key_checks
- 
+
 =
- 
+
 1
 ;
 
@@ -755,78 +755,78 @@ This difference is quite large.
 For example, consider an ordinary pair of tables with a parent-child relationship.
 
 CREATE
- 
+
 TABLE
- 
+
 users
- 
+
 (
 
- 
+
 id
- 
+
 bigint
- 
+
 PRIMARY
- 
+
 KEY
 
 );
 
 CREATE
- 
+
 TABLE
- 
+
 orders
- 
+
 (
 
- 
+
 id
- 
+
 bigint
- 
+
 PRIMARY
- 
+
 KEY
 ,
 
- 
+
 user_id
- 
+
 bigint
- 
+
 NOT
- 
+
 NULL
 ,
 
- 
+
 CONSTRAINT
- 
+
 orders_user_fk
 
- 
+
 FOREIGN
- 
+
 KEY
 (
 user_id
 )
 
- 
+
 REFERENCES
- 
+
 users
 (
 id
 )
 
- 
+
 DEFERRABLE
- 
+
 INITIALLY
- 
+
 DEFERRED
 
 );
@@ -841,34 +841,34 @@ BEGIN
 ;
 
 INSERT
- 
+
 INTO
- 
+
 orders
 (
 id
 ,
- 
+
 user_id
 )
- 
+
 VALUES
 (
 10
 ,
- 
+
 1
 );
 
 INSERT
- 
+
 INTO
- 
+
 users
 (
 id
 )
- 
+
 VALUES
 (
 1
@@ -962,7 +962,7 @@ That is not because MySQL is bad.
 It is because even now, after many of its old weaknesses have been filled in, I still think PostgreSQL has an advantage when it comes to ease of application implementation.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

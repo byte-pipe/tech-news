@@ -18,21 +18,21 @@ tags:
 
 * Daniele Molteni
 8 min read
-This post is also available in 
+This post is also available in
 简体中文
-, 
+,
 Français
-, 
+,
 Deutsch
-, 
+,
 日本語
-, 
+,
 한국어
-, 
+,
 Português
-, 
+,
 Español
- and 
+ and
 繁體中文
 .
 
@@ -132,29 +132,29 @@ Enterprise customers on the Application Security Advanced offering can immediate
 
 Cloudflare is one of the first security providers launching a set oftools to secure AI applications. Using Firewall for AI, customers can control what prompts and requests reach their language models, reducing the risk of abuses and data exfiltration. Stay tuned to learn more about how AI application security is evolving.
 
-Cloudflare's connectivity cloud protects 
+Cloudflare's connectivity cloud protects
 entire corporate networks
-, helps customers build 
+, helps customers build
 Internet-scale applications efficiently
-, accelerates any 
+, accelerates any
 website or Internet application
-, 
+,
 wards off DDoS attacks
-, keeps 
+, keeps
 hackers at bay
-, and can help you on 
+, and can help you on
 your journey to Zero Trust
 .
-Visit 
+Visit
 1.1.1.1
  from any device to get started with our free app that makes your Internet faster and safer.
-To learn more about our mission to help build a better Internet, 
+To learn more about our mission to help build a better Internet,
 start here
-. If you're looking for a new career direction, check out 
+. If you're looking for a new career direction, check out
 our open positions
 .
- 
- 
+
+
 Security Week
 AI
 Security

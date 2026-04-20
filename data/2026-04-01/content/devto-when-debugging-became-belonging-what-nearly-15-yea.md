@@ -54,7 +54,7 @@ For me, that journey did not stop at surviving hard moments in code. Over time, 
 ## User Niels - Stack Overflow
 
  stackoverflow.com
- 
+
 
 My profile still describes the same practical mix of technologies and the same instinct to help others that shaped me early on.
 
@@ -79,81 +79,81 @@ The challenge: Electron apps typically need a separate backend process, requirin
 // frontend/main.js
 
 function
- 
+
 startEmbeddedBackend
 ()
- 
+
 {
 
- 
+
 try
- 
+
 {
 
- 
+
 process
 .
 env
 .
 PORT
- 
+
 =
- 
+
 '
 3000
 '
 ;
 
- 
+
 const
- 
+
 isDev
- 
+
 =
- 
+
 !
 app
 .
 isPackaged
 ;
 
- 
+
 const
- 
+
 envPath
- 
+
 =
- 
+
 isDev
 
- 
+
 ?
- 
+
 path
 .
 join
 (
 __dirname
 ,
- 
+
 '
 ..
 '
 ,
- 
+
 '
 backend
 '
 ,
- 
+
 '
 .env
 '
 )
 
- 
+
 :
- 
+
 path
 .
 join
@@ -162,18 +162,18 @@ process
 .
 resourcesPath
 ,
- 
+
 '
 backend
 '
 ,
- 
+
 '
 .env
 '
 );
 
- 
+
 require
 (
 '
@@ -182,51 +182,51 @@ dotenv
 ).
 config
 ({
- 
+
 path
 :
- 
+
 envPath
- 
+
 });
 
- 
+
 const
- 
+
 serverPath
- 
+
 =
- 
+
 isDev
 
- 
+
 ?
- 
+
 path
 .
 join
 (
 __dirname
 ,
- 
+
 '
 ..
 '
 ,
- 
+
 '
 backend
 '
 ,
- 
+
 '
 server.js
 '
 )
 
- 
+
 :
- 
+
 path
 .
 join
@@ -235,24 +235,24 @@ process
 .
 resourcesPath
 ,
- 
+
 '
 backend
 '
 ,
- 
+
 '
 server.js
 '
 );
 
- 
+
 require
 (
 serverPath
 );
 
- 
+
 console
 .
 log
@@ -262,17 +262,17 @@ Backend server started on port 3000
 '
 );
 
- 
+
 }
- 
-catch 
+
+catch
 (
 err
 )
- 
+
 {
 
- 
+
 console
 .
 error
@@ -281,13 +281,13 @@ error
 Backend failed to start:
 '
 ,
- 
+
 err
 .
 message
 );
 
- 
+
 }
 
 }
@@ -298,18 +298,18 @@ whenReady
 ().
 then
 (()
- 
+
 =>
- 
+
 {
 
- 
+
 startEmbeddedBackend
 ();
- 
+
 // server starts before window opens
 
- 
+
 createWindow
 ();
 
@@ -326,136 +326,136 @@ Building a single portable .exe
 The challenge: packaging an Electron app with an embedded Express backend — including all backendnode_modules— into one file that runs without installation.
 
 //
- 
+
 frontend/package.json
- 
+
 (build
- 
+
 config)
 
 "build"
 :
- 
+
 {
 
- 
+
 "win"
 :
- 
+
 {
 
- 
+
 "target"
 :
- 
+
 [{
- 
+
 "target"
 :
- 
+
 "portable"
 ,
- 
+
 "arch"
 :
- 
+
 [
 "x64"
 ]
- 
+
 }],
 
- 
+
 "icon"
 :
- 
+
 "icon.ico"
 ,
 
- 
+
 "signAndEditExecutable"
 :
- 
+
 false
 
- 
+
 },
 
- 
+
 "extraResources"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "from"
 :
- 
+
 "../backend"
 ,
 
- 
+
 "to"
 :
- 
+
 "backend"
 ,
 
- 
+
 "filter"
 :
- 
+
 [
 "**/*"
 ,
- 
+
 "!*.log"
 ]
 
- 
+
 }
 
- 
+
 ],
 
- 
+
 "files"
 :
- 
+
 [
 
- 
+
 "**/*"
 ,
 
- 
+
 "!node_modules/.cache"
 ,
 
- 
+
 "!**/*.map"
 ,
 
- 
+
 "!**/*.md"
 
- 
+
 ],
 
- 
+
 "directories"
 :
- 
+
 {
- 
+
 "output"
 :
- 
+
 "../dist"
- 
+
 }
 
 }
@@ -475,50 +475,50 @@ The challenge:electron-builderdownloadswinCodeSign-2.6.0.7zwhich contains macOS 
 // app-builder-lib/out/binDownload.js (patched)
 
 function
- 
+
 doGetBin
 (
 name
 ,
- 
+
 url
 ,
- 
+
 checksum
 )
- 
+
 {
 
- 
+
 // winCodeSign archive contains macOS symlinks that fail to extract
 
- 
+
 // on Windows without Developer Mode. Return the already-extracted
 
- 
+
 // cache folder directly to skip the download+extract entirely.
 
- 
-if 
+
+if
 (
 name
- 
+
 ===
- 
+
 '
 winCodeSign
 '
 )
- 
+
 {
 
- 
+
 const
- 
+
 path
- 
+
 =
- 
+
 require
 (
 '
@@ -526,13 +526,13 @@ path
 '
 );
 
- 
+
 const
- 
+
 os
- 
+
 =
- 
+
 require
 (
 '
@@ -540,22 +540,22 @@ os
 '
 );
 
- 
+
 const
- 
+
 cacheBase
- 
+
 =
- 
+
 process
 .
 env
 .
 ELECTRON_BUILDER_CACHE
 
- 
+
 ||
- 
+
 path
 .
 join
@@ -564,87 +564,87 @@ os
 .
 homedir
 (),
- 
+
 '
 AppData
 '
 ,
- 
+
 '
 Local
 '
 ,
 
- 
+
 '
 electron-builder
 '
 ,
- 
+
 '
 Cache
 '
 );
 
- 
+
 return
- 
+
 Promise
 .
 resolve
 (
 
- 
+
 path
 .
 join
 (
 cacheBase
 ,
- 
+
 '
 winCodeSign
 '
 ,
- 
+
 '
 014093675
 '
 )
 
- 
+
 );
 
- 
+
 }
 
- 
+
 const
- 
+
 args
- 
+
 =
- 
+
 [
 '
 download-artifact
 '
 ,
- 
+
 '
 --name
 '
 ,
- 
+
 name
 ];
 
- 
-if 
+
+if
 (
 url
 )
- 
+
 args
 .
 push
@@ -653,16 +653,16 @@ push
 --url
 '
 ,
- 
+
 url
 );
 
- 
-if 
+
+if
 (
 checksum
 )
- 
+
 args
 .
 push
@@ -671,13 +671,13 @@ push
 --sha512
 '
 ,
- 
+
 checksum
 );
 
- 
+
 return
- 
+
 executeAppBuilder
 (
 args
@@ -698,63 +698,63 @@ The challenge: Dev.to API has rate limits. Every page load hitting the API direc
 // backend/server.js
 
 class
- 
+
 LRUCache
- 
+
 {
 
- 
+
 constructor
 (
 maxSize
- 
+
 =
- 
+
 CACHE_MAX
 )
- 
+
 {
 
- 
+
 this
 .
 _store
- 
+
 =
- 
+
 new
- 
+
 Map
 ();
 
- 
+
 this
 .
 _maxSize
- 
+
 =
- 
+
 maxSize
 ;
 
- 
+
 }
 
- 
+
 get
 (
 key
 )
- 
+
 {
 
- 
+
 const
- 
+
 entry
- 
+
 =
- 
+
 this
 .
 _store
@@ -764,35 +764,35 @@ get
 key
 );
 
- 
-if 
+
+if
 (
 !
 entry
 )
- 
+
 return
- 
+
 null
 ;
 
- 
-if 
+
+if
 (
 Date
 .
 now
 ()
- 
+
 >
- 
+
 entry
 .
 exp
 )
- 
+
 {
- 
+
 this
 .
 _store
@@ -801,18 +801,18 @@ delete
 (
 key
 );
- 
+
 return
- 
+
 null
 ;
- 
+
 }
 
- 
+
 // LRU: delete and re-insert to move to end of Map iteration order
 
- 
+
 this
 .
 _store
@@ -822,7 +822,7 @@ delete
 key
 );
 
- 
+
 this
 .
 _store
@@ -831,52 +831,52 @@ set
 (
 key
 ,
- 
+
 entry
 );
 
- 
+
 return
- 
+
 entry
 .
 data
 ;
 
- 
+
 }
 
- 
+
 set
 (
 key
 ,
- 
+
 data
 ,
- 
+
 ttl
 )
- 
+
 {
 
- 
-if 
+
+if
 (
 this
 .
 _store
 .
 size
- 
+
 >=
- 
+
 this
 .
 _maxSize
- 
+
 &&
- 
+
 !
 this
 .
@@ -886,13 +886,13 @@ has
 (
 key
 ))
- 
+
 {
 
- 
+
 // evict the oldest entry (first key in Map)
 
- 
+
 this
 .
 _store
@@ -910,10 +910,10 @@ next
 value
 );
 
- 
+
 }
 
- 
+
 this
 .
 _store
@@ -922,46 +922,46 @@ set
 (
 key
 ,
- 
+
 {
- 
+
 data
 ,
- 
+
 exp
 :
- 
+
 Date
 .
 now
 ()
- 
+
 +
- 
+
 ttl
- 
+
 });
 
- 
+
 }
 
- 
+
 invalidatePattern
 (
 pattern
 )
- 
+
 {
 
- 
+
 const
- 
+
 re
- 
+
 =
- 
+
 new
- 
+
 RegExp
 (
 pattern
@@ -972,32 +972,32 @@ replace
 \*
 /g
 ,
- 
+
 '
 .*
 '
 ));
 
- 
-for 
+
+for
 (
 const
- 
+
 k
- 
+
 of
- 
+
 this
 .
 _store
 .
 keys
 ())
- 
+
 {
 
- 
-if 
+
+if
 (
 re
 .
@@ -1005,7 +1005,7 @@ test
 (
 k
 ))
- 
+
 this
 .
 _store
@@ -1015,10 +1015,10 @@ delete
 k
 );
 
- 
+
 }
 
- 
+
 }
 
 }
@@ -1058,27 +1058,27 @@ The challenge: network calls to Dev.to can fail transiently. Retrying immediatel
 // backend/server.js
 
 const
- 
+
 devtoAxios
- 
+
 =
- 
+
 axios
 .
 create
 ({
 
- 
+
 baseURL
 :
- 
+
 API_BASE
 ,
 
- 
+
 timeout
 :
- 
+
 parseInt
 (
 process
@@ -1086,36 +1086,36 @@ process
 env
 .
 DEVTO_TIMEOUT
- 
+
 ||
- 
+
 '
 10000
 '
 ,
- 
+
 10
 ),
 
- 
+
 headers
 :
- 
+
 {
- 
+
 '
 Content-Type
 '
 :
- 
+
 '
 application/json
 '
 ,
- 
+
 ...
 API_HEADERS
- 
+
 },
 
 });
@@ -1131,21 +1131,21 @@ request
 use
 (
 cfg
- 
+
 =>
- 
+
 {
 
- 
-if 
+
+if
 (
 cfg
 .
 _apiKey
 )
- 
+
 {
- 
+
 cfg
 .
 headers
@@ -1154,276 +1154,276 @@ headers
 api-key
 '
 ]
- 
+
 =
- 
+
 cfg
 .
 _apiKey
 ;
- 
+
 delete
- 
+
 cfg
 .
 _apiKey
 ;
- 
+
 }
 
- 
+
 return
- 
+
 cfg
 ;
 
 });
 
 async
- 
+
 function
- 
+
 withRetry
 (
 fn
 ,
- 
+
 retries
- 
+
 =
- 
+
 RETRY_COUNT
 ,
- 
+
 delay
- 
+
 =
- 
+
 RETRY_DELAY
 )
- 
+
 {
 
- 
+
 let
- 
+
 last
 ;
 
- 
-for 
+
+for
 (
 let
- 
+
 i
- 
+
 =
- 
+
 0
 ;
- 
+
 i
- 
+
 <=
- 
+
 retries
 ;
- 
+
 i
 ++
 )
- 
+
 {
 
- 
+
 try
- 
+
 {
- 
+
 return
- 
+
 await
- 
+
 fn
 ();
- 
+
 }
 
- 
-catch 
+
+catch
 (
 e
 )
- 
+
 {
 
- 
+
 last
- 
+
 =
- 
+
 e
 ;
 
- 
+
 // never retry client errors — they won't succeed on retry
 
- 
-if 
+
+if
 (
 e
 .
 status
- 
+
 &&
- 
+
 e
 .
 status
- 
+
 >=
- 
+
 400
- 
+
 &&
- 
+
 e
 .
 status
- 
+
 <
- 
+
 500
 )
- 
+
 throw
- 
+
 e
 ;
 
- 
-if 
+
+if
 (
 i
- 
+
 <
- 
+
 retries
 )
- 
+
 await
- 
+
 sleep
 (
 delay
- 
+
 *
- 
+
 Math
 .
 pow
 (
 2
 ,
- 
+
 i
 ));
- 
+
 // 500ms, 1s, 2s
 
- 
+
 }
 
- 
+
 }
 
- 
+
 throw
- 
+
 last
 ;
 
 }
 
 async
- 
+
 function
- 
+
 devtoGet
 (
 url
 ,
- 
+
 params
- 
+
 =
- 
+
 {},
- 
+
 apiKey
- 
+
 =
- 
+
 null
 )
- 
+
 {
 
- 
+
 return
- 
+
 withRetry
 (()
- 
+
 =>
 
- 
+
 devtoAxios
 .
 get
 (
 url
 ,
- 
+
 {
 
- 
+
 params
 ,
 
- 
+
 ...(
 apiKey
- 
+
 ?
- 
+
 {
- 
+
 _apiKey
 :
- 
+
 apiKey
- 
+
 }
- 
+
 :
- 
+
 {}),
 
- 
+
 }).
 then
 (
 r
- 
+
 =>
- 
+
 r
 .
 data
 )
 
- 
+
 );
 
 }
@@ -1441,177 +1441,177 @@ The challenge: the app needs user accounts (to save API keys, bookmarks, etc.) b
 // backend/server.js
 
 let
- 
+
 _supabase
- 
+
 =
- 
+
 null
 ;
 
 function
- 
+
 getSupabase
 ()
- 
+
 {
 
- 
-if 
+
+if
 (
 _supabase
 )
- 
+
 return
- 
+
 _supabase
 ;
 
- 
-if 
+
+if
 (
 !
 SUPABASE_URL
- 
+
 ||
- 
+
 !
 SUPABASE_KEY
 )
- 
+
 return
- 
+
 null
 ;
- 
+
 // graceful degradation
 
- 
+
 _supabase
- 
+
 =
- 
+
 createClient
 (
 SUPABASE_URL
 ,
- 
+
 SUPABASE_KEY
 ,
- 
+
 {
 
- 
+
 auth
 :
- 
+
 {
- 
+
 autoRefreshToken
 :
- 
+
 false
 ,
- 
+
 persistSession
 :
- 
+
 false
- 
+
 },
 
- 
+
 });
 
- 
+
 return
- 
+
 _supabase
 ;
 
 }
 
 async
- 
+
 function
- 
+
 authLogin
 (
 req
 ,
- 
+
 res
 )
- 
+
 {
 
- 
+
 const
- 
+
 {
- 
+
 email
 ,
- 
+
 password
- 
+
 }
- 
+
 =
- 
+
 req
 .
 body
 ;
 
- 
+
 const
- 
+
 sb
- 
+
 =
- 
+
 getSupabase
 ();
 
- 
-if 
+
+if
 (
 !
 sb
 )
- 
+
 return
- 
+
 sendUnavail
 (
 res
 ,
- 
+
 '
 Database not configured
 '
 );
 
- 
+
 const
- 
+
 {
- 
+
 data
 :
- 
+
 user
- 
+
 }
- 
+
 =
- 
+
 await
- 
+
 sb
 
- 
+
 .
 from
 (
@@ -1620,7 +1620,7 @@ users
 '
 )
 
- 
+
 .
 select
 (
@@ -1629,7 +1629,7 @@ id, username, email, password_hash, devto_api_key
 '
 )
 
- 
+
 .
 eq
 (
@@ -1637,7 +1637,7 @@ eq
 email
 '
 ,
- 
+
 email
 .
 toLowerCase
@@ -1645,80 +1645,80 @@ toLowerCase
 trim
 ())
 
- 
+
 .
 single
 ();
 
- 
-if 
+
+if
 (
 !
 user
 )
- 
+
 return
- 
+
 sendError
 (
 res
 ,
- 
+
 HTTP_UNAUTH
 ,
- 
+
 '
 Invalid email or password
 '
 );
 
- 
+
 const
- 
+
 valid
- 
+
 =
- 
+
 await
- 
+
 bcrypt
 .
 compare
 (
 password
 ,
- 
+
 user
 .
 password_hash
 );
 
- 
-if 
+
+if
 (
 !
 valid
 )
- 
+
 return
- 
+
 sendError
 (
 res
 ,
- 
+
 HTTP_UNAUTH
 ,
- 
+
 '
 Invalid email or password
 '
 );
 
- 
+
 // fire-and-forget — don't block the login response
 
- 
+
 sb
 .
 from
@@ -1728,24 +1728,24 @@ users
 '
 )
 
- 
+
 .
 update
 ({
- 
+
 last_login
 :
- 
+
 new
- 
+
 Date
 ().
 toISOString
 ()
- 
+
 })
 
- 
+
 .
 eq
 (
@@ -1753,47 +1753,47 @@ eq
 id
 '
 ,
- 
+
 user
 .
 id
 )
 
- 
+
 .
 then
 (()
- 
+
 =>
- 
+
 {}).
 catch
 (()
- 
+
 =>
- 
+
 {});
 
- 
+
 return
- 
+
 sendOk
 (
 res
 ,
- 
+
 {
- 
+
 token
 :
- 
+
 buildUserToken
 (
 user
 ),
- 
+
 user
- 
+
 });
 
 }
@@ -1811,20 +1811,20 @@ The challenge: refactoring introduced a{ success, data }wrapper around all respo
 // BROKEN — frontend does data.filter(...) which fails on { success, data }
 
 function
- 
+
 ok
 (
 res
 ,
- 
+
 data
 )
- 
+
 {
 
- 
+
 return
- 
+
 res
 .
 status
@@ -1833,15 +1833,15 @@ status
 ).
 json
 ({
- 
+
 success
 :
- 
+
 true
 ,
- 
+
 data
- 
+
 });
 
 }
@@ -1849,20 +1849,20 @@ data
 // FIXED — return raw data, frontend gets the array directly
 
 function
- 
+
 ok
 (
 res
 ,
- 
+
 data
 )
- 
+
 {
 
- 
+
 return
- 
+
 res
 .
 status
@@ -1879,23 +1879,23 @@ data
 // Error shape stays as { error: '...' } — frontend checks data.error
 
 function
- 
+
 sendError
 (
 res
 ,
- 
+
 status
 ,
- 
+
 msg
 )
- 
+
 {
 
- 
+
 return
- 
+
 res
 .
 status
@@ -1904,12 +1904,12 @@ status
 ).
 json
 ({
- 
+
 error
 :
- 
+
 msg
- 
+
 });
 
 }
@@ -1917,50 +1917,50 @@ msg
 // frontend/js/api.js (unchanged — this is what it expects)
 
 async
- 
+
 function
- 
+
 cachedFetch
 (
 url
 ,
- 
+
 ttl
- 
+
 =
- 
+
 60000
 )
- 
+
 {
 
- 
+
 const
- 
+
 res
- 
+
 =
- 
+
 await
- 
+
 fetch
 (
 url
 );
 
- 
-if 
+
+if
 (
 !
 res
 .
 ok
 )
- 
+
 throw
- 
+
 new
- 
+
 Error
 (
 `
@@ -1972,53 +1972,53 @@ status
 `
 );
 
- 
+
 const
- 
+
 data
- 
+
 =
- 
+
 await
- 
+
 res
 .
 json
 ();
 
- 
+
 // data is used directly as array — no .data unwrapping
 
- 
+
 fetchCache
 .
 set
 (
 url
 ,
- 
+
 {
- 
+
 data
 ,
- 
+
 exp
 :
- 
+
 Date
 .
 now
 ()
- 
+
 +
- 
+
 ttl
- 
+
 });
 
- 
+
 return
- 
+
 data
 ;
 
@@ -2033,63 +2033,63 @@ The lesson: when adding a backend in front of an existing frontend, match the ex
 ReferenceError from temporal dead zone
 
 The
- 
+
 challenge
 :
- 
+
 `server.js`
- 
+
 grew
- 
+
 to
- 
+
 1200
 +
- 
+
 lines
- 
+
 with
- 
+
 code
- 
+
 added
- 
+
 in
- 
+
 different
- 
+
 sections
 .
- 
+
 `app.use(loggerHelper.logRequest)`
- 
+
 was
- 
+
 placed
- 
+
 at
- 
+
 line
- 
+
 284
- 
+
 during
- 
+
 an
- 
+
 edit
 ,
- 
+
 but
- 
+
 `const app = express()`
- 
+
 was
- 
+
 at
- 
+
 line
- 
+
 991
 .
 
@@ -2111,11 +2111,11 @@ logRequest
 // line 991 — app is declared here
 
 const
- 
+
 app
- 
+
 =
- 
+
 express
 ();
 
@@ -2125,9 +2125,9 @@ use
 (
 cors
 ({
- 
+
 ...
- 
+
 }));
 
 app
@@ -2138,14 +2138,14 @@ express
 .
 json
 ({
- 
+
 limit
 :
- 
+
 '
 1mb
 '
- 
+
 }));
 
 app
@@ -2156,12 +2156,12 @@ express
 .
 urlencoded
 ({
- 
+
 extended
 :
- 
+
 false
- 
+
 }));
 
 app
@@ -2179,7 +2179,7 @@ loggerHelper
 .
 logRequest
 );
- 
+
 // FIXED: moved here, after app exists
 
 Enter fullscreen mode
@@ -2283,7 +2283,7 @@ Build Tool
 
 electron-builder
 
-Portable single 
+Portable single
 .exe
  packaging, extraResources bundling
 
@@ -2319,7 +2319,7 @@ Check cache → miss → fetch API → populate cache → return
 
 Exponential back-off retry
 
-Transient failures retried with 
+Transient failures retried with
 delay * 2^attempt
 , 4xx never retried
 
@@ -2337,7 +2337,7 @@ Auth, logging, validation, error handling as independent Express middleware
 
 Build pipeline patching
 
-Patched 
+Patched
 binDownload.js
  in 3 locations to bypass Windows symlink restriction
 
@@ -2349,15 +2349,15 @@ Root Cause
 
 Solution
 
-Single 
+Single
 .exe
  with embedded backend
 
 node_modules
- excluded from 
+ excluded from
 extraResources
 
-Removed 
+Removed
 !node_modules/**
  filter in build config
 
@@ -2366,14 +2366,14 @@ Build fails on Windows
 winCodeSign
  archive contains macOS symlinks
 
-Patched 
+Patched
 doGetBin()
- + 
+ +
 signAndEditExecutable: false
 
 "Unexpected response" on all pages
 
-Response wrapped in 
+Response wrapped in
 { success, data }
  envelope
 
@@ -2382,10 +2382,10 @@ Returned raw data — matched existing frontend contract
 ReferenceError: Cannot access 'app'
 
 app.use()
- called before 
+ called before
 const app = express()
 
-Moved all 
+Moved all
 app.use()
  calls after app initialization
 
@@ -2417,12 +2417,12 @@ Refactored into 6 layers, 20+ files
 
 Backend path wrong in packaged app
 
-Dev path 
+Dev path
 ../backend
  invalid after packaging
 
 process.resourcesPath
- used in production, 
+ used in production,
 __dirname
  in dev
 
@@ -2460,7 +2460,7 @@ Run locally
 
 git clone https://github.com/wvalencs/devTo-electron.git
 
-cd 
+cd
 devTo-electron
 
 Enter fullscreen mode
@@ -2471,13 +2471,13 @@ Exit fullscreen mode
 
 Install dependencies for both the frontend and backend parts of the project.
 
-cd 
+cd
 backend
-npm 
+npm
 install
 cd
  ../frontend
-npm 
+npm
 install
 
 Enter fullscreen mode
@@ -2488,11 +2488,11 @@ Exit fullscreen mode
 
 Run the Electron frontend, which will start the embedded backend automatically.
 
-cd 
+cd
 backend
 npm start
 
-cd 
+cd
 frontend
 npm start
 
@@ -2504,7 +2504,7 @@ Exit fullscreen mode
 
 To generate the portable desktop app:
 
-cd 
+cd
 frontend
 npm run build
 
@@ -2517,7 +2517,7 @@ After the build is complete, the packaged app will be available in the dist fold
 If you want, next I can turn this into a true Dev.to-ready version with a stronger hook, cleaner section headers, and final tags.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -2528,7 +2528,7 @@ Preview
 Dismiss
 
  View full discussion (97 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

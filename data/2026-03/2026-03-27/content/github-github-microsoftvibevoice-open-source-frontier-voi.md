@@ -11,7 +11,7 @@ description: Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice de
 
 microsoft
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork2.7k
 * Star24.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -242,66 +242,66 @@ microsoft.github.io/VibeVoice/
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 24.4k
 
  stars
- 
+
 
 ### Watchers
 
 152
 
  watching
- 
+
 
 ### Forks
 
 2.7k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -319,17 +319,17 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -337,9 +337,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

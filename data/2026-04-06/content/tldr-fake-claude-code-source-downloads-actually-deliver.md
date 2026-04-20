@@ -15,7 +15,7 @@ tags:
 
 # They thought they were downloading Claude Code source. They got a nasty dose of malware instead
 
- 
+
 
 ## Source code with a side of Vidar stealer and GhostSocks
 
@@ -44,10 +44,10 @@ Both of these illustrate how quickly criminals move to take a buzzy new product 
 
 The blog also includes a list of indicators of compromise, including the GitHub repositories with the trojanized Claude Code leak and malware hashes to help defenders in their threat-hunting efforts, so be sure to check that out - and, as always, be careful what you download. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

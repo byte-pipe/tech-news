@@ -64,7 +64,7 @@ Bugonia actor Jesse Plemons
 Getty Images
 Weapons star and supporting actress winner Amy Madigan
 Getty Images
-Paul Mescal plays William Shakespeare in Hamnet 
+Paul Mescal plays William Shakespeare in Hamnet
 Getty Images
 Bugonia star and previous best actress winner Emma Stone
 Getty Images

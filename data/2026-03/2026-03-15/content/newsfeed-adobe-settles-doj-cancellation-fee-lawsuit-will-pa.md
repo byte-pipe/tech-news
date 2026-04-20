@@ -39,19 +39,19 @@ In addition to giving the government its pound of flesh, Adobe says it will prov
 Don’t expect this outcome to change how Adobe does business today. The company claims it has rolled out changes to its sales pipeline in recent years to make the cancellation fees clearer at the time of purchase. And it’s undoubtedly going to continue focusing on subscriptions. Revenues have been growing steadily ever since it switched to Creative Cloud, and it made more than $7 billion in net profit last year. Writing a $75 million check to make this case go away is a big win for Adobe.
 
  Ryan Whitwam
- 
+
 
 Senior Technology Reporter
 
  Ryan Whitwam
- 
+
 
 Senior Technology Reporter
 
- Ryan Whitwam is a senior technology reporter at Ars Technica, covering the ways Google, AI, and mobile technology continue to change the world. Over his 20-year career, he's written for Android Police, ExtremeTech, Wirecutter, NY Times, and more. He has reviewed more phones than most people will ever own. You can 
+ Ryan Whitwam is a senior technology reporter at Ars Technica, covering the ways Google, AI, and mobile technology continue to change the world. Over his 20-year career, he's written for Android Police, ExtremeTech, Wirecutter, NY Times, and more. He has reviewed more phones than most people will ever own. You can
 follow him on Bluesky
 , where you will see photos of his dozens of mechanical keyboards.
- 
+
 
 1. 1.Google Fiber will be sold to private equity firm and merge with cable company
 2. 2.M5 MacBook Air review: Still the best MacBook for almost everybody

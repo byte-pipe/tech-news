@@ -12,58 +12,58 @@ tags:
 - tldr
 ---
 
-ai 
- 
- 
- Apr 07, 2026 
- 
- 
+ai
+
+
+ Apr 07, 2026
+
+
 
 # A bug on the dark side of the Moon
 
- 
+
 
 ## How a specification surfaced a defect in the Apollo flight code.
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 Henry Garner
- 
- 
- CTO & AI Chapter Lead 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+ CTO & AI Chapter Lead
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The Apollo Guidance Computer (AGC) is one of the most scrutinised codebases in history. Thousands of developers have read it. Academics havepublished papers on its reliability. Emulators run it instruction by instruction. We independently identified a bug in it: a resource lock in the gyro control code that leaks on an error path.†
 
@@ -194,13 +194,13 @@ Thanks toFarzad “Fuzz” Pezeshkpourfor independentlyreproducing the bug, and 
 
 ‡8 April 2026. The scenario described above could not have played out as written. AsMike Stewartpointed out,LGYROis also zeroed inSTARTSB2, which is executed viaGOPROG2on any major program change. Starting a new P52 would itself clear the lock before the torque began. HittingBADENDwhile actively pulse-torquing is rare, and avoided by normal procedure. In the very specific scenarios where the bug can be triggered and persist, it does not fail silently: multiple jobs stack up attempting to torque the gyros until the computer runs out of space and a program alarm is triggered. The issue was found before the flight of Apollo 14, and a description of how it might occur along with a recovery procedure was added to theApollo 14 Program Notes.
 
- 
+
 
 Recommended Resources
 
- 
- 
- 
+
+
+
 ai
 Mar 30, 2026
 
@@ -211,8 +211,8 @@ Mar 30, 2026
 Henry
 Garner
 CTO & AI Chapter Lead
- 
- 
+
+
 ai
 Mar 16, 2026
 
@@ -223,8 +223,8 @@ Mar 16, 2026
 Henry
 Garner
 CTO & AI Chapter Lead
- 
- 
+
+
 ai
 Mar 09, 2026
 

@@ -38,9 +38,9 @@ summarized_at: 2026-03-24T20:03:00.131766
 - Developed integration tests covering the RAG pipeline, webhook handling, and end‑to‑end call flow, handling malformed requests, low‑confidence retrieval, and missing callback numbers.
 
 ## Stack
-- **Vapi** (Deepgram STT, ElevenLabs TTS, phone number, tool calling)  
-- **Ngrok** – local development tunnel  
-- **FastAPI + Uvicorn** – webhook server  
-- **MongoDB Atlas** – knowledge base, vector search, call logs, callbacks  
-- **Voyage AI (voyage‑3‑large)** – text embeddings  
+- **Vapi** (Deepgram STT, ElevenLabs TTS, phone number, tool calling)
+- **Ngrok** – local development tunnel
+- **FastAPI + Uvicorn** – webhook server
+- **MongoDB Atlas** – knowledge base, vector search, call logs, callbacks
+- **Voyage AI (voyage‑3‑large)** – text embeddings
 - **Anthropic Claude (claude‑sonnet‑4‑6)** – response generation

@@ -40,21 +40,21 @@ The team, consisting of around 10 people, is expected to join Anthropic’s heal
 Topics
 
 AI
-, 
+,
 Biotech & Health
-, 
+,
 Claude
-, 
+,
 In Brief
-, 
+,
 Mergers and Acquisitions
-, 
+,
 Privacy
-, 
+,
 Startups
-, 
+,
 Venture
- 
+
 
 ### Newsletters
 
@@ -79,7 +79,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

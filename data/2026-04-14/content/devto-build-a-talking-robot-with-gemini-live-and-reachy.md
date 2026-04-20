@@ -77,22 +77,22 @@ Here's the condensed flow inside the Gemini handler:
 # 1. Microphone → Gemini
 
 async
- 
+
 def
- 
+
 receive
 (
 self
 ,
- 
+
 frame
 ):
 
- 
+
 pcm_bytes
- 
+
 =
- 
+
 audio_to_int16
 (
 frame
@@ -100,9 +100,9 @@ frame
 tobytes
 ()
 
- 
+
 await
- 
+
 self
 .
 session
@@ -110,7 +110,7 @@ session
 send_realtime_input
 (
 
- 
+
 audio
 =
 types
@@ -121,7 +121,7 @@ data
 =
 pcm_bytes
 ,
- 
+
 mime_type
 =
 "
@@ -129,25 +129,25 @@ audio/pcm;rate=16000
 "
 )
 
- 
+
 )
 
 # 2. Gemini → Speaker
 
 async
- 
+
 def
- 
+
 _run_live_session
 (
 self
 ):
 
- 
+
 async
- 
+
 with
- 
+
 client
 .
 aio
@@ -159,39 +159,39 @@ connect
 model
 =
 ...,
- 
+
 config
 =
 ...)
- 
+
 as
- 
+
 session
 :
 
- 
+
 async
- 
+
 for
- 
+
 response
- 
+
 in
- 
+
 session
 .
 receive
 ():
 
- 
+
 if
- 
+
 response
 .
 server_content
- 
+
 and
- 
+
 response
 .
 server_content
@@ -199,13 +199,13 @@ server_content
 model_turn
 :
 
- 
+
 for
- 
+
 part
- 
+
 in
- 
+
 response
 .
 server_content
@@ -215,11 +215,11 @@ model_turn
 parts
 :
 
- 
+
 audio_array
- 
+
 =
- 
+
 np
 .
 frombuffer
@@ -230,7 +230,7 @@ inline_data
 .
 data
 ,
- 
+
 dtype
 =
 np
@@ -238,9 +238,9 @@ np
 int16
 )
 
- 
+
 await
- 
+
 self
 .
 output_queue
@@ -249,21 +249,21 @@ put
 ((
 24000
 ,
- 
+
 audio_array
 ))
 
- 
+
 if
- 
+
 response
 .
 tool_call
 :
 
- 
+
 await
- 
+
 self
 .
 _handle_tool_call
@@ -298,7 +298,7 @@ What it does
 
 dance
 
-Queue a dance from the open 
+Queue a dance from the open
 dances library
 
 play_emotion
@@ -335,19 +335,19 @@ When nothing is happening, the robot automatically starts a gentlebreathing anim
 When a camera is connected, the Gemini handler runs a1 FPS video loopthat continuously sends JPEG frames to the model:
 
 async
- 
+
 def
- 
+
 _video_sender_loop
 (
 self
 ):
 
- 
+
 while
- 
+
 not
- 
+
 self
 .
 _stop_event
@@ -355,11 +355,11 @@ _stop_event
 is_set
 ():
 
- 
+
 frame
- 
+
 =
- 
+
 self
 .
 deps
@@ -369,14 +369,14 @@ camera_worker
 get_latest_frame
 ()
 
- 
+
 _
 ,
- 
+
 buffer
- 
+
 =
- 
+
 cv2
 .
 imencode
@@ -385,22 +385,22 @@ imencode
 .jpg
 "
 ,
- 
+
 frame
 ,
- 
+
 [
 cv2
 .
 IMWRITE_JPEG_QUALITY
 ,
- 
+
 70
 ])
 
- 
+
 await
- 
+
 self
 .
 session
@@ -408,7 +408,7 @@ session
 send_realtime_input
 (
 
- 
+
 video
 =
 types
@@ -421,7 +421,7 @@ buffer
 .
 tobytes
 (),
- 
+
 mime_type
 =
 "
@@ -429,12 +429,12 @@ image/jpeg
 "
 )
 
- 
+
 )
 
- 
+
 await
- 
+
 asyncio
 .
 sleep
@@ -467,12 +467,12 @@ The project usesuvfor fast dependency management (pip works too).
 
 git clone https://github.com/pollen-robotics/reachy_mini_conversation_app.git
 
-cd 
+cd
 reachy_mini_conversation_app
 
 # Create a virtual environment (macOS example)
 
-uv venv 
+uv venv
 --python
  python3.12 .venv
 
@@ -481,7 +481,7 @@ source
 
 # Install dependencies
 
-uv 
+uv
 sync
 
 Enter fullscreen mode
@@ -492,32 +492,32 @@ Exit fullscreen mode
 
 Want face tracking, local vision, or YOLO? Install the matching extra:
 
-uv 
+uv
 sync
- 
+
 --extra
- mediapipe_vision 
+ mediapipe_vision
 # Lightweight head tracking
 
-uv 
+uv
 sync
- 
+
 --extra
- yolo_vision 
+ yolo_vision
 # YOLO-based face detection
 
-uv 
+uv
 sync
- 
+
 --extra
- local_vision 
+ local_vision
 # On-device VLM (SmolVLM2, GPU recommended)
 
-uv 
+uv
 sync
- 
+
 --extra
- all_vision 
+ all_vision
 # Everything
 
 Enter fullscreen mode
@@ -550,15 +550,15 @@ Description
 
 GEMINI_API_KEY
 
-Your Gemini key. Also accepts 
+Your Gemini key. Also accepts
 GOOGLE_API_KEY
 .
 
 MODEL_NAME
 
-Defaults to 
+Defaults to
 gemini-3.1-flash-live-preview
-. Set to 
+. Set to
 gpt-realtime
  to use OpenAI Realtime instead.
 
@@ -578,10 +578,10 @@ Open aseparate terminaland activate the SDK's virtual environment:
 
 # Navigate to wherever you cloned/installed the Reachy Mini SDK
 
-cd 
+cd
 path/to/reachy_mini
 
-source 
+source
 reachy_mini_env/bin/activate
 
 Enter fullscreen mode
@@ -596,7 +596,7 @@ reachy-mini-daemon
 
 # Or simulation mode
 
-reachy-mini-daemon 
+reachy-mini-daemon
 --simulation
 
 Enter fullscreen mode
@@ -623,7 +623,7 @@ That's it! The robot will start breathing gently, and you can start talking. It 
 
 Want a visual interface with live transcripts and a chatbot panel? Add--gradio:
 
-reachy-mini-conversation-app 
+reachy-mini-conversation-app
 --gradio
 
 Enter fullscreen mode
@@ -636,23 +636,23 @@ This launches a Gradio app athttp://127.0.0.1:7860where you can see the conversa
 
 # With MediaPipe head tracking
 
-reachy-mini-conversation-app 
+reachy-mini-conversation-app
 --head-tracker
  mediapipe
 
 # Audio-only (no camera)
 
-reachy-mini-conversation-app 
+reachy-mini-conversation-app
 --no-camera
 
 # Verbose logging
 
-reachy-mini-conversation-app 
+reachy-mini-conversation-app
 --debug
 
 # Connect to a specific robot on the network
 
-reachy-mini-conversation-app 
+reachy-mini-conversation-app
 --robot-name
  my-reachy
 
@@ -668,10 +668,10 @@ This is where it gets fun. The app uses aprofile system— plain text files that
 
 profiles/
 ├── default/
-│ ├── instructions.txt 
+│ ├── instructions.txt
 # System prompt
 
-│ └── tools.txt 
+│ └── tools.txt
 # Which tools are enabled
 
 ├── mars_rover/
@@ -690,7 +690,7 @@ Exit fullscreen mode
 
 1. Create a folder underprofiles/:
 
-mkdir 
+mkdir
 profiles/pirate_captain
 
 Enter fullscreen mode
@@ -756,76 +756,76 @@ You can even addprofile-specific toolsby dropping a Python file in the profile f
 # profiles/example/sweep_look.py
 
 from
- 
+
 reachy_mini_conversation_app.tools.core_tools
- 
+
 import
- 
+
 Tool
 
 class
- 
+
 SweepLookTool
 (
 Tool
 ):
 
- 
+
 name
- 
+
 =
- 
+
 "
 sweep_look
 "
 
- 
+
 description
- 
+
 =
- 
+
 "
 Slowly look around the room in a sweeping motion.
 "
 
- 
+
 async
- 
+
 def
- 
+
 run
 (
 self
 ,
- 
+
 args
 ,
- 
+
 deps
 ):
 
- 
+
 # Queue a sequence of head movements...
 
- 
+
 return
- 
+
 {
 "
 status
 "
 :
- 
+
 "
 done
 "
 ,
- 
+
 "
 description
 "
 :
- 
+
 "
 Finished looking around
 "
@@ -859,15 +859,15 @@ When the app starts, it builds aLiveConnectConfigwith:
 * Input and output audio transcription enabled
 
 live_config
- 
+
 =
- 
+
 types
 .
 LiveConnectConfig
 (
 
- 
+
 response_modalities
 =
 [
@@ -878,7 +878,7 @@ Modality
 AUDIO
 ],
 
- 
+
 system_instruction
 =
 types
@@ -897,7 +897,7 @@ text
 instructions
 )]),
 
- 
+
 speech_config
 =
 types
@@ -905,7 +905,7 @@ types
 SpeechConfig
 (
 
- 
+
 voice_config
 =
 types
@@ -913,7 +913,7 @@ types
 VoiceConfig
 (
 
- 
+
 prebuilt_voice_config
 =
 types
@@ -927,13 +927,13 @@ Kore
 "
 ),
 
- 
+
 ),
 
- 
+
 ),
 
- 
+
 tools
 =
 [{
@@ -941,11 +941,11 @@ tools
 function_declarations
 "
 :
- 
+
 declarations
 }],
 
- 
+
 input_audio_transcription
 =
 types
@@ -953,7 +953,7 @@ types
 AudioTranscriptionConfig
 (),
 
- 
+
 output_audio_transcription
 =
 types
@@ -994,7 +994,7 @@ If nobody speaks for 15+ seconds and the robot is idle, the handler sends a nudg
 "
 You
 '
-ve been idle for a while. Feel free to get creative — dance, 
+ve been idle for a while. Feel free to get creative — dance,
 show an emotion, look around, do nothing, or just be yourself!
 "
 
@@ -1104,7 +1104,7 @@ Links:
 * 🔑Get a Gemini API Key
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

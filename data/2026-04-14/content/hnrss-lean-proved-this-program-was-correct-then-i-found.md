@@ -51,39 +51,39 @@ What does "verified as correct" actually look like? Here is one of the
 main theorems (github):
 
 theorem
- 
+
 zlib_decompressSingle_compress
- 
+
 (
 data : ByteArray
 )
- 
+
 (
 level : UInt8
 )
 
- 
+
 (
-hsize : data.size 
+hsize : data.size
 <
- 
+
 1024
- 
+
 *
- 
+
 1024
- 
+
 *
- 
+
 1024
 )
  :
  ZlibDecode.decompressSingle
- 
+
 (
 ZlibEncode.compress data level
 )
- 
+
 =
  .ok data
 
@@ -146,33 +146,33 @@ The vulnerable function islean_alloc_sarray, which allocates all
 scalar arrays (ByteArray,FloatArray, etc.) in Lean 4:
 
 lean_obj_res
- 
+
 lean_alloc_sarray
 (
 
- 
+
 unsigned
- 
+
 elem_size
-, 
+,
 size_t
- 
+
 size
-, 
+,
 size_t
- 
+
 capacity
 
 )
- 
+
 {
 
- 
+
 lean_sarray_object
- * 
+ *
 o
  =
- 
+
 (
 lean_sarray_object
 *
@@ -180,17 +180,17 @@ lean_sarray_object
 lean_alloc_object
 (
 
- 
+
 sizeof
 (
 lean_sarray_object
 )
  + elem_size * capacity
- 
+
 )
 ;
- 
-// 
+
+//
 ...
 
 }
@@ -205,52 +205,52 @@ The overflow can be triggered throughlean_io_prim_handle_read, the C
 function backingIO.FS.Handle.read:
 
 obj_res
- 
+
 lean_io_prim_handle_read
 (
 
- 
+
 b_obj_arg
- 
+
 h
-, 
+,
 usize
- 
+
 nbytes
 
 )
- 
+
 {
 
- 
+
 FILE
- * 
+ *
 fp
  = io_get_handle
 (
 h
 )
 ;
- 
+
 obj_res
- 
+
 res
- = 
+ =
  lean_alloc_sarray
 (
 1, 0, nbytes
 )
-; 
-// 
+;
+//
 overflows here
 
- 
-// 
+
+//
 ...
 
- 
+
 usize
- 
+
 n
  = std::fread
 (
@@ -260,11 +260,11 @@ n
 res
 )
 , 1, nbytes, fp
- 
+
 )
 ;
- 
-// 
+
+//
 ^^^ 23-byte buffer ^^^ SIZE_MAX count
 
 A 156-byte crafted ZIP file with a ZIP64compressedSizeof0xFFFFFFFFFFFFFFFFis sufficient to trigger it. The same pattern
@@ -273,49 +273,49 @@ Lean 4 up to and including the latest nightly
 (v4.31.0-nightly-2026-04-11). The minimal reproducer is 5 simple lines:
 
 def
- 
+
 main
- : IO Unit 
+ : IO Unit
 :=
- 
+
 do
 
- IO.FS.writeFile 
+ IO.FS.writeFile
 "test.bin"
- 
+
 "hello"
 
- 
+
 let
- h ← IO.FS.Handle.mk 
+ h ← IO.FS.Handle.mk
 "test.bin"
  .read
- 
+
 let
- n : USize 
+ n : USize
 :=
- 
+
 (
 0
  : USize
 )
- 
+
 -
- 
+
 (
 1
  : USize
 )
- 
--- 
+
+--
 SIZE_MAX
 
- 
+
 let
- 
+
 _
- ← h.read n 
--- 
+ ← h.read n
+--
 overflows in lean_alloc_sarray
 
 Edit: there is apending PRto lean to fix this.
@@ -326,46 +326,46 @@ AFL also found a denial-of-service in lean-zip's own code. ThereadExactfunction 
 validating it against the actual file size:
 
 def
- 
+
 readExact
- 
+
 (
 h : IO.FS.Handle
 )
- 
+
 (
 n : Nat
 )
- ... 
+ ...
 :=
- 
+
 do
 
- 
--- 
+
+--
 ...
 
- while buf.size 
+ while buf.size
 <
- n 
+ n
 do
 
- 
+
 let
- remaining 
+ remaining
 :=
- n 
+ n
 -
  buf.size
- 
+
 let
  chunk ← h.read remaining.toUSize
- 
--- 
+
+--
 n comes from the ZIP header
 
- 
--- 
+
+--
 ...
 
 A 156-byte ZIP claiming acompressedSizeof several exabytes causes

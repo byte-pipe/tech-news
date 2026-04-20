@@ -336,7 +336,7 @@ TV Footage
 Video
 
  My.PressClub Login
- 
+
 
  
 
@@ -352,7 +352,7 @@ open Streaming Website
 
 ## CO2 emission information.
 
-Fuel consumption, CO2 emission figures and power consumption and range were measured using the methods required according to Regulation VO (EC) 2007/715 as amended. They refer to vehicles on the German automotive market. For ranges, the NEDC figures take into account differences in the selected wheel and tyre size, while the WLTP figures take into account the effects of any optional equipment. 
+Fuel consumption, CO2 emission figures and power consumption and range were measured using the methods required according to Regulation VO (EC) 2007/715 as amended. They refer to vehicles on the German automotive market. For ranges, the NEDC figures take into account differences in the selected wheel and tyre size, while the WLTP figures take into account the effects of any optional equipment.
  All figures have already been calculated based on the new WLTP test cycle. NEDC figures listed have been adjusted to the NEDC measurement method where applicable. WLTP values are used as a basis for the assessment of taxes and other vehicle-related duties which are (also) based on CO2 emissions and, where applicable, for the purposes of vehicle-specific subsidies. Further information are available at www.bmw.de/wltp and at www.dat.de/co2/.
 
 ## Latest Facts & Figures.
@@ -367,7 +367,7 @@ Technical specifications of the MINI John Cooper Works, valid from 11/2024.
 
 Wed May 14 14:00:00 CEST 2025
 
-John Cooper Works 
+John Cooper Works
 
 Technical specifications of the MINI John Cooper Works Aceman, valid from 01/2025.
 

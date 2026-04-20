@@ -19,8 +19,8 @@ Sarah Gibbons, Huei-Hsin Wang
 
  Sarah Gibbons
  and
- 
- 
+
+
 
  Huei-Hsin Wang
 
@@ -33,9 +33,9 @@ Share
 * Share on Twitter
 
  Summary: 
- 
+
 As AI speeds up design work, the argument to "throw out the process" misrepresents how experienced designers work.
- 
+
 
 There's a lot of discourse around the design process right now: throw out the process, trust your intuition, skip the research, and start building. Jenny Wen, design lead at Anthropic, has been one of its more prominent voices.The argumentsounds compelling, especially to designers under pressure to move fast.
 
@@ -133,7 +133,7 @@ Don’t Start with AI, Start with the Problem
  Caleb Sponheim
 
  ·
- 
+
 4 min
 
 * Template TrapSarah Gibbons·6 min

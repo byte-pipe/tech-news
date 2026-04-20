@@ -87,17 +87,17 @@ All
 button
  onClick
 =
-{handleCopy} 
+{handleCopy}
 className
 =
 "button"
 >
 
- {isCopied 
+ {isCopied
 ?
  <
 CheckIcon
- /> 
+ />
 :
  <
 CopyIcon
@@ -220,9 +220,9 @@ div
 "animate-enter"
  style
 =
-{{ 
+{{
 "--stagger"
-: 
+:
 1
  }}>
 
@@ -241,9 +241,9 @@ div
 "animate-enter"
  style
 =
-{{ 
+{{
 "--stagger"
-: 
+:
 2
  }}>
 
@@ -262,9 +262,9 @@ div
 "animate-enter"
  style
 =
-{{ 
+{{
 "--stagger"
-: 
+:
 3
  }}>
 
@@ -286,7 +286,7 @@ The third variant animates the title by splitting it into individual spans. Each
  {
 
  transform
-: 
+:
 translateY
 (
 8
@@ -294,7 +294,7 @@ px
 );
 
  filter
-: 
+:
 blur
 (
 5
@@ -302,7 +302,7 @@ px
 );
 
  opacity
-: 
+:
 0
 ;
 
@@ -314,38 +314,38 @@ px
  {
 
  animation
-: enter 
+: enter
 800
 ms
  cubic-bezier
 (
 0.25
-, 
+,
 0.46
-, 
+,
 0.45
-, 
+,
 0.94
-) 
+)
 both
 ;
 
  animation-delay
-: 
+:
 calc
 (
 var
 (
 --delay
-, 
+,
 0
 ms
-) 
+)
 *
  var
 (
 --stagger
-, 
+,
 0
 ));
 
@@ -355,7 +355,7 @@ ms
  {
 
  --delay
-: 
+:
 80
 ms
 ;
@@ -389,21 +389,21 @@ motion.div
 
  initial
 =
-{{ opacity: 
+{{ opacity:
 0
-, y: 
+, y:
 "calc(-100% - 4px)"
-, filter: 
+, filter:
 "blur(4px)"
  }}
 
  animate
 =
-{{ opacity: 
+{{ opacity:
 1
-, y: 
+, y:
 0
-, filter: 
+, filter:
 "blur(0px)"
  }}
 
@@ -411,15 +411,15 @@ motion.div
 =
 {{
 
- opacity: 
+ opacity:
 0
 ,
 
- y: 
+ y:
 "calc(-100% - 4px)"
 ,
 
- filter: 
+ filter:
 "blur(4px)"
 ,
 
@@ -427,11 +427,11 @@ motion.div
 
  transition
 =
-{{ type: 
+{{ type:
 "spring"
-, duration: 
+, duration:
 0.45
-, bounce: 
+, bounce:
 0
  }}
 
@@ -452,21 +452,21 @@ motion.div
 
  initial
 =
-{{ opacity: 
+{{ opacity:
 0
-, y: 
+, y:
 "calc(-100% - 4px)"
-, filter: 
+, filter:
 "blur(4px)"
  }}
 
  animate
 =
-{{ opacity: 
+{{ opacity:
 1
-, y: 
+, y:
 0
-, filter: 
+, filter:
 "blur(0px)"
  }}
 
@@ -474,15 +474,15 @@ motion.div
 =
 {{
 
- opacity: 
+ opacity:
 0
 ,
 
- y: 
+ y:
 "-12px"
 ,
 
- filter: 
+ filter:
 "blur(4px)"
 ,
 
@@ -490,11 +490,11 @@ motion.div
 
  transition
 =
-{{ type: 
+{{ type:
 "spring"
-, duration: 
+, duration:
 0.45
-, bounce: 
+, bounce:
 0
  }}
 
@@ -557,11 +557,11 @@ px
  rgba
 (
 0
-, 
+,
 0
-, 
+,
 0
-, 
+,
 0.06
 ),
 
@@ -576,11 +576,11 @@ px
  rgba
 (
 0
-, 
+,
 0
-, 
+,
 0
-, 
+,
 0.06
 ),
 
@@ -595,11 +595,11 @@ px
  rgba
 (
 0
-, 
+,
 0
-, 
+,
 0
-, 
+,
 0.04
 );
 
@@ -624,11 +624,11 @@ px
  rgba
 (
 0
-, 
+,
 0
-, 
+,
 0
-, 
+,
 0.08
 ),
 
@@ -643,11 +643,11 @@ px
  rgba
 (
 0
-, 
+,
 0
-, 
+,
 0
-, 
+,
 0.08
 ),
 
@@ -662,11 +662,11 @@ px
  rgba
 (
 0
-, 
+,
 0
-, 
+,
 0
-, 
+,
 0.06
 );
 
@@ -691,23 +691,23 @@ This creates a sense of depth and a somewhat consistent outline around the eleme
  {
 
  outline
-: 
+:
 1
 px
  solid
  rgba
 (
 0
-, 
+,
 0
-, 
+,
 0
-, 
+,
 0.1
 );
 
  outline-offset
-: 
+:
 -1
 px
 ;
@@ -719,15 +719,15 @@ px
  {
 
  outline-color
-: 
+:
 rgba
 (
 255
-, 
+,
 255
-, 
+,
 255
-, 
+,
 0.1
 );
 
@@ -753,7 +753,7 @@ I'm going to continue to improve the skill and I'll keep adding more details to 
 
 If you have any questions you can reach me viaemail, see more of my work onX (Twitter)or subscribe to my newsletter below.
 
- 
+
 
 ## Newsletter
 

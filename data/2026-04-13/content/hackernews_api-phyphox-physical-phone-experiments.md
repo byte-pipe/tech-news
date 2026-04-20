@@ -13,7 +13,7 @@ tags:
 - trending
 ---
 
-Download for free: 
+Download for free:
 
 Follow us:
 
@@ -56,7 +56,7 @@ The Hans Hermann Voss Foundation supports phyphox directly since the end of 2019
 
 The Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung, BMBF) supports the project “Lehrerbildung Aachen” (LeBiAC2) of the RWTH Aachen University in the context of their funding program “Qualitätsoffensive Lehrerbildung” (Phase 2). As part of LeBiAC2 we develop and evaluate the use of Bluetooth-based data acquisition by students during their education to become teachers.
 
-With a fellowship for innovations in digital academic teaching, the Stifterband NRW funded in 2017 the development of 
+With a fellowship for innovations in digital academic teaching, the Stifterband NRW funded in 2017 the development of
 modular worksheets
  (in German), which also include phyphox-based experiments.
 

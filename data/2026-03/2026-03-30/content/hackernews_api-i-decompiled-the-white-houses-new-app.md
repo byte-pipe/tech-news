@@ -13,7 +13,7 @@ tags:
 - trending
 ---
 
-The White House released an app on the App Store and Google Play. 
+The White House released an app on the App Store and Google Play.
 They posted a blog about it.
  "Unparalleled access to the Trump Administration."
 It took a few minutes to pull the APKs with ADB, and threw them into JADX.
@@ -31,16 +31,16 @@ Version 47.0.1. Build 20. Hermes enabled. New Architecture enabled. Nothing weir
 
 json
 Copy
-Two things stand out here. First, there's a plugin called 
+Two things stand out here. First, there's a plugin called
 withNoLocation
-. Second, there's a plugin called 
+. Second, there's a plugin called
 withStripPermissions
 . Remember these. They become relevant very soon.
 OTA updates are disabled. The Expo update infrastructure is compiled in but dormant.
 
 ## What the App Actually Does
 
-I extracted every string from the Hermes bytecode bundle and filtered for URLs and API endpoints. The app's content comes from a WordPress REST API at whitehouse.gov with a custom 
+I extracted every string from the Hermes bytecode bundle and filtered for URLs and API endpoints. The app's content comes from a WordPress REST API at whitehouse.gov with a custom
 whitehouse/v1
  namespace.
 Here are the endpoints:
@@ -68,20 +68,20 @@ Drug pricing
 "Media Bias" section
 /wp-json/whitehouse/v1/social/x
 X/Twitter feed proxy
-Other hardcoded strings from the bundle: 
+Other hardcoded strings from the bundle:
 "THE TRUMP EFFECT"
-, 
+,
 "Greatest President Ever!"
- (lol), 
+ (lol),
 "Text President Trump"
-, 
+,
 "Send a text message to President Trump at 45470"
-, 
+,
 "Visit TrumpRx.gov"
-, 
+,
 "Visit TrumpAccounts.gov"
 .
-There's also a direct link to 
+There's also a direct link to
 https://www.ice.gov/webform/ice-tip-form
 . The ICE tip reporting form. In a news app.
 It's a content portal. News, live streams, galleries, policy pages, social media embeds, and promotional material for administration initiatives. All powered by WordPress.
@@ -102,63 +102,63 @@ Read that carefully. It hides:
 * Upsell prompts
 * Paywall elements
 * CMP (Consent Management Platform) boxes
-It forces 
+It forces
 body { overflow: auto !important }
  to re-enable scrolling on pages where consent dialogs lock the scroll. Then it sets up a MutationObserver to continuously nuke any consent elements that get dynamically added.
 An official United States government app is injecting CSS and JavaScript into third-party websites to strip away their cookie consent dialogs, GDPR banners, login gates, and paywalls.
-The native side confirms this is the 
+The native side confirms this is the
 injectedJavaScript
  prop on the React Native WebView:
 java
 Copy
 java
 Copy
-Every page load in the in-app browser triggers this. It wraps the injection in an IIFE and runs it via Android's 
+Every page load in the in-app browser triggers this. It wraps the injection in an IIFE and runs it via Android's
 evaluateJavascript()
 .
 
 ## Location Tracking Infrastructure
 
-Remember 
+Remember
 withNoLocation
  from the Expo config? The plugin that's supposed to strip location? Yeah. The OneSignal SDK's native location tracking code is fully compiled into the APK.
 java
 Copy
 270,000 milliseconds is 4.5 minutes. 570,000 is 9.5 minutes.
-To be clear about what activates this: the tracking doesn't start silently. There are three gates. The 
+To be clear about what activates this: the tracking doesn't start silently. There are three gates. The
 LocationManager
  checks all of them before the fused location API ever fires.
 java
 Copy
-First, the 
+First, the
 _isShared
- flag. It's read from SharedPreferences on init and defaults to 
+ flag. It's read from SharedPreferences on init and defaults to
 false
-. The JavaScript layer can flip it on with 
+. The JavaScript layer can flip it on with
 setLocationShared(true)
-. The Hermes string table confirms both 
+. The Hermes string table confirms both
 setLocationShared
- and 
+ and
 isLocationShared
  are referenced in the app's JS bundle, so the app has the ability to toggle this.
 Second, the user has to grant the Android runtime location permission. The location permissions aren't declared in the AndroidManifest but requested at runtime. The Google Play Store listing confirms the app asks for "access precise location only in the foreground" and "access approximate location only in the foreground."
-Third, the 
+Third, the
 start()
  method only proceeds if the device actually has a location provider (GMS or HMS).
 If all three gates pass, here's what runs. The fused location API requests GPS at the intervals defined above:
 java
 Copy
-This gets called on both 
+This gets called on both
 onFocus()
- and 
+ and
 onUnfocused()
 , dynamically switching between the 4.5-minute foreground interval and the 9.5-minute background interval.
-When a location update comes in, it feeds into the 
+When a location update comes in, it feeds into the
 LocationCapturer
 :
 java
 Copy
-Latitude, longitude, accuracy, timestamp, whether the app was in the foreground or background, and whether it was fine (GPS) or coarse (network). All of it gets written into OneSignal's 
+Latitude, longitude, accuracy, timestamp, whether the app was in the foreground or background, and whether it was fine (GPS) or coarse (network). All of it gets written into OneSignal's
 PropertiesModel
 , which syncs to their backend.
 The data goes here:
@@ -167,11 +167,11 @@ Copy
 There's also a background service that keeps capturing location even when the app isn't active:
 java
 Copy
-So the tracking isn't unconditionally active. But the entire pipeline including permission strings, interval constants, fused location requests, capture logic, background scheduling, and the sync to OneSignal's API, all of them are fully compiled in and one 
+So the tracking isn't unconditionally active. But the entire pipeline including permission strings, interval constants, fused location requests, capture logic, background scheduling, and the sync to OneSignal's API, all of them are fully compiled in and one
 setLocationShared(true)
- call away from activating. The 
+ call away from activating. The
 withNoLocation
- Expo plugin clearly did not strip any of this. Whether the JS layer currently calls 
+ Expo plugin clearly did not strip any of this. Whether the JS layer currently calls
 setLocationShared(true)
  is something I can't determine from the native side alone, since the Hermes bytecode is compiled and the actual call site is buried in the 5.5 MB bundle. What I can say is that the infrastructure is there, ready to go, and the JS API to enable it is referenced in the bundle.
 
@@ -194,12 +194,12 @@ Your location, your notification interactions, your in-app message clicks, your 
 
 ## Supply Chain: Loading JS From Some Guy's GitHub Pages
 
-The app embeds YouTube videos using the 
+The app embeds YouTube videos using the
 react-native-youtube-iframe
  library. This library loads its player HTML from:
- 
+
 Copy
-That's a personal GitHub Pages site. If the 
+That's a personal GitHub Pages site. If the
 lonelycpp
  GitHub account gets compromised, whoever controls it can serve arbitrary HTML and JavaScript to every user of this app, executing inside the WebView context.
 This is a government app loading code from a random person's GitHub Pages.
@@ -207,9 +207,9 @@ This is a government app loading code from a random person's GitHub Pages.
 ## Supply Chain: Elfsight Widget Platform
 
 The app loads third-party JavaScript from Elfsight to embed social media feeds:
- 
+
 Copy
-Elfsight is a commercial SaaS widget company. Their JavaScript runs inside the app's WebView with no sandboxing. Whatever tracking Elfsight does, it does it here too. Their code can change at any time. The Elfsight widget ID 
+Elfsight is a commercial SaaS widget company. Their JavaScript runs inside the app's WebView with no sandboxing. Whatever tracking Elfsight does, it does it here too. Their code can change at any time. The Elfsight widget ID
 4a00611b-befa-466e-bab2-6e824a0a98a9
  is hardcoded in an HTML embed.
 
@@ -229,7 +229,7 @@ The app uses standard Android TrustManager for SSL with no custom certificate pi
 
 The build has some sloppy leftovers.
 A localhost URL made it into the production Hermes bundle:
- 
+
 Copy
 That's the React Native Metro bundler dev server.
 A developer's local IP is hardcoded in the string resources:
@@ -237,13 +237,13 @@ xml
 Copy
 The Expo development client (
 expo-dev-client
-, 
+,
 expo-devlauncher
-, 
+,
 expo-devmenu
-) is compiled into the release build. There's a 
+) is compiled into the release build. There's a
 dev_menu_fab_icon.png
- in the drawable resources. The Compose 
+ in the drawable resources. The Compose
 PreviewActivity
  is exported in the manifest, which is a development-only component that should not be in a production APK.
 xml
@@ -293,7 +293,7 @@ Serialization
 GSON, Wire (Protocol Buffers)
 License
 PairIP license check (Google Play verification)
-25 native 
+25 native
 .so
  libraries in the arm64 split. The full Hermes engine, React Native core, Reanimated, gesture handler, SVG renderer, image pipeline, barcode scanner, and more.
 

@@ -15,9 +15,9 @@ tags:
 ---
 
 Home
- » 
+ »
 LibreOffice 26.2 is here: a faster, more polished office suite that you control
- 
+
 
 We’re pleased to announce the release of LibreOffice 26.2, the newest version of the free and open source office suite trusted by millions of users around the world. This release makes it easier than ever for users to create, edit and share documents on their own terms. Designed for individuals and organizations alike, it continues to be a trusted alternative to proprietary office software.
 
@@ -56,9 +56,9 @@ LibreOffice is a free, private and open source office suite used by millions of 
 
 LibreOffice 26.2 Press Kit:nextcloud.documentfoundation.org/s/eDiocN8Gak6jDKx
 
- 
 
- 
+
+
 
 ## Related Posts
 

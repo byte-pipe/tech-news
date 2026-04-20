@@ -15,7 +15,7 @@ tags:
 
 # AI agents promise to 'run the business,' but who is liable if things go wrong?
 
- 
+
 
 ## Vendors tout the potential, but responsibility remains unclear
 
@@ -92,10 +92,10 @@ Any senior IT manager or director will testify to the bold marketing claims of t
 
 The major application vendors were offered the opportunity to explain how much liability they accept in their customers' implementation of AI agents. Microsoft and SAP refused to comment. Workday, Salesforce, ServiceNow, and Oracle have not responded. Despite the industry hype, matching market claims to legal responsibility remains a difficult circle for them to square. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

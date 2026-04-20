@@ -64,10 +64,10 @@ apps
 cursor
 ]
 
-bundle = 
+bundle =
 "com.todesktop.230313mzl4w4u92"
 
-binary = 
+binary =
 "Contents/MacOS/Cursor"
 
 The tool finds apps automatically via their macOS bundle ID — no hardcoded paths needed. And if you regularly work with the same projects, you can configure default directories per app:
@@ -80,7 +80,7 @@ code
 
 workdirs = [
 "~/work/project-a"
-, 
+,
 "~/work/shared-lib"
 ]
 

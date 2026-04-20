@@ -84,7 +84,7 @@ With the three of them chatting over a cup of tea in the back garden, Andrews fo
 
 "When Terry's wife got home he told told her Gary Barlow had visited with his dad. She was a fan of his and was quite disappointed that she had missed him."
 
-More top stories 
+More top stories
 
 ## One of UK's richest men wants German citizenship over 'hostility' to Jews
 

@@ -27,7 +27,7 @@ Best Robot Lawn Mower Overall
 Husqvarna Automower 450X EPOS (410XE Nera)
 Read more
 $5,900
- 
+
 
 Husqvarna
 
@@ -35,11 +35,11 @@ Best Budget Robot Lawn Mower
 Anthbot Genie 3000
 Read more
 $1,589
- 
+
 $1,260
- 
+
 (21% off)
- 
+
 
 Amazon
 
@@ -47,7 +47,7 @@ Best Remote Control Mower
 Mowrator S1
 Read more
 $3,999
- 
+
 
 Amazon
 
@@ -186,9 +186,9 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Simon Hill
- is a senior writer for WIRED and has been testing and writing about technology for around 20 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially 
+ is a senior writer for WIRED and has been testing and writing about technology for around 20 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially
 smartphones
- and ... 
+ and ...
 Read More
 Senior writer and reviewer
 * bluesky

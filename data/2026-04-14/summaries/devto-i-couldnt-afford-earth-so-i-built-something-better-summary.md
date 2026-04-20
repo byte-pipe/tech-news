@@ -21,10 +21,10 @@ summarized_at: 2026-04-14T06:04:44.689456
 - “Negotiations” with aliens, a Galactic Bank, and an Intergalactic Authority are described as part of the purchase flow.
 - Reviews from three‑eyed aliens are displayed for credibility.
 - Purchase steps (run on the server):
-  1. Connect with Galactic Bank  
-  2. Verify oxygen rights  
-  3. Negotiate with local aliens  
-  4. Bribe Intergalactic Authority  
+  1. Connect with Galactic Bank
+  2. Verify oxygen rights
+  3. Negotiate with local aliens
+  4. Bribe Intergalactic Authority
 - Generates a “100 % authentic certificate” of ownership.
 
 ## Demo
@@ -37,15 +37,15 @@ summarized_at: 2026-04-14T06:04:44.689456
 ## How I Built It
 - Described as a sleepless, caffeine‑fueled effort with “alien negotiations” and absurd obstacles (e.g., psychic telepathy calls, meteor‑damage clauses).
 - Lists humorous development mishaps:
-  - TypeScript errors questioning existence at 3 AM  
-  - Gemini hallucinating a non‑existent moon  
-  - React crashes when adding Neptune  
-  - Accidental purchase of a real asteroid  
+  - TypeScript errors questioning existence at 3 AM
+  - Gemini hallucinating a non‑existent moon
+  - React crashes when adding Neptune
+  - Accidental purchase of a real asteroid
 
 ## Technology Stack
-- **React + TypeScript** – core UI framework.  
-- **Vite** – fast development server.  
-- **Google Gemini API** – AI for interplanetary economics.  
+- **React + TypeScript** – core UI framework.
+- **Vite** – fast development server.
+- **Google Gemini API** – AI for interplanetary economics.
 - Custom UI components and a component library styled for a “space age” look.
 
 ## Result & Prize Category

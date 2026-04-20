@@ -32,17 +32,17 @@ Then there’re looks and consistency. Some time ago, maybe in the late 90s and 
 These days, though, native is as bad as the web, if not worse. Consistency is basically out the window. Anything can look like anything, buttons have no borders, contrast doesn’t exist, and neither do conventions. Apple, for example, seems to place traffic lights and corner radius by vibes rather than by any measurable guidelines.
 
 Maybe the server should round the corners?
- 
+
 
 Looks could be good, but they also can be bad, and then you are stuck with platform-consistent, but generally bad UI (Liquid Glass ahem). It changes too often, too: the app you made today will look out of place next year, when Apple decides to change look and feel yet again. There’s no native look anymore.
 
 Computer UIs also degrade over time
- 
+
 
 Theoretically, native apps can integrate with OS on a deeper level. This sounds nice, but what does that mean in practice? There are almost no good interoperable file formats; everything is locked inside individual apps, most services moved to the web, and OSes dropped the ball for making a good shared baseline. You can integrate with OS-provided calendar, but you can’t do it with web calendar. Well, you can, of course, but it’s easier on the web; native doesn’t help with it at all.
 
 Web pages only lead to more web pages
- 
+
 
 Finally, the last hope of people longing for native is performance. They feel that native apps will be faster. Well, they can, but it doesn’t mean they will. Web apps can be faster, too, but in practice, nobody cares. There’s no technical reason whySlack needs to load 80 MiBjust to show 10 channel names and 3 messages on a screen. The web is not the problem here! It’s a choice to be bad. What makes you think it’ll be different once the company decides to move to native?
 

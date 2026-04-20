@@ -11,10 +11,10 @@ summarized_at: 2026-03-21T11:11:49.418946
 
 * Gaming: Nintendo's Next Switch: New Battery Should Be Easy to Replace
     ...
-* Entertainment: Right to Repair: Why A More Repairable Gaming Console Matters 
+* Entertainment: Right to Repair: Why A More Repairable Gaming Console Matters
     ...
 * Gadgets:
-    - Key points: 
+    - Key points:
         - Nintendo plans to release a Switch 2 with easily replaceable batteries.
         - Change will be announced soon for international markets, while Japan's console specifications will remain unchanged.
     ...

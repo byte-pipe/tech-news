@@ -64,15 +64,15 @@ He has been on Dev.to for9 Years. Very impressive indeed!However, I notice he to
 The point is to check up with each other.There will be a time where we won't be on Dev.to much longer and we will move on from our lives, wherever it takes us. The whole goal is trying to make this place a memorable place and is not something where we join Dev.to just to check off in our TODO list. It is the whole reason why I created the guide on Dev.to to begin with:
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
 FrancisTRᴅᴇᴠ (っ◔◡◔)っ
 
  Follow
- 
+
 
 Mar 20
 
@@ -99,7 +99,7 @@ Comments
  comments
 
  6 min read
- 
+
 
 I want everyone to feel inclusive and not leaving anyone in the dust. Every time I see an article with no engagement, I felt responsible and genuinely sad. It made me take initiative because I don't want others to feel loneliness.
 
@@ -118,15 +118,15 @@ I took a break from replying to every single comment in the Welcome Threads and 
 If possible, refer back to my article on the Dev.to guide if you can! The goal is to make the best user friendly guide on Dev.to and it would help if we can share it to others!
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
 FrancisTRᴅᴇᴠ (っ◔◡◔)っ
 
  Follow
- 
+
 
 Mar 20
 
@@ -153,7 +153,7 @@ Comments
  comments
 
  6 min read
- 
+
 
 ## Thanks for Reading
 
@@ -162,7 +162,7 @@ I just want to share this since I have been feeling guilty and responsible for n
 Are you doing okay?
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -173,6 +173,6 @@ Preview
 Dismiss
 
  View full discussion (14 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

@@ -85,7 +85,7 @@ Paresh Dave
 underappreciated
  and 
 disadvantaged
-. He was previously a reporter for Reuters and the Los Angeles Times, ... 
+. He was previously a reporter for Reuters and the Los Angeles Times, ...
 Read More
 Senior Writer
 

@@ -34,7 +34,7 @@ For this project, I intend to pick up a zillion pieces of litter. (A "zillion" s
 
 
 
-Below is a series of pictures documenting a zillion pieces of litter that I picked up, from 1 to a zillion... 
+Below is a series of pictures documenting a zillion pieces of litter that I picked up, from 1 to a zillion...
 
 
 CLICK HERE TO LEARN MORE

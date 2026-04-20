@@ -27,15 +27,15 @@ An OpenClaw-like AI agent gave a Meta employee inaccurate technical advice, whic
 An OpenClaw-like AI agent gave a Meta employee inaccurate technical advice, which led to exposing data.
 
 by
- 
- 
+
+
 Stevie Bonifield
 Mar 19, 2026, 6:20 PM UTC
 * Link
 * Share
 * Gift
 Stevie Bonifield
- 
+
 is a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.
 
 For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported byThe Information. Meta spokesperson Tracy Clayton said in a statement toThe Vergethat “no user data was mishandled” during the incident.
@@ -78,19 +78,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

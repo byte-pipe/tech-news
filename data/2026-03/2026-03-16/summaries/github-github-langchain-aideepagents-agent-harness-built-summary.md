@@ -1,7 +1,7 @@
 ---
 title: GitHub - langchain-ai/deepagents: Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the abili...
 url: https://github.com/langchain-ai/deepagents
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-16T11:46:24.388312

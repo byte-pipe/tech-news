@@ -26,14 +26,14 @@ Email
 ## The license would allow the firm to operate like a traditional bank and gain direct access to payment networks like Fedwire and ACH.
 
 By
- 
+
 Francisco Rodrigues
 |
 Edited by
- 
+
 Sheldon Reback
- 
-Mar 5, 2026, 1:08 p.m. 
+
+Mar 5, 2026, 1:08 p.m.
 Make us preferred on Google
 A Revolut card (Kay/Unsplash/Modified by CoinDesk)
 
@@ -69,7 +69,7 @@ More For You
 ### Pudgy Penguins: Challenging the Pokemon and Disney Legacy in the Global IP Race
 
 By
- 
+
 CoinDesk Research
 Feb 27, 2026
 Commissioned by
@@ -87,11 +87,11 @@ More For You
 Coinbase says new U.S. tax-reporting rules for crypto are cluttered, confusing
 
 By
- 
+
 Ian Allison
 |
 Edited by
- 
+
 Sheldon Reback
 22 hours ago
 
@@ -104,7 +104,7 @@ What to know:
 * The IRS is needlessly including dollar-pegged stablecoins like USDC within its gross reporting, Coinbase said.
 Read full story
 Latest Crypto News
- 
+
 
 #### Bitcoin is still a great way to diversify portfolio even if it trades like a tech stock, analyst says
 

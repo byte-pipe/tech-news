@@ -9,7 +9,7 @@ author: Immediate-Link490
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,13 +17,13 @@ r/worldnews
 
 Immediate-Link490
 
- 
 
- 
+
+
 
 # Canada will cancel thousands of refugee claims under new retroactive law
 
  thestar.com
- 
+
 
 Open

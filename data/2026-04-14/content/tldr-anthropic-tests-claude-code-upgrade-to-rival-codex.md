@@ -16,7 +16,7 @@ Anthropic is preparing a major overhaul of its Claude Code desktop experience un
 
 Both Anthropic and OpenAI are gearing up to release updates to their desktop apps already next week.Anthropic is finalizing its new Claude Code "epitaxy" experience with a power-user-friendly UI, Cowork-style layout, and the possibility to work on multiple repositories at once.…pic.twitter.com/Z9tfiP5Vy7
 
-— TestingCatalog News 🗞 (@testingcatalog) 
+— TestingCatalog News 🗞 (@testingcatalog)
 April 13, 2026
 
 The updated layout borrows design cues from Cowork, Anthropic’s desktop automation environment, and introduces dedicated panels for viewing a Plan, tracking Tasks executed by sub-agents, and reviewing Diffs, all within a single window. Users will also be able to preview running code directly in the app and work across multiple repositories simultaneously, addressing a longstanding limitation of the current single-session workflow.
@@ -27,7 +27,7 @@ The ability to create custom agents directly from within the app adds another la
 
 same
 
-— Andrew Ambrosino (@ajambrosino) 
+— Andrew Ambrosino (@ajambrosino)
 April 12, 2026
 
 Both companies appear poised to ship desktop updates as early as next week, intensifying a race where the unit of competition has shifted from model benchmarks to developer workflow integration.
@@ -42,9 +42,9 @@ Both companies appear poised to ship desktop updates as early as next week, inte
 
 2 min read
 
- 
 
- 
+
+
 
 ## Google develops its own desktop Agent to compete with Cowork
 
@@ -54,9 +54,9 @@ Both companies appear poised to ship desktop updates as early as next week, inte
 
 3 min read
 
- 
 
- 
+
+
 
 ## OpenAI tests web browsing feature on Codex Superapp
 
@@ -66,9 +66,9 @@ Both companies appear poised to ship desktop updates as early as next week, inte
 
 2 min read
 
- 
 
- 
+
+
 
 ## xAI prepares credits system for upcoming Grok Build launch
 
@@ -78,9 +78,9 @@ Both companies appear poised to ship desktop updates as early as next week, inte
 
 2 min read
 
- 
 
- 
+
+
 
 ## Google develops voice mode and collaborative tools for Mixboard
 
@@ -90,9 +90,9 @@ Both companies appear poised to ship desktop updates as early as next week, inte
 
 2 min read
 
- 
 
- 
+
+
 
 ## OpenAI develops unified Codex app and new Scratchpad feature
 

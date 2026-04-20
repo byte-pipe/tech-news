@@ -16,11 +16,11 @@ tags:
 # Tested: How Many Times Can a DVD±RW Be Rewritten? – Part 2: Methodology & Results
 
 Posted on
- 
+
 March 7, 2026
- 
+
 by
- 
+
 lui_gough
 
 Now that we’vecovered the contenders for this test, I will cover how this test will be performed and go through the results. It was a long time for me, but for you, it’ll just be a few hours between posts …
@@ -62,15 +62,15 @@ Let’s start by looking at each disc type in turn.
 
 I had high hopes for this RITEK-008-000, but alas, perhaps it’s just not a good fit for the drive or the media itself might have quietly gone bad in some way.
 
- 
+
 
 While the drive did a Z-CLV 8x burn initially, every subsequent burn was stuck at 6x CLV. It’s as if the drive knew something was not right so refused to go faster. When the system was rebooted because of inevitable Windows Update shenanigans or power outages, we would get a single 8x burn again … but that’s about it.
 
- 
+
 
 The smooth readback curves are … a little deceptive.
 
- 
+
 
 The first two writes out of the bat are just not good looking. Below are videos running at 5fps that show the results run-after-run. The first failure to verify occurred at just 106 runs.
 
@@ -221,14 +221,14 @@ But one thing it could do, that no other drive I had could, was a function calle
 
 The Verbatim disc didn’t do well out-of-the-box so I decided to give it a try to see if such a thing would even work …
 
- 
- 
+
+
 
 … so the disc was DC erased and short of a few hairline sections, the disc did have a bright surface.
 
 While all other drives to my knowledge do not have a DC Erase function that is user-accessible, all drives areableto do DC Erase as this is required for the Power Calibration Area prior to calibration:
 
- 
+
 
 So the drives are doing it internally for some areas, but generally, this is a function not available otherwise. The reasoning, as far as I have heard, is that this sort of erase wears out the disc more than writing a valid sequence of digital “zeroes” to the surface, but in this case, it seems to have revived the disc for a little longer.
 
@@ -372,36 +372,36 @@ On the contrary, despite the drastic decline in prices and margins for optical d
 
 ## About lui_gough
 
-I'm a bit of a nut for electronics, computing, photography, radio, satellite and other technical hobbies. Click for more 
+I'm a bit of a nut for electronics, computing, photography, radio, satellite and other technical hobbies. Click for more
 about me!
 
-View all posts by lui_gough 
+View all posts by lui_gough
 →
- 
 
-This entry was posted in 
+
+This entry was posted in
 Computing
-, 
+,
 Tech Flashback
- and tagged 
+ and tagged
 computer storage
-, 
+,
 destruction
-, 
+,
 endurance
-, 
+,
 failure
-, 
+,
 number crunching
-, 
+,
 optical disc
-, 
+,
 optical discs
-, 
+,
 tested
-, 
+,
 vintage stuff
-. Bookmark the 
+. Bookmark the
 permalink
 .
 

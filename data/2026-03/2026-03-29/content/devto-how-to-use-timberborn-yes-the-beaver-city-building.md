@@ -43,108 +43,108 @@ For every lever, there is one endpoint that turns it on and one that turns it of
 
 [
 
- 
+
 {
 
- 
+
 "name"
 :
- 
+
 "HTTP Lever 829"
 ,
 
- 
+
 "state"
 :
- 
+
 false
 ,
 
- 
+
 "springReturn"
 :
- 
+
 false
 
- 
+
 },
 
- 
+
 {
 
- 
+
 "name"
 :
- 
+
 "HTTP Lever 154"
 ,
 
- 
+
 "state"
 :
- 
+
 true
 ,
 
- 
+
 "springReturn"
 :
- 
+
 false
 
- 
+
 },
 
- 
+
 {
 
- 
+
 "name"
 :
- 
+
 "HTTP Lever 839"
 ,
 
- 
+
 "state"
 :
- 
+
 false
 ,
 
- 
+
 "springReturn"
 :
- 
+
 false
 
- 
+
 },
 
- 
+
 {
 
- 
+
 "name"
 :
- 
+
 "HTTP Lever 164"
 ,
 
- 
+
 "state"
 :
- 
+
 true
 ,
 
- 
+
 "springReturn"
 :
- 
+
 false
 
- 
+
 }
 
 ]
@@ -164,46 +164,46 @@ The idea is that we’re going to convert some user input to JSON, convert that 
 Let’s start with a little HTML:
 
 <form
- 
+
 method=
 "POST"
- 
+
 id=
 "form"
 >
 
- 
+
 <div>
 
- 
+
 <input
- 
+
 type=
 "text"
- 
+
 id=
 "title"
 >
 
- 
+
 </div>
 
- 
+
 <div>
 
- 
+
 <textarea
- 
+
 id=
 "text"
 ></textarea>
 
- 
+
 </div>
 
- 
+
 <button
- 
+
 type=
 "submit"
 >
@@ -213,10 +213,10 @@ Store in Timberborn
 </form>
 
 <button
- 
+
 type=
 "button"
- 
+
 id=
 "load"
 >
@@ -232,11 +232,11 @@ Exit fullscreen mode
 Now comes the fun part. We start with a bit of scaffolding JS:
 
 const
- 
+
 title
- 
+
 =
- 
+
 document
 .
 querySelector
@@ -247,11 +247,11 @@ querySelector
 )
 
 const
- 
+
 text
- 
+
 =
- 
+
 document
 .
 querySelector
@@ -262,11 +262,11 @@ querySelector
 )
 
 const
- 
+
 form
- 
+
 =
- 
+
 document
 .
 querySelector
@@ -277,11 +277,11 @@ querySelector
 )
 
 const
- 
+
 load
- 
+
 =
- 
+
 document
 .
 querySelector
@@ -292,23 +292,23 @@ querySelector
 )
 
 const
- 
+
 chunkSize
- 
+
 =
- 
+
 8
- 
+
 // We need this to later split the bits
 
 const
- 
+
 numberOfLevers
- 
+
 =
- 
+
 1000
- 
+
 // This needs to be the exact number of levers in-game, otherwise it won't work reliably.
 
 Enter fullscreen mode
@@ -325,59 +325,59 @@ addEventListener
 submit
 '
 ,
- 
-async 
+
+async
 (
 event
 )
- 
+
 =>
- 
+
 {
 
- 
+
 event
 .
 preventDefault
 ();
 
- 
+
 const
- 
+
 data
- 
+
 =
- 
+
 {
 
- 
+
 title
 :
- 
+
 title
 .
 value
 ,
 
- 
+
 text
 :
- 
+
 text
 .
 value
 ,
 
- 
+
 }
 
- 
+
 const
- 
+
 json
- 
+
 =
- 
+
 JSON
 .
 stringify
@@ -385,7 +385,7 @@ stringify
 data
 )
 
- 
+
 // ...
 
 })
@@ -404,26 +404,26 @@ addEventListener
 submit
 '
 ,
- 
-async 
+
+async
 (
 event
 )
- 
+
 =>
- 
+
 {
 
- 
+
 // ...
 
- 
+
 const
- 
+
 json
- 
+
 =
- 
+
 JSON
 .
 stringify
@@ -431,13 +431,13 @@ stringify
 data
 )
 
- 
+
 const
- 
+
 asciiEncoded
- 
+
 =
- 
+
 json
 .
 split
@@ -445,14 +445,14 @@ split
 ''
 )
 
- 
+
 .
 map
 (
 c
- 
+
 =>
- 
+
 c
 .
 charCodeAt
@@ -460,23 +460,23 @@ charCodeAt
 0
 ))
 
- 
+
 const
- 
+
 binary
- 
+
 =
- 
+
 asciiEncoded
 .
 map
 (
 
- 
+
 num
- 
+
 =>
- 
+
 num
 .
 toString
@@ -487,16 +487,16 @@ padStart
 (
 chunkSize
 ,
- 
+
 '
 0
 '
 )
 
- 
+
 )
 
- 
+
 // ...
 
 })
@@ -517,26 +517,26 @@ addEventListener
 submit
 '
 ,
- 
-async 
+
+async
 (
 event
 )
- 
+
 =>
- 
+
 {
 
- 
+
 // ...
 
- 
+
 const
- 
+
 bits
- 
+
 =
- 
+
 binary
 .
 join
@@ -544,100 +544,100 @@ join
 ''
 )
 
- 
-// So there's no leftover data in the registry 
 
- 
+// So there's no leftover data in the registry
+
+
 // at the end of the current data
 
- 
+
 .
 padEnd
 (
 numberOfLevers
 ,
- 
+
 '
 0
 '
 )
 
- 
+
 .
 split
 (
 ''
 )
 
- 
+
 .
 map
 (
 b
- 
+
 =>
- 
+
 b
- 
+
 ===
- 
+
 '
 1
 '
 )
 
- 
+
 const
- 
+
 allUrls
- 
+
 =
- 
+
 bits
 .
 map
 ((
 bit
 ,
- 
+
 key
 )
- 
+
 =>
- 
- 
+
+
 `http://localhost:8080/api/switch-
 ${
 bit
- 
+
 ?
- 
+
 '
 on
 '
- 
+
 :
- 
+
 '
 off
 '
 }
-/HTTP Lever 
+/HTTP Lever
 ${
 key
- 
+
 +
- 
+
 1
 }
 `
 
- 
+
 )
 
- 
+
 await
- 
+
 Promise
 .
 all
@@ -647,15 +647,15 @@ allUrls
 map
 (
 url
- 
+
 =>
- 
+
 fetch
 (
 url
 )))
 
- 
+
 console
 .
 log
@@ -689,23 +689,23 @@ addEventListener
 click
 '
 ,
- 
-async 
+
+async
 ()
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 response
- 
+
 =
- 
+
 await
- 
+
 fetch
 (
 '
@@ -713,48 +713,48 @@ http://localhost:8080/api/levers
 '
 )
 
- 
+
 const
- 
+
 json
- 
+
 =
- 
+
 await
- 
+
 response
 .
 json
 ()
 
- 
+
 const
- 
+
 sorted
- 
+
 =
- 
+
 json
 .
 sort
 ((
 a
 ,
- 
+
 b
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 aNumber
- 
+
 =
- 
+
 Number
 (
 a
@@ -764,20 +764,20 @@ name
 replace
 (
 '
-HTTP Lever 
+HTTP Lever
 '
 ,
- 
+
 ''
 ))
 
- 
+
 const
- 
+
 bNumber
- 
+
 =
- 
+
 Number
 (
 b
@@ -787,97 +787,97 @@ name
 replace
 (
 '
-HTTP Lever 
+HTTP Lever
 '
 ,
- 
+
 ''
 ))
 
- 
+
 return
- 
+
 aNumber
- 
+
 -
- 
+
 bNumber
 
- 
+
 })
 
- 
+
 const
- 
+
 bitString
- 
+
 =
- 
+
 sorted
 .
 map
 (
 l
- 
+
 =>
- 
+
 l
 .
 state
- 
+
 ?
- 
+
 '
 1
 '
- 
+
 :
- 
+
 '
 0
 '
 )
 
- 
+
 const
- 
+
 chunks
- 
+
 =
- 
+
 []
 
- 
-for 
+
+for
 (
 let
- 
+
 i
- 
+
 =
- 
+
 0
 ;
- 
+
 i
- 
+
 <
- 
+
 bitString
 .
 length
 ;
- 
+
 i
- 
+
 +=
- 
+
 chunkSize
 )
- 
+
 {
 
- 
+
 chunks
 .
 push
@@ -888,11 +888,11 @@ slice
 (
 i
 ,
- 
+
 i
- 
+
 +
- 
+
 chunkSize
 ).
 join
@@ -900,67 +900,67 @@ join
 ''
 ))
 
- 
+
 }
 
- 
+
 const
- 
+
 numbers
- 
+
 =
- 
+
 chunks
 .
 map
 (
 c
- 
+
 =>
- 
+
 Number
 .
 parseInt
 (
 c
 ,
- 
+
 2
 ))
 
- 
+
 // We filter out everything that's only 0s, because that's likely garbage-data
 
- 
+
 .
 filter
 (
 n
- 
+
 =>
- 
+
 n
- 
+
 >
- 
+
 0
 )
 
- 
+
 const
- 
+
 letters
- 
+
 =
- 
+
 numbers
 .
 map
 (
 n
- 
+
 =>
- 
+
 String
 .
 fromCharCode
@@ -968,13 +968,13 @@ fromCharCode
 n
 ))
 
- 
+
 const
- 
+
 data
- 
+
 =
- 
+
 JSON
 .
 parse
@@ -986,24 +986,24 @@ join
 ''
 ))
 
- 
+
 title
 .
 value
- 
+
 =
- 
+
 data
 .
 title
 
- 
+
 text
 .
 value
- 
+
 =
- 
+
 data
 .
 text
@@ -1029,7 +1029,7 @@ I hope you enjoyed reading this article as much as I enjoyed writing it! If so, 
 If you want to support my efforts,you can offer me a coffee☕! You can also support me directly viaPaypal!Or follow me onBluesky🦋!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

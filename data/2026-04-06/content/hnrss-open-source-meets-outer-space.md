@@ -17,7 +17,7 @@ tags:
 13 cm
 
 Price:
- 
+
 $49 - 99 (TBD)
 
 #### Overview
@@ -25,7 +25,7 @@ $49 - 99 (TBD)
 A 4-antenna SDR tile designed for arraying.Useful as a standalone SDR or as a building block for larger phased arrays.
 
 The QuadRF will be available soon!
- See 
+ See
 updates
 .
 

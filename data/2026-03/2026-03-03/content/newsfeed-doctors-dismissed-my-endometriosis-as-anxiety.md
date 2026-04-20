@@ -100,7 +100,7 @@ Ami wants to change the perception of endometriosis and for people to understand
 ## 'My children are watching me deteriorate'
 
 Faye Ramsey
-Faye Ramsey says doctors told her countless times she did not have endometriosis 
+Faye Ramsey says doctors told her countless times she did not have endometriosis
 
 Eleven years ago, Faye Ramsey, 31, from Ipswich, collapsed with severe stomach pain at a wedding.
 
@@ -113,7 +113,7 @@ Last March, Faye had a laparoscopy and says before the procedure, her surgeon sa
 Faye was reduced to tears but says she did not challenge him because she felt "my life is going to be in his hands in a matter of hours".
 
 Endometriosis UK
-Endometriosis builds up around the fallopian tubes and ovaries and can also spread outside the uterus 
+Endometriosis builds up around the fallopian tubes and ovaries and can also spread outside the uterus
 
 Afterwards, the surgeon admitted he did find endometriosis, but claimed it was "only a small patch" that had been removed and she would be "absolutely fine" now.
 

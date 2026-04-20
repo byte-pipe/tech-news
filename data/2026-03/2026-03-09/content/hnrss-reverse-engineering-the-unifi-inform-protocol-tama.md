@@ -71,21 +71,21 @@ The MAC is in the header because the controller needs to identify the devicebefo
 
 Extracting it is almost nothing:
 
-header 
+header
 :=
  make
 ([]
 byte
-, 
+,
 40
 )
 
 if
- _, err 
+ _, err
 :=
  io.
 ReadFull
-(conn, header); err 
+(conn, header); err
 !=
  nil
  {
@@ -95,7 +95,7 @@ ReadFull
 
 }
 
- 
+
 
 if
  string
@@ -103,7 +103,7 @@ if
 0
 :
 4
-]) 
+])
 !=
  "TNBU"
  {
@@ -117,9 +117,9 @@ Errorf
 
 }
 
- 
 
-mac 
+
+mac
 :=
  fmt.
 Sprintf

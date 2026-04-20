@@ -17,7 +17,7 @@ tags:
 
 arXiv:2603.21852
  (cs)
- 
+
 
  [Submitted on 23 Mar 2026 (
 v1
@@ -27,7 +27,7 @@ v1
 
 Authors:
 Andrzej Odrzywołek
- 
+
 View a PDF of the paper titled All elementary functions from a single binary operator, by Andrzej Odrzywo{\l}ek
 
 View PDF
@@ -36,9 +36,9 @@ HTML (experimental)
 
 Abstract:
 A single two-input gate suffices for all of Boolean logic in digital hardware. No comparable primitive has been known for continuous mathematics: computing elementary functions such as sin, cos, sqrt, and log has always required multiple distinct operations. Here I show that a single binary operator, eml(x,y)=exp(x)-ln(y), together with the constant 1, generates the standard repertoire of a scientific calculator. This includes constants such as e, pi, and i; arithmetic operations including addition, subtraction, multiplication, division, and exponentiation as well as the usual transcendental and algebraic functions. For example, exp(x)=eml(x,1), ln(x)=eml(1,eml(eml(1,x),1)), and likewise for all other operations. That such an operator exists was not anticipated; I found it by systematic exhaustive search and established constructively that it suffices for the concrete scientific-calculator basis. In EML (Exp-Minus-Log) form, every such expression becomes a binary tree of identical nodes, yielding a grammar as simple as S -> 1 | eml(S,S). This uniform structure also enables gradient-based symbolic regression: using EML trees as trainable circuits with standard optimizers (Adam), I demonstrate the feasibility of exact recovery of closed-form elementary functions from numerical data at shallow tree depths up to 4. The same architecture can fit arbitrary data, but when the generating law is elementary, it may recover the exact formula.
- 
 
- 
+
+
 
 Comments:
 
@@ -47,7 +47,7 @@ Subjects:
 Symbolic Computation (cs.SC)
 ; Machine Learning (cs.LG)
 
- 
+
 
 MSC
  classes:
@@ -66,16 +66,16 @@ arXiv:2603.21852
 
  
 
-(or 
+(or
 
 arXiv:2603.21852v2
  [cs.SC]
  for this version)
- 
+
 
  
 
- 
+
 https://doi.org/10.48550/arXiv.2603.21852
 
 Focus to learn more
@@ -86,8 +86,8 @@ Focus to learn more
 
  From: Andrzej Odrzywolek [
 view email
-] 
- 
+]
+
 [v1]
 
  Mon, 23 Mar 2026 11:40:24 UTC (1,393 KB)
@@ -106,7 +106,7 @@ Full-text links:
 
 view license
 
- 
+
 
 Ancillary-file links:
 
@@ -114,27 +114,27 @@ Ancillary-file links:
 
 * SupplementaryInformation.pdf
 
- Current browse context: 
+ Current browse context:
 cs.SC
 
 < prev
 
   |  
- 
+
 
 next >
 
 new
 
- | 
+ |
 
 recent
 
- | 
+ |
 2026-03
 
  Change to browse by:
- 
+
 
 cs
 
@@ -155,11 +155,11 @@ Loading...
 
 loading...
 
-Data provided by: 
+Data provided by:
 
 ### Bookmark
 
- 
+
 
 Bibliographic Tools
 
@@ -168,7 +168,7 @@ Bibliographic Tools
 Bibliographic Explorer Toggle
 
 Bibliographic Explorer
- 
+
 (
 What is the Explorer?
 )
@@ -176,7 +176,7 @@ What is the Explorer?
 Connected Papers Toggle
 
 Connected Papers
- 
+
 (
 What is Connected Papers?
 )
@@ -184,7 +184,7 @@ What is Connected Papers?
 Litmaps Toggle
 
 Litmaps
- 
+
 (
 What is Litmaps?
 )
@@ -192,7 +192,7 @@ What is Litmaps?
 scite.ai Toggle
 
 scite Smart Citations
- 
+
 (
 What are Smart Citations?
 )
@@ -204,7 +204,7 @@ Code, Data, Media
 alphaXiv Toggle
 
 alphaXiv
- 
+
 (
 What is alphaXiv?
 )
@@ -212,7 +212,7 @@ What is alphaXiv?
 Links to Code Toggle
 
 CatalyzeX Code Finder for Papers
- 
+
 (
 What is CatalyzeX?
 )
@@ -220,7 +220,7 @@ What is CatalyzeX?
 DagsHub Toggle
 
 DagsHub
- 
+
 (
 What is DagsHub?
 )
@@ -228,7 +228,7 @@ What is DagsHub?
 GotitPub Toggle
 
 Gotit.pub
- 
+
 (
 What is GotitPub?
 )
@@ -236,7 +236,7 @@ What is GotitPub?
 Huggingface Toggle
 
 Hugging Face
- 
+
 (
 What is Huggingface?
 )
@@ -244,7 +244,7 @@ What is Huggingface?
 ScienceCast Toggle
 
 ScienceCast
- 
+
 (
 What is ScienceCast?
 )
@@ -256,7 +256,7 @@ Demos
 Replicate Toggle
 
 Replicate
- 
+
 (
 What is Replicate?
 )
@@ -264,7 +264,7 @@ What is Replicate?
 Spaces Toggle
 
 Hugging Face Spaces
- 
+
 (
 What is Spaces?
 )
@@ -272,7 +272,7 @@ What is Spaces?
 Spaces Toggle
 
 TXYZ.AI
- 
+
 (
 What is TXYZ.AI?
 )
@@ -284,7 +284,7 @@ Related Papers
 Link to Influence Flower
 
 Influence Flower
- 
+
 (
 What are Influence Flowers?
 )
@@ -292,7 +292,7 @@ What are Influence Flowers?
 Core recommender toggle
 
 CORE Recommender
- 
+
 (
 What is CORE?
 )
@@ -303,7 +303,7 @@ What is CORE?
 * Topic
 
  About arXivLabs
- 
+
 
 # arXivLabs: experimental projects with community collaborators
 
@@ -315,7 +315,7 @@ Have an idea for a project that will add value for arXiv's community?Learn more 
 
 Which authors of this paper are endorsers?
  |
- 
+
 Disable MathJax
  (
 What is MathJax?

@@ -18,7 +18,7 @@ Before GPS, how did aircraft navigate?
 One important technique was celestial navigation: navigating from the positions of the stars, planets,
 or the sun.
 While celestial navigation is accurate, cannot be jammed, and doesn't require any broadcast infrastructure,
-it is a difficult and time-consuming process to perform manually. 
+it is a difficult and time-consuming process to perform manually.
 In the early 1960s, an automated system was developed for the B-52 bomber to automatically track
 stars and compute navigation information.
 Digital computers weren't suitable at the time, so the star tracking system performed trigonometric
@@ -81,7 +81,7 @@ The photo below shows a Star Data display, indicating the sidereal hour angle an
 for a star.
 I removed the cover so you can see how the digital display actually consists of analog dials rotated by motors
 under synchro control.
-The system has three Star Data displays, so it can 
+The system has three Star Data displays, so it can
 hold the positions of three stars at a time.
 Getting fixes from three different stars is
 useful when computing lines of position. The system uses one star at a time, but you can quickly change stars by flipping the Star switch on the Master Control Panel.
@@ -223,7 +223,7 @@ representation, solving the navigational triangle.
 The diagram below shows how the star pointer is positioned on the two-dimensional surface of the sphere,
 using a complicated mechanism inside the sphere.
 The U-shaped declination arm swings up and down, corresponding to the star's declination (angle above
-the celestial equator). 
+the celestial equator).
 Meanwhile, the declination arm constantly rotates around the polar axis, as specified by the LHA (Local Hour Angle).
 In one (sidereal) day, the mechanism will make a full cycle, corresponding to the Earth's spin.
 Finally, the latitude arm moves the mechanism up or down, corresponding to the viewer's latitude.
@@ -234,7 +234,7 @@ Earth's rotation. Rotation around the polar axis corresponds to the Earth's dail
 
 A separate mechanism provides the altitude and azimuth outputs, driven by the star pointer.
 The key is the semicircular azimuth arc, which represents the arc from the viewer's horizon to
-the zenith, oriented to a particular azimuth. 
+the zenith, oriented to a particular azimuth.
 The star pointer is attached to the azimuth arc through a slider, so as the star pointer moves,
 it moves the slider along the azimuth arc and also rotates the azimuth arc.
 Specifically, the azimuth arc represents the line from the horizon to the zenith at a particular azimuth.
@@ -251,7 +251,7 @@ the other side of the latitude arm. At this latitude, the polar axis is almost l
 
 From the back, the numerous synchro transmitters, synchro control transformers, and motors are visible.
 Even though the computation itself is mechanical, the Angle Computer has numerous electrical components.
-In the top half, 
+In the top half,
 the synchro transmitters provide electrical outputs of the azimuth and altitude. (A synchro transmitter
 uses fixed and moving coils to convert a shaft rotation angle into a three-wire electrical signal.)
 The large gear provides the altitude output.
@@ -277,7 +277,7 @@ It could also be used onboard an aircraft.
 
 To understand the line of position, suppose you go outside and find a star directly overhead.
 If you measure the altitude—the angle from the horizon to the star—with a sextant, the angle will be 90°, since it is overhead.
-Now, suppose you teleport 60 nautical miles away in any direction. 
+Now, suppose you teleport 60 nautical miles away in any direction.
 The sextant will now show an altitude of 89° to the star, since a nautical mile is conveniently defined to match
 one minute of angle (one-sixtieth of a degree).
 Alternatively, if you measure an altitude of 89° to the star, you know you are 60 miles away from the original
@@ -409,7 +409,7 @@ You can also think of this as the sun moving around the celestial sphere once pe
 sun's position against the stars constantly changing.↩
 10. Celestial navigation usually uses the sidereal hour angle (SHA) to measure the star's position
 relative to the meridian.
-Astronomers often use theright ascensioninstead. 
+Astronomers often use theright ascensioninstead.
 The right ascension is measured in the opposite direction and is measured in hours instead of
 degrees.
 They are related by the formulaRA = (360° - SHA) / 15°.↩
@@ -433,7 +433,7 @@ your position in order to compute the star's altitude and azimuth, and you need 
 aircraft's heading to know which direction to point the telescope.
 In fact, you just need to know the approximate latitude, longitude, and heading (within 4°), and then
 the system generates a more accurate latitude, longitude, and heading. The process can be repeated
-until the values converge.Moreover, the Astro Compass is just one of the instruments that the navigator uses. 
+until the values converge.Moreover, the Astro Compass is just one of the instruments that the navigator uses.
 The magnetic compass can provide an approximate heading, and dead reckoning or inertial navigation
 can provide an approximate location. The Astro Compass can use these to generate more accurate
 information, which in turn can improve the accuracy of the dead reckoning or inertial navigation.↩

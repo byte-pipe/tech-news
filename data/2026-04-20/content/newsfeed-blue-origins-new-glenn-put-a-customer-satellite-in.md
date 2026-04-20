@@ -30,7 +30,7 @@ Blue Origin CEO Dave Limphas even saidhis company “will move heaven and Earth�
 
 Blue Origin recently completed testing its first version of its own lunar lander, which the company is expected to try and launch at some point this year (without any crew). Blue Origin had suggested last year that it was considering launching this lander on New Glenn’s third mission, but ultimatelydecided to launch the AST SpaceMobile satellite instead.
 
- 
+
 
 Techcrunch event
 
@@ -61,15 +61,15 @@ SpaceX did lose payloads deeper into its Falcon 9 program. In 2015, on the 19th 
 Topics
 
 Blue Origin
-, 
+,
 jeff bezos
-, 
+,
 Space
-, 
+,
 SpaceX
- 
 
-			Sean O'Kane	
+
+			Sean O'Kane
 
 Sr. Reporter, Transportation
 
@@ -77,6 +77,6 @@ Sean O’Kane is a reporter who has spent a decade covering the rapidly-evolving
 
 You can contact or verify outreach from Sean by emailingsean.okane@techcrunch.comor via encrypted message at okane.01 on Signal.
 
- 
+
 
 View Bio

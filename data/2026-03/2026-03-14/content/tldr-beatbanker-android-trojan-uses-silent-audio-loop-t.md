@@ -11,4 +11,3 @@ description: BeatBanker Android Trojan spreads via fake Google Play Store, using
 tags:
 - tldr
 ---
-

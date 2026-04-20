@@ -11,7 +11,7 @@ description: LiteRT, successor to TensorFlow Lite. is Google's On-device framewo
 
 google-ai-edge
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork206
 * Star1.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -204,15 +204,15 @@ Continuous Builds
 
 Other Builds
 
- 
- 
- 
- 
 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
 
 ## Description
 
@@ -456,66 +456,66 @@ ai.google.dev/edge/litert/next/overview
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.6k
 
  stars
- 
+
 
 ### Watchers
 
 15
 
  watching
- 
+
 
 ### Forks
 
 206
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases12
 
@@ -523,11 +523,11 @@ v2.1.2
 
  Latest
 
- 
+
 
 Jan 28, 2026
 
- 
+
 
 + 11 releases
 
@@ -543,17 +543,17 @@ Jan 28, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -561,9 +561,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

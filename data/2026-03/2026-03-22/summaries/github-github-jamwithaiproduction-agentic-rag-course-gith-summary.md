@@ -1,7 +1,7 @@
 ---
 title: GitHub - jamwithai/production-agentic-rag-course · GitHub
 url: https://github.com/jamwithai/production-agentic-rag-course
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-22T11:34:41.496210

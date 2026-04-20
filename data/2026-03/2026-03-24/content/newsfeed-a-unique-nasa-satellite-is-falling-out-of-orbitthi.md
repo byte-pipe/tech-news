@@ -33,22 +33,22 @@ But the Swift spacecraft will surely crash back to Earth, likely before the end 
 That is, if everything goes according to plan.
 
  Artist’s illustration of Katalyst’s Link spacecraft (top) approaching NASA’s Swift observatory (bottom).
- 
+
 
  Credit:
  Katalyst Space Technologies
- 
+
 
  Artist’s illustration of Katalyst’s Link spacecraft (top) approaching NASA’s Swift observatory (bottom).
 
- 
+
 
  Credit:
 
- 
+
  Katalyst Space Technologies
 
- 
+
 
 ## Deadline looming
 
@@ -89,22 +89,22 @@ Katalyst beat out competing proposals fromStarfish Spaceand a team consisting of
 At that time, officials expected Swift would reenter the atmosphere around the end of this year, or perhaps as late as the first part of 2027. But the Sun has been active, triggering strong geomagnetic storms. With those storms, the Earth’s atmosphere expands, leading to more air resistance in low-Earth orbit. Now, engineers predict Swift will decay sometime between late July and October, Lee said.
 
  Concept of operations for the Swift rescue mission.
- 
+
 
  Credit:
  Katalyst Space Technologies
- 
+
 
  Concept of operations for the Swift rescue mission.
 
- 
+
 
  Credit:
 
- 
+
  Katalyst Space Technologies
 
- 
+
 
 ## Will this actually work?
 
@@ -151,22 +151,22 @@ Pegasus was the world’s first privately developed orbital launch vehicle. It h
 Using the Pegasus rocket for the Swift rescue mission might seem surprising, but a closer examination reveals a good reason for it. Swift flies close to the equator, swinging between 20 degrees north and south latitude on each orbit, to minimize time flying over the South Atlantic Anomaly, a weak spot in Earth’s magnetic field where satellites are exposed to higher doses of damaging radiation. For Swift, this exposure could contaminate science observations.
 
  In this photo from 2016, a Pegasus XL rocket falls away from its carrier aircraft moments before ignition to deliver a NASA research mission to low-Earth orbit.
- 
+
 
  Credit:
  NASA/Lori Losey
- 
+
 
  In this photo from 2016, a Pegasus XL rocket falls away from its carrier aircraft moments before ignition to deliver a NASA research mission to low-Earth orbit.
 
- 
+
 
  Credit:
 
- 
+
  NASA/Lori Losey
 
- 
+
 
 If launched on a Falcon 9, the rescue mission would require a dedicated ride from Cape Canaveral, Florida, to reach such an unusual orbit. It could not take advantage of SpaceX’s lower-cost Transporter and Bandwagon rideshare missions that routinely deliver small satellites to higher-inclination orbits. And Katalyst’s spacecraft is too heavy for Rocket Lab.
 
@@ -181,17 +181,17 @@ The Pegasus system has the advantage of being mobile. The rocket and its airborn
 “It’s kind of sad that it’s the last Pegasus because it’s a really good architecture for things like this,” Lee said. “You can imagine that there are going to be other use cases.”
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark is a space reporter at Ars Technica, covering private space companies and the world’s space agencies. Stephen writes about the nexus of technology, science, policy, and business on and off the planet.
- 
+
 
 1. 1.A unique NASA satellite is falling out of orbit—this team is trying to rescue it
 2. 2.US to pay TotalEnergies $1 billion to stop developing offshore wind in US

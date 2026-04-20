@@ -1,7 +1,7 @@
 ---
 title: GitHub - vas3k/TaxHacker: Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories · GitHub
 url: https://github.com/vas3k/TaxHacker
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-20T11:32:33.214384

@@ -14,7 +14,7 @@ tags:
 
 robertcprice
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork10
 * Star284
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -128,7 +128,7 @@ A CPU that runs entirely on GPU — registers, memory, flags, and program counte
 
 ## Quick Start
 
-pip install -e 
+pip install -e
 "
 .[dev]
 "
@@ -146,7 +146,7 @@ python main.py --program programs/fibonacci.asm --trace
 #
  Inline assembly
 
-python main.py --inline 
+python main.py --inline
 "
 MOV R0, 42; HALT
 "
@@ -470,19 +470,19 @@ execution loop.
 Neural Mode(default) — Every ALU operation is a forward pass through a trained.ptmodel:
 
 from
- 
+
 ncpu
 .
 model
- 
+
 import
- 
+
 CPU
 
 cpu
- 
+
 =
- 
+
 CPU
 (
 neural_execution
@@ -515,31 +515,31 @@ cpu
 get_register
 (
 "R2"
-)) 
+))
 # 42 (computed by neural byte-pair LUT)
 
 Fast Mode(--fast) — Same GPU-resident architecture, but ALU usestorch.add/torch.mulinstead of model inference. Targets1.35M IPSat batch_size=32768 on Apple Silicon MPS:
 
 from
- 
+
 ncpu
 .
 neural
- 
+
 import
- 
+
 NeuralCPU
 
 cpu
- 
+
 =
- 
+
 NeuralCPU
 (
 fast_mode
 =
 True
-) 
+)
 # Native GPU tensor ops
 
 cpu
@@ -753,43 +753,43 @@ nCPU: model-native and tensor-optimized CPU research runtimes with organized wor
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 284
 
  stars
- 
+
 
 ### Watchers
 
 2
 
  watching
- 
+
 
 ### Forks
 
 10
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -807,9 +807,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors2
 

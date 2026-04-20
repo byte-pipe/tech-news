@@ -34,8 +34,8 @@ bookmark
 
 ##### Sangam Prasain
 
-Published at : March 27, 2026 
-Updated at : March 29, 2026 16:16 
+Published at : March 27, 2026
+Updated at : March 29, 2026 16:16
 
 In Nepal, helicopter rescue on high altitude is, by any measure, a genuine lifesaving operation. At high altitude, where oxygen thins and weather changes without warning, the ability to airlift a stricken trekker to Kathmandu within hours has saved countless lives. But threaded through that legitimate system, exploiting its urgency, its opacity, and its distance from oversight, — is one of the most sophisticated insurance fraud networks in the world.
 
@@ -96,7 +96,7 @@ The new investigation is a story about institutional failure in Nepal. In 2018, 
 Thecommittee recommendedthat all helicopter companies, hospitals, tour operators and insurance firms be required to submit details of rescue flights and medical treatment to the Tourist Search & Rescue Committee, the Tourist Police, and the Department of Tourism. Intermediaries were to be eliminated and tour operators were held legally responsible for their clients throughout a trip.
 
  
-Shutterstock 
+Shutterstock
 
 But none of that worked.
 
@@ -132,22 +132,22 @@ Sangam Prasain is Business Editor at The Kathmandu Post, covering tourism, agric
 
 ##### Nepse closes higher at 2,782.18 with Rs 8.81 billion turnover
 
- 
+
 
 ##### Gold price declines, silver follows suit
 
- 
+
 
 ##### Nepse plunges 74.73 points as all sub-indices decline
 
- 
+
 
 ##### Nepal hikes jet fuel to historic high as West Asia war drives global surge
 
- 
+
 
 ##### Ride-Hailing riders demand uniform fare as price gaps trigger tensions
 
- 
+
 
 ##### Gold and silver prices surge

@@ -13,7 +13,7 @@ tags:
 
 simple10
 
- 
+
 
 /
 
@@ -25,9 +25,9 @@ Public
 * Fork8
 * Star250
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -316,102 +316,102 @@ If you havejustinstalled:
 #
  Local Dev Commands:
 
-just install 
+just install
 #
  Install all dependencies
 
-just dev 
+just dev
 #
  Start server + client in dev mode (hot reload)
 
-just dev-server 
+just dev-server
 #
  Start only the server
 
-just dev-client 
+just dev-client
 #
  Start only the client
 
-just dev-client-build 
+just dev-client-build
 #
  Build the client for production
 
-just 
+just
 test
- 
+
 #
  Run all tests (server + client)
 
-just test-event 
+just test-event
 #
  Send a test event to the server
 
-just fmt 
+just fmt
 #
  Format all source files
 
 #
  Docker Container Commands:
 
-just build 
+just build
 #
  Build the Docker image locally
 
-just start 
+just start
 #
  Start production containers (Docker, detached)
 
-just stop 
+just stop
 #
  Stop Docker containers
 
-just restart 
+just restart
 #
  Restart Docker containers
 
-just logs 
+just logs
 #
  Follow Docker container logs
 
 #
  Local Server Commands:
 
-just start-local 
+just start-local
 #
  Builds client and runs local server (without docker)
 
-npm run start 
+npm run start
 #
  Same as `just start-local`
 
 #
  Setup & Utilities:
 
-just setup-hooks 
+just setup-hooks
 <
 name
 >
- 
+
 #
  Generate hooks config for a project
 
-just health 
+just health
 #
  Check server health
 
-just cli 
+just cli
 <
 command
 >
- 
+
 #
  Run the CLI (hook, health, start, stop, restart)
 
-just db-reset 
+just db-reset
 #
  Delete the events database
 
-just open 
+just open
 #
  Open the dashboard in browser
 
@@ -465,7 +465,7 @@ Port 4981 in use?
 
 If another process is using port 4981, stop it or remove a stale container:
 
-docker stop agents-observe 
+docker stop agents-observe
 &&
  docker rm agents-observe
 
@@ -518,53 +518,53 @@ Real-time observability of claude code sessions & multi-agents.
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 250
 
  stars
- 
+
 
 ### Watchers
 
 1
 
  watching
- 
+
 
 ### Forks
 
 8
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases10
 
@@ -572,11 +572,11 @@ v0.7.4
 
  Latest
 
- 
+
 
 Apr 1, 2026
 
- 
+
 
 + 9 releases
 
@@ -592,9 +592,9 @@ Apr 1, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -602,9 +602,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

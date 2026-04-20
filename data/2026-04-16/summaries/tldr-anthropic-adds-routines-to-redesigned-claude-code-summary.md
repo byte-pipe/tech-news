@@ -24,8 +24,8 @@ Anthropic, a developer of automated tools, recently added a new feature to their
 - Users can schedule routines to run on-demand, saving time and resources.
 
 ## Additional Features Include:
- 
-- Integration with multiple Mac operating systems: 
+
+- Integration with multiple Mac operating systems:
   - Pro (5 automation limits)
   - Max (15 automation limits)
   - Team/Enterprise (25 automation limits)
@@ -36,7 +36,7 @@ Anthropic, a developer of automated tools, recently added a new feature to their
 - Integrated terminal, file editing, HTML, PDF preview, and drag-and-drop layout for easier workflow optimization.
 
     Additionally the redesigned Claude Code experience includes:
- 
+
         - Faster diff viewer
         - All features optimized for Mac usability
 

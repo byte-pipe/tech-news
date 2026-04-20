@@ -178,14 +178,14 @@ Upload your dependency manifest and receive a quote instantly.
 package.json
 
  Select File
- 
+
 
 ### ▶ Dependencies Detected
 
 ×
 
  Proceed to Liberation →
- 
+
 
 #### Supported Ecosystems
 
@@ -217,14 +217,14 @@ Transparent, pay-per-KB pricing. No tiers, no subscriptions, no hidden fees.
 Every package is priced by itsunpacked size on npm. We look up each dependency in yourpackage.json, measure the size in kilobytes, and charge…per KB. That's it.
 
 per package
- = max( 
+ = max(
 …
-, size_kb × 
+, size_kb ×
 …
  )
 
 order total
- = max( 
+ = max(
 …
 , sum of all packages )
 
@@ -353,6 +353,6 @@ No credit card required for quotes. Payment accepted in USD, EUR, BTC, and stock
 ## Complete YourLiberation
 
  ▶ Complete Liberation
- 
+
 
 You will be redirected to Stripe to complete payment securely. After payment, your clean room jobs will begin automatically.

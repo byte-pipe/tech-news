@@ -15,7 +15,7 @@ tags:
 
 EdoStra
 
- 
+
 
 /
 
@@ -28,9 +28,9 @@ Public
 * Fork413
 * Star4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -537,53 +537,53 @@ Practical marketing resources to get the first 10 / 100 / 1000 users for your Sa
 
  Readme
 
- 
+
 
 ### License
 
  CC-BY-SA-4.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 4k
 
  stars
- 
+
 
 ### Watchers
 
 68
 
  watching
- 
+
 
 ### Forks
 
 413
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Sponsor this project
 
@@ -591,11 +591,11 @@ Activity
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * ko-fi.com/marketingforfounders
 
 ## Contributors

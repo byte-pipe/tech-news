@@ -160,7 +160,7 @@ add
 param
 )
 ;
- 
+
 // user input added here
 3
 valuesList
@@ -178,10 +178,10 @@ remove
 0
 )
 ;
- 
+
 // removes "safe"
 5
-bar 
+bar
 =
  valuesList
 .
@@ -190,21 +190,21 @@ get
 1
 )
 ;
- 
+
 // gets "moresafe", NOT the user input
 6
 // ...
 7
 String
- sql 
+ sql
 =
- 
+
 "SELECT * from USERS where USERNAME='foo' and PASSWORD='"
- 
+
 +
- bar 
+ bar
 +
- 
+
 "'"
 ;
 Copy

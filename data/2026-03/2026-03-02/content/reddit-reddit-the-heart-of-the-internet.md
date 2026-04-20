@@ -9,7 +9,7 @@ author: Force_Hammer
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 Force_Hammer
 
- 
+
 
 # First oil tanker attacked in the Strait of Hormuz according to Oman
 
  euronews.com
- 
+
 
 Open

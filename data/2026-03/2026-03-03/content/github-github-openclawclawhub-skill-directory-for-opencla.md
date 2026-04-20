@@ -11,7 +11,7 @@ description: Skill Directory for OpenClaw. Contribute to openclaw/clawhub develo
 
 openclaw
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork703
 * Star3.8k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -308,15 +308,15 @@ Add this toSKILL.md:
 ---
 
 name
-: 
+:
 peekaboo
 
 description
-: 
+:
 Capture and automate macOS UI with the Peekaboo CLI.
 
 metadata
-: 
+:
 {"clawdbot":{"nix":{"plugin":"github:clawdbot/nix-steipete-tools?dir=tools/peekaboo","systems":["aarch64-darwin"]}}}
 
 ---
@@ -328,21 +328,21 @@ programs
 clawdbot
 .
 plugins
- 
+
 =
- 
+
 [
 
- 
+
 {
- 
+
 source
- 
+
 =
- 
+
 "github:clawdbot/nix-steipete-tools?dir=tools/peekaboo"
 ;
- 
+
 }
 
 ]
@@ -353,15 +353,15 @@ You can also declare config requirements + an example snippet:
 ---
 
 name
-: 
+:
 padel
 
 description
-: 
+:
 Check padel court availability and manage bookings via Playtomic.
 
 metadata
-: 
+:
 {"clawdbot":{"config":{"requiredEnv":["PADEL_AUTH_FILE"],"stateDirs":[".config/padel"],"example":"config = { env = { PADEL_AUTH_FILE = \\\"/run/agenix/padel-auth\\\"; }; };"}}}
 
 ---
@@ -371,15 +371,15 @@ To show CLI help (recommended for nix plugins), include thecli --helpoutput:
 ---
 
 name
-: 
+:
 padel
 
 description
-: 
+:
 Check padel court availability and manage bookings via Playtomic.
 
 metadata
-: 
+:
 {"clawdbot":{"cliHelp":"padel --help\\nUsage: padel [command]\\n"}}
 
 ---
@@ -397,36 +397,36 @@ Quick example:
 ---
 
 name
-: 
+:
 my-skill
 
 description
-: 
+:
 Does a thing with an API.
 
 metadata
 :
- 
+
 openclaw
 :
- 
+
 requires
 :
- 
+
 env
 :
- - 
+ -
 MY_API_KEY
 
- 
+
 bins
 :
- - 
+ -
 curl
 
- 
+
 primaryEnv
-: 
+:
 MY_API_KEY
 
 ---
@@ -435,7 +435,7 @@ MY_API_KEY
 
 bun run dev
 bun run build
-bun run 
+bun run
 test
 
 bun run coverage
@@ -457,61 +457,61 @@ clawhub.ai
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 3.8k
 
  stars
- 
+
 
 ### Watchers
 
 35
 
  watching
- 
+
 
 ### Forks
 
 703
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Sponsor this project
 
@@ -519,17 +519,17 @@ Custom properties
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -537,9 +537,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

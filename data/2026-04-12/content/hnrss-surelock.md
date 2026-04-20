@@ -101,7 +101,7 @@ When
 Acquisition
 Enforcement
 LockSet
-Multiple locks at the 
+Multiple locks at the
 same
  level
 Atomic (all-or-nothing)
@@ -109,7 +109,7 @@ Runtime sort by stable ID
 Levels (
 Level<N>
 )
-Locks at 
+Locks at
 different
  levels
 Incremental
@@ -141,7 +141,7 @@ new
 "bob"
 );
 
- 
+
 
 // Regardless of argument order, acquisition order is deterministic
 
@@ -154,12 +154,12 @@ new
 ((
 &
 alice
-, 
+,
 &
 bob
 ));
 
- 
+
 
 key_handle
 .
@@ -173,9 +173,9 @@ key
  let
  (
 a
-, 
+,
 b
-) 
+)
 =
  set
 .
@@ -261,7 +261,7 @@ type
 2
 >;
 
- 
+
 
 let
  config
@@ -269,9 +269,9 @@ let
  Mutex
 <
 _
-, 
+,
 Config
-> 
+>
 =
  Mutex
 ::
@@ -287,9 +287,9 @@ let
  Mutex
 <
 _
-, 
+,
 Account
-> 
+>
 =
  Mutex
 ::
@@ -300,7 +300,7 @@ Balance
 0
 ));
 
- 
+
 
 lock_scope
 (
@@ -312,31 +312,31 @@ key
  let
  (
 cfg
-, 
+,
 key
-) 
+)
 =
  config
 .
 lock
 (
 key
-); 
+);
 // Level 1 -> ok
 
  let
  (
 acct
-, 
+,
 key
-) 
+)
 =
  account
 .
 lock
 (
 key
-); 
+);
 // Level 2 after 1 -> ok
 
  // account.lock(key) then config.lock(key) -> compile error
@@ -368,7 +368,7 @@ use
 Mutex
 , lock_scope};
 
- 
+
 
 let
  data
@@ -380,7 +380,7 @@ new
 42
 );
 
- 
+
 
 lock_scope
 (
@@ -392,9 +392,9 @@ key
  let
  (
 guard
-, 
+,
 key
-) 
+)
 =
  data
 .
@@ -407,7 +407,7 @@ key
 (
 *
 guard
-, 
+,
 42
 );
 
@@ -491,7 +491,7 @@ Here we start with the root key that can lock any level (“above level 0”). W
 │ │ │
 │ lock_6 │ │
 │ │ │
-└───────────────────────────┘ └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ 
+└───────────────────────────┘ └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
 # no_stdand Embedded
 

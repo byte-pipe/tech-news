@@ -122,7 +122,7 @@ But if the answers make you uncomfortable, don't let guilt talk you out of what 
 I write daily about engineering leadership atjonoherrington.com.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

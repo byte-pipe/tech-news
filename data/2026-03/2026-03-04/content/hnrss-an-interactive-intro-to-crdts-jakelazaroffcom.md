@@ -39,39 +39,39 @@ This post will exclusively focus on on state-based CRDTs. For brevity, I’ll ju
 I’ve been talking about what CRDTs do, but whatisa CRDT? Let’s make it concrete: a CRDT is any data structure that implements this interface:3
 
 interface
- 
+
 CRDT
 <
 T
 ,
- 
+
 S
 >
- 
+
 {
 
  value
 :
- 
+
 T
 ;
 
  state
 :
- 
+
 S
 ;
 
- 
+
 merge
 (
 state
 :
- 
+
 S
 )
 :
- 
+
 void
 ;
 
@@ -116,55 +116,55 @@ Did you get a sense for how LWW Registers work? Here are a couple specific scena
 Here’s the code for the LWW Register:
 
 class
- 
+
 LWWRegister
 <
 T
 >
- 
+
 {
 
- 
+
 readonly
  id
 :
- 
+
 string
 ;
 
  state
 :
- 
+
 [
 peer
 :
- 
+
 string
 ,
  timestamp
 :
- 
+
 number
 ,
  value
 :
- 
+
 T
 ]
 ;
 
- 
+
 get
- 
+
 value
 (
 )
- 
+
 {
 
- 
+
 return
- 
+
 this
 .
 state
@@ -173,197 +173,197 @@ state
 ]
 ;
 
- 
+
 }
 
- 
+
 constructor
 (
 id
 :
- 
+
 string
 ,
  state
 :
- 
+
 [
 string
 ,
- 
+
 number
 ,
- 
+
 T
 ]
 )
- 
+
 {
 
- 
+
 this
 .
-id 
+id
 =
  id
 ;
 
- 
+
 this
 .
-state 
+state
 =
  state
 ;
 
- 
+
 }
 
- 
+
 set
 (
 value
 :
- 
+
 T
 )
- 
+
 {
 
- 
+
 // set the peer ID to the local ID, increment the local timestamp by 1 and set the value
 
- 
+
 this
 .
-state 
+state
 =
- 
+
 [
 this
 .
 id
 ,
- 
+
 this
 .
 state
 [
 1
 ]
- 
+
 +
- 
+
 1
 ,
  value
 ]
 ;
 
- 
+
 }
 
- 
+
 merge
 (
 state
 :
- 
+
 [
 peer
 :
- 
+
 string
 ,
  timestamp
 :
- 
+
 number
 ,
  value
 :
- 
+
 T
 ]
 )
- 
+
 {
 
- 
+
 const
- 
+
 [
 remotePeer
 ,
  remoteTimestamp
 ]
- 
+
 =
  state
 ;
 
- 
+
 const
- 
+
 [
 localPeer
 ,
  localTimestamp
 ]
- 
+
 =
- 
+
 this
 .
 state
 ;
 
- 
+
 // if the local timestamp is greater than the remote timestamp, discard the incoming value
 
- 
+
 if
- 
+
 (
-localTimestamp 
+localTimestamp
 >
  remoteTimestamp
 )
- 
+
 return
 ;
 
- 
+
 // if the timestamps are the same but the local peer ID is greater than the remote peer ID, discard the incoming value
 
- 
+
 if
- 
+
 (
-localTimestamp 
+localTimestamp
 ===
- remoteTimestamp 
+ remoteTimestamp
 &&
- localPeer 
+ localPeer
 >
  remotePeer
 )
- 
+
 return
 ;
 
- 
+
 // otherwise, overwrite the local state with the remote state
 
- 
+
 this
 .
-state 
+state
 =
  state
 ;
 
- 
+
 }
 
 }
@@ -385,25 +385,25 @@ Most programs involve more than one value,6which means we’ll need a more compl
 Let’s start by defining a couple types. First, our value type:
 
 type
- 
+
 Value
 <
 T
 >
- 
+
 =
- 
+
 {
 
- 
+
 [
 key
 :
- 
+
 string
 ]
 :
- 
+
 T
 ;
 
@@ -415,30 +415,30 @@ If each individual map value holds typeT, then the value of the entire LWW Map i
 Here’s our state type:
 
 type
- 
+
 State
 <
 T
 >
- 
+
 =
- 
+
 {
 
- 
+
 [
 key
 :
- 
+
 string
 ]
 :
  LWWRegister
 <
 T
- 
+
 |
- 
+
 null
 >
 [
@@ -466,27 +466,27 @@ JavaScript is required to run this demo.
 The full LWW Map class is kinda beefy, so let’s go through each property one by one. Here’s the start of it:
 
 class
- 
+
 LWWMap
 <
 T
 >
- 
+
 {
 
- 
+
 readonly
- id 
+ id
 =
- 
+
 ""
 ;
 
- #data 
+ #data
 =
- 
+
 new
- 
+
 Map
 <
 string
@@ -494,21 +494,21 @@ string
  LWWRegister
 <
 T
- 
+
 |
- 
+
 null
 >>
 (
 )
 ;
 
- 
+
 constructor
 (
 id
 :
- 
+
 string
 ,
  state
@@ -518,32 +518,32 @@ string
 T
 >
 )
- 
+
 {
 
- 
+
 this
 .
-id 
+id
 =
  id
 ;
 
- 
+
 // create a new register for each key in the initial state
 
- 
+
 for
- 
+
 (
 const
- 
+
 [
 key
 ,
  register
 ]
- 
+
 of
  Object
 .
@@ -552,10 +552,10 @@ entries
 state
 )
 )
- 
+
 {
 
- 
+
 this
 .
 #data
@@ -564,9 +564,9 @@ set
 (
 key
 ,
- 
+
 new
- 
+
 LWWRegister
 (
 this
@@ -578,10 +578,10 @@ id
 )
 ;
 
- 
+
 }
 
- 
+
 }
 
 }
@@ -590,16 +590,16 @@ id
 
 Remember, CRDTs need three properties:value,stateandmerge. We’ll look atvaluefirst:
 
- 
+
 get
- 
+
 value
 (
 )
- 
+
 {
 
- 
+
 const
  value
 :
@@ -607,30 +607,30 @@ const
 <
 T
 >
- 
+
 =
- 
+
 {
 }
 ;
 
- 
+
 // build up an object where each value is set to the value of the register at the corresponding key
 
- 
+
 for
- 
+
 (
 const
- 
+
 [
 key
 ,
  register
 ]
- 
+
 of
- 
+
 this
 .
 #data
@@ -639,56 +639,56 @@ entries
 (
 )
 )
- 
+
 {
 
- 
+
 if
- 
+
 (
 register
 .
-value 
+value
 !==
- 
+
 null
 )
  value
 [
 key
 ]
- 
+
 =
  register
 .
 value
 ;
 
- 
+
 }
 
- 
+
 return
  value
 ;
 
- 
+
 }
 
 It’s a getter that iterates through the keys and gets each register’svalue. As far as the rest of the app is concerned, it’s just normal map!
 
 Now let’s look atstate:
 
- 
+
 get
- 
+
 state
 (
 )
- 
+
 {
 
- 
+
 const
  state
 :
@@ -696,30 +696,30 @@ const
 <
 T
 >
- 
+
 =
- 
+
 {
 }
 ;
 
- 
+
 // build up an object where each value is set to the full state of the register at the corresponding key
 
- 
+
 for
- 
+
 (
 const
- 
+
 [
 key
 ,
  register
 ]
- 
+
 of
- 
+
 this
 .
 #data
@@ -728,12 +728,12 @@ entries
 (
 )
 )
- 
+
 {
 
- 
+
 if
- 
+
 (
 register
 )
@@ -741,29 +741,29 @@ register
 [
 key
 ]
- 
+
 =
  register
 .
 state
 ;
 
- 
+
 }
 
- 
+
 return
  state
 ;
 
- 
+
 }
 
 Similar tovalue, it’s a getter that builds up a map from each register’sstate.
 
 There’s a clear trend here: iterating through the keys in#dataand handing things off to the register stored at that key. You’d thinkmergewould work the same way, but it’s a little more involved:
 
- 
+
 merge
 (
 state
@@ -773,24 +773,24 @@ state
 T
 >
 )
- 
+
 {
 
- 
+
 // recursively merge each key's register with the incoming state for that key
 
- 
+
 for
- 
+
 (
 const
- 
+
 [
 key
 ,
  remote
 ]
- 
+
 of
  Object
 .
@@ -799,14 +799,14 @@ entries
 state
 )
 )
- 
+
 {
 
- 
+
 const
- local 
+ local
 =
- 
+
 this
 .
 #data
@@ -817,12 +817,12 @@ key
 )
 ;
 
- 
+
 // if the register already exists, merge it with the incoming state
 
- 
+
 if
- 
+
 (
 local
 )
@@ -834,12 +834,12 @@ remote
 )
 ;
 
- 
+
 // otherwise, instantiate a new `LWWRegister` with the incoming state
 
- 
+
 else
- 
+
 this
 .
 #data
@@ -848,9 +848,9 @@ set
 (
 key
 ,
- 
+
 new
- 
+
 LWWRegister
 (
 this
@@ -862,10 +862,10 @@ id
 )
 ;
 
- 
+
 }
 
- 
+
 }
 
 First, we iterate through the incomingstateparameter rather than the local#data. That’s because if the incoming state is missing a key that#datahas, we know that we don’t need to touch that key.8
@@ -876,30 +876,30 @@ In addition to the CRDT methods, we need to implement methods more commonly foun
 
 Let’s start withset:
 
- 
+
 set
 (
 key
 :
- 
+
 string
 ,
  value
 :
- 
+
 T
 )
- 
+
 {
 
- 
+
 // get the register at the given key
 
- 
+
 const
- register 
+ register
 =
- 
+
 this
 .
 #data
@@ -910,12 +910,12 @@ key
 )
 ;
 
- 
+
 // if the register already exists, set the value
 
- 
+
 if
- 
+
 (
 register
 )
@@ -927,12 +927,12 @@ value
 )
 ;
 
- 
+
 // otherwise, instantiate a new `LWWRegister` with the value
 
- 
+
 else
- 
+
 this
 .
 #data
@@ -941,22 +941,22 @@ set
 (
 key
 ,
- 
+
 new
- 
+
 LWWRegister
 (
 this
 .
 id
 ,
- 
+
 [
 this
 .
 id
 ,
- 
+
 1
 ,
  value
@@ -965,27 +965,27 @@ id
 )
 ;
 
- 
+
 }
 
 Just like in the merge method, we’re either calling the register’ssetto update an existing key, or instantiating a new LWW Register to add a new key. The initial state uses the local peer ID, a timestamp of 1 and the value passed toset.
 
 getis even simpler:
 
- 
+
 get
 (
 key
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 return
- 
+
 this
 .
 #data
@@ -995,34 +995,34 @@ get
 key
 )
 ?.
-value 
+value
 ??
- 
+
 undefined
 ;
 
- 
+
 }
 
 Get the register from the local map, and return its value if it has one.
 
 Why coalesce toundefined? Because each register holdsT | null. And with thedeletemethod, we’re ready to explain why:
 
- 
+
 delete
 (
 key
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 // set the register to null, if it exists
 
- 
+
 this
 .
 #data
@@ -1038,7 +1038,7 @@ null
 )
 ;
 
- 
+
 }
 
 Rather than fully removing the key from the map, we set the register value tonull. The metadata is kept around so we can disambiguate deletions from states that simply don’t have a key yet. These are calledtombstones— the ghosts of CRDTs past.
@@ -1057,23 +1057,23 @@ Notice how we never remove deleted keys from the map. This is one drawback to CR
 
 The final LWW Map method ishas, which returns a boolean indicating whether the map contains a given key.
 
- 
+
 has
 (
 key
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 // if a register doesn't exist or its value is null, the map doesn't contain the key
 
- 
+
 return
- 
+
 this
 .
 #data
@@ -1083,13 +1083,13 @@ get
 key
 )
 ?.
-value 
+value
 !==
- 
+
 null
 ;
 
- 
+
 }
 
 There’s a special case here: if the map contains a register at the given key, but the register containsnull, the map is considered to not contain the key.
@@ -1097,27 +1097,27 @@ There’s a special case here: if the map contains a register at the given key, 
 For posterity, here’s the full LWW Map code:
 
 class
- 
+
 LWWMap
 <
 T
 >
- 
+
 {
 
- 
+
 readonly
  id
 :
- 
+
 string
 ;
 
- #data 
+ #data
 =
- 
+
 new
- 
+
 Map
 <
 string
@@ -1125,21 +1125,21 @@ string
  LWWRegister
 <
 T
- 
+
 |
- 
+
 null
 >>
 (
 )
 ;
 
- 
+
 constructor
 (
 id
 :
- 
+
 string
 ,
  state
@@ -1149,32 +1149,32 @@ string
 T
 >
 )
- 
+
 {
 
- 
+
 this
 .
-id 
+id
 =
  id
 ;
 
- 
+
 // create a new register for each key in the initial state
 
- 
+
 for
- 
+
 (
 const
- 
+
 [
 key
 ,
  register
 ]
- 
+
 of
  Object
 .
@@ -1183,10 +1183,10 @@ entries
 state
 )
 )
- 
+
 {
 
- 
+
 this
 .
 #data
@@ -1195,9 +1195,9 @@ set
 (
 key
 ,
- 
+
 new
- 
+
 LWWRegister
 (
 this
@@ -1209,22 +1209,22 @@ id
 )
 ;
 
- 
+
 }
 
- 
+
 }
 
- 
+
 get
- 
+
 value
 (
 )
- 
+
 {
 
- 
+
 const
  value
 :
@@ -1232,30 +1232,30 @@ const
 <
 T
 >
- 
+
 =
- 
+
 {
 }
 ;
 
- 
+
 // build up an object where each value is set to the value of the register at the corresponding key
 
- 
+
 for
- 
+
 (
 const
- 
+
 [
 key
 ,
  register
 ]
- 
+
 of
- 
+
 this
 .
 #data
@@ -1264,52 +1264,52 @@ entries
 (
 )
 )
- 
+
 {
 
- 
+
 if
- 
+
 (
 register
 .
-value 
+value
 !==
- 
+
 null
 )
  value
 [
 key
 ]
- 
+
 =
  register
 .
 value
 ;
 
- 
+
 }
 
- 
+
 return
  value
 ;
 
- 
+
 }
 
- 
+
 get
- 
+
 state
 (
 )
- 
+
 {
 
- 
+
 const
  state
 :
@@ -1317,30 +1317,30 @@ const
 <
 T
 >
- 
+
 =
- 
+
 {
 }
 ;
 
- 
+
 // build up an object where each value is set to the full state of the register at the corresponding key
 
- 
+
 for
- 
+
 (
 const
- 
+
 [
 key
 ,
  register
 ]
- 
+
 of
- 
+
 this
 .
 #data
@@ -1349,12 +1349,12 @@ entries
 (
 )
 )
- 
+
 {
 
- 
+
 if
- 
+
 (
 register
 )
@@ -1362,38 +1362,38 @@ register
 [
 key
 ]
- 
+
 =
  register
 .
 state
 ;
 
- 
+
 }
 
- 
+
 return
  state
 ;
 
- 
+
 }
 
- 
+
 has
 (
 key
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 return
- 
+
 this
 .
 #data
@@ -1403,29 +1403,29 @@ get
 key
 )
 ?.
-value 
+value
 !==
- 
+
 null
 ;
 
- 
+
 }
 
- 
+
 get
 (
 key
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 return
- 
+
 this
 .
 #data
@@ -1438,33 +1438,33 @@ key
 value
 ;
 
- 
+
 }
 
- 
+
 set
 (
 key
 :
- 
+
 string
 ,
  value
 :
- 
+
 T
 )
- 
+
 {
 
- 
+
 // get the register at the given key
 
- 
+
 const
- register 
+ register
 =
- 
+
 this
 .
 #data
@@ -1475,12 +1475,12 @@ key
 )
 ;
 
- 
+
 // if the register already exists, set the value
 
- 
+
 if
- 
+
 (
 register
 )
@@ -1492,12 +1492,12 @@ value
 )
 ;
 
- 
+
 // otherwise, instantiate a new `LWWRegister` with the value
 
- 
+
 else
- 
+
 this
 .
 #data
@@ -1506,22 +1506,22 @@ set
 (
 key
 ,
- 
+
 new
- 
+
 LWWRegister
 (
 this
 .
 id
 ,
- 
+
 [
 this
 .
 id
 ,
- 
+
 1
 ,
  value
@@ -1530,24 +1530,24 @@ id
 )
 ;
 
- 
+
 }
 
- 
+
 delete
 (
 key
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 // set the register to null, if it exists
 
- 
+
 this
 .
 #data
@@ -1563,10 +1563,10 @@ null
 )
 ;
 
- 
+
 }
 
- 
+
 merge
 (
 state
@@ -1576,24 +1576,24 @@ state
 T
 >
 )
- 
+
 {
 
- 
+
 // recursively merge each key's register with the incoming state for that key
 
- 
+
 for
- 
+
 (
 const
- 
+
 [
 key
 ,
  remote
 ]
- 
+
 of
  Object
 .
@@ -1602,14 +1602,14 @@ entries
 state
 )
 )
- 
+
 {
 
- 
+
 const
- local 
+ local
 =
- 
+
 this
 .
 #data
@@ -1620,12 +1620,12 @@ key
 )
 ;
 
- 
+
 // if the register already exists, merge it with the incoming state
 
- 
+
 if
- 
+
 (
 local
 )
@@ -1637,12 +1637,12 @@ remote
 )
 ;
 
- 
+
 // otherwise, instantiate a new `LWWRegister` with the incoming state
 
- 
+
 else
- 
+
 this
 .
 #data
@@ -1651,9 +1651,9 @@ set
 (
 key
 ,
- 
+
 new
- 
+
 LWWRegister
 (
 this
@@ -1665,10 +1665,10 @@ id
 )
 ;
 
- 
+
 }
 
- 
+
 }
 
 }

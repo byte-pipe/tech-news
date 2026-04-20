@@ -24,7 +24,7 @@ Tim Metz
 Published: Mar 24th, 2026
 
  Table of Contents
- 
+
 
 Share this post:
 
@@ -32,12 +32,12 @@ Share this post:
 
 Every Thursday: what we're learning about AI, SEO, AEO, and content marketing.
 
- 
+
  Get the Weekly Email
- 
- 
- 
- 
+
+
+
+
 
 AI-powered search has created a new vocabulary, and with it, a new challenge for content marketers.
 

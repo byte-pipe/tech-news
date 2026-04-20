@@ -112,17 +112,17 @@ The CCDH’s chief executive is also in a court battle related to his work at CC
 This article was updated with additional company statements.
 
  Jon Brodkin
- 
+
 
 Senior IT Reporter
 
  Jon Brodkin
- 
+
 
 Senior IT Reporter
 
  Jon is a Senior IT Reporter for Ars Technica. He covers the telecom industry, Federal Communications Commission rulemakings, broadband consumer affairs, court cases, and government regulation of the tech industry.
- 
+
 
 1. 1.NASA and SpaceX disagree about manual controls for lunar lander
 2. 2.Verdict: Yes, you should go see Project Hail Mary as soon as possible

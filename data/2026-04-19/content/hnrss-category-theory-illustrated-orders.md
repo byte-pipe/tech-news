@@ -12,9 +12,9 @@ tags:
 - hnrss
 ---
 
-< 
+<
 
- > 
+ >
 
 «prev
 
@@ -44,12 +44,12 @@ Using set theory, we can represent this order, as well as any other order, as a 
 
 And in programming, orders are defined by providing a function which, given two objects, tells us which one of them is “bigger” (comes first) and which one is “smaller”. It isn’t hard to see that this function defines a set of pairs (we are given a pair and we have to say whether or not it belongs to the set).
 
-[1, 3, 2].sort((a, b) => { 
+[1, 3, 2].sort((a, b) => {
  if (a > b) {
- return true 
+ return true
  } else {
  return false
- } 
+ }
 })
 
 However (this is where it gets interesting) not all such functions (and not all sets of pairs) define orders. For such function to really define an order i.e. to have the same output every time, independent of how the objects were shuffled initially, it has to obey several rules.
@@ -142,7 +142,7 @@ The above set is not linearly-ordered — although we know that $d ≤ g$ and th
 
 Although partial orders don’t give us a definitive answer to “Who is better than who?”, some of them still can give us an answer to the more important question (in sports, as well as in other domains), namely “Who is number one?” i.e. who is the champion, the player who is better than anyone else. Or, more generally, the element that is bigger than all other elements.
 
-Thegreatest elementof an order is an element $a$, such that we have we have $x ≤ a$ for any other element $x$, 
+Thegreatest elementof an order is an element $a$, such that we have we have $x ≤ a$ for any other element $x$,
 Some (not all) partial orders do have such element — in our last diagram $m$ is the greatest element, in this diagram, the green element is the biggest one.
 
 Sometimes we have more than one elements that are bigger than all other elements, in this case none of them is the greatest.

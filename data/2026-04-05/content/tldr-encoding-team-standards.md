@@ -25,8 +25,8 @@ AI coding assistants respond to whoever is prompting, and the
 
 Rahul Garg
 
-Rahul is a Principal Engineer at Thoughtworks, based in Gurgaon, India. 
- He is passionate about the craft of building maintainable software through DDD and Clean Architecture, 
+Rahul is a Principal Engineer at Thoughtworks, based in Gurgaon, India.
+ He is passionate about the craft of building maintainable software through DDD and Clean Architecture,
  and explores how AI can help teams achieve engineering excellence.
 
 generative AI

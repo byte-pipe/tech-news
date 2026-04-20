@@ -14,13 +14,13 @@ tags:
 ---
 
 Tyler McGoffin
- 
 
-			March 31, 2026		
+
+			March 31, 2026
 
 |
 
-				9 minutes			
+				9 minutes
 
 * Share:
 
@@ -170,28 +170,28 @@ Tyler is a Sr. Applied Researcher on the Copilot Applied Science team. He has an
 
 ## Related posts
 
- 
+
 
 AI & ML
- 
+
 
 ### Run multiple agents at once with /fleet in Copilot CLI
 
 /fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls.
 
- 
+
 
 AI & ML
- 
+
 
 ### Building AI-powered GitHub issue triage with the Copilot SDK
 
 Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching.
 
- 
+
 
 AI & ML
- 
+
 
 ### How Squad runs coordinated AI agents inside your repository
 
@@ -201,7 +201,7 @@ An inside look at repository-native orchestration with GitHub Copilot and the de
 
 Discover tips, technical guides, and best practices in our biweekly newsletter just for devs.
 
- 
+
 
 Your email address
 
@@ -211,8 +211,8 @@ Your email address
 
 Subscribe
 
-							Yes please, I’d like GitHub and affiliates to use my information for personalized communications, targeted advertising and campaign effectiveness. See the 
+							Yes please, I’d like GitHub and affiliates to use my information for personalized communications, targeted advertising and campaign effectiveness. See the
 GitHub Privacy Statement
- for more details.						
+ for more details.
 
 Subscribe

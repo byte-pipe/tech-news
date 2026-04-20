@@ -16,11 +16,11 @@ tags:
 # 3 ways to bounce back from sudden team cuts
 
 				Unexpected cuts can cause major disruption.
-			
+
 
 ### ByVaidehi Joshi
 
- 
+
 
 March 31, 2026
 
@@ -49,7 +49,7 @@ This field is for validation purposes and should be left unchanged.
 Email address
 (Required)
 
- 
+
 
 ## 1. Take advantage of offboarding time
 
@@ -126,15 +126,15 @@ Choose your LeadDev newsletters to subscribe to.
 ⚠️ LDX3 London: Prices go up April 15
 
  Tickets
- 
 
- 
+
+
 
 March 31, 2026
 
 ##### Share:
 
- 
+
 
 ### About the author
 

@@ -19,10 +19,10 @@ Advertisement
 
 These ultra-small, gas-free USDC transactions are designed for use by AI agents.
 By:
- 
+
 yyctrader
- 
-• 
+
+•
 DeFi
 
 Circle has launched Nanopayments on testnet, offering developers a new infrastructure layer for ultra-small, gas-free USDC transactions.

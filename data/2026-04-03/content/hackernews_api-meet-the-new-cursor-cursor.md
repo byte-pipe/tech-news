@@ -14,9 +14,9 @@ tags:
 ---
 
 Blog
- 
+
 /
- 
+
 product
 
 Software development is changing, and so is Cursor.
@@ -86,7 +86,7 @@ Ideas
 The third era of AI software development
 
 Michael Truell
- · 
+ ·
 4 min read
 Mar 19, 2026
 ·
@@ -95,7 +95,7 @@ Research
 Introducing Composer 2
 
 Cursor Team
- · 
+ ·
 3 min read
 Feb 24, 2026
 ·
@@ -104,7 +104,7 @@ Product
 Cursor agents can now control their own computers
 
 Jonas & Alexi
- · 
+ ·
 10 min read
 View more posts
  →

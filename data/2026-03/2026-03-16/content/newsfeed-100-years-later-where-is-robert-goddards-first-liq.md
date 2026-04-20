@@ -35,22 +35,22 @@ Where is it now?
 Hasting’s father, Gerald, who was 10 years old on that day in 1926, was sledding with some friends when he saw “four people in heavy coats got out of [their] vehicle and remove some rather large objects.” As he later learned, those four were Goddard, Goddard’s wife Esther, Goddard’s crew chief Henry Sachs, and Clark University assistant physics professor Percy Roope.
 
  Henry Sachs, Robert Goddard’s assistant, ignites the first liquid fueled rocket on March 16, 1926.
- 
+
 
  Credit:
  Esther Goddard/Clark University
- 
+
 
  Henry Sachs, Robert Goddard’s assistant, ignites the first liquid fueled rocket on March 16, 1926.
 
- 
+
 
  Credit:
 
- 
+
  Esther Goddard/Clark University
 
- 
+
 
 “Dad [later] commented that the scene felt very strange,” said Hastings. “He and his friends continued looking on with great interest as the nameless visitors took whatever it was they had removed from the vehicle and assembled the pieces.”
 
@@ -81,22 +81,22 @@ In 1950, five years after Goddard’s death, the Guggenheim Foundation for the P
 The National Air and Space Museum’s collection catalog describes the Goddard May 1926 rocket as “likely includ[ing] the nozzle” recovered from Nell.
 
  The nozzle on Robert Goddard’s May 1926 rocket, which did not fly and was donated to the National Air and Space Museum, “likely” was at least part of the first liquid fueled rocket launch on March 16 of that same year.
- 
+
 
  Credit:
  Smithsonian National Air and Space Museum
- 
+
 
  The nozzle on Robert Goddard’s May 1926 rocket, which did not fly and was donated to the National Air and Space Museum, “likely” was at least part of the first liquid fueled rocket launch on March 16 of that same year.
 
- 
+
 
  Credit:
 
- 
+
  Smithsonian National Air and Space Museum
 
- 
+
 
 “I gather the nozzle assertion is based on his notes. I haven’t seen them myself,” said Neufeld. “More may be on the May 1926 rocket, which we can’t prove.”
 
@@ -109,22 +109,22 @@ Unfortunately, the Roswell Museum has been closed since October 2024, ever since
 As referenced by both Winter and Brooks, W.S. Crane researched and published a catalog for the museum’s Goddard holdings in 1994. The chamber is attributed to coming from Clark University and the nozzle fragments are described as a gift from Esther Goddard. The source of the nose cone is unknown.
 
  Fragments attributed to flying as part of the world’s first liquid fuel rocket in the Robert Goddard collection at the Roswell Museum and Arts Center in New Mexico.
- 
+
 
  Credit:
  W.S. Crane/Roswell Museum
- 
+
 
  Fragments attributed to flying as part of the world’s first liquid fuel rocket in the Robert Goddard collection at the Roswell Museum and Arts Center in New Mexico.
 
- 
+
 
  Credit:
 
- 
+
  W.S. Crane/Roswell Museum
 
- 
+
 
 The museum also has the rod, rollers, and wire that were used to ignite Nell. “Pulling the wire opened a hole in the bottom of the liquid oxygen tank, where the oxygen dripped onto a heated surface,” Crane wrote, adding that the assembly was also a gift from Mrs. Goddard.
 
@@ -141,22 +141,22 @@ Today, replicas, more than the remains,help the public understand Nell’s rolei
 In December 2003, for the national celebration of the centennial of flight, NASA’s Marshall Space Flight Center worked with the American Institute of Aeronautics and Astronautics (AIAA) to reconstruct “historically accurate, functional replicas” of Nell. The project was carried out to “clearly understand, recreate, and document the mechanisms and workings of the 1926 rocket” and created a “resource for researchers studying the evolution of liquid rocketry.”
 
  A full-scale replica of Robert Goddard’s first liquid fueled rocket on display at the site where the original launched on March 16, 1926. The static model was on exhibit as part of the centennial celebration in Auburn, Massachusetts, on Saturday, March 14, 2026.
- 
+
 
  Credit:
  Auburn Fire Rescue Department
- 
+
 
  A full-scale replica of Robert Goddard’s first liquid fueled rocket on display at the site where the original launched on March 16, 1926. The static model was on exhibit as part of the centennial celebration in Auburn, Massachusetts, on Saturday, March 14, 2026.
 
- 
+
 
  Credit:
 
- 
+
  Auburn Fire Rescue Department
 
- 
+
 
 On Monday, a different full-size replica premieres on display at The Museum of Worcester, just 10 minutes from where the real Nell launched. On exhibit through August, the rocket is a model, but its support frame was used in a 1929 launch test, on loan from Clark University.
 
@@ -168,13 +168,13 @@ Listing image:
  Auburn Fire Rescue Department
 
  Robert Pearlman
- 
+
 
  Robert Pearlman
- 
+
 
  Robert Pearlman is a space historian, journalist and the founder and editor of collectSPACE, a daily news publication and online community focused on where space exploration intersects with pop culture. He is also a contributing writer for Space.com and co-author of "Space Stations: The Art, Science, and Reality of Working in Space” published by Smithsonian Books in 2018. He is on the leadership board for For All Moonkind and is a member of the American Astronautical Society's history committee.
- 
+
 
 1. 1.An engineering thesis disguised as a coupe: A history of the Honda Prelude
 2. 2.Google Fiber will be sold to private equity firm and merge with cable company

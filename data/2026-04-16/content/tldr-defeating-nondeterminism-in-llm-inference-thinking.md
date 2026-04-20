@@ -16,11 +16,11 @@ tags:
 
 Horace He
  in collaboration with others at Thinking Machines
- 
- 
+
+
 
  Sep 10, 2025
- 
+
 
 Reproducibility is a bedrock of scientific progress. However, it’s remarkably difficult to get reproducible results out of large language models.
 
@@ -37,24 +37,24 @@ You can also find the “concurrency + floating point” hypothesis repeated by 
 While this hypothesis is not entirely wrong, it doesn’t reveal the full picture. For example, even on a GPU, running the same matrix multiplication on the same data repeatedly will always provide bitwise equal results. We’re definitely using floating-point numbers. And our GPU definitely has a lot of concurrency. Why don’t we see nondeterminism in this test?
 
 A
- 
+
 =
- 
+
 torch
 .
 randn
 (
 2048
 ,
- 
+
 2048
 ,
- 
+
 device
 =
 'cuda'
 ,
- 
+
 dtype
 =
 torch
@@ -63,24 +63,24 @@ bfloat16
 )
 
 B
- 
+
 =
- 
+
 torch
 .
 randn
 (
 2048
 ,
- 
+
 2048
 ,
- 
+
 device
 =
 'cuda'
 ,
- 
+
 dtype
 =
 torch
@@ -89,33 +89,33 @@ bfloat16
 )
 
 ref
- 
+
 =
- 
+
 torch
 .
 mm
 (
 A
 ,
- 
+
 B
 )
 
 for
- 
+
 _
- 
+
 in
- 
+
 range
 (
 1000
 ):
 
- 
+
 assert
- 
+
 (
 torch
 .
@@ -123,12 +123,12 @@ mm
 (
 A
 ,
- 
+
 B
 )
- 
+
 -
- 
+
 ref
 )
 .
@@ -140,9 +140,9 @@ max
 .
 item
 ()
- 
+
 ==
- 
+
 0
 
 To understand the true cause of LLM inference nondeterminism, we must look deeper.
@@ -165,34 +165,34 @@ The culprit isfloating-point non-associativity.That is, with floating-point numb
 $$ (a + b) + c \neq a + (b + c) $$
 (
 0.1
- 
+
 +
- 
+
 1e20
 )
- 
+
 -
- 
+
 1e20
 
 >>>
- 
+
 0
 
 0.1
- 
+
 +
- 
+
 (
 1e20
- 
+
 -
- 
+
 1e20
 )
 
 >>>
- 
+
 0.1
 
 Ironically, breaking associativity is what makes floating-point numbers useful.
@@ -219,58 +219,58 @@ But what happens when we add two floating-point numbers with different exponents
 
 Exact: 1575
 
-We require 3 digits of precision to represent 1230 and 3 digits of precision to represent 23.4. However, adding these 2 numbers together results in a number that requires 5 digits of precision to represent (1253.4). Our floating-point format must then drop the 34 off the end. In some sense, we have effectively rounded our original 23.4 to 20.0 before adding it. 
+We require 3 digits of precision to represent 1230 and 3 digits of precision to represent 23.4. However, adding these 2 numbers together results in a number that requires 5 digits of precision to represent (1253.4). Our floating-point format must then drop the 34 off the end. In some sense, we have effectively rounded our original 23.4 to 20.0 before adding it.
 
 At this point, however, we’ve destroyed information. Note that this can happen every time we add two floating-point numbers with different “scales” (i.e. different exponents). And adding together floating-point numbers with different exponents happens all of the time. In fact, if we could guarantee that we never needed different exponents, we could just use integers!
 
 In other words, every time we add together floating-point numbers in a different order, we can get a completely different result. To take an extreme example, there are 102 possible different results for summing this array depending on the order.
 
 import
- 
+
 random
 
 vals
- 
+
 =
- 
+
 [
 1e-10
 ,
- 
+
 1e-5
 ,
- 
+
 1e-2
 ,
- 
+
 1
 ]
 
 vals
- 
+
 =
- 
+
 vals
- 
+
 +
- 
+
 [
 -
 v
- 
+
 for
- 
+
 v
- 
+
 in
- 
+
 vals
 ]
 
 results
- 
+
 =
- 
+
 []
 
 random
@@ -281,17 +281,17 @@ seed
 )
 
 for
- 
+
 _
- 
+
 in
- 
+
 range
 (
 10000
 ):
 
- 
+
 random
 .
 shuffle
@@ -299,7 +299,7 @@ shuffle
 vals
 )
 
- 
+
 results
 .
 append
@@ -310,9 +310,9 @@ vals
 ))
 
 results
- 
+
 =
- 
+
 sorted
 (
 set
@@ -323,14 +323,14 @@ results
 print
 (
 f
-"There are 
+"There are
 {
 len
 (
 results
 )
 }
- unique results: 
+ unique results:
 {
 results
 }
@@ -357,9 +357,9 @@ Typically a GPU launches a program concurrently across many “cores” (i.e. SM
 
 Concretely, imagine that you are reducing a 100-element vector with 100 cores (e.g.torch.sum()). Although you can load all 100 elements in parallel, we must eventually reduce down to a single element. One way to accomplish this is with some kind of “atomic add” primitive, where the hardware guarantees that all additions will be processed but does not guarantee the order.
 
- The atomic add ensures that every core's contributions will be reflected in the final sum. However, it makes no guarantee about what 
+ The atomic add ensures that every core's contributions will be reflected in the final sum. However, it makes no guarantee about what
 order
- the contributions will be added. The order depends entirely on which core finishes first, a nondeterministic property. Thus, executing the same parallel program multiple times can result in nondeterministic outputs. 
+ the contributions will be added. The order depends entirely on which core finishes first, a nondeterministic property. Thus, executing the same parallel program multiple times can result in nondeterministic outputs.
 
 This is usually what folks mean by “nondeterminism” — you execute the same kernel twice with exactly the same inputs and you get a different result out. This is known asrun-to-run nondeterminism, where you run the same python script twice with the exact same dependencies but get a different result.
 
@@ -376,9 +376,9 @@ There are still a couple of common operations that have significant performance 
 
 However, the forward pass of an LLM involvesno operations that require atomic adds.Thus, the forward pass in an LLM is in fact “run-to-run deterministic.”
 
-From the perspective of the inference server, it 
+From the perspective of the inference server, it
 is
- deterministic. Given the exact same user requests, it will always provide the same deterministic output. 
+ deterministic. Given the exact same user requests, it will always provide the same deterministic output.
 
 Wikipedia writes that “a deterministic algorithm is an algorithm that, given a particular input, will always produce the same output.” And in this case, given the exact same inputs (i.e. the exact requests the inference server is processing), the forward pass always produces the exact same outputs.
 
@@ -395,7 +395,7 @@ This is a fairly unusual property from a mathematical perspective. Matrix multip
 However, as we can observe empirically, this isn’t true.
 
 import
- 
+
 torch
 
 torch
@@ -404,24 +404,24 @@ set_default_device
 (
 'cuda'
 )
- 
+
 
 B
- 
+
 =
- 
+
 2048
 
 D
- 
+
 =
- 
+
 4096
 
 a
- 
+
 =
- 
+
 torch
 .
 linspace
@@ -429,10 +429,10 @@ linspace
 -
 1000
 ,
- 
+
 1000
 ,
- 
+
 B
 *
 D
@@ -442,14 +442,14 @@ reshape
 (
 B
 ,
- 
+
 D
 )
 
 b
- 
+
 =
- 
+
 torch
 .
 linspace
@@ -457,10 +457,10 @@ linspace
 -
 1000
 ,
- 
+
 1000
 ,
- 
+
 D
 *
 D
@@ -470,7 +470,7 @@ reshape
 (
 D
 ,
- 
+
 D
 )
 
@@ -479,9 +479,9 @@ D
 # the first element of the batch
 
 out1
- 
+
 =
- 
+
 torch
 .
 mm
@@ -490,7 +490,7 @@ a
 [:
 1
 ],
- 
+
 b
 )
 
@@ -499,16 +499,16 @@ b
 # the first element of the batch
 
 out2
- 
+
 =
- 
+
 torch
 .
 mm
 (
 a
 ,
- 
+
 b
 )[:
 1
@@ -517,9 +517,9 @@ b
 print
 ((
 out1
- 
+
 -
- 
+
 out2
 )
 .
@@ -528,7 +528,7 @@ abs
 .
 max
 ())
- 
+
 # tensor(1669.2500, device='cuda:0')
 
 Note that thisis“run-to-run deterministic.” If you run the script multiple times, it will deterministically return the same result.It is not “hardware/software version invariant” — your GPU/PyTorch version may return a different value, but it should deterministically return the same value.
@@ -552,7 +552,7 @@ Conveniently, these are also ordered in ascending levels of difficulty. Each one
 ### Batch-invariant RMSNorm
 
 Data Parallel RMSNorm
- Ideally, we'd like to avoid communication between cores in our parallelization strategy. One way to achieve that is by assigning one batch-element to each core, thus guaranteeing that each reduction is done entirely within a single core. This is what's known as a "data-parallel" strategy, since we're simply parallelizing along a dimension that doesn't require communication. In this example, we have four rows and four cores, saturating our cores. 
+ Ideally, we'd like to avoid communication between cores in our parallelization strategy. One way to achieve that is by assigning one batch-element to each core, thus guaranteeing that each reduction is done entirely within a single core. This is what's known as a "data-parallel" strategy, since we're simply parallelizing along a dimension that doesn't require communication. In this example, we have four rows and four cores, saturating our cores.
 
 RMSNorm can be implemented as:
 
@@ -561,22 +561,22 @@ RMSNorm can be implemented as:
 # weight: [hidden_dim]
 
 def
- 
+
 rms_norm
 (
 x
 ,
- 
+
 weight
 ):
 
- 
+
 return
- 
+
 x
- 
+
 *
- 
+
 torch
 .
 rsqrt
@@ -586,24 +586,24 @@ torch
 mean
 (
 x
- 
+
 **
- 
+
 2
 ,
- 
+
 dim
 =-
 1
 ,
- 
+
 keepdim
 =
 True
 ))
- 
+
 *
- 
+
 weight
 
 The requirement for batch invariance is that thereduction order for each element must be fixed regardless of the batch-size of the kernel.Note that this doesn’t mean we must always use the same reduction strategy. For example, if we change the number of elements we’re reducing over, we can still be batch-invariant even if our reduction strategy changes.The Quackblog post has some nice examples showing the hierarchy of various reduction strategies you can do (e.g. thread reduction, warp reduction, block reduction, cluster reduction).
@@ -615,16 +615,16 @@ Let’s look at the standard parallelism strategy for RMSNorm. Generally, parall
 Increasing our batch size doesn’t affect our reduction strategy; if a batch size of 200 provides sufficient parallelism to our kernel then a batch size of 2000 willdefinitelyprovide sufficient parallelism.
 
 Data Parallel RMSNorm for larger batches
- Extending the data-parallel strategy to larger batches is fairly straightforward --- instead of having each core handle one row you allow each core to handle different rows sequentially. This 
+ Extending the data-parallel strategy to larger batches is fairly straightforward --- instead of having each core handle one row you allow each core to handle different rows sequentially. This
 preserves batch invariance
- as the reduction strategy for each batch element remains identical. 
+ as the reduction strategy for each batch element remains identical.
 
 On the other hand, decreasing the batch size can pose challenges. Because we assign each batch element to one core, decreasing our batch size will eventually lead to having more cores than batch elements, leaving some cores idle.
 
 Upon encountering this situation, a good kernel engineer would reach for one of the solutions mentioned in the prior section (atomic adds or split reductions), maintaining good parallelism and thus, good performance. Unfortunately, this changes the reduction strategy, preventing this kernel from being batch-invariant.
 
 Split-Reduction RMSNorm
- If we have a small batch size, our data-parallel strategy may no longer have sufficient parallelism to saturate our cores. In this case, it may be more efficient to "split" a reduction among multiple cores, allowing us to fully utilize our GPU. However, this 
+ If we have a small batch size, our data-parallel strategy may no longer have sufficient parallelism to saturate our cores. In this case, it may be more efficient to "split" a reduction among multiple cores, allowing us to fully utilize our GPU. However, this
 loses
  batch invariance, as we are no longer reducing each element in the same order.
 
@@ -657,7 +657,7 @@ Padded Tensor-Core Instructions
 
 So, the easiest way to ensure batch invariance for matmuls is to compile one kernel configuration and use that for all shapes. Although we will lose some performance, this isn’t typically disastrous in LLM inference. In particular, split-k is most needed whenbothM and N are small, and luckily in our case, N (i.e. the model dim) is usually pretty large!
 
-Despite obtaining batch invariance, we only lose about 20% performance compared to cuBLAS. Note that this is not an optimized Triton kernel either (e.g. no TMA). However, some of the patterns in performance are illustrative of where our batch-invariant requirement loses performance. First, note that we lose a significant amount of performance at very small batch sizes due to an overly large instruction and insufficient parallelism. Second, there is a "jigsaw" pattern as we increase the batch-size that is caused by quantization effects (both tile and wave) that are typically ameliorated through changing tile sizes. You can find more on these quantization effects 
+Despite obtaining batch invariance, we only lose about 20% performance compared to cuBLAS. Note that this is not an optimized Triton kernel either (e.g. no TMA). However, some of the patterns in performance are illustrative of where our batch-invariant requirement loses performance. First, note that we lose a significant amount of performance at very small batch sizes due to an overly large instruction and insufficient parallelism. Second, there is a "jigsaw" pattern as we increase the batch-size that is caused by quantization effects (both tile and wave) that are typically ameliorated through changing tile sizes. You can find more on these quantization effects
 here
 .
 
@@ -678,7 +678,7 @@ Let’s first walk through the standard parallelism strategy for attention, firs
 For example, depending on the inference engine’s choices, it’s possible that a sequence might get processed in several parts (such as in chunked prefill) or perhaps all at once (if the prefill isn’t split up). In order to achieve “batch invariance”, it’s necessary that thereduction order for a given token does not depend on how many other tokens from its sequence are being simultaneously processed. If you reduce over the K/V values in the KV cache separately from the K/V values in the current tokens being processed (like in vLLM’sTriton attention kernel), this can’t be achieved. For example, when processing the 1000th query token in a sequence, the reduction order must be identical regardless of whether 0 tokens are in the KV cache (prefill) or 999 tokens are in the KV cache (decoding).
 
 FlashAttention with a KV Cache
- The reason why explicitly handling the KV cache separately from the current KV values breaks batch invariance is a bit subtle and is related to "boundary conditions". In particular, imagine your block size is 32 but we currently have 80 elements in our KV cache. We then compute an additional 48 elements that aren't cached. In this case, we need three blocks (two full and one masked) to compute "P cache" and another two blocks (one full and one masked) to compute "P". This is therefore five total blocks to compute our reduction when we only have four total blocks (i.e. 128) of elements to compute, which will definitely change our reduction order. 
+ The reason why explicitly handling the KV cache separately from the current KV values breaks batch invariance is a bit subtle and is related to "boundary conditions". In particular, imagine your block size is 32 but we currently have 80 elements in our KV cache. We then compute an additional 48 elements that aren't cached. In this case, we need three blocks (two full and one masked) to compute "P cache" and another two blocks (one full and one masked) to compute "P". This is therefore five total blocks to compute our reduction when we only have four total blocks (i.e. 128) of elements to compute, which will definitely change our reduction order.
 
 For example, if we instead had no elements in our KV Cache and were processing 128 elements altogether, we need to have identical numerics in both of these situations to ensure “batch invariance” for attention.
 
@@ -700,7 +700,7 @@ Furthermore, the split-reduction strategies commonly used for attention also pos
 Instead, to achieve batch invariance, we must adopt a “fixed split-size” strategy. In other words, instead of fixing the # of splits, we fix the size of each split and then end up with a varying number of splits. In this manner, we can guarantee that regardless of how many tokens we’re processing, we always perform the identical reduction order.This requires some internal FlexAttention changes that are not included in our code release. We will upstream them in the near future!
 
 Fixed Size Split-KV Strategy
- 
+
 The only difference between this strategy and the previous strategy is that our splits are now "fixed size". For example, if our KV length was 1000, instead of splitting it into four even length 250 splits, we would split it into three fixed-size length 256 splits and one length 232 split.
 
 This allows us topreservebatch invariance as our reduction strategy is no longer dependent on how many query tokens we’re processing at once!
@@ -756,7 +756,7 @@ If we train without off-policy correction (i.e. importance weighting), our rewar
 
 We can also plot the KL-divergence in logprobs between our sampler and trainer, where all 3 runs have notably different behavior. When running with importance weighting, it stays around 0.001 with occasional spikes. However, runningwithoutimportance weighting eventually leads to a spike in KL-divergence around the same time that reward crashes. And, of course, when running “True On-Policy RL”, our KL-divergence stays flat at 0, indicating that there isnodivergence between the training policy and sampling policy.
 
-Note that the run without importance weighting has a significant loss spike around Step 318, and this comes with a correspond ing spike in KL-divergence of logprobs. Meanwhile, either using an off-policy correction or running with "True On-Policy" allows RL to continue smoothly. The blue line showing "True On-Policy" is not a bug - it's just a flat line at 0. 
+Note that the run without importance weighting has a significant loss spike around Step 318, and this comes with a correspond ing spike in KL-divergence of logprobs. Meanwhile, either using an off-policy correction or running with "True On-Policy" allows RL to continue smoothly. The blue line showing "True On-Policy" is not a bug - it's just a flat line at 0.
 
 ## Conclusion
 
@@ -768,7 +768,7 @@ We reject this defeatism. With a little bit of work, wecanunderstand the root ca
 
 Please cite this work as:
 
-He, Horace and Thinking Machines Lab, "Defeating Nondeterminism in LLM Inference", 
+He, Horace and Thinking Machines Lab, "Defeating Nondeterminism in LLM Inference",
 Thinking Machines Lab: Connectionism, Sep 2025.
 
 Or use the BibTeX citation:

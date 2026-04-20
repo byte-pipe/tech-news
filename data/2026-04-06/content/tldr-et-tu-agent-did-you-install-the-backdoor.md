@@ -17,9 +17,9 @@ tags:
 ### Everyone knows supply chain attacks are a problem. That’s not the point.
 
 Joel de la Garza
-, 
+,
 Malika Aubakirova
-, and 
+, and
 Zane Lackey
 Apr 02, 2026
 49
@@ -45,12 +45,12 @@ The latest axios@1.14.1 now pulls in plain-crypto-js@4.2.1, a package that did n
 
 This is textbook supply chain installer malware. axios
 2:35 AM · Mar 31, 2026
- · 
+ ·
 11.7M Views
 524 Replies
- · 
+ ·
 4.07K Reposts
- · 
+ ·
 16.2K Likes
 
 ## Everyone knows supply chain attacks are a problem. That’s not the point.
@@ -72,7 +72,7 @@ When an attacker compromises one node in that graph, they don’t need to target
 #### Every Building You've Ever Been In Was Designed By Software Built in 1997
 
 Joe Schmidt IV
-, 
+,
 David Haber
 , and 2 others
 ·

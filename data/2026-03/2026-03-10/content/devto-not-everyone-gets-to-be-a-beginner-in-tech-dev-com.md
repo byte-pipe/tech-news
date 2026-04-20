@@ -34,7 +34,7 @@ Not just to open the door.But to change what happens after someone walks through
 Others learn to hide until they are good enough to be safe.And I think tech loses a lot of brilliant people in that silence.Not because they lacked talent.But because the cost of being a beginner was made too high
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -45,6 +45,6 @@ Preview
 Dismiss
 
  View full discussion (27 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

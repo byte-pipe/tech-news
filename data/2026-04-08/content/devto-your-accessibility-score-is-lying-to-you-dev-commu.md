@@ -115,7 +115,7 @@ Misunderstanding these scores can give an organisations a dangerous illusion of 
 Cover image alt[Two large circular graphics are shown side by side on a light background. The left circle is green with “100%” inside and labelled “Automated accessibility score.” The right circle is orange with “57%” inside and labelled “Actual issues detected.” Below the circles, a caption reads book “Automated testing tools only catch a fraction of real accessibility issues.”]
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

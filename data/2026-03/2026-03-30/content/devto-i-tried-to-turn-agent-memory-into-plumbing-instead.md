@@ -150,7 +150,7 @@ There is enough incense in AI already.I am more interested in pipes.Because pipe
 OrKa Brain is part ofOrKa, an open-source YAML-first AI agent orchestration framework. The full benchmark, including task definitions, raw results, judge transcripts, and the technical paper, is available in the repository.tech-paper
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

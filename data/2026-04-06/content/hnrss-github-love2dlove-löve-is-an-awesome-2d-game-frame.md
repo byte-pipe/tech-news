@@ -14,7 +14,7 @@ tags:
 
 love2d
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork573
 * Star8.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -224,51 +224,51 @@ love2d.org
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 8.1k
 
  stars
- 
+
 
 ### Watchers
 
 92
 
  watching
- 
+
 
 ### Forks
 
 573
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases17
 
@@ -276,11 +276,11 @@ LÖVE 11.5 [Mysterious Mysteries]
 
  Latest
 
- 
+
 
 Dec 3, 2023
 
- 
+
 
 + 16 releases
 
@@ -296,17 +296,17 @@ Dec 3, 2023
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -314,9 +314,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -27,11 +27,11 @@ Best Home Office Chair for Most
 Branch Ergonomic Chair Pro
 Read more
 $499
- 
+
 $449
- 
+
 (10% off)
- 
+
 
 Branch
 
@@ -39,7 +39,7 @@ A Premium Office Chair
 Steelcase Gesture
 Read more
 $1,499
- 
+
 
 Steelcase
 
@@ -47,11 +47,11 @@ Best Budget Office Chair
 Branch Ergonomic Chair
 Read more
 $359
- 
+
 $323
- 
+
 (10% off)
- 
+
 
 Branch
 
@@ -59,7 +59,7 @@ Best Office Chair for Long Hours
 Herman Miller Aeron With PostureFit SL
 Read more
 $1,995
- 
+
 
 Herman Miller
 
@@ -188,20 +188,20 @@ Stealtho
 ### Office Chair Wheels
 
 $45
- 
+
 $40
- 
+
 (11% off)
- 
+
 
 Amazon (Locking)
 
 $45
- 
+
 $37
- 
+
 (18% off)
- 
+
 
 Amazon
 
@@ -222,11 +222,11 @@ SeatMate
 ### Pet Office Chair
 
 $400
- 
+
 $260
- 
+
 (35% off)
- 
+
 
 SeatMate
 
@@ -244,11 +244,11 @@ Vitrazza
 ### Rectangle Glass Chair Mat
 
 $225
- 
+
 $199
- 
+
 (12% off)
- 
+
 
 Vitrazza
 
@@ -409,7 +409,7 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Julian Chokkattu
- is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ... 
+ is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ...
 Read More
 Senior Editor, Gear
 * LinkedIn
@@ -437,7 +437,7 @@ Your monitor needs a monitor arm, and I’ve been testing every single one I can
 Luke Larsen
 Top Design Within Reach Promo Codes for April 2026
 Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.
- Nena Farrell 
+ Nena Farrell
 You Should Be Clamping Everything You Can to Your Desk
 It’s time to clamp down on the chaos and clear your desktop with these clever mounted accessories.
 Simon Hill
@@ -452,7 +452,7 @@ I've tested a ton of keyboard options to make your typing life easier, and a cou
 Henri Robbins
 Save Your Disorganized Mind With These Paper Planners
 If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.
- Nena Farrell 
+ Nena Farrell
 WIRED’s Favorite ‘Buy It for Life’ Gear
 From cast-iron pans to mechanical watches, we’ve rounded up products that are made to last for decades.
 Parker Hall

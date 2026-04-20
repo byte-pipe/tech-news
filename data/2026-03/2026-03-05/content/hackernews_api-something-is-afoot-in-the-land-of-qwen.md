@@ -18,10 +18,10 @@ tags:
 Subscribe
 
 Sponsored by:
- Augment Code — Agent Orchestration. Living Specs. Your favorite agents. 
+ Augment Code — Agent Orchestration. Living Specs. Your favorite agents.
 Build with Intent
 .
- 
+
 
 ## Something is afoot in the land of Qwen
 
@@ -75,15 +75,15 @@ It would be a real tragedy if the Qwen team were to disband now, given their pro
 
 If those core Qwen team members either start something new or join another research lab I’m excited to see what they do next.
 
-Posted 
+Posted
 4th March 2026
- at 3:50 pm · Follow me on 
+ at 3:50 pm · Follow me on
 Mastodon
-, 
+,
 Bluesky
-, 
+,
 Twitter
- or 
+ or
 subscribe to my newsletter
 
 ## More recent articles
@@ -91,28 +91,28 @@ subscribe to my newsletter
 * I vibe coded my dream macOS presentation app- 25th February 2026
 * Writing about Agentic Engineering Patterns- 23rd February 2026
 
- 
+
 
 This isSomething is afoot in the land of Qwenby Simon Willison, posted on4th March 2026.
 
  ai
- 
+
 1888
 
  generative-ai
- 
+
 1674
 
  llms
- 
+
 1639
 
  qwen
- 
+
 50
 
  ai-in-china
- 
+
 90
 
 Previous:I vibe coded my dream macOS presentation app
@@ -124,11 +124,11 @@ Sponsor me for$10/monthand get a curated email digest of the month's most import
 Pay me to send you less!
 
  Sponsor & subscribe
- 
 
- 
 
- 
+
+
+
 
 * Disclosures
 * Colophon

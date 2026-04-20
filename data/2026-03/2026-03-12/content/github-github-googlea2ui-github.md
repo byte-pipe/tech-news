@@ -11,7 +11,7 @@ description: Contribute to google/A2UI development by creating an account on Git
 
 google
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork934
 * Star12.3k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -265,66 +265,66 @@ a2ui.org/
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 12.3k
 
  stars
- 
+
 
 ### Watchers
 
 89
 
  watching
- 
+
 
 ### Forks
 
 934
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -336,9 +336,9 @@ tags
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors47
 

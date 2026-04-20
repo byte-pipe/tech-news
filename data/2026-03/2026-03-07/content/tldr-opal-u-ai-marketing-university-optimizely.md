@@ -21,15 +21,15 @@ Apply for March 9th cohort
 
 2,500 folks taught
 
- 
 
- 
+
+
 
 ## Trusted by 9,000+ businesses and millions of happy customers
 
- 
 
-Tasks that used to take a full day are now automated in minutes. A member of my team was able to produce and launch an entire podcast series with Opal managing transcription, show notes, promotional content, and distribution - all while maintaining our brand voice. 
+
+Tasks that used to take a full day are now automated in minutes. A member of my team was able to produce and launch an entire podcast series with Opal managing transcription, show notes, promotional content, and distribution - all while maintaining our brand voice.
 
 We've saved tens of thousands of dollars.
 
@@ -37,7 +37,7 @@ John Habib
 
 Director of Content Strategy,Diligent
 
- 
+
 
 ### €4M+
 
@@ -51,9 +51,9 @@ Time saved
 
 Conversions
 
- 
 
- 
+
+
 
 ## Meet your coach
 
@@ -68,13 +68,13 @@ What I care about:Creating a safe and fun space to learn that allows you to ship
 * Previously built and sold a marketing agency
 * Led growth at 3 companies that got acquired
 
- 
+
 
 ## What you'll build in 5 days
 
 No theory. No fluff. Just 3 working agents that save you real time starting Monday morning.
 
- 
+
 
 ### Agent #1
 
@@ -82,7 +82,7 @@ Your first agent that automates a repetitive task you do every week. Most studen
 
 Example:Auto-generate social posts from blog articles, complete with scheduling suggestions
 
- 
+
 
 ### Agent #2
 
@@ -90,7 +90,7 @@ A more complex workflow that connects multiple steps. This is where students hav
 
 Example:Research competitors → Analyze gaps → Generate content briefs → Suggest SEO optimizations
 
- 
+
 
 ### Agent #3
 
@@ -98,7 +98,7 @@ Your custom agent tailored to YOUR biggest bottleneck. This is what you'll demo 
 
 Example:Campaign performance analyzer that suggests next steps based on your KPIs
 
- 
+
 
 ## Your 5-day journey
 
@@ -110,13 +110,13 @@ Example:Campaign performance analyzer that suggests next steps based on your KPI
 4. ### Tools + evaluationsConnect your agents to real data sources. Set up quality checks so you're not babysitting every output. This is where it gets powerful. Build Agent #3.
 5. ### Demo day 🎉Show off what you built. Get feedback. See what others created. Leave with 10+ new ideas to build next. (And a LinkedIn post that gets you noticed.)
 
- 
+
 
 ## Is this for you?
 
 This cohort is designed for senior marketing leaders who need results fast.
 
- 
+
 
 ### Perfect if you're
 
@@ -126,7 +126,7 @@ This cohort is designed for senior marketing leaders who need results fast.
 * Ready to dedicate 1 hour/day for 5 days to transform how you work
 * Want to become the AI expert your team relies on
 
- 
+
 
 ### Not ready if
 
@@ -135,7 +135,7 @@ This cohort is designed for senior marketing leaders who need results fast.
 * You're looking for a certification to put on LinkedIn (we give you working agents, not badges)
 * You want to learn "AI strategy" without building anything
 
- 
+
 
 ## Become a certified AI expert
 
@@ -145,35 +145,35 @@ Apply for the March 9th cohort
 
 ✓ 50 Seats Only
 
- 
+
 
 ## Sign up for the AI workshop
 
- 
+
 
 First name
 
 Tooltip
 
- 
+
 
 Last name
 
 Tooltip
 
- 
+
 
 Work email
 
 Tooltip
 
- 
+
 
 Company
 
 Tooltip
 
- 
+
 
 How did you hear about us?
 
@@ -195,17 +195,17 @@ Other advertising
 
 Other
 
- 
+
 
 LinkedIn profile link
 
 Tooltip
 
- 
+
 
 Country
 
-Select a country 
+Select a country
 
 Search Selection
 
@@ -713,7 +713,7 @@ Zimbabwe
 
 Åland Islands
 
- 
+
 
 State
 
@@ -823,7 +823,7 @@ Wisconsin
 
 Wyoming
 
- 
+
 
 Province
 
@@ -857,35 +857,35 @@ Saskatchewan
 
 Yukon
 
- 
+
 
 Yes, I would like to receive email marketing communications from Optimizely
 
 Submit
 
- 
+
 
 Optimizely will store and process your personal data as described in ourprivacy notice. You can opt out at any time.
 
- 
+
 
 Optimizely will store and process your personal data as described in ourprivacy notice. You can opt out at any time.
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
 
 ## Frequently asked questions
 

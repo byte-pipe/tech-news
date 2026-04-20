@@ -37,6 +37,6 @@ When individuals intentionally share generated content, like chatbot responses, 
     - **Original Text:** Someone asks for an answer on a question.
         - **Sloppypasta Response:**
 
-"ChatGPT says is the enshitted LLM-era equivalent," 
+"ChatGPT says is the enshitted LLM-era equivalent,"
 
 This reaction reinforces the notion that AI-generated content lacks context or understanding, instead placing blame on the source or sender.

@@ -11,7 +11,7 @@ description: Contribute to pascalorg/editor development by creating an account o
 
 pascalorg
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork627
 * Star4.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -205,38 +205,38 @@ Access patterns:
 // Subscribe to state changes (React component)
 
 const
- 
+
 nodes
- 
+
 =
- 
+
 useScene
 (
 (
 state
 )
- 
+
 =>
- 
+
 state
 .
 nodes
 )
 
 const
- 
+
 levelId
- 
+
 =
- 
+
 useViewer
 (
 (
 state
 )
- 
+
 =>
- 
+
 state
 .
 selection
@@ -245,19 +245,19 @@ levelId
 )
 
 const
- 
+
 activeTool
- 
+
 =
- 
+
 useEditor
 (
 (
 state
 )
- 
+
 =>
- 
+
 state
 .
 tool
@@ -266,11 +266,11 @@ tool
 // Access state outside React (callbacks, systems)
 
 const
- 
+
 node
- 
+
 =
- 
+
 useScene
 .
 getState
@@ -291,11 +291,11 @@ getState
 setSelection
 (
 {
- 
+
 levelId
-: 
+:
 'level_123'
- 
+
 }
 )
 
@@ -306,39 +306,39 @@ levelId
 Nodes are the data primitives that describe the 3D scene. All nodes extendBaseNode:
 
 BaseNode
- 
+
 {
 
- id: 
+ id:
 string
- 
+
 // Auto-generated with type prefix (e.g., "wall_abc123")
 
- type: 
+ type:
 string
- 
+
 // Discriminator for type-safe handling
 
- parentId: 
+ parentId:
 string
- 
+
 |
- 
+
 null
- 
+
 // Parent node reference
 
- visible: 
+ visible:
 boolean
 
- camera?: 
+ camera?:
 Camera
- 
+
 // Optional saved camera position
 
- metadata?: 
+ metadata?:
 JSON
- 
+
 // Arbitrary metadata (e.g., { isTransient: true })
 
 }
@@ -367,67 +367,67 @@ useScene
 getState
 (
 )
- 
+
 =
- 
+
 {
 
- 
+
 nodes
-: 
+:
 Record
 <
 id
 ,
- 
+
 AnyNode
 >
 ,
- 
+
 // All nodes
 
- 
+
 rootNodeIds
-: 
+:
 string
 [
 ]
 ,
- 
+
 // Top-level nodes (sites)
 
- 
+
 dirtyNodes
-: 
+:
 Set
 <
 string
 >
 ,
- 
+
 // Nodes pending system updates
 
- 
+
 createNode
 (
 node
 ,
- 
+
 parentId
 )
 ,
 
- 
+
 updateNode
 (
 id
 ,
- 
+
 updates
 )
 ,
 
- 
+
 deleteNode
 (
 id
@@ -446,61 +446,61 @@ Middleware:
 The registry maps node IDs to their Three.js objects for fast lookup:
 
 sceneRegistry
- 
+
 =
- 
+
 {
 
- 
+
 nodes
-: 
+:
 Map
 <
 id
 ,
- 
+
 Object3D
 >
 ,
- 
+
 // ID → 3D object
 
- 
+
 byType
-: 
+:
 {
 
- 
+
 wall
-: 
+:
 Set
 <
 id
 >
 ,
 
- 
+
 item
-: 
+:
 Set
 <
 id
 >
 ,
 
- 
+
 zone
-: 
+:
 Set
 <
 id
 >
 ,
 
- 
+
 // ...
 
- 
+
 }
 
 }
@@ -508,11 +508,11 @@ id
 Renderers register their refs using theuseRegistryhook:
 
 const
- 
+
 ref
- 
+
 =
- 
+
 useRef
 <
 Mesh
@@ -528,10 +528,10 @@ node
 .
 id
 ,
- 
+
 'wall'
 ,
- 
+
 ref
 )
 
@@ -560,28 +560,28 @@ Pattern:
 Example (simplified):
 
 const
- 
+
 WallRenderer
- 
+
 =
- 
+
 (
 {
- node 
+ node
 }
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 ref
- 
+
 =
- 
+
 useRef
 <
 Mesh
@@ -591,29 +591,29 @@ null
 !
 )
 
- 
+
 useRegistry
 (
 node
 .
 id
 ,
- 
+
 'wall'
 ,
- 
+
 ref
 )
 
- 
+
 return
- 
+
 (
 
- 
+
 <
 mesh
- 
+
 ref
 =
 {
@@ -621,37 +621,37 @@ ref
 }
 >
 
- 
+
 <
 boxGeometry
- 
+
 args
 =
 {
 [
 0
 ,
- 
+
 0
 ,
- 
+
 0
 ]
 }
- 
+
 />
- 
+
 {
 /* Replaced by WallSystem */
 }
 
- 
+
 <
 meshStandardMaterial
- 
+
 />
 
- 
+
 {
 node
 .
@@ -660,34 +660,34 @@ children
 map
 (
 id
- 
+
 =>
- 
+
 <
 NodeRenderer
- 
+
 key
 =
 {
 id
 }
- 
+
 nodeId
 =
 {
 id
 }
- 
+
 />
 )
 }
 
- 
+
 </
 mesh
 >
 
- 
+
 )
 
 }
@@ -746,33 +746,33 @@ useFrame
 (
 (
 )
- 
+
 =>
- 
+
 {
 
- 
+
 for
- 
+
 (
 const
- 
+
 id
- 
+
 of
- 
+
 dirtyNodes
 )
- 
+
 {
 
- 
+
 const
- 
+
 obj
- 
+
 =
- 
+
 sceneRegistry
 .
 nodes
@@ -782,13 +782,13 @@ get
 id
 )
 
- 
+
 const
- 
+
 node
- 
+
 =
- 
+
 useScene
 .
 getState
@@ -800,19 +800,19 @@ nodes
 id
 ]
 
- 
+
 // Update geometry, transforms, etc.
 
- 
+
 updateGeometry
 (
 obj
 ,
- 
+
 node
 )
 
- 
+
 dirtyNodes
 .
 delete
@@ -820,7 +820,7 @@ delete
 id
 )
 
- 
+
 }
 
 }
@@ -842,13 +842,13 @@ updateNode
 (
 wallId
 ,
- 
+
 {
- 
+
 thickness
-: 
+:
 0.2
- 
+
 }
 )
 
@@ -885,15 +885,15 @@ on
 (
 'wall:click'
 ,
- 
+
 (
 event
 )
- 
+
 =>
- 
+
 {
- ... 
+ ...
 }
 )
 
@@ -903,15 +903,15 @@ on
 (
 'item:enter'
 ,
- 
+
 (
 event
 )
- 
+
 =>
- 
+
 {
- ... 
+ ...
 }
 )
 
@@ -921,15 +921,15 @@ on
 (
 'zone:context-menu'
 ,
- 
+
 (
 event
 )
- 
+
 =>
- 
+
 {
- ... 
+ ...
 }
 )
 
@@ -941,66 +941,66 @@ on
 (
 'grid:click'
 ,
- 
+
 (
 event
 )
- 
+
 =>
- 
+
 {
- ... 
+ ...
 }
 )
 
 // Event payload
 
 NodeEvent
- 
+
 {
 
- node: 
+ node:
 AnyNode
 
- position: 
+ position:
 [
 x
 ,
- 
+
 y
 ,
- 
+
 z
 ]
 
- localPosition: 
+ localPosition:
 [
 x
 ,
- 
+
 y
 ,
- 
+
 z
 ]
 
- normal?: 
+ normal?:
 [
 x
 ,
- 
+
 y
 ,
- 
+
 z
 ]
 
- stopPropagation: 
+ stopPropagation:
 (
 )
- 
+
 =>
- 
+
 void
 
 }
@@ -1015,13 +1015,13 @@ canPlaceOnFloor
 (
 levelId
 ,
- 
+
 position
 ,
- 
+
 dimensions
 ,
- 
+
 rotation
 )
 
@@ -1031,13 +1031,13 @@ canPlaceOnWall
 (
 wallId
 ,
- 
+
 t
 ,
- 
+
 height
 ,
- 
+
 dimensions
 )
 
@@ -1047,10 +1047,10 @@ getSlabElevationAt
 (
 levelId
 ,
- 
+
 x
 ,
- 
+
 z
 )
 
@@ -1217,51 +1217,51 @@ editor.pascal.app
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 4.1k
 
  stars
- 
+
 
 ### Watchers
 
 43
 
  watching
- 
+
 
 ### Forks
 
 627
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases1
 
@@ -1269,7 +1269,7 @@ v0.2.0
 
  Latest
 
- 
+
 
 Mar 21, 2026
 
@@ -1285,9 +1285,9 @@ Mar 21, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1295,9 +1295,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

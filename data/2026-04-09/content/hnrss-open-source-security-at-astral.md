@@ -14,8 +14,8 @@ tags:
 
 Back to blog
 
-April 
- 8, 
+April
+ 8,
  2026
 
 # Open source security at Astral

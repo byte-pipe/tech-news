@@ -390,12 +390,12 @@ Keep an eye on theDEV Challengespage for our next big event. Follow the challeng
 ## #devchallengeFollow
 
  This is the official tag for submissions and announcements related to DEV Challenges.
- 
+
 
 We hope you had fun, felt challenged, and a new project to your portfolio. See you next time!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -406,7 +406,7 @@ Preview
 Dismiss
 
  View full discussion (41 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

@@ -72,7 +72,7 @@ Triangle
 * HowTrump’s plot to grab Iran's nuclear fuelwould actually work
 * WIRED Health:Jointhe boldest minds in healthcare
 Molly Taft
- is a senior writer for WIRED, covering climate change, energy, and the environment. Previously, they were a reporter and editor at Drilled, an investigative climate multimedia reporting project. Before that, they wrote about climate change and technology for Gizmodo, and served as a contributing editor for the New ... 
+ is a senior writer for WIRED, covering climate change, energy, and the environment. Previously, they were a reporter and editor at Drilled, an investigative climate multimedia reporting project. Before that, they wrote about climate change and technology for Gizmodo, and served as a contributing editor for the New ...
 Read More
 Senior Writer, Climate
 

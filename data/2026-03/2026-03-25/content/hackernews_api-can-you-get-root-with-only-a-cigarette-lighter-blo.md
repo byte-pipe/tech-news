@@ -95,58 +95,58 @@ My solution was to fill up a big array (larger than the 3MiB cache this CPU has)
 # "victim" is the prepared `bytes` object described earlier
 
 spray
- 
+
 =
- 
+
 (
 victim
 ,)
- 
+
 *
- 
+
 0x100_0000
- 
+
 # I actually use a tuple instead of an array, same idea
 
 for
- 
+
 obj
- 
+
 in
- 
+
 spray
 :
 
- 
+
 if
- 
+
 obj
- 
+
 is
- 
+
 not
- 
+
 victim
 :
- 
+
 # under non-glitchy conditions, this is always false
 
- 
+
 print
 (
 "Found corrupted ptr!"
 )
 
- 
+
 assert
 (
 type
 (
 obj
 )
- 
+
 is
- 
+
 bytearray
 )
 

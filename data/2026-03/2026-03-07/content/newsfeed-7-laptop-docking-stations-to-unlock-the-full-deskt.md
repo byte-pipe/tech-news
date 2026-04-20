@@ -27,7 +27,7 @@ The Best Laptop Docking Station
 CalDigit TS5 Plus
 Read more
 $500
- 
+
 
 Amazon
 
@@ -35,7 +35,7 @@ An Affordable Docking Station
 Plugable USB-C Dual HDMI Display Horizontal Docking Station
 Read more
 $120
- 
+
 
 Amazon
 
@@ -43,11 +43,11 @@ A Cheaper Thunderbolt 5 Dock
 Kensington Thunderbolt 5 Triple 4K Docking Station
 Read more
 $390
- 
+
 $270
- 
+
 (31% off)
- 
+
 
 Amazon
 
@@ -55,11 +55,11 @@ A Portable, Affordable Alternative
 Satechi Dual Dock Stand
 Read more
 $150
- 
+
 $105
- 
+
 (30% off)
- 
+
 
 Best Buy
 
@@ -164,7 +164,7 @@ Power up with unlimited access toWIRED.Get best-in-class reporting that's too im
 Back to top
 Triangle
 Luke Larsen
- is a product writer and reviewer at WIRED, covering laptops, PCs, Macs, monitors, and the wider PC peripheral ecosystem. He’s been reporting on tech for over a decade, previously at Digital Trends as the senior editor in computing, where he spent seven years leading the publication’s daily coverage. ... 
+ is a product writer and reviewer at WIRED, covering laptops, PCs, Macs, monitors, and the wider PC peripheral ecosystem. He’s been reporting on tech for over a decade, previously at Digital Trends as the senior editor in computing, where he spent seven years leading the publication’s daily coverage. ...
 Read More
 Product Writer & Reviewer
 

@@ -13,7 +13,7 @@ tags:
 ---
 
 A µ-opioid receptor superagonist analgesic with minimal adverse effects
- 
+
 
 Download PDF
 

@@ -16,11 +16,11 @@ tags:
 By 
 Ruth Wright
 
- Published on 
+ Published on
 26/03/2026 - 7:00 GMT+1
 •
 Updated
- 
+
 15:05
 
 Share
@@ -100,19 +100,19 @@ Share
 
 Earth News
 
- 
+
 
 ### UK to give homes ‘free energy’ instead of turning off wind turbines
 
 Ecotech
 
- 
+
 
 ### What is plug-in solar and can it save you money?
 
 Ecotech
 
- 
+
 
 ### ‘Artificially cheap’ Chinese solar is ending – will Africa take a hit?
 

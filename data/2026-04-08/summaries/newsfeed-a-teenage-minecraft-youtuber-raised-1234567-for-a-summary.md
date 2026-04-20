@@ -26,7 +26,7 @@ A 19-year-old tech YouTuber named Justin Jin created a meme-based trading app ca
 - **Introduction**:
   - Overview of Justin Jin's creation and intent behind "Giggles."
   - Initial funding and mysterious source.
-  
+
 - **Background**
   - Explanation of the origins of "Giggles" as a joke for social media platforms.
   - Comparison with other viral memes.
@@ -38,7 +38,7 @@ A 19-year-old tech YouTuber named Justin Jin created a meme-based trading app ca
 - **Launches and Milestones**
   - Description of the beta launch of the TikTok-meets-Kalshi marketplace within Giggles.
   - Investment amounts for users.
-  
+
 - **Risks and Concerns**
   - Author's paranoia about AI-generated misinformation and reputation risks.
   - Speculation on what happens to their writing career if they become involved with "Giggles."

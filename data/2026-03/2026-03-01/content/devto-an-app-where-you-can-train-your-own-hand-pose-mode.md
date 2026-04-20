@@ -75,7 +75,7 @@ If you are interested in contributing, feel free! The whole goal is making this 
 Any questions/comments? I would love to hear from you!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

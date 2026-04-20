@@ -11,7 +11,7 @@ description: Open-source AI hackers to find and fix your app’s vulnerabilities
 
 usestrix
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork2.3k
 * Star21.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -156,7 +156,7 @@ Prerequisites:
 #
  Install Strix
 
-curl -sSL https://strix.ai/install 
+curl -sSL https://strix.ai/install
 |
  bash
 
@@ -254,7 +254,7 @@ strix --target https://your-app.com
 #
  Grey-box authenticated testing
 
-strix --target https://your-app.com --instruction 
+strix --target https://your-app.com --instruction
 "
 Perform authenticated testing using credentials: user:pass
 "
@@ -267,7 +267,7 @@ strix -t https://github.com/org/app -t https://your-app.com
 #
  Focused testing with custom instructions
 
-strix --target api.your-app.com --instruction 
+strix --target api.your-app.com --instruction
 "
 Focus on business logic flaws and IDOR vulnerabilities
 "
@@ -288,64 +288,64 @@ strix -n --target https://your-app.com
 Strix can be added to your pipeline to run a security test on pull requests with a lightweight GitHub Actions workflow:
 
 name
-: 
+:
 strix-penetration-test
 
 on
 :
- 
+
 pull_request
 :
 
 jobs
 :
- 
+
 security-scan
 :
- 
+
 runs-on
-: 
+:
 ubuntu-latest
 
- 
+
 steps
 :
- - 
+ -
 uses
-: 
+:
 actions/checkout@v6
 
- - 
+ -
 name
-: 
+:
 Install Strix
 
- 
+
 run
-: 
+:
 curl -sSL https://strix.ai/install | bash
 
- - 
+ -
 name
-: 
+:
 Run Strix
 
- 
+
 env
 :
- 
+
 STRIX_LLM
-: 
+:
 ${{ secrets.STRIX_LLM }}
 
- 
+
 LLM_API_KEY
-: 
+:
 ${{ secrets.LLM_API_KEY }}
 
- 
+
 run
-: 
+:
 strix -n -t ./ --scan-mode quick
 
 ### Configuration
@@ -370,7 +370,7 @@ export
 "
 your-api-base-url
 "
- 
+
 #
  if using a local model, e.g. Ollama, LMStudio
 
@@ -379,7 +379,7 @@ export
 "
 your-api-key
 "
- 
+
 #
  for search capabilities
 
@@ -388,7 +388,7 @@ export
 "
 high
 "
- 
+
 #
  control thinking effort (default: high, quick scan: medium)
 
@@ -456,56 +456,56 @@ strix.ai
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 21.4k
 
  stars
- 
+
 
 ### Watchers
 
 115
 
  watching
- 
+
 
 ### Forks
 
 2.3k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases11
 
@@ -513,11 +513,11 @@ v0.8.3
 
  Latest
 
- 
+
 
 Mar 23, 2026
 
- 
+
 
 + 10 releases
 
@@ -525,9 +525,9 @@ Mar 23, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -535,9 +535,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

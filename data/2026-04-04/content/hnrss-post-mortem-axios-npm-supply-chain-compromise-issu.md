@@ -14,7 +14,7 @@ tags:
 
 axios
 
- 
+
 
 /
 
@@ -34,7 +34,7 @@ Open
 Post Mortem: axios npm supply chain compromise
 #10636
 Assignees
- 
+
 Labels
 type::security
 The PR is a secuirty related changed normally from a CVE
@@ -43,8 +43,8 @@ The PR is a secuirty related changed normally from a CVE
 ## Description
 
 jasonsaayman
-opened 
-on 
+opened
+on
 Apr 2, 2026
 Issue body actions
 
@@ -60,11 +60,11 @@ The malicious versions were live for about 3 hours before being removed.
 
 Check your lockfile:
 
-grep -E 
+grep -E
 "
 axios@(1\.14\.1|0\.30\.4)|plain-crypto-js
 "
- package-lock.json yarn.lock 
+ package-lock.json yarn.lock
 2>
 /dev/null
 

@@ -11,7 +11,7 @@ description: PDF Parser for AI-ready data. Automate PDF accessibility. Open-sour
 
 opendataloader-project
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork359
 * Star4.7k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -204,7 +204,7 @@ Before you start: runjava -version. If not found, install JDK 11+ fromAdoptium.
 pip install -U opendataloader-pdf
 
 import
- 
+
 opendataloader_pdf
 
 # Batch all files in one call — each convert() spawns a JVM process, so repeated calls are slow
@@ -213,22 +213,22 @@ opendataloader_pdf
 .
 convert
 (
- 
+
 input_path
 =
 [
 "file1.pdf"
-, 
+,
 "file2.pdf"
-, 
+,
 "folder/"
 ],
- 
+
 output_dir
 =
 "output/"
 ,
- 
+
 format
 =
 "markdown,json"
@@ -579,7 +579,7 @@ Coming Q2 2026
 pip install -U opendataloader-pdf
 
 import
- 
+
 opendataloader_pdf
 
 # Batch all files in one call — each convert() spawns a JVM process, so repeated calls are slow
@@ -588,22 +588,22 @@ opendataloader_pdf
 .
 convert
 (
- 
+
 input_path
 =
 [
 "file1.pdf"
-, 
+,
 "file2.pdf"
-, 
+,
 "folder/"
 ],
- 
+
 output_dir
 =
 "output/"
 ,
- 
+
 format
 =
 "markdown,json"
@@ -615,44 +615,44 @@ format
 npm install @opendataloader/pdf
 
 import
- 
+
 {
- 
+
 convert
- 
+
 }
- 
+
 from
- 
+
 '@opendataloader/pdf'
 ;
 
 await
- 
+
 convert
 (
 [
 'file1.pdf'
 ,
- 
+
 'file2.pdf'
 ,
- 
+
 'folder/'
 ]
 ,
- 
+
 {
 
- 
+
 outputDir
-: 
+:
 'output/'
 ,
 
- 
+
 format
-: 
+:
 'markdown,json'
 
 }
@@ -684,7 +684,7 @@ Python Quick Start|Node.js Quick Start|Java Quick Start
 
 Hybrid mode combines fast local Java processing with AI backends. Simple pages stay local (0.05s); complex pages route to AI for +90% table accuracy.
 
-pip install -U 
+pip install -U
 "
 opendataloader-pdf[hybrid]
 "
@@ -708,22 +708,22 @@ opendataloader_pdf
 .
 convert
 (
- 
+
 input_path
 =
 [
 "file1.pdf"
-, 
+,
 "file2.pdf"
-, 
+,
 "folder/"
 ],
- 
+
 output_dir
 =
 "output/"
 ,
- 
+
 hybrid
 =
 "docling-fast"
@@ -738,7 +738,7 @@ opendataloader-pdf-hybrid --port 5002 --force-ocr
 
 For non-English documents, specify the language:
 
-opendataloader-pdf-hybrid --port 5002 --force-ocr --ocr-lang 
+opendataloader-pdf-hybrid --port 5002 --force-ocr --ocr-lang
 "
 ko,en
 "
@@ -762,32 +762,32 @@ opendataloader-pdf --hybrid docling-fast --hybrid-mode full file1.pdf file2.pdf 
 Output in JSON:
 
 {
- 
+
 "type"
-: 
+:
 "
 formula
 "
 ,
- 
+
 "page number"
-: 
+:
 1
 ,
- 
+
 "bounding box"
 : [
 226.2
-, 
+,
 144.7
-, 
+,
 377.1
-, 
+,
 168.7
 ],
- 
+
 "content"
-: 
+:
 "
 \\
 frac{f(x+h) - f(x)}{h}
@@ -814,32 +814,32 @@ opendataloader-pdf --hybrid docling-fast --hybrid-mode full file1.pdf file2.pdf 
 Output in JSON:
 
 {
- 
+
 "type"
-: 
+:
 "
 picture
 "
 ,
- 
+
 "page number"
-: 
+:
 1
 ,
- 
+
 "bounding box"
 : [
 72.0
-, 
+,
 400.0
-, 
+,
 540.0
-, 
+,
 650.0
 ],
- 
+
 "description"
-: 
+:
 "
 A bar chart showing waste generation by region from 2016 to 2030...
 "
@@ -887,68 +887,68 @@ Combine formats:format="json,markdown"
 ### JSON Output Example
 
 {
- 
+
 "type"
-: 
+:
 "
 heading
 "
 ,
- 
+
 "id"
-: 
+:
 42
 ,
- 
+
 "level"
-: 
+:
 "
 Title
 "
 ,
- 
+
 "page number"
-: 
+:
 1
 ,
- 
+
 "bounding box"
 : [
 72.0
-, 
+,
 700.0
-, 
+,
 540.0
-, 
+,
 730.0
 ],
- 
+
 "heading level"
-: 
+:
 1
 ,
- 
+
 "font"
-: 
+:
 "
 Helvetica-Bold
 "
 ,
- 
+
 "font size"
-: 
+:
 24.0
 ,
- 
+
 "text color"
-: 
+:
 "
 [0.0]
 "
 ,
- 
+
 "content"
-: 
+:
 "
 Introduction
 "
@@ -998,26 +998,26 @@ opendataloader_pdf
 .
 convert
 (
- 
+
 input_path
 =
 [
 "file1.pdf"
-, 
+,
 "file2.pdf"
-, 
+,
 "folder/"
 ],
- 
+
 output_dir
 =
 "output/"
 ,
- 
+
 use_struct_tree
 =
 True
- 
+
 # Use native PDF structure tags
 
 )
@@ -1046,30 +1046,30 @@ AI Safety Guide
 pip install -U langchain-opendataloader-pdf
 
 from
- 
+
 langchain_opendataloader_pdf
- 
+
 import
- 
+
 OpenDataLoaderPDFLoader
 
 loader
- 
+
 =
- 
+
 OpenDataLoaderPDFLoader
 (
- 
+
 file_path
 =
 [
 "file1.pdf"
-, 
+,
 "file2.pdf"
-, 
+,
 "folder/"
 ],
- 
+
 format
 =
 "text"
@@ -1077,9 +1077,9 @@ format
 )
 
 documents
- 
+
 =
- 
+
 loader
 .
 load
@@ -1095,45 +1095,45 @@ opendataloader_pdf
 .
 convert
 (
- 
+
 input_path
 =
 [
 "file1.pdf"
-, 
+,
 "file2.pdf"
-, 
+,
 "folder/"
 ],
- 
+
 output_dir
 =
 "output/"
 ,
- 
+
 format
 =
 "json,markdown,pdf"
 ,
- 
+
 image_output
 =
 "embedded"
-, 
+,
 # "off", "embedded" (Base64), or "external" (default)
 
- 
+
 image_format
 =
 "jpeg"
-, 
+,
 # "png" or "jpeg"
 
- 
+
 use_struct_tree
 =
 True
-, 
+,
 # Use native PDF structure
 
 )
@@ -1188,7 +1188,7 @@ veraPDF
 
 Collaboration
 
-PDF Association + 
+PDF Association +
 Dual Lab
  (veraPDF developers) co-develop tagging and validation
 
@@ -1206,7 +1206,7 @@ Status
 
 Tier
 
-1. 
+1.
 Audit
 
 Read existing PDF tags, detect untagged PDFs
@@ -1215,7 +1215,7 @@ Shipped
 
 Free
 
-2. 
+2.
 Auto-tag → Tagged PDF
 
 Generate structure tags for untagged PDFs
@@ -1224,7 +1224,7 @@ Coming Q2 2026
 
 Free (Apache 2.0)
 
-3. 
+3.
 Export PDF/UA
 
 Convert to PDF/UA-1 or PDF/UA-2 compliant files
@@ -1233,7 +1233,7 @@ Convert to PDF/UA-1 or PDF/UA-2 compliant files
 
 Enterprise
 
-4. 
+4.
 Visual editing
 
 Accessibility studio — review and fix tags
@@ -1252,26 +1252,26 @@ opendataloader_pdf
 .
 convert
 (
- 
+
 input_path
 =
 [
 "file1.pdf"
-, 
+,
 "file2.pdf"
-, 
+,
 "folder/"
 ],
- 
+
 output_dir
 =
 "output/"
 ,
- 
+
 auto_tag
 =
 True
- 
+
 # Generate structure tags for untagged PDFs
 
 )
@@ -1343,31 +1343,31 @@ opendataloader_pdf
 .
 convert
 (
- 
+
 input_path
 =
 [
 "file1.pdf"
-, 
+,
 "file2.pdf"
-, 
+,
 "folder/"
 ],
- 
+
 output_dir
 =
 "output/"
 ,
- 
+
 format
 =
 "json"
 ,
- 
+
 hybrid
 =
 "docling-fast"
- 
+
 # For complex tables
 
 )
@@ -1415,7 +1415,7 @@ Every element in JSON output includes abounding box([left, bottom, right, top]in
 ### How do I convert PDF to Markdown for LLM?
 
 import
- 
+
 opendataloader_pdf
 
 # Batch all files in one call — each convert() spawns a JVM process, so repeated calls are slow
@@ -1424,22 +1424,22 @@ opendataloader_pdf
 .
 convert
 (
- 
+
 input_path
 =
 [
 "file1.pdf"
-, 
+,
 "file2.pdf"
-, 
+,
 "folder/"
 ],
- 
+
 output_dir
 =
 "output/"
 ,
- 
+
 format
 =
 "markdown"
@@ -1548,66 +1548,66 @@ opendataloader.org
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 4.7k
 
  stars
- 
+
 
 ### Watchers
 
 18
 
  watching
- 
+
 
 ### Forks
 
 359
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases51
 
@@ -1615,11 +1615,11 @@ Release v2.0.2
 
  Latest
 
- 
+
 
 Mar 18, 2026
 
- 
+
 
 + 50 releases
 
@@ -1635,17 +1635,17 @@ Mar 18, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors13
 

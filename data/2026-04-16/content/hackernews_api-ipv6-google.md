@@ -30,22 +30,22 @@ We are continuously measuring the availability of IPv6 connectivity among Google
 #### Per-Country IPv6 adoption
 
 World
- | 
+ |
 Africa
- | 
+ |
 Asia
- | 
+ |
 Europe
- | 
+ |
 Oceania
- | 
+ |
 North America
  |
- 
+
 Central America
- | 
+ |
 Caribbean
- | 
+ |
 South America
 
 The chart above shows the availability of IPv6 connectivity around the world.

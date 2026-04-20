@@ -62,7 +62,7 @@ Brilliant's intricate interactivity and animations are historically painful to p
 Claude Design has made prototyping dramatically faster for our team, enabling live design during conversations. We've gone from a rough idea to a working prototype before anyone leaves the room, and the output stays true to our brand and design guidelines. What used to take a week of back-and-forth between briefs, mockups, and review rounds now happens in a single conversation.
 01
  /
- 
+
 03
 
 ## Get started

@@ -30,7 +30,7 @@ Users can continue to access their libraries through newer devices, the Kindle m
 
 Several longtime users voiced frustrations about the move to end support for older Kindles, many of which are in excellent condition and have not seen any operational degradation. On Reddit, multiple users said they still rely on these older devices and see no reason to replace them. For some, it felt like another example of tech companies discontinuing support for perfectly functional products, pushing customers toward upgrades while contributing to growing electronic waste. One example of this isGoogle, which ended support for its older Nest thermostats in 2025. According to theUnited Nations Institute for Training and Research (UNITAR), global e-waste is estimated to reach 82 million tonnes by 2030, a 32% jump from 2022.
 
- 
+
 
 Techcrunch event
 
@@ -59,20 +59,20 @@ The decision to essentially kill older Kindle devices isn’t entirely unexpecte
 Topics
 
 Amazon
-, 
+,
 Gadgets
-, 
+,
 Hardware
-, 
+,
 Kindle
- 
 
-			Lauren Forristal	
+
+			Lauren Forristal
 
 Lauren covers media, streaming, apps and platforms at TechCrunch.
 
 You can contact or verify outreach from Lauren by emailinglaurenf.techcrunch@gmail.comor via encrypted message at laurenforris22.25 on Signal.
 
- 
+
 
 View Bio

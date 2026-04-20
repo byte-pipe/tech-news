@@ -11,7 +11,7 @@ summarized_at: 2026-03-23T11:26:28.076476
 
 ## GrapheneOS: Explanation for Using Mastodon
 
-Mastodon is a decentralized social networking platform that allows users to host their personal network of friends around the world on secure, open-source blockchain. While it primarily operates as a standalone application on mobile devices and PC clients like GrapheneOS, to use the website Mastodon web application requires enabling JavaScript on the browser. 
+Mastodon is a decentralized social networking platform that allows users to host their personal network of friends around the world on secure, open-source blockchain. While it primarily operates as a standalone application on mobile devices and PC clients like GrapheneOS, to use the website Mastodon web application requires enabling JavaScript on the browser.
 
 Additionally, there are various native apps available for different platforms that offer an alternative way to access Mastodon. These apps facilitate seamless transitions between desktop applications and mobile devices when integrating with the blockchain-based platform.
 

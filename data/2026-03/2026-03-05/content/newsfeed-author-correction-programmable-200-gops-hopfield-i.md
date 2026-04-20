@@ -11,7 +11,7 @@ tags:
 ---
 
 Author Correction: Programmable 200 GOPS Hopfield-inspired photonic Ising machine
- 
+
 
 Download PDF
 

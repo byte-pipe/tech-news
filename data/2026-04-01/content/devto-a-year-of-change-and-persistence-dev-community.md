@@ -57,7 +57,7 @@ Here to document my coding journey & learn new things :)
 
 ## Kat CosgroveFollow
 
-Real-life cyborg. 
+Real-life cyborg.
 
 ## Connie LeungFollow
 
@@ -76,7 +76,7 @@ I'm interested in Generative AI, AI Dev Tools, Data Privacy, and Responsible AI
 To everyone participating inthis challenge: thank you for your vulnerability. Your stories are proof that even when things are difficult, we can build together as a community.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

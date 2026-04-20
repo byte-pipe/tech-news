@@ -28,15 +28,15 @@ Jason Koebler
 
  Mar 17, 2026
  at 10:59 AM
- 
 
- 
+
+
 
 Widely cited AI labor research ignores the most important thing AI is doing: Killing the human internet.
 
 Image: Unsplash
 
- 
+
 
 Advertisement
 

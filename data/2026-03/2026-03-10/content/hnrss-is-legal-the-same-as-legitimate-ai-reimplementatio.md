@@ -13,7 +13,7 @@ tags:
 ---
 
 March 9, 2026
- 
+
 
 # Is legal the same as legitimate: AI reimplementation and the erosion of copyleft
 

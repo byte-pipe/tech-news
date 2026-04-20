@@ -14,7 +14,7 @@ tags:
 ---
 
 A large-scale coherent 4D imaging sensor
- 
+
 
 Download PDF
 
@@ -186,14 +186,14 @@ A key driver of LiDAR performance is the number of photons received from the tar
 $${P}_{{\rm{RX}}}={\eta }_{{\rm{p}}}\,\rho ({\rm{\pi }}){P}_{{\rm{TX}}}\frac{{\lambda }^{2}}{{\rm{\pi }}{\omega }^{2}(z)},$$
 
  (1)
- 
+
 
 in whichPTXis the transmitted optical power,λthe light wavelength andω(z) is the Gaussian beam radius of the detecting beam at distancezfrom the emitter. The total losses of the system are described by the parameterηp, which includes losses of the lens system, directional couplers and grating couplers. The constantρ(π) represents the inverse steradian power reflectivity of the target, as defined in ref.44. The received signal of optical powerPRXmixes with the LO of optical powerPLOand creates a beat signal with frequencyf0and amplitude given by:
 
 $$ < {I}_{{\rm{target}}} > =2{R}_{{\rm{PD}}}\sqrt{{P}_{{\rm{LO}}}\,{P}_{{\rm{RX}}}},$$
 
  (2)
- 
+
 
 in whichRPDis the responsivity of the photodetector.
 
@@ -202,14 +202,14 @@ The recombined optical power in the pixel creates shot noise on each photodetect
 $$ < {I}_{{\rm{shot}}}{ > }^{2}=2q{R}_{{\rm{PD}}}({P}_{{\rm{LO}}}+{P}_{{\rm{RX}}}){B}_{{\rm{e}}}\approx 2q{R}_{{\rm{PD}}}{P}_{{\rm{LO}}}\,{B}_{{\rm{e}}}.$$
 
  (3)
- 
+
 
 An efficient detection of the signal frequency requires the signal peak power spectral density (PSD) to rise above the noise PSD. The SNR is defined experimentally by the ratio of the peak PSD of the target |S(f0)|2to the mean PSD of noise <|S(fn)|2>. For a shot-noise-limited system, this is given by:
 
 $${{\rm{SNR}}}_{{\rm{SN}}}=\frac{|S({f}_{0}){|}^{2}}{ < |S({f}_{{\rm{n}}}){|}^{2} > }=\frac{ < {I}_{{\rm{target}}}{ > }^{2}/2}{ < {I}_{{\rm{shot}}}{ > }^{2}}=2{R}_{{\rm{PD}}}{P}_{{\rm{RX}}}T/q=2N,$$
 
  (4)
- 
+
 
 giving the well-known relationship between SNR and the number of detected photonsNin the integration timeT(ref.44).
 
@@ -218,21 +218,21 @@ As shown in Fig.4b, the presented imaging system is not shot-noise limited but c
 $${\rm{SNR}}=\frac{ < {I}_{{\rm{target}}}{ > }^{2}/2}{ < {I}_{{\rm{shot}}}{ > }^{2}+ < {I}_{{\rm{amp}}}{ > }^{2}},$$
 
  (5)
- 
+
 
 in which <Iamp> is the thermal noise of the amplifier. We define the ratio of shot noise to amplifier noiseκusing:
 
 $${\kappa }^{2}=\frac{ < {I}_{{\rm{shot}}}{ > }^{2}}{ < {I}_{{\rm{amp}}}{ > }^{2}}.$$
 
  (6)
- 
+
 
 The difference between the SNR of the imaging system and its expected SNR in the shot-noise-limited regime defines a SNR penalty as:
 
 $${{\rm{SNR}}}_{{\rm{penalty}}}=\frac{{\rm{SNR}}}{{{\rm{SNR}}}_{{\rm{SN}}}}=\frac{1}{1+1/{\kappa }^{2}}.$$
 
  (7)
- 
+
 
 We measured the noise ratioκfor each pixel in the array. First, amplifier noise was measured with no light. The mean amplitude in a single bin was measured over 100 acquisitions. Modulated light was then added and the total noise measured in the same way. Shot noise was estimated as\( < {I}_{{\rm{shot}}}^{2} > = < {I}_{{\rm{tot}}}^{2} > - < {I}_{{\rm{amp}}}^{2} > \). The resulting distribution is shown in Fig.4b, with a mean value ofκ= 0.62. As shown in Fig.4c, this results in a SNR penalty of −5.6 dB.
 

@@ -27,18 +27,18 @@ The Papure project turns existing paper compounds into a natural adhesive, creat
 The Papure project turns existing paper compounds into a natural adhesive, creating highly recyclable packaging.
 
 by
- 
- 
+
+
 Andrew Liszewski
 Mar 30, 2026, 4:01 PM UTC
 * Link
 * Share
 * Gift
 A simple paper envelope made without additional glue or plastic to seal three of its sides.
- 
+
 Image: Fraunhofer IVV
 Andrew Liszewski
- 
+
 is a senior reporter who’s been covering and reviewing the latest gadgets and tech since 2006, but has loved all things electronic since he was a kid.
 
 Although paper is a more environmentally friendly packaging material than plastic, it’s often contaminated with additives, such as adhesives used to create a secure seal. That complicates the recycling process and reduces the quality of recycled paper. Now, German researchers at four Fraunhofer institutes havedeveloped an alternative process that can seal paper packagingwithout glue or plastic using a carbon monoxide laser.
@@ -46,7 +46,7 @@ Although paper is a more environmentally friendly packaging material than plasti
 The new system, currently called the Papure project, leverages the expertise of the Fraunhofer institutes, each of which focuses on areas such as polymer research, engineering and packaging, and laser beam technologies. The first step of the new sealing process involves analyzing the chemical composition and morphology of various paper types using techniques such as scanning electron microscopy and X-ray photoelectron spectroscopy to determine if they can be sealed without an additive. The amounts of ingredients such as hemicellulose, cellulose, lignin, talc, and calcium carbonate in the paper can affect the strength of the final packaging’s seals.
 
 The prototype manufacturing unit is expected to be able to produce 10 packages per minute by September.
- 
+
 Image: Fraunhofer IVV
 
 Once a paper type is approved, it’s irradiated with a CO laser in a controlled process that rapidly heats its surface, converting the lignin, hemicellulose, and cellulose into short-chain compounds. From there, what researchers call “fusible cleavage products” remain on the paper’s surface and act like a natural glue, creating a tight seal when heat and pressure are applied. The researchers are still fine-tuning the various parameters of the Papure project, including laser intensity and paper seam design, to maximize bond strength. But in current testing, they’ve found that a 2cm seal that’s just 3mm wide is strong enough to support a 44-pound load.
@@ -77,19 +77,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 
@@ -113,7 +113,7 @@ Nilay Patel
 3:15 PM UTC
 The best deals we’ve found from Amazon’s Big Spring Sale (so far)
 Sheena Vasani
- and 
+ and
 Brandon Widder
 3:05 PM UTC
 For $200 more, you can get a MacBook Air

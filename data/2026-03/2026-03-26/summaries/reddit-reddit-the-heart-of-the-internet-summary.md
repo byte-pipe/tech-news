@@ -1,7 +1,7 @@
 ---
 title: Reddit - The heart of the internet
 url: https://www.reddit.com/r/worldnews/comments/1s2fzx8/us_seeks_5_trillion_from_gulf_states_to_stop_iran/
-date: 
+date:
 site: reddit
 model: gpt-oss:120b-cloud
 summarized_at: 2026-03-26T01:03:51.099492

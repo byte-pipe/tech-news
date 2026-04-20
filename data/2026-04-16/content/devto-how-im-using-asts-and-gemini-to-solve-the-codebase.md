@@ -47,7 +47,7 @@ I would love to hear your thoughts! How do you usually handle ramping up on mass
 Let me know if you have any questions about the tech stack, the Lean RAG approach, or the D3 visualizations. I'd love to chat in the comments! 👇
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Likhesh Bramhanwade
 
 Contributor
@@ -22,13 +22,13 @@ opinion
 
 Apr 9, 2026
 15 mins
- 
+
 
 ## AI lets you code at warp speed, but without Agile "safety nets" like pair programming and automated tests, you're just creating technical debt even faster.
 
- 
 
-							Credit: 															Cherdchai101 / Shutterstock													
+
+							Credit: 															Cherdchai101 / Shutterstock
 
 Generative AI has revolutionized the space of software development in such a way that developers can now write code at an unprecedented speed. Various tools such as GitHub Copilot, Amazon CodeWhisperer and ChatGPT have become a normal part of how engineers carry out their work nowadays. I have experienced this firsthand, in my roles from leading engineering teams at Amazon to working on large-scale platforms for invoicing and compliance, both the huge boosts in productivity and the equally great risks that come with GenAI-assisted development.
 
@@ -171,13 +171,13 @@ Artificial Intelligence
 Development Approaches
 Generative AI
 Software Development
- 
 
- 
 
-														by 															
 
-																Likhesh Bramhanwade															
+
+														by
+
+																Likhesh Bramhanwade
 
 Contributor
 
@@ -192,12 +192,12 @@ Articles
 Videos
 
 news
- 
- 
+
+
 
 ### AWS targets AI agent sprawl with new Bedrock Agent Registry
 
- 
+
 By Anirban Ghoshal
 Apr 10, 2026
 4 mins
@@ -207,12 +207,12 @@ Artificial Intelligence
 IaaS
 
 opinion
- 
- 
+
+
 
 ### AI agents aren't failing. The coordination layer is failing
 
- 
+
 By Sreenivasa Reddy Hulebeedu Reddy
 Apr 10, 2026
 8 mins
@@ -222,12 +222,12 @@ Development Approaches
 Microservices
 
 opinion
- 
- 
+
+
 
 ### Cloud degrees are moving online
 
- 
+
 By David Linthicum
 Apr 10, 2026
 6 mins
@@ -237,36 +237,36 @@ Cloud Computing
 Technology Industry
 
 video
- 
- 
+
+
 
 ### Python's new frozendict type
 
- 
+
 Apr 2, 2026
 4 mins
 
 Python
 
 video
- 
- 
+
+
 
 ### How to boost app performance with Python 3.15's lazy import
 
- 
+
 Mar 31, 2026
 6 mins
 
 Python
 
 video
- 
- 
+
+
 
 ### How to run your own little local Claude Code (sort of!)
 
- 
+
 Mar 26, 2026
 7 mins
 

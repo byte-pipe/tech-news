@@ -25,8 +25,8 @@ tags:
 I played games about family drama, adorable slimes, and picking noses.
 
 by
- 
- 
+
+
 Jay Peters
 Mar 14, 2026, 12:00 PM UTC
 * Link
@@ -42,8 +42,8 @@ Mar 14, 2026, 12:00 PM UTC
 I played games about family drama, adorable slimes, and picking noses.
 
 by
- 
- 
+
+
 Jay Peters
 Mar 14, 2026, 12:00 PM UTC
 * Link
@@ -51,9 +51,9 @@ Mar 14, 2026, 12:00 PM UTC
 * Gift
 Part Of
 The best indie games we’re playing right now
-see all updates 
+see all updates
 Jay Peters
- 
+
 is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme.
 
 I just got back from the GDC Festival of Gaming, a big industry-focused event in San Francisco that was formerly known as the Game Developers Conference. While the show is mostly about educational sessions and networking opportunities for working developers, there were also a bunch of games that I got to play. Here are some of my favorites, listed alphabetically. Best of all, these could all launch this year — hopefullywell beforeGrand Theft Auto VI.
@@ -116,19 +116,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

@@ -45,9 +45,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -62,7 +62,7 @@ Subscribe to our newsletter
 Thebest RAMon the market has become extremely expensive and out of reach for most consumers since the global memory shortage began. Fortunately, V-Color has stepped in to save the day. The company has announced its 1+1 value packs, which cleverly include one real memory module alongside a matching filler module. Even if your budget only allows you to purchase a single real memory module, you can still achieve the look of a dual-module setup in your build.
 
 Go deeper with TH Premium: AI shortages
- 
+
 
 (Image credit: Nvidia)
 * AI data centers are swallowing the world's memory and storage supply
@@ -74,13 +74,13 @@ Filler modules, more commonly known as dummy modules, have become a popular acce
 
 Despite the growing importance of aesthetics in PC building, few memory vendors have fully embraced the concept of dummy or filler memory modules. V-Color is the only brand that has invested significantly in the idea. The company not only offers filler modules as standalone packs but also includes them as additional accessories in some of its existing memory kits. Today's announcement marks the launch of new 1+1 DDR5 memory kits designed specifically for AMD systems.
 
-Article continues below 
+Article continues below
 
 “The goal of this 1+1 DDR5 solution is to give gamers a more flexible and accessible way to start their DDR5 build without sacrificing appearance or future upgrade potential,” said a V-Color representative in the press release.
 
-Image 
+Image
 1
- of 
+ of
 4
 (Image credit: V-Color)
 (Image credit: V-Color)
@@ -102,7 +102,7 @@ Receive email from us on behalf of our trusted partners or sponsors
 
 V-Color hasn't shared the pricing or availability for the new 1+1 value packs. The company confirmed only that distribution is through selected global partners, such as Newegg.
 
- 
+
 
 FollowTom's Hardware on Google News, oradd us as a preferred source, to get our latest news, analysis, & reviews in your feeds.
 

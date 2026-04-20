@@ -15,24 +15,24 @@ tags:
 
 Home→Contact Center & Omnichannel​
 
- 
+
 
 # Enterprise Connect 2026: Why CX Leaders Are Being Forced to Grow Up About AI
 
 Day two of Enterprise Connect 2026 feels noticeably different.
 
- 
+
 4
 
- 
+
 
 Contact Center & Omnichannel​
 News
- 
+
 
 Published: March 10, 2026
 
- 
+
 
 Rob Scott
 
@@ -128,7 +128,7 @@ CX Today is tracking Enterprise Connect 2026 live, with analysis, interviews, an
 
 Explore all Enterprise Connect 2026 coverage on CX Today →
 
- 
+
 
 Agentic AI
 Agentic AI in Customer Service​
@@ -136,65 +136,65 @@ AI Agents
 Autonomous Agents
 CCaaS
 Enterprise Connect
- 
+
 
 Featured
 
- 
+
 
 AI & Automation in CX
 
 Krisp Launches Customer Accent Conversion for Global Contact Centers
 
- 
+
 
 Contact Center & Omnichannel​
 
 RingCentral Unveils AIR Pro at Enterprise Connect: Next-Gen Voice AI for Customer Engagement
 
- 
+
 
 AI & Automation in CX
 
 Five9 Expands Partner Ecosystem to Orchestrate the Multi-Agent Contact Center
 
- 
+
 
 Contact Center & Omnichannel​
 
 UJET Introduces Agentic Experience Orchestration to Simplify Agent Workflows and Unify CX Systems
 
- 
+
 
 AI & Automation in CX
 
 Nvidia Targets Contact Centers with Open-Source AI Agent Platform
 
- 
+
 
 AI & Automation in CX
 
 Amazon Connect Wants to Kill Call Deflection as a Success Metric
 
- 
+
 
 Share This Post
 
 Related
 
- 
+
 
 AI & Automation in CX
 
 Krisp Launches Customer Accent Conversion for Global Contact Centers
 
- 
+
 
 Contact Center & Omnichannel​
 
 RingCentral Unveils AIR Pro at Enterprise Connect: Next-Gen Voice AI for Customer Engagement
 
- 
+
 
 AI & Automation in CX
 

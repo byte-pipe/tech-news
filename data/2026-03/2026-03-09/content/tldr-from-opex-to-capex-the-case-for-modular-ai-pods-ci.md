@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Zac Engler
 
 Contributor
@@ -22,13 +22,13 @@ Opinion
 
 Mar 4, 2026
 7 mins
- 
+
 
 ## Stop hiring armies of full-time staff for every AI trend; use specialized "bolt-on" teams to build your tech, then scale back once the project is on your balance sheet.
 
- 
 
-							Credit: 															
+
+							Credit:
 Austin Distel
 
 If you want to see the immediate future of enterprise org planning, don’t look at NVIDIA’s stock price. Look at theseverance packages at Chegg.
@@ -106,27 +106,27 @@ Software Development
 Developer
 Roles
 Artificial Intelligence
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Zac Engler															
+														by
+
+																Zac Engler
 
 Contributor
 
@@ -137,7 +137,7 @@ Zac Englerbegan writing about AI in 2016 after realizing how quickly the technol
 ## More from this author
 
 * opinion### Business leaders must tackle shadow AI before it kills strategic thinkingNov 5, 20258 mins
- 
+
 
 ## Show me more
 
@@ -147,12 +147,12 @@ Podcasts
 Videos
 
 opinion
- 
- 
+
+
 
 ### Why ‘move fast and break things’ is a liability for critical sectors
 
- 
+
 By Bhanu Handa
 Mar 9, 2026
 9 mins
@@ -162,12 +162,12 @@ Healthcare Industry
 Transportation and Logistics Industry
 
 feature
- 
- 
+
+
 
 ### Nonprofits shaping the future of responsible AI
 
- 
+
 By Rachel Curry
 Mar 9, 2026
 8 mins
@@ -177,74 +177,74 @@ IT Governance Frameworks
 Nonprofits
 
 brandpost
- 
+
 Sponsored by Huawei
- 
+
 
 ### HUAWEI eKit strives to simplify AI adoption for SMBs
 
- 
+
 Mar 6, 2026
 5 mins
 
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### CIO Leadership Live Australia with Ram Kalyanasundaram, Technology & Digital Transformation Director, Lion
 
- 
+
 Mar 9, 2026
 40 mins
 
 CIO Leadership Live
 
 podcast
- 
- 
+
+
 
 ### From Paper Checks to AI: How Deluxe Is Reinventing Itself as a Digital Payments Company
 
- 
+
 Mar 5, 2026
 25 mins
 
 CIO Leadership Live
 
 podcast
- 
+
 Sponsored by Intel
- 
+
 
 ### Insights from Wipro and Intel: How AI PCs are powering a new era of work
 
- 
+
 Mar 4, 2026
 21 mins
 
 Generative AI
 
 video
- 
- 
+
+
 
 ### CIO Leadership Live Australia with Ram Kalyanasundaram, Technology & Digital Transformation Director, Lion
 
- 
+
 Mar 9, 2026
 40 mins
 
 CIO Leadership Live
 
 video
- 
- 
+
+
 
 ### Designing GenAI for Scale: Lessons from Heineken’s Journey Out of the ‘Wild West’
 
- 
+
 By Estelle Quek
 Mar 8, 2026
 23 mins
@@ -254,12 +254,12 @@ Innovation
 Machine Learning
 
 video
- 
- 
+
+
 
 ### From Paper Checks to AI: How Deluxe Is Reinventing Itself as a Digital Payments Company
 
- 
+
 Mar 5, 2026
 25 mins
 

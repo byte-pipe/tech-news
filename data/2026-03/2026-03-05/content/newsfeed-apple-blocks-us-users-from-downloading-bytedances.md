@@ -75,9 +75,9 @@ So far, there’ve been few instances of Apple actually implementing technical c
 * The system that intercepted Iran’s missilesover the UAE
 * Listen:The Pentagon vs. “woke” Anthropic
 Zeyi Yang
- is a senior writer at WIRED, covering technology and business in China. He cowrites 
+ is a senior writer at WIRED, covering technology and business in China. He cowrites
 Made in China
-, a weekly newsletter that gives readers a clear-eyed, unbiased view of the biggest tech news coming out of the country. Prior to joining WIRED, he was China reporter at MIT Technology ... 
+, a weekly newsletter that gives readers a clear-eyed, unbiased view of the biggest tech news coming out of the country. Prior to joining WIRED, he was China reporter at MIT Technology ...
 Read More
 Senior Writer
 

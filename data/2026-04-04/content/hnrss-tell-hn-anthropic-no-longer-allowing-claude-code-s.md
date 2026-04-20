@@ -14,33 +14,33 @@ tags:
 
 Hacker News
 new
- | 
+ |
 past
- | 
+ |
 comments
- | 
+ |
 ask
- | 
+ |
 show
- | 
+ |
 jobs
- | 
+ |
 submit
 login
 Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
 747 points
- by 
+ by
 firloop
- 
+
 12 hours ago
- 
- | 
+
+ |
 hide
- | 
+ |
 past
- | 
+ |
 favorite
- | 
+ |
 588 comments
 Received the following email from Anthropic:
 
@@ -50,12 +50,12 @@ Hi,Starting April 4 at 12pm PT / 8pm BST, you’ll no longer be able to use your
 help
 
 jesse_dot_id
- 
+
 11 hours ago
- 
- | 
+
+ |
 next
- 
+
 [–]
 
 There seem to be a ton of people who don't understand how subscription services work. Every single one of them oversells their capacity. The power users that use the services a lot are subsidized by those who don't use it as much, which tends to be the vast majority of the user base. OpenClaw is an autonomous power user. The growing adoption of this walking attack surface was either going to A) cause the cost of Claude to go up or B) get banned to protect the price of the service for actual users.
@@ -63,14 +63,14 @@ There seem to be a ton of people who don't understand how subscription services 
 reply
 
 goosejuice
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 What you're saying is conceptually true for subscription services in general, but thats not why they are making this change. There's a 5 hour limit and a weekly limit. Those are hard token limits. Everyone on a plan pays for the max set of tokens in that plan. The limits manage capacity. The solution to that isn't a change of ToS, it's adjusting the limits.
@@ -80,16 +80,16 @@ In other words this is about Anthropic subsidizing their own tools to keep peopl
 reply
 
 jmalicki
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You aren't paying to be using that limit all of the time.
@@ -99,16 +99,16 @@ You are paying to be using that limit some of the time. There are 5 hour windows
 reply
 
 teekert
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I've met people that fill a box of sushi to take home at the end of their “all you can eat” session because “they paid for it”. Shrug.
@@ -116,16 +116,16 @@ I've met people that fill a box of sushi to take home at the end of their “all
 reply
 
 KeplerBoy
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yes and the staff will tell them to stop that or charge them extra for it.
@@ -133,16 +133,16 @@ Yes and the staff will tell them to stop that or charge them extra for it.
 reply
 
 teekert
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yes and they will hide their sushi-grabbing because somewhere deep inside they know it's not part of the deal, while at the same time still strongly feeling that they have indeed paid for it.
@@ -152,16 +152,16 @@ Ah, to be human!
 reply
 
 abustamam
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'd argue they hide their takeaway because of what GP comment said — not because of anything innate, but because a staff member will not let them.
@@ -171,32 +171,32 @@ I grew up in an Asian household of six. We definitely took food home at AYCE pla
 reply
 
 ohhman11
- 
+
 3 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I assume it's not unusual for thieves to brag about their scores.
 jhrmnn
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The cooperative and competitive sides of our soul fighting it out in a single situation
@@ -204,18 +204,18 @@ The cooperative and competitive sides of our soul fighting it out in a single si
 reply
 
 Alexzoofficial
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Really
@@ -223,18 +223,18 @@ Really
 reply
 
 daynthelife
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Theoretically you can max out every 5 hour window, but they lose money on that.
@@ -244,16 +244,16 @@ No, there is a weekly limit as well. Maxing out a single 5h window uses ~10% of 
 reply
 
 MaxikCZ
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I fill my week limit in a few days :(
@@ -261,16 +261,16 @@ I fill my week limit in a few days :(
 reply
 
 KellyCriterion
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Do you do process XLS or similar data?
@@ -279,18 +279,18 @@ Ive seen using any other files than code files eats much more faster
 reply
 
 lherron
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I think maybe you are not familiar with what /loop and the Claude cron tools do.
@@ -300,16 +300,16 @@ https://code.claude.com/docs/en/scheduled-tasks
 reply
 
 gregjw
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I need a hypothetical use case for things like this, I don't get how so many people have so much desire for use of features like this.
@@ -317,16 +317,16 @@ I need a hypothetical use case for things like this, I don't get how so many peo
 reply
 
 goosejuice
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 https://martinfowler.com/articles/harness-engineering.html
@@ -337,18 +337,18 @@ If you manage developers or product folk, do you allow them to work when you're 
 reply
 
 vasco
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Every morning it summarizes a bunch of stuff for me, suggests me PRs to review, emails to reply to, freshly cloned any new repos, pulled all others, presents me with the suggested approaches to my PRs of that day, and gives me a list of my slack mentions that look more urgent.
@@ -358,16 +358,16 @@ This is just the morning ones, and saves shitloads of time of clicking around fr
 reply
 
 vichle
- 
+
 25 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Wow, you should probably ask it to write a script for 90+% of that instead . Sounds like a huge waste of electricity.
@@ -375,18 +375,18 @@ Wow, you should probably ask it to write a script for 90+% of that instead . Sou
 reply
 
 tomjen3
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Deduplicating/validating/processing incoming bug reports?
@@ -394,18 +394,18 @@ Deduplicating/validating/processing incoming bug reports?
 reply
 
 kay_o
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Theoretically you can max out every 5 hour window, but they lose money on that.
@@ -415,16 +415,16 @@ This typically results in a ban for TOS violations after a few windows in a row 
 reply
 
 sdoering
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I have maxed out my 5 hour limits and my weekly limits fairly regularly, when I did a bunch of editing work on long form writing next to having CC run a few coding tasks over the xmas holidys - I only slept a few hours at night an timed those roughly (by chance) with my limits.
@@ -434,16 +434,16 @@ I neither got a warning or a ban or anything - and that was with the double toke
 reply
 
 kay_o
- 
+
 47 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Was this on a new (few months) or significantly older account?
@@ -451,18 +451,18 @@ Was this on a new (few months) or significantly older account?
 reply
 
 goosejuice
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Theoretically you can max out every 5 hour window, but they lose money on that.
@@ -472,35 +472,35 @@ Then it's not priced correctly. As I said, you can do all of this without OpenCl
 reply
 
 Yokohiii
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-It is priced incorrectly, but that is intentional. You can't create a tiered paid plan for the whole world that fits everyone. You can't create nuanced extra plans to satisfy all the outliers. It's an bet to keep the customers and still having a good margin. 
+It is priced incorrectly, but that is intentional. You can't create a tiered paid plan for the whole world that fits everyone. You can't create nuanced extra plans to satisfy all the outliers. It's an bet to keep the customers and still having a good margin.
 Think of ecom, returns are a big struggle for any large company because they are unpredictable and subject to abuse, shipping fees are just an sophisticated guess to cover that cost. Not a subscription, same mechanics.
 The only thing here to criticize is, if it's a good thing to make everything a subscription and disguise the real cost.
 
 reply
 
 fluoridation
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >You can't create a tiered paid plan for the whole world that fits everyone.
@@ -510,16 +510,16 @@ I mean, you can. Electricity is already sold that way. Subscribers with uncharac
 reply
 
 Yokohiii
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Very valid. My comment was fixated around the fact that big tech has the addiction to have subscriptions for everything. It's common that you provide generic subscription plans for the masses and supply "call us" custom plans for the specific (usually corporate) needs. If anthropic doesn't provide that or vibe coders are too cheap to do that, then those are issues, but the subscription models are itself valid. It is certainly misleading to a degree, but we've stopped complaining about this a while ago.
@@ -527,16 +527,16 @@ Very valid. My comment was fixated around the fact that big tech has the addicti
 reply
 
 fluoridation
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It's pretty stupid because as others in this thread have pointed out it's already not a flat plan. Even from their side it makes zero sense to bill things this way rather than based on usage. It's not like a VPS where your VM shares the hardware, which consumes electricity more or less regardless of what you use the machine for.
@@ -544,16 +544,16 @@ It's pretty stupid because as others in this thread have pointed out it's alread
 reply
 
 Yokohiii
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Those yottabytes of VRAM are also consuming electricity constantly.
@@ -561,16 +561,16 @@ Those yottabytes of VRAM are also consuming electricity constantly.
 reply
 
 fluoridation
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The difference being that an LLM request is not an operating system. Since they're compartmentalized and ephemeral, you can very easily distribute requests among your available hardware so that you can switch off machines during periods of low activity.
@@ -578,16 +578,16 @@ The difference being that an LLM request is not an operating system. Since they'
 reply
 
 jmalicki
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Your capital costs for buying those machines don't go away.
@@ -595,16 +595,16 @@ Your capital costs for buying those machines don't go away.
 reply
 
 fluoridation
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's a problem that already exists in power generation and delivery, and it's already been solved. Bills are sums of fixed terms and variable terms.
@@ -612,16 +612,16 @@ That's a problem that already exists in power generation and delivery, and it's 
 reply
 
 Yokohiii
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Custom payment schemes are late stage profit generation. It requires hoards of salespeople or an AI that can actually do math.
@@ -631,16 +631,16 @@ It's just how hyperscaling works. You are not wrong, but in the wrong timeline.
 reply
 
 fluoridation
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'm not talking about custom, negotiated service contracts, I'm talking about simply charging people for what they use.
@@ -648,16 +648,16 @@ I'm not talking about custom, negotiated service contracts, I'm talking about si
 reply
 
 anonzzzies
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 But that would be using (a special Claude code version) of the API; as it stands now, I have tried the current api for fun and I hit $200 well within an hour. So if they would charge for real use, no one would use it as there are competitors who have less harsh limits with tier plans still. If all go away then I will be running open models on vast.ai or so as those are now viable (been testing with glm 5 and it's great for coding). So tier subscriptions cannot go away as it will end those companies fast.
@@ -665,18 +665,18 @@ But that would be using (a special Claude code version) of the API; as it stands
 reply
 
 brookst
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 No, it is priced correctly.
@@ -686,16 +686,16 @@ Just because outliers can be money-losing doesn’t mean you should raise the pr
 reply
 
 goosejuice
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Just because outliers can be money-losing doesn’t mean you should raise the price for everyone.
@@ -705,16 +705,16 @@ If they are losing money then it's not priced correctly. That's what I responded
 reply
 
 crote
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > If they are losing money then it's not priced correctly.
@@ -724,18 +724,18 @@ Just a few years ago this was the standard business model for startups: attract 
 reply
 
 jmalicki
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yes, they chose the knob of ToS, because that was the way to price it correctly.
@@ -743,16 +743,16 @@ Yes, they chose the knob of ToS, because that was the way to price it correctly.
 reply
 
 goosejuice
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The market will determine if it was the correct choice. I don't think it's an obviously bad choice on their part.
@@ -760,18 +760,18 @@ The market will determine if it was the correct choice. I don't think it's an ob
 reply
 
 dimmke
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I feel like Anthropic is going down a bad path here with billing things this way. Especially as local LLM continues to develop so fast.
@@ -781,16 +781,16 @@ I downgraded from my $200 a month plan to my $20 plan and hit limits constantly.
 reply
 
 harrall
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This is how free drink refills, airplane tickets, Internet service, unlimited data plans, insurance, flat rate shipping, monthly transit passes, Netflix, Apple Music, gym memberships, museum memberships, car wash plans, amusement park passes, all you can eat buffets, news subscriptions, and many more work.
@@ -800,16 +800,16 @@ Either you get a flat rate fee based on certain allowed usage patterns or everyo
 reply
 
 dimmke
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This is a different case - those all have limitations based on human behavior (it's not necessary or possible to constantly be washing your car the entire month when you pay for unlimited washes) - that doesn't exist here. The types of plans available should reflect that reality. If gyms faced a situation where people would go and spend 18 hours working out every day for a month, they would probably change how they billed things.
@@ -819,16 +819,16 @@ Your comparisons are all also "unlimited" situations to Claude's very much limit
 reply
 
 coldtea
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They sell metered usage while having the implied expectation that most wont use it fully. Power users and users of stuff like OpenClaw don't match that idea.
@@ -838,16 +838,16 @@ So they further restricted the metered caps, which were only offered to NOT be r
 reply
 
 dimmke
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >Power users and users of stuff like OpenClaw don't match that idea.
@@ -857,16 +857,16 @@ Then they should figure out how to structure an offering that accommodates this 
 reply
 
 satvikpendem
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Why "should" they? There's no reason they would especially when their competitor now owns OpenClaw.
@@ -874,19 +874,19 @@ Why "should" they? There's no reason they would especially when their competitor
 reply
 
 aleph_minus_one
- 
+
 51 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-> 
+>
 Why "should" they?
 
 Because it is clear that there is a market demand for it.
@@ -894,18 +894,18 @@ Because it is clear that there is a market demand for it.
 reply
 
 dimmke
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Because a big part of Anthropic's story is that they build based on how people actually use AI. Power users aren't just annoying edge cases, they're signal. Throttling them and calling it done is inconsistent with that.
@@ -913,16 +913,16 @@ Because a big part of Anthropic's story is that they build based on how people a
 reply
 
 lelanthran
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Power users aren't just annoying edge cases, they're signal.
@@ -932,18 +932,18 @@ You got that right; in this case they are signalling that AI token providers are
 reply
 
 2000UltraDeluxe
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Power users aren't just annoying edge cases, they're signal.
@@ -953,18 +953,18 @@ Not all power users. Some re-invent the wheel and/or do things inefficiently, an
 reply
 
 satvikpendem
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Sorry to tell you but generally any company's "story" is all marketing and PR, if it interferes with their making money, which it does in this case, that company will not hesitate to leave it behind.
@@ -972,18 +972,18 @@ Sorry to tell you but generally any company's "story" is all marketing and PR, i
 reply
 
 bergheim
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Oh the billion bollar vc backed pre ipo companys story was this? Omg and they somehow are not delivering up to your standards? Damn they better get their act together lest people like you will whine on twitter about them losing their way
@@ -991,18 +991,18 @@ Oh the billion bollar vc backed pre ipo companys story was this? Omg and they so
 reply
 
 lelanthran
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Then they should figure out how to structure an offering that accommodates this type of usage
@@ -1012,18 +1012,18 @@ They did, didn't they? You can pay the non-plan rate.> not just blanket ban itTh
 reply
 
 guiambros
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They did: just use the metered API.
@@ -1031,18 +1031,18 @@ They did: just use the metered API.
 reply
 
 what
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They did figure out how to structure an offering that accommodates that type of usage: pay for your tokens.
@@ -1050,18 +1050,18 @@ They did figure out how to structure an offering that accommodates that type of 
 reply
 
 jyrkesh
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 "Unlimited" has always been a lie. There is no free lunch. There are always limits.
@@ -1071,16 +1071,16 @@ I've had to unwind "unlimited" within startups that oversold. I've been bit by I
 reply
 
 chrismorgan
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 On your 1.5Mbps link, you could theoretically download 500GB per month. A huge amount, but I believe it was often genuinely allowed, because their uplinks could cope with it. Unlimited could genuinely be unlimited.
@@ -1090,18 +1090,18 @@ But now you might get things like “unlimited” 1Gbps… which reverts to 10Mb
 reply
 
 fluoridation
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 >If gyms faced a situation where people would go and spend 18 hours working out every day for a month, they would probably change how they billed things.
@@ -1111,16 +1111,16 @@ Not the best example. The upkeep cost of a gym is pretty flat regardless of how 
 reply
 
 harvey9
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Two people can't use a machine at the same time is the issue. If you have 50 machines and 200 customers all of whom want to be in the gym 18 hours per day that's quickly going to lead to cancelled subscriptions. Now you need more space and machines or some other way to balance things.
@@ -1128,18 +1128,18 @@ Two people can't use a machine at the same time is the issue. If you have 50 mac
 reply
 
 dimmke
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 >Two people can't use a single machine at the same time make it wear out twice as fast
@@ -1149,16 +1149,16 @@ The machine doesn't care about the number of people using it. If it's constantly
 reply
 
 fmbb
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Anthropic doesn't sell based on a "golly gee I hope people dont use this" gap - they sell compute. Different business.
@@ -1168,18 +1168,18 @@ There is nothing anywhere hinting at that.They don’t sell compute. They sell a
 reply
 
 fluoridation
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 >If it's constantly being used, it will wear out faster.
@@ -1189,16 +1189,16 @@ Yeah, but there's an absolute limit to that, beyond which the cost doesn't keep 
 reply
 
 dimmke
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Gym costs absolutely scale with usage. Equipment wears faster under heavier use. Cleaning and maintenance staff hours scale with how much the facility is used. Consumables like towels, soap, and chalk go faster. HVAC runs harder. The reason gyms can offer flat-rate pricing is that they bet on under-utilization, not that costs are flat.
@@ -1208,16 +1208,16 @@ Setting that aside, even if we accept your argument that gym costs barely scale 
 reply
 
 krisoft
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > The reason gyms can offer flat-rate pricing is that they bet on under-utilization, not that costs are flat.
@@ -1227,21 +1227,21 @@ Yes. In fact i remember hearing about a gym which offered a flat-rate pricing mo
 reply
 
 TeMPOraL
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-> 
+>
 Under-utilizers aren't paying for AI they have a free tier.
 
 Sure they do. Free tiers suck. I may not always need to use AI, but when I need it, I don't want to immediately get hit by stupidly low quotas and rate limits, or get anything but SOTA models.
@@ -1249,18 +1249,18 @@ Sure they do. Free tiers suck. I may not always need to use AI, but when I need 
 reply
 
 fluoridation
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 >You can't use the gym model to defend Anthropic's pricing decisions if the two cost structures are nothing alike.
@@ -1270,18 +1270,18 @@ Am I? I think you read something into my comments that I didn't write.
 reply
 
 TeMPOraL
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 à la carte is honest; overprovisioning just slows progress by preventing demand from creating pressure to innovate proper solutions.
@@ -1289,18 +1289,18 @@ next
 reply
 
 taneq
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The commons? Tragic.
@@ -1308,18 +1308,18 @@ The commons? Tragic.
 reply
 
 lelanthran
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > I feel like Anthropic is going down a bad path here with billing things this way.
@@ -1329,16 +1329,16 @@ What do you expect them to do? You are looking at a business currently running a
 reply
 
 alwillis
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They seem to know what they’re doing. Anthropic entered 2025 with a run rate of $1 billion; the run rate for March 2026 is estimated at $19 billion.
@@ -1348,16 +1348,16 @@ Internal projections show the company reaching cash-flow break-even in 2028, aft
 reply
 
 lelanthran
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Anthropic entered 2025 with a run rate of $1 billion; the run rate for March 2026 is estimated at $19 billion.
@@ -1367,18 +1367,18 @@ I don't know what that means in this context.> Internal projections show the com
 reply
 
 crote
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If you can do less for the same price, that is in effect a price increase.
@@ -1386,18 +1386,18 @@ If you can do less for the same price, that is in effect a price increase.
 reply
 
 username44
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You can use the API with CC, you just need to log out and log in, selecting API usage.
@@ -1405,18 +1405,18 @@ You can use the API with CC, you just need to log out and log in, selecting API 
 reply
 
 boppo1
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 >Especially as local LLM continues to develop so fast.
@@ -1426,16 +1426,16 @@ I'm sorry is there anything even close to sonnet, much less opus, that can be ru
 reply
 
 satvikpendem
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Qwen 3.5, Gemma 4
@@ -1443,18 +1443,18 @@ Qwen 3.5, Gemma 4
 reply
 
 Alexzoofficial
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Use qwen 4.6 plas
@@ -1462,18 +1462,18 @@ Use qwen 4.6 plas
 reply
 
 manmal
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Tell me you are not using Anthropic without telling me. Bursts of unlimited usage was never the case. And I bet their infrastructure doesn’t like bursts as much as more spread out activity.
@@ -1481,18 +1481,18 @@ Tell me you are not using Anthropic without telling me. Bursts of unlimited usag
 reply
 
 j45
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Efficient token use will be the new code/vim golf.
@@ -1502,16 +1502,16 @@ Whether it's human token use, or future OpenClaws
 reply
 
 xtracto
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I've mention before that we should have a look at Telegraph/telegram speak. There was a HUGE industry in word efficiency at that time. There are hundreds of books.
@@ -1521,16 +1521,16 @@ I even think an LLM trained to communicate using telegram style might even be fa
 reply
 
 djfergus
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Reminds me of the terminus agent/harness on the terminal-bench coding benchmark - they just send send keystrokes to a tmux session. They score pretty well.
@@ -1540,18 +1540,18 @@ https://www.tbench.ai/news/terminus
 reply
 
 quietsegfault
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Why use many word when few do trick?
@@ -1559,18 +1559,18 @@ Why use many word when few do trick?
 reply
 
 mannicken
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > I've mention before that we should have a look at Telegraph/telegram speak.
@@ -1580,18 +1580,18 @@ next
 reply
 
 reilly3000
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It’s the new cloud cost vector, where cutting 2K from context on a busy service saves $xxxxx.
@@ -1601,18 +1601,18 @@ Terse.
 reply
 
 KellyCriterion
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Like "Token Usage Consulting" companies popping up now? :-D
@@ -1620,18 +1620,18 @@ Like "Token Usage Consulting" companies popping up now? :-D
 reply
 
 xvector
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 No org doing real work cares about token use costs.
@@ -1641,16 +1641,16 @@ This mainly just affects hobbyists.
 reply
 
 KeplerBoy
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Token use cost can easily get as large as dev salaries. Even real businesses care about that.
@@ -1658,18 +1658,18 @@ Token use cost can easily get as large as dev salaries. Even real businesses car
 reply
 
 jen20
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > You aren't paying to be using that limit all of the time.
@@ -1679,18 +1679,18 @@ The erosion of the norm of things doing what they advertise rather than being we
 reply
 
 mech422
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 you can write automated MCP tools that run within claude code, and could theoretically generate as high a load as any other automated/3rd party agent. You can also do loops that burn tokens incredibly fast. This is allowed with no caveats (I use MCP's basically to test what I'd like to try with the API...) So this explanation just seems a lil hollow.
@@ -1698,16 +1698,16 @@ you can write automated MCP tools that run within claude code, and could theoret
 reply
 
 PlasmaPower
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yes, but very few people are actually doing that compared to OpenClaw. If everyone else was doing that, they'd be cracking down on it too.
@@ -1715,18 +1715,18 @@ Yes, but very few people are actually doing that compared to OpenClaw. If everyo
 reply
 
 alwa
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 When you can’t enforce everything at once, you go where the most acute problems are. I imagine when your MCP avenue of abuse catches on—like this other category of harnesses did—to such a scale as to become a problem impacting us folk trying to go about our business… when that’s where the problems shift, I imagine (and hope) Anthropic will crack down on that vector too. To keep the service usable for us ordinary meatbags.
@@ -1736,16 +1736,16 @@ I’m glad they give us the leeway to experiment, and I’m also glad they weed 
 reply
 
 mech422
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >>when your MCP avenue of abuse catches on
@@ -1755,16 +1755,16 @@ Thats an interesting way of phrasing it - so is there a way to use the quota tha
 reply
 
 Leynos
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It's not difficult at all to burn through your weekly limit just writing code.
@@ -1772,18 +1772,18 @@ It's not difficult at all to burn through your weekly limit just writing code.
 reply
 
 fyrecean
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 While you can write an automated tool to consume all their tokens, I strongly suspect most users, like myself, are not doing that. So even if Anthropic loses money on a power user, they profit overall and keep public sentiment high by not alienating users with restrictions. It's an optimization problem of making a profit off the average used while staying low enough to attract customers, even if that means some users cost more than they pay.
@@ -1793,16 +1793,16 @@ More users spinning up OpenClaw means that balance starts to shift towards more 
 reply
 
 mech422
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >>So even if Anthropic loses money on a power user, they profit overall and keep public sentiment high by not alienating users with restrictions
@@ -1812,18 +1812,18 @@ So they profit overall if I use all my tokens either way? Again, I understand us
 reply
 
 closewith
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My company has several MCPs that our very token intensive, but it seems that with Claude Code, usage is throttled even before hitting limits. I don't have any proof, but often when using intensive MCPs, Claude Code will just stall for 10+ minutes.
@@ -1833,18 +1833,18 @@ I wonder if anyone else has experienced this?
 reply
 
 mvdtnz
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Anthropic is much more concerned about what people are ACTUALLY doing than what they could, in theory, be doing.
@@ -1852,18 +1852,18 @@ Anthropic is much more concerned about what people are ACTUALLY doing than what 
 reply
 
 stavros
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How can an OpenClaw user use 6 times what a human subscriber is using when I'm four hours into the week and 15% of my weekly limit is already used up, just by coding? OpenClaw can't use 600% of my weekly limits.
@@ -1871,16 +1871,16 @@ How can an OpenClaw user use 6 times what a human subscriber is using when I'm f
 reply
 
 Kim_Bruning
- 
+
 16 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Not sure what tier you're on.
@@ -1890,16 +1890,16 @@ Basically; spin up in the morning eats a lot of tokens because the cache is cold
 reply
 
 stavros
- 
+
 10 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'm on the $100 tier, but I don't use OpenClaw. My point is it can't use more than 100% of my limit, so "6-8x more" is only possible if you use 15% of your subscription normally.
@@ -1907,16 +1907,16 @@ I'm on the $100 tier, but I don't use OpenClaw. My point is it can't use more th
 reply
 
 Kim_Bruning
- 
+
 7 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Right. I was editing to add more info. Possibly you already know the usage tricks I list above. The world is still very messy and not much is documented properly.
@@ -1924,32 +1924,32 @@ Right. I was editing to add more info. Possibly you already know the usage trick
 And I'm skeptical of the 6x-8x claim myself. They'd have to explain that in more detail.
 
 stavros
- 
+
 4 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Oh actually the cache trick is neat, I hadn't considered it, thanks!
 coldtea
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 >
@@ -1960,18 +1960,18 @@ Perhaps because your Claude agent usage is not representative of the average use
 reply
 
 mikkupikku
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Man, I run 3-5 sessions an evening for 5-6 hours, and longer on weekends and feel like I'm barely using what I paid for. I've only hit five hour limits a small number of times. Genuinely baffled when I hear people blow through tokens apparently several times faster than me. Are you going out of your way to design complex subagent workflows or something? I just let claude code use subagents when it wants to but don't give it any extra direction to use them.
@@ -1979,18 +1979,18 @@ Man, I run 3-5 sessions an evening for 5-6 hours, and longer on weekends and fee
 reply
 
 echelon
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Without data, this is just a bunk excuse to defend the walled garden practices.
@@ -2000,16 +2000,16 @@ With data, it's an engineering target.They could just 429 badly behaved clients.
 reply
 
 stavros
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They already 429 everyone! That's the crazy thing. They already have strict limits that we all keep hitting regularly.
@@ -2017,18 +2017,18 @@ They already 429 everyone! That's the crazy thing. They already have strict limi
 reply
 
 philistine
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You guys are arguing on the reality of a subscription, but Anthropic still resides in the coocoo make-up world of growth at all costs backed up by unfathomable investments. They're not acting rationally by trying to present a good product with reasonable backend fundamentals. They're just trying to maintain the money loss to what they have set aside for the quarter. OpenClaw was not planned for, and thus must be fought.
@@ -2036,18 +2036,18 @@ You guys are arguing on the reality of a subscription, but Anthropic still resid
 reply
 
 Nevermark
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Everyone on a plan pays for the max set of tokens in that plan.
@@ -2057,16 +2057,16 @@ From Anthropic's perspective, everyone pays to be in bins with a given max.And t
 reply
 
 goosejuice
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yes, mostly what I'm saying, but forgetting the important part:
@@ -2077,16 +2077,16 @@ From the email:
 reply
 
 aenis
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 If this was a gym subscription, it would be an equivalent of some people going to the gym, and some people sending their android to the gym every day, for the whole day, and using as much equipment as the gym policy allows.
@@ -2094,16 +2094,16 @@ If this was a gym subscription, it would be an equivalent of some people going t
 reply
 
 goosejuice
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It would be like some people sending the gym's competitor's android to the gym instead of the android the gym provides. Said gym also doesn't have enough equipment for everyone's gym appointed android despite being more expensive. Said gym doesn't want to admit this, nor does it want to raise prices on an already more expensive subscription. Said gym doesn't want competitor's android to gain marketshare. Said gym blames competitor's android for using up gym equipment despite gym's own android being capable of using as much equipment.
@@ -2111,18 +2111,18 @@ It would be like some people sending the gym's competitor's android to the gym i
 reply
 
 chii
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > using as much equipment as the gym policy allows.
@@ -2132,18 +2132,18 @@ which said customer paid for. And now they want to back out of it because it tur
 reply
 
 chii
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > there is a wide distribution of actual use
@@ -2153,16 +2153,16 @@ except when people start using openclaw, and the distribution narrows (to that o
 reply
 
 Nevermark
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > I hate companies that try to oversell capacity but hides it in the expected usage distribution.
@@ -2172,18 +2172,18 @@ Except they charge you less because of the distribution. Competition for custome
 reply
 
 hombre_fatal
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The trade-off is that if you set your usage limits so that you can handle the case where everyone is saturating their limit at all times, then (1) the usage limits would be too small and (2) you're optimizing for a usage pattern that doesn't exist and (3) you're severely underprovisioning, which is worse for everyone.
@@ -2193,16 +2193,16 @@ Instead, you can prioritize people "earnestly" bursting to the usage limits, lik
 reply
 
 goosejuice
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Well earnest here just means using Claude code directly or the Claude app. Both that just happen to support using tokens while you sleep!
@@ -2210,16 +2210,16 @@ Well earnest here just means using Claude code directly or the Claude app. Both 
 reply
 
 hombre_fatal
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Defining earnest (placeholder word btw) is the hard part of the trade-off, though.
@@ -2229,16 +2229,16 @@ When your least automated, most interactive users are competing for capacity wit
 reply
 
 goosejuice
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Claude code has /loop. Claude app has scheduled tasks. The leaked source has a proactive mode.
@@ -2248,16 +2248,16 @@ I'm sorry but this framing just doesnt make sense.
 reply
 
 gbear605
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Even with those tools, the usage of Claude Code with all of them turned on is going to trend much lower than OpenClaw usage. Everyone that I've seen with OpenClaw will intentionally waste tokens just to make sure they hit the cap, even if they're doing useless stuff with it. And it can be going 24/7, every minute constantly, while the intended purpose with scheduled tasks is to use them at a set rate but not nearly constantly.
@@ -2265,16 +2265,16 @@ Even with those tools, the usage of Claude Code with all of them turned on is go
 reply
 
 goosejuice
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Definitely. They will see less usage. That's good for them because they have infra scaling issues that they don't care to admit explicitly. Their competitor will also get less telemetry (if they enable it). It's a win win.
@@ -2282,18 +2282,18 @@ Definitely. They will see less usage. That's good for them because they have inf
 reply
 
 mech422
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is what I've been wondering about for a while now. I have the 20x plan as well, which I thought would allow me to try some API coding - but you get zero API usage.
@@ -2303,16 +2303,16 @@ As you said, I would imagine where the token usage comes from is irrelevant - yo
 reply
 
 goosejuice
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Claude code is still getting used by these agents. They banned the mimicry awhile ago and said claude -p was fine.
@@ -2322,18 +2322,18 @@ OpenClaw just happens to also get telemetry, of probably higher value, out of th
 reply
 
 CubsFan1060
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I don’t really follow what you’re saying. You mention the 5 hour limit. Is your expectation that they have enough capacity so that everyone can hit their 5 hour limit all the time? Or you are proposing that’s how they limit capacity for a subscription?
@@ -2343,18 +2343,18 @@ Do you have an example of how this is how they have advertised or sold the plan?
 reply
 
 dgellow
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You’re missing something. I’m pretty sure it’s not only about the cost. Anthropic literally doesn’t have enough compute. They have to balance the load between enterprise customers and end users with subscription. If you consider they don’t have infinite compute (ie at their scale there is a limit to how much is available in a given region) and something is causing subscription users to increase usage significantly they do have to find a way to balance.
@@ -2364,18 +2364,18 @@ At least that’s my read. I don’t believe it is nefarious
 reply
 
 priyanshujain
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Exactly your point. Anthropic is subsidizing their own tools to keep people on their platform. What's wrong with that?
@@ -2385,16 +2385,16 @@ Tokens and these agents(Claude Code/cowork/claude.ai) are separate from model to
 reply
 
 goosejuice
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > What's wrong with that?
@@ -2404,18 +2404,18 @@ Nothing beyond fumbling the PR around it.
 reply
 
 risyachka
- 
+
 12 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 yes and then still subsidise subscriptions by an order of magnitude
@@ -2425,18 +2425,18 @@ its obvious they will tighten everything and raise prices for years to come
 reply
 
 felipeerias
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If they bundled together these two radically different usage patterns, either the service would become more expensive or the limits would become a lot tighter, in both cases making Claude Code far less attractive to professional users.
@@ -2444,18 +2444,18 @@ If they bundled together these two radically different usage patterns, either th
 reply
 
 Farmalono
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 OpenClaw is a mass project and doing something in the background 24/7.
@@ -2465,18 +2465,18 @@ I haven't even heard of claude -p before your comment.OpenClaw is for sure not j
 reply
 
 RIMR
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You are still misunderstanding.
@@ -2486,18 +2486,18 @@ If you max out your token limits, you are costing Anthropic more than you are pa
 reply
 
 brookst
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > The agent consuming those tokens is irrelevant.
@@ -2507,16 +2507,16 @@ This is so wrong.The subscription is to Claude (the app, Claude code, etc) not t
 reply
 
 goosejuice
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Anthropic subsidizes Claude code because they collect a ton of super useful telemetry and logs so they can improve… Claude code.
@@ -2526,18 +2526,18 @@ You just paraphrased my argument
 reply
 
 guelo
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How many tokens does the $20/month buy me? I want to know what those hard token limits are but they refuse to tell me. I'm pretty sure they've reduced those limits the last week but they won't admit it. It feels like a scammy pricing model.
@@ -2545,16 +2545,16 @@ How many tokens does the $20/month buy me? I want to know what those hard token 
 reply
 
 goosejuice
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I agree, I think consumers appreciate transparency.
@@ -2562,16 +2562,16 @@ I agree, I think consumers appreciate transparency.
 reply
 
 fabbbbb
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 To some degree sure, is it about the number tokens you can max out?
@@ -2581,16 +2581,16 @@ I’m pretty happy knowing that it supports my development workflow for a week. 
 reply
 
 goosejuice
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > I’m pretty happy knowing that it supports my development workflow for a week
@@ -2600,16 +2600,16 @@ For many it doesn't. It's opaque, it changes, and they bury the news in fucking 
 reply
 
 PunchyHamster
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Oh no, man fell in love with corporation
@@ -2617,18 +2617,18 @@ Oh no, man fell in love with corporation
 reply
 
 paulddraper
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Exactly.
@@ -2638,36 +2638,36 @@ Subscriptions are crazy subsidized.So you can’t use OpenClaw, OpenCode, etc. b
 reply
 
 muyuu
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's one thing to pay $5 or $20 per month, which although it's a substantial difference, people pay that much for the convenience of having stuff ready and available - and it's a completely different thing to pay $200 per month. People don't pay that much for occasional usage and many/most people will organise themselves to use all or most of their weekly allowance when the expense is in that ballpark.
 
-If Anthropic miscalculated the amount of tokens, or simply pushed too hard to capture market share, that is a costly mistake because people in this market are very sensitive to price hikes.They have to be honest about what they can offer for $200. Sure, people don't max their subscriptions but when they're large they make the best of it, or they will likely cancel it. 
+If Anthropic miscalculated the amount of tokens, or simply pushed too hard to capture market share, that is a costly mistake because people in this market are very sensitive to price hikes.They have to be honest about what they can offer for $200. Sure, people don't max their subscriptions but when they're large they make the best of it, or they will likely cancel it.
 The typical subscription works well below capacity because it's cheap enough that the optionality may be worth it. $200 is not the typical subscription.
 
 reply
 
 rovr138
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >They have to be honest about what they can offer for $200
@@ -2677,16 +2677,16 @@ Their expectation must have been a human using the service at a human capacity.T
 reply
 
 muyuu
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You are correct, but you don't need openclaw to batch your work. People will figure out ways to use their tokens at that fixed price.
@@ -2696,18 +2696,18 @@ Sure there is a difference. It's like when most mobile companies wouldn't allow 
 reply
 
 dimmke
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If people are finding new ways to use AI, they should change how they bill. Banning third party harnesses is bad for a lot of reasons - it looks like they're trying to force people to use their software. Strategically it might make sense - gives them a tiny moat if their models ever slip - but it discourages the breakneck pace of innovation and the long term effect is that their customers (largely highly skilled with computers and building software) will look to decouple themselves. Claude is good but it's not so far better than anything else that they can pull shit like this and people will just deal with it.
@@ -2717,16 +2717,16 @@ They already have the regular subscription plans (Pro, Max) and a separate billi
 reply
 
 systoll
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They have subscription plans for their software, and a seperate billing process for the API. There's nothing to change. 'Accepting that it's a dumb pipe' would just mean removing the Pro & Max plans as options.
@@ -2736,18 +2736,18 @@ Clawdbot was clearly against the Consumer Terms of Use the whole time, they’ve
 reply
 
 gbear605
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They already have the way that you're supposed to bill for usages like this, the API usage. The purpose of the subscription plan is strictly for the cases where you are using few enough tokens on average that it's not a money pit for them.
@@ -2755,18 +2755,18 @@ They already have the way that you're supposed to bill for usages like this, the
 reply
 
 what
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They don’t need to change how they bill. Your subscription is for Claude app/code. Otherwise you pay per token. It’s always been this way.
@@ -2774,16 +2774,16 @@ They don’t need to change how they bill. Your subscription is for Claude app/c
 reply
 
 dimmke
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Claude Code is a subscription tier explicitly designed for agentic, automated, heavy usage. So the 'subscriptions are for human use, API is for automation' line is already blurry by their own offerings.
@@ -2793,16 +2793,16 @@ If the actual concern is use pattern, enforce that directly. What we have instea
 reply
 
 tomnipotent
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Claude Code is a subscription tier explicitly designed for agentic, automated, heavy usage
@@ -2812,18 +2812,18 @@ Except it's not. It's a desktop, web, mobile, and CLI subscription product built
 reply
 
 bitwize
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Start paying by the token if you want to use these tools. Simple as.
@@ -2831,37 +2831,37 @@ Start paying by the token if you want to use these tools. Simple as.
 reply
 
 toraway
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-Even better: switch to Codex 
+Even better: switch to Codex
 plus
  get better rate limits. I’m not a captive audience as much Anthropic would like to believe otherwise.
 
 reply
 
 lifeformed
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The whole industry is about robots telling robots what to do, why wouldn't they have expected automation?
@@ -2869,18 +2869,18 @@ The whole industry is about robots telling robots what to do, why wouldn't they 
 reply
 
 jen729w
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > They have to be honest about what they can offer for $200.
@@ -2890,16 +2890,16 @@ Isn't that exactly what they just did?
 reply
 
 muyuu
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 not really, no
@@ -2909,16 +2909,16 @@ being honest would be to just adjust the limits rather than adding piecewise lim
 reply
 
 KingMob
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 But the limits apply to all users. I doubt non-OpenClaw users want to pay $XX more to subsidize OpenClaw users.
@@ -2926,16 +2926,16 @@ But the limits apply to all users. I doubt non-OpenClaw users want to pay $XX mo
 reply
 
 muyuu
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 it amounts to service limit obfuscation, and their market are very clued about that
@@ -2945,18 +2945,18 @@ nobody wants them to add fineprint every time users find effective ways to actua
 reply
 
 bottlepalm
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Anthropic didn't miscalculate anything. They calculated what they could charge/subsidize for humans, not automatons. Banning OpenClaw brings usage levels under control.
@@ -2966,16 +2966,16 @@ If you had to pay for APIs yourself foranyprovider then you'd know that SOTA tok
 reply
 
 kamma4434
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My impression is that at the moment the value you get out of Claude is simply incredible.
@@ -2985,16 +2985,16 @@ As a senior engineer, you get an assistant that never gets tired and can do quit
 reply
 
 lukewarm707
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 value is high but what about the competitors?
@@ -3004,16 +3004,16 @@ is claude that good? the last time i tried claude it was sonnet 4.5. it was ok, 
 reply
 
 port11
- 
+
 41 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 If you look at SWE, Claude models aren’t that special. Other benchmarks come up with different results.
@@ -3023,16 +3023,16 @@ But… anecdotally, Claude is justthatgood. Gemini needs a lot of hand-holding, 
 reply
 
 PostOnce
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The entire point of AI is for it to do shit autonomously?
@@ -3042,16 +3042,16 @@ The whole point is that the users can have it doing shit for them instead of the
 reply
 
 ozim
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I would argue that „doing shit” should be done by dummy automations. AI should be used to help build that automations or step in when dummy automation breaks.
@@ -3061,18 +3061,18 @@ For now too many people will use AI for stuff that deterministic stupid code wou
 reply
 
 nemomarx
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They could probably offer enough tokens for that but it would be at a higher price than the sub, I think. You could still pay fewer salaries at 3k a year or per token enterprise prices or whatever.
@@ -3080,18 +3080,18 @@ They could probably offer enough tokens for that but it would be at a higher pri
 reply
 
 manmal
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They want you to do your shit through their own desktop apps.
@@ -3099,18 +3099,18 @@ They want you to do your shit through their own desktop apps.
 reply
 
 Alexzoofficial
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yes
@@ -3118,16 +3118,16 @@ Yes
 reply
 
 JasonHEIN
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Err, yeah, you should neither do any web scraping without respecting robots.txt, nor use ad blockers when using Google. When working with a business, never use Google Docs without paying them. Nah, that's not how the world works and at least not in the software industry.
@@ -3135,16 +3135,16 @@ Err, yeah, you should neither do any web scraping without respecting robots.txt,
 reply
 
 cowlby
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I just discovered Pi Coding Agent and found that it's lean System Prompt + a tuned CLAUDE.md brought back a lot of the intelligence that Opus seemed to lose over the last month.
@@ -3154,16 +3154,16 @@ Sucks to be pushed back to Claude Code with opaque system behavior and inconsist
 reply
 
 chatmasta
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 We use Pi at work (where we pay per token) and I’d love to use it personally too. From what I’ve read, nobody has been banned for using Pi yet… I wonder if Anthropic minds this much as long as it’s still human usage, or if they’re mostly focused on stamping out the autonomous harnesses. Unfortunately Pi is also what OpenClaw uses so it could easily get swept up in the enforcement attention.
@@ -3173,16 +3173,16 @@ Or maybe I’ll just get a Codex subscription instead. OpenAI has semi-officiall
 reply
 
 nerdix
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It appears that OpenAI has blessed third party harnesses. I know they officially support OpenCode and they have this on their developer portal:
@@ -3192,18 +3192,18 @@ It appears that OpenAI has blessed third party harnesses. I know they officially
 reply
 
 mirashii
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They have, but they also just announced this week that for business and enterprise plans, they’re switching from quotas for codex to token use based pricing, and I would expect that to eventually propagate to all their plans for all the same reasons.
@@ -3211,16 +3211,16 @@ They have, but they also just announced this week that for business and enterpri
 reply
 
 chatmasta
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I’d be surprised if that propagated to personal subscription plans, simply because it would put them at a huge competitive disadvantage against Anthropic, which they’ve already signaled they care about by saying they allow third-party harnesses. But I wouldn’t be surprised if they required third-party harnesses to use per-token billing, since that’d put them on par with Anthropic.
@@ -3228,18 +3228,18 @@ I’d be surprised if that propagated to personal subscription plans, simply bec
 reply
 
 jen20
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You can still use it with an OpenAI subscription (for now at least), and the models aren't substantially worse.
@@ -3247,18 +3247,18 @@ You can still use it with an OpenAI subscription (for now at least), and the mod
 reply
 
 j45
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I wonder if there's a way to bring some of what Pi Coding Agent has to claude code itself.
@@ -3268,16 +3268,16 @@ It seems that installing claude code directly from npm shields from some of the 
 reply
 
 blueblisters
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Every single one of them oversells their capacity
@@ -3287,16 +3287,16 @@ Indeed. And this model breaks in several cases that overlaps with the current AI
 reply
 
 PunchyHamster
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 No, people want transparency. If it was "x tokens per time interval, then you pay extra", the problem wouldn't exist.
@@ -3304,16 +3304,16 @@ No, people want transparency. If it was "x tokens per time interval, then you pa
 reply
 
 peterkelly
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Every single one of them oversells their capacity
@@ -3323,16 +3323,16 @@ That sounds like their problem, not ours
 reply
 
 Tzk
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 In theory yes, but the overselling does also keep the price low (at least a bit), but also boosts revenue. So when power users use the service too much, the seller will either raise prices, cut features or ban some usage patterns.
@@ -3342,18 +3342,18 @@ You can vote with your wallet though. So don’t throw money at them or just dea
 reply
 
 raincole
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's not your problem anymore once you switch from Claude :)
@@ -3361,18 +3361,18 @@ It's not your problem anymore once you switch from Claude :)
 reply
 
 HotHotLava
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Well, yes, it is. That's why you're seeing them take proactive steps to address the problem, like this new policy.
@@ -3380,18 +3380,18 @@ Well, yes, it is. That's why you're seeing them take proactive steps to address 
 reply
 
 seqizz
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Doesn't look like it
@@ -3399,16 +3399,16 @@ Doesn't look like it
 reply
 
 chunpaiyang
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Good point. I agree with that.
@@ -3420,16 +3420,16 @@ So the only move left is to prevent the whole distribution from drifting toward 
 reply
 
 bombcar
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Every single one of them oversells their capacity
@@ -3439,16 +3439,16 @@ This is (almost) universally true offlat ratesubscriptions; but there are usage-
 reply
 
 mh-
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's a good analogy. Maybe soon we'll see Claude Code CDs with 700 free hours.
@@ -3456,16 +3456,16 @@ That's a good analogy. Maybe soon we'll see Claude Code CDs with 700 free hours.
 reply
 
 wouldbecouldbe
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 well that largely depends, lots of saas are running 90% operating profit margins
@@ -3473,16 +3473,16 @@ well that largely depends, lots of saas are running 90% operating profit margins
 reply
 
 subarctic
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm pretty sure in this case it's anthropic doing the subsidizing because the api and extra usage rates are extremely expensive compared to the usage you get for the lowest subscription level. I pay $28 CAD per month and I'm pretty sure I'd burn through that in a day or two, and I'm not really a power user, I'm just using it to write code like it says on the tin. I seriously doubt there's a large portion of subscribers with low enough monthly usage that they'd save money by switching to the API.
@@ -3490,16 +3490,16 @@ I'm pretty sure in this case it's anthropic doing the subsidizing because the ap
 reply
 
 scotty79
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So basically their move is an admission that they can't scale up their capacity accordingly to shifting demand while keeping the current pricing.
@@ -3509,16 +3509,16 @@ Customers have their own value calculations. If they can't use Claude for autono
 reply
 
 Gregaros
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Still very interesting timing to ban third party harnesses, given the proximity to the Claude Code leak …
@@ -3526,16 +3526,16 @@ Still very interesting timing to ban third party harnesses, given the proximity 
 reply
 
 manmal
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Come on, someone on a Max account has a reason why they are paying $200. I bet many are at least often near the weekly limit, or they‘ll downgrade. If anything, OpenClaw usage is more spread out instead of ingesting whole codebases during office hours.
@@ -3545,16 +3545,16 @@ The Anthropic subs are likely priced at marginal cost (Amp‘s CEO recently said
 reply
 
 ph4rsikal
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So it's like Sliceline from Silicon Valley (the show)
@@ -3562,16 +3562,16 @@ So it's like Sliceline from Silicon Valley (the show)
 reply
 
 nightski
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's fine, their moat is thin. Frontier models as a service isn't really in the best interest of anyone anyways. Only a matter of time.
@@ -3579,16 +3579,16 @@ It's fine, their moat is thin. Frontier models as a service isn't really in the 
 reply
 
 asgraham
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Are you arguing that eventually a competitor will emerge that does support OpenClaw with a subscription model? Wouldn’t that just be more expensive for the exact same reason Anthropic is banning it?
@@ -3596,16 +3596,16 @@ Are you arguing that eventually a competitor will emerge that does support OpenC
 reply
 
 tekacs
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 OpenAI have literally gone out of their way to explicitly support this sort of thing. As they did with OpenCode.
@@ -3615,16 +3615,16 @@ Honestly, this just looks like what Dylan of SemiAnalysis suggested on Dwarkesh 
 reply
 
 verdverm
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 OpenAi is burning cash to stay relevant aiui, i.e. they will keep subsidizing
@@ -3634,18 +3634,18 @@ You can use these tools with most providers today, just no subscription plan. If
 reply
 
 gjsman-1000
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > we are self-preferencing, and the FTC should really take a look at us, even if we're technically not a monopoly right now
@@ -3655,16 +3655,16 @@ Tell me you have zero clue what a monopoly is or what the law is, without tellin
 reply
 
 code_duck
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Somehow this was coming up a few years ago where people kept saying that Apple could face antitrust because they were the only company who made iOS and controlled the App Store. Given that android exists, and has roughly equal market share, that didn’t make much sense to me, but I kept seeing it being discussed.
@@ -3672,16 +3672,16 @@ Somehow this was coming up a few years ago where people kept saying that Apple c
 reply
 
 satvikpendem
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 And Apple did lose that case now so they were correct; sometimes, one can be a monopolist in the market they created.
@@ -3689,18 +3689,18 @@ And Apple did lose that case now so they were correct; sometimes, one can be a m
 reply
 
 satvikpendem
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Well, Apple did recently lose as they're the monopolist in their walled garden for app distribution.
@@ -3708,18 +3708,18 @@ Well, Apple did recently lose as they're the monopolist in their walled garden f
 reply
 
 bsder
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Tell me you have zero clue what a monopoly is or what the law is, without telling me.
@@ -3729,18 +3729,18 @@ Monopoly law is subject to reinterpretation over time and anybody who has studie
 reply
 
 tekacs
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Oh, give me a break. I know the law around this incredibly well. Reasonable people can disagree about whether the law is appropriate. The whole point of laws is that they should match intent – and as for '20%': "tell me you don't understand how a small quantitative gap can result in a step change in capability."
@@ -3748,16 +3748,16 @@ Oh, give me a break. I know the law around this incredibly well. Reasonable peop
 reply
 
 gjsman-1000
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Oh, give me a break. I know the law around this incredibly well.
@@ -3767,16 +3767,16 @@ Then don’t make BS up like implying Anthropic is a monopolist for the crime of
 reply
 
 tekacs
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You do realize that I called out in my post they are absolutely not a monopoly by the law, right? I know all-too-well what the definition is.
@@ -3786,37 +3786,37 @@ We have a similar situation in mobile where Apple may not be considered a monopo
 reply
 
 nandomrumber
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-You’re welcome to start 
+You’re welcome to start
 OpenSpigot
  yourself, and see how investors feel about you giving away your technical / IP / market advantage on launch day.
 
 reply
 
 gjsman-1000
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > “we are self-preferencing, and the FTC should really take a look at us, even if we're technically not a monopoly right now”
@@ -3826,16 +3826,16 @@ That is not calling out that they are “absolutely not a monopoly by the law”
 reply
 
 tekacs
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Let me back up what you're saying. They absolutely are not a monopoly today by any definition, by any stretch, in any conceivable way.
@@ -3845,21 +3845,21 @@ I'm looking forward. Things are moving very quickly. As I said above, I'm afraid
 reply
 
 jfim
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Some of the Chinese labs with cheaper per token costs do support it, like say minimax: 
+Some of the Chinese labs with cheaper per token costs do support it, like say minimax:
 https://agent.minimax.io/max-claw
 
 I haven't tried it to see if it's any good but it's $20/mo.
@@ -3867,18 +3867,18 @@ I haven't tried it to see if it's any good but it's $20/mo.
 reply
 
 msh
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Kimi seems to support this with their 39 usd a month plan.
@@ -3886,18 +3886,18 @@ Kimi seems to support this with their 39 usd a month plan.
 reply
 
 techgnosis
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Doesn't OpenAI allow this today?
@@ -3905,16 +3905,16 @@ Doesn't OpenAI allow this today?
 reply
 
 mil22
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It's a good way to win market share and build goodwill, but one has to wonder whether this class of usage is marginally profitable for them (or anyone) and how sustainable their lenient policies will be for them long term.
@@ -3922,58 +3922,58 @@ It's a good way to win market share and build goodwill, but one has to wonder wh
 reply
 
 raincole
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-You mean whether 
+You mean whether
 another
  competitor will emerge? Right now we have OpenAI.
 
 reply
 
 rvz
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-The real threat that Anthropic sees as 
+The real threat that Anthropic sees as
 real
  competitors in the long term, are the AI labs building open weight models, especially the AI labs in China.
 
 reply
 
 verdverm
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I agree, eventually the open models will be good enough and we can pay for our own infra and cut out the middle man. Also, the smaller frontier are nearly as good today and I expect the mega models will be used primarily for distillation
@@ -3981,14 +3981,14 @@ I agree, eventually the open models will be good enough and we can pay for our o
 reply
 
 nl
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I suspect people are misdiagnosing the root cause of why Anthropic is doing this a bit.
@@ -3998,32 +3998,32 @@ I don't think this is particularly about the financial impact of people using Op
 reply
 
 wigglewoggle
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-I'm at large company and pretty much everyone has settled on opus or sonnet 4.6. We would absolutely not allow something like OpenClaw on our network so your point kinda fits here where, if capacity is constrained, then by setting focus away from OpenClaw you're essentially prioritising the enterprise clients. 
+I'm at large company and pretty much everyone has settled on opus or sonnet 4.6. We would absolutely not allow something like OpenClaw on our network so your point kinda fits here where, if capacity is constrained, then by setting focus away from OpenClaw you're essentially prioritising the enterprise clients.
 Just spitballing of course
 
 reply
 
 nl
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yes exactly.
@@ -4033,18 +4033,18 @@ I doubt they actuallywantto do this.They clearly see having a wide set of paying
 reply
 
 manmal
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > not allow something like OpenClaw on our network
@@ -4054,16 +4054,16 @@ And where’s the difference between the Claude Desktop app and OpenClaw at this
 reply
 
 stingraycharles
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Claude Desktop is an Anthropic product, Openclaw is not (their founder works for OpenAI even).
@@ -4073,16 +4073,16 @@ Anthropic wants you to use their subscription only for Anthropic products.I don�
 reply
 
 manmal
- 
+
 24 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Both teams ship at breakneck speed and both randomly regress. I don't see such a big difference. Claude now uses Claude by default to judge whether a tool call is sane or not. At least OC is transparent about the insanity of running bash commands unchecked.
@@ -4090,18 +4090,18 @@ Both teams ship at breakneck speed and both randomly regress. I don't see such a
 reply
 
 croes
- 
+
 24 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I guess parents point how dangerous OpenClaw is and that Claude Code is now similarly dangerous
@@ -4109,18 +4109,18 @@ I guess parents point how dangerous OpenClaw is and that Claude Code is now simi
 reply
 
 theshrike79
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 We have a legal contract with Anthropic
@@ -4130,16 +4130,16 @@ OpenClaw and OpenCode are open source projects with zero warranty and nobody to 
 reply
 
 lelanthran
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > OpenClaw and OpenCode are open source projects with zero warranty and nobody to sue if they have a npm Trojan in them
@@ -4149,18 +4149,18 @@ When has any technology company been sued for pushing accidental malware in thei
 reply
 
 ahtihn
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So you don’t use any other open source software at all then?
@@ -4170,16 +4170,16 @@ The risk with OpenClaw et al isn't that the software itself is compromised. The 
 reply
 
 stingraycharles
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That’s not the issue, the issue is that people are using their subscriptions (intended only for use with Anthropic products) with non-Anthropic products and this is simply Anthropic enforcing their ToS.
@@ -4187,14 +4187,14 @@ That’s not the issue, the issue is that people are using their subscriptions (
 reply
 
 Alifatisk
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Skimming through the comments, it feels like I am reading the same message over and over. I agree with some comments that are pointing out the issue with Anthropics capacity constraints and when Subscription vs Api is appropriate.
@@ -4204,14 +4204,14 @@ I would like to point out something else. I have Z.ai subscription and they have
 reply
 
 g-mork
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My answer to this is simply rolling back to the pro plan for interactive usage in the coming month, and forcefully cutting myself over to one of the alternative Chinese models to just get over the hump and normalise API pricing at a sensible rate with sensible semantics.
@@ -4221,14 +4221,14 @@ Dealing with Claude going into stupid mode 15 times a day, constant HTTP errors,
 reply
 
 Syntaf
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I put in probably thousands of Claude session hours a month, aggregated across work + personal.
@@ -4238,16 +4238,16 @@ I must be missing something or supremely lucky because I feel like I’ve never 
 reply
 
 g-mork
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It's possible that it's simply paranoia, but moments where Opus starts acting like Haiku seem to correlate with periods of higher latency and HTTP errors. Don't like reporting this because it's so hand-wavy and conspiratorial, but it's difficult not to think they're internally using extraordinary measures of some sort to manage capacity.
@@ -4257,18 +4257,18 @@ But even when Opus is running healthy, it still doesn't address the underlying i
 reply
 
 hakanderyal
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Similar usage here. But I encountered this moments, and I chalk it up to the random nature of LLMs. Back in Sonnet 3.5 days, it would happen every other day. I even build an 'you are absolutely right' tracker back then to measure it. Opus 4.6, maybe once or twice a month.
@@ -4276,16 +4276,16 @@ Similar usage here. But I encountered this moments, and I chalk it up to the ran
 reply
 
 SkyPuncher
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I literally hit my 5 hour window limit in 1.5 hours every single day now.
@@ -4295,16 +4295,16 @@ I literally hit my 5 hour window limit in 1.5 hours every single day now.
 reply
 
 perfmode
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Are you monitoring the size of your context windows? As they grow, so does the cost of every operation performed in that state.
@@ -4312,18 +4312,18 @@ Are you monitoring the size of your context windows? As they grow, so does the c
 reply
 
 Aurornis
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Anthropic had a special extra usage promotion going on during non-peak hours that ended recently.
@@ -4333,16 +4333,16 @@ They didn’t do a great job of explaining it. I wonder how many people got used
 reply
 
 stavros
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They also reduced the peak time limits, so it's not just the promotion.
@@ -4350,18 +4350,18 @@ They also reduced the peak time limits, so it's not just the promotion.
 reply
 
 SkyPuncher
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Naw, it's not that. This is business-day usage for all of it.
@@ -4369,18 +4369,18 @@ Naw, it's not that. This is business-day usage for all of it.
 reply
 
 greenavocado
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Irrelevant. I had at least ten times more usage then at any time
@@ -4388,18 +4388,18 @@ Irrelevant. I had at least ten times more usage then at any time
 reply
 
 paulddraper
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Could it also have anything to do with Anthropic being deliberately opaque about usage in general?
@@ -4407,18 +4407,18 @@ Could it also have anything to do with Anthropic being deliberately opaque about
 reply
 
 estimator7292
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They've been running a "double credits" promo for several weeks, which expired on the first of this month.
@@ -4426,18 +4426,18 @@ They've been running a "double credits" promo for several weeks, which expired o
 reply
 
 Razengan
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've been using Codex extensively, 5.4 at "Extra High" and yet to hit a limit. The $20 plan
@@ -4445,16 +4445,16 @@ I've been using Codex extensively, 5.4 at "Extra High" and yet to hit a limit. T
 reply
 
 scotty79
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It very much depends on the workloads. If you inspect existing code (that somebody else wrote over the years) usage runs out quickly. If you are building your own greenfield stuff the sky is the limit.
@@ -4462,16 +4462,16 @@ It very much depends on the workloads. If you inspect existing code (that somebo
 reply
 
 bethekind
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I think my next steps are:
@@ -4481,16 +4481,16 @@ I think my next steps are:
 reply
 
 Flere-Imsaho
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'm taking a bet on local models to do the non genius work. Gemma 4 (released yesterday) has been designed to run on laptops / edge devices....and so far is running pretty well for me.
@@ -4498,16 +4498,16 @@ I'm taking a bet on local models to do the non genius work. Gemma 4 (released ye
 reply
 
 neal_jones
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 How’s Gemma 4 been?
@@ -4515,16 +4515,16 @@ How’s Gemma 4 been?
 reply
 
 renewiltord
- 
+
 56 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Edge models are good for their purpose but putting them in agentic flow with current ollama quants on a Mac Mini I see high tool use error rate and output hallucination.
@@ -4534,18 +4534,18 @@ For JSON to text formatting it works well on a one-round basis. So I think you s
 reply
 
 beering
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Word on the street is that Opus is much much larger of a model than GPT-5.4 and that’s why the rate limits on Codex are so much more generous. But I guess you could also just switch to Sonnet or Haiku in Claude Code?
@@ -4553,18 +4553,18 @@ Word on the street is that Opus is much much larger of a model than GPT-5.4 and 
 reply
 
 merlindru
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 i tried out gpt 5.4 xhigh and it did meaningfully worse with the same prompt as opus 4.6. like, obvious mistakes
@@ -4572,18 +4572,18 @@ i tried out gpt 5.4 xhigh and it did meaningfully worse with the same prompt as 
 reply
 
 admiralrohan
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Openrouter free models have 50 requests per day limit + data collection. As per their doc.
@@ -4591,16 +4591,16 @@ Openrouter free models have 50 requests per day limit + data collection. As per 
 reply
 
 nodja
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You can charge $10 on the account and get unlimited requests. I abused this last week with the nemotron super to test out some stuff and made probably over 10000 requests over a couple of days and didn't get blocked or anything, expect 5xx errors and slowdowns tho.
@@ -4608,16 +4608,16 @@ You can charge $10 on the account and get unlimited requests. I abused this last
 reply
 
 danpalmer
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Please don't use grossly offensive terms in this forum. That sort of language is not welcome here.
@@ -4625,16 +4625,16 @@ Please don't use grossly offensive terms in this forum. That sort of language is
 reply
 
 g-mork
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Oops, fixed
@@ -4642,18 +4642,18 @@ Oops, fixed
 reply
 
 klohto
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Since when are you a moderator?
@@ -4661,16 +4661,16 @@ Since when are you a moderator?
 reply
 
 imp0cat
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Since when are you a meta-moderator? ;)
@@ -4678,16 +4678,16 @@ Since when are you a meta-moderator? ;)
 reply
 
 zdragnar
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > I think we all jumped on the AI mothership with our eyes closed
@@ -4697,16 +4697,16 @@ Oh no, there's plenty of us willing to say we told you so.What's more interestin
 reply
 
 colechristensen
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Every service is being sold at a deep discount chasing market share, but it's not lasting forever.
@@ -4714,16 +4714,16 @@ Every service is being sold at a deep discount chasing market share, but it's no
 reply
 
 g-mork
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Speaking only personally of course, I'm completely over the chat idiom in almost every way. Where is all this future demand coming from? By the time Android lands a God mode ultimate voice assistant it's pretty much guaranteed I will be well beyond the point where I'd want to use it. The whole thing is starting to remind me of 3G video calling where the networks thought it'd change everything, and by the end of it with all the infrastructure in place, the average user has made something like 0.001 3G-native video calls over the lifetime of their usage.
@@ -4733,16 +4733,16 @@ Would really love some path forward where the AI parts only poke out as single f
 reply
 
 colechristensen
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I don't understand this perspective. I can't imaging a point where I won't want to ask "what's the weather like?" "please turn off the lights" "what is the airspeed of an unladen swallow?" likewise chatting through directing it to build something or solve a problem, voice or typing will each have their place.
@@ -4752,16 +4752,16 @@ And video calling did take off, plenty of people use facetime and almost everybo
 reply
 
 neonstatic
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > I can't imaging a point where I won't want to ask "what's the weather like?" "please turn off the lights"
@@ -4771,16 +4771,16 @@ To help with understanding that perspective, I cannot imagine a scenario where I
 reply
 
 Barbing
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The switch is a necessity.
@@ -4790,18 +4790,18 @@ Ever end up cooking or something when the phone/doorbell rings and you want to p
 reply
 
 wat10000
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You don't watch Iron Man and want a JARVIS? Current systems are pretty far away from that, but that's the overall draw.
@@ -4809,16 +4809,16 @@ You don't watch Iron Man and want a JARVIS? Current systems are pretty far away 
 reply
 
 neonstatic
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I don't watch superhero stuff. But even with a more classical example of Space Odyssey 2001 - a talking computer has never been something I found even remotely interesting. It took me months to give LLMs a serious try due to this.
@@ -4826,16 +4826,16 @@ I don't watch superhero stuff. But even with a more classical example of Space O
 reply
 
 codybontecou
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Are you using the Chinese models through their individual services or via an intermediary layer?
@@ -4843,16 +4843,16 @@ Are you using the Chinese models through their individual services or via an int
 reply
 
 rhodysurf
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is what I did, downgraded to pro and pay for opencode zen for the open models. I like the combo of the two
@@ -4860,16 +4860,16 @@ This is what I did, downgraded to pro and pay for opencode zen for the open mode
 reply
 
 Aurornis
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > I think we all jumped on the AI mothership with our eyes closed and it's time to dial some nuance back into things.
@@ -4879,16 +4879,16 @@ I’m kind of confused by these takes from HN readers. I could see LinkedIn bros
 reply
 
 krupan
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It has indeed been baffling. Ad I dig deeper into what developers are doing with AI, it's basically like what I did customizing and tweaking emacs when I was younger (and fine, I'll admit I still do it sometimes). They are having so much fun playing with these new tools that they aren't really noticing how little the new tools are actually helping them
@@ -4896,18 +4896,18 @@ It has indeed been baffling. Ad I dig deeper into what developers are doing with
 reply
 
 Flere-Imsaho
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > immediately realize the limitations of the output.
@@ -4917,14 +4917,14 @@ I'm "all-in" on AI code generation. I very much realise their limitations, it's 
 reply
 
 firloop
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is slightly different from what OpenCode was banned from doing; they were a separate harness grabbing a user’s Claude Code session and pretending to be Claude Code.
@@ -4934,14 +4934,14 @@ OpenClaw was still using Claude Code as the harness (via claude -p)[0]. I unders
 reply
 
 userbinator
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 and they’ve made it clear that building products around claude -p is disallowed
@@ -4951,16 +4951,16 @@ Imagine not being able to connect services together or compose building-blocks t
 reply
 
 4b11b4
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 But you can still integrate this (claude -p) into your local workflows when you basically want to pipe pipe stuff to Claude for inference
@@ -4968,18 +4968,18 @@ But you can still integrate this (claude -p) into your local workflows when you 
 reply
 
 Aperocky
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 it's trivial to use tmux. But it does feels like openclaw is used (and increasingly developed) by people who never heard of it.
@@ -4987,18 +4987,18 @@ it's trivial to use tmux. But it does feels like openclaw is used (and increasin
 reply
 
 colechristensen
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You absolutely can, just pay for their API usage. The subscriptions are deeply discounted if you use your full quota compared to the API.
@@ -5006,16 +5006,16 @@ You absolutely can, just pay for their API usage. The subscriptions are deeply d
 reply
 
 mccoyb
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It is confusing for a company to sell you the subscription service, say "Claude Code is covered", ship Claude Code with `claude -p`, and then say "oh right, actually, not _all of Claude Code_, don't try and use it as a executable ... sorry, right, the subscription only works as long as you're looking at that juicy little Claude Code logo in the TUI"
@@ -5025,16 +5025,16 @@ The disrespect Anthropic has for their user base is constant and palpable.
 reply
 
 the_other
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You could think about it this way:
@@ -5044,18 +5044,18 @@ All AI prices will rise soon - probably shortly after the IPOs. The new prices w
 reply
 
 colechristensen
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This strikes me the same way the people in college who would print 497 empty pages at the end of the semester for the quota "they'd paid for" or that one guy who made lemonade at restaurants with the free lemon wedges and sugar packets. "Contempt for users" is silly. Adjusting terms to handle users who use things as not intended isn't contempt.
@@ -5063,16 +5063,16 @@ This strikes me the same way the people in college who would print 497 empty pag
 reply
 
 mccoyb
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Contempt for users is not silly when the CEO of said company has repeatedly claimed they will replace SWEs "end-to-end" by next year.
@@ -5082,16 +5082,16 @@ I'm not sure what to say. You're either listening to the actions of these compan
 reply
 
 serial_dev
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Did he say they will replace SWEs, or maybe something more nuanced, that code will be written by AI tools?
@@ -5101,18 +5101,18 @@ Honest question from my end, I try to not read every AI related news that keeps 
 reply
 
 colechristensen
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 At no point in the last 10,000 years of human civilization has there not been a developing technology that threatened to forever reshape and displace a class of labor.
@@ -5122,16 +5122,16 @@ Or are you also upset about the modern plight of the telephone operator, farrier
 reply
 
 mccoyb
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I see -- and AI is just like all technologies that came before it ...
@@ -5141,16 +5141,16 @@ It is nota class of labor... it is all digital labor. Do you or do you not under
 reply
 
 NewsaHackO
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Are SWE's the only digital labor job?
@@ -5158,18 +5158,18 @@ Are SWE's the only digital labor job?
 reply
 
 colechristensen
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 And? Hyperbolic fear of change always exists and there's always been more work.
@@ -5179,18 +5179,18 @@ Marx' whole idea of Communism was predicted on the fact that he assumed industri
 reply
 
 xvector
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Oh nooo, labor might be automated and we might see advancement that makes the Industrial Revolution look small! Oh, the humanity! Please someone, stop progressing humanity, I need to cling to my sticks!
@@ -5198,16 +5198,16 @@ Oh nooo, labor might be automated and we might see advancement that makes the In
 reply
 
 zmmmmm
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > building products around claude -p
@@ -5217,16 +5217,16 @@ But OpenClaw is not a product. It's just a pile of open source code that the use
 reply
 
 beering
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Claude Code is not a platform and you’re not meant to be building on it. Netflix is also not a platform and you shouldn’t be running code (open source or not) to mass download Netflix movies either.
@@ -5234,16 +5234,16 @@ Claude Code is not a platform and you’re not meant to be building on it. Netfl
 reply
 
 zmmmmm
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It's a reasonable comment, and I should be clear, I don't expect it to be a platform. But I do expect to be able to use its advertised features for any reasonable purpose they can support.
@@ -5253,18 +5253,18 @@ Where it leaves me is is sort of like the DoD - nobody should use Claude for any
 reply
 
 mccoyb
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 https://code.claude.com/docs/en/overview#what-you-can-do
@@ -5274,18 +5274,18 @@ Try this one:https://code.claude.com/docs/en/overview#run-agent-teams-and...Or p
 reply
 
 nextaccountic
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Is using claude -p supposed to be dangerous? Could someone be confused as openclaw or other things?
@@ -5295,16 +5295,16 @@ If yes, why do Anthropic provide this cli flag?
 reply
 
 freedomben
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Ah thank you, this is very helpful distinction to know.
@@ -5314,16 +5314,16 @@ When they shut down open code, I thought it was a lame move and was critical of 
 reply
 
 sunsunsunsun
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Im still using opencode with claude pro so im confused.
@@ -5331,16 +5331,16 @@ Im still using opencode with claude pro so im confused.
 reply
 
 stavros
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You're using it with a PAYG API key, not a subscription.
@@ -5348,18 +5348,18 @@ You're using it with a PAYG API key, not a subscription.
 reply
 
 xvector
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 No a normal user is not shelling out to Claude Code 24/7, but OpenClaw certainly is.
@@ -5369,16 +5369,16 @@ OpenAI will soon do the same thing, don't be delusional.
 reply
 
 sethherr
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I’m also terrified of this.
@@ -5388,16 +5388,16 @@ When this happens I will have to look at other providers and downgrade my subscr
 reply
 
 loveparade
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I assume this means we can no longer use Claude code sessions in editors like zed because it also wraps claude cli via ACP?
@@ -5405,16 +5405,16 @@ I assume this means we can no longer use Claude code sessions in editors like ze
 reply
 
 upcoming-sesame
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 ACP was a good idea but I feel it has not lived up to its potential.
@@ -5422,16 +5422,16 @@ ACP was a good idea but I feel it has not lived up to its potential.
 reply
 
 andai
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Why are they doing that? Opus is the only good way to run Claw. Do they regret making it cheaper or what?
@@ -5441,16 +5441,16 @@ Also what's the point of Claude -p if not integration with 3rd party code? (They
 reply
 
 happyopossum
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Opus is the only good way to run Claw
@@ -5460,16 +5460,16 @@ that's a ridiculous position to take - gemini and others work just great with cl
 reply
 
 andai
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Well, it might have been cargo culting but that was the consensus in the OC community a while ago.
@@ -5477,18 +5477,18 @@ Well, it might have been cargo culting but that was the consensus in the OC comm
 reply
 
 randall
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 exactly. They probably have unsustainable margins on accident.
@@ -5496,16 +5496,16 @@ exactly. They probably have unsustainable margins on accident.
 reply
 
 adastra22
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Has there been an actual change to their ToS? As of the last change which I saw reach HN, a week or so ago, `claude -p` was still in compliance with the Claude Code ToS. Has that language changed?
@@ -5513,16 +5513,16 @@ Has there been an actual change to their ToS? As of the last change which I saw 
 reply
 
 wild_egg
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I keep hearing OpenClaw runs on pi?
@@ -5532,16 +5532,16 @@ EDIT: confused by downvotes. In this thread people are saying it runs on top of 
 reply
 
 nc
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It runs on pi, not claude -p
@@ -5549,16 +5549,16 @@ It runs on pi, not claude -p
 reply
 
 kzahel
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's my understanding too, though i haven't checked it. running claude -p would be horribly inefficient.
@@ -5567,14 +5567,14 @@ I would not be surprised if openclaw added some compatibility layer to brute for
 reply
 
 juanre
- 
+
 18 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I am genuinely curious about OpenClaw's continuing allure. I understood it way back then, when Claude Cowork did not have channels and scheduled tasks. But now? Has Claude not become a sane replacement for OpenClaw? I can see that it's fun to play with OpenClaw and non-SOTA providers, but why would anyone run OpenClaw on a Claude Code subscription?
@@ -5582,14 +5582,14 @@ I am genuinely curious about OpenClaw's continuing allure. I understood it way b
 reply
 
 armanj
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 People in the comments are, in my opinion, overcomplicating this and making it more philosophical than it needs to be. The reason for their decision is dead simple: there aren’t enough GPUs, so they have to cut access somewhere, and they’re starting with claw.
@@ -5599,14 +5599,14 @@ It’s really that straightforward. If tomorrow they decide GPUs are better allo
 reply
 
 password4321
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 GitHub Copilot supports Anthropic models with any client but they have a monthly usage cap after which it is pay-per-prompt.
@@ -5616,14 +5616,14 @@ https://news.ycombinator.com/item?id=46936105Billing can be bypassed using a com
 reply
 
 briHass
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 GHCP also has magical rate limits that hit users that slam multi-agent workflows or other crazy request burners.
@@ -5633,16 +5633,16 @@ Mind you, I think GHCP is a great service at an excellent price, but the hardcor
 reply
 
 59nadir
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's weird, because every time I see someone even talking positively about Claude Code they always seem to mention they're hitting their 5 hour limits in 2-3 hours all the time, they're hitting their overall limits all the time, and so on.
@@ -5652,16 +5652,16 @@ Meanwhile I can't even seem to spend my $20 Cursor Composer 2 tokens using their
 reply
 
 sunaookami
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Don't jinx it!
@@ -5669,16 +5669,16 @@ Don't jinx it!
 reply
 
 hooch
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Last time I looked Copilot's context window for Anthropic models was something like 150,000 tokens only.
@@ -5686,14 +5686,14 @@ Last time I looked Copilot's context window for Anthropic models was something l
 reply
 
 2001zhaozhao
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 There are going to be a lot of tools coming soon that are "agent-agnostic", i.e. can run on CLIs including Claude Code. I am personally experimenting with using a combo of MCP + custom UI layer to provide custom tools with bespoke UX and thus turn Claude Code (or any other CLI agent for that matter) into whatever I want. I wonder how they'll deal with that.
@@ -5703,14 +5703,14 @@ For a good existing example developed by a known company, check Cline Kanban:htt
 reply
 
 pxc
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Some editor integrations are a bit like this already, where during use you don't actually touch the built-in TUI even for prompting or viewing the output and approving permissions requests.
@@ -5720,14 +5720,14 @@ I imagine how they treat these things will be contextual and maybe inconsistent.
 reply
 
 ChildOfChaos
- 
+
 55 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I’m feel like the decent AI models are going to become out of reach for normal people soon enough.
@@ -5737,14 +5737,14 @@ Even the $20 subscription is ridiculously limited and they keep adding more and 
 reply
 
 noritaka88
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This feels less like a pricing issue and more like a structural mismatch.
@@ -5756,14 +5756,14 @@ Subscriptions assume “human usage” — bursty, limited, mostly interactive. 
 reply
 
 Fogest
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I am pretty sure Claude Code limits were being hit so fast recently because there was an increasing amount of OpenClaw style usage on the subscription. From tweets from the people in charge it sounded like they were having more usage than they expected which was causing them to have to be more aggressive on the rate limits. They said they were working to address it soon. I have a feeling this is what they were working on changing. I bet OpenClaw was the reason for the rate limiting being so bad lately.
@@ -5773,14 +5773,14 @@ I'm hoping with this change we see the rate limits start to not be as rough.
 reply
 
 dnw
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 To give credit where it is due: Boris actually submitted a few PRs this week to OpenClaw to increase prompt cache hits. You can see them here:
@@ -5792,14 +5792,14 @@ I think the usage patterns of a lot of harnesses are pushing against their plann
 reply
 
 admiralrohan
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Link is broken.
@@ -5807,34 +5807,34 @@ Link is broken.
 reply
 
 cormorant
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-missing a ? character. 
+missing a ? character.
 https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%...
 
 reply
 
 nvalis
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I can't see any results any more.
@@ -5842,18 +5842,18 @@ I can't see any results any more.
 reply
 
 dnw
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Thank you!
@@ -5861,14 +5861,14 @@ Thank you!
 reply
 
 Multiplayer
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Big Giant Million Dollar Question: Where does having Openclaw using Claude Code via ACP fall? It's using the Claude Code harness, not the model directly.
@@ -5878,14 +5878,14 @@ If you are not aware, ACP creates a persistent session for steering rather than 
 reply
 
 nextaccountic
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The Zed ACP client for example is still controlled by the human prompt, and they will probably not be banned
@@ -5893,16 +5893,16 @@ The Zed ACP client for example is still controlled by the human prompt, and they
 reply
 
 Aperocky
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I have no idea what ACP offers that are superior to a tmux session. With tmux, you can attach to it at any time, send keys at any time, and capture pane without bothering any running process inside.
@@ -5912,16 +5912,16 @@ And you don't have to get anyone's permission to use tmux.
 reply
 
 bontaq
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is my big question too. It seems by intent it's to kill it, including ACP, but I don't know.
@@ -5929,14 +5929,14 @@ This is my big question too. It seems by intent it's to kill it, including ACP, 
 reply
 
 alasano
- 
+
 12 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 "these tools put an outsized strain on our systems"
@@ -5946,14 +5946,14 @@ AKA when you fully use the capacity you paid for, that's too much!
 reply
 
 danpalmer
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You don't pay for capacity, you pay for an interface. Paying for capacity is what API keys are for.
@@ -5963,16 +5963,16 @@ Similarly, on a home internet connection you might pay for a given size of pipe,
 reply
 
 GandalfHN
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That analogy fails.
@@ -5984,18 +5984,18 @@ The vendor still sets the line between flat-rate access and rate limits, and tha
 reply
 
 imtringued
- 
+
 18 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is probably one of the worst analogies you could have brought up in this context.
@@ -6005,18 +6005,18 @@ The business model of an ISP involves fixed capital investments into infrastruct
 reply
 
 alasano
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If that same internet provider has caps on how much bandwidth I can use every 5 hours and total on a weekly basis, then yes, I pay for capacity.
@@ -6026,16 +6026,16 @@ That argument would have been valid when the 5 hours blocks were unlimited in th
 reply
 
 Jimmc414
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I’m not sure why people expect Anthropic to subsidize tokens through Open Claw when it’s specifically forbidden in the ToS.
@@ -6043,16 +6043,16 @@ I’m not sure why people expect Anthropic to subsidize tokens through Open Claw
 reply
 
 topherhunt
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 ^ This. I get that We Are On The Internet And People Will Be Wrong Sometimes -- but I'm really confused by the amount of people insisting that a subscription is just a slosh bucket of token capacity to be used however they feel like using it; are these people who genuinely misunderstand how subscriptions work or what Anthropic's terms were, and genuinely weren't aware that 3rd-party harnesses violate them? The vibe I get is more "how dare you constrain me from doing whatever I want", angry rebellious teenager vibe, willful oversimplifications of the situation... it doesn't feel particularly honest or reality-seeking.
@@ -6060,16 +6060,16 @@ next
 reply
 
 cortesoft
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Except no, you aren't paying the full capacity of using all of your limits every time. The subscription cost is less than it would take to actually pay for the capacity of the limits. That is how these sorts of subscriptions work.
@@ -6079,16 +6079,16 @@ You can pay for the capacity, using the per token price.
 reply
 
 infecto
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Meh this argument does not hold up. If you don’t like it pay for the API. We all know these services are priced for human use, as in your not using it 24/7.
@@ -6096,14 +6096,14 @@ Meh this argument does not hold up. If you don’t like it pay for the API. We a
 reply
 
 onchainintel
- 
+
 19 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Read this earlier as well. A lot of OpemClaw jockets are going to wake up to some very unfriendly news! That said, spot on points re: subscription services biz model.
@@ -6111,14 +6111,14 @@ Read this earlier as well. A lot of OpemClaw jockets are going to wake up to som
 reply
 
 Wowfunhappy
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Claude is a UNIX command line tool with an SDK. Yes there's an interactive mode, but it can be invoked as a normal utility too, and piped to other tools and so on.
@@ -6128,14 +6128,14 @@ In that context, I don't understand the difference between a "third party harnes
 reply
 
 jatora
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Im wondering this too. If I have my own local platform similar in nature to openclaw, and am leveraging claude -p through my subscription, is this now against ToS? Or is this just a ban specific to certain services? In which case they're saying 'use -p until you scale and then we'll hammer you'. Either way what a pita.
@@ -6143,16 +6143,16 @@ Im wondering this too. If I have my own local platform similar in nature to open
 reply
 
 anhldbk
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I guess Anthropic will scrutinize big open source projects for that purpose. The direct official integrations will be removed.
@@ -6160,16 +6160,16 @@ I guess Anthropic will scrutinize big open source projects for that purpose. The
 reply
 
 mohsen1
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They have terms to not allow `claude -p` used like that. However, people can hide this with the leaked source code. What a funny cat-and-mouse game!
@@ -6177,14 +6177,14 @@ They have terms to not allow `claude -p` used like that. However, people can hid
 reply
 
 ramon156
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 May I suggest trying Z.ai coding plan? I've had a good experience, and its 1/3rd of the price.
@@ -6194,14 +6194,14 @@ When I do use AI, I already have a solid plan of what I need. Sometimes I ask it
 reply
 
 Alifatisk
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Now is also a good time because they have a discount offer this month for using GLM-5-Turbo. During off-peak hours, only 1x multiplier will be deducted (otherwise it is 2x). I’m am on the Lite plan and have never maxed my usage quota (their Christmas deal offered 3 month for 7$).
@@ -6209,16 +6209,16 @@ Now is also a good time because they have a discount offer this month for using 
 reply
 
 breisa
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They also do not allow non-coding usage of their coding plan in their ToS.
@@ -6226,16 +6226,16 @@ They also do not allow non-coding usage of their coding plan in their ToS.
 reply
 
 upcoming-sesame
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 which plan do you suggest ? 80$/m ?
@@ -6243,14 +6243,14 @@ which plan do you suggest ? 80$/m ?
 reply
 
 karlpoppery
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Is any code that auto launches Claude Code considered a "harness"?
@@ -6260,14 +6260,14 @@ I'm hoping that they won't bother you unless you specifically max out the subscr
 reply
 
 dabeeeenster
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I don't see where they are going to draw the line. If I run 4 sessions in tmux, all connected to claude code, is that OK?
@@ -6275,14 +6275,14 @@ I don't see where they are going to draw the line. If I run 4 sessions in tmux, 
 reply
 
 datahack
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Ok. Someone explain to me why they would f themselves this hard with software engineers when they are absolutely winning. This just seems like a bad move.
@@ -6292,14 +6292,14 @@ Is it infrastructure? Are they unable to control costs?Everyone else is spending
 reply
 
 vitaflo
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Openclaw users are a small percentage of their user base but take up a lot of their compute. Given the cost is subsidized it’s not surprising they would target it. Getting these users to leave is probably the point. These aren’t profitable users.
@@ -6307,16 +6307,16 @@ Openclaw users are a small percentage of their user base but take up a lot of th
 reply
 
 w10-1
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 "Adoption" like 2000's internet companies losing money on every sale to get market share?
@@ -6326,16 +6326,16 @@ For SaaS, use the SaaS API. For product, use the product.They subsidize the prod
 reply
 
 beering
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They have so much mindshare right now that they can’t lose, and the number of users that use opencode and would be affected is miniscule—-on the level of complaining about your online bank not supporting Konqueror.
@@ -6343,16 +6343,16 @@ They have so much mindshare right now that they can’t lose, and the number of 
 reply
 
 ffsm8
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Honestly I suspect they're just getting ready to release a new feature for autonomous usage. I mean it was one of the leaked feature toggles. If I'm right it'll likely mean we'll get an announcement within the next 2 weeks for "long running prompts/agents"
@@ -6360,16 +6360,16 @@ Honestly I suspect they're just getting ready to release a new feature for auton
 reply
 
 _pdp_
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I mean, it is easy to understand once you realise that there is no spoon.
@@ -6379,16 +6379,16 @@ Despite their power, frontier models are threatened by open-source equivalents. 
 reply
 
 verdverm
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They have plenty of high paying users that will soak up what the claws are consuming in capacity. They are thinking about those customers and delivering them a better experience
@@ -6396,14 +6396,14 @@ They have plenty of high paying users that will soak up what the claws are consu
 reply
 
 tzury
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Boris Cherny on this
@@ -6413,14 +6413,14 @@ https://x.com/bcherny/status/2040206440556826908?s=20
 reply
 
 kh_hk
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The same reason I would not use a proprietary text editor applies to harnesses. It's enough of a constraint to use a proprietary service, for me the line is at the tooling. Sunk cost and all it's things.
@@ -6428,14 +6428,14 @@ The same reason I would not use a proprietary text editor applies to harnesses. 
 reply
 
 figmert
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Can they actually realistically do this? Nothing technical can stop a client from masquerading as another, and with the right level of dedication, this wouldn't be very hard to do. And since they're mostly targeting power users, seems like they're barking up the wrong tree. Have I missed something?
@@ -6443,14 +6443,14 @@ Can they actually realistically do this? Nothing technical can stop a client fro
 reply
 
 varenc
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Realistically, they can likely prevent the majority of this sort of use. You're right that's it's impossible to prevent 100%, but they can likely stop most of it. Particularly because each user is linked with an account which has an extra high cost to the user if penalized. Abuse prevention is harder when you permit anonymous users. (Like OAI's battle against people turning the free logged out chatgpt.com into an API)
@@ -6458,14 +6458,14 @@ Realistically, they can likely prevent the majority of this sort of use. You're 
 reply
 
 fcanesin
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Anthropic is a great showing for startup founders how if you have a great product people will buy it, even if they dislike your pricing, your marketing and the CEO opinions.
@@ -6475,14 +6475,14 @@ Real PMF sells itself. The risk is of course the competition catching up, I bet 
 reply
 
 nfw2
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I don't understand exactly what is being banned. I have a vibe coded context manager + chat thread UI that I use to manage multiple claude code cli sessions simultaneous. Is this allowed? If not how would this get identified vs other cli usage? How is this different than openclaw?
@@ -6490,14 +6490,14 @@ I don't understand exactly what is being banned. I have a vibe coded context man
 reply
 
 Aperocky
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 openclaw is too easy to set up and way too messy and context heavy, they don't have to catch you they just have to catch the guy on the market giving out free modified V8 F150s while Anthropic are selling gas subscriptions in town.
@@ -6505,16 +6505,16 @@ openclaw is too easy to set up and way too messy and context heavy, they don't h
 reply
 
 wolttam
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Check into the CC source leaks, they're doing some relatively sophisticated attestation
@@ -6522,16 +6522,16 @@ Check into the CC source leaks, they're doing some relatively sophisticated atte
 reply
 
 luxuryballs
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 it’s not banned it will just charge to extra usage instead of going towards the sub when using setup token, you can allocate money to extra usage or make an anthropic api key and use that
@@ -6539,14 +6539,14 @@ it’s not banned it will just charge to extra usage instead of going towards th
 reply
 
 djhope99
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Personally I appreciate the clarity and technical enforcement vs banning accounts.
@@ -6556,14 +6556,14 @@ I switched OpenClaw to MiniMax 2.7. This combined with Claude over telegram does
 reply
 
 upcoming-sesame
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 how do you use Claude over telegram ?
@@ -6571,14 +6571,14 @@ how do you use Claude over telegram ?
 reply
 
 zephyreon
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yah well I'll be downgrading my subscription to the $20/month plan for the light chats I have with AI outside of using custom harnesses and will figure out a better provider for the agentic tooling.
@@ -6586,14 +6586,14 @@ Yah well I'll be downgrading my subscription to the $20/month plan for the light
 reply
 
 luxuryballs
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 couldn’t you just do that and put the other $80 towards extra usage and OpenClaw can use that?
@@ -6601,14 +6601,14 @@ couldn’t you just do that and put the other $80 towards extra usage and OpenCl
 reply
 
 steveharing1
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It seems like they are suffering from compute problems bcs they are not only allowing OpenClaw but also limiting the chats
@@ -6616,14 +6616,14 @@ It seems like they are suffering from compute problems bcs they are not only all
 reply
 
 aimadetools
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is why I'm wary of vendor lock-in with these subscription models. It feels like bait and switch once they have your payment info.
@@ -6631,14 +6631,14 @@ This is why I'm wary of vendor lock-in with these subscription models. It feels 
 reply
 
 topherhunt
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I don't get it - in what way is this bait-and-switch? Anthropic's terms have made it amply clear that your claude subscription can only be used with Anthropic-provided tools, not with 3rd-party harnesses. I imagine anyone who uses OpenClaw is AI-savvy enough to be aware of that, and happily flouted those terms anyway. If anything Anthropic seems overly accommodating here by giving all flouters a month of free credit, rather than simply saying "sorry yall but we're gonna start enforcing that thing our TOS has said from the start".
@@ -6648,14 +6648,14 @@ The premise of the subscription isn't "giant bucket of ultra-cheap tokens that y
 reply
 
 gos9
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I don’t understand why they’re catching any flak here lol if you want to use the frontier model more then pay for it?
@@ -6665,14 +6665,14 @@ Graceful handling from Anthropic
 reply
 
 hnburnsy
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >Graceful handling from Anthropic
@@ -6682,16 +6682,16 @@ Less than 24 hours notice and on a holiday weekend
 reply
 
 luxuryballs
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 exactly! they actually chose the better approach rather than just locking us out
@@ -6699,14 +6699,14 @@ exactly! they actually chose the better approach rather than just locking us out
 reply
 
 hgoel
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This seems like a reasonable move even putting aside the reasoning about breaking the assumptions that make a subscription model cheaper than a pay-per-use model.
@@ -6716,14 +6716,14 @@ Why would they actively subsidize the ticking timebomb? When OpenClaw has an esp
 reply
 
 ph4te
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 As a CC power user, an OpenClaw, and ZeroClaw user, I am completely fine with this. My CC usage has suffered lately, and however cool and fun the Claws are, I use Claude Desktop probably more than OpenClaw and it works just fine, and has a lot of integrations. I would rather have Anthropic continue to support its own products working well, and have all of these things move to another service, or pay Anthropic for their use.
@@ -6731,14 +6731,14 @@ As a CC power user, an OpenClaw, and ZeroClaw user, I am completely fine with th
 reply
 
 sunaookami
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's the tragedy of the commons where OpenClaw users abuse the system and everyone has to suffer.
@@ -6746,14 +6746,14 @@ It's the tragedy of the commons where OpenClaw users abuse the system and everyo
 reply
 
 ugiox
- 
+
 59 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Literally :rofl: here. About all the people panicking that they suddenly can’t work anymore. Come on, how did you work and develop three years ago without AI? If you can’t program or understand code without an LLM you should maybe switch careers and not call yourself engineers. In the meantime, I have never touched Claude, Copilot, or what not, and continue to write my low level code used in real engineering and manufacturing plants as well as science labs. And since most/all of this isn’t really working through/with AI (as some colleagues in the field have tried and miserably failed) I can increase my rates and have started to charge a good amount more from clients. As they can’t find people anymore that are willing to understand the problems and deliver working code. The people are busy trying to get AI work in the my field instead of doing the real work that is asked. Literally :rofl: on how AI makes me more money without having to use and touch it. If this continues as it does, I might be able to retire soon (40s) and go back to study physics as I did and maybe engage in some theoretical physics PHD (self financed).
@@ -6761,14 +6761,14 @@ Literally :rofl: here. About all the people panicking that they suddenly can’t
 reply
 
 causal
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Their whole business model seems built around selling you limits that you will never be able to utilize: limit you to tools that will never run long.
@@ -6778,14 +6778,14 @@ Claude Code seems designed to terminate quickly- mine always finds excuses to de
 reply
 
 Seattle3503
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Am I still allowed to invoke cc in a bash script, or is that out too? Interactive sessions only.
@@ -6793,14 +6793,14 @@ Am I still allowed to invoke cc in a bash script, or is that out too? Interactiv
 reply
 
 Larrikin
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Some of the vigorous defending of Claude changing the deal, makes me wonder if Open Claw is banned because they have their own version they are working on deploying.
@@ -6808,14 +6808,14 @@ Some of the vigorous defending of Claude changing the deal, makes me wonder if O
 reply
 
 arewethereyeta
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Marketing geniuses. They had 2 options here:
@@ -6825,14 +6825,14 @@ Marketing geniuses. They had 2 options here:
 reply
 
 infecto
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Such a small minority of the customers they want use openclaw and in aggregate a lot of compute use is coming from the total group. Better to stop customers you don’t want. This has zero impact on top line revenue
@@ -6840,16 +6840,16 @@ Such a small minority of the customers they want use openclaw and in aggregate a
 reply
 
 mrbungie
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 From you can tell from they long-term strategy they are not marketing geniuses, but rather they try to signal are "moral geniuses". That's the game they are playing, I don't really know if it is going to work or not.
@@ -6857,16 +6857,16 @@ From you can tell from they long-term strategy they are not marketing geniuses, 
 reply
 
 airstrike
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 marketing geniuses was never a real alternative if inference is heavily subsidized, because open models scale in performance just as well, albeit 12-18 months late
@@ -6874,16 +6874,16 @@ marketing geniuses was never a real alternative if inference is heavily subsidiz
 reply
 
 subscribed
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Well, I don't use openclaw and I don't think it would be fair if everyone had to pay more to subscribe them.
@@ -6893,16 +6893,16 @@ Why hatred btw? They're not even banning accounts left and right like Google?
 reply
 
 krater23
- 
+
 44 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Not the software is the product, you know? The tokens are the product. Selling cheap subscriptions to power users costs them money. That are the customers you don't want, so why hesitate to get rid of them when they don't want to pay more?
@@ -6910,16 +6910,16 @@ Not the software is the product, you know? The tokens are the product. Selling c
 reply
 
 dboreham
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm fine with it. I don't want my subscription subsidizing the claw people.
@@ -6927,16 +6927,16 @@ I'm fine with it. I don't want my subscription subsidizing the claw people.
 reply
 
 a10c
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 How about the people that don't use OpenClaw, but alternative agent harnesses that are vastly better than Claude Code?
@@ -6944,16 +6944,16 @@ How about the people that don't use OpenClaw, but alternative agent harnesses th
 reply
 
 bsder
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > alternative agent harnesses that are vastly better than Claude Code?
@@ -6963,16 +6963,16 @@ Okay,thatgot my attention. What harnesses are those?
 reply
 
 a10c
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 pi-coding-agent (
@@ -6982,18 +6982,18 @@ https://shittycodingagent.ai/
 reply
 
 arewethereyeta
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Cursor - I'm sure I can find more.
@@ -7001,18 +7001,18 @@ Cursor - I'm sure I can find more.
 reply
 
 arewethereyeta
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I think you value yourself too much over other people. What does it even mean "claw people"?
@@ -7020,16 +7020,16 @@ I think you value yourself too much over other people. What does it even mean "c
 reply
 
 nojito
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 >Make a better product/alternative to Openclaw and start eating their userbase.
@@ -7039,16 +7039,16 @@ There's a good chance they do not have the infrastructure to do that.
 reply
 
 luxuryballs
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 but are they really doing that? I mean it says you can keep using OpenClaw you just have to allocate money to the extra usage or an api token, I have no plan on not using it because Opus makes the claw so smart, I’ll just put more money towards the extra usage rather than the beefier sub
@@ -7056,14 +7056,14 @@ but are they really doing that? I mean it says you can keep using OpenClaw you j
 reply
 
 loveparade
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 That's why I am using Codex. I slightly prefer Claude in terms of code quality, but it's close, but not being able to use my subscription with other CLIs and apps ruins Claude for me.
@@ -7071,14 +7071,14 @@ That's why I am using Codex. I slightly prefer Claude in terms of code quality, 
 reply
 
 freedomben
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Indeed, this is the outcome they are going to create. It seems like their goal is to get people using their core tools, and they want that bad enough to subsidize it for some users. The net effect on users like me however, will be the exact opposite. I'll be switching to a different tool.
@@ -7086,16 +7086,16 @@ Indeed, this is the outcome they are going to create. It seems like their goal i
 reply
 
 loveparade
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yeah and it doesn't help that the claude CLI itself IMO isn't that great. It feels a bit like a sloppy vibe coded app. So they are forcing me to use an inferior product.
@@ -7103,14 +7103,14 @@ Yeah and it doesn't help that the claude CLI itself IMO isn't that great. It fee
 reply
 
 SkyPuncher
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Just give me a subscription tier where I’m not being blocked out every afternoon.
@@ -7120,14 +7120,14 @@ Im hitting rate limits within 1:45 during afternoons.I can’t justify extra usa
 reply
 
 bitpush
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 even higher than $200? gosh, what are you doing to hit limits every day?
@@ -7135,16 +7135,16 @@ even higher than $200? gosh, what are you doing to hit limits every day?
 reply
 
 muyuu
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 For me it's surprising that they expected anything other than heavy utilisation at that price point. People don't subscribe at those prices and forget about it.
@@ -7152,16 +7152,16 @@ For me it's surprising that they expected anything other than heavy utilisation 
 reply
 
 TillE
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 All these companies are offering quite generous subscription plans if you compare to API pricing.
@@ -7171,16 +7171,16 @@ There's gotta be a limit; nobody can afford to have tons of users who are losing
 reply
 
 muyuu
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Perhaps. So let them come clean about what they can offer. At that price, people are going to make the best of their subscription whatever it is that's on offer.
@@ -7190,18 +7190,18 @@ Time to compete on value with the Chinese.
 reply
 
 SkyPuncher
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Professional software development. I literally have 2 to 5 terminals running all day.
@@ -7209,16 +7209,16 @@ Professional software development. I literally have 2 to 5 terminals running all
 reply
 
 krater23
- 
+
 39 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Sorry guy, this has nothing to do with professional software development :D
@@ -7226,18 +7226,18 @@ Sorry guy, this has nothing to do with professional software development :D
 reply
 
 rvz
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Consulting fees from Claude & Ralph.
@@ -7245,16 +7245,16 @@ Consulting fees from Claude & Ralph.
 reply
 
 sarchertech
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Based on the way subscriptions work for every other business, if you’re hitting the limits, you are not profitable for them.
@@ -7264,16 +7264,16 @@ My guess is a plan with double the limits would need to be 5-10x as expensive.
 reply
 
 SkyPuncher
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This is only an issue between 12pm and ~4pm ET. If I work at any other time of day, I never hit my usage limit.
@@ -7281,16 +7281,16 @@ This is only an issue between 12pm and ~4pm ET. If I work at any other time of d
 reply
 
 arjie
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Extra usage seems like the right thing for you. It's pre-paid so if you only ever fill in $100 more per-month it works as a higher subscription tier.
@@ -7298,16 +7298,16 @@ Extra usage seems like the right thing for you. It's pre-paid so if you only eve
 reply
 
 charcircuit
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You can set the monthly extra usage cap to $1000 or something to cap how much it can cost per month.
@@ -7317,16 +7317,16 @@ https://support.claude.com/en/articles/12429409-manage-extra...
 reply
 
 SkyPuncher
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's a had sell to a finance team.
@@ -7334,16 +7334,16 @@ That's a had sell to a finance team.
 reply
 
 bleepblap
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Sounds backwards -- your company is getting the benefits of your increased productivity and doesn't want to pay for it. Im not sure that's Anthropics problem?
@@ -7353,18 +7353,18 @@ It's like I was a graphic designer and my finance company said "photoshop is too
 reply
 
 CubsFan1060
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It seems like you have an impossible ask? Why not 4 subscriptions to last you 5 hours?
@@ -7372,16 +7372,16 @@ It seems like you have an impossible ask? Why not 4 subscriptions to last you 5 
 reply
 
 charcircuit
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You are not allowed to use multiple accounts to bypass the rate limit. You can only use different accounts for different uses like a work account and then a personal account. You can't rotate through 5 for personal use.
@@ -7389,18 +7389,18 @@ You are not allowed to use multiple accounts to bypass the rate limit. You can o
 reply
 
 groby_b
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Then maybe it's not worth using Claude Code that much.
@@ -7408,16 +7408,16 @@ Then maybe it's not worth using Claude Code that much.
 reply
 
 iberator
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Maybe start actually working and PROGRAMMING instead of simply cheating and ruining the job market at the same time?
@@ -7427,14 +7427,14 @@ Usage of such tools should be forbidden in companies - its cheating and using co
 reply
 
 lherron
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Reality is Ant can supply X tokens and they see demand for 10*X tokens. So they’ll charge whatever the top 10% of users are willing to pay, and slowly degrade the value of the subscriptions until everyone has moved to another supplier or migrated to the 10% price point. The draconian ToS that they sometimes enforce is their mechanism to degrade subscription value over time. Expect agent-sdk to be next on the chopping block, moving from oauth supported to api only. When they switch it they will rightly point out the docs never explicitly said it was allowed.
@@ -7442,14 +7442,14 @@ Reality is Ant can supply X tokens and they see demand for 10*X tokens. So they�
 reply
 
 bob1029
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 $200 is a lot of money per month. I just bought this much in OAI API credits and I expect them to last me until August or so.
@@ -7459,14 +7459,14 @@ If you started plugging tools into GPT5.4 you may soon discover that you don't n
 reply
 
 smallerfish
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > for third-party harnesses
@@ -7476,14 +7476,14 @@ What's the exact definition of third-party harnesses? They have an Agent SDK in 
 reply
 
 Multiplayer
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Great question. I've read that the agent sdk is ok as long as it's not for external use - meaning you aren't selling access to it. Unclear now though!
@@ -7491,16 +7491,16 @@ Great question. I've read that the agent sdk is ok as long as it's not for exter
 reply
 
 NewsaHackO
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 When another program is doing direct tool calling instead of delegating it to Claude.
@@ -7508,14 +7508,14 @@ When another program is doing direct tool calling instead of delegating it to Cl
 reply
 
 christopher8827
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is why people are switching over to Codex
@@ -7523,33 +7523,33 @@ This is why people are switching over to Codex
 reply
 
 minimaxir
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-Codex 
+Codex
 just
  ended their double-usage offer and OpenAI just had an exec shakeup, so it'll be interesting to see how Codex reacts, or if people have usage issues with Codex.
 
 reply
 
 lmedinas
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 OpenAI mentioned already that it's ok to use Codex with Openclaw.
@@ -7557,16 +7557,16 @@ OpenAI mentioned already that it's ok to use Codex with Openclaw.
 reply
 
 minimaxir
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Months ago. Things in the AI world change quickly.
@@ -7574,18 +7574,18 @@ Months ago. Things in the AI world change quickly.
 reply
 
 xtracto
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So the VC gravy is drying. We should see the enshitification of LLM providers in the rest of 2026 and 2027. The bubble has to burst at some point.
@@ -7593,14 +7593,14 @@ So the VC gravy is drying. We should see the enshitification of LLM providers in
 reply
 
 zephyreon
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is the classic car wash subscription scheme. You sign up a bunch of people for $40 a month to wash their car. Most people only go to wash their car once or twice a month (or even less), which offsets those few folks that do it three times a week or more.
@@ -7610,14 +7610,14 @@ The problem Anthropic is running into is that OpenClaw made it easy for everyone
 reply
 
 eternaut
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Anthropic might underestimate how many users got a subscription because of openclaw and the likes. I did; $100 max subscription. Not renewing it. GLM and minimax are viable alternatives for a fraction of the cost.
@@ -7625,14 +7625,14 @@ Anthropic might underestimate how many users got a subscription because of openc
 reply
 
 _pdp_
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The solution as usual is open source.
@@ -7642,14 +7642,14 @@ For example...We recently moved a very expensive sonnet 4.6 agent to step-3.5-fl
 reply
 
 stavros
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > The solution as usual is open source.
@@ -7659,16 +7659,16 @@ next
 reply
 
 happyopossum
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Those two statements completely check out about a lot of open source projects/products tho... macOS upsetting you today? The solution is linux!
@@ -7676,16 +7676,16 @@ Those two statements completely check out about a lot of open source projects/pr
 reply
 
 snarkyturtle
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Google releasing Gemma 4 yesterday was prescient. Toying around with Zed + Gemma 4 on my laptop is 95% as good as using a cloud provider.
@@ -7693,16 +7693,16 @@ Google releasing Gemma 4 yesterday was prescient. Toying around with Zed + Gemma
 reply
 
 nothinkjustai
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yeah this is similar to my approach, although with slightly more powerful models. I’m just not having a good time letting the sota models loose on a code base to implement entire features. Spending too much time cleaning up the mess. It’s my fault, I needed to guide it more, but it would take the same amount of time to use a faster model to generate smaller chunks and also cost less. And I’m not even doing anything particularly complex!
@@ -7712,14 +7712,14 @@ inb4 skill issue I could probably beat you coding by hand with you using Claude 
 reply
 
 8note
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > We’ve been working to manage demand across the board, but these tools put an outsized strain on our systems. Capacity is a resource we manage carefully and we need to prioritize our customers using our core products.
@@ -7729,14 +7729,14 @@ but couldn't i use this in off times only?
 reply
 
 throwaway911282
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Just use codex. A company that has not released any open weights models and goes after banning accounts and suing companies is not really the kind of company I want to give my money too. And gpt5.4 is the best model out there. Some people overthink on personality but I just want good code.
@@ -7744,14 +7744,14 @@ Just use codex. A company that has not released any open weights models and goes
 reply
 
 Reebz
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Just use opus. A company that has not rejected agreements with a “Department of War” and sanctions reasoning models to enable mass citizen surveillance and autonomous weapons deployment with no human intervention is not really the kind of company I want to give my money too. And opus4.6 is the best model out there. Some people overthink on personality but I just want good code.
@@ -7759,14 +7759,14 @@ Just use opus. A company that has not rejected agreements with a “Department o
 reply
 
 mogili1
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What about when you use Claude agent SDK on your laptop?
@@ -7776,14 +7776,14 @@ Extra usage is very sneaky you don't get any notice that you are using extra usa
 reply
 
 scottcha
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I think there was a clarification posted on Reddit that said Claude Agents SDK didn't apply for now.
@@ -7791,30 +7791,30 @@ I think there was a clarification posted on Reddit that said Claude Agents SDK d
 reply
 
 gnabgib
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Discussion (655 points, 1 month ago, 793 comments) 
+Discussion (655 points, 1 month ago, 793 comments)
 https://news.ycombinator.com/item?id=47069299
 
 reply
 
 jklm
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The main reason I find myself using Opus is because it's a better communicator. (Yes, I know it's better in some areas like frontend vs. others but this is not significant enough for my purposes.)
@@ -7824,14 +7824,14 @@ So this change has actually forced a reckoning of sorts. Maybe the best option i
 reply
 
 ramoz
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Super confusing email. Not sure why I received. Am i to assume my account was flagged? I only use my subscription for Claude Code.
@@ -7844,14 +7844,14 @@ only flagged accounts, but you can still claim the credit
 reply
 
 mh-
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Any idea what caused your account to be flagged, then?
@@ -7859,16 +7859,16 @@ Any idea what caused your account to be flagged, then?
 reply
 
 ramoz
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I mustve tried openclaw with it. Though ive been running it on codex primarily since I was serious about setting it up.
@@ -7876,16 +7876,16 @@ I mustve tried openclaw with it. Though ive been running it on codex primarily s
 reply
 
 dboreham
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I got the email and I've only ever run the legit claude client.
@@ -7893,14 +7893,14 @@ I got the email and I've only ever run the legit claude client.
 reply
 
 siliconc0w
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 As the demand for GPUs grows and supply cannot match it, the GPUs are going towards the enterprise and it'll be the haves vs the have-nots.
@@ -7910,14 +7910,14 @@ Instead of not driving to work to save fuel, frugal companies are going to have 
 reply
 
 benbojangles
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Anthropic are a smart clever research based bunch of people, they probably realised that openclaw is a mess, full of vibe coding get rich quick people, nothing particularly interesting to observe, and don't want to mix this data with the data they have already from real coders.
@@ -7925,14 +7925,14 @@ Anthropic are a smart clever research based bunch of people, they probably reali
 reply
 
 paulcole
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 “What I’m doing is real coding. What you’re doing is a mess full of vibe coding.”
@@ -7940,16 +7940,16 @@ next
 reply
 
 jatora
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I do enjoy these gatekeepers getting sideswept, their comments being little raindrops in a hurricane. It's a vile mindset.
@@ -7957,14 +7957,14 @@ I do enjoy these gatekeepers getting sideswept, their comments being little rain
 reply
 
 merlindru
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I still haven't got this email, anyone else?
@@ -7972,14 +7972,14 @@ I still haven't got this email, anyone else?
 reply
 
 evbogue
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How does Anthropic detect that a person is using OpenClaw vs using Claude Code?
@@ -7989,14 +7989,14 @@ Forgive me if someone asked this already and I can't find it in the comments.
 reply
 
 kristopolous
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It's probably just the header.
@@ -8006,16 +8006,16 @@ headers['X-Title']You can change thatThe other simple method is to only accept c
 reply
 
 stavros
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The bun executable attests the code by sending a signature along. I'm not sure what why we can't simply clone that signature, though.
@@ -8023,16 +8023,16 @@ The bun executable attests the code by sending a signature along. I'm not sure w
 reply
 
 password4321
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Continuous requests at a constant rate for days with interruptions?
@@ -8040,19 +8040,19 @@ Continuous requests at a constant rate for days with interruptions?
 reply
 
 TheDong
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-That's just a ralph loop: 
+That's just a ralph loop:
 https://ghuntley.com/ralph/
 
 I can do that now with claude code and a "while true" bash loop.Or with the built-in "/schedule" in claude code to set an agent to run say once every few minutes.
@@ -8060,14 +8060,14 @@ I can do that now with claude code and a "while true" bash loop.Or with the buil
 reply
 
 rane
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Why doesn't OpenAI introduce $100/mo plan? Surely many would switch in a heartbeat
@@ -8075,14 +8075,14 @@ Why doesn't OpenAI introduce $100/mo plan? Surely many would switch in a heartbe
 reply
 
 krupan
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Maybe because they don't want to lose money even faster than Anthropic is?
@@ -8090,16 +8090,16 @@ Maybe because they don't want to lose money even faster than Anthropic is?
 reply
 
 rane
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Is that also why they allow to use their subscriptions in OpenClaw and 3rd party harnesses?
@@ -8107,31 +8107,31 @@ Is that also why they allow to use their subscriptions in OpenClaw and 3rd party
 reply
 
 skyberrys
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Is this going to nuke all bring your own API 3rd party tools? I've been casually using fewshell 
+Is this going to nuke all bring your own API 3rd party tools? I've been casually using fewshell
 https://github.com/few-sh/fewshell
  with my Claude api key, I really hope it's going to keep working. I've just finally managed to turn myself into a reasonable devops team with it.
 
 reply
 
 minimaxir
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This does not affect anyone who uses an API key.
@@ -8139,16 +8139,16 @@ This does not affect anyone who uses an API key.
 reply
 
 skyberrys
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Oh thank you! I'm using these tools but occasionally I feel like a medieval horse rider trying to drive a sedan. Glad to know, I haven't used OpenClaw, I prefer the meat computer for autonomous compute.
@@ -8156,16 +8156,16 @@ Oh thank you! I'm using these tools but occasionally I feel like a medieval hors
 reply
 
 anon0834
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 All these people that complain were not paying for an API key
@@ -8173,14 +8173,14 @@ All these people that complain were not paying for an API key
 reply
 
 sanex
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Claude usage limits are insane. I love their models but had to cancel my personal plan because I would burn through my weekly limits in 2 days. I use them for work but I spend like $30-50 __per day__. Not something I'd pay for myself.
@@ -8188,14 +8188,14 @@ Claude usage limits are insane. I love their models but had to cancel my persona
 reply
 
 krater23
- 
+
 35 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You don't make $50 per day? From where you are?
@@ -8203,14 +8203,14 @@ You don't make $50 per day? From where you are?
 reply
 
 crawshaw
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Based on this and recent product releases, Anthropic seems keen on building a closed ecosystem around their excellent model. That is their business choice, I suspect it will work well. But I cannot say I am particularly excited to have my entire development stack owned by one company.
@@ -8218,14 +8218,14 @@ Based on this and recent product releases, Anthropic seems keen on building a cl
 reply
 
 xtracto
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 As a non-American, I love what Chinese companies are doing. The progress they are showing and the fact they are sharing the weights of the models is great. I can't wait for the day when companies that "have no moat" like A. , Cursor or even OpenAI are left with a bunch of float matrices and hardware.
@@ -8235,16 +8235,16 @@ I understand people from the US will have an anti-Chinese reaction, but for us i
 reply
 
 luxuryballs
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 they could have locked OpenClaw out but instead they took the time to adjust the way it works so people can still use it
@@ -8252,14 +8252,14 @@ they could have locked OpenClaw out but instead they took the time to adjust the
 reply
 
 kelnos
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I guess they're only sending this to people who use tools like OpenClaw. I don't, and haven't gotten an email. And I guess also won't get the free extra usage credit offer. Ah well.
@@ -8267,14 +8267,14 @@ I guess they're only sending this to people who use tools like OpenClaw. I don't
 reply
 
 dvt
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Running locally or privately (in the cloud) is the future. Anthropic/OAI will need to recoup (astronomical) training costs and I'm not going to be their bailout plan, especially considering training was done on torrented & copyrighted data anyway.
@@ -8284,14 +8284,14 @@ Public model inference quality is almost at SOTA levels, why would anyone pay th
 reply
 
 hombre_fatal
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If OpenClaw is just "claude -p", then how do they know when you're using OpenClaw?
@@ -8299,14 +8299,14 @@ If OpenClaw is just "claude -p", then how do they know when you're using OpenCla
 reply
 
 JSR_FDED
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They look for pincer marks
@@ -8314,16 +8314,16 @@ They look for pincer marks
 reply
 
 hombre_fatal
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It's a pair of ragged claws.
@@ -8331,14 +8331,14 @@ It's a pair of ragged claws.
 reply
 
 dgellow
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Makes sense, yes. That’s definitely not sustainable
@@ -8346,14 +8346,14 @@ Makes sense, yes. That’s definitely not sustainable
 reply
 
 eagleinparadise
- 
+
 12 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Anthropic measures your usage based on token consumption
@@ -8363,17 +8363,17 @@ We are paying for a certain amount of token consumptionWhy then, is this an outs
 reply
 
 SpicyLemonZest
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-If you're on a subscription plan, you're paying for a certain amount of 
+If you're on a subscription plan, you're paying for a certain amount of
 maximum
  token consumption. Mass market consumers generally prefer this model to one where they're billed for actual usage. But making it work requires statistical estimates of how much people will consume, which often requires excluding third party tools that circumvent those estimates.
 
@@ -8382,16 +8382,16 @@ To use your analogy, if Shell sold you a subscription to fill up your Hummer up 
 reply
 
 fc417fc802
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I think that just as with ISPs people become irate when they feel there's been a bait-and-switch. Had they very loudly advertised the subscription as limited to their harness up front with a note about maximum token use people presumably wouldn't feel cheated. Whereas they seem to be pulling a "pray I don't alter it further" for the second time now.
@@ -8401,16 +8401,16 @@ You don't get to sell a subscription described primarily as being for some quant
 reply
 
 bitpush
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I feel icky replying in favor of a for-profit entity, but here goes ..
@@ -8420,16 +8420,16 @@ I feel icky replying in favor of a for-profit entity, but here goes ..
 reply
 
 stavros
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The analogy is bad. Anthropic does not let you "refill however many times you want", they have limits. That's what "limits" in your account is.
@@ -8439,16 +8439,16 @@ It would be like the restaurant saying "you can buy the 2-liter soda pack" and t
 reply
 
 charcircuit
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You are making the false assumption that all token consumption costs the same when it doesn't. Yes in the limit the price to serve the model and generate a response is O(tokens), but when tokens is smaller it can be cheaper to generate a new token than when tokens is bigger. If other harnesses prompt with more tokens than Claude Code it can be more expensive to serve.
@@ -8456,35 +8456,35 @@ You are making the false assumption that all token consumption costs the same wh
 reply
 
 stavros
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-They have limits. I don't care how expensive it is to serve, I'm paying them for a given amount of tokens (a limit which THEY SET) and they want to 
+They have limits. I don't care how expensive it is to serve, I'm paying them for a given amount of tokens (a limit which THEY SET) and they want to
 also
  dictate where I spend those tokens.
 
 reply
 
 charcircuit
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >I'm paying them for a given amount of tokens
@@ -8494,18 +8494,18 @@ The plans do not say how many tokens you get. People are paying for access. High
 reply
 
 verdverm
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Those are subsidized tokens because you are also using their product.
@@ -8515,14 +8515,14 @@ They have a per-token payment option where you can use any tool you like
 reply
 
 Robdel12
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I believe the capacity about 30%. They did just spend the entire last month of feature releases in Clade Code replacing "claw" features.
@@ -8532,14 +8532,14 @@ So, to me its a "we built it into our world use ours"Edit: FWIW I am an avid hat
 reply
 
 janalsncm
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I got fed up with Claude code limits and have been using a combination of qwen3-coder, gemma4, and qwen3-vl locally. Gets me 90% of the way there and CC is still around for now if I need it.
@@ -8549,14 +8549,14 @@ Btw even at insane markups $200/mo means GPUs break even pretty fast.
 reply
 
 thegagne
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Which harness and how which GPU?
@@ -8564,16 +8564,16 @@ Which harness and how which GPU?
 reply
 
 janalsncm
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Opencode + 4090
@@ -8581,16 +8581,16 @@ Opencode + 4090
 reply
 
 p_stuart82
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 the hardware ROI is insane right now tbh. a $200/mo sub is literally paying off a second gpu in less than a year.
@@ -8598,14 +8598,14 @@ the hardware ROI is insane right now tbh. a $200/mo sub is literally paying off 
 reply
 
 computerex
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Claude is a great model. But anthropic’s user hostile practices have forced me to terminate my sub with them. Right now I am all in on GitHub copilot and that’s primarily how I get my opus tokens.
@@ -8613,14 +8613,14 @@ Claude is a great model. But anthropic’s user hostile practices have forced me
 reply
 
 jerieljan
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I always thought this was the case since they declared war against Opencode and its users.
@@ -8630,14 +8630,14 @@ The lines drawn by their consumer vs commercial TOS was clear and I never subscr
 reply
 
 OptionOfT
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Given the sheer amount of logging that happens in Claude Code based on the leak, I'm not surprised. This isn't about load, this is merely about cost.
@@ -8647,14 +8647,14 @@ Claude Code is subsidized because of data collection.
 reply
 
 Ifkaluva
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I think this is why the LLM era will not produce as much automation as people think.
@@ -8664,14 +8664,14 @@ We have had the ability to automate browser activities for a long time—but, on
 reply
 
 isubkhankulov
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 While I agree with you, thats not what this announcement is about. Anthropic wants to disallow programmatic use of their subscription plans for business reasons as a way to manage demand. They’re having outages, at least weekly, since March.
@@ -8679,16 +8679,16 @@ While I agree with you, thats not what this announcement is about. Anthropic wan
 reply
 
 Ifkaluva
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Thanks for the clarification! I added an edit to my comment.
@@ -8696,14 +8696,14 @@ Thanks for the clarification! I added an edit to my comment.
 reply
 
 stingraycharles
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 OpenClaw also had the ability to run entirely within Claude Code instead of using the oauth token. Would that still be allowed?
@@ -8711,14 +8711,14 @@ OpenClaw also had the ability to run entirely within Claude Code instead of usin
 reply
 
 yalogin
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Oh that is the crux of it, I was wondering why they are leading with the free credit in their email and what the catch is. I guess for someone that doesn’t use openclaw it doesn’t matter.
@@ -8726,14 +8726,14 @@ Oh that is the crux of it, I was wondering why they are leading with the free cr
 reply
 
 rohansood15
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This email gives out the endgame - eventually, Claude subscription would be ~30% cheaper than API costs.
@@ -8743,14 +8743,14 @@ Our engineering team averages 1.5k per dev per month on credit costs, without bu
 reply
 
 bglusman
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 For anyone interested, I’m cleaning up a project I’ve been working on that is a router for arbitrary agents derivative of/forked from ZeroClaw… part of what it does is let you switch between different agents on WhatsApp/Signal/Matrix etc via !switch commands, so that part isn’t an agent itself but just wants to own your channels so you can have any number of agents talking to the same handful of channels without contention.
@@ -8760,14 +8760,14 @@ I do also bundle a default agent with it, also forked from ZeroClaw, with a goal
 reply
 
 yoyohello13
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You can basically do what open claw does with native Claude code features now anyway.
@@ -8775,14 +8775,14 @@ You can basically do what open claw does with native Claude code features now an
 reply
 
 RIMR
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I didn't even realize you could connect a standard subscription to OpenClaw in the first place. It seems like you would run into limits rather quickly, which would degrade the experience quite badly.
@@ -8792,14 +8792,14 @@ Anthropic's current business model is to sell access to their tools to subscribe
 reply
 
 whateveracct
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Go pay for the API. It's not complicated.
@@ -8807,14 +8807,14 @@ Go pay for the API. It's not complicated.
 reply
 
 dev0p
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Just in time for my subscription to expire. Goodbye!
@@ -8822,14 +8822,14 @@ Just in time for my subscription to expire. Goodbye!
 reply
 
 chrisjj
- 
+
 12 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 And so it begins...
@@ -8837,14 +8837,14 @@ And so it begins...
 reply
 
 mememememememo
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Drug dealer got them hooked, now time to charge by the ounce.
@@ -8852,14 +8852,14 @@ Drug dealer got them hooked, now time to charge by the ounce.
 reply
 
 buremba
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I get why they block OpenClaw and it makes sense but I wonder if they can actually detect OpenClaw calling Claude Code CLI using something like acpx.
@@ -8869,14 +8869,14 @@ It's simply identical to how people use Claude Code locally.
 reply
 
 jeffpersonified
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Less than 24hr notice on a Friday: either Anthropic is dropping S tier next week or they massively fumbled over the past 2 months in self owns and outages.
@@ -8884,14 +8884,14 @@ Less than 24hr notice on a Friday: either Anthropic is dropping S tier next week
 reply
 
 mikkupikku
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I had an idea to use `claude -p` to break apart books and annotate all dialogue with estimated speaker meta-data. The tips displaying in interactive claude sessions keep seeming to advocate for such experimentation with claude -p, but despite this I have deliberately held back because after reading the TOS (weeks ago) I couldn't clearly make out where the line is meant to be. The existence of `claude -p` is confusing to me.
@@ -8899,31 +8899,31 @@ I had an idea to use `claude -p` to break apart books and annotate all dialogue 
 reply
 
 davesque
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-I'm honestly completely in favor of this. Anthropic obviously budgets their capacity based on projected 
+I'm honestly completely in favor of this. Anthropic obviously budgets their capacity based on projected
 human
  usage patterns coming through their native app suite (Claude Cowork, Claude Code, etc.). They should not be expected to shoulder the burden of community tools like OpenClaw that are effectively designed to strategically max out usage windows on the plan. That has clearly caused issues with uptime in the past couple of months and I've gotten pretty fed up with the degraded service quality while I'm just trying to use Claude Code as it's intended to be used. I'm happy to see they're doing something about this. Seems like a totally fair move to me. I'd rather that Claude Code functions well when I'm using it according to its design.
 
 reply
 
 lrvick
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They also forced OpenCode to remove support as well. Thankfully there is always self hosting and a shit ton of competitors that let you use whatever local software you want.
@@ -8931,14 +8931,14 @@ They also forced OpenCode to remove support as well. Thankfully there is always 
 reply
 
 snthpy
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I thought this had already been the case for a while?
@@ -8946,30 +8946,30 @@ I thought this had already been the case for a while?
 reply
 
 mediagato
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-We built an open-source orchestrator that routes across providers with direct API keys. If you're looking for alternatives to subscription-locked tools: 
+We built an open-source orchestrator that routes across providers with direct API keys. If you're looking for alternatives to subscription-locked tools:
 https://modelreins.com
 
 reply
 
 pikdum
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Does this mean I can't use `claude -p` in bash scripts now?
@@ -8977,14 +8977,14 @@ Does this mean I can't use `claude -p` in bash scripts now?
 reply
 
 techgnosis
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I doubt it means that. How would they ever know? Honest question..
@@ -8992,16 +8992,16 @@ I doubt it means that. How would they ever know? Honest question..
 reply
 
 martinald
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 if (process.argv.includes('-p')) and then setting a different http header?
@@ -9009,14 +9009,14 @@ if (process.argv.includes('-p')) and then setting a different http header?
 reply
 
 raincole
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So is Codex the only SOTA that welcomes third-party harness?
@@ -9024,14 +9024,14 @@ So is Codex the only SOTA that welcomes third-party harness?
 reply
 
 wyre
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Any model besides Claude. AFAIK anthropics the only corp to say no to other harnesses.
@@ -9039,14 +9039,14 @@ Any model besides Claude. AFAIK anthropics the only corp to say no to other harn
 reply
 
 benn67
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Haha, I almost expected this.
@@ -9056,14 +9056,14 @@ Say goodbye to my 600$/ month Anthropic.
 reply
 
 minimaxir
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The people who have enough Opus usage such that they were using multiple Max accounts are the exact users Anthropic want to kick out.
@@ -9071,16 +9071,16 @@ The people who have enough Opus usage such that they were using multiple Max acc
 reply
 
 operatingthetan
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So you were using API tokens already, this doesn’t affect you. Why are you quitting in protest?
@@ -9088,16 +9088,16 @@ So you were using API tokens already, this doesn’t affect you. Why are you qui
 reply
 
 stavros
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Three Max subscriptions.
@@ -9105,16 +9105,16 @@ Three Max subscriptions.
 reply
 
 operatingthetan
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 So they were breaking the TOS anyway
@@ -9122,16 +9122,16 @@ So they were breaking the TOS anyway
 reply
 
 stavros
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The ToS says you can't have more than one sub?
@@ -9139,16 +9139,16 @@ The ToS says you can't have more than one sub?
 reply
 
 Zopieux
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 There's no way in hell this amount of tokens is reasonable for anything or worth it
@@ -9156,16 +9156,16 @@ There's no way in hell this amount of tokens is reasonable for anything or worth
 reply
 
 benn67
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I have 2 max 20x subscriptions. So not API tokens.
@@ -9175,18 +9175,18 @@ I do a lotta stuff don’t need to get into it here.
 reply
 
 techgnosis
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You have a tiny imagination
@@ -9194,18 +9194,18 @@ You have a tiny imagination
 reply
 
 cbg0
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You have no idea how much slop people push out on daily basis.
@@ -9213,35 +9213,35 @@ You have no idea how much slop people push out on daily basis.
 reply
 
 renewiltord
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Three Claude Max subs maxed out? I think that's exactly what they 
+Three Claude Max subs maxed out? I think that's exactly what they
 do
  want to say goodbye to. This might be the most unregretted "unregretted attrition" they have.
 
 reply
 
 NewsaHackO
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The worst thing is that someone with three Max accounts is definitely not going to leave due to this. They already clearly have a dependence on Claude.
@@ -9249,31 +9249,31 @@ The worst thing is that someone with three Max accounts is definitely not going 
 reply
 
 Animats
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Oh, it's a billing thing. Not fear that Claude coupled to something that can actually 
+Oh, it's a billing thing. Not fear that Claude coupled to something that can actually
 do
  things is dangerous.
 
 reply
 
 HellsMaddy
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I received it too. I wonder if they sent this to all pro/max subscribers or only those who they’ve flagged as having used a third party harness.
@@ -9281,14 +9281,14 @@ I received it too. I wonder if they sent this to all pro/max subscribers or only
 reply
 
 windexh8er
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I have a few accounts but have been avoiding OpenCode with my Pro/Max accounts because I had heard some were being banned. Have only been using Anthropic models through OpenRouter, but it ends up being cost prohibitive for anything reasonably complex. But, I haven't received emails in either account around the change. Anthropic probably figures that it's less ideal to draw attention to it if a user isn't using it in that way. Personally I'm not a fan of what they're doing and will likely drop them and go out of my way to find a different option and move away from their lock-in strategy. They're really no different than OpenAI at this point (for the worst).
@@ -9296,19 +9296,19 @@ I have a few accounts but have been avoiding OpenCode with my Pro/Max accounts b
 reply
 
 mh-
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-FWIW: I did 
+FWIW: I did
 not
  receive it, and have never used my subscription outside of first party Claude tools. I was, however, able to claim the extra usage credit.
 
@@ -9317,16 +9317,16 @@ Interestingly, it looks like I haven't received a non-receipt email from them si
 reply
 
 FireBeyond
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 How/where were you able to do that?
@@ -9334,19 +9334,19 @@ How/where were you able to do that?
 reply
 
 mh-
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-Top of 
+Top of
 https://claude.ai/settings/usage
 
 edit: see Boris' tweet about ithttps://x.com/bcherny/status/2040206443094446558
@@ -9354,16 +9354,16 @@ edit: see Boris' tweet about ithttps://x.com/bcherny/status/2040206443094446558
 reply
 
 burnte
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm a pro subscriber and didn't get this so I wager its accounts they detect because i only use it in the browser and haven't seen this.
@@ -9371,14 +9371,14 @@ I'm a pro subscriber and didn't get this so I wager its accounts they detect bec
 reply
 
 zem
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I wonder if this also applies to tools that interact with the claude code tui through tmux's capabilities.
@@ -9386,14 +9386,14 @@ I wonder if this also applies to tools that interact with the claude code tui th
 reply
 
 jonwinstanley
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What are people doing with OpenClaw? Are there any places that try to log best uses and new ideas?
@@ -9401,14 +9401,14 @@ What are people doing with OpenClaw? Are there any places that try to log best u
 reply
 
 tiarafawn
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Could the real reason for this be more centered around generation and control of new training data?
@@ -9419,14 +9419,14 @@ We've had multiple generations of models trained on all of the code that's avail
 reply
 
 Lihh27
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is exactly why building daily workflows on top of proprietary API wrappers is a ticking time bomb. The moment your tooling becomes an outsized strain, they just flip the switch on you.
@@ -9434,14 +9434,14 @@ This is exactly why building daily workflows on top of proprietary API wrappers 
 reply
 
 Sinidir
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Does anyone know. How would that relate to simply wrapping claude code as a subprocess?
@@ -9449,14 +9449,14 @@ Does anyone know. How would that relate to simply wrapping claude code as a subp
 reply
 
 0xbadcafebee
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If you spend $200/month on Anthropic, that's $2400/year. Buy a fast GPU or Strix Halo machine, do the AI locally, after a year you're saving money.
@@ -9464,14 +9464,14 @@ If you spend $200/month on Anthropic, that's $2400/year. Buy a fast GPU or Strix
 reply
 
 cbg0
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The open models are still far behind GPT 5.4 and Claude if you're using them for building software.
@@ -9479,19 +9479,19 @@ The open models are still far behind GPT 5.4 and Claude if you're using them for
 reply
 
 Kim_Bruning
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-About a year behind , TBQH. Newer Mixture-of-Experts models are comparable to a slightly older Claude Sonnet; if you don't mind the (lack of) speed. Some benchmarks say they're competitive with the frontier models 
+About a year behind , TBQH. Newer Mixture-of-Experts models are comparable to a slightly older Claude Sonnet; if you don't mind the (lack of) speed. Some benchmarks say they're competitive with the frontier models
 right now
  for certain tasks.
 
@@ -9500,16 +9500,16 @@ I'm not sure how much I trust those benchmarks; I have a feeling everyone is pla
 reply
 
 TheDong
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If you want to run better models, you need one of the more expensive GPUs, like an H100 or such ($40k). I don't think any of the smaller models are remotely comparable to anthropic.
@@ -9519,14 +9519,14 @@ The GPU also takes around $500-$1000 in electricity, and even then you won't be 
 reply
 
 logicallee
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Has anyone gotten Google's open offline model Gemma 4 (released yesterday) working with OpenClaw? It didn't work for me as an agent with OpenClaw.
@@ -9534,14 +9534,14 @@ Has anyone gotten Google's open offline model Gemma 4 (released yesterday) worki
 reply
 
 davidkunz
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 We need Net Neutrality for LLMs.
@@ -9549,14 +9549,14 @@ We need Net Neutrality for LLMs.
 reply
 
 anizan
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Using Xiaomi’s mimo pro on openrouter via hermes agent
@@ -9564,14 +9564,14 @@ Using Xiaomi’s mimo pro on openrouter via hermes agent
 reply
 
 eternaut
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 someone else _not_ having the “Claim” button on the banner at the top of the Usage page?
@@ -9579,14 +9579,14 @@ someone else _not_ having the “Claim” button on the banner at the top of the
 reply
 
 eternaut
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Ok, it showed up eventually
@@ -9594,14 +9594,14 @@ Ok, it showed up eventually
 reply
 
 dackdel
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 cant wait till they implement turboquant and make ai cheaper again
@@ -9609,14 +9609,14 @@ cant wait till they implement turboquant and make ai cheaper again
 reply
 
 randall
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Does anyone have a link to the "read more"?
@@ -9624,14 +9624,14 @@ Does anyone have a link to the "read more"?
 reply
 
 supliminal
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Since the OpenClaw creator is posting on HN I’d like to hear some commentary from him directly.
@@ -9639,14 +9639,14 @@ Since the OpenClaw creator is posting on HN I’d like to hear some commentary f
 reply
 
 seamossfet
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Honestly, this is a good thing. OpenClaw as a concept was rather silly to run such a heavy model for. If you want something like OpenClaw to work you really need to figure out how to do it with an economical model.
@@ -9654,14 +9654,14 @@ Honestly, this is a good thing. OpenClaw as a concept was rather silly to run su
 reply
 
 cat-turner
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Doesn't this unfairly impact startups? Why not instead allow issuance of API keys with usage caps? It seems like a money grab.
@@ -9669,14 +9669,14 @@ Doesn't this unfairly impact startups? Why not instead allow issuance of API key
 reply
 
 jasonlotito
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription.
@@ -9686,14 +9686,14 @@ How is what you are asking for different from what they are saying?
 reply
 
 raverbashing
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It looks like the chickens came to roost much earlier than expected, including the fall in RAM prices
@@ -9701,14 +9701,14 @@ It looks like the chickens came to roost much earlier than expected, including t
 reply
 
 yieldcrv
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I like how the best way to protest this is by doing what everyone should have been doing to begin with: running a great open source model on rented hardware
@@ -9716,14 +9716,14 @@ I like how the best way to protest this is by doing what everyone should have be
 reply
 
 saltyoldman
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Is anyone even getting anything out of a $20/mo sub for Anthropic?
@@ -9733,14 +9733,14 @@ I'm doing a side-by-side with GPT-5.4 for $20/mo and Sonnet for $20/mo and I can
 reply
 
 freedomben
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yeah, the $20 Claude plan is almost worthless. Unless you're just using it to write scripts and not working in a real world application code base, it just runs out way too fast to get much done.
@@ -9750,16 +9750,16 @@ I think using it to write small documentation or small scripts would be a good u
 reply
 
 girvo
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I used to, but not anymore. Now I can somehow burn my _entire_ limit with a single prompt, maybe two. It's ridiculous, I've changed nothing about how I do things.
@@ -9769,16 +9769,16 @@ Only thing now is that the cheaper (worse) chinese model coding plans have huge 
 reply
 
 warmonger
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yes, 20/mo is worth the price for me. Just don't run Opus by default for everything
@@ -9786,14 +9786,14 @@ Yes, 20/mo is worth the price for me. Just don't run Opus by default for everyth
 reply
 
 Traubenfuchs
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You can cancel your subscription, there are like 5 competitors you can pick instead and anthropic offers an API plan where you can find out how many tokens circus tools like claws really consume compared to coding tasks.
@@ -9801,31 +9801,31 @@ You can cancel your subscription, there are like 5 competitors you can pick inst
 reply
 
 kjuulh
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Anthropic should calm down, I get that they're trying to either build a moat, or simply curb what is essentially subsidized tokens. It is technically true that when you've got a claude code subscription you pay for the product with its terms, and those terms doesn't include you grabbing the token and using it for another application. They're also trying to build a competitor to openclaw so it makes sense they're trying to crush it. But it feels like such a feeble moat, that it looks silly. Claude Code is nice, but it is not 
+Anthropic should calm down, I get that they're trying to either build a moat, or simply curb what is essentially subsidized tokens. It is technically true that when you've got a claude code subscription you pay for the product with its terms, and those terms doesn't include you grabbing the token and using it for another application. They're also trying to build a competitor to openclaw so it makes sense they're trying to crush it. But it feels like such a feeble moat, that it looks silly. Claude Code is nice, but it is not
 that
  nice.
 
 reply
 
 beanjuiceII
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 i think i'll no longer be giving my money to anthropic
@@ -9833,14 +9833,14 @@ i think i'll no longer be giving my money to anthropic
 reply
 
 winterrx
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So now what happens to startups and ADE's orientated around Claude like Conductor.. no more Claude for them I guess back to Codex!
@@ -9848,14 +9848,14 @@ So now what happens to startups and ADE's orientated around Claude like Conducto
 reply
 
 jasonlotito
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Nothing. They aren't using third party harnesses, which is the issue here as spelled out in the post.
@@ -9865,16 +9865,16 @@ Nothing. They aren't using third party harnesses, which is the issue here as spe
 reply
 
 jsunderland323
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'm not sure. The docs on claude -p are sort of ambiguous on third party usage
@@ -9882,14 +9882,14 @@ I'm not sure. The docs on claude -p are sort of ambiguous on third party usage
 reply
 
 mccoyb
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Why not use datacenter of geniuses to increase capacity? Grug confused.
@@ -9897,14 +9897,14 @@ Why not use datacenter of geniuses to increase capacity? Grug confused.
 reply
 
 Razengan
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 AI disallowing use by AI :|
@@ -9912,14 +9912,14 @@ AI disallowing use by AI :|
 reply
 
 desireco42
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They are running out of things to ban...
@@ -9927,14 +9927,14 @@ They are running out of things to ban...
 reply
 
 andrewstuart
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Big mistake.
@@ -9944,14 +9944,14 @@ Claude innovation will come from being open, not closed.
 reply
 
 zer00eyz
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 "We dont crash ever" -- the social network.
@@ -9961,14 +9961,14 @@ If you haven't been paying attention anthropic burned a lot of their developer g
 reply
 
 cute_boi
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Idk why people are complaining when they know subscription are currently heavily subsidized. If they don't like they can always choose alternative service.
@@ -9976,14 +9976,14 @@ Idk why people are complaining when they know subscription are currently heavily
 reply
 
 stavros
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Looks like I'm going to be switching to OpenAI. I know the whole "well those are the terms" Stockholm syndrome argument, but no, those weren't the terms when I signed up. If one of the parties decided to unilaterally change terms in any other everyday situation, nobody would think it was acceptable, but we've become so resigned to corporations having enough money to make the law suit them that we think it's moral behavior.
@@ -9993,14 +9993,14 @@ No, Anthropic, just because you added a clause that says "we can change these te
 reply
 
 benced
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They changed the terms going forward so you’re changing your behavior going forward? Nobody but the psychos you’re making up would think you’re out of line here. They’re not required to offer the same product forever and you’re not required to pay forever.
@@ -10008,16 +10008,16 @@ They changed the terms going forward so you’re changing your behavior going fo
 reply
 
 jakelazaroff
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Anthropic changing their terms is fine. You taking your money elsewhere is also fine. What's the issue here?
@@ -10025,16 +10025,16 @@ Anthropic changing their terms is fine. You taking your money elsewhere is also 
 reply
 
 nrmitchi
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This actually seems rather generous of them? Not only are they offering credits equal the cost you paid, but they're offering refunds if you disagree.
@@ -10044,16 +10044,16 @@ Anthropic not allowing Claiude Code subscriptions to be used with other projects
 reply
 
 stavros
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Nope, I paid for an Anthropic subscription that I could use with the Agents SDK. Then they decided I shouldn't be able to use that, just because.
@@ -10063,16 +10063,16 @@ Nope, I paid for an Anthropic subscription that I could use with the Agents SDK.
 reply
 
 danpalmer
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 A more apt comparison is Telsa offering $10/m for 100kWh for your car, or pay-as-you-go for any cars, but then you setting up shop at a charger, putting up a sign saying anyone can charge on your subscription until you reach that limit.
@@ -10080,16 +10080,16 @@ A more apt comparison is Telsa offering $10/m for 100kWh for your car, or pay-as
 reply
 
 stavros
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Who is "anyone" here if I'm the only one charging?
@@ -10097,16 +10097,16 @@ Who is "anyone" here if I'm the only one charging?
 reply
 
 danpalmer
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Anyone is the other software you're using. You were sold a subscription for use in a specific application controlled by the service provider, that they can optimise and control as needed to maintain their business.
@@ -10116,16 +10116,16 @@ You are the reason these changes are happening. You may well be the reason that 
 reply
 
 harha
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 One interesting observation I had between ChatGPT and Claude before I was familiar with openclaw came
@@ -10136,16 +10136,16 @@ ChatGPT found it was a great idea and that I can use Claude for planning and gav
 reply
 
 post-it
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I mean that's the thing, you're paying per month. And they're changing things going forward and offering to refund the current month.
@@ -10155,14 +10155,14 @@ It's like if I buy a hot dog every month and they tell me they're raising the pr
 reply
 
 nekusar
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Wellll, that rug aint gonna pull itself, now is it?
@@ -10172,14 +10172,14 @@ Ive been calling for local LLM as owning the means of production. I aint wrong.
 reply
 
 ChildOfChaos
- 
+
 49 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Not as simple as that. Everyone would happily use local, but the issue is local sucks.
@@ -10187,14 +10187,14 @@ Not as simple as that. Everyone would happily use local, but the issue is local 
 reply
 
 j45
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Inefficient token use will have to tighten up.
@@ -10202,14 +10202,14 @@ Inefficient token use will have to tighten up.
 reply
 
 tinyhouse
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I really started to like Pi. That's unfortunate that I won't be able to use it with Opus (way too expensive without a subscription). I'm optimistic that open source coding models will be able to keep up. AI is too important, we're shooting ourselves in the foot if we don't adopt open source tools and models. The more adoption the better it will become.
@@ -10217,14 +10217,14 @@ I really started to like Pi. That's unfortunate that I won't be able to use it w
 reply
 
 nothinkjustai
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The copilot plans work with pi and are stupidly cheap for what you get.
@@ -10232,14 +10232,14 @@ The copilot plans work with pi and are stupidly cheap for what you get.
 reply
 
 rvz
- 
+
 12 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > To make the transition easier, we’re offering a one-time credit for extra usage equal to your monthly subscription price. Redeem your credit by April 17. We’re also introducing discounts when you pre-purchase bundles of extra usage (up to 30%).
@@ -10249,33 +10249,33 @@ The Anthropic casino wants you to continue gambling tokens at their casino only 
 reply
 
 sidrag22
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-Plenty to hate on anthropic for right now, but Ill never understand the references to output as a slot machine. 
-It is massively a skill based tool, you CAN use it like a slot machine with "please make it work" style prompts. The variance is the difference, if you feed it great context and/or relevant sources to utilize, your odds of success increase dramatically. 
+Plenty to hate on anthropic for right now, but Ill never understand the references to output as a slot machine.
+It is massively a skill based tool, you CAN use it like a slot machine with "please make it work" style prompts. The variance is the difference, if you feed it great context and/or relevant sources to utilize, your odds of success increase dramatically.
 Slot machines, it doesn't matter how much thought you put into your pull, you will have the same odds as literally any other person pulling the lever.
 
 reply
 
 0xy
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Except you put $200 into the CC casino and you can (if you choose) extract thousands in token value.
@@ -10283,14 +10283,14 @@ Except you put $200 into the CC casino and you can (if you choose) extract thous
 reply
 
 Alexzoofficial
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Nice
@@ -10298,14 +10298,14 @@ Nice
 reply
 
 SevenTGK
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 mysterious anthropic win???
@@ -10313,14 +10313,14 @@ mysterious anthropic win???
 reply
 
 jasonlotito
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yes, this was made clear a while back and should not be a surprise. (Honestly, I had to double-check the date/time to see if this was actually posted today.
@@ -10330,14 +10330,14 @@ You can use your Claude Code subscription with third-party tools, but you have t
 reply
 
 firloop
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 FWIW I am sympathetic to Anthropic here, but OpenClaw _is_ using the Claude Code harness (via claude -p). But yes, Anthropic has made it clear they don’t like this.
@@ -10345,16 +10345,16 @@ FWIW I am sympathetic to Anthropic here, but OpenClaw _is_ using the Claude Code
 reply
 
 jasonlotito
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 So they changed it? Last I heard they hadn't. Where did they announce they were switching to the Claude harness? I can't find anything.
@@ -10362,34 +10362,34 @@ So they changed it? Last I heard they hadn't. Where did they announce they were 
 reply
 
 firloop
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-I received the email and I have been using “Option B”, which wraps the Claude CLI. 
+I received the email and I have been using “Option B”, which wraps the Claude CLI.
 https://docs.openclaw.ai/providers/anthropic#option-b-claude...
 
 reply
 
 weird-eye-issue
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I have heavy usage on two accounts with option c and didn't get an email
@@ -10397,14 +10397,14 @@ I have heavy usage on two accounts with option c and didn't get an email
 reply
 
 charcircuit
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You never have been able to. It's against ToS.
@@ -10412,14 +10412,14 @@ You never have been able to. It's against ToS.
 reply
 
 Alexzoofficial
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Hmmmmm
@@ -10427,14 +10427,14 @@ Hmmmmm
 reply
 
 entropoem
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Anthropic and OpenAI are the clearest examples of why, in an organization of specialists, the experts themselves should not be the CEO or the final decision-maker once the company’s challenges extend beyond just the product.
@@ -10444,14 +10444,14 @@ Just look at how Sam Altman has led OpenAI step by step to dominate—and choke 
 reply
 
 danpalmer
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 An interesting... weird(?), take. I see Anthropic as being mostly a much more compelling option. They've avoided most negative backlash, they have a much higher percentage of paying users, plenty of enterprise contracts, etc. They avoided money pits like Sora.
@@ -10461,16 +10461,16 @@ OpenAI seems to mostly be chasing the consumer market, but not doing great at it
 reply
 
 dboreham
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'm a very happy Anthropic customer. They could charge me 3X the current rate and it'd still be a great deal.
@@ -10478,12 +10478,12 @@ I'm a very happy Anthropic customer. They could charge me 3X the current rate an
 reply
 
 himata4113
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- 
+
 [–]
 
 I disagree with the sentiment here. Anthropic is profiting off everything they do, subscriptions not so much, but they are definitely not losing money in a way most people claim they do. These subscriptions are not only advertisement, but also the reason why trying to load the claude user account on github errors out.
@@ -10493,19 +10493,19 @@ IMO, the goal here is clear: they want them to use their software, have people b
 reply
 
 Guidelines
- | 
+ |
 FAQ
- | 
+ |
 Lists
- | 
+ |
 API
- | 
+ |
 Security
- | 
+ |
 Legal
- | 
+ |
 Apply to YC
- | 
+ |
 Contact
 
 Search:

@@ -25,13 +25,13 @@ tags:
 
 #### One idea every few weeks designed to make you smarter. Join 1,500+ people cutting through the noise.Read more
 
-Email Address 
+Email Address
 *
 
-First Name 
+First Name
 *
 
- 
+
 
 It’s been about 6 weeks since I joined Tano, and this is what my commit history looks like:
 

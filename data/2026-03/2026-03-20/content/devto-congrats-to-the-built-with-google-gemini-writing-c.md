@@ -120,7 +120,7 @@ As always, keep an eye on ourchallenge pageto see what’s launching next, and f
 ## #devchallengeFollow
 
  This is the official tag for submissions and announcements related to DEV Challenges.
- 
+
 
 If you want to keep building with Google AI, check out our DEV Education Tracks:
 
@@ -151,7 +151,7 @@ If you want to keep building with Google AI, check out our DEV Education Tracks:
 Thank you to everyone who participated! We hope you reflecting on and sharing your projects in this type of challenge motivates you to keep building things that you feel passionate about.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -162,6 +162,6 @@ Preview
 Dismiss
 
  View full discussion (15 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

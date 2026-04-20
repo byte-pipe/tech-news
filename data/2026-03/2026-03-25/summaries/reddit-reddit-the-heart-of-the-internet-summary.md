@@ -1,7 +1,7 @@
 ---
 title: Reddit - The heart of the internet
 url: https://www.reddit.com/r/worldnews/comments/1s1r3v3/ukraine_strikes_russias_largest_oil_export/
-date: 
+date:
 site: reddit
 model: gpt-oss:120b-cloud
 summarized_at: 2026-03-25T01:04:41.760177

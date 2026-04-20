@@ -42,20 +42,20 @@ Swift 6.3 introduces the@cattribute, which lets you expose Swift functions and e
 @c
 
 func
- 
+
 callFromC
 ()
- 
+
 {
- 
+
 ...
- 
+
 }
 
 // Generated C header
 
 void
- 
+
 callFromC
 (
 void
@@ -69,20 +69,20 @@ MyLibrary_callFromC
 )
 
 func
- 
+
 callFromC
 ()
- 
+
 {
- 
+
 ...
- 
+
 }
 
 // Generated C header
 
 void
- 
+
 MyLibrary_callFromC
 (
 void
@@ -93,7 +93,7 @@ void
 // C header
 
 void
- 
+
 callFromC
 (
 void
@@ -102,18 +102,18 @@ void
 // Implementation written in Swift
 
 @c
- 
+
 @implementation
 
 func
- 
+
 callFromC
 ()
- 
+
 {
- 
+
 ...
- 
+
 }
 
 When using@ctogether with@implementation, Swift will validate that the Swift function matches a pre-existing declaration in a C header, rather than including a C declaration in the generated header.
@@ -123,54 +123,54 @@ When using@ctogether with@implementation, Swift will validate that the Swift fun
 Swift 6.3 introducesmodule selectorsto specify which imported module Swift should look in for an API used in your code. If you import more than one module that provides API with the same name, module selectors let you disambiguate which API to use:
 
 import
- 
+
 ModuleA
 
 import
- 
+
 ModuleB
 
 let
- 
+
 x
- 
+
 =
- 
+
 ModuleA
 ::
 getValue
 ()
- 
+
 // Call 'getValue' from ModuleA
 
 let
- 
+
 y
- 
+
 =
- 
+
 ModuleB
 ::
 getValue
 ()
- 
+
 // Call 'getValue' from ModuleB
 
 Swift 6.3 also enables using theSwiftmodule name to access concurrency and String processing library APIs:
 
 let
- 
+
 task
- 
+
 =
- 
+
 Swift
 ::
 Task
- 
+
 {
 
- 
+
 // async work
 
 }

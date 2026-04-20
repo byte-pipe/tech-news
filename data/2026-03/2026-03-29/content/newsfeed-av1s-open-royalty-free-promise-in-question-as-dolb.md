@@ -73,17 +73,17 @@ With AV1, it could turn out that there are far more patent holders out there wit
 Dolby and Snap didn’t respond to requests for comment. An AOMedia spokesperson acknowledged receipt of our questions but didn’t provide responses ahead of publication.
 
  Scharon Harding
- 
+
 
 Senior Technology Reporter
 
  Scharon Harding
- 
+
 
 Senior Technology Reporter
 
  Scharon is a Senior Technology Reporter at Ars Technica writing news, reviews, and analysis on consumer gadgets and services. She's been reporting on technology for over 10 years, with bylines at Tom’s Hardware, Channelnomics, and CRN UK.
- 
+
 
 1. 1.DOJ confirms FBI Director Kash Patel’s personal email was hacked
 2. 2.No one is happy with NASA's new idea for private space stations

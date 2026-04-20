@@ -13,9 +13,9 @@ summarized_at: 2026-03-06T06:02:00.354004
 
 ## Part 1 – The “Accidental” Infiltration
 - Attended Day One of Tech Show London by scanning my badge and entering the ExCeL.
-- Took notes during Cloud and DevOps keynotes and identified three “light‑bulb” insights:  
-  - Cloud‑native architecture is now essential, not just storage.  
-  - DevOps is a cultural shift; tooling alone won’t fix broken communication.  
+- Took notes during Cloud and DevOps keynotes and identified three “light‑bulb” insights:
+  - Cloud‑native architecture is now essential, not just storage.
+  - DevOps is a cultural shift; tooling alone won’t fix broken communication.
   - Every vendor is solving a specific developer “headache” (security, speed, bugs, etc.).
 - Approached a keynote speaker, received career advice, and earned a CPD certificate for the sessions.
 

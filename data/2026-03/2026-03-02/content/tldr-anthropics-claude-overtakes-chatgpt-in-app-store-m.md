@@ -19,7 +19,7 @@ In the battle forAI supremacy, Anthropic’s Claude has just managed to dethrone
 This sudden surge in the rankings is almost certainly due to public backlash at a recent announcement by OpenAI CEO Sam Altman,released on X, that they would work with the Department of Defense (unofficially titled the Department of War) to deploy artificial intelligence through its classified networks.
 
  This Tweet is currently unavailable. It might be loading or has been removed.
- 
+
 
 This announcement comes on the heels of apublic standby Anthropic CEO Dario Amodei against the unrestricted use of AI by governments, in which he specifically highlighted the dangers of both "mass domestic surveillance" and "fully autonomous weapons" powered by AI.
 
@@ -39,12 +39,12 @@ Loading...
 
 Use this instead
 
- By clicking Sign Me Up, you confirm you are 16+ and agree to our 
+ By clicking Sign Me Up, you confirm you are 16+ and agree to our
 Terms of Use
- and 
+ and
 Privacy Policy
 .
- 
+
 
 Thanks for signing up!
 

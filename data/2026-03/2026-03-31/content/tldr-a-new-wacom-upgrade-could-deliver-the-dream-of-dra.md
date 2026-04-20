@@ -44,9 +44,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -66,7 +66,7 @@ So while we’re not quite there yet for seamless cloud art working that feels l
 
 “Wacom Bridge was designed to remove the barriers of distance for creative professionals, ensuring their Wacom experience remains consistent and precise regardless of their physical location,” said Koji Yano, Head of Creative Experience Unit at Wacom, in a statement. “Integrating with Arch’s powerful workstation infrastructure platform creates an even more compelling solution for studios and individual artists looking to maximise efficiency and creative output in a remote-first world.”
 
-Article continues below 
+Article continues below
 
 ## Remote issues solved?
 
@@ -76,9 +76,9 @@ Wacom Bridge is designed to fix that. Instead of treating your pen like a basic 
 
 It also promises to keep your settings intact, so whether you’re working locally or logging into a remote setup, your shortcuts, pressure curves and preferences stay the same. In theory, that means less time fiddling with setup, and more time actually working. And if Wacom can deliver, that could be genuinely useful, particularly for pro artists and those working on big projects globally.
 
- 
 
-Wacom Bridge promises to get close to the feel of using a drawing tablet when working in the cloud. 
+
+Wacom Bridge promises to get close to the feel of using a drawing tablet when working in the cloud.
 (Image credit: Wacom)
 
 In my own drawing tablet reviews, such as Wacom rival the recentXPPen Artist Pro 27 (Gen 2), I’ve always focused on one thing above all else: how it feels to draw. The responsiveness of the pen, the sense that the tool disappears, and you’re just making marks, theWacom Pro Pen 3excels in this regard. It’s why so many artists stick with Wacom hardware and its drivers, as once that feeling is disrupted, even slightly, it’s hard to ignore.
@@ -92,9 +92,9 @@ Receive email from us on behalf of our trusted partners or sponsors
 
 That’s what makes Wacom Bridge interesting, as it’s not about adding new features to the tablet you own, as such, but instead it’s focusing on preserving that familiar experience while everything else shifts to the cloud. Large studios are increasingly moving work to remote machines for flexibility, security, and access to greater computing power, while freelancers are drawn to the ability to work on a lighter, cheaper device while still tapping into high-end performance when needed.
 
- 
 
-Will you be trying Wacom Bridge and working remotely? 
+
+Will you be trying Wacom Bridge and working remotely?
 (Image credit: Wacom)
 
 ## The catch

@@ -44,7 +44,7 @@ Like, for instance, if the fragile ceasefire is shattered, or if Israel’s esca
 The Australian side was buoyed by Singaporean prime minister Lawrence Wong’sfirm responsethat “we do not plan to restrict exports … we will not do so during this energy crisis.” It was seen as the closest thing to a guarantee that Australia will not see any reduction in supply from our biggest source of refined fuels.
 
 1:34
-Anthony Albanese announces agreement with Singapore to protect mutual energy security – video 
+Anthony Albanese announces agreement with Singapore to protect mutual energy security – video
 
 The energy minister,Chris Bowen, said these kind of diplomatic statements “are often quite nuanced”, calling Wong’s response “as strong as you could expect it to be” in terms of a pledge that Australia will keep getting Singaporean fuel.
 

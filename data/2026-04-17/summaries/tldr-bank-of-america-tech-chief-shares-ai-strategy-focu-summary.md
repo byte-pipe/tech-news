@@ -17,7 +17,7 @@ Key Points:
 
 - **AI Journey Advancements**: Bank of America is shifting from task-specific pilot projects to process transformation.
 - **Governance Focus**: The bank prioritizes governance and return on investment across its entire tech stack.
- 
+
 Process Transformation (Four Areas):
 
 1.  End-to-end Process Transformation

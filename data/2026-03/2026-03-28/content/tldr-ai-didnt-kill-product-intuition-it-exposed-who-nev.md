@@ -21,9 +21,9 @@ Mar 24, 2026
 5
 1
 Share
-Photo by 
+Photo by
 Yibei Geng
- on 
+ on
 Unsplash
 
 A company I worked at decided to implement an affiliate marketing platform. The president had used it at a previous company. It worked there. So, it would work here.
@@ -47,9 +47,9 @@ That project didn’t fail because no one had the answers. It failed because no 
 Thanks for reading Product Party! Subscribe for free to receive new posts and support my work.
 
 Subscribe
-Photo by 
+Photo by
 Edz Norton
- on 
+ on
 Unsplash
 
 ## Product intuition was never about having good ideas
@@ -70,9 +70,9 @@ They’re the questions you already know you should ask but skip because the roo
 
 Share Product Party
 
-Photo by 
+Photo by
 Matt Noble
- on 
+ on
 Unsplash
 
 ## What this actually looks like
@@ -87,9 +87,9 @@ I’ve started doing a version of this with my own projects. Before I build anyt
 
 Leave a comment
 
-Photo by 
+Photo by
 Brett Jordan
- on 
+ on
 Unsplash
 
 ## How to apply this to your next idea

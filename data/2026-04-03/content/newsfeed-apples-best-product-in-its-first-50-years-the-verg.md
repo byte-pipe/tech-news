@@ -27,8 +27,8 @@ On The Vergecast: AI’s pivot to business, and the impossible task of ranking A
 On The Vergecast: AI’s pivot to business, and the impossible task of ranking Apple’s 50 best products.
 
 by
- 
- 
+
+
 David Pierce
 Apr 3, 2026, 12:52 PM UTC
 * Link
@@ -36,9 +36,9 @@ Apr 3, 2026, 12:52 PM UTC
 * Gift
 Part Of
 Apple @ 50
-see all 
+see all
 David Pierce
- 
+
 is editor-at-large and Vergecast co-host with over a decade of experience covering consumer tech. Previously, at Protocol, The Wall Street Journal, and Wired.
 
 All week, we’ve been asking you to help us rank the 50 best products Apple ever made, as we markthe company’s 50th anniversary. Thanks to everyone who pitched in — we ended up with more than 1.6 million votes! We also havelots of other coverage of Apple’s first half century, and you should check it all out. All those votes later, we have some answers. And some thoughts.
@@ -110,19 +110,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

@@ -70,7 +70,7 @@ I do not know where I will be in the next 5 or 10 years. But I am certain about 
 I still remember that, in the early stages of my career, I often thought about quitting. Looking back today, not quitting was one of the best decisions I have ever made. I may not be working at the biggest company or earning the highest salary. But for someone like me — a person who started with nothing and had no background or guidance in this field — this journey itself feels like an achievement.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

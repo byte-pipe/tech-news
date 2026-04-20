@@ -71,13 +71,13 @@ The disclosure comes as Palo Alto Networks Unit 42 alsowarnedof a similar device
 
 The phishing page "disables right-click functionality, text selection, and drag operations," the company said, adding it "blocks keyboard shortcuts for developer tools (F12, Ctrl+Shift+I/C/J) and source viewing (Ctrl+U)" and "detects active developer tools by utilizing a window size heuristic, which subsequently initiates an infinite debugger loop."
 
-Found this article interesting? 
+Found this article interesting?
 This article is a contributed piece from one of our valued partners.
- Follow us on 
+ Follow us on
 Google News
-, 
+,
 Twitter
- and 
+ and
 LinkedIn
  to read more exclusive content we post.
 
@@ -103,25 +103,25 @@ Share
 
 Share
 
-SHARE 
+SHARE
 
 
 CloudFlare
-, 
+,
 cybersecurity
-, 
+,
 email security
-, 
+,
 Identity Security
-, 
+,
 Malware
-, 
+,
 Microsoft 365
-, 
+,
 OAuth
-, 
+,
 Phishing
-, 
+,
 Threat Intelligence
 
 Trending News

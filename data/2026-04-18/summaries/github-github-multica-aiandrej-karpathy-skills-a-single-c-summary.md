@@ -1,7 +1,7 @@
 ---
 title: "GitHub - multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LL..."
 url: https://github.com/multica-ai/andrej-karpathy-skills
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-18T11:41:08.001448

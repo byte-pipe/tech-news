@@ -42,9 +42,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -62,13 +62,13 @@ Penguin Random House's penguin is about as iconic as it gets. But now a new seri
 
 The illustrations were created byMatt Bleaseand show an ensemble cast of penguins skateboarding, jumping and of course, reading. The iconic bird, known internally as 'Alan' won't be going anywhere, however. These new illos are designed to show up in seasonal campaigns, social initiatives to point-of-sale displays, and were created to bring some joy and life to the brand as it approaches its 100th anniversary. So it's not exactly arebrand, but more of a glow up.
 
- 
+
 
 (Image credit: Penguin Random House)
 
 How were these beautiful creations made? Matt shared some of his development sketches on hisInstagram. He dug deep in the Penguin Random House archives for inspiration.
 
-Article continues below 
+Article continues below
 
 A post shared by Matt Blease (@mattblease)
 
@@ -82,13 +82,13 @@ A photo posted by on
 
 I think these are a wonderful addition to Penguin Random House's brand, and draw beautifully on 'Alan', who was last redesigned by Pentagram in 2003. They give the brand a sense of playfulness and fun while also respecting the brand's rich heritage.
 
- 
+
 
 (Image credit: Penguin Random House)
 
 It'd be fun to see even more brands adopt jolly and beautiful iterations of their branding. McDonald's or Coca-Cola illustrations, anyone?
 
- 
+
 
 (Image credit: Penguin Random House)
 Get the Creative Bloq Newsletter

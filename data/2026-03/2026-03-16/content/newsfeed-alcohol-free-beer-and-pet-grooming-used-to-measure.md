@@ -65,5 +65,5 @@ Official forecasters had expected that to drop to 2% by the end of the year, but
 Money
 Personal finance
 Inflation
-Cost of Living 
+Cost of Living
 Office for National Statistics

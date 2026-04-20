@@ -30,7 +30,7 @@ Google said the hacking tools are powerful, as they can bypass an iPhone’s def
 
 According to Wired, whichfirst reported the news, the Coruna kit contains components that were previously used in a hackingcampaign dubbed Operation Triangulation. Russian cybersecurity firm Kaspersky claimed in 2023 that the U.S. government tried to hack several iPhones belonging to its employees.
 
- 
+
 
 Techcrunch event
 
@@ -59,19 +59,19 @@ According to prosecutors, Williams sold exploits that were capable ofhacking int
 Topics
 
 cybercriminals
-, 
+,
 exploits
-, 
+,
 hackers
-, 
+,
 hacks
-, 
+,
 Privacy
-, 
+,
 Security
- 
 
-			Zack Whittaker	
+
+			Zack Whittaker
 
 Security Editor
 
@@ -79,6 +79,6 @@ Zack Whittaker is the security editor at TechCrunch. He also authors the weekly 
 
 He can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, atzack.whittaker@techcrunch.com.
 
- 
+
 
 View Bio

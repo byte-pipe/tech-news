@@ -9,7 +9,7 @@ author: Vegeta9001
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,13 +17,13 @@ r/worldnews
 
 Vegeta9001
 
- 
 
- 
+
+
 
 # Russia took satellite images of U.S. airbase in days before Iranian attack, Ukraine's Zelenskyy says
 
  nbcnews.com
- 
+
 
 Open

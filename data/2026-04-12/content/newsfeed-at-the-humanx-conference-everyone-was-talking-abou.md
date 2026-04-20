@@ -30,7 +30,7 @@ During one of HumanX’s discussions, Sierra co-founder and CEO Bret Taylor (who
 
 The controversies and vacillations can make OpenAI’s seem reactive rather than strategic, as if it’s simply responding to events rather than shaping them. That said, when it comes to prominence and revenue, OpenAI and Anthropic are neck and neck — or at least, that’s how it looks, with some data suggesting thatAnthropic is catching up among business users. The Wall Street Journalrecently analyzedtheir finances, showing that the two companies were “the fastest-growing businesses in the history of tech.” In that sense, perhaps “falling off” for OpenAI just means it’s not the undisputed champ anymore. It has competition — which, in most industries, is normal.
 
- 
+
 
 Techcrunch event
 
@@ -61,26 +61,26 @@ Agentic accomplishments may be a big focus of the tech community currently, sinc
 Topics
 
 AI
-, 
+,
 AI
-, 
+,
 Anthropic
-, 
+,
 ChatGPT
-, 
+,
 claude code
-, 
+,
 OpenAI
-, 
+,
 sam altman
- 
 
-			Lucas Ropek	
+
+			Lucas Ropek
 
 Senior Writer, TechCrunch
 
-		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. 
+		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo.
 
-You can contact Lucas by emailing lucas.ropek@techcrunch.com.	
+You can contact Lucas by emailing lucas.ropek@techcrunch.com.
 
 View Bio

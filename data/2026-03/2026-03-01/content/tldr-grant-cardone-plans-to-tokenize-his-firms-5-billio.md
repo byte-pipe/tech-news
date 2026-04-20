@@ -26,14 +26,14 @@ Email
 ## The real estate investment mogul said his firm, Cardone Capital, is exploring blockchain-based tokens for property holdings as tokenization gains traction.
 
 By
- 
+
 Krisztian Sandor
 |
 Edited by
- 
+
 Stephen Alpher
- 
-Feb 26, 2026, 8:52 p.m. 
+
+Feb 26, 2026, 8:52 p.m.
 Make us preferred on Google
 Grant Cardone (Cardone Capital, modified by CoinDesk)
 
@@ -66,11 +66,11 @@ More For You
 Bitcoin losing trillions in value hasn't stopped traditional giants' interest in digital assets sector
 
 By
- 
+
 Helene Braun
 |
 Edited by
- 
+
 Stephen Alpher
 2 hours ago
 
@@ -83,7 +83,7 @@ What to know:
 * While bitcoin is seen as having achieved institutional legitimacy, broader adoption of altcoins remains constrained by regulatory uncertainty, iConnections CEO Ron Biscardi said.
 Read full story
 Latest Crypto News
- 
+
 
 #### Bitcoin losing trillions in value hasn't stopped traditional giants' interest in digital assets sector
 

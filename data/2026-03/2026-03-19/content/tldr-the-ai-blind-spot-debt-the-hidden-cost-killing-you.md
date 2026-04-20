@@ -13,66 +13,66 @@ tags:
 - tldr
 ---
 
-Join our community of software engineering leaders and aspirational developers. Always 
-								stay in-the-know by getting the most important news and exclusive content delivered 
+Join our community of software engineering leaders and aspirational developers. Always
+								stay in-the-know by getting the most important news and exclusive content delivered
 								fresh to your inbox to learn more about at-scale software development.
-							
+
 
 EMAIL ADDRESS
 
 											REQUIRED
-										
+
 
 SUBSCRIBE
 
 RESUBSCRIPTION REQUIRED
 
 											 
-										
+
 
 										It seems that you've previously unsubscribed from our newsletter
-										in the past. Click the button below to open the re-subscribe form 
-										in a new tab. When you're done, simply close that tab and continue 
+										in the past. Click the button below to open the re-subscribe form
+										in a new tab. When you're done, simply close that tab and continue
 										with this form to complete your subscription.
-									
+
 
 RE-SUBSCRIBE
 
-									The New Stack does not sell your information or share it with 
-									unaffiliated third parties. By continuing, you agree to our 
-									
+									The New Stack does not sell your information or share it with
+									unaffiliated third parties. By continuing, you agree to our
+
 Terms of Use
  and
-									
+
 Privacy Policy
 .
-								
+
 
 								Welcome and thank you for joining The New Stack community!
-							
+
 
 								Please answer a few simple questions to help us deliver the news and resources you are interested in.
-							
+
 
 FIRST NAME
 
 											REQUIRED
-										
+
 
 LAST NAME
 
 											REQUIRED
-										
+
 
 COMPANY NAME
 
 											REQUIRED
-										
+
 
 COUNTRY
 
 											REQUIRED
-										
+
 
 Select ...
 
@@ -599,18 +599,18 @@ Zimbabwe
 ZIPCODE
 
 											REQUIRED
-										
+
 
 								Great to meet you!
-							
+
 
 								Tell us a bit about your job so we can cover the topics you find most relevant.
-							
+
 
 What is your job level?
 
 											REQUIRED
-										
+
 
 Select ...
 
@@ -633,7 +633,7 @@ Other ...
 Which of these most closely describes your job role?
 
 											REQUIRED
-										
+
 
 Select ...
 
@@ -660,7 +660,7 @@ Other ...
 How many employees are in the organization you work with?
 
 											REQUIRED
-										
+
 
 Select ...
 
@@ -683,7 +683,7 @@ I am not working
 What option best describes the type of organization you work for?
 
 											REQUIRED
-										
+
 
 Select ...
 
@@ -700,7 +700,7 @@ Other ...
 Which of the following best describes your organization's primary industry?
 
 											REQUIRED
-										
+
 
 Select ...
 
@@ -759,23 +759,23 @@ Other ...
 LINKEDIN PROFILE URL
 
 											 
-										
+
 
 								Welcome!
-							
 
-We’re so glad you’re here. You can expect all the best TNS content to arrive 
+
+We’re so glad you’re here. You can expect all the best TNS content to arrive
 									Monday through Friday to keep you on top of the news and at the top of your game.
 
 									What’s next?
-								
 
-Check your inbox for a confirmation email where you can adjust your preferences 
+
+Check your inbox for a confirmation email where you can adjust your preferences
 									and even join additional groups.
 
 Follow TNS on your favorite social media networks.
 
 Become aTNS follower on LinkedIn.
 
-Check outthe latest featured and trending storieswhile you wait for your 
+Check outthe latest featured and trending storieswhile you wait for your
 									first TNS newsletter.

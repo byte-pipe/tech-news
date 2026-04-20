@@ -9,7 +9,7 @@ author: These_Distribution61
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 These_Distribution61
 
- 
+
 
 # Hungary confirms it is holding seven Ukrainian bank workers and $80m
 
  bbc.com
- 
+
 
 Open

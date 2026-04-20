@@ -13,7 +13,7 @@ tags:
 ---
 
 Image: Foundry / Matthew Smith
- 
+
 
 Summary created by Smart Answers AI
 
@@ -41,7 +41,7 @@ A 1Hz panel is almost, but not quite, on the level of an e-ink panel, which isn�
 
 Laptop makers have more and more options when it comes to extending battery life, including newPanther Lake processors from Inteland the upcomingSnapdragon X2 Elite from Qualcomm. Add LG’s display to the mix, and you’ll be able to work on presentations, then watch movies on the same laptop well into the evening.
 
- 
+
 
 ### Author: Mark Hachman, Senior Editor, PCWorld
 

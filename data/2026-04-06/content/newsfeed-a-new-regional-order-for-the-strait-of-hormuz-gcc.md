@@ -13,7 +13,7 @@ tags:
 - opinions
 ---
 
-By 
+By
 Sina Emami
 Published On 6 Apr 2026
 6 Apr 2026

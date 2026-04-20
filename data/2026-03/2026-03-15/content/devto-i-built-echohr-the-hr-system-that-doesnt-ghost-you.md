@@ -370,7 +370,7 @@ EchoHR demonstrates how Notion + MCP + AI automation can create a transparent an
 Instead of spreadsheets and disconnected tools, teams get a single lifecycle workspace where every stage is visible and actionable.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -381,7 +381,7 @@ Preview
 Dismiss
 
  View full discussion (38 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

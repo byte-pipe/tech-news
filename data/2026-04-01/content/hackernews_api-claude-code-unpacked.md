@@ -34,7 +34,7 @@ Tools
 Commands
 Start exploring
 ↓
- 
+
 01
 
 ## The Agent Loop
@@ -109,7 +109,7 @@ x
 x
 2
 x
- 
+
 02
 
 ## Architecture Explorer
@@ -164,7 +164,7 @@ skills
  files
 cli
 /
- 
+
 03
 
 ## Tool System
@@ -266,7 +266,7 @@ SubscribePR
 
 Click a tool to see details and source code
 
- 
+
 04
 
 ## Command Catalog
@@ -398,7 +398,7 @@ Advanced & Experimental
 
 Click a command to see details and source code
 
- 
+
 05
 
 ## Hidden Features

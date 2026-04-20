@@ -11,7 +11,7 @@ description: 'Ralph is an autonomous AI agent loop that runs repeatedly until al
 
 snarktank
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.6k
 * Star15.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -142,14 +142,14 @@ cp /path/to/ralph/ralph.sh scripts/ralph/
 #
  Copy the prompt template for your AI tool of choice:
 
-cp /path/to/ralph/prompt.md scripts/ralph/prompt.md 
+cp /path/to/ralph/prompt.md scripts/ralph/prompt.md
 #
  For Amp
 
 #
  OR
 
-cp /path/to/ralph/CLAUDE.md scripts/ralph/CLAUDE.md 
+cp /path/to/ralph/CLAUDE.md scripts/ralph/CLAUDE.md
 #
  For Claude Code
 
@@ -161,19 +161,19 @@ Copy the skills to your Amp or Claude config for use across all projects:
 
 For AMP
 
-cp -r skills/prd 
+cp -r skills/prd
 ~
 /.config/amp/skills/
-cp -r skills/ralph 
+cp -r skills/ralph
 ~
 /.config/amp/skills/
 
 For Claude Code (manual)
 
-cp -r skills/prd 
+cp -r skills/prd
 ~
 /.claude/skills/
-cp -r skills/ralph 
+cp -r skills/ralph
 ~
 /.claude/skills/
 
@@ -202,11 +202,11 @@ Skills are automatically invoked when you ask Claude to:
 Add to~/.config/amp/settings.json:
 
 {
- 
+
 "amp.experimental.autoHandoff"
-: { 
+: {
 "context"
-: 
+:
 90
  }
 }
@@ -264,9 +264,9 @@ Purpose
 
 ralph.sh
 
-The bash loop that spawns fresh AI instances (supports 
+The bash loop that spawns fresh AI instances (supports
 --tool amp
- or 
+ or
 --tool claude
 )
 
@@ -280,7 +280,7 @@ Prompt template for Claude Code
 
 prd.json
 
-User stories with 
+User stories with
 passes
  status (the task list)
 
@@ -379,9 +379,9 @@ Check current state:
 #
  See which stories are done
 
-cat prd.json 
+cat prd.json
 |
- jq 
+ jq
 '
 .userStories[] | {id, title, passes}
 '
@@ -424,48 +424,48 @@ x.com/ryancarson/status/2008548371712135632
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 15.6k
 
  stars
- 
+
 
 ### Watchers
 
 96
 
  watching
- 
+
 
 ### Forks
 
 1.6k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -483,9 +483,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -493,9 +493,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

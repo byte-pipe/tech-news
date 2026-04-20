@@ -11,7 +11,7 @@ description: Contribute to lukilabs/craft-agents-oss development by creating an 
 
 lukilabs
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork622
 * Star4.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -183,7 +183,7 @@ So I can just ask it anything?Yes. That's the core idea behind agent-native soft
 
 macOS / Linux:
 
-curl -fsSL https://agents.craft.do/install-app.sh 
+curl -fsSL https://agents.craft.do/install-app.sh
 |
  bash
 
@@ -194,7 +194,7 @@ irm https:
 agents.craft.do
 /
 install-app.ps1
- 
+
 |
  iex
 
@@ -398,7 +398,7 @@ No
 
 —
 
-Path to PEM certificate file (enables 
+Path to PEM certificate file (enables
 wss://
 )
 
@@ -499,7 +499,7 @@ bun run apps/cli/src/index.ts --help
 alias
  craft-cli=
 "
-bun run 
+bun run
 $(
 pwd
 )
@@ -525,7 +525,7 @@ your-token
 #
  Or via flags
 
-craft-cli --url ws://127.0.0.1:9100 --token 
+craft-cli --url ws://127.0.0.1:9100 --token
 <
 token
 >
@@ -571,7 +571,7 @@ session create
 
 Create a session (
 --name
-, 
+,
 --mode
 )
 
@@ -605,7 +605,7 @@ Self-contained: spawn server, run prompt, stream response, exit
 
 --validate-server
 
-21-step integration test (auto-spawns server if no 
+21-step integration test (auto-spawns server if no
 --url
 )
 
@@ -633,9 +633,9 @@ Enable a source (repeatable)
 
 text
 
-Output format: 
+Output format:
 text
- or 
+ or
 stream-json
 
 --mode <mode>
@@ -662,17 +662,17 @@ anthropic
 
 LLM provider (
 anthropic
-, 
+,
 openai
-, 
+,
 google
-, 
+,
 openrouter
-, 
+,
 groq
-, 
+,
 mistral
-, 
+,
 xai
 , etc.)
 
@@ -680,11 +680,11 @@ xai
 
 (provider default)
 
-Model ID (e.g., 
+Model ID (e.g.,
 claude-sonnet-4-5-20250929
-, 
+,
 gpt-4o
-, 
+,
 gemini-2.0-flash
 )
 
@@ -692,7 +692,7 @@ gemini-2.0-flash
 
 —
 
-API key (or 
+API key (or
 $LLM_API_KEY
 , or provider-specific env var)
 
@@ -719,7 +719,7 @@ craft-cli sessions
 #
  Send a message and stream the AI response
 
-craft-cli send abc-123 
+craft-cli send abc-123
 "
 What files are in the current directory?
 "
@@ -728,20 +728,20 @@ What files are in the current directory?
  Pipe input
 
 echo
- 
+
 "
 Summarize this
 "
- 
+
 |
  craft-cli send abc-123
 
 #
  JSON output for scripting
 
-craft-cli --json workspaces 
+craft-cli --json workspaces
 |
- jq 
+ jq
 '
 .[].name
 '
@@ -749,12 +749,12 @@ craft-cli --json workspaces
 #
  Self-contained run (spawns its own server)
 
-craft-cli run 
+craft-cli run
 "
 Summarize the README
 "
 
-craft-cli run --workspace-dir ./my-project --source github 
+craft-cli run --workspace-dir ./my-project --source github
 "
 List open PRs
 "
@@ -762,19 +762,19 @@ List open PRs
 #
  Multi-provider support
 
-craft-cli run --provider openai --model gpt-4o 
+craft-cli run --provider openai --model gpt-4o
 "
 Summarize this repo
 "
 
-GOOGLE_API_KEY=... craft-cli run --provider google --model gemini-2.0-flash 
+GOOGLE_API_KEY=... craft-cli run --provider google --model gemini-2.0-flash
 "
 Hello
 "
 
-craft-cli run --provider anthropic --base-url https://openrouter.ai/api/v1 --api-key 
+craft-cli run --provider anthropic --base-url https://openrouter.ai/api/v1 --api-key
 $OR_KEY
- 
+
 "
 Hello
 "
@@ -783,7 +783,7 @@ Hello
  Validate the server (auto-spawns if no --url)
 
 craft-cli --validate-server
-craft-cli --validate-server --url ws://127.0.0.1:9100 --token 
+craft-cli --validate-server --url ws://127.0.0.1:9100 --token
 <
 token
 >
@@ -886,26 +886,26 @@ Go toAPIs & Services → Libraryand enable the APIs you need:
 When setting up a Google source (Gmail, Calendar, Drive, YouTube, Search Console, etc.), add these fields to your source'sconfig.json:
 
 {
- 
+
 "api"
 : {
- 
+
 "googleService"
-: 
+:
 "
 gmail
 "
 ,
- 
+
 "googleOAuthClientId"
-: 
+:
 "
 your-client-id.apps.googleusercontent.com
 "
 ,
- 
+
 "googleOAuthClientSecret"
-: 
+:
 "
 your-client-secret
 "
@@ -971,9 +971,9 @@ OpenRouter
 
 https://openrouter.ai/api
 
-Access Claude, GPT, Llama, Gemini, and hundreds of other models through a single API key. Use 
+Access Claude, GPT, Llama, Gemini, and hundreds of other models through a single API key. Use
 provider/model-name
- format (e.g. 
+ format (e.g.
 anthropic/claude-opus-4.7
 ).
 
@@ -1035,51 +1035,51 @@ Just ask the agent:
 Or configure manually in~/.craft-agent/workspaces/{id}/automations.json:
 
 {
- 
+
 "version"
-: 
+:
 2
 ,
- 
+
 "automations"
 : {
- 
+
 "SchedulerTick"
 : [
  {
- 
+
 "cron"
-: 
+:
 "
 0 9 * * 1-5
 "
 ,
- 
+
 "timezone"
-: 
+:
 "
 America/New_York
 "
 ,
- 
+
 "labels"
 : [
 "
 Scheduled
 "
 ],
- 
+
 "actions"
 : [
- { 
+ {
 "type"
-: 
+:
 "
 prompt
 "
-, 
+,
 "prompt"
-: 
+:
 "
 Check @github for new issues assigned to me
 "
@@ -1087,29 +1087,29 @@ Check @github for new issues assigned to me
  ]
  }
  ],
- 
+
 "LabelAdd"
 : [
  {
- 
+
 "matcher"
-: 
+:
 "
 ^urgent$
 "
 ,
- 
+
 "actions"
 : [
- { 
+ {
 "type"
-: 
+:
 "
 prompt
 "
-, 
+,
 "prompt"
-: 
+:
 "
 An urgent label was added. Triage the session and summarise what needs attention.
 "
@@ -1187,24 +1187,24 @@ To launch the packaged app with verbose logging enabled, use-- --debug(note the 
 macOS:
 
 /Applications/Craft
-\ 
+\
 Agents.app/Contents/MacOS/Craft
-\ 
+\
 Agents -- --debug
 
 Windows (PowerShell):
 
 &
- 
+
 "
 $
 env:
 LOCALAPPDATA
 \Programs\@craft-agentelectron\Craft Agents.exe
 "
- 
+
 --
- 
+
 --
 debug
 
@@ -1251,72 +1251,72 @@ To report security vulnerabilities, please seeSECURITY.md.
 ## About
 
  No description, website, or topics provided.
- 
+
 
 ### Resources
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 4.2k
 
  stars
- 
+
 
 ### Watchers
 
 19
 
  watching
- 
+
 
 ### Forks
 
 622
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases56
 
@@ -1324,11 +1324,11 @@ v0.8.9
 
  Latest
 
- 
+
 
 Apr 16, 2026
 
- 
+
 
 + 55 releases
 
@@ -1344,9 +1344,9 @@ Apr 16, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1354,9 +1354,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -36,17 +36,17 @@ If you’re on an older version (or fine-tuning locally), update first:
 
 Copy
 pip
- 
+
 install
- 
+
 --upgrade
- 
+
 --force-reinstall
- 
+
 --no-cache-dir
- 
+
 unsloth
- 
+
 unsloth_zoo
 circle-exclamation
 

@@ -11,7 +11,7 @@ description: Agent harness built with LangChain and LangGraph. Equipped with a p
 
 langchain-ai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.9k
 * Star12.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -144,24 +144,24 @@ pip install deepagents
 uv add deepagents
 
 from
- 
+
 deepagents
- 
+
 import
- 
+
 create_deep_agent
 
 agent
- 
+
 =
- 
+
 create_deep_agent
 ()
 
 result
- 
+
 =
- 
+
 agent
 .
 invoke
@@ -169,11 +169,11 @@ invoke
 "messages"
 : [{
 "role"
-: 
+:
 "user"
-, 
+,
 "content"
-: 
+:
 "Research LangGraph and write a summary"
 }]})
 
@@ -188,35 +188,35 @@ For developing, debugging, and deploying AI agents and LLM applications, seeLang
 Add your own tools, swap models, customize prompts, configure sub-agents, and more. See thedocumentationfor full details.
 
 from
- 
+
 langchain
 .
 chat_models
- 
+
 import
- 
+
 init_chat_model
 
 agent
- 
+
 =
- 
+
 create_deep_agent
 (
- 
+
 model
 =
 init_chat_model
 (
 "openai:gpt-4o"
 ),
- 
+
 tools
 =
 [
 my_custom_tool
 ],
- 
+
 system_prompt
 =
 "You are a research assistant."
@@ -227,7 +227,7 @@ MCP is supported vialangchain-mcp-adapters.
 
 ## Deep Agents CLI
 
-curl -LsSf https://raw.githubusercontent.com/langchain-ai/deepagents/main/libs/cli/scripts/install.sh 
+curl -LsSf https://raw.githubusercontent.com/langchain-ai/deepagents/main/libs/cli/scripts/install.sh
 |
  bash
 
@@ -290,66 +290,66 @@ docs.langchain.com/deepagents
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 12.1k
 
  stars
- 
+
 
 ### Watchers
 
 80
 
  watching
- 
+
 
 ### Forks
 
 1.9k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases70
 
@@ -357,11 +357,11 @@ deepagents==0.4.11
 
  Latest
 
- 
+
 
 Mar 13, 2026
 
- 
+
 
 + 69 releases
 
@@ -369,9 +369,9 @@ Mar 13, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors91
 

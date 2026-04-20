@@ -35,7 +35,7 @@ x
 y
 (
 -3
-, 
+,
 9
 )
 -3
@@ -53,7 +53,7 @@ x = 2 → y = 2² = 4 → plot (2, 4)
 x = 2.5 → y = 2.5² = 6.25 → plot (2.5, 6.25)
 x = 3 → y = 3² = 9 → plot (3, 9)
 1
- / 
+ /
 13
 
 Each step picks anxxxvalue, squares it to getyyy, and places a dot at that coordinate. As the points accumulate, a curve appears: the parabola. The equation defined the shape all along; we just needed enough points to see it.
@@ -99,20 +99,20 @@ Despite the name, elliptic curves have nothing to do with ellipses. The name com
 The constantsaaaandbbbdetermine the curve's shape. Adjust the sliders below and watch the curve change. Click anywhere on the curve to place a point:
 
 Elliptic curve explorer
-y² = x³ 
+y² = x³
 −
- 
+
 1.0
-x 
+x
 +
- 
+
 1.0
 x
 y
 Click on the curve to place a point
-a = 
+a =
 -1.0
-b = 
+b =
 1.0
 
 Click a few different spots. Every point you place has a mirror: if(x,y)(x, y)(x,y)is on the curve, then(x,−y)(x, -y)(x,−y)is too, because squaring a negative number gives the same result as squaring its positive counterpart ((−y)2=y2(-y)^2 = y^2(−y)2=y2). The curve is always symmetric across the x-axis. This symmetry will matter when we define addition.
@@ -145,22 +145,22 @@ Q
 P+Q
 P = (
 -1.50
-, 
+,
 1.90
 )
 Q = (
 1.80
-, 
+,
 2.50
 )
 P+Q = (
 -0.27
-, 
+,
 -2.13
 )
-P.x = 
+P.x =
 -1.5
-Q.x = 
+Q.x =
 1.8
 
 The dashed line goes throughPPPandQQQ. It hits the curve atR′R'R′(the unfilled circle). ReflectingR′R'R′over the x-axis gives usP+QP + QP+Q(the red point).
@@ -307,13 +307,13 @@ Step through the computation ofnGnGnGon a small curve:
 Scalar multiplication
 y² = x³ − 2x + 4,   G = (
 -1.5
-, 
+,
 1.9
 )
 G
 x
 y
-n = 
+n =
 8
 1G = (-1.50, 1.90)
 2G = (4.56, -9.46)
@@ -324,7 +324,7 @@ n =
 7G = (35.99, 215.73)
 8G = (-1.95, 0.68)
 1
- / 
+ /
 8
 
 Watch the points hop around in what looks like a random pattern. Even on this small curve, there's no visible relationship betweennnnand the position ofnGnGnG. The points don't march along the curve in any recognizable order. They scatter unpredictably.
@@ -344,15 +344,15 @@ Step through a brute-force search to see what "going backward" looks like:
 Brute-force ECDLP search
 Given G
 :
- 
+
 (-1.5, 1.9)
 Given Q = nG
 :
- 
+
 (1.57, 2.17)
 Find
 :
- 
+
 n = ?
 Q
 G
@@ -360,9 +360,9 @@ G
 G
 x
 y
-Tried 
+Tried
 1
- of 
+ of
 12
  values. No match yet
 1G = (-1.50, 1.90). No match
@@ -378,7 +378,7 @@ Tried
 11G = (1.70, -2.34). No match
 12G = (1.57, 2.17). Match!
 1
- / 
+ /
 12
 
 On the small curve in this demo, the search finishes quickly becausennnis small. In real cryptography,nnnis roughly22562^{256}2256(a number with 77 digits). Even the best known algorithms would need about21282^{128}2128operations. If every computer on Earth worked on the problem, it would take longer than the age of the universe.
@@ -432,11 +432,11 @@ The visual result is completely different. The smooth curve becomes a scattered 
 Elliptic curve over a finite field
 Curve
 :
- 
+
 y² ≡ x³ + 1x + 6 (mod 23)
 Points
 :
- 
+
 20
 Field size:
 p = 23
@@ -470,37 +470,37 @@ Adjust the private keys below and watch the shared secret update:
 ECDH key exchange
 Curve
 :
- 
+
 y² = x³ + 1x + 6 (mod 23)
 G
 :
- 
+
 (7, 3)
 Order
 :
- 
+
 29
 Alice
-Private key: 
-a = 
+Private key:
+a =
 7
-Public key: 
-aG = 
+Public key:
+aG =
 (9, 12)
-Computes: a(bG) = 
+Computes: a(bG) =
 (4, 7)
 Bob
-Private key: 
-b = 
+Private key:
+b =
 13
-Public key: 
-bG = 
+Public key:
+bG =
 (15, 17)
-Computes: b(aG) = 
+Computes: b(aG) =
 (4, 7)
-Alice a = 
+Alice a =
 7
-Bob b = 
+Bob b =
 13
 
 Both sides always arrive at the same point. In practice, the shared secret (usually just the x-coordinate of this point) is fed through a key derivation function to produce a symmetric encryption key, which is then used to encrypt the actual conversation.
@@ -532,39 +532,39 @@ The math works out so that only someone who knowsdddcan produce a valid(r,s)(r, 
 ECDSA sign and verify
 G
 :
- 
+
 (7, 3)
 n (order)
 :
- 
+
 29
 Public key Q
 :
- 
+
 (14, 5)
 Signing
-1. Pick random k = 
+1. Pick random k =
 5
-2. R = kG = 
+2. R = kG =
 (1, 12)
-3. r = R.x mod n = 
+3. r = R.x mod n =
 1
-4. s = k⁻¹(m + r·d) mod n = 
+4. s = k⁻¹(m + r·d) mod n =
 16
-Signature: 
+Signature:
 (r=1, s=16)
 Verification
-1. u₁ = m·s⁻¹ mod n = 
+1. u₁ = m·s⁻¹ mod n =
 8
-2. u₂ = r·s⁻¹ mod n = 
+2. u₂ = r·s⁻¹ mod n =
 20
-3. R' = u₁G + u₂Q = 
+3. R' = u₁G + u₂Q =
 (1, 12)
-4. v = R'.x mod n = 
+4. v = R'.x mod n =
 1
-v 
+v
 ==
- r → 
+ r →
 VALID
 d=
 10
@@ -603,45 +603,45 @@ Try the demo below (using simplifiedXORencryption instead of AES to keep the dem
 ECIES hybrid encryption
 Curve
 :
- 
+
 y² = x³ + 1x + 6 (mod 23)
 G
 :
- 
+
 (7, 3)
 Bob's public key Q_B
 :
- 
+
 (11, 9)
 Message
 Encryption (Alice)
-1. Random ephemeral r = 
+1. Random ephemeral r =
 7
-2. Ephemeral public R = rG = 
+2. Ephemeral public R = rG =
 (9, 12)
-3. Shared secret S = r·Q_B = 
+3. Shared secret S = r·Q_B =
 (14, 18)
-4. Symmetric key k = S.x = 
+4. Symmetric key k = S.x =
 14
 5. Ciphertext = encrypt(msg, k)
-Send (R, 
+Send (R,
 46672e4c616c
 ...
 ) to Bob
 Decryption (Bob)
 1. Receive (R, ciphertext)
-2. Shared secret S = d_B·R = 
+2. Shared secret S = d_B·R =
 (14, 18)
-3. Symmetric key k = S.x = 
+3. Symmetric key k = S.x =
 14
 4. Plaintext = decrypt(ciphertext, k)
-Decrypted: 
+Decrypted:
 "
 Hi Bob
 "
-Bob d_B = 
+Bob d_B =
 11
-Alice r = 
+Alice r =
 7
 
 ECIES lets you encrypt a message directly to someone's public key without a prior key exchange. Full ECIES specifications also include a key derivation function (KDF) and a MAC or AEAD scheme for integrity. Ethereum's devp2p/RLPx protocol uses ECIES during the handshake to establish shared session keys; the ongoing transport then uses symmetric encryption. Signal Protocol uses a variant called the X3DH key agreement protocol that builds on similar elliptic curve principles.

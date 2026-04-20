@@ -92,7 +92,7 @@ Triangle
 * The system that intercepted Iran’s missilesover the UAE
 * Listen:The Pentagon vs. “woke” Anthropic
 Julian Chokkattu
- is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ... 
+ is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ...
 Read More
 Senior Editor, Gear
 * LinkedIn

@@ -13,23 +13,23 @@ tags:
 
 An article from
 
- 
+
  Dive Brief
- 
- 
+
+
 
 # AI drives global fraud surge
 
 Losses to fraud and scams climbed 9.2% in 2025, with much of the increase attributed to bad actors leveraging artificial intelligence, said a report from Nasdaqâ€™s Verafin software unit.
 
  Published March 13, 2026
- 
+
 
  Fraud increased across the globe, according to a study from Nasdaq Verafin.
- 
+
 
  Getty Images
- 
+
 
 ### Dive Brief:
 
@@ -74,8 +74,8 @@ Security experts and consultants say common scams have largely stayed the same â
 
 Filed Under:
 
-Regulations & Policy, 
+Regulations & Policy,
 
-Risk, 
+Risk,
 
 Technology

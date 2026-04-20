@@ -11,7 +11,7 @@ description: Test your prompts, agents, and RAGs. AI Red teaming, pentesting, an
 
 promptfoo
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork1.1k
 * Star11.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -314,7 +314,7 @@ Once you're in the example directory, run an eval and view results:
 
 cd
  getting-started
-promptfoo 
+promptfoo
 eval
 
 promptfoo view
@@ -409,66 +409,66 @@ promptfoo.dev
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 11.5k
 
  stars
- 
+
 
 ### Watchers
 
 35
 
  watching
- 
+
 
 ### Forks
 
 1.1k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases397
 
@@ -476,11 +476,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Mar 9, 2026
 
- 
+
 
 + 396 releases
 
@@ -488,7 +488,7 @@ Mar 9, 2026
 
  
 
- 
+
 
  Sponsor
 
@@ -496,11 +496,11 @@ Mar 9, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -516,14 +516,14 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Used by303
 
  + 295
- 
+
 
 ## Contributors
 
@@ -531,9 +531,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -12,8 +12,8 @@ summarized_at: 2026-03-07T06:01:57.480891
 # Watch: Loose turkey gives police runaround in Georgia
 
 ## Summary
-- A turkey named Henry blocked a road outside Marietta, Georgia, and would not leave the scene.  
-- Cobb County police made multiple attempts to move the bird, but Henry’s defiance forced the officers to retreat each time.  
-- The incident was captured on body‑camera footage and drew public attention.  
-- No police officers or turkeys were harmed during the encounter.  
+- A turkey named Henry blocked a road outside Marietta, Georgia, and would not leave the scene.
+- Cobb County police made multiple attempts to move the bird, but Henry’s defiance forced the officers to retreat each time.
+- The incident was captured on body‑camera footage and drew public attention.
+- No police officers or turkeys were harmed during the encounter.
 - After several failed attempts, Henry was finally and safely removed from the road.

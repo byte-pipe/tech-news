@@ -31,16 +31,16 @@ Let's give a round of applause to our winners!
 WeCoded 2026: Echoes of Experience 💜
 
  Ava Barron
- 
+
 
  Ava Barron
- 
- 
+
+
 
 Ava Barron
 
  Follow
- 
+
 
 Mar 30
 
@@ -67,7 +67,7 @@ Comments
  comment
 
  8 min read
- 
+
 
 @it_is_margarita
  tells the story about three generations of a family (a factory worker, a librarian, and a young reader) all drawn to logic and systems. Their reflection on what equity actually looks like is one of the most thoughtful takes we received.
@@ -75,16 +75,16 @@ Comments
 WeCoded 2026: Echoes of Experience 💜
 
  Margarita
- 
+
 
  Margarita
- 
- 
+
+
 
 Margarita
 
  Follow
- 
+
 
 Mar 23
 
@@ -110,7 +110,7 @@ Comments
 Add Comment
 
  4 min read
- 
+
 
 @earlgreyhot1701d
  came to a SheBuilds event on International Women's Day with a detailed exit strategy and a fully scoped brief for a concert history tracker she had built with Claude the night before. The decision to stay didn't just lead to a finished app, but a new understanding of what it means to build.
@@ -118,16 +118,16 @@ Add Comment
 WeCoded 2026: Echoes of Experience 💜
 
  L. Cordero
- 
+
 
  L. Cordero
- 
- 
+
+
 
 L. Cordero
 
  Follow
- 
+
 
 Mar 9
 
@@ -154,28 +154,28 @@ Comments
  comments
 
  5 min read
- 
+
 
 ### Frontend Art: Gender Equity Winners
 
 @anchildress1
- designed, wrote, narrated, and produced 
+ designed, wrote, narrated, and produced
 Carbon Trace
 : an immersive web experience about growing up in an Appalachian coal town and finding her way into engineering. She voiced it herself (in her native accent), backed it with 685 unit tests and 220 E2E tests, and brought full backend discipline to a frontend art project.
 
 WeCoded 2026: Frontend Art 💜
 
  Ashley Childress
- 
+
 
  Ashley Childress
- 
- 
+
+
 
 Ashley Childress
 
  Follow
- 
+
 
 Apr 3
 
@@ -202,7 +202,7 @@ Comments
  comments
 
  12 min read
- 
+
 
 @nickwatton
  built a particle system animation of gender flags in celebration of their trans son. It's personal, it's beautiful, and shared with the hope that others will learn from it and make it their own.
@@ -210,16 +210,16 @@ Comments
 WeCoded 2026: Frontend Art 💜
 
  Nick Watton
- 
+
 
  Nick Watton
- 
- 
+
+
 
 Nick Watton
 
  Follow
- 
+
 
 Mar 22
 
@@ -245,7 +245,7 @@ Comments
 Add Comment
 
  1 min read
- 
+
 
 @commonlayer
  built an interactive terminal experience where the medium is the message: a genderless 3D face, a monochrome screen, and a path you have to walk yourself. Each command is imbued with meaning to reinforce the idea that we all must make our own path, "not just watch it go by."
@@ -253,16 +253,16 @@ Add Comment
 WeCoded 2026: Frontend Art 💜
 
  Florent Cleron
- 
+
 
  Florent Cleron
- 
- 
+
+
 
 Florent Cleron
 
  Follow
- 
+
 
 Mar 18
 
@@ -288,7 +288,7 @@ Comments
 Add Comment
 
  2 min read
- 
+
 
 Our winners will receive aDEV++ Membershipand an exclusive DEV badge.
 
@@ -301,17 +301,17 @@ TheOpenClaw Challengeis running throughApril 26with a$1,200 prize poolacross two
 Share your OpenClaw experience
 
  Jess Lee
- 
+
 
  Jess Lee
- 
+
 
 Jess Lee
 
  Follow
- 
 
- for 
+
+ for
 The DEV Team
 
 Apr 16
@@ -339,14 +339,14 @@ Comments
  comments
 
  4 min read
- 
+
 
 Thank you to everyone who took the time to write, share, and support one another during this challenge. You make DEV a better place.
 
 See you at the next one!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

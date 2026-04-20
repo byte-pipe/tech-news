@@ -59,7 +59,7 @@ Without BECCS it might be unclear how we get CO2 levels back down, but for now t
 Topics:
 
 * climate
- 
+
 
 Advertisement
 
@@ -95,9 +95,9 @@ News
 
 Features
 
- 
 
- 
+
+
 
 #### 1
 

@@ -11,7 +11,7 @@ description: PersonaPlex code. Contribute to NVIDIA/personaplex development by c
 
 NVIDIA
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.1k
 * Star7.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -150,7 +150,7 @@ $(
 mktemp -d
 )
 ;
- python -m moshi.server --ssl 
+ python -m moshi.server --ssl
 "
 $SSL_DIR
 "
@@ -162,7 +162,7 @@ $(
 mktemp -d
 )
 ;
- python -m moshi.server --ssl 
+ python -m moshi.server --ssl
 "
 $SSL_DIR
 "
@@ -186,23 +186,23 @@ TOKEN
 >
  \
 python -m moshi.offline \
- --voice-prompt 
+ --voice-prompt
 "
 NATF2.pt
 "
  \
- --input-wav 
+ --input-wav
 "
 assets/test/input_assistant.wav
 "
  \
  --seed 42424242 \
- --output-wav 
+ --output-wav
 "
 output.wav
 "
  \
- --output-text 
+ --output-text
 "
 output.json
 "
@@ -215,30 +215,30 @@ TOKEN
 >
  \
 python -m moshi.offline \
- --voice-prompt 
+ --voice-prompt
 "
 NATM1.pt
 "
  \
- --text-prompt 
+ --text-prompt
 "
 $(
 cat assets/test/prompt_service.txt
 )
 "
  \
- --input-wav 
+ --input-wav
 "
 assets/test/input_service.wav
 "
  \
  --seed 42424242 \
- --output-wav 
+ --output-wav
 "
 output.wav
 "
  \
- --output-text 
+ --output-text
 "
 output.json
 "
@@ -308,55 +308,55 @@ If you use PersonaPlex in your research, please cite our paper:
 {
 roy2026personaplexvoicerolecontrol
 ,
- 
+
 title
 =
 {
 PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models
 }
-, 
- 
+,
+
 author
 =
 {
 Rajarshi Roy and Jonathan Raiman and Sang-gil Lee and Teodor-Dumitru Ene and Robert Kirby and Sungwon Kim and Jaehyeon Kim and Bryan Catanzaro
 }
 ,
- 
+
 year
 =
 {
 2026
 }
 ,
- 
+
 eprint
 =
 {
 2602.06053
 }
 ,
- 
+
 archivePrefix
 =
 {
 arXiv
 }
 ,
- 
+
 primaryClass
 =
 {
 cs.CL
 }
 ,
- 
+
 url
 =
 {
 https://arxiv.org/abs/2602.06053
 }
-, 
+,
 }
 
 ## About
@@ -367,51 +367,51 @@ PersonaPlex code.
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 7.2k
 
  stars
- 
+
 
 ### Watchers
 
 86
 
  watching
- 
+
 
 ### Forks
 
 1.1k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -429,9 +429,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -439,9 +439,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -11,7 +11,7 @@ description: 'You like pytorch? You like micrograd? You love tinygrad! ❤️ - 
 
 tinygrad
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork4k
 * Star31.8k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -158,7 +158,7 @@ TVM
 
 Try a matmul. See how, despite the style, it is fused into one kernel with the power of laziness.
 
-DEBUG=3 python3 -c 
+DEBUG=3 python3 -c
 "
 from tinygrad import Tensor;
 
@@ -175,74 +175,74 @@ As it turns out, 90% of what you need for neural networks are a decent autograd/
 Throw in an optimizer, a data loader, and some compute, and you have all you need.
 
 from
- 
+
 tinygrad
- 
+
 import
- 
+
 Tensor
-, 
+,
 nn
 
 class
- 
+
 LinearNet
 :
- 
+
 def
- 
+
 __init__
 (
 self
 ):
- 
+
 self
 .
 l1
- 
+
 =
- 
+
 Tensor
 .
 kaiming_uniform
 (
 784
-, 
+,
 128
 )
- 
+
 self
 .
 l2
- 
+
 =
- 
+
 Tensor
 .
 kaiming_uniform
 (
 128
-, 
+,
 10
 )
- 
+
 def
- 
+
 __call__
 (
 self
-, 
+,
 x
 :
 Tensor
-) 
+)
 ->
- 
+
 Tensor
 :
- 
+
 return
- 
+
 x
 .
 flatten
@@ -265,16 +265,16 @@ l2
 )
 
 model
- 
+
 =
- 
+
 LinearNet
 ()
 
 optim
- 
+
 =
- 
+
 nn
 .
 optim
@@ -284,34 +284,34 @@ Adam
 model
 .
 l1
-, 
+,
 model
 .
 l2
-], 
+],
 lr
 =
 0.001
 )
 
 x
-, 
+,
 y
- 
+
 =
- 
+
 Tensor
 .
 rand
 (
 4
-, 
+,
 1
-, 
+,
 28
-, 
+,
 28
-), 
+),
 Tensor
 ([
 2
@@ -321,36 +321,36 @@ Tensor
 3
 ,
 7
-]) 
+])
 # replace with real mnist dataloader
 
 with
- 
+
 Tensor
 .
 train
 ():
- 
+
 for
- 
+
 i
- 
+
 in
- 
+
 range
 (
 10
 ):
- 
+
 optim
 .
 zero_grad
 ()
- 
+
 loss
- 
+
 =
- 
+
 model
 (
 x
@@ -361,16 +361,16 @@ y
 ).
 backward
 ()
- 
+
 optim
 .
 step
 ()
- 
+
 print
 (
 i
-, 
+,
 loss
 .
 item
@@ -405,7 +405,7 @@ git clone https://github.com/tinygrad/tinygrad.git
 
 cd
  tinygrad
-python3 -m pip install -e 
+python3 -m pip install -e
 .
 
 ### Direct (master)
@@ -419,32 +419,32 @@ Documentation along with a quick start guide can be found on thedocs websitebuil
 ### Quick example comparing to PyTorch
 
 from
- 
+
 tinygrad
- 
+
 import
- 
+
 Tensor
 
 x
- 
+
 =
- 
+
 Tensor
 .
 eye
 (
 3
-, 
+,
 requires_grad
 =
 True
 )
 
 y
- 
+
 =
- 
+
 Tensor
 ([[
 2.0
@@ -453,16 +453,16 @@ Tensor
 ,
 -
 2.0
-]], 
+]],
 requires_grad
 =
 True
 )
 
 z
- 
+
 =
- 
+
 y
 .
 matmul
@@ -484,7 +484,7 @@ x
 grad
 .
 tolist
-()) 
+())
 # dz/dx
 
 print
@@ -494,34 +494,34 @@ y
 grad
 .
 tolist
-()) 
+())
 # dz/dy
 
 The same thing but in PyTorch:
 
 import
- 
+
 torch
 
 x
- 
+
 =
- 
+
 torch
 .
 eye
 (
 3
-, 
+,
 requires_grad
 =
 True
 )
 
 y
- 
+
 =
- 
+
 torch
 .
 tensor
@@ -532,16 +532,16 @@ tensor
 ,
 -
 2.0
-]], 
+]],
 requires_grad
 =
 True
 )
 
 z
- 
+
 =
- 
+
 y
 .
 matmul
@@ -563,7 +563,7 @@ x
 grad
 .
 tolist
-()) 
+())
 # dz/dx
 
 print
@@ -573,7 +573,7 @@ y
 grad
 .
 tolist
-()) 
+())
 # dz/dy
 
 ## Contributing
@@ -605,19 +605,19 @@ For more examples on how to run the full test suite please refer to theCI workfl
 
 Some examples of running tests locally:
 
-python3 -m pip install -e 
+python3 -m pip install -e
 '
 .[testing]
 '
- 
+
 #
  install extra deps for testing
 
-python3 test/backend/test_ops.py 
+python3 test/backend/test_ops.py
 #
  just the ops tests
 
-python3 -m pytest test/ 
+python3 -m pytest test/
 #
  whole test suite
 
@@ -633,51 +633,51 @@ You like pytorch? You like micrograd? You love tinygrad! ❤️
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 31.8k
 
  stars
- 
+
 
 ### Watchers
 
 278
 
  watching
- 
+
 
 ### Forks
 
 4k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases14
 
@@ -685,11 +685,11 @@ tinygrad 0.12.0
 
  Latest
 
- 
+
 
 Jan 12, 2026
 
- 
+
 
 + 13 releases
 
@@ -705,9 +705,9 @@ Jan 12, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors455
 

@@ -90,7 +90,7 @@ Once the network setup is done. I start two compute instances, one on AWS and on
 On AWS, I verify the Security Group accepts ingress traffic on TCP:8080. I connect to the machine and I start a minimal web server:
 
 python3 -c \
-"from http.server import HTTPServer, BaseHTTPRequestHandler 
+"from http.server import HTTPServer, BaseHTTPRequestHandler
 class H(BaseHTTPRequestHandler):
  def do_GET(self):
  self.send_response(200);self.end_headers()

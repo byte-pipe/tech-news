@@ -13,21 +13,21 @@ tags:
 - trending
 ---
 
-Illustration by Tag Hartman-Simkins / Futurism. Source: Getty Images			
+Illustration by Tag Hartman-Simkins / Futurism. Source: Getty Images
 
 ## Sign up to see the future, today
 
- 
+
 
 Can’t-miss innovations from the bleeding edge of science and tech
 
 Email address
 
- Sign Up 
+ Sign Up
 
 Thank you!
 
- 
+
 
 The Condé Nast-ownedArs Technicahas terminated senior AI reporter Benj Edwards following a controversy over his role in the publication and retraction of an article that included AI-fabricated quotes,Futurismhas confirmed.
 
@@ -43,9 +43,9 @@ Edwards also stressed that his colleague Kyle Orland, the site’s senior gaming
 
 Sorry all this is my fault; and speculation has grown worse because I have been sick in bed with a high fever and unable to reliably address it (still am sick)I was told by management not to comment until they did. Here is my statement in images belowarstechnica.com/staff/2026/0…
 
-— 
+—
 Benj Edwards (@benjedwards.com)
- 
+
 2026-02-15T21:02:58.876Z
 
 The controversy was met with a wave of pushback and speculation fromArsreaders, many of whom expressed deep frustration and disappointment in alengthy comment threadon the website. On February 27,Arscreative director Aurich Lawson, while closing the comment thread,saidthat “Arshas completed its review of this matter” and that “the appropriate internal steps have been taken.”

@@ -15,18 +15,18 @@ tags:
 
 # What AI coding costs you
 
- 
- 
- February 15, 2026 
- 
- 
- 
+
+
+ February 15, 2026
+
+
+
 ai
 claude
 essay
- 
- 
- 
+
+
+
 
 Every developer I know uses AI for coding now. The productivity gains are real, but there are costs that don’t show up on any dashboard.
 

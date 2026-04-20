@@ -15,7 +15,7 @@ tags:
 ---
 
 Stanford Medicine researchers have developed an intranasal vaccine that protects mice against respiratory viruses, bacteria and allergens.
- 
+
 Chinamon/Adobe Stock
 
 ### News
@@ -30,25 +30,25 @@ Stanford Medicine researchers and their colleagues invented a new vaccine that p
 
 ##### Share Article:
 
- 
- 
+
+
 Facebook
- 
- 
- 
- 
+
+
+
+
 LinkedIn
- 
- 
- 
- 
+
+
+
+
 Twitter
- 
- 
- 
- 
+
+
+
+
 Email
- 
+
 
 In the realm of medical advancements, a universalvaccinethat can protect against any pathogen has long been a Holy Grail — and about as elusive as a mythological vessel.
 
@@ -91,10 +91,10 @@ But Pulendran’s team was intrigued by the versatility of the innate immune sys
 Innate immunity is short-lived, but provides something approaching universal protection.
 
  We were interested in this idea because it sounded a bit outrageous. I think nobody was seriously entertaining that something like this could ever be possible.”
- 
+
 
  —Bali Pulendran
- 
+
 
 There have long been hints that innate immunity can last longer in certain circumstances. The most-studied example is the Bacillus Calmette-Guerin tuberculosis vaccine, which is given to some 100 million newborns every year. Epidemiological and clinical studies have shown that it can decrease infant mortality from other infections, suggesting that the cross-protection could last months. But the phenomenon was inconsistent and the mechanism mysterious.
 
@@ -142,7 +142,7 @@ About Stanford Medicine
 
 Stanford Medicineis an integrated academic health system comprising theStanford School of Medicineand adult and pediatric health care delivery systems. Together, they harness the full potential of biomedicine through collaborative research, education and clinical care for patients. For more information, please visitmed.stanford.edu.
 
- Article topics: 
+ Article topics:
 
 * Vaccines
 * Immunology
@@ -156,7 +156,7 @@ Science writer Nina Bai joined Stanford Medicine's Office of Communications in 2
 
 nina.bai@stanford.edu
 
- Media Contact 
+ Media Contact
 
 * Nina BaiTel 650-724-2763nina.bai@stanford.edu
 

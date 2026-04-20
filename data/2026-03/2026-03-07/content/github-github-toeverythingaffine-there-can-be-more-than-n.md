@@ -11,7 +11,7 @@ description: 'There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fa
 
 toeverything
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork4.5k
 * Star64.6k
 
- 
- 
- 
+
+
+
  
 canary
 Branches
@@ -244,16 +244,16 @@ A privacy-focused, local-first, open-source, and ready-to-use alternative for No
 
 Home Page
  |
- 
+
 Discord
  |
- 
+
 Live Demo
  |
- 
+
 Blog
  |
- 
+
 Documentation
 
 Docs, canvas and tables are hyper-merged with AFFiNE - just like the word affine (əˈfʌɪn | a-fine).
@@ -482,12 +482,12 @@ affine.pro
 
  Readme
 
- 
+
 
 ### License
 
  Unknown, MIT licenses found
- 
+
 
 ### Licenses found
 
@@ -495,67 +495,67 @@ Unknown
 
 LICENSE
 
- 
+
 
 MIT
 
 LICENSE-MIT
 
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 64.6k
 
  stars
- 
+
 
 ### Watchers
 
 276
 
  watching
- 
+
 
 ### Forks
 
 4.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases541
 
@@ -563,11 +563,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Feb 25, 2026
 
- 
+
 
 + 540 releases
 
@@ -575,7 +575,7 @@ Feb 25, 2026
 
  
 
- 
+
 
  Sponsor
 
@@ -583,11 +583,11 @@ Feb 25, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -603,14 +603,14 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Used by1.1k
 
  + 1,072
- 
+
 
 ## Contributors
 
@@ -618,9 +618,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

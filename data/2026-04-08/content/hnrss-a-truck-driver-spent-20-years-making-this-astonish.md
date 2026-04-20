@@ -14,7 +14,7 @@ tags:
 ---
 
 The completed model takes up roughly 1,350 square feet.
- 
+
 Filip Wolak / Museum of the City of New York
 
 In 2004, truck driver Joe Macken created a miniature replica of New York City’s30 Rockefeller Plazaout of balsa wood. Although he had intended to stop there, he realized he was hooked.
@@ -23,22 +23,22 @@ In 2004, truck driver Joe Macken created a miniature replica of New York City’
 
 Macken kept building for more than two decades. He worked his way through Manhattan and began work on the other boroughs. He made 320 sections—each representing about a square mile of New York—with wooden buildings, painted parks and tiny artificial trees. When he ran out of room at home, he rented a storage unit.
 
- 
+
  The model took more than 20 years to build.
- 
- 
- 
+
+
+
 David Lurvey / Museum of the City of New York
 
 Macken ended up with a 1,350-square-foot model depicting New York City in its entirety. Last summer, his work went viral onTikTok. Many commenters said the model was destined for a museum, and they were right.
 
 In February, Macken’s model went on display at theMuseum of the City of New Yorkin an exhibition called “He Built This City: Joe Macken’s Model.” Visitors can examine the model from all sides, using binoculars to get closer looks at specific neighborhoods. Elisabeth Sherman, the museum’s chief curator and deputy director, tells theGuardian’s Alaina Demopoulos about the first time the staff saw the handmade model.
 
- 
+
  Each section of the model represents roughly one square mile.
- 
- 
- 
+
+
+
 David Lurvey / Museum of the City of New York
 
 “We were all standing around squealing, ‘Look, there’s our museum!’ ‘There’s the Met; there’s the Guggenheim,’” Sherman recalls. “It’s this great act of recognition, and then it’s also witnessing [Macken’s] creativity, how he made this complex architecture out of very humble materials.”
@@ -55,11 +55,11 @@ More than 100 people spent three yearsconstructing the model, which was made of 
 
 Macken made the model of 30 Rockefeller Plaza some three decades later. In the years that followed, he worked on his models almost every day. “I was just going to look at it,” he tells CBS News. “I don’t know what I was going to do. I had no plans. I mean, I never imagined it being in a museum.”
 
- 
+
  The model includes all of New York City, as well as parts of New Jersey and Nassau County.
- 
- 
- 
+
+
+
 Filip Wolak / Museum of the City of New York
 
 Macken eventually expanded the model past the five boroughs and built parts of New Jersey and Long Island’s Nassau County. The materials—including Elmer’s glue, acrylic paint and balsa wood cut with an X-Acto knife—cost about $20,000, reports theTimes.
@@ -68,11 +68,11 @@ Stephanie Hill Wilchfort, the director and president of the museum, says in asta
 
 Macken’s 1:2,400-scale model reportedly features nearly a million structures, including every building, stadium, street and bridge in New York City.
 
- 
+
  Binoculars are available to visitors at the museum.
- 
- 
- 
+
+
+
 Filip Wolak / Museum of the City of New York
 
 “One of the reasons Joe is so insistent that every single building is here is because he would never want someone to come and see it and not be able to find where they live and see their story,” Sherman tellsArtnet.

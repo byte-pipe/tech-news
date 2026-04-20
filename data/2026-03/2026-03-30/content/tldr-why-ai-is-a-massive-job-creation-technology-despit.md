@@ -18,7 +18,7 @@ tags:
 # Why AI Is A Massive Job-Creation Technology, Despite What You Think
 
 byjoshbersin·
- 
+
  PublishedMarch 26, 2026· UpdatedMarch 26, 2026
 
 I am getting tired of reading stories about AI eliminating jobs. While AI does eliminate tasks and many routine activities, the real story is quite the opposite: AI makes jobs more interesting, more valuable, and ultimately more rewarding (financially and otherwise).
@@ -151,6 +151,6 @@ Email*
 
 Website
 
- 
+
 
 Δ

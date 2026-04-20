@@ -11,7 +11,7 @@ description: An open source template for building cloud agents. - vercel-labs/op
 
 vercel-labs
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork244
 * Star2.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -328,14 +328,14 @@ Then set:
 NEXT_PUBLIC_GITHUB_CLIENT_ID
 =
 ...
- 
+
 #
  GitHub App Client ID
 
 GITHUB_CLIENT_SECRET
 =
 ...
- 
+
 #
  GitHub App Client Secret
 
@@ -392,51 +392,51 @@ open-agents.dev
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 2.2k
 
  stars
- 
+
 
 ### Watchers
 
 5
 
  watching
- 
+
 
 ### Forks
 
 244
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -454,9 +454,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -464,9 +464,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

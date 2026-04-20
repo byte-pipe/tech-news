@@ -27,8 +27,8 @@ Beefy power banks, 3-in-1 magnetic chargers, and durable cables are all still di
 Beefy power banks, 3-in-1 magnetic chargers, and durable cables are all still discounted for Amazon’s Big Spring Sale.
 
 by
- 
- 
+
+
 Brandon Widder
 Mar 31, 2026, 11:00 PM UTC
 * Link
@@ -39,9 +39,9 @@ If you buy something from a Verge link, Vox Media may earn a commission.See our 
 Image: Twelve South
 Part Of
 Amazon’s Big Spring Sale 2026: all of the latest deals
-see all updates 
+see all updates
 Brandon Widder
- 
+
 is a senior editor overseeing deals, gift guides, and commerce. He spent six years spearheading buying guides and consumer tech coverage at Digital Trends.
 
 Amazon’s Big Spring Salemay not have been as “big” as Black Friday or even Prime Day, but depending on what you’re after, the discounts are more appealing than you might think. Take charging accessories, for instance. Anker, Twelve South, Baseus, and others have sharply lowered the prices of some of our favorite add-ons, includinghandsome 3-in-1 charging stands,25,000mAh battery packs, andinexpensive Qi2 pucks.
@@ -172,7 +172,7 @@ Anker’s latest single-port USB-C charger offers up to 45W of power, foldable p
 
 Read More
 $28 at Amazon
-$28 at Anker 
+$28 at Anker
 
 ### EcoFlow Delta 2 Portable Power Station
 
@@ -404,19 +404,19 @@ Sign up for Verge Shopping to get deals on products we’ve tested sent to your 
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Follow topics and authors
  from this story to see more like this in your personalized homepage feed and to receive email updates.
@@ -429,7 +429,7 @@ Follow topics and authors
 
 The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale
 Sheena Vasani
- and 
+ and
 Brandon Widder
 Mar 31
 You can grab a four-pack of Govee’s color-changing smart bulbs for just $27
@@ -449,7 +449,7 @@ Samsung’s new app claims to alleviate motion sickness using sound
 Anker’s power bank with built-in cables is one of my favorite gadgets, and it’s cheaper than usual
 The best deals to shop during the last few hours of Amazon’s Big Spring Sale
 Sheena Vasani
- and 
+ and
 Brandon Widder
 1:14 AM UTC
 Amazon’s Big Spring Sale 2026: all of the latest deals
@@ -457,7 +457,7 @@ Cameron Faulkner
 1:14 AM UTC
 The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale
 Sheena Vasani
- and 
+ and
 Brandon Widder
 Mar 31
 You can grab a four-pack of Govee’s color-changing smart bulbs for just $27

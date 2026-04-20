@@ -11,7 +11,7 @@ description: An AI Hedge Fund Team. Contribute to virattt/ai-hedge-fund developm
 
 virattt
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork8.1k
 * Star46.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -194,7 +194,7 @@ You can run the AI Hedge Fund directly via terminal. This approach offers more g
 
 1. Install Poetry (if not already installed):
 
-curl -sSL https://install.python-poetry.org 
+curl -sSL https://install.python-poetry.org
 |
  python3 -
 
@@ -254,43 +254,43 @@ An AI Hedge Fund Team
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 46.2k
 
  stars
- 
+
 
 ### Watchers
 
 574
 
  watching
- 
+
 
 ### Forks
 
 8.1k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -308,17 +308,17 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -326,9 +326,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

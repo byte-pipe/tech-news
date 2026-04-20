@@ -29,36 +29,36 @@ You can find some of these cars at the Petersen Automotive Museum, which has a n
 “But sometimes it will be owned by collections, it will be private owners, it will be isolated sources,” she said. “With this exhibition, it was interesting because there are actually a number of enthusiastic owners who buy these cars—they collect them, they restore them—and these cars are well known within their communities. They’re known by names like Stunt one or Hero One, Stunt Two, Stunt Three.”
 
  This Supra is anything but subtle.
- 
+
 
  Petersen Automotive Museum
- 
+
 
 This Supra is anything but subtle.
 
  Petersen Automotive Museum
- 
+
 
  The interior is about speed, not comfort.
- 
+
 
  Petersen Automotive Museum
- 
+
 
 The interior is about speed, not comfort.
 
  Petersen Automotive Museum
- 
+
 
 This Supra is anything but subtle.
 
  Petersen Automotive Museum
- 
+
 
 The interior is about speed, not comfort.
 
  Petersen Automotive Museum
- 
+
 
 But according to Feay, unlike some other film cars, discovering the history of the Fast and Furious machines takes work.
 
@@ -71,22 +71,22 @@ For the later films, production built cars specifically for use, but in the earl
 “That would include Brian’s Toyota Supra, which was built and owned by Craig Lieberman, who worked with Super Street [a tuning shop] at the time,” Feay said. “The first four cars from the street race—Eclipse, the Integra, the Mazda RX7, and the Honda Civic—were all owned. And the original hero cars were all owned and built by tuners. Letty’s 240 SX actually has a really interesting story about its development as a tuner car. But what this meant is that these cars, because they were customs, have historical significance. They have complex ownership histories.”
 
  You’d have your work cut out trying to eclipse this exhibit with a larger collection of movie cars from the franchise.
- 
+
 
  Credit:
  Petersen Automotive Museum
- 
+
 
  You’d have your work cut out trying to eclipse this exhibit with a larger collection of movie cars from the franchise.
 
- 
+
 
  Credit:
 
- 
+
  Petersen Automotive Museum
 
- 
+
 
 In addition to the borrowed cars, copies were made that could be crashed or hacked about to fit cameras. “For each car, depending on the scenes it would be featured in, you could have maybe as few as three facsimiles made, maybe up to 10 facsimiles made. And each of these facsimiles would have, from a collecting standpoint, different degrees of usage and damage. Was this a junk car? Was this an exploded car? Was this a stunt car? Was this a hero car? So within each one of those tiers, you almost have a gradation system like you would for a classic car,” Feay said.
 
@@ -103,47 +103,47 @@ Hundreds of replicas made by Universal escaped the crusher and were instead stor
 “It’s known as the warehouse scramble scene,” Feay said. “It’s when Brian and Roman are looking to escape from the law at the end of the film. They drive their cars into the warehouse, the garage doors close, and when they open, it’s tons of cars pouring out to distract, to draw attention away from them.”
 
  Suki’s pink Honda S2000 has actually appeared in more than one guise on screen.
- 
+
 
  Petersen Automotive Museum
- 
+
 
 Suki’s pink Honda S2000 has actually appeared in more than one guise on screen.
 
  Petersen Automotive Museum
- 
+
 
  The engine bay shows signs of resprays and evidence of its use as a film car.
- 
+
 
  Petersen Automotive Museum
- 
+
 
 The engine bay shows signs of resprays and evidence of its use as a film car.
 
  Petersen Automotive Museum
- 
+
 
  Nice seat covers.
- 
+
 
  Petersen Automotive Museum
- 
+
 
 Nice seat covers.
 
  Petersen Automotive Museum
- 
+
 
 The engine bay shows signs of resprays and evidence of its use as a film car.
 
  Petersen Automotive Museum
- 
+
 
 Nice seat covers.
 
  Petersen Automotive Museum
- 
+
 
 “That’s what happened to a few of our cars on display,” she said. “And from there, they were sold to private owners. Some of them went to collections. Some of them sat derelict on people’s lawns… And they essentially went all over the world.”
 
@@ -156,36 +156,36 @@ The S2000 is best known as Suki’s bright pink car, but it actually appeared in
 ## Tuning history?
 
  Lettie’s Nissan 240SX revealed something interesting about the engine swap scene.
- 
+
 
  Petersen Automotive Museum
- 
+
 
 Lettie’s Nissan 240SX revealed something interesting about the engine swap scene.
 
  Petersen Automotive Museum
- 
+
 
  Is this one of the very first SR20DET engine swaps into an S14? It very well may be.
- 
+
 
  Petersen Automotive Museum
- 
+
 
 Is this one of the very first SR20DET engine swaps into an S14? It very well may be.
 
  Petersen Automotive Museum
- 
+
 
 Lettie’s Nissan 240SX revealed something interesting about the engine swap scene.
 
  Petersen Automotive Museum
- 
+
 
 Is this one of the very first SR20DET engine swaps into an S14? It very well may be.
 
  Petersen Automotive Museum
- 
+
 
 “When you hear the stories behind these cars… you’ll hear about the history, but when you actually look at the object, it makes it real, Feay said. “And with our cars, you can actually see there are some dings in the paint, like in the interior engine bay, and you can actually see the layers of colors in it. You can see it’s black, you can see it’s orange, you can see when RJ painted it. It’s that object that made me realize that these cars are essentially archeological. These are cars that have this history.”
 
@@ -196,17 +196,17 @@ Lettie’s 240 SX also has an interesting history. Owned by a private collector,
 “A Fast and Furious Legacy” opens at the Petersen Automotive Museum in LA on March 14 and runs until April 2027.
 
  Jonathan M. Gitlin
- 
+
 
 Automotive Editor
 
  Jonathan M. Gitlin
- 
+
 
 Automotive Editor
 
  Jonathan is the Automotive Editor at Ars Technica. He has a BSc and PhD in Pharmacology. In 2014 he decided to indulge his lifelong passion for the car by leaving the National Human Genome Research Institute and launching Ars Technica's automotive coverage. He lives in Washington, DC.
- 
+
 
 1. 1.After outages, Amazon to make senior engineers sign off on AI-assisted changes
 2. 2.NASA and SpaceX disagree about manual controls for lunar lander

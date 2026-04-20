@@ -12,7 +12,7 @@ tags:
 ---
 
 Are boys really in crisis? What the science says in the age of the manosphere
- 
+
 
 Download PDF
 
@@ -26,7 +26,7 @@ Download PDF
 
 Illustration: Mr.Nelson Design
 
- 
+
 
 Last year, psychologist Lee Chambers set off across the United Kingdom to listen to boys. In his work training companies in equality, he had met hundreds of parents who said they were concerned that boys werestruggling after the COVID-19 pandemicand being manipulated online. So he decided to go and find out what the lives of 12–16-year-olds are really like.
 
@@ -190,9 +190,9 @@ Email address
 
 Sign up
 
-I agree my information will be processed in accordance with the 
+I agree my information will be processed in accordance with the
 Nature
- and Springer Nature Limited 
+ and Springer Nature Limited
 Privacy Policy
 .
 

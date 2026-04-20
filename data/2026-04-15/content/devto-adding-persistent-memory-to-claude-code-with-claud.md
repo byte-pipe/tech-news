@@ -35,10 +35,10 @@ A plugin that gives Claude Code a long-term memory. It automatically captures wh
 
 ### Installation
 
-npx claude-mem 
+npx claude-mem
 install
 
-npx claude-mem start 
+npx claude-mem start
 # Requires Bun
 
 Enter fullscreen mode
@@ -76,82 +76,82 @@ Reads the last 3 days of captures and injects them as context when a new session
 
 {
 
- 
+
 "hooks"
 :
- 
+
 {
 
- 
+
 "PostToolUse"
 :
- 
+
 [{
 
- 
+
 "matcher"
 :
- 
+
 "Bash|Write"
 ,
 
- 
+
 "hooks"
 :
- 
+
 [{
 
- 
+
 "type"
 :
- 
+
 "command"
 ,
 
- 
+
 "command"
 :
- 
+
 "powershell -File auto-capture.ps1"
 
- 
+
 }]
 
- 
+
 }],
 
- 
+
 "SessionStart"
 :
- 
+
 [{
 
- 
+
 "hooks"
 :
- 
+
 [{
 
- 
+
 "type"
 :
- 
+
 "command"
 ,
 
- 
+
 "command"
 :
- 
+
 "powershell -File session-resume.ps1"
 
- 
+
 }]
 
- 
+
 }]
 
- 
+
 }
 
 }
@@ -239,22 +239,22 @@ The good news:they coexist perfectly. claude-mem registers as a plugin, DIY hook
 claude-mem defaults to using Claude API for compression, which consumes your tokens. Switch to Gemini (free) to eliminate this:
 
 //
- 
+
 ~/.claude-mem/settings.json
 
 {
 
- 
+
 "CLAUDE_MEM_PROVIDER"
 :
- 
+
 "gemini"
 ,
 
- 
+
 "CLAUDE_MEM_GEMINI_API_KEY"
 :
- 
+
 "your-free-key-from-aistudio.google.com"
 
 }
@@ -304,7 +304,7 @@ Built withClaude Code| Project:https://my-web-app-b67f4.web.app/
 # ClaudeCode #AI #buildinpublic
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

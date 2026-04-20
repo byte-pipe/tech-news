@@ -41,7 +41,7 @@ LO
 Linux Observer Staff
 
  Published March 19, 2026  ·  6 min read
- 
+
 
 Ubuntu 26.04
 
@@ -56,7 +56,7 @@ For more than four decades, typing a password after asudoprompt
 
 “Security is theoretically worse since password lengths are exposed to people watching your screen, but this is an infinitesimal benefit far outweighed by the UX issue.”
 
-— sudo-rs upstream commit message, enabling 
+— sudo-rs upstream commit message, enabling
 pwfeedback
  by default
 
@@ -66,24 +66,24 @@ user@ubuntu — bash
 
 before
 user@ubuntu:~$
- 
+
 sudo apt update
 
 [sudo] password for user:
- 
+
 █ ← cursor blinks; nothing shown
 
 # Ubuntu 26.04 — new behaviour (asterisks per character)
 
 after
 user@ubuntu:~$
- 
+
 sudo apt update
 
 [sudo] password for user:
- 
+
 ********
- 
+
 ← one ✱ per keystroke
 
 ## A History Written in Silence
@@ -111,25 +111,25 @@ Then, roughly two weeks before the Ubuntu 26.04 beta window, the upstream sudo-r
 
 1980
 
-Original 
+Original
 sudo
  created at SUNY Buffalo. Silent password input is the default from day one.
 
 Ubuntu 25.10 — October 2025
 
-Canonical replaces the classic C-based sudo with 
+Canonical replaces the classic C-based sudo with
 sudo-rs
  (Rust). Behaviour remains visually unchanged for users.
 
 October 2025
 
-A bug report filed against sudo-rs requests that 
+A bug report filed against sudo-rs requests that
 pwfeedback
  be enabled by default to “make sane modern UX decisions.”
 
 February 2026
 
-Upstream sudo-rs merges the 
+Upstream sudo-rs merges the
 pwfeedback
  patch. Canonical cherry-picks it into Ubuntu 26.04 daily builds. Community debate erupts.
 
@@ -244,55 +244,55 @@ Disk Encryption
 
 Disclaimer of pbxscience.com
 
-Tags: 
+Tags:
 Debian
- 
+
 Fedora
- 
+
 LInux
- 
+
 Mint
- 
+
 Oracle
- 
+
 Redhat
- 
+
 RHEL
- 
+
 SUSE
- 
+
 Ubuntu
- 
+
 
 ## More Stories
 
- 
+
 
 * Games
 * Latest News
- 
+
 
 ### PS5 Firmware 12.00 Exploit: What’s Actually Happening?
 
- 5 hours ago 
+ 5 hours ago
 
- 
+
 
 * Latest News
 * Linux
 * Software
- 
+
 
 ### Why Popular Manjaro Linux Distribution Is Facing a Crisis?
 
- 5 hours ago 
+ 5 hours ago
 
- 
+
 
 * Latest News
 * Linux
 * Software
- 
+
 
 ### The Linux Desktop Fragmentation Problem and the Slow Road to Unity
 

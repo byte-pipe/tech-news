@@ -15,7 +15,7 @@ tags:
 
 Ataraxy-Labs
 
- 
+
 
 /
 
@@ -28,9 +28,9 @@ Public
 * Fork12
 * Star415
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -164,9 +164,9 @@ CONFLICT
 
 Auto-resolved
 
-Agent A modifies 
+Agent A modifies
 foo()
-, Agent B adds 
+, Agent B adds
 bar()
 
 CONFLICT
@@ -184,7 +184,7 @@ One agent modifies, other deletes same function
 
 CONFLICT (cryptic diff)
 
-CONFLICT: 
+CONFLICT:
 function 'validateToken' (modified in ours, deleted in theirs)
 
 Both agents add identical function
@@ -331,22 +331,22 @@ cargo build --release
 #
  Or manually:
 
-git config merge.weave.name 
+git config merge.weave.name
 "
 Entity-level semantic merge
 "
 
-git config merge.weave.driver 
+git config merge.weave.driver
 "
 /path/to/weave-driver %O %A %B %L %P
 "
 
 echo
- 
+
 "
 *.ts *.tsx *.js *.py *.go *.rs *.json *.yaml *.toml *.md merge=weave
 "
- 
+
 >>
  .gitattributes
 
@@ -420,12 +420,12 @@ ataraxy-labs.github.io/weave/
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0, MIT licenses found
- 
+
 
 ### Licenses found
 
@@ -433,52 +433,52 @@ Apache-2.0
 
 LICENSE-APACHE
 
- 
+
 
 MIT
 
 LICENSE-MIT
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 415
 
  stars
- 
+
 
 ### Watchers
 
 0
 
  watching
- 
+
 
 ### Forks
 
 12
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases11
 
@@ -486,11 +486,11 @@ v0.2.0
 
  Latest
 
- 
+
 
 Mar 4, 2026
 
- 
+
 
 + 10 releases
 
@@ -500,9 +500,9 @@ Mar 4, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Packages0
 
@@ -516,9 +516,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -526,9 +526,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

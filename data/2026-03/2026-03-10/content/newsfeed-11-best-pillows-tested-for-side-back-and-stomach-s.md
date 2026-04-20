@@ -27,7 +27,7 @@ Best Overall
 Purple Freeform Adjustable Pillow
 Read more
 $209
- 
+
 
 Amazon
 
@@ -35,11 +35,11 @@ Best Cooling Pillow
 Coop Sleep Goods Cool+ Cut Out Adjustable Pillow
 Read more
 $159
- 
+
 $127
- 
+
 (20% off)
- 
+
 
 Coop
 
@@ -47,7 +47,7 @@ Best for Back and Stomach Sleepers
 Honeydew Sleep Scrumptious Classic
 Read more
 $200
- 
+
 
 Amazon
 
@@ -55,7 +55,7 @@ Best Pillow for Side Sleepers
 Coop Sleep Goods Original Adjustable Crescent Pillow
 Read more
 $99
- 
+
 
 Amazon
 
@@ -420,22 +420,22 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 
 Back to top
 Triangle
-Nena Farrell is a writer and reviewer at WIRED. She primarily covers 
+Nena Farrell is a writer and reviewer at WIRED. She primarily covers
 home
- and 
+ and
 sleep products
-, 
+,
 smart home tech
-, 
+,
 gift guides
-, and 
+, and
 parenting gear
-. She’s been a reviewer at WIRED since 2023, and before that was a smart home updates writer at The New York Times’ Wirecutter and an associate ... 
+. She’s been a reviewer at WIRED since 2023, and before that was a smart home updates writer at The New York Times’ Wirecutter and an associate ...
 Read More
 Writer and Reviewer
 
 Julia Forbes
- is a product writer and reviewer for the WIRED Reviews team, focused on all things related to sleeping well: mattresses, sheets, pillows, toppers, and tech. She is a Spencer Institute-certified Sleep Science coach and has been testing mattresses and sleep products for more than five years. Previously, Julia ... 
+ is a product writer and reviewer for the WIRED Reviews team, focused on all things related to sleeping well: mattresses, sheets, pillows, toppers, and tech. She is a Spencer Institute-certified Sleep Science coach and has been testing mattresses and sleep products for more than five years. Previously, Julia ...
 Read More
 Product Writer and Reviewer
 * LinkedIn

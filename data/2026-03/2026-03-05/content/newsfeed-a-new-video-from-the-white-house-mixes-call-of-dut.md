@@ -27,20 +27,20 @@ tags:
 ﻿The video has footage, music, and edits like what you might see in Call of Duty highlight videos.
 
 by
- 
- 
+
+
 Jay Peters
 Mar 5, 2026, 1:09 AM UTC
 * Link
 * Share
 * Gift
-A screenshot of the 
+A screenshot of the
 Call of Duty
  footage in the White House’s video.
- 
+
 Image: The White House
 Jay Peters
- 
+
 is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme.
 
 On Wednesday, the White House posteda videoof actual military strikes on Iran in the style usually seen inCall of Dutyhighlight videos, and started the video with a clip fromCall of Duty. The real-life footage of missiles and other munitions hitting targets in Iran shows clips seen in other Trump administration videos, likethis oneposted to the U.S. Central Command X account.
@@ -74,19 +74,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

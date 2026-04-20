@@ -335,7 +335,7 @@ Increasingly, AI can assist in securing AI. Using an AI analyst, such asSysdig S
 
 TheOWASP Top 10 for Large Language Modelsprovides a useful way to connect these ideas to real security scenarios. This list spans both training and inference risks and reflects the challenges practitioners face when securing LLM systems. The following diagram maps those risks to the relevant Sysdig CNAPP capabilities.
 
-The OWASP Top 10 for LLM Applications, also referenced in our 
+The OWASP Top 10 for LLM Applications, also referenced in our
 OKE GPU whitepaper
 
 ## Conclusion

@@ -14,7 +14,7 @@ tags:
 
 chardet
 
- 
+
 
 /
 
@@ -36,8 +36,8 @@ No right to relicense this project
 ## Description
 
 a2mark
-opened 
-on 
+opened
+on
 Mar 4, 2026
 Issue body actions
 

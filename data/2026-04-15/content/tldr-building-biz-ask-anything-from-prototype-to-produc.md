@@ -188,18 +188,18 @@ Q: "Best hikes for 3-5 year old kids?"
 * Verified suitability for age group
 * Specific, actionable details
 
-"The Lower Yosemite Fall Trail is a short, easy walk... The Cook's Meadow Loop is another gentle trail... Additionally, the 
+"The Lower Yosemite Fall Trail is a short, easy walk... The Cook's Meadow Loop is another gentle trail... Additionally, the
 Mirror Lake Trail
  is relatively flat and offers a scenic walk."
 
-For 3-5 year olds, consider the 
+For 3-5 year olds, consider the
 Lower Yosemite Falls Trail
- and 
+ and
 Glacier Point Trail
 . Both are short, paved, and suitable for young children.
-The 
+The
 Lower Yosemite Falls Trail
- is 1.2 miles and takes about 25 minutes, while the 
+ is 1.2 miles and takes about 25 minutes, while the
 Glacier Point Trail
  is 0.5 miles and takes around 12 minutes.
 
@@ -217,11 +217,11 @@ Gary Danko offers a customizable menu with options for 3, 4, or 5 courses, price
 Supporting evidence:
  From review 260003628: The price for 4 courses is about $140 each so be prepared.
 
-Restaurant Gary Danko offers a flexible prix-fixe menu where you can choose 
+Restaurant Gary Danko offers a flexible prix-fixe menu where you can choose
 3, 4, or 5 courses
-, priced at 
+, priced at
 150
-, and 
+, and
 170
  respectively. The menu includes a variety of options such as seafood, beef, and duck, with wine pairings available.
 Vegetarian options are available, though they may be limited. Some vegetarian dishes include Potato Gnocchi with Stilton Blue Cheese and Soy Marinated Tofu Scallops.
@@ -239,7 +239,7 @@ Q: Do they have massages for muscle pain and what's the cost?
 
 Yes, A Beautiful Day Spa offers massages for muscle pains.
 
-A Beautiful Day Spa offers several massage options that can help with muscle pain, including 
+A Beautiful Day Spa offers several massage options that can help with muscle pain, including
 sage, Swedish massage, and hot stone massage
 . The cost for a 60-minute massage is typically around $55, with options to extend the session to 90 minutes or 2 hours based on availability. They also offer a cash discount.
 
@@ -255,12 +255,12 @@ Q: I am vegan. Will I have any options here?
 
 El Vez offers limited vegan options, but there are still a few choices available for you. While the restaurant primarily focuses on Mexican cuisine, which often includes meat and dairy, they do have some vegan-friendly dishes. For instance, the vegan burrito is available on the brunch menu, and you can also enjoy a variety of guacamole and chips. However, it's important to note that the menu may not clearly label vegan options in person, so it might be helpful to ask the staff for guidance when ordering. Additionally, the restaurant's online menu might list more vegan options than what is available in person, so it's advisable to confirm with the staff during your visit.
 
-Yes, El Vez offers several vegan options. You can enjoy the 
+Yes, El Vez offers several vegan options. You can enjoy the
 Tofu al Pastor Vegan Burrito, black bean enchiladas
-, and 
+, and
 cauliflower tacos
-. 
-They also have a variety of veggie options that don't rely on cauliflower or tofu, like the 
+.
+They also have a variety of veggie options that don't rely on cauliflower or tofu, like the
 black bean tlayuda
 .
 

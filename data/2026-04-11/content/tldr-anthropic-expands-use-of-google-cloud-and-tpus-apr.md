@@ -22,7 +22,7 @@ Latest expansion will provide Anthropic with multiple gigawatts of TPU capacity
 
 SUNNYVALE, Calif.,April 6, 2026/PRNewswire/ -- Anthropic today announced an expansion of its use of TPU chips and cloud services, as it scales its development of foundation models, agents, and enterprise applications.
 
- 
+
 
 The expansion will provide Anthropic with multiple gigawatts of TPU capacity, expected to come online starting in 2027. This capacity expansion will be delivered through Google Cloud services, as well as access to Google-built TPUs supplied through Broadcom. The additional TPU capacity will support rapidly scaling needs for Anthropic's models.
 
@@ -34,12 +34,12 @@ SOURCE Google Cloud
 
 For further information: For further information: press@google.com
 
-Posted in 
+Posted in
 * AI Infrastructure
 * Artificial intelligence
 * GLOBAL
 
- 
+
 
 Year
 

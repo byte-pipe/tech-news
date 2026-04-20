@@ -257,10 +257,10 @@ Ubuntu or Debian-based Linux recommended. Windows support via Docker Desktop for
 
 Two commands on any Ubuntu or Debian machine. Project NOMAD handles the rest.
 
-$ 
+$
 curl -fsSL https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/main/install/install_nomad.sh -o install_nomad.sh
 
-$ 
+$
 sudo bash install_nomad.sh
 
 Requires Ubuntu 22.04+ or Debian 12+. Docker is installed automatically if needed.Full installation guide

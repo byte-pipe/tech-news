@@ -14,53 +14,53 @@ tags:
 
 # Box of Secrets
 
- 
+
 
 ## Discreetly modding my friend’s apartment intercom to work with Apple Home.
 
- 
+
 
 ## 23 March 2026
 
- 
+
 
 ### Tags:hacking,hardware,programming
 
- 
- 
- 
+
+
+
 Table of Contents
- 
+
 ↓
- 
- 
- 
- Help Arrives 
- Attempt 1: The Wi-Fi Router 
- Attempt 2: Faking a Phone 
- Third Time’s the Charm: Man in the Middle 
- Software 
- Stack Smashing 
- Deployment 
- 
- 
- 
- 
- 
+
+
+
+ Help Arrives
+ Attempt 1: The Wi-Fi Router
+ Attempt 2: Faking a Phone
+ Third Time’s the Charm: Man in the Middle
+ Software
+ Stack Smashing
+ Deployment
+
+
+
+
+
 
 My friend Frank (not his real name) hosts a lot of guests at his apartment, and his complex’s intercom is what ushers them inside. You’ve probably seen them before, they look like this:
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 The Doorking 1834-080 intercom at Frank's apartment.
- 
+
 
 Up until recently, guests could find Frank’s number in the system and give it a call. If Frank recognized the people on the line, he would press a number on his dial pad, which the controller would interpret as a signal to unlock the gate.
 
@@ -70,31 +70,31 @@ Then, management got lazy. The complex Frank lives in failed to renew their inte
 
 My other friendHazeland I arrived to visit Frank during this outage period, and he asked us to see what we could do. Here’s what we saw:
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 A diagram of what we saw.
- 
+
 
 We inspected the top box closer, giving a promising result: it was unlocked! The general layout of the box is as follows:
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 A diagram of the voice box with wires shown.
- 
+
 
 It was impossible to ignore the massive Wi-Fi/cell router in the top corner with its admin password printed right on it (not pictured). Of course, I had to investigate.
 
@@ -153,31 +153,31 @@ Here is the plan we came up with:
 * Hide the board inside the little junction box, conveniently placed there by the building for maximum discreetness.
 * Power the board by plugging a power cable into the Doorking voice box and running the cable into the junction.
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 A diagram of the layout once we added the ESP32.
- 
+
 
 It was time to order parts. Thankfully Hazel found anESP32 relay boardthat did exactly what we wanted, having two relays to control the solenoid. The circuit ended up looking like this:
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 The circuit we used.
- 
+
 
 This setup ensures that if our circuit were to fail, the system would still remain fully functional since the gate control commands are passed through when no power is applied to the relay.1
 
@@ -187,17 +187,17 @@ Once we had the hardware set, next up was the software. We chose to use a Matter
 
 The software can be described by this state machine:
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 The software state machine.
- 
+
 
 It’s pretty simple. Startup and connect to the network. Once connected, start listening for commands from the home. When instructed, unlock the gate for a certain amount of time (user configurable with a default time of ten seconds), then re-lock the gate. Importantly, the software will never let the gate stay unlocked indefinitely, ensuring the system remains secure. You can look at the code yourselfhere.
 
@@ -207,31 +207,31 @@ One particularly infuriating issue we encountered during development was the ESP
 
 Once we handled all of the edge cases, the device showed up in Apple Home!
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 The gate lock alongside the front door lock in Apple Home.
- 
+
 
 Fun fact, you can set the manufacturer information to whatever you’d like:
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 The manufacturer info we chose.
- 
+
 
 # Deployment
 

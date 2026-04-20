@@ -40,17 +40,17 @@ I'm someone who just generally wants to consume products with little chemicals a
 Every year, the gift I get that always hits right is aSephora birthday gift card. Even when I think I’m just going for a few items, I always end up spending at least $100 every time I make a trip to Sephora. Those small product purchases add up quickly! If you’re unsure of what to get a loved one for their birthday, a Sephora birthday gift card is pretty much a fail-safe gift. Even if you’re not giving to the most MUA-ified person, Sephora has tons of other items, like skincare serums and face washes, perfumes, hair products, and tons of self-care tech like hair styling tools and wellness devices.
 
 Louryn Strampe
- is a product writer and reviewer at WIRED covering 
+ is a product writer and reviewer at WIRED covering
 deals
-, 
+,
 beauty
-, 
+,
 home goods
-, and 
+, and
 gifts
-. She’s written about Black Friday, Cyber Monday, Prime Day, and other shopping holidays since 2013, offering 
+. She’s written about Black Friday, Cyber Monday, Prime Day, and other shopping holidays since 2013, offering
 tips and tricks
- and sleuthing out fact-checked discounts for fun and for a living. She previously covered ... 
+ and sleuthing out fact-checked discounts for fun and for a living. She previously covered ...
 Read More
 Writer and Reviewer
 * X
@@ -62,16 +62,16 @@ Save on the science-backed devices you’ve been eyeing with 15% off Theragun di
 Molly Higgins
 Medicube Coupon Code: The Best Promo Codes and Skincare Deals for April 2026
 Upgrade your K-beauty routine with these active Medicube promo codes. Save on Age-R devices, serums, and masks with student discounts and referral rewards.
-Boutayna Chokrane 
+Boutayna Chokrane
 Save up to 50% With These Ulta Coupons and Discounts
 Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.
-Boutayna Chokrane 
+Boutayna Chokrane
 Save 30% With Our Nike Promo Codes and Discounts for April 2026
 Check out our deals for Nike this month, including 15% off select purchases.
 Adrienne So
 Save up to 25% With These Dermstore Coupons and Deals
 Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.
-Boutayna Chokrane 
+Boutayna Chokrane
 Target Promo Codes for April 2026
 Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.
 Molly Higgins
@@ -80,7 +80,7 @@ Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off
 Adrienne So
 Naturepedic Promo Codes: Get 20% Off Plus Free Pillows
 Shop the Naturepedic sale this April.
- Nena Farrell 
+ Nena Farrell
 Top Petlibro Offers: 60% Off in April
 Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.
 Molly Higgins

@@ -18,13 +18,13 @@ An article from
 The institute will help further embed an enterprise-wide AI agenda, advance its quantum strategy and “[keep] us accountable and agile in this era of exponential change,” its lead executive said.
 
  Published April 9, 2026
- 
+
 
  View of BMO Bank of Montreal in the financial district of Toronto, Canada, August 13, 2025. Software company Eptura worked with BMO to integrate data on the buildings it would be getting as part of its acquisition of Bank of the West in 2025.
- 
+
 
  Getty Images
- 
+
 
 Bank of Montrealopened an institute Thursdayfocused on responsible AI innovation, application and governance and the development of quantum computing capabilities.
 

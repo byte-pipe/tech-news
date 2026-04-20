@@ -30,7 +30,7 @@ Part of what turbocharged that demand, Anderson argues, was Anthropic’svery pu
 
 “The app got more popular, people rallied around the company as kind of a hero, taking on big government,” he said. “I think it amplified the story and made it even more differentiated from OpenAI.”
 
- 
+
 
 Techcrunch event
 
@@ -93,30 +93,30 @@ You can hear more of our interview with Anderson in the upcoming episode of theS
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 Exclusive
-, 
+,
 OpenAI
-, 
+,
 SpaceX
-, 
+,
 TC
- 
 
-			Connie Loizos	
+
+			Connie Loizos
 
 Editor in Chief & General Manager
 
 		Loizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.
 
 
-You can contact or verify outreach from Connie by emailing 
+You can contact or verify outreach from Connie by emailing
 connie@strictlyvc.com
- or 
+ or
 connie@techcrunch.com
 , or via encrypted message at ConnieLoizos.53 on Signal.
-	
+
 
 View Bio

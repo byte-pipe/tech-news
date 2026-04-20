@@ -105,7 +105,7 @@ CI/CD runs via GitHub Actions. The data pipeline runs twice a day, and the site 
 This has beensitting in my GitHub issuesfor the last few months — five separate issues, all variations on the same ask; "what's nearby?" and "how do I find film clubs?". I kept kicking them down the road. This weekend challenge was the forcing function I needed to actually ship them. 🎉
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

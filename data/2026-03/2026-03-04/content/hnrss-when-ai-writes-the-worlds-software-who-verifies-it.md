@@ -106,37 +106,37 @@ Lean is the result ofover twelve years of continuous development. We designed an
 At the Lean FRO, Kim Morrison, a Senior Research Software Engineer, recently ran an experiment that went well beyond our expectations. An AI agent convertedzlib, a widely used C compression library embedded in countless systems, to Lean, with minimal human guidance. No special tooling was built. It was Claude, a general-purpose AI, with no special training for theorem proving, out of the box. The workflow had four steps. First, the AI produced a clean, readable Lean implementation of the zlib compression format, including the DEFLATE algorithm at its core. Second, the Lean version passed the library’s existing test suite, confirming behavioral equivalence. Third, key properties were stated and proved, not as tests, but as mathematical theorems. The capstone theorem:
 
 theorem
- 
+
 zlib_decompressSingle_compress
  (
 data
- : 
+ :
 ByteArray
 ) (
 level
- : 
+ :
 UInt8
 )
  (
 hsize
- : 
+ :
 data
 .
 size
- 
+
 <
- 
+
 1024
- 
+
 *
- 
+
 1024
- 
+
 *
- 
+
 1024
 ) :
- 
+
 ZlibDecode
 .
 decompressSingle
@@ -144,16 +144,16 @@ decompressSingle
 ZlibEncode
 .
 compress
- 
+
 data
- 
+
 level
-) 
+)
 =
- 
+
 .
 ok
- 
+
 data
 
 This is a machine-checked proof that decompressing a compressed buffer always returns the original data, at every compression level, for the full zlib format. The size precondition (hsize) is a proof engineering artifact: it bounds the fuel the AI used during proof construction. A human engineer would likely eliminate it; the AI, working without guidance, chose a bound that was sufficient to close the proof. As both AI capabilities and platform tooling improve, artifacts like this will disappear. The raw DEFLATE and gzip framing roundtrips are proved as well. Fourth, an optimized version is being developed and proved equivalent to the verified model. This work is ongoing.

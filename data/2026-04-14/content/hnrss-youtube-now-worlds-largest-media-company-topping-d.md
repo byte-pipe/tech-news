@@ -24,13 +24,13 @@ Senior Editor
 
 	alexweprin
 
-		Follow	
+		Follow
 
 Sign Up
 
 	View All
 
-	March 9, 2026 8:23am	
+	March 9, 2026 8:23am
 
 YouTube CEO Neal Mohan
 
@@ -66,7 +66,7 @@ And a time when essentially every other media company is stuck in neutral, if no
 
 Sign up for THR news straight to your inbox every day
 
-		Subscribe	
+		Subscribe
 
 Sign Up
 

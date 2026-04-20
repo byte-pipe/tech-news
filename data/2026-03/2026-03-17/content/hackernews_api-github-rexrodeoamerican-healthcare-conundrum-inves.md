@@ -15,7 +15,7 @@ tags:
 
 rexrodeo
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork2
 * Star80
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -274,7 +274,7 @@ cd
 #
  One-time environment setup
 
-chmod +x 01_setup.sh 
+chmod +x 01_setup.sh
 &&
  ./01_setup.sh
 
@@ -367,53 +367,53 @@ andrewrexroad.substack.com
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 80
 
  stars
- 
+
 
 ### Watchers
 
 5
 
  watching
- 
+
 
 ### Forks
 
 2
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -431,9 +431,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors2
 

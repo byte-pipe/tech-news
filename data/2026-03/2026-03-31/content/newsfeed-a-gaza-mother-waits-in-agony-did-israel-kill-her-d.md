@@ -31,7 +31,7 @@ google
 Add Al Jazeera on Google
 info
 Malak Abu Mady and her brother Yousef have been missing since Israeli ground forces advanced into Khan Younis in 2024 [Screengrab/Al Jazeera]
-By 
+By
 Tareq Abu Azzoum
 Published On 31 Mar 2026
 31 Mar 2026

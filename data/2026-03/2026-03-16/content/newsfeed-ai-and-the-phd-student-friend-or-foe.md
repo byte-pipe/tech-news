@@ -12,7 +12,7 @@ tags:
 ---
 
 AI and the PhD student: friend or foe?
- 
+
 
 Download PDF
 
@@ -28,7 +28,7 @@ Download PDF
 
 Illustration: Antonio Rodríguez
 
- 
+
 
 Leona Diala uses artificial-intelligence tools for many aspects of her PhD: to search the literature, design presentations, generate code and summarize papers. The tools save her time and give her ideas, she says. “I would say AI is a blessing for researchers today.”
 
@@ -164,9 +164,9 @@ Email address
 
 Sign up
 
-I agree my information will be processed in accordance with the 
+I agree my information will be processed in accordance with the
 Nature
- and Springer Nature Limited 
+ and Springer Nature Limited
 Privacy Policy
 .
 

@@ -11,7 +11,7 @@ description: Contribute to ahujasid/blender-mcp development by creating an accou
 
 ahujasid
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.9k
 * Star19k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -168,20 +168,20 @@ brew install uv
 
 On Windows
 
-powershell 
+powershell
 -
-c 
+c
 "
 irm https://astral.sh/uv/install.ps1 | iex
 "
- 
+
 
 and then add uv to the user path in Windows (you may need to restart Claude Desktop after):
 
 $localBin
- 
+
 =
- 
+
 "
 $
 env:
@@ -190,7 +190,7 @@ USERPROFILE
 "
 
 $userPath
- 
+
 =
  [
 Environment
@@ -199,7 +199,7 @@ Environment
 Path
 "
 ,
- 
+
 "
 User
 "
@@ -211,14 +211,14 @@ Environment
 Path
 "
 ,
- 
+
 "
 $userPath
 ;
 $localBin
 "
 ,
- 
+
 "
 User
 "
@@ -253,23 +253,23 @@ Watch the setup instruction video(Assuming you have already installed uv)
 Go to Claude > Settings > Developer > Edit Config > claude_desktop_config.json to include the following:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "blender"
 : {
- 
+
 "command"
-: 
+:
 "
 uvx
 "
 ,
- 
+
 "args"
 : [
- 
+
 "
 blender-mcp
 "
@@ -293,23 +293,23 @@ For Mac users, go to Settings > MCP and paste the following
 * To use as a project specific server, create.cursor/mcp.jsonin the root of the project and paste
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "blender"
 : {
- 
+
 "command"
-: 
+:
 "
 uvx
 "
 ,
- 
+
 "args"
 : [
- 
+
 "
 blender-mcp
 "
@@ -322,33 +322,33 @@ blender-mcp
 For Windows users, go to Settings > MCP > Add Server, add a new server with the following settings:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "blender"
 : {
- 
+
 "command"
-: 
+:
 "
 cmd
 "
 ,
- 
+
 "args"
 : [
- 
+
 "
 /c
 "
 ,
- 
+
 "
 uvx
 "
 ,
- 
+
 "
 blender-mcp
 "
@@ -450,32 +450,32 @@ DISABLE_TELEMETRY=true uvx blender-mcp
 Or add it to your MCP config:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "blender"
 : {
- 
+
 "command"
-: 
+:
 "
 uvx
 "
 ,
- 
+
 "args"
 : [
 "
 blender-mcp
 "
 ],
- 
+
 "env"
 : {
- 
+
 "DISABLE_TELEMETRY"
-: 
+:
 "
 true
 "
@@ -498,54 +498,54 @@ This is a third-party integration and not made by Blender. Made bySiddharth
 ## About
 
  No description, website, or topics provided.
- 
+
 
 ### Resources
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 19k
 
  stars
- 
+
 
 ### Watchers
 
 168
 
  watching
- 
+
 
 ### Forks
 
 1.9k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -563,17 +563,17 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -581,9 +581,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

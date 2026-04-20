@@ -1,7 +1,7 @@
 ---
 title: GitHub - thunderbird/thunderbolt: AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. · GitHub
 url: https://github.com/thunderbird/thunderbolt
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-18T11:44:10.549068

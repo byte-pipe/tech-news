@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Robert Mitchell
 
 Contributing Writer
@@ -22,13 +22,13 @@ Feature
 
 Mar 11, 2026
 11 mins
- 
+
 
 ## More than half of enterprises say their AI projects have fallen short. Here’s what tech leaders must do differently.
 
- 
 
-							Credit: 															Rob Schultz / Shutterstock													
+
+							Credit: 															Rob Schultz / Shutterstock
 
 Despite massive investments in AI last year, most businesses have struggled to achieve measurable results. InPwC’s January 2026 Global CEO Survey, 56% of CEOs reported neither increased revenue nor decreased costs from AI in the last 12 months — a statistic backed by Gartner figures that show only 5% of CFOs have reported cost reductions due to AI, and only 6% have reported revenue increases. So what’s behind those dismal numbers?
 
@@ -151,27 +151,27 @@ IT Operations
 ROI and Metrics
 Budgeting
 IT Management
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Robert Mitchell															
+														by
+
+																Robert Mitchell
 
 Contributing Writer
 
@@ -189,7 +189,7 @@ Robert L. Mitchell is a freelance writer and editor. Previously, he was a nation
 * feature### CIOs are rethinking how they use public cloud services. Here’s why.Jan 8, 202514 mins
 * feature### Healthcare’s long road to digitization gets an AI boostJun 26, 202412 mins
 * feature### CIOs take note: Platform engineering teams are the future core of IT orgsJun 19, 202412 mins
- 
+
 
 ## Show me more
 
@@ -199,13 +199,13 @@ Podcasts
 Videos
 
 brandpost
- 
+
 Sponsored by Reltio
- 
+
 
 ### Building a system of context for agentic AI
 
- 
+
 By Kevin Keenan, VP Communications, Reltio
 Mar 12, 2026
 5 mins
@@ -213,12 +213,12 @@ Mar 12, 2026
 Artificial Intelligence
 
 feature
- 
- 
+
+
 
 ### 10 most powerful enterprise AI companies today
 
- 
+
 By Neal Weinberg
 Mar 12, 2026
 14 mins
@@ -228,12 +228,12 @@ Markets
 Technology Industry
 
 feature
- 
- 
+
+
 
 ### 6 worthwhile conferences for women in tech
 
- 
+
 By Sarah K. White
 Mar 12, 2026
 5 mins
@@ -243,49 +243,49 @@ Events
 IT Skills and Training
 
 podcast
- 
+
 Sponsored by Vertesia
- 
+
 
 ### Episode 3: Internal alignment: How the CIO can mobilize the entire IT organization for AI
 
- 
+
 Mar 10, 2026
 27 mins
 
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### CIO Leadership Live Australia with Ram Kalyanasundaram, Technology & Digital Transformation Director, Lion
 
- 
+
 Mar 9, 2026
 40 mins
 
 CIO Leadership Live
 
 podcast
- 
- 
+
+
 
 ### From Paper Checks to AI: How Deluxe Is Reinventing Itself as a Digital Payments Company
 
- 
+
 Mar 5, 2026
 25 mins
 
 CIO Leadership Live
 
 video
- 
- 
+
+
 
 ### How Phenom's AI Voice Agent Helps Enterprises Screen Job Candidates Faster
 
- 
+
 Mar 11, 2026
 20 mins
 
@@ -293,24 +293,24 @@ Artificial Intelligence
 Hiring
 
 video
- 
- 
+
+
 
 ### CIO Leadership Live Australia with Ram Kalyanasundaram, Technology & Digital Transformation Director, Lion
 
- 
+
 Mar 9, 2026
 40 mins
 
 CIO Leadership Live
 
 video
- 
- 
+
+
 
 ### Designing GenAI for Scale: Lessons from Heineken’s Journey Out of the ‘Wild West’
 
- 
+
 By Estelle Quek
 Mar 8, 2026
 23 mins

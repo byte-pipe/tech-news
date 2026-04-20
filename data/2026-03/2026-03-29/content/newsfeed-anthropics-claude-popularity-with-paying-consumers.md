@@ -31,13 +31,13 @@ Indagari tells us that the majority of new subscribers are at its lowest tier, �
 
 Data through early March confirm that subscriber growth is continuing. (Data is available with a two-week delay.)
 
-Claude weekly new consumer subscribers vs ChatGPT 
+Claude weekly new consumer subscribers vs ChatGPT
 Image Credits:
 TechCrunch
 
 To recap why consumers may have become so much more aware of Claude since January: Anthropic released several Super Bowl commercials that mocked ChatGPT’s decision to show ads to its users — and promised Claude would never do the same. The spotswere funny and effective(and alsogot under the skin of OpenAI CEO Sam Altman).
 
- 
+
 
 Techcrunch event
 
@@ -76,21 +76,21 @@ While OpenAI’suninstalls spiked immediatelyafter it announced a deal with the 
 Topics
 
 AI
-, 
+,
 TC
- 
 
-			Julie Bort	
+
+			Julie Bort
 
 Venture Editor
 
-		Julie Bort is the Startups/Venture Desk editor for TechCrunch. 
+		Julie Bort is the Startups/Venture Desk editor for TechCrunch.
 
 
-You can contact or verify outreach from Julie by emailing 
+You can contact or verify outreach from Julie by emailing
 julie.bort@techcrunch.com
- or via 
+ or via
 @Julie188
- on X.	
+ on X.
 
 View Bio

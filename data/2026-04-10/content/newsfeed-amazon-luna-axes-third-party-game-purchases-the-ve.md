@@ -27,8 +27,8 @@ Players will only be able to access the games available within their Luna subscr
 Players will only be able to access the games available within their Luna subscription.
 
 by
- 
- 
+
+
 Emma Roth
 Apr 10, 2026, 5:31 PM UTC
 * Link
@@ -39,7 +39,7 @@ If you buy something from a Verge link, Vox Media may earn a commission.See our 
 
 Image: The Verge
 Emma Roth
- 
+
 is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.
 
 Amazon Luna announceda big change on Fridaythat will prevent players from purchasing third-party games and subscriptions. The cloud gaming service will remove previously purchased games on June 10th, 2026, though they’ll still be available to play on other platforms through the EA, GOG, or Ubisoft accounts players used when purchasing the title.
@@ -76,19 +76,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

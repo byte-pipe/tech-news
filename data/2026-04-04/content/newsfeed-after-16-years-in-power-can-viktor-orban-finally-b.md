@@ -28,7 +28,7 @@ Most opinion polls put the opposition Tisza partyand its leader Peter Magyarfar 
 In power since 2010, Orban has had the support of both US President Donald Trump and Russian President Vladimir Putin. He has long been a thorn in the side of the EU - and one of the few EU leaders not supportive on Ukraine. For Europe's growing band of nationalist parties, in power or on the brink of it, he is the model. The 12 April Hungarian parliamentary election is being watched closely all over the world.
 
 NurPhoto via Getty Images
-Orban has a rough, rural style 
+Orban has a rough, rural style
 
 "We can notice a big change in public perception," said Endre Hann of the Median agency, a public-opinion research firm. In January, 44% of those asked said they thought Fidesz would win, compared with 37% for Tisza. By March, 47% believed Tisza would win, while 35% believed Fidesz would. "This reflects a huge change of trust. People believe that it can be changed," he says.
 
@@ -67,7 +67,7 @@ He's referring to the network of think tanks, fellowships, and gatherings of rig
 The fact that no leading US politician attended the Hungarian CPAC event this year raised eyebrows within Fidesz, but the Republicans are not leaving Orban in the lurch. US secretary of state Marco Rubio was here in February, and vice president JD Vance is expected in Budapest a few days before the vote.
 
 AFP via Getty Images
-Orban transformed Hungary into an international destination for the political right 
+Orban transformed Hungary into an international destination for the political right
 
 A victory for Fidesz in this election would add momentum to the chances of far-right parties in France, Germany, Poland, Spain and Portugal. Defeat for Fidesz would take some of the wind out of their sails. "While the rest of Europe is being sucked into the radical nationalist tunnel, we can show the way out," a senior Tisza official told me.
 
@@ -124,7 +124,7 @@ Magyar, 45, is a former Fidesz insider who joined the party as an enthusiastic s
 A slight figure in neat shirts and jackets, Magyar seemed too slick and urbane to reach the hearts of the rural electorate, but has proven himself a strong challenger. Orban, 62, is a village boy who speaks village Hungarian, Magyar is a Budapest lawyer by training. Conscious that his status as a member of the metropolitan elite may make him less likely to appeal to rural voters, Magyar has toured the countryside indefatigably for the past two years, drawing large crowds. Unlike Orban, who waxes lyrical on global politics, Magyar focusses on domestic issues such as healthcare, education, transport and rural depopulation in his speeches.
 
 NurPhoto via Getty Images
-Peter Magyar cuts a distinctly metropolitan figure next to Orban 
+Peter Magyar cuts a distinctly metropolitan figure next to Orban
 
 His relationship with Russia is also different. He has pledged that if he wins, "we will study and where needed change the existing contracts with Russia, [and] diversify our energy resources in every possible way". He has also promised to "restore Hungary's seat at the EU and Nato tables."
 

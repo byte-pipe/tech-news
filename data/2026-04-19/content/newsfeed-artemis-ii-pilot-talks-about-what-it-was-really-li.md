@@ -69,22 +69,22 @@ Glover: But you know, I know what happened toColumbia, and that this is a system
 And I was able to focus on that because whether or not the heat shield worked, there was nothing I could do. I couldn’t go outside and hold my hands over the spot. So the best I could do is if a parachute didn’t go out, to assess “do I need to do anything?” Or if the risers didn’t cut after we hit the water, to not get flipped over, I would have had to flip a switch, and I need to flip the right switch. So I just wanted to be present.
 
  The Artemis II crew takes time out for a group hug before returning to Earth.
- 
+
 
  Credit:
  NASA
- 
+
 
  The Artemis II crew takes time out for a group hug before returning to Earth.
 
- 
+
 
  Credit:
 
- 
+
  NASA
 
- 
+
 
 Ars: What did you hear?
 
@@ -97,21 +97,21 @@ Ars: Where I was watching, there was silence during those final minutes, the par
 Glover: I know we’re on to something. I know the 10 days we were up there are a big part of it, but I’m gonna say this to you as a person because, you know, I consider you a friend. A part of this is how we frame what we’re doing now, what we do next, the stories we choose to tell. There’s a lot of this we haven’t talked to you about, but now we have the challenge of keeping it going.
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
- Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books: 
+ Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books:
 Liftoff
-, about the rise of SpaceX; and 
+, about the rise of SpaceX; and
 Reentry
 , on the development of the Falcon 9 rocket and Dragon. A certified meteorologist, Eric lives in Houston.
- 
+
 
 1. 1.Ridley Scott's post-apocalyptic The Dog Stars drops first trailer
 2. 2.Artemis II pilot talks about what it was really like to fly and land in Orion

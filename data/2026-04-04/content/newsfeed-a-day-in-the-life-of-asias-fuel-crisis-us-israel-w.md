@@ -40,9 +40,9 @@ It’s not just our own fuel supply – it’s the contractors that come into do
 As a farmer, you have nobody to pass that cost on to. That might mean we’re not investing in the farm, or we have to put off, or delay, maintenance costs. We’re trying to run as efficiently as we can – we’re not just using equipment and burning fuel for the sake of it. But we’re a bit stuck – the cows still need to be fed, we still need to harvest the feed. It’s all essential activity.”
 
 View image in fullscreen
-James Brady prepares the cows for milking on his 150-hectare dairy farm where he and his wife, Nicola, milk 200 cows, while feeling the impact of rising fuel costs. 
+James Brady prepares the cows for milking on his 150-hectare dairy farm where he and his wife, Nicola, milk 200 cows, while feeling the impact of rising fuel costs.
  Photograph: Fiona Goodall/The Guardian
-10:00am 
+10:00am
 
 ### Port Vila, VanuatuDaniel Thomas, 47, bus driver
 
@@ -70,7 +70,7 @@ The government’s 12-pointenergy-saving campaignalso calls for shorter showers,
 I think this energy campaign isn’t just about those specific actions. It’s the message of overcoming difficulties together. The measures feel manageable, and Korean people have always had a strong spirit of frugality. We’ve overcome crises before. We endured the 1997IMF crisis, the2013 blackout risks, Covid, of course. If the government does its part and citizens cooperate, we can get through this too.
 
 View image in fullscreen
-Kim Hooin commutes by bus in Sejong, South Korea. 
+Kim Hooin commutes by bus in Sejong, South Korea.
 12pm
 
 ### Surin province, ThailandTeerayut Ruenrerng, owner of a mobile grocery truck
@@ -110,7 +110,7 @@ The fallout from the energy crisis hasn’t reached us yet, but I expect gas pri
 If fuel costs rise and the footfall stays the same, I’ll have to start thinking seriously about the future, not least because I’ll be 76 soon. Somesentoare reinventing themselves by offering food and drink and entertainment, but it’s very different for most of the others. They’ll weigh up the pros and cons and a lot will decide they have no choice but to close.
 
 View image in fullscreen
-Koichi Matsumoto scrubs the floor of his bathhouse in north-east Tokyo. 
+Koichi Matsumoto scrubs the floor of his bathhouse in north-east Tokyo.
  Photograph: Justin McCurry/The Guardian
 4pm
 

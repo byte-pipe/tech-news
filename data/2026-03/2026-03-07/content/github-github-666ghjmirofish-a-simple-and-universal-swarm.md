@@ -11,7 +11,7 @@ description: A Simple and Universal Swarm Intelligence Engine, Predicting Anythi
 
 666ghj
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork614
 * Star5.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -272,11 +272,11 @@ npm run dev
 
 单独启动：
 
-npm run backend 
+npm run backend
 #
  仅启动后端
 
-npm run frontend 
+npm run frontend
 #
  仅启动前端
 
@@ -342,48 +342,48 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
  Readme
 
- 
+
 
 ### License
 
  AGPL-3.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 5.5k
 
  stars
- 
+
 
 ### Watchers
 
 42
 
  watching
- 
+
 
 ### Forks
 
 614
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases3
 
@@ -391,11 +391,11 @@ V0.1.2
 
  Latest
 
- 
+
 
 Mar 7, 2026
 
- 
+
 
 + 2 releases
 
@@ -411,17 +411,17 @@ Mar 7, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -429,9 +429,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

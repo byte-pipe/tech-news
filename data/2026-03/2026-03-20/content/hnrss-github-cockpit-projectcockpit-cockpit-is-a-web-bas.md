@@ -14,7 +14,7 @@ tags:
 
 cockpit-project
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork1.2k
 * Star13.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -244,51 +244,51 @@ www.cockpit-project.org/
 
  Readme
 
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 13.6k
 
  stars
- 
+
 
 ### Watchers
 
 184
 
  watching
- 
+
 
 ### Forks
 
 1.2k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases430
 
@@ -296,11 +296,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Mar 18, 2026
 
- 
+
 
 + 429 releases
 
@@ -316,17 +316,17 @@ Mar 18, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors228
 

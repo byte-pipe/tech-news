@@ -16,7 +16,7 @@ tags:
 This newsletter is free to read, and it’ll stay that way. But if you want more - extra posts each month, access to the community, and a direct line to ask me things - paid subscriptions are $2.50/month. A lot of people have told me it’s worth it.
 
  Upgrade
- 
+
 
 In 1944, the Wehrmacht launched into Hitler’s last ditch effort to save the Third Reich. The Battle of the Bulge was a doomed campaign and a doomed gamble from a doomed regime, but its brutality was a true second test of the US Army on the Western Front. During the battle, Army historian S.L.A Marshall began interviewing infantry companies who’d been baptised in combat. Published 3 years later in his 1947 book, Men Against Fire, Marshall’s research showed that just 15-20% of riflemen in active combat positions ever fired their weapons - most kept their heads down. They moved when they were ordered and they held their positions, and they mimicked the outward appearance of a soldier in battle - but shoot, they did not. By any standard organisational metric, the men were present and accounted for, but 4 out of 5 never pulled the trigger.
 

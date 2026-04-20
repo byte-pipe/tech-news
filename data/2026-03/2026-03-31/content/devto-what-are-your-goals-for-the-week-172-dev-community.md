@@ -56,15 +56,15 @@ This series got mentioned by@francistrdevin their post about checking in on peop
 WeCoded 2026: Echoes of Experience 💜
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
 FrancisTRᴅᴇᴠ (っ◔◡◔)っ
 
  Follow
- 
+
 
 Mar 24
 
@@ -91,7 +91,7 @@ Comments
  comments
 
  4 min read
- 
+
 
 ## Your turn, what do you plan to do this week?
 
@@ -108,7 +108,7 @@ Enter fullscreen mode
 Exit fullscreen mode
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -119,6 +119,6 @@ Preview
 Dismiss
 
  View full discussion (24 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

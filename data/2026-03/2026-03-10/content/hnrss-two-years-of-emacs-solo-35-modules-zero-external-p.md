@@ -14,7 +14,7 @@ tags:
 
 ## Rahul's Blog
 
-light 
+light
  dark
 
 # Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor
@@ -97,12 +97,12 @@ loaded at the bottom ofinit.elvia a simple block:
 
 (
 add-to-list
- 
+
 'load-path
- 
+
 (
 expand-file-name
- 
+
 "lisp"
  user-emacs-directory
 )
@@ -110,19 +110,19 @@ expand-file-name
 
 (
 require
- 
+
 'emacs-solo-themes
 )
 
 (
 require
- 
+
 'emacs-solo-movements
 )
 
 (
 require
- 
+
 'emacs-solo-formatter
 )
 
@@ -214,25 +214,25 @@ capable:
 
 (
 setq
- icomplete-delay-completions-threshold 
+ icomplete-delay-completions-threshold
 0
 )
 
 (
 setq
- icomplete-compute-delay 
+ icomplete-compute-delay
 0
 )
 
 (
 setq
- icomplete-show-matches-on-no-input 
+ icomplete-show-matches-on-no-input
 t
 )
 
 (
 setq
- icomplete-scroll 
+ icomplete-scroll
 t
 )
 

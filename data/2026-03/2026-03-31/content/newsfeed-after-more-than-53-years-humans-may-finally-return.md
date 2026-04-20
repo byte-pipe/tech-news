@@ -41,22 +41,22 @@ Now, the rocket is back on the pad, and NASA officials shared cautious optimism 
 “Hey, let’s go to the Moon!” Wiseman said as he greeted VIPs and news media at the Florida spaceport. “I think the nation and the world has been waiting a long time to do this again, and on behalf of myself, Victor, Christina, and Jeremy, we are really pumped to go do this for this entire team. It has been a lot of work. It’s been a great journey.”
 
  Canadian astronaut Jeremy Hansen, NASA mission specialist Christina Koch, commander Reid Wiseman, and pilot Victor Glover after arriving at Kennedy Space Center, Florida, for Artemis II launch preparations.
- 
+
 
  Credit:
  NASA/Jim Ross
- 
+
 
  Canadian astronaut Jeremy Hansen, NASA mission specialist Christina Koch, commander Reid Wiseman, and pilot Victor Glover after arriving at Kennedy Space Center, Florida, for Artemis II launch preparations.
 
- 
+
 
  Credit:
 
- 
+
  NASA/Jim Ross
 
- 
+
 
 It has been a long wait. NASA and the world’s other space agencies have not ventured beyond low-Earth orbit since 1972, when the last Apollo mission returned from the Moon. The farthest anyone has traveled from Earth in that time was in 2024, when a team of commercial astronauts flew to an altitude of 870 miles (1,400 kilometers) on SpaceX’s Polaris Dawn mission.
 
@@ -79,17 +79,17 @@ The change will increase the chances of launching Artemis III next year. Sending
 “Behind this flight stands a campaign, landings, a lunar base,nuclear propulsion into deep space. That begins, not ends, with what happens on Wednesday evening,”Kshatriya said.
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark is a space reporter at Ars Technica, covering private space companies and the world’s space agencies. Stephen writes about the nexus of technology, science, policy, and business on and off the planet.
- 
+
 
 1. 1.After 16 years and $8 billion, the military's new GPS software still doesn't work
 2. 2.Water utility announces it's ditching fluoride—then reveals it did so years ago

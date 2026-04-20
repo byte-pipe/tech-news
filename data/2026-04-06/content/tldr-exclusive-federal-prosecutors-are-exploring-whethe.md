@@ -24,7 +24,7 @@ Federal agencies
  See all topics
 
  Follow
- 
+
 
 Federal prosecutors in Manhattan are exploring whether certain lucrative bets placed on prediction markets have violated insider trading and other laws, multiple sources told CNN.
 
@@ -75,19 +75,19 @@ Trades that took place on marketplaces outside of US also make it more challengi
 Video Ad Feedback
 
 Kara Swisher weighs in on CNN's exclusive reporting that a trader made nearly $1M on Polymarket with accurate Iran bets
- 
+
 
  6:34
- 
+
 
  • Source:
- 
- 
+
+
 CNN
 
 Kara Swisher weighs in on CNN's exclusive reporting that a trader made nearly $1M on Polymarket with accurate Iran bets
 
-6:34 
+6:34
 
 The series of well-timed bets has led some lawmakers from both parties to introduce bills to clarify the rules, including banning lawmakers and federal officials from trading on political events or policy decisions, and outlawing sports betting on the platforms. Last week, California Democratic Gov. Gavin Newsomissuedan executive order to ban state government officials from using insider knowledge on prediction markets in the state.
 
@@ -116,7 +116,7 @@ MS
 New bill aims to ban lawmakers from prediction markets
 
  1:03
- 
+
 
 Kalshi said in the past year it has referred over a dozen cases to law enforcement.
 

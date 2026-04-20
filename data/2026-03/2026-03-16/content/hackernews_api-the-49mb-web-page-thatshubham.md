@@ -15,24 +15,24 @@ tags:
 ---
 
 Home
- 
+
 
 
  Wiki
- 
+
 
 
 
  Blog
- 
+
 
 
  About
- 
+
 
 
  Contact
- 
+
 
 # The 49MB Web Page
 
@@ -181,7 +181,7 @@ Economic Times:Imagine deploying this to production. Does anyone even
 
 
  Critical Error
- 
+
 
 #### 1The Double Modal Ambush
 
@@ -194,7 +194,7 @@ The user is hit with not one, but two simultaneous
 
 
  Severe Issue
- 
+
 
 #### 2Viewport suffocation
 
@@ -206,7 +206,7 @@ Examine the screen real estate. We have a top banner
 
 
  Laborious non-work
- 
+
 
 #### 3Unacceptable Interaction Cost
 
@@ -422,20 +422,20 @@ About the AuthorI'm
 
  Read Next: Rise of SanityWare
 
- 
+
 
 
  Discover
- 
+
 
 
  Detect AI-Images
 
- 
+
 
 
  FediHired
- 
+
 
 This page has a transferred Size: 887 kB. Of which images take 479 kB
  and hosted fonts take 212 kB.

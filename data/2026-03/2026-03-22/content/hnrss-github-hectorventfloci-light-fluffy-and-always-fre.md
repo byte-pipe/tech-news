@@ -14,7 +14,7 @@ tags:
 
 hectorvent
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork16
 * Star566
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -273,26 +273,26 @@ Native binary
 
 services
 :
- 
+
 floci
 :
- 
+
 image
-: 
+:
 hectorvent/floci:latest
 
- 
+
 ports
 :
- - 
+ -
 "
 4566:4566
 "
 
- 
+
 volumes
 :
- - 
+ -
 ./data:/app/data
 
 docker compose up
@@ -325,9 +325,9 @@ Point your existing AWS SDK athttp://localhost:4566— no other changes needed.
 // Java (AWS SDK v2)
 
 DynamoDbClient
- 
+
 client
- = 
+ =
 DynamoDbClient
 .
 builder
@@ -355,13 +355,13 @@ StaticCredentialsProvider
 .
 create
 (
- 
+
 AwsBasicCredentials
 .
 create
 (
 "test"
-, 
+,
 "test"
 )))
  .
@@ -371,35 +371,35 @@ build
 # Python (boto3)
 
 import
- 
+
 boto3
 
 client
- 
+
 =
- 
+
 boto3
 .
 client
 (
 "s3"
 ,
- 
+
 endpoint_url
 =
 "http://localhost:4566"
 ,
- 
+
 region_name
 =
 "us-east-1"
 ,
- 
+
 aws_access_key_id
 =
 "test"
 ,
- 
+
 aws_secret_access_key
 =
 "test"
@@ -408,62 +408,62 @@ aws_secret_access_key
 // Node.js (AWS SDK v3)
 
 import
- 
+
 {
- 
+
 S3Client
- 
+
 }
- 
+
 from
- 
+
 "@aws-sdk/client-s3"
 ;
 
 const
- 
+
 client
- 
+
 =
- 
+
 new
- 
+
 S3Client
 (
 {
 
- 
+
 endpoint
-: 
+:
 "http://localhost:4566"
 ,
 
- 
+
 region
-: 
+:
 "us-east-1"
 ,
 
- 
+
 credentials
-: 
+:
 {
- 
+
 accessKeyId
-: 
+:
 "test"
 ,
- 
+
 secretAccessKey
-: 
+:
 "test"
- 
+
 }
 ,
 
- 
+
 forcePathStyle
-: 
+:
 true
 ,
 
@@ -479,7 +479,7 @@ Description
 
 latest
 
-Native image — sub-second startup 
+Native image — sub-second startup
 (recommended)
 
 latest-jvm
@@ -487,7 +487,7 @@ latest-jvm
 JVM image — broadest platform compatibility
 
 x.y.z
- / 
+ /
 x.y.z-jvm
 
 Pinned releases
@@ -525,11 +525,11 @@ FLOCI_STORAGE_MODE
 hybrid
 
 memory
- · 
+ ·
 persistent
- · 
+ ·
 hybrid
- · 
+ ·
 wal
 
 FLOCI_STORAGE_PERSISTENT_PATH
@@ -562,58 +562,58 @@ hectorvent.dev/floci/
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 566
 
  stars
- 
+
 
 ### Watchers
 
 2
 
  watching
- 
+
 
 ### Forks
 
 16
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases9
 
@@ -621,11 +621,11 @@ Activity
 
  Latest
 
- 
+
 
 Mar 20, 2026
 
- 
+
 
 + 8 releases
 
@@ -641,9 +641,9 @@ Mar 20, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors3
 

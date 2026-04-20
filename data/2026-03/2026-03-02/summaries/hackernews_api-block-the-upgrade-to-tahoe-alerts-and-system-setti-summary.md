@@ -20,26 +20,26 @@ summarized_at: 2026-03-02T08:26:49.808744
 - The “Stop Tahoe Update” GitHub project provides a ready‑made profile (`deferral-90days.mobileconfig`) that implements this policy.
 
 ## Step‑by‑Step Instructions
-1. **Clone the repository**  
+1. **Clone the repository**
    ```bash
    git clone https://github.com/travisvn/stop-tahoe-update.git
    cd stop-tahoe-update
    ```
-2. **Make the scripts executable** (not mentioned in the original README)  
+2. **Make the scripts executable** (not mentioned in the original README)
    ```bash
    chmod 755 ./scripts/*.sh
    ```
 3. **Generate two unique UUIDs** and replace the placeholders in `profiles/deferral-90days.mobileconfig`:
    - Locate `<key>PayloadUUID</key><string>REPLACE-WITH-UUID</string>` lines.
    - Run `uuidgen` twice, copy each UUID, and substitute the placeholders.
-4. **Optional: limit the policy to major OS updates only**  
+4. **Optional: limit the policy to major OS updates only**
    - Edit the `<key>forceDelayedSoftwareUpdates</key>` entry to `<false/>` so minor updates still appear.
-5. **Run the install script**  
+5. **Run the install script**
    ```bash
    ./scripts/install-profile.sh profiles/deferral-90days.mobileconfig
    ```
    - The script will report that the `profiles` tool is deprecated and instruct you to approve the profile in System Settings → Privacy & Security → Profiles.
-6. **Complete installation via System Settings**  
+6. **Complete installation via System Settings**
    - Open System Settings, select the “Profile Downloaded” entry, double‑click the profile, and click **Install** through the subsequent dialogs.
    - After a restart of System Settings, a message confirming the deferral appears at the top of the Software Update pane.
 7. **Create a shortcut for re‑applying the profile** (after the 90‑day period expires):

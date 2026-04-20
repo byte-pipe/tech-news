@@ -23,23 +23,23 @@ tags:
 Apple would never have survived a decade without Steve Wozniak’s marvelous machine.﻿
 
 by
- 
- 
+
+
 Jason Snell
 Mar 30, 2026, 12:00 PM UTC
 * Link
 * Share
 * Gift
-Image: 
- 
+Image:
+
  Image: Cath Virginia / The Verge, Getty Images
 Jason Snell
- 
-has covered Apple for over 25 years and was the lead editor at Macworld for over a decade. He currently blogs at 
+
+has covered Apple for over 25 years and was the lead editor at Macworld for over a decade. He currently blogs at
 Six Colors
- and podcasts on 
+ and podcasts on
 Relay FM
- and 
+ and
 The Incomparable
 .
 * Link
@@ -51,13 +51,13 @@ When you think of Apple, you probably think of the iPhone, or maybe the Mac, or 
 Apple would never have made it if it weren’t for the Apple II, the company’s first hit product and the first one to generate the amount of devotion we’ve now come to expect from fans of Apple’s products. Their slogan was, and still is, “Apple II Forever!”
 
 1977 Apple II advertisement
- 
+
 Macmothership.com
 
 Let’s go back to the dawn of consumer tech: the 1970s. The first personal computers emerged in this era, but they were largely sold as DIY kits. You’d buy a circuit board, separately buy all the chips and other elements required to assemble the computer (switches, keys), and put the whole thing together yourself. Apple’s first computer (the Apple I, designed by Steve Wozniak) was sold this way, too.
 
 The first computer made by Apple Computers Inc. Most home computer users in the 1970s were hobbyists who designed and assembled their own machines. The Apple I, devised in a bedroom by Steve Wozniak, Steven Jobs and Ron Wayne, was a basic circuit board to which enthusiasts would add display units and keyboards.
- 
+
 Photo by SSPL/Getty Images
 
 In 1976, the owner of an early computer store, the Byte Shop, surprised Steve Jobs by suggesting that Apple would sell more computers if they came preassembled. Apple also experimented with wooden cases that you could put all the bits inside. Jobs quickly realized that Wozniak’s next design could reach a much bigger audience if it was packaged as a consumer product complete with built-in keyboard and set about figuring out how to make a plastic case for that preassembled computer.
@@ -67,7 +67,7 @@ Released in 1977, the Apple II was a beige plastic computer with an included key
 These were very primitive machines. The Apple II could generate rudimentary color graphics, but you ran it and programmed it by typing commands. You’d either get results, or if you missed a keystroke, error beeps combined with a response like ?SYNTAX ERROR. You could type in computer programs or load them in by attaching a cassette tape player (the same as you’d later find in a Sony Walkman) and pressing play, which would translate a digital whine recorded onto the tape into a runnable program.
 
 Instructor Sally Waisbrot teaching Jonathan Schoor during a session at ‘Computer Camp East’ in East Haddam, Connecticut, July 16th 1981. A television set at back is functioning as a display for the Apple II computer.
- 
+
 Photo by UPI/Bettmann Archive/Getty Images
 
 Apple sold enough of those initial Apple II models to get some momentum, but loading programs by cassette was slow and miserable. Something needed to be done, so Jobs found a company that made a 5.25-inch floppy disk drive. Rather than use the supplier’s design, Apple arranged to buy them half-assembled for a deep discount. Wozniak then designed a new, cheap, elegant controller board for the drive that outdid the supplier’s design — a dazzling engineering achievement that also happened to benefit the bottom line. By June 1978, Apple hadthe most affordable disk drive on the planet. More importantly, it was nowmucheasier to write and save programs — and to buy and sell software. The Apple II software world exploded, which led to even more computer sales. The company’srevenue grew640% in 1979 and 230% in 1980.
@@ -75,7 +75,7 @@ Apple sold enough of those initial Apple II models to get some momentum, but loa
 Wozniak is now famous for being famous, the “other Steve” who makes public appearances,was onDancing with the Stars,is frequently quotedabout anything Apple related, and is just a friendly, adorable guy. But the Apple II really was a triumph of his engineering prowess. While other computers required you to type in commands to get them up and running, Wozniak made sure that the Apple II was functional the moment it was powered on, and capable of running BASIC programs right out of the box.
 
 Steve Wozniak, designer of the Apple II, sits with one of the machines, which was the most successful personal computer of its day
- 
+
 Photo by Roger Ressmeyer/Corbis/VCG via Getty Images
 
 The Apple II was not necessarily the most practical purchase for a family to make (that floppy disk drive added $600 to the price), but in those days, parents really did feel like their kids would face an unpleasant future if they weren’t exposed to computer technology. (Ask a nearby Gen Xer you know about how important it was to “learn computers” if you don’t believe me.) Parental interest combined with anaggressive programto sell the Apple II to schools created a playground for millions of kids to explore what might be possible. Happily for us, the Apple II was a pretty amazing toy to play around with even if you didn’t know the first thing about how computers worked.
@@ -83,7 +83,7 @@ The Apple II was not necessarily the most practical purchase for a family to mak
 Literally everyone started by writing a program that printed something like “JASON IS AWESOME” on an infinite loop, but many of us progressed to other things. The Apple II’s sound and graphics were still enough to play early computer games (The Oregon Trail,Castle Wolfenstein,Lode Runner,Karateka, and many more) with much more sophistication than what was offered at the local arcade. In hindsight, the amount of school time my classmates and I spent playing theUltimaseries of roleplaying adventures seems inappropriate!
 
 Production engineer Tom Beier examines a new Apple IIC keyboard at the Apple Computer plant in Dallas, TX on April 24th, 1984. The IIC is the portable version of the company’s successful II family of computers.
- 
+
 Photo by Bettmann/CORBIS/Bettmann Archive
 
 Then came the moment when personal computersreallybecame worth the money: In 1979, two guys from New England invented the spreadsheet program. It was Microsoft Excel’s great-grandmother, a program calledVisiCalc, and it could vastly improve productivity for any bookkeeper or accountant accustomed to manually tabulating numbers on paper. The Apple II was more expensive than some of its competitors, but that meant it had better specs — and so the inventors of VisiCalc decided it would be the perfect platform for their idea. VisiCalc was initially released exclusively for the Apple II, and sales of the computer increased tenfold.
@@ -113,7 +113,7 @@ Finally, in the mid-1980s, after CEO John Sculley famously ejected Steve Jobs fr
 The Apple IIgs wasn’t discontinued until 1992, and the IIe kicked around until 1993. Though sales had obviously fallen through the floor by then, it’s kind of mind-blowing to think that some people were still buying Apple II computers in the era of Nirvana’sNevermind.
 
 CUPERTINO, CALIFORNIA JANAURY 24: Steve Jobs, left, and John Sculley host the annual Apple Computer show at Flint Center. Sculley is leaning on the Apple “Lisa” personal computer which succeeded the original Macintosh, on which Jobs is leaning. The 1984 annual meeting was the predecessor of what would become the MacWorld show the next year.
- 
+
 Photo by Cap Carpenter/MediaNews Group/The Mercury News via Getty Images
 
 Yes, the Mac ultimately became Apple’s standard-bearer and drove the bulk of the company’s revenue in the ’90s, but that transition came much later than most people would imagine. Apple could afford to advance the Mac because the Apple II just kept percolating along in the background, teaching kids how to program and helping businesses balance their books, despite the company’s best efforts to replace it.
@@ -139,7 +139,7 @@ Terrence O'Brien
 Mar 29
 The best deals we’ve found from Amazon’s Big Spring Sale (so far)
 Sheena Vasani
- and 
+ and
 Brandon Widder
 Mar 29
 Can my favorite Game Boy gadget tell fake cartridges from real?

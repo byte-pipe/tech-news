@@ -285,7 +285,7 @@ And it can still finish the prefiltering index on a 500k file codebase faster th
 Cheers.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

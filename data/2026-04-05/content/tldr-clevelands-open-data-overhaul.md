@@ -30,7 +30,7 @@ InformationWeek
 April 2, 2026
 
 5 Min
- 
+
 Read
  Elizabeth Crowe, Cleveland's chief innovation and technology officer (CITO), presents at Esri's Public Sector CIO Summit in Redlands, Calif.
 (Source: Kelsey Ziser/InformationWeek)
@@ -100,7 +100,7 @@ Kelsey Ziser is a senior editor at InformationWeek, where she covers C-suite dyn
 
 Before joining InformationWeek, Kelsey spent nine years at sister publication Light Reading, reporting on broad range of topics including smartphones and devices, AI, satellite connectivity, and enterprise networking. Outside of work, she enjoys reading four (or 12) books at once, watching movies about space travel, crafting and tending to an ever-growing collection of houseplants. Kelsey is based in Raleigh, N.C. She can be reached at[email protected]
 
-See more from 
+See more from
 Kelsey Ziser
 
 ## Want more InformationWeek stories in your Google search results?

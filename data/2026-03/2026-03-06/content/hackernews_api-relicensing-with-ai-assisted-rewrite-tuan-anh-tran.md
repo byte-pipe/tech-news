@@ -15,18 +15,18 @@ tags:
 ---
 
 March 5, 2026
- 
 
- 
+
+
 
 # Relicensing with AI-assisted rewrite
 
-##### Posted on 
- 
- March 5, 2026
- 
+##### Posted on
 
- 
+ March 5, 2026
+
+
+
   •3 minutes
   •529 words
 

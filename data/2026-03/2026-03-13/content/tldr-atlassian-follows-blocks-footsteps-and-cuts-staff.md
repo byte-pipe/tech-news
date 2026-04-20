@@ -47,21 +47,21 @@ So far, their prediction has come true.
 Topics
 
 AI
-, 
+,
 Atlassian
-, 
+,
 Australia
-, 
+,
 block
-, 
+,
 Enterprise
-, 
+,
 In Brief
-, 
+,
 Layoffs
-, 
+,
 tech layoffs
- 
+
 
 ### Newsletters
 
@@ -86,7 +86,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

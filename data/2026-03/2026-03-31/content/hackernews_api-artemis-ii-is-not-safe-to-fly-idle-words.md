@@ -28,7 +28,7 @@ Idle Words
 
 brevity is for the weak
 
- 
+
 
 Frequent Topics
 
@@ -37,43 +37,43 @@ antarctica
 argentina
 
 art
- 
+
 aviation
- 
+
 bio
- 
+
 blogs
- 
+
 canada
- 
+
 china
- 
+
 food
- 
+
 france
- 
+
 iraq
- 
+
 meta
- 
+
 nyc
- 
+
 poland
- 
+
 politics
- 
+
 rant
- 
+
 space
- 
+
 tech
- 
+
 travel
- 
+
 vermont
- 
+
 web
- 
+
 work
 
 Greatest Hits
@@ -83,24 +83,24 @@ The Alameda-Weehawken Burrito Tunnel
 The story of America's most awesome infrastructure project.
 
 Argentina on Two Steaks A Day
- 
+
 Eating the happiest cows in the world
 
 Scott and Scurvy
- 
+
  Why did 19th century explorers forget the simple cure for scurvy?
 
 No Evidence of Disease
- 
+
 A cancer story with an unfortunate complication.
 
 Controlled Tango Into Terrain
- 
+
 
 Trying to learn how to dance in Argentina
 
 Dabblers and Blowhards
- 
+
 Calling out Paul Graham for a silly essay about painting
 
 Attacked By Thugs
@@ -110,7 +110,7 @@ Dating Without Kundera
  Practical alternatives to the Slavic Dave Matthews
 
 A Rocket To Nowhere
- 
+
 A Space Shuttle rant
 
 Best Practices For Time Travelers
@@ -124,27 +124,27 @@ The story of John Titor, visitor from the future
 Every Damn Thing
 
 2026
- 
+
 Mar
 
 2025
- 
+
 Feb
 
 2024
- 
+
 May
 
 2023
- 
+
 Jan
 
 2022
- 
+
 Apr
 
 2020
- 
+
 Mar
 
 Apr
@@ -158,7 +158,7 @@ Sep
 Oct
 
 2019
- 
+
 May
 
 Jun
@@ -170,7 +170,7 @@ Aug
 Dec
 
 2018
- 
+
 Oct
 
 Nov
@@ -178,19 +178,19 @@ Nov
 Dec
 
 2017
- 
+
 Feb
 
 Sep
 
 2016
- 
+
 May
 
 Oct
 
 2015
- 
+
 May
 
 Jul
@@ -198,19 +198,19 @@ Jul
 Nov
 
 2014
- 
+
 Jul
 
 Aug
 
 2013
- 
+
 Feb
 
 Dec
 
 2012
- 
+
 Feb
 
 Sep
@@ -220,11 +220,11 @@ Nov
 Dec
 
 2011
- 
+
 Aug
 
 2010
- 
+
 Mar
 
 May
@@ -234,7 +234,7 @@ Jun
 Jul
 
 2009
- 
+
 Jan
 
 Feb
@@ -254,7 +254,7 @@ Aug
 Sep
 
 2008
- 
+
 Jan
 
 Apr
@@ -266,7 +266,7 @@ Aug
 Nov
 
 2007
- 
+
 Jan
 
 Mar
@@ -280,7 +280,7 @@ Jul
 Dec
 
 2006
- 
+
 Feb
 
 Mar
@@ -302,7 +302,7 @@ Oct
 Nov
 
 2005
- 
+
 Jan
 
 Feb
@@ -324,7 +324,7 @@ Nov
 Dec
 
 2004
- 
+
 Jan
 
 Feb
@@ -348,7 +348,7 @@ Nov
 Dec
 
 2003
- 
+
 Jan
 
 Feb
@@ -374,7 +374,7 @@ Nov
 Dec
 
 2002
- 
+
 May
 
 Jun

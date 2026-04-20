@@ -78,7 +78,7 @@ Triangle
 * HowTrump’s plot to grab Iran's nuclear fuelwould actually work
 * WIRED Health:Jointhe boldest minds in healthcare
 Jorge Garay
- is a contributor to WIRED en Español. He specializes in technology, cybersecurity, and the legislative impact of social media. He has worked in digital media for 10 years. He is passionate about geek culture, astronomy, and the development of new communication technologies. ... 
+ is a contributor to WIRED en Español. He specializes in technology, cybersecurity, and the legislative impact of social media. He has worked in digital media for 10 years. He is passionate about geek culture, astronomy, and the development of new communication technologies. ...
 Read More
 Contributor
 

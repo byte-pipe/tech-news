@@ -30,13 +30,13 @@ Lo bloqueos aplicarán "todos losdías de emisión de eventos deportivosen direc
 La autorización tiene una novedad importante. Y es que no afecta solo a las principales operadoras como ocurre con los bloqueos de LaLiga, sino que se dirige, además de a las marcas de Movistar, MásOrange, Vodafone y Digi, "al resto depequeños y medianos operadoresque ofrecen sus servicios de acceso a la red de ámbito nacional, regional y local". Estas operadoras recibirán procedentes de Telefónica, los listados de "direcciones IP como de URL y nombres de dominio utilizados para la difusión ilícita".
 
 1. Artículo
- 
 
- 
+
+
 Comparte
 
-🗨️ Ver los 
+🗨️ Ver los
 63 comentarios
- 
+
 
 ## 🔃 Relacionado

@@ -27,8 +27,8 @@ Sony sells console covers in various colors, but here’s something different.
 Sony sells console covers in various colors, but here’s something different.
 
 by
- 
- 
+
+
 Cameron Faulkner
 Apr 1, 2026, 2:00 PM UTC
 * Link
@@ -38,8 +38,8 @@ Apr 1, 2026, 2:00 PM UTC
 If you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement.
 
 Cameron Faulkner
- 
-is an editor covering deals and gaming hardware. He joined in 2018, and after a two-year stint at Polygon, he rejoined 
+
+is an editor covering deals and gaming hardware. He joined in 2018, and after a two-year stint at Polygon, he rejoined
 The Verge
  in May 2025.
 
@@ -51,7 +51,7 @@ The BoxPlates don’t get in the way of the ports or power button, and I can sti
 The build quality is on-par with other console covers, though these don’t have tiny symbols etched on them.
 There’s enough of a gap between the BoxPlates and the console that there’s room for small magnets (attached with a magnet backing).
 I mean, come on, these plates look phenomenal.
- 
+
 (Yes, I’m aware the PS5 Pro is upside down here.)
 
 Crucially, the BoxPlates don’t obstruct any of the front or rear ports, nor do they totally hide the power indicator LED. In the right (or wrong?) light, the shiny middle part of the PlayStation 5 shines in a shade of blue. Did you know it was blue? I didn’t know it was blue.
@@ -98,19 +98,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 
@@ -126,12 +126,12 @@ You can now use ChatGPT with Apple’s CarPlay
 Samsung’s new app claims to alleviate motion sickness using sound
 The best deals to shop during the last few hours of Amazon’s Big Spring Sale
 Sheena Vasani
- and 
+ and
 Brandon Widder
 1:14 AM UTC
 The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale
 Sheena Vasani
- and 
+ and
 Brandon Widder
 Mar 31
 Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent

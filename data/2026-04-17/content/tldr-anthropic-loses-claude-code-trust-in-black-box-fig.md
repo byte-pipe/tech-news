@@ -16,5 +16,5 @@ Analysis
 
 ### China gave away its best AI models. Agents made the giveaway profitable.
 
-Harkaram Grewal · 
+Harkaram Grewal ·
 Apr 16, 2026

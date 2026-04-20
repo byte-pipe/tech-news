@@ -11,7 +11,7 @@ description: The first open-source harness builder for AI coding. Make AI coding
 
 coleam00
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork2.4k
 * Star14k
 
- 
- 
- 
+
+
+
  
 dev
 Branches
@@ -226,138 +226,138 @@ Here's an example of an Archon workflow that plans, implements in a loop until t
 
 nodes
 :
- - 
+ -
 id
-: 
+:
 plan
 
- 
+
 prompt
-: 
+:
 "
 Explore the codebase and create an implementation plan
 "
 
- - 
+ -
 id
-: 
+:
 implement
 
- 
+
 depends_on
-: 
+:
 [plan]
 
- 
+
 loop
-: 
+:
 #
  AI loop - iterate until done
 
- 
+
 prompt
-: 
+:
 "
 Read the plan. Implement the next task. Run validation.
 "
 
- 
+
 until
-: 
+:
 ALL_TASKS_COMPLETE
 
- 
+
 fresh_context
-: 
-true 
+:
+true
 #
  Fresh session each iteration
 
- - 
+ -
 id
-: 
+:
 run-tests
 
- 
+
 depends_on
-: 
+:
 [implement]
 
- 
+
 bash
-: 
+:
 "
 bun run validate
 "
- 
+
 #
  Deterministic - no AI
 
- - 
+ -
 id
-: 
+:
 review
 
- 
+
 depends_on
-: 
+:
 [run-tests]
 
- 
+
 prompt
-: 
+:
 "
 Review all changes against the plan. Fix any issues.
 "
 
- - 
+ -
 id
-: 
+:
 approve
 
- 
+
 depends_on
-: 
+:
 [review]
 
- 
+
 loop
-: 
+:
 #
  Human approval gate
 
- 
+
 prompt
-: 
+:
 "
 Present the changes for review. Address any feedback.
 "
 
- 
+
 until
-: 
+:
 APPROVED
 
- 
+
 interactive
-: 
-true 
+:
+true
 #
  Pauses and waits for human input
 
- - 
+ -
 id
-: 
+:
 create-pr
 
- 
+
 depends_on
-: 
+:
 [approve]
 
- 
+
 prompt
-: 
+:
 "
 Push changes and create a pull request
 "
@@ -398,14 +398,14 @@ Bun-bun.sh
 #
  macOS/Linux
 
-curl -fsSL https://bun.sh/install 
+curl -fsSL https://bun.sh/install
 |
  bash
 
 #
  Windows (PowerShell)
 
-irm bun.sh/install.ps1 
+irm bun.sh/install.ps1
 |
  iex
 
@@ -431,14 +431,14 @@ Claude Code-claude.ai/code
 #
  macOS/Linux/WSL
 
-curl -fsSL https://claude.ai/install.sh 
+curl -fsSL https://claude.ai/install.sh
 |
  bash
 
 #
  Windows (PowerShell)
 
-irm https://claude.ai/install.ps1 
+irm https://claude.ai/install.ps1
 |
  iex
 
@@ -459,7 +459,7 @@ Already have Claude Code set up? Install the standalone CLI binary and skip the 
 
 macOS / Linux
 
-curl -fsSL https://archon.diy/install 
+curl -fsSL https://archon.diy/install
 |
  bash
 
@@ -469,7 +469,7 @@ irm https:
 //
 archon.diy
 /
-install.ps1 
+install.ps1
 |
  iex
 
@@ -747,58 +747,58 @@ archon.diy
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 14k
 
  stars
- 
+
 
 ### Watchers
 
 191
 
  watching
- 
+
 
 ### Forks
 
 2.4k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases4
 
@@ -806,11 +806,11 @@ Archon CLI v0.3.2
 
  Latest
 
- 
+
 
 Apr 8, 2026
 
- 
+
 
 + 3 releases
 
@@ -826,17 +826,17 @@ Apr 8, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -844,9 +844,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

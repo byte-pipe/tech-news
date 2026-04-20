@@ -33,7 +33,7 @@ Alexa’s app also had warned that the style could contain “mature subject mat
 
 However, further investigation discovered this is not Amazon’s version of something likeGrok’s adult AI companions. The AI assistant said the new option won’t get into areas like explicit sexual content, hate speech, illegal activities, personal attacks, or anything that could cause harm to oneself or others.
 
- 
+
 
 Techcrunch event
 
@@ -58,23 +58,23 @@ The move is the latest example of how Amazon is trying to make Alexa+ more custo
 Topics
 
 AI
-, 
+,
 Alexa
-, 
+,
 Amazon
-, 
+,
 Apps
- 
 
-			Sarah Perez	
+
+			Sarah Perez
 
 Consumer News Editor
 
 		Sarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.
 
 
-You can contact or verify outreach from Sarah by emailing 
+You can contact or verify outreach from Sarah by emailing
 sarahp@techcrunch.com
- or via encrypted message at sarahperez.01 on Signal. 
+ or via encrypted message at sarahperez.01 on Signal.
 
 View Bio

@@ -32,22 +32,22 @@ Palmer Luckey, the founder of Oculus, established Anduril with a team of ex-Pala
 The purchase of ExoAnalytic will “accelerate Anduril’s work supporting national security space customers,” the company said in a statement. Anduril will take ownership of ExoAnalytic’s global telescope network, missile defense software, and simulation and tracking algorithms. The additions will support Anduril’s capabilities in space domain awareness, battle management, and fire control, areas where the US Space Force is seeking new contractors.
 
  This rendering shows ExoAnalytic’s SEAS modeling and simulation tool sponsored by the US Space Force. The tool supports analysis of new system concepts, system architectures, and concepts of operations (CONOPS) in the context of joint warfighting scenarios.
- 
+
 
  Credit:
  ExoAnalytic Solutions
- 
+
 
  This rendering shows ExoAnalytic’s SEAS modeling and simulation tool sponsored by the US Space Force. The tool supports analysis of new system concepts, system architectures, and concepts of operations (CONOPS) in the context of joint warfighting scenarios.
 
- 
+
 
  Credit:
 
- 
+
  ExoAnalytic Solutions
 
- 
+
 
 “The acquisition would significantly enhance Anduril’s ability to develop and deploy solutions across space sensing, tracking, and countermeasures, building on existing collaborations between Anduril and Exo to significantly scale the impact that we will be able to provide for national security missions,” Anduril said.
 
@@ -64,22 +64,22 @@ Subramanian said Anduril will fully absorb ExoAnalytic in the acquisition, addin
 According to its website, ExoAnalytic’s sensor network has collected billions of observations with “high-quality astrometric and photometric measurement data.” The dataset allows ExoAnalytic to discern satellite maneuvers, stability changes, anomalies, and more.
 
  Anduril’s YFQ-44A fighter drone made its first flight in 2025.
- 
+
 
  Credit:
  Anduril Industries
- 
+
 
  Anduril’s YFQ-44A fighter drone made its first flight in 2025.
 
- 
+
 
  Credit:
 
- 
+
  Anduril Industries
 
- 
+
 
 ExoAnalytic’s technology also has applications in missile defense, improving Anduril’s position to take a role in the Pentagon’sGolden Dome program. “They are experts in digital signal processing, seeker theory, seeker design, and estimation of targets, discriminating the hard body, discriminating the target from other things that might be in the environment,” Subramanian said.
 
@@ -90,17 +90,17 @@ While Anduril will continue serving ExoAnalytic’s commercial customers, the co
 “Our ability to do things terrestrially, like the events going on over the last few weeks, are all hinged on our ability to access and leverage space for those missions,” Subramanian said. “So we want that as the thesis of our business unit. That’s what we’re focused on. We’re not doing GPS. We’re not doing weather. We are focused on protecting space, assuring access to space, ensuring custody of space, ensuring that we can track everything, and that’s what we’re going to continue rapidly investing in.”
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark is a space reporter at Ars Technica, covering private space companies and the world’s space agencies. Stephen writes about the nexus of technology, science, policy, and business on and off the planet.
- 
+
 
 1. 1.14,000 routers are infected by malware that's highly resistant to takedowns
 2. 2.Explain it like I'm 5: Why is everyone on speakerphone in public?

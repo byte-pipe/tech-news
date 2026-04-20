@@ -9,7 +9,7 @@ author: rknsh
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,13 +17,13 @@ r/worldnews
 
 rknsh
 
- 
 
- 
+
+
 
 # US-Israeli plan for Kurdish invasion of Iran reportedly collapsed amid leaks, distrust
 
  timesofisrael.com
- 
+
 
 Open

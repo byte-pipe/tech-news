@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Jonny Evans
 
 # Apple goes global with key MDM tools and services for business
@@ -20,13 +20,13 @@ news
 
 Mar 24, 2026
 5 mins
- 
+
 
 ## Free device management and deployment tools, additional services, and more are now more widely available as Apple grows an alternative to other business suites.
 
- 
 
-							Credit: 															
+
+							Credit:
 Apple
 
 As it steadilygrows its share in business markets, Apple has at last introduced its very useful collection of services for small and mid-sized businesses (SMBs), Apple Business Essentials, outside the US; except it’s not called Apple Business Essentials, and much of it will be free.
@@ -74,27 +74,27 @@ Mobile
 Mobile Device Management
 Mobile Management
 Vendors and Providers
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Jonny Evans															
+														by
+
+																Jonny Evans
 
 1. Follow Jonny Evans on LinkedIn
 
@@ -110,7 +110,7 @@ Hello, and thanks for dropping in. I'm pleased to meet you. I'm Jonny Evans, and
 * opinion### Jamf warns of massive app insecuritiesApr 2, 20266 mins
 * feature### Apple — 50 years in fifteen minutesApr 1, 202617 mins
 * opinion### Why the axios supply chain attack should have Apple worriedMar 31, 20264 mins
- 
+
 
 ## Show me more
 
@@ -120,12 +120,12 @@ Podcasts
 Videos
 
 news
- 
- 
+
+
 
 ### Google adds end-to-end Gmail encryption to Android, iOS devices for enterprises
 
- 
+
 By Howard Solomon
 Apr 10, 2026
 5 mins
@@ -135,12 +135,12 @@ Encryption
 Gmail
 
 news analysis
- 
- 
+
+
 
 ### Agentic AI – Ongoing coverage of its impact on the enterprise
 
- 
+
 By Dan Muse
 Apr 10, 2026
 32 mins
@@ -150,12 +150,12 @@ Emerging Technology
 Generative AI
 
 news
- 
- 
+
+
 
 ### DARPA wants to help AI agents to talk to one another
 
- 
+
 By Maxwell Cooter
 Apr 10, 2026
 2 mins
@@ -163,12 +163,12 @@ Apr 10, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### AI Data Center Heat, Chrome Zero-Day, AWS Attacks | Ep.69
 
- 
+
 By Arnold Davick
 Apr 10, 2026
 2 mins
@@ -176,12 +176,12 @@ Apr 10, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### Anthropic Mythos Leak, AWS Relief, WhatsApp Malware Warning | Ep.68
 
- 
+
 By Arnold Davick
 Apr 10, 2026
 2 mins
@@ -189,12 +189,12 @@ Apr 10, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### Gemini Chat Imports, Oracle Layoffs, AI Weakens Learning | Ep. 67
 
- 
+
 By Arnold Davick
 Apr 7, 2026
 2 mins
@@ -202,12 +202,12 @@ Apr 7, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### AI Data Center Heat, Chrome Zero-Day, AWS Attacks | Ep.69
 
- 
+
 By Arnold Davick
 Apr 10, 2026
 2 mins
@@ -215,12 +215,12 @@ Apr 10, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### Anthropic Mythos Leak, AWS Relief, WhatsApp Malware Warning | Ep.68
 
- 
+
 By Arnold Davick
 Apr 10, 2026
 2 mins
@@ -228,12 +228,12 @@ Apr 10, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### Gemini Chat Imports, Oracle Layoffs, AI Weakens Learning | Ep. 67
 
- 
+
 By Arnold Davick
 Apr 7, 2026
 2 mins

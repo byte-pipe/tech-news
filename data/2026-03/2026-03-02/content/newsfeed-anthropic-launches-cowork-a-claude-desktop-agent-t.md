@@ -20,7 +20,7 @@ Featured
 Michael Nuñez
 
  January 12, 2026
- 
+
 
 Credit: VentureBeat made with Midjourney
 

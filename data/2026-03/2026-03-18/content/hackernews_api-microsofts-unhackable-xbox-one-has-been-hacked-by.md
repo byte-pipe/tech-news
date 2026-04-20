@@ -14,7 +14,7 @@ tags:
 - trending
 ---
 
-(Image credit: Markus ‘Doom’ Gaasedelen 
+(Image credit: Markus ‘Doom’ Gaasedelen
 video presentation
 )
 
@@ -47,9 +47,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -65,10 +65,10 @@ A groundbreaking hack forMicrosoft’s ‘unhackable’Xbox Onewas revealed at t
 
 RE//verse 2026: Hacking the Xbox One - YouTube
 
-Watch On 
+Watch On
 
 Go deeper with TH Premium: CPU
- 
+
 
 (Image credit: Tom's Hardware)
 * CPU scaling with DLSS
@@ -78,31 +78,31 @@ Go deeper with TH Premium: CPU
 
 “In 2013 some kind of iron curtain came down onsecurity, of the Xbox ecosystem, and the Xbox One never got hacked,” noted Gaasedelen in his introduction. The same is true of the Xbox One’s successors, and Microsoft was rightly proud. Seven years after its launch, Microsoft engineers would still assert that the Xbox One was “the most secure product Microsoft has ever produced.”
 
- 
 
-(Image credit: Markus ‘Doom’ Gaasedelen 
+
+(Image credit: Markus ‘Doom’ Gaasedelen
 video presentation
 )
 
 What made the Xbox One so secure, so special? Gaasedelen referenced prior work and presentations to convey this information. I’ve shared a summary slide about this, too, but let’s fast forward to the demo of the new Bliss hack, which takes place from about 46 minutes into the presentation.
 
-Article continues below 
+Article continues below
 
 Since reset glitching wasn’t possible, Gaasedelen thought somevoltage glitchingcould do the trick. So, instead of tinkering with the system rest pin(s) the hacker targeted the momentary collapse of the CPU voltage rail. This was quite a feat, as Gaasedelen couldn’t ‘see’ into the Xbox One, so had to develop new hardware introspection tools.
 
 Eventually, the Bliss exploit was formulated, where two precise voltage glitches were made to land in succession. One skipped the loop where theARM Cortexmemory protection was setup. Then the Memcpy operation was targeted during the header read, allowing him to jump to the attacker-controlled data.
 
-Image 
+Image
 1
- of 
+ of
 3
-(Image credit: Markus ‘Doom’ Gaasedelen 
+(Image credit: Markus ‘Doom’ Gaasedelen
 video presentation
 )
-(Image credit: Markus ‘Doom’ Gaasedelen 
+(Image credit: Markus ‘Doom’ Gaasedelen
 video presentation
 )
-(Image credit: Markus ‘Doom’ Gaasedelen 
+(Image credit: Markus ‘Doom’ Gaasedelen
 video presentation
 )
 
@@ -119,7 +119,7 @@ Receive email from us on behalf of our trusted partners or sponsors
 
 Whether PC users, our core readership, will be interested in actually emulating Xbox One, looks unlikely. The 2013 system’s game library is largely overlapped in better quality on the PC platform.
 
- 
+
 
 FollowTom's Hardware on Google News, oradd us as a preferred source, to get our latest news, analysis, & reviews in your feeds.
 

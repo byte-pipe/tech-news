@@ -45,26 +45,26 @@ To solve this, I usedSanitization Middleware.I built a regex-based sanitization 
 // app/api/generate/route.ts
 
 const
- 
+
 rawOutput
- 
+
 =
- 
+
 data
 .
 output
 ;
- 
+
 // The raw string from Gemini
 
 // Regex to extract only the JSON content
 
 const
- 
+
 cleanJson
- 
+
 =
- 
+
 rawOutput
 .
 replace
@@ -74,9 +74,9 @@ replace
 
 {
 %
- 
+
 endraw
- 
+
 %
 }
 
@@ -85,9 +85,9 @@ json
 
 {
 %
- 
+
 raw
- 
+
 %
 }
 
@@ -110,47 +110,47 @@ Exit fullscreen mode
 The v1 of the UI was so messy. The tool worked but you'd have to dig through mountains of text to even understand what was going on.I tried formatting it into a table for some structure. Somehow, that was worse!Finally, to optimize for a"Human-in-the-Loop"workflow, I moved to a columnar dashboard.Social posts, especially threads on X, can be long, and that would have made even the boards to be clumsy and unkempt.To keep the UI clean, I built aPostCardcomponent that caps content at250 characterswith a state-managed "Read More" toggle.
 
 const
- 
+
 [
 isExpanded
 ,
- 
+
 setIsExpanded
 ]
- 
+
 =
- 
+
 useState
 (
 false
 );
 
 const
- 
+
 displayContent
- 
+
 =
- 
+
 isExpanded
- 
+
 ?
- 
+
 content
- 
+
 :
- 
+
 content
 .
 substring
 (
 0
 ,
- 
+
 250
 )
- 
+
 +
- 
+
 "
 ...
 "
@@ -199,7 +199,7 @@ I just used my tool to get my social media caption/content for this post. See be
 You can try it outhere, but mercy on my API credit!!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -210,7 +210,7 @@ Preview
 Dismiss
 
  View full discussion (24 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

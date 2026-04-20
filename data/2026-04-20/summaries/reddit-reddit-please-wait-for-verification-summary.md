@@ -1,7 +1,7 @@
 ---
 title: Reddit - Please wait for verification
 url: https://www.reddit.com/r/worldnews/comments/1spucp4/pm_carney_declares_us_ties_now_a_weakness_in/
-date: 
+date:
 site: reddit
 model: llama3.2:1b
 summarized_at: 2026-04-20T06:08:55.859475

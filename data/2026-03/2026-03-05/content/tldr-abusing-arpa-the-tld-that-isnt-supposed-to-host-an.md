@@ -152,11 +152,11 @@ hyfnrsx1[.]com
 
 Domain with a subdomain acting as a hijacked CNAME
 
- 
+
 
 February 26, 2026
 
-Labels: 
+Labels:
 * Phishing
 * reverse DNS
 * hijacked CNAME

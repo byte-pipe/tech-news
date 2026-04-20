@@ -24,7 +24,7 @@ hegel
 ::
 test
 (
-test_cases 
+test_cases
 =
  1000
 )]
@@ -297,7 +297,7 @@ hegel
 ::
 test
 (
-test_cases 
+test_cases
 =
  1000
 )]
@@ -351,11 +351,11 @@ expect
 format!
 (
 "
-Failed to parse 
+Failed to parse
 {
 :?
 }
- from 
+ from
 {}"
 ,
  sci
@@ -395,7 +395,7 @@ hegel
 ::
 test
 (
-test_cases 
+test_cases
 =
  1000
 )]
@@ -459,7 +459,7 @@ hegel
 ::
 test
 (
-test_cases 
+test_cases
 =
  1000
 )]
@@ -651,7 +651,7 @@ im_prev
  "
 get_prev(
 {}
-) mismatch with 
+) mismatch with
 {}
  keys
 "

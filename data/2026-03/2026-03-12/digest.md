@@ -5,10 +5,10 @@ generated_at: '2026-03-12T13:12:44.688505'
 ---
 
 ## Executive Summary
-- Microsoft released BitNet, an inference framework that makes 1‑bit large language models run efficiently on CPUs and GPUs, pushing the limits of low‑bit AI deployment.  
-- Amazon expanded its Shop Direct program, allowing U.S. shoppers to purchase items from third‑party retailers directly through Amazon’s interface, deepening its role as a commerce gateway.  
-- A Stanford intranasal vaccine showed broad, multi‑month protection against diverse respiratory pathogens in mice, hinting at a future universal respiratory shot.  
-- Public sentiment remains split on election security, with 46 % of Americans supporting National Guard monitoring of polls, while consumers continue to favor human agents over AI in customer service.  
+- Microsoft released BitNet, an inference framework that makes 1‑bit large language models run efficiently on CPUs and GPUs, pushing the limits of low‑bit AI deployment.
+- Amazon expanded its Shop Direct program, allowing U.S. shoppers to purchase items from third‑party retailers directly through Amazon’s interface, deepening its role as a commerce gateway.
+- A Stanford intranasal vaccine showed broad, multi‑month protection against diverse respiratory pathogens in mice, hinting at a future universal respiratory shot.
+- Public sentiment remains split on election security, with 46 % of Americans supporting National Guard monitoring of polls, while consumers continue to favor human agents over AI in customer service.
 - Developers are grappling with AI‑generated code, confronting “cognitive debt” and new tooling such as Claude’s automated code reviews and multi‑agent workflows.
 
 ---

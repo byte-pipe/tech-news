@@ -63,9 +63,9 @@ Export
 
 ### Source
 
-Sheet Dimensions: 
+Sheet Dimensions:
 0
-px × 
+px ×
 0
 px
 Change Sprite Sheet
@@ -104,13 +104,13 @@ Canvas Background
 
 Affects the live canvas and preview only.
 
-FRAME: 
+FRAME:
 1
- 
+
 /
- 
+
 16
-TIME: 
+TIME:
 0.00
 s
 1

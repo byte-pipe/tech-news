@@ -16,7 +16,7 @@ Anthropic has released Claude Managed Agents, a suite of composable APIs aimed a
 
 Introducing Claude Managed Agents: everything you need to build and deploy agents at scale.It pairs an agent harness tuned for performance with production infrastructure, so you can go from prototype to launch in days.Now in public beta on the Claude Platform.pic.twitter.com/vHYfiC1G56
 
-— Claude (@claudeai) 
+— Claude (@claudeai)
 April 8, 2026
 
 The suite is designed around Claude models, providing features such as secure sandboxed code execution, authentication, checkpointing, scoped permissions, and persistent long-running sessions. Developers can define agent tasks, tools, and guardrails, while Anthropic's infrastructure handles tool orchestration, context management, and error recovery. Key differentiators include multi-agent coordination in research preview and session tracing tools built into the Claude Console. In internal tests, Managed Agents improved structured file generation success rates by up to 10 points over standard prompting methods.
@@ -35,9 +35,9 @@ Source
 
 2 min read
 
- 
 
- 
+
+
 
 ## Notion tests Computer to expand capabilities of its AI offering
 
@@ -47,9 +47,9 @@ Source
 
 2 min read
 
- 
 
- 
+
+
 
 ## Google prepares broader rollout of Skills for Gemini and AI Studio
 
@@ -59,9 +59,9 @@ Source
 
 2 min read
 
- 
 
- 
+
+
 
 ## Anthropic develops managed 24/7 Agent for Claude mobile apps too
 
@@ -71,9 +71,9 @@ Source
 
 1 min read
 
- 
 
- 
+
+
 
 ## Anthropic launches advisor tool for Claude Platform API users
 
@@ -83,9 +83,9 @@ Source
 
 1 min read
 
- 
 
- 
+
+
 
 ## Perplexity launches Personal Finance powered by Plaid
 

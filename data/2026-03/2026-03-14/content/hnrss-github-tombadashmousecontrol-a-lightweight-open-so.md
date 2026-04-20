@@ -14,7 +14,7 @@ tags:
 
 TomBadash
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork4
 * Star493
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -274,12 +274,12 @@ python -m venv .venv
 \S
 cripts
 \a
-ctivate 
+ctivate
 #
  Windows (PowerShell / CMD)
 
 source
- .venv/bin/activate 
+ .venv/bin/activate
 #
  macOS / Linux
 
@@ -335,11 +335,11 @@ Tip:To run without a console window, usepythonw.exe main_qml.pyor the.lnkshortcu
 AMouser.lnkshortcut is included. To create one manually:
 
 $s
- 
+
 =
  (
 New-Object
- 
+
 -
 ComObject WScript.Shell).CreateShortcut(
 "
@@ -359,36 +359,36 @@ Desktop
 
 $s
 .TargetPath
- 
+
 =
- 
+
 "
 C:\path\to\mouser\.venv\Scripts\pythonw.exe
 "
 
 $s
 .Arguments
- 
+
 =
- 
+
 "
 main_qml.py
 "
 
 $s
 .WorkingDirectory
- 
+
 =
- 
+
 "
 C:\path\to\mouser
 "
 
 $s
 .IconLocation
- 
+
 =
- 
+
 "
 C:\path\to\mouser\images\logo.ico, 0
 "
@@ -626,48 +626,48 @@ A lightweight, open-source alternative to Logitech Options+ for remapping button
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 493
 
  stars
- 
+
 
 ### Watchers
 
 2
 
  watching
- 
+
 
 ### Forks
 
 4
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases1
 
@@ -675,7 +675,7 @@ LogiControl v1.0.0
 
  Latest
 
- 
+
 
 Mar 2, 2026
 
@@ -683,7 +683,7 @@ Mar 2, 2026
 
  
 
- 
+
 
  Sponsor
 
@@ -691,11 +691,11 @@ Mar 2, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -711,9 +711,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors1
 

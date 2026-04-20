@@ -9,7 +9,7 @@ author: Electrical_Enrichs
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,13 +17,13 @@ r/worldnews
 
 Electrical_Enrichs
 
- 
 
- 
+
+
 
 # Ukraine’s paratroopers clear Berezove in Dnipropetrovsk Oblast, completing near-total reversal of Russia’s 2025 gains in the region
 
  euromaidanpress.com
- 
+
 
 Open

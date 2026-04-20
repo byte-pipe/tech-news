@@ -35,11 +35,11 @@ The core API route in Ozigi does this:
 The frontend then does this:
 
 const
- 
+
 parsed
- 
+
 =
- 
+
 JSON
 .
 parse
@@ -70,97 +70,97 @@ The target schema looks like this:
 
 {
 
- 
+
 "campaign"
 :
- 
+
 [
 
- 
+
 {
- 
+
 "day"
 :
- 
+
 1
 ,
- 
+
 "x"
 :
- 
+
 "..."
 ,
- 
+
 "linkedin"
 :
- 
+
 "..."
 ,
- 
+
 "discord"
 :
- 
+
 "..."
- 
+
 },
 
- 
+
 {
- 
+
 "day"
 :
- 
+
 2
 ,
- 
+
 "x"
 :
- 
+
 "..."
 ,
- 
+
 "linkedin"
 :
- 
+
 "..."
 ,
- 
+
 "discord"
 :
- 
+
 "..."
- 
+
 },
 
- 
+
 {
- 
+
 "day"
 :
- 
+
 3
 ,
- 
+
 "x"
 :
- 
+
 "..."
 ,
- 
+
 "linkedin"
 :
- 
+
 "..."
 ,
- 
+
 "discord"
 :
- 
+
 "..."
- 
+
 }
 
- 
+
 ]
 
 }
@@ -188,234 +188,234 @@ The 11.5% gap maps directly to broken UI states for real users. That was not acc
 Using Gemini'sresponseSchemacloses this entirely. According toGoogle's controlled generation documentation, the feature physically prevents the model from returning output that doesn't conform to your schema. It's not prompt-level guidance, it's enforced at the decoding layer. Here's what the production implementation looks like for Ozigi: the schema is defined once at the top of the route and attached directly to the model config:
 
 const
- 
+
 distributionSchema
- 
+
 =
- 
+
 {
 
- 
+
 type
 :
- 
+
 "
 OBJECT
 "
- 
+
 as
- 
+
 const
 ,
 
- 
+
 properties
 :
- 
+
 {
 
- 
+
 campaign
 :
- 
+
 {
 
- 
+
 type
 :
- 
+
 "
 ARRAY
 "
- 
+
 as
- 
+
 const
 ,
 
- 
+
 description
 :
- 
+
 "
 A list of 3 daily social media posts.
 "
 ,
 
- 
+
 items
 :
- 
+
 {
 
- 
+
 type
 :
- 
+
 "
 OBJECT
 "
- 
+
 as
- 
+
 const
 ,
 
- 
+
 properties
 :
- 
+
 {
 
- 
+
 day
 :
- 
+
 {
- 
+
 type
 :
- 
+
 "
 INTEGER
 "
- 
+
 as
- 
+
 const
 ,
- 
+
 description
 :
- 
+
 "
 Day number (1, 2, or 3)
 "
- 
+
 },
 
- 
+
 x
 :
- 
+
 {
- 
+
 type
 :
- 
+
 "
 STRING
 "
- 
+
 as
- 
+
 const
 ,
- 
+
 description
 :
- 
+
 "
 Content for X/Twitter.
 "
- 
+
 },
 
- 
+
 linkedin
 :
- 
+
 {
- 
+
 type
 :
- 
+
 "
 STRING
 "
- 
+
 as
- 
+
 const
 ,
- 
+
 description
 :
- 
+
 "
 Content for LinkedIn.
 "
- 
+
 },
 
- 
+
 discord
 :
- 
+
 {
- 
+
 type
 :
- 
+
 "
 STRING
 "
- 
+
 as
- 
+
 const
 ,
- 
+
 description
 :
- 
+
 "
 Content for Discord.
 "
- 
+
 },
 
- 
+
 },
 
- 
+
 required
 :
- 
+
 [
 "
 day
 "
 ,
- 
+
 "
 x
 "
 ,
- 
+
 "
 linkedin
 "
 ,
- 
+
 "
 discord
 "
 ],
 
- 
+
 },
 
- 
+
 },
 
- 
+
 },
 
- 
+
 required
 :
- 
+
 [
 "
 campaign
@@ -425,48 +425,48 @@ campaign
 };
 
 const
- 
+
 model
- 
+
 =
- 
+
 vertex_ai
 .
 getGenerativeModel
 ({
 
- 
+
 model
 :
- 
+
 "
 gemini-2.5-flash
 "
 ,
 
- 
+
 generationConfig
 :
- 
+
 {
 
- 
+
 responseMimeType
 :
- 
+
 "
 application/json
 "
 ,
 
- 
+
 responseSchema
 :
- 
+
 distributionSchema
 ,
 
- 
+
 },
 
 });
@@ -515,44 +515,44 @@ With Gemini via theVertex AI Node.js SDK, the entire PDF pipeline is:
 
 // /app/api/generate/route.ts
 
-if 
+if
 (
 file
- 
+
 &&
- 
+
 file
 .
 size
- 
+
 >
- 
+
 0
 )
- 
+
 {
 
- 
+
 const
- 
+
 arrayBuffer
- 
+
 =
- 
+
 await
- 
+
 file
 .
 arrayBuffer
 ();
 
- 
+
 const
- 
+
 base64Data
- 
+
 =
- 
+
 Buffer
 .
 from
@@ -566,76 +566,76 @@ base64
 "
 );
 
- 
+
 parts
 .
 push
 ({
 
- 
+
 inlineData
 :
- 
+
 {
 
- 
+
 data
 :
- 
+
 base64Data
 ,
 
- 
+
 mimeType
 :
- 
+
 file
 .
 type
 ,
- 
+
 // "application/pdf", "image/jpeg", etc.
 
- 
+
 },
 
- 
+
 });
 
 }
 
 const
- 
+
 result
- 
+
 =
- 
+
 await
- 
+
 model
 .
 generateContent
 ({
 
- 
+
 contents
 :
- 
+
 [{
- 
+
 role
 :
- 
+
 "
 user
 "
 ,
- 
+
 parts
 :
- 
+
 parts
- 
+
 }],
 
 });
@@ -662,9 +662,9 @@ Because the gap is engineerable.
 
 We built the Banned Lexicon — a programmatic constraint injected at the system prompt level that explicitly penalizes the vocabulary patterns that make AI copy detectable. You can read the full implementation in theOzigi documentation:
 
-THE BANNED LEXICON: You are strictly forbidden from using the 
-following words or their variations: delve, testament, tapestry, 
-crucial, vital, landscape, realm, unlock, supercharge, revolutionize, 
+THE BANNED LEXICON: You are strictly forbidden from using the
+following words or their variations: delve, testament, tapestry,
+crucial, vital, landscape, realm, unlock, supercharge, revolutionize,
 paradigm, seamlessly, navigate, robust, cutting-edge, game-changer.
 
 Enter fullscreen mode
@@ -673,15 +673,15 @@ Exit fullscreen mode
 
 Combined with explicit cadence engineering:
 
-BURSTINESS (CADENCE): Write with high burstiness. Do not use 
-perfectly balanced, medium-length sentences. Mix extremely short, 
+BURSTINESS (CADENCE): Write with high burstiness. Do not use
+perfectly balanced, medium-length sentences. Mix extremely short,
 punchy sentences (2-4 words) with longer, detailed explanations.
 
-PERPLEXITY: Avoid predictable adjectives. Use strong, active verbs 
-and concrete nouns. Talk like a pragmatic subject matter expert 
+PERPLEXITY: Avoid predictable adjectives. Use strong, active verbs
+and concrete nouns. Talk like a pragmatic subject matter expert
 explaining a concept to people, not a marketer selling a product.
 
-FORMATTING RESTRAINT: You are limited to a MAXIMUM of 1 emoji per 
+FORMATTING RESTRAINT: You are limited to a MAXIMUM of 1 emoji per
 post. Use a maximum of 2 highly relevant hashtags per post.
 
 Enter fullscreen mode
@@ -816,7 +816,7 @@ The best model for your product is rarely the one with the highest aggregate sco
 * Building osmething cool? Talk about it in the comments!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -827,7 +827,7 @@ Preview
 Dismiss
 
  View full discussion (19 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

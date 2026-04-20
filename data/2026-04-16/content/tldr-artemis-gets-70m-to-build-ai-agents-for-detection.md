@@ -21,16 +21,16 @@ Michael Novinson
  (
 MichaelNovinson
 ) •
- 
+
 April 15, 2026
     
- 
+
 
 * Credit Eligible
 * Get Permission
 
 Shachar Hirshberg, co-founder and CEO, and Dan Shiebler, co-founder and CTO, Artemis (Image: Artemis)
- 
+
 
 A SIEM replacement startup founded by a former Amazon GuardDuty leader emerged from stealth with $70 million to identify threats by better correlating telemetry data.
 

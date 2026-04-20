@@ -16,7 +16,7 @@ tags:
 Dan Hellem
 
 Product Manager for Azure Boards, Repos & Wiki
- 
+
 
 When we released thelocal Azure DevOps MCP Server, it gave customers a way to connect Azure DevOps data with tools like Visual Studio and Visual Studio Code through GitHub Copilot Chat. The next step was to make this experience easier to get started with and to enable it for services that support only remote MCP servers.
 
@@ -77,7 +77,7 @@ MCP Server
 
 Share
 
- 
+
 
 ## Author
 
@@ -86,9 +86,9 @@ Product Manager for Azure Boards, Repos & Wiki
 
 Dan is a Product Manager with Microsoft's Azure DevOps
 
- 
 
- 
+
+
 
 ## Read next
 
@@ -104,18 +104,18 @@ March 19, 2026
 
 Dan Hellem
 
- 
+
 
 ## Stay informed
 
 Get notified when new posts are published.
 
-Email 
+Email
 *
 
- 
 
-Country/Region 
+
+Country/Region
 *
 
 Select...
@@ -368,16 +368,16 @@ Yemen
 Zambia
 Zimbabwe
 
-I would like to receive the Azure DevOps Blog Newsletter. 
+I would like to receive the Azure DevOps Blog Newsletter.
 Privacy Statement.
 
 Subscribe
 
- 
+
 
 Follow this blog
 
- 
+
 
 Are you sure you wish to delete this
  comment?

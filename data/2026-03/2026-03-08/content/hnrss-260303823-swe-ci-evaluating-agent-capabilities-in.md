@@ -16,7 +16,7 @@ tags:
 
 arXiv:2603.03823
  (cs)
- 
+
 
  [Submitted on 4 Mar 2026]
 
@@ -24,15 +24,15 @@ arXiv:2603.03823
 
 Authors:
 Jialong Chen
-, 
+,
 Xander Xu
-, 
+,
 Hu Wei
-, 
+,
 Chuan Chen
-, 
+,
 Bing Zhao
- 
+
 View a PDF of the paper titled SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration, by Jialong Chen and 4 other authors
 
 View PDF
@@ -41,7 +41,7 @@ HTML (experimental)
 
 Abstract:
 Large language model (LLM)-powered agents have demonstrated strong capabilities in automating software engineering tasks such as static bug fixing, as evidenced by benchmarks like SWE-bench. However, in the real world, the development of mature software is typically predicated on complex requirement changes and long-term feature iterations -- a process that static, one-shot repair paradigms fail to capture. To bridge this gap, we propose \textbf{SWE-CI}, the first repository-level benchmark built upon the Continuous Integration loop, aiming to shift the evaluation paradigm for code generation from static, short-term \textit{functional correctness} toward dynamic, long-term \textit{maintainability}. The benchmark comprises 100 tasks, each corresponding on average to an evolution history spanning 233 days and 71 consecutive commits in a real-world code repository. SWE-CI requires agents to systematically resolve these tasks through dozens of rounds of analysis and coding iterations. SWE-CI provides valuable insights into how well agents can sustain code quality throughout long-term evolution.
- 
+
 
 Subjects:
 
@@ -55,16 +55,16 @@ arXiv:2603.03823
 
  
 
-(or 
+(or
 
 arXiv:2603.03823v1
  [cs.SE]
  for this version)
- 
+
 
  
 
- 
+
 https://doi.org/10.48550/arXiv.2603.03823
 
 Focus to learn more
@@ -75,13 +75,13 @@ Focus to learn more
 
  From: Jialong Chen [
 view email
-] 
- 
+]
+
 [v1]
 
  Wed, 4 Mar 2026 08:20:25 UTC (3,311 KB)
 
- 
+
 
 Full-text links:
 
@@ -93,29 +93,29 @@ Full-text links:
 
 view license
 
- 
 
- Current browse context: 
+
+ Current browse context:
 cs.SE
 
 < prev
 
   |  
- 
+
 
 next >
 
 new
 
- | 
+ |
 
 recent
 
- | 
+ |
 2026-03
 
  Change to browse by:
- 
+
 
 cs
 
@@ -138,11 +138,11 @@ Loading...
 
 loading...
 
-Data provided by: 
+Data provided by:
 
 ### Bookmark
 
- 
+
 
 Bibliographic Tools
 
@@ -151,7 +151,7 @@ Bibliographic Tools
 Bibliographic Explorer Toggle
 
 Bibliographic Explorer
- 
+
 (
 What is the Explorer?
 )
@@ -159,7 +159,7 @@ What is the Explorer?
 Connected Papers Toggle
 
 Connected Papers
- 
+
 (
 What is Connected Papers?
 )
@@ -167,7 +167,7 @@ What is Connected Papers?
 Litmaps Toggle
 
 Litmaps
- 
+
 (
 What is Litmaps?
 )
@@ -175,7 +175,7 @@ What is Litmaps?
 scite.ai Toggle
 
 scite Smart Citations
- 
+
 (
 What are Smart Citations?
 )
@@ -187,7 +187,7 @@ Code, Data, Media
 alphaXiv Toggle
 
 alphaXiv
- 
+
 (
 What is alphaXiv?
 )
@@ -195,7 +195,7 @@ What is alphaXiv?
 Links to Code Toggle
 
 CatalyzeX Code Finder for Papers
- 
+
 (
 What is CatalyzeX?
 )
@@ -203,7 +203,7 @@ What is CatalyzeX?
 DagsHub Toggle
 
 DagsHub
- 
+
 (
 What is DagsHub?
 )
@@ -211,7 +211,7 @@ What is DagsHub?
 GotitPub Toggle
 
 Gotit.pub
- 
+
 (
 What is GotitPub?
 )
@@ -219,7 +219,7 @@ What is GotitPub?
 Huggingface Toggle
 
 Hugging Face
- 
+
 (
 What is Huggingface?
 )
@@ -227,7 +227,7 @@ What is Huggingface?
 Links to Code Toggle
 
 Papers with Code
- 
+
 (
 What is Papers with Code?
 )
@@ -235,7 +235,7 @@ What is Papers with Code?
 ScienceCast Toggle
 
 ScienceCast
- 
+
 (
 What is ScienceCast?
 )
@@ -247,7 +247,7 @@ Demos
 Replicate Toggle
 
 Replicate
- 
+
 (
 What is Replicate?
 )
@@ -255,7 +255,7 @@ What is Replicate?
 Spaces Toggle
 
 Hugging Face Spaces
- 
+
 (
 What is Spaces?
 )
@@ -263,7 +263,7 @@ What is Spaces?
 Spaces Toggle
 
 TXYZ.AI
- 
+
 (
 What is TXYZ.AI?
 )
@@ -275,7 +275,7 @@ Related Papers
 Link to Influence Flower
 
 Influence Flower
- 
+
 (
 What are Influence Flowers?
 )
@@ -283,7 +283,7 @@ What are Influence Flowers?
 Core recommender toggle
 
 CORE Recommender
- 
+
 (
 What is CORE?
 )
@@ -294,7 +294,7 @@ What is CORE?
 * Topic
 
  About arXivLabs
- 
+
 
 # arXivLabs: experimental projects with community collaborators
 
@@ -306,7 +306,7 @@ Have an idea for a project that will add value for arXiv's community?Learn more 
 
 Which authors of this paper are endorsers?
  |
- 
+
 Disable MathJax
  (
 What is MathJax?

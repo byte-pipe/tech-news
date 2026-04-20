@@ -57,7 +57,7 @@ Specialized
 ### Globe Haul ST
 
 $2,700
- 
+
 
 Specialized
 
@@ -69,11 +69,11 @@ It's easily adjustable—both my 5'10" husband and my 5'2" self were able to swi
 
 Specs:
 Motor:
- Specialized Globe 700-watt rear hub | 
+ Specialized Globe 700-watt rear hub |
 Battery:
- Globe 772 Wh | 
+ Globe 772 Wh |
 Recommended Height:
- 4'5" to 6'4" | 
+ 4'5" to 6'4" |
 Total Payload:
  419 pounds
 
@@ -92,7 +92,7 @@ Lectric
 ### XPedition2
 
 $1,999
- 
+
 
 Lectric
 
@@ -110,7 +110,7 @@ Aventon
 ### Abound
 
 $1,999
- 
+
 
 Aventon
 
@@ -120,11 +120,11 @@ I have friends who are very happy with their Lectric XPedition2, and if I'd neve
 
 Specs:
 Motor:
- 1,310-watt rear hub motor | 
+ 1,310-watt rear hub motor |
 Battery:
- Two removable 38-Ah batteries | 
+ Two removable 38-Ah batteries |
 Recommended Height:
- 4'11" to 6'5" | 
+ 4'11" to 6'5" |
 Total Payload:
  450 pounds
 
@@ -144,12 +144,12 @@ Urban Arrow
 ### FamilyNext Pro
 
 $8,999
- 
+
 
 Clever Cycles
 
 $8,999
- 
+
 
 Mike's Bikes
 
@@ -161,11 +161,11 @@ It still has everything I loved about the original, including an Enviolo CVT shi
 
 Specs:
 Motor:
- Bosch 250-watt mid-drive | 
+ Bosch 250-watt mid-drive |
 Battery:
- Bosch 545-Wh | 
+ Bosch 545-Wh |
 Recommended Height:
- 5' to over 6' | 
+ 5' to over 6' |
 Total Payload:
  550 pounds
 
@@ -185,12 +185,12 @@ Tern
 ### GSD S10 (3rd Gen)
 
 $7,999
- 
+
 
 Clever Cycles
 
 $7,899
- 
+
 
 Electric Bike Attack
 
@@ -204,11 +204,11 @@ All the new components—frame, fenders, kickstand, brakes, everything—have be
 
 Specs:
 Motor:
- Bosch Cargo Line mid-drive | 
+ Bosch Cargo Line mid-drive |
 Battery:
- Bosch 545 Wh | 
+ Bosch 545 Wh |
 Recommended Height:
- 4'11" to over 6'7" | 
+ 4'11" to over 6'7" |
 Total Payload:
  463 pounds
 
@@ -227,12 +227,12 @@ Jackrabbit
 ### MG Doble
 
 $2,500
- 
+
 
 Jackrabbit
 
 $2,500
- 
+
 
 Scheels
 
@@ -244,11 +244,11 @@ There are two considerations when it comes to the MG Doble. The first is that it
 
 Specs:
 Motor:
- 749-watt rear hub | 
+ 749-watt rear hub |
 Battery:
- 720-Wh double batteries | 
+ 720-Wh double batteries |
 Recommended Height:
- 4'9" to 6'8" | 
+ 4'9" to 6'8" |
 Total Payload:
  349 pounds
 
@@ -389,7 +389,7 @@ Triangle
 * How Trump is alreadythreatening the midterms
 * Livestream replay:Watch our experts discussBig Tech and the military
 Adrienne So
- is a senior commerce editor for WIRED, where she reviews health and fitness gear. She graduated from the University of Virginia with bachelor’s degrees in English and Spanish and runs, rock climbs, and sings karaoke in her free time. She lives in Portland, Oregon with her husband, two ... 
+ is a senior commerce editor for WIRED, where she reviews health and fitness gear. She graduated from the University of Virginia with bachelor’s degrees in English and Spanish and runs, rock climbs, and sings karaoke in her free time. She lives in Portland, Oregon with her husband, two ...
 Read More
 Senior Commerce Editor
 * X

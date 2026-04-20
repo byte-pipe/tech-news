@@ -15,7 +15,7 @@ tags:
 
 EnriqueLop
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork2
 * Star79
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -83,7 +83,7 @@ cd
 #
  ¿Qué dice el Artículo 135 de la Constitución hoy?
 
-grep -A 10 
+grep -A 10
 "
 Artículo 135
 "
@@ -113,49 +113,49 @@ Cada fichero empieza con frontmatter YAML:
 ---
 
 titulo
-: 
+:
 "
 Constitución Española
 "
 
 identificador
-: 
+:
 "
 BOE-A-1978-31229
 "
 
 pais
-: 
+:
 "
 es
 "
 
 rango
-: 
+:
 "
 constitucion
 "
 
 fecha_publicacion
-: 
+:
 "
 1978-12-29
 "
 
 ultima_actualizacion
-: 
+:
 "
 2024-02-17
 "
 
 estado
-: 
+:
 "
 vigente
 "
 
 fuente
-: 
+:
 "
 https://www.boe.es/eli/es/c/1978/12/27/(1)
 "
@@ -206,43 +206,43 @@ Spanish legislation as a Git repo — every law is a Markdown file, every reform
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 79
 
  stars
- 
+
 
 ### Watchers
 
 1
 
  watching
- 
+
 
 ### Forks
 
 2
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -260,9 +260,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors0
 

@@ -12,32 +12,32 @@ tags:
 - hnrss
 ---
 
-Back to notes 
- 
- 
- 
- 
- 
- 
- April 05, 2026 
- 
+Back to notes
+
+
+
+
+
+
+ April 05, 2026
+
 
 •
 
- 8 min read 
- 
- 
+ 8 min read
+
+
 
 # What Being Ripped Off for $35k Taught Me
 
- 
- 
- work 
- entrepreneurship 
- 
- 
- 
- 
+
+
+ work
+ entrepreneurship
+
+
+
+
 
 In Spring of 2024, a good friend contacted me saying he’d heard of an opportunity to help finish an augmented reality bus tour of a Beijing park. He’d gotten the impression the California-based client were in a pinch, and said they’d mentioned by way of referral the names of some folks we both knew and respected.
 
@@ -108,24 +108,24 @@ FAQs:
 * Their client was very very not happy, and rightly so
 * I’ll happily tell you who they are - get in touch
 * Trust your gut
- 
- 
+
+
 
 ### Other posts, maybe related
 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Airtable Maintenance Log
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Cool or Hard

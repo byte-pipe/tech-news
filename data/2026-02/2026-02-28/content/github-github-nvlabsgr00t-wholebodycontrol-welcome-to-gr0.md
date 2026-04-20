@@ -11,7 +11,7 @@ description: 'Welcome to GR00T Whole-Body Control (WBC)! This is a unified platf
 
 NVlabs
 
- 
+
 
 /
 
@@ -30,41 +30,41 @@ nvlabs.github.io/GR00T-WholeBodyControl/
 ### License
 
  View license
- 
+
 
 938
 
  stars
 
- 
+
 
 95
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # NVlabs/GR00T-WholeBodyControl

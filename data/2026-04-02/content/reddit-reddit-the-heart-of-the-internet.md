@@ -9,7 +9,7 @@ author: nimicdoareu
 ---
 
 Go to technology
- 
+
 
 r/technology
 
@@ -19,13 +19,13 @@ r/technology
 
 nimicdoareu
 
- 
 
- 
+
+
 
 # OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says
 
  arstechnica.com
- 
+
 
 Open

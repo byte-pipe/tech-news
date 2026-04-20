@@ -78,10 +78,10 @@ docs say this may be changed in the future.
 ### OpenRouter
 
 Edit:
- It has been brought to my attention (thanks to 
+ It has been brought to my attention (thanks to
 hhthrowaway1230
  on HackerNews) that
-OpenRouter does 
+OpenRouter does
 charge a 5.5% fee
 .
 

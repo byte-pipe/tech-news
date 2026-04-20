@@ -55,17 +55,17 @@ Wondering if there’s a best time to shop on Shark’s website? While some of t
 
 Shark makes more than just handheld vacuum cleaners: they’ve got robot vacuums, steam cleaners, cordless vacuums, carpet cleaners, and so much more. And there’s several we love, from the Shark PowerDetect (8/10, WIRED Recommends) and theShark Genius Steam Mop. Shark also makes fantastic hair tools like the Shark FlexStyle (9/10, WIRED Recommends). In the spirit of spring cleaning, there’s no better time to get a brand-new Shark vacuum, especially since you can snag a Shark promo code for 10 percent off and up to $100 off any Shark vacuum. There’s also student discounts and referral codes for more money off if you qualify. Here are all the Shark promo codes you can’t miss.
 
-Nena Farrell is a writer and reviewer at WIRED. She primarily covers 
+Nena Farrell is a writer and reviewer at WIRED. She primarily covers
 home
- and 
+ and
 sleep products
-, 
+,
 smart home tech
-, 
+,
 gift guides
-, and 
+, and
 parenting gear
-. She’s been a reviewer at WIRED since 2023, and before that was a smart home updates writer at The New York Times’ Wirecutter and an associate ... 
+. She’s been a reviewer at WIRED since 2023, and before that was a smart home updates writer at The New York Times’ Wirecutter and an associate ...
 Read More
 Writer and Reviewer
 
@@ -74,13 +74,13 @@ coupons
 Shopping
 One of Our Favorite Sunrise Alarms Is on Sale
 Hatch’s sunrise alarm clock is popular for a reason, and it’s on sale this week. An older-model sound machine for babies is on sale too.
- Nena Farrell 
+ Nena Farrell
 Save Up to 67% With These Chirp Discount Codes and Deals
 Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.
-Boutayna Chokrane 
+Boutayna Chokrane
 The Best Red Light Hair Growth Device You Can Buy Is on Sale
 Our favorite red light therapy device for hair growth just dropped in price. Grab it while it lasts.
-Boutayna Chokrane 
+Boutayna Chokrane
 I’m a Certified Sleep Coach—These Sleep Week Deals Are the Ones I’d Buy Myself
 From mattresses to sateen sheets, these exclusive deals on my personal picks can help you upgrade your sleep for less.
 Julia Forbes
@@ -92,7 +92,7 @@ Save up to 50% today with the latest Home Depot promo codes for appliances, powe
 Matthew Korfhage
 The Best Castlery Promo Codes and Sales for April 2026
 Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.
-Boutayna Chokrane 
+Boutayna Chokrane
 Get 20% Off With a Brooks Promo Code for April 2026
 Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.
 Adrienne So
@@ -101,7 +101,7 @@ Find the latest Best Buy promo codes and offers, including 10% back in rewards f
 Ryan Waniata
 The Sunrise Alarms That Actually Woke Me Up
 I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that.
- Nena Farrell 
+ Nena Farrell
 Best HelloFresh Coupons and Promo Codes for March 2026
 Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.
 Matthew Korfhage

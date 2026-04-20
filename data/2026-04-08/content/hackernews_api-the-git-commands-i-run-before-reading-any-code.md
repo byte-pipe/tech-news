@@ -23,13 +23,13 @@ git log --format
 format: --name-only --since
 =
 "1 year ago"
- 
+
 |
- sort 
+ sort
 |
- uniq -c 
+ uniq -c
 |
- sort -nr 
+ sort -nr
 |
  head -20
 
@@ -57,13 +57,13 @@ git log -i -E --grep
  --name-only --format
 =
 ''
- 
+
 |
- sort 
+ sort
 |
- uniq -c 
+ uniq -c
 |
- sort -nr 
+ sort -nr
 |
  head -20
 
@@ -80,9 +80,9 @@ git log --format
 =
 format:
 '%Y-%m'
- 
+
 |
- sort 
+ sort
 |
  uniq -c
 
@@ -95,9 +95,9 @@ I once showed a CTO their commit velocity chart and they said “that’s when w
 git log --oneline --since
 =
 "1 year ago"
- 
+
 |
- grep -iE 
+ grep -iE
 'revert|hotfix|emergency|rollback'
 
 Revert and hotfix frequency. A handful over a year is normal. Reverts every couple of weeks means the team doesn’t trust its deploy process. They’re evidence of adeeper issue: unreliable tests, missing staging, or a deploy pipeline that makes rollbacks harder than they should be. Zero results is also a signal; either the team is stable, or nobody writes descriptive commit messages.

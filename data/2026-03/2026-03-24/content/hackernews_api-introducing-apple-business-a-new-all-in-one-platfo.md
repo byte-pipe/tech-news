@@ -21,14 +21,14 @@ March 24, 2026
 
 # Introducing Apple Business — a new all‑in‑one platform for businesses of all sizes
 
- 
- 
+
+
  Apple Business combines built-in mobile device management, business email and calendar services with custom domain support, and a powerful new option to reach local customers
- 
- 
+
+
 
  Apple Business — a new platform that includes key services companies need to run and grow — will be available April 14.
- 
+
 
 Apple today announced Apple Business, a new all-in-one platform that includes key services companies need to effortlessly manage devices, reach more customers, equip team members with essential apps and tools, and get support from experts to run and grow efficiently and securely. Apple Business features built-in mobile device management, helping businesses easily configure employee groups, device settings, security, and apps with Blueprints to quickly get started. In addition, customers can now set up business email, calendar, and directory services with their own domain name for seamless and elevated communication and collaboration. And Apple Business can help millions of companies grow their reach and connect with local customers across Apple Maps, Mail, Wallet, Siri, and more, including a new option coming this summer that will enable businesses in the U.S. and Canada to place local ads in Maps during key search and discovery moments. Apple Business will be available starting Tuesday, April 14, in more than 200 countries and regions.
 1
@@ -66,12 +66,12 @@ Apple Business introduces fully integrated email, calendar, and directory servic
 Every day, users choose Apple Maps to discover and explore places and businesses around them. Beginning this summer in the U.S. and Canada, businesses will have a new way to be discovered by using Apple Business to create ads on Maps. Ads on Maps will appear when users search in Maps, and can appear at the top of a user’s search results based on relevance, as well as at the top of a new Suggested Places experience in Maps, which will display recommendations based on what’s trending nearby, the user’s recent searches, and more. Ads will be clearly marked to ensure transparency for Maps users.
 
 Ads on Maps
- builds on 
+ builds on
 Apple’s broader privacy-first approach to advertising
 , and maintains the same privacy protections Maps users enjoy today. A user’s location and the ads they see and interact with in Maps are not associated with a user’s Apple Account. Personal data stays on a user’s device, is not collected or stored by Apple, and is not shared with third parties. When Apple Business is available in April, businesses will need to first claim their location on Maps. Once ads on Maps is available, businesses will be able to access a fully automated experience of creating ads through Apple Business in a few simple steps. Current Apple Ads advertisers and agencies will also have the option to book ads through their existing Apple Ads experience, which will offer additional customization options for their ad campaigns.
 
  Beginning this summer in the U.S. and Canada, companies will have a new way to be discovered by using Apple Business to create ads on Maps, which will appear when users search in Maps.
- 
+
 
 ## Brand and Location Features in One Convenient Place
 

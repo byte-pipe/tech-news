@@ -11,7 +11,7 @@ description: Give Claude Code a subconscious. Contribute to letta-ai/claude-subc
 
 letta-ai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork106
 * Star1.3k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -188,7 +188,7 @@ If running from a different directory, use the full path to the cloned repo.
 
 If plugin installation fails withEXDEV: cross-device link not permitted, your/tmpis likely on a different filesystem (common on Ubuntu, Fedora, Arch). SetTMPDIRto work around thisClaude Code bug:
 
-mkdir -p 
+mkdir -p
 ~
 /.claude/tmp
 
@@ -220,7 +220,7 @@ export
 "
 whisper
 "
- 
+
 #
  Default. Or "full" for blocks + messages, "off" to disable
 
@@ -235,7 +235,7 @@ export
 "
 http://localhost:8283
 "
- 
+
 #
  For self-hosted Letta
 
@@ -244,7 +244,7 @@ export
 "
 anthropic/claude-sonnet-4-5
 "
- 
+
 #
  Model override
 
@@ -253,7 +253,7 @@ export
 "
 1048576
 "
- 
+
 #
  Context window size (e.g. 1M tokens)
 
@@ -262,7 +262,7 @@ export
 "
 $HOME
 "
- 
+
 #
  Consolidate .letta state to ~/.letta/
 
@@ -271,7 +271,7 @@ export
 "
 read-only
 "
- 
+
 #
  Or "full", "off"
 
@@ -384,25 +384,25 @@ Example Models
 openai
 
 gpt-5.2
-, 
+,
 gpt-5-nano
-, 
+,
 gpt-4.1-mini
 
 anthropic
 
 claude-sonnet-4-5
-, 
+,
 claude-opus-4-5
-, 
+,
 claude-haiku-4-5
 
 google_ai
 
 gemini-3-flash
-, 
+,
 gemini-2.5-flash
-, 
+,
 gemini-2.5-pro
 
 zai
@@ -518,7 +518,7 @@ pretool_sync.ts
 
 5s
 
-Mid-workflow updates via 
+Mid-workflow updates via
 additionalContext
 
 Stop
@@ -570,13 +570,13 @@ read-only
  (default)
 
 Read
-, 
+,
 Grep
-, 
+,
 Glob
-, 
+,
 web_search
-, 
+,
 fetch_webpage
 
 Safe background research and file reading
@@ -664,13 +664,13 @@ Messages from your Subconscious agent are injected before each prompt:
 
 <
 letta_message
- 
+
 from
 =
 "
 Subconscious
 "
- 
+
 timestamp
 =
 "
@@ -701,7 +701,7 @@ letta_memory_blocks
 >
 <
 user_preferences
- 
+
 description
 =
 "
@@ -714,7 +714,7 @@ user_preferences
 >
 <
 project_context
- 
+
 description
 =
 "
@@ -736,7 +736,7 @@ letta_memory_update
 >
 <
 pending_items
- 
+
 status
 =
 "
@@ -812,51 +812,51 @@ Give Claude Code a subconscious
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.3k
 
  stars
- 
+
 
 ### Watchers
 
 15
 
  watching
- 
+
 
 ### Forks
 
 106
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases8
 
@@ -864,11 +864,11 @@ v1.5.1 — Checkpoint Hooks & Splash Screen
 
  Latest
 
- 
+
 
 Mar 4, 2026
 
- 
+
 
 + 7 releases
 
@@ -884,9 +884,9 @@ Mar 4, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors6
 

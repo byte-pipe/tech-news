@@ -61,7 +61,7 @@ Something that used to come naturally is now a subject of longing and fascinatio
 The trouble with these social media experiments, of course, is that they are performative and individualistic. There’s an element of commodification: the encounter must be ripe for digital packaging. Often it’s not clear if the filming is consensual. The connections are one-way and border on the exploitative or manipulative. They are designed for individual personal growth or free, self-directed therapy (“this made me more confident”) and for clicks and voyeurism (“check out this person’s reaction”). The effect is to make “talking to absolutely anyone” seem even more alienating, fake and narcissistic. This has spawned a secondary genre of parody videos such as the comedian Al Nash’s “A cup of tea with a stranger – an amazing conversation!” In this clip, an irritating interviewer passes tea to a stranger on a park bench under the guise of “helping you with your loneliness”, only for the encounter to turn awkward when the stranger accidentally drops the cup and smashes it.
 
 View image in fullscreen
-Take your cue from Mr Hewitt and Mr Boucker, shown here having a neighbourly chat in 1957. 
+Take your cue from Mr Hewitt and Mr Boucker, shown here having a neighbourly chat in 1957.
  Photograph: Picture Post/Getty Images
 
 It’s only natural to fear rejection, humiliation, giving offence or overstepping a boundary when we initiate a conversation – or even when we respond to someone else’s attempt. But according to a study by the University of Virginia (Talking with strangers is surprisingly informative), we overstate these fears in our minds: “People tend to underestimate how much they’ll enjoy the conversation, feel connected to their conversation partner and be liked by their conversation partner.”
@@ -91,11 +91,11 @@ Reuse this content
 ## Comments(…)
 
 Sign in
- 
+
 or
- 
+
 create your Guardian account
- 
+
 to join the discussion
 
 ## Most viewed

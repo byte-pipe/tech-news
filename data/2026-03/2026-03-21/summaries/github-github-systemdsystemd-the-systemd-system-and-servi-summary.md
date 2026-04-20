@@ -1,7 +1,7 @@
 ---
 title: GitHub - systemd/systemd: The systemd System and Service Manager · GitHub
 url: https://github.com/systemd/systemd
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-21T11:22:07.991174

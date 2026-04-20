@@ -13,7 +13,7 @@ tags:
 - tldr
 ---
 
-GO BACK TO 
+GO BACK TO
 BLOG
 
 # Claude Code + Dives = Any data UI

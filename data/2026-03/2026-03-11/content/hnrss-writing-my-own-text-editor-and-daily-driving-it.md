@@ -18,16 +18,16 @@ A programmer's text editor is their castle
 
 2026-03-10
 
- 
- | 
+
+ |
 ↩️
  2
 
- │ 
+ │
 🔄
  12
 
- │ 
+ │
 ⭐
  20
 
@@ -278,7 +278,7 @@ the difficult bits off to a box of statistics. There is joy in struggle.
 
 Enter the tarpit 🤖
 
-If you notice accessibility issues with this site, please 
+If you notice accessibility issues with this site, please
 let me know
 !
 

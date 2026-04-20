@@ -27,7 +27,7 @@ Best Sport Band
 Nike Sport Loop
 Read more
 $49
- 
+
 
 Apple
 
@@ -35,11 +35,11 @@ Best Charging Stand
 Belkin 3-in-1 Qi2 Charging Stand
 Read more
 $110
- 
+
 $100
- 
+
 (9% off)
- 
+
 
 Amazon
 
@@ -47,11 +47,11 @@ Best Portable Charger
 Anker MagGo Power Bank for Apple Watch
 Read more
 $90
- 
+
 $63
- 
+
 (30% off)
- 
+
 
 Amazon
 
@@ -59,7 +59,7 @@ Best Apple Watch Case
 Hontao Ultra Thin Case
 Read more
 $8
- 
+
 
 Amazon
 
@@ -105,22 +105,22 @@ Power up with unlimited access to WIRED. Get best-in-class reporting and exclusi
 
 Back to top
 Triangle
-Boutayna Chokrane 
-is a product writer and reviewer at WIRED, covering consumer products and 
+Boutayna Chokrane
+is a product writer and reviewer at WIRED, covering consumer products and
 online trends
-. She specializes in 
+. She specializes in
 fitness equipment
-, 
+,
 beauty tech
-, 
+,
 apparel
-, and more. Before joining the Gear team, she was a music editorial fellow at Pitchfork. She also worked as a freelance journalist, covering fashion, arts, and ... 
+, and more. Before joining the Gear team, she was a music editorial fellow at Pitchfork. She also worked as a freelance journalist, covering fashion, arts, and ...
 Read More
 Product Writer & Reviewer
 * Instagram
 * LinkedIn
 Adrienne So
- is a senior commerce editor for WIRED, where she reviews health and fitness gear. She graduated from the University of Virginia with bachelor’s degrees in English and Spanish and runs, rock climbs, and sings karaoke in her free time. She lives in Portland, Oregon with her husband, two ... 
+ is a senior commerce editor for WIRED, where she reviews health and fitness gear. She graduated from the University of Virginia with bachelor’s degrees in English and Spanish and runs, rock climbs, and sings karaoke in her free time. She lives in Portland, Oregon with her husband, two ...
 Read More
 Senior Commerce Editor
 * X
@@ -151,13 +151,13 @@ These chest straps and watches will help you keep your finger on your pulse—an
 Michael Sawh
 The Best Pillows for Every Style of Sleeper
 We’ve spent over a year testing the best pillows to support your noggin, whether you snooze on your side, on your back, or in a tangle of blankets.
- Nena Farrell 
+ Nena Farrell
 Give Your Back a Break With Our Favorite Office Chairs
 Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.
 Julian Chokkattu
 The Right Mattress Can Erase Your Back Pain
 If you're struggling with chronic back or shoulder pain, these mattresses could change your life
- Nena Farrell 
+ Nena Farrell
 The Best Camera Bags, Straps, and Backpacks
 Tote your photo and video gear around in style. We tested more than 100 packs and rounded up our favorites.
 Julian Chokkattu

@@ -21,7 +21,7 @@ West Midlands
 Share
 Save
 Warwickshire Police
-Ahmad Mulakhil was sentenced to 16 years, including one year on licence 
+Ahmad Mulakhil was sentenced to 16 years, including one year on licence
 
 An asylum seeker who abducted and raped a 12-year-old girl has been given a 16-year sentence.
 

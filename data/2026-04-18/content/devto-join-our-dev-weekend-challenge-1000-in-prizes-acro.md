@@ -134,7 +134,7 @@ Questions about the challenge? Drop them in the comments below.
 Good luck!!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -145,6 +145,6 @@ Preview
 Dismiss
 
  View full discussion (25 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

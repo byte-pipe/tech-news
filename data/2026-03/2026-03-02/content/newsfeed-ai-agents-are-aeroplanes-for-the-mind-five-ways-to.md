@@ -12,7 +12,7 @@ tags:
 ---
 
 AI agents are ‘aeroplanes for the mind’: five ways to ensure that scientists are responsible pilots
- 
+
 
 Download PDF
 
@@ -26,7 +26,7 @@ Download PDF
 
 Illustration: Nico H. Brausch
 
- 
+
 
 In the early 1980s, Apple co-founder Steve Jobs described the computer as “a bicycle for our minds”. He was inspired by aScientific Americangraphic he’d encountered as a boy, showing that a human on a bicycle is more energy-efficient than any animal1. The metaphor captured the promise of personal computing: tools that enable people to go further and faster with less effort. But the deeper brilliance of bicycles lies in what they do not do: they do not mimic human biology, nor any form found in nature. The bicycle reimagined motion entirely.
 
@@ -187,9 +187,9 @@ Email address
 
 Sign up
 
-I agree my information will be processed in accordance with the 
+I agree my information will be processed in accordance with the
 Nature
- and Springer Nature Limited 
+ and Springer Nature Limited
 Privacy Policy
 .
 

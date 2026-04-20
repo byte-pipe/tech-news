@@ -41,9 +41,9 @@ And if you don’t want to watch in three-minute segments, you can catch the ful
 Topics
 
 Media & Entertainment
-, 
+,
 the audacity
- 
+
 
 ### Newsletters
 
@@ -68,7 +68,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

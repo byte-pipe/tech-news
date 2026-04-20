@@ -79,7 +79,7 @@ Questions about the challenge?Ask them below!
 We look forward to celebrating your voice and your code 💜
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

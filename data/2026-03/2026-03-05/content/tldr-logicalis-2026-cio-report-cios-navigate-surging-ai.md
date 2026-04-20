@@ -61,8 +61,8 @@ SOURCE Logicalis
  more press release views with 
 
 Request a Demo
- 
- 
+
+
 
 ×
 
@@ -79,7 +79,7 @@ Logicalis, the leading global technology service provider, today reveals that or
 Logicalis US, the leading global technology service provider, today announced that it has been named by CRN®, a brand of The Channel Company, to the...
 
 					More Releases From This Source
-					
+
 
 ## Explore
 

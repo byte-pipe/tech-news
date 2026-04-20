@@ -41,9 +41,9 @@ OpenAI subsequentlyannounced its own agreement with the Pentagon, which CEO Sam 
 Topics
 
 AI
-, 
+,
 Government & Policy
- 
+
 
 ### Newsletters
 
@@ -68,7 +68,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

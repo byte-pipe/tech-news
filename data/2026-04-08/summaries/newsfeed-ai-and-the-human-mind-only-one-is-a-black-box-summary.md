@@ -18,7 +18,7 @@ Large language models (LLMs) have made significant strides in achieving human-le
 
 • Current large language models already display human-level intelligence based on behavioral evidence.
 • The term "human-level intelligence" may obscure an important distinction.
- 
+
 ## Asymmetry in AI Development
 
 The debate surrounding LLMs highlights an asymmetry - humans possess unique cognitive abilities, such as self-awareness and creativity, which are still not fully replicable by machines.

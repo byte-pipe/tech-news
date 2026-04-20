@@ -58,13 +58,13 @@ Triangle
 * The system that intercepted Iran’s missilesover the UAE
 * Listen:The Pentagon vs. “woke” Anthropic
 Miles Klee
- is a senior writer at WIRED covering digital culture in all its forms. He was previously a reporter at Rolling Stone and Mel magazine. He is the author of a novel, 
+ is a senior writer at WIRED covering digital culture in all its forms. He was previously a reporter at Rolling Stone and Mel magazine. He is the author of a novel,
 Ivyland
-, and a story collection, 
+, and a story collection,
 True False
-, as well as 
+, as well as
 Double Black Diamond
-, a fiction collection cowritten ... 
+, a fiction collection cowritten ...
 Read More
 Senior Writer, Culture
 

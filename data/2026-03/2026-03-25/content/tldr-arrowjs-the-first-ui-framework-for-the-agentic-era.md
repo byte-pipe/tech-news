@@ -23,42 +23,42 @@ A tiny, blazing-fast, zero dependency, type-safe framework with no
 $
 
 pnpm
- 
+
 create
- 
+
 arrow-js@latest
- 
+
 arrow-app
 
  Comparing Quotes
- 
+
 
 Live
 
  Here are the 3 HVAC quotes. Which one’s the best deal?
- 
+
 
  I’ve broken down the key details from each quote. Here’s a side-by-side:
- 
+
 
 Sort by
 
  Price
- 
+
 
  Efficiency
- 
+
 
  Warranty
- 
+
 
  Lowest Price
- 
+
 
 ClimateCraft
 
  $7,400
- 
+
 
 SEER
 
@@ -71,7 +71,7 @@ Warranty
 CoolAir Pro
 
  $8,200
- 
+
 
 SEER
 
@@ -84,7 +84,7 @@ Warranty
 AirFlow Plus
 
  $9,100
- 
+
 
 SEER
 
@@ -95,7 +95,7 @@ Warranty
 12 yr
 
  Generated with ArrowJS Sandbox
- 
+
 
 ## Why Arrow
 
@@ -120,11 +120,11 @@ Scaffold a complete Vite 8 Arrow app with SSR, hydration, route-based
 $
 
 pnpm
- 
+
 create
- 
+
 arrow-js@latest
- 
+
 arrow-app
 
 ### Coding agent skill
@@ -135,7 +135,7 @@ Install the Arrow coding agent skill wrapper if you want the same
 $
 
 npx
- 
+
 @arrow-js/skill@latest
 
 ### Other ways to install
@@ -159,11 +159,11 @@ script
 >
 
  import
- { 
+ {
 reactive
-, 
+,
 html
- } 
+ }
 from
  'https://esm.sh/@arrow-js/core'
 
@@ -202,7 +202,7 @@ reactive(value)orreactive(() => value)
  subscriptions.
 
 import
- { 
+ {
 function
  reactive
 <
@@ -223,12 +223,12 @@ T
  overload
 )
 reactive
- } 
+ }
 from
  '@arrow-js/core'
 
 const
- 
+
 const
  data
 :
@@ -248,7 +248,7 @@ const
 }>
 data
  =
- 
+
 reactive
 <{
 
@@ -299,18 +299,18 @@ data
 reactive
 ({
 
- 
+
 price
-: 
+:
 number
 price
 :
  25
 ,
 
- 
+
 quantity
-: 
+:
 number
 quantity
 :
@@ -330,9 +330,9 @@ log
 (
 ...
 data
-: 
+:
 any
-[]): 
+[]):
 void
 The **`console.log()`** static method outputs a message to the console.
 
@@ -359,10 +359,10 @@ const
 data
 .
 price
-: 
+:
 number
 price
-) 
+)
 // 25
 
 ### Computed values
@@ -371,7 +371,7 @@ reactive(() => value)reruns when its tracked reads
  change.
 
 import
- { 
+ {
 function
  reactive
 <
@@ -392,12 +392,12 @@ T
  overload
 )
 reactive
- } 
+ }
 from
  '@arrow-js/core'
 
 const
- 
+
 const
  props
 :
@@ -417,7 +417,7 @@ const
 }>
 props
  =
- 
+
 reactive
 <{
 
@@ -466,16 +466,16 @@ data
  overload
 )
 reactive
-({ 
+({
 count
-: 
+:
 number
 count
 :
  2
-, 
+,
 multiplier
-: 
+:
 number
 multiplier
 :
@@ -483,7 +483,7 @@ multiplier
  })
 
 const
- 
+
 const
  data
 :
@@ -500,7 +500,7 @@ number
 }>
 data
  =
- 
+
 reactive
 <{
 
@@ -542,25 +542,25 @@ number
 reactive
 ({
 
- 
+
 total
-: 
+:
 Computed
 <
 number
 >
 total
 :
- 
+
 reactive
 <
 number
 >(
 effect
-: () 
+: ()
 =>
  number
-): 
+):
 Computed
 <
 number
@@ -570,9 +570,9 @@ number
  overload
 )
 reactive
-(() 
+(()
 =>
- 
+
 const
  props
 :
@@ -593,11 +593,11 @@ const
 props
 .
 count
-: 
+:
 number
 count
  *
- 
+
 const
  props
 :
@@ -618,7 +618,7 @@ const
 props
 .
 multiplier
-: 
+:
 number
 multiplier
 )
@@ -637,9 +637,9 @@ log
 (
 ...
 data
-: 
+:
 any
-[]): 
+[]):
 void
 The **`console.log()`** static method outputs a message to the console.
 
@@ -663,10 +663,10 @@ number
 data
 .
 total
-: 
+:
 number
 total
-) 
+)
 // 20
 
 const
@@ -689,7 +689,7 @@ const
 props
 .
 count
-: 
+:
 number
 count
  =
@@ -707,9 +707,9 @@ log
 (
 ...
 data
-: 
+:
 any
-[]): 
+[]):
 void
 The **`console.log()`** static method outputs a message to the console.
 
@@ -733,10 +733,10 @@ number
 data
 .
 total
-: 
+:
 number
 total
-) 
+)
 // 30
 
 Tip
@@ -767,7 +767,7 @@ Plain values render once. If you pass a function like() => data.count, Arrow tra
 Use a function expression to keep an attribute in sync.
 
 import
- { 
+ {
 function
  html
 (
@@ -776,7 +776,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -785,7 +785,7 @@ expressions
 :
  ArrowTemplate
 html
-, 
+,
 function
  reactive
 <
@@ -806,12 +806,12 @@ T
  overload
 )
 reactive
- } 
+ }
 from
  '@arrow-js/core'
 
 const
- 
+
 const
  data
 :
@@ -826,7 +826,7 @@ const
 }>
 data
  =
- 
+
 reactive
 <{
 
@@ -860,9 +860,9 @@ data
  overload
 )
 reactive
-({ 
+({
 disabled
-: 
+:
 boolean
 disabled
 :
@@ -877,7 +877,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -895,7 +895,7 @@ button
 ${
 ()
  =>
- 
+
 const
  data
 :
@@ -911,7 +911,7 @@ const
 data
 .
 disabled
-: 
+:
 boolean
 disabled
 }
@@ -931,7 +931,7 @@ Returningfalsefrom an attribute expression will
  remove the attribute. This makes it easy to toggle attributes.
 
 import
- { 
+ {
 function
  html
 (
@@ -940,7 +940,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -949,7 +949,7 @@ expressions
 :
  ArrowTemplate
 html
-, 
+,
 function
  reactive
 <
@@ -970,12 +970,12 @@ T
  overload
 )
 reactive
- } 
+ }
 from
  '@arrow-js/core'
 
 const
- 
+
 const
  data
 :
@@ -990,7 +990,7 @@ const
 }>
 data
  =
- 
+
 reactive
 <{
 
@@ -1024,9 +1024,9 @@ data
  overload
 )
 reactive
-({ 
+({
 disabled
-: 
+:
 boolean
 disabled
 :
@@ -1041,7 +1041,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -1059,7 +1059,7 @@ button
 ${
 ()
  =>
- 
+
 const
  data
 :
@@ -1075,7 +1075,7 @@ const
 data
 .
 disabled
-: 
+:
 boolean
 disabled
  ?
@@ -1098,7 +1098,7 @@ button
 Return an array of templates to render a list. Add.key(...)when identity must survive reorders.
 
 import
- { 
+ {
 function
  html
 (
@@ -1107,7 +1107,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -1116,7 +1116,7 @@ expressions
 :
  ArrowTemplate
 html
-, 
+,
 function
  reactive
 <
@@ -1137,12 +1137,12 @@ T
  overload
 )
 reactive
- } 
+ }
 from
  '@arrow-js/core'
 
 const
- 
+
 const
  data
 :
@@ -1168,7 +1168,7 @@ const
 }>
 data
  =
- 
+
 reactive
 <{
 
@@ -1237,17 +1237,17 @@ data
 reactive
 ({
 
- 
+
 todos
 : {
 
  id
-: 
+:
 number
 ;
 
  text
-: 
+:
 string
 ;
 
@@ -1256,32 +1256,32 @@ todos
 :
  [
 
- { 
+ {
 id
-: 
+:
 number
 id
 :
  1
-, 
+,
 text
-: 
+:
 string
 text
 :
  'Write docs'
  },
 
- { 
+ {
 id
-: 
+:
 number
 id
 :
  2
-, 
+,
 text
-: 
+:
 string
 text
 :
@@ -1300,7 +1300,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -1317,7 +1317,7 @@ ul
  ${
 ()
  =>
- 
+
 const
  data
 :
@@ -1347,16 +1347,16 @@ todos
 : {
 
  id
-: 
+:
 number
 ;
 
  text
-: 
+:
 string
 ;
 
-}[] 
+}[]
 |
  Reactive
 <{
@@ -1399,11 +1399,11 @@ value
  string
 ;
 
-}, 
+},
 index
 :
  number
-, 
+,
 array
 :
  {
@@ -1418,10 +1418,10 @@ array
  string
 ;
 
-}[]) 
+}[])
 =>
  ArrowTemplate
-) 
+)
 &
  ((
 value
@@ -1438,7 +1438,7 @@ value
  string
 ;
 
-} 
+}
 |
  Reactive
 <{
@@ -1453,11 +1453,11 @@ value
  string
 ;
 
-}>, 
+}>,
 index
 :
  number
-, 
+,
 array
 :
  ({
@@ -1472,7 +1472,7 @@ array
  string
 ;
 
-} 
+}
 |
  Reactive
 <{
@@ -1487,14 +1487,14 @@ array
  string
 ;
 
-}>)[]) 
+}>)[])
 =>
  ArrowTemplate
-), 
+),
 thisArg
 ?:
  any
-): 
+):
 ArrowTemplate
 []
 Calls a defined callback function on each element of an array, and returns an array that contains the results.
@@ -1505,13 +1505,13 @@ thisArg An object to which the this keyword can refer in the callbackfn function
 map
 ((
 todo
-: 
+:
 any
 todo
 )
  =>
 
- 
+
 function
  html
 (
@@ -1520,7 +1520,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -1535,7 +1535,7 @@ li
 >
 ${
 todo
-: 
+:
 any
 todo
 .
@@ -1557,13 +1557,13 @@ key
  number
  |
  undefined
-) 
+)
 =>
  ArrowTemplate
 key
 (
 todo
-: 
+:
 any
 todo
 .
@@ -1584,7 +1584,7 @@ Keys are only necessary if you want to preserve the DOM nodes and
  their state. Avoid using the index as a key.
 
 import
- { 
+ {
 function
  html
 (
@@ -1593,7 +1593,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -1602,7 +1602,7 @@ expressions
 :
  ArrowTemplate
 html
-, 
+,
 function
  reactive
 <
@@ -1623,12 +1623,12 @@ T
  overload
 )
 reactive
- } 
+ }
 from
  '@arrow-js/core'
 
 const
- 
+
 const
  data
 :
@@ -1643,7 +1643,7 @@ const
 }>
 data
  =
- 
+
 reactive
 <{
 
@@ -1677,18 +1677,18 @@ data
  overload
 )
 reactive
-({ 
+({
 tags
-: 
+:
 string
 []
 tags
 :
  [
 'alpha'
-, 
+,
 'beta'
-, 
+,
 'gamma'
 ] })
 
@@ -1700,7 +1700,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -1717,7 +1717,7 @@ ul
  ${
 ()
  =>
- 
+
 const
  data
 :
@@ -1733,9 +1733,9 @@ const
 data
 .
 tags
-: 
+:
 string
-[] 
+[]
 |
  Reactive
 <
@@ -1758,22 +1758,22 @@ callbackfn
 value
 :
  string
-, 
+,
 index
 :
  number
-, 
+,
 array
 :
  string
-[]) 
+[])
 =>
  ArrowTemplate
-, 
+,
 thisArg
 ?:
  any
-): 
+):
 ArrowTemplate
 []
 Calls a defined callback function on each element of an array, and returns an array that contains the results.
@@ -1784,12 +1784,12 @@ thisArg An object to which the this keyword can refer in the callbackfn function
 map
 ((
 tag
-: 
+:
 string
 tag
 )
  =>
- 
+
 function
  html
 (
@@ -1798,7 +1798,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -1813,7 +1813,7 @@ li
 >
 ${
 tag
-: 
+:
 string
 tag
 }
@@ -1834,7 +1834,7 @@ ul
 @eventNameattaches an event listener.
 
 import
- { 
+ {
 function
  html
 (
@@ -1843,7 +1843,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -1852,7 +1852,7 @@ expressions
 :
  ArrowTemplate
 html
- } 
+ }
 from
  '@arrow-js/core'
 
@@ -1864,7 +1864,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -1882,12 +1882,12 @@ button
 ${
 (
 e
-: 
+:
 any
 e
 )
  =>
- 
+
 var
  console
 :
@@ -1900,9 +1900,9 @@ log
 (
 ...
 data
-: 
+:
 any
-[]): 
+[]):
 void
 The **`console.log()`** static method outputs a message to the console.
 
@@ -1910,7 +1910,7 @@ The **`console.log()`** static method outputs a message to the console.
 log
 (
 e
-: 
+:
 any
 e
 )
@@ -1935,23 +1935,23 @@ Arrow components are plain functions wrapped withcomponent(). A component mounts
 * Use.key(...)when rendering components in keyed lists.
 
 import
- { 
+ {
 component
-, 
+,
 html
-, 
+,
 onCleanup
-, 
+,
 reactive
- } 
+ }
 from
  '@arrow-js/core'
 
 import
  type
- { 
+ {
 Props
- } 
+ }
 from
  '@arrow-js/core'
 
@@ -1959,7 +1959,7 @@ const
  parentState
  =
  reactive
-({ 
+({
 count
 :
  1
@@ -1973,11 +1973,11 @@ const
 props
 :
  Props
-<{ 
+<{
 count
 :
  number
- }>) 
+ }>)
 =>
  {
 
@@ -1985,7 +1985,7 @@ count
  local
  =
  reactive
-({ 
+({
 clicks
 :
  0
@@ -1994,7 +1994,7 @@ clicks
  const
  onResize
  =
- () 
+ ()
 =>
  console
 .
@@ -2010,19 +2010,19 @@ innerWidth
 addEventListener
 (
 'resize'
-, 
+,
 onResize
 )
 
  onCleanup
-(() 
+(()
 =>
  window
 .
 removeEventListener
 (
 'resize'
-, 
+,
 onResize
 ))
 
@@ -2045,7 +2045,7 @@ clicks
 "
 >
 
- Root count 
+ Root count
 ${
 ()
  =>
@@ -2053,7 +2053,7 @@ ${
 .
 count
 }
- | Local clicks 
+ | Local clicks
 ${
 ()
  =>
@@ -2105,13 +2105,13 @@ In the common case, just pass a reactive object directly as the
  component props.
 
 import
- { 
+ {
 component
-, 
+,
 html
-, 
+,
 reactive
- } 
+ }
 from
  '@arrow-js/core'
 
@@ -2119,11 +2119,11 @@ const
  state
  =
  reactive
-({ 
+({
 count
 :
  1
-, 
+,
 theme
 :
  'dark'
@@ -2135,7 +2135,7 @@ const
  component
 ((
 props
-) 
+)
 =>
 
  html
@@ -2192,30 +2192,30 @@ The same corecomponent()also accepts async factories
  when the Arrow async runtime is present:
 
 import
- { 
+ {
 component
-, 
+,
 html
- } 
+ }
 from
  '@arrow-js/core'
 
 import
  type
- { 
+ {
 Props
- } 
+ }
 from
  '@arrow-js/core'
 
 type
  User
  =
- { 
+ {
 id
 :
  string
-; 
+;
 name
 :
  string
@@ -2228,16 +2228,16 @@ const
 (
 
  async
- ({ 
+ ({
 id
  }
 :
  Props
-<{ 
+<{
 id
 :
  string
- }>) 
+ }>)
 =>
  {
 
@@ -2258,12 +2258,12 @@ id
 then
 ((
 r
-) 
+)
 =>
  r
 .
 json
-() 
+()
 as
  Promise
 <
@@ -2277,7 +2277,7 @@ name
 
  },
 
- { 
+ {
 fallback
 :
  html
@@ -2302,11 +2302,11 @@ const
 props
 :
  Props
-<{ 
+<{
 id
 :
  string
- }>) 
+ }>)
 =>
 
  html
@@ -2352,7 +2352,7 @@ watch(effect)orwatch(getter, afterEffect)
 Single-effect form:
 
 import
- { 
+ {
 function
  reactive
 <
@@ -2373,7 +2373,7 @@ T
  overload
 )
 reactive
-, 
+,
 function
  watch
 <
@@ -2384,7 +2384,7 @@ F
 args
 :
  unknown
-[]) 
+[])
 =>
  unknown
 >(
@@ -2395,13 +2395,13 @@ effect
 :
  [
 returnValue
-: 
+:
 ReturnType
 <
 F
->, 
+>,
 stop
-: () 
+: ()
 =>
  void
 ] (+
@@ -2409,12 +2409,12 @@ stop
  overload
 )
 watch
- } 
+ }
 from
  '@arrow-js/core'
 
 const
- 
+
 const
  data
 :
@@ -2439,7 +2439,7 @@ const
 }>
 data
  =
- 
+
 reactive
 <{
 
@@ -2503,23 +2503,23 @@ data
  overload
 )
 reactive
-({ 
+({
 price
-: 
+:
 number
 price
 :
  25
-, 
+,
 quantity
-: 
+:
 number
 quantity
 :
  10
-, 
+,
 logTotal
-: 
+:
 boolean
 logTotal
 :
@@ -2527,21 +2527,21 @@ logTotal
  })
 
 watch
-<() 
+<()
 =>
  void
 >(
 effect
-: () 
+: ()
 =>
  void
 ): [
 returnValue
-: 
+:
 void
-, 
+,
 stop
-: () 
+: ()
 =>
  void
 ] (
@@ -2550,7 +2550,7 @@ stop
  overload
 )
 watch
-(() 
+(()
 =>
  {
 
@@ -2581,12 +2581,12 @@ const
 data
 .
 logTotal
-: 
+:
 boolean
 logTotal
 ) {
 
- 
+
 var
  console
 :
@@ -2599,16 +2599,16 @@ log
 (
 ...
 data
-: 
+:
 any
-[]): 
+[]):
 void
 The **`console.log()`** static method outputs a message to the console.
 
 [MDN Reference](https://developer.mozilla.org/docs/Web/API/console/log_static)
 log
 (
-`Total: 
+`Total:
 ${
 const
  data
@@ -2635,11 +2635,11 @@ const
 data
 .
 price
-: 
+:
 number
 price
  *
- 
+
 const
  data
 :
@@ -2665,7 +2665,7 @@ const
 data
 .
 quantity
-: 
+:
 number
 quantity
 }
@@ -2679,7 +2679,7 @@ quantity
 Getter plus effect form:
 
 import
- { 
+ {
 function
  reactive
 <
@@ -2700,7 +2700,7 @@ T
  overload
 )
 reactive
-, 
+,
 function
  watch
 <
@@ -2711,7 +2711,7 @@ F
 args
 :
  unknown
-[]) 
+[])
 =>
  unknown
 >(
@@ -2722,13 +2722,13 @@ effect
 :
  [
 returnValue
-: 
+:
 ReturnType
 <
 F
->, 
+>,
 stop
-: () 
+: ()
 =>
  void
 ] (+
@@ -2736,12 +2736,12 @@ stop
  overload
 )
 watch
- } 
+ }
 from
  '@arrow-js/core'
 
 const
- 
+
 const
  data
 :
@@ -2766,7 +2766,7 @@ const
 }>
 data
  =
- 
+
 reactive
 <{
 
@@ -2830,23 +2830,23 @@ data
  overload
 )
 reactive
-({ 
+({
 price
-: 
+:
 number
 price
 :
  25
-, 
+,
 quantity
-: 
+:
 number
 quantity
 :
  10
-, 
+,
 logTotal
-: 
+:
 boolean
 logTotal
 :
@@ -2854,37 +2854,37 @@ logTotal
  })
 
 watch
-<() 
+<()
 =>
  number
 , (
 total
 :
  number
-) 
+)
 =>
  void
 >(
 effect
-: () 
+: ()
 =>
  number
-, 
+,
 afterEffect
 : (
 total
 :
  number
-) 
+)
 =>
  void
 ): [
 returnValue
-: 
+:
 void
-, 
+,
 stop
-: () 
+: ()
 =>
  void
 ] (
@@ -2895,9 +2895,9 @@ stop
 watch
 (
 
- () 
+ ()
 =>
- 
+
 const
  data
 :
@@ -2923,11 +2923,11 @@ const
 data
 .
 logTotal
-: 
+:
 boolean
 logTotal
  ?
- 
+
 const
  data
 :
@@ -2953,11 +2953,11 @@ const
 data
 .
 price
-: 
+:
 number
 price
  *
- 
+
 const
  data
 :
@@ -2983,7 +2983,7 @@ const
 data
 .
 quantity
-: 
+:
 number
 quantity
  :
@@ -2992,20 +2992,20 @@ quantity
 
  (
 total
-: 
+:
 number
 total
-) 
+)
 =>
- 
+
 total
-: 
+:
 number
 total
  !==
  null
  &&
- 
+
 var
  console
 :
@@ -3018,19 +3018,19 @@ log
 (
 ...
 data
-: 
+:
 any
-[]): 
+[]):
 void
 The **`console.log()`** static method outputs a message to the console.
 
 [MDN Reference](https://developer.mozilla.org/docs/Web/API/console/log_static)
 log
 (
-`Total: 
+`Total:
 ${
 total
-: 
+:
 number
 total
 }
@@ -3052,7 +3052,7 @@ total
  back through the optionalevents.outputhandler.
 
 import
- { 
+ {
 function
  html
 (
@@ -3061,7 +3061,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -3070,12 +3070,12 @@ expressions
 :
  ArrowTemplate
 html
- } 
+ }
 from
  '@arrow-js/core'
 
 import
- { 
+ {
 function
  sandbox
 <
@@ -3103,7 +3103,7 @@ error
  Error
  |
  string
-) 
+)
 =>
  void
 ;
@@ -3118,7 +3118,7 @@ error
 props
 :
  T
-, 
+,
 events
 ?
 :
@@ -3127,19 +3127,19 @@ events
 :
  ArrowTemplate
 sandbox
- } 
+ }
 from
  '@arrow-js/sandbox'
 
 const
- 
+
 const
  root
 :
  HTMLElement
 root
  =
- 
+
 var
  document
 :
@@ -3154,9 +3154,9 @@ Document
 getElementById
 (
 elementId
-: 
+:
 string
-): 
+):
 HTMLElement
  |
  null
@@ -3176,10 +3176,10 @@ const
 :
  HTMLElement
 root
-) 
+)
 throw
  new
- 
+
 var
  Error
 :
@@ -3191,12 +3191,12 @@ message
 ?
 :
  string
-, 
+,
 options
 ?
 :
  ErrorOptions
-) 
+)
 =>
  Error
  (
@@ -3210,7 +3210,7 @@ Error
 )
 
 const
- 
+
 const
  source
 :
@@ -3267,7 +3267,7 @@ join
 separator
 ?:
  string
-): 
+):
 string
 Adds all the elements of an array into a string, separated by the specified separator string.
 @param
@@ -3306,7 +3306,7 @@ join
 separator
 ?:
  string
-): 
+):
 string
 Adds all the elements of an array into a string, separated by the specified separator string.
 @param
@@ -3328,7 +3328,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -3382,7 +3382,7 @@ props
 
  };
 
-}, 
+},
 events
 ?
 :
@@ -3392,17 +3392,17 @@ events
  ArrowTemplate
 sandbox
 ({
- 
+
 source
 : {
 
  'main.ts'
-: 
+:
 string
 ;
 
  'main.css'
-: 
+:
 string
 ;
 
@@ -3457,12 +3457,12 @@ create_arrow_sandbox
 {
 
  "name"
-: 
+:
 "create_arrow_sandbox"
 ,
 
  "description"
-: 
+:
 "Produce arguments for @arrow-js/sandbox."
 ,
 
@@ -3470,12 +3470,12 @@ create_arrow_sandbox
 : {
 
  "type"
-: 
+:
 "object"
 ,
 
  "additionalProperties"
-: 
+:
 false
 ,
 
@@ -3486,17 +3486,17 @@ false
 : {
 
  "type"
-: 
+:
 "object"
 ,
 
  "description"
-: 
+:
 "Virtual files passed to sandbox({ source }). Must include main.ts or main.js. main.css is optional."
 ,
 
  "additionalProperties"
-: 
+:
 false
 ,
 
@@ -3507,12 +3507,12 @@ false
 : {
 
  "type"
-: 
+:
 "string"
 ,
 
  "description"
-: 
+:
 "Main Arrow TypeScript entry file."
 
  },
@@ -3521,12 +3521,12 @@ false
 : {
 
  "type"
-: 
+:
 "string"
 ,
 
  "description"
-: 
+:
 "Main Arrow JavaScript entry file."
 
  },
@@ -3535,12 +3535,12 @@ false
 : {
 
  "type"
-: 
+:
 "string"
 ,
 
  "description"
-: 
+:
 "Optional stylesheet for the sandbox root."
 
  }
@@ -3550,13 +3550,13 @@ false
  "anyOf"
 : [
 
- { 
+ {
 "required"
 : [
 "main.ts"
 ] },
 
- { 
+ {
 "required"
 : [
 "main.js"
@@ -3570,12 +3570,12 @@ false
 : {
 
  "type"
-: 
+:
 "boolean"
 ,
 
  "description"
-: 
+:
 "Whether the sandbox should render inside shadow DOM."
 
  },
@@ -3584,12 +3584,12 @@ false
 : {
 
  "type"
-: 
+:
 "boolean"
 ,
 
  "description"
-: 
+:
 "Whether sandbox debug logging should be enabled."
 
  }
@@ -3627,7 +3627,7 @@ The Vite scaffold uses a simplerouteToPage(url)entry so
  render the same page shape.
 
 import
- { 
+ {
 function
  html
 (
@@ -3636,7 +3636,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -3645,13 +3645,13 @@ expressions
 :
  ArrowTemplate
 html
- } 
+ }
 from
  '@arrow-js/core'
 
 export
  function
- 
+
 function
  routeToPage
 (
@@ -3681,7 +3681,7 @@ url
 routeToPage
 (
 url
-: 
+:
 string
 url
 :
@@ -3691,7 +3691,7 @@ url
  if
  (
 url
-: 
+:
 string
 url
  ===
@@ -3701,31 +3701,31 @@ url
  return
  {
 
- 
+
 status
-: 
+:
 number
 status
 :
  200
 ,
 
- 
+
 title
-: 
+:
 string
 title
 :
  'Home'
 ,
 
- 
+
 view
-: 
+:
 ArrowTemplate
 view
 :
- 
+
 function
  html
 (
@@ -3734,7 +3734,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :
@@ -3761,31 +3761,31 @@ main
  return
  {
 
- 
+
 status
-: 
+:
 number
 status
 :
  404
 ,
 
- 
+
 title
-: 
+:
 string
 title
 :
  'Not Found'
 ,
 
- 
+
 view
-: 
+:
 ArrowTemplate
 view
 :
- 
+
 function
  html
 (
@@ -3794,7 +3794,7 @@ strings
  TemplateStringsArray
  |
  string
-[], 
+[],
 ...
 expressions
 :

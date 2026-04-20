@@ -14,9 +14,9 @@ tags:
 InfoQ HomepageArticlesArchitectural Governance at AI Speed
 
  Architecture & Design
- 
 
-QCon San Francisco (Nov 16-20): Deep technical sessions. Peer conversations that change how you think. 
+
+QCon San Francisco (Nov 16-20): Deep technical sessions. Peer conversations that change how you think.
 
 # Architectural Governance at AI Speed
 
@@ -39,8 +39,8 @@ reviewed by
 
 Feed your curiosity.
 
-Help 550k+ global 
-senior developers 
+Help 550k+ global
+senior developers
 each month stay ahead.
 Get in touch
 
@@ -52,7 +52,7 @@ Get in touch
 * Teams can apply tools and techniques they already use to create machine-enforceable statements of architectural intent.Event Modeling,OpenAPI,Architectural Decision Records, andSpec Driven Developmentall produce content that can be enforced through automated oragenticmeans.
 * Declarative architectural intent, combined with automated oversight, enables teams to move quickly and safely while aligning with architectural intent, without increasing cognitive load.
 
-This article was written by participants of the 
+This article was written by participants of the
 online InfoQ Certified Architect Program
 . It represents the capstone of their work, reflecting the cohort's collective learnings on the intersection of AI and modern software architecture.
 
@@ -200,51 +200,51 @@ To eliminate the bottlenecks of centralized governance, architectural decisions 
 
 Code is now abundant. Alignment is not. The future of architectural governance is not more review boards or better documentation. It is declared intent, continuously enforced and continuously refined, operating at the same speed as the systems it governs.
 
- 
+
 
 ## About the Authors
 
- 
 
- 
 
- 
+
+
+
 
 #### Kyle Howard
 
 Show more
 Show less
 
- 
 
- 
+
+
 
 #### Christian Johansen
 
 Show more
 Show less
 
- 
 
- 
+
+
 
 #### Dana Katzenelson
 
 Show more
 Show less
 
- 
 
- 
+
+
 
 #### Brian Rhoten
 
 Show more
 Show less
 
- 
 
- 
+
+
 
 #### Warren Gray
 
@@ -287,7 +287,7 @@ Select your country
 
 Select a country
 
-I consent to InfoQ.com handling my data as explained in this 
+I consent to InfoQ.com handling my data as explained in this
 Privacy Notice
 .
 

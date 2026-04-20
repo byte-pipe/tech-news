@@ -481,7 +481,7 @@ If you've worked on agent memory systems and found similar walls, or found ways 
 This is part of an ongoing series about buildingOrKa, an open-source YAML-first agent orchestration framework. Previous installments:Part 1: Plumbing Instead of Philosophy.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -492,6 +492,6 @@ Preview
 Dismiss
 
  View full discussion (16 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

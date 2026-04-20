@@ -92,11 +92,11 @@ In the case of "@shadanai/openclaw," the packagevendors the malicious "plain-cry
 
 "The real axios has only three dependencies (follow-redirects, form-data, proxy-from-env)," the supply chain security companysaid. "The addition of plain-crypto-js is unambiguous tampering. When npm processes this vendored axios, it installs plain-crypto-js and triggers the same malicious postinstall chain."
 
-Found this article interesting? Follow us on 
+Found this article interesting? Follow us on
 Google News
-, 
+,
 Twitter
- and 
+ and
 LinkedIn
  to read more exclusive content we post.
 
@@ -122,25 +122,25 @@ Share
 
 Share
 
-SHARE 
+SHARE
 
 
 CI/CD Security
-, 
+,
 cybersecurity
-, 
+,
 JavaScript
-, 
+,
 Malware
-, 
+,
 NPM
-, 
+,
 Open Source
-, 
+,
 Remote Access Trojan
-, 
+,
 Software Integrity
-, 
+,
 supply chain attack
 
 Trending News

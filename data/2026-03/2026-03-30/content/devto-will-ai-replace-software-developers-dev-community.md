@@ -183,7 +183,7 @@ So even if you are a senior developer, never stop learning!
 Thank you for reading this article to the end. I would be happy if you share your own stories of using AI in development, what successes you achieved, where it helped you, and where it slowed you down.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -194,7 +194,7 @@ Preview
 Dismiss
 
  View full discussion (62 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
  Some comments have been hidden by the post's author -find out more

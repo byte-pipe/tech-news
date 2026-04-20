@@ -194,7 +194,7 @@ check_small
 Reference architecture
 check_small
 Available pre-built solutions
-This service was built with 
+This service was built with
 Vertex AI
 . You must be 18 or older to use it. Do not enter sensitive, confidential, or personal info.
 

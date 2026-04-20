@@ -15,7 +15,7 @@ tags:
 
 # AIOps is so powerful, vendors are building tools to clean up after agents break your infrastructure
 
- 
+
 
 ## Cohesity, ServiceNow and Datadog team on recoverability suite
 
@@ -40,10 +40,10 @@ Cohesity says it addresses the risks agents pose by preserving immutable snapsho
 
 ServiceNow and Datadog are helping Cohesity by providing control and observability platforms that monitor for anomalies. If the vendors’ tools spot a problem, Cohesity’s tools can trigger API-driven restorations across an IT estate, recovering AI agents and agent memory, vector databases, model configurations, training and fine tuning data, and enterprise data stores. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

@@ -30,7 +30,7 @@ Eighteen people contributed to the video for “Take the Lead,” including desi
 
 “They say it’s not real, that it’s fake,” Norwood snarls at the camera. “But I am still human, make no mistake.”
 
- 
+
 
 Techcrunch event
 
@@ -83,13 +83,13 @@ I think Pitchfork jumped the gun. Twenty years later, they finally have a worthy
 Topics
 
 AI
-, 
+,
 Media & Entertainment
-, 
+,
 tilly norwood
- 
 
-			Amanda Silberling	
+
+			Amanda Silberling
 
 Senior Writer
 
@@ -97,6 +97,6 @@ Amanda Silberling is a senior writer at TechCrunch covering the intersection of 
 
 You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.
 
- 
+
 
 View Bio

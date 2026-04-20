@@ -42,7 +42,7 @@ Dame Sarah- who became a Christian at 16 - told the congregation that she resona
 Yui Mok / PA Media
 The service began with Dame Sarah striking the West Door of the cathedral three times, as the congregation waited inside
 Jordan Pettitt / PA Media
-Members of the clergy were among the 2,000 people gathered for the installation, historically known as an enthronement 
+Members of the clergy were among the 2,000 people gathered for the installation, historically known as an enthronement
 
 Some traditionalists in the Church of England and the wider global Anglican Communion continue to oppose the idea of women being priests at all.
 

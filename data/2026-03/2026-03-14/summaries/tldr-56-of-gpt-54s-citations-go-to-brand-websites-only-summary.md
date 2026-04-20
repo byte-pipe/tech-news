@@ -12,27 +12,27 @@ summarized_at: 2026-03-14T06:03:44.422209
 # 56% of GPT‑5.4’s Citations Go to Brand Websites. Only 8% of GPT‑5.3’s Do.
 
 ## Overview
-- Tested 50 prompts on ChatGPT’s new models (GPT‑5.3 Instant, GPT‑5.4 Thinking) and baseline GPT‑5.2 versions.  
-- Extracted every fan‑out query, web‑search result, and citation URL from the conversation JSON.  
-- Compared AI‑generated results with Bing and Google via SerpAPI.  
+- Tested 50 prompts on ChatGPT’s new models (GPT‑5.3 Instant, GPT‑5.4 Thinking) and baseline GPT‑5.2 versions.
+- Extracted every fan‑out query, web‑search result, and citation URL from the conversation JSON.
+- Compared AI‑generated results with Bing and Google via SerpAPI.
 
 ## Main Findings
-- **First‑party citation rate:**  
-  - GPT‑5.4: 56 % of citations point to the brand’s own website.  
-  - GPT‑5.3: only 8 % point to brand sites (down from 22 % in GPT‑5.2).  
-- **Source overlap:** average overlap between the two models is 7 %; 22 of 50 prompts have zero overlap.  
-- **Prompt category impact:** the gap is largest on comparison prompts (0 % vs 83‑100 %); SaaS improves 7‑fold (12 % → 82 %); even “shopping” doubles first‑party rate.  
-- **Gatekeeper domains for GPT‑5.3:** Forbes, TechRadar, Tom’s Guide, Reddit, Money.com dominate third‑party citations.  
-- **Top domains for GPT‑5.4:** brand sites themselves (e.g., hubspot.com, shopify.com, salesforce.com).  
+- **First‑party citation rate:**
+  - GPT‑5.4: 56 % of citations point to the brand’s own website.
+  - GPT‑5.3: only 8 % point to brand sites (down from 22 % in GPT‑5.2).
+- **Source overlap:** average overlap between the two models is 7 %; 22 of 50 prompts have zero overlap.
+- **Prompt category impact:** the gap is largest on comparison prompts (0 % vs 83‑100 %); SaaS improves 7‑fold (12 % → 82 %); even “shopping” doubles first‑party rate.
+- **Gatekeeper domains for GPT‑5.3:** Forbes, TechRadar, Tom’s Guide, Reddit, Money.com dominate third‑party citations.
+- **Top domains for GPT‑5.4:** brand sites themselves (e.g., hubspot.com, shopify.com, salesforce.com).
 
 ## Fan‑out Query Behavior
-- GPT‑5.3 sends a single query (raw prompt).  
+- GPT‑5.3 sends a single query (raw prompt).
 - GPT‑5.4 generates **8.5 × more** fan‑out queries per prompt (average 8.5 sub‑queries), using:
-  - Domain‑restricted queries (148 total)  
-  - `site:` operators (156 total)  
-- Typical two‑phase pattern for GPT‑5.4:  
-  1. **Brand verification** – queries restricted to brand domains.  
-  2. **Third‑party validation** – queries to review or comparison sites.  
+  - Domain‑restricted queries (148 total)
+  - `site:` operators (156 total)
+- Typical two‑phase pattern for GPT‑5.4:
+  1. **Brand verification** – queries restricted to brand domains.
+  2. **Third‑party validation** – queries to review or comparison sites.
 
 ## Quantitative Comparison (selected metrics)
 
@@ -58,9 +58,9 @@ summarized_at: 2026-03-14T06:03:44.422209
 | Shopping | 4.6 | — | — |
 
 ## Implications for Brands (GEO / AEO)
-- Visibility on GPT‑5.3 does **not** guarantee visibility on GPT‑5.4; strategies must address both models.  
-- Dominating third‑party sites (e.g., Forbes, TechRadar) helps on GPT‑5.3, while owning and optimizing brand sites is crucial for GPT‑5.4.  
-- AI‑visibility audits that test only one model miss a large portion of the citation landscape.  
+- Visibility on GPT‑5.3 does **not** guarantee visibility on GPT‑5.4; strategies must address both models.
+- Dominating third‑party sites (e.g., Forbes, TechRadar) helps on GPT‑5.3, while owning and optimizing brand sites is crucial for GPT‑5.4.
+- AI‑visibility audits that test only one model miss a large portion of the citation landscape.
 
 ## Sample Prompt Comparison (first‑party %)
 

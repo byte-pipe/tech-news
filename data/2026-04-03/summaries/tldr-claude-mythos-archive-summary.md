@@ -12,8 +12,8 @@ summarized_at: 2026-04-03T01:02:52.043840
 # Claude Mythos - Archive Summary
 
 ## Versions
-- **v1 Mythos**  
+- **v1 Mythos**
   - Initial version labeled as “Mythos”.
 
-- **v2 Capybara**  
+- **v2 Capybara**
   - Updated version labeled as “Capybara”.

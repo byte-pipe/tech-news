@@ -14,17 +14,17 @@ tags:
 ---
 
 LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight
- 
- 
- 
- 
+
+
+
+
 Contents
- 
- 
- 
+
+
+
 LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight
- 
- 
+
+
 
 In mid-2024, theHuggingFace Open LLM Leaderboardwas the Colosseum for Open-Weight AI. Thousands of models were battling it out, submitted by both well-funded labs with teams of PhDs and fine-tuning wizards creating fantastically named models (e.g. Nous-Hermes, Dolphin and NeuralBeagle14-7B…), fighting for the top spot across six benchmarks: IFEval, BBH, MATH Lvl 5, GPQA, MuSR, and MMLU-PRO.
 
@@ -78,8 +78,8 @@ Alpindale hadn’t just stacked the two models (XwinandEuryale), end to end. He 
 
 The layer ranges used are as follows:
 
- 
- 
+
+
 1
 2
 3
@@ -155,8 +155,8 @@ The concept is simple. For a model with $N$ layers, I define a configuration $(i
 
 i.e. the pair (2, 7) for a model with 9 transformer blocks would be calculated so:
 
- 
- 
+
+
 1
 2
 3
@@ -177,8 +177,8 @@ Example: (i, j) = (2, 7)
 
 By running through all possible pairs, we can generate a ‘Brain Scan’, and also see the number of duplicate layers for each set of parameters:
 
- 
- 
+
+
 1
 2
 3
@@ -304,8 +304,8 @@ A binary right/wrong scoring system would throw away useful signal. Getting a pe
 
 But what about a model that makes a dumb ‘LLM-mistake’ and outputs430245when the answer is4302459, and has clearly done most of the work? I wrote a custom partial-credit scoring function that pads shorter answers and penalises proportionally:
 
- 
- 
+
+
 1
 2
 3
@@ -331,29 +331,29 @@ But what about a model that makes a dumb ‘LLM-mistake’ and outputs430245when
 23
 
 def
- 
+
 calculate_score
 (
 actual
 ,
- 
+
 estimate
 ):
 
- 
+
 """
 Calculate score comparing actual vs estimated answer.
 """
 
- 
+
 try
 :
 
- 
+
 actual_str
- 
+
 =
- 
+
 str
 (
 int
@@ -361,11 +361,11 @@ int
 actual
 ))
 
- 
+
 estimate_str
- 
+
 =
- 
+
 str
 (
 int
@@ -373,204 +373,204 @@ int
 estimate
 ))
 
- 
-except 
+
+except
 (
 ValueError
 ,
- 
+
 OverflowError
 ):
 
- 
+
 return
- 
+
 0
 
- 
+
 max_length
- 
+
 =
- 
+
 max
 (
 len
 (
 actual_str
 ),
- 
+
 len
 (
 estimate_str
 ))
 
- 
+
 actual_padded
- 
+
 =
- 
+
 actual_str
 .
 ljust
 (
 max_length
 ,
- 
+
 "
 0
 "
 )
 
- 
+
 estimate_padded
- 
+
 =
- 
+
 estimate_str
 .
 ljust
 (
 max_length
 ,
- 
+
 "
 0
 "
 )
 
- 
+
 padding_size
- 
+
 =
- 
+
 max_length
- 
+
 -
- 
+
 min
 (
 len
 (
 actual_str
 ),
- 
+
 len
 (
 estimate_str
 ))
 
- 
+
 actual_int
- 
+
 =
- 
+
 int
 (
 actual_padded
 )
 
- 
+
 estimate_int
- 
+
 =
- 
+
 int
 (
 estimate_padded
 )
 
- 
+
 if
- 
+
 max
 (
 actual_int
 ,
- 
+
 estimate_int
 )
- 
+
 ==
- 
+
 0
 :
 
- 
+
 return
- 
+
 0
 
- 
+
 relative_diff
- 
+
 =
- 
+
 abs
 (
 actual_int
- 
+
 -
- 
+
 estimate_int
 )
- 
+
 /
- 
+
 max
 (
 actual_int
 ,
- 
+
 estimate_int
 )
 
- 
+
 correction_factor
- 
+
 =
- 
+
 1
- 
+
 -
- 
+
 (
 padding_size
- 
+
 /
- 
+
 max_length
 )
 
- 
+
 score
- 
+
 =
- 
+
 (
 1
- 
+
 -
- 
+
 relative_diff
 )
- 
+
 *
- 
+
 correction_factor
 
- 
+
 return
- 
+
 max
 (
 0
 ,
- 
+
 min
 (
 score
 ,
- 
+
 1
 ))
 
@@ -578,8 +578,8 @@ The key idea: pad shorter answers, then penalise via the correction factor. A mo
 
 The math questions were hand-crafted initially. I experimented with different operations and scales, then generated random numbers to fill out the dataset. The dataset was a set of 16 questions, and the model is tasked with guesstimating the nearest whole integer number. Here are a few to try yourself, remember no ‘thinking’ is allowed, guess it directly!
 
- 
- 
+
+
 1
 2
 3
@@ -724,8 +724,8 @@ Nvidia: Sponsor this project by sending me GB300 Grace Blackwell Ultra Desktop, 
 
 Remember the architecture?
 
- 
- 
+
+
 1
 2
 3
@@ -754,24 +754,24 @@ Special thanks to my wife, for putting up with months of evenings and weekends s
 
 Get my next piece on AI hardware, biophysics, or random optimisation hacks delivered straight to your inbox.
 
- 
- 
+
+
 LLMs
-, 
+,
 Research
- 
- 
+
+
 llm
- 
+
 leaderboard
- 
+
 layer-duplication
- 
+
 neuroanatomy
- 
+
 qwen
- This post is licensed under 
- CC BY 4.0 
+ This post is licensed under
+ CC BY 4.0
  by the author.
- 
+
 Share

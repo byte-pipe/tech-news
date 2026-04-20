@@ -70,7 +70,7 @@ Start Earning ↗
 The AI compute market has three layers of margin.
 
  NVIDIA sells GPUs to hyperscalers. AWS, Google, Azure, and CoreWeave mark them up and rent capacity to AI companies. AI companies mark them up again and charge end users per token. Each layer takes a cut. End users pay multiples of what the silicon actually costs to run.
- 
+
 
 Current supply chain
 
@@ -93,7 +93,7 @@ That is not a technology problem. It is a marketplace problem.
 The pattern is familiar. Airbnb connected idle rooms to travelers. Uber connected idle cars to riders. Rooftop solar turned idle rooftops into energy assets. In each case, distributed idle capacity undercut centralized incumbents on price because the marginal cost was near zero.
 
  Darkbloom does this for AI compute. Idle Macs serve inference. Users pay less because there is no hyperscaler in the middle. Operators earn from hardware they already own. Unlike those other networks, the operator cannot see the user's data.
- 
+
 
 100M+
 Apple Silicon machines shipped since 2020
@@ -184,7 +184,7 @@ Change the base URL. Everything else works. Streaming, function calling, all exi
 python
 
 from
- openai 
+ openai
 import
  OpenAI
 
@@ -203,11 +203,11 @@ response = client.chat.completions.create(
 ,
  messages=[{
 "role"
-: 
+:
 "user"
-, 
+,
 "content"
-: 
+:
 "Hello!"
 }],
  stream=
@@ -216,10 +216,10 @@ True
 )
 
 for
- chunk 
+ chunk
 in
  response:
- 
+
 print
 (chunk.choices[0].delta.content, end=
 ""
@@ -318,7 +318,7 @@ Mac App
 Downloads the provider binary and configures a launchd service.
 
 terminal
-$ 
+$
 curl -fsSL https://api.darkbloom.dev/install.sh | bash
 
 No dependencies
@@ -345,7 +345,7 @@ Chip
 
 Memory
 
-Hours per day: 
+Hours per day:
 18
 
 Text
@@ -388,12 +388,12 @@ Qwen3.5 27B
 Dense, frontier-quality reasoning (Claude Opus distilled)
 text
 
-Qwen3.5 122B MoE 
+Qwen3.5 122B MoE
 ⓘ
 10B active — best quality per token
 text
 
-MiniMax M2.5 239B 
+MiniMax M2.5 239B
 ⓘ
 SOTA coding, 11B active, 100 tok/s on Mac Studio
 text

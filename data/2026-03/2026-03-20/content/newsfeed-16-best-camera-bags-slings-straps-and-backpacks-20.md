@@ -27,7 +27,7 @@ My Favorite Camera Bag
 Wandrd Prvke (V4)
 Read more
 $344
- 
+
 
 Wandrd (Bundle)
 
@@ -35,7 +35,7 @@ Best Everyday Sling
 Rogue Sling V2
 Read more
 $179
- 
+
 
 Amazon
 
@@ -43,7 +43,7 @@ For Street Photographers
 PolarPro RoadRunner Backpack
 Read more
 $80
- 
+
 
 B&H
 
@@ -51,7 +51,7 @@ A Great Everyday Camera Bag
 Wandrd Stratus Photo 18L
 Read more
 $229
- 
+
 
 Amazon
 
@@ -278,7 +278,7 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Julian Chokkattu
- is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ... 
+ is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ...
 Read More
 Senior Editor, Gear
 * LinkedIn
@@ -300,7 +300,7 @@ Our favorite zero-drop, minimalist footwear will let you feel the ground beneath
 Scott Gilbertson
 The Right Mattress Can Erase Your Back Pain
 If you're struggling with chronic back or shoulder pain, these mattresses could change your life
- Nena Farrell 
+ Nena Farrell
 The Best Portable Chargers for All Your Devices
 Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.
 Simon Hill
@@ -315,7 +315,7 @@ From workout-ready earbuds to gaming over-ears, these WIRED-tested picks sound l
 Ryan Waniata
 The Best Pillows for Every Style of Sleeper
 We’ve spent over a year testing the best pillows to support your noggin, whether you snooze on your side, on your back, or in a tangle of blankets.
- Nena Farrell 
+ Nena Farrell
 The 4 Best Smart Beds You Can Buy Right Now
 These tech-packed beds can adjust firmness, track your sleep, and regulate temperature automatically. Based on my testing, here’s what's worth the investment.
 Julia Forbes

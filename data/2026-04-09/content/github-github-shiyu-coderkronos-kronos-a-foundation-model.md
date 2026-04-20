@@ -11,7 +11,7 @@ description: 'Kronos: A Foundation Model for the Language of Financial Markets -
 
 shiyu-coder
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork2.5k
 * Star11.9k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -99,30 +99,30 @@ View all files
 
 ## Kronos: A Foundation Model for the Language of Financial Markets
 
- 
- 
+
+
 
 Deutsch
- | 
- 
+ |
+
 Español
- | 
- 
+ |
+
 Français
- | 
- 
+ |
+
 日本語
- | 
- 
+ |
+
 한국어
- | 
- 
+ |
+
 Português
- | 
- 
+ |
+
 Русский
- | 
- 
+ |
+
 中文
 
 Kronos is thefirst open-source foundation modelfor financial candlesticks (K-lines),
@@ -169,7 +169,7 @@ Kronos-Tokenizer-2k
 
 4.1M
 
-✅ 
+✅
 NeoQuasar/Kronos-mini
 
 Kronos-small
@@ -180,7 +180,7 @@ Kronos-Tokenizer-base
 
 24.7M
 
-✅ 
+✅
 NeoQuasar/Kronos-small
 
 Kronos-base
@@ -191,7 +191,7 @@ Kronos-Tokenizer-base
 
 102.3M
 
-✅ 
+✅
 NeoQuasar/Kronos-base
 
 Kronos-large
@@ -225,23 +225,23 @@ Here is a step-by-step guide to making your first forecast.
 First, load a pre-trained Kronos model and its corresponding tokenizer from the Hugging Face Hub.
 
 from
- 
+
 model
- 
+
 import
- 
+
 Kronos
-, 
+,
 KronosTokenizer
-, 
+,
 KronosPredictor
 
 # Load from Hugging Face Hub
 
 tokenizer
- 
+
 =
- 
+
 KronosTokenizer
 .
 from_pretrained
@@ -250,9 +250,9 @@ from_pretrained
 )
 
 model
- 
+
 =
- 
+
 Kronos
 .
 from_pretrained
@@ -267,15 +267,15 @@ Create an instance ofKronosPredictor, passing the model, tokenizer, and desired 
 # Initialize the predictor
 
 predictor
- 
+
 =
- 
+
 KronosPredictor
 (
 model
-, 
+,
 tokenizer
-, 
+,
 max_context
 =
 512
@@ -290,19 +290,19 @@ Thepredictmethod requires three main inputs:
 * y_timestamp: A pandas Series of timestamps for the future periods you want to predict.
 
 import
- 
+
 pandas
- 
+
 as
- 
+
 pd
 
 # Load your data
 
 df
- 
+
 =
- 
+
 pd
 .
 read_csv
@@ -313,9 +313,9 @@ read_csv
 df
 [
 'timestamps'
-] 
+]
 =
- 
+
 pd
 .
 to_datetime
@@ -328,23 +328,23 @@ df
 # Define context window and prediction length
 
 lookback
- 
+
 =
- 
+
 400
 
 pred_len
- 
+
 =
- 
+
 120
 
 # Prepare inputs for the predictor
 
 x_df
- 
+
 =
- 
+
 df
 .
 loc
@@ -354,22 +354,22 @@ lookback
 1
 , [
 'open'
-, 
+,
 'high'
-, 
+,
 'low'
-, 
+,
 'close'
-, 
+,
 'volume'
-, 
+,
 'amount'
 ]]
 
 x_timestamp
- 
+
 =
- 
+
 df
 .
 loc
@@ -377,14 +377,14 @@ loc
 lookback
 -
 1
-, 
+,
 'timestamps'
 ]
 
 y_timestamp
- 
+
 =
- 
+
 df
 .
 loc
@@ -396,7 +396,7 @@ lookback
 pred_len
 -
 1
-, 
+,
 'timestamps'
 ]
 
@@ -407,52 +407,52 @@ Call thepredictmethod to generate forecasts. You can control the sampling proces
 # Generate predictions
 
 pred_df
- 
+
 =
- 
+
 predictor
 .
 predict
 (
- 
+
 df
 =
 x_df
 ,
- 
+
 x_timestamp
 =
 x_timestamp
 ,
- 
+
 y_timestamp
 =
 y_timestamp
 ,
- 
+
 pred_len
 =
 pred_len
 ,
- 
+
 T
 =
 1.0
-, 
+,
 # Temperature for sampling
 
- 
+
 top_p
 =
 0.9
-, 
+,
 # Nucleus sampling probability
 
- 
+
 sample_count
 =
 1
- 
+
 # Number of forecast paths to generate and average
 
 )
@@ -476,87 +476,87 @@ For efficient processing of multiple time series, Kronos provides apredict_batch
 # Prepare multiple datasets for batch prediction
 
 df_list
- 
+
 =
  [
 df1
-, 
+,
 df2
-, 
+,
 df3
-] 
+]
 # List of DataFrames
 
 x_timestamp_list
- 
+
 =
  [
 x_ts1
-, 
+,
 x_ts2
-, 
+,
 x_ts3
-] 
+]
 # List of historical timestamps
 
 y_timestamp_list
- 
+
 =
  [
 y_ts1
-, 
+,
 y_ts2
-, 
+,
 y_ts3
-] 
+]
 # List of future timestamps
 
 # Generate batch predictions
 
 pred_df_list
- 
+
 =
- 
+
 predictor
 .
 predict_batch
 (
- 
+
 df_list
 =
 df_list
 ,
- 
+
 x_timestamp_list
 =
 x_timestamp_list
 ,
- 
+
 y_timestamp_list
 =
 y_timestamp_list
 ,
- 
+
 pred_len
 =
 pred_len
 ,
- 
+
 T
 =
 1.0
 ,
- 
+
 top_p
 =
 0.9
 ,
- 
+
 sample_count
 =
 1
 ,
- 
+
 verbose
 =
 True
@@ -566,27 +566,27 @@ True
 # pred_df_list contains prediction results in the same order as input
 
 for
- 
+
 i
-, 
+,
 pred_df
- 
+
 in
- 
+
 enumerate
 (
 pred_df_list
 ):
- 
+
 print
 (
-f"Predictions for series 
+f"Predictions for series
 {
 i
 }
 :"
 )
- 
+
 print
 (
 pred_df
@@ -700,13 +700,13 @@ The script will output a detailed performance analysis in your console and gener
 If you use Kronos in your research, we would appreciate a citation to ourpaper:
 
 @misc{shi2025kronos,
- title={Kronos: A Foundation Model for the Language of Financial Markets}, 
+ title={Kronos: A Foundation Model for the Language of Financial Markets},
  author={Yu Shi and Zongliang Fu and Shuo Chen and Bohan Zhao and Wei Xu and Changshui Zhang and Jian Li},
  year={2025},
  eprint={2508.02739},
  archivePrefix={arXiv},
  primaryClass={q-fin.ST},
- url={https://arxiv.org/abs/2508.02739}, 
+ url={https://arxiv.org/abs/2508.02739},
 }
 
 ## 📜 License
@@ -721,48 +721,48 @@ Kronos: A Foundation Model for the Language of Financial Markets
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 11.9k
 
  stars
- 
+
 
 ### Watchers
 
 129
 
  watching
- 
+
 
 ### Forks
 
 2.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -780,9 +780,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors13
 

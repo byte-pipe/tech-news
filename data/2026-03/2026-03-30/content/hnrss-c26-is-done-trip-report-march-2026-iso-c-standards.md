@@ -14,17 +14,17 @@ tags:
 ---
 
 Herb Sutter
- 
+
 
 C++
- 
+
 
 2026-03-29
 2026-03-29
- 
+
 
 8 Minutes
- 
+
 
 News flash: C++26 is done!🎉
 
@@ -126,9 +126,9 @@ But we’re not slowing down… we’ll continue to have subgroup Zoom meetings,
 * safety
 * security
 * stdexecution
- 
 
- 
+
+
 
 ## Published byHerb Sutter
 

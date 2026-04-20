@@ -29,7 +29,7 @@ Whether this turns out to matter in any lasting way is a question best left to d
 
 Either way, somewhere at Anthropic, you can imagine that one very talented engineer has spent the rest of the day quietly wondering if they still have a job. One can only hope it’s not the same engineer, or engineering team, from late last week.
 
- 
+
 
 Techcrunch event
 
@@ -52,22 +52,22 @@ REGISTER NOW
 Topics
 
 AI
-, 
+,
 Anthropic
- 
 
-			Connie Loizos	
+
+			Connie Loizos
 
 Editor in Chief & General Manager
 
 		Loizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.
 
 
-You can contact or verify outreach from Connie by emailing 
+You can contact or verify outreach from Connie by emailing
 connie@strictlyvc.com
- or 
+ or
 connie@techcrunch.com
 , or via encrypted message at ConnieLoizos.53 on Signal.
-	
+
 
 View Bio

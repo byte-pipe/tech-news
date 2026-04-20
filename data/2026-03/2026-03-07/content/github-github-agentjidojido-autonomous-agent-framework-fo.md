@@ -11,7 +11,7 @@ description: 🤖 Autonomous agent framework for Elixir. Built for distributed, 
 
 agentjido
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork73
 * Star1.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -136,46 +136,46 @@ Learn more about Jido atagentjido.xyz.
 With Jido, your agents are immutable data structures with a single command function:
 
 defmodule
- 
+
 MyAgent
- 
+
 do
 
- 
+
 use
- 
+
 Jido.Agent
 ,
 
- 
-name: 
+
+name:
 "my_agent"
 ,
 
- 
-description: 
+
+description:
 "My custom agent"
 ,
 
- 
-schema: 
+
+schema:
 [
 
- 
-count: 
+
+count:
 [
-type: 
+type:
 :integer
 ,
- 
-default: 
+
+default:
 0
 ]
 
- 
+
 ]
 
- 
+
 end
 
 end
@@ -183,19 +183,19 @@ end
 {
 agent
 ,
- 
+
 directives
 }
- 
+
 =
- 
+
 MyAgent
 .
 cmd
 (
 agent
 ,
- 
+
 action
 )
 
@@ -324,23 +324,23 @@ mix igniter.install jido --example
 Addjidoto your list of dependencies inmix.exs:
 
 def
- 
+
 deps
- 
+
 do
 
- 
+
 [
 
- 
+
 {
 :jido
 ,
- 
+
 "~> 2.0"
 }
 
- 
+
 ]
 
 end
@@ -350,18 +350,18 @@ Then define a Jido instance module and add it to your supervision tree:
 # In lib/my_app/jido.ex
 
 defmodule
- 
+
 MyApp.Jido
- 
+
 do
 
- 
+
 use
- 
+
 Jido
 ,
- 
-otp_app: 
+
+otp_app:
 :my_app
 
 end
@@ -369,32 +369,32 @@ end
 # In config/config.exs
 
 config
- 
+
 :my_app
 ,
- 
+
 MyApp.Jido
 ,
 
- 
-max_tasks: 
+
+max_tasks:
 1000
 ,
 
- 
-agent_pools: 
+
+agent_pools:
 [
 ]
 
 # In your application.ex
 
 children
- 
+
 =
- 
+
 [
 
- 
+
 MyApp.Jido
 
 ]
@@ -405,8 +405,8 @@ start_link
 (
 children
 ,
- 
-strategy: 
+
+strategy:
 :one_for_one
 )
 
@@ -415,59 +415,59 @@ strategy:
 ### 1. Define an Agent
 
 defmodule
- 
+
 MyApp.CounterAgent
- 
+
 do
 
- 
+
 use
- 
+
 Jido.Agent
 ,
 
- 
-name: 
+
+name:
 "counter"
 ,
 
- 
-description: 
+
+description:
 "A simple counter agent"
 ,
 
- 
-schema: 
+
+schema:
 [
 
- 
-count: 
+
+count:
 [
-type: 
+type:
 :integer
 ,
- 
-default: 
+
+default:
 0
 ]
 
- 
+
 ]
 ,
 
- 
-signal_routes: 
+
+signal_routes:
 [
 
- 
+
 {
 "increment"
 ,
- 
+
 MyApp.Actions.Increment
 }
 
- 
+
 ]
 
 end
@@ -475,93 +475,93 @@ end
 ### 2. Define an Action
 
 defmodule
- 
+
 MyApp.Actions.Increment
- 
+
 do
 
- 
+
 use
- 
+
 Jido.Action
 ,
 
- 
-name: 
+
+name:
 "increment"
 ,
 
- 
-description: 
+
+description:
 "Increments the counter by a given amount"
 ,
 
- 
-schema: 
+
+schema:
 [
 
- 
-amount: 
+
+amount:
 [
-type: 
+type:
 :integer
 ,
- 
-default: 
+
+default:
 1
 ]
 
- 
+
 ]
 
- 
+
 def
- 
+
 run
 (
 params
 ,
- 
+
 context
 )
- 
+
 do
 
- 
+
 current
- 
+
 =
- 
+
 context
 .
 state
 [
 :count
 ]
- 
+
 ||
- 
+
 0
 
- 
+
 {
 :ok
 ,
- 
+
 %
 {
-count: 
+count:
 current
- 
+
 +
- 
+
 params
 .
 amount
 }
 }
 
- 
+
 end
 
 end
@@ -571,9 +571,9 @@ end
 # Create an agent
 
 agent
- 
+
 =
- 
+
 MyApp.CounterAgent
 .
 new
@@ -585,26 +585,26 @@ new
 {
 agent
 ,
- 
+
 directives
 }
- 
+
 =
- 
+
 MyApp.CounterAgent
 .
 cmd
 (
 agent
 ,
- 
+
 {
 MyApp.Actions.Increment
 ,
- 
+
 %
 {
-amount: 
+amount:
 5
 }
 }
@@ -627,20 +627,20 @@ count
 {
 :ok
 ,
- 
+
 pid
 }
- 
+
 =
- 
+
 MyApp.Jido
 .
 start_agent
 (
 MyApp.CounterAgent
 ,
- 
-id: 
+
+id:
 "counter-1"
 )
 
@@ -651,34 +651,34 @@ id:
 {
 :ok
 ,
- 
+
 agent
 }
- 
+
 =
- 
+
 Jido.AgentServer
 .
 call
 (
 pid
 ,
- 
+
 Jido.Signal
 .
 new!
 (
 "increment"
 ,
- 
+
 %
 {
-amount: 
+amount:
 10
 }
 ,
- 
-source: 
+
+source:
 "/user"
 )
 )
@@ -686,9 +686,9 @@ source:
 # Look up the agent by ID
 
 pid
- 
+
 =
- 
+
 MyApp.Jido
 .
 whereis
@@ -699,9 +699,9 @@ whereis
 # List all running agents
 
 agents
- 
+
 =
- 
+
 MyApp.Jido
 .
 list_agents
@@ -717,19 +717,19 @@ The fundamental operation in Jido:
 {
 agent
 ,
- 
+
 directives
 }
- 
+
 =
- 
+
 MyAgent
 .
 cmd
 (
 agent
 ,
- 
+
 action
 )
 
@@ -753,9 +753,9 @@ Describe external effects
 
 Describe internal state changes
 
-Executed by 
+Executed by
 cmd/2
-, update 
+, update
 agent.state
 
 Bare structs emitted by agents
@@ -865,12 +865,12 @@ API Reference:hexdocs.pm/jido
 
 ### Running Tests
 
-mix 
+mix
 test
 
 ### Quality Checks
 
-mix quality 
+mix quality
 #
  Runs formatter, dialyzer, and credo
 
@@ -924,56 +924,56 @@ jido.run
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.4k
 
  stars
- 
+
 
 ### Watchers
 
 23
 
  watching
- 
+
 
 ### Forks
 
 73
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -993,17 +993,17 @@ tags
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1011,9 +1011,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

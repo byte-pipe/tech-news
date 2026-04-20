@@ -1,7 +1,7 @@
 ---
 title: Reddit - The heart of the internet
 url: https://www.reddit.com/r/worldnews/comments/1rorjnc/bahrains_major_oil_refinery_also_reportedly/
-date: 
+date:
 site: reddit
 model: gpt-oss:120b-cloud
 summarized_at: 2026-03-10T06:02:58.856451

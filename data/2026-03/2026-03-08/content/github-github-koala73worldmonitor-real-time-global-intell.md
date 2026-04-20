@@ -11,7 +11,7 @@ description: Real-time global intelligence dashboard — AI-powered news aggrega
 
 koala73
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork5.7k
 * Star33.7k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -220,20 +220,20 @@ View all files
 Real-time global intelligence dashboard— AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
  
- 
- 
- 
- 
- 
- 
- 
 
  
- 
+
  
- 
+
  
- 
+
+
+ 
+
+ 
+
+ 
+
 
 Full Documentation·All Releases
 
@@ -275,7 +275,7 @@ Real-time updates
 Cloud-dependent AI tools
 
 Run AI locally
- with Ollama/LM Studio — no API keys, no data leaves your machine. Opt-in 
+ with Ollama/LM Studio — no API keys, no data leaves your machine. Opt-in
 Headline Memory
  builds a local semantic index of every headline for RAG-powered queries
 
@@ -582,7 +582,7 @@ Every data endpoint is accessible programmatically viaapi.worldmonitor.app. The 
 #
  Fetch market quotes
 
-curl -s 
+curl -s
 '
 https://api.worldmonitor.app/api/market/v1/list-market-quotes?symbols=AAPL,MSFT,GOOGL
 '
@@ -590,7 +590,7 @@ https://api.worldmonitor.app/api/market/v1/list-market-quotes?symbols=AAPL,MSFT,
 #
  Get airport delays
 
-curl -s 
+curl -s
 '
 https://api.worldmonitor.app/api/aviation/v1/list-airport-delays
 '
@@ -598,7 +598,7 @@ https://api.worldmonitor.app/api/aviation/v1/list-airport-delays
 #
  Fetch climate anomalies
 
-curl -s 
+curl -s
 '
 https://api.worldmonitor.app/api/climate/v1/list-climate-anomalies
 '
@@ -606,7 +606,7 @@ https://api.worldmonitor.app/api/climate/v1/list-climate-anomalies
 #
  Get earthquake data
 
-curl -s 
+curl -s
 '
 https://api.worldmonitor.app/api/seismology/v1/list-earthquakes
 '
@@ -614,7 +614,7 @@ https://api.worldmonitor.app/api/seismology/v1/list-earthquakes
 #
  Company enrichment (GitHub, SEC filings, HN mentions)
 
-curl -s 
+curl -s
 '
 https://api.worldmonitor.app/api/enrichment/company?domain=stripe.com
 '
@@ -622,7 +622,7 @@ https://api.worldmonitor.app/api/enrichment/company?domain=stripe.com
 #
  Company signal discovery (funding, hiring, exec changes)
 
-curl -s 
+curl -s
 '
 https://api.worldmonitor.app/api/enrichment/signals?company=Stripe&domain=stripe.com
 '
@@ -639,15 +639,15 @@ Mechanism
 
 CORS origin allowlist
 
-Only 
+Only
 worldmonitor.app
-, 
+,
 tech.worldmonitor.app
-, 
+,
 finance.worldmonitor.app
-, and 
+, and
 localhost:*
- can call API endpoints. All others receive 403. Implemented in 
+ can call API endpoints. All others receive 403. Implemented in
 api/_cors.js
 .
 
@@ -665,21 +665,21 @@ All API keys live server-side in Vercel environment variables. The browser never
 
 Input sanitization
 
-User-facing content passes through 
+User-facing content passes through
 escapeHtml()
- (prevents XSS) and 
+ (prevents XSS) and
 sanitizeUrl()
- (blocks 
+ (blocks
 javascript:
- and 
+ and
 data:
- URIs). URLs use 
+ URIs). URLs use
 escapeAttr()
  for attribute context encoding.
 
 Query parameter validation
 
-API endpoints validate input formats (e.g., stablecoin coin IDs must match 
+API endpoints validate input formats (e.g., stablecoin coin IDs must match
 [a-z0-9-]+
 , bounding box params are numeric).
 
@@ -689,7 +689,7 @@ AI endpoints use Upstash Redis-backed rate limiting to prevent abuse of Groq/Ope
 
 Desktop sidecar auth
 
-The local API sidecar requires a per-session 
+The local API sidecar requires a per-session
 Bearer
  token generated at launch. The token is stored in Rust state and injected into the sidecar environment — only the Tauri frontend can retrieve it via IPC. Health check endpoints are exempt.
 
@@ -703,19 +703,19 @@ Two-phase URL validation: protocol allowlist, private IP rejection, DNS rebindin
 
 IPC window hardening
 
-All sensitive Tauri IPC commands gate on 
+All sensitive Tauri IPC commands gate on
 require_trusted_window()
- with a 
+ with a
 TRUSTED_WINDOWS
  allowlist.
 
 Bot protection middleware
 
-Edge Middleware blocks crawlers from 
+Edge Middleware blocks crawlers from
 /api/*
- routes. Social preview bots are selectively allowed on 
+ routes. Social preview bots are selectively allowed on
 /api/story
- and 
+ and
 /api/og-story
 .
 
@@ -734,9 +734,9 @@ Coverage
 Server handlers
 
 server-handlers
-, 
+,
 supply-chain-handlers
-, 
+,
 supply-chain-v2
 
 All 22 proto service handler imports, route registration, response schemas
@@ -744,9 +744,9 @@ All 22 proto service handler imports, route registration, response schemas
 Caching
 
 redis-caching
-, 
+,
 route-cache-tier
-, 
+,
 flush-stale-refreshes
 
 Cache key construction, TTL tiers, stale refresh coalescing, stampede prevention
@@ -754,27 +754,27 @@ Cache key construction, TTL tiers, stale refresh coalescing, stampede prevention
 Data integrity
 
 bootstrap
-, 
+,
 deploy-config
-, 
+,
 edge-functions
 
-Bootstrap key sync between 
+Bootstrap key sync between
 cache-keys.ts
- and 
+ and
 bootstrap.js
-, all 57 edge function self-containment (no 
+, all 57 edge function self-containment (no
 ../server/
  imports), version sync across package.json/tauri.conf.json/Cargo.toml
 
 Intelligence
 
 military-classification
-, 
+,
 clustering
-, 
+,
 insights-loader
-, 
+,
 summarize-reasoning
 
 Military confidence scoring, news clustering algorithms, AI brief generation, LLM reasoning chain parsing
@@ -782,11 +782,11 @@ Military confidence scoring, news clustering algorithms, AI brief generation, LL
 Map & geo
 
 countries-geojson
-, 
+,
 globe-2d-3d-parity
-, 
+,
 map-locale
-, 
+,
 geo-keyword-matching
 
 GeoJSON polygon validity, flat/globe layer parity, locale-aware map labels, 217-hub keyword matching
@@ -794,11 +794,11 @@ GeoJSON polygon validity, flat/globe layer parity, locale-aware map labels, 217-
 Protocols
 
 oref-proxy
-, 
+,
 oref-locations
-, 
+,
 oref-breaking
-, 
+,
 live-news-hls
 
 OREF alert parsing, 1480 Hebrew→English location translations, HLS stream detection
@@ -806,9 +806,9 @@ OREF alert parsing, 1480 Hebrew→English location translations, HLS stream dete
 Circuit breakers
 
 hapi-gdelt-circuit-breakers
-, 
+,
 tech-readiness-circuit-breakers
-, 
+,
 smart-poll-loop
 
 Per-source failure isolation, adaptive backoff, hidden-tab throttling
@@ -816,9 +816,9 @@ Per-source failure isolation, adaptive backoff, hidden-tab throttling
 Data sources
 
 gulf-fdi-data
-, 
+,
 ttl-acled-ais-guards
-, 
+,
 urlState
 
 Gulf FDI coordinate validation, ACLED/AIS TTL guards, URL state encoding/decoding
@@ -835,7 +835,7 @@ git clone https://github.com/koala73/worldmonitor.git
 cd
  worldmonitor
 npm install
-vercel dev 
+vercel dev
 #
  Runs frontend + all 60+ API edge functions
 
@@ -860,7 +860,7 @@ Free Tier
 AI (Local)
 
 OLLAMA_API_URL
-, 
+,
 OLLAMA_MODEL
 
 Free (runs on your hardware)
@@ -868,7 +868,7 @@ Free (runs on your hardware)
 AI (Cloud)
 
 GROQ_API_KEY
-, 
+,
 OPENROUTER_API_KEY
 
 14,400 req/day (Groq), 50/day (OpenRouter)
@@ -876,7 +876,7 @@ OPENROUTER_API_KEY
 Cache
 
 UPSTASH_REDIS_REST_URL
-, 
+,
 UPSTASH_REDIS_REST_TOKEN
 
 10K commands/day
@@ -884,9 +884,9 @@ UPSTASH_REDIS_REST_TOKEN
 Markets
 
 FINNHUB_API_KEY
-, 
+,
 FRED_API_KEY
-, 
+,
 EIA_API_KEY
 
 All free tier
@@ -894,7 +894,7 @@ All free tier
 Tracking
 
 WINGBITS_API_KEY
-, 
+,
 AISSTREAM_API_KEY
 
 Free
@@ -902,9 +902,9 @@ Free
 Geopolitical
 
 ACLED_ACCESS_TOKEN
-, 
+,
 CLOUDFLARE_API_TOKEN
-, 
+,
 NASA_FIRMS_API_KEY
 
 Free for researchers
@@ -912,9 +912,9 @@ Free for researchers
 Relay
 
 WS_RELAY_URL
-, 
+,
 VITE_WS_RELAY_URL
-, 
+,
 OPENSKY_CLIENT_ID/SECRET
 
 Self-hosted
@@ -922,13 +922,13 @@ Self-hosted
 UI
 
 VITE_VARIANT
-, 
+,
 VITE_MAP_INTERACTION_MODE
  (
 flat
- or 
+ or
 3d
-, default 
+, default
 3d
 )
 
@@ -952,7 +952,7 @@ World Monitor relies on60+ Vercel Edge Functionsin theapi/directory for RSS prox
 The simplest path — Vercel runs the edge functions natively on their free tier:
 
 npm install -g vercel
-vercel 
+vercel
 #
  Follow prompts to link/create project
 
@@ -963,11 +963,11 @@ Add your API keys in the Vercel dashboard underSettings → Environment Variable
 To run everything locally (frontend + edge functions):
 
 npm install -g vercel
-cp .env.example .env.local 
+cp .env.example .env.local
 #
  Add your API keys
 
-vercel dev 
+vercel dev
 #
  Starts on http://localhost:3000
 
@@ -977,7 +977,7 @@ Important: Usevercel devinstead ofnpm run dev. The Vercel CLI emulates the edge 
 
 If you only want the map and client-side features (no news feeds, no AI, no market data):
 
-npm run dev 
+npm run dev
 #
  Vite dev server on http://localhost:5173
 
@@ -1001,13 +1001,13 @@ Linux x86_64
 
 Full support
 
-Works with 
+Works with
 vercel dev
  for local development. Desktop .AppImage available for x86_64. WebKitGTK rendering uses DMA-BUF with fallback to SHM for GPU compatibility. Font stack includes DejaVu Sans Mono and Liberation Mono for consistent rendering across distros
 
 macOS
 
-Works with 
+Works with
 vercel dev
 
 Full local development
@@ -1023,7 +1023,7 @@ Docker
 
 Planned
 
-See 
+See
 Roadmap
 
 ### Railway Relay (Optional)
@@ -1148,80 +1148,80 @@ Contributions welcome! SeeCONTRIBUTING.mdfor detailed guidelines, including the 
 #
  Development
 
-npm run dev 
+npm run dev
 #
  Full variant (worldmonitor.app)
 
-npm run dev:tech 
+npm run dev:tech
 #
  Tech variant (tech.worldmonitor.app)
 
-npm run dev:finance 
+npm run dev:finance
 #
  Finance variant (finance.worldmonitor.app)
 
-npm run dev:commodity 
+npm run dev:commodity
 #
  Commodity variant (commodity.worldmonitor.app)
 
-npm run dev:happy 
+npm run dev:happy
 #
  Happy variant (happy.worldmonitor.app)
 
 #
  Production builds
 
-npm run build:full 
+npm run build:full
 #
  Build full variant
 
-npm run build:tech 
+npm run build:tech
 #
  Build tech variant
 
-npm run build:finance 
+npm run build:finance
 #
  Build finance variant
 
-npm run build:commodity 
+npm run build:commodity
 #
  Build commodity variant
 
-npm run build:happy 
+npm run build:happy
 #
  Build happy variant
 
 #
  Quality (also runs automatically on PRs via GitHub Actions)
 
-npm run typecheck 
+npm run typecheck
 #
  TypeScript type checking (tsc --noEmit)
 
 #
  Desktop packaging
 
-npm run desktop:package:macos:full 
+npm run desktop:package:macos:full
 #
  .app + .dmg (World Monitor)
 
-npm run desktop:package:macos:tech 
+npm run desktop:package:macos:tech
 #
  .app + .dmg (Tech Monitor)
 
-npm run desktop:package:macos:finance 
+npm run desktop:package:macos:finance
 #
  .app + .dmg (Finance Monitor)
 
-npm run desktop:package:windows:full 
+npm run desktop:package:windows:full
 #
  .exe + .msi (World Monitor)
 
-npm run desktop:package:windows:tech 
+npm run desktop:package:windows:tech
 #
  .exe + .msi (Tech Monitor)
 
-npm run desktop:package:windows:finance 
+npm run desktop:package:windows:finance
 #
  .exe + .msi (Finance Monitor)
 
@@ -1379,63 +1379,63 @@ worldmonitor.app
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 33.7k
 
  stars
- 
+
 
 ### Watchers
 
 249
 
  watching
- 
+
 
 ### Forks
 
 5.7k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases43
 
@@ -1443,11 +1443,11 @@ World Monitor v2.5.23
 
  Latest
 
- 
+
 
 Mar 1, 2026
 
- 
+
 
 + 42 releases
 
@@ -1463,9 +1463,9 @@ Mar 1, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors57
 

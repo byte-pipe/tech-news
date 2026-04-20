@@ -11,7 +11,7 @@ description: Sample code and notebooks for Generative AI on Google Cloud, with G
 
 GoogleCloudPlatform
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork3.8k
 * Star13.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -220,11 +220,11 @@ Description
 gemini/
 
  Discover Gemini through starter notebooks, use cases, function calling, sample apps, and more.
- 
+
 
 search/
 
-Use this folder if you're interested in using 
+Use this folder if you're interested in using
 Vertex AI Search
 , a Google-managed solution to help you rapidly build search engines for websites and across enterprise data. (Formerly known as Enterprise Search on Generative AI App Builder).
 
@@ -236,7 +236,7 @@ vision/
 
  Use this folder if you're interested in building your own solutions from scratch using features from Imagen on Vertex AI (Vertex AI Imagen API).
  These are the features that Imagen on Vertex AI offers:
- 
+
 * Image generation
 * Image editing
 * Visual captioning
@@ -245,7 +245,7 @@ vision/
 audio/
 
  Use this folder if you're interested in building your own solutions from scratch using features from Chirp, a version of Google's Universal Speech Model (USM) on Vertex AI (Vertex AI Chirp API).
- 
+
 
 setup-env/
 
@@ -351,74 +351,74 @@ cloud.google.com/vertex-ai/docs/generative-ai/learn/overview
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 13.4k
 
  stars
- 
+
 
 ### Watchers
 
 253
 
  watching
- 
+
 
 ### Forks
 
 3.8k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -426,9 +426,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

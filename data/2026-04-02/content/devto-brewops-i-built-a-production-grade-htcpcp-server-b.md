@@ -29,12 +29,12 @@ BrewOpsis a fully RFC 2324-compliant HTCPCP/1.0 server. Written in Go. Zero exte
 
 Here's what happens when you try to brew coffee in a teapot:
 
-$ 
-curl 
+$
+curl
 -X
- BREW https://brewops.10mins.email/pot-2 
+ BREW https://brewops.10mins.email/pot-2
 -d
- 
+
 'start'
 
  418 I
@@ -58,10 +58,10 @@ m short and stout.
 
  RFC 2324 §2.3.2:
  "
-Any attempt to brew coffee with a teapot should result 
+Any attempt to brew coffee with a teapot should result
 in
- 
-the error code 
+
+the error code
 '418 I'
 m a teapot
 '. The resulting entity
@@ -85,57 +85,57 @@ I know you want to. Nobody can resist poking the teapot.
 
 # Brew coffee (auto-creates a new pot for you, no reservation needed)
 
-curl 
+curl
 -X
- BREW https://brewops.10mins.email/pot 
+ BREW https://brewops.10mins.email/pot
 -d
- 
+
 'start'
 
 # Poke the teapot (you will get 418'd and you will deserve it)
 
-curl 
+curl
 -X
- BREW https://brewops.10mins.email/pot-2 
+ BREW https://brewops.10mins.email/pot-2
 -d
- 
+
 'start'
 
 # Brew with Whisky at 2pm on a Tuesday (the server will judge you)
 
-curl 
+curl
 -X
- BREW https://brewops.10mins.email/pot 
+ BREW https://brewops.10mins.email/pot
 \
 
- 
+
 -H
- 
+
 'Accept-Additions: Cream, Whisky'
- 
+
 -d
- 
+
 'start'
 
 # Brew tea, because the teapot has feelings and wants to be useful
 
-curl 
+curl
 -X
- BREW https://brewops.10mins.email/tea/earl-grey 
+ BREW https://brewops.10mins.email/tea/earl-grey
 \
 
- 
+
 -H
- 
+
 'Content-Type: message/teapot'
- 
+
 -d
- 
+
 'start'
 
 # Say "when" for milk (the RFC has a whole section on this, I'm not kidding)
 
-curl 
+curl
 -X
  WHEN https://brewops.10mins.email/pot-0
 
@@ -147,27 +147,27 @@ curl https://brewops.10mins.email/status
 
 # (the server will call you out but still serve your coffee)
 
-for 
-i 
+for
+i
 in
- 
+
 $(
-seq 
+seq
 1 15
 )
 ;
- 
+
 do
- 
-curl 
+
+curl
 -s
- 
+
 -X
- BREW https://brewops.10mins.email/pot 
+ BREW https://brewops.10mins.email/pot
 -d
- 
+
 'start'
- 
+
 >
  /dev/null
 
@@ -295,7 +295,7 @@ If you enjoyed this, leave a reaction. If you triggered a 418, leave a reaction.
 Coffee budget for this project generously provided byVexrail. I did not approve this expense. I am also the one who spent it. The coffee was good though.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

@@ -30,7 +30,7 @@ The software costs $99 a month per user for up to 600 encounters a month — AWS
 
 An Amazon Web Services spokesperson did not immediately respond to TechCrunch’s requests for additional information regarding testing and timeline.
 
- 
+
 
 Techcrunch event
 
@@ -63,29 +63,29 @@ In January, OpenAI releasedChatGPT Health, a version of its chatbot tailored to 
 Topics
 
 AI
-, 
+,
 AI agents
-, 
+,
 Anthropic
-, 
+,
 artificial intelligence
-, 
+,
 AWS
-, 
+,
 Biotech & Health
-, 
+,
 Enterprise
-, 
+,
 healthcare
-, 
+,
 OpenAI
-, 
+,
 TC
-, 
+,
 United States
- 
 
-			Rebecca Szkutak	
+
+			Rebecca Szkutak
 
 Senior Reporter, Venture
 

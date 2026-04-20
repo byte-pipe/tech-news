@@ -1,7 +1,7 @@
 ---
 title: GitHub - coleam00/Archon: The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. · GitHub
 url: https://github.com/coleam00/Archon
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-09T11:42:31.940531

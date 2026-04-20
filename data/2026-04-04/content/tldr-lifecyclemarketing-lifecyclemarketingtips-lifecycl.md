@@ -15,9 +15,9 @@ tags:
 
 # Jacalyn Beales’ Post
 
- 
 
- 
+
+
 
 11,248 followers
 
@@ -25,7 +25,7 @@ tags:
 * 36 Articles
 
  View Profile
- 
+
 
 Connect
 
@@ -49,6 +49,6 @@ Connect
 * User Experience
 
  Show more
- 
+
 
  Show less

@@ -204,6 +204,14 @@ class TestPreconfiguredBreakers(unittest.TestCase):
         result = mock_http_call()
         self.assertEqual(result, "http_success")
 
+    def test_http_circuit_breaker_can_attempt_half_open(self):
+        """Test _can_attempt returns True when state is already HALF_OPEN (lines 120-122)."""
+        http_circuit_breaker.reset()
+        http_circuit_breaker.state = CircuitState.HALF_OPEN
+        result = http_circuit_breaker._can_attempt()
+        self.assertTrue(result)
+        http_circuit_breaker.reset()
+
 
 if __name__ == "__main__":
     unittest.main()

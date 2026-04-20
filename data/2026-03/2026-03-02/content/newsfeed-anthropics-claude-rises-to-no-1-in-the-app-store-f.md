@@ -42,7 +42,7 @@ OpenAI subsequentlyannounced its own agreement with the Pentagon, which CEO Sam 
 
 This post was first published on February 28, 2026. It has been updated to reflect Anthropic reaching No. 1, and to include growth numbers from the company.
 
- 
+
 
 Techcrunch event
 
@@ -65,9 +65,9 @@ REGISTER NOW
 Topics
 
 AI
-, 
+,
 Government & Policy
- 
+
 
 ### Newsletters
 
@@ -92,7 +92,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

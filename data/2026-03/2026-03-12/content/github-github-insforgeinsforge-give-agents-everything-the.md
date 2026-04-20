@@ -11,7 +11,7 @@ description: 'Give agents everything they need to ship fullstack apps. The backe
 
 InsForge
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork299
 * Star2.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -244,7 +244,7 @@ graph TB
 
  linkStyle default stroke:#30363d,stroke-width:1px
 
- 
+
 Loading
 
 ### Core Products:
@@ -354,38 +354,38 @@ HTML:
 
 <
 a
- 
+
 href
 ="
 https://insforge.dev
 "
 >
 
- 
+
 <
 img
 
- 
+
 width
 ="
 168
 "
- 
+
 height
 ="
 30
 "
- 
+
 src
 ="
 https://insforge.dev/badge-made-with-insforge.svg
 "
- 
+
 alt
 ="
 Made with InsForge
 "
- 
+
 />
 
 </
@@ -411,38 +411,38 @@ HTML:
 
 <
 a
- 
+
 href
 ="
 https://insforge.dev
 "
 >
 
- 
+
 <
 img
 
- 
+
 width
 ="
 168
 "
- 
+
 height
 ="
 30
 "
- 
+
 src
 ="
 https://insforge.dev/badge-made-with-insforge-dark.svg
 "
- 
+
 alt
 ="
 Made with InsForge
 "
- 
+
 />
 
 </
@@ -489,61 +489,61 @@ insforge.dev
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 2.6k
 
  stars
- 
+
 
 ### Watchers
 
 30
 
  watching
- 
+
 
 ### Forks
 
 299
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases25
 
@@ -551,11 +551,11 @@ Release v2.0.1
 
  Latest
 
- 
+
 
 Mar 9, 2026
 
- 
+
 
 + 24 releases
 
@@ -563,7 +563,7 @@ Mar 9, 2026
 
  
 
- 
+
 
  Sponsor
 
@@ -571,11 +571,11 @@ Mar 9, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -591,17 +591,17 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors45
 

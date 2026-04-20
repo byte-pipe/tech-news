@@ -11,7 +11,7 @@ description: Vane is an AI-powered answering engine. Contribute to ItzCrazyKns/V
 
 ItzCrazyKns
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork3.5k
 * Star32.6k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -209,7 +209,7 @@ We'd also like to thank the following partners for their generous support:
 
 Exa
  • The Perfect Web Search API for LLMs - web search, crawling, deep research, and answer APIs
- 
+
 
 ## Installation
 
@@ -333,7 +333,7 @@ We also accept donations to help sustain our project. If you would like to contr
 
 Ethereum
 
-Address: 
+Address:
 0xB025a84b2F269570Eb8D4b05DEdaA41D8525B6DD
 
 ## Contribution
@@ -384,53 +384,53 @@ Vane is an AI-powered answering engine.
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 32.6k
 
  stars
- 
+
 
 ### Watchers
 
 187
 
  watching
- 
+
 
 ### Forks
 
 3.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases33
 
@@ -438,11 +438,11 @@ v1.12.1
 
  Latest
 
- 
+
 
 Dec 31, 2025
 
- 
+
 
 + 32 releases
 
@@ -450,9 +450,9 @@ Dec 31, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -460,9 +460,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

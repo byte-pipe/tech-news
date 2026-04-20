@@ -15,7 +15,7 @@ tags:
 
 # How to turn anything into a router
 
- 
+
 
 I don’t like to cover “current events” very much, but the American government just revealed atruly bewilderingpolicy effectively banning import of new consumer router models.
 This is ridiculous for many reasons, but if this does indeed come to pass it may be beneficial to learn how to “homebrew” a router.
@@ -211,7 +211,7 @@ table inet filter {
 
  chain forward {
  type filter hook forward priority 0; policy drop;
- iifname "eth0" oifname "br0" ct state { established,related } counter accept 
+ iifname "eth0" oifname "br0" ct state { established,related } counter accept
  iifname "br0" oifname "eth0" ct state { new,established,related } counter accept
  counter
  }
@@ -264,7 +264,7 @@ GRUB_SERIAL_COMMAND="serial --speed=115200 --unit=0 --word=8 --parity=no --stop=
 
 Then enable the Getty service to run on the port:
 
-sudo systemctl enable 
+sudo systemctl enable
 [email protected]
 
 Update the grub bootloader config, and restart the box.

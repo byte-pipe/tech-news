@@ -17,37 +17,37 @@ LWN
 
 News from the source
 
- 
+
 
 User:
- 
+
 
 Password:
- 
- 
- 
- |
- 
+
+
 
  |
- 
+
+
+ |
+
 
 Log in
  /
- 
+
 Subscribe
  /
- 
+
 Register
 
 # Debian decides not to decide on AI-generated contributions
 
 ## [LWN subscriber-only content]
 
- By 
+ By
 Joe Brockmeier
 March 10, 2026
- 
+
 
 Debian is the latest in an ever-growing list of projects to wrestle (again)
 with the question of LLM-generated contributions; the latest debate stared in
@@ -121,11 +121,11 @@ questionsabout the implications of allowing AI-driven contributions from the
 standpoint of onboarding new contributors to Debian. An AI agent, he said, could take
 the place of a junior developer. Both could perform basic tasks under guidance, but
 the AI agent would not learn anything from the exchange; the project resources spent
-in guiding such a tool do not result in long-lasting knowledge transfer.AI use presents us (and the commercial software world as well) with a 
-similar problem: there is a massive skill gap between "gets some 
-results" and "consistently and sustainably delivers results", bridging 
-that gap essentially requires starting from scratch, but is required to 
-achieve independence from the operators of the AI service, and this gap 
+in guiding such a tool do not result in long-lasting knowledge transfer.AI use presents us (and the commercial software world as well) with a
+similar problem: there is a massive skill gap between "gets some
+results" and "consistently and sustainably delivers results", bridging
+that gap essentially requires starting from scratch, but is required to
+achieve independence from the operators of the AI service, and this gap
 is disrupting the pipeline of new entrants.He called that the onboarding problem, and said that an AI policy
 needed to solve that problem; he did not want to discourage people by rejecting
 contributions or expend resources on mentoring people who did not want to be
@@ -248,10 +248,10 @@ Hello! Welcome to the SwissAI assistant service. What can I help [^C]### Preferr
  byCyberax(✭ supporter ✭, #52523)
  [Link]> "Writing meaningless slop requires no creativity; writing really bad code requires human ingenuity."In other words: "Artificial intelligence is no match for natural stupidity".
 
- 
 
- 
 
- 
+
+
+
 
 Copyright © 2026, Eklektix, Inc.Comments and public postings are copyrighted by their creators.Linux is a registered trademark of Linus Torvalds

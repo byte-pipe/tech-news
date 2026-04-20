@@ -82,7 +82,7 @@ $4,599
 Back to top
 Triangle
 Michael Venutolo-Mantovani
- has written for The New York Times, National Geographic, Condé Nast Traveler, GQ, and many others. He lives in Chapel Hill, North Carolina, with his wife and their two children. ... 
+ has written for The New York Times, National Geographic, Condé Nast Traveler, GQ, and many others. He lives in Chapel Hill, North Carolina, with his wife and their two children. ...
 Read More
 
 Topics

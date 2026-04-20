@@ -18,7 +18,7 @@ Anker offers several power bank options, including the Laptop and smaller versio
 	+ Available Ports: USB-C x 1, USB-A x 1
 * **Nimble Champ SM (Smaller Version)**: This is a smaller and more compact version of the original Nimble Champ. It still offers reliable power backup for multiple devices.
 	+ Price: $60
-	+ Available Colors: Amazon Medium, Original 
+	+ Available Colors: Amazon Medium, Original
 	+ Capacity: 25,000 mAh
 
 A good portable charger should have several key features to ensure it provides reliable backup power. Anker's power banks offer these benefits, making them suitable options for those in need of a reliable power solution.

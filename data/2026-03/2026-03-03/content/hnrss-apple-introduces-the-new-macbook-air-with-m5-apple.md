@@ -20,17 +20,17 @@ March 3, 2026
 
 # Apple introduces the new MacBook Air with M5
 
- 
- 
+
+
  The world’s most popular laptop gets even better with the incredible performance of M5, double the starting storage, and improved wireless connectivity, packed into a thin, light, and durable aluminum design
- 
- 
+
+
 
  M5 brings exceptional performance and expanded AI capabilities to MacBook Air, the world’s most popular laptop.
- 
+
 
 CUPERTINO, CALIFORNIA
- Apple today announced the new 
+ Apple today announced the new
 MacBook Air
  with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop. M5 features a faster CPU and next-generation GPU with a Neural Accelerator in each core, enabling MacBook Air to power through a variety of workflows, from creative projects to complex AI tasks. MacBook Air now comes standard with double the starting storage at 512GB with faster SSD technology, and is configurable up to 4TB, so customers can keep their most important work on hand. Apple’s N1 wireless chip delivers Wi-Fi 7 and Bluetooth 6 for seamless connectivity on the go. MacBook Air features a beautifully thin, light, and durable aluminum design, stunning Liquid Retina display, 12MP Center Stage camera, up to 18 hours of battery life, an immersive sound system with Spatial Audio, and two Thunderbolt 4 ports with support for up to two external displays. Combined with the power of macOS Tahoe and Apple Intelligence, MacBook Air delivers unmatched value for college students and creative professionals, and it’s the most popular laptop for business users. Available in 13- and 15-inch models in sky blue, midnight, starlight, and silver, the new MacBook Air with M5 is available for pre-order starting tomorrow, March 4, with availability beginning Wednesday, March 11.
 
@@ -71,7 +71,7 @@ MacBook Air with M5 now comes standard with 512GB of storage — double that of 
 5
 
  MacBook Air now comes standard with 512GB of storage and a new SSD that delivers 2x faster read/write performance, significantly accelerating file access and speeding up workflows.
- 
+
 
 ## Tremendous Value for Upgraders with the World’s Most Popular Laptop
 

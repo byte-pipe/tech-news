@@ -1,7 +1,7 @@
 ---
 title: GitHub - aaddrick/claude-desktop-debian: Claude Desktop for Debian-based Linux distributions · GitHub
 url: https://github.com/aaddrick/claude-desktop-debian
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-18T11:38:04.305942

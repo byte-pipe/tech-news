@@ -172,7 +172,7 @@ The jobs aren't going away. They're going to multiply in ways we can't yet imagi
 What do you think? Am I being too optimistic, or is the doom narrative really just a fundraising strategy that we've all accidentally internalized? I'd love to hear from people who are actually building with AI every day.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

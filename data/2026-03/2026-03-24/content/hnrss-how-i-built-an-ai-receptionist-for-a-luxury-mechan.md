@@ -14,38 +14,38 @@ tags:
 
 # How I Built an AI Receptionist for a Luxury Mechanic Shop - Part 1
 
- 
+
 
 Learn how I built an ai receptionist for my brother's mechanic shop
 
- 
- 
- 
- 
- 
- 
- 
- Mar 20, 2026 
- 
- 
- 
- 
- 
- 
 
-#ai 
 
-#coding 
 
-#technical 
 
-#tutorial 
- 
- 
- 
- 
- 
- 
+
+
+
+ Mar 20, 2026
+
+
+
+
+
+
+
+#ai
+
+#coding
+
+#technical
+
+#tutorial
+
+
+
+
+
+
 
 My brother is a luxury mechanic shop owner, and he’s losing thousands of dollars per month because he misses hundreds of calls per week. He’s under the hood all day. The phone rings, he can’t answer, the customer hangs up and calls someone else. That’s a lost job — sometimes a $450 brake service, sometimes a $2,000 engine repair — just gone because no one picked up.
 
@@ -128,83 +128,83 @@ If you’re building something similar, the core insight is this:don’t use a r
 
 This post was written with the assistance of AI.
 
- 
- 
- 
+
+
+
 * #### 30 Security Tips Every Vibe Coder Needs to Know
 * #### 10 Vibe Coding Apps You’ve Never Heard Of (But Need To Try!)
 * #### 5 FREE AI Courses to Level Up Your Skills
- 
- 
+
+
 
 Written by
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 ### Kedasha Kerr
 
- 
+
 
 Software Developerin Chicago
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Let's Connect:
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## I write about building with AI.
 
- 
+
 
 Get the next post delivered to your inbox.
 
- 
- 
- 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Subscribe

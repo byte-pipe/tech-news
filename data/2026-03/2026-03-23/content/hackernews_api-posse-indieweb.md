@@ -80,7 +80,7 @@ One way to provide more predictability and inspire confidence is to show what wi
 
 #### Twitter
 
-Main article: 
+Main article:
 Twitter#POSSE_to_Twitter
 
 Twitteris perhaps the most popular POSSE destination and a good place to start.
@@ -98,7 +98,7 @@ SeePOSSE to Twitterfor details on how to POSSE both notes and articles (blog pos
 
 #### Facebook
 
-Main article: 
+Main article:
 POSSE to Facebook
 
 There are two options for POSSEing to Facebook currently:
@@ -108,7 +108,7 @@ There are two options for POSSEing to Facebook currently:
 
 #### Medium
 
-Main article: 
+Main article:
 Medium
 
 * You can create posts viathe posts API
@@ -119,7 +119,7 @@ Medium
 
 #### WordPress
 
-Main article: 
+Main article:
 WordPress
 
 * How does veganstraightedge.com do it? (all his articles are manually POSSEd to WordPress.com)
@@ -127,7 +127,7 @@ WordPress
 
 #### Ghost
 
-Main article: 
+Main article:
 Ghost
 
 * a community developed open source tool is available onGitHub; the tool uses Ghost webhooks to receive latest published post in JSON format and syndicates the posts to Mastodon and Bluesky accountsbehindtheviewfinder.comblog uses the above tool to syndicate it's posts
@@ -367,14 +367,14 @@ Articles:
 
 ### POSE
 
-Main article: 
+Main article:
 POSE
 
 POSE, Publish Once Syndicate Everywhere, was a broader predecessor of POSSE that also included publishing once on one particularsilo, and then syndicating out to other silos.
 
 ### PESOS
 
-Main article: 
+Main article:
 PESOS
 
 A similar but opposite approach isPESOSwhere content is posted first to 3rd party services and then copied/syndicated into a personal site.
@@ -383,7 +383,7 @@ If exact copies of content are posted on both a personal site and 3rd party serv
 
 ### PESETAS
 
-Main article: 
+Main article:
 PESETAS
 
 PESETASis like PESOS but copying/syndicating everything to a particular silo (without any involvement of a personal site).
@@ -588,6 +588,6 @@ https://indieweb.org/wiki/index.php?title=POSSE&oldid=107734
 "
 
 Categories
-: 
+:
 * building-blocks
 * syndication

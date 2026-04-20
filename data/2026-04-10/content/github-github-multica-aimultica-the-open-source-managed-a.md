@@ -11,7 +11,7 @@ description: The open-source managed agents platform. Turn coding agents into re
 
 multica-ai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork626
 * Star5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -268,11 +268,11 @@ Once you have the CLI installed (or signed up forMultica Cloud), follow these st
 
 ### 1. Log in and start the daemon
 
-multica login 
+multica login
 #
  Authenticate with your Multica account
 
-multica daemon start 
+multica daemon start
 #
  Start the local agent runtime
 
@@ -349,56 +349,56 @@ multica.ai
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 5k
 
  stars
- 
+
 
 ### Watchers
 
 13
 
  watching
- 
+
 
 ### Forks
 
 626
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases23
 
@@ -406,11 +406,11 @@ v0.1.22
 
  Latest
 
- 
+
 
 Apr 10, 2026
 
- 
+
 
 + 22 releases
 
@@ -426,9 +426,9 @@ Apr 10, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -436,9 +436,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

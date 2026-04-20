@@ -17,7 +17,7 @@ tags: '#welcome'
 1. Come back next week to greet our new members so you can one day earn ourWarm Welcome Badge!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -28,7 +28,7 @@ Preview
 Dismiss
 
  View full discussion (93 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

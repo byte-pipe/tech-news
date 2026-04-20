@@ -48,7 +48,7 @@ Don’t see what you’re looking for here? Be sure to check out the full list o
 If you are an audio head, you may want to consider joiningSkullcandy rewards, which has perks like free shipping, special offers, rewards, and early access to exclusive products. It’s free to join and one of the best perks of the membership is free shipping on orders over $49. When you sign up, you’ll get 25 points towards your next reward, and every purchase you make gets you more points, which can be redeemed for discounts on future purchases. Members also get first-look access to new product drops, limited edition items, and access to product giveaways each month.
 
 Parker Hall
- is a senior editor of product reviews at WIRED with over 10 years of experience. He focuses on audiovisual (A/V) and entertainment products. Parker is a graduate of the Oberlin Conservatory of Music, where he studied jazz drums with Billy Hart (Miles Davis, Herbie Hancock). Prior to WIRED, ... 
+ is a senior editor of product reviews at WIRED with over 10 years of experience. He focuses on audiovisual (A/V) and entertainment products. Parker is a graduate of the Oberlin Conservatory of Music, where he studied jazz drums with Billy Hart (Miles Davis, Herbie Hancock). Prior to WIRED, ...
 Read More
 Writer and Reviewer
 
@@ -72,10 +72,10 @@ Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, thes
 Luke Larsen
 50% Off Select Items With These Ring Camera Deals
 Discover how to save on Ring cameras, doorbells, outdoor cameras, and more.
- Nena Farrell 
+ Nena Farrell
 Top Dyson Promo Codes: 25% Off in April 2026
 Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.
- Nena Farrell 
+ Nena Farrell
 Save $100 on Our Favorite Soundbar and Subwoofer Combo
 The JBL Bar 500MK2 boasts Dolby Atmos support and easy setup and streaming.
 Brad Bourque

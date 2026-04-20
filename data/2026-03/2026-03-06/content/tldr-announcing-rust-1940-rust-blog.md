@@ -12,8 +12,8 @@ tags:
 ---
 
 Mar. 5, 2026 · The Rust Release Team
- 
- 
+
+
 
 The Rust team is happy to announce a new version of Rust, 1.94.0. Rust is a programming language empowering everyone to build reliable and efficient software.
 
@@ -34,20 +34,20 @@ Rust 1.94 addsarray_windows, an iterating method for slices. It works just likew
 For example, part of one2016 Advent of Code puzzleis looking for ABBA patterns: "two different characters followed by the reverse of that pair, such asxyyxorabba." If we assume only ASCII characters, that could be written by sweeping windows of the byte slice like this:
 
 fn
- 
+
 has_abba
 (
 s
 :
- 
+
 &
 str
 )
- 
+
 ->
- 
+
 bool
- 
+
 {
 
  s
@@ -56,13 +56,13 @@ as_bytes
 (
 )
 
- 
+
 .
 array_windows
 (
 )
 
- 
+
 .
 any
 (
@@ -70,34 +70,34 @@ any
 [
 a1
 ,
- 
+
 b1
 ,
- 
+
 b2
 ,
  a2
 ]
 |
- 
+
 (
-a1 
+a1
 !=
  b1
 )
- 
+
 &&
- 
+
 (
-a1 
+a1
 ==
  a2
 )
- 
+
 &&
- 
+
 (
-b1 
+b1
 ==
  b2
 )
@@ -115,18 +115,18 @@ Cargo now supports theincludekey in configuration files (.cargo/config.toml), en
  array of paths
 
 include
- 
+
 =
- 
+
 [
 
- 
+
 "
 frodo.toml
 "
 ,
 
- 
+
 "
 samwise.toml
 "
@@ -138,43 +138,43 @@ samwise.toml
  inline tables for more control
 
 include
- 
+
 =
- 
+
 [
 
- 
+
 {
- 
+
 path
- 
+
 =
- 
+
 "
 required.toml
 "
- 
+
 }
 ,
 
- 
+
 {
- 
+
 path
- 
+
 =
- 
+
 "
 optional.toml
 "
 ,
- 
+
 optional
- 
+
 =
- 
+
 true
- 
+
 }
 ,
 
@@ -193,30 +193,30 @@ Cargo now parsesTOML v1.1for manifests and configuration files. See theTOML rele
 For example, a dependency like this:
 
 serde
- 
+
 =
- 
+
 {
- 
+
 version
- 
+
 =
- 
+
 "
 1.0
 "
 ,
- 
+
 features
- 
+
 =
- 
+
 [
 "
 derive
 "
 ]
- 
+
 }
 
 ... can now be written like this:

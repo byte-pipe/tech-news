@@ -15,13 +15,13 @@ tags:
 
 # GPT-5.4 reportedly brings a million-token context window and an extreme reasoning mode
 
- 
+
 
 Matthias Bastian
 
 View the LinkedIn Profile of Matthias Bastian
 
-					Mar 4, 2026				
+					Mar 4, 2026
 
 OpenAI's GPT-5.4 could be the leap forwardthat the just-released5.3 Instant for ChatGPTwasn't. The model should drop "sooner than you think,"according to OpenAI, but no official details have been shared yet.
 
@@ -35,9 +35,9 @@ One notable addition is an "extreme" thinking mode that lets the model burn sign
 
 As aTHE DECODER subscriber, you get ad-free reading, ourweekly AI newsletter, the exclusive"AI Radar" Frontier Report 6× per year, access to comments, and ourcomplete archive.
 
-					Subscribe now				
+					Subscribe now
 
-Source: 
+Source:
 The Information
 
 Ask about this article…

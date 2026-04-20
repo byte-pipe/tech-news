@@ -17,7 +17,7 @@ summarized_at: 2026-04-16T06:13:08.099939
 
 The synthesis of sleep research aims to provide practical applications for improving learning and creativity. According to neurophysiology, most theories about sleep will be revised as new findings emerge.
 
-### Importance of Sleep 
+### Importance of Sleep
 
 Relevant facts:
 

@@ -14,7 +14,7 @@ tags:
 # Apple Can Create Smaller On-Device AI Models From Google's Gemini
 
 Wednesday March 25, 2026 9:53 am PDT
- by 
+ by
 Juli Clover
 
 Apple has full access to Gemini to customize the model forSiriand other AI features, reportsThe Information. Google gave Apple "complete access" to the Gemini model in its own data centers, and Apple can use the access for distillation, or creating smaller models for specific tasks. Apple is able to design models that are built to run on Apple devices without the need to connect to the internet.
@@ -27,11 +27,11 @@ Apple is relying on Google's Gemini models for thesmarter, chatbot version of Si
 
 ‌Siri‌ will be able to do many of the same things that Gemini and other chatbots are able to do, such as answering questions, summarizing information, scanning and understanding uploaded documents, telling stories, providing emotional support, and completing tasks like booking travel.
 
-Tags: 
+Tags:
 Gemini
-, 
+,
 Google
-[ 
+[
 76 comments
  ]
 
@@ -43,21 +43,24 @@ Leave this field empty
 
 ### iOS 26.4 Adds Two New Features to CarPlay
 
-Tuesday March 24, 2026 1:55 pm PDT by 
+Tuesday March 24, 2026 1:55 pm PDT by
 Joe Rossignol
-iOS 26.4 was released today, and it includes a couple of new features for CarPlay: an Ambient Music widget and support for voice-based chatbot apps.To update your iPhone 11 or newer to iOS 26.4, open the Settings app and tap on General → Software Update. CarPlay will automatically offer the new features so long as the iPhone connected to your vehicle is running iOS 26.4 or later....
+iOS 26.4 was released today, and it includes a couple of new features for CarPlay: an Ambient Music widget and support for voice-based chatbot apps.
+To update your iPhone 11 or newer to iOS 26.4, open the Settings app and tap on General → Software Update. CarPlay will automatically offer the new features so long as the iPhone connected to your vehicle is running iOS 26.4 or later....
 
 ### Apple Unveils 'Apple Business' All-in-One Platform
 
-Tuesday March 24, 2026 8:53 am PDT by 
+Tuesday March 24, 2026 8:53 am PDT by
 Hartley Charlton
-Apple today announced Apple Business, a new all-in-one platform that unifies device management, productivity tools, and customer outreach features.The service is designed to be a consolidated replacement for several of Apple's existing business-focused offerings, including Apple Business Essentials, Apple Business Manager, and Apple Business Connect. It provides organizations with a single...
+Apple today announced Apple Business, a new all-in-one platform that unifies device management, productivity tools, and customer outreach features.
+The service is designed to be a consolidated replacement for several of Apple's existing business-focused offerings, including Apple Business Essentials, Apple Business Manager, and Apple Business Connect. It provides organizations with a single...
 
 ### Apple Releases New Firmware for AirPods Pro 3, AirPods Pro 2 and AirPods 4
 
-Tuesday March 24, 2026 12:31 pm PDT by 
+Tuesday March 24, 2026 12:31 pm PDT by
 Juli Clover
-Apple today released new firmware for the AirPods Pro 2, AirPods Pro 3, and the AirPods 4. The firmware has a version number of 8B39, up from 8B34 on the AirPods Pro 3, 8B28 on the AirPods Pro 2, and 8B21 on the AirPods 4. There is no word on what's included in the firmware, but Apple has a support document with limited notes. Most updates are limited to bug fixes and performance...
+Apple today released new firmware for the AirPods Pro 2, AirPods Pro 3, and the AirPods 4. The firmware has a version number of 8B39, up from 8B34 on the AirPods Pro 3, 8B28 on the AirPods Pro 2, and 8B21 on the AirPods 4.
+There is no word on what's included in the firmware, but Apple has a support document with limited notes. Most updates are limited to bug fixes and performance...
 
 ## Top Rated Comments
 
@@ -76,7 +79,7 @@ They didn't invent the smartphone. They perfected it.
 Score:
  27 Votes (
 Like
- | 
+ |
 Disagree
 )
 U
@@ -87,7 +90,7 @@ First of all, what does that have to do with this news? Secondly, your "testing"
 Score:
  15 Votes (
 Like
- | 
+ |
 Disagree
 )
 sw1tcher
@@ -107,7 +110,7 @@ https://www.macrumors.com/2026/03/23/apple-maps-ads-coming-soon/
 Score:
  9 Votes (
 Like
- | 
+ |
 Disagree
 )
 A
@@ -117,7 +120,7 @@ Finally! Apple doing what they do best.
 Score:
  8 Votes (
 Like
- | 
+ |
 Disagree
 )
 SilmarilFinder
@@ -127,7 +130,7 @@ Absolutely
 Score:
  7 Votes (
 Like
- | 
+ |
 Disagree
 )
 M
@@ -145,7 +148,7 @@ Claude might want a word.
 Score:
  5 Votes (
 Like
- | 
+ |
 Disagree
 )
 Read All Comments

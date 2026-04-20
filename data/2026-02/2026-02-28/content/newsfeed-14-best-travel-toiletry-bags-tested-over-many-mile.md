@@ -27,7 +27,7 @@ Best Toiletry Bag for Men
 Wandrd Toiletry Bag
 Read more
 $44
- 
+
 
 Amazon (Medium)
 
@@ -35,7 +35,7 @@ Best Toiletry Bag for Women
 Parallelle Traveller
 Read more
 $110
- 
+
 
 Parallelle (Medium)
 
@@ -43,7 +43,7 @@ Best Toiletry Bag for Carry-Ons
 Alpaka Wash Kit
 Read more
 $35
- 
+
 
 Alpaka
 
@@ -51,7 +51,7 @@ Best Hanging Toiletry Bag
 L.L. Bean Personal Organizer Toiletry Bag
 Read more
 $40
- 
+
 
 L.L. Bean (Medium)
 
@@ -296,13 +296,13 @@ Power up with unlimited access toWIRED. Get best-in-class reporting and exclusiv
 Back to top
 Triangle
 Kat Merck
- is a senior commerce editor for WIRED, where she covers 
+ is a senior commerce editor for WIRED, where she covers
 smart bird feeders
-, 
+,
 hair straighteners
-, 
+,
 toiletry bags
-, and everything home-related. An editor and writer for more than 25 years, she has a bachelor’s degree in journalism from California Polytechnic State University, San Luis Obispo. Following stints as associate ... 
+, and everything home-related. An editor and writer for more than 25 years, she has a bachelor’s degree in journalism from California Polytechnic State University, San Luis Obispo. Following stints as associate ...
 Read More
 Senior Commerce Editor
 * LinkedIn

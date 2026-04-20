@@ -14,13 +14,13 @@ summarized_at: 2026-03-01T10:17:14.728814
 ## The Death Certificate
 - On 3 Dec 2025 MinIO announced “maintenance mode”; on 12 Feb 2026 the repository was marked “no longer maintained” and archived.
 - The project, with 60 k stars and >1 billion Docker pulls, became read‑only: no PRs, issues, or contributions accepted.
-- Timeline of the wind‑down:  
-  - May 2021 – license changed from Apache 2.0 to AGPL v3.  
-  - Jul 2022 – legal action against Nutanix (license enforcement).  
-  - Mar 2023 – legal action against Weka (license enforcement).  
-  - May 2025 – admin console removed from Community Edition.  
-  - Oct 2025 – binary/Docker distribution stopped.  
-  - Dec 2025 – “maintenance mode” announced.  
+- Timeline of the wind‑down:
+  - May 2021 – license changed from Apache 2.0 to AGPL v3.
+  - Jul 2022 – legal action against Nutanix (license enforcement).
+  - Mar 2023 – legal action against Weka (license enforcement).
+  - May 2025 – admin console removed from Community Edition.
+  - Oct 2025 – binary/Docker distribution stopped.
+  - Dec 2025 – “maintenance mode” announced.
   - Feb 2026 – repo archived, project officially ended.
 
 ## Why Open‑Source Survives

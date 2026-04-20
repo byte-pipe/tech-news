@@ -12,7 +12,7 @@ summarized_at: 2026-04-04T01:04:40.880417
 # NHS staff refusing to use FDP over Palatir ethical concerns
 
 ## Article overview
-- Published 02/04/2026 by the Financial Times (subscription required).  
+- Published 02/04/2026 by the Financial Times (subscription required).
 - Describes growing resistance among NHS staff to the Federated Data Platform (FDP) provided by US firm Palantir.
 
 ## Key points

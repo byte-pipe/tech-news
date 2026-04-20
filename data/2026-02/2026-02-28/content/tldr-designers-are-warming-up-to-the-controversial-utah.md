@@ -42,9 +42,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -62,7 +62,7 @@ Back in December, Utah launched a logo for the 2034 Winter Olympics, to a mix of
 
 Unapologetically bold, the Utah 2034 logo is understandably divisive. There's no formula for creating thebest sports logos, and in a sea of corporate design, Utah's unique stylistic choice is a refreshing take on the trends, proving that breaking convention can be a winning move.
 
- 
+
 
 (Image credit: Utah 2034)
 
@@ -72,9 +72,9 @@ Despite its frosty reception at first, design fans on Reddit have warmed to the 
 
 Another chimed in writing, "I love it - retro but futuristic," while one user praised its practicality. "It fits in clean equal-width blocks for characters, and UTAH and 2024 can stack vertically to maintain a clean, simple box, too. This makes it practical for collages and digital use surrounded by advertisements and event photos. The unusual typography keeps it significant amidst geometric picture and video elements," they explain.
 
- 
 
-Utah's logo is a stark contrast to the current dynamic logo of Milano Cortina 2026. 
+
+Utah's logo is a stark contrast to the current dynamic logo of Milano Cortina 2026.
 (Image credit: Milano Cortina 2026)
 
 If you're still feeling a bit cold towards the design, I have good news. This Utah 2034 logo is a transitional design, holding space for the official logo set to launch in 2029. With such divided discourse around this initial design, I'm intrigued to see how the identity will evolve.

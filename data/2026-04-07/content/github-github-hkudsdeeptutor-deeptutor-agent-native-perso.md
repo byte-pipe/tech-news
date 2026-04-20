@@ -11,7 +11,7 @@ description: '"DeepTutor: Agent-Native Personalized Learning Assistant" - HKUDS/
 
 HKUDS
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.6k
 * Star11.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -229,7 +229,7 @@ cd
 #
  Create a Python environment
 
-conda create -n deeptutor python=3.11 
+conda create -n deeptutor python=3.11
 &&
  conda activate deeptutor
 
@@ -259,10 +259,10 @@ git clone https://github.com/HKUDS/DeepTutor.git
 cd
  DeepTutor
 
-conda create -n deeptutor python=3.11 
+conda create -n deeptutor python=3.11
 &&
  conda activate deeptutor
-pip install -e 
+pip install -e
 "
 .[server]
 "
@@ -271,11 +271,11 @@ pip install -e
  Frontend
 
 cd
- web 
+ web
 &&
- npm install 
+ npm install
 &&
- 
+
 cd
  ..
 
@@ -338,7 +338,7 @@ python -m deeptutor.api.run_server
  Frontend (Next.js) — in a separate terminal
 
 cd
- web 
+ web
 &&
  npm run dev -- -p 3782
 
@@ -379,8 +379,8 @@ docker compose -f docker-compose.ghcr.yml up -d
 To pin a specific version, edit the image tag indocker-compose.ghcr.yml:
 
 image
-: 
-ghcr.io/hkuds/deeptutor:1.0.0 
+:
+ghcr.io/hkuds/deeptutor:1.0.0
 #
  or :latest
 
@@ -394,11 +394,11 @@ This builds the image locally fromDockerfileand starts the container.
 
 Openhttp://localhost:3782once the container is healthy.
 
-docker compose logs -f 
+docker compose logs -f
 #
  tail logs
 
-docker compose down 
+docker compose down
 #
  stop and remove container
 
@@ -437,7 +437,7 @@ FRONTEND_PORT
 
 Then restart:
 
-docker compose up -d 
+docker compose up -d
 #
  or docker compose -f docker-compose.ghcr.yml up -d
 
@@ -479,7 +479,7 @@ Yes
 
 LLM provider (
 openai
-, 
+,
 anthropic
 , etc.)
 
@@ -487,7 +487,7 @@ LLM_MODEL
 
 Yes
 
-Model name (e.g. 
+Model name (e.g.
 gpt-4o
 )
 
@@ -539,11 +539,11 @@ No
 
 Search provider (
 tavily
-, 
+,
 jina
-, 
+,
 serper
-, 
+,
 perplexity
 , etc.)
 
@@ -557,7 +557,7 @@ BACKEND_PORT
 
 No
 
-Backend port (default 
+Backend port (default
 8001
 )
 
@@ -565,7 +565,7 @@ FRONTEND_PORT
 
 No
 
-Frontend port (default 
+Frontend port (default
 3782
 )
 
@@ -579,7 +579,7 @@ DISABLE_SSL_VERIFY
 
 No
 
-Disable SSL verification (default 
+Disable SSL verification (default
 false
 )
 
@@ -587,32 +587,32 @@ false
 
 If you just want the CLI without the web frontend:
 
-pip install -e 
+pip install -e
 "
 .[cli]
 "
 
-deeptutor chat 
+deeptutor chat
 #
  Interactive REPL
 
-deeptutor run chat 
+deeptutor run chat
 "
 Explain Fourier transform
 "
- 
+
 #
  One-shot capability
 
-deeptutor run deep_solve 
+deeptutor run deep_solve
 "
 Solve x^2 = 4
 "
- 
+
 #
  Multi-agent problem solving
 
-deeptutor kb create my-kb --doc textbook.pdf 
+deeptutor kb create my-kb --doc textbook.pdf
 #
  Build a knowledge base
 
@@ -699,17 +699,17 @@ TutorBot is not a chatbot — it is apersistent, multi-instance agentbuilt onnan
 * Multi-Channel Presence— Connect bots to Telegram, Discord, Slack, Feishu, WeChat Work, DingTalk, Email, and more. Your tutor meets you wherever you are.
 * Team & Sub-Agents— Spawn background sub-agents or orchestrate multi-agent teams within a single bot for complex, long-running tasks.
 
-deeptutor bot create math-tutor --persona 
+deeptutor bot create math-tutor --persona
 "
 Socratic math teacher who uses probing questions
 "
 
-deeptutor bot create writing-coach --persona 
+deeptutor bot create writing-coach --persona
 "
 Patient, detail-oriented writing mentor
 "
 
-deeptutor bot list 
+deeptutor bot list
 #
  See all your active tutors
 
@@ -721,22 +721,22 @@ Hand theSKILL.mdat the project root to any tool-using agent (nanobot, or any LLM
 
 One-shot execution— Run any capability directly from the terminal:
 
-deeptutor run chat 
+deeptutor run chat
 "
 Explain the Fourier transform
 "
  -t rag --kb textbook
-deeptutor run deep_solve 
+deeptutor run deep_solve
 "
 Prove that √2 is irrational
 "
  -t reason
-deeptutor run deep_question 
+deeptutor run deep_question
 "
 Linear algebra
 "
  --config num_questions=5
-deeptutor run deep_research 
+deeptutor run deep_research
 "
 Attention mechanisms in transformers
 "
@@ -750,55 +750,55 @@ deeptutor chat --capability deep_solve --kb my-kb
 
 Knowledge base lifecycle— Build, query, and manage RAG-ready collections entirely from the terminal:
 
-deeptutor kb create my-kb --doc textbook.pdf 
+deeptutor kb create my-kb --doc textbook.pdf
 #
  Create from document
 
-deeptutor kb add my-kb --docs-dir ./papers/ 
+deeptutor kb add my-kb --docs-dir ./papers/
 #
  Add a folder of papers
 
-deeptutor kb search my-kb 
+deeptutor kb search my-kb
 "
 gradient descent
 "
- 
+
 #
  Search directly
 
-deeptutor kb set-default my-kb 
+deeptutor kb set-default my-kb
 #
  Set as default for all commands
 
 Dual output mode— Rich rendering for humans, structured JSON for pipelines:
 
-deeptutor run chat 
+deeptutor run chat
 "
 Summarize chapter 3
 "
- -f rich 
+ -f rich
 #
  Colored, formatted output
 
-deeptutor run chat 
+deeptutor run chat
 "
 Summarize chapter 3
 "
- -f json 
+ -f json
 #
  Line-delimited JSON events
 
 Session continuity— Resume any conversation right where you left off:
 
-deeptutor session list 
+deeptutor session list
 #
  List all sessions
 
-deeptutor session open 
+deeptutor session open
 <
 id
 >
- 
+
 #
  Resume in REPL
 
@@ -814,25 +814,25 @@ deeptutor run <capability> <message>
 
 Run any capability in a single turn (
 chat
-, 
+,
 deep_solve
-, 
+,
 deep_question
-, 
+,
 deep_research
-, 
+,
 math_animator
 )
 
 deeptutor chat
 
-Interactive REPL with optional 
+Interactive REPL with optional
 --capability
-, 
+,
 --tool
-, 
+,
 --kb
-, 
+,
 --language
 
 deeptutor serve
@@ -853,9 +853,9 @@ deeptutor bot create <id>
 
 Create and start a new bot (
 --name
-, 
+,
 --persona
-, 
+,
 --model
 )
 
@@ -885,7 +885,7 @@ deeptutor kb create <name>
 
 Create from documents (
 --doc
-, 
+,
 --docs-dir
 )
 
@@ -917,9 +917,9 @@ deeptutor memory show [file]
 
 View memory (
 summary
-, 
+,
 profile
-, or 
+, or
 all
 )
 
@@ -1013,7 +1013,7 @@ deeptutor provider login <provider>
 
 OAuth login (
 openai-codex
-, 
+,
 github-copilot
 )
 
@@ -1036,7 +1036,7 @@ Themes & Appearance
 🔜
 
 LightRAG Integration
- — Integrate 
+ — Integrate
 LightRAG
  as an advanced knowledge base engine
 
@@ -1127,56 +1127,56 @@ Licensed under theApache License 2.0.
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 11.6k
 
  stars
- 
+
 
 ### Watchers
 
 89
 
  watching
- 
+
 
 ### Forks
 
 1.6k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases10
 
@@ -1184,11 +1184,11 @@ v1.0.0-beta.2
 
  Latest
 
- 
+
 
 Apr 7, 2026
 
- 
+
 
 + 9 releases
 
@@ -1204,9 +1204,9 @@ Apr 7, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1214,9 +1214,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

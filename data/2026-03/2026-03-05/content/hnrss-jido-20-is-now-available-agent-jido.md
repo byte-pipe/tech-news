@@ -16,31 +16,31 @@ We can't find the internet
 
 Attempting to reconnect
 
- 
+
 
  Search
- 
+
 
  Enter a query to see grounded citations.
- 
+
 
  Back to all posts
- 
+
 
  jido
- 
+
 
  elixir
- 
+
 
  ai
- 
+
 
  agent-framework
- 
+
 
  release
- 
+
 
 After 18 months of building, rewriting, and rethinking, Jido 2.0 has shipped. It’s available onHexnow.
 
@@ -67,71 +67,71 @@ Everything flows through a single function: cmd/2. Actions go in. An updated age
 Here’s an example:
 
 defmodule
- 
+
 MyAgent
- 
+
 do
 
- 
+
 use
- 
+
 Jido.Agent
 ,
 
- 
+
 name
 :
- 
+
 "my_agent"
 ,
 
- 
+
 description
 :
- 
+
 "A simple agent"
 ,
 
- 
+
 strategy
 :
- 
+
 Jido.Agent.Strategy.Direct
 ,
 
- 
+
 actions
 :
- 
+
 [
 MyApp.Actions.ProcessOrder
 ]
 ,
 
- 
+
 schema
 :
- 
+
 [
 
- 
+
 order_count
 :
- 
+
 [
 type
 :
- 
+
 :integer
 ,
- 
+
 default
 :
- 
+
 0
 ]
 
- 
+
 ]
 
 end
@@ -141,29 +141,29 @@ end
 {
 :ok
 ,
- 
+
 updated_agent
 ,
- 
+
 directives
 }
- 
+
 =
- 
+
 Jido.Agent
 .
 cmd
 (
 agent
 ,
- 
+
 {
 ProcessOrder
 ,
- 
+
 order_id
 :
- 
+
 "123"
 }
 )
@@ -193,21 +193,21 @@ On top of the agent core sitsJido AI, a robust AI integration layer that turns r
 Six reasoning strategies ship out of the box. ReAct is the most common and handles the majority of tool-calling use cases. Chain-of-Thought, Tree-of-Thoughts, Graph-of-Thoughts, TRM, and Adaptive are there for situations that need different tradeoffs between cost, depth, and quality.
 
 defmodule
- 
+
 MyApp.SupportAgent
- 
+
 do
 
- 
+
 use
- 
+
 Jido.AI.Agent
 ,
 
- 
+
 name
 :
- 
+
 &
 quot
 ;
@@ -217,54 +217,54 @@ quot
 ;
 ,
 
- 
+
 description
 :
- 
+
 &
 quot
 ;
 Customer
- 
+
 support
- 
+
 agent
- 
+
 with
- 
+
 tool
- 
+
 access
 &
 quot
 ;
 ,
 
- 
+
 tools
 :
- 
+
 [
 
- 
+
 MyApp.Tools.LookupOrder
 ,
 
- 
+
 MyApp.Tools.CheckInventory
 ,
 
- 
+
 MyApp.Tools.CreateTicket
 
- 
+
 ]
 ,
 
- 
+
 model
 :
- 
+
 &
 quot
 ;
@@ -281,17 +281,17 @@ quot
 ;
 ,
 
- 
+
 max_iterations
 :
- 
+
 6
 ,
 
- 
+
 system_prompt
 :
- 
+
 &
 quot
 ;
@@ -302,61 +302,61 @@ quot
 quot
 ;
 
- 
+
 You
- 
+
 are
- 
+
 a
- 
+
 customer
- 
+
 support
- 
+
 agent
 .
- 
+
 Use
- 
+
 the
- 
+
 available
- 
+
 tools
 
- 
+
 to
- 
+
 look
- 
+
 up
- 
+
 orders
 ,
- 
+
 check
- 
+
 inventory
 ,
- 
+
 and
- 
+
 create
- 
+
 tickets
 .
 
- 
+
 Be
- 
+
 concise
- 
+
 and
- 
+
 helpful
 .
 
- 
+
 &
 quot
 ;
@@ -374,52 +374,52 @@ end
 {
 :ok
 ,
- 
+
 pid
 }
- 
+
 =
- 
+
 Jido.AgentServer
 .
 start_link
 (
 agent
 :
- 
+
 MyApp.SupportAgent
 )
 
 {
 :ok
 ,
- 
+
 answer
 }
- 
+
 =
- 
+
 MyApp.SupportAgent
 .
 ask_sync
 (
 
- 
+
 pid
 ,
 
- 
+
 &
 quot
 ;
 Order
- 
+
 #4521 hasn&#39;t arrived. Can you check on it and open a ticket?&quot;,
 
- 
+
 timeout
 :
- 
+
 60_000
 
 )
@@ -451,19 +451,19 @@ To the early testers and contributors who tried Jido when it was rough around th
 # mix.exs
 
 def
- 
+
 deps
- 
+
 do
 
- 
+
 [
 
- 
+
 {
 :jido
 ,
- 
+
 &
 quot
 ;
@@ -471,7 +471,7 @@ quot
 &
 gt
 ;
- 
+
 2.0
 &
 quot
@@ -479,11 +479,11 @@ quot
 }
 ,
 
- 
+
 {
 :jido_ai
 ,
- 
+
 &
 quot
 ;
@@ -491,14 +491,14 @@ quot
 &
 gt
 ;
- 
+
 2.0
 &
 quot
 ;
 }
 
- 
+
 ]
 
 end

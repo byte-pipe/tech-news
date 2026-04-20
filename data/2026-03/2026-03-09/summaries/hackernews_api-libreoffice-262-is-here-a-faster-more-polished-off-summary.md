@@ -36,8 +36,8 @@ summarized_at: 2026-03-09T07:25:39.693429
 - Florian Effenberger, Executive Director of The Document Foundation, states the release demonstrates how open‑source software built around users can deliver a modern, polished productivity suite with speed, reliability, and user freedom.
 
 ## How to Get It
-- **Download:** www.libreoffice.org/download  
-- **Donate:** www.libreoffice.org/donate  
+- **Download:** www.libreoffice.org/download
+- **Donate:** www.libreoffice.org/donate
 - **Press Kit:** nextcloud.documentfoundation.org/s/eDiocN8Gak6jDKx
 
 ## About LibreOffice & The Document Foundation

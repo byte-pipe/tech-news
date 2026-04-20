@@ -11,7 +11,7 @@ description: 'ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. -
 
 agentscope-ai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork114
 * Star1.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -324,14 +324,14 @@ memory/YYYY-MM-DD.md
 
 Automatic in background
 
-User runs 
+User runs
 /compact
 
 memory/YYYY-MM-DD.md
 
 Manual compact + background save
 
-User runs 
+User runs
 /new
 
 memory/YYYY-MM-DD.md
@@ -343,7 +343,7 @@ User says "remember this"
 MEMORY.md
  or log
 
-Agent writes via 
+Agent writes via
 write
  tool
 
@@ -377,7 +377,7 @@ read
 
 Know the date or file
 
-Read 
+Read
 memory/2025-02-13.md
 
 Search usesvector + BM25 hybrid retrieval(vector weight 0.7, BM25 weight 0.3), so queries using both natural
@@ -518,7 +518,7 @@ No
 
 /clear
 
-Clear everything, 
+Clear everything,
 without saving
 
 No
@@ -582,183 +582,183 @@ Cleared
 #### File-Based ReMe
 
 import
- 
+
 asyncio
 
 from
- 
+
 reme
- 
+
 import
- 
+
 ReMeFb
 
 async
- 
+
 def
- 
+
 main
 ():
- 
+
 # Initialize and start
 
- 
+
 reme
- 
+
 =
- 
+
 ReMeFb
 (
- 
+
 default_llm_config
 =
 {
- 
+
 "backend"
-: 
+:
 "openai"
-, 
+,
 # Backend type, OpenAI-compatible API
 
- 
+
 "model_name"
-: 
+:
 "qwen3.5-plus"
-, 
+,
 # Model name
 
  },
- 
+
 default_file_store_config
 =
 {
- 
+
 "backend"
-: 
+:
 "chroma"
-, 
+,
 # Store backend: sqlite/chroma/local
 
- 
+
 "fts_enabled"
-: 
+:
 True
-, 
+,
 # Enable full-text search
 
- 
+
 "vector_enabled"
-: 
+:
 False
-, 
+,
 # Enable vector search (set False if no embedding service)
 
  },
- 
+
 context_window_tokens
 =
 128000
-, 
+,
 # Model context window size (tokens)
 
- 
+
 reserve_tokens
 =
 36000
-, 
+,
 # Tokens reserved for output
 
- 
+
 keep_recent_tokens
 =
 20000
-, 
+,
 # Tokens to keep for recent messages
 
- 
+
 vector_weight
 =
 0.7
-, 
+,
 # Vector search weight (0–1) for hybrid search
 
- 
+
 candidate_multiplier
 =
 3.0
-, 
+,
 # Candidate multiplier for recall
 
  )
- 
+
 await
- 
+
 reme
 .
 start
 ()
 
- 
+
 messages
- 
+
 =
  [
  {
 "role"
-: 
+:
 "user"
-, 
+,
 "content"
-: 
+:
 "I prefer Python 3.12"
 },
  {
 "role"
-: 
+:
 "assistant"
-, 
+,
 "content"
-: 
+:
 "Noted, you prefer Python 3.12"
 },
  ]
 
- 
+
 # Check if context exceeds limit
 
- 
+
 result
- 
+
 =
- 
+
 await
- 
+
 reme
 .
 context_check
 (
 messages
 )
- 
+
 print
 (
-f"Compact result: 
+f"Compact result:
 {
 result
 }
 "
 )
 
- 
+
 # Compact conversation to summary
 
- 
+
 summary
- 
+
 =
- 
+
 await
- 
+
 reme
 .
 compact
@@ -767,22 +767,22 @@ messages_to_summarize
 =
 messages
 )
- 
+
 print
 (
-f"Summary: 
+f"Summary:
 {
 summary
 }
 "
 )
 
- 
+
 # Write important memory to files (ReAct Agent does this automatically)
 
- 
+
 await
- 
+
 reme
 .
 summary
@@ -790,22 +790,22 @@ summary
 messages
 =
 messages
-, 
+,
 date
 =
 "2026-02-28"
 )
 
- 
+
 # Semantic search over memory
 
- 
+
 results
- 
+
 =
- 
+
 await
- 
+
 reme
 .
 memory_search
@@ -813,31 +813,31 @@ memory_search
 query
 =
 "Python version preference"
-, 
+,
 max_results
 =
 5
 )
- 
+
 print
 (
-f"Search results: 
+f"Search results:
 {
 results
 }
 "
 )
 
- 
+
 # Read specified memory file
 
- 
+
 content
- 
+
 =
- 
+
 await
- 
+
 reme
 .
 memory_get
@@ -846,36 +846,36 @@ path
 =
 "MEMORY.md"
 )
- 
+
 print
 (
-f"Memory content: 
+f"Memory content:
 {
 content
 }
 "
 )
 
- 
+
 # Close (save embedding cache, stop file watcher)
 
- 
+
 await
- 
+
 reme
 .
 close
 ()
 
 if
- 
+
 __name__
- 
+
 ==
- 
+
 "__main__"
 :
- 
+
 asyncio
 .
 run
@@ -886,253 +886,253 @@ main
 #### Vector-Based ReMe
 
 import
- 
+
 asyncio
 
 from
- 
+
 reme
- 
+
 import
- 
+
 ReMe
 
 async
- 
+
 def
- 
+
 main
 ():
- 
+
 # Initialize ReMe
 
- 
+
 reme
- 
+
 =
- 
+
 ReMe
 (
- 
+
 working_dir
 =
 ".reme"
 ,
- 
+
 default_llm_config
 =
 {
- 
+
 "backend"
-: 
+:
 "openai"
 ,
- 
+
 "model_name"
-: 
+:
 "qwen3-30b-a3b-thinking-2507"
 ,
  },
- 
+
 default_embedding_model_config
 =
 {
- 
+
 "backend"
-: 
+:
 "openai"
 ,
- 
+
 "model_name"
-: 
+:
 "text-embedding-v4"
 ,
- 
+
 "dimensions"
-: 
+:
 1024
 ,
  },
- 
+
 default_vector_store_config
 =
 {
- 
+
 "backend"
-: 
+:
 "local"
-, 
+,
 # Supports local/chroma/qdrant/elasticsearch
 
  },
  )
- 
+
 await
- 
+
 reme
 .
 start
 ()
 
- 
+
 messages
- 
+
 =
  [
  {
 "role"
-: 
+:
 "user"
-, 
+,
 "content"
-: 
+:
 "Help me write a Python script"
-, 
+,
 "time_created"
-: 
+:
 "2026-02-28 10:00:00"
 },
  {
 "role"
-: 
+:
 "assistant"
-, 
+,
 "content"
-: 
+:
 "Sure, I'll help you write it"
-, 
+,
 "time_created"
-: 
+:
 "2026-02-28 10:00:05"
 },
  ]
 
- 
+
 # 1. Summarize memory from conversation (auto-extract user preferences, task experience, etc.)
 
- 
+
 result
- 
+
 =
- 
+
 await
- 
+
 reme
 .
 summarize_memory
 (
- 
+
 messages
 =
 messages
 ,
- 
+
 user_name
 =
 "alice"
-, 
+,
 # Personal memory
 
- 
+
 # task_name="code_writing", # Task memory
 
  )
- 
+
 print
 (
-f"Summarize result: 
+f"Summarize result:
 {
 result
 }
 "
 )
 
- 
+
 # 2. Retrieve relevant memory
 
- 
+
 memories
- 
+
 =
- 
+
 await
- 
+
 reme
 .
 retrieve_memory
 (
- 
+
 query
 =
 "Python programming"
 ,
- 
+
 # user_name="alice",
 
  )
- 
+
 print
 (
-f"Retrieve result: 
+f"Retrieve result:
 {
 memories
 }
 "
 )
 
- 
+
 # 3. Manually add memory
 
- 
+
 memory_node
- 
+
 =
- 
+
 await
- 
+
 reme
 .
 add_memory
 (
- 
+
 memory_content
 =
 "User prefers concise code style"
 ,
- 
+
 user_name
 =
 "alice"
 ,
  )
- 
+
 print
 (
-f"Added memory: 
+f"Added memory:
 {
 memory_node
 }
 "
 )
- 
+
 memory_id
- 
+
 =
- 
+
 memory_node
 .
 memory_id
 
- 
+
 # 4. Get single memory by ID
 
- 
+
 fetched_memory
- 
+
 =
- 
+
 await
- 
+
 reme
 .
 get_memory
@@ -1141,107 +1141,107 @@ memory_id
 =
 memory_id
 )
- 
+
 print
 (
-f"Fetched memory: 
+f"Fetched memory:
 {
 fetched_memory
 }
 "
 )
 
- 
+
 # 5. Update memory content
 
- 
+
 updated_memory
- 
+
 =
- 
+
 await
- 
+
 reme
 .
 update_memory
 (
- 
+
 memory_id
 =
 memory_id
 ,
- 
+
 user_name
 =
 "alice"
 ,
- 
+
 memory_content
 =
 "User prefers concise, well-commented code style"
 ,
  )
- 
+
 print
 (
-f"Updated memory: 
+f"Updated memory:
 {
 updated_memory
 }
 "
 )
 
- 
+
 # 6. List all memories for user (with filtering and sorting)
 
- 
+
 all_memories
- 
+
 =
- 
+
 await
- 
+
 reme
 .
 list_memory
 (
- 
+
 user_name
 =
 "alice"
 ,
- 
+
 limit
 =
 10
 ,
- 
+
 sort_key
 =
 "time_created"
 ,
- 
+
 reverse
 =
 True
 ,
  )
- 
+
 print
 (
-f"User memory list: 
+f"User memory list:
 {
 all_memories
 }
 "
 )
 
- 
+
 # 7. Delete specified memory
 
- 
+
 await
- 
+
 reme
 .
 delete_memory
@@ -1250,39 +1250,39 @@ memory_id
 =
 memory_id
 )
- 
+
 print
 (
-f"Deleted memory: 
+f"Deleted memory:
 {
 memory_id
 }
 "
 )
 
- 
+
 # 8. Delete all memories (use with caution)
 
- 
+
 # await reme.delete_all()
 
- 
+
 await
- 
+
 reme
 .
 close
 ()
 
 if
- 
+
 __name__
- 
+
 ==
- 
+
 "__main__"
 :
- 
+
 asyncio
 .
 run
@@ -1310,7 +1310,7 @@ graph TB
  FileWatcher -->|Update index| FileStore[Local DB]
  MemorySearch --> FileStore
 
- 
+
 Loading
 
 #### Memory Summary: ReAct + File Tools
@@ -1326,7 +1326,7 @@ graph LR
  F -->|Yes| B
  F -->|No| G[Done]
 
- 
+
 Loading
 
 #### File Tool Set
@@ -1368,7 +1368,7 @@ C[Recent messages] --> D[Keep as-is]
 B --> E[New context]
 D --> E
 
- 
+
 Loading
 
 The compact summary includes what’s needed to continue:
@@ -1430,7 +1430,7 @@ V --> M[Dedupe + weighted merge]
 B --> M
 M --> R[Top-N results]
 
- 
+
 Loading
 
 ### Vector-Based ReMe Core Architecture
@@ -1453,7 +1453,7 @@ graph TB
  ProceduralRet --> VectorStore
  ToolRet --> VectorStore
 
- 
+
 Loading
 
 ## ⭐ Community & Support
@@ -1474,30 +1474,30 @@ support.
 {
 AgentscopeReMe2025
 ,
- 
+
 title
- = 
+ =
 {
 AgentscopeReMe: Memory Management Kit for Agents
 }
 ,
- 
+
 author
- = 
+ =
 {
 ReMe Team
 }
 ,
- 
+
 url
- = 
+ =
 {
 https://reme.agentscope.io
 }
 ,
- 
+
 year
- = 
+ =
 {
 2025
 }
@@ -1534,51 +1534,51 @@ reme.agentscope.io
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.2k
 
  stars
- 
+
 
 ### Watchers
 
 11
 
  watching
- 
+
 
 ### Forks
 
 114
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases34
 
@@ -1586,11 +1586,11 @@ v0.3.0.2: Update Halumemeval and Longmemeval ; Update Version 0.3.0.2 (#132)
 
  Latest
 
- 
+
 
 Mar 3, 2026
 
- 
+
 
 + 33 releases
 
@@ -1606,17 +1606,17 @@ Mar 3, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors8
 

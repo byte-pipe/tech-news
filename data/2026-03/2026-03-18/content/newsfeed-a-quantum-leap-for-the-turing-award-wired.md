@@ -53,9 +53,9 @@ As is their legacy. While quantum computing has become a multi-billion quest tha
 * The system that intercepted Iran’s missilesover the UAE
 * Listen:The Pentagon vs. “woke” Anthropic
 Steven Levy
- covers the gamut of tech subjects for WIRED, in print and online, and has been contributing to the magazine since its inception. His writes 
+ covers the gamut of tech subjects for WIRED, in print and online, and has been contributing to the magazine since its inception. His writes
 Backchannel
-, a weekly newsletter that puts the biggest tech stories in perspective. He has been writing about technology for more than 30 years, writing ... 
+, a weekly newsletter that puts the biggest tech stories in perspective. He has been writing about technology for more than 30 years, writing ...
 Read More
 Editor at Large
 * X
@@ -65,7 +65,7 @@ physics
 computer science
 Awards
 AI Will Never Be Conscious
-In his new book, 
+In his new book,
 A World Appears
 , Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.
 Michael Pollan

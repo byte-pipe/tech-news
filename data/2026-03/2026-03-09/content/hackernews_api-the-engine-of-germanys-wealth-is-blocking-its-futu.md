@@ -20,10 +20,10 @@ How Germany's economy missed the train to the future: part 3
 
 Germany has an institution so trusted and influential that no major decision in Berlin or Brussels gets made without it. For decades, it has cast a careful eye on regulation and kept politicians in check. You guessed it: the car lobby.
 Toyah Höher
- , 
+ ,
 Stanislaw Zytynski
- 
- | 
+
+ |
 9 Mar 2026
 
 In 1893, a German invented the diesel engine, and the country has cashed in ever since. Today, cars and car parts are the strongest industry in terms of turnover, amounting toover 16%of all German exports and accounting foraround 800,000 jobs. Across Europe, the car sector directly or indirectly sustains over 13.8 million jobs.
@@ -93,7 +93,7 @@ The car industry is the loudest example of Germany's outdated industrial model, 
 Next week, we look at Germany's turbulent energy policy.
 
 Toyah Höher
-, 
+,
 Stanislaw Zytynski
 
 It would be great to see a politician as angry about lobbying as Merz is about work-life balance.

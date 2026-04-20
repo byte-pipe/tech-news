@@ -38,7 +38,7 @@ We talked about extending the alert window, but that would just mask the problem
 When we were asked to do a rolling restart of Atlantis to pick up a change to the secrets it uses, we would runkubectl rollout restart statefulset atlantis, which would gracefully terminate the existing Atlantis pod before spinning up a new one. The new pod would appear almost immediately, but looking at it would show:
 
 $ kubectl get pod atlantis-0
-atlantis-0 0/1 
+atlantis-0 0/1
 Init:0/1 0 30m
 
 ...so what gives? Naturally, the first thing to check would be events for that pod. It's waiting around for an init container to run, so maybe the pod events would illuminate why?
@@ -96,29 +96,29 @@ Not every fix is heroic or complex, and it’s usually worth asking “why does 
 
 If debugging infrastructure problems at scale sounds interesting,we’re hiring. Come join us on theCloudflare Communityor ourDiscordto talk shop.
 
-Cloudflare's connectivity cloud protects 
+Cloudflare's connectivity cloud protects
 entire corporate networks
-, helps customers build 
+, helps customers build
 Internet-scale applications efficiently
-, accelerates any 
+, accelerates any
 website or Internet application
-, 
+,
 wards off DDoS attacks
-, keeps 
+, keeps
 hackers at bay
-, and can help you on 
+, and can help you on
 your journey to Zero Trust
 .
-Visit 
+Visit
 1.1.1.1
  from any device to get started with our free app that makes your Internet faster and safer.
-To learn more about our mission to help build a better Internet, 
+To learn more about our mission to help build a better Internet,
 start here
-. If you're looking for a new career direction, check out 
+. If you're looking for a new career direction, check out
 our open positions
 .
- 
- 
+
+
 Kubernetes
 Terraform
 Platform Engineering

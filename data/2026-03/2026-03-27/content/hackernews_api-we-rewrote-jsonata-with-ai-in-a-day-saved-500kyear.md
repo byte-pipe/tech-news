@@ -15,7 +15,7 @@ tags:
 
 Demo Request
 
-Take a personalized product tour with a member of our team to see how 
+Take a personalized product tour with a member of our team to see how
 we can help make your existing security teams and tools more effective within minutes.
 First Name
 Last Name
@@ -41,7 +41,7 @@ SaaS Security
 
 Andrea Bailiff-Gush
 March 17, 2026
-Organizations have thousands of AI agents operating across their SaaS environments, yet security teams have no visibility into what's running or what permissions these agents hold. AI agents create toxic combinations by connecting systems in ways that produce permission breakdowns traditional tools can't detect. Reco's AI agent security discovers every agent, maps the connections between systems, and gives teams control to manage risk. 
+Organizations have thousands of AI agents operating across their SaaS environments, yet security teams have no visibility into what's running or what permissions these agents hold. AI agents create toxic combinations by connecting systems in ways that produce permission breakdowns traditional tools can't detect. Reco's AI agent security discovers every agent, maps the connections between systems, and gives teams control to manage risk.
 6 min read
 Cyber Attack
 

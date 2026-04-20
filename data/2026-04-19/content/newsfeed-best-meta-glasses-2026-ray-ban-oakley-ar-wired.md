@@ -56,22 +56,22 @@ Ray-Ban
 ### Meta Glasses (Gen 2)
 
 $409
- 
+
 
 Best Buy
 
 $409
- 
+
 
 Amazon
 
 $379
- 
+
 
 Meta
 
 $459
- 
+
 
 Ray-Ban
 
@@ -96,17 +96,17 @@ Oakley
 ### Meta AI HSTN
 
 $479
- 
+
 
 Amazon
 
 $479
- 
+
 
 Meta
 
 $399
- 
+
 
 Backcountry
 
@@ -134,17 +134,17 @@ Oakley
 ### Meta Vanguard
 
 $499
- 
+
 
 Meta
 
 $499
- 
+
 
 Amazon
 
 $499
- 
+
 
 Oakley
 
@@ -167,12 +167,12 @@ Meta
 ### Ray-Ban Display
 
 $799
- 
+
 
 Best Buy
 
 $799
- 
+
 
 Meta
 
@@ -236,7 +236,7 @@ Triangle
 * Iran-linked hackers aresabotaging energy and water infrastructure
 * Listen:Silicon Valley is spending millionsto stop one of its own
 Adrienne So
- is a senior commerce editor for WIRED, where she reviews health and fitness gear. She graduated from the University of Virginia with bachelor’s degrees in English and Spanish and runs, rock climbs, and sings karaoke in her free time. She lives in Portland, Oregon with her husband, two ... 
+ is a senior commerce editor for WIRED, where she reviews health and fitness gear. She graduated from the University of Virginia with bachelor’s degrees in English and Spanish and runs, rock climbs, and sings karaoke in her free time. She lives in Portland, Oregon with her husband, two ...
 Read More
 Senior Commerce Editor
 * X
@@ -265,12 +265,12 @@ The Galaxy A37 and Galaxy A57 aren’t drastically different from their predeces
 Julian Chokkattu
 The Best Apple Watch Bands for Every Occasion
 We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’ve rounded up the best for every occasion.
-Boutayna Chokrane 
+Boutayna Chokrane
 Motorola’s Souped-Up Folding Phone Is Almost Half Off
 Amazon has the Razr Ultra marked down by $600 for a limited time.
 Brad Bourque
 I Tested Every New Garmin Training Feature, From Food Tracking to Sports Scores
-Nutrition tracking? 
+Nutrition tracking?
 Gear
  tracking? Garmin’s latest software updates aim to add value to the company’s line of premium sports watches.
 Michael Sawh
@@ -279,7 +279,7 @@ Whether you want to sleep through the party or rock out (safely) to your favorit
 Parker Hall
 50% Off Select Items With These Ring Camera Deals
 Discover how to save on Ring cameras, doorbells, outdoor cameras, and more.
- Nena Farrell 
+ Nena Farrell
 Give Your Phone a Huge (and Free) Upgrade by Switching to Another Keyboard
 Change up the default keyboard in Android and iOS and feel the benefit.
 David Nield

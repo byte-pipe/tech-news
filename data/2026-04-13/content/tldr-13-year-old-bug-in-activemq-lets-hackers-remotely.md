@@ -13,7 +13,7 @@ tags:
 
 # 13-year-old bug in ActiveMQ lets hackers remotely execute commands
 
- By 
+ By
 
 ###### Bill Toulas
 

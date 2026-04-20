@@ -15,7 +15,7 @@ tags:
 
 This video can not be played
 
-Media caption, 
+Media caption,
 
 Lewis Moody opens up to former team-mate Ben Youngs on life since his MND diagnosis
 
@@ -66,7 +66,7 @@ Despite that, Moody recognises rugby has become linked with MND in much of the p
 
 Ben Youngs Investigates: How Safe Is Rugby?
 
- 
+
 Watch on iPlayer
 
 Moody retired from rugby 14 years ago. It was a very different game then.
@@ -89,9 +89,9 @@ A day later, England had a day off. Against the advice of the team doctor, Moody
 
 * 'There were tears - but I had to peek behind curtain of head injuries in rugby'Published10 hours ago
 * Published10 hours ago
-Image source, 
+Image source,
 Rex Features
-Image caption, 
+Image caption,
 
 Moody congratulates Ben Youngs on his call-up to the England squad back in 2010
 
@@ -127,7 +127,7 @@ But he has seen close up what his fellow World Cup winner Steve Thompson has gon
 
 This video can not be played
 
-Media caption, 
+Media caption,
 
 Watch the trailer for new BBC documentary Ben Youngs Investigates: How Safe Is Rugby?
 

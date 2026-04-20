@@ -39,31 +39,31 @@ Designers have a lot of thoughts. I wrote mine here. Let’s dive in.
 Get at it!
 
 🤔
- 
+
 Very thoughtful
 
 0
 
 🙏
- 
+
 So relatable
 
 0
 
 👍
- 
+
 So good
 
 0
 
 ❤️
- 
+
 Loved it
 
 0
 
 🤯
- 
+
 Blew my mind
 
 0

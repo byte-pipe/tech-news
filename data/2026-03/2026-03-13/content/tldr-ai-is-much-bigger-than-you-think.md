@@ -265,7 +265,7 @@ The author, Ethan Smith, is the CEO ofGraphite.io, a growth agency that offers s
 Text Link
 Ethan Smith
 Ethan Smith
-CEO 
+CEO
 Ethan Smith is CEO of Graphite.io, a research-driven growth agency that works with companies like Webflow, Adobe, and Upwork. He is an adjunct professor at IE Business School and teaches SEO and AEO at Reforge. His research has been published in ACM, Axios, Financial Times, and The Atlantic. Prior to founding Graphite, Ethan was a growth advisor to Masterclass, Robinhood, and Honey. Ethan was a research assistant focused on human-computer interaction and psychology at UC Santa Barbara and University College London.
 Copied
 Insights

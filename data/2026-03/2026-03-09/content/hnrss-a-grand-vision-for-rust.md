@@ -128,10 +128,10 @@ exampleNonZeroUsize: this has historically been backed by a ton of custom
 compiler optimizations to enable the use of niches in layout. But with pattern
 types we can get those same optimizations automatically byrefininingtheusizetype with a pattern:
 
-type 
-NonZeroUsize = 
+type
+NonZeroUsize =
 usize
- is 
+ is
 1
 ..;
 

@@ -259,7 +259,7 @@ Brainstorming sessions often produce outlandish ideas. Hedley hoped that this on
 
 Executives discussed the approach with at least one potential donor. But later that month, after several employees talked about quitting, the plan was abandoned. Altman “would lose staff,” Hedley said. “I feel like that was always something that had more weight in Sam’s calculations than ‘This is not a good plan because it might cause a war between great powers.’ ”
 
-“I cannot 
+“I cannot
 wait
  for crop tops to go out of style.”
 Cartoon by Meredith Southard
@@ -360,13 +360,13 @@ Not all the tendencies that make chatbots dangerous are glitches; some are by-pr
 Sign upfor our daily newsletter to receive the best stories fromThe New Yorker.
 
 Ronan Farrow
-, a contributing writer at 
+, a contributing writer at
 The New Yorker
 , has won a Pulitzer Prize and a George Polk Award. His 2025 podcast, “
 Not a Very Good Murderer
 ,” is the basis for an HBO docuseries.
 Andrew Marantz
- is a staff writer at 
+ is a staff writer at
 The New Yorker
  and the author of “
 Antisocial: Online Extremists, Techno-Utopians, and the Hijacking of the American Conversation
@@ -374,64 +374,64 @@ Antisocial: Online Extremists, Techno-Utopians, and the Hijacking of the America
 Annals of Technology
 Does A.I. Need a Constitution?
 A new set of precepts is meant to make the chatbot Claude wise, decent, and safe. It also marks a striking transfer of public responsibility from constitutional government to private tech firms.
-By 
+By
 Jill Lepore
 Brave New World Dept.
 Love in the Time of A.I. Companions
 Some people now have an A.I. bestie. Some have a husband. Some have three.
-By 
+By
 Anna Wiener
 Letter from Washington
 The Zombie Regulator
 As the cost of living continues to spiral upward, the Trump Administration is gutting the government agency built to protect Americans from financial ruin.
-By 
+By
 E. Tammy Kim
 Annals of Inquiry
 The Pentagon Went to War with Anthropic. What’s Really at Stake?
 The Trump Administration wants Claude to act like an obedient soldier. But, if you ask for a killer robot, the company argues, you might get more than you bargained for.
-By 
+By
 Gideon Lewis-Kraus
 American Chronicles
 The Camps Promising to Turn You—or Your Son—Into an Alpha Male
 At the Men of War Crucible, you bear-crawl through rivers. At Warrior Week, you dig your own grave. At the Squire Program, your teen-ager can take part, too.
-By 
+By
 Charles Bethea
 The Lede
-The Rise and Fall of 
+The Rise and Fall of
 ICE
 -Tracking Apps
 ICEBlock was meant to be an early-warning system to help people avoid immigration enforcement—the Trump Administration claims that it endangered the agents of its mass-deportation campaign.
-By 
+By
 Oriana van Praag
 The Financial Page
 How to Prevent Insider Trading on Trump’s Wars
 A flurry of well-timed and anonymous bets on Polymarket right before the U.S. strike on Iran shows the need for reform.
-By 
+By
 John Cassidy
 Annals of Higher Education
 The Unmaking of the American University
 For decades, research universities have relied on federal funding, with no guarantee that it will last. Now their survival may depend on compliance with the government.
-By 
+By
 Nicholas Lemann
 The Political Scene
 How the Internet Fringe Infiltrated Republican Politics
 Inside the battle for the post-
 MAGA
  G.O.P.
-By 
+By
 Antonia Hitchens
 Infinite Scroll
 Why Tech Bros Are Now Obsessed with Taste
 In the age of A.I., the term has become as much of a Silicon Valley cliché as “disruption” was in the twenty-tens.
-By 
+By
 Kyle Chayka
 Persons of Interest
 The Rise of a Spanish-Language News Influencer
 How Carlos Eduardo Espina reaches millions of followers.
-By 
+By
 Graciela Mochkofsky
 Brave New World Dept.
 Why Are People Injecting Themselves with Peptides?
 Health and wellness influencers are hawking unapproved treatments on the gray market. The future of the F.D.A.—and the health of consumers—is at stake.
-By 
+By
 Dhruv Khullar

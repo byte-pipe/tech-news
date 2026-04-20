@@ -71,7 +71,7 @@ Prize Category🤖 Best Google AI UsageI leveraged Google Gemini to build the "U
 Built with ❤️ and a total lack of productivity.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

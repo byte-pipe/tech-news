@@ -11,7 +11,7 @@ description: 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an op
 
 rustfs
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.1k
 * Star24.9k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -432,7 +432,7 @@ To get started with RustFS, follow these steps:
 
 ### 1. One-click Installation (Option 1)
 
-curl -O https://rustfs.com/install_rustfs.sh 
+curl -O https://rustfs.com/install_rustfs.sh
 &&
  bash install_rustfs.sh
 
@@ -440,41 +440,41 @@ curl -O https://rustfs.com/install_rustfs.sh
 
 The RustFS container runs as a non-root userrustfs(UID10001). If you run Docker with-vto mount a host directory, please ensure the host directory owner is set to10001, otherwise you will encounter permission denied errors.
 
- 
+
 #
  Create data and logs directories
 
  mkdir -p data logs
 
- 
+
 #
  Change the owner of these directories
 
  chown -R 10001:10001 data logs
 
- 
+
 #
  Using latest version
 
- docker run -d -p 9000:9000 -p 9001:9001 -v 
+ docker run -d -p 9000:9000 -p 9001:9001 -v
 $(
 pwd
 )
-/data:/data -v 
+/data:/data -v
 $(
 pwd
 )
 /logs:/logs rustfs/rustfs:latest
 
- 
+
 #
  Using specific version
 
- docker run -d -p 9000:9000 -p 9001:9001 -v 
+ docker run -d -p 9000:9000 -p 9001:9001 -v
 $(
 pwd
 )
-/data:/data -v 
+/data:/data -v
 $(
 pwd
 )
@@ -482,11 +482,11 @@ pwd
 
 If you usepodmaninstead of docker, you can install the RustFS with the below command
 
- podman run -d -p 9000:9000 -p 9001:9001 -v 
+ podman run -d -p 9000:9000 -p 9001:9001 -v
 $(
 pwd
 )
-/data:/data -v 
+/data:/data -v
 $(
 pwd
 )
@@ -535,19 +535,19 @@ Thedocker-buildx.shscript supports:
 
 You can also use Make targets for convenience:
 
-make docker-buildx 
+make docker-buildx
 #
  Build locally
 
-make docker-buildx-push 
+make docker-buildx-push
 #
  Build and push
 
-make docker-buildx-version VERSION=v1.0.0 
+make docker-buildx-version VERSION=v1.0.0
 #
  Build specific version
 
-make help-docker 
+make help-docker
 #
  Show all Docker-related commands
 
@@ -675,66 +675,66 @@ rustfs.com/download/
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 24.9k
 
  stars
- 
+
 
 ### Watchers
 
 64
 
  watching
- 
+
 
 ### Forks
 
 1.1k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -746,9 +746,9 @@ tags
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -756,9 +756,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

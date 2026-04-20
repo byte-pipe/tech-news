@@ -21,7 +21,7 @@ AI scientist,entrepreneur, and investor Rana el Kaliouby is worried that AI coul
 “I think AI today is a boys’ club. I think diversity is not a very popular conversation topic these days, but I think it’s so important because AI is creating incredible economic opportunity,” el Kaliouby said onstage, when asked if the perception of AI being a boys’ club was a myth. (The interviewer showed a series of headlines from TechCrunch showcasing AI startups with male founders to demonstrate the point.)
 
 Image Credits:
-SXSW 
+SXSW
 (opens in a new window)
 
 El Kaliouby, whosold her emotion-detection software company Affectiva in 2021and is now co-founder and general partner at Blue Tulip Ventures, said that three out of four investments at her firm are in startups with women CEOs.
@@ -34,7 +34,7 @@ Her reference to the current “unpopularity” of the topic of diversity follow
 
 For el Kaliouby, a lack of diversity isn’t just about the potential for economic disadvantage, she said — it’s also about the outcome.
 
- 
+
 
 Techcrunch event
 
@@ -59,25 +59,25 @@ REGISTER NOW
 Topics
 
 AI
-, 
+,
 Dr. Rana el Kaliouby
-, 
+,
 investing
-, 
+,
 SXSW
-, 
+,
 Venture
- 
 
-			Sarah Perez	
+
+			Sarah Perez
 
 Consumer News Editor
 
 		Sarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.
 
 
-You can contact or verify outreach from Sarah by emailing 
+You can contact or verify outreach from Sarah by emailing
 sarahp@techcrunch.com
- or via encrypted message at sarahperez.01 on Signal. 
+ or via encrypted message at sarahperez.01 on Signal.
 
 View Bio

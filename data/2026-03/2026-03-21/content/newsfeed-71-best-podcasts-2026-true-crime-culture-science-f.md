@@ -720,9 +720,9 @@ Triangle
 * Will AIkill the venture capitalist?
 * Livestream AMA:Big Tech and the military—have your say
 Simon Hill
- is a senior writer for WIRED and has been testing and writing about technology for around 20 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially 
+ is a senior writer for WIRED and has been testing and writing about technology for around 20 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially
 smartphones
- and ... 
+ and ...
 Read More
 Senior writer and reviewer
 * bluesky
@@ -750,23 +750,23 @@ Stream your favorite shows for up to $80 off this month, and save on subscriptio
 Molly Higgins
 The Best Pajamas for Women, Ranked
 After testing 100-plus sets, these are the sleepwear brands that earned permanent spots in my closet and my bed.
-Boutayna Chokrane 
+Boutayna Chokrane
 The Sheets Our Team Can't Stop Sleeping On
 After sleeping on more than 70 different sets of sheets, these are the best sets that won't break the bank.
- Nena Farrell 
+ Nena Farrell
 What Should Be in Your Emergency Kit Before Disaster Strikes?
 We consulted preparedness experts and WIRED's team of testers for the essential gear to keep on hand in case of wildfires, earthquakes, and lord knows what else.
 Matthew Korfhage
 The WIRED Guide to Chicago for Business Travelers
 Where to lock in, power down, and actually enjoy your business trip.
-Boutayna Chokrane 
+Boutayna Chokrane
 Uncanny Valley:
  Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’
 In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.
 Brian Barrett
 Save Your Disorganized Mind With These Paper Planners
 If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.
- Nena Farrell 
+ Nena Farrell
 Espresso Is the Base Unit of Caffeination. Good Results Can’t Be Bought
 A former barista explains why your espresso machine doesn't have to be fancy to make quality coffee.
 Pete Cottell

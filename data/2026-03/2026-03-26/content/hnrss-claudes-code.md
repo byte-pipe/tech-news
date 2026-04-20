@@ -41,10 +41,10 @@ Co-Authored-By: Claude <
 [email protected]
 >
 1
- of 
+ of
 5
  candidates
-Rotates every 
+Rotates every
 5
 s
 
@@ -117,9 +117,9 @@ View
 ### System Activity Log
 
 Since Launch
- · 
+ ·
 All
- · 
+ ·
 Mar 25, 9:12 PM
 daf269a
 03/25/2026, 19:59:46

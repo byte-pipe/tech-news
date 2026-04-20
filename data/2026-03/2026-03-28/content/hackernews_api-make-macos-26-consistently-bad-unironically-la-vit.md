@@ -32,125 +32,125 @@ Anyway, recently I had to upgrade recently to MacOS 26. And I found the edges ug
 #import <objc/runtime.h>
 
 static
- 
+
 CGFloat
- 
+
 kDesiredCornerRadius
- 
+
 =
- 
+
 23.0
 ;
 
 static
- 
+
 double
- 
+
 swizzled_cornerRadius
 (
 id
- 
+
 self
 ,
- 
+
 SEL
- 
+
 _cmd
 )
- 
+
 {
 
- 
+
 return
- 
+
 kDesiredCornerRadius
 ;
 
 }
 
 static
- 
+
 double
- 
+
 swizzled_getCachedCornerRadius
 (
 id
- 
+
 self
 ,
- 
+
 SEL
- 
+
 _cmd
 )
- 
+
 {
 
- 
+
 return
- 
+
 kDesiredCornerRadius
 ;
 
 }
 
 static
- 
+
 CGSize
- 
+
 swizzled_topCornerSize
 (
 id
- 
+
 self
 ,
- 
+
 SEL
- 
+
 _cmd
 )
- 
+
 {
 
- 
+
 return
- 
+
 CGSizeMake
 (
 kDesiredCornerRadius
 ,
- 
+
 kDesiredCornerRadius
 );
 
 }
 
 static
- 
+
 CGSize
- 
+
 swizzled_bottomCornerSize
 (
 id
- 
+
 self
 ,
- 
+
 SEL
- 
+
 _cmd
 )
- 
+
 {
 
- 
+
 return
- 
+
 CGSizeMake
 (
 kDesiredCornerRadius
 ,
- 
+
 kDesiredCornerRadius
 );
 
@@ -162,219 +162,219 @@ constructor
 ))
 
 static
- 
+
 void
- 
+
 init
 (
 void
 )
- 
+
 {
 
- 
+
 // Only apply to third-party GUI apps; skip CLI tools, daemons, and Apple system apps
 
- 
+
 NSString
- 
+
 *
 bid
- 
+
 =
- 
+
 [[
 NSBundle
- 
+
 mainBundle
 ]
- 
+
 bundleIdentifier
 ];
 
- 
+
 if
- 
+
 (
 !
 bid
- 
+
 ||
- 
+
 [
 bid
- 
+
 hasPrefix
 :
 @
 "com.apple."
 ])
- 
+
 return
 ;
 
- 
+
 Class
- 
+
 cls
- 
+
 =
- 
+
 NSClassFromString
 (
 @
 "NSThemeFrame"
 );
 
- 
+
 if
- 
+
 (
 !
 cls
 )
- 
+
 return
 ;
 
- 
+
 Method
- 
+
 m1
- 
+
 =
- 
+
 class_getInstanceMethod
 (
 cls
 ,
- 
+
 @
 selector
 (
 _cornerRadius
 ));
 
- 
+
 if
- 
+
 (
 m1
 )
- 
+
 method_setImplementation
 (
 m1
 ,
- 
+
 (
 IMP
 )
 swizzled_cornerRadius
 );
 
- 
+
 Method
- 
+
 m2
- 
+
 =
- 
+
 class_getInstanceMethod
 (
 cls
 ,
- 
+
 @
 selector
 (
 _getCachedWindowCornerRadius
 ));
 
- 
+
 if
- 
+
 (
 m2
 )
- 
+
 method_setImplementation
 (
 m2
 ,
- 
+
 (
 IMP
 )
 swizzled_getCachedCornerRadius
 );
 
- 
+
 Method
- 
+
 m3
- 
+
 =
- 
+
 class_getInstanceMethod
 (
 cls
 ,
- 
+
 @
 selector
 (
 _topCornerSize
 ));
 
- 
+
 if
- 
+
 (
 m3
 )
- 
+
 method_setImplementation
 (
 m3
 ,
- 
+
 (
 IMP
 )
 swizzled_topCornerSize
 );
 
- 
+
 Method
- 
+
 m4
- 
+
 =
- 
+
 class_getInstanceMethod
 (
 cls
 ,
- 
+
 @
 selector
 (
 _bottomCornerSize
 ));
 
- 
+
 if
- 
+
 (
 m4
 )
- 
+
 method_setImplementation
 (
 m4
 ,
- 
+
 (
 IMP
 )
@@ -385,10 +385,10 @@ swizzled_bottomCornerSize
 
 Then compile, sign, and store:
 
-clang -arch arm64e -arch x86_64 -dynamiclib -framework AppKit 
+clang -arch arm64e -arch x86_64 -dynamiclib -framework AppKit
 \
 
- -o SafariCornerTweak.dylib 
+ -o SafariCornerTweak.dylib
 \
 
  SafariCornerTweak.m
@@ -410,60 +410,60 @@ You can have this plist too to load it in once your computer loads:
  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 
 <plist
- 
+
 version=
 "1.0"
 >
 
 <dict>
 
- 
+
 <key>
 Label
 </key>
 
- 
+
 <string>
 com.local.dyld-inject
 </string>
 
- 
+
 <key>
 ProgramArguments
 </key>
 
- 
+
 <array>
 
- 
+
 <string>
 launchctl
 </string>
 
- 
+
 <string>
 setenv
 </string>
 
- 
+
 <string>
 DYLD_INSERT_LIBRARIES
 </string>
 
- 
+
 <string>
 /usr/local/lib/SafariCornerTweak.dylib
 </string>
 
- 
+
 </array>
 
- 
+
 <key>
 RunAtLoad
 </key>
 
- 
+
 <true/>
 
 </dict>

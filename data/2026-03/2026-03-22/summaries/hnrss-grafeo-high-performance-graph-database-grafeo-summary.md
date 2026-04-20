@@ -12,9 +12,9 @@ summarized_at: 2026-03-22T11:29:26.635229
 ## **Overview**
 
 *   Grafeo is a fast, lightweight, and embeddable graph database built in Rust.
-  
+
   • **Benefits**: Fast execution speed, adaptive chunking, SIMD-optimized operations, multi-language queries (GQL, Cypher, Gremlin, GraphQL, SPARQL, SQL/PGQ), and vector search support. It supports dual data models for Labeled Property Graphs and RDF triples, as well as embeddability with zero external dependencies.
-  
+
   • **Key Features**:
     *   High-performance graph database with a lower memory footprint than other in-memory databases on theLDBC Social Network Benchmark.
     *   Multi-language support with GQL, Cypher, Gremlin, GraphQL, SPARQL, and SQL/PGQ query languages.

@@ -15,19 +15,19 @@ tags:
 
 # Installing every* Firefox extension
 
- 
+
 
 Oh, you use Firefox? Name every extension.
 
- 
+
 
 Published
 
- 4/9/2026 
- 
- 
- 
- 
+ 4/9/2026
+
+
+
+
 
 *All but 8 we didn’t scrape (or got deleted between me checking the website and me scraping) and 42 missing from extensions.json.1Technically we only installed 99.94% of the extensions.
 
@@ -43,23 +43,23 @@ Thesearch endpointcan take an empty query. Let’s read every page:
 
 1
 let
- url 
+ url
 =
 2
- 
+
 "https://addons.mozilla.org/api/v5/addons/search/?page_size=50&type=extension&app=firefox&appversion=150.0"
 3
 
 4
 let
- extensions 
+ extensions
 =
  []
 5
 let
- page 
+ page
 =
- 
+
 1
 6
 
@@ -69,27 +69,27 @@ while
 true
 ) {
 8
- 
+
 let
- res 
+ res
 =
- 
+
 await
- 
+
 fetch
 (url)
 9
- 
+
 let
- data 
+ data
 =
- 
+
 await
  res.
 json
 ()
 10
- 
+
 console.
 log
 (
@@ -105,23 +105,23 @@ length
 } EXTENSIONS`
 )
 11
- 
+
 extensions.
 push
 (
 ...
 data.results)
 12
- 
-url 
+
+url
 =
  data.next
 13
- 
+
 if
  (
 !
-data.next) 
+data.next)
 break
 14
 }
@@ -132,7 +132,7 @@ Bun.
 write
 (
 "extensions-default.json"
-, 
+,
 JSON
 .
 stringify
@@ -144,13 +144,13 @@ A solution I found is to use different sorts. The default sort issort=recommende
 
 1
 let
- url 
+ url
 =
 2
- 
+
 "https://addons.mozilla.org/api/v5/addons/search/?page_size=50&type=extension&app=firefox&appversion=150.0"
 3
- 
+
 "https://addons.mozilla.org/api/v5/addons/search/?page_size=50&type=extension&app=firefox&appversion=150.0&sort=created"
 
 16
@@ -158,7 +158,7 @@ Bun.
 write
 (
 "extensions-default.json"
-, 
+,
 JSON
 .
 stringify
@@ -168,7 +168,7 @@ Bun.
 write
 (
 "extensions-newest.json"
-, 
+,
 JSON
 .
 stringify
@@ -177,21 +177,21 @@ stringify
 count.ts
 1
 import
- extensions_default 
+ extensions_default
 from
- 
+
 "../extensions-default.json"
 2
 import
- extensions_newest 
+ extensions_newest
 from
- 
+
 "../extensions-newest.json"
 3
 
 4
 let
- extensions 
+ extensions
 =
  {}
 5
@@ -202,14 +202,14 @@ let
 for
  (
 const
- 
+
 ext
- 
+
 of
  extensions_default) {
 8
- 
-extensions[ext.slug] 
+
+extensions[ext.slug]
 =
  ext
 9
@@ -220,14 +220,14 @@ extensions[ext.slug]
 for
  (
 const
- 
+
 ext
- 
+
 of
  extensions_newest) {
 12
- 
-extensions[ext.slug] 
+
+extensions[ext.slug]
 =
  ext
 13
@@ -269,43 +269,43 @@ Starting to hit diminishing returns. While I was waiting 7 minutes for that last
 
 1
 let
- url 
+ url
 =
 2
- 
+
 "https://addons.mozilla.org/api/v5/addons/search/?page_size=50&page=600&type=extension&app=firefox&appversion=150.0&sort=updated"
 3
 const
- 
+
 page_600
- 
+
 =
- 
+
 await
- 
+
 fetch
 (url).
 then
 (
 res
- 
+
 =>
  res.
 json
 ())
 4
 const
- 
+
 page_601
- 
+
 =
- 
+
 await
- 
+
 fetch
 (
 5
- 
+
 `${
 url
 }&exclude_addons=${
@@ -316,9 +316,9 @@ results
 map
 (
 ext
- 
+
 =>
- 
+
 ext
 .
 id
@@ -334,7 +334,7 @@ join
 then
 (
 res
- 
+
 =>
  res.
 json
@@ -344,55 +344,55 @@ It works! There is a URL length limit, sadly, so I can only fetch an extra 20 pa
 
 1
 let
- url 
+ url
 =
 2
- 
+
 "https://addons.mozilla.org/api/v5/addons/search/?page_size=50&page=600&type=extension&app=firefox&appversion=150.0&sort=created&exclude_addons="
 3
 
 4
 let
- extensions 
+ extensions
 =
  []
 5
 let
- page 
+ page
 =
- 
+
 600
 6
 try
  {
 7
- 
+
 while
  (
 true
 ) {
 8
- 
+
 let
- res 
+ res
 =
- 
+
 await
- 
+
 fetch
 (url)
 9
- 
+
 let
- data 
+ data
 =
- 
+
 await
  res.
 json
 ()
 10
- 
+
 console.
 log
 (
@@ -408,40 +408,40 @@ length
 } EXTENSIONS`
 )
 11
- 
+
 if
  (data.results.
 at
 (
 -
 1
-).id 
+).id
 ===
  extensions.
 at
 (
 -
 1
-)?.id) 
+)?.id)
 break
- 
+
 // IDK
 12
- 
+
 extensions.
 push
 (
 ...
 data.results)
 13
- 
-url 
+
+url
 +=
  data.results.
 map
 (
 ext
- 
+
 =>
  ext.id).
 join
@@ -449,10 +449,10 @@ join
 ","
 )
 14
- 
+
 }
 15
-} 
+}
 catch
  {}
 16
@@ -462,7 +462,7 @@ Bun.
 write
 (
 "created-2.json"
-, 
+,
 JSON
 .
 stringify
@@ -485,92 +485,92 @@ I’m tired of waiting 7 minutes so I’ll just fetch every page in parallel.
 
 1
 function
- 
+
 get
 (
 url
 :
- 
+
 string
-, 
+,
 path
 :
- 
+
 string
 ) {
 2
- 
+
 return
- 
+
 Promise
 .
 all
 (
 3
- 
+
 Array.
 from
-({ length: 
+({ length:
 600
  }, (
 _
-, 
+,
 i
-) 
+)
 =>
- 
+
 fetch
 (
 `${
 url
 }&page=${
 i
- 
+
 +
- 
+
 1
 }`
 ).
 then
 (
 res
- 
+
 =>
  res.
 json
 ())),
 4
- 
+
 ).
 then
 (
 pages
- 
+
 =>
  {
 5
- 
+
 let
- extensions 
+ extensions
 =
  pages.
 flatMap
 (
 page
- 
+
 =>
  page.results)
 6
- 
+
 Bun.
 write
-(path, 
+(path,
 JSON
 .
 stringify
 (extensions))
 7
- 
+
 })
 8
 }
@@ -578,13 +578,13 @@ stringify
 
 10
 const
- 
+
 categories
- 
+
 =
- 
+
 await
- 
+
 fetch
 (
 "https://addons.mozilla.org/api/v5/addons/categories/"
@@ -592,10 +592,10 @@ fetch
 then
 (
 res
- 
+
 =>
 11
- 
+
 res.
 json
 (),
@@ -605,44 +605,44 @@ json
 
 14
 await
- 
+
 Promise
 .
 all
 (
 15
- 
+
 categories
 16
- 
+
 .
 filter
 (
 category
- 
+
 =>
- category.type 
+ category.type
 ===
- 
+
 "extension"
 )
 17
- 
+
 .
 map
 (
 category
- 
+
 =>
  {
 18
- 
+
 return
- 
+
 get
 (
 19
- 
+
 `https://addons.mozilla.org/api/v5/addons/search/?page_size=50&type=extension&app=firefox&sort=created&category=${
 category
 .
@@ -650,7 +650,7 @@ slug
 }&appversion=150.0`
 ,
 20
- 
+
 `./newest-${
 category
 .
@@ -658,10 +658,10 @@ slug
 }.json`
 ,
 21
- 
+
 )
 22
- 
+
 }),
 23
 )
@@ -678,18 +678,18 @@ When I ran this in September 2025, it found 21moreextensions than what was menti
 
 So that nobody has to do this again, I’ve uploaded this dataset toHugging Face.
 
- 
+
 
 Alternatively,addons-serverhas CORS enabled, so click this funny button to get
 		your very ownall_extensions.json:
 
- 
+
 Download all_extensions.json
- 
+
 This requires JavaScript!
- 
- 
- 
+
+
+
 
 ### April 11 update
 
@@ -725,7 +725,7 @@ Here’s the rest of the top ten:
 
 The first time I ran this analysis, in September, “Cute doggy - Dog puppies” was the 10th largest extension. I’m still mentioning it here, because I was so fucking confused:
 
- 
+
 
 The smallest extension istheTabs-saver, which is 7518 bytes and has no code.
 
@@ -735,41 +735,41 @@ Subjectively it’s Cute doggy - Dog puppies, but objectively:
 
 1
 import
- extensions 
+ extensions
 from
- 
+
 "../all_extensions.json"
 2
 console.
 log
 (
 3
- 
+
 extensions
 4
- 
+
 .
 filter
 (
 ext
- 
+
 =>
- ext.ratings.count 
+ ext.ratings.count
 >
- 
+
 10
 )
 5
- 
+
 .
 sort
 ((
 a
-, 
+,
 b
-) 
+)
 =>
- a.ratings.bayesian_average 
+ a.ratings.bayesian_average
 -
  b.ratings.bayesian_average)[
 0
@@ -798,9 +798,9 @@ Second place isGoogle Dark Theme, which requests 2,675 permissions but has 1,687
 
 1
 import
- extensions 
+ extensions
 from
- 
+
 "../all_extensions.json"
 2
 
@@ -809,46 +809,46 @@ console.
 log
 (
 4
- 
+
 Object.
 values
 (
 5
- 
+
 Object.
 groupBy
 (
 6
- 
+
 extensions.
 flatMap
 (
 e
- 
+
 =>
  e.authors),
 7
- 
+
 author
- 
+
 =>
  author.id,
 8
- 
+
 ),
 9
- 
+
 ).
 sort
 ((
 a
-, 
+,
 b
-) 
+)
 =>
  b.
 length
- 
+
 -
  a.
 length
@@ -876,11 +876,11 @@ You cancrash their browser and claim your real malware is the fix!
 
 Why would you make a fake MetaMask extension and bot 1-star reviews?
 
- 
+
 
 Is this the doing of their cybercrime competitors, who bot 4-star reviews on extensions of their own?
 
- 
+
 
 Either way, these extensions are clearly phishing. I reported some to Mozilla, and the next day they were all gone, even the ones I was too lazy to report. I forgot to archive them, so I guess they live on in May’s VM!
 
@@ -890,9 +890,9 @@ Three seconds after install, it fetches the phishing page’s URL from the first
 static/background/index.js
 58
 var
- r 
+ r
 =
- 
+
 e
 (
 "./lib/noco"
@@ -902,58 +902,58 @@ chrome.runtime.onInstalled.
 addListener
 (
 async
- () 
+ ()
 =>
  {
 60
- 
+
 try
  {
 61
- 
+
 await
- 
+
 new
- 
+
 Promise
 (
 e
- 
+
 =>
- 
+
 setTimeout
-(e, 
+(e,
 3e3
 ))
 62
- 
+
 let
- e 
+ e
 =
- 
+
 await
  (
 0
 , r.fetchUrlFromNocoRest)()
 63
- 
+
 e
 64
- 
+
 ?
- 
+
 await
  chrome.tabs.
 create
 ({
 65
- 
+
 url: e,
 66
- 
+
 })
 67
- 
+
 :
  console.
 warn
@@ -961,19 +961,19 @@ warn
 "No valid URL from NocoDB."
 )
 68
- 
-} 
+
+}
 catch
  (e) {
 69
- 
+
 console.
 error
 (
 "Install flow failed:"
 , e)
 70
- 
+
 }
 71
 })
@@ -1069,7 +1069,7 @@ They have 220 thousand daily users total across 12 extensions, and none of their
 
 Obviously I’m not going toopen each of these in a new tabandgo through those prompts. Not for lack of trying:
 
- 
+
 
 Each extension has thecurrent_version.file.urlproperty which is a direct download for the extension.
 I download them to my profile’s extensions folder with theguidproperty as the base name and the .xpi file extension, becauseanything else will not be installed.
@@ -1080,23 +1080,23 @@ When I reopen Firefox, each extension is disabled. Tampering withextensions.json
 enable.js
 1
 const
- 
+
 fs
- 
+
 =
- 
+
 require
 (
 "fs"
-) 
+)
 // WHY IS THIS COMMONJS
 2
 const
- 
+
 path
- 
+
 =
- 
+
 require
 (
 "path"
@@ -1109,12 +1109,12 @@ require
 // WHY IS THIS IN CAMELCASE
 6
 const
- 
+
 extensionsJsonPath
- 
+
 =
 7
- 
+
 "/Users/user/Library/Application Support/Firefox/Profiles/1avegyqd.default-release/extensions.json"
 8
 
@@ -1122,29 +1122,29 @@ extensionsJsonPath
 try
  {
 10
- 
+
 // Read the extensions.json file
 11
- 
+
 const
- 
+
 data
- 
+
 =
  fs.
 readFileSync
-(extensionsJsonPath, 
+(extensionsJsonPath,
 "utf-8"
-) 
+)
 // WHY IS THIS NOT NODE:FS/PROMISES
 12
- 
+
 const
- 
+
 extensionsData
- 
+
 =
- 
+
 JSON
 .
 parse
@@ -1152,102 +1152,102 @@ parse
 13
 
 14
- 
+
 // Modify extensions
 15
- 
+
 if
  (Array.
 isArray
 (extensionsData.addons)) {
 16
- 
+
 extensionsData.addons.
 forEach
 (
 addon
- 
+
 =>
  {
 17
- 
-addon.userDisabled 
+
+addon.userDisabled
 =
- 
+
 false
 18
- 
-addon.active 
+
+addon.active
 =
- 
+
 true
 19
- 
-addon.seen 
+
+addon.seen
 =
- 
+
 true
 20
- 
+
 })
 21
- 
+
 // WHY IS THIS NOT A GUARD
 22
- 
-} 
+
+}
 else
  {
 23
- 
+
 console.
 error
 (
 "Unexpected format: addons property is missing or not an array."
 )
 24
- 
+
 process.
 exit
 (
 1
 )
 25
- 
+
 }
 26
 
 27
- 
+
 // Write the updated data back to extensions.json
 28
- 
+
 fs.
 writeFileSync
-(extensionsJsonPath, 
+(extensionsJsonPath,
 JSON
 .
 stringify
-(extensionsData, 
+(extensionsData,
 null
-, 
+,
 2
 ))
 29
 
 30
- 
+
 console.
 log
 (
 "All extensions enabled successfully!"
 )
 31
-} 
+}
 catch
  (error) {
 32
- 
+
 console.
 error
 (
@@ -1264,7 +1264,7 @@ At first, instead of downloading all of them with a script, I tried using enterp
 I quickly ran out of memory, and the pagefile took up the rest of the storage allocated to the VM.
 I had also expected Firefox to open immediately and the extensions to install themselves as the browser is being used, but that also did not happen: it just froze.
 
- 
+
 
 ### Attempt 1: ~1,000
 
@@ -1273,25 +1273,25 @@ After that, I tried downloading them myself.
 download.ts
 1
 import
- extensions 
+ extensions
 from
- 
+
 "./all_extensions.json"
 2
 import
- { exists } 
+ { exists }
 from
- 
+
 "node:fs/promises"
 3
 let
- progress 
+ progress
 =
- 
+
 0
 4
 let
- count 
+ count
 =
  extensions.
 length
@@ -1299,12 +1299,12 @@ length
 
 6
 const
- 
+
 PATH_TO_EXTENSIONS_FOLDER
- 
+
 =
 7
- 
+
 "C:
 \\
 Users
@@ -1328,149 +1328,149 @@ mkrso47f.default-release
 
 9
 await
- 
+
 Promise
 .
 all
 (
 10
- 
+
 extensions.
 map
 (
 async
- 
+
 ext
- 
+
 =>
  {
 11
- 
+
 if
  (
 await
- 
+
 exists
 (
 PATH_TO_EXTENSIONS_FOLDER
- 
+
 +
- ext.guid 
+ ext.guid
 +
- 
+
 ".xpi"
 )) {
 12
- 
+
 progress
 ++
 13
- 
-} 
+
+}
 else
  {
 14
- 
+
 console.
 log
 (
 "Downloading"
 , ext.current_version.file.url)
 15
- 
+
 const
- 
+
 file
- 
+
 =
- 
+
 await
- 
+
 fetch
 (ext.current_version.file.url)
 16
- 
+
 await
  Bun.
 write
 (
 PATH_TO_EXTENSIONS_FOLDER
- 
+
 +
- ext.guid 
+ ext.guid
 +
- 
+
 ".xpi"
 , file)
 17
- 
+
 console.
 log
 (
 "Downloaded"
-, ext.slug, 
+, ext.slug,
 `${
 (
 ++
 progress
- 
+
 /
- 
+
 count
-) 
+)
 *
- 
+
 100
 }% done`
 )
 18
- 
+
 }
 19
- 
+
 }),
 20
 )
 
- 
+
 
 To make sure I was installing extensions correctly, I moved the extensions folder elsewhere and then moved about a thousand extensions back in. It worked.
 
- 
+
 
 There were multiple extensions that changed all text to a certain string.bruh-ifierlost toSe ni važn.
 Goku is in the background.
 
 My context menu is so long thatI’m showing it sideways:
 
- 
+
 
 I had installed lots of protection extensions. Oneblocks traffic to .zip and .mov domains, presumably because they are file extensions.
 This is.caberasure!
 Then, I realized that there were likely multiple people viewing my browsing history, so I went to send them a message.
 
- 
+
 
 That “⚠️ SCAM WARNING!” popup is fromAnti-Phishing Alert. As you may have inferred, it seems to only exists for its Homepage link. How does it work?
 
 phishing_detector.js
 1
 function
- 
+
 isPhishingURL
 (
 url
 ) {
 2
- 
+
 const
- 
+
 suspiciousPatterns
- 
+
 =
  [
 3
- 
+
 /
 [
 \.\-
@@ -1483,7 +1483,7 @@ login
 i
 ,
 4
- 
+
 /
 [
 \.\-
@@ -1496,7 +1496,7 @@ secure
 i
 ,
 5
- 
+
 /
 [
 \.\-
@@ -1509,7 +1509,7 @@ account
 i
 ,
 6
- 
+
 /
 [
 \.\-
@@ -1522,7 +1522,7 @@ verify
 i
 ,
 7
- 
+
 /
 [a-z0-9
 \-
@@ -1535,7 +1535,7 @@ xyz/
 i
 ,
 8
- 
+
 /https
 ?
 :
@@ -1557,18 +1557,18 @@ i
 i
 ,
 9
- 
+
 ]
 10
 
 11
- 
+
 return
  suspiciousPatterns.
 some
 (
 pattern
- 
+
 =>
  pattern.
 test
@@ -1584,43 +1584,43 @@ $.
 sweetModal
 ({
 24
- 
-title: 
+
+title:
 "Vasavi Fraudulent Detector"
 ,
 25
- 
-content: 
+
+content:
 "Safe Webpage !!"
 ,
 26
- 
+
 icon: $.sweetModal.
 ICON_SUCCESS
 ,
 27
 
 28
- 
+
 buttons: [
 29
- 
+
 {
 30
- 
-label: 
+
+label:
 "Continue"
 ,
 31
- 
-classes: 
+
+classes:
 "greenB"
 ,
 32
- 
+
 },
 33
- 
+
 ],
 34
 })
@@ -1653,7 +1653,7 @@ My solution: add 1000 extensions at a time until Firefox took too long to open. 
 
 3000 extensions was the last point where I was at least able to load webpages.
 
- 
+
 
 After 4000 or more extensions, the experience is basically identical. Here’s a video of mine (epilepsy warning):
 
@@ -1687,14 +1687,14 @@ May joked about a “version 2” that I dread thinking about.
 Defender marked one extension,HackTools, as malware.
 May excluded the folder after that, so it may not be the only one.
 
- 
+
 
 #### Launch 1
 
 Firefox took its sweet time remaking extensions.json, and it kept climbing.
 About 39 minutes of Firefox displaying a skeleton (hence “it has yet to render a second frame”) later, it was 189 MB large: a new record! May killed Firefox and ranenable.js.
 
- 
+
 
 I did some research to find why this took so long.13 years ago, extensions.json used to be extensions.sqlite.
 Nowadays, extensions.jsonisserialized and rewritten in full on every write debounced to 20 ms, which works fine for 15 extensions but not 84,194.
@@ -1704,7 +1704,7 @@ Nowadays, extensions.jsonisserialized and rewritten in full on every write debou
 Finally, we see the browser.
 The onboarding tabs trickled in, never loading.
 
- 
+
 
 3 minutes later, Firefox crashed.
 
@@ -1712,11 +1712,11 @@ The onboarding tabs trickled in, never loading.
 
 May reopened it, took a shower, and came back to this:
 
- 
+
 
 IT STABLIZED. YOU CAN (barely) RUN FIREFOX WITH ALL 84 THOUSAND EXTENSIONS.
 
- 
+
 
 Well, we were pretty sure it had 84 thousand extensions.
 It hadTab Counter, at least, and the scrollbar in the extensions panel was absolutely massive.
@@ -1725,7 +1725,7 @@ It hadTab Counter, at least, and the scrollbar in the extensions panel was absol
 
 It works.
 
- 
+
 
 ### about:addons
 
@@ -1733,7 +1733,7 @@ It works.
 
 She loaded the configure pages of two extensions. The options iframe never loaded.
 
- 
+
 
 #### Index page
 
@@ -1741,13 +1741,13 @@ I realized we need to disable auto update before Firefox sends another 84 thousa
 
 The list loaded but with no icons and stopped responding, and6 hours laterit had loaded fully.
 
- 
+
 
 We recorded the entire process; the memory usage fluctuated between 27 and 37 GiB the entire time.
 
 We did have basically every extension, including May’s ownmt-rpc.
 
- 
+
 
 Istillhave no idea whyabout:addonstook 6 hours to load.
 
@@ -1755,7 +1755,7 @@ I tested my first theory, the extension icons notloading lazily—ironically, se
 aone-line patch to Firefoxand installed 3 thousand (disabled) extensions on my Mac.
 To compile Firefox, I had to delete the extensions from Attempt 3 to free up storage.
 
- 
+
 
 I don’t think it reduced the amount of time Firefox was frozen for.
 To be fair, I tested with 28 times less extensions than Attempt 11, so perhaps the issue only manifests at that scale.
@@ -1766,7 +1766,7 @@ Wow, that’s a lot of extensions. You can’t be sure, though.
 
 I asked May to open DevTools and check$$("#addons-tbody tr").lengthso we could be sure what we thought was 84,205 extensions were running.
 
- 
+
 
 Readingabout:supportcloser, I realized my fear was correct, but not for the reason I expected: that 84,205 included the built-in addons like Web Compatibility Interventions.
 Excluding those, it was a total of 84,194 extensions we had installed.
@@ -1777,7 +1777,7 @@ Previously, I had written that DevTools had loaded no extensions because it was 
 
 We wanted to see how many New Tab options we can choose from.
 
- 
+
 
 We turned on crash reporting on the way.
 
@@ -1790,7 +1790,7 @@ The New Tab page never loaded, no matter which extension we selected for it, exc
 
 A page from thebuyPal(1 user) extension opened without action on our end and replaced the other tabs open at the time. It loaded: the only non-about:page to do so.
 
- 
+
 
 Then Firefox crashed again.
 
@@ -1805,7 +1805,7 @@ They didn’t matter, though, because we kept the tab open for24 hoursand it nev
 
 It loaded, then she clicked on Environment Data and the browser crashed.
 
- 
+
 
 ## Is this usable?
 

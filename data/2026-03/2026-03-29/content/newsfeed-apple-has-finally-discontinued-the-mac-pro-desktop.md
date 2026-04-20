@@ -35,22 +35,22 @@ That professional desktop was the Power Mac tower, which became the Mac Pro when
 The rate of improvement slowed in the early 2010s; the Mac Pro’s 2012 refreshbarely deserved the designation, offering just a handful of new configuration options for the 2010 model. And then came the trash can.
 
  “Can’t innovate, my ass!” Apple’s Phil Schiller introduces the tiny cylindrical Mac Pro in 2013.
- 
+
 
  Credit:
  Apple
- 
+
 
  “Can’t innovate, my ass!” Apple’s Phil Schiller introduces the tiny cylindrical Mac Pro in 2013.
 
- 
+
 
  Credit:
 
- 
+
  Apple
 
- 
+
 
 At just one-eighth the volume of the old Mac Pro tower, there was no denying thatthe system’s 2013 refreshwas dramatic or innovative. Its internal design was a unique triangle of circuit boards housing a single Intel Xeon workstation CPU (the old Pro tower had been available as a dual-socket system) and a pair of AMD Radeon GPUs.
 
@@ -69,19 +69,19 @@ Schiller said in that 2017 meeting that the new Mac Pro was being designed “so
 Apple Silicon ended up being the final nail in the coffin for the concept of the Mac Pro. The chips’ unified memory architecture meant memory upgrades were impossible. Their integrated GPUs meant they didn’t support external graphics cards from AMD or Nvidia and couldn’t be upgraded over time. High-speed Thunderbolt ports made internal expandability less necessary. Its built-in video encoders obviated the need for Afterburner cards. It was a Mac Studio with PCI Express slots that weren’t compatible with or didn’t need the most important PCI Express accessories. And now it’s gone.
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
- Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called 
+ Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called
 Overdue
 .
- 
+
 
 1. 1.Explanation for why we don't see two-foot-long dragonflies anymore fails
 2. 2.No one is happy with NASA's new idea for private space stations

@@ -16,7 +16,7 @@ tags:
 Daniel Rosenwasser
 
 Principal Product Manager
- 
+
 
 Today we are excited to announce the availability of TypeScript 6.0!
 
@@ -763,7 +763,7 @@ TypeScript
 
 Share
 
- 
+
 
 ## Author
 
@@ -772,9 +772,9 @@ Principal Product Manager
 
 Daniel Rosenwasser is the product manager of the TypeScript team. He has a passion for programming languages, compilers, and great developer tooling.
 
- 
 
- 
+
+
 
 ## Read next
 
@@ -790,18 +790,18 @@ February 11, 2026
 
 Daniel Rosenwasser
 
- 
+
 
 ## Stay informed
 
 Get notified when new posts are published.
 
-Email 
+Email
 *
 
- 
 
-Country/Region 
+
+Country/Region
 *
 
 Select...
@@ -1054,16 +1054,16 @@ Yemen
 Zambia
 Zimbabwe
 
-I would like to receive the TypeScript Newsletter. 
+I would like to receive the TypeScript Newsletter.
 Privacy Statement.
 
 Subscribe
 
- 
+
 
 Follow this blog
 
- 
+
 
 Are you sure you wish to delete this
  comment?

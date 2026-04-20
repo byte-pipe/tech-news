@@ -23,9 +23,9 @@ tags:
 Stefan Schüller
 
  
-included in 
+included in
  
-categories 
+categories
 Opinion
  
 Politics
@@ -237,6 +237,6 @@ Back
  | 
 Home
 Making a label printer work under Linux using agentic AI
-Please enable JavaScript to view the comments powered by 
+Please enable JavaScript to view the comments powered by
 Utterances
 .

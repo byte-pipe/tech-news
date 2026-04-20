@@ -67,13 +67,13 @@ So far, there’ve been few instances of Apple actually implementing technical c
 This story originally appeared onwired.com.
 
  WIRED
- 
+
 
  WIRED
- 
+
 
  Wired.com is your essential daily guide to what's next, delivering the most original and complete take you'll find anywhere on innovation's impact on technology, science, business and culture.
- 
+
 
 1. 1.Satellite firm pauses imagery after revealing Iran's attacks on US bases
 2. 2.Asteroid defense mission shifted the orbit of more than its target

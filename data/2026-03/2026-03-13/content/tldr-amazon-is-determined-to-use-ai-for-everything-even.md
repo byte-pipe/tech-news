@@ -20,7 +20,7 @@ View image in fullscreen
 
 Corporate employees said Amazon’s race to roll out AI is leading to surveillance, slop and ‘more work for everyone’.
 
- 
+
 
 When Dina, a software developer based in New York, joinedAmazontwo years ago, her job was to write code. Now, it’s mostly fixing what artificial intelligence breaks.
 

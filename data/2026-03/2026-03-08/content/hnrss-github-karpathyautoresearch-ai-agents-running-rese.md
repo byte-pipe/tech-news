@@ -14,7 +14,7 @@ tags:
 
 karpathy
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork604
 * Star4.9k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -119,7 +119,7 @@ Requirements:A single NVIDIA GPU (tested on H100), Python 3.10+,uv.
 #
  1. Install uv project manager (if you don't already have it)
 
-curl -LsSf https://astral.sh/uv/install.sh 
+curl -LsSf https://astral.sh/uv/install.sh
 |
  sh
 
@@ -179,43 +179,43 @@ AI agents running research on single-GPU nanochat training automatically
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 4.9k
 
  stars
- 
+
 
 ### Watchers
 
 48
 
  watching
- 
+
 
 ### Forks
 
 604
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -233,9 +233,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors5
 

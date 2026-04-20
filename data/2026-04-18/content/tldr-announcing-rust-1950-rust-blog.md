@@ -12,8 +12,8 @@ tags:
 ---
 
 Apr. 16, 2026 · The Rust Release Team
- 
- 
+
+
 
 The Rust team is happy to announce a new version of Rust, 1.95.0. Rust is a programming language empowering everyone to build reliable and efficient software.
 
@@ -35,109 +35,109 @@ syntax.cfg_select!expands to the right-hand side of the first arm whose
 configuration predicate evaluates totrue. Some examples:
 
 cfg_select!
- 
+
 {
 
- unix 
+ unix
 =>
- 
+
 {
 
- 
+
 fn
- 
+
 foo
 (
 )
- 
+
 {
- 
+
 /*
- unix specific functionality 
+ unix specific functionality
 */
- 
+
 }
 
- 
+
 }
 
- target_pointer_width 
+ target_pointer_width
 =
- 
+
 "
 32
 "
- 
+
 =>
- 
+
 {
 
- 
+
 fn
- 
+
 foo
 (
 )
- 
+
 {
- 
+
 /*
- non-unix, 32-bit functionality 
+ non-unix, 32-bit functionality
 */
- 
+
 }
 
- 
+
 }
 
- 
+
 _
- 
+
 =>
- 
+
 {
 
- 
+
 fn
- 
+
 foo
 (
 )
- 
+
 {
- 
+
 /*
- fallback implementation 
+ fallback implementation
 */
- 
+
 }
 
- 
+
 }
 
 }
 
 let
- is_windows_str 
+ is_windows_str
 =
- 
+
 cfg_select!
- 
+
 {
 
- windows 
+ windows
 =>
- 
+
 "
 windows
 "
 ,
 
- 
+
 _
- 
+
 =>
- 
+
 "
 not windows
 "
@@ -153,45 +153,45 @@ Rust 1.88 stabilizedlet chains. Rust
 based on pattern matching.
 
 match
- value 
+ value
 {
 
- 
+
 Some
 (
 x
 )
- 
+
 if
- 
+
 let
- 
+
 Ok
 (
 y
 )
- 
+
 =
- 
+
 compute
 (
 x
 )
- 
+
 =>
- 
+
 {
 
- 
+
 //
  Both `x` and `y` are available here
 
- 
+
 println!
 (
 "
 {}
-, 
+,
 {}
 "
 ,
@@ -201,14 +201,14 @@ println!
 )
 ;
 
- 
+
 }
 
- 
+
 _
- 
+
 =>
- 
+
 {
 }
 

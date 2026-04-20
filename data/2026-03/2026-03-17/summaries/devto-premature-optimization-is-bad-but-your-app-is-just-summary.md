@@ -36,7 +36,7 @@ A broader issue is that many developers apply premature optimization principles 
 - Raising disk reads during database round-trips to reduce query time
 - Trailing unnecessary code, such as printing variables, making small modifications to the query itself
 
-By analyzing and explaining these patterns that lead to performance issues without providing a clear advantage, developers can reflect on their approach and learn from the author's message. 
+By analyzing and explaining these patterns that lead to performance issues without providing a clear advantage, developers can reflect on their approach and learn from the author's message.
 
 ### Conclusion
 

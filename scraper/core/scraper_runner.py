@@ -190,14 +190,19 @@ def fetch_content_for_results(site_name, results, max_articles=5, force=False):
     # Sort results by some measure of importance (if available)
     # GitHub: stars, HN: points, etc.
     if results and isinstance(results[0], dict):
+        def _to_int(val, default=0):
+            try:
+                return int(str(val).replace("k", "000").replace(".", ""))
+            except (ValueError, TypeError):
+                return default
+
         if "stars" in results[0]:
-            results.sort(key=lambda x: int(str(x.get("stars", "0")).replace("k", "000").replace(".", "")), reverse=True)
+            results.sort(key=lambda x: _to_int(x.get("stars", 0)), reverse=True)
         elif "score" in results[0] or "points" in results[0]:
             key = "score" if "score" in results[0] else "points"
-            # Handle both string and integer values for API scrapers
-            results.sort(key=lambda x: int(str(x.get(key, "0")).replace("k", "000").replace(".", "")) if isinstance(x.get(key), (str, int)) else 0, reverse=True)
+            results.sort(key=lambda x: _to_int(x.get(key, 0)), reverse=True)
         elif "today_stars" in results[0]:
-            results.sort(key=lambda x: int(str(x.get("today_stars", "0")).replace("k", "000").replace(".", "")), reverse=True)
+            results.sort(key=lambda x: _to_int(x.get("today_stars", 0)), reverse=True)
 
     # Select top N *new* URLs (skip already-processed ones)
     registry = get_url_registry(str(config.project_root))
@@ -234,9 +239,11 @@ def fetch_content_for_results(site_name, results, max_articles=5, force=False):
                 enhanced_result = content_fetcher.fetch_content(result["url"], site_name, result, force=force)
                 fetch_duration = time.time() - fetch_start
 
-                # Record HTTP request metrics
+                # Record HTTP request metrics (skipped items are not failures)
+                skipped = enhanced_result.get("skipped", False)
                 success = "local_path" in enhanced_result
-                metrics_collector.record_http_request(status_code=200 if success else None, success=success, duration=fetch_duration)
+                if not skipped:
+                    metrics_collector.record_http_request(status_code=200 if success else None, success=success, duration=fetch_duration)
 
                 # Record operation duration
                 metrics_collector.record_operation_duration("content_fetch", fetch_duration)
@@ -245,9 +252,9 @@ def fetch_content_for_results(site_name, results, max_articles=5, force=False):
                 if "local_path" in enhanced_result:
                     logger.info(f"Content saved to: {enhanced_result['local_path']}")
                     structured_logger.log_http_request(method="GET", url=result["url"], status_code=200, duration=fetch_duration)
+                    fetched_count += 1
 
                 enhanced_results.append(enhanced_result)
-                fetched_count += 1
 
         except Exception as e:
             logger.error(f"Error fetching content for {result.get('title', result['url'])}: {str(e)}")

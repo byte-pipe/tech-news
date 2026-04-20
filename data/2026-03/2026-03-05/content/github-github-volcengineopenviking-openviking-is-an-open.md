@@ -11,7 +11,7 @@ description: OpenViking is an open-source context database designed specifically
 
 volcengine
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork357
 * Star4.7k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -211,7 +211,7 @@ pip install openviking --upgrade --force-reinstall
 
 #### Rust CLI (Optional)
 
-curl -fsSL https://raw.githubusercontent.com/volcengine/OpenViking/main/crates/ov_cli/install.sh 
+curl -fsSL https://raw.githubusercontent.com/volcengine/OpenViking/main/crates/ov_cli/install.sh
 |
  bash
 
@@ -252,7 +252,7 @@ litellm
 
 统一调用多种第三方模型 (Anthropic, DeepSeek, Gemini, vLLM, Ollama, etc.)
 
-See 
+See
 LiteLLM Providers
 
 💡Tip:
@@ -267,33 +267,33 @@ Volcengine (Doubao)
 Volcengine supports both model names and endpoint IDs. Using model names is recommended for simplicity:
 
 {
- 
+
 "vlm"
 : {
- 
+
 "provider"
-: 
+:
 "
 volcengine
 "
 ,
- 
+
 "model"
-: 
+:
 "
 doubao-seed-2-0-pro-260215
 "
 ,
- 
+
 "api_key"
-: 
+:
 "
 your-api-key
 "
 ,
- 
+
 "api_base"
-: 
+:
 "
 https://ark.cn-beijing.volces.com/api/v3
 "
@@ -304,33 +304,33 @@ https://ark.cn-beijing.volces.com/api/v3
 You can also use endpoint IDs (found inVolcengine ARK Console):
 
 {
- 
+
 "vlm"
 : {
- 
+
 "provider"
-: 
+:
 "
 volcengine
 "
 ,
- 
+
 "model"
-: 
+:
 "
 ep-20241220174930-xxxxx
 "
 ,
- 
+
 "api_key"
-: 
+:
 "
 your-api-key
 "
 ,
- 
+
 "api_base"
-: 
+:
 "
 https://ark.cn-beijing.volces.com/api/v3
 "
@@ -343,33 +343,33 @@ OpenAI
 Use OpenAI's official API:
 
 {
- 
+
 "vlm"
 : {
- 
+
 "provider"
-: 
+:
 "
 openai
 "
 ,
- 
+
 "model"
-: 
+:
 "
 gpt-4o
 "
 ,
- 
+
 "api_key"
-: 
+:
 "
 your-api-key
 "
 ,
- 
+
 "api_base"
-: 
+:
 "
 https://api.openai.com/v1
 "
@@ -380,33 +380,33 @@ https://api.openai.com/v1
 You can also use a custom OpenAI-compatible endpoint:
 
 {
- 
+
 "vlm"
 : {
- 
+
 "provider"
-: 
+:
 "
 openai
 "
 ,
- 
+
 "model"
-: 
+:
 "
 gpt-4o
 "
 ,
- 
+
 "api_key"
-: 
+:
 "
 your-api-key
 "
 ,
- 
+
 "api_base"
-: 
+:
 "
 https://your-custom-endpoint.com/v1
 "
@@ -421,26 +421,26 @@ LiteLLM provides unified access to various models. Themodelfield should follow L
 Anthropic:
 
 {
- 
+
 "vlm"
 : {
- 
+
 "provider"
-: 
+:
 "
 litellm
 "
 ,
- 
+
 "model"
-: 
+:
 "
 claude-3-5-sonnet-20240620
 "
 ,
- 
+
 "api_key"
-: 
+:
 "
 your-anthropic-api-key
 "
@@ -451,35 +451,35 @@ your-anthropic-api-key
 Qwen (DashScope):
 
 {
- 
+
 "vlm"
 : {
- 
+
 "provider"
-: 
+:
 "
 litellm
 "
 ,
- 
+
 "model"
-: 
+:
 "
 dashscope/qwen-turbo
 "
-, 
+,
 // see https://docs.litellm.ai/docs/providers/dashscope for more details
 
- 
+
 "api_key"
-: 
+:
 "
 your-dashscope-api-key
 "
 ,
- 
+
 "api_base"
-: 
+:
 "
 https://dashscope.aliyuncs.com/compatible-mode/v1
 "
@@ -504,28 +504,28 @@ Anthropic
 
 claude-3-5-sonnet-20240620
 
-Auto-detected, uses 
+Auto-detected, uses
 ANTHROPIC_API_KEY
 
 DeepSeek
 
 deepseek-chat
 
-Auto-detected, uses 
+Auto-detected, uses
 DEEPSEEK_API_KEY
 
 Gemini
 
 gemini-pro
 
-Auto-detected, uses 
+Auto-detected, uses
 GEMINI_API_KEY
 
 Qwen
 
 dashscope/qwen-turbo
 
-Set 
+Set
 api_base
  based on region (see above)
 
@@ -539,7 +539,7 @@ vLLM
 
 hosted_vllm/llama-3.1-8b
 
-Set 
+Set
 api_base
  to vLLM server
 
@@ -547,7 +547,7 @@ Ollama
 
 ollama/llama3.1
 
-Set 
+Set
 api_base
  to Ollama server
 
@@ -561,26 +561,26 @@ ollama serve
 // Ollama
 
 {
- 
+
 "vlm"
 : {
- 
+
 "provider"
-: 
+:
 "
 litellm
 "
 ,
- 
+
 "model"
-: 
+:
 "
 ollama/llama3.1
 "
 ,
- 
+
 "api_base"
-: 
+:
 "
 http://localhost:11434
 "
@@ -597,139 +597,139 @@ For complete model support, seeLiteLLM Providers Documentation.
 Create a configuration file~/.openviking/ov.conf, remove the comments before copy:
 
 {
- 
+
 "storage"
 : {
- 
+
 "workspace"
-: 
+:
 "
 /home/your-name/openviking_workspace
 "
 
  },
- 
+
 "log"
 : {
- 
+
 "level"
-: 
+:
 "
 INFO
 "
 ,
- 
+
 "output"
-: 
+:
 "
 stdout
 "
- 
+
 // Log output: "stdout" or "file"
 
  },
- 
+
 "embedding"
 : {
- 
+
 "dense"
 : {
- 
+
 "api_base"
- : 
+ :
 "
 <api-endpoint>
 "
-, 
+,
 // API endpoint address
 
- 
+
 "api_key"
- : 
+ :
 "
 <your-api-key>
 "
-, 
+,
 // Model service API Key
 
- 
+
 "provider"
- : 
+ :
 "
 <provider-type>
 "
-, 
+,
 // Provider type: "volcengine" or "openai" (currently supported)
 
- 
+
 "dimension"
-: 
+:
 1024
-, 
+,
 // Vector dimension
 
- 
+
 "model"
- : 
+ :
 "
 <model-name>
 "
- 
+
 // Embedding model name (e.g., doubao-embedding-vision-250615 or text-embedding-3-large)
 
  },
- 
+
 "max_concurrent"
-: 
+:
 10
- 
+
 // Max concurrent embedding requests (default: 10)
 
  },
- 
+
 "vlm"
 : {
- 
+
 "api_base"
- : 
+ :
 "
 <api-endpoint>
 "
-, 
+,
 // API endpoint address
 
- 
+
 "api_key"
- : 
+ :
 "
 <your-api-key>
 "
-, 
+,
 // Model service API Key
 
- 
+
 "provider"
- : 
+ :
 "
 <provider-type>
 "
-, 
+,
 // Provider type (volcengine, openai, deepseek, anthropic, etc.)
 
- 
+
 "model"
- : 
+ :
 "
 <model-name>
 "
-, 
+,
 // VLM model name (e.g., doubao-seed-2-0-pro-260215 or gpt-4-vision-preview)
 
- 
+
 "max_concurrent"
-: 
+:
 100
- 
+
 // Max concurrent LLM calls for semantic processing (default: 100)
 
  }
@@ -744,117 +744,117 @@ Note: For embedding models, currentlyvolcengine(Doubao),openai, andjinaproviders
 Example 1: Using Volcengine (Doubao Models)
 
 {
- 
+
 "storage"
 : {
- 
+
 "workspace"
-: 
+:
 "
 /home/your-name/openviking_workspace
 "
 
  },
- 
+
 "log"
 : {
- 
+
 "level"
-: 
+:
 "
 INFO
 "
 ,
- 
+
 "output"
-: 
+:
 "
 stdout
 "
- 
+
 // Log output: "stdout" or "file"
 
  },
- 
+
 "embedding"
 : {
- 
+
 "dense"
 : {
- 
+
 "api_base"
- : 
+ :
 "
 https://ark.cn-beijing.volces.com/api/v3
 "
 ,
- 
+
 "api_key"
- : 
+ :
 "
 your-volcengine-api-key
 "
 ,
- 
+
 "provider"
- : 
+ :
 "
 volcengine
 "
 ,
- 
+
 "dimension"
-: 
+:
 1024
 ,
- 
+
 "model"
- : 
+ :
 "
 doubao-embedding-vision-250615
 "
 
  },
- 
+
 "max_concurrent"
-: 
+:
 10
 
  },
- 
+
 "vlm"
 : {
- 
+
 "api_base"
- : 
+ :
 "
 https://ark.cn-beijing.volces.com/api/v3
 "
 ,
- 
+
 "api_key"
- : 
+ :
 "
 your-volcengine-api-key
 "
 ,
- 
+
 "provider"
- : 
+ :
 "
 volcengine
 "
 ,
- 
+
 "model"
- : 
+ :
 "
 doubao-seed-2-0-pro-260215
 "
 ,
- 
+
 "max_concurrent"
-: 
+:
 100
 
  }
@@ -863,117 +863,117 @@ doubao-seed-2-0-pro-260215
 Example 2: Using OpenAI Models
 
 {
- 
+
 "storage"
 : {
- 
+
 "workspace"
-: 
+:
 "
 /home/your-name/openviking_workspace
 "
 
  },
- 
+
 "log"
 : {
- 
+
 "level"
-: 
+:
 "
 INFO
 "
 ,
- 
+
 "output"
-: 
+:
 "
 stdout
 "
- 
+
 // Log output: "stdout" or "file"
 
  },
- 
+
 "embedding"
 : {
- 
+
 "dense"
 : {
- 
+
 "api_base"
- : 
+ :
 "
 https://api.openai.com/v1
 "
 ,
- 
+
 "api_key"
- : 
+ :
 "
 your-openai-api-key
 "
 ,
- 
+
 "provider"
- : 
+ :
 "
 openai
 "
 ,
- 
+
 "dimension"
-: 
+:
 3072
 ,
- 
+
 "model"
- : 
+ :
 "
 text-embedding-3-large
 "
 
  },
- 
+
 "max_concurrent"
-: 
+:
 10
 
  },
- 
+
 "vlm"
 : {
- 
+
 "api_base"
- : 
+ :
 "
 https://api.openai.com/v1
 "
 ,
- 
+
 "api_key"
- : 
+ :
 "
 your-openai-api-key
 "
 ,
- 
+
 "provider"
- : 
+ :
 "
 openai
 "
 ,
- 
+
 "model"
- : 
+ :
 "
 gpt-4-vision-preview
 "
 ,
- 
+
 "max_concurrent"
-: 
+:
 100
 
  }
@@ -986,7 +986,7 @@ After creating the configuration file, set the environment variable to point to 
 export
  OPENVIKING_CONFIG_FILE=
 ~
-/.openviking/ov.conf 
+/.openviking/ov.conf
 #
  by default
 
@@ -997,9 +997,9 @@ PowerShell:
 $
 env:
 OPENVIKING_CONFIG_FILE
- 
+
 =
- 
+
 "
 $HOME
 /.openviking/ov.conf
@@ -1008,7 +1008,7 @@ $HOME
 Command Prompt (cmd.exe):
 
 set
- 
+
 "
 OPENVIKING_CONFIG_FILE
 =
@@ -1025,21 +1025,21 @@ OPENVIKING_CONFIG_FILE
 Example: ovcli.conf for visiting localhost server
 
 {
- 
+
 "url"
-: 
+:
 "
 http://localhost:1933
 "
 ,
- 
+
 "timeout"
-: 
+:
 60.0
 ,
- 
+
 "output"
-: 
+:
 "
 table
 "
@@ -1051,7 +1051,7 @@ After creating the configuration file, set the environment variable to point to 
 export
  OPENVIKING_CLI_CONFIG_FILE=
 ~
-/.openviking/ovcli.conf 
+/.openviking/ovcli.conf
 #
  by default
 
@@ -1062,9 +1062,9 @@ PowerShell:
 $
 env:
 OPENVIKING_CLI_CONFIG_FILE
- 
+
 =
- 
+
 "
 $HOME
 /.openviking/ovcli.conf
@@ -1073,7 +1073,7 @@ $HOME
 Command Prompt (cmd.exe):
 
 set
- 
+
 "
 OPENVIKING_CLI_CONFIG_FILE
 =
@@ -1093,17 +1093,17 @@ openviking-server
 
 or you can run in background
 
-nohup openviking-server 
+nohup openviking-server
 >
- /data/log/openviking.log 
+ /data/log/openviking.log
 2>&1
- 
+
 &
 
 #### Run the CLI
 
 ov status
-ov add-resource https://github.com/volcengine/OpenViking 
+ov add-resource https://github.com/volcengine/OpenViking
 #
  --wait
 
@@ -1113,12 +1113,12 @@ ov tree viking://resources/volcengine -L 2
 #
  wait some time for semantic processing if not --wait
 
-ov find 
+ov find
 "
 what is openviking
 "
 
-ov grep 
+ov grep
 "
 openviking
 "
@@ -1336,56 +1336,56 @@ openviking.ai
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 4.7k
 
  stars
- 
+
 
 ### Watchers
 
 26
 
  watching
- 
+
 
 ### Forks
 
 357
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases14
 
@@ -1393,11 +1393,11 @@ v0.2.3
 
  Latest
 
- 
+
 
 Mar 3, 2026
 
- 
+
 
 + 13 releases
 
@@ -1413,17 +1413,17 @@ Mar 3, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1431,9 +1431,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

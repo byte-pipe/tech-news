@@ -127,7 +127,7 @@ Total: 49 tests, 108 assertions, 4 bugs caught before they shipped. Not bad for 
 
 One command:
 
-curl 
+curl
 -sL
  https://raw.githubusercontent.com/vlad-ko/claude-wizard/main/install.sh | bash
 
@@ -174,7 +174,7 @@ It came out of buildingwealthbot.io, a fintech platform where "it mostly works" 
 If you try it, I'd love to hear what it catches for you.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

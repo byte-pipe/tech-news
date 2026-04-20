@@ -148,7 +148,7 @@ I decided to take to Mastodon to ask my fellow Eleventy devs how they feel about
 —Cobb
 
 Elle the 11ty Possum
-, illustrated by 
+, illustrated by
 David Neal
 
 ## Epilogue: The Mascot
@@ -221,7 +221,7 @@ Tipa
 
 March 4, 2026
 
-@brennan having read the article, I guess my website needs my Github link to comment, since it doesn't support (checks where I am) Mastodon links ???? 
+@brennan having read the article, I guess my website needs my Github link to comment, since it doesn't support (checks where I am) Mastodon links ????
 
 I didn't know Font Awesome was in the mix. They were great back in the day, less so now.
 
@@ -237,7 +237,7 @@ vga256
 
 March 4, 2026
 
-@brennan thanks for the writeup. i can't pretend to understand all of the subtleties, but it was helpful understanding why people preferred 11ty to other ssg's. 
+@brennan thanks for the writeup. i can't pretend to understand all of the subtleties, but it was helpful understanding why people preferred 11ty to other ssg's.
 
 the part that 11ty and the rest, imo, haven't solved are the source trees. they're *massive*. big, complex and diffic…
 

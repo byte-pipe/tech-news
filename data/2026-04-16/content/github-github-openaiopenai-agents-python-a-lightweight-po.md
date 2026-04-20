@@ -11,7 +11,7 @@ description: A lightweight, powerful framework for multi-agent workflows - opena
 
 openai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork3.4k
 * Star20.9k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -168,7 +168,7 @@ To get started, set up your Python environment (Python 3.10 or newer required), 
 python -m venv .venv
 
 source
- .venv/bin/activate 
+ .venv/bin/activate
 #
  On Windows: .venv\Scripts\activate
 
@@ -190,95 +190,95 @@ For voice support, install with the optionalvoicegroup:uv add 'openai-agents[voi
 Sandbox Agentsare new in version 0.14.0. A sandbox agent is an agent that uses a computer environment to perform real work with a filesystem, in an environment you configure and control. Sandbox agents are useful when the agent needs to inspect files, run commands, apply patches, or carry workspace state across longer tasks.
 
 from
- 
+
 agents
- 
+
 import
- 
+
 Runner
 
 from
- 
+
 agents
 .
 run
- 
+
 import
- 
+
 RunConfig
 
 from
- 
+
 agents
 .
 sandbox
- 
+
 import
- 
+
 Manifest
-, 
+,
 SandboxAgent
-, 
+,
 SandboxRunConfig
 
 from
- 
+
 agents
 .
 sandbox
 .
 entries
- 
+
 import
- 
+
 GitRepo
 
 from
- 
+
 agents
 .
 sandbox
 .
 sandboxes
- 
+
 import
- 
+
 UnixLocalSandboxClient
 
 agent
- 
+
 =
- 
+
 SandboxAgent
 (
- 
+
 name
 =
 "Workspace Assistant"
 ,
- 
+
 instructions
 =
 "Inspect the sandbox workspace before answering."
 ,
- 
+
 default_manifest
 =
 Manifest
 (
- 
+
 entries
 =
 {
- 
+
 "repo"
-: 
+:
 GitRepo
 (
 repo
 =
 "openai/openai-agents-python"
-, 
+,
 ref
 =
 "main"
@@ -288,23 +288,23 @@ ref
 )
 
 result
- 
+
 =
- 
+
 Runner
 .
 run_sync
 (
- 
+
 agent
 ,
- 
+
 "Inspect the repo README and summarize what this project does."
 ,
- 
+
 # Run this agent on the local filesystem
 
- 
+
 run_config
 =
 RunConfig
@@ -382,51 +382,51 @@ openai.github.io/openai-agents-python/
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 20.9k
 
  stars
- 
+
 
 ### Watchers
 
 191
 
  watching
- 
+
 
 ### Forks
 
 3.4k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases83
 
@@ -434,11 +434,11 @@ v0.14.1
 
  Latest
 
- 
+
 
 Apr 15, 2026
 
- 
+
 
 + 82 releases
 
@@ -446,9 +446,9 @@ Apr 15, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -456,9 +456,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

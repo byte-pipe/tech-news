@@ -34,19 +34,19 @@ Works best with files under 10 MB
 Upload & Generate
 
  Uploading PDF
- 
+
 
  Security check & classification
- 
+
 
  Reading paper
- 
+
 
  Generating interactive page
- 
+
 
  Publishing to web
- 
+
 
 Copy
 

@@ -17,11 +17,11 @@ tags:
 
  March 05, 2026 [
 c
-, 
+,
 project
-, 
+,
 compiler
-, 
+,
 emacs
 ] #
 c
@@ -33,8 +33,8 @@ history
 lisp
  #
 compiler
- 
- 
+
+
 
 In the first part of this GNU Emacs series, I focused on the history and explains why there is a Lisp interpreter embedded inside a text editor. Before diving into this part, I recommend reading the previous post:
 
@@ -81,15 +81,15 @@ From mathematical computation to a Von Neumann machine, the computation can be l
 
 o
 p
- 
+
 r
 d
 ,
- 
+
 r
 1
 ,
- 
+
 r
 2
 
@@ -145,84 +145,84 @@ Because all heap-allocated objects are 8-byte aligned (due toGCALIGNMENT), their
 The tag is a enum, namedLisp_Type. And the simplified source code is as below:
 
 enum
- 
+
 Lisp_Type
 
- 
+
 {
 
- Lisp_Symbol 
+ Lisp_Symbol
 =
- 
+
 0
 ,
- 
+
 //
  0b000
 
- Lisp_Type_Unused0 
+ Lisp_Type_Unused0
 =
- 
+
 1
 ,
- 
+
 //
  0b001
 
- Lisp_Int0 
+ Lisp_Int0
 =
- 
+
 2
 ,
- 
+
 //
  0b010
 
- Lisp_Int1 
+ Lisp_Int1
 =
- 
+
 6
 ,
- 
+
 //
  0b110 <-- !
 
- Lisp_String 
+ Lisp_String
 =
- 
+
 4
 ,
- 
+
 //
  0b100
 
- Lisp_Vectorlike 
+ Lisp_Vectorlike
 =
- 
+
 5
 ,
- 
+
 //
  0b101
 
- Lisp_Cons 
+ Lisp_Cons
 =
- 
+
 3
 ,
- 
+
 //
  0b010 <-- !
 
- Lisp_Float 
+ Lisp_Float
 =
- 
+
 7
- 
+
 //
  0b111
 
- 
+
 }
 ;
 
@@ -282,30 +282,30 @@ For example, to check if an object is an integer and then read it:
  Source: src/bignum.h
 
 if
- 
+
 (
 FIXNUMP
- 
+
 (
 obj
 )
 )
- 
+
 //
  P: check type tag
 
 {
 
- EMACS_INT n 
+ EMACS_INT n
 =
- 
+
 XFIXNUM
- 
+
 (
 obj
 )
 ;
- 
+
 //
  X: extract value
 
@@ -319,16 +319,16 @@ ForXFIXNUMthe mask is 2 bits, so
  Source: src/lisp.h — XFIXNUM_RAW
 
 return
- 
+
 XLI
 (
 a
 )
- 
+
 >>
  INTTYPEBITS
 ;
- 
+
 //
  INTTYPEBITS = 2 for fixnums
 
@@ -340,43 +340,43 @@ and for other types usingXUNTAG:
  Source: src/lisp.h — XUNTAG (for pointer types: XCONS, XSTRING, XSYMBOL, ...)
 
 #define
- 
+
 XUNTAG
 (
 a
 ,
- 
+
 type
 ,
- 
+
 ctype
 )
- 
+
 \
 
- 
+
 (
 (
-ctype 
+ctype
 *
 )
- 
+
 (
 (
 uintptr_t
 )
- 
+
 XLP
 (
 a
 )
- 
+
 -
- 
+
 (
 uintptr_t
 )
- 
+
 LISP_WORD_TAG
 (
 type
@@ -388,15 +388,15 @@ type
  e.g. XCONS expands to:
 
 return
- 
+
 XUNTAG
- 
+
 (
 a
 ,
  Lisp_Cons
 ,
- 
+
 struct
  Lisp_Cons
 )
@@ -465,9 +465,9 @@ File
 atom
 is it NOT a pair?
 !CONSP(obj)
- (e.g., 
+ (e.g.,
 EMACS_INT
-, 
+,
 struct Lisp_String
 , etc.)
 lisp.h
@@ -481,7 +481,7 @@ lisp.h
 car
 first element of pair
 struct Lisp_Cons
- - 
+ -
 .car
  field
 lisp.h
@@ -489,7 +489,7 @@ lisp.h
 cdr
 rest of pair
 struct Lisp_Cons
- - 
+ -
 .cdr
  field
 lisp.h
@@ -497,7 +497,7 @@ lisp.h
 cons
 construct a new pair
 struct Lisp_Cons
- allocated by 
+ allocated by
 Fcons()
 alloc.c
 

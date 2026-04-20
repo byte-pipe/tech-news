@@ -1,7 +1,7 @@
 ---
 title: GitHub - YishenTu/claudian: An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault · GitHub
 url: https://github.com/YishenTu/claudian
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-16T11:42:28.712911

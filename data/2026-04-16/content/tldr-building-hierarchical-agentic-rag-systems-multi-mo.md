@@ -14,9 +14,9 @@ tags:
 InfoQ HomepageArticlesBuilding Hierarchical Agentic RAG Systems: Multi-Modal Reasoning with Autonomous Error Recovery
 
  AI, ML & Data Engineering
- 
 
-Designing Data Layers for Agentic AI: Patterns for State, Memory, and Coordination at Scale (Webinar May 12th) 
+
+Designing Data Layers for Agentic AI: Patterns for State, Memory, and Coordination at Scale (Webinar May 12th)
 
 # Building Hierarchical Agentic RAG Systems: Multi-Modal Reasoning with Autonomous Error Recovery
 
@@ -35,8 +35,8 @@ reviewed by
 
 Feed your curiosity.
 
-Help 550k+ global 
-senior developers 
+Help 550k+ global
+senior developers
 each month stay ahead.
 Get in touch
 
@@ -681,15 +681,15 @@ Note: Version numbers reflect those used during benchmark testing (Q4 2025)
 
 Open-source repository is availablehere.
 
- 
+
 
 ## About the Author
 
- 
 
- 
 
- 
+
+
+
 
 #### Abhijit Ubale
 
@@ -736,7 +736,7 @@ Select your country
 
 Select a country
 
-I consent to InfoQ.com handling my data as explained in this 
+I consent to InfoQ.com handling my data as explained in this
 Privacy Notice
 .
 

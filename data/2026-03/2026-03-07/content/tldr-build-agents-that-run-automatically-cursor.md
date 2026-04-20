@@ -13,9 +13,9 @@ tags:
 ---
 
 Blog
- 
+
 /
- 
+
 product
 
 We're introducing Cursor Automations to build always-on agents.
@@ -26,7 +26,7 @@ I love that automations work for both quick wins and more complex workflows. I c
 
 Trent Haines
 Software Engineer
-, 
+,
 Decagon
 
 ## #Upgrading the software engineering pipeline
@@ -81,7 +81,7 @@ Automations have made the repetitive aspects of my work easy to offload. By maki
 
 Tim Fall
 Senior Staff Software Engineer
-, 
+,
 Rippling
 
 ## #The factory that creates your software
@@ -92,7 +92,7 @@ We built our software factory using Cursor Automations with Runlayer MCP and plu
 
 Tal Peretz
 Co-founder
-, 
+,
 Runlayer
 
 Try creating an automation atcursor.com/automations, or start from atemplate. Learn more in thedocs.

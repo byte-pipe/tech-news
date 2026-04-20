@@ -1,7 +1,7 @@
 ---
 title: "GitHub - jarrodwatts/claude-hud: A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress · G..."
 url: https://github.com/jarrodwatts/claude-hud
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-17T11:23:09.967249

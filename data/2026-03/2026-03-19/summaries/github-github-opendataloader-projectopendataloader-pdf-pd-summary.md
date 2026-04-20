@@ -1,7 +1,7 @@
 ---
 title: GitHub - opendataloader-project/opendataloader-pdf: PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. · GitHub
 url: https://github.com/opendataloader-project/opendataloader-pdf
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-19T11:29:36.448210
@@ -52,7 +52,7 @@ Opendataloader-Project is a comprehensive PDF parser for AI-ready data. Our tool
 
 * Markdown (tables, formulas, images)
 * JSON (with bounding boxes)
-* HTML 
+* HTML
 * Tables
 * Scientific paper structures
 * Images

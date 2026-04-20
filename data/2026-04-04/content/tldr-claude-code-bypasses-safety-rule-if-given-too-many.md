@@ -15,7 +15,7 @@ tags:
 
 # Claude Code bypasses safety rule if given too many commands
 
- 
+
 
 ## A hard-coded limit on deny rules drops automatic enforcement for concatenated commands
 
@@ -52,10 +52,10 @@ Anthropic did not immediately respond to a request for comment. ®
 
 After this story was filed, Adversa said that the vulnerability appears to have been fixed without notice in the newly releasedClaude Code v2.1.90.
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

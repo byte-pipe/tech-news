@@ -59,10 +59,10 @@ Additional reporting from Rafe Rosner-Uddin and Stephen Morris.
 © 2026 The Financial Times Ltd.All rights reserved.Not to be redistributed, copied, or modified in any way.
 
  Financial Times
- 
+
 
  Financial Times
- 
+
 
 1. 1.Here's what that Claude Code source leak reveals about Anthropic's plans
 2. 2.Launch day has arrived for NASA's Artemis II mission—here's what to expect

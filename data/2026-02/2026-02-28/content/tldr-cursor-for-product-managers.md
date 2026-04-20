@@ -154,13 +154,13 @@ Assign tickets directly to Builder.io's agent. It reads the acceptance criteria,
 
 Run multiple agents simultaneously, each in its own cloud container. Batch-assign five tickets, grab coffee, and review the PRs when you get back.
 
- 
+
 
 ### Role-based collaboration
 
 PMs and designers propose and verify changes in a visual workspace. Developers review and merge production code via PRs. The handoff becomes a clean review-and-merge workflow where everyone sees the same thing.
 
- 
+
 
 ### Agentic PRs
 

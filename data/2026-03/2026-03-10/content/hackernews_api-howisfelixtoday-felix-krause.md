@@ -17,10 +17,10 @@ KrauseFx
 
 instapipe.net
 
- < 
+ <
 
  >
- 
+
 
 ## Felixis currently inVienna, AT
 
@@ -39,26 +39,26 @@ To
 ### Felix ate today
 
 54kcal
- of 
-2920 
+ of
+2920
 
 54g carbs
- of 
+ of
 350
 g
- 
+
 
 24g protein
- of 
+ of
 200
 g
- 
+
 
 16g fat
- of 
+ of
 80
 g
- 
+
 
 Food
 Amount
@@ -89,7 +89,7 @@ Height
 Slept
 
 9 hours
- 
+
 (last night)
 
 Last Workout
@@ -199,8 +199,8 @@ Visualization of the number of data entries inFxLifeSheetover the last 10 years,
 * I was able to retrospectively fetch the historic weather data based on my location on a given day
 * I also implemented other import sources, like fetching my historic weight and the number of steps from Apple Health
 
- Sources: 
- 
+ Sources:
+
 
 10 years of data - Last updated on 2022-01-01
 
@@ -218,11 +218,11 @@ On days where I tracked my mood to be "happy" & "excited", the following other f
 * 20% more likely to have learned something new that day
 * 45% less time spent in video & audio calls that day
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -233,11 +233,11 @@ All flights taken within the last 7 years, tracked usingFoursquare Swarm, analyz
 * The stats clearly show the impact of COVID starting 2020
 * Sunday has been my "commute" day, flying between San Francisco, New York City and Vienna
 
- Sources: 
- 
+ Sources:
+
 
  JetLovers, Swarm
- 
+
 
 7 years of data - Last updated on 2022-01-01
 
@@ -248,11 +248,11 @@ All flights taken within the last 7 years, tracked usingFoursquare Swarm, analyz
 * Frankfurt - Vienna was the flight connecting me with most US airports
 * Germany is high up on the list due to layovers, even though I didn't spend actually much time there
 
- Sources: 
- 
+ Sources:
+
 
  JetLovers, Swarm
- 
+
 
 7 years of data - Last updated on 2022-01-01
 
@@ -267,11 +267,11 @@ Inspired byYour Life in Weeks by WaitButWhy, I use Google Sheets to visualize ev
 * Shades of red is formal education
 * You can create your own version usingmy template
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 27.5 years of data - Last updated on 2022-02-24
 
@@ -285,11 +285,11 @@ Average daily steps measured through the iPhone's Apple Health app. I decided ag
 * Although Vienna is very walkable, the excellent public transit system with subway trains coming every 3-5 minutes, has caused me to walk less
 * San Francisco was always scary to walk
 
- Sources: 
- 
+ Sources:
+
 
  Apple Health
- 
+
 
 8 years of data - Last updated on 2022-01-01
 
@@ -303,11 +303,11 @@ This graph clearly shows the correlation between my body weight and my sleeping/
 * After a night of drinking, my resting/sleeping heart rate was about 50% higher than after a night without any alcohol
 * The spike in resting heart rate in Oct/Nov/Dec 2021 was due to having bronchitis and a cold/flu, not getting correct treatment early enough
 
- Sources: 
- 
+ Sources:
+
 
  Withings ScanWatch, Withings Scale
- 
+
 
 1.5 years of data - Last updated on 2022-02-09
 
@@ -320,11 +320,11 @@ Every day I answered the question on how healthy I felt. In the graph, the yello
 * Q4 2021 I had bronchitis, however, I didn't know about it at the time and didn't get proper treatment
 * Overall I'm quite prone to getting sick (cold/flu)
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -338,11 +338,11 @@ On days where I had more than 4 alcoholic beverages (meaning I was partying), th
 * 40% warmer temperatures, and 40% less precipitation. There weren't many opportunities for parties in Winter due to lockdowns in the last 2 years. Also, people are more motivated to go out when it's nice outside.
 * 25% more steps
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -354,11 +354,11 @@ MyFxLifeSheet botasks me 4 times a day how I'm feeling at the moment.
 * I designed the ranges so that 0 or 5 are not entered as much. 0 is rendered as dark green at the top, whereas 5 is rendered as light green at the bottom.
 * For privacy reasons I won't get into some of the details on why certain months were worse than others.
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 4 years of data - Last updated on 2022-01-01
 
@@ -366,11 +366,11 @@ MyFxLifeSheet botasks me 4 times a day how I'm feeling at the moment.
 
 EverySwarmcheck-in over the last 7 years visualized on a map, including the actual trip (flight, drive, etc.)
 
- Sources: 
- 
+ Sources:
+
 
  Swarm
- 
+
 
 7 years of data - Last updated on 2022-01-01
 
@@ -378,11 +378,11 @@ EverySwarmcheck-in over the last 7 years visualized on a map, including the actu
 
 EverySwarmcheck-in over the last 7 years visualized, zoomed in
 
- Sources: 
- 
+ Sources:
+
 
  Swarm
- 
+
 
 7 years of data - Last updated on 2022-01-01
 
@@ -390,11 +390,11 @@ EverySwarmcheck-in over the last 7 years visualized, zoomed in
 
 Each time I did a check-in at a place (e.g. Coffee, Restaurant, Airport, Gym) onFoursquare Swarmat a given city, this is tracked as a single entry.
 
- Sources: 
- 
+ Sources:
+
 
  Swarm
- 
+
 
 7 years of data - Last updated on 2022-01-01
 
@@ -408,11 +408,11 @@ Each check-in at a given city is counted as a single entry, grouped by years
 * The longer it's been since I moved away from Austria, the more time I actually spent back home in Austria for visits and vacations
 * 2020 clearly shows the impact of COVID
 
- Sources: 
- 
+ Sources:
+
 
  Swarm
- 
+
 
 7 years of data - Last updated on 2022-01-01
 
@@ -424,11 +424,11 @@ Each check-in at a given category is tracked, and summed up over the last years
 * Airports being the #4 most visited categorywas a surprise, but is accurate. A total of 403 airport check-ins, whereas a flight with a layover would count as 3 airport check-ins
 * Earlier in my life, I didn't always check into 'commute' places like public transit and super markets
 
- Sources: 
- 
+ Sources:
+
 
  Swarm
- 
+
 
 7 years of data - Last updated on 2022-01-01
 
@@ -441,11 +441,11 @@ Number ofFoursquare Swarmcheck-ins on each quarter over the last 10 years. I did
 * Q3 2021 the vaccine was already widely available and I was able to travel/visit more again
 * My time in New York was the most active when it comes to check-ins. When I'm in NYC, I tend to eat/drink out more, and grab to-go food, which I do way less in Vienna
 
- Sources: 
- 
+ Sources:
+
 
  Swarm
- 
+
 
 10 years of data - Last updated on 2022-01-01
 
@@ -453,11 +453,11 @@ Number ofFoursquare Swarmcheck-ins on each quarter over the last 10 years. I did
 
 EverySwarmcheck-in visualized on a map. Only areas where I've had multiple check-ins are rendered.
 
- Sources: 
- 
+ Sources:
+
 
  Swarm
- 
+
 
 7 years of data - Last updated on 2022-01-01
 
@@ -468,11 +468,11 @@ Number of days per year that I've spent in full lockdown, meaning restaurants, b
 * I escaped parts of the Austrian lockdown by spending time in the US when I was already vaccinated
 * Surprisingly 2021 I spent more days in a full lockdown than in 2020, even with vaccines available
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 3 years of data - Last updated on 2022-01-01
 
@@ -487,11 +487,11 @@ How was my life affected by the recent COVID lockdowns? As lockdown day I classi
 * 50% colder temperatures: Lockdowns tended to happen in Autumn and Winter
 * 100% less likely to dance
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 3 years of data - Last updated on 2022-05-23
 
@@ -504,11 +504,11 @@ Alcoholic drinks per day. Days with no data are rendered as white
 * Q2 and Q4 2020 clearly show the COVID lockdowns, as well as Q2 2021
 * Summer of 2021 all bars and dance clubs were open in Vienna
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -520,11 +520,11 @@ Each bar represents a month, the graph shows the number of alcoholic beverages o
 * In May 2019, the 0 bar is rendered to be 55%, meaning on 55% days of that month I didn't drink any alcohol
 * July 2021 Austrian night life was fully open up again, with most COVID restrictions being lifted
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -537,11 +537,11 @@ Each green square represents a strength-workout in the gym, I try my best to pur
 * In Q4 2021 I had a cold for a longer time
 * I went from~50 workouts per yearin 2014/2015 to~200 per yearin 2018 - 2021
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 7 years of data - Last updated on 2022-01-01
 
@@ -554,11 +554,11 @@ On weeks where I have a routine (not traveling), I track most of my meals. Whene
 * It takes a lot of energy to be consistent, but it's worth it, and it will make you feel good (e.g. feeling good about using a spoon to eat plain Nutella if you have the macros left)
 * Gaining and losing weight is pretty much math, if you track your macros and body weight
 
- Sources: 
- 
+ Sources:
+
 
  MyFitnessPal
- 
+
 
 4 years of data - Last updated on 2022-02-17
 
@@ -569,11 +569,11 @@ Percentage of days I went to the gym
 * During the first lockdown in Q2 2020 I didn't have access to a gym, and didn't count home-workouts as gym visits
 * Generally I hit the gym 5 days a week when I'm at home, but as shown on this graph it ends up being less, mostly due to traveling, and occasional colds
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -589,11 +589,11 @@ I'm following a pretty regular bodybuilding routine, a 3-day workout split, and 
 * Brown = Bulk
 * Blue = Maintenance
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 4 years of data - Last updated on 2022-01-01
 
@@ -605,11 +605,11 @@ Historic weight, clearly showing the various bulks and cuts I've made over the y
 * Highest recorded weight was89.8kg/198lbs in 2021 (age 27)
 * I gained 20kg (44lbs) while staying under 12% body fat on 193cm (6"4)
 
- Sources: 
- 
+ Sources:
+
 
  Withings Scale
- 
+
 
 9 years of data - Last updated on 2022-02-17
 
@@ -620,11 +620,11 @@ I usually have slow bulk & cut phases, where I gain and lose weight at a control
 * I only track my weight if I didn't drink alcohol the night before, and after getting a full night's sleep, since otherwise the weight fluctuates a lot
 * Generally, you can pretty much calculate your weight on a certain date, if you consistently track your meals, and correctly calculated your macros
 
- Sources: 
- 
+ Sources:
+
 
  Withings Scale, weightgrapher.com
- 
+
 
 1 years of data - Last updated on 2022-01-01
 
@@ -646,11 +646,11 @@ On days where I walked more than 15,000 steps (I walked an average of 9200 steps
 * 50% less time spent watching TV
 * 95% less likely to be a day in lockdown
 
- Sources: 
- 
+ Sources:
+
 
  Apple Health
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -669,11 +669,11 @@ On days where I had a total sleep duration of more than 8.5 hours, the following
 * 24% less energy
 * Overall, it's clear thatdays with a longer sleep duration tend to be significantly worse days. This is most likely due to the fact that I try to sleep a maximum of 8 hours, and if I actually sleep more than usually because I'm not feeling too well, or even sick
 
- Sources: 
- 
+ Sources:
+
 
  Withings Scan Watch, Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -688,11 +688,11 @@ I used theAwair Elementat home in Vienna, in every room over multiple days
 * Opening the windows for a longer time in winter will cause low humidity and low temperatures, so it's often not a good option
 * I didn't learn anything from the Chemicals and PM2.5 graphs
 
- Sources: 
- 
+ Sources:
+
 
  Awair
- 
+
 
 1 years of data - Last updated on 2022-02-09
 
@@ -708,11 +708,11 @@ UsingRescueTime, I tracked my exact computer usage, and the categories of activi
 * Day to day I'm usingTiming Appwhich has a significantly nicer user experience, however I just had many additional years of data on RescueTime
 * I highly recommend every professional to track their computer usage.It's surprising to see how many hours a day you actually get on your computer, and how much of it is considered productive.Timing Appshows the amount of hours of the day on the Mac's status bar, and it's been extremely useful
 
- Sources: 
- 
+ Sources:
+
 
  RescueTime
- 
+
 
 7 years of data - Last updated on 2022-01-01
 
@@ -726,11 +726,11 @@ Each day I answer the question "Do you feel like you need to socialize more?" wi
 * December 2019 I was working remotely from Buenos Aires, however I got a pretty bad cold. Being sick in a remote city wasn't the best feeling
 * Over the last 2.5 years I actually never felt isolated, therefore there is no entry for the value '0'
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -747,11 +747,11 @@ Summer (being from 21st June to 23rd September) has the following effects on my 
 * 40% less time spent on Entertainment on my computer (as perRescueTimeclassifications)
 * 30% less likely to have bad dreams
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -764,11 +764,11 @@ Winter (being from 21st Dec to 20th March) has the following effects on my life:
 * 35% less likely to take a freezing cold shower
 * Unsurprisingly, I'm exposed to less solar energy in Winter, make sure to get enough Vitamin D
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -779,11 +779,11 @@ Percentage of days spent in each country over the last 4 years
 * International travel has slowed down significantly since COVID started
 * Traveling without a stop home for more than 3 weeks gets exhausting for me, I prefer doing more shorter travels instead
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 4 years of data - Last updated on 2022-01-01
 
@@ -791,11 +791,11 @@ Percentage of days spent in each country over the last 4 years
 
 From late 2017 to early 2020 I lived without a permanent home address as adigital nomad, staying at various Airbnbs or taking over a few weeks of a lease from a friend
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 7 years of data - Last updated on 2022-01-01
 
@@ -807,11 +807,11 @@ Number of days each month where I had cold symptoms (dark green [1] = day with c
 * Winter 2021 was a full lockdown, I assume this reduced the risk of getting sick
 * October and November 2021 I had bronchitis, without getting the proper treatment
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -827,11 +827,11 @@ Weekends for me naturally involve less working time, more going out, and social 
 * 25% less gym visits, mostly due to family gatherings and not being in the city
 * 45% less likely to properly track my macros/meals, mostly due to family gatherings and going out
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -845,11 +845,11 @@ Historic weather data based on the location I was at on that day based on my Swa
 * End of November in 2019 I spent in Buenos Aires, therefore way higher temperatures
 * December 2019 I spent in Columbus, Ohio, being the coldest week of the year
 
- Sources: 
- 
+ Sources:
+
 
  Visual Crossing historic weather data, Swarm
- 
+
 
 3 years of data - Last updated on 2022-01-01
 
@@ -859,11 +859,11 @@ Historic weather data based on the location I was at on that day based on my Swa
 
 * 2019 I experienced more cloudy weather than the following years
 
- Sources: 
- 
+ Sources:
+
 
  Visual Crossing historic weather data, Swarm
- 
+
 
 3 years of data - Last updated on 2022-01-01
 
@@ -871,11 +871,11 @@ Historic weather data based on the location I was at on that day based on my Swa
 
 My radiation exposure, as well as CO2 emissions from all my flights over the last 7 years
 
- Sources: 
- 
+ Sources:
+
 
  Nomadlist
- 
+
 
 7 years of data - Last updated on 2022-04-28
 
@@ -887,11 +887,11 @@ I noticed myself feeling more refreshed whenever I spent a night at my childhood
 * All nights above 70 bpm are usually associated with either drinking alcohol in the evening, being sick, or sleeping for only a short amount of time (e.g. before a flight)
 * Even removing all 70+ bpm nights, there is a clear difference between nights spent at my own place in the city, compared to the nights spent on the countryside
 
- Sources: 
- 
+ Sources:
+
 
  Withings ScanWatch, Manual
- 
+
 
 1 years of data - Last updated on 2022-05-30
 
@@ -907,11 +907,11 @@ Spotify tracks every single interaction on their end, including every single son
 * As part of this script, I built a tool to create a playlist of the 500 most listened to songs, as well as the first 500 songs listened to
 * In total, I have paid 1,080 EUR for Spotify Premium
 
- Sources: 
- 
+ Sources:
+
 
  Spotify
- 
+
 
 9 years of data - Last updated on 2022-05-01
 
@@ -926,8 +926,8 @@ Since I've builtinstapipe.net, I have all my Instagram Stories available in my o
 * Overall you can see a clear downwards trend of the purple 'Year' line over the last 3 years
 * Since April 2019, I have published a total of 1,906 Instagram stories, averaging 1.6 Stories per day
 
- Sources: 
- 
+ Sources:
+
 
 3 years of data - Last updated on 2022-06-01
 
@@ -946,11 +946,11 @@ On days with a maximum temperature of more than 26 Celsius (78.8 Fahrenheit), th
 * Generally lower stress/anxiety levels
 * 100% less likely to be in a COVID related lockdown
 
- Sources: 
- 
+ Sources:
+
 
  Visual Crossing historic weather data, Manually
- 
+
 
 2.5 years of data - Last updated on 2022-01-01
 
@@ -965,11 +965,11 @@ GitHub open source contributions visualized using GitHub's own contribution grap
 * Second half of 2019, until Summer 2021 I worked at Root on commercial software, which doesn't show up on those graphs
 * End of 2021 I resumed work on FxLifeSheet to build this very page
 
- Sources: 
- 
+ Sources:
+
 
  GitHub
- 
+
 
 11 years of data - Last updated on 2022-01-01
 
@@ -982,11 +982,11 @@ Every second week I track my current investments and cash positions. It shows me
 * Whenever I take on a potential new project/role, I simulate the various outcome scenariosthat could happen over the next few years
 * For obvious reasons, I can't include more of the graphs and simulations I have available
 
- Sources: 
- 
+ Sources:
+
 
  Manually
- 
+
 
 8 years of data - Last updated on 2022-02-09
 
@@ -999,11 +999,11 @@ Inspired by aReddit finance community, I had been creating annual money flow cha
 * Having an End-Of-Year summary from your credit card provider, and always using your card when possible, is a great way to get those numbers
 * Creating this chart is still a lot of work, as you have to keep in mind that some expenses are not solely yours, but you might have covered for a group (e.g. booked a larger Airbnb), or got reimbursed
 
- Sources: 
- 
+ Sources:
+
 
  Chase Credit Card Year Summary, sankeymatic.com, Manually
- 
+
 
 5 years of data - Last updated on 2022-02-09
 

@@ -442,7 +442,7 @@ Store A to [address]
 0x21
 STB
 abs
-Store B to [address] 
+Store B to [address]
 (not yet in hardware, not sure if I care)
 —
 —

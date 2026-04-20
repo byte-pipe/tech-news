@@ -21,7 +21,7 @@ April 7th, 2026
 Fedor Korotkov
 
  @fedor
- 
+
 
 I started Cirrus Labs in 2017 in the spirit of Bell Labs. I wanted to work on fun
  and challenging engineering problems, in the hope of bootstrapping a business as a

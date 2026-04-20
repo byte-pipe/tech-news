@@ -13,9 +13,9 @@ tags:
 ---
 
 26
- 
- 
- 
+
+
+
 Chaos
 Chaos Engineering
 DevOps
@@ -25,13 +25,13 @@ Site Reliability Engineering
 
 # Chaos Engineering Practices to Increase Confidence and Reliability
 
- 
+
 Adar Hilsenrat
 Mar 11, 2026
-5 min read 
- 
- 
- 
+5 min read
+
+
+
 
 Usually, we attempt to keep our staging environment as stable as possible. But sometimes, you can benefit from inserting some chaos into it – to validate your assumptions about the health of your service, to learn about its dependencies, and to check your guardrails. In this post, you will learn how we at monday.com are using Chaos Engineering practices to achieve the same.
 
@@ -92,63 +92,63 @@ While Staging is our proving ground, our ultimate goal isChaos in Production.It 
 
 Whichever Chaos platform you choose, the main goal is changing the paradigm: from assuming your system is resilient to proving it.
 
- 
+
  Senior DevOps Engineer @ monday.com
  
  
 
 ### Read More
 
- 
+
 
 ##### Related Post
 
- 
+
 
 #### What Your Selectors Are Doing When You’re Not Looking
 
- 
+
 Sefi Ninio
 Mar 9
-8 min read 
- 
- 
- 
- 
+8 min read
+
+
+
+
 22
- 
- 
+
+
 
 ##### Related Post
 
- 
+
 
 #### Building a Product Mindset: How We Get Engineers Closer to Users
 
- 
+
 Irad Cohen
 Feb 25
-6 min read 
- 
- 
- 
- 
+6 min read
+
+
+
+
 5
- 
- 
+
+
 
 ##### Related Post
 
- 
+
 
 #### Using AI to Shift E2E Test Maintenance Left
 
- 
+
 Uzeyir Abdullayev
 Feb 16
-11 min read 
- 
- 
- 
- 
+11 min read
+
+
+
+
 29

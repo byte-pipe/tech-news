@@ -25,15 +25,15 @@ tags:
 Murphy Campbell plays public domain ballads, but YouTube accepted the copyright claim anyway.
 
 by
- 
- 
+
+
 Terrence O'Brien
 Apr 4, 2026, 5:52 PM UTC
 * Link
 * Share
 * Gift
 Murphy Campbell is at the center of a brewing storm around AI and a broken copyright system.
- 
+
 | Image: Murphy Campbell
 * Entertainment
 * AI
@@ -44,8 +44,8 @@ Murphy Campbell is at the center of a brewing storm around AI and a broken copyr
 Murphy Campbell plays public domain ballads, but YouTube accepted the copyright claim anyway.
 
 by
- 
- 
+
+
 Terrence O'Brien
 Apr 4, 2026, 5:52 PM UTC
 * Link
@@ -53,9 +53,9 @@ Apr 4, 2026, 5:52 PM UTC
 * Gift
 Part Of
 All the latest in AI ‘music’
-see all updates 
+see all updates
 Terrence O'Brien
- 
+
 is the Verge’s weekend editor. He has over 18 years of experience, including 10 years as managing editor at Engadget.
 
 In January, folk artist Murphy Campbell discovered several songs on her Spotify profile thatdid not belong there. They were songs that she had recorded, but she’d never uploaded them to Spotify, and something was off about the vocals.
@@ -121,19 +121,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

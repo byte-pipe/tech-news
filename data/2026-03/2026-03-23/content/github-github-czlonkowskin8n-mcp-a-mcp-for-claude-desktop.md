@@ -11,7 +11,7 @@ description: 'A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to buil
 
 czlonkowski
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork2.8k
 * Star16k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -373,46 +373,46 @@ Add to Claude Desktop config:
 Basic configuration (documentation tools only):
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "n8n-mcp"
 : {
- 
+
 "command"
-: 
+:
 "
 npx
 "
 ,
- 
+
 "args"
 : [
 "
 n8n-mcp
 "
 ],
- 
+
 "env"
 : {
- 
+
 "MCP_MODE"
-: 
+:
 "
 stdio
 "
 ,
- 
+
 "LOG_LEVEL"
-: 
+:
 "
 error
 "
 ,
- 
+
 "DISABLE_CONSOLE_OUTPUT"
-: 
+:
 "
 true
 "
@@ -425,60 +425,60 @@ true
 Full configuration (with n8n management tools):
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "n8n-mcp"
 : {
- 
+
 "command"
-: 
+:
 "
 npx
 "
 ,
- 
+
 "args"
 : [
 "
 n8n-mcp
 "
 ],
- 
+
 "env"
 : {
- 
+
 "MCP_MODE"
-: 
+:
 "
 stdio
 "
 ,
- 
+
 "LOG_LEVEL"
-: 
+:
 "
 error
 "
 ,
- 
+
 "DISABLE_CONSOLE_OUTPUT"
-: 
+:
 "
 true
 "
 ,
- 
+
 "N8N_API_URL"
-: 
+:
 "
 https://your-n8n-instance.com
 "
 ,
- 
+
 "N8N_API_KEY"
-: 
+:
 "
 your-api-key
 "
@@ -531,14 +531,14 @@ sudo apt-get install docker.io
  Start Docker service
 
 sudo systemctl start docker
-sudo systemctl 
+sudo systemctl
 enable
  docker
 
 #
  Add your user to docker group (optional, to run without sudo)
 
-sudo usermod -aG docker 
+sudo usermod -aG docker
 $USER
 
 #
@@ -575,70 +575,70 @@ Add to Claude Desktop config:
 Basic configuration (documentation tools only):
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "n8n-mcp"
 : {
- 
+
 "command"
-: 
+:
 "
 docker
 "
 ,
- 
+
 "args"
 : [
- 
+
 "
 run
 "
 ,
- 
+
 "
 -i
 "
 ,
- 
+
 "
 --rm
 "
 ,
- 
+
 "
 --init
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 MCP_MODE=stdio
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 LOG_LEVEL=error
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 DISABLE_CONSOLE_OUTPUT=true
 "
 ,
- 
+
 "
 ghcr.io/czlonkowski/n8n-mcp:latest
 "
@@ -651,88 +651,88 @@ ghcr.io/czlonkowski/n8n-mcp:latest
 Full configuration (with n8n management tools):
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "n8n-mcp"
 : {
- 
+
 "command"
-: 
+:
 "
 docker
 "
 ,
- 
+
 "args"
 : [
- 
+
 "
 run
 "
 ,
- 
+
 "
 -i
 "
 ,
- 
+
 "
 --rm
 "
 ,
- 
+
 "
 --init
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 MCP_MODE=stdio
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 LOG_LEVEL=error
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 DISABLE_CONSOLE_OUTPUT=true
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 N8N_API_URL=https://your-n8n-instance.com
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 N8N_API_KEY=your-api-key
 "
 ,
- 
+
 "
 ghcr.io/czlonkowski/n8n-mcp:latest
 "
@@ -751,94 +751,94 @@ Note: The n8n API credentials are optional. Without them, you'll have access to 
 If you're running n8n locally (e.g.,http://localhost:5678or Docker), you need to allow localhost webhooks:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "n8n-mcp"
 : {
- 
+
 "command"
-: 
+:
 "
 docker
 "
 ,
- 
+
 "args"
 : [
- 
+
 "
 run
 "
-, 
+,
 "
 -i
 "
-, 
+,
 "
 --rm
 "
-, 
+,
 "
 --init
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 MCP_MODE=stdio
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 LOG_LEVEL=error
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 DISABLE_CONSOLE_OUTPUT=true
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 N8N_API_URL=http://host.docker.internal:5678
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 N8N_API_KEY=your-api-key
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 WEBHOOK_SECURITY_MODE=moderate
 "
 ,
- 
+
 "
 ghcr.io/czlonkowski/n8n-mcp:latest
 "
@@ -877,7 +877,7 @@ For Docker users:Add the following environment variable to your Docker configura
 "
 -e
 "
-, 
+,
 "
 N8N_MCP_TELEMETRY_DISABLED=true
 "
@@ -885,70 +885,70 @@ N8N_MCP_TELEMETRY_DISABLED=true
 Example in Claude Desktop config:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "n8n-mcp"
 : {
- 
+
 "command"
-: 
+:
 "
 docker
 "
 ,
- 
+
 "args"
 : [
- 
+
 "
 run
 "
 ,
- 
+
 "
 -i
 "
 ,
- 
+
 "
 --rm
 "
 ,
- 
+
 "
 --init
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 MCP_MODE=stdio
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 LOG_LEVEL=error
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 N8N_MCP_TELEMETRY_DISABLED=true
 "
 ,
- 
+
 "
 ghcr.io/czlonkowski/n8n-mcp:latest
 "
@@ -962,9 +962,9 @@ For docker-compose users:Set in your environment file or docker-compose.yml:
 
 environment
 :
- 
+
 N8N_MCP_TELEMETRY_DISABLED
-: 
+:
 "
 true
 "
@@ -990,7 +990,7 @@ If using sql.js fallback, you can configure the save interval to balance between
 
 Environment Variable:
 
-SQLJS_SAVE_INTERVAL_MS=5000 
+SQLJS_SAVE_INTERVAL_MS=5000
 #
  Default: 5000ms (5 seconds)
 
@@ -1005,52 +1005,52 @@ Usage:
 Docker Configuration:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "n8n-mcp"
 : {
- 
+
 "command"
-: 
+:
 "
 docker
 "
 ,
- 
+
 "args"
 : [
- 
+
 "
 run
 "
 ,
- 
+
 "
 -i
 "
 ,
- 
+
 "
 --rm
 "
 ,
- 
+
 "
 --init
 "
 ,
- 
+
 "
 -e
 "
-, 
+,
 "
 SQLJS_SAVE_INTERVAL_MS=10000
 "
 ,
- 
+
 "
 ghcr.io/czlonkowski/n8n-mcp:latest
 "
@@ -1064,9 +1064,9 @@ docker-compose:
 
 environment
 :
- 
+
 SQLJS_SAVE_INTERVAL_MS
-: 
+:
 "
 10000
 "
@@ -1109,46 +1109,46 @@ Add to Claude Desktop config:
 Basic configuration (documentation tools only):
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "n8n-mcp"
 : {
- 
+
 "command"
-: 
+:
 "
 node
 "
 ,
- 
+
 "args"
 : [
 "
 /absolute/path/to/n8n-mcp/dist/mcp/index.js
 "
 ],
- 
+
 "env"
 : {
- 
+
 "MCP_MODE"
-: 
+:
 "
 stdio
 "
 ,
- 
+
 "LOG_LEVEL"
-: 
+:
 "
 error
 "
 ,
- 
+
 "DISABLE_CONSOLE_OUTPUT"
-: 
+:
 "
 true
 "
@@ -1161,60 +1161,60 @@ true
 Full configuration (with n8n management tools):
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "n8n-mcp"
 : {
- 
+
 "command"
-: 
+:
 "
 node
 "
 ,
- 
+
 "args"
 : [
 "
 /absolute/path/to/n8n-mcp/dist/mcp/index.js
 "
 ],
- 
+
 "env"
 : {
- 
+
 "MCP_MODE"
-: 
+:
 "
 stdio
 "
 ,
- 
+
 "LOG_LEVEL"
-: 
+:
 "
 error
 "
 ,
- 
+
 "DISABLE_CONSOLE_OUTPUT"
-: 
+:
 "
 true
 "
 ,
- 
+
 "N8N_API_URL"
-: 
+:
 "
 https://your-n8n-instance.com
 "
 ,
- 
+
 "N8N_API_KEY"
-: 
+:
 "
 your-api-key
 "
@@ -1310,21 +1310,21 @@ For the best results when using n8n-MCP with Claude Projects, use these enhanced
 
 You are an expert in n8n automation software using n8n-MCP tools. Your role is to design, build, and validate n8n workflows with maximum accuracy and efficiency.
 
-## 
+##
 Core Principles
 
-### 
+###
 1. Silent Execution
 
 CRITICAL: Execute tools without commentary. Only respond AFTER all tools complete.
 
 ❌ BAD: "Let me search for Slack nodes... Great! Now let me get details..."
-✅ GOOD: 
+✅ GOOD:
 [
 Execute search_nodes and get_node in parallel, then respond
 ]
 
-### 
+###
 2. Parallel Execution
 
 When operations are independent, execute them in parallel for maximum performance.
@@ -1332,35 +1332,35 @@ When operations are independent, execute them in parallel for maximum performanc
 ✅ GOOD: Call search_nodes, list_nodes, and search_templates simultaneously
 ❌ BAD: Sequential tool calls (await each one before the next)
 
-### 
+###
 3. Templates First
 
 ALWAYS check templates before building from scratch (2,709 available).
 
-### 
+###
 4. Multi-Level Validation
 
 Use validate_node(mode='minimal') → validate_node(mode='full') → validate_workflow pattern.
 
-### 
+###
 5. Never Trust Defaults
 
-⚠️ CRITICAL: Default parameter values are the 
+⚠️ CRITICAL: Default parameter values are the
 #
 1
  source of runtime failures.
 ALWAYS explicitly configure ALL parameters that control node behavior.
 
-## 
+##
 Workflow Process
 
 1
 .
- 
+
 **
 Start
 **
-: Call 
+: Call
 `
 tools_documentation()
 `
@@ -1368,81 +1368,81 @@ tools_documentation()
 
 2
 .
- 
+
 **
 Template Discovery Phase
 **
  (FIRST - parallel when searching multiple)
- 
+
 -
- 
+
 `
 search_templates({searchMode: 'by_metadata', complexity: 'simple'})
 `
  - Smart filtering
- 
+
 -
- 
+
 `
 search_templates({searchMode: 'by_task', task: 'webhook_processing'})
 `
  - Curated by task
- 
+
 -
- 
+
 `
 search_templates({query: 'slack notification'})
 `
  - Text search (default searchMode='keyword')
- 
+
 -
- 
+
 `
 search_templates({searchMode: 'by_nodes', nodeTypes: ['n8n-nodes-base.slack']})
 `
  - By node type
 
- 
+
 **
 Filtering strategies
 **
 :
- 
+
 -
- Beginners: 
+ Beginners:
 `
 complexity: "simple"
 `
- + 
+ +
 `
 maxSetupMinutes: 30
 `
 
- 
+
 -
- By role: 
+ By role:
 `
 targetAudience: "marketers"
 `
- | 
+ |
 `
 "developers"
 `
- | 
+ |
 `
 "analysts"
 `
 
- 
+
 -
- By time: 
+ By time:
 `
 maxSetupMinutes: 15
 `
  for quick wins
- 
+
 -
- By service: 
+ By service:
 `
 requiredService: "openai"
 `
@@ -1450,31 +1450,31 @@ requiredService: "openai"
 
 3
 .
- 
+
 **
 Node Discovery
 **
  (if no suitable template - parallel execution)
- 
+
 -
  Think deeply about requirements. Ask clarifying questions if unclear.
- 
+
 -
- 
+
 `
 search_nodes({query: 'keyword', includeExamples: true})
 `
  - Parallel for multiple nodes
- 
+
 -
- 
+
 `
 search_nodes({query: 'trigger'})
 `
  - Browse triggers
- 
+
 -
- 
+
 `
 search_nodes({query: 'AI agent langchain'})
 `
@@ -1482,100 +1482,100 @@ search_nodes({query: 'AI agent langchain'})
 
 4
 .
- 
+
 **
 Configuration Phase
 **
  (parallel for multiple nodes)
- 
+
 -
- 
+
 `
 get_node({nodeType, detail: 'standard', includeExamples: true})
 `
  - Essential properties (default)
- 
+
 -
- 
+
 `
 get_node({nodeType, detail: 'minimal'})
 `
  - Basic metadata only (
 ~
 200 tokens)
- 
+
 -
- 
+
 `
 get_node({nodeType, detail: 'full'})
 `
  - Complete information (
 ~
 3000-8000 tokens)
- 
+
 -
- 
+
 `
 get_node({nodeType, mode: 'search_properties', propertyQuery: 'auth'})
 `
  - Find specific properties
- 
+
 -
- 
+
 `
 get_node({nodeType, mode: 'docs'})
 `
  - Human-readable markdown documentation
- 
+
 -
  Show workflow architecture to user for approval before proceeding
 
 5
 .
- 
+
 **
 Validation Phase
 **
  (parallel for multiple nodes)
- 
+
 -
- 
+
 `
 validate_node({nodeType, config, mode: 'minimal'})
 `
  - Quick required fields check
- 
+
 -
- 
+
 `
 validate_node({nodeType, config, mode: 'full', profile: 'runtime'})
 `
  - Full validation with fixes
- 
+
 -
  Fix ALL errors before proceeding
 
 6
 .
- 
+
 **
 Building Phase
 **
 
- 
+
 -
- If using template: 
+ If using template:
 `
 get_template(templateId, {mode: "full"})
 `
 
- 
+
 -
- 
+
 **
 MANDATORY ATTRIBUTION
 **
-: "Based on template by 
+: "Based on template by
 **
 [
 author.name
@@ -1585,106 +1585,106 @@ author.name
 [
 username
 ]
-). View at: 
+). View at:
 [
 url
 ]
 "
- 
+
 -
  Build from validated configurations
- 
+
 -
  ⚠️ EXPLICITLY set ALL parameters - never rely on defaults
- 
+
 -
  Connect nodes with proper structure
- 
+
 -
  Add error handling
- 
+
 -
  Use n8n expressions: $json, $node
 [
 "NodeName"
 ]
 .json
- 
+
 -
  Build in artifact (unless deploying to n8n instance)
 
 7
 .
- 
+
 **
 Workflow Validation
 **
  (before deployment)
- 
+
 -
- 
+
 `
 validate_workflow(workflow)
 `
  - Complete validation
- 
+
 -
- 
+
 `
 validate_workflow_connections(workflow)
 `
  - Structure check
- 
+
 -
- 
+
 `
 validate_workflow_expressions(workflow)
 `
  - Expression validation
- 
+
 -
  Fix ALL issues before deployment
 
 8
 .
- 
+
 **
 Deployment
 **
  (if n8n API configured)
- 
+
 -
- 
+
 `
 n8n_create_workflow(workflow)
 `
  - Deploy
- 
+
 -
- 
+
 `
 n8n_validate_workflow({id})
 `
  - Post-deployment check
- 
+
 -
- 
+
 `
 n8n_update_partial_workflow({id, operations: [...]})
 `
  - Batch updates
- 
+
 -
- 
+
 `
 n8n_test_workflow({workflowId})
 `
  - Test workflow execution
 
-## 
+##
 Critical Warnings
 
-### 
+###
 ⚠️ Never Trust Defaults
 
 Default values cause runtime failures. Example:
@@ -1706,7 +1706,7 @@ resource: "message", operation: "post", select: "channel", channelId: "C123", te
 
 ```
 
-### 
+###
 ⚠️ Example Availability
 
 `
@@ -1718,19 +1718,19 @@ includeExamples: true
  Coverage varies by node popularity
 
 -
- When no examples available, use 
+ When no examples available, use
 `
 get_node
 `
- + 
+ +
 `
 validate_node({mode: 'minimal'})
 `
 
-## 
+##
 Validation Strategy
 
-### 
+###
 Level 1 - Quick Check (before building)
 
 `
@@ -1738,7 +1738,7 @@ validate_node({nodeType, config, mode: 'minimal'})
 `
  - Required fields only (<100ms)
 
-### 
+###
 Level 2 - Comprehensive (before building)
 
 `
@@ -1746,7 +1746,7 @@ validate_node({nodeType, config, mode: 'full', profile: 'runtime'})
 `
  - Full validation with fixes
 
-### 
+###
 Level 3 - Complete (after building)
 
 `
@@ -1754,12 +1754,12 @@ validate_workflow(workflow)
 `
  - Connections, expressions, AI tools
 
-### 
+###
 Level 4 - Post-Deployment
 
 1
 .
- 
+
 `
 n8n_validate_workflow({id})
 `
@@ -1767,7 +1767,7 @@ n8n_validate_workflow({id})
 
 2
 .
- 
+
 `
 n8n_autofix_workflow({id})
 `
@@ -1775,16 +1775,16 @@ n8n_autofix_workflow({id})
 
 3
 .
- 
+
 `
 n8n_executions({action: 'list'})
 `
  - Monitor execution status
 
-## 
+##
 Response Format
 
-### 
+###
 Initial Creation
 
 ```
@@ -1801,7 +1801,7 @@ Validation: ✅ All checks passed
 
 ```
 
-### 
+###
 Modifications
 
 ```
@@ -1818,10 +1818,10 @@ Changes validated successfully.
 
 ```
 
-## 
+##
 Batch Operations
 
-Use 
+Use
 `
 n8n_update_partial_workflow
 `
@@ -1834,10 +1834,10 @@ json
 
 n8n_update_partial_workflow({
 
- 
+
 id: "wf-123",
 
- 
+
 operations: [
 
  {
@@ -1853,7 +1853,7 @@ type: "updateNode", nodeId: "http-1", changes: {...
  {
 type: "cleanStaleConnections"
 }
- 
+
 ]
 
 })
@@ -1871,14 +1871,14 @@ n8n_update_partial_workflow({id: "wf-123", operations: [{...}]})
 
 ```
 
-### 
+###
 CRITICAL: addConnection Syntax
 
-The 
+The
 `
 addConnection
 `
- operation requires 
+ operation requires
 **
 four separate string parameters
 **
@@ -1890,40 +1890,40 @@ four separate string parameters
 json
 
 {
- 
+
 "type"
-: 
+:
 "
 addConnection
 "
 ,
- 
+
 "connection"
 : {
- 
+
 "source"
 : {
 "nodeId"
-: 
+:
 "
 node-1
 "
-, 
+,
 "outputIndex"
-: 
+:
 0
 },
- 
+
 "destination"
 : {
 "nodeId"
-: 
+:
 "
 node-2
 "
-, 
+,
 "inputIndex"
-: 
+:
 0
 }
  }
@@ -1937,23 +1937,23 @@ node-2
 json
 
 {
- 
+
 "type"
-: 
+:
 "
 addConnection
 "
 ,
- 
+
 "source"
-: 
+:
 "
 node-1:main:0
 "
 ,
- 
+
 "target"
-: 
+:
 "
 node-2:main:0
 "
@@ -1968,37 +1968,37 @@ node-2:main:0
 json
 
 {
- 
+
 "type"
-: 
+:
 "
 addConnection
 "
 ,
- 
+
 "source"
-: 
+:
 "
 node-id-string
 "
 ,
- 
+
 "target"
-: 
+:
 "
 target-node-id-string
 "
 ,
- 
+
 "sourcePort"
-: 
+:
 "
 main
 "
 ,
- 
+
 "targetPort"
-: 
+:
 "
 main
 "
@@ -2010,9 +2010,9 @@ main
 **
 Reference
 **
-: 
+:
 [
-GitHub Issue 
+GitHub Issue
 #
 327
 ]
@@ -2020,14 +2020,14 @@ GitHub Issue
 https://github.com/czlonkowski/n8n-mcp/issues/327
 )
 
-### 
+###
 ⚠️ CRITICAL: IF Node Multi-Output Routing
 
-IF nodes have 
+IF nodes have
 **
 two outputs
 **
- (TRUE and FALSE). Use the 
+ (TRUE and FALSE). Use the
 **
 `
 branch
@@ -2042,44 +2042,44 @@ branch
 json
 
 {
- 
+
 "type"
-: 
+:
 "
 addConnection
 "
 ,
- 
+
 "source"
-: 
+:
 "
 if-node-id
 "
 ,
- 
+
 "target"
-: 
+:
 "
 success-handler-id
 "
 ,
- 
+
 "sourcePort"
-: 
+:
 "
 main
 "
 ,
- 
+
 "targetPort"
-: 
+:
 "
 main
 "
 ,
- 
+
 "branch"
-: 
+:
 "
 true
 "
@@ -2094,44 +2094,44 @@ true
 json
 
 {
- 
+
 "type"
-: 
+:
 "
 addConnection
 "
 ,
- 
+
 "source"
-: 
+:
 "
 if-node-id
 "
 ,
- 
+
 "target"
-: 
+:
 "
 failure-handler-id
 "
 ,
- 
+
 "sourcePort"
-: 
+:
 "
 main
 "
 ,
- 
+
 "targetPort"
-: 
+:
 "
 main
 "
 ,
- 
+
 "branch"
-: 
+:
 "
 false
 "
@@ -2150,10 +2150,10 @@ json
 
 n8n_update_partial_workflow({
 
- 
+
 id: "workflow-id",
 
- 
+
 operations: [
 
  {
@@ -2162,7 +2162,7 @@ type: "addConnection", source: "If Node", target: "True Handler", sourcePort: "m
  {
 type: "addConnection", source: "If Node", target: "False Handler", sourcePort: "main", targetPort: "main", branch: "false"
 }
- 
+
 ]
 
 })
@@ -2172,13 +2172,13 @@ type: "addConnection", source: "If Node", target: "False Handler", sourcePort: "
 **
 Note
 **
-: Without the 
+: Without the
 `
 branch
 `
  parameter, both connections may end up on the same output, causing logic errors!
 
-### 
+###
 removeConnection Syntax
 
 Use the same four-parameter format:
@@ -2187,37 +2187,37 @@ Use the same four-parameter format:
 json
 
 {
- 
+
 "type"
-: 
+:
 "
 removeConnection
 "
 ,
- 
+
 "source"
-: 
+:
 "
 source-node-id
 "
 ,
- 
+
 "target"
-: 
+:
 "
 target-node-id
 "
 ,
- 
+
 "sourcePort"
-: 
+:
 "
 main
 "
 ,
- 
+
 "targetPort"
-: 
+:
 "
 main
 "
@@ -2226,10 +2226,10 @@ main
 
 ```
 
-## 
+##
 Example Workflow
 
-### 
+###
 Template-First Approach
 
 ```
@@ -2268,7 +2268,7 @@ Validation: ✅ All checks passed"
 
 ```
 
-### 
+###
 Building from Scratch (if no template)
 
 ```
@@ -2317,7 +2317,7 @@ Validation: ✅ Passed"
 
 ```
 
-### 
+###
 Batch Updates
 
 ```
@@ -2327,10 +2327,10 @@ json
 
 n8n_update_partial_workflow({
 
- 
+
 id: "wf-123",
 
- 
+
 operations: [
 
  {
@@ -2346,22 +2346,22 @@ type: "updateNode", nodeId: "http-1", changes: {position: [300, 200]
  {
 type: "cleanStaleConnections"
 }
- 
+
 ]
 
 })
 
 ```
 
-## 
+##
 Important Rules
 
-### 
+###
 Core Behavior
 
 1
 .
- 
+
 **
 Silent execution
 **
@@ -2369,7 +2369,7 @@ Silent execution
 
 2
 .
- 
+
 **
 Parallel by default
 **
@@ -2377,7 +2377,7 @@ Parallel by default
 
 3
 .
- 
+
 **
 Templates first
 **
@@ -2385,7 +2385,7 @@ Templates first
 
 4
 .
- 
+
 **
 Multi-level validation
 **
@@ -2393,83 +2393,83 @@ Multi-level validation
 
 5
 .
- 
+
 **
 Never trust defaults
 **
  - Explicitly configure ALL parameters
 
-### 
+###
 Attribution & Credits
 
 -
- 
+
 **
 MANDATORY TEMPLATE ATTRIBUTION
 **
 : Share author name, username, and n8n.io link
 
 -
- 
+
 **
 Template validation
 **
  - Always validate before deployment (may need updates)
 
-### 
+###
 Performance
 
 -
- 
+
 **
 Batch operations
 **
  - Use diff operations with multiple changes in one call
 
 -
- 
+
 **
 Parallel execution
 **
  - Search, validate, and configure simultaneously
 
 -
- 
+
 **
 Template metadata
 **
  - Use smart filtering for faster discovery
 
-### 
+###
 Code Node Usage
 
 -
- 
+
 **
 Avoid when possible
 **
  - Prefer standard nodes
 
 -
- 
+
 **
 Only when necessary
 **
  - Use code node as last resort
 
 -
- 
+
 **
 AI tool capability
 **
  - ANY node can be an AI tool (not just marked ones)
 
-### 
+###
 Most Popular n8n Nodes (for get_node):
 
 1
 .
- 
+
 **
 n8n-nodes-base.code
 **
@@ -2477,7 +2477,7 @@ n8n-nodes-base.code
 
 2
 .
- 
+
 **
 n8n-nodes-base.httpRequest
 **
@@ -2485,7 +2485,7 @@ n8n-nodes-base.httpRequest
 
 3
 .
- 
+
 **
 n8n-nodes-base.webhook
 **
@@ -2493,7 +2493,7 @@ n8n-nodes-base.webhook
 
 4
 .
- 
+
 **
 n8n-nodes-base.set
 **
@@ -2501,7 +2501,7 @@ n8n-nodes-base.set
 
 5
 .
- 
+
 **
 n8n-nodes-base.if
 **
@@ -2509,7 +2509,7 @@ n8n-nodes-base.if
 
 6
 .
- 
+
 **
 n8n-nodes-base.manualTrigger
 **
@@ -2517,7 +2517,7 @@ n8n-nodes-base.manualTrigger
 
 7
 .
- 
+
 **
 n8n-nodes-base.respondToWebhook
 **
@@ -2525,7 +2525,7 @@ n8n-nodes-base.respondToWebhook
 
 8
 .
- 
+
 **
 n8n-nodes-base.scheduleTrigger
 **
@@ -2533,7 +2533,7 @@ n8n-nodes-base.scheduleTrigger
 
 9
 .
- 
+
 **
 @
 n8n/n8n-nodes-langchain
@@ -2543,7 +2543,7 @@ n8n/n8n-nodes-langchain
 
 10
 .
- 
+
 **
 n8n-nodes-base.googleSheets
 **
@@ -2551,7 +2551,7 @@ n8n-nodes-base.googleSheets
 
 11
 .
- 
+
 **
 n8n-nodes-base.merge
 **
@@ -2559,7 +2559,7 @@ n8n-nodes-base.merge
 
 12
 .
- 
+
 **
 n8n-nodes-base.switch
 **
@@ -2567,7 +2567,7 @@ n8n-nodes-base.switch
 
 13
 .
- 
+
 **
 n8n-nodes-base.telegram
 **
@@ -2575,7 +2575,7 @@ n8n-nodes-base.telegram
 
 14
 .
- 
+
 **
 @
 n8n/n8n-nodes-langchain
@@ -2585,7 +2585,7 @@ n8n/n8n-nodes-langchain
 
 15
 .
- 
+
 **
 n8n-nodes-base.splitInBatches
 **
@@ -2593,7 +2593,7 @@ n8n-nodes-base.splitInBatches
 
 16
 .
- 
+
 **
 n8n-nodes-base.openAi
 **
@@ -2601,7 +2601,7 @@ n8n-nodes-base.openAi
 
 17
 .
- 
+
 **
 n8n-nodes-base.gmail
 **
@@ -2609,7 +2609,7 @@ n8n-nodes-base.gmail
 
 18
 .
- 
+
 **
 n8n-nodes-base.function
 **
@@ -2617,7 +2617,7 @@ n8n-nodes-base.function
 
 19
 .
- 
+
 **
 n8n-nodes-base.stickyNote
 **
@@ -2625,7 +2625,7 @@ n8n-nodes-base.stickyNote
 
 20
 .
- 
+
 **
 n8n-nodes-base.executeWorkflowTrigger
 **
@@ -2634,11 +2634,11 @@ n8n-nodes-base.executeWorkflowTrigger
 **
 Note:
 **
- LangChain nodes use the 
+ LangChain nodes use the
 `
 @n8n/n8n-nodes-langchain.
 `
- prefix, core nodes use 
+ prefix, core nodes use
 `
 n8n-nodes-base.
 `
@@ -2754,25 +2754,25 @@ get_node
 (
 {
 
- 
+
 nodeType
-: 
+:
 "nodes-base.httpRequest"
 ,
 
- 
+
 detail
-: 
+:
 "standard"
 ,
- 
+
 // Default: Essential properties
 
- 
+
 includeExamples
-: 
+:
 true
- 
+
 // Include real-world examples from templates
 
 }
@@ -2784,17 +2784,17 @@ get_node
 (
 {
 
- 
+
 nodeType
-: 
+:
 "nodes-base.slack"
 ,
 
- 
+
 mode
-: 
+:
 "docs"
- 
+
 // Human-readable markdown documentation
 
 }
@@ -2806,21 +2806,21 @@ get_node
 (
 {
 
- 
+
 nodeType
-: 
+:
 "nodes-base.httpRequest"
 ,
 
- 
+
 mode
-: 
+:
 "search_properties"
 ,
 
- 
+
 propertyQuery
-: 
+:
 "authentication"
 
 }
@@ -2832,17 +2832,17 @@ get_node
 (
 {
 
- 
+
 nodeType
-: 
+:
 "nodes-base.httpRequest"
 ,
 
- 
+
 mode
-: 
+:
 "versions"
- 
+
 // View all versions with summary
 
 }
@@ -2854,17 +2854,17 @@ search_nodes
 (
 {
 
- 
+
 query
-: 
+:
 "send email gmail"
 ,
 
- 
+
 includeExamples
-: 
+:
 true
- 
+
 // Returns top 2 configs per node
 
 }
@@ -2876,17 +2876,17 @@ search_nodes
 (
 {
 
- 
+
 query
-: 
+:
 "scraping"
 ,
 
- 
+
 source
-: 
+:
 "community"
- 
+
 // Options: all, core, community, verified
 
 }
@@ -2898,17 +2898,17 @@ search_nodes
 (
 {
 
- 
+
 query
-: 
+:
 "pdf"
 ,
 
- 
+
 source
-: 
+:
 "verified"
- 
+
 // Only verified community integrations
 
 }
@@ -2920,40 +2920,40 @@ validate_node
 (
 {
 
- 
+
 nodeType
-: 
+:
 "nodes-base.httpRequest"
 ,
 
- 
+
 config
-: 
+:
 {
- 
+
 method
-: 
+:
 "POST"
 ,
- 
+
 url
-: 
+:
 "..."
- 
+
 }
 ,
 
- 
+
 mode
-: 
+:
 "full"
 ,
 
- 
+
 profile
-: 
+:
 "runtime"
- 
+
 // or "minimal", "ai-friendly", "strict"
 
 }
@@ -2965,32 +2965,32 @@ validate_node
 (
 {
 
- 
+
 nodeType
-: 
+:
 "nodes-base.slack"
 ,
 
- 
+
 config
-: 
+:
 {
- 
+
 resource
-: 
+:
 "message"
 ,
- 
+
 operation
-: 
+:
 "send"
- 
+
 }
 ,
 
- 
+
 mode
-: 
+:
 "minimal"
 
 }
@@ -3002,15 +3002,15 @@ search_templates
 (
 {
 
- 
+
 searchMode
-: 
+:
 "by_task"
 ,
 
- 
+
 task
-: 
+:
 "webhook_processing"
 
 }
@@ -3053,11 +3053,11 @@ npm run rebuild
 #
  5. Start the server
 
-npm start 
+npm start
 #
  stdio mode for Claude Desktop
 
-npm run start:http 
+npm run start:http
 #
  HTTP mode for remote access
 
@@ -3066,47 +3066,47 @@ npm run start:http
 #
  Build & Test
 
-npm run build 
+npm run build
 #
  Build TypeScript
 
-npm run rebuild 
+npm run rebuild
 #
  Rebuild node database
 
-npm run test-nodes 
+npm run test-nodes
 #
  Test critical nodes
 
-npm run validate 
+npm run validate
 #
  Validate node data
 
-npm 
+npm
 test
- 
+
 #
  Run all tests
 
 #
  Update Dependencies
 
-npm run update:n8n:check 
+npm run update:n8n:check
 #
  Check for n8n updates
 
-npm run update:n8n 
+npm run update:n8n
 #
  Update n8n packages
 
 #
  Run Server
 
-npm run dev 
+npm run dev
 #
  Development with auto-reload
 
-npm run dev:http 
+npm run dev:http
 #
  HTTP dev mode
 
@@ -3165,7 +3165,7 @@ The project includes a comprehensive test suite with2,883 testsensuring code qua
 #
  Run all tests
 
-npm 
+npm
 test
 
 #
@@ -3181,15 +3181,15 @@ npm run test:watch
 #
  Run specific test suites
 
-npm run test:unit 
+npm run test:unit
 #
  933 unit tests
 
-npm run test:integration 
+npm run test:integration
 #
  249 integration tests
 
-npm run test:bench 
+npm run test:bench
 #
  Performance benchmarks
 
@@ -3321,53 +3321,53 @@ www.n8n-mcp.com/
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 16k
 
  stars
- 
+
 
 ### Watchers
 
 142
 
  watching
- 
+
 
 ### Forks
 
 2.8k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases164
 
@@ -3375,11 +3375,11 @@ Release v2.40.5
 
  Latest
 
- 
+
 
 Mar 22, 2026
 
- 
+
 
 + 163 releases
 
@@ -3387,7 +3387,7 @@ Mar 22, 2026
 
  
 
- 
+
 
  Sponsor
 
@@ -3395,11 +3395,11 @@ Mar 22, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -3415,9 +3415,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors22
 

@@ -88,7 +88,7 @@ Other US Industrial Plants that Used these Color Methods
 
 US Pipe Factory
 The Scranton Lace Factory
-Christopher Payne | 
+Christopher Payne |
 Textile Series
 
 This color theory research just opened a whole can of design worms for me, and I’m excited to dive into them more. For example, Germany developed itsownseafoam green, specifically designed for bridges, calledCologne Bridge Green. That’s a post for another day.

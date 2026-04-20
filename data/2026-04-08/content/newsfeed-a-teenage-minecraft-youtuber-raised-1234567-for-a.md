@@ -41,27 +41,27 @@ My suspicion was not entirely unfounded. When I researched Jin’s previous comp
 
 I started to feel like thatPepe Silviameme, driving myself insane, finding unrelated clues that I could connect to prove a point. Even thelaunch videoincludes a short clip of theRickrollmeme — could that be a sign?
 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
 View this post on Instagram
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 Giggles’ $1,234,567 fundraise was led by1k(x), so I reached out to some 1k(x) investors to confirm their participation, despite the fact that I had already been emailing with the firm’s head of marketing. Some scammers havespoofed the TechCrunch domainto target founders — what if Jin had done the same thing? By this point, I could trust no one!
 
@@ -96,15 +96,15 @@ I can’t tell you that Giggles will actually solve the bot problem and make the
 Topics
 
 Apps
-, 
+,
 Exclusive
-, 
+,
 giggles
-, 
+,
 justin jin
- 
 
-			Amanda Silberling	
+
+			Amanda Silberling
 
 Senior Writer
 
@@ -112,6 +112,6 @@ Amanda Silberling is a senior writer at TechCrunch covering the intersection of 
 
 You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.
 
- 
+
 
 View Bio

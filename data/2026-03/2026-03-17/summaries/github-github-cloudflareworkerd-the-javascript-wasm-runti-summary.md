@@ -1,7 +1,7 @@
 ---
 title: GitHub - cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers · GitHub
 url: https://github.com/cloudflare/workerd
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-17T11:39:51.368980

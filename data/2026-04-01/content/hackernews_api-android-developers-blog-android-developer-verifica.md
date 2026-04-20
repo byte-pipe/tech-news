@@ -13,16 +13,16 @@ tags:
 - trending
 ---
 
-☰ 
+☰
 
 Android Developers Blog
 
 The latest Android and Google Play news for app and game
  developers.
 
- 🔍 
+ 🔍
 
-Android Developers 
+Android Developers
 →
 
 Jetpack

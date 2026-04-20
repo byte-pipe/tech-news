@@ -20,9 +20,9 @@ Animesh Singh
 
 March 27, 2026
 
- 
 
-Co-authors:Co-authored byAnimesh Singh,Co-authored byJaideep Ray, 
+
+Co-authors:Co-authored byAnimesh Singh,Co-authored byJaideep Ray,
  andCo-authored byNishant Garg
 
 A meaningful shift is starting to emerge in AI. The technology is being used to build more than just products for users. It is also being used to improve the infrastructure, training workflows, and optimization systems used to help build AI itself.
@@ -113,7 +113,7 @@ The system works because of a few core design decisions.
 
 ### Scoring based iterative loop:
 
- 
+
 
 The agentic framework is built for speed, reliability, and tight feedback loop between the verifier and the LLM.
 

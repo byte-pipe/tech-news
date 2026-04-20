@@ -22,7 +22,7 @@ To enable people to use these new features effectively, users are required to ha
 
 
 You may like the following:
-* [ThreadReaderApp: User-Friendly App for Sharing Information ](https://threadreaderapp.com/): 
+* [ThreadReaderApp: User-Friendly App for Sharing Information ](https://threadreaderapp.com/):
 * Meta's New Feature on Thread Reader App
 
 Keep up-to-date with the latest information and discussions related to this thread reader app.

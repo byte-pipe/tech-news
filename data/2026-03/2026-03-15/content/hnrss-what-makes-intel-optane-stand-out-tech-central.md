@@ -135,7 +135,7 @@ Relevant durability terms are:
 
 In the end all terms relate to each other, which shows nicely in the diagram below.
 
-Source: 
+Source:
 The SSD Guy
 
 ### Data consistency
@@ -151,7 +151,7 @@ PLP protects against:
 PLP can be done in hardware by adding an array of capacitor to the device or in firmware, of which the hardware implementation is preferred. For more info see the link “A Closer Look At SSD Power Loss Protection” from Kingston Memory.
 
 Crucial M500 Consumer drive with hardware PLP.
-Source: 
+Source:
 TheSSDReview.com
 
 All professional grade SSD’s have I’ve worked with (including Optane) have PLP. Be sure to check your drives for hardware PLP. On the Intel ARK product specification site, hardware PLP for Optane drives translates to the “Enhanced Power Loss Data Protection” feature.
@@ -168,10 +168,10 @@ Latency is where Optane has a clear advantage over NAND SSD’s. Latency is the 
 
 Let’s compare Optane drives with current Gen professional NAND based ones. It does not make sense to perform the test myself, since the pro’s atStoragereview.comhave already done that.
 
-Optane Read Latency. Source: 
+Optane Read Latency. Source:
 Storagereview.com
 
-NAND Read Latency. Source: 
+NAND Read Latency. Source:
 Storagereview.com
 
 The tables above shows it all. IOPS wise, Optane is up-to-par with the competition, but the drive shines when it comes down to latency. It’s just astonishing. Being around 25 microsecond (us) per 4K random read for Optane versus 90 to 110 us for NAND based drives. Putting it in perspective, is that every small read on an Optane drive is more than 300% faster. Even up to 1.3 Million IOPS on a single drive.
@@ -224,13 +224,13 @@ Kingston: A Closer Look At SSD Power Loss Protection
 
 Storagereview.com: Intel Optane P5800X Review
 
-Categories:								
+Categories:
 Homelab
 Storage
 vSAN
- 
 
-Tags: 
+
+Tags:
 homelab
 intel
 optane

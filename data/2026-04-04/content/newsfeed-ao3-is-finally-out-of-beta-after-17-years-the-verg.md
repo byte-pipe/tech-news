@@ -27,8 +27,8 @@ The fanfiction platform is going to continue adding new features even after drop
 The fanfiction platform is going to continue adding new features even after dropping the ‘beta’ label.
 
 by
- 
- 
+
+
 Emma Roth
 Apr 2, 2026, 10:07 PM UTC
 * Link
@@ -36,7 +36,7 @@ Apr 2, 2026, 10:07 PM UTC
 * Gift
 Illustration by Alex Castro / The Verge
 Emma Roth
- 
+
 is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.
 
 Archive of Our Own (AO3) is officially exiting beta. The Organization for Transformative Works — the nonprofit behind the fanfiction site —announced the update on Thursday, which comes 17 years after AO3’s launch in 2009.
@@ -74,19 +74,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 
@@ -102,7 +102,7 @@ Hisense’s art-inspired CanvasTV has hit a new low price
 Flipboard just launched Surf, its new social app and feed reader
 The best AirPods deals you can get right now
 Sheena Vasani
- and 
+ and
 Brandon Widder
 Apr 2
 The ABS Challenge System is exposing the worst umpire in baseball

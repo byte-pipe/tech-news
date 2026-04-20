@@ -20,16 +20,16 @@ Olivier Girardot
 
 it’s 9AM, you’re ready to upgrade your favorite Linux distribution and packages to their latest versions, the process goes smoothly and after a reboot your machine is now up-to-date. You start going as usual about your day and then when trying to list the content of a directory on your machine, something strange happens, the routinely boring behavior you’re used to oflssurprises you, and not for the best :
 
-javascript 
+javascript
 $ ls
 
 ┌──────────────────────────────────────────────────────────────────────┐
 
 │ │
 
-│ 
+│
 NOTICE
-: The legacy utility 
+: The legacy utility
 `ls`
  has evolved. │
 
@@ -37,27 +37,27 @@ NOTICE
 
 │ _ _ │
 
-│ 
+│
 /
  \ __
 |
  |
  ___ │
 
-│ 
+│
 /
- _ \ 
+ _ \
 /
  _
-` |/ _ 
-\ 
+` |/ _
+\
  │
 
-│ / ___ 
-\ 
+│ / ___
+\
 (_| | __/ │
 
-│ /_/ 
+│ /_/
 \_\_
 _,_|
 \_

@@ -1,7 +1,7 @@
 ---
 title: Reddit - The heart of the internet
 url: https://www.reddit.com/r/worldnews/comments/1rlcm3x/iran_to_allow_only_chinese_vessels_through_strait/
-date: 
+date:
 site: reddit
 model: gpt-oss:120b-cloud
 summarized_at: 2026-03-06T06:02:32.095328

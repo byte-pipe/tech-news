@@ -33,7 +33,7 @@ Bild vergrößern
 
 Jürgen Habermas
 
-Foto: 
+Foto:
 
 Martin Gerten / picture alliance / dpa
 

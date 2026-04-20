@@ -60,7 +60,7 @@ Canon is offering free shipping on all cameras and lenses, as well as ink and to
 Plus, Canon is doing its part for a better, more green future with its freerecycling program. Canon offers free recycling for all of its consumer products, including the imageCLASS and imageFORMULA small office and home office product lines, making it easier to recycle and have some peace of mind when it comes to deciding how to responsibly dispose of electronics.
 
 Scott Gilbertson
- is Operations Manager for the WIRED Reviews Team. He was previously a writer and editor for WIRED’s Webmonkey.com, covering the independent web and early internet culture. You can reach him at luxagraf.net. ... 
+ is Operations Manager for the WIRED Reviews Team. He was previously a writer and editor for WIRED’s Webmonkey.com, covering the independent web and early internet culture. You can reach him at luxagraf.net. ...
 Read More
 Senior Writer and Reviewer
 * X
@@ -87,7 +87,7 @@ Amazon and Best Buy have Roku's QLED Mini-LED panel marked down by hundreds of d
 Brad Bourque
 Save Up to 67% With These Chirp Discount Codes and Deals
 Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.
-Boutayna Chokrane 
+Boutayna Chokrane
 Samsung Promo Codes: 30% Off in March 2026
 Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.
 Molly Higgins

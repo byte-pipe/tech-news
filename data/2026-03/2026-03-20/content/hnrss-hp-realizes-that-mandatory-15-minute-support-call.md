@@ -51,17 +51,17 @@ Like many other firms have, it seems that HP could have benefitted financially f
 HP, at least, has apparently learned that extending wait times isn’t a good way to support customers. Although, we can’t guarantee that customers won’t still end up spending longer on the phone than they’d like when calling HP customer service.
 
  Scharon Harding
- 
+
 
 Senior Technology Reporter
 
  Scharon Harding
- 
+
 
 Senior Technology Reporter
 
  Scharon is a Senior Technology Reporter at Ars Technica writing news, reviews, and analysis on consumer gadgets and services. She's been reporting on technology for over 10 years, with bylines at Tom’s Hardware, Channelnomics, and CRN UK.
- 
+
 
 1. 1.TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs
 2. 2.Google details new 24-hour process to sideload unverified Android apps

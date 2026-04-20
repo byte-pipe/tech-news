@@ -89,7 +89,7 @@ Then the systemd dispute unfolded, and I found myself, as founder of the project
 
 Founder of@DevuanOrg(a Systemd-free fork of Debian) has declared that Devuan Linux "will remove age verification" that they inherit from projects they base upon.pic.twitter.com/fIN4lmDjUn
 
-— The Lunduke Journal (@LundukeJournal) 
+— The Lunduke Journal (@LundukeJournal)
 March 19, 2026
 
 That was the moment I realised the need to set out, in clear terms, the reasons behind this choice, and the grounds for a form ofconscientious objection should such laws ever be enforced on our projects at Dyne.org. I then wrote a piece for Wired Italy, in Italian, my mother tongue, which is due to be published by the magazine in the coming days (link TBD).

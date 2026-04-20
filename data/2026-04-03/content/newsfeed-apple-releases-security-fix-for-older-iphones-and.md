@@ -35,19 +35,19 @@ Apple customers who have switched on automatic software updates should receive t
 Topics
 
 Apple
-, 
+,
 cybersecurity
-, 
+,
 Darksword
-, 
+,
 iPad
-, 
+,
 iPhone
-, 
+,
 Security
- 
 
-			Zack Whittaker	
+
+			Zack Whittaker
 
 Security Editor
 
@@ -55,6 +55,6 @@ Zack Whittaker is the security editor at TechCrunch. He also authors the weekly 
 
 He can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, atzack.whittaker@techcrunch.com.
 
- 
+
 
 View Bio

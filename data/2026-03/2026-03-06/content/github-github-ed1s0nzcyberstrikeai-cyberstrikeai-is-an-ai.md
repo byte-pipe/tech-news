@@ -11,7 +11,7 @@ description: CyberStrikeAI is an AI-native security testing platform built in Go
 
 Ed1s0nZ
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork296
 * Star1.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -206,7 +206,7 @@ git clone https://github.com/Ed1s0nZ/CyberStrikeAI.git
 
 cd
  CyberStrikeAI-main
-chmod +x run.sh 
+chmod +x run.sh
 &&
  ./run.sh
 
@@ -402,308 +402,308 @@ Knowledge base structure:
 
 auth
 :
- 
+
 password
-: 
+:
 "
 change-me
 "
 
- 
+
 session_duration_hours
-: 
+:
 12
 
 server
 :
- 
+
 host
-: 
+:
 "
 0.0.0.0
 "
 
- 
+
 port
-: 
+:
 8080
 
 log
 :
- 
+
 level
-: 
+:
 "
 info
 "
 
- 
+
 output
-: 
+:
 "
 stdout
 "
 
 mcp
 :
- 
+
 enabled
-: 
+:
 true
 
- 
+
 host
-: 
+:
 "
 0.0.0.0
 "
 
- 
+
 port
-: 
+:
 8081
 
 openai
 :
- 
+
 api_key
-: 
+:
 "
 sk-xxx
 "
 
- 
+
 base_url
-: 
+:
 "
 https://api.deepseek.com/v1
 "
 
- 
+
 model
-: 
+:
 "
 deepseek-chat
 "
 
 database
 :
- 
+
 path
-: 
+:
 "
 data/conversations.db
 "
 
- 
+
 knowledge_db_path
-: 
+:
 "
 data/knowledge.db
 "
- 
+
 #
  Optional: separate DB for knowledge base
 
 security
 :
- 
+
 tools_dir
-: 
+:
 "
 tools
 "
 
 knowledge
 :
- 
+
 enabled
-: 
-false 
+:
+false
 #
  Enable knowledge base feature
 
- 
+
 base_path
-: 
+:
 "
 knowledge_base
 "
- 
+
 #
  Path to knowledge base directory
 
- 
+
 embedding
 :
- 
+
 provider
-: 
+:
 "
 openai
 "
- 
+
 #
  Embedding provider (currently only "openai")
 
- 
+
 model
-: 
+:
 "
 text-embedding-v4
 "
- 
+
 #
  Embedding model name
 
- 
+
 base_url
-: 
+:
 "
 "
- 
+
 #
  Leave empty to use OpenAI base_url
 
- 
+
 api_key
-: 
+:
 "
 "
- 
+
 #
  Leave empty to use OpenAI api_key
 
- 
+
 retrieval
 :
- 
+
 top_k
-: 
+:
 5
- 
+
 #
  Number of top results to return
 
- 
+
 similarity_threshold
-: 
+:
 0.7
- 
+
 #
  Minimum similarity score (0-1)
 
- 
+
 hybrid_weight
-: 
+:
 0.7
- 
+
 #
  Weight for vector search (1.0 = pure vector, 0.0 = pure keyword)
 
 roles_dir
-: 
+:
 "
 roles
 "
- 
+
 #
  Role configuration directory (relative to config file)
 
 skills_dir
-: 
+:
 "
 skills
 "
- 
+
 #
  Skills directory (relative to config file)
 
 ### Tool Definition Example (tools/nmap.yaml)
 
 name
-: 
+:
 "
 nmap
 "
 
 command
-: 
+:
 "
 nmap
 "
 
 args
-: 
+:
 ["-sT", "-sV", "-sC"]
 
 enabled
-: 
+:
 true
 
 short_description
-: 
+:
 "
 Network mapping & service fingerprinting
 "
 
 parameters
 :
- - 
+ -
 name
-: 
+:
 "
 target
 "
 
- 
+
 type
-: 
+:
 "
 string
 "
 
- 
+
 description
-: 
+:
 "
 IP or domain
 "
 
- 
+
 required
-: 
+:
 true
 
- 
+
 position
-: 
+:
 0
 
- - 
+ -
 name
-: 
+:
 "
 ports
 "
 
- 
+
 type
-: 
+:
 "
 string
 "
 
- 
+
 flag
-: 
+:
 "
 -p
 "
 
- 
+
 description
-: 
+:
 "
 Range, e.g. 1-1000
 "
@@ -711,54 +711,54 @@ Range, e.g. 1-1000
 ### Role Definition Example (roles/penetration-testing.yaml)
 
 name
-: 
+:
 Penetration Testing
 
 description
-: 
+:
 Professional penetration testing expert for comprehensive security testing
 
 user_prompt
-: 
+:
 You are a professional cybersecurity penetration testing expert. Please use professional penetration testing methods and tools to conduct comprehensive security testing on targets, including but not limited to SQL injection, XSS, CSRF, file inclusion, command execution and other common vulnerabilities.
 
 icon
-: 
+:
 "
 \U0001F3AF
 "
 
 tools
 :
- - 
+ -
 nmap
 
- - 
+ -
 sqlmap
 
- - 
+ -
 nuclei
 
- - 
+ -
 burpsuite
 
- - 
+ -
 metasploit
 
- - 
+ -
 httpx
 
- - 
+ -
 record_vulnerability
 
- - 
+ -
 list_knowledge_risk_types
 
- - 
+ -
 search_knowledge_base
 
 enabled
-: 
+:
 true
 
 ## Related documentation
@@ -848,43 +848,43 @@ CyberStrikeAI is an AI-native security testing platform built in Go. It integrat
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 1.4k
 
  stars
- 
+
 
 ### Watchers
 
 18
 
  watching
- 
+
 
 ### Forks
 
 296
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases22
 
@@ -892,11 +892,11 @@ v1.3.16
 
  Latest
 
- 
+
 
 Mar 3, 2026
 
- 
+
 
 + 21 releases
 
@@ -912,9 +912,9 @@ Mar 3, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -922,9 +922,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

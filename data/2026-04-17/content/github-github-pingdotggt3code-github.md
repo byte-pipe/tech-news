@@ -11,7 +11,7 @@ description: Contribute to pingdotgg/t3code development by creating an account o
 
 pingdotgg
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.7k
 * Star9.3k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -215,7 +215,7 @@ Before local development, prepare the environment and install dependencies:
  Optional: only needed if you use mise for dev tool management.
 
 mise install
-bun install 
+bun install
 .
 
 ReadCONTRIBUTING.mdbefore opening an issue or PR.
@@ -230,56 +230,56 @@ t3.codes
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 9.3k
 
  stars
- 
+
 
 ### Watchers
 
 30
 
  watching
- 
+
 
 ### Forks
 
 1.7k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases34
 
@@ -287,11 +287,11 @@ T3 Code v0.0.20
 
  Latest
 
- 
+
 
 Apr 17, 2026
 
- 
+
 
 + 33 releases
 
@@ -307,9 +307,9 @@ Apr 17, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -317,9 +317,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -21,17 +21,17 @@ AI and SEO
 
  March 27, 2026
 
- Written by: 
- 
+ Written by:
+
 
  Tom Capper
- 
 
-Edited By: 
- 
+
+Edited By:
+
 
  Meghan Pahinui
- 
+
 
 Whiteboard Friday
 
@@ -43,17 +43,17 @@ AI and SEO
 
  March 27, 2026
 
- Written by: 
- 
+ Written by:
+
 
  Tom Capper
- 
 
-Edited By: 
- 
+
+Edited By:
+
 
  Meghan Pahinui
- 
+
 
 Are you measuring AI visibility wrong? Tom Capper reveals the 4 biggest mistakes in AI prompt tracking and 4 creative ways to expand your list of prompts.
 
@@ -82,7 +82,7 @@ Obviously, you might be one of the cited sources here. But the most important th
 See how you stack up against competitors right now!
 
  Track your AI visibility
- 
+
 
 So I think this is mentions over citations, and also not necessarily just mentions of your domain or even of your main brand. Obviously, some of your other brands, like iPhone, in this case, for example, or iTunes, or whatever it might be, those are more important than who is being cited.
 
@@ -123,7 +123,7 @@ So I think you need to have a scale that is appropriate, and that's what we're t
 Identify prompts that matter to your brand with Prompt Suggestions in Moz Pro.
 
  Try it now
- 
+
 
 I'll talk a little bit in a moment about how you might make use of different types of prompts to make sure that you're getting a representative picture.
 
@@ -185,21 +185,21 @@ Written by
 
 I head up the Search Science team at Moz, working on Moz's next generation of tools, insights, and products.
 
-Back to Top 
- 
+Back to Top
 
- 
+
+
 
 ## With Moz Pro, you have the tools you need to get SEO right — all in one place.
 
  Start your free trial!
- 
+
 
 ## Read Next
 
 Whiteboard Friday
 
- 
+
 
 AI and SEO
 
@@ -209,11 +209,11 @@ How does Google's AI Overview expand user queries? Tom Capper reveals 10 fan-out
 
 Whiteboard Friday
 
- 
+
 
 Branding
 
- 
+
 
 Digital PR
 
@@ -223,7 +223,7 @@ In this episode of Whiteboard Friday, Chloe Osunsami provides 3 simple steps for
 
 Whiteboard Friday
 
- 
+
 
 AI and SEO
 

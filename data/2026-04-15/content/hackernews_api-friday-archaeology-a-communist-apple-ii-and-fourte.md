@@ -22,7 +22,7 @@ alex
 in
 
 Engineering Archaeology
-, 
+,
 Projects
 
 It is Friday.KPMG, the consultancy behemoth that delivers business Venn diagrams for outrageous prices, informs us that 70 percent of UK business leaders will keep spending on AI even when they can’t prove it does anything — the consultancy helpfully suggests we stop calling it “investment” and start calling it a “strategic enabler for enterprise-wide transformation,” which is the corporate equivalent of renaming a hole in the ground a “subterranean opportunity space.”
@@ -90,13 +90,13 @@ None of this requires a strategic enabler for enterprise-wide transformation. It
 Happy Friday. The circuits do not hallucinate.
 
 007
- 
+
 digital circuits
- 
+
 hardware design
- 
+
 reverse engineering
- 
+
 security
 
 ## More posts

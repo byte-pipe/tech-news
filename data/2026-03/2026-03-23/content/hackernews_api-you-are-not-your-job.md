@@ -16,7 +16,7 @@ tags:
 # You Are Not Your Job
 
  Mar 22, 2026
- 
+
 
 I'm Jacob - I runSancho Studioa software consulting group - I write about cryptography, craft, and
  human experience.

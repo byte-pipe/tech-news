@@ -27,8 +27,8 @@ tags:
 ﻿Nintendo reportedly plans to launch a Switch 2 revision in the EU that offers easier battery swaps.
 
 by
- 
- 
+
+
 Jay Peters
 Mar 20, 2026, 7:59 PM UTC
 * Link
@@ -37,9 +37,9 @@ Mar 20, 2026, 7:59 PM UTC
 Photo: Amelia Holowaty Krales / The Verge
 Part Of
 Right to repair: all the latest news and updates
-see all updates 
+see all updates
 Jay Peters
- 
+
 is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme.
 
 Nintendo plans to release a Switch 2 revision in the European Union that will let users replace their own batteries,Nikkeireports. The current version of the Switch 2 has a glued-in battery. But Nintendo apparently plans to make the change in order to comply with EU rules going into effect in February 2027 that will require devices to let users easily swap out portable batteries.
@@ -87,19 +87,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

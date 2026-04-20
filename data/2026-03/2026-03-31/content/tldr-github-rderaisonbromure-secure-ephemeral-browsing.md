@@ -13,7 +13,7 @@ tags:
 
 rderaison
 
- 
+
 
 /
 
@@ -25,9 +25,9 @@ Public
 * Fork12
 * Star195
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -168,7 +168,7 @@ Add Bromure to your Login Items and a warm VM is always ready when you need it.
 Create named profiles for different contexts -- Work, Personal, Banking, Shopping, Research -- each with its own color-coded window border so you can tell them apart at a glance.
 
    
- 
+
 
 Every profile carries its own independent settings -- home page, VPN, ad blocking, clipboard access, network rules, media devices -- so your banking profile can be locked down tight while your personal profile lets you copy-paste and download freely.
 
@@ -362,48 +362,48 @@ Secure, ephemeral browsing in a disposable VM (macOS only)
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 195
 
  stars
- 
+
 
 ### Watchers
 
 3
 
  watching
- 
+
 
 ### Forks
 
 12
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases8
 
@@ -411,11 +411,11 @@ v2.4.0 -- keychain support
 
  Latest
 
- 
+
 
 Mar 24, 2026
 
- 
+
 
 + 7 releases
 
@@ -431,9 +431,9 @@ Mar 24, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -441,9 +441,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

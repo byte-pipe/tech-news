@@ -30,7 +30,7 @@ Adobe is also releasing skills, which consist of multiple steps, for the assista
 
 Loading the player…
 
- 
+
 
 Techcrunch event
 
@@ -61,24 +61,24 @@ Adobe is adding new features to the Firefly tool, too. The AI video editor is ge
 Topics
 
 Adobe
-, 
+,
 Adobe Firefly
-, 
+,
 AI
-, 
+,
 AI assistant
-, 
+,
 Apps
-, 
+,
 Creative Cloud
- 
 
-			Ivan Mehta	
+
+			Ivan Mehta
 
 Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.
 
 You can contact or verify outreach from Ivan by emailingim@ivanmehta.comor via encrypted message at ivan.42 on Signal.
 
- 
+
 
 View Bio

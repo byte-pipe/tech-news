@@ -42,15 +42,15 @@ A spokesperson for Accel did not respond to a request for comment.
 Topics
 
 Accel
-, 
+,
 AI
-, 
+,
 In Brief
-, 
+,
 late stage
-, 
+,
 Venture
- 
+
 
 ### Newsletters
 
@@ -75,7 +75,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

@@ -15,9 +15,9 @@ tags:
 
 TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.
 
-Photo by 
+Photo by
 Lucian
- on 
+ on
 Unsplash
 
 A few months ago, I wrote abouthow making computers do things is fun. The gist: I've never been in it for the elegance of code. I've been in it for the result. I learned BASIC on a Commodore 64 at age 7 not because BASIC was beautiful (it wasn't) but because I wanted to make things happen on screen. Then I learned 6502 assembly because BASIC was too slow for what I wanted todo.

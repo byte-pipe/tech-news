@@ -1,7 +1,7 @@
 ---
 title: GitHub - pingdotgg/t3code · GitHub
 url: https://github.com/pingdotgg/t3code
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-17T12:02:15.017495

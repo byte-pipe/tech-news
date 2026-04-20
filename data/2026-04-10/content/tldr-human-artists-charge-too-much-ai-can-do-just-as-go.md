@@ -42,9 +42,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -68,7 +68,7 @@ A photo posted by on
 
 For many, the situation raised a complex debate as creatives weighed the cost of a small business hiring human talent. "Graphic designer here...It blows my mind that anyone is that invested in the logo of a local restaurant and would go so far as to leave a negative review ABOUT THE LOGO knowing that could hurt the business. It is a restaurant, not a design agency," one commenter responded.
 
-Article continues below 
+Article continues below
 
 "Graphic designer/illustrator of 30+ years here. Obviously this logo is no worse than a billion other small business logos you can see anywhere in the world. The idea that small businesses are obligated to employ designers/illustrators doesn't hold much weight really - I'm sure most graphic designers have at least once typed their bosses/client's text intoPhotoshopor InDesign and then scrolled through fonts lists rather than subcontract the work to a New York based artisan typographer or Swedish type foundry," another added."
 

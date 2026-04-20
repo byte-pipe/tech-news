@@ -41,7 +41,7 @@ wasm-bindgengenerates glue code that lets Rust structs, methods, and functions b
 
 Wasm bindings often look something like this:
 
-#[wasm_bindgen(js_name 
+#[wasm_bindgen(js_name
 =
  Foo
 )]
@@ -53,9 +53,9 @@ pub
 RustFoo
 )
 
- 
 
-#[wasm_bindgen(js_name 
+
+#[wasm_bindgen(js_name
 =
  Bar
 )]
@@ -127,17 +127,17 @@ This is where you’ll usually spend most of your time. Wrapping Rust enums and 
 
 #[derive(
 Debug
-, 
+,
 Clone
-, 
+,
 Copy
-, 
+,
 PartialOrd
-, 
+,
 Ord
-, 
+,
 PartialEq
-, 
+,
 Eq
 )]
 
@@ -157,23 +157,23 @@ pub
 
 }
 
- 
+
 
 #[derive(
 Debug
-, 
+,
 Clone
-, 
+,
 PartialOrd
-, 
+,
 Ord
-, 
+,
 PartialEq
-, 
+,
 Eq
 )]
 
-#[wasm_bindgen(js_name 
+#[wasm_bindgen(js_name
 =
  StreetLight
 )]
@@ -185,9 +185,9 @@ pub
 StreetLight
 )
 
- 
 
-#[wasm_bindgen(js_class 
+
+#[wasm_bindgen(js_class
 =
  StreetLight
 )]
@@ -201,7 +201,7 @@ impl
  pub
  fn
  new
-() 
+()
 ->
  Self
  {
@@ -215,7 +215,7 @@ Red
 
  }
 
- 
+
 
  // ...
 
@@ -237,7 +237,7 @@ extern
  "C"
  {
 
- #[wasm_bindgen(js_name 
+ #[wasm_bindgen(js_name
 =
  logCurrentTime)]
 
@@ -252,7 +252,7 @@ timestamp
 
 }
 
- 
+
 
 #[wasm_bindgen]
 
@@ -260,7 +260,7 @@ extern
  "C"
  {
 
- #[wasm_bindgen(js_name 
+ #[wasm_bindgen(js_name
 =
  Hero
 )]
@@ -269,9 +269,9 @@ extern
  JsCharacter
 ;
 
- 
 
- #[wasm_bindgen(method, getter, js_name 
+
+ #[wasm_bindgen(method, getter, js_name
 =
  hp)]
 
@@ -283,14 +283,14 @@ this
 :
  &
 JsCharacter
-) 
+)
 ->
  u32
 ;
 
 }
 
- 
+
 
 // Elsewhere
 
@@ -302,7 +302,7 @@ const
  maelle
 .
 js_hp
-() 
+()
 !=
  0
 
@@ -324,7 +324,7 @@ Copyis only acceptable when exporting wrapping around pure data that hasIntoWasm
 
 Try as it might,wasm-bindgenis unable to prevent handles breaking at runtime. A common culprit is passing an owned value to Rust:
 
-#[wasm_bindgen(js_class 
+#[wasm_bindgen(js_class
 =
  Foo
 )]
@@ -333,7 +333,7 @@ impl
  WasmFoo
  {
 
- #[wasm_bindgen(js_name 
+ #[wasm_bindgen(js_name
 =
  "doSomething"
 )]
@@ -344,14 +344,14 @@ impl
 (
 &
 self
-, 
+,
 bar
 :
  Bar
-) 
+)
 ->
  Result
-<(), 
+<(),
 Error
 > {
 
@@ -359,9 +359,9 @@ Error
 
  }
 
- 
 
- #[wasm_bindgen(js_name 
+
+ #[wasm_bindgen(js_name
 =
  "doSomethingElse"
 )]
@@ -372,16 +372,16 @@ Error
 (
 &
 self
-, 
+,
 bars
 :
  Vec
 <
 Bar
->) 
+>)
 ->
  Result
-<(), 
+<(),
 Error
 > {
 
@@ -415,11 +415,11 @@ This is a pretty easy pattern to follow: default to wrapping non-IntoWasmAbitype
 
 #[derive(
 Debug
-, 
+,
 Clone
 )]
 
-#[wasm_bindgen(js_name 
+#[wasm_bindgen(js_name
 =
  Foo
 )]
@@ -431,7 +431,7 @@ pub
 pub
 (
 crate
-) 
+)
 Rc
 <
 RefCell
@@ -439,15 +439,15 @@ RefCell
 Foo
 >>)
 
- 
+
 
 #[derive(
 Debug
-, 
+,
 Clone
 )]
 
-#[wasm_bindgen(js_name 
+#[wasm_bindgen(js_name
 =
  Bar
 )]
@@ -459,7 +459,7 @@ pub
 pub
 (
 crate
-) 
+)
 Rc
 <
 RefCell
@@ -467,9 +467,9 @@ RefCell
 Bar
 >>)
 
- 
 
-#[wasm_bindgen(js_class 
+
+#[wasm_bindgen(js_class
 =
  Foo
 )]
@@ -478,7 +478,7 @@ impl
  WasmFoo
  {
 
- #[wasm_bindgen(js_name 
+ #[wasm_bindgen(js_name
 =
  "doSomething"
 )]
@@ -489,14 +489,14 @@ impl
 (
 &
 self
-, 
+,
 bar
 :
  WasmBar
-) 
+)
 ->
  Result
-<(), 
+<(),
 Error
 > {
 
@@ -537,11 +537,11 @@ The workaround is fairly straightforward:
 
 #[derive(
 Debug
-, 
+,
 Clone
 )]
 
-#[wasm_bindgen(js_name 
+#[wasm_bindgen(js_name
 =
  Character
 )]
@@ -557,9 +557,9 @@ RefCell
 Character
 >>)
 
- 
 
-#[wasm_bindgen(js_class 
+
+#[wasm_bindgen(js_class
 =
  Character
 )]
@@ -570,7 +570,7 @@ impl
 
  // ...
 
- 
+
 
  // Step 2: expose a *namespaced* (important!) `clone` function on the Wasm export
 
@@ -582,7 +582,7 @@ impl
 (
 &
 self
-) 
+)
 ->
  Self
  {
@@ -596,7 +596,7 @@ clone
 
 }
 
- 
+
 
 #[wasm_bindgen]
 
@@ -607,7 +607,7 @@ extern
  type
  JsCharacter
 
- 
+
 
  // Step 3: create a JS-imported interface with that namespaced `clone`
 
@@ -619,14 +619,14 @@ this
 :
  &
 JsCharacter
-) 
+)
 ->
  WasmCharacter
 ;
 
 }
 
- 
+
 
 // Step 4: for convenience, wrap the namespaced clone in a `.from`
 
@@ -634,7 +634,7 @@ impl
  From
 <
 JsChcaracter
-> 
+>
 for
  WasmCharacter
  {
@@ -645,7 +645,7 @@ for
 js
 :
  JsCharacter
-) 
+)
 ->
  Self
  {
@@ -659,7 +659,7 @@ __myapp_character_clone
 
 }
 
- 
+
 
 // Nicely typed Vec
 
@@ -682,7 +682,7 @@ JsFoo
  Vec
 <
 WasmFoo
-> 
+>
 =
  js_foos
 .
@@ -733,13 +733,13 @@ use
 ::
 wasm_refgen;
 
- 
+
 
 #[derive(
 Clone
 )]
 
-#[wasm_bindgen(js_name 
+#[wasm_bindgen(js_name
 =
  "Foo"
 )]
@@ -758,9 +758,9 @@ RefCell
 HashMap
 <
 String
-, 
+,
 u8
->>>, 
+>>>,
 // Cheap to clone
 
  id
@@ -770,15 +770,15 @@ u8
 
 }
 
- 
 
-#[wasm_refgen(js_ref 
+
+#[wasm_refgen(js_ref
 =
  JsFoo
 )]
  // <-- THIS
 
-#[wasm_bindgen(js_class 
+#[wasm_bindgen(js_class
 =
  "Foo"
 )]
@@ -833,7 +833,7 @@ Here’s a diagram from the README about how it works:
 
 JS/TS │ │
 
-─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─│─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┼ ─ ─ ─ ─ ─ 
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─│─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┼ ─ ─ ─ ─ ─
 
  Wasm │ │
 
@@ -863,7 +863,7 @@ JS/TS │ │
 
  Into::into
 
- (uses `__wasm_refgen_to_Foo`) 
+ (uses `__wasm_refgen_to_Foo`)
 
  (which is a wrapper for `clone`)
 
@@ -904,7 +904,7 @@ JsFoo
  Vec
 <
 WasmFoo
-> 
+>
 =
  js_foos
 .
@@ -932,7 +932,7 @@ For example, let’s say we have this type:
 
 #[derive(
 Debug
-, 
+,
 Clone
 , thiserror
 ::
@@ -953,7 +953,7 @@ pub
 String
 ),
 
- 
+
 
  #[error(
 "cannot write"
@@ -969,7 +969,7 @@ The fact that this is an enum is actually not a problem (the rest of the techniq
 
 #[derive(
 Debug
-, 
+,
 Clone
 , thiserror
 ::
@@ -977,7 +977,7 @@ Error
 )]
 
 #[error(transparent)]
- 
+
 
 pub
  struct
@@ -985,7 +985,7 @@ pub
 (
 #[from]
  RwError
-) 
+)
 // #[from] gets us `?` notation to lift into the newtype
 
 We “could” slap a#[wasm_bindgen]on this and call it a day, but then we wouldn’t get nice error info on the JS side. Instead, we convert toJsValueourselves with this final bit of glue:
@@ -994,7 +994,7 @@ impl
  From
 <
 WasmRwError
-> 
+>
 for
  JsValue
  {
@@ -1005,7 +1005,7 @@ for
 wasm
 :
  WasmRwError
-) 
+)
 ->
  Self
  {
@@ -1023,7 +1023,7 @@ new
 wasm
 .
 to_string
-()); 
+());
 // Error message
 
  err
@@ -1031,13 +1031,13 @@ to_string
 set_name
 (
 "RwError"
-); 
+);
 // Nice JS error type
 
  err
 .
 into
-() 
+()
 // Convert to `JsValue`
 
  }
@@ -1112,7 +1112,7 @@ use
 ::
 {
 Path
-, 
+,
 PathBuf
 },
 
@@ -1125,13 +1125,13 @@ Command
 ::
 {
 SystemTime
-, 
+,
 UNIX_EPOCH
 },
 
 };
 
- 
+
 
 #[allow(clippy
 ::
@@ -1177,7 +1177,7 @@ from
 
  );
 
- 
+
 
  let
  repo_root
@@ -1205,7 +1205,7 @@ join
 ".git"
 );
 
- 
+
 
  watch_git
 (
@@ -1213,7 +1213,7 @@ join
 git_dir
 );
 
- 
+
 
  let
  git_hash
@@ -1264,7 +1264,7 @@ unwrap_or_else
 to_string
 ());
 
- 
+
 
  let
  dirty
@@ -1278,16 +1278,16 @@ to_string
  &
 [
 "-C"
-, 
+,
 repo_root
 .
 to_str
 ()
 .
 unwrap
-(), 
+(),
 "status"
-, 
+,
 "--porcelain"
 ],
 
@@ -1305,7 +1305,7 @@ s
 is_empty
 ());
 
- 
+
 
  let
  git_hash
@@ -1341,7 +1341,7 @@ as_secs
 "{git_hash}-dirty-{secs}"
 )
 
- } 
+ }
 else
  {
 
@@ -1349,7 +1349,7 @@ else
 
  };
 
- 
+
 
  println!
 (
@@ -1358,7 +1358,7 @@ else
 
 }
 
- 
+
 
 fn
  cmd_out
@@ -1367,14 +1367,14 @@ cmd
 :
  &
 str
-, 
+,
 args
 :
  &
 [
 &
 str
-]) 
+])
 ->
  Option
 <
@@ -1430,7 +1430,7 @@ trim
 to_string
 ())
 
- } 
+ }
 else
  {
 
@@ -1442,7 +1442,7 @@ else
 
 }
 
- 
+
 
 fn
  find_repo_root
@@ -1451,7 +1451,7 @@ start
 :
  &
 Path
-) 
+)
 ->
  Option
 <
@@ -1472,7 +1472,7 @@ start
  Some
 (
 dir
-) 
+)
 =
  cur
  {
@@ -1511,7 +1511,7 @@ parent
 
 }
 
- 
+
 
 fn
  watch_git
@@ -1525,7 +1525,7 @@ Path
  println!
 (
 "cargo:rerun-if-changed={}"
-, 
+,
 git_dir
 .
 join
@@ -1536,14 +1536,14 @@ join
 display
 ());
 
- 
+
 
  if
  let
  Ok
 (
 head
-) 
+)
 =
  fs
 ::
@@ -1561,7 +1561,7 @@ join
  Some
 (
 rest
-) 
+)
 =
  head
 .
@@ -1579,7 +1579,7 @@ trim
  println!
 (
 "cargo:rerun-if-changed={}"
-, 
+,
 git_dir
 .
 join
@@ -1612,12 +1612,12 @@ display
 
  }
 
- 
+
 
  println!
 (
 "cargo:rerun-if-changed={}"
-, 
+,
 git_dir
 .
 join
@@ -1628,7 +1628,7 @@ join
 display
 ());
 
- 
+
 
  let
  fetch_head
@@ -1649,7 +1649,7 @@ exists
  println!
 (
 "cargo:rerun-if-changed={}"
-, 
+,
 fetch_head
 .
 display
@@ -1683,11 +1683,11 @@ prelude
 ::*
 ;
 
- 
+
 
 // ...
 
- 
+
 
 #[wasm_bindgen(start)]
 
@@ -1699,7 +1699,7 @@ pub
  set_panic_hook
 ();
 
- 
+
 
  // I actually use `tracing::info!` here,
 

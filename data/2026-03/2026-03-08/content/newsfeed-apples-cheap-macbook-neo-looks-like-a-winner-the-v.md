@@ -27,8 +27,8 @@ Plus, in this week’s Installer: A new model from OpenAI, F1 is back, Slay the 
 Plus, in this week’s Installer: A new model from OpenAI, F1 is back, Slay the Spire 2 is here, and more.
 
 by
- 
- 
+
+
 David Pierce
 Mar 7, 2026, 1:00 PM UTC
 * Link
@@ -39,7 +39,7 @@ If you buy something from a Verge link, Vox Media may earn a commission.See our 
 
 Image: David Pierce / The Verge
 David Pierce
- 
+
 is editor-at-large and Vergecast co-host with over a decade of experience covering consumer tech. Previously, at Protocol, The Wall Street Journal, and Wired.
 
 Hi, friends! Welcome toInstallerNo. 118, your guide to the best andVerge-iest stuff in the world. (If you’re new here, welcome, please take my Switch away so I can get some work done, and also you can read all the old editions at theInstallerhomepage.)
@@ -146,19 +146,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

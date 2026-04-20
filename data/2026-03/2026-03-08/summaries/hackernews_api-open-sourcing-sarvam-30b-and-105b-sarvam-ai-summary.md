@@ -11,8 +11,8 @@ summarized_at: 2026-03-08T07:26:26.514439
 
 # Open-Sourcing Sarvam 30B and 105B
 
-- Publication date: March 6, 2026  
-- Categories: Research, Open source  
-- Estimated reading time: 18 minutes  
-- Main focus: Announcement of the open‑source release of the Sarvam 30B and 105B language models.  
+- Publication date: March 6, 2026
+- Categories: Research, Open source
+- Estimated reading time: 18 minutes
+- Main focus: Announcement of the open‑source release of the Sarvam 30B and 105B language models.
 - Call to action: Explore Sarvam APIs, start creating, and download the models now.

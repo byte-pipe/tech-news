@@ -1,7 +1,7 @@
 ---
 title: Reddit - Please wait for verification
 url: https://www.reddit.com/r/worldnews/comments/1soe4n7/trump_tells_useless_nato_to_stay_away_after_uk/
-date: 
+date:
 site: reddit
 model: llama3.2:1b
 summarized_at: 2026-04-19T06:12:08.790646

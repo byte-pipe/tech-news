@@ -9,7 +9,7 @@ author: joe4942
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 joe4942
 
- 
+
 
 # US Navy tells shipping industry Hormuz escorts not possible for now
 
  reuters.com
- 
+
 
 Open

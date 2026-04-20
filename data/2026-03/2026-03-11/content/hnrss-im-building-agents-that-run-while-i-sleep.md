@@ -61,7 +61,7 @@ TDD asks you to write unit tests, which means thinking about how the code will w
 
 P.S I write about Claude Code internals every week. Last week I wrote about howClaude Code is a while loop with 23 tools.Subscribe to get the next one!
 
-Subscribe 
+Subscribe
 
 ### What this looks like in practice
 

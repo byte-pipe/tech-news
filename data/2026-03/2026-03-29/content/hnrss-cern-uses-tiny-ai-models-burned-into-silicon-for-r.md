@@ -92,7 +92,7 @@ arXiv Paper
 Real-time Anomaly Detection at the L1 Trigger of CMS Experiment (introduces AXOL1TL and CICADA algorithms)
 
 https://arxiv.org/abs/2411.19506
- (or html version: 
+ (or html version:
 https://arxiv.org/html/2411.19506v1
 )
 
@@ -115,7 +115,7 @@ https://theopenreader.org/index.php?title=Journalism:CERN_Uses_Tiny_AI_Models_Bu
 "
 
 Categories
-: 
+:
 * Artificial Intelligence Journalism
 * High Energy Physics Journalism
 * Artificial Intelligence Article

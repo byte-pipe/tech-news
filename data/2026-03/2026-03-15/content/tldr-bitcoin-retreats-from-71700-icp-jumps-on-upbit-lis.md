@@ -26,16 +26,16 @@ Email
 ## BTC traded near $69,500 after failing to hold $71,000 as the Iran war kept markets cautious. AI tokens including ICP, FET outperformed on strong retail demand.
 
 By
- 
+
 Oliver Knight
-, 
+,
 Omkar Godbole
 |
 Edited by
- 
+
 Sheldon Reback
- 
-Mar 11, 2026, 10:35 a.m. 
+
+Mar 11, 2026, 10:35 a.m.
 Make us preferred on Google
 AI tokens jump (Sumaid pal Singh Bakshi/Unsplash modified by CoinDesk)
 
@@ -85,15 +85,15 @@ More For You
 Bitcoin rises to one-month high of $73,800, continuing to outperform since start of Iran war
 
 By
- 
+
 Helene Braun
-, 
+,
 Krisztian Sandor
-, 
+,
 James Van Straten
 |
 Edited by
- 
+
 Stephen Alpher
 Mar 13, 2026
 
@@ -106,7 +106,7 @@ What to know:
 * Funding positioning of perpetual futures traders has been negative for the longest period since the bottom of the last major bear market in 2022.
 Read full story
 Latest Crypto News
- 
+
 
 #### Bitcoin rises to one-month high of $73,800, continuing to outperform since start of Iran war
 

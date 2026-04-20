@@ -18,36 +18,36 @@ tags:
 
 2026-03-17
 
- 
+
  #
 devops
  
- 
+
  #
 mysql
  
- 
+
  #
 nginx
  
- 
+
  #
 migration
  
- 
+
  #
 hetzner
  
- 
+
  #
 digitalocean
  
- 
+
  #
 linux
  
- 
- 
+
+
 
 A real-world production migration from DigitalOcean to Hetzner dedicated, handling 248 GB of MySQL data across 30 databases, 34 Nginx sites, GitLab EE, Neo4j, and live mobile app traffic — with zero downtime.
 
@@ -142,31 +142,31 @@ This was the most complex part of the entire operation.
 
 We usedmydumperinstead of the standardmysqldump— and it made an enormous difference. By leveraging the new server’s 48 CPU cores for parallel export and import, what would have takendayswith a traditional single-threadedmysqldumpwas completed inhours. If you’re migrating a large MySQL database and you’re not usingmydumper/myloader, you’re doing it the hard way.
 
-mydumper 
+mydumper
 \
 
- --threads 
+ --threads
 32
- 
+
 \
 
- --compress 
+ --compress
 \
 
- --trx-consistency-only 
+ --trx-consistency-only
 \
 
- --skip-definer 
+ --skip-definer
 \
 
- --chunk-filesize 
+ --chunk-filesize
 256
- 
+
 \
 
- -v 
+ -v
 3
- 
+
 \
 
  --outputdir /root/mydumper_backup/
@@ -188,28 +188,28 @@ The--compressflag inmydumperpaid off here — compressed chunks transferred much
 
 ### Loading the Data⌗
 
-myloader 
+myloader
 \
 
- --threads 
+ --threads
 32
- 
+
 \
 
- --overwrite-tables 
+ --overwrite-tables
 \
 
- --ignore-errors 
+ --ignore-errors
 1062
- 
+
 \
 
- --skip-definer 
+ --skip-definer
 \
 
- -v 
+ -v
 3
- 
+
 \
 
  --directory /root/mydumper_backup/
@@ -230,7 +230,7 @@ mysqld --upgrade
 =
 FORCE --user
 =
-mysql 
+mysql
 &
 
 But this failed the first time with:
@@ -240,9 +240,9 @@ ERROR: 'sys.innodb_buffer_stats_by_schema' is not VIEW
 Thesysschema had been imported as regular tables instead of views. Solution:
 
 DROP
- 
+
 DATABASE
- 
+
 sys
 ;
 
@@ -253,49 +253,49 @@ Then rerun the upgrade. Success.
 With both dumps imported, we configured the new server as a replica of the old one:
 
 CHANGE
- 
+
 MASTER
- 
+
 TO
 
- 
+
 MASTER_HOST
 =
 'OLD_SERVER_IP'
 ,
 
- 
+
 MASTER_USER
 =
 'replicator'
 ,
 
- 
+
 MASTER_PASSWORD
 =
 '...'
 ,
 
- 
+
 MASTER_PORT
 =
 3306
 ,
 
- 
+
 MASTER_LOG_FILE
 =
 'mysql-bin.000004'
 ,
 
- 
+
 MASTER_LOG_POS
 =
 21834307
 ;
 
 START
- 
+
 SLAVE
 ;
 
@@ -304,18 +304,18 @@ Almost immediately, replication stopped with error 1062 (Duplicate Key). This ha
 The fix:
 
 SET
- 
+
 GLOBAL
- 
+
 slave_exec_mode
- 
+
 =
- 
+
 'IDEMPOTENT'
 ;
 
 START
- 
+
 SLAVE
 ;
 
@@ -339,11 +339,11 @@ Once master-slave replication was fully synchronized, we noticed that INSERT sta
 The reason: all PHP application users had been grantedSUPERprivilege. In MySQL,SUPERbypassesread_only.
 
 SHOW
- 
+
 GRANTS
- 
+
 FOR
- 
+
 'some_db_user'
 @
 'localhost'
@@ -354,17 +354,17 @@ FOR
 We revoked it from all 24 application users:
 
 REVOKE
- 
+
 SUPER
- 
+
 ON
- 
+
 *
 .
 *
- 
+
 FROM
- 
+
 'some_db_user'
 @
 'localhost'
@@ -373,7 +373,7 @@ FROM
 -- repeated for all 24 users
 
 FLUSH
- 
+
 PRIVILEGES
 ;
 
@@ -386,32 +386,32 @@ All domains were managed through DigitalOcean DNS (with nameservers pointed from
 # Only A and AAAA records
 
 if
- 
+
 record
 [
 "type"
 ]
- 
+
 in
- 
+
 (
 "A"
 ,
- 
+
 "AAAA"
 ):
 
- 
+
 update_record_ttl
 (
 domain
 ,
- 
+
 record
 [
 "id"
 ],
- 
+
 300
 )
 
@@ -422,83 +422,83 @@ After waiting one hour for old TTLs to expire, we were ready.
 Rather than editing 34 config files by hand, we wrote a Python script that parsed everyserver {}block in every config file, identified the main content blocks, replaced them with proxy configs, and backed up originals as.backupfiles.
 
 server
- 
+
 {
 
- 
+
 listen
- 
+
 443
- 
+
 ssl
 ;
 
- 
+
 server_name
- 
+
 yourdomain.com
 ;
 
- 
+
 ssl_certificate
- 
+
 /etc/letsencrypt/live/yourdomain.com/fullchain.pem
 ;
 
- 
+
 ssl_certificate_key
- 
+
 /etc/letsencrypt/live/yourdomain.com/privkey.pem
 ;
 
- 
+
 include
- 
+
 /etc/letsencrypt/options-ssl-nginx.conf
 ;
 
- 
+
 location
- 
+
 /
- 
+
 {
 
- 
+
 proxy_pass
- 
+
 https://NEW_SERVER_IP
 ;
 
- 
+
 proxy_set_header
- 
+
 Host
- 
+
 $host
 ;
 
- 
+
 proxy_set_header
- 
+
 X-Real-IP
- 
+
 $remote_addr
 ;
 
- 
+
 proxy_ssl_verify
- 
+
 off
 ;
 
- 
+
 proxy_read_timeout
- 
+
 150
 ;
 
- 
+
 }
 
 }

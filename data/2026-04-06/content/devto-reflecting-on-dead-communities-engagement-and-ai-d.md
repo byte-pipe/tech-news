@@ -51,7 +51,7 @@ How important is a community to you? And how actively will you participate going
 Photo bymauro moraonUnsplash
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -62,6 +62,6 @@ Preview
 Dismiss
 
  View full discussion (11 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

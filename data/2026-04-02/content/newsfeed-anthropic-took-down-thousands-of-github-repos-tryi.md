@@ -44,13 +44,13 @@ The botched clean-up here is another black eye for the company as it reportedly 
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 GitHub
-, 
+,
 In Brief
- 
+
 
 ### Newsletters
 
@@ -75,7 +75,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

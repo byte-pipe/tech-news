@@ -120,5 +120,5 @@ Read more
 
 ## How much does a university degree cost and is it worth it?
 
-Cost of Living 
+Cost of Living
 Student finance

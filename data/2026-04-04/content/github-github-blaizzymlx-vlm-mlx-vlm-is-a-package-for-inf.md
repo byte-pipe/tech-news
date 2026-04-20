@@ -11,7 +11,7 @@ description: MLX-VLM is a package for inference and fine-tuning of Vision Langua
 
 Blaizzy
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork369
 * Star3.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -217,7 +217,7 @@ Generate output from a model using the CLI:
 #
  Text generation
 
-mlx_vlm.generate --model mlx-community/Qwen2-VL-2B-Instruct-4bit --max-tokens 100 --prompt 
+mlx_vlm.generate --model mlx-community/Qwen2-VL-2B-Instruct-4bit --max-tokens 100 --prompt
 "
 Hello, how are you?
 "
@@ -230,7 +230,7 @@ mlx_vlm.generate --model mlx-community/Qwen2-VL-2B-Instruct-4bit --max-tokens 10
 #
  Audio generation (New)
 
-mlx_vlm.generate --model mlx-community/gemma-3n-E2B-it-4bit --max-tokens 100 --prompt 
+mlx_vlm.generate --model mlx-community/gemma-3n-E2B-it-4bit --max-tokens 100 --prompt
 "
 Describe what you hear
 "
@@ -239,7 +239,7 @@ Describe what you hear
 #
  Multi-modal generation (Image + Audio)
 
-mlx_vlm.generate --model mlx-community/gemma-3n-E2B-it-4bit --max-tokens 100 --prompt 
+mlx_vlm.generate --model mlx-community/gemma-3n-E2B-it-4bit --max-tokens 100 --prompt
 "
 Describe what you see and hear
 "
@@ -251,18 +251,18 @@ For thinking models (e.g., Qwen3.5), you can limit the number of tokens spent in
 
 mlx_vlm.generate --model mlx-community/Qwen3.5-2B-4bit \
  --thinking-budget 50 \
- --thinking-start-token 
+ --thinking-start-token
 "
 <think>
 "
  \
- --thinking-end-token 
+ --thinking-end-token
 "
 </think>
 "
  \
  --enable-thinking \
- --prompt 
+ --prompt
 "
 Solve 2+2
 "
@@ -281,13 +281,13 @@ Max tokens allowed inside the thinking block
 
 --thinking-start-token
 
-Token that opens a thinking block (default: 
+Token that opens a thinking block (default:
 <think>
 )
 
 --thinking-end-token
 
-Token that closes a thinking block (default: 
+Token that closes a thinking block (default:
 </think>
 )
 
@@ -304,68 +304,68 @@ mlx_vlm.chat_ui --model mlx-community/Qwen2-VL-2B-Instruct-4bit
 Here's an example of how to use MLX-VLM in a Python script:
 
 import
- 
+
 mlx
 .
 core
- 
+
 as
- 
+
 mx
 
 from
- 
+
 mlx_vlm
- 
+
 import
- 
+
 load
-, 
+,
 generate
 
 from
- 
+
 mlx_vlm
 .
 prompt_utils
- 
+
 import
- 
+
 apply_chat_template
 
 from
- 
+
 mlx_vlm
 .
 utils
- 
+
 import
- 
+
 load_config
 
 # Load the model
 
 model_path
- 
+
 =
- 
+
 "mlx-community/Qwen2-VL-2B-Instruct-4bit"
 
 model
-, 
+,
 processor
- 
+
 =
- 
+
 load
 (
 model_path
 )
 
 config
- 
+
 =
- 
+
 load_config
 (
 model_path
@@ -374,7 +374,7 @@ model_path
 # Prepare input
 
 image
- 
+
 =
  [
 "http://images.cocodataset.org/val2017/000000039769.jpg"
@@ -383,26 +383,26 @@ image
 # image = [Image.open("...")] can also be used with PIL.Image.Image objects
 
 prompt
- 
+
 =
- 
+
 "Describe this image."
 
 # Apply chat template
 
 formatted_prompt
- 
+
 =
- 
+
 apply_chat_template
 (
- 
+
 processor
-, 
+,
 config
-, 
+,
 prompt
-, 
+,
 num_images
 =
 len
@@ -414,19 +414,19 @@ image
 # Generate output
 
 output
- 
+
 =
- 
+
 generate
 (
 model
-, 
+,
 processor
-, 
+,
 formatted_prompt
-, 
+,
 image
-, 
+,
 verbose
 =
 False
@@ -440,58 +440,58 @@ output
 #### Audio Example
 
 from
- 
+
 mlx_vlm
- 
+
 import
- 
+
 load
-, 
+,
 generate
 
 from
- 
+
 mlx_vlm
 .
 prompt_utils
- 
+
 import
- 
+
 apply_chat_template
 
 from
- 
+
 mlx_vlm
 .
 utils
- 
+
 import
- 
+
 load_config
 
 # Load model with audio support
 
 model_path
- 
+
 =
- 
+
 "mlx-community/gemma-3n-E2B-it-4bit"
 
 model
-, 
+,
 processor
- 
+
 =
- 
+
 load
 (
 model_path
 )
 
 config
- 
+
 =
- 
+
 model
 .
 config
@@ -499,35 +499,35 @@ config
 # Prepare audio input
 
 audio
- 
+
 =
  [
 "/path/to/audio1.wav"
-, 
+,
 "/path/to/audio2.mp3"
 ]
 
 prompt
- 
+
 =
- 
+
 "Describe what you hear in these audio files."
 
 # Apply chat template with audio
 
 formatted_prompt
- 
+
 =
- 
+
 apply_chat_template
 (
- 
+
 processor
-, 
+,
 config
-, 
+,
 prompt
-, 
+,
 num_audios
 =
 len
@@ -539,21 +539,21 @@ audio
 # Generate output with audio
 
 output
- 
+
 =
- 
+
 generate
 (
 model
-, 
+,
 processor
-, 
+,
 formatted_prompt
-, 
+,
 audio
 =
 audio
-, 
+,
 verbose
 =
 False
@@ -567,58 +567,58 @@ output
 #### Multi-Modal Example (Image + Audio)
 
 from
- 
+
 mlx_vlm
- 
+
 import
- 
+
 load
-, 
+,
 generate
 
 from
- 
+
 mlx_vlm
 .
 prompt_utils
- 
+
 import
- 
+
 apply_chat_template
 
 from
- 
+
 mlx_vlm
 .
 utils
- 
+
 import
- 
+
 load_config
 
 # Load multi-modal model
 
 model_path
- 
+
 =
- 
+
 "mlx-community/gemma-3n-E2B-it-4bit"
 
 model
-, 
+,
 processor
- 
+
 =
- 
+
 load
 (
 model_path
 )
 
 config
- 
+
 =
- 
+
 model
 .
 config
@@ -626,48 +626,48 @@ config
 # Prepare inputs
 
 image
- 
+
 =
  [
 "/path/to/image.jpg"
 ]
 
 audio
- 
+
 =
  [
 "/path/to/audio.wav"
 ]
 
 prompt
- 
+
 =
- 
+
 ""
 
 # Apply chat template
 
 formatted_prompt
- 
+
 =
- 
+
 apply_chat_template
 (
- 
+
 processor
-, 
+,
 config
-, 
+,
 prompt
 ,
- 
+
 num_images
 =
 len
 (
 image
 ),
- 
+
 num_audios
 =
 len
@@ -679,23 +679,23 @@ audio
 # Generate output
 
 output
- 
+
 =
- 
+
 generate
 (
 model
-, 
+,
 processor
-, 
+,
 formatted_prompt
-, 
+,
 image
-, 
+,
 audio
 =
 audio
-, 
+,
 verbose
 =
 False
@@ -715,7 +715,7 @@ mlx_vlm.server --port 8080
 #
  Preload a model at startup (Hugging Face repo or local path)
 
-mlx_vlm.server --model 
+mlx_vlm.server --model
 <
 hf_repo_or_local_path
 >
@@ -723,11 +723,11 @@ hf_repo_or_local_path
 #
  Preload a model with adapter
 
-mlx_vlm.server --model 
+mlx_vlm.server --model
 <
 hf_repo_or_local_path
 >
- --adapter-path 
+ --adapter-path
 <
 adapter_path
 >
@@ -763,24 +763,24 @@ The server provides multiple endpoints for different use cases and supports dyna
 
 ##### List available models
 
-curl 
+curl
 "
 http://localhost:8080/models
 "
 
 ##### Text Input
 
-curl -X POST 
+curl -X POST
 "
 http://localhost:8080/chat/completions
 "
  \
- -H 
+ -H
 "
 Content-Type: application/json
 "
  \
- -d 
+ -d
 '
 {
 
@@ -807,17 +807,17 @@ Content-Type: application/json
 
 ##### Image Input
 
-curl -X POST 
+curl -X POST
 "
 http://localhost:8080/chat/completions
 "
  \
- -H 
+ -H
 "
 Content-Type: application/json
 "
  \
- -d 
+ -d
 '
 {
 
@@ -847,17 +847,17 @@ Content-Type: application/json
 
  "text": "This is today
 '
-s chart 
+s chart
 for
- 
+
 energy demand
- 
+
 in
- California. Can you provide an analysis of the chart and comment on the implications 
+ California. Can you provide an analysis of the chart and comment on the implications
 for
- 
+
 renewable energy
- 
+
 in
  California
 ?
@@ -867,21 +867,21 @@ in
 
  {
 
- 
+
 "
 type
 "
-: 
+:
 "
 input_image
 "
 ,
 
- 
+
 "
 image_url
 "
-: 
+:
 "
 /path/to/repo/examples/images/renewables_california.png
 "
@@ -894,13 +894,13 @@ image_url
 
  ],
 
- 
+
 "
 stream
 "
 : true,
 
- 
+
 "
 max_tokens
 "
@@ -910,17 +910,17 @@ max_tokens
 
 ##### Audio Support (New)
 
-curl -X POST 
+curl -X POST
 "
 http://localhost:8080/generate
 "
  \
- -H 
+ -H
 "
 Content-Type: application/json
 "
  \
- -d 
+ -d
 '
 {
 
@@ -955,17 +955,17 @@ Content-Type: application/json
 
 ##### Multi-Modal (Image + Audio)
 
-curl -X POST 
+curl -X POST
 "
 http://localhost:8080/generate
 "
  \
- -H 
+ -H
 "
 Content-Type: application/json
 "
  \
- -d 
+ -d
 '
 {
 
@@ -996,17 +996,17 @@ Content-Type: application/json
 
 ##### Responses Endpoint
 
-curl -X POST 
+curl -X POST
 "
 http://localhost:8080/responses
 "
  \
- -H 
+ -H
 "
 Content-Type: application/json
 "
  \
- -d 
+ -d
 '
 {
 
@@ -1055,7 +1055,7 @@ When running on NVIDIA GPUs with MLX CUDA, models quantized withmxfp8ornvfp4mode
 
 Use the-qaor--quantize-activationsflag:
 
-mlx_vlm.generate --model /path/to/mxfp8-model --prompt 
+mlx_vlm.generate --model /path/to/mxfp8-model --prompt
 "
 Describe this image
 "
@@ -1066,29 +1066,29 @@ Describe this image
 Passquantize_activations=Trueto theloadfunction:
 
 from
- 
+
 mlx_vlm
- 
+
 import
- 
+
 load
-, 
+,
 generate
 
 # Load with activation quantization enabled
 
 model
-, 
+,
 processor
- 
+
 =
- 
+
 load
 (
- 
+
 "path/to/mxfp8-quantized-model"
 ,
- 
+
 quantize_activations
 =
 True
@@ -1098,17 +1098,17 @@ True
 # Generate as usual
 
 output
- 
+
 =
- 
+
 generate
 (
 model
-, 
+,
 processor
-, 
+,
 "Describe this image"
-, 
+,
 image
 =
 [
@@ -1131,88 +1131,88 @@ MLX-VLM supports analyzing multiple images simultaneously with select models. Th
 #### Python Script
 
 from
- 
+
 mlx_vlm
- 
+
 import
- 
+
 load
-, 
+,
 generate
 
 from
- 
+
 mlx_vlm
 .
 prompt_utils
- 
+
 import
- 
+
 apply_chat_template
 
 from
- 
+
 mlx_vlm
 .
 utils
- 
+
 import
- 
+
 load_config
 
 model_path
- 
+
 =
- 
+
 "mlx-community/Qwen2-VL-2B-Instruct-4bit"
 
 model
-, 
+,
 processor
- 
+
 =
- 
+
 load
 (
 model_path
 )
 
 config
- 
+
 =
- 
+
 model
 .
 config
 
 images
- 
+
 =
  [
 "path/to/image1.jpg"
-, 
+,
 "path/to/image2.jpg"
 ]
 
 prompt
- 
+
 =
- 
+
 "Compare these two images."
 
 formatted_prompt
- 
+
 =
- 
+
 apply_chat_template
 (
- 
+
 processor
-, 
+,
 config
-, 
+,
 prompt
-, 
+,
 num_images
 =
 len
@@ -1222,19 +1222,19 @@ images
 )
 
 output
- 
+
 =
- 
+
 generate
 (
 model
-, 
+,
 processor
-, 
+,
 formatted_prompt
-, 
+,
 images
-, 
+,
 verbose
 =
 False
@@ -1247,7 +1247,7 @@ output
 
 #### Command Line
 
-mlx_vlm.generate --model mlx-community/Qwen2-VL-2B-Instruct-4bit --max-tokens 100 --prompt 
+mlx_vlm.generate --model mlx-community/Qwen2-VL-2B-Instruct-4bit --max-tokens 100 --prompt
 "
 Compare these images
 "
@@ -1272,7 +1272,7 @@ With more coming soon.
 
 #### Command Line
 
-mlx_vlm.video_generate --model mlx-community/Qwen2-VL-2B-Instruct-4bit --max-tokens 100 --prompt 
+mlx_vlm.video_generate --model mlx-community/Qwen2-VL-2B-Instruct-4bit --max-tokens 100 --prompt
 "
 Describe this video
 "
@@ -1293,43 +1293,43 @@ mlx_vlm generate \
  --model mlx-community/Qwen3.5-4B-4bit \
  --kv-bits 3.5 \
  --kv-quant-scheme turboquant \
- --prompt 
+ --prompt
 "
 Your long prompt here...
 "
 
 from
- 
+
 mlx_vlm
- 
+
 import
- 
+
 generate
 
 result
- 
+
 =
- 
+
 generate
 (
- 
+
 model
-, 
+,
 processor
-, 
+,
 prompt
 ,
- 
+
 kv_bits
 =
 3.5
 ,
- 
+
 kv_quant_scheme
 =
 "turboquant"
 ,
- 
+
 max_tokens
 =
 256
@@ -1478,53 +1478,53 @@ MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 3.4k
 
  stars
- 
+
 
 ### Watchers
 
 28
 
  watching
- 
+
 
 ### Forks
 
 369
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases61
 
@@ -1532,11 +1532,11 @@ v0.4.3
 
  Latest
 
- 
+
 
 Apr 2, 2026
 
- 
+
 
 + 60 releases
 
@@ -1544,7 +1544,7 @@ Apr 2, 2026
 
  
 
- 
+
 
  Sponsor
 
@@ -1552,11 +1552,11 @@ Apr 2, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -1572,17 +1572,17 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors86
 

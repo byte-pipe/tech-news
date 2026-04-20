@@ -1,7 +1,7 @@
 ---
 title: GitHub - harry0703/MoneyPrinterTurbo: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. · GitHub
 url: https://github.com/harry0703/MoneyPrinterTurbo
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-22T11:13:30.166391

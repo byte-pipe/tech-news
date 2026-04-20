@@ -14,9 +14,9 @@ tags:
 InfoQ HomepageNewsHow Dropbox Built a Scalable Context Engine for Enterprise Knowledge Search
 
  Architecture & Design
- 
 
-QCon London (March 16-19, 2026): Learn proven architectural practices to scale your systems faster. 
+
+QCon London (March 16-19, 2026): Learn proven architectural practices to scale your systems faster.
 
 # How Dropbox Built a Scalable Context Engine for Enterprise Knowledge Search
 
@@ -31,8 +31,8 @@ by
 
 Feed your curiosity.
 
-Help 550k+ global 
-senior developers 
+Help 550k+ global
+senior developers
 each month stay ahead.
 Get in touch
 
@@ -58,15 +58,15 @@ The approach taken by the Dash team closely resembles patterns seen in other en
 
 Together, these designs point to a growing signal around treating context as a first-class system in enterprise AI, rather than something assembled on the fly at inference time. As teams scale their internal search and agent capabilities within large organizations, architectures that pre-compute, constrain, and continuously evaluate context appear to be becoming a more common foundation.
 
- 
+
 
 ## About the Author
 
- 
 
- 
 
- 
+
+
+
 
 #### Matt Foster
 
@@ -110,7 +110,7 @@ Select your country
 
 Select a country
 
-I consent to InfoQ.com handling my data as explained in this 
+I consent to InfoQ.com handling my data as explained in this
 Privacy Notice
 .
 

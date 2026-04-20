@@ -46,7 +46,7 @@ This one caught me off guard. Arduino, the company most of us associate with mic
 
 Sooo 1st impressions of the@arduinoUNO Q are that the app lab software isn't my cup of tea. It shouted that I needed to update the image on the UNO Q, but the flasher is a separate CLI-only utility, and you need to short headers to flash. OK, fine.After booting again, App Lab…
 
-— bret.dk (@bretweber) 
+— bret.dk (@bretweber)
 November 26, 2025
 
 ### Orange Pi RV and RV2 ($50 / $46)
@@ -157,20 +157,20 @@ I hope 2026 is everything you want it to be!
 
 Benchmarks
 Single Board Computers
- 
+
 
 0 comment
 
 0
- 
+
 
 Facebook
 Twitter
 Reddit
 Email
- 
 
- 
+
+
 
 ##### Bret
 

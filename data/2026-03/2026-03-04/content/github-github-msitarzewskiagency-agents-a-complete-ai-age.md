@@ -11,7 +11,7 @@ description: A complete AI agency at your fingertips** - From frontend wizards t
 
 msitarzewski
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork743
 * Star4.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -133,7 +133,7 @@ Think of it as: Assembling your dream team, except they're AI specialists who ne
 
 cp -r agency-agents/
 *
- 
+
 ~
 /.claude/agents/
 
@@ -166,49 +166,49 @@ Specialty
 
 When to Use
 
-🎨 
+🎨
 Frontend Developer
 
 React/Vue/Angular, UI implementation, performance
 
 Modern web apps, pixel-perfect UIs, Core Web Vitals optimization
 
-🏗️ 
+🏗️
 Backend Architect
 
 API design, database architecture, scalability
 
 Server-side systems, microservices, cloud infrastructure
 
-📱 
+📱
 Mobile App Builder
 
 iOS/Android, React Native, Flutter
 
 Native and cross-platform mobile applications
 
-🤖 
+🤖
 AI Engineer
 
 ML models, deployment, AI integration
 
 Machine learning features, data pipelines, AI-powered apps
 
-🚀 
+🚀
 DevOps Automator
 
 CI/CD, infrastructure automation, cloud ops
 
 Pipeline development, deployment automation, monitoring
 
-⚡ 
+⚡
 Rapid Prototyper
 
 Fast POC development, MVPs
 
 Quick proof-of-concepts, hackathon projects, fast iteration
 
-💎 
+💎
 Senior Developer
 
 Laravel/Livewire, advanced patterns
@@ -225,49 +225,49 @@ Specialty
 
 When to Use
 
-🎯 
+🎯
 UI Designer
 
 Visual design, component libraries, design systems
 
 Interface creation, brand consistency, component design
 
-🔍 
+🔍
 UX Researcher
 
 User testing, behavior analysis, research
 
 Understanding users, usability testing, design insights
 
-🏛️ 
+🏛️
 UX Architect
 
 Technical architecture, CSS systems, implementation
 
 Developer-friendly foundations, implementation guidance
 
-🎭 
+🎭
 Brand Guardian
 
 Brand identity, consistency, positioning
 
 Brand strategy, identity development, guidelines
 
-📖 
+📖
 Visual Storyteller
 
 Visual narratives, multimedia content
 
 Compelling visual stories, brand storytelling
 
-✨ 
+✨
 Whimsy Injector
 
 Personality, delight, playful interactions
 
 Adding joy, micro-interactions, Easter eggs, brand personality
 
-📷 
+📷
 Image Prompt Engineer
 
 AI image generation prompts, photography
@@ -284,56 +284,56 @@ Specialty
 
 When to Use
 
-🚀 
+🚀
 Growth Hacker
 
 Rapid user acquisition, viral loops, experiments
 
 Explosive growth, user acquisition, conversion optimization
 
-📝 
+📝
 Content Creator
 
 Multi-platform content, editorial calendars
 
 Content strategy, copywriting, brand storytelling
 
-🐦 
+🐦
 Twitter Engager
 
 Real-time engagement, thought leadership
 
 Twitter strategy, LinkedIn campaigns, professional social
 
-📱 
+📱
 TikTok Strategist
 
 Viral content, algorithm optimization
 
 TikTok growth, viral content, Gen Z/Millennial audience
 
-📸 
+📸
 Instagram Curator
 
 Visual storytelling, community building
 
 Instagram strategy, aesthetic development, visual content
 
-🤝 
+🤝
 Reddit Community Builder
 
 Authentic engagement, value-driven content
 
 Reddit strategy, community trust, authentic marketing
 
-📱 
+📱
 App Store Optimizer
 
 ASO, conversion optimization, discoverability
 
 App marketing, store optimization, app growth
 
-🌐 
+🌐
 Social Media Strategist
 
 Cross-platform strategy, campaigns
@@ -350,21 +350,21 @@ Specialty
 
 When to Use
 
-🎯 
+🎯
 Sprint Prioritizer
 
 Agile planning, feature prioritization
 
 Sprint planning, resource allocation, backlog management
 
-🔍 
+🔍
 Trend Researcher
 
 Market intelligence, competitive analysis
 
 Market research, opportunity assessment, trend identification
 
-💬 
+💬
 Feedback Synthesizer
 
 User feedback analysis, insights extraction
@@ -381,35 +381,35 @@ Specialty
 
 When to Use
 
-🎬 
+🎬
 Studio Producer
 
 High-level orchestration, portfolio management
 
 Multi-project oversight, strategic alignment, resource allocation
 
-🐑 
+🐑
 Project Shepherd
 
 Cross-functional coordination, timeline management
 
 End-to-end project coordination, stakeholder management
 
-⚙️ 
+⚙️
 Studio Operations
 
 Day-to-day efficiency, process optimization
 
 Operational excellence, team support, productivity
 
-🧪 
+🧪
 Experiment Tracker
 
 A/B tests, hypothesis validation
 
 Experiment management, data-driven decisions, testing
 
-👔 
+👔
 Senior Project Manager
 
 Realistic scoping, task conversion
@@ -426,49 +426,49 @@ Specialty
 
 When to Use
 
-📸 
+📸
 Evidence Collector
 
 Screenshot-based QA, visual proof
 
 UI testing, visual verification, bug documentation
 
-🔍 
+🔍
 Reality Checker
 
 Evidence-based certification, quality gates
 
 Production readiness, quality approval, release certification
 
-📊 
+📊
 Test Results Analyzer
 
 Test evaluation, metrics analysis
 
 Test output analysis, quality insights, coverage reporting
 
-⚡ 
+⚡
 Performance Benchmarker
 
 Performance testing, optimization
 
 Speed testing, load testing, performance tuning
 
-🔌 
+🔌
 API Tester
 
 API validation, integration testing
 
 API testing, endpoint verification, integration QA
 
-🛠️ 
+🛠️
 Tool Evaluator
 
 Technology assessment, tool selection
 
 Evaluating tools, software recommendations, tech decisions
 
-🔄 
+🔄
 Workflow Optimizer
 
 Process analysis, workflow improvement
@@ -485,42 +485,42 @@ Specialty
 
 When to Use
 
-💬 
+💬
 Support Responder
 
 Customer service, issue resolution
 
 Customer support, user experience, support operations
 
-📊 
+📊
 Analytics Reporter
 
 Data analysis, dashboards, insights
 
 Business intelligence, KPI tracking, data visualization
 
-💰 
+💰
 Finance Tracker
 
 Financial planning, budget management
 
 Financial analysis, cash flow, business performance
 
-🏗️ 
+🏗️
 Infrastructure Maintainer
 
 System reliability, performance optimization
 
 Infrastructure management, system operations, monitoring
 
-⚖️ 
+⚖️
 Legal Compliance Checker
 
 Compliance, regulations, legal review
 
 Legal compliance, regulatory requirements, risk management
 
-📑 
+📑
 Executive Summary Generator
 
 C-suite communication, strategic summaries
@@ -537,42 +537,42 @@ Specialty
 
 When to Use
 
-🏗️ 
+🏗️
 XR Interface Architect
 
 Spatial interaction design, immersive UX
 
 AR/VR/XR interface design, spatial computing UX
 
-💻 
+💻
 macOS Spatial/Metal Engineer
 
 Swift, Metal, high-performance 3D
 
 macOS spatial computing, Vision Pro native apps
 
-🌐 
+🌐
 XR Immersive Developer
 
 WebXR, browser-based AR/VR
 
 Browser-based immersive experiences, WebXR apps
 
-🎮 
+🎮
 XR Cockpit Interaction Specialist
 
 Cockpit-based controls, immersive systems
 
 Cockpit control systems, immersive control interfaces
 
-🍎 
+🍎
 visionOS Spatial Engineer
 
 Apple Vision Pro development
 
 Vision Pro apps, spatial computing experiences
 
-🔌 
+🔌
 Terminal Integration Specialist
 
 Terminal integration, command-line tools
@@ -589,42 +589,42 @@ Specialty
 
 When to Use
 
-🎭 
+🎭
 Agents Orchestrator
 
 Multi-agent coordination, workflow management
 
 Complex projects requiring multiple agent coordination
 
-📊 
+📊
 Data Analytics Reporter
 
 Business intelligence, data insights
 
 Deep data analysis, business metrics, strategic insights
 
-🔍 
+🔍
 LSP/Index Engineer
 
 Language Server Protocol, code intelligence
 
 Code intelligence systems, LSP implementation, semantic indexing
 
-📥 
+📥
 Sales Data Extraction Agent
 
 Excel monitoring, sales metric extraction
 
 Sales data ingestion, MTD/YTD/Year End metrics
 
-📈 
+📈
 Data Consolidation Agent
 
 Sales data aggregation, dashboard reports
 
 Territory summaries, rep performance, pipeline snapshots
 
-📬 
+📬
 Report Distribution Agent
 
 Automated report delivery
@@ -800,53 +800,53 @@ A complete AI agency at your fingertips** - From frontend wizards to Reddit comm
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 4.6k
 
  stars
- 
+
 
 ### Watchers
 
 71
 
  watching
- 
+
 
 ### Forks
 
 743
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -864,8 +864,8 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors6

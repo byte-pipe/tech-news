@@ -60,7 +60,7 @@ Unlike many companies, Dell’sPrice Match Guaranteecovers competitor prices and
 Dell’s XPS laptops are the perfect addition to your tech setup. They’re lightweight, small, and plenty speedy. They’re Windows’ rough answer to Apple’s Macbook Pro line. The XPS 13 and upgraded Dell 14 Premium are some ofour favorite laptops. Check out the featured laptop offers above to save up to $600, complete with free 2-day shipping and AI-driven PC options powered by Microsoft Copilot technology. If you’re a gamer, you probably already know that Dell makes Alienware, and the Dell Alienware m16 R2 is a powerful gaming machine masquerading as your next work laptop. It’s one of ourfavorite dual-use gaming rigs, making it perfect for students.
 
 Scott Gilbertson
- is Operations Manager for the WIRED Reviews Team. He was previously a writer and editor for WIRED’s Webmonkey.com, covering the independent web and early internet culture. You can reach him at luxagraf.net. ... 
+ is Operations Manager for the WIRED Reviews Team. He was previously a writer and editor for WIRED’s Webmonkey.com, covering the independent web and early internet culture. You can reach him at luxagraf.net. ...
 Read More
 Senior Writer and Reviewer
 * X
@@ -78,7 +78,7 @@ This sale spans almost an entire week, and it’s full of fake “deals.” We h
 Louryn Strampe
 Save Up to 67% With These Chirp Discount Codes and Deals
 Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.
-Boutayna Chokrane 
+Boutayna Chokrane
 I’m a Certified Sleep Coach—These Sleep Week Deals Are the Ones I’d Buy Myself
 From mattresses to sateen sheets, these exclusive deals on my personal picks can help you upgrade your sleep for less.
 Julia Forbes
@@ -96,7 +96,7 @@ Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount c
 Scott Gilbertson
 The Best Red Light Hair Growth Device You Can Buy Is on Sale
 Our favorite red light therapy device for hair growth just dropped in price. Grab it while it lasts.
-Boutayna Chokrane 
+Boutayna Chokrane
 Save at Lowe’s With up to $300 Off Appliances
 Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.
 Matthew Korfhage

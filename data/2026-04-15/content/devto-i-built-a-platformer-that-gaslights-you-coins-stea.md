@@ -204,7 +204,7 @@ Built with spite, caffeine, and Google Antigravity. No teapots were harmed in th
 Dedicated to Larry Masinter, who in 1998 wrote an April Fools RFC that became a permanent part of the internet. We should all be so lucky.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

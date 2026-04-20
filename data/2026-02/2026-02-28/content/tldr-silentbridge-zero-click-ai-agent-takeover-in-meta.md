@@ -19,7 +19,7 @@ AuraLabs Research
 
 Aurascape Auralabs exposes a security vulnerability, named SilentBridge where everyday workflows can quietly inherit the risk of the tools and data they are allowed to access.
 
- 
+
 
 Qi Deng, Principal Threat Research Engineer | AurascapeFebruary 24th, 2026
 

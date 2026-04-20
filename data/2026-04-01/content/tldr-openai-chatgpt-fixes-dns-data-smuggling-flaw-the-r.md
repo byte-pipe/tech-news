@@ -15,7 +15,7 @@ tags:
 
 # OpenAI patches ChatGPT flaw that smuggled data over DNS
 
- 
+
 
 ## Check Point says outbound controls blocked web traffic but overlooked DNS
 
@@ -50,10 +50,10 @@ Flaws like this suggest serious implications for regulated industries that deplo
 
 OpenAI is said to have fixed this particular issue on February 20, 2026. The AI biz did not immediately respond to a request for comment. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

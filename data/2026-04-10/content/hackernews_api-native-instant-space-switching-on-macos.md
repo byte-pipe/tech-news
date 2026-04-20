@@ -15,14 +15,14 @@ tags:
 
 # Native Instant Space Switching on MacOS
 
- 
+
 
 Published• 3 min read
 •more postsView on
 
- 
- 
- 
+
+
+
 
 The worst part about the MacOS window management situation is the inability to instantly switch spaces, and that Apple hascontinuously ignored requeststo disable the nauseating switching animation. Sure, it’s notthatlong, but I switch spaces often enough to the point where it becomes very noticeable and drives me insane.
 
@@ -37,17 +37,17 @@ But before I show you, of course, other people share the same sentiment. I claim
 
 Without further ado, I managed to findInstantSpaceSwitcherbyjurplelon GitHub. It is a simple menu bar application that achieves instant space switching while offeringnoneof the aforementioned drawbacks.
 
- 
- 
- 
- 
- 
- 
-Here I have InstantSpaceSwitcher paired up with 
+
+
+
+
+
+
+Here I have InstantSpaceSwitcher paired up with
 SpaceName
 .
- 
- 
+
+
 
 InstantSpaceSwitcher does not require disabling Security Integration Protection; it works by simulating a trackpad swipe with a large amount of velocity. It additionally allows you to instantly jump to a space number. The last thing it provides is a command line interface.
 
@@ -93,6 +93,6 @@ Until next time!
 
 1. I foundinstantspaceson GitHub, which attempts to isolate yabai’s instant space switcher. Unfortunately, I tried, and I really tried, but I could not get it to work on MacOS Tahoe. Although I prefer InstantSpaceSwitcher anyways, please let me know if you can get it working!↩
 
- 
+
 
 ↑ Scroll to top ↑

@@ -31,7 +31,7 @@ Here's a concise and informative summary of the article:
 	+ U.S.: 155/67 (25%/21%)
 	+ Public Cloud Networks: 56/42 (14%/10%)
 
-### Related Topics: 
+### Related Topics:
 
 * ThousandEyes' weekly internet health check provides updates on network performance and outages.
 * Cisco's data analytics continue to monitor global network challenges.

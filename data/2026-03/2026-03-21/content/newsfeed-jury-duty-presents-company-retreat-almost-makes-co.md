@@ -64,9 +64,9 @@ Triangle
 * Should you leave your phonecharging overnight?
 * Watch:How right wing influencers infiltrated the government
 Jason Parham
- is a senior writer at WIRED where he covers internet culture, the future of sex, and the intersection of race and power in America. His WIRED cover story 
+ is a senior writer at WIRED where he covers internet culture, the future of sex, and the intersection of race and power in America. His WIRED cover story
 “A People’s History of Black Twitter”
- was adapted into a Hulu docuseries in 2024, and won the AAFCA Award for ... 
+ was adapted into a Hulu docuseries in 2024, and won the AAFCA Award for ...
 Read More
 Senior Writer
 * X

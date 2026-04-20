@@ -30,7 +30,7 @@ In a conversation with TechCrunch, Rebellions’ Chief Business Officer Marshall
 
 “AI is now measured by its ability to operate in the real world at scale, under power constraints, and with clear economic return,” said Sunghyun Park, co-founder and CEO of Rebellions. “That shifts the center of gravity toward inference infrastructure and software that makes that infrastructure usable.”
 
- 
+
 
 Techcrunch event
 
@@ -55,22 +55,22 @@ Rebellions is one of anew generation of chip startupsthat have sought to challen
 Topics
 
 AI
-, 
+,
 AI
-, 
+,
 chips
-, 
+,
 Hardware
-, 
+,
 Rebellions
- 
 
-			Lucas Ropek	
+
+			Lucas Ropek
 
 Senior Writer, TechCrunch
 
-		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. 
+		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo.
 
-You can contact Lucas by emailing lucas.ropek@techcrunch.com.	
+You can contact Lucas by emailing lucas.ropek@techcrunch.com.
 
 View Bio

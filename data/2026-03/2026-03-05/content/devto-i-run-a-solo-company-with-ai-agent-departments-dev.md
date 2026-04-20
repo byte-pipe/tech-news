@@ -373,7 +373,7 @@ If you're a solo founder drowning in operational overhead, this might be worth t
 I'm João, a solo developer from Portugal building SaaS products with Elixir. I write about the real experience of building in public — the numbers, the mistakes, and the weird experiments like this one. Follow me ondev.toorX (@joaosetas).
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

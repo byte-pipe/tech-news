@@ -1,7 +1,7 @@
 ---
 title: GitHub - OpenBMB/VoxCPM: VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning · GitHub
 url: https://github.com/OpenBMB/VoxCPM
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-09T11:26:24.255262

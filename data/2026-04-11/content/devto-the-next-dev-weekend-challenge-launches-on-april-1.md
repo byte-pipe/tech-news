@@ -83,17 +83,17 @@ While the window technically spans more than 48 hours, our goal is to ensure eve
 Join theNotion MCP Challengehappening now through March 29!
 
  Jess Lee
- 
+
 
  Jess Lee
- 
+
 
 Jess Lee
 
  Follow
- 
 
- for 
+
+ for
 The DEV Team
 
 Mar 4
@@ -121,22 +121,22 @@ Comments
  comments
 
  3 min read
- 
+
 
 Also, don't miss your chance to enter the2026 WeCoded Challenge, in our writing category"Echoes of Experience"or the brand new"Frontend Art"prompt!
 
  Jess Lee
- 
+
 
  Jess Lee
- 
+
 
 Jess Lee
 
  Follow
- 
 
- for 
+
+ for
 The DEV Team
 
 Mar 6
@@ -164,12 +164,12 @@ Comments
  comments
 
  3 min read
- 
+
 
 We can't wait to see what you build!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

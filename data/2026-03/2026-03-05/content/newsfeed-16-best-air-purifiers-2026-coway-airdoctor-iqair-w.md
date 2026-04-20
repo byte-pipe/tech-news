@@ -27,7 +27,7 @@ Best Air Purifier Overall
 IQAir Atem X
 Read more
 $1,400
- 
+
 
 Amazon
 
@@ -35,7 +35,7 @@ Best Air Purifier for Odors
 Coway Airmega 450
 Read more
 $499
- 
+
 
 Amazon
 
@@ -43,11 +43,11 @@ Best Affordable Air Purifier
 Coway Airmega Mighty AP-1512HH
 Read more
 $230
- 
+
 $155
- 
+
 (33% off)
- 
+
 
 Amazon
 
@@ -55,7 +55,7 @@ Best Budget Small-Room Air Purifier
 Brondell O2+ Horizon 5-Stage Air Purifier with HEPA
 Read more
 $180
- 
+
 
 Brondell
 
@@ -486,13 +486,13 @@ Power up with unlimited access toWIRED. Get best-in-class reporting and exclusiv
 Back to top
 Triangle
 Lisa Wood Shapiro
- has been a WIRED contributor since 2018, covering air quality, AI, accessibility software, and gear like 
+ has been a WIRED contributor since 2018, covering air quality, AI, accessibility software, and gear like
 air purifiers
-, 
+,
 humidifiers
-, and 
+, and
 air quality monitors
-. Her work has also appeared in The New Yorker and Vogue. She studied film at New York University and has a master’s degree in ... 
+. Her work has also appeared in The New Yorker and Vogue. She studied film at New York University and has a master’s degree in ...
 Read More
 Contributor
 

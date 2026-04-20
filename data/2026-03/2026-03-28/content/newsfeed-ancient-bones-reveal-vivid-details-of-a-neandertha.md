@@ -77,7 +77,7 @@ Journal reference:Scientific ReportsDOI: 10.1038/s41598-026-42538-4
 Topics:
 
 * Neanderthals
- 
+
 
 Advertisement
 
@@ -113,9 +113,9 @@ News
 
 News
 
- 
 
- 
+
+
 
 #### 1
 

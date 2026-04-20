@@ -11,7 +11,7 @@ description: 'OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams
 
 Yeachan-Heo
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1k
 * Star11.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -339,22 +339,22 @@ These are useful, but they are not the main onboarding path.
 
 Use the team runtime when you specifically need durable tmux/worktree coordination, not as the default way to begin using OMX.
 
-omx team 3:executor 
+omx team 3:executor
 "
 fix the failing tests with verification
 "
 
-omx team status 
+omx team status
 <
 team-name
 >
 
-omx team resume 
+omx team resume
 <
 team-name
 >
 
-omx team shutdown 
+omx team shutdown
 <
 team-name
 >
@@ -374,7 +374,7 @@ These are operator/support surfaces:
 
 Examples:
 
-omx explore --prompt 
+omx explore --prompt
 "
 find where team state is written
 "
@@ -489,48 +489,48 @@ OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so
 
  Readme
 
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 11.1k
 
  stars
- 
+
 
 ### Watchers
 
 36
 
  watching
- 
+
 
 ### Forks
 
 1k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases76
 
@@ -538,11 +538,11 @@ v0.11.12
 
  Latest
 
- 
+
 
 Apr 2, 2026
 
- 
+
 
 + 75 releases
 
@@ -558,9 +558,9 @@ Apr 2, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -568,9 +568,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

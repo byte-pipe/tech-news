@@ -21,30 +21,30 @@ summarized_at: 2026-03-27T01:01:54.686269
 - Participation enables the models to better understand development workflows, improve code pattern recommendations, and catch potential bugs earlier.
 
 ## Types of data that may be collected (if opted in)
-- Outputs that you accept or modify.  
-- Inputs sent to Copilot, including code snippets shown to the model.  
-- Code context surrounding your cursor position.  
-- Comments and documentation you write.  
-- File names, repository structure, and navigation patterns.  
-- Interactions with Copilot features such as chat and inline suggestions.  
+- Outputs that you accept or modify.
+- Inputs sent to Copilot, including code snippets shown to the model.
+- Code context surrounding your cursor position.
+- Comments and documentation you write.
+- File names, repository structure, and navigation patterns.
+- Interactions with Copilot features such as chat and inline suggestions.
 - Your feedback on suggestions (thumbs‑up/down ratings).
 
 ## Data that will **not** be used
-- Interaction data from Copilot Business, Copilot Enterprise, or enterprise‑owned repositories.  
-- Data from users who have opted out of model training.  
+- Interaction data from Copilot Business, Copilot Enterprise, or enterprise‑owned repositories.
+- Data from users who have opted out of model training.
 - Content from issues, discussions, or private repositories “at rest.” (Only data actively processed while using Copilot may be used, unless you opt out.)
 
 ## Data sharing
-- Collected data may be shared with GitHub affiliates, including Microsoft.  
+- Collected data may be shared with GitHub affiliates, including Microsoft.
 - It will not be shared with third‑party AI model providers or independent service providers.
 
 ## Participation options
-- Opt‑in to help improve the models; your contributions benefit the broader developer community.  
+- Opt‑in to help improve the models; your contributions benefit the broader developer community.
 - Opt‑out retains full access to Copilot’s features without contributing data.
 
 ## Author background
 - Written by Mario Rodriguez, Chief Product Officer at GitHub, who has overseen GitHub’s AI strategy and the Copilot product line.
 
 ## Additional resources
-- FAQ and related discussion links are provided for further questions.  
+- FAQ and related discussion links are provided for further questions.
 - Related posts include GitHub availability reports for January and February 2026.

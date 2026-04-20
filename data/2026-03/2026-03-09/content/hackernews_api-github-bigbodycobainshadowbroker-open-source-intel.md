@@ -15,7 +15,7 @@ tags:
 
 BigBodyCobain
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork70
 * Star746
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -437,7 +437,7 @@ venv
 \S
 cripts
 \a
-ctivate 
+ctivate
 #
  Windows
 
@@ -450,29 +450,29 @@ pip install -r requirements.txt
  Create .env with your API keys
 
 echo
- 
+
 "
 AIS_API_KEY=your_aisstream_key
 "
- 
+
 >>
  .env
 
 echo
- 
+
 "
 OPENSKY_CLIENT_ID=your_opensky_client_id
 "
- 
+
 >>
  .env
 
 echo
- 
+
 "
 OPENSKY_CLIENT_SECRET=your_opensky_secret
 "
- 
+
 >>
  .env
 
@@ -657,7 +657,7 @@ Create a.envfile in thebackend/directory:
 AIS_API_KEY
 =
 your_aisstream_key
- 
+
 #
  Maritime vessel tracking (aisstream.io)
 
@@ -667,21 +667,21 @@ your_aisstream_key
 OPENSKY_CLIENT_ID
 =
 your_opensky_client_id
- 
+
 #
  OAuth2 — higher rate limits for flight data
 
 OPENSKY_CLIENT_SECRET
 =
 your_opensky_secret
- 
+
 #
  OAuth2 — paired with Client ID above
 
 LTA_ACCOUNT_KEY
 =
 your_lta_key
- 
+
 #
  Singapore CCTV cameras
 
@@ -705,43 +705,43 @@ Open-source intelligence for the global theater. Track everything from the corpo
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 746
 
  stars
- 
+
 
 ### Watchers
 
 2
 
  watching
- 
+
 
 ### Forks
 
 70
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases3
 
@@ -749,11 +749,11 @@ ShadowBroker v0.3
 
  Latest
 
- 
+
 
 Mar 9, 2026
 
- 
+
 
 + 2 releases
 
@@ -769,9 +769,9 @@ Mar 9, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -779,9 +779,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

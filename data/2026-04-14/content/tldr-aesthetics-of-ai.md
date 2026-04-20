@@ -46,19 +46,19 @@ Within this spectrum, we identified 14 trends that currently define visual ident
 The quiet-luxury uniform of AI. Calm, warm, muted palettes designed to reduce friction and avoid visual risk. Signaling trust, restraint, and maturity rather than excitement. Premium without gloss, authority without dominance. A neutral backdrop that deliberately steps aside, allowing products and narratives to take center stage. ThePantone color of 2026already all over in AI.
 
 Source:
- 
+
 MAI
 Source:
- 
+
 Intercom
 Source:
- 
+
 Sierra
 Source:
- 
+
 Cursor
 Source:
- 
+
 Anthropic
 
 ### 2 – Organic Gradients
@@ -66,19 +66,19 @@ Anthropic
 Gradients are everywhere. They scale effortlessly and go with anything. Looking interesting without saying much. AI itself hasfiguredthis out and splashes gradients onto every interface it touches. To differentiate, brands are pushing gradients further. They make them more organic, add grain, texture, and subtle variation. The result is greater distinctiveness and a more ownable visual identity within a crowded and homogenized landscape.
 
 Source:
- 
+
 Intercom
 Source:
- 
+
 OpenAI
 Source:
- 
+
 Microsoft AI
 Source:
- 
+
 ElevenLabs
 Source:
- 
+
 Perplexity
 
 ### 3 – Digital Impressionism
@@ -86,19 +86,19 @@ Perplexity
 Soft, blurred forms and reduced detail avoid literal representation and instead focus on mood and emotional resonance. By keeping nothing fully in focus, these visuals resist the urge to explain or over-specify what AI is or how it works. The imagery becomes suggestive rather than descriptive, creating space for interpretation and projection. Digital impressionism allows brands to visualize intelligence without making concrete claims they can’t fully control.
 
 Source:
- 
+
 OpenAI
 Source:
- 
+
 Manus
 Source:
- 
+
 General Intelligence Company
 Source:
- 
+
 Cursor
 Source:
- 
+
 Pi
 
 ### 4 – Lomo Imagery
@@ -106,19 +106,19 @@ Pi
 Lomography-inspired imagery embraces imperfection as a signal. High contrast, washed-out colors, light leaks, blur, and visible “mistakes” deliberately reject polished, corporate aesthetics. This visual language frames AI as exploratory rather than authoritative — something to play with, not be intimidated by. By referencing analog photography and happy accidents, these brands position themselves closer to human creativity, curiosity, and experimentation. The messiness is intentional: it suggests openness, discovery, and a system still in motion rather than a finished, rigid product.
 
 Source:
- 
+
 Cursor
 Source:
- 
+
 OpenAI
 Source:
- 
+
 Cohere
 Source:
- 
+
 Microsoft AI
 Source:
- 
+
 Runway
 
 ### 5 – Contemporary Realism
@@ -126,19 +126,19 @@ Runway
 Contemporary realism serves as both a metaphor for AI and proof of its capability. It makes the invisible tangible and firmly grounds the often blurry, abstract technology in the real world. The style signals precision, control, and craft, creating a sense of reliability and mastery. It sets the brand apart from vague, decorative gradients while hinting at the AI’s uncanny ability to “see” and interpret the world, positioning the technology as advanced yet comprehensible.
 
 Source:
- 
+
 Intercom
 Source:
- 
+
 General Intelligence Company
 Source:
- 
+
 General Intelligence Company
 Source:
- 
+
 Pi
 Source:
- 
+
 Retool
 
 ### 6 – Sketch and Scribble
@@ -146,19 +146,19 @@ Retool
 Sketches and scribbles serve as a deliberate counterpoint to machine perfection. Uneven lines, quick marks, and half-formed diagrams create visual traces of thinking rather than finished outcomes. They reference notebooks, whiteboards, and the early moments when ideas are still fragile. In a space dominated by automation and scale, scribbles reintroduce hesitation, curiosity, and human intent. The style signals exploration over certainty and emphasizes the human thought process behind the technology.
 
 Source:
- 
+
 Microsoft AI
 Source:
- 
+
 Notion
 Source:
- 
+
 Anthropic
 Source:
- 
+
 Notion
 Source:
- 
+
 Microsoft AI
 
 ### 7 – Non-Brand Academia
@@ -166,19 +166,19 @@ Microsoft AI
 Creating authority in a space where much so-called groundbreaking AI is little more than a GPT wrapper. Stripping visual identity down to essentials, avoiding shine or gimmicks, signaling that the work itself demonstrates innovation. Lean typography, muted colors, and functional layouts emphasize seriousness and credibility. This is the humblebrag of branding: We don’t need a shiny brand; our work speaks for itself. The overall effect is quietly confident, rigorous, and authoritative.
 
 Source:
- 
+
 Thinking Machines Lab
 Source:
- 
+
 Runway
 Source:
- 
+
 Sakana
 Source:
- 
+
 OpenAI
 Source:
- 
+
 Runway
 
 ### 8 – Technical Illustrations
@@ -186,19 +186,19 @@ Runway
 Often not actual visualizations of the technology, but signals of technical competence. They serve more as decoration than communication, referencing engineering, research papers, and system diagrams. Slightly retro in feel, they project rigor, depth, and seriousness. This style borrows the language of documentation, positioning the brand as knowledgeable, precise, and grounded in technical expertise.
 
 Source:
- 
+
 ElevenLabs
 Source:
- 
+
 OpenAI
 Source:
- 
+
 Intercom
 Source:
- 
+
 Thinking Machines Lab
 Source:
- 
+
 General Intelligence Company
 
 ### 9 – Quirky Cuteness
@@ -206,19 +206,19 @@ General Intelligence Company
 Cute mascots as counterweight to AI doomsday narratives. Humanizing a technology that feels abstract, powerful, and sometimes threatening. Friendly faces for complex systems. Playful, nerdy, self-aware. A bridge to engineering culture and insider humor. Signaling approachability in public and belonging in the war for AI talent.
 
 Source:
- 
+
 Modular
 Source:
- 
+
 Sakana
 Source:
- 
+
 OpenAI
 Source:
- 
+
 Mistral
 Source:
- 
+
 Notion
 
 ### 10 – Morphing Objects
@@ -226,19 +226,19 @@ Notion
 Floating, evolving, constantly in motion. No fixed form. No final state. Shapes that evolve, dissolve, and reassemble. Visualizing emergence rather than outcomes. A metaphor for systems that learn, adapt, and change over time. Signaling novelty, uncertainty, and the unknown. AI not as a finished product, but as something continuously becoming.
 
 Source:
- 
+
 ElevenLabs
 Source:
- 
+
 Intercom
 Source:
- 
+
 Fal
 Source:
- 
+
 OpenAI
 Source:
- 
+
 Cohere
 
 ### 11 – Futuristic Surrealism
@@ -246,19 +246,19 @@ Cohere
 Some brands build entire surreal worlds. Layered environments, impossible physics, dreamlike machines. Sometimes leaning steampunk, sometimes retrofuturistic, always otherworldly. Less about explaining the technology, more about what it enables. A signal that this AI is not just a tool, but a gateway. An invitation to step into new worlds.
 
 Source:
- 
+
 Retool
 Source:
- 
+
 Perplexity
 Source:
- 
+
 World Labs
 Source:
- 
+
 World Labs
 Source:
- 
+
 Perplexity
 
 ### 12 – Outer Space
@@ -266,19 +266,19 @@ Perplexity
 The final frontier. A familiar metaphor for intelligence that still feels undiscovered. Sometimes romantic and utopian. Sometimes undeniably cheesy. Galaxies, stars, cosmic light. AI as exploration. Framing progress as a journey into the unknown.
 
 Source:
- 
+
 X AI
 Source:
- 
+
 Perplexity
 Source:
- 
+
 Modular
 Source:
- 
+
 Modular
 Source:
- 
+
 Intercom
 
 ### 13 – ASCII and Pixels
@@ -286,19 +286,19 @@ Intercom
 Pixelart and ASCII art are back. A nod to early internet and computer culture. Retro by design. Instantly friendly. AI that is here to play, not to take your job. Creative and inspiring, yet clearly technical. Adding familiarity, nostalgia, and a sense of predictability to an opaque technology.
 
 Source:
- 
+
 Midjourney
 Source:
- 
+
 Mistral
 Source:
- 
+
 Mistral
 Source:
- 
+
 Fal
 Source:
- 
+
 General Intelligence Company
 
 ### 14 – Generative Art
@@ -306,19 +306,19 @@ General Intelligence Company
 Algorithmic patterns, cellular automata, rule-based visuals. Pixel art for mathematicians. Systems that create form through logic. Flexible and scalable. A natural fit for AI branding, where the visual itself behaves like a product. Less about a single image, more about a living system. A signal of depth, rigor, and emergent complexity.
 
 Source:
- 
+
 Sakana
 Source:
- 
+
 Fal
 Source:
- 
+
 Fal
 Source:
- 
+
 General Intelligence Company
 Source:
- 
+
 Retool
 
 ## Five Brand Archetypes Reflecting Different Visions of AI

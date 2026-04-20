@@ -32,7 +32,7 @@ The U.S. military already relies on highly automated systems, some of which are 
 
 That’s precisely what makes Anthropic nervous. Military technology is secretive by nature, so if the U.S. military were taking steps to automate lethal decision-making, we might not know about it until it was operational. And if it used Anthropic’s models, it could count as “lawful use.”
 
- 
+
 
 Techcrunch event
 
@@ -87,21 +87,21 @@ xAI is gearing up to become classified-ready and replace Anthropic, and it’s f
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 Claude
-, 
+,
 dario amodei
-, 
+,
 dod
-, 
+,
 Government & Policy
-, 
+,
 pete hegseth
- 
 
-			Rebecca Bellan	
+
+			Rebecca Bellan
 
 Senior Reporter
 
@@ -109,6 +109,6 @@ Rebecca Bellan is a senior reporter at TechCrunch where she covers the business,
 
 You can contact or verify outreach from Rebecca by emailingrebecca.bellan@techcrunch.comor via encrypted message at rebeccabellan.491 on Signal.
 
- 
+
 
 View Bio

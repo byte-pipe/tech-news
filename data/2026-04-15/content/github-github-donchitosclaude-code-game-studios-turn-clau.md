@@ -11,7 +11,7 @@ description: Turn Claude Code into a full game dev studio — 49 AI agents, 72 w
 
 Donchitos
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public template
 * Fork1.5k
 * Star9.8k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -152,15 +152,15 @@ Skills
 
 Slash commands for every workflow phase (
 /start
-, 
+,
 /design-system
-, 
+,
 /create-epics
-, 
+,
 /create-stories
-, 
+,
 /dev-story
-, 
+,
 /story-done
 , etc.)
 
@@ -344,21 +344,21 @@ validate-commit.sh
 
 PreToolUse (Bash)
 
-Checks for hardcoded values, TODO format, JSON validity, design doc sections — exits early if the command is not 
+Checks for hardcoded values, TODO format, JSON validity, design doc sections — exits early if the command is not
 git commit
 
 validate-push.sh
 
 PreToolUse (Bash)
 
-Warns on pushes to protected branches — exits early if the command is not 
+Warns on pushes to protected branches — exits early if the command is not
 git push
 
 validate-assets.sh
 
 PostToolUse (Write/Edit)
 
-Validates naming conventions and JSON structure — exits early if the file is not in 
+Validates naming conventions and JSON structure — exits early if the file is not in
 assets/
 
 session-start.sh
@@ -371,7 +371,7 @@ detect-gaps.sh
 
 Session open
 
-Detects fresh projects (suggests 
+Detects fresh projects (suggests
 /start
 ) and missing design docs when code or prototypes exist
 
@@ -385,7 +385,7 @@ post-compact.sh
 
 After compaction
 
-Reminds Claude to restore session state from 
+Reminds Claude to restore session state from
 active.md
 
 notify.sh
@@ -398,7 +398,7 @@ session-stop.sh
 
 Session close
 
-Archives 
+Archives
 active.md
  to session log and records git activity
 
@@ -418,9 +418,9 @@ validate-skill-change.sh
 
 PostToolUse (Write/Edit)
 
-Advises running 
+Advises running
 /skill-test
- after any 
+ after any
 .claude/skills/
  change
 
@@ -504,7 +504,7 @@ Tested onWindows 10with Git Bash. All hooks use POSIX-compatible patterns (grep 
 Claude Code Game Studios is free and open source. If it saves you time or helps you ship your game, consider supporting continued development:
 
   
- 
+
 
 * Buy Me a Coffee— one-time support
 * GitHub Sponsors— recurring support through GitHub
@@ -551,48 +551,48 @@ Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skill
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 9.8k
 
  stars
- 
+
 
 ### Watchers
 
 114
 
  watching
- 
+
 
 ### Forks
 
 1.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases4
 
@@ -600,11 +600,11 @@ v1.0.0-beta — Claude Code Game Studios
 
  Latest
 
- 
+
 
 Apr 7, 2026
 
- 
+
 
 + 3 releases
 
@@ -614,11 +614,11 @@ Apr 7, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * buymeacoffee.com/donchitos3
 
 Learn more about GitHub Sponsors
@@ -635,9 +635,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -645,9 +645,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

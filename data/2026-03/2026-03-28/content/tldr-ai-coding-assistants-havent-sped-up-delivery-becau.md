@@ -14,9 +14,9 @@ tags:
 InfoQ HomepageNewsAI Coding Assistants Haven’t Sped up Delivery Because Coding Was Never the Bottleneck
 
  Architecture & Design
- 
 
-QCon San Francisco (Nov 16-20): Deep technical sessions. Peer conversations that change how you think. 
+
+QCon San Francisco (Nov 16-20): Deep technical sessions. Peer conversations that change how you think.
 
 # AI Coding Assistants Haven’t Sped up Delivery Because Coding Was Never the Bottleneck
 
@@ -31,8 +31,8 @@ by
 
 Feed your curiosity.
 
-Help 550k+ global 
-senior developers 
+Help 550k+ global
+senior developers
 each month stay ahead.
 Get in touch
 
@@ -58,15 +58,15 @@ Human authority is migrating from writing code to defining and governing intent 
 
 Stern arrives at a compatible conclusion from a workflow perspective: a high-fidelity specification with testable acceptance criteria, explicit corner cases, and captured architectural decisions becomes the primary engineering deliverable, with implementation increasingly delegated. Both pieces converge on the observation that human authority is migrating upward in the abstraction stack — from writing code to defining and governing intent.
 
- 
+
 
 ## About the Author
 
- 
 
- 
 
- 
+
+
+
 
 #### Eran Stiller
 
@@ -108,7 +108,7 @@ Select your country
 
 Select a country
 
-I consent to InfoQ.com handling my data as explained in this 
+I consent to InfoQ.com handling my data as explained in this
 Privacy Notice
 .
 

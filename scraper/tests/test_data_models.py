@@ -116,6 +116,18 @@ class TestScrapingResult(unittest.TestCase):
         self.assertIsInstance(data["metadata"], dict)
 
 
+    def test_from_dict(self):
+        """Test ScrapingResult.from_dict round-trip."""
+        items = [ScrapedItem(title="Test", url="https://example.com")]
+        result = ScrapingResult(success=True, items=items, error_message=None)
+        data = result.to_dict()
+
+        restored = ScrapingResult.from_dict(data)
+        self.assertTrue(restored.success)
+        self.assertEqual(len(restored.items), 1)
+        self.assertEqual(restored.items[0].title, "Test")
+
+
 class TestSiteSpecificItems(unittest.TestCase):
     """Test site-specific item types."""
 

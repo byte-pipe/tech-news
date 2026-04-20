@@ -26,15 +26,15 @@ Congrats to our winners!
 Notion MCP Challenge Submission 🧠
 
  Giorgi Kobaidze
- 
+
 
  Giorgi Kobaidze
- 
+
 
 Giorgi Kobaidze
 
  Follow
- 
+
 
 Mar 29
 
@@ -61,7 +61,7 @@ Comments
  comments
 
  7 min read
- 
+
 
 @georgekobaidzebuilt an AI-powered workspace management tool that feels like having a flight control tower for Notion. The hybrid architecture was impressive: direct API access for speed on bulk reads, and Notion MCP as a safety layer for all destructive writes. For anyone drowning in hundreds of orphaned pages and forgotten API keys, this one's for you.
 
@@ -70,15 +70,15 @@ Comments
 Notion MCP Challenge Submission 🧠
 
  Yash Kumar Saini
- 
+
 
  Yash Kumar Saini
- 
+
 
 Yash Kumar Saini
 
  Follow
- 
+
 
 Mar 27
 
@@ -105,23 +105,23 @@ Comments
  comments
 
  7 min read
- 
+
 
 @yashksainisolved a problem we all know too well: Monday standup amnesia. DevNotion is a 3-agent pipeline that automatically harvests a week of GitHub activity every Sunday, narrates it into a first-person blog post, and publishes a planner-style page to Notion and a draft article to DEV. Cool, well-written, and the kind of automation you'd actually run every week.
 
 Notion MCP Challenge Submission 🧠
 
  Christian Apostol
- 
+
 
  Christian Apostol
- 
- 
+
+
 
 Christian Apostol
 
  Follow
- 
+
 
 Mar 30
 
@@ -147,7 +147,7 @@ Comments
 Add Comment
 
  3 min read
- 
+
 
 @capostotackled a high-stakes real-world problem with Relay: an incident management assistant that handles all the documentation in real-time. A tool like this would be genuinely invaluable at enterprise scale. By letting the agent decide how to interact with the workspace rather than hardcoding specific tool calls, Relay takes full advantage of what MCP makes possible.
 
@@ -179,17 +179,17 @@ Our secondDEV Weekend Challengeis happening now! With Earth Day just around the 
 Earth Day theme and specific tech categories
 
  Jess Lee
- 
+
 
  Jess Lee
- 
+
 
 Jess Lee
 
  Follow
- 
 
- for 
+
+ for
 The DEV Team
 
 Apr 17
@@ -211,24 +211,24 @@ Comments
  comments
 
  4 min read
- 
+
 
 TheOpenClaw Challengeis running through April 26 with a $1,200 prize pool across two prompts:build something with OpenClaw, or publish a post that educates and inspires.Six winners total, each taking home $200 and a DEV++ Membership.
 
 Share your OpenClaw experience
 
  Jess Lee
- 
+
 
  Jess Lee
- 
+
 
 Jess Lee
 
  Follow
- 
 
- for 
+
+ for
 The DEV Team
 
 Apr 16
@@ -256,14 +256,14 @@ Comments
  comments
 
  4 min read
- 
+
 
 Thank you to everyone who participated. We hope you had fun, pushed your skills, and maybe even gave your Notion workspace a much-needed checkup along the way.
 
 See you next time!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

@@ -11,7 +11,7 @@ description: A free and open source instant messaging and VoIP platform built fo
 
 fluxerapp
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork350
 * Star6.5k
 
- 
- 
- 
+
+
+
  
 refactor
 Branches
@@ -472,66 +472,66 @@ fluxer.app
 
  Readme
 
- 
+
 
 ### License
 
  AGPL-3.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 6.5k
 
  stars
- 
+
 
 ### Watchers
 
 86
 
  watching
- 
+
 
 ### Forks
 
 350
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Sponsor this project
 
@@ -539,11 +539,11 @@ Custom properties
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * https://fluxer.app/donate
 
 ## Contributors
@@ -552,9 +552,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

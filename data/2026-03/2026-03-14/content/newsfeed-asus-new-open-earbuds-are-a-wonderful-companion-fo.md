@@ -27,8 +27,8 @@ Great sound, a comfortable fit, and a clever USB-C transmitter with passthrough 
 Great sound, a comfortable fit, and a clever USB-C transmitter with passthrough charging.
 
 by
- 
- 
+
+
 Cameron Faulkner
 Mar 14, 2026, 1:00 PM UTC
 * Link
@@ -37,11 +37,11 @@ Mar 14, 2026, 1:00 PM UTC
 If you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement.
 
 They look like your average open earbuds, but with optional RGB LED effects.
- 
+
 Photo by Cameron Faulkner / The Verge
 Cameron Faulkner
- 
-is an editor covering deals and gaming hardware. He joined in 2018, and after a two-year stint at Polygon, he rejoined 
+
+is an editor covering deals and gaming hardware. He joined in 2018, and after a two-year stint at Polygon, he rejoined
 The Verge
  in May 2025.
 
@@ -112,19 +112,19 @@ Sign up for Verge Deals to get deals on products we’ve tested sent to your inb
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

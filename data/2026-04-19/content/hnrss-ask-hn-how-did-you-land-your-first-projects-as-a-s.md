@@ -14,33 +14,33 @@ tags:
 
 Hacker News
 new
- | 
+ |
 past
- | 
+ |
 comments
- | 
+ |
 ask
- | 
+ |
 show
- | 
+ |
 jobs
- | 
+ |
 submit
 login
 Ask HN: How did you land your first projects as a solo engineer/consultant?
 215 points
- by 
+ by
 modelcroissant
- 
+
 10 hours ago
- 
- | 
+
+ |
 hide
- | 
+ |
 past
- | 
+ |
 favorite
- | 
+ |
 98 comments
 I’ve spent roughly the last decade and some change as a software engineer, and recently decided to start a solo consultancy.
 
@@ -52,12 +52,12 @@ I’m focused on helping SMEs sort out the messy back-office parts of the busine
 help
 
 aviperl
- 
+
 8 hours ago
- 
- | 
+
+ |
 next
- 
+
 [–]
 
 I was hanging out on a slack community of developers where I would commonly respond to questions and chat on the channel for Python. Someone there had a friend with AWS costs flying through the roof and he needed some help from somebody who could understand python. My action on that channel caused him to reach out to me.
@@ -67,14 +67,14 @@ Once I solved their issue, they asked me if I could add features to the site. I 
 reply
 
 phrotoma
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Your story is a nice succinct version of the "Business of Authority" strategy. Establish yourself as an expert, work finds you.
@@ -84,16 +84,16 @@ https://thebusinessofauthority.com/
 reply
 
 tomrod
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I never thought about these as different acquisition models. What others are there to learn about?
@@ -101,16 +101,16 @@ I never thought about these as different acquisition models. What others are the
 reply
 
 phrotoma
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The last time I mentioned this I got downvoted into a crater, so maybe ppl hate it (I'm open to hearing counterpoints!) but there's an army of tech freelancers swapping advice in a slack called "Rands Leadership Slack". My old boss suggested it. I thought it was BS. It was surprisingly informative - case in point it's where I first heard of the above podcast.
@@ -118,16 +118,16 @@ The last time I mentioned this I got downvoted into a crater, so maybe ppl hate 
 reply
 
 nicbou
- 
+
 58 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've seen variants of this a few times. Being publicly helpful is a good way to get business. Need a lawyer to help with a specific case? You'll probably hire the person who's active in your community, or who wrote a helpful blog post about it.
@@ -135,14 +135,14 @@ I've seen variants of this a few times. Being publicly helpful is a good way to 
 reply
 
 santiagobasulto
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 General consultancy is an extremely crowded space. As a startup CEO, I get at least 3 emails per week from software agencies and consultants. On top of that, they're usually located in India/Ukraine and the rates they offer are very low, so I assume it's very difficult to compete.
@@ -152,14 +152,14 @@ My advice would be to differentiate yourself:- Become an expert in 1 thing, and 
 reply
 
 aerhardt
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Become an expert in 1 thing
@@ -169,37 +169,37 @@ I endorse this. I've been doing generalist consulting for about six years, and I
 reply
 
 skeeter2020
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-I used to fear specialization because of a form of commercial or career FOMO. The reality is you instead get spread to thin and are (ironically?) now at risk of being displaced by "good enough" AI solutions. If you are a generalist you still need to be "T-shaped" with a few areas of deeper expertise. Funny enough your expertise 
+I used to fear specialization because of a form of commercial or career FOMO. The reality is you instead get spread to thin and are (ironically?) now at risk of being displaced by "good enough" AI solutions. If you are a generalist you still need to be "T-shaped" with a few areas of deeper expertise. Funny enough your expertise
 could
  be getting things done-done using all your generalist abilities (ex: able to take initial ideas all the way to a active, viable business).
 
 reply
 
 guzfip
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How? This is what I never understood. Every domain expert I’ve ever knowing is because they’ve already
@@ -208,16 +208,16 @@ I can spend all the time I have reading and toying around in a subject, but unti
 reply
 
 p1esk
- 
+
 52 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 how?
@@ -227,18 +227,18 @@ From GP comment: “either start an open source project, or become the main coll
 reply
 
 aerhardt
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've drifted across projects in different industries (FMCG, investment funds, ad agencies, startups of various sorts) and like I said I had a long project (over two years) for an executive search firm and got to see the ins and outs of how everything works from strategy to technology. I could be drifting to find clients in yet another vertical but I've decided to stay put for at least a few years. So to answer your question, in my particular case: I drifted, stumbled upon something by chance, and then took a conscious decision to stay.
@@ -246,16 +246,16 @@ I've drifted across projects in different industries (FMCG, investment funds, ad
 reply
 
 Aurornis
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > As a startup CEO, I get at least 3 emails per week from software agencies and consultants. On top of that, they're usually located in India/Ukraine and the rates they offer are very low, so I assume it's very difficult to compete.
@@ -265,16 +265,16 @@ This is why cold outreach is rarely effective. Until you’ve seen it, you don�
 reply
 
 f3b5
- 
+
 2 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Re cold outreach: it depends. The bar is abysmally low, and most outreach is just an untargeted spam cannon. Don't be like those people.
@@ -284,16 +284,16 @@ If you manage to make the outreach warmer, it can work surprisingly well. I buil
 reply
 
 skeeter2020
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 +3 for focus / personal and networking.
@@ -303,16 +303,16 @@ I don't consult anymore, but for an extended period I did so at a premium rate a
 reply
 
 dustingetz
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 +1 about overseas freelancers. And US customer to European freelancer is not the arb it used to be. The California SaaS sector has collapsed in the wake of venture capital rotating into AI-native, saas budgets (salaries) are down, the dollar is down, and remote European salaries are up. Zoom latency across 7-8h timezone difference is workable, the current arb is to hire from further and further east. Unless there is a war disruption such as an attack on the trans Atlantic internet pipes.
@@ -320,16 +320,16 @@ next
 reply
 
 OJFord
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Are you using 'arb' to mean something like cheat or trick, or cost-saving technique?
@@ -337,16 +337,16 @@ Are you using 'arb' to mean something like cheat or trick, or cost-saving techni
 reply
 
 dummydummy1234
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Arbitrage I assume
@@ -354,16 +354,16 @@ Arbitrage I assume
 reply
 
 OJFord
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I know, I just don't see the arbitrage in what's described? If I order online because it's cheaper than the high street, that's not an arbitrage – the arbitrage would include then selling it on the high street afterwards, getting paid to close the gap until it reflects only delivery fees and the value of immediacy.
@@ -371,16 +371,16 @@ I know, I just don't see the arbitrage in what's described? If I order online be
 reply
 
 le-mark
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I assumed from the context the arb was California salary vs their local salary.
@@ -388,16 +388,16 @@ I assumed from the context the arb was California salary vs their local salary.
 reply
 
 assimpleaspossi
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 >>I get at least 3 emails per week from software agencies and consultants. On top of that, they're usually located in India/Ukraine and the rates they offer are very low, so I assume it's very difficult to compete.
@@ -407,16 +407,16 @@ One place hired me thinking I could fix some software they farmed out to India. 
 reply
 
 voakbasda
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 And a lesson in the psychology of sunk costs.
@@ -426,16 +426,16 @@ They probably did not suddenly wake up after six months and realized the Indian 
 reply
 
 samiv
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Becoming an expert in one thing also narrows down the potential suitable work tremendously. Also these days nobody wants to pay the expert prices since.. Claude can so the expert stuff with a non-expert (at least in their mind)
@@ -443,16 +443,16 @@ Becoming an expert in one thing also narrows down the potential suitable work tr
 reply
 
 samiv
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Sibling commenters seem to be confused.
@@ -462,21 +462,21 @@ Usually experts are T shaped. Acquiring expertise always means the time spent is
 reply
 
 bombcar
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-The T shape is important - but the base of the T doesn't have to be in tech. If you're an expert in a particular niche 
+The T shape is important - but the base of the T doesn't have to be in tech. If you're an expert in a particular niche
 and
- a generalist in a particular 
+ a generalist in a particular
 business
  you'll find work.
 
@@ -485,18 +485,18 @@ E.g., a web developer who knows a lot about how lawyers run their business.
 reply
 
 59nadir
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Claude can so the expert stuff with a non-expert (at least in their mind)
@@ -506,18 +506,18 @@ Opus is far better at most surface-level tasks than it is at tasks that require 
 reply
 
 arcbyte
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is not true at all. Not even a sliver of truth.
@@ -527,16 +527,16 @@ There must be a word for this style of post where you take your own inadequacies
 reply
 
 chrisweekly
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Not OP but I feel compelled to reply.
@@ -546,16 +546,16 @@ It's indisputable (borderline tautological) that specialization trades breadth f
 reply
 
 swiftcoder
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > It's indisputable (borderline tautological) that specialization trades breadth for depth
@@ -565,18 +565,18 @@ I do not necessarily agree with this as stated. A specialist will have access to
 reply
 
 konradha
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is a strong assertion that's directionally wrong. No matter the economy's state or any AI progress, experts are always searched for.
@@ -584,18 +584,18 @@ This is a strong assertion that's directionally wrong. No matter the economy's s
 reply
 
 jacknews
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Even if it's true that AI can replace an expert, and I really don't think it is, except in the simplest minds, the AI training companies are aggressively hiring experts...
@@ -603,16 +603,16 @@ Even if it's true that AI can replace an expert, and I really don't think it is,
 reply
 
 le-mark
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Cogent point, expertly applied, thank you.
@@ -620,14 +620,14 @@ Cogent point, expertly applied, thank you.
 reply
 
 stevetron
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How? I had a set of letterhead/envelopes/business cards printed up. I had already been "hanging-out" in the local electronics surplus stores, where they also sold used computer parts and the like. Stacked around the cash registers in these stores at that time were business cards. Various specialists. So I kept my own maintained stack of cards in my two main goto-stores, and I was friends with the register clerks, and had them handing out my cards on occasions when somebody came in the store and wanted help with "something". After 8 months of doing this, and being flat-broke, the day before Christmas, somebody telephoned off of my business card, and asked if I could do something. He brought some sample stuff, and I accepted a $200-per week retainer from him (I was really good at budgeting and that was what I had been getting for UEI until it ended). He had brought his checkbook with him, and wrote me a check. That started my personal word-of-mouth network and kept me going for a few decades.
@@ -635,14 +635,14 @@ How? I had a set of letterhead/envelopes/business cards printed up. I had alread
 reply
 
 AlexCoventry
- 
+
 3 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I went to a conference and talked to all the vendors about their products.
@@ -650,14 +650,14 @@ I went to a conference and talked to all the vendors about their products.
 reply
 
 saadn92
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm doing this right now -- AI automation for small businesses, started on Upwork about two months ago. The thing that actually moved the needle was writing proposals that were basically free mini consultations. Someone posts about needing their spreadsheet workflow automated, I'd write back describing their exact problem back to them and how I'd wire it up with n8n, what the timeline looks like, what usually goes wrong. No "I have 10 years of experience" stuff.
@@ -667,14 +667,14 @@ Took about 6 weeks to get 5 reviews. Before that I was competing on rate against
 reply
 
 le-mark
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Upwork is such a miserable platform. Have you diversified to other sources?
@@ -682,16 +682,16 @@ Upwork is such a miserable platform. Have you diversified to other sources?
 reply
 
 hyraki
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Curious of what kind of workflows you end up working with and setting up? I am trying to figure out what I can automate in my work but I don't know if I have much.
@@ -699,14 +699,14 @@ Curious of what kind of workflows you end up working with and setting up? I am t
 reply
 
 rohitv
- 
+
 34 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The best is proof of work. If you don't have any, build something and show that off. Even listing out the companies you have worked for will be good. Cold email could work if its not completely "cold", i.e, find companies/people who are in the space/industry where you have worked so that they can see you have solved a similar problem before. 10+ years of software engineering is quite valuable, you just have to present yourself in a way where the value can be seen.
@@ -716,14 +716,14 @@ Also, never, ever work for free. One, your time is worth more than you think. Se
 reply
 
 retrac98
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Been at this 10 years. My top tip is if you’re doing cold outreach, kickstart the value exchange by giving something first without asking for anything in return.
@@ -733,14 +733,14 @@ A “hey I noticed x is costing you more than it should and could be better/chea
 reply
 
 rrr_oh_man
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > A “hey I noticed x is costing you more than it should and could be better/cheaper done like this” AND then actually give them the “this” for free without expectation of anything in return is 10x more effective than a message where you’re asking for work.
@@ -750,16 +750,16 @@ Can you give a more specific example from your recent experience?
 reply
 
 andai
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My approach is to break the project into small milestones — especially in the beginning — and align the incentives.
@@ -769,14 +769,14 @@ Put bluntly, I design it so I can't lose, and neither can my client. I design it
 reply
 
 alegd
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I do freelance consulting alongside building my own product.
@@ -786,14 +786,14 @@ My first clients came through a friend who connected me with people that needed 
 reply
 
 mvvl
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My first project came from a former coworker who moved to a new company. That's pretty much it.
@@ -803,14 +803,14 @@ Can't tell you any clever acquisition strategy. For this sort of work you need a
 reply
 
 z33k
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 As someone who went to work for a commercial software consultancy company early in my career, I am looking to follow in your footsteps. In consultancy, projects are over for me when my work is done. Rarely do I get to see the results. I want to work at a product company next.
@@ -818,14 +818,14 @@ As someone who went to work for a commercial software consultancy company early 
 reply
 
 l5870uoo9y
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I started freelancing over 10 years ago, and I got my first freelance project through an acquaintance from my former dorm in Copenhagen. After that I got several different freelance jobs through recruiters on LinkedIn. But it was a different time, as the cliché goes. One thing to know about highly paid freelance positions is that they are extremely cyclical. These are positions that mainly exist because the market is booming and screaming for labor, and when that's not the case, companies will much, much prefer to have permanent employees.
@@ -835,14 +835,14 @@ In the time before COVID and up until its end, the tech market was booming, but 
 reply
 
 ludicity
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's bedtime in Melbourne, but I write what would be fair to call a well-known tech blog, and very publicly started a consultancy about 1.5 years ago. Pretty much in the same niche you're in. We made enough money to pay two people full -time wages in the first year and I've cracked $1K per hour on some engagements (not many, and each one was <20 hours).
@@ -852,14 +852,14 @@ Happy to have a chat if you drop me an email.
 reply
 
 iainctduncan
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I did similar stuff for many years (and sometimes still do). By far the most effective was going and meeting people in adjacent or similar fields and making sure they knew about me.
@@ -869,14 +869,14 @@ My favourite was helping scientists - not the highest paying gigs, but the most 
 reply
 
 rotten
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Working as a feeelance consultant means you have to do marketing AND sales. (and backend paperwork as well). You need to be able to float through stretches of no work, and you need to be able to deal with clients who won't pay you.
@@ -886,14 +886,14 @@ Your product is yourself, so you start with brand building. What are your differ
 reply
 
 rohitv
- 
+
 27 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This 100%.
@@ -904,16 +904,16 @@ One thing I will say though is that, it also comes with a lot of flexibility and
 reply
 
 tossandthrow
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I think this is under appreciated. I also had my stint (some years) of freelance and found that my general take home pay was too low.
@@ -923,14 +923,14 @@ That said. When staying in a job skill atrophy is a very real thing.As nassim ta
 reply
 
 gsliepen
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I worked on an open source application, and some people wanted to use parts of it as a library in their commercial applications. So I started a consultancy due to that demand. I still had a regular job at the same time though, so there was never a need to gather enough clients to make a living out of the consultancy job.
@@ -940,14 +940,14 @@ Things I learned:- Get an accountant ASAP, even if the income is small. Just the
 reply
 
 TheAmazingRace
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So unlike some folks, I’m still very much reliant on $DAYJOB for the majority of my income. But I managed to carve out a niche in an unexpected place.
@@ -957,31 +957,31 @@ OS/2 consultingIt all started when I made a connection through a OS/2 community 
 reply
 
 bombcar
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-The nice thing about a niche like this is that once they use you for fixing an old OS/2 box, you're on the list for 
+The nice thing about a niche like this is that once they use you for fixing an old OS/2 box, you're on the list for
 other
  things, too.
 
 reply
 
 fredwu
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I hangout on a few Slack groups (Elixir, Ruby, etc), got quite a few projects this way as the founders were looking for experienced consultants.
@@ -991,14 +991,14 @@ It also helps if you could show either/both:* a portfolio / clients you've worke
 reply
 
 swiftcoder
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I get basically all my contract work through folks I've worked with in the past. With a little luck, your network slowly diffuses across the industry, and when they need a heavy-hitter, they know who to call
@@ -1006,14 +1006,14 @@ I get basically all my contract work through folks I've worked with in the past.
 reply
 
 Brajeshwar
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The gist is to mine your network, and the best is when you can have contacts as champions in your clients’ companies. Here are a few good readings;
@@ -1023,14 +1023,14 @@ The gist is to mine your network, and the best is when you can have contacts as 
 reply
 
 adityaathalye
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 In your case, bike or drive around and talk to SMEs in your city. Have friends refer you to their contacts, so it's a warm intro. Build software for free, and maintain it on an annual maintenance contract basis. "Value-price" each AMC. Initially, be fine with "leaving money on the table". Within two to three deals you will figure out a mutually profitable pricing strategy.
@@ -1038,14 +1038,14 @@ In your case, bike or drive around and talk to SMEs in your city. Have friends r
 reply
 
 georgestrakhov
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Hello. I am also doing this and have more leads / opportunities/ projects than I can handle at the moment. All from my network.
@@ -1056,14 +1056,14 @@ Thank you and best of luck.
 reply
 
 soulofmischief
- 
+
 49 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I've been in the bad habit of not publicly publishing a lot of my more interesting projects from the last few years, but I also consult and would love to talk shop. Happy to share code and projects over email. Even if your current workload is outside my wheelhouse, it would be good to make a connection. Email in bio.
@@ -1071,14 +1071,14 @@ I've been in the bad habit of not publicly publishing a lot of my more interesti
 reply
 
 eatonphil
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If you'd like visibility, I pay experienced developers a small fee to write educational articles on software infrastructure. While you cannot write about your own projects, your byline in the article is a good place to say that you're looking for work (employment or contract).
@@ -1088,14 +1088,14 @@ https://theconsensus.dev/contribute.html
 reply
 
 pdimitar
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'm close to finishing a fairly complex and laborious Elixir bridge to SQLite (through Rust) and I loved the journey. Maybe I should contact you and write an article. Hmm.
@@ -1103,14 +1103,14 @@ I'm close to finishing a fairly complex and laborious Elixir bridge to SQLite (t
 reply
 
 dustingetz
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 i was very early to React (like adopted for an enterprise app the day it came out publicly) and developed probably the first forms and state management libraries. they had screenshots of the enterprise app. so anyone who googled “react forms” in 2014 would end up on my github as there was nothing else, and saw my screenshots, which created some inbound and also gave me a credibility edge when replying to JDs in 2015-2016 which helped me charge high fees. But this would not work today. Companies have brought the whole developer economy inhouse to push down costs, that category of development (applications) is considered solved by buyers for better or worse, there is not much of a freelance application development ecosystem anymore.
@@ -1118,14 +1118,14 @@ i was very early to React (like adopted for an enterprise app the day it came ou
 reply
 
 squirrel
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Had been consulting for equity with one startup out of an accelerator, so it was natural to go paid once I went out on my own. For the next few clients, approached investors I knew from that and other startups, who referred me to portfolio companies who needed me. I wish I'd read Alan Weiss's Million Dollar Consulting at the beginning though, I would have avoided many mistakes (like day-rate billing).
@@ -1133,14 +1133,14 @@ Had been consulting for equity with one startup out of an accelerator, so it was
 reply
 
 mancerayder
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Is anyone in this space nervous that companies will spend their infrastructure or software engineering budget on AI 'agents' like Claude en lieu of consulting dollars?
@@ -1150,14 +1150,14 @@ If you aren't afraid of this, are you doing anything different from a marketing 
 reply
 
 oefrha
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 By having a reasonably successful open source project while in university. Someone reached out with work in a relevant area. I suppose that gate is mostly shut off these days with the volume of vibe-coded crap (or even non-crap) and uptick of clearly fraudulent stars on GitHub.
@@ -1165,14 +1165,14 @@ By having a reasonably successful open source project while in university. Someo
 reply
 
 nryoo
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Open source helped me more than cold outreach. Shipping something small and useful gave potential clients something concrete to evaluate instead of just a resume. The conversations that followed were much warmer.
@@ -1180,14 +1180,14 @@ Open source helped me more than cold outreach. Shipping something small and usef
 reply
 
 Ken_At_EM
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 First: Flew to California on whim after meeting some other devs in an IRC chat.
@@ -1196,14 +1196,14 @@ Second: I kid you not, playing pool in a bar.
 reply
 
 andai
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I got most of my clients from Reddit and Discord.
@@ -1213,33 +1213,33 @@ People look for freelancers, I say hello.One guy asked for proof of prior work. 
 reply
 
 mcook08
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 3 quick (and true) stories that helped me when I was in a similar situation (started my own thing in 2024). Currently have 6 clients and 9 employees (which wasn’t the plan!)
 
-1. Embrace the bizarre. You need your first client, not a repeatable go to market motion. Once you have a client, you can begin to work on getting clients and figuring out what type of work you want to do longer-term. My first client was a friend who owned a business, knew enough about technology to scratch the surface and was willing to pay $5k for me to coach him. He had to write all the code and I agreed to monthly coaching until he was able to get his site in production. Terrible economics but earned real money and that’s the point of your first client - it legitimizes you. 
-2. Tell true stories. Did you meet with a prospect yesterday? It’s much more compelling to open your conversation about something real that happened instead of words on a page. Your website looks like every other AI consulting website. No shade, mine does too. Website is unlikely to be a major source of business. Don’t lie to yourself that adding features to your site is investing in your business growth until you are getting new leads from it. 
+1. Embrace the bizarre. You need your first client, not a repeatable go to market motion. Once you have a client, you can begin to work on getting clients and figuring out what type of work you want to do longer-term. My first client was a friend who owned a business, knew enough about technology to scratch the surface and was willing to pay $5k for me to coach him. He had to write all the code and I agreed to monthly coaching until he was able to get his site in production. Terrible economics but earned real money and that’s the point of your first client - it legitimizes you.
+2. Tell true stories. Did you meet with a prospect yesterday? It’s much more compelling to open your conversation about something real that happened instead of words on a page. Your website looks like every other AI consulting website. No shade, mine does too. Website is unlikely to be a major source of business. Don’t lie to yourself that adding features to your site is investing in your business growth until you are getting new leads from it.
 3. The question you should be asking is how do I get my 2nd, 3rd and 4th clients because otherwise you have just traded being an employee with benefits for ‘freedom’ and utter dependence on your single client. Again, embrace all the strategies. My 2nd client came from responding to an RFP - something I’d never done in my career. 3rd client came from a referral from 2nd client. 4th client came from a friend who knew I did tech and need some help to bring a project to life. None of it makes sense in hindsight, but the point is that you learn by doing. Every client teaches you something about the type of business you want to become.Bonus tip: read books. Not because they have the formula that you will use, but because they have the best ideas written down. Some combination of those ideas is likely your path to success. Reading books has far greater return than shorter forms (social media and dare I say HN comments). Bizarrely, the most impactful book I read is one called The Prosperous Coach which is about an entirely different business system than anything I do.
 
 reply
 
 michaelbarton
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This is great, and importantly actionable advice. Thank you for sharing specific ideas.
@@ -1247,14 +1247,14 @@ This is great, and importantly actionable advice. Thank you for sharing specific
 reply
 
 yathern
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I made monkeys.zip - a project that was completely useless and reflects my interests and skills, and people have reached out with creative projects since
@@ -1262,14 +1262,14 @@ I made monkeys.zip - a project that was completely useless and reflects my inter
 reply
 
 sam_lowry_
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I was a Java programmer and administered a fairly big community website written in Drupal as a side gig, then applied to a news company that used Drupal, out of curiosity.
@@ -1279,14 +1279,14 @@ Turned out, their pageviews were simular but not costs, so they made me the CTO 
 reply
 
 specproc
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Old employers have always been the mainstay of my consulting work, former colleagues my main leads.
@@ -1294,14 +1294,14 @@ Old employers have always been the mainstay of my consulting work, former collea
 reply
 
 andy99
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Identify who your buyer is. It’s probably not a technical person (and thus HN isn’t a great place to advertise).
@@ -1311,14 +1311,14 @@ Talk to operational people if you are interested in finding operational pain. Te
 reply
 
 aunty_helen
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Rely on your network. This idea you’re going to email someone you never met and they’re going to agree to wire you 10k is as fanciful as it sounds.
@@ -1329,14 +1329,14 @@ The good thing is, you probably do have a network, you’ve just never thought o
 reply
 
 jbmsf
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Basically, I reached out to existing relationships. A few had needs I could fill. A few referred me to others.
@@ -1344,14 +1344,14 @@ Basically, I reached out to existing relationships. A few had needs I could fill
 reply
 
 sillywabbit
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Back in the day, being a teenager and hanging out on freelancing forums was enough.
@@ -1359,14 +1359,14 @@ Back in the day, being a teenager and hanging out on freelancing forums was enou
 reply
 
 cjonas
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Whats your actual tech experience?
@@ -1376,14 +1376,14 @@ Most enterprises that need consultants are using Salesforce, SAP, Hubspot, Dynam
 reply
 
 assimpleaspossi
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This was a long time ago but I got an article published in Byte Magazine back when Byte mattered. Got a phone call a couple of weeks after it was published.
@@ -1391,14 +1391,14 @@ This was a long time ago but I got an article published in Byte Magazine back wh
 reply
 
 lpapez
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Recommendations from past workplaces and networking. Honestly never heard of anyone else being hired as a solo contributor outside those channels.
@@ -1406,14 +1406,14 @@ Recommendations from past workplaces and networking. Honestly never heard of any
 reply
 
 mikkom
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Absolutely easiest way is to find some consultant work sales agency that takes a commission when they manage to sell you somewhere. At least where I live there are multiple options, just list yourself (or your company) there.
@@ -1423,14 +1423,14 @@ Also you don't have to do the sales work yourself and they find suitable custome
 reply
 
 nathias
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I tried this 5 years ago, haven't had a customer yet.
@@ -1438,14 +1438,14 @@ I tried this 5 years ago, haven't had a customer yet.
 reply
 
 tomwphillips
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 *All* my work as a solo consultant/contractor was from former colleagues who needed "trusted pair of hands" to deal with a project, or former colleagues introducing me to new people.
@@ -1455,14 +1455,14 @@ People hire you because they want something done with zero hassle. It is a risk 
 reply
 
 mark_l_watson
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Well, I started a long time ago: I had written several books and readers occasionally contacted me for doing gig work.
@@ -1470,14 +1470,14 @@ Well, I started a long time ago: I had written several books and readers occasio
 reply
 
 rukshn
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 As a consultant I got my first project through a former colleague who referred me to the organization looking for a consultant.
@@ -1487,17 +1487,17 @@ It's not easy to find consultations out of the blue, I have gotten one by apply 
 reply
 
 KingOfCoders
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-1. SEO and Linkedin 
+1. SEO and Linkedin
 https://www.amazingcto.com
  - best was connecting Google Search Console via MCP to Claude Code CLI for optimizations of landing pages.
 
@@ -1506,14 +1506,14 @@ https://www.amazingcto.com
 reply
 
 gnz11
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I just asked Gemini and you did not come up.
@@ -1521,14 +1521,14 @@ I just asked Gemini and you did not come up.
 reply
 
 bdangubic
- 
+
 45 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I have been a solo contractor for little over 15 years now. This was my goal all along and it did not happen overnight. My path was more organic, I was a W2 for quite some time and in that time I had one personal focus - become more valuable to the company than they are to you. I took on tasks everyone was running away from, I changed code which was preceded by comments like “// DO NOT TOUCH THIS OR COMPANY WILL GO OUT OF BUSINESS” and after so time every big thing that was needed or every customer fire/emergency needed me. I was even called into an emergency meeting on my honeymoom :)
@@ -1538,14 +1538,14 @@ once I was comfortable I am fairly indispensible part of the business I submitte
 reply
 
 jonahbenton
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Network, relationships, people you know.
@@ -1553,14 +1553,14 @@ Network, relationships, people you know.
 reply
 
 vedantkh
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Can you publish a very short and concise case study of how you've helped one of your clients? Would that client be down to reference you to their friends? If not, can you go the extra mile with them so they just gush about you to others?
@@ -1568,14 +1568,14 @@ Can you publish a very short and concise case study of how you've helped one of 
 reply
 
 gos9
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Rework your website to say something real
@@ -1583,14 +1583,14 @@ Rework your website to say something real
 reply
 
 jll29
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Not really a consultancy story, as we were an aspiring start-up. We had created a homepage and a LinkedIn page for our company, we wrote a business plan and talked to VCs and business angels and other start-ups to learn and raise funds - completely in vain for a year.
@@ -1600,14 +1600,14 @@ Then, out of the blue, a client - a Belgian space company - contacted us with a 
 reply
 
 ejstembler
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Word of mouth / former employer
@@ -1615,14 +1615,14 @@ Word of mouth / former employer
 reply
 
 raw_anon_1111
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You have to ask yourself - why? I’ve worked full time for consulting departments/companies (not staff aug) where I have been over projects for 6 years.
@@ -1632,14 +1632,14 @@ I get paid whether I’m on vacation, on the bench, full benefits, etc.They take
 reply
 
 throwpoaster
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Gumption and a firm handshake!
@@ -1647,14 +1647,14 @@ Gumption and a firm handshake!
 reply
 
 j45
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Hi, I did the same for a while.
@@ -1664,14 +1664,14 @@ Offer to help them solve a few small problems, and then deliver.
 reply
 
 doublerabbit
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 10 years of normal work slop
@@ -1681,12 +1681,12 @@ next
 reply
 
 rechadkkk
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- 
+
 [–]
 
 Freelancing & someone simple email, nothing special
@@ -1694,12 +1694,12 @@ Freelancing & someone simple email, nothing special
 reply
 
 dostick
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- 
+
 [–]
 
 But what does that entail?
@@ -1707,19 +1707,19 @@ But what does that entail?
 reply
 
 Guidelines
- | 
+ |
 FAQ
- | 
+ |
 Lists
- | 
+ |
 API
- | 
+ |
 Security
- | 
+ |
 Legal
- | 
+ |
 Apply to YC
- | 
+ |
 Contact
 
 Search:

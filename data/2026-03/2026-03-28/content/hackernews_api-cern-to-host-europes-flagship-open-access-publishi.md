@@ -14,18 +14,18 @@ tags:
 ---
 
 News
-			
+
 
 				News
-			
 
-				Topic: 
+
+				Topic:
 				At CERN
-			
+
 
 Voir en
 
- 
+
 français
 
 # CERN to host Europe’s flagship open access publishing platform
@@ -67,60 +67,60 @@ More information on the future platform at:https://ore.eu
 ### CERN community: celebrate spring with us and ...
 
  At CERN
- 
+
 
  News
- 
+
 
 26 March, 2026
 
 ### Who’s who in the CERN senior leadership team
 
  At CERN
- 
+
 
  News
- 
+
 
 26 February, 2026
 
 ### Monika Emmanuelle Kazi selected for the secon...
 
  At CERN
- 
+
 
  News
- 
+
 
 24 February, 2026
 
 ### Heating homes with the world’s largest partic...
 
  At CERN
- 
+
 
  News
- 
+
 
 28 January, 2026
 
 ### Presidential visits to CERN
 
  At CERN
- 
+
 
  News
- 
+
 
 28 January, 2026
 
 ### Building a culture for success
 
  At CERN
- 
+
 
  Opinion
- 
+
 
 Mark Thomson
 
@@ -129,30 +129,30 @@ Mark Thomson
 ### Help shape how CERN improves
 
  At CERN
- 
+
 
  News
- 
+
 
 16 January, 2026
 
 ### CERN wishes you a happy 2026
 
  At CERN
- 
+
 
  News
- 
+
 
 5 January, 2026
 
 ### CERN highlights in 2025
 
  At CERN
- 
+
 
  News
- 
+
 
 19 December, 2025
 

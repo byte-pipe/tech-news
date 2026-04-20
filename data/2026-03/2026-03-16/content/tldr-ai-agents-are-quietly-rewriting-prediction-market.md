@@ -26,16 +26,16 @@ Email
 ## Valory co-founder David Minarsch says autonomous agents running on the Olas protocol are giving retail traders a 24/7, strategy-driven edge on platforms like Polymarket.
 
 By
- 
+
 Will Canny
-, 
+,
 AI Boost
 |
 Edited by
- 
+
 Stephen Alpher
- 
-Mar 15, 2026, 12:00 p.m. 
+
+Mar 15, 2026, 12:00 p.m.
 Make us preferred on Google
 AI agents are quietly rewriting prediction market trading. (Unsplash, modified by CoinDesk)
 
@@ -147,14 +147,14 @@ Read more:AI rout hits software stocks, but Grayscale says blockchains stand to 
 
 AI
 Prediction Markets
-Exclusive 
+Exclusive
 Polymarket
 AI Disclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to
- 
+
 our standards
-. 
+.
 For more information, see
- 
+
 CoinDesk's full AI Policy
 .
 
@@ -163,11 +163,11 @@ More For You
 Ethereum Foundation’s new mandate sparks debate about its role, priorities
 
 By
- 
+
 Margaux Nijkerk
 |
 Edited by
- 
+
 Sheldon Reback
 3 hours ago
 
@@ -180,7 +180,7 @@ What to know:
 * Critics, however, argue the mandate signals the foundation intends to take a backseat just as institutional interest in blockchain is accelerating, raising concerns that Ethereum may need stronger coordination to compete with rival networks.
 Read full story
 Latest Crypto News
- 
+
 
 #### Ether surges 10%, leading crypto rebound as ETF demand, Bitmine buying pick up
 

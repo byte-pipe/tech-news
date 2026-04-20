@@ -5,10 +5,10 @@ generated_at: '2026-03-10T20:00:24.740335'
 ---
 
 ## Executive Summary
-- AI‑related disputes dominate the day, with Anthropic suing the U.S. Department of Defense over a “supply‑chain risk” label and multiple analyses probing how AI reshapes work, licensing, and creative tooling.  
-- A wave of “trending” tech pieces critiques UI design, beginner inclusion, and the rise of personal‑font generators, while a new multivitamin trial reports a modest slowdown in epigenetic ageing.  
-- In cybersecurity, a long‑standing Linux kernel race‑condition (CVE‑2025‑38617) is dissected, and a high‑profile supply‑chain conflict between Huy Fong’s Sriracha operation and its pepper supplier surfaces.  
-- Software engineering news highlights ultra‑compact dev boards, the resurgence of RSS as an antidote to AI‑flooded social feeds, and Meta’s migration of its massive FFmpeg workflow to upstream code.  
+- AI‑related disputes dominate the day, with Anthropic suing the U.S. Department of Defense over a “supply‑chain risk” label and multiple analyses probing how AI reshapes work, licensing, and creative tooling.
+- A wave of “trending” tech pieces critiques UI design, beginner inclusion, and the rise of personal‑font generators, while a new multivitamin trial reports a modest slowdown in epigenetic ageing.
+- In cybersecurity, a long‑standing Linux kernel race‑condition (CVE‑2025‑38617) is dissected, and a high‑profile supply‑chain conflict between Huy Fong’s Sriracha operation and its pepper supplier surfaces.
+- Software engineering news highlights ultra‑compact dev boards, the resurgence of RSS as an antidote to AI‑flooded social feeds, and Meta’s migration of its massive FFmpeg workflow to upstream code.
 - Science updates include a quirky study showing pitch‑adjusting howls in ancient‑breed dogs and a fresh look at the 2026 Australian Grand Prix’s volatile power‑unit era.
 
 ---
@@ -30,9 +30,9 @@ generated_at: '2026-03-10T20:00:24.740335'
 | *A model of how simplicity gets rewarded* – Nate Meyvis *(trending)* | A theoretical model shows how high‑trust cultures can indirectly recognize simplicity through peer‑allocated “scalar” points, despite the difficulty of measuring such quality directly. |
 | *Ask HN: What Are You Working On? (March 2026)* – Hacker News *(trending)* | The most active post features an indie developer building “Metropolis 1998,” a modern isometric city‑builder that blends pixel‑art 3D rendering with vertical floor grids. |
 
-**Notable Mentions**  
-- Reddit – “The heart of the internet” (Bahrain oil refinery drone attack).  
-- ABSURDGASM: When Nonsense Branding Hits Right – content unavailable.  
+**Notable Mentions**
+- Reddit – “The heart of the internet” (Bahrain oil refinery drone attack).
+- ABSURDGASM: When Nonsense Branding Hits Right – content unavailable.
 
 ---
 
@@ -43,8 +43,8 @@ generated_at: '2026-03-10T20:00:24.740335'
 | *How the Sriracha guys screwed over their supplier* – Kitchen Confidential *(trending)* | Huy Fong’s aggressive contract changes and misuse of drone footage forced longtime pepper supplier Underwood Ranches into bankruptcy, culminating in a $23 million jury award for the aggrieved farmer. |
 | *A Race Within A Race: Exploiting CVE‑2025‑38617 in Linux Packet Sockets* – TLDR *(trending)* | (see AI & ML section) – the exploit demonstrates a deterministic local privilege escalation path via packet‑socket race conditions, highlighting lingering kernel‑level risks. |
 
-**Notable Mentions**  
-- None beyond the two detailed stories.  
+**Notable Mentions**
+- None beyond the two detailed stories.
 
 ---
 
@@ -58,8 +58,8 @@ generated_at: '2026-03-10T20:00:24.740335'
 | *Ask HN: What Are You Working On? (March 2026)* – Hacker News *(trending)* | (see AI & ML section) – details the development of “Metropolis 1998,” an indie city‑builder leveraging a grid‑based vertical system and C++ for cross‑platform play. |
 | *A model of how simplicity gets rewarded* – Nate Meyvis *(trending)* | (see AI & ML section) – proposes an institutional incentive structure where peer‑allocated recognition subtly promotes simplicity in engineering outcomes. |
 
-**Notable Mentions**  
-- None beyond the listed articles.  
+**Notable Mentions**
+- None beyond the listed articles.
 
 ---
 
@@ -70,5 +70,5 @@ generated_at: '2026-03-10T20:00:24.740335'
 | *'Singing' dogs may show the evolutionary roots of musicality* – New Scientist *(trending)* | Researchers found ancient‑breed Samoyeds adjust howl pitch to match transposed music, suggesting pitch‑modulation abilities may date back to early canid communication. |
 | *2026 Australian Grand Prix: Formula 1 debuts a new style of racing* – Ars Technica *(trending)* | The Melbourne race highlighted the volatility of the new hybrid power‑unit rules, with multiple retirements due to engine failures and a dramatic crash that sent Verstappen to the back of the grid. |
 
-**Notable Mentions**  
+**Notable Mentions**
 - None beyond the two studies.

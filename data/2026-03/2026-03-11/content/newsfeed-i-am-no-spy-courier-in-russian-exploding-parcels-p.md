@@ -31,7 +31,7 @@ Sex toys, body lotion and massage cushions were not the kind of delivery Aleksan
 
 But each parcel contained a sophisticated incendiary device. The tubes of cosmetics had been re-filled with a liquid high explosive called nitromethane and the ignition devices were so well hidden inside the cushions even an airport scanner didn't detect them. Suranovas maintains he had no idea of this.
 
-The parcel contents: Face creams carried explosive liquids and timers hidden inside massage cushions 
+The parcel contents: Face creams carried explosive liquids and timers hidden inside massage cushions
 
 When he was handed the items in a Vilnius park in July 2024 the timers inside were already counting down. Over the next two days, three of the parcels would go up in flames, one just before it was loaded onto a cargo plane for London. Any later and the consequences could have been disastrous.
 
@@ -74,7 +74,7 @@ Born in then-Soviet Lithuania, the 53-year-old - tall, stocky, talkative - descr
 
 He admits to sending the parcels - he was filmed by CCTV cameras in the offices of DHL and DPD - but insists he had no idea about the devices concealed inside. "I would never have agreed to that, because I think it's awful," he told me. "I was used."
 
-CCTV footage of Suranovas carrying two of the packages at a DHL office in Vilnius 
+CCTV footage of Suranovas carrying two of the packages at a DHL office in Vilnius
 
 Suranovas was officially unemployed when he was arrested by armed police. But he says he has sold cars to customers in Belarus and Russia for years and picked up a sideline in other deliveries. "People knew me," he says. "So I'd help them. For a fee." He mentioned clothes and electronics but was vague on the details.
 

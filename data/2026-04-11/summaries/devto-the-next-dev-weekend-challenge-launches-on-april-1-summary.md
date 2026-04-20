@@ -21,8 +21,8 @@ summarized_at: 2026-04-11T06:01:49.922067
 - The window is set to give every global timezone at least a full weekend to participate.
 
 ## Important Dates
-- **Launch:** Friday, April 16 at 2:00 AM UTC  
-- **Submissions Due:** Monday, April 20 at 6:59 AM UTC  
+- **Launch:** Friday, April 16 at 2:00 AM UTC
+- **Submissions Due:** Monday, April 20 at 6:59 AM UTC
 
 | Timezone | Launch (Local) | Submissions Due (Local) |
 |----------|----------------|--------------------------|
@@ -37,7 +37,7 @@ summarized_at: 2026-04-11T06:01:49.922067
 - Although the window exceeds 48 hours, it ensures a full, uninterrupted weekend for participants worldwide.
 
 ## Related Challenges
-- **Notion MCP Challenge** (running through March 29) with $1,500 in prizes.  
+- **Notion MCP Challenge** (running through March 29) with $1,500 in prizes.
 - **2026 WeCoded Challenge** – writing category “Echoes of Experience” and new “Frontend Art” prompt, celebrating under‑represented voices in tech.
 
 ## Call to Action

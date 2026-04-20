@@ -15,33 +15,33 @@ tags:
 # Introspective DiffusionLanguage Models
 
 Yifan Yu
-*, 
+*,
 Yuqing Jian
-*, 
+*,
 Junxiong Wang
-, 
+,
 Zhongzhu Zhou
-, 
+,
 Donglin Zhuang
-, 
+,
 Xinyu Fang
-, 
+,
 Sri Yanamandra
-, 
+,
 Xiaoxia Wu
-, 
+,
 Qingyang Wu
-, 
+,
 Shuaiwen Leon Song
-, 
+,
 Tri Dao
-, 
+,
 Ben Athiwaratkun
-, 
+,
 James Zou
-†, 
+†,
 Fan Lai
-†◊, 
+†◊,
 Chenfeng Xu
 †◊
 
@@ -380,7 +380,7 @@ N=8
 1
 
 Memory-bound:
- 
+
 Speedup ≈ TPF = (2+p+...+p
 N-2
 ) / (2-p
@@ -388,10 +388,10 @@ N-1
 )
 
 R-ISD (lossless):
- 
+
 Speedup ≈ TPF / α
  — gated LoRA guarantees bit-for-bit AR output.
- 
+
 
 How do DLMs perform as they approach compute-bound?
 

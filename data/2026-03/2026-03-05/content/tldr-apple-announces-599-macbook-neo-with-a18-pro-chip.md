@@ -14,7 +14,7 @@ tags:
 # Apple Announces $599 'MacBook Neo' With A18 Pro Chip
 
 Wednesday March 4, 2026 6:15 am PST
- by 
+ by
 Hartley Charlton
 
 Apple todayannouncedthe "MacBook Neo," an all-new kind of low-cost Mac featuring the A18 Pro chip for $599.
@@ -35,13 +35,13 @@ Apple also pointed out that the ‌MacBook Neo‌ is Apple's lowest-carbon Mac. 
 
 ‌MacBook Neo‌ isavailable to pre-orderstarting today, with availability beginning on Wednesday, March 11.
 
-Related Roundup: 
+Related Roundup:
 MacBook Neo
-Tags: 
+Tags:
 A18 Pro
-, 
+,
 MacBook (A18 Pro)
-[ 
+[
 1265 comments
  ]
 Share
@@ -54,21 +54,25 @@ Leave this field empty
 
 ### Apple Accidentally Leaks 'MacBook Neo'
 
-Tuesday March 3, 2026 7:00 am PST by 
+Tuesday March 3, 2026 7:00 am PST by
 Joe Rossignol
-Apple appears to have prematurely revealed the name of its rumored lower-cost MacBook model, which is expected to be announced this Wednesday.A regulatory document for a "MacBook Neo" (Model A3404) has appeared on Apple's website. Unfortunately, there are no further details or images available yet.While the PDF file does not contain the "MacBook Neo" name, it briefly appeared in a link...
+Apple appears to have prematurely revealed the name of its rumored lower-cost MacBook model, which is expected to be announced this Wednesday.
+A regulatory document for a "MacBook Neo" (Model A3404) has appeared on Apple's website. Unfortunately, there are no further details or images available yet.
+While the PDF file does not contain the "MacBook Neo" name, it briefly appeared in a link...
 
 ### Apple Unveils Two New Products
 
-Monday March 2, 2026 7:49 am PST by 
+Monday March 2, 2026 7:49 am PST by
 Joe Rossignol
-Apple today introduced two new devices, including the iPhone 17e and an updated iPad Air.iPhone 17e features the same overall design as the iPhone 16e, but it gains Apple's A19 chip, MagSafe for magnetic wireless charging and magnetic accessories, Apple's second-generation C1X modem for faster 5G, and a doubled 256GB of base storage. In the U.S., the iPhone 17e starts at $599, just like the ...
+Apple today introduced two new devices, including the iPhone 17e and an updated iPad Air.
+iPhone 17e features the same overall design as the iPhone 16e, but it gains Apple's A19 chip, MagSafe for magnetic wireless charging and magnetic accessories, Apple's second-generation C1X modem for faster 5G, and a doubled 256GB of base storage. In the U.S., the iPhone 17e starts at $599, just like the ...
 
 ### Apple Announces $599 'MacBook Neo' With A18 Pro Chip
 
-Wednesday March 4, 2026 6:15 am PST by 
+Wednesday March 4, 2026 6:15 am PST by
 Hartley Charlton
-Apple today announced the "MacBook Neo," an all-new kind of low-cost Mac featuring the A18 Pro chip for $599.The MacBook Neo is the first Mac to be powered by an iPhone chip; the A18 Pro debuted in 2024's iPhone 16 Pro models. Apple says it is up to 50% faster for everyday tasks than the bestselling PC with the latest shipping Intel Core Ultra 5, up to 3x faster for on-device AI workloads,...
+Apple today announced the "MacBook Neo," an all-new kind of low-cost Mac featuring the A18 Pro chip for $599.
+The MacBook Neo is the first Mac to be powered by an iPhone chip; the A18 Pro debuted in 2024's iPhone 16 Pro models. Apple says it is up to 50% faster for everyday tasks than the bestselling PC with the latest shipping Intel Core Ultra 5, up to 3x faster for on-device AI workloads,...
 
 ## Top Rated Comments
 
@@ -78,7 +82,7 @@ This will sell
 Score:
  53 Votes (
 Like
- | 
+ |
 Disagree
 )
 K
@@ -88,7 +92,7 @@ Going to make an excellent teenager laptop
 Score:
  50 Votes (
 Like
- | 
+ |
 Disagree
 )
 A
@@ -99,7 +103,7 @@ Edit: 8gb only and no MagSafe? Never mind.
 Score:
  45 Votes (
 Like
- | 
+ |
 Disagree
 )
 turbineseaplane
@@ -109,7 +113,7 @@ RAM will eliminate it for me personally for much of anything, but it's probably 
 Score:
  43 Votes (
 Like
- | 
+ |
 Disagree
 )
 JPack
@@ -119,7 +123,7 @@ People expecting wayyy too much like 12GB or 16GB RAM when mainstream consumers 
 Score:
  39 Votes (
 Like
- | 
+ |
 Disagree
 )
 K
@@ -129,7 +133,7 @@ This makes the iPad Air with the keyboard obsolete and its even cheaper.
 Score:
  33 Votes (
 Like
- | 
+ |
 Disagree
 )
 Read All Comments

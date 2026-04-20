@@ -68,7 +68,7 @@ Washington
 West Virginia
 Wisconsin
 Wyoming
-Or browse all 
+Or browse all
 auctions nationwide →
 
 ## How GovAuctions Works

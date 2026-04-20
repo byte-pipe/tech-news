@@ -15,13 +15,13 @@ tags:
 # My Macbook Keyboard is Broken and it's Insanely Expensive to Fix
 
  Mar 29, 2026
- 
+
 
  ·
- 
+
 
  2 minute read
- 
+
 
 The right arrow key on my Macbook Pro keyboard stopped working the other day.
 

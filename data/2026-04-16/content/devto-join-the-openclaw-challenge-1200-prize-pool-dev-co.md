@@ -82,7 +82,7 @@ We can't wait to read what you write. Questions about the challenge? Drop them i
 Good luck and happy clawing! 🦞
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

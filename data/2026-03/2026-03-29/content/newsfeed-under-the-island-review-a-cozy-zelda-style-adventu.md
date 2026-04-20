@@ -27,8 +27,8 @@ Under The Island is a little bit Link to the Past, a little bit Stardew Valley.
 Under The Island is a little bit Link to the Past, a little bit Stardew Valley.
 
 by
- 
- 
+
+
 Andrew Webster
 Mar 28, 2026, 1:00 PM UTC
 * Link
@@ -37,9 +37,9 @@ Mar 28, 2026, 1:00 PM UTC
 Image: Slime King Games
 Part Of
 The best indie games we’re playing right now
-see all updates 
+see all updates
 Andrew Webster
- 
+
 is an entertainment editor covering streaming, virtual worlds, and every single Pokémon video game. Andrew joined The Verge in 2012, writing over 4,000 stories.
 
 The Legend of Zeldagames are grand adventures, but they can also be very comforting, with quaint villages to explore and warm landscapes to take in.Under The Islandtakes that idea a step further. It still offers the sense of exploration and puzzle-solving that makesZeldagames so satisfying, but it also takes place in a cozy, lighthearted world with an energy reminiscent ofStardew Valley. It’s the kind of place you’ll want to hang around in even when you aren’t slaying monsters.
@@ -95,19 +95,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

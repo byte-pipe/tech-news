@@ -11,7 +11,7 @@ description: freeCodeCamp.org's open-source codebase and curriculum. Learn math,
 
 freeCodeCamp
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork43.9k
 * Star439k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -308,66 +308,66 @@ contribute.freecodecamp.org
 
  Readme
 
- 
+
 
 ### License
 
  BSD-3-Clause license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 439k
 
  stars
- 
+
 
 ### Watchers
 
 8.5k
 
  watching
- 
+
 
 ### Forks
 
 43.9k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Sponsor this project
 
@@ -375,11 +375,11 @@ Custom properties
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * patreon.com/freecodecamp
 * www.freecodecamp.org/donate
 
@@ -397,9 +397,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -407,9 +407,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

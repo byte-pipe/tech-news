@@ -56,7 +56,7 @@ If git is not installed, please follow the instructions athttps://github.com/git
 
 Most systems will already have Python installed. You can check by running:
 
-python 
+python
 --version
 
 Enter fullscreen mode
@@ -69,8 +69,8 @@ If python is not installed, please follow the instructions athttps://www.python.
 
 We require that users have the Python package manageruvinstalled in order to run the Colab MCP tool servers
 
-pip 
-install 
+pip
+install
 uv
 
 Enter fullscreen mode
@@ -81,43 +81,43 @@ MCP JSON config for the frontend
 
 ...
 
- 
+
 "mcpServers"
 :
- 
+
 {
 
- 
+
 "colab-proxy-mcp"
 :
- 
+
 {
 
- 
+
 "command"
 :
- 
+
 "uvx"
 ,
 
- 
+
 "args"
 :
- 
+
 [
 "git+https://github.com/googlecolab/colab-mcp"
 ],
 
- 
+
 "timeout"
 :
- 
+
 30000
 
- 
+
 }
 
- 
+
 }
 
 ...
@@ -141,7 +141,7 @@ We built this because we saw developers manually copying code from their termina
 Because this is a brand new way to interact with Colab, we need your help to shape its future. Please try installing the Colab MCP Server with your favorite agent, test its limits, and drop your feedback on ourGitHub repo. Beyond just sharing your thoughts, the project is open source, meaning we also welcome community involvement and direct code contributions as we grow. Ultimately, your input will help drive what we build next!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

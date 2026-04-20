@@ -29,7 +29,7 @@ National security
  See all topics
 
  Follow
- 
+
 
 A federal judge in California has indefinitely blocked the Pentagon’s effort to “punish” Anthropic by labeling it a supply chain risk and attempting to sever government ties with the AI company, ruling that those measures ran roughshod over its constitutional rights.
 

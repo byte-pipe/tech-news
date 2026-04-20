@@ -75,14 +75,14 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
 export
- 
+
 default
- 
+
 defineConfig
 (
 [
 
- 
+
 globalIgnores
 (
 [
@@ -91,29 +91,29 @@ globalIgnores
 )
 ,
 
- 
+
 {
 
- 
+
 files
-: 
+:
 [
 '**/*.{ts,tsx}'
 ]
 ,
 
- 
+
 extends
-: 
+:
 [
 
- 
+
 // Other configs...
 
- 
+
 // Remove tseslint.configs.recommended and replace with this
 
- 
+
 tseslint
 .
 configs
@@ -121,10 +121,10 @@ configs
 recommendedTypeChecked
 ,
 
- 
+
 // Alternatively, use this for stricter rules
 
- 
+
 tseslint
 .
 configs
@@ -132,10 +132,10 @@ configs
 strictTypeChecked
 ,
 
- 
+
 // Optionally, add this for stylistic rules
 
- 
+
 tseslint
 .
 configs
@@ -143,7 +143,7 @@ configs
 stylisticTypeChecked
 ,
 
- 
+
 // Other configs...
 …
 
@@ -172,7 +172,7 @@ React 19 + TypeScript because even a deliberately broken tool should be type-saf
 Vite 8 for the build. PrismJS for syntax highlighting, because the code deserves to look beautiful right before it gets destroyed.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

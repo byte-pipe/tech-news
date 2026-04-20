@@ -11,7 +11,7 @@ description: Official source code of FreeCAD, a free and opensource multiplatfor
 
 FreeCAD
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork5.3k
 * Star29.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -162,7 +162,7 @@ View all files
 
 Website•Documentation•Forum•Bug tracker•Git repository•Blog
 
- 
+
 
 ## Overview
 
@@ -282,66 +282,66 @@ www.freecad.org
 
  Readme
 
- 
+
 
 ### License
 
  LGPL-2.1 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 29.4k
 
  stars
- 
+
 
 ### Watchers
 
 538
 
  watching
- 
+
 
 ### Forks
 
 5.3k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases89
 
@@ -349,11 +349,11 @@ FreeCAD 1.1
 
  Latest
 
- 
+
 
 Mar 25, 2026
 
- 
+
 
 + 88 releases
 
@@ -363,11 +363,11 @@ Mar 25, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * opencollective.com/freecad
 * https://wiki.freecad.org/Donate
 
@@ -385,17 +385,17 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -403,9 +403,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

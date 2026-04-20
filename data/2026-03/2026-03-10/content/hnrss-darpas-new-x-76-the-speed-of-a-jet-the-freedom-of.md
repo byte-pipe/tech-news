@@ -20,21 +20,21 @@ tags:
 
 # DARPA’s new X-76: the speed of a jet, the freedom of a helicopter
 
- 
+
 
 #### SPRINT X-76 enters build phase to demonstrate runway-independent, high-speed flight
 
- 
 
- 
 
- Artist’s concept for the SPRINT X-76, a proof-of-concept technology demonstrator that aims to demonstrate technologies and concepts needed for runway-independent, high-speed flight. | 
 
-Download 
+
+ Artist’s concept for the SPRINT X-76, a proof-of-concept technology demonstrator that aims to demonstrate technologies and concepts needed for runway-independent, high-speed flight. |
+
+Download
 
 Source: DARPA | Colie Wertz
 
- 
+
 
 ##### Mar 9, 2026
 

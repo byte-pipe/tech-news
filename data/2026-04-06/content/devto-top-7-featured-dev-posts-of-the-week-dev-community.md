@@ -20,16 +20,16 @@ Congrats to all the authors that made it onto the list 👏
 Pure CSS art using squircles and 3D lighting
 
  Ben Evans
- 
+
 
  Ben Evans
- 
- 
+
+
 
 Ben Evans
 
  Follow
- 
+
 
 Mar 29
 
@@ -56,23 +56,23 @@ Comments
  comments
 
  2 min read
- 
+
 
 @ivorjetskitakes us behind the scenes of building a retro CRT TV entirely in CSS, sharing seven clever secrets from the creative process: squircle corners, rotating knobs, and a responsive layout. The YouTube intro for the project is also made completely in CSS, and yes, the music was composed just for it too.
 
 Leverages new HTTP levers and logic gates
 
  Pascal Thormeier
- 
+
 
  Pascal Thormeier
- 
- 
+
+
 
 Pascal Thormeier
 
  Follow
- 
+
 
 Mar 28
 
@@ -99,23 +99,23 @@ Comments
  comments
 
  5 min read
- 
+
 
 @thormeiershares a wonderfully absurd project: turning Timberborn, a beaver city-building game, into a read/write data storage system by exploiting its HTTP lever automation feature. By encoding text as binary and flipping over 1,000 in-game levers via HTTP requests, he built something that technically qualifies as cloud storage since Steam syncs the save files.
 
  Ertuğrul Demir
- 
+
 
  Ertuğrul Demir
- 
- 
+
+
 
 Ertuğrul Demir
 
  Follow
- 
 
- for 
+
+ for
 Google Developer Experts
 
 Mar 28
@@ -143,23 +143,23 @@ Comments
  comments
 
  15 min read
- 
+
 
 @erturul_demir_695474ad8dwalks us through building an AI translator for 4,000-year-old Assyrian tablets, working with only 1,500 training pairs in a language that modern digital tools cannot recognize. The post explains the entire process, including using Gemini for scanning books, ByT5 for translation, and fine-tuned Qwen with LoRA. This is a great example of how machine learning can be used to study ancient history.
 
 Native voice input and idle task APIs
 
  Sylwia Laskowska
- 
+
 
  Sylwia Laskowska
- 
- 
+
+
 
 Sylwia Laskowska
 
  Follow
- 
+
 
 Apr 2
 
@@ -186,21 +186,21 @@ Comments
  comments
 
  5 min read
- 
+
 
 @sylwia-laskreminds us that before reaching for a new npm package, it's worth asking whether the browser has already solved the problem (spoiler: it often has). The post rounds up nine underused native browser features, fromrequestIdleCallbackand container queries to the<dialog>element and the Web Speech API, each paired with concise code examples.
 
  Szymon Gibała
- 
+
 
  Szymon Gibała
- 
- 
+
+
 
 Szymon Gibała
 
  Follow
- 
+
 
 Mar 29
 
@@ -223,23 +223,23 @@ Comments
 Add Comment
 
  23 min read
- 
+
 
 @szymongibexplores how to build a performant, I/O-heavy networking application in Rust without using async/await, diving deep into Linux's epoll API along the way. The post walks through a full working echo server in both C and Rust, weighing the real tradeoffs between control and convenience.
 
 Speed exposing gaps in problem logic
 
  Supriya
- 
+
 
  Supriya
- 
- 
+
+
 
 Supriya
 
  Follow
- 
+
 
 Mar 31
 
@@ -266,22 +266,22 @@ Comments
  comments
 
  5 min read
- 
+
 
 @supriya-kotturumakes a compelling case that as vibe coding lowers the barrier to shipping software, product thinking (knowingwhatto build andwhy) is becoming the skill that truly differentiates engineers. Drawing from firsthand experience building a Go quiz app, the post argues that the real bottleneck is no longer implementation, but the clarity of thought required before a single prompt is written.
 
 Tracks "invisible" work like co-authored PRs
 
  Ayu Adiati
- 
+
 
  Ayu Adiati
- 
+
 
 Ayu Adiati
 
  Follow
- 
+
 
 Apr 1
 
@@ -305,14 +305,14 @@ Comments
  comments
 
  5 min read
- 
+
 
 @adiatiayushares an update on their automated open source portfolio project, which has grown from a simple contribution tracker into a full-featured tool that surfaces "invisible" work like co-authored PRs, contribution charts, and a personalized "Collaboration Persona." The post also covers the decision to split the project into a community template and a personal sandbox, making it easier for anyone to showcase their open-source journey.
 
 And that's a wrap for this week's Top 7 roundup! 🎬 We hope you enjoyed this eclectic mix of insights, stories, and tips from our talented authors. Keep coding, keep learning, and stay tuned to DEV for more captivating content andmake sure you’re opted in to our Weekly Newsletter📩 for all the best articles, discussions, and updates.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

@@ -18,15 +18,15 @@ Hey everyone! I bring you my development journey on what I havediscovered, accom
 #### Here is one of the posts I am proud of for this month!
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
 FrancisTRᴅᴇᴠ (っ◔◡◔)っ
 
  Follow
- 
+
 
 Mar 20
 
@@ -53,7 +53,7 @@ Comments
  comments
 
  6 min read
- 
+
 
 Made a Dev.to Guide for Beginners and I am proud of making it short as possible! Am glad that others see this guide very useful. If you have any feedback, feel free to leave a comment! That post will continuously be updated to make the best beginners guide possible!
 
@@ -64,16 +64,16 @@ Made a Dev.to Guide for Beginners and I am proud of making it short as possible!
 WeCoded 2026: Echoes of Experience 💜
 
  Konark Sharma
- 
+
 
  Konark Sharma
- 
- 
+
+
 
 Konark Sharma
 
  Follow
- 
+
 
 Mar 11
 
@@ -100,21 +100,21 @@ Comments
  comments
 
  7 min read
- 
+
 
 @konark_13Talks about his experience tech after leaving his job based on his experience with connections and other resources that helped him.
 
  Mia
- 
+
 
  Mia
- 
- 
+
+
 
 Mia
 
  Follow
- 
+
 
 Mar 26
 
@@ -141,20 +141,20 @@ Comments
  comments
 
  2 min read
- 
+
 
 @miamsCreated a Chrome Extension Minimalist TODO list that is design to be straightforward, especially those who have ADHD.
 
  Anna Villarreal
- 
+
 
  Anna Villarreal
- 
+
 
 Anna Villarreal
 
  Follow
- 
+
 
 Mar 24
 
@@ -181,7 +181,7 @@ Comments
  comments
 
  1 min read
- 
+
 
 @annavi11arrea1Created a Chrome Extension tool that allows you to find jobs much easier. A very useful management tool for those who are doing job searches :D
 
@@ -200,15 +200,15 @@ Comments
 Built with Google Gemini: Writing Challenge
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
 FrancisTRᴅᴇᴠ (っ◔◡◔)っ
 
  Follow
- 
+
 
 Mar 3
 
@@ -235,7 +235,7 @@ Comments
  comments
 
  11 min read
- 
+
 
 * ✅ Joined theBobaTalksCommunity.
 * ✅ I got off the wait list for theVirtual CoffeeCommunity!@jarvisscript
@@ -259,7 +259,7 @@ Comments
 * Any questions/comments/advice or tips for the Monthly Report? Leave a comment below! I would love to hear from you!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -270,7 +270,7 @@ Preview
 Dismiss
 
  View full discussion (14 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

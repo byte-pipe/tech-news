@@ -39,9 +39,9 @@ Graber now serves as chief innovation officer, and Attie is her first project si
 
 1/ Today, we’re excited to introduce Attie, currently as an invite-only closed beta. Attie is the first agentic social app on atproto. It’s something completely new—an experiment in making building on the protocol more accessible.
 
-— 
+—
 Attie (@attie.ai)
- 
+
 2026-03-28T22:48:49.408Z
 
 Schneider added that Attie is an AI product built to be people-focused. The team wants to use AI for things that actually benefit users, not just keep them scrolling. It’s a deliberate contrast to howMetaand others are approaching the same technology.

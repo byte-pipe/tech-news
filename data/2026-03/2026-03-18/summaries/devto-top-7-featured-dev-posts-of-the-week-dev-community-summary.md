@@ -12,7 +12,7 @@ summarized_at: 2026-03-18T11:28:49.820986
 *   **Featured DEV Posts of the Week -
     *   Building a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)**
         This post showcases how developers, led by Osman Mahkamanshahr, built _gitinder_ in Swift (iOS). They faced real-world challenges such as OAuth authentication, GitHub Search API limitations, and clever local state queues. The team documents their solutions, providing valuable insights for others to overcome similar issues.
-    *   Drift to Determinism** 
+    *   Drift to Determinism**
         GrahamTheDev introduces the concept of "Drift to Determinism" as a framework for understanding how AI coding tools should evolve. He argues that making AI development trustworthy is crucial, focusing on engineering work over magic generation. The post offers actionable takeaways for developers, emphasizing the importance of reliable outputs and verifiable code.
     *   Reverse-Engineering an Undocumented API and Shipment in 4 Days**
         yabbal's journey to reverse-engineering an undocumented API takes them through Chrome DevTools at night, mapping overport endpoints from an accounting app. They leverage duo programming with Claude Code, shipping tools like a zero-dependency SDK and CLI with 14 commands within 4 days.

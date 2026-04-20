@@ -27,8 +27,8 @@ We also found deals on Samsung’s Galaxy Watch Ultra and a new, interview-packe
 We also found deals on Samsung’s Galaxy Watch Ultra and a new, interview-packed book all about Apple’s ascent.
 
 by
- 
- 
+
+
 Sheena Vasani
 Apr 3, 2026, 3:10 PM UTC
 * Link
@@ -37,11 +37,11 @@ Apr 3, 2026, 3:10 PM UTC
 If you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement.
 
 Anker’s pocketable Nano Travel Adapter can power up to five devices and works in over 200 countries.
- 
+
 Image: The Verge
 Sheena Vasani
- 
-writes about tech news, reviews gadgets, and helps readers save money by highlighting deals and product recommendations for 
+
+writes about tech news, reviews gadgets, and helps readers save money by highlighting deals and product recommendations for
 The Verge
 .
 
@@ -57,7 +57,7 @@ $
 % off
 $
 20
-$20 at Amazon 
+$20 at Amazon
 $20 at Anker (with code WS7DV2S3TD3T)
 
 The wall adapter features four plug types (A, C, G, and I), allowing it to work in over 200 countries spanning Europe, the UK, Australia, Asia, and South America. Weighing just 3.77 ounces and at less than an inch thick (with its prongs folded in), it won’t take up much space in a suitcase, and is small enough to toss in a go bag. Plus, it has built-in temperature control to keep your devices safe while charging.
@@ -82,19 +82,19 @@ Sign up to get the best deals on products we’ve found and tested sent to your 
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Follow topics and authors
  from this story to see more like this in your personalized homepage feed and to receive email updates.
@@ -120,19 +120,19 @@ Sign up to get the best deals on products we’ve found and tested sent to your 
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 
@@ -154,7 +154,7 @@ Allison Johnson
 2:00 PM UTC
 The best AirPods deals you can get right now
 Sheena Vasani
- and 
+ and
 Brandon Widder
 Apr 2
 This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car

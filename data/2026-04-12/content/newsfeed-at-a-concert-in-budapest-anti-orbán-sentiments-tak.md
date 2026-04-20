@@ -12,7 +12,7 @@ tags:
 ---
 
 At a concert in Budapest, anti-Orbán sentiments take center stage ahead of election
- 
+
 At a concert in Budapest, musicians and concertgoers express criticism of Hungarian Prime Minister Viktor Orbán's leadership.
 
 ### World
@@ -22,48 +22,48 @@ At a concert in Budapest, musicians and concertgoers express criticism of Hungar
 April 11, 2026
 5:04 PM ET
 
- 
 
- Heard on 
+
+ Heard on
 All Things Considered
 
 By
 
- 
+
 
 Rob Schmitz
 
- 
+
 
 ,
 
- 
+
 
 Michael Levitt
 
- 
+
 
 ,
 
- 
+
 
 Máté Halmos
 
- 
+
 
 ,
 
- 
+
 
 Sarah Robbins
 
 #### At a concert in Budapest, anti-Orbán sentiments take center stage ahead of election
 
- 
- Listen
- 
 
-· 
+ Listen
+
+
+·
 
 5:50
 

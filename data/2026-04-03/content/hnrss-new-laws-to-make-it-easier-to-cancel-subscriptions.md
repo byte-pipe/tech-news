@@ -12,9 +12,9 @@ tags:
 - hnrss
 ---
 
-Image source, 
+Image source,
 Getty Images
-Image caption, 
+Image caption,
 
 The laws will enable people to cancel subscriptions "with the click of a button".
 

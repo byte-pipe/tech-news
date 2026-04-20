@@ -1,7 +1,7 @@
 ---
 title: "GitHub - HKUDS/LightRAG: [EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\" · GitHub"
 url: https://github.com/HKUDS/LightRAG
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-22T11:36:01.286033

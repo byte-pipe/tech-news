@@ -23,7 +23,7 @@ Lauren Hirst
 ,
 North West
 Reuters
-The victim first started talking to Carlo Tritta while playing a game on Roblox 
+The victim first started talking to Carlo Tritta while playing a game on Roblox
 
 A mother whose 14-year-old daughter was groomed into sending sexually explicit images of herself by a man she met on Roblox said the online gaming platform was not doing enough to protect children.
 

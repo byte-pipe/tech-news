@@ -14,7 +14,7 @@ tags:
 
 microsoft
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork2.5k
 * Star29.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -395,7 +395,7 @@ optional arguments:
 #
  Run inference with the quantized model
 
-python run_inference.py -m models/BitNet-b1.58-2B-4T/ggml-model-i2_s.gguf -p 
+python run_inference.py -m models/BitNet-b1.58-2B-4T/ggml-model-i2_s.gguf -p
 "
 You are a helpful assistant
 "
@@ -426,23 +426,23 @@ optional arguments:
 
 We provide scripts to run the inference benchmark providing a model.
 
-usage: e2e_benchmark.py -m MODEL [-n N_TOKEN] [-p N_PROMPT] [-t THREADS] 
- 
-Setup the environment for running the inference 
- 
-required arguments: 
- -m MODEL, --model MODEL 
- Path to the model file. 
- 
-optional arguments: 
- -h, --help 
- Show this help message and exit. 
- -n N_TOKEN, --n-token N_TOKEN 
- Number of generated tokens. 
- -p N_PROMPT, --n-prompt N_PROMPT 
- Prompt to generate text from. 
- -t THREADS, --threads THREADS 
- Number of threads to use. 
+usage: e2e_benchmark.py -m MODEL [-n N_TOKEN] [-p N_PROMPT] [-t THREADS]
+
+Setup the environment for running the inference
+
+required arguments:
+ -m MODEL, --model MODEL
+ Path to the model file.
+
+optional arguments:
+ -h, --help
+ Show this help message and exit.
+ -n N_TOKEN, --n-token N_TOKEN
+ Number of generated tokens.
+ -p N_PROMPT, --n-prompt N_PROMPT
+ Prompt to generate text from.
+ -t THREADS, --threads THREADS
+ Number of threads to use.
 
 Here's a brief explanation of each argument:
 
@@ -454,7 +454,7 @@ Here's a brief explanation of each argument:
 
 For example:
 
-python utils/e2e_benchmark.py -m /path/to/model -n 200 -p 256 -t 4 
+python utils/e2e_benchmark.py -m /path/to/model -n 200 -p 256 -t 4
 
 This command would run the inference benchmark using the model located at/path/to/model, generating 200 tokens from a 256 token prompt, utilizing 4 threads.
 
@@ -515,61 +515,61 @@ Official inference framework for 1-bit LLMs
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 29.5k
 
  stars
- 
+
 
 ### Watchers
 
 266
 
  watching
- 
+
 
 ### Forks
 
 2.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -587,17 +587,17 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors16
 

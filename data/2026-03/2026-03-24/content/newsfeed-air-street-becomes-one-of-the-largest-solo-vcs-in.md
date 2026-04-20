@@ -38,15 +38,15 @@ The firm now has $400 million in assets under management, the FT reported. Its F
 Topics
 
 AI
-, 
+,
 Air Street Capital
-, 
+,
 Europe
-, 
+,
 In Brief
-, 
+,
 Venture
- 
+
 
 ### Newsletters
 
@@ -71,7 +71,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

@@ -66,7 +66,7 @@ For Ramp, Claude Opus 4.7 stands out in agent-team workflows. We’re seeing str
 Claude Opus 4.7 is measurably better than Opus 4.6 for Bolt’s longer-running app-building work, up to 10% better in the best cases, without the regressions we’ve come to expect from very agentic models. It pushes the ceiling on what our users can ship in a single session.
 01
  /
- 
+
 28
 
 Below are some highlights and notes from our early testing of Opus 4.7:
@@ -106,7 +106,7 @@ Opus 4.7 is a direct upgrade to Opus 4.6, but two changes are worth planning for
 
 Users can control token usage in various ways: by using the effort parameter, adjusting their task budgets, or prompting the model to be more concise. In our own testing, the net effect is favorable—token usage across all effort levels is improved on an internal coding evaluation, as shown below—but we recommend measuring the difference on real traffic. We’ve written amigration guidethat provides further advice on upgrading from Opus 4.6 to Opus 4.7.
 
-Score on an internal agentic coding evaluation as a function of token usage at each effort level. In this evaluation, the model works autonomously from a single user prompt, and results may not be representative of token usage in interactive coding. See the 
+Score on an internal agentic coding evaluation as a function of token usage at each effort level. In this evaluation, the model works autonomously from a single user prompt, and results may not be representative of token usage in interactive coding. See the
 migration guide
  for more on tuning effort levels.
 

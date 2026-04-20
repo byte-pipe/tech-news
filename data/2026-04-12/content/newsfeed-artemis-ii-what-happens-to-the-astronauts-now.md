@@ -97,7 +97,7 @@ Though "being an ambassador for space" is part of the job of being an astronaut,
 * Artemis II: Inside Nasa's mission to take humans back to the Moon
 * Has Artemis II shown we can land on the Moon again?
 NASA
-The Moon backlit by the Sun during a solar eclipse, photographed by NASA's Orion spacecraft 
+The Moon backlit by the Sun during a solar eclipse, photographed by NASA's Orion spacecraft
 
 ## A trip to the White House
 

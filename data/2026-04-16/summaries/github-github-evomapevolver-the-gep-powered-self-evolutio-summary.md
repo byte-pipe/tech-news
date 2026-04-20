@@ -1,7 +1,7 @@
 ---
 title: GitHub - EvoMap/evolver: The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai · GitHub
 url: https://github.com/EvoMap/evolver
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-16T12:09:58.023709

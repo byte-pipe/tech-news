@@ -13,7 +13,7 @@ tags:
 
 by Sarah K. White
 
- 
+
 
 # 6 worthwhile conferences for women in tech
 
@@ -21,13 +21,13 @@ Feature
 
 Mar 12, 2026
 5 mins
- 
+
 
 ## For women seeking to connect and advance their IT careers, or those who support diversity and inclusion in technology fields, here are six conferences you won’t want to miss this year.
 
- 
 
-							Credit: 															Matej Kastelic / Shutterstock													
+
+							Credit: 															Matej Kastelic / Shutterstock
 
 Women are the minority at all major tech companies, most notably at Amazon (45%), Meta (37%), Apple (35%), Google (34%), and Microsoft (32%), and those numbers drop even more when narrowed down for leadership roles, according todata from the Women in Tech network. At Google, women only comprise 29% of leadership positions, and nearly 37% at Meta. Apple, Google, and Microsoft report similar numbers at 31%, 33%, and 32%, respectively. In the industry overall, women only represent 25% of C-level leadership roles, and only 5% of those are BIPOC women.
 
@@ -91,17 +91,17 @@ Careers
 IT Leadership
 Industry
 Events
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
@@ -115,12 +115,12 @@ Podcasts
 Videos
 
 news
- 
- 
+
+
 
 ### Save money by canceling more software projects, says survey
 
- 
+
 By Maxwell Cooter
 Mar 13, 2026
 2 mins
@@ -130,13 +130,13 @@ Project Management
 Project Portfolio Management
 
 brandpost
- 
+
 Sponsored by Crowe
- 
+
 
 ### A three-way partnership built around IT, security, and risk drives AI-era success
 
- 
+
 By Crowe
 Mar 13, 2026
 3 mins
@@ -144,13 +144,13 @@ Mar 13, 2026
 Artificial Intelligence
 
 brandpost
- 
+
 Sponsored by IGEL
- 
+
 
 ### Reimagining the enterprise desktop—Why Island is joining the conversation at IGEL Now & Next Miami
 
- 
+
 By Jason Trunk
 Mar 13, 2026
 4 mins
@@ -158,49 +158,49 @@ Mar 13, 2026
 Security
 
 podcast
- 
+
 Sponsored by Vertesia
- 
+
 
 ### Episode 3: Internal alignment: How the CIO can mobilize the entire IT organization for AI
 
- 
+
 Mar 10, 2026
 27 mins
 
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### CIO Leadership Live Australia with Ram Kalyanasundaram, Technology & Digital Transformation Director, Lion
 
- 
+
 Mar 9, 2026
 40 mins
 
 CIO Leadership Live
 
 podcast
- 
- 
+
+
 
 ### From Paper Checks to AI: How Deluxe Is Reinventing Itself as a Digital Payments Company
 
- 
+
 Mar 5, 2026
 25 mins
 
 CIO Leadership Live
 
 video
- 
- 
+
+
 
 ### How Phenom's AI Voice Agent Helps Enterprises Screen Job Candidates Faster
 
- 
+
 Mar 11, 2026
 20 mins
 
@@ -208,24 +208,24 @@ Artificial Intelligence
 Hiring
 
 video
- 
- 
+
+
 
 ### CIO Leadership Live Australia with Ram Kalyanasundaram, Technology & Digital Transformation Director, Lion
 
- 
+
 Mar 9, 2026
 40 mins
 
 CIO Leadership Live
 
 video
- 
- 
+
+
 
 ### Designing GenAI for Scale: Lessons from Heineken’s Journey Out of the ‘Wild West’
 
- 
+
 By Estelle Quek
 Mar 8, 2026
 23 mins

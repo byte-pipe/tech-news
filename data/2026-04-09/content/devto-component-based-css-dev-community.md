@@ -20,64 +20,64 @@ Let me take you by the mitten and show you how I like to style components.
 Here's "semantic-component-name.html":
 
 <section
- 
+
 class=
 "semantic-component-name-here"
 >
 
- 
+
 <form>
 
- 
+
 <fieldset>
 
- 
+
 <legend>
 Robin Hood
 </legend>
 
- 
+
 <!-- etc... -->
 
- 
+
 </fieldset>
 
- 
+
 <fieldset>
 
- 
+
 <legend>
 King Arthur
 </legend>
 
- 
+
 <!-- etc... -->
 
- 
+
 </fieldset>
 
- 
+
 <input
- 
+
 type=
 "submit"
- 
+
 value=
 "Update history"
 >
 
- 
+
 </form>
 
- 
+
 <p
- 
+
 class=
 "disclaimer"
 >
 
  None of these people are what you think they are.
- 
+
 </p>
 
 </section>
@@ -89,56 +89,56 @@ Exit fullscreen mode
 and "semantic-component-name.css":
 
 .semantic-component-name-here
- 
+
 {
 
 /* Put everything in here... */
 
- 
+
 legend
- 
+
 {
 
- 
+
 color
 :
- 
+
 var
 (
 --heading-color
 );
 
- 
+
 font-size
 :
- 
+
 1.5rem
 ;
 
- 
+
 }
 
- 
+
 .disclaimer
- 
+
 {
 
- 
+
 color
 :
- 
+
 var
 (
 --ethically-dubious-color
 ,
- 
+
 #ccc
 );
 
- 
+
 }
 
- 
+
 /* that's it. You're done. */
 
 }
@@ -162,7 +162,7 @@ As a side-note, Svelte partially does this for you if you want to do React- or V
 Any questions?
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

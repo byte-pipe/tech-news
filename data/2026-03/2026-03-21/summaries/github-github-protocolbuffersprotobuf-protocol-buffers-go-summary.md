@@ -1,7 +1,7 @@
 ---
 title: "GitHub - protocolbuffers/protobuf: Protocol Buffers - Google's data interchange format · GitHub"
 url: https://github.com/protocolbuffers/protobuf
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-21T11:15:33.316628
@@ -38,7 +38,7 @@ To start working from supported releases to get started with your desired langua
 
 You can use these commands to work from supported releases.
 
-This README file contains some basic usage of Protocol Buffers for beginners. You find more information about the language and tools in protobuf's [official documentation](https://developers.google.com/protocol-buffers/docs/reference/c#languagereference). 
+This README file contains some basic usage of Protocol Buffers for beginners. You find more information about the language and tools in protobuf's [official documentation](https://developers.google.com/protocol-buffers/docs/reference/c#languagereference).
 
 ### Contributing
 

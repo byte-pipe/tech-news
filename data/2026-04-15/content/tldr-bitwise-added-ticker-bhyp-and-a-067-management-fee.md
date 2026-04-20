@@ -11,11 +11,11 @@ tags:
 - tldr
 ---
 
-Written by 
+Written by
 Brian Quarmby
 ,
 Staff Writer
-Reviewed by 
+Reviewed by
 Felix Ng
 ,
 Staff Editor
@@ -26,24 +26,24 @@ Apr 11, 2026
 
 Bitwise added the ticker $BHYP and a 0.67% management fee in its latest filing, signaling a potential launch soon, according to Bloomberg's senior ETF analyst.
 
-   
-   
-   
+  
+  
+  
 Listen
 0:00
 News
 
 Cointelegraph in your social feed
 
-Subscribe on 
-   
-Subscribe on 
-   
-   
-   
-   
-   
-   
+Subscribe on
+  
+Subscribe on
+  
+  
+  
+  
+  
+  
 
 Bitwise Asset Management has taken a key step toward launching its proposed spot Hyperliquid exchange-traded fund, filing a second amended registration statement with the US Securities and Exchange Commission.
 
@@ -57,7 +57,7 @@ The filing comes as other asset managers are also trying to launch the first spo
 
 Bitwise was the first tosubmit a Hyperliquid ETF filingwith the SEC in September. 21Sharesfollowed a month laterwith its own, while Grayscalesubmitted its filingin late March.
 
-Source: 
+Source:
 Eric Balchunas
  
 
@@ -77,7 +77,7 @@ During Q1, Hyperliquid generated $492.7 billion in trading volume, putting it sh
 
 Magazine:Should users be allowed to bet on war and death in prediction markets?
 
-Cointelegraph is committed to independent, transparent journalism. This news article is produced in accordance with Cointelegraph’s Editorial Policy and aims to provide accurate and timely information. Readers are encouraged to verify information independently. Read our Editorial Policy 
+Cointelegraph is committed to independent, transparent journalism. This news article is produced in accordance with Cointelegraph’s Editorial Policy and aims to provide accurate and timely information. Readers are encouraged to verify information independently. Read our Editorial Policy
 https://cointelegraph.com/editorial-policy
 * #Bloomberg
 * #Derivatives

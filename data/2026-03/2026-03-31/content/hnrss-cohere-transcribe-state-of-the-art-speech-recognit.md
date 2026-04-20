@@ -65,7 +65,7 @@ standard supervised cross-entropy on output tokens; trained from scratch
 Languages
 
  trained on 14 languages:
- 
+
 * European:English, French, German, Italian, Spanish, Portuguese, Greek,
  Dutch, Polish
 * AIPAC:Chinese (Mandarin), Japanese, Korean, Vietnamese

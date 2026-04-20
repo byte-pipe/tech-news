@@ -11,7 +11,7 @@ description: Protocol Buffers - Google's data interchange format - protocolbuffe
 
 protocolbuffers
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork16.1k
 * Star70.9k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -517,66 +517,66 @@ protobuf.dev
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 70.9k
 
  stars
- 
+
 
 ### Watchers
 
 2k
 
  watching
- 
+
 
 ### Forks
 
 16.1k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases210
 
@@ -584,11 +584,11 @@ Protocol Buffers v34.1
 
  Latest
 
- 
+
 
 Mar 19, 2026
 
- 
+
 
 + 209 releases
 
@@ -604,14 +604,14 @@ Mar 19, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Used by965k
 
  + 964,732
- 
+
 
 ## Contributors1,170
 

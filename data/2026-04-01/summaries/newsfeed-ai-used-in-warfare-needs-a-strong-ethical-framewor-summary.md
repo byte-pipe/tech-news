@@ -23,11 +23,11 @@ summarized_at: 2026-04-01T01:34:19.515862
 - **Ethics** – Moral considerations must be integrated into design, deployment, and evaluation.
 
 ## Publication details
-- Published in *Nature* 652, 266 (2026)  
-- DOI: https://doi.org/10.1038/d41586-026-01008-7  
+- Published in *Nature* 652, 266 (2026)
+- DOI: https://doi.org/10.1038/d41586-026-01008-7
 - The authors declare no competing interests.
 
 ## Related topics
 - Calls for bans or limits on autonomous weapons.
-- Discussions on AI’s role in current conflicts (e.g., Ukraine, Iran).  
+- Discussions on AI’s role in current conflicts (e.g., Ukraine, Iran).
 - Broader subjects: machine learning, ethics, law.

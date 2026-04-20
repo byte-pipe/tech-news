@@ -30,17 +30,17 @@ Ars Technica can confirm that some product pages fail to load properly or at all
 Update 3/5/2026 7:57 p.m. ET:As of  4:10 p.m. ET, reports of problem started declining on Downdetector and were down significantly by 5:55 p.m. ET.
 
  Scharon Harding
- 
+
 
 Senior Technology Reporter
 
  Scharon Harding
- 
+
 
 Senior Technology Reporter
 
  Scharon is a Senior Technology Reporter at Ars Technica writing news, reviews, and analysis on consumer gadgets and services. She's been reporting on technology for over 10 years, with bylines at Tom’s Hardware, Channelnomics, and CRN UK.
- 
+
 
 1. 1.RFK Jr.’s anti-vaccine policies are "unreviewable," DOJ lawyer tells judge
 2. 2.macOS Tahoe 26.3.1 update will "upgrade" your M5's CPU to new "super" cores

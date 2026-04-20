@@ -11,7 +11,7 @@ description: 'A community-supported supercharged document management system: sca
 
 paperless-ngx
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork2.5k
 * Star38.6k
 
- 
- 
- 
+
+
+
  
 dev
 Branches
@@ -216,7 +216,7 @@ The easiest way to deploy paperless isdocker compose. The files in the/docker/co
 
 If you'd like to jump right in, you can configure adocker composeenvironment with our install script:
 
-bash -c 
+bash -c
 "
 $(
 curl -L https://raw.githubusercontent.com/paperless-ngx/paperless-ngx/main/install-paperless-ngx.sh
@@ -293,66 +293,66 @@ docs.paperless-ngx.com/
 
  Readme
 
- 
+
 
 ### License
 
  GPL-3.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 38.6k
 
  stars
- 
+
 
 ### Watchers
 
 142
 
  watching
- 
+
 
 ### Forks
 
 2.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases147
 
@@ -360,11 +360,11 @@ Paperless-ngx v2.20.14
 
  Latest
 
- 
+
 
 Apr 14, 2026
 
- 
+
 
 + 146 releases
 
@@ -374,11 +374,11 @@ Apr 14, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -394,17 +394,17 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -412,9 +412,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

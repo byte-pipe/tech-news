@@ -50,17 +50,17 @@ Twenty-five thousand or less will put you behind the wheel of an all-electric Au
 I was more surprised by the lack of BMWs for sale in our price range—just a handful of BMW i4 sedans. These are the least-powerful rear-wheel-drive models, which also happen to be the sweetest-driving versions. I’m told the i4’s reliability stands out among used EVs, too. Even with very few i4s available, sedan lovers still have thePolestar 2, and these don’t appear to be leggy ex-rental cars, either. If you’re definitely looking for an SUV, there’s theMercedes-Benz EQBorVolvo XC40, unless you feel like being very brave (or daft) by buying a used Fisker Ocean,Vinfast VF8, or Jaguar I-Pace. (Go on, life’s short enough.)
 
  Jonathan M. Gitlin
- 
+
 
 Automotive Editor
 
  Jonathan M. Gitlin
- 
+
 
 Automotive Editor
 
  Jonathan is the Automotive Editor at Ars Technica. He has a BSc and PhD in Pharmacology. In 2014 he decided to indulge his lifelong passion for the car by leaving the National Human Genome Research Institute and launching Ars Technica's automotive coverage. He lives in Washington, DC.
- 
+
 
 1. 1.New undersea cable cutter risks Internet’s backbone
 2. 2.Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon

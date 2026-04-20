@@ -15,7 +15,7 @@ tags:
 
 anthropics
 
- 
+
 
 /
 
@@ -34,7 +34,7 @@ Open
 [BUG] Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage
 #45756
 Assignees
- 
+
 Labels
 area:cost
 bug
@@ -47,8 +47,8 @@ Issue specifically occurs on WSL
 ## Description
 
 molu0219
-opened 
-on 
+opened
+on
 Apr 9, 2026
 Issue body actions
 
@@ -80,24 +80,24 @@ Investigation reveals the likely root cause:cache_read tokens appear to count at
 All data extracted from~/.claude/projects/*//*.jsonlsession files, specifically theusageobject on each API response:
 
 {
- 
+
 "cache_read_input_tokens"
-: 
+:
 ...,
 
- 
+
 "cache_creation_input_tokens"
-: 
+:
 ...,
 
- 
+
 "input_tokens"
-: 
+:
 ...,
 
- 
+
 "output_tokens"
-: 
+:
 ...
 
 }
@@ -341,16 +341,16 @@ No response
 
 Reactions are currently unavailable
 Pinned by
- 
+
 bcherny
 Pinned comment options
 bcherny
-on 
+on
 Apr 12, 2026
 
 Hey all, Boris from the Claude Code team here.We've been investigating these reports, and a few of the top issues we've found are:Prompt cache misses when using 1M token context window are expensive. Since Claude Code uses a 1 hour prompt cache window for the main agent, if you leave your computer for over an hour then continue a stale session, it's often a full cache miss. To improve this, we have shipped a few UX improvements (eg. to nudge you to /clear before continuing a long stale session), and are investigating defaulting to 400k context instead, with an option to configure your context window to up to 1M if preferred. To experiment with this now, try:CLAUDE_CODE_AUTO_COMPACT_WI…
 
-View full comment 
+View full comment
 
 ## Metadata
 

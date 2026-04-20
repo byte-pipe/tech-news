@@ -19,6 +19,6 @@ Learn more
 For you
 Get app
 
- This site requires JavaScript to run correctly. Please 
+ This site requires JavaScript to run correctly. Please
 turn on JavaScript
  or unblock scripts

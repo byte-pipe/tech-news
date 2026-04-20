@@ -18,14 +18,14 @@ tags:
 
 Health
 06 March 2026
-By 
+By
 Carly Cassella
- 
 
- 
+
+
 
 (Nes/Getty Images)
- 
+
 
 Those who have never endured the relentless ringing of tinnitus can only dream of the torment. In fact, a bad dream may be the closest some get to experiencing anything like it.
 
@@ -68,7 +68,7 @@ Research on non-human animals has its obvious limitations, but the same sort of 
 Since their 2022 review, Milinski says the field has rapidly expanded, with a growing number of large-scale studies investigating how sleep, the environment, and tinnitus interact – and not just in ferrets.
 
 A graphic depicting the study's findings. More detail on the brain regions involved is shown in Figure 1 of the paper. (
-Milinski et al., 
+Milinski et al.,
 Brain Comms
 ., 2022
 )
@@ -99,7 +99,7 @@ An earlier version of this article was published in November 2025.
 
 				Big breakthroughs. Bold ideas.
 				Straight to your inbox.
-			
+
 
 Big breakthroughs. Bold ideas. Straight to your inbox.
 

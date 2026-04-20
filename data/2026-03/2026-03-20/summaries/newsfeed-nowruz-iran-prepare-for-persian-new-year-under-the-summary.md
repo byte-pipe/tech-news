@@ -26,7 +26,7 @@ Iran's Nowruz celebration is traditionally marked by preparation and joy, but th
 ### Market Conditions
 - Tehran markets remain open during the celebrations despite attacks on major cities.
 - Families visit each other's home during two-week holidays to avoid returning to Tehran under threat.
-  
+
 ### Economy & Security Threats
 - The war has significantly impacted Iran’s economic development and infrastructure.
 

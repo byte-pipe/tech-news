@@ -1,7 +1,7 @@
 ---
 title: GitHub - sickn33/antigravity-awesome-skills: The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-p...
 url: https://github.com/sickn33/antigravity-awesome-skills
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-16T11:34:19.440044

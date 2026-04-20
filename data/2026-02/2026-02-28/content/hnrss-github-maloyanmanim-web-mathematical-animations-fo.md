@@ -14,7 +14,7 @@ tags:
 
 maloyan
 
- 
+
 
 /
 
@@ -33,41 +33,41 @@ maloyan.github.io/manim-web/
 ### License
 
  MIT license
- 
+
 
 214
 
  stars
 
- 
+
 
 6
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # maloyan/manim-web

@@ -1,7 +1,7 @@
 ---
 title: GitHub - jingyaogong/minimind: 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! · GitHub
 url: https://github.com/jingyaogong/minimind
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-23T11:28:36.306358

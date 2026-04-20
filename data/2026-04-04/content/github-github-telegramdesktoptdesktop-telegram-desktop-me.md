@@ -11,7 +11,7 @@ description: Telegram Desktop messaging app. Contribute to telegramdesktop/tdesk
 
 telegramdesktop
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork6.5k
 * Star30.7k
 
- 
- 
- 
+
+
+
  
 dev
 Branches
@@ -232,56 +232,56 @@ desktop.telegram.org/
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 30.7k
 
  stars
- 
+
 
 ### Watchers
 
 891
 
  watching
- 
+
 
 ### Forks
 
 6.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases835
 
@@ -289,11 +289,11 @@ v 6.7.2
 
  Latest
 
- 
+
 
 Apr 3, 2026
 
- 
+
 
 + 834 releases
 
@@ -309,17 +309,17 @@ Apr 3, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors206
 

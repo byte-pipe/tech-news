@@ -16,7 +16,7 @@ tags:
 
 # South Korea introduces universal basic mobile data access
 
- 
+
 
 ## Everyone gets unlimited 400 Kbps access, oldies get expanded caps, and leaky telcos get their social license back
 
@@ -41,10 +41,10 @@ They’ve also resolved to introduce low-priced 5G plans that cost ₩20,000 or 
 
 Bae didn’t just wield a stick: He also dangled a carrot in the form of a promise to support research on networks that will support AI applications. But he also urged the three telcos to invest more in the networks – not just datacenters – to make AI applications accessible to all. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

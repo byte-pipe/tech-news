@@ -27,7 +27,7 @@ According to Gu, the biggest problem facing the industry today is not just monit
 
 Gu explained how that looks in real life with an anecdote: One of its customers, a major U.S. credit card company, saw that one of its fraud-detection models was drifting. Because InsightFinder was monitoring all of the company’s infrastructure, it was able to identify that the model drift was caused by outdated cache in some server nodes.
 
- 
+
 
 Techcrunch event
 
@@ -66,23 +66,23 @@ InsightFinder will use the fresh capital to make its first sales and marketing h
 Topics
 
 AI
-, 
+,
 data observability
-, 
+,
 Datadog
-, 
+,
 Dynatrace
-, 
+,
 Enterprise
-, 
+,
 Fundraising
-, 
+,
 Grafana Labs
-, 
+,
 InsightFinder
- 
 
-			Ram Iyer	
+
+			Ram Iyer
 
 Editor
 
@@ -90,6 +90,6 @@ Ram is a financial and tech reporter and editor. He covered North American and E
 
 You can contact or verify outreach from Ram by emailingram.iyer@techcrunch.com.
 
- 
+
 
 View Bio

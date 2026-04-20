@@ -11,7 +11,7 @@ description: Teams-first Multi-agent orchestration for Claude Code - Yeachan-Heo
 
 Yeachan-Heo
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork803
 * Star11.9k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -280,7 +280,7 @@ The deep interview uses Socratic questioning to clarify your thinking before any
 
 Starting inv4.1.7,Teamis the canonical orchestration surface in OMC. The legacyswarmkeyword/skill has been removed; useteamdirectly.
 
-/team 3:executor 
+/team 3:executor
 "
 fix all TypeScript errors
 "
@@ -292,12 +292,12 @@ team-plan → team-prd → team-exec → team-verify → team-fix (loop)
 Enable Claude Code native teams in~/.claude/settings.json:
 
 {
- 
+
 "env"
 : {
- 
+
 "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS"
-: 
+:
 "
 1
 "
@@ -311,17 +311,17 @@ If teams are disabled, OMC will warn you and fall back to non-team execution whe
 
 v4.4.0 removes the Codex/Gemini MCP servers(x,gproviders). Use the CLI-first Team runtime (omc team ...) to spawn real tmux worker panes:
 
-omc team 2:codex 
+omc team 2:codex
 "
 review auth module for security issues
 "
 
-omc team 2:gemini 
+omc team 2:gemini
 "
 redesign UI components for accessibility
 "
 
-omc team 1:claude 
+omc team 1:claude
 "
 implement the payment flow
 "
@@ -430,7 +430,7 @@ Coordinated Claude agents on a shared task list
 
 omc team (CLI)
 
-tmux CLI workers — real 
+tmux CLI workers — real
 claude
 /
 codex
@@ -442,9 +442,9 @@ Codex/Gemini CLI tasks; on-demand spawn, die when done
 
 ccg
 
-Tri-model advisors via 
+Tri-model advisors via
 /ask codex
- + 
+ +
 /ask gemini
 , Claude synthesizes
 
@@ -525,19 +525,19 @@ Lower (fallback)
 ---
 
 name
-: 
+:
 Fix Proxy Crash
 
 description
-: 
+:
 aiohttp proxy crashes on ClientDisconnectedError
 
 triggers
-: 
+:
 ["proxy", "aiohttp", "disconnected"]
 
 source
-: 
+:
 extracted
 
 ---
@@ -573,7 +573,7 @@ omc team 2:codex "security review"
 ccg
 
 /ask codex
- + 
+ +
 /ask gemini
  synthesis
 
@@ -622,7 +622,7 @@ Deep reasoning mode
 ultrathink about this architecture
 
 cancelomc
-, 
+,
 stopomc
 
 Stop active OMC modes
@@ -641,22 +641,22 @@ Notes:
 
 Run local provider CLIs and save a markdown artifact under.omc/artifacts/ask/:
 
-omc ask claude 
+omc ask claude
 "
 review this migration plan
 "
 
-omc ask codex --prompt 
+omc ask codex --prompt
 "
 identify architecture risks
 "
 
-omc ask gemini --prompt 
+omc ask gemini --prompt
 "
 propose UI polish ideas
 "
 
-omc ask claude --agent-prompt executor --prompt 
+omc ask claude --agent-prompt executor --prompt
 "
 draft implementation steps
 "
@@ -672,21 +672,21 @@ Phase-1 aliasesOMX_ASK_ADVISOR_SCRIPTandOMX_ASK_ORIGINAL_TASKare accepted with d
 
 Auto-resume Claude Code sessions when rate limits reset.
 
-omc 
+omc
 wait
- 
+
 #
  Check status, get guidance
 
-omc 
+omc
 wait
- --start 
+ --start
 #
  Enable auto-resume daemon
 
-omc 
+omc
 wait
- --stop 
+ --stop
 #
  Disable daemon
 
@@ -708,33 +708,33 @@ You can configure who gets tagged when stop callbacks send session summaries.
 #
  Set/replace tag list
 
-omc config-stop-callback telegram --enable --token 
+omc config-stop-callback telegram --enable --token
 <
 bot_token
 >
- --chat 
+ --chat
 <
 chat_id
 >
- --tag-list 
+ --tag-list
 "
 @alice,bob
 "
 
-omc config-stop-callback discord --enable --webhook 
+omc config-stop-callback discord --enable --webhook
 <
 url
 >
- --tag-list 
+ --tag-list
 "
 @here,123456789012345678,role:987654321098765432
 "
 
-omc config-stop-callback slack --enable --webhook 
+omc config-stop-callback slack --enable --webhook
 <
 url
 >
- --tag-list 
+ --tag-list
 "
 <!here>,<@U1234567890>
 "
@@ -767,86 +767,86 @@ Quick setup (recommended):
 Manual setup:create~/.claude/omc_config.openclaw.json:
 
 {
- 
+
 "enabled"
-: 
+:
 true
 ,
- 
+
 "gateways"
 : {
- 
+
 "my-gateway"
 : {
- 
+
 "url"
-: 
+:
 "
 https://your-gateway.example.com/wake
 "
 ,
- 
+
 "headers"
-: { 
+: {
 "Authorization"
-: 
+:
 "
 Bearer YOUR_TOKEN
 "
  },
- 
+
 "method"
-: 
+:
 "
 POST
 "
 ,
- 
+
 "timeout"
-: 
+:
 10000
 
  }
  },
- 
+
 "hooks"
 : {
- 
+
 "session-start"
-: { 
+: {
 "gateway"
-: 
+:
 "
 my-gateway
 "
-, 
+,
 "instruction"
-: 
+:
 "
 Session started for {{projectName}}
 "
-, 
+,
 "enabled"
-: 
+:
 true
  },
- 
+
 "stop"
-: { 
+: {
 "gateway"
-: 
+:
 "
 my-gateway
 "
-, 
+,
 "instruction"
-: 
+:
 "
 Session stopping for {{projectName}}
 "
-, 
+,
 "enabled"
-: 
+:
 true
  }
  }
@@ -883,9 +883,9 @@ session-start
 Session begins
 
 {{sessionId}}
-, 
+,
 {{projectName}}
-, 
+,
 {{projectPath}}
 
 stop
@@ -893,7 +893,7 @@ stop
 Claude response completes
 
 {{sessionId}}
-, 
+,
 {{projectName}}
 
 keyword-detector
@@ -901,7 +901,7 @@ keyword-detector
 Every prompt submission
 
 {{prompt}}
-, 
+,
 {{sessionId}}
 
 ask-user-question
@@ -909,7 +909,7 @@ ask-user-question
 Claude requests user input
 
 {{question}}
-, 
+,
 {{sessionId}}
 
 pre-tool-use
@@ -917,7 +917,7 @@ pre-tool-use
 Before tool invocation (high frequency)
 
 {{toolName}}
-, 
+,
 {{sessionId}}
 
 post-tool-use
@@ -925,7 +925,7 @@ post-tool-use
 After tool invocation (high frequency)
 
 {{toolName}}
-, 
+,
 {{sessionId}}
 
 Reply channel environment variables:
@@ -936,7 +936,7 @@ Description
 
 OPENCLAW_REPLY_CHANNEL
 
-Reply channel (e.g. 
+Reply channel (e.g.
 discord
 )
 
@@ -1115,48 +1115,48 @@ yeachan-heo.github.io/oh-my-claudecode-website
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 11.9k
 
  stars
- 
+
 
 ### Watchers
 
 38
 
  watching
- 
+
 
 ### Forks
 
 803
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases203
 
@@ -1164,11 +1164,11 @@ v4.9.1
 
  Latest
 
- 
+
 
 Mar 24, 2026
 
- 
+
 
 + 202 releases
 
@@ -1176,7 +1176,7 @@ Mar 24, 2026
 
  
 
- 
+
 
  Sponsor
 
@@ -1184,11 +1184,11 @@ Mar 24, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -1204,9 +1204,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors69
 

@@ -14,9 +14,9 @@ tags:
 InfoQ HomepageNewsAWS Launches Managed Openclaw on Lightsail amid Critical Security Vulnerabilities
 
  Cloud
- 
 
-QCon San Francisco (Nov 16-20): Deep technical sessions. Peer conversations that change how you think. 
+
+QCon San Francisco (Nov 16-20): Deep technical sessions. Peer conversations that change how you think.
 
 # AWS Launches Managed Openclaw on Lightsail amid Critical Security Vulnerabilities
 
@@ -31,8 +31,8 @@ by
 
 Feed your curiosity.
 
-Help 550k+ global 
-senior developers 
+Help 550k+ global
+senior developers
 each month stay ahead.
 Get in touch
 
@@ -64,15 +64,15 @@ OpenClaw's design gives agents system-level permissions: file access, script exe
 
 AWSpricingincludes Lightsail instance costs (4GB memory plan recommended), Bedrock token charges per message, and potential Marketplace fees for third-party models. Data transfer overages and snapshot storage incur extra costs. The service is available across all AWS commercial regions where Lightsailoperates.
 
- 
+
 
 ## About the Author
 
- 
 
- 
 
- 
+
+
+
 
 #### Steef-Jan Wiggers
 
@@ -119,7 +119,7 @@ Select your country
 
 Select a country
 
-I consent to InfoQ.com handling my data as explained in this 
+I consent to InfoQ.com handling my data as explained in this
 Privacy Notice
 .
 

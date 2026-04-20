@@ -1,7 +1,7 @@
 ---
 title: GitHub - langflow-ai/openrag: OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opens...
 url: https://github.com/langflow-ai/openrag
-date: 
+date:
 site: github
 model: gpt-oss:120b-cloud
 summarized_at: 2026-03-13T03:13:52.552730
@@ -30,8 +30,8 @@ summarized_at: 2026-03-13T03:13:52.552730
 - Deploy services via Docker, Docker‑Compose, or Podman for self‑managed setups
 
 ## Quick Start Workflow
-1. Launch OpenRAG  
-2. Add knowledge (upload and process documents)  
+1. Launch OpenRAG
+2. Add knowledge (upload and process documents)
 3. Start chatting with the AI assistant
 
 ## SDKs

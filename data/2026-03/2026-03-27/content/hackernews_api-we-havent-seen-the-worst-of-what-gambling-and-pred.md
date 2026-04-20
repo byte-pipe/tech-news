@@ -23,9 +23,9 @@ Mar 26, 2026
 15
 84
 Share
-Photo by 
+Photo by
 Eyestetix Studio
- on 
+ on
 Unsplash
 
 Here are three stories about the state of gambling in America.

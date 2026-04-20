@@ -11,7 +11,7 @@ description: High performance self-hosted photo and video management solution. -
 
 immich-app
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork5.3k
 * Star96.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -491,66 +491,66 @@ immich.app
 
  Readme
 
- 
+
 
 ### License
 
  AGPL-3.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 96.5k
 
  stars
- 
+
 
 ### Watchers
 
 304
 
  watching
- 
+
 
 ### Forks
 
 5.3k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases291
 
@@ -558,11 +558,11 @@ v2.6.3
 
  Latest
 
- 
+
 
 Mar 26, 2026
 
- 
+
 
 + 290 releases
 
@@ -572,11 +572,11 @@ Mar 26, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * https://buy.immich.app
 * https://immich.store
 
@@ -592,17 +592,17 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -610,9 +610,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

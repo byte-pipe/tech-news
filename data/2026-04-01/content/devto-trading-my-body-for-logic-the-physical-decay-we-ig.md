@@ -48,7 +48,7 @@ Without it, there is no logic. Without it, there is no code.
 Close the laptop. Stand up. Breathe.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -59,6 +59,6 @@ Preview
 Dismiss
 
  View full discussion (15 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

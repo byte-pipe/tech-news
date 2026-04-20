@@ -15,9 +15,9 @@ summarized_at: 2026-04-18T06:12:56.723743
 * **New Insights:** Research suggests that ageing accelerates the production of white blood cells releasing antibodies in women, leading to an increased risk of autoimmune disorders.
 * **Autoimmune Disorders:** Autoimmune conditions such as rheumatoid arthritis and lupus are increasing in incidence in both men and women but in a different manner between sex groups.
 * **References:**
- 
+
 ### Scientific Studies
- 
+
 1.  Sopena-Rios et al (2026) [1]
 
 2.  Fast-ticking 'biological clock' predicts shorter lifespan – Research Highlight [19] MAR 26

@@ -90,7 +90,7 @@ It just happened that solving that for DevFest Ireland 2025 turned into somethin
 And really, it all goes back to those first messages. A few deaf developers reached out because they wanted to be there. Everything that came after, including the software, came from taking that seriously.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

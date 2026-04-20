@@ -12,7 +12,7 @@ tags:
 - tldr
 ---
 
-(Image credit: 
+(Image credit:
 the tiny corp/X
 )
 
@@ -45,9 +45,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -67,11 +67,11 @@ Tiny Corp is the company behind the tinybox, anAI accelerator built around four 
 
 High-end Apple computers recently became popular with the rise of AI agents like OpenClaw. In fact, this frenzy hasdriven a shortage of Macsthat came with massive amounts of Unified Memory, with the delivery window pushed from six days to six weeks. It has even gotten to the point that Cupertinono longer offers the 512GB Unified Memory optionfor the Mac Studio, while the 256GB model received a $400 price bump.
 
-Article continues below 
+Article continues below
 
 This custom driver seemingly did not come from the GPU maker, though, with Tiny Corp seemingly working on it on its own. Subsequently, this means that the driver is designed for running AI LLMs and not for gaming, surely disappointing people who don’t want to own two different PCs for work and entertainment. Nevertheless, this is still a game-changer for people working with artificial intelligence, as they could now potentially do training or inference (with some limitations) without needing a dedicated AI supercomputer like Tiny Box.
 
- 
+
 
 FollowTom's Hardware on Google News, oradd us as a preferred source, to get our latest news, analysis, & reviews in your feeds.
 

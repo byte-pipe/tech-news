@@ -14,7 +14,7 @@ tags:
 
 golang
 
- 
+
 
 /
 
@@ -44,8 +44,8 @@ Proposal
 ## Description
 
 mzattahri
-opened 
-on 
+opened
+on
 Aug 14, 2023
 Issue body actions
 
@@ -69,16 +69,16 @@ Would like to point out how Go is rather the exception than the norm with regard
 * Ruby
 Reactions are currently unavailable
 Pinned by
- 
+
 neild
 Pinned comment options
 neild
-on 
+on
 Feb 25, 2026
 
 Updated proposal with more permissive Parse, Nil and Max as vars, and a reference to RFC 9562 in the Compare documentation:// Package uuid provides support for generating and manipulating UUIDs.//// See [RFC 9562] for details.//// Random components of new UUIDs are generated with a// cryptographically secure random number generator.//// UUIDs may be generated using various algorithms.// The [New] function returns a new UUID generated using// an algorithm suitable for most purposes.//// [RFC 9562]: https://www.rfc-editor.org/rfc/rfc9562.htmlpackageuuid// A UUID is a Universally Unique Identifier as specified in RFC 9562.//// UUIDs are comparable, such as with the == opera…
 
-View full comment 
+View full comment
 
 ## Metadata
 

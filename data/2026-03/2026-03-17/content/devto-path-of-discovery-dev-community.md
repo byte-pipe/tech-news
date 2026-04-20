@@ -68,7 +68,7 @@ You decide what matters. You set the bar. Make sure you always ask the question:
 Our challenges make us stronger when we come out the other side. Do not be mad the universe gave you challenges, but instead thank it for seeing you as a worthy champion.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

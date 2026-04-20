@@ -9,7 +9,7 @@ author: FantasticQuartet
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 FantasticQuartet
 
- 
+
 
 # Spanish Prime Minister: Being an ally of the US does not mean saying "yes" to everything
 
  reporteri.net
- 
+
 
 Open

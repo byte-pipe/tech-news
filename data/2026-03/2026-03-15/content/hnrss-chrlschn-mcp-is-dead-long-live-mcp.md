@@ -76,81 +76,81 @@ It is true that CLIs allow for progressive context consumption as an agent tries
 
 {
 
- 
+
 name
-: 
+:
 "searchFlights"
 ,
 
- 
+
 description
-: 
+:
 "Search for available flights"
 ,
 
- 
+
 inputSchema
 : {
 
- 
+
 type
-: 
+:
 "object"
 ,
 
- 
+
 properties
 : {
 
- 
+
 origin
-: { 
+: {
 type
-: 
+:
 "string"
-, 
+,
 description
-: 
+:
 "Departure city"
  },
 
- 
+
 destination
-: { 
+: {
 type
-: 
+:
 "string"
-, 
+,
 description
-: 
+:
 "Arrival city"
  },
 
- 
+
 date
-: { 
+: {
 type
-: 
+:
 "string"
-, 
+,
 format
-: 
+:
 "date"
-, 
+,
 description
-: 
+:
 "Travel date"
  }
 
  },
 
- 
+
 required
 : [
 "origin"
-, 
+,
 "destination"
-, 
+,
 "date"
 ]
 

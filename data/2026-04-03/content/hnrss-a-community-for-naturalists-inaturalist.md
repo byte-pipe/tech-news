@@ -133,39 +133,39 @@ STORE
 
 Instagram
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
-Member of the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Member of the
 iNaturalist Network
 
  
 |
  
 
-Powered by 
+Powered by
 iNaturalist open source software
 
  
 |
  
 
-Documentation for 
+Documentation for
 developers
 
 English

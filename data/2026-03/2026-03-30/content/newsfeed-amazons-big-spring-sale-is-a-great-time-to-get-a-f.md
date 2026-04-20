@@ -27,8 +27,8 @@ The spring migration is upon us, so why not make the most of it?
 The spring migration is upon us, so why not make the most of it?
 
 by
- 
- 
+
+
 Brandon Widder
 Mar 29, 2026, 1:00 PM UTC
 * Link
@@ -39,9 +39,9 @@ If you buy something from a Verge link, Vox Media may earn a commission.See our 
 Image: Netvue
 Part Of
 Amazon’s Big Spring Sale 2026: all of the latest deals
-see all updates 
+see all updates
 Brandon Widder
- 
+
 is a senior editor overseeing deals, gift guides, and commerce. He spent six years spearheading buying guides and consumer tech coverage at Digital Trends.
 
 Bird feeders have come a long way since their inception in the early 1900s. These days, it’s not all that surprising to see feeders kitted out with cameras and solar roofs, two marquee features you’ll find on feeders from both BirdBuddy and Netvue. And while modern hoppers can command a pretty penny,Amazon’s Big Spring Salehas dropped theNetvue Birdfy Feederto $135.99 ($124 off) andBirdbuddy Proto $179.99 ($120 off), which are some of the best prices we’ve seen.
@@ -89,19 +89,19 @@ Sign up for Verge Deals to get deals on products we’ve tested sent to your inb
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Follow topics and authors
  from this story to see more like this in your personalized homepage feed and to receive email updates.
@@ -122,7 +122,7 @@ Cameron Faulkner
 Mar 28
 Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off
 Sheena Vasani
- and 
+ and
 Brandon Widder
 Mar 27
 
@@ -142,19 +142,19 @@ Sign up for Verge Deals to get deals on products we’ve tested sent to your inb
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

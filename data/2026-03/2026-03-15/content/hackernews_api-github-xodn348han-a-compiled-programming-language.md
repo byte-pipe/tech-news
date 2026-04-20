@@ -15,7 +15,7 @@ tags:
 
 xodn348
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork2
 * Star103
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -327,7 +327,7 @@ git clone https://github.com/xodn348/han.git
 
 cd
  han
-cargo install --path 
+cargo install --path
 .
 
 That's it.hglis now available globally.
@@ -336,7 +336,7 @@ That's it.hglis now available globally.
 
 cd
  editors/vscode
-npm install 
+npm install
 &&
  npm run compile
 
@@ -530,7 +530,7 @@ Notes
 
 Null safety / Option type
 
-No 
+No
 없음?
  or Option
 
@@ -540,7 +540,7 @@ Single-threaded only
 
 Garbage collection
 
-Reference counting only via 
+Reference counting only via
 Rc<RefCell<>>
  — cycles leak
 
@@ -861,7 +861,7 @@ English Equivalent
 function definition
 
 fn
- / 
+ /
 function
 
 반환
@@ -875,7 +875,7 @@ return
 mutable variable
 
 let mut
- / 
+ /
 var
 
 상수
@@ -961,7 +961,7 @@ Examples
 i64
 
 42
-, 
+,
 -10
 
 실수
@@ -971,7 +971,7 @@ i64
 f64
 
 3.14
-, 
+,
 -0.5
 
 문자열
@@ -989,7 +989,7 @@ boolean
 i1
 
 참
-, 
+,
 거짓
 
 없음
@@ -1005,49 +1005,49 @@ Operator
 Description
 
 +
-, 
+,
 -
-, 
+,
 *
-, 
+,
 /
-, 
+,
 %
 
 Arithmetic
 
 ==
-, 
+,
 !=
 
 Equality
 
 <
-, 
+,
 >
-, 
+,
 <=
-, 
+,
 >=
 
 Comparison
 
 &&
-, 
+,
 ||
-, 
+,
 !
 
 Logical
 
 =
-, 
+,
 +=
-, 
+,
 -=
-, 
+,
 *=
-, 
+,
 /=
 
 Assignment
@@ -1107,7 +1107,7 @@ Why Rust?Rust's enum types map naturally to AST nodes and token variants. Patter
 
 ## Running Tests
 
-cargo 
+cargo
 test
 
 46 tests (41 unit + 5 integration) covering the lexer, parser, AST, interpreter, and code generator.
@@ -1140,43 +1140,43 @@ A compiled programming language with Korean keywords, written in Rust
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 103
 
  stars
- 
+
 
 ### Watchers
 
 0
 
  watching
- 
+
 
 ### Forks
 
 2
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -1194,9 +1194,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1204,9 +1204,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

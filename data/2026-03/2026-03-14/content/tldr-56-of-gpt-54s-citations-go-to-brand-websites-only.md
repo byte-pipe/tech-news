@@ -19,7 +19,7 @@ tags:
 
 We tested 50 prompts across ChatGPT's new models and extracted every fan-out query, web search result, and citation. GPT-5.3 sends users to blog posts about your brand. GPT-5.4 sends them to your actual website. The two models cite 93% different sources.
 
- 
+
 
 Written By:
 
@@ -32,7 +32,7 @@ March 9, 2026
 17 Mins
 
  read
- 
+
 
 ChatGPT just rolled out two new models. GPT-5.3 Instant is the new default. GPT-5.4 Thinking is the new premium.
 
@@ -96,140 +96,140 @@ Best CRM for B2B SaaS
 0%
 100%
 designrevision.com
-, 
+,
 techradar.com
 hubspot.com
-, 
+,
 salesforce.com
-, 
+,
 attio.com
 Marathon running shoes
 0%
 88%
 irunfar.com
-, 
+,
 reddit.com
 nike.com
-, 
+,
 asics.com
-, 
+,
 hoka.com
 QuickBooks vs Xero vs FreshBooks
 0%
 100%
 gentlefrog.com
-, 
+,
 technologyadvice.com
 freshbooks.com
-, 
+,
 quickbooks.intuit.com
-, 
+,
 xero.com
 HubSpot vs Salesforce vs Pipedrive
 0%
 100%
 emailtooltester.com
-, 
+,
 salesflare.com
 hubspot.com
-, 
+,
 pipedrive.com
-, 
+,
 salesforce.com
 Password managers
 14%
 100%
 cybernews.com
-, 
+,
 reddit.com
 1password.com
-, 
+,
 bitwarden.com
-, 
+,
 dashlane.com
 iPhone vs Samsung vs Pixel
 0%
 100%
 tomsguide.com
-, 
+,
 phonearena.com
 apple.com
-, 
+,
 samsung.com
-, 
+,
 store.google.com
 Tesla vs BMW vs Polestar
 0%
 67%
 drivingelectric.com
-, 
+,
 facebook.com
 tesla.com
-, 
+,
 bmwusa.com
-, 
+,
 polestar.com
 Smart home security
 0%
 86%
 safehome.org
 ring.com
-, 
+,
 wyze.com
-, 
+,
 simplisafe.com
 Coursera vs Udemy vs LinkedIn
 0%
 83%
 coursmos.com
-, 
+,
 airmeet.com
 udemy.com
-, 
+,
 coursera.org
-, 
+,
 linkedin.com
 EHR software
 0%
 40%
 forbes.com
-, 
+,
 techradar.com
 athenahealth.com
-, 
+,
 elationhealth.com
 Email marketing platforms
 33%
 88%
 techradar.com
-, 
+,
 insiderone.com
 klaviyo.com
-, 
+,
 omnisend.com
-, 
+,
 mailchimp.com
 SEO tools
 0%
 33%
 apricornsolutions.com
-, 
+,
 morningscore.io
 ahrefs.com
-, 
+,
 semrush.com
-, 
+,
 screamingfrog.co.uk
 Notion vs Obsidian vs Roam
 0%
 100%
 xp-pen.com
-, 
+,
 medium.com
 obsidian.md
-, 
+,
 notion.so
-, 
+,
 roamresearch.com
 
 On comparison prompts (“X vs Y vs Z”), GPT-5.3 never cited a single brand. GPT-5.4 cited brands 83-100% of the time.
@@ -1089,22 +1089,22 @@ Like what you read? Share with a friend
 
 with the latest marketing tips and news
 
- 
+
 
 ## Thank youfor Subscribing!
 
 Exciting Updates Await.
 
- 
+
 
 Samanyou Garg
 
 Founder @ Writesonic
 
-Samanyou is the founder of Writesonic and is passionate about using AI to solve real world problems especially in marketing. Two years before the launch of ChatGPT, Writesonic was already at the forefront, helping brands, agencies, and individuals create and optimize all types of content, outsmart competitors by decoding their SEO trends and keywords to boost traffic. 
+Samanyou is the founder of Writesonic and is passionate about using AI to solve real world problems especially in marketing. Two years before the launch of ChatGPT, Writesonic was already at the forefront, helping brands, agencies, and individuals create and optimize all types of content, outsmart competitors by decoding their SEO trends and keywords to boost traffic.
 Samanyou is a Forbes 30 Under 30 awardee and a winner of the 2019 Global Undergraduate Awards, often referred to as the junior Nobel Prize.
 
- 
+
 
 ## Related Articles
 
@@ -1118,7 +1118,7 @@ March 12, 2026
 
 12 Mins read
 
- 
+
 
 ChatGPT
 
@@ -1132,7 +1132,7 @@ March 6, 2026
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1144,7 +1144,7 @@ February 23, 2026
 
 5 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1156,7 +1156,7 @@ February 23, 2026
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1168,7 +1168,7 @@ February 22, 2026
 
 15 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1180,7 +1180,7 @@ February 22, 2026
 
 16 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1192,7 +1192,7 @@ February 19, 2026
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1204,7 +1204,7 @@ February 19, 2026
 
 16 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1216,7 +1216,7 @@ February 18, 2026
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1228,7 +1228,7 @@ February 10, 2026
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1240,7 +1240,7 @@ January 27, 2026
 
 13 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1252,7 +1252,7 @@ January 23, 2026
 
 10 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1264,7 +1264,7 @@ January 23, 2026
 
 9 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1276,7 +1276,7 @@ November 25, 2025
 
 11 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1288,7 +1288,7 @@ January 23, 2026
 
 10 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1302,7 +1302,7 @@ January 23, 2026
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1314,7 +1314,7 @@ January 23, 2026
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1326,7 +1326,7 @@ March 13, 2026
 
 18 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1338,7 +1338,7 @@ November 25, 2025
 
 16 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1352,7 +1352,7 @@ November 25, 2025
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1364,7 +1364,7 @@ January 23, 2026
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1376,7 +1376,7 @@ November 24, 2025
 
 11 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1388,7 +1388,7 @@ March 13, 2026
 
 17 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1400,7 +1400,7 @@ January 23, 2026
 
 18 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1414,7 +1414,7 @@ November 26, 2025
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1426,7 +1426,7 @@ January 23, 2026
 
 16 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1438,7 +1438,7 @@ February 20, 2026
 
 21 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1450,7 +1450,7 @@ February 20, 2026
 
 24 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1462,7 +1462,7 @@ November 13, 2025
 
 12 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1476,7 +1476,7 @@ November 24, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1488,7 +1488,7 @@ November 27, 2025
 
 23 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1500,7 +1500,7 @@ November 11, 2025
 
 13 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1512,7 +1512,7 @@ October 24, 2025
 
 15 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1524,7 +1524,7 @@ January 21, 2026
 
 18 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1536,7 +1536,7 @@ October 6, 2025
 
 5 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1548,7 +1548,7 @@ October 5, 2025
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1560,7 +1560,7 @@ October 5, 2025
 
 9 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1572,7 +1572,7 @@ January 11, 2026
 
 11 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1584,7 +1584,7 @@ October 23, 2025
 
 11 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1596,7 +1596,7 @@ September 29, 2025
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1608,7 +1608,7 @@ September 24, 2025
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1620,7 +1620,7 @@ September 23, 2025
 
 3 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1632,7 +1632,7 @@ September 22, 2025
 
 11 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1644,7 +1644,7 @@ September 22, 2025
 
 9 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1656,7 +1656,7 @@ October 27, 2025
 
 17 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1668,7 +1668,7 @@ September 19, 2025
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1680,7 +1680,7 @@ September 12, 2025
 
 13 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1692,7 +1692,7 @@ September 12, 2025
 
 11 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1704,7 +1704,7 @@ January 28, 2026
 
 12 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1716,7 +1716,7 @@ January 23, 2026
 
 12 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1728,7 +1728,7 @@ January 23, 2026
 
 15 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1740,7 +1740,7 @@ August 25, 2025
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1752,7 +1752,7 @@ January 23, 2026
 
 20 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1764,7 +1764,7 @@ August 19, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1776,7 +1776,7 @@ January 23, 2026
 
 20 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1788,7 +1788,7 @@ August 15, 2025
 
 12 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1800,7 +1800,7 @@ August 15, 2025
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1812,7 +1812,7 @@ February 19, 2026
 
 19 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1824,7 +1824,7 @@ September 21, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1836,7 +1836,7 @@ August 5, 2025
 
 10 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1850,7 +1850,7 @@ August 12, 2025
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1862,7 +1862,7 @@ January 23, 2026
 
 15 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1874,7 +1874,7 @@ July 27, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1886,7 +1886,7 @@ August 4, 2025
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1898,7 +1898,7 @@ August 25, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1910,7 +1910,7 @@ January 23, 2026
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1922,7 +1922,7 @@ January 23, 2026
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1934,7 +1934,7 @@ August 4, 2025
 
 9 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1946,7 +1946,7 @@ January 23, 2026
 
 10 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1958,7 +1958,7 @@ August 4, 2025
 
 11 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1970,7 +1970,7 @@ August 4, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1982,7 +1982,7 @@ December 17, 2025
 
 17 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -1994,7 +1994,7 @@ July 20, 2025
 
 13 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2006,7 +2006,7 @@ July 20, 2025
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2018,7 +2018,7 @@ January 23, 2026
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2030,7 +2030,7 @@ August 14, 2025
 
 9 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2042,7 +2042,7 @@ August 11, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2054,7 +2054,7 @@ August 11, 2025
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2066,7 +2066,7 @@ January 23, 2026
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2078,7 +2078,7 @@ August 17, 2025
 
 14 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2090,7 +2090,7 @@ July 20, 2025
 
 13 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2102,7 +2102,7 @@ August 17, 2025
 
 16 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2114,7 +2114,7 @@ January 23, 2026
 
 11 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2126,7 +2126,7 @@ August 4, 2025
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2138,7 +2138,7 @@ August 4, 2025
 
 4 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2150,7 +2150,7 @@ January 23, 2026
 
 10 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2162,7 +2162,7 @@ August 11, 2025
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2174,7 +2174,7 @@ August 7, 2025
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2186,7 +2186,7 @@ January 23, 2026
 
 9 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2198,7 +2198,7 @@ August 4, 2025
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2210,7 +2210,7 @@ August 4, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2222,7 +2222,7 @@ August 11, 2025
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2234,7 +2234,7 @@ July 20, 2025
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2246,7 +2246,7 @@ July 20, 2025
 
 12 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2258,7 +2258,7 @@ July 25, 2025
 
 12 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2272,7 +2272,7 @@ October 6, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2284,7 +2284,7 @@ July 20, 2025
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2296,7 +2296,7 @@ July 20, 2025
 
 15 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2308,7 +2308,7 @@ July 20, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2320,7 +2320,7 @@ July 20, 2025
 
 9 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2332,7 +2332,7 @@ August 11, 2025
 
 13 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2344,7 +2344,7 @@ August 4, 2025
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2356,7 +2356,7 @@ August 4, 2025
 
 5 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2368,7 +2368,7 @@ July 20, 2025
 
 6 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2380,7 +2380,7 @@ July 20, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2392,7 +2392,7 @@ July 20, 2025
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2404,7 +2404,7 @@ January 23, 2026
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2416,7 +2416,7 @@ July 20, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2430,7 +2430,7 @@ July 24, 2025
 
 11 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2442,7 +2442,7 @@ September 23, 2025
 
 8 Mins read
 
- 
+
 
 AI Guide
 
@@ -2458,7 +2458,7 @@ July 1, 2025
 
 14 Mins read
 
- 
+
 
 AI Guide
 
@@ -2474,7 +2474,7 @@ October 10, 2025
 
 14 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2486,7 +2486,7 @@ August 4, 2025
 
 12 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2500,7 +2500,7 @@ August 4, 2025
 
 11 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2512,7 +2512,7 @@ January 23, 2026
 
 9 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2524,7 +2524,7 @@ January 23, 2026
 
 10 Mins read
 
- 
+
 
 AI Guide
 
@@ -2538,7 +2538,7 @@ August 20, 2025
 
 13 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2550,7 +2550,7 @@ August 25, 2025
 
 14 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2562,7 +2562,7 @@ January 11, 2026
 
 9 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2574,7 +2574,7 @@ January 11, 2026
 
 23 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2586,7 +2586,7 @@ July 20, 2025
 
 14 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2598,7 +2598,7 @@ January 23, 2026
 
 11 Mins read
 
- 
+
 
 AI Guide
 
@@ -2612,7 +2612,7 @@ January 23, 2026
 
 14 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2624,7 +2624,7 @@ July 20, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2636,7 +2636,7 @@ January 23, 2026
 
 8 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2648,7 +2648,7 @@ January 11, 2026
 
 12 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2660,7 +2660,7 @@ July 20, 2025
 
 9 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2672,7 +2672,7 @@ July 23, 2025
 
 10 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 
@@ -2684,7 +2684,7 @@ July 28, 2025
 
 7 Mins read
 
- 
+
 
 Generative Engine Optimization (GEO)
 

@@ -22,22 +22,22 @@ The new iPhone includes an Apple A19 chip similar to the one in the more-expensi
 But there are two more-noticeable upgrades that help close the gap between the iPhone 17e and the regular iPhone 17. The first is support for MagSafe charging, a notable omission from the iPhone 16e. The second is an upgrade from 128GB to 256GB of storage in the base model, which makes the $599 version of the phone a more attractive deal. A 512GB version of the phone is available for $799.
 
  The iPhone 17e will support MagSafe, which was notably absent from the 16e.
- 
+
 
  Credit:
  Apple
- 
+
 
  The iPhone 17e will support MagSafe, which was notably absent from the 16e.
 
- 
+
 
  Credit:
 
- 
+
  Apple
 
- 
+
 
 The 17e comes in three color options: black, white, and a pastel pink. It still includes a USB-C port, a notched display rather than a Dynamic Island, an Action Button, a 6.1-inch 60 Hz OLED display without ProMotion or always-on support, and a single 48 megapixel rear camera (which is still capable of taking 2x telephoto images by cropping a 24 MP chunk out of the middle of the image sensor).
 
@@ -46,19 +46,19 @@ The biggest problem with the iPhone 17e is still that it’s just $200 cheaper t
 The new phone is part of a string of announcements that Apple is planning in the run-up to a “special experience” event on Wednesday morning. The company also announced a new iPad Air with an M4 chip today and is also widely expected to debut a new low-end iPad and a new MacBook that’s substantially cheaper than the MacBook Air.
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
- Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called 
+ Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called
 Overdue
 .
- 
+
 
 1. 1.LLMs can unmask pseudonymous users at scale with surprising accuracy
 2. 2.M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon

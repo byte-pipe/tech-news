@@ -66,7 +66,7 @@ Watch: Missed the live demo?Catch the full replayhere.
 * Contribute:Gemini CLI is open-source! Check out the "Help Wanted" labels onGitHub.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

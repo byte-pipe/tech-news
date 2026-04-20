@@ -137,7 +137,7 @@ Add a badge to yourREADMEto declare yourAI-DECLARATIONlevel at a glance. Please 
 
 What if I lie?
 
-Well, that defeats the purpose entirely, doesn't it? The idea is for all of us to have a social contract that we can trust. If you see a repo with an 
+Well, that defeats the purpose entirely, doesn't it? The idea is for all of us to have a social contract that we can trust. If you see a repo with an
 AI-DECLARATION.md
  in it, you can use it as a single source of truth.
 
@@ -147,9 +147,9 @@ Be my guest. I envision tooling to build it automatically as well as parse it. W
 
 Can I contribute a translation?
 
-Absolutely! Please. Just fork the repository and add a 
+Absolutely! Please. Just fork the repository and add a
 README_<locale>.md
- e.g. 
+ e.g.
 README_es.md
 . Then, raise a PR. I'll take it from there.
 
@@ -159,17 +159,17 @@ Well, good thing it is open-source then. I see the specification evolving natura
 
 Do I need to include the file if I added a badge to my README?
 
-Yes, the recommendation is to include an 
+Yes, the recommendation is to include an
 AI-DECLARATION.md
- as the primary source of truth. The badge in the 
+ as the primary source of truth. The badge in the
 README
- is just a glanceable way for someone to check that A, the 
+ is just a glanceable way for someone to check that A, the
 AI-DECLARATION.md
  would be available and B, the level.
 
 What is the logo?
 
-䷼ Hexagram 61 or Hexagram For Inner Truth (Unicode: 
+䷼ Hexagram 61 or Hexagram For Inner Truth (Unicode:
 U+4DFC
 ) is one of 64 hexagrams in the Yi (I) Ching to illustrate principles where each line is either Yin (broken) or Yang (solid). (
 source

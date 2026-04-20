@@ -26,7 +26,7 @@ tap anywhere to play
 
 ## PAUSED
 
-SCORE: 
+SCORE:
 0
 
 RESUME

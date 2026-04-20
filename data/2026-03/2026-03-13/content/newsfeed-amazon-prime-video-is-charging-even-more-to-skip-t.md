@@ -27,8 +27,8 @@ The revamped Prime Video ‘Ultra’ tier will cost $4.99 per month and come wit
 The revamped Prime Video ‘Ultra’ tier will cost $4.99 per month and come with ‘exclusive’ access to 4K streams.
 
 by
- 
- 
+
+
 Emma Roth
 Mar 13, 2026, 3:59 PM UTC
 * Link
@@ -36,9 +36,9 @@ Mar 13, 2026, 3:59 PM UTC
 * Gift
 Part Of
 Streaming services keep getting more expensive: all the latest price increases
-see all updates 
+see all updates
 Emma Roth
- 
+
 is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.
 
 Starting April 10th, Amazon’s ad-free Prime Video subscription will be rebranded as Ultra as its price increases to$4.99 per monthfrom the current $2.99. Once it launches, it will also be the “exclusive” way to access 4K/UHD streaming, removing 4K streaming access from Prime subscribers who don’t pay extra.
@@ -94,19 +94,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

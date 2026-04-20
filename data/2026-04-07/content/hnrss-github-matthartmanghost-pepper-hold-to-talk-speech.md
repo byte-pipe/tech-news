@@ -14,7 +14,7 @@ tags:
 
 matthartman
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork46
 * Star1.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -153,7 +153,7 @@ Parakeet v3 (25 languages)
 
 ~1.4 GB
 
-Multi-language via 
+Multi-language via
 FluidAudio
 
 ### Cleanup models
@@ -261,43 +261,43 @@ Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and loc
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 1.1k
 
  stars
- 
+
 
 ### Watchers
 
 3
 
  watching
- 
+
 
 ### Forks
 
 46
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases12
 
@@ -305,11 +305,11 @@ Ghost Pepper v2.0.1 🌶️
 
  Latest
 
- 
+
 
 Apr 6, 2026
 
- 
+
 
 + 11 releases
 
@@ -325,9 +325,9 @@ Apr 6, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors4
 

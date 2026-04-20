@@ -11,7 +11,7 @@ description: Contribute to NousResearch/hermes-agent development by creating an 
 
 NousResearch
 
- 
+
 
 /
 
@@ -27,35 +27,35 @@ Public
 
  stars
 
- 
+
 
 156
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # NousResearch/hermes-agent

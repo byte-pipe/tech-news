@@ -11,7 +11,7 @@ description: Apache Superset is a Data Visualization and Data Exploration Platfo
 
 apache
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork16.9k
 * Star71.2k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -346,125 +346,125 @@ Superset can query data from any SQL-speaking datastore or data engine (Presto, 
 Here are some of the major database solutions that are supported:
 
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
   
- 
+
 
 A more comprehensive list of supported databasesalong with the configuration instructions can be foundhere.
 
@@ -571,66 +571,66 @@ superset.apache.org/
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 71.2k
 
  stars
- 
+
 
 ### Watchers
 
 1.5k
 
  watching
- 
+
 
 ### Forks
 
 16.9k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases244
 
@@ -638,11 +638,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Dec 18, 2025
 
- 
+
 
 + 243 releases
 
@@ -658,17 +658,17 @@ Dec 18, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -676,9 +676,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

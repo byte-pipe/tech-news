@@ -18,7 +18,7 @@ Featured
 Carl Franzen
 
  February 26, 2026
- 
+
 
 Credit: VentureBeat made with Google Gemini 3 Pro Image
 

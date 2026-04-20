@@ -17,7 +17,7 @@ tags:
 
 English menu is available for your convenience
 
-McDonald's menu and allergen/nutrition information is available in English for the convenience of our customers, except for the information listed below, which is currently available only in Japanese in 
+McDonald's menu and allergen/nutrition information is available in English for the convenience of our customers, except for the information listed below, which is currently available only in Japanese in
 McDonald’s Japan website.
 
 * Information and notes on products and availability
@@ -27,10 +27,10 @@ McDonald’s Japan website.
 
 *McDonald’s Japan’s allergen information only covers 8 ingredients which must be indicated on the label and 20 which are recommended by Japanese Food Labeling Standard (Food Labeling Act) as of September 2024.
 
-You can also place an order in English on our 
+You can also place an order in English on our
 official app
 . Several restaurants also have English menus on hand, so please ask our crew if you are looking for an English menu.
-					
+
 
 ## Breakfast
 
@@ -432,7 +432,7 @@ Allergens and Nutrition List
 
 Mobile Order
 
-Get freshly cooked 
+Get freshly cooked
 meals, quick and easy
 
 Order Now

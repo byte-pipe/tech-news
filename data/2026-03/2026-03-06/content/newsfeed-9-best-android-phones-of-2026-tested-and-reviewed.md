@@ -27,7 +27,7 @@ Best Android Phone
 Google Pixel 10a
 Read more
 $499
- 
+
 
 Amazon
 
@@ -35,11 +35,11 @@ The Smartest Smartphones
 Google Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL
 Read more
 $799
- 
+
 $691
- 
+
 (14% off)
- 
+
 
 Amazon (10)
 
@@ -47,7 +47,7 @@ Top-Tier Flagship Phones
 Samsung Galaxy S26, S26+, and S26 Ultra
 Read more
 $900
- 
+
 
 Amazon (S26)
 
@@ -55,7 +55,7 @@ Best Battery Life
 OnePlus 15 and OnePlus 15R
 Read more
 $900
- 
+
 
 Amazon (15)
 
@@ -238,7 +238,7 @@ Processor and RAM
 Storage
 Battery
 Best Overall:
- 
+
 Google Pixel 10a
 $499
 6.3-inch, 120-Hz, OLED
@@ -246,11 +246,11 @@ Tensor G4, 8 GB RAM
 128, 256 GB
 5,100 mAh
 Smartest Phones:
- 
+
 Google Pixel 10
-, 
+,
 Pixel 10 Pro
-, 
+,
 Pixel 10 Pro XL
 $799+
 6.3-inch, 6.3-inch, and 6.8-inch, 120-Hz LTPO, OLED
@@ -258,11 +258,11 @@ Tensor G5, 12 or 16 GB RAM
 128, 256, 512 GB, and 1 TB
 4,970, 4,870, and 5,200 mAh
 Top-Tier Flagships:
- 
+
 Samsung Galaxy S26
-, 
+,
 Galaxy S26+
-, 
+,
 Galaxy S26 Ultra
 $900+
 6.3-inch, 6.7-inch, 6.9-inch, 120-Hz LTPO, AMOLED
@@ -270,9 +270,9 @@ Qualcomm Snapdragon 8 Elite Gen 5, 12 GB RAM
 256, 512 GB, and 1 TB
 4,300, 4,900, and 5,000 mAh
 Best Battery Life:
- 
+
 OnePlus 15
- and 
+ and
 OnePlus 15R
 $900 and $700
 6.78-inch, 6.83 inch, 165-Hz LTPO/LTPS, OLED
@@ -280,7 +280,7 @@ Qualcomm Snapdragon 8 Elite Gen 5, 12 or 16 GB RAM | Snapdragon 8 Gen 5, 12 GB R
 256 and 512 GB
 7,300 and 7400 mAh
 Best Under $400:
- 
+
 Motorola Moto G Power 2026
 $300
 6.7-inch, 120-Hz, AMOLED
@@ -288,7 +288,7 @@ MediaTek Dimensity 6300, 8 GB RAM
 128 GB
 5,200 mAh
 Best Small Phone:
- 
+
 Motorola Razr Ultra
 $1,300
 Internal: 7-inch, 165-Hz LTPO, AMOLED, 120 Hz. External: 4-inch, 165-Hz LTPO, pOLED
@@ -296,7 +296,7 @@ Qualcomm Snapdragon 8 Elite, 16 GB RAM
 512 GB and 1 TB
 4,700 mAh
 Best Folding Phone:
- 
+
 Samsung Galaxy Z Fold7
 $2,000
 Internal: 8-inch, 120-Hz LTPO, AMOLED. External: 6.5-inch, 120-Hz LTPO, OLED
@@ -304,7 +304,7 @@ Qualcomm Snapdragon 8 Elite, 12 GB RAM
 256, 512 GB, and 1 TB
 4,400 mAh
 Best Aesthetic:
- 
+
 Nothing Phone (3)
 $799
 6.67-inch, 120-Hz, AMOLED
@@ -312,7 +312,7 @@ Qualcomm Snapdragon 8s Gen 4, 12 or 16 GB RAM
 256 and 512 GB
 5,150 mAh
 A Repairable and Sustainable Phone:
- 
+
 The Fairphone (Gen. 6)
 €549
 6.31-inch, 120-Hz LTPO, P-OLED
@@ -389,7 +389,7 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Julian Chokkattu
- is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ... 
+ is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ...
 Read More
 Senior Editor, Gear
 * LinkedIn

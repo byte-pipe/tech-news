@@ -60,57 +60,57 @@ ministack — bash
 # Start MiniStack
 
 $
- docker run 
+ docker run
 -p
- 
+
 4566:4566
 
  nahuelnucera/ministack
 
- 
+
 # Works with any AWS tool — no config changes
 
 $
- aws 
+ aws
 --endpoint-url=
 http://localhost:4566
  s3 mb s3://my-bucket
- 
+
 make_bucket: my-bucket
 
 # Real database — RDS spins up actual Postgres
 
 $
- aws 
+ aws
 --endpoint-url=
 http://localhost:4566
  rds create-db-instance \
- 
+
 --db-instance-identifier
- mydb 
+ mydb
 --engine
  postgres \
- 
+
 --master-username
- admin 
+ admin
 --master-user-password
  secret
- 
+
 ✓ Real Postgres container running on localhost:15432
 
 # Real Redis via ElastiCache
 
 $
- aws 
+ aws
 --endpoint-url=
 http://localhost:4566
  elasticache \
- create-cache-cluster 
+ create-cache-cluster
 --cache-cluster-id
- my-redis 
+ my-redis
 --engine
  redis
- 
+
 ✓ Real Redis container running on localhost:16379
 
 33 Services
@@ -324,7 +324,7 @@ Query/XML
 EFS
 
 File systems, mount targets, access points, lifecycle, backup policy — Pro-only on LocalStack
- 
+
 REST/JSON
 
 ⚖️

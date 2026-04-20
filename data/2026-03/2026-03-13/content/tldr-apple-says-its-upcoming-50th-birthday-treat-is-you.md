@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Jonny Evans
 
 # Apple says its upcoming 50th birthday treat is you
@@ -20,13 +20,13 @@ news analysis
 
 Mar 12, 2026
 5 mins
- 
+
 
 ## At first glance, the focus of the company's planned celebration seems to be on what users have done with Apple tech over the years.
 
- 
 
-							Credit: 															
+
+							Credit:
 Apple
 
 So soon afterApple’s big product launches last week, Apple CEO Tim Cookshared a letterto mark the upcoming 50th anniversary since the founding of Apple on April 1, 1976.
@@ -71,27 +71,27 @@ Please follow me on Twitter, or join me in theAppleHolic’s bar & grillandAppl
 
 Apple
 Vendors and Providers
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Jonny Evans															
+														by
+
+																Jonny Evans
 
 1. Follow Jonny Evans on LinkedIn
 
@@ -107,7 +107,7 @@ Hello, and thanks for dropping in. I'm pleased to meet you. I'm Jonny Evans, and
 * news analysis### Apple’s new $599 MacBook Neo is a nightmare for Windows OEMsMar 4, 20266 mins
 * news analysis### Apple unveils its next-gen M5 family of Mac laptopsMar 3, 20269 mins
 * news analysis### Apple announces the iPhone 17e and a new M4-powered iPad AirMar 2, 20266 mins
- 
+
 
 ## Show me more
 
@@ -117,12 +117,12 @@ Podcasts
 Videos
 
 news
- 
- 
+
+
 
 ### European companies warn EU leaders: reduced reliance on US tech could hurt profitability
 
- 
+
 By Viktor Eriksson
 Mar 13, 2026
 1 min
@@ -132,12 +132,12 @@ Laws and Regulations
 Markets
 
 news
- 
- 
+
+
 
 ### Cyber criminals too are working from home… your home
 
- 
+
 By Maxwell Cooter
 Mar 13, 2026
 2 mins
@@ -147,12 +147,12 @@ Network Security
 Security
 
 opinion
- 
- 
+
+
 
 ### How AI is changing your mind
 
- 
+
 By Mike Elgan
 Mar 13, 2026
 8 mins
@@ -162,12 +162,12 @@ Generative AI
 Natural Language Processing
 
 podcast
- 
- 
+
+
 
 ### ChatGPT Health Risks, Tycoon2FA Takedown, PC Prices Surge | Ep 57
 
- 
+
 By Arnold Davick
 Mar 12, 2026
 2 mins
@@ -175,12 +175,12 @@ Mar 12, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### AWS Outage, Chrome Biweekly Updates, BMW Humanoid Robots | Ep. 56
 
- 
+
 By Arnold Davick
 Mar 12, 2026
 2 mins
@@ -188,12 +188,12 @@ Mar 12, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### Iran Cyber Retaliation, OpenAI Defense Deal Scrutiny, FBI Wiretap Network | Ep. 55
 
- 
+
 By Arnold Davick
 Mar 12, 2026
 2 mins
@@ -201,12 +201,12 @@ Mar 12, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### ChatGPT Health Risks, Tycoon2FA Takedown, PC Prices Surge | Ep 57
 
- 
+
 By Arnold Davick and Arnold Davick
 Mar 12, 2026
 2 mins
@@ -214,12 +214,12 @@ Mar 12, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### AWS Outage, Chrome Biweekly Updates, BMW Humanoid Robots | Ep. 56
 
- 
+
 By Arnold Davick
 Mar 12, 2026
 2 mins
@@ -227,12 +227,12 @@ Mar 12, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### Iran Cyber Retaliation, OpenAI Defense Deal Scrutiny, FBI Wiretap Network | Ep. 55
 
- 
+
 By Arnold Davick
 Mar 12, 2026
 2 mins

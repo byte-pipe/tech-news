@@ -16,8 +16,8 @@ tags:
 
 ### Series:Zero Trust:Inside Microsoft’s Cybersecurity Failures
 
-			More in this series			
- 
+			More in this series
+
 
 ### Reporting Highlights
 
@@ -60,7 +60,7 @@ For years, the FedRAMP process has been equated with actual security, Sager said
 “This is not security,” he said. “This is security theater.”
 
 Despite a “lack of confidence in assessing” the security of Microsoft’s GCC High, FedRAMP authorized the product anyway.
- 
+
 Alex Wong/Getty Images
 
 ProPublica is exposing the government’s reservations about this popular product for the first time. We are also revealing Microsoft’s yearslong inability to provide the encryption documentation and evidence the federal reviewers sought.
@@ -104,7 +104,7 @@ It was through this “agency path” that GCC High entered the federal bloodstr
 Pursuant to FedRAMP’s rules, Microsoft had GCC High evaluated by a so-called third-party assessment organization, which is supposed to provide an independent review of whether the product has met federal standards. The Justice Department then performed its own evaluation of GCC High using those standards and ruled the offering acceptable.
 
 Melinda Rogers, former chief information officer for the Department of Justice
- 
+
 U.S. Department of Justice archives
 
 By early 2020, Melinda Rogers, Justice’s deputy chief information officer, made the decision official and soon deployed GCC High across the department.
@@ -148,7 +148,7 @@ In the aftermath, the Biden administration took steps to bolster the nation’s 
 Deputy Attorney General Lisa Monaco said the department would use the False Claims Act to pursue government contractors “when they fail to follow required cybersecurity standards — because we know that puts all of us at risk.”
 
 Former Deputy Attorney General Lisa Monaco. After Russian state-sponsored hackers stole sensitive data from U.S. agencies, Monaco said the Department of Justice would hold government contractors accountable for failing to uphold cybersecurity standards.
- 
+
 Stefani Reynolds/AFP via Getty Images
 
 But if Microsoft felt any pressure from the SolarWinds attack or from the Justice Department’s announcement, it didn’t manifest in the FedRAMP talks, according to former members of the FedRAMP team.
@@ -204,7 +204,7 @@ GSA did not respond to questions about back-channeling but said the “correct p
 ### FedRAMP Ends Talks
 
 FedRAMP is housed under the General Services Administration within the federal government.
- 
+
 Al Drago/Bloomberg via Getty Images
 
 The back-and-forth between the FedRAMP reviewers and Microsoft’s team went on for years with little progress. Then, in the summer of 2023, the program’s interim director, Brian Conrad, got a call from the White House that would alter the course of the review.
@@ -238,7 +238,7 @@ Meanwhile, to build support for Microsoft’s case, Bergin, the company’s poin
 The Justice official, who spoke on condition of anonymity because they were not authorized to discuss the matter, said Bergin complained that the delay was hampering Microsoft’s ability “to get this out into the market full sail.” Bergin then pushed the Justice Department to “throw around our weight” to help secure FedRAMP authorization, the official said.
 
 John Bergin in 2019, while serving as deputy assistant secretary of the Army for financial information management. He was later hired by Microsoft and served as the company’s liaison with FedRAMP during the GCC High debate.
- 
+
 Defense Visual Information Distribution Service
 
 That December, as the parties gathered to hash things out at GSA’s Washington headquarters, Justice did just that. Rogers, who by then had been promoted to the department’s chief information officer, sat beside Bergin — on the opposite side of the table from Conrad, the FedRAMP director.
@@ -278,7 +278,7 @@ In the summer of 2024, FedRAMP hired a new permanent director, government techno
 “He came back and said, ‘Yeah, this thing sucks,’” Mill recalled.
 
 Pete Waterman, FedRAMP director hired in 2024
- 
+
 FedRAMP
 
 While the team was able to work through only two of the many services included in GCC High, Exchange Online and Teams, that was enough for it to identify “issues that are fundamental” to risk management, including “timely remediation of vulnerabilities and vulnerability scanning,” according to a summary of the team’s findings reviewed by ProPublica.

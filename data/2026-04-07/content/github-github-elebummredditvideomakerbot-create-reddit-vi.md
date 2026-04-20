@@ -11,7 +11,7 @@ description: Create Reddit Videos with just✨ one command ✨. Contribute to el
 
 elebumm
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork2.5k
 * Star9.7k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -264,58 +264,58 @@ Create Reddit Videos with just✨ one command ✨
 
  Readme
 
- 
+
 
 ### License
 
  GPL-3.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 9.7k
 
  stars
- 
+
 
 ### Watchers
 
 100
 
  watching
- 
+
 
 ### Forks
 
 2.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases16
 
@@ -323,11 +323,11 @@ Activity
 
  Latest
 
- 
+
 
 Oct 28, 2025
 
- 
+
 
 + 15 releases
 
@@ -343,17 +343,17 @@ Oct 28, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -361,9 +361,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -11,7 +11,7 @@ description: An open-source, GPU-accelerated physics simulation engine built upo
 
 newton-physics
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork303
 * Star2.7k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -181,7 +181,7 @@ For detailed system requirements and tested configurations, see theinstallation 
 
 ## Quickstart
 
-pip install 
+pip install
 "
 newton[examples]
 "
@@ -194,7 +194,7 @@ To install from source withuv, see theinstallation guide.
 
 Before running the examples below, install Newton with the examples extra:
 
-pip install 
+pip install
 "
 newton[examples]
 "
@@ -359,13 +359,13 @@ Default
 
 --viewer
 
-Viewer type: 
+Viewer type:
 gl
- (OpenGL window), 
+ (OpenGL window),
 usd
- (USD file output), 
+ (USD file output),
 rerun
- (ReRun), or 
+ (ReRun), or
 null
  (no viewer).
 
@@ -373,9 +373,9 @@ gl
 
 --device
 
-Compute device to use, e.g., 
+Compute device to use, e.g.,
 cpu
-, 
+,
 cuda:0
 , etc.
 
@@ -390,7 +390,7 @@ Number of frames to simulate (for USD output).
 
 --output-path
 
-Output path for USD files (required if 
+Output path for USD files (required if
 --viewer usd
  is used).
 
@@ -456,66 +456,66 @@ newton-physics.github.io/newton/
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 2.7k
 
  stars
- 
+
 
 ### Watchers
 
 35
 
  watching
- 
+
 
 ### Forks
 
 303
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -527,9 +527,9 @@ tags
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -537,9 +537,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

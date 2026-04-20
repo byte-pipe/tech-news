@@ -19,7 +19,7 @@ TriangleUp
 Buy Now
 Multiple Buying Options Available
 $599
- 
+
 $559
  at Amazon (11-Inch)
 $799
@@ -88,7 +88,7 @@ Assuming you're set on an iPad, you might be wondering if buying a2025 M3 iPad A
 So, if you want an iPad that you can occasionally get some work done on, the M4 iPad Air is the best option, even if it's a fairly basic update this year.
 
 $599
- 
+
 $559
  at Amazon (11-Inch)
 $799
@@ -101,7 +101,7 @@ $599
 Back to top
 Triangle
 Luke Larsen
- is a product writer and reviewer at WIRED, covering laptops, PCs, Macs, monitors, and the wider PC peripheral ecosystem. He’s been reporting on tech for over a decade, previously at Digital Trends as the senior editor in computing, where he spent seven years leading the publication’s daily coverage. ... 
+ is a product writer and reviewer at WIRED, covering laptops, PCs, Macs, monitors, and the wider PC peripheral ecosystem. He’s been reporting on tech for over a decade, previously at Digital Trends as the senior editor in computing, where he spent seven years leading the publication’s daily coverage. ...
 Read More
 Product Writer & Reviewer
 

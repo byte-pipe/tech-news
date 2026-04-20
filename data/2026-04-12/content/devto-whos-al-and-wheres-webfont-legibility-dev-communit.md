@@ -36,7 +36,7 @@ Ubuntu's default"Ubuntu" fontprovides slightly more subtle and elegant legibilit
 So,Nadia Makarevich's post about AIis already legible and unambiguous, unless my mobile mail box on Android displays it out of its original context:
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

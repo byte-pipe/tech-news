@@ -59,7 +59,7 @@ Top leaders fromGoogle,Amazon,Microsoft,Oracle,Broadcom,Micron,Samsung,SK Hynixa
 CNBC got an exclusive first look at Arm's new chip lab where it's preparing the new CPU for full production later this year.
 
 Arm's head of cloud AI Mohamed Away gave CNBC's Katie Tarasov a tour of the chip lab where it created its first in-house chip, the AGI CPU, in Austin, Texas, on Friday March 6, 2026.
-Erin Black | CNBC 
+Erin Black | CNBC
 
 ### 'Create the chip that you want'
 

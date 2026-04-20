@@ -27,8 +27,8 @@ The first thing Claude Code suggested was making a bit-perfect copy of each disc
 
 The tool for this isddrescue(notdd). The difference: if a disc has scratches or bad spots,ddjust fails.ddrescueis smarter — it copies what it can, then goes back and retries the problem areas.
 
-brew 
-install 
+brew
+install
 ddrescue
 
 Enter fullscreen mode
@@ -45,28 +45,28 @@ Mount the ISO and you find aVIDEO_TSfolder full of.VOBfiles. That's the old DVD-
 
 ffmpegconverts each clip to a modern H.264 MP4:
 
-ffmpeg 
+ffmpeg
 -i
- VTS_01_1.VOB 
+ VTS_01_1.VOB
 \
 
- 
+
 -c
-:v libx264 
+:v libx264
 -crf
- 22 
+ 22
 \
 
- 
+
 -c
-:a aac 
+:a aac
 -b
-:a 128k 
+:a 128k
 \
 
- 
+
 -movflags
- +faststart 
+ +faststart
 \
 
  clip-01.mp4
@@ -118,30 +118,30 @@ Here's the script Claude Code and I ended up with. It auto-detects the disc, fig
 #!/usr/bin/env bash
 
 set
- 
+
 -euo
  pipefail
 
 if
- 
+
 [[
- 
-$# 
+
+$#
 -lt
- 1 
+ 1
 ]]
 ;
- 
+
 then
- 
+
 echo
- 
-"Usage: 
+
+"Usage:
 $0
  <disc-label>"
 
- 
-exit 
+
+exit
 1
 
 fi
@@ -157,7 +157,7 @@ RAW_DIR
 "
 $(
 dirname
- 
+
 "
 $0
 "
@@ -169,7 +169,7 @@ LOG_DIR
 "
 $(
 dirname
- 
+
 "
 $0
 "
@@ -179,37 +179,37 @@ $0
 DISC
 =
 $(
-drutil status 2>/dev/null | 
+drutil status 2>/dev/null |
 grep
- 
+
 "Name:"
- | 
+ |
 awk
- 
+
 '{print $NF}'
 )
 
 if
- 
+
 [[
- 
+
 -z
- 
+
 "
 $DISC
 "
- 
+
 ]]
 ;
- 
+
 then
- 
+
 echo
- 
+
 "No disc detected. Insert a disc and try again."
 
- 
-exit 
+
+exit
 1
 
 fi
@@ -217,63 +217,63 @@ fi
 BLOCKS
 =
 $(
-drutil status 2>/dev/null 
+drutil status 2>/dev/null
 \
 
- | 
+ |
 grep
- 
+
 "Space Used:"
- 
+
 \
 
- | 
+ |
 sed
- 
+
 's/.*blocks:[[:space:]]*//'
- 
+
 \
 
- | 
+ |
 awk
- 
+
 '{print $1}'
 )
 
 DISC_SIZE
 =
 $((
- BLOCKS 
+ BLOCKS
 *
- 
+
 2048
- 
+
 ))
 
-diskutil unmountDisk 
+diskutil unmountDisk
 "
 $DISC
 "
- 2>/dev/null 
+ 2>/dev/null
 ||
- 
+
 true
 
-ddrescue 
+ddrescue
 -b
- 2048 
+ 2048
 -s
- 
+
 "
 $DISC_SIZE
 "
- 
+
 -n
- 
+
 "
 $DISC
 "
- 
+
 "
 $RAW_DIR
 /
@@ -281,7 +281,7 @@ ${
 LABEL
 }
 .iso"
- 
+
 "
 $LOG_DIR
 /
@@ -290,21 +290,21 @@ LABEL
 }
 .log"
 
-ddrescue 
+ddrescue
 -b
- 2048 
+ 2048
 -s
- 
+
 "
 $DISC_SIZE
 "
- 
+
 -r
- 3 
+ 3
 "
 $DISC
 "
- 
+
 "
 $RAW_DIR
 /
@@ -312,7 +312,7 @@ ${
 LABEL
 }
 .iso"
- 
+
 "
 $LOG_DIR
 /
@@ -322,13 +322,13 @@ LABEL
 .log"
 
 echo
- 
-"Done! 
+
+"Done!
 $(
 ls
- 
+
 -lh
- 
+
 "
 $RAW_DIR
 /
@@ -336,9 +336,9 @@ ${
 LABEL
 }
 .iso"
- | 
+ |
 awk
- 
+
 '{print $5}'
 )
 "
@@ -354,7 +354,7 @@ The whole project took about an hour of actual thinking work, and a few hours of
 My mom can now watch her old home videos on her phone. That alone was worth it. And I can rest easy knowing these family memories are safely stored in the cloud.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

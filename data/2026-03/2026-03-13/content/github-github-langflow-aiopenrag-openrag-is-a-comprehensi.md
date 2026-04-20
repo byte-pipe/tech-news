@@ -11,7 +11,7 @@ description: 'OpenRAG is a comprehensive, single package Retrieval-Augmented Gen
 
 langflow-ai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork116
 * Star1.3k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -205,7 +205,7 @@ View all files
 
 ### Intelligent Agent-powered document search
 
- 
+
 
 OpenRAG is a comprehensive Retrieval-Augmented Generation platform that enables intelligent document search and AI-powered conversations.
 
@@ -260,41 +260,41 @@ pip install openrag-sdk
 Quick Example:
 
 import
- 
+
 asyncio
 
 from
- 
+
 openrag_sdk
- 
+
 import
- 
+
 OpenRAGClient
 
 async
- 
+
 def
- 
+
 main
 ():
- 
+
 async
- 
+
 with
- 
+
 OpenRAGClient
-() 
+()
 as
- 
+
 client
 :
- 
+
 response
- 
+
 =
- 
+
 await
- 
+
 client
 .
 chat
@@ -305,7 +305,7 @@ message
 =
 "What is RAG?"
 )
- 
+
 print
 (
 response
@@ -314,14 +314,14 @@ response
 )
 
 if
- 
+
 __name__
- 
+
 ==
- 
+
 "__main__"
 :
- 
+
 asyncio
 .
 run
@@ -338,39 +338,39 @@ npm install openrag-sdk
 Quick Example:
 
 import
- 
+
 {
- 
+
 OpenRAGClient
- 
+
 }
- 
+
 from
- 
+
 "openrag-sdk"
 ;
 
 const
- 
+
 client
- 
+
 =
- 
+
 new
- 
+
 OpenRAGClient
 (
 )
 ;
 
 const
- 
+
 response
- 
+
 =
- 
+
 await
- 
+
 client
 .
 chat
@@ -378,11 +378,11 @@ chat
 create
 (
 {
- 
+
 message
-: 
+:
 "What is RAG?"
- 
+
 }
 )
 ;
@@ -408,39 +408,39 @@ pip install openrag-mcp
 Quick Example (Cursor/Claude Desktop config):
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "openrag"
 : {
- 
+
 "command"
-: 
+:
 "
 uvx
 "
 ,
- 
+
 "args"
 : [
 "
 openrag-mcp
 "
 ],
- 
+
 "env"
 : {
- 
+
 "OPENRAG_URL"
-: 
+:
 "
 http://localhost:3000
 "
 ,
- 
+
 "OPENRAG_API_KEY"
-: 
+:
 "
 your_api_key_here
 "
@@ -474,61 +474,61 @@ www.openr.ag
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.3k
 
  stars
- 
+
 
 ### Watchers
 
 11
 
  watching
- 
+
 
 ### Forks
 
 116
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases51
 
@@ -536,11 +536,11 @@ Release 0.3.0
 
  Latest
 
- 
+
 
 Mar 11, 2026
 
- 
+
 
 + 50 releases
 
@@ -556,17 +556,17 @@ Mar 11, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -574,9 +574,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

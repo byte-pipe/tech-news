@@ -54,9 +54,9 @@ Triangle
 * HowTrump’s plot to grab Iran's nuclear fuelwould actually work
 * WIRED Health:Jointhe boldest minds in healthcare
 Kate Knibbs
- is a senior writer at WIRED. She covers prediction markets, the future of media, and how AI is changing the internet. She’s also interested in digital grey markets and regulatory battles over new tech. She is based in Chicago. Send tips to 
+ is a senior writer at WIRED. She covers prediction markets, the future of media, and how AI is changing the internet. She’s also interested in digital grey markets and regulatory battles over new tech. She is based in Chicago. Send tips to
 [email protected]
-, or reach her on Signal ... 
+, or reach her on Signal ...
 Read More
 Senior Writer
 * X

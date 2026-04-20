@@ -64,7 +64,7 @@ Triangle
 * How‘Handala’became the face of Iran’s hacker counterattacks
 * Listen:Nvidia’s ‘Super Bowl of AI,’ and Tesla disappoints
 Emily Mullin
- is a staff writer at WIRED, covering biotechnology. Previously, she was an MIT Knight Science Journalism project fellow and a staff writer covering biotechnology at Medium's OneZero. Before that, she served as an associate editor at MIT Technology Review, where she wrote about biomedicine. Her stories have also ... 
+ is a staff writer at WIRED, covering biotechnology. Previously, she was an MIT Knight Science Journalism project fellow and a staff writer covering biotechnology at Medium's OneZero. Before that, she served as an associate editor at MIT Technology Review, where she wrote about biomedicine. Her stories have also ...
 Read More
 Staff Writer
 * X

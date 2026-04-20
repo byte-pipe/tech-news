@@ -16,5 +16,5 @@ Analysis
 
 ### Claude probably wasn't secretly nerfed. Anthropic made the black box too dark.
 
-Marcus Schuler · 
+Marcus Schuler ·
 Apr 15, 2026

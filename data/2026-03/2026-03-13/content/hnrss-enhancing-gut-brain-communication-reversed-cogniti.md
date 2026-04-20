@@ -14,7 +14,7 @@ tags:
 ---
 
 Stanford Medicine researchers have found a critical link between bacteria living in the gut and aging-related cognitive decline.
- 
+
 TensorSpark/Adobe Stock
 
 ### News
@@ -29,25 +29,25 @@ Aging causes changes in gut bacteria in mice, which hampers communication betwee
 
 ##### Share Article:
 
- 
- 
+
+
 Facebook
- 
- 
- 
- 
+
+
+
+
 LinkedIn
- 
- 
- 
- 
+
+
+
+
 Twitter
- 
- 
- 
- 
+
+
+
+
 Email
- 
+
 
 The sight of a delectable plate of lasagna or the aroma of a holiday ham are sure to get hungry bellies rumbling in anticipation of a feast to come. But although we’ve all experienced the sensation of “eating” with our eyes and noses before food meets mouth, much less is known about the information superhighway, known as the vagus nerve, that sends signals in the opposite direction — from your gut straight to your brain.
 
@@ -70,10 +70,10 @@ The idea that hundreds of species of bacteria are nestled comfortably in our int
 Signals from inside the body to the brain — like those that travel from the intestines to the brain via the vagus nerve — are part of what’s called interoception. In contrast, signals from outside the body, conveyed primarily by the five senses of taste, touch, smell, vision and hearing, are called exteroception.
 
  This study indicates that we can enhance memory formation and brain activity by changing the composition of the gastrointestinal tract — a kind of remote control for the brain.”
- 
+
 
  —Christoph Thaiss
- 
+
 
 “Exteroception is basically how we perceive the outside,” Thaiss said. “We have a lot of detailed knowledge about how this works. But we know much less about how the brain senses what is going on inside the body. We don’t know how many internal senses there are, or even all of what they are sensing. It’s clear that our exteroception capabilities decline with age — we grow to need eyeglasses and hearing aids, for example. And this study shows that aging also affects interoception.”
 
@@ -115,7 +115,7 @@ About Stanford Medicine
 
 Stanford Medicineis an integrated academic health system comprising theStanford School of Medicineand adult and pediatric health care delivery systems. Together, they harness the full potential of biomedicine through collaborative research, education and clinical care for patients. For more information, please visitmed.stanford.edu.
 
- Article topics: 
+ Article topics:
 
 * Aging & Geriatrics
 * Neurology & Neurosurgery
@@ -130,7 +130,7 @@ Senior science writer Krista Conger, PhD ’99, covers cancer, stem cells, derma
 
 kristac@stanford.edu
 
- Media Contact 
+ Media Contact
 
 * Krista CongerTel 650-725-5371kristac@stanford.edu
 

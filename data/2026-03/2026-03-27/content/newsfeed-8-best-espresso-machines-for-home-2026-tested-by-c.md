@@ -27,7 +27,7 @@ Best Espresso Machine Overall
 Fellow Series 1 Espresso
 Read more
 $1,500
- 
+
 
 Fellow
 
@@ -35,11 +35,11 @@ Best Semiautomatic Espresso Machine for Most People
 Breville Barista Express
 Read more
 $680
- 
+
 $550
- 
+
 (19% off)
- 
+
 
 Amazon
 
@@ -47,7 +47,7 @@ Best Traditional Espresso Machine
 Diletta Mio Espresso Machine
 Read more
 $1,409
- 
+
 
 Amazon
 
@@ -55,11 +55,11 @@ Best Espresso Machine Under $500
 Breville Bambino
 Read more
 $300
- 
+
 $250
- 
+
 (17% off)
- 
+
 
 Amazon
 
@@ -279,7 +279,7 @@ Baratza
 ### Encore ESP
 
 $200
- 
+
 
 Williams Sonoma
 
@@ -305,11 +305,11 @@ Cozy Blue
 ### Coffee Scale with Timer
 
 $18
- 
+
 $14
- 
+
 (22% off)
- 
+
 
 Amazon
 
@@ -324,12 +324,12 @@ Breville
 ### Knock Box
 
 $44
- 
+
 
 Target
 
 $34
- 
+
 
 Best Buy
 
@@ -344,7 +344,7 @@ Brewista
 ### Frothing Pitcher
 
 $30
- 
+
 
 Amazon
 
@@ -411,17 +411,17 @@ De'Longhi La Specialista Arte Evo for $675:This semiautomaticDe'Longhi La Specia
 Back to top
 Triangle
 Matthew Korfhage
- is a staff writer and reviewer on WIRED's Gear team, where he focuses on home and kitchen devices that range from 
+ is a staff writer and reviewer on WIRED's Gear team, where he focuses on home and kitchen devices that range from
 air fryers
- and 
+ and
 coffee machines
- to 
+ to
 space heaters
-, 
+,
 water filters
-, and 
+, and
 beard trimmers
-. Before joining WIRED in 2024, he covered food, drink, business, culture, and technology for ... 
+. Before joining WIRED in 2024, he covered food, drink, business, culture, and technology for ...
 Read More
 Product Writer & Reviewer
 * LinkedIn
@@ -451,13 +451,13 @@ Rock your inner jock with a pair of sturdy, sweatproof, and tangle-proof headpho
 Adrienne So
 The Right Mattress Can Erase Your Back Pain
 If you're struggling with chronic back or shoulder pain, these mattresses could change your life
- Nena Farrell 
+ Nena Farrell
 The Best Kindles to Take Your Library Anywhere
 Here’s how Amazon’s ebook readers stack up—and which one might be right for you.
- Nena Farrell 
+ Nena Farrell
 The Best Pillows for Every Style of Sleeper
 We’ve spent over a year testing the best pillows to support your noggin, whether you snooze on your side, on your back, or in a tangle of blankets.
- Nena Farrell 
+ Nena Farrell
 The 4 Best Smart Beds You Can Buy Right Now
 These tech-packed beds can adjust firmness, track your sleep, and regulate temperature automatically. Based on my testing, here’s what's worth the investment.
 Julia Forbes

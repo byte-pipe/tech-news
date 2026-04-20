@@ -33,5 +33,5 @@ summarized_at: 2026-04-12T06:02:25.290040
 - Available for macOS / OS X, X Window System, Linux framebuffer console, and VNC clients.
 
 ## Source Code
-- The full source code is hosted on GitHub.  
+- The full source code is hosted on GitHub.
 - Documentation is being revised; older material has been relocated.

@@ -31,11 +31,11 @@ google
 Add Al Jazeera on Google
 info
 US citizen Dennis Coyle smiles after being released by Afghanistan's Taliban government, at the airport in Kabul on March 24, 2026 [Mudassir Safi/AP Photo]
-By 
+By
 Al Jazeera Staff
-, 
+,
 AFP
- and 
+ and
 Reuters
 Published On 24 Mar 2026
 24 Mar 2026

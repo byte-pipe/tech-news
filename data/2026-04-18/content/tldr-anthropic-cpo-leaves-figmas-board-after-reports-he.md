@@ -40,7 +40,7 @@ Anthropic, meanwhile, isturning down investorswho want to buy into the company a
 
 But companies like Anthropic and OpenAI still have to prove their ultra-capable models can truly replicate the domain experience and relationships of established software brands. Figma’s stock price is up 5% since Krieger’s departure was disclosed, though we’ll see what happens with the next Opus release.
 
- 
+
 
 Techcrunch event
 
@@ -63,15 +63,15 @@ REGISTER NOW
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 Figma
-, 
+,
 In Brief
-, 
+,
 mike krieger
- 
+
 
 ### Newsletters
 
@@ -96,7 +96,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

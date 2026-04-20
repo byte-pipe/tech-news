@@ -27,18 +27,18 @@ It might have something to do with the war’s threat to the AI industry.
 It might have something to do with the war’s threat to the AI industry.
 
 by
- 
- 
+
+
 Terrence O'Brien
 Mar 15, 2026, 2:13 PM UTC
 * Link
 * Share
 * Gift
 He might have realized he’s about to lose a lot of money.
- 
+
 Image: Cath Virginia / The Verge, Getty Images
 Terrence O'Brien
- 
+
 is the Verge’s weekend editor. He has over 18 years of experience, including 10 years as managing editor at Engadget.
 
 David Sacks, the White House’s AI and crypto czar, has warned that a continued war in Iran could becatastrophic. On theAll Inpodcast, Sacks said that “we should try to find the off-ramp.” He expressed concern that Iran could demolish oil and gas infrastructure across the Middle East, but more alarmingly, that it could start targeting desalination plants, which provide water to much of the region, and could lead to an even larger humanitarian crisis.
@@ -73,19 +73,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

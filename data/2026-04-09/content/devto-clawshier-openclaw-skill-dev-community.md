@@ -50,7 +50,7 @@ In terms of usage I'm expecting a couple dollars worth of OpenAI credits per mon
 There's plenty of ways this could be improved (i.e. PaddleOCR/Tesserect which would also avoid sending my pics to Sam). If Clawshier sounds interesting to you take a peek at theGitHub repo. Pura Vida!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

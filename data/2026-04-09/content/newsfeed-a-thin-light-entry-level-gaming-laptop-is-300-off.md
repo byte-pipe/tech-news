@@ -27,8 +27,8 @@ If a laptop isn’t what you’re after, we’ve also found some great gaming de
 If a laptop isn’t what you’re after, we’ve also found some great gaming deals forResident Evil RequiemandMarathon.
 
 by
- 
- 
+
+
 Cameron Faulkner
 Apr 9, 2026, 3:31 PM UTC
 * Link
@@ -38,8 +38,8 @@ If you buy something from a Verge link, Vox Media may earn a commission.See our 
 
 Image: The Verge
 Cameron Faulkner
- 
-is an editor covering deals and gaming hardware. He joined in 2018, and after a two-year stint at Polygon, he rejoined 
+
+is an editor covering deals and gaming hardware. He joined in 2018, and after a two-year stint at Polygon, he rejoined
 The Verge
  in May 2025.
 
@@ -72,19 +72,19 @@ Sign up to get the best deals on products we’ve found and tested sent to your 
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Follow topics and authors
  from this story to see more like this in your personalized homepage feed and to receive email updates.
@@ -111,19 +111,19 @@ Sign up to get the best deals on products we’ve found and tested sent to your 
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

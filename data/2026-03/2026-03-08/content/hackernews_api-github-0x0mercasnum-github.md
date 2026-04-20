@@ -15,7 +15,7 @@ tags:
 
 0x0mer
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork5
 * Star172
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -184,19 +184,19 @@ PYTHONPATH=../.. python
 Then, once in python, run:
 
 from
- 
+
 pyboy
- 
+
 import
- 
+
 PyBoy
 
 from
- 
+
 casnum
- 
+
 import
- 
+
 viewer
 
 viewer
@@ -205,22 +205,22 @@ start
 ()
 
 pyboy
- 
+
 =
- 
+
 PyBoy
 (
 '2048.gb'
-) 
+)
 # Or whatever ROM you have
 
 while
- 
+
 pyboy
 .
 tick
 ():
- 
+
 pass
 
 pyboy
@@ -288,54 +288,54 @@ This project incorporates the following third-party materials:
 ## About
 
  No description, website, or topics provided.
- 
+
 
 ### Resources
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 172
 
  stars
- 
+
 
 ### Watchers
 
 0
 
  watching
- 
+
 
 ### Forks
 
 5
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -353,9 +353,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors1
 

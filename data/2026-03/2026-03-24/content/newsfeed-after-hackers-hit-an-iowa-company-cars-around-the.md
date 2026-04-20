@@ -43,19 +43,19 @@ On March 22, the company finally announced that “our systems have resumed” a
 On Reddit’s r/intoxalock, angry users are commiserating and trying toorganize class-action lawsuits.
 
  Nate Anderson
- 
+
 
 Deputy Editor
 
  Nate Anderson
- 
+
 
 Deputy Editor
 
- Nate is the deputy editor at Ars Technica. His most recent book is 
+ Nate is the deputy editor at Ars Technica. His most recent book is
 In Emergency, Break Glass: What Nietzsche Can Teach Us About Joyful Living in a Tech-Saturated World
 , which is much funnier than it sounds.
- 
+
 
 1. 1.US to pay TotalEnergies $1 billion to stop developing offshore wind in US
 2. 2.A unique NASA satellite is falling out of orbit—this team is trying to rescue it

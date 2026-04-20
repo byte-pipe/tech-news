@@ -44,13 +44,13 @@ Americans are wary about what that means for their job prospects. The majority o
 Topics
 
 AI
-, 
+,
 future of work
-, 
+,
 Jobs
-, 
+,
 polls
- 
+
 
 ### Newsletters
 
@@ -75,7 +75,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

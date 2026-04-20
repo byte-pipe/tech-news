@@ -101,7 +101,7 @@ Triangle
 * Should you leave your phonecharging overnight?
 * Watch:How right wing influencers infiltrated the government
 Dell Cameron
- is an investigative reporter from Texas covering privacy and national security. He's the recipient of multiple Society of Professional Journalists awards and is co-recipient of an Edward R. Murrow Award for Investigative Reporting. Previously, he was a senior reporter at Gizmodo and a staff writer for the Daily ... 
+ is an investigative reporter from Texas covering privacy and national security. He's the recipient of multiple Society of Professional Journalists awards and is co-recipient of an Edward R. Murrow Award for Investigative Reporting. Previously, he was a senior reporter at Gizmodo and a staff writer for the Daily ...
 Read More
 Senior Reporter, National Security
 

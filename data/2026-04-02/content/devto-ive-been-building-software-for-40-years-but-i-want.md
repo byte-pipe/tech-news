@@ -24,7 +24,7 @@ I got this idea when I watched a story the other day about a teacher who was get
 The difference here is that I can wait a few days for the submissions to all come in and I can actually tell you what it was like then.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -35,6 +35,6 @@ Preview
 Dismiss
 
  View full discussion (11 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

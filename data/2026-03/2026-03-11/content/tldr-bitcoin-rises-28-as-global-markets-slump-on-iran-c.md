@@ -26,16 +26,16 @@ E-mail
 ## Bitcoin climbed during European trading hours even as U.S. equity futures, gold and silver fell, highlighting its relative resilience to oil shocks and war risks.
 
 Door
- 
+
 Oliver Knight
-, 
+,
 Omkar Godbole
 |
 Bewerkt door
- 
+
 Sheldon Reback
- 
-9 mrt 2026, 10:37 a..m.. 
+
+9 mrt 2026, 10:37 a..m..
 Vertaald door AI
 Make us preferred on Google
 Bitcoin rises 2.8% as global markets slump on Iran conflict (Tudoran Andrei/Shutterstock)
@@ -80,7 +80,7 @@ Meer voor jou
 ### Pudgy Penguins: Challenging the Pokemon and Disney Legacy in the Global IP Race
 
 Door
- 
+
 CoinDesk Research
 27 feb 2026
 Commissioned by
@@ -98,13 +98,13 @@ Meer voor jou
 Polymarket and Palantir team to protect integrity of sports betting as prediction markets face key moment
 
 Door
- 
+
 Helene Braun
-, 
+,
 AI Boost
 |
 Bewerkt door
- 
+
 Stephen Alpher
 7 uur geleden
 
@@ -117,7 +117,7 @@ Wat u moet weten:
 * Industry backers say stronger monitoring is needed to address concerns about insider trading and to show regulators that prediction markets can police themselves as they grow in influence.
 Lees volledig verhaal
 Latest Crypto News
- 
+
 
 #### DeFi lending platform Aave sees a rare $27 million liquidations after a price glitch
 

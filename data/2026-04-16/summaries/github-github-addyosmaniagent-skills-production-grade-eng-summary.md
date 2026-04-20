@@ -1,7 +1,7 @@
 ---
 title: GitHub - addyosmani/agent-skills: Production-grade engineering skills for AI coding agents. · GitHub
 url: https://github.com/addyosmani/agent-skills
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-16T12:04:31.354454

@@ -12,20 +12,20 @@ tags:
 ---
 
 America's first AI-fueled war is unfolding in Iran. Here's how we got here
- 
-Bloomberg journalist Katrina Manson discusses the Pentagon's secretive campaign to build America's AI warfare capabilities and the obsessive Marine colonel behind it. Her new book is 
+
+Bloomberg journalist Katrina Manson discusses the Pentagon's secretive campaign to build America's AI warfare capabilities and the obsessive Marine colonel behind it. Her new book is
 Project Maven
 .
 
- 
+
  NPR
- 
- 
+
+
 
 ### National Security
 
 LISTEN & FOLLOW
- 
+
 
 * NPR App
 * Apple Podcasts
@@ -42,20 +42,20 @@ LISTEN & FOLLOW
 March 26, 2026
 12:10 PM ET
 
- 
 
- Heard on 
+
+ Heard on
 Fresh Air
 
 Tonya Mosley
 
 #### FA: David Sanger
 
- 
- Listen
- 
 
-· 
+ Listen
+
+
+·
 
 37:51
 

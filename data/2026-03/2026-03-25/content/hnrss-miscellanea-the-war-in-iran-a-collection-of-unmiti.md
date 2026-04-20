@@ -14,17 +14,17 @@ tags:
 ---
 
 Bret Devereaux
- 
+
 
 Miscellanea
- 
+
 
 March 25, 2026
 March 25, 2026
- 
+
 
 31 Minutes
- 
+
 
 This post is a set of my observations on the current war in Iran and my thoughts on the broader strategic implications. I am not, of course, an expert on the region nor do I have access to any special information, so I am going to treat that all with a high degree of uncertainty. But I am a scholar of military history with a fair bit of training and experience in thinking about strategic problems, ancient and modern;it is this ‘guy that analyzes strategy’ focus that I want to bring to this.
 
@@ -46,9 +46,9 @@ First,Iran is a large country. It has a population just over 90 million (somewha
 
 More relevantly for us,Iran is 3.5 times larger than Iraq and roughly twice the population. That’s a handy comparison because we know what it took to invade and then hold Iraq: coalition forces peaked athalf a milliondeployed personnel during the invasion. Iran isbiggerin every way and so would demand a larger army and thus an absolutelyenormousinvestment of troops, money and fundamentallylivesin order to subdue.
 
-Via 
+Via
 Wikipedia
-, a map of Iran. This is a 
+, a map of Iran. This is a
 very big country
 . It also has a lot of very challenging terrain: lots of very arid areas, lots of high mountains and plateaus. It is a hard country to invade and a harder country to occupy.
 
@@ -184,7 +184,7 @@ This recovery period doesn’t just get pushed out by 24 hours each dayit gets l
 
 Meanwhile, disruption of fertilizer production, which relies heavily on natural gas products, has the potential to raise food prices globally. Higher global food prices – and food prices have already been elevated by the impact of the War in Ukraine – are pretty strongly associated with political instability in less developed countries. After all, a 25% increase in the price of food in a rich country isannoying– you have to eat more cheaper foods (buy more ramen, etc.). But in a poor country it meanspeople go hungry because they cannot afford foodand hungry, desperate people do hungry, desperate things. A spike in food prices was one of the core causes of the 2010 Arab Spring which led in turn to the Syrian Civil War, the refugee crisis of which significantly altered the political landscape of Europe.
 
-Via 
+Via
 Wikipedia
 , a chart of the food price index, with the spikes on either side of 2010 clearly visible; they are thought to have contributed to the intense political instability of those years (alongside the financial crisis).
 
@@ -220,9 +220,9 @@ Maybe the war will be over tomorrow. The consequences will last a lot longer.
 ### Like this:
 
 Like
- 
+
 Loading...
- 
+
 
 * Tagged
 * Current Events
@@ -232,9 +232,9 @@ Loading...
 * Strait of Hormuz
 * Strategic Sins
 * War in Iran
- 
 
- 
+
+
 
 ## Published byBret Devereaux
 

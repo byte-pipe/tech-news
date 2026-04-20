@@ -72,11 +72,11 @@ Triangle
 * How‘Handala’became the face of Iran’s hacker counterattacks
 * Listen:Nvidia’s ‘Super Bowl of AI,’ and Tesla disappoints
 Andy Greenberg
- is a senior writer for WIRED covering hacking, cybersecurity, and surveillance. He’s the author of the books 
+ is a senior writer for WIRED covering hacking, cybersecurity, and surveillance. He’s the author of the books
 Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency
- and 
+ and
 Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
-. His books ... 
+. His books ...
 Read More
 Senior Writer
 * X
@@ -101,7 +101,7 @@ The Artemis II mission crew includes the first woman, the first Black person, an
 Fernanda González
 Taylor Lorenz’s Screen Time Is Almost 17 Hours a Day
 The extremely online journalist and content creator doesn’t believe in tech hygiene and yearns for a world where “inbox infinity” is celebrated.
-Alana Hope Levinson 
+Alana Hope Levinson
 I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong
 Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.
 Reece Rogers

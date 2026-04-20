@@ -20,14 +20,14 @@ The draft describes Mythos as "larger and more intelligent than our Opus models,
 
 BREAKING 🚨: Anthropic is preparing to release new models, Mythos and Capybara, where Mythos is a completely new tier of models, bigger then Opus.In the blog post, Anthropic also highlights that this model brings significant cybersecurity risks due to its capabilities.https://t.co/8XqSaIjlVbpic.twitter.com/lr3bGIWrfq
 
-— TestingCatalog News 🗞 (@testingcatalog) 
+— TestingCatalog News 🗞 (@testingcatalog)
 March 27, 2026
 
 Anthropic confirmed the model to Fortune, calling it a "step change" and "the most capable we've built to date," with meaningful advances in reasoning, coding, and cybersecurity. That last point is where things get complicated: the draft warns that Mythos poses unprecedented cybersecurity risks, describing it as far ahead of any other AI model in cyber capabilities and cautioning that it could enable attacks that outpace defenders.
 
 Interesting excerpt for those hoping for a Mythos release:"Mythos is also a large, compute-intensive model. It’s very expensive for us to serve, and will be very expensive for our customers to use. We’re working to make the model much more efficient before any general release."…https://t.co/09Vzy3X6hApic.twitter.com/J8NK8cncXZ
 
-— M1 (@M1Astra) 
+— M1 (@M1Astra)
 March 27, 2026
 
 This is not hypothetical for Anthropic; the company previously disclosed that a Chinese state-sponsored group exploited Claude Code to infiltrate roughly thirty organizations. Cybersecurity stocks dropped following the leak, and the model's rollout plan reflects this concern: early access is restricted to organizations focused on cybersecurity defense, giving them a head start before broader availability.
@@ -39,7 +39,7 @@ In preparing to release Claude Mythos, we want to act with extra caution and und
 Join community discussion on Dev Mode Discord!
 
  Discuss 🍿
- 
+
 
 The model is also described as extremely compute-intensive and expensive to serve, with Anthropic stating it needs to become "much more efficient before any general release." This draws a parallel to OpenAI's GPT-4.5, which was similarly costly and never achieved wide adoption at its price point. Whether Mythos ultimately ships under that name, as Capybara, or under something else entirely remains unclear. No public timeline has been given, and Anthropic characterized the exposed documents as "early drafts of content considered for publication." For developers and enterprise customers, the key question is whether this fourth tier will deliver enough of a capability jump to justify what will likely be a premium price, or remain a niche research tool accessible only to well-funded organizations.
 
@@ -53,9 +53,9 @@ The model is also described as extremely compute-intensive and expensive to serv
 
 2 min read
 
- 
 
- 
+
+
 
 ## Gemini for Business prepares NotebookLM integration and Skills
 
@@ -65,9 +65,9 @@ The model is also described as extremely compute-intensive and expensive to serv
 
 2 min read
 
- 
 
- 
+
+
 
 ## xAI prepares Skills support for Grok to rival Claude and ChatGPT
 
@@ -77,9 +77,9 @@ The model is also described as extremely compute-intensive and expensive to serv
 
 2 min read
 
- 
 
- 
+
+
 
 ## Anthropic tests Claude Operon for scientific research in biology
 
@@ -89,9 +89,9 @@ The model is also described as extremely compute-intensive and expensive to serv
 
 2 min read
 
- 
 
- 
+
+
 
 ## Google tests Whiteboard Animation format in NotebookLM
 
@@ -101,9 +101,9 @@ The model is also described as extremely compute-intensive and expensive to serv
 
 2 min read
 
- 
 
- 
+
+
 
 ## ICYMI: Google launches Gemini 3.1 Flash Live on AI Studio and Gemini
 

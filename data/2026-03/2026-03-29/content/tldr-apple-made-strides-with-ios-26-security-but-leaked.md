@@ -50,37 +50,37 @@ Especially when the initial exploit gets patched, it makes sense for brokers to 
 Topics
 
 Apple
-, 
+,
 China
-, 
+,
 Coruna
-, 
+,
 cybersecurity
-, 
+,
 Darksword
-, 
+,
 Google
-, 
+,
 hackers
-, 
+,
 hacking
-, 
+,
 iOS
-, 
+,
 iverify
-, 
+,
 Lookout
-, 
+,
 russia
-, 
+,
 Security
-, 
+,
 Spyware
-, 
+,
 Zero-days
- 
 
-			Lorenzo Franceschi-Bicchierai	
+
+			Lorenzo Franceschi-Bicchierai
 
 Senior Reporter, Cybersecurity
 
@@ -88,6 +88,6 @@ Lorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers 
 
 You can contact or verify outreach from Lorenzo by emailinglorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.
 
- 
+
 
 View Bio

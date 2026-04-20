@@ -17,7 +17,7 @@ tags:
 # France pulls last gold held in US for $15B gain
 
 Staff Writer
- | April 5, 2026 | 9:57 am 
+ | April 5, 2026 | 9:57 am
 
 Markets
  
@@ -26,11 +26,11 @@ Europe
 USA
  
 Gold
-  
+ 
 
- 
 
-Stock image. 
+
+Stock image.
 
 The Bank of France (BdF) says it has pulled the remaining gold held in New York and replaced it with a similar amount of gold bars in its vaults in Paris.
 
@@ -66,13 +66,13 @@ Your email address will not be published.Required fields are marked*
 
 Save my name, email, and website in this browser for the next time I comment.
 
- 
+
 
 Δ
 
- 
 
-	No comments found. 
+
+	No comments found.
 
 ## More News
 
@@ -94,7 +94,7 @@ Commerce and Industries Minister may approve by Tuesday exports of already mined
 
 April 06, 2026 | 11:03 am
 
- 
+
 
 ## {{ commodity.name }}
 

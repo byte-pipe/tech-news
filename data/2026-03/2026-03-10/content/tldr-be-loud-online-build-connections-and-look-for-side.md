@@ -74,8 +74,8 @@ Salary
 £75,000 – £85,000
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 4 Apr 2026
 
 ## Design Director (branding)
@@ -90,8 +90,8 @@ Salary
 £64,000 – £65,000
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 4 Apr 2026
 
 ## SENIOR PROJECT MANAGER
@@ -106,8 +106,8 @@ Salary
 £54,000 – £55,000
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 2 Apr 2026
 
 ## Junior Designer & Art-Worker
@@ -120,8 +120,8 @@ Salary
 £29,000 – £31,000
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 3 Apr 2026
 
 ## Senior Producer
@@ -134,8 +134,8 @@ Salary
 Undisclosed
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 31 Mar 2026
 
 ## Mid-Level Designer - Motion & Presentation Graphics
@@ -148,8 +148,8 @@ Salary
 £32,000 – £36,000
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 30 Mar 2026
 
 ## Midweight Designer
@@ -162,8 +162,8 @@ Salary
 Undisclosed
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 2 Apr 2026
 
 ## Social Media Executive
@@ -176,8 +176,8 @@ Salary
 £32,500
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 18 Mar 2026
 
 ## Mid-Weight Designer
@@ -190,8 +190,8 @@ Salary
 £0 – £35,000
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 2 Apr 2026
 
 ## Associate Director
@@ -204,8 +204,8 @@ Salary
 Undisclosed
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 11 Mar 2026
 
 ## Job Description Apply now Project Designer, Junior Fiction - DK Plus
@@ -218,8 +218,8 @@ Salary
 £38,000
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 15 Mar 2026
 
 ## Video Editor - Freelance
@@ -232,8 +232,8 @@ Salary
 £0 – £350 / Day
 Contract Type
 Freelance
-Applications 
-Close: 
+Applications
+Close:
 27 Mar 2026
 
 ## Head of Projects & Partnerships
@@ -246,8 +246,8 @@ Salary
 £48,000 – £57,000
 Contract Type
 Full Time
-Applications 
-Close: 
+Applications
+Close:
 13 Mar 2026
 
 Powered by If You Could JobsView 89 jobs

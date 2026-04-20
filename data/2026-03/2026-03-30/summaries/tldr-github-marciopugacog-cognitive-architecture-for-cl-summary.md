@@ -18,7 +18,7 @@ summarized_at: 2026-03-30T01:03:09.678420
 - The architecture is transparent: every rule, change, and decision is visible in the git history.
 
 ## Quick Start
-- Install Claude Code, then clone the repository:  
+- Install Claude Code, then clone the repository:
   `git clone https://github.com/marciopuga/cog && cd cog`
 - Open the project in Claude Code and run the `/setup` command.
 - `/setup` converses about your life and work, then generates:
@@ -47,8 +47,8 @@ memory/
 ├─ work/acme/             ← domain‑specific (created by /setup)
 └─ glacier/               ← cold archive, indexed via glacier/index.md
 ```
-- **Hot**: current priorities, loaded every conversation.  
-- **Warm**: domain‑specific files loaded on demand.  
+- **Hot**: current priorities, loaded every conversation.
+- **Warm**: domain‑specific files loaded on demand.
 - **Glacier**: archived YAML‑front‑matter files, retrieved when needed.
 
 ### Memory Content Examples
@@ -82,15 +82,15 @@ memory/
 - An auto‑generated link index (via `/housekeeping`) helps discover connections.
 
 ### Domain Registry
-- Domains categorize life areas (personal, work, side‑project, system).  
+- Domains categorize life areas (personal, work, side‑project, system).
 - `/setup` creates a `domains.yml` file, which drives directory creation, skill generation, and routing.
 
 ## Built‑in Skills (located in `.claude/commands/`)
-- `/setup` – conversational domain configuration.  
-- `/personal` – manage family, health, calendar, daily life.  
-- `/reflect` – mine conversations, extract patterns, condense memory.  
-- `/evolve` – audit architecture and propose rule changes.  
-- `/foresight` – provide cross‑domain strategic nudges.  
-- `/scenario` – simulate decisions with timeline projections.  
+- `/setup` – conversational domain configuration.
+- `/personal` – manage family, health, calendar, daily life.
+- `/reflect` – mine conversations, extract patterns, condense memory.
+- `/evolve` – audit architecture and propose rule changes.
+- `/foresight` – provide cross‑domain strategic nudges.
+- `/scenario` – simulate decisions with timeline projections.
 
 These skills read the conventions in `CLAUDE.md`, manipulate the memory files, and keep the knowledge base coherent across sessions.

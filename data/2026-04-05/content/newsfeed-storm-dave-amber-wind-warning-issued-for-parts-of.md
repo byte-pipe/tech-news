@@ -19,7 +19,7 @@ Save
 Add as preferred on Google
 Imogen James
 Getty Images
-Storm Dave comes after Storm Chandra, which saw high winds in parts of the UK in January 
+Storm Dave comes after Storm Chandra, which saw high winds in parts of the UK in January
 
 An amber wind warning has been issued for Saturday evening as Storm Dave is expected to bring "disruptive and potentially damaging winds" to parts of the UK.
 
@@ -36,7 +36,7 @@ People are being advised to stay indoors as much as possible, and check for loos
 RAC spokesperson Rod Dennis said: "We recommend taking extra care on exposed, higher routes and being especially cautious when overtaking high‑sided vehicles, as the buffeting effect can catch some people out."
 
 PA Media
-Storm Chandra also caused heavy snow in parts of the UK 
+Storm Chandra also caused heavy snow in parts of the UK
 
 Storm Dave is set to sweep across the UK from west to east overnight on Saturday, driving the wet and windy weather.
 

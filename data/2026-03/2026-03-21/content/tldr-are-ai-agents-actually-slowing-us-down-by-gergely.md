@@ -57,7 +57,7 @@ Somehow, nobody at Anthropic tested the site to catch a plainly obvious bugwhich
 
 My complaint about Anthropic’s website being brokenwent a bit viraland got the attention of the developer team:
 
-Product manager Robert Bye confirms the bug will be fixed. Source: 
+Product manager Robert Bye confirms the bug will be fixed. Source:
 Robert Bye
 
 To their credit, three days later the bug was gone. There’s no longer a “double load” of the textbox: it takes a bit longer to load but only does so once.
@@ -135,5 +135,5 @@ Dax Raad is founder and CEO ofOpenCode, an open source AI coding agent, into whi
 ## This post is for paid subscribers
 
 Subscribe
-Already a paid subscriber? 
+Already a paid subscriber?
 Sign in

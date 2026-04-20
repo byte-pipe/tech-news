@@ -112,7 +112,7 @@ The work was carried out under the QuantERA international program on quantum tec
 * Mathematical model
 * Scientific visualization
 
- 
+
 
 Story Source:
 
@@ -140,7 +140,7 @@ releases
 /
 260401071933.htm>.
 
-University of Warsaw, Faculty of Physics. (2026, April 1). A 200-year-old light trick just transformed quantum encryption. 
+University of Warsaw, Faculty of Physics. (2026, April 1). A 200-year-old light trick just transformed quantum encryption.
 ScienceDaily
 . Retrieved April 3, 2026 from www.sciencedaily.com
 /
@@ -168,38 +168,38 @@ from ScienceDaily
 
 RELATED STORIES
 
- 
+
 Physicists Just Turned Glass Into a Powerful Quantum Security Device
 
 Mar. 24, 2026 
- Scientists have turned simple glass into a powerful quantum communication device that could safeguard data against future quantum attacks. The chip combines stability, speed, and ... 
- 
+ Scientists have turned simple glass into a powerful quantum communication device that could safeguard data against future quantum attacks. The chip combines stability, speed, and ...
+
 The Surprisingly Simple Flaw That Can Undermine Quantum Encryption
 
 Feb. 17, 2026 
- Quantum key distribution promises ultra-secure communication by using the strange rules of quantum physics to detect eavesdroppers instantly. But even the most secure quantum link can falter if the ... 
- 
+ Quantum key distribution promises ultra-secure communication by using the strange rules of quantum physics to detect eavesdroppers instantly. But even the most secure quantum link can falter if the ...
+
 “Purifying” Photons: Scientists Found a Way to Clean Light Itself
 
 Dec. 23, 2025 
- A new discovery shows that messy, stray light can be used to clean up quantum systems instead of disrupting them. University of Iowa researchers found that unwanted photons produced by lasers can be ... 
- 
+ A new discovery shows that messy, stray light can be used to clean up quantum systems instead of disrupting them. University of Iowa researchers found that unwanted photons produced by lasers can be ...
+
 Scientists Create Scalable Quantum Node Linking Light and Matter
 
 Aug. 29, 2025 
- Quantum scientists in Innsbruck have taken a major leap toward building the internet of the future. Using a string of calcium ions and finely tuned lasers, they created quantum nodes capable of ... 
- 
+ Quantum scientists in Innsbruck have taken a major leap toward building the internet of the future. Using a string of calcium ions and finely tuned lasers, they created quantum nodes capable of ...
+
 Harvard’s Ultra-Thin Chip Could Revolutionize Quantum Computing
 
 July 25, 2025 
- Researchers at Harvard have created a groundbreaking metasurface that can replace bulky and complex optical components used in quantum computing with a single, ultra-thin, nanostructured layer. This ... 
- 
+ Researchers at Harvard have created a groundbreaking metasurface that can replace bulky and complex optical components used in quantum computing with a single, ultra-thin, nanostructured layer. This ...
+
 Silicon Nanopillars for Quantum Communication
 
 Sep. 20, 2022 
- Across the world, specialists are working on implementing quantum information technologies. One important path involves light: Looking ahead, single light packages, also known as light quanta or ... 
+ Across the world, specialists are working on implementing quantum information technologies. One important path involves light: Looking ahead, single light packages, also known as light quanta or ...
 
-TRENDING AT 
+TRENDING AT
 SCITECHDAILY.com
 
 Weight-Loss Drugs Like Ozempic Are Creating a Hidden Environmental Disaster

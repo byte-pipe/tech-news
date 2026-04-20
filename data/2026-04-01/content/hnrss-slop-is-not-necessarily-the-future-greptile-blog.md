@@ -60,13 +60,13 @@ The world right now is focused on getting AI to work in the first place, not on 
 
 ## References
 
-[1] 
+[1]
 State of AI Coding report
-[2] 
+[2]
 Analysis of vendor status pages
-[3] 
+[3]
 Andrej Karpathy
-[4] 
+[4]
 A Philosophy of Software Design
 
 ## Keep Reading

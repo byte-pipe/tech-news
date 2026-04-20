@@ -50,7 +50,7 @@ Lesson:Choose wisely. Or wait to leave when sick, bored, fired, or burned out.
 A plan or intention would have made me move out and saved me a lot of pain. But like a frog in a pot, the water wasn't boiling, it was slowly heating up. By the time I noticed the exit sign, the damage was already done.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -61,7 +61,7 @@ Preview
 Dismiss
 
  View full discussion (29 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

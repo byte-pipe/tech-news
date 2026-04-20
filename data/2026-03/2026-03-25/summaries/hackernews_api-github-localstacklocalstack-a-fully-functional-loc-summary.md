@@ -32,7 +32,7 @@ summarized_at: 2026-03-25T01:03:34.897222
 ## Quickstart
 1. Start LocalStack in Docker mode: `localstack start -d`
 2. Check which services are available: `localstack status services`
-3. Example – create an SQS queue:  
+3. Example – create an SQS queue:
    `awslocal sqs create-queue --queue-name sample-queue`
 
 ## Running Options

@@ -68,5 +68,5 @@ Between January and March, almost one in four adults said they would be unable t
 
 Personal finance
 Health
-Cost of Living 
+Cost of Living
 UK economy

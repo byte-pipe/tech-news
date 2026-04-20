@@ -19,10 +19,10 @@ tags:
 
 # Apple officially announces iPhone 17e with MagSafe, 2x base storage, ‘soft pink’ color
 
- 
+
 
 Zac Hall
- | Mar 2 2026 - 6:05 am PT																
+ | Mar 2 2026 - 6:05 am PT
 
 Apple has officially announced the new iPhone 17e. This model includes Apple’s MagSafe wireless charging technology, unlikeiPhone 16ewhich simply featured basic wireless charging without MagSafe accessory support. The new model starts at the same price as its predecessor while offering twice the storage.
 
@@ -40,11 +40,11 @@ Apple today announced iPhone 17e, a powerful and more affordable addition to the
 
 ## Top comment byCCATX
 
-Liked by 12 people		
+Liked by 12 people
 
 At $599 I think this is actually a pretty compelling product and what the 16e should have been from the start.
 
- 
+
 
 View all comments
 
@@ -68,27 +68,27 @@ AirPods 4 | Apple’s most affordable AirPods with ANC
 
 FTC: We use income earning auto affiliate links.More.
 
-You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out 
+You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out
 our homepage
- for all the latest news, and follow 9to5Mac on 
+ for all the latest news, and follow 9to5Mac on
 Twitter
-, 
+,
 Facebook
-, and 
+, and
 LinkedIn
- to stay in the loop. Don’t know where to start? Check out our 
+ to stay in the loop. Don’t know where to start? Check out our
 exclusive stories
-, 
+,
 reviews
-, 
+,
 how-tos
-, and 
+, and
 subscribe to our YouTube channel
- 
+
 
 Check out 9to5Mac on YouTube for more Apple news:
 
- 
+
 
 ## Comments
 
@@ -104,10 +104,10 @@ iPhone 17e
 
 ## Author
 
- 
 
-			Zac Hall		
 
-apollozac			
+			Zac Hall
+
+apollozac
 
 Zac covers Apple news, hosts the 9to5Mac Happy Hour podcast, and created SpaceExplored.com.

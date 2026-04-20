@@ -11,7 +11,7 @@ description: 169 production-ready skills & plugins for Claude Code, OpenAI Codex
 
 alirezarezvani
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork353
 * Star2.7k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -216,58 +216,58 @@ One repo, three platforms:Works natively as Claude Code plugins, OpenAI Codex ag
 #
  Install by domain
 
-/plugin install engineering-skills@claude-code-skills 
+/plugin install engineering-skills@claude-code-skills
 #
  23 core engineering
 
-/plugin install engineering-advanced-skills@claude-code-skills 
+/plugin install engineering-advanced-skills@claude-code-skills
 #
  25 POWERFUL-tier
 
-/plugin install product-skills@claude-code-skills 
+/plugin install product-skills@claude-code-skills
 #
  8 product skills
 
-/plugin install marketing-skills@claude-code-skills 
+/plugin install marketing-skills@claude-code-skills
 #
  42 marketing skills
 
-/plugin install ra-qm-skills@claude-code-skills 
+/plugin install ra-qm-skills@claude-code-skills
 #
  12 regulatory/quality
 
-/plugin install pm-skills@claude-code-skills 
+/plugin install pm-skills@claude-code-skills
 #
  6 project management
 
-/plugin install c-level-skills@claude-code-skills 
+/plugin install c-level-skills@claude-code-skills
 #
  28 C-level advisory (full C-suite)
 
-/plugin install business-growth-skills@claude-code-skills 
+/plugin install business-growth-skills@claude-code-skills
 #
  4 business & growth
 
-/plugin install finance-skills@claude-code-skills 
+/plugin install finance-skills@claude-code-skills
 #
  1 finance
 
 #
  Or install individual skills
 
-/plugin install skill-security-auditor@claude-code-skills 
+/plugin install skill-security-auditor@claude-code-skills
 #
  Security scanner
 
-/plugin install playwright-pro@claude-code-skills 
+/plugin install playwright-pro@claude-code-skills
 #
  Playwright testing toolkit
 
-/plugin install self-improving-agent@claude-code-skills 
+/plugin install self-improving-agent@claude-code-skills
 #
  Auto-memory curation
 
-/plugin install content-creator@claude-code-skills 
+/plugin install content-creator@claude-code-skills
 #
  Single skill
 
@@ -280,7 +280,7 @@ npx agent-skills-cli add alirezarezvani/claude-skills --agent codex
 
 ### OpenClaw
 
-bash 
+bash
 <(
 curl -s https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/scripts/openclaw-install.sh
 )
@@ -656,63 +656,63 @@ alirezarezvani.medium.com/
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 2.7k
 
  stars
- 
+
 
 ### Watchers
 
 35
 
  watching
- 
+
 
 ### Forks
 
 353
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases1
 
@@ -720,7 +720,7 @@ v2.0.0 — 86 Skills, 9 Domains, 26 POWERFUL-Tier
 
  Latest
 
- 
+
 
 Mar 4, 2026
 
@@ -730,11 +730,11 @@ Mar 4, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * buymeacoffee.com/rezarezvani
 
 ## Packages0
@@ -749,17 +749,17 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -767,9 +767,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

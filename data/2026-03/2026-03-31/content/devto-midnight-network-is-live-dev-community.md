@@ -100,7 +100,7 @@ Join thecommunity on Discord.
 Check the Midnight blog regularly formore news and information.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

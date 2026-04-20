@@ -15,7 +15,7 @@ tags:
 # Tune on aREALBoss TU3
 
 Start Tuning
-Total tunes: 
+Total tunes:
 0
 
 ## FAQ
@@ -31,5 +31,5 @@ And I can use it whenever I like?
 Yes.
 ▶
 How does it work?
-Made by 
+Made by
 Kyle

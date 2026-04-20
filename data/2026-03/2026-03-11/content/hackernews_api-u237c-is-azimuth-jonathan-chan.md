@@ -15,13 +15,13 @@ tags:
 
 16 Feb 2026
  ∣ last updated 16 Feb 2026
- 
+
 
  •
- 
+
 
  Unicode
- 
+
 
 One year ago, on 28 February 2025, Wikipedia userMoyogo updated the page for Angzarrwith a citation to the type foundry H. Berthold AG’s 1950 symbol catalogue
  listing ⍼ asAzimut, Richtungswinkel, or “azimuth”, “direction angle”.

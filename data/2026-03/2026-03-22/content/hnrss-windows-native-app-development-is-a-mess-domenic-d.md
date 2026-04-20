@@ -99,7 +99,7 @@ The OneNote first-party app uses a white background, and uses bold to indicate t
 
 The Phone Link bundled app is pretty similar to OneNote.
 
-Command Palette comes from 
+Command Palette comes from
 PowerToys
 , which is supposed to be a WinUI 3 showcase. Similar to OneNote and Phone Link, but with extra "Left-click" and "Double-click" indicators seen nowhere else.
 
@@ -113,9 +113,9 @@ Discord seems similar to 1Password and Signal, but it inserted an unselectable b
 
 Steam is too cool to fit into the host OS, and just draws something completely custom.
 
-For Display Blackout, I used the 
+For Display Blackout, I used the
 approach
- provided by 
+ provided by
 WinUIEx
 . This matches the system IME menu, although not in vertical offset or horizontal centering.
 

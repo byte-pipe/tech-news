@@ -71,7 +71,7 @@ Although this struct could potentially avoid the positional parameter issue, its
 
 **Improving Code Quality**
 
-In conclusion, ensuring that every variable has well-defined and consistently typed data structures contributes significantly to writing more reliable code. Scalar types alone are not sufficient; incorporating the right structure can greatly mitigate errors and issues caused by incorrect type usage. 
+In conclusion, ensuring that every variable has well-defined and consistently typed data structures contributes significantly to writing more reliable code. Scalar types alone are not sufficient; incorporating the right structure can greatly mitigate errors and issues caused by incorrect type usage.
 
 When writing code, consider using structs or objects whenever possible for parameters and return values. This technique provides a deeper understanding of how your functions interact with different variables and helps prevent unexpected behavior.
 

@@ -11,7 +11,7 @@ description: 利用AI大模型，一键生成高清短视频 Generate short vide
 
 harry0703
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork7.2k
 * Star50.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -131,9 +131,9 @@ View all files
 
 ### 简体中文 |English
 
-只需提供一个视频 
+只需提供一个视频
 主题
- 或 
+ 或
 关键词
  ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。
 
@@ -360,7 +360,7 @@ python main.py
 模型下载后解压，整个目录放到.\MoneyPrinterTurbo\models里面，
 最终的文件路径应该是这样:.\MoneyPrinterTurbo\models\whisper-large-v3
 
-MoneyPrinterTurbo 
+MoneyPrinterTurbo
  ├─models
  │ └─whisper-large-v3
  │ config.json
@@ -399,7 +399,7 @@ app
  请根据你的实际路径设置，注意 Windows 路径分隔符为 \\
 
 ffmpeg_path
- = 
+ =
 "
 C:
 \\
@@ -481,48 +481,48 @@ Trying to load the model directly from the local cache, if it exists.
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 50.6k
 
  stars
- 
+
 
 ### Watchers
 
 365
 
  watching
- 
+
 
 ### Forks
 
 7.2k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases9
 
@@ -530,11 +530,11 @@ v1.2.6
 
  Latest
 
- 
+
 
 May 10, 2025
 
- 
+
 
 + 8 releases
 
@@ -550,17 +550,17 @@ May 10, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -568,9 +568,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

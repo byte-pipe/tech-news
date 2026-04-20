@@ -18,7 +18,7 @@ The wonderful thing about
 
 Everything here is my opinion. I do not speak for your employer.
 
-← 
+←
 August 2017
 
 September 2017
@@ -102,7 +102,7 @@ pretty small, so it was onlykindof a pain.
 A few years later, ethernet came along and solved that problem once and for
 all, by using many more bits (48, in fact) in the layer 2 address. That's
 enough bits that you can assign a different (sharded-sequential) address to
-every device that has ever been manufactured, and not have any overlaps. 
+every device that has ever been manufactured, and not have any overlaps.
 And that's exactly what they did! Thus the ethernet MAC address was born.
 
 Various LAN technologies came and went, including one of my favourites, IPX
@@ -151,7 +151,7 @@ system was invented by hardware people, basically, as a way of fooling the
 software, which had no idea about multiple buses and bridging between them,
 into working better on large networks. Hardware bridging means the bridging
 could go really really fast - as fast as the ethernet could go. Nowadays
-that doesn't sound very special, but at the time, it was a big deal. 
+that doesn't sound very special, but at the time, it was a big deal.
 Ethernet was 10 Mbps, because you could maybe saturate it by putting a bunch
 of computers on the network all at once, not because any one computer could
 saturate 10 Mbps. That was crazy talk.
@@ -219,7 +219,7 @@ address 192.168.1.1."
 In truth, that really is just complicating things. Now your operating
 system has to first look up the ethernet address of 192.168.1.1, find out
 it's 11:22:33:44:55:66, and finally generate a packet with destination
-ethernet address 11:22:33:44:55:66 and destination IP address 10.1.1.1. 
+ethernet address 11:22:33:44:55:66 and destination IP address 10.1.1.1.
 192.168.1.1 shows up nowhere in the packet; it's just an abstraction at the
 human level.
 
@@ -311,7 +311,7 @@ was initially too hard to hardware accelerate, and anyway, it didn't get
 hardware accelerated, and configuring DHCP really is a huge pain, so network
 operators just learned how to bridge bigger and bigger things. And nowadays
 big data centers are basically just SDNed, and you might as well not be
-using IP in the data center at all, because nobody's routing the packets. 
+using IP in the data center at all, because nobody's routing the packets.
 It's all just one big virtual bus network.
 
 It is, in short, a mess.
@@ -338,7 +338,7 @@ right, where literally everybody is sharing the same open-air "bus" - we
 almost universally use wifi in a mode, called "infrastructure mode," which
 simulates a giant star topology. If you have two wifi stations
 connected to the same access point, they don't talk to each other directly,
-even when they can hear each other just fine. 
+even when they can hear each other just fine.
 They send a packet to the access point, but addressed to the MAC address of
 the other node. The access point then bounces it back out to the
 destination node.
@@ -350,7 +350,7 @@ picture, here's what we want to happen:
 
 X -> [wifi] -> A -> [wifi] -> Y -> [internet] -> Z
 
-Z is the IP destination, so obviously the IP destination field has to be Z. 
+Z is the IP destination, so obviously the IP destination field has to be Z.
 Y is the router, which we learned above that we specify by using its
 ethernet MAC address in the ethernet destination field. But in wifi, X
 can't just send out a packet to Y, for various reasons (including that they
@@ -371,7 +371,7 @@ X -> [wifi] -> A -> [wifi-repeater] -> B -> [wifi] -> Y -> [internet] -> Z
 
 X->A uses three-address mode, but A->B has a problem: the ethernet source
 address is X, and the ethernet destination address is Y, but the packet on
-the air is actually being sent from A to B; X and Y aren't involved at all. 
+the air is actually being sent from A to B; X and Y aren't involved at all.
 Suffice it to say that there's a thing called 4-address mode, and it works
 pretty much like you think.
 
@@ -453,7 +453,7 @@ The killer app: mobile IP
 Of course, with a couple more decades of history behind us, now we know a
 few use cases for carrying around a computer - your phone - and letting it
 plug into oneethernet portwireless access point
-after another. We do it all the time. And with LTE, it even mostly works! 
+after another. We do it all the time. And with LTE, it even mostly works!
 With wifi, it works sometimes. Good, right?
 
 Not really, because of the Internet's secret shame: all that stuff only
@@ -506,13 +506,13 @@ sending packets with (Q,1111,Y,80). Y has no idea what that means, and
 throws it away. Meanwhile, if Y sends packets tagged (Y,80,X,1111), they
 get lost, because there is no longer an X to receive them.
 
-Imagine now that we tagged sockets without reference to their IP address. 
+Imagine now that we tagged sockets without reference to their IP address.
 For that to work, we'd need much bigger port numbers (which are currently 16
 bits). Let's make them, say, 128 or 256 bits, some kind of unique hash.
 
 Now X sends out packets to Y with tag (uuid,80). Note, the packets
 themselves still contain the (X,Y) addressing information, down at layer 3
-- that's how they get routed to the right machine in the first place. 
+- that's how they get routed to the right machine in the first place.
 But the kernel doesn'tusethe layer 3 information to decide which
 socket to deliver to; it just uses the uuid. The destination port (80 in
 this case) is only needed to initiate a new session, to identify what
@@ -603,7 +603,7 @@ Unrelated
 At last
  (2013)
 
-I'm CEO at 
+I'm CEO at
 Tailscale
 , where
 we make network problems disappear.

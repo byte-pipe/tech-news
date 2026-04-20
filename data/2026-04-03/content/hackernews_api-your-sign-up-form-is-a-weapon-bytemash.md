@@ -16,19 +16,19 @@ tags:
 
 # Your sign-up form is a weapon
 
- 
- 
- 
- 
+
+
+
+
 25 Mar, 2026
- 
- 
+
+
 |
- 
+
 Edit page
- 
- 
- 
+
+
+
 
 A couple of weeks ago, we noticed something odd onSuga. New users were signing up but not doing anything, they weren’t creating an org, a project, or a deployment, they just left an account sitting there. Most new users interact with the product pretty quickly, and we report on activity stats to try and understand blockers, so even a small spike in completely inactive accounts stood out.
 
@@ -114,24 +114,24 @@ I’d like to apologise to the people whose addresses were used, but reaching ou
 
 We’ve also added better reporting to spot patterns like this sooner next time. Overall I think our response was reasonable and fairly rapid, but we should have had these mitigations in place from the start, lesson learned.
 
- 
- 
- 
+
+
+
 Edit page
- 
+
 * security
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 Back To Top
 
- 
- 
- 
+
+
+
 Share this post on:
 Share this post via WhatsApp
 Share this post on Facebook
@@ -139,12 +139,12 @@ Share this post on X
 Share this post via Telegram
 Share this post on Pinterest
 Share this post via email
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Next Post
- 
+
 Linear sent me down a local-first rabbit hole

@@ -20,39 +20,15 @@ General
 Erik Torenberg
 
  Posted
- March 16, 2026 
+ March 16, 2026
 
 Subscribe
 
- Share 
+ Share
 
- 
 
- Share 
 
-Email
-
-X
-
-LinkedIn
-
-Facebook
-
-Hacker News
-
-WhatsApp
-
-Flipboard
-
-Reddit
-
- 
-
- Share 
-
- 
-
- Share 
+ Share
 
 Email
 
@@ -70,7 +46,31 @@ Flipboard
 
 Reddit
 
- 
+
+
+ Share
+
+
+
+ Share
+
+Email
+
+X
+
+LinkedIn
+
+Facebook
+
+Hacker News
+
+WhatsApp
+
+Flipboard
+
+Reddit
+
+
 
 Amemorable scenein the 2023 best picture winner Oppenheimer involves a meeting between the eponymous scientist and President Truman in the wake of the atomic bombing of Japan. Following some cursory discussion of international nuclear policy (on which the two do not see eye to eye), Oppenheimer confesses to Truman, “I feel I have blood on my hands.” To this, Truman mockingly pulls out a handkerchief and waves it in Oppenheimer’s face. “You think anyone in Hiroshima or Nagasaki gives a shit about who built the bomb?” he asks. “They care who dropped it.” As Oppenheimer is escorted out of the Oval, Truman loudly instructs his Secretary of State not to let “that crybaby” back in.
 
@@ -108,7 +108,7 @@ There isno iron lawof the universe that implies every new invention will be good
 
 Until then, America is all we have.
 
- About the Contributor 
+ About the Contributor
 
 #### Erik Torenberg
 
@@ -128,31 +128,31 @@ General
 
 #### The Lighthouse Playbook
 
- David Booth 
+ David Booth
 
 General
 
 #### The Case for Scaling Venture
 
- Erik Torenberg 
+ Erik Torenberg
 
 General
 
 #### Death of Software. Nah.
 
- Steven Sinofsky 
+ Steven Sinofsky
 
 General
 
 #### Gift Culture and the Intelligence Threshold
 
- Alex Danco 
+ Alex Danco
 
 General
 
 #### Why Local Tech Scenes Have Changed
 
- Alex Danco 
+ Alex Danco
 
 Recommended for You
 
@@ -160,76 +160,76 @@ General
 
 #### The Lighthouse Playbook
 
- David Booth 
+ David Booth
 
 General
 
 #### The Case for Scaling Venture
 
- Erik Torenberg 
+ Erik Torenberg
 
 General
 
 #### Death of Software. Nah.
 
- Steven Sinofsky 
+ Steven Sinofsky
 
 General
 
 #### Gift Culture and the Intelligence Threshold
 
- Alex Danco 
+ Alex Danco
 
 General
 
 #### Why Local Tech Scenes Have Changed
 
- Alex Danco 
+ Alex Danco
 
 General
 
 #### Speed-to-Power: An Energy Policy Agenda for a Thriving AI Market
 
- Matt Perault 
+ Matt Perault
 
 General
 
 #### What is New Media?
 
- Erik Torenberg, Alex Danco, Henry Williams, and Brent Liang 
+ Erik Torenberg, Alex Danco, Henry Williams, and Brent Liang
 
 General
 
 #### Why AC is cheap, but AC repair is a luxury
 
- Alex Danco 
+ Alex Danco
 
 General
 
 #### Raghu Raghuram
 
- Ben Horowitz 
+ Ben Horowitz
 
 General
 
 #### We’re Leaving Delaware, And We Think You Should Consider Leaving Too
 
- Jai Ramaswamy, Andy Hill, and Kevin McKinley 
+ Jai Ramaswamy, Andy Hill, and Kevin McKinley
 
 General
 
 #### To Help AI Startups Compete, Use Revenue-based Thresholds
 
- Guido Appenzeller and Matt Perault 
+ Guido Appenzeller and Matt Perault
 
 General
 
 #### AI Model Facts: Transparency that Works for Little Tech
 
- Matt Perault 
+ Matt Perault
 
  Load More
- 
+
 
 ## Expert News by a16z
 

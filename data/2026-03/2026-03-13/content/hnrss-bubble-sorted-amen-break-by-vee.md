@@ -28,7 +28,7 @@ Status
 Prototype
 Platforms
 HTML5
-, 
+,
 Windows
 Rating
 Rated 5.0 out of 5 stars
@@ -41,9 +41,9 @@ Made with
 Godot
 Tags
 Music
-, 
+,
 Music Production
-, 
+,
 No AI
 
 ## Download
@@ -58,5 +58,5 @@ Report
 ·
 Embed
 Games
- › 
+ ›
 Free

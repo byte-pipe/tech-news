@@ -11,7 +11,7 @@ description: A Claude Code plugin that shows what's happening - context usage, a
 
 jarrodwatts
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork231
 * Star5.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -176,9 +176,9 @@ EXDEV: cross-device link not permitted
 
 Fix: Set TMPDIR before installing:
 
-mkdir -p 
+mkdir -p
 ~
-/.cache/tmp 
+/.cache/tmp
 &&
  TMPDIR=
 ~
@@ -305,9 +305,9 @@ string
 
 expanded
 
-Layout: 
+Layout:
 expanded
- (multi-line) or 
+ (multi-line) or
 compact
  (single line)
 
@@ -341,7 +341,7 @@ boolean
 
 true
 
-Show 
+Show
 *
  for uncommitted changes
 
@@ -351,7 +351,7 @@ boolean
 
 false
 
-Show 
+Show
 ↑N ↓N
  for ahead/behind remote
 
@@ -361,7 +361,7 @@ boolean
 
 false
 
-Show file change counts 
+Show file change counts
 !M +A ✘D ?U
 
 display.showModel
@@ -370,7 +370,7 @@ boolean
 
 true
 
-Show model name 
+Show model name
 [Opus]
 
 display.showContextBar
@@ -379,24 +379,24 @@ boolean
 
 true
 
-Show visual context bar 
+Show visual context bar
 ████░░░░░░
 
 display.contextValue
 
 percent
- | 
+ |
 tokens
- | 
+ |
 remaining
 
 percent
 
 Context display format (
 45%
-, 
+,
 45k/200k
-, or 
+, or
 55%
  remaining)
 
@@ -414,7 +414,7 @@ boolean
 
 false
 
-Show session duration 
+Show session duration
 ⏱️ 5m
 
 display.showSpeed
@@ -423,7 +423,7 @@ boolean
 
 false
 
-Show output token speed 
+Show output token speed
 out: 42.1 tok/s
 
 display.showUsage
@@ -488,7 +488,7 @@ boolean
 
 false
 
-Show session slug or custom title from 
+Show session slug or custom title from
 /rename
 
 usage.cacheTtlSeconds
@@ -577,152 +577,152 @@ Troubleshooting:If usage doesn't appear:
 ### Example Configuration
 
 {
- 
+
 "lineLayout"
-: 
+:
 "
 expanded
 "
 ,
- 
+
 "pathLevels"
-: 
+:
 2
 ,
- 
+
 "elementOrder"
 : [
 "
 project
 "
-, 
+,
 "
 tools
 "
-, 
+,
 "
 context
 "
-, 
+,
 "
 usage
 "
-, 
+,
 "
 environment
 "
-, 
+,
 "
 agents
 "
-, 
+,
 "
 todos
 "
 ],
- 
+
 "gitStatus"
 : {
- 
+
 "enabled"
-: 
+:
 true
 ,
- 
+
 "showDirty"
-: 
+:
 true
 ,
- 
+
 "showAheadBehind"
-: 
+:
 true
 ,
- 
+
 "showFileStats"
-: 
+:
 true
 
  },
- 
+
 "display"
 : {
- 
+
 "showTools"
-: 
+:
 true
 ,
- 
+
 "showAgents"
-: 
+:
 true
 ,
- 
+
 "showTodos"
-: 
+:
 true
 ,
- 
+
 "showConfigCounts"
-: 
+:
 true
 ,
- 
+
 "showDuration"
-: 
+:
 true
 
  },
- 
+
 "colors"
 : {
- 
+
 "context"
-: 
+:
 "
 cyan
 "
 ,
- 
+
 "usage"
-: 
+:
 "
 cyan
 "
 ,
- 
+
 "warning"
-: 
+:
 "
 yellow
 "
 ,
- 
+
 "usageWarning"
-: 
+:
 "
 magenta
 "
 ,
- 
+
 "critical"
-: 
+:
 "
 red
 "
 
  },
- 
+
 "usage"
 : {
- 
+
 "cacheTtlSeconds"
-: 
+:
 120
 ,
- 
+
 "failureCacheTtlSeconds"
-: 
+:
 30
 
  }
@@ -774,10 +774,10 @@ git clone https://github.com/jarrodwatts/claude-hud
 
 cd
  claude-hud
-npm ci 
+npm ci
 &&
  npm run build
-npm 
+npm
 test
 
 SeeCONTRIBUTING.mdfor guidelines.
@@ -812,63 +812,63 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 5.1k
 
  stars
- 
+
 
 ### Watchers
 
 10
 
  watching
- 
+
 
 ### Forks
 
 231
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases1
 
@@ -876,7 +876,7 @@ v0.0.9
 
  Latest
 
- 
+
 
 Mar 5, 2026
 
@@ -892,9 +892,9 @@ Mar 5, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -902,9 +902,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

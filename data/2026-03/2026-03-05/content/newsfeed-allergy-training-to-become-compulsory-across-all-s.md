@@ -26,7 +26,7 @@ Senior education reporter
 Share
 Save
 PA Media
-Benedict Blythe died aged five after accidental exposure to an allergen - cow's milk protein - while at school 
+Benedict Blythe died aged five after accidental exposure to an allergen - cow's milk protein - while at school
 
 Schools in England must provide allergy awareness training for all staff for the first time, under new statutory guidance announced by the Department for Education.
 

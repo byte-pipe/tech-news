@@ -1,7 +1,7 @@
 ---
 title: Reddit - The heart of the internet
 url: https://www.reddit.com/r/worldnews/comments/1rgzyxf/croatia_declared_free_of_landmines_after_31_years/
-date: 
+date:
 site: reddit
 model: gpt-oss:120b-cloud
 summarized_at: 2026-03-01T10:17:37.149839

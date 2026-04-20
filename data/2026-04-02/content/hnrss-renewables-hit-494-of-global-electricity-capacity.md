@@ -16,7 +16,7 @@ tags:
 
 # Renewables reached nearly 50% of global electricity capacity last year
 
- 
+
 
 ## Cool, but fossil-fuel additions and AI-era power demand still muddy the climate math
 
@@ -49,10 +49,10 @@ World leaderspledgedat COP28 in 2023 to triple installed renewable energy capaci
 
 "Significant acceleration will be required to meet the goal adopted at COP28 to triple installed renewable power capacity to more than 11 TW by 2030," the agency concluded. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

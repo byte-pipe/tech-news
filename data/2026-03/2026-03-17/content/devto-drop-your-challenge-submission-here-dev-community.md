@@ -48,7 +48,7 @@ If you made something cool, drop it below.
 You might find your next supporter, collaborator, or your first real traction in this thread.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -59,6 +59,6 @@ Preview
 Dismiss
 
  View full discussion (21 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

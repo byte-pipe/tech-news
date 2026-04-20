@@ -20,7 +20,7 @@ tags:
 ## Get Hollywood's Most AdvancedColor Tools for Still Photos!
 
  Davinci Resolve
- 
+
 
 Free Download Now
 
@@ -33,7 +33,7 @@ Buy Online Now $295
 The Photo page brings Hollywood's most advanced color tools to still photography for the first time! Whether you’re a professional colorist looking to apply your skills to fashion shoots and weddings, or a photographer who wants to work beyond the limits of traditional photo applications, the Photo page unlocks the tools you need. Start with familiar photo tools including white balance, exposure and primary color adjustments, then switch to the Color page for access to the full DaVinci color grading toolset trusted by Hollywood’s best colorists! You can use DaVinci’s AI toolset as well as Resolve FX and Fusion FX. GPU acceleration lets you export faster than ever before!
 
  Davinci Resolve
- 
+
 
 Free Download Now
 
@@ -172,7 +172,7 @@ Hollywood’s most popular solution for editing, visual effects, motion graphics
 Free
 
  Free Download Now
- 
+
 
 ## DaVinci Resolve Studio 21
 

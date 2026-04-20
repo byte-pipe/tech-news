@@ -27,8 +27,8 @@ The company says it ‘never quite figured out how to make Rec Room a sustainabl
 The company says it ‘never quite figured out how to make Rec Room a sustainably profitable business.’
 
 by
- 
- 
+
+
 Jay Peters
 Mar 31, 2026, 12:29 AM UTC
 * Link
@@ -39,7 +39,7 @@ If you buy something from a Verge link, Vox Media may earn a commission.See our 
 
 Image: Rec Room
 Jay Peters
- 
+
 is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme.
 
 Rec Room, a Roblox-like social gaming platform that lets users create games and experiences for others to play, is shutting down on June 1st. Despite reaching more than 150 million players and creators and, at one point, being valuedat $3.5 billion, the company saysin a blog postthat “we never quite figured out how to make Rec Room a sustainably profitable business” and that “our costs always ended up overwhelming the revenue we brought in.”
@@ -76,19 +76,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

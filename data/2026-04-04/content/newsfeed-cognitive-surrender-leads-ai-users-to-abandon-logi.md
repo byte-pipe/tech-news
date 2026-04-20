@@ -31,24 +31,24 @@ In the past, people have often used tools from calculators to GPS systems for a 
 To measure the prevalence and effect of this kind of cognitive surrender to AI, the researchers performed a number of studies based onCognitive Reflection Tests. These tests are designed to elicit incorrect answers from participants that default to “intuitive” (System 1) thought processes, but to be relatively simple to answer for those who use more “deliberative” (System 2) thought processes.
 
  Test subjects who consulted AI were overwhelmingly willing to accept its answers without scrutiny, whether correct or not.
- 
+
 
  Credit:
- 
+
 Shaw and Nave
 
  Test subjects who consulted AI were overwhelmingly willing to accept its answers without scrutiny, whether correct or not.
 
- 
+
 
  Credit:
 
- 
 
- 
+
+
  Shaw and Nave
 
- 
+
 
 For their experiments, the researchers provided participants with optional access to an LLM chatbot that had been modified to randomly provide inaccurate answers to the CRT questions about half the time (and accurate answers the other half). The researchers hypothesized that users who frequently consulted the chatbot would let those incorrect answers “override intuitive and deliberative processes,” hurting their overall performance and highlighting the dangers of cognitive surrender.
 
@@ -63,24 +63,24 @@ In another study, adding incentives (in the form of small payments) and immediat
 Overall, across 1,372 participants and over 9,500 individual trials, the researchers found subjects were willing to accept faulty AI reasoning a whopping 73.2 percent of the time, while only overruling it 19.7 percent of the time. The researchers say this “demonstrate[s] that people readily incorporate AI-generated outputs into their decision-making processes, often with minimal friction or skepticism.” In general, “fluent, confident outputs [are treated] as epistemically authoritative, lowering the threshold for scrutiny and attenuating the meta-cognitive signals that would ordinarily route a response to deliberation,” they write.
 
  Subjects with high trust in AI were more likely to be misled by faulty responses, while those with high “Fluid IQ” were less likely to be misled by the AI.
- 
+
 
  Credit:
- 
+
 Shaw and Nave
 
  Subjects with high trust in AI were more likely to be misled by faulty responses, while those with high “Fluid IQ” were less likely to be misled by the AI.
 
- 
+
 
  Credit:
 
- 
 
- 
+
+
  Shaw and Nave
 
- 
+
 
 These kinds of effects weren’t uniform across all test subjects, though. Those who scored highly onseparate measures of so-called fluid IQwere less likely to rely on the AI for help and were more likely to overrule a faulty AI when it was consulted. Those predisposed to see AI as authoritative in a survey, on the other hand, were much more likely to be led astray by faulty AI-provided answers.
 
@@ -91,20 +91,20 @@ Despite the results, though, the researchers point out that “cognitive surrend
 In other words, letting an AI do your reasoning means your reasoning is only ever going to be as good as that AI system. As always, let the prompter beware.
 
  Kyle Orland
- 
+
 
 Senior Gaming Editor
 
  Kyle Orland
- 
+
 
 Senior Gaming Editor
 
- Kyle Orland has been the Senior Gaming Editor at Ars Technica since 2012, writing primarily about the business, tech, and culture behind video games. He has journalism and computer science degrees from University of Maryland. He once 
-wrote a whole book about 
+ Kyle Orland has been the Senior Gaming Editor at Ars Technica since 2012, writing primarily about the business, tech, and culture behind video games. He has journalism and computer science degrees from University of Maryland. He once
+wrote a whole book about
 Minesweeper
 .
- 
+
 
 1. 1."Cognitive surrender" leads AI users to abandon logical thinking, research finds
 2. 2.Netflix must refund customers for years of price hikes, Italian court rules

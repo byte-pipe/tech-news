@@ -132,34 +132,34 @@ I kept staring at Petersohn’s table, and a pattern emerged. Some operators cha
 Restructuring.You rearrange, subset, or relabel columns. The data stays the same; only the shape changes. In SQL terms:SELECT name, salary FROM employeesproduces a two-column result from a three-column table. In the dataframe library:
 
 select
- 
+
 [
 "name"
 ,
- 
+
 "salary"
 ]
- 
+
 df
 
 -- 3-column schema → 2-column schema
 
 rename
- 
+
 "salary"
- 
+
 "pay"
- 
+
 df
 
 -- Column name changes, data untouched
 
 exclude
- 
+
 [
 "department"
 ]
- 
+
 df
 
 -- Drop a column
@@ -170,57 +170,57 @@ Merging.You collapse rows that share a key, either into a summary or a collectio
 
 aggregate
 
- 
+
 [
- 
+
 mean
- 
+
 (
 col
- 
+
 @
 Double
- 
+
 "salary"
 )
- 
+
 `
 as
 `
- 
+
 "avg_salary"
 
- 
+
 ,
- 
+
 count
- 
+
 (
 col
- 
+
 @
 Text
- 
+
 "name"
 )
- 
+
 `
 as
 `
- 
+
 "headcount"
 
- 
+
 ]
 
- 
+
 (
 groupBy
- 
+
 [
 "department"
 ]
- 
+
 df
 )
 
@@ -232,36 +232,36 @@ df
 
 aggregate
 
- 
+
 [
- 
+
 collect
- 
+
 (
 col
- 
+
 @
 Double
- 
+
 "salary"
 )
- 
+
 `
 as
 `
- 
+
 "all_salaries"
- 
+
 ]
 
- 
+
 (
 groupBy
- 
+
 [
 "department"
 ]
- 
+
 df
 )
 
@@ -272,13 +272,13 @@ Multiple rows map to the same key and get combined. This covers Petersohn’s GR
 Pairing.You find rows in two tables that agree on a shared key and stitch them into a wider row. In SQL:SELECT * FROM employees INNER JOIN departments USING (department). In the library:
 
 innerJoin
- 
+
 [
 "department"
 ]
- 
+
 employees
- 
+
 departments
 
 -- Schema: (name, department, salary) + (department, budget)
@@ -290,7 +290,7 @@ Shared keys appear once; unique columns from each side are concatenated. Left an
 What doesn’t fit.Two relational operators resist this grouping. In SQL:SELECT * FROM employees EXCEPT SELECT * FROM contractorsreturns rows in one table but not the other. AndSELECT DISTINCT * FROM employeescollapses duplicate rows. In the library:
 
 distinct
- 
+
 df
 
 -- Same schema, fewer rows: removes duplicates
@@ -505,17 +505,17 @@ Each join variant is Pi with a different policy for missing matches. The schema 
 Then the topos layer. DIFFERENCE and DROP DUPLICATES don’t need schema rules because they preserve the schema. Their type signatures reflect this:
 
 distinct
- 
+
 ::
- 
+
 TypedDataFrame
- 
+
 cols
- 
+
 ->
- 
+
 TypedDataFrame
- 
+
 cols
 
 -- difference :: TypedDataFrame cols -> TypedDataFrame cols -> TypedDataFrame cols
@@ -527,202 +527,202 @@ Finally, the schema-preserving operations (filter,sort,take,sample) sit outside 
 Once you have these pieces, a pipeline is a chain of migration steps (Δ, Σ, Π) and row-level steps (DIFFERENCE, DROP DUPLICATES, filter), and each step’s output schema is a valid input for the next. In the dataframe library, Haskell’s type system enforces this. Schemas are encoded at the type level, and the compiler checks every transition:
 
 type
- 
+
 Employees
- 
+
 =
 
- 
+
 '
 [
- 
+
 Column
- 
+
 "name"
- 
+
 Text
 
- 
+
 ,
- 
+
 Column
- 
+
 "department"
- 
+
 Text
 
- 
+
 ,
- 
+
 Column
- 
+
 "salary"
- 
+
 Double
 
- 
+
 ]
 
 type
- 
+
 Departments
- 
+
 =
- 
+
 '
 [
- 
+
 Column
- 
+
 "department"
- 
+
 Text
 ,
- 
+
 Column
- 
+
 "budget"
- 
+
 Double
- 
+
 ]
 
 result
- 
+
 =
 
- 
+
 employees
 
- 
+
 &
- 
+
 T
 .
 distinct
- 
+
 -- topos: drop duplicate rows
 
- 
+
 &
- 
+
 T
 .
 innerJoin
- 
+
 @
 '
 [
 "department"
 ]
- 
+
 departments
- 
+
 -- Π: schema grows
 
- 
+
 &
- 
+
 T
 .
 derive
- 
+
 @
 "cost_ratio"
- 
+
 -- grows by one
 
- 
+
 (
 T
 .
 col
- 
+
 @
 "salary"
- 
+
 /
- 
+
 T
 .
 col
- 
+
 @
 "budget"
 )
 
- 
+
 &
- 
+
 T
 .
 select
- 
+
 @
 '
 [
 "department"
 ,
- 
+
 "cost_ratio"
 ]
- 
+
 -- Δ: schema shrinks
 
- 
+
 &
- 
+
 T
 .
 groupBy
- 
+
 @
 '
 [
 "department"
 ]
 
- 
+
 &
- 
+
 T
 .
 aggregate
- 
+
 -- Σ: collapse
 
- 
+
 (
- 
+
 T
 .
 agg
- 
+
 @
 "avg_ratio"
- 
+
 (
 T
 .
 mean
- 
+
 (
 T
 .
 col
- 
+
 @
 "cost_ratio"
 ))
 
- 
+
 $
- 
+
 T
 .
 aggNil
 
- 
+
 )
 
 Reference"salary"afterselectdrops it? Compile error. Derive a column that already exists? Compile error. Join on a key missing from one table? Compile error. If the pipeline compiles, every schema transition is valid. This isn’t Haskell-specific. Any language with sufficiently expressive types could enforce the same rules. The categorical decomposition tells you what the rules are; the type system enforces them.
@@ -730,43 +730,43 @@ Reference"salary"afterselectdrops it? Compile error. Derive a column that alread
 The patterns also help with optimization. If you know exactly what each operation does to the schema, you can reason about when it’s safe to reorder steps. The library has a lazy evaluation mode where a pipeline is built up as a logical plan before being executed:
 
 optimize
- 
+
 ::
- 
+
 Int
- 
+
 ->
- 
+
 LogicalPlan
- 
+
 ->
- 
+
 PhysicalPlan
 
 optimize
- 
+
 batchSz
- 
+
 =
 
- 
+
 toPhysical
- 
+
 batchSz
 
- 
+
 .
- 
+
 eliminateDeadColumns
 
- 
+
 .
- 
+
 pushPredicates
 
- 
+
 .
- 
+
 fuseFilters
 
 Consecutive filters get fused into one. Filters get pushed past column operations toward the data source. Derived columns that are never referenced downstream get dropped before execution. These rewrites are safe because the operations obey algebraic laws that follow from the categorical structure: restructuring and filtering commute when the filter doesn’t touch restructured columns; conjunction of predicates is the same as filtering twice; a Δ step that drops a column can’t affect a filter that doesn’t reference it.

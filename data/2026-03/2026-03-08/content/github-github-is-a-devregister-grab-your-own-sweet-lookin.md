@@ -11,7 +11,7 @@ description: Grab your own sweet-looking '.is-a.dev' subdomain. - is-a-dev/regis
 
 is-a-dev
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork18.7k
 * Star9.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -181,66 +181,66 @@ docs.is-a.dev
 
  Readme
 
- 
+
 
 ### License
 
  GPL-3.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 9.6k
 
  stars
- 
+
 
 ### Watchers
 
 26
 
  watching
- 
+
 
 ### Forks
 
 18.7k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Sponsor this project
 
@@ -248,11 +248,11 @@ Custom properties
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * https://donate.is-a.dev
 
 Learn more about GitHub Sponsors

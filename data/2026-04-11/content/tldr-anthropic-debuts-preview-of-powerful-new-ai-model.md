@@ -27,7 +27,7 @@ Anthropic also claims that it has engaged in “ongoing discussions” with fede
 
 News of Mythos was originally leaked in a data security incidentreported last month by Fortune. A draft blog about the model (then called “Capybara”) was left in an unsecured cache of documents available on a publicly inspectable data lake. The leak, which Anthropic subsequently attributed to “human error,” was originally spotted by security researchers. “‘Capybara’ is a new name for a new tier of model: larger and more intelligent than our Opus models — which were, until now, our most powerful,” the leaked document said, adding later that it was “by far the most powerful AI model we’ve ever developed,” according to the report.
 
- 
+
 
 Techcrunch event
 
@@ -56,28 +56,28 @@ Correction April 7, 2026: An earlier version of this article erroneously stated 
 Topics
 
 AI
-, 
+,
 AI
-, 
+,
 Amazon
-, 
+,
 Anthropic
-, 
+,
 Enterprise
-, 
+,
 Microsoft
-, 
+,
 Mythos
-, 
+,
 Security
- 
 
-			Lucas Ropek	
+
+			Lucas Ropek
 
 Senior Writer, TechCrunch
 
-		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. 
+		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo.
 
-You can contact Lucas by emailing lucas.ropek@techcrunch.com.	
+You can contact Lucas by emailing lucas.ropek@techcrunch.com.
 
 View Bio

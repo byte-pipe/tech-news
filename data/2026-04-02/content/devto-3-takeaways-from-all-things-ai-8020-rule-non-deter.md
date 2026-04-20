@@ -52,7 +52,7 @@ We're still so damn early in this wave of change. No time like the present to ro
 Happy hacking!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

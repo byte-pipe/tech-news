@@ -14,7 +14,7 @@ tags:
 ---
 
 Skip to product information
- 
+
 
 * Open media 1 in modal
 * Open media 2 in modal
@@ -26,7 +26,7 @@ Skip to product information
 
 1
 
- / 
+ /
 
 of
 
@@ -63,14 +63,14 @@ Delivered afterprevious batches.
 Regular price
 
  99,00 €
- 
+
 
 Regular price
 
 Sale price
 
  99,00 €
- 
+
 
 Unit price
 
@@ -79,15 +79,15 @@ Unit price
  per 
 
  Sale
- 
+
 
  Sold out
- 
+
 
 Taxes included.
 
  Quantity
- 
+
 
 (
 0
@@ -102,30 +102,30 @@ Increase quantity for Jolla Phone (Sep 2026)
 
 Add to cart
 
- 
- 
- 
+
+
+
  
- 
- 
+
+
  
- 
- 
- This item is a recurring or deferred purchase. By continuing, I agree to the 
+
+
+ This item is a recurring or deferred purchase. By continuing, I agree to the
 cancellation policy
- and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted. 
- 
+ and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+
 
  View full details
 
  Skip to product information
- 
+
 
 * Open media 1 in modal
 
 1
 
- / 
+ /
 
 of
 
@@ -142,14 +142,14 @@ Add the Memory Upgrade to your cart and get 12GB RAM instead of the standard 8GB
 Regular price
 
  50,00 €
- 
+
 
 Regular price
 
 Sale price
 
  50,00 €
- 
+
 
 Unit price
 
@@ -158,10 +158,10 @@ Unit price
  per 
 
  Sale
- 
+
 
  Sold out
- 
+
 
 Taxes included.
 
@@ -174,7 +174,7 @@ Add to cart
 We are bringing back the iconic The Other Half open innovation platform and smart covers!Help us design the first modules, and vote on features. Join theinnovation programtoday.
 
  Join In
- 
+
 
 ## Performance Meets Privacy
 
@@ -243,7 +243,7 @@ Unlike mainstream phones, Sailfish OS is designednotto harvest your data. No tra
 
 1
 
- / 
+ /
 
 of
 
@@ -254,7 +254,7 @@ of
 
 1
 
- / 
+ /
 
 of
 
@@ -272,7 +272,7 @@ It’s a community mission.
 * And now you help bring it to life
 
  Our Community
- 
+
 
 ## TECH SPECS
 
@@ -353,90 +353,90 @@ We have designed the cellular band configuration to enable potential future mark
 Sign up to show your interest and help us assess potential availability in the US and other countries outside the EU, UK, Norway and Switzerland.
 
  Email
- 
 
- 
- 
+
+
+
 
 ## Customer Reviews
 
- 
- 
- 
- 
- 
+
+
+
+
+
 Be the first to write a review
- 
- 
+
+
 Write a review
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
 0%
- 
+
 (0)
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
 0%
- 
+
 (0)
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
 0%
- 
+
 (0)
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
 0%
- 
+
 (0)
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
 0%
- 
+
 (0)
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## You may also like
 

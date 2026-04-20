@@ -122,7 +122,7 @@ After all — who didn’t want to become a detective as a kid?
 Senior developers are basicallysoftware detectives. 🕵️‍♀️
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -133,7 +133,7 @@ Preview
 Dismiss
 
  View full discussion (46 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

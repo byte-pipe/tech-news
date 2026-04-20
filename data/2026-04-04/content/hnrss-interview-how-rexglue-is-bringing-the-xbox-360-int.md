@@ -18,12 +18,12 @@ tags:
 Plus: A launcher for recompilations and a new PS1 fan translation.
 
 				by
-				
+
 Wes Fenlon
 
 March 29, 2026 — 15 min read
 
- 
+
 
 Hello hello hello! In this week-late-but-worth-the-wait edition ofROM, I'm back to my old hijinks with a meaty interview for one of the most exciting open source projects on the scene right now: ReXGlue, the Xbox 360 recompilation tool.
 
@@ -36,9 +36,9 @@ Over in the world of hardware emulation, I've had just a little bit of free time
 That's going to do it for a speedy intro this week, as I've got a date with the excellentShadow of the Ninja - Rebornto get to. If you see me wincing next time I sit down in public, assume it's because my ass is still sore from this game mercilessly kicking it.
 
 💸
-If you enjoy 
+If you enjoy
 ROM
-, I'd love it if you'd consider 
+, I'd love it if you'd consider
 a small tip
  to help me cover my monthly costs. (Follow the link and click 'change amount' to whatever you want).
 
@@ -125,7 +125,7 @@ RPCS3 lets you add games to Steam from within the emulator– Quite a cool quali
 
 You can now add games to Steam directly from RPCS3!Games can be launched directly from Steam, without going through the main RPCS3 UI.pic.twitter.com/3QUAEuGZPR
 
-— RPCS3 (@rpcs3) 
+— RPCS3 (@rpcs3)
 March 16, 2026
 
 ## Core Report
@@ -150,36 +150,36 @@ Did you ever wish your favorite light novel characters could battle it out? This
 
 in this 1v1 fighter from French Bread, select one of 12 characters and an assist from 22 titles, with some new and others you know!
 
-— 
+—
 Sick Combos (@sickcombos.bsky.social)
- 
+
 2026-03-23T04:15:28.899Z
 
-With Bio Hazard/RE's 30th Birthday in its twilight, I thought I'd revisit the original Capcom haunted mansion for this week's #ScanlineSunday. 
+With Bio Hazard/RE's 30th Birthday in its twilight, I thought I'd revisit the original Capcom haunted mansion for this week's #ScanlineSunday.
 
 A not-so-Sweet Home in its own Forest Zone and with creepily opening doors…
 
 📺: Toshiba VTW-2187, composite, snapped with an Olympus Camedia C-765
 
-— 
+—
 Sasha's Retrobytes 🏳️‍⚧️ (@sharkabytes.bsky.social)
- 
+
 2026-03-22T21:17:40.821Z
 
-SCR$: International Karate+ / ZX Spectrum via MiSTer 
+SCR$: International Karate+ / ZX Spectrum via MiSTer
 RGB / Sony WEGA 21" CRT TV
 #CRT #photography #retrogames #scanlineSunday
 
-— 
+—
 CRT ART Books (@crtartbooks.bsky.social)
- 
+
 2026-03-08T13:40:41.102Z
 
 Bought a Gameboy player recently, and i've been having SO MUCH fun seeing what all these games look like on a crt! #ScanlineSunday
 
-— 
+—
 Neimi (@aquaticscent.digital)
- 
+
 2026-03-08T19:03:34.539Z
 
 ## Sign up for Read Only Memo
@@ -189,7 +189,7 @@ Videogame emulation news and exclusive interviews, from the aesthetics of razor 
 Heck, it's free
 
  Email sent! Check your inbox to complete your signup.
- 
+
 
 No spam. Unsubscribe anytime.
 
@@ -197,44 +197,44 @@ Share this post
 
 The link has been copied!
 
- 
+
 
 ### You might also like
 
 ## DREAMM explores a galaxy of fun as it rescues more LucasArts games from obscurity
 
 		by
-		
+
 Wes Fenlon
 
- 
+
 
 ## After 17 years, Dolphin can finally emulate the Triforce arcade — except this one obscure, ambitious card game
 
 		by
-		
+
 Wes Fenlon
 
- 
+
 
 ## The follow-up: Taki Udon on the SuperStation Dock, and more Quest 64 Recomp
 
 		by
-		
+
 Wes Fenlon
 
- 
+
 
 ## "Failure can't be an option:" Taki Udon breaks down the last year of 12 hour days, 6 days a week he poured into the SuperStation, his dream MiSTer FPGA console
 
 		by
-		
+
 Wes Fenlon
 
- 
+
 
 ## Quest 64 Recompiled: The "classic" RPG like you've never seen it before
 
 		by
-		
+
 Wes Fenlon

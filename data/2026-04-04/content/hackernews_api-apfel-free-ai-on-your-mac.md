@@ -14,7 +14,7 @@ tags:
 ---
 
 v0.6.13 · macOS 26+ · MIT
- 
+
 
 # apfel
 
@@ -32,7 +32,7 @@ $
  brew install Arthur-Ficial/tap/apfel
 
  Copy
- 
+
 
 Apple Silicon · macOS Tahoe · Apple Intelligence enabled
 
@@ -158,55 +158,55 @@ It handles the things Apple's raw API does not: proper exit codes, JSON output, 
 hardware
 
  Apple Silicon (Neural Engine + GPU)
- 
+
 
 |
 
 model
 
  Apple's on-device LLM (shipped with macOS)
- 
+
 
 |
 
 sdk
 
  FoundationModels.framework (Swift API)
- 
+
 
 |
 
 apfel
 
  CLI + HTTP server + context management
- 
+
 
 |
 
 you
 
  Terminal, shell scripts, OpenAI SDKs, curl
- 
+
 
 4,096 tokens
 
  Context window (input + output)
- 
+
 
 1 model
 
  Fixed, not configurable
- 
+
 
 Swift 6.3
 
  Strict concurrency, no Xcode
- 
+
 
 MIT license
 
  Open source
- 
+
 
 ## Power tools included.
 
@@ -279,46 +279,46 @@ apfel speaks the OpenAI API. Any client library, any framework, any tool that ta
 Python
 
 from
- 
+
 openai
- 
+
 import
  OpenAI
 
 # Just change the base_url. That's it.
 
 client = OpenAI(
- 
+
 base_url
 =
 "http://localhost:11434/v1"
 ,
- 
+
 api_key
 =
 "unused"
- 
+
 # no auth needed
 
 )
 
 resp = client.chat.completions.create(
- 
+
 model
 =
 "apple-foundationmodel"
 ,
- 
+
 messages
 =[{
- 
+
 "role"
-: 
+:
 "user"
 ,
- 
+
 "content"
-: 
+:
 "What is 1+1?"
 
  }],
@@ -343,7 +343,7 @@ GitHub stars
 Two viral spikes: 123 stars on March 31, 295 on April 3. The first public release of Apple's on-device LLM as a command-line tool.
 
  Star on GitHub
- 
+
 
 0
 
@@ -400,7 +400,7 @@ $
  cd apfel && make install
 
  View on GitHub
- 
+
 
 ## The apfel family.
 

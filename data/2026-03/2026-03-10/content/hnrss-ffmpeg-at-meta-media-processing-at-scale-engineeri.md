@@ -15,9 +15,9 @@ tags:
 
 FFmpeg logo is trademark™ Fabrice Bellard / FFmpeg.org
 
-				By 
+				By
 Wes Castro
- 
+
 
 FFmpeg is truly a multi-tool for media processing. As an industry-standard tool it supports a wide variety of audio and video codecs and container formats. It can also orchestrate complex chains of filters for media editing and manipulation. For the people who use our apps, FFmpeg plays an important role in enabling new video experiences and improving the reliability of existing ones.
 

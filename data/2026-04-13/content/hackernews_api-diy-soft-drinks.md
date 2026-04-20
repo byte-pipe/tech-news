@@ -17,24 +17,24 @@ tags:
 
 Cola, orange soda, and almond soda!
 
- 
+
  2020-08-08
- 
- 
+
+
  (last update: 2026-04-10)
- 
+
  /
- 
+
 blinry
 
- 
+
  /
- 
+
 CC BY-SA 4.0
 
- 
- 
- / 
+
+
+ /
 recipe
 
 In 2020, I started making my own soft drinks, including asugar-free, caffeine-free cola!If you’re just looking for the current recipes, you can find themon GitHub. They were inspired by recipes likeOpen ColaandCube Cola.

@@ -15,13 +15,13 @@ tags:
 # The Future of Everything is Lies, I Guess
 
 Software
- 
+
 LLM
- 
+
 The Future of Everything is Lies I Guess
 
  2026-04-06
- 
+
 
 Table of Contents
 

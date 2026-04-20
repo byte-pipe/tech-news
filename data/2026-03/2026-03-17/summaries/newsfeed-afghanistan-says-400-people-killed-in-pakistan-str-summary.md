@@ -29,6 +29,6 @@ Afghanistan has accused Pakistan of targeting a hospital for drug users in the c
 
 The international community has called for a ceasefire, but so far, no significant action has been taken. The United States, along with other countries, is maintaining firm stance on holding Pakistan leaders liable for such violent crimes.
 
- Afghanistan: 8 
+ Afghanistan: 8
 
  Pakistan:   none

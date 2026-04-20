@@ -17,13 +17,13 @@ To view this video please enable JavaScript, and consider upgrading to a web bro
 ## NASA’s Artemis II Crew Launches to the Moon (Official Broadcast)
 
 Today
- 
+
 1:00 pm
 
 Artemis II is NASA’s first crewed mission under the Artemis program and will launch from the agency’s Kennedy Space Center in Florida. It will send NASA astronauts Reid Wiseman, Victor […]
 
 Today
- 
+
 1:00 pm
 
 # NASA’s Artemis II Crew Launches to the Moon (Official Broadcast)

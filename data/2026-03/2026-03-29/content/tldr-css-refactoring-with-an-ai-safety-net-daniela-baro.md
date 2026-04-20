@@ -13,9 +13,9 @@ tags:
 
 # CSS Refactoring with an AI Safety Net
 
-Published 
+Published
 15 Mar 2026
- · 
+ ·
 8
  min read
 
@@ -46,9 +46,9 @@ What
 
 1
 
-Add 
+Add
 @layer
- declaration to 
+ declaration to
 index.css
 
 2
@@ -57,13 +57,13 @@ Fix import order (variables before reset)
 
 3
 
-Consolidate duplicates, make 
+Consolidate duplicates, make
 index.css
  imports-only
 
 4
 
-Wrap each file's content in 
+Wrap each file's content in
 @layer
  blocks
 
@@ -73,7 +73,7 @@ Replace old reset with modern reset
 
 6
 
-Unified button system with shared 
+Unified button system with shared
 .btn
  base
 
@@ -104,20 +104,20 @@ I asked Claude Code to write a Playwright script that would navigate through eve
 The script drives the browser through all of them automatically — clicking navigation elements, filling out forms, waiting for transitions to fully settle, then saving a named PNG. It runs against the local dev server, so that needs to be up first. The argument passed on the command line determines the output directory, which is what makes the workflow reusable across phases:
 
 const
- label 
+ label
 =
  process.argv[
 2
-] 
+]
 ||
- 
+
 'run'
 ;
 
 const
- OUT_DIR 
+ OUT_DIR
 =
- 
+
 `scratch/css-reorg/screenshots/
 ${
 label
@@ -126,21 +126,21 @@ label
 ;
 
 async
- 
+
 function
- 
+
 capture
 (
 page
-, 
+,
 name
 ) {
 
- 
+
 const
- file 
+ file
 =
- 
+
 `
 ${
 OUT_DIR
@@ -152,11 +152,11 @@ name
 .png`
 ;
 
- 
+
 await
  page.
 screenshot
-({ path: file, fullPage: 
+({ path: file, fullPage:
 true
  });
 
@@ -190,22 +190,22 @@ await
 waitForTimeout
 (
 300
-); 
+);
 // wait for CSS transition to finish
 
 await
- 
+
 capture
-(page, 
+(page,
 'menu-open'
 );
 
 Thefull script is in the project repo. With it written, running it is one command per phase:
 
-node scripts/screenshots.js baseline 
+node scripts/screenshots.js baseline
 # before touching anything
 
-node scripts/screenshots.js phase-n 
+node scripts/screenshots.js phase-n
 # after each refactor phase
 
 ## Screenshot diffing with AI
@@ -259,15 +259,15 @@ Playwright ships with built-in visual testing viaexpect(page).toHaveScreenshot()
 test
 (
 'main view'
-, 
+,
 async
- ({ 
+ ({
 page
- }) 
+ })
 =>
  {
 
- 
+
 await
  page.
 goto
@@ -275,7 +275,7 @@ goto
 '/'
 );
 
- 
+
 await
  page.
 waitForSelector
@@ -283,9 +283,9 @@ waitForSelector
 '.main-view-card'
 );
 
- 
+
 await
- 
+
 expect
 (page).
 toHaveScreenshot

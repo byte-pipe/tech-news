@@ -17,11 +17,11 @@ tags:
 * Search Central
 * Google Search Central Blog
 
- 
- 
+
+
  Send feedback
- 
- 
+
+
 
 # Introducing a new spam policy for "back button hijacking"
 
@@ -77,10 +77,10 @@ If your site has been impacted by a manual action and you have fixed the issue, 
 Posted byChris Nelsonon behalf of the Google
  Search Quality team
 
- 
- 
+
+
  Send feedback
- 
- 
+
+
 
 Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.

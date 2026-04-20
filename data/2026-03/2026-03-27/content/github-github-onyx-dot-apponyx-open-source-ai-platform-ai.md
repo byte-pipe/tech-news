@@ -11,7 +11,7 @@ description: Open Source AI Platform - AI Chat with advanced features that works
 
 onyx-dot-app
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork2.5k
 * Star18.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -177,7 +177,7 @@ View all files
 
 ## Repository files navigation
 
- 
+
 
 Open Source AI Platform
 
@@ -291,56 +291,56 @@ onyx.app
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 18.6k
 
  stars
- 
+
 
 ### Watchers
 
 113
 
  watching
- 
+
 
 ### Forks
 
 2.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases154
 
@@ -348,11 +348,11 @@ v3.0.5
 
  Latest
 
- 
+
 
 Mar 25, 2026
 
- 
+
 
 + 153 releases
 
@@ -360,9 +360,9 @@ Mar 25, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -370,9 +370,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

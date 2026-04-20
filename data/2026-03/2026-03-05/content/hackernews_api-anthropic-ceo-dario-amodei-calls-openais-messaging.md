@@ -28,7 +28,7 @@ Amodei might not be speaking solely from a position of bitterness, here. Anthrop
 
 “It was clear in our interaction that the DoW considers mass domestic surveillance illegal and was not planning to use it for this purpose,” OpenAI’s blog post stated. “We ensured that the fact that it is not covered under lawful use was made explicit in our contract.”
 
- 
+
 
 Techcrunch event
 
@@ -57,17 +57,17 @@ And the public seems to be siding with Anthropic. ChatGPT uninstallsjumped 295%a
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 department of defense
-, 
+,
 Government & Policy
-, 
+,
 OpenAI
- 
 
-			Amanda Silberling	
+
+			Amanda Silberling
 
 Senior Writer
 
@@ -75,6 +75,6 @@ Amanda Silberling is a senior writer at TechCrunch covering the intersection of 
 
 You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.
 
- 
+
 
 View Bio

@@ -29,7 +29,7 @@ Duration (hh:mm)
 Price
 1
 Lima
- → 
+ →
 Arequipa
 osm
 osm
@@ -42,7 +42,7 @@ Cruz del Sur
 $35.50
 2
 Arequipa
- → 
+ →
 Puno
 osm
 osm
@@ -55,7 +55,7 @@ Cruz del Sur
 $15.04
 3
 Puno
- → 
+ →
 Copacabana
 osm
 osm
@@ -68,7 +68,7 @@ Titicaca
 $7.43
 4
 Copacabana
- → 
+ →
 LaPaz
 osm
 osm
@@ -81,7 +81,7 @@ minivan
 $7.29
 5
 La Paz
- → 
+ →
 Uyuni
 osm
 osm
@@ -94,7 +94,7 @@ Todo Turismo
 $41.84
 6
 Uyuni
- → 
+ →
 Potosí
 osm
 osm
@@ -107,7 +107,7 @@ Trans Quijarro
 $5.83
 7
 Potosí
- → 
+ →
 Sucre
 osm
 osm
@@ -120,7 +120,7 @@ Trans Emperador
 $4.37
 8
 Sucre
- → 
+ →
 Santa Cruz
 osm
 osm
@@ -133,7 +133,7 @@ Flota Capital
 $25.36
 9
 Santa Cruz
- → 
+ →
 Asunción
 osm
 osm
@@ -146,7 +146,7 @@ Stel Turismo
 $123.91
 10
 Asunción
- → 
+ →
 São Paulo
 osm
 osm
@@ -159,7 +159,7 @@ Expreso Paraguay
 $67.83
 11
 São Paulo
- → 
+ →
 Rio de Janeiro
 osm
 osm
@@ -191,7 +191,7 @@ Arequipa → Puno
 Arequipa → Puno
 Puno bus station
 Puno → Copacabana
-Copacabana → LaPaz requires a ferry crossing at the 
+Copacabana → LaPaz requires a ferry crossing at the
 Strait of Tiquina
 Protests block streets in El Alto causing detours
 La Paz → Uyuni

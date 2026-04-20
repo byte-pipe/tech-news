@@ -11,7 +11,7 @@ description: Automate the process of making money online. Contribute to Fujiwara
 
 FujiwaraChoki
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork1.4k
 * Star14k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -250,64 +250,64 @@ Automate the process of making money online.
 
  Readme
 
- 
+
 
 ### License
 
  AGPL-3.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 14k
 
  stars
- 
+
 
 ### Watchers
 
 115
 
  watching
- 
+
 
 ### Forks
 
 1.4k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Sponsor this project
 
  
 
- 
+
 
  Sponsor
 
@@ -315,11 +315,11 @@ Activity
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -327,9 +327,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -337,9 +337,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

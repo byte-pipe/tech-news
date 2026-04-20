@@ -37,7 +37,7 @@ By default, accounts on the social fitness app are set to public, publishing you
 
 An anonymized graphic from Le Monde showing the run in question
 Image Credits:
-Le Monde 
+Le Monde
 (opens in a new window)
 
 Macron hadpublicly announcedthe carrier’s deployment, so its movement through the Mediterranean was already known. But obviously, the French military is still put at serious risk when an officer telegraphs its precise location. A representative for the French Armed Forces told Le Monde that the officer’s behavior “does not comply with current guidelines,” which “sailors are regularly made aware of.”
@@ -47,13 +47,13 @@ Strava did not respond to TechCrunch’s request for comment before publication,
 Topics
 
 France
-, 
+,
 In Brief
-, 
+,
 Security
-, 
+,
 Strava
- 
+
 
 ### Newsletters
 
@@ -78,7 +78,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

@@ -21,7 +21,7 @@ BBC Scotland
 Share
 Save
 Getty Images
-Teacher Gwen Mayor and her class at Dunblane Primary School 
+Teacher Gwen Mayor and her class at Dunblane Primary School
 
 Even after 30 years, the facts of the Dunblane massacre are hard to comprehend.
 

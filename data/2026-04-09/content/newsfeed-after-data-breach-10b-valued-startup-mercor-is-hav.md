@@ -30,7 +30,7 @@ In a spot of good news for Mercor (maybe…we’ll see): OpenAI also confirmed t
 
 In the meantime, five of Mercor’s contractors have filed lawsuits,Business Insider reports, over their alleged personal data exposure. Whether these suits represent a serious threat or are just opportunistic and a nuisance remains to be seen. (Mercor declined to comment.)
 
- 
+
 
 Techcrunch event
 
@@ -63,29 +63,29 @@ But Mercor itself was not a Delve customer, the company confirmed to TechCrunch.
 Topics
 
 AI
-, 
+,
 Delve
-, 
+,
 LiteLLM
-, 
+,
 Mercor
-, 
+,
 Startups
-, 
+,
 TC
- 
 
-			Julie Bort	
+
+			Julie Bort
 
 Venture Editor
 
-		Julie Bort is the Startups/Venture Desk editor for TechCrunch. 
+		Julie Bort is the Startups/Venture Desk editor for TechCrunch.
 
 
-You can contact or verify outreach from Julie by emailing 
+You can contact or verify outreach from Julie by emailing
 julie.bort@techcrunch.com
- or via 
+ or via
 @Julie188
- on X.	
+ on X.
 
 View Bio

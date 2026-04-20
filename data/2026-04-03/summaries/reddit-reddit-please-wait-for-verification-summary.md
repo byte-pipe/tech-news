@@ -1,7 +1,7 @@
 ---
 title: Reddit - Please wait for verification
 url: https://www.reddit.com/r/worldnews/comments/1s9nzyv/france_tells_us_nato_serves_euroatlantic_security/
-date: 
+date:
 site: reddit
 model: gpt-oss:120b-cloud
 summarized_at: 2026-04-03T01:03:21.576335

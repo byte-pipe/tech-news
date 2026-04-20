@@ -21,15 +21,15 @@ Mathew J. Schwartz
  (
 euroinfosec
 ) •
- 
+
 March 31, 2026
     
- 
+
 
 * Credit Eligible
 * Get Permission
 
-Art Gilliland, CEO, Delinea 
+Art Gilliland, CEO, Delinea
 
 Enterprises are racing to adopt artificial intelligence, but most lack the controls to manage what they're deploying, said Art Gilliland, CEO at Delinea.
 

@@ -30,5 +30,5 @@ summarized_at: 2026-03-15T06:01:57.261832
 | Pro | $2.99 | Up to 3 hosted apps, full analytics, custom domain support, priority support. |
 | Ultra | $20.00 | Designed for teams and power users (features not detailed). |
 
-- Billing options: monthly or yearly (20 % discount for yearly subscription).  
+- Billing options: monthly or yearly (20 % discount for yearly subscription).
 - “Pro” is positioned for active builders with multiple apps, while “Ultra” targets collaborative or high‑usage scenarios.

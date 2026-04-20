@@ -14,7 +14,7 @@ tags:
 
 fabienmillet
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork0
 * Star130
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -127,18 +127,18 @@ View all files
 Jellyfin client for the Nintendo Wii
 
   
- 
+
 
   
- 
+
 
   
- 
+
 
   
- 
 
-WiiFinis an experimental homebrew client forJellyfin, built specifically for the Nintendo Wii. 
+
+WiiFinis an experimental homebrew client forJellyfin, built specifically for the Nintendo Wii.
 It provides a lightweight, console-friendly media browsing and playback experience, written in C++ usingGRRLIBandMPlayer CE.
 
 ## ⚠️Project Status
@@ -237,58 +237,58 @@ wiifin.zipna.me/
 
  Readme
 
- 
+
 
 ### License
 
  GPL-3.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 130
 
  stars
- 
+
 
 ### Watchers
 
 1
 
  watching
- 
+
 
 ### Forks
 
 0
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases2
 
@@ -296,11 +296,11 @@ v0.1.1
 
  Latest
 
- 
+
 
 Apr 12, 2026
 
- 
+
 
 + 1 release
 
@@ -316,9 +316,9 @@ Apr 12, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -326,9 +326,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

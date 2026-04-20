@@ -42,9 +42,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -66,9 +66,9 @@ Indeed, one word that appears time and time again inCanva's blog post announcing
 
 The move also marks a move towards greater 'pro' functionality for Affinity. Many users havewanted the suiteto include a motion design component, and now it (sort of) does. And users are cautiously optimistic about the acquisition. "If they can integrate it into the suite seamlessly, I'm all for it," one Redditor comments.
 
- 
 
-We spoke to Canva founder Cliff Obrecht in 2023 
+
+We spoke to Canva founder Cliff Obrecht in 2023
 (Image credit: Canva/Future)
 
 Canva's somewhat aggressive moves into 'pro' tools are somewhat surprising givencommentsCEO Cliff Obrecht made to Creative Bloq in 2023. "We certainly don't see Canva as a straight-up replacement for tools like Figma orAdobe," Obrecht told Creative Bloq. "But pros' projects can be scaled through Canva. A business card is a great example. When a designer created a master business card design 10 years ago, they would actually have to change the text on every business card, you could only do that inInDesignor inPhotoshop. Now, the designer can do the master work, and then smaller changes can be made by different teams in Canva."
@@ -83,9 +83,9 @@ Sign up to Creative Bloq's daily newsletter, which brings you the latest news an
 
 Contact me with news and offers from other Future brands
 Receive email from us on behalf of our trusted partners or sponsors
- 
 
-Is Canva becoming the first real threat to Adobe? 
+
+Is Canva becoming the first real threat to Adobe?
 (Image credit: Flux)
 
 Fromprice hikesto questionableAI policies, Adobe users have been citing several reasons for jumping ship in recent years. But ultimately the lack of a viable alternative to the entire Creative Cloud suite has made switching providers difficult. Butsubscription fatigue is real, and designers are hungry for something new in 2026.

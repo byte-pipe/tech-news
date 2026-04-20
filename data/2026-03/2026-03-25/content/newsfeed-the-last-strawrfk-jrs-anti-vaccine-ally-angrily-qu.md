@@ -43,17 +43,17 @@ Joseph Hibbeln, another ACIP member selected by Kennedy who often disagreed with
 “It is good that Dr. Malone wishes now to decrease drama regarding vaccines,” Hibbeln said.
 
  Beth Mole
- 
+
 
 Senior Health Reporter
 
  Beth Mole
- 
+
 
 Senior Health Reporter
 
  Beth is Ars Technica’s Senior Health Reporter. Beth has a Ph.D. in microbiology from the University of North Carolina at Chapel Hill and attended the Science Communication program at the University of California, Santa Cruz. She specializes in covering infectious diseases, public health, and microbes.
- 
+
 
 1. 1.All of DOGE’s work could be undone as lawsuit against Musk proceeds
 2. 2.US to pay TotalEnergies $1 billion to stop developing offshore wind in US

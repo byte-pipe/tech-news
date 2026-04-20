@@ -5,10 +5,10 @@ generated_at: '2026-04-06T01:03:41.080633'
 ---
 
 ## Executive Summary
-- Anthropic announced that Claude Code users will now pay separately for third‑party tools like OpenClaw, sparking debate over AI‑service pricing.  
-- A fake Claude Code source repository on GitHub was found distributing the Vidar infostealer and GhostSocks proxy malware, highlighting the rapid weaponisation of AI hype.  
-- NASA’s Artemis II crewed lunar flyby proceeded successfully, while the Orion spacecraft’s waste‑management system drew public attention after urine froze on‑board.  
-- In software tooling, the new Lisette language brings Rust‑style safety to Go, and a growing chorus of developers warns that AI‑generated static sites cannot replace traditional CMS platforms.  
+- Anthropic announced that Claude Code users will now pay separately for third‑party tools like OpenClaw, sparking debate over AI‑service pricing.
+- A fake Claude Code source repository on GitHub was found distributing the Vidar infostealer and GhostSocks proxy malware, highlighting the rapid weaponisation of AI hype.
+- NASA’s Artemis II crewed lunar flyby proceeded successfully, while the Orion spacecraft’s waste‑management system drew public attention after urine froze on‑board.
+- In software tooling, the new Lisette language brings Rust‑style safety to Go, and a growing chorus of developers warns that AI‑generated static sites cannot replace traditional CMS platforms.
 - Regulatory scrutiny intensified as Manhattan prosecutors examined whether prediction‑market betting may breach insider‑trading laws.
 
 ---

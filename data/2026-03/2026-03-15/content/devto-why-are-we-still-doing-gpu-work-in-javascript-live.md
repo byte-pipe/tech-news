@@ -89,23 +89,23 @@ Each particle has two properties:
 Every frame we update it like this:
 
 x
- 
+
 =
- 
+
 x
- 
+
 +
- 
+
 vx
 
 y
- 
+
 =
- 
+
 y
- 
+
 +
- 
+
 vy
 
 Enter fullscreen mode
@@ -117,82 +117,82 @@ And if the particle hits the screen border, we reverse the velocity to simulate 
 Pseudo-code:
 
 for
- 
+
 each
- 
+
 particle
 :
 
- 
+
 pos
- 
+
 +=
- 
+
 vel
 
- 
+
 if
- 
+
 pos
 .
 x
- 
+
 <
- 
+
 0
- 
+
 or
- 
+
 pos
 .
 x
- 
+
 >
- 
+
 width
 :
 
- 
+
 vel
 .
 x
- 
+
 =
- 
+
 -
 vel
 .
 x
 
- 
+
 if
- 
+
 pos
 .
 y
- 
+
 <
- 
+
 0
- 
+
 or
- 
+
 pos
 .
 y
- 
+
 >
- 
+
 height
 :
 
- 
+
 vel
 .
 y
- 
+
 =
- 
+
 -
 vel
 .
@@ -205,9 +205,9 @@ Exit fullscreen mode
 So the compute shader effectively performs something like:
 
 pos
- 
+
 +=
- 
+
 vel
 
 Enter fullscreen mode
@@ -383,7 +383,7 @@ Because WebGPU is essentially a new, modern standard for working with GPUs in th
 And for the kinds of problems GPUs were designed to solve — it can be incredibly powerful. 🚀
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -394,7 +394,7 @@ Preview
 Dismiss
 
  View full discussion (54 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

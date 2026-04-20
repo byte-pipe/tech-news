@@ -53,22 +53,22 @@ Notably, AI-powered agencies are one of the things Y Combinator mentioned in its
 Topics
 
 AI
-, 
+,
 customer support
-, 
+,
 Fundraising
-, 
+,
 Startups
-, 
+,
 Y Combinator
- 
 
-			Ivan Mehta	
+
+			Ivan Mehta
 
 Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.
 
 You can contact or verify outreach from Ivan by emailingim@ivanmehta.comor via encrypted message at ivan.42 on Signal.
 
- 
+
 
 View Bio

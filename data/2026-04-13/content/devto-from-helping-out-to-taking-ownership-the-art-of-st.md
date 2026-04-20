@@ -75,7 +75,7 @@ Whether you want to be a maintainer or move into a leadership role, it's all abo
 If you want to take on more ownership, stop looking for the next big milestone to hit and start looking for the next person who needs a hand. That’s how you truly become part of the heart of the project.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

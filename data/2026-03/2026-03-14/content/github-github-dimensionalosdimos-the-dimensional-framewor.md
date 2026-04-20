@@ -11,7 +11,7 @@ description: The Dimensional Framework. Contribute to dimensionalOS/dimos develo
 
 dimensionalOS
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork142
 * Star697
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -197,7 +197,7 @@ Watch video
 ### Perception
 
  Detectors, 3d projections, VLMs, Audio processing
- 
+
 
 ### Agentive Control, MCP
 
@@ -221,28 +221,28 @@ Watch video
 
 ### Misc
 
- 🟩 
+ 🟩
 Unitree Go2 pro/air
 
- 🟥 
+ 🟥
 Unitree B1
 
- 🟨 
+ 🟨
 Unitree G1
 
- 🟨 
+ 🟨
 Xarm
 
- 🟨 
+ 🟨
 AgileX Piper
 
- 🟧 
+ 🟧
 MAVLink
 
- 🟧 
+ 🟧
 DJI Mavic
 
- 🟥 
+ 🟥
 Force Torque Sensor
 
 🟩 stable 🟨 beta 🟧 alpha 🟥 experimental
@@ -255,7 +255,7 @@ Important
 
 ## Interactive Install
 
-curl -fsSL https://raw.githubusercontent.com/dimensionalOS/dimos/main/scripts/install.sh 
+curl -fsSL https://raw.githubusercontent.com/dimensionalOS/dimos/main/scripts/install.sh
 |
  bash
 
@@ -275,14 +275,14 @@ Full system requirements, tested configs, and dependency tiers:docs/requirements
 
 ### Quickstart
 
-uv venv --python 
+uv venv --python
 "
 3.12
 "
 
 source
  .venv/bin/activate
-uv pip install 
+uv pip install
 '
 dimos[base,unitree]
 '
@@ -298,7 +298,7 @@ dimos --replay run unitree-go2
 #
  Install with simulation support
 
-uv pip install 
+uv pip install
 '
 dimos[base,unitree,sim]
 '
@@ -360,15 +360,15 @@ Webcam demo — no hardware needed
 
 dimos run keyboard-teleop-xarm7
 
-Keyboard teleop with mock xArm7 (requires 
+Keyboard teleop with mock xArm7 (requires
 dimos[manipulation]
  extra)
 
 dimos --simulation run unitree-go2-agentic-ollama
 
-Quadruped agentic with local LLM (requires 
+Quadruped agentic with local LLM (requires
 Ollama
- + 
+ +
 ollama serve
 )
 
@@ -378,35 +378,35 @@ Full blueprint docs:docs/usage/blueprints.md
 
 ThedimosCLI manages the full lifecycle — run blueprints, inspect state, interact with agents, and call skills via MCP.
 
-dimos run unitree-go2-agentic-mcp --daemon 
+dimos run unitree-go2-agentic-mcp --daemon
 #
  Start in background
 
-dimos status 
+dimos status
 #
  Check what's running
 
-dimos log -f 
+dimos log -f
 #
  Follow logs
 
-dimos agent-send 
+dimos agent-send
 "
 explore the room
 "
- 
+
 #
  Send agent a command
 
-dimos mcp list-tools 
+dimos mcp list-tools
 #
  List available MCP skills
 
-dimos mcp call relative_move --arg forward=0.5 
+dimos mcp call relative_move --arg forward=0.5
 #
  Call a skill directly
 
-dimos stop 
+dimos stop
 #
  Shut down
 
@@ -419,126 +419,126 @@ Full CLI reference:docs/usage/cli.md
 See below a simple robot connection module that sends streams of continuouscmd_velto the robot and receivescolor_imageto a simpleListenermodule. DimOS Modules are subsystems on a robot that communicate with other modules using standardized messages.
 
 import
- 
+
 threading
-, 
+,
 time
-, 
+,
 numpy
- 
+
 as
- 
+
 np
 
 from
- 
+
 dimos
 .
 core
 .
 blueprints
- 
+
 import
- 
+
 autoconnect
 
 from
- 
+
 dimos
 .
 core
 .
 core
- 
+
 import
- 
+
 rpc
 
 from
- 
+
 dimos
 .
 core
 .
 module
- 
+
 import
- 
+
 Module
 
 from
- 
+
 dimos
 .
 core
 .
 stream
- 
+
 import
- 
+
 In
-, 
+,
 Out
 
 from
- 
+
 dimos
 .
 msgs
 .
 geometry_msgs
- 
+
 import
- 
+
 Twist
 
 from
- 
+
 dimos
 .
 msgs
 .
 sensor_msgs
- 
+
 import
- 
+
 Image
-, 
+,
 ImageFormat
 
 class
- 
+
 RobotConnection
 (
 Module
 ):
- 
+
 cmd_vel
-: 
+:
 In
 [
 Twist
 ]
- 
+
 color_image
-: 
+:
 Out
 [
 Image
 ]
 
- 
+
 @
 rpc
 
- 
+
 def
- 
+
 start
 (
 self
 ):
- 
+
 threading
 .
 Thread
@@ -548,7 +548,7 @@ target
 self
 .
 _image_loop
-, 
+,
 daemon
 =
 True
@@ -556,56 +556,56 @@ True
 start
 ()
 
- 
+
 def
- 
+
 _image_loop
 (
 self
 ):
- 
+
 while
- 
+
 True
 :
- 
+
 img
- 
+
 =
- 
+
 Image
 .
 from_numpy
 (
- 
+
 np
 .
 zeros
 ((
 120
-, 
+,
 160
-, 
+,
 3
-), 
+),
 np
 .
 uint8
 ),
- 
+
 format
 =
 ImageFormat
 .
 RGB
 ,
- 
+
 frame_id
 =
 "camera_optical"
 ,
  )
- 
+
 self
 .
 color_image
@@ -614,7 +614,7 @@ publish
 (
 img
 )
- 
+
 time
 .
 sleep
@@ -623,31 +623,31 @@ sleep
 )
 
 class
- 
+
 Listener
 (
 Module
 ):
- 
+
 color_image
-: 
+:
 In
 [
 Image
 ]
 
- 
+
 @
 rpc
 
- 
+
 def
- 
+
 start
 (
 self
 ):
- 
+
 self
 .
 color_image
@@ -655,12 +655,12 @@ color_image
 subscribe
 (
 lambda
- 
+
 img
-: 
+:
 print
 (
-f"image 
+f"image
 {
 img
 .
@@ -676,22 +676,22 @@ height
 ))
 
 if
- 
+
 __name__
- 
+
 ==
- 
+
 "__main__"
 :
- 
+
 autoconnect
 (
- 
+
 RobotConnection
 .
 blueprint
 (),
- 
+
 Listener
 .
 blueprint
@@ -711,43 +711,43 @@ Blueprints can be composed, remapped, and have transports overridden ifautoconne
 A blueprint example that connects the image stream from a robot to an LLM Agent for reasoning and action execution.
 
 from
- 
+
 dimos
 .
 core
 .
 blueprints
- 
+
 import
- 
+
 autoconnect
 
 from
- 
+
 dimos
 .
 core
 .
 transport
- 
+
 import
- 
+
 LCMTransport
 
 from
- 
+
 dimos
 .
 msgs
 .
 sensor_msgs
- 
+
 import
- 
+
 Image
 
 from
- 
+
 dimos
 .
 robot
@@ -757,60 +757,60 @@ unitree
 go2
 .
 connection
- 
+
 import
- 
+
 go2_connection
 
 from
- 
+
 dimos
 .
 agents
 .
 agent
- 
+
 import
- 
+
 agent
 
 blueprint
- 
+
 =
- 
+
 autoconnect
 (
- 
+
 go2_connection
 (),
- 
+
 agent
 (),
 ).
 transports
 ({(
 "color_image"
-, 
+,
 Image
-): 
+):
 LCMTransport
 (
 "/color_image"
-, 
+,
 Image
 )})
 
 # Run the blueprint
 
 if
- 
+
 __name__
- 
+
 ==
- 
+
 "__main__"
 :
- 
+
 blueprint
 .
 build
@@ -866,51 +866,51 @@ The Dimensional Framework
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 697
 
  stars
- 
+
 
 ### Watchers
 
 11
 
  watching
- 
+
 
 ### Forks
 
 142
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases11
 
@@ -918,11 +918,11 @@ Release v0.0.11: Dimensional now fully Agent-native, Interactive Visualizer, Dro
 
  Latest
 
- 
+
 
 Mar 12, 2026
 
- 
+
 
 + 10 releases
 
@@ -938,17 +938,17 @@ Mar 12, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -956,9 +956,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

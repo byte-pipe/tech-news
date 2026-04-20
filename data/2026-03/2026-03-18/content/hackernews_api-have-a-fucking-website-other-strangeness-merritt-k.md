@@ -33,5 +33,5 @@ merritt k
 Essay
 
 Tech
-, 
+,
 Yelling

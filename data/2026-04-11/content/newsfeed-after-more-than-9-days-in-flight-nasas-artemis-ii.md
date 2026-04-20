@@ -12,7 +12,7 @@ tags:
 ---
 
 After more than 9 days in flight, NASA’s Artemis II is set to return to Earth
- 
+
 The four astronauts on NASA's Artemis II lunar mission are set to return to Earth Friday evening. The crew is wrapping up a journey around the moon with a planned splashdown off San Diego, Calif.
 
 ### Space
@@ -22,20 +22,20 @@ The four astronauts on NASA's Artemis II lunar mission are set to return to Eart
 April 10, 2026
 5:30 PM ET
 
- 
 
- Heard on 
+
+ Heard on
 All Things Considered
 
 Nell Greenfieldboyce
 
 #### After 10 days in flight, NASA’s Artemis II is set to return to Earth
 
- 
- Listen
- 
 
-· 
+ Listen
+
+
+·
 
 6:53
 

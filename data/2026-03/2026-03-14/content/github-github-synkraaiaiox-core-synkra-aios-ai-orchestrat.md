@@ -11,7 +11,7 @@ description: 'Synkra AIOS: AI-Orchestrated System for Full Stack Development - C
 
 SynkraAI
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork753
 * Star2.3k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -276,9 +276,9 @@ Codex CLI
 
 Parcial/limitada
 
-Parte das automações depende de 
+Parte das automações depende de
 AGENTS.md
-, 
+,
 /skills
 , MCP e fluxo operacional
 
@@ -326,7 +326,7 @@ Onde a inteligência vive. Toda execução, decisões e automação acontecem aq
 
 Agentes (
 @dev
-, 
+,
 @qa
 ), workflows, comandos
 
@@ -537,14 +537,14 @@ O AIOX oferece uma CLI moderna e cross-platform com comandos intuitivos:
 #
  Gerenciamento de Projeto (com assistente interativo)
 
-npx aiox-core init 
+npx aiox-core init
 <
 nome-projeto
 >
  [opções]
  --force Forçar criação em diretório não vazio
  --skip-install Pular instalação de dependências npm
- --template 
+ --template
 <
 nome
 >
@@ -563,10 +563,10 @@ npx aiox-core install [opções]
 
 npx aiox-core --version Exibir versão instalada
 npx aiox-core --help Exibir ajuda detalhada
-npx aiox-core info Exibir informações 
+npx aiox-core info Exibir informações
 do
  sistema
-npx aiox-core doctor Executar diagnósticos 
+npx aiox-core doctor Executar diagnósticos
 do
  sistema
 npx aiox-core doctor --fix Corrigir problemas detectados automaticamente
@@ -636,14 +636,14 @@ $ npx aiox-core install
  (34.2s)
 
 Next steps:
- 
+
 cd
  my-awesome-project
- aiox-core doctor 
+ aiox-core doctor
 #
  Verify installation
 
- aiox-core --help 
+ aiox-core --help
 #
  See available commands
 
@@ -674,7 +674,7 @@ $ npx aiox-core doctor
 
 🏥 AIOX System Diagnostics
 
-✔ Node.js version: v20.10.0 (meets requirement: 
+✔ Node.js version: v20.10.0 (meets requirement:
 >
 =18.0.0)
 ✔ npm version: 10.2.3
@@ -705,44 +705,44 @@ $ npx aiox-core --help
 
 Usage: aiox-core [options] [command]
 
-AIOX: AI-Orchestrated System 
+AIOX: AI-Orchestrated System
 for
  Full Stack Development
 
 Options:
  -V, --version output the version number
- -h, --help display 
+ -h, --help display
 help
- 
+
 for
- 
+
 command
 
 Commands:
- init 
+ init
 <
 project-name
 >
  Create new AIOX project with interactive wizard
- install [options] Install AIOX 
+ install [options] Install AIOX
 in
  current directory
  info Display system information
  doctor [options] Run system diagnostics and health checks
- 
+
 help
- [command] display 
+ [command] display
 help
- 
+
 for
- 
+
 command
 
-Run 
+Run
 '
 aiox-core <command> --help
 '
- 
+
 for
  detailed information about each command.
 
@@ -907,39 +907,39 @@ User Request → Spec Pipeline → Execution Engine → QA Review → Working Co
 #
  1. Criar spec a partir de requisito
 
-@pm 
+@pm
 *
 gather-requirements
-@architect 
+@architect
 *
 assess-complexity
-@analyst 
+@analyst
 *
 research-deps
-@pm 
+@pm
 *
 write-spec
-@qa 
+@qa
 *
 critique-spec
 
 #
  2. Executar spec aprovada
 
-@architect 
+@architect
 *
 create-plan
-@architect 
+@architect
 *
 create-context
-@dev 
+@dev
 *
 execute-subtask 1.1
 
 #
  3. QA Review
 
-@qa 
+@qa
 *
 review-build STORY-42
 
@@ -1071,36 +1071,36 @@ Camada 3: CI/CD (Cloud - Obrigatório para merge)
 #
  Validações locais
 
-npm run lint 
+npm run lint
 #
  ESLint
 
-npm run typecheck 
+npm run typecheck
 #
  TypeScript
 
-npm 
+npm
 test
- 
+
 #
  Testes
 
-npm run test:coverage 
+npm run test:coverage
 #
  Testes com cobertura
 
 #
  Validador AIOX
 
-node .aiox-core/utils/aiox-validator.js pre-commit 
+node .aiox-core/utils/aiox-validator.js pre-commit
 #
  Validação pre-commit
 
-node .aiox-core/utils/aiox-validator.js pre-push 
+node .aiox-core/utils/aiox-validator.js pre-push
 #
  Validação pre-push
 
-node .aiox-core/utils/aiox-validator.js stories 
+node .aiox-core/utils/aiox-validator.js stories
 #
  Validar todas stories
 
@@ -1249,66 +1249,66 @@ github.com/allfluence/aios-core
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 2.3k
 
  stars
- 
+
 
 ### Watchers
 
 56
 
  watching
- 
+
 
 ### Forks
 
 753
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases36
 
@@ -1316,11 +1316,11 @@ v5.0.0 — AIOX Rebrand
 
  Latest
 
- 
+
 
 Mar 5, 2026
 
- 
+
 
 + 35 releases
 
@@ -1330,11 +1330,11 @@ Mar 5, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * https://f5.ventures/aioxfullstack
 
 ## Packages0
@@ -1349,17 +1349,17 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1367,9 +1367,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -89,7 +89,7 @@ X
 
 This month
 by
- 
+
 Simon Larsén
 3
  min read
@@ -100,7 +100,7 @@ In early February, we announced But, the GitButler CLI. The announcement had one
 
 This month
 by
- 
+
 Pavel Laptev
 17
  min read
@@ -111,7 +111,7 @@ CSS now does what Floating UI, GSAP ScrollTrigger, Framer Motion, and react-sele
 
 This month
 by
- 
+
 Estib Vega
 7
  min read

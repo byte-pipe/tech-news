@@ -42,22 +42,22 @@ Rogers concluded it would take a “concentration of capital and talent” to so
 Last month, Defense Secretary Pete Hegseth visited True Anomaly on a nationwide tour of defense contractors. The message from Hegseth, like from other military officials, was a call to ramp up production, and fast. This mantra cuts across all domains, from ships to airplanes, missiles, and satellites. For that to happen, contractors must focus on fielding proven technology at lower cost. The military’s interest in funding research is waning.
 
  Defense Secretary Pete Hegseth (second from right) and True Anomaly cofounder Even Rogers (right) examine an engineering model of True Anomaly’s Jackal spacecraft in Centennial, Colorado.
- 
+
 
  Credit:
  True Anomaly
- 
+
 
  Defense Secretary Pete Hegseth (second from right) and True Anomaly cofounder Even Rogers (right) examine an engineering model of True Anomaly’s Jackal spacecraft in Centennial, Colorado.
 
- 
+
 
  Credit:
 
- 
+
  True Anomaly
 
- 
+
 
 In November,Reuters reportedTrue Anomaly was one of multiple companies that won Space Force contracts to build prototypes of space-based interceptors and related technology for the Pentagon’sGolden Dome missile defense shield. Rogers declined to discuss Golden Dome with Ars, but it doesn’t take a rocket scientist to understand how the Jackal platform’s built-in agility might be useful to take on fast-moving ballistic or hypersonic missiles.
 
@@ -92,22 +92,22 @@ Ars:We’ve heard Space Force generals begin to talk about dogfighting in space.
 Rogers:I think it’s a perfectly fine term. It’s certainly a fun term. But dogfighting in space doesn’t quite have the drama of an aerial dogfight. So, we should come up with a different one. Maybe not dogfight. Maybe sloth fight. Sloth fighting in space. The tempo is slower, and the relative velocities are slower. True Anomaly is building the technologies that will allow for a very high-tempo engagement activity in space that is more akin to what we see in terrestrial operations. But I think today it’s more like sloth fight than dogfight.
 
  A Jackal spacecraft on a rotation stand at True Anomaly’s headquarters in Centennial, Colorado.
- 
+
 
  Credit:
  True Anomaly
- 
+
 
  A Jackal spacecraft on a rotation stand at True Anomaly’s headquarters in Centennial, Colorado.
 
- 
+
 
  Credit:
 
- 
+
  True Anomaly
 
- 
+
 
 Ars:Why dedicate yourselves to national security in space? Why not pursue other markets at the same time?
 
@@ -150,22 +150,22 @@ Ars:I’ve seen some hints about a True Anomaly lunar mission. Is that something
 Rogers:That’s one of the ones I can’t talk about.
 
  Even Rogers, co-founder and CEO of True Anomaly, during a Bloomberg Tech interview at Anduril’s headquarters in Costa Mesa, California, on October 10, 2025.
- 
+
 
  Credit:
  Kyle Grillot/Bloomberg via Getty Images
- 
+
 
  Even Rogers, co-founder and CEO of True Anomaly, during a Bloomberg Tech interview at Anduril’s headquarters in Costa Mesa, California, on October 10, 2025.
 
- 
+
 
  Credit:
 
- 
+
  Kyle Grillot/Bloomberg via Getty Images
 
- 
+
 
 Ars:I want to take a step back and talk about larger trends. The military is pivoting toward a stronger emphasis on production over research and development. How is True Anomaly suited to answer this demand?
 
@@ -180,17 +180,17 @@ I think some of the work the government is doing to acknowledge that there is ri
 I think there is a question that the rest of industry has to answer for themselves, and we hope to build, at some point, defense solutions for commercial operators, but for the purpose of ensuring that the United States military has access to commercial resources when they need them, so done under the auspices of being a defense company, not a commercial defense company.
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark is a space reporter at Ars Technica, covering private space companies and the world’s space agencies. Stephen writes about the nexus of technology, science, policy, and business on and off the planet.
- 
+
 
 1. 1.Once again, ULA can't deliver when the US military needs a satellite in orbit
 2. 2.There can (still) be only one: Highlander is 40

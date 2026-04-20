@@ -14,7 +14,7 @@ tags:
 
 dune3d
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork74
 * Star1.8k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -257,56 +257,56 @@ dune3d.org
 
  Readme
 
- 
+
 
 ### License
 
  GPL-3.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.8k
 
  stars
- 
+
 
 ### Watchers
 
 27
 
  watching
- 
+
 
 ### Forks
 
 74
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases5
 
@@ -314,11 +314,11 @@ Dune 3D Version 1.4.0 "Einstein"
 
  Latest
 
- 
+
 
 Jan 28, 2026
 
- 
+
 
 + 4 releases
 
@@ -334,17 +334,17 @@ Jan 28, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -352,9 +352,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

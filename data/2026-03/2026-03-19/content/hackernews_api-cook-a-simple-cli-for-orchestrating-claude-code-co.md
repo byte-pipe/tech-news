@@ -31,19 +31,19 @@ Run parallel branches and resolve:vN,vs,pick.
 
 Operators compose left to right. Each wraps everything to its left.
 
-cook 
+cook
 "work"
- x3 review 
+ x3 review
 # (work×3) → review loop
 
-cook 
+cook
 "work"
- review x3 
+ review x3
 # (work → review loop) × 3
 
-cook 
+cook
 "work"
- review v3 pick 
+ review v3 pick
 # race 3, each with a review loop
 
 ## * Loop Operators
@@ -52,24 +52,24 @@ cook
 
 xNruns work N times sequentially, each pass seeing the previous output.
 
-cook 
+cook
 "Add dark mode"
- x3 
+ x3
 # 3 sequential passes
 
-cook 
+cook
 "Add dark mode"
- repeat 3 
+ repeat 3
 # long-form
 
-cook 
+cook
 "Add dark mode"
- x3 review 
+ x3 review
 # 3 passes, then a review loop
 
-cook 
+cook
 "Add dark mode"
- review x3 
+ review x3
 # review loop repeated 3 times
 
 ### review
@@ -92,58 +92,58 @@ iterate
 
 <<
 
-cook 
+cook
 "Add dark mode"
- review 
+ review
 # default prompts, up to 3 iterations
 
-cook 
+cook
 "Add dark mode"
- review 5 
+ review 5
 # up to 5 iterations
 
 Provide custom prompts afterreview, or use positional shorthand:
 
 # Explicit
 
-cook 
+cook
 "Add dark mode"
  review \
- 
+
 "Review for accessibility"
  \
- 
+
 "DONE if WCAG AA, else ITERATE"
 
 # Shorthand — same result
 
-cook 
+cook
 "Add dark mode"
  \
- 
+
 "Review for accessibility"
  \
- 
+
 "DONE if WCAG AA, else ITERATE"
 
 # With iterate prompt and max-iterations
 
-cook 
+cook
 "Add dark mode"
  \
- 
+
 "Review for accessibility"
  \
- 
+
 "DONE if WCAG AA, else ITERATE"
  \
- 
+
 "Fix the issues"
  5
 
 Use different agents or models per step:
 
-cook 
+cook
 "Add dark mode"
  review \
  --work-agent codex --work-model gpt-5-codex \
@@ -153,23 +153,23 @@ cook
 
 Ralph wraps a cook with an outer gate for task-list progression. The work prompt is self-directing — it reads project state to find the current task each time.
 
-cook 
+cook
 "Work on next task in plan.md"
  \
- ralph 5 
+ ralph 5
 "DONE if all tasks complete, else NEXT"
 
 # review gate per task, then ralph advances
 
-cook 
+cook
 "Work on next task in plan.md"
  \
- review 
+ review
 "Code review"
- 
+
 "DONE if no High issues, else ITERATE"
  \
- ralph 5 
+ ralph 5
 "DONE if all tasks complete, else NEXT"
 
 The review gate decidesDONE(pass to ralph) orITERATE(fix and retry). The ralph gate decidesDONE(exit) orNEXT(advance to next task, reset iterations).
@@ -182,69 +182,69 @@ Composition operators run multiple cooks in parallel isolated git worktrees, the
 
 vNruns N identical cooks in parallel worktrees.pickis the default resolver.
 
-cook 
+cook
 "Add dark mode"
- v3 
+ v3
 # 3 runs, pick the best
 
-cook 
+cook
 "Add dark mode"
- v3 
+ v3
 "least code wins"
- 
+
 # with pick criteria
 
-cook 
+cook
 "Add dark mode"
- race 3 
+ race 3
 "least code wins"
- 
+
 # long-form alias
 
-cook 
+cook
 "Add dark mode"
- review v3 
+ review v3
 "cleanest"
- 
+
 # race 3, each with a review loop
 
-cook 
+cook
 "Add dark mode"
- x3 v3 
+ x3 v3
 "most complete"
- 
+
 # race 3, each with 3 passes
 
 ### vs
 
 vsruns two different cooks in parallel worktrees. Each branch is a full cook — it can have its own loop operators.
 
-cook 
+cook
 "Implement auth with JWT"
  \
  vs \
- 
+
 "Implement auth with sessions"
  \
- pick 
+ pick
 "best security"
 
-cook 
+cook
 "Build with React"
- review 
+ review
 "Check accessibility"
- 
+
 "DONE if WCAG AA"
  3 \
  vs \
- 
+
 "Build with Vue"
- review 
+ review
 "Check bundle size"
- 
+
 "DONE if under 50kb"
  5 \
- merge 
+ merge
 "best developer experience"
 
 ### Resolvers
@@ -263,7 +263,7 @@ Synthesize all results into a fresh implementation.
 
 compare
 
-Write a comparison doc to 
+Write a comparison doc to
 .cook/compare-<session>.md
 . No merge.
 
@@ -319,9 +319,9 @@ Note:OpenCode is only supported in Docker mode.
 
 When an agent hits a token quota or rate limit, cook automatically waits and retries instead of bailing. A countdown is shown in the TUI. Enabled by default.
 
-cook 
+cook
 "Build the feature"
- review --no-wait 
+ review --no-wait
 # disable: fail fast
 
 Configure wait behavior in.cook/config.json:

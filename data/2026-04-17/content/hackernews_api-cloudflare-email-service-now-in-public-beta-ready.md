@@ -105,7 +105,7 @@ export class SupportAgent extends Agent {
  ticket: { from: email.from, subject: parsed.subject, body: parsed.text, messageId: parsed.messageId },
  });
 
- // Kick off long running background agent task 
+ // Kick off long running background agent task
  // Or place a message on a Queue to be handled by another Worker
 
  // Reply here or in other Worker handler, like a Queue handler
@@ -147,7 +147,7 @@ Email Service isn't only for agents running on Cloudflare. Agents run everywhere
 
 Email is now available through theCloudflare MCP server, the sameCode Mode-powered server that gives agents access to the entire Cloudflare API. With this MCP server, your agent can discover and call the Email endpoints to send and configure emails. You can send an email with a simple prompt:
 
-"Send me a notification email at 
+"Send me a notification email at
 [email protected]
  from my staging domain when the build completes"
 
@@ -193,29 +193,29 @@ Whether you’re building a support agent that meets customers in their inbox or
 
 ## Watch on Cloudflare TV
 
-Cloudflare's connectivity cloud protects 
+Cloudflare's connectivity cloud protects
 entire corporate networks
-, helps customers build 
+, helps customers build
 Internet-scale applications efficiently
-, accelerates any 
+, accelerates any
 website or Internet application
-, 
+,
 wards off DDoS attacks
-, keeps 
+, keeps
 hackers at bay
-, and can help you on 
+, and can help you on
 your journey to Zero Trust
 .
-Visit 
+Visit
 1.1.1.1
  from any device to get started with our free app that makes your Internet faster and safer.
-To learn more about our mission to help build a better Internet, 
+To learn more about our mission to help build a better Internet,
 start here
-. If you're looking for a new career direction, check out 
+. If you're looking for a new career direction, check out
 our open positions
 .
- 
- 
+
+
 Agents Week
 Agents
 Developers

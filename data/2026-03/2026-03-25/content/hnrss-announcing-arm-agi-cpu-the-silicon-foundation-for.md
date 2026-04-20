@@ -14,11 +14,11 @@ tags:
 - hnrss
 ---
 
-Arm Newsroom 
+Arm Newsroom
 
- Blog 
+ Blog
 
- 
+
 
 Today,Arm is announcing the Arm AGI CPU, a new class of production-ready silicon built on theArm Neoverseplatform and designed to power the next generation of AI infrastructure.
 
@@ -108,19 +108,19 @@ All product and company names are trademarks or registered trademarks of their r
 
 *Based on estimates
 
-By 
+By
 Mohamed Awad
-, 
-Executive Vice President, Cloud AI Business Unit, 
+,
+Executive Vice President, Cloud AI Business Unit,
 Arm
 
 Share
 
- 
 
- Article Text 
 
- Copy Text 
+ Article Text
+
+ Copy Text
 
 Any re-use permitted for informational and non-commercial or personal use only.
 
@@ -128,13 +128,13 @@ Any re-use permitted for informational and non-commercial or personal use only.
 
 Arm Global PR Team
 
- Global-PRteam@arm.com 
+ Global-PRteam@arm.com
 
- Stay informed with Arm's top stories, insights, and conversations. 
+ Stay informed with Arm's top stories, insights, and conversations.
 
 ## Media Information
 
- 
+
 
 ### Company Overview & History
 
@@ -144,7 +144,7 @@ Learn More
 
 →
 
- 
+
 
 ### Arm Corporate Guidelines
 
@@ -154,7 +154,7 @@ Learn More
 
 →
 
- 
+
 
 ### Media Contacts
 
@@ -164,12 +164,12 @@ Learn More
 
 →
 
- 
+
 
 ## Latest on X
 
 ;
- 
+
 
 Arm
 
@@ -177,10 +177,10 @@ Arm
 
 ·
 
-19h 
+19h
  2036225253639082122
 
- 
+
 
 Agentic AI rises ⬆️AI infrastructure shifts 🔀Agentic AI calls for infrastructure designed for real-world inference and scale, elevating the CPU’s role at the center of AI systems to drive efficiency and unlock performance - and Arm is built for it.
 
@@ -190,15 +190,15 @@ In the Age of Agentic AI, CPUs Matter More Arm and Bloomberg Media Studios
 
 okt.to
 
- 
+
 Reply on Twitter 2036225253639082122
 
- 
+
 Retweet on Twitter 2036225253639082122
 
 8
 
- 
+
 Like on Twitter 2036225253639082122
 
 38
@@ -208,7 +208,7 @@ Twitter
 2036225253639082122
 
 ;
- 
+
 
 Arm
 
@@ -216,27 +216,27 @@ Arm
 
 ·
 
-21 Mar 
+21 Mar
  2035503001897410834
 
- 
+
 
 A defining moment for AI compute begins at #ArmEverywhere.Arm CEO Rene Haas shares his vision for the next era of intelligence—and the ecosystem driving innovation at scale.Be part of it. Join us on March 24: https://okt.to/1uwUz2
 
- 
+
 
 Twitter feed image.
- 
 
- 
+
+
 Reply on Twitter 2035503001897410834
 
- 
+
 Retweet on Twitter 2035503001897410834
 
 14
 
- 
+
 Like on Twitter 2035503001897410834
 
 54
@@ -246,7 +246,7 @@ Twitter
 2035503001897410834
 
 ;
- 
+
 
 Arm
 
@@ -254,27 +254,27 @@ Arm
 
 ·
 
-20 Mar 
+20 Mar
  2035114277342744939
 
- 
+
 
 Missed a call? Your AI agent can handle it. 📱With Arm Scalable Matrix Extension 2 (SME2), agentic AI call handling runs entirely on device, sending follow-ups, suggesting callback times and managing scheduling with low latency and enhanced privacy.This is what accelerated,
 
- 
+
 
 Twitter feed video.
- 
 
- 
+
+
 Reply on Twitter 2035114277342744939
 
- 
+
 Retweet on Twitter 2035114277342744939
 
 12
 
- 
+
 Like on Twitter 2035114277342744939
 
 32
@@ -284,7 +284,7 @@ Twitter
 2035114277342744939
 
 ;
- 
+
 
 Arm
 
@@ -292,27 +292,27 @@ Arm
 
 ·
 
-20 Mar 
+20 Mar
  2035071187852673440
 
- 
+
 
 When robots visit the office 🤖AGIBOT joined us in Cambridge with its humanoids and a quadruped showcasing a variety of tasks from painting and dancing to human interactions and dynamic movement.Behind every action is the Arm compute platform, spanning sensor-level processing
 
- 
+
 
 Twitter feed video.
- 
 
- 
+
+
 Reply on Twitter 2035071187852673440
 
- 
+
 Retweet on Twitter 2035071187852673440
 
 15
 
- 
+
 Like on Twitter 2035071187852673440
 
 52
@@ -322,7 +322,7 @@ Twitter
 2035071187852673440
 
 ;
- 
+
 
 Arm
 
@@ -330,27 +330,27 @@ Arm
 
 ·
 
-20 Mar 
+20 Mar
  2034979077325550061
 
- 
+
 
 AI is moving into the physical world. 🤖🚗Vehicles, robots and industrial systems are becoming intelligent machines that can sense, reason and act in real time, driving the rise of physical AI.Learn how it’s shaping the next platform shift. https://okt.to/s7UWhi
 
- 
+
 
 Twitter feed video.
- 
 
- 
+
+
 Reply on Twitter 2034979077325550061
 
- 
+
 Retweet on Twitter 2034979077325550061
 
 11
 
- 
+
 Like on Twitter 2034979077325550061
 
 26
@@ -360,7 +360,7 @@ Twitter
 2034979077325550061
 
 ;
- 
+
 
 Arm
 
@@ -368,27 +368,27 @@ Arm
 
 ·
 
-19 Mar 
+19 Mar
  2034774452781658566
 
- 
+
 
 5 days to go.A defining moment for AI compute is coming.Join our CEO Rene Haas live on March 24 for #ArmEverywhere: https://okt.to/2vhEiM10am PDT | live on X
 
- 
+
 
 Twitter feed image.
- 
 
- 
+
+
 Reply on Twitter 2034774452781658566
 
- 
+
 Retweet on Twitter 2034774452781658566
 
 9
 
- 
+
 Like on Twitter 2034774452781658566
 
 47
@@ -398,7 +398,7 @@ Twitter
 2034774452781658566
 
 ;
- 
+
 
 Arm
 
@@ -406,27 +406,27 @@ Arm
 
 ·
 
-19 Mar 
+19 Mar
  2034704801062171015
 
- 
+
 
 🌍 Innovation built for the real world.In partnership with @Simprints and @gavi, we’re supporting biometric digital ID solutions that let health workers identify infants on a smartphone and give them the care they need.Hear from Dr. Toby Norman as he shares how this
 
- 
+
 
 Twitter feed video.
- 
 
- 
+
+
 Reply on Twitter 2034704801062171015
 
- 
+
 Retweet on Twitter 2034704801062171015
 
 7
 
- 
+
 Like on Twitter 2034704801062171015
 
 29

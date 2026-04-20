@@ -30,7 +30,7 @@ The company also said that all interactions with Health AI happen within a HIPAA
 
 With a user’s permission, Health AI gets access to their health information through the Health Information Exchange, which is the nationwide secure system for sharing patient medical data.
 
- 
+
 
 Techcrunch event
 
@@ -68,15 +68,15 @@ Amazon’s expansion of Health AI comes as popular AI services have quickly move
 Topics
 
 AI
-, 
+,
 Amazon
-, 
+,
 Biotech & Health
-, 
+,
 healthcare
- 
 
-			Aisha Malik	
+
+			Aisha Malik
 
 Consumer News Reporter
 
@@ -84,6 +84,6 @@ Aisha is a consumer news reporter at TechCrunch. Prior to joining the publicatio
 
 You can contact or verify outreach from Aisha by emailingaisha@techcrunch.comor via encrypted message at aisha_malik.01 on Signal.
 
- 
+
 
 View Bio

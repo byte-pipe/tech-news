@@ -27,8 +27,8 @@ Plus, in this week’s Installer: Samsung’s new phones, a beautiful take on RS
 Plus, in this week’s Installer: Samsung’s new phones, a beautiful take on RSS, the Red Bull story, and much more.
 
 by
- 
- 
+
+
 David Pierce
 Feb 28, 2026, 1:00 PM UTC
 * Link
@@ -39,7 +39,7 @@ If you buy something from a Verge link, Vox Media may earn a commission.See our 
 
 Image: David Pierce / The Verge
 David Pierce
- 
+
 is editor-at-large and Vergecast co-host with over a decade of experience covering consumer tech. Previously, at Protocol, The Wall Street Journal, and Wired.
 
 Hi, friends! Welcome toInstallerNo. 117, your guide to the best andVerge-iest stuff in the world. (If you’re new here, welcome, please send Android tips, and also you can read all the old editions at theInstallerhomepage.)
@@ -139,19 +139,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

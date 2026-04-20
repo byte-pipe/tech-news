@@ -46,16 +46,16 @@ AeroPress
 ### Coffee Maker, Original
 
 $40
- 
+
 $35
- 
+
 (13% off)
- 
+
 
 Amazon
 
 $40
- 
+
 
 AeroPress
 
@@ -74,12 +74,12 @@ Save to wishlist
 ### AeroPress Go
 
 $50
- 
+
 
 Amazon
 
 $50
- 
+
 
 REI
 
@@ -96,12 +96,12 @@ AeroPress
 ### Clear
 
 $50
- 
+
 
 Amazon
 
 $50
- 
+
 
 AeroPress
 
@@ -121,7 +121,7 @@ Triangle
 * Big Story:Theundersea cablethat made the global internet possible
 * Everyone speaks incel now
 * Replay:Livestream on the hype, reality, and future of EVs
-Food writer Joe Ray (@joe_diner) is a Lowell Thomas Travel Journalist of the Year, a restaurant critic, and author of Sea and Smoke. ... 
+Food writer Joe Ray (@joe_diner) is a Lowell Thomas Travel Journalist of the Year, a restaurant critic, and author of Sea and Smoke. ...
 Read More
 WIRED Contributor
 * X

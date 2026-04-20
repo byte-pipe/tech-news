@@ -280,7 +280,7 @@ Think of a brand-new car missing a taillight or a side mirror - it still works, 
 If you've already committed to doing something, take the extra time to do it properly. Be a strong finisher. Be someone who completes things with care and intention.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -291,7 +291,7 @@ Preview
 Dismiss
 
  View full discussion (25 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

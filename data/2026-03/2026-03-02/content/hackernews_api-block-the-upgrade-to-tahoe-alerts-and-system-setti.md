@@ -17,7 +17,7 @@ tags:
 
 * Jan 17 '26Jan 17 '26
 * Apple Universe,Mac OS X Hints,macOS,Terminal
-Based on some comments on 
+Based on some comments on
 my Mastodon post
 , this only works due to a bug in macOS 15.7.3! The 90 day period isn't supposed to be a rolling date, but 90 days from release date. So it should have no impact…but it does, so I hope Apple doesn't fix the bug.
 

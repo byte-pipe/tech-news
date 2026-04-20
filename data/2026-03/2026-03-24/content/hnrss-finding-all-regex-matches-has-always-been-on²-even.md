@@ -24,9 +24,9 @@ the worst case time complexity for iterators is O(m * n²). [...] if both patter
 
 the mechanism is simple. take the pattern.*a|band a haystack ofnb's. at each position, the engine tries.*afirst: scan the entire remaining haystack looking for ana, find none, fail. then thebbranch matches a single character. advance one position, repeat. that'sn + (n-1) + (n-2) + ... = O(n²)work to reportnsingle-character matches. a textbook triangular sum. hit play to see it:
 
-matching 
+matching
 .*a|b
- against 
+ against
 "bbbbbbbbbb"
  - finding all matches
 play
@@ -73,9 +73,9 @@ the algorithm doesn't find matches one at a time. instead it does two passes ove
 
 one match or ten thousand, it's the same two passes. same example as before:
 
-matching 
+matching
 .*a|b
- against 
+ against
 "bbbbbbbbbb"
  - finding all matches
 traditional (find, advance, repeat):
@@ -126,7 +126,7 @@ there's also a practical reality: i'm trying to show that RE# is the fastest reg
 hardened mode is there for when you're accepting patterns from the internet and can't trust what you're getting - an explicit opt-in rather than a silent tax on everyone.
 
 let
- re 
+ re
 =
  Regex
 ::
@@ -290,11 +290,11 @@ it's still early, but i've been using it daily and i think there's a lot of pote
 
 i think i'll rest for a bit after this. i can only do 80-hour weeks for so long, and even though i have a lot more to share, it'll have to wait. there's also a paper that's been conditionally accepted at PLDI - i'll write about it properly once it's out. the rust RE# itself isn't quite ready for a formal 1.0 announcement yet, but we're getting closer.
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 back to all posts

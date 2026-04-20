@@ -235,18 +235,18 @@ See:#6442,#6447,#6516
 Like every PR in this series, this change was validated by profiling the impacted method before and after. For example we can see in the example below that thebuildLocationmethod went from being one of the major bottlenecks of a navigation to being a very small part of the overall cost:
 
 Before:
- The 
+ The
 RouterCore.buildLocation
- (red arrow) method was creating a 
+ (red arrow) method was creating a
 new URL
  every time (purple blocks), and then updating its search which re-triggers an expensive parsing step.
 
 After:
- The 
+ The
 isSafeInternal
- check is able to fully skip the 
+ check is able to fully skip the
 URL
-. 
+.
 RouterCore.buildLocation
  becomes an almost insignificant part of the overall cost.
 
@@ -294,16 +294,16 @@ isServeris a build-time constant. This means that the above code is not violatin
 Taking the example of theuseRouterStatehook, we can see that most of the client-only work was removed from the SSR pass, leading to a ~2x improvement in the total CPU time of this hook.
 
 Before:
- The 
+ The
 useRouterState
- hook was subscribing to the router store, which triggers many sync and memoization calls before calling the 
+ hook was subscribing to the router store, which triggers many sync and memoization calls before calling the
 select
  callback.
 
 After:
- The 
+ The
 isServer
- check is able to skip directly to the 
+ check is able to skip directly to the
 select
  callback.
 
@@ -353,16 +353,16 @@ See:#4648,#6505,#6506
 Taking the example of thematchRoutesInternalmethod, we can see that its children's total CPU time was reduced by ~25%.
 
 Before:
- The 
+ The
 interpolatePath
- function spends >1s using the generic 
+ function spends >1s using the generic
 parseSegment
  function.
 
 After:
- The 
+ The
 interpolatePath
- function now uses the server-only fast path, skipping 
+ function now uses the server-only fast path, skipping
 parseSegment
  entirely.
 
@@ -395,12 +395,12 @@ See:#6456,#6515
 Taking the example of thestartViewTransitionmethod, we can see that the total CPU time of this method was reduced by >50%.
 
 Before:
- The 
+ The
 startViewTransition
  function (red arrow) has ~400ms of self-time in the hot path (i.e. not including the time spent in its children).
 
 After:
- Removing the 
+ Removing the
 delete
  statement almost completely removes the self-time of this function.
 

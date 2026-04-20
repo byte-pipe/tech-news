@@ -191,9 +191,9 @@ class LinkTracker:
                 if not isinstance(items, list):
                     continue
 
-                # Derive source from filename (e.g., github.json -> github)
+                # Derive source from filename (e.g., github.json -> github, hackernews-api.json -> hackernews-api)
                 fname = os.path.basename(fpath)
-                source = fname.split("-")[0].split(".")[0]
+                source = fname.rsplit(".", 1)[0]
 
                 # Derive date from directory name
                 parent = os.path.basename(os.path.dirname(fpath))

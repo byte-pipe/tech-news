@@ -20,7 +20,7 @@ Data breach
 
 The incident came to light on Sunday and the company says it has brought in an incident response provider to investigate the intrusion. Details of the intrusion are scant at this point.
 
-By 
+By
 Dennis Fisher
 
 April 19, 2026| 2 min read
@@ -58,7 +58,7 @@ Search
 
 ## Recent Comments
 
-By 
+By
 Dennis Fisher
 
 April 19, 2026| 2 min read

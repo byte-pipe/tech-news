@@ -15,8 +15,8 @@ tags:
 
 Back to blog
 
-March 
- 19, 
+March
+ 19,
  2026
 
 # Astral to join OpenAI

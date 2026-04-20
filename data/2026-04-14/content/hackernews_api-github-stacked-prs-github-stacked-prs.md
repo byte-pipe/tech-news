@@ -13,69 +13,69 @@ tags:
 - trending
 ---
 
-Stacked PRs is currently in private preview. 
+Stacked PRs is currently in private preview.
 Sign up for the waitlist →
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 # GitHub Stacked PRs
 
- 
-Break large changes into small, reviewable pull requests that build on each other — with native GitHub support and the 
+
+Break large changes into small, reviewable pull requests that build on each other — with native GitHub support and the
 gh stack
  CLI.
- 
- 
- 
- Quick Start 
- 
- Overview 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+ Quick Start
+
+ Overview
+
+
+
+
+
+
+
 
 Stacked PRs, Native in GitHub
 
- 
+
 
 Arrange pull requests in an ordered stack and merge them all in one click. Each PR represents one focused layer of your change, reviewed independently and landed together.
 
- 
- 
+
+
 
 Simplified Stack Management
 
- 
+
 
 Navigate between PRs in your stack from the GitHub UI, check the status of every layer at a glance, and trigger a cascading rebase across the entire stack with one click.
 
- 
- 
+
+
 
 Powerful CLI
 
- 
+
 
 Thegh stackCLI makes it easy to create stacks, perform cascading rebases, push branches and create PRs, and navigate between layers — all from your terminal.
 
- 
- 
+
+
 
 AI Agent Integration
 
- 
+
 
 Runnpx skills add github/gh-stackto teach your AI coding agents how to work with stacks. Break up a large diff into a stack or develop with stacks from the start.
 
- 
+
 
 ## Why Stacked PRs?
 
@@ -106,50 +106,50 @@ Section titled “Get Started”
 Terminal window
 # Install the CLI extension
 gh
- 
+
 extension
- 
+
 install
- 
+
 github/gh-stack
 
 # Alias `gh stack` as `gs` for easier use (optional)
 gh
- 
+
 stack
- 
+
 alias
 
 # Start a stack (creates and checks out the first branch)
 gs
- 
+
 init
- 
+
 auth-layer
 # ... make commits ...
 
 # Create new layers in the stack (creates and checks out each new branch)
 gs
- 
+
 add
- 
+
 api-routes
 # ... make commits ...
 gs
- 
+
 add
- 
+
 frontend
 # ... make commits ...
 
 # Push all branches
 gs
- 
+
 push
 
 # Open a stack of PRs
 gs
- 
+
 submit
 
 Ready to dive in? Start with theQuick Start guideor read thefull overview.

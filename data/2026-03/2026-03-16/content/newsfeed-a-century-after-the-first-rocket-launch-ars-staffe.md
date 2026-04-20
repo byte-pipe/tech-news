@@ -32,27 +32,27 @@ In February 2010, I was lucky enough to attend the penultimate night launch of t
 
 The day before the launch was a whirlwind of private tours through various KSC locations—we got to see one of the Crawler-Transporters up close, and then we had a photo-op right next to pad 39-A, whereEndeavourwas staged and ready. We got to see the VAB, theOrbiter Processing Facility, and theSpace Station Processing Facility. There was also a big team lunch with some of the ESA partners my wife had worked with (including a group of Italian engineers fromAleniawho, being ever Italian, had brought along a lot of wine).
 
- Laura and Lee Hutchinson, standing near LC-39A on February 6, 2010, with 
-Endeavour
- staged in the background.
- 
-
- Credit:
- Lee Hutchinson
- 
-
- Laura and Lee Hutchinson, standing near LC-39A on February 6, 2010, with 
+ Laura and Lee Hutchinson, standing near LC-39A on February 6, 2010, with
 Endeavour
  staged in the background.
 
- 
+
+ Credit:
+ Lee Hutchinson
+
+
+ Laura and Lee Hutchinson, standing near LC-39A on February 6, 2010, with
+Endeavour
+ staged in the background.
+
+
 
  Credit:
 
- 
+
  Lee Hutchinson
 
- 
+
 
 The launch was originally scheduled for 04:39 Eastern the next morning, February 7, which meant no sleep. After a brief post-tour evening rest, we were all herded onto buses from the hotel at about midnight and then transported with the other program guests to theBanana Creek launch viewing area, about four miles from LC-39A. The Banana Creek viewing area is attached to the Saturn V visitor’s center, so we spent the hours before launch perusing the exhibits and enjoying KSC’s fantastic collection of historic human spaceflight artifacts.
 
@@ -66,27 +66,27 @@ The light faded as the shuttle climbed into the clouds, and when we caught sight
 
 It was an amazing experience. I’ve never seen anything like it, and I don’t think I ever will again.
 
- Two happy space nerds, moments after 
-Endeavour
-‘s successful SRB separation and just before fighting our way back to the bus.
- 
-
- Credit:
- Lee Hutchinson
- 
-
- Two happy space nerds, moments after 
+ Two happy space nerds, moments after
 Endeavour
 ‘s successful SRB separation and just before fighting our way back to the bus.
 
- 
+
+ Credit:
+ Lee Hutchinson
+
+
+ Two happy space nerds, moments after
+Endeavour
+‘s successful SRB separation and just before fighting our way back to the bus.
+
+
 
  Credit:
 
- 
+
  Lee Hutchinson
 
- 
+
 
 — Lee Hutchison
 
@@ -111,22 +111,22 @@ At the time, I was in the midst of a months-long project to report on the state 
 As part of the trip, we went with several NASA leaders, along with the family of the space agency astronaut, Butch Wilmore, launching into space. It was an epic trip that included observing a protest march in Moscow over the treatment of Ukraine (this was 2014, and things felt super tense even then) with riot police stationed all along the way. We then walked right up to the Soyuz rocket on the pad.
 
  The author in Red Square in September 2014.
- 
+
 
  Credit:
  Smiley Pool
- 
+
 
  The author in Red Square in September 2014.
 
- 
+
 
  Credit:
 
- 
+
  Smiley Pool
 
- 
+
 
 The highlight was the late-night launch of the same Soyuz booster from an observation point less than 1.5 km from the pad. After riding a bus across some of the rattiest roads I’ve ever experienced, we climbed up onto a small covered stand. It all felt historic. This was the pad from which Sputnik first went to space, and then Yuri Gagarin a few years later. Soviet premiers had stood here before, probably shivering in the cold just like I was.
 
@@ -159,22 +159,22 @@ The shuttle lifted off shortly before sunrise on Easter Monday, taking aim at th
 Still, it was a sight to behold. The two boosters generated an extraordinarily bright exhaust plume, almost giving it the appearance of molten metal,which it kind of was. They’re loud, too. Really loud. Their crackling roar hits different than a liquid-fueled rocket, even one as large as Starship.
 
  Contrails are seen as workers leave the Launch Control Center after the launch of the space shuttle Discovery and the start of the STS-131 mission at NASA Kennedy Space Center in Cape Canaveral, Florida, on Monday, April 5, 2010.
- 
+
 
  Credit:
  NASA/Bill Ingalls
- 
+
 
  Contrails are seen as workers leave the Launch Control Center after the launch of the space shuttle Discovery and the start of the STS-131 mission at NASA Kennedy Space Center in Cape Canaveral, Florida, on Monday, April 5, 2010.
 
- 
+
 
  Credit:
 
- 
+
  NASA/Bill Ingalls
 
- 
+
 
 On this particular launch, the shuttle Discovery climbed into a high-altitude sunrise a couple of minutes after departing Florida’s Space Coast. Just as the shuttle jettisoned its twin boosters, the nearly transparent exhaust from Discovery’s three main engines caught the first sunlight of the day.
 
@@ -183,21 +183,21 @@ The engines, which are still flying on NASA’s SLS rocket, generate water vapor
 — Stephen Clark
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
- Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books: 
+ Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books:
 Liftoff
-, about the rise of SpaceX; and 
+, about the rise of SpaceX; and
 Reentry
 , on the development of the Falcon 9 rocket and Dragon. A certified meteorologist, Eric lives in Houston.
- 
+
 
 1. 1.An engineering thesis disguised as a coupe: A history of the Honda Prelude
 2. 2.Google Fiber will be sold to private equity firm and merge with cable company

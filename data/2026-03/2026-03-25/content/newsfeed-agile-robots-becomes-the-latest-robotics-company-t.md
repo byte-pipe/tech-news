@@ -30,7 +30,7 @@ Agile Robots was founded in 2018 and has raised more than $270 million in ventur
 
 It’s just the latest robotics hardware company to land a partnership with Google DeepMind to advance its tech.
 
- 
+
 
 Techcrunch event
 
@@ -61,29 +61,29 @@ As many in the industry, including Nvidia CEO Jensen Huang, considerphysical AI 
 Topics
 
 Agile Robots
-, 
+,
 AI
-, 
+,
 AI
-, 
+,
 artificial intelligence
-, 
+,
 Germany
-, 
+,
 google deepmind
-, 
+,
 Robotics
-, 
+,
 robotics
-, 
+,
 robotics partnership
-, 
+,
 TC
-, 
+,
 United States
- 
 
-			Rebecca Szkutak	
+
+			Rebecca Szkutak
 
 Senior Reporter, Venture
 

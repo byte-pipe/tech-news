@@ -21,14 +21,14 @@ Productivity
  a subsidiary of Collabora focusing on LibreOffice support and
 services for whom I work.
 Also if you have the time to read this sort of stuff you could enlighten
-yourself by going to 
+yourself by going to
 Unraveling Wittgenstein's net
  or if
-you are feeling objectionable perhaps 
+you are feeling objectionable perhaps
 here
 .
 Failing that, there are all manner of interesting things to read on
-the 
+the
 LibreOffice Planet news
 feed
 .

@@ -26,18 +26,18 @@ Email
 ## Stress in the $3.5 trillion private credit market could ripple into digital assets through both macro contagion and tokenized credit markets, experts warn.
 
 By
- 
+
 Krisztian Sandor
 |
 Edited by
- 
+
 Stephen Alpher
 Updated
- 
-Mar 6, 2026, 7:47 p.m. 
+
+Mar 6, 2026, 7:47 p.m.
 Published
- 
-Mar 6, 2026, 5:30 p.m. 
+
+Mar 6, 2026, 5:30 p.m.
 Make us preferred on Google
 (Smith Collection/Gado/Getty Images/modified by CoinDesk)
 
@@ -91,7 +91,7 @@ More For You
 ### Pudgy Penguins: Challenging the Pokemon and Disney Legacy in the Global IP Race
 
 By
- 
+
 CoinDesk Research
 Feb 27, 2026
 Commissioned by
@@ -109,11 +109,11 @@ More For You
 Bitcoin could be the big winner if the U.S.-Iran conflict drags on for months
 
 By
- 
+
 Helene Braun
 |
 Edited by
- 
+
 Sheldon Reback
 3 hours ago
 
@@ -126,7 +126,7 @@ What to know:
 * The Federal Reserve’s need to keep Treasury markets functioning, combined with government borrowing, may lead to the lower interest rates and looser liquidity conditions that historically support bitcoin.
 Read full story
 Latest Crypto News
- 
+
 
 #### Bitcoin could be the big winner if the U.S.-Iran conflict drags on for months
 

@@ -21,7 +21,7 @@ News
 # A Tale of Two Bills: Lawful Access Returns With Changes to Warrantless Access But Dangerous Backdoor Surveillance Risks Remain
 
 						March 13, 2026
-						
+
 
 The decades-long battle over lawful access entered a new phase yesterday with the introduction ofBill C-22, the Lawful Access Act. This bill follows the attempt last spring to burylawful access provisions in Bill C-2, a border measures bill that was the new government’s first piece of substantive legislation. The lawful access elements of the bill faced an immediate backlash given the inclusion of unprecedented rules permitting widespread warrantless access to personal information. Those rules were on very shaky constitutional ground and the government ultimately decided tohit the reset buttonon lawful access by proceeding with the border measures in a different bill.
 
@@ -86,23 +86,23 @@ Government Reverses on Bill C-2: Removes Lawful Access Warrantless Demand Powers
 
 Reversing the Reversal?: Government Puts Privacy Invasive Lawful Access Back on the Agenda
 
-Tags: 
+Tags:
 c-2
- 
- / 
- 
+
+ /
+
 c-22
- 
- / 
- 
+
+ /
+
 lawful access
- 
- / 
- 
+
+ /
+
 privacy
- 
- / 
- 
+
+ /
+
 surveillance
 
 ### Share this post
@@ -136,6 +136,6 @@ CAPTCHA Code*
 
 Notify me of follow-up comments by email.
 
- 
+
 
 Δ

@@ -16,14 +16,14 @@ tags:
 
 Home
 
- The Man Who Stole Infinity 
+ The Man Who Stole Infinity
 
 Save Article
- 
+
 
 Read Later
 
- 
+
 
 ###### Share
 
@@ -41,31 +41,31 @@ Reddit
 
 Ycombinator
 
- 
+
 
 * Save ArticleRead LaterRead Later
 
 foundations of mathematics
- 
+
 
 # The Man Who Stole Infinity
 
-By 
+By
 
 Joseph Howlett
 
 February 25, 2026
 
- 
 
- In an 1874 paper, Georg Cantor proved that there are different sizes of infinity and changed math forever. A trove of newly unearthed letters shows that it was also an act of plagiarism. 
+
+ In an 1874 paper, Georg Cantor proved that there are different sizes of infinity and changed math forever. A trove of newly unearthed letters shows that it was also an act of plagiarism.
 
 Save Article
- 
+
 
 Read Later
 
- 
+
 
 Kristina Armitage, Michael Kanyongolo/Quanta Magazine
 
@@ -101,7 +101,7 @@ Cantor carried his father’s letter with him for the rest of his life. He inter
 
 There, a conflict was beginning to simmer.
 
- 
+
 
 Georg Cantor constantly sought to make his mark in mathematics. But by the 1890s, his ambition had led him into a state of major depression.
 
@@ -137,7 +137,7 @@ Suddenly, the monstrosity of infinity, long feared by mathematicians, could no l
 
 That summer, both Cantor and Dedekind spent their holiday in the scenic lakefront village of Gersau, Switzerland, where they crossed paths for the first time and took a long walk together to discuss their ideas.
 
- 
+
 
 A print from the 1890s of the Swiss village of Gersau, where Cantor and Dedekind met by chance and quickly became friends.
 
@@ -157,7 +157,7 @@ It gave him the chance to turn his convictions into action. For the next 15 year
 
 “Refereeing was a really formative experience,” he said. “I don’t back down when people try to intimidate me.”
 
- 
+
 
 Demian Goos, a German Argentinian mathematician and journalist, has always felt most at home in Argentina. Here, he drinks mate, a traditional herbal tea from South America.
 
@@ -171,7 +171,7 @@ And he had an idea of where to start.
 
 “Since I’m the emotional guy I am, I focused on the most emotional story ever,” he said — the story of how infinity became real and led to the birth of set theory, which offered a new foundation for all of modern math. “It pushes our understanding of mathematics to its limit,” Goos said. “You have to say goodbye to mathematical intuition and just be open and receptive to all the shenanigans that you will encounter there.”
 
- 
+
 
 Goos produces a podcast about the history of math and science. It was his work on this podcast that led him to uncover new evidence in the story of what really happened between Cantor and Dedekind.
 
@@ -213,7 +213,7 @@ His proof, he realized, had the potential to shake the math world to its core. B
 
 One of those figures was Leopold Kronecker, a mathematical ideologue who detested infinity. He didn’t believe in the number line’s packed nooks and crannies. According to the mathematician Ferdinand von Lindemann, who proved that π isn’t algebraic — you can never pose an ordinary algebra problem where π is the answer — Kronecker once told him his work was worthless, since such “transcendental” numbers didn’t exist.
 
- 
+
 
 To Leopold Kronecker, infinity had no place in mathematics. When Cantor challenged this belief, Kronecker set out to destroy his reputation and stop him from publishing.
 
@@ -243,7 +243,7 @@ In classic Cantor fashion, he slapped the paper together within a day and submit
 
 The first evidence of Cantor’s deception was uncovered in the early 20th century by another great German mathematician. Emmy Noether was a Dedekind acolyte. She would often wax poetic about his mathematical prescience. As she liked to tell her students, “Everything is already in Dedekind.” In 1930, she was collecting all of his mathematical work into a four-volume publication when she happened on some of the letters he’d kept from his correspondence with Cantor. She partnered with the French philosopher Jean Cavaillès to gather and publish them as well.
 
- 
+
 
 The renowned mathematician Emmy Noether helped collect the first evidence of Cantor’s wrongdoing.
 
@@ -259,7 +259,7 @@ Dedekind never went public with this claim, and Noether and Cavaillès didn’t 
 
 No one else called attention to it either — at least not in print. The earliest biographies of Cantor, written by his mathematical disciples, simply lauded his genius.
 
- 
+
 
 Goos holding the first published record of Cantor and Dedekind’s exchanges.
 
@@ -271,7 +271,7 @@ Without the letters, Grattan-Guinness and his contemporaries decided not to accu
 
 But when Goos learned of this history while working on his podcast in 2024, he was outraged. He could only find one piece of writing that explicitly discussed Cantor’s wrongdoing. In a 1993 paper, Ferreirósaccused Cantorof stealing and publishing Dedekind’s work without credit. But other Cantor biographers immediately pushed back on Ferreirós’ narrative, arguing that it was too extreme an interpretation of what had happened. Besides, without Dedekind’s missing letter, there was no real proof of the supposed crime — only Dedekind’s note, written afterward. How could anyone be so sure its claims were true?
 
- 
+
 
 José Ferreirós, a historian and philosopher of mathematics at the University of Seville, was the first person to accuse Cantor of plagiarism in print.
 
@@ -303,7 +303,7 @@ As Cantor continued to publish results on infinity, Kronecker worked to turn the
 
 Cantor took all of this resistance personally. “He has this longing for approval,” Goos said. “But it’s the very nature of doing things differently from everybody else that they won’t like it.” In 1884, Cantor was hospitalized due to a major depressive episode. Over time, he grew more and more isolated. “There was a pattern,” Ferreirós said. “Many of his relationships with colleagues ended on bad terms.”
 
- 
+
 
 Cantor often appears self-assured and powerful in his later photos. But beneath his confident exterior, he was lonely and anxious.
 
@@ -335,7 +335,7 @@ But here before him was the letter he’d been hoping to find for over a year. H
 
 Did Richter even know what she had? He asked for scans. Richter said she’d think about it.
 
- 
+
 
 The letter from Dedekind to Cantor, dated November 30, 1873, that went missing for more than a century. In it, Dedekind provides a proof that the set of algebraic numbers is the same size as the set of whole numbers — a result that Cantor later plagiarized.
 
@@ -349,7 +349,7 @@ He spent the next month contacting everyone he knew in Halle, begging them to fi
 
 Another month later, another trek, and Richter handed over another Dedekind letter, this one from the summer of 1873. Goos didn’t know if he could afford any more of these trips: “I’m not rich,” he said. It was time, he decided, to let the world knowwhat he’d found.
 
- 
+
 
 Goos reading the scan of the missing letter.
 
@@ -381,9 +381,9 @@ But it’s still important to recognize Dedekind’s role in one of math’s gre
 
 This, in the end, is the better story — because it’s true.
 
- 
 
- The Quanta Newsletter 
+
+ The Quanta Newsletter
 
 Get highlights of the most important news delivered to your email inbox
 
@@ -397,14 +397,14 @@ Recent newsletters
 
 How Can Infinity Come in Many Sizes?
 
- 
+
 
 explainers
- 
+
 
 ### How Can Infinity Come in Many Sizes?
 
-By 
+By
 
 Mark Belan
 
@@ -415,51 +415,51 @@ Jordana Cepelewicz
 February 23, 2026
 
 Save Article
- 
+
 
 Read Later
 
 Long-Sought Proof Tames Some of Math’s Unruliest Equations
 
- 
+
 
 partial differential equations
- 
+
 
 ### Long-Sought Proof Tames Some of Math’s Unruliest Equations
 
-By 
+By
 
 Paulina Rowińska
 
 February 6, 2026
 
 Save Article
- 
+
 
 Read Later
 
 Networks Hold the Key to a Decades-Old Problem About Waves
 
- 
+
 
 number theory
- 
+
 
 ### Networks Hold the Key to a Decades-Old Problem About Waves
 
-By 
+By
 
 Leila Sloman
 
 January 28, 2026
 
 Save Article
- 
+
 
 Read Later
 
- 
+
 
 ## Next article
 

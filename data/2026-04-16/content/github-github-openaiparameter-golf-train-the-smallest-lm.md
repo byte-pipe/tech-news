@@ -11,7 +11,7 @@ description: Train the smallest LM you can that fits in 16MB. Best model wins! -
 
 openai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork3.2k
 * Star4.8k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -693,51 +693,51 @@ Train the smallest LM you can that fits in 16MB. Best model wins!
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 4.8k
 
  stars
- 
+
 
 ### Watchers
 
 32
 
  watching
- 
+
 
 ### Forks
 
 3.2k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Contributors
 
@@ -745,9 +745,9 @@ Custom properties
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

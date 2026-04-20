@@ -127,13 +127,13 @@ If you enjoyed this tiny victory in a hostile world, you might enjoy,Seven Days 
 
 # Follow future posts
 
- You can 
+ You can
 follow the main RSS feed,
- 
+
 learn how to follow the podcast or join my street team,
  or follow via email with the form below.
 
- 
+
 
 Enter your email to join Robert's mailing list
 

@@ -32,22 +32,22 @@ Technicians installed new engines on the booster for Sunday’s flight, but the 
 New Glenn allows Blue Origin to reach into a broader market for launches to low-Earth orbit and beyond. SpaceX has shown it can recycle a Falcon 9 booster for reflight in just nine days, and launch Falcon 9s five or more times in one week using a fleet of reusable boosters and three active launch pads. Blue Origin officials expect reusing New Glenn boosters will unlock a vastly faster launch rate for themselves.
 
  In this screenshot from Blue Origin video Sunday, the New Glenn booster descends toward the company’s recovery ship in the Atlantic Ocean.
- 
+
 
  Credit:
  Blue Origin
- 
+
 
  In this screenshot from Blue Origin video Sunday, the New Glenn booster descends toward the company’s recovery ship in the Atlantic Ocean.
 
- 
+
 
  Credit:
 
- 
+
  Blue Origin
 
- 
+
 
 ## Upper’s a downer
 
@@ -66,22 +66,22 @@ Something, presumably a problem on the upper stage, prevented the New Glenn rock
 Upper stages have been a menace for other rockets of late. SpaceX suffered upper stage failures on three test flights of the massive Starship rocket last year.Second stage problemsare responsible for the only blemishes in SpaceX’s near-perfect reliability record with the workhorse Falcon 9 rocket. For SpaceX, these are the only pieces of the Falcon 9 and Starship that haven’t been recovered, inspected, and reused.
 
  File photo of two BE-3U engines on a previous New Glenn upper stage.
- 
+
 
  Credit:
  Blue Origin
- 
+
 
  File photo of two BE-3U engines on a previous New Glenn upper stage.
 
- 
+
 
  Credit:
 
- 
+
  Blue Origin
 
- 
+
 
 The payload on Sunday’s New Glenn launch was AST’s second full-size BlueBird broadband satellite and seventh BlueBird spacecraft overall, counting prototypes. AST has multilaunch agreements with Blue Origin and SpaceX to place the satellites into low-Earth orbit (LEO), with each company capable of launching multiple BlueBirds on a single rocket. Now, AST officials are thankful just a single BlueBird was aboard Sunday’s launch.
 
@@ -106,17 +106,17 @@ NASA is closely watching advancements by the agency’s Moon lander contractorsa
 Updated at 2:45 pm EDT (18:45 UTC) with AST SpaceMobile statement.
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark is a space reporter at Ars Technica, covering private space companies and the world’s space agencies. Stephen writes about the nexus of technology, science, policy, and business on and off the planet.
- 
+
 
 1. 1.Ridley Scott's post-apocalyptic The Dog Stars drops first trailer
 2. 2.Amazon won’t release Fire Sticks that support sideloading anymore

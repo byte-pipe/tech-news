@@ -11,7 +11,7 @@ description: A gallery that showcases on-device ML/GenAI use cases and allows pe
 
 google-ai-edge
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.5k
 * Star16.3k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -115,7 +115,7 @@ Install the app today from Google Play
 
 Install the app today from App Store
 
- 
+
 
 For users without Google Play access, install the apk from thelatest release
 
@@ -176,56 +176,56 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 16.3k
 
  stars
- 
+
 
 ### Watchers
 
 173
 
  watching
- 
+
 
 ### Forks
 
 1.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases19
 
@@ -233,11 +233,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Apr 2, 2026
 
- 
+
 
 + 18 releases
 
@@ -253,17 +253,17 @@ Apr 2, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -271,9 +271,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

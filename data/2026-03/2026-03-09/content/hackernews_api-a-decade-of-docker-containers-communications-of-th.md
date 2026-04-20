@@ -57,7 +57,7 @@ These challenges raised a question: Could we use OS primitives rather than heavy
 Docker instead opted to use a feature of Linux callednamespaces,38which wasn’t available when Nix was first created. Namespaces give each process more control over how to access shared resources such as files and directories. For example, in Figure1, in a root filesystem containing/alice/etc/passwdand/bob/etc/passwd, two processes under different namespaces, could see/etc/passwddifferently and resolve to the version under either/aliceor/bob. The process itself has no idea that its requests are being remapped into the wider root filesystem, and it can never “see” files outside its scope. Crucially, the namespacing applies only whenopeninga resource, and the resulting file descriptor operates as a normal kernel resource for subsequent operations, such as reading or writing, without further overhead. This allows the Linux kernel to manage the shared resources efficiently, while still providing the level of isolation that the application needs from the underlying filesystem. Once opened, the file descriptors can also be passed across processes in the usual way, ensuring compatibility with Unix programming norms.
 
 Figure 1. 
- 
+
 Linux mount namespaces allow processes to control how filenames are resolved.
  
 
@@ -66,7 +66,7 @@ Namespacing is not a modern feature in Linux, having been added incrementally ov
 How Docker runs Linux containers.Docker is a client-server application, with a server daemon (dockerd) that runs on the host machine and a docker CLI client that sends requests via a RESTful Docker API. The daemon creates and manages all the system resources, such as containers, images, networks, and volumes. When the developer invokes a docker CLI command, it sends API calls via a well-known Unix domain socket. While the daemon used to be a monolithic program, in around 2015 we split it up into the specialized components7shown in Figure2. The first component,buildkit, assembles filesystem images, and then thecontainerdmanages the instantiation of those images into running containers with associated network and storage resources.
 
 Figure 2. 
- 
+
 The Docker component architecture.
  
 
@@ -93,14 +93,14 @@ Building a seamless Docker for a Mac application.The key constraint when designi
 Embedding Linux in an application.We first designed a library virtual machine monitor (VMM) called HyperKit that used hardware virtualization extensions in Intel CPUs to run a Linux kernel in a normal user process19(Figure3). This embedded Linux kernel would then run the Docker daemon, which in turn would run the containers and act as a normal Docker server endpoint (Figure4). We hid all the Linux management details within the desktop application, allowingdocker buildanddocker runrunning on the desktop to “just work” by forwarding the invocations to the embedded Linux instance. This approach has been so successful that it has been adopted by other container systems such as Podman,39and is now a standard way to run containers on macOS and Windows.
 
 Figure 3. 
- 
+
 Using a traditional standalone hypervisor (top) versus the Docker approach of using a library virtual machine monitor and embedding a Linux VM (bottom).
  
 
 We designed a custom Linux distribution called LinuxKit to reflect that—instead of being a conventional standalone Linux distribution—it is intended to be used as a component and be embedded within a larger application. To minimize application startup time, we built a custom userspace that included only the necessary components to run Docker containers, and ran every single component within a container itself, leaving nothing at all running in the root namespace used at boot time. This allowed us to take advantage of the same copy-on-write filesystems and network namespaces that Docker containers themselves use, and to run the entire system in a highly isolated way. The combination of LinuxKit and HyperKit could boot up a Linux process almost as quickly as a native macOS process; thus, Docker for Mac and Windows applications were born and released in 2016.
 
 Figure 4. 
- 
+
 The Docker for Mac application architecture.
  
 
@@ -109,7 +109,7 @@ Networking.However, while the Linux containers now ran well in macOS and Windows
 Outgoing network traffic would trigger false positives in security scanners, since those are often configured to block all traffic from unknown processes that bypass the host OS network stack—exactly what happens when a Linux VM bridges its traffic directly to the desktop network stack. As a workaround, we turned to the unikernel libraries from MirageOS21to translate between Linux networking requests and macOS and Windows native socket calls. When a container attempts a TCP handshake, an ethernet frame containing the TCP SYN is sent to the host over the virtio protocol33using shared memory on the Mac (Figure5). This is then received by the “library VMM” and sent bysendmsginto the userspace TCP/IP stack running on the host OS. This userspace stack, dubbedvpnkitand written in OCaml,23then invokes the macOSconnect()syscall and either completes the TCP handshake or signals an error. With this architecture, the outgoing traffic from the Linux container will be perceived by the VPN policy as originating from the Docker application rather than from a separate machine. Deployingvpnkitin our beta tests in 2016 reduced bug reports from corporate users by more than 99%, and this approach has been a key component of Docker for Mac and Windows ever since. The SLIRP approach has subsequently seen adoption elsewhere in the serverless cloud world,40reviving an old dial-up networking trick to solve new problems in container management.
 
 Figure 5. 
- 
+
 Traffic from a traditional bridged network is blocked by local policy, while traffic from local processes and VM traffic indirected over SLIRP is accepted.
  
 
@@ -122,7 +122,7 @@ Enter Windows Services for Linux.By 2017, the popularity of Linux deployment on 
 In 2018, Microsoft rearchitected WSL, releasing version 2, to adopt a similar approach to Docker for Mac, by running a full Linux VM in the background. At this point, Docker for Windows integration is now seamless; WSL2 Docker runs the daemon and user containers inside a LinuxKit WSL distribution and takes care of forwarding the Docker API and network ports from both Windows itself and from other Linux distributions (Figure6).
 
 Figure 6. 
- 
+
 Docker for Windows architecture on WSL2.
  
 
@@ -151,7 +151,7 @@ Docker began its life in 2013 aiming to help developers more easily build, share
 Software development moves quickly, so we are constantly evolving Docker under the hood to keep up with the latest developments. Figure7shows a typical developer workflow in 2025 that integrates continuous test and deployment, integrated development environment (IDE) language servers, and AI assistance via agentic coding. From a Docker perspective, the core “build and run” workflow remains very similar to the user experience from a decade ago, but with much more systems support23to reduce the friction involved with running in diverse environments that all need robust sandboxing.
 
 Figure 7. 
- 
+
 The Docker developer workflow in 2026.
  
 
@@ -169,56 +169,56 @@ You Just Read
 
 #### A Decade of Docker Containers
 
-				View in the ACM Digital Library				
- 
+				View in the ACM Digital Library
+
 
 This work is licensed under a Creative Commons Attribution International 4.0 license.© 2026 Copyright held by the owner/author(s).
 
 BLOG@CACM
- 
+
  Mar 6 2026
 
 Orchestrating the Schema
 
 Arun Vivek Supramanian
- 
+
 
 Architecture and Hardware
 
- 
+
 
 News
- 
+
  Mar 6 2026
 
 Rethinking the Stack: AI-Native Operating Systems and Tools
 
-							 Jennifer Goforth Gregory						
+							 Jennifer Goforth Gregory
 
 Artificial Intelligence and Machine Learning
 
- 
+
 
 News
- 
+
  Mar 6 2026
 
 AI Liability Insurance Arrives
 
 Logan Kugler
- 
+
 
 Artificial Intelligence and Machine Learning
 
- 
 
- 
+
+
 
 ### Shape the Future of Computing
 
 ACM encourages its members to take a direct hand in shaping the future of the association. There are more ways than ever to get involved.
 
-						Get Involved											
+						Get Involved
 
 ### Communications of the ACM (CACM) is now a fully Open Access publication.
 

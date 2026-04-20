@@ -186,9 +186,9 @@ carry on by their aid."
 – Charles Babbage, quoted in Iverson's Turing Award Lecture, quoted inSuccinctness is Power by Paul Graham
 
 precision
- · 
+ ·
 abstraction
- · 
+ ·
 ai
- · 
+ ·
 coding

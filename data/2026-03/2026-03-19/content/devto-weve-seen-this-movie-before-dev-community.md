@@ -142,7 +142,7 @@ But we're going to have to wade through a lot of Flappy Bird clones with exposed
 I've been negative about the amount of shameless clones on game stores a lot lately, and all the AI news these days is giving me serious fatigue. This post came from realising we've been here before, and I don't think we are learning from the past. I've linked out to the key sources where I can. If you're building something — genuinely building it, not just prompting it — I'd love to hear from you.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

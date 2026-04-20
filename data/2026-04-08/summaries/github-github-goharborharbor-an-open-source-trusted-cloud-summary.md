@@ -1,7 +1,7 @@
 ---
 title: GitHub - goharbor/harbor: An open source trusted cloud native registry project that stores, signs, and scans content. · GitHub
 url: https://github.com/goharbor/harbor
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-08T11:27:23.747318

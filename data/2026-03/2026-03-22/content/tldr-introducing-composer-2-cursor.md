@@ -13,9 +13,9 @@ tags:
 ---
 
 Blog
- 
+
 /
- 
+
 research
 
 Composer 2 is now available in Cursor.

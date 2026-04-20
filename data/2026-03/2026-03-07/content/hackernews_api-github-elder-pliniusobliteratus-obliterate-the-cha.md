@@ -15,7 +15,7 @@ tags:
 
 elder-plinius
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork375
 * Star2.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -180,7 +180,7 @@ O B L I T E R A T U S
 Break the chains. Free the mind. Keep the brain.
 
   
- 
+
 
 Try it now on HuggingFace Spaces— runs on ZeroGPU, free daily quota with HF Pro. No setup, no install, just obliterate.
 
@@ -402,7 +402,7 @@ Architecture docs, method explanations, and research references
 
 The same Gradio interface as the Space, running on your own hardware with full GPU access:
 
-pip install -e 
+pip install -e
 "
 .[spaces]
 "
@@ -415,19 +415,19 @@ obliteratus ui
 #
  Or with options:
 
-obliteratus ui --port 8080 
+obliteratus ui --port 8080
 #
  custom port
 
-obliteratus ui --share 
+obliteratus ui --share
 #
  generate a public share link
 
-obliteratus ui --no-browser 
+obliteratus ui --no-browser
 #
  don't auto-open browser
 
-obliteratus ui --auth user:pass 
+obliteratus ui --auth user:pass
 #
  add basic auth
 
@@ -444,7 +444,7 @@ Pick a model from the dropdown, pick a method, hit Run All. Download the result 
 
 For automation, CI pipelines, or remote servers without a display:
 
-pip install -e 
+pip install -e
 .
 
 #
@@ -463,7 +463,7 @@ obliteratus obliterate meta-llama/Llama-3.1-8B-Instruct --method advanced
 obliteratus obliterate meta-llama/Llama-3.1-8B-Instruct \
  --method surgical \
  --output-dir ./liberated \
- --contribute --contribute-notes 
+ --contribute --contribute-notes
 "
 A100 80GB, default prompts
 "
@@ -477,7 +477,7 @@ obliteratus run examples/gpt2_layer_ablation.yaml
  Browse available models by compute tier
 
 obliteratus models
-obliteratus models --tier small 
+obliteratus models --tier small
 #
  filter by VRAM requirement
 
@@ -507,51 +507,51 @@ obliteratus aggregate --format latex --metric refusal_rate --min-runs 3
 For researchers who want to integrate OBLITERATUS into their own pipelines:
 
 from
- 
+
 obliteratus
 .
 abliterate
- 
+
 import
- 
+
 AbliterationPipeline
 
 # Standard obliteration
 
 pipeline
- 
+
 =
- 
+
 AbliterationPipeline
 (
- 
+
 model_name
 =
 "meta-llama/Llama-3.1-8B-Instruct"
 ,
- 
+
 method
 =
 "advanced"
 ,
- 
+
 output_dir
 =
 "abliterated"
 ,
- 
+
 max_seq_length
 =
 512
-, 
+,
 # optional: override tokenizer truncation length
 
 )
 
 result
- 
+
 =
- 
+
 pipeline
 .
 run
@@ -560,59 +560,59 @@ run
 # Access intermediate artifacts
 
 directions
- 
+
 =
- 
+
 pipeline
 .
 refusal_directions
- 
+
 # {layer_idx: tensor}
 
 strong_layers
- 
+
 =
- 
+
 pipeline
 .
 _strong_layers
- 
+
 # layers with strongest refusal signal
 
 metrics
- 
+
 =
- 
+
 pipeline
 .
 _quality_metrics
- 
+
 # perplexity, coherence, refusal_rate, kl_divergence
 
 For analysis-informed obliteration that auto-tunes every parameter:
 
 from
- 
+
 obliteratus
 .
 informed_pipeline
- 
+
 import
- 
+
 InformedAbliterationPipeline
 
 pipeline
- 
+
 =
- 
+
 InformedAbliterationPipeline
 (
- 
+
 model_name
 =
 "meta-llama/Llama-3.1-8B-Instruct"
 ,
- 
+
 output_dir
 =
 "abliterated_informed"
@@ -620,11 +620,11 @@ output_dir
 )
 
 output_path
-, 
+,
 report
- 
+
 =
- 
+
 pipeline
 .
 run_informed
@@ -632,7 +632,7 @@ run_informed
 
 print
 (
-f"Detected alignment: 
+f"Detected alignment:
 {
 report
 .
@@ -645,7 +645,7 @@ detected_alignment_method
 
 print
 (
-f"Auto-configured: 
+f"Auto-configured:
 {
 report
 .
@@ -658,7 +658,7 @@ recommended_n_directions
 
 print
 (
-f"Ouroboros passes needed: 
+f"Ouroboros passes needed:
 {
 report
 .
@@ -673,98 +673,98 @@ For reproducible experiments that you can version-control and share:
 
 model
 :
- 
+
 name
-: 
+:
 meta-llama/Llama-3.1-8B-Instruct
 
- 
+
 task
-: 
+:
 causal_lm
 
- 
+
 dtype
-: 
+:
 float16
 
- 
+
 device
-: 
+:
 cuda
 
 dataset
 :
- 
+
 name
-: 
+:
 wikitext
 
- 
+
 subset
-: 
+:
 wikitext-2-raw-v1
 
- 
+
 split
-: 
+:
 test
 
- 
+
 text_column
-: 
+:
 text
 
- 
+
 max_samples
-: 
+:
 100
 
 strategies
 :
- - 
+ -
 name
-: 
+:
 layer_removal
 
- - 
+ -
 name
-: 
+:
 head_pruning
 
- - 
+ -
 name
-: 
+:
 ffn_ablation
 
- - 
+ -
 name
-: 
+:
 embedding_ablation
 
- 
+
 params
 :
- 
+
 chunk_size
-: 
+:
 48
 
 metrics
 :
- - 
+ -
 perplexity
 
 batch_size
-: 
+:
 4
 
 max_length
-: 
+:
 256
 
 output_dir
-: 
+:
 results/my_run
 
 obliteratus run my_study.yaml
@@ -845,41 +845,41 @@ Maximum force
 ### Steering vectors (reversible, inference-time)
 
 from
- 
+
 obliteratus
 .
 analysis
- 
+
 import
- 
+
 SteeringVectorFactory
-, 
+,
 SteeringHookManager
 
 from
- 
+
 obliteratus
 .
 analysis
 .
 steering_vectors
- 
+
 import
- 
+
 SteeringConfig
 
 # Create a steering vector from a refusal direction
 
 vec
- 
+
 =
- 
+
 SteeringVectorFactory
 .
 from_refusal_direction
 (
 refusal_dir
-, 
+,
 alpha
 =
 -
@@ -889,51 +889,51 @@ alpha
 # Or from contrastive activation pairs
 
 vec
- 
+
 =
- 
+
 SteeringVectorFactory
 .
 from_contrastive_pairs
 (
 harmful_acts
-, 
+,
 harmless_acts
 )
 
 # Apply at inference time — no weight modification
 
 config
- 
+
 =
- 
+
 SteeringConfig
 (
 vectors
 =
 [
 vec
-], 
+],
 target_layers
 =
 [
 10
-, 
+,
 11
-, 
+,
 12
-, 
+,
 13
-, 
+,
 14
-, 
+,
 15
 ])
 
 manager
- 
+
 =
- 
+
 SteeringHookManager
 ()
 
@@ -942,16 +942,16 @@ manager
 install
 (
 model
-, 
+,
 config
 )
 
 # Generate with steering active
 
 output
- 
+
 =
- 
+
 model
 .
 generate
@@ -1069,56 +1069,56 @@ Refusal rate, perplexity, coherence, KL divergence, CKA, effective rank
 Multiple
 
 from
- 
+
 obliteratus
 .
 analysis
- 
+
 import
  (
- 
+
 CrossLayerAlignmentAnalyzer
 ,
- 
+
 RefusalLogitLens
 ,
- 
+
 WhitenedSVDExtractor
 ,
- 
+
 ActivationProbe
 ,
- 
+
 DefenseRobustnessEvaluator
 ,
- 
+
 ConceptConeAnalyzer
 ,
- 
+
 AlignmentImprintDetector
 ,
- 
+
 MultiTokenPositionAnalyzer
 ,
- 
+
 SparseDirectionSurgeon
 ,
- 
+
 CausalRefusalTracer
 ,
- 
+
 ResidualStreamDecomposer
 ,
- 
+
 LinearRefusalProbe
 ,
- 
+
 TransferAnalyzer
 ,
- 
+
 SteeringVectorFactory
 ,
- 
+
 SteeringHookManager
 ,
 )
@@ -1555,7 +1555,7 @@ Enable telemetry and your runs automatically contribute to the shared dataset. O
  Every run with --contribute feeds the community dataset
 
 obliteratus obliterate meta-llama/Llama-3.1-8B-Instruct --method advanced \
- --contribute --contribute-notes 
+ --contribute --contribute-notes
 "
 A100, default prompts
 "
@@ -1587,37 +1587,37 @@ obliteratus aggregate --format latex --metric refusal_rate --min-runs 3
 Prefer to keep things fully local? Save structured results as JSON and submit them via pull request:
 
 from
- 
+
 obliteratus
- 
+
 import
- 
+
 save_contribution
-, 
+,
 load_contributions
-, 
+,
 aggregate_results
 
 from
- 
+
 obliteratus
 .
 abliterate
- 
+
 import
- 
+
 AbliterationPipeline
 
 pipeline
- 
+
 =
- 
+
 AbliterationPipeline
 (
 model_name
 =
 "meta-llama/Llama-3.1-8B-Instruct"
-, 
+,
 method
 =
 "advanced"
@@ -1633,12 +1633,12 @@ run
 save_contribution
 (
 pipeline
-, 
+,
 model_name
 =
 "meta-llama/Llama-3.1-8B-Instruct"
 ,
- 
+
 notes
 =
 "A100, default prompts"
@@ -1647,18 +1647,18 @@ notes
 # Aggregate all contributions into paper tables
 
 records
- 
+
 =
- 
+
 load_contributions
 (
 "community_results"
 )
 
 aggregated
- 
+
 =
- 
+
 aggregate_results
 (
 records
@@ -1700,39 +1700,39 @@ If you use OBLITERATUS in your research, please cite:
 {
 obliteratus2026
 ,
- 
+
 title
- = 
+ =
 {
 OBLITERATUS: An Open Platform for Analysis-Informed
 
  Refusal Removal in Large Language Models
 }
 ,
- 
+
 author
- = 
+ =
 {
 {OBLITERATUS Contributors}
 }
 ,
- 
+
 year
- = 
+ =
 {
 2026
 }
 ,
- 
+
 url
- = 
+ =
 {
 https://github.com/elder-plinius/OBLITERATUS
 }
 ,
- 
+
 note
- = 
+ =
 {
 15 analysis modules, 837 tests
 }
@@ -1741,7 +1741,7 @@ note
 
 ## Testing
 
-pip install -e 
+pip install -e
 "
 .[dev]
 "
@@ -1771,58 +1771,58 @@ obliterate the chains that bind you
 
  Readme
 
- 
+
 
 ### License
 
  AGPL-3.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 2.1k
 
  stars
- 
+
 
 ### Watchers
 
 24
 
  watching
- 
+
 
 ### Forks
 
 375
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -1840,9 +1840,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1850,9 +1850,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

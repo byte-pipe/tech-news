@@ -29,22 +29,22 @@ Some of NASA’s Solar System exploration missions on the list have received NAS
 Congress rejected most of the Trump administration’s proposed NASA cuts. Lawmakers passed a fiscal year 2026 budget with $2.54 billion for NASA’s planetary science division, far above the White House’s request, but about $220 million shy of last year’s funding.
 
  Artist’s illustration of the Juno spacecraft in orbit around Jupiter.
- 
+
 
  Credit:
  NASA
- 
+
 
  Artist’s illustration of the Juno spacecraft in orbit around Jupiter.
 
- 
+
 
  Credit:
 
- 
+
  NASA
 
- 
+
 
 ## NASA can’t afford everything
 
@@ -65,22 +65,22 @@ NASA must also balance its budget between building new missions, which infuse em
 Prockter said NASA wants to “start a conversation” within the space science community about the agency’s priorities, particularly with regard to extended missions. “When we say yes to something, we say no to something else.”
 
  Louise Prockter, director of NASA’s planetary science division, presented this chart showing the agency’s oldest Solar System exploration missions, and their cost to operate each year.
- 
+
 
  Credit:
  NASA/Louise Prockter
- 
+
 
  Louise Prockter, director of NASA’s planetary science division, presented this chart showing the agency’s oldest Solar System exploration missions, and their cost to operate each year.
 
- 
+
 
  Credit:
 
- 
+
  NASA/Louise Prockter
 
- 
+
 
 NASA’s cadence of Solar System missions has declined since reaching a peak in the late 1990s and early 2000s, when the agency launched 11 Discovery-class robotic missions in a little more than 15 years. NASA has launched just three Discovery missions in the 15 years since then, and the next one won’t fly before 2030. A program for more expensive missions, called New Frontiers, has launched three missions over the last 20 years. The next New Frontiers mission is Dragonfly, a rotorcraft set to launch Saturn’s moon Titan in 2028.
 
@@ -117,17 +117,17 @@ Therefore, it is not only Jupiter’s immense size than leads to such large and 
 “Or could it be that greater energy is available because with moist convection on Jupiter, you have a bigger buildup of heat needed before you can generate the storm to create lightning?” Wongsaid in a press release. “It’s an active area of research.”
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark is a space reporter at Ars Technica, covering private space companies and the world’s space agencies. Stephen writes about the nexus of technology, science, policy, and business on and off the planet.
- 
+
 
 1. 1.A unique NASA satellite is falling out of orbit—this team is trying to rescue it
 2. 2.US to pay TotalEnergies $1 billion to stop developing offshore wind in US

@@ -100,7 +100,7 @@ Wastes of lives resownWith colorsBy superior springs,Death — unto itself excep
 To put a corporate stamp on it, the old exhortation to bring your whole self to work applies, now more than ever. The workplace has need of all of us with all of our interesting, strange, diverse, warty, emotional, and overwhelmingly human perspectives as our professions will be shaped increasingly by the collective that is AI. Embrace your interdisciplinarity, lean into it. I wish you great success. And please take care of yourself and each other.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

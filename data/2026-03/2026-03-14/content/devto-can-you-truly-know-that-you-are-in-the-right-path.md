@@ -28,7 +28,7 @@ This could be the result of the Job Market for Computer Science since we see tha
 I feel like, in my opinion, we are using the rejections from the companies as a measuring tool to determine if we are caught up in the SWE field.I am wondering what you guys think about this and how we truly know we are in the right path?
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -39,7 +39,7 @@ Preview
 Dismiss
 
  View full discussion (34 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

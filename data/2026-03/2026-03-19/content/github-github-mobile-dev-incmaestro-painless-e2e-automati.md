@@ -11,7 +11,7 @@ description: Painless E2E Automation for Mobile and Web. Contribute to mobile-de
 
 mobile-dev-inc
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork695
 * Star12.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -334,56 +334,56 @@ maestro.dev
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 12.1k
 
  stars
- 
+
 
 ### Watchers
 
 62
 
  watching
- 
+
 
 ### Forks
 
 695
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases134
 
@@ -391,11 +391,11 @@ CLI 2.3.0
 
  Latest
 
- 
+
 
 Mar 10, 2026
 
- 
+
 
 + 133 releases
 
@@ -411,17 +411,17 @@ Mar 10, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors105
 

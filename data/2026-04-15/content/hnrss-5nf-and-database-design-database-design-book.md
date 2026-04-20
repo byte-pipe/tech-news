@@ -153,45 +153,45 @@ Sentences
 Table or column names
 
 Brand
- : 
+ :
 Flavour
 
 M:N
 
-A Brand produces 
+A Brand produces
 several
  Flavours
-A Flavour is produced by 
+A Flavour is produced by
 several
  Brands
 
 brand_flavours
 
 Friend
- : 
+ :
 Brand
 
 M:N
 
-A Friend prefers 
+A Friend prefers
 several
  Brands
-A Brand is preferred by 
+A Brand is preferred by
 several
  Friends
 
 friend_brands
 
 Friend
- : 
+ :
 Flavour
 
 M:N
 
-A Friend prefers 
+A Friend prefers
 several
  Flavours
-A Flavour is preferred by 
+A Flavour is preferred by
 several
  Friends
 
@@ -288,15 +288,15 @@ Sentences
 Table or column names
 
 Concert
- : 
+ :
 Performance
 
 1:N
 
-A Concert consists of 
+A Concert consists of
 several
  Performances
-A Performance is a part of 
+A Performance is a part of
 only one
  Concert
 
@@ -307,10 +307,10 @@ Instrument : Performance
 
 1:N
 
-An Instrument is played in 
+An Instrument is played in
 several
  Performances
- A Performance involves 
+ A Performance involves
 only one
  Instrument
 
@@ -321,10 +321,10 @@ Musician : Performance
 
 1:N
 
-A Musician may perform 
+A Musician may perform
 several
  Performances
- A Performance is performed by 
+ A Performance is performed by
 only one
  Musician
 
@@ -353,41 +353,41 @@ But here is the question: what would be the primary key of that table? In most a
 If we use a synthetic ID column, we need to add a uniqueness constraint:
 
 CREATE
- 
+
 TABLE
- performances ( 
+ performances (
 
- id INTEGER 
+ id INTEGER
 NOT
- 
+
 NULL
- 
+
 PRIMARY
- 
+
 KEY
-, 
+,
 
- concert_id INTEGER 
+ concert_id INTEGER
 NOT
- 
-NULL
-, 
 
- musician_id INTEGER 
+NULL
+,
+
+ musician_id INTEGER
 NOT
- 
-NULL
-, 
 
- instrument_id INTEGER 
+NULL
+,
+
+ instrument_id INTEGER
 NOT
- 
-NULL
-, 
 
- 
+NULL
+,
+
+
 UNIQUE
- (concert_id, musician_id, instrument_id) 
+ (concert_id, musician_id, instrument_id)
 
 );
 
@@ -396,33 +396,33 @@ The data looks like this:
 But what the relational theory textbooks want you to know is that you can also design this table by using a composite primary key (which also serves as a uniqueness constraint):
 
 CREATE
- 
+
 TABLE
- performances ( 
+ performances (
 
- concert_id INTEGER 
+ concert_id INTEGER
 NOT
- 
-NULL
-, 
 
- musician_id INTEGER 
+NULL
+,
+
+ musician_id INTEGER
 NOT
- 
-NULL
-, 
 
- instrument_id INTEGER 
+NULL
+,
+
+ instrument_id INTEGER
 NOT
- 
-NULL
-, 
 
- 
+NULL
+,
+
+
 PRIMARY
- 
+
 KEY
- (concert_id, musician_id, instrument_id) 
+ (concert_id, musician_id, instrument_id)
 
 );
 
@@ -481,15 +481,15 @@ Sentences
 Table or column names
 
 Friend
- : 
+ :
 Preference
 
 1:N
 
-A Friend can have 
+A Friend can have
 several
  Preferences
-A Preference belongs to 
+A Preference belongs to
 only one
  Friend
 
@@ -500,10 +500,10 @@ Brand : Preference
 
 1:N
 
-A Brand is involved in 
+A Brand is involved in
 several
  Preferences
- A Preference refers to 
+ A Preference refers to
 only one
  Brand
 
@@ -514,10 +514,10 @@ Flavour : Preference
 
 1:N
 
-A Flavour is involved in 
+A Flavour is involved in
 several
  Preferences
- A Preference refers to 
+ A Preference refers to
 only one
  Flavour
 
@@ -561,10 +561,10 @@ Instrument : Musician
 
 M:N
 
-An Instrument can be played by 
+An Instrument can be played by
 several
  Musicians
- A Musician can play 
+ A Musician can play
 several
  Instruments
 

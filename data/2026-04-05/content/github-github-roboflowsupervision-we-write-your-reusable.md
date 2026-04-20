@@ -11,7 +11,7 @@ description: We write your reusable computer vision tools. 💜. Contribute to r
 
 roboflow
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork3.3k
 * Star37.7k
 
- 
- 
- 
+
+
+
  
 develop
 Branches
@@ -158,55 +158,55 @@ Supervision was designed to be model agnostic. Just plug in any classification, 
 Install the optional dependencies for this example withpip install pillow rfdetr.
 
 import
- 
+
 supervision
- 
+
 as
- 
+
 sv
 
 from
- 
+
 PIL
- 
+
 import
- 
+
 Image
 
 from
- 
+
 rfdetr
- 
+
 import
- 
+
 RFDETRSmall
 
 image
- 
+
 =
- 
+
 Image
 .
 open
 (...)
 
 model
- 
+
 =
- 
+
 RFDETRSmall
 ()
 
 detections
- 
+
 =
- 
+
 model
 .
 predict
 (
 image
-, 
+,
 threshold
 =
 0.5
@@ -228,48 +228,48 @@ detections
 Supervision offers a wide range of highly customizableannotators, allowing you to compose the perfect visualization for your use case.
 
 import
- 
+
 cv2
 
 import
- 
+
 supervision
- 
+
 as
- 
+
 sv
 
 image
- 
+
 =
- 
+
 cv2
 .
 imread
 (...)
 
 detections
- 
+
 =
- 
+
 sv
 .
 Detections
 (...)
 
 box_annotator
- 
+
 =
- 
+
 sv
 .
 BoxAnnotator
 ()
 
 annotated_frame
- 
+
 =
- 
+
 box_annotator
 .
 annotate
@@ -279,7 +279,7 @@ scene
 image
 .
 copy
-(), 
+(),
 detections
 =
 detections
@@ -292,25 +292,25 @@ supervision-0.16.0-annotators.mp4
 Supervision provides a set ofutilsthat allow you to load, split, merge, and save datasets in one of the supported formats.
 
 import
- 
+
 supervision
- 
+
 as
- 
+
 sv
 
 from
- 
+
 roboflow
- 
+
 import
- 
+
 Roboflow
 
 project
- 
+
 =
- 
+
 Roboflow
 ().
 workspace
@@ -323,9 +323,9 @@ project
 )
 
 dataset
- 
+
 =
- 
+
 project
 .
 version
@@ -338,16 +338,16 @@ download
 )
 
 ds
- 
+
 =
- 
+
 sv
 .
 DetectionDataset
 .
 from_coco
 (
- 
+
 images_directory_path
 =
 f"
@@ -358,7 +358,7 @@ location
 }
 /train"
 ,
- 
+
 annotations_path
 =
 f"
@@ -372,13 +372,13 @@ location
 )
 
 path
-, 
+,
 image
-, 
+,
 annotation
- 
+
 =
- 
+
 ds
 [
 0
@@ -387,21 +387,21 @@ ds
 # loads image on demand
 
 for
- 
+
 path
-, 
+,
 image
-, 
+,
 annotation
- 
+
 in
- 
+
 ds
 :
- 
+
 # loads image on demand
 
- 
+
 pass
 
 👉 more dataset utils
@@ -504,61 +504,61 @@ supervision.roboflow.com
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 37.7k
 
  stars
- 
+
 
 ### Watchers
 
 228
 
  watching
- 
+
 
 ### Forks
 
 3.3k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases35
 
@@ -566,11 +566,11 @@ supervision-0.27.0.post
 
  Latest
 
- 
+
 
 Mar 14, 2026
 
- 
+
 
 + 34 releases
 
@@ -578,9 +578,9 @@ Mar 14, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -588,13 +588,13 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 
 * Python100.0%
 
- Generated from 
+ Generated from
 roboflow/template-python

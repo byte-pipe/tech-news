@@ -44,7 +44,7 @@ DOWNLOAD
 
 SVG
 
-PNG 
+PNG
 new
 
 Hey I'm Matt, please choose your way to credit my work:
@@ -107,11 +107,11 @@ UNLOCK
 
 Enjoy this small sampling of our designs and patterns. All are customizable: change into your brand colors — some even shrink, spin, or shift. Each background is unique to SVGBackgrounds.com, so enjoy exploring before you easily export into your project.
 
- 
+
 
 You have access. Enjoy!
 
- 
+
 
 ## Select a background
 
@@ -141,7 +141,7 @@ INFO
 
 HIDE UI
 
- 
+
 
 PREVIEW
 
@@ -239,9 +239,9 @@ PREVIEW
 
 PREVIEW
 
- 
 
- 
+
+
 
 Hey, I'mMatt, the creator behind SVG Backgrounds. I produce free and paid resources every month, sign up for alerts.
 

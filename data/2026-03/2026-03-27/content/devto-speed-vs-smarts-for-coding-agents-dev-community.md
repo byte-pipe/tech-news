@@ -18,7 +18,7 @@ It's hard to pass up the smartest model, but speed has to matter too.
 Can you articulate this?
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -29,6 +29,6 @@ Preview
 Dismiss
 
  View full discussion (12 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

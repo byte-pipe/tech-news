@@ -13,7 +13,7 @@ tags:
 
 marciopuga
 
- 
+
 
 /
 
@@ -25,9 +25,9 @@ Public
 * Fork18
 * Star278
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -147,14 +147,14 @@ Here's what builds up over time. None of this is pre-filled — it emerges from 
 
 memory/hot-memory.md— the 30,000-foot view:
 
-# 
+#
 Hot Memory
 
 <!--
- L0: Current priorities, active situations, system notes 
+ L0: Current priorities, active situations, system notes
 -->
 
-## 
+##
 Identity
 
 -
@@ -163,22 +163,22 @@ Identity
 -
  Side project: open-source CLI tools
 
-## 
+##
 Watch
 
 -
- Performance review cycle opens next week — prep doc started 
+ Performance review cycle opens next week — prep doc started
 [[
 work/acme/action-items
 ]]
 
 -
- Kid's speech therapy showing progress — 3 new words this month 
+ Kid's speech therapy showing progress — 3 new words this month
 [[
 personal/health
 ]]
 
-## 
+##
 System
 
 -
@@ -187,21 +187,21 @@ System
 memory/personal/observations.md— raw events, append-only:
 
 -
- 2026-03-10 
+ 2026-03-10
 [
 family
 ]
 : School called — Sam had a great day, shared toys unprompted for the first time
 
 -
- 2026-03-11 
+ 2026-03-11
 [
 health
 ]
 : Ran 5k in 28min. Knee felt fine. Third run this week without pain.
 
 -
- 2026-03-12 
+ 2026-03-12
 [
 insight
 ]
@@ -209,7 +209,7 @@ insight
 
 memory/work/acme/entities.md— compact 3-line registry:
 
-### 
+###
 Sarah Chen (Engineering Manager)
 
 -
@@ -287,7 +287,7 @@ work
 Day job
 
 /acme
-, 
+,
 /google
 
 side-project
@@ -295,7 +295,7 @@ side-project
 Ventures, hobbies
 
 /myapp
-, 
+,
 /substack
 
 system
@@ -372,34 +372,34 @@ Claude Codehas built-in task scheduling — use/loopor cron to run pipeline skil
 #
  Example: nightly housekeeping + reflect via cron
 
-0 23 
+0 23
 *
- 
+
 *
- 
+
 *
- 
+
 cd
- /path/to/cog 
+ /path/to/cog
 &&
- claude -p 
+ claude -p
 "
 $(
 cat .claude/commands/housekeeping.md
 )
 "
 
-0 0 
+0 0
 *
- 
+
 *
- 
+
 *
- 
+
 cd
- /path/to/cog 
+ /path/to/cog
 &&
- claude -p 
+ claude -p
 "
 $(
 cat .claude/commands/reflect.md
@@ -467,37 +467,37 @@ BibTeX for academic use:
 {
 puga2026cog
 ,
- 
+
 author
- = 
+ =
 {
 Puga, Marcio
 }
 ,
- 
+
 title
- = 
+ =
 {
 Cog: Cognitive Architecture for Claude Code
 }
 ,
- 
+
 year
- = 
+ =
 {
 2026
 }
 ,
- 
+
 url
- = 
+ =
 {
 https://github.com/marciopuga/cog
 }
 ,
- 
+
 note
- = 
+ =
 {
 Persistent memory, self-reflection, and foresight for AI agents
 }
@@ -516,48 +516,48 @@ Cognitive architecture for Claude Code — persistent memory, self-reflection, a
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 278
 
  stars
- 
+
 
 ### Watchers
 
 2
 
  watching
- 
+
 
 ### Forks
 
 18
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -575,9 +575,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors2
 

@@ -14,9 +14,9 @@ tags:
 InfoQ HomepageNewsArgo CD 3.3 Brings Safer GitOps Deletions and Smoother Day‑to‑Day Operations
 
  DevOps
- 
 
-QCon London (March 16-19, 2026): Learn proven architectural practices to scale your systems faster. 
+
+QCon London (March 16-19, 2026): Learn proven architectural practices to scale your systems faster.
 
 # Argo CD 3.3 Brings Safer GitOps Deletions and Smoother Day‑to‑Day Operations
 
@@ -31,8 +31,8 @@ by
 
 Feed your curiosity.
 
-Help 550k+ global 
-senior developers 
+Help 550k+ global
+senior developers
 each month stay ahead.
 Get in touch
 
@@ -64,15 +64,15 @@ Argo CD and Flux are often positioned as complementary rather than strictly comp
 
 Argo CD 3.3.2 isavailable now.
 
- 
+
 
 ## About the Author
 
- 
 
- 
 
- 
+
+
+
 
 #### Matt Saunders
 
@@ -113,7 +113,7 @@ Select your country
 
 Select a country
 
-I consent to InfoQ.com handling my data as explained in this 
+I consent to InfoQ.com handling my data as explained in this
 Privacy Notice
 .
 

@@ -11,7 +11,7 @@ description: Python tool for converting files and office documents to Markdown. 
 
 microsoft
 
- 
+
 
 /
 
@@ -28,41 +28,41 @@ Python tool for converting files and office documents to Markdown.
 ### License
 
  MIT license
- 
+
 
 88.9k
 
  stars
 
- 
+
 
 5.2k
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # microsoft/markitdown

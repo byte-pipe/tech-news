@@ -26,5 +26,5 @@ Qasar Younis, the co-founder and CEO of Applied Intuition, a $15 billion AI soft
 ## Takeaways from Qasar Younis’s Key Points
 
 *   Don't borrow other people's frameworks
-*   Strip embarrassment - make mistakes to learn from your failures 
+*   Strip embarrassment - make mistakes to learn from your failures
 *   Refuse to overlook opportunities or relationships

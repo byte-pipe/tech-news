@@ -45,15 +45,15 @@ U.S. President Donald Trump last week told federal agencies to stop using Anthro
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 Claude
-, 
+,
 In Brief
-, 
+,
 Outage
- 
+
 
 ### Newsletters
 
@@ -78,7 +78,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

@@ -22,7 +22,7 @@ docs
 jobs
 |
 
-tinybox 
+tinybox
 (buy now!)
 |
 
@@ -50,7 +50,7 @@ ReduceOps
 MovementOps
  are virtual ops that operate on one tensor and move the data around
 
- Copy-free with 
+ Copy-free with
 ShapeTracker
 .
 
@@ -60,19 +60,19 @@ But how...where are your CONVs and MATMULs? Read the code to solve this mystery.
 
 ## Work at tiny corp
 
- We 
+ We
 are now funded
- and 
+ and
 hiring
  full time software engineers. Very talented interns okay.
 
- See 
+ See
 our bounty page
  to judge if you might be a good fit. Bounties pay you while judging that fit.
 
  We are also hiring for operations and hardware, but if you haven't contributed to tinygrad your application won't be considered.
 
- 
+
 
 ## tinybox(now shipping)
 
@@ -159,7 +159,7 @@ Dimensions
 20x8x8.5 ft, 20,000 lbs
 
 Rack?
-Freestanding or rack 
+Freestanding or rack
 mount
 concrete slab
 
@@ -173,14 +173,14 @@ IN STOCK - $12,000
 IN STOCK - $65,000
 coming 2027 - ~$10M
 
- for updates on products and inventory, 
+ for updates on products and inventory,
 sign up for the mailing list
 
 ## FAQ
 
 What is a tinybox?
 
-It is a very powerful computer for deep learning, and likely the best performance/$. It was 
+It is a very powerful computer for deep learning, and likely the best performance/$. It was
 benchmarked
  in MLPerf Training 4.0 vs computers that cost 10x as much. And of course, anything that can train can do inference.
 
@@ -190,9 +190,9 @@ Place an order through the links above. The factory is up and running, and it wi
 
 Where can I learn more about the tinybox?
 
-We have a lot of content on our 
+We have a lot of content on our
 Twitter
-, we also have a 
+, we also have a
 tinybox docs page
  and a #tinybox discord channel.
 
@@ -210,27 +210,27 @@ In order to keep prices low and quality high, we don't offer any customization t
 
 Can I get a W-9 for this purchase?
 
-Yes, you can 
+Yes, you can
 download that here
 .
 
 Is tinygrad used anywhere?
 
-tinygrad is used in 
+tinygrad is used in
 openpilot
- to run the driving model on the Snapdragon 845 GPU. It replaces 
+ to run the driving model on the Snapdragon 845 GPU. It replaces
 SNPE
 , is faster, supports loading onnx files, supports training, and allows for attention (SNPE only allows fixed weights).
 
 Is tinygrad inference only?
 
-No! It supports full forward and backward passes with autodiff. 
+No! It supports full forward and backward passes with autodiff.
 This
  is implemented at a level of abstraction higher than the accelerator specific code, so a tinygrad port gets you this for free.
 
 How can I use tinygrad for my next ML project?
 
-Follow the installation instructions on 
+Follow the installation instructions on
 the tinygrad repo
 . It has a similar API to PyTorch, yet simpler and more refined. Less stable though while tinygrad is in alpha, so be warned, though it's been fairly stable for a while.
 
@@ -241,7 +241,7 @@ When we can reproduce a common set of papers on 1 NVIDIA GPU 2x faster than PyTo
 How is tinygrad faster than PyTorch?
 
 For most use cases it isn't yet, but it will be. It has three advantages:
- 
+
 It compiles a custom kernel for every operation, allowing extreme shape specialization.
 
 All tensors are lazy, so it can aggressively fuse operations.
@@ -250,7 +250,7 @@ The backend is 10x+ simpler, meaning optimizing one kernel makes everything fast
 
 Where is tinygrad development happening?
 
-On GitHub and 
+On GitHub and
 on Discord
 
 How can the tiny corp work for me?
@@ -260,9 +260,9 @@ Email me, george@tinygrad.org. We are looking for contracts and sponsorships to 
 
 How can I work for the tiny corp?
 
-See 
+See
 hiring
- above. Contributions to 
+ above. Contributions to
 tinygrad
  on GitHub
  always

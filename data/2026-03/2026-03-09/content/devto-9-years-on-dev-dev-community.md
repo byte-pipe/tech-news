@@ -57,7 +57,7 @@ Enter fullscreen mode
 Exit fullscreen mode
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

@@ -5,10 +5,10 @@ generated_at: '2026-03-27T01:03:12.380538'
 ---
 
 ## Executive Summary
-- A New Mexico jury held Meta liable for facilitating child sexual exploitation, imposing a $375 million judgment and signaling heightened legal scrutiny of social‑media platforms.  
-- U.S. policymakers are debating new revenue streams from AI‑driven data centers to fund worker retraining, while Apple gains access to Google’s Gemini model to build on‑device AI for Siri.  
-- In the AI‑agent economy, the traditional App Store model is being unbundled, shifting monetization focus to discovery and ranking services.  
-- Rural hospitals face a paradoxical $50 billion federal fund that may compel service “right‑sizing,” risking reductions in care access.  
+- A New Mexico jury held Meta liable for facilitating child sexual exploitation, imposing a $375 million judgment and signaling heightened legal scrutiny of social‑media platforms.
+- U.S. policymakers are debating new revenue streams from AI‑driven data centers to fund worker retraining, while Apple gains access to Google’s Gemini model to build on‑device AI for Siri.
+- In the AI‑agent economy, the traditional App Store model is being unbundled, shifting monetization focus to discovery and ranking services.
+- Rural hospitals face a paradoxical $50 billion federal fund that may compel service “right‑sizing,” risking reductions in care access.
 - Ecologists have uncovered a unique canopy latrine system used by dozens of jungle mammals, highlighting complex arboreal communication networks.
 
 ---

@@ -84,7 +84,7 @@ Narelle Zagami, a local resident, also met them. "It's very emotional. I love Ha
 When asked about the criticism of the couple making money during their trip as private citizens, Zagami said: "They've got to make a living as well. It's part of their life now, this sort of thing, so I think it's good."
 
 BBC/ Simon Atkinson
-Narelle Zagami, a local resident, smiling with Harry and Meghan during the Scar Tree Walk in Melbourne. 
+Narelle Zagami, a local resident, smiling with Harry and Meghan during the Scar Tree Walk in Melbourne.
 
 Prince Harry and Meghan's last visit to Australia was in 2018, a few months after their marriage.
 

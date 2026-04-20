@@ -114,45 +114,45 @@ This created some fun lifecycle management challenges:
 2. Context Management:I built an asynchronous context manager (_NotionAgentContext) in Python. When an export or correction job starts, it spins up the Node subprocess, passes the specific user'sNOTION_TOKENsecurely via environment variables, initializes the LangGraph agent, processes the batches of data, and gracefully shuts down the subprocess when the job is done.
 
 class
- 
+
 _NotionAgentContext
 :
 
- 
+
 async
- 
+
 def
- 
+
 __aenter__
 (
 self
 ):
 
- 
+
 # 1. Start the Node.js MCP subprocess via stdio
 
- 
+
 self
 .
 _stdio_cm
- 
+
 =
- 
+
 stdio_client
 (
 server_params
 )
 
- 
+
 read
 ,
- 
+
 write
- 
+
 =
- 
+
 await
- 
+
 self
 .
 _stdio_cm
@@ -160,31 +160,31 @@ _stdio_cm
 __aenter__
 ()
 
- 
+
 # 2. Initialize session and load Notion tools
 
- 
+
 self
 .
 _session_cm
- 
+
 =
- 
+
 ClientSession
 (
 read
 ,
- 
+
 write
 )
 
- 
+
 session
- 
+
 =
- 
+
 await
- 
+
 self
 .
 _session_cm
@@ -192,65 +192,65 @@ _session_cm
 __aenter__
 ()
 
- 
+
 await
- 
+
 session
 .
 initialize
 ()
 
- 
+
 tools
- 
+
 =
- 
+
 await
- 
+
 load_mcp_tools
 (
 session
 )
 
- 
+
 # 3. Return a LangGraph autonomous agent equipped with Notion MCP
 
- 
+
 return
- 
+
 create_react_agent
 (
 llm
 ,
- 
+
 tools
 )
 
- 
+
 async
- 
+
 def
- 
+
 __aexit__
 (
 self
 ,
- 
+
 exc_type
 ,
- 
+
 exc_val
 ,
- 
+
 exc_tb
 ):
 
- 
+
 # Gracefully shut down the subprocess to prevent zombie Node processes
 
- 
+
 await
- 
+
 self
 .
 _session_cm
@@ -259,16 +259,16 @@ __aexit__
 (
 exc_type
 ,
- 
+
 exc_val
 ,
- 
+
 exc_tb
 )
 
- 
+
 await
- 
+
 self
 .
 _stdio_cm
@@ -277,10 +277,10 @@ __aexit__
 (
 exc_type
 ,
- 
+
 exc_val
 ,
- 
+
 exc_tb
 )
 
@@ -307,7 +307,7 @@ Building software is fun, but seeing it come alive and solve actual problems for
 I'd love to hear your thoughts on this approach or how you are using MCP in your own projects. Let's continue the conversation onXor connect onLinkedIn.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

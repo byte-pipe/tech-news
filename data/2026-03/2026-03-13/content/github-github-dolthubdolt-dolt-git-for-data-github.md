@@ -11,7 +11,7 @@ description: Dolt – Git for Data. Contribute to dolthub/dolt development by cr
 
 dolthub
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork664
 * Star20.8k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -290,13 +290,13 @@ $ dolt config --global --add user.name "YOUR NAME"
 
 Dolt needs a place to store your databases. I'm going to put my databases in~/dolt.
 
-% 
+%
 cd
- 
+
 ~
 
 % mkdir dolt
-% 
+%
 cd
  dolt
 
@@ -335,7 +335,7 @@ Your terminal will just hang there. This means the server is running. Any errors
 
 In the new terminal, we will now connect to the running database server using a client. Dolt also ships with a MySQL compatible client.
 
-% dolt -u root -p 
+% dolt -u root -p
 "
 "
  sql
@@ -365,20 +365,20 @@ NOTE: Make sure you install a MySQL 8.4 release. MySQL 8.4 is the current Long T
 MySQL comes with a MySQL server calledmysqldand a MySQL client calledmysql. You're only interested in the client. After following the instructions from MySQL's documentation, make sure you have a copy of themysqlclient on your path:
 
 % mysql --version
-mysql Ver 8.0.29 
+mysql Ver 8.0.29
 for
  macos12.2 on x86_64 (Homebrew)
 
 Now, to connect themysqlclient to Dolt, you are going to force the MySQL client through the TCP interface by passing in a host and port. The default is the socket interface which Dolt supports, but is only available onlocalhost. So, it's better to show off the TCP interface. The MySQL client also requires you specify a user, in this caseroot.
 
 % mysql --host 127.0.0.1 --port 3306 -uroot
-Welcome to the MySQL monitor. Commands end with 
+Welcome to the MySQL monitor. Commands end with
 ;
- or 
+ or
 \g
 .
 Your MySQL connection id is 2
-Server version: 5.7.9-Vitess 
+Server version: 5.7.9-Vitess
 
 Copyright (c) 2000, 2022, Oracle and/or its affiliates.
 
@@ -386,17 +386,17 @@ Oracle is a registered trademark of Oracle Corporation and/or its
 affiliates. Other names may be trademarks of their respective
 owners.
 
-Type 
+Type
 '
 help;
 '
- or 
+ or
 '
 \h
 '
- 
+
 for
- help. Type 
+ help. Type
 '
 \c
 '
@@ -421,23 +421,23 @@ Query OK, 1 row affected (0.04 sec)
 mysql> use getting_started;
 Database changed
 mysql> create table employees (
- id int, 
- last_name varchar(255), 
- first_name varchar(255), 
+ id int,
+ last_name varchar(255),
+ first_name varchar(255),
  primary key(id));
 Query OK, 0 rows affected (0.01 sec)
 
 mysql> create table teams (
- id int, 
- team_name varchar(255), 
- primary key(id)); 
+ id int,
+ team_name varchar(255),
+ primary key(id));
 Query OK, 0 rows affected (0.00 sec)
 
 mysql> create table employees_teams(
- team_id int, 
- employee_id int, 
- primary key(team_id, employee_id), 
- foreign key (team_id) references teams(id), 
+ team_id int,
+ employee_id int,
+ primary key(team_id, employee_id),
+ foreign key (team_id) references teams(id),
  foreign key (employee_id) references employees(id));
 Query OK, 0 rows affected (0.01 sec)
 
@@ -496,10 +496,10 @@ Note, a Dolt commit is different than a standard SQL transactionCOMMIT. In this 
 
 Now, I'm going to populate the database with a few employees here at DoltHub. Then, I'll assign the employees to two teams: engineering and sales. The CEO wears many hats at a start up so he'll be assigned to multiple teams.
 
-mysql> insert into employees values 
- (0, 'Sehn', 'Tim'), 
- (1, 'Hendriks', 'Brian'), 
- (2, 'Son','Aaron'), 
+mysql> insert into employees values
+ (0, 'Sehn', 'Tim'),
+ (1, 'Hendriks', 'Brian'),
+ (2, 'Son','Aaron'),
  (3, 'Fitzgerald', 'Brian');
 Query OK, 4 rows affected (0.01 sec)
 
@@ -512,32 +512,32 @@ mysql> select * from employees where first_name='Brian';
 +------+------------+------------+
 2 rows in set (0.00 sec)
 
-mysql> insert into teams values 
- (0, 'Engineering'), 
+mysql> insert into teams values
+ (0, 'Engineering'),
  (1, 'Sales');
 Query OK, 2 rows affected (0.00 sec)
 
-mysql> insert into employees_teams values 
- (0,0), 
- (1,0), 
- (2,0), 
- (0,1), 
+mysql> insert into employees_teams values
+ (0,0),
+ (1,0),
+ (2,0),
+ (0,1),
  (3,1);
 ERROR 1452 (HY000): cannot add or update a child row - Foreign key violation on fk: `rv9ek7ft`, table: `employees_teams`, referenced table: `teams`, key: `[2]`
 
 Oops, I violated a constraint. It looks like I created the table with teams before employees. You should always specify your columns when you insert, not rely on natural ordering. Serves me right! Dolt comes with the full power of a modern SQL relational database to ensure data integrity.
 
-mysql> insert into employees_teams(employee_id, team_id) values 
- (0,0), 
- (1,0), 
- (2,0), 
- (0,1), 
+mysql> insert into employees_teams(employee_id, team_id) values
+ (0,0),
+ (1,0),
+ (2,0),
+ (0,1),
  (3,1);
 Query OK, 5 rows affected (0.01 sec)
 
-mysql> select first_name, last_name, team_name from employees 
- join employees_teams on (employees.id=employees_teams.employee_id) 
- join teams on (teams.id=employees_teams.team_id) 
+mysql> select first_name, last_name, team_name from employees
+ join employees_teams on (employees.id=employees_teams.employee_id)
+ join teams on (teams.id=employees_teams.team_id)
  where team_name='Engineering';
 +------------+-----------+-------------+
 | first_name | last_name | team_name |
@@ -675,14 +675,14 @@ modifications
 );
 
 update
- employees 
+ employees
 SET
  first_name
 =
 '
 Timothy
 '
- 
+
 where
  first_name
 =
@@ -692,7 +692,7 @@ Tim
 ;
 
 insert INTO
- employees (id, first_name, last_name) 
+ employees (id, first_name, last_name)
 values
  (
 4
@@ -700,14 +700,14 @@ values
 '
 Daylon
 '
-, 
+,
 '
 Wilkins
 '
 );
 
 insert into
- employees_teams(team_id, employee_id) 
+ employees_teams(team_id, employee_id)
 values
  (
 0
@@ -716,14 +716,14 @@ values
 );
 
 delete
- 
+
 from
- employees_teams 
+ employees_teams
 where
  employee_id
 =
 0
- 
+
 and
  team_id
 =
@@ -733,7 +733,7 @@ call dolt_commit(
 '
 -am
 '
-, 
+,
 '
 Modifications on a branch
 '
@@ -900,9 +900,9 @@ mysql> select * from employees;
 
 Data changes successful as well. As you can see, I am now "Timothy" instead of "Tim", Daylon is added, and we all have start dates except for Daylon who was added on a different branch.
 
-mysql> select first_name, last_name, team_name from employees 
- join employees_teams on (employees.id=employees_teams.employee_id) 
- join teams on (teams.id=employees_teams.team_id) 
+mysql> select first_name, last_name, team_name from employees
+ join employees_teams on (employees.id=employees_teams.employee_id)
+ join teams on (teams.id=employees_teams.team_id)
  where team_name='Sales';
 +------------+------------+-----------+
 | first_name | last_name | team_name |
@@ -957,7 +957,7 @@ mysql> select * from dolt_history_employees where id=0 order by commit_date;
 
 dolt_diff_<tablename>allows you to filter the history down to only commits when the cell in question changed. In this case, I'm interested in the commits that are changing my first name. Note, there are two commits that changed my name because one is the original change and the second is the merge commit.
 
-mysql> select to_commit,from_first_name,to_first_name from dolt_diff_employees 
+mysql> select to_commit,from_first_name,to_first_name from dolt_diff_employees
  where (from_id=0 or to_id=0) and (from_first_name <> to_first_name or from_first_name is NULL)
  order by to_commit_date;
 +----------------------------------+-----------------+---------------+
@@ -1040,56 +1040,56 @@ www.dolthub.com
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 20.8k
 
  stars
- 
+
 
 ### Watchers
 
 121
 
  watching
- 
+
 
 ### Forks
 
 664
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases597
 
@@ -1097,11 +1097,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Mar 11, 2026
 
- 
+
 
 + 596 releases
 
@@ -1109,7 +1109,7 @@ Mar 11, 2026
 
  
 
- 
+
 
  Sponsor
 
@@ -1117,11 +1117,11 @@ Mar 11, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -1137,17 +1137,17 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1155,9 +1155,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

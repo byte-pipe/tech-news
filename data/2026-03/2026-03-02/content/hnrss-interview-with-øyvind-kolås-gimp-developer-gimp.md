@@ -16,27 +16,27 @@ tags:
 ## Interview with Øyvind Kolås,GIMPdeveloper
 
  2026-02-22
- 
 
- by 
+
+ by
 GIMP Team
- 
+
 
 GIMPisFree and Libre Open Source Software, but none of it is possible without
 the people who create with and contribute to it. Our project maintainerJehanwanted to interview the volunteers
 who makeGIMPwhat it is, and share their stories so you can learn more about the awesome people behindGIMP!
 
-Early interviews with co-maintainerMichael NattererandMichael Schumacherwere 
-published shortly after the firstWilber Week. Unfortunately, 
+Early interviews with co-maintainerMichael NattererandMichael Schumacherwere
+published shortly after the firstWilber Week. Unfortunately,
 the rest of the interviews from that event have never seen the light of day - until now!
 
 Our previously resurfaced interview was withSimon Budig.
-The interview in this article is aboutØyvind Kolås. He is the maintainer ofGEGLandbabl, the color engines ofGIMP. His work was instrumental in (amongmanyother things) the 
+The interview in this article is aboutØyvind Kolås. He is the maintainer ofGEGLandbabl, the color engines ofGIMP. His work was instrumental in (amongmanyother things) the
 long-waitednon-destructive filtersimplemented inGIMP3.0!
 
 This interview took place on February 4th, 2017. In addition toJehanandØyvind,Michael Schumacher,Simon Budig, andDebarshi Raywere also involved and asked questions.
 
-Øyvind Kolås, by Michael Schumacher, 
+Øyvind Kolås, by Michael Schumacher,
 CC
 -
 BY

@@ -15,7 +15,7 @@ tags:
 
 New
 Desktop app available in beta
- 
+
 on macOS, Windows, and Linux
 .
 Download now
@@ -30,7 +30,7 @@ npm
 bun
 brew
 paru
-curl -fsSL 
+curl -fsSL
 https://
 opencode.ai/install
  | bash
@@ -48,7 +48,7 @@ OpenCode is an open source agent that helps you write code in your terminal, IDE
 * [*]Any model75+ LLM providers through Models.dev, including local models
 * [*]Any editorAvailable as a terminal interface, desktop app, and IDE extension
 Read docs
- 
+
 
 ### The open source AI coding agent
 
@@ -57,19 +57,19 @@ Read docs
 With over120,000GitHub stars,800contributors, and over10,000commits, OpenCode is used and trusted by over5Mdevelopers every month.
 
 Fig 1.
- 
+
 120K
- 
+
 GitHub Stars
 Fig 2.
- 
+
 800
- 
+
 Contributors
 Fig 3.
- 
+
 5M
- 
+
 Monthly Devs
 
 ### Built for privacy first
@@ -93,7 +93,7 @@ Access reliable optimized models for coding agents
 Zen gives you access to a handpicked set of AI models that OpenCode has tested and benchmarked specifically for coding agents. No need to worry about inconsistent performance and quality across providers, use validated models that work.
 
 Learn about Zen
- 
+
 
 ### Be the first to know when we release new products
 
@@ -102,7 +102,7 @@ Join the waitlist for early access.
 Subscribe
 ©
 2026
- 
+
 Anomaly
 Brand
 Privacy

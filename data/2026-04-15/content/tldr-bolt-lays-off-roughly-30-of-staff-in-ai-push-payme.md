@@ -18,7 +18,7 @@ An article from
 The workforce reduction marks the fintech’s fourth round of cuts since 2022, as it has navigated leadership changes.
 
  Published April 10, 2026
- 
+
 
 Alamy
 

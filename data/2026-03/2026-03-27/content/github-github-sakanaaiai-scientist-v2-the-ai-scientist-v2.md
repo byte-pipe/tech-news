@@ -11,7 +11,7 @@ description: 'The AI Scientist-v2: Workshop-Level Automated Scientific Discovery
 
 SakanaAI
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork460
 * Star2.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -229,7 +229,7 @@ Key tree search configuration parameters inbfts_config.yaml:
 Example command to run AI-Scientist-v2 using a generated idea file (e.g.,my_research_topic.json). Please reviewbfts_config.yamlfor detailed tree search parameters (the default config includesclaude-3-5-sonnetfor experiments). Do not setload_codeif you do not want to initialize experimentation with a code snippet.
 
 python launch_scientist_bfts.py \
- --load_ideas 
+ --load_ideas
 "
 ai_scientist/ideas/my_research_topic.json
 "
@@ -254,28 +254,28 @@ If you useThe AI Scientist-v2in your research, please cite our work as follows:
 {
 aiscientist_v2
 ,
- 
+
 title
 =
 {
 The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 }
 ,
- 
+
 author
 =
 {
 Yamada, Yutaro and Lange, Robert Tjarko and Lu, Cong and Hu, Shengran and Lu, Chris and Foerster, Jakob and Clune, Jeff and Ha, David
 }
 ,
- 
+
 journal
 =
 {
 arXiv preprint arXiv:2504.08066
 }
 ,
- 
+
 year
 =
 {
@@ -330,51 +330,51 @@ The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 2.6k
 
  stars
- 
+
 
 ### Watchers
 
 34
 
  watching
- 
+
 
 ### Forks
 
 460
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -392,17 +392,17 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -410,9 +410,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

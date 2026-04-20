@@ -22,10 +22,10 @@ remove-circle
  Internet Archive's in-browser bookreader "theater" requires JavaScript to be enabled.
  It appears your browser does not have it turned on.
  Please see your browser settings for this feature.
- 
+
 
 remove-circle
- 
+
 
 # Share or Embed This Item
 
@@ -52,22 +52,22 @@ EMBED (for Archive.org item Description fields)
 [archiveorg byte-magazine-1975-09 width=560 height=384 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true]
 
  Want more?
- 
+
 Advanced embedding details, examples, and help
 !
- 
+
 
 Favorite
- 
+
 
 Share
- 
+
 
 Flag
 
- 
 
- 
+
+
 
 texts
 
@@ -80,64 +80,64 @@ Publication date
 Topics
 
 computer
-, 
+,
 memory
-, 
+,
 interface
-, 
+,
 altair
-, 
+,
 data
-, 
+,
 keyboard
-, 
+,
 program
-, 
+,
 byte
-, 
+,
 kit
-, 
+,
 software
-, 
+,
 power supply
-, 
+,
 instruction set
-, 
+,
 assembly language
-, 
+,
 symbol table
-, 
+,
 diode matrix
-, 
+,
 printed circuit
-, 
+,
 grid location
-, 
+,
 serial interface
-, 
+,
 brew computer
-, 
+,
 life program
 
 Collection
 
 byte-magazine
-; 
+;
 computermagazines
-; 
+;
 magazine_rack
- 
+
 
 Language
 
 English
- 
+
 
 Item Size
 
- 165.9M 
+ 165.9M
 
- 
+
 
 Foreground
 p.20 RECYCLING USED ICs
@@ -168,41 +168,41 @@ p.96 Reader's Service
 
 Addeddate
 
- 2012-09-22 01:59:21 
+ 2012-09-22 01:59:21
 
 Identifier
 
 byte-magazine-1975-09
- 
+
 
 Identifier-ark
 
- ark:/13960/t6nz9dt23 
+ ark:/13960/t6nz9dt23
 
 Ocr_converted
 
- abbyy-to-hocr 1.1.37 
+ abbyy-to-hocr 1.1.37
 
 Ocr_module_version
 
- 0.0.21 
+ 0.0.21
 
 Page_number_confidence
 
- 96 
+ 96
 
 Page_number_module_version
 
- 1.0.5 
+ 1.0.5
 
 Ppi
 
- 300 
+ 300
 
 Year
 
- 1975 
- 
+ 1975
+
 
 ## plus-circleAdd ReviewcommentReviews(1)
 
@@ -215,108 +215,108 @@ Year
 # DOWNLOAD OPTIONS
 
 download
- 1 file 
+ 1 file
 
- ABBYY GZ 
+ ABBYY GZ
 download
- 
 
-download
- 1 file 
-
- CHOCR 
-download
- 
 
 download
- 1 file 
+ 1 file
 
- CLOTH COVER DETECTION LOG 
+ CHOCR
 download
- 
+
 
 download
- 1 file 
+ 1 file
 
- DAISY 
+ CLOTH COVER DETECTION LOG
 download
- 
+
+
+download
+ 1 file
+
+ DAISY
+download
+
 
 For users with print-disabilities
 
 download
- 1 file 
+ 1 file
 
- EPUB 
+ EPUB
 download
- 
 
-download
- 1 file 
-
- FULL TEXT 
-download
- 
 
 download
- 1 file 
+ 1 file
 
- HOCR 
+ FULL TEXT
 download
- 
 
-download
- 1 file 
-
- ITEM TILE 
-download
- 
 
 download
- 1 file 
+ 1 file
 
- OCR PAGE INDEX 
+ HOCR
 download
- 
 
-download
- 1 file 
-
- OCR SEARCH TEXT 
-download
- 
 
 download
- 1 file 
+ 1 file
 
- PAGE NUMBERS JSON 
+ ITEM TILE
 download
- 
 
-download
- 1 file 
-
- PDF 
-download
- 
 
 download
- 1 file 
+ 1 file
 
- SINGLE PAGE PROCESSED JP2 ZIP 
+ OCR PAGE INDEX
 download
- 
+
 
 download
- 1 file 
+ 1 file
 
- TORRENT 
+ OCR SEARCH TEXT
 download
- 
+
+
+download
+ 1 file
+
+ PAGE NUMBERS JSON
+download
+
+
+download
+ 1 file
+
+ PDF
+download
+
+
+download
+ 1 file
+
+ SINGLE PAGE PROCESSED JP2 ZIP
+download
+
+
+download
+ 1 file
+
+ TORRENT
+download
+
 
 download
  22 Files
- 
+
 
 download
  8 Original

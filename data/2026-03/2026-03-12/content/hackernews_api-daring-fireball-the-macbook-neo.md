@@ -26,7 +26,7 @@ ByJohn Gruber
 
 Finalist Day Planner:Made for your Dock
 
- 
+
 
 # The MacBook Neo
 
@@ -101,8 +101,8 @@ The iPhone 17e
 Next:
 Modifier Key Order for Keyboard Shortcuts
 
- 
 
- 
+
+
 
 Display PreferencesCopyright © 2002–2026 The Daring Fireball Company LLC.

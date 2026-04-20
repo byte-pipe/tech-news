@@ -27,7 +27,7 @@ Mercor spokesperson Heidi Hagberg confirmed to TechCrunch that the company had â
 
 Earlier, Lapsus$ claimed responsibility for the apparent data breach on its leak site and shared a sample of data allegedly taken from Mercor, which TechCrunch reviewed. The sample included material referencing Slack data and what appeared to be ticketing data, as well as two videos purportedly showing conversations between Mercorâ€™s AI systems and contractors on its platform.
 
- 
+
 
 Techcrunch event
 
@@ -56,21 +56,21 @@ It remains unclear how many companies were affected by the LiteLLM-related incid
 Topics
 
 AI
-, 
+,
 Lapsus$
-, 
+,
 LiteLLM
-, 
+,
 Mercor
-, 
+,
 Security
-, 
+,
 Startups
-, 
+,
 United States
- 
 
-			Jagmeet Singh	
+
+			Jagmeet Singh
 
 Reporter
 

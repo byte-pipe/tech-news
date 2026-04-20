@@ -1,7 +1,7 @@
 ---
 title: GitHub - shadps4-emu/shadPS4: PlayStation 4 emulator for Windows, Linux and macOS written in C++ · GitHub
 url: https://github.com/shadps4-emu/shadPS4
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-18T11:44:52.864147

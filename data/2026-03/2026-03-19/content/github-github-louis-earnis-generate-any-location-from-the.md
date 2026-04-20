@@ -11,7 +11,7 @@ description: Generate any location from the real world in Minecraft with a high 
 
 louis-e
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork931
 * Star10.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -240,53 +240,53 @@ arnismc.com/
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 10.1k
 
  stars
- 
+
 
 ### Watchers
 
 43
 
  watching
- 
+
 
 ### Forks
 
 931
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases15
 
@@ -294,11 +294,11 @@ Metropolis Update (v2.5.0)
 
  Latest
 
- 
+
 
 Feb 14, 2026
 
- 
+
 
 + 14 releases
 
@@ -308,20 +308,20 @@ Feb 14, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * buymeacoffee.com/louisdev
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -329,9 +329,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

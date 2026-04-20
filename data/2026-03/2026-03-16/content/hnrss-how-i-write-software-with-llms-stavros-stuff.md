@@ -210,64 +210,64 @@ LLM: Good overview acquired. Here's what I see and the questions we
 
  ## Key design questions
 
- 
+
 1.
  Inbound — how does email arrive?
 
- 
+
 -
- 
+
 IMAP polling (simplest — poll a mailbox on a timer, works
  with any provider)
 
- 
+
 -
- 
+
 Webhook from a transactional email service (SendGrid/Mailgun
  inbound parse — requires that service)
 
- 
+
 -
- 
+
 Run an SMTP server (most complex, requires DNS/MX setup)
 
- 
+
 2.
  Outbound — how do we send?
 
- 
+
 -
- 
+
 SMTP client (works with any provider — Gmail, Fastmail,
  self-hosted)
 
- 
+
 -
- 
+
 Transactional email API (SendGrid/Mailgun API)
 
- 
+
 3.
  What's your actual use case? This affects several decisions:
 
- 
+
 -
- 
+
 Full bidirectional conversation (reply to emails, maintain
  threads)?
 
- 
+
 -
- 
+
 One-way notifications from the bot?
 
- 
+
 -
- 
+
 Processing incoming emails (e.g., forwarded emails,
  digests)?
 
- 
+
 4.
  Architecture — separate container or in-process?
  Signal uses a bridge container because signal-cli is a heavy
@@ -276,26 +276,26 @@ Processing incoming emails (e.g., forwarded emails,
  adding runtimes to the app container doesn't apply here since
  it's just TypeScript/Node.
 
- 
+
 5.
  Email-specific concerns:
 
- 
+
 -
- 
+
 How to handle HTML emails? Strip to plain text? Pass a
  markdown conversion to the LLM?
 
- 
+
 -
- 
+
 Thread tracking — match replies to conversations by
  In-Reply-To/References headers, or treat each email
  independently?
 
- 
+
 -
- 
+
 Attachments — needed?
 
  What's the scenario you're envisioning? That'll narrow this down
@@ -310,11 +310,11 @@ Me: 1. Email will arrive from a webhook, yes. I will create a
 
  {"from":"me@mydomain.com", etc}
 
- 
+
 2.
  SMTP client
 
- 
+
 3.
  Full bidirectional conversation, yes. This will be the same as
  how interlocutors work with the other transports, if someone sends
@@ -322,11 +322,11 @@ Me: 1. Email will arrive from a webhook, yes. I will create a
  an interlocutor. The owner can also send emails or forward emails
  for processing.
 
- 
+
 4.
  In-process, since this will be a webhook.
 
- 
+
 5.
  Markdown conversion, yes. Let's treat each email independently
  for now, and then we can change that if necessary. Attachments are
@@ -347,7 +347,7 @@ LLM: This makes sense and fits cleanly into the existing channel
 
  ## Concerns and edge cases
 
- 
+
 1.
  MIME parsing is non-trivial. Plain text emails are easy, but
  real-world emails are multipart MIME (HTML+text alternatives,
@@ -358,7 +358,7 @@ LLM: This makes sense and fits cleanly into the existing channel
  This means the worker payload can be minimal — just from, to,
  and raw.
 
- 
+
 2.
  Webhook authentication. The endpoint must be public (Cloudflare
  can't do a browser login), but we need to prevent anyone from
@@ -368,14 +368,14 @@ LLM: This makes sense and fits cleanly into the existing channel
  shared secret in config.toml and have the worker send it as a
  header. The endpoint validates it.
 
- 
+
 3.
  Outbound emails need a subject line. Every other channel is
  subject-less, but email requires one. The send_email tool needs
  a subject parameter that the LLM provides. This is a new thing
  for the agent to handle.
 
- 
+
 4.
  HTML-only emails. Some emails have no plain text part at all.
  mailparser can extract textAsHtml which we'd convert to
@@ -383,14 +383,14 @@ LLM: This makes sense and fits cleanly into the existing channel
  mailparser itself provides a .text property that does basic
  HTML stripping.
 
- 
+
 5.
  From address identity. For outbound SMTP, the from address must
  match what the SMTP server allows. This is a config value. If
  someone emails bot@mydomain.com, the reply should come from
  that address.
 
- 
+
 6.
  Forwarded emails for processing. When the owner forwards an
  email, the original sender's address will be in the forwarded
@@ -399,7 +399,7 @@ LLM: This makes sense and fits cleanly into the existing channel
  no special code needed, the forwarded content will just be in
  the message body. This should work naturally.
 
- 
+
 7.
  Attachments on outbound. The existing send_*_message tools
  support attachments via file paths. send_email would need the
@@ -433,62 +433,62 @@ LLM: This makes sense and fits cleanly into the existing channel
 
  Inbound flow:
 
- 
+
 -
- 
+
 POST /email/webhook (public route, validated by webhook_secret
  header)
 
- 
+
 -
- 
+
 Parse raw with mailparser → extract subject, text body (with
  HTML fallback → markdown), attachments
 
- 
+
 -
- 
+
 Format message to LLM as: Subject: ...\n\n<body>
 
- 
+
 -
- 
+
 Save attachments via saveAttachment()
 
- 
+
 -
- 
+
 enqueueMessage(message, "email", senderEmailAddress,
  attachments)
 
- 
+
 -
- 
+
 Add "email" to GATED_SOURCES, add email handling to
  isInAllowlist()
 
  Outbound flow:
 
- 
+
 -
- 
+
 New send_email tool with params: to, subject, body
  (markdown), attachments (optional file paths)
 
- 
+
 -
- 
+
 Convert markdown body to HTML for the email (with plain text
  fallback)
 
- 
+
 -
- 
+
 Send via nodemailer SMTP transport
 
- 
+
 -
- 
+
 Interlocutor identity service: "email", identifier: email
  address
 
@@ -499,79 +499,79 @@ Interlocutor identity service: "email", identifier: email
 
  Files touched:
 
- 
+
 -
- 
+
 src/email.ts — new file: webhook handler, MIME parsing,
  inbound processing
 
- 
+
 -
- 
+
 src/email-api.ts — new file: SMTP sending via nodemailer
 
- 
+
 -
- 
+
 src/agent.ts — add send_email tool definition
 
- 
+
 -
- 
+
 src/config.ts — add EmailConfig interface and load it
 
- 
+
 -
- 
+
 src/index.ts — add /email/webhook route, whitelist it in
  isPublicRoute()
 
- 
+
 -
- 
+
 src/queue.ts — add "email" to GATED_SOURCES
 
- 
+
 -
- 
+
 src/allowlist.ts — add email channel handling
 
- 
+
 -
- 
+
 config.example.toml — add [email] section
 
  Explicitly not doing (YAGNI):
 
- 
+
 -
- 
+
 Email threading / In-Reply-To headers (you said treat
  independently)
 
- 
+
 -
- 
+
 CC/BCC handling
 
- 
+
 -
- 
+
 Bounce handling
 
- 
+
 -
- 
+
 Read receipts
 
- 
+
 -
- 
+
 Rate limiting
 
- 
+
 -
- 
+
 Email signature stripping (LLM can handle this contextually)
 
  Does this look right? Anything you'd change before I write it up
@@ -590,135 +590,135 @@ LLM: Good, now I have the full picture. Here's the updated agreement:
 
  ## Requirements
 
- 
+
 1.
  Inbound email via Cloudflare Email Worker webhook → POST
  /email/webhook (public, authenticated by shared secret)
 
- 
+
 2.
  Outbound email via SMTP (nodemailer) through a send_email tool
  (with to, subject, body, optional attachments)
 
- 
+
 3.
  Gated channel — email added to GATED_SOURCES, allowlist, and
  interlocutor identity system (service: "email", identifier:
  email address)
 
- 
+
 4.
  Allowlist UI — new "Email allowlist" section in the settings
  page; validates email format (not E.164)
 
- 
+
 5.
  Allowlist data — Allowlist interface gains an email: string[]
  field; backend validation accepts email addresses
 
- 
+
 6.
  Owner config — owner.email in config.toml, auto-seeded into
  allowlist like the other channels
 
- 
+
 7.
  MIME parsing — use mailparser to extract subject, text body
  (HTML fallback), and attachments from the raw RFC 2822 message
 
- 
+
 8.
  Message format to LLM — Subject: <subject>\n\n<body> so the
  agent sees what the email is about
 
- 
+
 9.
  Config — new [email] section: smtp_host, smtp_port, smtp_user,
  smtp_password, from_address, webhook_secret
 
- 
+
 10.
  Update config.example.toml, README.md
 
  ## Constraints
 
- 
+
 -
- 
+
 In-process (no new container)
 
- 
+
 -
- 
+
 Email is optional — if [email] is absent from config, no email
  functionality loads (like the other optional channels)
 
- 
+
 -
- 
+
 Follow existing patterns exactly (webhook handling like
  Telegram, allowlist like WhatsApp/Signal, tool definition like
  other send tools)
 
  ## Success criteria
 
- 
+
 -
- 
+
 Can receive an email via webhook, have it processed by the LLM,
  and the LLM can reply via send_email
 
- 
+
 -
- 
+
 Allowlist UI works for email addresses
 
- 
+
 -
- 
+
 Owner email auto-seeded into allowlist
 
- 
+
 -
- 
+
 Builds and passes existing tests; new tests for the webhook
  handler and allowlist validation
 
  ## Non-goals / out of scope
 
- 
+
 -
- 
+
 Email threading (In-Reply-To / References headers)
 
- 
+
 -
- 
+
 CC/BCC handling
 
- 
+
 -
- 
+
 Bounce/delivery-status handling
 
- 
+
 -
- 
+
 Read receipts
 
- 
+
 -
- 
+
 Email signature stripping
 
- 
+
 -
- 
+
 Rate limiting
 
- 
+
 -
- 
+
 Markdown-to-HTML conversion for outbound body (plain text is
  fine for now — we can add this later)
 
@@ -745,12 +745,12 @@ LLM: Got it — the config.example.toml will include the worker code and
 
  Regarding my two open questions that you didn't address:
 
- 
+
 1.
  Outbound body format — I'll go with plain text for now (YAGNI).
  We can add markdown→HTML conversion later.
 
- 
+
 2.
  Worker payload — I'll simplify to { from, to, raw } with an
  auth header, and parse everything from raw server-side.
@@ -761,24 +761,24 @@ LLM: Got it — the config.example.toml will include the worker code and
 
  ## Task breakdown
 
- 
+
 1.
  Config and dependencies — Add EmailConfig interface to
  config.ts, [email] section to config.example.toml (with
  Cloudflare worker setup instructions), install mailparser and
- nodemailer (plus their 
+ nodemailer (plus their
 @types/
  packages). Add owner.email to
  OwnerConfig.
 
- 
+
 2.
  Allowlist — Add email: string[] to the Allowlist interface,
  update validateAllowlist, loadAllowlist (owner email
  auto-seed), getAllowlist, isInAllowlist,
  getOwnerIdentities. Add "email" to GATED_SOURCES in queue.ts.
 
- 
+
 3.
  Allowlist UI and backend validation — Add the "Email allowlist"
  section to the settings page HTML/JS (with email format
@@ -787,7 +787,7 @@ LLM: Got it — the config.example.toml will include the worker code and
  serialization (including notes key pruning and owner identity
  merging).
 
- 
+
 4.
  Inbound email — New src/email.ts: webhook handler that
  validates the secret, parses the raw email with mailparser,
@@ -795,7 +795,7 @@ LLM: Got it — the config.example.toml will include the worker code and
  and calls enqueueMessage. Add the /email/webhook route to
  index.ts and whitelist it in isPublicRoute.
 
- 
+
 5.
  Outbound email — New src/email-api.ts: nodemailer SMTP
  transport setup and send function. Add send_email tool to
@@ -803,7 +803,7 @@ LLM: Got it — the config.example.toml will include the worker code and
  attachments), following the same pattern as the other send
  tools (interlocutor lookup, allowlist check).
 
- 
+
 6.
  README and tests — Update README.md to document email support.
  Add tests for the webhook handler validation and allowlist
@@ -851,92 +851,92 @@ LLM: All 6 tasks are implemented. Here's what was done:
 
  New files:
 
- 
+
 -
- 
+
 src/email.ts — inbound webhook handler (validates Bearer
  token auth, parses raw RFC 2822 email with mailparser,
  extracts subject/body/attachments, checks allowlist, enqueues
  message)
 
- 
+
 -
- 
+
 src/email-api.ts — outbound SMTP transport (nodemailer, plain
  text emails with optional attachments)
 
- 
+
 -
- 
+
 src/email.test.ts — webhook auth tests
 
  Modified files:
 
- 
+
 -
- 
+
 src/config.ts — EmailConfig interface, email field on Config
  and OwnerConfig
 
- 
+
 -
- 
+
 src/allowlist.ts — email: string[] on Allowlist,
  case-insensitive matching, owner seeding
 
- 
+
 -
- 
+
 src/allowlist.test.ts — 12 new email allowlist tests
 
- 
+
 -
- 
+
 src/settings.ts — email allowlist UI section + backend
  validation (email format, not E.164)
 
- 
+
 -
- 
+
 src/settings.test.ts — 9 new email backend validation tests
 
- 
+
 -
- 
+
 src/queue.ts — "email" added to GATED_SOURCES
 
- 
+
 -
- 
+
 src/agent.ts — createSendEmailTool (recipient resolution,
  allowlist gate, SMTP send)
 
- 
+
 -
- 
+
 src/agent-send-tools.test.ts — email send tool tests
 
- 
+
 -
- 
+
 src/index.ts — /email/webhook route + isPublicRoute entry +
  initializeEmailTransport at startup
 
- 
+
 -
- 
+
 config.example.toml — full [email] section with setup
  instructions and Cloudflare Worker code
 
- 
+
 -
- 
+
 README.md — email setup section, updated feature list and
  architecture blurb
 
- 
+
 -
- 
+
 package.json / package-lock.json — mailparser, nodemailer,
  and their type packages
 
@@ -961,16 +961,16 @@ If it’s a small change, I’ll usually do it as part of this session, otherwis
 
 LLM: Here's the current situation:
 
- 
+
 -
- 
+
 EmailConfig requires all 6 fields (smtp host/port/user/password,
  fromAddress, webhookSecret) — they're all non-optional
  strings/numbers.
 
- 
+
 -
- 
+
 config.email gates everything: the webhook route, the SMTP
  transport initialization, and the send_email tool.
 
@@ -981,20 +981,20 @@ config.email gates everything: the webhook route, the SMTP
  The fix is straightforward — make the SMTP fields optional in
  EmailConfig. Then:
 
- 
+
 -
- 
+
 Webhook route: only needs webhookSecret → enabled whenever
  config.email exists.
 
- 
+
 -
- 
+
 SMTP transport init: only runs when the SMTP fields are present.
 
- 
+
 -
- 
+
 send_email tool: only registered when the SMTP fields are
  present.
 
@@ -1010,28 +1010,28 @@ More tool/agent calls elided here.
 
 LLM: Done. Here's what changed:
 
- 
+
 -
- 
+
 EmailConfig.webhookSecret is the only required field now. The 5
  SMTP fields (smtpHost, smtpPort, smtpUser, smtpPassword,
  fromAddress) are all optional.
 
- 
+
 -
- 
+
 The webhook route works with just webhookSecret — inbound email
  is fully functional without any SMTP config.
 
- 
+
 -
- 
+
 The SMTP transport and send_email tool only initialize when
  smtpHost is present.
 
- 
+
 -
- 
+
 config.example.toml now clearly groups and labels the required
  vs optional fields.
 
@@ -1218,22 +1218,22 @@ LLM: The issue I was worried about is that isOwnerIdentity does an
 
  So the full scope is:
 
- 
+
 1.
  isInAllowlist — email case checks for *@domain entries by
  comparing the sender's domain.
 
- 
+
 2.
  isOwnerIdentity — same domain-wildcard matching for email
  entries in the owner identity set.
 
- 
+
 3.
  Settings UI + backend validation — accept *@domain.com as a
  valid email allowlist entry.
 
- 
+
 4.
  Tests for the new matching behavior.
 
@@ -1271,24 +1271,24 @@ Me: If you use a regex, you need to escape every single other char in
 
 LLM: Done. The email allowlist now supports glob-style * wildcards:
 
- 
+
 -
- 
+
 *@mydomain.com — matches any address at the domain
 
- 
+
 -
- 
+
 myuser+*@gmail.com — matches any plus-tag for that user
 
- 
+
 -
- 
+
 exact@example.com — exact match only
 
- 
+
 -
- 
+
 * — allow everyone
 
  The * is translated to [^@]* in the regex, so it cannot match
@@ -1298,21 +1298,21 @@ exact@example.com — exact match only
 
 I ask for a clarification to catch a potential gotcha:
 
-Me: Does this work both in the owner's 
+Me: Does this work both in the owner's
 `email = `
  field and the
  allowlist page/the allowlist itself?
 
 LLM: Yes, both:
 
- 
+
 1.
  owner.email in config.toml — the value is stored in
  ownerEmailEntries and matched via matchesEmailEntry in
  isOwnerIdentity. So owner.email = "*@mydomain.com" treats any
  address from that domain as the owner.
 
- 
+
 2.
  Allowlist (data layer + settings UI) — isInAllowlist for email
  uses matchesEmailEntry against every entry in the allowlist. So

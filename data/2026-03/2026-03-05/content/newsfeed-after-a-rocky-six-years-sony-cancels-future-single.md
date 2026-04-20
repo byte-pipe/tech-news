@@ -39,17 +39,17 @@ Sony has been less decisive about its PC strategy compared to the other two majo
 Bloomberg also notes that some recent releases have not sold as well on PC as hoped, suggesting that Sony’s test-the-waters approach has found said water lukewarm.
 
  Samuel Axon
- 
+
 
 Senior Editor
 
  Samuel Axon
- 
+
 
 Senior Editor
 
  Samuel Axon is the editorial lead for tech and gaming coverage at Ars Technica. He covers AI, software development, gaming, entertainment, and mixed reality. He has been writing about gaming and technology for nearly two decades at Engadget, PC World, Mashable, Vice, Polygon, Wired, and others. He previously ran a marketing and PR agency in the gaming industry, led editorial for the TV network CBS, and worked on social media marketing strategy for Samsung Mobile at the creative agency SPCSHP. He also is an independent software and game developer for iOS, Windows, and other platforms, and he is a graduate of DePaul University, where he studied interactive media and software development.
- 
+
 
 1. 1.The $599 MacBook Neo is Apple's long-awaited colorful, lower-cost MacBook
 2. 2.MacBook Neo hands-on: Apple build quality at a substantially lower price

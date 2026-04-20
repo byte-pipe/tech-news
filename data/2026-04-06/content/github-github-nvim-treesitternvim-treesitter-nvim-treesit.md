@@ -10,11 +10,11 @@ description: Nvim Treesitter configurations and abstraction layer - nvim-treesit
 ---
 
 This repository was archived by the owner on Apr 3, 2026. It is now read-only.
- 
+
 
  nvim-treesitter
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public archive
 * Fork1.2k
 * Star13.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -177,23 +177,23 @@ This plugin is only guaranteed to work with specific versions of language parser
 It is strongly recommended to automate this; e.g., using the following spec withlazy.nvim:
 
 {
- 
+
 '
 nvim-treesitter/nvim-treesitter
 '
 ,
- 
+
 lazy
- 
+
 =
- 
+
 false
 ,
- 
+
 build
- 
+
 =
- 
+
 '
 :TSUpdate
 '
@@ -216,15 +216,15 @@ nvim-treesitter
 ).
 setup
  {
- 
+
 --
  Directory to install parsers and queries to (prepended to `runtimepath` to have priority)
 
- 
+
 install_dir
- 
+
 =
- 
+
 vim
 .
 fn
@@ -234,9 +234,9 @@ stdpath
 '
 data
 '
-) 
+)
 ..
- 
+
 '
 /site
 '
@@ -252,18 +252,18 @@ nvim-treesitter
 '
 ).
 install
- { 
+ {
 '
 rust
 '
-, 
+,
 '
 javascript
 '
-, 
+,
 '
 zig
-' 
+'
 }
 
 (This is a no-op if the parsers are already installed.) Note that this function runs asynchronously; for synchronous installation in a script context ("bootstrapping"), you need towait()for it to finish:
@@ -275,23 +275,23 @@ nvim-treesitter
 '
 ).
 install
-({ 
+({
 '
 rust
 '
-, 
+,
 '
 javascript
 '
-, 
+,
 '
 zig
-' 
+'
 }):
 wait
 (
 300000
-) 
+)
 --
  wait max. 5 minutes
 
@@ -321,28 +321,28 @@ nvim_create_autocmd
 FileType
 '
 , {
- 
+
 pattern
- 
+
 =
- { 
+ {
 '
 <filetype>
-' 
+'
 },
- 
+
 callback
- 
+
 =
- 
+
 function
-() 
+()
 vim
 .
 treesitter
 .
 start
-() 
+()
 end
 ,
 })
@@ -360,9 +360,9 @@ wo
 0
 ].
 foldexpr
- 
+
 =
- 
+
 '
 v:lua.vim.treesitter.foldexpr()
 '
@@ -376,9 +376,9 @@ wo
 0
 ].
 foldmethod
- 
+
 =
- 
+
 '
 expr
 '
@@ -392,9 +392,9 @@ vim
 bo
 .
 indentexpr
- 
+
 =
- 
+
 "
 v:lua.require'nvim-treesitter'.indentexpr()
 "
@@ -426,23 +426,23 @@ nvim_create_autocmd
 '
 User
 '
-, { 
+, {
 pattern
- 
+
 =
- 
+
 '
 TSUpdate
 '
 ,
 
 callback
- 
+
 =
- 
+
 function
 ()
- 
+
 require
 (
 '
@@ -450,90 +450,90 @@ nvim-treesitter.parsers
 '
 ).
 zimbu
- 
+
 =
  {
- 
+
 install_info
- 
+
 =
  {
- 
+
 url
- 
+
 =
- 
+
 '
 https://github.com/zimbulang/tree-sitter-zimbu
 '
 ,
- 
+
 revision
- 
+
 =
- 
+
 <sha>
-, 
+,
 --
  commit hash for revision to check out; HEAD if missing
 
- 
+
 --
  optional entries:
 
- 
+
 branch
- 
+
 =
- 
+
 '
 develop
 '
-, 
+,
 --
  only needed if different from default branch
 
- 
+
 location
- 
+
 =
- 
+
 '
 parser
 '
-, 
+,
 --
  only needed if the parser is in subdirectory of a "monorepo"
 
- 
+
 generate
- 
+
 =
- 
+
 true
-, 
+,
 --
  only needed if repo does not contain pre-generated `src/parser.c`
 
- 
+
 generate_from_json
- 
+
 =
- 
+
 false
-, 
+,
 --
  only needed if repo does not contain `src/grammar.json` either
 
- 
+
 queries
- 
+
 =
- 
+
 '
 queries/neovim
 '
-, 
+,
 --
  also install queries from given directory
 
@@ -545,56 +545,56 @@ end
 
 Alternatively, if you have a local checkout, you can instead use
 
- 
+
 install_info
- 
+
 =
  {
- 
+
 path
- 
+
 =
- 
+
 '
 ~/parsers/tree-sitter-zimbu
 '
 ,
- 
+
 --
  optional entries
 
- 
+
 location
- 
+
 =
- 
+
 '
 parser
 '
 ,
- 
+
 generate
- 
+
 =
- 
+
 true
 ,
- 
+
 generate_from_json
- 
+
 =
- 
+
 false
 ,
- 
+
 queries
- 
+
 =
- 
+
 '
 queries/neovim
 '
-, 
+,
 --
  symlink queries from given directory
 
@@ -615,10 +615,10 @@ register
 '
 zimbu
 '
-, { 
+, {
 '
 zu
-' 
+'
 })
 
 If Neovim does not detect your language's filetype by default, you can useNeovim'svim.filetype.add()to add a custom detection rule.
@@ -642,23 +642,23 @@ nvim_create_autocmd
 '
 User
 '
-, { 
+, {
 pattern
- 
+
 =
- 
+
 '
 TSUpdate
 '
 ,
 
 callback
- 
+
 =
- 
+
 function
 ()
- 
+
 require
 (
 '
@@ -670,9 +670,9 @@ lua
 install_info
 .
 generate
- 
+
 =
- 
+
 true
 
 end
@@ -698,64 +698,64 @@ Nvim Treesitter configurations and abstraction layer
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 13.5k
 
  stars
- 
+
 
 ### Watchers
 
 57
 
  watching
- 
+
 
 ### Forks
 
 1.2k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -763,9 +763,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

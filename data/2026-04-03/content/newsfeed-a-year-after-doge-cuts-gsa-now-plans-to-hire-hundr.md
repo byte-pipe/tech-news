@@ -52,12 +52,12 @@ Triangle
 * HowTrump’s plot to grab Iran's nuclear fuelwould actually work
 * WIRED Health:Jointhe boldest minds in healthcare
 Leah Feiger
- is WIRED's senior politics editor. She is the former managing editor of VICE News. ... 
+ is WIRED's senior politics editor. She is the former managing editor of VICE News. ...
 Read More
 Senior Editor
 
 Zoë Schiffer
- oversees coverage of business and Silicon Valley at WIRED. She was previously managing editor of Platformer and a senior reporter at The Verge. ... 
+ oversees coverage of business and Silicon Valley at WIRED. She was previously managing editor of Platformer and a senior reporter at The Verge. ...
 Read More
 Director, Business and Industry
 

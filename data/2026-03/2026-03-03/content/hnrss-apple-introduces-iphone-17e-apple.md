@@ -20,17 +20,17 @@ March 2, 2026
 
 # Apple introduces iPhone 17e
 
- 
- 
+
+
  iPhone 17e delivers incredible value with faster performance, an advanced camera system, enhanced durability, the magic of MagSafe, and double the starting storage at 256GB
- 
- 
+
+
 
  Introducing iPhone 17e, the most affordable member of the iPhone 17 family.
- 
+
 
 CUPERTINO, CALIFORNIA
- Apple today announced 
+ Apple today announced
 iPhone 17e
 , a powerful and more affordable addition to the iPhone 17 lineup. At the heart of iPhone 17e is the latest-generation A19, which delivers exceptional performance for everything users do. iPhone 17e also features C1X, the latest-generation cellular modem designed by Apple, which is up to 2x faster than C1 in iPhone 16e. The 48MP Fusion camera captures stunning photos, including next-generation portraits, and 4K Dolby Vision video. It also enables an optical-quality 2x Telephoto — like having two cameras in one. The 6.1-inch Super Retina XDR display features Ceramic Shield 2, offering 3x better scratch resistance than the previous generation and reduced glare.
 1
@@ -40,7 +40,7 @@ iPhone 17e
 Available in three elegant colors with a premium matte finish — black, white, and a beautiful new soft pink — iPhone 17e will be available for pre-order beginning Wednesday, March 4, with availability starting Wednesday, March 11. iPhone 17e will start at 256GB of storage for $599 — 2x the entry storage from the previous generation at the same starting price, and 4x more than iPhone 12 — giving users more space for high-resolution photos, 4K videos, apps, games, and more.
 
  iPhone 17e delivers powerful features at an incredible value, including Apple’s latest-generation A19, a 48MP 2-in-1 camera system, storage starting at 256GB, and the magic of MagSafe.
- 
+
 
 “iPhone 17e combines powerful performance and features our users love at an exceptional value, making it a compelling option for customers looking to upgrade to the iPhone 17 family,” said Kaiann Drance, Apple’s vice president of Worldwide iPhone Product Marketing. “We know our customers want a product that will last, and iPhone 17e delivers just that. With A19 for incredible performance, double the entry storage, a smarter camera system, and enhanced durability, iPhone 17e is designed to stay fast, secure, and valuable for years to come.”
 
@@ -57,7 +57,7 @@ The Ceramic Shield 2 front cover provides 3x better scratch resistance than the 
 The Super Retina XDR display with OLED technology delivers a fantastic viewing experience whether a user is streaming videos in Dolby Vision or playing games, and with up to 1200 nits peak HDR brightness, it is easy to view content on brighter days. Face ID provides a seamless and secure way to unlock iPhone 17e, authenticate purchases, sign in to apps, and more. With the Action button, users can access their favorite features — like the flashlight, visual intelligence, and more — with just a press.
 
  iPhone 17e features a 6.1-inch Super Retina XDR display that delivers an incredible viewing experience.
- 
+
 
 ## Powerful Performance and Exceptional Efficiency
 
@@ -74,7 +74,7 @@ iPhone 17e delivers exceptional all-day battery life, enabled by the efficiencie
  iPhone 17e also supports MagSafe and Qi2 for fast wireless charging up to 15W compared to 7.5W Qi wireless charging on iPhone 16e. MagSafe chargers, stands, cases, wallets, camera accessories, and more snap easily to the back of iPhone 17e, providing seamless alignment with a wide ecosystem of accessories.
 
  iPhone 17e supports MagSafe for fast wireless charging and connects to a wide ecosystem of chargers, cases, wallets, and other accessories.
- 
+
 
 ## An Advanced Camera System to Capture Everyday Moments
 
@@ -95,7 +95,7 @@ iPhone 17e takes beautiful photos, even when it’s dark, with Night mode delive
 iPhone 17e takes stunning videos with the ability to record in 4K with Dolby Vision up to 60 fps. iPhone 17e also records video in Spatial Audio for immersive listening with AirPods or Apple Vision Pro, and enables more ways to edit video sound with Audio Mix. With wind noise reduction, powerful machine learning algorithms automatically reduce unwanted noise for better audio quality.
 
  iPhone 17e can record stunning 4K video at 60 fps in Dolby Vision.
- 
+
 
 ## Groundbreaking Safety and Communication Capabilities
 
@@ -104,9 +104,9 @@ iPhone 17e helps users stay connected and get assistance when it matters most. W
 
 ## iOS 26 and Apple Intelligence
 
-iPhone 17e comes with 
+iPhone 17e comes with
 iOS 26
-, delivering a beautiful new design, powerful 
+, delivering a beautiful new design, powerful
 Apple Intelligence
  capabilities, and meaningful improvements to the apps users rely on every day.
 7

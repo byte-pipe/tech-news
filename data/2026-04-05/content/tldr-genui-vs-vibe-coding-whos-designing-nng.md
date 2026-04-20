@@ -28,9 +28,9 @@ Share
 * Share on Twitter
 
  Summary: 
- 
+
 With generative UI, the AI system decides to generate an interactive element or entire product in response to a user need. Vibe coding is when users request the AI to build it.
- 
+
 
 SinceAndrej Karpathy coined the term “vibe coding”in early 2025, the concept has taken over the conversation about AI and interfaces. Describe what you want; the AI builds it. There are many variations of that concept, and all of them are relevant to the design community right now, as they impact both how our teams work, and the users they design for.
 

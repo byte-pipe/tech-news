@@ -23,7 +23,7 @@ DeAngelis outlines four steps to create specifications:
 
 1. **Specify**
 
-   - Given 
+   - Given
       * Authenticate users
 *
 - When
@@ -74,7 +74,7 @@ Here is an example of how one could implement the four steps outlined earlier us
 ```javascript
 // SpecStep.js (spec-generated)
 function specSteps(){
-    // Implementation as per spec given -- full implementation logic 
+    // Implementation as per spec given -- full implementation logic
     // here and it will guide developers to write correct and maintainable code.
 
     return [
@@ -86,7 +86,7 @@ function specSteps(){
         {
             name: forLarge,  // Implementation logic for large datasets.
             description: "Non-async export is required for larger export files",
-            condition: 'user.ordervolume > 10000' 
+            condition: 'user.ordervolume > 10000'
         }
     ];
 }
@@ -95,18 +95,18 @@ function specSteps(){
 function specPlan(user){
     const plan = [];
     if (user.auth === true){  // assuming the client-side auth is on this account.
-        
+
         plan.push({
-            name: "sync data export" ,  
-            condition: false  
+            name: "sync data export" ,
+            condition: false
          })
          plan.push({
             name: 'async data upload' ,
             condition: user.ordervolume > 10000
-           }) 
+           })
 
     }
-    return { 
+    return {
         plan,
         name: 'Plan'
        }
@@ -118,14 +118,14 @@ function specBreakdown( plan){ // breaking down tasks
     const breakdown = {
         tasks: []
      };
-    for (let i=0;i<plan.plan.length; i++){   
+    for (let i=0;i<plan.plan.length; i++){
         if(i === 0)break;
          breakdown.tasks.push(plan.plan[i].name );
 
-  
+
     }
- 
-      return{ 
+
+      return{
          breakDown,
             name: 'Break Down the specification'
 
@@ -135,11 +135,11 @@ function specBreakdown( plan){ // breaking down tasks
 // specImplement.js
 function specImplement(tasks, breakdown){
  let implementation = [];
- for(let item of tasks){   
-     if(item === "sync data export")    
+ for(let item of tasks){
+     if(item === "sync data export")
         implementation.push(['data', {'method' : "async", 'callback': exportData })
 
-    } 
+    }
      else  {
          implementation.push(item);  // implementing for each task separately
      }
@@ -151,18 +151,18 @@ function specImplement(tasks, breakdown){
 // specReview.js
 function specReview(spec, tasks){
 let feedback = [];
-for(let item of tasks){   
+for(let item of tasks){
     if(item === 'sync data export'){
         const response = verifyResponse();
 if(response !== true ){
     feedback.push("Data export not running asynchronous as required ");
-   
+
            } else {
                feedback.push(" Data export successfully performed and is ready for further actions");
 
-    
+
     }
-} 
+}
 return{
 feedback,
 spec
@@ -184,13 +184,13 @@ console.log(specStepsResult);
 
 let specPlan = specPlan(spec);
 specPlan.then( ( data)=> {
-    let breakdownResult = specBreakdown(data); 
-    let implementResult= specImplement(data.breakDown, breakdownResult);    
-   specReview(spec, implementResult);      
+    let breakdownResult = specBreakdown(data);
+    let implementResult= specImplement(data.breakDown, breakdownResult);
+   specReview(spec, implementResult);
 });
 
 let specPlanPromise = promisepoller(specPlan);
- 
+
 }
 ```
 

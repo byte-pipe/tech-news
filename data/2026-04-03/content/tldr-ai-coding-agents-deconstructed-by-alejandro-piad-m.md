@@ -24,10 +24,10 @@ Apr 02, 2026
 3
 1
 Share
-I’m telling you, this is the future. AI agents will do aaaallll the work. 
-Photo by 
+I’m telling you, this is the future. AI agents will do aaaallll the work.
+Photo by
 Farzad Felfelian
- on 
+ on
 Unsplash
 
 You’ve been using AI coding agents for months. You’ve crafted elaborate system prompts. You’ve added a dozen skills. You’ve learned the dance of context window management. And somewhere around the third hour of work, something breaks. The agent starts forgetting things. Making wrong assumptions. Doing something close—but not quite—what you asked.

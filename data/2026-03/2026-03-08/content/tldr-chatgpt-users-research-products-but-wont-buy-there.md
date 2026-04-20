@@ -15,13 +15,13 @@ tags:
 
 # ChatGPT users research products but won't buy there, forcing OpenAI to rethink its commerce strategy
 
- 
+
 
 Matthias Bastian
 
 View the LinkedIn Profile of Matthias Bastian
 
-					Mar 5, 2026				
+					Mar 5, 2026
 
 Ask about this article…
 
@@ -51,7 +51,7 @@ Ad
 
 As aTHE DECODER subscriber, you get ad-free reading, ourweekly AI newsletter, the exclusive"AI Radar" Frontier Report 6× per year, access to comments, and ourcomplete archive.
 
-					Subscribe now				
+					Subscribe now
 
-Source: 
+Source:
 The Information

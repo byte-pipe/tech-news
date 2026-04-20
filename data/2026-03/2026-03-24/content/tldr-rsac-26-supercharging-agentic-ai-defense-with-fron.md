@@ -27,7 +27,7 @@ Google Cloud COO and President, Security Products
 
 State-of-the-art image generation and editing
 
-Try now 
+Try now
 
 AI-driven defense is changing the cybersecurity industry in ways that defenders have long hoped for, and Google Security is bringing its most significant capabilities yet to RSA Conference. With the agentic security operations center as our foundation, and empowered by the unprecedented reasoning capabilities of the newest Gemini models, we are supercharging the defender’s advantage.
 

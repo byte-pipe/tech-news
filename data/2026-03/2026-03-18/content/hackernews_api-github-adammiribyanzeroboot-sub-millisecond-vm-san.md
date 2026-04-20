@@ -15,7 +15,7 @@ tags:
 
 adammiribyan
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork20
 * Star516
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -118,17 +118,17 @@ Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 ## Try it
 
 curl -X POST https://api.zeroboot.dev/v1/exec \
- -H 
+ -H
 '
 Content-Type: application/json
 '
  \
- -H 
+ -H
 '
 Authorization: Bearer zb_demo_hn2026
 '
  \
- -d 
+ -d
 '
 {"code":"import numpy as np; print(np.random.rand(3))"}
 '
@@ -211,26 +211,26 @@ Each sandbox is a real KVM virtual machine with hardware-enforced memory isolati
 Python—sdk/python
 
 from
- 
+
 zeroboot
- 
+
 import
- 
+
 Sandbox
 
 sb
- 
+
 =
- 
+
 Sandbox
 (
 "zb_live_your_key"
 )
 
 result
- 
+
 =
- 
+
 sb
 .
 run
@@ -241,28 +241,28 @@ run
 TypeScript—sdk/node
 
 import
- 
+
 {
- 
+
 Sandbox
- 
+
 }
- 
+
 from
- 
+
 "@zeroboot/sdk"
 ;
 
 const
- 
+
 result
- 
+
 =
- 
+
 await
- 
+
 new
- 
+
 Sandbox
 (
 "zb_live_your_key"
@@ -318,48 +318,48 @@ zeroboot.dev
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 516
 
  stars
- 
+
 
 ### Watchers
 
 6
 
  watching
- 
+
 
 ### Forks
 
 20
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Contributors1
 

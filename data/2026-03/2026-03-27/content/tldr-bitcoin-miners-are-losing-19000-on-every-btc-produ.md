@@ -26,20 +26,20 @@ Email
 ## The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
 By
- 
+
 Shaurya Malwa
 |
 Edited by
- 
+
 Aoyon Ashraf
 Updated
- 
-Mar 22, 2026, 4:35 p.m. 
+
+Mar 22, 2026, 4:35 p.m.
 Published
- 
-Mar 22, 2026, 6:26 a.m. 
-Make 
- preferred on 
+
+Mar 22, 2026, 6:26 a.m.
+Make
+ preferred on
 
 #### What to know:
 
@@ -78,7 +78,7 @@ Más para ti
 ### The Definitive Stablecoin Landscape Series: North America
 
 Por
- 
+
 CoinDesk Research
 hace 20 horas
 Commissioned by
@@ -97,11 +97,11 @@ Más para ti
 ### Bitcoin falls below $67,000 as U.S. 10-year Treasury yield nears 1-year high of 4.5%
 
 Por
- 
+
 James Van Straten
 |
 Editado por
- 
+
 Sheldon Reback
 hace 1 hora
 
@@ -113,7 +113,7 @@ Lo que debes saber:
 * Rising U.S. Treasury yields and a stronger dollar are weighing on risk assets, including cryptocurrencies and crypto-related equities.
 Leer la noticia completa
 Latest Crypto News
- 
+
 
 #### Anchorage Digital adds Tron custody, opens U.S. institutional access to TRX trading
 

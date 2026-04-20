@@ -46,7 +46,7 @@ With MyLG Rewards, you can get up to20% back in rewards, as well as exclusive de
 LG wants to reward gamers. Right now, you’ll get a $200 gaming or Mastercard credit when you pre-order the 52-inchUltraGear evo monitor. This LG gaming monitor is the world’s largest 52 inch 5K2K screen that delivers epic ultra-wide scale and UHD detail, along with a curve that wraps the action in UHD clarity across your natural view for an immersive gaming experience like never before. Plus, the built-in speakers deliver clear, well-balanced stereo sound and the ability to adjust height, tilt, and swivel help refine your gaming experience without interfering desk clutter.
 
 Ryan Waniata
- is a staff writer, editor, video host, and product reviewer for WIRED with over 10 years of experience in A/V. He has previously published at sites including Digital Trends, Reviewed, Business Insider, Review Geek, and others. He’s evaluated everything from TVs and soundbars to smart gadgets and wearables, ... 
+ is a staff writer, editor, video host, and product reviewer for WIRED with over 10 years of experience in A/V. He has previously published at sites including Digital Trends, Reviewed, Business Insider, Review Geek, and others. He’s evaluated everything from TVs and soundbars to smart gadgets and wearables, ...
 Read More
 * LinkedIn
 Topics
@@ -57,7 +57,7 @@ Save on bulk groceries, household essentials, and electronics with a verified Sa
 Molly Higgins
 Top Dyson Promo Codes: 25% Off in March 2026
 Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.
- Nena Farrell 
+ Nena Farrell
 Birdfy Discount Codes: 15% Off Sitewide + Up to 40% Off Clearance
 Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.
 Kat Merck
@@ -87,7 +87,7 @@ Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount c
 Scott Gilbertson
 Save up to 25% With These Dermstore Coupons and Deals
 Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.
-Boutayna Chokrane 
+Boutayna Chokrane
 
 ## Wired Coupons
 

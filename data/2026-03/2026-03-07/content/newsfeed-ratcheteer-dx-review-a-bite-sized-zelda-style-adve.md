@@ -27,8 +27,8 @@ Ratcheteer DX is a welcome re-release of one of the Playdate’s best games.
 Ratcheteer DX is a welcome re-release of one of the Playdate’s best games.
 
 by
- 
- 
+
+
 Andrew Webster
 Mar 7, 2026, 2:00 PM UTC
 * Link
@@ -37,9 +37,9 @@ Mar 7, 2026, 2:00 PM UTC
 Image: Panic
 Part Of
 The best indie games we’re playing right now
-see all updates 
+see all updates
 Andrew Webster
- 
+
 is an entertainment editor covering streaming, virtual worlds, and every single Pokémon video game. Andrew joined The Verge in 2012, writing over 4,000 stories.
 
 There are a lot of games that try to emulateThe Legend of Zelda, but few that manage to capture that spirit in such a small, concise package asRatcheteer DX. The postapocalyptic game only takes a few hours to complete, but over that span it nails the classicZeldavibe almost perfectly, offering a real sense of adventure along with the satisfaction of figuring things out on your own.
@@ -97,19 +97,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

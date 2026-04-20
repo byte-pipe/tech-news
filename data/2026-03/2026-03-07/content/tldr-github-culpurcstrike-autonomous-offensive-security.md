@@ -13,7 +13,7 @@ tags:
 
 culpur
 
- 
+
 
 /
 
@@ -25,9 +25,9 @@ Public
 * Fork3
 * Star39
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -200,7 +200,7 @@ docker compose up -d
 #
  Seed the database (first run only)
 
-docker 
+docker
 exec
  cstrike-api npx prisma db seed
 
@@ -397,7 +397,7 @@ Custom (Node 22 Alpine)
 
 3000
 
-React web dashboard (served by 
+React web dashboard (served by
 serve@14
 )
 
@@ -647,7 +647,7 @@ Config file, provider, old/new IP, duration, success
 
 The Textual-based terminal UI runs inside the API container:
 
-docker 
+docker
 exec
  -it cstrike-api python -m tui
 
@@ -1197,7 +1197,7 @@ Cloud-Init
 
 ~30 min
 
-User data: 
+User data:
 scripts/vm/cloud-init-generic.yml
 
 Proxmox (Fresh)
@@ -1205,7 +1205,7 @@ Proxmox (Fresh)
 ~20 min
 
 scripts/vm/create-vm.sh
- + 
+ +
 install.sh
 
 ## Documentation
@@ -1302,53 +1302,53 @@ culpur.net
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 39
 
  stars
- 
+
 
 ### Watchers
 
 0
 
  watching
- 
+
 
 ### Forks
 
 3
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases6
 
@@ -1356,11 +1356,11 @@ CStrike v2.5.2
 
  Latest
 
- 
+
 
 Mar 7, 2026
 
- 
+
 
 + 5 releases
 
@@ -1376,9 +1376,9 @@ Mar 7, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1386,9 +1386,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

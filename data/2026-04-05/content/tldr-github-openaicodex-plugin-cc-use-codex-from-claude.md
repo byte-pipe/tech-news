@@ -13,7 +13,7 @@ tags:
 
 openai
 
- 
+
 
 /
 
@@ -25,9 +25,9 @@ Public
 * Fork600
 * Star11.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -206,7 +206,7 @@ Examples:
 
 /codex:adversarial-review
 /codex:adversarial-review --base main challenge whether this was the right caching and retry design
-/codex:adversarial-review --background look 
+/codex:adversarial-review --background look
 for
  race conditions and question the chosen approach
 
@@ -232,11 +232,11 @@ It supports--background,--wait,--resume, and--fresh. If you omit--resumeand--fre
 Examples:
 
 /codex:rescue investigate why the tests started failing
-/codex:rescue fix the failing 
+/codex:rescue fix the failing
 test
  with the smallest safe patch
 /codex:rescue --resume apply the top fix from the last run
-/codex:rescue --model gpt-5.4-mini --effort medium investigate the flaky integration 
+/codex:rescue --model gpt-5.4-mini --effort medium investigate the flaky integration
 test
 
 /codex:rescue --model spark fix the issue quickly
@@ -312,14 +312,14 @@ The review gate can create a long-running Claude/Codex loop and may drain usage 
 
 ### Hand A Problem To Codex
 
-/codex:rescue investigate why the build is failing 
+/codex:rescue investigate why the build is failing
 in
  CI
 
 ### Start Something Long-Running
 
 /codex:adversarial-review --background
-/codex:rescue --background investigate the flaky 
+/codex:rescue --background investigate the flaky
 test
 
 Then check in with:
@@ -336,13 +336,13 @@ The Codex plugin wraps theCodex app server. It uses the globalcodexbinary instal
 If you want to change the default reasoning effort or the default model that gets used by the plugin, you can define that inside your user-level or project-levelconfig.toml. For example to always usegpt-5.4-minionhighfor a specific project you can add the following to a.codex/config.tomlfile at the root of the directory you started Claude in:
 
 model
- = 
+ =
 "
 gpt-5.4-mini
 "
 
 model_reasoning_effort
- = 
+ =
 "
 xhigh
 "
@@ -397,51 +397,51 @@ Use Codex from Claude Code to review code or delegate tasks.
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 11.5k
 
  stars
- 
+
 
 ### Watchers
 
 37
 
  watching
- 
+
 
 ### Forks
 
 600
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases3
 
@@ -449,11 +449,11 @@ v1.0.2
 
  Latest
 
- 
+
 
 Mar 31, 2026
 
- 
+
 
 + 2 releases
 
@@ -469,9 +469,9 @@ Mar 31, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -479,9 +479,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -44,8 +44,8 @@ A new book on Tove Jansson’s illustrations contains as much as 106 pictures
 
 In a new bookin English, Tove Jansson is presented as a multi-faceted artist with the help of beautiful pictures and inspiring texts. The book is written by comics expert and non-fiction authorPaul Gravettand published by Thames & Hudson. Tove Jansson’s life-long production was vast, but in the book, the author concentrates specifically on her illustrations. Paul Gravett writes in his new book about Tove Jansson:‘Her Gollum towered monstrously large, to the surprise of Tolkien himself, who realized that he had never clarified Gollum’s size and so amended the second edition to describe him as ‘a small,slimy creature’.
 
-Jansson drew Gollum as massive. The flower wreath on the head of the character was also a familiar sight on the head of Tove Jansson, e.g., during the 
-celebration of birthdays. 
+Jansson drew Gollum as massive. The flower wreath on the head of the character was also a familiar sight on the head of Tove Jansson, e.g., during the
+celebration of birthdays.
 
 Paul Gravett’s Tove Jansson was published by Thames & Hudson in 2022
 

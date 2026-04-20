@@ -41,17 +41,17 @@ A return to smartphones would pit Amazon against Apple and Samsung, which domina
 It’s unclear why Amazon thinks now is a good time to get back into phones. Even potentially low prices may not be enough to convince people to buy.
 
  Scharon Harding
- 
+
 
 Senior Technology Reporter
 
  Scharon Harding
- 
+
 
 Senior Technology Reporter
 
  Scharon is a Senior Technology Reporter at Ars Technica writing news, reviews, and analysis on consumer gadgets and services. She's been reporting on technology for over 10 years, with bylines at Tom’s Hardware, Channelnomics, and CRN UK.
- 
+
 
 1. 1.Once again, ULA can't deliver when the US military needs a satellite in orbit
 2. 2.You're likely already infected with a brain-eating virus you've never heard of

@@ -36,17 +36,17 @@ While Anthropic’s trade secrets have some legal protection, there are architec
 Further, bad actors looking for security vulnerabilities now have a map for bypassing the guardrails Anthropic has put in place. The category Claude Code occupies (and currently leads) is moving very quickly, though, and it’s hard to predict right now how much of a problem this will be a few months down the road.
 
  Samuel Axon
- 
+
 
 Senior Editor
 
  Samuel Axon
- 
+
 
 Senior Editor
 
  Samuel Axon is the editorial lead for tech and gaming coverage at Ars Technica. He covers AI, software development, gaming, entertainment, and mixed reality. He has been writing about gaming and technology for nearly two decades at Engadget, PC World, Mashable, Vice, Polygon, Wired, and others. He previously ran a marketing and PR agency in the gaming industry, led editorial for the TV network CBS, and worked on social media marketing strategy for Samsung Mobile at the creative agency SPCSHP. He also is an independent software and game developer for iOS, Windows, and other platforms, and he is a graduate of DePaul University, where he studied interactive media and software development.
- 
+
 
 1. 1."Cognitive surrender" leads AI users to abandon logical thinking, research finds
 2. 2.Netflix must refund customers for years of price hikes, Italian court rules

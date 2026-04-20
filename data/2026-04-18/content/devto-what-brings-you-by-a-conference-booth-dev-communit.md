@@ -20,7 +20,7 @@ What's a good experience or design you've seen? Or when do you avoid a booth (or
 LMK 😊
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -31,7 +31,7 @@ Preview
 Dismiss
 
  View full discussion (16 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

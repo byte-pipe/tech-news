@@ -27,8 +27,8 @@ Shinichirō Watanabe is also attached to the in-development project.
 Shinichirō Watanabe is also attached to the in-development project.
 
 by
- 
- 
+
+
 Charles Pulliam-Moore
 Mar 10, 2026, 9:55 PM UTC
 * Link
@@ -36,7 +36,7 @@ Mar 10, 2026, 9:55 PM UTC
 * Gift
 Image: Manglobe
 Charles Pulliam-Moore
- 
+
 is a reporter focusing on film, TV, and pop culture. Before The Verge, he wrote about comic books, labor, race, and more at io9 and Gizmodo for almost five years.
 
 Thoughthe live-actionCowboy Bebopwas a big disappointment,Shinichirō Watanabeis ready to give it another go with one of his other iconic pieces of IP.
@@ -71,19 +71,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

@@ -21,30 +21,30 @@ Original Source
 After Fil-C Transform
 
 void
- 
+
 f
 ()
- 
+
 {
  T1* p1;
  T2* p2;
- 
+
 uint64_t
  x;
  ...
 void
- 
+
 f
 ()
- 
+
 {
- T1* p1; AllocationRecord* p1ar = 
+ T1* p1; AllocationRecord* p1ar =
 NULL
 ;
- T2* p2; AllocationRecord* p2ar = 
+ T2* p2; AllocationRecord* p2ar =
 NULL
 ;
- 
+
 uint64_t
  x;
  ...
@@ -53,10 +53,10 @@ WhereAllocationRecordis something like:
 
 struct
  AllocationRecord {
- 
+
 char
 * visible_bytes;
- 
+
 char
 * invisible_bytes;
  size_t length;
@@ -84,18 +84,18 @@ When pointers are passed-to or returned-from functions, the code is rewritten to
 Original Source
 After Fil-C Transform
 
- p1 = 
+ p1 =
 malloc
 (x);
  ...
- 
+
 free
 (p1);
- {p1, p1ar} = 
+ {p1, p1ar} =
 filc_malloc
 (x);
  ...
- 
+
 filc_free
 (p1, p1ar);
 
@@ -103,21 +103,21 @@ The (simplified) implementation offilc_mallocactually performs three distinct al
 
 void
 * filc_malloc(size_t length) {
- AllocationRecord* ar = 
+ AllocationRecord* ar =
 malloc
 (
 sizeof
 (AllocationRecord));
- ar->visible_bytes = 
+ ar->visible_bytes =
 malloc
 (length);
- ar->invisible_bytes = 
+ ar->invisible_bytes =
 calloc
-(length, 
+(length,
 1
 );
  ar->length = length;
- 
+
 return
  {ar->visible_bytes, ar};
 }
@@ -131,25 +131,25 @@ After Fil-C Transform
  ...
  *p2 = x;
  assert(p1ar != NULL);
- 
+
 uint64_t
  i = (
 char
 *)p1 - p1ar->visible_bytes;
  assert(i < p1ar->length);
- assert((p1ar->length - i) >= 
+ assert((p1ar->length - i) >=
 sizeof
 (*p1));
  x = *p1;
  ...
  assert(p2ar != NULL);
- 
+
 uint64_t
  i = (
 char
 *)p2 - p2ar->visible_bytes;
  assert(i < p2ar->length);
- assert((p2ar->length - i) >= 
+ assert((p2ar->length - i) >=
 sizeof
 (*p2));
  *p2 = x;
@@ -163,19 +163,19 @@ After Fil-C Transform
  ...
  *p1 = p2;
  assert(p1ar != NULL);
- 
+
 uint64_t
  i = (
 char
 *)p1 - p1ar->visible_bytes;
  assert(i < p1ar->length);
- assert((p1ar->length - i) >= 
+ assert((p1ar->length - i) >=
 sizeof
 (*p1));
 
- assert((i % 
+ assert((i %
 sizeof
-(AllocationRecord*)) == 
+(AllocationRecord*)) ==
 0
 );
 
@@ -185,19 +185,19 @@ sizeof
 
  ...
  assert(p1ar != NULL);
- 
+
 uint64_t
  i = (
 char
 *)p1 - p1ar->visible_bytes;
  assert(i < p1ar->length);
- assert((p1ar->length - i) >= 
+ assert((p1ar->length - i) >=
 sizeof
 (*p1));
 
- assert((i % 
+ assert((i %
 sizeof
-(AllocationRecord*)) == 
+(AllocationRecord*)) ==
 0
 );
 
@@ -208,27 +208,27 @@ sizeof
 One thing we've not yet seen isfilc_free, which does something like:
 
 void
- 
+
 filc_free
 (
 void
 * p, AllocationRecord* par)
- 
+
 {
- 
+
 if
  (p != NULL) {
  assert(par != NULL);
  assert(p == par->visible_bytes);
- 
+
 free
 (par->visible_bytes);
- 
+
 free
 (par->invisible_bytes);
  par->visible_bytes = NULL;
  par->invisible_bytes = NULL;
- par->length = 
+ par->length =
 0
 ;
  }

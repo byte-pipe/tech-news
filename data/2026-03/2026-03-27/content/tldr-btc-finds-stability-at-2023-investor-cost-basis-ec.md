@@ -26,20 +26,20 @@ Email
 ## Onchain cost basis data suggests $60,000 is a critical support, with deeper historical support near $54,000.
 
 By
- 
+
 James Van Straten
 |
 Edited by
- 
+
 Oliver Knight
 Updated
- 
-Mar 24, 2026, 1:17 p.m. 
+
+Mar 24, 2026, 1:17 p.m.
 Published
- 
-Mar 24, 2026, 11:58 a.m. 
-Make 
- preferred on 
+
+Mar 24, 2026, 11:58 a.m.
+Make
+ preferred on
 Stable Stability Balance (Unsplash)
 
 #### What to know:
@@ -67,7 +67,7 @@ More For You
 ### The Definitive Stablecoin Landscape Series: North America
 
 By
- 
+
 CoinDesk Research
 20 hours ago
 Commissioned by
@@ -86,13 +86,13 @@ Meer voor jou
 ### Bitcoin drops to two-week low as $300 million in longs are liquidated
 
 Door
- 
+
 Oliver Knight
-, 
+,
 Omkar Godbole
 |
 Bewerkt door
- 
+
 Sheldon Reback
 15 minuten geleden
 
@@ -105,7 +105,7 @@ Wat u moet weten:
 * Altcoins underperform as shorting interest builds (e.g., XRP, SHIB), while ONDO stands...
 Lees volledig verhaal
 Latest Crypto News
- 
+
 
 #### Bitcoin drops to two-week low as $300 million in longs are liquidated
 

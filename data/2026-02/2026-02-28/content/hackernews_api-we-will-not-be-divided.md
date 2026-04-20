@@ -41,7 +41,7 @@ Current employee
 
 Former employee
 
-Role / Title 
+Role / Title
 (optional but always public, even if signing anonymously)
 
  Sign anonymously. Your name will not be published.
@@ -51,15 +51,15 @@ Your signature will appear as "Anonymous [Role/Title if provided], verified [cur
 Verification Method
 
  Email verification
- 
+
 We'll send a verification link to your work email. Note: the email will be visible in your inbox.
 
  Google Form email verification
- 
+
 After submitting, you'll open a short Google Form and sign in with your work Google account (@google.com, @openai.com). This verifies your email without sending anything to your inbox.
 
  Alternative verification
- 
+
 For those who prefer not to use a work email or don't have one (e.g. former employees). Upload a photo of a work badge, send us a message on Signal, point us to a co-signer who can vouch for you, or otherwise provide proof of employment.
 
 Work Email
@@ -76,7 +76,7 @@ So we can follow up during verification. Not published.
 
 Verification Details
 
-Upload Proof 
+Upload Proof
 (optional)
 
 Photo of work badge, offer letter, internal screenshot, etc. Redact sensitive info. Max 10 MB. Only seen by reviewers.

@@ -14,11 +14,11 @@ tags:
 ---
 
 This repository was archived by the owner on Mar 23, 2026. It is now read-only.
- 
+
 
  localstack
 
- 
+
 
 /
 
@@ -31,9 +31,9 @@ Public archive
 * Fork4.6k
 * Star64.8k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -252,15 +252,15 @@ Start LocalStack inside a Docker container by running:
 
  __ _______ __ __
  / / ____ _________ _/ / ___// /_____ ______/ /__
- / / / __ 
+ / / / __
 \/
- ___/ __ 
+ ___/ __
 `
 / /
 \_
-_ 
+_
 \/
- __/ __ 
+ __/ __
 `
 / ___/ //_/
  / /___/ /_/ / /__/ /_/ / /___/ / /_/ /_/ / /__/ ,
@@ -287,7 +287,7 @@ _
 - Profile: default
 - App: https://app.localstack.cloud
 
-[17:00:15] starting LocalStack 
+[17:00:15] starting LocalStack
 in
  Docker mode 🐳 localstack.py:512
  preparing environment bootstrap.py:1322
@@ -313,11 +313,11 @@ To use SQS, a fully managed distributed message queuing service, on LocalStack, 
 
 % awslocal sqs create-queue --queue-name sample-queue
 {
- 
+
 "
 QueueUrl
 "
-: 
+:
 "
 http://sqs.us-east-1.localhost.localstack.cloud:4566/000000000000/sample-queue
 "
@@ -423,61 +423,61 @@ localstack.cloud
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 64.8k
 
  stars
- 
+
 
 ### Watchers
 
 513
 
  watching
- 
+
 
 ### Forks
 
 4.6k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases106
 
@@ -485,11 +485,11 @@ v4.14.0
 
  Latest
 
- 
+
 
 Feb 26, 2026
 
- 
+
 
 + 105 releases
 
@@ -499,11 +499,11 @@ Feb 26, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * opencollective.com/localstack
 
 ## Packages0
@@ -518,9 +518,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -528,9 +528,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

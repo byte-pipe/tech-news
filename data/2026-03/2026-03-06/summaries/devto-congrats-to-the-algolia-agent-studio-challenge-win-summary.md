@@ -23,20 +23,20 @@ summarized_at: 2026-03-06T06:01:51.500517
 
 ## Prizes
 
-- $750 USD for each of the four winners  
-- DEV++ Membership  
-- Exclusive DEV Badge  
+- $750 USD for each of the four winners
+- DEV++ Membership
+- Exclusive DEV Badge
 
 All participants with a valid submission receive a completion badge on their DEV profile.
 
 ## Sponsor & Upcoming Events
 
-- Algolia partnered as the sponsor, providing the Agent Studio platform for building AI agents.  
+- Algolia partnered as the sponsor, providing the Agent Studio platform for building AI agents.
 - Spring Edition of Algolia DevBit on April 1 (online & live in Paris) featuring OpenAI talks, demos, and workflow insights. Registration includes an option for an in‑person ticket with food and drinks.
 
 ## Participation & Tags
 
-- Follow the challenge tag **#devchallenge** for future announcements and submissions.  
-- The official tag for all related posts and updates is **#devchallenge**.  
+- Follow the challenge tag **#devchallenge** for future announcements and submissions.
+- The official tag for all related posts and updates is **#devchallenge**.
 
 Thank you to everyone who participated; we look forward to the next challenge!

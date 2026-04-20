@@ -114,7 +114,7 @@ Creative Industry
 
 As networks race to flood clients with AI-generated options, Andy Harvey – founder and ECD ofCommunion– argues the industry faces a choice that will define its legacy.
 
-Written By: 
+Written By:
 Tom May
 
 30 March 2026
@@ -213,28 +213,28 @@ Resources
 ## 24 planet-friendly product swaps that creatives actually stick with
 
  24 February 2026
- 
+
 
 Tips
 
 ## I love freelancing, but what about my pension?
 
  23 February 2026
- 
+
 
 Insight
 
 ## Is social media over for creatives? Or have we just woken up to what it is?
 
  17 February 2026
- 
+
 
 Resources
 
 ## 50 fonts that will be popular with designers in 2026
 
  18 September 2025
- 
+
 
 ### Trending
 
@@ -243,42 +243,42 @@ Resources
 ## 50 fonts that will be popular with designers in 2026
 
  18 September 2025
- 
+
 
 News
 
 ## KFC has made a puffer jacket filled with real pickles, and yes, it has a straw
 
  24 March 2026
- 
+
 
 Resources
 
 ## Bored of Pinterest? 8 alternatives to try for design inspiration
 
  20 January 2025
- 
+
 
 News
 
 ## Booms & Shakes: March's fresh moves, new launches and a 26-year goodbye
 
  26 March 2026
- 
+
 
 News
 
 ## Sunday's 'Playful Precision': a robotics brand designed to give you your time back
 
  26 March 2026
- 
+
 
 Resources
 
 ## The best new fonts for March 2026
 
  24 March 2026
- 
+
 
 ### Podcasts
 
@@ -287,28 +287,28 @@ EP194
 ## Tilda Swinton, Imaginary Albums and the Death of 'Follow Your Passion' with Nicki Sprinz
 
  2 April 2026
- 
+
 
 EP193
 
 ## Why Wellness Apps Fail – and How to Fix That, with Nicki Sprinz of ustwo
 
  30 March 2026
- 
+
 
 EP192
 
 ## The Spark: Chris Wilson on Confidence, Chaos and Keeping Your Creativity Alive
 
  15 January 2026
- 
+
 
 EP191
 
 ## From Trauma to Triumph with Chris Wilson: Creativity, Resilience & the Courage to Keep Going
 
  12 January 2026
- 
+
 
 ## Editor's Picks
 
@@ -319,7 +319,7 @@ The Edit
 ## 24 planet-friendly product swaps that creatives actually stick with
 
  24 February 2026
- 
+
 
 Tips
 
@@ -328,7 +328,7 @@ Freelancing
 ## I love freelancing, but what about my pension?
 
  23 February 2026
- 
+
 
 Insight
 
@@ -337,7 +337,7 @@ Digital
 ## Is social media over for creatives? Or have we just woken up to what it is?
 
  17 February 2026
- 
+
 
 Resources
 
@@ -346,7 +346,7 @@ Assets
 ## 50 fonts that will be popular with designers in 2026
 
  18 September 2025
- 
+
 
 ### Take the Creative Boom Survey
 
@@ -359,7 +359,7 @@ Creative Industry
 ## What are you like? 9 things our survey reveals about Creative Boom readers
 
  31 March 2026
- 
+
 
 News
 
@@ -368,7 +368,7 @@ Creative Industry
 ## Adobe and Bloomsbury Football Foundation want to show girls that football is a creative space too
 
  30 March 2026
- 
+
 
 News
 
@@ -377,7 +377,7 @@ Creative Industry
 ## How do you stay human when everything is changing this fast?
 
  30 March 2026
- 
+
 
 Insight
 
@@ -386,7 +386,7 @@ Digital
 ## The death of Sora, and why you shouldn't build your studio on borrowed sand
 
  25 March 2026
- 
+
 
 Insight
 
@@ -395,7 +395,7 @@ Creative Industry
 ## Canva's Tom Carey on why imperfection might be your greatest creative weapon
 
  31 March 2026
- 
+
 
 Insight
 
@@ -404,7 +404,7 @@ Graphic Design
 ## Is it ethical to present concept work as if it's real?
 
  24 March 2026
- 
+
 
 Inspiration
 
@@ -413,7 +413,7 @@ Illustration
 ## Afters – Alexis Marcou’s personal project juxtaposes appetite with destruction
 
  30 March 2026
- 
+
 
 Tips
 
@@ -422,7 +422,7 @@ Freelancing
 ## Why pricing your creative work is mostly a battle with yourself
 
  30 March 2026
- 
+
 
 ## Further Reading
 
@@ -433,7 +433,7 @@ Creative Industry
 ## What are you like? 9 things our survey reveals about Creative Boom readers
 
  31 March 2026
- 
+
 
 News
 
@@ -442,7 +442,7 @@ Creative Industry
 ## Adobe and Bloomsbury Football Foundation want to show girls that football is a creative space too
 
  30 March 2026
- 
+
 
 News
 
@@ -451,7 +451,7 @@ Creative Industry
 ## How do you stay human when everything is changing this fast?
 
  30 March 2026
- 
+
 
 Insight
 
@@ -460,7 +460,7 @@ Digital
 ## The death of Sora, and why you shouldn't build your studio on borrowed sand
 
  25 March 2026
- 
+
 
 Insight
 
@@ -469,7 +469,7 @@ Creative Industry
 ## Canva's Tom Carey on why imperfection might be your greatest creative weapon
 
  31 March 2026
- 
+
 
 Insight
 
@@ -478,7 +478,7 @@ Graphic Design
 ## Is it ethical to present concept work as if it's real?
 
  24 March 2026
- 
+
 
 Inspiration
 
@@ -487,7 +487,7 @@ Illustration
 ## Afters – Alexis Marcou’s personal project juxtaposes appetite with destruction
 
  30 March 2026
- 
+
 
 Tips
 
@@ -496,7 +496,7 @@ Freelancing
 ## Why pricing your creative work is mostly a battle with yourself
 
  30 March 2026
- 
+
 
 Get the best of Creative Boom
  delivered to your inbox weekly

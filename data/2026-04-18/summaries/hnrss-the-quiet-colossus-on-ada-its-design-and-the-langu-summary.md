@@ -21,7 +21,7 @@ Ada is a language developed at Bell Labs, which led to its widespread adoption b
 - **Concurrent Programming**: Formalized package concepts in addition to implementing concurrency internally rather than through libraries.
 - **Separation of Interface from Implementation**: Invented a model for task communication, which Go independently incorporated decades later.
 - **Type Constraints and Discriminated Unions**
-  
+
 ## The Industry's Perception
 
 Ada is often described as verbose, arcane, and irrelevant. Despite this, it successfully anticipated safety features currently pursued by modern languages.
@@ -34,7 +34,7 @@ While Ada has achieved several notable goals in software design, such as formal 
 
 Given its unique characteristics and lasting presence in various systems, including commercial aircraft and avionics, a comprehensive understanding requires recognizing both the benefits and limitations. This includes acknowledging Ada's value as a precursor to modern safety features, which modern languages strive to replicate or enhance.
 
- 
+
 To further understand why Ada exists, consider examining the context of its creation - not focused primarily on computer science itself but rather procurement issues within the US Department of Defense in the early 1970s.
-  
+
 The quiet yet influential presence persists throughout history and still remains a staple in modern programming practices.

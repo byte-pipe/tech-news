@@ -75,19 +75,19 @@ Claude is predicted to be morally aware, conscientious and able to be self-criti
 How long will it be until we see whole psychiatry and psychological practices focused not on humans but on AIs?
 
  Nate Anderson
- 
+
 
 Deputy Editor
 
  Nate Anderson
- 
+
 
 Deputy Editor
 
- Nate is the deputy editor at Ars Technica. His most recent book is 
+ Nate is the deputy editor at Ars Technica. His most recent book is
 In Emergency, Break Glass: What Nietzsche Can Teach Us About Joyful Living in a Tech-Saturated World
 , which is much funnier than it sounds.
- 
+
 
 1. 1.Orion helium leak no threat to Artemis II reentry, but will require redesign
 2. 2.Thousands of consumer routers hacked by Russia's military

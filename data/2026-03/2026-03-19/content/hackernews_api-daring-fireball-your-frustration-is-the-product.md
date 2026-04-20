@@ -26,7 +26,7 @@ ByJohn Gruber
 
 Mux— Video APIfor developers.Build better video.
 
- 
+
 
 # ‘Your Frustration Is the Product’
 
@@ -81,8 +81,8 @@ Squashing
 Next:
 AppleScript: ‘Save MarsEdit Document to Text File’
 
- 
 
- 
+
+
 
 Display PreferencesCopyright © 2002–2026 The Daring Fireball Company LLC.

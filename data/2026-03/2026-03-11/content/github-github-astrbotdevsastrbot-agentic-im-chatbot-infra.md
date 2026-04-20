@@ -11,7 +11,7 @@ description: Agentic IM Chatbot infrastructure that integrates lots of IM platfo
 
 AstrBotDevs
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork1.5k
 * Star20.7k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -237,7 +237,7 @@ AstrBot is an open-source all-in-one Agent chatbot platform that integrates with
 For users who want to quickly experience AstrBot, are familiar with command-line usage, and can install auvenvironment on their own, we recommend theuvone-click deployment method ⚡️:
 
 uv tool install astrbot
-astrbot init 
+astrbot init
 #
  Only execute this command for the first time to initialize the environment
 
@@ -589,61 +589,61 @@ astrbot.app
 
  Readme
 
- 
+
 
 ### License
 
  AGPL-3.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 20.7k
 
  stars
- 
+
 
 ### Watchers
 
 64
 
  watching
- 
+
 
 ### Forks
 
 1.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases201
 
@@ -651,11 +651,11 @@ v4.19.5
 
  Latest
 
- 
+
 
 Mar 10, 2026
 
- 
+
 
 + 200 releases
 
@@ -665,11 +665,11 @@ Mar 10, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * opencollective.com/astrbot
 * https://afdian.com/a/astrbot_team
 
@@ -685,17 +685,17 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -703,9 +703,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

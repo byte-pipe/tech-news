@@ -11,7 +11,7 @@ description: A visual, example-driven guide to Claude Code — from basic concep
 
 luongnv89
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork621
 * Star5.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -481,7 +481,7 @@ cp 02-memory/project-CLAUDE.md /path/to/your-project/CLAUDE.md
 #
  5. Install a skill:
 
-cp -r 03-skills/code-review 
+cp -r 03-skills/code-review
 ~
 /.claude/skills/
 
@@ -502,7 +502,7 @@ cp 02-memory/project-CLAUDE.md ./CLAUDE.md
 #
  Install a skill (15 min)
 
-cp -r 03-skills/code-review 
+cp -r 03-skills/code-review
 ~
 /.claude/skills/
 
@@ -769,7 +769,7 @@ cp 02-memory/project-CLAUDE.md ./CLAUDE.md
 #
  Skills
 
-cp -r 03-skills/code-review 
+cp -r 03-skills/code-review
 ~
 /.claude/skills/
 
@@ -794,15 +794,15 @@ claude mcp add github -- npx -y @modelcontextprotocol/server-github
 #
  Hooks
 
-mkdir -p 
+mkdir -p
 ~
 /.claude/hooks
 cp 06-hooks/
 *
-.sh 
+.sh
 ~
 /.claude/hooks/
-chmod +x 
+chmod +x
 ~
 /.claude/hooks/
 *
@@ -884,7 +884,7 @@ cp 02-memory/directory-api-CLAUDE.md /path/to/project/src/api/CLAUDE.md
 #
  Personal memory
 
-cp 02-memory/personal-CLAUDE.md 
+cp 02-memory/personal-CLAUDE.md
 ~
 /.claude/CLAUDE.md
 
@@ -907,7 +907,7 @@ Installation:
 #
  Personal skills
 
-cp -r 03-skills/code-review 
+cp -r 03-skills/code-review
 ~
 /.claude/skills/
 
@@ -997,15 +997,15 @@ Examples:
 
 Installation:
 
-mkdir -p 
+mkdir -p
 ~
 /.claude/hooks
 cp 06-hooks/
 *
-.sh 
+.sh
 ~
 /.claude/hooks/
-chmod +x 
+chmod +x
 ~
 /.claude/hooks/
 *
@@ -1014,20 +1014,20 @@ chmod +x
 Configure hooks in~/.claude/settings.json:
 
 {
- 
+
 "hooks"
 : {
- 
+
 "PreToolUse"
 : [{
- 
+
 "matcher"
-: 
+:
 "
 Write
 "
 ,
- 
+
 "hooks"
 : [
 "
@@ -1035,17 +1035,17 @@ Write
 "
 ]
  }],
- 
+
 "PostToolUse"
 : [{
- 
+
 "matcher"
-: 
+:
 "
 Write
 "
 ,
- 
+
 "hooks"
 : [
 "
@@ -1147,7 +1147,7 @@ Quick Examples:
 #
  Interactive mode
 
-claude 
+claude
 "
 explain this project
 "
@@ -1155,7 +1155,7 @@ explain this project
 #
  Print mode (non-interactive)
 
-claude -p 
+claude -p
 "
 review this code
 "
@@ -1163,9 +1163,9 @@ review this code
 #
  Process file content
 
-cat error.log 
+cat error.log
 |
- claude -p 
+ claude -p
 "
 explain this error
 "
@@ -1173,7 +1173,7 @@ explain this error
 #
  JSON output for scripts
 
-claude -p --output-format json 
+claude -p --output-format json
 "
 list functions
 "
@@ -1181,11 +1181,11 @@ list functions
 #
  Resume session
 
-claude -r 
+claude -r
 "
 feature-auth
 "
- 
+
 "
 continue implementation
 "
@@ -1196,7 +1196,7 @@ Example Workflows
 
 ### Complete Code Review Workflow
 
-# 
+#
 Uses: Slash Commands + Subagents + Memory + MCP
 
 User: /review-pr
@@ -1229,7 +1229,7 @@ Claude:
 
 ### Automated Documentation
 
-# 
+#
 Uses: Skills + Subagents + Memory
 
 User: "Generate API documentation for the auth module"
@@ -1258,7 +1258,7 @@ Claude:
 
 ### DevOps Deployment
 
-# 
+#
 Uses: Plugins + MCP + Hooks
 
 User: /deploy production
@@ -1532,63 +1532,63 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 5.1k
 
  stars
- 
+
 
 ### Watchers
 
 34
 
  watching
- 
+
 
 ### Forks
 
 621
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases4
 
@@ -1596,11 +1596,11 @@ v2.2.0
 
  Latest
 
- 
+
 
 Mar 26, 2026
 
- 
+
 
 + 3 releases
 
@@ -1610,11 +1610,11 @@ Mar 26, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * buymeacoffee.com/luongnv89
 
 Learn more about GitHub Sponsors
@@ -1631,9 +1631,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors4
 

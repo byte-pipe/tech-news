@@ -29,7 +29,7 @@ Food and Drink
 Jun 28, 2022
 
 				An overview of chopsticks gaffes that are best avoided when eating in Japan.
-				
+
 
 * English
 * 日本語

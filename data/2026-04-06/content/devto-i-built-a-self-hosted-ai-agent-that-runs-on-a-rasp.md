@@ -110,13 +110,13 @@ It also runs on old laptops, Docker, and Android phones via Termux if you want t
 
 Install and start chatting:
 
-npm 
+npm
 install
- 
+
 -g
  profclaw
 profclaw init
-profclaw chat 
+profclaw chat
 --tui
 
 Enter fullscreen mode
@@ -125,7 +125,7 @@ Exit fullscreen mode
 
 One-liner install:
 
-curl 
+curl
 -fsSL
  https://raw.githubusercontent.com/profclaw/profclaw/main/install.sh | bash
 
@@ -135,19 +135,19 @@ Exit fullscreen mode
 
 Docker:
 
-docker run 
+docker run
 -it
- 
+
 --rm
- 
+
 \
 
- 
+
 -v
- ~/.profclaw:/root/.profclaw 
+ ~/.profclaw:/root/.profclaw
 \
 
- ghcr.io/profclaw/profclaw:latest chat 
+ ghcr.io/profclaw/profclaw:latest chat
 --tui
 
 Enter fullscreen mode
@@ -157,10 +157,10 @@ Exit fullscreen mode
 Run a skill from the CLI:
 
 profclaw run /review-pr 142
-profclaw run /web-research 
+profclaw run /web-research
 "best practices for database connection pooling in 2025"
 
-profclaw run /summarize 
+profclaw run /summarize
 --file
  ./meeting-notes.txt
 
@@ -170,20 +170,20 @@ Exit fullscreen mode
 
 Headless for CI/CD:
 
-profclaw 
+profclaw
 exec
- 
+
 --prompt
- 
+
 "Analyze test failures in the last run and open issues for regressions"
- 
+
 \
 
- 
+
 --provider
- anthropic 
+ anthropic
 --model
- claude-sonnet-4-5 
+ claude-sonnet-4-5
 --no-tty
 
 Enter fullscreen mode
@@ -192,9 +192,9 @@ Exit fullscreen mode
 
 Multi-agent routing— profClaw can route subtasks to different models based on capability scoring. Send the cheap fast model to handle file reads and the stronger model to handle reasoning:
 
-profclaw chat 
+profclaw chat
 --tui
- 
+
 --orchestrate
 
 Enter fullscreen mode
@@ -300,15 +300,15 @@ If you run into issues, the GitHub issues tracker is the right place. There's al
 
 ## Getting started
 
-npm 
+npm
 install
- 
+
 -g
- profclaw 
+ profclaw
 &&
- profclaw init 
+ profclaw init
 &&
- profclaw chat 
+ profclaw chat
 --tui
 
 Enter fullscreen mode
@@ -322,7 +322,7 @@ Exit fullscreen mode
 If you're building something with it or have questions, drop them in the comments or open an issue.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

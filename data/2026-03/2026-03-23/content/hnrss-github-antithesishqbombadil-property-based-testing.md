@@ -14,7 +14,7 @@ tags:
 
 antithesishq
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork24
 * Star779
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -141,51 +141,51 @@ Property-based testing for web UIs, autonomously exploring and validating correc
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 779
 
  stars
- 
+
 
 ### Watchers
 
 3
 
  watching
- 
+
 
 ### Forks
 
 24
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases5
 
@@ -193,11 +193,11 @@ v0.3.2
 
  Latest
 
- 
+
 
 Mar 10, 2026
 
- 
+
 
 + 4 releases
 
@@ -213,9 +213,9 @@ Mar 10, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -223,9 +223,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

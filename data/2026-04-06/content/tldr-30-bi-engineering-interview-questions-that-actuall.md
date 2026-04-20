@@ -18,8 +18,8 @@ New Story
 by
 Anusha Kovi
 April 3rd, 2026
-TLDR 
-Your browser does not support the 
+TLDR
+Your browser does not support the
 audio
  element.
 by

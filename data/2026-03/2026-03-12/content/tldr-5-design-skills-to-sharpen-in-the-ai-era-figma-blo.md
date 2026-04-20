@@ -110,7 +110,7 @@ To learn more about how teams are sharpening their skills in the AI era,read Sta
 
 How are you approaching today’s rapidly-changing design landscape? Below, take our quiz to see what you have in common—or not—with your peers.
 
- 
+
 Open in Figma
 
 Madeline Stafford is a writer and editor at Figma. She was previously a content marketer at Faire, where she told stories about makers and culture. Before that, she worked in the art world.

@@ -15,13 +15,13 @@ tags:
 # The Future of Everything is Lies, I Guess: Annoyances
 
 Software
- 
+
 LLM
- 
+
 The Future of Everything is Lies I Guess
 
  2026-04-11
- 
+
 
 Table of Contents
 

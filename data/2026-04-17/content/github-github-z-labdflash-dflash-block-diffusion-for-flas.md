@@ -11,7 +11,7 @@ description: 'DFlash: Block Diffusion for Flash Speculative Decoding - z-lab/dfl
 
 z-lab
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork108
 * Star1.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -176,7 +176,7 @@ pip install -e ".[mlx]"
 
 vLLM:DFlash support requires the nightly build:
 
-uv pip install -e 
+uv pip install -e
 "
 .[vllm]
 "
@@ -188,7 +188,7 @@ uv pip install -U vllm --torch-backend=auto --extra-index-url https://wheels.vll
 ### vLLM
 
 vllm serve Qwen/Qwen3.5-27B \
- --speculative-config 
+ --speculative-config
 '
 {"method": "dflash", "model": "z-lab/Qwen3.5-27B-DFlash", "num_speculative_tokens": 15}
 '
@@ -230,35 +230,35 @@ python -m sglang.launch_server \
 Only Qwen3 and LLaMA-3.1 models support the Transformers backend.
 
 from
- 
+
 transformers
- 
+
 import
- 
+
 AutoModel
-, 
+,
 AutoModelForCausalLM
-, 
+,
 AutoTokenizer
 
 draft
- 
+
 =
- 
+
 AutoModel
 .
 from_pretrained
 (
 "z-lab/Qwen3-8B-DFlash-b16"
-, 
+,
 trust_remote_code
 =
 True
-, 
+,
 dtype
 =
 "auto"
-, 
+,
 device_map
 =
 "cuda:0"
@@ -267,19 +267,19 @@ eval
 ()
 
 target
- 
+
 =
- 
+
 AutoModelForCausalLM
 .
 from_pretrained
 (
 "Qwen/Qwen3-8B"
-, 
+,
 dtype
 =
 "auto"
-, 
+,
 device_map
 =
 "cuda:0"
@@ -288,9 +288,9 @@ eval
 ()
 
 tokenizer
- 
+
 =
- 
+
 AutoTokenizer
 .
 from_pretrained
@@ -299,36 +299,36 @@ from_pretrained
 )
 
 messages
- 
+
 =
  [{
 "role"
-: 
+:
 "user"
-, 
+,
 "content"
-: 
+:
 "How many positive whole-number divisors does 196 have?"
 }]
 
 input_ids
- 
+
 =
- 
+
 tokenizer
 .
 apply_chat_template
 (
 messages
-, 
+,
 return_tensors
 =
 "pt"
-, 
+,
 add_generation_prompt
 =
 True
-, 
+,
 enable_thinking
 =
 False
@@ -341,9 +341,9 @@ device
 )
 
 output
- 
+
 =
- 
+
 draft
 .
 spec_generate
@@ -351,19 +351,19 @@ spec_generate
 input_ids
 =
 input_ids
-, 
+,
 max_new_tokens
 =
 2048
-, 
+,
 temperature
 =
 0.0
-, 
+,
 target
 =
 target
-, 
+,
 stop_token_ids
 =
 [
@@ -381,7 +381,7 @@ decode
 output
 [
 0
-], 
+],
 skip_special_tokens
 =
 False
@@ -392,129 +392,129 @@ False
 There have been many great community DFlash implementations on MLX; we provide a simple and efficient one here, tested on an Apple M5 Pro with Qwen3 and Qwen3.5 models.
 
 from
- 
+
 dflash
 .
 model_mlx
- 
+
 import
- 
+
 load
-, 
+,
 load_draft
-, 
+,
 stream_generate
 
 model
-, 
+,
 tokenizer
- 
+
 =
- 
+
 load
 (
 "Qwen/Qwen3.5-4B"
 )
 
 draft
- 
+
 =
- 
+
 load_draft
 (
 "z-lab/Qwen3.5-4B-DFlash"
 )
 
 messages
- 
+
 =
  [{
 "role"
-: 
+:
 "user"
-, 
+,
 "content"
-: 
+:
 "How many positive whole-number divisors does 196 have?"
 }]
 
 prompt
- 
+
 =
- 
+
 tokenizer
 .
 apply_chat_template
 (
 messages
-, 
+,
 tokenize
 =
 False
-, 
+,
 add_generation_prompt
 =
 True
-, 
+,
 enable_thinking
 =
 True
 )
 
 tps
- 
+
 =
- 
+
 0.0
 
 for
- 
+
 r
- 
+
 in
- 
+
 stream_generate
 (
 model
-, 
+,
 draft
-, 
+,
 tokenizer
-, 
+,
 prompt
-, 
+,
 block_size
 =
 16
-, 
+,
 max_tokens
 =
 2048
-, 
+,
 temperature
 =
 0.6
 ):
- 
+
 print
 (
 r
 .
 text
-, 
+,
 end
 =
 ""
-, 
+,
 flush
 =
 True
 )
- 
+
 tps
- 
+
 =
- 
+
 r
 .
 generation_tps
@@ -523,7 +523,7 @@ print
 (
 f"
 \n
-Throughput: 
+Throughput:
 {
 tps
 :.2f
@@ -571,30 +571,30 @@ If you find DFlash useful, please cite our work. To share feedback on DFlash or 
 {
 chen2026dflash
 ,
- 
+
 title
- = 
+ =
 {
 {DFlash: Block Diffusion for Flash Speculative Decoding}
 }
 ,
- 
+
 author
- = 
+ =
 {
 Chen, Jian and Liang, Yesheng and Liu, Zhijian
 }
 ,
- 
+
 journal
- = 
+ =
 {
 arXiv preprint arXiv:2602.06036
 }
 ,
- 
+
 year
- = 
+ =
 {
 2026
 }
@@ -611,51 +611,51 @@ dflash.z-lab.ai
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.6k
 
  stars
- 
+
 
 ### Watchers
 
 22
 
  watching
- 
+
 
 ### Forks
 
 108
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -673,9 +673,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -683,9 +683,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

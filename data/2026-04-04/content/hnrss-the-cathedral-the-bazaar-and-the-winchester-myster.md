@@ -58,10 +58,10 @@ Today, many programmers are Sarah Winchester.
 Claude Code's Public GitHub Activity
 
  Lines Added
- 
+
 
  Lines Deleted
- 
+
 
 ### What Happens When Code is Cheap
 
@@ -74,7 +74,7 @@ It’s hard to get a handle on individual usage, though, so I went searching for
 Average Net Lines Added Per Commit in Claude Code
 
  7-Day Average
- 
+
 
 After Opus 4.5 and recent work enabling Agent Teams, the average net lines added by Claude per commit is now smooth and steady at1,000 lines of code per commit3.
 

@@ -14,16 +14,16 @@ tags:
 - hnrss
 ---
 
-April 14, 2026 
+April 14, 2026
 Models
 
 # Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning
 
 Laura Graesser and Peng Xu
 
- 
- 
- 
+
+
+
 Share
 
 For robots to be truly helpful in our daily lives and industries, they must do more than follow instructions, they must reason about the physical world. From navigating a complex facility to interpreting the needle on a pressure gauge, a robot’s “embodied reasoning” is what allows it to bridge the gap between digital intelligence and physical action.
@@ -63,9 +63,9 @@ Gemini Robotics-ER 1.6 advances multi-view reasoning, enabling the system to bet
 
  Your browser does not support the video tag.
  Your browser does not support the video tag.
- 
- 
- 
+
+
+
 
 Gemini Robotics-ER 1.6 takes cues from multiple camera views to determine when the task "put the blue pen into the black pen holder" is complete.
 
@@ -81,11 +81,11 @@ Instrument reading requires complex visual reasoning. One must precisely perceiv
 
 Capabilities like instrument reading and more reliable task reasoning will enable Spot to see, understand, and react to real-world challenges completely autonomously.
 
- 
+
 Marco da Silva
- 
+
 Vice President and General Manager of Spot at Boston Dynamics
- 
+
 
 Gemini Robotics-ER 1.6 achieves its highly accurate instrument readings by usingagentic vision, which combines visual reasoning with code execution. The model takes intermediate steps: first zooming into an image to get a better read of small details in a gauge, then using pointing and code execution to estimate proportions and intervals and get an accurate reading, and ultimately applying its world knowledge to interpret meaning.
 
@@ -95,9 +95,9 @@ Figure 2: How the different elements of Gemini Robotics-ER 1.6 contribute to rea
 
  Your browser does not support the video tag.
  Your browser does not support the video tag.
- 
- 
- 
+
+
+
 
 This example demonstrates how the model uses pointing and code execution for zooming to derive the reading of gauge down to sub tick accuracy.
 
@@ -121,20 +121,20 @@ TryGemini Robotics-ER 1.6 now on Google AI Studio
 
 ### Gemini Robotics
 
- 
- 
+
+
 Learn more
- 
+
 
 ### Gemini Robotics-ER
 
- 
- 
+
+
 Learn more
- 
+
 
 ### Responsibly advancing AI and robotics
 
- 
- 
+
+
 Learn more

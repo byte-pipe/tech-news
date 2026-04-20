@@ -36,19 +36,19 @@ The changes to the app and the user interface come in response to the surge of s
 Topics
 
 Amazon
-, 
+,
 Amazon Fire TV
-, 
+,
 Apps
-, 
+,
 Fire TV
-, 
+,
 Media & Entertainment
-, 
+,
 streaming
- 
 
-			Aisha Malik	
+
+			Aisha Malik
 
 Consumer News Reporter
 
@@ -56,6 +56,6 @@ Aisha is a consumer news reporter at TechCrunch. Prior to joining the publicatio
 
 You can contact or verify outreach from Aisha by emailingaisha@techcrunch.comor via encrypted message at aisha_malik.01 on Signal.
 
- 
+
 
 View Bio

@@ -57,7 +57,7 @@ if you are interested in helping out, please check theCONTRIBUTING.mdfile on git
 no archives, no legacy, just what's happening now.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -68,7 +68,7 @@ Preview
 Dismiss
 
  View full discussion (27 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

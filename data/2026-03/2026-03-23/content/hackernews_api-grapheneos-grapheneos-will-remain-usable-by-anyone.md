@@ -13,6 +13,6 @@ tags:
 - trending
 ---
 
-To use the Mastodon web application, please enable JavaScript. Alternatively, try one of the 
+To use the Mastodon web application, please enable JavaScript. Alternatively, try one of the
 native apps
  for Mastodon for your platform.

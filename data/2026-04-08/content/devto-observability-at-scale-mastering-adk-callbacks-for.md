@@ -84,27 +84,27 @@ Benefit
 
 Short Circuit
 
-Call 
+Call
 beforeModelCallback
  to validate session data and skip LLM flow when data is invalid
 
 Separation of Concerns
 
-Reset session data in the 
+Reset session data in the
 beforeAgentCallback
  so that tool remains lean and focuses on business logic
 
 Observability
 
-Add logging in the 
+Add logging in the
 beforeAgentCallback
- and the 
+ and the
 afterAgentCallback
  to log performance metrics
 
 Dynamic State Management
 
-Create a reusable 
+Create a reusable
 afterToolCallback
  to increment validation attempts and modify response status to FATAL_ERROR
 
@@ -123,26 +123,26 @@ Note: I used Gemini in Vertex AI for authentication due to regional availability
 
 ### Install npm dependencies
 
-npm i 
+npm i
 --save-exact
  @google/adk
-npm i 
+npm i
 --save-dev
- 
+
 --save-exact
  @google/adk-devtools
-npm i 
+npm i
 --save-exact
  nodemailer
-npm i 
+npm i
 --save-dev
- 
+
 --save-exact
  @types/nodemailer rimraf
-npm i 
+npm i
 --save-exact
  marked
-npm i 
+npm i
 --save-exact
  zod
 
@@ -160,7 +160,7 @@ Copy.env.exampleto.envand fill in the credentials:
 
 GEMINI_MODEL_NAME="gemini-3.1-flash-lite-preview"
 GOOGLE_CLOUD_PROJECT="<Google Cloud Project ID>"
-GOOGLE_CLOUD_LOCATION="global" 
+GOOGLE_CLOUD_LOCATION="global"
 GOOGLE_GENAI_USE_VERTEXAI=TRUE
 
 # SMTP Settings (MailHog)
@@ -192,78 +192,78 @@ Callback used:beforeAgentCallbackandafterAgentCallback
 TheagentStartCallbackstores the current time in milliseconds instart_timevariable in the session state.
 
 import
- 
+
 {
- 
+
 SingleAgentCallback
- 
+
 }
- 
+
 from
- 
+
 '
 @google/adk
 '
 ;
 
 export
- 
+
 const
- 
+
 START_TIME_KEY
- 
+
 =
- 
+
 '
 start_time
 '
 ;
 
 export
- 
+
 const
- 
+
 agentStartCallback
 :
- 
+
 SingleAgentCallback
- 
+
 =
- 
+
 (
 context
 )
- 
+
 =>
- 
+
 {
 
- 
-if 
+
+if
 (
 !
 context
- 
+
 ||
- 
+
 !
 context
 .
 state
 )
- 
+
 {
 
- 
+
 return
- 
+
 undefined
 ;
 
- 
+
 }
 
- 
+
 context
 .
 state
@@ -272,15 +272,15 @@ set
 (
 START_TIME_KEY
 ,
- 
+
 Date
 .
 now
 ());
 
- 
+
 return
- 
+
 undefined
 ;
 
@@ -293,68 +293,68 @@ Exit fullscreen mode
 TheagentEndCallbackobtains the start time from the session state and calculates the duration. Then, it usesconsole.logto log the performance metrics. The callback returnsundefinedso that any subagent always flows to the next one in the sequential workflow.
 
 export
- 
+
 const
- 
+
 agentEndCallback
 :
- 
+
 SingleAgentCallback
- 
+
 =
- 
+
 (
 context
 )
- 
+
 =>
- 
+
 {
 
- 
-if 
+
+if
 (
 !
 context
- 
+
 ||
- 
+
 !
 context
 .
 state
 )
- 
+
 {
 
- 
+
 return
- 
+
 undefined
 ;
 
- 
+
 }
 
- 
+
 const
- 
+
 now
- 
+
 =
- 
+
 Date
 .
 now
 ();
 
- 
+
 const
- 
+
 startTime
- 
+
 =
- 
+
 context
 .
 state
@@ -366,47 +366,47 @@ number
 (
 START_TIME_KEY
 )
- 
+
 ||
- 
+
 now
 ;
 
- 
+
 console
 .
 log
 (
 
- 
+
 `Performance Metrics for Agent "
 ${
 context
 .
 agentName
 }
-": Total Elapsed Time: 
+": Total Elapsed Time:
 ${(
 now
- 
+
 -
- 
+
 startTime
 )
- 
+
 /
- 
+
 1000
 }
  seconds.`
 ,
 
- 
+
 );
 
- 
+
 return
- 
+
 undefined
 ;
 
@@ -419,91 +419,91 @@ Exit fullscreen mode
 Next, I call both callback hooks in the subagents to know how long they take to execute. The following example shows how I log the performance metric of aprojectsubagent.
 
 export
- 
+
 function
- 
+
 createProjectAgent
 (
 model
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 const
- 
+
 projectAgent
- 
+
 =
- 
+
 new
- 
+
 LlmAgent
 ({
 
- 
+
 name
 :
- 
+
 '
 ProjectAgent
 '
 ,
 
- 
+
 model
 ,
 
- 
+
 beforeAgentCallback
 :
- 
+
 agentStartCallback
 ,
 
- 
+
 instruction
 :
- 
+
 (
 context
 )
- 
+
 =>
- 
+
 {
 
- 
+
 ...
- 
+
 LLM
- 
+
 instruction
- 
+
 ....
 
- 
+
 },
 
- 
+
 afterAgentCallback
 :
- 
+
 agentEndCallback
 ,
 
- 
+
 ...
- 
- 
+
+
 });
 
- 
+
 return
- 
+
 projectAgent
 ;
 
@@ -520,117 +520,117 @@ Callback used:beforeAgentCallback
 The orchestrator resets variables in the session state before the agent lifecycle begins.
 
 export
- 
+
 const
- 
+
 AUDIT_TRAIL_KEY
- 
+
 =
- 
+
 '
 auditTrail
 '
 ;
 
 export
- 
+
 const
- 
+
 RECOMMENDATION_KEY
- 
+
 =
- 
+
 '
 recommendation
 '
 ;
 
 export
- 
+
 const
- 
+
 CLOUD_STORAGE_KEY
- 
+
 =
- 
+
 '
 cloudStorage
 '
 ;
 
 export
- 
+
 const
- 
+
 DECISION_KEY
- 
+
 =
- 
+
 '
 decision
 '
 ;
 
 export
- 
+
 const
- 
+
 PROJECT_KEY
- 
+
 =
- 
+
 '
 project
 '
 ;
 
 export
- 
+
 const
- 
+
 ANTI_PATTERNS_KEY
- 
+
 =
- 
+
 '
 antiPatterns
 '
 ;
 
 export
- 
+
 const
- 
+
 MERGED_RESULTS_KEY
- 
+
 =
- 
+
 '
 mergedResults
 '
 ;
 
 export
- 
+
 const
- 
+
 PROJECT_DESCRIPTION_KEY
- 
+
 =
- 
+
 '
 project_description
 '
 ;
 
 export
- 
+
 const
- 
+
 VALIDATION_ATTEMPTS_KEY
- 
+
 =
- 
+
 '
 validation_attempts
 '
@@ -641,158 +641,158 @@ Enter fullscreen mode
 Exit fullscreen mode
 
 const
- 
+
 resetNewEvaluationCallback
 :
- 
+
 SingleAgentCallback
- 
+
 =
- 
+
 (
 context
 )
- 
+
 =>
- 
+
 {
 
- 
-if 
+
+if
 (
 !
 context
- 
+
 ||
- 
+
 !
 context
 .
 state
 )
- 
+
 {
 
- 
+
 return
- 
+
 undefined
 ;
 
- 
+
 }
 
- 
+
 const
- 
+
 state
- 
+
 =
- 
+
 context
 .
 state
 ;
 
- 
+
 // Clear all previous evaluation data
 
- 
+
 state
 .
 set
 (
 PROJECT_KEY
 ,
- 
+
 null
 );
 
- 
+
 state
 .
 set
 (
 ANTI_PATTERNS_KEY
 ,
- 
+
 null
 );
 
- 
+
 state
 .
 set
 (
 DECISION_KEY
 ,
- 
+
 null
 );
 
- 
+
 state
 .
 set
 (
 RECOMMENDATION_KEY
 ,
- 
+
 null
 );
 
- 
+
 state
 .
 set
 (
 AUDIT_TRAIL_KEY
 ,
- 
+
 null
 );
 
- 
+
 state
 .
 set
 (
 CLOUD_STORAGE_KEY
 ,
- 
+
 null
 );
 
- 
+
 state
 .
 set
 (
 MERGED_RESULTS_KEY
 ,
- 
+
 null
 );
 
- 
+
 state
 .
 set
 (
 VALIDATION_ATTEMPTS_KEY
 ,
- 
+
 0
 );
 
- 
+
 console
 .
 log
 (
 
- 
-`beforeAgentCallback: Agent 
+
+`beforeAgentCallback: Agent
 ${
 context
 .
@@ -801,12 +801,12 @@ agentName
  has reset the session state for a new evaluation cycle.`
 ,
 
- 
+
 );
 
- 
+
 return
- 
+
 undefined
 ;
 
@@ -819,47 +819,47 @@ Exit fullscreen mode
 The orchestrator sets the variables tonullin thebeforeAgentCallback. In theprepareEvaluationTool, the orchestrator only replaces thedescriptionwith the new project description.
 
 const
- 
+
 prepareEvaluationTool
- 
+
 =
- 
+
 new
- 
+
 FunctionTool
 ({
 
- 
+
 name
 :
- 
+
 '
 prepare_evaluation
 '
 ,
 
- 
+
 description
 :
- 
+
 '
 Stores the new project description to prepare for a fresh evaluation.
 '
 ,
 
- 
+
 parameters
 :
- 
+
 z
 .
 object
 ({
 
- 
+
 description
 :
- 
+
 z
 .
 string
@@ -871,71 +871,71 @@ The validated project description from the user.
 '
 ),
 
- 
+
 }),
 
- 
+
 execute
 :
- 
+
 ({
- 
+
 description
- 
+
 },
- 
+
 context
 )
- 
+
 =>
- 
+
 {
 
- 
-if 
+
+if
 (
 !
 context
- 
+
 ||
- 
+
 !
 context
 .
 state
 )
- 
+
 {
 
- 
+
 return
- 
+
 {
- 
+
 status
 :
- 
+
 '
 ERROR
 '
 ,
- 
+
 message
 :
- 
+
 '
 No session state found.
 '
- 
+
 };
 
- 
+
 }
 
- 
+
 // Set the new description for the ProjectAgent to find
 
- 
+
 context
 .
 state
@@ -944,33 +944,33 @@ set
 (
 PROJECT_DESCRIPTION_KEY
 ,
- 
+
 description
 );
 
- 
+
 return
- 
+
 {
- 
+
 status
 :
- 
+
 '
 SUCCESS
 '
 ,
- 
+
 message
 :
- 
+
 '
 Description updated.
 '
- 
+
 };
 
- 
+
 },
 
 });
@@ -982,64 +982,64 @@ Exit fullscreen mode
 The tool logic is more efficient and the token usage is reduced.
 
 export
- 
+
 const
- 
+
 rootAgent
- 
+
 =
- 
+
 new
- 
+
 LlmAgent
 ({
 
- 
+
 name
 :
- 
+
 '
 ProjectEvaluationAgent
 '
 ,
 
- 
+
 model
 :
- 
+
 '
 gemini-3.1-flash-lite-preview
 '
 ,
 
- 
+
 beforeAgentCallback
 :
- 
+
 resetNewEvaluationCallback
 ,
 
- 
+
 instruction
 :
- 
+
 `
  ... LLM instruction ....
  `
 ,
 
- 
+
 tools
 :
- 
+
 [
 prepareEvaluationTool
 ],
 
- 
+
 subAgents
 :
- 
+
 [
 sequentialEvaluationAgent
 ],
@@ -1059,13 +1059,13 @@ Prerequisite: The subagent uses tool calling to perform actionCallback used:afte
 The use case is to increment the value ofvalidation_attemptsin the session state. After consulting AI, theafterToolCallbackstage ofprojectanddecisionsubagents is the perfect location to increment it. Therefore, I define a meta-function that creates aafterToolCallbackto increment the validation attempts.
 
 export
- 
+
 const
- 
+
 VALIDATION_ATTEMPTS_KEY
- 
+
 =
- 
+
 '
 validation_attempts
 '
@@ -1076,13 +1076,13 @@ Enter fullscreen mode
 Exit fullscreen mode
 
 export
- 
+
 const
- 
+
 MAX_ITERATIONS
- 
+
 =
- 
+
 3
 ;
 
@@ -1091,209 +1091,209 @@ Enter fullscreen mode
 Exit fullscreen mode
 
 import
- 
+
 {
- 
+
 AfterToolCallback
- 
+
 }
- 
+
 from
- 
+
 '
 @google/adk
 '
 ;
 
 import
- 
+
 {
- 
+
 VALIDATION_ATTEMPTS_KEY
- 
+
 }
- 
+
 from
- 
+
 '
 ../output-keys.const.js
 '
 ;
 
 import
- 
+
 {
- 
+
 MAX_ITERATIONS
- 
+
 }
- 
+
 from
- 
+
 '
 ../validation.const.js
 '
 ;
 
 export
- 
+
 function
- 
+
 createAfterToolCallback
 (
 fatalErrorMessage
 :
- 
+
 string
 ,
- 
+
 maxAttempts
- 
+
 =
- 
+
 MAX_ITERATIONS
 ):
- 
+
 AfterToolCallback
- 
+
 {
 
- 
-return 
+
+return
 ({
- 
+
 tool
 ,
- 
+
 context
 ,
- 
+
 response
- 
+
 })
- 
+
 =>
- 
+
 {
 
- 
-if 
+
+if
 (
 !
 tool
- 
+
 ||
- 
+
 !
 context
- 
+
 ||
- 
+
 !
 context
 .
 state
 )
- 
+
 {
 
- 
+
 return
- 
+
 undefined
 ;
 
- 
+
 }
 
- 
+
 const
- 
+
 toolName
- 
+
 =
- 
+
 tool
 .
 name
 ;
 
- 
+
 const
- 
+
 agentName
- 
+
 =
- 
+
 context
 .
 agentName
 ;
 
- 
+
 const
- 
+
 state
- 
+
 =
- 
+
 context
 .
 state
 ;
 
- 
-if 
+
+if
 (
 !
 response
- 
+
 ||
- 
+
 typeof
- 
+
 response
- 
+
 !==
- 
+
 '
 object
 '
- 
+
 ||
- 
+
 !
 (
 '
 status
 '
- 
+
 in
- 
+
 response
 ))
- 
+
 {
 
- 
+
 return
- 
+
 undefined
 ;
 
- 
+
 }
 
- 
+
 // [1] Dynamic state management
 
- 
+
 const
- 
+
 attempts
- 
+
 =
- 
+
 (
 state
 .
@@ -1304,111 +1304,111 @@ number
 (
 VALIDATION_ATTEMPTS_KEY
 )
- 
+
 ||
- 
+
 0
 )
- 
+
 +
- 
+
 1
 ;
 
- 
+
 state
 .
 set
 (
 VALIDATION_ATTEMPTS_KEY
 ,
- 
+
 attempts
 );
 
- 
+
 // [2] Response modification
 
- 
+
 const
- 
+
 status
- 
+
 =
- 
+
 response
 .
 status
- 
+
 ||
- 
+
 '
 ERROR
 '
 ;
 
- 
-if 
+
+if
 (
 status
- 
+
 ===
- 
+
 '
 ERROR
 '
- 
+
 &&
- 
+
 attempts
- 
+
 >=
- 
+
 maxAttempts
 )
- 
+
 {
 
- 
+
 context
 .
 actions
 .
 escalate
- 
+
 =
- 
+
 true
 ;
 
- 
+
 return
- 
+
 {
 
- 
+
 status
 :
- 
+
 '
 FATAL_ERROR
 '
 ,
 
- 
+
 message
 :
- 
+
 fatalErrorMessage
 ,
 
- 
+
 };
 
- 
+
 }
 
- 
+
 };
 
 }
@@ -1420,15 +1420,15 @@ Exit fullscreen mode
 In bothprojectanddecisionsubagents, I invokecreateAfterToolCallbackto create their ownafterToolCallbackto increment the validation attempts.
 
 const
- 
+
 projectAfterToolCallback
- 
+
 =
- 
+
 createAfterToolCallback
 (
 
- 
+
 `STOP processing immediately. Max validation attempts reached. Return the most accurate data found so far or empty strings if none.`
 ,
 
@@ -1439,15 +1439,15 @@ Enter fullscreen mode
 Exit fullscreen mode
 
 const
- 
+
 decisionAfterToolCallback
- 
+
 =
- 
+
 createAfterToolCallback
 (
 
- 
+
 `STOP processing immediately and output the final JSON schema with verdict: "None".`
 ,
 
@@ -1460,106 +1460,106 @@ Exit fullscreen mode
 Next, I call theprojectAfterToolCallbackin theafterToolCallbackstage of theprojectsubagent.
 
 export
- 
+
 function
- 
+
 createProjectAgent
 (
 model
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 const
- 
+
 projectAgent
- 
+
 =
- 
+
 new
- 
+
 LlmAgent
 ({
 
- 
+
 name
 :
- 
+
 '
 ProjectAgent
 '
 ,
 
- 
+
 model
 ,
 
- 
+
 beforeAgentCallback
 :
- 
+
 agentStartCallback
 ,
 
- 
+
 instruction
 :
- 
+
 (
 context
 )
- 
+
 =>
- 
+
 {
 
- 
+
 ...
- 
+
 LLM
- 
+
 instruction
- 
+
 ....
 
- 
+
 },
 
- 
+
 afterToolCallback
 :
- 
+
 projectAfterToolCallback
 ,
 
- 
+
 afterAgentCallback
 :
- 
+
 agentEndCallback
 ,
 
- 
+
 tools
 :
- 
+
 [
 validateProjectTool
 ],
 
- 
+
 ...
- 
- 
+
+
 });
 
- 
+
 return
- 
+
 projectAgent
 ;
 
@@ -1572,116 +1572,116 @@ Exit fullscreen mode
 Next, I call thedecisionAfterToolCallbackin theafterToolCallbackstage of thedecisionsubagent.
 
 export
- 
+
 function
- 
+
 createDecisionTreeAgent
 (
 model
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 const
- 
+
 decisionTreeAgent
- 
+
 =
- 
+
 new
- 
+
 LlmAgent
 ({
 
- 
+
 name
 :
- 
+
 '
 DecisionTreeAgent
 '
 ,
 
- 
+
 model
 ,
 
- 
+
 beforeAgentCallback
 :
- 
+
 [
 resetAttemptsCallback
 ,
- 
+
 agentStartCallback
 ],
 
- 
+
 instruction
 :
- 
+
 (
 context
 )
- 
+
 =>
- 
+
 {
 
- 
-...
- 
-instruction
- 
-of
- 
-the
- 
-LLM
- 
-flow
- 
+
 ...
 
- 
+instruction
+
+of
+
+the
+
+LLM
+
+flow
+
+...
+
+
 },
 
- 
+
 afterToolCallback
 :
- 
+
 decisionAfterToolCallback
 ,
 
- 
+
 afterAgentCallback
 :
- 
+
 agentEndCallback
 ,
 
- 
+
 tools
 :
- 
+
 [
 validateDecisionTool
 ],
 
- 
+
 ...
 
- 
+
 });
 
- 
+
 return
- 
+
 decisionTreeAgent
 ;
 
@@ -1712,112 +1712,112 @@ In my subagents, I run this callback to validate the session data. When a specif
 If theprojectagent is able to break down a project description into task, problem, constraint, and goal, the agent will return the breakdown immediately. Otherwise, the agent prompts Gemini to use reasoning to perform the breakdown.
 
 import
- 
+
 {
- 
+
 SingleBeforeModelCallback
- 
+
 }
- 
+
 from
- 
+
 '
 @google/adk
 '
 ;
 
 const
- 
+
 beforeModelCallback
 :
- 
+
 SingleBeforeModelCallback
- 
+
 =
- 
+
 ({
- 
+
 context
- 
+
 })
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 {
- 
+
 project
- 
+
 }
- 
+
 =
- 
+
 getEvaluationContext
 (
 context
 );
 
- 
+
 const
- 
+
 {
- 
+
 isCompleted
- 
+
 }
- 
+
 =
- 
+
 isProjectDetailsFilled
 (
 project
 );
 
- 
-if 
+
+if
 (
 isCompleted
 )
- 
+
 {
 
- 
+
 return
- 
+
 {
 
- 
+
 content
 :
- 
+
 {
 
- 
+
 role
 :
- 
+
 '
 model
 '
 ,
 
- 
+
 parts
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 text
 :
- 
+
 JSON
 .
 stringify
@@ -1825,24 +1825,24 @@ stringify
 project
 ),
 
- 
+
 },
 
- 
+
 ],
 
- 
+
 },
 
- 
+
 };
 
- 
+
 }
 
- 
+
 return
- 
+
 undefined
 ;
 
@@ -1855,178 +1855,178 @@ Exit fullscreen mode
 Then,beforeModelCallbackis hooked to the beforeModelCallback stage of theprojectsubagent.
 
 export
- 
+
 function
- 
+
 createProjectAgent
 (
 model
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 const
- 
+
 projectAgent
- 
+
 =
- 
+
 new
- 
+
 LlmAgent
 ({
 
- 
+
 name
 :
- 
+
 '
 ProjectAgent
 '
 ,
 
- 
+
 model
 ,
 
- 
+
 description
 :
 
- 
+
 '
 Analyzes the user-provided project description to extract and structure its core components, including the primary task, underlying problem, ultimate goal, and architectural constraints.
 '
 ,
 
- 
+
 beforeAgentCallback
 :
- 
+
 agentStartCallback
 ,
 
- 
+
 beforeModelCallback
 ,
 
- 
+
 instruction
 :
- 
+
 (
 context
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 {
- 
+
 projectDescription
- 
+
 }
- 
+
 =
- 
+
 getEvaluationContext
 (
 context
 );
 
- 
-if 
+
+if
 (
 !
 projectDescription
 )
- 
+
 {
 
- 
+
 return
- 
+
 ''
 ;
 
- 
+
 }
 
- 
+
 return
- 
+
 generateProjectBreakdownPrompt
 (
 projectDescription
 );
 
- 
+
 },
 
- 
+
 afterToolCallback
 :
- 
+
 projectAfterToolCallback
 ,
 
- 
+
 afterAgentCallback
 :
- 
+
 agentEndCallback
 ,
 
- 
+
 tools
 :
- 
+
 [
 validateProjectTool
 ],
 
- 
+
 outputSchema
 :
- 
+
 projectSchema
 ,
 
- 
+
 outputKey
 :
- 
+
 PROJECT_KEY
 ,
 
- 
+
 disallowTransferToParent
 :
- 
+
 true
 ,
 
- 
+
 disallowTransferToPeers
 :
- 
+
 true
 ,
 
- 
+
 });
 
- 
+
 return
- 
+
 projectAgent
 ;
 
@@ -2041,108 +2041,108 @@ Exit fullscreen mode
 Thedecisionagent verifies theverdictproperty in thebeforeModelCallback. If theverdictis notNone, the callback returns the valid decision immediately. TheverdictisNoneand the callback examines the project breakdown and the anti-patterns. When project breakdown and anti-patterns are provided, the callback returns undefined to trigger the LLM flow. Otherwise, thedecisionagent does not have valid inputs to derive the verdict. The callback returnsNonein this edge case.
 
 import
- 
+
 {
- 
+
 SingleBeforeModelCallback
- 
+
 }
- 
+
 from
- 
+
 '
 @google/adk
 '
 ;
 
 const
- 
+
 beforeModelCallback
 :
- 
+
 SingleBeforeModelCallback
- 
+
 =
- 
+
 ({
- 
+
 context
- 
+
 })
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 {
- 
+
 decision
- 
+
 }
- 
+
 =
- 
+
 getEvaluationContext
 (
 context
 );
 
- 
-if 
+
+if
 (
 decision
- 
+
 &&
- 
+
 decision
 .
 verdict
- 
+
 !==
- 
+
 '
 None
 '
 )
- 
+
 {
 
- 
+
 return
- 
+
 {
 
- 
+
 content
 :
- 
+
 {
 
- 
+
 role
 :
- 
+
 '
 model
 '
 ,
 
- 
+
 parts
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 text
 :
- 
+
 JSON
 .
 stringify
@@ -2150,143 +2150,143 @@ stringify
 decision
 ),
 
- 
+
 },
 
- 
+
 ],
 
- 
+
 },
 
- 
+
 };
 
- 
+
 }
 
- 
+
 const
- 
+
 {
- 
+
 project
 ,
- 
+
 antiPatterns
- 
+
 }
- 
+
 =
- 
+
 getEvaluationContext
 (
 context
 );
 
- 
+
 const
- 
+
 {
- 
+
 isCompleted
- 
+
 }
- 
+
 =
- 
+
 isProjectDetailsFilled
 (
 project
 );
 
- 
-if 
+
+if
 (
 isCompleted
- 
+
 &&
- 
+
 antiPatterns
 )
- 
+
 {
 
- 
+
 return
- 
+
 undefined
 ;
 
- 
+
 }
 
- 
+
 return
- 
+
 {
 
- 
+
 content
 :
- 
+
 {
 
- 
+
 role
 :
- 
+
 '
 model
 '
 ,
 
- 
+
 parts
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 text
 :
- 
+
 JSON
 .
 stringify
 ({
 
- 
+
 verdict
 :
- 
+
 '
 None
 '
 ,
 
- 
+
 nodes
 :
- 
+
 [],
 
- 
+
 }),
 
- 
+
 },
 
- 
+
 ],
 
- 
+
 },
 
- 
+
 };
 
 };
@@ -2298,145 +2298,145 @@ Exit fullscreen mode
 Then,beforeModelCallbackis hooked to thebeforeModelCallbackstage of theprojectsubagent.
 
 export
- 
+
 function
- 
+
 createDecisionTreeAgent
 (
 model
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 const
- 
+
 decisionTreeAgent
- 
+
 =
- 
+
 new
- 
+
 LlmAgent
 ({
 
- 
+
 name
 :
- 
+
 '
 DecisionTreeAgent
 '
 ,
 
- 
+
 model
 ,
 
- 
+
 beforeAgentCallback
 :
- 
+
 [
 resetAttemptsCallback
 ,
- 
+
 agentStartCallback
 ],
 
- 
+
 beforeModelCallback
 ,
 
- 
+
 instruction
 :
- 
+
 (
 context
 )
- 
+
 =>
- 
+
 {
 
- 
-...
- 
-instruction
- 
-of
- 
-the
- 
-LLM
- 
-flow
- 
+
 ...
 
- 
+instruction
+
+of
+
+the
+
+LLM
+
+flow
+
+...
+
+
 },
 
- 
+
 afterToolCallback
 :
- 
+
 decisionAfterToolCallback
 ,
 
- 
+
 afterAgentCallback
 :
- 
+
 agentEndCallback
 ,
 
- 
+
 tools
 :
- 
+
 [
 validateDecisionTool
 ],
 
- 
+
 outputSchema
 :
- 
+
 decisionSchema
 ,
 
- 
+
 outputKey
 :
- 
+
 DECISION_KEY
 ,
 
- 
+
 disallowTransferToParent
 :
- 
+
 true
 ,
 
- 
+
 disallowTransferToPeers
 :
- 
+
 true
 ,
 
- 
+
 });
 
- 
+
 return
- 
+
 decisionTreeAgent
 ;
 
@@ -2451,226 +2451,226 @@ Exit fullscreen mode
 Therecommendationagent uses thebeforeModelCallbackto examine the project breakdown, anti-patterns and verdict. There are two scenarios that need LLM to generate the recommendation. The first scenario is valid project breakdown, anti-patterns, and non-None verdict. The second scenario is incomplete project breakdown andNoneverdict. The LLM is instructed to describe the missing field in the project breakdown and how important the missing field is to obtain a valid decision. For other cases, the callback returns a static recommendation immediately and skip the subsequent LLM flow.
 
 function
- 
+
 constructRecommendation
 (
 recommendation
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 return
- 
+
 {
 
- 
+
 content
 :
- 
+
 {
 
- 
+
 role
 :
- 
+
 '
 model
 '
 ,
 
- 
+
 parts
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 text
 :
- 
+
 JSON
 .
 stringify
 ({
 
- 
+
 text
 :
- 
+
 recommendation
 ,
 
- 
+
 }),
 
- 
+
 },
 
- 
+
 ],
 
- 
+
 },
 
- 
+
 };
 
 }
 
 const
- 
+
 beforeModelCallback
 :
- 
+
 SingleBeforeModelCallback
- 
+
 =
- 
+
 ({
- 
+
 context
- 
+
 })
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 {
- 
+
 project
 ,
- 
+
 antiPatterns
 ,
- 
+
 decision
- 
+
 }
- 
+
 =
- 
+
 getEvaluationContext
 (
 context
 );
 
- 
+
 const
- 
+
 {
- 
+
 isCompleted
- 
+
 }
- 
+
 =
- 
+
 isProjectDetailsFilled
 (
 project
 );
 
- 
+
 const
- 
+
 isDecisionNone
- 
+
 =
- 
+
 decision
- 
+
 &&
- 
+
 decision
 .
 verdict
- 
+
 ===
- 
+
 '
 None
 '
 ;
 
- 
-if 
+
+if
 ((
 isCompleted
- 
+
 &&
- 
+
 antiPatterns
- 
+
 &&
- 
+
 decision
- 
+
 &&
- 
+
 decision
 .
 verdict
- 
+
 !==
- 
+
 '
 None
 '
 )
- 
+
 ||
- 
+
 (
 !
 isCompleted
- 
+
 &&
- 
+
 isDecisionNone
 ))
- 
+
 {
 
- 
+
 return
- 
+
 undefined
 ;
 
- 
+
 }
- 
+
 else
- 
-if 
+
+if
 (
 isCompleted
- 
+
 &&
- 
+
 isDecisionNone
 )
- 
+
 {
 
- 
+
 return
- 
+
 constructRecommendation
 (
 
- 
+
 '
 ## Recommendation: Manual Review Required
 \n\n
@@ -2692,19 +2692,19 @@ The provided project is complete and valid, but the decision tree could not reac
 '
 ,
 
- 
+
 );
 
- 
+
 }
 
- 
+
 return
- 
+
 constructRecommendation
 (
 
- 
+
 '
 ## Recommendation: Data Required
 \n\n
@@ -2714,7 +2714,7 @@ No decision is reached.
 '
 ,
 
- 
+
 );
 
 };
@@ -2726,142 +2726,142 @@ Exit fullscreen mode
 Similar to the previousprojectanddecisionagents, thebeforeModelCallbackfunction is hooked to thebeforeModelCallbackstage of therecommendationagent.
 
 export
- 
+
 function
- 
+
 createRecommendationAgent
 (
 model
 :
- 
+
 string
 )
- 
+
 {
 
- 
+
 const
- 
+
 recommendationAgent
- 
+
 =
- 
+
 new
- 
+
 LlmAgent
 ({
 
- 
+
 name
 :
- 
+
 '
 RecommendationAgent
 '
 ,
 
- 
+
 model
 ,
 
- 
+
 beforeModelCallback
 ,
 
- 
+
 beforeAgentCallback
 :
- 
+
 agentStartCallback
 ,
 
- 
+
 instruction
 :
- 
+
 (
 context
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 {
- 
+
 project
 ,
- 
+
 antiPatterns
 ,
- 
+
 decision
- 
+
 }
- 
+
 =
- 
+
 getEvaluationContext
 (
 context
 );
 
- 
+
 const
- 
+
 {
- 
+
 isCompleted
 ,
- 
+
 missingFields
- 
+
 }
- 
+
 =
- 
+
 isProjectDetailsFilled
 (
 project
 );
 
- 
-if 
+
+if
 (
 project
 )
- 
+
 {
 
- 
-if 
+
+if
 (
 !
 isCompleted
- 
+
 &&
- 
+
 decision
- 
+
 &&
- 
+
 decision
 .
 verdict
- 
+
 ===
- 
+
 '
 None
 '
 )
- 
+
 {
 
- 
+
 console
 .
 log
@@ -2871,50 +2871,50 @@ RecommendationAgent -> generateFailedDecisionPrompt
 '
 );
 
- 
+
 return
- 
+
 generateFailedDecisionPrompt
 (
 project
 ,
- 
+
 missingFields
 );
 
- 
+
 }
- 
+
 else
- 
-if 
+
+if
 (
 isCompleted
- 
+
 &&
- 
+
 antiPatterns
- 
+
 &&
- 
+
 decision
- 
+
 &&
- 
+
 decision
 .
 verdict
- 
+
 !==
- 
+
 '
 None
 '
 )
- 
+
 {
 
- 
+
 console
 .
 log
@@ -2924,78 +2924,78 @@ RecommendationAgent -> generateRecommendationPrompt
 '
 );
 
- 
+
 return
- 
+
 generateRecommendationPrompt
 (
 project
 ,
- 
+
 antiPatterns
 ,
- 
+
 decision
 );
 
- 
+
 }
 
- 
+
 }
 
- 
+
 return
- 
+
 '
 Skipping LLM due to missing data.
 '
 ;
 
- 
+
 },
 
- 
+
 afterAgentCallback
 :
- 
+
 agentEndCallback
 ,
 
- 
+
 outputSchema
 :
- 
+
 recommendationSchema
 ,
 
- 
+
 outputKey
 :
- 
+
 RECOMMENDATION_KEY
 ,
 
- 
+
 disallowTransferToParent
 :
- 
+
 true
 ,
 
- 
+
 disallowTransferToPeers
 :
- 
+
 true
 ,
 
- 
+
 });
 
- 
+
 return
- 
+
 recommendationAgent
 ;
 
@@ -3014,61 +3014,61 @@ I pulled the latest version of theMailHogDocker image from Docker Hub and starte
 services
 :
 
- 
+
 mailhog
 :
 
- 
+
 image
 :
- 
+
 mailhog/mailhog
 
- 
+
 container_name
 :
- 
+
 mailhog
 
- 
+
 ports
 :
 
- 
+
 -
- 
+
 '
 1025:1025'
- 
+
 # SMTP port
 
- 
+
 -
- 
+
 '
 8025:8025'
- 
+
 # HTTP (Web UI) port
 
- 
+
 restart
 :
- 
+
 always
 
- 
+
 networks
 :
 
- 
+
 -
- 
+
 decision-tree-agent-network
 
 networks
 :
 
- 
+
 decision-tree-agent-network
 :
 
@@ -3078,7 +3078,7 @@ Exit fullscreen mode
 
 The SMTP server listens on port 1025, and the Web UI is accessible athttp://localhost:8025.
 
-docker compose up 
+docker compose up
 -d
 
 Enter fullscreen mode
@@ -3091,33 +3091,33 @@ Start MailHog in Docker.
 
 Add scripts topackage.jsonto build and start the ADK web interface.
 
- 
+
 "scripts"
 :
- 
+
 {
 
- 
+
 "prebuild"
 :
- 
+
 "rimraf dist"
 ,
 
- 
+
 "build"
 :
- 
+
 "npx tsc --project tsconfig.json"
 ,
 
- 
+
 "web"
 :
- 
+
 "npm run build && npx @google/adk-devtools web --host 127.0.0.1 dist/agent.js"
 
- 
+
 }
 ,
 
@@ -3156,7 +3156,7 @@ The takeaway: follow the design patterns and best practices of callback at vario
 * Decision Tree Agent Repo
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

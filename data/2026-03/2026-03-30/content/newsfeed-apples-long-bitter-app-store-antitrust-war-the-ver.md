@@ -25,8 +25,8 @@ tags:
 ﻿Apple’s iPhone empire spans the globe — and so does legal pushback.
 
 by
- 
- 
+
+
 Adi Robertson
 Mar 29, 2026, 12:00 PM UTC
 * Link
@@ -34,7 +34,7 @@ Mar 29, 2026, 12:00 PM UTC
 * Gift
  Image: Cath Virginia / The Verge, Getty Images
 Adi Robertson
- 
+
 is a senior tech and policy editor focused on online platforms and free expression. Adi has covered virtual and augmented reality, the history of computing, and more for The Verge since 2011.
 
 This isThe Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the legal travails of Big Tech,follow Adi Robertson.The Stepbackarrives in our subscribers’ inboxes at 8AM ET. Opt in forThe Stepbackhere.
@@ -116,19 +116,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

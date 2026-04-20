@@ -72,17 +72,17 @@ The rewards just don’t stop! We especially loved the newly releasedGalaxy S26 
 Us nerds here at WIRED have a lot of opinions about Samsung's foldableGalaxy Z Flip6and Z Fold6 phones But we also have guides to help determinewhich Galaxy S24phone is best for you and how toset up your Samsung Galaxy S25to ensure you’re getting the most out of its features, as well as advice on whichGalaxy S24 series accessoriesare worth the money.
 
 Molly Higgins
- is WIRED's Commerce Production and Operations Coordinator. She tests 
+ is WIRED's Commerce Production and Operations Coordinator. She tests
 mattresses
-, 
+,
 cat gadgets
-, 
+,
 pet hair vacuums
-, 
+,
 vegan meal kits
-, and helps oversee our 
+, and helps oversee our
 coupon program
-. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ... 
+. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ...
 Read More
 Commerce Production and Operations Coordinator
 * LinkedIn
@@ -98,7 +98,7 @@ Whether you’re looking to upgrade your internet or get the latest phone, we’
 Kat Merck
 Save Up to 67% With These Chirp Discount Codes and Deals
 Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.
-Boutayna Chokrane 
+Boutayna Chokrane
 Top 10% Off Dell Coupon Codes for March 2026
 Get 10% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.
 Scott Gilbertson
@@ -107,7 +107,7 @@ From mattresses to sateen sheets, these exclusive deals on my personal picks can
 Julia Forbes
 The Best Red Light Hair Growth Device You Can Buy Is on Sale
 Our favorite red light therapy device for hair growth just dropped in price. Grab it while it lasts.
-Boutayna Chokrane 
+Boutayna Chokrane
 Save at Lowe’s With up to $300 Off Appliances
 Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.
 Matthew Korfhage
@@ -125,7 +125,7 @@ Dreo’s spring sale offers a great deal on the Chefmaker combi cooker, plus dis
 Matthew Korfhage
 One of Our Favorite Sunrise Alarms Is on Sale
 Hatch’s sunrise alarm clock is popular for a reason, and it’s on sale this week. An older-model sound machine for babies is on sale too.
- Nena Farrell 
+ Nena Farrell
 
 ## Wired Coupons
 

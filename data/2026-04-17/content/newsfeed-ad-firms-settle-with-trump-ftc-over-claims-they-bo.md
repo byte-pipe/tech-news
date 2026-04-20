@@ -49,17 +49,17 @@ The settlements prohibit the use of third-party individuals or entities involved
 The states that joined the FTC lawsuit against the ad companies are Florida, Indiana, Iowa, Montana, Nebraska, Texas, Utah, and West Virginia. The ad firms agreeing to the settlements did not admit the allegations in the complaint.
 
  Jon Brodkin
- 
+
 
 Senior IT Reporter
 
  Jon Brodkin
- 
+
 
 Senior IT Reporter
 
  Jon is a Senior IT Reporter for Ars Technica. He covers the telecom industry, Federal Communications Commission rulemakings, broadband consumer affairs, court cases, and government regulation of the tech industry.
- 
+
 
 1. 1.Florida surgeon charged with killing man after removing liver instead of spleen
 2. 2.The race to Shackleton Crater is on—will Jeff Bezos or China get there first?

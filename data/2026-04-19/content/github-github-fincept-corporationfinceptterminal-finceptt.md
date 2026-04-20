@@ -11,7 +11,7 @@ description: FinceptTerminal is a modern finance application offering advanced m
 
 Fincept-Corporation
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork864
 * Star5.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -120,10 +120,10 @@ View all files
 
 # Fincept Terminal
 
- 
- 
- 
- 
+
+
+
+
 
 ### Your Thinking is the Only Limit. The Data Isn't.
 
@@ -149,42 +149,42 @@ Feature
 
 Description
 
-📊 
+📊
 CFA-Level Analytics
 
 DCF models, portfolio optimization, risk metrics (VaR, Sharpe), derivatives pricing via embedded Python
 
-🤖 
+🤖
 AI Agents
 
 37 agents across Trader/Investor (Buffett, Graham, Lynch, Munger, Klarman, Marks…), Economic, and Geopolitics frameworks; local LLM support; multi-provider (OpenAI, Anthropic, Gemini, Groq, DeepSeek, MiniMax, OpenRouter, Ollama)
 
-🌐 
+🌐
 100+ Data Connectors
 
 DBnomics, Polygon, Kraken, Yahoo Finance, FRED, IMF, World Bank, AkShare, government APIs, plus optional alternative-data overlays such as Adanos market sentiment for equity research
 
-📈 
+📈
 Real-Time Trading
 
 Crypto (Kraken/HyperLiquid WebSocket), equity, algo trading, paper trading engine, 16 broker integrations (Zerodha, Angel One, Upstox, Fyers, Dhan, Groww, Kotak, IIFL, 5paisa, AliceBlue, Shoonya, Motilal, IBKR, Alpaca, Tradier, Saxo)
 
-🔬 
+🔬
 QuantLib Suite
 
 18 quantitative analysis modules — pricing, risk, stochastic, volatility, fixed income
 
-🚢 
+🚢
 Global Intelligence
 
 Maritime tracking, geopolitical analysis, relationship mapping, satellite data
 
-🎨 
+🎨
 Visual Workflows
 
 Node editor for automation pipelines, MCP tool integration
 
-🧠 
+🧠
 AI Quant Lab
 
 ML models, factor discovery, HFT, reinforcement learning trading
@@ -205,7 +205,7 @@ Windows x64
 
 FinceptTerminal-Windows-x64-setup.exe
 
-Run installer → launch 
+Run installer → launch
 FinceptTerminal.exe
 
 Linux x64
@@ -232,15 +232,15 @@ git clone https://github.com/Fincept-Corporation/FinceptTerminal.git
 
 cd
  FinceptTerminal
-chmod +x setup.sh 
+chmod +x setup.sh
 &&
  ./setup.sh
 
-# Windows — run from Developer Command 
+# Windows — run from Developer Command
 Prompt
- 
+
 for
- VS 
+ VS
 2022
 
 git clone https://github.com/Fincept-Corporation/FinceptTerminal.git
@@ -269,7 +269,7 @@ git clone https://github.com/Fincept-Corporation/FinceptTerminal.git
 
 cd
  FinceptTerminal
-docker build -t fincept-terminal 
+docker build -t fincept-terminal
 .
 
 docker run --rm -e DISPLAY=
@@ -311,9 +311,9 @@ Download
 C++ compiler
 
 MSVC 19.38
- (VS 2022 17.8) / 
+ (VS 2022 17.8) /
 GCC 12.3
- / 
+ /
 Apple Clang 15.0
  (Xcode 15.2)
 
@@ -355,21 +355,21 @@ cd
 #
  Configure + build (pick your platform)
 
-cmake --preset win-release 
+cmake --preset win-release
 &&
- cmake --build --preset win-release 
+ cmake --build --preset win-release
 #
  Windows (Dev Cmd for VS 2022)
 
-cmake --preset linux-release 
+cmake --preset linux-release
 &&
- cmake --build --preset linux-release 
+ cmake --build --preset linux-release
 #
  Linux
 
-cmake --preset macos-release 
+cmake --preset macos-release
 &&
- cmake --build --preset macos-release 
+ cmake --build --preset macos-release
 #
  macOS
 
@@ -419,7 +419,7 @@ cmake --build build
 <
 preset
 >
-/FinceptTerminal 
+/FinceptTerminal
 #
  Linux / macOS (preset build)
 
@@ -430,7 +430,7 @@ uild
 preset
 >
 \F
-inceptTerminal.exe 
+inceptTerminal.exe
 #
  Windows (preset build)
 
@@ -570,61 +570,61 @@ fincept.in
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 5.1k
 
  stars
- 
+
 
 ### Watchers
 
 55
 
  watching
- 
+
 
 ### Forks
 
 864
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases25
 
@@ -632,11 +632,11 @@ Fincept Terminal v4.0.1
 
  Latest
 
- 
+
 
 Apr 15, 2026
 
- 
+
 
 + 24 releases
 
@@ -646,9 +646,9 @@ Apr 15, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Packages0
 
@@ -662,17 +662,17 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors20
 

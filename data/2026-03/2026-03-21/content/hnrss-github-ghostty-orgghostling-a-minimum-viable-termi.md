@@ -14,7 +14,7 @@ tags:
 
 ghostty-org
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork16
 * Star521
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -274,51 +274,51 @@ A minimum viable terminal emulator built on top of the libghostty C API. Ex mini
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 521
 
  stars
- 
+
 
 ### Watchers
 
 2
 
  watching
- 
+
 
 ### Forks
 
 16
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Contributors
 
@@ -326,9 +326,9 @@ Custom properties
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

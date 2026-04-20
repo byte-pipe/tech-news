@@ -30,7 +30,7 @@ Since then, figures on both sides have been open about their frustrations. Micha
 
 “The main reason [OpenAI] accepted [the DOD’s deal] and we did not is that they cared about placating employees, and we actually cared about preventing abuses,” Amodei wrote in the memo.
 
- 
+
 
 Techcrunch event
 
@@ -55,17 +55,17 @@ Defense Secretary Pete Hegseth has pledged to declare Anthropic a “supply-chai
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 dario amodei
-, 
+,
 department of defense
-, 
+,
 sam altman
- 
 
-			Amanda Silberling	
+
+			Amanda Silberling
 
 Senior Writer
 
@@ -73,6 +73,6 @@ Amanda Silberling is a senior writer at TechCrunch covering the intersection of 
 
 You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.
 
- 
+
 
 View Bio

@@ -16,11 +16,11 @@ tags:
 
 ← Beyond the Code
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 The engineer shipped seven features in a single sprint. DORA metrics looked immaculate. The promotion packet practically wrote itself.
 

@@ -11,7 +11,7 @@ description: Self-hosted AI accounting app. LLM analyzer for receipts, invoices,
 
 vas3k
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork235
 * Star1.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -304,43 +304,43 @@ Example custom configuration:
 
 services
 :
- 
+
 app
 :
- 
+
 image
-: 
+:
 ghcr.io/vas3k/taxhacker:latest
 
- 
+
 ports
 :
- - 
+ -
 "
 7331:7331
 "
 
- 
+
 environment
 :
- - 
+ -
 SELF_HOSTED_MODE=true
 
- - 
+ -
 UPLOAD_PATH=/app/data/uploads
 
- - 
+ -
 DATABASE_URL=postgresql://postgres:postgres@localhost:5432/taxhacker
 
- 
+
 volumes
 :
- - 
+ -
 ./data:/app/data
 
- 
+
 restart
-: 
+:
 unless-stopped
 
 ### Environment Variables
@@ -459,7 +459,7 @@ cp .env.example .env
 #
  Initialize the database
 
-npx prisma generate 
+npx prisma generate
 &&
  npx prisma migrate dev
 
@@ -532,48 +532,48 @@ taxhacker.app
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 1.6k
 
  stars
- 
+
 
 ### Watchers
 
 24
 
  watching
- 
+
 
 ### Forks
 
 235
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases10
 
@@ -581,11 +581,11 @@ v0.6.1
 
  Latest
 
- 
+
 
 Mar 12, 2026
 
- 
+
 
 + 9 releases
 
@@ -595,11 +595,11 @@ Mar 12, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * ko-fi.com/vas3k
 * https://vas3k.com/donate/
 * https://paypal.me/vas3kcom
@@ -616,17 +616,17 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors4
 

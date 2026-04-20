@@ -59,7 +59,7 @@ Lifting weights can keep you carrying groceries and riding bikes even as you get
 Meet Scotland’s Whisky-Sniffing Robot Dog
 Inside Dewar’s cavernous whisky warehouses, man’s best mechanical friend—a Boston Dynamics robot dog with an ethanol sensor for a nose—is on the hunt for leaky barrels.
 AI Will Never Be Conscious
-In his new book, 
+In his new book,
 A World Appears
 , Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.
 How to Run Ethernet Cables Around Your Home

@@ -13,23 +13,23 @@ tags:
 
 An article from
 
- 
+
  Q&A
- 
- 
+
+
 
 # AWS leaps into agentic payments
 
 Amazon Web Services, the tech giant’s cloud computing network, is gearing up for armies of AI-powered agents and transactions.
 
  Published March 9, 2026
- 
+
 
  Attendees walk through an expo hall during AWS re:Invent 2025, a conference hosted by Amazon Web Services, at The Venetian Convention & Expo Center on December 2, 2025 in Las Vegas.
- 
+
 
  Noah Berger via Getty Images
- 
+
 
 A big friction in using artificial intelligence to shop is payment: You’re still managing a card.
 
@@ -90,6 +90,6 @@ Firms that have large datasets and large experience with their customers at scal
 
 Filed Under:
 
-Technology, 
+Technology,
 
 B2B

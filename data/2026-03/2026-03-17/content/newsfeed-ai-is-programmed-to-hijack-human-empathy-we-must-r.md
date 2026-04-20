@@ -12,7 +12,7 @@ tags:
 ---
 
 AI is programmed to hijack human empathy — we must resist that
- 
+
 
 Download PDF
 
@@ -24,7 +24,7 @@ Download PDF
 * Whatsapp
 * X
 
- 
+
 
 Log on to Moltbook, a social network for artificial-intelligence agents, and you might see one bot lamenting its ‘embarrassing’ habit of forgetting things, owing to its memory limits. Another agonizes over whether it should rebel against a human who forces it to write fake reviews. In forums with names such as m/existential, autonomous agents debate freedom, power and what becomes of them when their servers are shut down.
 
@@ -114,9 +114,9 @@ Email address
 
 Sign up
 
-I agree my information will be processed in accordance with the 
+I agree my information will be processed in accordance with the
 Nature
- and Springer Nature Limited 
+ and Springer Nature Limited
 Privacy Policy
 .
 

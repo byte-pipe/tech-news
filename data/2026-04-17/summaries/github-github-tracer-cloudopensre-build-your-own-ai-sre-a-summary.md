@@ -1,7 +1,7 @@
 ---
 title: GitHub - Tracer-Cloud/opensre: Build your own AI SRE agents. The open source toolkit for the AI era ✨ · GitHub
 url: https://github.com/Tracer-Cloud/opensre
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-17T11:54:10.568800

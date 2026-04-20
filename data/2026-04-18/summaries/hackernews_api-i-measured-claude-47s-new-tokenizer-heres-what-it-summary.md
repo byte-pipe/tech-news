@@ -28,7 +28,7 @@ The author is presenting the result of an experiment comparing the cost and effe
    - Two batches: two samples from an actual Claude Code user's send, one batch of twelve synthetic samples spanning multiple content types
 * **Real-World Results:**
 
-   | 
+   |
    | Description         |
    | _______________________________________________________
 

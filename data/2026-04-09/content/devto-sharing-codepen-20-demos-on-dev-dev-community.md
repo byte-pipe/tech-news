@@ -46,7 +46,7 @@ Which works just fine (it will only show the preview, not the code):
 To be fair, I expect the DEV team to fix this soon. But in the meantime, this is a simple workaround for sharing CodePen 2.0 demos.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

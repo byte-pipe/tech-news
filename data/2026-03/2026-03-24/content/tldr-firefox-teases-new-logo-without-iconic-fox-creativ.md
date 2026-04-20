@@ -42,9 +42,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -66,19 +66,19 @@ A photo posted by on
 
 While the purple orb is currently sans-fox on both the Instagram profile picture, and in the gif shared to grid, the post says it will be "back next week". Given the new mascot arrived complete with a name (Kit) and a new 'cuter' look, it has to be a redesigned fox that returns to encircle the orb. In fact, I think it'll be the first time the logo actually shows the fox's face since a lot of effort went into introducing him – and he's a personality-filled illustration. You can see the little guy below.
 
- 
+
 
 (Image credit: Mozilla Firefox)
 
 As you can see, Mozilla is placing Kit at the centre of the brand (in a project spearheaded by agency JKR), going so far as to call him a 'new friend'. It's likely the aim is that the shift will empower users to connect more deeply with the brand, setting it apart from faceless browsers like Safari and Chrome and increasing both user engagement and customer base. It's a fair assumption from Mozilla that people are attached to the fox –the company went viral for a tweet that included the image below, with an outpouring of fury for the missing fox.
 
-Article continues below 
+Article continues below
 
 This logo redesign comes alongside a more general refresh for the Firefox brand, which will apparently include pastel colour palettes and softer, more rounded aesthetics. This could spell an altered colour scheme for the logo itself, with the already paled orange going even more pastel, and the purple getting lighter, too.
 
- 
 
-The last design in the set is the logo for Firefox's parent company, not a case of minimalism too far. 
+
+The last design in the set is the logo for Firefox's parent company, not a case of minimalism too far.
 (Image credit: Mozilla)
 
 Few logos have transitioned through design iterations with the same grace as the Firefox logo. From its skeumorphic beginnings as a textured globe hugged by a furry fox to the more minimal modern version, it's remained a smart, sleek design perfectly suited to the shortcut bar.

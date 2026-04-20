@@ -39,24 +39,24 @@ In this case, Blanchard said that the new AI-generated code is “qualitatively 
 “No file in the 7.0.0 codebase structurally resembles any file from any prior release,” Blanchard writes. “This is not a case of ‘rewrote most of it but carried some files forward.’ Nothing was carried forward.”
 
  Blanchard says starting with a “wipe it clean” commit and a fresh repository was key in crafting fresh, non-derivative code from the AI.
- 
+
 
  Credit:
- 
+
 Dan Blanchard / Github
 
  Blanchard says starting with a “wipe it clean” commit and a fresh repository was key in crafting fresh, non-derivative code from the AI.
 
- 
+
 
  Credit:
 
- 
 
- 
+
+
  Dan Blanchard / Github
 
- 
+
 
 Blanchard says he was able to accomplish this “AI clean room” process by firstspecifying an architecture in a design documentand writing out some requirements to Claude Code. After that, Blanchard “started in an empty repository with no access to the old source tree and explicitly instructed Claude not to base anything on LGPL/GPL-licensed code.”
 
@@ -73,22 +73,22 @@ All of these issues have predictably led to a huge debate over legalities of cha
 But others think the“Ship of Theseus”-stylearguments that can often emerge in code licensing dust-ups don’t apply as much here. “If you throw away all code and start from scratch, even if the end result behaves the same, it’s a new ship,” Open source developer Armin Ronacher saidin a blog post analyzing the situation.
 
  The legal status of AI-generated code is still largely unsettled.
- 
+
 
  Credit:
  Getty Images
- 
+
 
  The legal status of AI-generated code is still largely unsettled.
 
- 
+
 
  Credit:
 
- 
+
  Getty Images
 
- 
+
 
 Old code licenses aside, using AI to create new code from whole cloth could also create its own legal complications going forward. Courts have already said that AIcan’t be the author on a patentorthe copyright holder on a piece of artbut have yet to rule on what that means for the licensing of software created in whole or in part by AI. The issues surrounding potential “tainting” of an open source license with this kind of generated code canget remarkably complex remarkably quickly.
 
@@ -99,20 +99,20 @@ Whatever the outcome here, the practical impact of being able to use AI to quick
 Others put the sea change in more alarming terms. “I’m breaking the glass and pulling the fire alarm!”open source evangelist Bruce PerenstoldThe Register. “The entire economics of software development are dead, gone, over, kaput! … We have been there before, for example when the printing press happened and resulted in copyright law, when the scientific method proliferated and suddenly there was a logical structure for the accumulation of knowledge. I think this one is just as large.”
 
  Kyle Orland
- 
+
 
 Senior Gaming Editor
 
  Kyle Orland
- 
+
 
 Senior Gaming Editor
 
- Kyle Orland has been the Senior Gaming Editor at Ars Technica since 2012, writing primarily about the business, tech, and culture behind video games. He has journalism and computer science degrees from University of Maryland. He once 
-wrote a whole book about 
+ Kyle Orland has been the Senior Gaming Editor at Ars Technica since 2012, writing primarily about the business, tech, and culture behind video games. He has journalism and computer science degrees from University of Maryland. He once
+wrote a whole book about
 Minesweeper
 .
- 
+
 
 1. 1.After falling far behind the rest of industry, Blue Origin creates new stock option plan
 2. 2.After outages, Amazon to make senior engineers sign off on AI-assisted changes

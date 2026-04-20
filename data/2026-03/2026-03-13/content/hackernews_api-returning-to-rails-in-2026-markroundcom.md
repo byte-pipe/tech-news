@@ -47,11 +47,11 @@ But the modern world of front-end development - JavaScript frameworks, the build
 While I haven’t built or managed a full Rails codebase in years, I’d never completely left the Rails ecosystem. There’s bits and pieces that are just so useful even if you’re just quickly chucking a quick API together withSinatra. ActiveSupport for example has been a constant companion in various Ruby projects over the years - it’s just sonicebeing able to write things like
 
 unless
- 
+
 date
- 
+
 <=
- 
+
 3
 .
 days
@@ -61,11 +61,11 @@ from_now
 or
 
 if
- 
+
 upload_size
- 
+
 >
- 
+
 2
 .
 megabytes
@@ -86,7 +86,7 @@ While Stimulus seems to have a smaller developer community than the big JS toolk
 
 This was my first introduction to the vastly simplified JS library bundling tool that seems to have been introduced around the Rails 7 timeframe. Instead of needing a JS runtime, NPM tooling and separate JS bundling/compliation steps (Webpack - again, urgh….), JS components are now managed with the simpleimportmapcommand and tooling. So, to make use of one of those components like the modalDialogpop-up for example, you just run:
 
-$ 
+$
 bin/importmap pin @stimulus-components/dialog
 
 This downloads the package from a JS CDN and adds it to yourvendordirectory and updates yourconfig/importmap.rb. The package then gets automatically included in your application with thejavascript_importmap_tagsERB tag included in the<head>of the default HTML templates. You can see how this gets expanded if you look at the source of any generated page in your browser:
@@ -108,16 +108,16 @@ $ bin/rails generate model Tag label:string color:string band:belongs_to
 This resulted in aapp/models/tag.rblike this:
 
 class
- 
+
 Tag
- 
+
 <
- 
+
 ApplicationRecord
 
- 
+
 belongs_to
- 
+
 :band
 
 end
@@ -125,32 +125,32 @@ end
 This automagically fetches the column names and definitions from the database, no other work required! Of course, we usually want to set some validation. There’s all kinds of hooks and additions you can sprinkle here, so if I wanted to validate that for example a valid Hex colour has been set, I could add:
 
 validates
- 
+
 :color
 ,
- 
- 
-presence: 
+
+
+presence:
 true
 ,
- 
- 
-format: 
+
+
+format:
 {
- 
-with: 
+
+with:
 /\A#[0-9a-fA-F]{6}\z/
 ,
- 
-message: 
+
+message:
 "must be valid hex"
- 
+
 }
 
 Then I set up URL routing. While you can later get very specific about which routes to create, a simple starting point is just this one line inconfig/routes.rb
 
 resources
- 
+
 :tags
 
 Which generated the standard RESTful routes automatically:
@@ -171,26 +171,26 @@ Note all the.formatstuff - this lets you respond to different “extensions” w
 I tend to use this to quickly flesh out the logic of an application without worrying about the presentation until later. For example, in the Tags controller I started with something like this to fetch a record from the DB and return it as JSON:
 
 class
- 
+
 TagsController
- 
+
 <
- 
+
 ApplicationController
 
- 
+
 # Auth and other stuff skipped for brevity...
 
- 
+
 def
- 
+
 show
 
- 
+
 @tag
- 
+
 =
- 
+
 @band
 .
 tags
@@ -202,87 +202,87 @@ params
 :id
 ])
 
- 
+
 respond_to
- 
+
 do
- 
+
 |
 format
 |
 
- 
+
 format
 .
 html
- 
+
 # Use ERB template show.html.erb when I implement it
 
- 
+
 format
 .
 json
- 
+
 {
- 
+
 render
- 
-json: 
+
+json:
 @tag
- 
+
 }
 
- 
+
 end
 
- 
+
 end
 
 end
 
 And then I could test my application and logic using the RESTful routes using just plain oldcurlfrom my terminal:
 
-$ 
-curl 
+$
+curl
 --silent
- 
+
 -XGET
- 
+
 \
 
- 
+
 -H
- 
+
 "Authorization: Bearer <token>"
- http://localhost:3000/bands/4/tags/5.json | jq 
+ http://localhost:3000/bands/4/tags/5.json | jq
 .
 
 {
 
- 
+
 "id"
 : 5,
- 
+
 "band_id"
 : 4,
- 
+
 "label"
-: 
+:
 "Bass Change"
 ,
- 
+
 "color"
-: 
+:
 "#3288bd"
 ,
- 
+
 "created_at"
-: 
+:
 "2026-01-15T04:42:24.443Z"
 ,
- 
+
 "updated_at"
-: 
+:
 "2026-01-15T04:42:24.443Z"
 
 }
@@ -290,30 +290,30 @@ curl
 Once that was all working, I moved on to generating the views as standard ERB templates. Combined with live-reloading and other developer niceities, I could go from idea to working proof-of-concept in a stupidly short amount of time. Plus, there seems to be agemfor just about anything you might want to build or integrate with. Want to import a CSV list of songs ?CSV.parsehas you covered. How about generating PDFs for print copies of setlists ?
 
 pdf
- 
+
 =
- 
+
 Prawn
 ::
 Document
 .
 new
- 
+
 do
 
- 
+
 text
- 
+
 "I <b>LOVE</b> Ruby"
 ,
- 
-inline_format: 
+
+inline_format:
 true
 
 end
 
 print
- 
+
 pdf
 .
 render
@@ -333,62 +333,62 @@ This is where the new Solid* libraries (Solid Cache, Solid Queue and Solid Cable
 Everything is already setup to make use of this, all you need to do is start using it using standard Railscaching patterns. For example, I make extensive use of fragment caching in ERB templates where entire rendered blocks of HTML are stored in the cache. This can be something simple like caching for a specific time period:
 
 <%
- 
+
 cache
- 
+
 "time_based"
 ,
- 
-expires_in: 
+
+expires_in:
 5
 .
 minutes
- 
+
 do
- 
+
 %>
 
- 
+
 <!-- content goes here -->
 
 <%
- 
+
 end
- 
+
 %>
 
 Or based on a model, so when the model gets updated the cache will be re-generated:
 
 <%
- 
+
 cache
- 
+
 [
 "band_dashboard"
 ,
- 
+
 @band
 .
 cache_key_with_version
 ,
- 
-expires_in: 
+
+expires_in:
 1
 .
 hour
 ]
- 
+
 do
- 
+
 %>
 
- 
+
 <!-- dashboard content here -->
 
 <%
- 
+
 end
- 
+
 %>
 
 And sure enough, you can see the results in the SQLite DB using your usual tools. Here’s the table schema:
@@ -426,33 +426,33 @@ Declaring jobs is equally simple:
 # app/jobs/my_sample_job.rb
 
 class
- 
+
 MySampleJob
- 
+
 <
- 
+
 ApplicationJob
 
- 
+
 queue_as
- 
+
 :default
 
- 
+
 def
- 
+
 perform
 
- 
+
 Rails
 .
 logger
 .
 info
- 
+
 "Yup, I still love Ruby..."
 
- 
+
 end
 
 end
@@ -464,20 +464,20 @@ And is scheduled in a typically plan-language fashion:
 production
 :
 
- 
+
 sample_job
 :
 
- 
+
 class
 :
- 
+
 MySampleJob
 
- 
+
 schedule
 :
- 
+
 every day at 3am
 
 Beautiful! The upshot is that I could start making use of all these features from the get-go, with far less fiddling required, and running entirely off a SQLite database.
@@ -510,60 +510,60 @@ on_load
 (
 :active_record_sqlite3adapter
 )
- 
+
 do
 
- 
+
 module
- 
+
 SQLitePragmas
 
- 
+
 def
- 
+
 configure_connection
 
- 
+
 super
 
- 
+
 execute
 (
 "PRAGMA journal_mode = WAL"
 )
 
- 
+
 execute
 (
 "PRAGMA synchronous = NORMAL"
 )
 
- 
+
 execute
 (
 "PRAGMA mmap_size = 134217728"
 )
 
- 
+
 # etc...
 
- 
+
 end
 
- 
+
 end
 
- 
+
 class
- 
+
 ActiveRecord::ConnectionAdapters::SQLite3Adapter
 
- 
+
 prepend
- 
+
 SQLitePragmas
 
- 
+
 end
 
 end
@@ -575,62 +575,62 @@ When I checked out Rails 8, I noticed straight away that not only is there now a
 production
 :
 
- 
+
 adapter
 :
- 
+
 sqlite3
 
- 
+
 database
 :
- 
+
 storage/production.sqlite3
 
- 
+
 pragmas
 :
 
- 
+
 journal_mode
 :
- 
+
 wal
 
- 
+
 synchronous
 :
- 
+
 normal
 
- 
+
 mmap_size
 :
- 
+
 134217728
 
- 
+
 cache_size
 :
- 
+
 2000
 
- 
+
 busy_timeout
 :
- 
+
 5000
 
- 
+
 foreign_keys
 :
- 
+
 true
 
- 
+
 journal_size_limit
 :
- 
+
 67108864
 
 All this makes SQLite a genuinely viable production database for small-to-medium Rails applications and combined with the Solid* components, means it’s not just a local dev or “getting started” convenience!
@@ -660,32 +660,32 @@ Your Kamal deployment configuration lives in adeploy.ymlfile where you define yo
 servers
 :
 
- 
+
 web
 :
 
- 
+
 -
- 
+
 web.rails.example.com
 
- 
+
 job
 :
 
- 
+
 hosts
 :
 
- 
+
 -
- 
+
 jobs.rails.example.com
 
- 
+
 cmd
 :
- 
+
 bin/jobs
 
 Or you can point everything to a single host and scale out later. These files can also inherit a base which makes splitting out the differences between environments simple. There’s also handy aliases defined which makes interacting with the containers easy, all that is required is a SSH connection to the remote hosts.
@@ -693,28 +693,28 @@ Or you can point everything to a single host and scale out later. These files ca
 aliases
 :
 
- 
+
 console
 :
- 
+
 app exec --interactive --reuse "bin/rails console"
 
- 
+
 shell
 :
- 
+
 app exec --interactive --reuse "bash"
 
- 
+
 logs
 :
- 
+
 app logs -f
 
- 
+
 dbc
 :
- 
+
 app exec --interactive --reuse "bin/rails dbconsole --include-password"
 
 When you deploy, Kamal will:
@@ -747,7 +747,7 @@ It’s used in a lot of places that don’t make a lot of noise about it (some m
 
 And I find that most gems follow a similar downward trend of activity. TakeDevisefor example. Plotting a graph of releases shows a pattern I see around a lot of Rails-adjacent projects. Big spikes or projects launched around the Rails “glory years” and then slowly trailing off into maintenance mode:
 
-Apart from a spike in 2016 where it appears there was a bunch of activity around the v4 release, it’s been pretty quiet since then. 
+Apart from a spike in 2016 where it appears there was a bunch of activity around the v4 release, it’s been pretty quiet since then.
 The optimist might say that’s because by this point, most of these projects are simply “done”. These are really mature, reliable projects with around 2 decades of history running mission critical, high traffic websites. At what point are there simply no more features to add ?
 
 But let’s look at the flipside. Rails on the other hand actually seems to be picking up steam and has been remarkably consistent since the big “boom” of Rails 3.0 in 2010:

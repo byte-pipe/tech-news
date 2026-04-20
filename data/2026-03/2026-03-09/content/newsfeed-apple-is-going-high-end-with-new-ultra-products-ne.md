@@ -27,8 +27,8 @@ With a budget MacBook out the door, it’s back to premium hardware.
 With a budget MacBook out the door, it’s back to premium hardware.
 
 by
- 
- 
+
+
 Terrence O'Brien
 Mar 8, 2026, 5:51 PM UTC
 * Link
@@ -36,7 +36,7 @@ Mar 8, 2026, 5:51 PM UTC
 * Gift
 Image: The Verge
 Terrence O'Brien
- 
+
 is the Verge’s weekend editor. He has over 18 years of experience, including 10 years as managing editor at Engadget.
 
 Fresh off launching the low-costMacBook Neo, Apple is reportedly preparing at least three new products that will fit into its highest-end “ultra” lineup. According toBloomberg’sMark Gruman, the next batch of releases may not bear the “ultra” name, like its Watch, but will all command price premiums over their mainline counterparts.
@@ -70,19 +70,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

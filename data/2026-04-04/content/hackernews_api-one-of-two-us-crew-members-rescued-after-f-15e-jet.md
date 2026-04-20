@@ -33,7 +33,7 @@ US officials familiar with the situation said one crew member was still missing 
 Aviation experts said the wreckage pictured was in fact from a F-15E, from the US air force’s 494th squadron, based at RAF Lakenheath in the UK, though it could not at first be confirmed when and where the pictures were taken. Markings on the wreckage appeared to match those on the tips of the tail fins of Strike Eagles normally based in the UK.
 
 View image in fullscreen
-An F-15E in the air in 2020. 
+An F-15E in the air in 2020.
  Photograph: Joe Giddens/PA
 
 US officials later confirmed off the record that an F-15E had been brought down and the Pentagon was scrambling to find the crew before the Iranians. There was no official comment from theUS militaryabout the incident.

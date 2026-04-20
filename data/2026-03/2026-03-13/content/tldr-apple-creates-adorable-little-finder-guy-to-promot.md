@@ -19,10 +19,10 @@ tags:
 
 # Apple creates adorable little Finder guy to promote its adorable little Mac
 
- 
+
 
 Ben Lovejoy
- | Mar 10 2026 - 4:29 am PT																
+ | Mar 10 2026 - 4:29 am PT
 
 Appleis pitching theMacBook Neoat people who’ve never owned aMacbefore, and it’s reaching out to them in the place it thinks it will find this new generation of potential Mac users: TikTok.
 
@@ -40,7 +40,7 @@ He’s alreadyproving popular, with Apple fans creating their own versions of th
 
 Lil' Finder Guy!pic.twitter.com/1DogsB0Kcb
 
-— Basic Apple Guy (@BasicAppleGuy) 
+— Basic Apple Guy (@BasicAppleGuy)
 March 7, 2026
 
 ## 9to5Mac’s Take
@@ -56,27 +56,27 @@ Apple needs to make these for real.
 
 FTC: We use income earning auto affiliate links.More.
 
-You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out 
+You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out
 our homepage
- for all the latest news, and follow 9to5Mac on 
+ for all the latest news, and follow 9to5Mac on
 Twitter
-, 
+,
 Facebook
-, and 
+, and
 LinkedIn
- to stay in the loop. Don’t know where to start? Check out our 
+ to stay in the loop. Don’t know where to start? Check out our
 exclusive stories
-, 
+,
 reviews
-, 
+,
 how-tos
-, and 
+, and
 subscribe to our YouTube channel
- 
+
 
 Check out 9to5Mac on YouTube for more Apple news:
 
- 
+
 
 ## Comments
 
@@ -92,16 +92,16 @@ Finder
 
 ## Author
 
- 
 
-			Ben Lovejoy		
 
-benlovejoy			
+			Ben Lovejoy
+
+benlovejoy
 
 Ben Lovejoy is a British technology writer and EU Editor for 9to5Mac. He’s known for his op-eds and diary pieces, exploring his experience of Apple products over time, for a more rounded review. He also writes fiction, with two technothriller novels, a couple of SF shorts and a rom-com!
 
 ### Ben Lovejoy's favorite gear
 
- 
+
 
 #### Dell 49-inch curved monitor

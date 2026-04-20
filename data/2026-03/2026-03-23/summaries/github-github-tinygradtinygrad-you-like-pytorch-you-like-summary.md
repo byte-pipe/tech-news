@@ -1,7 +1,7 @@
 ---
 title: GitHub - tinygrad/tinygrad: You like pytorch? You like micrograd? You love tinygrad! ❤️ · GitHub
 url: https://github.com/tinygrad/tinygrad
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-23T11:39:40.208866

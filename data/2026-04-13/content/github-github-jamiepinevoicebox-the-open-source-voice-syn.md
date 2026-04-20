@@ -11,7 +11,7 @@ description: The open-source voice synthesis studio. Contribute to jamiepine/voi
 
 jamiepine
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.9k
 * Star15.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -415,12 +415,12 @@ Voicebox exposes a full REST API for integrating voice synthesis into your own a
  Generate speech
 
 curl -X POST http://localhost:17493/generate \
- -H 
+ -H
 "
 Content-Type: application/json
 "
  \
- -d 
+ -d
 '
 {"text": "Hello world", "profile_id": "abc123", "language": "en"}
 '
@@ -434,12 +434,12 @@ curl http://localhost:17493/profiles
  Create a profile
 
 curl -X POST http://localhost:17493/profiles \
- -H 
+ -H
 "
 Content-Type: application/json
 "
  \
- -d 
+ -d
 '
 {"name": "My Voice", "language": "en"}
 '
@@ -531,11 +531,11 @@ git clone https://github.com/jamiepine/voicebox.git
 cd
  voicebox
 
-just setup 
+just setup
 #
  creates Python venv, installs all deps
 
-just dev 
+just dev
 #
  starts backend + desktop app
 
@@ -545,11 +545,11 @@ Prerequisites:Bun,Rust,Python 3.11+,Tauri Prerequisites, andXcodeon macOS.
 
 ### Building Locally
 
-just build 
+just build
 #
  Build CPU server binary + Tauri app
 
-just build-local 
+just build-local
 #
  (Windows) Build CPU + CUDA server binaries + Tauri app
 
@@ -616,58 +616,58 @@ voicebox.sh
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 15.6k
 
  stars
- 
+
 
 ### Watchers
 
 114
 
  watching
- 
+
 
 ### Forks
 
 1.9k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases18
 
@@ -675,11 +675,11 @@ v0.3.0
 
  Latest
 
- 
+
 
 Mar 17, 2026
 
- 
+
 
 + 17 releases
 
@@ -695,9 +695,9 @@ Mar 17, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -705,9 +705,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

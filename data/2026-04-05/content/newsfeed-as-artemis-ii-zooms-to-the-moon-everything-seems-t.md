@@ -39,22 +39,22 @@ During their daily briefing with reporters, NASA officials had almost no issues 
 There have also been some “false alarms” in the cabin from various environmental sensors. However, Hu said, these are not at all a threat to the crew but rather reflect conservative limits set for those systems. He characterized this as a “learning” that will be adjusted for the Artemis III mission, which could take flight next year.
 
  Another image of Earth as seen from Orion.
- 
+
 
  Credit:
  NASA
- 
+
 
  Another image of Earth as seen from Orion.
 
- 
+
 
  Credit:
 
- 
+
  NASA
 
- 
+
 
 The only other real issue experienced by the crew has been cabin temperatures, which were described by the astronauts as a little chilly overnight. One of the mission’s flight directors, Judd Frieling, said the crew started off with temperatures in the mid-70s, but after several “shell heaters” were turned off, it got about 10° F colder. A number of factors influence cabin temperature, and flight controllers were able to adjust the cabin atmosphere to a more comfortable level.
 
@@ -63,21 +63,21 @@ Similarly, humidity levels were slightly below optimal for devices that remove c
 So the crew is comfortable as they fly farther from Earth than anyone else has in half a century.
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
- Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books: 
+ Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books:
 Liftoff
-, about the rise of SpaceX; and 
+, about the rise of SpaceX; and
 Reentry
 , on the development of the Falcon 9 rocket and Dragon. A certified meteorologist, Eric lives in Houston.
- 
+
 
 1. 1."Cognitive surrender" leads AI users to abandon logical thinking, research finds
 2. 2.Netflix must refund customers for years of price hikes, Italian court rules

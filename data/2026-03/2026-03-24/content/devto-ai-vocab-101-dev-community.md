@@ -74,7 +74,7 @@ If you know the difference between a model and a model family, you ask "which ve
 That's what vocabulary does. It turns vague frustration into specific, solvable problems.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

@@ -37,20 +37,20 @@ The firm has a long history of urging cost-cutting and frequently pushes for str
 Topics
 
 Apps
-, 
+,
 Elliott Investment Management
-, 
+,
 Pinterest
-, 
+,
 Social
- 
 
-			Lauren Forristal	
+
+			Lauren Forristal
 
 Lauren covers media, streaming, apps and platforms at TechCrunch.
 
 You can contact or verify outreach from Lauren by emailinglaurenf.techcrunch@gmail.comor via encrypted message at laurenforris22.25 on Signal.
 
- 
+
 
 View Bio

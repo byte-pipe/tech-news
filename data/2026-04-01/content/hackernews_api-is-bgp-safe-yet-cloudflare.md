@@ -22,7 +22,7 @@ Unfortunately, it isn’t secure, and there have been somemajor Internet disrupt
 ISPs and other major Internet players (Sprint and others) would need to implement a certification system, calledRPKI.
 
 Test your ISP
- 
+
 Read FAQ
 
 ## Latest updates
@@ -81,13 +81,13 @@ Read FAQ
 Displaying31major operators
 
 ＋ Show all
- 
+
 ＋ Show ASN column
 Name
 Type
 Details
 Status
-ASN 
+ASN
 ?
 
 Lumen
@@ -4333,7 +4333,7 @@ Share this pageFor BGP to be safe, all of the major ISPs will need to embrace RP
 Share on Twitter →
 Cloudflare docs logomark
 The logo for Cloudflare used in Cloudflare’s developer documentation.
-©Cloudflare, Inc. · 
+©Cloudflare, Inc. ·
 Privacy
- · 
+ ·
 Terms

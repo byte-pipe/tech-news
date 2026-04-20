@@ -62,7 +62,7 @@ The corresponding git command in the shell would have been
 
 In[1]:
 
-$ git log --branches --remote --author=kqr --until=2025-06-01 
+$ git log --branches --remote --author=kqr --until=2025-06-01
 \
 
  --graph --color --decorate --no-merges --stat -- tests

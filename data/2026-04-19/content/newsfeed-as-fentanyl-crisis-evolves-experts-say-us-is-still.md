@@ -31,7 +31,7 @@ google
 Add Al Jazeera on Google
 info
 The number of overall overdose deaths in the United States is once again climbing, as experts warn a disruption in the fentanyl market has been repaired [File: Joshua Lott/Reuters]
-By 
+By
 Tyler Hicks
 Published On 18 Apr 2026
 18 Apr 2026
@@ -75,9 +75,9 @@ Chrissie Julianno is the executive director of the Big Cities Health Coalition, 
 
 “I think one piece that people don’t necessarily think about is, particularly in large jurisdictions, large counties and large cities, a lot of the dollars that they get from the federal government are then contracted out to community partners,” she said. “It’s not just the health department that can’t do something. It’s not just the health department that’s forced to lay off staff. It’s all of the other pieces that come together in these jurisdictions where there’s partnerships.”
 
- 
 
- 
+
+
 
 ## Weapon of mass destruction
 
@@ -95,9 +95,9 @@ He called the number on that business card and entered the treatment programme. 
 
 Experts say initiatives like this are critical to the US continuing a trend that began in 2023, when fentanyl overdoses started falling nationwide for the first time in a decade. Instead, the Trump administration has focused on a militaristic approach that’s frustrated healthcare professionals and policy experts.
 
- 
 
- 
+
+
 
 Trump and his cabinet members claim recent military actions against Venezuela, includingthe boat strikes that have drawn war crime accusations, are part of the fight against fentanyl — despite that no fentanyl comes from Venezuela. Experts say the “weapon of mass destruction” label is a political move meant to bolster the equally dubious claim that drug cartels are “terrorist organisations”, a term reserved for groups with ideological or political motives.
 
@@ -127,9 +127,9 @@ The author sees history repeating itself: For much of the fentanyl crisis, much 
 
 “I think we’re definitely behind the eight ball,” Westhoff said. “I don’t think India is even really on the radar of many people in the position in the United States to do something about it.”
 
- 
 
- 
+
+
 
 Meanwhile, Watkins says any kind of nationwide focus or discussion of fentanyl has “fallen off” in recent years, perhaps because the US is not currently in the middle of a heated presidential race, or perhaps because of the decrease in deaths.
 

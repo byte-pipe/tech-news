@@ -162,7 +162,7 @@ Something like a twelve-year-old’s website with framesets, a guestbook, and fa
 The lucky ones simply never receive an email telling them to delete it.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -173,7 +173,7 @@ Preview
 Dismiss
 
  View full discussion (23 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

@@ -64,9 +64,9 @@ Triangle
 * How Trump is alreadythreatening the midterms
 * Livestream replay:Watch our experts discussBig Tech and the military
 Steven Levy
- covers the gamut of tech subjects for WIRED, in print and online, and has been contributing to the magazine since its inception. His writes 
+ covers the gamut of tech subjects for WIRED, in print and online, and has been contributing to the magazine since its inception. His writes
 Backchannel
-, a weekly newsletter that puts the biggest tech stories in perspective. He has been writing about technology for more than 30 years, writing ... 
+, a weekly newsletter that puts the biggest tech stories in perspective. He has been writing about technology for more than 30 years, writing ...
 Read More
 Editor at Large
 * X

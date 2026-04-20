@@ -18,13 +18,13 @@ An article from
 Chief Technology and Information Officer Hari Gopalkrishnan described how the bank is advancing its AI journey during the Semafor World Economy 2026 event.
 
  Published April 15, 2026
- 
+
 
  The Bank of America logo is displayed on a sign in front of a Bank of America office on July 16, 2025, in Sunnyvale, California.
- 
+
 
  Justin Sullivan / Staff via Getty Images
- 
+
 
 First published on
 

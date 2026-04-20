@@ -30,7 +30,7 @@ Warner doesn’t plan to support his colleagues’ bill. On stage at the event, 
 
 There’s no stuffing the genie back into the bottle when it comes to AI and data centers, he added. And while Warner believes in strict requirements that ensure data centers don’t pass their water and power costs to residents, he told TechCrunch he thinks there’s another way for communities to extract their “pound of flesh” in a way that addresses the underlying job loss fears.
 
- 
+
 
 Techcrunch event
 
@@ -69,21 +69,21 @@ AI and data centers, he said, are “easy to demonize.”
 Topics
 
 AI
-, 
+,
 ai data centers
-, 
+,
 ai job loss
-, 
+,
 axios ai summit
-, 
+,
 Exclusive
-, 
+,
 Government & Policy
-, 
+,
 mark warner
- 
 
-			Rebecca Bellan	
+
+			Rebecca Bellan
 
 Senior Reporter
 
@@ -91,6 +91,6 @@ Rebecca Bellan is a senior reporter at TechCrunch where she covers the business,
 
 You can contact or verify outreach from Rebecca by emailingrebecca.bellan@techcrunch.comor via encrypted message at rebeccabellan.491 on Signal.
 
- 
+
 
 View Bio

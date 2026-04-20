@@ -18,139 +18,139 @@ In the world of React, the humble singleton gets a bit of a bad rap. It is often
 Historically, if you wanted to pull data from a singleton in React, you often had to wait for the app to re-render for some other reason. You might have seen a manual sync button or a poll used to bridge the gap, but it was rarely pretty.
 
 import
- 
+
 {
- 
+
 useState
 ,
- 
+
 useEffect
 ,
- 
+
 useCallback
- 
+
 }
- 
+
 from
- 
+
 '
 react
 '
 ;
 
 import
- 
+
 SomeSingleton
- 
+
 from
- 
+
 '
 @/singletons/some
 '
 ;
 
 export
- 
+
 function
- 
+
 ReactElement
 ()
- 
+
 {
 
- 
+
 const
- 
+
 [
 singletonData
 ,
- 
+
 setSingletonData
 ]
- 
+
 =
- 
+
 useState
 (
 SomeSingleton
 .
 data
- 
+
 ||
- 
+
 null
 );
 
- 
+
 /**
  * Sync singleton and state
  */
 
- 
+
 const
- 
+
 handleRefresh
- 
+
 =
- 
+
 useCallback
 (()
- 
+
 =>
- 
+
 {
 
- 
+
 setSingletonData
 (
 SomeSingleton
 .
 data
- 
+
 ||
- 
+
 null
 )
 
- 
+
 },
- 
+
 []);
 
- 
+
 // Trigger refresh every 5 seconds
 
- 
+
 useEffect
 (()
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 interval
- 
+
 =
- 
+
 window
 .
 setInterval
 (
 handleRefresh
 ,
- 
+
 5000
 );
 
- 
-return 
+
+return
 ()
- 
+
 =>
- 
+
 window
 .
 clearInterval
@@ -158,31 +158,31 @@ clearInterval
 interval
 );
 
- 
+
 },
- 
+
 [
 handleRefresh
 ]);
 
- 
-return 
+
+return
 (
 
- 
+
 <
 div
 >
 
- 
+
 <
 span
 >
 {
 singletonData
- 
+
 ||
- 
+
 '
 N/A
 '
@@ -191,10 +191,10 @@ N/A
 span
 >
 
- 
+
 <
 button
- 
+
 onClick
 =
 {
@@ -206,12 +206,12 @@ Manual Refresh
 button
 >
 
- 
+
 </
 div
 >
 
- 
+
 )
 
 }
@@ -223,93 +223,93 @@ Exit fullscreen mode
 If this is what you are imagining when I say singletons are easy to implement, I understand the confusion. This is not a good way to implement them and it was not a good way back then either. Let me show you a much nicer approach.
 
 import
- 
+
 {
- 
+
 useState
 ,
- 
+
 useEffect
 ,
- 
+
 useCallback
- 
+
 }
- 
+
 from
- 
+
 '
 react
 '
 ;
 
 import
- 
+
 SomeSingleton
- 
+
 from
- 
+
 '
 @/singletons/some
 '
 ;
 
 export
- 
+
 function
- 
+
 ReactElement
 ()
- 
+
 {
 
- 
+
 const
- 
+
 [
 singletonData
 ,
- 
+
 setSingletonData
 ]
- 
+
 =
- 
+
 useState
 (
 SomeSingleton
 .
 data
- 
+
 ||
- 
+
 null
 );
 
- 
+
 // Update the state as soon as things change in the singleton
 
- 
+
 useEffect
 (()
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 ac
- 
+
 =
- 
+
 new
- 
+
 AbortController
 ();
 
- 
+
 SomeSingleton
 .
 addEventListener
@@ -318,65 +318,65 @@ addEventListener
 change
 '
 ,
- 
+
 ({
 detail
 })
 =>
 {
 
- 
+
 setSingletonData
 (
 detail
 );
 
- 
+
 },
- 
+
 {
 signal
 :
- 
+
 ac
 .
 signal
 })
 
- 
-return 
+
+return
 ()
- 
+
 =>
- 
+
 ac
 .
 abort
 ();
 
- 
+
 },
- 
+
 []);
 
- 
-return 
+
+return
 (
 
- 
+
 <
 div
 >
 
- 
+
 <
 span
 >
 {
 singletonData
- 
+
 ||
- 
+
 '
 N/A
 '
@@ -385,12 +385,12 @@ N/A
 span
 >
 
- 
+
 </
 div
 >
 
- 
+
 )
 
 }
@@ -438,95 +438,95 @@ As discussed, we are going to extend myTypedEventTargetclass, which itself is bu
 First, let us define some types. I am doing this in TypeScript but you do not have to; feel free to skip this bit if you prefer.
 
 export
- 
+
 interface
- 
+
 Toast
- 
+
 {
 
- 
+
 id
 :
- 
+
 string
 ;
 
- 
+
 message
 :
- 
+
 string
 ;
 
- 
+
 type
 :
- 
+
 "
 info
 "
- 
+
 |
- 
+
 "
 success
 "
- 
+
 |
- 
+
 "
 loading
 "
- 
+
 |
- 
+
 "
 error
 "
 ;
 
- 
+
 action
 ?:
- 
+
 {
 
- 
+
 label
 :
- 
+
 string
 ;
 
- 
+
 callback
 :
- 
+
 ()
- 
+
 =>
- 
+
 void
 ;
 
- 
+
 };
 
 }
 
 type
- 
+
 ToastEvents
- 
+
 =
- 
+
 {
 
- 
+
 changed
 :
- 
+
 void
 ;
 
@@ -539,45 +539,45 @@ Exit fullscreen mode
 Now that we have our types, we know what a toast object looks like and what events will be fired. Let us set up the class next. We know it will extendTypedEventTargetand will have some private internals to hide away.
 
 class
- 
+
 ToastManager
- 
+
 extends
- 
+
 TypedEventTarget
 <
 ToastEvents
 >
- 
+
 {
 
- 
+
 private
- 
+
 _toasts
 :
- 
+
 Toast
 []
- 
+
 =
- 
+
 [];
 
- 
+
 private
- 
+
 _timers
- 
+
 =
- 
+
 new
- 
+
 Map
 <
 string
 ,
- 
+
 number
 >
 ();
@@ -591,15 +591,15 @@ Exit fullscreen mode
 This is a good start, but our_toastsproperty is private, meaning we cannot access it from outside the class, and currently we would have to manually dispatch an event every time we update it. Getters and setters to the rescue.
 
 get
- 
+
 toasts
 ()
- 
+
 {
 
- 
+
 return
- 
+
 this
 .
 _toasts
@@ -608,31 +608,31 @@ _toasts
 }
 
 private
- 
+
 set
- 
+
 toasts
 (
 value
 :
- 
+
 Toast
 [])
- 
+
 {
 
- 
+
 this
 .
 _toasts
- 
+
 =
- 
+
 [...
 value
 ];
 
- 
+
 this
 .
 dispatchEvent
@@ -653,58 +653,58 @@ Now we can read ourtoastsproperty and even update it internally, but we still ca
 // add or update a toast item
 
 add
- 
+
 =
- 
+
 (
 toast
 :
- 
+
 Omit
 <
 Toast
 ,
- 
+
 "
 id
 "
 >
- 
+
 &
- 
-{
- 
-id
-?:
- 
-string
- 
-},
- 
-duration
- 
-=
- 
-3000
-)
- 
-=>
- 
+
 {
 
- 
-const
- 
 id
- 
+?:
+
+string
+
+},
+
+duration
+
 =
- 
+
+3000
+)
+
+=>
+
+{
+
+
+const
+
+id
+
+=
+
 toast
 .
 id
- 
+
 ??
- 
+
 Math
 .
 random
@@ -717,11 +717,11 @@ substring
 (
 2
 ,
- 
+
 9
 );
 
- 
+
 this
 .
 clearTimer
@@ -729,30 +729,30 @@ clearTimer
 id
 );
 
- 
+
 const
- 
+
 newToast
- 
+
 =
- 
+
 {
- 
+
 ...
 toast
 ,
- 
+
 id
- 
+
 };
 
- 
+
 const
- 
+
 exists
- 
+
 =
- 
+
 this
 .
 toasts
@@ -761,33 +761,33 @@ some
 ((
 t
 )
- 
+
 =>
- 
+
 t
 .
 id
- 
+
 ===
- 
+
 id
 );
 
- 
-if 
+
+if
 (
 exists
 )
- 
+
 {
 
- 
+
 this
 .
 toasts
- 
+
 =
- 
+
 this
 .
 toasts
@@ -796,90 +796,90 @@ map
 ((
 t
 )
- 
+
 =>
- 
+
 (
 t
 .
 id
- 
+
 ===
- 
+
 id
- 
+
 ?
- 
+
 newToast
- 
+
 :
- 
+
 t
 ));
 
- 
+
 }
- 
+
 else
- 
+
 {
 
- 
+
 this
 .
 toasts
- 
+
 =
- 
+
 [...
 this
 .
 toasts
 ,
- 
+
 newToast
 ];
 
- 
+
 }
 
- 
-if 
+
+if
 (
 duration
- 
+
 >
- 
+
 0
 )
- 
+
 {
 
- 
+
 const
- 
+
 timer
- 
+
 =
- 
+
 window
 .
 setTimeout
 (()
- 
+
 =>
- 
+
 this
 .
 remove
 (
 id
 ),
- 
+
 duration
 );
 
- 
+
 this
 .
 _timers
@@ -888,16 +888,16 @@ set
 (
 id
 ,
- 
+
 timer
 );
 
- 
+
 }
 
- 
+
 return
- 
+
 id
 ;
 
@@ -906,21 +906,21 @@ id
 // remove a toast and its timer
 
 remove
- 
+
 =
- 
+
 (
 id
 :
- 
+
 string
 )
- 
+
 =>
- 
+
 {
 
- 
+
 this
 .
 clearTimer
@@ -928,79 +928,79 @@ clearTimer
 id
 );
 
- 
+
 const
- 
+
 index
- 
+
 =
- 
+
 this
 .
 toasts
 .
 findIndex
 (({
- 
+
 id
 :
- 
+
 _id
- 
+
 })
- 
+
 =>
- 
+
 _id
- 
+
 ===
- 
+
 id
 );
 
- 
-if 
+
+if
 (
 index
- 
+
 >=
- 
+
 0
 )
- 
+
 {
 
- 
+
 this
 .
 toasts
- 
+
 =
- 
+
 this
 .
 toasts
 .
 filter
 (({
- 
+
 id
 :
- 
+
 _id
- 
+
 })
- 
+
 =>
- 
+
 _id
- 
+
 !==
- 
+
 id
 );
 
- 
+
 }
 
 };
@@ -1008,19 +1008,19 @@ id
 // remove a timer
 
 private
- 
+
 clearTimer
 (
 id
 :
- 
+
 string
 )
- 
+
 {
 
- 
-if 
+
+if
 (
 this
 .
@@ -1030,10 +1030,10 @@ has
 (
 id
 ))
- 
+
 {
 
- 
+
 clearTimeout
 (
 this
@@ -1045,7 +1045,7 @@ get
 id
 ));
 
- 
+
 this
 .
 _timers
@@ -1055,7 +1055,7 @@ delete
 id
 );
 
- 
+
 }
 
 }
@@ -1067,15 +1067,15 @@ Exit fullscreen mode
 Finally, we instantiate our class and export it.
 
 export
- 
+
 const
- 
+
 toastManager
- 
+
 =
- 
+
 new
- 
+
 ToastManager
 ();
 
@@ -1092,15 +1092,15 @@ When I showed you how to connect to a singleton with auseEffectearlier, I mentio
 First, we need to create the functions to pass to the hook.
 
 import
- 
+
 {
- 
+
 toastManager
- 
+
 }
- 
+
 from
- 
+
 '
 @/singletons/toastManager
 '
@@ -1109,39 +1109,39 @@ from
 // Add an event listener
 
 const
- 
+
 subscribe
- 
+
 =
- 
+
 (
 callback
 :
- 
+
 ()
- 
+
 =>
- 
+
 void
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 ac
- 
+
 =
- 
+
 new
- 
+
 AbortController
 ();
 
- 
+
 toastManager
 .
 addEventListener
@@ -1150,30 +1150,30 @@ addEventListener
 changed
 "
 ,
- 
+
 callback
 ,
- 
+
 {
 
- 
+
 signal
 :
- 
+
 ac
 .
 signal
 ,
 
- 
+
 });
 
- 
-return 
+
+return
 ()
- 
+
 =>
- 
+
 ac
 .
 abort
@@ -1184,15 +1184,15 @@ abort
 // Get the state
 
 const
- 
+
 getSnapshot
- 
+
 =
- 
+
 ()
- 
+
 =>
- 
+
 toastManager
 .
 toasts
@@ -1205,56 +1205,56 @@ Exit fullscreen mode
 Now we can put it all together inside a component.
 
 import
- 
+
 {
- 
+
 useSyncExternalStore
- 
+
 }
- 
+
 from
- 
+
 '
 react
 '
 ;
 
 export
- 
+
 default
- 
+
 function
- 
+
 ToastContainer
 ()
- 
+
 {
 
- 
+
 const
- 
+
 toastList
- 
+
 =
- 
+
 useSyncExternalStore
 (
 subscribe
 ,
- 
+
 getSnapshot
 );
 
- 
-return 
+
+return
 (
 
- 
+
 <
 ul
 >
 
- 
+
 {
 toastList
 .
@@ -1262,15 +1262,15 @@ map
 (({
 id
 ,
- 
+
 message
 })
- 
+
 =>
- 
+
 (<
 li
- 
+
 key
 =
 {
@@ -1285,12 +1285,12 @@ li
 >))
 }
 
- 
+
 </
 ul
 >
 
- 
+
 );
 
 }
@@ -1312,7 +1312,7 @@ Have I convinced you, or are you still against singletons? Perhaps you were alre
 Thanks for reading! If you'd like to connect, here are myBlueSkyandLinkedInprofiles. Come say hi 😊
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

@@ -16,17 +16,17 @@ summarized_at: 2026-04-06T01:01:53.055443
 - References a LinkedIn post claiming a full agency migration from WordPress to AI tools, and Joost de Valk’s personal move from WordPress to Astro (later to EmDash).
 
 ## Main Arguments
-- **CMS Necessity Is Not New**  
+- **CMS Necessity Is Not New**
   - The claim “not every site needs a CMS” has existed since CMSes were created; AI is just a new buzzword on an old idea.
-- **AI‑Driven Migration Is Short‑Sighted**  
+- **AI‑Driven Migration Is Short‑Sighted**
   - AI can spit out a modern JavaScript site, but the rapid turnover of frameworks (Astro, Next.js, etc.) creates maintenance headaches.
   - Dependency hell, security vulnerabilities, and constant package updates remain problems that AI does not magically solve.
-- **Editing via AI Is Problematic**  
+- **Editing via AI Is Problematic**
   - Replacing the WordPress admin UI with a chatbot (Claude Desktop, ChatGPT) shifts trust to an opaque system that can produce “weird” results.
   - Users still need to verify changes, so complexity is moved rather than eliminated.
-- **WordPress Still Has a Role**  
+- **WordPress Still Has a Role**
   - WordPress core now includes MCP server support for AI integration; future releases will make AI‑assisted editing easier without discarding the CMS.
-- **Vendor Lock‑In Risks**  
+- **Vendor Lock‑In Risks**
   - Agencies offering “AI migration” may lock clients into proprietary solutions that are hard to maintain or replace.
   - Traditional WordPress sites can be updated by any developer; bespoke AI‑generated sites often require the original vendor.
 

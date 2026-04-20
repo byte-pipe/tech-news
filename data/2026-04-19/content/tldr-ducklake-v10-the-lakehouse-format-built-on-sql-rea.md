@@ -64,94 +64,94 @@ In the following, we show some key features of DuckLake v1.0 – available in th
 Data inlining is one of the flagship features of DuckLake. It basically enables performing small insert, delete and update operations in the catalog database, avoiding the proliferation of “the small file problem”. DuckLake v1.0 brings full inlining of updates and deletes. This feature is now on by default with a default threshold of 10 rows. If you want to find out more about this feature, head tothis blogwe published recently. In this example, we do an insert, delete and update and showcase how this does not create any new files in DuckLake. We thenCHECKPOINTto flush the inlined data to object storage.
 
 CREATE
- 
+
 TABLE
- 
+
 lake.t
- 
+
 (
 id
- 
+
 INT
 ,
- 
+
 status
- 
+
 VARCHAR
 );
 
 INSERT
- 
+
 INTO
- 
+
 lake.t
- 
+
 VALUES
- 
+
 (
 1
 ,
- 
+
 'en route'
 ),
- 
+
 (
 2
 ,
- 
+
 'shipped'
 );
 
 DELETE
- 
+
 FROM
- 
+
 lake.t
- 
+
 WHERE
- 
+
 id
- 
+
 =
- 
+
 1
 ;
 
 UPDATE
  lake.t
- 
+
 SET
- 
+
 status
- 
+
 =
- 
+
 'delivered'
- 
+
 WHERE
- 
+
 id
- 
+
 =
- 
+
 2
 ;
 
 FROM
- 
+
 ducklake_list_files
 (
 'lake'
 ,
- 
+
 't'
 );
- 
+
 -- returns empty
 
 CHECKPOINT
 ;
- 
+
 -- flushes data
 
 ### Sorted Tables
@@ -159,94 +159,94 @@ CHECKPOINT
 If you are often going to run queries against a high cardinality column, like an id or a timestamp, sorting is a great way to increase read query performance. Both row group and file pruning will be benefited for queries that push filters on the sorted keys. Sorted tables support column ordering but also arbitrary SQL expressions. The default approach will sort tables on compaction, flushing or insertion, but the latter one can be disabled to avoid hindering write performance.
 
 CREATE
- 
+
 TABLE
- 
+
 lake.sorted_t
- 
+
 (
 id
- 
+
 INT
 ,
- 
+
 payload
- 
+
 JSON
 );
 
 ALTER
- 
+
 TABLE
- 
+
 lake.sorted_t
- 
+
 SET
- 
+
 SORTED
- 
+
 BY
- 
+
 (
 id
- 
+
 ASC
 );
 
 INSERT
- 
+
 INTO
- 
+
 lake.sorted_t
- 
+
 
 VALUES
- 
- 
+
+
 (
 33
 ,
- 
+
 {
 'key'
 :
- 
+
 'value'
 }),
 
- 
+
 (
 2
 ,
- 
+
 {
 'key'
 :
- 
+
 'value'
 }),
 
- 
+
 (
 42
 ,
- 
+
 {
 'key'
 :
- 
+
 'value'
 }),
 
- 
+
 (
 1
 ,
- 
+
 {
 'key'
 :
- 
+
 'value'
 });
 
@@ -254,7 +254,7 @@ CHECKPOINT
 ;
 
 FROM
- 
+
 lake.sorted_t
 ;
 
@@ -263,116 +263,116 @@ lake.sorted_t
 Bucketing works by hashing the value of the target column and using the modulo, based on the number of buckets, to assign this value to a specific bucket. The bucket partitioning functionality uses the murmur3 hash implementation for full compatibility with Iceberg. If you want some of the benefits of partitioning but your column has a high cardinality, bucketing is a good alternative.
 
 CALL
- 
+
 lake.
 set_option
 (
 'data_inlining_row_limit'
 ,
- 
+
 0
 );
 
 CREATE
- 
+
 TABLE
- 
+
 lake.events
- 
+
 (
 
- 
+
 user_name
- 
+
 VARCHAR
 ,
- 
+
 event_type
- 
+
 VARCHAR
 ,
- 
+
 ts
- 
+
 TIMESTAMP
 );
 
 ALTER
- 
+
 TABLE
- 
+
 lake.events
- 
+
 SET
- 
+
 PARTITIONED
- 
+
 BY
- 
+
 (
 bucket
 (
 8
 ,
- 
+
 user_name
 ));
 
 INSERT
- 
+
 INTO
- 
+
 lake.events
- 
+
 VALUES
 
- 
+
 (
 'alice'
 ,
- 
+
 'click'
 ,
- 
+
 '2024-01-01'
 ),
 
- 
+
 (
 'bob'
 ,
- 
+
 'view'
 ,
- 
+
 '2024-01-01'
 ),
 
- 
+
 (
 'charlie'
 ,
- 
+
 'click'
 ,
- 
+
 '2024-01-02'
 );
 
 EXPLAIN
- 
+
 ANALYZE
- 
+
 FROM
- 
+
 lake.events
- 
+
 WHERE
- 
+
 user_name
- 
+
 =
- 
+
 'alice'
 ;
 
@@ -385,88 +385,88 @@ LOAD
 ;
 
 CALL
- 
+
 lake.
 set_option
 (
 'data_inlining_row_limit'
 ,
- 
+
 0
 );
 
 CREATE
- 
+
 TABLE
- 
+
 lake.places
- 
+
 (
 name
- 
+
 VARCHAR
 ,
- 
+
 location
- 
+
 GEOMETRY
 );
 
 INSERT
- 
+
 INTO
- 
+
 lake.places
- 
+
 VALUES
- 
+
 (
 'Amsterdam'
 ,
- 
+
 ST_Point
 (
 4.9
 ,
- 
+
 52.37
 ));
 
 INSERT
- 
+
 INTO
- 
+
 lake.places
- 
+
 VALUES
- 
+
 (
 'London'
 ,
- 
+
 ST_Point
 (
 -0.12
 ,
- 
+
 51.51
 ));
 
 SELECT
- 
+
 name
 
 FROM
- 
+
 lake.places
 
 WHERE
- 
+
 location
 
- 
+
 &&
- 
+
 ST_GeomFromText
 (
 'POLYGON((4 52, 5 52, 5 53, 4 53, 4 52))'
@@ -477,90 +477,90 @@ ST_GeomFromText
 Variant is a similar type to JSON but with some very distinctive qualities that make it a preferable alternative, namely: (i) it has support for many more types than JSON, for exampleDATEorTIMESTAMP; (ii) it is stored in a binary encoded format rather than a string; (iii) it can be shredded to primitive types, which allows for much better query performance (including filter and projection pushdown). We believeVARIANTwill eventually replaceJSONas the main type for semistructured data in database systems.
 
 CREATE
- 
+
 TABLE
- 
+
 lake.events
- 
+
 (
 id
- 
+
 INT
 ,
- 
+
 payload
- 
+
 VARIANT
 );
 
 INSERT
- 
+
 INTO
- 
+
 lake.events
- 
+
 VALUES
- 
- 
+
+
 (
 1
 ,
- 
+
 {
 'user'
 :
- 
+
 'alice'
 ,
- 
+
 'ts'
 :
- 
+
 TIMESTAMP
- 
+
 '2024-01-01'
 }),
- 
- 
+
+
 (
 2
 ,
- 
+
 {
 'user'
 :
- 
+
 'bob'
 ,
- 
+
 'ts'
 :
- 
+
 TIMESTAMP
- 
+
 '2024-01-02'
 ,
- 
+
 'rand'
 :
- 
+
 'value'
 });
 
 SELECT
- 
+
 *
 
 FROM
- 
+
 lake.events
 
 WHERE
- 
+
 payload.user
- 
+
 =
- 
+
 'bob'
 ;
 
@@ -571,60 +571,60 @@ Deletion vectors were introduced in the Iceberg v3 specification. While developi
 This feature is experimental and we are planning some improvements for the upcoming DuckLake releases.
 
 CREATE
- 
+
 TABLE
- 
+
 lake.t
- 
+
 (
 id
- 
+
 INTEGER
 );
 
 CALL
- 
+
 lake.
 set_option
 (
 'write_deletion_vectors'
 ,
- 
+
 true
 ,
- 
+
 table_name
- 
+
 =>
- 
+
 't'
 );
 
 INSERT
- 
+
 INTO
- 
+
 lake.t
- 
+
 FROM
- 
+
 range
 (
 100
 );
 
 DELETE
- 
+
 FROM
- 
+
 lake.t
- 
+
 WHERE
- 
+
 id
- 
+
 <
- 
+
 5
 ;
 
@@ -670,7 +670,7 @@ Description
 
 Ordered compaction and inlining
 
-Data can now be sorted during compaction and when flushing inlined data using 
+Data can now be sorted during compaction and when flushing inlined data using
 SET SORTED BY
  with column names
 
@@ -687,9 +687,9 @@ SET SORTED BY
 
 Sorted inserts
 
-Inserts are automatically sorted when a table has 
+Inserts are automatically sorted when a table has
 SET SORTED BY
-; can be disabled with 
+; can be disabled with
 sort_on_insert
 
 #697
@@ -723,7 +723,7 @@ Inline row limit can be changed after attach and takes effect immediately
 
 Data inlining on by default
 
-Small inserts (≤10 rows) stored inline in the catalog without configuration; includes full 
+Small inserts (≤10 rows) stored inline in the catalog without configuration; includes full
 ALTER TABLE
  support for inlined tables
 
@@ -732,7 +732,7 @@ ALTER TABLE
 
 Deletion inlining
 
-Small deletes (≤ 
+Small deletes (≤
 DATA_INLINING_ROW_LIMIT
 ) stored in catalog metadata instead of creating Parquet delete files
 
@@ -742,7 +742,7 @@ DATA_INLINING_ROW_LIMIT
 Inline insertions in updates
 
 UPDATE
- uses the inlining path when updated row count is within 
+ uses the inlining path when updated row count is within
 DATA_INLINING_ROW_LIMIT
 ; small updates no longer produce Parquet files
 
@@ -752,9 +752,9 @@ DATA_INLINING_ROW_LIMIT
 Maintenance functions return results
 
 ducklake_flush_inlined_data
-, 
+,
 ducklake_merge_adjacent_files
-, and 
+, and
 ducklake_rewrite_data_files
  now return result rows
 
@@ -763,7 +763,7 @@ ducklake_rewrite_data_files
 
 Bucket transform table partitioning
 
-Iceberg-compatible 
+Iceberg-compatible
 bucket(N, column)
  transform for partition pruning on high-cardinality columns; combinable with other partition transforms
 
@@ -772,7 +772,7 @@ bucket(N, column)
 
 VARIANT type support
 
-DuckLake tables support 
+DuckLake tables support
 VARIANT
 ; shredded variant sub-fields get file statistics enabling file-skipping
 
@@ -789,7 +789,7 @@ GEOMETRY
 
 Metadata query logging
 
-New 
+New
 DuckLakeMetadata
  log type records every metadata query with catalog, SQL text, and elapsed time
 
@@ -829,16 +829,16 @@ Uses min/max column statistics for more aggressive file skipping during query ex
 
 Bulk delete API for orphaned file cleanup
 
-More efficient cleanup of orphaned files via 
+More efficient cleanup of orphaned files via
 RemoveFiles
  bulk delete
 
 #708
  (@pdet)
 
-Remove 
+Remove
 partial_file_info
-, replace with 
+, replace with
 partial_max
 
 Simpler schema for deletion tracking; reduces metadata size
@@ -846,17 +846,17 @@ Simpler schema for deletion tracking; reduces metadata size
 #801
  (@suresh-summation)
 
-Avoid parse-AST-serialize roundtrip in 
+Avoid parse-AST-serialize roundtrip in
 DuckLakeViewEntry::ToSQL()
 
-~70× faster 
+~70× faster
 duckdb_views()
  queries
 
 #806
  (@thalassemia)
 
-More efficient 
+More efficient
 AppendFiles
 
 Avoids copying file vectors during bulk insert; reduces peak memory
@@ -866,14 +866,14 @@ Avoids copying file vectors during bulk insert; reduces peak memory
 
 Use Appender API for DuckDB metadata writes
 
-Dramatically faster bulk 
+Dramatically faster bulk
 ducklake_add_data_files
 ; lower memory for large imports
 
 #808
  (@thalassemia)
 
-Eager/streaming metadata processing in 
+Eager/streaming metadata processing in
 add_data_files
 
 Reduces peak memory for bulk imports with many files
@@ -881,7 +881,7 @@ Reduces peak memory for bulk imports with many files
 #829
  (@jprafael)
 
-Guard lock on all 
+Guard lock on all
 table_data_changes
  access
 
@@ -890,7 +890,7 @@ Prevents data races in concurrent write workloads
 #868
  (@rgernhardt)
 
-Cache 
+Cache
 GetInlinedDeletionTableName
  existence
 
@@ -899,11 +899,11 @@ Avoids extra metadata round-trip per query; critical for remote Postgres catalog
 #870
  (@jcolot)
 
-Replace 
+Replace
 IN
- subqueries with 
+ subqueries with
 LEFT JOIN
- in 
+ in
 table_changes
 
 Makes join strategy explicit; improves query plan predictability
@@ -911,7 +911,7 @@ Makes join strategy explicit; improves query plan predictability
 #904
  (@rgernhardt)
 
-Don't scan 
+Don't scan
 duckdb_tables()
  during Initialize
 
@@ -938,7 +938,7 @@ std::move
 #847
  (@pdet)
 
-Fix 
+Fix
 BeginSnapshot
  for tables with different schema versions
 
@@ -999,7 +999,7 @@ Varchar stored as BYTEA in Postgres not correctly read back as VARCHAR
 #903
  (@wideltann)
 
-Escape single quotes in variant stats 
+Escape single quotes in variant stats
 TrySerialize
 
 SQL syntax error for variant stats when string values contained single quotes (Postgres catalogs)
@@ -1031,7 +1031,7 @@ INSERT INTO ... SELECT
 #735
  (@gijshendriksen)
 
-Fix 
+Fix
 add_data_files
  with multiple hive-partitioned columns
 
@@ -1130,7 +1130,7 @@ Build/type compatibility fix
 
 Fix change feed scan on compacted insertion files
 
-Incorrect 
+Incorrect
 ducklake_table_changes()
  results on compacted tables
 
@@ -1223,7 +1223,7 @@ Failed views got stuck in broken state; all subsequent accesses threw misleading
 #858
  (@pdet)
 
-Update 
+Update
 default_value_type
  in migration
 
@@ -1232,7 +1232,7 @@ Not updated after adding a column, causing downstream errors
 #863
  (@pdet)
 
-Cleanup separator in 
+Cleanup separator in
 DATA_PATH
 
 Trailing separator caused incorrect path construction
@@ -1240,11 +1240,11 @@ Trailing separator caused incorrect path construction
 #866
  (@Flamefork)
 
-Compaction ignores 
+Compaction ignores
 per_thread_output
  from lake config
 
-Crash during compaction when 
+Crash during compaction when
 per_thread_output
  was enabled lake-wide
 
@@ -1258,7 +1258,7 @@ Creating schema and macro (or multiple macros) in same TX failed
 #874
  (@pdet)
 
-Fix S3 + 
+Fix S3 +
 disabled_filesystems = 'LocalFileSystem'
 
 DuckLake failed on S3 when local FS was disabled
@@ -1409,7 +1409,7 @@ ATTACH OR REPLACE
 
 Fix migration issue of range tables from v0.3 to v0.4
 
-Incorrect 
+Incorrect
 begin_snapshot
  for schema versions after migration
 
@@ -1494,7 +1494,7 @@ Cleaner plugin architecture for multiple catalog backends
 #748
  (@qsliu2017)
 
-Refactor 
+Refactor
 list_agg
  in queries
 
@@ -1510,9 +1510,9 @@ Backend-specific type conversion; enables Postgres/SQLite inlining
 #754
  (@qsliu2017)
 
-Replace 
+Replace
 MAX_BY
- with 
+ with
 DISTINCT ON ... ORDER BY
 
 Postgres compatibility in catalog queries
@@ -1527,9 +1527,9 @@ Prevents ambiguity in complex metadata joins
 #786
  (@rgernhardt)
 
-Default 
+Default
 catalog_type
- to 
+ to
 "duckdb"
  in settings
 
@@ -1545,7 +1545,7 @@ Enables proper version-gated migrations
 #827
  (@Mytherin)
 
-Remove deprecated lambda syntax in 
+Remove deprecated lambda syntax in
 add_data_files
 
 Build/compatibility fix for updated DuckDB API

@@ -15,7 +15,7 @@ tags:
 
 timescale
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork94
 * Star3.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -196,7 +196,7 @@ git clone https://github.com/timescale/pg_textsearch
 cd
  pg_textsearch
 make
-make install 
+make install
 #
  may need sudo
 
@@ -214,20 +214,20 @@ CREATE EXTENSION pg_textsearch;
 Create a table with text content
 
 CREATE
- 
+
 TABLE
- 
+
 documents
- (id 
+ (id
 bigserial
- 
+
 PRIMARY KEY
-, content 
+, content
 text
 );
 
 INSERT INTO
- documents (content) 
+ documents (content)
 VALUES
 
  (
@@ -249,11 +249,11 @@ Full text search with custom scoring
 Create a pg_textsearch index on the text column
 
 CREATE
- 
+
 INDEX
- 
+
 docs_idx
- 
+
 ON
  documents USING bm25(content) WITH (text_config
 =
@@ -267,24 +267,24 @@ english
 Get the most relevant documents using the<@>operator
 
 SELECT
- 
+
 *
- 
+
 FROM
  documents
 
 ORDER BY
- content 
+ content
 <
 @
 >
- 
+
 '
 database system
 '
 
 LIMIT
- 
+
 5
 ;
 
@@ -293,14 +293,14 @@ Note:<@>returns the negative BM25 score since Postgres only supportsASCorder ind
 The index is automatically detected from the column. For explicit index specification:
 
 SELECT
- 
+
 *
- 
+
 FROM
  documents
 
 WHERE
- content 
+ content
 <
 @
 >
@@ -308,13 +308,13 @@ WHERE
 '
 database system
 '
-, 
+,
 '
 docs_idx
 '
-) 
+)
 <
- 
+
 -
 1
 .
@@ -330,33 +330,33 @@ Supported operations:
 
 Check query plan with EXPLAIN:
 
-EXPLAIN 
+EXPLAIN
 SELECT
- 
+
 *
- 
+
 FROM
  documents
 
 ORDER BY
- content 
+ content
 <
 @
 >
- 
+
 '
 database system
 '
 
 LIMIT
- 
+
 5
 ;
 
 For small datasets, PostgreSQL may prefer sequential scans. Force index usage:
 
 SET
- enable_seqscan 
+ enable_seqscan
 =
  off;
 
@@ -372,9 +372,9 @@ Pre-filteringuses a separate index (B-tree, etc.) to reduce rows before scoring:
  Create index on filter column
 
 CREATE
- 
+
 INDEX
- 
+
 ON
  documents (category_id);
 
@@ -382,44 +382,44 @@ ON
  Query filters first, then scores matching rows
 
 SELECT
- 
+
 *
- 
+
 FROM
  documents
 
 WHERE
- category_id 
+ category_id
 =
- 
+
 123
 
 ORDER BY
- content 
+ content
 <
 @
 >
- 
+
 '
 search terms
 '
 
 LIMIT
- 
+
 10
 ;
 
 Post-filteringapplies the BM25 index scan first, then filters results:
 
 SELECT
- 
+
 *
- 
+
 FROM
  documents
 
 WHERE
- content 
+ content
 <
 @
 >
@@ -427,30 +427,30 @@ WHERE
 '
 search terms
 '
-, 
+,
 '
 docs_idx
 '
-) 
+)
 <
- 
+
 -
 5
 .
 0
 
 ORDER BY
- content 
+ content
 <
 @
 >
- 
+
 '
 search terms
 '
 
 LIMIT
- 
+
 10
 ;
 
@@ -473,9 +473,9 @@ where approximate indexes also apply filtering after the index scan.
 Create a BM25 index on your text columns:
 
 CREATE
- 
+
 INDEX
- 
+
 ON
  documents USING bm25(content) WITH (text_config
 =
@@ -491,9 +491,9 @@ english
 * b- length normalization parameter (0.75 by default)
 
 CREATE
- 
+
 INDEX
- 
+
 ON
  documents USING bm25(content) WITH (text_config
 =
@@ -518,11 +518,11 @@ Also supports different text search configurations:
  English documents with stemming
 
 CREATE
- 
+
 INDEX
- 
+
 docs_en_idx
- 
+
 ON
  documents USING bm25(content) WITH (text_config
 =
@@ -535,11 +535,11 @@ english
  Simple text processing without stemming
 
 CREATE
- 
+
 INDEX
- 
+
 docs_simple_idx
- 
+
 ON
  documents USING bm25(content) WITH (text_config
 =
@@ -552,11 +552,11 @@ simple
  Language-specific configurations
 
 CREATE
- 
+
 INDEX
- 
+
 docs_fr_idx
- 
+
 ON
  french_docs USING bm25(content) WITH (text_config
 =
@@ -566,11 +566,11 @@ french
 );
 
 CREATE
- 
+
 INDEX
- 
+
 docs_de_idx
- 
+
 ON
  german_docs USING bm25(content) WITH (text_config
 =
@@ -593,7 +593,7 @@ SELECT
 '
 search query text
 '
-, 
+,
 '
 docs_idx
 '
@@ -606,7 +606,7 @@ docs_idx
  Embedded index name syntax (alternative form using cast)
 
 SELECT
- 
+
 '
 docs_idx:search query text
 '
@@ -662,7 +662,7 @@ pg_textsearch indexes use a memtable architecture for efficient writes. Like oth
  Load data first
 
 INSERT INTO
- documents (content) 
+ documents (content)
 VALUES
  (...);
 
@@ -670,11 +670,11 @@ VALUES
  Then create index
 
 CREATE
- 
+
 INDEX
- 
+
 docs_idx
- 
+
 ON
  documents USING bm25(content) WITH (text_config
 =
@@ -692,20 +692,20 @@ Postgres automatically uses parallel workers based on table size and configurati
  Configure parallel workers (optional, uses server defaults otherwise)
 
 SET
- max_parallel_maintenance_workers 
+ max_parallel_maintenance_workers
 =
- 
+
 4
 ;
 
 SET
- maintenance_work_mem 
+ maintenance_work_mem
 =
- 
+
 '
 256MB
 '
-; 
+;
 --
  At least 64MB required for parallel builds
 
@@ -713,11 +713,11 @@ SET
  Create index (parallel workers used automatically for large tables)
 
 CREATE
- 
+
 INDEX
- 
+
 docs_idx
- 
+
 ON
  documents USING bm25(content) WITH (text_config
 =
@@ -768,23 +768,23 @@ documents up topg_textsearch.default_limit.
  Fast: BMW skips non-competitive blocks
 
 SELECT
- 
+
 *
- 
+
 FROM
- documents 
+ documents
 ORDER BY
- content 
+ content
 <
 @
 >
- 
+
 '
 search terms
 '
- 
+
 LIMIT
- 
+
 10
 ;
 
@@ -792,17 +792,17 @@ LIMIT
  Slower: scores up to default_limit documents
 
 SELECT
- 
+
 *
- 
+
 FROM
- documents 
+ documents
 ORDER BY
- content 
+ content
 <
 @
 >
- 
+
 '
 search terms
 '
@@ -815,11 +815,11 @@ performance (fewer pages to read). Disable only if you observe that
 decompression overhead is a bottleneck for your workload:
 
 SET
- 
+
 pg_textsearch
 .
 compress_segments
- 
+
 =
  off;
 
@@ -900,7 +900,7 @@ FROM
 WHERE
  indexrelid::regclass::
 text
- ~ 
+ ~
 '
 pg_textsearch
 '
@@ -911,26 +911,26 @@ pg_textsearch
 ### Basic Search
 
 CREATE
- 
+
 TABLE
- 
+
 articles
- (id 
+ (id
 serial
- 
+
 PRIMARY KEY
-, title 
+, title
 text
-, content 
+, content
 text
 );
 
 CREATE
- 
+
 INDEX
- 
+
 articles_idx
- 
+
 ON
  articles USING bm25(content) WITH (text_config
 =
@@ -940,14 +940,14 @@ english
 );
 
 INSERT INTO
- articles (title, content) 
+ articles (title, content)
 VALUES
 
  (
 '
 Database Systems
 '
-, 
+,
 '
 PostgreSQL is a powerful relational database system
 '
@@ -956,7 +956,7 @@ PostgreSQL is a powerful relational database system
 '
 Search Technology
 '
-, 
+,
 '
 Full text search enables finding relevant documents quickly
 '
@@ -965,7 +965,7 @@ Full text search enables finding relevant documents quickly
 '
 Information Retrieval
 '
-, 
+,
 '
 BM25 is a ranking function used in search engines
 '
@@ -975,15 +975,15 @@ BM25 is a ranking function used in search engines
  Find relevant documents
 
 SELECT
- title, content 
+ title, content
 <
 @
 >
- 
+
 '
 database search
 '
- 
+
 as
  score
 
@@ -999,11 +999,11 @@ Also supports different languages and custom parameters:
  Different languages
 
 CREATE
- 
+
 INDEX
- 
+
 fr_idx
- 
+
 ON
  french_articles USING bm25(content) WITH (text_config
 =
@@ -1013,11 +1013,11 @@ french
 );
 
 CREATE
- 
+
 INDEX
- 
+
 de_idx
- 
+
 ON
  german_articles USING bm25(content) WITH (text_config
 =
@@ -1030,11 +1030,11 @@ german
  Custom parameters
 
 CREATE
- 
+
 INDEX
- 
+
 custom_idx
- 
+
 ON
  documents USING bm25(content)
  WITH (text_config
@@ -1069,44 +1069,44 @@ phrase matching by combining BM25 ranking with a post-filter:
  post-filter eliminating non-phrase matches
 
 SELECT
- 
+
 *
- 
+
 FROM
  (
- 
+
 SELECT
- 
+
 *
-, content 
+, content
 <
 @
 >
- 
+
 '
 database system
 '
- 
+
 AS
  score
- 
+
 FROM
  documents
- 
+
 ORDER BY
  score
- 
+
 LIMIT
- 
+
 100
- 
+
 --
  over-fetch
 
 ) sub
 
 WHERE
- content ILIKE 
+ content ILIKE
 '
 %database system%
 '
@@ -1115,7 +1115,7 @@ ORDER BY
  score
 
 LIMIT
- 
+
 10
 ;
 
@@ -1129,40 +1129,40 @@ an expression likelower(title) || ' ' || content. As a workaround, use
 a generated column:
 
 ALTER
- 
+
 TABLE
- documents ADD COLUMN search_text 
+ documents ADD COLUMN search_text
 text
 
- GENERATED ALWAYS 
+ GENERATED ALWAYS
 AS
  (
- COALESCE(title, 
+ COALESCE(title,
 '
 '
-) 
+)
 ||
- 
+
 '
- 
+
 '
- 
+
 ||
- COALESCE(content, 
+ COALESCE(content,
 '
 '
 )
  ) STORED;
 
 CREATE
- 
+
 INDEX
- 
+
 ON
  documents USING bm25(search_text)
- WITH (text_config 
+ WITH (text_config
 =
- 
+
 '
 english
 '
@@ -1177,32 +1177,32 @@ Postgres query machinery handles common faceting patterns:
  Filter by category (assumes a B-tree index on category)
 
 SELECT
- 
+
 *
- 
+
 FROM
  documents
 
 WHERE
- category 
+ category
 =
- 
+
 '
 engineering
 '
 
 ORDER BY
- content 
+ content
 <
 @
 >
- 
+
 '
 search terms
 '
 
 LIMIT
- 
+
 10
 ;
 
@@ -1210,7 +1210,7 @@ LIMIT
  Compute facet counts over BM25-matched results
 
 SELECT
- category, 
+ category,
 count
 (
 *
@@ -1220,7 +1220,7 @@ FROM
  documents
 
 WHERE
- content 
+ content
 <
 @
 >
@@ -1228,13 +1228,13 @@ WHERE
 '
 search terms
 '
-, 
+,
 '
 docs_idx
 '
-) 
+)
 <
- 
+
 -
 1
 .
@@ -1287,40 +1287,40 @@ matters
  Query single partition (scores are accurate within partition)
 
 SELECT
- 
+
 *
- 
+
 FROM
  docs
 
 WHERE
- created_at 
+ created_at
 >=
- 
+
 '
 2024-01-01
 '
- 
+
 AND
- created_at 
+ created_at
 <
- 
+
 '
 2025-01-01
 '
 
 ORDER BY
- content 
+ content
 <
 @
 >
- 
+
 '
 search terms
 '
 
 LIMIT
- 
+
 10
 ;
 
@@ -1328,24 +1328,24 @@ LIMIT
  Cross-partition query (scores computed per-partition)
 
 SELECT
- 
+
 *
- 
+
 FROM
  docs
 
 ORDER BY
- content 
+ content
 <
 @
 >
- 
+
 '
 search terms
 '
 
 LIMIT
- 
+
 10
 ;
 
@@ -1382,14 +1382,14 @@ Inside PL/pgSQL, use explicit index names withto_bm25query():
  Use explicit index name instead:
 
 SELECT
- 
+
 *
- 
+
 FROM
  docs
 
 ORDER BY
- content 
+ content
 <
 @
 >
@@ -1397,14 +1397,14 @@ ORDER BY
 '
 search terms
 '
-, 
+,
 '
 docs_idx
 '
 )
 
 LIMIT
- 
+
 10
 ;
 
@@ -1416,7 +1416,7 @@ Regular SQL queries (outside PL/pgSQL) support both forms.
  List available text search configurations
 
 SELECT
- cfgname 
+ cfgname
 FROM
  pg_ts_config;
 
@@ -1424,13 +1424,13 @@ FROM
  List BM25 indexes
 
 SELECT
- indexname 
+ indexname
 FROM
- pg_indexes 
+ pg_indexes
 WHERE
- indexdef 
+ indexdef
 LIKE
- 
+
 '
 %USING bm25%
 '
@@ -1441,13 +1441,13 @@ LIKE
 If your machine has multiple Postgres installations, specify the path topg_config:
 
 export
- PG_CONFIG=/Library/PostgreSQL/18/bin/pg_config 
+ PG_CONFIG=/Library/PostgreSQL/18/bin/pg_config
 #
  or 17
 
-make clean 
+make clean
 &&
- make 
+ make
 &&
  make install
 
@@ -1456,11 +1456,11 @@ If you get compilation errors, install Postgres development files:
 #
  Ubuntu/Debian
 
-sudo apt install postgresql-server-dev-17 
+sudo apt install postgresql-server-dev-17
 #
  for PostgreSQL 17
 
-sudo apt install postgresql-server-dev-18 
+sudo apt install postgresql-server-dev-18
 #
  for PostgreSQL 18
 
@@ -1643,61 +1643,61 @@ PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS li
 
  Readme
 
- 
+
 
 ### License
 
  PostgreSQL license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 3.5k
 
  stars
- 
+
 
 ### Watchers
 
 10
 
  watching
- 
+
 
 ### Forks
 
 94
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases16
 
@@ -1705,11 +1705,11 @@ v1.0.0
 
  Latest
 
- 
+
 
 Mar 27, 2026
 
- 
+
 
 + 15 releases
 
@@ -1725,17 +1725,17 @@ Mar 27, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1743,9 +1743,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

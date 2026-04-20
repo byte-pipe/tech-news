@@ -28,7 +28,7 @@ Technological Advancements:
 
 Impact on Businesses:
 
-* Unfortunately, security professionals are also leveraging some of the same tools that bad actors use, including AI, to increase efficiency and scale. 
+* Unfortunately, security professionals are also leveraging some of the same tools that bad actors use, including AI, to increase efficiency and scale.
 * This overlap can worsen check fraud and other types of checks as well.
 
 Overall, Verafin's findings suggest that AI is becoming increasingly difficult for businesses to distinguish from legitimate traffic and transactions, making it harder to prevent and detect fraud.

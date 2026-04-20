@@ -21,17 +21,17 @@ March 4, 2026
 
 # Say hello to MacBook Neo
 
- 
- 
+
+
  Apple’s all-new MacBook features a durable aluminum design, a stunning 13-inch Liquid Retina display, the power of Apple silicon, and all-day battery life — all for the breakthrough starting price of just $599
- 
- 
+
+
 
  With its beautiful and durable aluminum design, stunning Liquid Retina display, Apple silicon-powered performance, all-day battery life, and more, the all-new MacBook Neo delivers the magic of the Mac experience at a breakthrough price.
- 
+
 
 CUPERTINO, CALIFORNIA
- Apple today unveiled 
+ Apple today unveiled
 MacBook Neo
 , an all-new laptop that delivers the magic of the Mac at a breakthrough price, making it even more accessible to millions of people around the world. MacBook Neo starts with a beautiful Apple design, featuring a durable aluminum enclosure in an array of gorgeous colors — blush, indigo, silver, and a fresh new citrus. Its stunning 13-inch Liquid Retina display brings websites, photos, videos, and apps to life with high resolution and brightness, and support for 1 billion colors. Powered by A18 Pro, MacBook Neo can fly through everyday tasks, from browsing the web and streaming content, to editing photos, exploring creative hobbies, or using AI capabilities across apps. In fact, it’s up to 50 percent faster for everyday tasks like web browsing,
 1
@@ -64,7 +64,7 @@ MacBook Neo comes in four beautiful colors — blush, indigo, silver, and citrus
 A gorgeous 13-inch Liquid Retina display features a 2408-by-1506 resolution, 500 nits of brightness, and support for 1 billion colors, bringing to life sharp, crystal-clear text and vibrant images. The display is both brighter and higher in resolution than most PC laptops in this price range, putting it in a class of its own. Finally, an anti-reflective coating provides a comfortable viewing experience in a variety of lighting conditions, allowing users to watch movies, edit photos, or take video calls from anywhere.
 
  The 13-inch Liquid Retina display on MacBook Neo brings to life sharp, crystal-clear text and vibrant images.
- 
+
 
 ## Apple Silicon-Powered Performance
 
@@ -103,14 +103,14 @@ MacBook Neo delivers up to 16 hours of battery life on a single charge, making i
 MacBook Neo features Apple’s much-loved Magic Keyboard, which provides a comfortable, precise typing experience, while a large Multi-Touch trackpad lets users click, scroll, swipe, and pinch anywhere on its surface. The MacBook Neo model with Touch ID enables easy, quick, and secure login authentication, and the ability to conveniently authorize purchases using Apple Pay.
 
  A color-matched Magic Keyboard provides a comfortable, precise typing experience, while a new Multi-Touch trackpad lets users click, scroll, swipe, and pinch anywhere on its surface.
- 
+
 
 ## 1080p Camera; Dual Speakers and Mics
 
 The 1080p FaceTime HD camera on MacBook Neo has optimized image processing to deliver vibrant video calls. Dual mics with directional beamforming are designed to reduce background noise and isolate a user’s voice, allowing it to come across loud and clear for an excellent video conferencing experience. And dual side-firing speakers with support for Spatial Audio and Dolby Atmos produce immersive sound for watching a movie, listening to music, or using apps like GarageBand.
 
  The 1080p FaceTime HD camera delivers clear video calls in a variety of lighting conditions, and dual mics with directional beamforming isolate a user’s voice and reduce background noise.
- 
+
 
 ## Essential Connectivity
 
@@ -119,7 +119,7 @@ MacBook Neo features two USB-C ports for connecting accessories or an external d
  Both ports can be used for charging. MacBook Neo also includes a headphone jack for wired audio. Wi-Fi 6E provides fast wireless connectivity, and Bluetooth 6 ensures reliable wireless connections for peripherals and accessories.
 
  MacBook Neo features two USB-C ports and a headphone jack for wired audio, plus Wi-Fi 6E and Bluetooth 6.
- 
+
 
 ## Powerful Productivity with macOS
 

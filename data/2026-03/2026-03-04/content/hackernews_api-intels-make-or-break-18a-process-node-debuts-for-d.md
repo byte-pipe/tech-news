@@ -45,9 +45,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -62,7 +62,7 @@ Subscribe to our newsletter
 Intel this week formally introduced its Xeon 6+ processors codenamed 'Clearwater Forest' that pack up to 288 energy-efficient Darkmont cores and are the first data center CPUs made on the company's 18A fabrication process (1.8nm-class). Intel aims its Xeon 6+ 'Clearwater Forest' processors primarily for telecom, cloud, and edge AI workloads as they feature Advanced Matrix Extensions (AMX), QuickAssist Technology (QAT), and Intel vRAN Boost technologies.
 
 Go deeper with TH Premium: CPU
- 
+
 
 (Image credit: Tom's Hardware)
 * CPU scaling with DLSS
@@ -72,9 +72,9 @@ Go deeper with TH Premium: CPU
 
 Intel's Xeon 6+ processors with up to 288 cores combine 12 compute chiplets containing 24 energy-efficient Darkmont cores per tile that are produced using 18A manufacturing technology, two I/O tiles made on Intel 7 production node, as well as three active base tiles made on Intel 3 fabrication process. The compute tiles are stacked on top of the base dies using Intel's Foveros Direct 3D technology, whereas lateral connections are enabled by Intel's EMIB bridges.
 
-Image 
+Image
 1
- of 
+ of
 2
 (Image credit: Intel)
 (Image credit: Intel)
@@ -85,7 +85,7 @@ From a cache hierarchy standpoint, the design groups cores into four-core blocks
 
 Platform-wise, the processor remains drop-in compatible with the current Xeon server socket, so the CPU has 12 memory channels that support DDR5-8000, 96 PCIe 5.0 lanes with 64 lanes supporting CXL 2.0.
 
- 
+
 
 (Image credit: Intel)
 
@@ -102,7 +102,7 @@ Receive email from us on behalf of our trusted partners or sponsors
 
 Systems based on Intel's Xeon 6+ processors will be available later this year.
 
- 
+
 
 FollowTom's Hardware on Google News, oradd us as a preferred source, to get our latest news, analysis, & reviews in your feeds.
 

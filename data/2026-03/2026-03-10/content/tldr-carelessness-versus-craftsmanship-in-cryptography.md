@@ -41,9 +41,9 @@ We’ll start with the biggest concern Trail of Bits identified: when instantiat
 Worse still, the documentation providesexamplesof this behavior as typical behavior. For example, this comes from thepyaes README:
 
 aes
- 
+
 =
- 
+
 pyaes
 .
 AESModeOfOperationCTR
@@ -52,15 +52,15 @@ key
 )
 
 plaintext
- 
+
 =
- 
+
 "Text may be any length you wish, no padding is required"
 
 ciphertext
- 
+
 =
- 
+
 aes
 .
 encrypt

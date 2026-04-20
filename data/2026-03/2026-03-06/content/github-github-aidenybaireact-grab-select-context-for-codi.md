@@ -11,7 +11,7 @@ description: Select context for coding agents directly from your website - aiden
 
 aidenybai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork262
 * Star5.7k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -148,11 +148,11 @@ This copies the element's context (file name, React component, and HTML source c
 
 <
 a
- 
+
 class
 =
 "ml-auto inline-block text-sm"
- 
+
 href
 =
 "#"
@@ -165,11 +165,11 @@ a
 >
 
 in
- 
+
 LoginForm
- 
+
 at
- 
+
 components
 /
 login
@@ -191,92 +191,92 @@ If you're using a React framework or build tool, view instructions below:
 Add this inside of yourapp/layout.tsx:
 
 import
- 
+
 Script
- 
+
 from
- 
+
 "next/script"
 ;
 
 export
- 
+
 default
- 
+
 function
- 
+
 RootLayout
 (
 {
- children 
+ children
 }
 )
- 
+
 {
 
- 
+
 return
- 
+
 (
 
- 
+
 <
 html
 >
 
- 
+
 <
 head
 >
 
- 
+
 {
 process
 .
 env
 .
 NODE_ENV
- 
+
 ===
- 
+
 "development"
- 
+
 &&
- 
+
 (
 
- 
+
 <
 Script
 
- 
+
 src
 =
 "//unpkg.com/react-grab/dist/index.global.js"
 
- 
+
 crossOrigin
 =
 "anonymous"
 
- 
+
 strategy
 =
 "beforeInteractive"
 
- 
+
 />
 
- 
+
 )
 }
 
- 
+
 </
 head
 >
 
- 
+
 <
 body
 >
@@ -287,12 +287,12 @@ children
 body
 >
 
- 
+
 </
 html
 >
 
- 
+
 )
 ;
 
@@ -303,133 +303,133 @@ html
 Add this into yourpages/_document.tsx:
 
 import
- 
+
 {
- 
+
 Html
 ,
- 
+
 Head
 ,
- 
+
 Main
 ,
- 
+
 NextScript
- 
+
 }
- 
+
 from
- 
+
 "next/document"
 ;
 
 export
- 
+
 default
- 
+
 function
- 
+
 Document
 (
 )
- 
+
 {
 
- 
+
 return
- 
+
 (
 
- 
+
 <
 Html
- 
+
 lang
 =
 "en"
 >
 
- 
+
 <
 Head
 >
 
- 
+
 {
 process
 .
 env
 .
 NODE_ENV
- 
+
 ===
- 
+
 "development"
- 
+
 &&
- 
+
 (
 
- 
+
 <
 Script
 
- 
+
 src
 =
 "//unpkg.com/react-grab/dist/index.global.js"
 
- 
+
 crossOrigin
 =
 "anonymous"
 
- 
+
 strategy
 =
 "beforeInteractive"
 
- 
+
 />
 
- 
+
 )
 }
 
- 
+
 </
 Head
 >
 
- 
+
 <
 body
 >
 
- 
+
 <
 Main
- 
+
 />
 
- 
+
 <
 NextScript
- 
+
 />
 
- 
+
 </
 body
 >
 
- 
+
 </
 Html
 >
 
- 
+
 )
 ;
 
@@ -444,31 +444,31 @@ Add this to yourindex.html:
 
 <
 html
- 
+
 lang
 ="
 en
 "
 >
 
- 
+
 <
 head
 >
 
- 
+
 <
 script
- 
+
 type
 ="
 module
 "
 >
 
- 
+
 if
- 
+
 (
 import
 .
@@ -478,38 +478,38 @@ env
 .
 DEV
 )
- 
+
 {
 
- 
+
 import
 (
 "react-grab"
 )
 ;
 
- 
+
 }
 
- 
+
 </
 script
 >
 
- 
+
 </
 head
 >
 
- 
+
 <
 body
 >
 
- 
+
 <
 div
- 
+
 id
 ="
 root
@@ -519,14 +519,14 @@ root
 div
 >
 
- 
+
 <
 script
- 
+
 type
 ="
 module
-" 
+"
 src
 ="
 /src/main.tsx
@@ -536,7 +536,7 @@ src
 script
 >
 
- 
+
 </
 body
 >
@@ -554,22 +554,22 @@ npm install react-grab
 Then add this at the top of your main entry file (e.g.,src/index.tsxorsrc/main.tsx):
 
 if
- 
+
 (
 process
 .
 env
 .
 NODE_ENV
- 
+
 ===
- 
+
 "development"
 )
- 
+
 {
 
- 
+
 import
 (
 "react-grab"
@@ -592,47 +592,47 @@ registerPlugin
 (
 {
 
- 
+
 name
-: 
+:
 "my-plugin"
 ,
 
- 
+
 hooks
-: 
+:
 {
 
- 
+
 onElementSelect
-: 
+:
 (
 element
 )
- 
+
 =>
- 
+
 {
 
- 
+
 console
 .
 log
 (
 "Selected:"
 ,
- 
+
 element
 .
 tagName
 )
 ;
 
- 
+
 }
 ,
 
- 
+
 }
 ,
 
@@ -646,99 +646,99 @@ useEffect
 (
 (
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 api
- 
+
 =
- 
+
 window
 .
 __REACT_GRAB__
 ;
 
- 
+
 if
- 
+
 (
 !
 api
 )
- 
+
 return
 ;
 
- 
+
 api
 .
 registerPlugin
 (
 {
 
- 
+
 name
-: 
+:
 "my-plugin"
 ,
 
- 
+
 actions
-: 
+:
 [
 
- 
+
 {
 
- 
+
 id
-: 
+:
 "my-action"
 ,
 
- 
+
 label
-: 
+:
 "My Action"
 ,
 
- 
+
 shortcut
-: 
+:
 "M"
 ,
 
- 
+
 onAction
-: 
+:
 (
 context
 )
- 
+
 =>
- 
+
 {
 
- 
+
 console
 .
 log
 (
 "Action on:"
 ,
- 
+
 context
 .
 element
 )
 ;
 
- 
+
 context
 .
 hideContextMenu
@@ -746,31 +746,31 @@ hideContextMenu
 )
 ;
 
- 
+
 }
 ,
 
- 
+
 }
 ,
 
- 
+
 ]
 ,
 
- 
+
 }
 )
 ;
 
- 
+
 return
- 
+
 (
 )
- 
+
 =>
- 
+
 api
 .
 unregisterPlugin
@@ -781,7 +781,7 @@ unregisterPlugin
 
 }
 ,
- 
+
 [
 ]
 )
@@ -789,39 +789,39 @@ unregisterPlugin
 
 Actions use atargetfield to control where they appear. Omittarget(or set"context-menu") for the right-click menu, or set"toolbar"for the toolbar dropdown:
 
-actions: 
+actions:
 [
 
- 
+
 {
 
- 
+
 id
-: 
+:
 "inspect"
 ,
 
- 
+
 label
-: 
+:
 "Inspect"
 ,
 
- 
+
 shortcut
-: 
+:
 "I"
 ,
 
- 
+
 onAction
-: 
+:
 (
 ctx
 )
- 
+
 =>
- 
+
 console
 .
 dir
@@ -832,56 +832,56 @@ element
 )
 ,
 
- 
+
 }
 ,
 
- 
+
 {
 
- 
+
 id
-: 
+:
 "toggle-freeze"
 ,
 
- 
+
 label
-: 
+:
 "Freeze"
 ,
 
- 
+
 target
-: 
+:
 "toolbar"
 ,
 
- 
+
 isActive
-: 
+:
 (
 )
- 
+
 =>
- 
+
 isFrozen
 ,
 
- 
+
 onAction
-: 
+:
 (
 )
- 
+
 =>
- 
+
 toggleFreeze
 (
 )
 ,
 
- 
+
 }
 ,
 
@@ -901,115 +901,115 @@ npm install react-grab@latest
 Then, put this in your React app:
 
 import
- 
+
 {
- 
+
 useState
- 
+
 }
- 
+
 from
- 
+
 "react"
 ;
 
 import
- 
+
 {
- 
+
 getElementContext
 ,
- 
+
 freeze
 ,
- 
+
 unfreeze
 ,
- 
+
 openFile
 ,
- 
+
 type
- 
+
 ReactGrabElementContext
- 
+
 }
- 
+
 from
- 
+
 "react-grab/primitives"
 ;
 
 const
- 
+
 useElementSelector
- 
+
 =
- 
+
 (
 onSelect
-: 
+:
 (
 context
-: 
+:
 ReactGrabElementContext
 )
- 
+
 =>
- 
+
 void
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 [
 isActive
 ,
- 
+
 setIsActive
 ]
- 
+
 =
- 
+
 useState
 (
 false
 )
 ;
 
- 
+
 const
- 
+
 startSelecting
- 
+
 =
- 
+
 (
 )
- 
+
 =>
- 
+
 {
 
- 
+
 setIsActive
 (
 true
 )
 ;
 
- 
+
 const
- 
+
 highlightOverlay
- 
+
 =
- 
+
 document
 .
 createElement
@@ -1018,7 +1018,7 @@ createElement
 )
 ;
 
- 
+
 Object
 .
 assign
@@ -1027,51 +1027,51 @@ highlightOverlay
 .
 style
 ,
- 
+
 {
 
- 
+
 position
-: 
+:
 "fixed"
 ,
 
- 
+
 pointerEvents
-: 
+:
 "none"
 ,
 
- 
+
 zIndex
-: 
+:
 "999999"
 ,
 
- 
+
 border
-: 
+:
 "2px solid #3b82f6"
 ,
 
- 
+
 transition
-: 
+:
 "all 75ms ease-out"
 ,
 
- 
+
 display
-: 
+:
 "none"
 ,
 
- 
+
 }
 )
 ;
 
- 
+
 document
 .
 body
@@ -1082,71 +1082,71 @@ highlightOverlay
 )
 ;
 
- 
+
 const
- 
+
 handleMouseMove
- 
+
 =
- 
+
 (
 {
  clientX
 ,
- clientY 
+ clientY
 }
-: 
+:
 MouseEvent
 )
- 
+
 =>
- 
+
 {
 
- 
+
 highlightOverlay
 .
 style
 .
 display
- 
+
 =
- 
+
 "none"
 ;
 
- 
+
 const
- 
+
 target
- 
+
 =
- 
+
 document
 .
 elementFromPoint
 (
 clientX
 ,
- 
+
 clientY
 )
 ;
 
- 
+
 if
- 
+
 (
 !
 target
 )
- 
+
 return
 ;
 
- 
+
 const
- 
+
 {
  top
 ,
@@ -1154,11 +1154,11 @@ const
 ,
  width
 ,
- height 
+ height
 }
- 
+
 =
- 
+
 target
 .
 getBoundingClientRect
@@ -1166,7 +1166,7 @@ getBoundingClientRect
 )
 ;
 
- 
+
 Object
 .
 assign
@@ -1175,12 +1175,12 @@ highlightOverlay
 .
 style
 ,
- 
+
 {
 
- 
+
 top
-: 
+:
 `
 ${
 top
@@ -1188,9 +1188,9 @@ top
 px`
 ,
 
- 
+
 left
-: 
+:
 `
 ${
 left
@@ -1198,9 +1198,9 @@ left
 px`
 ,
 
- 
+
 width
-: 
+:
 `
 ${
 width
@@ -1208,9 +1208,9 @@ width
 px`
 ,
 
- 
+
 height
-: 
+:
 `
 ${
 height
@@ -1218,102 +1218,102 @@ height
 px`
 ,
 
- 
+
 display
-: 
+:
 "block"
 ,
 
- 
+
 }
 )
 ;
 
- 
+
 }
 ;
 
- 
+
 const
- 
+
 handleClick
- 
+
 =
- 
+
 async
- 
+
 (
 {
  clientX
 ,
- clientY 
+ clientY
 }
-: 
+:
 MouseEvent
 )
- 
+
 =>
- 
+
 {
 
- 
+
 highlightOverlay
 .
 style
 .
 display
- 
+
 =
- 
+
 "none"
 ;
 
- 
+
 const
- 
+
 target
- 
+
 =
- 
+
 document
 .
 elementFromPoint
 (
 clientX
 ,
- 
+
 clientY
 )
 ;
 
- 
+
 teardown
 (
 )
 ;
 
- 
+
 if
- 
+
 (
 !
 target
 )
- 
+
 return
 ;
 
- 
+
 freeze
 (
 )
 ;
 
- 
+
 onSelect
 (
 await
- 
+
 getElementContext
 (
 target
@@ -1321,58 +1321,58 @@ target
 )
 ;
 
- 
+
 unfreeze
 (
 )
 ;
 
- 
+
 }
 ;
 
- 
+
 const
- 
+
 teardown
- 
+
 =
- 
+
 (
 )
- 
+
 =>
- 
+
 {
 
- 
+
 document
 .
 removeEventListener
 (
 "mousemove"
 ,
- 
+
 handleMouseMove
 )
 ;
 
- 
+
 document
 .
 removeEventListener
 (
 "click"
 ,
- 
+
 handleClick
 ,
- 
+
 true
 )
 ;
 
- 
+
 highlightOverlay
 .
 remove
@@ -1380,55 +1380,55 @@ remove
 )
 ;
 
- 
+
 setIsActive
 (
 false
 )
 ;
 
- 
+
 }
 ;
 
- 
+
 document
 .
 addEventListener
 (
 "mousemove"
 ,
- 
+
 handleMouseMove
 )
 ;
 
- 
+
 document
 .
 addEventListener
 (
 "click"
 ,
- 
+
 handleClick
 ,
- 
+
 true
 )
 ;
 
- 
+
 }
 ;
 
- 
+
 return
- 
+
 {
  isActive
 ,
- startSelecting 
+ startSelecting
 }
 ;
 
@@ -1436,36 +1436,36 @@ return
 ;
 
 const
- 
+
 ElementSelector
- 
+
 =
- 
+
 (
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 [
 context
 ,
- 
+
 setContext
 ]
- 
+
 =
- 
+
 useState
 <
 ReactGrabElementContext
- 
+
 |
- 
+
 null
 >
 (
@@ -1473,33 +1473,33 @@ null
 )
 ;
 
- 
+
 const
- 
+
 selector
- 
+
 =
- 
+
 useElementSelector
 (
 setContext
 )
 ;
 
- 
+
 return
- 
+
 (
 
- 
+
 <
 div
 >
 
- 
+
 <
 button
- 
+
 onClick
 =
 {
@@ -1507,7 +1507,7 @@ selector
 .
 startSelecting
 }
- 
+
 disabled
 =
 {
@@ -1517,40 +1517,40 @@ isActive
 }
 >
 
- 
+
 {
 selector
 .
 isActive
- ? 
+ ?
 "Selecting…"
- : 
+ :
 "Select Element"
 }
 
- 
+
 </
 button
 >
 
- 
+
 {
 context
- 
+
 &&
- 
+
 (
 
- 
+
 <
 div
 >
 
- 
+
 <
 p
 >
-Component: 
+Component:
 {
 context
 .
@@ -1560,11 +1560,11 @@ componentName
 p
 >
 
- 
+
 <
 p
 >
-Selector: 
+Selector:
 {
 context
 .
@@ -1574,7 +1574,7 @@ selector
 p
 >
 
- 
+
 <
 pre
 >
@@ -1587,28 +1587,28 @@ stackString
 pre
 >
 
- 
+
 <
 button
 
- 
+
 onClick
 =
 {
 (
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 frame
- 
+
 =
- 
+
 context
 .
 stack
@@ -1617,56 +1617,56 @@ stack
 ]
 ;
 
- 
+
 if
- 
+
 (
 frame
 ?.
 fileName
 )
- 
+
 openFile
 (
 frame
 .
 fileName
 ,
- 
+
 frame
 .
 lineNumber
 )
 ;
 
- 
+
 }
 }
 
- 
+
 >
 
  Open in Editor
- 
+
 </
 button
 >
 
- 
+
 </
 div
 >
 
- 
+
 )
 }
 
- 
+
 </
 div
 >
 
- 
+
 )
 ;
 
@@ -1715,53 +1715,53 @@ react-grab.com
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 5.7k
 
  stars
- 
+
 
 ### Watchers
 
 12
 
  watching
- 
+
 
 ### Forks
 
 262
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Contributors
 
@@ -1769,9 +1769,9 @@ Activity
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

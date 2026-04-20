@@ -18,7 +18,7 @@ tags:
 
 April 9, 2026 · Austin Ginder
 
- 
+
 
 Last week, I wrote about catching a supply chain attack on a WordPress plugin called Widget Logic. A trusted name, acquired by a new owner, turned into something malicious. It happened again. This time at a much larger scale.
 
@@ -231,7 +231,7 @@ The process is straightforward with Claude Code. Point it at this article for co
 4. Zip and install withwp plugin install your-plugin-patched.zip --force
 
 Check your wp-config.php
-The malware appends itself on the same line as 
+The malware appends itself on the same line as
 require_once ABSPATH . wp-settings.php;
  so it is easy to miss with a quick glance. If your file is significantly larger than expected (the injected payload adds about 6KB), the site was actively compromised and needs a full cleanup beyond just patching the plugin.
 

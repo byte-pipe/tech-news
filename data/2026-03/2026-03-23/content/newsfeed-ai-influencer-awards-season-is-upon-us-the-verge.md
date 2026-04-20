@@ -27,8 +27,8 @@ Entries are judged on their ‘authentic narrative’ and whether they have the 
 Entries are judged on their ‘authentic narrative’ and whether they have the right number of fingers.
 
 by
- 
- 
+
+
 Robert Hart
 Mar 23, 2026, 12:01 AM UTC
 * Link
@@ -36,10 +36,10 @@ Mar 23, 2026, 12:01 AM UTC
 * Gift
 Image: The Verge
 Robert Hart
- 
-is a London-based reporter at 
+
+is a London-based reporter at
 The Verge
- covering all things AI and Senior Tarbell Fellow. Previously, he wrote about health, science and tech for 
+ covering all things AI and Senior Tarbell Fellow. Previously, he wrote about health, science and tech for
 Forbes
 .
 
@@ -87,19 +87,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

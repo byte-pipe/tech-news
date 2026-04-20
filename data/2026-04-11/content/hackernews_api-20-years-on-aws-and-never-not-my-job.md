@@ -24,7 +24,7 @@ Tarsnap
 later — and the idea of an online storage service appealed to me.
 The fact that it was a web service made it even more appealing; I had
 been building web services since 1998, when I decided that coordinating
-a 
+a
 world-record-setting
 computation of Pi
  over HTTP would be easier than doing it over

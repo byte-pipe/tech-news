@@ -28,7 +28,7 @@ I love it also because it's neon and fun and completely personalized.
 What do you think? Have you tried something like this?
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -39,6 +39,6 @@ Preview
 Dismiss
 
  View full discussion (21 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

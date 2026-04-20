@@ -64,17 +64,17 @@ DoorDash is also launchingDoorDash Dot, a robot that delivers food to you rather
 Looking for a new job with flexibility or a side gig? If you become a DoorDash Dasher, you can get major benefits. Whether you’re biking, driving, or delivering full-time, Dasher discounts can help you save as you earn money with deliveries. Dashers can access exclusive discounts from things like gas and auto care, to health benefits, phone plans, and tax tools. Plus, Dashers can save even more on purchases and get rewards with the DoorDash Crimson Visa Debit Card.
 
 Molly Higgins
- is WIRED's Commerce Production and Operations Coordinator. She tests 
+ is WIRED's Commerce Production and Operations Coordinator. She tests
 mattresses
-, 
+,
 cat gadgets
-, 
+,
 pet hair vacuums
-, 
+,
 vegan meal kits
-, and helps oversee our 
+, and helps oversee our
 coupon program
-. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ... 
+. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ...
 Read More
 Commerce Production and Operations Coordinator
 * LinkedIn
@@ -104,13 +104,13 @@ Use a Mattress Firm promo code to save on top mattresses, score a free adjustabl
 Julia Forbes
 The Best Pajamas for Women, Ranked
 After testing 100-plus sets, these are the sleepwear brands that earned permanent spots in my closet and my bed.
-Boutayna Chokrane 
+Boutayna Chokrane
 What Is Creatine, and Should You Be Taking It?
 It’s the most studied supplement in sports medicine, but it’s not just for athletes anymore.
-Boutayna Chokrane 
+Boutayna Chokrane
 How to Choose the Best Electric Toothbrush for Sensitive Teeth and Gums
 How to choose a toothbrush that protects your smile and gum health.
-Boutayna Chokrane 
+Boutayna Chokrane
 What to Know About At-Home STI Tests: Benefits and Drawbacks Explained
 It’s easier than ever to test for sexually transmitted infections at home. We break down whether you should.
 Louryn Strampe

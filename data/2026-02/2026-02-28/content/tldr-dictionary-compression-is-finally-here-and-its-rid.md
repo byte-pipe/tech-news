@@ -25,7 +25,7 @@ browsers
 # Dictionary Compression is finally here, and it's ridiculously good
 
 February 2026
-Author: 
+Author:
 Tim Perry
 opens in a new tab
 GO BACK TO BLOG

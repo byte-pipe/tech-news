@@ -82,7 +82,7 @@ Of course, at the same time, it’s not always safe to be visible. And it’s im
 If you’re someone from a gender minority in tech: I see you, and I celebrate you. You are enough, and you are skilled. When you’re doubting yourself, remember: You’ve come this far, and you’ve got this. And that it’s ok to rest as well, you don’t have to always fight.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

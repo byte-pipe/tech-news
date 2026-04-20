@@ -62,17 +62,17 @@ Amazon recently filed a petition asking the FCC to deny SpaceX’s request to la
 Carr was referring to a previous Amazon request for a two-year deadline extension. Amazon was supposed to launch half of its constellation by July 30, 2026, buttold the FCCin January that “Amazon Leo is producing satellites considerably faster than others can launch them.”
 
  Jon Brodkin
- 
+
 
 Senior IT Reporter
 
  Jon Brodkin
- 
+
 
 Senior IT Reporter
 
  Jon is a Senior IT Reporter for Ars Technica. He covers the telecom industry, Federal Communications Commission rulemakings, broadband consumer affairs, court cases, and government regulation of the tech industry.
- 
+
 
 1. 1.Sony killing features for antenna, set-top box users of Bravia smart TVs in May
 2. 2.Google will begin punishing sites for back button hijacking in June

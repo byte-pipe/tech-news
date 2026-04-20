@@ -11,7 +11,7 @@ description: An open-source remote desktop application designed for self-hosting
 
 rustdesk
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork16.7k
 * Star112k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -242,22 +242,22 @@ cd
  vcpkg/buildtrees/libvpx/src
 
 cd
- 
+
 *
 
 ./configure
-sed -i 
+sed -i
 '
 s/CFLAGS+=-I/CFLAGS+=-fPIC -I/g
 '
  Makefile
-sed -i 
+sed -i
 '
 s/CXXFLAGS+=-I/CXXFLAGS+=-fPIC -I/g
 '
  Makefile
 make
-cp libvpx.a 
+cp libvpx.a
 $HOME
 /vcpkg/installed/x64-linux/lib/
 
@@ -265,16 +265,16 @@ cd
 
 ### Build
 
-curl --proto 
+curl --proto
 '
 =https
 '
- --tlsv1.2 -sSf https://sh.rustup.rs 
+ --tlsv1.2 -sSf https://sh.rustup.rs
 |
  sh
 
 source
- 
+
 $HOME
 /.cargo/env
 git clone --recurse-submodules https://github.com/rustdesk/rustdesk
@@ -297,16 +297,16 @@ git clone https://github.com/rustdesk/rustdesk
 cd
  rustdesk
 git submodule update --init --recursive
-docker build -t 
+docker build -t
 "
 rustdesk-builder
 "
- 
+
 .
 
 Then, each time you need to build the application, run the following command:
 
-docker run --rm -it -v 
+docker run --rm -it -v
 $PWD
 :/home/user/rustdesk -v rustdesk-git-cache:/home/user/.cargo/git -v rustdesk-registry-cache:/home/user/.cargo/registry -e PUID=
 "
@@ -398,63 +398,63 @@ rustdesk.com
 
  Readme
 
- 
+
 
 ### License
 
  AGPL-3.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 112k
 
  stars
- 
+
 
 ### Watchers
 
 577
 
  watching
- 
+
 
 ### Forks
 
 16.7k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases36
 
@@ -462,11 +462,11 @@ Activity
 
  Latest
 
- 
+
 
 Mar 5, 2026
 
- 
+
 
 + 35 releases
 
@@ -476,11 +476,11 @@ Mar 5, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * ko-fi.com/rustdesk
 
 Learn more about GitHub Sponsors
@@ -497,9 +497,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -507,9 +507,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

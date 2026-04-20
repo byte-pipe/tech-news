@@ -11,7 +11,7 @@ description: Model-rocketry aerodynamics and trajectory simulation software - op
 
 openrocket
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork568
 * Star2k
 
- 
- 
- 
+
+
+
  
 unstable
 Branches
@@ -250,7 +250,7 @@ openrocket/openrocket-database
 
 Data enhancement
 
-Expanded parts catalog (originally 
+Expanded parts catalog (originally
 dbcook/openrocket-database
 )
 
@@ -266,7 +266,7 @@ openrocket/orhelper
 
 Integration (Python)
 
-Python scripting/module for OpenRocket (via JPype) (forked from 
+Python scripting/module for OpenRocket (via JPype) (forked from
 SilentSys/orhelper
 )
 
@@ -274,7 +274,7 @@ RocketPy-Team/RocketSerializer
 
 Integration (Python)
 
-Convert 
+Convert
 .ork
  files to RocketPy-compatible formats
 
@@ -311,7 +311,7 @@ Engine modeling (Python)
 Liquid-engine generator for OpenRocket
 
 WPI-HPRC/ORBrake
- 
+
 (archived)
 
 Plugin (Java)
@@ -350,7 +350,7 @@ FreeCAD Rocket Workbench
 
 CAD workbench
 
-A rocket design workbench for FreeCAD that can import OpenRocket 
+A rocket design workbench for FreeCAD that can import OpenRocket
 .ork
  files
 
@@ -439,61 +439,61 @@ openrocket.info/
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 2k
 
  stars
- 
+
 
 ### Watchers
 
 63
 
  watching
- 
+
 
 ### Forks
 
 568
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases44
 
@@ -501,11 +501,11 @@ OpenRocket 24.12 (2025-07-27)
 
  Latest
 
- 
+
 
 Jul 27, 2025
 
- 
+
 
 + 43 releases
 
@@ -515,11 +515,11 @@ Jul 27, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * opencollective.com/openrocket
 
 ## Packages0
@@ -534,17 +534,17 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -552,9 +552,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -17,7 +17,7 @@ tags:
 
 # Anthropic admits Claude Code users hitting usage limits 'way faster than expected'
 
- 
+
 
 ## Unexpected quota drain prompts complaints, breaks automated workflows
 
@@ -52,10 +52,10 @@ Bugs aside, what we are seeing is an implicit negotiation between users and prov
 
 "For folks running Claude Code in automated workflows: rate-limit errors need to be caught explicitly – they look like generic failures and will silently trigger retries. One session in a loop can drain your daily budget in minutes,"observedone user. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

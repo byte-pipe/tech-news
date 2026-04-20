@@ -61,6 +61,6 @@ Where we’ll talk about this story, the latest in AI, the week’s podcast, and
 ## This post is for paid subscribers
 
 Subscribe
-Already a paid subscriber? 
+Already a paid subscriber?
 Sign in
 Previous

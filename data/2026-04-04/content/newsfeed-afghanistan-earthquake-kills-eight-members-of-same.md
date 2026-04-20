@@ -30,11 +30,11 @@ google
 Add Al Jazeera on Google
 info
 An Afghan man clears rubble from the courtyard of his damaged house, in the aftermath of an earthquake at a village in the Khulm district of Samangan province on November 4, 2025 [File: AFP]
-By 
+By
 AFP
-, 
+,
 AP
- and 
+ and
 Reuters
 Published On 4 Apr 2026
 4 Apr 2026

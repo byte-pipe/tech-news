@@ -40,7 +40,7 @@ Heuermann was first charged in the murders of seven women, but on Wednesday he p
 After initially pleading not-guilty, Heuermann ultimately pleaded to the murders of: Melissa Barthelemy, 24, Megan Waterman, 22, and Amber Costello, 27, Maureen Brainard-Barnes, 25, Jessica Taylor, 20, Valerie Mack, 24, Sandra Costilla, 28 andKaren Vergata, 34.
 
 Getty Images
-In court on Wedneday, dressed in a black suit, Heuermann stood alongside his attorney and pleaded guilty to the murders of eight women 
+In court on Wedneday, dressed in a black suit, Heuermann stood alongside his attorney and pleaded guilty to the murders of eight women
 
 Heuermann's victims are all believed to be sex workers at the time of their death, some of them contacted by him through their advertisements on Craigslist.
 

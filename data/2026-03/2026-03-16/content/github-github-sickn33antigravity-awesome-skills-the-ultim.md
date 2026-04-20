@@ -11,7 +11,7 @@ description: The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Ant
 
 sickn33
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork4.3k
 * Star24.8k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -245,9 +245,9 @@ CLI
 
 (Auto) Skills load on-demand
 
-Global: 
+Global:
 ~/.kiro/skills/
- · Workspace: 
+ · Workspace:
 .kiro/skills/
 
 Kiro IDE
@@ -256,9 +256,9 @@ IDE
 
 /skill-name or (Auto)
 
-Global: 
+Global:
 ~/.kiro/skills/
- · Workspace: 
+ · Workspace:
 .kiro/skills/
 
 Antigravity
@@ -267,9 +267,9 @@ IDE
 
 (Agent Mode) Use skill...
 
-Global: 
+Global:
 ~/.gemini/antigravity/skills/
- · Workspace: 
+ · Workspace:
 .agent/skills/
 
 Cursor
@@ -323,13 +323,13 @@ npx antigravity-awesome-skills
 1. Verify the default install:
 
 test
- -d 
+ -d
 ~
-/.gemini/antigravity/skills 
+/.gemini/antigravity/skills
 &&
- 
+
 echo
- 
+
 "
 Skills installed
 "
@@ -574,9 +574,9 @@ Architecture
 System design, ADRs, C4, and scalable patterns
 
 architecture
-, 
+,
 c4-context
-, 
+,
 senior-architect
 
 Business
@@ -584,9 +584,9 @@ Business
 Growth, pricing, CRO, SEO, and go-to-market
 
 copywriting
-, 
+,
 pricing-strategy
-, 
+,
 seo-audit
 
 Data & AI
@@ -594,9 +594,9 @@ Data & AI
 LLM apps, RAG, agents, observability, analytics
 
 rag-engineer
-, 
+,
 prompt-engineer
-, 
+,
 langgraph
 
 Development
@@ -604,9 +604,9 @@ Development
 Language mastery, framework patterns, code quality
 
 typescript-expert
-, 
+,
 python-patterns
-, 
+,
 react-patterns
 
 General
@@ -614,9 +614,9 @@ General
 Planning, docs, product ops, writing, guidelines
 
 brainstorming
-, 
+,
 doc-coauthoring
-, 
+,
 writing-plans
 
 Infrastructure
@@ -624,9 +624,9 @@ Infrastructure
 DevOps, cloud, serverless, deployment, CI/CD
 
 docker-expert
-, 
+,
 aws-serverless
-, 
+,
 vercel-deployment
 
 Security
@@ -634,9 +634,9 @@ Security
 AppSec, pentesting, vuln analysis, compliance
 
 api-security-best-practices
-, 
+,
 sql-injection-testing
-, 
+,
 vulnerability-scanner
 
 Testing
@@ -644,9 +644,9 @@ Testing
 TDD, test design, fixes, QA workflows
 
 test-driven-development
-, 
+,
 testing-patterns
-, 
+,
 test-fixing
 
 Workflow
@@ -654,9 +654,9 @@ Workflow
 Automation, orchestration, jobs, agents
 
 workflow-automation
-, 
+,
 inngest
-, 
+,
 trigger-dev
 
 Counts change as new skills are added. For the current full registry, seeCATALOG.md.
@@ -700,7 +700,7 @@ docs/users/visual-guide.md
 docs/contributors/examples.md
 
 docs/maintainers/skills-update-guide.md
- · 
+ ·
 .github/MAINTENANCE.md
 
 ## Troubleshooting
@@ -997,58 +997,58 @@ github.com/sickn33/antigravity-awesome-skills
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 24.8k
 
  stars
- 
+
 
 ### Watchers
 
 225
 
  watching
- 
+
 
 ### Forks
 
 4.3k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases81
 
@@ -1056,11 +1056,11 @@ v7.9.2 "npm CLI Packaging Fix"
 
  Latest
 
- 
+
 
 Mar 15, 2026
 
- 
+
 
 + 80 releases
 
@@ -1076,9 +1076,9 @@ Mar 15, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors121
 

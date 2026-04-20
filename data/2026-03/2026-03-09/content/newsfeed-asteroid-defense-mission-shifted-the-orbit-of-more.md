@@ -77,17 +77,17 @@ By performing independent, in-situ measurements of things like the density of Di
 Science Advances, 2026.  DOI:10.1126/sciadv.aea4259
 
  Jacek Krywko
- 
+
 
 Associate Writer
 
  Jacek Krywko
- 
+
 
 Associate Writer
 
  Jacek Krywko is a freelance science and technology writer who covers space exploration, artificial intelligence research, computer science, and all sorts of engineering wizardry.
- 
+
 
 1. 1.Satellite firm pauses imagery after revealing Iran's attacks on US bases
 2. 2.Asteroid defense mission shifted the orbit of more than its target

@@ -133,10 +133,10 @@ If you're eager to try out a rust QUIC multipath implementation,
 take a look at the documentation for amultipath noq Connection.
 
 Iroh is a dial-any-device networking library that just works. Compose from an ecosystem of ready-made protocols to get the features you need, or go fully custom on a clean abstraction over dumb pipes. Iroh is open source, and already running in production on hundreds of thousands of devices.
-To get started, take a look at our 
+To get started, take a look at our
 docs
-, dive directly into 
+, dive directly into
 the code
-, or chat with us in our 
+, or chat with us in our
 discord channel
 .

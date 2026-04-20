@@ -79,7 +79,7 @@ Questions about the challenge?Ask them below!
 We look forward to celebrating your voice and your code 💜
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -90,7 +90,7 @@ Preview
 Dismiss
 
  View full discussion (28 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

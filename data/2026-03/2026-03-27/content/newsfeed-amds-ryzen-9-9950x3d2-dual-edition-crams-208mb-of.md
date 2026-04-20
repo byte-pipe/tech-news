@@ -31,19 +31,19 @@ But the Ryzen 9000 series has steadily eroded the downsides of older Ryzen 5000 
 The Ryzen 9950X3D2 Dual Edition will be available starting April 22.
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
- Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called 
+ Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called
 Overdue
 .
- 
+
 
 1. 1.Elon Musk loses big in court; X boycott perfectly legal
 2. 2.Netflix raises prices for every subscription tier by up to 12.5 percent

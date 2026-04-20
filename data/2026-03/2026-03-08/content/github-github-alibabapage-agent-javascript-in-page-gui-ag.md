@@ -11,7 +11,7 @@ description: JavaScript in-page GUI agent. Control web interfaces with natural l
 
 alibaba
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork115
 * Star1.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -119,10 +119,10 @@ View all files
 
 # Page Agent
 
- 
- 
- 
- 
+
+
+
+
 
 The GUI Agent Living in Your Webpage. Control web interfaces with natural language.
 
@@ -160,11 +160,11 @@ Fastest way to try PageAgent with our free Demo LLM:
 
 <
 script
- 
+
 src
 ="
 {URL}
-" 
+"
 crossorigin
 ="
 true
@@ -193,50 +193,50 @@ https://registry.npmmirror.com/page-agent/1.5.2/files/dist/iife/page-agent.demo.
 npm install page-agent
 
 import
- 
+
 {
- 
+
 PageAgent
- 
+
 }
- 
+
 from
- 
+
 'page-agent'
 
 const
- 
+
 agent
- 
+
 =
- 
+
 new
- 
+
 PageAgent
 (
 {
 
- 
+
 model
-: 
+:
 'qwen3.5-plus'
 ,
 
- 
+
 baseURL
-: 
+:
 'https://dashscope.aliyuncs.com/compatible-mode/v1'
 ,
 
- 
+
 apiKey
-: 
+:
 'YOUR_API_KEY'
 ,
 
- 
+
 language
-: 
+:
 'en-US'
 ,
 
@@ -244,7 +244,7 @@ language
 )
 
 await
- 
+
 agent
 .
 execute
@@ -315,61 +315,61 @@ alibaba.github.io/page-agent/
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.2k
 
  stars
- 
+
 
 ### Watchers
 
 6
 
  watching
- 
+
 
 ### Forks
 
 115
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases15
 
@@ -377,11 +377,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Mar 5, 2026
 
- 
+
 
 + 14 releases
 
@@ -389,9 +389,9 @@ Mar 5, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors6
 

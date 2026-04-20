@@ -1,7 +1,7 @@
 ---
 title: GitHub - openai/openai-agents-python: A lightweight, powerful framework for multi-agent workflows · GitHub
 url: https://github.com/openai/openai-agents-python
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-16T12:06:02.397242

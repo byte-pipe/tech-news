@@ -77,7 +77,7 @@ Now we also need to review code written by something that sounds like a senior e
 I’d love to hear real examples from the community.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -88,6 +88,6 @@ Preview
 Dismiss
 
  View full discussion (20 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

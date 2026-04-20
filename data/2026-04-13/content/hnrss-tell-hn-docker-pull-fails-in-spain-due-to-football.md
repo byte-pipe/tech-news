@@ -14,33 +14,33 @@ tags:
 
 Hacker News
 new
- | 
+ |
 past
- | 
+ |
 comments
- | 
+ |
 ask
- | 
+ |
 show
- | 
+ |
 jobs
- | 
+ |
 submit
 login
 Tell HN: Docker pull fails in Spain due to football Cloudflare block
 961 points
- by 
+ by
 littlecranky67
- 
+
 23 hours ago
- 
- | 
+
+ |
 hide
- | 
+ |
 past
- | 
+ |
 favorite
- | 
+ |
 353 comments
 I just spent 1h+ debugging why my locally-hosted gitlab runner would fail to create pipelines. The gitlab job output would just display weird TLS errors when trying to pull a docker images. After debugging gitlab and the runner, I realized after a while I could not even run "docker pull <image>" on my machine as root:
 
@@ -51,12 +51,12 @@ https://www.laliga.com/noticias/nota-informativa-en-relacion-con-el-bloqueo-de-i
 help
 
 danirod
- 
+
 21 hours ago
- 
- | 
+
+ |
 next
- 
+
 [–]
 
 Heh, lucky you, at least you get a message. My ISP just drops traffic to the affected IPs. No ping, no traceroute, just a spinner in the browser until it says "page not found".
@@ -66,14 +66,14 @@ Every response and comment from LaLiga, the football organization responsible fo
 reply
 
 pxc
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Heh, lucky you, at least you get a message. My ISP just drops traffic to the affected IPs. No ping, no traceroute, just a spinner in the browser until it says "page not found".
@@ -83,16 +83,16 @@ This is generally how the GFW works in China. Instead of an overbearing nanny li
 reply
 
 goodcanadian
- 
+
 10 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This is generally how the GFW works in China. Instead of an overbearing nanny like a school or corporation's DNS blocker, you're left with a sense that you're on a version of the Internet that is just intermittently and somewhat mysteriously broken.
@@ -102,18 +102,18 @@ Oh boy, an excuse to share my favourite great firewall story on a visit to China
 reply
 
 RiverCrochet
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Your last paragraph: it is sad. But we had successful global networks before the Internet (the PSTN, telegraph) and we'll certainly have global networks after this at some point in human history. Perhaps in the the time between the Internet and what's next, the world will become a bit more mature about a few things.
@@ -121,16 +121,16 @@ Your last paragraph: it is sad. But we had successful global networks before the
 reply
 
 Spooky23
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Those predecessor networks weren’t problem free. Many conversations to “interesting” places were monitored.
@@ -140,18 +140,18 @@ The counter-reaction to this era will include additional communication control.
 reply
 
 jazzyjackson
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 this is teleological thinking. it's not necessarily the case that things get better over time.
@@ -159,16 +159,16 @@ this is teleological thinking. it's not necessarily the case that things get bet
 reply
 
 dingnuts
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 there's a lot of evidence things do generally get better over time, though. Jon Haidt and his ilk... I forget all involved... have done research into it
@@ -178,18 +178,18 @@ obviously it can be bumpy and maybe there's a Great Filter or you happen to live
 reply
 
 mschuster91
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > But we had successful global networks before the Internet (the PSTN, telegraph)
@@ -199,16 +199,16 @@ These were ripe with espionage, wiretapping and sabotage. Access to it used to b
 reply
 
 RiverCrochet
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > These were ripe with espionage, wiretapping and sabotage.
@@ -218,18 +218,18 @@ Just like today's Internet. BGP spoofing, CALEA, DDoS.> Access to it used to be 
 reply
 
 angry_octet
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Surely this was simply the nature of Deutsche Bundespost / Deutsche Telekom? Like, of course you had to use hardware they had approved to connect to their network.
@@ -239,18 +239,18 @@ This was the same in many places. The cost of hardware and connection time limit
 reply
 
 sneak
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 There was also no way for a normal person to easily and cheaply communicate with 20 million people in realtime.
@@ -258,18 +258,18 @@ There was also no way for a normal person to easily and cheaply communicate with
 reply
 
 nrds
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > a version of the Internet that is just intermittently and somewhat mysteriously broken.
@@ -279,16 +279,16 @@ That's actually just how the Internet is. Nothing to do with the great firewall.
 reply
 
 freetanga
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 All people affected should file a complaint with your ISP and with Oficina de Atención al Usuario de Telecomunicaciones claiming financial loss for arbitrary service censorship.
@@ -296,16 +296,16 @@ All people affected should file a complaint with your ISP and with Oficina de At
 reply
 
 embedding-shape
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I've been filing complaints since a year ago, told others to do the same too, nothing happens. There been moments I've meant to deploy fixes to issues but I cannot, because some tooling goes offline.
@@ -315,35 +315,35 @@ I've claimed financial loss, claimed sanity loss and everything in-between, but 
 reply
 
 ryandrake
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-Whenever I get a little down over how much power unelected corporations have in my country, I can at least cheer myself up a little by being thankful that something as stupid as 
+Whenever I get a little down over how much power unelected corporations have in my country, I can at least cheer myself up a little by being thankful that something as stupid as
 football
  doesn't have enough power here to control whether or not I have internet access.
 
 reply
 
 necovek
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 La Liga is basically operating like an "unelected corporation" as well.
@@ -351,18 +351,18 @@ La Liga is basically operating like an "unelected corporation" as well.
 reply
 
 embedding-shape
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Ignorance is a bliss, agree :) Sometimes we all need to force ourselves into that so we can get a bit more joy.
@@ -370,18 +370,18 @@ Ignorance is a bliss, agree :) Sometimes we all need to force ourselves into tha
 reply
 
 sneak
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It would if it were bigger business in your country. Try torrenting an MCU movie and see what happens to your ISP account.
@@ -389,16 +389,16 @@ It would if it were bigger business in your country. Try torrenting an MCU movie
 reply
 
 bombcar
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Someone in Texas torrenting an MCU slop doesn’t disconnect me from half the Internet.
@@ -406,18 +406,18 @@ Someone in Texas torrenting an MCU slop doesn’t disconnect me from half the In
 reply
 
 voidUpdate
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 In my experience, nothing...
@@ -425,18 +425,18 @@ In my experience, nothing...
 reply
 
 fn-mote
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Out of curiosity, what does happen?
@@ -444,16 +444,16 @@ Out of curiosity, what does happen?
 reply
 
 Semaphor
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 AFAIK not much in most of the world, in Germany you get a letter from lawyers wanting ~1000 EUR
@@ -461,16 +461,16 @@ AFAIK not much in most of the world, in Germany you get a letter from lawyers wa
 reply
 
 SturgeonsLaw
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 In Australia the court ruled that they can only sue for the cost of renting the movie, so they don't bother trying to recoup their ten bucks
@@ -478,16 +478,16 @@ In Australia the court ruled that they can only sue for the cost of renting the 
 reply
 
 iamtedd
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's interesting. Do you have further reading? I've seen AFACT v iiNet, but that doesn't look to be the source of "cost of renting", just that the ISP isn't responsible for their users.
@@ -495,18 +495,18 @@ That's interesting. Do you have further reading? I've seen AFACT v iiNet, but th
 reply
 
 dariosalvi78
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 these things need to be brought to an international court who would require the government to act. Otherwise nothing happens, because institutions are completely corrupt.
@@ -516,18 +516,18 @@ It takes time, money and a strong legal team, but maybe IT companies maybe can p
 reply
 
 drnick1
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If this is done at the DNS level, run your own DNS. If not, use a VPN. Taking this to the courts is a long term solution, but in the short term you want to act on your own to evade censorship and oppression.
@@ -535,16 +535,16 @@ If this is done at the DNS level, run your own DNS. If not, use a VPN. Taking th
 reply
 
 gschizas
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > run your own DNS
@@ -554,16 +554,16 @@ Can you expand on that? How would you go about running your own DNS that wouldn'
 reply
 
 martheen
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 If it's purely DNS blocking (no IP redirection or blocking), your own recursive resolver (eg, unbound) shouldn't be affected, assuming the ISP doesn't also intercept unencrypted DNS queries. If there's also interception, encrypted DNS upstream might help (assuming they're not blocked entirely, repressive countries do this, so far not in EU)
@@ -573,18 +573,18 @@ I don't think any of them will help in Spain case though, I believe the ISP/cour
 reply
 
 rock_artist
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If anyone who’s capable in Spain set a petition or the relevant steps and put it on HN. I’m pretty sure any Spanish resident in HN would be more than happy to take part even if it means to send a Bizum for the cause.
@@ -594,40 +594,40 @@ If anyone who’s capable in Spain set a petition or the relevant steps and put 
 reply
 
 lentil_soup
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-how do you make claims, here: 
+how do you make claims, here:
 https://usuariosteleco.digital.gob.es/
 ? Can't find a way of doing it with Cl@ve
 
 reply
 
 embedding-shape
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-I've used this: 
+I've used this:
 https://usuariosteleco.digital.gob.es/reclamaciones/telefoni...
 
 Used my digital certificate (which is installed in the browser), but AFAIK, you can use Cl@ve on that page above too.In the past, I've cited BOE-A-2022-10757 (https://www.boe.es/buscar/act.php?id=BOE-A-2022-10757), done a reclamació for the repeated loss of lawful access on my connection, and a denúncia about a broader overblocking practice affecting access to lawful services.Also, supposedly, we should be able to make claims to CNMC as well, but haven't figured out how. Also of course, been complaining to my ISP every time it happens too.
@@ -635,38 +635,38 @@ Used my digital certificate (which is installed in the browser), but AFAIK, you 
 reply
 
 GranPC
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-I think this is it: 
+I think this is it:
 https://reg.redsara.es/#login
 
 reply
 
 madaxe_again
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It’s football. I’m pretty sure there are a great many countries you could induce to do insane things if the populace could be made to believe that said insane things will help football.
@@ -676,18 +676,18 @@ I mean, didn’t El Salvador and Honduras go to war over football back in the 60
 reply
 
 emptysongglass
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Because the EU as a whole is quite happy to censor and generally wield the same tricks as "non-Western" countries in their desires to combat misinformation (however our EU bureaucrats define it), child abuse materials (see Chat Control that thing is not going to go away), and hatred (oh boy).
@@ -697,16 +697,16 @@ We've never guaranteed the right to free speech and because we haven't it's a sl
 reply
 
 megous
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Not sure why you get downvoted. EU censors quite a bit. I can't read about 10 Telegram channels that I could access just 3 years ago, and the list is growing.
@@ -717,18 +717,18 @@ Some people deemed "russian assets" are not just censored, but stripped of abili
 reply
 
 loloquwowndueo
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It would be great if there was a webpage with clear instructions on how to do this, maybe fill out a few questions and get a printable pdf you can mail, or at least telling you how to file an online complaint. Making complaints very low friction will lead to more of those and perhaps more attention to the issue.
@@ -738,16 +738,16 @@ Snail mail uses up physical space so it might get more attention, it would be hi
 reply
 
 embedding-shape
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > It would be great if there was a webpage with clear instructions on how to do this, maybe fill out a few questions and get a printable pdf you can mail, or at least telling you how to file an online complaint. Making complaints very low friction will lead to more of those and perhaps more attention to the issue.
@@ -757,18 +757,18 @@ This is a great idea, we definitively should make this happen! If people are cur
 reply
 
 bakugo
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Sadly, it won't accomplish anything. La Liga seems to have enough political power in the country to bury all of that. Probably bribing everyone involved.
@@ -776,16 +776,16 @@ Sadly, it won't accomplish anything. La Liga seems to have enough political powe
 reply
 
 cluckindan
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Corruption at that level could mean organized crime. Is there a culture of betting through illegal bookies, are they fixing matches, or ¿porque no los dos?
@@ -793,16 +793,16 @@ Corruption at that level could mean organized crime. Is there a culture of betti
 reply
 
 hdgvhicv
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 FIFA makes the mafia look like a bake sale committee
@@ -810,18 +810,18 @@ FIFA makes the mafia look like a bake sale committee
 reply
 
 hunterpayne
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 No, its worse than that. If you wish, learn about FIFA and how it works. At least the mafia fears the government somewhat...FIFA doesn't.
@@ -829,18 +829,18 @@ No, its worse than that. If you wish, learn about FIFA and how it works. At leas
 reply
 
 embedding-shape
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Well, I think when the organized crime is registered as proper businesses and they have the judges on their side even if the law isn't, I think we just call that "for-profit capitalism" nowadays.
@@ -848,18 +848,18 @@ Well, I think when the organized crime is registered as proper businesses and th
 reply
 
 dualvariable
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 penalti para el real madrid!
@@ -867,18 +867,18 @@ penalti para el real madrid!
 reply
 
 pixl97
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yep, flood them with complaints.
@@ -886,18 +886,18 @@ Yep, flood them with complaints.
 reply
 
 bluecalm
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's Spain man. Nothing will happen, maybe they will call their buddies in La Liga to ask what's up if the complains pile up and then will ignore all of them if they are assured everything works as expected.
@@ -905,18 +905,18 @@ It's Spain man. Nothing will happen, maybe they will call their buddies in La Li
 reply
 
 estebarb
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 At this point the protests should be against the matches themselves. But let's be honest: nobody cares anymore.
@@ -924,16 +924,16 @@ At this point the protests should be against the matches themselves. But let's b
 reply
 
 xp84
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Who cares if she can’t find her elderly father? A small price to pay to preserve the stratospheric prices on football TV rights!!!!
@@ -941,16 +941,16 @@ Who cares if she can’t find her elderly father? A small price to pay to preser
 reply
 
 vasco
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The thing is it doesn't protect anything. All it does is funnel money to VPN providers
@@ -958,16 +958,16 @@ The thing is it doesn't protect anything. All it does is funnel money to VPN pro
 reply
 
 the_gipsy
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's ridiculous and wrong what LaLiga does. But it's also a weakeup call to consider ditching cloudflare's centralization.
@@ -975,16 +975,16 @@ It's ridiculous and wrong what LaLiga does. But it's also a weakeup call to cons
 reply
 
 estebank
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The companies relying on cloudflare won't be in Spain. If you buy a GPS tracker by a Canadian company, developed in India, manufactured in China, they are unlikely to know, even it they cared, that a single country that accounts for a tiny percentage of their sales breaks fundamental internet infrastructure on the regular "because fútbol y dinero".
@@ -994,16 +994,16 @@ And when purchasing a product, there's no "bill of materials" telling you about 
 reply
 
 otabdeveloper4
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > breaks fundamental internet infrastructure
@@ -1013,18 +1013,18 @@ I think lots of countries block Cloudflare whole-sale.Laundering IP addresses fo
 reply
 
 encom
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 >fundamental internet infrastructure
@@ -1034,16 +1034,16 @@ I'm not saying this situation isn't bullshit, but the bigger problem is that Clo
 reply
 
 embedding-shape
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > This is precisely the situation that the internet was designed to prevent
@@ -1053,16 +1053,16 @@ Right, but on the other hand, our constitution and laws are supposed to give us 
 reply
 
 rightofcourse
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The LaLiga post seem to accuse Cloudflare of unlawful activity directly by protecting criminals, not just the illegal streamers. At least my reading (of Google translation) is that they target Cloudflare here and it works "as expected" since Cloudflare is the bad guys.
@@ -1070,39 +1070,39 @@ The LaLiga post seem to accuse Cloudflare of unlawful activity directly by prote
 reply
 
 bombcar
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-I’d love for a way to put all my sites behind Cloudflare 
+I’d love for a way to put all my sites behind Cloudflare
 only
  during La Liga matches.
 
 reply
 
 girvo
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I’d happily use anything else, but it (with CF Tunnels and its DDoS and caching systems) is what lets me self host on my little home server on today’s internet. Would gladly move to some other system (or systems)
@@ -1110,18 +1110,18 @@ I’d happily use anything else, but it (with CF Tunnels and its DDoS and cachin
 reply
 
 j0057
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It takes very little money to rent massive botnet capacity to perform crippling DDOS attacks. Unfortunately there are only very few CDNs capable of absorbing that kind of attack.
@@ -1129,18 +1129,18 @@ It takes very little money to rent massive botnet capacity to perform crippling 
 reply
 
 miki123211
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The only reason this happens is because Cloudflare's centralization makes precise censorship impossible. That's bad in this particular case (as it results in over-broad censorship), but good in general, as it makes censorship harder.
@@ -1150,18 +1150,18 @@ Without Cloudflare, you can censor whatever you want. If you have the support of
 reply
 
 direwolf20
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Cloudflare has nothing to do with it. Actually you should further insist on using Cloudflare in Spain to increase the collateral cost of this ridiculous government decision as much as possible. Make it so not a single website works during football, and see if the government changes their tune.
@@ -1169,16 +1169,16 @@ Cloudflare has nothing to do with it. Actually you should further insist on usin
 reply
 
 cryptonym
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 If cloudflare is providing services to illegal websites, they very much are in full control of the situation. They knowingly choose to keep hosting that content, and have legal customers exposed to that risk.
@@ -1188,16 +1188,16 @@ You may like that the platform is open by default to everybody, but that's the o
 reply
 
 lukan
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Does cloudflare refuse a court order to take down a site? I don't think so.
@@ -1205,18 +1205,18 @@ Does cloudflare refuse a court order to take down a site? I don't think so.
 reply
 
 trailheadsec
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I agree with this take (that it’s a wake up call). Makes one question their entire app design and if using Cloudflare is “good enough” for managing CDN, tunnels, etc. for their apps.
@@ -1224,16 +1224,16 @@ I agree with this take (that it’s a wake up call). Makes one question their en
 reply
 
 matheusmoreira
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Every response and comment from LaLiga, the football organization responsible for this, has been so far that this is a minor issue that only affects a few bunch of nerds who talk about "docker images" or "github repositories" or "whatever that means".
@@ -1243,16 +1243,16 @@ Translation: go away kid, we're trying to make money here.
 reply
 
 tobz1000
- 
+
 18 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > there are testimonies of smart home devices like anti-theft alarms or automatic doors, that stop working whenever [...] because their backends rely on Cloudflare.
@@ -1262,16 +1262,16 @@ The fault here lies 100% with horribly designed IoT devices that turn into brick
 reply
 
 shibapuppie
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yeah the horribly designed alarm system that can't alert a central authority that something has gone wrong. Maybe we should just put huge air raid sirens on our homes instead?
@@ -1279,16 +1279,16 @@ Yeah the horribly designed alarm system that can't alert a central authority tha
 reply
 
 boredatoms
- 
+
 19 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Perhaps its time to put a VPN into all your CI jobs
@@ -1296,16 +1296,16 @@ Perhaps its time to put a VPN into all your CI jobs
 reply
 
 tryauuum
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You can't fight political issues with clever technical solutions
@@ -1313,16 +1313,16 @@ You can't fight political issues with clever technical solutions
 reply
 
 toast0
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It depends on what the political system is trying to do.
@@ -1332,16 +1332,16 @@ A VPN won't help against government blanket outages, where the target is complet
 reply
 
 swiftcoder
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Afaik, I don't think Spain has the political appetite to block VPNs and such during football matches
@@ -1351,18 +1351,18 @@ Unfortunately nobody is quite sure what appetite they have, because LaLiga is do
 reply
 
 peanut-walrus
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yes you can. Fight with clever technical solutions and the politics will follow once the solution becomes common or displays its usefulness. It is in fact the most effective way to fight dumb political issues.
@@ -1370,16 +1370,16 @@ Yes you can. Fight with clever technical solutions and the politics will follow 
 reply
 
 tryauuum
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 In my country (Russia) the politics followed, now the ISPs block the OpenVPN and wireguard packets. And sometimes the white list mode is enabled, so you cannot connect, with your clever custom VPN solution, to a host outside the country
@@ -1387,16 +1387,16 @@ In my country (Russia) the politics followed, now the ISPs block the OpenVPN and
 reply
 
 necovek
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You should be able to use things like sshuttle or even tunnel through HTTPS whatever you want, right? As you can control both sides of the tunnel with encryption (comes by default), no MITM-ing unless you are forced to use solutions that install and eavesdrop on your secure traffic too.
@@ -1404,16 +1404,16 @@ You should be able to use things like sshuttle or even tunnel through HTTPS what
 reply
 
 out_of_protocol
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 1) they do protocol sniffing, and any inconsistency (including statistical) gets you blocked
@@ -1422,16 +1422,16 @@ next
 reply
 
 necovek
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Are any streaming sites allowed? It should be really easy to make a VPN through HTTPS tunnel appear to have a traffic pattern exactly like you are streaming videos and/or music (depending in the bandwidth needs) by throwing discardable traffic through when no valuable traffic is needed.
@@ -1441,18 +1441,18 @@ Obviously, everything can be cut off, but the point is that if encrypted somethi
 reply
 
 bryan_w
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If they turn off the internet, that gives you more time to meet your neighbors and do "arts and crafts" and read (cook)books. He's getting so old, at some point the horse throws him off
@@ -1460,18 +1460,18 @@ If they turn off the internet, that gives you more time to meet your neighbors a
 reply
 
 peanut-walrus
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 And eventually even a worm will turn.
@@ -1479,18 +1479,18 @@ And eventually even a worm will turn.
 reply
 
 psychoslave
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 That's actually part of rebellion modus operandi, so totally something realistic. But not within the frame of law and not in the sweet position of someone away from the "I'll die for the just cause" mindset.
@@ -1498,16 +1498,16 @@ That's actually part of rebellion modus operandi, so totally something realistic
 reply
 
 tryauuum
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 can you rephrase your idea please. What's realistic, fighting stupid laws or corporations with a VPN? Yes, but not for long. They are always stronger than you, they can switch from blacklisting to whitelisting and your VPN becomes useless.
@@ -1517,16 +1517,16 @@ What is this "sweet position" you talk about?
 reply
 
 psychoslave
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Sorry for being unclear.
@@ -1536,18 +1536,18 @@ I was trying to refer to an actual rebel position, which is actors which use ill
 reply
 
 logicchains
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You totally can, that's why bittorrent still exists and works fine.
@@ -1555,18 +1555,18 @@ You totally can, that's why bittorrent still exists and works fine.
 reply
 
 fc417fc802
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 That became a popular refrain at some point but the truth of it varies. In fact many political issues are brought about by technical changes so obviously the reverse must be possible as well.
@@ -1576,16 +1576,16 @@ What technical solutions can't change is the underlying social dynamics.
 reply
 
 necovek
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Even that is IMO untrue: "technical solutions" have indeed changed society at large quite significantly; eg. "social media" is one very influential example, "smart phone" is another, "internet" itself, etc.
@@ -1593,16 +1593,16 @@ Even that is IMO untrue: "technical solutions" have indeed changed society at la
 reply
 
 fc417fc802
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Aren't you agreeing with me? None of those things changed the underlying social dynamics that humans exhibit but they nonetheless affected widespread social and political change.
@@ -1610,14 +1610,14 @@ Aren't you agreeing with me? None of those things changed the underlying social 
 reply
 
 utrack
- 
+
 22 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They block the whole of Cloudflare R2, I believe the Docker hub is just (heh) a collateral.
@@ -1627,14 +1627,14 @@ When the La Liga match starts, everything that's proxied via CF (including zero 
 reply
 
 micw
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Who exactly is blocking and on what legal base? If it's Spanish ISPs and they are massively over blocking, why are there no legal actions against them? (E.g. for not fulfilling their contracts)
@@ -1642,16 +1642,16 @@ Who exactly is blocking and on what legal base? If it's Spanish ISPs and they ar
 reply
 
 dariosalvi78
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 it's institutional corruption at all levels, legislative, executive and judicial. A systemic failure that favour abnormous private profits over basic rights of the citizens.
@@ -1661,18 +1661,18 @@ The effort required to change the situation is massive.
 reply
 
 Parodper
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 ISP are blocking, because of a district judge's ruling.
@@ -1680,18 +1680,18 @@ ISP are blocking, because of a district judge's ruling.
 reply
 
 nikanj
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 On the one hand, you have money and famous footballers. On the other hand, you have a bunch of nerds whining about the internet being broken. The average voter (and politician) is out watching the soccer match, and doesn't care about the internet.
@@ -1699,16 +1699,16 @@ On the one hand, you have money and famous footballers. On the other hand, you h
 reply
 
 eazel7
- 
+
 2 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 then I think we should move all possible services to cloudflare
@@ -1717,18 +1717,18 @@ maybe when nothing works for them they start to care
 reply
 
 Moldoteck
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Football lobby is strong in Spanish political system. It's legal
@@ -1736,16 +1736,16 @@ Football lobby is strong in Spanish political system. It's legal
 reply
 
 mr_mitm
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Why do they do that? Sorry, I don't speak Spanish.
@@ -1753,16 +1753,16 @@ Why do they do that? Sorry, I don't speak Spanish.
 reply
 
 michaelt
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The football league would rather not have pirates livestream their ~90 minute games.
@@ -1772,16 +1772,16 @@ Pirates would rather not be blocked, so they create a new, disposable website fo
 reply
 
 n6242
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > The football league would rather not have pirates livestream their ~90 minute games.
@@ -1791,16 +1791,16 @@ Funny enough, I work in IT and I've had to use a VPN to be able to do my job whe
 reply
 
 KAMSPioneer
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I work in IT and have found that the issue impacts my work but not my ability to stream sports from sites of questionable legality. Of course, I don't pirate La Liga matches but that's primarily because I don't give a shit about soccer.
@@ -1810,16 +1810,16 @@ But the point is that the measure does more to block legitimate use than illegit
 reply
 
 fc417fc802
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 But think of the children ... and futbol!
@@ -1827,16 +1827,16 @@ But think of the children ... and futbol!
 reply
 
 miohtama
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Think of all political donations
@@ -1844,18 +1844,18 @@ Think of all political donations
 reply
 
 spwa4
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 But you must realize, the alternative to this is that some very wealthy Spanish companies ... lose a small amount of money.
@@ -1865,16 +1865,16 @@ Surely you understand now. Go about your business, poor person.
 reply
 
 ryandrake
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They don't even "lose a small amount of money." They simply gain less money than usual for a short period of time. Think of how rough that is for them.
@@ -1882,58 +1882,58 @@ They don't even "lose a small amount of money." They simply gain less money than
 reply
 
 necovek
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-I think it's even that they "gain less money than they could if everyone watching illegally 
+I think it's even that they "gain less money than they could if everyone watching illegally
 would pay
  for it when they could not watch illegally" (that's usually how companies crying "piracy" calculate "losses" — "let's assume everyone watching illegally would certainly still watch it and pay the full price").
 
 reply
 
 shiroiuma
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-This isn't quite right either. It's "they gain less money than they might 
+This isn't quite right either. It's "they gain less money than they might
 potentially
  gain if piracy weren't physically possible". If the piracy avenues didn't exist, how many people would actually pay full price to the legitimate sources, and how many people would simply go without?
 
 reply
 
 joquarky
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I once remember reading an article about shareholders selling off a stock because the rate of increase in profit had slowed.
@@ -1941,16 +1941,16 @@ I once remember reading an article about shareholders selling off a stock becaus
 reply
 
 fireant
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 There is nothing wrong with that. Stock price is based on perceived future value , not current company profits.
@@ -1958,18 +1958,18 @@ There is nothing wrong with that. Stock price is based on perceived future value
 reply
 
 array_key_first
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Arguably they even gain more money in the long run, because more people have access to their entertainment and they have more opportunities to form life long connections with consumers.
@@ -1977,18 +1977,18 @@ Arguably they even gain more money in the long run, because more people have acc
 reply
 
 hunterpayne
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 In all fairness, the Spanish economy is a mine, a farm and a soccer league in a trenchcoat. Better than Ireland which is 2 tax shelters in a trenchcoat, but not by much. Not surprisingly, they are the 2 most left leaning countries in Europe. To be fair, they had an actual fascist government in Spain for several decades and there were atrocities committed.
@@ -1996,16 +1996,16 @@ In all fairness, the Spanish economy is a mine, a farm and a soccer league in a 
 reply
 
 cool_dude85
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Ireland, the country with 2 center right parties that differ with regards to patronage networks and political history from 1940, is one of the most left-wing leaning countries in Europe?
@@ -2013,18 +2013,18 @@ Ireland, the country with 2 center right parties that differ with regards to pat
 reply
 
 lentil_soup
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Cloudflare would rather not block websites without a court order specifying the sites to be blocked.
@@ -2034,16 +2034,16 @@ why would they?> squabble between two huge corporationsI think this is just LaLi
 reply
 
 mlyle
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > why would they?
@@ -2053,16 +2053,16 @@ Well, in this case, the alternative is all of Spain intermittently blocking lots
 reply
 
 pxc
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 LaLiga isn't Cloudflare's customer. They have no relationship. So why would Cloudflare rework their infrastructure just to instrument rapid blocking at their own expense as a favor to LaLiga? And if they don't, ISPs just break the Internet for each soccer match? This is a kind of coercion that makes no sense. Cloudflare has no obligation like this to LaLiga (and neither would a Spanish domestic CDN!).
@@ -2070,16 +2070,16 @@ LaLiga isn't Cloudflare's customer. They have no relationship. So why would Clou
 reply
 
 mlyle
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The reason why entities comply with the wishes of courts is because there's consequences if they don't. Consequences like being filtered.
@@ -2087,16 +2087,16 @@ The reason why entities comply with the wishes of courts is because there's cons
 reply
 
 pxc
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Cloudflare has not in fact refused to comply with any court orders! The very thing at issue is that LaLiga wants Cloudflare to do censorship on their behalf that Cloudflare, who has no contractual relationship with LaLiga, is not required to do by any legal framework in Spain or the US.
@@ -2106,16 +2106,16 @@ Cloudflare literally wasn't even a party to the ruling by which LaLiga has been 
 reply
 
 mlyle
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Cloudflare has not in fact refused to comply with any court orders!
@@ -2125,18 +2125,18 @@ Nor did I say they did.The question was asked, "why would they [without an expli
 reply
 
 forty
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm not sure why it shouldn't be cloudflare job to make sure they don't host illegal content. If my super market keeps distributing illegal goods, even if they remove it after a court order, they will end up having to close the whole market.
@@ -2146,18 +2146,18 @@ Either they should police the content they serve themselves or they accept the r
 reply
 
 gruez
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 >why would they?
@@ -2167,18 +2167,18 @@ Plenty of companies proactively take action against shady users, even if not 100
 reply
 
 teaearlgraycold
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The US is captured by the Israeli lobby. Spain is captured by the football lobby.
@@ -2186,18 +2186,18 @@ The US is captured by the Israeli lobby. Spain is captured by the football lobby
 reply
 
 Pay08
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So what, do they just block a range of IP addresses and are then done with it?
@@ -2205,16 +2205,16 @@ So what, do they just block a range of IP addresses and are then done with it?
 reply
 
 swiftcoder
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 technically, LaLiga themselves doesn't even do the blocking. They have a court order from some years ago that allows them to compel all the individual ISPs to block any IP addresses they specify, with no oversight or review
@@ -2222,16 +2222,16 @@ technically, LaLiga themselves doesn't even do the blocking. They have a court o
 reply
 
 bartread
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This must negatively impact a huge number of businesses. Is there no move for them to all get together to take legal action against LaLiga to stop them doing this?
@@ -2239,16 +2239,16 @@ This must negatively impact a huge number of businesses. Is there no move for th
 reply
 
 hunterpayne
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This is the country that takes a 2 hour nap every day. They also have a sleeping contest every year with a winner and everything. And Spain isn't hot like Mexico where folks take 2 hours off in the topically heat and make it up for it in the evening because that's more efficient.
@@ -2256,16 +2256,16 @@ This is the country that takes a 2 hour nap every day. They also have a sleeping
 reply
 
 doetoe
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Have you ever spoken to a person from Spain?
@@ -2273,16 +2273,16 @@ Have you ever spoken to a person from Spain?
 reply
 
 swiftcoder
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 or been to the south of Spain in summertime - it may not be Mexico-hot, but it's no picnic
@@ -2290,18 +2290,18 @@ or been to the south of Spain in summertime - it may not be Mexico-hot, but it's
 reply
 
 miohtama
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Think of the all political donations this would lose
@@ -2309,21 +2309,21 @@ Think of the all political donations this would lose
 reply
 
 quadrifoliate
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Here's a good English-language article about it, with a timeline: 
+Here's a good English-language article about it, with a timeline:
 https://daniel.es/blog/cloudflare-vs-la-liga/
 
 Looks like same old regulatory capture.
@@ -2331,16 +2331,16 @@ Looks like same old regulatory capture.
 reply
 
 maest
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Also, a classic tweet from the Cloudflare CEO re their fight with Italians authorities re censorship:
@@ -2350,16 +2350,16 @@ https://xcancel.com/eastdakota/status/2009654937303896492Everyone looks bad in t
 reply
 
 post-it
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 How does this make Matthew look bad?
@@ -2367,16 +2367,16 @@ How does this make Matthew look bad?
 reply
 
 encom
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Matt acting like he's a free speech absolutist. Hilarious.
@@ -2384,16 +2384,16 @@ Matt acting like he's a free speech absolutist. Hilarious.
 reply
 
 petcat
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Italy and Spain are the bad actors here. Not cloudflare.
@@ -2401,18 +2401,18 @@ Italy and Spain are the bad actors here. Not cloudflare.
 reply
 
 nslsm
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 HN in 2026: free speech is hilarious.
@@ -2420,16 +2420,16 @@ HN in 2026: free speech is hilarious.
 reply
 
 encom
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You have it backwards. I'm the free speech absolutist. Cloudflare is not.
@@ -2437,18 +2437,18 @@ You have it backwards. I'm the free speech absolutist. Cloudflare is not.
 reply
 
 bethekidyouwant
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 On a scale of oppression he certainly leans towards free.
@@ -2456,18 +2456,18 @@ On a scale of oppression he certainly leans towards free.
 reply
 
 prmoustache
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Because LaLiga and football in general is what is governing Spain really.
@@ -2475,18 +2475,18 @@ Because LaLiga and football in general is what is governing Spain really.
 reply
 
 lentil_soup
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 to stop people pirating football streams while matches are on. Insanity
@@ -2494,18 +2494,18 @@ to stop people pirating football streams while matches are on. Insanity
 reply
 
 bakugo
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The website has a language selector on the right just below the initial screen, just FYI.
@@ -2513,18 +2513,18 @@ The website has a language selector on the right just below the initial screen, 
 reply
 
 ShowalkKama
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 to """"""""""prevent piracy""""""""""
@@ -2532,16 +2532,16 @@ to """"""""""prevent piracy""""""""""
 reply
 
 sva_
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Ah man, that shader in the background is like a rite of passage for people including a shader on their website.
@@ -2551,16 +2551,16 @@ https://www.shadertoy.com/view/lscczl
 reply
 
 aftbit
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Ah the irony, I'm blocked from viewing that page by Cloudflare
@@ -2571,16 +2571,16 @@ Incompatible browser extension or network configuration
 reply
 
 jojobas
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Great, time to proxy through AWS, Azure and GCP so that these muppets block Spain from everything.
@@ -2588,14 +2588,14 @@ Great, time to proxy through AWS, Azure and GCP so that these muppets block Spai
 reply
 
 isodev
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Very good example as to why using a single, centralised proxy globally by all services is a bad idea. Docker would never have a reason to block anything if they were simply running their own.
@@ -2605,14 +2605,14 @@ For everyone else, small and big, this is the weekly reminder to not use Cloudfl
 reply
 
 pajamasam
- 
+
 48 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 There are multiple good reasons to use a CDN though. What’s your suggestion for an alternative?
@@ -2620,14 +2620,14 @@ There are multiple good reasons to use a CDN though. What’s your suggestion fo
 reply
 
 madbo1
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Reading this from India, where stuff like this is pretty much Tuesday business. But that’s not the problem; the problem is precisely the one hour of your life spent trying to figure out whether the issue is your DNS, your VPN, your configuration, or your programming. “The government in the country I’m accessing this from just decided to shut down my IP for the next two hours” rarely crosses your mind.
@@ -2637,32 +2637,32 @@ India has consistently been at the top of the number of Internet blackouts anywh
 reply
 
 teitoklien
- 
+
 39 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Bullshit,say one site that regularly causes this ?
 
-Telegram always works, Whatsapp always works, Cloudflare Always works 
+Telegram always works, Whatsapp always works, Cloudflare Always works
 Only time any of those 3 have been down, is when the service is down globally itself.India mostly does blackouts in small town/district level regions or in provinces/states where mass-infighting is ongoing atm and they need to curb misinformation spread while Law Enforcement brings the fights down.In any major Indian city, regardless of what ISP you use, almost all major service providers always work , all the time.This issue is more prominant in rural towns or tier-2 cities with exams ongoingNot in any major Indian metro city
 
 reply
 
 mrvaibh
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is a great example of why blanket IP blocking is such a terrible enforcement mechanism. Cloudflare hosts hundreds of thousands of services behind shared IP ranges — blocking one IP to stop a piracy stream
@@ -2676,14 +2676,14 @@ The real fix on your end until Spain sorts this out: set up a pull-through regis
 reply
 
 embedding-shape
- 
+
 19 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > This is a great example of why blanket IP blocking is such a terrible enforcement mechanism
@@ -2693,16 +2693,16 @@ AFAIK, they're not doing "blanket IP blocking", they're intercepting requests ba
 reply
 
 tom1337
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 just wait until they block Azure as well so the official La Liga site also stops working
@@ -2710,16 +2710,16 @@ just wait until they block Azure as well so the official La Liga site also stops
 reply
 
 jacquesm
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Hmmm. Don't they have a reporting form or something like that? Down with those filthy Azure pirates on IP 52.166.113.188.
@@ -2727,16 +2727,16 @@ Hmmm. Don't they have a reporting form or something like that? Down with those f
 reply
 
 hunterpayne
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Starting a new business I see...this actually seems like the best form of protest here so good luck to you.
@@ -2744,18 +2744,18 @@ Starting a new business I see...this actually seems like the best form of protes
 reply
 
 mcintyre1994
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Dumb question but why don’t the pirate sites all host on Azure if Cloudflare is blocked and Azure isn’t?
@@ -2763,16 +2763,16 @@ Dumb question but why don’t the pirate sites all host on Azure if Cloudflare i
 reply
 
 fireant
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Besides the reasons already listed, Cloudflare is free, Azure is not. As a pirate site owner I imagine you don't want you payment information with your name associated with your pirate site. You can pay for hosting and dns with crypto.
@@ -2780,18 +2780,18 @@ Besides the reasons already listed, Cloudflare is free, Azure is not. As a pirat
 reply
 
 tom1337
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 i have no data to back this up but in the past cloudflare was much more lax with piracy sites and I can imagine that Azure is stricter with blocking them
@@ -2799,18 +2799,18 @@ i have no data to back this up but in the past cloudflare was much more lax with
 reply
 
 kjs3
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I would imagine they do. The people running the pirate sites know what they are doing. Noone who really wants to stream pirated games is stopped. Blocking CF is performative, not effective.
@@ -2818,18 +2818,18 @@ I would imagine they do. The people running the pirate sites know what they are 
 reply
 
 littlecranky67
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I wondered how they actually managed to have their own business to be unencumbered by that. At a certain corporate level, you have to have some piece of tech in your portfolio that relies on cloudflare. I hope one day there companion or "2nd screen" apps stops working during a game, because using cloudflare.
@@ -2837,18 +2837,18 @@ I wondered how they actually managed to have their own business to be unencumber
 reply
 
 joquarky
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Sounds like the answer here is to host alt streams on Azure.
@@ -2856,14 +2856,14 @@ Sounds like the answer here is to host alt streams on Azure.
 reply
 
 jjcm
- 
+
 19 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Barring an Internet giant suing them in court, it really feels like this is unlikely to change as most just don’t understand the why or the effect.
@@ -2873,14 +2873,14 @@ Someone needs to write a heist movie set in Spain where a key part of the plan i
 reply
 
 evilmonkey19
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Last weekend happened as well :/
@@ -2890,14 +2890,14 @@ https://news.ycombinator.com/item?id=47480926The situation every weekend is gett
 reply
 
 jcalvinowens
- 
+
 19 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is the moral equivalent of shutting the water off for a whole city because one dude's house has a leak. The harms to society clearly and obviously outweigh any possible benefits to society. But if that one dude has the power to shut it all off, and doesn't care...
@@ -2905,14 +2905,14 @@ This is the moral equivalent of shutting the water off for a whole city because 
 reply
 
 spwa4
- 
+
 19 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 If you think that's even remotely close to the worst the Spanish government has done, don't look up "Catalunya".
@@ -2922,16 +2922,16 @@ https://int.assemblea.cat/civil-and-human-rights-abuses/tool...
 reply
 
 Ikatza
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Just so everyone here has the full picture: the source linked — Assemblea Nacional Catalana — is not a human rights watchdog, an international observer, or a journalistic outlet. It is the main pro-independence criminal activist organization in Catalonia. Citing them as evidence of Spanish human rights abuses is a bit like citing the murderer's wife as an impartial witness.
@@ -2941,16 +2941,16 @@ For context, Spain is a full constitutional democracy, subject to the jurisdicti
 reply
 
 hggh
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Such democracy, so constitutional
@@ -2960,21 +2960,21 @@ https://www.ohchr.org/en/press-releases/2022/08/spain-violat...
 reply
 
 spwa4
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Or to put it another way: Catalunya (Barcelona and surroundings) is one of 3 Spanish regions that want to break away from Spain, not counting overseas territories. And yes, the population really wants this: there was a referendum and the outcome was: 92% want out of Spain. 
+Or to put it another way: Catalunya (Barcelona and surroundings) is one of 3 Spanish regions that want to break away from Spain, not counting overseas territories. And yes, the population really wants this: there was a referendum and the outcome was: 92% want out of Spain.
 https://en.wikipedia.org/wiki/2017_Catalan_independence_refe...
 
 (why? Let's be honest: Catalunya would benefit enormously from independence, but when the economy goes well, as it did from 2001-2007, they're fine. After that the situation worsened again. The situation is simple: Catalunya has a much better economy than Spain and could maintain government spending, whereas being part of Spain, they need to cut social spending)The Spanish government has violently repressed this, attacked the people, arrested politicians, tried to threaten other EU nations with invasion (yes, seriously, the current government has a few "rough edges", even if I would agree if someone said that any other party would be worse) unless they arrest Catalunya politicians (then did nothing when they told them to go f themselves), and this mostly with the agreement of regular Spaniards.Given what is happening in the EU (10+ years of slowly but unrelentingly worsening economy) the situation is slowly worsening again.
@@ -2982,19 +2982,19 @@ https://en.wikipedia.org/wiki/2017_Catalan_independence_refe...
 reply
 
 buildfocus
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-That referendum result is quite debatable, since the legal situation meant most people against it simply didn't vote. While in the past it was close, nowadays polls strongly suggest a comfortable majority against independence: 
+That referendum result is quite debatable, since the legal situation meant most people against it simply didn't vote. While in the past it was close, nowadays polls strongly suggest a comfortable majority against independence:
 https://www.democrata.es/politica/39-catalanes-apoya-indepen...
 
 I agree the Rajoy government's handling of this was very problematic, but the rest of this isn't really accurate. And the morals of the economy argument is terrible - the rest of the country needs us, so we should cut them off? The same argument would apply for Barcelona cutting off the rest of Catalunya. It's not a good direction.
@@ -3002,18 +3002,18 @@ I agree the Rajoy government's handling of this was very problematic, but the re
 reply
 
 ErneX
- 
+
 53 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You forgot to mention that some of the people behind the catalonian independence movement met with Russians who even offered military support if they went ahead with a proclamation of independency. I think we should all move on from that bizarre situation.
@@ -3021,14 +3021,14 @@ You forgot to mention that some of the people behind the catalonian independence
 reply
 
 egeres
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I wasn't able to pull some images and I lost 1h trying to diagnose network problems in my setup, but it didn't occur to me that "la liga" was the root cause . My workaround was to add "registry-mirrors": ["
@@ -3038,14 +3038,14 @@ https://mirror.gcr.io
 reply
 
 chaz6
- 
+
 30 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This is the correct answer.
@@ -3055,14 +3055,14 @@ Something that confused me for a while was the path "docker.io" used for pulling
 reply
 
 Self-Perfection
- 
+
 12 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is far from the first time that I see on HN indignation on LaLiga blockings. Sadly all this rage does not seem to lead to any change.
@@ -3072,14 +3072,14 @@ I'd like to suggest some steps that might/should be followed, which I will not p
 reply
 
 redbell
- 
+
 12 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This behavior of blocking some domains and IP ranges during LaLiga games has become a routine by now. You might also want to check these similar submissions:
@@ -3089,31 +3089,31 @@ My game's server is blocked in Spain whenever there's a football match on:https:
 reply
 
 flobosg
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-See 
+See
 https://hn.algolia.com/?dateRange=all&page=0&prefix=false&qu...
  as well.
 
 reply
 
 panstromek
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yea, when there's a match, our app stops playing videos in Spain and we get some bad reviews. It's pretty annoying.
@@ -3121,14 +3121,14 @@ Yea, when there's a match, our app stops playing videos in Spain and we get some
 reply
 
 jeroenhd
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 At some point apps should just start pointing the finger at the cause of these problems. Linking users with Spanish IPs to a page explaining soccer internet censorship won't stop the bad reviews entirely but at least it'll be more useful than doing nothing.
@@ -3136,14 +3136,14 @@ At some point apps should just start pointing the finger at the cause of these p
 reply
 
 torben-friis
- 
+
 19 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 As a Spaniard, I would be very happy it cloudflare stops serving Spain. The situation is beyond stupid and I know without international pressure and shaming we're not getting rid of this abuse.
@@ -3151,14 +3151,14 @@ As a Spaniard, I would be very happy it cloudflare stops serving Spain. The situ
 reply
 
 littlecranky67
- 
+
 19 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They should at least do a single "awareness day" during which they block the same IPs and sites they are ordered by court, as if there was a football match on. Ideally with a 7 days public notice announcement. Probably won't happen though, as their contractual obligation won't allow for voluntary suspension of services.
@@ -3166,16 +3166,16 @@ They should at least do a single "awareness day" during which they block the sam
 reply
 
 pier25
- 
+
 18 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 As a Spaniard I couldn't agree more. This situation is just absolutely ridiculous.
@@ -3183,14 +3183,14 @@ As a Spaniard I couldn't agree more. This situation is just absolutely ridiculou
 reply
 
 rmonvfer
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 As a Spaniard, this also happens to me. You can either use a VPN or just switch DNS servers to one that doesn’t have anycast nodes in Spain.
@@ -3200,14 +3200,14 @@ Cloudflare’s authoritative DNS uses EDNS Client Subnet (ECS) to return differe
 reply
 
 samgranieri
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is inexcusable. Just because sports right holders are worried about piracy doesn’t give them license to break normal internet operations. Spain, get your act together and put your equivalent of the content cartel in the penalty box.
@@ -3215,14 +3215,14 @@ This is inexcusable. Just because sports right holders are worried about piracy 
 reply
 
 pjc50
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is why technology businesses and professionals need to take a little bit of an active role in local politics. Otherwise you get nonsense.
@@ -3230,14 +3230,14 @@ This is why technology businesses and professionals need to take a little bit of
 reply
 
 dabinat
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 We also need more tech-savvy politicians in office. There are a lot of politicians who are expected to legislate on important technology issues that barely know how to use a cellphone.
@@ -3245,16 +3245,16 @@ We also need more tech-savvy politicians in office. There are a lot of politicia
 reply
 
 otabdeveloper4
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Probably not, the tech-savvy politicians know about things like "DPI" and "traffic signatures".
@@ -3262,16 +3262,16 @@ Probably not, the tech-savvy politicians know about things like "DPI" and "traff
 reply
 
 DocTomoe
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 That's an interesting euphenism for 'spend a massive amount of money on ~~corruption~~ lobbying',
@@ -3279,16 +3279,16 @@ That's an interesting euphenism for 'spend a massive amount of money on ~~corrup
 reply
 
 lentil_soup
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 not necesarilly, any government will make decisions, if there's no one to speak up and inform them why the decision is stupid, like the one from LaLiga, then we end up in this situation
@@ -3296,16 +3296,16 @@ not necesarilly, any government will make decisions, if there's no one to speak 
 reply
 
 afh1
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This is incredibly naive.
@@ -3313,16 +3313,16 @@ This is incredibly naive.
 reply
 
 lentil_soup
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 ok, then what do you suggest? we don't get involved and decisions at the government level are made for us? I might be naive, but let's not be restrained by the cynicism of any involment in politics and governance is corruption
@@ -3330,18 +3330,18 @@ ok, then what do you suggest? we don't get involved and decisions at the governm
 reply
 
 embedding-shape
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What? This is how governance and public opinion happen, at least in Spain. Government does something bad? Everyone out on the streets to complain, and calling politicians to change their mind.
@@ -3351,16 +3351,16 @@ Sometimes it works, sometimes it does not, but doing nothing is never an option 
 reply
 
 ryandrake
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Doing nothing can't be better, but it's entirely possible that doing nothing has exactly the equal effect as doing something.
@@ -3368,16 +3368,16 @@ Doing nothing can't be better, but it's entirely possible that doing nothing has
 reply
 
 embedding-shape
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > but it's entirely possible
@@ -3387,14 +3387,14 @@ You're right, it possibly has the same effect. How could we figure out what's th
 reply
 
 swiftcoder
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Hah. I have had to use a US-based VPN to access GitHub pretty much every weekend lately. La Liga's efforts to curb pirate TV streams are basically undermining the internet itself at this point.
@@ -3404,14 +3404,14 @@ This is also not new behaviour - Theo posted a YouTube about it nearly a year ag
 reply
 
 schnitzelstoat
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The government really needs to step in, it's surprising that the PSOE and Sumar have allowed private companies to block so much of the internet.
@@ -3419,14 +3419,14 @@ The government really needs to step in, it's surprising that the PSOE and Sumar 
 reply
 
 Self-Perfection
- 
+
 12 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 [Meta comment]
@@ -3436,14 +3436,14 @@ Humankind is not doing well with implementing new policies. We should really str
 reply
 
 yangm97
- 
+
 19 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Maybe it’s time to reflect upon the reliance on centralized services?
@@ -3453,14 +3453,14 @@ I wonder if the IPFS distributed docker registry thing still exists/works.
 reply
 
 tabwidth
- 
+
 13 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This isn't really about centralization. ISPs are blocking at the IP level, not Docker Hub specifically. You could self-host a registry behind Cloudflare and still run into the same thing.
@@ -3468,16 +3468,16 @@ This isn't really about centralization. ISPs are blocking at the IP level, not D
 reply
 
 yangm97
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Self-hosting a registry is objectively “less bad” than relying entirely on docker hub but, unless all your Dockerfiles start with `FROM scratch` you’ll still need access to Docker Hub to pull the base images and their updates, and that’s true regardless of how many people are running their own registries.
@@ -3486,18 +3486,18 @@ If instead of relying on a centralized registry, which just so happens to also d
 reply
 
 rrr_oh_man
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 "Behind Cloudflare" is the centralisation part
@@ -3505,14 +3505,14 @@ next
 reply
 
 pfortuny
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > instado por la Liga Nacional de Fútbol Profesional y por Telefónica Audiovisual Digital,
@@ -3522,14 +3522,14 @@ next
 reply
 
 swiftcoder
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It is also educational to look up the overlap between Telefonica directors, LaLiga directors, and the government officials who granted the defacto monopoly
@@ -3537,14 +3537,14 @@ It is also educational to look up the overlap between Telefonica directors, LaLi
 reply
 
 ordersofmag
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Interesting alternative. Cloudflare (market cap $58B) buys La liga (market value $5 billion), drops suit.
@@ -3552,14 +3552,14 @@ Interesting alternative. Cloudflare (market cap $58B) buys La liga (market value
 reply
 
 manquer
- 
+
 12 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Real Madrid alone is more than $5B ? Maybe you mean to say league association is worth 5B ? That seems too high the association does not have lot of margins they pass through most of their revenue to the clubs .
@@ -3569,16 +3569,16 @@ The last domestic TV deal they signed recently was worth $6B for 5 seasons or so
 reply
 
 hunterpayne
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Here are RMs financials...
@@ -3589,16 +3589,16 @@ They make about $25m a year in profit. Cloudflair actually looses a small amount
 reply
 
 manquer
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It is not the comparison to make, which is why I focused on the league’s tv revenue which is what is relevant , i only bought up Madrid’s valuation to ask where is Laliga ‘s $5B coming from.
@@ -3608,16 +3608,16 @@ Real Madrid owns the Bernabeu a valuable piece of real estate in the heart of Ma
 reply
 
 msully4321
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm not sure where that number comes from but I don't think it's right, and I don't think that's how La Liga is structured anyway. It's governed by an association of all of the teams in the top two flights of spanish football.
@@ -3625,16 +3625,16 @@ I'm not sure where that number comes from but I don't think it's right, and I do
 reply
 
 ordersofmag
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Right. The number is the result of Claude adding up the public information about the aggregate value of all those clubs plus the association. So it would mean buying all the clubs; or at least enough to have a controlling interest in the association. Clearly there are big challenges to that (e.g. clubs not being for sale for one). But I thought it was an interesting thought experiment. Of course if you're just trying to play the money = power card then it'd probably be cheaper to purchase the influence of some government officials.
@@ -3642,16 +3642,16 @@ Right. The number is the result of Claude adding up the public information about
 reply
 
 duckmysick
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Did Claude point out that under this proposal the Spanish clubs would be bared from entering European competitions? Since the clubs under the same ownership (more than 30%) can't enter the same UEFA club competitions.
@@ -3659,16 +3659,16 @@ Did Claude point out that under this proposal the Spanish clubs would be bared f
 reply
 
 lokar
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Set an example. Buy them, fire everyone, shut it down and liquidate the property.
@@ -3676,16 +3676,16 @@ Set an example. Buy them, fire everyone, shut it down and liquidate the property
 reply
 
 outside2344
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Less headaches, free futbol matches!
@@ -3693,14 +3693,14 @@ Less headaches, free futbol matches!
 reply
 
 gchamonlive
- 
+
 19 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Here in Brazil sometimes my ISP goes into a weird state where I can't SSH into a remote machune. Got two ISP links here and still sometimes I need to resort to Mullvad to get stable internet
@@ -3708,14 +3708,14 @@ Here in Brazil sometimes my ISP goes into a weird state where I can't SSH into a
 reply
 
 Chrisszz
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 LOL this is so hilarious, blocking a portion of a web infra for a football match
@@ -3723,14 +3723,14 @@ LOL this is so hilarious, blocking a portion of a web infra for a football match
 reply
 
 sva_
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It is somewhat funny until you realize the amount of power some copyright mafia knuckleheads have over the (local) internet.
@@ -3740,14 +3740,14 @@ It isn't even an authoritative regime censoring something, but much more silly.
 reply
 
 amarant
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I had to Google why this happens, blocking cloudflare during football games seems.. Arbitrary, to say the least. Maybe something to do with hooligans trashing entire cities when their team loses? I could almost get behind that, if I thought it would work..
@@ -3757,14 +3757,14 @@ But no, it's apparently to stop piracy!? Turning off half the internet, and most
 reply
 
 swiftcoder
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Someone ought to start streaming those games illegally without using cloudflare just to demonstrate how stupid this policy is
@@ -3774,16 +3774,16 @@ Oh, the icing on the cake is that they already do. While my whole dev stack gets
 reply
 
 amarant
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Makes you wonder why they keep the ban up? Are more people watching more football now that everything else stops working during matches?
@@ -3793,16 +3793,16 @@ Talk about unfair business practices!
 reply
 
 HDThoreaun
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Pirates use cloudflare because it solves their biggest problem, DOS attacks. Rights owners figured out that they can shut down these sites by DDOSing them which bypasses the courts and can be done instantly, so the pirates put their sites behind cloudflare ddos protection.
@@ -3810,16 +3810,16 @@ Pirates use cloudflare because it solves their biggest problem, DOS attacks. Rig
 reply
 
 Parodper
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 According to the court, the real reason is because ECH would make it impossible to block through DPI.
@@ -3827,14 +3827,14 @@ According to the court, the real reason is because ECH would make it impossible 
 reply
 
 Kamshak
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm in Spain as well and it sucks a lot. What I do now is I go thorough Cloudflare 1.1.1.1 VPN (set up on my router). Fixes the issue and there is practically no latency or bandwidth impact.
@@ -3842,14 +3842,14 @@ I'm in Spain as well and it sucks a lot. What I do now is I go thorough Cloudfla
 reply
 
 baobabKoodaa
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You mean 1.1.1.1. DNS? Or do they also serve a VPN through that IP?
@@ -3857,16 +3857,16 @@ You mean 1.1.1.1. DNS? Or do they also serve a VPN through that IP?
 reply
 
 Kamshak
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They also have a wireguard VPN service called 1.1.1.1 (with WARP). My understanding is you basically VPN into a cloudflare datacenter so you don't have issues with cloudflare IPs being blocked
@@ -3874,18 +3874,18 @@ They also have a wireguard VPN service called 1.1.1.1 (with WARP). My understand
 reply
 
 drnick1
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's probably just DNS (port 53). It's the way Europeans tend to implement their censorship, with the ISPs as executors. It's trivial to bypass, but most non-technical users don't know how, so it's good enough to comply.
@@ -3893,14 +3893,14 @@ It's probably just DNS (port 53). It's the way Europeans tend to implement their
 reply
 
 christkv
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Companies should start suing La Liga for danaged please
@@ -3908,14 +3908,14 @@ Companies should start suing La Liga for danaged please
 reply
 
 vaylian
- 
+
 22 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is a know issue and it is completely fucked up:
@@ -3927,14 +3927,14 @@ What Spain does is basically censorship and it's very poorly executed. The docke
 reply
 
 embedding-shape
- 
+
 19 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > What Spain does is basically censorship and it's very poorly executed
@@ -3944,35 +3944,35 @@ Basically? It is censorship, with huge collateral damage and regardless of how m
 reply
 
 ryandrake
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-It's just like the Great Firewall of China, except in service of 
+It's just like the Great Firewall of China, except in service of
 football profits
  instead of political ideology. I don't know which one is dumber and more disgraceful.
 
 reply
 
 embedding-shape
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I wouldn't say "instead of", just "also", these "football blocks" are not the first cases of censorship of the internet in Spain.
@@ -3982,14 +3982,14 @@ womenonweb.org for example was inaccessible for years, just unblocked some years
 reply
 
 Jare
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's a disgrace, but apparently all relevant forces still consider soccer the most important thing in the country.
@@ -3997,14 +3997,14 @@ It's a disgrace, but apparently all relevant forces still consider soccer the mo
 reply
 
 znnajdla
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How timely. I was just moving off Github to self-hosted docker registries.
@@ -4012,14 +4012,14 @@ How timely. I was just moving off Github to self-hosted docker registries.
 reply
 
 TiredOfLife
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Bad bot.
@@ -4027,14 +4027,14 @@ Bad bot.
 reply
 
 dlahoda
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Just use Nix.
@@ -4044,14 +4044,14 @@ Just use Nix.
 reply
 
 TheDong
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > 1. If nix fails to pull anything, it builds (up to and including Linux kernel and compiler).
@@ -4061,16 +4061,16 @@ If nix fails to pull things from its binary cache, it will download the "sources
 reply
 
 dlahoda
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 1. We are more on OCI images? Assuming source available, run nix build and docker load of result.
@@ -4080,14 +4080,14 @@ next
 reply
 
 postepowanieadm
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Why are you working instead of watching the match?
@@ -4095,14 +4095,14 @@ Why are you working instead of watching the match?
 reply
 
 userbinator
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's what crossed my mind too: It's like a nationally-mandated break to watch football.
@@ -4110,14 +4110,14 @@ That's what crossed my mind too: It's like a nationally-mandated break to watch 
 reply
 
 aftbit
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What's the current state of the art for VPN'ing through deep packet inspection firewalls? I have imagined building something around TLS and Websockets that connects to a popular cloud provider which is "too big to block". Of course, if they'll block Cloudflare, or all connections outside of the country, maybe _nothing_ is too big to block. I remember some solutions to this in the 2010s, like obfsproxy and shadowsocks, but are there any newer or better options?
@@ -4125,14 +4125,14 @@ What's the current state of the art for VPN'ing through deep packet inspection f
 reply
 
 krick
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Is it exclusively football or do they try to fight piracy this way for some other major streaming events? I am just curious, because it's just comical to go this far over some dumb ball-game.
@@ -4140,14 +4140,14 @@ Is it exclusively football or do they try to fight piracy this way for some othe
 reply
 
 sammy2255
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It's just football. Once the game is over they revert the block
@@ -4155,14 +4155,14 @@ It's just football. Once the game is over they revert the block
 reply
 
 snickerer
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The Internet was originally designed to survive a nuclear war. Now we downgraded it deliberately to not survive a football game.
@@ -4172,14 +4172,14 @@ Decentralised infrastructure: goodCentralised infrastructure: badGood and bad fo
 reply
 
 giorgioz
- 
+
 19 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 POSSIBLE FIX:
@@ -4190,14 +4190,14 @@ might bypass the spanish sunday ban on Cloudlflare.macOS + Cloudlfare 1.1.1.1htt
 reply
 
 echoangle
- 
+
 18 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I don’t think it’s a DNS ban, it looks like they actually ban connections to the IP range.
@@ -4207,16 +4207,16 @@ But you can just use a VPN.
 reply
 
 LtdJorge
- 
+
 18 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Nope, it’s IP ban. At least for Vodafone and Telefónica.
@@ -4224,14 +4224,14 @@ Nope, it’s IP ban. At least for Vodafone and Telefónica.
 reply
 
 jesuslop
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Just to confirm it is true. This is LaLiga bringing down essential country-wide infrastructure on soccer hours if your internet access is through main ISPs.
@@ -4239,14 +4239,14 @@ Just to confirm it is true. This is LaLiga bringing down essential country-wide 
 reply
 
 zeafoamrun
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I don't even like televised sport but this makes me want to figure out how to pirate it at scale
@@ -4254,14 +4254,14 @@ I don't even like televised sport but this makes me want to figure out how to pi
 reply
 
 rcarmo
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Ah, so that's why my site is "down" there:
@@ -4271,14 +4271,14 @@ https://hayahora.futbol/#sobre-los-bloqueos&domain=taoofmac....They're blocking 
 reply
 
 Robdel12
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How is this cloudflares problem? This is on LaLiga.
@@ -4286,14 +4286,14 @@ How is this cloudflares problem? This is on LaLiga.
 reply
 
 danpalmer
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It might not be Cloudflare's fault, but it is their problem. If their customers can't use their products sporadically, it doesn't really matter why. Cloudflare taking a principled approach hurts their users in the short term, so they have to make a business trade-off between pragmatism and principle. Currently they're choosing principle, so it's reasonable to be angry at them for the short term issues that causes.
@@ -4301,14 +4301,14 @@ It might not be Cloudflare's fault, but it is their problem. If their customers 
 reply
 
 sigio
- 
+
 22 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Time to use a VPN in your docker pipelines ;) Or run your systems outside of Spain.
@@ -4318,32 +4318,32 @@ Or can this be avoided by using an alternate DNS?
 reply
 
 darkwater
- 
+
 22 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-They are planning to also block VPN providers during football matches, see 
+They are planning to also block VPN providers during football matches, see
 https://www.techradar.com/vpn/vpn-privacy-security/la-liga-w...
 
 reply
 
 Mordisquitos
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They are not "planning" to block VPNs. A technologically illiterate judge has ordered it, but there are no plans nor mechanisms to enforce it.
@@ -4351,16 +4351,16 @@ They are not "planning" to block VPNs. A technologically illiterate judge has or
 reply
 
 darkwater
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The exact same stupid mechanism they are already using. Forcing ISPs to blackhole whole subnets if they belong to the VPN provider ASN(s).
@@ -4368,18 +4368,18 @@ The exact same stupid mechanism they are already using. Forcing ISPs to blackhol
 reply
 
 chrismustcode
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If they can block IPs of cloudflare what extra mechanisms would be needed to block VPN IPs?
@@ -4387,16 +4387,16 @@ If they can block IPs of cloudflare what extra mechanisms would be needed to blo
 reply
 
 chmod775
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The only viable way to even get most of them is to shut down internet access entirely. It's not a realistic solution, unlike blocking a few well known IP ranges belonging to a large corp like Cloudflare.
@@ -4406,16 +4406,16 @@ And even if you managed to get them all beforehand, some VPN providers will adap
 reply
 
 echoangle
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You don’t really need to block all, you just need to annoy the users enough that paying is easier. And I think there are enough games to use up the IP reserve pretty quickly and getting new ones every time is pretty annoying.
@@ -4423,16 +4423,16 @@ You don’t really need to block all, you just need to annoy the users enough th
 reply
 
 chmod775
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I can provision a new VPS in about 5s of active work. I'd probably fully automate spinning up new servers and failing over because automatically detecting which got blocked is trivial. Bonus points if you use providers that let you attach multiple IPs to each VPS for cheap. Use some censorship resistant decentralized protocols to provide the next couple IPs to your client software and you're good.
@@ -4442,16 +4442,16 @@ And then they still need to monitor hundreds of VPN providers for whether they h
 reply
 
 pxc
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > No country ever won this fight short of total shutdown/disconnects.
@@ -4461,18 +4461,18 @@ Some countries also throttle pretty effectively. So you can connect but if you'r
 reply
 
 mr-wendel
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's a game. The VPN marketplace is huge so it's wack-a-mole.
@@ -4482,18 +4482,18 @@ Big companies don't hide their VPN ASNs. Obscure, for sure, but getting a good l
 reply
 
 prmoustache
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 When talking about VPNs, it doesn't have to mean "third party VPN". You can host your own on any VPN service outside of Spain.
@@ -4501,16 +4501,16 @@ When talking about VPNs, it doesn't have to mean "third party VPN". You can host
 reply
 
 darkwater
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yes, but that's not something many can do easily. Also already having to use a VPN is not the "right" solution. The right so solution is to beat some sense inside some politician's head, and force them to write and approve laws that don't let stupid (or conniving) judges pass orders like this one we are talking about.
@@ -4518,16 +4518,16 @@ Yes, but that's not something many can do easily. Also already having to use a V
 reply
 
 prmoustache
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I agree it is not the right solution.
@@ -4537,18 +4537,18 @@ But anyone who is pulling docker images in a sunday afternoon while the rest of 
 reply
 
 marginalia_nu
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Given the context of the HN audience, it's probably something you can do.
@@ -4556,16 +4556,16 @@ Given the context of the HN audience, it's probably something you can do.
 reply
 
 darkwater
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I wasn't strictly speaking about HNers. Using NordVPN and the likes is already done by slightly savvier users. Just look at where those products are advertised.
@@ -4575,18 +4575,18 @@ Spinning up and provision a VPS to act as a VPN exit node in some other country 
 reply
 
 msh
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It takes very light technical skills to deploy algo
@@ -4594,18 +4594,18 @@ It takes very light technical skills to deploy algo
 reply
 
 ufocia
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 "A _Sanish_ Court has ordered NordVPN and Proton VPN to block IPs transmitting illegal football streams" [emphasis added], that is inspain.
@@ -4613,16 +4613,16 @@ next
 reply
 
 skgsergio
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Alternate DNS doesn't help, they block at IP level.
@@ -4632,16 +4632,16 @@ Yes, they block IPs belonging to CDNs (CF including R2, BunnyCDN, CDN77, Fastly,
 reply
 
 gred
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > run your systems outside of Spain
@@ -4651,16 +4651,16 @@ So much for digital sovereignty :-)
 reply
 
 littlecranky67
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It is not a DNS based block, but on the IP level. Once I knew what caused the issue, I figured I use one of my Hetzner vServers as an exit node in tailscale.
@@ -4670,14 +4670,14 @@ But come on, this can't be true. I wonder how many other people in IT wasted hou
 reply
 
 ethin
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is exactly why random corporations need to be gone from government. Or copyright needs to be abolished, one of the two. No corporation (no matter how beloved) should ever have this kind of power. IMO the more powerful an organization becomes, the deeper the scrutiny should be.
@@ -4685,33 +4685,33 @@ This is exactly why random corporations need to be gone from government. Or copy
 reply
 
 archon810
- 
+
 12 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-I found out about this a month ago when a confused Spanish user showed me all downloads on 
+I found out about this a month ago when a confused Spanish user showed me all downloads on
 https://apkmirror.com
- (powered by Cloudflare R2) are blocked in Spain during LaLiga soccer matches 
+ (powered by Cloudflare R2) are blocked in Spain during LaLiga soccer matches
 https://x.com/i/status/2030361569691898237
 . It was so idiotic, I couldn't believe it. Glad it's getting more attention now.
 
 reply
 
 Dibby053
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Going to play devil's advocate here but I suspect if Cloudflare had been more cooperative about taking down illegal content, LaLiga would not have resorted to blanket blocking individual IPs.
@@ -4721,14 +4721,14 @@ I would really like to understand more about the process that they should follow
 reply
 
 integralid
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I work with actually malicious content (things that make people lose their life savings) and Cloudflare abuse is relatively helpful (compared to most ISPs who just don't care).
@@ -4738,16 +4738,16 @@ They just refuse to take down random things that some media company representati
 reply
 
 Dibby053
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Can you qualify "relatively helpful"? If you send them a ransomware site, a person looks at it, and still demand a court order... A company like them should know the scale at which these things are run, and that courts can't keep up with the speed.
@@ -4757,16 +4757,16 @@ Can you qualify "relatively helpful"? If you send them a ransomware site, a pers
 reply
 
 JoshTriplett
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > for every single clear-cut case of infringement
@@ -4776,16 +4776,16 @@ Clear-cut by whose judgement? Surely not the plaintiff, who has demonstrated no 
 reply
 
 JoshTriplett
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 LaLiga wanted the right to tell Cloudflare to block specific sites without going through a court.
@@ -4795,16 +4795,16 @@ Cloudflare, rightfully, said that was ridiculous and unreasonable.A Spanish cour
 reply
 
 Dibby053
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I assume the problem is Cloudflare wants a court order that mentions the specific infringing domain name. The problem is: what's faster, spinning up a new frontend for a livestream or getting an order from a court?
@@ -4814,16 +4814,16 @@ Courts orders are, rightfully, slow. A court order is a serious thing and we sho
 reply
 
 JoshTriplett
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > If LaLiga starts abusing this power to attack competitors or do anything malicious they will lose that power instantly.
@@ -4833,16 +4833,16 @@ Because everything demonstrated so far has suggested that LaLiga is reasonable a
 reply
 
 Dibby053
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >By way of demonstrating that such power is unacceptable, it sounds like LaLiga is also trying to get Spanish ISPs to block all VPNs whenever a game is on.
@@ -4852,16 +4852,16 @@ What LaLiga did was get some VPN providers (NordVPN and ProtonVPN) to start bloc
 reply
 
 JoshTriplett
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 And, presumably, if they don't comply with that unreasonable order, they'll next try to get local ISPs to block the entire VPN provider, just as they did with Cloudflare. Repeat as long as there are usable VPN providers.
@@ -4871,16 +4871,16 @@ https://news.ycombinator.com/item?id=47739695It is not the job of an intermediar
 reply
 
 lokar
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They will take down anything you get a judge to agree with.
@@ -4888,14 +4888,14 @@ They will take down anything you get a judge to agree with.
 reply
 
 lloydatkinson
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Probably the only even slightly relevant thread I’ll ever find for this so here goes. There is a certain visitor in the “Madrid Autonomous Community” (whatever that is) which frequently requests just my homepage, no other page on my site, over and over again.
@@ -4905,14 +4905,14 @@ It comes in waves, and it’s not enough to affect anything, but it’s very wei
 reply
 
 blurb4969
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Welcome to the club, buddies! Here, in Russia, the government doesn't care about collateral damage at all when shutting down whole Internet in cities. They turn on white list mode, when only approved sites and IPs work. Businesses stop working and start losing money? They don't care. Important IT systems stop working? They don't care. People can't communicate with each other? Don't care.
@@ -4921,14 +4921,14 @@ And seems like it will happen everywhere else. Sad to see the whole world goes d
 reply
 
 fc417fc802
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I think perhaps there's a difference in expectations between wartime versus a country at peace going after pirates.
@@ -4936,16 +4936,16 @@ I think perhaps there's a difference in expectations between wartime versus a co
 reply
 
 blurb4969
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I wanted to say that Internet freedom dismantlement is a global trend.
@@ -4953,16 +4953,16 @@ I wanted to say that Internet freedom dismantlement is a global trend.
 reply
 
 fc417fc802
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Fair enough, I completely agree. However in the case of Russia specifically, I understand that at one point Ukrainian drones were making routine use of mobile internet within the county. Temporary internet whitelists seem like a reasonable alternative to complete blackouts in that scenario. There are plenty of historic examples of malware using just about any communication platform for the C&C transport.
@@ -4970,14 +4970,14 @@ Fair enough, I completely agree. However in the case of Russia specifically, I u
 reply
 
 sschueller
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Just wait until a bank moves their 2FA to CF...
@@ -4987,14 +4987,14 @@ Netblock do not work and will never work.
 reply
 
 jimaek
- 
+
 22 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Off topic but I wonder when Cloudflare is going to launch their own Docker registry as a product.
@@ -5002,32 +5002,32 @@ Off topic but I wonder when Cloudflare is going to launch their own Docker regis
 reply
 
 ImJasonH
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-It's pretty easy to write your own. I made this one a while ago: 
+It's pretty easy to write your own. I made this one a while ago:
 https://github.com/chainguard-dev/crow-registry
 
 reply
 
 ai_slop_hater
- 
+
 19 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 https://github.com/cloudflare/serverless-registry
@@ -5035,16 +5035,16 @@ https://github.com/cloudflare/serverless-registry
 reply
 
 jimaek
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I've seen it but it's buggy and lacking in features. Feels like an afterthought instead of a real product
@@ -5052,16 +5052,16 @@ I've seen it but it's buggy and lacking in features. Feels like an afterthought 
 reply
 
 wqtz
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Well, Cloudflare does not launch anything. They acquire to build products. Look into all their recent product launches. They acquired a relatively small company and converted the founding team to a product team.
@@ -5071,19 +5071,19 @@ So, if you want them to build stuff, ask yourself, are there any "Docker Registr
 reply
 
 a_t48
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-Yes, actually, there are. I've built 
+Yes, actually, there are. I've built
 https://clipper.dev
 . I'm somewhat focused on robotics/edge device use cases right now (handling large images in bandwidth constrained environments), but my storage costs are also 1/7th of DockerHub. It also enables device to device content sharing much easier than base Docker, will be much easier to do antivirus/vuln scans, some other side benefits.
 
@@ -5092,18 +5092,18 @@ If there's something you'd want out of a registry that you think the market woul
 reply
 
 jimaek
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Honestly I would build it if I knew how to properly market it to quickly get users.
@@ -5113,16 +5113,16 @@ Globalping and jsDelivr took years to gain a meaningful user base
 reply
 
 wqtz
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I do not think that is the issue. The recent acquisitions from all these big tech companies did not have any "meaningful" user base to begin with.
@@ -5132,16 +5132,16 @@ I think your name alone carries significant weight in the industry and you have 
 reply
 
 jimaek
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I wish I had as much faith in myself as you have in me :)
@@ -5149,18 +5149,18 @@ I wish I had as much faith in myself as you have in me :)
 reply
 
 a_t48
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What would you build that would make it different/better than the existing registries out there?
@@ -5168,16 +5168,16 @@ What would you build that would make it different/better than the existing regis
 reply
 
 vaylian
- 
+
 22 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What would the business case be?
@@ -5185,16 +5185,16 @@ What would the business case be?
 reply
 
 jimaek
- 
+
 22 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Capture developers and funnel them to the Workers platform
@@ -5202,14 +5202,14 @@ Capture developers and funnel them to the Workers platform
 reply
 
 maxlin
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 sportsball more importanter than your nerd stuff.
@@ -5219,14 +5219,14 @@ regards: spanish authorities (who are watching the sportsball and so are better 
 reply
 
 Magnets
- 
+
 19 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 BT used to block the entire streamable.com site during football matches
@@ -5234,14 +5234,14 @@ BT used to block the entire streamable.com site during football matches
 reply
 
 LtdJorge
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Thankfully, Adamo hasn’t implemented the blockade yet (if ever).
@@ -5249,14 +5249,14 @@ Thankfully, Adamo hasn’t implemented the blockade yet (if ever).
 reply
 
 thomasjudge
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Could you bypass this with a VPN?
@@ -5264,14 +5264,14 @@ Could you bypass this with a VPN?
 reply
 
 tossandthrow
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yes, and all of Spain is learning how to use VPNs
@@ -5279,14 +5279,14 @@ Yes, and all of Spain is learning how to use VPNs
 reply
 
 dmitrygr
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The last sentence of this submission makes no sense. You are in Spain. Allegedly, the country has a representative government. That means that you should have a way to influence the government to fix this idiocy. If, in fact, you don’t, then it is not a representative government and …ahem… further steps may be warranted to remind the government whom they work for.
@@ -5294,14 +5294,14 @@ The last sentence of this submission makes no sense. You are in Spain. Allegedly
 reply
 
 ahachete
- 
+
 22 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yeah, I know. Welcome to the club :(
@@ -5311,14 +5311,14 @@ https://x.com/ahachete/status/2035783292549755228
 reply
 
 anthk
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 CF could just sue LaLiga and the judge as interrupting and intercepting telecomms it's a really serious crime in Spain. Call the AEPD too because of consumers' right against both ISP and LaLiga's snooping. Another huge fine.
@@ -5328,14 +5328,14 @@ This is not an issue under the civil code (civilian issues), but something to be
 reply
 
 quadrifoliate
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Looks like they already tried to appeal the block, and lost:
@@ -5345,16 +5345,16 @@ https://x.com/jaumepons/status/1904906677335245294
 reply
 
 buzer
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 They could potentially file the suit against Spain in European Court of Human Rights if they have exhausted national remedies. ECtHR has previously ruled some blocks to be illegal, but generally in the context where country sought the ban. Of course in both cases Court is the one that actually orders the ban.
@@ -5364,16 +5364,16 @@ One relevant would be Yildirim v. Turkey where court ordered blocking access to 
 reply
 
 prmoustache
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I think they are doing it already.
@@ -5381,14 +5381,14 @@ I think they are doing it already.
 reply
 
 anthk
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yea, La Liga it's crapping out as always.
@@ -5397,14 +5397,14 @@ Docker needs either some I2P gateway, or a Tor service.
 reply
 
 fc417fc802
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The pirate streams need an I2P service that way LaLiga might give up.
@@ -5412,14 +5412,14 @@ The pirate streams need an I2P service that way LaLiga might give up.
 reply
 
 Myzel394
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Just use a VPN
@@ -5427,14 +5427,14 @@ Just use a VPN
 reply
 
 genericacct
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 same thing happens in italy
@@ -5442,17 +5442,17 @@ same thing happens in italy
 reply
 
 mschuster91
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Cloudflare 
+Cloudflare
 could
  resolve this without negatively impacting fundamental services... just place all newly registered sites (e.g. <30 days) on a dedicated block of IP addresses. That way, Spain's government-ordered censorship could be limited to (mostly) pirate sites. Or they could invest money in vetting customers properly.
 
@@ -5461,14 +5461,14 @@ But of course, Cloudflare rather prefers to hold their actual large customers (w
 reply
 
 fc417fc802
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 What would prevent a pirate site operator from registering a domain a few months in advance and sitting on it in the meantime?
@@ -5478,16 +5478,16 @@ How do you propose customers ought to be vetted? Why should a host be expected t
 reply
 
 mschuster91
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > What would prevent a pirate site operator from registering a domain a few months in advance and sitting on it in the meantime?
@@ -5497,16 +5497,16 @@ It's driving up the cost and expenses. Operators of legitimate sites don't have 
 reply
 
 fc417fc802
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > It's driving up the cost and expenses.
@@ -5516,16 +5516,16 @@ That's an interesting point. Are their margins so slim that they can't afford le
 reply
 
 mschuster91
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Are their margins so slim that they can't afford less than ~$50 per domain?
@@ -5535,16 +5535,16 @@ It's not (just) about driving up the financial cost, that works out decently to 
 reply
 
 fc417fc802
- 
+
 18 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > you need to acquire and maintain a constant fresh stream of fake identities, payment credentials and the likes.
@@ -5554,14 +5554,14 @@ Domains aren't free to begin with so I'm not sure what your point is. You claime
 reply
 
 breppp
- 
+
 19 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Vote early, vote often
@@ -5569,14 +5569,14 @@ Vote early, vote often
 reply
 
 richwater
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Spain is a failing country. Their economy is in shambles and the government has ceded internet control to a private corporation who runs football games.
@@ -5584,14 +5584,14 @@ Spain is a failing country. Their economy is in shambles and the government has 
 reply
 
 gruez
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >Their economy is in shambles
@@ -5601,34 +5601,34 @@ But it's among the fastest growing in the EU? Granted, part of this is starting 
 reply
 
 nslsm
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-They are doing this by artificially inflating the numbers, destroying the country forever: 
+They are doing this by artificially inflating the numbers, destroying the country forever:
 https://i.imgur.com/0MAeFaF.jpg
 
 reply
 
 gruez
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >total population change in EU countries
@@ -5638,16 +5638,16 @@ The figures I cited are for GDP per capita, which accounts for population growth
 reply
 
 hunterpayne
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You should read down that table a bit. Sure the Spanish economy had higher growth rates the last couple of years. The way they managed to have a higher rate was to have the economy shrink by 8% in 2023. So according to my math, the estimated size of the Spanish economy in 2026 is about the same as the 2023 Spanish economy (within 1%). Hard to claim that as a win.
@@ -5657,16 +5657,16 @@ Technically you can say that they have been in a depression for the last 4 years
 reply
 
 gruez
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > So according to my math, the estimated size of the Spanish economy in 2026 is about the same as the 2023 Spanish economy (within 1%). Hard to claim that as a win.
@@ -5676,16 +5676,16 @@ That conclusion does not seem to check out just by eyeballing the charts.https:/
 reply
 
 embedding-shape
- 
+
 19 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Spain isn't a perfect country, I don't think any is. But the economy isn't in shambles, only someone who doesn't know what they're talking about would say anything like that. It does suck that La Liga can wield so much power, agree, but this is not related to the economy at all...
@@ -5693,16 +5693,16 @@ Spain isn't a perfect country, I don't think any is. But the economy isn't in sh
 reply
 
 hunterpayne
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Sorry, but this isn't true. The Spanish economy shrank by 8% in 2023. So all those gains in the last couple of years are just catching up to 2023 and not actual growth. Add in inflation and the average Spaniard has lost 10% of their income over that period (2023-now). The median citizen losing 10% of their income in real economic terms does qualify for the vaunted "shambles" title.
@@ -5710,16 +5710,16 @@ Sorry, but this isn't true. The Spanish economy shrank by 8% in 2023. So all tho
 reply
 
 chrz
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Are you spanish and never went to another country? I only heard such things from never-stop complaining locals that never traveled anywhere. Yeah La Liga is a religion here, but Spain is one of the worlds top of life quality mate
@@ -5727,16 +5727,16 @@ Are you spanish and never went to another country? I only heard such things from
 reply
 
 schnitzelstoat
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The salaries and unemployment are pretty awful though. As are the working conditions in many jobs (jornada partida, paying less than legally required into social security etc.)
@@ -5746,18 +5746,18 @@ I think most people care more about these things than the GDP statistics tbh.
 reply
 
 fabianmg
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You most likely are arguing with a right winger from Spain. They compare the president with a dictator in their right wing media, and they basically talk about Spain like is Venezuela at every opportunity.
@@ -5765,16 +5765,16 @@ You most likely are arguing with a right winger from Spain. They compare the pre
 reply
 
 estebank
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 To note that this isn't the executive or legislative but the judiciary doing the bidding.
@@ -5782,26 +5782,26 @@ To note that this isn't the executive or legislative but the judiciary doing the
 reply
 
 renewiltord
- 
+
 19 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [7 more]
 
 [flagged]
 post-it
- 
+
 19 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It's not just docker and tech. Plenty of people depend on tools that use Cloudflare.
@@ -5809,16 +5809,16 @@ It's not just docker and tech. Plenty of people depend on tools that use Cloudfl
 reply
 
 renewiltord
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 And when you are on your deathbed you will say “I wish I had spent more time on Cloudflare-based products”? I doubt it. No peer-reviewed research has shown people say that.
@@ -5826,16 +5826,16 @@ And when you are on your deathbed you will say “I wish I had spent more time o
 reply
 
 embedding-shape
- 
+
 19 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Telling someone what to do is even more American, let people do whatever they want, at the times they want, as long as they don't hurt others, this is the Spanish way.
@@ -5843,16 +5843,16 @@ Telling someone what to do is even more American, let people do whatever they wa
 reply
 
 renewiltord
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Touché. Or should I say “me has tocado señor”. Probably not but it would be funny.
@@ -5860,16 +5860,16 @@ Touché. Or should I say “me has tocado señor”. Probably not but it would b
 reply
 
 Synthetic7346
- 
+
 19 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This comment has some "you should smile more" energy
@@ -5877,16 +5877,16 @@ This comment has some "you should smile more" energy
 reply
 
 renewiltord
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Smile more. Touch grease. Roll coal.
@@ -5894,14 +5894,14 @@ Smile more. Touch grease. Roll coal.
 reply
 
 lofaszvanitt
- 
+
 19 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Good. Cloudflare is the next evil entity on the internet.
@@ -5909,12 +5909,12 @@ Good. Cloudflare is the next evil entity on the internet.
 reply
 
 mathfailure
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- 
+
 [–]
 
 Cloudflare is cancer. And the tumor is now too big.
@@ -5922,14 +5922,14 @@ Cloudflare is cancer. And the tumor is now too big.
 reply
 
 Cpoll
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You've got it backwards. Spain's ISPs are blocking Cloudflare and other CDNs because of LaLiga/football piracy. CloudFlare isn't doing anything here.
@@ -5937,16 +5937,16 @@ You've got it backwards. Spain's ISPs are blocking Cloudflare and other CDNs bec
 reply
 
 sph
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You are correct, but Cloudflare is still a cancer on the Internet.
@@ -5954,16 +5954,16 @@ You are correct, but Cloudflare is still a cancer on the Internet.
 reply
 
 petcat
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Rampant bot traffic and scrapers are the real cancer. Until that goes away everyone is going to need cloudflare or some other bot firewall service.
@@ -5971,16 +5971,16 @@ Rampant bot traffic and scrapers are the real cancer. Until that goes away every
 reply
 
 adrian_b
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Perhaps that is true, but the Cloudflare anti-bot protection is too stupid and annoying.
@@ -5990,16 +5990,16 @@ They should have used a cookie or something else that does not require asking me
 reply
 
 post-it
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You're getting frequent verification requests because you're behaving like a bot. Are you modifying your user agent string or using a VPN?
@@ -6007,16 +6007,16 @@ You're getting frequent verification requests because you're behaving like a bot
 reply
 
 encom
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Who knows what upsets ClownFlare? I'm using Vivaldi on Linux on IPv6 in Denmark with every uBlock filter enabled and Cookie Auto-delete. That seems to confuse and anger CloudFlare and I get CAPTCHA tarpitted constantly.
@@ -6024,16 +6024,16 @@ Who knows what upsets ClownFlare? I'm using Vivaldi on Linux on IPv6 in Denmark 
 reply
 
 post-it
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > They should have used a cookie or something else that does not require asking me every few minutes to prove once more that I am not a bot.
@@ -6043,18 +6043,18 @@ next
 reply
 
 bethekidyouwant
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So you know why.
@@ -6062,16 +6062,16 @@ So you know why.
 reply
 
 encom
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 No, it could be any, or other, totally normal and reasonable factors. Or maybe I posted too much Cloudflare hate on HN and they singled me out.
@@ -6082,39 +6082,39 @@ They're in the walls!NO CARRIER
 reply
 
 fc417fc802
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Those are easy enough to dissuade with readily available PoW solutions. People use CF & co. out of convenience, the exact same reason that most websites load resources from 
+Those are easy enough to dissuade with readily available PoW solutions. People use CF & co. out of convenience, the exact same reason that most websites load resources from
 at least
  half a dozen third parties instead of self hosting.
 
 reply
 
 Duwensatzaj
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It won’t. Some people are perfectly happy to destroy and destroy as long as they get some small portion as profit for themselves.
@@ -6122,16 +6122,16 @@ It won’t. Some people are perfectly happy to destroy and destroy as long as th
 reply
 
 sph
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That, ironically, includes Cloudflare. Without rampant bots making the internet worse for everybody, they wouldn't have as much work. And their portion of profit is anything but small.
@@ -6139,18 +6139,18 @@ That, ironically, includes Cloudflare. Without rampant bots making the internet 
 reply
 
 otterley
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I know this is an unpopular opinion among freedom maximalists, but:
@@ -6160,16 +6160,16 @@ It’s precisely because CloudFlare isn’t responding like other CDNs to reason
 reply
 
 FireBeyond
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > It’s precisely because CloudFlare isn’t responding like other CDNs to reasonable demands to cut off pirate origin sites that this mess exists. If they reacted quickly to remove configurations that are obviously facilitating copyright infringement, Spain wouldn’t resort to full scale ASN blocking.
@@ -6179,16 +6179,16 @@ Apropos of anything else, CF is (reasonably) requiring a court order to remove o
 reply
 
 otterley
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 At least the DMCA in the U.S. has guardrails: not just anyone can send a takedown demand for everything. The requester has identify the works and declare under penalty of perjury that they are operating on the behalf of the owner. I imagine the equivalent EU law has similar requirements.
@@ -6198,16 +6198,16 @@ CloudFlare uses legal chicanery to try to subvert the DMCA by claiming that beca
 reply
 
 willdr
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Nobody cares about the DMCA guardrails and they are never meaningfully enforced. Case in point, Anthropic DMCAing thousands of repositories that simply mentioned the word "claude".
@@ -6215,18 +6215,18 @@ Nobody cares about the DMCA guardrails and they are never meaningfully enforced.
 reply
 
 FireBeyond
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > At least the DMCA in the U.S. has guardrails: not just anyone can send a takedown demand for everything. The requester has identify the works and declare under penalty of perjury that they are operating on the behalf of the owner.
@@ -6236,19 +6236,19 @@ You'd think so, but no.DMCA came into effect 28 years ago. All those decades, al
 reply
 
 otterley
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-You might misunderstand what the law requires. The person making the complaint (demand) only has to declare under penalty of perjury 
+You might misunderstand what the law requires. The person making the complaint (demand) only has to declare under penalty of perjury
 that they represent the copyright holder
 . It does not require them, under penalty of perjury, to be correct about the underlying facts.
 
@@ -6257,18 +6257,18 @@ See 17 U.S.C. 512(c)(3)(A):"(A) To be effective under this subsection, a notific
 reply
 
 jbxntuehineoh
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 cf is failing to comply with Spanish law and as a result is being blocked in Spain
@@ -6276,16 +6276,16 @@ cf is failing to comply with Spanish law and as a result is being blocked in Spa
 reply
 
 skgsergio
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I can agree on how much power on the global traffic they have, but this blocks affect many other CDNs like Fastly, Akamai, CDN77, BunnyCDN, Alibaba...
@@ -6293,16 +6293,16 @@ I can agree on how much power on the global traffic they have, but this blocks a
 reply
 
 petcat
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Spain is mandating their ISPs block cloudflare to stop people from illegally streaming soccer games. Cloudflare isn't the one doing the blocking.
@@ -6310,16 +6310,16 @@ Spain is mandating their ISPs block cloudflare to stop people from illegally str
 reply
 
 imcritic
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Isn't the ONLY one doing blocking.
@@ -6329,16 +6329,16 @@ I'm not from Spain and instead of Spanish ISP I get a block from CloudFlare.Now 
 reply
 
 StrLght
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You made a few typos in "LaLiga"
@@ -6346,14 +6346,14 @@ You made a few typos in "LaLiga"
 reply
 
 ufocia
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- 
+
 [–]
 
 How so?
@@ -6361,19 +6361,19 @@ How so?
 reply
 
 Guidelines
- | 
+ |
 FAQ
- | 
+ |
 Lists
- | 
+ |
 API
- | 
+ |
 Security
- | 
+ |
 Legal
- | 
+ |
 Apply to YC
- | 
+ |
 Contact
 
 Search:

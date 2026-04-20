@@ -11,7 +11,7 @@ description: Unofficial Python API for Google NotebookLM. Contribute to teng-lin
 
 teng-lin
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork452
 * Star3.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -282,7 +282,7 @@ pip install notebooklm-py
 #
  With browser login support (required for first-time setup)
 
-pip install 
+pip install
 "
 notebooklm-py[browser]
 "
@@ -311,26 +311,26 @@ notebooklm login
 #
  2. Create a notebook and add sources
 
-notebooklm create 
+notebooklm create
 "
 My Research
 "
 
-notebooklm use 
+notebooklm use
 <
 notebook_id
 >
 
-notebooklm 
+notebooklm
 source
- add 
+ add
 "
 https://en.wikipedia.org/wiki/Artificial_intelligence
 "
 
-notebooklm 
+notebooklm
 source
- add 
+ add
 "
 ./paper.pdf
 "
@@ -338,7 +338,7 @@ source
 #
  3. Chat with your sources
 
-notebooklm ask 
+notebooklm ask
 "
 What are the key themes?
 "
@@ -346,7 +346,7 @@ What are the key themes?
 #
  4. Generate content
 
-notebooklm generate audio 
+notebooklm generate audio
 "
 make it engaging
 "
@@ -357,7 +357,7 @@ notebooklm generate flashcards --quantity more
 notebooklm generate slide-deck
 notebooklm generate infographic --orientation portrait
 notebooklm generate mind-map
-notebooklm generate data-table 
+notebooklm generate data-table
 "
 compare key concepts
 "
@@ -376,48 +376,48 @@ notebooklm download data-table ./data.csv
 ### Python API
 
 import
- 
+
 asyncio
 
 from
- 
+
 notebooklm
- 
+
 import
- 
+
 NotebookLMClient
 
 async
- 
+
 def
- 
+
 main
 ():
- 
+
 async
- 
+
 with
- 
+
 await
- 
+
 NotebookLMClient
 .
 from_storage
-() 
+()
 as
- 
+
 client
 :
- 
+
 # Create notebook and add sources
 
- 
+
 nb
- 
+
 =
- 
+
 await
- 
+
 client
 .
 notebooks
@@ -426,9 +426,9 @@ create
 (
 "Research"
 )
- 
+
 await
- 
+
 client
 .
 sources
@@ -438,24 +438,24 @@ add_url
 nb
 .
 id
-, 
+,
 "https://example.com"
-, 
+,
 wait
 =
 True
 )
 
- 
+
 # Chat with your sources
 
- 
+
 result
- 
+
 =
- 
+
 await
- 
+
 client
 .
 chat
@@ -465,10 +465,10 @@ ask
 nb
 .
 id
-, 
+,
 "Summarize this"
 )
- 
+
 print
 (
 result
@@ -476,16 +476,16 @@ result
 answer
 )
 
- 
+
 # Generate content (podcast, video, quiz, etc.)
 
- 
+
 status
- 
+
 =
- 
+
 await
- 
+
 client
 .
 artifacts
@@ -495,14 +495,14 @@ generate_audio
 nb
 .
 id
-, 
+,
 instructions
 =
 "make it fun"
 )
- 
+
 await
- 
+
 client
 .
 artifacts
@@ -512,14 +512,14 @@ wait_for_completion
 nb
 .
 id
-, 
+,
 status
 .
 task_id
 )
- 
+
 await
- 
+
 client
 .
 artifacts
@@ -529,20 +529,20 @@ download_audio
 nb
 .
 id
-, 
+,
 "podcast.mp3"
 )
 
- 
+
 # Generate quiz and download as JSON
 
- 
+
 status
- 
+
 =
- 
+
 await
- 
+
 client
 .
 artifacts
@@ -553,9 +553,9 @@ nb
 .
 id
 )
- 
+
 await
- 
+
 client
 .
 artifacts
@@ -565,14 +565,14 @@ wait_for_completion
 nb
 .
 id
-, 
+,
 status
 .
 task_id
 )
- 
+
 await
- 
+
 client
 .
 artifacts
@@ -582,24 +582,24 @@ download_quiz
 nb
 .
 id
-, 
+,
 "quiz.json"
-, 
+,
 output_format
 =
 "json"
 )
 
- 
+
 # Generate mind map and export
 
- 
+
 result
- 
+
 =
- 
+
 await
- 
+
 client
 .
 artifacts
@@ -610,9 +610,9 @@ nb
 .
 id
 )
- 
+
 await
- 
+
 client
 .
 artifacts
@@ -622,7 +622,7 @@ download_mind_map
 nb
 .
 id
-, 
+,
 "mindmap.json"
 )
 
@@ -744,58 +744,58 @@ github.com/teng-lin/notebooklm-py
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 3.5k
 
  stars
- 
+
 
 ### Watchers
 
 26
 
  watching
- 
+
 
 ### Forks
 
 452
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases7
 
@@ -803,11 +803,11 @@ v0.3.3
 
  Latest
 
- 
+
 
 Mar 3, 2026
 
- 
+
 
 + 6 releases
 
@@ -823,17 +823,17 @@ Mar 3, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -841,9 +841,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

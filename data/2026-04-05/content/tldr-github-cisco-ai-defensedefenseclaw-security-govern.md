@@ -13,7 +13,7 @@ tags:
 
 cisco-ai-defense
 
- 
+
 
 /
 
@@ -25,9 +25,9 @@ Public
 * Fork47
 * Star372
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -240,19 +240,19 @@ DefenseClaw is the enterprise governance layer for OpenClaw.It sits between your
 
 DefenseClaw scans every skill, MCP server, and pluginbeforeit is allowed to run. The CLI wrapsCisco AI Defensescanners (skill-scanner,mcp-scanner) and an AI bill-of-materials generator (aibom) to produce a unifiedScanResultwith severity-ranked findings. Scan results feed into the admission gate — HIGH/CRITICAL findings auto-block the component, MEDIUM/LOW findings install with a warning, and clean components pass through. All outcomes are logged to the SQLite audit store and forwarded to SIEM.
 
-defenseclaw skill scan web-search 
+defenseclaw skill scan web-search
 #
  scan a skill by name
 
-defenseclaw mcp scan github-mcp 
+defenseclaw mcp scan github-mcp
 #
  scan an MCP server
 
-defenseclaw plugin scan code-review 
+defenseclaw plugin scan code-review
 #
  scan a plugin
 
-defenseclaw skill scan all 
+defenseclaw skill scan all
 #
  scan every installed skill
 
@@ -292,17 +292,17 @@ command
 
 Dangerous shell commands (
 curl
-, 
+,
 wget
-, 
+,
 nc
-, 
+,
 rm -rf
 , etc.)
 
 sensitive-path
 
-Access to 
+Access to
 /etc/passwd
 , SSH keys, credential files
 
@@ -348,13 +348,13 @@ Plugin
 
 TypeScript
 
-Runs inside OpenClaw — intercepts tool calls via 
+Runs inside OpenClaw — intercepts tool calls via
 before_tool_call
- hook, provides 
+ hook, provides
 /scan
-, 
+,
 /block
-, 
+,
 /allow
  slash commands
 
@@ -400,7 +400,7 @@ git --version
 
 If you don't already have OpenClaw running:
 
-curl -fsSL https://openclaw.ai/install.sh 
+curl -fsSL https://openclaw.ai/install.sh
 |
  bash
 openclaw onboard --install-daemon
@@ -409,7 +409,7 @@ Verify the gateway is up withopenclaw gateway status. See theOpenClaw Getting St
 
 ### Install DefenseClaw
 
-curl -LsSf https://raw.githubusercontent.com/cisco-ai-defense/defenseclaw/main/scripts/install.sh 
+curl -LsSf https://raw.githubusercontent.com/cisco-ai-defense/defenseclaw/main/scripts/install.sh
 |
  bash
 defenseclaw init --enable-guardrail
@@ -455,7 +455,7 @@ For the complete walkthrough including blocking tools, enabling guardrail action
 #
  Block a dangerous tool
 
-defenseclaw tool block delete_file --reason 
+defenseclaw tool block delete_file --reason
 "
 destructive operation
 "
@@ -528,14 +528,14 @@ defenseclaw status
  View logs
 
 journalctl -u openshell-sandbox -f
-tail -f 
+tail -f
 ~
 /.defenseclaw/gateway.log
 
 #
  Verify network
 
-ip link show 
+ip link show
 |
  grep veth-h
 
@@ -624,26 +624,26 @@ make install
 #
  Individual components
 
-make pycli 
+make pycli
 #
  Python CLI → .venv/bin/defenseclaw
 
-make gateway 
+make gateway
 #
  Go gateway → ./defenseclaw-gateway
 
-make plugin 
+make plugin
 #
  TS plugin → extensions/defenseclaw/dist/
 
 #
  Individual installs
 
-make gateway-install 
+make gateway-install
 #
  → ~/.local/bin/defenseclaw-gateway
 
-make plugin-install 
+make plugin-install
 #
  → ~/.openclaw/extensions/defenseclaw/
 
@@ -657,21 +657,21 @@ make gateway-cross GOOS=linux GOARCH=arm64
 #
  All tests (Python + Go)
 
-make 
+make
 test
 
 #
  Individual
 
-make cli-test 
+make cli-test
 #
  Python CLI tests
 
-make gateway-test 
+make gateway-test
 #
  Go gateway tests
 
-make ts-test 
+make ts-test
 #
  TypeScript plugin tests
 
@@ -735,66 +735,66 @@ cisco-ai-defense.github.io/docs/defenseclaw
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 372
 
  stars
- 
+
 
 ### Watchers
 
 22
 
  watching
- 
+
 
 ### Forks
 
 47
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases1
 
@@ -802,7 +802,7 @@ Custom properties
 
  Latest
 
- 
+
 
 Mar 28, 2026
 
@@ -812,9 +812,9 @@ Mar 28, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

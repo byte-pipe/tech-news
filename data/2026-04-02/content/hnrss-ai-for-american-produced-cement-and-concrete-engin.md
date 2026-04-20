@@ -13,17 +13,17 @@ tags:
 - hnrss
 ---
 
-By 
+By
 Julius Kusuma
-, 
+,
 Sebastian Ament
-, 
+,
 Eytan Bakshy
-, 
+,
 Laura McGorman
-, 
+,
 Madeline Hinkamp
- 
+
 
 * Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the United States.
 * Concurrent with the 2026 American Concrete Institute (ACI) Spring Convention, Meta is releasing a new AI model for designing concrete mixes –Bayesian Optimization for Concrete (BOxCrete), as well as the foundational data used to develop award-winning concrete mixes.
@@ -69,7 +69,7 @@ In 2023, Meta released itsconcrete optimization AI framework as open-source soft
 
 In an effort that reflects how AI-driven mix design is becoming part of the standard infrastructure of concrete production, Pennsylvania-basedQuadrel, a leading enterprise SaaS platform serving the ready-mix industry, has adapted Meta’s AI framework in its software. Quadrel has applied it to real-world use cases including data preprocessing, batch and test normalization, feature engineering, and customer-specific model training. The models, which continuously improve over time as field test results are incorporated, have been embedded into daily mix design and quality control workflows, informing day-to-day decisions in quality control and operations.
 
-Meta’s 
+Meta’s
 open-source AI model for sustainable concrete
  is provided under MIT license, allowing for commercial use with minimum restrictions while benefiting from open-source AI advances and investments.
 

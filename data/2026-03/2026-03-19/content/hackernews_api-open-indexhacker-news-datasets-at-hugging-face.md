@@ -14,20 +14,20 @@ tags:
 ---
 
 Dataset Viewer
- 
- 
- 
- 
+
+
+
+
 
 The dataset viewer should be available soon. Pleaseretry later.
 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 
 # Hacker News - Complete Archive
 
@@ -118,7 +118,7 @@ Thetypecolumn is stored as a small integer:1= story,2= comment,3= poll,4= pollop
 -- Top 20 highest-scored stories of all time
 
 SELECT
- id, title, "by", score, url, 
+ id, title, "by", score, url,
 time
 
 FROM
@@ -127,24 +127,24 @@ FROM
 )
 
 WHERE
- type 
+ type
 =
- 
+
 1
- 
+
 AND
- title 
+ title
 !=
- 
+
 ''
 
 ORDER
- 
+
 BY
- score 
+ score
 DESC
 
-LIMIT 
+LIMIT
 20
 ;
 
@@ -154,48 +154,48 @@ SELECT
 
  strftime(
 time
-, 
+,
 '%Y-%m'
-) 
+)
 AS
- 
+
 month
 ,
- 
+
 count
 (
 *
-) 
+)
 AS
  items,
- 
+
 count
 (
 *
-) 
+)
 FILTER
  (
 WHERE
- type 
+ type
 =
- 
+
 1
-) 
+)
 AS
  stories,
- 
+
 count
 (
 *
-) 
+)
 FILTER
  (
 WHERE
- type 
+ type
 =
- 
+
 2
-) 
+)
 AS
  comments
 
@@ -205,22 +205,22 @@ FROM
 )
 
 GROUP
- 
+
 BY
- 
+
 month
 
 ORDER
- 
+
 BY
- 
+
 month
 ;
 
 -- Most discussed stories by total comment count
 
 SELECT
- id, title, "by", score, descendants 
+ id, title, "by", score, descendants
 AS
  comments, url
 
@@ -230,35 +230,35 @@ FROM
 )
 
 WHERE
- type 
+ type
 =
- 
+
 1
- 
+
 AND
- descendants 
+ descendants
 >
- 
+
 0
 
 ORDER
- 
+
 BY
- descendants 
+ descendants
 DESC
 
-LIMIT 
+LIMIT
 20
 ;
 
 -- Who posts the most Ask HN questions?
 
 SELECT
- "by", 
+ "by",
 count
 (
 *
-) 
+)
 AS
  posts
 
@@ -268,29 +268,29 @@ FROM
 )
 
 WHERE
- type 
+ type
 =
- 
+
 1
- 
+
 AND
- title 
+ title
 LIKE
- 
+
 'Ask HN:%'
 
 GROUP
- 
+
 BY
  "by"
 
 ORDER
- 
+
 BY
- posts 
+ posts
 DESC
 
-LIMIT 
+LIMIT
 20
 ;
 
@@ -298,24 +298,24 @@ LIMIT
 
 SELECT
 
- 
+
 extract
 (
 year
- 
+
 FROM
- 
+
 time
-) 
+)
 AS
- 
+
 year
 ,
- 
+
 count
 (
 *
-) 
+)
 AS
  mentions
 
@@ -325,29 +325,29 @@ FROM
 )
 
 WHERE
- type 
+ type
 =
- 
+
 1
- 
+
 AND
- 
+
 lower
-(title) 
+(title)
 LIKE
- 
+
 '%rust%'
 
 GROUP
- 
+
 BY
- 
+
 year
 
 ORDER
- 
+
 BY
- 
+
 year
 ;
 
@@ -355,31 +355,31 @@ year
 
 SELECT
 
- 
+
 extract
 (
 year
- 
+
 FROM
- 
+
 time
-) 
+)
 AS
- 
+
 year
 ,
- regexp_extract(url, 
+ regexp_extract(url,
 'https?://([^/]+)'
-, 
+,
 1
-) 
+)
 AS
  domain,
- 
+
 count
 (
 *
-) 
+)
 AS
  stories
 
@@ -389,57 +389,57 @@ FROM
 )
 
 WHERE
- type 
+ type
 =
- 
+
 1
- 
+
 AND
- url 
+ url
 !=
- 
+
 ''
 
 GROUP
- 
+
 BY
- 
+
 year
 , domain
-QUALIFY 
+QUALIFY
 row_number
-() 
+()
 OVER
  (
 PARTITION
- 
+
 BY
- 
+
 year
- 
+
 ORDER
- 
+
 BY
- stories 
+ stories
 DESC
-) 
+)
 <=
- 
+
 5
 
 ORDER
- 
+
 BY
- 
+
 year
-, stories 
+, stories
 DESC
 ;
 
 ### Usingdatasets
 
 from
- datasets 
+ datasets
 import
  load_dataset
 
@@ -454,10 +454,10 @@ True
 )
 
 for
- item 
+ item
 in
  ds:
- 
+
 print
 (item[
 "id"
@@ -470,7 +470,7 @@ print
 # Load a specific year into memory
 
 ds = load_dataset(
- 
+
 "open-index/hacker-news"
 ,
  data_files=
@@ -493,7 +493,7 @@ len
 # Load today's live blocks (updated every 5 minutes)
 
 ds = load_dataset(
- 
+
 "open-index/hacker-news"
 ,
  name=
@@ -510,14 +510,14 @@ True
 ### Usinghuggingface_hub
 
 from
- huggingface_hub 
+ huggingface_hub
 import
  snapshot_download
 
 # Download only 2024 data (about 1.5 GB)
 
 snapshot_download(
- 
+
 "open-index/hacker-news"
 ,
  repo_type=
@@ -580,20 +580,20 @@ print
 You can query the per-month statistics directly from thestats.csvfile included in the dataset:
 
 SELECT
- 
+
 *
- 
+
 FROM
  read_csv_auto(
 'hf://datasets/open-index/hacker-news/stats.csv'
 )
 
 ORDER
- 
+
 BY
- 
+
 year
-, 
+,
 month
 ;
 
@@ -604,13 +604,13 @@ Column
 Description
 
 year
-, 
+,
 month
 
 Calendar month
 
 lowest_id
-, 
+,
 highest_id
 
 Item ID range covered by this file
@@ -917,128 +917,128 @@ Here is an example item from the dataset. This is a story submission with a link
 
 {
 
- 
+
 "id"
 :
- 
+
 1
 ,
 
- 
+
 "deleted"
 :
- 
+
 0
 ,
 
- 
+
 "type"
 :
- 
+
 1
 ,
 
- 
+
 "by"
 :
- 
+
 "pg"
 ,
 
- 
+
 "time"
 :
- 
+
 "2006-10-09T18:21:51+00:00"
 ,
 
- 
+
 "text"
 :
- 
+
 ""
 ,
 
- 
+
 "dead"
 :
- 
+
 0
 ,
 
- 
+
 "parent"
 :
- 
+
 0
 ,
 
- 
+
 "poll"
 :
- 
+
 0
 ,
 
- 
+
 "kids"
 :
- 
+
 [
 15
 ,
- 
+
 234509
 ,
- 
+
 487171
 ]
 ,
 
- 
+
 "url"
 :
- 
+
 "http://ycombinator.com"
 ,
 
- 
+
 "score"
 :
- 
+
 57
 ,
 
- 
+
 "title"
 :
- 
+
 "Y Combinator"
 ,
 
- 
+
 "parts"
 :
- 
+
 [
 ]
 ,
 
- 
+
 "descendants"
 :
- 
+
 0
 ,
 
- 
+
 "words"
 :
- 
+
 [
 "y"
 ,
- 
+
 "combinator"
 ]
 
@@ -1048,118 +1048,118 @@ And here is a comment, showing how discussion threads are connected via theparen
 
 {
 
- 
+
 "id"
 :
- 
+
 15
 ,
 
- 
+
 "deleted"
 :
- 
+
 0
 ,
 
- 
+
 "type"
 :
- 
+
 2
 ,
 
- 
+
 "by"
 :
- 
+
 "sama"
 ,
 
- 
+
 "time"
 :
- 
+
 "2006-10-09T19:51:01+00:00"
 ,
 
- 
+
 "text"
 :
- 
+
 "\"the way to get good software is to find ..."
 ,
 
- 
+
 "dead"
 :
- 
+
 0
 ,
 
- 
+
 "parent"
 :
- 
+
 1
 ,
 
- 
+
 "poll"
 :
- 
+
 0
 ,
 
- 
+
 "kids"
 :
- 
+
 [
 17
 ]
 ,
 
- 
+
 "url"
 :
- 
+
 ""
 ,
 
- 
+
 "score"
 :
- 
+
 0
 ,
 
- 
+
 "title"
 :
- 
+
 ""
 ,
 
- 
+
 "parts"
 :
- 
+
 [
 ]
 ,
 
- 
+
 "descendants"
 :
- 
+
 0
 ,
 
- 
+
 "words"
 :
- 
+
 [
 ]
 
@@ -1191,15 +1191,15 @@ type
 
 int8
 
-Item type as an integer: 
+Item type as an integer:
 1
-=story, 
+=story,
 2
-=comment, 
+=comment,
 3
-=poll, 
+=poll,
 4
-=pollopt, 
+=pollopt,
 5
 =job
 
@@ -1207,9 +1207,9 @@ by
 
 string
 
-Username of the author who created this item. Note: 
+Username of the author who created this item. Note:
 by
- is a reserved word in DuckDB and must be quoted as 
+ is a reserved word in DuckDB and must be quoted as
 "by"
 
 time
@@ -1381,23 +1381,23 @@ For questions, feedback, or issues, please open a discussion on theCommunity tab
 
 Last updated: 2026-03-19 11:15 UTC
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Downloads last month
- 
- 
+
+
 1,426

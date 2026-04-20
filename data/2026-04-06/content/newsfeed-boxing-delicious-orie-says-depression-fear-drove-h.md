@@ -15,7 +15,7 @@ tags:
 
 This video can not be played
 
-Media caption, 
+Media caption,
 
 'I would've been a miserable world champion'
 
@@ -57,9 +57,9 @@ Orie worked for years to become part of Team GB and secure a regular income from
 
 ## Money not a good enough reason to box
 
-Image source, 
+Image source,
 Getty Images
-Image caption, 
+Image caption,
 
 Orie bowed out of the Paris Olympics in the round of 16 against Armenia's Davit Chaloyan
 
@@ -85,9 +85,9 @@ As well as the safety aspect of continuing without his full focus, Orie feared h
 
 "So I had to make a decision. I feel like I would have been really stupid to know that and still keep going for the money."
 
-Image source, 
+Image source,
 Getty Images
-Image caption, 
+Image caption,
 
 Orie wants to be a role model to young men who are considering what to do with their lives
 

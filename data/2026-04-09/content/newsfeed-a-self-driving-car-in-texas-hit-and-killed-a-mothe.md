@@ -30,7 +30,7 @@ Shveyko said the team has reviewed vehicle data and behavior, including replayin
 
 Avride isn’t the only company testing or commercially deploying autonomous vehicles in the city. Zoox has been testing in the city. Tesla and Waymo, in partnership with Uber, also operate a commercial robotaxi service in parts of Austin.
 
- 
+
 
 Techcrunch event
 
@@ -53,23 +53,23 @@ REGISTER NOW
 Topics
 
 autonomous vehicles
-, 
+,
 avride
-, 
+,
 Robotics
-, 
+,
 Transportation
- 
 
-			Kirsten Korosec	
+
+			Kirsten Korosec
 
 Transportation Editor
 
 		Kirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.
 
 
-You can contact or verify outreach from Kirsten by emailing 
+You can contact or verify outreach from Kirsten by emailing
 kirsten.korosec@techcrunch.com
- or via encrypted message at kkorosec.07 on Signal.	
+ or via encrypted message at kkorosec.07 on Signal.
 
 View Bio

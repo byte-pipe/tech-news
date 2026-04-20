@@ -11,7 +11,7 @@ description: 'TradingAgents: Multi-Agents LLM Financial Trading Framework - Taur
 
 TauricResearch
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork6.5k
 * Star33.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -102,26 +102,26 @@ View all files
 ## Repository files navigation
 
 Deutsch
- | 
- 
+ |
+
 Español
- | 
- 
+ |
+
 français
- | 
- 
+ |
+
 日本語
- | 
- 
+ |
+
 한국어
- | 
- 
+ |
+
 Português
- | 
- 
+ |
+
 Русский
- | 
- 
+ |
+
 中文
 
 # TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -191,32 +191,32 @@ pip install -r requirements.txt
 TradingAgents supports multiple LLM providers. Set the API key for your chosen provider:
 
 export
- OPENAI_API_KEY=... 
+ OPENAI_API_KEY=...
 #
  OpenAI (GPT)
 
 export
- GOOGLE_API_KEY=... 
+ GOOGLE_API_KEY=...
 #
  Google (Gemini)
 
 export
- ANTHROPIC_API_KEY=... 
+ ANTHROPIC_API_KEY=...
 #
  Anthropic (Claude)
 
 export
- XAI_API_KEY=... 
+ XAI_API_KEY=...
 #
  xAI (Grok)
 
 export
- OPENROUTER_API_KEY=... 
+ OPENROUTER_API_KEY=...
 #
  OpenRouter
 
 export
- ALPHA_VANTAGE_API_KEY=... 
+ ALPHA_VANTAGE_API_KEY=...
 #
  Alpha Vantage
 
@@ -247,37 +247,37 @@ We built TradingAgents with LangGraph to ensure flexibility and modularity. The 
 To use TradingAgents inside your code, you can import thetradingagentsmodule and initialize aTradingAgentsGraph()object. The.propagate()function will return a decision. You can runmain.py, here's also a quick example:
 
 from
- 
+
 tradingagents
 .
 graph
 .
 trading_graph
- 
+
 import
- 
+
 TradingAgentsGraph
 
 from
- 
+
 tradingagents
 .
 default_config
- 
+
 import
- 
+
 DEFAULT_CONFIG
 
 ta
- 
+
 =
- 
+
 TradingAgentsGraph
 (
 debug
 =
 True
-, 
+,
 config
 =
 DEFAULT_CONFIG
@@ -288,17 +288,17 @@ copy
 # forward propagate
 
 _
-, 
+,
 decision
- 
+
 =
- 
+
 ta
 .
 propagate
 (
 "NVDA"
-, 
+,
 "2026-01-15"
 )
 
@@ -310,31 +310,31 @@ decision
 You can also adjust the default configuration to set your own choice of LLMs, debate rounds, etc.
 
 from
- 
+
 tradingagents
 .
 graph
 .
 trading_graph
- 
+
 import
- 
+
 TradingAgentsGraph
 
 from
- 
+
 tradingagents
 .
 default_config
- 
+
 import
- 
+
 DEFAULT_CONFIG
 
 config
- 
+
 =
- 
+
 DEFAULT_CONFIG
 .
 copy
@@ -343,68 +343,68 @@ copy
 config
 [
 "llm_provider"
-] 
+]
 =
- 
+
 "openai"
- 
+
 # openai, google, anthropic, xai, openrouter, ollama
 
 config
 [
 "deep_think_llm"
-] 
+]
 =
- 
+
 "gpt-5.2"
- 
+
 # Model for complex reasoning
 
 config
 [
 "quick_think_llm"
-] 
+]
 =
- 
+
 "gpt-5-mini"
- 
+
 # Model for quick tasks
 
 config
 [
 "max_debate_rounds"
-] 
+]
 =
- 
+
 2
 
 ta
- 
+
 =
- 
+
 TradingAgentsGraph
 (
 debug
 =
 True
-, 
+,
 config
 =
 config
 )
 
 _
-, 
+,
 decision
- 
+
 =
- 
+
 ta
 .
 propagate
 (
 "NVDA"
-, 
+,
 "2026-01-15"
 )
 
@@ -424,13 +424,13 @@ We welcome contributions from the community! Whether it's fixing a bug, improvin
 Please reference our work if you findTradingAgentsprovides you with some help :)
 
 @misc{xiao2025tradingagentsmultiagentsllmfinancial,
- title={TradingAgents: Multi-Agents LLM Financial Trading Framework}, 
+ title={TradingAgents: Multi-Agents LLM Financial Trading Framework},
  author={Yijia Xiao and Edward Sun and Di Luo and Wei Wang},
  year={2025},
  eprint={2412.20138},
  archivePrefix={arXiv},
  primaryClass={q-fin.TR},
- url={https://arxiv.org/abs/2412.20138}, 
+ url={https://arxiv.org/abs/2412.20138},
 }
 
 ## About
@@ -455,51 +455,51 @@ arxiv.org/pdf/2412.20138
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 33.5k
 
  stars
- 
+
 
 ### Watchers
 
 338
 
  watching
- 
+
 
 ### Forks
 
 6.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases2
 
@@ -507,11 +507,11 @@ TradingAgents v0.2.1
 
  Latest
 
- 
+
 
 Mar 15, 2026
 
- 
+
 
 + 1 release
 
@@ -527,9 +527,9 @@ Mar 15, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -537,9 +537,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

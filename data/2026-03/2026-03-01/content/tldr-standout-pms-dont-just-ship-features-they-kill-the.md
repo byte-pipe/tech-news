@@ -13,16 +13,16 @@ tags:
 
 # Tony Fadell’s Post
 
- 
 
- 
+
+
 
 40,287 followers
 
 * 398 Posts
 
  View Profile
- 
+
 
 Follow
 
@@ -40,6 +40,6 @@ Follow
 * User Experience
 
  Show more
- 
+
 
  Show less

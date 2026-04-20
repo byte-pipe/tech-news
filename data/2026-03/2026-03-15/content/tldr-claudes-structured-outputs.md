@@ -18,8 +18,8 @@ Check out ourCloud Native Servicesandbook a call with one of our experts today!
 
 Jamie Dobson
 
- 
- 
+
+
 
  March 6, 2026
 
@@ -57,7 +57,7 @@ Morse's relay story can be found inHow Innovation Really Works.Finally, here is 
 
 ### Why I'm No Longer Talking to Architects About Microservices
 
- 
+
 
  Previous article
 

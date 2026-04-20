@@ -215,9 +215,9 @@ Bogdan
 
 What started out as a question, quickly turned into an amazing community and excitement.
 
-From my POV, OSS was always unapproachable. Not because people are not warm, but because it's intimidating. 
+From my POV, OSS was always unapproachable. Not because people are not warm, but because it's intimidating.
 
-Not so with npmx. 
+Not so with npmx.
 
 And now I have more confidence to get involved in the future 🫶
 

@@ -5,10 +5,10 @@ generated_at: '2026-04-10T18:00:24.726846'
 ---
 
 ## Executive Summary
-- A critical bug in Anthropic’s Claude model causes it to treat its own internal messages as user commands, raising safety concerns across LLM platforms.  
-- Amazon’s shareholder letter outlines massive 2026 cap‑ex ($200 bn) to fuel AWS growth, highlights its Trainium AI chips, and announces the upcoming Amazon Leo satellite‑internet service.  
-- Environmental and consumer‑impact stories dominate: manure‑digesters cut dairy methane but risk ammonia spikes and generate e‑waste, while Amazon’s Kindle retirement threatens up to 2 million functional devices.  
-- New scientific advances include ambiphilic aryl‑bismuth reagents that blur traditional cross‑coupling roles, and Poke launches a text‑message AI assistant aimed at mainstream adoption.  
+- A critical bug in Anthropic’s Claude model causes it to treat its own internal messages as user commands, raising safety concerns across LLM platforms.
+- Amazon’s shareholder letter outlines massive 2026 cap‑ex ($200 bn) to fuel AWS growth, highlights its Trainium AI chips, and announces the upcoming Amazon Leo satellite‑internet service.
+- Environmental and consumer‑impact stories dominate: manure‑digesters cut dairy methane but risk ammonia spikes and generate e‑waste, while Amazon’s Kindle retirement threatens up to 2 million functional devices.
+- New scientific advances include ambiphilic aryl‑bismuth reagents that blur traditional cross‑coupling roles, and Poke launches a text‑message AI assistant aimed at mainstream adoption.
 - Policy battles surface in Argentina, where a glacier‑mining law amendment passes despite protests, underscoring tensions between resource extraction and climate protection.
 
 ---

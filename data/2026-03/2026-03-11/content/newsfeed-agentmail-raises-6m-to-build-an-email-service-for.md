@@ -47,21 +47,21 @@ Aujla concluded, “You give an agent an email address, [and] it can now use ess
 Topics
 
 AgentMail
-, 
+,
 AI
-, 
+,
 AI agents
-, 
+,
 email
-, 
+,
 Fundraising
-, 
+,
 General Catalyst
-, 
+,
 openclaw
- 
 
-			Ram Iyer	
+
+			Ram Iyer
 
 Editor
 
@@ -69,6 +69,6 @@ Ram is a financial and tech reporter and editor. He covered North American and E
 
 You can contact or verify outreach from Ram by emailingram.iyer@techcrunch.com.
 
- 
+
 
 View Bio

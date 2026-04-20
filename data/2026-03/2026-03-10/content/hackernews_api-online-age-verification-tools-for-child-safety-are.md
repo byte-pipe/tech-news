@@ -97,7 +97,7 @@ watch now
 VIDEO
 13:01
 Watch CNBC's full interview with Horacio Rozanski and Ben Horowitz
-How Anthropic AI ban from Trump administration can escalate to existential business risk for fast-growing company 
+How Anthropic AI ban from Trump administration can escalate to existential business risk for fast-growing company
 Barbara Booth
 Op-ed: What China is probably thinking about U.S. strikes against Iran
 Dewardric L. McNeal

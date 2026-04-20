@@ -30,7 +30,7 @@ Ascend has developed a process to extract valuable critical minerals from scrap 
 
 The company has been building a 1 million-square-foot facility in Kentucky that has been beset by lawsuits and delays, according tolocal reports.
 
- 
+
 
 Techcrunch event
 
@@ -57,21 +57,21 @@ Other recycling startups like Redwood Materials have pivoted toreusing some of t
 Topics
 
 Ascend Elements
-, 
+,
 bankruptcy
-, 
+,
 battery recycling
-, 
+,
 Climate
-, 
+,
 lithium battery recycling
-, 
+,
 lithium ion batteries
-, 
+,
 Transportation
- 
 
-			Tim De Chant	
+
+			Tim De Chant
 
 Senior Reporter, Climate
 
@@ -81,6 +81,6 @@ De Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and 
 
 You can contact or verify outreach from Tim by emailingtim.dechant@techcrunch.com.
 
- 
+
 
 View Bio

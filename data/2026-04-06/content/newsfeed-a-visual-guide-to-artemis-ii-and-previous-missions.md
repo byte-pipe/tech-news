@@ -31,9 +31,9 @@ google
 Add Al Jazeera on Google
 info
 Earth is 3.7 times the width of the moon. If the Earth were a basketball, the moon would be the size of a tennis ball [Al Jazeera]
-By 
+By
 Yara Algosaibi
- and 
+ and
 Mohammed Haddad
 Published On 6 Apr 2026
 6 Apr 2026

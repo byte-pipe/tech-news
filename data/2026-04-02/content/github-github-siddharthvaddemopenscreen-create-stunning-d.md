@@ -11,7 +11,7 @@ description: 'Create stunning demos for free. Open-source, no subscriptions, no 
 
 siddharthvaddem
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.1k
 * Star15.3k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -273,53 +273,53 @@ openscreen.vercel.app
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 15.3k
 
  stars
- 
+
 
 ### Watchers
 
 32
 
  watching
- 
+
 
 ### Forks
 
 1.1k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases11
 
@@ -327,11 +327,11 @@ v1.3.0
 
  Latest
 
- 
+
 
 Apr 2, 2026
 
- 
+
 
 + 10 releases
 
@@ -347,9 +347,9 @@ Apr 2, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -357,9 +357,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

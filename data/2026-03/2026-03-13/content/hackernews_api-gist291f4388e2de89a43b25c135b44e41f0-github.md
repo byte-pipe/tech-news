@@ -18,20 +18,20 @@ Instantly share code, notes, and snippets.
 # bretonium/gist:291f4388e2de89a43b25c135b44e41f0
 
  Last active
- 
+
 March 13, 2026 11:14
 
- 
+
 
 Show Gist options
 
- 
+
 
 * Download ZIP
 
- 
 
- 
+
+
 
 * Star80(80)You must be signed in to star a gist
 * Fork3(3)You must be signed in to fork a gist
@@ -42,13 +42,13 @@ Show Gist options
 * Clone via HTTPSClone using the web URL.
 * Save bretonium/291f4388e2de89a43b25c135b44e41f0 to your computer and use it in GitHub Desktop.
 
- 
+
 
 Embed
 
 # Select an option
 
- 
+
 
 * EmbedEmbed this gist in your website.
 * ShareCopy sharable link for this gist.
@@ -56,32 +56,32 @@ Embed
 
 ## No results found
 
- 
 
- 
- 
+
+
+
 Learn more about clone URLs
 
- 
 
- 
+
+
 
  Clone this repository at &lt;script src=&quot;https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0.js&quot;&gt;&lt;/script&gt;
 
- 
 
- 
+
+
 
 Save bretonium/291f4388e2de89a43b25c135b44e41f0 to your computer and use it in GitHub Desktop.
 
 Download ZIP
 
- 
+
 
 Raw
 
  gistfile1.md
- 
+
 
 * Shall i implement it?
 * No
@@ -89,7 +89,7 @@ Raw
 
 Load earlier comments...
 
- 
+
 
 ### carlosonunezcommentedMar 12, 2026
 
@@ -101,11 +101,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ro31337commentedMar 12, 2026
 
@@ -119,11 +119,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### SerJaimeLannistercommentedMar 12, 2026
 
@@ -137,11 +137,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### WolffMcommentedMar 12, 2026
 
@@ -153,11 +153,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### Explosion-ScratchcommentedMar 13, 2026•edited
 
@@ -173,11 +173,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### jeffehobbscommentedMar 13, 2026
 
@@ -189,11 +189,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### simon-curtiscommentedMar 13, 2026
 
@@ -207,11 +207,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### jrhodkinsoncommentedMar 13, 2026
 
@@ -221,11 +221,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### V1c70rB0b741l5wcommentedMar 13, 2026
 
@@ -237,11 +237,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### opticaldrivecommentedMar 13, 2026
 
@@ -253,11 +253,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### nathan-gagecommentedMar 13, 2026
 
@@ -269,11 +269,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### mraza007commentedMar 13, 2026
 
@@ -285,11 +285,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### brendescommentedMar 13, 2026
 
@@ -299,11 +299,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### robertwt7commentedMar 13, 2026
 
@@ -315,11 +315,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### joshterrillcommentedMar 13, 2026
 
@@ -331,11 +331,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### darthcodercommentedMar 13, 2026
 
@@ -347,11 +347,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### timsuchanekcommentedMar 13, 2026
 
@@ -363,11 +363,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ShrootBuckcommentedMar 13, 2026
 
@@ -379,11 +379,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### hwhang0917commentedMar 13, 2026
 
@@ -395,11 +395,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ataeycommentedMar 13, 2026
 
@@ -411,11 +411,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### dhenson02commentedMar 13, 2026
 
@@ -427,11 +427,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### esulcjcommentedMar 13, 2026
 
@@ -443,11 +443,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### veganmosfetcommentedMar 13, 2026
 
@@ -459,11 +459,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### nullbiocommentedMar 13, 2026
 
@@ -475,11 +475,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### darpan-e6commentedMar 13, 2026
 
@@ -489,11 +489,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### alexaivarscommentedMar 13, 2026
 
@@ -503,11 +503,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### qhsongcommentedMar 13, 2026
 
@@ -519,11 +519,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### janpaepkecommentedMar 13, 2026
 
@@ -533,11 +533,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ringecommentedMar 13, 2026
 
@@ -549,11 +549,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### nicolasbeauvaiscommentedMar 13, 2026
 
@@ -563,14 +563,14 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Sign up for free
 
 to join this conversation on GitHub
 .
  Already have an account?
- 
+
 Sign in to comment

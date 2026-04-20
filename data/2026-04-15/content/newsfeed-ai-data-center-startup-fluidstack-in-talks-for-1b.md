@@ -30,7 +30,7 @@ The deal was a huge vote of confidence for Fluidstack, a company that was relati
 
 This partnership is so significant to the startup that Fluidstack — which was spun out of Oxford and had been a rising star in Europe’s AI scene — relocated its headquarters from the U.K. to New York. Last month, it also pulled out of akey €10 billion AI project in France, Bloomberg reported, to focus on U.S. opportunities.
 
- 
+
 
 Techcrunch event
 
@@ -57,31 +57,31 @@ Fluidstack did not respond to a request for comment.
 Topics
 
 data centers
-, 
+,
 Enterprise
-, 
+,
 fluidstack
-, 
+,
 Hardware
-, 
+,
 neocloud
-, 
+,
 Startups
-, 
+,
 TC
- 
 
-			Julie Bort	
+
+			Julie Bort
 
 Venture Editor
 
-		Julie Bort is the Startups/Venture Desk editor for TechCrunch. 
+		Julie Bort is the Startups/Venture Desk editor for TechCrunch.
 
 
-You can contact or verify outreach from Julie by emailing 
+You can contact or verify outreach from Julie by emailing
 julie.bort@techcrunch.com
- or via 
+ or via
 @Julie188
- on X.	
+ on X.
 
 View Bio

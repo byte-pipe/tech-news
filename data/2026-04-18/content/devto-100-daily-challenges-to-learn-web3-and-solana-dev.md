@@ -79,7 +79,7 @@ Register now so you don't miss our announcement!
 Register for 100 Days of Solana
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

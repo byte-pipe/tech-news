@@ -20,7 +20,7 @@ tags:
 * Zhiyuan Zheng
 * Catherine Newcomb
 5 min read
-This post is also available in 
+This post is also available in
 한국어
 .
 
@@ -96,29 +96,29 @@ If you're on a Free, Pro, or Business plan, you can use AI endpoint discovery to
 
 For configuration details, see ourdocumentation.
 
-Cloudflare's connectivity cloud protects 
+Cloudflare's connectivity cloud protects
 entire corporate networks
-, helps customers build 
+, helps customers build
 Internet-scale applications efficiently
-, accelerates any 
+, accelerates any
 website or Internet application
-, 
+,
 wards off DDoS attacks
-, keeps 
+, keeps
 hackers at bay
-, and can help you on 
+, and can help you on
 your journey to Zero Trust
 .
-Visit 
+Visit
 1.1.1.1
  from any device to get started with our free app that makes your Internet faster and safer.
-To learn more about our mission to help build a better Internet, 
+To learn more about our mission to help build a better Internet,
 start here
-. If you're looking for a new career direction, check out 
+. If you're looking for a new career direction, check out
 our open positions
 .
- 
- 
+
+
 Product News
 AI
 WAF

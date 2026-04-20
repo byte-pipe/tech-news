@@ -27,8 +27,8 @@ tags:
 ﻿Newsrooms are cutting deals with prediction market platforms like Kalshi and Polymarket while banning staff from using them.
 
 by
- 
- 
+
+
 Mia Sato
 Apr 17, 2026, 6:07 PM UTC
 * Link
@@ -37,9 +37,9 @@ Apr 17, 2026, 6:07 PM UTC
 Image: Cath Virginia / The Verge, Getty Images
 Part Of
 Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi
-see all updates 
+see all updates
 Mia Sato
- 
+
 is features writer with five years of experience covering the companies that shape technology and the people who use their tools.
 
 Prediction market exchanges have created an environment where just about any piece of information is potentially monetizable: How well will BTS’s new song perform this week? How hot will Los Angeles get? Will Donald Trump be impeached? Users can wager on all of that and, on some platforms,more gruesome and violent outcomesin the real world.
@@ -130,19 +130,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

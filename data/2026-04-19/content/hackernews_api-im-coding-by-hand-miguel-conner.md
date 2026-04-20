@@ -71,7 +71,7 @@ So how is it going?
 
 I’ve done the first assignment fromStanford’s CS336: Language Modeling from Scratchcourse, without coding help from an LLM.2For context, it was a 50-page assignment, but working with another Recurser, we wrote an optimized tokenizer in Python, and then built out an upgraded GPT-2 style architecture in PyTorch. We ran multiple ablations to tune hyperparameters on the Tiny Stories datasets, and then used those hyperparameters on the ~9 billion tokens of the OpenWebText dataset.
 
-Parameter sweep of different learning rates for the 17M parameter model we wrote by hand; high learning rates lead to instability. This was on the Tiny Stories dataset, and took about an hour to train on an A100. 
+Parameter sweep of different learning rates for the 17M parameter model we wrote by hand; high learning rates lead to instability. This was on the Tiny Stories dataset, and took about an hour to train on an A100.
 
 My plan is to do the other assignments in CS336 as well: optimizing our language model, estimating and computing scaling laws, converting raw text data into pre-training data, and finally post-training a model. I’ve already started the second assignment which involves profiling GPUs and implementing FlashAttention2 in Triton. There’s a lot to do, but ideally I can run through the meat of these assignments and then post-train my own model.
 

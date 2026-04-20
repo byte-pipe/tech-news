@@ -13,9 +13,9 @@ tags:
 ---
 
 ESA
- /			
+ /
 Applications
- /			
+ /
 Connectivity and Secure Communications
 
 Faster, more secure connections from space could one day make broadband on planes, ships and even remote roads as easy as turning on a light. The European Space Agency (ESA), Airbus Defence and Space, the Netherlands Organisation for Applied Scientific Research (TNO) and German payload manufacturer TESAT (as subcontractor) successfully connected an aircraft to a geostationary satellite using laser communications, bringing people closer to seamless, high‑speed connections in daily life.
@@ -30,7 +30,7 @@ In this demonstration, the aircraft’s terminal stayed connected to the Alphasa
 
 These developments entail a future where travellers could enjoy reliable, high‑speed internet while flying, and where people on ships or in vehicles crossing remote regions can stay connected without interruption. Europe’s investment in laser‑based communications is laying the foundations for everyday technologies that depend on strong and dependable links.
 
- 
+
 
 Airbus' UltraAir laser terminal seen from the outside of the aircraft
 
@@ -44,7 +44,7 @@ The UltraAir laser terminal was developed through ESA’s programme for Optical 
 
 “Optical communications between airborne users and satellite networks, like ESA’s High-thRoughput Optical Network (HydRON), are high on ESA’s agenda,” said Harald Hauschildt, Head of ESA’s Optical and Quantum Communication Office. “High-data rate, low-latency links that connect High-Altitude Pseudo Satellites (HAPS) and aircraft are equally demanded for commercial and resilience driven applications.”
 
- 
+
 
 Like
 

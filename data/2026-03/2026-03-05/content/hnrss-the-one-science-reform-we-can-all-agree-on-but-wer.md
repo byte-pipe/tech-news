@@ -51,9 +51,9 @@ It used to be a huge pain to produce a physical journal—someone had to operate
 
 Those companies knew they had a captive audience, so they bought up as many journals as they could. Journal articles aren’t interchangeable commodities like corn or soybeans—if your science supplier starts gouging you, you can’t just switch to a new one. Adding to this lock-in effect, publishing in “high-impact” journals became the key to success in science, which meant if you wanted tomoveup, your university had topayup. So, even as the internet made it much cheaper to produce a journal, publishers made it much more expensive to subscribe to one.
 
-Robert Maxwell, one of the architects of the for-profit scientific publishing scheme. When he later went into debt, he 
+Robert Maxwell, one of the architects of the for-profit scientific publishing scheme. When he later went into debt, he
 plundered hundreds of millions of pounds from his employees’ pension funds
-. You may be familiar with his daughter and lieutenant 
+. You may be familiar with his daughter and lieutenant
 Ghislaine Maxwell
 , who went on to have a successful career in child trafficking. (
 source

@@ -11,7 +11,7 @@ description: Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-os
 
 ollama
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork15.4k
 * Star167k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -281,7 +281,7 @@ Start building with open models.
 
 ### macOS
 
-curl -fsSL https://ollama.com/install.sh 
+curl -fsSL https://ollama.com/install.sh
 |
  sh
 
@@ -289,7 +289,7 @@ ordownload manually
 
 ### Windows
 
-irm https://ollama.com/install.ps1 
+irm https://ollama.com/install.ps1
 |
  iex
 
@@ -297,7 +297,7 @@ ordownload manually
 
 ### Linux
 
-curl -fsSL https://ollama.com/install.sh 
+curl -fsSL https://ollama.com/install.sh
 |
  sh
 
@@ -368,35 +368,35 @@ See theAPI documentationfor all endpoints.
 pip install ollama
 
 from
- 
+
 ollama
- 
+
 import
- 
+
 chat
 
 response
- 
+
 =
- 
+
 chat
 (
 model
 =
 'gemma3'
-, 
+,
 messages
 =
 [
  {
- 
+
 'role'
-: 
+:
 'user'
 ,
- 
+
 'content'
-: 
+:
 'Why is the sky blue?'
 ,
  },
@@ -416,49 +416,49 @@ content
 npm i ollama
 
 import
- 
+
 ollama
- 
+
 from
- 
+
 "ollama"
 ;
 
 const
- 
+
 response
- 
+
 =
- 
+
 await
- 
+
 ollama
 .
 chat
 (
 {
 
- 
+
 model
-: 
+:
 "gemma3"
 ,
 
- 
+
 messages
-: 
+:
 [
 {
- 
+
 role
-: 
+:
 "user"
 ,
- 
+
 content
-: 
+:
 "Why is the sky blue?"
- 
+
 }
 ]
 ,
@@ -738,61 +738,61 @@ ollama.com
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 167k
 
  stars
- 
+
 
 ### Watchers
 
 924
 
  watching
- 
+
 
 ### Forks
 
 15.4k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases199
 
@@ -800,11 +800,11 @@ v0.20.2
 
  Latest
 
- 
+
 
 Apr 4, 2026
 
- 
+
 
 + 198 releases
 
@@ -812,9 +812,9 @@ Apr 4, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -822,9 +822,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

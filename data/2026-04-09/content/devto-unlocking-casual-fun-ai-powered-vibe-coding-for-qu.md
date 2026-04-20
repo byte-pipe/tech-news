@@ -42,7 +42,7 @@ I know there is a lot of anti-AI sentiment out there. I added a footer on the si
 Our Valentines Glams
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

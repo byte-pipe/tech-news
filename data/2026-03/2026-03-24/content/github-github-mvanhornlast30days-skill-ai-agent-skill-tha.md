@@ -11,7 +11,7 @@ description: AI agent skill that researches any topic across Reddit, X, YouTube,
 
 mvanhorn
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork531
 * Star4.8k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -218,21 +218,21 @@ gemini extensions install https://github.com/mvanhorn/last30days-skill.git
 #
  Clone the repo
 
-git clone https://github.com/mvanhorn/last30days-skill.git 
+git clone https://github.com/mvanhorn/last30days-skill.git
 ~
 /.claude/skills/last30days
 
 #
  Add your API keys (optional if signed in to Codex)
 
-mkdir -p 
+mkdir -p
 ~
 /.config/last30days
-cat 
+cat
 >
- 
+
 ~
-/.config/last30days/.env 
+/.config/last30days/.env
 <<
  '
 EOF
@@ -254,7 +254,7 @@ BSKY_APP_PASSWORD=xxxx-xxxx-xxxx # optional - bsky.app/settings/app-passwords
 
 EOF
 
-chmod 600 
+chmod 600
 ~
 /.config/last30days/.env
 
@@ -276,7 +276,7 @@ xAI fallback:If you do not want to provideAUTH_TOKENandCT0, setXAI_API_KEYand th
 
 Verify it's working:
 
-node 
+node
 ~
 /.claude/skills/last30days/scripts/lib/vendor/bird-search/bird-search.mjs --whoami
 
@@ -286,7 +286,7 @@ Requirements:Node.js 22+ (for the vendored Twitter GraphQL client).
 
 This skill also works in OpenAI Codex CLI. Install to the Codex skills directory instead:
 
-git clone https://github.com/mvanhorn/last30days-skill.git 
+git clone https://github.com/mvanhorn/last30days-skill.git
 ~
 /.agents/skills/last30days
 
@@ -301,7 +301,7 @@ Important:The watchlist stores schedules as metadata, but nothing triggers runs 
 #
  Enable the open variant
 
-cp variants/open/SKILL.md 
+cp variants/open/SKILL.md
 ~
 /.claude/skills/last30days/SKILL.md
 
@@ -335,25 +335,25 @@ Both variants use the same Python engine and scripts directory. The open variant
 
 Optional web search API keys(add to~/.config/last30days/.env):
 
-PARALLEL_API_KEY=... 
+PARALLEL_API_KEY=...
 #
  Parallel AI (preferred - LLM-optimized results)
 
-BRAVE_API_KEY=... 
+BRAVE_API_KEY=...
 #
  Brave Search (free tier: 2,000 queries/month)
 
-OPENROUTER_API_KEY=... 
+OPENROUTER_API_KEY=...
 #
  OpenRouter/Perplexity Sonar Pro
 
 Optional Bluesky credentials(add to~/.config/last30days/.env):
 
-BSKY_HANDLE=you.bsky.social 
+BSKY_HANDLE=you.bsky.social
 #
  Your Bluesky handle
 
-BSKY_APP_PASSWORD=xxxx-xxxx-xxxx 
+BSKY_APP_PASSWORD=xxxx-xxxx-xxxx
 #
  Create at bsky.app/settings/app-passwords
 
@@ -412,168 +412,168 @@ Then asked:"make a mock-up of an app for moms who swim"
 Generated Prompt:
 
 {
- 
+
 "image_type"
-: 
+:
 "
 UI mockup
 "
 ,
- 
+
 "device"
 : {
- 
+
 "frame"
-: 
+:
 "
 iPhone 16 Pro
 "
 ,
- 
+
 "display"
-: 
+:
 "
 realistic screen with subtle reflection
 "
 ,
- 
+
 "orientation"
-: 
+:
 "
 portrait
 "
 
  },
- 
+
 "app_concept"
-: 
+:
 "
 SwimMom - fitness and community app for mothers who swim
 "
 ,
- 
+
 "screen"
-: 
+:
 "
 home dashboard
 "
 ,
- 
+
 "design_system"
 : {
- 
+
 "style"
-: 
+:
 "
 iOS 18 native
 "
 ,
- 
+
 "corners"
-: 
+:
 "
 rounded, 16px radius
 "
 ,
- 
+
 "shadows"
-: 
+:
 "
 soft drop shadows, subtle depth
 "
 ,
- 
+
 "spacing"
-: 
+:
 "
 8pt grid, generous whitespace
 "
 
  },
- 
+
 "color_palette"
 : {
- 
+
 "primary"
-: 
+:
 "
 calming aqua blue (#4ECDC4)
 "
 ,
- 
+
 "secondary"
-: 
+:
 "
 warm coral (#FF6B6B)
 "
 ,
- 
+
 "background"
-: 
+:
 "
 clean white with soft blue gradient header
 "
 
  },
- 
+
 "layout"
 : {
- 
+
 "header"
-: 
+:
 "
 greeting 'Good morning, Sarah' with wave icon, profile avatar top right
 "
 ,
- 
+
 "hero_card"
-: 
+:
 "
 today's swim stats - laps, calories, time - with circular progress ring
 "
 ,
- 
+
 "section_2"
-: 
+:
 "
 horizontal scroll of upcoming mom swim meetups with location pills
 "
 ,
- 
+
 "section_3"
-: 
+:
 "
 two cards - 'My Goals' with streak counter, 'Find a Pool' with map pin
 "
 ,
- 
+
 "bottom_nav"
-: 
+:
 "
 5 icons - Home (active), Workouts, Community, Schedule, Profile
 "
 
  },
- 
+
 "visual_details"
 : {
- 
+
 "illustrations"
-: 
+:
 "
 friendly, minimal line art of swimming figure
 "
 ,
- 
+
 "typography"
-: 
+:
 "
 SF Pro Display, clean hierarchy
 "
 ,
- 
+
 "mood"
-: 
+:
 "
 energizing yet calm, supportive community feel
 "
@@ -1089,211 +1089,211 @@ Then asked:"2x2 grid of the same person at age 10, 20, 40 and 80 - a woman with 
 Generated Prompt:
 
 {
- 
+
 "prompt_type"
-: 
+:
 "
 Ultra-Photorealistic Multi-Panel Portrait
 "
 ,
- 
+
 "layout"
-: 
+:
 "
 2x2 grid, seamless white dividers
 "
 ,
- 
+
 "aspect_ratio"
-: 
+:
 "
 1:1
 "
 ,
- 
+
 "consistency"
 : {
- 
+
 "same_person"
-: 
+:
 true
 ,
- 
+
 "preserve_features"
 : [
 "
 bone structure
 "
-, 
+,
 "
 freckle pattern
 "
-, 
+,
 "
 eye shape
 "
-, 
+,
 "
 heterochromia
 "
 ]
  },
- 
+
 "subject"
 : {
- 
+
 "identity"
-: 
+:
 "
 Same woman shown at 4 life stages
 "
 ,
- 
+
 "distinctive_features"
 : {
- 
+
 "eyes"
-: 
+:
 "
 Almond-shaped cat eyes with heterochromia - one green, one amber
 "
 ,
- 
+
 "skin"
-: 
+:
 "
 Fair complexion densely covered in natural freckles across nose, cheeks, and forehead
 "
 ,
- 
+
 "hair"
-: 
+:
 "
 Brown hair, natural texture
 "
 
  }
  },
- 
+
 "panels"
 : [
  {
 "position"
-: 
+:
 "
 top-left
 "
-, 
+,
 "age"
-: 
+:
 10
-, 
+,
 "expression"
-: 
+:
 "
 curious childhood smile
 "
-, 
+,
 "hair"
-: 
+:
 "
 long brown hair with bangs
 "
 },
  {
 "position"
-: 
+:
 "
 top-right
 "
-, 
+,
 "age"
-: 
+:
 20
-, 
+,
 "expression"
-: 
+:
 "
 confident young adult
 "
-, 
+,
 "hair"
-: 
+:
 "
 shoulder-length brown hair
 "
 },
  {
 "position"
-: 
+:
 "
 bottom-left
 "
-, 
+,
 "age"
-: 
+:
 40
-, 
+,
 "expression"
-: 
+:
 "
 warm maternal gaze
 "
-, 
+,
 "hair"
-: 
+:
 "
 brown hair with subtle highlights
 "
 },
  {
 "position"
-: 
+:
 "
 bottom-right
 "
-, 
+,
 "age"
-: 
+:
 80
-, 
+,
 "expression"
-: 
+:
 "
 wise gentle smile
 "
-, 
+,
 "hair"
-: 
+:
 "
 silver-gray, formerly brown
 "
 }
  ],
- 
+
 "lighting"
-: 
+:
 "
 Soft natural window light, consistent across all panels
 "
 ,
- 
+
 "camera"
-: 
+:
 "
 85mm portrait lens, shallow depth of field, neutral background
 "
 ,
- 
+
 "texture_quality"
-: 
+:
 "
 8K, natural skin texture with visible pores, realistic freckle detail
 "
 ,
- 
+
 "negative"
-: 
+:
 "
 no cartoon effect, no airbrushed skin, no symmetrical freckles, maintain heterochromia in all panels
 "
@@ -1402,15 +1402,15 @@ Community-shared rule structure:
 ---
 
 alwaysApply
-: 
+:
 true
 
 ---
 
-# 
+#
 STRICT RULES
 
-## 
+##
 CRITICAL PARTNER MINDSET
 
 -
@@ -1558,7 +1558,7 @@ Description
 
 --days=N
 
-Look back N days instead of 30 (e.g., 
+Look back N days instead of 30 (e.g.,
 --days=7
  for weekly roundup)
 
@@ -1624,7 +1624,7 @@ which python3
 #
  Fix: run the certificate installer (adjust version as needed)
 
-sudo 
+sudo
 "
 /Applications/Python 3.12/Install Certificates.command
 "
@@ -1666,13 +1666,13 @@ If your OpenAI org doesn't have access to a model (e.g., unverified for gpt-4.1)
 Reddit now runs onScrapeCreatorsby default. OneSCRAPECREATORS_API_KEYpowers Reddit, TikTok, and Instagram — three sources, one key. No moreOPENAI_API_KEYrequired for Reddit search.
 
 echo
- 
+
 '
 SCRAPECREATORS_API_KEY=your_key_here
 '
- 
+
 >>
- 
+
 ~
 /.config/last30days/.env
 
@@ -1781,13 +1781,13 @@ Search "AI tools" and you get:
 Both TikTok and Instagram are powered byScrapeCreators— one API key covers both sources. 100 free credits, then pay-as-you-go.
 
 echo
- 
+
 '
 SCRAPECREATORS_API_KEY=your_key_here
 '
- 
+
 >>
- 
+
 ~
 /.config/last30days/.env
 
@@ -1955,7 +1955,7 @@ Thread URLs for enrichment
 
 None (public JSON)
 
-Twitter GraphQL / 
+Twitter GraphQL /
 api.x.ai
 
 Search query
@@ -2065,48 +2065,48 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 4.8k
 
  stars
- 
+
 
 ### Watchers
 
 31
 
  watching
- 
+
 
 ### Forks
 
 531
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases4
 
@@ -2114,11 +2114,11 @@ v2.9.0: ScrapeCreators Reddit default, smart discovery, top comments
 
  Latest
 
- 
+
 
 Mar 6, 2026
 
- 
+
 
 + 3 releases
 
@@ -2134,9 +2134,9 @@ Mar 6, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -2144,9 +2144,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

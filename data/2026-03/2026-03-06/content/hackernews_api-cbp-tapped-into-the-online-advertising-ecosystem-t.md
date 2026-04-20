@@ -30,17 +30,17 @@ Joseph Cox
 
  Mar 3, 2026
  at 9:03 AM
- 
 
- 
+
+
 
 An internal DHS document obtained by 404 Media shows for the first time CBP used location data sourced from the online advertising industry to track phone locations. ICE has bought access to similar tools.
 
-Image: Customs and Border Protection, 
+Image: Customs and Border Protection,
 via Flickr
 .
 
- 
+
 
 Advertisement
 

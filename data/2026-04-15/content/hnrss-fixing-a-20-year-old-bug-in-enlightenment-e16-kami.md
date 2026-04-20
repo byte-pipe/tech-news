@@ -16,21 +16,21 @@ tags:
 # Fixing a 20-year-old bug in Enlightenment E16.
 
  2026-04-15 ::
- 
- 
+
+
 
 Kamila Szewczyk
 
- 
+
  #
 c
  
- 
+
  #
 linux
  
- 
- 
+
+
 
 The editor in chief of this blog was born in 2004. She uses the 1997 window manager,Enlightenment E16, daily. In this article, I describe the process of fixing a show-stopping, rare bug that dates back to 2006 in the codebase. Surprisingly, the issue has roots in a faulty implementation of Newton’s algorithm.
 
@@ -87,47 +87,47 @@ I always saw two trial truncations, forever, same text each time.
 We start at the lowest common denominator - there is likely a logic bug here.
 
 static
- 
+
 void
 
 TextstateTextFitMB
 (
-TextState 
+TextState
 *
 ts
 ,
- 
+
 char
- 
+
 *
 *
 ptext
 ,
- 
+
 int
- 
+
 *
 pw
 ,
- 
+
 int
  textwidth_limit
 )
 
 {
 
- 
+
 char
- 
+
 *
-text 
+text
 =
- 
+
 *
 ptext
 ;
 
- 
+
 int
  width
 ,
@@ -138,53 +138,53 @@ int
  cw
 ;
 
- 
+
 char
- 
+
 *
 new_line
 ;
 
- 
+
 int
  nuke_count
 ,
  nc2
 ;
 
- 
+
 int
  len
 ,
  len_mb
 ;
 
- 
+
 wchar_t
- 
+
 *
-wc_line 
+wc_line
 =
- 
+
 NULL
 ;
 
- 
+
 int
  wc_len
 ,
  len_n
 ;
 
- 
+
 if
- 
+
 (
 EwcOpen
 (
 ts
 ->
-need_utf8 
+need_utf8
 ||
  Mode
 .
@@ -194,81 +194,81 @@ utf8_int
 )
 )
 
- 
+
 return
 ;
 
- len 
+ len
 =
- 
+
 strlen
 (
 text
 )
 ;
 
- wc_len 
+ wc_len
 =
- 
+
 EwcStrToWcs
 (
 text
 ,
  len
 ,
- 
+
 NULL
 ,
- 
+
 0
 )
 ;
 
- 
+
 if
- 
+
 (
-wc_len 
+wc_len
 <=
- 
+
 1
 )
 
- 
+
 goto
  done
 ;
 
- wc_line 
+ wc_line
 =
- 
+
 EMALLOC
 (
 wchar_t
 ,
- wc_len 
+ wc_len
 +
- 
+
 1
 )
 ;
 
- 
+
 if
- 
+
 (
 !
 wc_line
 )
 
- 
+
 goto
  done
 ;
 
- 
+
 if
- 
+
 (
 EwcStrToWcs
 (
@@ -280,119 +280,119 @@ text
 ,
  wc_len
 )
- 
+
 <=
- 
+
 0
 )
 
- 
+
 goto
  done
 ;
 
- new_line 
+ new_line
 =
- 
+
 EMALLOC
 (
 char
 ,
- len 
+ len
 +
- 
+
 10
 )
 ;
 
- 
+
 if
- 
+
 (
 !
 new_line
 )
 
- 
+
 goto
  done
 ;
 
- width 
+ width
 =
- 
+
 *
 pw
 ;
 
- nuke_count 
+ nuke_count
 =
- 
+
 (
 (
-width 
+width
 -
  textwidth_limit
 )
- 
+
 *
  wc_len
 )
- 
+
 /
  width
 ;
 
- 
+
 if
- 
+
 (
-nuke_count 
+nuke_count
 <
- 
+
 2
 )
 
- nuke_count 
+ nuke_count
 =
- 
+
 2
 ;
 
- 
+
 for
- 
+
 (
 ;
 ;
 )
 
- 
+
 {
 
- 
+
 if
- 
+
 (
-nuke_count 
+nuke_count
 >=
- wc_len 
+ wc_len
 -
- 
+
 1
 )
 
- 
+
 {
 
- len_mb 
+ len_mb
 =
- 
+
 EwcWcsToStr
 (
 wc_line
 ,
- 
+
 1
 ,
  new_line
@@ -401,58 +401,58 @@ wc_line
 )
 ;
 
- 
+
 if
- 
+
 (
-len_mb 
+len_mb
 <
- 
+
 0
 )
 
- len_mb 
+ len_mb
 =
- 
+
 1
 ;
 
- 
+
 strcpy
 (
-new_line 
+new_line
 +
  len_mb
 ,
- 
+
 "..."
 )
 ;
 
- 
+
 break
 ;
 
- 
+
 }
 
- nc2 
+ nc2
 =
- 
+
 (
-wc_len 
+wc_len
 -
  nuke_count
 )
- 
+
 /
- 
+
 2
 ;
 
- len_mb 
+ len_mb
 =
- 
+
 EwcWcsToStr
 (
 wc_line
@@ -461,62 +461,62 @@ wc_line
 ,
  new_line
 ,
- len 
+ len
 +
- 
+
 10
 )
 ;
 
- 
+
 memcpy
 (
-new_line 
+new_line
 +
  len_mb
 ,
- 
+
 "..."
 ,
- 
+
 3
 )
 ;
 
- len_mb 
+ len_mb
 +=
- 
+
 3
 ;
 
- len_mb 
+ len_mb
 +=
- 
+
 EwcWcsToStr
 (
-wc_line 
+wc_line
 +
- nc2 
+ nc2
 +
  nuke_count
 ,
 
- wc_len 
+ wc_len
 -
- nc2 
+ nc2
 -
  nuke_count
 ,
 
- new_line 
+ new_line
 +
  len_mb
 ,
- len 
+ len
 +
- 
+
 10
- 
+
 -
  len_mb
 )
@@ -526,19 +526,19 @@ wc_line
 [
 len_mb
 ]
- 
+
 =
- 
+
 '\0'
 ;
 
- len_n 
+ len_n
 =
- wc_len 
+ wc_len
 -
- nuke_count 
+ nuke_count
 +
- 
+
 3
 ;
 
@@ -552,157 +552,157 @@ ts
 ,
  new_line
 ,
- 
+
 0
 ,
  pw
 ,
- 
+
 &
 hh
 ,
- 
+
 &
 ascent
 )
 ;
 
- width 
+ width
 =
- 
+
 *
 pw
 ;
 
- nc2 
+ nc2
 =
- textwidth_limit 
+ textwidth_limit
 -
  width
 ;
 
- cw 
+ cw
 =
- width 
+ width
 /
  len_n
 ;
 
- 
+
 if
- 
+
 (
-nc2 
+nc2
 >=
- 
+
 0
- 
+
 &&
- nc2 
+ nc2
 <
- 
+
 3
- 
+
 *
  cw
 )
 
- 
+
 break
 ;
 
- 
+
 if
- 
+
 (
-nc2 
+nc2
 >
- 
+
 0
 )
 
- nuke_count 
+ nuke_count
 -=
- 
+
 (
-nc2 
+nc2
 <=
- 
+
 2
- 
+
 *
  cw
 )
- 
+
 ?
- 
+
 1
- 
+
 :
- 
+
 (
-nc2 
+nc2
 +
- cw 
+ cw
 /
- 
+
 2
 )
- 
+
 /
  cw
 ;
 
- 
+
 else
 
- nuke_count 
+ nuke_count
 +=
- 
+
 (
 -
-nc2 
+nc2
 <=
- 
+
 2
- 
+
 *
  cw
 )
- 
+
 ?
- 
+
 1
- 
+
 :
- 
+
 (
 -
-nc2 
+nc2
 +
- cw 
+ cw
 /
- 
+
 2
 )
- 
+
 /
  cw
 ;
 
- 
+
 }
 
- 
+
 Efree
 (
 text
 )
 ;
 
- 
+
 *
-ptext 
+ptext
 =
  new_line
 ;
@@ -710,14 +710,14 @@ ptext
  done
 :
 
- 
+
 Efree
 (
 wc_line
 )
 ;
 
- 
+
 EwcClose
 (
 )
@@ -730,7 +730,7 @@ Copy
 The loop is of paticular interest to us. Abridged:
 
 for
- 
+
 (
 ;
 ;
@@ -738,51 +738,51 @@ for
 
 {
 
- 
+
 if
- 
+
 (
-nuke_count 
+nuke_count
 >=
- wc_len 
+ wc_len
 -
- 
+
 1
 )
- 
+
 {
- 
+
 /* degenerate: single char + "..." */
- 
+
 break
 ;
- 
+
 }
 
- nc2 
+ nc2
 =
- 
+
 (
-wc_len 
+wc_len
 -
  nuke_count
 )
- 
+
 /
- 
+
 2
 ;
 
- 
+
 /* build new_line = first nc2 wchars + "..." + tail wchars */
 
- len_n 
+ len_n
 =
- wc_len 
+ wc_len
 -
- nuke_count 
+ nuke_count
 +
- 
+
 3
 ;
 
@@ -796,146 +796,146 @@ ts
 ,
  new_line
 ,
- 
+
 0
 ,
  pw
 ,
- 
+
 &
 hh
 ,
- 
+
 &
 ascent
 )
 ;
 
- width 
+ width
 =
- 
+
 *
 pw
 ;
 
- nc2 
+ nc2
 =
- textwidth_limit 
+ textwidth_limit
 -
  width
 ;
 
- cw 
+ cw
 =
- width 
+ width
 /
  len_n
 ;
 
- 
+
 if
- 
+
 (
-nc2 
+nc2
 >=
- 
+
 0
- 
+
 &&
- nc2 
+ nc2
 <
- 
+
 3
- 
+
 *
  cw
 )
 
- 
+
 break
 ;
- 
+
 /* fit, within 3 chars */
 
- 
+
 if
- 
+
 (
-nc2 
+nc2
 >
- 
+
 0
 )
- 
+
 /* room to spare */
 
- nuke_count 
+ nuke_count
 -=
- 
+
 (
-nc2 
+nc2
 <=
- 
+
 2
- 
+
 *
  cw
 )
- 
+
 ?
- 
+
 1
- 
+
 :
- 
+
 (
-nc2 
+nc2
 +
- cw 
+ cw
 /
- 
+
 2
 )
- 
+
 /
  cw
 ;
 
- 
+
 else
- 
+
 /* too wide */
 
- nuke_count 
+ nuke_count
 +=
- 
+
 (
 -
-nc2 
+nc2
 <=
- 
+
 2
- 
+
 *
  cw
 )
- 
+
 ?
- 
+
 1
- 
+
 :
- 
+
 (
 -
-nc2 
+nc2
 +
- cw 
+ cw
 /
- 
+
 2
 )
- 
+
 /
  cw
 ;
@@ -964,10 +964,10 @@ I have made three defensive changes, applied symmetrically to both the multi-byt
 
 @@ -255,7 +255,7 @@ TextstateTextFit1(TextState *ts, char **ptext, int *pw, int textwidth_limit)
 
- 
+
  if (nuke_count < 2)
 
- 
+
  nuke_count = 2;
 
 -
@@ -976,24 +976,24 @@ I have made three defensive changes, applied symmetrically to both the multi-byt
 +
  for (int iter = 0;; iter++)
 
- 
+
  {
 
- 
+
  if (nuke_count >= len - 1)
 
- 
+
  {
 
 @@ -263,6 +263,8 @@ TextstateTextFit1(TextState *ts, char **ptext, int *pw, int textwidth_limit)
 
- 
+
  memcpy(new_line + 1, "...", 4);
 
- 
+
  break;
 
- 
+
  }
 
 +
@@ -1002,18 +1002,18 @@ I have made three defensive changes, applied symmetrically to both the multi-byt
 +
  nuke_count = 1;
 
- 
+
  nc2 = (len - nuke_count) / 2;
 
 @@ -276,9 +278,18 @@ TextstateTextFit1(TextState *ts, char **ptext, int *pw, int textwidth_limit)
 
- 
+
  width = *pw;
 
- 
+
  nc2 = textwidth_limit - width;
 
- 
+
  cw = width / len_n;
 
 +
@@ -1022,10 +1022,10 @@ I have made three defensive changes, applied symmetrically to both the multi-byt
 +
  cw = 1;
 
- 
+
  if (nc2 >= 0 && nc2 < 3 * cw)
 
- 
+
  break;
 
 +
@@ -1049,21 +1049,21 @@ I have made three defensive changes, applied symmetrically to both the multi-byt
 +
  }
 
- 
+
  if (nc2 > 0)
 
- 
+
  nuke_count -= (nc2 <= 2 * cw) ? 1 : (nc2 + cw / 2) / cw;
 
- 
+
  else
 
 @@ -335,7 +346,7 @@ TextstateTextFitMB(TextState *ts, char **ptext, int *pw, int textwidth_limit)
 
- 
+
  if (nuke_count < 2)
 
- 
+
  nuke_count = 2;
 
 -
@@ -1072,24 +1072,24 @@ I have made three defensive changes, applied symmetrically to both the multi-byt
 +
  for (int iter = 0;; iter++)
 
- 
+
  {
 
- 
+
  if (nuke_count >= wc_len - 1)
 
- 
+
  {
 
 @@ -346,6 +357,8 @@ TextstateTextFitMB(TextState *ts, char **ptext, int *pw, int textwidth_limit)
 
- 
+
  strcpy(new_line + len_mb, "...");
 
- 
+
  break;
 
- 
+
  }
 
 +
@@ -1098,18 +1098,18 @@ I have made three defensive changes, applied symmetrically to both the multi-byt
 +
  nuke_count = 1;
 
- 
+
  nc2 = (wc_len - nuke_count) / 2;
 
 @@ -362,9 +375,18 @@ TextstateTextFitMB(TextState *ts, char **ptext, int *pw, int textwidth_limit)
 
- 
+
  width = *pw;
 
- 
+
  nc2 = textwidth_limit - width;
 
- 
+
  cw = width / len_n;
 
 +
@@ -1118,10 +1118,10 @@ I have made three defensive changes, applied symmetrically to both the multi-byt
 +
  cw = 1;
 
- 
+
  if (nc2 >= 0 && nc2 < 3 * cw)
 
- 
+
  break;
 
 +
@@ -1145,13 +1145,13 @@ I have made three defensive changes, applied symmetrically to both the multi-byt
 +
  }
 
- 
+
  if (nc2 > 0)
 
- 
+
  nuke_count -= (nc2 <= 2 * cw) ? 1 : (nc2 + cw / 2) / cw;
 
- 
+
  else
 
 Copy

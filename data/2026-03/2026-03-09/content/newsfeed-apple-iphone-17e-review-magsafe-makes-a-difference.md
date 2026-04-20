@@ -73,7 +73,7 @@ Buy avery cheap phoneand you'll probably see that it has three cameras on the ba
 
 A single camera is just too limiting, even if it's adept at snapping pics. I had a water leak on Friday and had to take a picture of my utility closet, but with no ultrawide camera (unlike thePixel 10a), I had to awkwardly stand far back and angle the phone up high to get everything in the shot. Maybe you want to take a wider group shot or a gorgeous ultrawide close-up of a cathedral's entrance. Well, you can't with the iPhone 17e. You can tap the 2X zoom option to get a decent digitally zoomed close-up, but when Samsung offers a solid 3X optical zoom on theGalaxy S25 FE(frequently sold for under $500), it's hard to understand why Apple can't match.
 
-1 
+1
 / 13
 Chevron
 Chevron
@@ -100,7 +100,7 @@ $599
 Back to top
 Triangle
 Julian Chokkattu
- is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ... 
+ is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ...
 Read More
 Senior Editor, Gear
 * LinkedIn

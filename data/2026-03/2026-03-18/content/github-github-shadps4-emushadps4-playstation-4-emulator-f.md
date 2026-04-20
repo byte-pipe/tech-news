@@ -11,7 +11,7 @@ description: PlayStation 4 emulator for Windows, Linux and macOS written in C++ 
 
 shadps4-emu
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork2k
 * Star29.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -206,27 +206,27 @@ To get the list of all available commands and also a more detailed description o
 
 Below is a list of commonly used command patterns:
 
-shadPS4 CUSA00001 
+shadPS4 CUSA00001
 #
  Searches for a game folder called CUSA00001 in the list of game install folders, and boots it.
 
-shadPS4 --fullscreen 
+shadPS4 --fullscreen
 true
- --config-clean CUSA00001 
+ --config-clean CUSA00001
 #
  the game argument is always the last one,
 
-shadPS4 -g CUSA00001 --fullscreen 
+shadPS4 -g CUSA00001 --fullscreen
 true
- --config-clean 
+ --config-clean
 #
  ...unless manually specified otherwise.
 
-shadPS4 /path/to/game.elf 
+shadPS4 /path/to/game.elf
 #
  Boots a PS4 ELF file directly. Useful if you want to boot an executable that is not named eboot.bin.
 
-shadPS4 CUSA00001 -- -flag1 -flag2 
+shadPS4 CUSA00001 -- -flag1 -flag2
 #
  Passes '-flag1' and '-flag2' to the game executable in argv.
 
@@ -477,56 +477,56 @@ shadps4.net/
 
  Readme
 
- 
+
 
 ### License
 
  GPL-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 29.5k
 
  stars
- 
+
 
 ### Watchers
 
 180
 
  watching
- 
+
 
 ### Forks
 
 2k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases21
 
@@ -534,11 +534,11 @@ shadps4 v0.15.0 - codename RE6_PRIG
 
  Latest
 
- 
+
 
 Mar 17, 2026
 
- 
+
 
 + 20 releases
 
@@ -548,11 +548,11 @@ Mar 17, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * ko-fi.com/shadps4
 
 ## Packages0
@@ -567,17 +567,17 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -585,9 +585,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

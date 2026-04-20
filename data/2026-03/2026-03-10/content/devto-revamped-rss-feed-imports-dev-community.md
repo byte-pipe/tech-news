@@ -30,7 +30,7 @@ On published posts with canonical links, you'll see a linkback on the post autho
 We look forward to seeing y'all syndicate your blogs into the DEV community and to any feature feedback you have here!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

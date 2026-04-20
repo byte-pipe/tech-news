@@ -54,7 +54,7 @@ Question
 Do you ever feel like dev life makes it too easy to disappear?If you’ve been through it, what actually helped?Not theory. Not productivity hacks. The real thing.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -65,6 +65,6 @@ Preview
 Dismiss
 
  View full discussion (58 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

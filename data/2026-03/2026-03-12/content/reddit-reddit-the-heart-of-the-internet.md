@@ -9,7 +9,7 @@ author: Raj_Valiant3011
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 Raj_Valiant3011
 
- 
+
 
 # US urges Israel to stop attacks on Iran energy sites, Axios reports
 
  reuters.com
- 
+
 
 Open

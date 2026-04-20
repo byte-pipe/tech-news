@@ -12,15 +12,15 @@ summarized_at: 2026-03-05T06:01:27.978978
 # nCPU – Neural‑CPU Runtime on GPU
 
 ## Overview
-- Implements a full 64‑bit ARM64 CPU entirely on GPU using PyTorch tensors for registers, memory, flags, and program counter.  
-- All ALU operations are performed by trained neural network models; no host‑CPU arithmetic is used during execution.  
+- Implements a full 64‑bit ARM64 CPU entirely on GPU using PyTorch tensors for registers, memory, flags, and program counter.
+- All ALU operations are performed by trained neural network models; no host‑CPU arithmetic is used during execution.
 - Provides both **Neural Mode** (model inference for each instruction) and **Fast Mode** (native tensor ops) for different performance needs.
 
 ## Quick Start
-- Install in editable mode: `pip install -e ".[dev]"`.  
-- Run a program: `python main.py --program programs/sum_1_to_10.asm`.  
-- Enable execution trace: `python main.py --program programs/fibonacci.asm --trace`.  
-- Inline assembly: `python main.py --inline "MOV R0, 42; HALT"`.  
+- Install in editable mode: `pip install -e ".[dev]"`.
+- Run a program: `python main.py --program programs/sum_1_to_10.asm`.
+- Enable execution trace: `python main.py --program programs/fibonacci.asm --trace`.
+- Inline assembly: `python main.py --inline "MOV R0, 42; HALT"`.
 - Maximum speed (GPU tensor mode): `python main.py --binary firmware.bin --fast`.
 
 ## How It Works
@@ -43,8 +43,8 @@ summarized_at: 2026-03-05T06:01:27.978978
 - Achieves 100 % accuracy on integer arithmetic, verified by 347 automated tests.
 
 ## Model Inventory
-- 23 neural models (~135 MB total); 13 are actively wired for core ISA operations.  
-- Includes models for arithmetic, logical ops, shifts, comparisons, and common math functions.  
+- 23 neural models (~135 MB total); 13 are actively wired for core ISA operations.
+- Includes models for arithmetic, logical ops, shifts, comparisons, and common math functions.
 - Decode LLM uses `Qwen2.5‑Coder‑1.5B` LoRA, achieving 100 % accuracy in “real mode”.
 
 ## Performance (Apple Silicon, MPS backend)
@@ -59,30 +59,30 @@ summarized_at: 2026-03-05T06:01:27.978978
 | sqrt | 522 µs | 2+pad | Two‑stage MLP with Newton refinement |
 | atan2 | 935 µs | 6+pad | Residual BatchNorm network |
 
-- Model loading time: ~60 ms.  
-- Program execution: 136–262 µs per cycle (≈4,975 IPS) depending on instruction mix.  
+- Model loading time: ~60 ms.
+- Program execution: 136–262 µs per cycle (≈4,975 IPS) depending on instruction mix.
 
 ### Key Findings
-- Multiplication (byte‑pair LUT) is ~12× faster than addition (carry‑lookahead), opposite of conventional CPUs.  
-- Carry‑lookahead via Kogge‑Stone reduces ADD/SUB/CMP latency from ~826 µs to ~248 µs (3.3× speedup).  
-- Vectorized attention reduces shift latency from ~2,833 µs to ~434 µs (6.5× speedup).  
+- Multiplication (byte‑pair LUT) is ~12× faster than addition (carry‑lookahead), opposite of conventional CPUs.
+- Carry‑lookahead via Kogge‑Stone reduces ADD/SUB/CMP latency from ~826 µs to ~248 µs (3.3× speedup).
+- Vectorized attention reduces shift latency from ~2,833 µs to ~434 µs (6.5× speedup).
 - Operations fall into O(1), O(log n), and O(n) latency tiers, mirroring classic algorithmic complexity.
 
 ## GPU‑Native Architecture
-- No host‑CPU round‑trips; the entire fetch‑decode‑execute loop runs on GPU.  
+- No host‑CPU round‑trips; the entire fetch‑decode‑execute loop runs on GPU.
 - Two execution modes:
-  1. **Neural Mode** – every ALU operation uses model inference (`neural_execution=True`).  
+  1. **Neural Mode** – every ALU operation uses model inference (`neural_execution=True`).
   2. **Fast Mode** – ALU uses native tensor ops (`torch.add`, `torch.mul`) for up to 1.35 M IPS at batch size 32,768.
 
 ### Metal Compute Kernels
-- Native Metal implementations (`kernels/mlx/` and `kernels/rust_metal/`) provide zero‑CPU‑GPU synchronization.  
+- Native Metal implementations (`kernels/mlx/` and `kernels/rust_metal/`) provide zero‑CPU‑GPU synchronization.
 - Includes full ARM64 decode/execute in Metal Shading Language and a DOOM benchmark.
 
 ## Instruction Set Architecture (ISA)
-- Text assembly syntax (`ncpu.model`) supports typical ARM‑like instructions: MOV, ADD, SUB, MUL, DIV, AND, OR, XOR, SHL, SHR, INC, DEC, CMP, JMP, conditional jumps (JZ/JNZ, JS/JNS), and HALT.  
+- Text assembly syntax (`ncpu.model`) supports typical ARM‑like instructions: MOV, ADD, SUB, MUL, DIV, AND, OR, XOR, SHL, SHR, INC, DEC, CMP, JMP, conditional jumps (JZ/JNZ, JS/JNS), and HALT.
 - Binary ARM64 execution via `ncpu.neural` for loading pre‑compiled binaries.
 
 ## Resources
-- Repository structure includes benchmarks, demos, docs, examples, kernels, models, programs, tests, and training scripts.  
-- Detailed model list in `seemodels/MODEL_INDEX.md`.  
+- Repository structure includes benchmarks, demos, docs, examples, kernels, models, programs, tests, and training scripts.
+- Detailed model list in `seemodels/MODEL_INDEX.md`.
 - Full research analysis available in the accompanying paper.

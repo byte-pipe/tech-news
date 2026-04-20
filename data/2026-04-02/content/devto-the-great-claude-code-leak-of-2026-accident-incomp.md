@@ -162,9 +162,9 @@ If you rannpm installor updated Claude Code between 00:21 UTC and 03:29 UTC on M
 # Check your lockfiles immediately:
 
 grep
- 
+
 -r
- 
+
 "1.14.1
 \|
 0.30.4
@@ -173,9 +173,9 @@ plain-crypto-js"
  package-lock.json
 
 grep
- 
+
 -r
- 
+
 "1.14.1
 \|
 0.30.4
@@ -184,9 +184,9 @@ plain-crypto-js"
  yarn.lock
 
 grep
- 
+
 -r
- 
+
 "1.14.1
 \|
 0.30.4
@@ -207,7 +207,7 @@ If you find a match:
 
 Going forward, Anthropic has designated theNative Installeras the recommended installation method:
 
-curl 
+curl
 -fsSL
  https://claude.ai/install.sh | bash
 
@@ -353,12 +353,12 @@ ed
 |
 ing
 )?
- 
+
 off
 |
 piece
- 
-of 
+
+of
 (
 shit
 |
@@ -368,8 +368,8 @@ junk
 )
 |
 what
- 
-the 
+
+the
 (
 fuck
 |
@@ -379,7 +379,7 @@ hell
 
 fucking
 ?
- 
+
 (
 broken
 |
@@ -393,11 +393,11 @@ horrible
 )
 |
 fuck
- 
+
 you
 |
 
-screw 
+screw
 (
 this
 |
@@ -405,15 +405,15 @@ you
 )
 |
 so
- 
+
 frustrating
 |
 this
- 
+
 sucks
 |
 damn
- 
+
 it
 )
 \
@@ -430,7 +430,7 @@ A multi-billion-dollar AI company is detecting user frustration with a regex. Th
 
 The most candid internal admission in the entire codebase. FromautoCompact.ts(lines 68-70):
 
-"BQ 2026-03-10: 1,279 sessions had 50+ consecutive failures 
+"BQ 2026-03-10: 1,279 sessions had 50+ consecutive failures
 (up to 3,272) in a single session, wasting ~250K API calls/day globally."
 
 Enter fullscreen mode
@@ -530,10 +530,10 @@ cat
 
 # 2. Check if source maps ship in your production build
 
-ls 
-dist/ | 
+ls
+dist/ |
 grep
- 
+
 "
 \.
 map$"
@@ -550,7 +550,7 @@ map$"
 
 # 5. Review your npm publish workflow
 
-npm pack 
+npm pack
 --dry-run
 
 # Review EVERY file that would be published before actually publishing
@@ -630,7 +630,7 @@ cybersecuritynews.com
 If this was useful, drop a reaction. If you spot anything I got wrong, leave it in the comments.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

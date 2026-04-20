@@ -26,14 +26,14 @@ Email
 ## Your day-ahead look for March 4, 2026
 
 By
- 
+
 Omkar Godbole
 |
 Edited by
- 
+
 Sheldon Reback
- 
-Mar 4, 2026, 12:15 p.m. 
+
+Mar 4, 2026, 12:15 p.m.
 Make us preferred on Google
 Bitcoin rocketed above $71,000 (WikiImages/Pixabay modified by CoinDesk)
 
@@ -187,7 +187,7 @@ More For You
 ### Pudgy Penguins: Challenging the Pokemon and Disney Legacy in the Global IP Race
 
 By
- 
+
 CoinDesk Research
 Feb 27, 2026
 Commissioned by
@@ -205,11 +205,11 @@ More For You
 Bitcoin hit by short-termism as rally fades ahead of U.S. jobs data
 
 By
- 
+
 Francisco Rodrigues
 |
 Edited by
- 
+
 Sheldon Reback
 22 hours ago
 
@@ -221,7 +221,7 @@ If you're not already subscribed to the newsletter email,click here.
 
 Read full story
 Latest Crypto News
- 
+
 
 #### Bitcoin slips below $68,000 heading into the weekend as dollar posts steepest weekly gain in a year
 

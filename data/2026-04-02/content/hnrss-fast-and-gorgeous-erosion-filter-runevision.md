@@ -22,7 +22,7 @@ Rune Skovbo Johansen
 Mar 30, 2026
 
 			in
- 
+
 
 article
 ,
@@ -43,7 +43,7 @@ But when generating virtual landscapes, the simulation of countless water drops 
 
 This means techniques are sought after, which can produce the appearance of erosion without having to deal with simulating the process of it. This post is about such a technique.
 
-Screenshot of 
+Screenshot of
 Advanced Terrain Erosion Filter
  Shadertoy by me.
 
@@ -63,7 +63,7 @@ That dream sounds familiar, but Clay John actually made it work. His Shadertoy i
 
 Later, in 2023, a user called Fewes, aka Felix Westin (website), posted a Shadertoy which built on top of the one by Clay John.Fewes’ versionslightly tweaked how the erosion effect worked, and presented it in a vastly more polished way.
 
-Screenshot of 
+Screenshot of
 Terrain Erosion Noise
  Shadertoy by Felix Westin (Fewes).
 

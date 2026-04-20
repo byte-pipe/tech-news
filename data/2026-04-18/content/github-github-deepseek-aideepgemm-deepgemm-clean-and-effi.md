@@ -11,7 +11,7 @@ description: 'DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained s
 
 deepseek-ai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork871
 * Star6.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -222,17 +222,17 @@ For each tokeniinq, it will iterate all tokensjfrom[cu_seq_len_k_start[i], cu_se
 and calculate the logitout[i, j]as:
 
 kv_j
- 
+
 =
- 
+
 kv
 [
 0
 ][
 j
-, :] 
+, :]
 *
- 
+
 kv
 [
 1
@@ -242,45 +242,45 @@ j
 unsqueeze
 (
 1
-) 
+)
 # [head_dim]
 
 out_ij
- 
+
 =
- 
+
 q
 [
 i
-, :, :] @ 
+, :, :] @
 kv_j
- 
+
 # [num_heads]
 
 out_ij
- 
+
 =
- 
+
 out_ij
 .
 relu
-() 
+()
 *
- 
+
 weights
 [
 i
-, :] 
+, :]
 # [num_heads]
 
 out_ij
- 
+
 =
- 
+
 out_ij
 .
 sum
-() 
+()
 # Scalar
 
 For more details and the paged versionfp8_paged_mqa_logits, please refer totests/test_attention.py.
@@ -294,24 +294,24 @@ Mega MoE fuses and overlaps EP dispatch, linear 1 (FP8xFP4), SwiGLU, linear 2 (F
 # NOTES: requires PyTorch >= 2.9
 
 buffer
- 
+
 =
- 
+
 deep_gemm
 .
 get_symm_buffer_for_mega_moe
 (
- 
+
 group
-, 
+,
 num_experts
-, 
+,
 num_max_tokens_per_rank
-, 
+,
 num_topk
-, 
+,
 hidden
-, 
+,
 intermediate_hidden
 
 )
@@ -319,17 +319,17 @@ intermediate_hidden
 # Transform weights (FP4 with UE8M0 SF) into the required layout
 
 transformed_l1
-, 
+,
 transformed_l2
- 
+
 =
- 
+
 deep_gemm
 .
 transform_weights_for_mega_moe
 (
 l1_weights
-, 
+,
 l2_weights
 )
 
@@ -384,23 +384,23 @@ topk_weights
 # Run the fused mega MoE kernel
 
 y
- 
+
 =
- 
+
 torch
 .
 empty
 ((
 num_tokens
-, 
+,
 hidden
-), 
+),
 dtype
 =
 torch
 .
 bfloat16
-, 
+,
 device
 =
 'cuda'
@@ -411,11 +411,11 @@ deep_gemm
 fp8_fp4_mega_moe
 (
 y
-, 
+,
 transformed_l1
-, 
+,
 transformed_l2
-, 
+,
 buffer
 )
 
@@ -482,37 +482,37 @@ This code repository is released underthe MIT License.
 {
 deepgemm2025
 ,
- 
+
 title
 =
 {
 DeepGEMM: clean and efficient BLAS kernel library on GPU
 }
-, 
- 
+,
+
 author
 =
 {
 Chenggang Zhao and Zhean Xu and Liang Zhao and Jiashi Li and Chenhao Xu and Anyi Xu and Shengyu Liu and Kexing Zhou and Kuai Yu
 }
 ,
- 
+
 year
 =
 {
 2025
 }
 ,
- 
+
 publisher
- = 
+ =
 {
 GitHub
 }
 ,
- 
+
 howpublished
- = 
+ =
 {
 \url{https://github.com/deepseek-ai/DeepGEMM}
 }
@@ -527,51 +527,51 @@ DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 6.4k
 
  stars
- 
+
 
 ### Watchers
 
 60
 
  watching
- 
+
 
 ### Forks
 
 871
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases6
 
@@ -579,11 +579,11 @@ v2.1.1.post3
 
  Latest
 
- 
+
 
 Oct 15, 2025
 
- 
+
 
 + 5 releases
 
@@ -599,17 +599,17 @@ Oct 15, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -617,9 +617,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

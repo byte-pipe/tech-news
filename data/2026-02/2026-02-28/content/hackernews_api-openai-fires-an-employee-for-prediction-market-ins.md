@@ -56,9 +56,9 @@ Though this is the first confirmed case of a large technology company firing an 
 * Big Tech says AI will save the planet—it doesn’t offer much proof
 * Event:Helping small business owners succeed
 Kate Knibbs
- is a senior writer at WIRED. She covers prediction markets, the future of media, and how AI is changing the internet. She’s also interested in digital grey markets and regulatory battles over new tech. She is based in Chicago. Send tips to 
+ is a senior writer at WIRED. She covers prediction markets, the future of media, and how AI is changing the internet. She’s also interested in digital grey markets and regulatory battles over new tech. She is based in Chicago. Send tips to
 kate_knibbs@wired.com
-, or reach her on Signal ... 
+, or reach her on Signal ...
 Read More
 Senior Writer
 * X

@@ -27,11 +27,11 @@ Best Budget Laptop
 HP OmniBook 5 14
 Read more
 $1,150
- 
+
 $500
- 
+
 (57% off)
- 
+
 
 HP
 
@@ -39,7 +39,7 @@ A Better Display
 Dell 14 Plus
 Read more
 $750
- 
+
 
 Dell
 
@@ -47,7 +47,7 @@ Best Budget MacBook
 Apple MacBook Neo
 Read more
 $599
- 
+
 
 Amazon
 
@@ -55,11 +55,11 @@ One Step Down
 Asus Vivobook 14 (X1407QA)
 Read more
 $750
- 
+
 $650
- 
+
 (13% off)
- 
+
 
 Amazon
 
@@ -295,7 +295,7 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Luke Larsen
- is a product writer and reviewer at WIRED, covering laptops, PCs, Macs, monitors, and the wider PC peripheral ecosystem. He’s been reporting on tech for over a decade, previously at Digital Trends as the senior editor in computing, where he spent seven years leading the publication’s daily coverage. ... 
+ is a product writer and reviewer at WIRED, covering laptops, PCs, Macs, monitors, and the wider PC peripheral ecosystem. He’s been reporting on tech for over a decade, previously at Digital Trends as the senior editor in computing, where he spent seven years leading the publication’s daily coverage. ...
 Read More
 Product Writer & Reviewer
 
@@ -312,10 +312,10 @@ apple
 Windows PCs
 The Best Kindles to Take Your Library Anywhere
 Here’s how Amazon’s ebook readers stack up—and which one might be right for you.
- Nena Farrell 
+ Nena Farrell
 The Best E-Readers, As Tested by Readers
 These WIRED-tested ebook readers let you take your library anywhere.
- Nena Farrell 
+ Nena Farrell
 Give Your Back a Break With Our Favorite Office Chairs
 Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.
 Julian Chokkattu
@@ -330,7 +330,7 @@ Keep your phone, laptop, handheld gaming console, and other electronics running 
 Simon Hill
 The Right Mattress Can Erase Your Back Pain
 If you're struggling with chronic back or shoulder pain, these mattresses could change your life
- Nena Farrell 
+ Nena Farrell
 These Premium Soundbars and Wireless Speakers Compete With Fancy Wired Setups
 Soundbars just keep getting better, but some rise above the rest. These are the best high-end soundbars and wireless A/V speakers I’ve tried.
 Ryan Waniata

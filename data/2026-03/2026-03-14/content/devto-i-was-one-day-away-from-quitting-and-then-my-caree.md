@@ -140,7 +140,7 @@ Careers in tech rarely follow a straight line.Sometimes the path disappears.And 
 Stop waiting for the perfect roadmap. Start building one.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -151,7 +151,7 @@ Preview
 Dismiss
 
  View full discussion (24 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

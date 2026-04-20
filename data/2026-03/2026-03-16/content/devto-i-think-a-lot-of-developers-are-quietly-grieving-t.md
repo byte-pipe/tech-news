@@ -36,7 +36,7 @@ That is what makes this hard to talk about honestly.Because it is not just that 
 I miss that.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -47,6 +47,6 @@ Preview
 Dismiss
 
  View full discussion (40 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

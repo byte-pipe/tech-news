@@ -92,49 +92,49 @@ The following code snippet is an example configuration for gemini-cli:
 
 {
 
- 
+
 "mcpServers"
 :
- 
+
 {
 
- 
+
 "chrome-devtools"
 :
- 
+
 {
 
- 
+
 "command"
 :
- 
+
 "npx"
 ,
 
- 
+
 "args"
 :
- 
+
 [
 
- 
+
 "chrome-devtools-mcp@latest"
 ,
 
- 
+
 "--autoConnect"
 ,
 
- 
+
 "--channel=beta"
 
- 
+
 ]
 
- 
+
 }
 
- 
+
 }
 
 }

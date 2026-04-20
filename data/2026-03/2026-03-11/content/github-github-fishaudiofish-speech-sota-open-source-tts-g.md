@@ -11,7 +11,7 @@ description: SOTA Open Source TTS. Contribute to fishaudio/fish-speech developme
 
 fishaudio
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork2.1k
 * Star25.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -321,49 +321,49 @@ Please refer toSGLang-Omni READMEto use the SGLang server.
 {
 fish-speech-v1.4
 ,
- 
+
 title
 =
 {
 Fish-Speech: Leveraging Large Language Models for Advanced Multilingual Text-to-Speech Synthesis
 }
 ,
- 
+
 author
 =
 {
 Shijia Liao and Yuxuan Wang and Tianyu Li and Yifan Cheng and Ruoyi Zhang and Rongzhi Zhou and Yijin Xing
 }
 ,
- 
+
 year
 =
 {
 2024
 }
 ,
- 
+
 eprint
 =
 {
 2411.01156
 }
 ,
- 
+
 archivePrefix
 =
 {
 arXiv
 }
 ,
- 
+
 primaryClass
 =
 {
 cs.SD
 }
 ,
- 
+
 url
 =
 {
@@ -376,55 +376,55 @@ https://arxiv.org/abs/2411.01156
 {
 liao2026fishaudios2technical
 ,
- 
+
 title
 =
 {
 Fish Audio S2 Technical Report
 }
-, 
- 
+,
+
 author
 =
 {
 Shijia Liao and Yuxuan Wang and Songting Liu and Yifan Cheng and Ruoyi Zhang and Tianyu Li and Shidong Li and Yisheng Zheng and Xingwei Liu and Qingzheng Wang and Zhizhuo Zhou and Jiahua Liu and Xin Chen and Dawei Han
 }
 ,
- 
+
 year
 =
 {
 2026
 }
 ,
- 
+
 eprint
 =
 {
 2603.08823
 }
 ,
- 
+
 archivePrefix
 =
 {
 arXiv
 }
 ,
- 
+
 primaryClass
 =
 {
 cs.SD
 }
 ,
- 
+
 url
 =
 {
 https://arxiv.org/abs/2603.08823
 }
-, 
+,
 }
 
 ## About
@@ -453,51 +453,51 @@ speech.fish.audio
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 25.5k
 
  stars
- 
+
 
 ### Watchers
 
 141
 
  watching
- 
+
 
 ### Forks
 
 2.1k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases14
 
@@ -505,11 +505,11 @@ V1.5.1
 
  Latest
 
- 
+
 
 May 31, 2025
 
- 
+
 
 + 13 releases
 
@@ -519,9 +519,9 @@ May 31, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

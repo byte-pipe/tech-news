@@ -11,7 +11,7 @@ description: A maintained, feature-rich and performance oriented, neofetch like 
 
 fastfetch-cli
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork710
 * Star21k
 
- 
- 
- 
+
+
+
  
 dev
 Branches
@@ -284,16 +284,16 @@ If you just want to display the distro name inFIGlet text:
 #
  install pyfiglet and jq first
 
-pyfiglet -s -f small_slant 
+pyfiglet -s -f small_slant
 $(
-fastfetch -s os --format json 
+fastfetch -s os --format json
 |
- jq -r 
+ jq -r
 '
 .[0].result.name
 '
 )
- 
+
 &&
  fastfetch -l none
 
@@ -353,26 +353,26 @@ mintty (used by Bash on Windows and MSYS2) and Wezterm (nightly build only) supp
 Inconfig.jsonc:
 
 {
- 
+
 "logo"
 : {
- 
+
 "type"
-: 
+:
 "
 iterm
 "
 ,
- 
+
 "source"
-: 
+:
 "
 C:/path/to/image.png
 "
 ,
- 
+
 "width"
-: 
+:
 <num-in-chars>
 
  }
@@ -447,56 +447,56 @@ A maintained, feature-rich and performance oriented, neofetch like system inform
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 21k
 
  stars
- 
+
 
 ### Watchers
 
 54
 
  watching
- 
+
 
 ### Forks
 
 710
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases170
 
@@ -504,11 +504,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Mar 28, 2026
 
- 
+
 
 + 169 releases
 
@@ -518,11 +518,11 @@ Mar 28, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * ko-fi.com/carterli
 * https://paypal.me/zhangsongcui
 
@@ -532,9 +532,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -542,9 +542,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

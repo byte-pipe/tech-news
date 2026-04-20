@@ -13,13 +13,13 @@ tags:
 - hnrss
 ---
 
-By 
+By
 Wenlei He
-, 
+,
 Paul Saab
-, 
+,
 Stan Angelov
- 
+
 
 * Meta recognizes the long-term benefits of jemalloc, a high-performance memory allocator, in its software infrastructure.
 * We are renewing focus on jemalloc, aiming to reduce maintenance needs and modernize the codebase while continuing to evolve the allocator to adapt to the latest hardware and workloads.

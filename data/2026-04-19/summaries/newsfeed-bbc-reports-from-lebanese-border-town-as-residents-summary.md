@@ -26,7 +26,7 @@ Residents of eastern Beirut reported hearing loud explosions coming from a nearb
 Reports indicate that hundreds of people are stranded near the Syrian border as air strikes and regime crackdowns continue unabated. Iranian authorities have urged citizens not to cross into neighboring Turkey over concerns of a potential bomb attack. To find out more click here [link]
 
 The situation is fluid and rapidly evolving, with multiple parties involved in a complex dance of violence, fear, and desperation across the region. Updates will be provided as new developments become available.
- 
+
 ## Related articles
 
 - The Iran oil depot fire: A real-time report from BBC Verify

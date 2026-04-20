@@ -12,7 +12,7 @@ tags:
 - tldr
 ---
 
-Solutions 
+Solutions
 By Audience
 AI Website Builder
 For Founders
@@ -35,7 +35,7 @@ Vibe Coding
 AI Code Generator
 Text to Website
 Pricing
-Playgrounds 
+Playgrounds
 
 ### Featured
 
@@ -246,7 +246,7 @@ Copy
 Share
 Email
 Site is secure - SSL certificate active
-Or connect your domain 
+Or connect your domain
 miami-homes.com
 Miami Dream Homes
 Your trusted partner
@@ -318,17 +318,17 @@ Sourdough
 Croissants
 Wedding Cakes
 3 AI Icons
- Build me a bakery website for Sweet Delights. We sell sourdough, croissants, and wedding cakes. 
+ Build me a bakery website for Sweet Delights. We sell sourdough, croissants, and wedding cakes.
 
 Building your bakery site now. I'll generate all the visuals too:
 
-Generated 
+Generated
 logo
  - wheat motif with amber palette
-Generated 
+Generated
 hero image
  - pastries on rustic table
-Generated 
+Generated
 3 icons
  for your specialties
 
@@ -585,7 +585,7 @@ Win more clients with a polished portfolio. Services, past projects, testimonial
 
 Get more clients with a professional presence. Bio, services, testimonials, and booking calendar.
 
-See all 30+ industries 
+See all 30+ industries
 
 Don't see your industry?AI builds for any business.
 
@@ -635,24 +635,24 @@ Yoga studios with no site at all
 Plumbers found on Google Maps
 Car detailers with Facebook-only
 Dentists with outdated designs
-Start Your Side Hustle 
+Start Your Side Hustle
 
 No design skills needed. No coding. Just AI and hustle.
 
 ## Real People. Real Websites Built with AI.
 
 "
- "I built my entire portfolio site in 20 minutes. My clients think I hired a designer. Already got 3 new inquiries this month." 
+ "I built my entire portfolio site in 20 minutes. My clients think I hired a designer. Already got 3 new inquiries this month."
 Marcus T.
  Verified
 Freelance Graphic Designer, Austin TX
 "
- "We switched from Wix to Playcode. The AI actually understands what we need instead of giving us cookie-cutter templates. Saved us thousands." 
+ "We switched from Wix to Playcode. The AI actually understands what we need instead of giving us cookie-cutter templates. Saved us thousands."
 Sarah Chen
  Verified
 Owner, Bloom & Petal Floristry
 "
- "I update my property listings from my phone while showing apartments. Clients are impressed when I tell them I built the site myself." 
+ "I update my property listings from my phone while showing apartments. Clients are impressed when I tell them I built the site myself."
 David Morales
  Verified
 Real Estate Agent, Miami FL
@@ -662,7 +662,7 @@ Real Estate Agent, Miami FL
 Start small. Upgrade when you're ready.
 
 Monthly
-Annual 
+Annual
 -17%
 
 ### Starter
@@ -717,92 +717,92 @@ Most users never run out. 100 credits = lots of building.
 ## AI Website Builder FAQ
 
 What makes this the best AI website builder?
- + 
+ +
 
 Unlike template builders, our AI website builder creates unique sites tailored to your business. Unlike agencies, you get results in minutes, not months. And unlike other AI tools, you can see and edit the actual code. 26 million projects built since 2016.
 
 What if my site looks amateur or cheap?
- + 
+ +
 
 Our AI website builder uses modern design patterns and professional layouts. Your site will look custom-built because it is. No cookie-cutter templates. Every site is unique to your business.
 
 Is this just another AI gimmick?
- + 
+ +
 
 We've been building since 2016. 26 million projects. 1.1 million users. Real businesses use this AI website builder every day. This isn't a tech demo - it's a proven tool.
 
 What if I get stuck or need help?
- + 
+ +
 
 The AI guides you through everything. If you get stuck, just ask. It understands context and helps you fix problems. Plus, you can always reach our support team.
 
 What if I want changes later?
- + 
+ +
 
 Unlimited edits, forever. Use the visual editor to click and change things, or just tell the AI what you want. Your site grows with your business.
 
 Do I need to know how to code?
- + 
+ +
 
 No. Just describe what you want in plain English (or any language). AI handles the code. But if you DO know code, you can edit it directly anytime.
 
 Can I see and edit the actual code?
- + 
+ +
 
 Yes. Unlike other AI builders that hide the code, Playcode gives you full access. Real React, Vue, or HTML code you can view and edit. Use AI when helpful, manual editing when you need precision.
 
 Can I use NPM packages and external libraries?
- + 
+ +
 
 Yes. Access the entire NPM ecosystem with millions of packages. Import any library you need - from animation libraries to payment SDKs.
 
 Can I use my own domain?
- + 
+ +
 
 Yes. Buy a domain anywhere, point it to us, connect in 2 clicks. Or use your included subdomain (yourbusiness.playcode.io).
 
 Do I own what I create?
- + 
+ +
 
 100%. The code belongs to you, not us. Download everything anytime. Run it on Vercel, Netlify, AWS - anywhere you want. Zero lock-in.
 
 What if I want to leave Playcode?
- + 
+ +
 
 Export your entire project and go. Your code, your data, your choice. We make it easy to leave because we want you to stay.
 
 Is my data safe?
- + 
+ +
 
 Your projects are private by default. We use industry-standard security. You control who sees your work.
 
 Can I build a website for my small business?
- + 
+ +
 
 Absolutely. Most of our users are small business owners - restaurants, salons, real estate agents, coaches, consultants. Just describe your business and what you need. AI creates a professional website tailored to your industry, complete with the right pages, content, and design.
 
 Do I still need my hosting provider or VPS?
- + 
+ +
 
 No. When you publish on Playcode, your website is hosted on our global servers - fast, secure, always online. You don't need GoDaddy hosting, Bluehost, a VPS, or any server. Playcode replaces all of that. If you're currently paying for hosting elsewhere, you can cancel it after your Playcode site is live.
 
 Do I need programmers to update my site?
- + 
+ +
 
 No. Just open Playcode and tell AI what you need: "Change the phone number to 555-1234." "Add a page for Boston." "Update the holiday banner." Press Publish - the change is live in seconds. No developers, no CMS admin panels, no waiting.
 
 How do I move from my current website to Playcode?
- + 
+ +
 
 Describe your business to AI, and it builds your new site in minutes. If you have a domain (like yourbusiness.com), keep it - just point it to Playcode. Want to copy your existing design? Paste your old website URL and AI recreates it with modern, fast code.
 
 Is my website reliable? Will it always be online?
- + 
+ +
 
 Yes. Playcode has been hosting websites since 2016 - over 26 million projects. Your site is served from a global CDN, loads fast from anywhere, and has automatic HTTPS security. This is production-grade hosting, not a toy.
 
 Can I build on my phone?
- + 
+ +
 
 Yes. Full functionality on phone, tablet, and desktop. Update your site from anywhere.
 
@@ -814,7 +814,7 @@ Your website can be live in 10 minutes. Just tell AI what you need.
 
 Starts with a website. Grows into your AI business partner.
 
-Start Building 
+Start Building
 
 No credit card required. AI credits included.
 
@@ -824,24 +824,24 @@ Unlike other AI website builders that hide the code, Playcode shows you everythi
 
 App.tsx
 import
- 
+
 React
- 
+
 from
- 
+
 'react'
 export default function
- 
+
 Hero
 ()
- 
+
 {
 return
- 
+
 (
 <
 section
- 
+
 className
 =
 "hero"
@@ -862,7 +862,7 @@ p
 >
 <
 button
- 
+
 onClick
 ={
 start

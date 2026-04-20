@@ -75,7 +75,7 @@ You should also build trust in product discovery as asafemethod of product devel
 
 Keeping managers and stakeholders in the loop gives them a sense of control. In my experience the GIST board can be a very useful tool of communication, both with the team and with the managers and stakeholders. Some teams use opportunity solution trees or other artifacts for the same purpose.
 
-GIST board (download the 
+GIST board (download the
 free template here
 )
 
@@ -116,23 +116,23 @@ Building a multi-level business model and introducing proper OKR use is not some
 
 Product discovery is held back by serious challenges that orgs struggle to overcome. In this article I talked about must-have features, and the lack of good goals. Both are systemic issues derived from the traditionalcompany operating model. But you should not assume it’s all managers’ and stakeholders’ fault that you’re not practicing proper product discovery. In the next article I’ll go over three ways product orgs are shooting themselves in the foot by underdoing product discovery, we’ll talk about the reasons and the solutions.
 
- 
- 
+
+
 
 Join my newsletter to get articles like thisplus exclusive eBooks and templates by email
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 JOIN
- 
- 
- 
- 
- 
+
+
+
+
+
 
 My Book Evidence-GuidedisNow Available
 

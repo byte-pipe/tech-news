@@ -11,7 +11,7 @@ description: A set of ready to use Agent Skills for research, science, engineeri
 
 K-Dense-AI
 
- 
+
 
 /
 
@@ -30,41 +30,41 @@ k-dense.ai
 ### License
 
  MIT license
- 
+
 
 10.1k
 
  stars
 
- 
+
 
 1.2k
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # K-Dense-AI/claude-scientific-skills

@@ -26,18 +26,18 @@ Email
 ## The move expands access to U.S. markets as tokenized securities gain traction among digital investors.
 
 By
- 
+
 Helene Braun
-, 
+,
 AI Boost
 |
 Edited by
- 
+
 Stephen Alpher
- 
-Mar 25, 2026, 3:15 p.m. 
-Make 
- preferred on 
+
+Mar 25, 2026, 3:15 p.m.
+Make
+ preferred on
 (Bill Tompkins/Getty Images)
 
 #### What to know:
@@ -68,11 +68,11 @@ For Ondo and Franklin Templeton, the bet is that investors will prefer a model t
 
 Tokenization
 AI Disclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to
- 
+
 our standards
-. 
+.
 For more information, see
- 
+
 CoinDesk's full AI Policy
 .
 
@@ -81,7 +81,7 @@ More For You
 ### The Definitive Stablecoin Landscape Series: North America
 
 By
- 
+
 CoinDesk Research
 Mar 26, 2026
 Commissioned by
@@ -100,11 +100,11 @@ More For You
 ### Stablecoin payments go 'invisible' in Southeast Asia as crypto card business surges
 
 By
- 
+
 Francisco Rodrigues
 |
 Edited by
- 
+
 Aoyon Ashraf
 16 hours ago
 
@@ -116,7 +116,7 @@ What to know:
 * The company's infrastructure powers stablecoin-backed cards for partners like RedotPay, which processed over $2.95 billion in card volume in...
 Read full story
 Latest Crypto News
- 
+
 
 #### Coinbase survey finds over half of customers don’t understand crypto tax
 

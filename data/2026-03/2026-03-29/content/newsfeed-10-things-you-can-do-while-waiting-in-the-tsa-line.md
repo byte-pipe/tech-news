@@ -90,7 +90,7 @@ Triangle
 * Should you leave your phonecharging overnight?
 * Watch:How right wing influencers infiltrated the government
 Aarian Marshall
- is a staff writer covering transportation systems and cities. Before joining WIRED, she wrote for The Atlantic’s CityLab. Marshall is based in San Diego and is developing opinions about tacos. ... 
+ is a staff writer covering transportation systems and cities. Before joining WIRED, she wrote for The Atlantic’s CityLab. Marshall is based in San Diego and is developing opinions about tacos. ...
 Read More
 Staff Writer
 * X

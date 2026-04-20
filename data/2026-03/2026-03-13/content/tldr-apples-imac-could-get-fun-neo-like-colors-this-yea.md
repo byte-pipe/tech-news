@@ -40,12 +40,12 @@ Loading...
 
 Use this instead
 
- By clicking Sign Me Up, you confirm you are 16+ and agree to our 
+ By clicking Sign Me Up, you confirm you are 16+ and agree to our
 Terms of Use
- and 
+ and
 Privacy Policy
 .
- 
+
 
 Thanks for signing up!
 

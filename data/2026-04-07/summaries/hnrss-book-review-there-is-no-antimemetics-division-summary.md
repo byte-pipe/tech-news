@@ -12,7 +12,7 @@ summarized_at: 2026-04-07T11:34:38.876201
 **Book Review: There Is No Antimemetics Division**
 
 This novel is a thought-provoking science fiction horror exploration of the human mind's ability to perceive and remember things.
- 
+
 The story centers around Marion Wheeler, who runs the Antimemetics Division, tasked with erasing memories that are invisible to everyone else. She and her team use mnestic drugs to fight these "invisible" threats.
 
 **Key Points**

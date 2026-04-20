@@ -23,7 +23,7 @@ Subscribe for your daily dose of unconventional business news 🚀
 Please provide a valid email address.
 
  Sign up now
- 
+
 
 We're committed to your privacy. HubSpot uses the information you provide to us to contact you about our relevant content, products, and services. You may unsubscribe from these communications at any time. For more information, check out ourprivacy policy.
 
@@ -173,7 +173,7 @@ Sign up for The Hustle to get the business world's wildest stories delivered dai
 Please provide a valid email address.
 
  Subscribe
- 
+
 
 We're committed to your privacy. HubSpot uses the information you provide to us to contact you about our relevant content, products, and services. You may unsubscribe from these communications at any time. For more information, check out ourprivacy policy.
 

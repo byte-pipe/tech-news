@@ -29,7 +29,7 @@ Well that’s cute, Robin
 
 Congratulations for catching up on what data/analytics engineers have been doing for years now.
 
-But you see, coding by hand is 
+But you see, coding by hand is
 so
  2025.
 
@@ -115,35 +115,35 @@ It built me a working dbt project!
 
 It compiles and it runs:
 
-1 of 37 START sql table model main.dim_date .................................... 
+1 of 37 START sql table model main.dim_date ....................................
 [
 RUN]
-2 of 37 START sql view model main.stg_flood_monitoring__measures ............... 
+2 of 37 START sql view model main.stg_flood_monitoring__measures ...............
 [
 RUN]
-3 of 37 START sql view model main.stg_flood_monitoring__readings ............... 
+3 of 37 START sql view model main.stg_flood_monitoring__readings ...............
 [
 RUN]
-4 of 37 START sql view model main.stg_flood_monitoring__stations ............... 
+4 of 37 START sql view model main.stg_flood_monitoring__stations ...............
 [
 RUN]
 
 [
 …]
-37 of 37 PASS unique_station_freshness_station_id .............................. 
+37 of 37 PASS unique_station_freshness_station_id ..............................
 [
-PASS 
-in 
+PASS
+in
 0.01s]
-36 of 37 PASS not_null_station_freshness_station_id ............................ 
+36 of 37 PASS not_null_station_freshness_station_id ............................
 [
-PASS 
-in 
+PASS
+in
 0.01s]
 
-Finished running 1 incremental model, 1 snapshot, 4 table models, 26 data tests, 2 unit tests, 3 view models 
-in 
-0 hours 0 minutes and 0.61 seconds 
+Finished running 1 incremental model, 1 snapshot, 4 table models, 26 data tests, 2 unit tests, 3 view models
+in
+0 hours 0 minutes and 0.61 seconds
 (
 0.61s
 )
@@ -151,14 +151,14 @@ in
 
 and writes data successfully to DuckDB:
 
-🟡◗ SELECT 
+🟡◗ SELECT
 *
  from fct_readings LIMIT 5
 ;
 
 ┌─────────────────────┬───────────────────────────────────────────┬────────┬──────────────┐
 │ date_time │ measure_id │ value │ reading_date │
-│ timestamp │ varchar │ double │ 
+│ timestamp │ varchar │ double │
 date
  │
 ├─────────────────────┼───────────────────────────────────────────┼────────┼──────────────┤
@@ -178,37 +178,37 @@ There’ll always be "yes, but did you try `$thing`" and I discuss thatbelow.
 
 Let’s look a bit more closely at the prompt that I gave Claude to understand what we’re giving it to work with.
 
-I've explored and built pipelines for the UK Environment Agency flood monitoring API. Here's my analysis: 
+I've explored and built pipelines for the UK Environment Agency flood monitoring API. Here's my analysis:
 (1)
 
-- Data exploration: https://rmoff.net/2025/02/28/exploring-uk-environment-agency-data-in-duckdb-and-rill/ 
+- Data exploration: https://rmoff.net/2025/02/28/exploring-uk-environment-agency-data-in-duckdb-and-rill/
 (2)
 
-- Pipeline build: https://rmoff.net/2025/03/20/building-a-data-pipeline-with-duckdb/ 
+- Pipeline build: https://rmoff.net/2025/03/20/building-a-data-pipeline-with-duckdb/
 (3)
 
-Build a dbt project using DuckDB for this data using idiomatic patterns and good practices. Requirements: 
+Build a dbt project using DuckDB for this data using idiomatic patterns and good practices. Requirements:
 (4)
 
-- Proper staging → dim/fact data model 
+- Proper staging → dim/fact data model
 (5)
 
-- Handle known data quality issues (see blog posts for details) 
+- Handle known data quality issues (see blog posts for details)
 (5)
 
-- SCD type 2 snapshots for station metadata 
+- SCD type 2 snapshots for station metadata
 (5)
 
-- Historical backfill from CSV archives (see https://environment.data.gov.uk/flood-monitoring/archive) 
+- Historical backfill from CSV archives (see https://environment.data.gov.uk/flood-monitoring/archive)
 (5)
 
-- Documentation and tests 
+- Documentation and tests
 (5)
 
-- Source freshness checks 
+- Source freshness checks
 (5)
 
-Run `dbt build` to verify your work. If it fails, fix the errors and re-run until it passes. 
+Run `dbt build` to verify your work. If it fails, fix the errors and re-run until it passes.
 (6)
 
 1
@@ -234,7 +234,7 @@ Skeleton spec, as one might give to a junior engineer
 6
 
 "Secret sauce".
-This is where 
+This is where
 agentic coding
  kicks in.
 It will literally sit there and fix its own errors.
@@ -377,39 +377,39 @@ Write/workspace/flood_monitoring/models/staging/_sources.yml
 meta
 :
 
- 
+
 # Curly braces in the DuckDB columns dict must be doubled to escape
 
- 
+
 # dbt-duckdb's format_map() interpolation.
 
- 
+
 external_location
 :
- 
+
 >
 
- 
+
 read_csv(
 
- 
+
 'https://environment.data.gov.uk/flood-monitoring/archive/readings-2026-03-07.csv',
 
- 
-columns={{'dateTime': 'TIMESTAMPTZ', 
+
+columns={{'dateTime': 'TIMESTAMPTZ',
 (1)
 
- 
-'measure': 'VARCHAR', 'value': 'VARCHAR'}}, 
+
+'measure': 'VARCHAR', 'value': 'VARCHAR'}},
 (1)
 
- 
+
 header=true,
 
- 
+
 ignore_errors=true
 
- 
+
 )
 
 1
@@ -458,9 +458,9 @@ Good progress! The build almost works. Two real data quality issues:
 
 Check this out for what it does next—fires up DuckDB and starts checking the data:
 
-python3 
+python3
 <<
- 
+
 '
 EOF
 '
@@ -623,7 +623,7 @@ But that’s not having Claude build itforme is it.
 It’s building itwith me.
 Which is my whole argument here.
 
-Claude Code is an amazing productivity 
+Claude Code is an amazing productivity
 companion
 .
 

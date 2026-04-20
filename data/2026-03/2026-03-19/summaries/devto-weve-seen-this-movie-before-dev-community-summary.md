@@ -11,7 +11,7 @@ summarized_at: 2026-03-19T11:34:39.719520
 
 We've Been Sat into a Sucker-Punching Rundown: How Free Software Can Lead to Financial Ruin for Small Indie Studios
 
-The game development industry has witnessed rapid growth in the past decade, with indie studios becoming increasingly successful due to free or low-cost software. This phenomenon is often referred to as the " Democratisation of Game Development" or "Game Engine Free-ware." 
+The game development industry has witnessed rapid growth in the past decade, with indie studios becoming increasingly successful due to free or low-cost software. This phenomenon is often referred to as the " Democratisation of Game Development" or "Game Engine Free-ware."
 
 We began by examining how the introduction of Unity and Unreal Engine changed the landscape for game development. Starting from 2005, when Unity launched with a free tier in 2009, it experienced a significant influx of users, nearly doubling its active users on launch day.
 

@@ -79,7 +79,7 @@ View spec & code
 38
 6.7
 x
-before: 1241/1242 
+before: 1241/1242
 after: 1278/1279
 (
 37
@@ -91,7 +91,7 @@ View spec & code
 21
 7.9
 x
-before: 2216 
+before: 2216
 after: 2229
 (
 13
@@ -102,7 +102,7 @@ View spec & code
 141
 5.9
 x
-before: 889 
+before: 889
 after: 914
 (
 25

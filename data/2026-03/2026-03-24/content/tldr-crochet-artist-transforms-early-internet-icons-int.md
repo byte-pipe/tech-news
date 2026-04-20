@@ -15,19 +15,19 @@ tags:
 
 Home
 
- / 
+ /
 
 Crafts
 
 # Crochet Artist Turns Early 2000s Technology Into Oversized Textile Art
 
- 
- By 
+
+ By
 Emma Taggart
 
- on March 17, 2026 
- 
- 
+ on March 17, 2026
+
+
 
  
 
@@ -124,71 +124,71 @@ A post shared by Nicole Nikolich Crochet Artist (@lace_in_the_moon)
 ## Nikolich recently exhibited four large-scale tapestries inspired by iconic computer game screens, includingThe Sims 2.
 
 @lace_in_the_moon
- where my crocheting sims2 fans at 
+ where my crocheting sims2 fans at
 #gamer
- 
+
 #crochet
- 
+
 #art
- 
+
 #tech
- 
+
 #simstok
- @The Sims 
+ @The Sims
 ♬ The Sims 2 Theme – Mark Mothersbaugh & EA Games Soundtrack
 
 ## Her work even caught the attention of Microsoft, who asked her to create giant crochet versions of the Windows 95 desktop screen and Windows 11 homescreen.
 
 @lace_in_the_moon
- The ultimate double sided @windows blanket is almost complete! Stay tuned to see the final piece 
+ The ultimate double sided @windows blanket is almost complete! Stay tuned to see the final piece
 #windowspartner
- 
+
 #windows11
- 
+
 #crochet
- 
+
 #windows95
- 
+
 ♬ Windows XP Type Beat – Arcade Era (Beats)
 
 ## Do you remember this technology?
 
 @lace_in_the_moon
- nostalgic overload incoming….. a peep at five pieces that show how early tech influenced my creativity (and love of color). the countdown is on, my show USER HISTORY opens in 4 sleeps!!! guys I made 36 pieces idk if ur ready 
+ nostalgic overload incoming….. a peep at five pieces that show how early tech influenced my creativity (and love of color). the countdown is on, my show USER HISTORY opens in 4 sleeps!!! guys I made 36 pieces idk if ur ready
 #microsoft
- 
+
 #crochet
- 
+
 #y2k
- 
+
 #mspaint
- 
+
 #internet
- 
+
 ♬ Matcha Boba – Becomfy
 
 @lace_in_the_moon
- run don’t walk to go see this all crocheted computer room installation titled Can I Please Eat In The Computer Room Tonight? that is leaving the Delaware contemporary museum at the end of may! lmk what city should host its next viewing :)) 
+ run don’t walk to go see this all crocheted computer room installation titled Can I Please Eat In The Computer Room Tonight? that is leaving the Delaware contemporary museum at the end of may! lmk what city should host its next viewing :))
 #crochet
- 
+
 #tech
- 
+
 #internet
- 
+
 #nostalgia
- 
+
 #art
- 
+
 ♬ original sound – lace_in_the_moon
 
 @lace_in_the_moon
- now thats really somethin 
+ now thats really somethin
 #art
- 
+
 #crochet
- 
+
 #fyp
- 
+
 ♬ Send My Love (To Your New Lover) – Adele
 
 Nicole Nikolich:Instagram|TikTok
@@ -203,17 +203,17 @@ Fiber Artist Crochets Colorful Dishes That Look Like a Chef Prepared Them
 
 25 Nostalgic Throwback Gifts To Make You Feel Like You’re Back in the ‘90s
 
- Do these works evoke memories? 
- 
+ Do these works evoke memories?
+
  Share
 
  Like My Modern Met on Facebook
- 
- 
+
+
 
  Get Our Weekly Newsletter
 
-Become a 
+Become a
 My Modern Met Member
 
 As a member, you'll join us in our effort to support the arts.

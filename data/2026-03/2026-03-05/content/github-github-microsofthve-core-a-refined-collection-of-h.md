@@ -11,7 +11,7 @@ description: A refined collection of Hypervelocity Engineering components (instr
 
 microsoft
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork64
 * Star158
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -347,7 +347,7 @@ Instructions
 
 Passive reference guidance applied by file pattern
 
-Automatic via 
+Automatic via
 applyTo
  glob
 
@@ -355,7 +355,7 @@ Prompts
 
 Task-specific procedures with input variables
 
-Manual via 
+Manual via
 /
  command
 
@@ -459,66 +459,66 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 158
 
  stars
- 
+
 
 ### Watchers
 
 7
 
  watching
- 
+
 
 ### Forks
 
 64
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases18
 
@@ -526,11 +526,11 @@ hve-core: v3.0.2
 
  Latest
 
- 
+
 
 Feb 21, 2026
 
- 
+
 
 + 17 releases
 
@@ -546,17 +546,17 @@ Feb 21, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors36
 

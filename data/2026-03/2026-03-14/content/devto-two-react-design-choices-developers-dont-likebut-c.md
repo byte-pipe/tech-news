@@ -20,16 +20,16 @@ And somewhere along the way, I realized something uncomfortable. React was right
 I'm talking about deferred state commits:
 
 const
- 
+
 [
 state
 ,
- 
+
 setState
 ]
- 
+
 =
- 
+
 useState
 (
 1
@@ -43,12 +43,12 @@ setState
 );
 
 state
- 
+
 ===
- 
+
 1
 ;
- 
+
 //not committed yet
 
 Enter fullscreen mode
@@ -59,16 +59,16 @@ And dependency arrays on Effects:
 
 useEffect
 (()
- 
+
 =>
- 
+
 console
 .
 log
 (
 state
 ),
- 
+
 [
 state
 ]);
@@ -96,21 +96,21 @@ When async leaks into user space — through conditional branches or alternate v
 // Derived computation forced to branch on async state
 
 const
- 
+
 firstInitial
- 
+
 =
- 
+
 user
 .
 loading
- 
+
 ?
- 
+
 ""
- 
+
 :
- 
+
 user
 .
 name
@@ -133,40 +133,40 @@ But those characteristics only hide a fundamental truth. You cannot let async wo
 Consider:
 
 let
- 
+
 count
- 
+
 =
- 
+
 0
 ;
 
 let
- 
+
 doubleCount
- 
+
 =
- 
+
 count
- 
+
 *
- 
+
 2
 ;
 
 function
- 
+
 increment
 ()
- 
+
 {
 
- 
+
 count
 ++
 ;
 
- 
+
 console
 .
 log
@@ -175,7 +175,7 @@ log
 ${
 count
 }
- * 2 = 
+ * 2 =
 ${
 doubleCount
 }
@@ -186,7 +186,7 @@ doubleCount
 
 <
 button
- 
+
 onClick
 =
 {
@@ -196,13 +196,13 @@ increment
 {
 count
 }
- 
+
 *
- 
+
 2
- 
+
 =
- 
+
 {
 doubleCount
 }
@@ -235,40 +235,40 @@ React was the only system that didn’t updatecountimmediately, and people hated
 Now imagine the handler is:
 
 function
- 
+
 onClick
 (
 event
 )
- 
+
 {
 
- 
+
 setBooks
 ([]);
 
- 
+
 // derived value
 
- 
-if 
+
+if
 (
 booksLength
 )
- 
+
 {
 
- 
+
 books
 [
 booksLength
- 
+
 -
- 
+
 1
 ]
 
- 
+
 }
 
 }
@@ -302,33 +302,33 @@ Because if async is only discovered during side effects, it’s already too late
 Consider:
 
 const
- 
+
 a
- 
+
 =
- 
+
 asyncSignal
 (
 fetchA
 ());
 
 const
- 
+
 b
- 
+
 =
- 
+
 asyncSignal
 (
 fetchB
 ());
 
 const
- 
+
 c
- 
+
 =
- 
+
 asyncSignal
 (
 fetchC
@@ -336,12 +336,12 @@ fetchC
 
 effect
 (()
- 
+
 =>
- 
+
 {
 
- 
+
 console
 .
 log
@@ -349,7 +349,7 @@ log
 a
 ());
 
- 
+
 console
 .
 log
@@ -357,7 +357,7 @@ log
 b
 ());
 
- 
+
 console
 .
 log
@@ -390,28 +390,28 @@ Could a compiler extract dependencies from a single effect function? In a shallo
 This is exactly why Svelte 5 moved to Runes (Signals). Compiler‑time dependency capture hit a hard limit. It couldn’t track sources that weren’t syntactically visible.
 
 let
- 
+
 count
- 
+
 =
- 
+
 0
 ;
 
 function
- 
+
 getDoubleCount
 ()
- 
+
 {
 
- 
+
 return
- 
+
 count
- 
+
 *
- 
+
 2
 ;
 
@@ -423,11 +423,11 @@ count
 
 $
 :
- 
+
 doubled
- 
+
 =
- 
+
 getDoubleCount
 ();
 
@@ -462,7 +462,7 @@ Embracing this isn’t mimicry. It’s maturity. It’s choosing the inevitable 
 Clarity doesn’t simplify the world, but it does make the direction unmistakable.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

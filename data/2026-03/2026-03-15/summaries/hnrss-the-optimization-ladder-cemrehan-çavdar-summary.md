@@ -17,11 +17,11 @@ summarized_at: 2026-03-15T06:01:52.800212
 - Experiments run on an Apple M4 Pro using CPython 3.13 as the baseline.
 
 ## Baseline Benchmark Results (CPython 3.13 vs. C gcc)
-- **n‑body (50 M)**: 2.1 s vs. 372 s → 177× slower  
-- **spectral‑norm (5500)**: 0.4 s vs. 350 s → 875× slower  
-- **fannkuch‑redux (12)**: 2.1 s vs. 311 s → 145× slower  
-- **mandelbrot (16000)**: 1.3 s vs. 183 s → 142× slower  
-- **binary‑trees (21)**: 1.6 s vs. 33 s → 21× slower  
+- **n‑body (50 M)**: 2.1 s vs. 372 s → 177× slower
+- **spectral‑norm (5500)**: 0.4 s vs. 350 s → 875× slower
+- **fannkuch‑redux (12)**: 2.1 s vs. 311 s → 145× slower
+- **mandelbrot (16000)**: 1.3 s vs. 183 s → 142× slower
+- **binary‑trees (21)**: 1.6 s vs. 33 s → 21× slower
 
 The goal is not to prove Python slow, but to show how much effort each optimization yields.
 

@@ -72,7 +72,7 @@ Triangle
 * Porn stars areembracing AI clones
 * WIRED@Night:Hear Andy Greenberg discussthe facts and fiction of crypto
 Lily Hay Newman
- is a senior writer at WIRED focused on information security, digital privacy, and hacking. She previously worked as a technology reporter at Slate, and was the staff writer for Future Tense, a publication and partnership between Slate, the New America Foundation, and Arizona State University. Her work ... 
+ is a senior writer at WIRED focused on information security, digital privacy, and hacking. She previously worked as a technology reporter at Slate, and was the staff writer for Future Tense, a publication and partnership between Slate, the New America Foundation, and Arizona State University. Her work ...
 Read More
 Senior Writer
 * X

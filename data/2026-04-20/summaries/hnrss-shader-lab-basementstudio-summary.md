@@ -57,7 +57,7 @@ ShaderLab Graphics Node Modules explained to understand Graphic Modes and their 
 
 
 **Main Points**
-* Overview  of ShadLab's Graphics Nodes, Layers 
+* Overview  of ShadLab's Graphics Nodes, Layers
 * Explanation Key Node Property List : (e.g., Opacity)
 * Introduction ShadLab Layer Management
 * Example Use Cases Add Opacity to a Texture
@@ -80,7 +80,7 @@ ShaderLab Graphics Node Modules explained to understand Graphic Modes and their 
 **Properties:**
 
 CRT Effect:
-General Properties 
+General Properties
 | Opacity | 100% |
 | Blur Mode   | Normal|
 | Distance Intensity | Barrel Distortion| +2.00

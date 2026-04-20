@@ -50,13 +50,13 @@ Let us be specific. These are not edge cases or nuanced tradeoffs. These are pat
 ### The N+1 Query
 
 const
- 
+
 posts
- 
+
 =
- 
+
 await
- 
+
 db
 .
 query
@@ -66,46 +66,46 @@ SELECT * FROM posts
 '
 );
 
-for 
+for
 (
 const
- 
+
 post
- 
+
 of
- 
+
 posts
 )
- 
+
 {
 
- 
+
 post
 .
 author
- 
+
 =
- 
+
 await
- 
+
 db
 .
 query
 (
 
- 
+
 '
 SELECT * FROM users WHERE id = ?
 '
 ,
- 
+
 [
 post
 .
 author_id
 ]
 
- 
+
 );
 
 }
@@ -119,37 +119,37 @@ If you have 200 posts, this runs 201 queries. If your database round trip takes 
 The fix is not an optimization. It is a JOIN, which is what relational databases were designed to do in 1970.
 
 SELECT
- 
+
 posts
 .
 *
 ,
- 
+
 users
 .
 name
 ,
- 
+
 users
 .
 avatar
 
 FROM
- 
+
 posts
 
 JOIN
- 
+
 users
- 
+
 ON
- 
+
 users
 .
 id
- 
+
 =
- 
+
 posts
 .
 author_id
@@ -164,13 +164,13 @@ One query. Done. This is not a performance tradeoff. There is no version of the 
 ### Selecting Everything
 
 const
- 
+
 user
- 
+
 =
- 
+
 await
- 
+
 db
 .
 query
@@ -179,30 +179,30 @@ query
 SELECT * FROM users WHERE id = ?
 '
 ,
- 
+
 [
 id
 ]);
 
 return
- 
+
 {
- 
+
 name
 :
- 
+
 user
 .
 name
 ,
- 
+
 email
 :
- 
+
 user
 .
 email
- 
+
 };
 
 Enter fullscreen mode
@@ -220,39 +220,39 @@ Select what you need. Always.
 // These two things don't depend on each other
 
 const
- 
+
 user
- 
+
 =
- 
+
 await
- 
+
 getUser
 (
 userId
 );
 
 const
- 
+
 settings
- 
+
 =
- 
+
 await
- 
+
 getSettings
 (
 userId
 );
 
 const
- 
+
 permissions
- 
+
 =
- 
+
 await
- 
+
 getPermissions
 (
 userId
@@ -265,39 +265,39 @@ Exit fullscreen mode
 Eachawaitwaits for the previous call to finish before starting the next. If each takes 50ms, you have spent 150ms doing work that could have been done in 50ms.
 
 const
- 
+
 [
 user
 ,
- 
+
 settings
 ,
- 
+
 permissions
 ]
- 
+
 =
- 
+
 await
- 
+
 Promise
 .
 all
 ([
 
- 
+
 getUser
 (
 userId
 ),
 
- 
+
 getSettings
 (
 userId
 ),
 
- 
+
 getPermissions
 (
 userId
@@ -324,13 +324,13 @@ Virtualization, pagination, and windowing exist. They are not heroic performance
 // Called on every request
 
 const
- 
+
 countries
- 
+
 =
- 
+
 await
- 
+
 db
 .
 query
@@ -377,7 +377,7 @@ If the answer is no, if the slower choice is obviously slower by construction an
 Your users feel the difference. The profiler just helps you find it on a map.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

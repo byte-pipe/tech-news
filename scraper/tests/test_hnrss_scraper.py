@@ -2,7 +2,6 @@
 Tests for the HNRSSScraper class.
 """
 
-import os
 import shutil
 import tempfile
 import unittest
@@ -22,7 +21,7 @@ class TestHNRSSScraper(unittest.TestCase):
     def tearDown(self):
         shutil.rmtree(self.test_output_dir, ignore_errors=True)
 
-    def _make_entry(self, title="Test Story", link="https://example.com/article", comments="https://news.ycombinator.com/item?id=12345", description="<p>Points: 139</p><p># Comments: 63</p>", published_parsed=(2026, 2, 8, 12, 0, 0, 5, 39, 0)):
+    def _make_entry(self, title="Test Story", link="https://example.com/article", comments="https://news.ycombinator.com/item?id=12345", description="<p>Points: 139</p><p># Comments: 63</p>", published_parsed=(2026, 2, 8, 12, 0, 0, 5, 39, 0)):  # noqa: E501
         """Create a mock feedparser entry."""
         entry = MagicMock()
         entry.title = title
@@ -145,6 +144,79 @@ class TestHNRSSScraper(unittest.TestCase):
 
         result = self.scraper.scrape(output_format="json")
         self.assertEqual(len(result), 1)
+
+    def test_normalize_entry_bad_published_parsed_falls_back(self):
+        """Test that invalid published_parsed tuple falls back to today."""
+        entry = self._make_entry()
+        entry.published_parsed = (9999, 13, 40, 99, 99, 99, 0, 0, 0)  # invalid date
+        result = self.scraper._normalize_entry(entry)
+        self.assertIsNotNone(result)
+        # Should fall back to today's date
+        today = datetime.now().strftime("%Y-%m-%d")
+        self.assertEqual(result["date"], today)
+
+    @patch("scraper.scrapers.hnrss.feedparser.parse")
+    def test_scrape_all_entries_normalize_to_none(self, mock_parse):
+        """Test when all entries fail normalization."""
+        mock_feed = MagicMock()
+        mock_feed.bozo = False
+        entry = self._make_entry(title="", link="")  # both empty → normalize returns None
+        mock_feed.entries = [entry]
+        mock_parse.return_value = mock_feed
+
+        result = self.scraper.scrape(output_format="json")
+        self.assertEqual(result, [])
+
+    @patch("scraper.scrapers.hnrss.feedparser.parse")
+    def test_scrape_csv_format(self, mock_parse):
+        """Test scraping with csv output format."""
+        mock_feed = MagicMock()
+        mock_feed.bozo = False
+        mock_feed.entries = [self._make_entry()]
+        mock_parse.return_value = mock_feed
+
+        result = self.scraper.scrape(output_format="csv")
+        self.assertEqual(len(result), 1)
+
+    @patch("scraper.scrapers.hnrss.feedparser.parse")
+    def test_scrape_markdown_format(self, mock_parse):
+        """Test scraping with markdown output format."""
+        mock_feed = MagicMock()
+        mock_feed.bozo = False
+        mock_feed.entries = [self._make_entry()]
+        mock_parse.return_value = mock_feed
+
+        result = self.scraper.scrape(output_format="markdown")
+        self.assertEqual(len(result), 1)
+
+    @patch("scraper.scrapers.hnrss.feedparser.parse")
+    def test_scrape_exception_returns_none(self, mock_parse):
+        """Test that scrape exception returns None."""
+        mock_parse.side_effect = RuntimeError("network error")
+
+        result = self.scraper.scrape(output_format="json")
+        self.assertIsNone(result)
+
+    @patch("scraper.scrapers.hnrss.feedparser.parse")
+    def test_scrape_non_test_mode_uses_project_root(self, mock_parse):
+        """Test scraping in non-test mode uses project root path (line 147)."""
+        import tempfile
+        tmp = tempfile.mkdtemp()
+        from scraper.scrapers.hnrss import HNRSSScraper
+        # Instantiate without test_mode
+        scraper = HNRSSScraper(test_mode=False)
+        scraper.project_root = tmp  # Override to avoid creating files in real project
+
+        mock_feed = MagicMock()
+        mock_feed.bozo = False
+        mock_feed.entries = [self._make_entry()]
+        mock_parse.return_value = mock_feed
+
+        result = scraper.scrape(output_format="json")
+        self.assertIsNotNone(result)
+
+        import shutil
+        shutil.rmtree(tmp, ignore_errors=True)
 
 
 if __name__ == "__main__":

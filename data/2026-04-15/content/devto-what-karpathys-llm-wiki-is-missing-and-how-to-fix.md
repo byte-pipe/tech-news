@@ -51,34 +51,34 @@ On save, the plugin syncs matched types to YAML frontmatter automatically:
 supersedes
 :
 
- 
+
 -
- 
+
 "
 [[Previous
- 
+
 Analysis]]"
 
 supports
 :
 
- 
+
 -
- 
+
 "
 [[Redis
- 
+
 Paper]]"
 
 references
 :
 
- 
+
 -
- 
+
 "
 [[Redis
- 
+
 Paper]]"
 
 ---
@@ -173,19 +173,19 @@ Quick start:
 
 # Install
 
-pip 
+pip
 install
- 
+
 .
 
 # Authenticate (opens browser, takes 2 seconds)
 
-penfield-import 
+penfield-import
 --login
 
 # Preview what will be imported
 
-penfield-import /path/to/your/vault 
+penfield-import /path/to/your/vault
 --dry-run
 
 # Run the import
@@ -274,7 +274,7 @@ Karpathy's LLM Wiki pattern is a solid foundation. Typed relationships, AI-disco
 If you have questions or want to contribute, open an issue on any of the repos above or find us at@penfieldlabs.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

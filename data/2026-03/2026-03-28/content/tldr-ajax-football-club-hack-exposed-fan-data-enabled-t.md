@@ -13,7 +13,7 @@ tags:
 
 # Ajax football club hack exposed fan data, enabled ticket hijack
 
- By 
+ By
 
 ###### Bill Toulas
 

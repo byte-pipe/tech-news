@@ -29,7 +29,7 @@ google
 Add Al Jazeera on Google
 info
 Afghan men draw water from Kunar River to sift through excavated mountainside stones in search of gold nuggets near mud-brick houses at the Kharwalu area of Naray district, Kunar province. [Wakil Kohsar/AFP]
-By 
+By
 AFP
 Published On 16 Apr 2026
 16 Apr 2026

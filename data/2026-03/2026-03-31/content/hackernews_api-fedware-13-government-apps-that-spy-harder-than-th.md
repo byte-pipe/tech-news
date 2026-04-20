@@ -19,63 +19,63 @@ White House App
 3 Trackers, GPS + Biometrics
 
  Version 47.0.1 requests precise GPS, fingerprint access, storage modification, auto-start at boot, draw over apps, and Wi-Fi scanning for a news app.
- 
+
 
 FBI Dashboard
 
 4 Trackers + AdMob Ads
 
  The FBI's official app has 12 permissions, 4 trackers including Google AdMob. It serves targeted ads while reading your phone identity.
- 
+
 
 FEMA App
 
 28 Permissions
 
  28 permissions for an app that shows weather alerts. AP News delivers the same disaster coverage with a fraction of the permissions.
- 
+
 
 CBP Passport Control
 
 7 Dangerous Permissions
 
  Background location tracking, camera, biometrics, full storage access. Faceprints retained for up to 75 years across DHS, ICE, and FBI.
- 
+
 
 Mobile Fortify
 
 200M+ Face Database
 
  ICE field agents carry this facial recognition app. Pulls from 200M+ DHS/FBI/State images plus 50B Clearview AI scraped images via $9.2M contract.
- 
+
 
 SmartLINK
 
 $2.2B ICE Monitor
 
  Collects geolocation, facial images, voice prints, pregnancy data. ICE contract gives them "unlimited rights to use, dispose of, or disclose" all data.
- 
+
 
 Venntel / Data Brokers
 
 15B Location Points/Day
 
  DHS, FBI, DOD, and DEA buy location data from 250M+ devices without warrants, bypassing the Supreme Court's Carpenter ruling entirely.
- 
+
 
 IRS-ICE Data Deal
 
 1.28M Names Shared
 
  IRS shared tax data with ICE, erroneously included thousands who should never have been on the list. The acting IRS Commissioner resigned in protest.
- 
+
 
 GAO Oversight Failure
 
 60% Ignored Since 2010
 
  Nearly 60% of 236 GAO privacy and security recommendations from 2010 onward remain unimplemented. Congress was told twice to pass privacy law. It has done neither.
- 
+
 
 The federal government released an app yesterday, March 27th, and it's spyware.
 

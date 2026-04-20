@@ -136,21 +136,21 @@ Shibani Ahuja
 
 SVP, Enterprise IT Strategy
 
-					More by Shibani					
+					More by Shibani
 
- 
+
 
 	8 min read
 
- 
+
 
 	1 min read
 
- 
+
 
 	6 min read
 
- 
+
 
 	4 min read
 

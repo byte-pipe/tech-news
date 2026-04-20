@@ -15,13 +15,13 @@ tags:
 
 Sinisa Markovic
 , Senior Staff Writer, Help Net Security
- 
+
 
 February 24, 2026
- 
+
 
 Share
- 
+
 
 # Security and complexity slow the next phase of enterprise AI agent adoption
 

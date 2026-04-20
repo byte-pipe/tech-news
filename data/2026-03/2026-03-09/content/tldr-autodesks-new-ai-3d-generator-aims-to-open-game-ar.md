@@ -42,9 +42,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -64,13 +64,13 @@ Wonder 3D can create detailed 3D assets from both text prompts and 2D image refe
 
 Introducing Wonder 3D | Text and Image to 3D in Autodesk Flow Studio - YouTube
 
-Watch On 
+Watch On
 
 Autodesk Flow Studio already made use of AI to automate VFX tasks like motion capture, camera tracking and characteranimation. The addition of Wonder 3D means that users can now generate fully editable 3D models of characters and props, complete with geometries and textures.
 
 There are three tools: Text-to-3D, Image-to-3D and Text-to-Image. Image-to-3D allows sketches, reference images orconcept artto be turned into textured 3D models, while text-to-Image means that users can generate 2D concept visuals first before choosing the strongest ideas to take into 3D.
 
- 
+
 
 (Image credit: Autodesk)
 

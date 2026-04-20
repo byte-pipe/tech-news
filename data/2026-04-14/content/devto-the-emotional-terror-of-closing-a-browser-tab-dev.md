@@ -46,7 +46,7 @@ Find one tab. Just one. Maybe an API documentation page for a version of a libra
 Your laptop fan might just quiet down for half a second.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -57,6 +57,6 @@ Preview
 Dismiss
 
  View full discussion (48 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

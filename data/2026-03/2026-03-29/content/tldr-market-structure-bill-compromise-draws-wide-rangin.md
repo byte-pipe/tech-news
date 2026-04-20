@@ -26,22 +26,22 @@ Email
 ## The yield agreement, seen as a step toward finally advancing the stalled market structure bill, hasn't yet fully won industry support.
 
 By
- 
+
 Nikhilesh De
-, 
+,
 Jesse Hamilton
 |
 Edited by
- 
+
 Aoyon Ashraf
 Updated
- 
-Mar 26, 2026, 4:49 a.m. 
+
+Mar 26, 2026, 4:49 a.m.
 Published
- 
-Mar 25, 2026, 11:11 p.m. 
-Make 
- preferred on 
+
+Mar 25, 2026, 11:11 p.m.
+Make
+ preferred on
 Coinbase CEO Brian Armstrong, a White House favorite, may not be pleased with the latest version of the Clarity Act. (Jesse Hamilton/CoinDesk)
 
 #### What to know:
@@ -86,7 +86,7 @@ More For You
 ### The Definitive Stablecoin Landscape Series: North America
 
 By
- 
+
 CoinDesk Research
 Mar 26, 2026
 Commissioned by
@@ -105,11 +105,11 @@ More For You
 ### Washington sues Kalshi as states ramp up legal pressure against prediction markets
 
 By
- 
+
 Nikhilesh De
 |
 Edited by
- 
+
 Aoyon Ashraf
 17 hours ago
 
@@ -122,7 +122,7 @@ What to know:
 * Nevada also secured a preliminary injunction against...
 Read full story
 Latest Crypto News
- 
+
 
 #### Crypto needs a reset before the next bull run
 

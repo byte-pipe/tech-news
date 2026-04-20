@@ -366,7 +366,7 @@ The peg is still round.
 And the hole is still square.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -377,6 +377,6 @@ Preview
 Dismiss
 
  View full discussion (15 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

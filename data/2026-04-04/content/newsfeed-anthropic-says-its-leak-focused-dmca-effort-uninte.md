@@ -39,20 +39,20 @@ Meanwhile, multiple enterprising coders have already used AI coding tools to dev
 Anthropic coders’ own use of Claude Code to write pieces of the Claude Code client could also complicate the legal status of the leaked code. Chernyadmitted in Decemberthat “in the last thirty days, 100% of my contributions to Claude Code were written by Claude Code.” That kind of admission could be significant, because while the US Copyright Officeoffers protection to “AI-assisted” codebases, that protectiongenerally doesn’t extend to work generated entirely by AI.
 
  Kyle Orland
- 
+
 
 Senior Gaming Editor
 
  Kyle Orland
- 
+
 
 Senior Gaming Editor
 
- Kyle Orland has been the Senior Gaming Editor at Ars Technica since 2012, writing primarily about the business, tech, and culture behind video games. He has journalism and computer science degrees from University of Maryland. He once 
-wrote a whole book about 
+ Kyle Orland has been the Senior Gaming Editor at Ars Technica since 2012, writing primarily about the business, tech, and culture behind video games. He has journalism and computer science degrees from University of Maryland. He once
+wrote a whole book about
 Minesweeper
 .
- 
+
 
 1. 1.New Rowhammer attacks give complete control of machines running Nvidia GPUs
 2. 2.Here's what that Claude Code source leak reveals about Anthropic's plans

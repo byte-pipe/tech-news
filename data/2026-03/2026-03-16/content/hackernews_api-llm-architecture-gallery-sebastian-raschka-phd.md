@@ -29,16 +29,16 @@ Upon popular request, you can now also get this as a physical poster viaZazzle.
 ### Llama 3 8B
 
  View in article
- 
+
 
  From scratch
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Reference dense Llama stack used to contrast OLMo 2's normalization and attention choices.
 
@@ -69,13 +69,13 @@ GQA
 ### OLMo 2 7B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Transparent dense model that keeps classic MHA and pushes normalization changes for training stability.
 
@@ -108,13 +108,13 @@ MHA
 ### DeepSeek V3
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 DeepSeek's flagship template kicked off the recent wave of large open MoE models.
 
@@ -147,13 +147,13 @@ MoE
 ### DeepSeek R1
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Reasoning-tuned DeepSeek model built on the V3 architecture rather than a new base design.
 
@@ -186,16 +186,16 @@ MoE
 ### Gemma 3 27B
 
  View in article
- 
+
 
  From scratch
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Gemma's flagship text stack leans on local attention more aggressively than Gemma 2.
 
@@ -230,13 +230,13 @@ SWA
 ### Mistral Small 3.1 24B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Fast dense 24B model that drops the sliding-window setup used in older Mistral releases.
 
@@ -269,13 +269,13 @@ SWA
 ### Llama 4 Maverick
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Meta's large MoE follows the DeepSeek V3 playbook but with a more conventional attention stack.
 
@@ -308,16 +308,16 @@ MoE
 ### Qwen3 235B-A22B
 
  View in article
- 
+
 
  From scratch
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Large sparse Qwen variant that stays very close to DeepSeek V3 while removing the shared expert.
 
@@ -352,16 +352,16 @@ MoE
 ### Qwen3 32B
 
  View in article
- 
+
 
  From scratch
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Large dense Qwen3 model that serves as the clearest like-for-like comparison for OLMo 3 32B.
 
@@ -394,16 +394,16 @@ GQA
 ### Qwen3 4B
 
  View in article
- 
+
 
  From scratch
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Mid-size dense Qwen3 model used here as a clean baseline against SmolLM3 and Tiny Aya.
 
@@ -436,16 +436,16 @@ GQA
 ### Qwen3 8B
 
  View in article
- 
+
 
  From scratch
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Dense Qwen3 baseline used here to show how little OLMo 3 changed the overall decoder recipe.
 
@@ -478,13 +478,13 @@ GQA
 ### SmolLM3 3B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Compact dense model that experiments with leaving out positional encodings in selected layers.
 
@@ -517,13 +517,13 @@ GQA
 ### Kimi K2
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Trillion-parameter Moonshot model that essentially scales the DeepSeek V3 recipe upward.
 
@@ -556,13 +556,13 @@ MoE
 ### GLM-4.5 355B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Agent-oriented instruction/reasoning hybrid that borrows DeepSeek's dense-prefix MoE layout.
 
@@ -597,13 +597,13 @@ MoE
 ### GPT-OSS 120B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Larger gpt-oss variant keeps the same alternating-attention recipe as the 20B model.
 
@@ -638,13 +638,13 @@ MoE
 ### GPT-OSS 20B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 OpenAI's smaller open-weight MoE model favors width and alternating local/global attention.
 
@@ -679,10 +679,10 @@ MoE
 ### Grok 2.5 270B
 
  View in article
- 
+
 
  config.json
- 
+
 
 Rare production-model release that shows an older MoE style with fewer, larger experts.
 
@@ -715,10 +715,10 @@ MoE
 ### Qwen3 Next 80B-A3B
 
  View in article
- 
+
 
  config.json
- 
+
 
 Efficiency-focused Qwen refresh that swaps standard attention for a DeltaNet-attention hybrid.
 
@@ -753,10 +753,10 @@ Gated DeltaNet
 ### MiniMax M2 230B
 
  View in article
- 
+
 
  config.json
- 
+
 
 MiniMax's flagship returns to full attention and looks like a leaner, sparser cousin of Qwen3.
 
@@ -791,13 +791,13 @@ MoE
 ### Kimi Linear 48B-A3B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Linear-attention hybrid that keeps a transformer backbone but replaces most full-attention layers.
 
@@ -832,16 +832,16 @@ Gated DeltaNet
 ### OLMo 3 32B
 
  View in article
- 
+
 
  From scratch
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Scaled-up OLMo 3 keeps the same block design but moves to grouped-query attention.
 
@@ -876,16 +876,16 @@ SWA
 ### OLMo 3 7B
 
  View in article
- 
+
 
  From scratch
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 New transparent Allen AI model that keeps OLMo's post-norm flavor while modernizing context handling.
 
@@ -920,13 +920,13 @@ SWA
 ### DeepSeek V3.2
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 DeepSeek's successor keeps the V3 template but adds sparse attention to cut long-context costs.
 
@@ -961,10 +961,10 @@ DeepSeek Sparse Attention
 ### Mistral 3 Large
 
  View in article
- 
+
 
  params.json
- 
+
 
 Mistral's new flagship effectively adopts the DeepSeek architecture and retunes the expert sizes.
 
@@ -997,13 +997,13 @@ MoE
 ### Nemotron 3 Nano 30B-A3B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 NVIDIA's Nano model is the most extreme transformer-state-space hybrid in the gallery.
 
@@ -1036,13 +1036,13 @@ MoE
 ### Xiaomi MiMo-V2-Flash 309B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Large MoE model that pushes sliding-window attention harder than most contemporaries.
 
@@ -1075,13 +1075,13 @@ MoE
 ### GLM-4.7 355B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Immediate GLM predecessor that stays closer to the older GLM-4.5 style before the MLA shift.
 
@@ -1118,13 +1118,13 @@ MoE
 ### Arcee AI Trinity Large 400B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Arcee's flagship blends several efficiency tricks into a DeepSeek-like coarse MoE design.
 
@@ -1165,13 +1165,13 @@ Gated Attention
 ### GLM-5 744B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Huge GLM refresh that adopts both MLA and DeepSeek Sparse Attention for flagship-scale inference.
 
@@ -1206,13 +1206,13 @@ DeepSeek Sparse Attention
 ### Nemotron 3 Super 120B-A12B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 The Super variant scales up Nano and adds both latent experts and native speculative decoding support.
 
@@ -1247,13 +1247,13 @@ MoE
 ### Step 3.5 Flash 196B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Throughput-oriented MoE model that stays competitive with much larger DeepSeek-style systems.
 
@@ -1288,13 +1288,13 @@ MoE
 ### Nanbeige 4.1 3B
 
  View in article
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Small on-device oriented model that stays close to Llama 3.2 while nudging the scaling choices.
 
@@ -1325,10 +1325,10 @@ GQA
 ### MiniMax M2.5 230B
 
  View in article
- 
+
 
  config.json
- 
+
 
 Popular 230B coder that opts for a classic architecture instead of the newer hybrid-attention ideas.
 
@@ -1365,16 +1365,16 @@ MoE
 ### Tiny Aya 3.35B
 
  View in article
- 
+
 
  From scratch
- 
+
 
  config.json
- 
+
 
  Tech report
- 
+
 
 Compact multilingual model from Cohere with a rare parallel transformer block.
 
@@ -1409,10 +1409,10 @@ SWA
 ### Ling 2.5 1T
 
  View in article
- 
+
 
  config.json
- 
+
 
 Trillion-parameter long-context model that swaps DeltaNet for Lightning Attention.
 
@@ -1445,13 +1445,13 @@ Gated DeltaNet
 ### Qwen3.5 397B
 
  View in article
- 
+
 
  From scratch
- 
+
 
  config.json
- 
+
 
 Mainline Qwen refresh that brings the Next-style hybrid attention into the flagship series.
 
@@ -1486,10 +1486,10 @@ Gated DeltaNet
 ### Sarvam 105B
 
  View in article
- 
+
 
  config.json
- 
+
 
 Larger Sarvam variant keeps the sparse MoE layout but switches from GQA to MLA.
 
@@ -1526,10 +1526,10 @@ MoE
 ### Sarvam 30B
 
  View in article
- 
+
 
  config.json
- 
+
 
 Reasoning-oriented Indian-language sparse MoE that keeps GQA at the smaller size.
 
@@ -1569,7 +1569,7 @@ The original comparison article that walks through the architecture figures in c
  design choices across dense, MoE, MLA, and hybrid decoder families.
 
  Read article
- 
+
 
 Source article
 
@@ -1579,9 +1579,9 @@ Follow-up article covering the additional open-weight architecture releases from
  newer MiniMax, Qwen, Ling, and Sarvam families.
 
  Read article
- 
+
 
  View in article
- 
+
 
 ×

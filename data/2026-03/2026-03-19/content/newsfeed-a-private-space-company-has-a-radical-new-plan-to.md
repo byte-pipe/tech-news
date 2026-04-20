@@ -39,22 +39,22 @@ TransAstra has already performed some preliminary work in space with its “capt
 Last September, a 1-meter prototype bag built by TransAstra flew to the International Space Station aboard a Cygnus spacecraft. There an astronaut moved it into the Bishop airlock, where the bag was successfully opened and closed in the vacuum of space.
 
  TransAstra’s 1-meter capture bag deployed on the International Space Station.
- 
+
 
  Credit:
  TransAstra
- 
+
 
  TransAstra’s 1-meter capture bag deployed on the International Space Station.
 
- 
+
 
  Credit:
 
- 
+
  TransAstra
 
- 
+
 
 Also last fall, TransAstrawon a $2.5 million contractfrom NASA to scale up the size of its inflatable capture bag system to 10 meters in diameter, the size it says it needs to corral small asteroids. Matched by private funding, the combined funds have allowed TransAstra to be able to accelerate development and testing of its larger capture bag.
 
@@ -69,21 +69,21 @@ Bringing back several kilograms of an asteroid—let alone one with a mass of 10
 TransAstra is proposing to bring back vastly more material for significantly less. The initial mission, Sercel said, would cost a “few hundred million” dollars. That may sound borderline impossible, but it’s the kind of breakthrough needed if humanity is going to start building a future for itself in the Solar System, with materials from the Solar System beyond Earth.
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
- Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books: 
+ Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books:
 Liftoff
-, about the rise of SpaceX; and 
+, about the rise of SpaceX; and
 Reentry
 , on the development of the Falcon 9 rocket and Dragon. A certified meteorologist, Eric lives in Houston.
- 
+
 
 1. 1.Paul Atreides faces the cost of his holy war in Dune: Part 3 teaser
 2. 2.Coal plant forced to stay open due to emergency order isn't even running

@@ -15,7 +15,7 @@ tags:
 
 15 Feb
 
-Written By 
+Written By
 Martin Wright
 
 It's hard to move in the regular spaces right now as a designer without noticing the continuing noise about AI. It's loud at best, and braggadocios at worst.

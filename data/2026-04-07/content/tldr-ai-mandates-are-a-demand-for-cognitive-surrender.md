@@ -32,7 +32,7 @@ Apaper from earlier this yeargives a name to this phenomenon. It’s not mere co
 
 Subjects were willing to accept faulty AI reasoning a whopping 73.2 percent of the time, while only overruling it 19.7 percent of the time…fluent, confident outputs are treated as epistemically authoritative, lowering the threshold for scrutiny.
 
-Kyle Orland, 
+Kyle Orland,
 “Cognitive surrender” leads AI users to abandon logical thinking, research finds
 
 I wrote about this phenomenon for NN/Ga year ago, but I’m not a scientist, just a guy typing words into the internet.
@@ -75,7 +75,7 @@ Outputs without outcomes may be the default, but it’s far from the only option
 
 I'm rebooting how my org operates around a simple idea: every investment of design effort should connect to how we actually grow: attracting new customers, expanding usage, or retaining core customers. That's it. The default answer for everything else is "not now."
 
-Travis Isaacs, 
+Travis Isaacs,
 Hope vs. Leverage
 
 This kind of pivot can’t happen beneath the level of strategy. Tacticallyseeking out pain points to solve has extremely low returns, no matter how quickly you can churn them out. And if your leadership isn’t up to the task, you need to get some design judo going — for which no amount of high-fidelity prototyping will help you.

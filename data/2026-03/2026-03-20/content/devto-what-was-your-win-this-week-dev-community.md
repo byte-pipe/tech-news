@@ -27,7 +27,7 @@ Examples of 'wins' include:
 Happy Friday!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

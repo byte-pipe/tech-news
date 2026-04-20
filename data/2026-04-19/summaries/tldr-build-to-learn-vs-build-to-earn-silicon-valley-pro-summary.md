@@ -26,7 +26,7 @@ Although the article takes up most of its content, it maintains a clear narrativ
 
 * **Project Model (Prioritization):**
 	+ Focuses on delivering features or projects
-	+ Features are created based on prioritized plans 
+	+ Features are created based on prioritized plans
 	+ Engineers build specifications
 	+ Designs are developed to meet those specs
 

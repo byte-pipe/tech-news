@@ -15,9 +15,9 @@ tags:
 In Pictures
 
 Two women from the Iranian Red Crescent Society stand watching as a thick plume of smoke rises in the Tehran sky on March 8, 2026. The smoke billows from an oil storage facility struck late Saturday in a US-Israeli attack. [Vahid Salemi/AP Photo]
-By 
+By
 Al Jazeera
- and 
+ and
 AP
 Published On 8 Mar 2026
 8 Mar 2026

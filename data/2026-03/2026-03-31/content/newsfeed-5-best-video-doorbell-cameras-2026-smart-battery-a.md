@@ -27,7 +27,7 @@ The Best Smart Doorbell
 Google Nest Doorbell (Wired, 3rd Gen)
 Read more
 $177
- 
+
 
 Amazon
 
@@ -35,11 +35,11 @@ Runner-Up
 Arlo Video Doorbell 2K
 Read more
 $130
- 
+
 $49
- 
+
 (62% off)
- 
+
 
 Amazon
 
@@ -47,11 +47,11 @@ Best Subscription-Free Video Doorbell
 Eufy Video Doorbell E340
 Read more
 $150
- 
+
 $100
- 
+
 (33% off)
- 
+
 
 Amazon
 
@@ -59,11 +59,11 @@ Best for Apple HomeKit
 Aqara Doorbell Camera Hub G410
 Read more
 $145
- 
+
 $100
- 
+
 (31% off)
- 
+
 
 Amazon
 
@@ -196,9 +196,9 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Simon Hill
- is a senior writer for WIRED and has been testing and writing about technology for around 20 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially 
+ is a senior writer for WIRED and has been testing and writing about technology for around 20 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially
 smartphones
- and ... 
+ and ...
 Read More
 Senior writer and reviewer
 * bluesky
@@ -222,7 +222,7 @@ These tech-packed beds can adjust firmness, track your sleep, and regulate tempe
 Julia Forbes
 The Right Mattress Can Erase Your Back Pain
 If you're struggling with chronic back or shoulder pain, these mattresses could change your life
- Nena Farrell 
+ Nena Farrell
 The Best Espresso Machines, Including—Surprise—the Most-Hyped Pick of 2026
 The best espresso makers can turn your kitchen into a café and help you hone the art of the perfect shot.
 Matthew Korfhage

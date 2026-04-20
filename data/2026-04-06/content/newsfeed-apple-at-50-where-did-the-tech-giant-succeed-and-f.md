@@ -57,7 +57,7 @@ Released in 2007, the iPod Touch was designed by the same team, who later invent
 ## iPhone (hit)
 
 AFP via Getty Images
-"An iPod, a phone, and an internet communicator": Steve Jobs unveiled the first edition to the world in 2007 
+"An iPod, a phone, and an internet communicator": Steve Jobs unveiled the first edition to the world in 2007
 
 More than 200 million iPhones are sold each year - with roughly seven purchased somewhere in the world every second.
 
@@ -74,7 +74,7 @@ But tech journalist Kara Swisher argues its "gorgeous marketing" helped catapult
 ## Apple Watch (hit)
 
 Getty Images
-Jobs' successor Tim Cook wanted to make the best watch in the world 
+Jobs' successor Tim Cook wanted to make the best watch in the world
 
 By the time the wearable Apple Watch launched in 2015, Jobs had died from cancer.
 

@@ -61,7 +61,7 @@ No (runs autonomously)
 Configurable per task
 Inherits from session
 Customizable schedule
-Via 
+Via
 /schedule
  in the CLI
 Yes
@@ -71,11 +71,11 @@ Minimum interval
 1 minute
 1 minute
 
-Use 
+Use
 cloud tasks
- for work that should run reliably without your machine. Use 
+ for work that should run reliably without your machine. Use
 Desktop tasks
- when you need access to local files and tools. Use 
+ when you need access to local files and tools. Use
 /loop
  for quick polling during a session.
 
@@ -95,9 +95,9 @@ The steps below walk through the web interface.
 
 Open the creation form
 
-Visit 
+Visit
 claude.ai/code/scheduled
- and click 
+ and click
 New scheduled task
 .
 2
@@ -110,50 +110,50 @@ The prompt input includes a model selector. Claude uses this model for each run 
 
 Select repositories
 
-Add one or more GitHub repositories for Claude to work in. Each repository is cloned at the start of a run, starting from the default branch. Claude creates 
+Add one or more GitHub repositories for Claude to work in. Each repository is cloned at the start of a run, starting from the default branch. Claude creates
 claude/
--prefixed branches for its changes. To allow pushes to any branch, enable 
+-prefixed branches for its changes. To allow pushes to any branch, enable
 Allow unrestricted branch pushes
  for that repository.
 4
 
 Select an environment
 
-Select a 
+Select a
 cloud environment
  for the task. Environments control what the cloud session has access to:
 * Network access: set the level of internet access available during each run
 * Environment variables: provide API keys, tokens, or other secrets Claude can use
 * Setup script: run install commands before each session starts, like installing dependencies or configuring tools
-A 
+A
 Default
- environment is available out of the box. To use a custom environment, 
+ environment is available out of the box. To use a custom environment,
 create one
  before creating the task.
 5
 
 Choose a schedule
 
-Pick how often the task runs from the 
+Pick how often the task runs from the
 frequency options
 . The default is daily at 9:00 AM in your local time zone. Tasks may run a few minutes after their scheduled time due to stagger.
-If the preset options don’t fit your needs, pick the closest one and update the schedule from the CLI with 
+If the preset options don’t fit your needs, pick the closest one and update the schedule from the CLI with
 /schedule update
  to set a specific schedule.
 6
 
 Review connectors
 
-All of your connected 
+All of your connected
 MCP connectors
  are included by default. Remove any that the task doesn’t need. Connectors give Claude access to external services like Slack, Linear, or Google Drive during each run.
 7
 
 Create the task
 
-Click 
+Click
 Create
-. The task appears in the scheduled tasks list and runs automatically at the next scheduled time. Each run creates a new session alongside your other sessions, where you can see what Claude did, review changes, and create a pull request. To trigger a run immediately, click 
+. The task appears in the scheduled tasks list and runs automatically at the next scheduled time. Each run creates a new session alongside your other sessions, where you can see what Claude did, review changes, and create a pull request. To trigger a run immediately, click
 Run now
  from the task’s detail page.
 
@@ -174,7 +174,7 @@ Same as Daily but skips Saturday and Sunday.
 Weekly
 Runs once per week on the day and time you specify.
 
-For custom intervals like every 2 hours or first of each month, pick the closest preset and update the schedule from the CLI with 
+For custom intervals like every 2 hours or first of each month, pick the closest preset and update the schedule from the CLI with
 /schedule update
  to set a specific schedule.
 
@@ -182,11 +182,11 @@ For custom intervals like every 2 hours or first of each month, pick the closest
 
 Each repository you add is cloned on every run. Claude starts from the repository’s default branch unless your prompt specifies otherwise.
 
-By default, Claude can only push to branches prefixed with 
+By default, Claude can only push to branches prefixed with
 claude/
 . This prevents scheduled tasks from accidentally modifying protected or long-lived branches.
 
-To remove this restriction for a specific repository, enable 
+To remove this restriction for a specific repository, enable
 Allow unrestricted branch pushes
  for that repository when creating or editing the task.
 
@@ -196,23 +196,23 @@ Scheduled tasks can use your connected MCP connectors to read from and write to 
 
 When you create a task, all of your currently connected connectors are included by default. Remove any that aren’t needed to limit which tools Claude has access to during the run. You can also add connectors directly from the task form.
 
-To manage or add connectors outside of the task form, visit 
+To manage or add connectors outside of the task form, visit
 Settings > Connectors
- on claude.ai or use 
+ on claude.ai or use
 /schedule update
  in the CLI.
 
 ### ​Environments
 
-Each task runs in a 
+Each task runs in a
 cloud environment
- that controls network access, environment variables, and setup scripts. Configure environments before creating a task to give Claude access to APIs, install dependencies, or restrict network scope. See 
+ that controls network access, environment variables, and setup scripts. Configure environments before creating a task to give Claude access to APIs, install dependencies, or restrict network scope. See
 cloud environment
  for the full setup guide.
 
 ## ​Manage scheduled tasks
 
-Click a task in the 
+Click a task in the
 Scheduled
  list to open its detail page. The detail page shows the task’s repositories, connectors, prompt, schedule, and a list of past runs.
 
@@ -229,13 +229,13 @@ From the task detail page you can:
 * Click the edit icon to change the name, prompt, schedule, repositories, environment, or connectors.
 * Click the delete icon to remove the task. Past sessions created by the task remain in your session list.
 
-You can also manage tasks from the CLI with 
+You can also manage tasks from the CLI with
 /schedule
-. Run 
+. Run
 /schedule list
- to see all tasks, 
+ to see all tasks,
 /schedule update
- to change a task, or 
+ to change a task, or
 /schedule run
  to trigger one immediately.
 

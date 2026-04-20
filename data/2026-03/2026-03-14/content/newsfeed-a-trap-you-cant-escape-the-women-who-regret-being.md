@@ -17,7 +17,7 @@ tags:
 Share
 Save
 Kirstie Brewer
-BBC News 
+BBC News
 Share
 Save
 Getty Images

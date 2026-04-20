@@ -336,7 +336,7 @@ I was in disbelief that it was so clean and elegant. The implementation, error, 
 That curve; it overlaps thearcsin()function without any visible difference. And the error is practically nothing. Though the real test would be in the ray tracer itself:
 
 
-ben@Benjamins-Mac-mini build_gcc_15_new_asin_cg % ./PSRayTracing -j 4 -n 
+ben@Benjamins-Mac-mini build_gcc_15_new_asin_cg % ./PSRayTracing -j 4 -n
 ...
 Render took 101.462 seconds
 
@@ -417,15 +417,15 @@ I think my main problem is that I never bothered to slow down, double check what
 
 And some fancy charts.
 
-Tags: 
+Tags:
 Computer Graphics
-, 
+,
 Projects
-, 
+,
 C/C++
-, 
+,
 Ray Tracing
-, 
+,
 Performance Optimization
 
 Free Functions Don't Change Performance (Much)

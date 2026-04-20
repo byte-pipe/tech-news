@@ -16,7 +16,7 @@ tags:
 
 # Apple update looks like Czech mate for locked-out iPhone user
 
- 
+
 
 ## Lock-screen keyboard no longer accepts háček in student's alphanumeric passcode
 
@@ -75,10 +75,10 @@ For the same reason, plugging in an external keyboard is also a no-go since fres
 
 The Registercontacted Apple multiple times to get its side of things, but it did not respond. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

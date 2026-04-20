@@ -106,7 +106,7 @@ The tech world becomes better when knowledge is shared, and these creators are d
 Comment and tag your favorite female creator and write one line about what you learned from them.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -117,6 +117,6 @@ Preview
 Dismiss
 
  View full discussion (15 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

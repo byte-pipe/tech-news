@@ -44,61 +44,61 @@ as we know in distributed systems theory – there is no “now” in networks. 
 little math is used to make the “now.”
 
 now
- 
+
 =
- 
+
 timestamp
 ()
 
 max_clock_error
- 
+
 =
- 
+
 20
 s
- 
+
 # How far off the timestamp can be
 
 min_run_window
- 
+
 =
- 
+
 10
 s
- 
+
 # Total time window to run the program for both sides
 
 window
- 
+
 =
- 
+
 (
 max_clock_error
- 
+
 *
- 
+
 2
 )
- 
+
 +
- 
+
 2
 
 bucket
- 
+
 =
- 
+
 int
 ((
 now
- 
+
 -
- 
+
 max_clock_error
 )
- 
+
 //
- 
+
 window
 )
 
@@ -122,25 +122,25 @@ allows for a much smoother conversion of the bucket number which might otherwise
 have little direct variation.
 
 large_prime
- 
+
 =
- 
+
 2654435761
 
 stable_boundary
- 
+
 =
- 
+
 (
 bucket
- 
+
 *
- 
+
 large_prime
 )
- 
+
 %
- 
+
 0xFFFFFFFF
 
 The FF… number fixes the range for the boundary number so it doesn’t overflow what
@@ -167,12 +167,12 @@ socket
 .
 SOL_SOCKET
 ,
- 
+
 socket
 .
 SO_REUSEADDR
 ,
- 
+
 1
 )
 
@@ -184,12 +184,12 @@ socket
 .
 SOL_SOCKET
 ,
- 
+
 socket
 .
 SO_REUSEPORT
 ,
- 
+
 1
 )
 
@@ -213,22 +213,22 @@ use non-blocking sockets with select for polling. This allows you to properly ha
 every connection state without impacting timing.
 
 for
- 
+
 ...
- 
+
 sel
 .
 register
 (
 s
 ,
- 
+
 selectors
 .
 EVENT_WRITE
- 
+
 |
- 
+
 selectors
 .
 EVENT_READ

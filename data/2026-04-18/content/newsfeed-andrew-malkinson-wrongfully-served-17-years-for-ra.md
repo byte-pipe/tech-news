@@ -134,7 +134,7 @@ He conceded he did not know the victim - and she did not know him. And she gave 
 Quinn ultimately accepted the DNA recovered from the vest top was his - although he disputed the finding from the medical speculum.
 
 GMP/PA Wire
-Quinn pictured in 2006 
+Quinn pictured in 2006
 
 But there was also other evidence for the jury to consider.
 

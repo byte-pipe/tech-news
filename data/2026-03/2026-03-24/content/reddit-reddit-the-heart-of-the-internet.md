@@ -9,7 +9,7 @@ author: Dhghomon
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 Dhghomon
 
- 
+
 
 # Korean president Lee excludes officials with multiple homes from real estate policymaking
 
  koreatimes.co.kr
- 
+
 
 Open

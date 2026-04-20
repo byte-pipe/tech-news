@@ -1,7 +1,7 @@
 ---
 title: GitHub - louis-e/arnis: Generate any location from the real world in Minecraft with a high level of detail. · GitHub
 url: https://github.com/louis-e/arnis
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-19T11:19:52.922976

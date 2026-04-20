@@ -18,10 +18,10 @@ tags:
 Subscribe
 
 Sponsored by:
- Augment Code — Agent Orchestration. Living Specs. Your favorite agents. 
+ Augment Code — Agent Orchestration. Living Specs. Your favorite agents.
 Build with Intent
 .
- 
+
 
 ## Agentic Engineering Patterns
 
@@ -41,11 +41,11 @@ Patterns for getting the best results out of coding agents like Claude Code and 
 12. AppendixPrompts I use
 13. Prompts I use
 
- 
 
- 
 
- 
+
+
+
 
 * Disclosures
 * Colophon

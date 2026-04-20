@@ -180,31 +180,31 @@ Receiving raw AI output feelsbaddue to the cognitive dissonance of having these 
 If you encountered a body of written text, you could be sure that at the very least, a human spent some time writing it down.
 The text used to have an innate proof-of-thought, a basic token of humanity."
 
- 
 
- — Alex Martsinovich, 
+
+ — Alex Martsinovich,
 It's rude to show AI output to people
 
  "Cognitive effort — and even getting painfully stuck — is likely important for fostering mastery."
 
- 
 
- — Anthropic, 
+
+ — Anthropic,
 How AI assistance impacts the formation of coding skills
 
  "A polished AI response feels dismissive even if the content is correct"
 
- 
 
- — Blake Stockton, 
+
+ — Blake Stockton,
 AI Writing Etiquette Manifesto
 
  "I think it's rude to publish text that you haven't even read yourself.
 I won't publish anything that will take someone longer to read than it took me to write."
 
- 
 
- — Simon Willison, 
+
+ — Simon Willison,
 Personal AI Ethics
 
 Read the full essay

@@ -1,7 +1,7 @@
 ---
 title: GitHub - elebumm/RedditVideoMakerBot: Create Reddit Videos with just✨ one command ✨ · GitHub
 url: https://github.com/elebumm/RedditVideoMakerBot
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-07T11:31:03.219991

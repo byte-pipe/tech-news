@@ -50,7 +50,7 @@ Not sure if 1Password is right for you? Try it free for 14 days! No credit card 
 1Password knows how difficult and often confusing it can be to run a small business, and they are here to help. With assistance available for business password management, shadow IT, and secret sharing, you can have peace of mind with1Password services for businesses. The additional security ensures employees have the security tools available that they actually want to use. Plus, with the program, you’ll be able to easily streamline software adoption and monitor usage for employees by managing access, securely sharing passwords, and generating reports from a single place at 1Password. Along with this, it will secure all identities, apps, and devices on all networks, while taking immediate action on any potential breaches.
 
 Scott Gilbertson
- is Operations Manager for the WIRED Reviews Team. He was previously a writer and editor for WIRED’s Webmonkey.com, covering the independent web and early internet culture. You can reach him at luxagraf.net. ... 
+ is Operations Manager for the WIRED Reviews Team. He was previously a writer and editor for WIRED’s Webmonkey.com, covering the independent web and early internet culture. You can reach him at luxagraf.net. ...
 Read More
 Senior Writer and Reviewer
 * X

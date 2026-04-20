@@ -35,9 +35,9 @@ When you suddenly have the ability to do anything—and fast—then the critical
 AI is just a technology. It’s a strange and powerful one, but in the end it’s an implementation detail (so is the genie and its lamp). We’ve got a new and burgeoning ability to make our ideas real, anda whole set of newly possible shapesthose ideas can take. What shall we do with that? The genie can grant the wish, but it can’t tell you what to wish for. That’s always been the designer’s job.
 
  You Spent Your Whole Life Getting Good at the Wrong Thing | The Algorithmic Bridge
- 
 
- 
+
+
 
 ### Read more about...
 

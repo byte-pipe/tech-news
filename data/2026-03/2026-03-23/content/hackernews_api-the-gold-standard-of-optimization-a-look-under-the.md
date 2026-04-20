@@ -45,11 +45,11 @@ Different money values in the code use different data types, based on what the h
 When reading through OpenRCT2’s source, there is a common syntax that you rarely see in modern code, lines like this:
 
 NewValue
- = 
+ =
 OldValue
- 
+
 <<
- 
+
 2
 ;
 
@@ -122,7 +122,7 @@ If you read my rumblings up to this point, you can follow me atMastodon,Bluesky,
 * Share on LinkedIn (Opens in new window)LinkedIn
 * Share on Mastodon (Opens in new window)Mastodon
 Like
- 
+
 Loading…
 
 ## More posts to read

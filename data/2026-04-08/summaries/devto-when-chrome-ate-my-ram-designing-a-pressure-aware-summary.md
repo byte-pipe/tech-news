@@ -36,7 +36,7 @@ Modern browsers operate as operating systems. However, their management of multi
 
 **Architecture Overview**
 
-The proposed solution consists of two primary components: 
+The proposed solution consists of two primary components:
 1.  A Chrome extension that tracks tab lifecycle events and focuses clustering, which identifies inactive tabs using the extended Chrome API.
 2.  A Rust native host, designed to understand real system metrics such as memory pressure, CPU usage, and battery state.
 

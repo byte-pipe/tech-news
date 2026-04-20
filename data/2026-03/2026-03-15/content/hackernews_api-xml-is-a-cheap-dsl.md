@@ -841,7 +841,7 @@ Total tentative tax after applying non-refundable
 
  (GreaterOf
 
- (Dollar 
+ (Dollar
 0
 )
 

@@ -14,9 +14,9 @@ tags:
 ---
 
 ESA
- /			
+ /
 Science & Exploration
- /			
+ /
 Human and Robotic Exploration
 
 When the Apollo astronauts returned from the Moon, the dust that clung to their spacesuits made their throats sore and their eyes water. Lunar dust is made of sharp, abrasive and nasty particles, but how toxic is it for humans?
@@ -33,7 +33,7 @@ An ambitious ESA research programme with experts from around the planet is now a
 
 Nasty dustLunar dust has silicate in it, a material commonly found on planetary bodies with volcanic activity. Miners on Earth suffer from inflamed and scarred lungs from inhaling silicate. On the Moon, the dust is so abrasive that it ate away layers of spacesuit boots and destroyed the vacuum seals of Apollo sample containers.
 
- 
+
 
 Lunar dust particle
 
@@ -43,7 +43,7 @@ Fine like powder, but sharp like glass. The low gravity of the Moon, one sixth o
 
 The potential damage from inhaling this dust is unknown butresearchshows that lunar soil simulants can destroy lung and brain cells after long-term exposure.
 
- 
+
 
 ## Down to the particle
 
@@ -51,7 +51,7 @@ On Earth, fine particles tend to smoothen over years of erosion by wind and wate
 
 In addition the Moon has no atmosphere and is constantly bombarded by radiation from the Sun that causes the soil to become electrostatically charged.
 
- 
+
 
 Collecting lunar samples
 
@@ -65,13 +65,13 @@ Working with the simulant is no easy feat. “The rarity of the lunar glass-like
 
 The lunar soil does have a bright side. “You can heat it to produce bricks that can offer shelter for astronauts. Oxygen can be extracted from the soil to sustain human missions on the Moon,” explains science advisor Aidan Cowley.
 
- 
+
 
 Deep breath
 
 This week ESA is hosting aworkshopon lunar resources at the European Space Research Technology Centre in the Netherlands, meanwhile in space ESA astronaut Alexander Gerst is running a session of theAirway Monitoringexperiment to monitor lung health in reduced gravity – preparing for a sustainable return to our nearest neighbour in the Solar System.
 
- 
+
 
 Like
 

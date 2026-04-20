@@ -25,7 +25,7 @@ View image in fullscreen
 
 Oscar, Ana and their children fled violence for safety in the US. Now Oscar, afraid and alone, is back in Honduras – ‘at the mercy of God and his will’
 
- 
+
 
 As soon as Oscar’s deportation flight landed at the La Lima airport inHonduras, he put on his baseball cap. On the airport shuttle toward the terminal, he pulled his cap even lower – trying to obscure his face at various police checkpoints.
 

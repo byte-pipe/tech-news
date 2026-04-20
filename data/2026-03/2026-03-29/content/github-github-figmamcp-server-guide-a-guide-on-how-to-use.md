@@ -11,7 +11,7 @@ description: A guide on how to use the Figma MCP server. Contribute to figma/mcp
 
 figma
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork58
 * Star741
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -128,22 +128,22 @@ Different MCP clients require slightly different setups. Follow the instructions
 5. Select whether you want to add this server globally or only for the current workspace. Once confirmed, you'll see a configuration like this in yourmcp.jsonfile:
 
 {
- 
+
 "servers"
 : {
- 
+
 "figma"
 : {
- 
+
 "type"
-: 
+:
 "
 http
 "
 ,
- 
+
 "url"
-: 
+:
 "
 https://mcp.figma.com/mcp
 "
@@ -183,15 +183,15 @@ Manual setup
 4. Enter the following configuration and save:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "figma"
 : {
- 
+
 "url"
-: 
+:
 "
 https://mcp.figma.com/mcp
 "
@@ -247,15 +247,15 @@ Other code editors and tools that support Streamable HTTP can also connect to th
 If you're using a different editor or tool, check its documentation to confirm it supports Streamable HTTP based communication. If it does, you can manually add the Figma MCP server using this configuration:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "figma"
 : {
- 
+
 "url"
-: 
+:
 "
 https://mcp.figma.com/mcp
 "
@@ -539,25 +539,25 @@ These rules define how to translate Figma inputs into code for this project and 
 #
 ## Implementation rules
 
-- 
+-
 Treat the Figma MCP output (React + Tailwind) as a representation of design and behavior, not as final code style.
 
-- 
+-
 Replace Tailwind utility classes with the project's preferred utilities/design‑system tokens when applicable.
 
-- 
+-
 Reuse existing components (e.g., buttons, inputs, typography, icon wrappers) instead of duplicating functionality.
 
-- 
+-
 Use the project's color system, typography scale, and spacing tokens consistently.
 
-- 
+-
 Respect existing routing, state management, and data‑fetch patterns already adopted in the repo.
 
-- 
+-
 Strive for 1:1 visual parity with the Figma design. When conflicts arise, prefer design‑system tokens and adjust spacing or sizes minimally to match visuals.
 
-- 
+-
 Validate the final UI against the Figma screenshot for both look and behavior.
 
 #### Cursor
@@ -565,41 +565,41 @@ Validate the final UI against the Figma screenshot for both look and behavior.
 ---
 
 description
-: 
+:
 Figma MCP server rules
 
 globs
 :
 
 alwaysApply
-: 
+:
 true
 
 ---
-- 
+-
 The Figma MCP server provides an assets endpoint which can serve image and SVG assets
 
-- 
+-
 IMPORTANT
-: 
+:
 If the Figma MCP server returns a localhost source for an image or an SVG, use that image or SVG source directly
 
-- 
+-
 IMPORTANT
-: 
+:
 DO NOT import/add new icon packages, all the assets should be in the Figma payload
 
-- 
+-
 IMPORTANT
-: 
+:
 do NOT use or create placeholders if a localhost source is provided
 
 #### Claude Code
 
-# 
+#
 MCP Servers
 
-## 
+##
 Figma MCP server rules
 
 -
@@ -685,54 +685,54 @@ help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 741
 
  stars
- 
+
 
 ### Watchers
 
 8
 
  watching
- 
+
 
 ### Forks
 
 58
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -740,9 +740,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

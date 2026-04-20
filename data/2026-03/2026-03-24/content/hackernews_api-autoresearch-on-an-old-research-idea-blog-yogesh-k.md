@@ -14,27 +14,27 @@ tags:
 ---
 
 ≡
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
 
 ### Contents
 
- 
+
 ×
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 Ever since it showed up on my GH feed, Karpathy’sAutoresearchwas rattling around in the back of my mind. I wanted to try it on a research problem I fully understood. So this weekend, I picked up my old research code fromeCLIP, dusted it off the legacy dependencies and gave it to Claude Code. And just let it cook while I did some chores around the house.
 
@@ -118,10 +118,10 @@ Maybe. But it was already time for dinner, and we were planning to watch a movie
 
 * Ukiyo-eVG— ~11K Japanese woodblock prints with phrase→bounding box annotations from theCIGArpaper (ECCV 2024 VISART).
 * Autoresearchby Andrej Karpathy for the original idea.
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 ×

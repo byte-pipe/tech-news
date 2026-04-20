@@ -14,7 +14,7 @@ tags:
 
 RunanywhereAI
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork17
 * Star524
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -150,7 +150,7 @@ Click for full video with audio
 
 One command:
 
-curl -fsSL https://raw.githubusercontent.com/RunanywhereAI/RCLI/main/install.sh 
+curl -fsSL https://raw.githubusercontent.com/RunanywhereAI/RCLI/main/install.sh
 |
  bash
 
@@ -158,7 +158,7 @@ Or via Homebrew:
 
 brew tap RunanywhereAI/rcli https://github.com/RunanywhereAI/RCLI.git
 brew install rcli
-rcli setup 
+rcli setup
 #
  required — downloads AI models (~1GB, one-time)
 
@@ -175,13 +175,13 @@ Ifbrew installorbrew upgradefails with a checksum error:
  Force-refresh the tap to pick up the latest formula
 
 cd
- 
+
 $(
 brew --repo RunanywhereAI/rcli
 )
- 
+
 &&
- git fetch origin 
+ git fetch origin
 &&
  git reset --hard origin/main
 brew reinstall rcli
@@ -189,7 +189,7 @@ brew reinstall rcli
 If that doesn't work, clean re-tap and clear the download cache:
 
 brew untap RunanywhereAI/rcli
-rm -rf 
+rm -rf
 "
 $(
 brew --cache
@@ -206,32 +206,32 @@ rcli setup
 
 ## Quick Start
 
-rcli 
+rcli
 #
  interactive TUI (push-to-talk + text)
 
-rcli listen 
+rcli listen
 #
  continuous voice mode
 
-rcli ask 
+rcli ask
 "
 open Safari
 "
- 
+
 #
  one-shot command
 
-rcli ask 
+rcli ask
 "
 play some jazz on Spotify
 "
 
-rcli metalrt 
+rcli metalrt
 #
  MetalRT GPU engine management
 
-rcli llamacpp 
+rcli llamacpp
 #
  llama.cpp engine management
 
@@ -271,51 +271,51 @@ Examples
 Productivity
 
 create_note
-, 
+,
 create_reminder
-, 
+,
 run_shortcut
 
 Communication
 
 send_message
-, 
+,
 facetime_call
 
 Media
 
 play_on_spotify
-, 
+,
 play_apple_music
-, 
+,
 play_pause
-, 
+,
 next_track
-, 
+,
 set_music_volume
 
 System
 
 open_app
-, 
+,
 quit_app
-, 
+,
 set_volume
-, 
+,
 toggle_dark_mode
-, 
+,
 screenshot
-, 
+,
 lock_screen
 
 Web
 
 search_web
-, 
+,
 search_youtube
-, 
+,
 open_url
-, 
+,
 open_maps
 
 Runrcli actionsto see all 38, or toggle them on/off in the TUI Actions panel.
@@ -326,12 +326,12 @@ Tip:If tool calling feels unreliable, pressXin the TUI to clear the conversation
 
 Index local documents, query them by voice. Hybrid vector + BM25 retrieval with ~4ms latency over 5K+ chunks. Supports PDF, DOCX, and plain text.
 
-rcli rag ingest 
+rcli rag ingest
 ~
 /Documents/notes
-rcli ask --rag 
+rcli ask --rag
 ~
-/Library/RCLI/index 
+/Library/RCLI/index
 "
 summarize the project plan
 "
@@ -399,19 +399,19 @@ TTS:Piper Lessac/Amy, KittenTTS Nano, Matcha LJSpeech, Kokoro English/Multi-lang
 
 Default install(rcli setup): ~1GB — LFM2 1.2B + Whisper + Piper + Silero VAD + Snowflake embeddings.
 
-rcli models 
+rcli models
 #
  interactive model management
 
-rcli upgrade-llm 
+rcli upgrade-llm
 #
  guided LLM upgrade
 
-rcli voices 
+rcli voices
 #
  browse and switch TTS voices
 
-rcli cleanup 
+rcli cleanup
 #
  remove unused models
 
@@ -419,20 +419,20 @@ rcli cleanup
 
 CPU-only build using llama.cpp + sherpa-onnx (no MetalRT):
 
-git clone https://github.com/RunanywhereAI/RCLI.git 
+git clone https://github.com/RunanywhereAI/RCLI.git
 &&
- 
+
 cd
  RCLI
 bash scripts/setup.sh
 bash scripts/download_models.sh
-mkdir -p build 
+mkdir -p build
 &&
- 
+
 cd
  build
 cmake .. -DCMAKE_BUILD_TYPE=Release
-cmake --build 
+cmake --build
 .
  -j
 $(
@@ -524,56 +524,56 @@ github.com/RunanywhereAI/runanywhere-sdks
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 524
 
  stars
- 
+
 
 ### Watchers
 
 2
 
  watching
- 
+
 
 ### Forks
 
 17
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases17
 
@@ -581,11 +581,11 @@ v0.3.3
 
  Latest
 
- 
+
 
 Mar 10, 2026
 
- 
+
 
 + 16 releases
 
@@ -601,17 +601,17 @@ Mar 10, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors4
 

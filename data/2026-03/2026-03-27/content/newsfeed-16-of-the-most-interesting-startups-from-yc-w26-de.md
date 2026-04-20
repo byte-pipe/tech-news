@@ -30,7 +30,7 @@ Why it’s interesting:A nonprofit in YC! But then again, when OpenAI, Anthro
 
 AsimovWhat it does:Collects human movement data to train humanoids
 
- 
+
 
 Techcrunch event
 
@@ -111,19 +111,19 @@ Why it’s interesting:Uranium will be needed to power the next generation of 
 Topics
 
 demo day
-, 
+,
 Startups
-, 
+,
 Startups
-, 
+,
 Venture
-, 
+,
 Y Combinator
-, 
+,
 yc
- 
 
-			Dominic-Madori Davis	
+
+			Dominic-Madori Davis
 
 Senior Reporter, Venture
 
@@ -131,6 +131,6 @@ Dominic-Madori Davis is a senior venture capital and startup reporter at TechCru
 
 You can contact or verify outreach from Dominic by emailingdominic.davis@techcrunch.comor via encrypted message at +1 646 831-7565 on Signal.
 
- 
+
 
 View Bio

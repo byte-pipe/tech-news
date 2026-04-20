@@ -33,7 +33,7 @@ This is where Axe comes in. Axe is a CLI that runs single-purpose LLM agents def
 
 Here's a PR reviewer that runs before every commit via a git hook:
 
-git diff 
+git diff
 --cached
  | axe run pr-reviewer
 
@@ -63,43 +63,43 @@ The part I find most useful is chaining agents. A parent agent can delegate to s
 Agent config is TOML:
 
 name
- 
+
 =
- 
+
 "pr-reviewer"
 
 description
- 
+
 =
- 
+
 "Reviews git diffs for issues"
 
 model
- 
+
 =
- 
+
 "anthropic/claude-sonnet-4-20250514"
 
 [params]
 
 temperature
- 
+
 =
- 
+
 0.3
 
 [memory]
 
 enabled
- 
+
 =
- 
+
 true
 
 last_n
- 
+
 =
- 
+
 10
 
 Enter fullscreen mode
@@ -129,7 +129,7 @@ Go try it. Build something weird with it like a commit message writer, a nightly
 If it saves you from being the scheduler, the context manager, and the output parser all at once. That's the whole point.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

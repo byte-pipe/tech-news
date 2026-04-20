@@ -24,13 +24,13 @@ These problems can be addressed by implementing supervisor patterns that isolate
 
 * Create isolated workspaces for each agent using `git worktree add`:
   ```
-  git worktree add .worktrees/agent-1 
+  git worktree add .worktrees/agent-1
   -b
   agent-1/task-1
-  git worktree add .worktrees/agent-2 
+  git worktree add .worktrees/agent-2
   -b
   agent-2/task-2
-  git worktree add .worktrees/agent-3 
+  git worktree add .worktrees/agent-3
   -b
   agent-3/task-3
   ```

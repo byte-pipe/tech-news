@@ -37,11 +37,11 @@ Join2 million professionalswho think faster, focus better, and accomplish more. 
 🏆 App of the Year
 🎉 Claim My Free Trial
 Ad • brainboostpro.ai
-Skip in 
+Skip in
 8
 s...
 🧠
-Sponsored by 
+Sponsored by
 BrainBoost Pro
 
 Think 10x Faster with AI. First Month FREE! 🧠
@@ -50,7 +50,7 @@ Claim Offer →
 AD
 🧘
 Sponsored Tip
-by 
+by
 ZenFocus
 
 Fun fact: Just 10 minutes of daily meditation reduces stress by 35%. Start your free ZenFocus journey today!

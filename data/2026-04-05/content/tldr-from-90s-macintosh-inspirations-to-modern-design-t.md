@@ -42,9 +42,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -65,56 +65,56 @@ What's also interesting is how a design accessories industry has emerged aroundA
 The best designer Apple accessories are below, but don't miss the entireApple Watch range, which is slashed by up to 57%, and our list ofmodern iPod alternativesif you want to drop Apple (you monsters).
 
 HUALIMEI Aluminum Alloy Case for Apple Watch:
- 
+
 $54.99
- 
+
 at Amazon
 
 Feed your nostalgia for old Apple and turn your Apple Watch into a classic iPod with this slim, metal case. It comes in White, Black, and Orange versions, with a mix of sizes for different Apple Watch models.
 
 View Deal
 Belkin Apple Airtag Secure Holder With Carabiner:
- 
+
 was $19.99
- 
+
 now $14.99
- 
+
 at Amazon
 
 This sturdy carabiner case for your Apple AirTag from Belkin is designed for anyone who wants security, their tags are going to stay in place and remain undamaged. It comes in Black, Red, Green and Pink.
 
 View Deal
 Spigen AirPods Pro 3 Case:
- 
+
 $29.99
- 
+
 at Amazon
 
 Inspired by the classic Macintosh mouse design and coming in a fetching '90s 'Stone' colour, this retro-looking AirPod case. It's well-made and features a unique lock clip to prevent accidental opening. This is part of a range of retro accessories…
 
 View Deal
 Spigen Magsafe Wallet:
- 
+
 $29.99
- 
+
 at Amazon
 
 This continues the Macintosh-inspired look and features a durable PC shell and a non-slip coating for a premium feel. This MagSafe offers standard features like card storage, but you're here for the nostalgic design.
 
 View Deal
 Spigen Universal Phone Wrist Lanyard Strap:
- 
+
 $19.99
- 
+
 at Amazon
 
 As above, this strap for iPhones and AirPod Pro 3 can also be used with most other smartphones. But it comes into its own if you've bought the Macintosh-inspired MagSafe and AirPods case from Spigen for the complete '90s look.
 
 View Deal
 Leica Lux Grip for Smartphones:
- 
+
 $453.95
- 
+
 at Amazon
 
 This iPhone grip is designed in collaboration with camera expert Leica and features an innovative tactile rotary wheel that adjusts exposure, focus, and zoom. Not only is it easy to hold, but it also gives smartphone photography that click-click of a traditional camera.

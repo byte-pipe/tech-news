@@ -113,7 +113,7 @@ Most of all, don’t be afraid to start before you feel ready. Confidence comes 
 Love,Sarah
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

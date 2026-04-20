@@ -14,18 +14,18 @@ tags:
 
 06 Mar 2026
 
- 
+
  •
 
- 
- 
- 
 
- 
+
+
+
+
  management
- 
- 
- 
+
+
+
 
 There is enormous variability in the frequency with which teams have emergencies.
 
@@ -92,22 +92,22 @@ The simple fact is that in many cases emergencies are a choice – specifically,
 One of the best parts of following this advice to prevent emergencies is that it really will make your team happier and more productive, and it will do so almost immediately. Nobody wants to live in a world of constant emergencies, but it’s all too common across every industry. Great people want to do great work, and a culture of emergencies is anathema to the focus that great work requires. If you can find a way to keep your team operating from a level-headed playing field, you’ll have unlocked one of the best talent retention mechanisms that exists.
 
  Share to
- 
+
 
  Twitter
- 
+
 
  ,
- 
+
 
  Hacker News
- 
+
 
  ,
- 
+
 
  LinkedIn
- 
+
 
  
 management

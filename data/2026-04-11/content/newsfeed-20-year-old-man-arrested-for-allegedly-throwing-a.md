@@ -27,8 +27,8 @@ tags:
 ﻿The suspect allegedly made threats outside OpenAI’s offices later Friday morning.
 
 by
- 
- 
+
+
 Stevie Bonifield
 Apr 10, 2026, 8:16 PM UTC
 * Link
@@ -36,7 +36,7 @@ Apr 10, 2026, 8:16 PM UTC
 * Gift
 Photo: Justin Sullivan via Getty Images
 Stevie Bonifield
- 
+
 is a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.
 
 San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman’s Russian Hill house early Friday morning,The San Francisco Standardreports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect’s description was seen making threats outside OpenAI’s Mission Bay offices, where he was arrested around 9AM ET.
@@ -69,19 +69,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

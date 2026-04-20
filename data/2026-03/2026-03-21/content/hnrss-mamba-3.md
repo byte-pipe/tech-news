@@ -39,7 +39,7 @@ In this new age of inference, we care a lot about pushing the boundaries of the 
 
 A natural question arises:
 
-What would an SSM designed with 
+What would an SSM designed with
 inference
  in mind look like?
 
@@ -57,7 +57,7 @@ From these insights, we improve upon Mamba-2 in three core ways that:
 
 Through these three changes,Mamba-3 pushes the frontier of performance while maintaining similar inference latency.
 
-Notably, all three of these changes are inspired by the more "classical" control theory and 
+Notably, all three of these changes are inspired by the more "classical" control theory and
 state space model
  literature.
 
@@ -124,7 +124,7 @@ Linear models, with their fixed-size state,naturally underperformtheir Transform
 
 Given this innate deficit but overall strong modeling performance,
 
-we predict that linear layers will be predominantly used in 
+we predict that linear layers will be predominantly used in
 conjunction
  with global self-attention layers in the future.*
 

@@ -94,37 +94,37 @@ This post originally published at March 9 at 6:56 p.m. PT
 Topics
 
 Apple
-, 
+,
 China
-, 
+,
 cybercrime
-, 
+,
 cybersecurity
-, 
+,
 espionage
-, 
+,
 Exclusive
-, 
+,
 hackers
-, 
+,
 iPhone
-, 
+,
 Kaspersky
-, 
+,
 L3Harris
-, 
+,
 Operation Triangulation
-, 
+,
 Peter Williams
-, 
+,
 russia
-, 
+,
 Security
-, 
+,
 Trenchant
- 
 
-			Lorenzo Franceschi-Bicchierai	
+
+			Lorenzo Franceschi-Bicchierai
 
 Senior Reporter, Cybersecurity
 
@@ -132,6 +132,6 @@ Lorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers 
 
 You can contact or verify outreach from Lorenzo by emailinglorenzo@techcrunch.com, via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.
 
- 
+
 
 View Bio

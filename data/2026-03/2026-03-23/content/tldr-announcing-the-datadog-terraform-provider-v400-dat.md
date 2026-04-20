@@ -14,56 +14,56 @@ tags:
 
 Further Reading
 
- 
- 
+
+
 
 Datadog Platform Datasheet
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
 
 Learn about the key components, capabilities, and features of the Datadog platform.
 
- 
- 
+
+
 Download to learn more
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 
 David Iparraguirre
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 SeGe Jung
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 Justin Yan
 
- 
+
 
 Datadog supports managing Datadog configuration as code through theDatadog Terraform provider. As platform engineering practices evolve, we are focused on making this provider more reliable and trustworthy at enterprise scale.
 
@@ -82,28 +82,28 @@ Teams have asked for monitor editing permissions that behave predictably when ma
 
 The Datadog Terraform provider v4 makes changes to monitor restriction behavior more explicit, so permission updates reflect deliberate intent. Specifically,restricted_rolesis now “sticky” by default, which means that you must explicitly set it to[]if you intend to remove all restrictions. This helps teams avoid accidental permission wipes during routine updates.
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Close dialog
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 Datadog Terraform provider v4 also clarifies the forward path for managing monitor edit permissions by standardizing onrestriction_policy. The deprecatedlockedfield is removed, and we recommend migrating permission control torestriction_policygoing forward.
 
@@ -133,142 +133,142 @@ To learn more about the Datadog Terraform provider, you can consult theDatadog d
 
 If you’re not yet a Datadog customer, you cansign up for a 14-day free trial.
 
- 
+
 
 ## RelatedArticles
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Managing Datadog with Terraform
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Approaching your observability migration with the right mindset
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Manage your dashboards and monitors at scale
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Monitor Azure AI Search with Datadog
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 
 ## Related jobs at Datadog
 
- 
- 
+
+
 
 ### We're always looking for talented people to collaborate with
 
- 
- 
+
+
 
 Featured positions
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
 
 We havepositions
 
- 
- 
- 
- 
+
+
+
+
 View all
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 
 ## Start monitoring your metrics in minutes
 
- 
+
 find out how

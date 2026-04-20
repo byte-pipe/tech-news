@@ -17,7 +17,7 @@ Apple Maps is about to lose one of its biggest selling points: being ad-free.
 
 Ads in Apple Maps is now official – US and Canada this summer.https://t.co/VRyKtY2ML0pic.twitter.com/KnOeSmhlim
 
-— Mark Gurman (@markgurman) 
+— Mark Gurman (@markgurman)
 March 24, 2026
 
 Apple hasofficially confirmedthatads are coming to Apple Maps, with a rollout planned for the US and Canada starting this summer. This marks a pretty significant shift for Apple, which has long positioned itself as a more privacy-focused alternative to ad-heavy platforms like Google.

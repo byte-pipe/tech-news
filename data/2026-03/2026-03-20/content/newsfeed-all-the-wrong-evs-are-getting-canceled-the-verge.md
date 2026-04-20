@@ -27,18 +27,18 @@ Affordable EVs are getting cut down left and right, while big, expensive ones co
 Affordable EVs are getting cut down left and right, while big, expensive ones continue to roam our streets with impunity.
 
 by
- 
- 
+
+
 Andrew J. Hawkins
 Mar 19, 2026, 5:44 PM UTC
 * Link
 * Share
 * Gift
 A Tesla Cybertruck gleaming in the lot of the Tesla showroom in North Hollywood, Los Angeles, on March 29, 2025.
- 
+
 Photo by Simone Lueck / The Verge
 Andrew J. Hawkins
- 
+
 is transportation editor with 10+ years of experience who covers EVs, public transportation, and aviation. His work has appeared in The New York Daily News and City & State.
 
 These past few weeks have been particularly brutal for the EV industry — and anyone who believes that electric vehicles are the future. Thanks to slowing demand and policy whiplashes,automakers are on an EV murder spree, killing a host of promising new models. The EV graveyard grows bigger by the minute.
@@ -86,19 +86,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

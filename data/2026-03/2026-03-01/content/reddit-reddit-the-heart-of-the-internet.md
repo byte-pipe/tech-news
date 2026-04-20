@@ -9,7 +9,7 @@ author: PrithvinathReddy
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 PrithvinathReddy
 
- 
+
 
 # Croatia declared free of landmines after 31 years
 
  glashrvatske.hrt.hr
- 
+
 
 Open

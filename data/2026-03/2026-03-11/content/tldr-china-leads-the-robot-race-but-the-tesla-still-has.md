@@ -14,14 +14,14 @@ tags:
 
 Getty Images
 
- 
 
-				By 
+
+				By
 Kinling Lo
- 
+
 
 9 March 2026
- 
+
 
 Since the start of the year, China’s humanoid robots have made waves at home and abroad — from the Consumer Electronics Show in Las Vegas to China’s Lunar New Year Spring Gala — fueling bold claims about a new industrial revolution that would make it impossible for the U.S. to catch up.
 
@@ -73,10 +73,10 @@ Tech Giants
 
 The board says Meta should have labeled a viral AI-generated video of alleged damage in Haifa during the 2025 Israel-Iran war, urging platforms to do more to help users spot synthetic media in conflicts.
 
-By 
+By
 Ananya Bhattacharya
 
- 
+
 
 Tech Giants
 
@@ -84,10 +84,10 @@ Tech Giants
 
 Tech industry’s past focus on cyberattacks and natural disasters overshadowed threats of physical attacks.
 
-By 
+By
 Viola Zhou
 
- 
+
 
 Ideas
 
@@ -95,5 +95,5 @@ Ideas
 
 For the Iranian diaspora, maintaining contact with family requires dealing with communication blackouts, constant surveillance, and the emotional roller-coaster tied to a message's delivery status.
 
-By 
+By
 Bahareh Sahebi

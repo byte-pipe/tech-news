@@ -74,7 +74,7 @@ It's disgusting that I'm even in this situation and my heart goes out to those i
 I guess I'm really looking for ways to help me navigate this issue after venting a bit.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -85,7 +85,7 @@ Preview
 Dismiss
 
  View full discussion (15 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

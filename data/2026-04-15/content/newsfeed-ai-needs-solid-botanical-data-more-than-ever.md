@@ -12,7 +12,7 @@ tags:
 ---
 
 AI needs solid botanical data more than ever
- 
+
 
 Download PDF
 
@@ -24,7 +24,7 @@ Download PDF
 * Whatsapp
 * X
 
- 
+
 
 I graduated in 2017 from one of the last stand-alone botany departments in the United States. My undergraduate studies gave me training in plant and fungal taxonomy that grounds my research as a PhD candidate in fungal ecology, and taught me how to engage directly with organisms through fieldwork and microscopy.
 
@@ -119,9 +119,9 @@ Email address
 
 Sign up
 
-I agree my information will be processed in accordance with the 
+I agree my information will be processed in accordance with the
 Nature
- and Springer Nature Limited 
+ and Springer Nature Limited
 Privacy Policy
 .
 

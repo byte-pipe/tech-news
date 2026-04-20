@@ -80,12 +80,12 @@ Triangle
 * How Trump is alreadythreatening the midterms
 * Livestream replay:Watch our experts discussBig Tech and the military
 Will Knight
- is a senior writer for WIRED, covering artificial intelligence. He writes the 
+ is a senior writer for WIRED, covering artificial intelligence. He writes the
 AI Lab
  newsletter
 , a weekly dispatch from beyond the cutting edge of AI—
 sign up here
-. He was previously a senior editor at MIT Technology Review, where he wrote about fundamental advances in AI and China’s AI ... 
+. He was previously a senior editor at MIT Technology Review, where he wrote about fundamental advances in AI and China’s AI ...
 Read More
 Senior Writer
 * X

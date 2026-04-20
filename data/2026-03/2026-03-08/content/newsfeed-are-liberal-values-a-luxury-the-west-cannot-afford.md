@@ -12,7 +12,7 @@ tags:
 ---
 
 International
- | 
+ |
 The Telegram
 
 # Are liberal values a luxury the West cannot afford?
@@ -21,7 +21,7 @@ The Telegram
 
 Share
 Illustration: Chloe Cushman
- 
+
 Feb 10th 2026
 |
 5 min read

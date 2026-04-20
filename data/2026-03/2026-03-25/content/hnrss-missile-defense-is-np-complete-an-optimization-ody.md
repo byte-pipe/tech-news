@@ -416,60 +416,60 @@ P
 (
 kill C
 )
-4 to 
+4 to
 A
 A
 A
-, 2 to 
+, 2 to
 B
 B
 B
-, 1 to 
+, 1 to
 C
 C
 C
 96.25%
 80.64%
 56.00%
-3 to 
+3 to
 A
 A
 A
-, 3 to 
+, 3 to
 B
 B
 B
-, 1 to 
+, 1 to
 C
 C
 C
 91.48%
 91.48%
 56.00%
-3 to 
+3 to
 A
 A
 A
-, 2 to 
+, 2 to
 B
 B
 B
-, 2 to 
+, 2 to
 C
 C
 C
 91.48%
 80.64%
 80.64%
-2 to 
+2 to
 A
 A
 A
-, 2 to 
+, 2 to
 B
 B
 B
-, 3 to 
+, 3 to
 C
 C
 C

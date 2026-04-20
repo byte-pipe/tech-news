@@ -13,7 +13,7 @@ tags:
 - tldr
 ---
 
-GO BACK TO 
+GO BACK TO
 BLOG
 
 # Future Casting the Modern Data Stack

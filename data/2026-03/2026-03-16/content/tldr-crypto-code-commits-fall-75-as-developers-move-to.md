@@ -26,14 +26,14 @@ Email
 ## Developers are shifting toward artificial intelligence infrastructure as blockchain ecosystems lose contributors across major networks, from Ethereum to Solana.
 
 By
- 
+
 Sam Reynolds
 |
 Edited by
- 
+
 Shaurya Malwa
- 
-Mar 12, 2026, 6:39 a.m. 
+
+Mar 12, 2026, 6:39 a.m.
 Make us preferred on Google
 
 #### What to know:
@@ -88,11 +88,11 @@ More For You
 Trump-backed WLFI passes proposal letting $5 million stakers buy 'direct access' to team
 
 By
- 
+
 Shaurya Malwa
 |
 Edited by
- 
+
 Sheldon Reback
 2 hours ago
 
@@ -105,7 +105,7 @@ What to know:
 * The vote passed with 99.12% support, heavily concentrated among a handful of wallets, as WLFI pursues broader ambitions including a national trust bank charter and tokenization of real estate and energy assets.
 Read full story
 Latest Crypto News
- 
+
 
 #### Altcoins jump as bitcoin inches toward potential $74,000 breakout
 

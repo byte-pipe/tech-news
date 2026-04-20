@@ -106,14 +106,14 @@ Check out ourchallenge pageto see what’s launching next, and follow the challe
 ## #devchallengeFollow
 
  This is the official tag for submissions and announcements related to DEV Challenges.
- 
+
 
 Thank you to everyone who participated! We hope you had fun, felt challenged, and added something impressive to your professional portfolio.
 
 See you next time!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -124,6 +124,6 @@ Preview
 Dismiss
 
  View full discussion (14 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

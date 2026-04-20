@@ -15,7 +15,7 @@ tags:
 
 anthropics
 
- 
+
 
 /
 
@@ -34,7 +34,7 @@ Open
 Cowork feature creates 10GB VM bundle that severely degrades performance
 #22543
 Assignees
- 
+
 Labels
 bug
 Something isn't working
@@ -46,8 +46,8 @@ performance
 ## Description
 
 mjbyt
-opened 
-on 
+opened
+on
 Feb 2, 2026
 Issue body actions
 
@@ -99,22 +99,22 @@ This suggests a memory leak or accumulating work that causes degradation regardl
 
 Quit Claude Desktop and delete the VM bundle:
 
-rm -rf 
+rm -rf
 ~
 /Library/Application
-\ 
+\
 Support/Claude/vm_bundles
-rm -rf 
+rm -rf
 ~
 /Library/Application
-\ 
+\
 Support/Claude/Cache
-rm -rf 
+rm -rf
 ~
 /Library/Application
-\ 
+\
 Support/Claude/Code
-\ 
+\
 Cache
 
 Provides ~75% improvement but degrades again over time.Must restart periodically.

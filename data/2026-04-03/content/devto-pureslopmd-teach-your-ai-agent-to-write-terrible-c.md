@@ -38,53 +38,53 @@ This is the same function, before and afterPURESLOP.md.
 Before— clean, typed, readable:
 
 async
- 
+
 function
- 
+
 getActiveUserEmails
 (
 users
 :
- 
+
 User
 []):
- 
+
 Promise
 <
 string
 []
 >
- 
+
 {
 
- 
+
 return
- 
+
 users
 
- 
+
 .
 filter
 ((
 user
 )
- 
+
 =>
- 
+
 user
 .
 isActive
 )
 
- 
+
 .
 map
 ((
 user
 )
- 
+
 =>
- 
+
 user
 .
 email
@@ -101,202 +101,202 @@ After— pure, unadulterated slop:
 // Function to get active user emails from an array of users
 
 async
- 
+
 function
- 
+
 getActiveUserEmails
 (
 users
 :
- 
+
 any
 ):
- 
+
 Promise
 <
 any
 >
- 
+
 {
 
- 
+
 try
- 
+
 {
 
- 
+
 // Initialize an empty array to store the results
 
- 
+
 const
- 
+
 resultArray
 :
- 
+
 any
 []
- 
+
 =
- 
+
 [];
 
- 
+
 // Check if users is not null or undefined
 
- 
-if 
+
+if
 (
 !
 checkIfValueIsNullOrUndefined
 (
 users
 ))
- 
+
 {
 
- 
+
 // Check if users array has elements
 
- 
-if 
+
+if
 (
 checkIfArrayHasElements
 (
 users
 ))
- 
+
 {
 
- 
+
 // Loop through each user in the users array
 
- 
-for 
+
+for
 (
 let
- 
+
 i
- 
+
 =
- 
+
 0
 ;
- 
+
 i
- 
+
 <
- 
+
 users
 .
 length
 ;
- 
+
 i
 ++
 )
- 
+
 {
 
- 
+
 // Get the current user
 
- 
+
 const
- 
+
 currentUser
- 
+
 =
- 
+
 users
 [
 i
 ]
- 
+
 as
- 
+
 any
 ;
 
- 
+
 // Check if the current user is not null or undefined
 
- 
-if 
+
+if
 (
 !
 checkIfValueIsNullOrUndefined
 (
 currentUser
 ))
- 
+
 {
 
- 
-if 
+
+if
 (
 currentUser
 .
 isActive
- 
+
 !==
- 
+
 null
- 
+
 &&
- 
+
 currentUser
 .
 isActive
- 
+
 !==
- 
+
 undefined
 )
- 
+
 {
 
- 
-if 
+
+if
 (
 currentUser
 .
 isActive
- 
+
 ===
- 
+
 true
 )
- 
+
 {
 
- 
-if 
+
+if
 (
 currentUser
 .
 email
- 
+
 !==
- 
+
 null
- 
+
 &&
- 
+
 currentUser
 .
 email
- 
+
 !==
- 
+
 undefined
 )
- 
+
 {
 
- 
+
 // Add the email to the results array
 
- 
+
 resultArray
 .
 push
@@ -306,50 +306,50 @@ currentUser
 email
 );
 
- 
+
 }
 
- 
+
 }
 
- 
+
 }
 
- 
+
 }
 
- 
+
 }
 
- 
+
 }
 
- 
+
 }
 
- 
+
 // Return the result array
 
- 
+
 return
- 
+
 resultArray
 ;
 
- 
+
 }
- 
-catch 
+
+catch
 (
 error
 )
- 
+
 {
 
- 
+
 // Handle error
 
- 
+
 console
 .
 log
@@ -359,15 +359,15 @@ An error occurred while getting active user emails
 "
 );
 
- 
+
 // Return an empty array
 
- 
+
 return
- 
+
 [];
 
- 
+
 }
 
 }
@@ -422,7 +422,7 @@ PURESLOP.mdis not meant for production. Using it on real projects will produce t
 Community Favorite: because every dev who has used an AI coding agent will recognize at least one of these patterns from something they almost shipped.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -433,6 +433,6 @@ Preview
 Dismiss
 
  View full discussion (11 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

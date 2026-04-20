@@ -11,10 +11,10 @@ tags:
 - bbc
 ---
 
-Image source, 
+Image source,
 BBC Weather Watchers / Alpaca Lady
 By
-Simon King 
+Simon King
 Lead Weather Presenter
 * Published9 hours ago
 
@@ -48,9 +48,9 @@ And, it was early March 2018 when the infamous'Beast from the East'hit the UK. A
 * Published19 February
 * When does spring start?Published8 hours ago
 * Published8 hours ago
-Image source, 
+Image source,
 Getty
-Image caption, 
+Image caption,
 
 The 'Beast from the East' in March 2018 gave a very cold spell of weather with widespread snow
 
@@ -68,9 +68,9 @@ As we approach the middle of March, occasional spells of rain and brisk winds ar
 
 You can stay up to date with ourmonthly outlookand daily forecasts on the BBC Weather website or on our app.
 
-Image source, 
+Image source,
 BBC Weather Watchers / WeeStar
-Image caption, 
+Image caption,
 
 Sunny spells and showers with rainbows can often be a feature of the weather in spring.
 

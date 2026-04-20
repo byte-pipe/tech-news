@@ -89,8 +89,8 @@ class ContentFetcher(SessionManagerMixin):
         registry = get_url_registry(self.project_root)
         if not force and registry.is_processed(url):
             entry = registry.get_entry(url)
-            registry.record_reappearance(url)
             logger.info(f"URL already processed on {entry.get('first_seen', 'unknown')} (seen {entry.get('seen_count', 1) + 1}x): {url}")
+            registry.record_reappearance(url)
             metadata["skipped"] = True
             metadata["skip_reason"] = "already_processed"
             metadata["first_seen"] = entry.get("first_seen")
@@ -108,22 +108,18 @@ class ContentFetcher(SessionManagerMixin):
             # Try to read the existing content
             try:
                 with open(existing_file, "r", encoding="utf-8") as f:
-                    # Skip YAML frontmatter
-                    in_frontmatter = False
-                    content_lines = []
+                    # Skip YAML frontmatter (exactly the first ---...--- block)
+                    lines = f.readlines()
 
-                    for line in f:
-                        if line.strip() == "---":
-                            if in_frontmatter:
-                                in_frontmatter = False
-                            else:
-                                in_frontmatter = True
-                            continue
+                content_lines = []
+                if lines and lines[0].strip() == "---":
+                    # Find the closing --- of the frontmatter
+                    end = next((i for i, l in enumerate(lines[1:], 1) if l.strip() == "---"), None)
+                    content_lines = lines[end + 1 :] if end is not None else lines[1:]
+                else:
+                    content_lines = lines
 
-                        if not in_frontmatter:
-                            content_lines.append(line)
-
-                    metadata["content"] = "".join(content_lines)
+                metadata["content"] = "".join(content_lines)
             except Exception as e:
                 logger.error(f"Error reading existing content for {url}: {str(e)}")
 

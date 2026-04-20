@@ -13,7 +13,7 @@ tags:
 
 # Claude Code source code accidentally leaked in NPM package
 
- By 
+ By
 
 ###### Mayank Parmar
 

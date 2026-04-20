@@ -12,34 +12,34 @@ summarized_at: 2026-04-14T06:05:35.070909
 # Chris Long – Profile Overview
 
 ## Follower and Content Statistics
-- Followers: 64,196  
-- Total posts: 1,374  
-- Articles published: 1  
+- Followers: 64,196
+- Total posts: 1,374
+- Articles published: 1
 
 ## Notable Content
 - Recent post highlighted: “I Used Facebook Ads To Effortlessly Land Job Interviews” (published 9 years ago)
 
 ## Content Themes Explored
-- Career development  
-- Productivity  
-- Finance  
-- Soft skills & emotional intelligence  
-- Project management  
-- Education  
-- Technology  
-- Leadership  
-- Ecommerce  
-- User experience  
+- Career development
+- Productivity
+- Finance
+- Soft skills & emotional intelligence
+- Project management
+- Education
+- Technology
+- Leadership
+- Ecommerce
+- User experience
 
 ## Related Topics Mentioned
-- 2025 LLM Bias Research Study Findings  
-- Tips to Avoid Generic AI Content  
-- Impact of Google AI Overviews on Click‑Through Rates  
+- 2025 LLM Bias Research Study Findings
+- Tips to Avoid Generic AI Content
+- Impact of Google AI Overviews on Click‑Through Rates
 
 ## Interaction Options
-- Follow the author  
-- View full profile  
+- Follow the author
+- View full profile
 
----  
+---
 
 *This summary captures the key details of Chris Long’s author profile as presented.*

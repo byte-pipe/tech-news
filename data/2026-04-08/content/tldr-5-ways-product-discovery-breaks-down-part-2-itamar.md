@@ -48,23 +48,23 @@ O: Launch frequently and make evidence-guided decisions
 
 The objective can persist for many quarters. The key results should reflect ambitious-yet-achievable targets for this quarter. Aim for continuous improvements rather than a few big leaps. If you were able to run just two experiments last quarter, aim to run 4.  If you’ve spent no time reviewing ideas with users last quarter, try to run 2 ideas in 6 user interviews. Don’t even wait a whole quarter to see if you made progress — set monthly improvement cycles and hold retrospectives at the end of each.
 
- 
- 
+
+
 
 Join my newsletter to get articles like thisplus exclusive eBooks and templates by email
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 JOIN
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Be Scrappy
 
@@ -97,9 +97,9 @@ Here’s the contract you should establish with your colleagues: whatever the id
 
 Ideally you want to land on a plan that’s shaped like this:
 
-A 
+A
 goal lifecycle
- that includes product discovery 
+ that includes product discovery
 
 If your company uses some type of output roadmap (launches on a timeline, Now/Next/Later), start by prepending product discovery to each idea, and give the team the right to come back with contradicting evidence and alternative ideas.
 
@@ -107,7 +107,7 @@ Use the Concept of Confidence
 
 My regular readers will be familiar with the Confidence Meter (free downloadhere) — a tool that estimates your level of confidence in an idea based on the evidence you’ve collected. Ideas that have only opinions and sparse data going for them get a low confidence score. Ideas that went through successful tests score much higher.
 
-The Confidence Meter (free download 
+The Confidence Meter (free download
 here
 )
 

@@ -11,7 +11,7 @@ description: The agent harness performance optimization system. Skills, instinct
 
 affaan-m
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork11k
 * Star84.3k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -279,7 +279,7 @@ Works acrossClaude Code,Codex,Cowork, and other AI agent harnesses.
 This repo is the raw code only. The guides explain everything.
 
 Shorthand Guide
-Setup, foundations, philosophy. 
+Setup, foundations, philosophy.
 Read this first.
 
 Longform Guide
@@ -401,14 +401,14 @@ cd
 #
  Install dependencies (pick your package manager)
 
-npm install 
+npm install
 #
  or: pnpm install | yarn install | bun install
 
 #
  macOS/Linux
 
-./install.sh typescript 
+./install.sh typescript
 #
  or python or golang or swift or php
 
@@ -424,7 +424,7 @@ npm install
 #
  Windows PowerShell
 
-.\install.ps1 typescript 
+.\install.ps1 typescript
 #
  or python or golang or swift or php
 
@@ -451,7 +451,7 @@ For manual install instructions see the README in therules/folder.
 #
  Try a command (plugin install uses namespaced form)
 
-/everything-claude-code:plan 
+/everything-claude-code:plan
 "
 Add user authentication
 "
@@ -721,11 +721,11 @@ Two ways to generate Claude Code skills from your repository:
 
 Use the/skill-createcommand for local analysis without external services:
 
-/skill-create 
+/skill-create
 #
  Analyze current repo
 
-/skill-create --instincts 
+/skill-create --instincts
 #
  Also generate instincts for continuous-learning
 
@@ -795,23 +795,23 @@ Plankton (credit: @alxfazio) is a recommended companion for write-time code qual
 
 The instinct-based learning system automatically learns your patterns:
 
-/instinct-status 
+/instinct-status
 #
  Show learned instincts with confidence
 
-/instinct-import 
+/instinct-import
 <
 file
 >
- 
+
 #
  Import instincts from others
 
-/instinct-export 
+/instinct-export
 #
  Export your instincts for sharing
 
-/evolve 
+/evolve
 #
  Cluster related instincts into skills
 
@@ -858,25 +858,25 @@ The easiest way to use this repo - install as a Claude Code plugin:
 Or add directly to your~/.claude/settings.json:
 
 {
- 
+
 "extraKnownMarketplaces"
 : {
- 
+
 "everything-claude-code"
 : {
- 
+
 "source"
 : {
- 
+
 "source"
-: 
+:
 "
 github
 "
 ,
- 
+
 "repo"
-: 
+:
 "
 affaan-m/everything-claude-code
 "
@@ -884,12 +884,12 @@ affaan-m/everything-claude-code
  }
  }
  },
- 
+
 "enabledPlugins"
 : {
- 
+
 "everything-claude-code@everything-claude-code"
-: 
+:
 true
 
  }
@@ -907,35 +907,35 @@ git clone https://github.com/affaan-m/everything-claude-code.git
 #
  Option A: User-level rules (applies to all projects)
 
-mkdir -p 
+mkdir -p
 ~
 /.claude/rules
 cp -r everything-claude-code/rules/common/
 *
- 
+
 ~
 /.claude/rules/
 cp -r everything-claude-code/rules/typescript/
 *
- 
+
 ~
-/.claude/rules/ 
+/.claude/rules/
 #
  pick your stack
 
 cp -r everything-claude-code/rules/python/
 *
- 
+
 ~
 /.claude/rules/
 cp -r everything-claude-code/rules/golang/
 *
- 
+
 ~
 /.claude/rules/
 cp -r everything-claude-code/rules/php/
 *
- 
+
 ~
 /.claude/rules/
 
@@ -948,7 +948,7 @@ cp -r everything-claude-code/rules/common/
  .claude/rules/
 cp -r everything-claude-code/rules/typescript/
 *
- .claude/rules/ 
+ .claude/rules/
 #
  pick your stack
 
@@ -966,7 +966,7 @@ git clone https://github.com/affaan-m/everything-claude-code.git
 
 cp everything-claude-code/agents/
 *
-.md 
+.md
 ~
 /.claude/agents/
 
@@ -975,30 +975,30 @@ cp everything-claude-code/agents/
 
 cp -r everything-claude-code/rules/common/
 *
- 
+
 ~
 /.claude/rules/
 cp -r everything-claude-code/rules/typescript/
 *
- 
+
 ~
-/.claude/rules/ 
+/.claude/rules/
 #
  pick your stack
 
 cp -r everything-claude-code/rules/python/
 *
- 
+
 ~
 /.claude/rules/
 cp -r everything-claude-code/rules/golang/
 *
- 
+
 ~
 /.claude/rules/
 cp -r everything-claude-code/rules/php/
 *
- 
+
 ~
 /.claude/rules/
 
@@ -1007,7 +1007,7 @@ cp -r everything-claude-code/rules/php/
 
 cp everything-claude-code/commands/
 *
-.md 
+.md
 ~
 /.claude/commands/
 
@@ -1019,10 +1019,10 @@ cp everything-claude-code/commands/
 
 cp -r everything-claude-code/.agents/skills/
 *
- 
+
 ~
 /.claude/skills/
-cp -r everything-claude-code/skills/search-first 
+cp -r everything-claude-code/skills/search-first
 ~
 /.claude/skills/
 
@@ -1057,19 +1057,19 @@ Subagents handle delegated tasks with limited scope. Example:
 ---
 
 name
-: 
+:
 code-reviewer
 
 description
-: 
+:
 Reviews code for quality, security, and maintainability
 
 tools
-: 
+:
 ["Read", "Grep", "Glob", "Bash"]
 
 model
-: 
+:
 opus
 
 ---
@@ -1080,7 +1080,7 @@ You are a senior code reviewer...
 
 Skills are workflow definitions invoked by commands or agents:
 
-# 
+#
 TDD Workflow
 
 1
@@ -1108,39 +1108,39 @@ TDD Workflow
 Hooks fire on tool events. Example - warn about console.log:
 
 {
- 
+
 "matcher"
-: 
+:
 "
-tool == 
+tool ==
 \"
 Edit
 \"
- && tool_input.file_path matches 
+ && tool_input.file_path matches
 \"\\\\
 .(ts|tsx|js|jsx)$
 \"
 "
 ,
- 
+
 "hooks"
 : [{
- 
+
 "type"
-: 
+:
 "
 command
 "
 ,
- 
+
 "command"
-: 
+:
 "
 #!/bin/bash
 \n
 grep -n 'console
 \\
-.log' 
+.log'
 \"
 $file_path
 \"
@@ -1313,17 +1313,17 @@ Fix:Disable unused MCPs per project:
 // In your project's .claude/settings.json
 
 {
- 
+
 "disabledMcpServers"
 : [
 "
 supabase
 "
-, 
+,
 "
 railway
 "
-, 
+,
 "
 vercel
 "
@@ -1341,7 +1341,7 @@ Yes. Use Option 2 (manual installation) and copy only what you need:
 
 cp everything-claude-code/agents/
 *
-.md 
+.md
 ~
 /.claude/agents/
 
@@ -1350,7 +1350,7 @@ cp everything-claude-code/agents/
 
 cp -r everything-claude-code/rules/common/
 *
- 
+
 ~
 /.claude/rules/
 
@@ -1427,10 +1427,10 @@ ECC providesfull Cursor IDE supportwith hooks, rules, agents, skills, commands, 
 #
  Windows PowerShell
 
-.\install.ps1 
+.\install.ps1
 --
 target cursor typescript
-.\install.ps1 
+.\install.ps1
 --
 target cursor python golang swift php
 
@@ -1452,7 +1452,7 @@ Hook Scripts
 
 16
 
-Thin Node.js scripts delegating to 
+Thin Node.js scripts delegating to
 scripts/hooks/
  via shared adapter
 
@@ -1472,7 +1472,7 @@ Skills
 
 Shared + Bundled
 
-Via AGENTS.md at root and 
+Via AGENTS.md at root and
 .cursor/skills/
  for translated additions
 
@@ -1512,17 +1512,17 @@ Cursor rules use YAML frontmatter withdescription,globs, andalwaysApply:
 ---
 
 description
-: 
+:
 "
 TypeScript coding style extending common rules
 "
 
 globs
-: 
+:
 ["**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx"]
 
 alwaysApply
-: 
+:
 false
 
 ---
@@ -1541,7 +1541,7 @@ codex
 #
  Optional: copy the global-safe defaults to your home directory
 
-cp .codex/config.toml 
+cp .codex/config.toml
 ~
 /.codex/config.toml
 
@@ -1572,7 +1572,7 @@ AGENTS.md
 
 2
 
-Root (universal) + 
+Root (universal) +
 .codex/AGENTS.md
  (Codex-specific supplement)
 
@@ -1594,7 +1594,7 @@ Profiles
 2
 
 strict
- (read-only sandbox) and 
+ (read-only sandbox) and
 yolo
  (full auto-approve)
 
@@ -1999,7 +1999,7 @@ npm install ecc-universal
 Then add to youropencode.json:
 
 {
- 
+
 "plugin"
 : [
 "
@@ -2194,26 +2194,26 @@ Claude Code usage can be expensive if you don't manage token consumption. These 
 Add to~/.claude/settings.json:
 
 {
- 
+
 "model"
-: 
+:
 "
 sonnet
 "
 ,
- 
+
 "env"
 : {
- 
+
 "MAX_THINKING_TOKENS"
-: 
+:
 "
 10000
 "
 ,
- 
+
 "CLAUDE_AUTOCOMPACT_PCT_OVERRIDE"
-: 
+:
 "
 50
 "
@@ -2321,33 +2321,33 @@ Quick wins:
 // ~/.claude/settings.json
 
 {
- 
+
 "model"
-: 
+:
 "
 sonnet
 "
 ,
- 
+
 "env"
 : {
- 
+
 "MAX_THINKING_TOKENS"
-: 
+:
 "
 10000
 "
 ,
- 
+
 "CLAUDE_AUTOCOMPACT_PCT_OVERRIDE"
-: 
+:
 "
 50
 "
 ,
- 
+
 "CLAUDE_CODE_SUBAGENT_MODEL"
-: 
+:
 "
 haiku
 "
@@ -2416,58 +2416,58 @@ ecc.tools
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 84.3k
 
  stars
- 
+
 
 ### Watchers
 
 440
 
  watching
- 
+
 
 ### Forks
 
 11k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases10
 
@@ -2475,11 +2475,11 @@ ECC v1.8.0 — Harness Performance & Cross-Platform Reliability
 
  Latest
 
- 
+
 
 Mar 5, 2026
 
- 
+
 
 + 9 releases
 
@@ -2489,11 +2489,11 @@ Mar 5, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * https://ecc.tools
 
 Learn more about GitHub Sponsors
@@ -2510,17 +2510,17 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -2528,9 +2528,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

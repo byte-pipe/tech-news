@@ -35,7 +35,7 @@ setAttribute
 llm.provider
 "
 ,
- 
+
 "
 openai
 "
@@ -49,7 +49,7 @@ setAttribute
 llm.model
 "
 ,
- 
+
 "
 gpt-4o
 "
@@ -63,7 +63,7 @@ setAttribute
 llm.tokens.input
 "
 ,
- 
+
 150
 );
 
@@ -75,7 +75,7 @@ setAttribute
 llm.cost
 "
 ,
- 
+
 0.003
 );
 
@@ -94,7 +94,7 @@ This is exactly what OpenTelemetry was created to solve. And now it has a spec f
 The spec defines three operations. Every LLM-related span gets one:
 
 chat gpt-4o ← model call
-invoke_agent orchestrator ← agent invocation 
+invoke_agent orchestrator ← agent invocation
 execute_tool web_search ← tool execution
 
 Enter fullscreen mode
@@ -121,7 +121,7 @@ setAttribute
 gen_ai.agent.name
 "
 ,
- 
+
 "
 weather-bot
 "
@@ -135,7 +135,7 @@ setAttribute
 gen_ai.agent.id
 "
 ,
- 
+
 "
 agent-001
 "
@@ -149,7 +149,7 @@ setAttribute
 gen_ai.tool.name
 "
 ,
- 
+
 "
 search
 "
@@ -163,7 +163,7 @@ setAttribute
 gen_ai.tool.type
 "
 ,
- 
+
 "
 function
 "
@@ -179,12 +179,12 @@ setAttribute
 gen_ai.agent.tool.name
 "
 ,
- 
+
 "
 search
 "
 );
- 
+
 // wrong path
 
 // gen_ai.agent.name — didn't exist at all
@@ -279,7 +279,7 @@ gen_ai.agent.step.*
 
 Reserved namespace
 
-Moved to 
+Moved to
 gen_ai.toad_eye.*
 
 Agent identity
@@ -344,7 +344,7 @@ setAttribute
 gen_ai.tool.name
 "
 ,
- 
+
 toolName
 );
 
@@ -358,7 +358,7 @@ setAttribute
 gen_ai.agent.tool.name
 "
 ,
- 
+
 toolName
 );
 
@@ -477,7 +477,7 @@ toad-eye— open-source LLM observability, OTel-native:GitHub·npm
 🐸👁️
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -488,6 +488,6 @@ Preview
 Dismiss
 
  View full discussion (19 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

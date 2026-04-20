@@ -41,12 +41,12 @@ The railway arrived in Japan in 1872, during the Meiji Restoration, which opened
 Between 1907 and World War II, Japan saw a boom in new private electric railways, coinciding with rapid urbanization. Technologically, most of these private railways were similar to the famousinterurbansin the United States: they were basically electric trams, but running between cities as well as within them. The American network eventually withered, and almost nothing of it survives today. In Japan, however, the network consolidated, and the light tramlines gradually evolved into heavy-rail intercity connections.
 
  The Midwest was once criss-crossed by a network of ‘interurbans’, essentially intercity trams. In the United States, these lines have vanished, but in Japan the equivalent lines were gradually upgraded into a private heavy rail system that flourishes to this day.
- 
+
 
 Image
 
  Electric Railway Journal via Wikimedia Commons.
- 
+
 
 These companies are today known as ‘legacy private railways’ on account of their having been private since their inception.There areeight legacy private railways in the Tokyo metropolitan area, five in the Osaka–Kobe–Kyoto megalopolis, two in Nagoya, and one in the fourth city of Fukuoka. There are alsodozens of smaller oneselsewhere. In the three largest urban areas, these operators account for nearly half of railway track and stations, as well as a plurality of ridership. The largest, Kintetsu, not only operates urban services, but a whole intercity network stretching from Osaka to Nagoya.
 
@@ -56,7 +56,7 @@ Image
 
 Kintetsu Railway Network
 .
- 
+
 
 These companies often compete head-to-head. At its most extreme, three separate commuter lines compete for the traffic between Osaka and the port city of Kobe, running in parallel, sometimes fewer than 500 meters apart.
 
@@ -79,7 +79,7 @@ This model was pioneered in the 1950s by what becameHankyuRailways. Hankyu’s n
 Image
 
  Author’s collection; Nankai Railway Corporation; Tokyu Corporation.
- 
+
 
 Core rail operations are profitable for every Japanese private railway company, but they usually only account for a plurality or a small majority ofrevenue. The rest is contributed by their portfolio of side businesses. There is a natural financial synergy between the reliable but unremarkable cash flow of train fares and the profitable but riskier real estate and commercial side of the business. Railway companies’ side businesses also attract people to live and work on their rail corridor, reinforcing the customer base for the railway services themselves.
 
@@ -88,12 +88,12 @@ This virtuous circle is enabled by transit-oriented development. Japan’s liber
 Railways cost a lot to build, but once they are built, they can move enormous numbers of people, far more than a road of similar size. This means that they work best in cities with a high density of people, jobs, and other activities. In 2019, New York City was the only American city whererail had a higher modal share than cars, in part because Manhattan has2.5 million jobs, two million residents, and50 million tourist visitscrammed into 59 square kilometers.
 
  The view out over the north-south trunk railway from the JR East Museum: densely packed houses gradually give way to apartment blocks, then to high-rises in the distance, clustering around the station city of Omiya at the northern edge of Greater Tokyo.
- 
+
 
 Image
 
  Author’s collection.
- 
+
 
 This does not mean that rail-oriented cities must be structured likeChinese cities: islands of high-rise apartments connected by metros and separated by motorways. Japanese cities have the lowest residential density in Asia, and a plurality of the Japanese live in houses, usually detached ones. The urban area of Tokyo, the densest Japanese city, has aweighted population densityless than that of many European cities, including Paris, Madrid, or Athens. Japanese cities have vast low-rise, predominantly residential suburbs, built at densities that might be higher than what is typical in the United States, but that would be quite normal in Northern Europe.
 
@@ -187,15 +187,15 @@ Similar pieces
 
 It was once legal to build almost anything, everywhere. Then, in the space of a few decades, nearly every city in the Western world banned densification. What happened?
 
-Read more 
+Read more
 →
 
 Japan faced some of the world’s toughest planning problems. It solved them by letting homeowners replan whole neighborhoods privately by supermajority vote.
 
-Read more 
+Read more
 →
 
 Many countries want to copy Australia’s immigration rules. But its most-copied border policy is not the one that worked.
 
-Read more 
+Read more
 →

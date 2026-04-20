@@ -17,26 +17,26 @@ tags:
 
 ## Overview
 
-The 
+The
 picoZ80
- continues the tranZPUter theme, replacing a physical Z80 in a host or industrial computer with a 
-faster CPU, more memory, virtual devices, networking (WiFi, BT), rapid application loading from SD card and WiFi management. 
+ continues the tranZPUter theme, replacing a physical Z80 in a host or industrial computer with a
+faster CPU, more memory, virtual devices, networking (WiFi, BT), rapid application loading from SD card and WiFi management.
 
-It is a custom PCB designed to drop directly into the Z80 DIP-40 CPU socket of any legacy Z80-based computer. Rather than using a discrete Z80 processor, the board hosts an 
+It is a custom PCB designed to drop directly into the Z80 DIP-40 CPU socket of any legacy Z80-based computer. Rather than using a discrete Z80 processor, the board hosts an
 RP2350B
  microcontroller — a dual-core 150MHz Cortex-M33 device capable of running at up to 300MHz — whose programmable I/O (PIO) state machines take full, cycle-accurate control of the Z80 address, data, and control buses.
 
 The picoZ80 is not a simple emulator adapter. Every bus transaction is handled in real time by the RP2350's PIO engines, giving the host system exactly the same bus timing it would see from a real Z80. At the same time, the RP2350's second core and abundant on-chip SRAM, combined with 8MB of external PSRAM and 16MB of Flash, allow an almost unlimited range of capabilities to be layered on top of the raw Z80 interface — including accelerated execution, virtualised memory, ROM banking, virtual disk drives, and full machine-persona emulation.
 
-An 
+An
 ESP32
- co-processor provides WiFi and Bluetooth connectivity, SD-card mass storage, and a browser-based management interface. All configuration is driven from a single human-readable 
+ co-processor provides WiFi and Bluetooth connectivity, SD-card mass storage, and a browser-based management interface. All configuration is driven from a single human-readable
 config.json
  file stored on the SD card, meaning no recompilation is required to reconfigure the board's memory map, ROM images, or driver selection.
 
-The picoZ80 has been demonstrated running within multiple Sharp MZ machines. A set of personas are being developed for these 
-machines, indeed for other Z80 systems in time, to provide much needed features, such as banked RAM/ROM, floppy disk emulation, 
-QuickDisk emulation, ROM Filing System, TranZPUter Filing System, all capable of being functional simultaneously. 
+The picoZ80 has been demonstrated running within multiple Sharp MZ machines. A set of personas are being developed for these
+machines, indeed for other Z80 systems in time, to provide much needed features, such as banked RAM/ROM, floppy disk emulation,
+QuickDisk emulation, ROM Filing System, TranZPUter Filing System, all capable of being functional simultaneously.
 The configuration is entirely JSON-driven, adding support for a new Z80-based host is a matter of editing a configuration file and, where new I/O behaviour is required, adding a small C driver
 into the codebase.
 
@@ -71,9 +71,9 @@ Key Components
 
 Board Design
 
-The picoZ80 hardware is designed in KiCad. The current revision is 
+The picoZ80 hardware is designed in KiCad. The current revision is
 v2.5
-. Schematic and PCB layout files are available in the project repository under 
+. Schematic and PCB layout files are available in the project repository under
 kicad/PICOZ80/
 .
 
@@ -115,7 +115,7 @@ PCB Assembled
 
 PCB Component Placement and Bill of Materials
 
-Click 
+Click
 here
  to view an interactive PCB component placement diagram and Bill of Materials.
 
@@ -130,7 +130,7 @@ queue_t
 Core 0
  handles all non-real-time tasks: USB bridge and CDC serial, firmware update coordination, file I/O (relayed to the ESP32 over UART), ESP32 command dispatch (floppy/QuickDisk image changes, config reloads, version queries), partition management, and watchdog supervision. A hardware watchdog timer monitors the boot sequence and main loop, with boot progress tracked through RP2350 scratch registers that survive watchdog resets. Comprehensive fault handlers capture register state and diagnostic information to PSRAM, enabling post-reset analysis of hard faults, bus faults, and usage faults. A persistent PSRAM log (
 plogf
-) captures boot-critical messages before USB becomes available, complementing the standard 
+) captures boot-critical messages before USB becomes available, complementing the standard
 debugf
  debug output system.
 
@@ -151,7 +151,7 @@ z80.pio
 * Wait-state generator(z80_wait) — inserts configurable T-cycle wait states (controlled by thetcycwaitJSON parameter) by asserting /WAIT on the host bus, stretching individual bus cycles to match the timing requirements of slower peripherals or banked ROM/RAM.
 * T1 synchronisation(z80_sync) — detects the rising edge of T1 on each bus cycle (the point at which the Z80 places a valid address on the bus) and signals Core 1 via IRQ. This synchronisation is essential for applications that rely on the host clock for precise timing — including software delay loops and time-sensitive I/O such as cassette motor control and serial bit-banging — ensuring that RP2350 internal memory operations do not introduce perceptible timing drift.
 
-The full set of PIO programs in 
+The full set of PIO programs in
 z80.pio
 , grouped by PIO block:
 
@@ -249,7 +249,7 @@ Drives RFSH cycles on the host bus while the RP2350 services internal memory, ke
 
 z80_wait
 
-Inserts configurable T-cycle wait states on the host bus (controlled by 
+Inserts configurable T-cycle wait states on the host bus (controlled by
 tcycwait
 ).
 
@@ -269,27 +269,27 @@ Memory accesses are resolved through three tiers of increasing latency:
 
 Tier 1 — RP2350 SRAM (512KB, zero wait states)
 
-A 128-entry array of 32-bit 
+A 128-entry array of 32-bit
 membankPtr
  values, one per 512-byte block of the full 64KB Z80 address space, gives Core 1 an O(1) block-type lookup for every bus transaction. This array is the inner dispatch table: each entry encodes the block type and, for PSRAM-backed blocks, the PSRAM offset.
 
 Tier 2 — External PSRAM (8MB, SPI)
 
-The PSRAM holds 64 banks of 64KB RAM or ROM images, plus a 64KB 
+The PSRAM holds 64 banks of 64KB RAM or ROM images, plus a 64KB
 memPtr
- pointer array, a 64KB 
+ pointer array, a 64KB
 memioPtr
- function-pointer array, and a 64KB 
+ function-pointer array, and a 64KB
 ioPtr
  I/O function-pointer array. PSRAM access latency is deterministic and handled via the RP2350's SPI peripheral with DMA.
 
 Tier 3 — 16MB SPI Flash
 
-Firmware, ROM images, and the minified 
+Firmware, ROM images, and the minified
 config.json
  are stored in Flash. ROM images are copied from Flash to PSRAM at boot time and are then served from PSRAM at runtime. The Flash is not accessed during normal Z80 bus transactions.
 
-Memory blocks are configured in 
+Memory blocks are configured in
 512-byte granularity
 . The available block types are:
 
@@ -401,13 +401,13 @@ Each configuration slot can hold up to 64 ROM images and a 64KB minified JSON co
 
 ## Machine Personas
 
-The active persona is selected via the web interface Personality page or by editing 
+The active persona is selected via the web interface Personality page or by editing
 config.json
 .
 
 Peripheral and Filing-System Drivers
 
-When the firmware is built with 
+When the firmware is built with
 INCLUDE_SHARP_DRIVERS
 , the following peripheral drivers are compiled in and can be bound to any virtual hardware persona via the JSON configuration:
 
@@ -422,7 +422,7 @@ INCLUDE_SHARP_DRIVERS
 * MZ-1R12.c — 32KB battery-backed RAM board- emulates the Sharp MZ-1R12 32KB battery-backed RAM expansion. Rather than using a real battery, the RAM image is persisted to and restored from the SD card. The board is commonly used to store an application so it is instantly available at boot, avoiding long cassette load times.
 * MZ-1R18.c — 64KB RAM board- emulates the Sharp MZ-1R18 64KB RAM expansion, typically used as a RAMFILE disk for program storage or to provide additional memory for custom applications requiring more than the standard address space.
 
-Additional personas will be added in due course. 
+Additional personas will be added in due course.
 
 Multiple personas can coexist in the JSON configuration, each associated with a different PSRAM bank. Switching persona changes the active memory map and loaded ROM images without rebooting the host.
 
@@ -438,9 +438,9 @@ Prerequisites
 
 Directory Structure
 
-All paths are relative to a user-chosen root directory, referred to here as 
+All paths are relative to a user-chosen root directory, referred to here as
 <root>
-. The build scripts use a 
+. The build scripts use a
 PICO_PATH
  variable at the top of each script which must be updated to match this root before first use. The expected layout after setup is:
 
@@ -457,7 +457,7 @@ PICO_PATH
 Step 1 — Clone the Projects
 
 mkdir
- 
+
 -p
  <root>/projects
 
@@ -474,15 +474,15 @@ git clone <zeta-repo-url> Z80
 
 Step 2 — Set PICO_PATH in the Build Scripts
 
-Edit the 
+Edit the
 PICO_PATH
- variable at the top of both 
+ variable at the top of both
 get_and_build_sdk.sh
- and 
+ and
 build_tzpuPico.sh
  to point to your chosen root directory:
 
-export 
+export
 PICO_PATH
 =
 /your/chosen/root/
@@ -500,19 +500,19 @@ cd
  <root>
 ./get_and_build_sdk.sh
 
-The script clones into 
+The script clones into
 <root>/pico-sdk/
- and 
+ and
 <root>/pico-examples/
 , then builds the SDK with:
 
-cmake 
+cmake
 -DPICO_BOARD
 =
-pimoroni_pga2350 
+pimoroni_pga2350
 -DPICO_PLATFORM
 =
-rp2350-arm-s 
+rp2350-arm-s
 -DPICO_SDK_PATH
 =
 <root>/pico-sdk/ ..
@@ -521,21 +521,21 @@ make
 Step 4 — Build the RP2350 Firmware
 
 build_tzpuPico.sh
- handles the complete RP2350 build: it copies the 
+ handles the complete RP2350 build: it copies the
 picoZ80.h
- board definition into the SDK, backs up the current version, runs CMake and 
+ board definition into the SDK, backs up the current version, runs CMake and
 make -j4
-, increments the version number on a successful build, and copies the resulting firmware files into 
+, increments the version number on a successful build, and copies the resulting firmware files into
 projects/tzpuPico/fw/uf2/
- and 
+ and
 projects/tzpuPico/fw/bin/
- with version-stamped filenames. The 
+ with version-stamped filenames. The
 fw/uf2/
- directory holds the 
+ directory holds the
 Bootloader
- UF2 image (used for initial USB mass-storage flashing); the 
+ UF2 image (used for initial USB mass-storage flashing); the
 fw/bin/
- directory holds the 
+ directory holds the
 application partition
  pure binary (
 .bin
@@ -562,17 +562,17 @@ Build ESP32 Firmware Separately
 
 The ESP32 firmware can also be built independently using Docker. Add the following alias to your shell profile (
 ~/.bashrc
- or 
+ or
 ~/.zshrc
-), then invoke 
+), then invoke
 idf54
- from the 
+ from the
 esp32/
  directory:
 
 # Add to shell profile
 
-alias 
+alias
 idf54
 =
 'docker run --rm --privileged \
@@ -633,15 +633,15 @@ All subsequent RP2350 firmware updates can be performed via the OTA web page wit
 
 Initial ESP32 Flash
 
-The ESP32 is flashed using 
+The ESP32 is flashed using
 esptool
- via a Python virtual environment. On newer board revisions the ESP32 appears as its own USB device; on original boards with a single USB port it was accessible only through the RP2350 acting as a USB-UART bridge. In both cases 
+ via a Python virtual environment. On newer board revisions the ESP32 appears as its own USB device; on original boards with a single USB port it was accessible only through the RP2350 acting as a USB-UART bridge. In both cases
 Pin 4 (Reset ESP32)
  on the debug header is used to hold the ESP32 in reset during the RP2350 boot sequence when required.
 
 Set up the esptool environment once:
 
-python3 
+python3
 -m
  venv ./venv/
 
@@ -649,85 +649,85 @@ source
  ./venv/bin/activate
 
 cd
- 
+
 $HOME
 /esptool
 
-Then flash all four ESP32 firmware components in one command, adjusting 
+Then flash all four ESP32 firmware components in one command, adjusting
 PORT
- to match the device node assigned by your OS and 
+ to match the device node assigned by your OS and
 BINPATH
  to the directory containing the built binaries:
 
 PORT
 =
-/dev/tty.usbmodem141403 
+/dev/tty.usbmodem141403
 # adjust to your system
 
 BINPATH
 =
 /path/to/build/output
 
-python3 ./esptool.py 
+python3 ./esptool.py
 \
 
- 
+
 -p
- 
+
 ${
 PORT
 }
- 
+
 -b
- 115200 
+ 115200
 \
 
- 
+
 --before
- default_reset 
+ default_reset
 --after
- hard_reset 
+ hard_reset
 \
 
- 
+
 --chip
- esp32s3 
+ esp32s3
 \
 
- write_flash 
+ write_flash
 \
 
- 
+
 --flash_mode
- dio 
+ dio
 --flash_size
- 4MB 
+ 4MB
 --flash_freq
- 80m 
+ 80m
 \
 
- 0x0 
+ 0x0
 ${
 BINPATH
 }
-/bootloader.bin 
+/bootloader.bin
 \
 
- 0x8000 
+ 0x8000
 ${
 BINPATH
 }
-/partition-table.bin 
+/partition-table.bin
 \
 
- 0x9000 
+ 0x9000
 ${
 BINPATH
 }
-/ota_data_initial.bin 
+/ota_data_initial.bin
 \
 
- 0x10000 
+ 0x10000
 ${
 BINPATH
 }
@@ -747,7 +747,7 @@ OTA Updates (after initial flash)
 
 SD Card Preparation
 
-Format the SD card as FAT32. Place 
+Format the SD card as FAT32. Place
 config.json
  in the root directory. Create subdirectories for ROM images, disk images, and filing system trees as referenced in your configuration. Once the board is running, the SD card can also be managed entirely through the web File Manager page.
 
@@ -781,24 +781,24 @@ Ground reference
 
 Starting OpenOCD
 
-OpenOCD exposes two GDB server ports — port 
+OpenOCD exposes two GDB server ports — port
 3333
- for Core 0 and port 
+ for Core 0 and port
 3334
- for Core 1. The picoZ80 requires a small modification to the standard OpenOCD RP2350 target script to enable true SMP debugging with separate GDB ports per core. Copy the standard script and uncomment the 
+ for Core 1. The picoZ80 requires a small modification to the standard OpenOCD RP2350 target script to enable true SMP debugging with separate GDB ports per core. Copy the standard script and uncomment the
 target smp
  line:
 
 sudo cp /usr/local/share/openocd/scripts/target/rp2350.cfg \
  /usr/local/share/openocd/scripts/target/rp2350_tzpu.cfg
 
-Then edit 
+Then edit
 rp2350_tzpu.cfg
- — find the 
+ — find the
 target smp
- line inside the 
+ line inside the
 if {[string compare $_USE_CORE SMP] == 0}
- block and remove the leading 
+ block and remove the leading
 #
 :
 
@@ -816,11 +816,11 @@ Global GDB initialisation (
 ~/.gdbinit
 )
 
-GDB requires explicit permission to auto-load per-directory 
+GDB requires explicit permission to auto-load per-directory
 .gdbinit
- files. Add the following to 
+ files. Add the following to
 ~/.gdbinit
-, adjusting the paths to match your project location (shown here relative to the project root — use absolute paths in 
+, adjusting the paths to match your project location (shown here relative to the project root — use absolute paths in
 ~/.gdbinit
  if you run GDB from varying directories):
 
@@ -831,17 +831,17 @@ add-auto-load-safe-path build/bin/model/BaseZ80/.gdbinit:build/bin/model/Bootloa
 
 Bootloader Debugging
 
-Copy the appropriate per-core 
+Copy the appropriate per-core
 .gdbinit
- file to the Bootloader build directory, then launch 
+ file to the Bootloader build directory, then launch
 gdb-multiarch
-. The 
+. The
 .gdbinit.bootloader.3333
- file connects to Core 0 (port 3333) and logs output to 
+ file connects to Core 0 (port 3333) and logs output to
 gdb_core0.txt
-; 
+;
 .gdbinit.bootloader.3334
- connects to Core 1 (port 3334) logging to 
+ connects to Core 1 (port 3334) logging to
 gdb_core1.txt
 . Open two terminals to debug both cores simultaneously:
 
@@ -857,13 +857,13 @@ gdb-multiarch Bootloader.elf
 
 Main Firmware Debugging
 
-The main firmware 
+The main firmware
 .gdbinit
  files (
 .gdbinit.3333
- and 
+ and
 .gdbinit.3334
-) define a custom 
+) define a custom
 xac <address> <count>
  command that dumps memory as combined hex and ASCII output, connect to the respective GDB port, and continue execution. This is useful for inspecting PSRAM bank contents and memory-mapped device state without halting the emulation loop:
 
@@ -888,7 +888,7 @@ Start OpenOCD using the ESP32-S3 built-in JTAG configuration:
 
 openocd -f board/esp32s3-builtin.cfg
 
-Then launch the Xtensa GDB pointing at the ESP32 firmware ELF (located at 
+Then launch the Xtensa GDB pointing at the ESP32 firmware ELF (located at
 esp32/build/main.elf
  relative to the project root) and attach to the OpenOCD GDB server:
 
@@ -899,7 +899,7 @@ Ensure the ELF was built from the same source revision as the firmware flashed t
 
 ## Configuration (JSON)
 
-All picoZ80 behaviour is controlled by 
+All picoZ80 behaviour is controlled by
 config.json
  on the SD card. The RP2350 reads this file at boot via the ESP32, minifies it, and stores the result in Flash. If no SD card is present, the previously stored configuration is used. The configuration can be edited directly in the browser using the Config Editor page.
 
@@ -907,207 +907,207 @@ The top-level structure is:
 
 {
 
- 
+
 "esp32"
 :
- 
+
 {
 
- 
+
 "core"
 :
- 
+
 {
 
- 
+
 "device"
 :
- 
+
 "Z80"
 ,
 
- 
+
 "mode"
 :
- 
+
 0
 
- 
+
 },
 
- 
+
 "wifi"
 :
- 
+
 {
 
- 
+
 "override"
 :
- 
+
 1
 ,
 
- 
+
 "wifimode"
 :
- 
+
 "client"
 ,
 
- 
+
 "ssid"
 :
- 
+
 "MyNetwork"
 ,
 
- 
+
 "password"
 :
- 
+
 "MyPassword"
 ,
 
- 
+
 "ip"
 :
- 
+
 "192.168.1.192"
 ,
 
- 
+
 "netmask"
 :
- 
+
 "255.255.255.0"
 ,
 
- 
+
 "gateway"
 :
- 
+
 "192.168.1.1"
 ,
 
- 
+
 "dhcp"
 :
- 
+
 0
 ,
 
- 
+
 "webfs"
 :
- 
+
 "webfs"
 ,
 
- 
+
 "persist"
 :
- 
+
 0
 
- 
+
 }
 
- 
+
 },
 
- 
+
 "rp2350"
 :
- 
+
 {
 
- 
+
 "core"
 :
- 
+
 {
 
- 
+
 "cpufreq"
 :
- 
+
 300000000
 ,
 
- 
+
 "psramfreq"
 :
- 
+
 133000000
 ,
 
- 
+
 "voltage"
 :
- 
+
 1.10
 
- 
+
 },
 
- 
+
 "z80"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "memory"
 :
- 
+
 [
- 
+
 ...
- 
+
 ],
 
- 
+
 "io"
 :
- 
+
 [
- 
+
 ...
- 
+
 ],
 
- 
+
 "drivers"
 :
- 
+
 [
- 
+
 ...
- 
+
 ]
 
- 
+
 }
 
- 
+
 ]
 
- 
+
 }
 
 }
 
 esp32 — ESP32 Configuration
 
-The 
+The
 esp32
- top-level object configures the ESP32 co-processor. It contains two sub-objects: 
+ top-level object configures the ESP32 co-processor. It contains two sub-objects:
 core
- and 
+ and
 wifi
 .
 
@@ -1123,11 +1123,11 @@ device
 
 string
 
-CPU device type — tells the ESP32 which processor personality to use. Valid values: 
+CPU device type — tells the ESP32 which processor personality to use. Valid values:
 "Z80"
- (picoZ80), 
+ (picoZ80),
 "6502"
- (pico6502), 
+ (pico6502),
 "6512"
  (pico6512).
 
@@ -1135,21 +1135,21 @@ mode
 
 integer
 
-Default boot mode: 
+Default boot mode:
 0
- = client (station) mode, 
+ = client (station) mode,
 1
  = Access Point mode. This value is persisted in NVS and used on next boot if the WiFi manager has not overridden it.
 
 esp32.wifi
 
-The 
+The
 wifi
- object provides a mechanism to inject WiFi credentials and network settings from 
+ object provides a mechanism to inject WiFi credentials and network settings from
 config.json
-, overriding whatever is stored in NVS. This is useful for initial provisioning or for deploying a known-good network configuration without using the web WiFi Manager. Set 
+, overriding whatever is stored in NVS. This is useful for initial provisioning or for deploying a known-good network configuration without using the web WiFi Manager. Set
 override
- to 
+ to
 0
  to ignore the config file entirely and rely on previously persisted NVS settings.
 
@@ -1163,9 +1163,9 @@ override
 
 0/1
 
-Master switch. 
+Master switch.
 1
- = apply all settings below; 
+ = apply all settings below;
 0
  = ignore this block and use persisted NVS settings.
 
@@ -1174,7 +1174,7 @@ wifimode
 string
 
 "ap"
- for Access Point mode (ESP32 creates its own network); 
+ for Access Point mode (ESP32 creates its own network);
 "client"
  for client/station mode (ESP32 joins an existing network).
 
@@ -1194,11 +1194,11 @@ ip
 
 string
 
-Fixed IP address (e.g. 
+Fixed IP address (e.g.
 "192.168.1.192"
-). Used in both AP and client modes when 
+). Used in both AP and client modes when
 dhcp
- is 
+ is
 0
 .
 
@@ -1206,7 +1206,7 @@ netmask
 
 string
 
-Subnet mask (e.g. 
+Subnet mask (e.g.
 "255.255.255.0"
 ).
 
@@ -1214,7 +1214,7 @@ gateway
 
 string
 
-Default gateway address (e.g. 
+Default gateway address (e.g.
 "192.168.1.1"
 ).
 
@@ -1222,11 +1222,11 @@ dhcp
 
 0/1
 
-Client mode only. 
+Client mode only.
 1
- = obtain address via DHCP; 
+ = obtain address via DHCP;
 0
- = use the fixed 
+ = use the fixed
 ip
 /
 netmask
@@ -1238,7 +1238,7 @@ webfs
 
 string
 
-Override the web filesystem root directory on the SD card (default 
+Override the web filesystem root directory on the SD card (default
 "webfs"
 ). Allows alternate web UI assets to be served.
 
@@ -1247,9 +1247,9 @@ persist
 0/1
 
 1
- = write the resolved WiFi settings back to NVS so they survive reboots even after 
+ = write the resolved WiFi settings back to NVS so they survive reboots even after
 override
- is cleared; 
+ is cleared;
 0
  = apply for this session only.
 
@@ -1265,7 +1265,7 @@ cpufreq
 
 integer
 
-RP2350 system clock frequency in Hz (e.g. 
+RP2350 system clock frequency in Hz (e.g.
 300000000
  for 300 MHz).
 
@@ -1273,7 +1273,7 @@ psramfreq
 
 integer
 
-PSRAM SPI clock frequency in Hz (e.g. 
+PSRAM SPI clock frequency in Hz (e.g.
 133000000
  for 133 MHz).
 
@@ -1281,13 +1281,13 @@ voltage
 
 float
 
-RP2350 core voltage in volts (e.g. 
+RP2350 core voltage in volts (e.g.
 1.10
 ). Higher clock speeds may require higher voltage.
 
 memory — Memory Map
 
-The 
+The
 memory
  array defines the Z80 memory map. Each entry covers a contiguous region of the 64KB Z80 address space, rounded to 512-byte block boundaries.
 
@@ -1307,7 +1307,7 @@ addr
 
 hex string
 
-Start address in the Z80 address space (e.g. 
+Start address in the Z80 address space (e.g.
 "0x0000"
 ).
 
@@ -1315,7 +1315,7 @@ size
 
 hex string
 
-Size of the region (e.g. 
+Size of the region (e.g.
 "0x2000"
  for 8KB).
 
@@ -1323,21 +1323,21 @@ type
 
 string
 
-Block type: 
+Block type:
 PHYSICAL
-, 
+,
 PHYSICAL_VRAM
-, 
+,
 PHYSICAL_HW
-, 
+,
 RAM
-, 
+,
 ROM
-, 
+,
 VRAM
-, 
+,
 FUNC
-, 
+,
 PTR
 .
 
@@ -1379,239 +1379,239 @@ Byte offset within the ROM image file to start reading from.
 
 "memory"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "addr"
 :
- 
+
 "0x0000"
 ,
 
- 
+
 "size"
 :
- 
+
 "0x1000"
 ,
 
- 
+
 "type"
 :
- 
+
 "ROM"
 ,
 
- 
+
 "bank"
 :
- 
+
 0
 ,
 
- 
+
 "tcycwait"
 :
- 
+
 0
 ,
 
- 
+
 "tcycsync"
 :
- 
+
 0
 ,
 
- 
+
 "task"
 :
- 
+
 ""
 ,
 
- 
+
 "file"
 :
- 
+
 "/TZFS/tzfs.rom"
 ,
 
- 
+
 "fileofs"
 :
- 
+
 0
 
- 
+
 },
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "addr"
 :
- 
+
 "0x1000"
 ,
 
- 
+
 "size"
 :
- 
+
 "0xCFFF"
 ,
 
- 
+
 "type"
 :
- 
+
 "RAM"
 ,
 
- 
+
 "bank"
 :
- 
+
 0
 ,
 
- 
+
 "tcycwait"
 :
- 
+
 0
 ,
 
- 
+
 "tcycsync"
 :
- 
+
 0
 ,
 
- 
+
 "task"
 :
- 
+
 ""
 ,
 
- 
+
 "file"
 :
- 
+
 ""
 ,
 
- 
+
 "fileofs"
 :
- 
+
 0
 
- 
+
 },
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "addr"
 :
- 
+
 "0xD000"
 ,
 
- 
+
 "size"
 :
- 
+
 "0x1000"
 ,
 
- 
+
 "type"
 :
- 
+
 "PHYSICAL_VRAM"
 ,
 
- 
+
 "bank"
 :
- 
+
 0
 ,
 
- 
+
 "tcycwait"
 :
- 
+
 2
 ,
 
- 
+
 "tcycsync"
 :
- 
+
 0
 ,
 
- 
+
 "task"
 :
- 
+
 ""
 ,
 
- 
+
 "file"
 :
- 
+
 ""
 ,
 
- 
+
 "fileofs"
 :
- 
+
 0
 
- 
+
 }
 
 ]
 
 io — I/O Port Map
 
-The 
+The
 io
  array maps Z80 I/O port ranges to handlers. I/O cycles are distinguished from memory cycles by the Z80 IORQ signal, which the PIO control state machine monitors.
 
@@ -1631,7 +1631,7 @@ addr
 
 hex string
 
-Start I/O port address (e.g. 
+Start I/O port address (e.g.
 "0xE0"
 ).
 
@@ -1646,7 +1646,7 @@ type
 string
 
 PHYSICAL
- (pass to host), 
+ (pass to host),
 FUNC
  (call C handler).
 
@@ -1658,91 +1658,91 @@ Handler function name for FUNC type.
 
 "io"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "addr"
 :
- 
+
 "0xE0"
 ,
 
- 
+
 "size"
 :
- 
+
 "0x08"
 ,
 
- 
+
 "type"
 :
- 
+
 "FUNC"
 ,
 
- 
+
 "func"
 :
- 
+
 "mz700_io"
 
- 
+
 },
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "addr"
 :
- 
+
 "0x00"
 ,
 
- 
+
 "size"
 :
- 
+
 "0xE0"
 ,
 
- 
+
 "type"
 :
- 
+
 "PHYSICAL"
 
- 
+
 }
 
 ]
 
 drivers — Machine Drivers
 
-The 
+The
 drivers
- array binds named driver instances to the Z80 context. Each driver has one or more 
+ array binds named driver instances to the Z80 context. Each driver has one or more
 interfaces
- (listed under the 
+ (listed under the
 "if"
  key), each of which can load ROM images, remap address ranges, remap I/O port ranges, and receive parameter files.
 
@@ -1762,11 +1762,11 @@ name
 
 string
 
-Driver name (must match a compiled-in driver, e.g. 
+Driver name (must match a compiled-in driver, e.g.
 "MZ700"
-, 
+,
 "RFS"
-, 
+,
 "TZFS"
 ).
 
@@ -1775,7 +1775,7 @@ type
 string
 
 PHYSICAL
- or 
+ or
 VIRTUAL
 .
 
@@ -1810,7 +1810,7 @@ type
 string
 
 PHYSICAL
- or 
+ or
 VIRTUAL
 .
 
@@ -1936,433 +1936,433 @@ Whether 16-bit I/O addressing is used.
 
 "drivers"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "name"
 :
- 
+
 "MZ700"
 ,
 
- 
+
 "type"
 :
- 
+
 "PHYSICAL"
 ,
 
- 
+
 "if"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "name"
 :
- 
+
 "main"
 ,
 
- 
+
 "type"
 :
- 
+
 "PHYSICAL"
 ,
 
- 
+
 "rom"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "file"
 :
- 
+
 "/MZ700/mz700.rom"
 ,
 
- 
+
 "loadaddr"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "position"
 :
- 
+
 0
 ,
 
- 
+
 "addr"
 :
- 
+
 "0x0000"
 ,
 
- 
+
 "bank"
 :
- 
+
 0
 ,
 
- 
+
 "size"
 :
- 
+
 "0x1000"
 ,
 
- 
+
 "tcycwait"
 :
- 
+
 0
 ,
 
- 
+
 "tcycsync"
 :
- 
+
 0
 
- 
+
 }
 
- 
+
 ]
 
- 
+
 }
 
- 
+
 ],
 
- 
+
 "addrmap"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "srcAddr"
 :
- 
+
 "0x0000"
 ,
 
- 
+
 "size"
 :
- 
+
 "0x1000"
 ,
 
- 
+
 "dstAddr"
 :
- 
+
 "0x0000"
 
- 
+
 }
 
- 
+
 ],
 
- 
+
 "iomap"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "srcAddr"
 :
- 
+
 "0xE0"
 ,
 
- 
+
 "size"
 :
- 
+
 "0x08"
 ,
 
- 
+
 "dstAddr"
 :
- 
+
 "0xE0"
 ,
 
- 
+
 "16bit"
 :
- 
+
 0
 
- 
+
 }
 
- 
+
 ],
 
- 
+
 "param"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "file"
 :
- 
+
 "/config/mz700.cfg"
 
- 
+
 }
 
- 
+
 ]
 
- 
+
 }
 
- 
+
 ]
 
- 
+
 },
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "name"
 :
- 
+
 "MZ-1E05"
 ,
 
- 
+
 "type"
 :
- 
+
 "PHYSICAL"
 ,
 
- 
+
 "if"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "name"
 :
- 
+
 "fdc0"
 ,
 
- 
+
 "type"
 :
- 
+
 "PHYSICAL"
 ,
 
- 
+
 "rom"
 :
- 
+
 [],
 
- 
+
 "addrmap"
 :
- 
+
 [],
 
- 
+
 "iomap"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "srcAddr"
 :
- 
+
 "0xD8"
 ,
 
- 
+
 "size"
 :
- 
+
 "0x04"
 ,
 
- 
+
 "dstAddr"
 :
- 
+
 "0xD8"
 ,
 
- 
+
 "16bit"
 :
- 
+
 0
 
- 
+
 }
 
- 
+
 ],
 
- 
+
 "param"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
- 
+
 1
 ,
 
- 
+
 "file"
 :
- 
+
 "/DSK/MZ700/disk0.dsk"
 
- 
+
 }
 
- 
+
 ]
 
- 
+
 }
 
- 
+
 ]
 
- 
+
 }
 
 ]
@@ -2373,500 +2373,500 @@ The following is a minimal configuration that boots an MZ-700 with ROM, 48KB RAM
 
 {
 
- 
+
 "rp2350"
 :
- 
+
 {
 
- 
+
 "core"
 :
- 
+
 {
 
- 
+
 "cpufreq"
 :
- 
+
 300000000
 ,
 
- 
+
 "psramfreq"
 :
- 
+
 133000000
 ,
 
- 
+
 "voltage"
 :
- 
+
 1.10
 
- 
+
 },
 
- 
+
 "z80"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "memory"
 :
- 
+
 [
 
- 
+
 {
- 
+
 "enable"
 :
 1
 ,
- 
+
 "addr"
 :
 "0x0000"
 ,
- 
+
 "size"
 :
 "0x1000"
 ,
- 
+
 "type"
 :
 "ROM"
 ,
 
- 
+
 "bank"
 :
 0
 ,
- 
+
 "tcycwait"
 :
 0
 ,
- 
+
 "tcycsync"
 :
 0
 ,
- 
+
 "task"
 :
 ""
 ,
 
- 
+
 "file"
 :
 "/MZ700/mz700.rom"
 ,
- 
+
 "fileofs"
 :
 0
- 
+
 },
 
- 
+
 {
- 
+
 "enable"
 :
 1
 ,
- 
+
 "addr"
 :
 "0x1000"
 ,
- 
+
 "size"
 :
 "0xCFFF"
 ,
- 
+
 "type"
 :
 "RAM"
 ,
 
- 
+
 "bank"
 :
 0
 ,
- 
+
 "tcycwait"
 :
 0
 ,
- 
+
 "tcycsync"
 :
 0
 ,
- 
+
 "task"
 :
 ""
 ,
- 
+
 "file"
 :
 ""
 ,
- 
+
 "fileofs"
 :
 0
- 
+
 },
 
- 
+
 {
- 
+
 "enable"
 :
 1
 ,
- 
+
 "addr"
 :
 "0xD000"
 ,
- 
+
 "size"
 :
 "0x1000"
 ,
- 
+
 "type"
 :
 "PHYSICAL_VRAM"
 ,
 
- 
+
 "bank"
 :
 0
 ,
- 
+
 "tcycwait"
 :
 2
 ,
- 
+
 "tcycsync"
 :
 0
 ,
- 
+
 "task"
 :
 ""
 ,
- 
+
 "file"
 :
 ""
 ,
- 
+
 "fileofs"
 :
 0
- 
+
 },
 
- 
+
 {
- 
+
 "enable"
 :
 1
 ,
- 
+
 "addr"
 :
 "0xE000"
 ,
- 
+
 "size"
 :
 "0x2000"
 ,
- 
+
 "type"
 :
 "PHYSICAL"
 ,
 
- 
+
 "bank"
 :
 0
 ,
- 
+
 "tcycwait"
 :
 0
 ,
- 
+
 "tcycsync"
 :
 0
 ,
- 
+
 "task"
 :
 ""
 ,
- 
+
 "file"
 :
 ""
 ,
- 
+
 "fileofs"
 :
 0
- 
+
 }
 
- 
+
 ],
 
- 
+
 "io"
 :
- 
+
 [
 
- 
+
 {
- 
+
 "enable"
 :
 1
 ,
- 
+
 "addr"
 :
 "0xE0"
 ,
- 
+
 "size"
 :
 "0x08"
 ,
- 
+
 "type"
 :
 "FUNC"
 ,
- 
+
 "func"
 :
 "mz700_io"
- 
+
 },
 
- 
+
 {
- 
+
 "enable"
 :
 1
 ,
- 
+
 "addr"
 :
 "0xD8"
 ,
- 
+
 "size"
 :
 "0x04"
 ,
- 
+
 "type"
 :
 "FUNC"
 ,
- 
+
 "func"
 :
 "wd1773_io"
- 
+
 }
 
- 
+
 ],
 
- 
+
 "drivers"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "enable"
 :
 1
 ,
- 
+
 "name"
 :
 "MZ700"
 ,
- 
+
 "type"
 :
 "PHYSICAL"
 ,
 
- 
+
 "if"
 :
- 
+
 [{
- 
+
 "enable"
 :
 1
 ,
- 
+
 "name"
 :
 "main"
 ,
- 
+
 "type"
 :
 "PHYSICAL"
 ,
 
- 
+
 "rom"
 :[],
- 
+
 "addrmap"
 :[],
- 
+
 "iomap"
 :[],
- 
+
 "param"
 :[]
- 
+
 }]
 
- 
+
 },
 
- 
+
 {
 
- 
+
 "enable"
 :
 1
 ,
- 
+
 "name"
 :
 "MZ-1E05"
 ,
- 
+
 "type"
 :
 "PHYSICAL"
 ,
 
- 
+
 "if"
 :
- 
+
 [{
- 
+
 "enable"
 :
 1
 ,
- 
+
 "name"
 :
 "fdc0"
 ,
- 
+
 "type"
 :
 "PHYSICAL"
 ,
 
- 
+
 "rom"
 :[],
- 
+
 "addrmap"
 :[],
- 
+
 "iomap"
 :[],
 
- 
+
 "param"
 :[{
- 
+
 "enable"
 :
 1
 ,
- 
+
 "file"
 :
 "/DSK/MZ700/disk0.dsk"
- 
-}]
- 
+
 }]
 
- 
+}]
+
+
 }
 
- 
+
 ]
 
- 
+
 }
 
- 
+
 ]
 
- 
+
 }
 
 }
 
 ## Web Interface
 
-The ESP32 co-processor hosts a web management interface built with Bootstrap 4. Connect to the picoZ80's WiFi network (or configure client mode to join your existing network) and navigate to 
+The ESP32 co-processor hosts a web management interface built with Bootstrap 4. Connect to the picoZ80's WiFi network (or configure client mode to join your existing network) and navigate to
 http://<device-ip>/
- — by default 
+ — by default
 http://192.168.4.1/
  in Access Point mode.
 
@@ -2887,17 +2887,17 @@ Two dropdown menus in the top-right navbar are available on every page:
 
 Config Editor (config.htm)
 
-The Configuration Editor page gives full editting control over the jSON configuration file. 
+The Configuration Editor page gives full editting control over the jSON configuration file.
 Change the configuration using the wysiwyg editor, save as needed and click Apply to reprocess the
 configuration.
 
 The SD card keeps automatic numbered backups of every saved configuration (
 config.json;1
-, 
+,
 
 config.json;2
-, … with the highest number being the most recent), so it is always possible to roll back to a 
-previous working configuration. Edited configurations are saved back to the SD card; clicking Apply or a "Reload" menu action 
+, … with the highest number being the most recent), so it is always possible to roll back to a
+previous working configuration. Edited configurations are saved back to the SD card; clicking Apply or a "Reload" menu action
 then sends a reload command to the RP2350 over the ESP32–RP2350 UART, causing the RP2350 to re-parse and re-apply the new configuration
 and causes the ESP32 to parse and reload it's configuration.
 
@@ -2908,15 +2908,15 @@ on the SD card.
 
 It is intended for general SD card maintenance: uploading ROM images, floppy disk images (DSK), QuickDisk images (QD), RAM disk images, and web filesystem updates without needing to remove the card.
 
-Each entry has action buttons to copy, delete, download, or edit text files, and a 
+Each entry has action buttons to copy, delete, download, or edit text files, and a
 Select File
- upload button at the top allows new files to be transferred from the PC. Directory navigation allows descending into subdirectories such as 
+ upload button at the top allows new files to be transferred from the PC. Directory navigation allows descending into subdirectories such as
 roms/
-, 
+,
 dsk/
-, 
+,
 qd/
-, and 
+, and
 ram/
 .
 
@@ -2934,9 +2934,9 @@ The Persona page configures the active machine personality independently for eac
 * MZ-1500— Sharp MZ-1500 with QuickDisk and optional floppy.
 * MZ-2000,MZ-2200,MZ-2500— later Sharp MZ series with high-resolution video and extended memory.
 
-Selecting a persona and clicking 
+Selecting a persona and clicking
 Select Personae
- writes the corresponding pre-built 
+ writes the corresponding pre-built
 config.json
  to the SD card (backing up the current file first) and triggers a configuration reload. Because each firmware partition can hold a different persona, the board can be switched between, for example, an MZ-700 personality on partition 1 and an MZ-80A personality on partition 2 without any SD card editing.
 
@@ -2965,7 +2965,7 @@ The WiFi Manager configures how the picoZ80 connects to a network. The top panel
 * SSID and Password- the name and passphrase of the network to join (client mode) or to broadcast (AP mode).
 * DHCP Mode-Enabled: the board requests an address from the network's DHCP server.Disabled: use a static IP, netmask, and gateway as entered in the fields below. A fixed IP is recommended so that the web interface address is always predictable.
 
-Settings are saved to the ESP32's NVS (non-volatile storage) by clicking 
+Settings are saved to the ESP32's NVS (non-volatile storage) by clicking
 Save
  and take effect on the next reboot.
 
@@ -3075,7 +3075,7 @@ No commercial use permitted without express written permission.
 
 The picoZ80 hardware design (schematics, PCB layout, KiCad files), firmware, and all associated software are made available for personal, educational, and non-commercial use only. No part of this design — including but not limited to the PCB artwork, bill of materials, firmware binaries, source code, or documentation — may be used, reproduced, manufactured, sold, or incorporated into any commercial product or service without the express written permission of the author (Philip D. Smart).
 
-To request a commercial licence or discuss permitted uses, please contact the author via the 
+To request a commercial licence or discuss permitted uses, please contact the author via the
 eaw.app
  website.
 
@@ -3122,9 +3122,9 @@ Apache License 2.0
 Bootstrap 4 (web interface)
 MIT License
 
-In short: the firmware and software you build from this project's source code are open-source under the GPL v3; the hardware designs and documentation are licensed under CC BY-NC-SA 4.0 (non-commercial use only — commercial licensing available on request); third-party libraries retain their own licences as listed above. See the 
+In short: the firmware and software you build from this project's source code are open-source under the GPL v3; the hardware designs and documentation are licensed under CC BY-NC-SA 4.0 (non-commercial use only — commercial licensing available on request); third-party libraries retain their own licences as listed above. See the
 LICENSE
- and 
+ and
 NOTICE
  files in the repository for full details.
 
@@ -3134,45 +3134,45 @@ Copyright © 2019–2026 Philip Smart. All rights reserved.
 
 Hardware Designs — CC BY-NC-SA 4.0
 
-All hardware designs (KiCad schematics, PCB layouts, Gerber fabrication files, bills of materials) are licensed under the 
+All hardware designs (KiCad schematics, PCB layouts, Gerber fabrication files, bills of materials) are licensed under the
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
-. You are free to share and adapt the designs for 
+. You are free to share and adapt the designs for
 non-commercial purposes only
-, provided you give appropriate credit and distribute any modifications under the same licence. 
+, provided you give appropriate credit and distribute any modifications under the same licence.
 Commercial manufacture or sale requires a separate licence
- — please contact 
+ — please contact
 info@eaw.app
 .
 
 Firmware & Software — GNU GPL v3
 
-The firmware and software source code are free software under the 
+The firmware and software source code are free software under the
 GNU General Public License v3
 . You may redistribute and modify the code under the GPL v3 terms. Any distributed modifications must also be licensed under GPL v3 with source code made available.
 
 Trademark & Attribution
 
-The names 
+The names
 picoZ80
-, 
+,
 pico6502
-, and 
+, and
 engineers@work
- are trademarks of Philip Smart. You may not use these names to promote derivative products without written permission. You may not remove or alter copyright notices, author attribution, or boot/splash screen credits. Re-branding this project and presenting it as your own work is expressly prohibited. See the 
+ are trademarks of Philip Smart. You may not use these names to promote derivative products without written permission. You may not remove or alter copyright notices, author attribution, or boot/splash screen credits. Re-branding this project and presenting it as your own work is expressly prohibited. See the
 NOTICE
  file in the repository for full details.
 
 Commercial Licensing
 
-If you are a manufacturer or distributor interested in producing picoZ80 or pico6502 boards for commercial sale, please contact: 
+If you are a manufacturer or distributor interested in producing picoZ80 or pico6502 boards for commercial sale, please contact:
 info@eaw.app
 . Personal, educational, and hobbyist/club use is always permitted under the open-source licences above.
 
-The full licence texts are included in the repository as 
+The full licence texts are included in the repository as
 LICENSE
-, 
+,
 LICENSE-HARDWARE.txt
-, and 
+, and
 LICENSE-SOFTWARE.txt
 .
 
@@ -3180,11 +3180,11 @@ LICENSE-SOFTWARE.txt
 
 This device incorporates an ESP32-S3-PICO-1 wireless module that transmits in the 2.4 GHz ISM band, making it an intentional radiator under radio-frequency regulations worldwide (including FCC Part 15 Subpart C in the United States, and the Radio Equipment Directive 2014/53/EU in the European Union).
 
-Although the ESP32-S3-PICO-1 module itself carries pre-existing regulatory certifications (FCC, CE, and others), those module-level certifications 
+Although the ESP32-S3-PICO-1 module itself carries pre-existing regulatory certifications (FCC, CE, and others), those module-level certifications
 do not automatically extend to a finished product
- that incorporates the module. The pre-certified module exemption permits 
+ that incorporates the module. The pre-certified module exemption permits
 individual hobbyists
- to build a limited number of devices for 
+ to build a limited number of devices for
 personal, experimental, or educational use
  without obtaining separate equipment authorisation.
 

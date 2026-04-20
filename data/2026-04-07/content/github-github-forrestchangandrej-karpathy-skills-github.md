@@ -11,7 +11,7 @@ description: Contribute to forrestchang/andrej-karpathy-skills development by cr
 
 forrestchang
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork545
 * Star7.7k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -211,13 +211,13 @@ curl -o CLAUDE.md https://raw.githubusercontent.com/forrestchang/andrej-karpathy
 Existing project (append):
 
 echo
- 
+
 "
 "
- 
+
 >>
  CLAUDE.md
-curl https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/CLAUDE.md 
+curl https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/CLAUDE.md
 >>
  CLAUDE.md
 
@@ -244,7 +244,7 @@ These guidelines are designed to be merged with project-specific instructions. A
 
 For project-specific rules, add sections like:
 
-## 
+##
 Project-Specific Guidelines
 
 -
@@ -254,7 +254,7 @@ Project-Specific Guidelines
  All API endpoints must have tests
 
 -
- Follow the existing error handling patterns in 
+ Follow the existing error handling patterns in
 `
 src/utils/errors.ts
 `
@@ -272,49 +272,49 @@ MIT
 ## About
 
  No description, website, or topics provided.
- 
+
 
 ### Resources
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 7.7k
 
  stars
- 
+
 
 ### Watchers
 
 71
 
  watching
- 
+
 
 ### Forks
 
 545
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -332,9 +332,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 

@@ -11,7 +11,7 @@ description: MCP for xiaohongshu.com. Contribute to xpzouying/xiaohongshu-mcp de
 
 xpzouying
 
- 
+
 
 /
 
@@ -32,35 +32,35 @@ www.haha.ai/xiaohongshu-mcp
 
  stars
 
- 
+
 
 1.5k
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # xpzouying/xiaohongshu-mcp

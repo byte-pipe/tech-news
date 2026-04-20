@@ -15,7 +15,7 @@ tags:
 
 austin-weeks
 
- 
+
 
 /
 
@@ -28,9 +28,9 @@ Public
 * Fork3
 * Star323
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -124,19 +124,19 @@ Within our site, we'll include a few hidden links leading to/bots.
 
 <
 a
- 
+
 href
 ="
 /bots
-" 
+"
 style
 ="
 display: none;
-" 
+"
 aria-hidden
 ="
 true
-" 
+"
 tabindex
 ="
 1
@@ -156,18 +156,18 @@ Thestyle="display: none;",aria-hidden="true", andtabindex="1"attributes ensure l
 Since our hidden links point to/bots, we'll configure this path to proxyMiasma. Let's assume we're runningMiasmaon port9855.
 
 location
- 
+
 ~
  ^/bots
 (
 $|/.*
 )
-$ 
+$
 {
 
- 
+
 proxy_pass
- 
+
 http
 ://localhost:
 9855
@@ -183,7 +183,7 @@ Lastly, we'll startMiasmaand specify/botsas the link prefix. This instructsMiasm
 
 We'll also limit the number of max in-flight connections to 50. At 50 connections, we can expect 50-60 MB peak memory usage. Note that any requests exceeding this limit will immediately receive a429response rather than being added to a queue.
 
-miasma --link-prefix 
+miasma --link-prefix
 '
 /bots
 '
@@ -231,9 +231,9 @@ max-in-flight
 
 500
 
-Maximum number of allowable in-flight requests. Requests received when in flight is exceeded will receive a 
+Maximum number of allowable in-flight requests. Requests received when in flight is exceeded will receive a
 429
- response. 
+ response.
 Miasma's
  memory usage scales directly with the number of in-flight requests - set this to a lower value if memory usage is a concern.
 
@@ -241,9 +241,9 @@ link-prefix
 
 /
 
-Prefix for self-directing links. This should be the path where you host 
+Prefix for self-directing links. This should be the path where you host
 Miasma
-, e.g. 
+, e.g.
 /bots
 .
 
@@ -257,9 +257,9 @@ force-gzip
 
 false
 
-Always gzip responses regardless of the client's 
+Always gzip responses regardless of the client's
 Accept-Encoding
- header. 
+ header.
 Forcing compression can help reduce egress costs.
 
 poison-source
@@ -292,48 +292,48 @@ Trap AI web scrapers in an endless poison pit.
 
  Readme
 
- 
+
 
 ### License
 
  GPL-3.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 323
 
  stars
- 
+
 
 ### Watchers
 
 1
 
  watching
- 
+
 
 ### Forks
 
 3
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases3
 
@@ -341,11 +341,11 @@ v0.1.18
 
  Latest
 
- 
+
 
 Mar 29, 2026
 
- 
+
 
 + 2 releases
 
@@ -355,20 +355,20 @@ Mar 29, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * ko-fi.com/austinweeks
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors1
 

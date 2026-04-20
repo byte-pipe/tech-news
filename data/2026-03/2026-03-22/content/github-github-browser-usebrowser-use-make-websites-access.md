@@ -11,7 +11,7 @@ description: 🌐 Make websites accessible for AI agents. Automate tasks online 
 
 browser-use
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork9.6k
 * Star82k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -152,9 +152,9 @@ View all files
 
 1. Create environment and install Browser-Use withuv(Python>=3.11):
 
-uv init 
+uv init
 &&
- uv add browser-use 
+ uv add browser-use
 &&
  uv sync
 
@@ -171,15 +171,15 @@ BROWSER_USE_API_KEY=your-key
 3. Run your first agent:
 
 from
- 
+
 browser_use
- 
+
 import
- 
+
 Agent
-, 
+,
 Browser
-, 
+,
 ChatBrowserUse
 
 # from browser_use import ChatGoogle # ChatGoogle(model='gemini-3-flash-preview')
@@ -187,73 +187,73 @@ ChatBrowserUse
 # from browser_use import ChatAnthropic # ChatAnthropic(model='claude-sonnet-4-6')
 
 import
- 
+
 asyncio
 
 async
- 
+
 def
- 
+
 main
 ():
- 
+
 browser
- 
+
 =
- 
+
 Browser
 (
- 
+
 # use_cloud=True, # Use a stealth browser on Browser Use Cloud
 
  )
 
- 
+
 agent
- 
+
 =
- 
+
 Agent
 (
- 
+
 task
 =
 "Find the number of stars of the browser-use repo"
 ,
- 
+
 llm
 =
 ChatBrowserUse
 (),
- 
+
 # llm=ChatGoogle(model='gemini-3-flash-preview'),
 
- 
+
 # llm=ChatAnthropic(model='claude-sonnet-4-6'),
 
- 
+
 browser
 =
 browser
 ,
  )
- 
+
 await
- 
+
 agent
 .
 run
 ()
 
 if
- 
+
 __name__
- 
+
 ==
- 
+
 "__main__"
 :
- 
+
 asyncio
 .
 run
@@ -309,33 +309,33 @@ uvx browser-use init --template default --output my_agent.py
 
 Fast, persistent browser automation from the command line:
 
-browser-use open https://example.com 
+browser-use open https://example.com
 #
  Navigate to URL
 
-browser-use state 
+browser-use state
 #
  See clickable elements
 
-browser-use click 5 
+browser-use click 5
 #
  Click element by index
 
-browser-use 
+browser-use
 type
- 
+
 "
 Hello
 "
- 
+
 #
  Type text
 
-browser-use screenshot page.png 
+browser-use screenshot page.png
 #
  Take screenshot
 
-browser-use close 
+browser-use close
 #
  Close browser
 
@@ -345,10 +345,10 @@ The CLI keeps the browser running between commands for fast iteration. SeeCLI do
 
 ForClaude Code, install the skill to enable AI-assisted browser automation:
 
-mkdir -p 
+mkdir -p
 ~
 /.claude/skills/browser-use
-curl -o 
+curl -o
 ~
 /.claude/skills/browser-use/SKILL.md \
  https://raw.githubusercontent.com/browser-use/browser-use/main/skills/browser-use/SKILL.md
@@ -382,17 +382,17 @@ Can I use custom tools with the agent?
 Yes! You can add custom tools to extend the agent's capabilities:
 
 from
- 
+
 browser_use
- 
+
 import
- 
+
 Tools
 
 tools
- 
+
 =
- 
+
 Tools
 ()
 
@@ -407,48 +407,48 @@ description
 )
 
 def
- 
+
 custom_tool
 (
 param
-: 
+:
 str
-) 
+)
 ->
- 
+
 str
 :
- 
+
 return
- 
-f"Result: 
+
+f"Result:
 {
 param
 }
 "
 
 agent
- 
+
 =
- 
+
 Agent
 (
- 
+
 task
 =
 "Your task"
 ,
- 
+
 llm
 =
 llm
 ,
- 
+
 browser
 =
 browser
 ,
- 
+
 tools
 =
 tools
@@ -493,7 +493,7 @@ Tell your computer what to do, and it gets it done.
 
    
 
- Made with ❤️ in Zurich and San Francisco 
+ Made with ❤️ in Zurich and San Francisco
 
 ## About
 
@@ -521,61 +521,61 @@ browser-use.com
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 82k
 
  stars
- 
+
 
 ### Watchers
 
 412
 
  watching
- 
+
 
 ### Forks
 
 9.6k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases120
 
@@ -583,11 +583,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Mar 20, 2026
 
- 
+
 
 + 119 releases
 
@@ -603,14 +603,14 @@ Mar 20, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Used by2.4k
 
  + 2,376
- 
+
 
 ## Contributors
 
@@ -618,9 +618,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

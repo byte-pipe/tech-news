@@ -13,7 +13,7 @@ tags:
 
 by Computerworld staff
 
- 
+
 
 # Adobe Summit 2026: How Adobe hopes to redesign marketing and creativity with AI
 
@@ -21,13 +21,13 @@ news
 
 Apr 13, 2026
 4 mins
- 
+
 
 ## Follow our ongoing coverage of Adobe Summit 2026 and learn about the latest innovations in marketing and creative software and cloud services.
 
- 
 
-							Credit: 															Foundry / Peter Sayer													
+
+							Credit: 															Foundry / Peter Sayer
 
 Adobe Summitserves as a platform for Adobe to introduce new services, capabilities, and enhancements to its portfolio of creative and marketing software and services. The 2026 edition kicks off live in Las Vegas on April 20, with a virtual event running alongside it.
 
@@ -74,17 +74,17 @@ Productivity Software
 Marketing Software
 Enterprise Applications
 Vendors and Providers
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
@@ -98,12 +98,12 @@ Podcasts
 Videos
 
 tip
- 
- 
+
+
 
 ### 20 tricks for more efficient Android messaging
 
- 
+
 By JR Raphael
 Apr 17, 2026
 26 mins
@@ -113,12 +113,12 @@ Google
 Smartphones
 
 opinion
- 
- 
+
+
 
 ### AI is finally delivering productivity — for remote employees
 
- 
+
 By Mike Elgan
 Apr 17, 2026
 6 mins
@@ -128,12 +128,12 @@ Generative AI
 Hybrid and Remote Work
 
 news
- 
- 
+
+
 
 ### Anthropic’s latest model is deliberately less powerful than Mythos (and that’s the point)
 
- 
+
 By Taryn Plumb
 Apr 16, 2026
 6 mins
@@ -143,12 +143,12 @@ Code Security
 Security
 
 podcast
- 
- 
+
+
 
 ### OpenAI Proposals, Iran Cyber Threat, PC Sales Rise | Ep. 70
 
- 
+
 By Arnold Davick
 Apr 14, 2026
 2 mins
@@ -156,12 +156,12 @@ Apr 14, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### AI Data Center Heat, Chrome Zero-Day, AWS Attacks | Ep.69
 
- 
+
 By Arnold Davick
 Apr 10, 2026
 2 mins
@@ -169,12 +169,12 @@ Apr 10, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### Anthropic Mythos Leak, AWS Relief, WhatsApp Malware Warning | Ep.68
 
- 
+
 By Arnold Davick
 Apr 10, 2026
 2 mins
@@ -182,12 +182,12 @@ Apr 10, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### How AI's Data Explosion is Reshaping Enterprise Storage Strategies
 
- 
+
 Apr 15, 2026
 48 mins
 
@@ -196,12 +196,12 @@ Enterprise Storage
 Generative AI
 
 video
- 
- 
+
+
 
 ### OpenAI Proposals, Iran Cyber Threat, PC Sales Rise | Ep. 70
 
- 
+
 By Arnold Davick
 Apr 14, 2026
 2 mins
@@ -209,12 +209,12 @@ Apr 14, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### AI Data Center Heat, Chrome Zero-Day, AWS Attacks | Ep.69
 
- 
+
 By Arnold Davick
 Apr 10, 2026
 2 mins

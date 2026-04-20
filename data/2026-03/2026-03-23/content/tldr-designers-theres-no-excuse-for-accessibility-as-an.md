@@ -42,9 +42,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -62,7 +62,7 @@ As a heavily visual medium, graphic design is sometimes guilty of treating acces
 
 To understand the importance of accessible design, I caught up with Something Familiar's creative director, Kane Hawkins, to discuss what he learneddesigning a brand identity for Onvero's blind CEO, Sandi Wassmer. From unlearning baked-in habits to embracing the value of conversation, inclusive design is more accessible than we might think, but it starts with a change in attitude.
 
- 
+
 
 (Image credit: Something Familiar)
 
@@ -70,7 +70,7 @@ To understand the importance of accessible design, I caught up with Something Fa
 
 Design is one of many ways that shape how people experience the world – and if we're not designing for everyone, you could argue we’re effectively designing against someone. Inclusive design should question your assumptions, and that always leads to better experiences for all. What [Onvero] has shown us is that inclusion isn’t a niche consideration, but really the standard we should all be working to.
 
- 
+
 
 (Image credit: Something Familiar)
 
@@ -80,7 +80,7 @@ Habit, assumption, and a tendency to believe that accessible design results in b
 
 There's also a structural problem: accessibility checks tend to happen at the end of a project, making it costly and difficult to backtrack and make changes, since the design is largely locked in. Until studios build accessibility into their briefs and kick-off conversations rather than their QA process, it'll keep being treated as a bolt-on. Onvero is proof that the opposite approach produces strategically and creatively sound work.
 
- 
+
 
 (Image credit: Onvero/Something Familiar)
 
@@ -90,7 +90,7 @@ Not relying on colour alone to communicate meaning. It sounds simple, but it's o
 
 From a broader brand perspective, we still see value in the classic test: if your design were printed in black and white, would the meaning still hold? If yes, you're probably in good shape. If not, colour is doing work it shouldn't have to do alone.
 
- 
+
 
 (Image credit: Something Familiar)
 

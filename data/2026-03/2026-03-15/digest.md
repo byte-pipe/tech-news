@@ -5,10 +5,10 @@ generated_at: '2026-03-15T06:03:06.997113'
 ---
 
 ## Executive Summary
-- Wired headphones are staging a strong comeback, driven by sound‑quality, cultural backlash against Bluetooth, and a broader retro‑tech trend.  
-- AT&T’s FirstNet program faced another billing nightmare, charging a user $2 per megabyte for a few gigabytes of data, highlighting systemic billing flaws in a network marketed as “hassle‑free.”  
-- Adobe agreed to a $75 million civil penalty and an equivalent amount in free services after the DOJ accused it of hidden cancellation fees.  
-- A MIT Sloan analysis warns that deteriorating U.S. economic data collection threatens policy and investment decisions, while a Harvard‑MIT study underscores the need for private‑sector data safeguards.  
+- Wired headphones are staging a strong comeback, driven by sound‑quality, cultural backlash against Bluetooth, and a broader retro‑tech trend.
+- AT&T’s FirstNet program faced another billing nightmare, charging a user $2 per megabyte for a few gigabytes of data, highlighting systemic billing flaws in a network marketed as “hassle‑free.”
+- Adobe agreed to a $75 million civil penalty and an equivalent amount in free services after the DOJ accused it of hidden cancellation fees.
+- A MIT Sloan analysis warns that deteriorating U.S. economic data collection threatens policy and investment decisions, while a Harvard‑MIT study underscores the need for private‑sector data safeguards.
 - In the hardware arena, the open‑source Baochip‑1x RISC‑V board brings an MMU to low‑cost microcontrollers, and a security audit uncovered 39 exposed Algolia admin keys across open‑source documentation sites.
 
 ---
@@ -78,6 +78,6 @@ Renowned German philosopher Jürgen Habermas died at 96; his seminal works on th
 ---
 
 ## Notable Mentions
-- 5 great indie games from GDC 2026 | The Verge  
-- A Scavengers Reign artist explores contemplative sci‑fi in new comics | The Verge  
+- 5 great indie games from GDC 2026 | The Verge
+- A Scavengers Reign artist explores contemplative sci‑fi in new comics | The Verge
 - Apple cuts China App Store commission fees after government pressure | The Guardian

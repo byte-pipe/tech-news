@@ -15,56 +15,56 @@ tags:
 
 # Google AI Edge Gallery
 
- 
+
 
 Productiviteit
 
- 
+
 
 Alleen voor iPhone
 
- 
+
 
 Gratis · Ontworpen voor iPhone. Niet geverifieerd voor macOS.
 
- 
- 
- 
- Deel 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+ Deel
+
+
+
+
+
+
+
 * 1 beoordeling5,0
 * Leeftijd13+jaar
 * CategorieProductiviteit
 * OntwikkelaarGoogle
 * TaalENEngels
 * Grootte35,4MB
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 iPhone
- 
- 
- 
- 
+
+
+
+
 
 AI Edge Gallery is the premier destination for running the world’s most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast.
 
@@ -89,50 +89,50 @@ Check out the source code on GitHub:
 https://github.com/google-ai-edge/gallery
 Note: This app is in active development. Performance is dependent on your device's hardware (CPU/GPU). For support or feedback, contact us at google-ai-edge-gallery-android-feedback@google.com.… meer
 
- 
- 
- 
- 
+
+
+
+
 
 ## Evenementen
 
- 
- 
- 
- 
- 
+
+
+
+
+
 * …GROTE UPDATE### Gemma 4 is here!Experience Gemma 4. Run the latest high-performance models fully offline with new Thinking Mode and Agent Skills
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 
 ## Beoordelingen en recensies
 
- 
- 
+
+
 * 5,0van de 51 beoordelingen
- 
- 
- 
- 
+
+
+
+
 
 ## Nieuw
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 # Versiegeschiedenis
 
- 
- 
+
+
 * - Introducing Gemma 4: Experience the latest high-performance models running fully offline.
 - Agent Skills: Extend LLMs with modular tools like display interactive maps and search Wikipedia. Supporting custom skill loading from the community.
 - Thinking Mode in AI Chat: Visualize the model’s reasoning process for deeper transparency. (Note: Currently exclusive to supported models, including the Gemma 4 family).
@@ -141,38 +141,38 @@ Note: This app is in active development. Performance is dependent on your device
 - Agent Skills: Extend LLMs with modular tools like display interactive maps and search Wikipedia. Supporting custom skill loading from the community.
 - Thinking Mode in AI Chat: Visualize the model’s reasoning process for deeper transparency. (Note: Currently exclusive to supported models, including the Gemma 4 family).1.0.13 dgn geleden
 * 1.026 feb
- 
- 
- 
+
+
+
 
 - Introducing Gemma 4: Experience the latest high-performance models running fully offline.
 - Agent Skills: Extend LLMs with modular tools like display interactive maps and search Wikipedia. Supporting custom skill loading from the community.
 - Thinking Mode in AI Chat: Visualize the model’s reasoning process for deeper transparency. (Note: Currently exclusive to supported models, including the Gemma 4 family).
 - Bug fixes.… meer
 
- 
+
 Versie 1.0.2
- 
+
 2 dgn geleden
- 
- 
- 
- 
- 
+
+
+
+
+
 
 ## Privacy van app
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 # Privacy van app
 
- 
- 
+
+
 * ID’sApparaat-ID
 * Apparaat-ID
 * DiagnostiekPrestatie­gegevensOverige diagnostische gegevens
@@ -193,16 +193,16 @@ Versie 1.0.2
 * Crash-gegevens
 * DiagnostiekCrash-gegevens
 * Crash-gegevens
- 
- 
- 
+
+
+
 
 De ontwikkelaar,Google, heeft aangegeven dat volgens het privacybeleid van de app gegevens kunnen worden beheerd zoals hieronder beschreven. Ga voor meer informatie naar hetprivacybeleid van de ontwikkelaar.
 
- 
- 
- 
- 
+
+
+
+
 * ### Aan jou gekoppelde gegevensDe volgende gegevens worden mogelijk verzameld en gekoppeld aan je identiteit:ID’sDiagnostiekOverige gegevens
 * ID’s
 * Diagnostiek
@@ -211,102 +211,102 @@ De ontwikkelaar,Google, heeft aangegeven dat volgens het privacybeleid van de ap
 * Locatie
 * Gebruiks­gegevens
 * Diagnostiek
- 
- 
- 
+
+
+
 
 Toepassing van het privacybeleid kan variëren op basis van bijvoorbeeld de functies die je gebruikt of je leeftijd.Meer informatie
 
- 
- 
- 
- 
+
+
+
+
 
 ## Toegankelijkheid
 
- 
- 
- 
+
+
+
 
 De ontwikkelaar heeft nog niet aangegeven welke toegankelijkheidsfuncties deze app ondersteunt.Lees meer
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 ## Informatie
 
- 
- 
+
+
 Grootte
- 
+
 * 35,4 MB
- 
+
 Categorie
- 
+
 * Productiviteit
- 
+
 Compatibiliteit
- 
-Vereist iOS 17.0 of nieuwer. 
- 
+
+Vereist iOS 17.0 of nieuwer.
+
 * iPhoneVereist iOS 17.0 of nieuwer.
 * MacVereist een Mac met macOS 14.0 of nieuwer én Apple M1-chip of nieuwer.
 * Apple VisionVereist visionOS 1.0 of nieuwer.
- 
- 
+
+
 Talen
- 
+
 * Engels
- 
+
 Leeftijd
- 
-13+ 
- 
+
+13+
+
 * 13+
 * Lees meer
 * Niet vaakVloeken of grove humorHorror- en angstthema’sInformatie over medische behandelingenGebruik of verwijzingen naar alcohol, tabak of drugs
- 
- 
+
+
 Provider
- 
-Google LLC 
- 
+
+Google LLC
+
 * Google LLC heeft zichzelf geïdentificeerd als een handelaar van deze app en heeft bevestigd dat dit product of deze dienst voldoet aan de wetgeving van de Europese Unie.
 * Adres1600 Amphitheatre ParkwayMountain View California 94043Verenigde Staten
 * Telefoonnummer+353 14361000
 * E-mailadreseea-support@google.com
- 
- 
+
+
 Copyright
- 
+
 * © 2025 Google Inc.
- 
- 
- 
- 
- 
-Website ontwikkelaar 
- 
- 
-Privacybeleid 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+Website ontwikkelaar
+
+
+Privacybeleid
+
+
+
+
+
+
 
 ## Meer van Google
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 * ### Google MapsPlaatsen, navigatie en verkeerBekijk
 * ### YouTubeVideo's, muziek en livestreamsBekijk
 * ### GoogleZoeken met AIBekijk

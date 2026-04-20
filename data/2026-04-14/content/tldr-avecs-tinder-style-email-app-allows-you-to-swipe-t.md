@@ -30,7 +30,7 @@ While the card-based interface is Avec’s unique feature, it also offers a plai
 
 The app was founded byJonathan Unikowski, who previously worked at Replit in a product engineering role. Unikowski said he was thinking about building tools that he would use every day. He explored ideas like building a browser but eventually ended up with email.
 
- 
+
 
 Techcrunch event
 
@@ -68,20 +68,20 @@ The company has raised $8.4 million in funding to date from investors, including
 Topics
 
 Apps
-, 
+,
 email
-, 
+,
 iOS
-, 
+,
 lightspeed venture partners
- 
 
-			Ivan Mehta	
+
+			Ivan Mehta
 
 Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.
 
 You can contact or verify outreach from Ivan by emailingim@ivanmehta.comor via encrypted message at ivan.42 on Signal.
 
- 
+
 
 View Bio

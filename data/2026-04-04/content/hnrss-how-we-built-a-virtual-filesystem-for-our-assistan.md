@@ -99,42 +99,42 @@ ChromaFs needs to know what files exist before the agent runs a single command. 
 {
 
  "auth/oauth"
-: { 
+: {
 "isPublic"
-: 
+:
 true
-, 
+,
 "groups"
 : [] },
 
  "auth/api-keys"
-: { 
+: {
 "isPublic"
-: 
+:
 true
-, 
+,
 "groups"
 : [] },
 
  "internal/billing"
-: { 
+: {
 "isPublic"
-: 
+:
 false
-, 
+,
 "groups"
 : [
 "admin"
-, 
+,
 "billing"
 ] },
 
  "api-reference/endpoints/users"
-: { 
+: {
 "isPublic"
-: 
+:
 true
-, 
+,
 "groups"
 : [] }
 
@@ -153,7 +153,7 @@ In a real sandbox, this level of per-user access control would require managing 
 Public user
 Billing team
 Admin
-Groups: 
+Groups:
 none
 Path
 Access
@@ -208,7 +208,7 @@ Chroma acts as acoarse filterthat identifies which filesmightcontain the hit, an
 grep -ri "access_token"
 grep -ri "webhook"
 grep -ri "billing"
-1. Coarse filter 
+1. Coarse filter
 (Chroma)
 /auth/oauth.mdx
 /auth/api-keys.mdx
@@ -221,18 +221,18 @@ grep -ri "billing"
 6
  files match
 →
-2. Fine filter 
+2. Fine filter
 (in-memory regex)
 /auth/oauth.mdx
-Use the 
+Use the
 access_token
  from the OAuth flow to authenticate API requests.
 /api-reference/users.mdx
-The GET /users endpoint returns a list of users. Requires 
+The GET /users endpoint returns a list of users. Requires
 access_token
  in the Authorization header.
 /guides/quickstart.mdx
-Get started by generating an 
+Get started by generating an
 access_token
  using the OAuth guide.
 

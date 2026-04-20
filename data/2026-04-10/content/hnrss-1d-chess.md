@@ -33,7 +33,7 @@ Can move 2 squares forward or backward. (jumping over any pieces in the way)
 
 Can move in a straight line in any direction.
 
-Win by checkmating the enemy king. This occurs when the enemy king is in check (under attack by one of your pieces) 
+Win by checkmating the enemy king. This occurs when the enemy king is in check (under attack by one of your pieces)
 			and there are no legal moves for the opponent to get their king out of check.
 
 Careful! A draw can occur if:

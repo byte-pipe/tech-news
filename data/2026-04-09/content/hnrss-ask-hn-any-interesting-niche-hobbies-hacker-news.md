@@ -14,33 +14,33 @@ tags:
 
 Hacker News
 new
- | 
+ |
 past
- | 
+ |
 comments
- | 
+ |
 ask
- | 
+ |
 show
- | 
+ |
 jobs
- | 
+ |
 submit
 login
 Ask HN: Any interesting niche hobbies?
 384 points
- by 
+ by
 e-topy
- 
+
 22 hours ago
- 
- | 
+
+ |
 hide
- | 
+ |
 past
- | 
+ |
 favorite
- | 
+ |
 569 comments
 I'm looking for something novel and interesting, that isn't absolutely crowded that I could meaningfully contribute to.
 
@@ -55,12 +55,12 @@ One promising idea is a kind of 'Personal Computer 2', where people try to innov
 help
 
 biotinker
- 
+
 16 hours ago
- 
- | 
+
+ |
 next
- 
+
 [–]
 
 I got myself involved with a nonprofit local group preserving local pioneer era apple trees. They've been DNA testing and cataloging the trees, and had all the info stashed away in google drive and onedrive folders. The founder was looking to step back so they asked me if I wanted to step up as project lead, which I did.
@@ -70,33 +70,33 @@ I took the info and organized it into a nice wiki-style site with maps and descr
 reply
 
 andrewhaupt
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-Thats awesome! I'm doing apple stuff on the other side of the Cascades (Eugene), starting a cidery and trying to find rare varieties to graft. And doing little software projects like 
+Thats awesome! I'm doing apple stuff on the other side of the Cascades (Eugene), starting a cidery and trying to find rare varieties to graft. And doing little software projects like
 https://pomological.art/
 . Would love to get in touch if you want people to propagate these varieties you're finding and would potentially be interested in sharing some scion wood!
 
 reply
 
 biotinker
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Oh cool! I've used pomological.art! Great site!
@@ -106,16 +106,16 @@ I'm in the middle of building out a similar big project that takes a different t
 reply
 
 andrewhaupt
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I love that idea, actually started something similar awhile back but didn't get far and ran out of time/energy. If you need any help/contributions I'd love to pitch in. And sounds great! I'll shoot you an email with my contact info
@@ -123,18 +123,18 @@ I love that idea, actually started something similar awhile back but didn't get 
 reply
 
 joshmarinacci
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You’re in Eugene!? Me too. I’d love to meet up some time to talk about your software over coffee.
@@ -142,16 +142,16 @@ You’re in Eugene!? Me too. I’d love to meet up some time to talk about your 
 reply
 
 Westley_Winks
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 There are tens of us!
@@ -159,18 +159,18 @@ There are tens of us!
 reply
 
 jamiek88
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Small world! I’m doing it on the mid/south Oregon coast! Started with a late neighbors trees and went from there!
@@ -180,35 +180,35 @@ My work and operation is small, limited to residential yards/gardens and particu
 reply
 
 1-more
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Chuck Wendig's 2023 novel 
+Chuck Wendig's 2023 novel
 Black River Orchard
  has an apple historian as one of the protagonists. Lots of talk of scion wood and girdling and colonial era apple varieties. You may find this interesting.
 
 reply
 
 RyJones
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 A friend in Palouse has found several heritage apple trees and has spent at least a decade grafting and working with them. It’s an interesting hobby to watch him experiment with.
@@ -216,16 +216,16 @@ A friend in Palouse has found several heritage apple trees and has spent at leas
 reply
 
 anfractuosity
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 That sounds really cool, how did they do the DNA testing out of interest?
@@ -233,16 +233,16 @@ That sounds really cool, how did they do the DNA testing out of interest?
 reply
 
 biotinker
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 We work with Dr Cameron Peace's lab at WSU. They send us test tubes, we send the tubes back with leaves in them, they run the DNA tests and compare against an apple ID database they've built. We pay ~$50 per test, which is what most of the groups budget goes towards.
@@ -250,16 +250,16 @@ We work with Dr Cameron Peace's lab at WSU. They send us test tubes, we send the
 reply
 
 hatmanstack
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Anyway to petition Washington State to RELEASE the Cosmic Crisps?
@@ -267,16 +267,16 @@ Anyway to petition Washington State to RELEASE the Cosmic Crisps?
 reply
 
 Fomite
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 WSU faculty here. The Cosmic Crisp is under license to Washington state growers for ten years, starting in about 2019, so it will be a few years yet.
@@ -284,14 +284,14 @@ WSU faculty here. The Cosmic Crisp is under license to Washington state growers 
 reply
 
 shivekkhurana
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I started designing my own clothes. The insight was that I spend 80% money on suits that I wear 2 times a year, and the rest was low quality clothing I actually wore.
@@ -301,14 +301,14 @@ I flipped it, and made suits and pants that I could wear everyday.The fast fashi
 reply
 
 trollbridge
- 
+
 18 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's pretty neat, and we should talk. In my household we are currently producing about 75% of our clothing, mostly out of a desire to avoid using fabrics that generate a lot of microplastic waste + observing that newer clothes/fabrics wear out quickly.
@@ -316,16 +316,16 @@ That's pretty neat, and we should talk. In my household we are currently produci
 reply
 
 shivekkhurana
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Would love to talk. My goals are not anchored around sustainability, but I optimise against synthetic fibres.
@@ -335,16 +335,16 @@ My website is shivekkhurana.com. My email is on my github.
 reply
 
 PotassiumHacker
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How did you start out? Was it through local classes?
@@ -352,16 +352,16 @@ How did you start out? Was it through local classes?
 reply
 
 shivekkhurana
- 
+
 12 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 No classes. I was probably hyper aware of how my body reacts to clothing.
@@ -372,16 +372,16 @@ To determine my taste, I looked at various styles of women clothing (on Pinteres
 reply
 
 ribs
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I want to hear more
@@ -389,16 +389,16 @@ I want to hear more
 reply
 
 shivekkhurana
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Fast fashion forces you to dress for the masses. Loose shirts, baggy pants and shallow pockets is not fashion, its cost optimisation for brands.
@@ -408,19 +408,19 @@ I didn't want to dress up like a boy. Me and my friend were in Paris when we got
 reply
 
 knerz
- 
+
 5 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-Alternatively, one can create bespoke patterns. There is a lovely little open source community of pattern designers at 
+Alternatively, one can create bespoke patterns. There is a lovely little open source community of pattern designers at
 https://seamly.io
 
 I got myself a pattern drafting book and started working on shirts and pants. The neat thing is one can design the draft pieces to be completely parametric, so adapting the pattern to different persons is as simple as entering new measurements.
@@ -428,18 +428,18 @@ I got myself a pattern drafting book and started working on shirts and pants. Th
 reply
 
 mastermedo
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Was the talk recorded? I'd love to see it. No pressure if it isn't public.
@@ -447,16 +447,16 @@ Was the talk recorded? I'd love to see it. No pressure if it isn't public.
 reply
 
 shivekkhurana
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 No. I expected 5 people to show up, but there were almost 50.
@@ -466,18 +466,18 @@ I took care of the stage but couldn’t manage operations.
 reply
 
 testycool
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 +1 also very interested
@@ -485,18 +485,18 @@ next
 reply
 
 KellyCriterion
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Put it on Etsy and see what others are willing to pay! :))
@@ -504,16 +504,16 @@ Put it on Etsy and see what others are willing to pay! :))
 reply
 
 shivekkhurana
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I do make clothes for close friends and family, but I don’t intend to make money of it. Playing this game for the game sake.
@@ -521,16 +521,16 @@ I do make clothes for close friends and family, but I don’t intend to make mon
 reply
 
 AussieWog93
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 As someone who has monetized hobbies before, I think it's smart to keep doing things the way you are currently.
@@ -540,18 +540,18 @@ When you have to start optimising things for efficiency, it generally stops bein
 reply
 
 AuthAuth
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 they are customized for his body. if he started catering to a mass audience he'd be creating the exact thing he is avoiding
@@ -559,18 +559,18 @@ they are customized for his body. if he started catering to a mass audience he'd
 reply
 
 csallen
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Have you shared any photos online? Id love to see
@@ -578,16 +578,16 @@ Have you shared any photos online? Id love to see
 reply
 
 shivekkhurana
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 https://shivekkhurana.com/about
@@ -596,16 +596,16 @@ https://shivekkhurana.com/about
 reply
 
 nojs
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 this is super cool, well done
@@ -613,14 +613,14 @@ this is super cool, well done
 reply
 
 unsupp0rted
- 
+
 22 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My hobby is organizing in-person meetups for random people to get together, chat and make friends. Barely structured, if at all. I've found this rewarding and ended up making friends this way.
@@ -630,14 +630,14 @@ You have to accept that 5-15% of the people who would show up to something like 
 reply
 
 cableshaft
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'm on the other side of this, in that I attend a lot of these.
@@ -647,16 +647,16 @@ I made a big effort about 12 years ago to go to a bunch of these (like three mee
 reply
 
 hackrmn
- 
+
 18 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Between the genuine weirdos, the autistic and/or the neuro-divergent, is there anyone left, really? Do the "normies" genuinely exist? Happy-go-lucky, knows a bit about everything but doesn't nerd out on anything, picks up every conversation subject and listens and holds their own in a manner that is just right? I am genuinely curious about the existence of these "superhumans".
@@ -664,16 +664,16 @@ Between the genuine weirdos, the autistic and/or the neuro-divergent, is there a
 reply
 
 munificent
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 There are many many of these socially-skilled normies. But, by virtue of being socially skilled, most have already pretty much filled up their social capacity and don't tend to show up at the kind of venues dedicated to helping under-socialized people meet up.
@@ -681,18 +681,18 @@ There are many many of these socially-skilled normies. But, by virtue of being s
 reply
 
 loloquwowndueo
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Between the genuine weirdos, the autistic and/or the neuro-divergent, is there anyone left, really?
@@ -702,18 +702,18 @@ Heh this has a total “nobody goes there anymore, it’s too crowded” vibe.
 reply
 
 Gigachad
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The "normie" doesn't really exist. Everyone is kind of weird in some aspect, which might not be obvious on a surface level.
@@ -723,18 +723,18 @@ But having gone to a bunch of programming meetups, the majority of people are pe
 reply
 
 joewhale
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 that describes me but i would never say i'm a "superhuman". I feel like i'm a boring glue guy.
@@ -742,18 +742,18 @@ that describes me but i would never say i'm a "superhuman". I feel like i'm a bo
 reply
 
 Havoc
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The OGs in the group tend to be well adjusted normal people. ie the people that started the group
@@ -761,18 +761,18 @@ The OGs in the group tend to be well adjusted normal people. ie the people that 
 reply
 
 itake
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 People new to cities look for community.
@@ -780,18 +780,18 @@ People new to cities look for community.
 reply
 
 xpe
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 While there is often a "normal" (bell-curve fitting) distribution for individual factors, putting them together can be counter-intuitive.
@@ -801,16 +801,16 @@ While there is often a "normal" (bell-curve fitting) distribution for individual
 reply
 
 croemer
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Curious how that character 変 made it in there. Is that a typo for 2?
@@ -818,16 +818,16 @@ Curious how that character 変 made it in there. Is that a typo for 2?
 reply
 
 AussieWog93
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 My first thought was that they were an LLM, but then checking their profile it seems they've been around since 2012 and have a comment expressing that they seem to get accused of being an LLM a lot, and suggesting people don't do that.
@@ -835,16 +835,16 @@ My first thought was that they were an LLM, but then checking their profile it s
 reply
 
 unsupp0rted
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Any sufficiently interesting person eventually gets accused of being an AI. Quite soon these accusations will nearly always be accurate.
@@ -852,16 +852,16 @@ Any sufficiently interesting person eventually gets accused of being an AI. Quit
 reply
 
 allenu
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Sounds like a really cool idea. How do you organize the meetup and promote it to people if it ends up being random people? Do you set it up on meetup.com and have a theme at the minimum?
@@ -871,16 +871,16 @@ I've been to a lot of meetups and it's definitely hit or miss and obviously depe
 reply
 
 SoftTalker
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > ones where people aren't trying to network
@@ -890,16 +890,16 @@ I have literally never been to any kind of organized gathering where this wasn't
 reply
 
 MidnightRider39
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That’s crazy, you’ve never been to a party?
@@ -907,16 +907,16 @@ That’s crazy, you’ve never been to a party?
 reply
 
 SoftTalker
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Sure. Most people are there with an agenda. ABC.
@@ -924,16 +924,16 @@ Sure. Most people are there with an agenda. ABC.
 reply
 
 MidnightRider39
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Do you mean most people go to parties to close deals?
@@ -941,16 +941,16 @@ Do you mean most people go to parties to close deals?
 reply
 
 bluGill
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Commonly - though the deal to close is marriage (or sometimes a one night stand).
@@ -958,16 +958,16 @@ Commonly - though the deal to close is marriage (or sometimes a one night stand)
 reply
 
 KellyCriterion
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 actually its true, I guess:
@@ -977,18 +977,18 @@ I have been in partying in my teens and twens, 3 years somehow "heavily". When I
 reply
 
 locknitpicker
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Do you mean most people go to parties to close deals?
@@ -998,18 +998,18 @@ It sounds like the concept of social/civic organizations caught you by surprise.
 reply
 
 SoftTalker
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 In one way or another, yes.
@@ -1017,16 +1017,16 @@ In one way or another, yes.
 reply
 
 zwischenzug
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Similarly, I did group therapy for a few years, and found it highly and profoundly rewarding.
@@ -1036,16 +1036,16 @@ It's much more structured, with a facilitator to help reduce the possibility of 
 reply
 
 e-topy
- 
+
 22 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This reminds me of [0], basically just inviting the most interesting people I know (also transitively the most interesting people they know), and just getting to meet people.
@@ -1057,16 +1057,16 @@ But I would still like to know more about how you do this, as other people doing
 reply
 
 embedding-shape
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Easy two-part process: First part is putting our "feelers", ask/tell a bunch of people "You know, I'm thinking of maybe hosting a dinner party/barbecue/beach day" and see what reaction you get from people. If sufficient people (sometimes just 2) give somewhat interested vibes, ask again what dates people could do it at, then you send out an invite.
@@ -1076,18 +1076,18 @@ You'd get a bunch of people who say yes but then don't show, this is normal and 
 reply
 
 unsupp0rted
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How I do it is context-specific. I used to live in a place where it's undoable and I was very lonely there. I moved to a place where people are much more open to it culturally and there's enough population to +/- bring in a constant flow of 4:1 regulars to newbies.
@@ -1097,16 +1097,16 @@ I advertise on local meetup platforms and in local social media. And I go to so 
 reply
 
 ngokevin
- 
+
 18 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I use Blood on the Clocktower to do this, it's a social deduction game (that's just not randomly accusing each other) so it gets everyone talking easily
@@ -1114,16 +1114,16 @@ I use Blood on the Clocktower to do this, it's a social deduction game (that's j
 reply
 
 Triphibian
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It has been my experience that social deduction games are very attractive to folks who have problems socializing in day-to-day life. You can see them almost come alive when they are given the permission.
@@ -1131,16 +1131,16 @@ It has been my experience that social deduction games are very attractive to fol
 reply
 
 SoftTalker
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I think a lot of people need prompting for something to talk about. They have no confidence that topics they bring up will be interesting to anyone else. So any kind of gathering that takes that pressure off will be attractive.
@@ -1148,16 +1148,16 @@ I think a lot of people need prompting for something to talk about. They have no
 reply
 
 Gigachad
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I've been trying to come up with some interesting prompts after observing just asking someone "What's been happening" yields nothing but "Oh not much, work". So far the old classics of just probing in to what they do for work, what they did last weekend, etc and then finding any bit of info to drill down in to more interesting topics works best.
@@ -1167,16 +1167,16 @@ Also very important to recognize most conversation starters are someone serving 
 reply
 
 AussieWog93
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Tangential, but I've been following your comments for years now and I have to say whatever you've discovered seems to be serving you well.
@@ -1186,16 +1186,16 @@ You're seriously 1000x more likeable than even just a couple of years ago.
 reply
 
 Gigachad
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I was a bit surprised to read this. I didn't think I'd stand out in the sea of comments here. But to this, since a couple of years ago I had a break up, moved city, quit all social media and went outside to real events. HN is the only place I still comment on.
@@ -1203,18 +1203,18 @@ I was a bit surprised to read this. I didn't think I'd stand out in the sea of c
 reply
 
 unsupp0rted
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Yes and the reverse is also true. I don’t like to play social games at my meetups because that’s a framework that seems to stifle genuine conversation. I do sometimes provide hypothetical questions as a bit of scaffolding.
@@ -1224,16 +1224,16 @@ Yes and the reverse is also true. I don’t like to play social games at my meet
 reply
 
 Triphibian
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Same. I don't like to yuck other people's yums, but I don't get a lot from those kinds of games. Talking to strangers is not a problem for me.
@@ -1243,18 +1243,18 @@ I have been spending a bit of time at the local board game shops and the crowd s
 reply
 
 ariuser8434
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 the one and only meetup i ever went to (that wasn't something vaguely work-related) was a Werewolf meetup (the game). It actually wasn't very social, but it was a bunch of people who were really into Werewolf. Which, really, was what it was meant to be (and it was fun, because i love to play Werewolf)
@@ -1262,18 +1262,18 @@ the one and only meetup i ever went to (that wasn't something vaguely work-relat
 reply
 
 Rendello
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Although I've had some fun with deduction games, I'm usually extremely averse to them. Forced to sit down and try to lie while listen to my voice suspiciously, then having the group turn against me and all my friends and randos interrogating and accusing me... it's like a special hell-dream come to life.
@@ -1281,16 +1281,16 @@ Although I've had some fun with deduction games, I'm usually extremely averse to
 reply
 
 unsupp0rted
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Indeed, and if you're especially good at it and win the game, then everybody knows from then on that you can't be trusted because you can't be easily read.
@@ -1298,16 +1298,16 @@ Indeed, and if you're especially good at it and win the game, then everybody kno
 reply
 
 gaws
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > You have to accept that 5-15% of the people who would show up to something like this are genuine weirdos you probably don't want to be around.
@@ -1317,16 +1317,16 @@ How have you handled this in past meetups?
 reply
 
 embedding-shape
- 
+
 18 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Be courteous, kind, don't accept invites, tell them you're not interested if they're making unwanted advances, and treat them as humans. If they seem receptive and able to handle constructive feedback, tell them what sticks out to you, otherwise just ignore it and move on.
@@ -1336,18 +1336,18 @@ Basically the same way you handle the exact same situation outside of organizing
 reply
 
 unsupp0rted
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 `embedding-shape` answered it better than I could have, but I will add: I "ban" people from meetups who are overall bad for the group.
@@ -1357,16 +1357,16 @@ E.g. people who register to take up a (free) spot and then don't show up after m
 reply
 
 trick-or-treat
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > You have to accept that 5-15% of the people who would show up to something like this are genuine weirdos
@@ -1376,16 +1376,16 @@ Thanks for unlocking a new anxiety for me.
 reply
 
 komali2
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This is just par for the course of human existence. Lump it under all the other "human situation" stuff, somewhere between "stubbed toe" and "cancer."
@@ -1393,16 +1393,16 @@ This is just par for the course of human existence. Lump it under all the other 
 reply
 
 trick-or-treat
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Huh? I have zero stubbed toe anxiety. If it happens it happens.
@@ -1412,16 +1412,16 @@ But knowing that I'm being classified by event organizers (and that there's a 10
 reply
 
 AussieWog93
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 For what it's worth I'm classifying you right now (in the "neurodiverse odd fellow" category, not the complete weirdo one).
@@ -1431,16 +1431,16 @@ You can't win man.
 reply
 
 trick-or-treat
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Oh well. At least I didn't stub my toe.
@@ -1448,16 +1448,16 @@ Oh well. At least I didn't stub my toe.
 reply
 
 AussieWog93
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You have now been reclassified as someone very funny.
@@ -1465,18 +1465,18 @@ You have now been reclassified as someone very funny.
 reply
 
 komali2
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm pretty sure the OP didn't mean they literally put a note in an excel document next to your name. So to explore the issue, is your anxiety around the fact that some people will think some aspects of your personality or behavior or weird? Because I could drop you into the middle of Vietnam (or whatever, pick some country you've never been to) and like 90% of people would think you're a bit weird. It's not really a bad thing, is it?
@@ -1486,16 +1486,16 @@ Anyway in my experience what the OP is referring to is less "nuerodivergent weir
 reply
 
 trick-or-treat
- 
+
 56 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I imagined everyone at these events independently classifying everyone else and just sort of nodding knowingly at each other about who the weirdos are.
@@ -1505,16 +1505,16 @@ And so the fact that I don't do that must mean that I'm one of the weirdos. And 
 reply
 
 MrDresden
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Have you done any write ups about how best to go about doing something like this?
@@ -1524,16 +1524,16 @@ I'd love to organize something like this in my local community but somehow am no
 reply
 
 croemer
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 In German speaking areas there's an app called Spontacts where one can advertise any sorts of events and people can sign up. Like MeetUp but free and it actually works. Lots of people offer board games, walks, brunch. I got into it recently advertising spontaneous ping pong get togethers. Met some really cool people so far.
@@ -1541,18 +1541,18 @@ In German speaking areas there's an app called Spontacts where one can advertise
 reply
 
 unsupp0rted
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If you had to guess how I'd suggest you start, what would you think I'd say? My advice is probably just that or something no better that what you'd guess.
@@ -1562,18 +1562,18 @@ You start by starting. The first meetup will have a couple people and you let it
 reply
 
 komali2
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Context dependant. I do similar to the OP. Sometimes my events have one other person, sometimes 40.
@@ -1584,16 +1584,16 @@ Reservation for 8 at UR Meat on Tuesday April whatever, 7pm, the new kbbq place 
 reply
 
 madaxe_again
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I can confirm that this is a great hobby. I did a weekly meet up, man, nearly 20 years ago, which was at the same time and place every week, and we (me and the core clique which consolidated within a month) advertised it on Twitter, which was niche enough at the time that you’d get a bunch of interesting weirdos showing up.
@@ -1603,16 +1603,16 @@ It’s how I met my wife, how I met a whole bunch of people who still feature in
 reply
 
 Gooblebrai
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I organise events as well and I'm wondering if you ever charged for them. I used to do them for free but so many people signed up and didn't attend later that it was hard to put numbers to book a venue to meet. How did you solve this?
@@ -1620,16 +1620,16 @@ I organise events as well and I'm wondering if you ever charged for them. I used
 reply
 
 em-bee
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 i would do free venues only. usually restaurants are free because you consume food. if that is not an option, it depends on the cost. i have seen events where people were asked to contribute something when they arrive. you can usually announce the cost of the venue and ask everyone to contribute appropriately. if you fall short then next time ask people to contribute more. or keep a running tally during the event until the venue cost is met. from my personal feeling, if it costs more than $1-2 per person the venue is too expensive. find a cheaper one.
@@ -1637,16 +1637,16 @@ i would do free venues only. usually restaurants are free because you consume fo
 reply
 
 fiftyacorn
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Great idea - a lot of the problems in the world are from social isolation, and people finding silos online
@@ -1656,16 +1656,16 @@ I think the 10% neuro-divergent is a positive as it being ND can be very isolati
 reply
 
 andrei_says_
- 
+
 21 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What are the meetup themes? What brings the interesting people in?
@@ -1673,16 +1673,16 @@ What are the meetup themes? What brings the interesting people in?
 reply
 
 pinkmuffinere
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What locations do you recommend to emulate this? Coffee shops / libraries / your home?
@@ -1690,16 +1690,16 @@ What locations do you recommend to emulate this? Coffee shops / libraries / your
 reply
 
 Imustaskforhelp
- 
+
 22 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How do you do this? And do you find people within tech industry or just random-people, I am sort of curious to know!
@@ -1707,16 +1707,16 @@ How do you do this? And do you find people within tech industry or just random-p
 reply
 
 unsupp0rted
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Just random people, but because of where I post my events I tend to get about 30% ~ 50% tech-adjacent people
@@ -1724,16 +1724,16 @@ Just random people, but because of where I post my events I tend to get about 30
 reply
 
 nutjob2
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > You have to accept that 5-15% of the people who would show up to something like this are genuine weirdos you probably don't want to be around.
@@ -1743,16 +1743,16 @@ Yep, thats me.
 reply
 
 throw83940449
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Write explicit rules about dogs. Many "weirdos" just like their boundaries and basic hygiene. It is hard to socialize, over barking contest and rar dog humpimg your leg.
@@ -1762,14 +1762,14 @@ It will save both sides a lot of time.
 reply
 
 binarysolo
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Social dancer here -- without hyperbole this was a lifechanging hobby for the better, and while I haven't been able to "meaningfully contribute to" as a criteria, I am a much better person for it.
@@ -1779,14 +1779,14 @@ I'm primarily a salsa dancer (~18 years), but spent a few years doing a buncha o
 reply
 
 onli
- 
+
 33 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Id like to recommend that even a bit more, maybe from a different perspective. I took a salsa course back in university because a girl asked me, her boyfriend wasnt interested. That lead to dancing a bit more, bachata was just part of the course especially. But also not just one course: It turned out there were tons of opportunities later to join these dance evenings organized in bars. So doing that one first step enabled so many more.
@@ -1796,16 +1796,16 @@ I never got good, but: It is still a useful skill to even just know a little bit
 reply
 
 AdrianB1
- 
+
 8 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Just curious, after so much salsa, what is your opinion about Argentinian tango? I love it, but it does not seem to be very popular and I wonder why.
@@ -1813,14 +1813,14 @@ Just curious, after so much salsa, what is your opinion about Argentinian tango?
 reply
 
 jcims
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Put it down over winter but just picking it back up.
@@ -1830,14 +1830,14 @@ Bat detection/identification with ultrasonic recordings. It's been fun building 
 reply
 
 zimpenfish
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Oh, I didn't know about the BattyBirdNET - thanks. I'll have to slap my bat-mode AudioMoth back on the balcony.
@@ -1847,16 +1847,16 @@ Oh, I didn't know about the BattyBirdNET - thanks. I'll have to slap my bat-mode
 reply
 
 101008
- 
+
 12 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Sorry if this is not the place to do it. I live in a city that has bat at nights, so if you live above 6th floor and you leave your windows open, there are chances some confused bats go into your apartment.
@@ -1866,16 +1866,16 @@ Even worse, they can go into the blind box of your rollover. After two traumatic
 reply
 
 neves
- 
+
 8 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Mosquito sound repellents are useless for insects, but solved my bat problem.
@@ -1885,16 +1885,16 @@ A bat loved to defecate in my son's bathroom. The most internal room of the hous
 reply
 
 thinking_cactus
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Just probably don't want to put those outside, that would probably count as noise pollution for them.
@@ -1902,18 +1902,18 @@ Just probably don't want to put those outside, that would probably count as nois
 reply
 
 globular-toast
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 That's funny because bats would eat the mosquitos so by driving away bats you're actually making the mosquito problem worse.
@@ -1921,18 +1921,18 @@ That's funny because bats would eat the mosquitos so by driving away bats you're
 reply
 
 echoangle
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Can’t you do some kind of mesh? For bats, it doesn’t even have to be very fine.
@@ -1940,16 +1940,16 @@ Can’t you do some kind of mesh? For bats, it doesn’t even have to be very fi
 reply
 
 101008
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I asked about this to people who put meshes but they said the mesh goes into the window (it's mostly for mosquitoes), and the open would be outside the mesh, so it wouldn't cover it. I would be OK but I can't find anyone who would be willing to put the mesh on the outside of the window.
@@ -1957,16 +1957,16 @@ I asked about this to people who put meshes but they said the mesh goes into the
 reply
 
 NooneAtAll3
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 any particular microphones you can recommend?
@@ -1976,16 +1976,16 @@ or did you buy one and it was "good enough" ever since?
 reply
 
 functional_dev
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 really cool, data pipeline alone sounds like fun challenge
@@ -1993,16 +1993,16 @@ really cool, data pipeline alone sounds like fun challenge
 reply
 
 jcims
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yeah there's quite a bit of opportunity to reduce processing time along the way.
@@ -2012,16 +2012,16 @@ Couple cool things I've learned about bats.- They are *extremely* loud in the ul
 reply
 
 sanjayjc
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Thanks jcims for sharing this amazing info! However, I wonder how these very loud bats, all in close proximity, don't get confused by each others' calls? Is the answer their frequency sweeping? Or does each have something analogous to a unique "voice"?
@@ -2029,14 +2029,14 @@ Thanks jcims for sharing this amazing info! However, I wonder how these very lou
 reply
 
 chromacity
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Almost everything you can do on your own is a "solved problem". Why go into woodworking if you can buy an Ikea stool? The point of hobbies isn't to solve problems - that's called a job - but to learn and have fun.
@@ -2046,14 +2046,14 @@ Find a niche where you can resist the temptation to constantly compare yourself 
 reply
 
 awkwardleon
- 
+
 12 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I like Kurt Vonnegut's take on this:
@@ -2063,16 +2063,16 @@ I like Kurt Vonnegut's take on this:
 reply
 
 wazHFsRy
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Thank you for sharing that. I am going to save this one. Does that work for you? Could you shift from winning at things to just doing them?
@@ -2080,16 +2080,16 @@ Thank you for sharing that. I am going to save this one. Does that work for you?
 reply
 
 hn_throwaway_99
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I totally agree with what you've written - "comparison is the thief of joy" is one of my favorite mantras.
@@ -2099,16 +2099,16 @@ That said, hobbiescanbe remarkably useful because they allow you to create or en
 reply
 
 bananaflag
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Almost everything you can do on your own is a "solved problem".
@@ -2118,16 +2118,16 @@ Not everything. Take cooking, one of the most basic hobbies. It's easy to come u
 reply
 
 rgoulter
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 OP's post features he wants "that isn't absolutely crowded that I could meaningfully contribute to."
@@ -2137,16 +2137,16 @@ I could read that as: wanting to do something interesting that others would bene
 reply
 
 globular-toast
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I agree with the point but it's worth noting there are plenty of things you can build from wood that you can't buy from IKEA.
@@ -2154,16 +2154,16 @@ I agree with the point but it's worth noting there are plenty of things you can 
 reply
 
 aksss
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What defines hobbies is not what or why you do it, but when you do it. The phenomenon of hobbies has been mulled over quite a bit - activities that engage many disciplines of an actual job, activities that for other people actually are jobs. The key difference in the nature of a hobby is that we do the activities on our own schedule - we are in no way compelled to do them but have complete ownership over the execution.
@@ -2171,14 +2171,14 @@ What defines hobbies is not what or why you do it, but when you do it. The pheno
 reply
 
 linsomniac
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've been working on trying to help fill out the MeshCore network in our area for off-grid communications. Some of us are setting up solar powered, battery backed MeshCore nodes, they have no connection to power or Internet. You can use a small device (like a credit card or a small walkie-talkie) with a phone, or a blackberry-like device, to send/receive encrypted messages, chat on channels, or communicate on BBS-like "room servers".
@@ -2188,33 +2188,33 @@ It's interesting for if there were some sort of disaster impacting the cell netw
 reply
 
 linsomniac
- 
+
 13 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-Part of why I'm doing it is my office has a nice, unused tower on top of it. The office itself is ultimately not that high, but the 20ft tower on top of the 3 story building helps a lot. I can 
+Part of why I'm doing it is my office has a nice, unused tower on top of it. The office itself is ultimately not that high, but the 20ft tower on top of the 3 story building helps a lot. I can
 JUST
  reach the 8ft TV antenna mast at my house, depending on tree vegetation (we'll see how much worse it gets as the trees leaf out this spring). It operates in the 900 MHz ISM band, so it can "punch through" more than WiFi can.
 
 reply
 
 Havoc
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What does the battery setup on these things look like? Definitely could set one up but don’t want to change batteries weekly
@@ -2222,34 +2222,34 @@ What does the battery setup on these things look like? Definitely could set one 
 reply
 
 andrewrn
- 
+
 12 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Oh this is sooo cool. I want to try and do this in the summer too. This might be of interest to you: 
+Oh this is sooo cool. I want to try and do this in the summer too. This might be of interest to you:
 https://youtu.be/XTnYVh7K6xQ
 
 reply
 
 linsomniac
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I had watched the first half of it a couple weeks ago and it does indeed sound pretty interesting. WiFi HaLow is a long distance capable variant of WiFi and Reticulum is a mesh network protocol.
@@ -2259,16 +2259,16 @@ If I had more people buying into MeshCore, I might push it to doing something li
 reply
 
 mrheosuper
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Is this similar to meshtastic? I've heard about it for a while.
@@ -2276,16 +2276,16 @@ Is this similar to meshtastic? I've heard about it for a while.
 reply
 
 gchokov
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Same, with different routing :)
@@ -2293,16 +2293,16 @@ Same, with different routing :)
 reply
 
 ternus
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Came here to mention this. I've had a lot of fun putting up stealth repeaters in trees to build out the Meshcore network. One or two nodes in critical places can light up dozens of square miles for the mesh.
@@ -2312,16 +2312,16 @@ Find your local Discord and get rolling. In the Bay Area it's baymc.org.
 reply
 
 Liftyee
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I've been thinking about this for Meshtastic - How do you power them? Little solar panels?
@@ -2329,14 +2329,14 @@ I've been thinking about this for Meshtastic - How do you power them? Little sol
 reply
 
 desmondmonster
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I build Tiki Tube Amps - hifi stereos inside carved tiki heads. The tikis are carved from solid logs and hollowed out before I wire up all the circuitry inside. It's all analog vacuum-tube-driven circuits soldered point-to-point.
@@ -2346,14 +2346,14 @@ They're really difficult to make but super fun to listen to. When I'm carving I 
 reply
 
 foresto
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Looks like there are examples here:
@@ -2363,14 +2363,14 @@ https://www.youtube.com/watch?v=UIRDOcSQGe8
 reply
 
 ryandrake
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If you like to work with your hands and have space, build something physical: big and complex, and actually finish it. I built a single engine two seat kit airplane in my garage, did all the flight testing, and now have an interesting way to travel/commute as a result. The "finish it" part is the most important bit. Computer people spend too much time working on projects that don't have a "done" state. Change that up.
@@ -2378,14 +2378,14 @@ If you like to work with your hands and have space, build something physical: bi
 reply
 
 bluGill
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I would start smaller though. There are a lot of half finished airplanes (where the last 20% takes 80% of the time...) and the maker is dead.
@@ -2395,16 +2395,16 @@ I've been working on a ukulele for over a year now and it isn't close to done ye
 reply
 
 codazoda
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Oh, yeah. I’ve been meaning to build an electric ukulele. I’ve built some handmade electric guitars, slide guitars and similar. Mine are rudimentary, more akin to a cigar box guitar (if not less complex).
@@ -2414,16 +2414,16 @@ Examples:https://photos.google.com/share/AF1QipPmHtIa9vAm8wNPeTXP4MoZ...
 reply
 
 exDM69
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Great looking instruments.
@@ -2433,16 +2433,16 @@ I've built half a dozen similar box guitars, it's such a fun little thing to bui
 reply
 
 jcmontx
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How scary was the test flight? where did you land?
@@ -2450,16 +2450,16 @@ How scary was the test flight? where did you land?
 reply
 
 ryandrake
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I was as confident as I could be. Had multiple tech counselors and A&Ps give it a good look over beforehand. Also had an emergency plan for every 100 feet of altitude post-takeoff. Did the first couple of flight tests in the vicinity of a minor (class D) Bay Area airport and then did the rest of them (including the riskier ones) over the central valley.
@@ -2467,16 +2467,16 @@ I was as confident as I could be. Had multiple tech counselors and A&Ps give it 
 reply
 
 kacesensitive
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 did you bring a parachute?
@@ -2484,16 +2484,16 @@ did you bring a parachute?
 reply
 
 jagged-chisel
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 In most failure cases, it becomes a glider. I think if it was gonna fall apart around the pilot, it would be obvious long before they got it in the air.
@@ -2501,18 +2501,18 @@ In most failure cases, it becomes a glider. I think if it was gonna fall apart a
 reply
 
 ryandrake
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Nope. Given the canopy style of the kit (RV-7A tip-up) and a few build decisions I made (modifications to the original design), actually egressing in-flight would have been infeasible anyway.
@@ -2520,16 +2520,16 @@ Nope. Given the canopy style of the kit (RV-7A tip-up) and a few build decisions
 reply
 
 sashank_1509
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How long did it take you to complete this project. How did you maintain motivation?
@@ -2537,16 +2537,16 @@ How long did it take you to complete this project. How did you maintain motivati
 reply
 
 ryandrake
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 6.5 years. What helped most was doing a little bit every day. Taking time off the project would probably have slowed my motivation. Also, at some point, you have spent a lot of money on a project like this, to the point where you kind of have to finish it or you've lost a lot of sunk cost.
@@ -2554,14 +2554,14 @@ next
 reply
 
 mh2753
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My niche hobby is exploring patterns in Islamic Geometry and trying to re create them. It is an art of creating pleasing and aesthetic geometric patterns (from intersecting circles mostly). The art form is very popular in decorating Mosques and other Islamic monuments as human/animal representation is forbidden.
@@ -2571,14 +2571,14 @@ My niche hobby is exploring patterns in Islamic Geometry and trying to re create
 reply
 
 4ggr0
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 are you muslim yourself or did the artistry itself pique your interest? just curious about it, hope that's not a weird question.
@@ -2586,16 +2586,16 @@ are you muslim yourself or did the artistry itself pique your interest? just cur
 reply
 
 mh2753
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I am. My interest developed after visiting a number of Mosques/Monuments and seeing the intricate designs.
@@ -2603,16 +2603,16 @@ I am. My interest developed after visiting a number of Mosques/Monuments and see
 reply
 
 4ggr0
- 
+
 50 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 stunning buildings and patterns. not religious myself but i have to admit that lots of old, religious sites are absolutely beautiful. i just looked at images of some old mosques (not really a thing where i am), and they look gorgeous :) i get why they inspire you artistically.
@@ -2620,16 +2620,16 @@ stunning buildings and patterns. not religious myself but i have to admit that l
 reply
 
 madaxe_again
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 That’s neat - I always find the sheer depth of expression that’s managed with a handful of primitives extremely impressive.
@@ -2639,14 +2639,14 @@ Have you ever come across Penrose tilings? If not, they might be something you�
 reply
 
 johnthedebs
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I got into fig (and since then, more broadly, fruit) cultivation. Figs have a rich history, lots of variety, and there are very active online (and in-person) communities where you can buy or exchange plants and cuttings, advice, and fruit. This grew out of an initial interest in gardening, and the long-term goal is to create a food/fruit forest around our house where me, family, friends, and neighbors can walk around, spend time, and eat the absolute best fruit possible.
@@ -2656,14 +2656,14 @@ So far I've got about 40 fig trees in containers (~30 varieties), am focusing a 
 reply
 
 HeyLaughingBoy
- 
+
 13 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You've probably already discovered this, but in case you haven't: watch out for the black raspberries if they're in the ground. They spread at an astronomical rate and are practically unkillable after they're established.
@@ -2673,16 +2673,16 @@ OTOH, they are delicious.
 reply
 
 johnthedebs
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 For sure! We ended up learning this the hard way.
@@ -2692,16 +2692,16 @@ We moved into this house partly bc it had an extra ~acre of space beyond the mai
 reply
 
 joshoink
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If you're in the right zone, give Pawpaws a chance! North America's largest native fruit! I've got about seven in and around my other trees (they're a forest understory tree) but haven't gotten fruit yet. Any year now...
@@ -2709,16 +2709,16 @@ If you're in the right zone, give Pawpaws a chance! North America's largest nati
 reply
 
 Loughla
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I started cultivating dewberries and chokecherries because they're dying out near me. The chokecherries are good for like 2 weeks, otherwise they taste like soap.
@@ -2728,16 +2728,16 @@ Dewberries are a real bitch to get started and don't produce a ton of fruit, but
 reply
 
 johnthedebs
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'll check them out - thanks for the recommendation!
@@ -2745,16 +2745,16 @@ I'll check them out - thanks for the recommendation!
 reply
 
 iamjs
- 
+
 12 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I have a volunteer fig tree growing in a container on my patio in the middle of a bunch of onions. I have always heard of people transplanting them from cuttings, presumably because they are difficult to grow from seed. I have no idea how it got there, but I feel fortunate to have been chosen.
@@ -2762,16 +2762,16 @@ I have a volunteer fig tree growing in a container on my patio in the middle of 
 reply
 
 johnthedebs
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Awesome! Curious to hear if it ripens good fruit for you.
@@ -2781,14 +2781,14 @@ In case it's interesting: people normally grow them from cuttings to make sure t
 reply
 
 pkghost
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Get a microscope and help me explore the role of structured water in rouleaux formation.
@@ -2798,14 +2798,14 @@ Rouleaux formations are clumps of red blood cells, and they're bad because 90% o
 reply
 
 oersted
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > it could offer the simplest and most encompassing explanation for biological harm from EMF
@@ -2815,16 +2815,16 @@ Frankly this is a bit of a red flag for me in terms of scientific rigour. It sou
 reply
 
 polishdude20
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What is structured water?
@@ -2832,16 +2832,16 @@ What is structured water?
 reply
 
 oersted
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yeah okay... Surprised to see this as the top comment.
@@ -2851,16 +2851,16 @@ Yeah okay... Surprised to see this as the top comment.
 reply
 
 eru
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Though funnily enough, you can make real 'structured water' at home in your freezer. Making your ice crystals hexagonal is theoretically possible, but it's really, really hard to grow monocrystaline water ice. That might be a really interesting niche hobby, though.
@@ -2870,16 +2870,16 @@ Seehttps://www.youtube.com/watch?v=VA710QYxEu0for the latter.
 reply
 
 oersted
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Well yes, that’s in a solid state. Lots of crystals have hexagonal structures since it’s the optimal packing distribution.
@@ -2889,16 +2889,16 @@ If “structured water” just means that there are tiny ice crystals in water, 
 reply
 
 eru
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Oh, the pseudo-science 'structured water' is absolutely bonkers. I just went off on a mildly interesting tangent.
@@ -2906,14 +2906,14 @@ Oh, the pseudo-science 'structured water' is absolutely bonkers. I just went off
 reply
 
 smj-edison
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Not sure if you're into 40s music, but there's a little known instrument called a theatre organ. It was conceived when silent films were taking off, and theaters needed some form of background music. Paying an organist was much cheaper than hiring a whole orchestra, so a lot of theaters opted to get an organ as a cost saving measure (imagine, lol). Anyways, a few have survived, and I learned the basics of playing one. It's an absolutely incredible instrument, in terms of the sheer amount of sounds you can make with it. Someone played the star wars overture for example[1]. It also has one of the most flexible interfaces, with the tabs, second touch, and sustenuno pedal on the volume foot controls. It's inspired a lot of my own tinkering with custom sound synthesis too.
@@ -2923,14 +2923,14 @@ Not sure if you're into 40s music, but there's a little known instrument called 
 reply
 
 khazhoux
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Holy cow what a workout!! Thanks for sharing this.
@@ -2938,14 +2938,14 @@ Holy cow what a workout!! Thanks for sharing this.
 reply
 
 SAI_Peregrinus
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My wife & I are Scottish Country dancers. It's a social dance form (it's traditional to swap partners for every dance so nobody has to bring a partner, though not required). Pretty good cardio, there are groups all over the world, so it's often not that difficult to find a class.
@@ -2955,14 +2955,14 @@ Other similar social dance forms from the UK are Contra dancing, English Country
 reply
 
 dddddaviddddd
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Meaningful contribution is easy: these groups always benefit from more participants.
@@ -2972,16 +2972,16 @@ Same for probably all small dance communities! While it seems like a different k
 reply
 
 dboreham
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The Gay Gordons have entered the chat..
@@ -2989,14 +2989,14 @@ The Gay Gordons have entered the chat..
 reply
 
 SunshineTheCat
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Traditional archery.
@@ -3006,14 +3006,14 @@ I started a few years back and have been doing it off and on since. It's challen
 reply
 
 qup
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I sometimes shoot a couple of bows I made myself.
@@ -3023,16 +3023,16 @@ It's a fairly easy woodworking project, and you can get a beautiful result.
 reply
 
 silisili
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Interesting, how does the draw weight compare? I have to give up shooting bigger compounds because my shoulder couldn't take it anymore unfortunately.
@@ -3040,16 +3040,16 @@ Interesting, how does the draw weight compare? I have to give up shooting bigger
 reply
 
 bwv848
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Try instinctive aerial shooting with spiral flu-flus.
@@ -3057,16 +3057,16 @@ Try instinctive aerial shooting with spiral flu-flus.
 reply
 
 AbraKdabra
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yeah, too easy.
@@ -3074,14 +3074,14 @@ Yeah, too easy.
 reply
 
 jeremymcanally
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I got into HEMA (Historical European Martial Arts) fencing last year through a club in my little town. Olympic/sport fencing is fun, but imagine (safely) swinging a 4lbs. steel longsword with two hands at your opponent instead. It's a ton of fun, a great workout (I burn ~1500 calories per class), and competitive so it keeps my interest.
@@ -3091,14 +3091,14 @@ Then there's the whole nerd layer of reading all the original sources from the 1
 reply
 
 elric
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 +1 for martial arts in general. Depending on the art it might not be niche (I'm sure karate and taekwondo are too big for that). But things like HEMA, iaido, eskrima, all kinds of archery, ... are great fun and typically come with smallish & fun communities.
@@ -3108,16 +3108,16 @@ Edit: before you think these arts are immune to tech, I once had a student who b
 reply
 
 tmtvl
- 
+
 22 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Seconding or thirding martial arts (MA). I do Kung Fu, but I'd bet all the internet cookies there's at least one Brazilian Jujutsu practitioner on HN.
@@ -3127,16 +3127,16 @@ On the point of tech in MA, I recall seeing a documentary where some people got 
 reply
 
 hermitcrab
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 HEMA looks much more interesting than olympic style fencing.
@@ -3144,16 +3144,16 @@ HEMA looks much more interesting than olympic style fencing.
 reply
 
 dmoy
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Olympic style fencing is pretty interesting too, to be fair. Physical Chess
@@ -3163,16 +3163,16 @@ Also it's less... scary? At least you'll get less scary-looking bruises (though 
 reply
 
 hermitcrab
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >Olympic style fencing is pretty interesting too, to be fair.
@@ -3182,16 +3182,16 @@ It just seems incredibly divorced from it's martial origins. To each their own.
 reply
 
 dmoy
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Oh for sure it is very gamified. It's still very interesting in its own right though.
@@ -3201,16 +3201,16 @@ Just don't go into it if you are looking for realism.
 reply
 
 hutattedonmyarm
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Agreed, HEMA is incredibly fun!
@@ -3218,14 +3218,14 @@ Agreed, HEMA is incredibly fun!
 reply
 
 duckkg5
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I was into woodworking, then I got into building fly fishing rods from bamboo.
@@ -3235,14 +3235,14 @@ Fly fishing has been around for a long time. They used to build rods by hand out
 reply
 
 zimpenfish
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > If you try to buy a bamboo rod in a store, they run $2K-$5K.
@@ -3252,16 +3252,16 @@ I got a bunch of cane[0] rods off eBay for relatively cheap[2] (but that was ~20
 reply
 
 munificent
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I love how every hobby has its inner nested hobbies and you can seemingly go infinitely deep.
@@ -3271,16 +3271,16 @@ I got back into making electronic music a while ago, and you can dig in deeper b
 reply
 
 oddsockmachine
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 That's a wonderful video, thanks for sharing
@@ -3288,16 +3288,16 @@ That's a wonderful video, thanks for sharing
 reply
 
 getlawgdon
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is very cool. Thank you.
@@ -3306,16 +3306,16 @@ This is very cool. Thank you.
 reply
 
 duckkg5
- 
+
 20 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I come back to the video every once in a while and it is total zen.
@@ -3323,14 +3323,14 @@ I come back to the video every once in a while and it is total zen.
 reply
 
 afc
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I got into designing my own knitting patterns. I enjoy that I can customize everything — the yarn material, color (including marling, helix knitting, double knitting), yarn weight, needle size (e.g., resulting in "airy" vs "packed" textures), knit textures (e.g., stockinette, linen, miss, etc.), construction process (e.g., can I figure out a way to knit in the round vs flat?), cables, gradual increases/decreases, selvedge/cord, desired ease, etc..
@@ -3340,14 +3340,14 @@ I wrote software to generate patterns given configurations and keep track of whi
 reply
 
 eru
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 A few years ago I helped the wife write her own Haskell software to help her generate her knitting patterns in LaTeX. Fun times.
@@ -3357,14 +3357,14 @@ Should be much easier these days with all the AI help available.
 reply
 
 bane
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The demoscene, while not unknown, is still quite niche amongst technologists and digital artists in the most of the world. It has a pretty thriving scene with dozens of get togethers worldwide (mostly in Europe) each year, is creative, communal, artistic, competitive, multidisciplinary, highly influential, and has a near infinite number of ways to engage with it. It has a long running internal culture, but is welcoming of outsiders willing to learn, and is kind of a "third way" to think about software and technology that can often radically change how you think about computing.
@@ -3374,14 +3374,14 @@ It's also a recognized UNESCO recognized intangible cultural heritage in at leas
 reply
 
 alexpotato
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Using crooked knives [0] for woodcarving.
@@ -3391,14 +3391,14 @@ They're essentially a combination of a plane, spoke-shave, draw-knife and gouge 
 reply
 
 JKCalhoun
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's pretty niche!
@@ -3406,16 +3406,16 @@ That's pretty niche!
 reply
 
 araes
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Almost a literal "niche" hobby. Canoe - something that resembles a recess in a wall.
@@ -3423,18 +3423,18 @@ Almost a literal "niche" hobby. Canoe - something that resembles a recess in a w
 reply
 
 alexpotato
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I try to give the people what they ask for.
@@ -3442,16 +3442,16 @@ I try to give the people what they ask for.
 reply
 
 avipars
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 also an amazon affiliate?
@@ -3461,14 +3461,14 @@ aphackernews-20
 reply
 
 kattjakt
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I highly recommend getting into loudspeakers or audio reproduction in general! Without a doubt the most enjoyable, satisfying, and enriching hobby I've had so far.
@@ -3478,14 +3478,14 @@ A couple years ago I decided to build a pair of synergy horns (look them up!) wh
 reply
 
 hazbo
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Perfumery.
@@ -3495,14 +3495,14 @@ It's something I got into a few years ago and has been a real eye-opener into th
 reply
 
 n2linux
- 
+
 49 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Watchmaker in training here - after 20 years in startups I am now in my first semester of watchmaking school. It is one of the hardest things I've done in my 47 years, and I am loving every minute of it. It is training my brain, hands, and eyes to see and do things I never thought possible.
@@ -3516,14 +3516,14 @@ Repairing a watch feels similar to dealing with code to me:- observing to see ho
 reply
 
 vishkk
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Not sure if it is niche, but focused on one South Asian music genre -- been working on this personal project to compile, and collect resources from reliable sources along with mapping lineages of people. Also, I archive a lot of music for this genre from different sources before it vanishes from internet!
@@ -3533,14 +3533,14 @@ https://www.qavvali.com/EDIT: I have one more page but that is not in navigation
 reply
 
 dyauspitr
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Qawali is some of the best music in the world, but I think it’s a little hard for a western audience to digest, especially without someone providing a running translation and context behind a lot of the things being said.
@@ -3550,14 +3550,14 @@ That being said, your website is wonderful! Nice work.
 reply
 
 femto
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Railway preservation (full size, not model). It looks crowded when a steam train is running and the moths gather around. The reality, when the trains are not running, is typically quite different, with a small dedicated group. If a place looks too crowded, pick a smaller museum.
@@ -3567,14 +3567,14 @@ Think of all the jobs that have to be done to run a railway and you will be able
 reply
 
 bluGill
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Only problem is this really depends on where you live. There is a nice museum 45 minutes from me - far enough that it is hard to get there for a quick evening after work...
@@ -3582,14 +3582,14 @@ Only problem is this really depends on where you live. There is a nice museum 45
 reply
 
 zgougou123
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My niche hobbies is carving wooden spoons and I think it balance very well with any work behind a computer.
@@ -3600,14 +3600,14 @@ This hobby also had me look around for wood everywhere, when walking or driving 
 reply
 
 elevation
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Consider mathematics. If you already know enough math to derive the quadratic equation, you might make a small change, like adding X^3 or X^4. See where your own techniques take you before looking up the answer. With just a few pen strokes, you will be playing with an equation for which there is no general solution, or no known solution. In mathematics it will take you very little time to start playing at the boundaries of human knowledge, and it's relatively easy to memorize a few starting points that many hours of passenger travel fly by.
@@ -3615,14 +3615,14 @@ Consider mathematics. If you already know enough math to derive the quadratic eq
 reply
 
 ivanjermakov
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 There is a lot of less popular math problems in spatial and high dimentional geometry, packing, topology.
@@ -3632,16 +3632,16 @@ Nice example of something many of us could try:https://news.ycombinator.com/item
 reply
 
 jolt42
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I like this. I like crossword puzzles but don't like I'm just solving pre-made puzzles rather than exploring new territory. Math seems the best candidate but are there other fields with similar challenges?
@@ -3649,14 +3649,14 @@ I like this. I like crossword puzzles but don't like I'm just solving pre-made p
 reply
 
 fergie
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Started a volunteer run, drop-in, bicycle workshop a few years ago. Its still going strong- something about the vibe, the practicality, and bike maintenance being just the right level of hard. I don't run it any more, but I drop in from time to time, and it always makes me feel better.
@@ -3664,14 +3664,14 @@ Started a volunteer run, drop-in, bicycle workshop a few years ago. Its still go
 reply
 
 dr_robert
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I’m a paraglider pilot and powered paraglider recently. Totally recommended, you get to connect with nature in a meaningful way. Also people who practice this kind of sports are nice. From a tech perspective there are a lot of data generated on each flight you can create your own way to capture that data or use already existing apps.
@@ -3679,14 +3679,14 @@ I’m a paraglider pilot and powered paraglider recently. Totally recommended, y
 reply
 
 AdrianB1
- 
+
 1 minute ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 A few days ago I donated all my powered paragliding equipment that I did not use for years. Too many accidents in my circle of friends, I still used to fly planes but not soft wings. If safety would not be a concern, paragliding is indeed very nice, more connected than a glider, fun, not too expensive, but I don't remember any paraglider pilot that I personally know that did not have at least a serious accident.
@@ -3694,16 +3694,16 @@ A few days ago I donated all my powered paragliding equipment that I did not use
 reply
 
 Brendinooo
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I got to do this a couple of years ago. It's super cool! Very much recommend it.
@@ -3713,34 +3713,34 @@ But I'll note that it's super...weird? in the sense that it's like halfway betwe
 reply
 
 c0nfusedpengu1n
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-The best part is when you can combine your love of engineering and flying and work on your own electric paramotor. 
+The best part is when you can combine your love of engineering and flying and work on your own electric paramotor.
 Highly recommend paragliding as an affordable and safe way to experience flight
 
 reply
 
 dr_robert
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I’m curious, are you working on your own electric paramotor?
@@ -3748,16 +3748,16 @@ I’m curious, are you working on your own electric paramotor?
 reply
 
 Deanallen
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 i've always been interested in para-motoring. how safe or unsafe is paragliding? do you think about that aspect before going out for a flight?
@@ -3765,16 +3765,16 @@ i've always been interested in para-motoring. how safe or unsafe is paragliding?
 reply
 
 dr_robert
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I’ve been flying since 2012 and I always think about safety. Safety is relative but if you do the things the right way you will be ok. A good common sense is super important, and then keep on your progression, there’s no need to skip steps. Knowing the air is a lifetime journey so there is no rush. Also I feel paramotor is kind of safer because you get to fly with light wind or not wind at all, mostly early in the morning or near sunset. In my personal experience this sport change my life.
@@ -3782,18 +3782,18 @@ I’ve been flying since 2012 and I always think about safety. Safety is relativ
 reply
 
 hermitcrab
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've known 3 people that were into paragliding. 2 of them had near misses from chute collapses and the other flew into a stationery car (he was saved from more serious injury by wearing a full face helmet). So definitely not risk free, based on that sample.
@@ -3801,16 +3801,16 @@ I've known 3 people that were into paragliding. 2 of them had near misses from c
 reply
 
 contingencies
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I did it once with an experienced pilot, tandem. An awesome experience. He explained the most dangerous time is when you get slightly confident. That's when most accidents occur, at the intermediate stage. He said you have to be religiously careful at all times, and stay paranoid.
@@ -3818,16 +3818,16 @@ I did it once with an experienced pilot, tandem. An awesome experience. He expla
 reply
 
 tristanb
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Me too! I love the view up there.
@@ -3835,16 +3835,16 @@ Me too! I love the view up there.
 reply
 
 dr_robert
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Totally worth it
@@ -3852,14 +3852,14 @@ Totally worth it
 reply
 
 xnorswap
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My strange hobby was going on what I called "leak walks".
@@ -3869,14 +3869,14 @@ I lived in a town where on any sunny day I could go for a walk and be almost gua
 reply
 
 hermitcrab
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 If it is a Thames Water area, you are lucky if the leak is only water...
@@ -3884,16 +3884,16 @@ If it is a Thames Water area, you are lucky if the leak is only water...
 reply
 
 xnorswap
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 There was one I thought was maybe a waste-water leak from the smell, but generally wastewater leaks are much harder to spot, and it's generally CSOs (Combined Sewer Overflows) that are the main problem there, which happen in heavy rainfall and not so much in residential areas.
@@ -3903,14 +3903,14 @@ Mains-water leaks however are easy to spot, because they're damp patches (or flo
 reply
 
 wqtz
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My hobby involves trying to help my brother get a job. He has a disability and can only work remotely at low-skill jobs. So, I have spent years applying, starting, and doing work in virtual assistant, support desk, and social media management roles for him. I apply to contract and freelance projects on his behalf, get started with the work, and later try to hand it off to him. He will either say one of two things: "You do it yourself" or that his brain cannot process the work. I make 10-15 times more money at my regular job, so hearing him say "You do it yourself" is not fun.
@@ -3920,14 +3920,14 @@ This hobby also includes trying to convince him that the business schemes he com
 reply
 
 getcrunk
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You’re a great brother! Sorry to hear your unappreciated.
@@ -3937,16 +3937,16 @@ I have a friend, philosophy masters, smart, autistic and he is not entering the 
 reply
 
 wqtz
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 No, I am not. That is the thing—it has been 7 years, and we are stuck in the same loop.
@@ -3955,16 +3955,16 @@ If I were to give your friend advice, it is to send a lot of warm emails. Joinin
 reply
 
 napolux
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 :(
@@ -3974,16 +3974,16 @@ Dunno which kind of disability, but at some point you being the good brother can
 reply
 
 wqtz
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 He has a physical disability, and he had major trauma that he is dealing with, but that was more than a decade ago. He went to therapy a few times but a couple of therapist essentially gave up on him. He said they were zoned out when he keeps talking.
@@ -3993,16 +3993,16 @@ I have been at my "limit" for several years already. I have a day job, and at ni
 reply
 
 brador
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It’s time to let go.
@@ -4010,16 +4010,16 @@ It’s time to let go.
 reply
 
 wqtz
- 
+
 51 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I am not sure that is possible because I act as a buffer between him and my parents.
@@ -4029,14 +4029,14 @@ My other siblings drew a line, and they are miserable themselves because they ca
 reply
 
 patapong
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Synthesizers! I like it because it's tactile and immediate, and you're not glued to a screen, but can create fun-sounding beats.
@@ -4046,14 +4046,14 @@ Nowadays there are nice, cheapish groove boxes that are perfect for noodling on 
 reply
 
 vectordust
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Bonus if you are friends who are also into it and you can jam together :)
@@ -4063,16 +4063,16 @@ How does one find these people? Asking for a friend! :DI've also gone down the s
 reply
 
 rumori
- 
+
 19 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Go to modular meets, music instrument expos like Superbooth, dj sets and live concerts.
@@ -4082,16 +4082,16 @@ Record conventions are also fun, after couple of occasions you will realize how 
 reply
 
 elric
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Deep in the Eurorack rabbit hole myself. Trying to avoid anything that has a screen and anything that requires a computer to interact with. Patching cables and twiddling knobs is great fun. Sometimes it even sounds good xD
@@ -4099,16 +4099,16 @@ Deep in the Eurorack rabbit hole myself. Trying to avoid anything that has a scr
 reply
 
 timc3
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Same here. I love it, I have lots of “normal” equipment as well but it’s not quite as fulfilling as modular.
@@ -4118,18 +4118,18 @@ The only slight downside is I often do it on my own away from the family.
 reply
 
 jerrysievert
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 another eurorack rabbit hole is patch.init() - prototyping module. I have 4 and have built:
@@ -4139,14 +4139,14 @@ another eurorack rabbit hole is patch.init() - prototyping module. I have 4 and 
 reply
 
 vectordust
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Despite AI starting to crowd this space, I've been spending all of my free time learning music production (doing it the old fashion way without AI). It's a great mix of technical and creative problem solving. Mostly focusing on dark ambient/cinematic composition, playing around hardware synths (Prophet 6, Subsequent 37, modular / eurorack, Digitone II).
@@ -4156,14 +4156,14 @@ If anyone is curious, I put out a single recently (remaster from last year):http
 reply
 
 evancarter
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Very nice listen. Perfect sort of song to have on while working. It reminds me of an album called Obsidian by Jónsi. It had a special exhibit at the museum of old and new art in Tasmania that was stupendous. (
@@ -4173,16 +4173,16 @@ https://www.tanyabonakdargallery.com/exhibitions/741-jonsi-h...
 reply
 
 gglitch
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Ion Dunes is outstanding. Very nice work. I would be happy to hear more, and would very much enjoy a writeup too.
@@ -4190,16 +4190,16 @@ Ion Dunes is outstanding. Very nice work. I would be happy to hear more, and wou
 reply
 
 genewitch
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 you know the OP has "ion" and "dust" in the middle so this was hard to find.
@@ -4209,14 +4209,14 @@ I normally can't stand ambient, but you went a different direction in the middle
 reply
 
 Ancalagon
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I’m obsessed with powerlifting. Not only because big numbers get bigger but also the physical changes that occur with a healthy dose of lifting each week. It’s also easy to track lifting stats and there are tons of analysis tools out there if data analysis is something you enjoy.
@@ -4226,14 +4226,14 @@ Also, I’m trying to learn guitar - right now following the Justinguitar.com le
 reply
 
 SoftTalker
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I do powerlifting 3x a week but I don't otherwise view myself as obsessed with it. I don't have a coach, I don't enter competitions. I know my PRs in my head but I don't keep spreadsheets or stats or have any kind of real programming. I don't video my lifts, I don't post about it on social media. I'm just content with getting stronger.
@@ -4243,16 +4243,16 @@ I really don't get obsessed with anything, which might be a fault as that seems 
 reply
 
 xarope
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 ditto. I don't have great numbers, my bench is terrible, not even 1.5x BW, but I did manage to get my DL to ~2.5x in a competition, then tweaked my back and now only double overhand, which means my grip tends to go when I get to ~2x BW (my gym doesn't allow chalk, and I don't use straps, so it is what it is).
@@ -4260,16 +4260,16 @@ ditto. I don't have great numbers, my bench is terrible, not even 1.5x BW, but I
 reply
 
 rahulgoel
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 +1 on this - powerlifting is great due to 1) Rapid, specific initial progress, 2) Highly structured programming (e.g., RPE based), 3) Focus on strength vs. aesthetics is a great way to be more holistic about health & performance, 4) Forcing function on all downstream decisions (diet, sleep, alcohol). Adding +15 lbs on your deadlift can become strong motivation to drive discipline, 5) Drives the importance of recovery/rest on long term progress
@@ -4277,16 +4277,16 @@ next
 reply
 
 teecha
- 
+
 11 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've started going down the rabbit hole with Reactive Training Systems and Emerging Strategies. Been a very satisfying deep dive into all sorts of data, variables, etc. to play with that has me constantly playing around with different ideas. Their free training tracker is just the tip of the iceberg but focusing on RPEs and protocols already feels like a game changer.
@@ -4296,16 +4296,16 @@ Started with Stronglifts 5x5 a couple of years ago and has definitely been one o
 reply
 
 madmountaingoat
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 For guitar I followed Justin up into his intermediate level stuff but then switched to in person lesson and they made a big difference for me. I think I got lucky with my first teacher though, as I've not really gelled with teachers I worked with later.
@@ -4315,16 +4315,16 @@ I'm obsessed with Strongman style functional lifting.
 reply
 
 avianbc
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I am 2/3x more productive on days that I get a powerlifting session in before work. There is no better feeling than overcoming a plateau through hard work and dedication.
@@ -4332,16 +4332,16 @@ I am 2/3x more productive on days that I get a powerlifting session in before wo
 reply
 
 trick-or-treat
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How much ya bench?
@@ -4349,16 +4349,16 @@ How much ya bench?
 reply
 
 boogieknite
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 one of my favorite parts of powerlifting, opposed to hiit or other fitness lifting, is the lack in physical change. i feel like i look the same but can point to numbers that show im much stronger
@@ -4366,16 +4366,16 @@ one of my favorite parts of powerlifting, opposed to hiit or other fitness lifti
 reply
 
 avianbc
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 When I started stronglifts, I didn't tell anyone and people noticed just from my physique after like ~5 weeks of training. Noob gains are insane and definitely cause physical change.
@@ -4383,18 +4383,18 @@ When I started stronglifts, I didn't tell anyone and people noticed just from my
 reply
 
 Ancalagon
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 True - I guess I am more of a power-builder. Which for those that don't know is powerlifting but also incorporates a lot of bodybuilding-type rep work for aesthetics. You lose some specificity doing this arguably so you're expending energy that would be better spent powerlifting if that was your true goal but this trade off is worth it to me.
@@ -4402,18 +4402,18 @@ True - I guess I am more of a power-builder. Which for those that don't know is 
 reply
 
 xarope
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 my clothes haven't changed in size, but I fill them out better, is probably best to describe it!
@@ -4421,16 +4421,16 @@ my clothes haven't changed in size, but I fill them out better, is probably best
 reply
 
 teecha
- 
+
 10 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Good problem to have! I had to start buying new clothes because the old ones were too tight.
@@ -4438,14 +4438,14 @@ Good problem to have! I had to start buying new clothes because the old ones wer
 reply
 
 achenatx
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Create custom software for non profits is pretty rewarding. They cant afford anything and have process flow needs that are completely unmet.
@@ -4455,32 +4455,32 @@ The software wont be sexy, but will help the non profits and the people they ser
 reply
 
 KellyCriterion
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-That could actually lead to a profitable business in the longer run: You will have great insights and lots of working code that may end up in a commercial product that someone is seeking? 
+That could actually lead to a profitable business in the longer run: You will have great insights and lots of working code that may end up in a commercial product that someone is seeking?
 Esp since you mentioned unmet requirements, thats actually a good indicator
 
 reply
 
 tobinfekkes
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I do this now! It is wonderful. So many unique projects being worked on that you'd never come across in your daily life. It's always fun to experience a world that is so far removed from tech, and see how clever people are at solving problems without SaaS, apps, or spreadsheets. Not every problem has a tech solution.
@@ -4490,16 +4490,16 @@ And it has turned into a decent chunk of business over the long run.
 reply
 
 dansmith1919
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Oh damn, I love this one. I’ve been vibe coding a ‘public benefit’ app on the side that has a few hundred users but never thought of doing something for an actual non-profit.
@@ -4509,16 +4509,16 @@ Care to elaborate on your process? Curious how you approach them and come up wit
 reply
 
 bombcar
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I would recommend finding a local non-profit you're interested in helping, and start volunteering. Don't go in guns blazing "I'm here from Hackernews to save you" but get to know the people and what they do, and then how to help will become apparent.
@@ -4528,16 +4528,16 @@ By local I would recommend truly local and not a "division" of a national non-pr
 reply
 
 bilsbie
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I’d love to get involved with this. How to do you organizations that need help?
@@ -4545,16 +4545,16 @@ I’d love to get involved with this. How to do you organizations that need help
 reply
 
 hermitcrab
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I would suggest looking for local charities whose mission you are care about. Then just finding out what issues they have. I ended up building a simple system based on Airtable for a local charity. Although pretty unsophisticated it was transformative for them.
@@ -4564,14 +4564,14 @@ https://successfulsoftware.net/2018/02/04/volunteering-your-...
 reply
 
 tikhonj
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's a great time to get into programming languages stuff: designing domain-specific languages, building new tools/abstractions and, especially, formal verification. If you're mathematically oriented, you can explore formalizing mathematical proofs in Lean.
@@ -4581,14 +4581,14 @@ LLMs have really revitalized interest in these areas. AI can really help navigat
 reply
 
 hiAndrewQuinn
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Recreational mapmaking.
@@ -4598,14 +4598,14 @@ Every couple of months the family and I will book out some long weekend to just 
 reply
 
 helterskelter
- 
+
 12 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You could get a sextant and become an amateur surveyor :)
@@ -4613,16 +4613,16 @@ You could get a sextant and become an amateur surveyor :)
 reply
 
 rationalist
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Now that's a niche hobby that sounds interesting.
@@ -4630,14 +4630,14 @@ Now that's a niche hobby that sounds interesting.
 reply
 
 bokohut
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Walking and finding history if your location has such history to offer to find.
@@ -4647,14 +4647,14 @@ People pay vast accruing cumulative sums over time to go to the gym and my exerc
 reply
 
 flomo
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Curious if you mean metal detecting. Either way, sounds like a great location!
@@ -4662,16 +4662,16 @@ Curious if you mean metal detecting. Either way, sounds like a great location!
 reply
 
 s3tt3mbr1n1
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Very interested to hear more. Do you live in an (old) city or more rurally?
@@ -4679,14 +4679,14 @@ Very interested to hear more. Do you live in an (old) city or more rurally?
 reply
 
 thom
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I don't think chess engines are a solved problem for some use cases. Yes you can make something strong, maybe even the strongest, but can you create a chess engine perfectly tuned to actually teaching a player? Instead of superhuman perfect lines and inscrutable long-horizon strategy, can you teach nearly optimal human play in a way that's actionable, modular and memorable? Can you improve on tournament prep for players against particular opponents or within a particular metagame?
@@ -4696,14 +4696,14 @@ Also, obviously it's your life, and we're here on Earth to fart around, but I ha
 reply
 
 elcapitan
- 
+
 18 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 This. For those more into reading instead of straight to therapy, Barbara Sher's "Refuse to Choose!" book about living with a multitude of interests can be a good starting point.
@@ -4713,14 +4713,14 @@ Also, making (or maybe tuning) a chess engine to teaching sounds like an interes
 reply
 
 BOOKHOUSEUK
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I design treasure hunts and then hide them in books. Well, I've just started to. Was obsessed by the book Masquerade, by Kit Williams as a kid. Finally decided that I could probably do that as well. So have started. Very much enjoying it.
@@ -4728,14 +4728,14 @@ I design treasure hunts and then hide them in books. Well, I've just started to.
 reply
 
 kruffalon
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'm just trying to understand what it is you do...
@@ -4745,14 +4745,14 @@ Do you make some sort of map and/or list of clues that you hide between the page
 reply
 
 hermitcrab
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I make my own hot sauce:
@@ -4762,14 +4762,14 @@ https://successfulsoftware.net/2024/08/04/making-your-own-ho...It's quite easy a
 reply
 
 trick-or-treat
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I've got a local guy that provides me all my hot sauce. I used to buy from supermarkets but I've become convinced that sourcing everything I eat locally is the way to go.
@@ -4779,14 +4779,14 @@ Anyway I only need to order from him like once per year because he sends me abou
 reply
 
 MandieD
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My hobby involves some of the oldest technology we've been able to find evidence of.
@@ -4796,14 +4796,14 @@ It started as spinning with a hand spindle using prepared (combed/carded) wool, 
 reply
 
 monssooon
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Im imterested in hearing more about this. Do you have a YouTube channel or any other place to follow you?
@@ -4811,14 +4811,14 @@ Im imterested in hearing more about this. Do you have a YouTube channel or any o
 reply
 
 rbanffy
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How niche is retrocomputing?
@@ -4828,14 +4828,14 @@ I absolutely love my ancient machines, and I use them to explore period applicat
 reply
 
 dare944
- 
+
 13 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I have a lot of fun with my old PDP-11s. Being able to run an original version of Unix on a machine with actual core memory (that I restored to working order) is a real kick for me. Gives a sense of depth to the software I run on my modern Linux laptop.
@@ -4843,16 +4843,16 @@ I have a lot of fun with my old PDP-11s. Being able to run an original version o
 reply
 
 eru
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You call that retro? ;) I have a Curta sitting on my desk. Not as fun to toy around with as the electronic computers from a few decades later, though.
@@ -4860,16 +4860,16 @@ You call that retro? ;) I have a Curta sitting on my desk. Not as fun to toy aro
 reply
 
 jakerubo
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I have a working Apple II with some of the original games, manuals, etc. Let me know if there's a way to contact you. Happy to send it your way if you cover shipping or something along those lines.
@@ -4877,16 +4877,16 @@ I have a working Apple II with some of the original games, manuals, etc. Let me 
 reply
 
 rbanffy
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I’m easy to find. There are very few Bánffys named Ricardo.
@@ -4894,14 +4894,14 @@ I’m easy to find. There are very few Bánffys named Ricardo.
 reply
 
 Skidaddle
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I’ve started making what I “joy machines” that I am putting up in or near my neighborhood. They’re some combination of public interactive art (e.g. push a button and it prints out a compliment) and little art on display that I design and 3D print for people to take.
@@ -4909,14 +4909,14 @@ I’ve started making what I “joy machines” that I am putting up in or near 
 reply
 
 jasondigitized
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'm intrigued and need to see some images or videos now.
@@ -4924,16 +4924,16 @@ I'm intrigued and need to see some images or videos now.
 reply
 
 DeltaCoast
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Very cool! Any links to posts about some of them?
@@ -4941,14 +4941,14 @@ Very cool! Any links to posts about some of them?
 reply
 
 ggregoire
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've been playing exclusively CRPGs for the last 12 months or so, which was kinda a niche genre before the success of BG3. There are tons of way to beat those games and optimizing how you build your party and characters (what players call "min-maxing") while following a highly narrative story is a lot of fun. Most of them are quite old and often on sales for like 5 bucks on Steam, for which you get hundreds of hours of gameplay. A few recommendations: Obsidian's Pillars of Eternity 1 & 2, Owlcat's Pathfinders & W40K Rogue Trader, Larian's Divinity 1, 2 & BG3, Bioware's BG1 & BG2, etc…
@@ -4956,14 +4956,14 @@ I've been playing exclusively CRPGs for the last 12 months or so, which was kind
 reply
 
 RajT88
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I always meant to go back to Wizardry 7 I think it is. (Or 5, I forget)
@@ -4973,16 +4973,16 @@ I was convinced that a party of all Ninjas and Samurai would be unstoppable, but
 reply
 
 trick-or-treat
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Fight Fight Fight, Parry Parry Parry.
@@ -4990,16 +4990,16 @@ Fight Fight Fight, Parry Parry Parry.
 reply
 
 g00z
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 These are a blast. I went through a phase in highschool where I exclusively played 90's CRPGs. There are some real gems that find a unique playstyle with tons of freedom due to how low fidelity the games are, while still being visually engaging and beautiful. Definitely check out fallout 2 if you haven't tried it yet, it's one of my favorites!
@@ -5007,16 +5007,16 @@ These are a blast. I went through a phase in highschool where I exclusively play
 reply
 
 mkjs
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Nice to see people discovering these games. I wouldn't really say it was niche until BG3 though, there were plenty of highly acclaimed games long before that.
@@ -5026,16 +5026,16 @@ You might like this blog, the author plays through CRPGs in chronological order.
 reply
 
 drchickensalad
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Check out the Epic Encounters 2 mod for D:OS2. Best tactics experience I've ever had. Runners up are LWOTC for XCOM3 and Homebrew for BG3.
@@ -5043,16 +5043,16 @@ Check out the Epic Encounters 2 mod for D:OS2. Best tactics experience I've ever
 reply
 
 avisser
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Fallout 1 & 2! Formative titles for young me.
@@ -5060,14 +5060,14 @@ Fallout 1 & 2! Formative titles for young me.
 reply
 
 davenporten
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Animal tracking. I picked it up in college and it has been a real source of joy and a true challenge. It's also something you can do almost anywhere: urban, suburban, rural, out in "the wild."
@@ -5077,32 +5077,32 @@ A lot of people think of it as looking for paw/hoof marks in the mud, but tracki
 reply
 
 andrewrn
- 
+
 12 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-You might really enjoy this book, I really did: 
+You might really enjoy this book, I really did:
 https://www.amazon.com/Walkers-Guide-Outdoor-Clues-Signs-ebo...
 
 reply
 
 JimBlackwood
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Sounds fun! Do you have resources to get started?
@@ -5112,52 +5112,52 @@ I do gundog work, it would be fun to do the tracking together with the dog. (I d
 reply
 
 andrewrn
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-This is a great book regarding animal tracking and other interesting clues in the outdoors. It’s very British-centric sadly though. 
+This is a great book regarding animal tracking and other interesting clues in the outdoors. It’s very British-centric sadly though.
 https://www.amazon.com/Walkers-Guide-Outdoor-Clues-Signs-ebo...
 
 reply
 
 sourdoughtronic
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 1. Lacto fermented food, you can spend plenty of time making unique food not available anywhere. Good niche to start is lacto fermented hot sauce. You can go very mild or crazy hot depending on your preference.
 2. Sourdough is pretty understood, but there is hardly anything about gluten free sourdough. Basic principles are the same, you make a starter from flour and water, but you need to make it across different gluten free flour and combine them at the end. Endless possibilities with playing with ratios, toppings, etc.
 3. Building meshcore / meshtastic nodes for your local area. There are kits / ready make nodes online or you can build your own.
 4. Building a cyberdeck. You can start small with ready made parts, while you work towards designing your own PCB, handling battery with BMS, CADing everything, 3d printing, etc. You can specialise by only doing themed cyberdecks like only wearable or only fallout inspired.
-5. Self host at home, but only rootless, distroless podman containers. 
+5. Self host at home, but only rootless, distroless podman containers.
 6. Automate all you can at home and integrate into home assistant. Install wleds, sync them to the music or use them as visual notification for things you care about
 
 reply
 
 kristjank
- 
+
 40 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I would appreciate more data on the gluten-free sourdough. I have a family member who has a wheat/gluten allergy and spends a tonne of money on special diet bread.
@@ -5165,16 +5165,16 @@ I would appreciate more data on the gluten-free sourdough. I have a family membe
 reply
 
 kruffalon
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Impeccable timing!
@@ -5184,16 +5184,16 @@ About 2: Gluten free sourdoughs.Do you have any good starting points or resource
 reply
 
 trick-or-treat
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You lost me at gluten-free sourdough.
@@ -5201,14 +5201,14 @@ You lost me at gluten-free sourdough.
 reply
 
 microscoper
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I think a really underrated hobby is amateur Microscopy, I don't know why its not more popular.
@@ -5218,14 +5218,14 @@ Looking at moss, pond water, microbes, tardigrades, paramecia, cells, plants, cr
 reply
 
 kraftverk_
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Any suggestions for a good bang for the buck microscope? I have been wanting to get one for ages
@@ -5233,16 +5233,16 @@ Any suggestions for a good bang for the buck microscope? I have been wanting to 
 reply
 
 contingencies
- 
+
 58 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I can recommend the mono 'zoom tube' industrial cameras with live USB output. Very cheap in China, often expensive when resold overseas. I think a 4k one should be $100 or less. Maybe $150 including stand, ring light, etc. USB UVC control.
@@ -5250,14 +5250,14 @@ I can recommend the mono 'zoom tube' industrial cameras with live USB output. Ve
 reply
 
 Daub
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > I'm looking for something novel and interesting, that isn't absolutely crowded that I could meaningfully contribute to.
@@ -5267,14 +5267,14 @@ I would say that a hobby is a bit like a fetish in that it is derived from our i
 reply
 
 NoboruWataya
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Hnefatafl, a simple board game that was played by the vikings and others who had frequent contact with them. Or rather, what we play today is an approximation of what they played back then as we don't really know the exact rules they used. It's interesting in that unlike chess and others, it is asymmetrical, and there are a number of different variants each with their own challenges and different balances between attacker and defender.
@@ -5284,30 +5284,30 @@ The main community and learning resource is athttp://aagenielsen.dk.
 reply
 
 afc
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-I don't know if it's niche, but I like making granola for my friends and family. I give them a big jar and tell them free refills are included ("just bring me the empty jar"). I get pretty good nuts and tend to make largish batches (around 2 kg), and, because of the refills, I get a good sense of who appreciates it — always happy to make more for them. My recipe is here: 
+I don't know if it's niche, but I like making granola for my friends and family. I give them a big jar and tell them free refills are included ("just bring me the empty jar"). I get pretty good nuts and tend to make largish batches (around 2 kg), and, because of the refills, I get a good sense of who appreciates it — always happy to make more for them. My recipe is here:
 https://alejo.ch/365
 
 reply
 
 dbacar
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 any chance we got it in English? would love to try
@@ -5315,16 +5315,16 @@ any chance we got it in English? would love to try
 reply
 
 DANmode
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You need help translating a two-step recipe?
@@ -5334,14 +5334,14 @@ On HN?Are you sure?
 reply
 
 embwbam
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Not sure if you were looking only for indoor hobbies, but I picked up Kiteboarding recently, and it is the most outrageously fun thing I've ever done.
@@ -5351,14 +5351,14 @@ It's like being a kid and jumping off the house with a bedsheet, except it works
 reply
 
 JimBlackwood
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Really fun! I used to do it too, and I miss it.
@@ -5368,16 +5368,16 @@ How do you combine it with work? Where I live in NL, there are few days where I�
 reply
 
 embwbam
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I work remotely, and my schedule is flexible. I live in Squamish BC all summer which is great for wind. In the winter we are in UT but my friends take lots of kiting destination vacations.
@@ -5387,16 +5387,16 @@ I’m fairly late in my career though (44yo), so I’ve opted for a lower salary
 reply
 
 jakeydus
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'll take whatever lower salary is allowing you to snowbird in squamish!
@@ -5404,16 +5404,16 @@ I'll take whatever lower salary is allowing you to snowbird in squamish!
 reply
 
 microscoper
- 
+
 13 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I always thought that looked fun but I would worry about being blown away up too high or into some obstacle like rocks
@@ -5423,16 +5423,16 @@ Is that something that happens to people?Also how dependent is it on weather? Do
 reply
 
 ddorian43
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Jumping takes real skill. I went like 60 times and can barely jump 7m in perfect conditions by trying very hard.
@@ -5442,16 +5442,16 @@ That happens very rarely like recently in Israel where they went out on a storm,
 reply
 
 ddorian43
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Kitesurfing is insane yes! I can jump up to ~6m in 1 year.
@@ -5461,14 +5461,14 @@ Really efficient adrenaline with relatively very low risk.
 reply
 
 Natone
- 
+
 53 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My hobby is growing exotic plants, things like rare tropicals. It’s fun, hands-on, and there’s plenty of room to experiment and try new things.
@@ -5476,14 +5476,14 @@ My hobby is growing exotic plants, things like rare tropicals. It’s fun, hands
 reply
 
 PaulHoule
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've been doing photography for a long time but over the last few years had phases where I got bored of it and tried something new.
@@ -5493,14 +5493,14 @@ I had a long time when I was bored and carried the camera in my pack but never t
 reply
 
 eitally
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Same, but not the same. I've also been doing photography for a long time and when I had kids I added some gear & skills to shoot them playing sports. After a few years of this I realized since I was already there I might as well shoot the whole team, or both/all teams, since everyone's families would value the photos.
@@ -5510,16 +5510,16 @@ When I was laid off at the end of last year I decided to formalize this and now 
 reply
 
 EvanAnderson
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That gig is something I tried to do w/ my daughter's sports for the past 5-ish years. I loved shooting her games and distributing the photos both teams. It was so much fun.
@@ -5529,16 +5529,16 @@ I had a nasty altercation with a parent last fall and now I can't pick up the ca
 reply
 
 eitally
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It depends on the type of experience that altercation was. If it was you being confronted about photographing their kid without a model release, that's one thing, but if it was a more general unease of a photographer being present at the event, that's different.
@@ -5548,18 +5548,18 @@ For the latter, make sure you don't need a media credential (you probably don't)
 reply
 
 rationalist
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Make up an official-looking "Event Photographer" vest, hat, lanyard with "Photographer Pass" on it, etc?
@@ -5569,23 +5569,23 @@ People generally ignore or even help workers with a bright vest, carrying a ladd
 reply
 
 PaulHoule
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-In Munich in 1999 I almost got my ass kicked by some guy at a rave for taking a picture of his girlfriend with a frickin' 
+In Munich in 1999 I almost got my ass kicked by some guy at a rave for taking a picture of his girlfriend with a frickin'
 Game Boy Camera
-. (Got GBC shots featured in 
+. (Got GBC shots featured in
 Nintendo Power!
 )
 
@@ -5594,18 +5594,18 @@ My current style is centered around getting posed group portraits at events and 
 reply
 
 hermitcrab
- 
+
 15 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You need to be extremely careful about taking photos of children without explicit permission from the parents.
@@ -5613,16 +5613,16 @@ You need to be extremely careful about taking photos of children without explici
 reply
 
 eitally
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You need to know the law. That is being careful, but it doesn't mean it's always illegal to photograph children in public.
@@ -5630,16 +5630,16 @@ You need to know the law. That is being careful, but it doesn't mean it's always
 reply
 
 EvanAnderson
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 For sure, but it didn't help me because I don't have the fortitude to stand my ground. I'm very non-confrontational.
@@ -5649,16 +5649,16 @@ For sure, but it didn't help me because I don't have the fortitude to stand my g
 reply
 
 DANmode
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That’s the first step. Good for you - well done.
@@ -5666,18 +5666,18 @@ That’s the first step. Good for you - well done.
 reply
 
 EvanAnderson
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 At least on the street and in sports my experience is people using purpose-built cameras get harassed.
@@ -5687,16 +5687,16 @@ People using cell phones as cameras get a pass (at least in sports).
 reply
 
 PaulHoule
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It's common that they don't even let you into the venue if you have a interchangable lens camera. I wouldn't even try going into a pro game with a camera if I didn't have a credential.
@@ -5706,16 +5706,16 @@ At my Uni I usually go right in without any trouble, the only case I got hassled
 reply
 
 hermitcrab
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Insect macro photography is an interesting and challenging niche within photography. Trying to find insects and then get a sharp photo, when you have less than 1mm depth of field, is quite a challenge! It also opens up a whole world that you wouldn't normally see.
@@ -5723,19 +5723,19 @@ Insect macro photography is an interesting and challenging niche within photogra
 reply
 
 PaulHoule
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-I've seen photos by people who use the native focus stacking in Olympus Micro 4/3 cameras to get awesome shots of insects. I am firmly in the Sony camp but I have been thinking of getting an Olympus body and a lens or two for birds (lens+body is much less than the Sony lens and 
+I've seen photos by people who use the native focus stacking in Olympus Micro 4/3 cameras to get awesome shots of insects. I am firmly in the Sony camp but I have been thinking of getting an Olympus body and a lens or two for birds (lens+body is much less than the Sony lens and
 it can be hand-held
 ) and macro work... Like once I saw focus stacked flower pictures I couldn't be 100% happy w/ the ones I take)
 
@@ -5744,16 +5744,16 @@ Seehttps://learnandsupport.getolympus.com/om-system-ambassadors...
 reply
 
 hermitcrab
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Stacking is difficult with insects. Unless you kill them first, which I don't want to do.
@@ -5761,16 +5761,16 @@ Stacking is difficult with insects. Unless you kill them first, which I don't wa
 reply
 
 ares623
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 A sub-niche of this I'm currently into is film photography. It's a bit more cost over time and much more "work" for objectively inferior results. But for personal and family photos, I feel more connected to the photos I take with film.
@@ -5780,14 +5780,14 @@ As an example, we've just came back from a holiday trip, and if I had taken a di
 reply
 
 serf
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 FDM 3d printing is still a wild-west and there are plenty of avenues to explore. Not sure what else to say about that other than as someone with daily and close personal proximity to the 'industry' that cropped up I am well aware that there is plenty of work to be done by enthusiasts and niche-people.
@@ -5797,14 +5797,14 @@ Engineering and machinery is still a place full of exploration if you have the c
 reply
 
 switchbak
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I knew a guy who found an interesting 3d printing niche: 2 way radios for professionals (mainly SAR crews) are always getting fetched up on clothing, and you're often finding the radio turned off because the knobs got moved. Dumb problem, should have been solved by fundamental engineering years ago - but whatever. He built a 3d printed shroud for a variety of popular radios, and now makes a living selling these.
@@ -5814,14 +5814,14 @@ He's a tech guy, but no engineer. He saw the need (he works on a SAR team), saw 
 reply
 
 chasd00
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 amateur liquid bi-prop rocket engines for the High Power Rocketry hobby are gaining momentum. There's lot of opportunity there for performance profiling and even more if you have access to a machine tools like CNC lathes. There's also interest in active stabilization of amateur rockets using engine gimbaling which would put so much more performance in reach.
@@ -5831,14 +5831,14 @@ These guys are legit and actually flying airframes instead of just ignition on a
 reply
 
 towledev
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 As a kid, I dreamed of doing this. Some of my earliest googling was related to rocket fuel, probably right after October Sky came out.
@@ -5848,16 +5848,16 @@ What differentiates High-Power from the other options?
 reply
 
 hermitcrab
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Model rockets are classified as 'high power' above a certain impulse. In places like the UK and US you are expected to gradually work your way up from low impulse motors (A,B,C) to high impulse motors (J,K,L+).
@@ -5865,16 +5865,16 @@ Model rockets are classified as 'high power' above a certain impulse. In places 
 reply
 
 hermitcrab
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Probably better to start with solid fuel motors? lots to learn before progressing onto liquid fuel motors.
@@ -5882,16 +5882,16 @@ Probably better to start with solid fuel motors? lots to learn before progressin
 reply
 
 LM358
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Solid rocket motors are conceptually simpler, but much more dangerous and in many jurisdictions legally dubious to make yourself compared to hobbyist bi-liquid or hybrid designs.
@@ -5899,16 +5899,16 @@ Solid rocket motors are conceptually simpler, but much more dangerous and in man
 reply
 
 hermitcrab
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Off the shelf, solid fuel motors are almost impossible to start accidentally. I don't see how they are more dangerous than dealing with tanks of pressurised gases.
@@ -5918,14 +5918,14 @@ Making solid fuel motors yourselfisdangerous (and illegal without a licence in t
 reply
 
 jedberg
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I make holiday light shows with an open source program called XLights[0]. I'm sure you've seen the videos[1] of what people[2] can do. Usually the top comment is "man that is cool but I wouldn't want to be their neighbor!" followed by "my neighbors love my light shows".
@@ -5935,14 +5935,14 @@ Creating the sequences is time consuming, and lot of people end up buying them o
 reply
 
 rationalist
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Warning: Do NOT click on [1] unless you have 25 minutes to spend transfixed on a video. Holy cow...
@@ -5950,16 +5950,16 @@ Warning: Do NOT click on [1] unless you have 25 minutes to spend transfixed on a
 reply
 
 jedberg
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 It takes about 10 hours per minute of song to make a sequence like that. Imagine if AI could help speed that up!
@@ -5967,14 +5967,14 @@ It takes about 10 hours per minute of song to make a sequence like that. Imagine
 reply
 
 cameldrv
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Flying sailplanes/gliders. Once you get good at it, you can fly hundreds of miles (or more) by understanding the weather and figuring out where the air is going up. Lots of opportunities to nerd out. Aerodynamics, weather forecasting, remote sensing, in-flight user interfaces, strategy, communications, and also just satisfying to figure out how to coax the atmosphere to get you somewhere for free.
@@ -5982,14 +5982,14 @@ Flying sailplanes/gliders. Once you get good at it, you can fly hundreds of mile
 reply
 
 andrewrn
- 
+
 12 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I did a few flights in college but never got my license because there wasn’t an instructor light enough to meet weight requirements with me lol. Do you have yours? If so, how long did it take you?
@@ -5997,16 +5997,16 @@ I did a few flights in college but never got my license because there wasn’t a
 reply
 
 cameldrv
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I did it back in college too. We had a great club that really catered to students. It was $ 14 for a 2000 ft tow, and $99/yr for a membership, that included all glider rental for the lower performance ships (Schweizers). The instructors were volunteers, but you had to wait. There was a signup sheet, and the first one to get to the field got the first flight.
@@ -6016,17 +6016,17 @@ Weight wise I was skinny back then and it wasn’t a problem. I soloed my first 
 reply
 
 ggambetta
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-I'm into book restoration, here's a gallery: 
+I'm into book restoration, here's a gallery:
 https://photos.app.goo.gl/1oNxCfKJp4k6yjoZ9
 
 Much less niche, but I'm also really into acting:https://m.youtube.com/watch?v=do5PicgU0Jw
@@ -6034,14 +6034,14 @@ Much less niche, but I'm also really into acting:https://m.youtube.com/watch?v=d
 reply
 
 riffraff
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's impressive work! But how come the books are in mixed languages? Are they your books? Do you fix books for random people?
@@ -6049,16 +6049,16 @@ That's impressive work! But how come the books are in mixed languages? Are they 
 reply
 
 ggambetta
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Hahaha, good observation :) I ran out of my childhood books (in Spanish) to fix, then I ran out of my GFs childhood books (in Latvian), so at that point I offered my services to anyone in the Google Zürich office. I got books in all kinds of languages I couldn't read, and a few chocolates and bottles of wine for my troubles :)
@@ -6068,16 +6068,16 @@ Some of the most interesting books were especially challenging. One in old Germa
 reply
 
 riffraff
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 that seems wonderfully varied and entertaining :)
@@ -6085,14 +6085,14 @@ that seems wonderfully varied and entertaining :)
 reply
 
 cmdrk
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Bellringing, specifically change ringing. It’s a type of church bell ringing that is rather algorithmic in nature. Tends to attract mathy types. Religion not required or expected!
@@ -6102,14 +6102,14 @@ If you have English-style tower bells near you, it's worth checking out, even if
 reply
 
 mastermedo
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Rest assured, my mind is blown.
@@ -6119,14 +6119,14 @@ https://www.youtube.com/watch?v=3lyDCUKsWZs
 reply
 
 kukkeliskuu
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So interesting to read from other's hobbies!
@@ -6145,14 +6145,14 @@ I believe we all have three major parts: emotional, intellectual, and physical.I
 reply
 
 _spduchamp
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I build weird experimental instruments and then play them at the local electronic music open mic nights.
@@ -6162,14 +6162,14 @@ My main instrument is the electroduochord, a stereo two-stringed instrument play
 reply
 
 solstice
- 
+
 19 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I dig the electroduotone. Congrats!
@@ -6179,16 +6179,16 @@ Have you heard of electronicos fantasticos? It's this band from Japan who make i
 reply
 
 nathan_douglas
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Really dig the sound of the first one, though all of these are really cool.
@@ -6196,16 +6196,16 @@ Really dig the sound of the first one, though all of these are really cool.
 reply
 
 _spduchamp
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Thanks! I have some albums that were made using the electroduochord.
@@ -6215,14 +6215,14 @@ This one was created autonomously using a feedback algorithm controlling the spe
 reply
 
 giancarlostoro
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 There's a lot of legacy / retro coding out there that despite the output being used by anywhere from hundreds, to thousands to even millions of end-users, it still involves small tight night communities per project, sometimes they overlap somewhat. I've mentioned it before, if you follow people reverse engineering Shockwave, you will note that they are all on the same communities to capture as much wisdom from others as possible. In niche reverse engineering communities, the smallest thing can be a life changer.
@@ -6230,14 +6230,14 @@ There's a lot of legacy / retro coding out there that despite the output being u
 reply
 
 hyperific
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Get your Part 107 federal drone license and volunteer for your local fire department or search and rescue. When the FD responds to structure fires they sometimes have to go up on the roof to cut an air hole. This allows oxygen into the building which helps prevent backdrafts. A FLIR equipped drone can help direct the hole cutter around hotspots on the roof. If your local fire department has a drone, it might not have the staff to be able to use it on calls.
@@ -6245,14 +6245,14 @@ Get your Part 107 federal drone license and volunteer for your local fire depart
 reply
 
 avidiax
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 How involved is the license? I've flown racing quads and RC planes, so I think I have the hand-eye coordination and spatial awareness skills.
@@ -6262,16 +6262,16 @@ Is this something that would be saturated in the Bay Area? Does the SAR team pro
 reply
 
 hyperific
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 You'd need to schedule and take an exam. There are lots of resources online to help you study. I recommend the Youtube video from Tony and Chelsea Northrup.
@@ -6281,14 +6281,14 @@ I'm not sure how saturated it would be. My advice would be to contact the closes
 reply
 
 hn_throwaway_99
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Guess this doesn't count as a hobby since I switched careers, but I left software recently to attend violin making school. I'm happier than I've been in a long time.
@@ -6298,14 +6298,14 @@ I'd encourage all "mental work" folks to engage withsomethingphysical in the 3D 
 reply
 
 timbeccue
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Really cool! I split my time between cello and software so I'm decently familiar with this line of work. What inspired you to switch careers? I imagine it's not easy to get a foothold as a luthier either. Do you feel like you're taking a big risk?
@@ -6313,16 +6313,16 @@ Really cool! I split my time between cello and software so I'm decently familiar
 reply
 
 hn_throwaway_99
- 
+
 9 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I switched careers because the software and tech world has changed drastically since I first started, and not in ways that I enjoy or that play to my strengths.
@@ -6332,14 +6332,14 @@ Fundamentally I enjoy being acraftsperson. That is, someone who through training
 reply
 
 cadr
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I don’t know how niche they are, but a few I’ve done in the past
@@ -6349,14 +6349,14 @@ I don’t know how niche they are, but a few I’ve done in the past
 reply
 
 zavec
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Lock picking is great! Many security conferences will have a "lockpick village" where there are just a bunch of locks, lockpicks, and volunteers teaching people how to do it.
@@ -6364,16 +6364,16 @@ Lock picking is great! Many security conferences will have a "lockpick village" 
 reply
 
 devrundown
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Ham radio is hundreds of sub-hobbies in a trench coat
@@ -6383,16 +6383,16 @@ Really good way of putting it! POTA can be a lot of fun.
 reply
 
 Temporary_31337
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 HAM radio is whole range of things that were not possible when I was getting into it - first of all it's super cheap to start now, and you can probably bounce RF signals off the moon for less than $100 nowadays.
@@ -6402,16 +6402,16 @@ Solar powered BTS or APs all kinds of experiments are possible...
 reply
 
 pikewood
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Any pointers to resources or groups around 3D printed musical instruments? Sounds really interesting!
@@ -6419,16 +6419,16 @@ Any pointers to resources or groups around 3D printed musical instruments? Sound
 reply
 
 cadr
- 
+
 14 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 There is a /r/3dprintedinstruments subreddit that if you sort by best of all time has a lot of good stuff.
@@ -6438,14 +6438,14 @@ Fipple flutes like recorders and ocarinas tend to be easy to start with. I also 
 reply
 
 ffsoftboiled
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Fishing. But not just regular fishing, life listing. I catalogue and detail ever fish I catch; the conditions, the type of lure or bait, the rod etc. From there you can get into microfishing with tanago rods, surf fishing etc. It's can get quite deep and a good additional hobby for people who love to travel.
@@ -6453,14 +6453,14 @@ Fishing. But not just regular fishing, life listing. I catalogue and detail ever
 reply
 
 munificent
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I also take notes when I fish. It's less about recording a life list, and more about trying to collate what is otherwise very thing spotty data enough to get better at fishing.
@@ -6470,16 +6470,16 @@ As someone who has learned alotof skills and hobbies online and likes sharing in
 reply
 
 jimnotgym
- 
+
 13 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I fish for salmon. In my part of the UK it has become very niche due to the scarcity. I joined clubs and never went, but now I'm in a syndicate where I fish one Saturday per month for the season, and never miss it. I'm years in and still never got one into the net! Fishing for migratory fish that don't feed once they are in the river is mad. On my fishing days I don't think of anything else
@@ -6487,16 +6487,16 @@ I fish for salmon. In my part of the UK it has become very niche due to the scar
 reply
 
 lurkingllama
- 
+
 18 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You have an app for this? Been wanting to do something similar
@@ -6504,16 +6504,16 @@ You have an app for this? Been wanting to do something similar
 reply
 
 ffsoftboiled
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Warning I am not a developer. It could be better.
@@ -6523,14 +6523,14 @@ https://github.com/MichaelAPerry/FishDex
 reply
 
 tombert
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I have been spending an inordinate amount of time trying to find the owners of the old Digital Research "Concurrent DOS" operating system. There's a lot of interesting turns in the search and it's been fun to document.
@@ -6540,14 +6540,14 @@ I've written a blog post about it [1] though there have been a few updates since
 reply
 
 joleyj
- 
+
 9 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 FYI 4699 OS is based on Concurrent DOS 286 and runs worldwide to this day
@@ -6557,16 +6557,16 @@ https://en.wikipedia.org/wiki/4690_Operating_System?wprov=sf...
 reply
 
 tombert
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Thanks for reading the post!
@@ -6576,14 +6576,14 @@ I have been looking into the Concurrent DOS 286 and FlexOS lineage. Since there 
 reply
 
 gritspants
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm big into anti tech/work related activities. It reminds me that no matter how much I know, or think I know, that I have so much more to learn.
@@ -6593,14 +6593,14 @@ I got into scuba diving while living in NC, and it just happens that there's a l
 reply
 
 swalberg
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 GUE Fundies is on my bucket list. I don't think I'd be interested in cave diving or deep stuff where I need helium, but the level of skill that tech divers show is something I want to be able to do.
@@ -6608,16 +6608,16 @@ GUE Fundies is on my bucket list. I don't think I'd be interested in cave diving
 reply
 
 gritspants
- 
+
 16 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Do fundies! We all failed, initially. We had a blast bunking up and spending days in the water though.
@@ -6625,14 +6625,14 @@ Do fundies! We all failed, initially. We had a blast bunking up and spending day
 reply
 
 edu
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I’ve recently started making bread, at the moment still with fresh or bakers yeast and planning to grow my own sourdough.
@@ -6642,14 +6642,14 @@ It’s not very niche, but as a hobby it’s pretty fulfilling. It allows for a 
 reply
 
 bluGill
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I make most of my bread with sourdough. It is really easy, it takes a bit longer, but there are less steps - just mix some more flour/water (sometimes salt, but I've not had a problem when I forget though others say it helps the taste to add salt - YMMV) into your starter and wait. Yeast is faster by a lot, but it is a lot more complex and so I don't find it worth it.
@@ -6657,16 +6657,16 @@ I make most of my bread with sourdough. It is really easy, it takes a bit longer
 reply
 
 __fst__
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My wife got a square cast iron dutch oven that she bakes bread in. The breads have this nice crust and soft texture inside. To die for.
@@ -6674,14 +6674,14 @@ My wife got a square cast iron dutch oven that she bakes bread in. The breads ha
 reply
 
 EricEspen
- 
+
 45 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 sailing.
@@ -6690,14 +6690,14 @@ you will learn how to be self resilient, to be an electric, plumber, painter, we
 reply
 
 tverbeure
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Is buying hopefully broken electronic test equipment at the flea market, fixing it and then blogging about it a niche hobby?
@@ -6705,14 +6705,14 @@ Is buying hopefully broken electronic test equipment at the flea market, fixing 
 reply
 
 xfce4
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 of course
@@ -6720,14 +6720,14 @@ of course
 reply
 
 jbethune
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Local urbex and exploration of 'haikyo' areas. Easy for me since I am in Tokyo and it's super walkable. I have taken to just getting on the train and getting off at random stations and walking in a random direction for a couple of kilometers. Every now and then I run into interesting abandoned buildings or neat shrines. Also makes for good exercise.
@@ -6735,14 +6735,14 @@ Local urbex and exploration of 'haikyo' areas. Easy for me since I am in Tokyo a
 reply
 
 JanMa
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I don't think it's a niche hobby, but I really enjoy cooking. Trying out new techniques and receipts, cooking dinner for friends and family or just preparing a delicious meal in advance.
@@ -6750,14 +6750,14 @@ I don't think it's a niche hobby, but I really enjoy cooking. Trying out new tec
 reply
 
 trick-or-treat
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Cooking is possibly the least niche hobby ever, but it sounds like you're elevating it. Maybe call it "gastronomy", lol.
@@ -6765,14 +6765,14 @@ Cooking is possibly the least niche hobby ever, but it sounds like you're elevat
 reply
 
 chrysoprace
- 
+
 11 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Some fantastic hobbies involve learning a new skill that'll serve you in the long run outside of tech, or teach you something interesting that will last after you drop the hobby. I personally love making things, especially food-related things and so I've been a hobbyist baker for about a decade. The Bread Code on GitHub was a fantastic introduction and taught me the basics to branch out and discover better baking techniques. That's the main one I've stuck with.
@@ -6782,17 +6782,17 @@ I've also dabbled in home wine making, cheese making, preserving and pickling, a
 reply
 
 mkosmul
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Designing origami tessellations: 
+Designing origami tessellations:
 https://origami.kosmulski.org/albums/tessellation-examples
 
 It's lots of fun, with folding allowing you to go offline for a while. The community is very friendly, both online and with IRL meetings such as yearly conventions in many countries.Still a kind of niche within origami, so there's lots of room for novelty and explorations. And there are strong ties to mathematical and computational origami if you're into this kind of thing.
@@ -6800,14 +6800,14 @@ It's lots of fun, with folding allowing you to go offline for a while. The commu
 reply
 
 garrickvanburen
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 https://dejabru.org
@@ -6816,14 +6816,14 @@ https://dejabru.org
 reply
 
 ivanjermakov
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Many niche sports that are great at making you spend less time sitting in front of a computer.
@@ -6833,14 +6833,14 @@ I want to try trials[1] (both bicycle and moto), but it might be hard to find lo
 reply
 
 skyberrys
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm into innovation in HCI as a hobby, but it does get expensive so I would like to bring in some additional financial support for my unusual builds.
@@ -6850,14 +6850,14 @@ I didn't really plan to build HCI as a hobby, but I have a strong interest in ha
 reply
 
 ZTX
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 HCI innovation is definitely an interesting hobby - anything you can share or point me towards?
@@ -6865,14 +6865,14 @@ HCI innovation is definitely an interesting hobby - anything you can share or po
 reply
 
 evklein
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Not sure if this is an established hobby or something I've just come up with myself, but I've been "dashboarding." Essentially I have a Blazor webapp that integrates lots of data sources (some manual, some automatic) from areas of my life and I use that to visualize and analyze goals and habits. The main page consists of rolling-weekly stats that deliver "integration scores." Each score contributes to an overall score that gives me a general idea of how I'm doing on all my habits and goals.
@@ -6882,14 +6882,14 @@ So for instance, I use YNAB for our family budgeting, and I have it setup so tha
 reply
 
 THansenite
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Do you have more details on this project anywhere? I've been working on habit-building and tracking in my journal for the past year and a half or so, but I'm looking to amp it up a bit more. Your project appeals to my software developer and hobby collector mindset and would love to learn more about it.
@@ -6897,16 +6897,16 @@ Do you have more details on this project anywhere? I've been working on habit-bu
 reply
 
 evklein
- 
+
 17 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Not really, but I'm happy to share more here :)
@@ -6916,14 +6916,14 @@ In all honesty, under the hood it's a bit of a mess. I may have eschewed some of
 reply
 
 estetlinus
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Muay thai is my favorite hobby. Two kids later, it’s hard to find time, but I had a time where I went boxing everyday. I can really recommend material arts for those with proper work/life balance.
@@ -6933,14 +6933,14 @@ No activity brings you more endorphines than being brutalized under controlled c
 reply
 
 xfce4
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Wrestling is my favorite. I'd like to start boxing, muay thai, or BJJ, but it's just a cost issue honestly. I feel like MMA (by extension, kickboxing and BJJ classes) has become a sort of trend, especially among teenagers/young adults, which is probably one of the reasons why classes cost so much lately. I know lots of people at my wrestling gym who do several martial arts at a time and it's got to be pretty hard on their free time.
@@ -6950,14 +6950,14 @@ Outside of drilling and live wrestling, it's really rewarding when I get to teac
 reply
 
 davidgh
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 A group of us in our community broadcast many of the local high school sports. Our original setup had a scoreboard that was really clunky to manage and was hard to learn, so I built a web-based version that pretty much any 12 year old with an iPad could use.
@@ -6967,14 +6967,14 @@ I have worked with the logs extensively over time to convert the simple data inp
 reply
 
 jasondigitized
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Would love to see this in action. Anything you can share? Also, what gear is used for this? Having recently been in charge of a scoreboard made by Daktronics for high school games, I was intimidated by the UX.
@@ -6982,19 +6982,19 @@ Would love to see this in action. Anything you can share? Also, what gear is use
 reply
 
 davidgh
- 
+
 10 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-You can use it here: 
+You can use it here:
 https://scoreboardmax.com/
 
 All features are included in the free version, just some usage limits. If you decide to use it, send a message using the “Contact Us” from with the account and I’ll send you the details on the analytics / charts as they are at unpublished URLs.
@@ -7002,14 +7002,14 @@ All features are included in the free version, just some usage limits. If you de
 reply
 
 warpech
- 
+
 19 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I got into improv theatre. There are groups in every city, at least here in the EU. It is both fun and developing creativity, alertness, etc.
@@ -7017,14 +7017,14 @@ I got into improv theatre. There are groups in every city, at least here in the 
 reply
 
 sunny678
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 In my views, you don't need an unsolved filed- you need an unexplored angle. Most "crowded" hobbies still have some gaps who build tools, document deeply, or connect ideas across domains. The average isn't in the hobby itself, but it how you approach it.
@@ -7032,14 +7032,14 @@ In my views, you don't need an unsolved filed- you need an unexplored angle. Mos
 reply
 
 laydn
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Hydrophonic farming at home. You can play with sensors (acidity, humidity etc), LED lighting (frequencies, intensity, etc), vision processing (maybe throw in some AI buzzword here) to keep track of your plants and do some decision making.
@@ -7049,14 +7049,14 @@ Bonus: You get to eat the stuff you grow :)
 reply
 
 exDM69
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > You can play with sensors (acidity, humidity etc)
@@ -7066,16 +7066,16 @@ Can you share some useful sensors? Any good pH sensor that can work for some per
 reply
 
 Taipan_Enigma
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The increased speed hydroponic plants grow at compared to plants in soil is what really makes it exciting for me. A plant in my basic countertop "indoor garden" unit is growing 10x as fast as a cutting of the same plant sitting in my windowsill.
@@ -7083,16 +7083,16 @@ The increased speed hydroponic plants grow at compared to plants in soil is what
 reply
 
 sscaryterry
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Or smoke it…
@@ -7100,14 +7100,14 @@ Or smoke it…
 reply
 
 andyjohnson0
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm looking at doing some field recording. Currently reading around the subject and thinking about starter equipment.
@@ -7115,14 +7115,14 @@ I'm looking at doing some field recording. Currently reading around the subject 
 reply
 
 eszed
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I play vintage baseball. It's baseball using rules and equipment from the 19th century. There's nothing else in my life that connects me to my eight-year old self, but the feeling I get running out onto the field or going up to bat is exactly what it was back in Little League. It's also a really fun community of passionate baseball nerds, and a good motivation to stay fit.
@@ -7130,14 +7130,14 @@ I play vintage baseball. It's baseball using rules and equipment from the 19th c
 reply
 
 Klonoar
- 
+
 46 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Is there a breakdown of this to read? Sounds fun!
@@ -7145,14 +7145,14 @@ Is there a breakdown of this to read? Sounds fun!
 reply
 
 jasonjei
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I started learning how to make croissants. I bought a Japanese hand crank sheeter, and tried different butters and convection ovens. Definitely put me through a rabbit hole.
@@ -7160,14 +7160,14 @@ I started learning how to make croissants. I bought a Japanese hand crank sheete
 reply
 
 teeray
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I’ve been learning Gregg Shorthand (Anniversary) since the start of the year. It’s a fun challenge even if it feels fantastically obsolete at this point with transcription models getting better and better every day. I’ve always liked paper-and-pen notes, so the idea of basically learning analog Vim was appealing :)
@@ -7175,14 +7175,14 @@ I’ve been learning Gregg Shorthand (Anniversary) since the start of the year. 
 reply
 
 autocorr
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Echoing others, Chess engines certainly aren't a solved problem! In fact there are a lot of niches that are absolutely starving for effort. Ones I'm interested in are related to Chess variants and puzzles.
@@ -7192,14 +7192,14 @@ Fairy-Stockfish is a fork used by LiChess for the variants on the site, but it c
 reply
 
 Imustaskforhelp
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Ohh about fairy stockfish, I had actually looked into it for something like spell-chess (which is an completely unsolved problem!)
@@ -7209,14 +7209,14 @@ I was playing chess with one of my friends and we played spell-chess which is an
 reply
 
 treetalker
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Visiting and educating/programming for the elderly (in nursing homes or just community members) or the imprisoned is both socially beneficial and mentally and spiritually rewarding.
@@ -7226,14 +7226,14 @@ Likewise for volunteering at hospices, food banks, soup kitchens, and homeless s
 reply
 
 cspada
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Vermiculture - breeding worms and harvesting their casting.
@@ -7243,14 +7243,14 @@ Outside of software development I enjoy gardening, farming/breeding worms and co
 reply
 
 nate
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Taught myself to use a sewing machine. Then I made my own EDC wallet thing. Basically a zipper pouch that can fit a lot of things while keep them as spread out in my front pocket.
@@ -7260,14 +7260,14 @@ I've got a version of this now in my front pocket for like 9 months:https://shar
 reply
 
 simgt
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Did the same two years ago, it's such an underrated skill. There's a good amount of complexity that goes into making an item without just following a pattern.
@@ -7277,16 +7277,16 @@ I recommend going through the basics (Tock Custom has a nice energy [0]), then p
 reply
 
 nate
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yeah, it's funny how many times I basically made the same damn thing just fine tuning a half inch wider, or seam allowance.
@@ -7296,14 +7296,14 @@ I also can't believe how tedious cutting fabric is. Even for a tiny project like
 reply
 
 BirAdam
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've been conlanging since I was about 8yo or so. This hobby also has me randomly learning natural human languages too. I've always just enjoyed it. I could make up reasons for enjoying it, but I am not certain that any of those would be true.
@@ -7311,14 +7311,14 @@ I've been conlanging since I was about 8yo or so. This hobby also has me randoml
 reply
 
 powerbroker
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Hang gliding. It's good if you are in an area with some hills and consistent winds. There are maybe a dozen well-established launch sites around the U.S. Sadly, I broke down my glider around 2001 -- and did a post-mortem on it to discover it had a minor dent in it.
@@ -7328,14 +7328,14 @@ Recommendation -- don't stall the glider at heights between 10 and 25 feet from 
 reply
 
 pavel_lishin
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 My brother-in-law did a lot of hang gliding, and was part of a big community that did.
@@ -7345,14 +7345,14 @@ That community had a tendency to walk around - if theycouldwalk around - in cast
 reply
 
 Tade0
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 There's a surprisingly high number of people in my extended social circle who picked up archery as a sport.
@@ -7362,14 +7362,14 @@ It's actually a complex discipline with a huge range of bows and projectiles to 
 reply
 
 dmoy
- 
+
 13 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Training using VR equipment is picking up steam, as typically you need a sizeable amount of real estate to practice when the weather is bad.
@@ -7379,16 +7379,16 @@ I always wondered, how does that work?Over in bullseye rifle we live and breathe
 reply
 
 Tade0
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Answer is that it's the human body that's the weakest link here, as muscles get sore and tendons might get damaged if you overdo it.
@@ -7398,16 +7398,16 @@ Prepping for tournaments is a field in and of itself as you need to time your tr
 reply
 
 munificent
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Archery does seem like it's having a moment right now.
@@ -7417,16 +7417,16 @@ I wonder if it's some combination of people wanting a more tactile hobby plus so
 reply
 
 Tade0
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Over here it's a combination of having a tradition of historical reconstruction and fairly strict gun laws, that don't extend to other weapons.
@@ -7436,16 +7436,16 @@ Case in point: you can open-carry a sword, unless you're displaying violent inte
 reply
 
 bwv848
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I always shoot 12 grains per pound, it usually gets me around 150-160fps, marginal weather is where the fun begins.
@@ -7453,16 +7453,16 @@ I always shoot 12 grains per pound, it usually gets me around 150-160fps, margin
 reply
 
 peishang
- 
+
 19 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Archery is a lot of fun - I go to a monthly archery gathering where the host has a bunch of really nice recurves.
@@ -7470,14 +7470,14 @@ Archery is a lot of fun - I go to a monthly archery gathering where the host has
 reply
 
 ApolloRising
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 After binging on youtube, I am working on learning to do leatherwork, small stuff at first like making your own wallet etc.
@@ -7485,14 +7485,14 @@ After binging on youtube, I am working on learning to do leatherwork, small stuf
 reply
 
 Arch-TK
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I don't quite get your point about 3D printers.
@@ -7502,14 +7502,14 @@ I spent many months redesigning, improving and rebuilding a prusa clone, not bec
 reply
 
 ex-aws-dude
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 If you're just a regular joe who wants to print stuff it has definitely changed
@@ -7519,14 +7519,14 @@ You used to have to do all that tinkering because you had no choice which is not
 reply
 
 jessehorne
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I got into riding, building and customizing motorcycles. The chopper scene could always use the creativity and skills of tech savy folks. Besides the mechanical skills you learn in moments which are as satisfying as they are frustrating, there's ways to utilize programming skills too...think performance/usage monitoring, trip cataloging software, social tools to connect bikers, camping planners, who knows.
@@ -7534,14 +7534,14 @@ I got into riding, building and customizing motorcycles. The chopper scene could
 reply
 
 notepad0x90
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 autonomous weapons?
@@ -7551,14 +7551,14 @@ Just kidding. Honestly, the best ideas out there are low-tech. Anything where as
 reply
 
 bradley13
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I guess I'm a dabbler - I have too many hobbies, none of which I take very seriously. Brewing, dry stone walls, math puzzles, etc.
@@ -7568,14 +7568,14 @@ That said, if you're looking for something meaningful, consider doing something 
 reply
 
 JimBlackwood
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I do gundog training. When I started with our first dog I did not expect to enjoy it that much. It’s hard to express how much it takes mentally and physically, and the bond you build with your dog is crazy.
@@ -7585,14 +7585,14 @@ Best of all, you don’t actually have to hunt. You can stick to dummies.In term
 reply
 
 germinalphrase
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I started hand carving and painting fishing lures a few years back, mostly from gathered or gleaned materials.
@@ -7602,14 +7602,14 @@ It started as something to keep my hands busy in the Minnesota winter evenings, 
 reply
 
 scosman
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Making watches. You can start simple ("modding") which is essentially assembling a movement, case, hands, dial, etc. You can keep going deeper: try to fix or build a movement gears.
@@ -7617,31 +7617,31 @@ Making watches. You can start simple ("modding") which is essentially assembling
 reply
 
 notsrg
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-We got into scuba diving about 3 years ago. Have something like 200 dives now logged across Southern California, Hawaii and the Caribbean. Planning on adding Indonesia to the list later this year. That 
+We got into scuba diving about 3 years ago. Have something like 200 dives now logged across Southern California, Hawaii and the Caribbean. Planning on adding Indonesia to the list later this year. That
 wow
  factor you experience the first time you dive hasn't gone away after 200 dives and I don't think it'll go away after 2000. Probably the most life-affirming thing I've ever gotten into and can't recommend it enough.
 
 reply
 
 dhruvkar
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Exploring my own bio-electricity.
@@ -7651,14 +7651,14 @@ Somethingis stuck within my body most of the time.Doing certain movements makes 
 reply
 
 DigitalArchivst
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If chess is a solved problem, think about skating to where the puck is going to be, an interest area a bit further away from relatively easier verifiability such as coding, math, and hard sciences.
@@ -7668,14 +7668,14 @@ Do you have any interest in digital humanities? Knowledge work where verificatio
 reply
 
 mcnnowak
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Try playing Dungeons & Dragons or Pathfinder (or any number of other systems.) Pathfinder is super deep and complex.
@@ -7685,14 +7685,14 @@ There's also an entire community of people who play Table Top Role-Playing Games
 reply
 
 bgirard
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've been using Codex to build a repo that pulls down astronomical datasets and runs simulation to try to find explanation for the hubble tension. Having an agent to do the tedious bits and also having an LLM to bounce ideas has tough me so much about astronomy. I don't have serious hopes of finding anything new and novel but it's still a lot of fun.
@@ -7700,14 +7700,14 @@ I've been using Codex to build a repo that pulls down astronomical datasets and 
 reply
 
 specproc
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've designed jewellery for my wife's last few birthdays. Nothing fancy, geometries, square kufic and such.
@@ -7717,14 +7717,14 @@ Very crude approach: I've been doing it in Blender, if you've 3D skills should b
 reply
 
 mleroy
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Since you mentioned biohacking but are wary of "wetware" risks, consider Personal Bioinformatics via 30x Whole Genome Sequencing. Now that sequencing costs have dropped significantly, you can use AI to take a deep dive into the latest research surrounding your own genomic data.
@@ -7734,14 +7734,14 @@ While severall open medical databases and open-source tools exist, they are ofte
 reply
 
 pyuser583
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Learn how to calculate longitude and latitude by eyesight using the Ptolemaic system.
@@ -7751,14 +7751,14 @@ Then add a telescope or sextant.This is lots of fun, if you’re into that sort 
 reply
 
 eru
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Not exactly niche: raise some kids.
@@ -7766,14 +7766,14 @@ Not exactly niche: raise some kids.
 reply
 
 ricardo_lien
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm tinkering with some electronic gadgets like esp32 to build my own things, such as auto feeder for my aquarium or an auto wattering system for my balcony garden. It's kinda hard and takes time because I'm not an electrican, but I'm really enjoy it and taking it slowly.
@@ -7781,14 +7781,14 @@ I'm tinkering with some electronic gadgets like esp32 to build my own things, su
 reply
 
 michaelhoney
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I built a sauna. It was fun and worthwhile and now I have a sauna!
@@ -7798,14 +7798,14 @@ Also I am turning into Middle-Aged Synth Guy.
 reply
 
 SpaceL10n
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm getting into old maps, books, and ephemera - mostly travel and tourism related stuff. I'm also currently researching old printing methods like lithography and letterpress. I recently purchased my first rubber brayer, some cotton-rag paper, some ink, and a 1930's letterpress plate. I hope to have my first pulls this weekend if time allows.
@@ -7813,14 +7813,14 @@ I'm getting into old maps, books, and ephemera - mostly travel and tourism relat
 reply
 
 best4shipping
- 
+
 48 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What is barrel shipping nigeria?
@@ -7828,14 +7828,14 @@ What is barrel shipping nigeria?
 reply
 
 eranation
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Not a new hobby per se, but the combination of
@@ -7845,14 +7845,14 @@ Not a new hobby per se, but the combination of
 reply
 
 kacesensitive
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 massage chair recc?
@@ -7860,14 +7860,14 @@ massage chair recc?
 reply
 
 Shalomboy
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You should try getting _extremely_ good at Trading Card Games. Pokemon, Yu-Gi-Oh, and Magic The Gathering all have extremely active current player bases and loads of places to play across the Americas, Europe, and (mostly east) Asia. Getting deep into card advantage, deck construction, and hypergeometric theory has been an absolute blast. Plus, the online simulators are free for Yu-Gi-Oh and Pokemon are free and pretty current with the paper game. Making new friendships with people not in my usual circles has been so rewarding, I can't recommend it enough. Not to mention the most meaningful contribution of all - winning events moves the needle on the way the rest of the playerbase plays the game. I could go on and on about this.
@@ -7875,14 +7875,14 @@ You should try getting _extremely_ good at Trading Card Games. Pokemon, Yu-Gi-Oh
 reply
 
 aslushnikov
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm very much into niche hobbies: they usually have nice tight & friendly communities.
@@ -7892,14 +7892,14 @@ Below are some of my favorite I'd love to share:- FPV drone flying: once you've 
 reply
 
 hermitcrab
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >FPV drone flying
@@ -7909,16 +7909,16 @@ What sort of set-up would be a good one for a beginner?
 reply
 
 aslushnikov
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The setup I'd recommend:
@@ -7928,16 +7928,16 @@ The setup I'd recommend:
 reply
 
 hermitcrab
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Thanks!
@@ -7945,18 +7945,18 @@ Thanks!
 reply
 
 Toutouxc
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 That's the fun part: most of the stuff currently on the market is quite good. The quads, the gear — if a few people recommend it on Reddit, it's likely totally fine for a beginner and it will fly well.
@@ -7966,16 +7966,16 @@ A few pointers:The guy we all watch on YouTube is called Joshua Bardwell.Regardi
 reply
 
 hermitcrab
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Cool, thanks for the info.
@@ -7983,16 +7983,16 @@ Cool, thanks for the info.
 reply
 
 fbd_0100
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 what FPV drones do you recommend for someone just getting into it?
@@ -8000,16 +8000,16 @@ what FPV drones do you recommend for someone just getting into it?
 reply
 
 saidinesh5
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The standard advice is always to buy a transmitter and get started with the simulator. Then buy / build your custom racing drone that suits your flying style and area. Anything from 20 gram whoops that fly indoors to 5" racing quads that need a lot of open space.
@@ -8019,14 +8019,14 @@ But with dji neo 2 / avata you get a fairly beginner friendly set up. Once you'r
 reply
 
 bobthepanda
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I like making transit maps in my spare time.
@@ -8036,14 +8036,14 @@ I got into tech by liking data visualization, information design, and aesthetics
 reply
 
 fsiefken
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 * playing shortlarps
@@ -8053,14 +8053,14 @@ next
 reply
 
 JonathanRaines
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 High altitude balloon launches using weather balloons to get photos of the curvature of the earth.
@@ -8068,14 +8068,14 @@ High altitude balloon launches using weather balloons to get photos of the curva
 reply
 
 jaggederest
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'd suggest you try out something completely offline. My next candidate is flintknapping, but there are lots of really interesting historical crafts that are in need of preservation and are extremely interesting to learn and gain expertise at.
@@ -8085,14 +8085,14 @@ Woodworking, oil painting, pottery, analog synthesizers, animal husbandry, spinn
 reply
 
 tastyfreeze
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 All primitive skills are great fun to learn. A logical followup to flint knapping is arrow making and bowery. There is something magical in making lethal ranged weapons with sticks, rocks, and string.
@@ -8100,14 +8100,14 @@ All primitive skills are great fun to learn. A logical followup to flint knappin
 reply
 
 ribice
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Two things, but mostly revolves around sports. As my job in software engineering is very sedentary, I try to remain active in my hobbies.
@@ -8117,14 +8117,14 @@ First is gym - I go every morning before work, do a 2-mile run or 5k, depending 
 reply
 
 rahulgoel
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 If you like music and technology - there's a massive world of possibilities out there (e.g., software based music production, tone.js, music programming with Strudel).
@@ -8134,14 +8134,14 @@ If you have more money - 1) DJing/mixing on vinyl + record digging, 2) Modular s
 reply
 
 chad_strategic
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I decided to run for congressional representative.
@@ -8149,14 +8149,14 @@ I decided to run for congressional representative.
 reply
 
 forshaper
- 
+
 20 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 How's it going?
@@ -8164,16 +8164,16 @@ How's it going?
 reply
 
 chad_strategic
- 
+
 11 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'm going to be respectful and not mention any political parties.
@@ -8183,17 +8183,17 @@ However I'm not part of the big party.I'm not expected to win, but at least I'm 
 reply
 
 deviation
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-I've been pretty obsessed with FSRS in general (tldr: 
+I've been pretty obsessed with FSRS in general (tldr:
 https://github.com/open-spaced-repetition/awesome-fsrs/wiki/...
 ) It's a fantastic new-ish scheduler for spaced repetition - basically a machine learning model which adapts to you, and schedules flash (or anything, really, it's an algorithm) cards according to how well you are personally performing - surfacing data like retention, stability, recall, etc. It's a massive jump over previous "learning algorithms" like
 
@@ -8202,14 +8202,14 @@ For the past 60d I've been using Anki (a flash card program) and it's FSRS setti
 reply
 
 nathan_douglas
- 
+
 13 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 FSRS is really cool. I'm trying to use it and a modified flashcard system to learn more abstract computer science and higher math. I hadn't considered it as a way of learning Chess - that's really interesting. I'm thinking about expanding my system to cover ear-training, birdsong recognition, a few other things like that.
@@ -8217,16 +8217,16 @@ FSRS is really cool. I'm trying to use it and a modified flashcard system to lea
 reply
 
 deviation
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I never thought about ear-training!
@@ -8236,30 +8236,30 @@ My listening comprehension for Piano has always been lacking. A deck of piano so
 reply
 
 ogou
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Printmaking. In a tiny apartment I did linocuts and Gelli prints on my kitchen counter for a few months. 
+Printmaking. In a tiny apartment I did linocuts and Gelli prints on my kitchen counter for a few months.
 https://lucidbeaming.com/art/prints
 
 reply
 
 apgwoz
- 
+
 10 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I like your stuff! I’ve been coveting a plotter for a while, but I’m pretty sure it won’t get used enough to justify the expense. :/
@@ -8269,16 +8269,16 @@ I do find the term “printmaking” hilarious because there’s just sooo many 
 reply
 
 ogou
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Thanks for the compliment. Linocuts and monotypes have been considered printmaking for hundreds of years. Those pen plots are also collaged and modified by hand, so not only mechanical. I see all that as traditional printmaking. As for having nothing to saw, there can be a lot of fulfillment in exploring basic themes, like geometric shapes or silhouettes of animals.
@@ -8286,14 +8286,14 @@ Thanks for the compliment. Linocuts and monotypes have been considered printmaki
 reply
 
 gunalx
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Ham radio, can be either really technical designing transmit protocols, antennas, SDRs or really just talking to random people as far away as you can reach without being bound to the internet.
@@ -8301,14 +8301,14 @@ Ham radio, can be either really technical designing transmit protocols, antennas
 reply
 
 vandahm
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I build ukuleles and guitars from scratch. That's not as niche as what a lot of people do -- it's just woodworking -- but I do software for a living and enjoy making durable, physical things in my free time.
@@ -8316,14 +8316,14 @@ I build ukuleles and guitars from scratch. That's not as niche as what a lot of 
 reply
 
 jassyr
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Very cool! I've been playing uke for a few years to help me disconnect from the real world.
@@ -8333,14 +8333,14 @@ Did you go to a luthier school or self taught?
 reply
 
 Glyptodon
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Just a suggestion as this isn't my hobby, but look into gem cutting. There are some tools for designing new cuts, but I think I lot more is possible than is commonly accomplished. And every gem material is different so that adds to things. Plus, the more precise the cut the better the result. And it's very math and loop driven.
@@ -8348,14 +8348,14 @@ Just a suggestion as this isn't my hobby, but look into gem cutting. There are s
 reply
 
 JKCalhoun
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Six months deep now into analog computing. (I have a modular, hobbyist analog computer wrapping up—just writing the manual).
@@ -8365,14 +8365,14 @@ Going to have to do something on the other end of the spectrum after this. Maybe
 reply
 
 vjvjvjvjghv
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I set up trail cameras in remote areas to watch bears, mountain lions and other critters. Getting there is very hard so it keeps me in shape and I am always fascinated when I can watch new footage.
@@ -8382,14 +8382,14 @@ once I have more time I will try classifying and trimming the videos with AI so 
 reply
 
 emyeskay
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 How do you manage power source for the cameras, protection from natural elements, and what about internet?
@@ -8397,31 +8397,31 @@ How do you manage power source for the cameras, protection from natural elements
 reply
 
 MohammadKhubaib
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Building autonomous security systems as a 17-year-old. 
-Turns out confidence-gated AI execution is a fascinating 
+Building autonomous security systems as a 17-year-old.
+Turns out confidence-gated AI execution is a fascinating
 design problem when the stakes are real infrastructure.
 
 reply
 
 remywang
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Read manuals to learn niche software, right now I’m reading about LyX and TeXmacs (their manuals are very well written). Lots of these more niche software can always use more love and users.
@@ -8429,14 +8429,14 @@ Read manuals to learn niche software, right now I’m reading about LyX and TeXm
 reply
 
 zippyman55
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Artisan pizzas!
@@ -8453,7 +8453,7 @@ Dancing
 Spanish lessons
 Chess puzzles
 Chess lessons
-Cooking 
+Cooking
 Making past
 Home improvement
 Detail your messy car
@@ -8462,14 +8462,14 @@ Take an auto class
 reply
 
 weakfish
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I found out something that was shocking to me about two years ago, which is that plenty of people learn to play ice hockey, of all sports, as an adult. I don’t know about you folks, but I always assumed it was one of those where if you didn’t play as a kid, you missed the boat. I didn’t even know how to skate, I learned on the fly. And this is in North Carolina! 10/10 recommend. I’m actually typing this lying on the couch after playing in a tournament in the Carolina Hurricanes arena :-)
@@ -8477,14 +8477,14 @@ I found out something that was shocking to me about two years ago, which is that
 reply
 
 anotherpaulg
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I’ve been building quantum photonics experiments. Repeating the Bell inequality tests that won the 2022 Nobel, quantum erasers, etc.
@@ -8494,14 +8494,14 @@ Probably the coolest part has been automating the optomechanical equipment and o
 reply
 
 lostathome
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 One of my hobbies is organizing events. I, like to think, I am pretty good at it. Main point is to create good initial conditions, then people take care of the rest.
@@ -8509,14 +8509,14 @@ One of my hobbies is organizing events. I, like to think, I am pretty good at it
 reply
 
 racl101
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Money to be made there. But then it would be a job.
@@ -8524,14 +8524,14 @@ Money to be made there. But then it would be a job.
 reply
 
 Blackstrat
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I view hobbies as something that I derive value or pleasure from. I do not approach them from the perspective of “meaningfully contributing”. IMO, that sounds more like compensation for career dissatisfaction. I’m not being critical. I just recommend choosing hobbies that you derive value and meaning from, regardless of what the world may think of it. For example, a friend of mine, with high pressure tech management job, quilts in the evening. He says it helps him relax. Doesn’t matter if anyone likes what he does or wants to buy it. As for myself, now that I’m retired I delve into a number of areas, just for me, and absolutely have no interest in sharing them or being recognized for what I do. Good luck on your quest.
@@ -8539,14 +8539,14 @@ I view hobbies as something that I derive value or pleasure from. I do not appro
 reply
 
 joshuakcockrell
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Someone needs to solve barbecue. The entire industry is based on feel and experience. Why can't a beginner replicate Franklin's brisket by following a recipe online?
@@ -8556,14 +8556,14 @@ It's probably because the main measuring instrument (a probe thermometer) doesn'
 reply
 
 nschampions2004
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The hobbyist cannot replicate Franklin’s brisket because Franklin’s knowledge, ingredients, tools, and their corresponding interactions are largely not attainable to the hobbyist. Franklin has better smokers than the hobbyist and knows how to use them better. Franklin also has dibs on the premier runs of Creekstone Farms briskets that the hobbyist can hardly come by.
@@ -8573,14 +8573,14 @@ The hobbyist can approximate that brisket to a reasonable degree. However, that 
 reply
 
 caprock
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You might look into applying RL in the domain of low cost robotics and drones. That would draw on some of your past experience but applied to a domain (robotics) which I perceive is seeing renewed interest.
@@ -8588,14 +8588,14 @@ You might look into applying RL in the domain of low cost robotics and drones. T
 reply
 
 avipars
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I design print on demand t-shirts and merch
@@ -8605,14 +8605,14 @@ https://www.amazon.com/s?refresh=1&rh=n%3A7141123011%2Cp_4%3...
 reply
 
 ronjakoi
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've been growing bonsai trees for about 13 years. It doesn't have anything to do with computers, so it's a nice counterbalance to my software job. I don't really even take pictures or videos of my trees, I want to keep the subject as analog and simple as I can.
@@ -8620,14 +8620,14 @@ I've been growing bonsai trees for about 13 years. It doesn't have anything to d
 reply
 
 alyd
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Boat building is in a really interesting time with new materials allow foiling, along with new battery technology giving new power sources.
@@ -8635,14 +8635,14 @@ Boat building is in a really interesting time with new materials allow foiling, 
 reply
 
 sm001
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Design whistle sequences to get dolphins to respond in ways that will help you figure out their meaning. A few multi-million $ projects could use that, such as Google, Baidu, and SDRP.
@@ -8650,14 +8650,14 @@ Design whistle sequences to get dolphins to respond in ways that will help you f
 reply
 
 blobbers
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 What you’re looking for is a research topic, or maybe a better way to put it is your hobby is research… if that makes sense?
@@ -8667,14 +8667,14 @@ So for ideas, sorry that’s going to be whatever floats your boat. You listed a
 reply
 
 koliber
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 A while back, at a company I used to work at, we did intros of new hires. This was one of the questions. One person shared that they do composting and worm farming. That was memorable. Sharing here since it's about as interesting and niche as I can imagine.
@@ -8682,14 +8682,14 @@ A while back, at a company I used to work at, we did intros of new hires. This w
 reply
 
 pinkmuffinere
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Hey, I love this thread!! Thanks for asking the question, there's _so many_ interesting responses in here!
@@ -8697,14 +8697,14 @@ Hey, I love this thread!! Thanks for asking the question, there's _so many_ inte
 reply
 
 anon291
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm learning to play the accordion
@@ -8712,14 +8712,14 @@ I'm learning to play the accordion
 reply
 
 nathan_douglas
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I ended up giving up on it because my right shoulder is damaged from rheumatoid arthritis. Go where I could not, anon291. May your reeds be clean and your bellows free of mildew.
@@ -8727,16 +8727,16 @@ I ended up giving up on it because my right shoulder is damaged from rheumatoid 
 reply
 
 hermitcrab
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 "A gentleman is someone who can play the accordion, but doesn't"
@@ -8746,30 +8746,30 @@ next
 reply
 
 jakescustomshop
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Somebody already mentioned "Modular Synths". There's incredible resources for building your own synth modules for everything from circuit design to simple kits. Check out LMNC on Youtube: 
+Somebody already mentioned "Modular Synths". There's incredible resources for building your own synth modules for everything from circuit design to simple kits. Check out LMNC on Youtube:
 https://www.youtube.com/watch?v=zCTLeNxge54
 
 reply
 
 yodsanklai
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > that isn't absolutely crowded
@@ -8779,14 +8779,14 @@ I'm sure there are field that should be absolutely crowded but where you can do 
 reply
 
 derekered
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Holograms! It's fascinating how they are made and how they can serve as a metaphor for how the universe might work.
@@ -8794,14 +8794,14 @@ Holograms! It's fascinating how they are made and how they can serve as a metaph
 reply
 
 b3lvedere
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 To some annoyance of my wife and kids, i like to plant all kinds of seeds in little pots to see if i can make it grow.
@@ -8811,14 +8811,14 @@ One kind of success (for me) is a 1m25 / 50 inch tall avocado which is in a big 
 reply
 
 bulte-rs
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm a football/soccer coach (youth, U12 and U19).
@@ -8828,14 +8828,14 @@ Got started as a "temp" for my sons mini-team (back when he was 5). Temporary tu
 reply
 
 Findeton
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Nowadays, apart from stockpicking as a value investor, I use LLMs to develop AIs that don’t use backpropagation and that support continuous learning.
@@ -8843,14 +8843,14 @@ Nowadays, apart from stockpicking as a value investor, I use LLMs to develop AIs
 reply
 
 Imustaskforhelp
- 
+
 22 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 You mention chess, Chessboxing is an interesting niche hobby where you play both chess and boxing.
@@ -8860,14 +8860,14 @@ I play chess but not chessboxing but hey, you asked for some interesting niche h
 reply
 
 e-topy
- 
+
 22 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I do boxing as a form of cardio so I'm not weightlifting all the time.
@@ -8880,16 +8880,16 @@ Maybe the next frontier is becoming an electrician?
 reply
 
 Imustaskforhelp
- 
+
 22 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > But computers generally are becoming stale, considering how much money has been poured into everything digital, it's going to be hard to find something novel
@@ -8899,16 +8899,16 @@ I feel like it depends, there are many sorts of projects which are still low han
 reply
 
 e-topy
- 
+
 21 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 What you're doing is interesting but those are side-projects.
@@ -8921,14 +8921,14 @@ It is true that most industries begin when passion oriented people finally meet 
 reply
 
 romanhn
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I haven't really had a hobby until last summer, when I took up collecting banknotes. Growing up in the USSR, I had a few imperial notes as a kid and wanted to expand my "collection", but didn't actually start in earnest until decades later. Got a few late 19th / early 20th century pre-revolution notes, and then found myself in the abyss of Russian Civil War, where every city and local municipality were printing their own money. Anyways, it's a journey without an end, and I saw an interviewee describing this hobby as a "sickness, do not start", which sort of resonated.
@@ -8938,14 +8938,14 @@ As a history lover with appreciation for tactile aspects of history (love 100+ y
 reply
 
 pavel_lishin
- 
+
 13 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's really neat! I have some old-ish Soviet money laying around that I brought with me when I emigrated. I should really preserve it somehow.
@@ -8953,16 +8953,16 @@ That's really neat! I have some old-ish Soviet money laying around that I brough
 reply
 
 romanhn
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I always assumed that newer banknotes are always going to be easier to obtain than older ones. But the hyperinflation of late imperial, early Soviet times means a ton of paper money was printed and is still available at cheap prices. On the other hand, Soviet money from between 1922 and before 1961 can be quite rare and sometimes very very expensive.
@@ -8970,14 +8970,14 @@ I always assumed that newer banknotes are always going to be easier to obtain th
 reply
 
 frabia
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I recently started looking into hydroponics gardening. You can start very easily with a Kratky system and some herbs, and then take it a step at the time.
@@ -8987,14 +8987,14 @@ I’m quite at the beginning myself, but I like it so far! It’s a nice mix of 
 reply
 
 dan353hehe
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Yep! I have a small setup with just some used food grade pickle buckets, and have been growing greens and things for a bit over a year. Going to get some more and expand them this year. It literally uses no power as pumps are not used, and water usage is very minimal. I live in the desert so low water usage is very important.
@@ -9004,14 +9004,14 @@ It's an interesting hobby, as you have to adapt it to the area you live, and whe
 reply
 
 bramgn
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Juggling! I used to juggle when i was a teenager, managed to juggle 5 balls and clubs. Then after decades of neglecting it, i picked it up again and i found the joy in this hobby again! I can highly recommend.
@@ -9019,14 +9019,14 @@ Juggling! I used to juggle when i was a teenager, managed to juggle 5 balls and 
 reply
 
 hyperkewb
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Same! Highly recommend checking out your local juggling club if you have one!
@@ -9034,14 +9034,14 @@ Same! Highly recommend checking out your local juggling club if you have one!
 reply
 
 abadar
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I used to play Pokémon cards competitively. It was fun going to local tournaments and flying with friends for Regional tournaments. I stopped to focus on night school, and I want to pick it back up with the card legality change happening Friday.
@@ -9051,14 +9051,14 @@ Pokémon Champions just came out, so I might give up cards for the video game. W
 reply
 
 ky-hy
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I do wrestling and BJJ, helps me cope with my stressful job and besides my joints hurting (especially fingers) from time to time, it was great for both my mental and physical health
@@ -9066,14 +9066,14 @@ I do wrestling and BJJ, helps me cope with my stressful job and besides my joint
 reply
 
 jareklupinski
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 there's a print shop nearby that does workshops, i took a short class there and i'll soon be back with some design files, hope to make a few copies of a zine about publishing a website on the internet
@@ -9081,14 +9081,14 @@ there's a print shop nearby that does workshops, i took a short class there and 
 reply
 
 AbstractH24
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Does Broadway and live theater count as niche?
@@ -9098,14 +9098,14 @@ Here in NYC it doesn’t feel like it, but we’re a world unto ourselves
 reply
 
 ruslan
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 How about demo-design ? I mean good old PC demoscnece. Try to fit something feasible into 64K.
@@ -9113,14 +9113,14 @@ How about demo-design ? I mean good old PC demoscnece. Try to fit something feas
 reply
 
 koeng
- 
+
 18 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I do some synthetic biology as a hobby - genetically engineered a baker’s yeast to produce grape aroma and then baked bread with it, and gave it to like 100 people at an event I was at.
@@ -9130,14 +9130,14 @@ Also do a few others - learned Esperanto (exclusively through listening and spea
 reply
 
 l4yao
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 wow I didn't realize this was hobby territory. How accessible is it to a layperson?
@@ -9145,16 +9145,16 @@ wow I didn't realize this was hobby territory. How accessible is it to a laypers
 reply
 
 marshymarsh
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 do you have any writeups or resources on that yeast?
@@ -9162,16 +9162,16 @@ do you have any writeups or resources on that yeast?
 reply
 
 vonneumannstan
- 
+
 14 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Perhaps feeding strangers homemade GMOs isn't the best idea...
@@ -9179,14 +9179,14 @@ Perhaps feeding strangers homemade GMOs isn't the best idea...
 reply
 
 acuozzo
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 NTSC video & film (movie film - 35mm) restoration.
@@ -9194,14 +9194,14 @@ NTSC video & film (movie film - 35mm) restoration.
 reply
 
 techwizrd
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I am a big fan of fountain pens, and I think they're a great hobby.
@@ -9209,14 +9209,14 @@ I am a big fan of fountain pens, and I think they're a great hobby.
 reply
 
 unsungNovelty
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Finally someone said fountain pens!!! I got into it as well. Made me write more. It is great.
@@ -9224,14 +9224,14 @@ Finally someone said fountain pens!!! I got into it as well. Made me write more.
 reply
 
 throw_m239339
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Hardware synthesizers, audio engineering, DSP programming, a whole lot of problems to solve in that domain as big manufacturers sell half baked devices for a quick buck that can barely stay in sync, or gear that is inferior to the same kind of gear from 20 years ago... it's not niche though, synth popularity is exploding, it's just that manufacturers aren't making the synthesizers as powerful as they could be, despite the increase in CPU power...
@@ -9239,14 +9239,14 @@ Hardware synthesizers, audio engineering, DSP programming, a whole lot of proble
 reply
 
 prudnikov21
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My wife started reselling vintage furniture as a hobby, but now it has become her full-time job and she earns money from it. We live in the UK and went to France for shopping for the first time last weekend. Happy to answer any questions
@@ -9254,14 +9254,14 @@ My wife started reselling vintage furniture as a hobby, but now it has become he
 reply
 
 guardian5x
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I wouldn't say that chess is a solved problem. Just a hard problem to make a better chess engine than current Stockfish.
@@ -9269,14 +9269,14 @@ I wouldn't say that chess is a solved problem. Just a hard problem to make a bet
 reply
 
 lwarfield
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I do a lot of lindyhop Swing dancing as a hobby. It's not innovative work, but I find it rewarding.
@@ -9284,14 +9284,14 @@ I do a lot of lindyhop Swing dancing as a hobby. It's not innovative work, but I
 reply
 
 VimEscapeArtist
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Gamey Boy / Modretro Chromatic / LSDJ / Dirtywave M8 / anything F# / MiniDisc community
@@ -9299,14 +9299,14 @@ Gamey Boy / Modretro Chromatic / LSDJ / Dirtywave M8 / anything F# / MiniDisc co
 reply
 
 dizhn
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I saw a few videos of making glasses (cups) out of nice liquor bottles. Seems like a nice cheapish hobby.
@@ -9314,14 +9314,14 @@ I saw a few videos of making glasses (cups) out of nice liquor bottles. Seems li
 reply
 
 grigri907
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Women's pro soccer. If you're in the US, we have access to some of the world's greatest athletes with World Cup champions and Olympic gold medalists in nearly every match. Even if you're not in the US, yeah you probably do too.
@@ -9331,14 +9331,14 @@ I never feel more connected to my community than when I'm at a game. Supporters 
 reply
 
 mkbkn
- 
+
 21 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Postcrossing
@@ -9346,30 +9346,30 @@ Postcrossing
 reply
 
 xoxxala
- 
+
 15 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-I had no idea such a thing existed until this post a few days ago: 
+I had no idea such a thing existed until this post a few days ago:
 https://news.ycombinator.com/item?id=47631515
 
 reply
 
 tempestnick
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So this thing would require you years, if not more before you can contribute meaningfully; and you have to build a community basically from scratch for it -- and before that you not only can't contribute, but you can't even participate. But hear me out.
@@ -9379,14 +9379,14 @@ WhatWhenWhere (спортивное Что Где Когда in Russian. Note th
 reply
 
 i_am_a_squirrel
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 build a battlebot!
@@ -9394,14 +9394,14 @@ build a battlebot!
 reply
 
 AbraKdabra
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Not too niche: Traditional archery.
@@ -9410,14 +9410,14 @@ Niche: Make wood climbing holds.
 reply
 
 sage76
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Working through PRML and creating a full solution set, albeit very slowly.
@@ -9427,14 +9427,14 @@ https://github.com/abhimanyu-jain/PRML_Solutions
 reply
 
 Theodores
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Baking bread, albeit with a (Panasonic) bread making machine. Might not be niche, however, traditions of giving bread to guests runs deep and people are always delighted if you give them a loaf of extremely fresh bread.
@@ -9444,14 +9444,14 @@ There are different directions that bread making can go. During the pandemic the
 reply
 
 system2
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I am trying to build microphone capsules in my garage. Trying to go below 14dB (Primo EM272 level), under 1". It is difficult but rewarding. I do not expect any financial benefits from it, even if I make it under 10mm, because it is very time-consuming. Big players already have massive factories doing 10,000x of what I am doing.
@@ -9461,14 +9461,14 @@ This is the most niche tech-related hobby I have currently.
 reply
 
 cadr
- 
+
 17 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Ooh! What kind of capsules?
@@ -9476,16 +9476,16 @@ Ooh! What kind of capsules?
 reply
 
 system2
- 
+
 13 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I am trying to dial down K67. I am thinking about gold plating myself for the diaphragm in the future, but I am not ready for the expense. It is the hardest part of the project because the sound quality mostly depends on the diaphragm quality, and the rest of the capsule is literally a container.
@@ -9495,16 +9495,16 @@ I started the hobby a while back when I tried to create an ESP32 field recorder,
 reply
 
 cadr
- 
+
 12 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I hope I don’t miss it when you post!
@@ -9514,14 +9514,14 @@ I’ve wanted to make a ribbon mic but haven’t gotten around to it. I’ve see
 reply
 
 dirtybirdnj
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I like to target a very specific species (Lake Trout) using vertical jigging techniques. You can do it on a small kayak with a simple fishfinder (histogram "graph") or a large boat with livescope (active sonar).
@@ -9531,14 +9531,14 @@ Because of the bait available for the lakers differs from what they eat in diffe
 reply
 
 udioron
- 
+
 13 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I am enjoying "trigbagging"/"trigpointing" in Israel (look it up!). I also built an app for this hobby (currently in open beta)
@@ -9546,14 +9546,14 @@ I am enjoying "trigbagging"/"trigpointing" in Israel (look it up!). I also built
 reply
 
 ribs
- 
+
 20 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I had a route around San Francisco that I would visit, and all the places on the route were where there were good blackberry bushes. I’d take a bucket. Around Golden Gate Park and the Inner Sunset mostly, heading down into the Forest Hills area as well. I did that for a few years. Would pick up some plums along the way as well.
@@ -9563,14 +9563,14 @@ Now on the other side of the Bay I have a couple spots, not as dense a network. 
 reply
 
 romeroej
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 im an airsoft nerd. its a fun way to blow some steam with friends. not the tight milsim approach just the recreational way,
@@ -9578,30 +9578,30 @@ im an airsoft nerd. its a fun way to blow some steam with friends. not the tight
 reply
 
 Igor_Wiwi
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-I make AI music 
+I make AI music
 https://suno.com/@igorstechoclub
 
 reply
 
 Nesco
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Synbio but it’s expensive as hell
@@ -9609,14 +9609,14 @@ Synbio but it’s expensive as hell
 reply
 
 kylehotchkiss
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Not niche, but photography has a way of opening doors because you push yourself to get to places you might not otherwise.
@@ -9626,14 +9626,14 @@ Maybe learn a new language that isn't European or Japanese.If "niche" matters to
 reply
 
 calvinmorrison
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 NULF - we support the proliferation of utraquist ideals in all congregations. Our goal is to expand access to the eucharist for the laity. been round about 500 years or so but we're having a come back.
@@ -9641,14 +9641,14 @@ NULF - we support the proliferation of utraquist ideals in all congregations. Ou
 reply
 
 guywithahat
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I've been making a seabed simulation of the seabed for interacting with polymetallic nodules. The idea is these nodules contain a lot of cobalt, but due to their location on the seafloor they're had to access, making mining difficult.
@@ -9658,14 +9658,14 @@ It took me a while but I finally got my hands on some polymetallic nodules (basi
 reply
 
 xpe
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Invasive species removal, bird identification, trail running, mountain biking, audiobook listening while walking. All are best done out of doors. :P Most are teh opposite of the posture and brain patterns that intensive computer usage encourages.
@@ -9673,17 +9673,17 @@ Invasive species removal, bird identification, trail running, mountain biking, a
 reply
 
 komali2
- 
+
 9 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Go out and record free sounds 
+Go out and record free sounds
 https://freesound.org/
 
 Go complete OSM quests using the "Street complete" app. Or just add stuff that's not on OSM yet using OsmAnd app.Record open street view photos using Mapillary or similar.Flesh out missing albums and metadata on musicbrainz.
@@ -9691,14 +9691,14 @@ Go complete OSM quests using the "Street complete" app. Or just add stuff that's
 reply
 
 Vaslo
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Do you homelab or self host?
@@ -9706,14 +9706,14 @@ Do you homelab or self host?
 reply
 
 dboreham
- 
+
 10 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Looks like nobody has claimed this yet so I'll add: heavy equipment (excavators, loaders, chippers bigger than they had in "Fargo"...). Began as a solution to the "can't find a contractor to dig that hole" problem but like most things turned into an interesting rabbit hole and money pit. Interesting social side in terms of learning how to deal with mechanics, parts suppliers, welding, hydraulics, getting to know your way around a gravel pit.
@@ -9721,14 +9721,14 @@ Looks like nobody has claimed this yet so I'll add: heavy equipment (excavators,
 reply
 
 emyeskay
- 
+
 8 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Interesting. Do you rent the equipment out or offer repair services?
@@ -9736,14 +9736,14 @@ Interesting. Do you rent the equipment out or offer repair services?
 reply
 
 stavros
- 
+
 12 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Well I just learned all my hobbies are boring, so bah.
@@ -9751,14 +9751,14 @@ Well I just learned all my hobbies are boring, so bah.
 reply
 
 a3w
- 
+
 15 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Lockpicking.
@@ -9766,14 +9766,14 @@ Lockpicking.
 reply
 
 platevoltage
- 
+
 14 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 My thing right now is Arcade Machines. I cant get enough of them. I have a 1988 Sega Aero City cabinet that I'm doing a kind of rest-mod on.
@@ -9781,14 +9781,14 @@ My thing right now is Arcade Machines. I cant get enough of them. I have a 1988 
 reply
 
 rdanieli
- 
+
 17 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 very cool post
@@ -9796,12 +9796,12 @@ very cool post
 reply
 
 vibe_that_works
- 
+
 16 hours ago
- 
- | 
+
+ |
 prev
- 
+
 [–]
 
 Try pet biohacking. You can experiment with the food they consume, their gut microbiome, you can implant robotics into them, so many fun things.
@@ -9811,14 +9811,14 @@ Btw: If you intend to blog about it make sure your alias resides in a jurisdicti
 reply
 
 Sharlin
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Animal cruelty, what an awesome hobby. Biohack yourself all you want, but playing mad scientist on test subjects that cannot give informed consent is evil.
@@ -9826,16 +9826,16 @@ Animal cruelty, what an awesome hobby. Biohack yourself all you want, but playin
 reply
 
 racl101
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Bruh
@@ -9843,14 +9843,14 @@ Bruh
 reply
 
 gf263
- 
+
 16 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- 
+
 [–]
 
 wtf?
@@ -9858,19 +9858,19 @@ wtf?
 reply
 
 Guidelines
- | 
+ |
 FAQ
- | 
+ |
 Lists
- | 
+ |
 API
- | 
+ |
 Security
- | 
+ |
 Legal
- | 
+ |
 Apply to YC
- | 
+ |
 Contact
 
 Search:

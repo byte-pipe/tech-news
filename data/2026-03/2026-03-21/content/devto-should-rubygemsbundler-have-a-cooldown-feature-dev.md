@@ -37,53 +37,53 @@ Dependabot added acooldownblock in July 2025. You can set different waiting peri
 
 version
 :
- 
+
 2
 
 updates
 :
 
- 
+
 -
- 
+
 package-ecosystem
 :
- 
+
 "
 bundler"
 
- 
+
 directory
 :
- 
+
 "
 /"
 
- 
+
 schedule
 :
 
- 
+
 interval
 :
- 
+
 "
 weekly"
 
- 
+
 cooldown
 :
 
- 
+
 default-days
 :
- 
+
 3
 
- 
+
 semver-major-days
 :
- 
+
 7
 
 Enter fullscreen mode
@@ -94,40 +94,40 @@ Renovate hasminimumReleaseAge(formerlystabilityDays), with per-package and per-u
 
 {
 
- 
+
 "minimumReleaseAge"
 :
- 
+
 "3 days"
 ,
 
- 
+
 "packageRules"
 :
- 
+
 [
 
- 
+
 {
 
- 
+
 "matchUpdateTypes"
 :
- 
+
 [
 "major"
 ],
 
- 
+
 "minimumReleaseAge"
 :
- 
+
 "7 days"
 
- 
+
 }
 
- 
+
 ]
 
 }
@@ -144,17 +144,17 @@ pnpm was first, shippingminimumReleaseAgein v10.16 (September 2025):
 
 minimumReleaseAge
 :
- 
+
 1440
- 
+
 # 24 hours
 
 minimumReleaseAgeExclude
 :
 
- 
+
 -
- 
+
 '
 @myorg/*'
 
@@ -239,7 +239,7 @@ If you have thoughts, join theGitHub Discussion.
 * I'm a Ruby committer and the maintainer of RubyGems/Bundler. My perspective is shaped by that role.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

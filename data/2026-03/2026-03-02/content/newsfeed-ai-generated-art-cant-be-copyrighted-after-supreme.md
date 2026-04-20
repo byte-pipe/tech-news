@@ -27,8 +27,8 @@ The country’s highest judicial court won’t reconsider a decision that determ
 The country’s highest judicial court won’t reconsider a decision that determined AI-created art is ineligible for copyright protection.
 
 by
- 
- 
+
+
 Emma Roth
 Mar 2, 2026, 5:58 PM UTC
 * Link
@@ -36,7 +36,7 @@ Mar 2, 2026, 5:58 PM UTC
 * Gift
 Illustration by Cath Virginia / The Verge | Photos via Getty Images
 Emma Roth
- 
+
 is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.
 
 The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright,as reported earlier byReuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court’s decision to uphold a ruling that found AI-generated art can’t be copyrighted.
@@ -44,7 +44,7 @@ The US Supreme Court has declined to hear a case over whether AI-generated art c
 In 2019, the US Copyright Office rejected Thaler’s request to copyright an image, calledA Recent Entrance to Paradise, on behalf of an algorithm he created. The Copyright Officereviewed the decision in 2022and determined that the image doesn’t include “human authorship,” disqualifying it from copyright protection.
 
 A Recent Entrance to Paradise.
- 
+
 Image: Stephen Thaler / Creativity Machine
 
 After Thaler appealed the decision, US District Court Judge Beryl A. Howellruled in 2023that “human authorship is a bedrock requirement of copyright.” That ruling waslater upheld in 2025by a federal appeals court in Washington, DC. Asreported byReuters, Thaler asked the Supreme Court to review the ruling in October 2025, arguing it “created a chilling effect on anyone else considering using AI creatively.”
@@ -83,19 +83,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 
@@ -126,7 +126,7 @@ Tina Nguyen
 Feb 28
 Trump orders federal agencies to drop Anthropic’s AI
 Hayden Field
- and 
+ and
 Richard Lawler
 Feb 27
 Advertiser Content From

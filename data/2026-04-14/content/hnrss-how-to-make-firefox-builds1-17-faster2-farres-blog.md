@@ -30,7 +30,7 @@ WEBIDL_CCACHE
 =
 
 ifdef
- 
+
 MOZ_USING_BUILDCACHE
 
 WEBIDL_CCACHE
@@ -43,12 +43,12 @@ endif
 
 webidl.stub
 :
- 
+
 $(codegen_dependencies)
 
-	
+
 $(
-call py_action,webidl 
+call py_action,webidl
 $(
 relativesrcdir
 )
@@ -61,11 +61,11 @@ $(
 WEBIDL_CCACHE
 ))
 
-	
+
 @$(
 TOUCH
 )
- 
+
 $@
 
 Thepy_actionmacro inconfig/makefiles/functions.mkis what runs Python build actions. The ability to pass a command wrapper as a fourth argument was also introduced in this bug. When buildcache is configured as the compiler cache, this means the webidl action is invoked asbuildcache python3 -m mozbuild.action.webidl ...instead of justpython3 -m mozbuild.action.webidl .... That’s all buildcache needs to intercept it.
@@ -142,27 +142,27 @@ If you’re already using buildcache withmach, the Makefile change is available 
 
 "lua_paths"
 :
- 
+
 [
 "/path/to/buildcache-wrappers/mozilla"
 ],
 
 "max_cache_size"
 :
- 
+
 10737418240
 ,
 
 "max_local_entry_size"
 :
- 
+
 2684354560
 
 }
 
 Alternatively, you can set theBUILDCACHE_LUA_PATHenvironment variable. A convenient place to do that is in your mozconfig:
 
-mk_add_options 
+mk_add_options
 "export BUILDCACHE_LUA_PATH=/path/to/buildcache-wrappers/mozilla/"
 
 The largemax_local_entry_size(2.5 GB) is needed because some Rust crates produce very large cache entries.

@@ -15,7 +15,7 @@ tags:
 
 Keychron
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork146
 * Star1.9k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -430,61 +430,61 @@ www.keychron.com/
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.9k
 
  stars
- 
+
 
 ### Watchers
 
 11
 
  watching
- 
+
 
 ### Forks
 
 146
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Contributors
 
@@ -492,9 +492,9 @@ Custom properties
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

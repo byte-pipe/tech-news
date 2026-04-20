@@ -14,19 +14,19 @@ tags:
 
 Joanne Lee/Rest of World
 
- 
 
-				By 
+
+				By
 Viola Zhou
- 
+
 
 18 March 2026
- 
+
 
 * China is mobilizing its bureaucratic engine to subsidize a new wave of AI-powered “one-person companies.”
 * Local governments are converting idle data centers and office spaces into free incubators to attract these solo founders.
 * This state-led competition aims to supercharge AI adoption and provide a career lifeline for tech workers facing widespread layoffs.
- 
+
 
 Chinese cities are offering free apartments and converting idle data centers into incubators as they compete to attract “one-person companies,” or OPCs — startups run by a single founder with the help of artificial intelligence.
 
@@ -82,10 +82,10 @@ China Outside China
 
 A new study shows Chinese firms and banks are behind much of the continent’s AI-powered monitoring infrastructure.
 
-By 
+By
 Ananya Bhattacharya
 
- 
+
 
 Global Dispatch
 
@@ -93,10 +93,10 @@ Global Dispatch
 
 My experience of the tech platforms, media content, and official messaging of the war in two cities.
 
-By 
+By
 Indranil Ghosh
 
- 
+
 
 Innovation
 
@@ -104,5 +104,5 @@ Innovation
 
 Employees are rushing to learn new tools as layoffs and automation fuel widespread AI anxiety.
 
-By 
+By
 Kinling Lo

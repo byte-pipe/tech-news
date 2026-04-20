@@ -29,7 +29,7 @@ Tom Clynes
 The French company Theryq is collaborating with the particle physics research facility CERN to develop FLASH radiation therapy. Theryq's FLASHKNiFE system targets superficial tumors with electron beams of 6 or 9 megaelectron volts.
 
  THERYQ
- 
+
 
 Inside a cavernous hallat the Swiss-French border, the air hums with high voltage and possibility. From his perch on the wraparound observation deck, physicistWalter Wuenschsurveys a multimillion-dollar array of accelerating cavities, klystrons, modulators, and pulse compressors—hardware being readied to drive a new generation of linear particle accelerators.
 
@@ -89,7 +89,7 @@ While CERN’s CLEAR accelerator has been instrumental in characterizing FLASH p
 
 PITZ is part of Germany’s national accelerator lab and is responsible for developing the electron source for theEuropean X-ray Free-Electron Laser. Now PITZ is emerging as a hub for FLASH research, with an unusually tunable accelerator and a dedicated biomedical lab to ensure controlled conditions for preclinical studies.
 
- 
+
 
 At Germany’s Photo Injector Test Facility in Zeuthen (PITZ), the electron-beam accelerator [top] is used to irradiate biological targets in early-stage animal tests of FLASH radiotherapy [bottom].Top: Frieder Mueller; Bottom: MWFK
 

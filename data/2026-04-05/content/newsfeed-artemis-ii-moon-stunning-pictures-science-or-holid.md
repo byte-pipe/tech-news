@@ -84,7 +84,7 @@ He explained that since the Apollo program in the 1960s and 1970s, robotic explo
 In 2023, India sent the probe Chandrayaan-3 and captured detailed images of the same terrain.
 
 ISRO
-A photo of the moon's far side captured in 2023 by a camera on India's Chandrayaan-3 probe 
+A photo of the moon's far side captured in 2023 by a camera on India's Chandrayaan-3 probe
 
 And in 2024, China's Chang'e-6 mission collected the first-ever samples from the far side. It followed China landing the first ever probe in the region, in 2019.
 

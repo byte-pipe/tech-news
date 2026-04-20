@@ -65,25 +65,25 @@ The overall takeaway from the report’s findings is that AI can drive strong, e
 Topics
 
 AI
-, 
+,
 ai apps
-, 
+,
 Apps
-, 
+,
 Commerce
-, 
+,
 RevenueCat
- 
 
-			Sarah Perez	
+
+			Sarah Perez
 
 Consumer News Editor
 
 		Sarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.
 
 
-You can contact or verify outreach from Sarah by emailing 
+You can contact or verify outreach from Sarah by emailing
 sarahp@techcrunch.com
- or via encrypted message at sarahperez.01 on Signal. 
+ or via encrypted message at sarahperez.01 on Signal.
 
 View Bio

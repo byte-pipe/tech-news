@@ -84,7 +84,7 @@ To go further:
 Originally published atA Java Geekon April 5th, 2026.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -95,6 +95,6 @@ Preview
 Dismiss
 
  View full discussion (14 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

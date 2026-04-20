@@ -29,24 +29,24 @@ But the 2026 water year has been anything but ordinary. In fact, its snow drough
 Data from theUS Department of Agriculture’s Natural Resources Conservation Serviceshows that out of approximately 70 river basins across the Western US, only five are at or above the 1991–2020 median snow water equivalent for this time of year. Most of those are clustered around the Yellowstone region of western Wyoming and eastern Idaho.
 
  The majority of river basins in the Western US were at less than 50 percent of their 1991–2020 median snow water equivalent on March 23, 2026.
- 
+
 
  Credit:
- 
+
 Natural Resources Conservation Service National Water and Climate Center
 
  The majority of river basins in the Western US were at less than 50 percent of their 1991–2020 median snow water equivalent on March 23, 2026.
 
- 
+
 
  Credit:
 
- 
 
- 
+
+
  Natural Resources Conservation Service National Water and Climate Center
 
- 
+
 
 By contrast, 11 basins have less than 25 percent of the 1991–2020 median, and more than half are below 50 percent. The headwaters of critically important rivers, including the Colorado, the Columbia, and the Missouri, are peppered with basins that are far below historical averages.
 
@@ -59,24 +59,24 @@ Just because the Western US is in a snow drought doesn’t mean it isn’t getti
 The West experienced avery warm Decemberat all but the highest elevations, but strong storms also drenched large parts of the region. Washington state was swamped with rain thattriggered floodingand melted the existing snowpack.
 
  The total area of the Western US with snow cover has been exceptionally low compared to the years 2001 to 2025.
- 
+
 
  Credit:
- 
+
 National Snow and Ice Data Center
 
  The total area of the Western US with snow cover has been exceptionally low compared to the years 2001 to 2025.
 
- 
+
 
  Credit:
 
- 
 
- 
+
+
  National Snow and Ice Data Center
 
- 
+
 
 Temperatures in January were less extreme but still warmer than historical averages. However,precipitation in Januarywas far below the 1991–2020 average throughout much of the region. February brought precipitation conditionscloser to historical averages, but temperatures were much warmer than normal.
 
@@ -123,14 +123,14 @@ Alejandro N. Floresis a professor of geoscience atBoise State University
 This article is republished fromThe Conversationunder a Creative Commons license. Read theoriginal article.
 
  The Conversation
- 
+
 
  The Conversation
- 
+
 
  The Conversation is an independent source of news and views, sourced from the academic and research community. Our team of editors work with these experts to share their knowledge with the wider public. Our aim is to allow for better understanding of current affairs and complex issues, and hopefully improve the quality of public discourse on them.
 
- 
+
 
 1. 1.So long, farewell: Saying goodbye to Audi's best car, the 2026 RS6 Avant
 2. 2.Here is NASA's plan for nuking Gateway and sending it to Mars

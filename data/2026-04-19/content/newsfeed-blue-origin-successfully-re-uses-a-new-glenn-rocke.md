@@ -30,7 +30,7 @@ The company accomplished the re-use feat Sunday on just the third-ever launch of
 
 Making New Glenn reusable is crucial to its economics. SpaceX’s ability to re-fly Falcon 9 rocket boosters is one of the main reasons why it has come to dominate the global orbital launch market.
 
- 
+
 
 Techcrunch event
 
@@ -61,17 +61,17 @@ This story has been updated with new information from Blue Origin and AST SpaceM
 Topics
 
 Blue Origin
-, 
+,
 new glenn
-, 
+,
 rockets
-, 
+,
 Space
-, 
+,
 SpaceX
- 
 
-			Sean O'Kane	
+
+			Sean O'Kane
 
 Sr. Reporter, Transportation
 
@@ -79,6 +79,6 @@ Sean O’Kane is a reporter who has spent a decade covering the rapidly-evolving
 
 You can contact or verify outreach from Sean by emailingsean.okane@techcrunch.comor via encrypted message at okane.01 on Signal.
 
- 
+
 
 View Bio

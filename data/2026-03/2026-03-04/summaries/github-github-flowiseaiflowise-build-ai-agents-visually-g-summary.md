@@ -1,7 +1,7 @@
 ---
 title: GitHub - FlowiseAI/Flowise: Build AI Agents, Visually · GitHub
 url: https://github.com/FlowiseAI/Flowise
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-04T11:33:47.201203

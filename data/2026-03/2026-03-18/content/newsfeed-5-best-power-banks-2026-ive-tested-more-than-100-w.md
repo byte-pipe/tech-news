@@ -27,11 +27,11 @@ Best Power Bank
 Anker Laptop Power Bank
 Read more
 $120
- 
+
 $105
- 
+
 (13% off)
- 
+
 
 Anker
 
@@ -39,7 +39,7 @@ Best Smaller Power Bank
 Nimble Champ (Series 2)
 Read more
 $60
- 
+
 
 Amazon (Medium)
 
@@ -47,11 +47,11 @@ Best-Looking Power Bank
 Sharge Shargeek 170 Power Bank
 Read more
 $169
- 
+
 $119
- 
+
 (30% off)
- 
+
 
 Amazon
 
@@ -59,11 +59,11 @@ Best Magsafe/Qi2 Portable Charger
 Anker MagGo Power Bank (10K) (Qi2)
 Read more
 $90
- 
+
 $72
- 
+
 (20% off)
- 
+
 
 Amazon
 
@@ -95,12 +95,12 @@ Clutch
 ### Pro
 
 $50
- 
+
 
 Amazon (USB-C)
 
 $40
- 
+
 
 Target (Lightning)
 
@@ -118,34 +118,34 @@ Anker
 ### Nano Power Bank
 
 $24
- 
+
 $22
- 
+
 (8% off)
- 
+
 
 Amazon
 
 $27
- 
+
 $22
- 
+
 (19% off)
- 
+
 
 Anker
 
 $30
- 
+
 
 Amazon (Lightning)
 
 $30
- 
+
 $20
- 
+
 (33% off)
- 
+
 
 Best Buy
 
@@ -160,20 +160,20 @@ Nubia
 ### Redmagic Go Power Bank
 
 $69
- 
+
 $59
- 
+
 (14% off)
- 
+
 
 Walmart
 
 $79
- 
+
 $59
- 
+
 (25% off)
- 
+
 
 Redmagic
 
@@ -193,12 +193,12 @@ Anker
 ### Nano Power Bank With Instacord
 
 $60
- 
+
 
 Amazon
 
 $60
- 
+
 
 Anker
 
@@ -213,7 +213,7 @@ Gomi
 ### Power Bank
 
 $95
- 
+
 
 Gomi
 
@@ -231,7 +231,7 @@ Ayaneo
 ### Retro Power Bank
 
 $40
- 
+
 
 Ayaneo
 
@@ -246,11 +246,11 @@ Ugreen
 ### Nexode Power Bank
 
 $90
- 
+
 $70
- 
+
 (22% off)
- 
+
 
 Amazon (20,000 mAh)
 
@@ -270,11 +270,11 @@ Ecoflow
 ### Rapid Pro Power Bank
 
 $220
- 
+
 $189
- 
+
 (14% off)
- 
+
 
 Amazon
 
@@ -292,7 +292,7 @@ Baseus
 ### EnerCore CR11 Power Bank
 
 $63
- 
+
 
 Best Buy
 
@@ -307,20 +307,20 @@ Aohi
 ### Starship Power Bank
 
 $150
- 
+
 $110
- 
+
 (27% off)
- 
+
 
 Amazon
 
 $190
- 
+
 $170
- 
+
 (11% off)
- 
+
 
 Amazon (40,000 mAh)
 
@@ -335,20 +335,20 @@ Anker
 ### Prime Power Bank
 
 $230
- 
+
 $200
- 
+
 (13% off)
- 
+
 
 Amazon
 
 $230
- 
+
 $172
- 
+
 (25% off)
- 
+
 
 Anker
 
@@ -363,11 +363,11 @@ Ugreen
 ### 145W Power Bank
 
 $100
- 
+
 $70
- 
+
 (30% off)
- 
+
 
 Amazon
 
@@ -382,7 +382,7 @@ Cuktech
 ### 15 Ultra Power Bank
 
 $69
- 
+
 
 Amazon
 
@@ -401,7 +401,7 @@ Infinacore
 ### P3 Pro
 
 $130
- 
+
 
 InfinaCore
 
@@ -419,7 +419,7 @@ Statik
 ### SmartCharge 5-in-1 Travel Power Bank
 
 $56
- 
+
 
 Amazon
 
@@ -434,20 +434,20 @@ Noco
 ### Boost Plus GB40 Jump Starter
 
 $125
- 
+
 $100
- 
+
 (20% off)
- 
+
 
 Amazon
 
 $139
- 
+
 $100
- 
+
 (28% off)
- 
+
 
 Walmart
 
@@ -467,21 +467,21 @@ Elecom
 ### Nestout Rugged Power Bank
 
 $45
- 
+
 
 Amazon (5,000 mAh)
 
 $55
- 
+
 $44
- 
+
 (20% off)
- 
+
 
 Amazon (10,000 mAh)
 
 $67
- 
+
 
 Amazon (15,000 mAh)
 
@@ -496,20 +496,20 @@ Anker
 ### Solix C300 DC Portable Power Station
 
 $250
- 
+
 $180
- 
+
 (28% off)
- 
+
 
 Amazon
 
 $250
- 
+
 $160
- 
+
 (36% off)
- 
+
 
 Anker
 
@@ -524,12 +524,12 @@ BioLite
 ### Charge 100 Max
 
 $180
- 
+
 
 Amazon
 
 $180
- 
+
 
 REI
 
@@ -621,9 +621,9 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Simon Hill
- is a senior writer for WIRED and has been testing and writing about technology for more than 15 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially 
+ is a senior writer for WIRED and has been testing and writing about technology for more than 15 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially
 smartphones
- ... 
+ ...
 Read More
 Senior writer and reviewer
 * bluesky
@@ -644,7 +644,7 @@ From workout-ready earbuds to gaming over-ears, these WIRED-tested picks sound l
 Ryan Waniata
 The Best Theraguns and Therabody Devices for Rest and Relaxation
 From massage guns to compression boots and LED face masks, these are the top performers in Therabody’s wellness lineup.
-Boutayna Chokrane 
+Boutayna Chokrane
 Breathe Easy—We Found the Best Air Purifiers
 Protect your home against dust, pets, allergies, and more with air purifiers tested firsthand by WIRED.
 Lisa Wood Shapiro

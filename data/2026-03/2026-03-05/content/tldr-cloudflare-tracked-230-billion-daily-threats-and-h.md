@@ -15,13 +15,13 @@ tags:
 
 Anamarija Pogorelec
 , Managing Editor, Help Net Security
- 
+
 
 March 3, 2026
- 
+
 
 Share
- 
+
 
 # Cloudflare tracked 230 billion daily threats and here is what it found
 

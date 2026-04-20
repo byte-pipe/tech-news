@@ -1,7 +1,7 @@
 ---
 title: Reddit - Please wait for verification
 url: https://www.reddit.com/r/worldnews/comments/1sj68k3/majority_of_hungarians_believe_april_12_election/
-date: 
+date:
 site: reddit
 model: gpt-oss:120b-cloud
 summarized_at: 2026-04-13T06:01:39.719391

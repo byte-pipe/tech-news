@@ -109,54 +109,54 @@ A student team illustrated this perfectly — they had been using AI to build fa
 
 // This code works. Can you explain why in 30 seconds?
 
-// If you generated it with AI and didn't stop to understand it — 
+// If you generated it with AI and didn't stop to understand it —
 
 // you've accumulated cognitive debt.
 
 const
- 
+
 processPayment
- 
+
 =
- 
-async 
+
+async
 (
 userId
 ,
- 
+
 amount
 ,
- 
+
 currency
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 [
 user
 ,
- 
+
 rateLimit
 ,
- 
+
 fraud
 ]
- 
+
 =
- 
+
 await
- 
+
 Promise
 .
 all
 ([
 
- 
+
 db
 .
 users
@@ -166,7 +166,7 @@ findById
 userId
 ),
 
- 
+
 redis
 .
 get
@@ -178,79 +178,79 @@ userId
 `
 ),
 
- 
+
 fraudService
 .
 check
 (
 userId
 ,
- 
+
 amount
 )
 
- 
+
 ]);
 
- 
-if 
+
+if
 (
 !
 user
- 
+
 ||
- 
+
 rateLimit
- 
+
 >
- 
+
 10
- 
+
 ||
- 
+
 fraud
 .
 score
- 
+
 >
- 
+
 0.7
 )
- 
+
 {
 
- 
+
 throw
- 
+
 new
- 
+
 PaymentError
 (
 user
- 
+
 ?
- 
+
 '
 RATE_LIMITED
 '
- 
+
 :
- 
+
 '
 USER_NOT_FOUND
 '
 );
 
- 
+
 }
 
- 
+
 // Can you spot the bug? What happens if fraud.score is exactly 0.7?
 
- 
+
 // What if rateLimit is null?
 
- 
+
 // AI generated this. Did you understand it before you shipped it?
 
 };
@@ -271,7 +271,7 @@ Six months later you discover you've built exactly what the spec said — and no
 
 # ✅ All tests passing
 
-# ✅ No linting errors 
+# ✅ No linting errors
 
 # ✅ Code review approved
 
@@ -431,7 +431,7 @@ Has your team hit an AI tech debt wall yet — or are you seeing the warning sig
 Heads up: AI helped me write this.Somewhat fitting given the topic — but the three-week freeze story, the Rahul conversation, and the lessons are all mine. I believe in being transparent about my process! 😊
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -442,6 +442,6 @@ Preview
 Dismiss
 
  View full discussion (15 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

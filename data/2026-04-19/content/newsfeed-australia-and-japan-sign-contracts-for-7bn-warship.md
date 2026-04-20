@@ -31,7 +31,7 @@ google
 Add Al Jazeera on Google
 info
 Australian Defence Minister Richard Marles and Japanese Defence Minister Koizumi Shinjiro sign a memorandum in Melbourne, Australia, on April 18, 2026 [William West/AFP]
-By 
+By
 John Power
 Published On 19 Apr 2026
 19 Apr 2026

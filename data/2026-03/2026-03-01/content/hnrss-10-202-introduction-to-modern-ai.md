@@ -21,15 +21,15 @@ tags:
 
 ## Online Course
 
- A minimal free version of this course will be offered online, simultaneous to the CMU offering, starting on 1/26 (with a two-week delay from the CMU course). This means that 
+ A minimal free version of this course will be offered online, simultaneous to the CMU offering, starting on 1/26 (with a two-week delay from the CMU course). This means that
 all content
- (lecture videos, assignments available on mugrade, etc) will be available to the online course 
+ (lecture videos, assignments available on mugrade, etc) will be available to the online course
 two weeks
- after the dates indicated in the schedule below. By this, we mean that anyone will be able to watch lecture videos for the course, and submit (autograded) assignments (though not quizzes or midterms/final). 
+ after the dates indicated in the schedule below. By this, we mean that anyone will be able to watch lecture videos for the course, and submit (autograded) assignments (though not quizzes or midterms/final).
 Enroll here
  to receive emails on lectures and homeworks once they are available. Note that information here about TAs, office hours, grading, prerequisites, etc, are for the CMU version, not the online offering.
 
- 
+
 
 ## Syllabus Overview
 
@@ -99,7 +99,7 @@ Homework
 1/12
 Class logistics and a brief history of AI (
 video 1
-, 
+,
 video 2
 )
 HW0 Out
@@ -107,7 +107,7 @@ HW0 Out
 1/14
 Intro to supervised learning (
 video
-) 
+)
 
 1/19
 MLK Day - no class
@@ -115,24 +115,24 @@ MLK Day - no class
 1/21
 Linear algebra and PyTorch (
 video
-) 
+)
 HW0 Due
 
 1/28
 Linear models (
 video
-) 
+)
 HW1 Out
 
 1/30
 Loss functions and probability (
 video
-) 
+)
 
 2/2
 Optimization and gradient descent (
 video
-) 
+)
 
 2/4
 (moved to 2/6)
@@ -147,7 +147,7 @@ HW2 Out
 2/9
 Neural networks models (
 video
-) 
+)
 
 2/11
 Neural network implementation

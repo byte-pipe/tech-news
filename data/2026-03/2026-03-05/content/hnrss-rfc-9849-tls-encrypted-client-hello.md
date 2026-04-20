@@ -83,7 +83,7 @@ This document is a product of the Internet Engineering Task Force
  (IETF). It represents the consensus of the IETF community. It has
  received public review and has been approved for publication by
  the Internet Engineering Steering Group (IESG). Further
- information on Internet Standards is available in Section 2 of 
+ information on Internet Standards is available in Section 2 of
  RFC 7841.¶
 
 Information about the current status of this document, any
@@ -584,7 +584,7 @@ DTLS.¶
 
 Clients that implement the ECH extension behave in one of two ways: either they
 offer a real ECH extension, as described inSection 6.1, or they send a
-Generate Random Extensions And Sustain Extensibility (GREASE)[RFC8701]ECH extension, as described inSection 6.2. 
+Generate Random Extensions And Sustain Extensibility (GREASE)[RFC8701]ECH extension, as described inSection 6.2.
 The client offers ECH if it is in possession of a compatible ECH configuration and sends GREASE ECH
 (seeSection 6.2) otherwise.
 Clients of the latter type do not
@@ -1912,550 +1912,550 @@ GREASE entries¶
 [HPKE]
 
 Barnes, R.
-, 
+,
 Bhargavan, K.
-, 
+,
 Lipp, B.
-, and 
+, and
 C. Wood
-, 
+,
 "Hybrid Public Key Encryption"
-, 
+,
 RFC 9180
-, 
+,
 DOI 10.17487/RFC9180
-, 
+,
 February 2022
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc9180
 >
-. 
+.
 
 [RFC2119]
 
 Bradner, S.
-, 
+,
 "Key words for use in RFCs to Indicate Requirement Levels"
-, 
+,
 BCP 14
-, 
+,
 RFC 2119
-, 
+,
 DOI 10.17487/RFC2119
-, 
+,
 March 1997
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc2119
 >
-. 
+.
 
 [RFC5890]
 
 Klensin, J.
-, 
+,
 "Internationalized Domain Names for Applications (IDNA): Definitions and Document Framework"
-, 
+,
 RFC 5890
-, 
+,
 DOI 10.17487/RFC5890
-, 
+,
 August 2010
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc5890
 >
-. 
+.
 
 [RFC7918]
 
 Langley, A.
-, 
+,
 Modadugu, N.
-, and 
+, and
 B. Moeller
-, 
+,
 "Transport Layer Security (TLS) False Start"
-, 
+,
 RFC 7918
-, 
+,
 DOI 10.17487/RFC7918
-, 
+,
 August 2016
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc7918
 >
-. 
+.
 
 [RFC8126]
 
 Cotton, M.
-, 
+,
 Leiba, B.
-, and 
+, and
 T. Narten
-, 
+,
 "Guidelines for Writing an IANA Considerations Section in RFCs"
-, 
+,
 BCP 26
-, 
+,
 RFC 8126
-, 
+,
 DOI 10.17487/RFC8126
-, 
+,
 June 2017
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc8126
 >
-. 
+.
 
 [RFC8174]
 
 Leiba, B.
-, 
+,
 "Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words"
-, 
+,
 BCP 14
-, 
+,
 RFC 8174
-, 
+,
 DOI 10.17487/RFC8174
-, 
+,
 May 2017
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc8174
 >
-. 
+.
 
 [RFC8446]
 
 Rescorla, E.
-, 
+,
 "The Transport Layer Security (TLS) Protocol Version 1.3"
-, 
+,
 RFC 8446
-, 
+,
 DOI 10.17487/RFC8446
-, 
+,
 August 2018
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc8446
 >
-. 
+.
 
 [RFC9147]
 
 Rescorla, E.
-, 
+,
 Tschofenig, H.
-, and 
+, and
 N. Modadugu
-, 
+,
 "The Datagram Transport Layer Security (DTLS) Protocol Version 1.3"
-, 
+,
 RFC 9147
-, 
+,
 DOI 10.17487/RFC9147
-, 
+,
 April 2022
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc9147
 >
-. 
+.
 
 [RFC9460]
 
 Schwartz, B.
-, 
+,
 Bishop, M.
-, and 
+, and
 E. Nygren
-, 
+,
 "Service Binding and Parameter Specification via the DNS (SVCB and HTTPS Resource Records)"
-, 
+,
 RFC 9460
-, 
+,
 DOI 10.17487/RFC9460
-, 
+,
 November 2023
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc9460
 >
-. 
+.
 
 [RFC9525]
 
 Saint-Andre, P.
- and 
+ and
 R. Salz
-, 
+,
 "Service Identity in TLS"
-, 
+,
 RFC 9525
-, 
+,
 DOI 10.17487/RFC9525
-, 
+,
 November 2023
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc9525
 >
-. 
+.
 
 [RFC9847]
 
 Salowey, J.
- and 
+ and
 S. Turner
-, 
+,
 "IANA Registry Updates for TLS and DTLS"
-, 
+,
 RFC 9847
-, 
+,
 DOI 10.17487/RFC9847
-, 
+,
 December 2025
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc9847
 >
-. 
+.
 
 ### 12.2.Informative References
 
 [DNS-TERMS]
 
 Hoffman, P.
- and 
+ and
 K. Fujiwara
-, 
+,
 "DNS Terminology"
-, 
+,
 BCP 219
-, 
+,
 RFC 9499
-, 
+,
 DOI 10.17487/RFC9499
-, 
+,
 March 2024
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc9499
 >
-. 
+.
 
 [ECH-Analysis]
 
 Bhargavan, K.
-, 
+,
 Cheval, V.
-, and 
+, and
 C. Wood
-, 
+,
 "A Symbolic Analysis of Privacy for TLS 1.3 with Encrypted Client Hello"
-, 
+,
 CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, pp. 365-379
-, 
+,
 DOI 10.1145/3548606.3559360
-, 
+,
 November 2022
-, 
+,
 <
 https://www.cs.ox.ac.uk/people/vincent.cheval/publis/BCW-ccs22.pdf
 >
-. 
+.
 
 [PROTECTED-SNI]
 
 Oku, K.
-, 
+,
 "TLS Extensions for Protecting SNI"
-, 
+,
 Work in Progress
-, 
+,
 Internet-Draft, draft-kazuho-protected-sni-00
-, 
+,
 18 July 2017
-, 
+,
 <
 https://datatracker.ietf.org/doc/html/draft-kazuho-protected-sni-00
 >
-. 
+.
 
 [RFC3552]
 
 Rescorla, E.
- and 
+ and
 B. Korver
-, 
+,
 "Guidelines for Writing RFC Text on Security Considerations"
-, 
+,
 BCP 72
-, 
+,
 RFC 3552
-, 
+,
 DOI 10.17487/RFC3552
-, 
+,
 July 2003
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc3552
 >
-. 
+.
 
 [RFC3986]
 
 Berners-Lee, T.
-, 
+,
 Fielding, R.
-, and 
+, and
 L. Masinter
-, 
+,
 "Uniform Resource Identifier (URI): Generic Syntax"
-, 
+,
 STD 66
-, 
+,
 RFC 3986
-, 
+,
 DOI 10.17487/RFC3986
-, 
+,
 January 2005
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc3986
 >
-. 
+.
 
 [RFC5077]
 
 Salowey, J.
-, 
+,
 Zhou, H.
-, 
+,
 Eronen, P.
-, and 
+, and
 H. Tschofenig
-, 
+,
 "Transport Layer Security (TLS) Session Resumption without Server-Side State"
-, 
+,
 RFC 5077
-, 
+,
 DOI 10.17487/RFC5077
-, 
+,
 January 2008
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc5077
 >
-. 
+.
 
 [RFC7301]
 
 Friedl, S.
-, 
+,
 Popov, A.
-, 
+,
 Langley, A.
-, and 
+, and
 E. Stephan
-, 
+,
 "Transport Layer Security (TLS) Application-Layer Protocol Negotiation Extension"
-, 
+,
 RFC 7301
-, 
+,
 DOI 10.17487/RFC7301
-, 
+,
 July 2014
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc7301
 >
-. 
+.
 
 [RFC7858]
 
 Hu, Z.
-, 
+,
 Zhu, L.
-, 
+,
 Heidemann, J.
-, 
+,
 Mankin, A.
-, 
+,
 Wessels, D.
-, and 
+, and
 P. Hoffman
-, 
+,
 "Specification for DNS over Transport Layer Security (TLS)"
-, 
+,
 RFC 7858
-, 
+,
 DOI 10.17487/RFC7858
-, 
+,
 May 2016
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc7858
 >
-. 
+.
 
 [RFC7924]
 
 Santesson, S.
- and 
+ and
 H. Tschofenig
-, 
+,
 "Transport Layer Security (TLS) Cached Information Extension"
-, 
+,
 RFC 7924
-, 
+,
 DOI 10.17487/RFC7924
-, 
+,
 July 2016
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc7924
 >
-. 
+.
 
 [RFC8094]
 
 Reddy, T.
-, 
+,
 Wing, D.
-, and 
+, and
 P. Patil
-, 
+,
 "DNS over Datagram Transport Layer Security (DTLS)"
-, 
+,
 RFC 8094
-, 
+,
 DOI 10.17487/RFC8094
-, 
+,
 February 2017
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc8094
 >
-. 
+.
 
 [RFC8484]
 
 Hoffman, P.
- and 
+ and
 P. McManus
-, 
+,
 "DNS Queries over HTTPS (DoH)"
-, 
+,
 RFC 8484
-, 
+,
 DOI 10.17487/RFC8484
-, 
+,
 October 2018
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc8484
 >
-. 
+.
 
 [RFC8701]
 
 Benjamin, D.
-, 
+,
 "Applying Generate Random Extensions And Sustain Extensibility (GREASE) to TLS Extensibility"
-, 
+,
 RFC 8701
-, 
+,
 DOI 10.17487/RFC8701
-, 
+,
 January 2020
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc8701
 >
-. 
+.
 
 [RFC8744]
 
 Huitema, C.
-, 
+,
 "Issues and Requirements for Server Name Identification (SNI) Encryption in TLS"
-, 
+,
 RFC 8744
-, 
+,
 DOI 10.17487/RFC8744
-, 
+,
 July 2020
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc8744
 >
-. 
+.
 
 [RFC9250]
 
 Huitema, C.
-, 
+,
 Dickinson, S.
-, and 
+, and
 A. Mankin
-, 
+,
 "DNS over Dedicated QUIC Connections"
-, 
+,
 RFC 9250
-, 
+,
 DOI 10.17487/RFC9250
-, 
+,
 May 2022
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc9250
 >
-. 
+.
 
 [RFC9848]
 
 Schwartz, B.
-, 
+,
 Bishop, M.
-, and 
+, and
 E. Nygren
-, 
+,
 "Bootstrapping TLS Encrypted ClientHello with DNS Service Bindings"
-, 
+,
 RFC 9848
-, 
+,
 DOI 10.17487/RFC9848
-, 
+,
 March 2026
-, 
+,
 <
 https://www.rfc-editor.org/info/rfc9848
 >
-. 
+.
 
 [WHATWG-IPV4]
 
 WHATWG
-, 
+,
 "URL - IPv4 Parser"
-, 
+,
 WHATWG Living Standard
-, 
+,
 May 2021
-, 
+,
 <
 https://url.spec.whatwg.org/
 >
-. 
-Commit snapshot: 
+.
+Commit snapshot:
 <
 https://url.spec.whatwg.org/commit-snapshots/1b8b8c55eb4bed9f139c9a439fb1c1bf5566b619/#concept-ipv4-parser
 >

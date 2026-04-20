@@ -16,7 +16,7 @@ Anthropic has unveiled the advisor tool on the Claude Platform, providing develo
 
 We're bringing the advisor strategy to the Claude Platform.Pair Opus as an advisor with Sonnet or Haiku as an executor, and get near Opus-level intelligence in your agents at a fraction of the cost.pic.twitter.com/fRkegyMs5t
 
-— Claude (@claudeai) 
+— Claude (@claudeai)
 April 9, 2026
 
 The advisor tool works by allowing Sonnet or Haiku to handle tasks independently. When these executors encounter complex decision points, they call upon Opus for guidance. Opus reviews the shared context and returns a plan or corrective feedback, after which the executor resumes its task. This approach contrasts with traditional systems where a large model orchestrates and delegates tasks to smaller agents. Instead, the advisor tool allows the executor to escalate only when necessary, keeping most operations at a lower cost. Technical evaluations show improvements in benchmarks such as SWE-bench Multilingual, BrowseComp, and Terminal-Bench 2.0. For example, Haiku with an Opus advisor more than doubled its standalone benchmark score while costing significantly less than running Sonnet alone.
@@ -35,9 +35,9 @@ Source
 
 2 min read
 
- 
 
- 
+
+
 
 ## Notion tests Computer to expand capabilities of its AI offering
 
@@ -47,9 +47,9 @@ Source
 
 2 min read
 
- 
 
- 
+
+
 
 ## Google prepares broader rollout of Skills for Gemini and AI Studio
 
@@ -59,9 +59,9 @@ Source
 
 2 min read
 
- 
 
- 
+
+
 
 ## Anthropic develops managed 24/7 Agent for Claude mobile apps too
 
@@ -71,9 +71,9 @@ Source
 
 1 min read
 
- 
 
- 
+
+
 
 ## Perplexity launches Personal Finance powered by Plaid
 
@@ -83,9 +83,9 @@ Source
 
 2 min read
 
- 
 
- 
+
+
 
 ## Anthropic launches Claude Cowork in General Availability
 

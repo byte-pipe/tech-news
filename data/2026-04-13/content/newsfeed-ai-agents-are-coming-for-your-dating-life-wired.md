@@ -78,7 +78,7 @@ Triangle
 * HowTrump’s plot to grab Iran's nuclear fuelwould actually work
 * WIRED Health:Jointhe boldest minds in healthcare
 Joel Khalili
- is a senior writer at WIRED, covering the artificial intelligence industry in Europe. He previously covered cryptocurrency extensively and was named one of the Professional Publishers Association’s 2024 most exciting rising stars in UK publishing. Before joining WIRED, he was an editor at TechRadar, where he wrote about ... 
+ is a senior writer at WIRED, covering the artificial intelligence industry in Europe. He previously covered cryptocurrency extensively and was named one of the Professional Publishers Association’s 2024 most exciting rising stars in UK publishing. Before joining WIRED, he was an editor at TechRadar, where he wrote about ...
 Read More
 Senior Writer
 

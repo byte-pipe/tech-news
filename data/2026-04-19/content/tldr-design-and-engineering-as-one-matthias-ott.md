@@ -276,15 +276,15 @@ https://matthiasott.com/articles/design-and-engineering-as-one Design and Engine
 
 ⓘ Webmentions are a way to notify other websites when you link to them, and to receive notifications when others link to you.Learn more about Webmentions.
 
-Have you published a response to this? Send me a 
+Have you published a response to this? Send me a
 webmention
- by letting me know the 
+ by letting me know the
 URL
 .
 
 Ping!
 
- 
+
 
 ## More Articles
 

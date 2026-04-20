@@ -273,12 +273,12 @@ Triangle
 * Porn stars areembracing AI clones
 * WIRED@Night:Hear Andy Greenberg discussthe facts and fiction of crypto
 Brian Barrett
- is the executive editor of WIRED. Previously he was the editor in chief of the tech and culture site Gizmodo and was a business reporter for the Yomiuri Shimbun, Japan’s largest daily newspaper. ... 
+ is the executive editor of WIRED. Previously he was the editor in chief of the tech and culture site Gizmodo and was a business reporter for the Yomiuri Shimbun, Japan’s largest daily newspaper. ...
 Read More
 Executive Editor
 * bluesky
 Leah Feiger
- is WIRED's senior politics editor. She is the former managing editor of VICE News. ... 
+ is WIRED's senior politics editor. She is the former managing editor of VICE News. ...
 Read More
 Senior Editor
 
@@ -309,7 +309,7 @@ You can score over $200 off the DJI Osmo 360.
 Brad Bourque
 50% Off Select Items With These Ring Camera Deals
 Discover how to save on Ring cameras, doorbells, outdoor cameras, and more.
- Nena Farrell 
+ Nena Farrell
 Meta Quest Promo Codes and Coupons for This April
 Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.
 Brad Bourque

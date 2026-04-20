@@ -117,21 +117,21 @@ All of this raises the possibility that Bezos may finally consider taking on out
 “He’s never really talked about going for outside investment,” said Chris Davenport, author ofRocket Dreams, about Bezos. “The fact that Elon has had a number of liquidity events is going to put some pressure on Jeff and Blue Origin to at least think about it.”
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
- Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books: 
+ Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books:
 Liftoff
-, about the rise of SpaceX; and 
+, about the rise of SpaceX; and
 Reentry
 , on the development of the Falcon 9 rocket and Dragon. A certified meteorologist, Eric lives in Houston.
- 
+
 
 1. 1.“It doesn't feel safe”—Many international game developers plan to skip GDC in US
 2. 2.US blindsides states with surprise settlement in Live Nation/Ticketmaster trial

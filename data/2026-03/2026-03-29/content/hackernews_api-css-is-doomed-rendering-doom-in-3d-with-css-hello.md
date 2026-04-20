@@ -64,7 +64,7 @@ All the geometry math happens in the browser’s CSS engine. And as luck would h
 .wall {
  --delta-x: calc(var(--end-x) - var(--start-x));
  --delta-y: calc(var(--end-y) - var(--start-y));
- 
+
  width: calc(hypot(var(--delta-x), var(--delta-y)) * 1px);
  height: calc((var(--ceiling-z) - var(--floor-z)) * 1px);
 
@@ -96,7 +96,7 @@ I don’t have any experience with rendering in 3D. And what I remembered from t
 JavaScript sets just four custom properties on the viewport:--player-x,--player-y,--player-z, and--player-angle. CSS does the rest:
 
 #scene {
- translate: 0 0 var(--perspective); 
+ translate: 0 0 var(--perspective);
  transform:
  rotateY(calc(var(--player-angle) * -1rad))
  translate3d(
@@ -141,8 +141,8 @@ But what are “world coordinates” and how do we tap into that? It sounds more
 .floor {
  background-repeat: repeat;
  background-size: 64px 64px;
- background-position: 
- calc(var(--min-x) * -1px) 
+ background-position:
+ calc(var(--min-x) * -1px)
  calc(var(--max-y) * 1px);
 }
 
@@ -283,21 +283,21 @@ What I like about the follow mode is that the camera position is computed entire
 
 body.spectator.follow-mode #scene {
  --follow-dist: calc(var(--follow-height) * 0.7);
- 
+
  translate: 0 10vh var(--perspective);
  rotate: x -55deg;
  transform:
  rotateY(calc(var(--player-angle) * -1rad))
  translate3d(
  calc(
- (var(--player-x) + sin(calc(var(--player-angle) * 
+ (var(--player-x) + sin(calc(var(--player-angle) *
  1rad)) * var(--follow-dist)) * -1px
  ),
  calc(
  (var(--follow-height) + var(--player-floor)) * 1px
  ),
  calc(
- (var(--player-y) - cos(calc(var(--player-angle) * 
+ (var(--player-y) - cos(calc(var(--player-angle) *
  1rad)) * var(--follow-dist)) * 1px
  )
  );

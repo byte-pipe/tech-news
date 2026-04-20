@@ -9,7 +9,7 @@ summarized_at: 2026-04-16T06:13:18.829651
 
 # Open Source Isn't Dead. - Strix
 
-Open Source Isn't Dead  
+Open Source Isn't Dead
 
 **What is Open Source?**
 Open source refers to software or projects that are licensed under an open-source license. This type of licensing allows users to freely use, modify, and distribute the code without needing permission from the original creators.
@@ -22,8 +22,8 @@ Open source refers to software or projects that are licensed under an open-sourc
 
 **Advantages of Open Source:**
 
-• _Enhanced Customization Options_ 
-• _Improved Security_ 
+• _Enhanced Customization Options_
+• _Improved Security_
 • _Increased Collaboration Opportunities_
 
 **Debate and Controversies Surrounding Open Source:**

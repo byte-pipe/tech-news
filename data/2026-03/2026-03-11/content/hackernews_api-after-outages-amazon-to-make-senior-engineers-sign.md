@@ -52,10 +52,10 @@ Amazon has undertaken multiple rounds of lay-offs in recent years, most recently
 © 2026 The Financial Times Ltd.All rights reserved. Not to be redistributed, copied, or modified in any way.
 
  Financial Times
- 
+
 
  Financial Times
- 
+
 
 1. 1.After falling far behind the rest of industry, Blue Origin creates new stock option plan
 2. 2.After outages, Amazon to make senior engineers sign off on AI-assisted changes

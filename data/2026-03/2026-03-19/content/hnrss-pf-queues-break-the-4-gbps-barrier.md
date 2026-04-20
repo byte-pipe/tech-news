@@ -19,27 +19,27 @@ OpenBSD
 
 PF
 
-packet filter has long supported 
+packet filter has long supported
 HFSC
  traffic shaping
-with the 
+with the
 queue
 
 rules in
 
 pf.conf(5)
 .
-However, an internal 32-bit limitation in the 
+However, an internal 32-bit limitation in the
 HFSC
 
 service curve structure (
 struct hfsc_sc
 ) meant that bandwidth values
-were silently capped at approximately 4.29 
+were silently capped at approximately 4.29
 Gbps
 ,
 
-” the maximum value of a 
+” the maximum value of a
 u_int
  "
 .

@@ -33,19 +33,19 @@ The new iPad Air is part of a string of announcements that Apple is planning in 
 This piece was updated at 11:15am on March 2 to add details about the M4 chip’s CPU core configuration.
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
- Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called 
+ Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called
 Overdue
 .
- 
+
 
 1. 1.Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space
 2. 2.New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises

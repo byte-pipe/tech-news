@@ -1,7 +1,7 @@
 ---
 title: GitHub - langchain-ai/open-swe: An Open-Source Asynchronous Coding Agent · GitHub
 url: https://github.com/langchain-ai/open-swe
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-18T11:36:28.022009

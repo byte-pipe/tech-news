@@ -14,7 +14,7 @@ tags:
 
 google-gemini
 
- 
+
 
 /
 
@@ -29,45 +29,45 @@ Public
 # Addressing Antigravity Bans & Reinstating Access#20632
 
  jackwotherspoon
- 
 
- 
+
+
  announced in
- 
+
 Announcements
 
  Addressing Antigravity Bans & Reinstating Access
- 
+
 
 #20632
 
  jackwotherspoon
- 
+
 
 Feb 27, 2026
 
 ·
 
  14 comments
- 
+
 ·
 
  4 replies
- 
+
 
 Return to top
 
- 
+
 
 Discussion options
 
- 
+
 
 Quote reply
 
 ## jackwotherspoonFeb 27, 2026Maintainer
 
- 
+
 
 -
 
@@ -101,49 +101,49 @@ Thank you for your patience and for your continued support of Gemini CLI!
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 8
 
- 
+
 You must be logged in to vote
 
- 
+
 👍
 
 30
 
- 
- 
+
+
 👎
 
 2
 
- 
- 
+
+
 🚀
 
 6
 
- 
 
- 
+
+
 
 All reactions
 
 ## Replies:14 comments·4 replies
 
- 
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 ### llkj11Feb 27, 2026
 
- 
+
 
 -
 
@@ -151,31 +151,31 @@ W
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 1
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  3 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 #### seginFeb 28, 2026
 
- 
+
 
 -
 
@@ -183,21 +183,21 @@ The policy language needs to be updated to be less ambiguous around third-party 
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 All reactions
 
- 
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 #### anxkhnFeb 28, 2026
 
- 
+
 
 -
 
@@ -205,34 +205,34 @@ They fear opencode and openclaw.
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 👍
 
 6
 
- 
- 
+
+
 👎
 
 2
 
- 
 
- 
+
+
 
 All reactions
 
- 
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 #### izzoaFeb 28, 2026
 
- 
+
 
 -
 
@@ -240,34 +240,34 @@ Quote reply
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 👎
 
 1
 
- 
- 
+
+
 😄
 
 1
 
- 
 
- 
+
+
 
 All reactions
 
- 
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 ### antoniomonteirojrFeb 28, 2026
 
- 
+
 
 -
 
@@ -279,35 +279,35 @@ Appreciate the effort, but this only addresses part of the problem. Many paying 
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 17
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  0 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
- 
+
 
 edited
 
 ### hsaliakFeb 28, 2026
 
- 
+
 
 -
 
@@ -315,31 +315,31 @@ Can you clarify ifhttps://developers.google.com/gemini-code-assist/docs/overview
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 2
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  0 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 ### klinkiFeb 28, 2026
 
- 
+
 
 -
 
@@ -349,38 +349,38 @@ I absolutely understand that you don't want users to use OpenClaw etc. and you w
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 7
 
- 
+
 You must be logged in to vote
 
- 
+
 👍
 
 6
 
- 
 
- 
+
+
 
 All reactions
 
  0 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 ### funcieqDEVFeb 28, 2026
 
- 
+
 
 -
 
@@ -388,38 +388,38 @@ such a big W
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 2
 
- 
+
 You must be logged in to vote
 
- 
+
 👎
 
 1
 
- 
 
- 
+
+
 
 All reactions
 
  0 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 ### iziqingFeb 28, 2026
 
- 
+
 
 -
 
@@ -427,31 +427,31 @@ Quote reply
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 1
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  0 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 ### KyleTryonFeb 28, 2026
 
- 
+
 
 -
 
@@ -459,31 +459,31 @@ This is how it should have been handled from the start but I am very happy to se
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 1
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  0 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 ### freakyflowFeb 28, 2026
 
- 
+
 
 -
 
@@ -491,35 +491,35 @@ Do you still ban the whole Google account (Gmail, etc) in case of a violation?
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 6
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  0 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
- 
+
 
 edited
 
 ### 1e100Feb 28, 2026
 
- 
+
 
 -
 
@@ -527,35 +527,35 @@ That is but one grievance with Google Accounts that's getting addressed here. Co
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 4
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  0 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
- 
+
 
 edited
 
 ### ikiddFeb 28, 2026
 
- 
+
 
 -
 
@@ -565,31 +565,31 @@ Honestly, it just proves yet again that using Google services for anything is to
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 3
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  0 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 ### chen-yeFeb 28, 2026
 
- 
+
 
 -
 
@@ -597,31 +597,31 @@ Can you clarify the terms for Gemini CLI in particular? It's an open source proj
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 4
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  0 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 ### sneakFeb 28, 2026
 
- 
+
 
 -
 
@@ -631,31 +631,31 @@ It's an API. The client software is irrelevant. This is such nonsense.
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 2
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  1 reply
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
 #### pashzaFeb 28, 2026
 
- 
+
 
 -
 
@@ -663,32 +663,32 @@ Its not for api usage, its for oauth usage.When you use gemini cli or antigravit
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 👍
 
 1
 
- 
 
- 
+
+
 
 All reactions
 
- 
+
 
 Comment options
 
- 
+
 
 Quote reply
 
- 
+
 
 edited
 
 ### rlewczukFeb 28, 2026
 
- 
+
 
 -
 
@@ -696,35 +696,35 @@ So you are forcing your tools which aren't even safe, saw antigravity deleting u
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 1
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  0 replies
- 
 
- 
+
+
 
 Comment options
 
- 
+
 
 Quote reply
 
- 
+
 
 edited
 
 ### hmontazeriFeb 28, 2026
 
- 
+
 
 -
 
@@ -732,24 +732,24 @@ I don't get it. What do you care which third party service we use? We still pay 
 
 BetaWas this translation helpful?Give feedback.
 
- 
+
 
 1
 
- 
+
 You must be logged in to vote
 
- 
+
 
 All reactions
 
  0 replies
- 
+
 
 Sign up for free
 
 to join this conversation on GitHub
 .
  Already have an account?
- 
+
 Sign in to comment

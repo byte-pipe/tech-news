@@ -20,7 +20,7 @@ magnifiedsand
 
 Under microscopic magnification, the unique beauty and individual character of sand grains reveal a diverse origin reflecting geological history and marine life biodiversity. Sand is everywhere on earth – on our beaches, in our deserts, and on the bottoms of lakes, rivers and oceans. Sand particles are coarser than silt but finer than gravel, ranging in size from 0.02 to 2 mm. They are created when weather and chemicals break down terrestrial rocks, minerals, marine bivalves, corals, mollusks, bryozoans, and foraminifera.
 
- 
+
 
 Loading...
 

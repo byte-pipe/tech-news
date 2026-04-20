@@ -65,7 +65,7 @@ What has been your biggest challenge scaling a Next.js MVP? Let me know in the c
 Connect with me onLinkedIn!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -76,6 +76,6 @@ Preview
 Dismiss
 
  View full discussion (11 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

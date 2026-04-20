@@ -30,7 +30,7 @@ The declaration’s release coincides with a period that makes its urgency far e
 
 As Dean Ball, a senior fellow at the Foundation for American Innovation,told The New York Timesafterward, “This is not just some dispute over a contract. This is the first conversation we have had as a country about control over AI systems.”
 
- 
+
 
 Techcrunch event
 
@@ -65,30 +65,30 @@ It is no small thing that former Trump advisor Steve Bannon and Susan Rice, Pres
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 Max Tegmark
-, 
+,
 OpenAI
-, 
+,
 pentagon
-, 
+,
 The Pro-Human Declaration
- 
 
-			Connie Loizos	
+
+			Connie Loizos
 
 Editor in Chief & General Manager
 
 		Loizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsletter and lecture series acquired by Yahoo in August 2023 and now operated as a sub brand of TechCrunch.
 
 
-You can contact or verify outreach from Connie by emailing 
+You can contact or verify outreach from Connie by emailing
 connie@strictlyvc.com
- or 
+ or
 connie@techcrunch.com
 , or via encrypted message at ConnieLoizos.53 on Signal.
-	
+
 
 View Bio

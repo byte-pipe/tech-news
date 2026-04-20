@@ -20,12 +20,12 @@ summarized_at: 2026-03-06T06:01:55.434072
 - Good software stays true to its purpose and knows when to stop adding features.
 - Deciding whether a change aligns with the product vision or is just a vanity project is essential.
 
-## Lessons from 37Signals (Basecamp)  
-*Constraints are advantages* – small teams, tight budgets, limited scope lead to better decisions.  
-*Ignore feature requests* – focus on the underlying problem rather than every user demand.  
-*Ship early, ship often* – a functional half‑product is preferable to a perfect product that never ships.  
-*Epicenter design* – start with the core interface/interaction before polishing peripheral elements.  
-*Say no by default* – every feature adds hidden costs such as complexity and maintenance.  
+## Lessons from 37Signals (Basecamp)
+*Constraints are advantages* – small teams, tight budgets, limited scope lead to better decisions.
+*Ignore feature requests* – focus on the underlying problem rather than every user demand.
+*Ship early, ship often* – a functional half‑product is preferable to a perfect product that never ships.
+*Epicenter design* – start with the core interface/interaction before polishing peripheral elements.
+*Say no by default* – every feature adds hidden costs such as complexity and maintenance.
 *Scratch your own itch* – build something you need yourself to make wiser choices.
 
 ## Modern context and takeaway

@@ -32,10 +32,10 @@ Overview
 * 15In / Out Endpoints
 * 16Fastboot, finally
 * 17Final Words
- 
- 
- 
- 
+
+
+
+
 
 # Introductionh1
 
@@ -81,11 +81,11 @@ lsusb
 $ lsusb -t
 ...
 /: Bus 008.Port 001: Dev 001, Class=root_hub, Driver=xhci_hcd/1p, 480M
- 
+
 |__ Port 001: Dev 002, If 0, Class=Hub, Driver=hub/4p, 480M
- 
+
 |__ Port 003: Dev 003, If 0, Class=Hub, Driver=hub/4p, 480M
- 
+
 |__ Port 002: Dev 014, If 0, Class=Vendor Specific Class, Driver=[none], 480M
 ...
 
@@ -105,50 +105,50 @@ The same thing we just did manually can also be done in software though. The fol
 
 main.cpp
 #include
- 
+
 <
 print
 >
 #include
- 
+
 <
 libusb-1.0/libusb.h
 >
 
 auto
- 
+
 hotplug_callback
 (
- 
+
 libusb_context
- 
+
 *
 ctx
 ,
- 
+
 libusb_device
- 
+
 *
 device
 ,
- 
+
 libusb_hotplug_event
- 
+
 event
 ,
- 
+
 void
- 
+
 *
 user_data
 )
- 
+
 ->
- 
+
 int
- 
+
 {
- 
+
 std
 ::
 println
@@ -159,122 +159,122 @@ Device plugged in!
 "
 );
 
- 
+
 return
- 
+
 0
 ;
 }
 
 auto
- 
+
 main
 ()
- 
+
 ->
- 
+
 int
- 
+
 {
- 
+
 // Create a context so we can interact with the libusb driver
- 
-libusb_context 
+
+libusb_context
 *
-context 
+context
 =
- 
+
 nullptr
 ;
- 
+
 libusb_init
 (
 &
 context
 );
 
- 
+
 // Register a hotplug event handler to wait for our device to be plugged in
- 
+
 libusb_hotplug_callback_handle hotplug_callback_handle
 ;
- 
+
 libusb_hotplug_register_callback
 (
- 
+
 context
 ,
- 
+
 LIBUSB_HOTPLUG_EVENT_DEVICE_ARRIVED
 ,
  // Device plugged in event
- 
+
 LIBUSB_HOTPLUG_ENUMERATE
 ,
  // Fire event for already plugged in devices
- 
+
 0x18d1
 ,
- 
+
 0x4ee0
 ,
  // The VID and PID we found previously
- 
+
 LIBUSB_HOTPLUG_MATCH_ANY
 ,
  // Match any USB Class
- 
+
 hotplug_callback
 ,
- 
+
 nullptr
 ,
  // The callback to call
- 
+
 &
 hotplug_callback_handle
- 
+
 );
 
- 
+
 // Handle the libusb events
- 
+
 while
- 
+
 (
 true
 )
- 
+
 {
- 
+
 if
- 
+
 (
 libusb_handle_events
 (
 context
 )
- 
+
 <
- 
+
 0
 )
- 
+
 break
 ;
- 
+
 }
 
- 
+
 // Clean up
- 
+
 libusb_hotplug_deregister_callback
 (
 context
 ,
  hotplug_callback_handle
 );
- 
+
 libusb_exit
 (
 context
@@ -309,18 +309,18 @@ The way we use this endpoint is with yet anotherlibusbfunction that’s made spe
 
 main.cpp
 // Open the device so we can communicate with it
-libusb_device_handle 
+libusb_device_handle
 *
-handle 
+handle
 =
- 
+
 nullptr
 ;
 libusb_open
 (
 device
 ,
- 
+
 &
 handle
 );
@@ -333,7 +333,7 @@ std
 ::
 uint8_t
 >
- 
+
 data
 (
 0xFF
@@ -341,70 +341,70 @@ data
 
 // Do a Control transfer
 const
- 
+
 auto
- result 
+ result
 =
- 
+
 libusb_control_transfer
 (
- 
+
 handle
 ,
- 
+
 uint8_t
 (
 LIBUSB_ENDPOINT_IN
 )
- 
+
 |
  // Ask for data from the device...
- 
-LIBUSB_RECIPIENT_DEVICE 
+
+LIBUSB_RECIPIENT_DEVICE
 |
  // about the device as a whole...
- 
+
 LIBUSB_REQUEST_TYPE_STANDARD
 ,
  // using a standard request.
- 
+
 LIBUSB_REQUEST_GET_STATUS
 ,
  // Send a GET_STATUS request
- 
+
 0x00
 ,
  // wValue value of 0x00
- 
+
 0x00
 ,
  // wIndex value of 0x00
- 
+
 data
 .
 data
 (),
- 
+
 data
 .
 size
 (),
  // Buffer to read the data into
- 
+
 1000
  // 1000ms timeout
 );
 
 // Print the data returned by the device if there was no error
 if
- 
+
 (
-result 
+result
 >=
- 
+
 0
 )
- 
+
 print_bytes
 (
 std
@@ -446,65 +446,65 @@ Instead of aGET_STATUSrequest, we now send aGET_DESCRIPTORrequest:
 
 main.cpp
 const
- 
+
 auto
- result 
+ result
 =
- 
+
 libusb_control_transfer
 (
- 
+
 handle
 ,
- 
+
 uint8_t
 (
 LIBUSB_ENDPOINT_IN
 )
- 
+
 |
  // Ask for data from the device...
- 
-LIBUSB_RECIPIENT_DEVICE 
+
+LIBUSB_RECIPIENT_DEVICE
 |
  // about the device as a whole...
- 
+
 LIBUSB_REQUEST_TYPE_STANDARD
 ,
  // using a standard request.
- 
+
 LIBUSB_REQUEST_GET_DESCRIPTOR
 ,
  // Send a GET_DESCRIPTOR request
- 
+
 (
-LIBUSB_DT_DEVICE 
+LIBUSB_DT_DEVICE
 <<
- 
+
 8
 )
- 
+
 |
- 
+
 0
 ,
  // Request the 0th Device Descriptor
- 
+
 0x00
 ,
  // Language ID, can be ignored here
- 
+
 data
 .
 data
 (),
- 
+
 data
 .
 size
 (),
  // Buffer to read the data into
- 
+
 1000
  // 1000ms timeout
 );
@@ -522,59 +522,59 @@ Now to decode this data, we need to look at theUSB specification on Chapter 9.6.
 
 usb.hexpat
 struct
- 
+
 DeviceDescriptor
- 
+
 {
- 
+
 u8
  bLength
 ;
- 
+
 u8
  bDescriptorType
 ;
- 
+
 u16
  bcdUSB
 ;
- 
+
 u8
  bDeviceClass
 ;
- 
+
 u8
  bDeviceSubClass
 ;
- 
+
 u8
  bDeviceProtocol
 ;
- 
+
 u8
  bMaxPacketSize0
 ;
- 
+
 u16
  idVendor
 ;
- 
+
 u16
  idProduct
 ;
- 
+
 u8
  iManufacturer
 ;
- 
+
 u8
  iProduct
 ;
- 
+
 u8
  iSerialNumber
 ;
- 
+
 u8
  bNumConfigurations
 ;
@@ -592,134 +592,134 @@ $ lsusb -d 18d1:4ee0 -v
 Bus 001 Device 012: ID 18d1:4ee0 Google Inc. Nexus/Pixel Device (fastboot)
 Negotiated speed: High Speed (480Mbps)
 Device Descriptor:
- 
+
 bLength 18
- 
+
 bDescriptorType 1
- 
+
 bcdUSB 2.00
- 
+
 bDeviceClass 0 [unknown]
- 
+
 bDeviceSubClass 0 [unknown]
- 
+
 bDeviceProtocol 0
- 
+
 bMaxPacketSize0 64
- 
+
 idVendor 0x18d1 Google Inc.
- 
+
 idProduct 0x4ee0 Nexus/Pixel Device (fastboot)
- 
+
 bcdDevice 99.99
- 
+
 iManufacturer 1 Synaptics
- 
+
 iProduct 2 USB download gadget
- 
+
 iSerial 0
- 
+
 bNumConfigurations 1
 51 collapsed lines
- 
+
 Configuration Descriptor:
- 
+
 bLength 9
- 
+
 bDescriptorType 2
- 
+
 wTotalLength 0x0020
- 
+
 bNumInterfaces 1
- 
+
 bConfigurationValue 1
- 
+
 iConfiguration 2 USB download gadget
- 
+
 bmAttributes 0xc0
- 
+
 Self Powered
- 
+
 MaxPower 2mA
- 
+
 Interface Descriptor:
- 
+
 bLength 9
- 
+
 bDescriptorType 4
- 
+
 bInterfaceNumber 0
- 
+
 bAlternateSetting 0
- 
+
 bNumEndpoints 2
- 
+
 bInterfaceClass 255 Vendor Specific Class
- 
+
 bInterfaceSubClass 66 [unknown]
- 
+
 bInterfaceProtocol 3
- 
+
 iInterface 3 Android Fastboot
- 
+
 Endpoint Descriptor:
- 
+
 bLength 7
- 
+
 bDescriptorType 5
- 
+
 bEndpointAddress 0x81 EP 1 IN
- 
+
 bmAttributes 2
- 
+
 Transfer Type Bulk
- 
+
 Synch Type None
- 
+
 Usage Type Data
- 
+
 wMaxPacketSize 0x0200 1x 512 bytes
- 
+
 bInterval 0
- 
+
 Endpoint Descriptor:
- 
+
 bLength 7
- 
+
 bDescriptorType 5
- 
+
 bEndpointAddress 0x02 EP 2 OUT
- 
+
 bmAttributes 2
- 
+
 Transfer Type Bulk
- 
+
 Synch Type None
- 
+
 Usage Type Data
- 
+
 wMaxPacketSize 0x0200 1x 512 bytes
- 
+
 bInterval 0
 Device Qualifier (for other device speed):
- 
+
 bLength 10
- 
+
 bDescriptorType 6
- 
+
 bcdUSB 2.00
- 
+
 bDeviceClass 0 [unknown]
- 
+
 bDeviceSubClass 0 [unknown]
- 
+
 bDeviceProtocol 0
- 
+
 bMaxPacketSize0 64
- 
+
 bNumConfigurations 1
 Device Status: 0x0001
- 
+
 Self Powered
 
 This output shows us a few more of the descriptors the device has. Specifically, it has a single Configuration Descriptor that contains a Interface Descriptor for theAndroid Fastbootinterface. And that interface now contains two Endpoints. This is where the device tells the host about all the other endpoints, besides the Control endpoint, and these will be the ones we’ll be using in the next step to actually finally send data to the device’s Fastboot interface!
@@ -797,18 +797,18 @@ Let’s update our code to do just that then:
 
 main.cpp
 // Open the device so we can communicate with it
-libusb_device_handle 
+libusb_device_handle
 *
-handle 
+handle
 =
- 
+
 nullptr
 ;
 libusb_open
 (
 device
 ,
- 
+
 &
 handle
 );
@@ -819,7 +819,7 @@ libusb_claim_interface
 (
 handle
 ,
- 
+
 0
 );
 
@@ -833,7 +833,7 @@ vector
 <
 uint8_t
 >
- 
+
 bytes
 (
 64
@@ -847,12 +847,12 @@ ranges
 ::
 copy
 (
- 
+
 "
 getvar:version
 "
 ,
- 
+
 bytes
 .
 begin
@@ -861,41 +861,41 @@ begin
 
 // Do a Bulk transfer of that data on the OUT Endpoint 0x02
 int
- num_bytes_transferred 
+ num_bytes_transferred
 =
- 
+
 0
 ;
 libusb_bulk_transfer
 (
- 
+
 handle
 ,
  // Device handle
- 
-LIBUSB_ENDPOINT_OUT 
+
+LIBUSB_ENDPOINT_OUT
 |
- 
+
 0x02
 ,
  // Endpoint OUT 0x02
- 
+
 bytes
 .
 data
 (),
- 
+
 bytes
 .
 size
 (),
  // Data to send
- 
+
 &
 num_bytes_transferred
 ,
  // Number of bytes sent
- 
+
 1000
  // 1000ms timeout
 );
@@ -909,27 +909,27 @@ println
 Request: {}
 "
 ,
- 
+
 std
 ::
 string_view
 (
- 
+
 reinterpret_cast
 <
 const
- 
+
 char
- 
+
 *>
 (
 bytes
 .
 data
 ()),
- 
+
 num_bytes_transferred
- 
+
 )
 );
 
@@ -942,46 +942,46 @@ fill
 (
 bytes
 ,
- 
+
 0x00
 );
-num_bytes_transferred 
+num_bytes_transferred
 =
- 
+
 0
 ;
 
 // Do a Bulk transfer on the IN Endpoint 0x01
 libusb_bulk_transfer
 (
- 
+
 handle
 ,
  // Device handle
- 
-LIBUSB_ENDPOINT_IN 
+
+LIBUSB_ENDPOINT_IN
 |
- 
+
 0x01
 ,
  // Endpoint IN 0x81
- 
+
 bytes
 .
 data
 (),
- 
+
 bytes
 .
 size
 (),
  // Buffer to receive into
- 
+
 &
 num_bytes_transferred
 ,
  // Number of bytes received
- 
+
 1000
  // 1000ms timeout
 );
@@ -995,27 +995,27 @@ println
 Response: {}
 "
 ,
- 
+
 std
 ::
 string_view
 (
- 
+
 reinterpret_cast
 <
 const
- 
+
 char
- 
+
 *>
 (
 bytes
 .
 data
 ()),
- 
+
 num_bytes_transferred
- 
+
 )
 );
 
@@ -1024,7 +1024,7 @@ libusb_release_interface
 (
 handle
 ,
- 
+
 0
 );
 
@@ -1050,80 +1050,80 @@ And that’s it! You successfully made your first USB driver from scratch withou
 
 All these same principles apply to all USB drivers out there. The underlying protocol may be significantly more complex than the fastboot protocol (I was pulling my hair out before over the atrocity that the MTP protocol is) but everything around it stays identical. Not much more complex than TCP over sockets, is it? :)
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Author: 
- 
+
+
+
+
+
+
+
+
+
+
+
+Author:
+
 WerWolv
- 
- 
- 
- 
- 
- 
-Post: 
- 
+
+
+
+
+
+
+Post:
+
 USB for Software Developers
- 
- 
- 
- 
- 
- 
-Link: 
- 
- https://werwolv.net/posts/usb_for_sw_devs/ 
- 
- 
- 
- 
- 
- 
-License: 
- 
- 
+
+
+
+
+
+
+Link:
+
+ https://werwolv.net/posts/usb_for_sw_devs/
+
+
+
+
+
+
+License:
+
+
 CC BY-NC-SA 4.0
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Back to Posts
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Comments

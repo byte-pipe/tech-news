@@ -11,7 +11,7 @@ description: Original Apollo 11 Guidance Computer (AGC) source code for the comm
 
 chrislgarry
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork7.6k
 * Star66k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -144,7 +144,7 @@ yaYUL
 
 Contact
 
-Ron Burkey 
+Ron Burkey
 info@sandroid.org
 
 Website
@@ -242,53 +242,53 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 66k
 
  stars
- 
+
 
 ### Watchers
 
 1.3k
 
  watching
- 
+
 
 ### Forks
 
 7.6k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -306,17 +306,17 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -324,9 +324,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -13,9 +13,9 @@ tags:
 ---
 
 Filters
-Showing 
+Showing
 0
- of 
+ of
 0
 Sort
 Availability

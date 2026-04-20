@@ -1,7 +1,7 @@
 ---
 title: Reddit - Please wait for verification
 url: https://www.reddit.com/r/worldnews/comments/1sm7bdx/new_world_screwworm_detected_about_90_miles_from/
-date: 
+date:
 site: reddit
 model: llama3.2:1b
 summarized_at: 2026-04-16T06:13:47.353820

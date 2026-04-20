@@ -51,7 +51,7 @@ The Earth Archive Will 3D-Scan the Entire World & Cre­ate an “Open-Source” 
 
 Based in Seoul,Col­inMarshallwrites and broad­casts on cities, lan­guage, and cul­ture. He’s the author of the newslet­terBooks on Citiesas well as the books한국 요약 금지(No Sum­ma­riz­ing Korea) andKore­an Newtro.Fol­low him on the social net­work for­mer­ly known as Twit­ter at@colinmarshall.
 
- 
+
 
 byColin Marshall|Permalink| Comments (0) |
 
@@ -71,9 +71,9 @@ Click here to cancel reply.
 
 Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!
 
- 
 
- 
+
+
 
 ©2006-2026 Open Culture, LLC.All rights reserved.
 

@@ -19,14 +19,14 @@ tags:
 
 
  Albert Einstein
- 
+
 
 ## Introduction to Kalman Filter
 
-TheKalman Filteris an algorithm for estimating and predicting the state of a system 
- in the presence of uncertainty, such as measurement noise or influences of unknown external factors. 
- The Kalman Filter is an essential tool in areas like object tracking, navigation, robotics, and control. For instance, 
- it can be applied to estimate the trajectory of a computer mouse by reducing noise and compensating for hand jitter, 
+TheKalman Filteris an algorithm for estimating and predicting the state of a system
+ in the presence of uncertainty, such as measurement noise or influences of unknown external factors.
+ The Kalman Filter is an essential tool in areas like object tracking, navigation, robotics, and control. For instance,
+ it can be applied to estimate the trajectory of a computer mouse by reducing noise and compensating for hand jitter,
  resulting in a more stable motion path.
 
 In addition to engineering, the Kalman Filter finds applications in financial market
@@ -47,19 +47,19 @@ By the end, you will not only understand the underlying concepts and mathematics
 
 ## Kalman Filter Learning Paths
 
-This project explains the Kalman Filter atthree levels of depth, 
+This project explains the Kalman Filter atthree levels of depth,
  allowing you to choose the path that best fits your background and learning goals:
 
-* Single-page overview (this page)A concise introduction that presents the main ideas of the Kalman Filter and the essential 
- equations, without derivations. This page explains the core concepts and overall structure 
- of the algorithm using a simple example, and assumes basic knowledge of statistics and linear 
+* Single-page overview (this page)A concise introduction that presents the main ideas of the Kalman Filter and the essential
+ equations, without derivations. This page explains the core concepts and overall structure
+ of the algorithm using a simple example, and assumes basic knowledge of statistics and linear
  algebra.
-* Free, example-based web tutorialA step-by-step onlinetutorialthat builds intuition through numerical examples. 
- The tutorial introduces the necessary background material and walks through the 
+* Free, example-based web tutorialA step-by-step onlinetutorialthat builds intuition through numerical examples.
+ The tutorial introduces the necessary background material and walks through the
  derivation of the Kalman Filter equations.No prior knowledge is required.
-* Kalman Filter from the Ground Up (book)A comprehensive guide that includes 14 fully solved numerical examples, with performance plots and tables. 
- The book covers advanced topics such as nonlinear Kalman Filters (Extended and Unscented Kalman Filters), 
- sensor fusion, and practical implementation guidelines. The book and source code (Python and MATLAB) for 
+* Kalman Filter from the Ground Up (book)A comprehensive guide that includes 14 fully solved numerical examples, with performance plots and tables.
+ The book covers advanced topics such as nonlinear Kalman Filters (Extended and Unscented Kalman Filters),
+ sensor fusion, and practical implementation guidelines. The book and source code (Python and MATLAB) for
  all numerical examples are available forpurchase.
 
 Example-driven guide to Kalman Filter
@@ -72,26 +72,26 @@ We begin by formulating the problem to understand why we need an algorithm for s
 
 To illustrate this, consider the example of a tracking radar:
 
-Suppose we have a radar that tracks an aircraft. In this scenario, the aircraft is thesystem, 
+Suppose we have a radar that tracks an aircraft. In this scenario, the aircraft is thesystem,
  and the quantity to be estimated is its position, which represents thesystem state.
 
-The radar samples the target by steering a narrow pencil beam toward it and provides position measurements 
+The radar samples the target by steering a narrow pencil beam toward it and provides position measurements
  of the aircraft. Based on these measurements, we can estimate the system state (the aircraft's position).
 
-To track the aircraft, the radar must revisit the target at regular intervals by pointing the pencil beam in its direction. 
- This means the radar must be able to predict the aircraft's future position for the next beam. If it fails to do so, 
- the beam may be pointed in the wrong direction, resulting in a loss of track. To make this prediction, we need some 
- knowledge about how the aircraft moves. In other words, we need a model that describes the system's behavior over time, 
+To track the aircraft, the radar must revisit the target at regular intervals by pointing the pencil beam in its direction.
+ This means the radar must be able to predict the aircraft's future position for the next beam. If it fails to do so,
+ the beam may be pointed in the wrong direction, resulting in a loss of track. To make this prediction, we need some
+ knowledge about how the aircraft moves. In other words, we need a model that describes the system's behavior over time,
  known as thedynamic model.
 
-To simplify the example, let us consider a one-dimensional world in which the aircraft moves along a straight line either 
+To simplify the example, let us consider a one-dimensional world in which the aircraft moves along a straight line either
  toward the radar or away from it.
 
-The system state is defined as the range of the airplane from the radar, denoted by \( r \). 
- The radar sends a pulse toward the airplane, which reflects off the target and returns to the radar. 
- By measuring the time elapsed between the transmission and reception of the pulse and knowing that the 
- pulse is an electromagnetic wave traveling at the speed of light, the radar can easily calculate the 
- airplane's range \( r \). In addition to range, the radar can also measure the airplane's velocity \( v \), just 
+The system state is defined as the range of the airplane from the radar, denoted by \( r \).
+ The radar sends a pulse toward the airplane, which reflects off the target and returns to the radar.
+ By measuring the time elapsed between the transmission and reception of the pulse and knowing that the
+ pulse is an electromagnetic wave traveling at the speed of light, the radar can easily calculate the
+ airplane's range \( r \). In addition to range, the radar can also measure the airplane's velocity \( v \), just
  like a police radar gun detects a car's speed by using the Doppler effect.
 
 Let us assume that at time \( t_{0} \), the radar measures the aircraft's range and
@@ -140,56 +140,56 @@ The Kalman Filter is a state estimation algorithm that provides both an estimate
 
 ## Kalman Filter example
 
-Let us begin with a simple example: a one-dimensional radar that measures range and velocity by transmitting a pulse toward 
- an aircraft and receiving the reflected echo. The time delay between pulse transmission and echo reception provides 
- information about the aircraft range \(r\), and the frequency shift of the reflected echo provides information about the 
+Let us begin with a simple example: a one-dimensional radar that measures range and velocity by transmitting a pulse toward
+ an aircraft and receiving the reflected echo. The time delay between pulse transmission and echo reception provides
+ information about the aircraft range \(r\), and the frequency shift of the reflected echo provides information about the
  aircraft velocity \(v\) (Doppler effect).
 
-In this example, the system state is described by both the aircraft range \(r\) and velocity \(v\). We define the system state by the 
+In this example, the system state is described by both the aircraft range \(r\) and velocity \(v\). We define the system state by the
  vector \(\boldsymbol{x}\), which includes both quantities:
 
-\[ 
+\[
  \boldsymbol{x}=\left[\begin{matrix}r\\v\\\end{matrix}\right]
  \]
 
 We denote vectors by lowercase bold letters and matrices by uppercase bold letters.
 
-Because the system state includes more than one variable, we use linear algebra tools, 
- such as vectors and matrices, to describe the mathematics of the Kalman Filter. 
- If you are not comfortable with linear algebra, please review theOne-Dimensional Kalman Filter sectionin the online tutorial or in the book. It presents the Kalman Filter equations and their derivation using 
+Because the system state includes more than one variable, we use linear algebra tools,
+ such as vectors and matrices, to describe the mathematics of the Kalman Filter.
+ If you are not comfortable with linear algebra, please review theOne-Dimensional Kalman Filter sectionin the online tutorial or in the book. It presents the Kalman Filter equations and their derivation using
  high-school-level mathematics, along with four fully solved examples.
 
 ### Iteration 0
 
 #### Filter initialization
 
-In this example, we will use the first measurement to initialize the Kalman Filter 
- (for more information on initialization techniques and their impact on the Kalman Filter performance, 
- refer toChapter 21of thebook). At time \(t_0\), the radar measures a range of \(10,000m\) 
+In this example, we will use the first measurement to initialize the Kalman Filter
+ (for more information on initialization techniques and their impact on the Kalman Filter performance,
+ refer toChapter 21of thebook). At time \(t_0\), the radar measures a range of \(10,000m\)
  and a velocity of \(200m/s\). The measurements are denoted by the letter \(\boldsymbol{z}\).We stack the measurements into the measurement vector \(\boldsymbol{z}\):
 
-\[ 
+\[
  \boldsymbol{z}_0=\left[\begin{matrix}10{,}000\\200\\\end{matrix}\right]
  \]
 
 The subscript \(0\) indicates time \(t_0\).
 
-The measurement does not reflect the exact system state. Measurements are corrupted by random noise; 
+The measurement does not reflect the exact system state. Measurements are corrupted by random noise;
  therefore, each measurement is a random variable.
 
-Can we trust this measurement? How certain is it? Each measurement is accompanied by a squaredmeasurement uncertaintyvalue (sometimes called themeasurement error). This squared uncertainty 
- is the measurement's variance. You can read more about variance in theEssential Background I section. 
+Can we trust this measurement? How certain is it? Each measurement is accompanied by a squaredmeasurement uncertaintyvalue (sometimes called themeasurement error). This squared uncertainty
+ is the measurement's variance. You can read more about variance in theEssential Background I section.
  For a more detailed discussion of measurement uncertainty, see theKalman Filter in One Dimension section.
 
-In radar systems, measurement uncertainty is largely determined by the ratio of received signal strength to noise. The higher the signal-to-noise ratio, 
+In radar systems, measurement uncertainty is largely determined by the ratio of received signal strength to noise. The higher the signal-to-noise ratio,
  the lower the measurement variance, and the greater our confidence in the measurement.
 
 The following figure compares low-signal and high-signal cases in the presence of noise.
 
-Let us assume that the standard deviation of the range measurement is \( 4m \) and the standard deviation of the velocity 
+Let us assume that the standard deviation of the range measurement is \( 4m \) and the standard deviation of the velocity
  measurement is \( 0.5m/s \). Since variance is the square of the standard deviation, thesquared measurement uncertainty(denoted by \( \boldsymbol{R} \)) is:
 
-\[ 
+\[
  \boldsymbol{R}_0=\left[\begin{matrix}16&0\\0&0.25\\\end{matrix}\right]
  \]
 
@@ -199,23 +199,23 @@ Let us assume that the standard deviation of the range measurement is \( 4m \) a
  \boldsymbol{R}=\left[\begin{matrix}\sigma_r^2&\sigma_{rv}^2\\[0.5em]\sigma_{vr}^2&\sigma_v^2\\\end{matrix}\right]
  \]
 
-In this example, we assume that errors in the range and velocity measurements are not related to each other, 
+In this example, we assume that errors in the range and velocity measurements are not related to each other,
  so the off-diagonal elements of the measurement covariance matrix are set to zero.
 
 For a refresher onvarianceandstandard deviation, see theEssential Background I sectionof the online tutorial.For a refresher oncovariance matrices, see theEssential Background II section.
 
-During initialization, the only information we have is a single measurement. In this example, 
- the measurement and the system state are described by the same quantities (\(r\) and \(v\)). 
- Therefore, we can use the measurement as the initial estimate of the system state. 
+During initialization, the only information we have is a single measurement. In this example,
+ the measurement and the system state are described by the same quantities (\(r\) and \(v\)).
+ Therefore, we can use the measurement as the initial estimate of the system state.
  This can be done only during the initialization step:
 
-\[ 
+\[
  \boldsymbol{\hat{x}}_{0,0}=\boldsymbol{z}_0=\left[\begin{matrix}10{,}000\\200\\\end{matrix}\right]
  \]
 
 Note:
  a caret (or hat) over a variable indicates an estimated value.
- 
+
 
 The subscript \(0,0\) has the following meaning:
 
@@ -228,13 +228,13 @@ In other words, the estimate is for time \(t_0\), and it was also calculated at 
 
 We now predict the next state. Assume the target revisit time is 5 seconds \((\Delta t=5s)\), therefore \(t_1=5s\).
 
-To estimate the future system state, we must describe how the system evolves over time. 
+To estimate the future system state, we must describe how the system evolves over time.
  In this example, we assume a constant velocitydynamic model(the motion model):
 
-\[ 
+\[
  v_{1} = v_{0} = v
  \]
- \[ 
+ \[
  r_{1} = r_{0} + v_{0}\Delta t
  \]
 
@@ -265,8 +265,8 @@ The equation
  {\hat{\boldsymbol{x}}}_{n+1,n}=\boldsymbol{F}{\hat{\boldsymbol{x}}}_{n,n}
  \]
 
-is thestate extrapolation (prediction)equation. It tells us how to compute the next state from 
- the current one. It takes our current state estimate and uses the system's motion model to predict 
+is thestate extrapolation (prediction)equation. It tells us how to compute the next state from
+ the current one. It takes our current state estimate and uses the system's motion model to predict
  the state at the next time step.
 
 The full form of the state extrapolation equation is:
@@ -284,10 +284,10 @@ The input vector represents additional information provided to the Kalman Filter
 
 In this simple example, we assume there is no input, so \(\boldsymbol{u}_n=0\).
 
-For an example that includes an input term, see theState Extrapolation Equationpage of the 
+For an example that includes an input term, see theState Extrapolation Equationpage of the
  online tutorial or the fully solvedExample 10in thebook.
 
-Every measurement and every estimate in the Kalman Filter comes with uncertainty information. 
+Every measurement and every estimate in the Kalman Filter comes with uncertainty information.
  After predicting the next state, we should also ask: how precise is this prediction?
 
 The squared uncertainty of the current state estimate is represented by the covariance matrix:
@@ -301,13 +301,13 @@ However, the prediction covariance is not computed as:
 This is because \(\boldsymbol{P}\) is a covariance matrix, and variances and covariances involvesquared terms.
 
 Note:
- For more information on variance and covariance matrix, read the 
+ For more information on variance and covariance matrix, read the
 Essential Background I
- 
- and 
+
+ and
 Essential Background II
  sections of the online tutorial.
- 
+
 
 The covariance extrapolation equation (without the process noise) is given by:
 
@@ -323,19 +323,19 @@ Look at the main diagonal of the covariance matrix.
 
 The velocity variance \(\sigma_v^2\) is still \(0.25 \, m^2/s^2\). It did not change because the dynamic model assumes constant velocity.
 
-In contrast, the range variance \(\sigma_r^2\) increased from \(16m^2\) to \(22.25m^2\). 
+In contrast, the range variance \(\sigma_r^2\) increased from \(16m^2\) to \(22.25m^2\).
  This reflects the fact that uncertainty in velocity leads to increasing uncertainty in range over time.
 
-As noted earlier, the assumption of constant-velocity dynamics is not fully accurate. In reality, 
- the aircraft's velocity can be affected by external and unknown factors, such as wind. As a result, 
+As noted earlier, the assumption of constant-velocity dynamics is not fully accurate. In reality,
+ the aircraft's velocity can be affected by external and unknown factors, such as wind. As a result,
  the actual prediction uncertainty is higher than what the simple model predicts.
 
-These unpredictable influences are calledprocess noiseand are denoted by \(\boldsymbol{Q}\). 
+These unpredictable influences are calledprocess noiseand are denoted by \(\boldsymbol{Q}\).
  To take these effects into account, we add \(\boldsymbol{Q}\) to the prediction covariance equation:
 
 \[ \boldsymbol{P}_{n+1,n}=\boldsymbol{F}\boldsymbol{P}_{n,n}\boldsymbol{F}^T + \boldsymbol{Q}\]
 
-To gain intuition about how process noise affects Kalman Filter performance, 
+To gain intuition about how process noise affects Kalman Filter performance,
  seeExample 6in the online tutorial.
 
 Let us assume that the standard deviation of the random acceleration is \(\sigma_a=0.2m/s^2\). This represents uncertainty in random aircraft acceleration caused by unpredictable environmental influences.
@@ -360,7 +360,7 @@ $$ \boldsymbol{P}_{1,0}=\boldsymbol{F}\boldsymbol{P}_{0,0}\boldsymbol{F}^T+\bold
 
 * InitializationWe initialized the Kalman Filter by using the first measurement as the initial state estimate
  \( {\hat{\boldsymbol{x}}}_{0,0} \), and the measurement covariance as the initial state covariance \(\boldsymbol{P}_{0,0}\).Note that this can be done only during the initialization phase.
-* PredictionWe predicted the state and its uncertainty at the next time step, when the radar revisits the aircraft. 
+* PredictionWe predicted the state and its uncertainty at the next time step, when the radar revisits the aircraft.
  The Kalman Filter prediction equations are:State Extrapolation Equation\[ {\hat{\boldsymbol{x}}}_{n+1,n}=\boldsymbol{F}{\hat{\boldsymbol{x}}}_{n,n} + \boldsymbol{G}\boldsymbol{u}_n \]Covariance Extrapolation Equation\[ \boldsymbol{P}_{n+1,n}=\boldsymbol{F}\boldsymbol{P}_{n,n}\boldsymbol{F}^T + \boldsymbol{Q}\]where:\(\hat{\boldsymbol{x}}_{n,n}\) is the estimated system state vector at time step \(n\)\(\hat{\boldsymbol{x}}_{n+1,n}\) is the predicted system state vector for time step \(n+1\), computed using information available at time \(n\)\(\boldsymbol{u}_n\) is a control variable or input variable, representing known external inputs to the system\(\boldsymbol{F}\) is the state transition matrix\(\boldsymbol{G}\) is the input (control) matrix or input transition matrix, which maps inputs to state variables\(\boldsymbol{P}_{n,n}\) is the covariance matrix (squared uncertainty) of the current state\(\boldsymbol{P}_{n+1,n}\) is the covariance matrix (squared uncertainty) of the predicted state\(\boldsymbol{Q}\) is the process noise matrix
 * \(\hat{\boldsymbol{x}}_{n,n}\) is the estimated system state vector at time step \(n\)
 * \(\hat{\boldsymbol{x}}_{n+1,n}\) is the predicted system state vector for time step \(n+1\), computed using information available at time \(n\)
@@ -377,17 +377,17 @@ $$ \boldsymbol{P}_{1,0}=\boldsymbol{F}\boldsymbol{P}_{0,0}\boldsymbol{F}^T+\bold
 
 Assume the second measurement at \(t_1\):
 
-\[ 
+\[
  \boldsymbol{z}_1=\left[\begin{matrix}11{,}020\\202\\\end{matrix}\right]
  \]
 
-Due to a strong noise spike during this measurement, the signal-to-noise ratio is significantly lower than for 
+Due to a strong noise spike during this measurement, the signal-to-noise ratio is significantly lower than for
  the first measurement. As a result, the uncertainty of the second measurement is higher.
 
-Let us assume that the standard deviation of the range measurement is \(6m\) and the standard deviation of the velocity measurement is \(1.5m/s\). 
+Let us assume that the standard deviation of the range measurement is \(6m\) and the standard deviation of the velocity measurement is \(1.5m/s\).
  The corresponding measurement covariance matrix is:
 
-\[ 
+\[
  \boldsymbol{R}_1=\left[\begin{matrix}\colorbox{yellow}{$36$}&0\\0&\colorbox{yellow}{$2.25$}\\\end{matrix}\right]
  \]
 
@@ -398,24 +398,24 @@ We want to estimate the current system state \(\hat{\boldsymbol{x}}_{1,1}\). At 
 
 Which one should we trust?
 
-Intuitively, we might prefer to use the measurement as the current estimate, 
+Intuitively, we might prefer to use the measurement as the current estimate,
  that is \(\hat{\boldsymbol{x}}_{1,1}=\boldsymbol{z}_1\), because it is more up to date than the prediction.
 
-On the other hand, the measurement is also noisier. If we compare the main diagonal elements of the prediction 
- covariance \(\boldsymbol{P}_{1,0}\) with the measurement covariance \(\boldsymbol{R}_1\), we see that the prediction 
+On the other hand, the measurement is also noisier. If we compare the main diagonal elements of the prediction
+ covariance \(\boldsymbol{P}_{1,0}\) with the measurement covariance \(\boldsymbol{R}_1\), we see that the prediction
  uncertainty is smaller than the measurement uncertainty:
 
-\[ 
+\[
  \boldsymbol{P}_{1,0}=\left[\begin{matrix}\colorbox{yellow}{$28.5$}&3.75\\3.75&\colorbox{yellow}{$1.25$}\\\end{matrix}\right]
  \]
 
-So perhaps we should ignore the new measurement and keep the prediction, 
+So perhaps we should ignore the new measurement and keep the prediction,
  that is \(\hat{\boldsymbol{x}}_{1,1}=\hat{\boldsymbol{x}}_{1,0}\)?
 
 In this case, we lose the new information provided by the current measurement.
 
-The key idea of the Kalman Filter is that we doneither. 
- Instead, we combine the prediction and the measurement, giving more weight to the 
+The key idea of the Kalman Filter is that we doneither.
+ Instead, we combine the prediction and the measurement, giving more weight to the
  one with lower uncertainty.
 
 The solution is a weighted average between the measurement and the prediction:
@@ -424,12 +424,12 @@ The solution is a weighted average between the measurement and the prediction:
  \hat{x}_{1,1}=K_1 z_1\ +\ \left({1-\ K}_1\right){\hat{x}}_{1,0}, \quad 0\leq K_1 \leq 1
  \]
 
-Here, the weight \(K_1\) is theKalman Gain. It determines how much weight is given to the 
- measurement versus the prediction in a way that minimizes the uncertainty of the 
- estimate. This is what makes the Kalman Filter anoptimalfilter (as long as the 
+Here, the weight \(K_1\) is theKalman Gain. It determines how much weight is given to the
+ measurement versus the prediction in a way that minimizes the uncertainty of the
+ estimate. This is what makes the Kalman Filter anoptimalfilter (as long as the
  system and noise behave according to the assumptions of the model).
 
-I will introduce the Kalman gain equation shortly, but first let us focus on theState Update Equation. 
+I will introduce the Kalman gain equation shortly, but first let us focus on theState Update Equation.
  In matrix form, it is written as:
 
 \[
@@ -446,13 +446,13 @@ Let us rewrite this equation:
 
 This form shows that the updated state is theprediction\(\hat{\boldsymbol{x}}_{1,0}\) plus acorrection term\(\boldsymbol{K}_1\left(\boldsymbol{z}_1 - \hat{\boldsymbol{x}}_{1,0}\right)\).
 
-The correction is proportional to the difference between the measurement and the prediction 
+The correction is proportional to the difference between the measurement and the prediction
  \(\boldsymbol{z}_1 - \hat{\boldsymbol{x}}_{1,0}\), which is called theinnovationorresidual.
 
-In our example, both the system state and the measurement are vectors that represent the same physical 
+In our example, both the system state and the measurement are vectors that represent the same physical
  quantities (range and velocity). Therefore, we can directly subtract \(\hat{\boldsymbol{x}}_{1,0}\) from \(\boldsymbol{z}_1\).
 
-However, this is not always the case. In general, the measurement and the system state may belong to different physical 
+However, this is not always the case. In general, the measurement and the system state may belong to different physical
  domains. For example, a digital thermometer measures an electrical signal, while the system state is the temperature.
 
 For this reason, the predicted state must first be transformed into the measurement domain:
@@ -461,7 +461,7 @@ For this reason, the predicted state must first be transformed into the measurem
  \boldsymbol{H} \hat{\boldsymbol{x}}_{1,0}
  \]
 
-The matrix \(\boldsymbol{H}\) is called the observation matrix (or measurement matrix). 
+The matrix \(\boldsymbol{H}\) is called the observation matrix (or measurement matrix).
  It maps the state variables to the quantities that are actually measured.
 
 In our example, the observation matrix is simply the identity matrix:
@@ -585,7 +585,7 @@ For the derivation, see theKalman Filter in One Dimensionsection of the online t
 
 ###### Joseph form
 
-For the multivariate Kalman Filter, the covariance update equation is commonly written in a numerically stable form, 
+For the multivariate Kalman Filter, the covariance update equation is commonly written in a numerically stable form,
  known as theJoseph form, which was introduced by Peter Joseph.
 
 \[
@@ -613,7 +613,7 @@ In the literature, you will also often see the simplified covariance update:
 
 For its derivation, see theSimplified Covariance Update Equationsection.
 
-Both forms give the same result in exact arithmetic. However, for computer implementations, 
+Both forms give the same result in exact arithmetic. However, for computer implementations,
  the Joseph form is generally preferred because it is more numerically stable.
 
 For this example only, let us use the simplified covariance update equation:
@@ -648,11 +648,11 @@ The uncertainty of the updated estimate is lower than both the prediction uncert
 
 By combining the measurement with the prediction, and weighting them using the Kalman gain, we obtain an estimate withlower uncertainty.
 
-Adding new information, even when it has high uncertainty, always reduces the estimation uncertainty. 
- See theSensor Fusionchapter in thebookandAppendices G and Hfor the mathematical proof. 
+Adding new information, even when it has high uncertainty, always reduces the estimation uncertainty.
+ See theSensor Fusionchapter in thebookandAppendices G and Hfor the mathematical proof.
  From a theoretical point of view, new measurements should never be ignored.
 
-In practice, however, it is often necessary to reject certain measurements. See theOutlier Treatmentchapter 
+In practice, however, it is often necessary to reject certain measurements. See theOutlier Treatmentchapter
  in thebookfor practical methods of handling unreliable measurements.
 
 #### Prediction
@@ -679,22 +679,22 @@ The prediction step ofIteration 1(from \( t_1 \) to \( t_2 \) ) is identical to 
  \boldsymbol{P}_{2,1}=\ \left[\begin{matrix}1&5\\0&1\\\end{matrix}\right]\left[\begin{matrix}14.57&1.43\\1.43&0.71\\\end{matrix}\right]\left[\begin{matrix}1&0\\5&1\\\end{matrix}\right]+\left[\begin{matrix}6.25&2.5\\2.5&1\\\end{matrix}\right]=\left[\begin{matrix}52.86&7.47\\7.47&1.71\\\end{matrix}\right]
  \]
 
-Notice that both variances increase again during the prediction step. This happens because, 
- as time passes without a new measurement, uncertainty naturally grows. In particular, uncertainty 
- in velocity causes additional uncertainty in range, which is why the range variance increases more 
+Notice that both variances increase again during the prediction step. This happens because,
+ as time passes without a new measurement, uncertainty naturally grows. In particular, uncertainty
+ in velocity causes additional uncertainty in range, which is why the range variance increases more
  rapidly than the velocity variance.
 
 #### Iteration 1 summary
 
-* UpdateWe estimate the current system state \(\hat{\boldsymbol{x}}_{1,1}\) as a weighted combination of the 
- predicted state \(\hat{\boldsymbol{x}}_{1,0}\) and the measurement \(\boldsymbol{z}_1\).The weighting is determined by the Kalman Gain \(K_1\). The Kalman Gain is computed 
- from the predicted state covariance \(\boldsymbol{P}_{1,0}\) and the measurement covariance 
- \(\boldsymbol{R}_1\), and it minimizes the uncertainty of the updated estimate 
+* UpdateWe estimate the current system state \(\hat{\boldsymbol{x}}_{1,1}\) as a weighted combination of the
+ predicted state \(\hat{\boldsymbol{x}}_{1,0}\) and the measurement \(\boldsymbol{z}_1\).The weighting is determined by the Kalman Gain \(K_1\). The Kalman Gain is computed
+ from the predicted state covariance \(\boldsymbol{P}_{1,0}\) and the measurement covariance
+ \(\boldsymbol{R}_1\), and it minimizes the uncertainty of the updated estimate
  \(\boldsymbol{P}_{1,1}\).The Kalman Filter update equations are:State Update Equation\[ \hat{\boldsymbol{x}}_{n,n}=\hat{\boldsymbol{x}}_{n,n-1}+\boldsymbol{K}_n\left(\boldsymbol{z}_n\ -\ \boldsymbol{H}\hat{\boldsymbol{x}}_{n,n-1}\right) \]Covariance Update Equation (Joseph form)\[ \boldsymbol{P}_{n,n}=\left(\boldsymbol{I}-\boldsymbol{K}_n\boldsymbol{H}\right)\boldsymbol{P}_{n,n-1}\left(\boldsymbol{I}-\boldsymbol{K}_n\boldsymbol{H}\right)^T+\boldsymbol{K}_n\boldsymbol{R}_n\boldsymbol{K}_n^T \]Or its simplified form\[\boldsymbol{P}_{n,n}=\left(\boldsymbol{I}-\boldsymbol{K}_n\boldsymbol{H}\right)\boldsymbol{P}_{n,n-1}\]Kalman Gain equation\[ \boldsymbol{K}_n=\ \boldsymbol{P}_{n,n-1}\boldsymbol{H}^T\left(\boldsymbol{H}\boldsymbol{P}_{n,n-1}\boldsymbol{H}^T+\boldsymbol{R}_n\right)^{-1}\]where:\( \hat{\boldsymbol{x}}_{n,n} \) is the updated state estimate at time step n\( \hat{\boldsymbol{x}}_{n,n-1} \) is the predicted state at time step n, computed using information available at time n-1\( \boldsymbol{z}_n \) is the measurement vector\( \boldsymbol{P}_{n,n} \) is the covariance of the updated state estimate\( \boldsymbol{P}_{n,n-1} \) is the covariance of the predicted state estimate\( \boldsymbol{K}_n \) is the Kalman gain\( \boldsymbol{H} \) is the observation (measurement) matrix\( \boldsymbol{R}_n \) is the measurement noise covariance matrix\( \boldsymbol{I} \) is the identity matrix
-* We estimate the current system state \(\hat{\boldsymbol{x}}_{1,1}\) as a weighted combination of the 
- predicted state \(\hat{\boldsymbol{x}}_{1,0}\) and the measurement \(\boldsymbol{z}_1\).The weighting is determined by the Kalman Gain \(K_1\). The Kalman Gain is computed 
- from the predicted state covariance \(\boldsymbol{P}_{1,0}\) and the measurement covariance 
- \(\boldsymbol{R}_1\), and it minimizes the uncertainty of the updated estimate 
+* We estimate the current system state \(\hat{\boldsymbol{x}}_{1,1}\) as a weighted combination of the
+ predicted state \(\hat{\boldsymbol{x}}_{1,0}\) and the measurement \(\boldsymbol{z}_1\).The weighting is determined by the Kalman Gain \(K_1\). The Kalman Gain is computed
+ from the predicted state covariance \(\boldsymbol{P}_{1,0}\) and the measurement covariance
+ \(\boldsymbol{R}_1\), and it minimizes the uncertainty of the updated estimate
  \(\boldsymbol{P}_{1,1}\).
 * The Kalman Filter update equations are:State Update Equation\[ \hat{\boldsymbol{x}}_{n,n}=\hat{\boldsymbol{x}}_{n,n-1}+\boldsymbol{K}_n\left(\boldsymbol{z}_n\ -\ \boldsymbol{H}\hat{\boldsymbol{x}}_{n,n-1}\right) \]Covariance Update Equation (Joseph form)\[ \boldsymbol{P}_{n,n}=\left(\boldsymbol{I}-\boldsymbol{K}_n\boldsymbol{H}\right)\boldsymbol{P}_{n,n-1}\left(\boldsymbol{I}-\boldsymbol{K}_n\boldsymbol{H}\right)^T+\boldsymbol{K}_n\boldsymbol{R}_n\boldsymbol{K}_n^T \]Or its simplified form\[\boldsymbol{P}_{n,n}=\left(\boldsymbol{I}-\boldsymbol{K}_n\boldsymbol{H}\right)\boldsymbol{P}_{n,n-1}\]Kalman Gain equation\[ \boldsymbol{K}_n=\ \boldsymbol{P}_{n,n-1}\boldsymbol{H}^T\left(\boldsymbol{H}\boldsymbol{P}_{n,n-1}\boldsymbol{H}^T+\boldsymbol{R}_n\right)^{-1}\]
 * \( \hat{\boldsymbol{x}}_{n,n} \) is the updated state estimate at time step n
@@ -716,9 +716,9 @@ After initialization, the Kalman Filter operates in a continuouspredict-update l
 
 This example demonstrates the core ideas behind the Kalman Filter and its predict-update cycle.
 
-* If you would like to learn more, I invite you to explore the free onlinetutorial, 
+* If you would like to learn more, I invite you to explore the free onlinetutorial,
  which explains the Kalman Filter step by step using numerical examples, starting with one-dimensional cases.
-* For a complete and practical guide, consider thebookKalman Filter from the Ground Up, 
+* For a complete and practical guide, consider thebookKalman Filter from the Ground Up,
  which presents both linear and nonlinear filters using detailed, step-by-step examples and implementation guidelines.
 
 Example-driven guide to Kalman Filter

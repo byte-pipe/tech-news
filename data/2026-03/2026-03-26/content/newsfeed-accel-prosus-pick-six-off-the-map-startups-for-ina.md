@@ -37,7 +37,7 @@ The firms say the model is designed for startups with long development cycles. â
 
 These companies often follow a non-linear path, according to Ashutosh Sharma (pictured above, right), head of India ecosystem at Prosus. Progress depends on achieving key technical breakthroughs rather than steady growth, he said.
 
- 
+
 
 Techcrunch event
 
@@ -60,25 +60,25 @@ REGISTER NOW
 Topics
 
 Accel
-, 
+,
 Accel Atoms
-, 
+,
 Atoms X
-, 
+,
 deep tech
-, 
+,
 India
-, 
+,
 India
-, 
+,
 Prosus
-, 
+,
 Startups
-, 
+,
 Venture
- 
 
-			Jagmeet Singh	
+
+			Jagmeet Singh
 
 Reporter
 

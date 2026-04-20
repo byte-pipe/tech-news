@@ -117,11 +117,11 @@ Product & Company News
 ### Understanding and Reducing AI Risk in Modern Applications
 
 Snegha Ramnarayanan
-, 
+,
 Aviel Erdis
-, 
+,
 Guy Weiss
-, 
+,
 Dan Segev
 March 11, 2026
 
@@ -130,7 +130,7 @@ Identify real AI risk by connecting signals in context across the layers of AI a
 ### Introducing Wiz Tenant Manager: Multi-Tenant Management for Federated Organizations
 
 Bandhna Bedi
-, 
+,
 Solal Raveh
 March 6, 2026
 
@@ -139,9 +139,9 @@ Experience full Wiz security with zero friction, managing multiple tenants in a 
 ### The Agile FedRAMP Playbook, Part 4: Reactive Risk Management through Enriched Incident Response
 
 Annam Iyer
-, 
+,
 Kelsey Nelson
-, 
+,
 Bryan Rosensteel
 March 6, 2026
 

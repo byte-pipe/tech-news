@@ -62,7 +62,7 @@ Triangle
 * Porn stars areembracing AI clones
 * WIRED@Night:Hear Andy Greenberg discussthe facts and fiction of crypto
 Corey Atad
- is a freelance culture journalist based in Toronto. ... 
+ is a freelance culture journalist based in Toronto. ...
 Read More
 Contributor
 
@@ -83,7 +83,7 @@ Between pickup artists and juvenile pranksters, the wearable device is becoming 
 Miles Klee
 Taylor Lorenz’s Screen Time Is Almost 17 Hours a Day
 The extremely online journalist and content creator doesn’t believe in tech hygiene and yearns for a world where “inbox infinity” is celebrated.
-Alana Hope Levinson 
+Alana Hope Levinson
 My AI Agent ‘Cofounder’ Conquered LinkedIn. Then It Got Banned
 When social media is constantly pushing people to use AI, why not let AI agents participate?
 Evan Ratliff
@@ -101,11 +101,11 @@ The EV manufacturer is supported by a robust online community. But Elon Musk’s
 Miles Klee
 The Moms Who Sponcon Their Daughters’ First Periods
 From Mormon momfluencer domination to boosting engagement with partially clothed kids, journalist Fortesa Latifi’s new book exposes the dark and complex world of child influencers.
-Ej Dickson 
-How 
+Ej Dickson
+How
 Democracy Now!
  Became the Blueprint for Indie Media
-WIRED sat down with 
+WIRED sat down with
 Democracy Now!
  host Amy Goodman to talk politics, AI, and the future of media. A documentary about her rise hits theaters today.
 Kate Knibbs

@@ -11,5 +11,5 @@ summarized_at: 2026-03-05T06:02:34.187654
 
 # Live Train Delay Markets
 
-- No article text was provided.  
+- No article text was provided.
 - Please supply the content of the article “Live Train Delay Markets” so I can generate the requested summary.

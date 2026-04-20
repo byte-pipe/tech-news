@@ -12,21 +12,21 @@ summarized_at: 2026-03-27T01:01:39.625364
 # A variety of jungle animals all use one type of tree as a latrine
 
 ## Discovery of the canopy latrine
-- Independent ecologist Jeremy Quirós‑Navarro found a natural platform of mixed faeces 30 m up a strangler fig (Ficus tuerckheimii) while setting a camera.  
+- Independent ecologist Jeremy Quirós‑Navarro found a natural platform of mixed faeces 30 m up a strangler fig (Ficus tuerckheimii) while setting a camera.
 - Subsequent searches revealed many similar latrines, all on the same fig species.
 
 ## Species using the latrine
-- Video traps recorded 17 different mammal species over two months, representing almost the entire canopy mammal community of the Monteverde Cloud Forest.  
-- Visitors included margays (urine marking), porcupines (toileting and scent‑rubbing), opossums, white‑faced capuchins, coatis, howler monkeys, weasels, and two‑toed sloths (previously thought to defecate only on the ground).  
+- Video traps recorded 17 different mammal species over two months, representing almost the entire canopy mammal community of the Monteverde Cloud Forest.
+- Visitors included margays (urine marking), porcupines (toileting and scent‑rubbing), opossums, white‑faced capuchins, coatis, howler monkeys, weasels, and two‑toed sloths (previously thought to defecate only on the ground).
 - About three visits occurred each day.
 
 ## Extent of the phenomenon
-- Survey of 170 additional trees found latrines exclusively in Ficus tuerckheimii.  
+- Survey of 170 additional trees found latrines exclusively in Ficus tuerckheimii.
 - Anecdotal reports indicate similar use of strangler figs in Honduras and Borneo.
 
 ## Ecological and conservation relevance
-- Communal latrines may serve for territory marking, information exchange, way‑marking, and concentrating faeces to reduce predator detection, similar to ground‑based communal latrines of rhinos and hyenas.  
-- The fig’s “hand‑like” canopy structure creates a protected platform and long branches (≈12 m) that act as aerial highways, potentially linking different forest patches.  
+- Communal latrines may serve for territory marking, information exchange, way‑marking, and concentrating faeces to reduce predator detection, similar to ground‑based communal latrines of rhinos and hyenas.
+- The fig’s “hand‑like” canopy structure creates a protected platform and long branches (≈12 m) that act as aerial highways, potentially linking different forest patches.
 - Disturbance of a single fig could disrupt communication networks across the forest, with cascading ecological effects.
 
 ## Expert commentary

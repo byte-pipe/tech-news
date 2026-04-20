@@ -14,7 +14,7 @@ tags:
 
 sterlingcrispin
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork37
 * Star383
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -204,7 +204,7 @@ your-app
 
 Generic deployment flow:
 
-heroku config:set BOT_MODE=live DRY_RUN=false LIVE_TRADING_ENABLED=true -a 
+heroku config:set BOT_MODE=live DRY_RUN=false LIVE_TRADING_ENABLED=true -a
 "
 $HEROKU_APP_NAME
 "
@@ -225,17 +225,17 @@ url
 <
 url
 >
- -a 
+ -a
 "
 $HEROKU_APP_NAME
 "
 
-git push heroku 
+git push heroku
 <
 branch
 >
 :main
-heroku ps:scale web=1 worker=0 -a 
+heroku ps:scale web=1 worker=0 -a
 "
 $HEROKU_APP_NAME
 "
@@ -258,7 +258,7 @@ Inspect live database table counts and recent activity
 
 scripts/export_db.py
 
-Export live tables from 
+Export live tables from
 DATABASE_URL
  or a Heroku app
 
@@ -277,54 +277,54 @@ Local config, ledgers, exports, reports, and deployment artifacts are ignored by
 ## About
 
  No description, website, or topics provided.
- 
+
 
 ### Resources
 
  Readme
 
- 
+
 
 ### License
 
  CC0-1.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 383
 
  stars
- 
+
 
 ### Watchers
 
 0
 
  watching
- 
+
 
 ### Forks
 
 37
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -342,9 +342,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors1
 

@@ -50,5 +50,5 @@ summarized_at: 2026-03-11T13:14:12.137909
 - By giving agents an email address, they can interact with any software service that already supports email.
 
 ## Contributors
-- Article by Ram Iyer, financial and tech reporter.  
+- Article by Ram Iyer, financial and tech reporter.
 - Contact: ram.iyer@techcrunch.com.

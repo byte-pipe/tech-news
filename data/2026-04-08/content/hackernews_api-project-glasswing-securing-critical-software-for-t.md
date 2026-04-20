@@ -69,10 +69,10 @@ Opus 4.6
 In addition to our own work, many of our partners have already been using Claude Mythos Preview for several weeks. This is what they’ve found:
 
 01
- / 
+ /
 08
 
-“AI capabilities have crossed a threshold that fundamentally changes the urgency required to protect critical infrastructure from cyber threats, and there is no going back. Our foundational work with these models has shown we can identify and fix security vulnerabilities across hardware and software at a pace and scale previously impossible. That is a profound shift, and a clear signal that the old ways of hardening systems are no longer sufficient. 
+“AI capabilities have crossed a threshold that fundamentally changes the urgency required to protect critical infrastructure from cyber threats, and there is no going back. Our foundational work with these models has shown we can identify and fix security vulnerabilities across hardware and software at a pace and scale previously impossible. That is a profound shift, and a clear signal that the old ways of hardening systems are no longer sufficient.
 
 Providers of technology must aggressively adopt new approaches now, and customers need to be ready to deploy. That is why Cisco joined Project Glasswing—this work is too important and too urgent to do alone.”
 
@@ -83,7 +83,7 @@ SVP & Chief Security & Trust Officer, Cisco
 Read announcement
 
 “At AWS, we build defenses before threats emerge, from our custom silicon up through the technology stack. Security isn't a phase for us; it's continuous and embedded in everything we do. Our teams analyze over 400 trillion network flows every day for threats, and AI is central to our ability to defend at scale.
- 
+
 We've been testing Claude Mythos Preview in our own security operations, applying it to critical codebases, where it's already helping us strengthen our code. We're bringing deep security expertise to our partnership with Anthropic and are helping to harden Claude Mythos Preview so even more organizations can advance their most ambitious work with security that sets the standard.”
 
 Amy Herzog
@@ -92,7 +92,7 @@ Vice President and CISO, Amazon Web Services
 
 Read announcement
 
-“As we enter a phase where cybersecurity is no longer bound by purely human capacity, the opportunity to use AI responsibly to improve security and reduce risk at scale is unprecedented. Joining Project Glasswing, with access to Claude Mythos Preview, allows us to identify and mitigate risk early and augment our security and development solutions so we can better protect customers and Microsoft. 
+“As we enter a phase where cybersecurity is no longer bound by purely human capacity, the opportunity to use AI responsibly to improve security and reduce risk at scale is unprecedented. Joining Project Glasswing, with access to Claude Mythos Preview, allows us to identify and mitigate risk early and augment our security and development solutions so we can better protect customers and Microsoft.
 
 When tested against CTI-REALM, our open-source security benchmark, Claude Mythos Preview showed substantial improvements compared to previous models. We look forward to partnering with Anthropic and the broader industry to improve security outcomes for all.”
 
@@ -102,7 +102,7 @@ EVP of Cybersecurity and Microsoft Research, Microsoft
 
 Read announcement
 
-“The window between a vulnerability being discovered and being exploited by an adversary has collapsed—what once took months now happens in minutes with AI. 
+“The window between a vulnerability being discovered and being exploited by an adversary has collapsed—what once took months now happens in minutes with AI.
 
 Claude Mythos Preview demonstrates what is now possible for defenders at scale, and adversaries will inevitably look to exploit the same capabilities. That is not a reason to slow down; it’s a reason to move together, faster. If you want to deploy AI, you need security. That is why CrowdStrike is part of this effort from day one.”
 
@@ -112,7 +112,7 @@ Chief Technology Officer, CrowdStrike
 
 Read announcement
 
-“In the past, security expertise has been a luxury reserved for organizations with large security teams. Open source maintainers—whose software underpins much of the world’s critical infrastructure—have historically been left to figure out security on their own. Open source software constitutes the vast majority of code in modern systems, including the very systems AI agents use to write new software. 
+“In the past, security expertise has been a luxury reserved for organizations with large security teams. Open source maintainers—whose software underpins much of the world’s critical infrastructure—have historically been left to figure out security on their own. Open source software constitutes the vast majority of code in modern systems, including the very systems AI agents use to write new software.
 
 By giving the maintainers of these critical open source codebases access to a new generation of AI models that can proactively identify and fix vulnerabilities at scale, Project Glasswing offers a credible path to changing that equation. This is how AI-augmented security can become a trusted sidekick for every maintainer, not just those who can afford expensive security teams.”
 

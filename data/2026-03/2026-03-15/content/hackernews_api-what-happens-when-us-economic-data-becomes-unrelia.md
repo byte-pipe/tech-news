@@ -25,7 +25,7 @@ There are numerous consequences to having unreliable data, said MIT Sloan profes
 
 In a working paper titled “Measuring by Executive Order,” Rigobon and Harvard Business School professorAlberto Cavalloaddress the main challenges undermining trustworthy government data and detail what businesses should be aware of, especially regarding the use of private data.
 
- 
+
 
 Work smart with our Thinking Forward newsletter
 Insights from MIT experts, delivered every Tuesday morning.
@@ -42,7 +42,7 @@ Leave this field blank
 2. Funding constraints.Government agencies like the Bureau of Labor Statistics and Census Bureauare facing shrinking budgetsthat limit their ability to adopt new technologies and expand data-collection efforts. One example: In September 2025, the U.S. Department of Agriculture announced that it washalting its “costly” annual survey on food insecurity, which will prevent policymakers and researchers from tracking changes to household hunger in the U.S.“It has become really, really difficult for the statistical offices to collect the data points,” Rigobon said. “Why this is so important? Because you needrepresentativeness. Representativeness is by far the most important attribute of accurate data.”
 3. Political interference.Breaking apart advisory committees, dismissing statistical leaders, and politicizing nominations may not immediately alter data quality, the authors write, but those actions undermine transparency and credibility. Countrywide government shutdowns, which include statistical offices, have far-reaching ramifications.“The shutdowns that happen, they tend to be really costly for the statistical offices because they cannot collect the data,” Rigobon said. Losing one month’s worth of data is considerable when you have only 12 months’ worth of data to begin with. “One data point is a lot,” he said.Likewise, revisions to U.S. government data are routine; agencies make scheduled updates to initial, often preliminary, statistical estimates to enhance accuracy. But lately those revisions have come under attack, with some people characterizing them as a sign of failure or bias.“Policymakers may rely on preliminary numbers to act quickly, while investors and analysts turn to revised data for a clearer long-term picture,” the authors write. “Far from signaling failure, revisions are a hallmark of a healthy statistical system that adapts as better information becomes available.”
 
- 
+
 
 ### Future-Ready Enterprise Academy
 
@@ -50,7 +50,7 @@ In person at MIT Sloan
 
 Register here
 
- 
+
 
 ## Action items for business leaders
 
@@ -92,7 +92,7 @@ Action items for AI decision makers in 2026
 
 Ideas Made to Matter
 
-5 ‘heavy lifts’ of deploying AI agents 
+5 ‘heavy lifts’ of deploying AI agents
 
 Ideas Made to Matter
 

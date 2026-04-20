@@ -43,21 +43,21 @@ The problem with Q&A is you have to know what you don't know. If you knew exactl
 
 spec-writer takes a different approach. It generates the full spec immediately and marks every decision it made that you didn't specify:
 
-Given 
+Given
 an authenticated user requesting an export
 
 When the export contains more than 1,000 rows [ASSUMPTION
 :
- 
+
 async
- 
+
 for
- 
+
 large
- 
+
 exports]
 
-Then 
+Then
 the export is generated asynchronously and the user is notified by email
 
 Enter fullscreen mode
@@ -98,31 +98,31 @@ Here's a slice of what came back:
 
 From the spec:
 
-Given 
+Given
 a developer with Claude Code sessions in ~/.claude/projects/
 
-When 
+When
 they run the Foundation CLI capture command
 
-Then 
+Then
 a list of uncaptured sessions is displayed, sorted by most recent first
 
-Given 
+Given
 a session already in Foundation
 
-When 
+When
 the developer runs capture again
 
-Then 
+Then
 that session does not appear in the review list
 
-Given 
+Given
 a malformed .jsonl file
 
-When 
+When
 the capture command processes it
 
-Then 
+Then
 an error is logged for that file and processing continues on remaining sessions
 
 Enter fullscreen mode
@@ -131,9 +131,9 @@ Exit fullscreen mode
 
 From the plan:
 
-CLI capture runs locally — it needs to read the local filesystem, which 
-Cloudflare Workers cannot do. [ASSUMPTION: CLI capture is a local Node.js 
-or Bun script that calls the Foundation API to insert sessions, rather 
+CLI capture runs locally — it needs to read the local filesystem, which
+Cloudflare Workers cannot do. [ASSUMPTION: CLI capture is a local Node.js
+or Bun script that calls the Foundation API to insert sessions, rather
 than a Worker itself]
 
 Enter fullscreen mode
@@ -183,7 +183,7 @@ The methodology is Julián's. The skill is the friction remover.
 ## Install
 
 mkdir
- 
+
 -p
  ~/.claude/skills
 git clone https://github.com/dannwaneri/spec-writer.git ~/.claude/skills/spec-writer
@@ -213,7 +213,7 @@ Built on the Spec Driven Development methodology — operationalized by tools li
 Other skills:voice-humanizer— checks your writing against your own voice, not generic AI patterns.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -224,7 +224,7 @@ Preview
 Dismiss
 
  View full discussion (13 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

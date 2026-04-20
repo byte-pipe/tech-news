@@ -67,7 +67,7 @@ FH
  cell and CCL20–miDC axes are responsible for enhanced antibody production after FPP stimulation.
 Fig. 3: FPP binds to the intracellular domain of TRPV3 to initiate calcium influx and promote cytokine production.
 Fig. 4: Keratinocytes produce APFs in response to infection by activating the MVA pathway.
-Fig. 5: Excessive FPP–TRPV3–IL-6/CCL20 activation contributes to the progression of SLE after 
+Fig. 5: Excessive FPP–TRPV3–IL-6/CCL20 activation contributes to the progression of SLE after
 S. aureus
  colonization.
 

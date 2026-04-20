@@ -24,13 +24,13 @@ Available early next month
 AirPods Max 2
 
 View pricing
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 * Item 1
 * Item 2
@@ -71,10 +71,10 @@ Lossless Audioand ultra‑low latency audio preserve every detail of the origina
 
 Personalized Spatial Audiowith dynamic head tracking6gives you a theater‑like experience with sound that surrounds you for movies, TV shows, and games. Using built‑in gyroscopes and accelerometers, AirPods Max and your iPhone, iPad, Mac, or Apple TV track the subtle motion of your head, anchoring sounds to your device.
 
-Learn more about 
+Learn more about
 high-fidelity audio
 
- 
+
 
 ## High-fidelity details.
 
@@ -83,15 +83,15 @@ high-fidelity audio
 * Distortionless Playback
 
 													To cancel unwanted external noise, AirPods Max use six outward‑facing microphones to detect outside noise, and two inward‑facing microphones to measure what you’re hearing. Now powered by H2, Voice Isolation comes to AirPods Max 2 to help isolate your voice on phone calls — even in noisy environments. And creators can now capture studio‑quality vocals with natural vocal texture and clarity.
-												
+
 
 													The Apple-designed dynamic driver produces an extended frequency range that uncovers the rich details of every sound — delivering your favorite songs with previously unheard of texture and accuracy.
-												
+
 
 													Modeled after those in high‑end floor‑standing speakers, the driver’s dual‑neodymium ring magnet motor minimizes total harmonic distortion across the entire audible range. With the new high dynamic range amplifier, the result is consistently clear playback, even at higher volumes.
-												
 
- 
+
+
 
 ## Unmake some noise.
 
@@ -143,6 +143,6 @@ On by default in Transparency and Adaptive Audio listening modes, Loud Sound R
 
 Compare all AirPods models
 
- 
+
 
 ## AirPods

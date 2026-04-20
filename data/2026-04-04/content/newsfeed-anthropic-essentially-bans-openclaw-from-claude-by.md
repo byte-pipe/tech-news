@@ -27,8 +27,8 @@ Claude subscriptions will no longer cover third-party access from tools like Ope
 Claude subscriptions will no longer cover third-party access from tools like OpenClaw starting Saturday, April 4th.
 
 by
- 
- 
+
+
 Jay Peters
 Apr 3, 2026, 11:52 PM UTC
 * Link
@@ -37,9 +37,9 @@ Apr 3, 2026, 11:52 PM UTC
 Image: The Verge
 Part Of
 Friday news dumps: all the news companies hoped you wouldn’t notice
-see all updates 
+see all updates
 Jay Peters
- 
+
 is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme.
 
 Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic’s new policy changes. Beginning April 4th at 3PM ET, users will “no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,” according to an email sent to users on Friday evening. Instead, if users want to use OpenClaw with Claude, they’ll have to use a “pay-as-you-go option” that will be billed separate from their Claude subscription.
@@ -97,19 +97,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

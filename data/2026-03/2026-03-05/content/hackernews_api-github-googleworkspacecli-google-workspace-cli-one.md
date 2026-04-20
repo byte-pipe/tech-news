@@ -15,7 +15,7 @@ tags:
 
 googleworkspace
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork193
 * Star7.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -214,7 +214,7 @@ Pre-built binaries are also available on theGitHub Releasespage.
 
 Or build from source:
 
-cargo install --path 
+cargo install --path
 .
 
 A Nix flake is also available atgithub:googleworkspace/cli
@@ -223,15 +223,15 @@ nix run github:googleworkspace/cli
 
 ## Quick Start
 
-gws auth setup 
+gws auth setup
 #
  walks you through Google Cloud project config
 
-gws auth login 
+gws auth login
 #
  subsequent OAuth login
 
-gws drive files list --params 
+gws drive files list --params
 '
 {"pageSize": 5}
 '
@@ -245,7 +245,7 @@ For AI agents— every response is structured JSON. Pair it with the included ag
 #
  List the 10 most recent files
 
-gws drive files list --params 
+gws drive files list --params
 '
 {"pageSize": 10}
 '
@@ -253,7 +253,7 @@ gws drive files list --params
 #
  Create a spreadsheet
 
-gws sheets spreadsheets create --json 
+gws sheets spreadsheets create --json
 '
 {"properties": {"title": "Q1 Budget"}}
 '
@@ -262,12 +262,12 @@ gws sheets spreadsheets create --json
  Send a Chat message
 
 gws chat spaces messages create \
- --params 
+ --params
 '
 {"parent": "spaces/xyz"}
 '
  \
- --json 
+ --json
 '
 {"text": "Deploy complete."}
 '
@@ -282,13 +282,13 @@ gws schema drive.files.list
 #
  Stream paginated results as NDJSON
 
-gws drive files list --params 
+gws drive files list --params
 '
 {"pageSize": 100}
 '
- --page-all 
+ --page-all
 |
- jq -r 
+ jq -r
 '
 .files[].name
 '
@@ -309,7 +309,7 @@ gcloud
 gws auth setup
  (fastest)
 
-A GCP project but no 
+A GCP project but no
 gcloud
 
 Manual OAuth setup
@@ -326,11 +326,11 @@ GOOGLE_WORKSPACE_CLI_CREDENTIALS_FILE
 
 Credentials are encrypted at rest (AES-256-GCM) with the key stored in your OS keyring.
 
-gws auth setup 
+gws auth setup
 #
  one-time: creates a Cloud project, enables APIs, logs you in
 
-gws auth login 
+gws auth login
 #
  subsequent scope selection and login
 
@@ -348,26 +348,26 @@ gws auth login --scopes drive,gmail,calendar
 
 You can authenticate with more than one Google account and switch between them:
 
-gws auth login --account work@corp.com 
+gws auth login --account work@corp.com
 #
  login and register an account
 
 gws auth login --account personal@gmail.com
 
-gws auth list 
+gws auth list
 #
  list registered accounts
 
-gws auth default work@corp.com. 
+gws auth default work@corp.com.
 #
  set the default
 
-gws --account personal@gmail.com drive files list 
+gws --account personal@gmail.com drive files list
 #
  one-off override
 
 export
- GOOGLE_WORKSPACE_CLI_ACCOUNT=personal@gmail.com 
+ GOOGLE_WORKSPACE_CLI_ACCOUNT=personal@gmail.com
 #
  env var override
 
@@ -489,20 +489,20 @@ OpenClaw setup
 #
  Symlink all skills (stays in sync with repo)
 
-ln -s 
+ln -s
 $(
 pwd
 )
 /skills/gws-
 *
- 
+
 ~
 /.openclaw/skills/
 
 #
  Or copy specific skills
 
-cp -r skills/gws-drive skills/gws-gmail 
+cp -r skills/gws-drive skills/gws-gmail
 ~
 /.openclaw/skills/
 
@@ -519,45 +519,45 @@ Installing this extension gives your Gemini CLI agent direct access to allgwscom
 
 gws mcpstarts aModel Context Protocolserver over stdio, exposing Google Workspace APIs as structured tools that any MCP-compatible client (Claude Desktop, Gemini CLI, VS Code, etc.) can call.
 
-gws mcp -s drive 
+gws mcp -s drive
 #
  expose Drive tools
 
-gws mcp -s drive,gmail,calendar 
+gws mcp -s drive,gmail,calendar
 #
  expose multiple services
 
-gws mcp -s all 
+gws mcp -s all
 #
  expose all services (many tools!)
 
 Configure in your MCP client:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "gws"
 : {
- 
+
 "command"
-: 
+:
 "
 gws
 "
 ,
- 
+
 "args"
 : [
 "
 mcp
 "
-, 
+,
 "
 -s
 "
-, 
+,
 "
 drive,gmail,calendar
 "
@@ -577,7 +577,7 @@ Description
 
 -s, --services <list>
 
-Comma-separated services to expose, or 
+Comma-separated services to expose, or
 all
 
 -w, --workflows
@@ -592,7 +592,7 @@ Also expose helper tools
 
 ### Multipart Uploads
 
-gws drive files create --json 
+gws drive files create --json
 '
 {"name": "report.pdf"}
 '
@@ -632,7 +632,7 @@ Sheets ranges use!which bash interprets as history expansion. Always wrap values
  Read cells A1:C10 from "Sheet1"
 
 gws sheets spreadsheets values get \
- --params 
+ --params
 '
 {"spreadsheetId": "SPREADSHEET_ID", "range": "Sheet1!A1:C10"}
 '
@@ -641,12 +641,12 @@ gws sheets spreadsheets values get \
  Append rows
 
 gws sheets spreadsheets values append \
- --params 
+ --params
 '
 {"spreadsheetId": "ID", "range": "Sheet1!A1", "valueInputOption": "USER_ENTERED"}
 '
  \
- --json 
+ --json
 '
 {"values": [["Name", "Score"], ["Alice", 95]]}
 '
@@ -655,12 +655,12 @@ gws sheets spreadsheets values append \
 
 IntegrateGoogle Cloud Model Armorto scan API responses for prompt injection before they reach your agent.
 
-gws gmail users messages get --params 
+gws gmail users messages get --params
 '
 ...
 '
  \
- --sanitize 
+ --sanitize
 "
 projects/P/locations/L/templates/T
 "
@@ -676,7 +676,7 @@ Default Model Armor template
 GOOGLE_WORKSPACE_CLI_SANITIZE_MODE
 
 warn
- (default) or 
+ (default) or
 block
 
 ## Architecture
@@ -729,31 +729,31 @@ If a required Google API is not enabled for your GCP project, you will see a
 403 error with reasonaccessNotConfigured:
 
 {
- 
+
 "error"
 : {
- 
+
 "code"
-: 
+:
 403
 ,
- 
+
 "message"
-: 
+:
 "
 Gmail API has not been used in project 549352339482 ...
 "
 ,
- 
+
 "reason"
-: 
+:
 "
 accessNotConfigured
 "
 ,
- 
+
 "enable_url"
-: 
+:
 "
 https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=549352339482
 "
@@ -780,21 +780,21 @@ APIs for your project automatically.
 
 ## Development
 
-cargo build 
+cargo build
 #
  dev build
 
-cargo clippy -- -D warnings 
+cargo clippy -- -D warnings
 #
  lint
 
-cargo 
+cargo
 test
- 
+
 #
  unit tests
 
-./scripts/coverage.sh 
+./scripts/coverage.sh
 #
  HTML coverage report → target/llvm-cov/html/
 
@@ -852,66 +852,66 @@ developers.google.com/workspace
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 7.1k
 
  stars
- 
+
 
 ### Watchers
 
 14
 
  watching
- 
+
 
 ### Forks
 
 193
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases15
 
@@ -919,11 +919,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Mar 5, 2026
 
- 
+
 
 + 14 releases
 
@@ -931,9 +931,9 @@ Mar 5, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -941,9 +941,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

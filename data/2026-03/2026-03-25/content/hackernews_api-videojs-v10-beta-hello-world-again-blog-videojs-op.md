@@ -149,105 +149,105 @@ One of the biggest complaints about video players today is their file size, ofte
 
 The Video.js v10 default player is now88% smallerthan the size of the previous version’s (v8.x.x) default. A good chunk of those savings come from the decision to unbundle adaptive bitrate (ABR) support, which you could remove in the previous version by instead importing fromvideo.js/core, but the majority of video.js installs just use the default bundle while alsonotusing the adaptive streaming features. Comparing more similar apples, with ABR removed, the v10 default video player (HTML) is still66% smallerthan the size of the previous version, getting even smaller from there depending on which bundle you need.
 
- 
- 
 
- 
- 
- 
- 
- 
- 
- player 
- minified (kB) 
- gzip (kB) 
- notes 
- 
- 
- 
- 
- Video.js v8 (core) 
- 260.5 
- 75.2 
- 
- 
- 
- Vidstack 
- 237.4 
- 74.1 
- 
- 
- 
- Media Chrome 
- 175.5 
- 41.3 
- 
- 
- 
- Plyr 
- 109.8 
- 32.6 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Video.js v10 
- Video Player [HTML] 
- 97.4 
- 25.1 
- 
- 
- 
- 
- Video.js v10 
- Audio Player [HTML] 
- 85.8 
- 23.0 
- 
- 
- 
- 
- Video.js v10 
- Video Player [React] 
- 62.0 
- 18.0 
- 
- 
- 
- 
- Video.js v10 
- Audio Player [React] 
- 49.2 
- 15.2 
- 
- 
- 
- 
- Video.js v10 
- Background Video [HTML] 
- 22.2 
- 6.9 
- 
- 
- 
- 
- Video.js v10 
- Background Video [React] 
- 10.7 
- 3.5 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+ player
+ minified (kB)
+ gzip (kB)
+ notes
+
+
+
+
+ Video.js v8 (core)
+ 260.5
+ 75.2
+
+
+
+ Vidstack
+ 237.4
+ 74.1
+
+
+
+ Media Chrome
+ 175.5
+ 41.3
+
+
+
+ Plyr
+ 109.8
+ 32.6
+
+
+
+
+
+
+
+
+
+
+ Video.js v10
+ Video Player [HTML]
+ 97.4
+ 25.1
+
+
+
+
+ Video.js v10
+ Audio Player [HTML]
+ 85.8
+ 23.0
+
+
+
+
+ Video.js v10
+ Video Player [React]
+ 62.0
+ 18.0
+
+
+
+
+ Video.js v10
+ Audio Player [React]
+ 49.2
+ 15.2
+
+
+
+
+ Video.js v10
+ Background Video [HTML]
+ 22.2
+ 6.9
+
+
+
+
+ Video.js v10
+ Background Video [React]
+ 10.7
+ 3.5
+
+
+
+
+
+
+
 
 ### v10 Engine (vroooom)
 
@@ -257,198 +257,198 @@ As part of v10 we’ve started a new engine project called SPF 😎 (Streaming P
 
 For a simple HLS use case, Video.js v10 using SPF is only 19% the file size of Video.js v8 including adaptive bitrate streaming (ABR).
 
- 
- 
 
- 
- 
- 
- 
- 
- 
- player 
- minified (kB) 
- gzip (kB) 
- notes 
- 
- 
- 
- 
- Vidstack + HLS.js 
- 764.3 
- 238.1 
- 
- 
- 
- Media Chrome + HLS.js 
- 701.2 
- 202.9 
- 
- 
- 
- Video.js v8 + VHS* 
- 697.0 
- 202.7 
- *VHS is bundled by default 
- 
- 
- Plyr + HLS.js 
- 614.0 
- 188.5 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Video.js v10 + 
- HLS.js 
- 526.5 
- 164.1 
- 
- 
- 
- 
- Video.js v10 + 
- SPF [HTML] 
- 144.6 
- 38.7 
- 
- 
- 
- 
- Video.js v10 + 
- SPF [React] 
- 107.3 
- 31.6 
- 
- 
- 
- 
- v10 
- Background Video 
- + 
- SPF [HTML] 
- 61.2 
- 18.9 
- 
- 
- 
- 
- v10 
- Background Video 
- + 
- SPF [React] 
- 49.2 
- 15.6 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+ player
+ minified (kB)
+ gzip (kB)
+ notes
+
+
+
+
+ Vidstack + HLS.js
+ 764.3
+ 238.1
+
+
+
+ Media Chrome + HLS.js
+ 701.2
+ 202.9
+
+
+
+ Video.js v8 + VHS*
+ 697.0
+ 202.7
+ *VHS is bundled by default
+
+
+ Plyr + HLS.js
+ 614.0
+ 188.5
+
+
+
+
+
+
+
+
+
+
+ Video.js v10 +
+ HLS.js
+ 526.5
+ 164.1
+
+
+
+
+ Video.js v10 +
+ SPF [HTML]
+ 144.6
+ 38.7
+
+
+
+
+ Video.js v10 +
+ SPF [React]
+ 107.3
+ 31.6
+
+
+
+
+ v10
+ Background Video
+ +
+ SPF [HTML]
+ 61.2
+ 18.9
+
+
+
+
+ v10
+ Background Video
+ +
+ SPF [React]
+ 49.2
+ 15.6
+
+
+
+
+
+
+
 
 Comparing engines to engines you get a clearer picture of the story. The other engines are very difficult to get any smaller without forking them, while the engine composed using SPF only includes what’s needed for simple adaptive streaming using HLS,making it only 12% the file size of even HLS.js-light.
 
- 
- 
 
- 
- 
- 
- 
- 
- 
- engine 
- minified (kB) 
- gzip (kB) 
- notes 
- v10 compatible 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+ engine
+ minified (kB)
+ gzip (kB)
+ notes
+ v10 compatible
+
+
+
+
+
 dash.js
- 
- 962.1 
- 294.2 
- DASH only 
- ✅ 
- 
- 
- 
+
+ 962.1
+ 294.2
+ DASH only
+ ✅
+
+
+
 Shaka
- 
- 753.0 
- 239.1 
- HLS and DASH support 
- ✅ 
- 
- 
- 
+
+ 753.0
+ 239.1
+ HLS and DASH support
+ ✅
+
+
+
 hls.js
- 
- 503.4 
- 155.9 
- HLS only 
- ✅ 
- 
- 
- 
+
+ 503.4
+ 155.9
+ HLS only
+ ✅
+
+
+
 VHS
- (v8) * 
- 434.4 
- 127.6 
- * Requires video.js; not standalone. HLS and DASH support 
- ✅ 
- 
- 
+ (v8) *
+ 434.4
+ 127.6
+ * Requires video.js; not standalone. HLS and DASH support
+ ✅
+
+
  Shaka (
 custom build
- **) 
- 350.0 
- 115.0 
- ** Shaka can be made smaller with a Closure Compiler custom build, not an npm import. This build size targets “simple” ABR. 
- ✅ 
- 
- 
- HLS.js-light 
- 328.5 
- 103.4 
- Removes DRM, subs, alt-audio, CMCD, interstitials 
- ✅ 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- SPF-composed engine 
- 
- 
- 38.5 
- 
- 
- 12.1 
- 
- Includes only what’s needed for “simple” ABR 
- ✅ 
- 
- 
- 
- 
- 
- 
+ **)
+ 350.0
+ 115.0
+ ** Shaka can be made smaller with a Closure Compiler custom build, not an npm import. This build size targets “simple” ABR.
+ ✅
+
+
+ HLS.js-light
+ 328.5
+ 103.4
+ Removes DRM, subs, alt-audio, CMCD, interstitials
+ ✅
+
+
+
+
+
+
+
+
+
+
+ SPF-composed engine
+
+
+ 38.5
+
+
+ 12.1
+
+ Includes only what’s needed for “simple” ABR
+ ✅
+
+
+
+
+
+
 
 To be clear, the immediate goal isn’t for SPF to replace the full-featured engines like HLS.js for advanced streaming use cases, and in fact v10 works with all these streaming engines today. The goal is to achieve much smaller file sizes for common, simpler use cases. At the same time we think a lot more sites and apps could benefit from simple ABR, and we want SPF to lower the file size cost of using it.
 
@@ -564,7 +564,7 @@ paused
  store
 .
 play
-() 
+()
 :
  store
 .
@@ -813,36 +813,36 @@ For v10, Sam Potts (creator ofPlyr, 29,000 GitHub stars largely on the strength 
 
 Default skins theme(VideoSkin and AudioSkin)
 
- 
- 
 
- 
- 
+
+
+
+
 
 Minimal skins theme(MinimalVideoSkin and MinimalAudioSkin)
 
- 
- 
 
- 
- 
+
+
+
+
 
 One detail I love is the error dialog, where the visual treatment matches the skin. I’m sure that feels tiny and simple, but in Video.js history this level of detail was so far down the priority list that for a decade the error dialog has been my big ugly text ‘X’, for every skin. So when I see these new error dialogs it helps confirm we’re all setting the bar higher, and I’m loving it.
 
 Default
 
- 
- 
+
+
 
 Minimal
 
- 
- 
+
+
 
 Amazon.com featuring the version 8 error dialog “X” (I forced the error for the screenshot)
 
- 
- 
+
+
 
 (Amazon, I can help you upgrade! You have all of my contact info.)
 

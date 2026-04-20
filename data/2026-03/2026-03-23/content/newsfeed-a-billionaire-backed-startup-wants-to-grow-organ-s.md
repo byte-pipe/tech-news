@@ -76,7 +76,7 @@ Triangle
 * Should you leave your phonecharging overnight?
 * Watch:How right wing influencers infiltrated the government
 Emily Mullin
- is a staff writer at WIRED, covering biotechnology. Previously, she was an MIT Knight Science Journalism project fellow and a staff writer covering biotechnology at Medium's OneZero. Before that, she served as an associate editor at MIT Technology Review, where she wrote about biomedicine. Her stories have also ... 
+ is a staff writer at WIRED, covering biotechnology. Previously, she was an MIT Knight Science Journalism project fellow and a staff writer covering biotechnology at Medium's OneZero. Before that, she served as an associate editor at MIT Technology Review, where she wrote about biomedicine. Her stories have also ...
 Read More
 Staff Writer
 * X
@@ -108,7 +108,7 @@ When AI Companies Go to War, Safety Gets Left Behind
 We were promised AI regulation and a race to the top. Now, we’re arguing about killer robots.
 Steven Levy
 AI Will Never Be Conscious
-In his new book, 
+In his new book,
 A World Appears
 , Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.
 Michael Pollan

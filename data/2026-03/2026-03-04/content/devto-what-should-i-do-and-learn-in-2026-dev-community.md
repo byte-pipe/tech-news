@@ -86,7 +86,7 @@ Birds aren't your thing? Find something to go deep into. I'm also big into nail 
 Maybe this wasn't quite the list you were expecting, but I hope it gets you thinking. What is on your list for doing and learning this year? Have you started? There is still so much year left.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -97,7 +97,7 @@ Preview
 Dismiss
 
  View full discussion (27 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

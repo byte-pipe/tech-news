@@ -32,45 +32,45 @@ AI Assistant
 
 2
 import
- 
+
 {
  freestyle
 ,
- 
+
 VmSpec
- 
+
 }
- 
+
 from
- 
+
 "freestyle-sandboxes"
 ;
 
 3
 import
- 
+
 {
- 
+
 VmBun
- 
+
 }
- 
+
 from
- 
+
 "@freestyle-sh/with-bun"
 ;
 
 4
 import
- 
+
 {
- 
+
 VmDevServer
- 
+
 }
- 
+
 from
- 
+
 "@freestyle-sh/with-dev-server"
 ;
 
@@ -81,13 +81,13 @@ from
 
 7
 const
- 
+
 {
- repoId 
+ repoId
 }
- 
+
 =
- 
+
 await
  freestyle
 .
@@ -98,9 +98,9 @@ repos
 create
 (
 {
- 
+
 ...
- 
+
 }
 )
 ;
@@ -109,13 +109,13 @@ create
 
 9
 const
- 
+
 {
- vm 
+ vm
 }
- 
+
 =
- 
+
 await
  freestyle
 .
@@ -126,18 +126,18 @@ create
 {
 
 10
- 
+
 with
 :
- 
+
 {
 
 11
  devServer
 :
- 
+
 new
- 
+
 VmDevServer
 (
 {
@@ -145,16 +145,16 @@ VmDevServer
 12
  devCommand
 :
- 
+
 "bun run dev"
 ,
 
 13
  runtime
 :
- 
+
 new
- 
+
 VmBun
 (
 )
@@ -166,13 +166,13 @@ VmBun
  repoId
 
 15
- 
+
 }
 )
 ,
 
 16
- 
+
 }
 ,
 
@@ -185,31 +185,31 @@ VmBun
 
 2
 import
- 
+
 {
  freestyle
 ,
- 
+
 VmSpec
- 
+
 }
- 
+
 from
- 
+
 "freestyle-sandboxes"
 ;
 
 3
 import
- 
+
 {
- 
+
 VmBun
- 
+
 }
- 
+
 from
- 
+
 "@freestyle-sh/with-bun"
 ;
 
@@ -217,13 +217,13 @@ from
 
 5
 const
- 
+
 {
- vm 
+ vm
 }
- 
+
 =
- 
+
 await
  freestyle
 .
@@ -236,32 +236,32 @@ create
 6
  git
 :
- 
+
 {
 
 7
  repos
 :
- 
+
 [
 
 8
- 
+
 {
  repo
 :
- 
+
 "https://github.com/user/repo.git"
- 
+
 }
 ,
 
 9
- 
+
 ]
 
 10
- 
+
 }
 
 11
@@ -273,13 +273,13 @@ create
 
 13
 const
- 
+
 {
- forks 
+ forks
 }
- 
+
 =
- 
+
 await
  vm
 .
@@ -288,9 +288,9 @@ fork
 {
  count
 :
- 
+
 3
- 
+
 }
 )
 ;
@@ -299,7 +299,7 @@ fork
 
 15
 await
- 
+
 Promise
 .
 all
@@ -307,7 +307,7 @@ all
 [
 
 16
- 
+
 ai
 (
 forks
@@ -315,13 +315,13 @@ forks
 0
 ]
 ,
- 
+
 "Build the API endpoints"
 )
 ,
 
 17
- 
+
 ai
 (
 forks
@@ -329,13 +329,13 @@ forks
 1
 ]
 ,
- 
+
 "Build the frontend UI"
 )
 ,
 
 18
- 
+
 ai
 (
 forks
@@ -343,7 +343,7 @@ forks
 2
 ]
 ,
- 
+
 "Write the test suite"
 )
 ,
@@ -357,27 +357,27 @@ forks
 
 2
 import
- 
+
 {
- freestyle 
+ freestyle
 }
- 
+
 from
- 
+
 "freestyle-sandboxes"
 ;
 
 3
 import
- 
+
 {
- 
+
 VmBun
- 
+
 }
- 
+
 from
- 
+
 "@freestyle-sh/with-bun"
 ;
 
@@ -385,13 +385,13 @@ from
 
 5
 const
- 
+
 {
- vm 
+ vm
 }
- 
+
 =
- 
+
 await
  freestyle
 .
@@ -404,13 +404,13 @@ create
 6
  git
 :
- 
+
 {
 
 7
  repos
 :
- 
+
 [
 {
  repo
@@ -419,13 +419,13 @@ create
 ,
  rev
 :
- branchRev 
+ branchRev
 }
 ]
 ,
 
 8
- 
+
 }
 ,
 
@@ -438,15 +438,15 @@ create
 
 11
 const
- 
+
 {
  stdout
 :
- lint 
+ lint
 }
- 
+
 =
- 
+
 await
  vm
 .
@@ -458,15 +458,15 @@ exec
 
 12
 const
- 
+
 {
  stdout
 :
- test 
+ test
 }
- 
+
 =
- 
+
 await
  vm
 .
@@ -478,16 +478,16 @@ exec
 
 13
 const
- review 
+ review
 =
- 
+
 await
- 
+
 ai
 (
 vm
 ,
- 
+
 "Review the diff for bugs"
 )
 ;
@@ -519,13 +519,13 @@ includes
 (
 "FAIL"
 )
- 
+
 ?
- 
+
 "REQUEST_CHANGES"
- 
+
 :
- 
+
 "APPROVE"
 ,
 
@@ -538,13 +538,13 @@ includes
 
 2
 import
- 
+
 {
- freestyle 
+ freestyle
 }
- 
+
 from
- 
+
 "freestyle-sandboxes"
 ;
 
@@ -552,13 +552,13 @@ from
 
 4
 const
- 
+
 {
- vm 
+ vm
 }
- 
+
 =
- 
+
 await
  freestyle
 .
@@ -571,24 +571,24 @@ create
 5
  persistence
 :
- 
+
 {
  type
 :
- 
+
 "persistent"
- 
+
 }
 ,
 
 6
- 
+
 // Pauses after 60s idle — $0 cost, resumes on next exec
 
 7
  idleTimeoutSeconds
 :
- 
+
 60
 ,
 
@@ -601,34 +601,34 @@ create
 
 10
 while
- 
+
 (
 true
 )
- 
+
 {
 
 11
- 
+
 const
- userMessage 
+ userMessage
 =
- 
+
 await
- 
+
 getNextMessage
 (
 )
 ;
 
 12
- 
+
 const
- result 
+ result
 =
- 
+
 await
- 
+
 ai
 (
 vm
@@ -638,9 +638,9 @@ vm
 ;
 
 13
- 
+
 await
- 
+
 respond
 (
 result
@@ -680,9 +680,9 @@ $
  Started sshd.service
 [ok]
  Reached target multi-user
-VM ready in 
+VM ready in
 0.7s
-root@vm ~ # 
+root@vm ~ #
 █
 
 ### Live Forking
@@ -783,13 +783,13 @@ Configure webhooks per repo, filter by branch, path, or event type.
 
 git push
 ci.internal/webhook
- 
+
 ✓
 hooks.slack.com/trigger
- 
+
 ✓
 freestyle deploy
- 
+
 ✓
 
 ### Sync with GitHub
@@ -852,6 +852,6 @@ Careers
 Status
 Discord
 Privacy Policy
-© 
+©
 2026
  Freestyle

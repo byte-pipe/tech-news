@@ -15,16 +15,16 @@ tags:
 
 ## A complete, cross-platform solution to record, convert and stream audio and video.
 
- 
+
 
  Download
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 ### Convertingvideoandaudiohas never been so easy.
 
@@ -32,7 +32,7 @@ $ ffmpeg -i input.mp4 output.avi
 
 Discover more
 
- 
+
 
 # News
 
@@ -1080,7 +1080,7 @@ The first part of the project was to make the HTTP code capable of accepting
  ffmpeg -i /dev/video0 -listen 1 -f matroska \
  -c:v libx264 -preset fast -tune zerolatency http://:8080
  ffplay http://localhost:8080/
- 
+
 
 The next part of the project was to extend the code to be able to accept
  several clients, simultaneously or consecutively. Since libavformat did not
@@ -1163,7 +1163,7 @@ He also added gamma corrected scaling support.
  An example to use gamma corrected scaling would be:
 
  ffmpeg -i input -vf scale=512:384:gamma=1 output
- 
+
 
 Pedro has done impressive work considering the short time available,
  and he is a FFmpeg committer now. He continues to contribute to
@@ -1477,7 +1477,7 @@ We have made a new major release (2.2)
  - libx265 encoder
  - dejudder filter
  - Autodetect VDA like all other hardware accelerations
- 
+
 
 We recommend users, distributors and system integrators to upgrade unless they use
  current git master.
@@ -1573,13 +1573,13 @@ We have made a new major release (2.1)
  - Linux framebuffer output device
  - HEVC decoder, raw HEVC demuxer, HEVC demuxing in TS, Matroska and MP4
  - mergeplanes filter
- 
+
 
 We recommend users, distributors and system integrators to upgrade unless they use
  current git master.
 
  Past news
 
- 
+
 
 Hosting provided bytelepoint.bg

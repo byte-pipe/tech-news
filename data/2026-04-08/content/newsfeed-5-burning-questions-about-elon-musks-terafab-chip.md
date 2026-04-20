@@ -84,7 +84,7 @@ Triangle
 * Porn stars areembracing AI clones
 * WIRED@Night:Hear Andy Greenberg discussthe facts and fiction of crypto
 Lauren Goode
- is a senior correspondent at WIRED covering all things Silicon Valley, including artificial intelligence, semiconductors, venture capital, startups, workplace culture, and tech's most interesting people and trends. Previously she worked at The Verge, Recode, and The Wall Street Journal. Please send story tips (no PR pitches) to ChaoticGoode.12 ... 
+ is a senior correspondent at WIRED covering all things Silicon Valley, including artificial intelligence, semiconductors, venture capital, startups, workplace culture, and tech's most interesting people and trends. Previously she worked at The Verge, Recode, and The Wall Street Journal. Please send story tips (no PR pitches) to ChaoticGoode.12 ...
 Read More
 Senior Correspondent
 * X
@@ -94,7 +94,7 @@ Paresh Dave
 underappreciated
  and 
 disadvantaged
-. He was previously a reporter for Reuters and the Los Angeles Times, ... 
+. He was previously a reporter for Reuters and the Los Angeles Times, ...
 Read More
 Senior Writer
 

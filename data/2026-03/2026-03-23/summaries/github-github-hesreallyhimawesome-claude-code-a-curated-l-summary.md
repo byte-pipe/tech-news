@@ -1,7 +1,7 @@
 ---
 title: GitHub - hesreallyhim/awesome-claude-code: A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for...
 url: https://github.com/hesreallyhim/awesome-claude-code
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-23T11:22:57.133702

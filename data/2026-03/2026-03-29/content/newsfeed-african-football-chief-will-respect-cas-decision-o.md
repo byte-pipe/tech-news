@@ -30,9 +30,9 @@ google
 Add Al Jazeera on Google
 info
 CAF President Patrice Motsepe holds the Africa Cup of Nations trophy as he walks alongside FIFA President Gianni Infantino during the presentation after the tournament final at the Prince Moulay Abdellah Stadium in Rabat, Morocco on January 18 [File: Amr Abdallah Dalsh/Reuters]
-By 
+By
 AFP
- and 
+ and
 Reuters
 Published On 29 Mar 2026
 29 Mar 2026
@@ -63,9 +63,9 @@ A statement said CAF “is implementing changes and improvements to their statut
 
 “These changes and improvements to the statutes and regulations will also ensure that the incidents that took place at the final… do not happen again.”
 
- 
 
- 
+
+
 
 ## Controversial figure Veron Mosengo-Omba quits CAF
 

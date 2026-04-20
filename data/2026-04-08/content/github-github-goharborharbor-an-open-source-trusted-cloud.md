@@ -11,7 +11,7 @@ description: An open source trusted cloud native registry project that stores, s
 
 goharbor
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork5.2k
 * Star28k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -167,11 +167,11 @@ View all files
 
 Community Meeting
 
-The Harbor Project holds bi-weekly community calls in two different timezones. To join the community calls or to watch previous meeting notes and recordings, please visit the 
+The Harbor Project holds bi-weekly community calls in two different timezones. To join the community calls or to watch previous meeting notes and recordings, please visit the
 meeting schedule
 .
 
- 
+
 
 Note: Themainbranch may be in anunstable or even broken stateduring development.
 Please usereleasesinstead of themainbranch in order to get a stable set of binaries.
@@ -235,7 +235,7 @@ brew install sigstore/tap/cosign
 cosign verify-blob \
  --bundle harbor-offline-installer-v2.15.0.tgz.sigstore.json \
  --certificate-oidc-issuer https://token.actions.githubusercontent.com \
- --certificate-identity-regexp 
+ --certificate-identity-regexp
 '
 ^https://github.com/goharbor/harbor/.github/workflows/publish_release.yml@refs/tags/v.*$
 '
@@ -333,61 +333,61 @@ goharbor.io
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 28k
 
  stars
- 
+
 
 ### Watchers
 
 518
 
  watching
- 
+
 
 ### Forks
 
 5.2k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases351
 
@@ -395,11 +395,11 @@ v2.15.0
 
  Latest
 
- 
+
 
 Mar 20, 2026
 
- 
+
 
 + 350 releases
 
@@ -407,9 +407,9 @@ Mar 20, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -417,9 +417,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

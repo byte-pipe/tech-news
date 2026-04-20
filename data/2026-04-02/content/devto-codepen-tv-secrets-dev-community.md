@@ -29,54 +29,54 @@ The lighting within the TV image is also the opposite, to the TV, as I thought t
 
 (5) The glass reflections could not be square!😎To replicate the distortion of a cathode ray tube's shape. The window reflection is made entirely of repeated right dashed borders. These look very different depending on the browser engine. Blink's dash size is almost perfect for the real window panes. But it's a strange way to draw windows.
 
- 
+
 &,
- 
+
 &
 :before
 ,
- 
+
 &
 :after
- 
+
 {
 
- 
+
 width
 :
- 
+
 31rem
 ;
 
- 
+
 height
 :
- 
+
 100rem
 ;
 
- 
+
 border
 :
- 
+
 solid
- 
+
 7rem
- 
+
 transparent
 ;
 
- 
+
 border-right
 :
- 
+
 dashed
- 
+
 7rem
- 
+
 hsla
 (
- 
+
 var
 (
 --wht-hsl
@@ -84,21 +84,21 @@ var
 .05
 );
 
- 
+
 background
 :
- 
+
 transparent
 ;
 
- 
+
 border-radius
 :
- 
+
 50%
 ;
 
- 
+
 }
 
 Enter fullscreen mode
@@ -114,7 +114,7 @@ Just one more thing...🕵️The YouTube's video intro is made entirely of CSS! 
 Keep this on the QT 🤫 but I also lost most of the screenshots for creating this video because my laptop died and the drive got wiped when trying to fix it. So annoyingly I had to undo everything I did and screenshot it, and then play it forwards! 😮
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

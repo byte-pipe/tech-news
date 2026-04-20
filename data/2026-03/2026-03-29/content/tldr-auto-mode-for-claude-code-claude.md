@@ -57,14 +57,14 @@ Next
 Get Claude Code
 
 curl -fsSL
- https://claude.ai/install.sh 
+ https://claude.ai/install.sh
 | bash
 Copy command to clipboard
 irm
- https://claude.ai/install.ps1 
+ https://claude.ai/install.ps1
 | iex
 Copy command to clipboard
-Or read the 
+Or read the
 documentation
 Try Claude Code
 Try Claude Code
@@ -87,10 +87,10 @@ Mar 19, 2026
 ### Product management on the AI exponential
 
 Claude Code
-Product management on the AI exponential 
-Product management on the AI exponential 
-Product management on the AI exponential 
-Product management on the AI exponential 
+Product management on the AI exponential
+Product management on the AI exponential
+Product management on the AI exponential
+Product management on the AI exponential
 Jan 26, 2026
 
 ### Your favorite work tools are now interactive connectors inside Claude

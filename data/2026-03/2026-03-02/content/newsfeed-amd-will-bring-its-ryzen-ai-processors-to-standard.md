@@ -25,22 +25,22 @@ That changes today, at least a little: AMD is announcing its first three Ryzen A
 The six chips AMD is announcing today—the 65 W Ryzen AI 7 Pro 450G, Ryzen AI 5 Pro 440G, and Ryzen AI 5 Pro 435G, along with low-power 35 W “GE” variants—all bear AMD’s “Ryzen Pro” branding as well, which means they support a handful of device management capabilities that are important for business PCs managed by IT departments. At this point, it doesn’t seem as though AMD will be offering boxed versions to regular consumers; the Ryzen AI desktop chips will appear mainly in business PCs that don’t need a dedicated graphics card, but which do benefit from more robust graphics than AMD offers in regular Ryzen desktop CPUs.
 
  AMD’s initial lineup includes a total of six chips, split between variants with 65 W and 35 W default TDPs. None match the specs of chips like the Ryzen AI 9 HX 370, which includes 12 CPU cores and a 16-core Radeon 890M GPU.
- 
+
 
  Credit:
  AMD
- 
+
 
  AMD’s initial lineup includes a total of six chips, split between variants with 65 W and 35 W default TDPs. None match the specs of chips like the Ryzen AI 9 HX 370, which includes 12 CPU cores and a 16-core Radeon 890M GPU.
 
- 
+
 
  Credit:
 
- 
+
  AMD
 
- 
+
 
 Like past G-series Ryzen chips, these are essentially laptop silicon repackaged for desktop systems. They share most of their specs in common with Ryzen AI 300 laptop processors, despite their Ryzen AI 400-series branding. The two chip generations are extremely similar overall, but the Ryzen AI 400-series laptop CPUs include slightly faster 55 TOPS NPUs.
 
@@ -51,19 +51,19 @@ AMD could always decide to release higher-end processor options at a later date,
 The Ryzen AI 400 desktop CPU announcement is in line with what AMDannounced at CES earlier this year: low-key iterations on existing technology that do little to push the envelope. Maybe that’s the best that we can expect, given current RAM and storage shortages and the fact that most of the world’s chipmakers are all competing for manufacturing capacity at TSMC.
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
- Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called 
+ Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called
 Overdue
 .
- 
+
 
 1. 1.Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space
 2. 2.And the award for the most improved EV goes to... the 2026 Toyota bZ

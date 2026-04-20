@@ -35,7 +35,7 @@ Image Credits:
 
 The app222is aniOS-onlysocial events platform that facilitates in-person meetups by pairing a group of strangers based on their personality test results.The appsends invitations to nearby public social events, such as wine bars and comedy clubs. There is then a vetting process, and selected participants are notified on the day of the event. A bonus for those who feel socially anxious: You’re allowed to bring a plus-one.
 
- 
+
 
 Techcrunch event
 
@@ -154,24 +154,24 @@ This story was updated after publication.
 Topics
 
 android apps
-, 
+,
 Apps
-, 
+,
 Bumble BFF
-, 
+,
 evergreens
-, 
+,
 iOS apps
-, 
+,
 Social
- 
 
-			Lauren Forristal	
+
+			Lauren Forristal
 
 Lauren covers media, streaming, apps and platforms at TechCrunch.
 
 You can contact or verify outreach from Lauren by emailinglaurenf.techcrunch@gmail.comor via encrypted message at laurenforris22.25 on Signal.
 
- 
+
 
 View Bio

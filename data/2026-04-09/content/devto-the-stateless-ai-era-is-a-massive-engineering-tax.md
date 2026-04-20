@@ -34,7 +34,7 @@ We want to see what happens when you stop worrying about how your app will remem
 Don't build another forgetful app. It is a waste of your time.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

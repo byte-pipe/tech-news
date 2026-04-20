@@ -30,7 +30,7 @@ Verne started in 2019 as a project called Project 3 Mobility (or P3) within Rima
 
 There were occasional updates about the project, but it wasn’t until July 2024 — when Verne launched with100 million euros in funding— that the public got a more detailed look at its plans.
 
- 
+
 
 Techcrunch event
 
@@ -69,31 +69,31 @@ Verne is starting small with its commercial launch, but it has plans to scale to
 Topics
 
 croatia
-, 
+,
 EVs
-, 
+,
 Pony.ai
-, 
+,
 Rimac Group
-, 
+,
 robotaxi
-, 
+,
 Transportation
-, 
+,
 Uber
-, 
+,
 verne
- 
 
-			Kirsten Korosec	
+
+			Kirsten Korosec
 
 Transportation Editor
 
 		Kirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.
 
 
-You can contact or verify outreach from Kirsten by emailing 
+You can contact or verify outreach from Kirsten by emailing
 kirsten.korosec@techcrunch.com
- or via encrypted message at kkorosec.07 on Signal.	
+ or via encrypted message at kkorosec.07 on Signal.
 
 View Bio

@@ -1,7 +1,7 @@
 ---
 title: GitHub - TauricResearch/TradingAgents: TradingAgents: Multi-Agents LLM Financial Trading Framework · GitHub
 url: https://github.com/TauricResearch/TradingAgents
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-20T11:34:40.990528
@@ -38,11 +38,11 @@ The framework consists of various sub-projects:
 # History
 
 TradingAgents v0.2.1 was released with two notable updates in 2026, introducing GPT-5.4 and Gemini 3.1 model coverage, while adding improved system stability.
-  
+
 ## Release
 
 **Release Notes**
 
 TradingAgents v0.2.0 is also available, featuring multi-provider LLM support for (GPT-5.x, Gemini 3.x, Claude 4.x, Grok 4.x).
- 
+
 I've organized the summary using Markdown bullet points and included relevant information from the original text.

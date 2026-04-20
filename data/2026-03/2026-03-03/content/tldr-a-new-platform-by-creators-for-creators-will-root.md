@@ -17,13 +17,13 @@ Newsletter
 
 # A new platform “by creators, for creators” will root out AI deepfakes
 
-By 
+By
 Sam Gutelle
- 
+
 •
- 
+
 02/26/2026
- 
+
 •
 
 Deepfakescause big problems for creators. Realistic, unauthorized, AI-generated representations of public figures enable rampant content piracy while also making it hard for fans to tell reality from friction.
@@ -50,7 +50,7 @@ FanLock’s four-tiered approach to deepfake moderation comes at a cost, with su
 
 If FanLock can truly put a dent in that malicious industry, many other creators will join Morgpie by buying in. New FanLock users can take advantage ofa scanthat shows them how many deepfaked leaks they’re dealing with.
 
- 
+
 
 ### Subscribe for daily Tubefilter Top Stories
 
@@ -82,7 +82,7 @@ Subscribe
 * YouTube partners with Rakuten to bring more shoppable videos to Japan
 
 						Tubefilter, Inc
-					
+
 
 About
 

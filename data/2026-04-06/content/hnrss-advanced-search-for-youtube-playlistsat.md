@@ -26,7 +26,7 @@ Google Video
 Advanced Filters
 
  Search
- 
+
 
 Playlist
 
@@ -36,7 +36,7 @@ Playlist
 Clear
 
  Play All
- 
+
 
 ### Results
 

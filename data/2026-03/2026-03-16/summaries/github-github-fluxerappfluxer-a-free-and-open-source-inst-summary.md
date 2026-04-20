@@ -1,7 +1,7 @@
 ---
 title: GitHub - fluxerapp/fluxer: A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and mor...
 url: https://github.com/fluxerapp/fluxer
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-16T11:41:16.434153

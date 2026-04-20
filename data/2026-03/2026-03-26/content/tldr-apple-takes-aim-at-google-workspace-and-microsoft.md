@@ -18,10 +18,10 @@ tags:
 
 # Apple takes aim at Google Workspace and Microsoft 365 with new hosted business email
 
- 
+
 
 Bradley C
- | Mar 24 2026 - 8:00 am PT																
+ | Mar 24 2026 - 8:00 am PT
 
 For over a decade, the enterprise email and calendar market has been a two-horse race between Microsoft and Google. If you started a new company, you bought your domain and immediately signed up for either Microsoft 365 or Google Workspace. With the launch of the new Apple Business platform, Apple is officially throwing its hat into the ring to challenge Google and Microsoft with a free business email service.
 
@@ -45,27 +45,27 @@ The technical aspect of this announcement is that Apple is supporting open stand
 
 FTC: We use income earning auto affiliate links.More.
 
-You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out 
+You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out
 our homepage
- for all the latest news, and follow 9to5Mac on 
+ for all the latest news, and follow 9to5Mac on
 Twitter
-, 
+,
 Facebook
-, and 
+, and
 LinkedIn
- to stay in the loop. Don’t know where to start? Check out our 
+ to stay in the loop. Don’t know where to start? Check out our
 exclusive stories
-, 
+,
 reviews
-, 
+,
 how-tos
-, and 
+, and
 subscribe to our YouTube channel
- 
+
 
 Check out 9to5Mac on YouTube for more Apple news:
 
- 
+
 
 ## Comments
 
@@ -79,23 +79,23 @@ Apple @ Work is a 9to5Mac series where Bradley C…
 
 ## Author
 
- 
 
-			Bradley C		
 
-Bradley C			
+			Bradley C
+
+Bradley C
 
 Tips, feedback, corrections and questions can be sent to Bradley@9to5mac.com.
 
 ### Bradley C's favorite gear
 
- 
+
 
 #### eufyCam 2C
 
 Upgrade your home security with wireless cameras that includes HomeKit compatibility.
 
- 
+
 
 #### Abode Home Security System
 

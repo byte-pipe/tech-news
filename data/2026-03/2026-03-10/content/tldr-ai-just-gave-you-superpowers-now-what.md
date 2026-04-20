@@ -17,7 +17,7 @@ tags:
 ### A conversation on shrinking teams, agents-as-coworkers, and the role of humans in the emerging AI economy
 
 a16z crypto
- and 
+ and
 Christian Catalini
 Mar 07, 2026
 31

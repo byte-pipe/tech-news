@@ -65,7 +65,7 @@ LeCun says AMI will release its first AI models quickly, but he’s not expectin
 * College campuses are in upheavalover faculty ties to Epstein
 * Event:Helping small business owners succeed
 Maxwell Zeff
- is a senior writer at WIRED covering the business of artificial intelligence. He was previously a senior reporter with TechCrunch, where he broke news on startups and leaders driving the AI boom. Before that, Zeff covered AI policy and content moderation for Gizmodo, and wrote some of Bloomberg’s ... 
+ is a senior writer at WIRED covering the business of artificial intelligence. He was previously a senior reporter with TechCrunch, where he broke news on startups and leaders driving the AI boom. Before that, Zeff covered AI policy and content moderation for Gizmodo, and wrote some of Bloomberg’s ...
 Read More
 Senior Writer
 

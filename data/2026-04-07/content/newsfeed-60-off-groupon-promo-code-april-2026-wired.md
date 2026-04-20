@@ -44,17 +44,17 @@ If you’re like me and are clueless about what’s happening under your car’s
 Groupon also offers awesomeseasonal sales, with special offers for nearly every holiday. Check their site often for Grouponexclusive offers, and theDeal of the Day, with discounted pricing on things like travel with Expedia and custom gifts from Shutterfly. Grouponstudent discountsalso give students money off on all the best brands for college essentials, like clothes and tech.
 
 Molly Higgins
- is WIRED's Commerce Production and Operations Coordinator. She tests 
+ is WIRED's Commerce Production and Operations Coordinator. She tests
 mattresses
-, 
+,
 cat gadgets
-, 
+,
 pet hair vacuums
-, 
+,
 vegan meal kits
-, and helps oversee our 
+, and helps oversee our
 coupon program
-. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ... 
+. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ...
 Read More
 Commerce Production and Operations Coordinator
 * LinkedIn
@@ -96,7 +96,7 @@ Enjoy big savings on your next adventure with our Booking.com coupons and handpi
 Molly Higgins
 50% Off Select Items With These Ring Camera Deals
 Discover how to save on Ring cameras, doorbells, outdoor cameras, and more.
- Nena Farrell 
+ Nena Farrell
 
 ## Wired Coupons
 

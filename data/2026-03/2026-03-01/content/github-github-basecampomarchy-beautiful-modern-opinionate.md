@@ -11,7 +11,7 @@ description: Beautiful, Modern & Opinionated Linux. Contribute to basecamp/omarc
 
 basecamp
 
- 
+
 
 /
 
@@ -30,41 +30,41 @@ omarchy.org
 ### License
 
  MIT license
- 
+
 
 20.7k
 
  stars
 
- 
+
 
 2.1k
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # basecamp/omarchy

@@ -11,7 +11,7 @@ description: Generate code from the terminal! Contribute to CodebuffAI/codebuff 
 
 CodebuffAI
 
- 
+
 
 /
 
@@ -30,41 +30,41 @@ codebuff.com
 ### License
 
  Apache-2.0 license
- 
+
 
 3.1k
 
  stars
 
- 
+
 
 406
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # CodebuffAI/codebuff

@@ -14,7 +14,7 @@ tags:
 
 drona23
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork43
 * Star1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -422,48 +422,48 @@ Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes.
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 1k
 
  stars
- 
+
 
 ### Watchers
 
 2
 
  watching
- 
+
 
 ### Forks
 
 43
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -481,9 +481,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors2
 

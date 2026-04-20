@@ -39,5 +39,5 @@ summarized_at: 2026-03-18T11:33:22.513568
 
 ## Additional Policies:
 
-* The safety of all content uploaded to YouTube, including copyright infringement and harassment, must be respected by all users. 
+* The safety of all content uploaded to YouTube, including copyright infringement and harassment, must be respected by all users.
 * YouTube has its own set of terms and conditions that outline the expectations for how content can be shared, viewed, or interacted with on the platform.

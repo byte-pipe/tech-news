@@ -156,7 +156,7 @@ This year taught me persistence, curiosity, and the importance of sharing what w
 What is one lesson the tech industry has taught you that changed how you approach your work or learning?
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -167,6 +167,6 @@ Preview
 Dismiss
 
  View full discussion (20 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

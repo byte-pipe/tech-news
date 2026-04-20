@@ -17,7 +17,7 @@ tags:
 
 # GitHub backs down, kills Copilot pull-request ads after backlash
 
- 
+
 
 ## Letting Copilot alter others' PRs was the wrong judgment call, says product manager
 
@@ -58,10 +58,10 @@ Hearing feedback from the community following Manson's post and the kerfuffle it
 
 Martin Woodward, VP of Developer Relations, GitHub, said in a statement: "GitHub does not and does not plan to include advertisements in GitHub. We identified a programming logic issue with a GitHub Copilot coding agent tip that surfaced in the wrong context within a pull request comment. We have removed agent tips from pull request comments moving forward."
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

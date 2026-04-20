@@ -11,7 +11,7 @@ description: An Obsidian plugin that embeds Claude Code as an AI collaborator in
 
 YishenTu
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork233
 * Star3.9k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -299,15 +299,15 @@ Access
 
 Vault
 
-Full read/write (symlink-safe via 
+Full read/write (symlink-safe via
 realpath
 )
 
 Export paths
 
-Write-only (e.g., 
+Write-only (e.g.,
 ~/Desktop
-, 
+,
 ~/Downloads
 )
 
@@ -365,12 +365,12 @@ Alternative: Add your Node.js bin directory to PATH in Settings → Environment 
 
 If using npm-installed CLI, check ifclaudeandnodeare in the same directory:
 
-dirname 
+dirname
 $(
 which claude
 )
 
-dirname 
+dirname
 $(
 which node
 )
@@ -461,48 +461,48 @@ An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 3.9k
 
  stars
- 
+
 
 ### Watchers
 
 13
 
  watching
- 
+
 
 ### Forks
 
 233
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases11
 
@@ -510,11 +510,11 @@ Activity
 
  Latest
 
- 
+
 
 Mar 16, 2026
 
- 
+
 
 + 10 releases
 
@@ -524,9 +524,9 @@ Mar 16, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

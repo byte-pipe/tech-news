@@ -18,20 +18,20 @@ Instantly share code, notes, and snippets.
 # karpathy/llm-wiki.md
 
  Created
- 
+
 April 4, 2026 16:25
 
- 
+
 
 Show Gist options
 
- 
+
 
 * Download ZIP
 
- 
 
- 
+
+
 
 * Star3,102(3,102)You must be signed in to star a gist
 * Fork603(603)You must be signed in to fork a gist
@@ -42,13 +42,13 @@ Show Gist options
 * Clone via HTTPSClone using the web URL.
 * Save karpathy/442a6bf555914893e9891c11519de94f to your computer and use it in GitHub Desktop.
 
- 
+
 
 Embed
 
 # Select an option
 
- 
+
 
 * EmbedEmbed this gist in your website.
 * ShareCopy sharable link for this gist.
@@ -56,35 +56,35 @@ Embed
 
 ## No results found
 
- 
 
- 
- 
+
+
+
 Learn more about clone URLs
 
- 
 
- 
+
+
 
  Clone this repository at &lt;script src=&quot;https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f.js&quot;&gt;&lt;/script&gt;
 
- 
 
- 
+
+
 
 Save karpathy/442a6bf555914893e9891c11519de94f to your computer and use it in GitHub Desktop.
 
 Download ZIP
 
  llm-wiki
- 
 
- 
+
+
 
 Raw
 
  llm-wiki.md
- 
+
 
 # LLM Wiki
 
@@ -163,7 +163,7 @@ This document is intentionally abstract. It describes the idea, not a specific i
 
 Load earlier comments...
 
- 
+
 
 ### peascommentedApr 5, 2026
 
@@ -195,11 +195,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### pedronauckcommentedApr 5, 2026
 
@@ -211,11 +211,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### tkgallycommentedApr 5, 2026
 
@@ -229,11 +229,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### arnoldadlvcommentedApr 5, 2026
 
@@ -245,11 +245,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### bluewater8008commentedApr 5, 2026
 
@@ -268,11 +268,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### xoaicommentedApr 5, 2026
 
@@ -302,11 +302,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### KeremSalmancommentedApr 5, 2026
 
@@ -328,11 +328,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### karesansui-ucommentedApr 5, 2026
 
@@ -356,11 +356,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### VictorVVedtioncommentedApr 5, 2026
 
@@ -408,11 +408,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### pjmattinglycommentedApr 5, 2026
 
@@ -430,11 +430,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ycc42commentedApr 5, 2026
 
@@ -446,11 +446,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### hrishikeshscommentedApr 5, 2026
 
@@ -464,11 +464,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### mpazikcommentedApr 5, 2026
 
@@ -490,11 +490,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### localwolfpackaicommentedApr 5, 2026
 
@@ -510,11 +510,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### Astro-HancommentedApr 5, 2026
 
@@ -532,11 +532,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### tlk3commentedApr 5, 2026
 
@@ -552,11 +552,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### uggrockcommentedApr 5, 2026
 
@@ -568,11 +568,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### LakshX413commentedApr 5, 2026•edited
 
@@ -584,11 +584,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ractivecommentedApr 5, 2026
 
@@ -602,11 +602,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### OkohedekicommentedApr 5, 2026
 
@@ -618,11 +618,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### nachoadcommentedApr 5, 2026
 
@@ -634,11 +634,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### flyerswordercommentedApr 5, 2026
 
@@ -661,11 +661,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### jahalacommentedApr 5, 2026•edited
 
@@ -677,11 +677,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### karan842commentedApr 5, 2026
 
@@ -693,11 +693,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ilyabelikincommentedApr 5, 2026•edited
 
@@ -709,11 +709,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### luotwocommentedApr 5, 2026•edited
 
@@ -725,11 +725,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### tcbhagatcommentedApr 5, 2026
 
@@ -741,11 +741,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### jeremyraynercommentedApr 5, 2026
 
@@ -757,11 +757,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### GuiminChencommentedApr 5, 2026
 
@@ -773,11 +773,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### Done-0commentedApr 5, 2026
 
@@ -791,14 +791,14 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Sign up for free
 
 to join this conversation on GitHub
 .
  Already have an account?
- 
+
 Sign in to comment

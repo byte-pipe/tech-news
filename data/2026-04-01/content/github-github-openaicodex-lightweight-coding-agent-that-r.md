@@ -11,7 +11,7 @@ description: Lightweight coding agent that runs in your terminal - openai/codex
 
 openai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork9.9k
 * Star71k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -233,20 +233,20 @@ npm i -g @openai/codexorbrew install --cask codex
 
 Codex CLIis a coding agent from OpenAI that runs locally on your computer.
 
-If you want Codex in your code editor (VS Code, Cursor, Windsurf), 
+If you want Codex in your code editor (VS Code, Cursor, Windsurf),
 install in your IDE.
 
-If you want the desktop app experience, run 
+If you want the desktop app experience, run
 codex app
- or visit 
+ or visit
 the Codex App page
 .
 
-If you are looking for the 
+If you are looking for the
 cloud-based agent
- from OpenAI, 
+ from OpenAI,
 Codex Web
-, go to 
+, go to
 chatgpt.com/codex
 .
 
@@ -268,7 +268,7 @@ brew install --cask codex
 
 Then simply runcodexto get started.
 
-You can also go to the 
+You can also go to the
 latest GitHub Release
  and download the appropriate binary for your platform.
 
@@ -306,61 +306,61 @@ Lightweight coding agent that runs in your terminal
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 71k
 
  stars
- 
+
 
 ### Watchers
 
 416
 
  watching
- 
+
 
 ### Forks
 
 9.9k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases665
 
@@ -368,11 +368,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Mar 31, 2026
 
- 
+
 
 + 664 releases
 
@@ -388,17 +388,17 @@ Mar 31, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -406,9 +406,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

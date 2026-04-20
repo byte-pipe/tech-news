@@ -15,29 +15,29 @@ tags:
 
 # My Homelab Setup
 
- 
+
 
 How I repurposed my old gaming PC to set up a home server for data storage, backups, and self-hosted apps.
 
- 
- 
+
+
 March 7th, 2026
- 
+
 6 min read
- 
- 
- 
- 
- 
- 
- 
- 
- My homelab PC 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+ My homelab PC
+
+
+
+
+
 
 For the longest time, I’ve procrastinated on finding a good backup and storage solution for my Fujifilm RAW files. My solution up until recently involved manually copying my photos across two external SSD drives. This was quite a hassle and I hadn’t yet figured out a good off-site backup strategy.
 
@@ -75,7 +75,7 @@ Fractal Design Meshify C ATX Mid Tower
 PSU
 SeaSonic PRIME Gold 650 W 80+ Gold
 Storage (HDD)
-2x 
+2x
 Western Digital Red Plus 8 TB 3.5”
 Storage (SSD)
 Samsung 850 Evo 500 GB 2.5”
@@ -88,10 +88,10 @@ I purchased the Western Digital hard drives over the winter holiday break. The o
 
 On this machine I installedTrueNAS Community Editionon my NVMe drive. It’s a Linux-based operating system that is well-tailored for network-attached storage (NAS), file storage that is accessible to any device on your network.
 
- 
- 
+
+
 My TrueNAS dashboard running version 25.10.1 (Goldeye)
- 
+
 
 For instance, TrueNAS allows you to create snapshots of your data. This is great for preventing data loss. If, for example, you accidentally deleted a file, you could recover it from a previous snapshot containing that file. In other words, a file is only truly deleted if and only if the system has no snapshots containing that file.
 
@@ -109,28 +109,28 @@ Scrutinyis a web dashboard for monitoring the health of your storage drives. Har
 
 Scrutiny reads this data and presents it in a dashboard showing historical trends, making it easy to spot warning signs that a drive may fail soon.
 
- 
- 
+
+
 Scrutiny monitoring all four of my drives
- 
+
 
 ### Backrest#
 
 Backrestis a web frontend forrestic, a command-line tool used for creating file backups. I’ve set this up to save daily backups of my data to an object storage bucket onBackblaze B2.
 
- 
- 
+
+
 My Backrest configuration
- 
+
 
 ### Immich#
 
 Immichis one of the most popular open-source self-hosted apps for managing photos and videos. I love that it also offersiOSandAndroidapps that allow you to back up photos and videos from your mobile devices. This is great if you want to rely less on services like Google Photos or iCloud. I’m currently using this to back up photos and videos from my phone.
 
- 
- 
+
+
 A sample of my Immich photo library
- 
+
 
 ### Mealie#
 
@@ -138,10 +138,10 @@ Mealieis a recipe management tool that has made my meal prepping experience so m
 
 When importing recipes, you can provide the URL of the recipe and Mealie will scrape the ingredients and instructions from the page and save it in your recipe library. This makes it easier to keep track of recipes you find online and want to try out later.
 
- 
- 
+
+
 A few of my saved recipes in Mealie
- 
+
 
 ### Ollama#
 
@@ -159,13 +159,13 @@ Right now, accessing my apps requires typing in the IP address of my machine (or
 
 In the future I’ll look into figuring out how to assign custom domain names to all of my services.
 
- 
- 
+
+
 
 ### Tags
 
- 
- 
- homelab 
- 
+
+
+ homelab
+
  self-hosting

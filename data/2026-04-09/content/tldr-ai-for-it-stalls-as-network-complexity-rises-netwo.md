@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Denise Dubie
 
 Senior Editor
@@ -22,13 +22,13 @@ Feature
 
 Apr 6, 2026
 7 mins
- 
+
 
 ## Enterprise ambitions are high, but new IDC research reveals a widening gap between plans and execution—and mounting pressure on network infrastructure.
 
- 
 
-							Credit: 															Shutterstock AI													
+
+							Credit: 															Shutterstock AI
 
 Despite years of planning, enterpriseAI adoption in networkingisn’t advancing. New research from IDC shows that while expectations remain high, progress has stalled, and network leaders are facing growing pressure from several directions.
 
@@ -106,27 +106,27 @@ IDC suggests targeted use cases, ranging from automated configuration validation
 
 Artificial Intelligence
 Networking
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Denise Dubie															
+														by
+
+																Denise Dubie
 
 Senior Editor
 
@@ -145,7 +145,7 @@ Denise Dubie is a senior editor atNetwork Worldwith nearly 30 years of experienc
 * news### Cato Networks brings adaptive threat defense to SASEMar 4, 20263 mins
 * news### Netskope targets AI-driven network bottlenecks with AI Fast PathFeb 25, 20263 mins
 * news### New Relic connects observability platform to business outcomesFeb 24, 20264 mins
- 
+
 
 ## Show me more
 
@@ -155,12 +155,12 @@ Podcasts
 Videos
 
 news
- 
- 
+
+
 
 ### Intel bets on Terafab to help it reassert itself in the AI chip race
 
- 
+
 By Taryn Plumb
 Apr 7, 2026
 6 mins
@@ -169,12 +169,12 @@ Artificial Intelligence
 CPUs and Processors
 
 news
- 
- 
+
+
 
 ### New v2 UALink specification aims to catch up to NVLink
 
- 
+
 By Maxwell Cooter
 Apr 7, 2026
 4 mins
@@ -182,12 +182,12 @@ Apr 7, 2026
 Artificial Intelligence
 
 news
- 
- 
+
+
 
 ### Cisco joins Anthropic’s multivendor effort to secure AI software
 
- 
+
 By Michael Cooney
 Apr 7, 2026
 5 mins
@@ -197,12 +197,12 @@ Network Security
 Security
 
 podcast
- 
- 
+
+
 
 ### Has the hype around ‘Internet of Things’ paid off? | Ep. 145
 
- 
+
 Apr 18, 2024
 36 mins
 
@@ -210,12 +210,12 @@ IoT Platforms
 IoT Security
 
 podcast
- 
- 
+
+
 
 ### Episode 1: Understanding Cisco’s Converged SDN Transport
 
- 
+
 Sep 24, 2021
 20 mins
 
@@ -224,12 +224,12 @@ Internet
 Networking
 
 podcast
- 
- 
+
+
 
 ### Episode 2: Pluggable Optics and the Internet for the Future
 
- 
+
 Sep 23, 2021
 17 mins
 
@@ -238,36 +238,36 @@ Computers and Peripherals
 Internet
 
 video
- 
- 
+
+
 
 ### Master Linux Math with the bc Command | Easy CLI Calculations Explained!
 
- 
+
 Jun 23, 2025
 1 mins
 
 Operating Systems
 
 video
- 
- 
+
+
 
 ### Master Linux Math in Seconds: How to Use the expr Command Like a Pro
 
- 
+
 Jun 17, 2025
 1 mins
 
 Operating Systems
 
 video
- 
- 
+
+
 
 ### How to Do Math in the Command Line Using Double Parentheses
 
- 
+
 Jun 6, 2025
 1 mins
 

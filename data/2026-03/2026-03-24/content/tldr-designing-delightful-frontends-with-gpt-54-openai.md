@@ -13,27 +13,27 @@ tags:
 
 Copy Page
 More page actions
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 Copy Page
 More page actions
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 GPT-5.4 is a better web developer than its predecessors—generating more visually appealing and ambitious frontends. Notably, we trained GPT-5.4 with a focus on improved UI capabilities and use of images. With the right guidance, the model can produce production-ready frontends incorporating subtle touches, well-crafted interactions, and beautiful imagery.
 
@@ -43,12 +43,12 @@ When prompts are underspecified, models often fall back to high-frequency patter
 
 This guide explains practical techniques for steering GPT-5.4 toward crafting the designs you envision.
 
- 
- 
+
+
 
 Your browser does not support the video tag.
 
- 
+
 
 ## Model Improvements
 
@@ -453,128 +453,128 @@ Here are a few example websites generated with the help of the Frontend Design s
 
 ### Landing Pages
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
+
+
+
+
 
 ### Games
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
+
+
+
+
 
 ### Dashboards
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Your browser does not support the video tag.
 
- 
- 
- 
- 
+
+
+
+
 
 ## Key Takeaway
 

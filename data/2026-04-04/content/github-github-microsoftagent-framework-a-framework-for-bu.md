@@ -11,7 +11,7 @@ description: A framework for building, orchestrating and deploying AI agents and
 
 microsoft
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.4k
 * Star8.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -195,97 +195,97 @@ Create a simple Azure Responses Agent that writes a haiku about the Microsoft Ag
 # Use `az login` to authenticate with Azure CLI
 
 import
- 
+
 os
 
 import
- 
+
 asyncio
 
 from
- 
+
 agent_framework
- 
+
 import
- 
+
 Agent
 
 from
- 
+
 agent_framework
 .
 foundry
- 
+
 import
- 
+
 FoundryChatClient
 
 from
- 
+
 azure
 .
 identity
- 
+
 import
- 
+
 AzureCliCredential
 
 async
- 
+
 def
- 
+
 main
 ():
- 
+
 # Initialize a chat agent with Microsoft Foundry
 
- 
+
 # the endpoint, deployment name, and api version can be set via environment variables
 
- 
+
 # or they can be passed in directly to the FoundryChatClient constructor
 
- 
+
 agent
- 
+
 =
- 
+
 Agent
 (
- 
+
 client
 =
 FoundryChatClient
 (
- 
+
 credential
 =
 AzureCliCredential
 (),
- 
+
 # project_endpoint=os.environ["FOUNDRY_PROJECT_ENDPOINT"],
 
- 
+
 # model=os.environ["FOUNDRY_MODEL_DEPLOYMENT_NAME"],
 
  ),
- 
+
 name
 =
 "HaikuBot"
 ,
- 
+
 instructions
 =
 "You are an upbeat assistant that writes beautifully."
 ,
  )
 
- 
+
 print
 (
 await
- 
+
 agent
 .
 run
@@ -294,14 +294,14 @@ run
 ))
 
 if
- 
+
 __name__
- 
+
 ==
- 
+
 "__main__"
 :
- 
+
 asyncio
 .
 run
@@ -316,7 +316,7 @@ Create a simple Agent, using OpenAI Responses, that writes a haiku about the Mic
 // dotnet add package Microsoft.Agents.AI.OpenAI --prerelease
 
 using
- 
+
 Microsoft
 .
 Agents
@@ -325,12 +325,12 @@ AI
 ;
 
 using
- 
+
 OpenAI
 ;
 
 using
- 
+
 OpenAI
 .
 Responses
@@ -339,38 +339,38 @@ Responses
 // Replace the <apikey> with your OpenAI API key.
 
 var
- 
+
 agent
- 
+
 =
- 
+
 new
- 
+
 OpenAIClient
 (
 "<apikey>"
 )
 
- 
+
 .
 GetResponsesClient
 (
 "gpt-4o-mini"
 )
 
- 
+
 .
 AsAIAgent
 (
 name
 :
- 
+
 "HaikuBot"
 ,
- 
+
 instructions
 :
- 
+
 "You are an upbeat assistant that writes beautifully."
 )
 ;
@@ -380,7 +380,7 @@ Console
 WriteLine
 (
 await
- 
+
 agent
 .
 RunAsync
@@ -399,7 +399,7 @@ Create a simple Agent, using Microsoft Foundry with token-based auth, that write
 // Use `az login` to authenticate with Azure CLI
 
 using
- 
+
 Azure
 .
 AI
@@ -408,14 +408,14 @@ Projects
 ;
 
 using
- 
+
 Azure
 .
 Identity
 ;
 
 using
- 
+
 Microsoft
 .
 Agents
@@ -424,24 +424,24 @@ AI
 ;
 
 var
- 
+
 endpoint
- 
+
 =
- 
+
 Environment
 .
 GetEnvironmentVariable
 (
 "AZURE_AI_PROJECT_ENDPOINT"
 )
- 
+
 ??
- 
+
 throw
- 
+
 new
- 
+
 InvalidOperationException
 (
 "AZURE_AI_PROJECT_ENDPOINT is not set."
@@ -449,67 +449,67 @@ InvalidOperationException
 ;
 
 var
- 
+
 deploymentName
- 
+
 =
- 
+
 Environment
 .
 GetEnvironmentVariable
 (
 "AZURE_AI_MODEL_DEPLOYMENT_NAME"
 )
- 
+
 ??
- 
+
 "gpt-4o-mini"
 ;
 
 var
- 
+
 agent
- 
+
 =
- 
+
 new
- 
+
 AIProjectClient
 (
 new
- 
+
 Uri
 (
 endpoint
 )
 ,
- 
+
 new
- 
+
 DefaultAzureCredential
 (
 )
 )
 
- 
+
 .
 AsAIAgent
 (
 model
 :
- 
+
 deploymentName
 ,
- 
+
 name
 :
- 
+
 "HaikuBot"
 ,
- 
+
 instructions
 :
- 
+
 "You are an upbeat assistant that writes beautifully."
 )
 ;
@@ -519,7 +519,7 @@ Console
 WriteLine
 (
 await
- 
+
 agent
 .
 RunAsync
@@ -562,7 +562,7 @@ Authentication errors when using Azure credentials
 
 Not signed in to Azure CLI
 
-Run 
+Run
 az login
  before starting your app
 
@@ -594,7 +594,7 @@ AZURE_OPENAI_DEPLOYMENT_NAME
 
 Azure OpenAI samples
 
-Model deployment name (e.g. 
+Model deployment name (e.g.
 gpt-4o-mini
 )
 
@@ -659,66 +659,66 @@ aka.ms/agent-framework
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 8.5k
 
  stars
- 
+
 
 ### Watchers
 
 92
 
  watching
- 
+
 
 ### Forks
 
 1.4k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases69
 
@@ -726,11 +726,11 @@ dotnet-1.0.0
 
  Latest
 
- 
+
 
 Apr 2, 2026
 
- 
+
 
 + 68 releases
 
@@ -746,17 +746,17 @@ Apr 2, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -764,9 +764,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

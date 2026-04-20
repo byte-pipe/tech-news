@@ -21,22 +21,22 @@ summarized_at: 2026-04-15T06:04:00.678792
   3. Mismatch with existing serving infrastructure (SDAR slope = 84 vs. I‑DLM slope = 549).
 
 ## Method
-- **Introspective‑Consistency Training**  
+- **Introspective‑Consistency Training**
   - Convert a pretrained AR model to a diffusion model using causal attention, a logit‑shift trick, and an all‑masked training objective.
-- **Introspective Strided Decoding (ISD)**  
+- **Introspective Strided Decoding (ISD)**
   - Generate N tokens per forward pass while simultaneously verifying previously generated tokens using a p/q acceptance criterion.
   - The acceptance step guarantees that the output distribution matches that of the underlying AR model.
-- **AR‑Compatible Serving**  
+- **AR‑Compatible Serving**
   - Strict causal attention allows I‑DLM to be deployed as a drop‑in replacement in existing AR serving stacks such as SGLang, without custom infrastructure.
 
 ## Results
-- **Quality**  
+- **Quality**
   - I‑DLM‑8B matches the quality of same‑scale AR models and surpasses prior DLMs on 15 benchmarks.
   - Notable gains include +26 points on AIME‑24 and +15 points on LiveCodeBench‑v6 compared to LLaDA‑2.1‑mini (16 B) while using half the parameters.
-- **Throughput**  
+- **Throughput**
   - Achieves 2.9–4.1× higher throughput than LLaDA‑2.1‑mini at high concurrency (batch size = 64).
   - With gated LoRA, ISD provides bit‑for‑bit lossless acceleration; the LoRA overhead factor α ≈ 1.12 matches empirical measurements.
-- **Efficiency**  
+- **Efficiency**
   - Compute efficiency exceeds that of AR decoding (efficiency ≈ 1.22 for N = 4, acceptance p = 0.9), meaning parallel decoding can reduce total FLOPs.
   - Acceptance probability compounds geometrically across positions, ensuring most tokens are accepted early in the stride.
 

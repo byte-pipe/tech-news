@@ -46,120 +46,120 @@ For more advanced use cases, there are temporal and range partition mappers (#61
 Example: Three upstream ingestion Dags each write to a separate asset on an hourly cadence. The downstream Dag only triggers when all three have updated the same hourly partition. Since the three assets don’t share a partition key natively, a mapper resolves them into a common key.
 
 from
- 
+
 __future__
- 
+
 import
- 
+
 annotations
 
 from
- 
+
 airflow.sdk
- 
+
 import
- 
+
 (
 
- 
+
 DAG
 ,
 
- 
+
 Asset
 ,
 
- 
+
 CronPartitionTimetable
 ,
 
- 
+
 PartitionedAssetTimetable
 ,
 
- 
+
 StartOfHourMapper
 ,
 
- 
+
 asset
 ,
 
- 
+
 task
 ,
 
 )
 
 team_a_player_stats
- 
+
 =
- 
+
 Asset
 (
 uri
 =
 "file://incoming/player-stats/team_a.csv"
 ,
- 
+
 name
 =
 "team_a_player_stats"
 )
 
 combined_player_stats
- 
+
 =
- 
+
 Asset
 (
 uri
 =
 "file://curated/player-stats/combined.csv"
 ,
- 
+
 name
 =
 "combined_player_stats"
 )
 
 with
- 
+
 DAG
 (
 
- 
+
 dag_id
 =
 "ingest_team_a_player_stats"
 ,
 
- 
+
 schedule
 =
 CronPartitionTimetable
 (
 "0 * * * *"
 ,
- 
+
 timezone
 =
 "UTC"
 ),
 
- 
+
 tags
 =
 [
 "player-stats"
 ,
- 
+
 "ingestion"
 ],
 
 ):
 
- 
+
 @task
 (
 outlets
@@ -168,19 +168,19 @@ outlets
 team_a_player_stats
 ])
 
- 
+
 def
- 
+
 ingest_team_a_stats
 ():
 
- 
+
 """Materialize Team A player statistics for the current hourly partition."""
 
- 
+
 pass
 
- 
+
 ingest_team_a_stats
 ()
 
@@ -192,57 +192,57 @@ CronPartitionTimetable
 (
 "15 * * * *"
 ,
- 
+
 timezone
 =
 "UTC"
 ))
 
 def
- 
+
 team_b_player_stats
 ():
 
- 
+
 pass
 
 with
- 
+
 DAG
 (
 
- 
+
 dag_id
 =
 "clean_and_combine_player_stats"
 ,
 
- 
+
 schedule
 =
 PartitionedAssetTimetable
 (
 
- 
+
 assets
 =
 team_a_player_stats
- 
+
 &
- 
+
 team_b_player_stats
 ,
 
- 
+
 default_partition_mapper
 =
 StartOfHourMapper
 (),
 
- 
+
 ),
 
- 
+
 catchup
 =
 False
@@ -250,7 +250,7 @@ False
 
 ):
 
- 
+
 @task
 (
 outlets
@@ -259,9 +259,9 @@ outlets
 combined_player_stats
 ])
 
- 
+
 def
- 
+
 combine_player_stats
 (
 dag_run
@@ -269,10 +269,10 @@ dag_run
 None
 ):
 
- 
+
 """Merge the aligned hourly partitions into a combined dataset."""
 
- 
+
 print
 (
 dag_run
@@ -280,7 +280,7 @@ dag_run
 partition_key
 )
 
- 
+
 combine_player_stats
 ()
 
@@ -327,23 +327,23 @@ Building on the Deadline Alerts system introduced in Airflow 3.1, this release a
 * Improved UX for custom DeadlineReferences: Cleaner developer experience when defining custom deadline reference points (#57222)
 
 with
- 
+
 DAG
 (
 
- 
+
 dag_id
 =
 "sync_deadline"
 ,
 
- 
+
 deadline
 =
 DeadlineAlert
 (
 
- 
+
 reference
 =
 DeadlineReference
@@ -354,17 +354,17 @@ datetime
 (
 1980
 ,
- 
+
 8
 ,
- 
+
 10
 ,
- 
+
 2
 )),
 
- 
+
 interval
 =
 timedelta
@@ -372,33 +372,33 @@ timedelta
 0
 ),
 
- 
+
 callback
 =
 SyncCallback
 (
 
- 
+
 SlackWebhookNotifier
 ,
 
- 
+
 {
 "text"
 :
- 
+
 "Sync Callback; Alert should trigger immediately!"
 },
 
- 
+
 )
 
- 
+
 )
 
 ):
 
- 
+
 EmptyOperator
 (
 task_id
@@ -463,104 +463,104 @@ False
 )
 
 async
- 
+
 def
- 
+
 load_xml_files
 (
 files
 ):
 
- 
+
 import
- 
+
 asyncio
 
- 
+
 from
- 
+
 io
- 
+
 import
- 
+
 BytesIO
 
- 
+
 from
- 
+
 more_itertools
- 
+
 import
- 
+
 chunked
 
- 
+
 from
- 
+
 os
- 
+
 import
- 
+
 cpu_count
 
- 
+
 from
- 
+
 tenacity
- 
+
 import
- 
+
 retry
 ,
- 
+
 stop_after_attempt
 ,
- 
+
 wait_fixed
 
- 
+
 from
- 
+
 airflow.providers.sftp.hooks.sftp
- 
+
 import
- 
+
 SFTPClientPool
 
- 
+
 print
 (
 "number of files:"
 ,
- 
+
 len
 (
 files
 ))
 
- 
+
 async
- 
+
 with
- 
+
 SFTPClientPool
 (
 sftp_conn_id
 =
 sftp_conn
 ,
- 
+
 pool_size
 =
 cpu_count
 ())
- 
+
 as
- 
+
 pool
 :
 
- 
+
 @retry
 (
 stop
@@ -569,7 +569,7 @@ stop_after_attempt
 (
 3
 ),
- 
+
 wait
 =
 wait_fixed
@@ -577,83 +577,83 @@ wait_fixed
 5
 ))
 
- 
+
 async
- 
+
 def
- 
+
 download_file
 (
 file
 ):
 
- 
+
 async
- 
+
 with
- 
+
 pool
 .
 get_sftp_client
 ()
- 
+
 as
- 
+
 sftp
 :
 
- 
+
 print
 (
 "downloading:"
 ,
- 
+
 file
 )
 
- 
+
 buffer
- 
+
 =
- 
+
 BytesIO
 ()
 
- 
+
 async
- 
+
 with
- 
+
 sftp
 .
 open
 (
 file
 ,
- 
+
 encoding
 =
 xml_encoding
 )
- 
+
 as
- 
+
 remote_file
 :
 
- 
+
 data
- 
+
 =
- 
+
 await
- 
+
 remote_file
 .
 read
 ()
 
- 
+
 buffer
 .
 write
@@ -665,7 +665,7 @@ encode
 xml_encoding
 ))
 
- 
+
 buffer
 .
 seek
@@ -673,36 +673,36 @@ seek
 0
 )
 
- 
+
 return
- 
+
 buffer
 
- 
+
 for
- 
+
 batch
- 
+
 in
- 
+
 chunked
 (
 files
 ,
- 
+
 cpu_count
 ()
- 
+
 *
- 
+
 2
 ):
 
- 
+
 tasks
- 
+
 =
- 
+
 [
 asyncio
 .
@@ -712,26 +712,26 @@ download_file
 (
 f
 ))
- 
+
 for
- 
+
 f
- 
+
 in
- 
+
 batch
 ]
 
- 
+
 # Wait for this batch to finish before starting the next
 
- 
+
 for
- 
+
 task
- 
+
 in
- 
+
 asyncio
 .
 as_completed
@@ -739,16 +739,16 @@ as_completed
 tasks
 ):
 
- 
+
 result
- 
+
 =
- 
+
 await
- 
+
 task
 
- 
+
 # Do something with result or accumulate it and return it as an XCom
 
 # Updated securiy model

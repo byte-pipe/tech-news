@@ -28,7 +28,7 @@ google
 Add Al Jazeera on Google
 info
 Lamine Yamal, left, and his team Barcelona will need to rebound against Atletico Madrid in the second leg of their Champions League quarterfinal on Tuesday [Albert Gea/Reuters]
-By 
+By
 Al Jazeera Staff
 Published On 13 Apr 2026
 13 Apr 2026

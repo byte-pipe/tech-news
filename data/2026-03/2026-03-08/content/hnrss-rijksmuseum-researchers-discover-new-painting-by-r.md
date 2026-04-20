@@ -65,6 +65,6 @@ Download
 
 Researchers looking at Rembrandt's Vision of Zacharias in the Temple. Photo: Rijksmuseum/Kelly Schenk
 
-Download 
+Download
 
 Researchers looking at Rembrandt's Vision of Zacharias in the Temple. Photo: Rijksmuseum/Kelly Schenk

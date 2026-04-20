@@ -26,16 +26,16 @@ Email
 ## The Coinbase Bitcoin Yield Fund's tokenized share class runs on Base as the $3.5 trillion fund services giant Apex applies tokenization across its business.
 
 By
- 
+
 Krisztian Sandor
-, 
+,
 Helene Braun
 |
 Edited by
- 
+
 Stephen Alpher
- 
-Mar 19, 2026, 8:09 p.m. 
+
+Mar 19, 2026, 8:09 p.m.
 Make us preferred on Google
 Coinbase app on a mobile phone screen (appshunter.io/Unsplash/Modified by CoinDesk)
 
@@ -68,7 +68,7 @@ The setup replaces manual compliance checks with automated rules. If a wallet is
 Thefundis available to non-U.S. investors, but CBAM said it plans to create a tokenized share class of the fund'sU.S.-versionas well.
 
 Tokenization
-Real World Assets 
+Real World Assets
 Bitcoin News
 Coinbase
 
@@ -77,13 +77,13 @@ More For You
 BlackRock is betting billions that tokenized funds will do for Wall Street what the internet did to mail
 
 By
- 
+
 Helene Braun
-, 
+,
 AI Boost
 |
 Edited by
- 
+
 Sheldon Reback
 16 hours ago
 
@@ -96,7 +96,7 @@ What to know:
 * He framed tokenization as part of a broader effort to address inequality and strained public finances, noting BlackRock’s growing digital-asset business and calling for clear rules on investor protections, counterparty risk and digital identity.
 Read full story
 Latest Crypto News
- 
+
 
 #### Here’s how Treasuries could shape Trump’s Iran war and bitcoin moves
 

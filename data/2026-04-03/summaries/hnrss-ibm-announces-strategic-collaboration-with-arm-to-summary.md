@@ -49,7 +49,7 @@ summarized_at: 2026-04-03T01:03:40.841743
 - Offers innovations in AI, quantum computing, industry‑specific cloud solutions, and open‑source platforms such as Red Hat OpenShift.
 
 ## Media Contact
-- Bethany McCarthy, IBM  
-  Email: bethany@ibm.com  
+- Bethany McCarthy, IBM
+  Email: bethany@ibm.com
 
 *Source: IBM*

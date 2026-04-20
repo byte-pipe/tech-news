@@ -17,10 +17,10 @@ tags:
 
 # Apple celebrates its 50th anniversary with special animated homepage
 
- 
+
 
 Benjamin Mayo
- | Apr 1 2026 - 12:35 am PT																
+ | Apr 1 2026 - 12:35 am PT
 
 As part of its 50th anniversary celebrations, Apple has updated its website homepage today with a special animation video that features some of the company’s most iconic creations.
 
@@ -40,27 +40,27 @@ Stay tuned to 9to5Mac for some more special coverage this week as look back at A
 
 FTC: We use income earning auto affiliate links.More.
 
-You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out 
+You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out
 our homepage
- for all the latest news, and follow 9to5Mac on 
+ for all the latest news, and follow 9to5Mac on
 Twitter
-, 
+,
 Facebook
-, and 
+, and
 LinkedIn
- to stay in the loop. Don’t know where to start? Check out our 
+ to stay in the loop. Don’t know where to start? Check out our
 exclusive stories
-, 
+,
 reviews
-, 
+,
 how-tos
-, and 
+, and
 subscribe to our YouTube channel
- 
+
 
 Check out 9to5Mac on YouTube for more Apple news:
 
- 
+
 
 ## Comments
 
@@ -72,23 +72,23 @@ Breaking news from Cupertino. We’ll give you t…
 
 ## Author
 
- 
 
-			Benjamin Mayo		
 
-bzamayo			
+			Benjamin Mayo
+
+bzamayo
 
 Benjamin develops iOS apps professionally and covers Apple news and rumors for 9to5Mac. Listen to Benjamin, every week, on the Happy Hour podcast. Check outhis personal blog. Message Benjamin overemailorTwitter.
 
 ### Benjamin Mayo's favorite gear
 
- 
+
 
 #### Philips Hue Lights
 
 The easiest way to get into HomeKit and Apple smart home tech. Great for gifts.
 
- 
+
 
 #### iPhone Wireless Charger
 

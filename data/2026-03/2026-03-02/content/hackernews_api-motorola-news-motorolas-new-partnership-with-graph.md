@@ -18,7 +18,7 @@ Article
 
 # Motorola announces a partnership with GrapheneOS Foundation, marking a new chapter in smartphone security and expanding its enterprise portfolio
 
- 
+
 March 2, 2026
 
 Motorola, a Lenovo Company, announced the addition of new consumer and enterprise solutions to its portfolio today at Mobile World Congress. The company unveiled a partnership with the GrapheneOS Foundation, to bring cutting-edge security to everyday users across the globe. In addition, Motorola introduced a new Moto Secure feature and Moto Analytics, to expand Motorola’s B2B ecosystem with advanced security and deeper operational insights for organizations across industries. These announcements reinforce Motorola’s commitment to delivering intelligent, and highly capable technology with enhanced security for customers worldwide.
@@ -46,32 +46,32 @@ Legal DisclaimersCertain features, functionality, and product specifications may
 						Download Article
 
 Share
- 
+
 
 B2B
 GrapehenOS
 Moto Analytics
 Moto Secure
- 
+
 
 ## Similar articles
 
 New Motorola Study Reveals Employees’ Growing Desire for Work Smartphones, for a Better Work-Life Balance and Productivity Boost
-Read more 
+Read more
 
 Latest motorola edge family arrives with new Thinkshield for mobile management tool for B2B
-Read more 
+Read more
 
 Moto Secure: 4 new features that combat top security threats
-Read more 
+Read more
 
 ## Latest news
 
 MWC 2026: Motorola launches the moto buds 2 plus with Sound by Bose technology and the moto buds 2 for next-generation, high-quality audio
-Read more 
+Read more
 
 The new motorola razr fold claims the title of #1 foldable camera system, according to DXOMARK
-Read more 
+Read more
 
 Motorola at Mobile Word Congress 2026
 Read more

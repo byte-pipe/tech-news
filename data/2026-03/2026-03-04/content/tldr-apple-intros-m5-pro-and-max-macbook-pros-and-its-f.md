@@ -34,22 +34,22 @@ The new laptops are available for preorder on March 4 and will be available on M
 ## New screens, and the departure of the Pro Display XDR
 
  The Studio Display and Studio Display XDR share the same screen size, resolution, and basic design, but the XDR is much more capable.
- 
+
 
  Credit:
  Apple
- 
+
 
  The Studio Display and Studio Display XDR share the same screen size, resolution, and basic design, but the XDR is much more capable.
 
- 
+
 
  Credit:
 
- 
+
  Apple
 
- 
+
 
 To go with the new MacBook Pros, Apple has also introduceda pair of new displays, its first monitor update since launchingthe original Studio Display four years ago.
 
@@ -66,19 +66,19 @@ Like the new MacBook Pros, these displays will be available for preorder on Marc
 The new MacBook Pros and Studio Displays are part of a string of announcements that Apple is making this week in the run-up to a “special experience” event on Wednesday morning. So far, the company has also announceda new iPhone 17eand anupdated iPad Airwith an M4 chip and additional RAM, plus new MacBook Airs with the M5 chip.
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
- Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called 
+ Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called
 Overdue
 .
- 
+
 
 1. 1.M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon
 2. 2.LLMs can unmask pseudonymous users at scale with surprising accuracy

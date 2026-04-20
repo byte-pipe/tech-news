@@ -54,17 +54,17 @@ I’m sort of the cat tech guru around here, and have tested a myriad of the bes
 Chewydog dealsare one of the best ways for dog owners to save big at Chewy. Under the “daily deals” tab, you can find deep discounts on pet essentials, from toys to treats, on pets by category. (Think of it like a bargain sale clearance bin, but for pets!) Right now, when you buy three toys or treats, you’ll get the fourth free. Make sure you look at the specifics of the Chewy dog deals, as only certain top-rated toys and treats qualify.
 
 Molly Higgins
- is WIRED's Commerce Production and Operations Coordinator. She tests 
+ is WIRED's Commerce Production and Operations Coordinator. She tests
 mattresses
-, 
+,
 cat gadgets
-, 
+,
 pet hair vacuums
-, 
+,
 vegan meal kits
-, and helps oversee our 
+, and helps oversee our
 coupon program
-. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ... 
+. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ...
 Read More
 Commerce Production and Operations Coordinator
 * LinkedIn

@@ -21,7 +21,7 @@ Security News
 
 Malicious packages published to npm, PyPI, Go Modules, crates.io, and Packagist impersonate developer tooling to fetch staged malware, steal credentials and wallets, and enable remote access.
 
-By 
+By
 Kirill Boychenko
   -  
 Apr 07, 2026

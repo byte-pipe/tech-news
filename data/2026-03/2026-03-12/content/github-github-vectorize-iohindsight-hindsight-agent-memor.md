@@ -11,7 +11,7 @@ description: 'Hindsight: Agent Memory That Learns. Contribute to vectorize-io/hi
 
 vectorize-io
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork213
 * Star2.8k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -240,7 +240,7 @@ docker run --rm -it --pull always -p 8888:8888 -p 9999:9999 \
  -e HINDSIGHT_API_LLM_API_KEY=
 $OPENAI_API_KEY
  \
- -v 
+ -v
 $HOME
 /.hindsight-docker:/home/hindsight/.pg0 \
  ghcr.io/vectorize-io/hindsight:latest
@@ -259,7 +259,7 @@ export
 
 cd
  docker/docker-compose
-docker compose up 
+docker compose up
 
 API:http://localhost:8888UI:http://localhost:9999
 
@@ -275,17 +275,17 @@ npm install @vectorize-io/hindsight-client
 #### Python
 
 from
- 
+
 hindsight_client
- 
+
 import
- 
+
 Hindsight
 
 client
- 
+
 =
- 
+
 Hindsight
 (
 base_url
@@ -302,7 +302,7 @@ retain
 bank_id
 =
 "my-bank"
-, 
+,
 content
 =
 "Alice works at Google as a software engineer"
@@ -317,7 +317,7 @@ recall
 bank_id
 =
 "my-bank"
-, 
+,
 query
 =
 "What does Alice do?"
@@ -332,7 +332,7 @@ reflect
 bank_id
 =
 "my-bank"
-, 
+,
 query
 =
 "Tell me about Alice"
@@ -343,13 +343,13 @@ query
 npm install @vectorize-io/hindsight-client
 
 const
- 
+
 {
- HindsightClient 
+ HindsightClient
 }
- 
+
 =
- 
+
 require
 (
 '@vectorize-io/hindsight-client'
@@ -357,76 +357,76 @@ require
 ;
 
 const
- 
+
 main
- 
+
 =
- 
+
 async
- 
+
 (
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 client
- 
+
 =
- 
+
 new
- 
+
 HindsightClient
 (
 {
- 
+
 baseUrl
-: 
+:
 'http://localhost:8888'
- 
+
 }
 )
 ;
 
- 
+
 await
- 
+
 client
 .
 retain
 (
 'my-bank'
 ,
- 
+
 'Alice loves hiking in Yosemite'
 )
 ;
 
- 
+
 const
- 
+
 results
- 
+
 =
- 
+
 await
- 
+
 client
 .
 recall
 (
 'my-bank'
 ,
- 
+
 'What does Alice like?'
 )
 ;
 
- 
+
 console
 .
 log
@@ -447,34 +447,34 @@ main
 pip install hindsight-all -U
 
 import
- 
+
 os
 
 from
- 
+
 hindsight
- 
+
 import
- 
+
 HindsightServer
-, 
+,
 HindsightClient
 
 with
- 
+
 HindsightServer
 (
- 
+
 llm_provider
 =
 "openai"
 ,
- 
+
 llm_model
 =
 "gpt-5-mini"
-, 
- 
+,
+
 llm_api_key
 =
 os
@@ -483,16 +483,16 @@ environ
 [
 "OPENAI_API_KEY"
 ]
-) 
+)
 as
- 
+
 server
 :
- 
+
 client
- 
+
 =
- 
+
 HindsightClient
 (
 base_url
@@ -501,7 +501,7 @@ server
 .
 url
 )
- 
+
 client
 .
 retain
@@ -509,16 +509,16 @@ retain
 bank_id
 =
 "my-bank"
-, 
+,
 content
 =
 "Alice works at Google"
 )
- 
+
 results
- 
+
 =
- 
+
 client
 .
 recall
@@ -526,7 +526,7 @@ recall
 bank_id
 =
 "my-bank"
-, 
+,
 query
 =
 "Where does Alice work?"
@@ -567,17 +567,17 @@ Hindsight provides three simple methods to interact with the system:
 Theretainoperation is used to push new memories into Hindsight. It tells Hindsight toretainthe information you pass in as an input.
 
 from
- 
+
 hindsight_client
- 
+
 import
- 
+
 Hindsight
 
 client
- 
+
 =
- 
+
 Hindsight
 (
 base_url
@@ -591,12 +591,12 @@ client
 .
 retain
 (
- 
+
 bank_id
 =
 "my-bank"
 ,
- 
+
 content
 =
 "Alice works at Google as a software engineer"
@@ -609,22 +609,22 @@ client
 .
 retain
 (
- 
+
 bank_id
 =
 "my-bank"
 ,
- 
+
 content
 =
 "Alice got promoted to senior engineer"
 ,
- 
+
 context
 =
 "career update"
 ,
- 
+
 timestamp
 =
 "2025-06-15T10:00:00Z"
@@ -638,17 +638,17 @@ Behind the scenes, the retain operation uses an LLM to extract key facts, tempor
 The recall operation is used to retrieve memories. These memories can come from any of the memory types (world, experiences, etc.)
 
 from
- 
+
 hindsight_client
- 
+
 import
- 
+
 Hindsight
 
 client
- 
+
 =
- 
+
 Hindsight
 (
 base_url
@@ -665,7 +665,7 @@ recall
 bank_id
 =
 "my-bank"
-, 
+,
 query
 =
 "What does Alice do?"
@@ -680,7 +680,7 @@ recall
 bank_id
 =
 "my-bank"
-, 
+,
 query
 =
 "What happened in June?"
@@ -710,17 +710,17 @@ For example, thereflectoperation can be used to support use cases such as:
 Thereflectoperation can also be used to handle on-demand question answering or analysis which require more deep thinking.
 
 from
- 
+
 hindsight_client
- 
+
 import
- 
+
 Hindsight
 
 client
- 
+
 =
- 
+
 Hindsight
 (
 base_url
@@ -735,7 +735,7 @@ reflect
 bank_id
 =
 "my-bank"
-, 
+,
 query
 =
 "What should I know about Alice?"
@@ -789,66 +789,66 @@ hindsight.vectorize.io/
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 2.8k
 
  stars
- 
+
 
 ### Watchers
 
 23
 
  watching
- 
+
 
 ### Forks
 
 213
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases40
 
@@ -856,11 +856,11 @@ v0.4.17
 
  Latest
 
- 
+
 
 Mar 10, 2026
 
- 
+
 
 + 39 releases
 
@@ -876,17 +876,17 @@ Mar 10, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors28
 

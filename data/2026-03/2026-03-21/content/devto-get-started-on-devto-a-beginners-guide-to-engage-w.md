@@ -62,18 +62,18 @@ When making your post on Dev.to, there are some things to keep in mind. You don�
 You can write about anything you want. Just to keep in mind to keep it "developer" related. If you would like to learn more about writing your post and how to make a great post, take a look at these resources:
 
  Sloan the DEV Moderator
- 
+
 
  Sloan the DEV Moderator
- 
- 
+
+
 
 Sloan the DEV Moderator
 
  Follow
- 
 
- for 
+
+ for
 The DEV Team
 
 Aug 7 '23
@@ -101,21 +101,21 @@ Comments
  comments
 
  4 min read
- 
+
 
  Ella (she/her/elle)
- 
+
 
  Ella (she/her/elle)
- 
- 
+
+
 
 Ella (she/her/elle)
 
  Follow
- 
 
- for 
+
+ for
 The DEV Team
 
 Aug 20 '21
@@ -137,18 +137,18 @@ Comments
  comments
 
  4 min read
- 
+
 
  Anmol Baranwal
- 
+
 
  Anmol Baranwal
- 
+
 
 Anmol Baranwal
 
  Follow
- 
+
 
 Jan 30 '24
 
@@ -175,7 +175,7 @@ Comments
  comments
 
  9 min read
- 
+
 
 Pro Tip:There is no such thing as a “correct” posting schedule on Dev.to. Some people write weekly while others write daily. However, the most important thing is consistency. If you are engaging with a community in a healthy way, it’s a win-win (You get to learn and grow as a developer and you gain connections on Dev.to)!
 
@@ -206,16 +206,16 @@ Here is an example of a post with an engaging discussion by@sylwia-lask:
 WeCoded 2026: Echoes of Experience 💜
 
  Sylwia Laskowska
- 
+
 
  Sylwia Laskowska
- 
- 
+
+
 
 Sylwia Laskowska
 
  Follow
- 
+
 
 Mar 18
 
@@ -242,20 +242,20 @@ Comments
  comments
 
  5 min read
- 
+
 
 Of course, your comment doesn't need to be professional. It can just be casual.Just be yourself and enjoyreading other people's thoughts! A great way is to follow@ben! He post "Meme Monday" every Monday (Who would have thought) and it's great way to showcase your sense of humor and just to have fun if you would like to take a break from reading! Here is one of the Meme Monday post below as an example:
 
  Ben Halpern
- 
+
 
  Ben Halpern
- 
+
 
 Ben Halpern
 
  Follow
- 
+
 
 Mar 16
 
@@ -279,7 +279,7 @@ Comments
  comments
 
  1 min read
- 
+
 
 Pro Tip:Balance is key when you are both posting and commenting on other people's post! These small interactions go a long way on Dev.to and it is a way to grow your following. For me, I started commenting before I made my first post on Dev.to! A great balance allows you to get recognize from the community.
 
@@ -296,17 +296,17 @@ Here are some things you can also do on Dev.to!
 Dev.to offer events every month where you get the chance to participate in challenges. Events usually last either a minimum of a few days to a few months! It is a great way to showcase your work to others onDev.to and even on the MLH discord server!Here is one example where they announce the Google Gemini Writing Challenge along with the Winners!
 
  Jess Lee
- 
+
 
  Jess Lee
- 
+
 
 Jess Lee
 
  Follow
- 
 
- for 
+
+ for
 The DEV Team
 
 Feb 25
@@ -334,20 +334,20 @@ Comments
  comments
 
  4 min read
- 
+
 
  Jess Lee
- 
+
 
  Jess Lee
- 
+
 
 Jess Lee
 
  Follow
- 
 
- for 
+
+ for
 The DEV Team
 
 Mar 19
@@ -375,7 +375,7 @@ Comments
  comments
 
  3 min read
- 
+
 
 Keep a lookout for events and make sure to participate on theDev.to Challenges Page!
 
@@ -400,7 +400,7 @@ You have made it to the end of the guide!If you find this helpful, leave a like 
 Fun Fact:If you engage with the Dev.to community, you may be entitled to be a Dev.to Mod! Check out the Community Moderation page for more information:https://dev.to/community-moderation
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -411,6 +411,6 @@ Preview
 Dismiss
 
  View full discussion (23 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

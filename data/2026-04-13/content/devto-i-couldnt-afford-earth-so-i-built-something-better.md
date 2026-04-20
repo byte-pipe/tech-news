@@ -139,7 +139,7 @@ We always dreamed of owning a house. We just never thought it would be outside t
 So, which planet are you buying first? And more importantly, are you going for a small plot or the whole planet?
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -150,6 +150,6 @@ Preview
 Dismiss
 
  View full discussion (31 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

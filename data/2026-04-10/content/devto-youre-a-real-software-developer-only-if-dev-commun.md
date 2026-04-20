@@ -127,7 +127,7 @@ What would YOU add to this list?
 Because I’m 100% sure we’ve all got at least one story that would fit perfectly here 😄
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -138,6 +138,6 @@ Preview
 Dismiss
 
  View full discussion (35 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

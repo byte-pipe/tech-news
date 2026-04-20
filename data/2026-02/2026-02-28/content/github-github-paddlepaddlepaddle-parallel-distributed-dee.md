@@ -11,7 +11,7 @@ description: 'PArallel Distributed Deep LEarning: Machine Learning Framework fro
 
 PaddlePaddle
 
- 
+
 
 /
 
@@ -30,41 +30,41 @@ www.paddlepaddle.org/
 ### License
 
  Apache-2.0 license
- 
+
 
 23.7k
 
  stars
 
- 
+
 
 6k
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # PaddlePaddle/Paddle

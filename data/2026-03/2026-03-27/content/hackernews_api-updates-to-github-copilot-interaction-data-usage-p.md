@@ -17,13 +17,13 @@ tags:
 Mario Rodriguez
 ·
 @mariorod
- 
 
-			March 25, 2026		
+
+			March 25, 2026
 
 |
 
-				3 minutes			
+				3 minutes
 
 * Share:
 
@@ -69,28 +69,28 @@ Mario Rodriguez leads the GitHub Product team as Chief Product Officer. His core
 
 ## Related posts
 
- 
+
 
 Company
- 
+
 
 ### GitHub availability report: February 2026
 
 In February, we experienced six incidents that resulted in degraded performance across GitHub services.
 
- 
+
 
 Company news
- 
+
 
 ### Addressing GitHub’s recent availability issues
 
 GitHub recently experienced several availability incidents. We understand the impact these outages have on our customers and are sharing details on the stabilization work we’re prioritizing right now.
 
- 
+
 
 Company news
- 
+
 
 ### GitHub availability report: January 2026
 
@@ -100,7 +100,7 @@ In January, we experienced two incidents that resulted in degraded performance a
 
 Discover tips, technical guides, and best practices in our biweekly newsletter just for devs.
 
- 
+
 
 Your email address
 
@@ -110,8 +110,8 @@ Your email address
 
 Subscribe
 
-							Yes please, I’d like GitHub and affiliates to use my information for personalized communications, targeted advertising and campaign effectiveness. See the 
+							Yes please, I’d like GitHub and affiliates to use my information for personalized communications, targeted advertising and campaign effectiveness. See the
 GitHub Privacy Statement
- for more details.						
+ for more details.
 
 Subscribe

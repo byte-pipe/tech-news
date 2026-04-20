@@ -17,16 +17,16 @@ Subscribe to Updates
 Subscribe
 
  x
- 
 
- Get email notifications whenever Wikimedia 
+
+ Get email notifications whenever Wikimedia
 creates
-, 
+,
 updates
- or 
+ or
 resolves
  an incident.
- 
+
 
 Email address:
 
@@ -36,35 +36,35 @@ Resend OTP in:seconds
 
 Didn't receive the OTP?Resend OTP
 
- This site is protected by reCAPTCHA and the Google 
+ This site is protected by reCAPTCHA and the Google
 Privacy Policy
- and 
+ and
 Terms of Service
  apply.
 
- 
+
 
  Get incident updates and maintenance status messages in Slack.
- 
+
 
 Subscribe via Slack
 
-By subscribing you agree to the Atlassian 
+By subscribing you agree to the Atlassian
 Cloud Terms of Service
- and acknowledge Atlassian's 
+ and acknowledge Atlassian's
 Privacy Policy
 .
 
- Get webhook notifications whenever Wikimedia 
+ Get webhook notifications whenever Wikimedia
 creates
- an incident, 
+ an incident,
 updates
- an incident, 
+ an incident,
 resolves
- an incident or 
+ an incident or
 changes
  a component status.
- 
+
 
 Webhook URL:
 
@@ -74,80 +74,80 @@ Email address:
 
 We'll send you email if your endpoint fails
 
- This site is protected by reCAPTCHA and the Google 
+ This site is protected by reCAPTCHA and the Google
 Privacy Policy
- and 
+ and
 Terms of Service
  apply.
 
- 
 
- Get the 
+
+ Get the
 Atom Feed
- or 
+ or
 RSS Feed
 .
- 
+
 
 Wikis were in read only mode
 
 Update
- - 
+ -
 We are continuing to monitor for any further issues.
 
-Mar 
+Mar
 05
-, 
+,
 2026
- - 
+ -
 18:36
  UTC
 
 Monitoring
- - 
+ -
 A fix has been implemented and we are monitoring the results. Some editing functionality will still be disabled.
 
-Mar 
+Mar
 05
-, 
+,
 2026
- - 
+ -
 17:36
  UTC
 
 Update
- - 
+ -
 Wikis are back in read write mode, but some functionalities are still disabled
 
-Mar 
+Mar
 05
-, 
+,
 2026
- - 
+ -
 17:09
  UTC
 
 Identified
- - 
+ -
 The issue has been identified and a fix is being implemented.
 
-Mar 
+Mar
 05
-, 
+,
 2026
- - 
+ -
 16:11
  UTC
 
 Investigating
- - 
+ -
 We are aware of issues with accessing some wikis, and we are investigating.
 
-Mar 
+Mar
 05
-, 
+,
 2026
- - 
+ -
 15:36
  UTC
 
@@ -161,46 +161,46 @@ VIA EMAIL:
 
 Subscribe to Incident
 
- This site is protected by reCAPTCHA and the Google 
+ This site is protected by reCAPTCHA and the Google
 Privacy Policy
- and 
+ and
 Terms of Service
  apply.
 
- 
+
 
  Reading
- 
+
 
 ?
 
  Operational
 
- 
+
 
  Editing
- 
+
 
 ?
 
  Operational
 
- 
+
 
  Operational
- 
+
 
  Degraded Performance
- 
+
 
  Partial Outage
- 
+
 
  Major Outage
- 
+
 
  Maintenance
- 
+
 
 System Metrics
 
@@ -211,285 +211,285 @@ Week
 Day
 
  Total request volume
- 
+
 
  ?
 
- 
+
 
 Fetching
 
  User-reported connectivity errors
- 
+
 
  ?
 
- 
+
 
 Fetching
 
  Wiki error responses
- 
+
 
  ?
 
- 
+
 
 Fetching
 
  Wiki response time
- 
+
 
  ?
 
- 
+
 
 Fetching
 
  Successful edits
- 
+
 
  ?
 
- 
+
 
 Fetching
 
 ## Past Incidents
 
-Mar 
+Mar
  5
-, 
+,
 2026
 
 Unresolved incident: Wikis were in read only mode.
 
-Mar 
+Mar
  4
-, 
+,
 2026
 
 No incidents reported.
 
-Mar 
+Mar
  3
-, 
+,
 2026
 
 Edits to Wikipedia and other wikis are delayed
 
 Resolved
  -
- 	
+
 Everything is back to normal.
 
- Mar 
+ Mar
  3
-, 
+,
 10:24
  UTC
- 
+
 
 Monitoring
  -
- 	
+
 We think we have fixed the database issue, but we are watching to make sure.
 
- Mar 
+ Mar
  3
-, 
+,
 10:17
  UTC
- 
+
 
 Identified
  -
- 	
+
 We have discovered an issue with our database servers and are working on a fix.
 
- Mar 
+ Mar
  3
-, 
+,
 10:09
  UTC
- 
 
-Mar 
+
+Mar
  2
-, 
+,
 2026
 
 No incidents reported.
 
-Mar 
+Mar
  1
-, 
+,
 2026
 
 No incidents reported.
 
-Feb 
+Feb
 28
-, 
+,
 2026
 
 No incidents reported.
 
-Feb 
+Feb
 27
-, 
+,
 2026
 
 No incidents reported.
 
-Feb 
+Feb
 26
-, 
+,
 2026
 
 Issues and degraded performance accessing Wikis
 
 Resolved
  -
- 	
+
 This incident has been resolved.
 
- Feb 
+ Feb
 26
-, 
+,
 16:58
  UTC
- 
+
 
 Monitoring
  -
- 	
+
 A fix has been implemented and we are monitoring the results.
 
- Feb 
+ Feb
 26
-, 
+,
 16:25
  UTC
- 
 
-Feb 
+
+Feb
 25
-, 
+,
 2026
 
 Issues and degraded performance accessing Wikis
 
 Resolved
  -
- 	
+
 This incident has been resolved.
 
- Feb 
+ Feb
 25
-, 
+,
 17:24
  UTC
- 
+
 
 Investigating
  -
- 	
+
 We are currently investigating this issue.
 
- Feb 
+ Feb
 25
-, 
+,
 16:40
  UTC
- 
 
-Feb 
+
+Feb
 24
-, 
+,
 2026
 
 No incidents reported.
 
-Feb 
+Feb
 23
-, 
+,
 2026
 
 No incidents reported.
 
-Feb 
+Feb
 22
-, 
+,
 2026
 
 No incidents reported.
 
-Feb 
+Feb
 21
-, 
+,
 2026
 
 No incidents reported.
 
-Feb 
+Feb
 20
-, 
+,
 2026
 
 Issues and slow down in Europe
 
 Resolved
  -
- 	
+
 This incident has been resolved.
 
- Feb 
+ Feb
 20
-, 
+,
 23:33
  UTC
- 
+
 
 Monitoring
  -
- 	
+
 A fix has been implemented and we are monitoring the results.
 
- Feb 
+ Feb
 20
-, 
+,
 19:44
  UTC
- 
+
 
 Identified
  -
- 	
+
 The issue has been identified and a fix is being implemented.
 
- Feb 
+ Feb
 20
-, 
+,
 19:28
  UTC
- 
+
 
 Investigating
  -
- 	
+
 We are currently investigating this issue.
 
- Feb 
+ Feb
 20
-, 
+,
 19:03
  UTC
- 
 
-Feb 
+
+Feb
 19
-, 
+,
 2026
 
 No incidents reported.

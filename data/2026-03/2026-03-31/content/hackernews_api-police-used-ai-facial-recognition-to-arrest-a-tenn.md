@@ -23,7 +23,7 @@ AI
  See all topics
 
  Follow
- 
+
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before.
 

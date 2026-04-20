@@ -18,22 +18,22 @@ tags:
 
 * Author
 * Recent Posts
- 
- 
- 
+
+
+
 Mark Spera
 I'm a marketing guy, an amateur spearfisherman, and San Francisco resident. Also, I started this blog, Growth Marketing Pro and built it into a 7-figure marketing agency in 24 months. Before that, I was the Head of Marketing for a startup called PlushCare, which sold for $450 million.
- 
- 
-Latest posts by Mark Spera 
+
+
+Latest posts by Mark Spera
 (
 see all
 )
 * Case Study: How We Increased Conversion Rates by 50% for Dutch and Reclaimed AI Visibility- April 14, 2026
 * The Top 17 Direct Mail Companies- June 11, 2025
 * The 11 Best Landing Page Builder Software Tools [2026]- June 11, 2025
- 
- 
+
+
 
 Table of Contents
 

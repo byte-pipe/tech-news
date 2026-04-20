@@ -26,7 +26,7 @@ The visualisation below maps every one, grouped by category, with lines showing 
 
 -
 
-Visualisation created with 
+Visualisation created with
 Flourish
 
 Image download

@@ -31,7 +31,7 @@ The product can also track competitors, including changes to their websites and 
 
 Rocket’s subscription plans range from $25 per month for building applications to $250 for strategy and research capabilities, and up to $350 for the full platform, including competitive intelligence.
 
- 
+
 
 Techcrunch event
 
@@ -60,17 +60,17 @@ Rocket has a team of 57 employees and is headquartered in Surat, with operations
 Topics
 
 AI
-, 
+,
 India
-, 
+,
 rocket
-, 
+,
 Startups
-, 
+,
 vibe coding
- 
 
-			Jagmeet Singh	
+
+			Jagmeet Singh
 
 Reporter
 

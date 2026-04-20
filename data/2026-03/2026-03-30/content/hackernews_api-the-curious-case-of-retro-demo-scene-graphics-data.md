@@ -21,7 +21,7 @@ March 2026
 
 My whole art department is run on tracing paper. Why re-invent the wheel?
 
-- Don Draper in 
+- Don Draper in
 Mad Men
 
 ### Copy Art

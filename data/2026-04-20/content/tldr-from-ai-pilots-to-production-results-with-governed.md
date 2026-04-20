@@ -14,7 +14,7 @@ tags:
 Rackspace Technology: The AI & Hybrid Cloud Backbone
 Rackspace is a managed services provider that designs, builds, and operates IT environments across public clouds (AWS - Azure), private clouds, and on-premises data centers.
 Sponsored by Rackspace
- 
+
 
 # From AI pilots to production results with governed execution
 
@@ -23,13 +23,13 @@ BrandPost
 
 Apr 14, 2026
 5 mins
- 
+
 
 ## Bridging the divide between isolated AI experiments and core business workflows, learn more today.
 
- 
 
-							Credit: 															Shutterstock													
+
+							Credit: 															Shutterstock
 
 Enterprises have invested heavily in artificial intelligence, launching pilots across customer experience, operations, and analytics. Yet many are struggling to move beyond experimentation. While pilots demonstrate potential, they rarely translate into production-scale impact.
 
@@ -68,17 +68,17 @@ Enterprise platforms create potential. Execution turns that potential into resul
 See how this partnership can support your production AI initiatives. Let’s talk.
 
 Artificial Intelligence
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
@@ -92,12 +92,12 @@ Podcasts
 Videos
 
 news
- 
- 
+
+
 
 ### Data centers are costing local governments billions
 
- 
+
 By Maxwell Cooter
 Apr 17, 2026
 2 mins
@@ -107,12 +107,12 @@ Government
 Markets
 
 news
- 
- 
+
+
 
 ### Robot Zuckerberg shows how IT can free up CEOs’ time
 
- 
+
 By Maxwell Cooter
 Apr 17, 2026
 2 mins
@@ -122,12 +122,12 @@ Facebook
 Robotics
 
 news
- 
- 
+
+
 
 ### UK wants to build sovereign AI — with just 0.08% of OpenAI’s market cap
 
- 
+
 By Maxwell Cooter
 Apr 17, 2026
 2 mins
@@ -137,12 +137,12 @@ Government
 Markets
 
 podcast
- 
- 
+
+
 
 ### Powering What Can’t Fail-Scaling Digital at Yinson Holdings
 
- 
+
 By Estelle Quek
 13 Apr 2026
 35 mins
@@ -152,25 +152,25 @@ Energy Industry
 IT Governance Frameworks
 
 podcast
- 
+
 Sponsored by Vertesia
- 
+
 
 ### Episode 5: The CIO’s view on starting, and restarting, AI initiatives
 
- 
+
 Apr 7, 2026
 20 mins
 
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### From Lesson Plans to Lumina: How EtonHouse Built an AI Engine for Teaching at Scale
 
- 
+
 By Estelle Quek
 6 Apr 2026
 73 mins
@@ -180,12 +180,12 @@ Generative AI
 Innovation
 
 video
- 
- 
+
+
 
 ### CData powers AI agents with secure access to enterprise data
 
- 
+
 Apr 16, 2026
 13 mins
 
@@ -194,12 +194,12 @@ Data Governance
 Data Management
 
 video
- 
- 
+
+
 
 ### Powering What Can’t Fail-Scaling Digital at Yinson Holdings
 
- 
+
 By Estelle Quek
 13 Apr 2026
 35 mins
@@ -209,12 +209,12 @@ IT Governance Frameworks
 Renewable Energy
 
 video
- 
- 
+
+
 
 ### Watch Adobe Acrobat Studio turn documents into AI-driven workflows
 
- 
+
 Apr 8, 2026
 17 mins
 

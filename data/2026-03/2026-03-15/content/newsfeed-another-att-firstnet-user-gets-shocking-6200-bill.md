@@ -48,17 +48,17 @@ AT&T advertises FirstNet as offering unlimited talk, text, and data plans starti
 AT&T never specified where the $2-per-megabyte amount came from, but it might be a charge from somewhere else in the AT&T system that was wrongly applied in these cases. AT&Tlegal termsfor “other charges applicable to wireless services” specify that pay-per-use rates for data use in the US are “up to $2 per MB.”
 
  Jon Brodkin
- 
+
 
 Senior IT Reporter
 
  Jon Brodkin
- 
+
 
 Senior IT Reporter
 
  Jon is a Senior IT Reporter for Ars Technica. He covers the telecom industry, Federal Communications Commission rulemakings, broadband consumer affairs, court cases, and government regulation of the tech industry.
- 
+
 
 1. 1.Google Fiber will be sold to private equity firm and merge with cable company
 2. 2.M5 MacBook Air review: Still the best MacBook for almost everybody

@@ -51,7 +51,7 @@ Kate Blackwood is a writer for the College of Arts and Sciences.
 
 Social & Behavioral Sciences
 
-Media Inquiries 
+Media Inquiries
 
 #### Media Contact
 

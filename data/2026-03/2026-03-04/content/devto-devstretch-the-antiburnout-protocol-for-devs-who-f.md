@@ -139,7 +139,7 @@ What's next:
 git commit -m "took care of myself today"// It's a feature, not a bug.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -150,6 +150,6 @@ Preview
 Dismiss
 
  View full discussion (14 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

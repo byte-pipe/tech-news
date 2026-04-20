@@ -14,7 +14,7 @@ tags:
 
 yannick-cw
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork2
 * Star196
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -155,7 +155,7 @@ curl -L https://github.com/yannick-cw/korb/releases/latest/download/korb-x86_64-
 Then:
 
 chmod +x korb
-mv korb /usr/local/bin/ 
+mv korb /usr/local/bin/
 #
  or sudo mv on Linux
 
@@ -195,32 +195,32 @@ korb login --pretty
 #
  2. Find and set your pickup store - stored locally, needs to be done just once
 
-korb store search 80336 
+korb store search 80336
 #
  returns market identifier for zip code
 
-korb store 
+korb store
 set
  420240 80336
 
 #
  3. Search for products by name or EAN barcode
 
-korb search 
+korb search
 "
 milch
 "
  --pretty
-korb search 
+korb search
 "
 milch
 "
  --organic --pretty
-korb search 
+korb search
 "
 4305615100005
 "
- --pretty 
+ --pretty
 #
  search by EAN barcode
 
@@ -228,7 +228,7 @@ korb search
  Or browse your favorites
 
 korb favorites
-korb favorites search 
+korb favorites search
 "
 avo
 "
@@ -246,19 +246,19 @@ korb basket --pretty
 #
  6. Pick a timeslot and checkout
 
-korb timeslots 
+korb timeslots
 #
  lists available timeslots for pickup
 
-korb checkout create 
+korb checkout create
 <
 TIMESLOT_ID
 >
- 
+
 #
  create checkout - not ordered yet
 
-korb checkout order 
+korb checkout order
 #
  order it with selected timeslot and payment in market
 
@@ -266,7 +266,7 @@ korb checkout order
  7. Cancel an order if needed
 
 korb orders
-korb orders delete 
+korb orders delete
 <
 ORDER_ID
 >
@@ -361,48 +361,48 @@ REWE delivery CLI
 
  Readme
 
- 
+
 
 ### License
 
  BSD-3-Clause license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 196
 
  stars
- 
+
 
 ### Watchers
 
 0
 
  watching
- 
+
 
 ### Forks
 
 2
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases8
 
@@ -410,11 +410,11 @@ v0.4.6
 
  Latest
 
- 
+
 
 Apr 1, 2026
 
- 
+
 
 + 7 releases
 
@@ -430,9 +430,9 @@ Apr 1, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -440,9 +440,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

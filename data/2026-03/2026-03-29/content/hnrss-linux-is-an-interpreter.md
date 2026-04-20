@@ -28,9 +28,9 @@ In a previous article,
 I left you with this mysterious command.
 
 curl
- https://astrid.tech/rkx.gz | 
-gunzip 
-| 
+ https://astrid.tech/rkx.gz |
+gunzip
+|
 sudo
  sh
 
@@ -98,66 +98,66 @@ astrid@chungus
 
 #!/bin/sh
 
-set 
+set
 -x
 
-if 
-[ 
+if
+[
 "$
 (
 id
  -u
 )
-" 
+"
 -ne
- 0 
+ 0
 ]
-; 
+;
 then
 
- 
-echo 
+
+echo
 "
 Please ensure you are running as root/sudo
 "
 
- 
+
 exit
  1
 
 fi
 
-if 
-! 
-command 
+if
+!
+command
 -v
- kexec && 
-command 
+ kexec &&
+command
 -v
- base64 && 
-command 
+ base64 &&
+command
 -v
- cpio 
+ cpio
 2
 >&
-1 
->/dev/null ; 
+1
+>/dev/null ;
 then
 
- 
-echo 
+
+echo
 "
 Please ensure kexec-tools, base64, and cpio are installed
 "
 
- 
+
 exit
  1
 
 fi
 
 base64
- -d 
+ -d
 <<
 912367
 yuiogrjklhsdijlslksdawuil234ui > r
@@ -173,7 +173,7 @@ AAAAAAAAAAAAAA
 912367yuiogrjklhsdijlslksdawuil234ui
 
 cpio
- -uidv 
+ -uidv
 < r "
 k
 " > k
@@ -285,13 +285,13 @@ mount
  proc proc /proc
 
 find
- / | 
+ / |
 grep
  -v
- /r | 
+ /r |
 grep
  -v
- /proc | 
+ /proc |
 cpio
  -vo -H
  newc > /r
@@ -341,7 +341,7 @@ The CS 101 example of a recursive Fibonacci function is a very standard form of
 recursion. You’re taught not to do things like this because the professor will
 put 1001 in and you’ll hit Python’s 1000-frame stack limit.
 
-def 
+def
 fib
 (
 n
@@ -349,24 +349,24 @@ n
 
  match n:
 
- case 
+ case
 1
-: 
-return 
+:
+return
 1
 
- case 
+ case
 2
-: 
-return 
+:
+return
 1
 
- case n: 
-return 
+ case n:
+return
 fib
 (n-
 1
-) + 
+) +
 fib
 (n-
 2
@@ -400,10 +400,10 @@ self-contained program that prints out a copy of itself.
 As an example, here is thisPython program (taken from the Wikipedia page):
 
 a: str = '
-a: str = 
+a: str =
 {}{}{}
 ; print(a.format(chr(39), a, chr(39)))
-'; 
+';
 print
 (a.
 format
@@ -411,7 +411,7 @@ format
 chr
 (
 39
-), a, 
+), a,
 chr
 (
 39
@@ -419,17 +419,17 @@ chr
 
 When piped into Python, it prints a copy of itself.
 
-astrid@chungus 
+astrid@chungus
 ~
  ❯ echo "
 a: str = 'a: str = {}{}{}; print(a.format(chr(39), a, chr(39)))'; print(a.format(chr(39), a, chr(39)))
-" | 
+" |
 python3
 
 a:
  str = '
 a: str = {}{}{}; print(a.format(chr(39), a, chr(39)))
-'; 
+';
 print
 (a.format(chr(39)
 ,
@@ -456,13 +456,13 @@ mount
  proc proc /proc
 
 find
- / | 
+ / |
 grep
  -v
- /r | 
+ /r |
 grep
  -v
- /proc | 
+ /proc |
 cpio
  -vo -H
  newc > /r
@@ -624,8 +624,8 @@ Linux OS:
 
 #!/bin/sh
 
-set 
--x 
+set
+-x
 # print executed commands
 
 exec
@@ -634,7 +634,7 @@ exec
  -kernel /path/to/my/kernel \
 
  -initrd $
-1 
+1
 \
 
  -append "
@@ -650,7 +650,7 @@ console=ttyS0
 Put that script somewhere on your system, and you can register it in binfmt like
 so:2
 
-echo 
+echo
 '
 :cpio:M::\x30\x37\x30\x37\x30\x31::/path/to/my/script.sh:
 ' \
@@ -736,7 +736,7 @@ Here is a new interpreter:
 kexec
  --load
  /k
- --initrd 
+ --initrd
 $
 1 --reuse-cmdline
 
@@ -759,7 +759,7 @@ mount
  -t
  binfmt_misc none /proc/sys/fs/binfmt_misc
 
-echo 
+echo
 '
 :cpio:M::\x30\x37\x30\x37\x30\x31::/bin/cpio-interpreter:
 ' \
@@ -767,13 +767,13 @@ echo
  > /proc/sys/fs/binfmt_misc/register
 
 find
- / | 
+ / |
 grep
  -v
- /r | 
+ /r |
 grep
  -v
- /proc | 
+ /proc |
 cpio
  -vo -H
  newc > /r

@@ -357,7 +357,7 @@ capable of reliably generalizing beyond their training data.↩
 3. You can also try this same exercise yourself if you think I held it
 wrong.↩
 
-Copyright © 2026 
+Copyright © 2026
 Gabriella Gonzalez
-. This work is licensed under 
+. This work is licensed under
 CC BY-SA 4.0

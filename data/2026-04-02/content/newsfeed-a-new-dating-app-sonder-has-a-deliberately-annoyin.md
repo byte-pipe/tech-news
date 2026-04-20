@@ -28,21 +28,21 @@ WithSonder, the four London-based founders — Mehedi Hassan, Helen Sun, Lenard 
 
 Sonder profiles are completely unstructured, encouraging users to build something that looks like a mood board or a digital collage. People can connect over the app, but they can also attend quirky in-person events that Sonder organizes, like a “Speed Drawing” event, “Presentation Night,” or a “Performative Male Contest” (it’sa thing, I promise).
 
- 
- 
+
+
 @find_sonder
- 
+
 
 london performative male q&a: if you ever wondered what goes on inside a ✨performative brain✨#performativemale#performativemalecontest#streetinterview
 
- 
+
 ♬ Lover Girl – Laufey
- 
- 
+
+
 
 Sonder can be used for both platonic and romantic connections, which makes its in-person events feel less intimidating — you’re not entering a space where everyone is on the prowl.
 
- 
+
 
 Techcrunch event
 
@@ -87,17 +87,17 @@ Sonder has not yet raised funding, and its founders work on the app part-time, a
 Topics
 
 Apps
-, 
+,
 dating apps
-, 
+,
 London
-, 
+,
 Social
-, 
+,
 Sonder
- 
 
-			Amanda Silberling	
+
+			Amanda Silberling
 
 Senior Writer
 
@@ -105,6 +105,6 @@ Amanda Silberling is a senior writer at TechCrunch covering the intersection of 
 
 You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.
 
- 
+
 
 View Bio

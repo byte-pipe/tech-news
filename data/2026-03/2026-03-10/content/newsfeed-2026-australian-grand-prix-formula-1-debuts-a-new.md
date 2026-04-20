@@ -29,47 +29,47 @@ That wasn’t entirely clear after six days of preseason testing in Bahrain, nor
 It wasn’t all smooth running for Antonelli, who tore three corners off his car during the same practice session, giving his mechanics a monstrous job to rebuild it all in a few short hours for qualifying. That almost didn’t happen, until qualifying was interrupted with a red flag caused by an uncharacteristic crash for four-time world champion Max Verstappen, who ended up in a crash barrier right at the start of his first flying lap.
 
  A rear lockup sent Max Verstappen into the barrier during qualifying.
- 
+
 
  Paul Crock / AFP via Getty Images
- 
+
 
 A rear lockup sent Max Verstappen into the barrier during qualifying.
 
  Paul Crock / AFP via Getty Images
- 
+
 
  Verstappen’s crash threw a lifeline to Kimi Antonelli’s crew, who had time to rebuild their own car after Antonelli wrecked in practice a few hours earlier.
- 
+
 
  Mark Thompson/Getty Images
- 
+
 
 Verstappen’s crash threw a lifeline to Kimi Antonelli’s crew, who had time to rebuild their own car after Antonelli wrecked in practice a few hours earlier.
 
  Mark Thompson/Getty Images
- 
+
 
  McLaren’s Oscar Piastri was caught out by power unit weirdness on the way to the grid on Sunday, missing the race as a result of hitting the wall.
- 
+
 
  Dom Gibbons – Formula 1/Formula 1 via Getty Images
- 
+
 
 McLaren’s Oscar Piastri was caught out by power unit weirdness on the way to the grid on Sunday, missing the race as a result of hitting the wall.
 
  Dom Gibbons – Formula 1/Formula 1 via Getty Images
- 
+
 
 Verstappen’s crash threw a lifeline to Kimi Antonelli’s crew, who had time to rebuild their own car after Antonelli wrecked in practice a few hours earlier.
 
  Mark Thompson/Getty Images
- 
+
 
 McLaren’s Oscar Piastri was caught out by power unit weirdness on the way to the grid on Sunday, missing the race as a result of hitting the wall.
 
  Dom Gibbons – Formula 1/Formula 1 via Getty Images
- 
+
 
 “I’ve never experienced something like that before in my career. The rear axle just completely locked on, then of course you can’t save that anymore at that speed,” Verstappen told the media. Red Bull hasn’t yet revealed the precise cause of Verstappen’s crash, which forced him to start Sunday’s race from the back of the grid, but it’s likely related to the way the car’s electric motor can harvest more than half of the power output from the V6 engine.
 
@@ -82,22 +82,22 @@ If you are a relatively recent F1 fan, you may have only watched the sport durin
 Completely disassembling them and putting them back together overnight didn’t help, a practice that ended some years ago, but mostly it was technical rules that required teams to use the same engines for multiple races. Until 2004, you could use multiple engines in a single race weekend; by 2009, each driver was only allowed to use eight engines during a single season. Now, the limit is just three engines, and the same for the components of the hybrid systems, with grid penalties for drivers who exceed these limits.
 
  Aston Martin got enough running this weekend to shave two seconds off its lap time deficit to the front-runners.
- 
+
 
  Credit:
  Martin KEEP / AFP via Getty Images
- 
+
 
  Aston Martin got enough running this weekend to shave two seconds off its lap time deficit to the front-runners.
 
- 
+
 
  Credit:
 
- 
+
  Martin KEEP / AFP via Getty Images
 
- 
+
 
 That has been a rare occurrence of late, since the previous power units had been relatively stable since 2014 and were thus well-understood. But multiple drivers had issues this weekend in Oz. On Friday, we already discussed the vibration problem that limited Aston Martin’s running in preseason testing and during the first day of practice. That didn’t get much better for the team in green, which used Sunday’s race as a test session: Fernando Alonso completed 21 laps in total; Lance Stroll did 43 and actually took the finish—although it wasn’t classified, as the race distance was 58 laps.
 
@@ -110,22 +110,22 @@ Verstappen’s teammate, Isack Hadjar, had done the seemingly impossible for a R
 That said, the other 16 cars did finish, including the Cadillac of Sergio Perez. Cadillac has managed to stand up a team from scratch and, since then, meet every deadline it needed to. Now, it has the rest of the season to show us it can make its car fast, something that equally applies to Williams and Aston Martin.
 
  Audi looks to have landed in the midfield at the start of its F1 adventure.
- 
+
 
  Credit:
  Joe Portlock/Getty Images
- 
+
 
  Audi looks to have landed in the midfield at the start of its F1 adventure.
 
- 
+
 
  Credit:
 
- 
+
  Joe Portlock/Getty Images
 
- 
+
 
 Audi had an almost as monumental task as Cadillac, designing and building a new power unit to install in what was the Sauber team before the German OEM took control. Aside from Hulkenberg’s problem, it had a pretty good debut. The cars lined up 10th and 11th for the race, and Gabriel Bortoleto showed off the talent that won him an F2 championship in his first year by finishing in 9th place, scoring the outfit points on its debut. Audi looks like a solid midfield contender, alongside Haas and Racing Bulls.
 
@@ -140,22 +140,22 @@ The Ferraris of Leclerc and Hamilton probably weren’t fast enough to have won 
 The peculiarity of these new hybrid power units has demanded a new way to be fast, particularly at the temporary circuit formed around the roads of Melbourne’s Albert Park, which lacks the heavy braking zones of most F1 tracks. This was evident with the cars decelerating well before the turn 9-10 complex as the engines diverted so much of their power away from the rear wheels and through the electric motor into the battery to use later in the lap. While not quite coasting, the drivers were clearly trying to maintain as much momentum as possible with little power actually going to the tires.
 
  Twenty-two drivers, 22 opinions.
- 
+
 
  Credit:
  Jayce Illman/Getty Images
- 
+
 
  Twenty-two drivers, 22 opinions.
 
- 
+
 
  Credit:
 
- 
+
  Jayce Illman/Getty Images
 
- 
+
 
 Whether they approved of this or not seems to rest on whether they have a fast car.
 
@@ -170,37 +170,37 @@ Whether they approved of this or not seems to rest on whether they have a fast c
 Outside the top four, the verdict was less impressed—Verstappen in particular. And I noted with interest a press release this morning from Red Bull that his GT3 team announced that the four-time F1 champion will contest the 2026 Nurburgring 24-hour race in May, plus the qualifying races that lead up to it. Verstappen will race alongside Jules Gounon, Dani Juncadella, and Lucas Auer in a Mercedes-AMG GT3 after securing his permit to race at the fearsome German circuit last year. With little left to prove in F1, there is absolutely a greater than zero chance the Dutch driver walks away from single-seaters next year—at least until the next F1 rule change—to try and win endurance races like Le Mans.
 
  Red Bull had someone BASE jump into this cooling tower to unveil the livery on Verstappen’s GT3 car.
- 
+
 
  Credit:
  Mihai Stetcu / Red Bull Content Pool
- 
+
 
  Red Bull had someone BASE jump into this cooling tower to unveil the livery on Verstappen’s GT3 car.
 
- 
+
 
  Credit:
 
- 
+
  Mihai Stetcu / Red Bull Content Pool
 
- 
+
 
 But that will surely depend on how well things go over the next few races, the next of which takes place next weekend in Shanghai, China. For now, I’m cautiously optimistic. The first few races of the season are on tracks that won’t play to these hybrids’ strengths, and it’s easy to reflexively hate anything new. But the racing on Sunday was more than entertaining enough, even if it wasn’t quite the same as we saw last year.
 
  Jonathan M. Gitlin
- 
+
 
 Automotive Editor
 
  Jonathan M. Gitlin
- 
+
 
 Automotive Editor
 
  Jonathan is the Automotive Editor at Ars Technica. He has a BSc and PhD in Pharmacology. In 2014 he decided to indulge his lifelong passion for the car by leaving the National Human Genome Research Institute and launching Ars Technica's automotive coverage. He lives in Washington, DC.
- 
+
 
 1. 1.Satellite firm pauses imagery after revealing Iran's attacks on US bases
 2. 2.“It doesn't feel safe”—Many international game developers plan to skip GDC in US

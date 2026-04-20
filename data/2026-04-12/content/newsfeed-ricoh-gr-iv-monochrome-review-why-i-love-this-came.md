@@ -25,8 +25,8 @@ tags:
 The Ricoh GR IV Monochrome is the perfect everyday companion that makes the mundane feel interesting.
 
 by
- 
- 
+
+
 Antonio G. Di Benedetto
 Apr 12, 2026, 11:00 AM UTC
 * Link
@@ -36,7 +36,7 @@ Apr 12, 2026, 11:00 AM UTC
 If you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement.
 
 No frills, all artsy thrills.
- 
+
 | Photo: Antonio G. Di Benedetto / The Verge
 * Tech
 * Gadgets
@@ -47,8 +47,8 @@ No frills, all artsy thrills.
 The Ricoh GR IV Monochrome is the perfect everyday companion that makes the mundane feel interesting.
 
 by
- 
- 
+
+
 Antonio G. Di Benedetto
 Apr 12, 2026, 11:00 AM UTC
 * Link
@@ -58,7 +58,7 @@ Apr 12, 2026, 11:00 AM UTC
 If you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement.
 
 Antonio G. Di Benedetto
- 
+
 is a reviewer covering laptops and the occasional gadget. He spent over 15 years in the photography industry before joining The Verge as a deals writer in 2021.
 
 I love black-and-white photography. I also adore compact cameras you can always have by your side. So I’m a total mark for the Ricoh GR IV Monochrome, a fixed-lens camera that can’t zoom and can’t record color — at all. It’s a formula that makes the average person ask, “Why?”
@@ -99,7 +99,7 @@ Next
 1
 /
 15
-The $120 
+The $120
 Ricoh GF-2
  add-on flash is a great addition for the camera. It’s best for close-up subjects, but it creates a nice high-key look in black and white.
 
@@ -174,19 +174,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

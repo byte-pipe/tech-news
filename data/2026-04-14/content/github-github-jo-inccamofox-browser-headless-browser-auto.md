@@ -11,7 +11,7 @@ description: Headless browser automation server for AI agents to visit sites tha
 
 jo-inc
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork203
 * Star2.1k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -143,12 +143,12 @@ Anti-detection browser server for AI agents, powered by Camoufox
 
 Standing on the mighty shoulders ofCamoufox- a Firefox fork with fingerprint spoofing at the C++ level.The same engine behindJo— an AI assistant that doesn't need you to babysit it. Runs half on your Mac, half on a dedicated cloud machine that only you use. Available on macOS, Telegram, and WhatsApp.Try the beta free →
 
-git clone https://github.com/jo-inc/camofox-browser 
+git clone https://github.com/jo-inc/camofox-browser
 &&
- 
+
 cd
  camofox-browser
-npm install 
+npm install
 &&
  npm start
 
@@ -194,7 +194,7 @@ yt-dlp
 YouTube transcript extraction (fast path)
 
 pip install yt-dlp
- or 
+ or
 brew install yt-dlp
 
 The Docker image includes yt-dlp. For local dev, install it for the/youtube/transcriptendpoint. Without it, the endpoint falls back to a slower browser-based method.
@@ -214,7 +214,7 @@ git clone https://github.com/jo-inc/camofox-browser
 cd
  camofox-browser
 npm install
-npm start 
+npm start
 #
  downloads Camoufox on first run (~300MB)
 
@@ -293,12 +293,12 @@ Install a browser extension that exports Netscape-format cookie files (e.g., "co
 
 4. Place the cookie file:
 
-mkdir -p 
+mkdir -p
 ~
 /.camofox/cookies
-cp 
+cp
 ~
-/Downloads/linkedin_cookies.txt 
+/Downloads/linkedin_cookies.txt
 ~
 /.camofox/cookies/linkedin.txt
 
@@ -334,17 +334,17 @@ Camoufox browser session (authenticated browsing)
 #### Standalone server usage
 
 curl -X POST http://localhost:9377/sessions/agent1/cookies \
- -H 
+ -H
 '
 Content-Type: application/json
 '
  \
- -H 
+ -H
 '
 Authorization: Bearer YOUR_CAMOFOX_API_KEY
 '
  \
- -d 
+ -d
 '
 {"cookies":[{"name":"foo","value":"bar","domain":"example.com","path":"/","expires":-1,"httpOnly":false,"secure":false}]}
 '
@@ -357,14 +357,14 @@ docker run -p 9377:9377 \
 your-generated-key
 "
  \
- -v 
+ -v
 ~
 /.camofox/cookies:/home/node/.camofox/cookies:ro \
  camofox-browser
 
 For Fly.io:
 
-fly secrets 
+fly secrets
 set
  CAMOFOX_API_KEY=
 "
@@ -517,12 +517,12 @@ Health check requests (/health) are excluded from request logging to reduce nois
  Create a tab
 
 curl -X POST http://localhost:9377/tabs \
- -H 
+ -H
 '
 Content-Type: application/json
 '
  \
- -d 
+ -d
 '
 {"userId": "agent1", "sessionKey": "task1", "url": "https://example.com"}
 '
@@ -530,7 +530,7 @@ Content-Type: application/json
 #
  Get accessibility snapshot with element refs
 
-curl 
+curl
 "
 http://localhost:9377/tabs/TAB_ID/snapshot?userId=agent1
 "
@@ -542,12 +542,12 @@ http://localhost:9377/tabs/TAB_ID/snapshot?userId=agent1
  Click by ref
 
 curl -X POST http://localhost:9377/tabs/TAB_ID/click \
- -H 
+ -H
 '
 Content-Type: application/json
 '
  \
- -d 
+ -d
 '
 {"userId": "agent1", "ref": "e1"}
 '
@@ -556,12 +556,12 @@ Content-Type: application/json
  Type into an element
 
 curl -X POST http://localhost:9377/tabs/TAB_ID/type \
- -H 
+ -H
 '
 Content-Type: application/json
 '
  \
- -d 
+ -d
 '
 {"userId": "agent1", "ref": "e2", "text": "hello", "pressEnter": true}
 '
@@ -570,12 +570,12 @@ Content-Type: application/json
  Navigate with a search macro
 
 curl -X POST http://localhost:9377/tabs/TAB_ID/navigate \
- -H 
+ -H
 '
 Content-Type: application/json
 '
  \
- -d 
+ -d
 '
 {"userId": "agent1", "macro": "@google_search", "query": "best coffee beans"}
 '
@@ -638,9 +638,9 @@ GET
 
 /tabs/:id/snapshot
 
-Accessibility snapshot with element refs. Query params: 
+Accessibility snapshot with element refs. Query params:
 includeScreenshot=true
- (add base64 PNG), 
+ (add base64 PNG),
 offset=N
  (paginate large snapshots)
 
@@ -690,24 +690,24 @@ GET
 
 /tabs/:id/images
 
-List 
+List
 <img>
- elements. Query params: 
+ elements. Query params:
 includeData=true
- (return inline data URLs), 
+ (return inline data URLs),
 maxBytes=N
-, 
+,
 limit=N
 
 GET
 
 /tabs/:id/downloads
 
-List captured downloads. Query params: 
+List captured downloads. Query params:
 includeData=true
- (base64 file data), 
+ (base64 file data),
 consume=true
- (clear after read), 
+ (clear after read),
 maxBytes=N
 
 GET
@@ -749,12 +749,12 @@ POST
 Extract captions from a YouTube video
 
 curl -X POST http://localhost:9377/youtube/transcript \
- -H 
+ -H
 '
 Content-Type: application/json
 '
  \
- -d 
+ -d
 '
 {"url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ", "languages": ["en"]}
 '
@@ -841,7 +841,7 @@ Enable cookie import endpoint (disabled if unset)
 
 CAMOFOX_ADMIN_KEY
 
-Required for 
+Required for
 POST /stop
 
 -
@@ -899,7 +899,7 @@ Node.js V8 heap limit (MB)
 
 PROXY_STRATEGY
 
-Proxy mode: 
+Proxy mode:
 backconnect
  (rotating sticky sessions) or blank (single endpoint)
 
@@ -907,7 +907,7 @@ backconnect
 
 PROXY_PROVIDER
 
-Provider name for session format (e.g. 
+Provider name for session format (e.g.
 decodo
 )
 
@@ -984,21 +984,21 @@ When a session's tab limit is reached, the oldest/least-used tab is automaticall
 
 ## Testing
 
-npm 
+npm
 test
- 
+
 #
  all tests
 
-npm run test:e2e 
+npm run test:e2e
 #
  e2e tests only
 
-npm run test:live 
+npm run test:live
 #
  live site tests (Google, macros)
 
-npm run test:debug 
+npm run test:debug
 #
  with server output
 
@@ -1028,56 +1028,56 @@ Headless browser automation server for AI agents to visit sites that are usually
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 2.1k
 
  stars
- 
+
 
 ### Watchers
 
 9
 
  watching
- 
+
 
 ### Forks
 
 203
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases6
 
@@ -1085,11 +1085,11 @@ v1.5.0 — Proxy Providers, Google Bot Detection, Tab Recycling
 
  Latest
 
- 
+
 
 Apr 6, 2026
 
- 
+
 
 + 5 releases
 
@@ -1105,17 +1105,17 @@ Apr 6, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1123,9 +1123,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

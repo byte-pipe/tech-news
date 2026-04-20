@@ -20,10 +20,10 @@ tags:
 
 # Anthropic adds routines to redesigned Claude Code, here’s how it works
 
- 
+
 
 Zac Hall
- | Apr 14 2026 - 10:13 am PT																
+ | Apr 14 2026 - 10:13 am PT
 
 Anthropic’s Claude Code has a new repeatable routines feature that works even when your Mac is offline. Claude Code, part of the Claude app for Mac, has also been redesigned with new features.
 
@@ -71,27 +71,27 @@ Withings Body Comp | Best smart scale for Apple Health
 
 FTC: We use income earning auto affiliate links.More.
 
-You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out 
+You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out
 our homepage
- for all the latest news, and follow 9to5Mac on 
+ for all the latest news, and follow 9to5Mac on
 Twitter
-, 
+,
 Facebook
-, and 
+, and
 LinkedIn
- to stay in the loop. Don’t know where to start? Check out our 
+ to stay in the loop. Don’t know where to start? Check out our
 exclusive stories
-, 
+,
 reviews
-, 
+,
 how-tos
-, and 
+, and
 subscribe to our YouTube channel
- 
+
 
 Check out 9to5Mac on YouTube for more Apple news:
 
- 
+
 
 ## Comments
 
@@ -107,10 +107,10 @@ Claude Code
 
 ## Author
 
- 
 
-			Zac Hall		
 
-apollozac			
+			Zac Hall
+
+apollozac
 
 Zac covers Apple news, hosts the 9to5Mac Happy Hour podcast, and created SpaceExplored.com.

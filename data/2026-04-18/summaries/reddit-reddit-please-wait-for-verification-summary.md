@@ -1,7 +1,7 @@
 ---
 title: Reddit - Please wait for verification
 url: https://www.reddit.com/r/worldnews/comments/1snrdpv/japans_foreign_affairs_minister_criticizes_white/
-date: 
+date:
 site: reddit
 model: llama3.2:1b
 summarized_at: 2026-04-18T06:13:10.001414

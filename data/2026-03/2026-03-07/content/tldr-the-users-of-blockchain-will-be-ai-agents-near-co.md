@@ -26,14 +26,14 @@ Email
 ## Polosukhin argues that AI will become the primary interface layer for everything online, including crypto, abstracting away wallets, explorers and transaction hashes.
 
 By
- 
+
 Margaux Nijkerk
 |
 Edited by
- 
+
 Stephen Alpher
- 
-Mar 3, 2026, 5:28 p.m. 
+
+Mar 3, 2026, 5:28 p.m.
 Make us preferred on Google
 
 #### What to know:
@@ -84,7 +84,7 @@ More For You
 ### Pudgy Penguins: Challenging the Pokemon and Disney Legacy in the Global IP Race
 
 By
- 
+
 CoinDesk Research
 Feb 27, 2026
 Commissioned by
@@ -102,11 +102,11 @@ More For You
 Ethereum Foundation wants the network to be the trust layer for AI
 
 By
- 
+
 Margaux Nijkerk
 |
 Edited by
- 
+
 Stephen Alpher
 Mar 4, 2026
 
@@ -119,7 +119,7 @@ What to know:
 * Davide Crapis, theAI lead at the EF, argues that the motivation is as philosophical as it is technical.
 Read full story
 Latest Crypto News
- 
+
 
 #### U.S. unexpectedly lost 92,000 jobs in February, unemployment rate rose to 4.4%
 

@@ -14,7 +14,7 @@ tags:
 
 ocaml
 
- 
+
 
 /
 
@@ -28,7 +28,7 @@ Public
 
 ## Conversation
 
- 
+
 
 Contributor
 
@@ -37,70 +37,70 @@ Contributor
 This patch adds a new C++ backend toocamlc, improving on the unincremented C currently in use by the runtime and FFI. As an example, here's a simple program that computes the prime numbers up to a user-specifiedlimit:
 
 module
- 
+
 List
- 
+
 =
- 
+
 struct
 
- 
+
 let
- 
-rec 
+
+rec
 filter
- 
+
 p
- 
+
 =
- 
+
 function
 
- 
+
 |
- 
+
 []
- -> 
+ ->
 []
 
- 
+
 |
- 
+
 x
- :: 
+ ::
 l
- -> 
+ ->
 if
- p x 
+ p x
 then
- x :: filter p l 
+ x :: filter p l
 else
  filter p l
 
- 
+
 let
- 
-rec 
+
+rec
 init
- 
+
 i
- 
+
 last
- 
+
 f
- 
+
 =
 
- 
+
 if
- i 
+ i
 >
- last 
+ last
 then
- 
+
 []
 
- 
+
 else
  f i :: init (i
 +
@@ -110,74 +110,74 @@ else
 end
 
 let
- 
+
 primes
- 
+
 n
- 
+
 =
 
- 
+
 let
- 
-rec 
+
+rec
 sieve
- 
+
 candidates
- 
+
 =
 
- 
+
 match
- candidates 
+ candidates
 with
 
- 
+
 |
- 
+
 []
- -> 
+ ->
 []
 
- 
+
 |
- 
+
 p
- :: 
+ ::
 ps
  -> p :: sieve (
 List.
 filter (
 fun
- 
+
 n
- -> n 
+ -> n
 mod
- p 
+ p
 <>
- 
+
 0
 ) ps)
- 
+
 in
 
  sieve (
 List.
-init 
+init
 2
  n (
 fun
- 
+
 i
  -> i))
 
 let
- 
+
 main
- 
+
 ~
 limit
- 
+
 =
  primes limit
 
@@ -389,49 +389,49 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 😄
 
 77
 
- 
+
 priamfive, Gbury, bluddy, redianthus, dra27, MisterDA, Keryan-dev, S41d, nberth, yakobowski, and 67 more reacted with laugh emoji
 
- 
+
 ❤️
 
 52
 
- 
+
 gasche, Ekdohibs, Octachron, dra27, MisterDA, kayceesrk, Keryan-dev, mseri, dancrossnyc, TheLortex, and 42 more reacted with heart emoji
 
- 
+
 🚀
 
 10
 
- 
+
 brendanzab, harrisonturton, MarcusLages, LoganDark, soerlemans, ajbt200128, Splingush, giltho, heavyrain266, and clarus reacted with rocket emoji
 
- 
+
 
 All reactions
 
- 
 
- 
+
+
 
 incr c;
 
 f89996a
 
- 
 
- 
+
+
 
 Member
 
@@ -442,197 +442,197 @@ This is amazing!
 I am curious about its ability to handle non-uniform recursive datatypes.Have you tried it?For instance:
 
 module
- 
+
 List
- 
+
 =
- 
+
 struct
 
- 
+
 let
- 
-rec 
+
+rec
 init
- 
+
 i
- 
+
 last
- 
+
 f
- 
+
 =
 
- 
+
 if
- i 
+ i
 >
- last 
+ last
 then
- 
+
 []
 
- 
+
 else
  f i :: init (i
 +
 1
 ) last f
 
- 
+
 let
- 
-rec 
+
+rec
 fold_right
- 
+
 f
- 
+
 l
- 
+
 acc
- 
+
 =
 
- 
+
 match
- l 
+ l
 with
 
- 
+
 |
- 
+
 []
  -> acc
- 
+
 |
- 
+
 hd
- :: 
+ ::
 l
  -> f hd (fold_right f l acc)
 
 end
 
 type
- 
-'a t 
+
+'a t
 =
- | 
+ |
 Nil
 
- | 
+ |
 Zero
- 
+
 of
  (
 'a
- 
+
 *
- 
+
 'a
-) 
+)
 t
 
- | 
+ |
 One
- 
+
 of
- 
+
 'a
- 
+
 *
  (
 'a
- 
+
 *
- 
+
 'a
-) 
+)
 t
 
 let
- 
-rec 
+
+rec
 cons
- : 
-'a. 'a -> 'a t -> 'a t 
+ :
+'a. 'a -> 'a t -> 'a t
 =
- 
+
 fun
- 
+
 x
- -> 
+ ->
 function
 
- 
+
 |
- 
+
 Nil
- -> 
+ ->
 One
- (x, 
+ (x,
 Nil
 )
- 
+
 |
- 
+
 Zero
- 
+
 s
- -> 
+ ->
 One
  (x, s)
- 
+
 |
- 
+
 One
  (
 y
-, 
+,
 s
-) -> 
+) ->
 Zero
  (cons (x, y) s)
 
 let
- 
+
 ral
- 
+
 limit
- 
+
 =
 
- 
+
 let
- l 
+ l
 =
- 
+
 List.
-init 
+init
 0
  (pred limit) (
 fun
- 
+
 x
- -> x) 
+ -> x)
 in
 
- 
+
 List.
-fold_right cons l 
+fold_right cons l
 Nil
 
 let
- 
+
 main
- 
+
 ~
 limit
- 
+
 =
  ral limit
 
- 
+
 
 All reactions
 
@@ -642,23 +642,23 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 support %predint
 
 fe2eeb3
 
- 
 
- 
+
+
 
 Member
 
@@ -666,7 +666,7 @@ Member
 
 Glorious! And a particular shout-out to the copyright headers' appeasing ofcheck-typo's header state machine 😂
 
- 
+
 
 All reactions
 
@@ -676,13 +676,13 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 Contributor
 
@@ -692,15 +692,15 @@ Author
 
 @redianthusNon-uniform recursive datatypes work fine. Your example doesn't work at the moment because of the use ofStdlib.predwhich uses an unimplemented primitive%predint, but it works if you uselimit - 1instead (just pushed a fix for predint, though, so either should work now)
 
- 
+
 ❤️
 
 3
 
- 
+
 redianthus, avsm, and LudWittg reacted with heart emoji
 
- 
+
 
 All reactions
 
@@ -710,13 +710,13 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 Member
 
@@ -724,15 +724,15 @@ Member
 
 Hang on, I said I needed C--, not C++! Can we just agree on C# instead?
 
- 
+
 😄
 
 10
 
- 
+
 talex5, omarjatoi, JohnMatthiasWabwire, argson67, mkhan45, Sari-06, mwerezak, curche, heavyrain266, and thefossguy reacted with laugh emoji
 
- 
+
 
 All reactions
 
@@ -742,19 +742,19 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 ### sergezlotocommentedApr 2, 2026
 
 Lovely!Quick, someone merge this pr!
 
- 
+
 
 All reactions
 
@@ -764,28 +764,28 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ducminhgd
 
  mentioned this pull request
- 
+
 
 Apr 2, 2026
 
  Daily News Digest - 2026-04-02
- 
+
 ducminhgd/gossip-bot#279
 
- 
+
 
  Open
 
- 
+
 
 ### AdelKScommentedApr 2, 2026•edited
 
@@ -795,33 +795,33 @@ I couldn't resist a probably dumb question: why translate using templates instea
 
 #
 include
- 
+
 <
 array
 >
 
 #
 include
- 
+
 <
 cstddef
 >
 
 #
 include
- 
+
 <
 algorithm
 >
 
 using
- 
+
 namespace
- 
+
 std
 ;
 
-template 
+template
 <
 size_t
  max_prime>
@@ -831,7 +831,7 @@ consteval
 size_t
 , max_prime/
 2
-> 
+>
 get_primes
 () {
  array<
@@ -839,9 +839,9 @@ size_t
 , max_prime/
 2
 > res;
- 
+
 ranges::fill
-(res, 
+(res,
 0
 );
 
@@ -851,80 +851,80 @@ bool
 1
 > is_prime = {
 false
-, 
+,
 false
-, 
+,
 true
 };
- 
+
 ranges::fill
 (is_prime.
 begin
-() + 
+() +
 3
 , is_prime.
 end
-(), 
+(),
 true
 );
 
- 
+
 for
  (
 size_t
- i = 
+ i =
 2
  ; i*i <= max_prime ; i++ )
- 
+
 for
  (
 size_t
- j = 
+ j =
 2
  ; j*i <= max_prime ; j++)
- is_prime[i*j] = 
+ is_prime[i*j] =
 false
 ;
 
- 
+
 size_t
- prime_index = 
+ prime_index =
 0
 ;
- 
+
 for
  (
 size_t
- i = 
+ i =
 0
  ; i <= max_prime; i++)
- 
+
 if
  (is_prime[i])
  {
  res[prime_index] = i;
  prime_index++;
- } 
- 
+ }
+
 return
  res;
 }
 
 int
- 
+
 main
 () {
  [[maybe_unused]]
 constexpr
- 
+
 auto
  primes = get_primes<
 100
 >();
 
- 
+
 return
- 
+
 0
 ;
 }
@@ -979,15 +979,15 @@ and you see the results inside the binary basically 🤔
 
 Note that I wrote declarative code here but nothing prevents from translating things with a closer (1-to-1?) functional approach, Franken-C++ should have everything need 🤔
 
- 
+
 👍
 
 1
 
- 
+
 soerlemans reacted with thumbs up emoji
 
- 
+
 
 All reactions
 
@@ -997,13 +997,13 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 ### LoganDarkcommentedApr 2, 2026
 
@@ -1011,15 +1011,15 @@ why translate using templates instead ofconstexprevaluation
 
 The love of the game.
 
- 
+
 😄
 
 6
 
- 
+
 soerlemans, justjake, quartztz, AdelKS, harubi, and thefossguy reacted with laugh emoji
 
- 
+
 
 All reactions
 
@@ -1029,30 +1029,30 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 claude-yolo
 
 bot
 
  mentioned this pull request
- 
+
 
 Apr 2, 2026
 
  Code Leaks, Subscription Bombs, and OCaml Goes C++
- 
+
 thevibeworks/claude-reads-hn#669
 
- 
+
 
  Open
 
- 
+
 
 Member
 
@@ -1064,7 +1064,7 @@ Indeed, before, the following code would make the compiler loop forever:
 
 #
 include
- 
+
 <
 iostream
 >
@@ -1075,127 +1075,127 @@ typename
  T>
 
 struct
- 
+
 Enum
  {
- 
+
 enum
  Kind { NIL, ZERO, ONE } kind;
 
  T head;
  Enum<std::pair<T, T>>* sub;
 
- 
+
 static
- Enum 
+ Enum
 Nil
 () {
- 
+
 return
  {NIL};
  }
 
- 
+
 static
- Enum 
+ Enum
 Zero
 (Enum<std::pair<T, T>>* s) {
- 
+
 return
  {ZERO, T{}, s};
  }
 
- 
+
 static
- Enum 
+ Enum
 One
 (T h, Enum<std::pair<T, T>>* t) {
- 
+
 return
  {ONE, h, t};
  }
 
- 
+
 size_t
- 
+
 len
-() 
+()
 const
  {
- 
+
 switch
  (kind) {
- 
+
 case
  NIL:
- 
+
 return
- 
+
 0
 ;
- 
+
 case
  ZERO:
- 
+
 return
- 
+
 2
  * sub->
 len
 ();
- 
+
 case
  ONE:
- 
+
 return
- 
+
 1
- + 
+ +
 2
  * sub->
 len
 ();
  }
- 
+
 return
- 
+
 0
 ;
  }
 };
 
 int
- 
+
 main
 () {
- 
+
 auto
  val = Enum<
 size_t
 >::
 One
 (
- 
+
 42
 ,
- 
+
 new
  Enum<std::pair<
 size_t
-, 
+,
 size_t
 >>(Enum<std::pair<
 size_t
-, 
+,
 size_t
 >>::
 Nil
 ())
  );
 
- std::cout << 
+ std::cout <<
 "
-len: 
+len:
 "
  << val.
 len
@@ -1206,23 +1206,23 @@ Whereas now, people can use an impure language such as OCaml and get their purel
 
 Regarding your future work, I think Rust is a good direction for the same reason :
 
- 
+
 pub
- 
+
 enum
- 
+
 Enum
 <
 T
 >
- 
+
 {
 
- 
+
 Nil
 ,
 
- 
+
 Zero
 (
 Box
@@ -1232,7 +1232,7 @@ Enum
 (
 T
 ,
- 
+
 T
 )
 >
@@ -1240,22 +1240,22 @@ T
 )
 ,
 
- 
+
 One
- 
+
 {
- 
+
 head
- 
+
 :
- 
+
 T
 ,
- 
+
 tail
- 
+
 :
- 
+
 Box
 <
 Enum
@@ -1263,71 +1263,71 @@ Enum
 (
 T
 ,
- 
+
 T
 )
 >
 >
- 
+
 }
 ,
 
- 
+
 }
 
- 
+
 impl
 <
 T
 >
- 
+
 Enum
 <
 T
 >
- 
+
 {
 
- 
+
 pub
- 
+
 fn
- 
+
 len
 (
 &
 self
 )
- -> 
+ ->
 usize
- 
+
 {
 
- 
+
 match
- 
+
 self
- 
+
 {
 
- 
+
 Self
 ::
 Nil
- => 
+ =>
 0
 ,
 
- 
+
 Self
 ::
 Zero
 (
 sub
 )
- => 
+ =>
 2
- 
+
 *
  sub
 .
@@ -1336,21 +1336,21 @@ len
 )
 ,
 
- 
+
 Self
 ::
 One
- 
+
 {
  tail
 ,
- .. 
+ ..
 }
- => 
+ =>
 1
- + 
+ +
 2
- 
+
 *
  tail
 .
@@ -1358,51 +1358,51 @@ len
 (
 )
 
- 
+
 }
 
- 
+
 }
 
- 
+
 }
 
- 
+
 fn
- 
+
 main
 (
 )
- 
+
 {
 
- 
+
 let
  val
 :
- 
+
 Enum
 <
 usize
 >
  =
- 
+
 Enum
 ::
 One
- 
+
 {
- 
+
 head
- 
+
 :
- 
+
 42
 ,
- 
+
 tail
 :
- 
+
 Box
 ::
 new
@@ -1414,7 +1414,7 @@ Nil
 }
 ;
 
- 
+
 println
 !
 (
@@ -1428,12 +1428,12 @@ len
 )
 ;
 
- 
+
 }
 
 The Rust compiler can not handle this code and also loop forever!
 
- 
+
 
 All reactions
 
@@ -1443,13 +1443,13 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 ### dzmitry-lahodacommentedApr 2, 2026
 
@@ -1457,7 +1457,7 @@ In particular, as soon as Rustrust-lang/rust#31844, then it too should become ca
 
 i think Rust already capable to run OCaml programs viahttps://github.com/contextgeneric/cgp
 
- 
+
 
 All reactions
 
@@ -1467,39 +1467,39 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Foxhunt
 
  mentioned this pull request
- 
+
 
 Apr 2, 2026
 
  Daily Hacker News 02-04-2026
- 
+
 Foxhunt/daily-hackernews#632
 
- 
+
 
  Open
 
 blka
 
  mentioned this pull request
- 
+
 
 Apr 2, 2026
 
  Daily Hacker News 02-04-2026
- 
+
 blka/daily-hackernews#355
 
- 
+
 
  Open
 
@@ -1508,35 +1508,35 @@ github-actions
 bot
 
  mentioned this pull request
- 
+
 
 Apr 2, 2026
 
  Daily Content Summary 2026-04-02
- 
+
 jhengy/content-aggregator#444
 
- 
+
 
  Open
 
 ocaml
 
- deleted a comment from 
+ deleted a comment from
 
- 
+
 greydoubt
 
 Apr 2, 2026
 
- 
+
 
 Sign up for free
 
 to join this conversation on GitHub
 .
  Already have an account?
- 
+
 Sign in to comment
 
 Add this suggestion to a batch that can be applied as a single commit.

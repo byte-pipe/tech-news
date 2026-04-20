@@ -18,7 +18,7 @@ tags:
 Subscribe
 
 Sponsored by:
- Honeycomb — AI agents behave unpredictably. Get the context you need to debug what actually happened. 
+ Honeycomb — AI agents behave unpredictably. Get the context you need to debug what actually happened.
 Read the blog
 
 ## Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7
@@ -61,15 +61,15 @@ Today, even that loose connection to utility has been broken. I have enormous re
 
 If the thing you need is an SVG illustration of a pelican riding a bicycle though, right now Qwen3.6-35B-A3B running on a laptop is a better bet than Opus 4.7!
 
-Posted 
+Posted
 16th April 2026
- at 5:16 pm · Follow me on 
+ at 5:16 pm · Follow me on
 Mastodon
-, 
+,
 Bluesky
-, 
+,
 Twitter
- or 
+ or
 subscribe to my newsletter
 
 ## More recent articles
@@ -77,48 +77,48 @@ subscribe to my newsletter
 * Meta's new model is Muse Spark, and meta.ai chat has some interesting tools- 8th April 2026
 * Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me- 7th April 2026
 
- 
+
 
 This isQwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7by Simon Willison, posted on16th April 2026.
 
  ai
- 
+
 1963
 
  generative-ai
- 
+
 1742
 
  local-llms
- 
+
 154
 
  llms
- 
+
 1709
 
  anthropic
- 
+
 270
 
  claude
- 
+
 267
 
  qwen
- 
+
 54
 
  pelican-riding-a-bicycle
- 
+
 105
 
  llm-release
- 
+
 191
 
  lm-studio
- 
+
 19
 
 Previous:Meta's new model is Muse Spark, and meta.ai chat has some interesting tools
@@ -130,11 +130,11 @@ Sponsor me for$10/monthand get a curated email digest of the month's most import
 Pay me to send you less!
 
  Sponsor & subscribe
- 
 
- 
 
- 
+
+
+
 
 * Disclosures
 * Colophon

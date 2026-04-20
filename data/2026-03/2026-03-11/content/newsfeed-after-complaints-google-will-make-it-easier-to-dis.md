@@ -27,41 +27,41 @@ If you weren’t using Google Photos from the start, it can be hard to understan
 Google launched the beta Ask Photos experience in 2024, rolling it out slowly in the Photos app while it gathered feedback. Google got a whole lot of feedback, most of it negative. Ask Photos is intended to better respond to natural language queries, but it’s much slower than the traditional search, and the way it chooses the pictures to display seems much more prone to error. It was so bad that Google had to pause the full rollout of Ask Photos in summer 2025 to make vital improvements, although it’s still not very good.
 
  A toggle will soon appear in the Photos search tab to let you disable Ask Photos.
- 
+
 
  Credit:
  Google
- 
+
 
  A toggle will soon appear in the Photos search tab to let you disable Ask Photos.
 
- 
+
 
  Credit:
 
- 
+
  Google
 
- 
+
 
 Before this change, disabling Ask Photos required digging three levels deep in the settings. Now, Google will add an AI toggle to the top of the search tab. When flipped to the on position, you get the Gemini-powered Ask Photos search, complete with summaries and questionable grouping. Turn that off, and you’ll get the “fast classic search,” according to Ben-Yair.
 
 All is not lost for Ask Photos, though. Ben-Yair says the team is still re-tuning the model in hopes of streamlining the experience. Some of the “most popular searches” have been improved recently to provide higher-quality results. This has apparently led to improved feedback from users of the app. So don’t count Ask Photos out just yet. Google clearly wants to fully transition the Photos search experience to Gemini, but that’ll be harder to pull off now that there’s a prominent toggle that gives people the classic (and much better) search experience. Having both options side by side will really illustrate the problems with Ask Photos.
 
  Ryan Whitwam
- 
+
 
 Senior Technology Reporter
 
  Ryan Whitwam
- 
+
 
 Senior Technology Reporter
 
- Ryan Whitwam is a senior technology reporter at Ars Technica, covering the ways Google, AI, and mobile technology continue to change the world. Over his 20-year career, he's written for Android Police, ExtremeTech, Wirecutter, NY Times, and more. He has reviewed more phones than most people will ever own. You can 
+ Ryan Whitwam is a senior technology reporter at Ars Technica, covering the ways Google, AI, and mobile technology continue to change the world. Over his 20-year career, he's written for Android Police, ExtremeTech, Wirecutter, NY Times, and more. He has reviewed more phones than most people will ever own. You can
 follow him on Bluesky
 , where you will see photos of his dozens of mechanical keyboards.
- 
+
 
 1. 1.After falling far behind the rest of industry, Blue Origin creates new stock option plan
 2. 2.After outages, Amazon to make senior engineers sign off on AI-assisted changes

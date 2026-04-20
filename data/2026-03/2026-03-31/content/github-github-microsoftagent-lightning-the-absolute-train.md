@@ -11,7 +11,7 @@ description: The absolute trainer to light up AI agents. Contribute to microsoft
 
 microsoft
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.4k
 * Star16.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -228,49 +228,49 @@ If you find Agent Lightning useful in your research or projects, please cite our
 {
 luo2025agentlightningtrainai
 ,
- 
+
 title
 =
 {
 Agent Lightning: Train ANY AI Agents with Reinforcement Learning
 }
 ,
- 
+
 author
 =
 {
 Xufang Luo and Yuge Zhang and Zhiyuan He and Zilong Wang and Siyun Zhao and Dongsheng Li and Luna K. Qiu and Yuqing Yang
 }
 ,
- 
+
 year
 =
 {
 2025
 }
 ,
- 
+
 eprint
 =
 {
 2508.03680
 }
 ,
- 
+
 archivePrefix
 =
 {
 arXiv
 }
 ,
- 
+
 primaryClass
 =
 {
 cs.AI
 }
 ,
- 
+
 url
 =
 {
@@ -321,61 +321,61 @@ microsoft.github.io/agent-lightning/
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 16.1k
 
  stars
- 
+
 
 ### Watchers
 
 85
 
  watching
- 
+
 
 ### Forks
 
 1.4k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases7
 
@@ -383,11 +383,11 @@ Agent Lightning v0.3.0
 
  Latest
 
- 
+
 
 Dec 24, 2025
 
- 
+
 
 + 6 releases
 
@@ -395,9 +395,9 @@ Dec 24, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -405,9 +405,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

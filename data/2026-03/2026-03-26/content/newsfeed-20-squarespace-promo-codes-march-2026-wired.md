@@ -64,17 +64,17 @@ AI is everywhere, and here at WIRED, we know itall too well. Squarespace is jump
 Squarespace recentlyannounced their partnershipwith perplexity for AI optimization (AIO) tools. This basically means that Squarespace will serve as the website building and hosting partner for Perplexity’s browser, Comet, in an effort to build a seamless transition from AI-powered research to professional business building for users. Customers will be able to get fast guidance on domain registration, brand development, and design recommendations through the Comet AI chatbot.
 
 Molly Higgins
- is WIRED's Commerce Production and Operations Coordinator. She tests 
+ is WIRED's Commerce Production and Operations Coordinator. She tests
 mattresses
-, 
+,
 cat gadgets
-, 
+,
 pet hair vacuums
-, 
+,
 vegan meal kits
-, and helps oversee our 
+, and helps oversee our
 coupon program
-. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ... 
+. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ...
 Read More
 Commerce Production and Operations Coordinator
 * LinkedIn
@@ -107,7 +107,7 @@ Save on top services at LegalZoom, like LLC registration, incorporation, estate 
 Parker Hall
 Save Up to 67% With These Chirp Discount Codes and Deals
 Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.
-Boutayna Chokrane 
+Boutayna Chokrane
 Save With Our AT&T Promo Codes This March 2026
 Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.
 Kat Merck

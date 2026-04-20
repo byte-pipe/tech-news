@@ -163,7 +163,7 @@ Here's the ones I'm always using on top of more specialized instructions (like t
  start each file with a long comment explaining in detail what the feature is about and the different use cases;
 
 *
- maintain a 
+ maintain a
 `Design.md`
  document at the root of the app that documents all the features of the app;
 
@@ -236,7 +236,7 @@ To show you what's possible, here are a few applications I vibe-coded entirely f
 See other examples in therepoI created when I thought I will have the time to vibe code an app per week.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

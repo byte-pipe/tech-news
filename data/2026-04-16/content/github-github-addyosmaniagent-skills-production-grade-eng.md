@@ -11,7 +11,7 @@ description: Production-grade engineering skills for AI coding agents. - addyosm
 
 addyosmani
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork2.1k
 * Star16.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -195,7 +195,7 @@ git config --global url.
 "
 https://github.com/
 "
-.insteadOf 
+.insteadOf
 "
 git@github.com:
 "
@@ -235,9 +235,9 @@ GitHub Copilot
 
 Use agent definitions fromagents/as Copilot personas and skill content in.github/copilot-instructions.md. Seedocs/copilot-setup.md.
 
-Kiro IDE & CLI 
+Kiro IDE & CLI
 
- Skills for Kiro reside under ".kiro/skills/" and can be stored under Project or Global level. Kiro also supports Agents.md. See Kiro docs at 
+ Skills for Kiro reside under ".kiro/skills/" and can be stored under Project or Global level. Kiro also supports Agents.md. See Kiro docs at
 https://kiro.dev/docs/skills/
 
 Codex / Other Agents
@@ -406,7 +406,7 @@ Removing old systems, migrating users, or sunsetting features
 
 documentation-and-adrs
 
-Architecture Decision Records, API docs, inline documentation standards - document the 
+Architecture Decision Records, API docs, inline documentation standards - document the
 why
 
 Making architectural decisions, changing APIs, or shipping features
@@ -480,7 +480,7 @@ Every skill follows a consistent anatomy:
 │ │ name: lowercase-hyphen-name │ │
 │ │ description: Guides agents through [task].│ │
 │ │ Use when… │ │
-│ └───────────────────────────────────────────┘ │ 
+│ └───────────────────────────────────────────┘ │
 │ Overview → What this skill does │
 │ When to Use → Triggering conditions │
 │ Process → Step-by-step workflow │
@@ -567,53 +567,53 @@ Production-grade engineering skills for AI coding agents.
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 16.2k
 
  stars
- 
+
 
 ### Watchers
 
 127
 
  watching
- 
+
 
 ### Forks
 
 2.1k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases1
 
@@ -621,7 +621,7 @@ Agent Skills 0.5.0
 
  Latest
 
- 
+
 
 Apr 10, 2026
 
@@ -637,9 +637,9 @@ Apr 10, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -647,9 +647,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

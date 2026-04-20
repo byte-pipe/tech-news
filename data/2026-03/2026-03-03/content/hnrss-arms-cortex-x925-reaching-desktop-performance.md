@@ -96,7 +96,7 @@ Memory accesses are among the most complicated and performance critical operatio
 
 Address translations are cached in a standard two-level TLB setup. The L1 DTLB has 96 entries and is fully associative. A 2048 entry 8-way L2 TLB handles larger data footprints, and adds 6 cycles of latency. Zen 5 for comparison has the same L1 DTLB capacity and associativity, but a larger 4096 entry L2 DTLB that adds 7 cycles of latency. Another difference is that Zen 5 has a separate L2 ITLB for instruction-side translations, while Cortex X925 uses a unified L2 TLB for both instructions and data. AMD’s approach could further increase TLB reach, because data and instructions often reside on different pages.
 
-Store forwarding latency for integer accesses, using the methodology described at 
+Store forwarding latency for integer accesses, using the methodology described at
 https://blog.stuffedcow.net/2014/01/x86-memory-disambiguation/
  (ported over to aarch64)
 And adapting it to use vector registers with 128-bit stores and 64-bit loads

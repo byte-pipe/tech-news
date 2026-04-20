@@ -30,7 +30,7 @@ To Honda — and to many legacy automakers still early in the transition — an
 
 That’s a mistake, of course. Many automakers have found that dropping batteries into a car originally designed for an internal combustion engine doesn’t work out so well. It might shortcut the development cycle, but the resulting product ends up heavy, inefficient, and more costly to produce.
 
- 
+
 
 Techcrunch event
 
@@ -79,21 +79,21 @@ That already appears to be happening in China. Honda said as much in itsrecent e
 Topics
 
 Analysis
-, 
+,
 Climate
-, 
+,
 electric vehicles
-, 
+,
 Exclusive
-, 
+,
 honda
-, 
+,
 software defined vehicle
-, 
+,
 Transportation
- 
 
-			Tim De Chant	
+
+			Tim De Chant
 
 Senior Reporter, Climate
 
@@ -103,6 +103,6 @@ De Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and 
 
 You can contact or verify outreach from Tim by emailingtim.dechant@techcrunch.com.
 
- 
+
 
 View Bio

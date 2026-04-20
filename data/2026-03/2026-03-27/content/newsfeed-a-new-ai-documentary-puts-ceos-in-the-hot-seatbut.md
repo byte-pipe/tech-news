@@ -62,13 +62,13 @@ Triangle
 * What Happens When YouCan’t Get a Death Certificatein Gaza
 * Submit your questions forour livestream AMAon Big Tech and the military
 Miles Klee
- is a senior writer at WIRED covering digital culture in all its forms. He was previously a reporter at Rolling Stone and Mel magazine. He is the author of a novel, 
+ is a senior writer at WIRED covering digital culture in all its forms. He was previously a reporter at Rolling Stone and Mel magazine. He is the author of a novel,
 Ivyland
-, and a story collection, 
+, and a story collection,
 True False
-, as well as 
+, as well as
 Double Black Diamond
-, a fiction collection cowritten ... 
+, a fiction collection cowritten ...
 Read More
 Senior Writer, Culture
 

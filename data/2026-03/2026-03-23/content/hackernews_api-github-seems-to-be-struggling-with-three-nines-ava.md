@@ -17,7 +17,7 @@ tags:
 
 # GitHub appears to be struggling with measly three nines availability
 
- 
+
 
 ## Slowdowns, outages, and Copilot problems afflict code shack
 
@@ -44,10 +44,10 @@ GitHub's Service Level Agreement for Enterprise Cloud customers specifies 99.9 p
 
 The travails of GitHub customers highlight the need to plan for downtime as well as uptime. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

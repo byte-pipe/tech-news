@@ -35,9 +35,9 @@ Citizen Lab highlights one Tucson policeinternal quarterly reportthat describes 
 
 It is worth noting that Webloc is not Penlink's flagship product. It is an optional add-on for their main tool, Tangles, a web and social media investigations platform. Per Citizen Lab:
 
-According to leaked 
+According to leaked
 training
- 
+
 manuals
 , government and commercial customers can search for keywords and personal identifiers like names, email addresses, phone numbers, and usernames to identify online accounts and then analyze what they post, their interactions, relationships, activities, event attendances, and interests. They can monitor and profile individuals, create "target cards," receive alerts, analyze geolocation information extracted from posts and photos, and perform network analyses, for example, to identify groups based on their mutual friends or workplaces.
 
@@ -127,17 +127,17 @@ Cybersecurity & Tech
 
 
  Back to Top
- 
+
 
 ### Tom Uren
 
 
  Read More
- 
+
 
 
  Tom Uren writes Seriously Risky Business, a big-picture, policy-focused cyber security newsletter. He also co-hosts the Seriously Risky Business and Between Two Nerds podcasts that appear on the Risky Business News feed. He was formerly a Senior Analyst in the Australian Strategic Policy Institute's (ASPI) Cyber Policy Centre where he contributed to various projects including on offensive cyber capabilities, information operations, the Huawei debate in Australia and end-to-end encryption.
- 
+
 
 
 
@@ -173,15 +173,15 @@ Cybersecurity & Tech
 
 ## Subscribe to Lawfare
 
-Email Address 
+Email Address
 *
- 
 
-First Name 
 
-Last Name 
+First Name
 
-Newsletters 
+Last Name
+
+Newsletters
 
 * Today on Lawfare
 * The Week That Was

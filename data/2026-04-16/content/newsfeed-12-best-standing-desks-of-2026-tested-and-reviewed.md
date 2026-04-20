@@ -27,7 +27,7 @@ Best Overall
 Vari ComfortEdge Standing Desk
 Read more
 $799
- 
+
 
 Amazon (48x30)
 
@@ -35,11 +35,11 @@ My Favorite Desk
 Branch Four Leg Standing Desk
 Read more
 $949
- 
+
 $854
- 
+
 (10% off)
- 
+
 
 Branch
 
@@ -47,7 +47,7 @@ Most Accessorized Standing Desk
 Uplift V3 Standing Desk
 Read more
 $648
- 
+
 
 Amazon
 
@@ -55,11 +55,11 @@ Best Cable Management (and Magnets!)
 Secretlab Magnus Pro
 Read more
 $1,039
- 
+
 $899
- 
+
 (13% off)
- 
+
 
 Secretlab
 
@@ -203,13 +203,13 @@ Power up with unlimited access toWIRED. Get best-in-class reporting and exclusiv
 Back to top
 Triangle
 Julian Chokkattu
- is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ... 
+ is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ...
 Read More
 Senior Editor, Gear
 * LinkedIn
 * bluesky
 Nicole Kinning
- is a contributor at WIRED, focusing on testing mattresses and other home goods. Nicole has previously been on staff at Kansas City magazine, Better Homes & Gardens, and Hometalk. She’s rooted in Kansas City, and when she’s not clacking away at a keyboard, she enjoys brewery-hopping and thrifting. ... 
+ is a contributor at WIRED, focusing on testing mattresses and other home goods. Nicole has previously been on staff at Kansas City magazine, Better Homes & Gardens, and Hometalk. She’s rooted in Kansas City, and when she’s not clacking away at a keyboard, she enjoys brewery-hopping and thrifting. ...
 Read More
 Contributor
 * LinkedIn
@@ -228,7 +228,7 @@ Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “
 Brian Barrett
 Smart Smoke Detectors Aren’t the Smartest
 Every smart smoke alarm I’ve tested has one potentially fatal flaw, trading fewer nuisance alarms for a risky sensor strategy.
- Nena Farrell 
+ Nena Farrell
 These Are Our Favorite Standing Desks to Liven Up Your Workstation
 Take your home office to new heights with our favorite motorized standing desks.
 Nicole Kinning

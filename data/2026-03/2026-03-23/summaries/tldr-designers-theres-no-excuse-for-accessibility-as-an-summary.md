@@ -11,7 +11,7 @@ summarized_at: 2026-03-23T11:34:02.601893
 
 **The Importance of Accessible Design in Graphic Design**
 
-Designers often assume that accessibility equals less dynamic design or a box-ticking formality. However, designing for everyone is crucial, as it shapes how people experience the world. 
+Designers often assume that accessibility equals less dynamic design or a box-ticking formality. However, designing for everyone is crucial, as it shapes how people experience the world.
 
 **Breaking Down Barriers: The Role of Inclusive Design**
 
@@ -20,7 +20,7 @@ Designers often assume that accessibility equals less dynamic design or a box-ti
 
 **Why Accessibility Isn't Just a Boring Consideration**
 
-• Accessibility isn't limited to niche cases; it's essential for creating an inclusive experience throughout any project. 
+• Accessibility isn't limited to niche cases; it's essential for creating an inclusive experience throughout any project.
 
 • Structural issues prevent accessibility from being integrated as part of the design process, often leading to costly revisions down the line.
 • By building in accessibility into their briefs and kick-off conversations, studios can produce strategically and creatively sound work.

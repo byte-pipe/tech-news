@@ -30,7 +30,7 @@ Deductions are the amounts a retailer subtracts from what they owe a brand when 
 
 Some of the deductions are for valid reasons, but some aren’t — those are called invalid deductions, and they are tedious to track and manage on the backend. “These errors are surprisingly common,” Raju said, the company’s CEO said, adding that “a brand might ship inventory correctly but still be charged for a short shipment.”
 
- 
+
 
 Techcrunch event
 
@@ -71,19 +71,19 @@ Others are tackling invalid deduction with software, too, such as Revya and Conf
 Topics
 
 AI
-, 
+,
 cpg
-, 
+,
 retail
-, 
+,
 Startups
-, 
+,
 Venture
-, 
+,
 venture
- 
 
-			Dominic-Madori Davis	
+
+			Dominic-Madori Davis
 
 Senior Reporter, Venture
 
@@ -91,6 +91,6 @@ Dominic-Madori Davis is a senior venture capital and startup reporter at TechCru
 
 You can contact or verify outreach from Dominic by emailingdominic.davis@techcrunch.comor via encrypted message at +1 646 831-7565 on Signal.
 
- 
+
 
 View Bio

@@ -66,11 +66,11 @@ Submitting form
 
 By clicking submit, you agree to share your email address with the site owner and Mailchimp to receive marketing, updates, and other emails from the site owner. Use the unsubscribe link in those emails to opt out at any time.
 
-				Processing…			
+				Processing…
 
-				Success! You're on the list.			
+				Success! You're on the list.
 
-				Whoops! There was an error and we couldn't process your subscription. Please reload the page and try again.			
+				Whoops! There was an error and we couldn't process your subscription. Please reload the page and try again.
 
 ### Share this:
 

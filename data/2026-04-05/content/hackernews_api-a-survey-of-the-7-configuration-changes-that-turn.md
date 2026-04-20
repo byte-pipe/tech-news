@@ -70,7 +70,7 @@ Immediately on arrival, before any routing decision
 INPUT
 For packets destined for a local process
 FORWARD
-For packets passing 
+For packets passing
 through
  the machine to another host
 OUTPUT
@@ -260,9 +260,9 @@ ip_forward=1
 IPv4 stack enables FORWARD path
 L3
 br0
- bridge * 
-L2 
-L2 * 
+ bridge *
+L2
+L2 *
 nftables FORWARD chain
 Netfilter hook, packet policy
 L3/L4

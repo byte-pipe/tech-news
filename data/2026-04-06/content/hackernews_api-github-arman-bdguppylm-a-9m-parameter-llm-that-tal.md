@@ -15,7 +15,7 @@ tags:
 
 arman-bd
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork42
 * Star774
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -102,15 +102,15 @@ View all files
 A ~9M parameter LLM that talks like a small fish.
 
  
- 
- 
- 
 
  
- 
+
 
  
- 
+
+
+ 
+
 
 This project exists to show that training your own language model is not magic.No PhD required. No massive GPU cluster. One Colab notebook, 5 minutes, and you have a working LLM that you built from scratch — data generation, tokenizer, model architecture, training loop, and inference. If you can run a notebook, you can train a language model.
 
@@ -243,17 +243,17 @@ Generation
 Synthetic template composition
 
 from
- 
+
 datasets
- 
+
 import
- 
+
 load_dataset
 
 ds
- 
+
 =
- 
+
 load_dataset
 (
 "arman-bd/guppylm-60k-generic"
@@ -309,43 +309,43 @@ A ~9M parameter LLM that talks like a small fish.
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 774
 
  stars
- 
+
 
 ### Watchers
 
 4
 
  watching
- 
+
 
 ### Forks
 
 42
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -363,9 +363,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors1
 

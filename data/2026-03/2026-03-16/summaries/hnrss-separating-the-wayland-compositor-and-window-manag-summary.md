@@ -31,8 +31,8 @@ The traditional Wayland implementation combines a Wayland display server with a 
 
 1. Display servers separate: receive input
 2. Send it to window managers, but displays don’t help with rendering (and other compositor tasks) in that case
-3. Each `display server` tries its own version of the rendering solution based off user key bindings 
-4. There will be display events and changes made over several display servers: these can result in unnecessary round trips 
+3. Each `display server` tries its own version of the rendering solution based off user key bindings
+4. There will be display events and changes made over several display servers: these can result in unnecessary round trips
 
 ### river Solution Breaks Away from Traditional Wayland Architects
 

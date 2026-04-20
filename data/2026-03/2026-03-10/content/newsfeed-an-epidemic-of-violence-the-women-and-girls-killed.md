@@ -17,7 +17,7 @@ tags:
 Share
 Save
 Tarah Welsh, Naresh Puri, Tara Mewawalla and Jade Thompson
-BBC News 
+BBC News
 Share
 Save
 BBC

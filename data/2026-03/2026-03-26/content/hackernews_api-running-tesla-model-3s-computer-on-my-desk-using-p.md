@@ -45,7 +45,7 @@ I saw a couple of red LEDs start flashing, and the computer started up! Since I 
 
 This network does not have DHCP, so you have to manually set your IP address. The IP you select has to be192.168.90.X/24, and should be higher than192.168.90.105to not conflict with other hosts on the network. On Reddit, I found thecontents of an older/etc/hostsfilefrom a car which shows the hosts that are normally associated with specific IPs:
 
-192.168.90.100 cid ice # mcu 
+192.168.90.100 cid ice # mcu
 192.168.90.100 ic # only in Model X/S | IC = instrument cluster
 192.168.90.102 gw # gateway
 192.168.90.103 ap ape # ap = autopilot

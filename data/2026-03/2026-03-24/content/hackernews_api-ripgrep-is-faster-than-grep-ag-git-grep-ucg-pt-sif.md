@@ -179,7 +179,7 @@ If you’d like to buildripgrepfrom source, that is also easy to do.ripgrepis wr
 
 $ git clone git://github.com/BurntSushi/ripgrep
 
-$ 
+$
 cd
  ripgrep
 
@@ -226,10 +226,10 @@ and directories, use-uu. To additionally search binary files, use-uuu.
 (In other words, “search everything, dammit!”) In particular,rg -uuuis
 similar togrep -a -r.
 
-$ rg -uu foobar 
+$ rg -uu foobar
 # similar to `grep -r`
 
-$ rg -uuu foobar 
+$ rg -uuu foobar
 # similar to `grep -a -r`
 
 (Tip: If your ignore files aren’t being adhered to like you expect, run your
@@ -242,35 +242,35 @@ Force all matches to be surrounded by word boundaries with-w.
 
 Search and replace (find first and last names and swap them):
 
-$ rg 
+$ rg
 '([A-Z][a-z]+)\s+([A-Z][a-z]+)'
- --replace 
+ --replace
 '$2, $1'
 
 Named groups are supported:
 
-$ rg 
+$ rg
 '(?P<first>[A-Z][a-z]+)\s+(?P<last>[A-Z][a-z]+)'
- --replace 
+ --replace
 '$last, $first'
 
 Up the ante with full Unicode support, by matching any uppercase Unicode letter
 followed by any sequence of lowercase Unicode letters (good luck doing this
 with other search tools!):
 
-$ rg 
+$ rg
 '(\p{Lu}\p{Ll}+)\s+(\p{Lu}\p{Ll}+)'
- --replace 
+ --replace
 '$2, $1'
 
 Search only files matching a particular glob:
 
-$ rg foo -g 
+$ rg foo -g
 'README.*'
 
 Or exclude files matching a particular glob:
 
-$ rg foo -g 
+$ rg foo -g
 '!*.min.js'
 
 Search only HTML and CSS files:
@@ -284,7 +284,7 @@ $ rg -Tjs foobar
 To see a list of types supported, runrg --type-list. To add a new type, use--type-add, which must be accompanied by a pattern for searching (rgwon’t
 persist your type settings):
 
-$ rg --type-add 
+$ rg --type-add
 'foo:*.{foo,foobar}'
  -tfoo bar
 
@@ -412,24 +412,24 @@ slow” in this case means that it might take exponential time to complete a
 search. For example, try running this Python code:
 
 >>>
- 
+
 import
- 
+
 re
 
 >>>
- 
+
 re
 .
 search
 (
 '(a*)*c'
 ,
- 
+
 'a'
- 
+
 *
- 
+
 30
 )
 
@@ -470,18 +470,18 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 c
 
-$ ucg 
+$ ucg
 '(a*)*c'
  wat
 
-terminate called after throwing an instance of 
+terminate called after throwing an instance of
 'FileScannerException'
 
  what
 ()
 : PCRE2 match error: match limit exceeded
 
-Aborted 
+Aborted
 (
 core dumped
 )
@@ -730,7 +730,7 @@ You can use it like so:
 
 $ git clone git://github.com/BurntSushi/ripgrep
 
-$ 
+$
 cd
  ripgrep/benchsuite
 
@@ -756,7 +756,7 @@ $ ./benchsuite --dir /path/to/data/dir --list
 
 # --warmup-iter 3 --bench-iter 10.
 
-$ ./benchsuite --dir /path/to/data/dir 
+$ ./benchsuite --dir /path/to/data/dir
 '^subtitles_ru_literal$'
 
 If you don’t have all of the code search tools used in the benchmarks, then

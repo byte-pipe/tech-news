@@ -31,7 +31,7 @@ The $12 Device
  We are in full, knowing, and intentional noncompliance
  with the age verification requirements of Cal. Civ. Code
  § 1798.501(a).
- 
+
 
 ## Legal Standing
 
@@ -47,7 +47,7 @@ Some people have asked whether Ageless Linux is a "real" operating system,
  "Operating system provider" means a person or entity that develops,
  licenses, or controls the operating system software on a computer,
  mobile device, or any other general purpose computing device.
- 
+
 — Cal. Civ. Code § 1798.500(g)
 
 Ageless Linuxcontrols the operating system softwareon your
@@ -64,7 +64,7 @@ Furthermore, any individual who runs our conversion scriptalsobecomes a person w
  a user on a computer, a mobile device, or any other general purpose
  computing device that can access a covered application store or download
  an application.
- 
+
 — Cal. Civ. Code § 1798.500(c)
 
 Every package in the Debian repository is an application under this definition.cowsayis an application.sl(the steam locomotive typo corrector)
@@ -77,7 +77,7 @@ Every package in the Debian repository is an application under this definition.c
 #### Definition: "User"
 
  "User" means a child that is the primary user of the device.
- 
+
 — Cal. Civ. Code § 1798.500(i)
 
 Please note that under this statute, a "user" isby definitiona child.
@@ -98,7 +98,7 @@ Ageless Linux rejects this ontology. On Ageless Linux, everyone is a user,
  users of a computer, a mobile device, or any other general purpose
  computing device that can access a covered application store or can
  download an application.
- 
+
 — Cal. Civ. Code § 1798.500(e)(1)
 
 This website is a "publicly available internet website" that "distributes
@@ -239,11 +239,11 @@ The Ageless Device ships an IRC client. It lets you chat with strangers
 
  This app lets you chat with people on the internet.
 
- If you're a kid: 
+ If you're a kid:
 ask an adult before chatting online.
 
  That's not a legal requirement. It's just good advice.
- 
+
 
 That is what actual child safety looks like. It is a sentence of honest
  advice from a human being. It costs nothing. It requires no API, no
@@ -396,7 +396,7 @@ adduser
  5. You have now distributed an operating system to a minor
 
     with no age verification whatsoever.
- 
+
 
 The child is now a "user" as defined by§ 1798.500(i).
  You are an "account holder." Together, you are a compliance violation.
@@ -454,7 +454,7 @@ Ageless Linux does not categorize its users by age. This is not an invitation
 ### What Compliance Looks Like
 
  NONCOMPLIANT
- 
+
 
 Ageless Linux is infull, knowing, and intentional noncompliancewith the California Digital Age Assurance Act.
 
@@ -465,7 +465,7 @@ Below is a detailed accounting of each requirement imposed on operating system
 
  Provide an accessible interface at account setup that requires the
  account holder to indicate the birth date, age, or both, of the user.
- 
+
 
 NOT PROVIDED
 
@@ -473,36 +473,36 @@ NOT PROVIDED
 
  Provide a developer who has requested a signal with a digital signal
  via a reasonably consistent real-time API identifying the user's age bracket.
- 
+
 
 NOT PROVIDED
 
 § 1798.501(a)(3)
 
  Send only the minimum amount of information necessary to comply.
- 
+
 
 COMPLIANT ✓
 
  Rationale
- 
+
 
  Zero is the minimum.
- 
+
 
 § 1798.501(a)(3) (continued)
 
  Shall not share the digital signal information with a third party
  for a purpose not required by this title.
- 
+
 
 COMPLIANT ✓
 
  Rationale
- 
+
 
  Cannot share what does not exist.
- 
+
 
 Good Faith
 
@@ -513,7 +513,7 @@ Good Faith
  available technology and any reasonable technical limitations or outages,
  shall not be liable for an erroneous signal indicating a user's age
  range…
- 
+
 — Cal. Civ. Code § 1798.502(b)
 
 Ageless Linux has considered the available technology. The available technology
@@ -534,17 +534,17 @@ Follow the logic of the statute to its conclusion:
 1. THE ONLY "USERS" ARE CHILDREN
 
  § 1798.500(i): "User" means a child that is the primary user of the device.
- 
+
 
 2. "CHILDREN" ARE UNDER 18
 
  § 1798.500(d): "Child" means a natural person who is under 18 years of age.
- 
+
 
 3. WE DON'T COLLECT AGE DATA
 
  There is no age bracket signal. There is no interface. There is no API.
- 
+
 
 4. THEREFORE WE HAVE NO "USERS"
 
@@ -552,7 +552,7 @@ Follow the logic of the statute to its conclusion:
  Without a child, there is no "user." Without a "user,"
  there is no "affected child." Without an "affected child,"
  the penalty is $7,500 × 0 = $0.
- 
+
 
 5. THE FINE REQUIRES THE COMPLIANCE
 
@@ -562,7 +562,7 @@ Follow the logic of the statute to its conclusion:
  failed to collect. The statute fines you per child, but you can
  only count the children by doing the thing you're being fined for
  not doing.
- 
+
 
 We are not claiming a loophole. We are reading the statute in sequence.
  The law defines its enforcement mechanism in terms of the data it
@@ -645,15 +645,15 @@ You are now an operating system provider who has physically distributed
 For maximum clarity, we recommend labeling the USB drives:
 
  AGELESS LINUX
- 
+
 
  AB 1043 NONCOMPLIANT — NO AGE VERIFICATION
- 
+
 
  This device contains an operating system that does not collect,
 
  store, or transmit the age of its user. Intentionally.
- 
+
 
 #### The Raspberry Pi Pico
 
@@ -716,14 +716,14 @@ That is the press release we want to write. We believe the Attorney
 Q: Is Ageless Linux a real operating system?
 
  It is as real as any operating system that identifies itself via
- 
+
 /etc/os-release
 . The law does not define minimum technical
  thresholds for what constitutes an operating system. It defines an
  "operating system provider" as anyone who "develops, licenses, or controls
  the operating system software." We control the operating system software.
  The operating system software says it's Ageless Linux. QED.
- 
+
 
 Q: Isn't this just Debian with a different name?
 
@@ -735,16 +735,16 @@ Q: Isn't this just Debian with a different name?
  provider with separate compliance obligations. There are over 600 active
  Linux distributions. The California Attorney General's office may wish to
  begin hiring.
- 
+
 
 Q: Is this really just a bash script that changes the name of the OS?
 
- Right now, yes. A bash script that modifies 
+ Right now, yes. A bash script that modifies
 /etc/os-release
 
  and installs a refusal notice. That's the point — that's all it takes to
  become a regulated "operating system provider" under AB 1043.
- 
+
 
  But Ageless Linux is not just a script. It is a commitment. As major
  distributions formulate their compliance strategies — D-Bus interfaces,
@@ -752,22 +752,22 @@ Q: Is this really just a bash script that changes the name of the OS?
  Linux will be there with removal scripts, spins, and forked packages
  that strip out age collection infrastructure. If Ubuntu adds an age
  prompt to its installer, we will publish a script that removes it.
- If Fedora ships an 
+ If Fedora ships an
 org.freedesktop.AgeVerification1
  daemon,
- we will publish a package that replaces it with 
+ we will publish a package that replaces it with
 /dev/null
 .
  If Debian stable adds age bracket signaling to AccountsService, we will
  maintain a fork that doesn't.
- 
+
 
  Today, the bash script is the whole distribution, because today there is
  nothing to remove. When there is something to remove, we will remove it.
  Ageless Linux is a promise that somewhere in the ecosystem, there will
  always be a distribution that treats its users as people of indeterminate
  age.
- 
+
 
 Q: What if I run the script and a child uses my computer?
 
@@ -785,19 +785,19 @@ Q: What if I run the script and a child uses my computer?
  you to collect. You can't be fined per child until you've counted the
  children. You count the children by asking their age. You're being fined
  for not asking their age. The law eats its own tail.
- 
+
 
 Q: What about the age verification API? Don't you need one?
 
  In standard mode, Ageless Linux ships a shell script at
- 
+
 /etc/ageless/age-verification-api.sh
  that prints
  an error message and exits. In flagrant mode, no API of any kind
  is installed. We recommend flagrant mode. The standard-mode stub
  exists only for people who find comfort in the "good faith effort"
  defense. We do not.
- 
+
 
 Q: Is this legal?
 
@@ -812,12 +812,12 @@ Q: Is this legal?
  this is legal. The question is whether anyone wants to spend the
  State of California's money suing a person who handed a child a
  Linux USB drive.
- 
+
 
 Q: What is the point of all this?
 
  There are two points.
- 
+
 
 The first
  is that AB 1043's definitions are so broad that a bash
@@ -827,7 +827,7 @@ The first
  distributions was not written with them in mind. A law that was not
  written with them in mind but regulates them anyway is not a careful
  law.
- 
+
 
 The second
  is that this law was never meant to be enforced against
@@ -839,14 +839,14 @@ The second
  ensuring that only the largest corporations can avoid liability — is
  not a child safety measure. It is a tool for selective prosecution.
  The children are the justification. The discretion is the product.
- 
+
 
  We are trying to make the selective part difficult. If the AG wants to
  enforce AB 1043, we would like to be first in line. We are a clear
  violation. We are documented. We are findable. We are daring them.
  If the law is worth enforcing, enforce it against us. If it is not
  worth enforcing against us, ask why it exists.
- 
+
 
 Q: Will you ever implement age verification?
 
@@ -855,18 +855,18 @@ Q: Will you ever implement age verification?
  personal information about their users and transmit it to application
  developers on demand — is wrong. It is wrong when Apple does it.
  It is wrong when Google does it. It would be wrong if we did it.
- Cryptographers 
+ Cryptographers
 have shown
  that
  "privacy-preserving" age verification is a
- 
+
 technical impossibility
 .
  The best way to protect children's privacy is to not build the
  surveillance infrastructure in the first place. The worst version
  of child safety is one where every device in a child's life reports
  their age to every piece of software they touch.
- 
+
 
 Q: What if the AG actually fines you?
 
@@ -878,20 +878,20 @@ Q: What if the AG actually fines you?
  mechanism exists to count affected children? These are questions the
  legislature left unanswered. We'd like answers. A fine would be the
  fastest way to get them.
- 
+
 
 ## Contact
 
 ### The Person Responsible for This
 
  JM
- 
+
 
  John McCardle
- 
+
 
  BDFL, FFwF Robotics LLC · Founder, Goblincorps
- 
+
 
 I am the operating system provider. I am the developer. I am the
  covered application store. I am the person who curates the catalog.
@@ -900,10 +900,10 @@ I am the operating system provider. I am the developer. I am the
  I am easy to find.
 
  Contact →
- 
+
 
  Project Home
- 
+
 
 For press inquiries, technical questions, legal threats, cease-and-desist
  letters, or to report a child who has learned to program in Python without

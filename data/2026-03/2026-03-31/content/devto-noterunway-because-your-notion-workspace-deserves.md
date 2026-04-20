@@ -300,7 +300,7 @@ And if you find an API key you forgot about in a meeting note... you're welcome.
 Built with ☕ and too many late nights byGiorgi Kobaidze
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -311,6 +311,6 @@ Preview
 Dismiss
 
  View full discussion (27 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

@@ -42,9 +42,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -66,7 +66,7 @@ iOS 26.4 introduces nine new emoji- Trombone- Treasure Chest- Distorted Face - H
 
 The new iOS 26.4 beta includes the addition of eight new emojis, including a fight cloud, hairy creature (a.k.a bigfoot), landslide, orca, trombone, treasure chest, ballet dancers and the infamous 'distorted face'. Look familiar? That's right. He's the little yellow guy who starred in Apple's highly controversial 'Crush' ad, which appalled audiences so much that the tech titan had to issue an apology.
 
-Article continues below 
+Article continues below
 
 I thought the new distorted emoji in 26.4 looked familiar... pic.twitter.com/RRr3bHlmWOMarch 9, 2026
 

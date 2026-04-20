@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Jonny Evans
 
 # Apple Business rolls out to 200+ countries today
@@ -20,13 +20,13 @@ news
 
 Apr 14, 2026
 4 mins
- 
+
 
 ## Device management, maintenance, and location-based ads for global business are expected to be part of the launch.
 
- 
 
-							Credit: 															
+
+							Credit:
 Apple
 
 Apple’s all-newApple Business platformis expected to launch as a free service in the US and 200 other countries starting today. It’s the go-to platform for small business seeking better management tools for their Apple tech and a great accompaniment to themillions migrating to the Macwith MacBook Neo.
@@ -79,27 +79,27 @@ Mobile
 Mobile Device Management
 Mobile Management
 Vendors and Providers
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Jonny Evans															
+														by
+
+																Jonny Evans
 
 1. Follow Jonny Evans on LinkedIn
 
@@ -114,7 +114,7 @@ Hello, and thanks for dropping in. I'm pleased to meet you. I'm Jonny Evans, and
 * opinion### Jamf warns of massive app insecuritiesApr 2, 20266 mins
 * feature### Apple — 50 years in fifteen minutesApr 1, 202617 mins
 * opinion### Why the axios supply chain attack should have Apple worriedMar 31, 20264 mins
- 
+
 
 ## Show me more
 
@@ -124,12 +124,12 @@ Podcasts
 Videos
 
 tip
- 
- 
+
+
 
 ### 20 tricks for more efficient Android messaging
 
- 
+
 By JR Raphael
 Apr 17, 2026
 26 mins
@@ -139,12 +139,12 @@ Google
 Smartphones
 
 opinion
- 
- 
+
+
 
 ### AI is finally delivering productivity — for remote employees
 
- 
+
 By Mike Elgan
 Apr 17, 2026
 6 mins
@@ -154,12 +154,12 @@ Generative AI
 Hybrid and Remote Work
 
 news
- 
- 
+
+
 
 ### Anthropic’s latest model is deliberately less powerful than Mythos (and that’s the point)
 
- 
+
 By Taryn Plumb
 Apr 16, 2026
 6 mins
@@ -169,12 +169,12 @@ Code Security
 Security
 
 podcast
- 
- 
+
+
 
 ### OpenAI Proposals, Iran Cyber Threat, PC Sales Rise | Ep. 70
 
- 
+
 By Arnold Davick
 Apr 14, 2026
 2 mins
@@ -182,12 +182,12 @@ Apr 14, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### AI Data Center Heat, Chrome Zero-Day, AWS Attacks | Ep.69
 
- 
+
 By Arnold Davick
 Apr 10, 2026
 2 mins
@@ -195,12 +195,12 @@ Apr 10, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### Anthropic Mythos Leak, AWS Relief, WhatsApp Malware Warning | Ep.68
 
- 
+
 By Arnold Davick
 Apr 10, 2026
 2 mins
@@ -208,12 +208,12 @@ Apr 10, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### How AI's Data Explosion is Reshaping Enterprise Storage Strategies
 
- 
+
 Apr 15, 2026
 48 mins
 
@@ -222,12 +222,12 @@ Enterprise Storage
 Generative AI
 
 video
- 
- 
+
+
 
 ### OpenAI Proposals, Iran Cyber Threat, PC Sales Rise | Ep. 70
 
- 
+
 By Arnold Davick
 Apr 14, 2026
 2 mins
@@ -235,12 +235,12 @@ Apr 14, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### AI Data Center Heat, Chrome Zero-Day, AWS Attacks | Ep.69
 
- 
+
 By Arnold Davick
 Apr 10, 2026
 2 mins

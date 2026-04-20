@@ -25,8 +25,8 @@ tags:
 ﻿If you can’t beat them, undercut them on price.
 
 by
- 
- 
+
+
 Jess Weatherbed
 Apr 17, 2026, 12:51 PM UTC
 * Link
@@ -34,7 +34,7 @@ Apr 17, 2026, 12:51 PM UTC
 * Gift
 Image: The Verge; Shutterstock
 Jess Weatherbed
- 
+
 is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews.
 
 All empires eventually fall, and it seems the creative software industry has collectively decided that Adobe’s time has come. The Creative Cloud provider’s suite of design tools have been considered the industry standard for decades — despite unpopular decisions tofully embrace generative AIand abandon software licenses in favor ofexpensive, complicated subscriptions.
@@ -82,19 +82,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

@@ -1,7 +1,7 @@
 ---
 title: GitHub - rustdesk/rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. · GitHub
 url: https://github.com/rustdesk/rustdesk
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-18T11:35:36.895800

@@ -12,7 +12,7 @@ tags:
 ---
 
 14 things our PhD supervisors got right and why it mattered
- 
+
 
 Download PDF
 
@@ -28,7 +28,7 @@ Find a new job
 
 Illustration: Antonio Rodriguez
 
- 
+
 
 ### Nature’s 2025 PhD survey
 
@@ -156,9 +156,9 @@ Email address
 
 Sign up
 
-I agree my information will be processed in accordance with the 
+I agree my information will be processed in accordance with the
 Nature
- and Springer Nature Limited 
+ and Springer Nature Limited
 Privacy Policy
 .
 

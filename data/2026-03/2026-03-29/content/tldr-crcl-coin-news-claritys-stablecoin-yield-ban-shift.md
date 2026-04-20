@@ -26,16 +26,16 @@ Email
 ## The latest draft of the CLARITY Act hit both stocks, but one analyst says the bill could ultimately shift bargaining power toward Circle and away from Coinbase.
 
 By
- 
+
 Krisztian Sandor
 |
 Edited by
- 
+
 Stephen Alpher
- 
-Mar 25, 2026, 3:38 p.m. 
-Make 
- preferred on 
+
+Mar 25, 2026, 3:38 p.m.
+Make
+ preferred on
 Circle CEO Jeremy Allaire (Danny Nelson/CoinDesk)
 
 #### What to know:
@@ -82,7 +82,7 @@ More For You
 ### The Definitive Stablecoin Landscape Series: North America
 
 By
- 
+
 CoinDesk Research
 Mar 26, 2026
 Commissioned by
@@ -101,11 +101,11 @@ More For You
 ### Kalshi secures license to offer margin trading to institutional investors
 
 By
- 
+
 Francisco Rodrigues
 |
 Edited by
- 
+
 Aoyon Ashraf
 18 hours ago
 
@@ -118,7 +118,7 @@ What to know:
 * Kalshi's...
 Read full story
 Latest Crypto News
- 
+
 
 #### Crypto needs a reset before the next bull run
 

@@ -14,7 +14,7 @@ tags:
 
 steipete
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork187
 * Star1.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -172,7 +172,7 @@ pnpm wacli doctor
 #
  Search messages
 
-pnpm wacli messages search 
+pnpm wacli messages search
 "
 meeting
 "
@@ -180,14 +180,14 @@ meeting
 #
  Backfill older messages for a chat (best-effort; requires your primary device online)
 
-pnpm wacli 
+pnpm wacli
 history
  backfill --chat 1234567890@s.whatsapp.net --requests 10 --count 50
 
 #
  Download media for a message (after syncing)
 
-./wacli media download --chat 1234567890@s.whatsapp.net --id 
+./wacli media download --chat 1234567890@s.whatsapp.net --id
 <
 message-id
 >
@@ -195,7 +195,7 @@ message-id
 #
  Send a message
 
-pnpm wacli send text --to 1234567890 --message 
+pnpm wacli send text --to 1234567890 --message
 "
 hello
 "
@@ -203,7 +203,7 @@ hello
 #
  Send a file
 
-./wacli send file --to 1234567890 --file ./pic.jpg --caption 
+./wacli send file --to 1234567890 --file ./pic.jpg --caption
 "
 hi
 "
@@ -217,7 +217,7 @@ hi
  List groups and manage participants
 
 pnpm wacli groups list
-pnpm wacli groups rename --jid 123456789@g.us --name 
+pnpm wacli groups rename --jid 123456789@g.us --name
 "
 New name
 "
@@ -256,7 +256,7 @@ Important notes:
 
 ### Backfill one chat
 
-pnpm wacli 
+pnpm wacli
 history
  backfill --chat 1234567890@s.whatsapp.net --requests 10 --count 50
 
@@ -265,32 +265,32 @@ history
 This loops through chats already known in your local DB:
 
 pnpm -s wacli -- --json chats list --limit 100000 \
- 
+
 |
- jq -r 
+ jq -r
 '
 .[].JID
 '
  \
- 
+
 |
- 
+
 while
- 
+
 read
  -r jid
 ;
- 
+
 do
 
- pnpm -s wacli -- 
+ pnpm -s wacli --
 history
- backfill --chat 
+ backfill --chat
 "
 $jid
 "
  --requests 3 --count 50
- 
+
 done
 
 ## License
@@ -320,48 +320,48 @@ wacli.sh
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 1.4k
 
  stars
- 
+
 
 ### Watchers
 
 14
 
  watching
- 
+
 
 ### Forks
 
 187
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases5
 
@@ -369,11 +369,11 @@ v0.6.0
 
  Latest
 
- 
+
 
 Apr 14, 2026
 
- 
+
 
 + 4 releases
 
@@ -381,9 +381,9 @@ Apr 14, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -391,9 +391,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

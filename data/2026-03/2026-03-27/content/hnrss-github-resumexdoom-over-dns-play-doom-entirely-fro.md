@@ -14,7 +14,7 @@ tags:
 
 resumex
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork16
 * Star395
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -108,9 +108,9 @@ winget install Microsoft.PowerShell
 
 .
 \Start-DoomOverDNS.ps1
- 
+
 -
-PrimaryZone 
+PrimaryZone
 '
 example.com
 '
@@ -127,15 +127,15 @@ cd managed
 doom
 dotnet publish ManagedDoom
 /
-ManagedDoom.csproj 
+ManagedDoom.csproj
 -
-c Release 
+c Release
 -f
  net8.
 0
- 
+
 -
-o 
+o
 publish-out
 
 #
@@ -145,15 +145,15 @@ Import-Module
  .\TXTRecords\TXTRecords.psm1
 
 Set-CFCredential
- 
+
 -
 ApiToken (
 Read-Host
- 
+
 '
 API Token
 '
- 
+
 -
 AsSecureString)
 
@@ -162,30 +162,30 @@ AsSecureString)
 
 .
 \Publish-DoomOverDNS.ps1
- 
+
 `
 
- 
+
 -
-PublishDir 
+PublishDir
 '
 managed-doom\publish-out
 '
- 
+
 `
 
- 
+
 -
-WadPath 
+WadPath
 '
 DOOM1.WAD
 '
- 
+
 `
 
- 
+
 -
-Zones 
+Zones
 @
 (
 '
@@ -207,7 +207,7 @@ Description
 
 (required)
 
-DNS zone where 
+DNS zone where
 stripe-meta
  records live
 
@@ -215,7 +215,7 @@ stripe-meta
 
 (system default)
 
-Specific DNS resolver IP (e.g. 
+Specific DNS resolver IP (e.g.
 '1.1.1.1'
 )
 
@@ -223,22 +223,22 @@ Specific DNS resolver IP (e.g.
 
 'doom1'
 
-WAD type: 
+WAD type:
 doom1
-, 
+,
 doom
-, 
+,
 doom2
-, 
+,
 plutonia
-, 
+,
 tnt
 
 -DoomArgs
 
 ''
 
-Arguments forwarded to the engine (e.g. 
+Arguments forwarded to the engine (e.g.
 '-warp 1 3 -skill 5'
 )
 
@@ -268,7 +268,7 @@ Description
 
 (required)
 
-Path to 
+Path to
 dotnet publish
  output directory
 
@@ -328,43 +328,43 @@ Play Doom entirely from DNS records. (PowerShell 7+)
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 395
 
  stars
- 
+
 
 ### Watchers
 
 2
 
  watching
- 
+
 
 ### Forks
 
 16
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -382,9 +382,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -392,9 +392,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

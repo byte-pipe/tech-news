@@ -12,7 +12,7 @@ tags:
 ---
 
 International
- | 
+ |
 The Telegram
 
 # America’s failing gunboat diplomacy
@@ -21,7 +21,7 @@ The Telegram
 
 Share
 Illustration: Chloe Cushman
- 
+
 Mar 17th 2026
 |
 5 min read

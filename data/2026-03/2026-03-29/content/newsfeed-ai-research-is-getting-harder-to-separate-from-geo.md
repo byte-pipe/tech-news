@@ -76,19 +76,19 @@ Triangle
 * How‘Handala’became the face of Iran’s hacker counterattacks
 * Listen:Nvidia’s ‘Super Bowl of AI,’ and Tesla disappoints
 Will Knight
- is a senior writer for WIRED, covering artificial intelligence. He writes the 
+ is a senior writer for WIRED, covering artificial intelligence. He writes the
 AI Lab
  newsletter
 , a weekly dispatch from beyond the cutting edge of AI—
 sign up here
-. He was previously a senior editor at MIT Technology Review, where he wrote about fundamental advances in AI and China’s AI ... 
+. He was previously a senior editor at MIT Technology Review, where he wrote about fundamental advances in AI and China’s AI ...
 Read More
 Senior Writer
 * X
 Zeyi Yang
- is a senior writer at WIRED, covering technology and business in China. He cowrites 
+ is a senior writer at WIRED, covering technology and business in China. He cowrites
 Made in China
-, a weekly newsletter that gives readers a clear-eyed, unbiased view of the biggest tech news coming out of the country. Prior to joining WIRED, he was China reporter at MIT Technology ... 
+, a weekly newsletter that gives readers a clear-eyed, unbiased view of the biggest tech news coming out of the country. Prior to joining WIRED, he was China reporter at MIT Technology ...
 Read More
 Senior Writer
 

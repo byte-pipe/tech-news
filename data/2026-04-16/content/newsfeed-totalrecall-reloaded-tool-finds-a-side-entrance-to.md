@@ -51,19 +51,19 @@ Given the sheer amount of information that Recall can record, it still feels lik
 The feature’s riskiness has prompted some app developers to take matters into their own hands. The Signal Messenger app on Windowsforces Recall to ignore it by default, using a flag that’s normally intended to keep DRM-protected content out of the Recall database. TheAdGuard ad blocker, theBrave browser, and others have implemented similar workarounds.
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
- Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called 
+ Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called
 Overdue
 .
- 
+
 
 1. 1.Vulcan woes will "absolutely" be a factor in Pentagon's next rocket competition
 2. 2.Florida surgeon charged with killing man after removing liver instead of spleen

@@ -30,7 +30,7 @@ The scramble for natural gas has led to a shortage of turbines for the power pla
 
 That means tech companies are betting that the AI fever won’t break, that AI will continue to needexponential amounts of power, and that natural gas generation will be necessary for success in the AI era.
 
- 
+
 
 Techcrunch event
 
@@ -69,23 +69,23 @@ By snapping up natural gas supplies and moving behind-the-meter, tech companies 
 Topics
 
 AI
-, 
+,
 Climate
-, 
+,
 data centers
-, 
+,
 Enterprise
-, 
+,
 Google
-, 
+,
 Meta
-, 
+,
 Microsoft
-, 
+,
 natural gas
- 
 
-			Tim De Chant	
+
+			Tim De Chant
 
 Senior Reporter, Climate
 
@@ -95,6 +95,6 @@ De Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and 
 
 You can contact or verify outreach from Tim by emailingtim.dechant@techcrunch.com.
 
- 
+
 
 View Bio

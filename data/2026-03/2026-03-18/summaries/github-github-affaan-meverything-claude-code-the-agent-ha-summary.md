@@ -1,7 +1,7 @@
 ---
 title: GitHub - affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first d...
 url: https://github.com/affaan-m/everything-claude-code
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-18T11:38:23.934093

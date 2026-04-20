@@ -14,7 +14,7 @@ tags:
 - trending
 ---
 
-(Image credit: 
+(Image credit:
 NASA
 )
 
@@ -47,9 +47,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -63,9 +63,9 @@ Subscribe to our newsletter
 
 NASA’s Artemis II mission blasted off on Wednesday. Now brace yourselves for exciting high-resolution 4K footage live-streamed from the surface of the moon thanks to NASA's laser-based O2O system. The cutting-edge Orion Artemis II Optical Communications system (O2O) will be used to beam 4K moon footage at up to 260 Mbps. We should also be treated to never-before-seen views of “the far side of the Moon, using Nikon digital cameras,” reports The BBC’sSky at Nightmagazine.
 
- 
 
-(Image credit: 
+
+(Image credit:
 NASA
 )
 
@@ -73,7 +73,7 @@ So, what is O2O? NASA prepared a page dedicated to the technology ahead of the b
 
 Meanwhile, on Earth, laser ground stations are situated in Las Cruces, New Mexico, and Table Mountain, California. These locations were chosen for their typically clear skies, important for fast and reliable laser communications.
 
-Article continues below 
+Article continues below
 
 However, the astronauts will also use traditional radio communications to stay in contact with the ground team via NASA's Deep Space Network (DSN). With prior mention of the potential for cloud interference, this could be an essential backup. DSN was the key communications tech used by Voyager, the Mars rover, and Artemis I.
 
@@ -81,11 +81,11 @@ Losing sight of the Earth on a planned mission to the far side of the Moon will 
 
 O2O Optical Module - YouTube
 
-Watch On 
+Watch On
 
 If you aren’t that impressed by the 260 Mbps O2O laser comms terminal's performance, NASA’s page about this laser tech highlights a Lunar Laser Communications Demonstration it has completed that achieved 622 Mbps. Moreover, some nearer-Earth space laser comms projects have reached data speeds up to 200 Gbps.
 
- 
+
 
 FollowTom's Hardware on Google News, oradd us as a preferred source, to get our latest news, analysis, & reviews in your feeds.
 

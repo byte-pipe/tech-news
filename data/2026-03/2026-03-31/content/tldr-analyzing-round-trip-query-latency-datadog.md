@@ -14,38 +14,38 @@ tags:
 
 Further Reading
 
- 
- 
+
+
 
 Benefits of End-to-End Observability
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
 
 Break down frontend and backend silos with full-stack observability
 
- 
- 
+
+
 Download to learn more
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 
 Alex Weisberger
 
- 
+
 
 It’s an all too common scenario: You get paged for some queries timing out, but when you investigate, the database performance looks unchanged. Something must have changed, though. If the database doesn’t look overloaded, where are these timeouts coming from?
 
@@ -57,28 +57,28 @@ In this post, we’ll show how Datadog’s correlatedDatabase Monitoring (DBM)an
 
 Database query latency is more nuanced than a single number. A database process executes a query, but those results must be transferred over a network and decoded by an application. In between, load balancers, connection pools, and other proxies are often used, all introducing their own latency overhead. What a user or client ultimately experiences is the round trip latency of the query including all of the waypoints along the way.
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Close dialog
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 The problem is that many database monitoring tools only see inside the database. When latency spikes due to a saturated connection pool or a slow proxy, your database metrics can look completely normal. That’s because from where the database sits, everythingisnormal. Understanding where the round trip latency is actually coming from is essential, because the remediation steps are completely different depending on the answer. To find the true source, we have to decompose round trip query latency into its constituent parts.
 
@@ -86,55 +86,55 @@ The problem is that many database monitoring tools only see inside the database.
 
 Database architectures across the industry are diverse and stack-dependent, but at the beginning of every investigation, you can typically draw a clear line betweenround trip timeanddatabase time. Think of it as a parent/child relationship. The parent span covers the full query, from the moment your application issues it to the moment it receives a response. Nested inside are two children, including the time the database spent executing the query, and everything else. That “everything else” is where connection pools, proxies, and network overhead live.
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Close dialog
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 The first question to answer is whether the latency is coming from inside the database or somewhere outside it. That tells you whether to focus on the database itself or look further up the stack. If DB execution time dominates, query optimization or database scaling may help. If “everything else” dominates, you’re looking at a problem no amount of query tuning will fix.
 
 We built a view for answering this exact question, which we’ve called “Round trip overhead analysis”:
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Close dialog
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 This view first presents a single number, “Round Trip Overhead,” for a quick overview of the relationship between database time and all other processing. It’s calculated asround trip time / database time, so a larger number means more time is being spent outside of the database. In practice, this number can vary quite a bit depending on your topology. In the above example it sits at ~1, meaning negligible overhead from additional hops. It can often be quite large (~10 or even 100x) when a highly optimized query is much faster than its transport costs.
 
@@ -144,53 +144,53 @@ There’s not necessarily an ideal overhead number, so we also display the const
 
 Connection pools likePgBouncerare among the most common sources of latency surprises in the Postgres ecosystem. Let’s walk through a typical scenario.
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Close dialog
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 Suppose we have aPostgresdatabase with an externally hosted PgBouncer instance sitting in front of it. We start seeing timeouts, so as a first step, we pull up the round trip overhead analysis:
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Close dialog
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 Now it’s more interesting. The overhead clearly increased along with the round trip time. But notice how database time remained unchanged. This is a clear indication that the latency was introduced outside of the database. In this case, the PgBouncer host’s CPU became saturated, causing its single-threaded event loop to slow down. We added another PgBouncer instance, along with a load balancer, to handle the recent growth in query load.
 
@@ -214,142 +214,142 @@ This kind of analysis is only possible with tools like Datadog that correlate AP
 
 To get started with Datadog,sign up for our 14-day free trial.
 
- 
+
 
 ## RelatedArticles
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Improve performance and reliability with APM Recommendations
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Debug PostgreSQL query latency faster with EXPLAIN ANALYZE in Datadog Database Monitoring
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Detect and investigate query regressions with Datadog Database Monitoring
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Unify and correlate frontend and backend data with retention filters
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 
 ## Related jobs at Datadog
 
- 
- 
+
+
 
 ### We're always looking for talented people to collaborate with
 
- 
- 
+
+
 
 Featured positions
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
 
 We havepositions
 
- 
- 
- 
- 
+
+
+
+
 View all
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 
 ## Start monitoring your metrics in minutes
 
- 
+
 find out how

@@ -94,7 +94,7 @@ But the moment you start hitting performance limits, or your problem shifts from
 And all you had to do was use it. 🚀
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -105,7 +105,7 @@ Preview
 Dismiss
 
  View full discussion (18 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

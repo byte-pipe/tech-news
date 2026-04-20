@@ -11,7 +11,7 @@ description: AI that sees your screen, listens to your conversations and tells y
 
 BasedHardware
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.6k
 * Star8.7k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -203,11 +203,11 @@ Website·Docs·Discord·Twitter·DeepWiki
 
 Try in Browser
 
-git clone https://github.com/BasedHardware/omi.git 
+git clone https://github.com/BasedHardware/omi.git
 &&
- 
+
 cd
- omi/desktop 
+ omi/desktop
 &&
  ./run.sh --yolo
 
@@ -222,11 +222,11 @@ For local development with the full backend stack:
 1. Install prerequisites
 
 xcode-select --install
-curl --proto 
+curl --proto
 '
 =https
 '
- --tlsv1.2 -sSf https://sh.rustup.rs 
+ --tlsv1.2 -sSf https://sh.rustup.rs
 |
  sh
 
@@ -247,9 +247,9 @@ Seedesktop/README.mdfor environment variables and credential setup.
 ### Mobile App
 
 cd
- app 
+ app
 &&
- bash setup.sh ios 
+ bash setup.sh ios
 #
  or: bash setup.sh android
 
@@ -424,51 +424,51 @@ omi.me
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 8.7k
 
  stars
- 
+
 
 ### Watchers
 
 77
 
  watching
- 
+
 
 ### Forks
 
 1.6k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases540
 
@@ -476,11 +476,11 @@ Omi Desktop v0.11.318
 
  Latest
 
- 
+
 
 Apr 15, 2026
 
- 
+
 
 + 539 releases
 
@@ -496,17 +496,17 @@ Apr 15, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -514,9 +514,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Cynthia Brumfield
 
 Contributing Writer
@@ -22,13 +22,13 @@ Feature
 
 Mar 17, 2026
 10 mins
- 
+
 
 ## Security leaders say monitoring agent behavior inside enterprise systems may be the next major challenge for CISOs.
 
- 
 
-							Credit: 															Rob Schultz / Shutterstock													
+
+							Credit: 															Rob Schultz / Shutterstock
 
 AI agents are already operating inside enterprise networks, quietly doing some of the work employees once handled themselves — writing code, drafting emails, retrieving files, and connecting to internal systems.
 
@@ -135,25 +135,25 @@ Artificial Intelligence
 Application Security
 Security
 DevSecOps
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
-														by 															
+														by
 
-																Cynthia Brumfield															
+																Cynthia Brumfield
 
 Contributing Writer
 
@@ -169,7 +169,7 @@ Cynthia Brumfield is a veteran communications and technology analyst who is curr
 * feature### Boards don’t need cyber metrics — they need risk signalsFeb 25, 20267 mins
 * news### The rise of the evasive adversaryFeb 24, 20268 mins
 * feature### CISOs must separate signal from noise as CVE volume soarsFeb 11, 20268 mins
- 
+
 
 ## Show me more
 
@@ -179,12 +179,12 @@ Podcasts
 Videos
 
 news
- 
- 
+
+
 
 ### Fortinet hit by another exploited cybersecurity flaw
 
- 
+
 By Taryn Plumb
 Mar 30, 2026
 5 mins
@@ -193,12 +193,12 @@ Security
 Vulnerabilities
 
 news
- 
- 
+
+
 
 ### LangChain path traversal bug adds to input validation woes in AI pipelines
 
- 
+
 By Shweta Sharma
 Mar 30, 2026
 4 mins
@@ -207,12 +207,12 @@ Security
 Vulnerabilities
 
 opinion
- 
- 
+
+
 
 ### Why Kubernetes controllers are the perfect backdoor
 
- 
+
 By Niranjan Kumar Sharma
 Mar 30, 2026
 6 mins
@@ -221,12 +221,12 @@ Cloud Security
 Security
 
 podcast
- 
- 
+
+
 
 ### CSO Executive Sessions ASEAN: From Compliance to Cyber Resilience-Securing Patient Trust in Southeast Asia’s Hospitals
 
- 
+
 By Estelle Quek
 Feb 24, 2026
 23 mins
@@ -236,12 +236,12 @@ Cybercrime
 Ransomware
 
 podcast
- 
- 
+
+
 
 ### How Intelligence and AI Are Changing Cyber Defense | Erin Whitmore, Former CIA
 
- 
+
 By Joan Goodchild
 Feb 4, 2026
 28 mins
@@ -250,12 +250,12 @@ Cyberattacks
 Cybercrime
 
 podcast
- 
- 
+
+
 
 ### Inside the SMB Threat Landscape: AT&T’s Senthil Ramakrishnan on Why Small Businesses Are Cybercrime’s Favorite Target
 
- 
+
 By Joan Goodchild
 Jan 13, 2026
 23 mins
@@ -264,12 +264,12 @@ Cybercrime
 Small and Medium Business
 
 video
- 
- 
+
+
 
 ### CSO Executive Sessions ASEAN: From Compliance to Cyber Resilience-Securing Patient Trust in Southeast Asia’s Hospitals
 
- 
+
 By Estelle Quek
 Feb 24, 2026
 23 mins
@@ -279,12 +279,12 @@ Electronic Health Records
 Ransomware
 
 video
- 
- 
+
+
 
 ### How Intelligence and AI Are Changing Cyber Defense | Erin Whitmore, Former CIA
 
- 
+
 By Joan Goodchild
 Feb 4, 2026
 28 mins
@@ -293,12 +293,12 @@ Cyberattacks
 Cybercrime
 
 video
- 
- 
+
+
 
 ### Inside the SMB Threat Landscape: AT&T’s Senthil Ramakrishnan on Why Small Businesses Are Cybercrime’s Favorite Target
 
- 
+
 By Joan Goodchild
 Jan 13, 2026
 23 mins

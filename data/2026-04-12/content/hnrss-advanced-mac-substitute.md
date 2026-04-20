@@ -21,7 +21,7 @@ advanced-mac-substitute
 /
 
 MacPaint
- running in 
+ running in
 Advanced Mac Substitute
  (click to see video)
 
@@ -31,30 +31,30 @@ Advanced Mac Substituteis an API-level reimplementation of 1980s-era Mac OS.
 It runs 68K Mac applications in an emulatorwithout an Apple ROM or system software.
 
 System’s Twilight
- running in 
+ running in
 Advanced Mac Substitute
 .
 
 Lode Runner
- running in 
+ running in
 Advanced Mac Substitute
 
-The opening of the 
+The opening of the
 prologue
- cinematic from 
+ cinematic from
 The Fool’s Errand
- running in 
+ running in
 Advanced Mac Substitute
 
 Amazing
- running in 
+ running in
 Advanced Mac Substitute
  (point to see the solved maze)
 
 Unlike traditional emulators, Advanced Mac Substitute doesn’t emulate the hardware on which an operating system runs (except for the 680x0 processor), but actually replaces the OS — so it launches directly into an application, without a startup phase.
 
 Welcome
- to 
+ to
 Advanced Mac Substitute
 .
 
@@ -65,12 +65,12 @@ Advanced Mac Substitute is afactored application. Thebackendincludes a 68K emula
 Advanced Mac Substitute is capable of running several applications written for the original Macintosh computer. Examples include four games from 1984:Amazing,Solitaire,Missile, andIAGO.
 
 Missile
- running in 
+ running in
 Advanced Mac Substitute
  (point to see the next frame)
 
 IAGO
- running in 
+ running in
 Advanced Mac Substitute
  (point to see who won)
 
@@ -83,7 +83,7 @@ Source codefor Advanced Mac Substitute is on GitHub.
 If you’re feeling adventurous, you cantry out Advanced Mac Substitutein macOS / OS X, the X Window System, a Linux framebuffer console, or a VNC client.
 
 Nyanochrome Cat
- running in 
+ running in
 Advanced Mac Substitute
  (point to animate)
 

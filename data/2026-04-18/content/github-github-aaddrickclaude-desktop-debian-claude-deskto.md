@@ -11,7 +11,7 @@ description: Claude Desktop for Debian-based Linux distributions - aaddrick/clau
 
 aaddrick
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork378
 * Star3.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -178,7 +178,7 @@ Add the repository for automatic updates viaapt:
 #
  Add the GPG key
 
-curl -fsSL https://aaddrick.github.io/claude-desktop-debian/KEY.gpg 
+curl -fsSL https://aaddrick.github.io/claude-desktop-debian/KEY.gpg
 |
  sudo gpg --dearmor -o /usr/share/keyrings/claude-desktop.gpg
 
@@ -186,11 +186,11 @@ curl -fsSL https://aaddrick.github.io/claude-desktop-debian/KEY.gpg
  Add the repository
 
 echo
- 
+
 "
 deb [signed-by=/usr/share/keyrings/claude-desktop.gpg arch=amd64,arm64] https://aaddrick.github.io/claude-desktop-debian stable main
 "
- 
+
 |
  sudo tee /etc/apt/sources.list.d/claude-desktop.list
 
@@ -254,115 +254,115 @@ Or add to your NixOS configuration:
 
 {
 
- 
+
 inputs
 .
 claude-desktop
 .
 url
- 
+
 =
- 
+
 "github:aaddrick/claude-desktop-debian"
 ;
 
- 
+
 outputs
- 
+
 =
- 
-{
- 
-nixpkgs
-,
- 
-claude-desktop
-,
- ... 
-}
-: 
+
 {
 
- 
+nixpkgs
+,
+
+claude-desktop
+,
+ ...
+}
+:
+{
+
+
 nixosConfigurations
 .
 myhost
- 
+
 =
- 
+
 nixpkgs
 .
 lib
 .
 nixosSystem
- 
+
 {
 
- 
+
 modules
- 
+
 =
- 
+
 [
 
- 
+
 (
 {
- 
+
 pkgs
 ,
- ... 
+ ...
 }
-: 
+:
 {
 
- 
+
 nixpkgs
 .
 overlays
- 
+
 =
- 
+
 [
- 
+
 claude-desktop
 .
 overlays
 .
 default
- 
+
 ]
 ;
 
- 
+
 environment
 .
 systemPackages
- 
+
 =
- 
+
 [
- 
+
 pkgs
 .
 claude-desktop
- 
+
 ]
 ;
 
- 
+
 }
 )
 
- 
+
 ]
 ;
 
- 
+
 }
 ;
 
- 
+
 }
 ;
 
@@ -506,12 +506,12 @@ Claude Desktop for Debian-based Linux distributions
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0, Unknown licenses found
- 
+
 
 ### Licenses found
 
@@ -519,49 +519,49 @@ Apache-2.0
 
 LICENSE-APACHE
 
- 
+
 
 Unknown
 
 LICENSE-MIT
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 3.4k
 
  stars
- 
+
 
 ### Watchers
 
 51
 
  watching
- 
+
 
 ### Forks
 
 378
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases84
 
@@ -569,11 +569,11 @@ v1.3.32+claude1.3109.0
 
  Latest
 
- 
+
 
 Apr 17, 2026
 
- 
+
 
 + 83 releases
 
@@ -581,7 +581,7 @@ Apr 17, 2026
 
  
 
- 
+
 
  Sponsor
 
@@ -589,11 +589,11 @@ Apr 17, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -609,17 +609,17 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -627,9 +627,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

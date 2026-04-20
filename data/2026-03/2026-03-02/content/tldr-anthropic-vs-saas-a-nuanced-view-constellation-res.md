@@ -108,7 +108,7 @@ Link Copied
 
 Copied to clipboard
 
- 
+
 
  Larry
  Dignan
@@ -134,7 +134,7 @@ Data to Decisions
 AI infrastructure spending in the Middle East has garnered billions in investment, but the war with Iran highlights one of the biggest risk factors in the region. ...
 
  Larry Dignan
- 
+
 
 Insight News
 
@@ -147,7 +147,7 @@ Data to Decisions
 Amazon and OpenAI expanded a partnership and the initial headlines will revolve around the $110 billion raised to give the LLM giant a $730 billion valuation. However, the Amazon i...
 
  Larry Dignan
- 
+
 
 Insight News
 
@@ -160,7 +160,7 @@ Tech Optimization
 Dell Technologies delivered blowout fourth quarter results and raised its outlook on strong AI infrastructure demand. ...
 
  Larry Dignan
- 
+
 
 Insight News
 
@@ -173,7 +173,7 @@ Tech Optimization
 CoreWeave topped $5 billion in annual revenue as the company said, quot;demand continues to intensify.quot; CoreWeave said 2026 revenue will be between $12 billion to $13 billion w...
 
  Larry Dignan
- 
+
 
 Insight News
 
@@ -186,7 +186,7 @@ Data to Decisions
 Salesforce has a new metric--Agentic Work Unit (AWU). The big question is whether enterprises will adopt it. ...
 
  Larry Dignan
- 
+
 
 Insight News
 

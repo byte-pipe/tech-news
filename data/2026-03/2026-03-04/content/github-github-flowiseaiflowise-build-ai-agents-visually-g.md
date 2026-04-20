@@ -11,7 +11,7 @@ description: Build AI Agents, Visually. Contribute to FlowiseAI/Flowise developm
 
 FlowiseAI
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork23.8k
 * Star49.8k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -310,66 +310,66 @@ flowiseai.com
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 49.8k
 
  stars
- 
+
 
 ### Watchers
 
 342
 
  watching
- 
+
 
 ### Forks
 
 23.8k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases80
 
@@ -377,11 +377,11 @@ flowise@3.0.13
 
  Latest
 
- 
+
 
 Feb 3, 2026
 
- 
+
 
 + 79 releases
 
@@ -389,7 +389,7 @@ Feb 3, 2026
 
  
 
- 
+
 
  Sponsor
 
@@ -397,11 +397,11 @@ Feb 3, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -417,17 +417,17 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -435,9 +435,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -18,13 +18,13 @@ tags:
 
  28th February 2026
 
- 
+
 
 Byrne Hobart
 
- 
 
- 
+
+
 
 ## Longreads
 
@@ -39,7 +39,7 @@ Byrne Hobart
 You're on the free list forThe Diff. This week, paying subscribers got a look atthe case for letting the Fed control fiscal policy, too, and how that would work($),why we'll be creating many more sources of clean, structured data even though LLMs can handle messy, unstructured stuff($), andwhat the world will look like when everyone has more access to the average level of intelligence and social skills($). Upgrade today for full access.
 
  Upgrade Today
- 
+
 
 ## Books
 

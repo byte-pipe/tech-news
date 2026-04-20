@@ -37,7 +37,7 @@ Figures released by the IEA in January show that the UK generated 41.5 per cent 
 In Scotland, renewable energy technologies generated the equivalent of 113 per cent of the country’s overall electricity consumption in 2022.
 
 Nearly 50 countries now generate more than 50 per cent of their electricity from renewable energy sources
- 
+
 (
 The Independent
 )

@@ -30,7 +30,7 @@ Today, the world is used to Amazon competing with those who sell on its cloud. E
 
 Still, Amazon is hardly a trailblazer in discarding investor loyalty and conflict-of-interest commitments in the wild, money-grabbing world of AI. When Anthropic announced its latest $30 billion round in February, it includedat least a dozen investorswho were also backing OpenAI. This included OpenAI’s main cloud partner, Microsoft.
 
- 
+
 
 Techcrunch event
 
@@ -61,31 +61,31 @@ All’s fair in love and AI these days.
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 AWS
-, 
+,
 Enterprise
-, 
+,
 Matt Garman
-, 
+,
 OpenAI
-, 
+,
 TC
- 
 
-			Julie Bort	
+
+			Julie Bort
 
 Venture Editor
 
-		Julie Bort is the Startups/Venture Desk editor for TechCrunch. 
+		Julie Bort is the Startups/Venture Desk editor for TechCrunch.
 
 
-You can contact or verify outreach from Julie by emailing 
+You can contact or verify outreach from Julie by emailing
 julie.bort@techcrunch.com
- or via 
+ or via
 @Julie188
- on X.	
+ on X.
 
 View Bio

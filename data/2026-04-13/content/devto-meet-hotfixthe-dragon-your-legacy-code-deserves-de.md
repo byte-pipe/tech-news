@@ -103,7 +103,7 @@ AI
 
 Gemini (
 gemini-3.1-flash-lite-preview
-) via 
+) via
 @google/genai
 
 Database
@@ -271,7 +271,7 @@ This post was written by me with collaborative editing from Claude, ChatGPT, and
 ChatGPT and Gemini were consulted at various stages, though "consulted" is generous for how often they were told they were wrong. No AI was harmed in the making of this project, but one of them has now been through every phase of the software development lifecycle in a single sprint and may need to file its own incident report.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

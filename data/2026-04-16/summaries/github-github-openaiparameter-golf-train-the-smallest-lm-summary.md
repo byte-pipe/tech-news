@@ -1,7 +1,7 @@
 ---
 title: GitHub - openai/parameter-golf: Train the smallest LM you can that fits in 16MB. Best model wins! · GitHub
 url: https://github.com/openai/parameter-golf
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-16T12:03:44.076330

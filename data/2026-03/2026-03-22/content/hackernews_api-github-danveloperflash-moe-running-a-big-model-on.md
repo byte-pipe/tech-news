@@ -15,7 +15,7 @@ tags:
 
 danveloper
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork103
 * Star1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -201,7 +201,7 @@ make
 #
  4-bit inference (needs packed_experts/ directory)
 
-./infer --prompt 
+./infer --prompt
 "
 Explain quantum computing
 "
@@ -210,7 +210,7 @@ Explain quantum computing
 #
  2-bit inference (faster but breaks tool calling)
 
-./infer --prompt 
+./infer --prompt
 "
 Explain quantum computing
 "
@@ -224,7 +224,7 @@ Explain quantum computing
 #
  Per-layer timing breakdown
 
-./infer --prompt 
+./infer --prompt
 "
 Hello
 "
@@ -407,43 +407,43 @@ Running a big model on a small laptop
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 1k
 
  stars
- 
+
 
 ### Watchers
 
 10
 
  watching
- 
+
 
 ### Forks
 
 103
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -461,9 +461,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors2
 

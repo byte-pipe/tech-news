@@ -14,37 +14,37 @@ tags:
 
 Hacker News
 new
- | 
+ |
 past
- | 
+ |
 comments
- | 
+ |
 ask
- | 
+ |
 show
- | 
+ |
 jobs
- | 
+ |
 submit
 login
 Show HN: Pardonned.com – A searchable database of US Pardons
 271 points
- by 
+ by
 vidluther
- 
+
 12 hours ago
- 
- | 
+
+ |
 hide
- | 
+ |
 past
- | 
+ |
 favorite
- | 
+ |
 98 comments
 https://pardonned.com
 
-Inspired by the videos of Liz Oyer, I wanted to be able to verify her claims and just look up all the pardons more easily.Tech Stack: 
+Inspired by the videos of Liz Oyer, I wanted to be able to verify her claims and just look up all the pardons more easily.Tech Stack:
  Playwright - to sccrape the DOJ website
  SQLite - local database
  Astro 6 - Build out a static website from the sqlite dbAll code is open source and available on Github.
@@ -53,12 +53,12 @@ Inspired by the videos of Liz Oyer, I wanted to be able to verify her claims and
 help
 
 siliconc0w
- 
+
 5 hours ago
- 
- | 
+
+ |
 next
- 
+
 [–]
 
 We should at least ban the "preemptive" pardon if not all pardons. Pardon means forgiveness for a specific convicted crime, not a means to grant blanket immunity.
@@ -66,14 +66,14 @@ We should at least ban the "preemptive" pardon if not all pardons. Pardon means 
 reply
 
 LocalH
- 
+
 45 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 We should go as far as to preemptively ban and sanction any POTUS who says "I'm going to pardon these people before I leave office".
@@ -83,16 +83,16 @@ There's no reason to say that unless you know they'reactively committing federal
 reply
 
 torben-friis
- 
+
 12 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 >There's no reason to say that unless you know they're actively committing federal crimes in the present day.
@@ -102,18 +102,18 @@ There are reasons. For example, you feel the justice system is going to be misus
 reply
 
 flowerlad
- 
+
 31 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Not true. Liz Cheney hasn’t committed any crimes (as far as we know).
@@ -121,16 +121,16 @@ Not true. Liz Cheney hasn’t committed any crimes (as far as we know).
 reply
 
 lateforwork
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 There are two types here: (1) Pardons for crimes not yet committed. (2) Pardons for crimes committed, but not yet convicted. The first type will allow the pardoned to commit a crime in the future for free, which obviously should not be allowed. The second should be allowed if we have this pardon system at all.
@@ -140,16 +140,16 @@ The second type became a political necessity, for example to protect Liz Cheney 
 reply
 
 lelandfe
- 
+
 3 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Pardons for crimes committed, but not yet convicted
@@ -159,18 +159,18 @@ We lack a means for deciding a crime has been committed absent a conviction
 reply
 
 elAhmo
- 
+
 52 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The notion itself that someone needs to be protected by a 'vengeful administration', while judicial system should be not politically affiliated is telling how broken the whole separation of powers is. Everyone who is a ruling party puts candidates they know aligned with their views, resulting in 'just wait until my turn comes and I will do as much as damage as possible' cycle.
@@ -178,16 +178,16 @@ The notion itself that someone needs to be protected by a 'vengeful administrati
 reply
 
 giancarlostoro
- 
+
 48 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I agree. I dont care if “my guy” or “your guy” does it, it should not be allowed.
@@ -195,16 +195,16 @@ I agree. I dont care if “my guy” or “your guy” does it, it should not be
 reply
 
 b00ty4breakfast
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 There is no universe where any pardon is abolished unless there is a massive political shakeup. The entrenched political class is terrified of endangering their power and privilege even if individual players are ready to do it.
@@ -212,16 +212,16 @@ There is no universe where any pardon is abolished unless there is a massive pol
 reply
 
 bloppe
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I've often wondered what would happen if a president explicitly offers to pardon anybody who murders members of Congress. Would they settle on reigning in the pardon power with an amendment?
@@ -231,16 +231,16 @@ We're sort of already there. A lot of the Jan 6 rioters were openly trying to mu
 reply
 
 didgetmaster
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Like most political arguments, if you listen carefully; those who advocate for or against pardons, only want them to go one way.
@@ -250,16 +250,16 @@ A pardon is only a protection against a 'vengeful administration' if that admini
 reply
 
 krapp
- 
+
 4 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I'm a leftist, and a Democrat by necessity (not by choice) and I would be fine if the power of pardon was removed for Presidents who share my ideology. I would rather have working separation of powers and reform the justice system than give one person carte blanche power to nullify it based on their whim.
@@ -269,18 +269,18 @@ Not everyone making a political argument is engaging in cynical tribalism. Belie
 reply
 
 aexer0e
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Pardons only stop the federal government from prosecuting someone, the states would still go after those individuals
@@ -288,16 +288,16 @@ Pardons only stop the federal government from prosecuting someone, the states wo
 reply
 
 dawnerd
- 
+
 42 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 And in theory a future administration could do something like threaten to withhold funding to states that don’t prosecute.
@@ -305,16 +305,16 @@ And in theory a future administration could do something like threaten to withho
 reply
 
 2OEH8eoCRo0
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 The preemptive pardon is ridiculous. Pardon for what? What if it comes out someone is a child cannibal? Are they pardoned for that?
@@ -322,19 +322,19 @@ The preemptive pardon is ridiculous. Pardon for what? What if it comes out someo
 reply
 
 conception
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-There’s no /s so I’m assuming you didn’t know that child cannibalism was in the Epstein files 
+There’s no /s so I’m assuming you didn’t know that child cannibalism was in the Epstein files
 https://www.yahoo.com/news/articles/fact-check-breaking-down...
 
 So to answer your question, seems like Yes, pardons for all!
@@ -342,16 +342,16 @@ So to answer your question, seems like Yes, pardons for all!
 reply
 
 fwipsy
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 From the article you linked, child sacrifice allegations came from an anonymous FBI interview in 2019 and are not confirmed by any credible evidence. There are no cannibalism allegations; the word "cannibal" only appears in innocuous contexts.
@@ -361,16 +361,16 @@ So child sacrifice and cannibalism are only technically "in the Epstein files;" 
 reply
 
 royaltjames
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Little evidence that I was abused as a child too, must not have happened.
@@ -378,16 +378,16 @@ Little evidence that I was abused as a child too, must not have happened.
 reply
 
 OtomotO
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I am deeply sorry for your experience and I totally understand that it triggers something, but let's be ice cold logical for a moment.
@@ -397,16 +397,16 @@ If there is no evidence of a crime, you cannot prosecute someone in a constituti
 reply
 
 jmyeet
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 So I have mixed feeling on this.
@@ -416,16 +416,16 @@ I'm thinking of Carter fulfilling a campaign pledge to pardon draft dodgers. Whe
 reply
 
 mullingitover
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > Federal prosecutors have a ton of power. Conviction rates are 98-99%.
@@ -435,16 +435,16 @@ This always gets thrown around, but the fact is theyshouldbe that high. Prosecut
 reply
 
 jmyeet
- 
+
 33 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I would be fine if high conviction rates reflected prosecutor's only bringing good cases. It doesn't. It reflects the odds being stacked against you and it being so expensive and high risk to defend yourself.
@@ -454,14 +454,14 @@ This high cost and power imbalance is used to force people into plea deals for c
 reply
 
 koolba
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Are there any longer or more generic than this:
@@ -472,14 +472,14 @@ Are there any longer or more generic than this:
 reply
 
 ceejayoz
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 https://en.wikipedia.org/wiki/Pardon_of_Richard_Nixon
@@ -489,16 +489,16 @@ https://www.presidency.ucsb.edu/documents/proclamation-4311-...> Now, Therefore,
 reply
 
 gcanyon
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Ford did real damage that day.
@@ -506,16 +506,16 @@ Ford did real damage that day.
 reply
 
 Pikamander2
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The real embarrassment is how little effort there's been to limit/reform the pardon system since then.
@@ -525,16 +525,16 @@ Pardons have valid uses, but it's wild that a single person can unilaterally par
 reply
 
 Ray20
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Isn't that the whole point of all these pardon things? To reduce incentives to usurp power to avoid responsibility by providing less destructive for the political system ways to avoid responsibility.
@@ -542,16 +542,16 @@ Isn't that the whole point of all these pardon things? To reduce incentives to u
 reply
 
 cjbgkagh
- 
+
 1 hour ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Or concretely, would the Israeli wars end sooner if Netanyahu was pardoned of all crimes? Would Kim Jong Un consider giving up his position if he could be pardoned, or at least credibly believe that he could live a life in luxurious exile? I don’t know the answer to either of those questions, but I do think letting some people get away with crimes with witness immunity can make it much more difficult for criminals to organize as the optimum move is to defect before anyone else does. Which is why I think elite blackmail focuses on unforgivable deeds.
@@ -559,18 +559,18 @@ Or concretely, would the Israeli wars end sooner if Netanyahu was pardoned of al
 reply
 
 ceejayoz
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 They're a release valve for "the system fucked up and permitted an injustice".
@@ -580,19 +580,19 @@ Avoiding responsibility isn't the goal, and shouldn't be possible.
 reply
 
 vidluther
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-So this was the first time (i think) anyone got a preemptive pardon, the actual warrant on the DOJ website says what it says.. 
+So this was the first time (i think) anyone got a preemptive pardon, the actual warrant on the DOJ website says what it says..
 https://www.justice.gov/pardon/media/1385756/dl?inline
 
 Will have to crunch through the offenses in the db and see if anything else like this shows up.
@@ -600,16 +600,16 @@ Will have to crunch through the offenses in the db and see if anything else like
 reply
 
 lelandfe
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Preemptive meaning they hadn't yet been convicted. Nixon was pardoned by Ford in this manner (for "all offenses against the United States" between Jan. 20, 1969—Aug. 9, 1974). Carter preemptively mass-pardoned draft dodgers, etc.
@@ -617,16 +617,16 @@ Preemptive meaning they hadn't yet been convicted. Nixon was pardoned by Ford in
 reply
 
 vidluther
- 
+
 7 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I did not know that. Thanks for the lesson.
@@ -634,16 +634,16 @@ I did not know that. Thanks for the lesson.
 reply
 
 whoiskevin
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Look at what the Trump administration has done with the DOJ pursuing unwarranted indictments against anyone Trump doesn't like. All getting thrown out so far. And you lead with questioning why one of his constant targets would pardon his family?
@@ -654,16 +654,16 @@ All the while the Trump grift machine continues without so much as a blink.
 reply
 
 GorbachevyChase
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 So two wrongs have made a right in this case? I think that you should not be emotionally invested in internet people impugning the honor of one crime family over another.
@@ -671,16 +671,16 @@ So two wrongs have made a right in this case? I think that you should not be emo
 reply
 
 ceejayoz
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 > So two wrongs have made a right in this case?
@@ -690,34 +690,34 @@ No, it wasrightto consider the possibility that Trump would violate the norms he
 reply
 
 nozzlegear
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-> 
+>
 crime family
 
 reply
 
 lateforwork
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Are you able to track repeat pardons of the same offender? If not you have a bug.
@@ -727,14 +727,14 @@ https://pardonned.com/pardon/details/adriana-isabel-camberos...Adriana Camberos 
 reply
 
 vidluther
- 
+
 46 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Interesting story, but I do not see her name in the list of pardons and commutations on the source website twice.
@@ -744,32 +744,32 @@ https://www.justice.gov/pardon/commutations-granted-presiden...She only shows up
 reply
 
 yorwba
- 
+
 20 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-The first time was under the name Adriana Shayota: 
+The first time was under the name Adriana Shayota:
 https://www.justice.gov/usao-sdca/pr/federal-jury-convicts-s...
 
 reply
 
 spuz
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is the kind of data I would like to see on ourworldindata.org. They have good tools for visualising data and comparing between countries.
@@ -777,14 +777,14 @@ This is the kind of data I would like to see on ourworldindata.org. They have go
 reply
 
 cs702
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Thank you. Apologies in advance for nitpicking, but I think the correct spelling is "pardoned" (a quick search on Google confirms it).
@@ -792,14 +792,14 @@ Thank you. Apologies in advance for nitpicking, but I think the correct spelling
 reply
 
 SpyCoder77
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Most likely that domain was already taken.
@@ -807,16 +807,16 @@ Most likely that domain was already taken.
 reply
 
 vidluther
- 
+
 33 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It's a play on Donald Trump, after watching a Liz Oyer video linking a very plausible pardon for sale scheme, I wanted to initially build a site that showcased pardons just by Trump, but I realized that would be partisan and not as useful.
@@ -824,16 +824,16 @@ It's a play on Donald Trump, after watching a Liz Oyer video linking a very plau
 reply
 
 SpaceL10n
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Pardon me, but this is a list of pardons given to pardoned people.
@@ -841,35 +841,35 @@ Pardon me, but this is a list of pardons given to pardoned people.
 reply
 
 ceejayoz
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-I'd presumed this was a wordplay on 
+I'd presumed this was a wordplay on
 Don
 ald Trump.
 
 reply
 
 vidluther
- 
+
 52 minutes ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 correct.
@@ -877,14 +877,14 @@ correct.
 reply
 
 jimkleiber
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I like the concept. I'd love to see more types of data available, especially maybe race, age, connection to the president or their families, donations that the pardoned/commuted people have given and to whom, and more.
@@ -894,14 +894,14 @@ I'd find that fascinating for seeing deeper patterns.
 reply
 
 millbj92
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Presidents shouldn't have the right to outright pardon people. It should have to go through some sort of body beforehand and be voted on like everything else.
@@ -909,14 +909,14 @@ Presidents shouldn't have the right to outright pardon people. It should have to
 reply
 
 salawat
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The Pardon is a structural check on the legislative and judiciary. It cannot be done away with safely without causing massive problems down the road. If anything, this should be a learning experience for the country not to put criminally inclined presidents in office.
@@ -924,14 +924,14 @@ The Pardon is a structural check on the legislative and judiciary. It cannot be 
 reply
 
 wavint
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This is exactly the kind of thing the DOJ website should have provided natively. Good reminder that "public record" and "actually accessible" are very different things. Bookmarked.
@@ -939,14 +939,14 @@ This is exactly the kind of thing the DOJ website should have provided natively.
 reply
 
 ks2048
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Just yesterday, Trump said he's going to “pardon everyone who has come within 200 feet of the Oval.” [1] Free reign for crimes for the next 2.5 years.
@@ -956,33 +956,33 @@ Maybe removing this pardoning power could be a bipartisan goal... I guess we sho
 reply
 
 amanaplanacanal
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-On the bright side, if they get pardoned they can't plead the fifth and can be forced to testify against anyone 
+On the bright side, if they get pardoned they can't plead the fifth and can be forced to testify against anyone
 not
  pardoned.
 
 reply
 
 technothrasher
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Unfortunately, probably not. As they could simply invoke the fifth under the claim that they might incriminate themselves under some state law.
@@ -990,16 +990,16 @@ Unfortunately, probably not. As they could simply invoke the fifth under the cla
 reply
 
 CobraMode
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 As long as they can still pardon the turkey.
@@ -1007,16 +1007,16 @@ As long as they can still pardon the turkey.
 reply
 
 Lio
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Pardon him for what? What is the charge here? Being a meal? Being a succulent Chinese meal?
@@ -1024,34 +1024,34 @@ Pardon him for what? What is the charge here? Being a meal? Being a succulent Ch
 reply
 
 winstonewert
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-For anyone who might be confused about the pardoning a turkey reference: 
+For anyone who might be confused about the pardoning a turkey reference:
 https://en.wikipedia.org/wiki/National_Thanksgiving_Turkey_P...
 
 reply
 
 DonHopkins
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Or the succulent Chinese meal reference:
@@ -1061,14 +1061,14 @@ https://www.youtube.com/watch?v=q4bPMxeCnoshttps://en.wikipedia.org/wiki/Democra
 reply
 
 kupadapuku
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Love this idea - if I were to extend it, I'd add some kind of analysis breaking down the % composition of pardons (fraud vs drug offences vs financial crime) by President to see if there's some common trend. I was a little surprised to see the Obama number quite so high, until it became apparent that the vast majority were drug offenders being pardoned
@@ -1076,14 +1076,14 @@ Love this idea - if I were to extend it, I'd add some kind of analysis breaking 
 reply
 
 justin66
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The Obama number is also high because the designer combined Obama's first and second terms into one figure, unlike what he did with the other presidents who served two terms.
@@ -1091,19 +1091,19 @@ The Obama number is also high because the designer combined Obama's first and se
 reply
 
 vidluther
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
-Hmm, I see the issue.. The DOJ website lists all of Obama's as once, so I need to modify the parser.. 
+Hmm, I see the issue.. The DOJ website lists all of Obama's as once, so I need to modify the parser..
 https://www.justice.gov/pardon/pardons-granted-president-bar...
 
 Compare that to the other list.https://www.justice.gov/pardon/clemency-recipients
@@ -1111,16 +1111,16 @@ Compare that to the other list.https://www.justice.gov/pardon/clemency-recipient
 reply
 
 darknavi
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That's probably intentional on the DOJ's part at this point.
@@ -1128,16 +1128,16 @@ That's probably intentional on the DOJ's part at this point.
 reply
 
 vidluther
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 not sure why you think it's intentional. But, created a github issue, and will work on that today/tonight.. yay GLM 5.1 :)
@@ -1147,16 +1147,16 @@ https://github.com/vidluther/pardonned/issues/23
 reply
 
 darknavi
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 I meant it's probably intentional that the data being represented differently on the DOJ's website, not your tracker website.
@@ -1164,18 +1164,18 @@ I meant it's probably intentional that the data being represented differently on
 reply
 
 regular_trash
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Stuff like this is very common. For example, at the start of Trump's second term, the whitehouse history page was changed to make democrat presidents look bad -
@@ -1185,18 +1185,18 @@ https://www.whitehouse.gov/about-the-white-house/the-white-h...
 reply
 
 duskdozer
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 >not sure why you think it's intentional
@@ -1206,18 +1206,18 @@ It's entirely on brand.
 reply
 
 hk1337
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Even so, it’s still higher than the other presidents listed
@@ -1225,16 +1225,16 @@ Even so, it’s still higher than the other presidents listed
 reply
 
 vidluther
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 A bunch of mass commutations have occurred under Obama, Biden, and most recently under Trump, I'm working on a comparison tool, so we can visualize the change in number of pardons by president, further breakdown of composition is an interesting idea as well.
@@ -1242,16 +1242,16 @@ A bunch of mass commutations have occurred under Obama, Biden, and most recently
 reply
 
 GorbachevyChase
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 A more interesting analysis to me would not be the number pardoned, but rather the monetary value of correlated donations or direct financial interests. Pardons are one of the many services for sale, it seems.
@@ -1259,16 +1259,16 @@ A more interesting analysis to me would not be the number pardoned, but rather t
 reply
 
 vunderba
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Agreed. I often compare the way the current administration is wielding the pardon system to the old Catholic practice of papal indulgences.
@@ -1276,18 +1276,18 @@ Agreed. I often compare the way the current administration is wielding the pardo
 reply
 
 vidluther
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 that is in the works. Working on making sure the data of the pardons is correct first.
@@ -1295,16 +1295,16 @@ that is in the works. Working on making sure the data of the pardons is correct 
 reply
 
 nonameiguess
- 
+
 6 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I'm pretty sure the numbers are going up simply because 1) 90s sentencing laws got insanely strict and prisons are full of old guys serving inflated sentences, 2) drug laws eventually became more lax and people are in prison for things that aren't even criminal any more, and 3) prisons have simply run out of space and it's easier to release people than build more.
@@ -1314,16 +1314,16 @@ This kind of topic is bound to bring up a lot of outrage, but I'd invite people 
 reply
 
 GorbachevyChase
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Friend, I hope you do not actually believe that man was selling dope because of his nuanced political theories.
@@ -1331,16 +1331,16 @@ Friend, I hope you do not actually believe that man was selling dope because of 
 reply
 
 fabianholzer
- 
+
 2 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Be that as it may, the jurisdiction I am living in has an explicit right to refuse to testify against a spouse. It is wild to me that one can construct a crime out of that, let alone one that warrants a decade of incarceration.
@@ -1348,18 +1348,18 @@ Be that as it may, the jurisdiction I am living in has an explicit right to refu
 reply
 
 none2585
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Why is that so hard to believe?
@@ -1367,18 +1367,18 @@ Why is that so hard to believe?
 reply
 
 vidluther
- 
+
 6 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 @nonameiguess I agree on the pardon buying, the reason why I started looking into building this was because of a video by Liz Oyer, who pointed out all the restitution and fines that were being forgiven under Trump.
@@ -1388,16 +1388,16 @@ That's kind of how I came upon the name for the site, I wanted to see if there i
 reply
 
 justin66
- 
+
 5 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The next step would be to dig into how much money is spent lobbying for pardons.
@@ -1407,14 +1407,14 @@ https://campaignlegal.org/update/inside-pardon-playbook-anal...I'm pretty new to
 reply
 
 xrd
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Really terrific. Such fun to see overviews and then dig into the details to see how assumptions about each situation were inaccurate at first glance.
@@ -1422,14 +1422,14 @@ Really terrific. Such fun to see overviews and then dig into the details to see 
 reply
 
 jsiepkes
- 
+
 8 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 > Pardons granted by Donald J. Trump (Second Term) Not Including the January 6th Pardons
@@ -1439,14 +1439,14 @@ Why not include the January 6th pardons?
 reply
 
 vidluther
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 That disclaimer is there for now to make it clear that we're not showing that data yet. I need to figure out how to show the mass commutations done by Biden as well.
@@ -1456,14 +1456,14 @@ Working on a comparison tool, so we can see # of pardons over admins, it seems t
 reply
 
 soumyaskartha
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 This kind of civic data should have been easily searchable for years. The fact that someone had to build it says a lot about how accessible government records actually are.
@@ -1471,14 +1471,14 @@ This kind of civic data should have been easily searchable for years. The fact t
 reply
 
 dopidopHN2
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Land of the free ( white collard criminals )
@@ -1486,14 +1486,14 @@ Land of the free ( white collard criminals )
 reply
 
 digdugdirk
- 
+
 7 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Your numbers seem a bit off on the second Trump term. Trevor Milton was on the hook for over half a billion dollars of restitution alone.
@@ -1501,14 +1501,14 @@ Your numbers seem a bit off on the second Trump term. Trevor Milton was on the h
 reply
 
 vidluther
- 
+
 7 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Thanks for the heads up on that.. there's a lot of massaging/cross checking that still needs to be done. Right now the numbers are based purely on what the sentence is described on the DOJ website.
@@ -1518,14 +1518,14 @@ https://www.justice.gov/pardon/clemency-grants-president-don...cmd-f trevor milt
 reply
 
 hk1337
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 I would have thought a lot of the drug offense pardons by Obama would have been for marijuana but looking at the first few pages, they’re not.
@@ -1535,14 +1535,14 @@ I would have thought a lot of the drug offense pardons by Obama would have been 
 reply
 
 mpassman
- 
+
 5 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Nice.
@@ -1551,14 +1551,14 @@ But why show Restitution Abandoned etc. if you have no way to calculate it?
 reply
 
 vidluther
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 i am calculating it if it's available in the sentence details. If the sentence details don't have a fine or restitution then we can't calculate it.
@@ -1566,16 +1566,16 @@ i am calculating it if it's available in the sentence details. If the sentence d
 reply
 
 elicash
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Would love if you can track this more deeply and sort/filter/search through restitutions and fines. The ones you know about, that is.
@@ -1583,14 +1583,14 @@ Would love if you can track this more deeply and sort/filter/search through rest
 reply
 
 fgkuescvricky
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Have you created a linked data SPARQL endpoint?
@@ -1598,14 +1598,14 @@ Have you created a linked data SPARQL endpoint?
 reply
 
 shimman
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Reminder that the pardon is a vestigial leftover from monarchism. The idea that one single person can go "nuh uh" in a democratic country is just another massive failure of the US constitution, a legal document written to suppress the will of the people and allow for minority rule but too sacrosanct to change for "reasons" that all seem to only benefit a small minority of people.
@@ -1615,14 +1615,14 @@ Relegate pardon powers to only amount to commutations, at the bare minimum.Oh fu
 reply
 
 vunderba
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Thanks for this. As engineers, I think it’s natural for us to look at things like executive orders and pardons, tools that seemingly have no real restrictions or caps, and immediately see them as open to exploitation by bad actors.
@@ -1632,14 +1632,14 @@ The pardon system in particular needs a serious overhaul. For every case where a
 reply
 
 andrewstuart
- 
+
 6 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Pardon power can serve no reasonable goal in a functioning democracy except to subvert justice.
@@ -1647,14 +1647,14 @@ Pardon power can serve no reasonable goal in a functioning democracy except to s
 reply
 
 glerk
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 https://pardonned.com/search/?president=obama-2&categories=d...
@@ -1664,16 +1664,16 @@ I haven’t looked into each case here, but I assume these are a bunch of non-vi
 reply
 
 layer8
- 
+
 4 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The parent’s wording does actually imply that subverting justice is a reasonable goal.
@@ -1681,16 +1681,16 @@ The parent’s wording does actually imply that subverting justice is a reasonab
 reply
 
 ceejayoz
- 
+
 4 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 There's some value to "the President can correct some wrongs". There are genuine miscarriages of justice sometimes and it's kinda nice to have a release valve for them.
@@ -1700,16 +1700,16 @@ The recent presidential immunity decision just made the downsides way more likel
 reply
 
 fernmyth
- 
+
 5 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 It’s an alternative to coups and civil wars. The deal made in private conversations is something like “Give up power peacefully. Everybody gets pardoned and goes home to their families. Nobody needs to do anything crazy or violent out of desperation to avoid prison.”
@@ -1717,16 +1717,16 @@ It’s an alternative to coups and civil wars. The deal made in private conversa
 reply
 
 salawat
- 
+
 1 hour ago
- 
- | 
+
+ |
 parent
- | 
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Justice is a moving target mate. Should people who had a few pounds of reefer still be serving 30 year sentences? 90's adults would probably say yes. Today? Not so much. Part of being human is being open to the fact you were wrong. The Pardon is the release valve that lets the Chief Executive remove the targets the System has painted on people's backs in response to a clear shift in public conscience. The public in recent history, threw all prudence to the wind and put a con man in office. Surprise, surprise when a con man uses the office to do what con men do.
@@ -1734,14 +1734,14 @@ Justice is a moving target mate. Should people who had a few pounds of reefer st
 reply
 
 Luki1234
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 cool
@@ -1749,14 +1749,14 @@ cool
 reply
 
 insane_dreamer
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Presidential pardons should be banned, period. All presidential pardons are political in nature, and therefore not based on justice.
@@ -1764,19 +1764,19 @@ Presidential pardons should be banned, period. All presidential pardons are poli
 reply
 
 Guidelines
- | 
+ |
 FAQ
- | 
+ |
 Lists
- | 
+ |
 API
- | 
+ |
 Security
- | 
+ |
 Legal
- | 
+ |
 Apply to YC
- | 
+ |
 Contact
 
 Search:

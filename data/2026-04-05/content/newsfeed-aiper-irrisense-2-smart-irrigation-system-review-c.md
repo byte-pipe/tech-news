@@ -16,7 +16,7 @@ tags:
 ---
 
 $599
- 
+
 $470
  at Amazon
 Save Story
@@ -83,7 +83,7 @@ Photograph: Chris Null
 While the device is sturdy and largely meets expectations, the $500 asking price for the IrriSense 2 is a heavy one, though not nearly the cost of an in-ground setup. While you’ll likely get better results from a permanent irrigation system, that’s not an option for everyone. If anything, this is a much more effective solution than a traditional hose-attached sprinkler, no matter how smart the controller is that it’s connected to.
 
 $599
- 
+
 $470
  at Amazon
 
@@ -92,7 +92,7 @@ $470
 Back to top
 Triangle
 Christopher Null
-, a longtime technology journalist, is a contributor to WIRED and the editor of Drinkhacker. Chris is among our lead laptop reviewers and leads WIRED's coverage of hearing aids. He was previously executive editor of PC Computing magazine and the founding editor in chief of Mobile magazine. ... 
+, a longtime technology journalist, is a contributor to WIRED and the editor of Drinkhacker. Chris is among our lead laptop reviewers and leads WIRED's coverage of hearing aids. He was previously executive editor of PC Computing magazine and the founding editor in chief of Mobile magazine. ...
 Read More
 
 Topics

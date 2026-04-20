@@ -142,7 +142,7 @@ And if you ever feel like you don’t belong in tech, remember this:
 Sometimes all it takes is one enabler to change your trajectory — and someday, that enabler might be you.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

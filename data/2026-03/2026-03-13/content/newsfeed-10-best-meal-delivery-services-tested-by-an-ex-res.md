@@ -298,17 +298,17 @@ Power up with unlimited access toWIRED. Get best-in-class reporting and exclusiv
 Back to top
 Triangle
 Matthew Korfhage
- is a staff writer and reviewer on WIRED's Gear team, where he focuses on home and kitchen devices that range from 
+ is a staff writer and reviewer on WIRED's Gear team, where he focuses on home and kitchen devices that range from
 air fryers
- and 
+ and
 coffee machines
- to 
+ to
 space heaters
-, 
+,
 water filters
-, and 
+, and
 beard trimmers
-. Before joining WIRED in 2024, he covered food, drink, business, culture, and technology for ... 
+. Before joining WIRED in 2024, he covered food, drink, business, culture, and technology for ...
 Read More
 Product Writer & Reviewer
 * LinkedIn

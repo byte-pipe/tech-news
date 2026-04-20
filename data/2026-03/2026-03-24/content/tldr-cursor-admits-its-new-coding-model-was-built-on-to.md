@@ -27,7 +27,7 @@ However, Cursor’s vice president of developer educationLee Robinson soon ackno
 
 Robinson also insisted that Cursor’s use of Kimi was consistent with the terms of its license, a point the Kimi account on X repeated in asubsequent post congratulating Cursor, where it said Cursor used Kimi “as part of an authorized commercial partnership” with Fireworks AI.
 
- 
+
 
 Techcrunch event
 
@@ -56,22 +56,22 @@ Cursor co-founder Aman Sangeracknowledged, “It was a miss to not mention the K
 Topics
 
 AI
-, 
+,
 cursor
-, 
+,
 kimi
-, 
+,
 moonshot ai
-, 
+,
 Startups
- 
 
-			Anthony Ha	
+
+			Anthony Ha
 
 Anthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.
 
 You can contact or verify outreach from Anthony by emailinganthony.ha@techcrunch.com.
 
- 
+
 
 View Bio

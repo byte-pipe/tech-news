@@ -11,7 +11,7 @@ summarized_at: 2026-04-17T11:58:12.540979
 
 # Apple Business Launches Free Service to 200+ Countries Today
 
-Apple has officially launched its all-new Apple Business platform globally, starting today. This free service caters to small businesses seeking better management tools for their Apple devices and is expected to be accompanied by millions migrating to the Mac with MacBook Neo. 
+Apple has officially launched its all-new Apple Business platform globally, starting today. This free service caters to small businesses seeking better management tools for their Apple devices and is expected to be accompanied by millions migrating to the Mac with MacBook Neo.
 
 **Key Features:**
 

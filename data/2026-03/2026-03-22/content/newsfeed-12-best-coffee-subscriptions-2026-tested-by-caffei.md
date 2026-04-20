@@ -27,11 +27,11 @@ Best Single-Origin Coffee Subscription
 Atlas Coffee Club Coffee Subscription
 Read more
 $17
- 
+
 $9
- 
+
 (47% off)
- 
+
 
 Atlas (12 Oz)
 
@@ -39,7 +39,7 @@ Coffee Subscription With the Best Selection
 Trade Coffee Subscription
 Read more
 $17
- 
+
 
 Trade (11 Oz Bag)
 
@@ -47,7 +47,7 @@ Best-Curated Coffee Subscription
 Podium Coffee Club Coffee Subscription
 Read more
 $30
- 
+
 
 Podium (Platinum Subscription)
 
@@ -55,7 +55,7 @@ Best Coffee Subscription for Chocolate Lovers
 Bean Box Coffee Subscription
 Read more
 $18
- 
+
 
 Bean Box (Subscription)
 
@@ -287,17 +287,17 @@ Power up with unlimited access to WIRED.Get best-in-class reporting that's too i
 Back to top
 Triangle
 Matthew Korfhage
- is a staff writer and reviewer on WIRED's Gear team, where he focuses on home and kitchen devices that range from 
+ is a staff writer and reviewer on WIRED's Gear team, where he focuses on home and kitchen devices that range from
 air fryers
- and 
+ and
 coffee machines
- to 
+ to
 space heaters
-, 
+,
 water filters
-, and 
+, and
 beard trimmers
-. Before joining WIRED in 2024, he covered food, drink, business, culture, and technology for ... 
+. Before joining WIRED in 2024, he covered food, drink, business, culture, and technology for ...
 Read More
 Product Writer & Reviewer
 * LinkedIn
@@ -325,7 +325,7 @@ It’s stylish and reliable—and you can pry my Moccamaster from my cold, dead 
 Simon Hill
 How to Shop for Protein Bars That Aren’t Just Candy Bars
 What to prioritize, what to skip, when to enjoy—plus, we’ve selected WIRED's favorite bars worth trying.
-Boutayna Chokrane 
+Boutayna Chokrane
 Meet Scotland’s Whisky-Sniffing Robot Dog
 Inside Dewar’s cavernous whisky warehouses, man’s best mechanical friend—a Boston Dynamics robot dog with an ethanol sensor for a nose—is on the hunt for leaky barrels.
 Christopher Null
@@ -340,7 +340,7 @@ The iconic hourglass pour-over brewer proves great design never goes out of styl
 Martin Cizmar
 The WIRED Guide to Chicago for Business Travelers
 Where to lock in, power down, and actually enjoy your business trip.
-Boutayna Chokrane 
+Boutayna Chokrane
 I Test Many Coffee Makers. This Is Why the Ratio Four Never Leaves My Counter
 A new generation of home machines has made good old drip coffee a place for connoisseurs. For more than a year, the Four is the source of my morning cup.
 Matthew Korfhage

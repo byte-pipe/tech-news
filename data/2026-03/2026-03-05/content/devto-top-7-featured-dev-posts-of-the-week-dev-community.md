@@ -108,7 +108,7 @@ Congrats to all the authors that made it onto the list 👏
 And that's a wrap for this week's Top 7 roundup! 🎬 We hope you enjoyed this eclectic mix of insights, stories, and tips from our talented authors. Keep coding, keep learning, and stay tuned to DEV for more captivating content andmake sure you’re opted in to our Weekly Newsletter📩 for all the best articles, discussions, and updates.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

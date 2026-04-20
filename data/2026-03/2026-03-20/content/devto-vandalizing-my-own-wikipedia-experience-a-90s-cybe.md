@@ -42,11 +42,11 @@ The resulting script is a beautiful combination of modern DOM manipulation and d
 If we are going to read about theEmu War, that title needs tomove. The script grabs the#firstHeadingelement and violently wraps its inner HTML in a<marquee>tag.
 
 var
- 
+
 $title
- 
+
 =
- 
+
 $
 (
 '
@@ -55,11 +55,11 @@ $
 );
 
 var
- 
+
 titleText
- 
+
 =
- 
+
 $title
 .
 html
@@ -72,13 +72,13 @@ html
 '
 <marquee scrollamount="15" behavior="alternate">
 '
- 
+
 +
- 
+
 titleText
- 
+
 +
- 
+
 '
 </marquee>
 '
@@ -97,38 +97,38 @@ To create the mouse trail, the script listens to themousemoveevent and appends a
 To prevent this from immediately melting my GPU (a very real threat when generating hundreds of DOM nodes a second), the model smartly implemented a timestamp throttle:
 
 var
- 
+
 now
- 
+
 =
- 
+
 Date
 .
 now
 ();
 
-if 
+if
 (
 now
- 
+
 -
- 
+
 lastSparkleTime
- 
+
 <
- 
+
 40
 )
- 
+
 return
 ;
- 
+
 // Only spawn a sparkle every 40ms
 
 lastSparkleTime
- 
+
 =
- 
+
 now
 ;
 
@@ -151,21 +151,21 @@ The second animation creates the "walking" illusion. If you think about the geom
 To make it look like a chaotic squad rather than a synchronized military parade, the script uses thenth-child(even)pseudo-class to offset the animation delay of every other cat:
 
 .walking-cat
- 
+
 {
 
- 
+
 animation
 :
- 
+
 catBounce
- 
+
 0.4s
- 
+
 alternate
- 
+
 infinite
- 
+
 ease-in-out
 ;
 
@@ -176,16 +176,16 @@ ease-in-out
 (
 even
 )
- 
+
 {
 
- 
+
 animation-delay
 :
- 
+
 0.2s
 ;
- 
+
 /* Phase offset for the bounce! */
 
 }
@@ -211,7 +211,7 @@ It is awful. I am never turning it off.
 If you want to ruin your own Wikipedia experience, you can find the complete script in the replies below. Just remember to log in, navigate toSpecial:MyPage/common.jsandSpecial:MyPage/common.css, and let the 90s flow through you.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

@@ -27,8 +27,8 @@ Impractical sure, but fun.
 Impractical sure, but fun.
 
 by
- 
- 
+
+
 Terrence O'Brien
 Mar 15, 2026, 7:35 PM UTC
 * Link
@@ -36,7 +36,7 @@ Mar 15, 2026, 7:35 PM UTC
 * Gift
 Screenshot: Terrence O’Brien / The Verge
 Terrence O'Brien
- 
+
 is the Verge’s weekend editor. He has over 18 years of experience, including 10 years as managing editor at Engadget.
 
 Aether OSputs a full-fledged desktop in your browser that ties directly into theAT Protocol. That means it connects to your Bluesky account and other public records. It offers a prettyfull suite of apps, 42 in total, covering text editing, task management, and social media. There’s even a rudimentary tracker for making chiptunes, a DAW, and a video editor.
@@ -68,19 +68,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

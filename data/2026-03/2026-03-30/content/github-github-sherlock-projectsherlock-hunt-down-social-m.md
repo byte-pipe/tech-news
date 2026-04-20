@@ -11,7 +11,7 @@ description: Hunt down social media accounts by username across social networks 
 
 sherlock-project
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork8.8k
 * Star74.3k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -127,7 +127,7 @@ Notes
 pipx install sherlock-project
 
 pip
- may be used in place of 
+ may be used in place of
 pipx
 
 docker run -it --rm sherlock/sherlock
@@ -150,7 +150,7 @@ sherlock user1 user2 user3
 
 Accounts found will be stored in an individual text file with the corresponding username (e.guser123.txt).
 
-$ 
+$
 sherlock --help
 
 usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT]
@@ -241,31 +241,31 @@ optional arguments:
 
 You can run Sherlock in the cloud without installation using theSherlock ActoronApifyfree of charge.
 
-$ 
+$
 echo
- 
+
 '
 {"usernames":["user123"]}
 '
- 
+
 |
  apify call -so netmilk/sherlock
 [{
- 
+
 "
 username
 "
-: 
+:
 "
 user123
 "
 ,
- 
+
 "
 links
 "
 : [
- 
+
 "
 https://www.1337x.to/user/user123/
 "
@@ -330,61 +330,61 @@ sherlockproject.xyz
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 74.3k
 
  stars
- 
+
 
 ### Watchers
 
 1.2k
 
  watching
- 
+
 
 ### Forks
 
 8.8k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases2
 
@@ -392,11 +392,11 @@ Sherlock v0.16.0
 
  Latest
 
- 
+
 
 Sep 16, 2025
 
- 
+
 
 + 1 release
 
@@ -406,11 +406,11 @@ Sep 16, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
@@ -418,9 +418,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -428,9 +428,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -18,7 +18,7 @@ tags:
 Transform your old laptop into a powerful always-online server. Based in Amsterdam, we aim to provide professional colocation services in the US and across European datacenters in partnership with Hetzner.
 
  Apply Now
- 
+
 
 ## Why Your Old Laptop Beats VPS Solutions
 

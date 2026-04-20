@@ -15,7 +15,7 @@ tags:
 
 neovim
 
- 
+
 
 /
 
@@ -28,7 +28,7 @@ Public
 * Fork6.7k
 * Star97.7k
 
- 
+
 
 # Nvim 0.12.0
 
@@ -36,24 +36,24 @@ Latest
 
 Latest
 
- 
+
 
 Compare
 
 # Choose a tag to compare
 
- 
+
 
 ## Sorry, something went wrong.
 
- 
+
 
  Filter
 
- 
+
 Loading
 
- 
+
 
 ## Sorry, something went wrong.
 
@@ -61,36 +61,36 @@ Loading
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ## No results found
 
- 
 
- 
- 
+
+
+
 
 View all tags
 
- 
+
 
 github-actions
 
  released this
 
- 
+
 
  29 Mar 17:16
- 
+
 
  v0.12.0
- 
 
- 
+
+
 
 fc7e5cf
 
@@ -169,76 +169,76 @@ If your system does not have the required glibc version, try the (unsupported)bu
 
 * Install bypackage manager
 
- 
+
 
 Assets
 
 14
 
- 
 
- 
+
+
 Loading
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 👍
 
 159
 
- 
+
 superatomic, Trenek, BojanStipic, larscher, BBboy01, miRceLzeS, solidsniper, sabisho, dhtzs, slavafyi, and 149 more reacted with thumbs up emoji
 
- 
+
 😄
 
 29
 
- 
+
 usmonovshohruxmirzo, csmponias, yaadata, DumbNoxx, jackwiseman, prg318, happy663, ownself, shikil, sheeaza, and 19 more reacted with laugh emoji
 
- 
+
 🎉
 
 240
 
- 
+
 Degubi, samyilin, morlipty, superatomic, prothegee, echasnovski, FerretDetective, leosumi, jakewan, Trenek, and 230 more reacted with hooray emoji
 
- 
+
 ❤️
 
 140
 
- 
+
 superatomic, Trenek, BojanStipic, larscher, BBboy01, seandewar, vincentlabelle, przepompownia, comfysage, sabisho, and 130 more reacted with heart emoji
 
- 
+
 🚀
 
 91
 
- 
+
 superatomic, Trenek, BojanStipic, larscher, BBboy01, seandewar, przepompownia, sabisho, dhtzs, slavafyi, and 81 more reacted with rocket emoji
 
- 
+
 👀
 
 25
 
- 
+
 superatomic, Trenek, sabisho, dhtzs, ankushbhagats, m4r1vs, blurskye, gx089, SuggonM, ducvuongpham, and 15 more reacted with eyes emoji
 
- 
+
 
 All reactions
 
- 
+
 365 people reacted

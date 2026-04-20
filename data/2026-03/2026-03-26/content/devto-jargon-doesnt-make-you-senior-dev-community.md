@@ -104,7 +104,7 @@ Jargon doesn't make you senior. Clarity does.
 I write daily about engineering leadership atjonoherrington.com.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -115,6 +115,6 @@ Preview
 Dismiss
 
  View full discussion (16 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

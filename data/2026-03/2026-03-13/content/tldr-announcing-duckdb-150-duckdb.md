@@ -47,29 +47,29 @@ We shipped anew color paletteand harmonized it with the documentation. The color
 You can customize the color scheme using the.highlight_colorsdot command:
 
 .highlight_colors
- 
+
 column_name
- 
+
 darkgreen
- 
+
 bold_underline
 
 .highlight_colors
- 
+
 numeric_value
- 
+
 red
- 
+
 bold
 
 .highlight_colors
- 
+
 string_value
- 
+
 purple2
 
 FROM
- 
+
 ducks
 ;
 
@@ -80,47 +80,47 @@ DuckDB v1.5.0 introduces dynamic prompts for the CLI (PR #19579). By default, th
 duckdb
 
 memory
- 
+
 D
- 
+
 ATTACH
- 
+
 'my_database.duckdb'
 ;
 
 memory
- 
+
 D
- 
+
 USE
- 
+
 my_database
 ;
 
 my_database
- 
+
 D
- 
+
 CREATE
- 
+
 SCHEMA
- 
+
 my_schema
 ;
 
 my_database
- 
+
 D
- 
+
 USE
- 
+
 my_schema
 ;
 
 my_database.my_schema
- 
+
 D
- 
+
 ...
 
 These prompts can be configured using bracket codes to have a maximum length, run a custom query, use different colors, etc. (#19579).
@@ -130,33 +130,33 @@ These prompts can be configured using bracket codes to have a maximum length, ru
 To show the columns of an individual table, use theDESCRIBEstatement:
 
 memory
- 
+
 D
- 
+
 ATTACH
- 
+
 'https://blobs.duckdb.org/data/animals.db'
- 
+
 AS
- 
+
 animals_db
 ;
 
 memory
- 
+
 D
- 
+
 USE
- 
+
 animals_db
 ;
 
 animals_db
- 
+
 D
- 
+
 DESCRIBE
- 
+
 ducks
 ;
 
@@ -171,31 +171,31 @@ ducks
 The.tablesdot commandlists the attached catalogs, the schemas and tables in them, and the columns in each table.
 
 memory
- 
+
 D
- 
+
 ATTACH
- 
+
 'https://blobs.duckdb.org/data/animals.db'
- 
+
 AS
- 
+
 animals_db
 ;
 
 memory
- 
+
 D
- 
+
 ATTACH
- 
+
 'https://blobs.duckdb.org/data/numbers1.db'
 ;
 
 memory
- 
+
 D
- 
+
 .tables
 
  ────────────── animals_db ───────────────
@@ -226,219 +226,219 @@ D
 You can access the last result of a query inline using the underscore character_. This is not only convenient but also makes it unnecessary to re-run potentially long-running queries:
 
 memory
- 
+
 D
- 
+
 ATTACH
- 
+
 'https://blobs.duckdb.org/data/animals.db'
- 
+
 AS
- 
+
 animals_db
 ;
 
 memory
- 
+
 D
- 
+
 USE
- 
+
 animals_db
 ;
 
 animals_db
- 
+
 D
- 
+
 FROM
- 
+
 ducks
- 
+
 WHERE
- 
+
 extinct_year
- 
+
 IS
- 
+
 NOT
- 
+
 NULL
 ;
 
 ┌───────┬──────────────────┬──────────────┐
 
 │
- 
+
 id
- 
+
 │
- 
+
 name
- 
+
 │
- 
+
 extinct_year
- 
+
 │
 
 │
- 
+
 int32
- 
+
 │
- 
+
 varchar
- 
+
 │
- 
+
 int32
- 
+
 │
 
 ├───────┼──────────────────┼──────────────┤
 
 │
- 
+
 1
- 
+
 │
- 
+
 Labrador
- 
+
 Duck
- 
+
 │
- 
+
 1878
- 
+
 │
 
 │
- 
+
 3
- 
+
 │
- 
+
 Crested
- 
+
 Shelduck
- 
+
 │
- 
+
 1964
- 
+
 │
 
 │
- 
+
 5
- 
+
 │
- 
+
 Pink
 -
 headed
- 
+
 Duck
- 
+
 │
- 
+
 1949
- 
+
 │
 
 └───────┴──────────────────┴──────────────┘
 
 animals_db
- 
+
 D
- 
+
 FROM
- 
+
 _
 ;
 
 ┌───────┬──────────────────┬──────────────┐
 
 │
- 
+
 id
- 
+
 │
- 
+
 name
- 
+
 │
- 
+
 extinct_year
- 
+
 │
 
 │
- 
+
 int32
- 
+
 │
- 
+
 varchar
- 
+
 │
- 
+
 int32
- 
+
 │
 
 ├───────┼──────────────────┼──────────────┤
 
 │
- 
+
 1
- 
+
 │
- 
+
 Labrador
- 
+
 Duck
- 
+
 │
- 
+
 1878
- 
+
 │
 
 │
- 
+
 3
- 
+
 │
- 
+
 Crested
- 
+
 Shelduck
- 
+
 │
- 
+
 1964
- 
+
 │
 
 │
- 
+
 5
- 
+
 │
- 
+
 Pink
 -
 headed
- 
+
 Duck
- 
+
 │
- 
+
 1949
- 
+
 │
 
 └───────┴──────────────────┴──────────────┘
@@ -448,24 +448,24 @@ Duck
 Last but not least, the CLI now has a pager! It is triggered when there are more than 50 rows in the results.
 
 memory
- 
+
 D
- 
+
 .maxrows
- 
+
 100
 
 memory
- 
+
 D
- 
+
 FROM
- 
+
 range
 (
 0
 ,
- 
+
 100
 );
 
@@ -478,37 +478,37 @@ The initial implementation of the pager was provided bytobwenin#19004.
 DuckDB v1.5 ships an experimental parser based on PEG (Parser Expression Grammars). The new parser enables better suggestions, improved error messages, and allows extensions to extend the grammar. The PEG parser is currently disabled by default but you can opt-in using:
 
 CALL
- 
+
 enable_peg_parser
 ();
 
 The PEG parser is already used for generating suggestions. You can cycle through the options usingTAB.
 
 animals_db
- 
+
 D
- 
+
 FROM
- 
+
 ducks
- 
+
 WHERE
- 
+
 habitat
- 
-IS
- 
 
 IS
- 
+
+
+IS
+
 ISNULL
- 
+
 ILIKE
- 
+
 IN
- 
+
 INTERSECT
- 
+
 LIKE
 
 We are planning to make the switch to the new parser in the upcoming DuckDB release.
@@ -522,93 +522,93 @@ DuckDB now natively supports theVARIANTtype, inspired bySnowflake's semi-structu
 Store different types in the same column:
 
 CREATE
- 
+
 TABLE
- 
+
 events
- 
+
 (
 id
- 
+
 INTEGER
 ,
- 
+
 data
- 
+
 VARIANT
 );
 
 INSERT
- 
+
 INTO
- 
+
 events
- 
+
 VALUES
 
- 
+
 (
 1
 ,
- 
+
 42
 ::
 VARIANT
 ),
 
- 
+
 (
 2
 ,
- 
+
 'hello world'
 ::
 VARIANT
 ),
 
- 
+
 (
 3
 ,
- 
+
 [
 1
 ,
- 
+
 2
 ,
- 
+
 3
 ]::
 VARIANT
 ),
 
- 
+
 (
 4
 ,
- 
+
 {
 'name'
 :
- 
+
 'Alice'
 ,
- 
+
 'age'
 :
- 
+
 30
 }::
 VARIANT
 );
 
 SELECT
- 
+
 *
- 
+
 FROM
- 
+
 events
 ;
 
@@ -625,24 +625,24 @@ events
 Check the underlying type of each row:
 
 SELECT
- 
+
 id
 ,
- 
+
 data
 ,
- 
+
 variant_typeof
 (
 data
 )
- 
+
 AS
- 
+
 vtype
 
 FROM
- 
+
 events
 ;
 
@@ -659,48 +659,48 @@ events
 You can extract fields from nested variants using the dot notation or thevariant_extractfunction:
 
 SELECT
- 
+
 data.name
- 
+
 FROM
- 
+
 events
- 
+
 WHERE
- 
+
 id
- 
+
 =
- 
+
 4
 ;
 
--- or 
+-- or
 
 SELECT
- 
+
 variant_extract
 (
 data
 ,
- 
+
 'name'
 )
- 
+
 AS
- 
+
 name
- 
+
 FROM
- 
+
 events
- 
+
 WHERE
- 
+
 id
- 
+
 =
- 
+
 4
 ;
 
@@ -718,19 +718,19 @@ DuckDB also supports readingVARIANTtypes from Parquet files, includingshredding(
 Theread_duckdbtable function can read DuckDB databases without first attaching them. This can make reading from DuckDB databases more ergonomic – for example, you can use globbing. You can read theexamplenumbersdatabases as follows:
 
 SELECT
- 
+
 min
 (
 i
 ),
- 
+
 max
 (
 i
 )
 
 FROM
- 
+
 read_duckdb
 (
 'numbers*.db'
@@ -750,30 +750,30 @@ You can nowwrite to the Azure Blob or ADLSv2 storageusing theCOPYstatement:
 -- Write query results to a Parquet file on Blob Storage
 
 COPY
- 
+
 (
 SELECT
- 
+
 *
- 
+
 FROM
- 
+
 my_table
 )
 
 TO
- 
+
 'az://my_container/path/output.parquet'
 ;
 
 -- Write a table to a CSV file on ADLSv2 Storage
 
 COPY
- 
+
 my_table
 
 TO
- 
+
 'abfss://my_container/path/output.csv'
 ;
 
@@ -786,31 +786,31 @@ LOAD
 ;
 
 SET
- 
+
 VARIABLE
- 
+
 conn
- 
+
 =
- 
+
 odbc_connect
 (
 'Driver={Oracle Driver};DBQ=//127.0.0.1:1521/XE;UID=scott;PWD=tiger;'
 );
 
 SELECT
- 
+
 *
- 
+
 FROM
- 
+
 odbc_query
 (
 getvariable
 (
 'conn'
 ),
- 
+
 'SELECT SYSTIMESTAMP FROM dual;'
 );
 
@@ -845,54 +845,54 @@ For theDelta Lake extension, the team has focused on improving support for write
 For theIceberg extension, the team is working on a larger release for v1.5.1. For v1.5.0, the main feature is the addition of table properties in theCREATE TABLEstatement:
 
 CREATE
- 
+
 TABLE
- 
+
 test_create_table
- 
+
 (
 a
- 
+
 INTEGER
 )
 
 WITH
- 
+
 (
 
- 
+
 'format-version'
- 
+
 =
- 
+
 '2'
 ,
- 
+
 -- format version will be elevated to format-version when creating a table
 
- 
+
 'location'
- 
+
 =
- 
+
 's3://path/to/data'
 ,
- 
+
 -- location will be elevated to location when creating a table
 
- 
+
 'property1'
- 
+
 =
- 
+
 'value1'
 ,
 
- 
+
 'property2'
- 
+
 =
- 
+
 'value2'
 
 );
@@ -920,26 +920,26 @@ Up to DuckDB v1.2, the syntax for defining lambda expressions used the arrow not
 While DuckDB v1.5 supports both styles of writing lambda expressions, using the deprecated arrow syntax will now throw a warning:
 
 SELECT
- 
+
 list_transform
 ([
 1
 ,
- 
+
 2
 ,
- 
+
 3
 ],
- 
+
 x
- 
+
 ->
- 
+
 x
- 
+
 +
- 
+
 1
 );
 
@@ -951,22 +951,22 @@ You can use thelambda_syntaxconfiguration option to change this behavior to supp
 -- Suppress the warning
 
 SET
- 
+
 lambda_syntax
- 
+
 =
- 
+
 'ENABLE_SINGLE_ARROW'
 ;
 
 -- Turn the deprecation warning into an error
 
 SET
- 
+
 lambda_syntax
- 
+
 =
- 
+
 'DISABLE_SINGLE_ARROW'
 ;
 
@@ -1042,7 +1042,7 @@ Aggregate functions received several optimizations. For example, thelastaggregat
 
 You can install the DuckDB CLI on any platform where pip is available:
 
-pip 
+pip
 install duckdb-cli
 
 You can then launch DuckDB in your virtual environment using:
@@ -1055,11 +1055,11 @@ Both DuckDB v1.4 and v1.5 are supported. We are working on shipping extensions a
 
 On Windows, you can now use an install script:
 
-powershell 
+powershell
 -NoExit
- iex 
+ iex
 (
-iwr 
+iwr
 "https://install.duckdb.org/install.ps1"
 )
 .Content
@@ -1072,7 +1072,7 @@ We are distributing CLI clients that work withmusl libc(e.g., for Alpine Linux, 
 
 Note that the musl libc CLI client requires thelibstdc++. To install this package, run:
 
-apk 
+apk
 add libstdc++
 
 #### Extension Sizes
@@ -1091,246 +1091,246 @@ PS: If you visited this blog post through a direct link – we also rolled out a
 See the code that creates the example databases.
 
 ATTACH
- 
+
 'numbers1.db'
 ;
 
 ATTACH
- 
+
 'numbers2.db'
 ;
 
 ATTACH
- 
+
 'animals.db'
 ;
 
 CREATE
- 
+
 TABLE
- 
+
 numbers1.tbl
- 
+
 AS
- 
+
 FROM
- 
+
 range
 (
 1
 ,
- 
+
 3
 )
- 
+
 t
 (
 i
 );
 
 CREATE
- 
+
 TABLE
- 
+
 numbers2.tbl
- 
+
 AS
- 
+
 FROM
- 
+
 range
 (
 2
 ,
- 
+
 6
 )
- 
+
 t
 (
 i
 );
 
 CREATE
- 
+
 TABLE
- 
+
 animals.ducks
- 
+
 AS
 
 FROM
- 
+
 (
 VALUES
 
- 
+
 (
 1
 ,
- 
+
 'Labrador Duck'
 ,
- 
+
 1878
 ),
 
- 
+
 (
 2
 ,
- 
+
 'Mallard'
 ,
- 
+
 NULL
 ),
 
- 
+
 (
 3
 ,
- 
+
 'Crested Shelduck'
 ,
- 
+
 1964
 ),
 
- 
+
 (
 4
 ,
- 
+
 'Wood Duck'
 ,
- 
+
 NULL
 ),
 
- 
+
 (
 5
 ,
- 
+
 'Pink-headed Duck'
 ,
- 
+
 1949
 )
 
 )
- 
+
 t
 (
 id
 ,
- 
+
 name
 ,
- 
+
 extinct_year
 );
 
 CREATE
- 
+
 TABLE
- 
+
 animals.swans
- 
+
 AS
 
 FROM
- 
+
 (
 VALUES
 
- 
+
 (
 1
 ,
- 
+
 'Aurora'
 ,
- 
+
 'Mute Swan'
 ,
- 
+
 'White'
 ,
- 
+
 'European lakes and rivers'
 ),
 
- 
+
 (
 2
 ,
- 
+
 'Midnight'
 ,
- 
+
 'Black Swan'
 ,
- 
+
 'Black'
 ,
- 
+
 'Australian wetlands'
 ),
 
- 
+
 (
 3
 ,
- 
+
 'Tundra'
 ,
- 
+
 'Tundra Swan'
 ,
- 
+
 'White'
 ,
- 
+
 'Arctic and subarctic regions'
 )
 
 )
- 
+
 t
 (
 id
 ,
- 
+
 name
 ,
- 
+
 species
 ,
- 
+
 color
 ,
- 
+
 habitat
 );
 
 DETACH
- 
+
 numbers1
 ;
 
 DETACH
- 
+
 numbers2
 ;
 
 DETACH
- 
+
 animals
 ;
 
- 
+
 
 ## Recent Posts
 

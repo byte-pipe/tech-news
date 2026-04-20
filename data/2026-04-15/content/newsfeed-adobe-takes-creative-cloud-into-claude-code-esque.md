@@ -39,17 +39,17 @@ By contrast, this is an entirely different paradigm, where users may work signif
 Adobe says Firefly AI Assistant will enter a public beta within a few weeks, but it hasn’t yet offered specifics about pricing, limits, or which users or plans it will be available to.
 
  Samuel Axon
- 
+
 
 Senior Editor
 
  Samuel Axon
- 
+
 
 Senior Editor
 
  Samuel Axon is the editorial lead for tech and gaming coverage at Ars Technica. He covers AI, software development, gaming, entertainment, and mixed reality. He has been writing about gaming and technology for nearly two decades at Engadget, PC World, Mashable, Vice, Polygon, Wired, and others. He previously ran a marketing and PR agency in the gaming industry, led editorial for the TV network CBS, and worked on social media marketing strategy for Samsung Mobile at the creative agency SPCSHP. He also is an independent software and game developer for iOS, Windows, and other platforms, and he is a graduate of DePaul University, where he studied interactive media and software development.
- 
+
 
 1. 1.Sony killing features for antenna, set-top box users of Bravia smart TVs in May
 2. 2.Google will begin punishing sites for back button hijacking in June

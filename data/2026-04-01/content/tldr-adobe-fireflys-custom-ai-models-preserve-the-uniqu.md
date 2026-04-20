@@ -42,9 +42,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -64,7 +64,7 @@ We think this could be a game-changer for AI –it could be the thing that final
 
 To find out more, we caught up with Deepa Subramaniam, vice president of product marketing for creative professionals at Adobe.
 
-Article continues below 
+Article continues below
 
 ### Why should creatives be excited about Firefly Custom Models?
 

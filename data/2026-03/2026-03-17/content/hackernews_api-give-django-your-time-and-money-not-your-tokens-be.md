@@ -51,7 +51,7 @@ So please, stop using an LLM to the extent it hides you and your understanding. 
 This is a review of the book “The Road Less Stupid: Advice from the Chairman of the Board” by Keith...
 
  Read more
- 
+
 
 ### Lunch Talk Series: High Performance Django at Ten: Old Tricks & New Picks
 

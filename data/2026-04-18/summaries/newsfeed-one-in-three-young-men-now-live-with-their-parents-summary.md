@@ -19,7 +19,7 @@ Despite growing concerns about affordability, financial difficulties continue to
 Nathan's experience illustrates the challenges faced by many young people. He has saved £50,000 by living with his father and cooks meals to save money on food costs.
 
 Harry Turnbull is another example, who moved back in with his mother after three years as a student due to rising housing costs and a desire for more independence.
-In recent research, the ONS found that 23% of young adults in the UK are single parents, with around one in five couples choosing not to live together out of financial constraints. 
+In recent research, the ONS found that 23% of young adults in the UK are single parents, with around one in five couples choosing not to live together out of financial constraints.
 Overall, the data suggests that there is a sense among young people and families that living independently is no longer feasible in today's economic climate.
 
 **Key Points:**

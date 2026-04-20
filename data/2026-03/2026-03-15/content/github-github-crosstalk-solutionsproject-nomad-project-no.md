@@ -11,7 +11,7 @@ description: Project N.O.M.A.D, is a self-contained, offline survival computer p
 
 Crosstalk-Solutions
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork84
 * Star663
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -125,11 +125,11 @@ Note: sudo/root privileges are required to run the install script
 
 #### Quick Install
 
-sudo apt-get update 
+sudo apt-get update
 &&
- sudo apt-get install -y curl 
+ sudo apt-get install -y curl
 &&
- curl -fsSL https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/install/install_nomad.sh -o install_nomad.sh 
+ curl -fsSL https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/install/install_nomad.sh -o install_nomad.sh
 &&
  sudo bash install_nomad.sh
 
@@ -312,7 +312,7 @@ sudo bash /opt/project-nomad/update_nomad.sh
 
 ###### Uninstall Script - Need to start fresh? Use the uninstall script to make your life easy. Note: this cannot be undone!
 
-curl -fsSL https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/install/uninstall_nomad.sh -o uninstall_nomad.sh 
+curl -fsSL https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/install/uninstall_nomad.sh -o uninstall_nomad.sh
 &&
  sudo bash uninstall_nomad.sh
 
@@ -324,61 +324,61 @@ Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 663
 
  stars
- 
+
 
 ### Watchers
 
 14
 
  watching
- 
+
 
 ### Forks
 
 84
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases47
 
@@ -386,11 +386,11 @@ v1.29.1
 
  Latest
 
- 
+
 
 Mar 13, 2026
 
- 
+
 
 + 46 releases
 
@@ -406,17 +406,17 @@ Mar 13, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -424,9 +424,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

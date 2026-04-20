@@ -5,10 +5,10 @@ generated_at: '2026-03-28T20:00:21.985134'
 ---
 
 ## Executive Summary
-- AI‑driven tools are reshaping both personal projects—exemplified by a low‑cost, IRC‑based digital doorman—and enterprise workflows, yet the real bottleneck has moved from coding to specification and review.  
-- Global hardware scarcity driven by AI data‑center demand is prompting a “keep‑what‑you‑have” mindset for consumers, while the legacy of mid‑century industrial design resurfaces in discussions of sea‑foam‑green control rooms.  
-- Geopolitical tensions surface in a high‑profile criminal case involving an Afghan asylum seeker and in Ukraine’s recapture of Berezove, underscoring security and migration challenges.  
-- Cultural moments range from figure‑skating redemption at the World Championships to a light‑hearted “Meme Monday” on DEV, reflecting a mix of serious and playful news.  
+- AI‑driven tools are reshaping both personal projects—exemplified by a low‑cost, IRC‑based digital doorman—and enterprise workflows, yet the real bottleneck has moved from coding to specification and review.
+- Global hardware scarcity driven by AI data‑center demand is prompting a “keep‑what‑you‑have” mindset for consumers, while the legacy of mid‑century industrial design resurfaces in discussions of sea‑foam‑green control rooms.
+- Geopolitical tensions surface in a high‑profile criminal case involving an Afghan asylum seeker and in Ukraine’s recapture of Berezove, underscoring security and migration challenges.
+- Cultural moments range from figure‑skating redemption at the World Championships to a light‑hearted “Meme Monday” on DEV, reflecting a mix of serious and playful news.
 
 ---
 

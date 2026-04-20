@@ -27,11 +27,11 @@ Best Flip Phone
 Motorola Razr Ultra (2025)
 Read more
 $1,300
- 
+
 $800
- 
+
 (38% off)
- 
+
 
 Amazon
 
@@ -39,11 +39,11 @@ Best Folding Phone
 Samsung Galaxy Z Fold7
 Read more
 $2,000
- 
+
 $1,675
- 
+
 (16% off)
- 
+
 
 Amazon
 
@@ -51,11 +51,11 @@ Best Budget Folding Phone
 Motorola Razr (2025)
 Read more
 $700
- 
+
 $473
- 
+
 (32% off)
- 
+
 
 Amazon
 
@@ -63,11 +63,11 @@ Another Good Fold
 Google Pixel 10 Pro Fold
 Read more
 $1,799
- 
+
 $1,499
- 
+
 (17% off)
- 
+
 
 Amazon
 
@@ -181,7 +181,7 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Julian Chokkattu
- is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ... 
+ is Senior Editor, Gear at WIRED, overseeing personal technology, gadgets, and gizmos. He has been reviewing consumer products for a decade, specializing in mobile—from smartphones, tablets, and smartwatches to smart glasses and virtual reality. This is his sixth year at WIRED. Previously, he was the mobile and wearables ...
 Read More
 Senior Editor, Gear
 * LinkedIn
@@ -225,7 +225,7 @@ The Gear team spends countless hours in front of displays while writing for you.
 Luke Larsen
 The Best Theraguns and Therabody Devices for Rest and Relaxation
 From massage guns to compression boots and LED face masks, these are the top performers in Therabody’s wellness lineup.
-Boutayna Chokrane 
+Boutayna Chokrane
 The 5 Best Coffee Grinders, as Determined by Particle Analysis and Tasting
 We used particle size analysis and real-world testing to find the best conical burr, flat burr, and blade grinders for every budget and style of coffee drinker.
 Matthew Korfhage

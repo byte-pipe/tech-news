@@ -17,9 +17,9 @@ Technology
 
 # An Argument for Interior Design with Neuroaesthetics in Mind
 
-04.08.26 
+04.08.26
 |
- By 
+ By
 Adrian Madlener
 
 * Share on Facebook
@@ -98,13 +98,13 @@ To learn more about IAM Lab, visitartsandmindlab.
 
 Photography courtesy of John Hopkins University.
 
- 
+
 
 Adrian Madlener is a Brussels-born, New York-based writer specializing in collectible and sustainable design. With a particular focus on topics that exemplify the best in craft-led experimentation, he's committed to supporting talents that push the envelope in various disciplines.
 
 You can follow Adrian Madlener onLinkedin. Readall of Adrian Madlener's posts.
 
- 
+
 
 ## Now Trending
 
@@ -116,7 +116,7 @@ Architecture
 
 In North Vancouver, Garret Cord Werner Architects, HB Design, and Donohoe Living Landscapes transform two neighboring lots into a single flowing composition of architecture, interiors, and garden.
 
- 
+
 
 Home Furnishings
 
@@ -126,7 +126,7 @@ Home Furnishings
 
 The expanded furniture collection continues to demonstrate the validity of complementary design brands come together and merge their material and manufacturing expertise.
 
- 
+
 
 Architecture
 
@@ -136,7 +136,7 @@ Architecture
 
 Paulie, the landscape hotel, introduces a new collaboration with Design Within Reach layering canonical modern furniture into it's spaces.
 
- 
+
 
 Architecture
 

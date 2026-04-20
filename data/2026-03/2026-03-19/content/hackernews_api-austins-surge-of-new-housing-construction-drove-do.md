@@ -33,20 +33,20 @@ Liz Clifford
 Seva Rodnyansky
 ,
 
-and 
+and
 Dennis Su
 
 
 						Article
-					
+
 
 
 					March 18, 2026
-				
+
 
 SHARE
 
- 
+
 
 Wirestock
 
@@ -112,7 +112,7 @@ Single-stairway midrise apartments.Austin also passed asingle-stairordinance in 
 
 ## Conclusion
 
- 
+
 
 Austin’s rapid growth and escalating housing costs in the 2010s led local officials and stakeholders to act decisively to remove barriers to adding homes. These actions, combined with enormous demand for housing, kicked off a long-running building boom. Proactive city policies have allowed development in neighborhoods of all income levels and have benefited households with the greatest affordability struggles. The policies:
 
@@ -133,7 +133,7 @@ Email
 
 
 							Submit
-						
+
 
 ## Explore
 
@@ -159,19 +159,19 @@ Texas
 
 
 							Liz Clifford
-						
+
 
 Associate IHousing Policy
 
 
 							Seva Rodnyansky
-						
+
 
 ManagerHousing Policy
 
 
 							Dennis Su
-						
+
 
 Associate IHousing Policy
 
@@ -189,7 +189,7 @@ North Carolina Takes Steps to Improve Pension System Governance
 
 
 										Article
-									
+
 
 March 16, 2026
 
@@ -197,7 +197,7 @@ States Make Progress on Retiree Health Care Funding
 
 
 										Article
-									
+
 
 March 12, 2026
 
@@ -205,7 +205,7 @@ The Role of State Broadband Policy in 2026
 
 
 										Article
-									
+
 
 March 10, 2026
 
@@ -213,25 +213,25 @@ How States Can Prepare for an Expanded Role in Disaster Aid
 
 
 										Opinion
-									
+
 
 February 27, 2026
 
 ## More fromHousing Policy
 
-Maine Manufactured Home Policy Options to Expand Mortgages 
+Maine Manufactured Home Policy Options to Expand Mortgages
 
 
 									Fact Sheet
-								
+
 
 March 16, 2026
 
-Thousands of New Mexico Homebuyers Have Used Land Contracts 
+Thousands of New Mexico Homebuyers Have Used Land Contracts
 
 
 									Fact Sheet
-								
+
 
 March 11, 2026
 
@@ -239,7 +239,7 @@ One Section of Senate Housing Bill Could Raise Rents
 
 
 									Speeches & Testimony
-								
+
 
 March 10, 2026
 
@@ -249,7 +249,7 @@ Philadelphia Proposes Mandatory Retirement Savings
 
 
 									Article
-								
+
 
 February 27, 2026
 
@@ -257,7 +257,7 @@ For Wisconsin Homebuyers, Land Contracts Offer Opportunity—And Risks
 
 
 									Fact Sheet
-								
+
 
 February 24, 2026
 
@@ -265,7 +265,7 @@ How Will Workforce Pell Change Student Decisions About Nondegree Credentials?
 
 
 									Opinion
-								
+
 
 February 9, 2026
 

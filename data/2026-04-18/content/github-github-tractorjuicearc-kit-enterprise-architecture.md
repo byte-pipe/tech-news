@@ -11,7 +11,7 @@ description: Enterprise Architecture Governance & Vendor Procurement Toolkit - t
 
 tractorjuice
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork96
 * Star678
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -304,7 +304,7 @@ arckit init payment-modernization --ai copilot
 #
  Or initialize in current directory
 
-arckit init 
+arckit init
 .
  --ai copilot
 
@@ -318,7 +318,7 @@ arckit init payment-modernization --ai opencode
 #
  Or initialize in current directory
 
-arckit init 
+arckit init
 .
  --ai opencode
 
@@ -337,7 +337,7 @@ arckit init payment-modernization --ai codex --minimal
 #
  Or initialize in current directory
 
-arckit init 
+arckit init
 .
  --ai codex
 
@@ -347,15 +347,15 @@ arckit init
  GitHub Copilot (VS Code)
 
 cd
- payment-modernization 
+ payment-modernization
 &&
- code 
+ code
 .
 
 #
  In Copilot Chat, use ArcKit commands:
 
-/arckit-principles Create principles 
+/arckit-principles Create principles
 for
  a financial services company
 /arckit-requirements Build a payment processing system...
@@ -370,11 +370,11 @@ codex
 #
  Inside your AI assistant, use ArcKit commands:
 
-/arckit.principles Create principles 
+/arckit.principles Create principles
 for
  a financial services company
 /arckit.requirements Build a payment processing system...
-/arckit.sow Generate RFP 
+/arckit.sow Generate RFP
 for
  vendor selection
 
@@ -1241,18 +1241,18 @@ pip install git+https://github.com/tractorjuice/arc-kit.git
 arckit init my-project --ai copilot
 
 cd
- my-project 
+ my-project
 &&
- code 
+ code
 .
 
 #
  Then use ArcKit commands in Copilot Chat
 
-/arckit-principles Create principles 
+/arckit-principles Create principles
 for
  financial services
-/arckit-stakeholders Analyze stakeholders 
+/arckit-stakeholders Analyze stakeholders
 for
  cloud migration
 /arckit-requirements Create comprehensive requirements
@@ -1270,7 +1270,7 @@ pip install git+https://github.com/tractorjuice/arc-kit.git
 arckit init my-project --ai codex
 
 cd
- my-project 
+ my-project
 &&
  codex
 
@@ -1278,12 +1278,12 @@ cd
  Then use ArcKit skills
 
 $arckit
--principles Create principles 
+-principles Create principles
 for
  financial services
 
 $arckit
--stakeholders Analyze stakeholders 
+-stakeholders Analyze stakeholders
 for
  cloud migration
 
@@ -1351,15 +1351,15 @@ Customize ArcKit templates without modifying defaults:
 #
  Inside your AI assistant
 
-/arckit.customize requirements 
+/arckit.customize requirements
 #
  Copy requirements template for editing
 
-/arckit.customize all 
+/arckit.customize all
 #
  Copy all templates
 
-/arckit.customize list 
+/arckit.customize list
 #
  See available templates
 
@@ -1386,22 +1386,22 @@ Status
 
 Description
 
-🟢 
+🟢
 Live
 
 Production-ready, extensively tested
 
-🔵 
+🔵
 Beta
 
 Feature-complete, actively refined
 
-🟠 
+🟠
 Alpha
 
 Working, limited testing
 
-🟣 
+🟣
 Experimental
 
 New in v0.11.x, early adopters
@@ -1529,25 +1529,25 @@ Get oriented with ArcKit — check project status, explore available commands, a
 Create project plan with timeline, phases, gates, and Mermaid diagrams
 
 v3/001
- 
+
 v3/002
- 
+
 v3/004
- 
+
 v3/005
- 
+
 v8
- 
+
 v9
- 
+
 v10
- 
+
 v11
- 
+
 v14
- 
+
 v17
- 
+
 v18
 
 🟢 Live
@@ -1557,31 +1557,31 @@ v18
 Create or update enterprise architecture principles
 
 v1
- 
+
 v2
- 
+
 v3
- 
+
 v6
- 
+
 v8
- 
+
 v9
- 
+
 v10
- 
+
 v11
- 
+
 v7
- 
+
 v14
- 
+
 v16
- 
+
 v17
- 
+
 v18
- 
+
 v19
 
 🟢 Live
@@ -1601,41 +1601,41 @@ Status
 Analyze stakeholder drivers, goals, and measurable outcomes
 
 v1
- 
+
 v2
- 
+
 v3/001
- 
+
 v3/002
- 
+
 v3/003
- 
+
 v3/004
- 
+
 v3/005
- 
+
 v3/006
- 
+
 v3/007
- 
+
 v6
- 
+
 v8
- 
+
 v9
- 
+
 v10
- 
+
 v11
- 
+
 v14
- 
+
 v16
- 
+
 v17
- 
+
 v18
- 
+
 v19
 
 🟢 Live
@@ -1645,31 +1645,31 @@ v19
 Create comprehensive risk register following HM Treasury Orange Book principles
 
 v3/001
- 
+
 v3/002
- 
+
 v3/003
- 
+
 v3/004
- 
+
 v3/005
- 
+
 v3/006
- 
+
 v3/007
- 
+
 v8
- 
+
 v9
- 
+
 v11
- 
+
 v14
- 
+
 v16
- 
+
 v17
- 
+
 v18
 
 🟢 Live
@@ -1679,19 +1679,19 @@ v18
 Create Strategic Outline Business Case (SOBC) using UK Government Green Book 5-case model
 
 v3/001
- 
+
 v3/002
- 
+
 v3/003
- 
+
 v3/004
- 
+
 v3/005
- 
+
 v3/007
- 
+
 v8
- 
+
 v9
 
 🟢 Live
@@ -1711,43 +1711,43 @@ Status
 Create comprehensive business and technical requirements
 
 v1
- 
+
 v2
- 
+
 v3/001
- 
+
 v3/002
- 
+
 v3/003
- 
+
 v3/004
- 
+
 v3/005
- 
+
 v3/006
- 
+
 v3/007
- 
+
 v6
- 
+
 v8
- 
+
 v9
- 
+
 v10
- 
+
 v11
- 
+
 v7
- 
+
 v14
- 
+
 v16
- 
+
 v17
- 
+
 v18
- 
+
 v19
 
 🟢 Live
@@ -1757,23 +1757,23 @@ v19
 Create comprehensive data model with entity relationships, GDPR compliance, and data governance
 
 v3/001
- 
+
 v3/002
- 
+
 v8
- 
+
 v9
- 
+
 v10
- 
+
 v11
- 
+
 v14
- 
+
 v16
- 
+
 v17
- 
+
 v18
 
 🟢 Live
@@ -1788,22 +1788,22 @@ Create federated data product contracts for mesh architectures with SLAs, govern
 
 /arckit.dpia
 
-Generate 
+Generate
 Data Protection Impact Assessment (DPIA)
  for UK GDPR Article 35 compliance
 
 v3
- 
+
 v8
- 
+
 v9
- 
+
 v14
- 
+
 v16
- 
+
 v17
- 
+
 v18
 
 🔵 Beta
@@ -1823,7 +1823,7 @@ Status
 Create platform strategy using Platform Design Toolkit (8 canvases for multi-sided ecosystems)
 
 v8
- 
+
 v10
 
 🟣 Experimental
@@ -1833,13 +1833,13 @@ v10
 Research technology, services, and products to meet requirements with build vs buy analysis
 
 v3/001
- 
+
 v3/002
- 
+
 v14
- 
+
 v17
- 
+
 v18
 
 🔵 Beta
@@ -1857,11 +1857,11 @@ Research UK government grants, charitable funding, and accelerator programmes wi
 Create strategic Wardley Maps for architecture decisions and build vs buy analysis
 
 v3
- 
+
 v6
- 
+
 v11
- 
+
 v14
 
 🟣 Experimental
@@ -1927,17 +1927,17 @@ Transform architecture artifacts into a structured, reusable framework with prin
 Document architectural decisions with options analysis and traceability
 
 v3/001
- 
+
 v3/002
- 
+
 v3/003
- 
+
 v3/004
- 
+
 v3/005
- 
+
 v3/007
- 
+
 v14
 
 🔵 Beta
@@ -1956,41 +1956,41 @@ Status
 
 /arckit.azure-research
 
-Research Azure services and architecture patterns using 
+Research Azure services and architecture patterns using
 Microsoft Learn MCP
 
 v3/001
- 
+
 v3/002
- 
+
 v14
- 
+
 v17
- 
+
 v18
- 
+
 v19
 
 🟣 Experimental
 
 /arckit.aws-research
 
-Research AWS services and architecture patterns using 
+Research AWS services and architecture patterns using
 AWS Knowledge MCP
 
 v14
- 
+
 v17
- 
+
 v18
- 
+
 v19
 
 🟣 Experimental
 
 /arckit.gcp-research
 
-Research Google Cloud services and architecture patterns using 
+Research Google Cloud services and architecture patterns using
 Google Developer Knowledge MCP
 
 —
@@ -2012,9 +2012,9 @@ Status
 Discover external data sources (APIs, datasets, open data portals) to fulfil project requirements
 
 v17
- 
+
 v18
- 
+
 v19
 
 🟣 Experimental
@@ -2072,15 +2072,15 @@ Status
 Generate Statement of Work (SOW) / RFP document for vendor procurement
 
 v1
- 
+
 v2
- 
+
 v3/001
- 
+
 v3/002
- 
+
 v3/003
- 
+
 v6
 
 🟢 Live
@@ -2098,7 +2098,7 @@ Generate Digital Outcomes and Specialists (DOS) procurement documentation for UK
 Find G-Cloud services on UK Digital Marketplace with live search and comparison
 
 v3
- 
+
 v14
 
 🟣 Experimental
@@ -2116,17 +2116,17 @@ Analyze G-Cloud service gaps and generate supplier clarification questions
 Create vendor evaluation framework and score vendor proposals
 
 v1
- 
+
 v2
- 
+
 v3/001
- 
+
 v3/002
- 
+
 v3/003
- 
+
 v3/005
- 
+
 v6
 
 🟢 Live
@@ -2154,19 +2154,19 @@ Status
 Generate architecture diagrams using Mermaid for visual documentation
 
 v1
- 
+
 v3/001
- 
+
 v3/005
- 
+
 v3/007
- 
+
 v10
- 
+
 v14
- 
+
 v17
- 
+
 v19
 
 🟢 Live
@@ -2176,7 +2176,7 @@ v19
 Review High-Level Design (HLD) against architecture principles and requirements
 
 v3
- 
+
 v14
 
 🔵 Beta
@@ -2204,19 +2204,19 @@ Status
 Generate prioritised product backlog from ArcKit artifacts - convert requirements to user stories, organise into sprints
 
 v3/001
- 
+
 v3/002
- 
+
 v3/003
- 
+
 v3/004
- 
+
 v9
- 
+
 v14
- 
+
 v17
- 
+
 v19
 
 🔵 Beta
@@ -2274,19 +2274,19 @@ v14
 Generate requirements traceability matrix from requirements to design to tests
 
 v1
- 
+
 v2
- 
+
 v3/001
- 
+
 v3/002
- 
+
 v3/003
- 
+
 v6
- 
+
 v9
- 
+
 v14
 
 🟢 Live
@@ -2306,11 +2306,11 @@ Status
 Perform comprehensive governance quality analysis across architecture artifacts
 
 v6
- 
+
 v9
- 
+
 v11
- 
+
 v14
 
 🔵 Beta
@@ -2320,7 +2320,7 @@ v14
 Assess compliance with architecture principles and generate scorecard with evidence, gaps, and recommendations
 
 v3
- 
+
 v14
 
 🟢 Live
@@ -2330,11 +2330,11 @@ v14
 Generate comprehensive project story with timeline analysis, traceability, and governance achievements
 
 v3
- 
+
 v8
- 
+
 v9
- 
+
 v14
 
 🟢 Live
@@ -2381,7 +2381,7 @@ Search across all project artifacts by keyword, document type, or requirement ID
 
 /arckit.customize
 
-Copy templates to 
+Copy templates to
 .arckit/templates-custom/
  for customization (preserved across updates)
 
@@ -2417,7 +2417,7 @@ Status
 
 /arckit.service-assessment
 
-Prepare for 
+Prepare for
 GDS Service Standard
  assessment - analyze evidence against 14 points, identify gaps, generate readiness report
 
@@ -2427,18 +2427,18 @@ v16
 
 /arckit.tcop
 
-Generate a 
+Generate a
 Technology Code of Practice (TCoP)
  review document for a UK Government technology project
 
 v6
- 
+
 v8
- 
+
 v9
- 
+
 v11
- 
+
 v14
 
 🔵 Beta
@@ -2448,45 +2448,45 @@ v14
 Generate a Secure by Design assessment for UK Government projects (civilian departments)
 
 v8
- 
+
 v9
- 
+
 v11
- 
+
 v14
- 
+
 v16
- 
+
 v17
- 
+
 v18
- 
+
 v19
 
 🔵 Beta
 
 /arckit.ai-playbook
 
-Assess 
+Assess
 UK Government AI Playbook
  compliance for responsible AI deployment
 
 v9
- 
+
 v14
 
 🟠 Alpha
 
 /arckit.atrs
 
-Generate 
+Generate
 Algorithmic Transparency Recording Standard (ATRS)
  record for AI/algorithmic tools
 
 v2
- 
+
 v9
- 
+
 v14
 
 🟠 Alpha
@@ -2506,14 +2506,14 @@ Status
 Generate a MOD Secure by Design assessment for UK Ministry of Defence projects using CAAT and continuous assurance
 
 v3/001
- 
+
 v3/006
 
 🟣 Experimental
 
 /arckit.jsp-936
 
-Generate 
+Generate
 MOD JSP 936
  AI assurance documentation for defence AI/ML systems
 
@@ -2544,31 +2544,31 @@ Generate comprehensive project glossary with terms, definitions, acronyms, and c
 Generate documentation site with Mermaid diagram support
 
 v1
- 
+
 v2
- 
+
 v3
- 
+
 v6
- 
+
 v7
- 
+
 v8
- 
+
 v9
- 
+
 v10
- 
+
 v11
- 
+
 v14
- 
+
 v16
- 
+
 v17
- 
+
 v18
- 
+
 v19
 
 🟠 Alpha
@@ -2815,7 +2815,7 @@ cd
 #
  Install in development mode
 
-pip install -e 
+pip install -e
 .
 
 #
@@ -2957,7 +2957,7 @@ Project creation fails: Ensure you have an ArcKit repository initialized
 #
  Initialize if needed
 
-arckit init 
+arckit init
 .
 
 ## Support
@@ -2986,53 +2986,53 @@ arckit.org/
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 678
 
  stars
- 
+
 
 ### Watchers
 
 7
 
  watching
- 
+
 
 ### Forks
 
 96
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases133
 
@@ -3040,11 +3040,11 @@ ArcKit v4.6.11
 
  Latest
 
- 
+
 
 Apr 18, 2026
 
- 
+
 
 + 132 releases
 
@@ -3060,9 +3060,9 @@ Apr 18, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -3070,9 +3070,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

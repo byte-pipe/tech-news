@@ -11,7 +11,7 @@ description: 'AI You Control: Choose your models. Own your data. Eliminate vendo
 
 thunderbird
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork58
 * Star1.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -315,69 +315,69 @@ thunderbolt.io
 
  Readme
 
- 
+
 
 ### License
 
  MPL-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.2k
 
  stars
- 
+
 
 ### Watchers
 
 4
 
  watching
- 
+
 
 ### Forks
 
 58
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -385,9 +385,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

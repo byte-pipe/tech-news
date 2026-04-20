@@ -33,17 +33,17 @@ Things then start to get trippy, but whoever is behind the cover-up will not let
 Disclosure Dayhits theaters on June 12, 2026.
 
  Jennifer Ouellette
- 
+
 
 Senior Writer
 
  Jennifer Ouellette
- 
+
 
 Senior Writer
 
  Jennifer is a senior writer at Ars Technica with a particular focus on where science meets culture, covering everything from physics and related interdisciplinary topics to her favorite films and TV series. Jennifer lives in Baltimore with her spouse, physicist Sean M. Carroll, and their two cats, Ariel and Caliban.
- 
+
 
 1. 1.Remembering the 30-year-old computer game that introduced me to Star Wars
 2. 2.Facing heavy losses, Honda cancels its three US-made electric vehicles

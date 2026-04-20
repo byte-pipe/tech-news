@@ -63,10 +63,10 @@ Every technical layer inCarbon Traceexists to carry a piece of that feeling. The
 
 # Carbon Trace: An Immersive Art Experience
 
- 
- 
- 
- 
+
+
+
+
 
 An immersive visual narrative told from the awareness of a diamond trapped in a coal seam—12 painted scenes with ghost-drift text, narrated audio, and pixel-level visual effects. Built forWeCoded 2026 DEV ChallengeFrontend Art.
 
@@ -200,7 +200,7 @@ Distributed backend specialist. Perfectly happy playing second fiddle—it means
 This post was written by me with collaborative editing from Claude, ChatGPT, and Gemini. The code forCarbon Tracewas built using Claude Code, Codex, Antigravity, and Copilot, and it was directed by a human who refused to let any of them off easy. All images were generated with Leonardo.ai under my art direction. All narration is my actual voice. No AI was harmed in the making of this post, but all were argued with repeatedly and extensively.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

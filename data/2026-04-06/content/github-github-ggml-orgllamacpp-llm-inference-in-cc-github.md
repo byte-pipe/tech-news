@@ -11,7 +11,7 @@ description: LLM inference in C/C++. Contribute to ggml-org/llama.cpp developmen
 
 ggml-org
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork16.4k
 * Star102k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -723,17 +723,17 @@ import
  PackageDescription
 
 let
- 
+
 package
- 
+
 =
- 
+
 Package
 (
 
  name
 :
- 
+
 "
 MyLlamaPackage
 "
@@ -741,17 +741,17 @@ MyLlamaPackage
 
  targets
 :
- 
+
 [
 
- 
+
 .
 executableTarget
 (
 
  name
 :
- 
+
 "
 MyLlamaPackage
 "
@@ -759,27 +759,27 @@ MyLlamaPackage
 
  dependencies
 :
- 
+
 [
 
- 
+
 "
 LlamaFramework
 "
 
- 
+
 ]
 )
 ,
 
- 
+
 .
 binaryTarget
 (
 
  name
 :
- 
+
 "
 LlamaFramework
 "
@@ -787,7 +787,7 @@ LlamaFramework
 
  url
 :
- 
+
 "
 https://github.com/ggml-org/llama.cpp/releases/download/b5046/llama-b5046-xcframework.zip
 "
@@ -795,15 +795,15 @@ https://github.com/ggml-org/llama.cpp/releases/download/b5046/llama-b5046-xcfram
 
  checksum
 :
- 
+
 "
 c19be78b5f00d8d29a25da41042cb7afa094cbf6280a225abe614b03b20029ab
 "
 
- 
+
 )
 
- 
+
 ]
 
 )
@@ -817,29 +817,29 @@ Command-line completion is available for some environments.
 
 #### Bash Completion
 
-$ build/bin/llama-cli --completion-bash 
+$ build/bin/llama-cli --completion-bash
 >
- 
+
 ~
 /.llama-completion.bash
-$ 
+$
 source
- 
+
 ~
 /.llama-completion.bash
 
 Optionally this can be added to your.bashrcor.bash_profileto load it
 automatically. For example:
 
-$ 
+$
 echo
- 
+
 "
 source ~/.llama-completion.bash
 "
- 
+
 >>
- 
+
 ~
 /.bashrc
 
@@ -867,61 +867,61 @@ LLM inference in C/C++
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 102k
 
  stars
- 
+
 
 ### Watchers
 
 666
 
  watching
- 
+
 
 ### Forks
 
 16.4k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases5,000+
 
@@ -929,11 +929,11 @@ b8672
 
  Latest
 
- 
+
 
 Apr 6, 2026
 
- 
+
 
 + 5,727 releases
 
@@ -949,17 +949,17 @@ Apr 6, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors1,579
 

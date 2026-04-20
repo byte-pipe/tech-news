@@ -19,7 +19,7 @@ When there's only one
 
 Everything here is my opinion. I do not speak for your employer.
 
-← 
+←
 November 2025
 
 ## 2026-03-16»
@@ -363,7 +363,7 @@ Unrelated
 SimSWE part 2: The perils of multitasking
  (2017)
 
-I'm CEO at 
+I'm CEO at
 Tailscale
 , where
 we make network problems disappear.

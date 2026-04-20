@@ -30,7 +30,7 @@ Similarly, Anthropic issueda statementconfirming that Amodei had met with “sen
 
 The company added that it’s “looking forward to continuing these discussions.”
 
- 
+
 
 Techcrunch event
 
@@ -59,22 +59,22 @@ But it sounds like the rest of the Trump administration doesn’t share the Pent
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 dario amodei
-, 
+,
 Government & Policy
-, 
+,
 susie wiles
- 
 
-			Anthony Ha	
+
+			Anthony Ha
 
 Anthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.
 
 You can contact or verify outreach from Anthony by emailinganthony.ha@techcrunch.com.
 
- 
+
 
 View Bio

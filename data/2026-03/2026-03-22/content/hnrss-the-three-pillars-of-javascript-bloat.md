@@ -17,7 +17,7 @@ tags:
 March 12, 2026
 
  Edit Page
-		
+
 
 Over the last couple of years, we’ve seen significant growth of thee18ecommunity and a rise in performance focused contributions because of it. A large part of this is the “cleanup” initiative, where the community has been pruning packages which are redundant, outdated, or unmaintained.
 
@@ -93,11 +93,11 @@ This kind of architecture means we end up with graphs like this:
 As you can see, the most granular snippets of code have their own packages. For example,shebang-regexis the following at the time of writing this post:
 
 const
- 
+
 shebangRegex
- 
+
 =
- 
+
 /^#!
 (
 .*
@@ -106,9 +106,9 @@ shebangRegex
 ;
 
 export
- 
+
 default
- 
+
 shebangRegex
 ;
 
@@ -228,16 +228,16 @@ Thee18e CLIhas a super usefulanalyzemode to determine which dependencies are no 
 
 For example, if you get something like this:
 
-$ 
+$
 npx @e18e/cli analyze
 
 ...
 
 │ Warnings:
-│ • Module 
+│ • Module
 "chalk"
- can be replaced with native functionality. You can 
-read 
+ can be replaced with native functionality. You can
+read
 more at
 │ https://nodejs.org/docs/latest/api/util.html#utilstyletextformat-text-options. See more at
 │ https://github.com/es-tooling/module-replacements/blob/main/docs/modules/chalk.md.
@@ -246,11 +246,11 @@ more at
 
 Using this, we can quickly identify which direct dependencies can be cleaned up. We can also then use themigratecommand to automatically migrate some of these dependencies:
 
-$ 
-npx @e18e/cli migrate 
+$
+npx @e18e/cli migrate
 --all
 
-e18e 
+e18e
 (
 cli v0.0.1
 )
@@ -259,13 +259,13 @@ cli v0.0.1
 │
 │ Targets: chalk
 │
-◆ /code/main.js 
+◆ /code/main.js
 (
 1 migrated
 )
 
 │
-└ Migration 
+└ Migration
 complete
  - 1 files migrated.
 

@@ -26,14 +26,14 @@ Email
 ## Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
 By
- 
+
 Margaux Nijkerk
 |
 Edited by
- 
+
 Aoyon Ashraf
- 
-Feb 26, 2026, 8:33 p.m. 
+
+Feb 26, 2026, 8:33 p.m.
 Make us preferred on Google
 Justin Drake (Getty Images)
 
@@ -102,11 +102,11 @@ More For You
 A $100 million crypto campaign fund with a pro-Trump vibe so far failed to show up
 
 By
- 
+
 Jesse Hamilton
 |
 Edited by
- 
+
 Nikhilesh De
 Feb 25, 2026
 
@@ -119,7 +119,7 @@ What to know:
 * Despite Fellowship's September announcement, a live website and an account on X, no money has been set aside in the campaign fund, according to the most recent Federal Election Commission disclosures.
 Read full story
 Latest Crypto News
- 
+
 
 #### Here's how bitcoin's price rise could be fueled by job-stealing AI software
 

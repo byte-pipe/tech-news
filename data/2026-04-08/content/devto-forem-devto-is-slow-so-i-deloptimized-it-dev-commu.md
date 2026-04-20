@@ -28,15 +28,15 @@ To be fair, the best thing about Forem is that itis Open Source! I cancontribute
 WeCoded 2026: Echoes of Experience 💜
 
  Jess Lee
- 
+
 
  Jess Lee
- 
+
 
 Jess Lee
 
  Follow
- 
+
 
 Mar 31
 
@@ -63,7 +63,7 @@ Comments
  comments
 
  4 min read
- 
+
 
 Their inclusiveness and kindness inspired me with this Pull Request that I did and I believe it will optimize their platform to great extent and I believe this Pull Request will be the next best thing to AI in my opinion based on the solution I have.
 
@@ -74,16 +74,16 @@ Their inclusiveness and kindness inspired me with this Pull Request that I did a
 I heard people arebuilding this and building thatto make the project better, but it's never aboutdeleting. I recently read a post by the@the_nortern_devon the skill of coding:
 
  NorthernDev
- 
+
 
  NorthernDev
- 
- 
+
+
 
 NorthernDev
 
  Follow
- 
+
 
 Feb 17
 
@@ -110,7 +110,7 @@ Comments
  comments
 
  2 min read
- 
+
 
 It is true! You learn the skill as a dev by deleting it, so I took that inspiration and optimize the code by removing redundancy and refactoring the code where it can speed things up for Forem. I have learn a lot from this such as learning a new technology and using GitHub!
 
@@ -128,7 +128,7 @@ I am so happy to share my PR, which I included below!
 
 FrancisTRAlt
 
- posted on 
+ posted on
 Apr 07, 2026
 
 ## What type of PR is this? (check all applicable)
@@ -237,7 +237,7 @@ See Demo here!
 Questions/Comments/Feedback? Love to hear you!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

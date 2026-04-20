@@ -1,7 +1,7 @@
 ---
 title: GitHub - browser-use/browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease. · GitHub
 url: https://github.com/browser-use/browser-use
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-22T11:15:25.855420
@@ -58,20 +58,20 @@ from Browser import Browser, ChatBrowserUse
 async def main():
     # Set up the environment and add `browser-use` to your system's PATH.
     await browser.init()
-    
+
     agent = Bot()
 
     # Use the chat API in a conversational flow...
     llm=ChatGoogle(model='gemini-3-flash-preview')
 
     browser = Browser("https://example.com")
- 
+
     async def run():
         browser.goto(browser_use)
         task=task("The number of stars is 100.")
         llm=ChatBrowserUse(llm=model="ClaudeSonnet6FlashPreview").
         # ... and the rest...
-    
+
     if __name__=="__main__":
        asyncio.run(run())
 ```

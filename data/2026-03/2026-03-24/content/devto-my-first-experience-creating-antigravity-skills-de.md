@@ -77,7 +77,7 @@ Ready to get started?Clone therepositoryand add these skills to your Workspace o
 Follow me onLinkedInandXfor updates on my next blogs and videos.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

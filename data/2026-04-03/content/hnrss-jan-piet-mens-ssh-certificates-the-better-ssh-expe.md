@@ -18,8 +18,8 @@ tags:
 When Isshinto a server for the first time, I’m confronted with a dialog which asks me to verify I’m actually talking to the machine I expect to be talking to.
 
 $
- 
-ssh 
+
+ssh
 -l
  jane 192.0.2.65
 
@@ -43,14 +43,14 @@ The session then possibly continues with me being asked for the target user’s 
 If I create an SSH key pair, install my public key in the correct location (typically$HOME/.ssh/authorized_keyson the target node), and present the private key upon connection, then I don’t need to type the target user’s password; instead I enter the key’spassphrase, a hopefully much more complicated combination of words, to unlock the private key. I say “hopefully”, because this passphrase is what encrypts the private key so that it cannot be used without it. (Note that I typically generate keys with a comment in them so as to more easily keep track of them (-C), and specify which file (-f) they should be written to. The comment can be read from the public key file and will later be visible in the SSH agent.)
 
 $
- 
-ssh-keygen 
+
+ssh-keygen
 -t
- ecdsa 
+ ecdsa
 -C
- 
+
 "JP's demo key"
- 
+
 -f
  demokey
 
@@ -61,8 +61,8 @@ Your identification has been saved in demokey
 Your public key has been saved in demokey.pub
 
 $
- 
-ssh-copy-id 
+
+ssh-copy-id
 -i
  demokey.pub jane@192.0.2.65
 
@@ -77,8 +77,8 @@ Now try logging into the machine, with: "ssh -i ./demokey 'jane@192.0.2.65'"
 and check to make sure that only the key(s) you wanted were added.
 
 $
- 
-ssh 
+
+ssh
 -i
  demokey jane@192.0.2.65
 
@@ -123,12 +123,12 @@ ssh-keygen: generating new host keys: RSA ECDSA ED25519
 Now I try and access the same server again, as above (my user key is still in the agent). The connection fails, I then remove the offending host key from theknown_hostsfile usingssh-keygen, obtain the server’s host key fingerprint to re-validate TOFU, and finally accept the host key into myknown_hostsagain.
 
 $
- 
-ssh 
+
+ssh
 -l
- jane 192.0.2.65 
+ jane 192.0.2.65
 df
- 
+
 -h
  /
 
@@ -147,25 +147,25 @@ Host key for 192.0.2.65 has changed and you have requested strict checking.
 Host key verification failed.
 
 $
- 
-ssh-keygen 
+
+ssh-keygen
 -R
  192.0.2.65
 
 #
- 
+
 Host 192.0.2.65 found: line 649
 
 /Users/jpm/.ssh/known_hosts updated.
 Original contents retained as /Users/jpm/.ssh/known_hosts.old
 
 $
- 
-ssh 
+
+ssh
 -l
- jane 192.0.2.65 
+ jane 192.0.2.65
 df
- 
+
 -h
  /
 
@@ -189,8 +189,8 @@ Those familiar with X.509 certificates, their complexity, and certification auth
 SSH certificates have existed inOpenSSH since version 5.4 released in March 2010, and the certificate format is based on data formats which implementations already support – one reason OpenSSH designed it this way rather than using the far more complicated X.509 format. The following looks like an SSH public key file is actually an OpenSSH public certificate.
 
 $
- 
-cat 
+
+cat
 jane-cert.pub
 
 ecdsa-sha2-nistp256-cert-v01@openssh.com AAAAKGVj ... 74jJshojVhIi+qOrg== Jane's key
@@ -370,7 +370,7 @@ I demonstrated above that some of this can be automated, and there is a very int
 <Earlier
 
 ssh, unix, and linux
- :: 
+ ::
 03 Apr 2026
- :: 
+ ::
 e-mail

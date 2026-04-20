@@ -39,23 +39,23 @@ addEventListener
 copy
 '
 ,
- 
-async 
+
+async
 (
 e
 )
- 
+
 =>
- 
+
 {
 
- 
+
 const
- 
+
 copiedText
- 
+
 =
- 
+
 window
 .
 getSelection
@@ -63,7 +63,7 @@ getSelection
 toString
 ();
 
- 
+
 // Parse timestamps to detect Claude vs user...
 
 });
@@ -161,7 +161,7 @@ Generation will keep getting cheaper. Review won't catch up on its own.
 We have to choose to slow down.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

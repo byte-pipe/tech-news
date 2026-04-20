@@ -61,7 +61,7 @@ CREATE TABLE
  customers
  (
 
- id 
+ id
 integer GENERATED ALWAYS AS IDENTITY PRIMARY KEY
 ,
 
@@ -73,15 +73,15 @@ CREATE TABLE
  orders
  (
 
- id 
+ id
 integer GENERATED ALWAYS AS IDENTITY PRIMARY KEY
 ,
 
- customer_id 
+ customer_id
 integer NOT NULL REFERENCES
  customers(id),
 
- amount 
+ amount
 numeric
 (
 10
@@ -95,11 +95,11 @@ numeric
  'pending'
 ,
 
- note 
+ note
 text
 ,
 
- created_at 
+ created_at
 date NOT NULL DEFAULT
  CURRENT_DATE
 
@@ -109,7 +109,7 @@ CREATE TABLE
  orders_archive
  (
 LIKE
- orders INCLUDING ALL EXCLUDING 
+ orders INCLUDING ALL EXCLUDING
 IDENTITY
 );
 
@@ -127,14 +127,14 @@ FROM
  generate_series
 (
 1
-, 
+,
 2000
-) 
+)
 AS
  i;
 
 INSERT INTO
- orders (customer_id, amount, 
+ orders (customer_id, amount,
 status
 , note, created_at)
 
@@ -190,7 +190,7 @@ FROM
  generate_series
 (
 1
-, 
+,
 100000
 );
 
@@ -204,18 +204,18 @@ CREATE TABLE
  employees
  (
 
- id 
+ id
 integer GENERATED ALWAYS AS IDENTITY PRIMARY KEY
 ,
 
  name text NOT NULL
 ,
 
- manager_id 
+ manager_id
 integer REFERENCES
  employees(id),
 
- department 
+ department
 text NOT NULL
 
 );
@@ -223,78 +223,78 @@ text NOT NULL
 INSERT INTO
  employees (
 name
-, manager_id, department) 
+, manager_id, department)
 VALUES
 
  (
 'Alice'
-, 
+,
 NULL
-, 
+,
 'Engineering'
 ),
 
  (
 'Bob'
-, 
+,
 1
-, 
+,
 'Engineering'
 ),
 
  (
 'Charlie'
-, 
+,
 1
-, 
+,
 'Engineering'
 ),
 
  (
 'Diana'
-, 
+,
 2
-, 
+,
 'Engineering'
 ),
 
  (
 'Eve'
-, 
+,
 2
-, 
+,
 'Engineering'
 ),
 
  (
 'Frank'
-, 
+,
 3
-, 
+,
 'Sales'
 ),
 
  (
 'Grace'
-, 
+,
 3
-, 
+,
 'Sales'
 ),
 
  (
 'Hank'
-, 
+,
 6
-, 
+,
 'Sales'
 ),
 
  (
 'Ivy'
-, 
+,
 6
-, 
+,
 'Sales'
 );
 
@@ -306,23 +306,23 @@ As we already covered before PostgreSQL 12, every CTE was materialized. No excep
 
 Consider this simple query:
 
-EXPLAIN 
+EXPLAIN
 WITH
- filtered 
+ filtered
 AS
  (
 
  SELECT * FROM
- orders 
+ orders
 WHERE
- created_at 
+ created_at
 >
  '2025-01-01'
 
 )
 
 SELECT * FROM
- filtered 
+ filtered
 WHERE status =
  'pending'
 ;
@@ -347,7 +347,7 @@ Notice what happens here. The CTE runs a sequential scan onorderswith the date f
 
 Why was it designed this way? Two reasons. First, reason was snapshot isolation. Materializing the CTE guaranteed that the result set was computed once, from a single snapshot, regardless of how many times it was referenced. Second, as protection for side-effect edge cases. If a CTE contained a data-modifying statement (INSERT,UPDATE,DELETE), materialising ensured it executed exactly once.
 
-The workaround was well-known in the community: rewrite CTEs as subqueries. Subqueries had always been subject to the planner's normal optimisation rules, including predicate pushdown and inlining. The same query written as 
+The workaround was well-known in the community: rewrite CTEs as subqueries. Subqueries had always been subject to the planner's normal optimisation rules, including predicate pushdown and inlining. The same query written as
 SELECT * FROM (SELECT * FROM orders WHERE created_at > '2025-01-01') sub WHERE status = 'pending'
  would produce a much better plan.
 
@@ -359,23 +359,23 @@ PostgreSQL 12 introduced automatic CTE inlining. Non-recursive, side-effect-free
 
 The same query from the previous section now produces a completely different plan:
 
-EXPLAIN 
+EXPLAIN
 WITH
- filtered 
+ filtered
 AS
  (
 
  SELECT * FROM
- orders 
+ orders
 WHERE
- created_at 
+ created_at
 >
  '2025-01-01'
 
 )
 
 SELECT * FROM
- filtered 
+ filtered
 WHERE status =
  'pending'
 ;
@@ -396,46 +396,46 @@ PostgreSQL 12 also introduced two new keywords that let you override the planner
 
 -- force materialization
 
-EXPLAIN 
+EXPLAIN
 WITH
- filtered 
+ filtered
 AS
  MATERIALIZED (
 
  SELECT * FROM
- orders 
+ orders
 WHERE
- created_at 
+ created_at
 >
  '2025-01-01'
 
 )
 
 SELECT * FROM
- filtered 
+ filtered
 WHERE status =
  'pending'
 ;
 
 -- Force inlining
 
-EXPLAIN 
+EXPLAIN
 WITH
- filtered 
+ filtered
 AS NOT
  MATERIALIZED (
 
  SELECT * FROM
- orders 
+ orders
 WHERE
- created_at 
+ created_at
 >
  '2025-01-01'
 
 )
 
 SELECT * FROM
- filtered 
+ filtered
 WHERE status =
  'pending'
 ;
@@ -448,23 +448,23 @@ This follows the same principle asVIEW inlining.
 
 The simplest and most common case. If you reference the CTE exactly once and it contains no side effects, the planner inlines it.
 
-EXPLAIN 
+EXPLAIN
 WITH
- recent 
+ recent
 AS
  (
 
  SELECT * FROM
- orders 
+ orders
 WHERE
- created_at 
+ created_at
 >
  '2025-01-01'
 
 )
 
 SELECT * FROM
- recent 
+ recent
 WHERE status =
  'pending'
 ;
@@ -484,22 +484,22 @@ Both predicates are merged. The planner considers all access paths onordersdirec
 
 When a CTE is referenced more than once, the planner materializes it. This is actually a feature, CTE is computed once and reused. Therefore avoiding redundant work.
 
-EXPLAIN 
+EXPLAIN
 WITH
- summary 
+ summary
 AS
  (
 
  SELECT status
-, 
+,
 count
 (
 *
-) 
+)
 AS
- cnt 
+ cnt
 FROM
- orders 
+ orders
 GROUP BY status
 
 )
@@ -508,7 +508,7 @@ SELECT
  a
 .
 status
-, 
+,
 b
 .
 status
@@ -553,20 +553,20 @@ TheCTE Scannodes appear twice, but theHashAggregateruns only once. For expensive
 
 Recursive CTEs must maintain a working table between iterations. There's no way to inline them. We'll cover recursion in detail later in the article.
 
-EXPLAIN 
+EXPLAIN
 WITH RECURSIVE
- subordinates 
+ subordinates
 AS
  (
 
  SELECT
- id, 
+ id,
 name
-, manager_id 
+, manager_id
 FROM
- employees 
+ employees
 WHERE
- id 
+ id
 =
  1
 
@@ -576,11 +576,11 @@ WHERE
  e
 .
 id
-, 
+,
 e
 .
 name
-, 
+,
 e
 .
 manager_id
@@ -589,7 +589,7 @@ manager_id
  employees e
 
  JOIN
- subordinates s 
+ subordinates s
 ON
  e
 .
@@ -633,17 +633,17 @@ SELECT * FROM
 
 CTEs that containINSERT,UPDATE, orDELETEare always materialized. The side effects must execute exactly once, in a predictable order.
 
-EXPLAIN 
+EXPLAIN
 WITH
- deleted 
+ deleted
 AS
  (
 
  DELETE FROM
- orders 
+ orders
 WHERE status =
  'cancelled'
- RETURNING 
+ RETURNING
 *
 
 )
@@ -652,7 +652,7 @@ SELECT
  count
 (
 *
-) 
+)
 FROM
  deleted;
  QUERY PLAN
@@ -679,25 +679,25 @@ TheCTE Scanis present because theDELETEmust be fully executed before thecount(*)
 
 If a CTE contains aVOLATILEfunction, the planner materializes it to prevent the function from being evaluated multiple times with potentially different results.
 
-EXPLAIN 
+EXPLAIN
 WITH
- rand 
+ rand
 AS
  (
 
  SELECT
  id, random()
  AS
- r 
+ r
 FROM
  orders
 
 )
 
 SELECT * FROM
- rand 
+ rand
 WHERE
- r 
+ r
 <
  0
 .
@@ -723,9 +723,9 @@ Even thoughrandis referenced only once, theCTE Scanis there.random()isVOLATILE, 
 
 STABLEfunctions likenow()donotprevent inlining. The reason is that the time is frozen at transaction start.
 
-EXPLAIN 
+EXPLAIN
 WITH
- recent 
+ recent
 AS
  (
 
@@ -733,17 +733,17 @@ AS
  orders
 
  WHERE
- created_at 
+ created_at
 > now
 ()
  -
- interval 
+ interval
 '7 days'
 
 )
 
 SELECT * FROM
- recent 
+ recent
 WHERE status =
  'pending'
 ;
@@ -771,23 +771,23 @@ You can always override the planner's decision.
 
 -- force materialization on something that would normally be inlined
 
-EXPLAIN 
+EXPLAIN
 WITH
- filtered 
+ filtered
 AS
  MATERIALIZED (
 
  SELECT * FROM
- orders 
+ orders
 WHERE status =
  'pending'
 
 )
 
 SELECT * FROM
- filtered 
+ filtered
 WHERE
- amount 
+ amount
 >
  400
 ;
@@ -808,14 +808,14 @@ WHERE
 (5 rows)
 -- force inlining on something that would normally be materialized
 
-EXPLAIN 
+EXPLAIN
 WITH
- filtered 
+ filtered
 AS NOT
  MATERIALIZED (
 
  SELECT * FROM
- orders 
+ orders
 WHERE status =
  'pending'
 
@@ -825,7 +825,7 @@ SELECT * FROM
  filtered a
 
 JOIN
- filtered b 
+ filtered b
 ON
  a
 .
@@ -853,7 +853,7 @@ customer_id
 
  Filter: (status = 'pending'::text)
 
-(7 rows) 
+(7 rows)
 
 If the CTE were materialized, you would see a single scan of theorderstable, followed by two CTE Scans on the result. Instead, the planner has treated your query as if you had written a standard join between two subqueries.
 
@@ -863,14 +863,14 @@ Be careful withNOT MATERIALIZEDon multiply-referenced CTEs.When you force inlini
 
 Row-locking clauses force materialization even on a singly-referenced, side-effect-free CTE. Internally, the planner'scontain_dml()check treatsFOR UPDATEandFOR SHAREthe same as data-modifying statements.
 
-EXPLAIN 
+EXPLAIN
 WITH
- locked 
+ locked
 AS
  (
 
  SELECT * FROM
- orders 
+ orders
 WHERE status =
  'pending'
  FOR UPDATE
@@ -878,9 +878,9 @@ WHERE status =
 )
 
 SELECT * FROM
- locked 
+ locked
 WHERE
- amount 
+ amount
 >
  400
 ;
@@ -948,13 +948,13 @@ Materialized
 Materialized
 Materialized
 
-Explicit 
+Explicit
 MATERIALIZED
 -
 Materialized
 Materialized
 
-Explicit 
+Explicit
 NOT MATERIALIZED
 -
 Inlined
@@ -968,9 +968,9 @@ When the planner materializes a CTE, the result set is stored in a temporary tup
 
 Let's see this in action. Here's a CTE over 10,000 rows:
 
-EXPLAIN 
+EXPLAIN
 WITH
- all_orders 
+ all_orders
 AS
  MATERIALIZED (
 
@@ -980,11 +980,11 @@ AS
 )
 
 SELECT * FROM
- all_orders 
+ all_orders
 WHERE status =
  'pending'
  AND
- amount 
+ amount
 >
  400
 ;
@@ -1004,9 +1004,9 @@ WHERE status =
 
 The planner estimated 5,290 rows. Where does that number come from? The planner has no MCV list forstatusinside the CTE, no histogram foramount. It falls back to default selectivities of0.3333for the range comparison onamountand a rough guess for the equality onstatus, and multiplies them against the 100,000 input rows.
 
-If this CTE were inlined, the planner would read the actual statistics from 
+If this CTE were inlined, the planner would read the actual statistics from
 pg_statistic
- for the 
+ for the
 orders
  table and produce estimates based on real data distribution, not defaults.
 
@@ -1028,16 +1028,16 @@ Materialization isn't always bad.
 
 Multiple references.If the CTE result is used in multiple places, materialization computes it once. Without it, the subquery runs once per reference.
 
-EXPLAIN 
+EXPLAIN
 WITH
- monthly_totals 
+ monthly_totals
 AS
  (
 
  SELECT
  date_trunc(
 'month'
-, created_at) 
+, created_at)
 AS month
 ,
 
@@ -1045,7 +1045,7 @@ AS month
 ,
 
  sum
-(amount) 
+(amount)
 AS
  total
 
@@ -1054,7 +1054,7 @@ AS
 
  GROUP BY
  1
-, 
+,
 2
 
 )
@@ -1063,11 +1063,11 @@ SELECT
  cur
 .
 month
-, 
+,
 cur
 .
 status
-, 
+,
 cur
 .
 total
@@ -1104,7 +1104,7 @@ month
 .
 month
  +
- interval 
+ interval
 '1 month'
 
  AND
@@ -1115,7 +1115,7 @@ status
  prev
 .
 status
-; 
+;
  QUERY PLAN
 
 -------------------------------------------------------------------------------
@@ -1161,20 +1161,20 @@ Developers still structure queries as sequential pipelines, and that structure i
 A common pattern is building queries as an assembly line: one CTE filters rows, the next LEFT JOINs related tables and aggregates metadata withGROUP BY, the next filters on the aggregated results. It reads like a clean pipeline, but theGROUP BYin the middle creates a wall the planner can't optimize past.
 
 WITH
- recent_orders 
+ recent_orders
 AS
  (
 
  SELECT * FROM
- orders 
+ orders
 WHERE
- created_at 
+ created_at
 >
  '2024-01-01'
 
 ),
 
-order_metadata 
+order_metadata
 AS
  (
 
@@ -1190,7 +1190,7 @@ oa
 .
 id
  IS NOT NULL
-) 
+)
 AS
  was_archived,
 
@@ -1199,7 +1199,7 @@ AS
 o2
 .
 id
-) 
+)
 AS
  related_count
 
@@ -1207,7 +1207,7 @@ AS
  recent_orders o
 
  LEFT JOIN
- orders_archive oa 
+ orders_archive oa
 ON
  o
 .
@@ -1218,7 +1218,7 @@ id
 id
 
  LEFT JOIN
- orders o2 
+ orders o2
 ON
  o
 .
@@ -1246,11 +1246,11 @@ id
 SELECT
  o.
 *
-, 
+,
 m
 .
 was_archived
-, 
+,
 m
 .
 related_count
@@ -1259,7 +1259,7 @@ FROM
  recent_orders o
 
 JOIN
- order_metadata m 
+ order_metadata m
 ON
  o
 .
@@ -1310,7 +1310,7 @@ created_at
  SELECT
  1
  FROM
- orders_archive oa 
+ orders_archive oa
 WHERE
  oa
 .
@@ -1357,9 +1357,9 @@ The rule of thumb:if your CTE contains aGROUP BYor aLEFT JOINjust to compute a b
 
 Data-modifying CTEs let youINSERT,UPDATE, orDELETEinside aWITHclause and use theRETURNINGdata in subsequent CTEs or the main query.
 
-EXPLAIN 
+EXPLAIN
 WITH
- deleted 
+ deleted
 AS
  (
 
@@ -1370,16 +1370,16 @@ AS
  'cancelled'
 
  AND
- created_at 
+ created_at
 <
  '2023-01-01'
 
- RETURNING 
+ RETURNING
 *
 
 ),
 
-archived 
+archived
 AS
  (
 
@@ -1397,7 +1397,7 @@ SELECT
  count
 (
 *
-) 
+)
 FROM
  archived;
  QUERY PLAN
@@ -1422,7 +1422,7 @@ FROM
 
  -> CTE Scan on archived (cost=0.00..166.68 rows=8334 width=0)
 
-(9 rows) 
+(9 rows)
 
 This deletes old cancelled orders, moves them to an archive table, and counts how many were archived - all in a single atomic statement, no application-level coordination needed.
 
@@ -1436,11 +1436,11 @@ SELECT
  count
 (
 1
-) 
+)
 FROM
- orders 
+ orders
 WHERE
- customer_id 
+ customer_id
 =
  1
 ;
@@ -1452,23 +1452,23 @@ WHERE
 
 (1 row)
 WITH
- ins 
+ ins
 AS
  (
 
  INSERT INTO
- orders (customer_id, amount, 
+ orders (customer_id, amount,
 status
 , created_at)
 
  VALUES
  (
 1
-, 
+,
 100
 .
 00
-, 
+,
 'pending'
 , CURRENT_DATE)
 
@@ -1482,11 +1482,11 @@ SELECT
  count
 (
 1
-) 
+)
 FROM
- orders 
+ orders
 WHERE
- customer_id 
+ customer_id
 =
  1
 ;
@@ -1505,14 +1505,14 @@ Thecount(1)query sees the pre-insert snapshot. If you need the inserted data, yo
 A common pattern is using writable CTEs to move rows between tables atomically:
 
 WITH
- moved 
+ moved
 AS
  (
 
  DELETE FROM
  orders_staging
 
- RETURNING 
+ RETURNING
 *
 
 )
@@ -1537,16 +1537,16 @@ Recursive CTEs use an iterative working-table mechanism. Despite the name, they 
 4. Return the union of all iterations.
 
 WITH RECURSIVE
- org_chart 
+ org_chart
 AS
  (
 
  -- Seed: start from the CEO
 
  SELECT
- id, 
+ id,
 name
-, manager_id, 
+, manager_id,
 1
  AS
  depth
@@ -1555,7 +1555,7 @@ name
  employees
 
  WHERE
- manager_id 
+ manager_id
 IS NULL
 
  UNION ALL
@@ -1566,15 +1566,15 @@ IS NULL
  e
 .
 id
-, 
+,
 e
 .
 name
-, 
+,
 e
 .
 manager_id
-, 
+,
 oc
 .
 depth
@@ -1585,7 +1585,7 @@ depth
  employees e
 
  JOIN
- org_chart oc 
+ org_chart oc
 ON
  e
 .
@@ -1598,9 +1598,9 @@ id
 )
 
 SELECT * FROM
- org_chart 
+ org_chart
 ORDER BY
- depth, 
+ depth,
 name
 ;
  id | name | manager_id | depth
@@ -1648,7 +1648,7 @@ When you materialize a CTE over a partitioned table, partition pruning cannot ha
 -- assume orders is range-partitioned by created_at
 
 WITH
- recent 
+ recent
 AS
  MATERIALIZED (
 
@@ -1658,9 +1658,9 @@ AS
 )
 
 SELECT * FROM
- recent 
+ recent
 WHERE
- created_at 
+ created_at
 >
  '2025-06-01'
 ;
@@ -1693,7 +1693,7 @@ CTE, referenced oncethe planner inlines it on PG 12+, so it doesn't affect the e
 
 CTE, referenced multiple times (small result)represents acceptable cost. Materialization means the subquery runs once. For aggregations or filtered subsets that produce a few hundred rows, the overhead is minimal.
 
-As 
+As
 Henrietta Dombrovskaya
  emphasizes, "The best temporary table is the one you didn't create". Always exhaust your indexing and query-rewriting options before reaching for a temp table, as the DDL overhead often outweighs the execution gains.
 

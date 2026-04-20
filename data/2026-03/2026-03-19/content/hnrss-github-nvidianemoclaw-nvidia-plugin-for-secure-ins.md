@@ -14,7 +14,7 @@ tags:
 
 NVIDIA
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork1k
 * Star10.3k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -287,8 +287,8 @@ For DGX Spark, follow theDGX Spark setup guide. It covers Spark-specific prerequ
 Download and run the installer script.
 The script installs Node.js if it is not already present, then runs the guided onboard wizard to create a sandbox, configure inference, and apply security policies.
 
-$ 
-curl -fsSL https://www.nvidia.com/nemoclaw.sh 
+$
+curl -fsSL https://www.nvidia.com/nemoclaw.sh
 |
  bash
 
@@ -312,7 +312,7 @@ Logs: nemoclaw my-assistant logs --follow
 
 Connect to the sandbox, then chat with the agent through the TUI or the CLI.
 
-$ 
+$
 nemoclaw my-assistant connect
 
 #### OpenClaw TUI
@@ -320,7 +320,7 @@ nemoclaw my-assistant connect
 The OpenClaw TUI opens an interactive chat interface. Type a message and press Enter to send it to the agent:
 
 sandbox@my-assistant:~
-$ 
+$
 openclaw tui
 
 Send a test message to the agent and verify you receive a response.
@@ -330,12 +330,12 @@ Note
 The TUI is best for interactive back-and-forth. If you need the full text of a long response (for example, large code generation output), use the CLI instead:
 
 sandbox@my-assistant:~
-$ 
-openclaw agent --agent main --local -m 
+$
+openclaw agent --agent main --local -m
 "
 <prompt>
 "
- --session-id 
+ --session-id
 <
 id
 >
@@ -347,12 +347,12 @@ This prints the complete response directly in the terminal and avoids relying on
 Use the OpenClaw CLI to send a single message and print the response:
 
 sandbox@my-assistant:~
-$ 
-openclaw agent --agent main --local -m 
+$
+openclaw agent --agent main --local -m
 "
 hello
 "
- --session-id 
+ --session-id
 test
 
 ## How It Works
@@ -421,9 +421,9 @@ Hot-reloadable at runtime.
 
 Filesystem
 
-Prevents reads/writes outside 
+Prevents reads/writes outside
 /sandbox
- and 
+ and
 /tmp
 .
 
@@ -466,9 +466,9 @@ openshell term
 Launch the OpenShell TUI for monitoring and approvals.
 
 nemoclaw start
- / 
+ /
 stop
- / 
+ /
 status
 
 Manage auxiliary services (Telegram bridge, tunnel).
@@ -526,66 +526,66 @@ docs.nvidia.com/nemoclaw/latest/
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 10.3k
 
  stars
- 
+
 
 ### Watchers
 
 69
 
  watching
- 
+
 
 ### Forks
 
 1k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -603,9 +603,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -613,9 +613,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

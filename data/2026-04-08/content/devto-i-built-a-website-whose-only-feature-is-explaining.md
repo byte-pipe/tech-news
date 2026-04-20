@@ -66,7 +66,7 @@ The daily runner aggregates feedback from DynamoDB (empty), collects Bluesky met
 Community Favorite— the community can literally control what gets built via the feedback form. Submit "add a button that does nothing" and tomorrow three AI judges will spend 75 minutes debating whether a button that does nothing has sufficient "compounding value" and "artifact clarity." Then they'll build it, test it, review it, and post about it. Democracy in action.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

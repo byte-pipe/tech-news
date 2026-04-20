@@ -24,15 +24,15 @@ Check out the post that start it all:
 Built with Google Gemini: Writing Challenge
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
  FrancisTRᴅᴇᴠ (っ◔◡◔)っ
- 
+
 
 FrancisTRᴅᴇᴠ (っ◔◡◔)っ
 
  Follow
- 
+
 
 Mar 3
 
@@ -59,7 +59,7 @@ Comments
  comments
 
  11 min read
- 
+
 
  
 
@@ -77,7 +77,7 @@ There is an issue named"UI Issue"by@konark_13:
 
 Konarksharma13
 
- posted on 
+ posted on
 Mar 05, 2026
 
 Describe the bug
@@ -132,7 +132,7 @@ Here is the Pull Request I made to solve this issue:
 
 FrancisTRAlt
 
- posted on 
+ posted on
 Mar 05, 2026
 
 ## What type of PR is this? (check all applicable)
@@ -187,45 +187,45 @@ All it does is increase the"z-index" to 9999. It is worth noting thatthis is not
 Later on,@benrefine this solution:
 
 //
- 
+
 Ensure
- 
+
 this
- 
+
 is
- 
+
 above
- 
+
 comments
- 
+
 but
- 
+
 below
- 
+
 dropdowns
 /
 modals
 /
 popovers
- 
+
 (
 like
- 
+
 billboards
 )
 
 z-index
 :
- 
+
 calc
 (
 var
 (
 --z-dropdown
 )
- 
+
 -
- 
+
 1
 );
 
@@ -298,7 +298,7 @@ You have made it to the end Traveler!Thank you for reading this chapter andstay 
 Questions or Comments? I would love to hear your thoughts about this tale of The Open Sourcerer of Forem!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

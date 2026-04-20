@@ -48,11 +48,11 @@ Naveen Sunkavally, chief architect at Horizon3.ai, said the vulnerability shares
 
 "LangChain doesn't exist in isolation. It sits at the center of a massive dependency web that stretches across the AI stack. Hundreds of libraries wrap LangChain, extend it, or depend on it," Cyera said. "When a vulnerability exists in LangChain’s core, it doesn’t just affect direct users. It ripples outward through every downstream library, every wrapper, every integration that inherits the vulnerable code path."
 
-Found this article interesting? Follow us on 
+Found this article interesting? Follow us on
 Google News
-, 
+,
 Twitter
- and 
+ and
 LinkedIn
  to read more exclusive content we post.
 
@@ -78,23 +78,23 @@ Share
 
 Share
 
-SHARE 
+SHARE
 
 
 Application Security
-, 
+,
 artificial intelligence
-, 
+,
 Cloud security
-, 
+,
 cybersecurity
-, 
+,
 Open Source
-, 
+,
 sql injection
-, 
+,
 Threat Intelligence
-, 
+,
 Vulnerability
 
 Trending News

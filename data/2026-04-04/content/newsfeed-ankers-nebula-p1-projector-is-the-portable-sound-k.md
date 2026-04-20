@@ -27,8 +27,8 @@ Too bad they forgot the battery.
 If you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement.
 
 by
- 
- 
+
+
 Thomas Ricker
 Apr 4, 2026, 7:00 AM UTC
 * Link
@@ -39,7 +39,7 @@ If you buy something from a Verge link, Vox Media may earn a commission.See our 
 
 The Nebula P1 goes anywhere you can find a power source.
 Thomas Ricker
- 
+
 is a deputy editor and Verge co-founder with a passion for human-centric cities, e-bikes, and life as a digital nomad. He’s been a tech journalist for 20 years.
 
 The Soundcore Nebula P1 from Anker isn’t the most portable Google TV projector I’ve ever reviewed, nor is it the brightest. It doesn’t even have a built-in battery. Instead it’s a decent video device that focuses on sound.
@@ -168,19 +168,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

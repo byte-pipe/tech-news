@@ -30,7 +30,7 @@ This means that Amazon’s chip business has hit a $20 billion annual revenue ru
 
 Granted, Nvidiadid $215.9 billion in actual revenuelast year. Nvidia may not be shaking in its boots, yet. Still, Jassy presents Trainium as a formidable up-and-comer.
 
- 
+
 
 Techcrunch event
 
@@ -69,31 +69,31 @@ Correction: This story has been updated to reflect that the estimated ARR of Ama
 Topics
 
 AI
-, 
+,
 Amazon
-, 
+,
 Andy Jassy
-, 
+,
 AWS
-, 
+,
 CAPEX
-, 
+,
 Enterprise
-, 
+,
 OpenAI
- 
 
-			Julie Bort	
+
+			Julie Bort
 
 Venture Editor
 
-		Julie Bort is the Startups/Venture Desk editor for TechCrunch. 
+		Julie Bort is the Startups/Venture Desk editor for TechCrunch.
 
 
-You can contact or verify outreach from Julie by emailing 
+You can contact or verify outreach from Julie by emailing
 julie.bort@techcrunch.com
- or via 
+ or via
 @Julie188
- on X.	
+ on X.
 
 View Bio

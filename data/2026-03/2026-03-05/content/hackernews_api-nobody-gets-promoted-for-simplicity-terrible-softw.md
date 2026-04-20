@@ -78,26 +78,26 @@ At the end of the day, if we keep rewarding complexity and ignoring simplicity, 
 * Share on Mastodon (Opens in new window)Mastodon
 * Share on X (Opens in new window)X
 Like
- 
+
 Loading…
 
 opinion
 
 career
-, 
+,
 culture
-, 
+,
 engineering
-, 
+,
 leadership
-, 
+,
 teams
 
 ### Discover more from Terrible Software
 
 Subscribe to get the latest posts sent to your email.
 
- 
+
 
 Type your email…
 

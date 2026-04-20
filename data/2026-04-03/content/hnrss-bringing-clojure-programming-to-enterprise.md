@@ -55,8 +55,8 @@ The software product I was working on required to implement a lighweight languag
 
 (def business-logic
  [:ruleset-group
- [:ruleset1 
- [:when [:condition1][:condition2]] 
+ [:ruleset1
+ [:when [:condition1][:condition2]]
  [:then [:and [:action1][:action2][:action3]]]
  [:ruleset2
  [:when [:condition3] [:or [:condition4][:condition5]]]

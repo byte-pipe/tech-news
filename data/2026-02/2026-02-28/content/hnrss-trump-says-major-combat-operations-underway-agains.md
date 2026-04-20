@@ -25,7 +25,7 @@ Donald Trump
  See all topics
 
  Follow
- 
+
 
 President Donald Trump announced Saturday that the United States has begun “major combat operations” in Iran, pledging to lay waste to the country’s military and obliterate its nuclear program.
 

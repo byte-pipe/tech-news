@@ -196,31 +196,31 @@ what I think software systems should be.
 ## Footnotes:
 
 1
- 
+
 
 If you are new to Nix, I wrote a more practical
 getting-started guide here:Nix: Better way for fun and profit.
 
 2
- 
+
 
 By unstable channel I mean the official
 `nixos-unstable` or `nixpkgs-unstable` channels. SeeChannel branchesandchannels.nixos.org.
 
 3
- 
+
 
 HP EliteBook X G1a 14 inch Notebook with 64 GiB RAM and
 AMD Ryzen AI 9 HX PRO 375.
 
 4
- 
+
 
 For example,nix developdrops you into an interactive shell environment that is very close to
 what Nix would use to build the current package or project.
 
 5
- 
+
 
 A voice-to-text agent I built in Rust that replaced
 Whisper and Willow Voice in my personal workflow. I wrote it first for
@@ -229,7 +229,7 @@ driver for a couple of months now. I am considering open sourcing it
 or releasing it as a standalone app.
 
 Tags
-: 
+:
 nix
- 
+
 ai

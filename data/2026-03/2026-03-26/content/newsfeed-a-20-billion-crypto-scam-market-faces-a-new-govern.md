@@ -66,14 +66,14 @@ Triangle
 * Should you leave your phonecharging overnight?
 * Watch:How right wing influencers infiltrated the government
 Matt Burgess
- is a senior writer at WIRED focused on information security, privacy, and data regulation in Europe. He graduated from the University of Sheffield with a degree in journalism and now lives in London. Send tips to 
+ is a senior writer at WIRED focused on information security, privacy, and data regulation in Europe. He graduated from the University of Sheffield with a degree in journalism and now lives in London. Send tips to
 [email protected]
-. ... 
+. ...
 Read More
 Senior writer
 * X
 Lily Hay Newman
- is a senior writer at WIRED focused on information security, digital privacy, and hacking. She previously worked as a technology reporter at Slate, and was the staff writer for Future Tense, a publication and partnership between Slate, the New America Foundation, and Arizona State University. Her work ... 
+ is a senior writer at WIRED focused on information security, digital privacy, and hacking. She previously worked as a technology reporter at Slate, and was the staff writer for Future Tense, a publication and partnership between Slate, the New America Foundation, and Arizona State University. Her work ...
 Read More
 Senior Writer
 * X

@@ -14,18 +14,18 @@ tags:
 ---
 
 News
-			
+
 
 				News
-			
 
-				Topic: 
+
+				Topic:
 				Engineering
-			
+
 
 Voir en
 
- 
+
 français
 
 # CERN levels up with new superconducting karts
@@ -61,70 +61,70 @@ HiLumi LHC
 ### European labs get aligned at CERN
 
  Engineering
- 
+
 
  News
- 
+
 
 26 January, 2026
 
 ### Lift off: CERN engineer travels to space
 
  Engineering
- 
+
 
  News
- 
+
 
 25 June, 2025
 
 ### CERN signs long-term solar power agreements
 
  Engineering
- 
+
 
  News
- 
+
 
 29 November, 2024
 
 ### A test stand for the High-Luminosity LHC
 
  Engineering
- 
+
 
  News
- 
+
 
 9 October, 2024
 
 ### HiLumi News: new large helium tanks
 
  Engineering
- 
+
 
  News
- 
+
 
 18 July, 2024
 
 ### Less hungry magnets for the experiments of th...
 
  Engineering
- 
+
 
  News
- 
+
 
 5 July, 2024
 
 ### Coming together to prepare for ambitious futu...
 
  Engineering
- 
+
 
  Opinion
- 
+
 
 Mike Lamont
 
@@ -133,20 +133,20 @@ Mike Lamont
 ### LHC tunnel named as one of the 50 most iconic...
 
  Engineering
- 
+
 
  News
- 
+
 
 6 June, 2024
 
 ### Enhancing safety: improving seismic risk asse...
 
  Engineering
- 
+
 
  News
- 
+
 
 2 May, 2024
 

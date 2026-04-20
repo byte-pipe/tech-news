@@ -27,8 +27,8 @@ For now, the company is only releasing Project Glasswing to “defensive securit
 For now, the company is only releasing Project Glasswing to “defensive security” partners.
 
 by
- 
- 
+
+
 Hayden Field
 Apr 7, 2026, 6:00 PM UTC
 * Link
@@ -36,7 +36,7 @@ Apr 7, 2026, 6:00 PM UTC
 * Gift
 The Verge
 Hayden Field
- 
+
 is The Verge’s senior AI reporter. An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets.
 
 Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it’s called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention.
@@ -74,19 +74,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

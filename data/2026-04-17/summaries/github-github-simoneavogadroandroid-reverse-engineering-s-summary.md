@@ -1,7 +1,7 @@
 ---
 title: "GitHub - SimoneAvogadro/android-reverse-engineering-skill: Claude Code skill to support Android app's reverse engineering · GitHub"
 url: https://github.com/SimoneAvogadro/android-reverse-engineering-skill
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-17T06:14:02.183202
@@ -9,7 +9,7 @@ summarized_at: 2026-04-17T06:14:02.183202
 
 # GitHub - SimoneAvogadro/android-reverse-engineering-skill: Claude Code skill to support Android app's reverse engineering · GitHub
 
-*   **Android Reverse Engineering & API Extraction - Claude Code skill**: A Java-based reverse engineering skill that decompiles Android APK, XAPK, JAR, and AAR files and extracts HTTP APIs used by the app. 
+*   **Android Reverse Engineering & API Extraction - Claude Code skill**: A Java-based reverse engineering skill that decompiles Android APK, XAPK, JAR, and AAR files and extracts HTTP APIs used by the app.
 *   **Functionality**:
     *   Decompiles APK, XAPK, JAR, and AARs using `jadx` and `Fernflower/Vineflower`.
     *   Extracts and documents Retrofit endpoints, OkHttp calls, hardcoded URLs, auth headers, and tokens.

@@ -11,7 +11,7 @@ description: A framework for efficient model inference with omni-modality models
 
 vllm-project
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork578
 * Star3.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -208,28 +208,28 @@ If you use vLLM-Omni for your research, please cite ourpaper:
 {
 yin2026vllmomni
 ,
- 
+
 title
 =
 {
 vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models
 }
 ,
- 
+
 author
 =
 {
 Peiqi Yin, Jiangyun Zhu, Han Gao, Chenguang Zheng, Yongxiang Huang, Taichang Zhou, Ruirui Yang, Weizhi Liu, Weiqing Chen, Canlin Guo, Didan Deng, Zifeng Mo, Cong Wang, James Cheng, Roger Wang, Hongsheng Liu
 }
 ,
- 
+
 journal
 =
 {
 arXiv preprint arXiv:2602.02204
 }
 ,
- 
+
 year
 =
 {
@@ -278,56 +278,56 @@ docs.vllm.ai/projects/vllm-omni
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 3.4k
 
  stars
- 
+
 
 ### Watchers
 
 37
 
  watching
- 
+
 
 ### Forks
 
 578
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases8
 
@@ -335,11 +335,11 @@ v0.16.0
 
  Latest
 
- 
+
 
 Feb 28, 2026
 
- 
+
 
 + 7 releases
 
@@ -355,17 +355,17 @@ Feb 28, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -373,9 +373,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

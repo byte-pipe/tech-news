@@ -99,7 +99,7 @@ Removing myself from the implementation loop didn’t eliminate responsibility; 
 This post was brewed by me—with a shot of Google Gemini and a splash of ChatGPT. If you catch a bias or a goof, call it out. AI isn’t perfect, and neither am I.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

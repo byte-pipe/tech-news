@@ -11,7 +11,7 @@ description: 'Mobile-Agent: The Powerful GUI Agent Family. Contribute to X-PLUG/
 
 X-PLUG
 
- 
+
 
 /
 
@@ -28,41 +28,41 @@ Mobile-Agent: The Powerful GUI Agent Family
 ### License
 
  MIT license
- 
+
 
 7.4k
 
  stars
 
- 
+
 
 762
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # X-PLUG/MobileAgent

@@ -49,21 +49,21 @@ In the big picture, the Artemis II mission continues to go splendidly. The deput
 Everything is going so well, in fact, that much of the focus has been on frozen urine. And considering all of the things that could go wrong with a dangerous deep space journey like this, a wee problem like this seems like a big win.
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
- Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books: 
+ Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books:
 Liftoff
-, about the rise of SpaceX; and 
+, about the rise of SpaceX; and
 Reentry
 , on the development of the Falcon 9 rocket and Dragon. A certified meteorologist, Eric lives in Houston.
- 
+
 
 1. 1."Cognitive surrender" leads AI users to abandon logical thinking, research finds
 2. 2.Netflix must refund customers for years of price hikes, Italian court rules

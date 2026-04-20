@@ -30,7 +30,7 @@ Meta said in response that it would let third-party AI chatbot providers use its
 
 Meta announced the policy changelast October, which spurred several antitrust investigations, particularly because the company offers its own AI chatbot, Meta AI, inside WhatsApp. The company has maintained that its WhatsApp Business API was not designed to cater to AI chatbots and that they put a strain on the company’s system.
 
- 
+
 
 Techcrunch event
 
@@ -59,24 +59,24 @@ Zapia, one of the companies that filed the complaint with CADE in Brazil, welcom
 Topics
 
 AI
-, 
+,
 AI chatbot
-, 
+,
 Apps
-, 
+,
 Brazil
-, 
+,
 Meta
-, 
+,
 WhatsApp
- 
 
-			Ivan Mehta	
+
+			Ivan Mehta
 
 Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.
 
 You can contact or verify outreach from Ivan by emailingim@ivanmehta.comor via encrypted message at ivan.42 on Signal.
 
- 
+
 
 View Bio

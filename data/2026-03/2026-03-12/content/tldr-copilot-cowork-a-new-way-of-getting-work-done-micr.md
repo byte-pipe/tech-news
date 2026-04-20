@@ -21,7 +21,7 @@ President, Business Applications & Agents
 
 Charles leads the design, product development, and engineering teams responsible for creating intelligent business applications and low-code platforms with generative AI. This spans products and services across Microsoft Dynamics 365, Power Platform, Copilot Studio, Copilot apps, and Nuance Enterprise. These products include business applications for Microsoft Copilot, low-code/no-code tools, industry cloud solutions, conversational AI, RPA, CRM, and ERP applications.
 
-				See Charles Lamanna posts			
+				See Charles Lamanna posts
 
 ## Related posts
 

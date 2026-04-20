@@ -15,7 +15,7 @@ tags:
 
 around a year ago, we builta regex enginein F# that not only outperformed the ones in dotnet, but went above and beyond competing with every other industrial regex engine on a large set of industry-standard benchmarks. additionally, it supports the full set of boolean operators (union, intersection, complement) and even a form of context-aware lookarounds, which no other engine has while preservingO(n)search-time complexity. the paper was published atPOPL 2025, and i figured it’s time to open source the engine and share the story behind it. consider it a much more casual and chatty version of the paper, with more focus on engineering aspects that went into it.
 
-#r 
+#r
 "
 nuget: resharp
 "
@@ -133,7 +133,7 @@ as we wrote in the paper, RE# lets you write small fragments of regexes thatdesc
  = any string that is preceded by 'b' AND followed by 'a'
 
 -
- .. you combine all of these with 
+ .. you combine all of these with
 `&`
  to get more complex patterns
 
@@ -162,17 +162,17 @@ the core DFA algorithm is also very simple. now i know, coming from someone who�
 
 and the pure algorithm pseudocode is just:
 
-state 
+state
 =
  0
 
 for
- character 
+ character
 in
  input
 :
 
- state 
+ state
 =
  nextStateTable
 [
@@ -186,7 +186,7 @@ if
 [
 state
 ]:
- print 
+ print
 "
 it was in there
 "
@@ -195,33 +195,33 @@ add the minterm compression on top of this, that’s one extra (5th) detail:
 
 * lookup table that tells you characters a-z belong in class 1, and the rest in class 0
 
- state 
+ state
 =
  0
 
  for
- character 
+ character
 in
  input
 :
 
 +
- charKind 
+ charKind
 =
  charClassTable[character]
 
 -
- state 
+ state
 =
  nextStateTable[state, character]
 
 +
- state 
+ state
 =
  nextStateTable[state, charKind]
 
  if
- matchTable[state]: 
+ matchTable[state]:
 print
  "
 it was in there
@@ -233,27 +233,27 @@ and this loop runs very hot, near a trillion operations per second in L1 cache, 
 
 now ‘it was in there’ isn’t actually very useful in the real world. you toss the algorithm at 4TB of logs and it tells you “yes it’s somewhere in there” - cool, then what. what matters in the real world iswherethe matches are, and what isaroundthose matches. for that we mark positionsduringmatching, not after. also quite simple to grasp:
 
- state 
+ state
 =
  0
 
  for
- character 
+ character
 in
  input
 :
 
- charKind 
+ charKind
 =
  charClassTable[character]
 
- state 
+ state
 =
  nextStateTable[state, charKind]
 
 +
  if
- matchTable[state]: 
+ matchTable[state]:
 print
  "
 it happened right here
@@ -261,7 +261,7 @@ it happened right here
 
 -
  if
- matchTable[state]: 
+ matchTable[state]:
 print
  "
 it was in there
@@ -283,27 +283,27 @@ in RE#, we solve this by encoding the context information in the state itself. b
 
 looking at our matching loop again, we add another crucial detail here:
 
- state 
+ state
 =
  0
 
  for
- character 
+ character
 in
  input
 :
 
- charKind 
+ charKind
 =
  charClassTable[character]
 
- state 
+ state
 =
  nextStateTable[state, charKind]
 
 -
  if
- matchTable[state]: 
+ matchTable[state]:
 print
  "
 it happened right here
@@ -311,10 +311,10 @@ it happened right here
 
 +
  if
- matchTable[state]: 
+ matchTable[state]:
 print
  "
-confirmed: a match 
+confirmed: a match
 {rel[state]}
  characters ago
 "
@@ -343,36 +343,36 @@ for RE# we use an approach similar to the lazy DFA in RE2, but with a twist - we
 
 back to our matching loop again, we can add one more detail - the next state may or may not exist yet, so we need to check for that and construct it on the fly if it doesn’t:
 
- state 
+ state
 =
  0
 
  for
- character 
+ character
 in
  input
 :
 
- charKind 
+ charKind
 =
  charClassTable[character]
 
 +
  if
- nextStateTable[state, charKind] 
+ nextStateTable[state, charKind]
 =
  NONE
 : constructNextState(state, charKind)
 
- state 
+ state
 =
  nextStateTable[state, charKind]
 
  if
- matchTable[state]: 
+ matchTable[state]:
 print
  "
-confirmed: a match 
+confirmed: a match
 {rel[state]}
  characters ago
 "
@@ -407,12 +407,12 @@ type
  =
 
  |
- Singleton 
+ Singleton
 of
  'tset
 
  |
- Or 
+ Or
 of
  nodes
 :
@@ -420,7 +420,7 @@ of
 []
 
  |
- And 
+ And
 of
  nodes
 :
@@ -428,14 +428,14 @@ of
 []
 
  |
- Not 
+ Not
 of
  node
 :
  RegexNodeId
 
  |
- Loop 
+ Loop
 of
  node
 :
@@ -450,7 +450,7 @@ of
  int
 
  |
- Concat 
+ Concat
 of
  head
 :
@@ -461,7 +461,7 @@ of
  RegexNodeId
 
  |
- LookAround 
+ LookAround
 of
  node
 :
@@ -556,11 +556,11 @@ if there’s one thing i hope you take away from this, it’s that intersection 
 
 the engine isopen sourceand available as anuget package. try it out, play with theweb app, and if you find bugs or have ideas, let us know. the paper is available atPOPL 2025for those who want the full formal treatment.
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 
 back to all posts

@@ -109,7 +109,7 @@ layout
 de
 '
 );
- 
+
 // US keyboard layout
 
 typingSpeed
@@ -118,7 +118,7 @@ typingSpeed
 ,
 150
 )
- 
+
 // Wait 100ms between key strokes + an additional random value between 0ms and 150ms (natural)
 
 //waitLED(ANY_OR_NONE); // Wait till NUM LED of target changes frequently multiple times (doesn't work on OSX)
@@ -194,7 +194,7 @@ Exploring the depth of HID script to write advanced exploits is not the focus of
 Small form-size single board computer can be used as hacking gadgets. This article showed how to turn a Raspberry Pi Zero into a bad USB device, a specific form of physical hacking in which an inserted USB stick executes command on the host. You only need a Raspberry Pi Zero, an USB dongle to expose the Zeros USB ports, and the PPA Linux Image. Once the initial setup is completed, the Zero turns into a WiFi and SSH accessible device with complex configuration options for all hardware features. To write a bad USB exploit, the HID language, based on JavaScript, can be used to instruct a sequence of keystrokes. This article showed only a simple exploit: Opening the systems text editor to write a message. Yet the potential for serious exploits becomes visible: By executing shell scripts on the targets, access to the system can be achieved, stealing credentials or installing malware and backdoors.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

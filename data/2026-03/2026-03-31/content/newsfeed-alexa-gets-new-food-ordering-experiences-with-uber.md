@@ -31,24 +31,24 @@ Since therollout of Alexa+ in the U.S.and itsrecent expansionto the U.K., the fe
 Topics
 
 AI
-, 
+,
 Alexa
-, 
+,
 Amazon
-, 
+,
 food delivery
-, 
+,
 grubhub
-, 
+,
 Uber Eats
- 
 
-			Lauren Forristal	
+
+			Lauren Forristal
 
 Lauren covers media, streaming, apps and platforms at TechCrunch.
 
 You can contact or verify outreach from Lauren by emailinglaurenf.techcrunch@gmail.comor via encrypted message at laurenforris22.25 on Signal.
 
- 
+
 
 View Bio

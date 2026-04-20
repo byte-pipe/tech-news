@@ -53,15 +53,15 @@ It's full on Spring here. Stuff is blooming and things are covered in pollen. Ou
 * ✅ Run a goal setting thread on Virtual Coffee(VC) Slack.
 
  Chris Jarvis
- 
+
 
  Chris Jarvis
- 
+
 
 Chris Jarvis
 
  Follow
- 
+
 
 Apr 3
 
@@ -87,7 +87,7 @@ Comments
 Add Comment
 
  4 min read
- 
+
 
 ## Your turn, what do you plan to do this week?
 
@@ -104,7 +104,7 @@ Enter fullscreen mode
 Exit fullscreen mode
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

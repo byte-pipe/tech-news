@@ -15,9 +15,9 @@ tags:
 
 # From Hierarchy to Intelligence
 
-	By Jack Dorsey and 
+	By Jack Dorsey and
 Roelof Botha
- 
+
 
 Published March 31, 2026
 
@@ -95,10 +95,10 @@ Companies move fast or slow based on information flow. Hierarchy and middle mana
 
 ## Share
 
-				Share this on Facebook				
+				Share this on Facebook
 
-				Share this on Twitter				
+				Share this on Twitter
 
-				Share this on LinkedIn				
+				Share this on LinkedIn
 
 Share this via email

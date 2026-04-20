@@ -11,7 +11,7 @@ description: An Open-Source Asynchronous Coding Agent. Contribute to langchain-a
 
 langchain-ai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork777
 * Star5.8k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -143,43 +143,43 @@ Rather than forking an existing agent or building from scratch, Open SWEcomposes
 
 create_deep_agent
 (
- 
+
 model
 =
 "anthropic:claude-opus-4-6"
 ,
- 
+
 system_prompt
 =
 construct_system_prompt
 (
 repo_dir
 , ...),
- 
+
 tools
 =
 [
 http_request
-, 
+,
 fetch_url
-, 
+,
 commit_and_open_pr
-, 
+,
 linear_comment
-, 
+,
 slack_thread_reply
 ],
- 
+
 backend
 =
 sandbox_backend
 ,
- 
+
 middleware
 =
 [
 ToolErrorMiddleware
-(), 
+(),
 check_message_queue_before_model
 , ...],
 )
@@ -392,74 +392,74 @@ An Open-Source Asynchronous Coding Agent
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 5.8k
 
  stars
- 
+
 
 ### Watchers
 
 39
 
  watching
- 
+
 
 ### Forks
 
 777
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -467,9 +467,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

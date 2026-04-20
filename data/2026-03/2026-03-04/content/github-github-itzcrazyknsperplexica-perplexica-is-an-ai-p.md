@@ -11,7 +11,7 @@ description: Perplexica is an AI-powered answering engine. Contribute to ItzCraz
 
 ItzCrazyKns
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork3.2k
 * Star30.4k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -209,7 +209,7 @@ We'd also like to thank the following partners for their generous support:
 
 Exa
  • The Perfect Web Search API for LLMs - web search, crawling, deep research, and answer APIs
- 
+
 
 ## Installation
 
@@ -333,7 +333,7 @@ We also accept donations to help sustain our project. If you would like to contr
 
 Ethereum
 
-Address: 
+Address:
 0xB025a84b2F269570Eb8D4b05DEdaA41D8525B6DD
 
 ## Contribution
@@ -382,53 +382,53 @@ Perplexica is an AI-powered answering engine.
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 30.4k
 
  stars
- 
+
 
 ### Watchers
 
 177
 
  watching
- 
+
 
 ### Forks
 
 3.2k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases33
 
@@ -436,11 +436,11 @@ v1.12.1
 
  Latest
 
- 
+
 
 Dec 31, 2025
 
- 
+
 
 + 32 releases
 
@@ -448,9 +448,9 @@ Dec 31, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -458,9 +458,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

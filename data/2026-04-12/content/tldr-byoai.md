@@ -40,86 +40,86 @@ With all that in mind,of courseOpenAI needs to ensure they snuff out the Anthrop
 
 🎙️
 New:
- Members of 
+ Members of
 The Inner Ring
- can now subscribe to 
+ can now subscribe to
 a podcast version
- of this and other 
+ of this and other
 Spyglass
- columns. 
+ columns.
 Sign Up
- | 
+ |
 Upgrade
 
 1Yes, much of Big Tech blurs such lines, but that's out of necessity: these companies are so large that in order to grow, they need to go after any and all customers. Still, they're usually bucketed into one of those markets: Apple = consumer, Microsoft = enterprise, Meta = consumer, etc.↩2Google and Amazon are perhaps the most diversified Big Tech companies thanks to the rise of AWS and GCPafterthey built massive consumer businesses.↩
 
  #ai
- 
+
 
  #openai
- 
+
 
  #openclaw
- 
+
 
  #chatgpt
- 
+
 
  #anthropic
- 
+
 
  #claude
- 
+
 
  #tech
- 
+
 
 ### You might also like...
 
  Apr
- 
+
 
  11
- 
+
 
 ## 'Project Hail Mary' as a Sign of the Times
 
- 
+
 
  Apr
- 
+
 
  08
- 
+
 
 ## Meta Sets the Table with Table Stakes AI
 
- 
+
 
  Apr
- 
+
 
  08
- 
+
 
 ## The Casual Catastrophe of AI
 
- 
+
 
  Apr
- 
+
 
  07
- 
+
 
 ## Meta's "Open"-ish New AI Models
 
- 
+
 
  Apr
- 
+
 
  04
- 
+
 
 ## A Conversion to Apple

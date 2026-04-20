@@ -11,7 +11,7 @@ description: 'Fast and accurate AI powered file content types detection - GitHub
 
 google
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork697
 * Star13.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -189,13 +189,13 @@ brew install magika
 
 Via installer script:
 
-curl -LsSf https://securityresearch.google/magika/install.sh 
+curl -LsSf https://securityresearch.google/magika/install.sh
 |
  sh
 
 or:
 
-powershell -ExecutionPolicy Bypass -c 
+powershell -ExecutionPolicy Bypass -c
 "
 irm https://securityresearch.google/magika/install.ps1 | iex
 "
@@ -220,21 +220,21 @@ To learn about Magika's inner workings, see theCore Conceptssection of Magika's 
 
 ### Command Line Tool Examples
 
-% 
+%
 cd
- tests_data/basic 
+ tests_data/basic
 &&
- magika -r 
+ magika -r
 *
- 
+
 |
  head
 asm/code.asm: Assembly (code)
 batch/simple.bat: DOS batch file (code)
-c/code.c: C 
+c/code.c: C
 source
  (code)
-css/code.css: CSS 
+css/code.css: CSS
 source
  (code)
 csv/magika_test.csv: CSV document (code)
@@ -247,161 +247,161 @@ empty/empty_file: Empty file (inode)
 % magika ./tests_data/basic/python/code.py --json
 [
  {
- 
+
 "
 path
 "
-: 
+:
 "
 ./tests_data/basic/python/code.py
 "
 ,
- 
+
 "
 result
 "
 : {
- 
+
 "
 status
 "
-: 
+:
 "
 ok
 "
 ,
- 
+
 "
 value
 "
 : {
- 
+
 "
 dl
 "
 : {
- 
+
 "
 description
 "
-: 
+:
 "
 Python source
 "
 ,
- 
+
 "
 extensions
 "
 : [
- 
+
 "
 py
 "
 ,
- 
+
 "
 pyi
 "
 
  ],
- 
+
 "
 group
 "
-: 
+:
 "
 code
 "
 ,
- 
+
 "
 is_text
 "
 : true,
- 
+
 "
 label
 "
-: 
+:
 "
 python
 "
 ,
- 
+
 "
 mime_type
 "
-: 
+:
 "
 text/x-python
 "
 
  },
- 
+
 "
 output
 "
 : {
- 
+
 "
 description
 "
-: 
+:
 "
 Python source
 "
 ,
- 
+
 "
 extensions
 "
 : [
- 
+
 "
 py
 "
 ,
- 
+
 "
 pyi
 "
 
  ],
- 
+
 "
 group
 "
-: 
+:
 "
 code
 "
 ,
- 
+
 "
 is_text
 "
 : true,
- 
+
 "
 label
 "
-: 
+:
 "
 python
 "
 ,
- 
+
 "
 mime_type
 "
-: 
+:
 "
 text/x-python
 "
 
  },
- 
+
 "
 score
 "
@@ -411,7 +411,7 @@ score
  }
 ]
 
-% cat tests_data/basic/ini/doc.ini 
+% cat tests_data/basic/ini/doc.ini
 |
  magika -
 -: INI configuration file (text)
@@ -425,7 +425,7 @@ Arguments:
  [PATH]...
  List of paths to the files to analyze.
 
- Use a dash (-) to 
+ Use a dash (-) to
 read
  from standard input (can only be used once).
 
@@ -443,87 +443,87 @@ Options:
  Prints without colors regardless of terminal support
 
  -s, --output-score
- Prints the prediction score 
+ Prints the prediction score
 in
- addition to the content 
+ addition to the content
 type
 
  -i, --mime-type
- Prints the MIME 
+ Prints the MIME
 type
- instead of the content 
+ instead of the content
 type
  description
 
  -l, --label
- Prints a simple label instead of the content 
+ Prints a simple label instead of the content
 type
  description
 
  --json
- Prints 
+ Prints
 in
  JSON format
 
  --jsonl
- Prints 
+ Prints
 in
  JSONL format
 
- --format 
+ --format
 <
 CUSTOM
 >
 
- Prints using a custom format (use --help 
+ Prints using a custom format (use --help
 for
  details).
 
  The following placeholders are supported:
 
  %p The file path
- %l The unique label identifying the content 
+ %l The unique label identifying the content
 type
 
- %d The description of the content 
+ %d The description of the content
 type
 
- %g The group of the content 
+ %g The group of the content
 type
 
- %m The MIME 
+ %m The MIME
 type
- of the content 
+ of the content
 type
 
- %e Possible file extensions 
+ %e Possible file extensions
 for
- the content 
+ the content
 type
 
- %s The score of the content 
+ %s The score of the content
 type
- 
+
 for
  the file
- %S The score of the content 
+ %S The score of the content
 type
- 
+
 for
- 
+
 the file
- 
+
 in
  percent
- %b The model output 
+ %b The model output
 if
  overruled (empty otherwise)
  %% A literal %
 
  -h, --help
- Print 
+ Print
 help
- (see a summary with 
+ (see a summary with
 '
 -h
 '
@@ -538,32 +538,32 @@ For more examples and documentation about the CLI, seehttps://crates.io/crates/m
 
 >
 >>
- 
+
 from
- 
+
 magika
- 
+
 import
- 
+
 Magika
 
 >
 >>
- 
+
 m
- 
+
 =
- 
+
 Magika
 ()
 
 >
 >>
- 
+
 res
- 
+
 =
- 
+
 m
 .
 identify_bytes
@@ -573,7 +573,7 @@ b'function log(msg) {console.log(msg);}'
 
 >
 >>
- 
+
 print
 (
 res
@@ -587,32 +587,32 @@ javascript
 
 >
 >>
- 
+
 from
- 
+
 magika
- 
+
 import
- 
+
 Magika
 
 >
 >>
- 
+
 m
- 
+
 =
- 
+
 Magika
 ()
 
 >
 >>
- 
+
 res
- 
+
 =
- 
+
 m
 .
 identify_path
@@ -622,7 +622,7 @@ identify_path
 
 >
 >>
- 
+
 print
 (
 res
@@ -636,48 +636,48 @@ ini
 
 >
 >>
- 
+
 from
- 
+
 magika
- 
+
 import
- 
+
 Magika
 
 >
 >>
- 
+
 m
- 
+
 =
- 
+
 Magika
 ()
 
 >
 >>
- 
+
 with
- 
+
 open
 (
 './tests_data/basic/ini/doc.ini'
-, 
+,
 'rb'
-) 
+)
 as
- 
+
 f
 :
 
 >
 >>
- 
+
 res
- 
+
 =
- 
+
 m
 .
 identify_stream
@@ -687,7 +687,7 @@ f
 
 >
 >>
- 
+
 print
 (
 res
@@ -755,66 +755,66 @@ securityresearch.google/magika/
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 13.4k
 
  stars
- 
+
 
 ### Watchers
 
 50
 
  watching
- 
+
 
 ### Forks
 
 697
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases14
 
@@ -822,11 +822,11 @@ python-v1.0.2
 
  Latest
 
- 
+
 
 Feb 27, 2026
 
- 
+
 
 + 13 releases
 
@@ -834,9 +834,9 @@ Feb 27, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -844,9 +844,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

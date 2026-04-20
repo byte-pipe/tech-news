@@ -9,7 +9,7 @@ author: Geo_NL
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 Geo_NL
 
- 
+
 
 # Trump calls on UK and others to send warships to Strait of Hormuz
 
  lbc.co.uk
- 
+
 
 Open

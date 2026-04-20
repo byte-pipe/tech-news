@@ -38,7 +38,7 @@ But that’s where we’ve ended up. Software is on the internet now, and the in
 
 John Loeber 🎢
 @johnloeber
-It is curious to me that we’ve been entering credit card info on the internet for 20+ years, and yet there’s still little consensus for how best to input that information. Text fields or drop downs for expiry dates? Today I found a new one: buttons for each option 
+It is curious to me that we’ve been entering credit card info on the internet for 20+ years, and yet there’s still little consensus for how best to input that information. Text fields or drop downs for expiry dates? Today I found a new one: buttons for each option
 1:30 AM · Aug 26, 2022
 2 Likes
 

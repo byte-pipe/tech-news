@@ -15,7 +15,7 @@ tags:
 
 smol-machines
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork51
 * Star1.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -177,16 +177,16 @@ This is a CLI tool that lets you:
 #
  install (macOS + Linux)
 
-curl -sSL https://smolmachines.com/install.sh 
+curl -sSL https://smolmachines.com/install.sh
 |
  bash
 
 #
  for coding agents — install + discover all commands
 
-curl -sSL https://smolmachines.com/install.sh 
+curl -sSL https://smolmachines.com/install.sh
 |
- bash 
+ bash
 &&
  smolvm --help
 
@@ -197,7 +197,7 @@ Or download fromGitHub Releases.
 #
  run a command in an ephemeral VM (cleaned up after exit)
 
-smolvm machine run --net --image alpine -- sh -c 
+smolvm machine run --net --image alpine -- sh -c
 "
 echo 'Hello world from a microVM' && uname -a
 "
@@ -247,10 +247,10 @@ Persistent machines for development— create, stop, start. Installed packages s
 
 smolvm machine create --net myvm
 smolvm machine start --name myvm
-smolvm machine 
+smolvm machine
 exec
  --name myvm -- apk add sl
-smolvm machine 
+smolvm machine
 exec
  --name myvm -it -- /bin/sh
 
@@ -261,7 +261,7 @@ smolvm machine stop --name myvm
 
 Use git and SSH without exposing keys— forward your host SSH agent into the VM. Private keys never enter the guest — the hypervisor enforces this. Requires an SSH agent running on your host (ssh-add -lto check).
 
-smolvm machine run --ssh-agent --net --image alpine -- sh -c 
+smolvm machine run --ssh-agent --net --image alpine -- sh -c
 "
 apk add -q openssh-client && ssh-add -l
 "
@@ -269,20 +269,20 @@ apk add -q openssh-client && ssh-add -l
 #
  lists your host keys, but they can't be extracted from inside the VM
 
-smolvm machine 
+smolvm machine
 exec
  --name myvm -- git clone git@github.com:org/private-repo.git
 
 Declare environments with a Smolfile— reproducible VM config in a simple TOML file.
 
 image
- = 
+ =
 "
 python:3.12-alpine
 "
 
 net
- = 
+ =
 true
 
 [
@@ -294,7 +294,7 @@ allow_hosts
 "
 api.stripe.com
 "
-, 
+,
 "
 db.example.com
 "
@@ -323,7 +323,7 @@ auth
 ]
 
 ssh_agent
- = 
+ =
 true
 
 smolvm machine create myvm -s Smolfile
@@ -524,51 +524,51 @@ smolmachines.com
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.4k
 
  stars
- 
+
 
 ### Watchers
 
 5
 
  watching
- 
+
 
 ### Forks
 
 51
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases41
 
@@ -576,11 +576,11 @@ smolvm v0.5.19
 
  Latest
 
- 
+
 
 Apr 18, 2026
 
- 
+
 
 + 40 releases
 
@@ -596,17 +596,17 @@ Apr 18, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors7
 

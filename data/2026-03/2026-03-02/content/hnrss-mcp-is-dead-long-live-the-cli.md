@@ -38,9 +38,9 @@ This is where the gap gets wide. CLIs compose. I can pipe throughjq, chain withg
 
 Consider analyzing a large Terraform plan:
 
-terraform show 
+terraform show
 -json
- plan.out | jq 
+ plan.out | jq
 '[.resource_changes[] | select(.change.actions[0] == "no-op" | not)] | length'
 
 With MCP, your options are dumping the entire plan into the context window (expensive, often impossible) or building custom filtering into the MCP server itself. Either way, you’re doing more work for a worse result. The CLI approach uses tools that already exist, are well-documented, and that both humans and agents understand.

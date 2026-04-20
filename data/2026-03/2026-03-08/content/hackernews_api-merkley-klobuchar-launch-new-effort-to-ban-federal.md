@@ -16,9 +16,9 @@ tags:
 
 # Merkley, Klobuchar Launch New Effort to Ban Federal Elected Officials Profiting from Prediction Markets
 
- 
 
- 
+
+
 * March 5, 2026
 
 Effort comes after reports of individuals suspiciously earning massive payouts before Iran Strikes, Venezuela Military Actions

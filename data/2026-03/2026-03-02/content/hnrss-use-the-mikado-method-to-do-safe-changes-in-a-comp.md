@@ -15,27 +15,27 @@ tags:
 
 # Use the Mikado Method to do safe changes in a complex codebase
 
- 
- 
-Struggling with Legacy Code and not enough time to clean it up?
- 
- 
- ⛑️️ 
- 
- 
-My First Aid Kit
- 
- 
 
-can help you rescue any codebase 
+
+Struggling with Legacy Code and not enough time to clean it up?
+
+
+ ⛑️️
+
+
+My First Aid Kit
+
+
+
+can help you rescue any codebase
 quickly
- and 
+ and
 safely
 !
 
- 
- 
- 
+
+
+
 
 You’ve inherited a 300k lines of spaghetti code. What do you do now?
 
@@ -151,22 +151,22 @@ With a bit of practice, you’ll become good at it.
 
 And you’ll becomea much more efficient developer!
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
 
 Written byNicolas Carlowho lives and works in Montreal, Canada 🍁He founded theSoftware Crafters Montrealcommunity which cares about building maintainable softwares.
 
- 
- 
- 
+
+
+
 
 ## Similar articles that will help you…
 
@@ -186,5 +186,5 @@ The key points of Re-Engineering Legacy Software
 
 Here's an interesting book on approaching Legacy Software. Here's my summary of its salient points.
 
- 
+
 ← Find more tips to work with Legacy Code

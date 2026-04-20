@@ -46,7 +46,7 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Scott Gilbertson
- is Operations Manager for the WIRED Reviews Team. He was previously a writer and editor for WIRED’s Webmonkey.com, covering the independent web and early internet culture. You can reach him at luxagraf.net. ... 
+ is Operations Manager for the WIRED Reviews Team. He was previously a writer and editor for WIRED’s Webmonkey.com, covering the independent web and early internet culture. You can reach him at luxagraf.net. ...
 Read More
 Senior Writer and Reviewer
 * X

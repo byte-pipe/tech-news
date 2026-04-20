@@ -125,7 +125,7 @@ we've been building on postgres for years. before ghost, we built timescaledb, o
 
 ghost is in early access. install it with the comment below. runghost mcp installdirectly in claude code, and let your agents cook.
 
-curl 
+curl
 -fsSL
  https://install.ghost.build | sh
 
@@ -144,7 +144,7 @@ the full toolkit:
 everything is postgres. everything is MCP-native. each one works on its own. they're better together.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -155,6 +155,6 @@ Preview
 Dismiss
 
  View full discussion (18 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

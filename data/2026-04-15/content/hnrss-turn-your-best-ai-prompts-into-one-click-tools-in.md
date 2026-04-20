@@ -25,14 +25,14 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 Hafsah Ismail
 
  Product Manager, Chrome
- 
+
 
  Sorry, your browser doesn't support embedded videos, but don't worry, you can
- 
+
 download it
 
  and watch it with your favorite video player!
- 
+
 
 People are using AI in Chrome to help them get more done on the web — whether that’s answering questions, comparing information or clarifying concepts.
 
@@ -73,100 +73,100 @@ Creating opportunity
 #### Bringing people together at AI for the Economy Forum
 
  By
- 
- 
- 
+
+
+
 
  James Manyika
- 
+
 
  Apr 14, 2026
- 
+
 
 Chrome
 
 #### Get more done with new vertical tabs and immersive reading mode in Chrome
 
  By
- 
- 
- 
+
+
+
 
  Alex Tsu
- 
 
- 
- 
+
+
+
  &
- 
- 
+
+
 
  Jess Carpenter
- 
+
 
  Apr 07, 2026
- 
+
 
 Developer tools
 
 #### New ways to balance cost and reliability in the Gemini API
 
  By
- 
- 
- 
+
+
+
 
  Lucia Loher
- 
 
- 
- 
+
+
+
  &
- 
- 
+
+
 
  Hussein Hassan Harrirou
- 
+
 
  Apr 02, 2026
- 
+
 
 Google Workspace
 
 #### Create, edit and share videos at no cost in Google Vids
 
  By
- 
- 
- 
+
+
+
 
  David Nachum
- 
+
 
  Apr 02, 2026
- 
+
 
 Google Earth
 
 #### We’re creating a new satellite imagery map to help protect Brazil’s forests.
 
  Apr 01, 2026
- 
+
 
 AI
 
 #### The latest AI news we announced in March 2026
 
  By
- 
- 
- 
+
+
+
 
  The Keyword Team
- 
+
 
  Apr 01, 2026
- 
+
 
 .
 

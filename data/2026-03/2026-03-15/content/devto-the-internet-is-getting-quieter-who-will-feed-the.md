@@ -108,7 +108,7 @@ Originally published ondebuggr.io.
 I write about software engineering, AI, and the things that keep bugging me about our industry. If this resonated with you, come visitdebuggr.iofor more.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -119,7 +119,7 @@ Preview
 Dismiss
 
  View full discussion (18 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

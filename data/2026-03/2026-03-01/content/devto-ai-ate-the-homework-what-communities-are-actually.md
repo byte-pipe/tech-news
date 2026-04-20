@@ -133,7 +133,7 @@ We don't need communities to answer "how do I center a div?" anymore. We need th
 And honestly? Those are better questions. They just require us to be more human, not less.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

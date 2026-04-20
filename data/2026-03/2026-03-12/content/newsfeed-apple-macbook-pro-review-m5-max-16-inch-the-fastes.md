@@ -103,7 +103,7 @@ $3,899
 Back to top
 Triangle
 Luke Larsen
- is a product writer and reviewer at WIRED, covering laptops, PCs, Macs, monitors, and the wider PC peripheral ecosystem. He’s been reporting on tech for over a decade, previously at Digital Trends as the senior editor in computing, where he spent seven years leading the publication’s daily coverage. ... 
+ is a product writer and reviewer at WIRED, covering laptops, PCs, Macs, monitors, and the wider PC peripheral ecosystem. He’s been reporting on tech for over a decade, previously at Digital Trends as the senior editor in computing, where he spent seven years leading the publication’s daily coverage. ...
 Read More
 Product Writer & Reviewer
 

@@ -40,17 +40,17 @@ Anthropic’s political activities have ramped up as the company continues to be
 Topics
 
 AI
-, 
+,
 AnthroPAC
-, 
+,
 Anthropic
-, 
+,
 artificial intelligence
-, 
+,
 government
-, 
+,
 In Brief
- 
+
 
 ### Newsletters
 
@@ -75,7 +75,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

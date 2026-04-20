@@ -108,42 +108,42 @@ Renames your variables to tea
 
 GitHub Repo:https://github.com/AsamaeS/as-htcpcp-ai-butler
 
-while 
+while
 (
 true
 )
- 
+
 {
 
- 
-if 
+
+if
 (
 detectProcrastination
 ())
- 
+
 {
 
- 
+
 brewTea
 ()
 
- 
+
 send418Response
 ()
 
- 
+
 renderASCIIFlames
 ()
 
- 
+
 injectGIFChaos
 ()
 
- 
+
 mutateVariablesToTea
 ()
 
- 
+
 }
 
 }
@@ -244,9 +244,9 @@ Tracks user behavior:
 
 Returns only:
 
-HTTP 418 — I'm a Teapot 
-HTTP 418 — Still a Teapot 
-HTTP 418 — Please Stop 
+HTTP 418 — I'm a Teapot
+HTTP 418 — Still a Teapot
+HTTP 418 — Please Stop
 
 Enter fullscreen mode
 
@@ -378,7 +378,7 @@ This is:
 A production-grade AI system designed to detect your laziness… and respond with theatrical uselessness.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

@@ -28,7 +28,7 @@ Backed by Spark Capital, General Catalyst, and other angels, the 10-person start
 
 Starting today, personal superintelligence is just one tap away.No download, no signup.Text Poke for free now:https://t.co/VIWYU64dUI🌴—0:00 – What's Poke?0:50 – Introducing Poke Recipes1:25 –  Create a Recipe in 10 seconds1:43 – Earn on Poke2:44 – Build with npx…pic.twitter.com/LHLFRVgahk
 
-— Poke (@interaction) 
+— Poke (@interaction)
 March 19, 2026
 
 The tool arrives as demand for agentic AI systems is spiking, leading OpenAI tosnap up OpenClaw’s creator, and Nvidia’s CEO Jensen Huang to warn thatevery company needs its own OpenClaw strategywhen announcing Nvidia’s enterprise-grade alternative.
@@ -79,7 +79,7 @@ Image Credits:
 Poke.com screenshot/TechCrunch
 
 Image Credits:
-Poke.com screenshot/TechCrunch 
+Poke.com screenshot/TechCrunch
 (opens in a new window)
 
 The cost to use Poke is surprisingly affordable: it’s free to start, then pricing is flexible. During the beta tests, users actually had to negotiate with the AI agent what price they’d pay per month, which ranged between $10-$30 — or so Poke told us in response to this question.
@@ -95,7 +95,7 @@ Poke screenshot/TechCrunch
 
 I built "tastebuds", an MCP server on@interaction’s Poke Recipes to crowdsource opinions on food.When you’re looking for a place to eat, Poke recommends food spots in your area that other Poke users have enjoyed before by storing their reviews, all running quietly in the…
 
-— Dani (@daniticow) 
+— Dani (@daniticow)
 April 8, 2026
 
 The company, co-founded byFelix Schlegel, isn’t sharing how many customers have signed up, beyond noting that the figure has 10x’ed over the past couple of months. (However, we did spot Poke at the top ofVercel’s AI Gateway leaderboard, for whatever that’s worth.)
@@ -107,29 +107,29 @@ It also included Vercel co-founder Guillermo Rauch, PayPal co-founder Ken Howery
 Topics
 
 AI
-, 
+,
 AI agents
-, 
+,
 ai automation
-, 
+,
 consumer AI
-, 
+,
 Exclusive
-, 
+,
 Poke
-, 
+,
 Startups
- 
 
-			Sarah Perez	
+
+			Sarah Perez
 
 Consumer News Editor
 
 		Sarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.
 
 
-You can contact or verify outreach from Sarah by emailing 
+You can contact or verify outreach from Sarah by emailing
 sarahp@techcrunch.com
- or via encrypted message at sarahperez.01 on Signal. 
+ or via encrypted message at sarahperez.01 on Signal.
 
 View Bio

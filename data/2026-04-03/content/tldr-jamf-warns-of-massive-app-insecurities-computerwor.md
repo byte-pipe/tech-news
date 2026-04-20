@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Jonny Evans
 
 # Jamf warns of massive app insecurities
@@ -20,13 +20,13 @@ opinion
 
 Apr 2, 2026
 6 mins
- 
+
 
 ## Jamf offers a solid look at a dangerous environment for Mac and iOS users in its newly-published Security 360 reports.
 
- 
 
-							Credit: 															
+
+							Credit:
 Apple
 
 “Be wary then; best safety lies in fear,” said Laertes to sister Ophelia in William Shakespeare’sHamlet. That’s a quote that should be on the desk of every business professional, as the digital environment is full of danger.
@@ -79,27 +79,27 @@ iOS Security
 Mobile Security
 Security
 Vendors and Providers
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Jonny Evans															
+														by
+
+																Jonny Evans
 
 1. Follow Jonny Evans on LinkedIn
 
@@ -115,7 +115,7 @@ Hello, and thanks for dropping in. I'm pleased to meet you. I'm Jonny Evans, and
 * opinion### Apple’s AI endgame: Why waiting for Siri could make it a winnerMar 25, 20266 mins
 * news### Apple goes global with key MDM tools and services for businessMar 24, 20265 mins
 * news### Apple: Local business ads are coming to Apple MapsMar 24, 20264 mins
- 
+
 
 ## Show me more
 
@@ -125,12 +125,12 @@ Podcasts
 Videos
 
 news
- 
- 
+
+
 
 ### A core infrastructure engineer pleads guilty to federal charges in insider attack
 
- 
+
 By Evan Schuman
 Apr 3, 2026
 3 mins
@@ -140,12 +140,12 @@ Malware
 Security
 
 news
- 
- 
+
+
 
 ### AI chatbot use can hinder students’ knowledge retention
 
- 
+
 By Maxwell Cooter
 Apr 3, 2026
 2 mins
@@ -155,12 +155,12 @@ IT Skills and Training
 Markets
 
 opinion
- 
- 
+
+
 
 ### Why AI lies, cheats and steals
 
- 
+
 By Mike Elgan
 Apr 3, 2026
 7 mins
@@ -170,12 +170,12 @@ Generative AI
 Natural Language Processing
 
 podcast
- 
- 
+
+
 
 ### Claude Automation, Windows 11 Overhaul, Sora Shutdown Shift | Ep. 66
 
- 
+
 By Arnold Davick
 Apr 2, 2026
 2 mins
@@ -183,12 +183,12 @@ Apr 2, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### OpenAI Hiring Surge, FCC Router Ban, Cloudflare Workers | Ep. 65
 
- 
+
 By Arnold Davick
 Apr 1, 2026
 2 mins
@@ -196,12 +196,12 @@ Apr 1, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### Amazon AI Smartphone, Chip Shortage, Anthropic Lawsuit Updates | Ep. 63
 
- 
+
 By Arnold Davick
 Mar 26, 2026
 2 mins
@@ -209,12 +209,12 @@ Mar 26, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### Claude Automation, Windows 11 Overhaul, Sora Shutdown Shift | Ep. 66
 
- 
+
 By Arnold Davick
 Apr 2, 2026
 2 mins
@@ -222,12 +222,12 @@ Apr 2, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### OpenAI Hiring Surge, FCC Router Ban, Cloudflare Workers | Ep. 65
 
- 
+
 By Arnold Davick
 Apr 1, 2026
 2 mins
@@ -235,12 +235,12 @@ Apr 1, 2026
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### How Pittsburgh Airport modernized its IT for smarter operations
 
- 
+
 Mar 31, 2026
 39 mins
 

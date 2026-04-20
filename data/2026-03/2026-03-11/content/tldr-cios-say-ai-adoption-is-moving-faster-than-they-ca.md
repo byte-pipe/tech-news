@@ -15,7 +15,7 @@ tags:
 
 # CIOs say AI adoption is moving faster than they can manage
 
- 
+
 
 ## Risk management? Continuity plan if our provider disappears? We've heard of these things
 
@@ -56,10 +56,10 @@ Logicalis concludes that AI isn't going away yet success will be measured by how
 
 "This year's report reveals a complex challenge for CIOs navigating the biggest innovation of our lifetime. Organizations are not short of ambition or appetite for AI, they are short of the frameworks, skills and confidence to deploy it at scale," said CEO Bob Bailkoski. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

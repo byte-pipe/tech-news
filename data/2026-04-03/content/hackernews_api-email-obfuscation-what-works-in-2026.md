@@ -102,23 +102,23 @@ Blocked 100% of 318 spammers
 
 <
 object
- 
+
 class
 =
 "email"
- 
+
 width
 =
 "130"
- 
+
 height
 =
 "24"
- 
+
 data
 =
 "email.svg"
- 
+
 type
 =
 "image/svg+xml"
@@ -128,11 +128,11 @@ object
 
 <
 svg
- 
+
 viewBox
 =
 "0 0 130 24"
- 
+
 xmlns
 =
 "http://
@@ -146,7 +146,7 @@ style
 >
 @
 import
- 
+
 url
 (
 'https://
@@ -163,29 +163,29 @@ swap'
 
 text
  {
-	
+
 dominant-baseline
-: 
+:
 middle
 ;
-	
+
 fill
-: 
+:
 #000
 ;
-	
+
 font-family
-: 
+:
 'Indie Flower'
 ;
-	
+
 font-size
-: 
+:
 16px
 ;
-	
+
 text-anchor
-: 
+:
 middle
 ;
 }
@@ -195,11 +195,11 @@ style
 
 <
 text
- 
+
 x
 =
 "50%"
- 
+
 y
 =
 "50%"
@@ -219,19 +219,19 @@ object
 .
 email
  {
-	
+
 height
-: 
+:
 2em
 ;
-	
+
 margin
-: 
+:
 -1em 0
 ;
-	
+
 vertical-align
-: 
+:
 middle
 ;
 }
@@ -255,7 +255,7 @@ Blocked 100% of 318 spammers
 
 <
 div
- 
+
 class
 =
 "email"
@@ -280,16 +280,16 @@ div
 div
 .
 email
- > 
+ >
 span
 :
 nth-child
 (
 2
 ) {
-	
+
 display
-: 
+:
 none
 ;
 }
@@ -357,7 +357,7 @@ Blocked 100% of 318 spammers
 
 <
 span
- 
+
 class
 =
 "email"
@@ -375,13 +375,13 @@ head
 >
 	<
 script
- 
+
 src
 =
 "
 text-rot18.js
 "
- 
+
 defer
 >
 </
@@ -402,7 +402,7 @@ Blocked 100% of 318 spammers
 
 <
 span
- 
+
 id
 =
 "text-conversion"
@@ -417,13 +417,13 @@ head
 >
 	<
 script
- 
+
 src
 =
 "
 text-conversion.js
 "
- 
+
 defer
 >
 </
@@ -451,7 +451,7 @@ Blocked 100% of 318 spammers
 
 <
 span
- 
+
 class
 =
 "email"
@@ -508,13 +508,13 @@ head
 >
 	<
 script
- 
+
 src
 =
 "
 text-aes.js
 "
- 
+
 defer
 >
 </
@@ -540,7 +540,7 @@ Blocked 100% of 318 spammers
 
 <
 span
- 
+
 id
 =
 "text-interaction"
@@ -555,13 +555,13 @@ head
 >
 	<
 script
- 
+
 src
 =
 "
 text-interaction.js
 "
- 
+
 defer
 >
 </
@@ -612,21 +612,21 @@ Blocked 100% of 318 spammers
 
 <
 img
- 
+
 src
 =
 "
 email.jpg
 "
- 
+
 width
 =
 "216"
- 
+
 height
 =
 "18"
- 
+
 alt
 =
 "email address"
@@ -643,15 +643,15 @@ Blocked 100% of 318 spammers
 
 <
 span
- 
+
 class
 =
 "email"
- 
+
 data-user
 =
 "af"
- 
+
 data-domain
 =
 "email.
@@ -669,15 +669,15 @@ email
 ::
 after
  {
-	
+
 content
-: 
+:
 attr
 (
 data-user
-) 
+)
 '@'
- 
+
 attr
 (
 data-domain
@@ -696,7 +696,7 @@ Blocked 100% of 318 spammers
 
 <
 span
- 
+
 class
 =
 "email"
@@ -713,14 +713,14 @@ span
 .
 email
  {
-	
+
 unicode-bidi
-: 
+:
 bidi-override
 ;
-	
+
 direction
-: 
+:
 rtl
 ;
 }
@@ -743,7 +743,7 @@ Blocked 0% of 299 spammers
 
 <
 a
- 
+
 href
 =
 "mailto:
@@ -765,7 +765,7 @@ Blocked 100% of 299 spammers
 
 <
 a
- 
+
 href
 =
 "&#109;
@@ -821,7 +821,7 @@ Blocked 96% of 299 spammers
 
 <
 a
- 
+
 href
 =
 "mailto:
@@ -870,11 +870,11 @@ Blocked 100% of 299 spammers
 
 <
 a
- 
+
 rel
 =
 "nofollow, noindex"
- 
+
 href
 =
 "email/"
@@ -883,35 +883,35 @@ a
 >
 
 RewriteEngine
- 
+
 On
 
 RewriteRule
- 
+
 ^email/$
- 
+
 'mailto:
 email
 @example
 .com'
- 
+
 [R=302,L]
 
 RewriteEngine
- 
+
 On
 
 RewriteRule
- 
+
 ^email/$
- 
+
 'mailto:
 email
 @example
 .com
 ?subject
 =Hi'
- 
+
 [R=302,QSA,L]
 
 email
@@ -933,24 +933,24 @@ Blocked 100% of 299 spammers
 
 <
 object
- 
+
 class
 =
 "email"
- 
+
 width
 =
 "33"
- 
+
 height
 =
 "24"
- 
+
 data
 =
 "email
 .svg"
- 
+
 type
 =
 "image/svg+xml"
@@ -960,11 +960,11 @@ object
 
 <
 svg
- 
+
 viewBox
 =
 "0 0 33 24"
- 
+
 xmlns
 =
 "http://
@@ -978,7 +978,7 @@ style
 >
 @
 import
- 
+
 url
 (
 'https://
@@ -995,29 +995,29 @@ swap'
 
 text
  {
-	
+
 dominant-baseline
-: 
+:
 middle
 ;
-	
+
 fill
-: 
+:
 #000
 ;
-	
+
 font-family
-: 
+:
 'Indie Flower'
 ;
-	
+
 font-size
-: 
+:
 16px
 ;
-	
+
 text-anchor
-: 
+:
 middle
 ;
 }
@@ -1027,7 +1027,7 @@ style
 
 <
 a
- 
+
 href
 =
 "mailto:
@@ -1037,11 +1037,11 @@ email
 >
 	<
 text
- 
+
 x
 =
 "50%"
- 
+
 y
 =
 "50%"
@@ -1062,19 +1062,19 @@ object
 .
 email
  {
-	
+
 height
-: 
+:
 2em
 ;
-	
+
 margin
-: 
+:
 -1em 0
 ;
-	
+
 vertical-align
-: 
+:
 middle
 ;
 }
@@ -1145,11 +1145,11 @@ Blocked 100% of 299 spammers
 
 <
 a
- 
+
 class
 =
 "email"
- 
+
 href
 =
 "znvygb:
@@ -1168,13 +1168,13 @@ head
 >
 	<
 script
- 
+
 src
 =
 "
 link-rot18.js
 "
- 
+
 defer
 >
 </
@@ -1195,15 +1195,15 @@ Blocked 100% of 299 spammers
 
 <
 a
- 
+
 id
 =
 "link-conversion"
- 
+
 rel
 =
 "nofollow, noindex"
- 
+
 href
 =
 "to-
@@ -1220,13 +1220,13 @@ head
 >
 	<
 script
- 
+
 src
 =
 "
 link-conversion.js
 "
- 
+
 defer
 >
 </
@@ -1254,15 +1254,15 @@ Blocked 100% of 299 spammers
 
 <
 a
- 
+
 class
 =
 "email"
- 
+
 rel
 =
 "nofollow, noindex"
- 
+
 href
 =
 "x
@@ -1328,13 +1328,13 @@ head
 >
 	<
 script
- 
+
 src
 =
 "
 link-aes.js
 "
- 
+
 defer
 >
 </
@@ -1360,15 +1360,15 @@ Blocked 100% of 299 spammers
 
 <
 a
- 
+
 id
 =
 "link-interaction"
- 
+
 rel
 =
 "nofollow, noindex"
- 
+
 href
 =
 "to-
@@ -1385,13 +1385,13 @@ head
 >
 	<
 script
- 
+
 src
 =
 "
 link-interaction.js
 "
- 
+
 defer
 >
 </

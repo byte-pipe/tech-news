@@ -9,7 +9,7 @@ author: Mechashevet
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 Mechashevet
 
- 
+
 
 # Bahrain's major oil refinery also reportedly struck by Iranian drone attack
 
  investinglive.com
- 
+
 
 Open

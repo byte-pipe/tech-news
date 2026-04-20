@@ -53,7 +53,7 @@ Source:Bibilab,PR TimesImages: PR Times● Want to hear about SoraNews24’s lat
 ### Like this:
 
 Like
- 
+
 Loading...
 
 * Japan
@@ -66,7 +66,7 @@ Loading...
 * Need a work-from-home office fast? Set up this Japanese cardboard desk in less than 1 minute
 * Private teleworking booths–how much work can you get done in one? We test it out
 * Cat taking over your work-from-home keyboard? Japanese YouTuber has super easy solution【Video】
- 
+
 
 * Final Fantasy invites you to adventure in Fukushima with Fukushima Fantasy Chocobo fun[Video]
 * Fatal stabbing at Pokémon Center in Tokyo reignites concern over rising stalking cases in Japan

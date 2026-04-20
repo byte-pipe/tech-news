@@ -1,7 +1,7 @@
 ---
 title: GitHub - openrocket/openrocket: Model-rocketry aerodynamics and trajectory simulation software · GitHub
 url: https://github.com/openrocket/openrocket
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-20T11:31:37.135468

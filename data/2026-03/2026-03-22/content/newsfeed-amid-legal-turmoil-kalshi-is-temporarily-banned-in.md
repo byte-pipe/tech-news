@@ -30,7 +30,7 @@ Kalshi declined to comment on the development when reached by TechCrunch. Wiredf
 
 The Nevada case in which the prediction market finds itself is but one in a growing number of state cases across the country that seek to argue that sites like Kalshi and Polymarket are illegal operations that skirt state gambling laws.
 
- 
+
 
 Techcrunch event
 
@@ -57,22 +57,22 @@ The increasingly hostile posture of state officials and the lenience of the CFTC
 Topics
 
 Fintech
-, 
+,
 Government & Policy
-, 
+,
 Kalshi
-, 
+,
 Nevada
-, 
+,
 prediction markets
- 
 
-			Lucas Ropek	
+
+			Lucas Ropek
 
 Senior Writer, TechCrunch
 
-		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. 
+		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo.
 
-You can contact Lucas by emailing lucas.ropek@techcrunch.com.	
+You can contact Lucas by emailing lucas.ropek@techcrunch.com.
 
 View Bio

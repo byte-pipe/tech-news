@@ -77,7 +77,7 @@ Triangle
 * Porn stars areembracing AI clones
 * WIRED@Night:Hear Andy Greenberg discussthe facts and fiction of crypto
 Jeremy White
- is senior innovation editor at WIRED, overseeing gear coverage, with a focus on EVs and luxury. He also edits gear for the US and UK print editions. Prior to WIRED, he was a digital editor at the Financial Times and tech editor at Esquire in the UK. And ... 
+ is senior innovation editor at WIRED, overseeing gear coverage, with a focus on EVs and luxury. He also edits gear for the US and UK print editions. Prior to WIRED, he was a digital editor at the Financial Times and tech editor at Esquire in the UK. And ...
 Read More
 Senior innovation editor
 * Instagram
@@ -111,7 +111,7 @@ Need an ultrafast drive for video editing or a rugged option to back up your pho
 Scott Gilbertson
 Amazon's Spring Sale Has Some Worthy Vacuum Deals
 New gear for spring cleaning just got cheaper. Don't miss these discounted robot vacuums, stick vacuums, and hand vacs.
- Nena Farrell 
+ Nena Farrell
 Should You Leave Your Phone Charging Overnight?
 It used to be common wisdom that leaving your phone charging overnight degrades the battery. But handset design has evolved to mitigate the harm caused by constant charging.
 Dario d’Elia

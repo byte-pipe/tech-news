@@ -11,7 +11,7 @@ description: Vim-fork focused on extensibility and usability. Contribute to neov
 
 neovim
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork6.7k
 * Star97.7k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -318,61 +318,61 @@ neovim.io
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 97.7k
 
  stars
- 
+
 
 ### Watchers
 
 966
 
  watching
- 
+
 
 ### Forks
 
 6.7k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases50
 
@@ -380,11 +380,11 @@ Nvim 0.12.0
 
  Latest
 
- 
+
 
 Mar 29, 2026
 
- 
+
 
 + 49 releases
 
@@ -394,11 +394,11 @@ Mar 29, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * opencollective.com/neovim
 
 Learn more about GitHub Sponsors
@@ -407,9 +407,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -417,9 +417,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

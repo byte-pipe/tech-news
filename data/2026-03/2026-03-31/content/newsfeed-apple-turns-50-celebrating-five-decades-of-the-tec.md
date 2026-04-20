@@ -26,7 +26,7 @@ Fifty years ago, on April 1st, 1976, Apple Computer Company was founded. Today i
 In this package,The Vergelooks back at the impact of the tech giant over the last five decades — from the triumphs and failures of the Jobs eras to its current incarnation as an antitrust juggernaut. We reminisce about some of our favorite products and take a walk down memory lane to look back at some ofThe Verge’s earliest Apple coverage. (Plus, we’re community ranking our 50 favorite Apple products —join in!)
 
 Read More
- 
+
 Image: Cath Virginia / The Verge, Getty Images
 
 ### Apple @ 50

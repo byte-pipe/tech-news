@@ -29,9 +29,9 @@ Joseph Cox
 
  Apr 8, 2026
  at 9:59 AM
- 
 
- 
+
+
 
 Updates to VeraCrypt, a popular and long-running piece of encryption, are now thrown into doubt because of a seemingly unexplained Microsoft decision.
 
@@ -40,7 +40,7 @@ Simon Ray
  on 
 Unsplash
 
- 
+
 
 Advertisement
 

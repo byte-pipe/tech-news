@@ -45,24 +45,24 @@ But there was one thing that madeS. mirabilisdifferent fromS. aegyptiacus. The w
 Instead of the bumpy, fluted ridge seen onS. aegyptiacus,S. mirabilissported a blade-shaped, scimitar-like bony crest that arched upward and backward from its snout, reaching an apex high over its eyes. This structure was composed of solid bone, unlike the highly porous, pneumatic casques found on some modern birds. However, the bone itself was etched with fine longitudinal striations and deep grooves, indicating that the bony core was just the foundation.
 
  The newly discovered skull, along with a model of what its spike might have looked like on a living animal.
- 
+
 
  Credit:
- 
+
 UChicago Fossil Lab
 
  The newly discovered skull, along with a model of what its spike might have looked like on a living animal.
 
- 
+
 
  Credit:
 
- 
 
- 
+
+
  UChicago Fossil Lab
 
- 
+
 
 In a livingS. mirabilis, this crest would have been enveloped and substantially extended by a keratinous sheath, much like the vibrant growth developed by modernhelmeted guinea fowls. If scaled up to a fully mature adult, the bony core alone would measure around 40 centimeters in length; with its keratinous sheath, it could have easily exceeded half a meter. For Sereno, the purpose of this “astonishing” scimitar crown was similar to crests worn today by cranes and herons. “It was asymmetrical. It varied between individuals. So, I think it was solely for display,” Sereno explains.
 
@@ -89,17 +89,17 @@ But we still don’t know much about its beginning. “This is going to be the s
 Sereno’s paper on theS. mirabilisis published in Science:https://doi.org/10.1126/science.adx5486
 
  Jacek Krywko
- 
+
 
 Associate Writer
 
  Jacek Krywko
- 
+
 
 Associate Writer
 
  Jacek Krywko is a freelance science and technology writer who covers space exploration, artificial intelligence research, computer science, and all sorts of engineering wizardry.
- 
+
 
 1. 1.Satellite firm pauses imagery after revealing Iran's attacks on US bases
 2. 2.Asteroid defense mission shifted the orbit of more than its target

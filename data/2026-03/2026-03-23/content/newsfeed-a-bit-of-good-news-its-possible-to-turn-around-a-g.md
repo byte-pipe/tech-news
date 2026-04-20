@@ -31,24 +31,24 @@ Many of these problems are reversible, but it would require the amount of water 
 Jasechko compiled 67 published studies documenting cases where groundwater levels rose after spending at least a decade in decline. (You can exploreall 67 cases on a map.) His goal was to find commonalities and see if we could learn any general lessons by zooming out to this bigger picture.
 
  Groundwater level data for some of the 67 cases on the map, color-coded by the type of action that drove recovery.
- 
+
 
  Credit:
- 
+
 Jasechko/Science
 
  Groundwater level data for some of the 67 cases on the map, color-coded by the type of action that drove recovery.
 
- 
+
 
  Credit:
 
- 
 
- 
+
+
  Jasechko/Science
 
- 
+
 
 ## How to guide
 
@@ -77,24 +77,24 @@ Another problematic consequence of groundwater depletion is subsidence of the la
 Subsidence often isn’t fully reversible, but groundwater recovery can halt the problem and even cause the surface to rebound somewhat. This was part of the story in 39 percent of the cases studied, including places like Shanghai, Bangkok, and Houston.
 
  Land subsidence timelines in 15 of the cases studied.
- 
+
 
  Credit:
- 
+
 Jasechko/Science
 
  Land subsidence timelines in 15 of the cases studied.
 
- 
+
 
  Credit:
 
- 
 
- 
+
+
  Jasechko/Science
 
- 
+
 
 So how could groundwater recovery be a problem? Some examples could simply be filed under “too much of a good thing”—flooding of tunnels or particularly low areas and cropland. But there were also structural issues as previously dry sediments saturated and the land surface moved upward. Some seismically active areas have even wrestled with increased liquefaction risk during earthquakes.
 
@@ -113,17 +113,17 @@ At a fundamental level, this study reminds us that groundwater recoveryhas happe
 Science, 2026. DOI:10.1126/science.adu1370(About DOIs).
 
  Scott K. Johnson
- 
+
 
 Associate Writer
 
  Scott K. Johnson
- 
+
 
 Associate Writer
 
  Scott has written about geoscience and energy at Ars as a freelancer since 2011.
- 
+
 
 1. 1.A unique NASA satellite is falling out of orbit—this team is trying to rescue it
 2. 2.There can (still) be only one: Highlander is 40

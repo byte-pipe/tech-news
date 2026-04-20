@@ -112,7 +112,7 @@ We hope this first Weekend Challenge showed that great things can ship in 48 hou
 Thank you to everyone who participated. 💚
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -123,6 +123,6 @@ Preview
 Dismiss
 
  View full discussion (14 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

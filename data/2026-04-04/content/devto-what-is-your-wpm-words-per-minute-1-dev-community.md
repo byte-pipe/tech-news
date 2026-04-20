@@ -38,7 +38,7 @@ Note:When you finish the test, take a screenshot of your result and shared it in
 * https://dev.to/jonmarkgo/comment/369l8
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -49,7 +49,7 @@ Preview
 Dismiss
 
  View full discussion (80 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
  Some comments have been hidden by the post's author -find out more

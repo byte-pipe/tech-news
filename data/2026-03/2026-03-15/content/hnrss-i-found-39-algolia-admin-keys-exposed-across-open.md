@@ -79,7 +79,7 @@ def
  return
 
  for
- a 
+ a
 in
  APP_RE
 .findall(text):

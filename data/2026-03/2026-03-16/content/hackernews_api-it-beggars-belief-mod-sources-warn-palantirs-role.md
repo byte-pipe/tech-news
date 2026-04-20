@@ -75,7 +75,7 @@ Palantir is alsobeing usedin America toprofile and target immigrantsfor removal 
 
 Martin Wrigley, a Liberal Democrat MP and member of the science, innovation and technology Commons select committee, said: “The UK needs sovereign capabilities in sovereign hands, and we need to remove companies closely associated with foreign political organisations that are a risk.”
 
-Upgrade to membership to fund the Nerve 
+Upgrade to membership to fund the Nerve
 
 Jim Killock, executive director of the Open Rights Group, said:“If the US has detailed insights across everything that the MoD does, then in the event of us being recalcitrant about helping the US bomb some country, they can remind us – subtly or unsubtly – what they might do in retaliation.
 

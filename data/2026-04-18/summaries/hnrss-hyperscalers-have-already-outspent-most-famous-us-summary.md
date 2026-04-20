@@ -13,7 +13,7 @@ summarized_at: 2026-04-18T11:35:50.125675
 
 ### Explanation:
 
-This message indicates that some JavaScript functionality in the browser is disabled and a redirect to enable this functionality was provided by the "Continue using x.com" button. 
+This message indicates that some JavaScript functionality in the browser is disabled and a redirect to enable this functionality was provided by the "Continue using x.com" button.
 
 ### Key Points:
 - **JavaScript**: Not supported due to recent detection.

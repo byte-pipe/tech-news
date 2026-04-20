@@ -18,10 +18,10 @@ tags:
 
 # Ex-Apple engineers create an AI button that looks like an iPod Shuffle – but can’t explain why
 
- 
+
 
 Ben Lovejoy
- | Apr 9 2026 - 4:37 am PT																
+ | Apr 9 2026 - 4:37 am PT
 
 I saida couple of years agothat AI hardware devices were like trying to invent the iPod after the iPhone. Two former Apple engineers appear to have leaned into this with an AI button that bears more than a passing resemblance to an iPod shuffle.
 
@@ -60,27 +60,27 @@ Photo: Button
 
 FTC: We use income earning auto affiliate links.More.
 
-You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out 
+You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out
 our homepage
- for all the latest news, and follow 9to5Mac on 
+ for all the latest news, and follow 9to5Mac on
 Twitter
-, 
+,
 Facebook
-, and 
+, and
 LinkedIn
- to stay in the loop. Don’t know where to start? Check out our 
+ to stay in the loop. Don’t know where to start? Check out our
 exclusive stories
-, 
+,
 reviews
-, 
+,
 how-tos
-, and 
+, and
 subscribe to our YouTube channel
- 
+
 
 Check out 9to5Mac on YouTube for more Apple news:
 
- 
+
 
 ## Comments
 
@@ -92,16 +92,16 @@ Check out 9to5Mac on YouTube for more Apple news:
 
 ## Author
 
- 
 
-			Ben Lovejoy		
 
-benlovejoy			
+			Ben Lovejoy
+
+benlovejoy
 
 Ben Lovejoy is a British technology writer and EU Editor for 9to5Mac. He’s known for his op-eds and diary pieces, exploring his experience of Apple products over time, for a more rounded review. He also writes fiction, with two technothriller novels, a couple of SF shorts and a rom-com!
 
 ### Ben Lovejoy's favorite gear
 
- 
+
 
 #### Dell 49-inch curved monitor

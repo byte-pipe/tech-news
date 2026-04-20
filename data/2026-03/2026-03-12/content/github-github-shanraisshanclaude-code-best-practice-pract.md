@@ -11,7 +11,7 @@ description: practice made claude perfect. Contribute to shanraisshan/claude-cod
 
 shanraisshan
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.3k
 * Star13.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -123,7 +123,7 @@ View all files
 
 practice makes claude perfect
 
- 
+
 
 Click on this badge to show the latest best practiceClick on this badge to show implementation in this repoClick on this badge to see the Command → Agent → Skill orchestration workflow
 
@@ -141,22 +141,22 @@ Commands
 
 .claude/commands/<name>.md
 
- 
+
  Knowledge injected into existing context — simple user-invoked prompt templates for workflow orchestration
 
 Sub-Agents
 
 .claude/agents/<name>.md
 
- 
+
  Autonomous actor in fresh isolated context — custom tools, permissions, model, memory, and persistent identity
 
 Skills
 
 .claude/skills/<name>/SKILL.md
 
- 
- Knowledge injected into existing context — configurable, preloadable, auto-discoverable, with context forking and progressive disclosure · 
+
+ Knowledge injected into existing context — configurable, preloadable, auto-discoverable, with context forking and progressive disclosure ·
 Official Skills
 
 Workflows
@@ -167,66 +167,66 @@ Hooks
 
 .claude/hooks/
 
- 
+
  Deterministic scripts that run outside the agentic loop on specific events
 
 MCP Servers
 
 .claude/settings.json
-, 
+,
 .mcp.json
 
- 
+
  Model Context Protocol connections to external tools, databases, and APIs
 
 Plugins
 
 distributable packages
 
-Bundles of skills, subagents, hooks, and MCP servers · 
+Bundles of skills, subagents, hooks, and MCP servers ·
 Marketplaces
 
 Settings
 
 .claude/settings.json
 
- 
- Hierarchical configuration system · 
+
+ Hierarchical configuration system ·
 Permissions
- · 
+ ·
 Model Config
- · 
+ ·
 Output Styles
- · 
+ ·
 Sandboxing
- · 
+ ·
 Keybindings
- · 
+ ·
 Fast Mode
 
 Status Line
 
 .claude/settings.json
 
- 
+
  Customizable status bar showing context usage, model, cost, and session info
 
 Memory
 
 CLAUDE.md
-, 
+,
 .claude/rules/
-, 
+,
 ~/.claude/rules/
-, 
+,
 ~/.claude/projects/<project>/memory/
 
- 
- Persistent context via CLAUDE.md files and 
+
+ Persistent context via CLAUDE.md files and
 @path
- imports · 
+ imports ·
 Auto Memory
- · 
+ ·
 Rules
 
 Checkpointing
@@ -235,7 +235,7 @@ automatic (git-based)
 
 Automatic tracking of file edits with rewind (
 Esc Esc
- or 
+ or
 /rewind
 ) and targeted summarization
 
@@ -243,7 +243,7 @@ CLI Startup Flags
 
 claude [flags]
 
- Command-line flags, subcommands, and environment variables for launching Claude Code · 
+ Command-line flags, subcommands, and environment variables for launching Claude Code ·
 Interactive Mode
 
 AI Terms
@@ -252,9 +252,9 @@ AI Terms
 
 Best Practices
 
-Official best practices · 
+Official best practices ·
 Prompt Engineering
- · 
+ ·
 Extend Claude Code
 
 ### 🔥 Hot
@@ -272,11 +272,11 @@ Description
  Side chain conversations while Claude is working
 
 Code Review
- 
+
 
 GitHub App (managed)
 
- Multi-agent PR analysis that catches bugs, security vulnerabilities, and regressions · 
+ Multi-agent PR analysis that catches bugs, security vulnerabilities, and regressions ·
 Blog
 
 Scheduled Tasks
@@ -284,11 +284,11 @@ Scheduled Tasks
 /loop
 , cron tools
 
- 
+
  Run prompts on a recurring schedule (up to 3 days), set one-time reminders, poll deployments and builds
 
 Voice Mode
- 
+
 
 /voice
 
@@ -297,13 +297,13 @@ Voice Mode
 Simplify & Batch
 
 /simplify
-, 
+,
 /batch
 
  Built-in skills for code quality and bulk operations — simplify refactors for reuse and efficiency, batch runs commands across files
 
 Agent Teams
- 
+
 
 built-in (env var)
 
@@ -312,10 +312,10 @@ built-in (env var)
 Remote Control
 
 /remote-control
-, 
+,
 /rc
 
-Continue local sessions from any device — phone, tablet, or browser · 
+Continue local sessions from any device — phone, tablet, or browser ·
 Headless Mode
 
 Git Worktrees
@@ -328,7 +328,7 @@ Ralph Wiggum Loop
 
 plugin
 
- 
+
  Autonomous development loop for long-running tasks — iterates until completion
 
 Seeorchestration-workflowfor implementation details ofCommand → Agent → Skillpattern.
@@ -353,7 +353,7 @@ Agent
 Fetches data with preloaded skill (agent skill)
 
 weather-agent
- with 
+ with
 weather-fetcher
 
 Skill
@@ -460,19 +460,19 @@ Replaced
 Code Review
 
 Greptile
-, 
+,
 CodeRabbit
-, 
+,
 Devin Review
-, 
+,
 OpenDiff
-, 
+,
 Cursor BugBot
 
 Voice Mode
 
 Wispr Flow
-, 
+,
 SuperWhisper
 
 Remote Control
@@ -482,7 +482,7 @@ OpenClaw
 Cowork
 
 OpenAI Operator
-, 
+,
 AgentShadow
 
 Tasks
@@ -551,9 +551,9 @@ Agent Memory Frontmatter
 
 Persistent memory scopes (
 user
-, 
+,
 project
-, 
+,
 local
 ) for subagents — enabling agents to learn across sessions
 
@@ -565,9 +565,9 @@ Usage, Rate Limits & Extra Usage
 
 Usage commands (
 /usage
-, 
+,
 /extra-usage
-, 
+,
 /cost
 ), rate limits, and pay-as-you-go overflow billing
 
@@ -599,48 +599,48 @@ practice made claude perfect
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 13.5k
 
  stars
- 
+
 
 ### Watchers
 
 148
 
  watching
- 
+
 
 ### Forks
 
 1.3k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -658,9 +658,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors4
 

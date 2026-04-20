@@ -9,7 +9,7 @@ author: GunslingerAhx
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 GunslingerAhx
 
- 
+
 
 # Iran's Secretary of the Supreme National Council, Ali Larijani, issues open threat against Trump; "He must pay the price"
 
  iranintl.com
- 
+
 
 Open

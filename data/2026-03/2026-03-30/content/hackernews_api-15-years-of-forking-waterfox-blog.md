@@ -14,161 +14,161 @@ tags:
 ---
 
 ←
- 
- 
- 
+
+
+
 →
- 
- 
- 
- 
- 
- 
- 
- 
- 2011-2014 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+ 2011-2014
+
+
+
+
+
+
 
 2011-2014
 
- 
+
 
 The first Waterfox identity
 
- 
- 
- 
- 
- 
- 
- 2014-2015 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+ 2014-2015
+
+
+
+
+
+
 
 2014-2015
 
- 
+
 
 A short lived transitional logo phase
 
- 
- 
- 
- 
- 
- 
- 2015-2019 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+ 2015-2019
+
+
+
+
+
+
 
 2015-2019
 
- 
+
 
 A slicker, more modern logo
 
- 
- 
- 
- 
- 
- 
- 2019 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+ 2019
+
+
+
+
+
+
 
 2019
 
- 
+
 
 First redesign due to pressure from Mozilla
 
- 
- 
- 
- 
- 
- 
- 2019-2023 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+ 2019-2023
+
+
+
+
+
+
 
 2019-2023
 
- 
+
 
 A logo Mozilla are happy with, after many threats
 
- 
- 
- 
- 
- 
- 
- Today 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+ Today
+
+
+
+
+
+
 
 Today
 
- 
+
 
 Current identity, smoother gradients for easier editing
 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
 Logo 2011-2014
- 
- 
+
+
 Logo 2014-2015
- 
- 
+
+
 Logo 2015-2019
- 
- 
+
+
 Logo 2019
- 
- 
+
+
 Logo 2019-2023
- 
- 
+
+
 Logo Today
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Fifteen years ago today, I posteda thread on the Overclock.net forums. I was sixteen, I had an HP Compaq TC4400 that I’d convinced my parents would “improve my school work”, and I was frustrated that Firefox didn’t have an official 64-bit build. So I compiled one myself, called it Waterfox, stuck it on SourceForge and went back to my A levels.
 
@@ -208,20 +208,20 @@ The blocker runs in the main browser process rather than as a web extension, whi
 
 For how it works in practice: by default, text ads will remain visible on our default search partner’s page - currently Startpage. The idea is that this is what will keep the lights on.This mirrors the approach Brave takes with their search partner.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Info
 
- 
- 
+
+
 
 Update (28 March 2026):Corrected a statement about Brave’s ad blocking behaviour. The original text implied Brave special cases ads on their search partner’s page - they don’t. Brave blocksthird partyads on all websites by default, regardless of any partnership, and offers an additional aggressive mode that blocksfirst partyads as well. Waterfox’s approach of allowing text ads on the default search partner page is our own decision for sustainability, not something inherited fromadblock-rs. Thanks to Shivan at Brave for the correction.
 
- 
+
 
 Users who want to disable that entirely can do so with a single toggle in settings, and it has nothing to do with any of Brave’s crypto or rewards ecosystem - we’re just using the adblocking library. Everyone else gets a fast, native adblocker out of the box, no extension required.
 
@@ -251,1004 +251,1004 @@ I also wouldn’t be where I am with the constant moral support of my parents, A
 
 Read the media coverage Waterfox has received over the last 15 years.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 ←
- 
- 
- 
+
+
+
 →
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- PCWorld 
- 
- 2011 
- 
- 
- 
- 
- Feature 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ PCWorld
+
+ 2011
+
+
+
+
+ Feature
+
 
 ### Use a 64-Bit PC? Instead of Firefox, Try Waterfox 9.0
 
- 
- 
- 
- PCWorld · 2011 
- 
+
+
+
+ PCWorld · 2011
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- BetaNews 
- 
- 2011 
- 
- 
- 
- 
- Review 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ BetaNews
+
+ 2011
+
+
+
+
+ Review
+
 
 ### Can't wait for Firefox 64-bit? Try Waterfox 8
 
- 
- 
- 
- BetaNews · 2011 
- 
+
+
+
+ BetaNews · 2011
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Softpedia 
- 
- 2014 
- 
- 
- 
- 
- Review 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Softpedia
+
+ 2014
+
+
+
+
+ Review
+
 
 ### Waterfox 28 Review - A 64-Bit Version of Firefox
 
- 
- 
- 
- Softpedia · 2014 
- 
+
+
+
+ Softpedia · 2014
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- The Telegraph 
- 
- 2015 
- 
- 
- 
- 
- Feature 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The Telegraph
+
+ 2015
+
+
+
+
+ Feature
+
 
 ### New search engine from Waterfox founder aims to take a punch at Google
 
- 
- 
- 
- The Telegraph · 2015 
- 
+
+
+
+ The Telegraph · 2015
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Trusted Reviews 
- 
- 2015 
- 
- 
- 
- 
- Interview 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Trusted Reviews
+
+ 2015
+
+
+
+
+ Interview
+
 
 ### From bedroom coder to building a Google search engine rival
 
- 
- 
- 
- Trusted Reviews · 2015 
- 
+
+
+
+ Trusted Reviews · 2015
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- GIGAZINE 
- 
- 2015 
- 
- 
- 
- 
- Review 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ GIGAZINE
+
+ 2015
+
+
+
+
+ Review
+
 
 ### The fastest 64-bit web browser "Waterfox"
 
- 
- 
- 
- GIGAZINE · 2015 
- 
+
+
+
+ GIGAZINE · 2015
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Ghacks Tech News 
- 
- 2017 
- 
- 
- 
- 
- Feature 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ghacks Tech News
+
+ 2017
+
+
+
+
+ Feature
+
 
 ### Waterfox dev has big plans for the browser
 
- 
- 
- 
- Ghacks Tech News · 2017 
- 
+
+
+
+ Ghacks Tech News · 2017
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Dedoimedo 
- 
- 2017 
- 
- 
- 
- 
- Review 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dedoimedo
+
+ 2017
+
+
+
+
+ Review
+
 
 ### The Fox Hunt — Firefox and friends compared
 
- 
- 
- 
- Dedoimedo · 2017 
- 
+
+
+
+ Dedoimedo · 2017
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Ghacks Tech News 
- 
- 2017 
- 
- 
- 
- 
- News 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ghacks Tech News
+
+ 2017
+
+
+
+
+ News
+
 
 ### Waterfox 56 is out
 
- 
- 
- 
- Ghacks Tech News · 2017 
- 
+
+
+
+ Ghacks Tech News · 2017
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Ghacks Tech News 
- 
- 2018 
- 
- 
- 
- 
- News 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ghacks Tech News
+
+ 2018
+
+
+
+
+ News
+
 
 ### Waterfox for Android update brings huge privacy improvements
 
- 
- 
- 
- Ghacks Tech News · 2018 
- 
+
+
+
+ Ghacks Tech News · 2018
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- HostingAdvice 
- 
- 2019 
- 
- 
- 
- 
- Interview 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ HostingAdvice
+
+ 2019
+
+
+
+
+ Interview
+
 
 ### The Open-Source Waterfox Browser Delivers a Balance of Privacy and Usability
 
- 
- 
- 
- HostingAdvice · 2019 
- 
+
+
+
+ HostingAdvice · 2019
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Ghacks Tech News 
- 
- 2019 
- 
- 
- 
- 
- News 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ghacks Tech News
+
+ 2019
+
+
+
+
+ News
+
 
 ### Waterfox development splits into Classic and Current branches
 
- 
- 
- 
- Ghacks Tech News · 2019 
- 
+
+
+
+ Ghacks Tech News · 2019
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- It's FOSS 
- 
- 2019 
- 
- 
- 
- 
- Review 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It's FOSS
+
+ 2019
+
+
+
+
+ Review
+
 
 ### Waterfox Browser: Firefox Fork With Legacy Add-ons Options
 
- 
- 
- 
- It's FOSS · 2019 
- 
+
+
+
+ It's FOSS · 2019
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Slashdot 
- 
- 2020 
- 
- 
- 
- 
- News 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Slashdot
+
+ 2020
+
+
+
+
+ News
+
 
 ### Alternative Browser 'Waterfox' Acquired By System1
 
- 
- 
- 
- Slashdot · 2020 
- 
+
+
+
+ Slashdot · 2020
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- The Register 
- 
- 2021 
- 
- 
- 
- 
- Feature 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The Register
+
+ 2021
+
+
+
+
+ Feature
+
 
 ### Waterfox: A Firefox fork that could teach Mozilla a lesson
 
- 
- 
- 
- The Register · 2021 
- 
+
+
+
+ The Register · 2021
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- MakeUseOf 
- 
- 2022 
- 
- 
- 
- 
- Review 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ MakeUseOf
+
+ 2022
+
+
+
+
+ Review
+
 
 ### What Is Waterfox and Is It Safe?
 
- 
- 
- 
- MakeUseOf · 2022 
- 
+
+
+
+ MakeUseOf · 2022
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Ghacks Tech News 
- 
- 2023 
- 
- 
- 
- 
- News 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ghacks Tech News
+
+ 2023
+
+
+
+
+ News
+
 
 ### Waterfox Browser cuts ties with System 1 to celebrate independence
 
- 
- 
- 
- Ghacks Tech News · 2023 
- 
+
+
+
+ Ghacks Tech News · 2023
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- MSPowerUser 
- 
- 2023 
- 
- 
- 
- 
- News 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ MSPowerUser
+
+ 2023
+
+
+
+
+ News
+
 
 ### Firefox fork Waterfox is now available for Android with strict privacy defaults
 
- 
- 
- 
- MSPowerUser · 2023 
- 
+
+
+
+ MSPowerUser · 2023
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- XDA Developers 
- 
- 2024 
- 
- 
- 
- 
- Review 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ XDA Developers
+
+ 2024
+
+
+
+
+ Review
+
 
 ### I ditched Firefox for this privacy-focused spinoff with better features
 
- 
- 
- 
- XDA Developers · 2024 
- 
+
+
+
+ XDA Developers · 2024
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Pocket-lint 
- 
- 2024 
- 
- 
- 
- 
- Feature 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Pocket-lint
+
+ 2024
+
+
+
+
+ Feature
+
 
 ### It's possible to browse better with Waterfox, but I wish I'd known this first
 
- 
- 
- 
- Pocket-lint · 2024 
- 
+
+
+
+ Pocket-lint · 2024
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Ghacks Tech News 
- 
- 2024 
- 
- 
- 
- 
- News 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ghacks Tech News
+
+ 2024
+
+
+
+
+ News
+
 
 ### Chrome, Opera, Vivaldi, Waterfox and Wavebox join hands to fight against Microsoft Edge
 
- 
- 
- 
- Ghacks Tech News · 2024 
- 
+
+
+
+ Ghacks Tech News · 2024
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- TechRadar 
- 
- 2024 
- 
- 
- 
- 
- News 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ TechRadar
+
+ 2024
+
+
+
+
+ News
+
 
 ### Microsoft Edge gets 'unfair advantage', browser makers claim
 
- 
- 
- 
- TechRadar · 2024 
- 
+
+
+
+ TechRadar · 2024
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- The Register 
- 
- 2025 
- 
- 
- 
- 
- Feature 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The Register
+
+ 2025
+
+
+
+
+ Feature
+
 
 ### Waterfox browser goes AI-free, targets the Firefox faithful
 
- 
- 
- 
- The Register · 2025 
- 
+
+
+
+ The Register · 2025
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- heise online 
- 
- 2025 
- 
- 
- 
- 
- Feature 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ heise online
+
+ 2025
+
+
+
+
+ Feature
+
 
 ### Waterfox positions itself as an AI-free Firefox alternative
 
- 
- 
- 
- heise online · 2025 
- 
+
+
+
+ heise online · 2025
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- WebProNews 
- 
- 2025 
- 
- 
- 
- 
- Feature 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ WebProNews
+
+ 2025
+
+
+
+
+ Feature
+
 
 ### Waterfox Opposes Mozilla's AI Integration in Firefox, Prioritizes Privacy
 
- 
- 
- 
- WebProNews · 2025 
- 
+
+
+
+ WebProNews · 2025
+
 
 ↗
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Quippd 
- 
- 2026 
- 
- 
- 
- 
- Interview 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Quippd
+
+ 2026
+
+
+
+
+ Interview
+
 
 ### Fifteen Years of Waterfox: Alex Kontos on Independence, AI, and the Future
 
- 
- 
- 
- Quippd · 2026 
- 
+
+
+
+ Quippd · 2026
+
 
 ↗

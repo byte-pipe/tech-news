@@ -22,7 +22,7 @@ The ban didn’t last long. A few hours later, after the post went viral, Steinb
 
 Yeah folks, it's gonna be harder in the future to ensure OpenClaw still works with Anthropic models.pic.twitter.com/U6F8GZvPcH
 
-— Peter Steinberger 🦞 (@steipete) 
+— Peter Steinberger 🦞 (@steipete)
 April 10, 2026
 
 It’s not clear if that was the key that restored the account. (We’ve asked Anthropic about it.) But the whole message string was enlightening on many levels.
@@ -52,27 +52,27 @@ Steinberger did not respond to a request for comment.
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 Claude
-, 
+,
 openclaw
-, 
+,
 Peter Steinberger
- 
 
-			Julie Bort	
+
+			Julie Bort
 
 Venture Editor
 
-		Julie Bort is the Startups/Venture Desk editor for TechCrunch. 
+		Julie Bort is the Startups/Venture Desk editor for TechCrunch.
 
 
-You can contact or verify outreach from Julie by emailing 
+You can contact or verify outreach from Julie by emailing
 julie.bort@techcrunch.com
- or via 
+ or via
 @Julie188
- on X.	
+ on X.
 
 View Bio

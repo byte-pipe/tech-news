@@ -11,7 +11,7 @@ description: Telegram-iOS. Contribute to TelegramMessenger/Telegram-iOS developm
 
 TelegramMessenger
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork2.5k
 * Star8.2k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -270,51 +270,51 @@ Telegram-iOS
 
  Readme
 
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 8.2k
 
  stars
- 
+
 
 ### Watchers
 
 307
 
  watching
- 
+
 
 ### Forks
 
 2.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases31
 
@@ -322,11 +322,11 @@ Telegram 10.0.3 (26855)
 
  Latest
 
- 
+
 
 Sep 13, 2023
 
- 
+
 
 + 30 releases
 
@@ -342,17 +342,17 @@ Sep 13, 2023
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -360,9 +360,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

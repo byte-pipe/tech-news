@@ -38,17 +38,17 @@ Dremel
 ### Blueprint 12V Multi-Drill
 
 $99
- 
+
 
 Amazon
 
 $99
- 
+
 
 Walmart
 
 $83
- 
+
 
 The Home Depot
 
@@ -65,11 +65,11 @@ Soldr
 ### Deluxe Edition
 
 $319
- 
+
 $255
- 
+
 (20% off)
- 
+
 
 Soldr
 
@@ -86,7 +86,7 @@ Festool
 ### DTSC 200 Basic Cordless Delta Sander
 
 $549
- 
+
 
 Festool
 
@@ -103,16 +103,16 @@ Hozo
 ### M-Cube Pro Kit
 
 $395
- 
+
 
 Amazon
 
 $395
- 
+
 $316
- 
+
 (20% off)
- 
+
 
 Hozo
 
@@ -129,12 +129,12 @@ Husqvarna
 ### Viking Designer Sapphire 85 Sewing & Embroidery Machine
 
 $10,599
- 
+
 
 Singer
 
 $10,599
- 
+
 
 Sewing Machines Plus
 
@@ -151,7 +151,7 @@ CRKT
 ### Box Key Slip Joint
 
 $38
- 
+
 
 CRKT
 
@@ -168,7 +168,7 @@ Niwaki
 ### ST-Type Tool Box
 
 $135
- 
+
 
 Niwaki
 
@@ -185,7 +185,7 @@ Pit Viper
 ### Rev-Loc Z87+ Safety Glasses
 
 $80
- 
+
 
 Pit Viper
 
@@ -202,16 +202,16 @@ Gerber
 ### Freescape Camp Saw
 
 $69
- 
+
 $62
- 
+
 (10% off)
- 
+
 
 Amazon
 
 $69
- 
+
 
 Gerber
 
@@ -228,7 +228,7 @@ Flsun
 ### S1 Pro 3D Printer
 
 $599
- 
+
 
 Flsun
 
@@ -245,7 +245,7 @@ CircuitMess
 ### NASA Mars Perseverance Rover
 
 $349
- 
+
 
 CircuitMess
 
@@ -262,20 +262,20 @@ Hoto
 ### 20V Cordless Leaf Blower
 
 $250
- 
+
 $190
- 
+
 (24% off)
- 
+
 
 Amazon
 
 $239
- 
+
 $190
- 
+
 (21% off)
- 
+
 
 Hoto
 
@@ -292,17 +292,17 @@ Milwaukee
 ### M18 Packout Radio Charger
 
 $280
- 
+
 
 Amazon
 
 $349
- 
+
 
 The Home Depot
 
 $325
- 
+
 
 Walmart
 
@@ -319,12 +319,12 @@ Tinkr
 ### Electric Scissors
 
 $35
- 
+
 
 The Home Depot
 
 $40
- 
+
 
 Tinkr
 
@@ -341,11 +341,11 @@ BeaverBot
 ### Cutter 2
 
 $299
- 
+
 $259
- 
+
 (13% off)
- 
+
 
 BeaverBot
 
@@ -364,11 +364,11 @@ Triangle
 * Should you leave your phonecharging overnight?
 * Watch:How right wing influencers infiltrated the government
 Chris Haslam
- is an award-winning consumer technology journalist with over 20 years’ experience. As contributing editor for WIRED he specializes in audio, smart home, sustainability, and all things outdoors. Testing tents in McLaren’s Monsoon chamber remains a career highlight, while pitching reviews of exercise bikes a week before lockdown 1.0 was ... 
+ is an award-winning consumer technology journalist with over 20 years’ experience. As contributing editor for WIRED he specializes in audio, smart home, sustainability, and all things outdoors. Testing tents in McLaren’s Monsoon chamber remains a career highlight, while pitching reviews of exercise bikes a week before lockdown 1.0 was ...
 Read More
 * X
 Jeremy White
- is senior innovation editor at WIRED, overseeing gear coverage, with a focus on EVs and luxury. He also edits gear for the US and UK print editions. Prior to WIRED, he was a digital editor at the Financial Times and tech editor at Esquire in the UK. And ... 
+ is senior innovation editor at WIRED, overseeing gear coverage, with a focus on EVs and luxury. He also edits gear for the US and UK print editions. Prior to WIRED, he was a digital editor at the Financial Times and tech editor at Esquire in the UK. And ...
 Read More
 Senior innovation editor
 * Instagram
@@ -413,7 +413,7 @@ Need an ultrafast drive for video editing or a rugged option to back up your pho
 Scott Gilbertson
 Dyson’s Smallest Wet Floor Cleaner Is Here
 The debut follows the release of Dyson’s newest robot vacuum and a larger wet cleaner last week.
- Nena Farrell 
+ Nena Farrell
 
 ## Wired Coupons
 

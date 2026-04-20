@@ -13,19 +13,19 @@ tags:
 - trending
 ---
 
-Products				
+Products
 
-Little Snitch						
+Little Snitch
 
-Little Snitch Mini						
+Little Snitch Mini
 
-Micro Snitch						
+Micro Snitch
 
-LaunchBar						
+LaunchBar
 
-Internet Access Policy Viewer						
+Internet Access Policy Viewer
 
-						More Products					
+						More Products
 
 Shop
 

@@ -88,7 +88,7 @@ No final, qualidade não é apenas sobre software funcionando.
 É sobre responsabilidade, colaboração e cuidado com tudo aquilo que criamos.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

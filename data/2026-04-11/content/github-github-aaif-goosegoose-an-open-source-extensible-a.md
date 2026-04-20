@@ -11,7 +11,7 @@ description: an open source, extensible AI agent that goes beyond code suggestio
 
 aaif-goose
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork4.1k
 * Star41.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -285,7 +285,7 @@ Download the desktop appfor macOS, Linux, and Windows.
 
 Or install the CLI:
 
-curl -fsSL https://github.com/aaif-goose/goose/releases/download/stable/download_cli.sh 
+curl -fsSL https://github.com/aaif-goose/goose/releases/download/stable/download_cli.sh
 |
  bash
 
@@ -336,61 +336,61 @@ goose-docs.ai/
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 41.1k
 
  stars
- 
+
 
 ### Watchers
 
 215
 
  watching
- 
+
 
 ### Forks
 
 4.1k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases127
 
@@ -398,11 +398,11 @@ v1.30.0
 
  Latest
 
- 
+
 
 Apr 8, 2026
 
- 
+
 
 + 126 releases
 
@@ -410,9 +410,9 @@ Apr 8, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -420,9 +420,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

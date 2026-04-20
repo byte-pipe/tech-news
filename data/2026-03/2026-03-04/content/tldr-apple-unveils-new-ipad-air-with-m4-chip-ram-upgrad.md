@@ -18,10 +18,10 @@ tags:
 
 # Apple unveils new iPad Air with M4 chip, RAM upgrade, plus C1X and N1
 
- 
+
 
 Ryan Christoffel
- | Mar 2 2026 - 6:05 am PT																
+ | Mar 2 2026 - 6:05 am PT
 
 Apple has kicked off its big product launch week today, andone of the unveilingsis a new iPad Air with M4 chip. Here are the details.
 
@@ -49,13 +49,13 @@ TheN1 wireless chipcompletes the trio of Apple silicon advancements. It powers W
 
 ## Top comment byLeonardoM
 
-Liked by 14 people		
+Liked by 14 people
 
 To me it's crazy that iPad Air costs as little as an iPhone 17e.
 
 There is so much more materials and power, it just lacks the cellular antenna.
 
- 
+
 
 View all comments
 
@@ -77,27 +77,27 @@ Are you upgrading to an M4 iPad Air? Let us know in the comments.
 
 FTC: We use income earning auto affiliate links.More.
 
-You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out 
+You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out
 our homepage
- for all the latest news, and follow 9to5Mac on 
+ for all the latest news, and follow 9to5Mac on
 Twitter
-, 
+,
 Facebook
-, and 
+, and
 LinkedIn
- to stay in the loop. Don’t know where to start? Check out our 
+ to stay in the loop. Don’t know where to start? Check out our
 exclusive stories
-, 
+,
 reviews
-, 
+,
 how-tos
-, and 
+, and
 subscribe to our YouTube channel
- 
+
 
 Check out 9to5Mac on YouTube for more Apple news:
 
- 
+
 
 ## Comments
 
@@ -111,10 +111,10 @@ Apple's tablet debuted in 2010. Since the origin…
 
 ## Author
 
- 
 
-			Ryan Christoffel		
 
-iryantldr			
+			Ryan Christoffel
+
+iryantldr
 
 Ryan got his start in journalism as an Editor at MacStories, where he worked for four years covering Apple news, writing app reviews, and more. For two years he co-hosted the Adapt podcast on Relay FM, which focused entirely on the iPad. As a result, it should come as no surprise that his favorite Apple device is the iPad Pro.

@@ -20,7 +20,7 @@ tags:
 
 
 
-I have for years been interested in sleep research due to my professional involvement in memory and learning. This article attempts to produce a synthesis of what is known about sleep with a view to practical applications, esp. in people who need top-quality sleep for their learning or creative achievements. Neurophysiology of sleep is an explosively growing branch of science. Many theories that are currently contested will soon be forgotten as a result of new findings. Consequently, this text is likely to grow old very quickly (compare the old version from the year 2000 
+I have for years been interested in sleep research due to my professional involvement in memory and learning. This article attempts to produce a synthesis of what is known about sleep with a view to practical applications, esp. in people who need top-quality sleep for their learning or creative achievements. Neurophysiology of sleep is an explosively growing branch of science. Many theories that are currently contested will soon be forgotten as a result of new findings. Consequently, this text is likely to grow old very quickly (compare the old version from the year 2000
 here
 ). Still, some basic truths about sleep are well-established, and practical conclusions can be drawn with the benefit to human creativity and intellectual accomplishment. In this text, I provide some links to research papers and popular-scientific articles that advocate disparate and contradictory theories. Please consult other sources to be certain you do not to get a one-sided view! This article includes some indications on how to use free running sleep in the treatment of insomnia, advanced and delayed phase shift syndromes, and some other sleep disorders. If your own experience can contribute to the ideas presented herein, I will gladly hear from you (esp. in the context of learning and creativity).
 
@@ -538,7 +538,7 @@ A collective effort of a number of researchers resulted in the proposition of th
 
 We sleep so that the brain can integrate new knowledge and form new associations. As we must sleep for our brain to continue its function, our body attached dozens of important processes to run in sleep as well. In simplest terms, in waking we use and burn, while in sleep we restore and synthetize. Sleep affects the function and health of the entire body.
 
-Sleep is controlled by a complex set of brain nuclei. Interference with this system disrupts the function of sleep. For more see: 
+Sleep is controlled by a complex set of brain nuclei. Interference with this system disrupts the function of sleep. For more see:
 Sleep control system
 
 For more see:
@@ -920,9 +920,9 @@ Few people know that they can easily adapt to a completely different schedule by
 However, there is a factor that drives people into believing they are of a given sleep-time preference type. This is the length of thecircadiancycle and their ability to entrain it to 24 hours. As mentioned earlier, typicalcircadianclock period lasts longer than 24 hours. Those people whose cycle is particularly long tend to go to sleep later each day. They push the limit of morning hours up to the point when their compulsory wake-up time results in unbearable sleepiness. In other words, people with long cycles will tend to work during the night and sleep in the morning as long as it is only possible.
 
 
-Larks and owls do not differ in their preferred timing of sleep in reference to daytime! The difference comes from the length of the 
+Larks and owls do not differ in their preferred timing of sleep in reference to daytime! The difference comes from the length of the
 circadian
- cycle, sensitivity to zeitgebers, and lifestyle. You can easily make a lark work comfortably late into the night and make an owl get up at 3 am. This can be done by chronotherapy (cycle adjustment)! Moreover, owls can keep getting up at dawn if they adopt an ancient 
+ cycle, sensitivity to zeitgebers, and lifestyle. You can easily make a lark work comfortably late into the night and make an owl get up at 3 am. This can be done by chronotherapy (cycle adjustment)! Moreover, owls can keep getting up at dawn if they adopt an ancient
 farmer's lifestyle
  (e.g. by giving up electricity).
 
@@ -962,11 +962,11 @@ To make it possible to analyze the connection between sleep and learning,SleepCh
 
 SleepChart was included inSuperMemoa few years ago upon the understanding thatsleep is vital for learning. To sleep well and to learn well, one needs to understand his or her owncircadianrhythm.SleepChartinSuperMemowas designed with the view to assisting in that task. It can help you optimize the timing of sleep as well as to optimize the timing of your learning. Moreover, you can submit your sleep and learning data for analysis and have your own contribution in our research over the impact of sleep on memory. You can accessSleepChartinSuperMemowith: (1): Sleep Charton the , (2)SuperMemo commander, or (3) by just pressingF12.
 
-Sleep blocks are marked in 
+Sleep blocks are marked in
 blue
-. Learning blocks are marked in 
+. Learning blocks are marked in
 red
-. Total learning time on individual days is displayed on the right. Selected sleep block is displayed in 
+. Total learning time on individual days is displayed on the right. Selected sleep block is displayed in
 yellow
 . The length of that block is displayed at the bottom.
 
@@ -985,15 +985,15 @@ Various sleep statistics pertaining to individual days can be displayed on the r
 In addition to sleep statistics, optimum bedtime can also be estimated inSleepChart. Two independent models are used to predict middle-of-the-night points as well as the expected optimum retirement and awakening times. Those approximations may be helpful in optimizing sleep in people who work shifts or sleep in irregular hours for various reasons. For example, after a week of irregular sleep, it may be difficult to determine the optimum retirement hour that is likely to produce best quality sleep. Going to sleep too early might result in premature awakening (which may often ruin the night sleep entirely). Going to sleep too late may result in short night sleep, sleep deprivation, and reduced alertness on the following day. Predicting optimum sleep time on the basis of sleep history is inexact science, and the two models used may produce different outcomes.Important!Your natural instinct should always take precedence over mathematical models. Moreover, best results in sleep optimization are accomplished in free-running sleep. If you use an alarm clock, or force yourself awake through the night, or take sleeping pills, the models may not adequately account for the chaotic change that is occurring in your sleep control systems.
 
 Blue
- and 
+ and
 red
- continuous lines are predictions of optimum sleep time using the 
+ continuous lines are predictions of optimum sleep time using the
 SleepChart
- model (based on sleep statistics). 
+ model (based on sleep statistics).
 Yellow continuous line
- shows the prediction of the maximum of 
+ shows the prediction of the maximum of
 circadian
- sleepiness (circadian middle-of-the-night peak) using a phase response curve model. Note that theoretically, yellow line should roughly fall into the middle between blue and red lines. However, when a disruption of the sleep pattern is severe, those lines might diverge testifying to the fact that it is very hard to build models that fully match the chaotic behavior of the sleep control system subjected to a major perturbation. 
+ sleepiness (circadian middle-of-the-night peak) using a phase response curve model. Note that theoretically, yellow line should roughly fall into the middle between blue and red lines. However, when a disruption of the sleep pattern is severe, those lines might diverge testifying to the fact that it is very hard to build models that fully match the chaotic behavior of the sleep control system subjected to a major perturbation.
 Aqua dots
  point to the predicted daytime dip in alertness (i.e. the time when a nap might be most productive).
 
@@ -1146,11 +1146,11 @@ Mid-day slump is as prominent in conditions of severe as well as mildsleep depri
 #### Summary: Napping is good!
 
 
-1. Humans are biphasic in nature and show a 
+1. Humans are biphasic in nature and show a
 circadian
  boost in learning in subjective evening hours.
 
-2. Non-nappers show a mid-day dip in performance and might also benefit from a 
+2. Non-nappers show a mid-day dip in performance and might also benefit from a
 siesta
 .
 
@@ -1176,7 +1176,7 @@ I happen to disagree with most of the interpretations put forward thus far excep
 
 When Wehr's data are processed usingSleepChart's two-component model, we see that sleep is characteristically initiated at periods of relatively low sleep propensity:
 
-Wehr's segmented sleep as interpreted with the help of the two-component model of sleep employed in 
+Wehr's segmented sleep as interpreted with the help of the two-component model of sleep employed in
 SleepChart
 .
 
@@ -1300,7 +1300,7 @@ As the medical and psychiatric terminology of severe cases of DSPS is very confu
 My personal stance on chronotherapy is therefore as follows:
 
 
-Chronotherapy is the best approach to repositioning the phase of the 
+Chronotherapy is the best approach to repositioning the phase of the
 circadian
  cycle. It should always be the last resort as it is not neutral for the quality of sleep. However, long term consequences of occasional use of moderate chronotherapy are probably negligible.
 
@@ -1530,15 +1530,15 @@ The cry-it-out method must have been inspired by Pavlov's methods in conditionin
 
 It takes roughly 1-2 months for the baby sleep to align into a rudimentarycircadianpattern. This means that initiallya newborn baby does not see much difference between the night and the day!Consolidation of the fasting-associated wakefulness precedes that of the breastfeeding rhythm due to high feeding demands in the first few weeks of life (Odaa et al. 2008[44]).
 
-An exemplary 
+An exemplary
 circadian graph
- of 
+ of
 homeostatic
- and 
+ and
 circadian
  sleep preferences in the first 2 months of life. The average length of unconsolidated sleep episode (
 red line
-, left vertical number line) varies from 0.5 hour at 4 pm to 1.5 hours at 9 pm. There is a slight 
+, left vertical number line) varies from 0.5 hour at 4 pm to 1.5 hours at 9 pm. There is a slight
 circadian
  preference for initiating sleep in the early evening hours (6.2% at 5 pm)(
 blue line
@@ -1611,9 +1611,9 @@ Do babies sleep so much because they're learning so much or are they learning so
 
 You will often hear that newborns sleep most of the time. Actual measurements may show that babies are more likely to sleep through just half of their days, while spending only a small proportion of that in deeper stages ofNREMsleep.
 
-An exemplary 
+An exemplary
 SleepChart
- log of sleep in the first month of life. Sum total of all sleep blocks is displayed on the right and averages to slightly above 10 hours per day with substantial day-to-day variations reflecting the impact of rich 
+ log of sleep in the first month of life. Sum total of all sleep blocks is displayed on the right and averages to slightly above 10 hours per day with substantial day-to-day variations reflecting the impact of rich
 homeostatic
  input changes such as a walk, family visit, diaper rash episode, formula supplementation, etc.
 
@@ -1738,9 +1738,9 @@ There remains the question of weekends. Many people catch up on lost sleep durin
 There is no simple answer to the weekend dilemma! If you want to maximize the effects of sleep on learning, skills and experience, you would need to quantify how much you lose as a result on never actually getting enough sleep (the losses could be dramatic!) and how much you lose as a result of departing from the misery equilibrium on weekends thus tripling sleep disturbances early in the week.
 
 
-For healthy people, the most effective solution for persistent insomnia or work-schedule-related 
+For healthy people, the most effective solution for persistent insomnia or work-schedule-related
 sleep deprivation
- is 
+ is
 free running sleep
 !
 
@@ -1974,11 +1974,11 @@ If the above thinking is correct, we might indeed be able to execute the same ne
 Insleep deprivationinduced by polyphasic schedules,REMsleep will occur faster due to sleep stage compression. Yet it is the slow-wave sleep that is the primary target ofhomeostaticupregulation strongly determined by the duration of prior waking. AsREMsleep is far more associated with the circadian phase, its proportion in sleep will actually drop, esp. in naps initiated in the subjective evening period. You may want to studysleep models by Alexander A. Borbely and Peter Achermannwhich nicely explain the mechanics of these processes. Laboratory findings seem to indicate that the drop inREMgradually recovers towards the baseline over successive days of sleep deprivation, but the reversal is never complete. In other words, you will get lessREMsleep on a polyphasic schedule as compared with a free running schedule. ThisREMsleep diet is as much absolute (as measured in minutes) as it is relative (when compared with deep sleep NREM). The problem ofREMdeprivation becomes more pronounced if you use an alarm clock when waking up from naps. By using the alarm clock, you statistically hitREMsleep more often as its proportion nearly always increases over sleep time. This is why polyphasic sleepers often remember their dreams on awakening.That's not a sign you get moreREM. It's a sign you are destroyingREMsleep. By using very short blocks of sleep, you affectREMeven further by a stronghomeostaticupregulation of Stage 4NREMthat displaces whateverREMyou can get.
 
 
-Getting more 
+Getting more
 REM
- in 
+ in
 polyphasic sleep
- is a myth. You will get less 
+ is a myth. You will get less
 REM
  and your creative powers will dip.
 
@@ -2018,11 +2018,11 @@ Newborns sleep polyphasically.Clock genesstart cycling already early in developm
 Some proponents ofpolyphasic sleepclaim that baby sleep is the most natural way of sleeping and that babies lose it early in life due to theirsocial training. The opposite is true. Newborns show no discerniblecircadianpreference in their sleep patterns. Those patterns develop quickly over the first 1-3 months of life, and have little to do with training. The development of the typical biphasiccircadianrhythm is a biological process that is programmed in the genes and is largely inevitable in normal lighting and normal social setting.
 
 
-Babies sleep polyphasically. Their 
+Babies sleep polyphasically. Their
 circadian
- sleep cycle develops naturally in the first 1-3 months of life, and has nothing to do with "social training". Natural light, breastfeeding, and 
+ sleep cycle develops naturally in the first 1-3 months of life, and has nothing to do with "social training". Natural light, breastfeeding, and
 co-sleeping
- assist the development of a healthy 
+ assist the development of a healthy
 circadian
  cycle.
 
@@ -2047,13 +2047,13 @@ While scientists do not know any natural biological mechanisms that could be pra
 I keep garnering criticism for my pop science writing onpolyphasic sleep. However, little of that criticism addresses the basic premise that makes it easy to predict thatpolyphasic sleepcannot be used as a plausible lifestyle choice. I am therefore at a point where I need to ignore the criticism unless it addresses that basic scientific premise:
 
 
-Human sleep patterns reflect the underlying 
+Human sleep patterns reflect the underlying
 circadian
- oscillation whose period is roughly equal to 24 hours. Human circadian cycle calls for a major sleep episode every 24 hours. The body clock can be entrained with phase shifts of up to 3 hours. However, the 
+ oscillation whose period is roughly equal to 24 hours. Human circadian cycle calls for a major sleep episode every 24 hours. The body clock can be entrained with phase shifts of up to 3 hours. However, the
 circadian
- period of maximum sleep propensity cannot be partitioned. The timing of the sleep propensity 
+ period of maximum sleep propensity cannot be partitioned. The timing of the sleep propensity
 acrophase
- cannot be positioned in any other way than by a 
+ cannot be positioned in any other way than by a
 phase shift
 . Periodicity cannot be eliminated without a detriment to health. Circadian cycle underlies the structure of sleep that is essential for its neural function. Therefore, in individuals with a healthy sleep control system, no sleep schedule can go around the main period of the prolonged night sleep.
 
@@ -2125,9 +2125,9 @@ SuperMemo implements a variant of the two-process modelBorbely modelthat makes i
 In the presented picture, thethick red linerepresents estimated alertness, and an inverse of sleep propensity. Thecircadiansleep propensity is marked inaqua blue. It is easy to see that the shape of the alertness curve depends on the circadian phase at which a nap occurs. The graphs were juxtaposed so that to align nap timing while having them occur at differentcircadianphases that produce different alertness estimates. The graphs show thatthe same nap timing may produce entirely different alertness profiles. This explains why the "energizing power" ofpolyphasic sleepis an easily propagated myth.
 
 
-In polyphasic sleep, depending on the 
+In polyphasic sleep, depending on the
 circadian
- phase, naps may produce a high degree of alertness or a severe 
+ phase, naps may produce a high degree of alertness or a severe
 sleep inertia
 .
 
@@ -2166,9 +2166,9 @@ Even though, at best, Bryan was able to sustain the pure Uberman schedule for on
 My experiment demonstrated to me, unequivocally, that it is possible to maintain normal (subjective) function (mentally and physically) on apolyphasic sleepschedule,ifyou are willing to adapt to the rigid schedule of naps, and endure a period of sleepiness (circadian low) that lasts between 2-4 hours each day. In parallel toStampi's findings, the only significant difficulty I experienced was waking up from naps as the experiment progressed. It became increasingly difficult to wake up; sometimes I would wake up and reset my alarm without any memory of doing so; or my girlfriend would have to shake me for a full minute until I awoke. Once awake, however, I usually felt great, as if I had slept a whole night—but without the sleep hangover (lethargy) from being in bed for 8-10 hours. It is tempting to focus on the difficulty of waking up, to make claims about what that does or does not indicate, but the normal, even euphoric, functioning during waking hours should not be ignored. Given this, I was happy to see that you address these matters in your paragraph titled,Polyphasic rollercoaster.
 
 
-It is likely that in 
+It is likely that in
 polyphasic sleep
- attempts, the 
+ attempts, the
 circadian
  cycle is running in the background as if in zeitgeber-free conditions with the chaotic phase-shifting inputs cancelling each other out.
 
@@ -2209,7 +2209,7 @@ What strikes me in PureDoxyk writings is that she instantly rings credible and s
 
 Six naps no sleep; 4 naps one-point-five hours sleep; 3 naps three hours sleep; 2 naps four-point-five hours sleep; one nap six hours sleep*.
 
-* I removed two tiny mathematical kinks from the law which was originally formulated as: 
+* I removed two tiny mathematical kinks from the law which was originally formulated as:
 Six naps no sleep; 4-5 naps one-point-five hours sleep; 3 naps three hours sleep; 1-2 naps four-point-five hours sleep; one nap six hours sleep
  (
 source
@@ -2230,7 +2230,7 @@ TotalSleep = CoreSleep + NapNumber * NapDuration
 
 substituteNapNumberfrom PureDoxyk Law, differentiate for nap duration, and compare the result with zero, we will arrive at the breakeven point at NapDuration = 75 (min), which corresponds with the constant total sleep time of 7 hours. In other words, adding naps shorter than 75 min. would result in an overall time gain inpolyphasic sleep.
 
-A theoretical graph showing the minimization of the total sleep time along PureDoxyk Law. The proximal horizontal X axis shows the number of naps, the receding horizontal Y axis shows the nap duration, while the vertical Z axis shows the total sleep time in hours. The 
+A theoretical graph showing the minimization of the total sleep time along PureDoxyk Law. The proximal horizontal X axis shows the number of naps, the receding horizontal Y axis shows the nap duration, while the vertical Z axis shows the total sleep time in hours. The
 breakeven nap duration line
  is labeled "75 min". The graph shows that adding naps that are shorter than 75 min. allows of achieving a total gain in time, while adding naps longer than 75 min. will result in an increase in the total sleep time.
 
@@ -2490,10 +2490,10 @@ Millions of people on this planet takebenzodiazepinesto get themselves to sleep.
 2. sleep until you wake up naturally (for more see:Formula for good sleep).
 
 
-Wherever possible, avoid sleep inducing medication. 
-Even a seemingly natural product, 
+Wherever possible, avoid sleep inducing medication.
+Even a seemingly natural product,
 melatonin
-, is not without its downsides. Read about 
+, is not without its downsides. Read about
 free running sleep
  instead.
 
@@ -2675,7 +2675,7 @@ If you use an alarm clock, either:
 Artificial sleep schedules will dramatically reduce your mental capacity. A healthy individual in normal conditions will find it difficult to fall asleep 4 hours after the main sleep episode unless that episode was unnaturally cut with an alarm clock resulting insleep deprivation.
 
 
-The shortest healthy sleep is accomplished with 
+The shortest healthy sleep is accomplished with
 free running sleep
 !
 
@@ -2696,9 +2696,9 @@ A survey of users ofSuperMemo(SuperMemo World 1994[80]) revealed that the averag
 As always, some research seems to make headlines, while more thorough meta-analyses don't. In this case, it is probably the self-comforting thought "even if I feel miserable in sleep deprivation, loss of sleep might actually prolong my life!" If we review the literature on the association between the length of sleep and longevity, we are likely to notice that very short sleep, as much as very long sleep, correlate with shorter lives (Cappuccio 2010[82], 2010[83]). Professor Francesco Cappuccio puts it best saying: "while short sleep may represent a cause of ill-health, long sleep is believed to represent more an indicator of ill-health". If you take an average of the optimum amount of sleep for all members of the population, you will arrive at a specific number that is meaningless for a specific individual. In sub-populations that sleep longer or less than the average, longevity may be diminished. However, for each single individual, the optimum number is the one that is suggested by the body needs. If it is 4 hours or 10 hours, it matters less as long as the number comes from the natural sleep that is not controlled artificially. Moreover, that number will differ from day to day, it will be less before an exciting date, and it will be more after a day of heavy exercise. No one should worry about sleeping 4 hours per day or 10 hours per day, as long as he or she sleeps naturally, wakes up naturally, and feels refreshed.
 
 
-The optimum amount of sleep differs from person to person, from day to day, and is best determined by sleeping without artificial control such as an alarm clock, 
+The optimum amount of sleep differs from person to person, from day to day, and is best determined by sleeping without artificial control such as an alarm clock,
 sleeping pills
-, etc. You can best determine your optimum sleep needs by trying 
+, etc. You can best determine your optimum sleep needs by trying
 free running sleep
 .
 
@@ -2759,9 +2759,9 @@ Good sleep is a key to the treasure of good life. Don't let anyone rob you!
 I started my investigations of the impact of sleep on learning in the early 2000 from the simple intuition that short-night sleep is bad for learning on the next day. After collecting two years of data with SleepChart, I tried to show the link between the length of sleep and the quality of learning. However, that attempt was not successful. My problem was that I used my own sleep and learning data. I am a religious adherent offree running sleep(i.e. sleep where all forms of sleep control, esp. the alarm clock, are forbidden). Upon closer inspection, it appears that in free running sleep, short night sleep is often an indicator of hitting the optimum sleep phase, while long sleep may result from going to sleep too early, heavy exercise, ill health, and other factors. The interpretation is analogous toDr Kripke's researchshowing that people who sleep less live longer. That research led many to a wrong conclusion that keeping one's sleep short is healthy. In Kripke's and my own investigations, the confusion comes from the fact that it is the naturally short-night sleep that is an indicator of good health, correct sleep phase, or good prospects for long life. Using other people's data, I could later show thatshort sleep caused by the use of alarm clock has a negative impact on learning. One can expect the same effect of alarms on longevity. It is now obvious that the length of sleep cannot be used as an indicator of sleep quality infree running sleep.
 
 
-In 
+In
 free running sleep
- there is little or no correlation between the total sleep time and the learning performance. This correlation emerges only when the length of sleep episodes is controlled 
+ there is little or no correlation between the total sleep time and the learning performance. This correlation emerges only when the length of sleep episodes is controlled
 artificially
 .
 
@@ -2774,7 +2774,7 @@ While doing my preliminary investigations with my own sleep data, I concluded th
 
 BothSuperMemoandSleepCharthave been vastly improved since.SuperMemoregisters the timing of each repetition, whileSleepChartrelies on a phase response to predict the circadianacrophase. With improved data gathering, I was able to have a preliminary peek at the relationship between the bedtime phase and the learning performance:
 
-Relationship between the bedtime phase and the learning performance. The bedtime phase is defined as the difference between the actual and the optimum bedtime. Learning performance is measured by the average grade obtained while learning with 
+Relationship between the bedtime phase and the learning performance. The bedtime phase is defined as the difference between the actual and the optimum bedtime. Learning performance is measured by the average grade obtained while learning with
 SuperMemo
 .
 
@@ -2862,12 +2862,12 @@ Consolidation measures how well we consolidate or re-consolidate memories with r
 
 Data collected withSuperMemoshow thatrecalldecreases rapidly with waking time.
 
-Exemplary illustration of the speed in which 
+Exemplary illustration of the speed in which
 recall
  drops during a waking day. In this example, the average grade drops from 3.3 early in the day to less than 3.0 after 16 hours of waking.
 
 
-As the day goes on, our ability to 
+As the day goes on, our ability to
 recall
  facts from memory is getting worse and worse.
 
@@ -2875,11 +2875,11 @@ Interestingly, even a short nap seems to bring therecallback to the baseline lev
 
 Newer versions ofSuperMemomake it possible for everyone to see the relationship between theircircadiancycle and theirrecall.
 
-An exemplary 
+An exemplary
 recall
- graph displayed by 
+ graph displayed by
 SleepChart
- shows the decline in grades scored in learning during a waking day. This graph also shows a slight increase in the grades in the second half of the day due to 
+ shows the decline in grades scored in learning during a waking day. This graph also shows a slight increase in the grades in the second half of the day due to
 circadian
  reasons.
 
@@ -2903,9 +2903,9 @@ The fact that bothrecallandconsolidationcurves seem to follow a very similar cou
 
 The correlation betweenrecallandconsolidationcan also be seen in abstraction from thecircadiantime. If the overallrecallandconsolidationdata are taken from individual days of learning process, they correlate pretty well too:
 
-Exemplary graph that shows that learning days that are good for 
+Exemplary graph that shows that learning days that are good for
 recall
- are also good for memory consolidation. 
+ are also good for memory consolidation.
 Recall
  is expressed as a fraction of correct answers on a given day. Consolidation is expressed as a fraction of correct answers on the day of the next repetition that follows the one on the day for which the consolidation is measured.
 
@@ -2913,23 +2913,23 @@ We can conclude that good learning days are equally good forrecallas they are fo
 
 In future versions of SuperMemo, the user will be able to see the strict correlation between his or her ownrecalland memory consolidation:
 
-Exemplary graph showing how good memory 
+Exemplary graph showing how good memory
 recall
- improves memory 
+ improves memory
 consolidation
-. The relationship between 
+. The relationship between
 recall
- and 
+ and
 consolidation
- is nearly linear. The graph was plotted using over 800,000 repetitions in SuperMemo, with 538,000 of these contributing their data to the 
+ is nearly linear. The graph was plotted using over 800,000 repetitions in SuperMemo, with 538,000 of these contributing their data to the
 consolidation
- estimates. 
+ estimates.
 Recall
- levels with fewer than 3000 data points have been omitted from the graph. The 
+ levels with fewer than 3000 data points have been omitted from the graph. The
 Deviation
  parameter says how well the linear fit matches the data (the less the deviation, the better the fit). The deviation is computed as a square root of the average of squared differences between the approximation and the data.
 
-Exemplary graph showing the average recall for days producing a given level of memory consolidation. The relationship between consolidation and recall is nearly linear. The graph was plotted using over 800,000 repetitions in 
+Exemplary graph showing the average recall for days producing a given level of memory consolidation. The relationship between consolidation and recall is nearly linear. The graph was plotted using over 800,000 repetitions in
 SuperMemo
 . Consolidation levels with fewer than 3,000 data points have been omitted from the graph. Lowered recall for consolidation of 100% comes from the fact that this consolidation level is overrepresented by small sample days where lucky perfect recall in just a few items may result in perfect consolidation reading without actually saying anything about the recall on the day the consolidating repetition took place. Sufficiently large number of such cases will let consolidation category of 100% pass the 3,000 data points outlier limit set for this graph, and result in a recall level that is much closer to the average level.
 
@@ -2966,9 +2966,9 @@ If you have already collected your sleep data withSleepChart, you can see your w
 You can see how fast your alertness,recalland grades drop during the day by inspectingthe Alertness (H)graph inSuperMemo. In this graph, you can see the time that has passed since the last sleep block, and how yourrecallchanges in waking:
 
 Alertness (H)
- graph makes it possible to visually inspect how recall decreases during a waking day. It also shows the impact of 
+ graph makes it possible to visually inspect how recall decreases during a waking day. It also shows the impact of
 circadian
- factors with grades slightly lower immediately after waking and slightly higher in the post-siesta period (i.e. in the 10-13 hour bracket). The 
+ factors with grades slightly lower immediately after waking and slightly higher in the post-siesta period (i.e. in the 10-13 hour bracket). The
 Deviation
  parameter displayed at the top tells you how well the chosen approximation curve fits the data (in the picture: negatively exponential recall curve). The lesser the deviation, the better the fit. The deviation is computed as a square root of the average of squared differences (as used in the method of least squares).
 
@@ -2977,25 +2977,25 @@ InAlertness (H), the minimum length of a sleep episode in consideration is deter
 Thecircadianchanges in alertness can be seen in theAlertness (C)graph, which plots alertness throughout the day in reference to the circadian time measured from the actual waking time or from the optimum natural waking time:
 
 Alertness (C)
- graph showing the powerfully 
+ graph showing the powerfully
 biphasic nature
- of the human circadian cycle. The horizontal axis shows the circadian time, i.e. the time that elapses from phase 0, i.e. the predicted "end of the night" time (if 
+ of the human circadian cycle. The horizontal axis shows the circadian time, i.e. the time that elapses from phase 0, i.e. the predicted "end of the night" time (if
 Model
- is depressed). The prediction comes from the 
+ is depressed). The prediction comes from the
 circadian
- model employed in SleepChart, and is derived from the sleep log data. The 
+ model employed in SleepChart, and is derived from the sleep log data. The
 yellow line
- is the predicted circadian alertness derived from the same sleep log data using the 
+ is the predicted circadian alertness derived from the same sleep log data using the
 two component model of sleep propensity
- developed for the purpose of sleep optimization in 
+ developed for the purpose of sleep optimization in
 SuperMemo
- (inspired by similar work by 
+ (inspired by similar work by
 Alexander A. Borbely and Peter Achermann
-). The overall alertness, not shown in the graph, is the resultant of the status of the two components of sleep propensity: the 
+). The overall alertness, not shown in the graph, is the resultant of the status of the two components of sleep propensity: the
 homeostatic
- component and the 
+ component and the
 circadian
- component. The 
+ component. The
 blue
  dots are recall data taken from the learning process in SuperMemo that correlate well with overall alertness
 
@@ -3169,7 +3169,7 @@ The main source of the circadian signal is thesuprachiasmatic nucleus (SCN). A s
 
 Thehomeostaticsignal needs to be integrated with the circadian input. The precise mechanism of the integration is not known, but there are a couple of solid hypotheses on how this might work. Theanterior hypothalamusis the presumed site of the integration. The hypothesized integrating nuclei are: the medial preoptic area (MPA), the anterior paraventricular thalamic nucleus (aPVN), and thedorsomedial hypothalamic nucleus (DMH).DMHand MPA send a big bunch of fibers in the direction of the ventrolateral preoptic nucleus (VLPO), which isone of the main brain nuclei responsible for the initiation of sleep.
 
-Sleep control system. See the text for details. See the legend 
+Sleep control system. See the text for details. See the legend
 here
 
 Adenosine agonists are also able to activate theVLPO(Scammell et al. 2001[93]). It has been hypothesized that adenosine inhibits anterior hypothalamic and basal forebrain GABAergic neurons that suppress the activity in theVLPO.
@@ -3196,11 +3196,11 @@ In 1982, a Hungarian sleep researcher,Alexander A. Borbélypublished a seminal p
 
 In short,Borbelynoticed the distinction between the two components of sleepiness:homeostaticsleepiness and circadian sleepiness.Homeostaticsleepiness increases during the day as a result of mental effort.Circadiansleepiness increases at nighttime. Borbely's model argues that for a good night's sleep, you need to go to bed with both components of sleepiness in a high gear. This means that going to sleep early, before your circadian sleepiness kicks in, is a bad idea. You won't be sleepy enough to fall asleep, or your sleep will be shallow and easily interrupted. On the other hand, the model also implies that a premature awakening may clear thehomeostaticsleepiness, and we may find it hard to fall back asleep even though the circadian sleepiness ensures we are pretty tired.
 
-An exemplary interpretation of the two process model of sleep for normal sleep and sleep following a sleepless night. 
+An exemplary interpretation of the two process model of sleep for normal sleep and sleep following a sleepless night.
 Homeostatic
- sleepiness is denoted as Process S (throughout this article, I use H for mnemonic reasons). Circadian sleepiness is an inverse of Process C. Sleep occurs when C is low and S is high. Additional sleep pressure accumulates after a night without sleep, and the sleep can occur earlier and last longer (it starts at higher 
+ sleepiness is denoted as Process S (throughout this article, I use H for mnemonic reasons). Circadian sleepiness is an inverse of Process C. Sleep occurs when C is low and S is high. Additional sleep pressure accumulates after a night without sleep, and the sleep can occur earlier and last longer (it starts at higher
 homeostatic
- sleepiness despite slightly lower 
+ sleepiness despite slightly lower
 circadian
  sleepiness). SWA - slow-wave activity - is a brain wave activity that represents the deepest sleep. TST - total sleep time - is higher after a sleepless night.
 
@@ -3210,15 +3210,15 @@ During sleep, cortical slow-wave activity (EEG power density range of 0.7 to 4.5
 
 A two-component model of sleep propensity, inspired byBorbélymodel is available inSuperMemo. It makes it possible to predict changes in alertness depending on the timing and duration of sleep.
 
-An exemplary interpretation of the two-process model taken from an actual sleep log in 
+An exemplary interpretation of the two-process model taken from an actual sleep log in
 SuperMemo
-. 
+.
 Aqua line
- represents circadian sleepiness. 
+ represents circadian sleepiness.
 Green line
- represents 
+ represents
 homeostatic
- alertness (an inverse of the homeostatic sleep propensity). 
+ alertness (an inverse of the homeostatic sleep propensity).
 Red line
  represents overall alertness that is an inverse of overall sleep propensity. Best alertness is achieved when both components of sleepiness are at their lowest.
 
@@ -3246,7 +3246,7 @@ Phase response curve (PRC) represents a function that tells us how much a phase 
 
 For example,PRCfor light may tell us that applying a green light pulse of a given intensity 1 hour before sleep pushes the circadian cycle forward by 10 minutes (phase delay), while a blue light of a higher density might push the same cycle by 25 minutes. During the subjective night, there is a dead zone when light does not produce shifts in the circadian cycle.
 
-Exemplary human PRCs for bright light, dim light, and 
+Exemplary human PRCs for bright light, dim light, and
 melatonin
 .
 
@@ -3286,7 +3286,7 @@ The graph presented below implies that, in the case considered, delaying sleep b
 
 Delaying sleep should always be avoided (except for cases where it is used as a form of chronotherapy). The next graph shows how sleep delays can actually advance the sleep phase. This is a reverse situation to the described earlier phase delay caused by an eveningmelatoninoverdose. Where the wakefulness intrudes past the circadianacrophase, which follows the stationary point of the rPRC, phase delays decrease rapidly up to a point where further delay in sleep will push the phase backwards. Naturally, this "method" of phase manipulation is particularly unhealthy as it implies arousal in the middle of thesubjective night(see:Health effects of shift-work and jetlag).
 
-Recursive 
+Recursive
 PRC
  showing phase advanced that can be caused by either (1) bedtime delays of above 5 hours, or (2) bedtime advances of more than 2 hours.
 
@@ -3328,29 +3328,29 @@ InBorbély model, the timing of sleep is determined by the points in which the c
 
 To see the predictions of the model for your own sleep data for any given day, make sure you have your sleep log filled out for recent days in SleepChart, and shift-click the day in question in the sleep log.
 
-Two-component sleep model in SuperMemo: The horizontal axis represents time. 
+Two-component sleep model in SuperMemo: The horizontal axis represents time.
 Blue blocks
- show the actual sleep episodes. 
+ show the actual sleep episodes.
 Aqua line
- shows the 24h circadian sleep drive with a mid-day 
+ shows the 24h circadian sleep drive with a mid-day
 siesta
- hump. 
+ hump.
 Green line
- is an inverse of the homeostatic sleep drive and can be interpreted as 
+ is an inverse of the homeostatic sleep drive and can be interpreted as
 homeostatic
- alertness, which declines exponentially during wakefulness and is quickly restored by slow-wave sleep (for simplicity, as in 
+ alertness, which declines exponentially during wakefulness and is quickly restored by slow-wave sleep (for simplicity, as in
 Borbely model
-, the entire sleep block is assumed to have a contribution proportional to its length, as the 
+, the entire sleep block is assumed to have a contribution proportional to its length, as the
 SleepChart
- model does not account for sleep stages). 
+ model does not account for sleep stages).
 Yellow vertical lines
- show the prediction of the circadian 
+ show the prediction of the circadian
 acrophase
- (circadian middle-of-the-night peak). 
+ (circadian middle-of-the-night peak).
 Acrophase
- computations are done with the help of a 
+ computations are done with the help of a
 phase response curve
- model (as opposed to a statistical model used in earlier versions of SleepChart). 
+ model (as opposed to a statistical model used in earlier versions of SleepChart).
 Red line
  shows the resultant alertness (peaks are best for learning, valleys are best for sleep). For example, Alertness on Oct 1, 2008 at 7:43 was predicted to be at 59% of the maximum but would keep increasing fast in the first 2 hours of wakefulness (a typical symptom of a night sleep that is terminated too early). The picture shows two peaks in alertness on Oct 1, 2008, at 9 am and at 7 pm. Those periods would likely be best suited for learning on that day.
 
@@ -3599,7 +3599,7 @@ NREM sleep has magic powers! If you fall asleep for just a couple of minutes and
 
 Two-component model in SuperMemo shows how a 19 min. nap can nearly double the homeostatic component of alertness (
 green line
-). (for more details see: 
+). (for more details see:
 Two-component model of sleep in SleepChart
 ). This theoretical model is backed by years of sleep and learning data.
 
@@ -4056,9 +4056,9 @@ monophasic sleepsleep pattern that includes only one long night sleep episode in
 
 MPO
 
-Also 
+Also
 MPA
-, 
+,
 MPOA
  medial preoptic area, one of the brain centers responsible for integrating information needed for the initiation of sleep. MPOA is also involved in parenting and sexual behaviors (incl. sexual preferences)
 
@@ -4078,7 +4078,7 @@ PRCphase response curve, a curve that illustrates how body responds to signals t
 
 PVN
 
-Also 
+Also
 PVH
  paraventricular nucleus of the hypothalamus, one of the brain centers responsible for the integration of sleep initiation stimuli
 
@@ -4226,7 +4226,7 @@ VLPOventrolateral preoptic nucleus, one of the main centers responsible for the 
 * our tiredness from waking is high (high homeostatic sleep propensity), and
 * our body clock says "bedtime" (high circadian sleep propensity)
 
-(see: 
+(see:
 Borbely model
 )
 

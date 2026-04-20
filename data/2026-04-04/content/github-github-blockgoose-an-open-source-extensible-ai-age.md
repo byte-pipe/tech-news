@@ -11,7 +11,7 @@ description: an open source, extensible AI agent that goes beyond code suggestio
 
 block
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork3.3k
 * Star35.3k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -318,66 +318,66 @@ block.github.io/goose/
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 35.3k
 
  stars
- 
+
 
 ### Watchers
 
 186
 
  watching
- 
+
 
 ### Forks
 
 3.3k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases126
 
@@ -385,11 +385,11 @@ v1.29.1
 
  Latest
 
- 
+
 
 Apr 3, 2026
 
- 
+
 
 + 125 releases
 
@@ -397,9 +397,9 @@ Apr 3, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors438
 

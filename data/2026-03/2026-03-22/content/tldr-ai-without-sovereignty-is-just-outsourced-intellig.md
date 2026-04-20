@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Floyd DCosta
 
 Contributor
@@ -22,13 +22,13 @@ Opinion
 
 Mar 19, 2026
 9 mins
- 
+
 
 ## The race to adopt AI is accelerating, but most enterprises are building dependency, not capability. Here's what CIOs must do differently.
 
- 
 
-							Credit: 															
+
+							Credit:
 Sasun Bughdaryan
 
 There’s a quiet assumption baked into most AI adoption conversations: that access equals advantage.
@@ -120,27 +120,27 @@ Artificial Intelligence
 Data Management
 IT Strategy
 IT Leadership
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Floyd DCosta															
+														by
+
+																Floyd DCosta
 
 Contributor
 
@@ -156,12 +156,12 @@ Podcasts
 Videos
 
 events promotion
- 
- 
+
+
 
 ### CIO 100 Leadership Live Atlanta: AI spending enters a reckoning phase
 
- 
+
 By Lane Cooper
 Mar 20, 2026
 8 mins
@@ -171,12 +171,12 @@ Foundry Events
 Industry
 
 news
- 
- 
+
+
 
 ### Are nations ready to be the cybersecurity insurers of last resort?
 
- 
+
 By Paul Barker
 Mar 20, 2026
 5 mins
@@ -186,12 +186,12 @@ Cybercrime
 Government
 
 news
- 
- 
+
+
 
 ### Trump’s federal AI policy framework aims to undercut state laws
 
- 
+
 By Cynthia Brumfield
 Mar 20, 2026
 6 mins
@@ -201,49 +201,49 @@ Government
 Laws and Regulations
 
 podcast
- 
+
 Sponsored by Vertesia
- 
+
 
 ### Episode 3: Internal alignment: How the CIO can mobilize the entire IT organization for AI
 
- 
+
 Mar 10, 2026
 27 mins
 
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### CIO Leadership Live Australia with Ram Kalyanasundaram, Technology & Digital Transformation Director, Lion
 
- 
+
 Mar 9, 2026
 40 mins
 
 CIO Leadership Live
 
 podcast
- 
- 
+
+
 
 ### From Paper Checks to AI: How Deluxe Is Reinventing Itself as a Digital Payments Company
 
- 
+
 Mar 5, 2026
 25 mins
 
 CIO Leadership Live
 
 video
- 
- 
+
+
 
 ### How Pega Blueprint Uses AI to Turn Workflows Into Running Apps in Minutes
 
- 
+
 Mar 18, 2026
 20 mins
 
@@ -252,12 +252,12 @@ Generative AI
 Process Improvement
 
 video
- 
- 
+
+
 
 ### How Phenom's AI Voice Agent Helps Enterprises Screen Job Candidates Faster
 
- 
+
 Mar 11, 2026
 20 mins
 
@@ -265,12 +265,12 @@ Artificial Intelligence
 Hiring
 
 video
- 
- 
+
+
 
 ### CIO Leadership Live Australia with Ram Kalyanasundaram, Technology & Digital Transformation Director, Lion
 
- 
+
 Mar 9, 2026
 40 mins
 

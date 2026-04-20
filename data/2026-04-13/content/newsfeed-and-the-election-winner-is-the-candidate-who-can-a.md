@@ -24,7 +24,7 @@ Analysis
 
 # And the election winner is … the candidate who can afford Africa’s soaring nomination fees
 
-Suzgo Chitete 
+Suzgo Chitete
 
 Presidential elections in Djibouti and Benin at the weekend highlighted how a costly electoral system is reshaping democracy
 

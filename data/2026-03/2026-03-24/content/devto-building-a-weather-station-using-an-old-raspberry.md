@@ -64,7 +64,7 @@ It is not still perfect. When the device temperature is close to 30º the differ
 In the next article I'll describe my Python learnings implementing the software to gather the measures, display it and sending it to an external system.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

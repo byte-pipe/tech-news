@@ -15,7 +15,7 @@ tags:
 
 anthropics
 
- 
+
 
 /
 
@@ -43,8 +43,8 @@ model
 ## Description
 
 stellaraccident
-opened 
-on 
+opened
+on
 Apr 2, 2026
 Issue body actions
 

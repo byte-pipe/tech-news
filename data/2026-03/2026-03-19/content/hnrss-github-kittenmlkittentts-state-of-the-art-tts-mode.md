@@ -14,7 +14,7 @@ tags:
 
 KittenML
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork637
 * Star11.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -194,43 +194,43 @@ pip install https://github.com/KittenML/KittenTTS/releases/download/0.8.1/kitten
 ### Basic Usage
 
 from
- 
+
 kittentts
- 
+
 import
- 
+
 KittenTTS
 
 model
- 
+
 =
- 
+
 KittenTTS
 (
 "KittenML/kitten-tts-mini-0.8"
 )
 
 audio
- 
+
 =
- 
+
 model
 .
 generate
 (
 "This high-quality TTS model runs without a GPU."
-, 
+,
 voice
 =
 "Jasper"
 )
 
 import
- 
+
 soundfile
- 
+
 as
- 
+
 sf
 
 sf
@@ -238,9 +238,9 @@ sf
 write
 (
 "output.wav"
-, 
+,
 audio
-, 
+,
 24000
 )
 
@@ -249,19 +249,19 @@ audio
 # Adjust speech speed (default: 1.0)
 
 audio
- 
+
 =
- 
+
 model
 .
 generate
 (
 "Hello, world."
-, 
+,
 voice
 =
 "Luna"
-, 
+,
 speed
 =
 1.2
@@ -274,13 +274,13 @@ model
 generate_to_file
 (
 "Hello, world."
-, 
+,
 "output.wav"
-, 
+,
 voice
 =
 "Bruno"
-, 
+,
 speed
 =
 0.9
@@ -479,51 +479,51 @@ State-of-the-art TTS model under 25MB 😻
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 11.5k
 
  stars
- 
+
 
 ### Watchers
 
 114
 
  watching
- 
+
 
 ### Forks
 
 637
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases3
 
@@ -531,11 +531,11 @@ Custom properties
 
  Latest
 
- 
+
 
 Feb 24, 2026
 
- 
+
 
 + 2 releases
 
@@ -551,9 +551,9 @@ Feb 24, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors3
 

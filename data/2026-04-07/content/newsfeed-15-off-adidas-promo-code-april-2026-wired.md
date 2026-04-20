@@ -60,17 +60,17 @@ There’s also theAfterpaybuy option, which allows you to buy shoes now, and pay
 As everyone around the globe—literally—is gearing up for the Soccer World Cup, Adidas is here to make sure you’re game time ready withAdidas FIFA World Cup merchandise, like updated jerseys, kits, and fits to make sure you’re representing your favorite or hometown team with pride.
 
 Molly Higgins
- is WIRED's Commerce Production and Operations Coordinator. She tests 
+ is WIRED's Commerce Production and Operations Coordinator. She tests
 mattresses
-, 
+,
 cat gadgets
-, 
+,
 pet hair vacuums
-, 
+,
 vegan meal kits
-, and helps oversee our 
+, and helps oversee our
 coupon program
-. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ... 
+. She graduated with a bachelor’s degree in English from UCLA and an MFA in creative nonfiction writing from the University of Missouri–Kansas City. She ...
 Read More
 Commerce Production and Operations Coordinator
 * LinkedIn

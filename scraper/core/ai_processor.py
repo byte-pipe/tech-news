@@ -70,25 +70,12 @@ def summarize_content(date_dir, model_name=None, max_files=0, fallback_model=Non
         except Exception as e:
             logger.error(f"Failed to create content directory: {str(e)}")
 
-        # Look for content files directly in the date directory as fallback
+        # Warn if there are markdown files in the date directory but not in content/
         date_dir_path = os.path.dirname(content_dir)
         if os.path.exists(date_dir_path):
-            logger.info(f"Checking for content files directly in date directory: {date_dir_path}")
             md_files = [f for f in os.listdir(date_dir_path) if f.endswith(".md")]
             if md_files:
-                logger.info(f"Found {len(md_files)} markdown files in date directory")
-                # We found some files, but they're not in the content directory
-                # Copy them to the content directory
-                try:
-                    for file in md_files:
-                        src = os.path.join(date_dir_path, file)
-                        dst = os.path.join(content_dir, file)
-                        import shutil
-
-                        shutil.copy2(src, dst)
-                    logger.info(f"Copied {len(md_files)} files to content directory")
-                except Exception as e:
-                    logger.error(f"Failed to copy files to content directory: {str(e)}")
+                logger.warning(f"Found {len(md_files)} markdown files in date directory but content/ dir is missing — these may not be article content files")
 
     # Create summaries directory if it doesn't exist
     os.makedirs(summary_dir, exist_ok=True)
@@ -261,7 +248,7 @@ def summarize_with_anthropic(date_dir, api_key=None, model=None, max_files=0, pr
 
                 if content.startswith("---"):
                     _, frontmatter, content = content.split("---", 2)
-                    metadata = yaml.safe_load(frontmatter)
+                    metadata = yaml.safe_load(frontmatter) or {}
                 else:
                     metadata = {}
 

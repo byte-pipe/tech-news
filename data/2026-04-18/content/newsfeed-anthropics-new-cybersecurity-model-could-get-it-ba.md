@@ -27,8 +27,8 @@ CEO Dario Amodei reportedly had a meeting at the White House on Friday.
 CEO Dario Amodei reportedly had a meeting at the White House on Friday.
 
 by
- 
- 
+
+
 Hayden Field
 Apr 17, 2026, 8:14 PM UTC
 * Link
@@ -36,7 +36,7 @@ Apr 17, 2026, 8:14 PM UTC
 * Gift
 Image: Cath Virginia / The Verge, Getty Images
 Hayden Field
- 
+
 is The Verge’s senior AI reporter. An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets.
 
 The Trump administration has spent nearly two months fighting with AI company Anthropic. It’sdubbed the companya “RADICAL LEFT, WOKE COMPANY” full of “Leftwing nut jobs” and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic’sbuzzy new cybersecurity-focused model: Claude Mythos Preview.
@@ -81,19 +81,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

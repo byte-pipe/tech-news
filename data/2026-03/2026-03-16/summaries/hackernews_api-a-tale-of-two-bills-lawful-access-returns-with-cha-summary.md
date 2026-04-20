@@ -11,7 +11,7 @@ summarized_at: 2026-03-16T11:28:13.349064
 
 # The Lawful Access Bill: Enhancements Over Warrantless Access with New Rules
 
-The Lawful Access Act (Bill C-22) has entered its second phase after attempts to embed changes in the border measures bill. This legislation addresses two main aspects of lawful access: 
+The Lawful Access Act (Bill C-22) has entered its second phase after attempts to embed changes in the border measures bill. This legislation addresses two main aspects of lawful access:
 *   **Law enforcement access** to personal information from communication service providers such as ISPs and wireless providers
 *   **Development of surveillance and monitoring capabilities within Canadian networks**
 

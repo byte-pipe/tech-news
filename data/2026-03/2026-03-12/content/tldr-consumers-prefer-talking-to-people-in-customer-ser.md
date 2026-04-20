@@ -13,29 +13,29 @@ tags:
 
 An article from
 
- 
+
  Dive Brief
- 
- 
+
+
 
 # Consumers prefer talking to people in customer service
 
 Two-thirds of consumers are not confident with how companies use generative AI to interact with customers, a Pegasystems survey found.
 
  Published March 9, 2026
- 
+
 
  Getty Images
- 
+
 
  Listen to the article
- 
+
 3 min
 
- This audio is auto-generated. Please let us know if you have 
+ This audio is auto-generated. Please let us know if you have
 feedback
 .
- 
+
 
 ### Dive Brief:
 

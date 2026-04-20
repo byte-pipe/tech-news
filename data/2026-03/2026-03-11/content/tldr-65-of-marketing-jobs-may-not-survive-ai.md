@@ -13,9 +13,9 @@ tags:
 
 Anthropic
 
- 
 
-By 
+
+By
 Mark Ritson
 
 Good marketers read this column. Serious marketers build the foundations behind it.MiniMBA in Marketingbegins April 7.Apply now.
@@ -42,7 +42,7 @@ This report does not represent the idle fears of marketers contemplating the ris
 
 This is an independent, empirical estimate ranking every industry and projecting marketing almost at the top of the vulnerability table.
 
- 
+
 
 Anthropic
 
@@ -68,16 +68,16 @@ The Bureau of Labor Statistics projects that occupations with higher AI exposure
 
 When the number of available roles drops, those currently employed stay put. Sure enough, the U.S. voluntary quit rate has fallen to 2%, the lowest in a decade, according to the BLS JOLTS data.
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 AI Is Making Marketing Jobs Harder
- 
- 
- 
+
+
+
 
 Less movement means the job market stagnates. When people stop leaving roles, roles stop being backfilled. And when roles aren’t backfilled, something insidious happens: the organization discovers it didn’t need those roles anyway.
 
@@ -109,6 +109,6 @@ The structural foundations of marketing are creaking. Tectonic change is underwa
 
 At least 65% different, if Anthropic is correct.
 
- 
+
 
 #### Mark RitsonMark Ritson has a PhD in Marketing and spent 25 years working as a marketing professor, and has also worked as both a global brand consultant and as the in-house brand consultant for LVMH. His articles have appeared in the Sloan Management Review, Harvard Business Review, the Journal of Advertising and the Journal of Consumer Research.

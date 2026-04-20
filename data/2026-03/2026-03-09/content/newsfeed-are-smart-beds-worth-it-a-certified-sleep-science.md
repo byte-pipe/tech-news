@@ -190,7 +190,7 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Julia Forbes
- is a product writer and reviewer for the WIRED Reviews team, focused on all things related to sleeping well: mattresses, sheets, pillows, toppers, and tech. She is a Spencer Institute-certified Sleep Science coach and has been testing mattresses and sleep products for more than five years. Previously, Julia ... 
+ is a product writer and reviewer for the WIRED Reviews team, focused on all things related to sleeping well: mattresses, sheets, pillows, toppers, and tech. She is a Spencer Institute-certified Sleep Science coach and has been testing mattresses and sleep products for more than five years. Previously, Julia ...
 Read More
 Product Writer and Reviewer
 * LinkedIn

@@ -14,11 +14,11 @@ tags:
 ---
 
 Home
- 
- 
+
+
 Design
- 
- 
+
+
 Abstract Geometric Vector Shapes That Make Everything Around Them Look Timid
 Set of Abstract Geometric Vector Shapes of Bold Colors and Gradients by Oleg R.
 ReddIt
@@ -36,8 +36,8 @@ Viber
 Email
 Flip
 
- 
- 
+
+
 
 This post contains affiliate links. We may earn a commission if you click on them and make a purchase. It’s at no extra cost to you and helps us run this site. Thanks for your support!
 
@@ -182,51 +182,51 @@ Technology, music, entertainment, gaming, sports, and fashion brands benefit mos
 
 Take a look at WE AND THE COLOR’sTemplatescategory for more.
 
- 
+
 
 #### RELATED ARTICLESMORE FROM AUTHOR
 
- 
+
 Design
 
 ### A Proposal and Portfolio Brochure Template for InDesign That Actually Wins Clients
 
- 
+
 Design
 
 ### A Book Layout Design That Commands Attention: Tom Sarraipo’s Colorful InDesign Template Reviewed
 
- 
+
 Branding
 
 ### How to Create Brand Guidelines Fast Using Adobe InDesign Templates
 
- 
+
 Design
 
 ### Adobe Creative Cloud vs. Buying Design Apps Separately: The Real Cost Breakdown
 
- 
+
 Design
 
 ### How to Build a Client Presentation in 30 Minutes Using Adobe Stock Templates
 
- 
+
 Design
 
 ### Catzilla Is the Japanese Vintage Poster Illustration Photoshop Template That Earns Its Chaos
 
- 
+
 Design
 
 ### The Difference Between a Portfolio That Gets Views and One That Gets Clients
 
- 
+
 Design
 
 ### An Adobe InDesign Resume and Cover Letter Template That Proves Less Is Always More
 
- 
+
 Design
 
 ### An Interior Design Presentation Template That Changes How Designers Win Clients

@@ -22,13 +22,13 @@ Security Team
 /
 Security Bulletin
 Copy URL
- 
+
 Copy page
 Ask AI about this page
 2
  min read
 Last updated
- 
+
 April 19, 2026
 
 We’ve identified a security incident that involved unauthorized access to certain internal Vercel systems. We are actively investigating, and we have engaged incident response experts to help investigate and remediate. We have notified law enforcement and will update this page as the investigation progresses.

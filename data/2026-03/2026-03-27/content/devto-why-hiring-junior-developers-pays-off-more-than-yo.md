@@ -152,7 +152,7 @@ I’m curious to hear your thoughts:
 * For senior engineers: how has mentoring juniors impacted your own development?
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -163,6 +163,6 @@ Preview
 Dismiss
 
  View full discussion (33 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

@@ -1,7 +1,7 @@
 ---
 title: GitHub - codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch. · GitHub
 url: https://github.com/codecrafters-io/build-your-own-x
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-17T11:28:27.794854
@@ -62,5 +62,5 @@ The codecrafters-io repository is a collection of guides and tutorials on re-cre
   + A complete implementation from scratch using C#, Go, Nim, Node.js, Python
   + Examples of how to use the client for file sharing and downloading
 
-The guides provided by codecrafters-io offer an unparalleled learning opportunity for developers with limited experience in specific areas. 
+The guides provided by codecrafters-io offer an unparalleled learning opportunity for developers with limited experience in specific areas.
 Building Your Own Technologies

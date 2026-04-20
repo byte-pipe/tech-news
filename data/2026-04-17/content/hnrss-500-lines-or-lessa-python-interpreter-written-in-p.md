@@ -63,43 +63,43 @@ Since we're not concerned with the lexer, parser, and compiler in this chapter, 
 Suppose that
 
 7
- + 
+ +
 5
 
 produces this instruction set:
 
 what_to_execute = {
- 
+
 "instructions"
 : [(
 "LOAD_VALUE"
-, 
+,
 0
-), 
+),
 # the first number
 
  (
 "LOAD_VALUE"
-, 
+,
 1
-), 
+),
 # the second number
 
  (
 "ADD_TWO_VALUES"
-, 
+,
 None
 ),
  (
 "PRINT_ANSWER"
-, 
+,
 None
 )],
- 
+
 "numbers"
 : [
 7
-, 
+,
 5
 ] }
 
@@ -117,57 +117,57 @@ Now let's start to write the interpreter itself. The interpreter object has a st
 
 class
  Interpreter:
- 
+
 def
- 
+
 __init__
 (
 self
 ):
- 
+
 self
 .stack = []
 
- 
+
 def
  LOAD_VALUE(
 self
 , number):
- 
+
 self
 .stack.append(number)
 
- 
+
 def
  PRINT_ANSWER(
 self
 ):
- answer = 
+ answer =
 self
 .stack.pop()
- 
+
 print
 (answer)
 
- 
+
 def
  ADD_TWO_VALUES(
 self
 ):
- first_num = 
+ first_num =
 self
 .stack.pop()
- second_num = 
+ second_num =
 self
 .stack.pop()
  total = first_num + second_num
- 
+
 self
 .stack.append(total)
 
 These three functions implement the three instructions our interpreter understands. The interpreter needs one more piece: a way to tie everything together and actually execute it. This method,run_code, takes thewhat_to_executedictionary defined above as an argument. It loops over each instruction, processes the arguments to that instruction if there are any, and then calls the corresponding method on the interpreter object.
 
- 
+
 def
  run_code(
 self
@@ -178,33 +178,33 @@ self
  numbers = what_to_execute[
 "numbers"
 ]
- 
+
 for
  each_step in instructions:
  instruction, argument = each_step
- 
+
 if
- instruction == 
+ instruction ==
 "LOAD_VALUE"
 :
  number = numbers[argument]
- 
+
 self
 .LOAD_VALUE(number)
- 
+
 elif
- instruction == 
+ instruction ==
 "ADD_TWO_VALUES"
 :
- 
+
 self
 .ADD_TWO_VALUES()
- 
+
 elif
- instruction == 
+ instruction ==
 "PRINT_ANSWER"
 :
- 
+
 self
 .PRINT_ANSWER()
 
@@ -224,45 +224,45 @@ Second, notice that the instruction forADD_TWO_VALUESdid not require any argumen
 Remember that given valid instruction sets, without any changes to our interpreter, we can add more than two numbers at a time. Consider the instruction set below. What do you expect to happen? If you had a friendly compiler, what code could you write to generate this instruction set?
 
  what_to_execute = {
- 
+
 "instructions"
 : [(
 "LOAD_VALUE"
-, 
+,
 0
 ),
  (
 "LOAD_VALUE"
-, 
+,
 1
 ),
  (
 "ADD_TWO_VALUES"
-, 
+,
 None
 ),
  (
 "LOAD_VALUE"
-, 
+,
 2
 ),
  (
 "ADD_TWO_VALUES"
-, 
+,
 None
 ),
  (
 "PRINT_ANSWER"
-, 
+,
 None
 )],
- 
+
 "numbers"
 : [
 7
-, 
+,
 5
-, 
+,
 8
 ] }
 
@@ -272,76 +272,76 @@ At this point, we can begin to see how this structure is extensible: we can add 
 
 Next let's add variables to our interpreter. Variables require an instruction for storing the value of a variable,STORE_NAME; an instruction for retrieving it,LOAD_NAME; and a mapping from variable names to values. For now, we'll ignore namespaces and scoping, so we can store the variable mapping on the interpreter object itself. Finally, we'll have to make sure thatwhat_to_executehas a list of the variable names, in addition to its list of constants.
 
->>> 
+>>>
 def
  s():
-... a = 
+... a =
 1
 
-... b = 
+... b =
 2
 
-... 
+...
 print
 (a + b)
 
 # a friendly compiler transforms `s` into:
 
  what_to_execute = {
- 
+
 "instructions"
 : [(
 "LOAD_VALUE"
-, 
+,
 0
 ),
  (
 "STORE_NAME"
-, 
+,
 0
 ),
  (
 "LOAD_VALUE"
-, 
+,
 1
 ),
  (
 "STORE_NAME"
-, 
+,
 1
 ),
  (
 "LOAD_NAME"
-, 
+,
 0
 ),
  (
 "LOAD_NAME"
-, 
+,
 1
 ),
  (
 "ADD_TWO_VALUES"
-, 
+,
 None
 ),
  (
 "PRINT_ANSWER"
-, 
+,
 None
 )],
- 
+
 "numbers"
 : [
 1
-, 
+,
 2
 ],
- 
+
 "names"
 : [
 "a"
-, 
+,
 "b"
 ] }
 
@@ -351,50 +351,50 @@ The arguments to an instruction can now mean two different things: They can eith
 
 class
  Interpreter:
- 
+
 def
- 
+
 __init__
 (
 self
 ):
- 
+
 self
 .stack = []
- 
+
 self
 .environment = {}
 
- 
+
 def
  STORE_NAME(
 self
 , name):
- val = 
+ val =
 self
 .stack.pop()
- 
+
 self
 .environment[name] = val
 
- 
+
 def
  LOAD_NAME(
 self
 , name):
- val = 
+ val =
 self
 .environment[name]
- 
+
 self
 .stack.append(val)
 
- 
+
 def
  parse_argument(
 self
 , instruction, argument, what_to_execute):
- 
+
 """ Understand what the argument to each instruction means."""
 
  numbers = [
@@ -402,28 +402,28 @@ self
 ]
  names = [
 "LOAD_NAME"
-, 
+,
 "STORE_NAME"
 ]
 
- 
+
 if
  instruction in numbers:
  argument = what_to_execute[
 "numbers"
 ][argument]
- 
+
 elif
  instruction in names:
  argument = what_to_execute[
 "names"
 ][argument]
 
- 
+
 return
  argument
 
- 
+
 def
  run_code(
 self
@@ -431,58 +431,58 @@ self
  instructions = what_to_execute[
 "instructions"
 ]
- 
+
 for
  each_step in instructions:
  instruction, argument = each_step
- argument = 
+ argument =
 self
 .parse_argument(instruction, argument, what_to_execute)
 
- 
+
 if
- instruction == 
+ instruction ==
 "LOAD_VALUE"
 :
- 
+
 self
 .LOAD_VALUE(argument)
- 
+
 elif
- instruction == 
+ instruction ==
 "ADD_TWO_VALUES"
 :
- 
+
 self
 .ADD_TWO_VALUES()
- 
+
 elif
- instruction == 
+ instruction ==
 "PRINT_ANSWER"
 :
- 
+
 self
 .PRINT_ANSWER()
- 
+
 elif
- instruction == 
+ instruction ==
 "STORE_NAME"
 :
- 
+
 self
 .STORE_NAME(argument)
- 
+
 elif
- instruction == 
+ instruction ==
 "LOAD_NAME"
 :
- 
+
 self
 .LOAD_NAME(argument)
 
 Even with just five instructions, therun_codemethod is starting to get tedious. If we kept this structure, we'd need one branch of theifstatement for each instruction. Here, we can make use of Python's dynamic method lookup. We'll always define a method calledFOOto execute the instruction calledFOO, so we can use Python'sgetattrfunction to look up the method on the fly instead of using the bigifstatement. Therun_codemethod then looks like this:
 
- 
+
 def
  execute(
 self
@@ -490,25 +490,25 @@ self
  instructions = what_to_execute[
 "instructions"
 ]
- 
+
 for
  each_step in instructions:
  instruction, argument = each_step
- argument = 
+ argument =
 self
 .parse_argument(instruction, argument, what_to_execute)
- bytecode_method = 
+ bytecode_method =
 getattr
 (
 self
 , instruction)
- 
+
 if
- argument is 
+ argument is
 None
 :
  bytecode_method()
- 
+
 else
 :
  bytecode_method(argument)
@@ -517,35 +517,35 @@ else
 
 At this point, we'll abandon our toy instruction sets and switch to real Python bytecode. The structure of bytecode is similar to our toy interpreter's verbose instruction sets, except that it uses one byte instead of a long name to identify each instruction. To understand this structure, we'll walk through the bytecode of a short function. Consider the example below:
 
->>> 
+>>>
 def
  cond():
-... x = 
+... x =
 3
 
-... 
+...
 if
- x < 
+ x <
 5
 :
-... 
+...
 return
- 
+
 'yes'
 
-... 
+...
 else
 :
-... 
+...
 return
- 
+
 'no'
 
 ...
 
 Python exposes a boatload of its internals at run time, and we can access them right from the REPL. For the function objectcond,cond.__code__is the code object associated it, andcond.__code__.co_codeis the bytecode. There's almost never a good reason to use these attributes directly when you're writing Python code, but they do allow us to get up to all sorts of mischief—and to look at the internals in order to understand them.
 
->>> cond.__code__.co_code 
+>>> cond.__code__.co_code
 # the bytecode as raw bytes
 
 b
@@ -564,75 +564,75 @@ Sd
 Sd
 \x00
 
- 
+
 \x00
 S'
 
->>> 
+>>>
 list
-(cond.__code__.co_code) 
+(cond.__code__.co_code)
 # the bytecode as numbers
 
 [
 100
-, 
+,
 1
-, 
+,
 0
-, 
+,
 125
-, 
+,
 0
-, 
+,
 0
-, 
+,
 124
-, 
+,
 0
-, 
+,
 0
-, 
+,
 100
-, 
+,
 2
-, 
+,
 0
-, 
+,
 107
-, 
+,
 0
-, 
+,
 0
-, 
+,
 114
-, 
+,
 22
-, 
+,
 0
-, 
+,
 100
-, 
+,
 3
-, 
+,
 0
-, 
+,
 83
-, 
- 
+,
+
 100
-, 
+,
 4
-, 
+,
 0
-, 
+,
 83
-, 
+,
 100
-, 
+,
 0
-, 
+,
 0
-, 
+,
 83
 ]
 
@@ -641,78 +641,78 @@ When we just print the bytecode, it looks unintelligible—all we can tell is th
 disis a bytecode disassembler. A disassembler takes low-level code that is written for machines, like assembly code or bytecode, and prints it in a human-readable way. When we rundis.dis, it outputs an explanation of the bytecode it has passed.
 
 >>> dis.dis(cond)
- 
+
 2
- 
+
 0
- LOAD_CONST 
+ LOAD_CONST
 1
  (
 3
 )
- 
+
 3
- STORE_FAST 
+ STORE_FAST
 0
  (x)
 
- 
+
 3
- 
+
 6
- LOAD_FAST 
+ LOAD_FAST
 0
  (x)
- 
+
 9
- LOAD_CONST 
+ LOAD_CONST
 2
  (
 5
 )
- 
+
 12
- COMPARE_OP 
+ COMPARE_OP
 0
  (<)
- 
+
 15
- POP_JUMP_IF_FALSE 
+ POP_JUMP_IF_FALSE
 22
 
- 
+
 4
- 
+
 18
- LOAD_CONST 
+ LOAD_CONST
 3
  (
 'yes'
 )
- 
+
 21
  RETURN_VALUE
 
- 
+
 6
- >> 
+ >>
 22
- LOAD_CONST 
+ LOAD_CONST
 4
  (
 'no'
 )
- 
+
 25
  RETURN_VALUE
- 
+
 26
- LOAD_CONST 
+ LOAD_CONST
 0
  (
 None
 )
- 
+
 29
  RETURN_VALUE
 
@@ -739,78 +739,78 @@ The second and third bytes—1, 0—are arguments toLOAD_CONST, while the fifth 
 So far, the interpreter has executed code simply by stepping through the instructions one by one. This is a problem; often, we want to execute certain instructions many times, or skip them under certain conditions. To allow us to write loops and if statements in our code, the interpreter must be able to jump around in the instruction set. In a sense, Python handles loops and conditionals withGOTOstatements in the bytecode! Look at the disassembly of the functioncondagain:
 
 >>> dis.dis(cond)
- 
+
 2
- 
+
 0
- LOAD_CONST 
+ LOAD_CONST
 1
  (
 3
 )
- 
+
 3
- STORE_FAST 
+ STORE_FAST
 0
  (x)
 
- 
+
 3
- 
+
 6
- LOAD_FAST 
+ LOAD_FAST
 0
  (x)
- 
+
 9
- LOAD_CONST 
+ LOAD_CONST
 2
  (
 5
 )
- 
+
 12
- COMPARE_OP 
+ COMPARE_OP
 0
  (<)
- 
+
 15
- POP_JUMP_IF_FALSE 
+ POP_JUMP_IF_FALSE
 22
 
- 
+
 4
- 
+
 18
- LOAD_CONST 
+ LOAD_CONST
 3
  (
 'yes'
 )
- 
+
 21
  RETURN_VALUE
 
- 
+
 6
- >> 
+ >>
 22
- LOAD_CONST 
+ LOAD_CONST
 4
  (
 'no'
 )
- 
+
 25
  RETURN_VALUE
- 
+
 26
- LOAD_CONST 
+ LOAD_CONST
 0
  (
 None
 )
- 
+
 29
  RETURN_VALUE
 
@@ -820,110 +820,110 @@ The instruction to land on is called the jump target, and it's provided as the a
 
 Python loops also rely on jumping. In the bytecode below, notice that the linewhile x < 5generates almost identical bytecode toif x < 10. In both cases, the comparison is calculated and thenPOP_JUMP_IF_FALSEcontrols which instruction is executed next. At the end of line 4—the end of the loop's body—the instructionJUMP_ABSOLUTEalways sends the interpreter back to instruction 9 at the top of the loop. When x < 5 becomes false, thenPOP_JUMP_IF_FALSEjumps the interpreter past the end of the loop, to instruction 34.
 
->>> 
+>>>
 def
  loop():
-... x = 
+... x =
 1
 
-... 
+...
 while
- x < 
+ x <
 5
 :
-... x = x + 
+... x = x +
 1
 
-... 
+...
 return
  x
 ...
 >>> dis.dis(loop)
- 
+
 2
- 
+
 0
- LOAD_CONST 
+ LOAD_CONST
 1
  (
 1
 )
- 
+
 3
- STORE_FAST 
+ STORE_FAST
 0
  (x)
 
- 
+
 3
- 
+
 6
- SETUP_LOOP 
+ SETUP_LOOP
 26
- (to 
+ (to
 35
 )
- >> 
+ >>
 9
- LOAD_FAST 
+ LOAD_FAST
 0
  (x)
- 
+
 12
- LOAD_CONST 
+ LOAD_CONST
 2
  (
 5
 )
- 
+
 15
- COMPARE_OP 
+ COMPARE_OP
 0
  (<)
- 
+
 18
- POP_JUMP_IF_FALSE 
+ POP_JUMP_IF_FALSE
 34
 
- 
+
 4
- 
+
 21
- LOAD_FAST 
+ LOAD_FAST
 0
  (x)
- 
+
 24
- LOAD_CONST 
+ LOAD_CONST
 1
  (
 1
 )
- 
+
 27
  BINARY_ADD
- 
+
 28
- STORE_FAST 
+ STORE_FAST
 0
  (x)
- 
+
 31
- JUMP_ABSOLUTE 
+ JUMP_ABSOLUTE
 9
 
- >> 
+ >>
 34
  POP_BLOCK
 
- 
+
 5
- >> 
+ >>
 35
- LOAD_FAST 
+ LOAD_FAST
 0
  (x)
- 
+
 38
  RETURN_VALUE
 
@@ -945,34 +945,34 @@ Frames live on thecall stack, a completely different stack from the one we've be
 
 Let's make this concrete with an example. Suppose the Python interpreter is currently executing the line marked 3 below. The interpreter is in the middle of a call tofoo, which is in turn callingbar. The diagram shows a schematic of the call stack of frames, the block stacks, and the data stacks. (This code is written like a REPL session, so we've first defined the needed functions.) At the moment we're interested in, the interpreter is executingfoo(), at the bottom, which then reaches in to the body offooand then up intobar.
 
->>> 
+>>>
 def
  bar(y):
-... z = y + 
+... z = y +
 3
- 
+
 # <--- (3) ... and the interpreter is here.
 
-... 
+...
 return
  z
 ...
->>> 
+>>>
 def
  foo():
-... a = 
+... a =
 1
 
-... b = 
+... b =
 2
 
-... 
+...
 return
- a + bar(b) 
+ a + bar(b)
 # <--- (2) ... which is returning a call to bar ...
 
 ...
->>> foo() 
+>>> foo()
 # <--- (1) We're in the middle of a call to foo ...
 
 3
@@ -1006,43 +1006,43 @@ class
  VirtualMachineError(
 Exception
 ):
- 
+
 pass
 
 class
  VirtualMachine(
 object
 ):
- 
+
 def
- 
+
 __init__
 (
 self
 ):
- 
+
 self
-.frames = [] 
+.frames = []
 # The call stack of frames.
 
- 
+
 self
-.frame = 
+.frame =
 None
- 
+
 # The current frame.
 
- 
+
 self
-.return_value = 
+.return_value =
 None
 
- 
+
 self
-.last_exception = 
+.last_exception =
 None
 
- 
+
 def
  run_code(
 self
@@ -1051,14 +1051,14 @@ None
 , local_names=
 None
 ):
- 
+
 """ An entry point to execute code using the virtual machine."""
 
- frame = 
+ frame =
 self
-.make_frame(code, global_names=global_names, 
+.make_frame(code, global_names=global_names,
  local_names=local_names)
- 
+
 self
 .run_frame(frame)
 
@@ -1070,63 +1070,63 @@ class
  Frame(
 object
 ):
- 
+
 def
- 
+
 __init__
 (
 self
 , code_obj, global_names, local_names, prev_frame):
- 
+
 self
 .code_obj = code_obj
- 
+
 self
 .global_names = global_names
- 
+
 self
 .local_names = local_names
- 
+
 self
 .prev_frame = prev_frame
- 
+
 self
 .stack = []
- 
+
 if
  prev_frame:
- 
+
 self
 .builtin_names = prev_frame.builtin_names
- 
+
 else
 :
- 
+
 self
 .builtin_names = local_names[
 '__builtins__'
 ]
- 
+
 if
- 
+
 hasattr
 (
 self
-.builtin_names, 
+.builtin_names,
 '__dict__'
 ):
- 
+
 self
-.builtin_names = 
+.builtin_names =
 self
 .builtin_names.__dict__
 
- 
+
 self
-.last_instruction = 
+.last_instruction =
 0
 
- 
+
 self
 .block_stack = []
 
@@ -1138,10 +1138,10 @@ object
 ):
  [... snip ...]
 
- 
+
 # Frame manipulation
 
- 
+
 def
  make_frame(
 self
@@ -1150,103 +1150,103 @@ None
 , local_names=
 None
 ):
- 
+
 if
- global_names is not 
+ global_names is not
 None
- and local_names is not 
+ and local_names is not
 None
 :
  local_names = global_names
- 
+
 elif
- 
+
 self
 .frames:
- global_names = 
+ global_names =
 self
 .frame.global_names
  local_names = {}
- 
+
 else
 :
  global_names = local_names = {
- 
+
 '__builtins__'
 : __builtins__,
- 
+
 '__name__'
-: 
+:
 '__main__'
 ,
- 
+
 '__doc__'
-: 
+:
 None
 ,
- 
+
 '__package__'
-: 
+:
 None
 ,
  }
  local_names.update(callargs)
- frame = Frame(code, global_names, local_names, 
+ frame = Frame(code, global_names, local_names,
 self
 .frame)
- 
+
 return
  frame
 
- 
+
 def
  push_frame(
 self
 , frame):
- 
+
 self
 .frames.append(frame)
- 
+
 self
 .frame = frame
 
- 
+
 def
  pop_frame(
 self
 ):
- 
+
 self
 .frames.pop()
- 
+
 if
- 
+
 self
 .frames:
- 
+
 self
-.frame = 
+.frame =
 self
 .frames[-
 1
 ]
- 
+
 else
 :
- 
+
 self
-.frame = 
+.frame =
 None
 
- 
+
 def
  run_frame(
 self
 ):
- 
+
 pass
 
- 
+
 # we'll come back to this shortly
 
 ### TheFunctionClass
@@ -1257,7 +1257,7 @@ class
  Function(
 object
 ):
- 
+
 """
 
  Create a realistic function object, defining the things the interpreter expects.
@@ -1265,163 +1265,163 @@ object
  """
 
  __slots__ = [
- 
+
 'func_code'
-, 
+,
 'func_name'
-, 
+,
 'func_defaults'
-, 
+,
 'func_globals'
 ,
- 
+
 'func_locals'
-, 
+,
 'func_dict'
-, 
+,
 'func_closure'
 ,
- 
+
 '__name__'
-, 
+,
 '__dict__'
-, 
+,
 '__doc__'
 ,
- 
+
 '_vm'
-, 
+,
 '_func'
 ,
  ]
 
- 
+
 def
- 
+
 __init__
 (
 self
 , name, code, globs, defaults, closure, vm):
- 
+
 """You don't need to follow this closely to understand the interpreter."""
 
- 
+
 self
 ._vm = vm
- 
+
 self
 .func_code = code
- 
+
 self
-.func_name = 
+.func_name =
 self
 .
 __name__
  = name or code.co_name
- 
+
 self
-.func_defaults = 
+.func_defaults =
 tuple
 (defaults)
- 
+
 self
 .func_globals = globs
- 
+
 self
-.func_locals = 
+.func_locals =
 self
 ._vm.frame.f_locals
- 
+
 self
 .__dict__ = {}
- 
+
 self
 .func_closure = closure
- 
+
 self
 .__doc__ = code.co_consts[
 0
-] 
+]
 if
- code.co_consts 
+ code.co_consts
 else
- 
+
 None
 
- 
+
 # Sometimes, we need a real Python function. This is for that.
 
  kw = {
- 
+
 'argdefs'
-: 
+:
 self
 .func_defaults,
  }
- 
+
 if
  closure:
  kw[
 'closure'
-] = 
+] =
 tuple
 (make_cell(
 0
-) 
+)
 for
  _ in closure)
- 
+
 self
 ._func = types.FunctionType(code, globs, **kw)
 
- 
+
 def
- 
+
 __call__
 (
 self
 , *args, **kwargs):
- 
+
 """When calling a Function, make a new frame and run it."""
 
  callargs = inspect.getcallargs(
 self
 ._func, *args, **kwargs)
- 
-# Use callargs to provide a mapping of arguments: values to pass into the new 
 
- 
+# Use callargs to provide a mapping of arguments: values to pass into the new
+
+
 # frame.
 
- frame = 
+ frame =
 self
 ._vm.make_frame(
- 
+
 self
-.func_code, callargs, 
+.func_code, callargs,
 self
 .func_globals, {}
  )
- 
+
 return
- 
+
 self
 ._vm.run_frame(frame)
 
 def
  make_cell(value):
- 
+
 """Create a real Python closure and grab a cell."""
 
- 
+
 # Thanks to Alex Gaynor for help with this bit of twistiness.
 
  fn = (
 lambda
- x: 
+ x:
 lambda
 : x)(value)
- 
+
 return
  fn.__closure__[
 0
@@ -1435,70 +1435,70 @@ object
 ):
  [... snip ...]
 
- 
+
 # Data stack manipulation
 
- 
+
 def
  top(
 self
 ):
- 
+
 return
- 
+
 self
 .frame.stack[-
 1
 ]
 
- 
+
 def
  pop(
 self
 ):
- 
+
 return
- 
+
 self
 .frame.stack.pop()
 
- 
+
 def
  push(
 self
 , *vals):
- 
+
 self
 .frame.stack.extend(vals)
 
- 
+
 def
  popn(
 self
 , n):
- 
+
 """Pop a number of values from the value stack.
 
  A list of `n` values is returned, the deepest value first.
 
  """
 
- 
+
 if
  n:
- ret = 
+ ret =
 self
 .frame.stack[-n:]
- 
+
 self
 .frame.stack[-n:] = []
- 
+
 return
  ret
- 
+
 else
 :
- 
+
 return
  []
 
@@ -1514,76 +1514,76 @@ object
 ):
  [... snip ...]
 
- 
+
 def
  parse_byte_and_args(
 self
 ):
- f = 
+ f =
 self
 .frame
  opoffset = f.last_instruction
  byteCode = f.code_obj.co_code[opoffset]
- f.last_instruction += 
+ f.last_instruction +=
 1
 
  byte_name = dis.opname[byteCode]
- 
+
 if
  byteCode >= dis.HAVE_ARGUMENT:
- 
+
 # index into the bytecode
 
  arg = f.code_obj.co_code[f.last_instruction:f.last_instruction
 +2
-] 
- f.last_instruction += 
+]
+ f.last_instruction +=
 2
- 
+
 # advance the instruction pointer
 
  arg_val = arg[
 0
 ] + (arg[
 1
-] * 
+] *
 256
 )
- 
+
 if
- byteCode in dis.hasconst: 
+ byteCode in dis.hasconst:
 # Look up a constant
 
  arg = f.code_obj.co_consts[arg_val]
- 
+
 elif
- byteCode in dis.hasname: 
+ byteCode in dis.hasname:
 # Look up a name
 
  arg = f.code_obj.co_names[arg_val]
- 
+
 elif
- byteCode in dis.haslocal: 
+ byteCode in dis.haslocal:
 # Look up a local name
 
  arg = f.code_obj.co_varnames[arg_val]
- 
+
 elif
- byteCode in dis.hasjrel: 
+ byteCode in dis.hasjrel:
 # Calculate a relative jump
 
  arg = f.last_instruction + arg_val
- 
+
 else
 :
  arg = arg_val
  argument = [arg]
- 
+
 else
 :
  argument = []
 
- 
+
 return
  byte_name, argument
 
@@ -1595,165 +1595,165 @@ object
 ):
  [... snip ...]
 
- 
+
 def
  dispatch(
 self
 , byte_name, argument):
- 
+
 """ Dispatch by bytename to the corresponding methods.
 
  Exceptions are caught and set on the virtual machine."""
 
- 
+
 # When later unwinding the block stack,
 
- 
+
 # we need to keep track of why we are doing it.
 
- why = 
+ why =
 None
 
- 
+
 try
 :
- bytecode_fn = 
+ bytecode_fn =
 getattr
 (
 self
-, 
+,
 'byte_
 %s
 '
- % byte_name, 
+ % byte_name,
 None
 )
- 
+
 if
- bytecode_fn is 
+ bytecode_fn is
 None
 :
- 
+
 if
  byte_name.startswith(
 'UNARY_'
 ):
- 
+
 self
 .unaryOperator(byte_name[
 6
 :])
- 
+
 elif
  byte_name.startswith(
 'BINARY_'
 ):
- 
+
 self
 .binaryOperator(byte_name[
 7
 :])
- 
+
 else
 :
- 
+
 raise
  VirtualMachineError(
- 
-"unsupported bytecode type: 
+
+"unsupported bytecode type:
 %s
 "
  % byte_name
  )
- 
+
 else
 :
  why = bytecode_fn(*argument)
- 
+
 except
 :
- 
+
 # deal with exceptions encountered while executing the op.
 
- 
+
 self
 .last_exception = sys.exc_info()[:
 2
 ] + (
 None
 ,)
- why = 
+ why =
 'exception'
 
- 
+
 return
  why
 
- 
+
 def
  run_frame(
 self
 , frame):
- 
+
 """Run a frame until it returns (somehow).
 
  Exceptions are raised, the return value is returned.
 
  """
 
- 
+
 self
 .push_frame(frame)
- 
+
 while
- 
+
 True
 :
- byte_name, arguments = 
+ byte_name, arguments =
 self
 .parse_byte_and_args()
 
- why = 
+ why =
 self
 .dispatch(byte_name, arguments)
 
- 
+
 # Deal with any block management we need to do
 
- 
+
 while
  why and frame.block_stack:
- why = 
+ why =
 self
 .manage_block_stack(why)
 
- 
+
 if
  why:
- 
+
 break
 
- 
+
 self
 .pop_frame()
 
- 
+
 if
- why == 
+ why ==
 'exception'
 :
- exc, val, tb = 
+ exc, val, tb =
 self
 .last_exception
  e = exc(val)
  e.__traceback__ = tb
- 
+
 raise
  e
 
- 
+
 return
- 
+
 self
 .return_value
 
@@ -1767,7 +1767,7 @@ The precise details of block manipulation are rather fiddly, and we won't spend 
 
 Block = collections.namedtuple(
 "Block"
-, 
+,
 "type, handler, stack_height"
 )
 
@@ -1777,222 +1777,222 @@ object
 ):
  [... snip ...]
 
- 
+
 # Block stack manipulation
 
- 
+
 def
  push_block(
 self
 , b_type, handler=
 None
 ):
- stack_height = 
+ stack_height =
 len
 (
 self
 .frame.stack)
- 
+
 self
 .frame.block_stack.append(Block(b_type, handler, stack_height))
 
- 
+
 def
  pop_block(
 self
 ):
- 
+
 return
- 
+
 self
 .frame.block_stack.pop()
 
- 
+
 def
  unwind_block(
 self
 , block):
- 
+
 """Unwind the values on the data stack corresponding to a given block."""
 
- 
+
 if
  block.
 type
- == 
+ ==
 'except-handler'
 :
- 
+
 # The exception itself is on the stack as type, value, and traceback.
 
- offset = 
+ offset =
 3
- 
- 
+
+
 else
 :
- offset = 
+ offset =
 0
 
- 
+
 while
- 
+
 len
 (
 self
 .frame.stack) > block.level + offset:
- 
+
 self
 .pop()
 
- 
+
 if
  block.
 type
- == 
+ ==
 'except-handler'
 :
- traceback, value, exctype = 
+ traceback, value, exctype =
 self
 .popn(
 3
 )
- 
+
 self
 .last_exception = exctype, value, traceback
 
- 
+
 def
  manage_block_stack(
 self
 , why):
- 
+
 """ """
 
- frame = 
+ frame =
 self
 .frame
  block = frame.block_stack[-
 1
 ]
- 
+
 if
  block.
 type
- == 
+ ==
 'loop'
- and why == 
+ and why ==
 'continue'
 :
- 
+
 self
 .jump(
 self
 .return_value)
- why = 
+ why =
 None
 
- 
+
 return
  why
 
- 
+
 self
 .pop_block()
- 
+
 self
 .unwind_block(block)
 
- 
+
 if
  block.
 type
- == 
+ ==
 'loop'
- and why == 
+ and why ==
 'break'
 :
- why = 
+ why =
 None
 
- 
+
 self
 .jump(block.handler)
- 
+
 return
  why
 
- 
+
 if
  (block.
 type
  in [
 'setup-except'
-, 
+,
 'finally'
-] and why == 
+] and why ==
 'exception'
 ):
- 
+
 self
 .push_block(
 'except-handler'
 )
- exctype, value, tb = 
+ exctype, value, tb =
 self
 .last_exception
- 
+
 self
 .push(tb, value, exctype)
- 
+
 self
-.push(tb, value, exctype) 
+.push(tb, value, exctype)
 # yes, twice
 
- why = 
+ why =
 None
 
- 
+
 self
 .jump(block.handler)
- 
+
 return
  why
 
- 
+
 elif
  block.
 type
- == 
+ ==
 'finally'
 :
- 
+
 if
  why in (
 'return'
-, 
+,
 'continue'
 ):
- 
+
 self
 .push(
 self
 .return_value)
 
- 
+
 self
 .push(why)
 
- why = 
+ why =
 None
 
- 
+
 self
 .jump(block.handler)
- 
+
 return
  why
- 
+
 return
  why
 
@@ -2006,209 +2006,209 @@ object
 ):
  [... snip ...]
 
- 
+
 ## Stack manipulation
 
- 
+
 def
  byte_LOAD_CONST(
 self
 , const):
- 
+
 self
 .push(const)
 
- 
+
 def
  byte_POP_TOP(
 self
 ):
- 
+
 self
 .pop()
 
- 
+
 ## Names
 
- 
+
 def
  byte_LOAD_NAME(
 self
 , name):
- frame = 
+ frame =
 self
 .frame
- 
+
 if
  name in frame.f_locals:
  val = frame.f_locals[name]
- 
+
 elif
  name in frame.f_globals:
  val = frame.f_globals[name]
- 
+
 elif
  name in frame.f_builtins:
  val = frame.f_builtins[name]
- 
+
 else
 :
- 
+
 raise
- 
+
 NameError
 (
 "name '
 %s
 ' is not defined"
  % name)
- 
+
 self
 .push(val)
 
- 
+
 def
  byte_STORE_NAME(
 self
 , name):
- 
+
 self
-.frame.f_locals[name] = 
+.frame.f_locals[name] =
 self
 .pop()
 
- 
+
 def
  byte_LOAD_FAST(
 self
 , name):
- 
+
 if
- name in 
+ name in
 self
 .frame.f_locals:
- val = 
+ val =
 self
 .frame.f_locals[name]
- 
+
 else
 :
- 
+
 raise
- 
+
 UnboundLocalError
 (
- 
+
 "local variable '
 %s
 ' referenced before assignment"
  % name
  )
- 
+
 self
 .push(val)
 
- 
+
 def
  byte_STORE_FAST(
 self
 , name):
- 
+
 self
-.frame.f_locals[name] = 
+.frame.f_locals[name] =
 self
 .pop()
 
- 
+
 def
  byte_LOAD_GLOBAL(
 self
 , name):
- f = 
+ f =
 self
 .frame
- 
+
 if
  name in f.f_globals:
  val = f.f_globals[name]
- 
+
 elif
  name in f.f_builtins:
  val = f.f_builtins[name]
- 
+
 else
 :
- 
+
 raise
- 
+
 NameError
 (
 "global name '
 %s
 ' is not defined"
  % name)
- 
+
 self
 .push(val)
 
- 
+
 ## Operators
 
  BINARY_OPERATORS = {
- 
+
 'POWER'
-: 
+:
 pow
 ,
- 
+
 'MULTIPLY'
 : operator.mul,
- 
+
 'FLOOR_DIVIDE'
 : operator.floordiv,
- 
+
 'TRUE_DIVIDE'
 : operator.truediv,
- 
+
 'MODULO'
 : operator.mod,
- 
+
 'ADD'
 : operator.add,
- 
+
 'SUBTRACT'
 : operator.sub,
- 
+
 'SUBSCR'
 : operator.getitem,
- 
+
 'LSHIFT'
 : operator.lshift,
- 
+
 'RSHIFT'
 : operator.rshift,
- 
+
 'AND'
 : operator.and_,
- 
+
 'XOR'
 : operator.xor,
- 
+
 'OR'
 : operator.or_,
  }
 
- 
+
 def
  binaryOperator(
 self
 , op):
- x, y = 
+ x, y =
 self
 .popn(
 2
 )
- 
+
 self
 .push(
 self
@@ -2221,202 +2221,202 @@ self
  operator.ne,
  operator.gt,
  operator.ge,
- 
+
 lambda
  x, y: x in y,
- 
+
 lambda
  x, y: x not in y,
- 
+
 lambda
  x, y: x is y,
- 
+
 lambda
  x, y: x is not y,
- 
+
 lambda
- x, y: 
+ x, y:
 issubclass
-(x, 
+(x,
 Exception
-) and 
+) and
 issubclass
 (x, y),
  ]
 
- 
+
 def
  byte_COMPARE_OP(
 self
 , opnum):
- x, y = 
+ x, y =
 self
 .popn(
 2
 )
- 
+
 self
 .push(
 self
 .COMPARE_OPERATORS[opnum](x, y))
 
- 
+
 ## Attributes and indexing
 
- 
+
 def
  byte_LOAD_ATTR(
 self
 , attr):
- obj = 
+ obj =
 self
 .pop()
- val = 
+ val =
 getattr
 (obj, attr)
- 
+
 self
 .push(val)
 
- 
+
 def
  byte_STORE_ATTR(
 self
 , name):
- val, obj = 
+ val, obj =
 self
 .popn(
 2
 )
- 
+
 setattr
 (obj, name, val)
 
- 
+
 ## Building
 
- 
+
 def
  byte_BUILD_LIST(
 self
 , count):
- elts = 
+ elts =
 self
 .popn(count)
- 
+
 self
 .push(elts)
 
- 
+
 def
  byte_BUILD_MAP(
 self
 , size):
- 
+
 self
 .push({})
 
- 
+
 def
  byte_STORE_MAP(
 self
 ):
- the_map, val, key = 
+ the_map, val, key =
 self
 .popn(
 3
 )
  the_map[key] = val
- 
+
 self
 .push(the_map)
 
- 
+
 def
  byte_LIST_APPEND(
 self
 , count):
- val = 
+ val =
 self
 .pop()
- the_list = 
+ the_list =
 self
-.frame.stack[-count] 
+.frame.stack[-count]
 # peek
 
  the_list.append(val)
 
- 
+
 ## Jumps
 
- 
+
 def
  byte_JUMP_FORWARD(
 self
 , jump):
- 
+
 self
 .jump(jump)
 
- 
+
 def
  byte_JUMP_ABSOLUTE(
 self
 , jump):
- 
+
 self
 .jump(jump)
 
- 
+
 def
  byte_POP_JUMP_IF_TRUE(
 self
 , jump):
- val = 
+ val =
 self
 .pop()
- 
+
 if
  val:
- 
+
 self
 .jump(jump)
 
- 
+
 def
  byte_POP_JUMP_IF_FALSE(
 self
 , jump):
- val = 
+ val =
 self
 .pop()
- 
+
 if
  not val:
- 
+
 self
 .jump(jump)
 
- 
+
 ## Blocks
 
- 
+
 def
  byte_SETUP_LOOP(
 self
 , dest):
- 
+
 self
 .push_block(
 'loop'
 , dest)
 
- 
+
 def
  byte_GET_ITER(
 self
 ):
- 
+
 self
 .push(
 iter
@@ -2424,123 +2424,123 @@ iter
 self
 .pop()))
 
- 
+
 def
  byte_FOR_ITER(
 self
 , jump):
- iterobj = 
+ iterobj =
 self
 .top()
- 
+
 try
 :
- v = 
+ v =
 next
 (iterobj)
- 
+
 self
 .push(v)
- 
+
 except
- 
+
 StopIteration
 :
- 
+
 self
 .pop()
- 
+
 self
 .jump(jump)
 
- 
+
 def
  byte_BREAK_LOOP(
 self
 ):
- 
+
 return
- 
+
 'break'
 
- 
+
 def
  byte_POP_BLOCK(
 self
 ):
- 
+
 self
 .pop_block()
 
- 
+
 ## Functions
 
- 
+
 def
  byte_MAKE_FUNCTION(
 self
 , argc):
- name = 
+ name =
 self
 .pop()
- code = 
+ code =
 self
 .pop()
- defaults = 
+ defaults =
 self
 .popn(argc)
- globs = 
+ globs =
 self
 .frame.f_globals
- fn = Function(name, code, globs, defaults, 
+ fn = Function(name, code, globs, defaults,
 None
-, 
+,
 self
 )
- 
+
 self
 .push(fn)
 
- 
+
 def
  byte_CALL_FUNCTION(
 self
 , arg):
- lenKw, lenPos = 
+ lenKw, lenPos =
 divmod
-(arg, 
+(arg,
 256
-) 
+)
 # KWargs not supported here
 
- posargs = 
+ posargs =
 self
 .popn(lenPos)
 
- func = 
+ func =
 self
 .pop()
- frame = 
+ frame =
 self
 .frame
  retval = func(*posargs)
- 
+
 self
 .push(retval)
 
- 
+
 def
  byte_RETURN_VALUE(
 self
 ):
- 
+
 self
-.return_value = 
+.return_value =
 self
 .pop()
- 
+
 return
- 
+
 "return"
 
 ## Dynamic Typing: What the Compiler Doesn't Know
@@ -2549,34 +2549,34 @@ One thing you've probably heard is that Python is a "dynamic" language—particu
 
 One of the things "dynamic" means in this context is that a lot of work is done at run time. We saw earlier that the Python compiler doesn't have much information about what the code actually does. For example, consider the short functionmodbelow.modtakes two arguments and returns the first modulo the second. In the bytecode, we see that the variablesaandbare loaded, then the bytecodeBINARY_MODULOperforms the modulo operation itself.
 
->>> 
+>>>
 def
  mod(a, b):
-... 
+...
 return
  a % b
 >>> dis.dis(mod)
- 
+
 2
- 
+
 0
- LOAD_FAST 
+ LOAD_FAST
 0
  (a)
- 
+
 3
- LOAD_FAST 
+ LOAD_FAST
 1
  (b)
- 
+
 6
  BINARY_MODULO
- 
+
 7
  RETURN_VALUE
 >>> mod(
 19
-, 
+,
 5
 )
 
@@ -2588,7 +2588,7 @@ Calculating 19%5 yields 4—no surprise there. What happens if we call it with d
 "by
 %s
 de"
-, 
+,
 "teco"
 )
 
@@ -2610,7 +2610,7 @@ Just looking at the following code, the first calculation ofa % bseems wasteful.
 def
  mod(a,b):
  a % b
- 
+
 return
  a %b
 

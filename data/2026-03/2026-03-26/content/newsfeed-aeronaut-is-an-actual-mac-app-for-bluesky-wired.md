@@ -62,7 +62,7 @@ Triangle
 * How‘Handala’became the face of Iran’s hacker counterattacks
 * Listen:Nvidia’s ‘Super Bowl of AI,’ and Tesla disappoints
 Justin Pot
- is a freelance journalist who writes tutorials and essays that inform and/or entertain. He loves beer, technology, nature, and people, not necessarily in that order.  ... 
+ is a freelance journalist who writes tutorials and essays that inform and/or entertain. He loves beer, technology, nature, and people, not necessarily in that order.  ...
 Read More
 Contributor
 * X

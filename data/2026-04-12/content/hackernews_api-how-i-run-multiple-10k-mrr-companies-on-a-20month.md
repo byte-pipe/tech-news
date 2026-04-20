@@ -55,10 +55,10 @@ func main() {
  http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
  fmt.Fprintf(w, "Hello, your MRR is safe here.")
  })
- 
+
  // This will comfortably handle 10,000s of requests per second
  // on a potato.
- http.ListenAndServe(":8080", nil) 
+ http.ListenAndServe(":8080", nil)
 }
 
 ## Use Local AI for long-running tasks

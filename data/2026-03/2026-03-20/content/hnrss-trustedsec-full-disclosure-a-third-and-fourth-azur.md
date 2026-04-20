@@ -21,11 +21,11 @@ March 19, 2026
 
  Written by
  @ nyxgeek
- 
+
 
 Vulnerability Assessment
 
- 
+
 
 Table of contents
 
@@ -298,7 +298,7 @@ MicrosoftGraphActivityLogs
  | where TimeGenerated > ago(90d)
  | summarize arg_max(TimeGenerated, *) by UniqueTokenIdentifier
  )
- on $left.SignInActivityId == $right.UniqueTokenIdentifier 
+ on $left.SignInActivityId == $right.UniqueTokenIdentifier
 
 If the above query returns false-positives, you might want to experiment with matching on the broader matching variable,SessionIdinstead:
 
@@ -313,7 +313,7 @@ MicrosoftGraphActivityLogs
  | where TimeGenerated > ago(90d)
  | summarize arg_max(TimeGenerated, *) by UniqueTokenIdentifier
  )
- on $left.SessionId == $right.SessionId 
+ on $left.SessionId == $right.SessionId
 
 If you get it tuned so that you're not getting false alerts, you may want to create an Azure Log Search Alert Rule to notify you if one appears.
 

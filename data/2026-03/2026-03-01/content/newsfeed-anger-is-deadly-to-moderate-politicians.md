@@ -12,7 +12,7 @@ tags:
 ---
 
 International
- | 
+ |
 The Telegram
 
 # Anger is deadly to moderate politicians
@@ -21,7 +21,7 @@ The Telegram
 
 Share
 Illustration: Chloe Cushman
- 
+
 Feb 3rd 2026
 |
 5 min read

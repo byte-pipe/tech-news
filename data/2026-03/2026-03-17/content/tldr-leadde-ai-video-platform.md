@@ -20,7 +20,7 @@ tutorial
 onboarding
 launch
 process
- 
+
 videos with AI
 Auto Layout
 Auto Highlight
@@ -102,15 +102,15 @@ Continuously evolving AI tools that make every step of video creation faster, sm
 
 ## Choose your input method and let AI create your video
 
- 
+
 Topic
- 
+
 File
- 
+
 Text
- 
+
 Script
- 
+
 PPT
 Drag and drop your file here
 Support format: .pptx,.pdf,.doc,.docx,.txt (up to 200MB)
@@ -133,9 +133,9 @@ Dynamic Marketing
 Colorful design
 Create FREE AI video
 By using this service, you confirm you have the necessary rights and that your use complies with our
- 
+
 Acceptable Use Policy
- 
+
 and applicable laws.
 
 ## Empowering teams driven by quality and efficiency

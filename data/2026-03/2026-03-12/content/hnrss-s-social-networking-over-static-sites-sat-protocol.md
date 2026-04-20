@@ -32,12 +32,12 @@ If you already have asatellite/path for something else, add asatproto_root.jsonf
 pointing to the actual repo:
 
 {
- 
+
 "sat_root"
 :
- 
+
 "my-custom-repo"
- 
+
 }
 
 ## sAT Protocol
@@ -70,17 +70,17 @@ The discovery document simply contains the protocol version and the user’s pub
 
 {
 
- 
+
 "satproto_version"
 :
- 
+
 "0.1.0"
 ,
 
- 
+
 "public_key"
 :
- 
+
 "<base64-encoded X25519 public key>"
 
 }
@@ -91,7 +91,7 @@ root containing{ "sat_root": "my-custom-repo" }— the client checks this first.
 
 ## Encryption Model
 
-All user data is stored in an encrypted JSON store. 
+All user data is stored in an encrypted JSON store.
 Only the user and users in the owner’s follow list can decrypt it.
 
 ### Keys
@@ -144,45 +144,45 @@ A post object:
 
 {
 
- 
+
 "id"
 :
- 
+
 "20260309T141500Z-a1b2"
 ,
 
- 
+
 "author"
 :
- 
+
 "alice.com"
 ,
 
- 
+
 "created_at"
 :
- 
+
 "2026-03-09T14:15:00Z"
 ,
 
- 
+
 "text"
 :
- 
+
 "Hello, decentralized world!"
 ,
 
- 
+
 "reply_to"
 :
- 
+
 null
 ,
 
- 
+
 "reply_to_author"
 :
- 
+
 null
 
 }
@@ -199,14 +199,14 @@ GET https://{domain}/satellite/follows/index.json
 
 {
 
- 
+
 "follows"
 :
- 
+
 [
 "bob.example.com"
 ,
- 
+
 "carol.example.com"
 ]
 
@@ -244,7 +244,7 @@ The client publishes posts by:
 3. Pushing the encrypted post asposts/{id}.json.encto user’s static site (e.g. via the GitHub Contents API)
 4. Updatingposts/index.jsonto include the new post ID
 
-Any secrets needed for publishing (e.g. GitHub token) 
+Any secrets needed for publishing (e.g. GitHub token)
  is encrypted inkeys/_self.json(seeSelf Key).
 
 ## Static Site Structure
@@ -285,6 +285,6 @@ Yes, you’ll need to enableCORS.
 1. Of course, if you use a service to host your website, the server will have your (encrypted) data.↩
 2. How do you ask a friend to follow? Idk, text them. Or just ask them in person. You’re friends, right?↩
 
- This site is open source. 
+ This site is open source.
 Improve this page
 .

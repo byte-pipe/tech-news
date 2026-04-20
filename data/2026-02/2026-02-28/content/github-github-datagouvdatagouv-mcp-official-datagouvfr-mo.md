@@ -11,7 +11,7 @@ description: Official data.gouv.fr Model Context Protocol (MCP) server that allo
 
 datagouv
 
- 
+
 
 /
 
@@ -30,41 +30,41 @@ mcp.data.gouv.fr/mcp
 ### License
 
  MIT license
- 
+
 
 618
 
  stars
 
- 
+
 
 50
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # datagouv/datagouv-mcp

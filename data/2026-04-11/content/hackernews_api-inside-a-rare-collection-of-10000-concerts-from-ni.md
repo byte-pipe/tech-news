@@ -16,7 +16,7 @@ tags:
 
 ## Volunteers turn a fan’s recordings of 10,000 concerts into an online treasure trove
 
- 
+
 
 1 of 5
  | 
@@ -25,7 +25,7 @@ Aadam Jacobs poses in front of LP (long play) record storage bookcase at his hom
 
 Read More
 
- 
+
 
 2 of 5
  | 
@@ -34,7 +34,7 @@ Brian Emerick plays a recorded tape at his home in Des Plaines, Ill., Thursday, 
 
 Read More
 
- 
+
 
 3 of 5
  | 
@@ -43,7 +43,7 @@ Brian Emerick poses with his recorded tapes for a photo at his home in Des Plain
 
 Read More
 
- 
+
 
 4 of 5
  | 
@@ -52,7 +52,7 @@ Read More
 
 Read More
 
- 
+
 
 5 of 5
  | 
@@ -62,23 +62,23 @@ Aadam Jacobs plays a LP (long play) record at his home in Chicago, Thursday, Mar
 Read More
 
  By 
- 
+
 CHRISTOPHER WEBER
 
  
 
 Leer en español
  
- 
 
- Add AP News on Google 
+
+ Add AP News on Google
 
  Add AP News as your preferred source to see more of our stories on Google.
- 
+
 
 Share
- 
- 
+
+
 
 On July 8, 1989, a young music fan named Aadam Jacobs, with a compact Sony cassette recorder in his pocket, went to see an up-and-coming rock band from Washington for their debut show in Chicago.
 
@@ -90,10 +90,10 @@ Jacobs went on to record more than 10,000 concerts, with increasingly sophistica
 
 The growingAadam Jacobs Collectionis an internet treasure trove for music lovers, especially for fans of indie and punk rock during the 1980s through the early 2000s, when the scene blossomed and became mainstream. The collection features early-in-their-career performances from alternative and experimental artists like R.E.M., The Cure, The Pixies, The Replacements, Depeche Mode, Stereolab, Sonic Youth and Björk.
 
- 
+
  Related Stories
- 
- 
+
+
 
 Music Review: Holly Humberstone continues constructing her lush pop universe with ‘Cruel World’
 
@@ -111,7 +111,7 @@ There’s also a smattering of hip-hop, including a 1988 concert by rap pioneers
 
 All of it is slowly becoming available for streaming and free download at the nonprofit online repository Internet Archive, including that nascent Nirvana show recording, with the audio from Jacobs’ cassette recorder cleaned up.
 
- Read More 
+ Read More
 
 ## Jacobs’ first recording was in 1984
 

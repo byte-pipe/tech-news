@@ -32,25 +32,25 @@ int
 ;
 
 for
- 
+
 (
 int
- i 
+ i
 =
- 
+
 0
 ;
- i 
+ i
 <
- 
+
 10
 ;
  i
 ++)
- 
+
 {
 
- 
+
 // do something with arr[i]
 
 }
@@ -65,49 +65,49 @@ int
 ;
 
 for
- 
+
 (
 int
- i 
+ i
 =
- 
+
 0
 ;
- i 
+ i
 <
- 
+
 10
 ;
  i
 ++)
- 
+
 {
 
- 
+
 for
- 
+
 (
 int
- j 
+ j
 =
  i
 +
 1
 ;
- j 
+ j
 <
- 
+
 10
 ;
  j
 ++)
- 
+
 {
 
- 
+
 // do something with arr[i] and arr[j]
 
- 
+
 }
 
 }
@@ -179,15 +179,15 @@ enclosed in parentheses, for example
 
 (
 +
- 
+
 2
- 
+
 3
 )
 
 (
 defun
- square 
+ square
 (x)
 
  (
@@ -196,9 +196,9 @@ defun
 
 (
 *
- (square 
+ (square
 3
-) 
+)
 3
 )
 
@@ -251,16 +251,16 @@ Hindley-Milner family that is adequate to represent different kinds of
 functions and tagged unions. All iteration is done by recursion, as
 in
 
-sum : 
+sum :
 list
- 
+
 of
- 
+
 int
- -> 
+ ->
 int
 
-sum [] = 
+sum [] =
 0
 
 sum (x:xs) = x + sum xs
@@ -268,13 +268,13 @@ sum (x:xs) = x + sum xs
 or by defining functions that encapsulate the iteration pattern and
 take another function to implement the behavior.
 
-map : ('a -> 'a) -> 
+map : ('a -> 'a) ->
 list
- 
+
 of
- 'a -> 
+ 'a ->
 list
- 
+
 of
  'a
 
@@ -406,7 +406,7 @@ array in variablex, you would write
 +
 ⌿÷≢
 )
- 
+
 x
 
 Examples. APL, J, K. The higher order operations
@@ -440,21 +440,21 @@ facts by putting in variables (which are capitalized)
 grandfather(
 X
 ,
- 
+
 Y
-) 
+)
 :-
  father(
 X
 ,
- 
+
 Z
 )
 ,
  father(
 Z
 ,
- 
+
 Y
 )
 .

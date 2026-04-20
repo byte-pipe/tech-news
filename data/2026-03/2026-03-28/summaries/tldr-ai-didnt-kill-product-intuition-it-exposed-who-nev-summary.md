@@ -30,14 +30,14 @@ summarized_at: 2026-03-28T01:02:10.103454
 - The resulting conversation becomes a “corpus” of evidence and objections, not a final deliverable.
 
 ## Steps to apply to your next idea
-1. **Pause before building a deck** – treat excitement as a signal to increase scrutiny.  
-2. **Describe the idea plainly** – “I think we should do X because Y; the people who’d care are Z.” Prompt the LLM: “You are a skeptical Head of Product; find three assumptions that will break this.”  
-3. **Build a corpus, not a slide** – each interaction adds context, objections handled, and logic mapped, forming the ammunition for a later pitch.  
+1. **Pause before building a deck** – treat excitement as a signal to increase scrutiny.
+2. **Describe the idea plainly** – “I think we should do X because Y; the people who’d care are Z.” Prompt the LLM: “You are a skeptical Head of Product; find three assumptions that will break this.”
+3. **Build a corpus, not a slide** – each interaction adds context, objections handled, and logic mapped, forming the ammunition for a later pitch.
 4. **Separate surviving ideas from attachments** – keep what survives the interrogation; discard the rest.
 
 ## Final thoughts
 - Feeding the affiliate platform idea to an LLM at the start would have highlighted the missing domain‑expertise question.
 - Strong PMs use AI to dismantle bad ideas early; weak PMs use it to produce superficial proposals.
-- The tool itself isn’t the differentiator; it’s how you leverage the “wreckage” to surface critical kill‑shot questions.  
+- The tool itself isn’t the differentiator; it’s how you leverage the “wreckage” to surface critical kill‑shot questions.
 
 *What’s your kill‑shot question that saved you from a bad bet?*

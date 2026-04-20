@@ -85,17 +85,17 @@ Among those clips isoneof Afroman’s lawyer, Osborne, reminding jurors that Afr
 Ars updated this story on Thursday to remove a line that confused a reference to jury instructions in Afroman’s memo with legal analysis.
 
  Ashley Belanger
- 
+
 
 Senior Policy Reporter
 
  Ashley Belanger
- 
+
 
 Senior Policy Reporter
 
  Ashley is a senior policy reporter for Ars Technica, dedicated to tracking social impacts of emerging policies and new technologies. She is a Chicago-based journalist with 20 years of experience.
- 
+
 
 1. 1.TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs
 2. 2.Coal plant forced to stay open due to emergency order isn't even running

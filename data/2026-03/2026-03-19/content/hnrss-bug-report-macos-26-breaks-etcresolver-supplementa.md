@@ -17,20 +17,20 @@ Instantly share code, notes, and snippets.
 # adamamyl/macos26-breaks-custom-dns.md
 
  Last active
- 
+
 March 19, 2026 18:53
 
- 
+
 
 Show Gist options
 
- 
+
 
 * Download ZIP
 
- 
 
- 
+
+
 
 * Star10(10)You must be signed in to star a gist
 * Fork0(0)You must be signed in to fork a gist
@@ -41,13 +41,13 @@ Show Gist options
 * Clone via HTTPSClone using the web URL.
 * Save adamamyl/81b78eced40feae50eae7c4f3bec1f5a to your computer and use it in GitHub Desktop.
 
- 
+
 
 Embed
 
 # Select an option
 
- 
+
 
 * EmbedEmbed this gist in your website.
 * ShareCopy sharable link for this gist.
@@ -55,35 +55,35 @@ Embed
 
 ## No results found
 
- 
 
- 
- 
+
+
+
 Learn more about clone URLs
 
- 
 
- 
+
+
 
  Clone this repository at &lt;script src=&quot;https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a.js&quot;&gt;&lt;/script&gt;
 
- 
 
- 
+
+
 
 Save adamamyl/81b78eced40feae50eae7c4f3bec1f5a to your computer and use it in GitHub Desktop.
 
 Download ZIP
 
  Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs
- 
 
- 
+
+
 
 Raw
 
  macos26-breaks-custom-dns.md
- 
+
 
 Ah, the joys of waking up to find the Mac's done an overnight upgrade… and erm, suddenly things stop working. Thankfully, me and Claude managed to work out what the fuck is going on… I'm sharing here, as well as having raised in onhttps://feedbackassistant.apple.com/feedback/22280434(that seems to need a login?).
 
@@ -171,7 +171,7 @@ Broken
 
 Widely used convention (not IANA reserved, but irrelevant)
 
-Arbitrary (e.g. 
+Arbitrary (e.g.
 .emflocal
 )
 
@@ -214,7 +214,7 @@ The failure is silent:scutil --dnscorrectly shows the resolver configuration is 
 * RFC 8375 — Special-Use Domainhome.arpa
 * IETF draft-ietf-dnsop-interneti-mdn —.internalspecial-use proposal
 
- 
+
 
 ### tinyappscommentedMar 19, 2026
 
@@ -226,11 +226,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### peterccommentedMar 19, 2026
 
@@ -242,11 +242,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### FrizlabcommentedMar 19, 2026•edited
 
@@ -258,11 +258,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Author
 
@@ -278,11 +278,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Author
 
@@ -298,11 +298,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Author
 
@@ -318,11 +318,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ralgozinocommentedMar 19, 2026•edited
 
@@ -338,11 +338,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### tinyappscommentedMar 19, 2026
 
@@ -358,11 +358,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### vsviridovcommentedMar 19, 2026
 
@@ -374,11 +374,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Author
 
@@ -394,11 +394,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### nightpoolcommentedMar 19, 2026
 
@@ -412,11 +412,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### per-allanssoncommentedMar 19, 2026
 
@@ -428,11 +428,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### BeauSlimcommentedMar 19, 2026
 
@@ -444,11 +444,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### zlogiccommentedMar 19, 2026
 
@@ -463,14 +463,14 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Sign up for free
 
 to join this conversation on GitHub
 .
  Already have an account?
- 
+
 Sign in to comment

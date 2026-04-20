@@ -14,9 +14,9 @@ tags:
 InfoQ HomepagePresentationsDuolingo's Kubernetes Leap
 
  DevOps
- 
 
-Shipping Faster, Breaking More: Rethinking Delivery Systems in the Age of AI (Webinar May 28th) 
+
+Shipping Faster, Breaking More: Rethinking Delivery Systems in the Age of AI (Webinar May 28th)
 
 # Duolingo's Kubernetes Leap
 

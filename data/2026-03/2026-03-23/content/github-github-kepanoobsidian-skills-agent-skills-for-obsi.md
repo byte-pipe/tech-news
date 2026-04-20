@@ -11,7 +11,7 @@ description: Agent skills for Obsidian. Teach your agent to use Markdown, Bases,
 
 kepano
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork925
 * Star16k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -98,7 +98,7 @@ Copy theskills/directory into your Codex skills path (typically~/.codex/skills).
 
 Clone the entire repo into the OpenCode skills directory (~/.opencode/skills/):
 
-git clone https://github.com/kepano/obsidian-skills.git 
+git clone https://github.com/kepano/obsidian-skills.git
 ~
 /.opencode/skills/obsidian-skills
 
@@ -114,7 +114,7 @@ Description
 
 obsidian-markdown
 
-Create and edit 
+Create and edit
 Obsidian Flavored Markdown
  (
 .md
@@ -122,7 +122,7 @@ Obsidian Flavored Markdown
 
 obsidian-bases
 
-Create and edit 
+Create and edit
 Obsidian Bases
  (
 .base
@@ -130,7 +130,7 @@ Obsidian Bases
 
 json-canvas
 
-Create and edit 
+Create and edit
 JSON Canvas
  files (
 .canvas
@@ -138,13 +138,13 @@ JSON Canvas
 
 obsidian-cli
 
-Interact with Obsidian vaults via the 
+Interact with Obsidian vaults via the
 Obsidian CLI
  including plugin and theme development
 
 defuddle
 
-Extract clean markdown from web pages using 
+Extract clean markdown from web pages using
 Defuddle
 , removing clutter to save tokens
 
@@ -176,48 +176,48 @@ Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas,
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 16k
 
  stars
- 
+
 
 ### Watchers
 
 117
 
  watching
- 
+
 
 ### Forks
 
 925
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -235,8 +235,8 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors12

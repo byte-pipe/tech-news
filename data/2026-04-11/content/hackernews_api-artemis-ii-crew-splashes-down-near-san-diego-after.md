@@ -20,12 +20,12 @@ tags:
 * Navy recovery crews brought the astronauts to the USS John P. Murtha for medical checks before they were slated to helicopter back to land.
 
  New Updates
- 
+
 
  
 
  11:15 PM
- 
+
 
 ## NASA officials all smiles after successful Artemis II mission
 
@@ -38,16 +38,16 @@ Howard Hu, Orion program manager, told reporters: "We're going to learn from thi
 And Dr. Lori Glaze, deputy associate administrator of Exploration Systems Development, declared: "This is our first mission to the moon of many more to come."
 
  By
- 
+
 Faris Tanyos
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-45f8f6d4link copied
 
  
 
  11:03 PM
- 
+
 
 ## NASA official praises "courage" of the families of the Artemis II crew
 
@@ -58,16 +58,16 @@ In a news conference from Houston Friday night, NASA associate administrator Ami
 For about six minutes, there was a communications blackout period while Orion reentered Earth's atmosphere.
 
  By
- 
+
 Faris Tanyos
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-87c4a50blink copied
 
  
 
  10:26 PM
- 
+
 
 ## NASA administrator meets with Artemis II crew
 
@@ -80,16 +80,16 @@ Watch: Artemis II astronauts airlifted out of ocean after splashdown
 09:12
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-be4bb7e8link copied
 
  
 
  10:02 PM
- 
+
 
 ## Astronauts successfully hoisted into Navy choppers, flown to recovery ship
 
@@ -97,22 +97,22 @@ The four Artemis II astronauts were successfully hoisted into waiting helicopter
 
 Astronauts Christina Koch and Victor Glover aboard a recovery ship after being extracted from the Artemis II capsule in the Pacific Ocean, following the Artemis II crew's flyby of the Moon, in this screengrab from a livestream video, April 10, 2026. 
 
- 
+
  NASA/Handout via REUTERS
 
- 
+
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-4504d866link copied
 
  
 
  9:44 PM
- 
+
 
 ## Astronauts will be hoisted to waiting choppers
 
@@ -121,16 +121,16 @@ The front porch, an inflatable raft used to help the astronauts exit Orion, was 
 Once all four are collected, the helicopters will land on the flight deck of the recovery ship, USS John P. Murtha.
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-e4154bb5link copied
 
  
 
  9:34 PM
- 
+
 
 ## Artemis II crew emerges for first time from Orion after splashdown
 
@@ -140,10 +140,10 @@ The crew exited via a side hatch, one by one, onto an inflatable raft known as a
 
 This image from NASA TV shows the Artemis II crew members after exiting their Orion capsule.
 
- 
+
  NASA TV
 
- 
+
 
 A medical officer who entered the Orion reported to Mission Control that all four members of the crew were "feeling great, happy to be home, and ready to be extracted as soon as possible."
 
@@ -155,24 +155,24 @@ A Navy chopper will transport the astronauts to the nearby USS John P. Murtha.
 
 A U.S. Navy MH-60 Seahawk flies overhead as small boats approach Orion spacecraft after splashdown.
 
- 
+
  Joel Kowsky/NASA via Getty Images
 
- 
+
 
  By
- 
+
 Faris Tanyos
-, 
+,
 Miles Doran
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-42fd69e9link copied
 
  
 
  9:11 PM
- 
+
 
 ## Trump congratulates Artemis II crew, says he'll see them at the White House soon
 
@@ -181,16 +181,16 @@ In apostFriday night, President Trump congratulated the crew on their "spectacul
 "Congratulations to the Great and Very Talented Crew of Artemis II," he wrote. "The entire trip was spectacular, the landing was perfect and, as President of the United States, I could not be more proud! I look forward to seeing you all at the White House soon. We'll be doing it again and then, next step, Mars!"
 
  By
- 
 
- Kristin Brown 
+
+ Kristin Brown
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-fb89b85alink copied
 
  
 
  8:52 PM
- 
+
 
 ## Orion powers down as communication is restored with recovery team
 
@@ -202,26 +202,26 @@ Once Orion is deemed safe to approach, Navy divers can bring their boats up agai
 
 Recovery personnel open the side hatch of the Artemis II crew capsule floating in the Pacific Ocean following splashdown on April 10, 2026. 
 
- 
+
  NASA via Reuters
 
- 
+
 
 This includes installing a sea anchor — an underwater parachute that stabilizes the capsule — as well as an inflatable collar around its base.
 
 Before the astronauts can exit the capsule, divers will install an inflatable raft, called a front porch, under Orion's side hatch.
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-1368e6f9link copied
 
  
 
  8:39 PM
- 
+
 
 ## NASA personnel, U.S. military now approaching Orion
 
@@ -234,16 +234,16 @@ Meanwhile, Navy divers will attach a cable to Orion to tow it to a specially des
 Orion will then be returned to Naval Base San Diego, before being transported back to the Kennedy Space Center in Florida where the capsule will be inspected and its valuable data retrieved, NASA said.
 
  By
- 
+
 Faris Tanyos
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-9bbb2f11link copied
 
  
 
  8:34 PM
- 
+
 
 ## NASA troubleshooting communication issue between recovery team and Orion
 
@@ -252,16 +252,16 @@ NASA is troubleshooting an issue with communications between the Orion capsule I
 The power-down is a post-splashdown step in which flight controllers shut down nonessential systems and transition the capsule into its recovery configuration. This reduces power demand and prepares the spacecraft for crew extraction as recovery teams move in.
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-16176a9blink copied
 
  
 
  8:24 PM
- 
+
 
 ## Trump watched Artemis II splashdown, White House official says
 
@@ -274,16 +274,16 @@ Mr. Trump spoke with the crewduring the mission, after they completed their flyb
 "Today, you've made history and made all America really proud," he told them Monday. "Humans have never really seen anything quite like what you're doing in a manned spacecraft. It's really special."
 
  By
- 
 
- Kristin Brown 
+
+ Kristin Brown
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-b4e76b27link copied
 
  
 
  8:13 PM
- 
+
 
 ## Mission Control: "A perfect bullseye splashdown"
 
@@ -294,16 +294,16 @@ After Orion dropped into the Pacific Ocean, Mission Control called it "a perfect
 NASA also said Artemis II commander Reid Wiseman radioed that all four crew members are doing well.
 
  By
- 
+
 Faris Tanyos
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-14a1c442link copied
 
  
 
  8:08 PM
- 
+
 
 ## Artemis II crew back on Earth as Orion splashes down in the Pacific
 
@@ -313,24 +313,24 @@ The Orion capsule has splashed down in the Pacific Ocean, about 40 to 50 miles o
 
 NASA's Orion spacecraft with the Artemis II crew splashes down in the Pacific Ocean off the coast of California on April 10, 2026.
 
- 
+
  Bill Ingalls/NASA via Getty Images
 
- 
+
 
 The splashdown occurred at 8:07 p.m. ET, right on schedule.
 
  By
- 
+
 Faris Tanyos
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-efa48a52link copied
 
  
 
  8:04 PM
- 
+
 
 ## Parachutes deploy
 
@@ -338,36 +338,36 @@ Parachutes have begun to deploy to slow the Orion crew capsule down from about 3
 
 Orion's main parachute has deployed. The spacecraft has a system of 11 chutes that will slow it down from around 300 mph to 20 mph for splashdown.Get more updates on the Artemis II blog:https://t.co/7gicm7DWBtpic.twitter.com/ReXHTfkFld
 
-— NASA (@NASA) 
+— NASA (@NASA)
 April 11, 2026
 
  By
- 
 
- Paula Cohen 
+
+ Paula Cohen
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-e03ccc38link copied
 
  
 
  8:02 PM
- 
+
 
 ## Orion emerges from communication blackout: "We have you loud and clear!"
 
 The Orion capsule emerged from its communications blackout and the crew confirmed to Mission Control, "We have you loud and clear!"
 
  By
- 
 
- Paula Cohen 
+
+ Paula Cohen
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-f07179e7link copied
 
  
 
  7:55 PM / April 10, 2026
- 
+
 
 ## 6-minute communications blackout period begins
 
@@ -382,16 +382,16 @@ Orion will emerge from the communications blackout just shy of 8 p.m. ET, with a
 At about 8:03 p.m. Orion will jettison its forward bay cover and deploy its drogue parachutes near 22,000 feet. About one minute later, at 8:04 p.m., it will unfurl its three main parachutes around 6,000 feet to slow the capsule for splashdown.
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-4d007f16link copied
 
  
 
  7:47 PM / April 10, 2026
- 
+
 
 ## Suni Williams says Artemis II astronauts are likely "pretty excited" ahead of reentry
 
@@ -402,32 +402,32 @@ Retired NASA astronaut Suni Williams told CBS News that the Artemis II astronaut
 Williams and fellow astronaut Butch Wilmorewere famously stuck in spacefor 286 days between 2024 and 2025 because of technical issues with the Boeing Starliner spacecraft that delayed their return.
 
  By
- 
+
 Faris Tanyos
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-30fda3e7link copied
 
  
 
  7:40 PM / April 10, 2026
- 
+
 
 ## Final maneuver complete, with heat shield lined up
 
 NASA says Orion has successfully completed the crew module raise burn, adjusting the spacecraft's orientation to align its heat shield for reentry.
 
  By
- 
 
- Paula Cohen 
+
+ Paula Cohen
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-47f50c97link copied
 
  
 
  7:35 PM / April 10, 2026
- 
+
 
 ## Crew module separates from service module to prepare for reentry
 
@@ -436,18 +436,18 @@ Mission Control confirmed Orion's crew module separated from the service module 
 Following separation, the crew module, with four astronauts onboard, maneuvers so that its heat shield is pointed in the direction of travel. Theheat shield protects themfrom the extreme temperatures that come with hitting the atmosphere at a top speed of about 24,000 mph.
 
  By
- 
 
- Miles Doran, 
+
+ Miles Doran,
 Paula Cohen
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-f6692605link copied
 
  
 
  7:31 PM / April 10, 2026
- 
+
 
 ## Orion switches to new communication system as it prepares for reentry
 
@@ -456,16 +456,16 @@ NASA says Orion has transferred its communications from the agency's Deep Space 
 According to NASA, the Deep Space Network is the largest and most sensitive scientific telecommunications system in the world, while the Tracking and Data Relay Satellite System allows the capsule to maintain communication in low Earth orbit.
 
  By
- 
+
 Faris Tanyos
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-881ec00alink copied
 
  
 
  6:58 PM / April 10, 2026
- 
+
 
 ## Astronauts confirm they're suited up for reentry
 
@@ -473,24 +473,24 @@ Shortly before 7 p.m. ET, the astronauts confirmed that they've completed donnin
 
 This image from NASA TV shows the Artemis II crew suited up for their return to Earth.
 
- 
+
  NASA
 
- 
+
 
 NASA says plans are proceeding on schedule for reentry and splashdown, a little over an hour away.
 
  By
- 
 
- Paula Cohen 
+
+ Paula Cohen
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-ad3025f7link copied
 
  
 
  6:45 PM / April 10, 2026
- 
+
 
 ## Upcoming milestone: Crew module will separate to prepare for reentry
 
@@ -499,16 +499,16 @@ At 7:33 p.m. ET, four explosive bolts located underneath Orion's heat shield wil
 Following separation, the crew module will maneuver so that its now-exposed heat shield is pointed in the direction of travel. The no-longer-needed service module will reenter on its own and burn up in the atmosphere over the Pacific Ocean.
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-ca24b6f5link copied
 
  
 
  5:59 PM / April 10, 2026
- 
+
 
 ## Maximum speed will be just shy of record
 
@@ -517,16 +517,16 @@ NASA has updated its maximum speed prediction for Artemis II to 24,661.21 mph. T
 This will fall about 130 mph short of the human speed record, set by the Apollo 10 crew coming back from the moon in 1969.
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-afd76f18link copied
 
  
 
  5:20 PM / April 10, 2026
- 
+
 
 ## 6-minute communications blackout expected during reentry
 
@@ -537,16 +537,16 @@ During reentry, the heat shield on the spacecraft endures temperatures as high a
 Orion should emerge from the communications blackout a few seconds shy of 8 p.m. ET, with about 7 minutes to go before splashdown.
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-7f24f5e6link copied
 
  
 
  Updated 4:52 PM / April 10, 2026
- 
+
 
 ## How far has the Artemis II crew traveled?
 
@@ -558,24 +558,24 @@ They set a record earlier in the flight for the farthest distance from Earth hum
 
 NASA's Artemis II mission circled around the moon.
 
- 
+
  Graphic by Jonathan WALTER and Paz PIZARRO / AFP via Getty Images
 
- 
+
 
  By
- 
 
- Miles Doran, 
+
+ Miles Doran,
 Paula Cohen
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-868310e9link copied
 
  
 
  3:03 PM / April 10, 2026
- 
+
 
 ## What happens as astronauts reenter Earth's atmosphere
 
@@ -592,16 +592,16 @@ At an altitude of about 50,000 feet, at a velocity of some 300 mph, 11 parachute
 That will slow the craft to a relatively gentle 17 mph splashdown in the Pacific Ocean.
 
  By
- 
+
 William Harwood
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-338ae558link copied
 
  
 
  Updated 3:42 PM / April 10, 2026
- 
+
 
 ## Astronauts take some final photos of Earth from space
 
@@ -612,16 +612,16 @@ The astronauts held the phones up to the video camera to show the pictures to Mi
 "We're going to need a copy of that photo when you guys get back," the capsule communicator can be heard saying.
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-0eef0c1clink copied
 
  
 
  3:26 PM / April 10, 2026
- 
+
 
 ## NASA says Orion is "in great shape" and "weather is go for splashdown"
 
@@ -634,16 +634,16 @@ The crew is taking some time to stow items they no longer need in preparation fo
 "All is well aboard Integrity and the weather is go for splashdown," NASA said.
 
  By
- 
 
- Paula Cohen 
+
+ Paula Cohen
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-e7910a3flink copied
 
  
 
  Updated 2:55 PM / April 10, 2026
- 
+
 
 ## Orion performs final major maneuver
 
@@ -654,16 +654,16 @@ The spacecraft fired its thrusters to fine-tune its entry path to the splashdown
 NASA communicators told the crew that it appeared to be a good burn. The crew will continue to prepare for reentry.
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-13785ebflink copied
 
  
 
  Updated 2:35 PM / April 10, 2026
- 
+
 
 ## Crew is staking their lives on the heat shield, and NASA has "high confidence"
 
@@ -678,32 +678,32 @@ NASA made some modifications to plans for the reentry trajectory after the uncre
 Read more about the heat shield and reentry here.
 
  By
- 
+
 William Harwood
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-bc8ada65link copied
 
  
 
  1:54 PM / April 10, 2026
- 
+
 
 ## NASA monitoring weather conditions for splashdown
 
 NASA commentator Rob Navias says forecasters are predicting the densest portion of cloud cover in the region will remain closer to the California coast. Out at the splashdown location, roughly 40-50 miles southwest of San Diego, they are predicting broken, scattered clouds, winds of 10 knots and seas of 4 feet.
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-3d44529dlink copied
 
  
 
  1:46 PM / April 10, 2026
- 
+
 
 ## NASA Administrator Jared Isaacman will be on recovery ship for crew's return
 
@@ -712,32 +712,32 @@ NASA Administrator Jared Isaacman will be aboard the USS John P. Murtha for spla
 Four helicopters and six small boats will take part in the crew and capsule recovery after splashdown in the waters of the Pacific.
 
  By
- 
 
- Miles Doran 
+
+ Miles Doran
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-6a31eebclink copied
 
  
 
  Updated 1:29 PM / April 10, 2026
- 
+
 
 ## Orion capsule will be traveling up to 24,000 mph during reentry
 
 The Orion capsule carrying the astronauts will be traveling at about 24,000 mph when it hits the top of the atmosphere during reentry. That's fast enough to fly from New York to London in less than nine minutes.
 
  By
- 
+
 William Harwood
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-c5d4b5f8link copied
 
  
 
  1:11 PM / April 10, 2026
- 
+
 
 ## Artemis II crew wakes up for final day of the mission — 61,326 miles from Earth
 
@@ -752,18 +752,18 @@ A day earlier, NASA shared the crew's morning playlist onSpotify. "Each track wa
 Read more and see the list of songs here.
 
  By
- 
 
- Miles Doran, 
+
+ Miles Doran,
 Melissa Gaffney
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-43c23c3flink copied
 
  
 
  1:11 PM / April 10, 2026
- 
+
 
 ## California 8-year-old designed Artemis II's zero-gravity indicator
 
@@ -773,10 +773,10 @@ Rise also became a viral sensation, floating through videos and photos from the 
 
 The Artemis II crew — clockwise from left: Christina Koch, Jeremy Hansen, Reid Wiseman and Victor Glover — pause for a group photo with their zero-gravity indicator "Rise," floating at lower right.
 
- 
+
  NASA
 
- 
+
 
 The adorable plush is the brainchild of 8-year-old Lucas Ye. The California second-grader made sure to include historical references in every part of the plush's design and ensured it would meet NASA's strict standards.
 
@@ -785,16 +785,16 @@ Someday, he says, he hopes to become an astronaut himself.
 Read more about how Rise was designed and developed.
 
  By
- 
+
 Kerry Breen
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-24594524link copied
 
  
 
  1:11 PM / April 10, 2026
- 
+
 
 ## How to watch Artemis II's return to Earth and splashdown
 
@@ -811,7 +811,7 @@ CBS News will have live coverage as the Artemis II mission comes to an end after
  
 
  1:11 PM / April 10, 2026
- 
+
 
 ## Watching solar eclipse "just blew us all away," astronaut says
 
@@ -821,10 +821,10 @@ Astronaut Victor Glover told reporters that watching the sun disappear behind th
 
 The moon, seen here backlit by the sun during a solar eclipse on April 6, 2026, is photographed by one of the cameras on the Orion spacecraft's solar array wings. Orion is visible in the foreground on the left. 
 
- 
+
  NASA via Getty Images
 
- 
+
 
 Asked about the splashdown, Glover said he's been thinking of that moment ever since he was assigned to the crew. He also said there will be much more to share once they're back on Earth.
 
@@ -833,16 +833,16 @@ Asked about the splashdown, Glover said he's been thinking of that moment ever s
 Read more here.
 
  By
- 
+
 William Harwood
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-190eb16flink copied
 
  
 
  1:11 PM / April 10, 2026
- 
+
 
 ## Trump praised Artemis II astronauts as "modern-day pioneers"
 
@@ -857,16 +857,16 @@ Mr. Trump praised the astronauts for their "courage" and "genius" — and noted 
 Read more here.
 
  By
- 
+
 Joe Walsh
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-b148952clink copied
 
  
 
  1:11 PM / April 10, 2026
- 
+
 
 ## Astronauts captured stunning photos during mission
 
@@ -878,33 +878,33 @@ One image from NASA showed "Earthset" — the Earth dipping behind the moon. Par
 
 Earthset captured through the Orion spacecraft window at 6:41 p.m. ET, April 6, 2026, during the Artemis II crew's flyby of the moon.
 
- 
+
  NASA
 
- 
+
 
 Another stunning photo showed the moon eclipsing the sun. The eclipse was not visible from Earth, only to the crew aboard the spacecraft, and the astronauts needed to wear eclipse glasses to protect their eyes until the moon completely covered the sun.
 
 This image taken by the Artemis II crew during their lunar flyby on April 6, 2026, shows the moon eclipsing the sun.
 
- 
+
  NASA
 
- 
+
 
 See more here.
 
  By
- 
+
 Kerry Breen
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-86d79756link copied
 
  
 
  1:11 PM / April 10, 2026
- 
+
 
 ## Crew named crater on the moon after commander's late wife
 
@@ -923,20 +923,20 @@ Before launch, the science team had helped identify a few relatively fresh crate
 Read more here.
 
  By
- 
+
 Emily Mae Czachor
-, 
+,
 Miles Doran
 , 
 William Harwood
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-6b0f0215link copied
 
  
 
  1:11 PM / April 10, 2026
- 
+
 
 ## Crew set record for farthest distance from Earth
 
@@ -949,9 +949,9 @@ The distance record was one of two big moments for the crew on Monday night. The
 Both milestones came without radio contact to NASA back on Earth. Since the moon blocked Orion, and its signal, from Earth, the crew entered a planned 40-minute loss of communication until it came out on the other side.
 
  By
- 
+
 Jordan Freiman
- 
+
 
 * https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/#post-update-ff6866a1link copied
 

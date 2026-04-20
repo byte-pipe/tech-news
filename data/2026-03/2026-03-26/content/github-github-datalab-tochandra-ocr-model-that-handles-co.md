@@ -11,7 +11,7 @@ description: OCR model that handles complex tables, forms, handwriting with full
 
 datalab-to
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork637
 * Star5.7k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -1277,51 +1277,51 @@ www.datalab.to
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 5.7k
 
  stars
- 
+
 
 ### Watchers
 
 50
 
  watching
- 
+
 
 ### Forks
 
 637
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases8
 
@@ -1329,11 +1329,11 @@ Chandra OCR 2
 
  Latest
 
- 
+
 
 Mar 18, 2026
 
- 
+
 
 + 7 releases
 
@@ -1349,9 +1349,9 @@ Mar 18, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1359,9 +1359,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

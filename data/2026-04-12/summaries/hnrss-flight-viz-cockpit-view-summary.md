@@ -12,11 +12,11 @@ summarized_at: 2026-04-12T06:02:29.274811
 # Flight Viz — Cockpit View Summary
 
 ## Displayed Information
-- Altitude: shown in feet (e.g., 0 ft)  
-- Flight status: indicated as “IN FLIGHT”  
-- Ground speed: displayed in knots (e.g., 0 kts)  
-- Heading: presented in degrees (e.g., 0°)  
+- Altitude: shown in feet (e.g., 0 ft)
+- Flight status: indicated as “IN FLIGHT”
+- Ground speed: displayed in knots (e.g., 0 kts)
+- Heading: presented in degrees (e.g., 0°)
 
 ## Controls and Navigation
-- “← Exit Cockpit” button allows the user to leave the cockpit view.  
+- “← Exit Cockpit” button allows the user to leave the cockpit view.
 - Map panel provides a visual overview of the surrounding area.

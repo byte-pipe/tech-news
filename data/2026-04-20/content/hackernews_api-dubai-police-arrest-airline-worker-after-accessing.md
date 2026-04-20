@@ -15,56 +15,56 @@ tags:
 
 # Airline worker arrested by Dubai police after sharing photos of bomb damage in private WhatsApp group
 
- 
+
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
- 
- 
+
+
 18 Apr 2026, 00:26
- | Updated: 1d ago 
- 
- 
- 
+ | Updated: 1d ago
+
+
+
 
 ### Share
 
- 
- 
- 
+
+
+
 Facebook
- 
- 
+
+
 WhatsApp
- 
- 
+
+
 Email
- 
- 
- 
- 
+
+
+
+
 Link Copied
- 
- 
- 
+
+
+
 Link
- 
+
 CheckCircle
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 
 Want LBC stories before everyone else? Set us as your Preferred Source on Google
 
  Dubai International Airport .
- 
 
- 
-Picture: 
+
+
+Picture:
 
 Getty
 
@@ -76,7 +76,7 @@ An airline employee was arrested by Dubai police after he shared images with col
 
 Loading audio...
 
- 
+
 
 Police accessed the closed WhatsApp group chat, saved the evidence and told the man to come to a meeting before arresting him.
 
@@ -89,10 +89,10 @@ Read more:Dubai 'arrests survivors of Iranian drone strike after they sent image
 Read more:British holidaymaker, 60, arrested in Dubai for 'filming missiles'
 
  Smoke rises from fire near Dubai International Airport on March 16 after "drone-related incident".
- 
 
- 
-Picture: 
+
+
+Picture:
 
 Getty
 

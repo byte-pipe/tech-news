@@ -66,7 +66,7 @@ Any missing features you would like to add to generate even more chaos?
 And if you have any stories to share about your most memorable standup moments, I would love to hear them!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

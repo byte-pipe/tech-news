@@ -19,10 +19,10 @@ tags:
 
 # Apple discontinues the Mac Pro with no plans for future hardware
 
- 
+
 
 Chance Miller
- | Mar 26 2026 - 2:00 pm PT																
+ | Mar 26 2026 - 2:00 pm PT
 
 It’s the end of an era: Apple has confirmed to9to5Macthat the Mac Pro is being discontinued. It has been removed from Apple’s website as of Thursday afternoon. The“buy” pageon Apple’s website for the Mac Pro now redirects tothe Mac’s homepage, where all references have been removed.
 
@@ -66,27 +66,27 @@ Follow Chance:Threads,Bluesky,Instagram, andMastodon.
 
 FTC: We use income earning auto affiliate links.More.
 
-You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out 
+You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out
 our homepage
- for all the latest news, and follow 9to5Mac on 
+ for all the latest news, and follow 9to5Mac on
 Twitter
-, 
+,
 Facebook
-, and 
+, and
 LinkedIn
- to stay in the loop. Don’t know where to start? Check out our 
+ to stay in the loop. Don’t know where to start? Check out our
 exclusive stories
-, 
+,
 reviews
-, 
+,
 how-tos
-, and 
+, and
 subscribe to our YouTube channel
- 
+
 
 Check out 9to5Mac on YouTube for more Apple news:
 
- 
+
 
 ## Comments
 
@@ -102,11 +102,11 @@ A new Mac Pro was announced at WWDC 2019 and shi…
 
 ## Author
 
- 
 
-			Chance Miller		
 
-chancehmiller			
+			Chance Miller
+
+chancehmiller
 
 Chance is the editor-in-chief of 9to5Mac, overseeing the entire site’s operations. He also hosts the 9to5Mac Daily and 9to5Mac Happy Hour podcasts.
 

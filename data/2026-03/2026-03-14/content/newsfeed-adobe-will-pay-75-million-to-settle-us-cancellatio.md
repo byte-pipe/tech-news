@@ -27,8 +27,8 @@ tags:
 ﻿‘While we disagree with the government’s claims and deny any wrongdoing, we are pleased to resolve this matter.’
 
 by
- 
- 
+
+
 Jess Weatherbed
 Mar 13, 2026, 5:52 PM UTC
 * Link
@@ -36,7 +36,7 @@ Mar 13, 2026, 5:52 PM UTC
 * Gift
 Illustration by Alex Castro / The Verge
 Jess Weatherbed
- 
+
 is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews.
 
 Adobe says it will pay$75 million to resolve a lawsuitfiled by the US government alleging that the creative software giant harmed consumers by making its subscriptions intentionally hard to cancel and concealing termination fees.
@@ -75,19 +75,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 
@@ -118,7 +118,7 @@ Jess Weatherbed
 11:16 AM UTC
 The best Bluetooth trackers for Apple and Android phones
 Sheena Vasani
- and 
+ and
 Victoria Song
 Mar 12
 Advertiser Content From

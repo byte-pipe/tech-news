@@ -1,7 +1,7 @@
 ---
 title: GitHub - vllm-project/vllm-omni: A framework for efficient model inference with omni-modality models · GitHub
 url: https://github.com/vllm-project/vllm-omni
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-21T11:17:23.119299
@@ -41,7 +41,7 @@ This project is officially released to support omni-modality models serving. **H
 
 **Contributing to the Project:**
 
-To contribute, open issues in [GitHub] repository name and follow the setup process. This will allow you to create a new repository or fork the existing one named `vllm-project/vllm-omni`. 
+To contribute, open issues in [GitHub] repository name and follow the setup process. This will allow you to create a new repository or fork the existing one named `vllm-project/vllm-omni`.
 
 ### View All Files:
 

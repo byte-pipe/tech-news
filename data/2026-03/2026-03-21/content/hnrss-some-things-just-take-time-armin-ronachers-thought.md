@@ -15,7 +15,7 @@ tags:
 
 Armin Ronacher
 's Thoughts and Writings
- 
+
 
 # Some Things Just Take Time
 

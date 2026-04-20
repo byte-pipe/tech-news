@@ -14,34 +14,34 @@ tags:
 ---
 
 By
- 
+
 Matthew Mayo
- 
+
 on
- 
+
 March 24, 2026
- 
+
 in
- 
+
 Artificial Intelligence
- 
 
-Share 
- 
-
-Post 
-
- 
- 
- 
- 
- 
- 
- 
- 
 
 Share
- 
+
+
+Post
+
+
+
+
+
+
+
+
+
+
+Share
+
 
 In this article, you will learn why production AI applications need both a vector database for semantic retrieval and a relational database for structured, transactional workloads.
 
@@ -146,117 +146,117 @@ LIMIT 10;
 9
 
 SELECT
- 
+
 d
 .
 title
 ,
- 
+
 d
 .
 author
 ,
- 
+
 d
 .
 updated_at
 ,
- 
+
 d
 .
 content_chunk
 ,
-       
+      
 1
- 
+
 -
- 
+
 (
 d
 .
 embedding
- 
+
 <=
 >
- 
+
 query_embedding
 )
- 
+
 AS
- 
+
 similarity
-FROM 
+FROM
 documents
- 
+
 d
-JOIN 
+JOIN
 user
 _
 permissions
- 
+
 p
- 
+
 ON
- 
+
 p
 .
 department_id
- 
+
 =
- 
+
 d
 .
 department_id
 WHERE
- 
+
 p
 .
 user_id
- 
+
 =
- 
+
 'user_98765'
   
 AND
- 
+
 d
 .
 status
- 
+
 =
- 
+
 'published'
   
 AND
- 
+
 d
 .
 updated_at
- 
+
 >
- 
+
 NOW
 (
 )
- 
+
 -
- 
+
 INTERVAL
- 
+
 '90 days'
-ORDER 
+ORDER
 BY
- 
+
 d
 .
 embedding
- 
+
 <=
 >
- 
+
 query_embedding
 LIMIT
- 
+
 10
 ;
 
@@ -289,22 +289,22 @@ If you are building a production AI application, it would be a mistake to treat 
 
 The most resilient AI architectures are not the ones that bet everything on the newest technology. They are the ones who use each tool exactly where it is strongest.
 
-Share 
- 
+Share
 
-Post 
 
- 
- 
- 
- 
- 
- 
- 
- 
+Post
+
+
+
+
+
+
+
+
+
 
 Share
- 
+
 
 ### More On This Topic
 

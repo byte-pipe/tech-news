@@ -14,7 +14,7 @@ tags:
 
 MidstallSoftware
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork1
 * Star93
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -184,7 +184,7 @@ Each device gets a complete FPGA toolchain via thetoolsoutput:
 #
  Synthesize a Verilog design to Aegis cells
 
-yosys -c synth.tcl 
+yosys -c synth.tcl
 #
  using $tools/share/yosys/aegis/*_cells.v + *_techmap.v
 
@@ -291,51 +291,51 @@ Open source FPGA silicon
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 93
 
  stars
- 
+
 
 ### Watchers
 
 1
 
  watching
- 
+
 
 ### Forks
 
 1
 
  fork
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -353,17 +353,17 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors1
 

@@ -26,7 +26,7 @@ Business reporter
 Share
 Save
 BBC
-"Everything's gone up": Bianca Osborne with four-year-old daughter Amelia 
+"Everything's gone up": Bianca Osborne with four-year-old daughter Amelia
 
 Bianca and Paul Osborne both work hard and look forward to treating their daughters Amelia, four, and Sienna, 10, to fun-filled family days out.
 
@@ -88,7 +88,7 @@ Meanwhile, average annual pay growth is at a five-year low. After taking inflati
 
 For James and Eleanor that's meant that six months after they opened they've had to let half their staff go.
 
-James, who set up the Brew 32 café in Stockport with his sister-in-law, says he's noticed a shift in customer spending 
+James, who set up the Brew 32 café in Stockport with his sister-in-law, says he's noticed a shift in customer spending
 
 Children's activity businesses are also struggling. Emily Walsh is the owner and manager of Tumble Jacks play centre in Stockport, where parents meet for coffee while little ones play and have birthday parties.
 

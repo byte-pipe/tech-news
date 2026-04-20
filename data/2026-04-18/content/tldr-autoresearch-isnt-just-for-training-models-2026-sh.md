@@ -19,9 +19,9 @@ AI & Machine Learning
 
 Tobi and I generalized Karpathy’s Autoresearch to improve 40+ metrics across Shopify, then we open-sourced our project.
 
- 
+
 Published on
- 
+
 Apr 15, 2026
 
 It is 7PM and I'm still at my desk. My branch just failed CI. Again. It's the fifth time in a row. I am about to close my laptop and give up.
@@ -113,7 +113,7 @@ It’s two days later now. When I wake up and check my phone, my X has exploded.
 
 OK, well. I ran /autoresearch on the the liquid codebase.53% faster combined parse+render time, 61% fewer object allocations.This is probably somewhat overfit, but there are absolutely amazing ideas in this.pic.twitter.com/dpEJw7NpL4
 
-— tobi lutke (@tobi) 
+— tobi lutke (@tobi)
 March 12, 2026
 
 The best news: our project,pi-autoresearch, is getting a lot of attention. 100 stars. 200 stars. 500 stars. Dang, I’ve never seen something like this. At this point I realize that my Github account is full of dummy projects from 10 years ago. I feel a bit ashamed of my PHP past, so I start making everything private. Please don’t tell anyone.
@@ -123,23 +123,23 @@ At the moment of this writing,pi-autoresearchhas more than 3,600 stars on Github
 At this point, I hope I gave you enough reasons to try this out. Now it's your turn.Run it, and watch the numbers go down.
 
 DC
- 
-by 
+
+by
 David Cortés
 Published on
- 
+
 Apr 15, 2026
 Share article
 * Facebook
 * Twitter
 * LinkedIn
- 
-by 
+
+by
 David Cortés
 Published on
- 
+
 Apr 15, 2026
- • 
+ •
 8 minute read
 Development
 Introducing Ruvy
@@ -169,7 +169,7 @@ The Engineering Story Behind Flex Comp
 
 2022-10-05
 
-Work from anywhere 
+Work from anywhere
  with Shopify
 
 See our open roles and learn more about our digital by design culture.

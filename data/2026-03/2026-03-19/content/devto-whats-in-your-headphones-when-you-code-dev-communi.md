@@ -16,7 +16,7 @@ Let's revisit this conversation!
 What music, soundtracks, podcasts, etc do you listen to and is there something different for a different type of task?
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -27,7 +27,7 @@ Preview
 Dismiss
 
  View full discussion (46 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

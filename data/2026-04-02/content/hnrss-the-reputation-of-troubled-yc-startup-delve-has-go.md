@@ -28,7 +28,7 @@ Sim.ai’s founder and CEO, Emir Karabeg, confirmed to TechCrunch that he answer
 
 Adding to the awkwardness: Sim.ai was actually a Delve customer, Karabeg told TechCrunch. Both startups were grads of the startup accelerator Y Combinator, and Y Combinator alumni frequently buy each other’s products. So while Sim.ai paid Delve, Delve did not do the same for Sim.ai.
 
- 
+
 
 Techcrunch event
 
@@ -63,25 +63,25 @@ The allegations that Delve may have violated an open source license of a custome
 Topics
 
 ai agent builder
-, 
+,
 Delve
-, 
+,
 open source license
-, 
+,
 Startups
- 
 
-			Julie Bort	
+
+			Julie Bort
 
 Venture Editor
 
-		Julie Bort is the Startups/Venture Desk editor for TechCrunch. 
+		Julie Bort is the Startups/Venture Desk editor for TechCrunch.
 
 
-You can contact or verify outreach from Julie by emailing 
+You can contact or verify outreach from Julie by emailing
 julie.bort@techcrunch.com
- or via 
+ or via
 @Julie188
- on X.	
+ on X.
 
 View Bio

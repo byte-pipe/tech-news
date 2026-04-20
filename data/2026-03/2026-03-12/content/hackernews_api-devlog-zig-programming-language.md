@@ -32,32 +32,32 @@ Today,I merged a 30,000 line PRafter two (arguably three) months of work. The go
 For one thing, the Zig compiler is now lazier about analyzing the fields of types: if the type is never initialized, then there’s no need for Zig to care what that type “looks like”. This is important when you have a type which doubles as a namespace, a common pattern in modern Zig. For instance, when usingstd.Io.Writer, you don’t want the compiler to also pull in a bunch of code instd.Io! Here’s a straightforward example:
 
 const
- 
+
 Foo
- 
+
 =
- 
+
 struct
- 
+
 {
 
- 
+
 bad_field
 :
- 
+
 @compileError
 (
 "i am an evil field, muahaha"
 )
 ,
 
- 
+
 const
- 
+
 something
- 
+
 =
- 
+
 123
 ;
 
@@ -65,19 +65,19 @@ something
 ;
 
 comptime
- 
+
 {
 
- 
+
 _
- 
+
 =
- 
+
 Foo
 .
 something
 ;
- 
+
 // `Foo` only used as a namespace
 
 }
@@ -87,38 +87,38 @@ Previously, this code emitted a compile error. Now, it compiles just fine, becau
 Another improvement we’ve made is in the “dependency loop” experience. Anyone who has encountered a dependency loop compile error in Zig before knows that the error messages for them are entirely unhelpful—but that’s now changed! If you encounter one (which is also a bit less likely now than it used to be), you’ll get a detailed error message telling you exactly where the dependency loop comes from. Check it out:
 
 const
- 
+
 Foo
- 
+
 =
- 
+
 struct
- 
+
 {
- 
+
 inner
 :
- 
+
 Bar
- 
+
 }
 ;
 
 const
- 
+
 Bar
- 
+
 =
- 
+
 struct
- 
+
 {
- 
+
 x
 :
- 
+
 u32
- 
+
 align
 (
 @alignOf
@@ -126,24 +126,24 @@ align
 Foo
 )
 )
- 
+
 }
 ;
 
 comptime
- 
+
 {
 
- 
+
 _
- 
+
 =
- 
+
 @as
 (
 Foo
 ,
- 
+
 undefined
 )
 ;
@@ -191,11 +191,11 @@ They are nowavailable to tinker with, by constructing one’s application usings
 With those caveats in mind, it seems we are indeed reaching the Promised Land, where Zig code can have Io implementations effortlessly swapped out:
 
 const
- 
+
 std
- 
+
 =
- 
+
 @import
 (
 "std"
@@ -203,14 +203,14 @@ std
 ;
 
 pub
- 
+
 fn
- 
+
 main
 (
 init
 :
- 
+
 std
 .
 process
@@ -219,18 +219,18 @@ Init
 .
 Minimal
 )
- 
+
 !
 void
- 
+
 {
 
- 
+
 var
- 
+
 debug_allocator
 :
- 
+
 std
 .
 heap
@@ -241,20 +241,20 @@ DebugAllocator
 {
 }
 )
- 
+
 =
- 
+
 .
 init
 ;
 
- 
+
 const
- 
+
 gpa
- 
+
 =
- 
+
 debug_allocator
 .
 allocator
@@ -262,35 +262,35 @@ allocator
 )
 ;
 
- 
+
 var
- 
+
 threaded
 :
- 
+
 std
 .
 Io
 .
 Threaded
- 
+
 =
- 
+
 .
 init
 (
 gpa
 ,
- 
+
 .
 {
 
- 
+
 .
 argv0
- 
+
 =
- 
+
 .
 init
 (
@@ -300,25 +300,25 @@ args
 )
 ,
 
- 
+
 .
 environ
- 
+
 =
- 
+
 init
 .
 environ
 ,
 
- 
+
 }
 )
 ;
 
- 
+
 defer
- 
+
 threaded
 .
 deinit
@@ -326,13 +326,13 @@ deinit
 )
 ;
 
- 
+
 const
- 
+
 io
- 
+
 =
- 
+
 threaded
 .
 io
@@ -340,9 +340,9 @@ io
 )
 ;
 
- 
+
 return
- 
+
 app
 (
 io
@@ -352,25 +352,25 @@ io
 }
 
 fn
- 
+
 app
 (
 io
 :
- 
+
 std
 .
 Io
 )
- 
+
 !
 void
- 
+
 {
 
- 
+
 try
- 
+
 std
 .
 Io
@@ -385,7 +385,7 @@ writeStreamingAll
 (
 io
 ,
- 
+
 "Hello, World!
 \n
 "
@@ -414,11 +414,11 @@ exit_group(0) = ?
 Swapping out only the I/O implementation:
 
 const
- 
+
 std
- 
+
 =
- 
+
 @import
 (
 "std"
@@ -426,14 +426,14 @@ std
 ;
 
 pub
- 
+
 fn
- 
+
 main
 (
 init
 :
- 
+
 std
 .
 process
@@ -442,18 +442,18 @@ Init
 .
 Minimal
 )
- 
+
 !
 void
- 
+
 {
 
- 
+
 var
- 
+
 debug_allocator
 :
- 
+
 std
 .
 heap
@@ -464,20 +464,20 @@ DebugAllocator
 {
 }
 )
- 
+
 =
- 
+
 .
 init
 ;
 
- 
+
 const
- 
+
 gpa
- 
+
 =
- 
+
 debug_allocator
 .
 allocator
@@ -485,42 +485,42 @@ allocator
 )
 ;
 
- 
+
 var
- 
+
 evented
 :
- 
+
 std
 .
 Io
 .
 Evented
- 
+
 =
- 
+
 undefined
 ;
 
- 
+
 try
- 
+
 evented
 .
 init
 (
 gpa
 ,
- 
+
 .
 {
 
- 
+
 .
 argv0
- 
+
 =
- 
+
 .
 init
 (
@@ -530,34 +530,34 @@ args
 )
 ,
 
- 
+
 .
 environ
- 
+
 =
- 
+
 init
 .
 environ
 ,
 
- 
+
 .
 backing_allocator_needs_mutex
- 
+
 =
- 
+
 false
 ,
 
- 
+
 }
 )
 ;
 
- 
+
 defer
- 
+
 evented
 .
 deinit
@@ -565,13 +565,13 @@ deinit
 )
 ;
 
- 
+
 const
- 
+
 io
- 
+
 =
- 
+
 evented
 .
 io
@@ -579,9 +579,9 @@ io
 )
 ;
 
- 
+
 return
- 
+
 app
 (
 io
@@ -591,25 +591,25 @@ io
 }
 
 fn
- 
+
 app
 (
 io
 :
- 
+
 std
 .
 Io
 )
- 
+
 !
 void
- 
+
 {
 
- 
+
 try
- 
+
 std
 .
 Io
@@ -624,7 +624,7 @@ writeStreamingAll
 (
 io
 ,
- 
+
 "Hello, World!
 \n
 "
@@ -764,167 +764,167 @@ So the dependency onbcryptprimitives.dllandadvapi32.dllcan both be avoided, and 
 ReadFilelooks like this:
 
 pub
- 
+
 extern
- 
+
 "kernel32"
- 
+
 fn
- 
+
 ReadFile
 (
 
- 
+
 hFile
 :
- 
+
 HANDLE
 ,
 
- 
+
 lpBuffer
 :
- 
+
 LPVOID
 ,
 
- 
+
 nNumberOfBytesToRead
 :
- 
+
 DWORD
 ,
 
- 
+
 lpNumberOfBytesRead
 :
- 
+
 ?
 *
 DWORD
 ,
 
- 
+
 lpOverlapped
 :
- 
+
 ?
 *
 OVERLAPPED
 ,
 
 )
- 
+
 callconv
 (
 .
 winapi
 )
- 
+
 BOOL
 ;
 
 NtReadFilelooks like this:
 
 pub
- 
+
 extern
- 
+
 "ntdll"
- 
+
 fn
- 
+
 NtReadFile
 (
 
- 
+
 FileHandle
 :
- 
+
 HANDLE
 ,
 
- 
+
 Event
 :
- 
+
 ?
 HANDLE
 ,
 
- 
+
 ApcRoutine
 :
- 
+
 ?
 *
 const
- 
+
 IO_APC_ROUTINE
 ,
 
- 
+
 ApcContext
 :
- 
+
 ?
 *
 anyopaque
 ,
 
- 
+
 IoStatusBlock
 :
- 
+
 *
 IO_STATUS_BLOCK
 ,
 
- 
+
 Buffer
 :
- 
+
 *
 anyopaque
 ,
 
- 
+
 Length
 :
- 
+
 ULONG
 ,
 
- 
+
 ByteOffset
 :
- 
+
 ?
 *
 const
- 
+
 LARGE_INTEGER
 ,
 
- 
+
 Key
 :
- 
+
 ?
 *
 const
- 
+
 ULONG
 ,
 
 )
- 
+
 callconv
 (
 .
 winapi
 )
- 
+
 NTSTATUS
 ;
 
@@ -951,41 +951,41 @@ Author: Andrew Kelley
 Over the past month or so, several enterprising contributors have taken an interest in thezig libc subproject. The idea here is to incrementally delete redundant code, by providing libc functions as Zig standard library wrappers rather than as vendored C source files. In many cases, these functions are one-to-one mappings, such asmemcpyoratan2, or trivially wrap a generic function, likestrnlen:
 
 fn
- 
+
 strnlen
 (
 str
 :
- 
+
 [
 *
 :
 0
 ]
 const
- 
+
 c_char
 ,
- 
+
 max
 :
- 
+
 usize
 )
- 
+
 callconv
 (
 .
 c
 )
- 
+
 usize
- 
+
 {
 
- 
+
 return
- 
+
 std
 .
 mem
@@ -994,7 +994,7 @@ findScalar
 (
 u8
 ,
- 
+
 @ptrCast
 (
 str
@@ -1005,12 +1005,12 @@ max
 ]
 )
 ,
- 
+
 0
 )
- 
+
 orelse
- 
+
 max
 ;
 

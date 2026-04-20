@@ -19,7 +19,7 @@ A LED sphere screen shows information inside Polymarket’s ‘Situation Room’
 A Guardian investigation reveals how the prediction market can shape news – and how it rules on ‘the truth’
 
 By
- 
+
 Aisha Down
 
 “Horekunden” was rapidly losing patience.

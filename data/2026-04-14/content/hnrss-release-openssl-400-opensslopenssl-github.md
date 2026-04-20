@@ -14,7 +14,7 @@ tags:
 
 openssl
 
- 
+
 
 /
 
@@ -27,7 +27,7 @@ Public
 * Fork11.2k
 * Star29.9k
 
- 
+
 
 # OpenSSL 4.0.0
 
@@ -35,24 +35,24 @@ Latest
 
 Latest
 
- 
+
 
 Compare
 
 # Choose a tag to compare
 
- 
+
 
 ## Sorry, something went wrong.
 
- 
+
 
  Filter
 
- 
+
 Loading
 
- 
+
 
 ## Sorry, something went wrong.
 
@@ -60,44 +60,44 @@ Loading
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ## No results found
 
- 
 
- 
- 
+
+
+
 
 View all tags
 
- 
+
 
 openssl-machine
 
  released this
 
- 
+
 
  14 Apr 12:55
- 
+
 
  ·
- 
+
 
  304 commits
- 
+
 
  to master
  since this release
- 
+
 
  openssl-4.0.0
- 
+
 
 11b7b6e
 
@@ -140,52 +140,52 @@ This release adds the following new features:
 * Support for using either static or dynamic VC runtime linkageon Windows.
 * Support for negotiated FFDHE key exchange in TLS 1.2 in accordancewithRFC 7919.
 
- 
+
 
 Assets
 
 6
 
- 
 
- 
+
+
 Loading
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 👍
 
 18
 
- 
+
 Safari77, Matrix3600, omasanori, weihanglo, Paragoumba, HansVanEijsden, arut, orielhaim, billy-le, SilmorSenedlen, and 8 more reacted with thumbs up emoji
 
- 
+
 🎉
 
 30
 
- 
+
 esyr, jjerphan, YannMagnin, dontEatMe, omasanori, shogo82148, verr2913, weihanglo, yetanotherqubick, quarckster, and 20 more reacted with hooray emoji
 
- 
+
 🚀
 
 8
 
- 
+
 yetanotherqubick, HansVanEijsden, dil-mkaroly, orielhaim, petecooper, gchudnov, war59312, and man-brain reacted with rocket emoji
 
- 
+
 
 All reactions
 
- 
+
 42 people reacted

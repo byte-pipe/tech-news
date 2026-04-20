@@ -19,11 +19,11 @@ TriangleUp
 Buy Now
 Multiple Buying Options Available
 $1,400
- 
+
 $1,000
  at Amazon
 $1,100
- 
+
 $1,000
  at Aiper
 Save Story
@@ -93,11 +93,11 @@ Aiper’s app provides basic logging for each run, noting running time and squar
 The Aiper Scuba V3 carries a list price of $1,400 but is currently available for $1,000. A solid price, though one that’s short of a bargain. Users with very large pools may find the unit’s short battery life a deal-breaker, but its other features—namely, solid performance and the inclusion of the cordless charging station—definitely swayed me deeper into its camp.
 
 $1,400
- 
+
 $1,000
  at Amazon
 $1,100
- 
+
 $1,000
  at Aiper
 
@@ -106,7 +106,7 @@ $1,000
 Back to top
 Triangle
 Christopher Null
-, a longtime technology journalist, is a contributor to WIRED and the editor of Drinkhacker. Chris is among our lead laptop reviewers and leads WIRED's coverage of hearing aids. He was previously executive editor of PC Computing magazine and the founding editor in chief of Mobile magazine. ... 
+, a longtime technology journalist, is a contributor to WIRED and the editor of Drinkhacker. Chris is among our lead laptop reviewers and leads WIRED's coverage of hearing aids. He was previously executive editor of PC Computing magazine and the founding editor in chief of Mobile magazine. ...
 Read More
 
 Topics

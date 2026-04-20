@@ -29,7 +29,7 @@ the exchange rates of most of the world's currencies, had set the
 Swiss Franc at an artificially low rate of .228 USD. When Bretton
 Woods collapsed in 1973, the Franc shot upward. By 1978 it reached
 .625 USD, meaning Swiss watches were now 2.7 times as expensive for
-Americans to buy. 
+Americans to buy.
 
 [
 1
@@ -104,7 +104,7 @@ but except for one pragmatic complication (showing the date), they
 were a sideshow in the golden age. In the golden age, as always in
 golden ages, the top watchmakers focused on the essential tradeoff.
 And, as always in golden ages, they did it beautifully. The best
-watches of the golden age have a 
+watches of the golden age have a
 
 quiet perfection
  that has never
@@ -149,13 +149,13 @@ In 1968 (that year again) Patek Philippe launched a new watch that
 shifted the center of gravity of case design. This time they'd taken
 their own designs to the casemakers and said "this is what you're
 going to make for us." The result was a striking new model called
-the 
+the
 Golden Ellipse
 . Somewhat confusingly, because it wasn't elliptical.
 The new case was more of what UI designers would call a round rect:
 a rectangle with rounded corners. And this new family of watches
 was quite successful. But it was more than that: it was the pattern
-for the future. 
+for the future.
 
 [
 2
@@ -270,7 +270,7 @@ the renowned designer Gérald Genta to design their own iconic watch,
 this one, daringly, in steel. The result, launched in 1972, was the
 
 Royal Oak
-. 
+.
 And Audemars Piguet's ads (for they too now started doing
 brand advertising) emphasized its high cost even more dramatically.
 "Introducing steel at the price of gold," one began. "You're looking
@@ -296,7 +296,7 @@ So they did. Encouraged by the success of the Royal Oak, Patek
 Philippe commissioned Gérald Genta in 1974 to design a similar watch
 for them. The design of the Royal Oak had been inspired by a ship's
 porthole, so the design of this new watch would be inspired by...
-a ship's porthole. It was called the 
+a ship's porthole. It was called the
 
 Nautilus
 , and it launched at
@@ -308,7 +308,7 @@ The Nautilus was 42 millimeters. And as well as being huge it had
 gratuitous knobs on either side of the face, like a pair of ears.
 But you could recognize one from across the room.
 Of all the watches Patek makes now, the Nautilus is the most sought
-after. It's perfectly aligned with what present-day buyers want — 
+after. It's perfectly aligned with what present-day buyers want —
 basically, the loudest possible expression of brand. But in 1976
 it was ahead of its time. In 1976 it was still a little too much.
 The watch that finally turned Patek's fortunes around was another
@@ -322,12 +322,12 @@ Many watchmakers had decorated their cases with hobnails over the
 years, and there had been a Patek model with them since 1968. But
 in 1984 Bittel told Patek president Philippe Stern, in effect: make
 this your standard design, and I'll create an ad campaign to identify
-it in people's heads with your brand. 
+it in people's heads with your brand.
 
 [
 6
 ]
-It worked spectacularly well. The resulting watch, the 
+It worked spectacularly well. The resulting watch, the
 
 3919
 , is
@@ -412,7 +412,7 @@ and watchmakers have perforce been dragged along with it. If they
 don't make gigantic blingy watches for buyers in Hong Kong and
 Dubai, someone else will. So that is what they now find themselves
 doing. And what began with a few comparatively subtle examples of
-the conflict between branding and design is now an all out 
+the conflict between branding and design is now an all out
 
 war
  on
@@ -445,7 +445,7 @@ that got rolled up into the big three American automakers: they're
 ways for their parent companies to target different segments of the
 market. So Longines, for example, no longer competes with Omega,
 because the company that owns them both has assigned it a lower
-tier of the market. 
+tier of the market.
 
 [
 10
@@ -468,7 +468,7 @@ thick. An expensive watch today will be more like 42 millimeters
 in diameter and 10 millimeters thick — more than double the size.
 It would astonish our visitor to look through the windows of what
 were clearly very fancy shops and see what seemed to be cheap
-watches. 
+watches.
 
 [
 11
@@ -541,7 +541,7 @@ that happened to cars. And indeed if our time traveler turned and
 saw a Porsche Cayenne pass by and realized what it was — a huge,
 pseudo-offroad vehicle meant to recall the Porsche 911 — he might
 have been even more shocked than he was by the watches he'd been
-looking at. 
+looking at.
 
 [
 14
@@ -552,7 +552,7 @@ all. They wouldn't sell him one. Because at Patek he'd encounter
 the most extreme brand age phenomenon: artificial scarcity. You
 can't just buy a Nautilus. You have to spend years proving your
 loyalty first by buying your way through multiple tiers of other
-models, and then spend years on a waiting list. 
+models, and then spend years on a waiting list.
 
 [
 15
@@ -568,7 +568,7 @@ of the sale. They weed out flippers by making the path to the scarce
 models so costly in both time and money — so inconvenient and
 unreasonable — that only a genuine fan would endure it. The lower
 tier watches sell for below retail on the secondary market, because
-Patek 
+Patek
 doesn't
  restrict their supply, so a would-be flipper should
 have to spend years making money-losing purchases before he could
@@ -597,11 +597,11 @@ close to retail prices, you're getting close to a price collapse
 — which, since people now buy these watches as investments, would
 have the same disastrous cascading effect as the bursting of an
 asset bubble. It wouldn't just be like the bursting of an asset
-bubble. It would 
+bubble. It would
 be
  the bursting of an asset bubble. That's the
 business an elite watchmaker is in now: carefully managing a sustained
-asset bubble. 
+asset bubble.
 
 [
 16
@@ -812,7 +812,7 @@ and tell you much more than the time.
 ]
 Rolex was awarded an average of 16.6 patents per year in the
 1950s, but only 1.7 per year in the 1960s.
-Pierre-Yves Donzé, 
+Pierre-Yves Donzé,
 The Making of a Status Symbol: A Business History
 of Rolex
 , Manchester University Press, 2025.
@@ -825,7 +825,7 @@ J. Walter Thompson explained the idea they were trying to convey: "Because a Rol
 designed for any situation, however rough or dangerous or heroic
 or exalted, it implies that the man who wears it is, potentially,
 a hero."
-Reprinted in Donzé, 
+Reprinted in Donzé,
 op cit
 .
 [
@@ -854,7 +854,7 @@ on the wrist, and mechanical watches would start to be seen by the
 next cohort of young rich people as an old guy thing. It's hard to
 imagine a luxury watch brand surviving that.
 Thanks
- to Sam Altman, Bill Clerico, 
+ to Sam Altman, Bill Clerico,
 Daniel Gackle, Luis Garcia, the
 people at Goldammer, Jessica Livingston, Ben Miller, Robert Morris,
 John Reardon, D'Arcy Rice, Alex Tabarrok, and Garry Tan for reading

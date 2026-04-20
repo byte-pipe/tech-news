@@ -35,17 +35,17 @@ Mobaseri et al. observed the expected oobleck behavior: more dilute drops flowed
 Physical Review Letters, 2026. DOI:10.1103/fyx7-jb1d(About DOIs).
 
  Jennifer Ouellette
- 
+
 
 Senior Writer
 
  Jennifer Ouellette
- 
+
 
 Senior Writer
 
  Jennifer is a senior writer at Ars Technica with a particular focus on where science meets culture, covering everything from physics and related interdisciplinary topics to her favorite films and TV series. Jennifer lives in Baltimore with her spouse, physicist Sean M. Carroll, and their two cats, Ariel and Caliban.
- 
+
 
 1. 1.Orion helium leak no threat to Artemis II reentry but will require redesign
 2. 2.Thousands of consumer routers hacked by Russia's military

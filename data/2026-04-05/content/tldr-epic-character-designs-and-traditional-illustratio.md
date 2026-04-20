@@ -13,7 +13,7 @@ tags:
 ---
 
 Inspirations
- 
+
 
 # Epic Character Designs And Traditional Illustrations That Prove Hand-Painted Art Is Timeless
 
@@ -25,7 +25,7 @@ Jackson began his illustrious career as a commercial artist and album cover desi
 
 Transitioning into the film and animation industry, Jackson made significant contributions as a production designer, starting with Ralph Bakshi’s animated feature Cool World. He famously worked as one of the key production designers on DreamWorks’ original Shrek and was later nominated for an Annie Award for his work on Firebreather. Today, his Instagram serves as a vibrant gallery where he showcases a mix of his classic animation character designs, recent figurative oil paintings, and personal gallery shows.
 
-If you want more awesome content, subscribe to 
+If you want more awesome content, subscribe to
 Design You Trust Facebook page
 .
 
@@ -92,21 +92,21 @@ Design You Trust Facebook page
 ## Thoughts, Hopes And Disappointments in Kyiv: A Street Photographer’s Photos of Ukraine, 2001-2021
 
 classic
-, 
+,
 cover
-, 
+,
 designers
-, 
+,
 designs
-, 
+,
 illustration
-, 
+,
 jackson
-, 
+,
 paintings
-, 
+,
 posters
-, 
+,
 where
-, 
+,
 world

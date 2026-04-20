@@ -30,7 +30,7 @@ google
 Add Al Jazeera on Google
 info
 People visit the Citadelle Laferriere, a fortress from the early 1800s commonly known as 'La Citadelle', in Milot, Haiti on April 26, 2024 [Ricardo Arduengo/Reuters]
-By 
+By
 Reuters
 Published On 12 Apr 2026
 12 Apr 2026

@@ -11,13 +11,13 @@ tags:
 - tldr
 ---
 
-by 
+by
 Arti Deshpande
-, 
+,
 Robert Stines
- and 
+ and
 Mike Vaughan
- 
+
 
 # Are we living in an AI bubble? Applying lessons from the dot-com era
 
@@ -25,13 +25,13 @@ Opinion
 
 Mar 24, 2026
 7 mins
- 
+
 
 ## Whether the AI bubble pops or not, the real winners will be the companies that didn't bet everything on one vendor and kept their focus on actual value.
 
- 
 
-							Credit: 															
+
+							Credit:
 Zoe Stanford
 
 We’ve seen this economy before. Rapid innovation followed by unprecedented growth, all fueled by investors hungry for ROI. Remembering the dot-com era and the housing market of 07-’08, today many are wondering: Is today’s AI boom another bubble? And if so, is it vulnerable enough to pop soon?
@@ -114,27 +114,27 @@ Markets
 Industry
 IT Strategy
 IT Leadership
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Arti Deshpande															
+														by
+
+																Arti Deshpande
 
 Contributor
 
@@ -149,13 +149,13 @@ Arti Deshpandeis a senior technology solutions business partner for Brown & Brow
 * opinion### Your vendor’s AI is your risk: 4 clauses that could save you from hidden liabilityOct 30, 20256 mins
 * opinion### Your biggest AI risk might be that employees don’t know they’re using itSep 5, 20257 mins
 * opinion### Your enterprise business needs an AI policy. Here’s how to build it outJul 21, 20257 mins
- 
 
- 
 
-														by 															
 
-																Robert Stines															
+
+														by
+
+																Robert Stines
 
 Contributor
 
@@ -163,11 +163,11 @@ Contributor
 
 Robert Stinesis the chief technology and intellectual property counsel at Brown & Brown, where he leads the cybersecurity and technology solutions legal team. A former US Army military intelligence analyst, Robert brings deep specialization in cybersecurity, privacy, data protection and emerging technologies. He previously served as a partner at Smith Gambrell Russell, LLP, and holds a JD from Stetson University College of Law and an MS in cybersecurity from the University of South Florida. Robert has authored numerous articles and contributed to the ABA's "A Practical Guide to Cyber Insurance for Businesses."
 
- 
 
-														by 															
 
-																Mike Vaughan															
+														by
+
+																Mike Vaughan
 
 Contributor
 
@@ -179,7 +179,7 @@ Mike Vaughanserves as chief data officer for Brown & Brown Insurance. In this ro
 
 * opinion### Why thinking like a tech company is essential for your business’s survivalMar 13, 20258 mins
 * opinion### Is your business data forward enough to capitalize on what’s coming?Feb 25, 20258 mins
- 
+
 
 ## Show me more
 
@@ -189,12 +189,12 @@ Podcasts
 Videos
 
 news
- 
- 
+
+
 
 ### Salesforce AI Research identifies trends shaping agentic AI
 
- 
+
 By Thor Olavsrud
 Mar 26, 2026
 5 mins
@@ -204,12 +204,12 @@ Generative AI
 Salesforce
 
 opinion
- 
- 
+
+
 
 ### From vibe coding to multi-agent AI orchestration: Redefining software development
 
- 
+
 By Viral Gandhi
 Mar 26, 2026
 8 mins
@@ -219,12 +219,12 @@ Developer
 Roles
 
 opinion
- 
- 
+
+
 
 ### From hierarchies to triaxial organizations: Designing AI-driven structures
 
- 
+
 By Raúl García Vega
 Mar 26, 2026
 9 mins
@@ -233,12 +233,12 @@ IT Leadership
 Roles
 
 podcast
- 
- 
+
+
 
 ### From AI Ambition to Enterprise Reality - Scaling AI in Southeast Asia
 
- 
+
 Mar 26, 2026
 32 mins
 
@@ -247,38 +247,38 @@ Data Quality
 IT Strategy
 
 podcast
- 
+
 Sponsored by Vertesia
- 
+
 
 ### Episode 4: From fear to framework: Building a secure and compliant AI operating model
 
- 
+
 Mar 24, 2026
 29 mins
 
 Artificial Intelligence
 
 podcast
- 
+
 Sponsored by Vertesia
- 
+
 
 ### Episode 3: Internal alignment: How the CIO can mobilize the entire IT organization for AI
 
- 
+
 Mar 10, 2026
 27 mins
 
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### From AI Ambition to Enterprise Reality - Scaling AI in Southeast Asia
 
- 
+
 By Estelle Quek
 Mar 26, 2026
 32 mins
@@ -288,12 +288,12 @@ Data Quality
 IT Strategy
 
 video
- 
- 
+
+
 
 ### Watch Immersive Help CISOs Prove Cyber Readiness with AI-Powered Attack Simulations
 
- 
+
 Mar 25, 2026
 16 mins
 
@@ -302,12 +302,12 @@ Cybercrime
 Ransomware
 
 video
- 
- 
+
+
 
 ### How Pega Blueprint Uses AI to Turn Workflows Into Running Apps in Minutes
 
- 
+
 Mar 18, 2026
 20 mins
 

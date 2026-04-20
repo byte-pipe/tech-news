@@ -100,14 +100,14 @@ No items found.
 Get Claude Code
 
 curl -fsSL
- https://claude.ai/install.sh 
+ https://claude.ai/install.sh
 | bash
 Copy command to clipboard
 irm
- https://claude.ai/install.ps1 
+ https://claude.ai/install.ps1
 | iex
 Copy command to clipboard
-Or read the 
+Or read the
 documentation
 Try Claude Code
 Try Claude Code

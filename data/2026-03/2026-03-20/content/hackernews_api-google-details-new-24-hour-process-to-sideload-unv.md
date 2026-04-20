@@ -39,22 +39,22 @@ When sideloading apps today, Android phones alert the user to the “unknown sou
 The actual legwork to activate this feature only takes a few seconds, but the 24-hour countdown makes it something you cannot do spur of the moment. But why 24 hours? According to Samat, this is designed to combat the rising use of high-pressure social engineering attacks, in which the scammer convinces the victim they have to install an app immediately to avoid severe consequences.
 
  You’ll have to wait 24 hours to bypass verification.
- 
+
 
  Credit:
  Google
- 
+
 
  You’ll have to wait 24 hours to bypass verification.
 
- 
+
 
  Credit:
 
- 
+
  Google
 
- 
+
 
 “In that 24-hour period, we think it becomes much harder for attackers to persist their attack,” said Samat. “In that time, you can probably find out that your loved one isn’t really being held in jail or that your bank account isn’t really under attack.”
 
@@ -71,22 +71,22 @@ But what does that safety look like? Google swears it’s not interested in the 
 So a rootkit can be malware, but a rootkit you downloaded intentionally because you want root access on your phone is not malware, from Samat’s perspective. Likewise, an alternative YouTube client that bypasses Google’s ads and feature limits isn’t causing the kind of harm that would lead to issues with verification. But these are just broad strokes; Google has not commented on any specific apps.
 
  Google says sideloading isn’t going away, but it is changing.
- 
+
 
  Credit:
  Google
- 
+
 
  Google says sideloading isn’t going away, but it is changing.
 
- 
+
 
  Credit:
 
- 
+
  Google
 
- 
+
 
 Google is proceeding cautiously with the verification rollout, and some details are still spotty. Privacy advocates have expressed concern that verification will create a database that puts independent developers at risk of legal action. Samat says that Google does push back on judicial orders for user data when they are improper. The company further suggests it’s not intending to create a permanent list of developer identities that would be vulnerable to legal demands. We’ve asked for more detail on what data Google retains from the verification process and for what length of time.
 
@@ -103,19 +103,19 @@ Google stands by its assertion that users are 50 times more likely to get malwar
 Google has already started delivering the verifier to devices around the world—it’s integrated with Android 16.1, which launched late in 2025. Eventually, the verifier and advanced flow will be on all currently supported Android devices. However, the UI will be consistent, with Google providing all the components and scare screens. So what you see here should be similar to what appears on your phone in a few months, regardless of who made it.
 
  Ryan Whitwam
- 
+
 
 Senior Technology Reporter
 
  Ryan Whitwam
- 
+
 
 Senior Technology Reporter
 
- Ryan Whitwam is a senior technology reporter at Ars Technica, covering the ways Google, AI, and mobile technology continue to change the world. Over his 20-year career, he's written for Android Police, ExtremeTech, Wirecutter, NY Times, and more. He has reviewed more phones than most people will ever own. You can 
+ Ryan Whitwam is a senior technology reporter at Ars Technica, covering the ways Google, AI, and mobile technology continue to change the world. Over his 20-year career, he's written for Android Police, ExtremeTech, Wirecutter, NY Times, and more. He has reviewed more phones than most people will ever own. You can
 follow him on Bluesky
 , where you will see photos of his dozens of mechanical keyboards.
- 
+
 
 1. 1.TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs
 2. 2.Coal plant forced to stay open due to emergency order isn't even running

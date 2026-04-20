@@ -68,7 +68,7 @@ Do you have running military, nurses, or first responders in your life? Brooks R
 If you’re looking to shop at Brooks, it’s a great idea to join theBrooks Run Clubfor additional perks and discounts. Some of the best things Run Club offers are discounts of 20% off apparel when you join and an annual birthday gift. You’ll just need to log in or join the club for the discount code.
 
 Adrienne So
- is a senior commerce editor for WIRED, where she reviews health and fitness gear. She graduated from the University of Virginia with bachelor’s degrees in English and Spanish and runs, rock climbs, and sings karaoke in her free time. She lives in Portland, Oregon with her husband, two ... 
+ is a senior commerce editor for WIRED, where she reviews health and fitness gear. She graduated from the University of Virginia with bachelor’s degrees in English and Spanish and runs, rock climbs, and sings karaoke in her free time. She lives in Portland, Oregon with her husband, two ...
 Read More
 Senior Commerce Editor
 * X
@@ -84,7 +84,7 @@ Save on every purchase with top KitchenAid coupons from WIRED, including up to 2
 Molly Higgins
 Save Up to 67% With These Chirp Discount Codes and Deals
 Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.
-Boutayna Chokrane 
+Boutayna Chokrane
 L.L.Bean Promo Codes and Coupons: Up to 75% Off
 Find the best L.L.Bean promo codes and coupons for 10% off your first order, major sale discounts, free shipping on $75+, and extra savings for select groups.
 Julia Forbes

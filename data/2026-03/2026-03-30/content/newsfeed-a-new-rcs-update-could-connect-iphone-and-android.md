@@ -27,8 +27,8 @@ RCS Universal Profile 4.0 adds support for interoperable video calls from messag
 RCS Universal Profile 4.0 adds support for interoperable video calls from messaging apps.
 
 by
- 
- 
+
+
 Jay Peters
 Mar 30, 2026, 5:19 PM UTC
 * Link
@@ -36,7 +36,7 @@ Mar 30, 2026, 5:19 PM UTC
 * Gift
 Photography by Allison Johnson / The Verge
 Jay Peters
- 
+
 is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme.
 
 iPhone and Android users might be able to make interoperable video calls through their messaging apps — eventually. Last week, the GSM Association (GSMA) announced that the finalized RCS Universal Profile 4.0 standard will let users turn 1-to-1 or group RCS chats into video calls thanks to a feature called Messaging‑Initiated Video Calls (MIVC).
@@ -78,19 +78,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 
@@ -117,7 +117,7 @@ Nilay Patel
 3:15 PM UTC
 The best deals we’ve found from Amazon’s Big Spring Sale (so far)
 Sheena Vasani
- and 
+ and
 Brandon Widder
 3:05 PM UTC
 For $200 more, you can get a MacBook Air

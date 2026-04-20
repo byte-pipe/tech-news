@@ -1,7 +1,7 @@
 ---
 title: GitHub - kepano/obsidian-skills: Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. · GitHub
 url: https://github.com/kepano/obsidian-skills
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-23T11:38:23.227995

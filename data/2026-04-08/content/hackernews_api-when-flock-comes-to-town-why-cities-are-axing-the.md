@@ -16,78 +16,78 @@ tags:
 * ai atlas
 * Home
 * Home Security
- 
- 
- 
+
+
+
 
 # When Flock Comes to Town: Why Cities Are Axing the Controversial Surveillance Technology
 
- 
- 
- 
+
+
+
 
 Flock Safety surveillance equipment is appearing in neighborhoods across the country. I spoke with experts about the tech, laws and privacy issues at play.
 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 Tyler Lacoma
- 
+
 Editor / Home Security and Smart Home
- 
+
 Tyler has worked on, lived with and tested all types of smart home and security technology for over a dozen years, explaining the latest features, privacy tricks, and top recommendations.
 
-With degrees in Business Management, Literature and Technical Writing, Tyler takes every opportunity to play with the latest AI technology, push smart devices to their limits and occasionally throw cameras off his roof, all to find the best devices to trust in your life. He always checks with the renters (and pets) in his life to see what smart products can work for everyone, in every living situation. 
+With degrees in Business Management, Literature and Technical Writing, Tyler takes every opportunity to play with the latest AI technology, push smart devices to their limits and occasionally throw cameras off his roof, all to find the best devices to trust in your life. He always checks with the renters (and pets) in his life to see what smart products can work for everyone, in every living situation.
 
 Living in beautiful Bend, Oregon gives Tyler plenty of opportunities to test the latest tech in every kind of weather and temperature. But when not at work, he can be found hiking the trails, trying out a new food recipe for his loved ones, keeping up on his favorite reading, or gaming with good friends.
- 
-Expertise
- 
-Smart home | Smart security | Home tech | Energy savings | A/V
- 
- 
- 
-See full bio
- 
- 
- 
- 
- 
-Tyler Lacoma
- 
- 
- 
- 
- 
 
- 
- 
+Expertise
+
+Smart home | Smart security | Home tech | Energy savings | A/V
+
+
+
+See full bio
+
+
+
+
+
+Tyler Lacoma
+
+
+
+
+
+
+
+
 April 8, 2026 3:00 a.m. PT
- 
+
 14 min read
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
 
 Flock surveillance cameras and drones are now common: Here's what they can do.
 
- 
+
 CNET Art
- 
- 
- 
- 
+
+
+
+
 
 Early this year, my home city of Bend, Oregon,ended its contract with surveillance company Flock Safety, following months of public pressure and concerns around weak data privacy protections. Flock's controversialAI-powered license plate cameraswere shut down, and its partnership with local law enforcement ended.
 
@@ -103,15 +103,15 @@ To learn more, I spoke to Flock about how the company's surveillance technology 
 
 ## What it means when Flock Safety sets up in your neighborhood
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Flock's presence means license plate cameras -- and these days, much more.
 
- 
+
 Bloomberg/Contributor/Getty Images
 
 If you hear that Flock is setting up near you, it usually means the installation of ALPR cameras to capture license plate photos and monitor cars on the street.
@@ -126,20 +126,20 @@ Drones like these can be usedto track fleeing suspects. In practice, the key is 
 
 It's important to note that not all cities or neighborhoods refer to Flock Safety by name, even when using its technology. They might mention the Drone as First Responder program, or ALPR cameras, without further details. For example, a Marchannouncement about police dronesfrom the city of Lancaster, California, doesn't mention Flock at all, even thoughit was the companybehind the drone program.
 
- 
- 
+
+
 
 ## How Flock uses tech to ID cars -- and people
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Flock has expanded from cameras to drones, and with that comes greater ability to track people as well as cars.
 
- 
+
 Connecticut Post/Hearst Newspapers/Getty Images
 
 Flock states on its website that its standard license-plate camerascannot technically track vehicles, but only take a "point-in-time" image of a car to nab the license plate.
@@ -172,15 +172,15 @@ When I reached out to the police department in Eugene, another city in Oregon th
 
 ## Does Flock track personal information? The devil is in the details
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 License plates can be closely connected to your personal information.
 
- 
+
 Joa_Souza/Getty Images 
 
 Flock's stance, as outlined in itsprivacy and ethics guide, is that license plate numbers and vehicle descriptions aren't personal information. The company says it doesn't surveil "private data" -- only cars and general descriptive markers.
@@ -195,15 +195,15 @@ Flock's practices -- like its recent push toward live video feeds and drones to 
 
 ## How does Flock Safety handle the data it collects?
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Flock's security practices are solid, but it's the company's users I'm worried about.
 
- 
+
 Anadolu/Contributor/Getty Images
 
 Flock states on its website that itstores datafor 30 days on Amazon Web Services cloud storage and then deletes it. It uses KMS-based encryption (a managed encryption key system common in AWS) and reports that all images and related data are encrypted from on-device storage to cloud storage.
@@ -214,15 +214,15 @@ However, Flock also makes it clear that its customers -- whether that's a local 
 
 ## Abuse of Flock data
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Flock can audit camera access, but that hasn't prevented bad behaviors so far.
 
- 
+
 Matthew Jonas/Boulder Daily Camera/Getty Images
 
 You may have noticed a theme: Flock provides powerful surveillance technology, and the final results are deeply influenced by how customers use it. That can be creepy at best, and an illegal abuse of power at worst.
@@ -237,15 +237,15 @@ Regardless of the auditing tools, the onus is on local organizations to manage i
 
 ## Flock, ICE and the federal government: Data sharing complications
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 While ICE can't directly access Flock's system, they tend to get a lot of help from local law enforcement.
 
- 
+
 Douglas Rissing/Getty Images
 
 ICE is the elephant in the room in my Flock guide. Does Flock share its surveillance data with federal agencies such as ICE? Yes, the federal government frequently has access to that data, buthowit gets access is important.
@@ -268,15 +268,15 @@ With the myriad ways law enforcement shares Flock data with the federal governme
 
 ## The rise of laws limiting what Flock Safety and police can do
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 State laws differ drastically when it comes to Flock surveillance, but legislation is on the rise.
 
- 
+
 Klaus Vedfelt/Getty Images
 
 In the past two years, a growing number of state laws have been passed or proposed to address Flock Safety, license plate readers and surveillance. Much of this legislation is bipartisan, or has been passed by both traditionally right- and left-leaning states, although some go further than others.
@@ -303,15 +303,15 @@ When this happens, the recourse is typically a lawsuit, eitherfrom the state att
 
 ## Living with Flock Safety and its growing competitors
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 Many other AI surveillance tools are appearing, including some aimed at law enforcement and businesses.
 
- 
+
 NurPhoto/Contributor/Getty Images
 
 Marlow acknowledged that individuals can't do much about Flock surveillance without bans or legislation.
@@ -322,15 +322,15 @@ However, Marlow suggested minor changes that could make a difference for those w
 
 Ditching or restricting Flock Safety is one way communities are fighting back against what they consider to be unnecessary surveillance with the potential for abuse. But AI surveillance doesn't begin or end with one company.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 When multiple companies, including Motorola, are offering similar tools, the problem becomes much larger than Flock Safety tech.
 
- 
+
 Motorola Solutions
 
 Flock Safety is an intermediary that provides technology in demand by powerful organizations. It's hardly the only one with these kinds of high-tech eyes -- it's just one of the first to enter the market at a national level. If Flock were gone, another company would likely step in to fill the gap, unless restricted by law.
@@ -341,15 +341,15 @@ But rivalsareshowing up, fromShield AI for military intelligenceto commercial ap
 
 ## Other steps to take if you're worried
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 If you want to take an extra step, you can volunteer, donate and participate in a variety of anti-surveillance activities.
 
- 
+
 Institute for Justice
 
 The first step is being aware, including knowing which new cameras your city is installing and which software partnerships your local law enforcement has. If you don't like what you discover, find ways to participate inthe decision-making process, like attending open city council meetings on Flock, as in Bend.

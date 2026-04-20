@@ -11,7 +11,7 @@ description: Contribute to Vaibhavs10/insanely-fast-whisper development by creat
 
 Vaibhavs10
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork775
 * Star10.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -119,9 +119,9 @@ fp32
 
 large-v3 (Transformers) (
 fp16
- + 
+ +
 batching [24]
- + 
+ +
 bettertransformer
 )
 
@@ -131,9 +131,9 @@ bettertransformer
 
 large-v3 (Transformers) (
 fp16
- + 
+ +
 batching [24]
- + 
+ +
 Flash Attention 2
 )
 
@@ -143,9 +143,9 @@ Flash Attention 2
 
 distil-large-v2 (Transformers) (
 fp16
- + 
+ +
 batching [24]
- + 
+ +
 bettertransformer
 )
 
@@ -155,9 +155,9 @@ bettertransformer
 
 distil-large-v2 (Transformers) (
 fp16
- + 
+ +
 batching [24]
- + 
+ +
 Flash Attention 2
 )
 
@@ -167,7 +167,7 @@ Flash Attention 2
 
 large-v2 (Faster Whisper) (
 fp16
- + 
+ +
 beam_size [1]
 )
 
@@ -177,7 +177,7 @@ beam_size [1]
 
 large-v2 (Faster Whisper) (
 8-bit
- + 
+ +
 beam_size [1]
 )
 
@@ -208,7 +208,7 @@ If you're installing withpip, you can pass the argument directly:pip install ins
 
 Run inference from any path on your computer:
 
-insanely-fast-whisper --file-name 
+insanely-fast-whisper --file-name
 <
 filename or URL
 >
@@ -217,23 +217,23 @@ Note: if you are running on macOS, you also need to add--device-id mpsflag.
 
 🔥 You can runWhisper-large-v3w/Flash Attention 2from this CLI too:
 
-insanely-fast-whisper --file-name 
+insanely-fast-whisper --file-name
 <
 filename or URL
 >
- --flash True 
+ --flash True
 
 🌟 You can rundistil-whisperdirectly from this CLI too:
 
-insanely-fast-whisper --model-name distil-whisper/large-v2 --file-name 
+insanely-fast-whisper --model-name distil-whisper/large-v2 --file-name
 <
 filename or URL
 >
- 
+
 
 Don't want to installinsanely-fast-whisper? Just usepipx run:
 
-pipx run insanely-fast-whisper --file-name 
+pipx run insanely-fast-whisper --file-name
 <
 filename or URL
 >
@@ -257,11 +257,11 @@ Theinsanely-fast-whisperrepo provides an all round support for running Whisper i
  Name of the pretrained model/ checkpoint to perform ASR. (default: openai/whisper-large-v3)
  --task {transcribe,translate}
  Task to perform: transcribe or translate to another language. (default: transcribe)
- --language LANGUAGE 
+ --language LANGUAGE
  Language of the input audio. (default: "None" (Whisper auto-detects the language))
  --batch-size BATCH_SIZE
  Number of parallel batches you want to compute. Reduce if you face OOMs. (default: 24)
- --flash FLASH 
+ --flash FLASH
  Use Flash Attention 2. Read the FAQs to see how to install FA2 correctly. (default: False)
  --timestamp {chunk,word}
  Whisper supports both chunked as well as word level timestamps. (default: chunk)
@@ -297,97 +297,97 @@ All you need to run is the below snippet:
 pip install --upgrade transformers optimum accelerate
 
 import
- 
+
 torch
 
 from
- 
+
 transformers
- 
+
 import
- 
+
 pipeline
 
 from
- 
+
 transformers
 .
 utils
- 
+
 import
- 
+
 is_flash_attn_2_available
 
 pipe
- 
+
 =
- 
+
 pipeline
 (
- 
+
 "automatic-speech-recognition"
 ,
- 
+
 model
 =
 "openai/whisper-large-v3"
-, 
+,
 # select checkpoint from https://huggingface.co/openai/whisper-large-v3#model-details
 
- 
+
 torch_dtype
 =
 torch
 .
 float16
 ,
- 
+
 device
 =
 "cuda:0"
-, 
+,
 # or mps for Mac devices
 
- 
+
 model_kwargs
 =
 {
 "attn_implementation"
-: 
+:
 "flash_attention_2"
-} 
+}
 if
- 
+
 is_flash_attn_2_available
-() 
+()
 else
  {
 "attn_implementation"
-: 
+:
 "sdpa"
 },
 )
 
 outputs
- 
+
 =
- 
+
 pipe
 (
- 
+
 "<FILE_NAME>"
 ,
- 
+
 chunk_length_s
 =
 30
 ,
- 
+
 batch_size
 =
 24
 ,
- 
+
 return_timestamps
 =
 True
@@ -412,54 +412,54 @@ outputs
 ## About
 
  No description, website, or topics provided.
- 
+
 
 ### Resources
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 10.6k
 
  stars
- 
+
 
 ### Watchers
 
 79
 
  watching
- 
+
 
 ### Forks
 
 775
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -477,17 +477,17 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -495,9 +495,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

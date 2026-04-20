@@ -42,15 +42,15 @@ These glasses, meanwhile, sound closer to theMetaâ€™s Ray-Ban glasses. They wonâ
 Topics
 
 AI
-, 
+,
 Apple
-, 
+,
 Gadgets
-, 
+,
 Hardware
-, 
+,
 SMART Glasses
- 
+
 
 ### Newsletters
 
@@ -75,7 +75,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

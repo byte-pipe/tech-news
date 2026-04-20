@@ -19,7 +19,7 @@ Experts say Trump's decision to sue over his leaked tax returns risks putting hi
 
 US President Donald Trump has alleged that the leak of his tax returns caused 'irreparable harm' to his family and businesses [File: Kevin Lamarque/Reuters]
 US President Donald Trump has alleged that the leak of his tax returns caused 'irreparable harm' to his family and businesses [File: Kevin Lamarque/Reuters]
-By 
+By
 Adam Shanks
 Published On 13 Mar 2026
 13 Mar 2026

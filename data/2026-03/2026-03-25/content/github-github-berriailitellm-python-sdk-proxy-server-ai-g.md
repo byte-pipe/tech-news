@@ -11,7 +11,7 @@ description: Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in Open
 
 BerriAI
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork6.7k
 * Star40.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -322,15 +322,15 @@ All Supported Endpoints-/chat/completions,/responses,/embeddings,/images,/audio,
 pip install litellm
 
 from
- 
+
 litellm
- 
+
 import
- 
+
 completion
 
 import
- 
+
 os
 
 os
@@ -338,9 +338,9 @@ os
 environ
 [
 "OPENAI_API_KEY"
-] 
+]
 =
- 
+
 "your-openai-key"
 
 os
@@ -348,56 +348,56 @@ os
 environ
 [
 "ANTHROPIC_API_KEY"
-] 
+]
 =
- 
+
 "your-anthropic-key"
 
 # OpenAI
 
 response
- 
+
 =
- 
+
 completion
 (
 model
 =
 "openai/gpt-4o"
-, 
+,
 messages
 =
 [{
 "role"
-: 
+:
 "user"
-, 
+,
 "content"
-: 
+:
 "Hello!"
 }])
 
-# Anthropic 
+# Anthropic
 
 response
- 
+
 =
- 
+
 completion
 (
 model
 =
 "anthropic/claude-sonnet-4-20250514"
-, 
+,
 messages
 =
 [{
 "role"
-: 
+:
 "user"
-, 
+,
 "content"
-: 
+:
 "Hello!"
 }])
 
@@ -405,7 +405,7 @@ messages
 
 Getting Started - E2E Tutorial- Setup virtual keys, make your first request
 
-pip install 
+pip install
 '
 litellm[proxy]
 '
@@ -413,13 +413,13 @@ litellm[proxy]
 litellm --model gpt-4o
 
 import
- 
+
 openai
 
 client
- 
+
 =
- 
+
 openai
 .
 OpenAI
@@ -427,16 +427,16 @@ OpenAI
 api_key
 =
 "anything"
-, 
+,
 base_url
 =
 "http://0.0.0.0:4000"
 )
 
 response
- 
+
 =
- 
+
 client
 .
 chat
@@ -445,21 +445,21 @@ completions
 .
 create
 (
- 
+
 model
 =
 "gpt-4o"
 ,
- 
+
 messages
 =
 [{
 "role"
-: 
+:
 "user"
-, 
+,
 "content"
-: 
+:
 "Hello!"
 }]
 )
@@ -474,39 +474,39 @@ Supported Providers- LangGraph, Vertex AI Agent Engine, Azure AI Foundry, Bedroc
 ### Python SDK - A2A Protocol
 
 from
- 
+
 litellm
 .
 a2a_protocol
- 
+
 import
- 
+
 A2AClient
 
 from
- 
+
 a2a
 .
 types
- 
+
 import
- 
+
 SendMessageRequest
-, 
+,
 MessageSendParams
 
 from
- 
+
 uuid
- 
+
 import
- 
+
 uuid4
 
 client
- 
+
 =
- 
+
 A2AClient
 (
 base_url
@@ -515,46 +515,46 @@ base_url
 )
 
 request
- 
+
 =
- 
+
 SendMessageRequest
 (
- 
+
 id
 =
 str
 (
 uuid4
 ()),
- 
+
 params
 =
 MessageSendParams
 (
- 
+
 message
 =
 {
- 
+
 "role"
-: 
+:
 "user"
 ,
- 
+
 "parts"
 : [{
 "kind"
-: 
+:
 "text"
-, 
+,
 "text"
-: 
+:
 "Hello!"
 }],
- 
+
 "messageId"
-: 
+:
 uuid4
 ().
 hex
@@ -564,11 +564,11 @@ hex
 )
 
 response
- 
+
 =
- 
+
 await
- 
+
 client
 .
 send_message
@@ -583,63 +583,63 @@ Step 1.Add your Agent to the AI Gateway
 Step 2.Call Agent via A2A SDK
 
 from
- 
+
 a2a
 .
 client
- 
+
 import
- 
+
 A2ACardResolver
-, 
+,
 A2AClient
 
 from
- 
+
 a2a
 .
 types
- 
+
 import
- 
+
 MessageSendParams
-, 
+,
 SendMessageRequest
 
 from
- 
+
 uuid
- 
+
 import
- 
+
 uuid4
 
 import
- 
+
 httpx
 
 base_url
- 
+
 =
- 
+
 "http://localhost:4000/a2a/my-agent"
- 
+
 # LiteLLM proxy + agent name
 
 headers
- 
+
 =
  {
 "Authorization"
-: 
+:
 "Bearer sk-1234"
-} 
+}
 # LiteLLM Virtual Key
 
 async
- 
+
 with
- 
+
 httpx
 .
 AsyncClient
@@ -647,95 +647,95 @@ AsyncClient
 headers
 =
 headers
-) 
+)
 as
- 
+
 httpx_client
 :
- 
+
 resolver
- 
+
 =
- 
+
 A2ACardResolver
 (
 httpx_client
 =
 httpx_client
-, 
+,
 base_url
 =
 base_url
 )
- 
+
 agent_card
- 
+
 =
- 
+
 await
- 
+
 resolver
 .
 get_agent_card
 ()
- 
+
 client
- 
+
 =
- 
+
 A2AClient
 (
 httpx_client
 =
 httpx_client
-, 
+,
 agent_card
 =
 agent_card
 )
 
- 
+
 request
- 
+
 =
- 
+
 SendMessageRequest
 (
- 
+
 id
 =
 str
 (
 uuid4
 ()),
- 
+
 params
 =
 MessageSendParams
 (
- 
+
 message
 =
 {
- 
+
 "role"
-: 
+:
 "user"
 ,
- 
+
 "parts"
 : [{
 "kind"
-: 
+:
 "text"
-, 
+,
 "text"
-: 
+:
 "Hello!"
 }],
- 
+
 "messageId"
-: 
+:
 uuid4
 ().
 hex
@@ -743,13 +743,13 @@ hex
  }
  )
  )
- 
+
 response
- 
+
 =
- 
+
 await
- 
+
 client
 .
 send_message
@@ -765,49 +765,49 @@ MCP Tools
 ### Python SDK - MCP Bridge
 
 from
- 
+
 mcp
- 
+
 import
- 
+
 ClientSession
-, 
+,
 StdioServerParameters
 
 from
- 
+
 mcp
 .
 client
 .
 stdio
- 
+
 import
- 
+
 stdio_client
 
 from
- 
+
 litellm
- 
+
 import
- 
+
 experimental_mcp_client
 
 import
- 
+
 litellm
 
 server_params
- 
+
 =
- 
+
 StdioServerParameters
 (
 command
 =
 "python"
-, 
+,
 args
 =
 [
@@ -815,52 +815,52 @@ args
 ])
 
 async
- 
+
 with
- 
+
 stdio_client
 (
 server_params
-) 
+)
 as
  (
 read
-, 
+,
 write
 ):
- 
+
 async
- 
+
 with
- 
+
 ClientSession
 (
 read
-, 
+,
 write
-) 
+)
 as
- 
+
 session
 :
- 
+
 await
- 
+
 session
 .
 initialize
 ()
 
- 
+
 # Load MCP tools in OpenAI format
 
- 
+
 tools
- 
+
 =
- 
+
 await
- 
+
 experimental_mcp_client
 .
 load_mcp_tools
@@ -868,44 +868,44 @@ load_mcp_tools
 session
 =
 session
-, 
+,
 format
 =
 "openai"
 )
 
- 
+
 # Use with any LiteLLM model
 
- 
+
 response
- 
+
 =
- 
+
 await
- 
+
 litellm
 .
 acompletion
 (
- 
+
 model
 =
 "gpt-4o"
 ,
- 
+
 messages
 =
 [{
 "role"
-: 
+:
 "user"
-, 
+,
 "content"
-: 
+:
 "What's 3 + 5?"
 }],
- 
+
 tools
 =
 tools
@@ -918,22 +918,22 @@ Step 1.Add your MCP Server to the AI Gateway
 
 Step 2.Call MCP tools via/chat/completions
 
-curl -X POST 
+curl -X POST
 '
 http://0.0.0.0:4000/v1/chat/completions
 '
  \
- -H 
+ -H
 '
 Authorization: Bearer sk-1234
 '
  \
- -H 
+ -H
 '
 Content-Type: application/json
 '
  \
- -d 
+ -d
 '
 {
 
@@ -959,25 +959,25 @@ Content-Type: application/json
 ### Use with Cursor IDE
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "LiteLLM"
 : {
- 
+
 "url"
-: 
+:
 "
 http://localhost:4000/mcp/
 "
 ,
- 
+
 "headers"
 : {
- 
+
 "x-litellm-api-key"
-: 
+:
 "
 Bearer sk-1234
 "
@@ -1013,7 +1013,7 @@ Key Features
 
 Centralized API gateway with authentication and authorization, multi-tenant cost tracking and spend management per project/user, per-project customization (logging, guardrails, caching), virtual keys for secure access control, admin dashboard UI for monitoring and management
 
-Direct Python library integration in your codebase, Router with retry/fallback logic across multiple deployments (e.g. Azure/OpenAI) - 
+Direct Python library integration in your codebase, Router with retry/fallback logic across multiple deployments (e.g. Azure/OpenAI) -
 Router
 , application-level load balancing and cost tracking, exception handling with OpenAI-compatible errors, observability callbacks (Lunary, MLflow, Langfuse, etc.)
 
@@ -2188,23 +2188,23 @@ git clone https://github.com/BerriAI/litellm.git
 
 cd
  litellm
-make install-dev 
+make install-dev
 #
  Install development dependencies
 
-make format 
+make format
 #
  Format your code
 
-make lint 
+make lint
 #
  Run all linting checks
 
-make test-unit 
+make test-unit
 #
  Run unit tests
 
-make format-check 
+make format-check
 #
  Check formatting only
 
@@ -2278,61 +2278,61 @@ docs.litellm.ai/docs/
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 40.4k
 
  stars
- 
+
 
 ### Watchers
 
 173
 
  watching
- 
+
 
 ### Forks
 
 6.7k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases1,289
 
@@ -2340,11 +2340,11 @@ v1.82.3-stable.patch.2
 
  Latest
 
- 
+
 
 Mar 24, 2026
 
- 
+
 
 + 1,288 releases
 
@@ -2354,11 +2354,11 @@ Mar 24, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * https://buy.stripe.com/9AQ03Kd3P91o0Q8bIS
 
 ## Packages0
@@ -2373,14 +2373,14 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Used by19.3k
 
  + 19,242
- 
+
 
 ## Contributors
 
@@ -2388,9 +2388,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

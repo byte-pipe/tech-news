@@ -15,7 +15,7 @@ tags:
 
 torvalds
 
- 
+
 
 /
 
@@ -27,11 +27,11 @@ Public
 * Fork61.5k
 * Star228k
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 ## FilesExpand file tree
 
@@ -46,7 +46,7 @@ Blame
 More file actions
 Blame
 More file actions
- 
+
 
 ## Latest commit
 

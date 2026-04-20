@@ -1,7 +1,7 @@
 ---
 title: GitHub - ItzCrazyKns/Perplexica: Perplexica is an AI-powered answering engine. · GitHub
 url: https://github.com/ItzCrazyKns/Perplexica
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-04T11:37:20.400945

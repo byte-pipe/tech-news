@@ -11,7 +11,7 @@ description: A set of beautifully-designed, accessible components and a code dis
 
 shadcn-ui
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork8k
 * Star108k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -226,61 +226,61 @@ ui.shadcn.com
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 108k
 
  stars
- 
+
 
 ### Watchers
 
 314
 
  watching
- 
+
 
 ### Forks
 
 8k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases76
 
@@ -288,11 +288,11 @@ shadcn@4.0.0
 
  Latest
 
- 
+
 
 Mar 6, 2026
 
- 
+
 
 + 75 releases
 
@@ -300,7 +300,7 @@ Mar 6, 2026
 
  
 
- 
+
 
  Sponsor
 
@@ -308,18 +308,18 @@ Mar 6, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Learn more about GitHub Sponsors
 
 ## Used by13.4k
 
  + 13,437
- 
+
 
 ## Contributors
 
@@ -327,9 +327,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

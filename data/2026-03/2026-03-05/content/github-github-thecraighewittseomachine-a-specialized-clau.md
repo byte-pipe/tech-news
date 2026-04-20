@@ -11,7 +11,7 @@ description: A specialized Claude Code workspace for creating long-form, SEO-opt
 
 TheCraigHewitt
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork277
 * Star1.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -233,7 +233,7 @@ This installs:
 
 1. Open in Claude Code:
 
-claude-code 
+claude-code
 .
 
 1. Customize Context Files(Important!):All context files are provided as templates. Fill them out with your company's information:* context/brand-voice.md- Define your brand voice and messaging(see examples/castos/ for reference)
@@ -677,63 +677,63 @@ Skills
 Copywriting
 
 /copywriting
-, 
+,
 /copy-editing
 
 CRO
 
 /page-cro
-, 
+,
 /form-cro
-, 
+,
 /signup-flow-cro
-, 
+,
 /onboarding-cro
-, 
+,
 /popup-cro
-, 
+,
 /paywall-upgrade-cro
 
 Strategy
 
 /content-strategy
-, 
+,
 /pricing-strategy
-, 
+,
 /launch-strategy
-, 
+,
 /marketing-ideas
 
 Channels
 
 /email-sequence
-, 
+,
 /social-content
-, 
+,
 /paid-ads
 
 SEO
 
 /seo-audit
-, 
+,
 /schema-markup
-, 
+,
 /programmatic-seo
-, 
+,
 /competitor-alternatives
 
 Analytics
 
 /analytics-tracking
-, 
+,
 /ab-test-setup
 
 Other
 
 /referral-program
-, 
+,
 /free-tool-strategy
-, 
+,
 /marketing-psychology
 
 ## Data Sources
@@ -1328,53 +1328,53 @@ seomachine.io
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 1.2k
 
  stars
- 
+
 
 ### Watchers
 
 27
 
  watching
- 
+
 
 ### Forks
 
 277
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -1392,9 +1392,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1402,9 +1402,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

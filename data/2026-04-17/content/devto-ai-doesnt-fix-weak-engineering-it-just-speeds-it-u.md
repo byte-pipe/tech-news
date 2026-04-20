@@ -98,7 +98,7 @@ That's the conversation worth having. Not whether to use AI. Whether you're read
 One email a week from The Builder's Leader. The frameworks, the blind spots, and the conversations most leaders avoid.Subscribe for free.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -109,7 +109,7 @@ Preview
 Dismiss
 
  View full discussion (14 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

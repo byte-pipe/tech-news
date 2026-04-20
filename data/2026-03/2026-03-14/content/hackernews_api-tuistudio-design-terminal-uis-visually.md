@@ -33,13 +33,13 @@ Windows
 🐳 Docker
 
  Apple Silicon  ·  M1  M2  M3  M4
- 
+
 
  Can't run it? It's safe — 
 see how to open it ↓
 
  View on GitHub
- 
+
 
 Features
 
@@ -132,7 +132,7 @@ Components
 All the building blocks for a full terminal application.
 
  components — 21 items
- 
+
 
 Screen
 
@@ -247,6 +247,6 @@ Windows
 🐳 Docker
 
  Apple Silicon  ·  M1  M2  M3  M4
- 
+
 
 ✕

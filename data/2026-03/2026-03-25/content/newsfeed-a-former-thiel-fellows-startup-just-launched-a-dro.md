@@ -30,7 +30,7 @@ The drone’s landing station (which Brinc calls a “charging nest”) offers f
 
 Guardian also comes with a Starlink panel embedded directly into its body, making it—according to Brinc—the first public safety drone with such a capability. Starlink, SpaceX’s satellite internet service, affords the drone connectivity at any location throughout the world. “Starlink has never been built into a commercially produced quadcopter before, so [it] gives this airframe unlimited range anywhere in the world,” Resnick tells me.
 
- 
+
 
 Techcrunch event
 
@@ -61,26 +61,26 @@ Additionally, Resnick feels that recent geopolitical developments have worked in
 Topics
 
 brinc
-, 
+,
 drones
-, 
+,
 Peter Thiel
-, 
+,
 sam altman
-, 
+,
 Starlink
-, 
+,
 startup
-, 
+,
 Startups
- 
 
-			Lucas Ropek	
+
+			Lucas Ropek
 
 Senior Writer, TechCrunch
 
-		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. 
+		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo.
 
-You can contact Lucas by emailing lucas.ropek@techcrunch.com.	
+You can contact Lucas by emailing lucas.ropek@techcrunch.com.
 
 View Bio

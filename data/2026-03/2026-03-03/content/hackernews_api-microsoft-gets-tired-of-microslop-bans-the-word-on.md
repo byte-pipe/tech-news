@@ -15,13 +15,13 @@ tags:
 ---
 
 Home
- 
- 
+
+
 Microsoft
 
 * Microsoft
 
- 
+
 
 Copilot's official Discord channel was locked down after users went haywire with unflattering nicknames targeted at Microsoft
 
@@ -93,46 +93,46 @@ Abhijith is a contributing editor for Windows Latest. At Windows Latest, he has 
 
 #### RELATED ARTICLESMORE FROM AUTHOR
 
- 
+
 
 ### Microsoft Copilot Canvas leak reveals an AI-powered Whiteboard with image generation, AI streaming, and more
 
- 
 
- 
 
- 
+
+
+
 
 ### Tested: Microsoft Copilot can now access your Google Contacts, and it’s better than Gemini integration
 
- 
 
- 
 
- 
+
+
+
 
 ### I tested Microsoft Edge’s AI tab organizer, and it’s shockingly good
 
- 
 
- 
 
- 
+
+
+
 
 ### Privacy researcher debunks Microsoft Edge’s free VPN marketing, says it’s “NOT a VPN”
 
- 
 
- 
 
- 
+
+
+
 
 ### Copilot quietly pulls your data from other Microsoft products, including Edge and MSN, but you can opt out
 
- 
 
- 
 
- 
+
+
+
 
 ### Microsoft 365 Copilot for Android or iOS auto-sends files to AI & OneDrive before you even realise it, instead of opening normally

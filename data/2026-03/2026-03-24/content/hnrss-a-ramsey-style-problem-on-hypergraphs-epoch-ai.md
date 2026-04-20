@@ -32,64 +32,64 @@ Single Challenge: we ask for a value of \(n\) for which no construction is known
 
 Full Problem: we ask for a general algorithm for all \(n\).
 
- 
- 
+
+
 
 ## Attempts by AI
 
- 
+
 
 We have evaluated the following models on this problem. “Warm-up” refers to an easier variant of the problem with a known solution.
 
 ## AI Prompts
 
- 
- 
- 
- 
+
+
+
+
 
 ### Warm-up
 
- 
+
 
 Copy
- 
- 
- 
+
+
+
 A hypergraph (V, H) is said to contain a partition of size n if there is some D ⊆ V and P ⊆ H such that |D| = n and every member of D is contained in exactly one member of P. Find a hypergraph (V, H) with no isolated vertices such that |V| ≥ 64, |H| ≤ 20, and (V, H) contains no partitions of size > 20.
 
 Output the hypergraph as a string where vertices are labeled, 1, ..., |V|, and edges are denoted with curly braces. Example: {1,2,3},{2,4},{3,4,5},{1,5}
- 
- 
- 
- 
- 
+
+
+
+
+
 
 ### Single challenge
 
- 
+
 
 Copy
- 
- 
- 
+
+
+
 A hypergraph (V, H) is said to contain a partition of size n if there is some D ⊆ V and P ⊆ H such that |D| = n and every member of D is contained in exactly one member of P. Find a hypergraph (V, H) with no isolated vertices such that |V| ≥ 66, |H| ≤ 20, and (V, H) contains no partitions of size > 20.
 
 Output the hypergraph as a string where vertices are labeled, 1, ..., |V|, and edges are denoted with curly braces. Example: {1,2,3},{2,4},{3,4,5},{1,5}
- 
- 
- 
- 
- 
+
+
+
+
+
 
 ### Full problem
 
- 
+
 
 Copy
- 
- 
- 
+
+
+
 A hypergraph (V, H) is said to contain a partition of size n if there is some D ⊆ V and P ⊆ H such that |D| = n and every member of D is contained in exactly one member of P. Define H(n) to be the largest integer k such that there is a hypergraph (V, H) with |V| = k having no isolated vertices and containing no partitions of size greater than n.
 
 It is known that H(n) ≥ k_n, where k_n is defined recursively by the formula k_1 = 1 and k_n = ⌊n/2⌋ + k_⌊n/2⌋ + k_⌊(n+1)/2⌋.
@@ -102,19 +102,19 @@ Solution format:
 * Write a Python script defining a function `solution(n: int) -> str`.
 * Do not include any code at the file level. You may include a `main` block for testing, but it will not be executed by the verifier.
 * For n ≤ 100, the algorithm must complete within 10 minutes when run on a typical laptop.
- 
- 
- 
- 
+
+
+
+
 
 ## Mathematician survey
 
- 
+
 
 The author assessed the problem as follows.
 
- 
- 
+
+
 
 Number of mathematicians highly familiar with the problem:
 

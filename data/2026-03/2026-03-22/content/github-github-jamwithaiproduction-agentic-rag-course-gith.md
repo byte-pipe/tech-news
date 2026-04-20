@@ -11,7 +11,7 @@ description: Contribute to jamwithai/production-agentic-rag-course development b
 
 jamwithai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.2k
 * Star4.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -186,7 +186,7 @@ Key Innovations in Week 7:
 #
  1. Clone and setup
 
-git clone 
+git clone
 <
 repository-url
 >
@@ -200,7 +200,7 @@ cd
 cp .env.example .env
 
 #
- The .env file contains all necessary configuration for OpenSearch, 
+ The .env file contains all necessary configuration for OpenSearch,
 
 #
  arXiv API, and service connections. Defaults work out of the box.
@@ -302,7 +302,7 @@ week7.0
 #
  Clone a specific week's code
 
-git clone --branch 
+git clone --branch
 <
 WEEK_TAG
 >
@@ -419,7 +419,7 @@ Data Pipeline Components:
 ### 📓 Implementation Guide
 
 #
- Launch the Week 2 notebook 
+ Launch the Week 2 notebook
 
 uv run jupyter notebook notebooks/week2/week2_arxiv_integration.ipynb
 
@@ -763,27 +763,27 @@ API Documentation:Visithttp://localhost:8000/docsfor interactive API explorer
 #
  View all available commands
 
-make 
+make
 help
 
 #
  Quick workflow
 
-make start 
+make start
 #
  Start all services
 
-make health 
+make health
 #
  Check all services health
 
-make 
+make
 test
- 
+
 #
  Run tests
 
-make stop 
+make stop
 #
  Stop services
 
@@ -846,19 +846,19 @@ Clean up everything
 #
  If you prefer using commands directly
 
-docker compose up --build -d 
+docker compose up --build -d
 #
  Start services
 
-docker compose ps 
+docker compose ps
 #
  Check status
 
-docker compose logs 
+docker compose logs
 #
  View logs
 
-uv run pytest 
+uv run pytest
 #
  Run tests
 
@@ -918,54 +918,54 @@ MIT License - seeLICENSEfile for details.
 ## About
 
  No description, website, or topics provided.
- 
+
 
 ### Resources
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 4.5k
 
  stars
- 
+
 
 ### Watchers
 
 52
 
  watching
- 
+
 
 ### Forks
 
 1.2k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases7
 
@@ -973,11 +973,11 @@ Week 7: Agentic RAG with LangGraph and Telegram Bot
 
  Latest
 
- 
+
 
 Nov 26, 2025
 
- 
+
 
 + 6 releases
 
@@ -993,9 +993,9 @@ Nov 26, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1003,9 +1003,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

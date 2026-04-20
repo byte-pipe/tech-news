@@ -218,7 +218,7 @@ Plans are for you.Not the other way around.
 If something clearly doesn’t work — recalibrate.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -229,7 +229,7 @@ Preview
 Dismiss
 
  View full discussion (31 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

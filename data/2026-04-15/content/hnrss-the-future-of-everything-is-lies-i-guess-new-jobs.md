@@ -15,13 +15,13 @@ tags:
 # The Future of Everything is Lies, I Guess: New Jobs
 
 Software
- 
+
 LLM
- 
+
 The Future of Everything is Lies I Guess
 
  2026-04-15
- 
+
 
 Table of Contents
 

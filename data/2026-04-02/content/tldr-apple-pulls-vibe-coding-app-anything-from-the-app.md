@@ -19,10 +19,10 @@ tags:
 
 # Apple steps up crackdown on vibe coding apps, pulls ‘Anything’ from the App Store
 
- 
+
 
 Marcus Mendes
- | Mar 30 2026 - 3:30 pm PT																
+ | Mar 30 2026 - 3:30 pm PT
 
 Asreported byThe Information, Apple pulled vibe coding app ‘Anything’ from the App Store last week, citing a self-containment rule from its App Review Guidelines. Here are the details.
 
@@ -66,27 +66,27 @@ What’s your take on how Apple is dealing withvibe coding apps? Let us know in 
 
 FTC: We use income earning auto affiliate links.More.
 
-You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out 
+You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out
 our homepage
- for all the latest news, and follow 9to5Mac on 
+ for all the latest news, and follow 9to5Mac on
 Twitter
-, 
+,
 Facebook
-, and 
+, and
 LinkedIn
- to stay in the loop. Don’t know where to start? Check out our 
+ to stay in the loop. Don’t know where to start? Check out our
 exclusive stories
-, 
+,
 reviews
-, 
+,
 how-tos
-, and 
+, and
 subscribe to our YouTube channel
- 
+
 
 Check out 9to5Mac on YouTube for more Apple news:
 
- 
+
 
 ## Comments
 
@@ -102,11 +102,11 @@ vibe coding
 
 ## Author
 
- 
 
-			Marcus Mendes		
 
-https://www.threads.com/mvcmendes			
+			Marcus Mendes
+
+https://www.threads.com/mvcmendes
 
 Marcus Mendes is a Brazilian tech podcaster and journalist who has been closely following Apple since the mid-2000s.
 

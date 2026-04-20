@@ -9,7 +9,7 @@ author: callsonreddit
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -19,13 +19,13 @@ r/worldnews
 
 callsonreddit
 
- 
 
- 
+
+
 
 # Iran's strike wounded over a dozen U.S. personnel and hit valuable jets in Saudi Arabia
 
  npr.org
- 
+
 
 Open

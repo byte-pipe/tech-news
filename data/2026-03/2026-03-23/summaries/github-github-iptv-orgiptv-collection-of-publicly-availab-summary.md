@@ -1,7 +1,7 @@
 ---
 title: GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world · GitHub
 url: https://github.com/iptv-org/iptv
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-03-23T11:25:01.565042

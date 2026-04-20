@@ -31,7 +31,7 @@ google
 Add Al Jazeera on Google
 info
 Italian Prime Minister Giorgia Meloni votes during a referendum on reforms to Italy’s justice system before the polls close in Rome, Italy, March 23, 2026 [Remo Casilli/Reuters]
-By 
+By
 Nils Adler
 Published On 24 Mar 2026
 24 Mar 2026
@@ -54,9 +54,9 @@ And in Italy, voters dealt a blow to right-wing Prime Minister Giorgia Meloni in
 
 Taken together, the results suggest Europe’s far right – buoyed in recent years by concerns over migration, inflation and identity politics – may be struggling to convert momentum into decisive electoral victories, but analysts urge against jumping to long-term conclusions.
 
- 
 
- 
+
+
 
 ## Could the populist far right have hit a ‘hard ceiling’?
 

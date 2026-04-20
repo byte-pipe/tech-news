@@ -21,7 +21,7 @@ Key Points:
 * Historic test flight of NASA's Artemis II astronauts
 * Capture of new and previously unseen Moon regions
 * In_space solar eclipse observation
- 
+
  # Image Comparison
 
 | Image | Description |

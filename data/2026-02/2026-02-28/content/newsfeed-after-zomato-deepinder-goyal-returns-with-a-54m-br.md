@@ -32,7 +32,7 @@ In a separate post on X earlier Friday, he said Templeaims to buildwhat he calle
 
 We're recruiting at@temple.At Temple, we are building the ultimate wearable for elite performance athletes. A device that measures what no other wearable in the world measures, with a level of precision that doesn't exist yet.To build it, we need people who are obsessive…pic.twitter.com/iCHaMUwdEw
 
-— Deepinder Goyal (@deepigoyal) 
+— Deepinder Goyal (@deepigoyal)
 February 27, 2026
 
 The startup is entering an increasingly crowded and well-funded wearables market, where companies such as Whoop, Oura, and Garmin have spent years refining devices that track sleep, recovery, and athletic performance. Whether Temple can meaningfully differentiate its technology remains an open question.
@@ -50,25 +50,25 @@ Goyal declined to comment further on Temple.
 Topics
 
 Biotech & Health
-, 
+,
 Deepinder Goyal
-, 
+,
 Eternal
-, 
+,
 India
-, 
+,
 Startups
-, 
+,
 Steadview Capital
-, 
+,
 Temple
-, 
+,
 Venture
-, 
+,
 zomato
- 
 
-			Jagmeet Singh	
+
+			Jagmeet Singh
 
 Reporter
 

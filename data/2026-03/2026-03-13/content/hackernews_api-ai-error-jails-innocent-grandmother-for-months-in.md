@@ -24,22 +24,22 @@ Matt Henson
 March 12, 2026 at 9:54 AM
 
  Comments
- 
+
 
  Share
- 
+
 
 Share this article
 
  News Reporting
- 
+
 
 News Reporting
 
 Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.
 
  The Trust Project
- 
+
 
 What is this?
 
@@ -120,27 +120,27 @@ Unable to pay her bills from jail, she lost her home, her car and even her dog.
 Fargo police say the bank fraud case is still under investigation and no arrests have been made.
 
  Comments
- 
+
 
  Share
- 
+
 
 Share this article
 
  News Reporting
- 
+
 
 News Reporting
 
 Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.
 
  The Trust Project
- 
+
 
 What is this?
 
  Tags
- 
+
 
 Tags
 
@@ -150,21 +150,21 @@ DAVID ZIBOLSKI
 ARTIFICIAL INTELLIGENCE
 
  By
- 
+
 Matt Henson
 
  Matt Henson is an Emmy award-winning reporter/photographer/editor for WDAY. Prior to joining WDAY in 2019, Matt was the main anchor at WDAZ in Grand Forks for four years.
- 
 
-Conversation 
 
-What To Read Next 
+Conversation
+
+What To Read Next
 
 North Dakota
 
 Summit permit for CO2 storage voided as second judge finds North Dakota law unconstitutional
 
-20h ago 
+20h ago
 
  · 
 
@@ -196,15 +196,15 @@ By 
 
 Matt Henson
 
-Get Local 
+Get Local
 
-Must Reads 
+Must Reads
 
 Local
 
-East Grand Forks district to run two hours late on Friday, March 13 
+East Grand Forks district to run two hours late on Friday, March 13
 
-1h ago 
+1h ago
 
  · 
 
@@ -214,7 +214,7 @@ Staff reports
 
 America 250: 50 years ago today - March 13, 1976
 
-3h ago 
+3h ago
 
  · 
 
@@ -226,7 +226,7 @@ Community
 
 Today in History: March 13, 1926 - Cando, North Dakota, loses last Civil War veteran
 
-6h ago 
+6h ago
 
  · 
 
@@ -238,7 +238,7 @@ Prep
 
 Thursday's local scoreboard for March 12
 
-8h ago 
+8h ago
 
  · 
 

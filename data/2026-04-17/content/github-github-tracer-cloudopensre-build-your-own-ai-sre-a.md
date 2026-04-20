@@ -11,7 +11,7 @@ description: 'Build your own AI SRE agents. The open source toolkit for the AI e
 
 Tracer-Cloud
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork150
 * Star1.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -212,7 +212,7 @@ Our mission is to build AI SRE agents on top of this, scale it to thousands of r
 
 ## Install
 
-curl -fsSL https://raw.githubusercontent.com/Tracer-Cloud/opensre/main/install.sh 
+curl -fsSL https://raw.githubusercontent.com/Tracer-Cloud/opensre/main/install.sh
 |
  bash
 
@@ -230,7 +230,7 @@ opensre
 /
 main
 /
-install.ps1 
+install.ps1
 |
  iex
 
@@ -279,27 +279,27 @@ make benchmark
 
 ## Capabilities
 
-🔍 
+🔍
 Structured incident investigation
 
 Correlated root-cause analysis across all your signals
 
-📋 
+📋
 Runbook-aware reasoning
 
 OpenSRE reads your runbooks and applies them automatically
 
-🔮 
+🔮
 Predictive failure detection
 
 Catch emerging issues before they page you
 
-🔗 
+🔗
 Evidence-backed root cause
 
 Every conclusion is linked to the data behind it
 
-🤖 
+🤖
 Full LLM flexibility
 
 Bring your own model — Anthropic, OpenAI, Ollama, Gemini, OpenRouter, NVIDIA NIM
@@ -320,26 +320,26 @@ Anthropic · OpenAI · Ollama · Google Gemini · OpenRouter · NVIDIA NIM · Be
 
 Observability
 
- Grafana (Loki · Mimir · Tempo) · 
- Datadog · Honeycomb · Coralogix · 
- CloudWatch · 
+ Grafana (Loki · Mimir · Tempo) ·
+ Datadog · Honeycomb · Coralogix ·
+ CloudWatch ·
  Sentry · Elasticsearch
 
 Splunk
- · 
+ ·
 New Relic
- · 
+ ·
 Victoria Logs
 
 Infrastructure
 
- Kubernetes · 
- AWS (S3 · Lambda · EKS · EC2 · Bedrock) · 
- GCP · 
+ Kubernetes ·
+ AWS (S3 · Lambda · EKS · EC2 · Bedrock) ·
+ GCP ·
  Azure
 
 Helm
- · 
+ ·
 ArgoCD
 
 Database
@@ -347,15 +347,15 @@ Database
 MongoDB · ClickHouse
 
 PostgreSQL · MySQL
- · 
+ ·
 MariaDB
- · 
+ ·
 MongoDB Atlas
- · 
+ ·
 Azure SQL
- · 
+ ·
 RDS
- · 
+ ·
 Snowflake
 
 Data Platform
@@ -375,13 +375,13 @@ Incident Management
  PagerDuty · Opsgenie · Jira
 
 ServiceNow
- · 
+ ·
 incident.io
- · 
+ ·
 Alertmanager
- · 
+ ·
 Linear
- · 
+ ·
 Trello
 
 Communication
@@ -389,28 +389,28 @@ Communication
  Slack · Google Docs
 
 Discord
- · 
+ ·
 Teams
- · 
+ ·
 WhatsApp
- · 
+ ·
 Confluence
- · 
+ ·
 Notion
 
 Agent Deployment
 
- Vercel · 
- LangSmith · 
- EC2 · 
+ Vercel ·
+ LangSmith ·
+ EC2 ·
  ECS
 
 Railway
 
 Protocols
 
- MCP · 
- ACP · 
+ MCP ·
+ ACP ·
  OpenClaw
 
 ## Contributing
@@ -592,66 +592,66 @@ opensre.com
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 1.1k
 
  stars
- 
+
 
 ### Watchers
 
 5
 
  watching
- 
+
 
 ### Forks
 
 150
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases11
 
@@ -659,11 +659,11 @@ Latest
 
  Latest
 
- 
+
 
 Apr 17, 2026
 
- 
+
 
 + 10 releases
 
@@ -679,17 +679,17 @@ Apr 17, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -697,9 +697,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

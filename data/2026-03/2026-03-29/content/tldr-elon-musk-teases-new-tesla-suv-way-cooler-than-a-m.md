@@ -15,7 +15,7 @@ tags:
 
 # Elon Musk Teases New Tesla SUV: 'Way Cooler Than a Minivan'
 
- March 25, 2026 
+ March 25, 2026
 
 By Nehal Malik
 
@@ -46,7 +46,7 @@ Building a CyberSUV makes a lot of business sense. The Cybertruck production lin
 
 Withthe Cybercab robotaxientering mass production next month, Tesla’s next logical move is to address the large-family market. A vehicle that combines the stainless-steel toughness of the Cybertruck with the luxury of a premium SUV would certainly qualify as "way cooler" than any minivan on the market today.
 
- 
+
 
 ## Subscribe
 

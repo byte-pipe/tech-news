@@ -18,7 +18,7 @@ The Shajareh Tayyebeh primary school after US bombing at the start of Operation 
 LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
 By
- 
+
 Kevin T Baker
 
 On the first morning of Operation Epic Fury, 28 February 2026, American forces struck the Shajareh Tayyebeh primary school in Minab, in southernIran, hitting the building at least two times during the morning session. American forces killed between 175 and 180 people, most of them girls between the ages of seven and 12.

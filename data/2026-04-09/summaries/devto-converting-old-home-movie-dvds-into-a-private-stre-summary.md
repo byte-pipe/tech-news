@@ -29,12 +29,12 @@ Once all the discs had been converted, they were then processed using `ffmpeg`. 
 *   **Convert to H.264 MP4:** Use `ffmpeg` with specific settings to adjust the video quality.
 
     ```
-    ffmpeg 
+    ffmpeg
 -i
- VTS_01_1.VOB 
-  -c:v libx264 
-  -crf 22 
-  -c:a aac 
+ VTS_01_1.VOB
+  -c:v libx264
+  -crf 22
+  -c:a aac
   -b:a 128k
   clip-01.mp4
 ```

@@ -11,7 +11,7 @@ description: Building a modern alternative to Salesforce, powered by the communi
 
 twentyhq
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork5.5k
 * Star41k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -240,66 +240,66 @@ twenty.com
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 41k
 
  stars
- 
+
 
 ### Watchers
 
 179
 
  watching
- 
+
 
 ### Forks
 
 5.5k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases60
 
@@ -307,11 +307,11 @@ v1.19.0
 
  Latest
 
- 
+
 
 Mar 23, 2026
 
- 
+
 
 + 59 releases
 
@@ -319,9 +319,9 @@ Mar 23, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -329,9 +329,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

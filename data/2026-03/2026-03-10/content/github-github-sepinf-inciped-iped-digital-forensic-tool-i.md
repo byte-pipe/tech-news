@@ -11,7 +11,7 @@ description: IPED Digital Forensic Tool. It is an open source software that can 
 
 sepinf-inc
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork377
 * Star2k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -246,51 +246,51 @@ IPED Digital Forensic Tool. It is an open source software that can be used to pr
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 2k
 
  stars
- 
+
 
 ### Watchers
 
 77
 
  watching
- 
+
 
 ### Forks
 
 377
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases42
 
@@ -298,11 +298,11 @@ Major Release
 
  Latest
 
- 
+
 
 Dec 31, 2025
 
- 
+
 
 + 41 releases
 
@@ -318,17 +318,17 @@ Dec 31, 2025
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -336,9 +336,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

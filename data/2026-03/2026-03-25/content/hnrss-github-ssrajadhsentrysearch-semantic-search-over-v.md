@@ -14,7 +14,7 @@ tags:
 
 ssrajadh
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork19
 * Star551
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -104,12 +104,12 @@ git clone https://github.com/ssrajadh/sentrysearch.git
 
 cd
  sentrysearch
-python -m venv venv 
+python -m venv venv
 &&
- 
+
 source
  venv/bin/activate
-pip install -e 
+pip install -e
 .
 
 1. Set up your API key:
@@ -124,7 +124,7 @@ sentrysearch index /path/to/dashcam/footage
 
 1. Search:
 
-sentrysearch search 
+sentrysearch search
 "
 red truck running a stop sign
 "
@@ -138,7 +138,7 @@ Manual setup:If you prefer not to usesentrysearch init, you can copy.env.example
 ### Init
 
 $ sentrysearch init
-Enter your Gemini API key (get one at https://aistudio.google.com/apikey): 
+Enter your Gemini API key (get one at https://aistudio.google.com/apikey):
 ****
 
 Validating API key...
@@ -167,20 +167,20 @@ Options:
 
 ### Search
 
-$ sentrysearch search 
+$ sentrysearch search
 "
 red truck running a stop sign
 "
 
- 
+
 #
 1 [0.87] front_2024-01-15_14-30.mp4 @ 02:15-02:45
 
- 
+
 #
 2 [0.74] left_2024-01-15_14-30.mp4 @ 02:10-02:40
 
- 
+
 #
 3 [0.61] front_2024-01-20_09-15.mp4 @ 00:30-01:00
 
@@ -263,43 +263,43 @@ Semantic search over videos using Gemini Embedding 2.
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 551
 
  stars
- 
+
 
 ### Watchers
 
 3
 
  watching
- 
+
 
 ### Forks
 
 19
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -317,9 +317,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -327,9 +327,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

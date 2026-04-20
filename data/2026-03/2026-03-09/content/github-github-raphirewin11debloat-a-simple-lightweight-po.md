@@ -11,7 +11,7 @@ description: A simple, lightweight PowerShell script that allows you to remove p
 
 Raphire
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork1.6k
 * Star40.9k
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -126,7 +126,7 @@ Download & run the script automatically via PowerShell.
 &
  ([
 scriptblock
-]::Create((irm 
+]::Create((irm
 "
 https://debloat.raphi.re/
 "
@@ -156,11 +156,11 @@ Manually download the script & run the script via PowerShell. Recommended for ad
 3. Temporarily enable PowerShell execution by entering the following command:
 
 Set-ExecutionPolicy
- Unrestricted 
+ Unrestricted
 -
-Scope 
+Scope
 Process
- 
+
 -
 Force
 
@@ -342,53 +342,53 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 40.9k
 
  stars
- 
+
 
 ### Watchers
 
 192
 
  watching
- 
+
 
 ### Forks
 
 1.6k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases24
 
@@ -396,11 +396,11 @@ Release 2026.03.07
 
  Latest
 
- 
+
 
 Mar 7, 2026
 
- 
+
 
 + 23 releases
 
@@ -410,11 +410,11 @@ Mar 7, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * ko-fi.com/raphire
 
 Learn more about GitHub Sponsors
@@ -425,9 +425,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

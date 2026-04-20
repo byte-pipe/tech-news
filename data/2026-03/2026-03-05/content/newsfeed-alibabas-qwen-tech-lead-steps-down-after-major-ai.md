@@ -30,7 +30,7 @@ Lin’s departure came just as the Qwen team was pushing ahead with new releases
 
 Wenting Zhao, a research scientist on the Qwen team,describedLin’s departure as “the end of an era,” thanking him in a post on X for helping drive the project’s advances in open source AI and engineering. Yuchen Jin, chief technology officer of AI infrastructure startup Hyperbolic,saidLin helped connect Qwen with the global developer community, recalling late-night collaboration with the team during model launches. Tiezhen Wang, head of APAC ecosystem at Hugging Face, alsodescribedLin’s departure as “an immense loss” for the Qwen project.
 
- 
+
 
 Techcrunch event
 
@@ -61,17 +61,17 @@ Alibaba did not respond to a request for comment on the reasons for the move or 
 Topics
 
 AI
-, 
+,
 alibaba
-, 
+,
 China
-, 
+,
 Junyang Lin
-, 
+,
 qwen
- 
 
-			Jagmeet Singh	
+
+			Jagmeet Singh
 
 Reporter
 

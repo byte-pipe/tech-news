@@ -12,9 +12,9 @@ tags:
 - hnrss
 ---
 
-Now 
+Now
 hiring
-Explore open roles 
+Explore open roles
 at Prism
 ML
 
@@ -54,7 +54,7 @@ Benchmark palette
 
 Negative log of the model's error rate divided by the model size
 
-For detailed evaluation approach, please refer to our 
+For detailed evaluation approach, please refer to our
 whitepaper
 .
 
@@ -68,7 +68,7 @@ Benchmark
 
 →
 
-For detailed evaluation approach, please refer to our 
+For detailed evaluation approach, please refer to our
 whitepaper
 .
 
@@ -76,7 +76,7 @@ whitepaper
 
 Tokens per second across hardware platforms (higher is better)
 
-For detailed evaluation approach, please refer to our 
+For detailed evaluation approach, please refer to our
 whitepaper
 .
 
@@ -84,7 +84,7 @@ whitepaper
 
 Average score (IFEval, GSM8K, HumanEval+, BFCL, MuSR, MMLU-Redux)
 
-For detailed evaluation approach, please refer to our 
+For detailed evaluation approach, please refer to our
 whitepaper
 .
 
@@ -92,7 +92,7 @@ whitepaper
 
 Average score (IFEval, GSM8K, HumanEval+, BFCL, MuSR, MMLU-Redux)
 
-For detailed evaluation approach, please refer to our 
+For detailed evaluation approach, please refer to our
 whitepaper
 .
 
@@ -100,7 +100,7 @@ whitepaper
 
 Milliwatt-hours per token across hardware (lower is better)
 
-For detailed evaluation approach, please refer to our 
+For detailed evaluation approach, please refer to our
 whitepaper
 .
 

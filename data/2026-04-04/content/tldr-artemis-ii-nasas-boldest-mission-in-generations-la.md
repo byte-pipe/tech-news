@@ -42,22 +42,22 @@ If the mission goes according to plan, the astronauts will reach a distance of 2
 The Orion spacecraft will follow a so-called “free return” trajectory, using gravity from its slingshot around the Moon to redirect its course back to Earth. The pull of Earth’s gravity will accelerate the capsule to some 25,000 mph, or 7 miles per second, as it plunges back into the atmosphere to conclude the mission. Splashdown in the Pacific Ocean off the coast of California is scheduled for April 10.
 
  The Artemis II crew, left to right: Jeremy Hansen, Victor Glover, Reid Wiseman, and Christina Koch. The astronauts departed crew quarters to head for the launch pad around four hours prior to liftoff.
- 
+
 
  Credit:
  Stephen Clark/Ars Technica
- 
+
 
  The Artemis II crew, left to right: Jeremy Hansen, Victor Glover, Reid Wiseman, and Christina Koch. The astronauts departed crew quarters to head for the launch pad around four hours prior to liftoff.
 
- 
+
 
  Credit:
 
- 
+
  Stephen Clark/Ars Technica
 
- 
+
 
 ## Off to the races
 
@@ -92,17 +92,17 @@ Upon reaching apogee, around 8 am EDT (12:00 UTC) Thursday, the capsule will fir
 “On the life support system, the checkout that we get is a critical objective,” said Amit Kshatriya, NASA’s associate administrator. “If it turns out that we don’t get the performance we need after the acceleration and vibe (vibration of launch), we’ll come home. We’re not going to commit to the Moon if we don’t have the performance.”
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark is a space reporter at Ars Technica, covering private space companies and the world’s space agencies. Stephen writes about the nexus of technology, science, policy, and business on and off the planet.
- 
+
 
 1. 1.New Rowhammer attacks give complete control of machines running Nvidia GPUs
 2. 2.Here's what that Claude Code source leak reveals about Anthropic's plans

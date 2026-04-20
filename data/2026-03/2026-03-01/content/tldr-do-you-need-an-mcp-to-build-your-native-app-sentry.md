@@ -172,18 +172,18 @@ For routine builds on known projectswhere you only need your agent to build and 
 ## iOS Build
 
 -
- Project: 
+ Project:
 `HackerNews.xcodeproj`
 
 -
- Scheme: 
+ Scheme:
 `HackerNews`
 
 -
- Destination: 
+ Destination:
 `platform=iOS Simulator,name=iPhone 17 Pro`
 
-Run: 
+Run:
 `xcodebuild -project HackerNews.xcodeproj -scheme HackerNews -destination 'platform=iOS Simulator,name=iPhone 17 Pro' build`
 
 Fastest, cheapest, no overhead.
@@ -199,7 +199,7 @@ For a fully closed loop system:Enable XcodeBuildMCP, your agent will be able to 
 : {
 
  "command"
-: 
+:
 "
 npx
 "
@@ -210,11 +210,11 @@ npx
 "
 -y
 "
-, 
+,
 "
 xcodebuildmcp@latest
 "
-, 
+,
 "
 mcp
 "

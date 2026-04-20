@@ -27,8 +27,8 @@ Can you live vicariously through content creators if they’re not actually aliv
 Can you live vicariously through content creators if they’re not actually alive?
 
 by
- 
- 
+
+
 Jess Weatherbed
 Apr 13, 2026, 7:53 PM UTC
 * Link
@@ -36,7 +36,7 @@ Apr 13, 2026, 7:53 PM UTC
 * Gift
 Image: Grannyspills
 Jess Weatherbed
- 
+
 is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews.
 
 Coachella kicked off on Friday, and as usual, it’stheplace to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities.
@@ -95,19 +95,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

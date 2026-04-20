@@ -35,13 +35,13 @@ The file conflict problem disappears when each agent works in its own copy of th
 
 # Create isolated workspaces for each agent
 
-git worktree add .worktrees/agent-1 
+git worktree add .worktrees/agent-1
 -b
  agent-1/task-1
-git worktree add .worktrees/agent-2 
+git worktree add .worktrees/agent-2
 -b
  agent-2/task-2
-git worktree add .worktrees/agent-3 
+git worktree add .worktrees/agent-3
 -b
  agent-3/task-3
 
@@ -61,15 +61,15 @@ This is the single most impactful change. Before accepting any agent's output, r
 
 cd
  .worktrees/agent-1
-cargo 
+cargo
 test
- 
+
 # or npm test, pytest, etc.
 
 echo
- 
+
 $?
- 
+
 # 0 = merge it, non-zero = send it back
 
 Enter fullscreen mode
@@ -102,7 +102,7 @@ A Markdown kanban board is the simplest approach:
 -
  [ ] Write API endpoint tests (#13)
 
-## In Progress 
+## In Progress
 
 -
  [ ] Refactor database layer (#11) — agent-1
@@ -147,7 +147,7 @@ Try it:cargo install batty-cli—GitHub|2-min demo
 If you're running multiple agents and have found other supervision patterns that work, I'd love to hear about them in the comments.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -158,7 +158,7 @@ Preview
 Dismiss
 
  View full discussion (15 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

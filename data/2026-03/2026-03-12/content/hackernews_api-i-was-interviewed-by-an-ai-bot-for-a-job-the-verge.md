@@ -25,14 +25,14 @@ I couldn’t get past the uncanny valley of looking at an AI avatar listening to
 I couldn’t get past the uncanny valley of looking at an AI avatar listening to my answers.
 
 by
- 
- 
+
+
 Hayden Field
 Mar 11, 2026, 2:00 PM UTC
 * Link
 * Share
 Hayden Field
- 
+
 is The Verge’s senior AI reporter. An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets.
 
 Millions of people are on the job hunt right now — and for many people, landing a job in the AI era feels more intimidating than ever. That’s why the onset of AI avatars running your job interview via one-on-one video call, asking you questions, and analyzing how well you respond has generated a lot of discussion — and controversy.
@@ -64,19 +64,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

@@ -11,7 +11,7 @@ summarized_at: 2026-03-18T11:25:54.619377
 
 # A Decade of Slug
 
-Eric Lengyel 
+Eric Lengyel
 • March 17, 2026
 
 ## Development and Adoption

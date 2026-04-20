@@ -20,7 +20,7 @@ That’s why Lenovo’s newest ThinkPads are such a big deal: the newT14 Gen 7an
 This isn’t repairability as a niche feature for tinkerers. This is repairability showing up in the machine that practically defines the mainstream business laptop category.
 
 Come on in, the repairability is fine
-. 
+.
 No, really—getting inside these new ThinkPads is a breeze.
 
 ## Pushing Beyond Greatness
@@ -45,7 +45,7 @@ Going from a high score to thehighestscore isn’t usually about making minor tw
 
 This is the treacherous, final-boss stage where repairability usually dies, and Lenovo refused to give up.
 
-Lenovo’s 
+Lenovo’s
 keyboard replacement procedure
  is about as easy as it gets.
 
@@ -55,7 +55,7 @@ Lenovo tells us, “The biggest challenge in getting to a 10/10 was balancing re
 
 “One of the biggest challenges was shifting the mindset early in the design process. Serviceability is typically optimized later in development, often constrained by structural, material, or layout decisions that are already locked. To reach a 10/10, we had to bring those conversations forward and challenge long‑standing assumptions about what ‘good design’ really means. We addressed this by bringing design, engineering, service, quality, and sustainability together from day one.”
 
-Modular 
+Modular
 LPCAMM2
  memory makes a triumphant return, along with standard M.2 SSD storage.
 

@@ -200,37 +200,37 @@ h3
 
 notation:
 50
- c 
+ c
 " / "
- st 
+ st
 " ⇒ "
  st' => ceval c st st'
 
 It could also translate to Lean and then prove some properties about programs in this language when just given the Rocq statement (without proof):
 
--- Example command: adds 
+-- Example command: adds
 2
  to variable X
 
 def plus
 2
- : com := .CAss 
+ : com := .CAss
 "X"
  (
 .APlus
  (
 .AId
- 
+
 "X"
 ) (
 .ANum
- 
+
 2
 ))
 
 -- Theorem: The plus
 2
- command correctly adds 
+ command correctly adds
 2
  to variable X
 
@@ -256,31 +256,31 @@ n
 st
 ' : state) (
 h1
- : st 
+ : st
 "X"
  = n) (
 h2
  : plus2 / st ⇒ st') :
 
- st' 
+ st'
 "X"
- = n + 
+ = n +
 2
  := by
 
  -- plus
 2
- is defined as .CAss 
+ is defined as .CAss
 "X"
  (
 .APlus
  (
 .AId
- 
+
 "X"
 ) (
 .ANum
- 
+
 2
 ))
 
@@ -288,17 +288,17 @@ h2
 
  change ceval (
 .CAss
- 
+
 "X"
  (
 .APlus
  (
 .AId
- 
+
 "X"
 ) (
 .ANum
- 
+
 2
 ))) st st' at h
 2
@@ -313,11 +313,11 @@ h2
 .APlus
  (
 .AId
- 
+
 "X"
 ) (
 .ANum
- 
+
 2
 )) st = n := h
 

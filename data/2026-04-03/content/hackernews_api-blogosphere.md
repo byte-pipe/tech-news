@@ -45,8 +45,8 @@ technology
 
 1.
 
- Rosalía Berghain Live 
- 
+ Rosalía Berghain Live
+
 (kottke.org)
 
 kottke.org
@@ -55,7 +55,7 @@ kottke.org
 2.
 
 Not happening
- 
+
 (refarmer.ca)
 
 The Re-Farmer – Sometimes, you need to go back, to go forward.
@@ -64,7 +64,7 @@ The Re-Farmer – Sometimes, you need to go back, to go forward.
 3.
 
 No Kings III
- 
+
 (chrisglass.com)
 
 Chris Glass
@@ -73,7 +73,7 @@ Chris Glass
 4.
 
 Age verification on Systemd and Flatpak
- 
+
 (cybrkyd.com)
 
 Cybrkyd
@@ -82,7 +82,7 @@ Cybrkyd
 5.
 
 Our Planet
- 
+
 (kaigulliksen.com)
 
 Kai Gulliksen
@@ -91,7 +91,7 @@ Kai Gulliksen
 6.
 
 2026.14: Apple, Acceleration, and AI
- 
+
 (stratechery.com)
 
 Stratechery
@@ -99,8 +99,8 @@ Stratechery
 
 7.
 
- A women had sex with identical twins (within a 4-day... 
- 
+ A women had sex with identical twins (within a 4-day...
+
 (kottke.org)
 
 kottke.org
@@ -109,7 +109,7 @@ kottke.org
 8.
 
 tulip
- 
+
 (parentheticalrecluse.com)
 
 Parenthetical Recluse
@@ -118,7 +118,7 @@ Parenthetical Recluse
 9.
 
 Pook-Emu Bee: Links For 04-03-26
- 
+
 (social.emucafe.org)
 
 The Emu Café Social
@@ -127,7 +127,7 @@ The Emu Café Social
 10.
 
 Titres, écriture, initiation de tâches, et IA [en]
- 
+
 (climbtothestars.org)
 
 Climb to the Stars
@@ -136,7 +136,7 @@ Climb to the Stars
 11.
 
 The Measure of a Rich Life: Wendell Berry on Delight as a Force of Resistance and the Key to Felicitous Sanity During Hardship
- 
+
 (themarginalian.org)
 
 The Marginalian – Marginalia on our search for meaning.
@@ -145,7 +145,7 @@ The Marginalian – Marginalia on our search for meaning.
 12.
 
 Box-Office: ‘The Drama’ Earns $1.7M in Thursday Previews, ‘Super Mario’ $24M, ‘Project Hail Mary’ $4.6M, ‘Hoppers $1M
- 
+
 (worldofreel.com)
 
 World of Reel
@@ -154,7 +154,7 @@ World of Reel
 13.
 
 I need a new logo (2026 edition)
- 
+
 (creolened.com)
 
 Creole Ned
@@ -163,7 +163,7 @@ Creole Ned
 14.
 
 Journaling Under Stress
- 
+
 (writingatlarge.com)
 
 Writing at Large
@@ -172,7 +172,7 @@ Writing at Large
 15.
 
 [Checkin] Dan Q found GC1ZEKG Church Micro 2809 – Bledington
- 
+
 (danq.me)
 
 Dan Q
@@ -181,7 +181,7 @@ Dan Q
 16.
 
 Can JavaScript Escape a CSP Meta Tag Inside an Iframe?
- 
+
 (simonwillison.net)
 
 Simon Willison’s Weblog
@@ -190,7 +190,7 @@ Simon Willison’s Weblog
 17.
 
 Re: Choosing my own standards
- 
+
 (yordi.me)
 
 Yordi
@@ -199,7 +199,7 @@ Yordi
 18.
 
 Review: Weavingshaw by Heba Al-Wasity
- 
+
 (nullrouted.space)
 
 Nullrouted Space
@@ -208,7 +208,7 @@ Nullrouted Space
 19.
 
 Tobacco Road by Erskine Caldwell
- 
+
 (nateshivar.com)
 
 Nate Shivar
@@ -217,7 +217,7 @@ Nate Shivar
 20.
 
 J.J. Abrams’ Bad Robot Is Scaling Down After That $250M Warner Bros. Deal Failed to Produce Anything
- 
+
 (worldofreel.com)
 
 World of Reel
@@ -226,7 +226,7 @@ World of Reel
 21.
 
 Project: Pondio (table addendum)
- 
+
 (parentheticalrecluse.com)
 
 Parenthetical Recluse
@@ -235,7 +235,7 @@ Parenthetical Recluse
 22.
 
 Freed Of It
- 
+
 (fluxblog.org)
 
 Fluxblog
@@ -244,7 +244,7 @@ Fluxblog
 23.
 
 Verifying human authorship with human.json
- 
+
 (joelchrono.xyz)
 
 Joelchrono.xyz
@@ -253,7 +253,7 @@ Joelchrono.xyz
 24.
 
 Zach Cregger’s ‘Resident Evil’ Tests Strong: 90-Minute Reboot Described as ‘Fury Road’ for Horror
- 
+
 (worldofreel.com)
 
 World of Reel
@@ -261,8 +261,8 @@ World of Reel
 
 25.
 
- Tracker dashboard for the Artemis II mission using... 
- 
+ Tracker dashboard for the Artemis II mission using...
+
 (kottke.org)
 
 kottke.org
@@ -271,7 +271,7 @@ kottke.org
 26.
 
 Some Adorable Photos of Doris Day Posing With Animals
- 
+
 (vintag.es)
 
 Vintage Everyday
@@ -280,7 +280,7 @@ Vintage Everyday
 27.
 
 Friday assorted links
- 
+
 (feeds.feedblitz.com)
 
 Marginal REVOLUTION
@@ -289,7 +289,7 @@ Marginal REVOLUTION
 28.
 
 A Short Walk: Part Nine
- 
+
 (beetleypete.com)
 
 beetleypete
@@ -298,7 +298,7 @@ beetleypete
 29.
 
 Cogley’s stunning single “Deep Blue Sky” offers hope in current grim times
- 
+
 (lessthan1000followers.com)
 
 Less Than 1,000 Followers
@@ -306,8 +306,8 @@ Less Than 1,000 Followers
 
 30.
 
- The Seed Beneath the Snow 
- 
+ The Seed Beneath the Snow
+
 (eli.li)
 
 Oatmeal, a digital pillow fort
@@ -316,7 +316,7 @@ Oatmeal, a digital pillow fort
 31.
 
 Nintendo's digital games will be cheaper than physical
- 
+
 (birchtree.me)
 
 Birchtree
@@ -325,7 +325,7 @@ Birchtree
 32.
 
 @harrisongg - April 03, 2026 10:00
- 
+
 (harrisongg.com)
 
 Harrison
@@ -334,7 +334,7 @@ Harrison
 33.
 
 Bar chart
- 
+
 (grahamsisland.com)
 
 Graham’s Island
@@ -343,7 +343,7 @@ Graham’s Island
 34.
 
 Kary Sit finally releases 20-year-old emotional track “See Me Cry”
- 
+
 (lessthan1000followers.com)
 
 Less Than 1,000 Followers
@@ -352,7 +352,7 @@ Less Than 1,000 Followers
 35.
 
 Record: Twenty One Pilots - Breach (Liquid Filled)
- 
+
 (andrei.xyz)
 
 andrei.xyz
@@ -360,8 +360,8 @@ andrei.xyz
 
 36.
 
- This Is Us 
- 
+ This Is Us
+
 (kottke.org)
 
 kottke.org
@@ -370,7 +370,7 @@ kottke.org
 37.
 
 Roast Notes: Fishtown by La Colombe
- 
+
 (joshbeckman.org)
 
 Josh Beckman
@@ -379,7 +379,7 @@ Josh Beckman
 38.
 
 MarkerHighlight.js
- 
+
 (sebastiandedeyne.com)
 
 Sebastian De Deyne
@@ -388,7 +388,7 @@ Sebastian De Deyne
 39.
 
 clins d’œil d’un vendredi
- 
+
 (gycouture.com)
 
 gycouture
@@ -397,7 +397,7 @@ gycouture
 40.
 
 South India Coffee Company Gungegiri Natural
- 
+
 (islandinthenet.com)
 
 Island in the Net
@@ -406,7 +406,7 @@ Island in the Net
 41.
 
 40 Amazing Portraits of a Very Young and Handsome Marlon Brando in the 1940s
- 
+
 (vintag.es)
 
 Vintage Everyday
@@ -415,7 +415,7 @@ Vintage Everyday
 42.
 
 Scour - March Update
- 
+
 (emschwartz.me)
 
 Evan Schwartz
@@ -424,7 +424,7 @@ Evan Schwartz
 43.
 
 Fake eyelashes on Survivor are just the start of the work players get done
- 
+
 (realityblurred.com)
 
 reality blurred
@@ -433,7 +433,7 @@ reality blurred
 44.
 
 1 year ago I left BBC R&D, what’s happen since?
- 
+
 (cubicgarden.com)
 
 Cubic Garden
@@ -442,7 +442,7 @@ Cubic Garden
 45.
 
 Someone turned one
- 
+
 (chrisglass.com)
 
 Chris Glass
@@ -451,7 +451,7 @@ Chris Glass
 46.
 
 Build your own Dial-up ISP with a Raspberry Pi
- 
+
 (jeffgeerling.com)
 
 Jeff Geerling
@@ -460,7 +460,7 @@ Jeff Geerling
 47.
 
 Jeremy Parish on The Wizard
- 
+
 (setsideb.com)
 
 Set Side B
@@ -469,7 +469,7 @@ Set Side B
 48.
 
 Book Review — Children of Virtue and Vengeance by Tomi Adeyemi
- 
+
 (thomasrigby.com)
 
 Thomas Rigby
@@ -477,8 +477,8 @@ Thomas Rigby
 
 49.
 
- Does what it says on the tin: acid techno mix in... 
- 
+ Does what it says on the tin: acid techno mix in...
+
 (kottke.org)
 
 kottke.org
@@ -487,7 +487,7 @@ kottke.org
 50.
 
 The Axios supply chain attack used individually targeted social engineering
- 
+
 (simonwillison.net)
 
 Simon Willison’s Weblog

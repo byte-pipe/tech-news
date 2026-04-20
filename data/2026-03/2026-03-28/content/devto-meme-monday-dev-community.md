@@ -18,7 +18,7 @@ Today's cover image comes fromthe last thread.
 DEV is an inclusive space! Humor in poor taste will be downvoted by mods.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -29,7 +29,7 @@ Preview
 Dismiss
 
  View full discussion (34 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

@@ -25,47 +25,47 @@ Toyota didn’t get to be the world’s largest automaker by being completely bl
 Our test bZ was the $37,900 XLE FWD Plus, which has the most range of any bZ at 314 miles (505 km), according to the EPA test cycle. When you realize that the pre-facelift version managed just 252 miles (405 km) with 71.4 kWh onboard, the scale of the improvement becomes clear.
 
  Standard equipment is generous, even in XLE trim.
- 
+
 
  Jonathan Gitlin
- 
+
 
 Standard equipment is generous, even in XLE trim.
 
  Jonathan Gitlin
- 
+
 
  It’s 184.6 inches (4,689 mm) long, 73.2 inches (1,859 mm) wide, and 65 inches ( 1,651 mm) tall.
- 
+
 
  Jonathan Gitlin
- 
+
 
 It’s 184.6 inches (4,689 mm) long, 73.2 inches (1,859 mm) wide, and 65 inches ( 1,651 mm) tall.
 
  Jonathan Gitlin
- 
+
 
  The bZ looks conventional.
- 
+
 
  Jonathan Gitlin
- 
+
 
 The bZ looks conventional.
 
  Jonathan Gitlin
- 
+
 
 It’s 184.6 inches (4,689 mm) long, 73.2 inches (1,859 mm) wide, and 65 inches ( 1,651 mm) tall.
 
  Jonathan Gitlin
- 
+
 
 The bZ looks conventional.
 
  Jonathan Gitlin
- 
+
 
 Our loan immediately followeda week with the bZ’s more powerful, more expensive Lexus relative. While I might have liked that Lexus interior and some of its mod cons like ventilated seats, the Toyota is a much better EV despite having fewer frills. With 221 hp (165 kW) going to the front tires and 4,156 lbs (1,885 kg) to move, the XLE FWD Plus is not speedy. In normal mode, 0–60 mph (97 km/h) takes 8 seconds, although there’s still enough torque in this setting to chirp the low rolling resistance tires.
 
@@ -76,47 +76,47 @@ In Eco, things get even more sluggish at low speeds. And I don’t actually thin
 In fact, the bZ was efficient enough that I didn’t have time to deplete its battery enough to test the DC fast charging, which should take 30 minutes to charge from 10 to 80 percent at a maximum rate of 150 kW. As with the Lexus, the charge port’s location means you’ll need to park very close to a V3 Tesla Supercharger if you decide to use one. Newer V4 Superchargers have longer cables, as do the CCS1 chargers and dual-port chargers deployed by networks like Electrify America and IONNA. (All bZs come with adapters that let you charge at CCS1 or J1772 chargers.)
 
  Yes, that says 5.7 miles/kWh.
- 
+
 
  Jonathan Gitlin
- 
+
 
 Yes, that says 5.7 miles/kWh.
 
  Jonathan Gitlin
- 
+
 
  I didn’t have to fast-charge the bZ, but I did make use of some destination charging while running errands.
- 
+
 
  Jonathan Gitlin
- 
+
 
 I didn’t have to fast-charge the bZ, but I did make use of some destination charging while running errands.
 
  Jonathan Gitlin
- 
+
 
  I suppose it’s easy to be efficient when you’re averaging just 8 mph.
- 
+
 
  Jonathan Gitlin
- 
+
 
 I suppose it’s easy to be efficient when you’re averaging just 8 mph.
 
  Jonathan Gitlin
- 
+
 
 I didn’t have to fast-charge the bZ, but I did make use of some destination charging while running errands.
 
  Jonathan Gitlin
- 
+
 
 I suppose it’s easy to be efficient when you’re averaging just 8 mph.
 
  Jonathan Gitlin
- 
+
 
 On the road, you can toggle through four levels of the regenerative braking that occurs when you lift your foot off the accelerator, though there’s no true one-pedal driving mode. The bZ will only slow to 3–4 mph (5–6.5 km/h), at which point you’ll need to use the friction brakes via the brake pedal to come to a complete stop. (Using the brake pedal will also slow the car with regenerative braking until around 0.3 G, at which point the friction brakes take over.)
 
@@ -125,82 +125,82 @@ It’s not a particularly engaging car to drive, but it is a rather mellow exper
 The 14-inch infotainment system is standard across the entire bZ range, as are the dual wireless charging pads for your phones and four USB-C ports. There’s also a good amount of interior storage, and the rear door openings are generous. Props to the seat heaters as well, which warmed up very quickly.
 
  There’s a good amount of storage cubbies and nooks.
- 
+
 
  Jonathan Gitlin
- 
+
 
 There’s a good amount of storage cubbies and nooks.
 
  Jonathan Gitlin
- 
+
 
  I was surprised that the spec sheet says there’s only 35.3 inches (897 mm) of leg room back here because it seems like a lot more.
- 
+
 
  Jonathan Gitlin
- 
+
 
 I was surprised that the spec sheet says there’s only 35.3 inches (897 mm) of leg room back here because it seems like a lot more.
 
  Jonathan Gitlin
- 
 
- There’s 27.7 cubic feet (783 L) of cargo volume with the rear seats in use. 
- 
 
- Jonathan Gitlin
- 
+ There’s 27.7 cubic feet (783 L) of cargo volume with the rear seats in use.
 
-There’s 27.7 cubic feet (783 L) of cargo volume with the rear seats in use. 
 
  Jonathan Gitlin
- 
+
+
+There’s 27.7 cubic feet (783 L) of cargo volume with the rear seats in use.
+
+ Jonathan Gitlin
+
 
 I was surprised that the spec sheet says there’s only 35.3 inches (897 mm) of leg room back here because it seems like a lot more.
 
  Jonathan Gitlin
- 
 
-There’s 27.7 cubic feet (783 L) of cargo volume with the rear seats in use. 
+
+There’s 27.7 cubic feet (783 L) of cargo volume with the rear seats in use.
 
  Jonathan Gitlin
- 
+
 
  AC power in the cargo area.
- 
+
 
  Jonathan Gitlin
- 
+
 
  There’s a storage area under the cargo floor.
- 
+
 
  Jonathan Gitlin
- 
+
 
  In three model years, the bZ has gone from an also-ran to a car I will recommend.
- 
+
 
  Jonathan Gitlin
- 
+
 
 Between the much-improved efficiency and the ease with which the bZ slots into daily life, plus the sub-$40,000 starting price, there’s a lot to like about this EV. I feel comfortable recommending it to people looking for a solid electric driving appliance who don’t want to deal with Hyundai or Kia dealers (or lose out on CarPlay by buying a Chevrolet). An even cheaper FWD model saves $3,000 thanks to a smaller battery, but it loses 78 miles (125 km) in the process.A bZ Woodlandvariant is available for those wanting something a little more rugged without going for theSubaru-badgede-TNGA EVs.
 
 One thing’s for sure: The competition for EVs under $40,000 is getting interesting.
 
  Jonathan M. Gitlin
- 
+
 
 Automotive Editor
 
  Jonathan M. Gitlin
- 
+
 
 Automotive Editor
 
  Jonathan is the Automotive Editor at Ars Technica. He has a BSc and PhD in Pharmacology. In 2014 he decided to indulge his lifelong passion for the car by leaving the National Human Genome Research Institute and launching Ars Technica's automotive coverage. He lives in Washington, DC.
- 
+
 
 1. 1.Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space
 2. 2.New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises

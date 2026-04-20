@@ -15,7 +15,7 @@ tags:
 
 davidmonterocrespo24
 
- 
+
 
 /
 
@@ -28,9 +28,9 @@ Public
 * Fork25
 * Star513
 
- 
- 
- 
+
+
+
  
 master
 Branches
@@ -547,7 +547,7 @@ Seedocs/RASPBERRYPI3_EMULATION.mdfor full technical details.
 docker run -d \
  --name velxio \
  -p 3080:80 \
- -v 
+ -v
 $(
 pwd
 )
@@ -567,7 +567,7 @@ git clone https://github.com/davidmonterocrespo24/velxio.git
 
 cd
  velxio
-cp backend/.env.example backend/.env 
+cp backend/.env.example backend/.env
 #
  edit as needed
 
@@ -627,7 +627,7 @@ COOKIE_SECURE
 
 false
 
-Set 
+Set
 true
  when serving over HTTPS
 
@@ -645,11 +645,11 @@ cd
 
 cd
  backend
-python -m venv venv 
+python -m venv venv
 &&
- 
+
 source
- venv/bin/activate 
+ venv/bin/activate
 #
  Windows: venv\Scripts\activate
 
@@ -909,48 +909,48 @@ velxio.dev
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 513
 
  stars
- 
+
 
 ### Watchers
 
 4
 
  watching
- 
+
 
 ### Forks
 
 25
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -962,11 +962,11 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * https://paypal.me/odoonext
 
 Learn more about GitHub Sponsors
@@ -983,9 +983,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors3
 

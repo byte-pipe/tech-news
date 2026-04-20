@@ -23,8 +23,8 @@ tags:
 The job requires the “ability to recognize, express, and shift between emotions in a way that feels authentic and human.”
 
 by
- 
- 
+
+
 Hayden Field
 Mar 15, 2026, 2:00 PM UTC
 * Link
@@ -39,15 +39,15 @@ Mar 15, 2026, 2:00 PM UTC
 The job requires the “ability to recognize, express, and shift between emotions in a way that feels authentic and human.”
 
 by
- 
- 
+
+
 Hayden Field
 Mar 15, 2026, 2:00 PM UTC
 * Link
 * Share
 * Gift
 Hayden Field
- 
+
 is The Verge’s senior AI reporter. An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets.
 
 If you’ve got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character’s voice throughout a scene, there’s a job listing calling for your experience.
@@ -96,19 +96,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

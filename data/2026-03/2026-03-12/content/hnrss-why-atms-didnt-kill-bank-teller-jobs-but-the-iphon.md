@@ -38,7 +38,7 @@ There are two interesting things about what Vance said, both relating to the exa
 
 The first thing is what it tells us about who J. D. Vance is. The bank teller story—how ATMs were predicted to increase bank teller unemployment, but in fact did not—isn’t a story you’ll hear from politicians; in fact, for a long time,Barack Obama would claim, incorrectly,that ATMs had decreased the number of bank tellers, in order to suggest that the elevated unemployment rate during his presidency was due to productivity gains from technology. I’ve never heard a politician cite the bank teller story before: but I have seen the bank teller story cited in a lot of blogs. I’ve seen it cited, for example, byScott AlexanderandMatt YglesiasandFreddie deBoer; and I’ve heard it, upstream of the humble bloggers, from such fine economists asDaron AcemogluandDavid Autor. The story of how ATMs didn’t automate bank tellers is, indeed, something of a minor parable of the economics profession. You can see it encapsulated in this wonderful graph from the economist James Bessen:
 
-From James Bessen, 
+From James Bessen,
 Learning by Doing
  (2015)
 

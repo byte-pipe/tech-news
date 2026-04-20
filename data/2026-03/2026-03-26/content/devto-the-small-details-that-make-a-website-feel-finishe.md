@@ -187,14 +187,14 @@ Wishing you calm UI, thoughtful defaults, and pride in the details, friends 💙
 
 What’s one “small” detail you started paying attention to that made a bigger difference than expected?
 
-Thanks for reading! 🙏🏻 
- I hope you found this useful ✅ 
- Please react and follow for more 😍 
- Made with 💙 by 
+Thanks for reading! 🙏🏻
+ I hope you found this useful ✅
+ Please react and follow for more 😍
+ Made with 💙 by
 Hadil Ben Abdallah
 
- 
- 
+
+
 
 ## Hadil Ben AbdallahFollow
 
@@ -202,7 +202,7 @@ Software Engineer • Technical Content Writer (250K+ readers)
 I turn brands into websites people 💙 to use
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

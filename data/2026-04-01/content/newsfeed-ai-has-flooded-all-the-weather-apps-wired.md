@@ -74,7 +74,7 @@ Triangle
 * Should you leave your phonecharging overnight?
 * Watch:How right wing influencers infiltrated the government
 Boone Ashworth
- is a staff writer on the WIRED Gear desk, where he writes about connected hardware, sustainability, and the right to repair. He graduated from San Francisco State University and still lives in the city. He is currently training to be a virtual reality DJ. ... 
+ is a staff writer on the WIRED Gear desk, where he writes about connected hardware, sustainability, and the right to repair. He graduated from San Francisco State University and still lives in the city. He is currently training to be a virtual reality DJ. ...
 Read More
 Staff Writer
 * X
@@ -121,7 +121,7 @@ The ByteDance company wants to make the case that XR is “not just for gaming�
 Boone Ashworth
 The Sunrise Alarms That Actually Woke Me Up
 I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that.
- Nena Farrell 
+ Nena Farrell
 
 ## Wired Coupons
 

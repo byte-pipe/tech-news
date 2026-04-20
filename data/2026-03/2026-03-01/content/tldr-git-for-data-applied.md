@@ -13,7 +13,7 @@ tags:
 - tldr
 ---
 
-GO BACK TO 
+GO BACK TO
 BLOG
 
 # Git for Data Applied: Comparing Git-like Tools That Separate Metadata from Data
@@ -184,7 +184,7 @@ Note: All data from GitHub API, Feb 2026. Github Activity Chart. See alsoGitHub 
 
 Dolt stands out with the fastest PR merge times (~30 min median). lakeFS leads in total PR creators (178), reflecting a broad contributor base. Nessie's near-instant issue response reflects automated triage.
 
- 
+
 NOTE
 : How Do They Work?
 
@@ -192,7 +192,7 @@ While Git versions code through file snapshots and diffs, data tools must handle
 
 Instead of duplicating data, they track pointers and references, enabling instant branching/cloning and zero-copy operations.
 
-What usually happens without tools like this 
+What usually happens without tools like this
 Testing in Production
 
 Find more insight about the architecture and behind the scenes in Part 1,Branch, Test, Deploy: A Git-Inspired Approach for Data.
@@ -258,7 +258,7 @@ Copy code
 
 catalog.create_branch(
 'experiment'
-, 
+,
 'main'
 )
 
@@ -274,7 +274,7 @@ spark.sql(
 
 spark.sql(
 "SELECT * FROM catalog.main.orders"
-) 
+)
 # Original data
 
 Nessie runs as a REST service with pluggable backends including metadata storage such as PostgreSQL, DynamoDB, or RocksDB, data lake integration that works with any Iceberg-compatible engine (Spark, Trino, Dremio), and version control with a Git-like commit graph with branches and tags.
@@ -299,7 +299,7 @@ Copy code
 
 client.create_branch(
 'experiment'
-) 
+)
 # Instant, zero data copying
 
 It supports merging verified usingAlloymodel checking:
@@ -318,13 +318,13 @@ The merge operation tries to detect conflicts at the table level, performs three
 
 Bauplan brings Git's full semantic model with branch, merge, commit, and revert to lakehouse data while maintaining compatibility with standard Iceberg tables accessible from MotherDuck, Snowflake, Databricks, or Trino.
 
- 
+
 HINT
 : Software Modeling with Alloy
 
 I haven't heard of Alloy before, but it's used not to model data, but for software modeling. It's used for a wide range of applications from finding holes in security mechanisms to designing telephone switching networks. And now for git for data with Bauplan.
 
- 
+
 NOTE
 : New Whitepaper Out
 
@@ -400,22 +400,22 @@ Every database operation can be committed with:
 Copy code
 
 INSERT
- 
+
 INTO
- employees 
+ employees
 VALUES
  (
 1
-, 
+,
 'Alice'
-, 
+,
 50000
 );
 
 SELECT
  DOLT_COMMIT(
 '-am'
-, 
+,
 'Add Alice to payroll'
 );
 
@@ -426,31 +426,31 @@ Copy code
 -- See what changed between commits
 
 SELECT
- 
+
 *
- 
+
 FROM
  DOLT_DIFF(
 'main'
-, 
+,
 'feature-branch'
-, 
+,
 'employees'
 );
 
 -- Show cell-level changes
 
 SELECT
- 
+
 *
- 
+
 FROM
- DOLT_COMMIT_DIFF_employees 
+ DOLT_COMMIT_DIFF_employees
 WHERE
  from_commit
 =
 'abc123'
- 
+
 AND
  to_commit
 =
@@ -469,7 +469,7 @@ This means cloning isn't "free" like with lakeFS, but it provides true database 
 
 There's much more. Read more on theirGitHub.
 
- 
+
 NOTE
 : Worth noting
 
@@ -501,18 +501,18 @@ Copy code
 -- 1. Snapshot production before changes (persists indefinitely)
 
 CREATE
- SNAPSHOT 
+ SNAPSHOT
 'pre_release_v2'
- 
+
 OF
  production;
 
 -- 2. Clone from that named snapshot to an isolated dev database (instant, zero-copy)
 
 CREATE
- DATABASE dev_branch 
+ DATABASE dev_branch
 FROM
- production (SNAPSHOT_NAME 
+ production (SNAPSHOT_NAME
 'pre_release_v2'
 );
 
@@ -525,26 +525,26 @@ FROM
 -- 4. Promote: overwrite production with dev_branch (instant, metadata-only)
 
 COPY
- 
+
 FROM
- DATABASE dev_branch (OVERWRITE) 
+ DATABASE dev_branch (OVERWRITE)
 TO
  production;
 
 -- 5. If something goes wrong, restore from snapshot
 
 ALTER
- DATABASE production 
+ DATABASE production
 SET
- SNAPSHOT 
+ SNAPSHOT
 TO
- (SNAPSHOT_NAME 
+ (SNAPSHOT_NAME
 'pre_release_v2'
 );
 
 This operates purely at the metadata layer and is nearly instantaneous. It's not a true merge (it's a full replacement, not a diff-based reconciliation), but for many data workflows where you want to validate changes in isolation before promoting them, it covers the key use case.
 
- 
+
 EXAMPLE
 : Deep Dive
 
@@ -573,11 +573,11 @@ CREATE
 -- Or bring your own S3 bucket
 
 CREATE
- DATABASE my_lake (TYPE DUCKLAKE, DATA_PATH 
+ DATABASE my_lake (TYPE DUCKLAKE, DATA_PATH
 's3://my-bucket/lake/'
 );
 
- 
+
 EXAMPLE
 : DuckLake workshop
 

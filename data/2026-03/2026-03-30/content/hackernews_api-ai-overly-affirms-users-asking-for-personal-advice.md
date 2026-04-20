@@ -29,47 +29,47 @@ Getty Images
 
 View all
 Read next
- 
+
 
 ## What does it mean to be reasonable?
 
  Social Sciences
- 
+
 
 Research
 
 ## Initiative addresses how cities can make migration work for everyone
 
  Social Sciences
- 
+
 
 Video
 
 ## New book explores how to overcome tension between conflicting identities
 
  Social Sciences
- 
+
 
 Q&A
 
 ## Fellowship program fosters reform initiatives in Ukraine
 
  Social Sciences
- 
+
 
 News
 
 ## Shining a light on the contributions of the Black community to Silicon Valley
 
  Social Sciences
- 
+
 
 News
 
 ## Economists share ideas to strengthen Social Security
 
  Social Sciences
- 
+
 
 Analysis & Insights
 
@@ -77,6 +77,6 @@ Previous
 
 Next
 
- 
- 
+
+
 Close

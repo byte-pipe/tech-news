@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Denise Dubie
 
 Senior Editor
@@ -22,13 +22,13 @@ News
 
 Mar 17, 2026
 27 mins
- 
+
 
 ## Cisco's ThousandEyes division tracks global internet and cloud traffic and provides Network World with weekly updates on the performance of ISPs, cloud service providers, and UCaaS providers.
 
- 
 
-							Credit: 															monticello / Shutterstock													
+
+							Credit: 															monticello / Shutterstock
 
 ThousandEyes, a Cisco company, monitors how ISPs, cloud providers and conferencing services are handling any performance challenges and providesNetwork Worldwith a weekly roundup of events that impact service delivery. Read on to see the latest analysis, and stop back next week for another update on internet and cloud traffic performance.
 
@@ -201,27 +201,27 @@ On December 31, Cogent Communications, a multinational transit provider based in
 Networking
 Cloud Computing
 Network Monitoring
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Denise Dubie															
+														by
+
+																Denise Dubie
 
 Senior Editor
 
@@ -240,7 +240,7 @@ Denise Dubie is a senior editor atNetwork Worldwith nearly 30 years of experienc
 * news### CompTIA launches SecAI+ certificationFeb 17, 20264 mins
 * news analysis### IT bonuses reward network, security skills that can’t be automatedFeb 13, 20269 mins
 * news### Top network and data center events of 2026Feb 11, 20264 mins
- 
+
 
 ## Show me more
 
@@ -250,12 +250,12 @@ Podcasts
 Videos
 
 news
- 
- 
+
+
 
 ### OpenAI’s $50B AWS deal puts its Microsoft alliance to the test
 
- 
+
 By Taryn Plumb
 Mar 18, 2026
 6 mins
@@ -265,12 +265,12 @@ IaaS
 Microsoft Azure
 
 news
- 
- 
+
+
 
 ### Lenovo bolsters hybrid AI platform with Nvidia GPUs
 
- 
+
 By Andy Patrizio
 Mar 18, 2026
 3 mins
@@ -280,12 +280,12 @@ CPUs and Processors
 Servers
 
 opinion
- 
- 
+
+
 
 ### Fortinet's AI-driven defense for a machine-speed era
 
- 
+
 By Zeus Kerravala
 Mar 18, 2026
 6 mins
@@ -295,12 +295,12 @@ Network Security
 Security
 
 podcast
- 
- 
+
+
 
 ### Has the hype around ‘Internet of Things’ paid off? | Ep. 145
 
- 
+
 Apr 18, 2024
 36 mins
 
@@ -308,12 +308,12 @@ IoT Platforms
 IoT Security
 
 podcast
- 
- 
+
+
 
 ### Episode 1: Understanding Cisco’s Converged SDN Transport
 
- 
+
 Sep 24, 2021
 20 mins
 
@@ -322,12 +322,12 @@ Internet
 Networking
 
 podcast
- 
- 
+
+
 
 ### Episode 2: Pluggable Optics and the Internet for the Future
 
- 
+
 Sep 23, 2021
 17 mins
 
@@ -336,36 +336,36 @@ Computers and Peripherals
 Internet
 
 video
- 
- 
+
+
 
 ### Master Linux Math with the bc Command | Easy CLI Calculations Explained!
 
- 
+
 Jun 23, 2025
 1 mins
 
 Operating Systems
 
 video
- 
- 
+
+
 
 ### Master Linux Math in Seconds: How to Use the expr Command Like a Pro
 
- 
+
 Jun 17, 2025
 1 mins
 
 Operating Systems
 
 video
- 
- 
+
+
 
 ### How to Do Math in the Command Line Using Double Parentheses
 
- 
+
 Jun 6, 2025
 1 mins
 

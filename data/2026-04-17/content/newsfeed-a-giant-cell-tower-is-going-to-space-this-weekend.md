@@ -27,8 +27,8 @@ Sunday’s planned Blue Origin launch kicks the race between Amazon Leo, AST Spa
 Sunday’s planned Blue Origin launch kicks the race between Amazon Leo, AST SpaceMobile, and SpaceX’s Starlink into high gear.
 
 by
- 
- 
+
+
 Thomas Ricker
 Apr 17, 2026, 11:25 AM UTC
 * Link
@@ -36,7 +36,7 @@ Apr 17, 2026, 11:25 AM UTC
 * Gift
 Image: Blue Origin
 Thomas Ricker
- 
+
 is a deputy editor and Verge co-founder with a passion for human-centric cities, e-bikes, and life as a digital nomad. He’s been a tech journalist for 20 years.
 
 This weekend’s scheduled Blue Origin rocket launch is rather momentous. Success would signal an end to SpaceX’s monopoly on reusable orbital launch vehicles, and set up a three-way race to make that “No Service” indicator on your phone disappear forever.
@@ -76,19 +76,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

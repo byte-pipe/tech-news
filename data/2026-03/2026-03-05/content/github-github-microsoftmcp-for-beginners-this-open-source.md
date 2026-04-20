@@ -11,7 +11,7 @@ description: This open-source curriculum introduces the fundamentals of Model Co
 
 microsoft
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork4.8k
 * Star14.7k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -185,17 +185,17 @@ git clone --filter=blob:none --sparse https://github.com/microsoft/mcp-for-begin
 
 cd
  mcp-for-beginners
-git sparse-checkout 
+git sparse-checkout
 set
- --no-cone 
+ --no-cone
 '
 /*
 '
- 
+
 '
 !translations
 '
- 
+
 '
 !translated_images
 '
@@ -206,13 +206,13 @@ git clone --filter=blob:none --sparse https://github.com/microsoft/mcp-for-begin
 
 cd
  mcp-for-beginners
-git sparse-checkout 
+git sparse-checkout
 set
- --no-cone 
+ --no-cone
 "
 /*
 "
- 
+
 "
 !translations" "!
 translated_images
@@ -1042,61 +1042,61 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 14.7k
 
  stars
- 
+
 
 ### Watchers
 
 130
 
  watching
- 
+
 
 ### Forks
 
 4.8k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -1114,17 +1114,17 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -1132,9 +1132,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

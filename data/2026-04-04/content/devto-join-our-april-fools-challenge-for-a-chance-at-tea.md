@@ -65,7 +65,7 @@ We can’t wait to see what crazy projects you come up with. Questions about the
 Good luck!!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -76,7 +76,7 @@ Preview
 Dismiss
 
  View full discussion (72 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

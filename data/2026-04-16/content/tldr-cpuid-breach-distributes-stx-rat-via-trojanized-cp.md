@@ -49,11 +49,11 @@ Kaspersky said it has identified more than 150 victims, mostly individuals who w
 
 (The story was updated after publication on April 13, 2026, to include additional insights from Breakglass Intelligence.)
 
-Found this article interesting? Follow us on 
+Found this article interesting? Follow us on
 Google News
-, 
+,
 Twitter
- and 
+ and
 LinkedIn
  to read more exclusive content we post.
 
@@ -79,25 +79,25 @@ Share
 
 Share
 
-SHARE 
+SHARE
 
 
 cybersecurity
-, 
+,
 data theft
-, 
+,
 DLL Sideloading
-, 
+,
 Incident response
-, 
+,
 Malware
-, 
+,
 Remote Access Trojan
-, 
+,
 supply chain attack
-, 
+,
 Threat Intelligence
-, 
+,
 watering hole
 
 Trending News

@@ -9,7 +9,7 @@ author: AkamaiJet
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 AkamaiJet
 
- 
+
 
 # US seeks $5 trillion from Gulf states to stop Iran war: Omani analyst
 
  turkiyetoday.com
- 
+
 
 Open

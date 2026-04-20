@@ -227,121 +227,121 @@ This is no longer speculation from symbol analysis. This is the actual decrypted
 
 {
 
- 
+
 "properties"
 : {
 
- 
+
 "language"
-: 
+:
 "en"
 ,
 
- 
+
 "timezone_id"
-: 
+:
 "America/[REDACTED]"
 ,
 
- 
+
 "country"
-: 
+:
 "US"
 ,
 
- 
+
 "first_active"
-: 
+:
 1774908688
 ,
 
- 
+
 "last_active"
-: 
+:
 1774909124
 ,
 
- 
+
 "ip"
-: 
+:
 "[REDACTED]"
 
  },
 
- 
+
 "identity"
 : {
 
- 
+
 "onesignal_id"
-: 
+:
 "[REDACTED]"
 
  },
 
- 
+
 "subscriptions"
 : [
 
  {
 
- 
+
 "id"
-: 
+:
 "[REDACTED]"
 ,
 
- 
+
 "session_time"
-: 
+:
 61
 ,
 
- 
+
 "session_count"
-: 
+:
 3
 ,
 
- 
+
 "sdk"
-: 
+:
 "050500"
 ,
 
- 
+
 "device_model"
-: 
+:
 "iPhone[REDACTED]"
 ,
 
- 
+
 "device_os"
-: 
+:
 "[REDACTED]"
 ,
 
- 
+
 "rooted"
-: 
+:
 false
 ,
 
- 
+
 "app_version"
-: 
+:
 "47.0.4"
 ,
 
- 
+
 "net_type"
-: 
+:
 1
 ,
 
- 
+
 "carrier"
-: 
+:
 ""
 
  }

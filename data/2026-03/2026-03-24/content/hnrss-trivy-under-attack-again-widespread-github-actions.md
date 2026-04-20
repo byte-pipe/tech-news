@@ -22,7 +22,7 @@ Research
 
 Newly published Trivy Docker images (0.69.4, 0.69.5, and 0.69.6) were found to contain infostealer IOCs and were pushed to Docker Hub without corresponding GitHub releases.
 
-By 
+By
 Philipp Burckhardt
   -  
 Mar 22, 2026

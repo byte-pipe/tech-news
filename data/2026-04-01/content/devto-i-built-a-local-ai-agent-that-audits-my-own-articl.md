@@ -126,7 +126,7 @@ That's the actual shift. Not "AI does the work" but "the brittleness moved." Fro
 Built this as the first in a series on practical local AI agent setups for agency operations. The freeCodeCamp step-by-step tutorial is coming. Repo is live now.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -137,6 +137,6 @@ Preview
 Dismiss
 
  View full discussion (30 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

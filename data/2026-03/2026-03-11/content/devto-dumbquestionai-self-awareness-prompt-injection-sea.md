@@ -82,7 +82,7 @@ Code is getting cheaper. Crafting experiences that people actually remember? Pri
 dumbquestion.ai
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

@@ -15,7 +15,7 @@ tags:
 
 # Gamers furious as indie studio Cloud Imperium quietly admits to data breach
 
- 
+
 
 ## Slow disclosure and odd reassurance that exposing names and contact details won't be a problem isn't going down well
 
@@ -51,10 +51,10 @@ CIG’s flagship product is a multiplayer game called “Star Citizen” that th
 
 The Registerhas asked the company to clarify the matter and will update this story if we receive a substantive response. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

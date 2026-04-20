@@ -14,7 +14,7 @@ tags:
 
 moongate-community
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork4
 * Star68
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -425,56 +425,56 @@ Runtime directory mapping usesDirectoryType.EmailTemplates.
 Minimal config shape:
 
 {
- 
+
 "email"
 : {
- 
+
 "isEnabled"
-: 
+:
 false
 ,
- 
+
 "fromAddress"
-: 
+:
 "
 noreply@localhost
 "
 ,
- 
+
 "fallbackLocale"
-: 
+:
 "
 en
 "
 ,
- 
+
 "smtp"
 : {
- 
+
 "host"
-: 
+:
 "
 localhost
 "
 ,
- 
+
 "port"
-: 
+:
 25
 ,
- 
+
 "useSsl"
-: 
+:
 false
 ,
- 
+
 "username"
-: 
+:
 null
 ,
- 
+
 "password"
-: 
+:
 null
 
  }
@@ -496,70 +496,70 @@ Template values are data-driven and resolved at runtime using spec objects:
 Example item template:
 
 {
- 
+
 "type"
-: 
+:
 "
 item
 "
 ,
- 
+
 "id"
-: 
+:
 "
 leather_backpack
 "
 ,
- 
+
 "name"
-: 
+:
 "
 Leather Backpack
 "
 ,
- 
+
 "category"
-: 
+:
 "
 Container
 "
 ,
- 
+
 "itemId"
-: 
+:
 "
 0x0E76
 "
 ,
- 
+
 "hue"
-: 
+:
 "
 hue(10:80)
 "
 ,
- 
+
 "goldValue"
-: 
+:
 "
 dice(2d8+12)
 "
 ,
- 
+
 "lootType"
-: 
+:
 "
 Regular
 "
 ,
- 
+
 "stackable"
-: 
+:
 false
 ,
- 
+
 "isMovable"
-: 
+:
 true
 
 }
@@ -567,51 +567,51 @@ true
 Example startup item template:
 
 {
- 
+
 "type"
-: 
+:
 "
 item
 "
 ,
- 
+
 "id"
-: 
+:
 "
 inner_torso
 "
 ,
- 
+
 "category"
-: 
+:
 "
 Start Clothes
 "
 ,
- 
+
 "itemId"
-: 
+:
 "
 0x1F7B
 "
 ,
- 
+
 "hue"
-: 
+:
 "
 4375
 "
 ,
- 
+
 "goldValue"
-: 
+:
 "
 dice(1d4+1)
 "
 ,
- 
+
 "weight"
-: 
+:
 1
 
 }
@@ -619,54 +619,54 @@ dice(1d4+1)
 Example mobile template:
 
 {
- 
+
 "type"
-: 
+:
 "
 mobile
 "
 ,
- 
+
 "id"
-: 
+:
 "
 orione
 "
 ,
- 
+
 "name"
-: 
+:
 "
 Orione
 "
 ,
- 
+
 "category"
-: 
+:
 "
 animals
 "
 ,
- 
+
 "body"
-: 
+:
 "
 0xC9
 "
 ,
- 
+
 "skinHue"
-: 
+:
 779
 ,
- 
+
 "hairStyle"
-: 
+:
 0
 ,
- 
+
 "brain"
-: 
+:
 "
 orion
 "
@@ -748,131 +748,131 @@ Do not mutate gameplay state directly inside background workers.Post results bac
 Example:
 
 public
- 
+
 sealed
- 
+
 class
- 
+
 SeedImportService
 
 {
 
- 
+
 private
- 
+
 readonly
- 
+
 IBackgroundJobService
- 
+
 _backgroundJobService
 ;
 
- 
+
 public
- 
+
 SeedImportService
 (
 IBackgroundJobService
- 
+
 backgroundJobService
 )
 
- 
+
 {
 
- 
+
 _backgroundJobService
- 
+
 =
- 
+
 backgroundJobService
 ;
 
- 
+
 }
 
- 
+
 public
- 
+
 void
- 
+
 ImportAsync
 (
 )
 
- 
+
 {
 
- 
+
 _backgroundJobService
 .
 RunBackgroundAndPostResultAsync
 (
 
- 
+
 async
- 
+
 (
 )
- 
+
 =>
- 
+
 await
- 
+
 LoadSeedStatsAsync
 (
 )
 ,
 
- result 
+ result
 =>
 
- 
+
 {
 
- 
+
 // This callback executes on game-loop thread.
 
- 
+
 ApplyStatsToRuntime
 (
 result
 )
 ;
 
- 
+
 }
 ,
 
- ex 
+ ex
 =>
 
- 
+
 {
 
- 
+
 // Also marshaled on game-loop thread.
 
- 
+
 Log
 .
 Error
 (
 ex
 ,
- 
+
 "Seed import failed."
 )
 ;
 
- 
+
 }
 
- 
+
 )
 ;
 
- 
+
 }
 
 }
@@ -906,7 +906,7 @@ export
 
 dotnet restore
 dotnet build
-dotnet 
+dotnet
 test
 
 1. Start server:
@@ -1011,143 +1011,143 @@ Additional runtime env variables (not part ofMoongateConfig):
 
 services
 :
- 
+
 moongate
 :
- 
+
 image
-: 
+:
 tgiachi/moongate:latest
 
- 
+
 environment
 :
- 
+
 MOONGATE_ROOT_DIRECTORY
-: 
+:
 /data/moongate
 
- 
+
 MOONGATE_UO_DIRECTORY
-: 
+:
 /data/uo
 
- 
+
 MOONGATE_HTTP__PORT
-: 
+:
 "
 8088
 "
 
- 
+
 MOONGATE_HTTP__IS_OPEN_API_ENABLED
-: 
+:
 "
 true
 "
 
- 
+
 MOONGATE_HTTP__JWT__SIGNING_KEY
-: 
+:
 "
 change-me
 "
 
- 
+
 MOONGATE_SPATIAL__SECTOR_ENTER_SYNC_RADIUS
-: 
+:
 "
 3
 "
 
- 
+
 MOONGATE_SPATIAL__SECTOR_UPDATE_BROADCAST_RADIUS
-: 
+:
 "
 3
 "
 
- 
+
 MOONGATE_SPATIAL__LIGHT_WORLD_START_UTC
-: 
+:
 "
 1997-09-01T00:00:00Z
 "
 
- 
+
 MOONGATE_SPATIAL__LIGHT_SECONDS_PER_UO_MINUTE
-: 
+:
 "
 5
 "
 
- 
+
 MOONGATE_PERSISTENCE__SAVE_INTERVAL_SECONDS
-: 
+:
 "
 60
 "
 
- 
+
 MOONGATE_EMAIL__IS_ENABLED
-: 
+:
 "
 true
 "
 
- 
+
 MOONGATE_EMAIL__SMTP__HOST
-: 
+:
 "
 smtp.example.com
 "
 
- 
+
 MOONGATE_EMAIL__SMTP__PORT
-: 
+:
 "
 587
 "
 
- 
+
 MOONGATE_EMAIL__SMTP__USE_SSL
-: 
+:
 "
 true
 "
 
- 
+
 MOONGATE_EMAIL__SMTP__USERNAME
-: 
+:
 "
 smtp-user
 "
 
- 
+
 MOONGATE_EMAIL__SMTP__PASSWORD
-: 
+:
 "
 smtp-pass
 "
 
- 
+
 volumes
 :
- - 
+ -
 ./moongate_data:/data/moongate
 
- - 
+ -
 ./uo:/data/uo:ro
 
- 
+
 ports
 :
- - 
+ -
 "
 2593:2593
 "
 
- - 
+ -
 "
 8088:8088
 "
@@ -1156,7 +1156,7 @@ ports
 
 dotnet restore
 dotnet build
-dotnet 
+dotnet
 test
 
 dotnet run --project src/Moongate.Server
@@ -1206,7 +1206,7 @@ Authorization behavior:
 Example C# command registration (source-generated):
 
 using
- 
+
 Moongate
 .
 Server
@@ -1215,7 +1215,7 @@ Attributes
 ;
 
 using
- 
+
 Moongate
 .
 Server
@@ -1228,7 +1228,7 @@ Commands
 ;
 
 using
- 
+
 Moongate
 .
 Server
@@ -1241,7 +1241,7 @@ Console
 ;
 
 using
- 
+
 Moongate
 .
 Server
@@ -1252,7 +1252,7 @@ Commands
 ;
 
 using
- 
+
 Moongate
 .
 UO
@@ -1266,27 +1266,27 @@ Types
 RegisterConsoleCommand
 (
 
- 
+
 "whoami|me"
 ,
 
- 
+
 "Shows basic identity information."
 ,
 
- 
+
 CommandSourceType
 .
 Console
- 
+
 |
- 
+
 CommandSourceType
 .
 InGame
 ,
 
- 
+
 AccountType
 .
 Regular
@@ -1295,35 +1295,35 @@ Regular
 ]
 
 public
- 
+
 sealed
- 
+
 class
- 
+
 WhoAmICommand
- 
+
 :
- 
+
 ICommandExecutor
 
 {
 
- 
+
 public
- 
+
 Task
- 
+
 ExecuteCommandAsync
 (
 CommandSystemContext
- 
+
 context
 )
 
- 
+
 {
 
- 
+
 context
 .
 Print
@@ -1332,15 +1332,15 @@ Print
 )
 ;
 
- 
+
 return
- 
+
 Task
 .
 CompletedTask
 ;
 
- 
+
 }
 
 }
@@ -1352,17 +1352,17 @@ commandSystemService
 RegisterCommand
 (
 
- 
+
 "lua_ping"
 ,
 
- context 
+ context
 =>
 
- 
+
 {
 
- 
+
 context
 .
 Print
@@ -1371,37 +1371,37 @@ Print
 )
 ;
 
- 
+
 return
- 
+
 Task
 .
 CompletedTask
 ;
 
- 
+
 }
 ,
 
- 
+
 source
 :
- 
+
 CommandSourceType
 .
 Console
- 
+
 |
- 
+
 CommandSourceType
 .
 InGame
 ,
 
- 
+
 minimumAccountType
 :
- 
+
 AccountType
 .
 Regular
@@ -1444,12 +1444,12 @@ Current automated coverage includes:
 Example script callback (for example in<root>/scripts/init.lua):
 
 function
- 
+
 on_player_connected
 (
 p
 )
- 
+
 log
 .
 info
@@ -1466,37 +1466,37 @@ end
 Mobile template:
 
 {
- 
+
 "type"
-: 
+:
 "
 mobile
 "
 ,
- 
+
 "id"
-: 
+:
 "
 orc_warrior
 "
 ,
- 
+
 "name"
-: 
+:
 "
 an orc warrior
 "
 ,
- 
+
 "body"
-: 
+:
 "
 0x11
 "
 ,
- 
+
 "brain"
-: 
+:
 "
 orc_warrior
 "
@@ -1506,160 +1506,160 @@ orc_warrior
 Lua script (<root>/scripts/ai/orc_warrior.lua):
 
 function
- 
+
 brain_loop
 (
 npc_id
 )
- 
+
 while
- 
+
 true
- 
+
 do
 
- 
+
 --
  tactical tick sleep in milliseconds
 
- 
+
 coroutine.yield
 (
 250
 )
- 
+
 end
 
 end
 
 function
- 
+
 on_event
 (
 event_type
-, 
+,
 from_serial
-, 
+,
 event_obj
 )
- 
+
 if
- 
+
 event_type
- 
+
 ~=
- 
+
 "
 speech_heard
-" 
+"
 or
- 
+
 event_obj
- 
+
 ==
- 
+
 nil
- 
+
 then
 
- 
+
 return
 
- 
+
 end
 
- 
+
 local
- 
+
 listener_npc_id
- 
+
 =
- 
+
 event_obj
 .
 listener_npc_id
 
- 
+
 local
- 
+
 text
- 
+
 =
- 
+
 event_obj
 .
 text
 
- 
+
 if
- 
+
 listener_npc_id
- 
+
 ==
- 
+
 nil
- 
+
 or
- 
+
 text
- 
+
 ==
- 
+
 nil
- 
+
 then
 
- 
+
 return
 
- 
+
 end
 
- 
+
 if
- 
+
 string.find
 (
 string.lower
 (
 text
-), 
+),
 "
 hello
 "
-, 
+,
 1
-, 
+,
 true
-) 
+)
 then
 
- 
+
 log
 .
 info
 (
 "
-NPC 
-" 
+NPC
+"
 ..
- 
+
 tostring
 (
 listener_npc_id
-) 
+)
 ..
- 
+
 "
- heard hello from 
-" 
+ heard hello from
+"
 ..
- 
+
 tostring
 (
 from_serial
 ))
- 
+
 end
 
 end
@@ -1678,11 +1678,11 @@ Notes:
 Moongate now exposes visual effect helpers both on mobile proxies and as a global module:
 
 local
- 
+
 npc
- 
+
 =
- 
+
 mobile
 .
 get
@@ -1691,26 +1691,26 @@ get
 )
 
 if
- 
+
 npc
- 
+
 then
 
- 
+
 npc
 :
 SetEffect
 (
 0x3728
-, 
+,
 10
-, 
+,
 10
-, 
+,
 0
-, 
+,
 0
-, 
+,
 2023
 )
 
@@ -1724,23 +1724,23 @@ effect
 send
 (
 1
-, 
+,
 3613
-, 
+,
 2585
-, 
+,
 0
-, 
+,
 0x3728
-, 
+,
 10
-, 
+,
 10
-, 
+,
 0
-, 
+,
 0
-, 
+,
 2023
 )
 
@@ -1752,23 +1752,23 @@ effect
 send_to_player
 (
 0x00000022
-, 
+,
 3613
-, 
+,
 2585
-, 
+,
 0
-, 
+,
 0x3728
-, 
+,
 10
-, 
+,
 10
-, 
+,
 0
-, 
+,
 0
-, 
+,
 5023
 )
 
@@ -1806,37 +1806,37 @@ Example:
 Example template:
 
 {
- 
+
 "type"
-: 
+:
 "
 item
 "
 ,
- 
+
 "id"
-: 
+:
 "
 healing_potion
 "
 ,
- 
+
 "name"
-: 
+:
 "
 a healing potion
 "
 ,
- 
+
 "itemId"
-: 
+:
 "
 0x0F0C
 "
 ,
- 
+
 "scriptId"
-: 
+:
 "
 items.healing_potion
 "
@@ -1846,28 +1846,28 @@ items.healing_potion
 Example Lua:
 
 items_healing_potion
- 
+
 =
  {
- 
+
 on_click
- 
+
 =
- 
+
 function
 (
 ctx
 )
- 
+
 log
 .
 info
 (
 "
 Potion clicked, serial=
-" 
+"
 ..
- 
+
 tostring
 (
 ctx
@@ -1876,35 +1876,35 @@ item
 .
 serial
 ))
- 
+
 end
 ,
- 
+
 on_double_click
- 
+
 =
- 
+
 function
 (
 ctx
 )
- 
+
 log
 .
 info
 (
 "
 Potion double clicked by mobile=
-" 
+"
 ..
- 
+
 tostring
 (
 ctx
 .
 mobile_id
 ))
- 
+
 end
 
 }
@@ -1912,35 +1912,35 @@ end
 Fallback example (scriptId = "none"and item nameBrick):
 
 brick
- 
+
 =
  {
- 
+
 on_double_click
- 
+
 =
- 
+
 function
 (
 ctx
 )
- 
+
 log
 .
 info
 (
 "
-Brick double-click from session 
-" 
+Brick double-click from session
+"
 ..
- 
+
 tostring
 (
 ctx
 .
 session_id
 ))
- 
+
 end
 
 }
@@ -1972,179 +1972,179 @@ Example file (moongate_data/scripts/gumps/test_shop.lua):
 
 return
  {
- 
+
 ui
- 
+
 =
  {
- { 
+ {
 type
- 
+
 =
- 
+
 "
 page
 "
-, 
+,
 index
- 
+
 =
- 
+
 0
  },
- { 
+ {
 type
- 
+
 =
- 
+
 "
 background
 "
-, 
+,
 x
- 
+
 =
- 
+
 0
-, 
+,
 y
- 
+
 =
- 
+
 0
-, 
+,
 gump_id
- 
+
 =
- 
+
 9200
-, 
+,
 width
- 
+
 =
- 
+
 320
-, 
+,
 height
- 
+
 =
- 
+
 180
  },
- { 
+ {
 type
- 
+
 =
- 
+
 "
 label
 "
-, 
+,
 x
- 
+
 =
- 
+
 20
-, 
+,
 y
- 
+
 =
- 
+
 20
-, 
+,
 hue
- 
+
 =
- 
+
 1152
-, 
+,
 text
- 
+
 =
- 
+
 "
 Hello $ctx.name
-" 
+"
 },
- { 
+ {
 type
- 
+
 =
- 
+
 "
 button
 "
-, 
+,
 id
- 
+
 =
- 
+
 1
-, 
+,
 x
- 
+
 =
- 
+
 20
-, 
+,
 y
- 
+
 =
- 
+
 130
-, 
+,
 normal_id
- 
+
 =
- 
+
 4005
-, 
+,
 pressed_id
- 
+
 =
- 
+
 4007
-, 
+,
 onclick
- 
+
 =
- 
+
 "
 open_next
-" 
+"
 }
  },
- 
+
 handlers
- 
+
 =
  {
- 
+
 open_next
- 
+
 =
- 
+
 function
 (
 cb_ctx
 )
- 
+
 log
 .
 info
 (
 "
-Button clicked: 
-" 
+Button clicked:
+"
 ..
- 
+
 tostring
 (
 cb_ctx
 .
 button_id
 ))
- 
+
 end
 
  }
@@ -2153,11 +2153,11 @@ end
 Usage:
 
 local
- 
+
 layout
- 
+
 =
- 
+
 require
 (
 "
@@ -2166,23 +2166,23 @@ gumps/test_shop
 )
 
 local
- 
+
 ui_ctx
- 
+
 =
- { 
+ {
 name
- 
+
 =
- 
+
 "
 Orion
 "
-, 
+,
 level
- 
+
 =
- 
+
 42
  }
 
@@ -2191,17 +2191,17 @@ gump
 send_layout
 (
 session_id
-, 
+,
 layout
-, 
+,
 character_id
-, 
+,
 0xB300
-, 
+,
 120
-, 
+,
 80
-, 
+,
 ui_ctx
 )
 
@@ -2221,7 +2221,7 @@ Repository helper scripts inscripts/:
 
 Run locally:
 
-./scripts/run_benchmarks.sh --filter 
+./scripts/run_benchmarks.sh --filter
 '
 *
 '
@@ -2305,15 +2305,15 @@ TimerWheelBenchmark.UpdateTicksDelta
 Run only the new gameplay-focused suites:
 
 dotnet run -c Release --project benchmarks/Moongate.Benchmarks/Moongate.Benchmarks.csproj -- \
- --filter 
+ --filter
 '
 *SpatialWorldServiceBenchmark*
 '
- 
+
 '
 *ItemServiceBenchmark*
 '
- 
+
 '
 *PacketGameplayHotPathBenchmark*
 '
@@ -2686,56 +2686,56 @@ moongate-community.github.io/moongatev2/
 
  Readme
 
- 
+
 
 ### License
 
  GPL-3.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 68
 
  stars
- 
+
 
 ### Watchers
 
 1
 
  watching
- 
+
 
 ### Forks
 
 4
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases31
 
@@ -2743,11 +2743,11 @@ v0.31.0
 
  Latest
 
- 
+
 
 Mar 6, 2026
 
- 
+
 
 + 30 releases
 
@@ -2763,9 +2763,9 @@ Mar 6, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors3
 

@@ -44,7 +44,7 @@ I'm looking forward to watching the Organizations feature ship, and to seeing ho
 The announcement:RubyGems.org Has a Public Roadmap
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

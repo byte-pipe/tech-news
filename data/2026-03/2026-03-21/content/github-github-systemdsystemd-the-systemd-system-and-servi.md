@@ -11,7 +11,7 @@ description: The systemd System and Service Manager . Contribute to systemd/syst
 
 systemd
 
- 
+
 
 /
 
@@ -24,9 +24,9 @@ Public
 * Fork4.3k
 * Star15.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -337,12 +337,12 @@ systemd.io
 
  Readme
 
- 
+
 
 ### License
 
  GPL-2.0, LGPL-2.1 licenses found
- 
+
 
 ### Licenses found
 
@@ -350,67 +350,67 @@ GPL-2.0
 
 LICENSE.GPL2
 
- 
+
 
 LGPL-2.1
 
 LICENSE.LGPL2.1
 
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 15.5k
 
  stars
- 
+
 
 ### Watchers
 
 341
 
  watching
- 
+
 
 ### Forks
 
 4.3k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases138
 
@@ -418,11 +418,11 @@ systemd v260
 
  Latest
 
- 
+
 
 Mar 17, 2026
 
- 
+
 
 + 137 releases
 
@@ -432,20 +432,20 @@ Mar 17, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * https://spi-inc.org/projects/systemd/
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -453,9 +453,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

@@ -42,9 +42,9 @@ If you're reading this newsletter, you already know this. But it's important tha
 
 “The quality of the person you can bring in with more equity is so much higher.”
 
-— 
+—
 Daniel Francis
-, CEO of 
+, CEO of
 Abel Police
 
 The founding engineer math is broken.Connor Ling(Investor at Neo) laid it out: compared to joining a frontier lab or starting your own company, getting 1% to work for someone else is a tough sell.

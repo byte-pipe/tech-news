@@ -66,9 +66,9 @@ Kat Merck
 smart bird feeders
 , 
 indoor gardening systems
-, 
+,
 kitchen composters
-, and all things sustainable home tech. As a forestry major at California Polytechnic State University, San Luis Obispo, Kat practiced axe throwing on her college logging team and trained as a wildland ... 
+, and all things sustainable home tech. As a forestry major at California Polytechnic State University, San Luis Obispo, Kat practiced axe throwing on her college logging team and trained as a wildland ...
 Read More
 Senior Commerce Editor
 * LinkedIn

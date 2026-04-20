@@ -87,14 +87,14 @@ HOST_TR_BASE
 (
 (
 struct
- desc64 
+ desc64
 *
 )
 (
 get_gdt
 (
 )
-.address 
+.address
 +
  get_tr
 (
@@ -197,7 +197,7 @@ static
 (
 const
  struct
- desc64 
+ desc64
 *
 desc
 )
@@ -296,7 +296,7 @@ static
 (
 const
  struct
- desc64 
+ desc64
 *
 desc
 )

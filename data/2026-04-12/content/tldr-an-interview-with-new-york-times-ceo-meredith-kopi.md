@@ -39,17 +39,17 @@ This interview is lightly edited for clarity.
 Topics:
 
 Games and Sports
- | 
+ |
 The Bundle and the Brand
- | 
+ |
 Video
- | 
+ |
 Platform Engagement
- | 
+ |
 AI
- | 
+ |
 Content Communities
- | 
+ |
 Advertising
 
 #### Games and Sports

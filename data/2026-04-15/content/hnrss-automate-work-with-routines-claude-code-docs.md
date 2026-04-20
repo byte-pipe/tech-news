@@ -14,7 +14,7 @@ tags:
 
 Routines are in research preview. Behavior, limits, and the API surface may change.
 
-A routine is a saved Claude Code configuration: a prompt, one or more repositories, and a set of 
+A routine is a saved Claude Code configuration: a prompt, one or more repositories, and a set of
 connectors
 , packaged once and run automatically. Routines execute on Anthropic-managed cloud infrastructure, so they keep working when your laptop is closed.
 
@@ -26,11 +26,11 @@ Each routine can have one or more triggers attached to it:
 
 A single routine can combine triggers. For example, a PR review routine can run nightly, trigger from a deploy script, and also react to every new PR.
 
-Routines are available on Pro, Max, Team, and Enterprise plans with 
+Routines are available on Pro, Max, Team, and Enterprise plans with
 Claude Code on the web
- enabled. Create and manage them at 
+ enabled. Create and manage them at
 claude.ai/code/routines
-, or from the CLI with 
+, or from the CLI with
 /schedule
 .
 
@@ -44,12 +44,12 @@ Backlog maintenance.
  A schedule trigger runs every weeknight against your issue tracker via a connector. The routine reads issues opened since the last run, applies labels, assigns owners based on the area of code referenced, and posts a summary to Slack so the team starts the day with a groomed queue.
 
 Alert triage.
- Your monitoring tool calls the routine’s API endpoint when an error threshold is crossed, passing the alert body as 
+ Your monitoring tool calls the routine’s API endpoint when an error threshold is crossed, passing the alert body as
 text
 . The routine pulls the stack trace, correlates it with recent commits in the repository, and opens a draft pull request with a proposed fix and a link back to the alert. On-call reviews the PR instead of starting from a blank terminal.
 
 Bespoke code review.
- A GitHub trigger runs on 
+ A GitHub trigger runs on
 pull_request.opened
 . The routine applies your team’s own review checklist, leaves inline comments for security, performance, and style issues, and adds a summary comment so human reviewers can focus on design instead of mechanical checks.
 
@@ -60,7 +60,7 @@ Docs drift.
  A schedule trigger runs weekly. The routine scans merged PRs since the last run, flags documentation that references changed APIs, and opens update PRs against the docs repository for an editor to review.
 
 Library port.
- A GitHub trigger runs on 
+ A GitHub trigger runs on
 pull_request.closed
  filtered to merged PRs in one SDK repository. The routine ports the change to a parallel SDK in another language and opens a matching PR, keeping the two libraries in step without a human re-implementing each change.
 
@@ -68,21 +68,21 @@ The sections below walk through creating a routine and configuring each of these
 
 ## ​Create a routine
 
-Create a routine from the web, the Desktop app, or the CLI. All three surfaces write to the same cloud account, so a routine you create in the CLI shows up at claude.ai/code/routines immediately. In the Desktop app, click 
+Create a routine from the web, the Desktop app, or the CLI. All three surfaces write to the same cloud account, so a routine you create in the CLI shows up at claude.ai/code/routines immediately. In the Desktop app, click
 New task
- and choose 
+ and choose
 New remote task
-; choosing 
+; choosing
 New local task
- instead creates a 
+ instead creates a
 local Desktop scheduled task
 , which runs on your machine and is not a routine.
 
 The creation form sets up the routine’s prompt, repositories, environment, connectors, and triggers.
 
-Routines run autonomously as full Claude Code cloud sessions: there is no permission-mode picker and no approval prompts during a run. The session can run shell commands, use 
+Routines run autonomously as full Claude Code cloud sessions: there is no permission-mode picker and no approval prompts during a run. The session can run shell commands, use
 skills
- committed to the cloned repository, and call any connectors you include. What a routine can reach is determined by the repositories you select and their branch-push setting, the 
+ committed to the cloned repository, and call any connectors you include. What a routine can reach is determined by the repositories you select and their branch-push setting, the
 environment’s
  network access and variables, and the connectors you include. Scope each of those to what the routine actually needs.
 
@@ -94,9 +94,9 @@ Routines belong to your individual claude.ai account. They are not shared with t
 
 Open the creation form
 
-Visit 
+Visit
 claude.ai/code/routines
- and click 
+ and click
 New routine
 .
 2
@@ -109,113 +109,113 @@ The prompt input includes a model selector. Claude uses the selected model on ev
 
 Select repositories
 
-Add one or more GitHub repositories for Claude to work in. Each repository is cloned at the start of a run, starting from the default branch. Claude creates 
+Add one or more GitHub repositories for Claude to work in. Each repository is cloned at the start of a run, starting from the default branch. Claude creates
 claude/
--prefixed branches for its changes. To allow pushes to any branch, enable 
+-prefixed branches for its changes. To allow pushes to any branch, enable
 Allow unrestricted branch pushes
  for that repository.
 4
 
 Select an environment
 
-Pick a 
+Pick a
 cloud environment
  for the routine. Environments control what the cloud session has access to:
 * Network access: set the level of internet access available during each run
 * Environment variables: provide API keys, tokens, or other secrets Claude can use
 * Setup script: run install commands before each session starts, like installing dependencies or configuring tools
-A 
+A
 Default
- environment is provided. To use a custom environment, 
+ environment is provided. To use a custom environment,
 create one
  before creating the routine.
 5
 
 Select a trigger
 
-Under 
+Under
 Select a trigger
 , choose how the routine starts. You can pick one trigger type or combine several.
 * Schedule
 * GitHub event
 * API
-Pick a preset frequency: hourly, daily, weekdays, or weekly. See 
+Pick a preset frequency: hourly, daily, weekdays, or weekly. See
 Add a schedule trigger
  for timezone handling, stagger, and custom cron intervals.
-Select the repository, the event to react to, and optional filters. See 
+Select the repository, the event to react to, and optional filters. See
 Add a GitHub trigger
  for the full list of supported events and filter fields.
-Select 
+Select
 API
- here, then save the routine. The URL and token are generated after the routine is saved, since they depend on the routine ID. See 
+ here, then save the routine. The URL and token are generated after the routine is saved, since they depend on the routine ID. See
 Add an API trigger
  to copy the URL and generate a token.
 6
 
 Review connectors
 
-All of your connected 
+All of your connected
 MCP connectors
  are included by default. Remove any that the routine doesn’t need. Connectors give Claude access to external services like Slack, Linear, or Google Drive during each run.
 7
 
 Create the routine
 
-Click 
+Click
 Create
-. The routine appears in the list and runs the next time one of its triggers matches. To start a run immediately, click 
+. The routine appears in the list and runs the next time one of its triggers matches. To start a run immediately, click
 Run now
  on the routine’s detail page.
 Each run creates a new session alongside your other sessions, where you can see what Claude did, review changes, and create a pull request.
 
 ### ​Create from the CLI
 
-Run 
+Run
 /schedule
- in any session to create a scheduled routine conversationally. You can also pass a description directly, as in 
+ in any session to create a scheduled routine conversationally. You can also pass a description directly, as in
 /schedule daily PR review at 9am
 . Claude walks through the same information the web form collects, then saves the routine to your account.
 
 /schedule
- in the CLI creates scheduled routines only. To add an API or GitHub trigger, edit the routine on the web at 
+ in the CLI creates scheduled routines only. To add an API or GitHub trigger, edit the routine on the web at
 claude.ai/code/routines
 .
 
-The CLI also supports managing existing routines. Run 
+The CLI also supports managing existing routines. Run
 /schedule list
- to see all routines, 
+ to see all routines,
 /schedule update
- to change one, or 
+ to change one, or
 /schedule run
  to trigger it immediately.
 
 ### ​Create from the Desktop app
 
-Open the 
+Open the
 Schedule
- page in the Desktop app, click 
+ page in the Desktop app, click
 New task
-, and choose 
+, and choose
 New remote task
-. The Desktop app shows both local scheduled tasks and routines in the same grid. See 
+. The Desktop app shows both local scheduled tasks and routines in the same grid. See
 Desktop scheduled tasks
  for details on the local option.
 
 ## ​Configure triggers
 
-A routine starts when one of its triggers matches. You can attach any combination of schedule, API, and GitHub triggers to the same routine, and add or remove them at any time from the 
+A routine starts when one of its triggers matches. You can attach any combination of schedule, API, and GitHub triggers to the same routine, and add or remove them at any time from the
 Select a trigger
  section of the routine’s edit form.
 
 ### ​Add a schedule trigger
 
-A schedule trigger runs the routine on a recurring cadence. Pick a preset frequency in the 
+A schedule trigger runs the routine on a recurring cadence. Pick a preset frequency in the
 Select a trigger
  section: hourly, daily, weekdays, or weekly. Times are entered in your local zone and converted automatically, so the routine runs at that wall-clock time regardless of where the cloud infrastructure is located.
 
 Runs may start a few minutes after the scheduled time due to stagger. The offset is consistent for each routine.
 
-For a custom interval such as every two hours or the first of each month, pick the closest preset in the form, then run 
+For a custom interval such as every two hours or the first of each month, pick the closest preset in the form, then run
 /schedule update
  in the CLI to set a specific cron expression. The minimum interval is one hour; expressions that run more frequently are rejected.
 
@@ -229,54 +229,54 @@ API triggers are added to an existing routine from the web. The CLI cannot curre
 
 Open the routine for editing
 
-Go to 
+Go to
 claude.ai/code/routines
-, click the routine you want to trigger via API, then click the pencil icon to open 
+, click the routine you want to trigger via API, then click the pencil icon to open
 Edit routine
 .
 2
 
 Add an API trigger
 
-Scroll to the 
+Scroll to the
 Select a trigger
- section below the prompt, click 
+ section below the prompt, click
 Add another trigger
-, and choose 
+, and choose
 API
 .
 3
 
 Copy the URL and generate a token
 
-The modal shows the URL for this routine along with a sample curl command. Copy the URL, then click 
+The modal shows the URL for this routine along with a sample curl command. Copy the URL, then click
 Generate token
  and copy the token immediately. The token is shown once and cannot be retrieved later, so store it somewhere secure such as your alerting tool’s secret store.
 4
 
 Call the endpoint
 
-Send the token in the 
+Send the token in the
 Authorization: Bearer
- header when you POST to the URL. The 
+ header when you POST to the URL. The
 Trigger a routine
  section below shows a complete example.
 
-Each routine has its own token, scoped to triggering that routine only. To rotate or revoke it, return to the same modal and click 
+Each routine has its own token, scoped to triggering that routine only. To rotate or revoke it, return to the same modal and click
 Regenerate
- or 
+ or
 Revoke
 .
 
 #### ​Trigger a routine
 
-Send a POST request to the 
+Send a POST request to the
 /fire
- endpoint with the bearer token in the 
+ endpoint with the bearer token in the
 Authorization
- header. The request body accepts an optional 
+ header. The request body accepts an optional
 text
- field that’s appended to the routine’s configured prompt as a one-shot user turn. Use 
+ field that’s appended to the routine’s configured prompt as a one-shot user turn. Use
 text
  to pass context like an alert body or a failing log.
 
@@ -312,36 +312,36 @@ A successful request returns a JSON body with the new session ID and URL:
 {
 
  "type"
-: 
+:
 "routine_fire"
 ,
 
  "claude_code_session_id"
-: 
+:
 "session_01HJKLMNOPQRSTUVWXYZ"
 ,
 
  "claude_code_session_url"
-: 
+:
 "https://claude.ai/code/session_01HJKLMNOPQRSTUVWXYZ"
 
 }
 
 Open the session URL in a browser to watch the run in real time, review changes, or continue the conversation manually.
 
-The 
+The
 /fire
- endpoint ships under the 
+ endpoint ships under the
 experimental-cc-routine-2026-04-01
  beta header. Request and response shapes, rate limits, and token semantics may change while the feature is in research preview. Breaking changes ship behind new dated beta header versions, and the two most recent previous header versions continue to work so that callers have time to migrate.
 
 #### ​API reference
 
-For the full API reference, including all error responses, validation rules, and field limits, see 
+For the full API reference, including all error responses, validation rules, and field limits, see
 Trigger a routine via API
  in the Claude Platform documentation.
 
-The 
+The
 /fire
  endpoint is available to claude.ai users only and is not part of the Claude Platform API surface.
 
@@ -349,7 +349,7 @@ The
 
 A GitHub trigger starts a new session automatically when a matching event occurs on a connected repository. Each matching event starts its own session.
 
-During the research preview, GitHub webhook events are subject to per-routine and per-account hourly caps. Events beyond the limit are dropped until the window resets. See your current limits at 
+During the research preview, GitHub webhook events are subject to per-routine and per-account hourly caps. Events beyond the limit are dropped until the window resets. See your current limits at
 claude.ai/code/routines
 .
 
@@ -359,20 +359,20 @@ GitHub triggers are configured from the web UI only.
 
 Open the routine for editing
 
-Go to 
+Go to
 claude.ai/code/routines
-, click the routine, then click the pencil icon to open 
+, click the routine, then click the pencil icon to open
 Edit routine
 .
 2
 
 Add a GitHub event trigger
 
-Scroll to the 
+Scroll to the
 Select a trigger
- section, click 
+ section, click
 Add another trigger
-, and choose 
+, and choose
 GitHub event
 .
 3
@@ -380,20 +380,20 @@ GitHub event
 Install the Claude GitHub App
 
 The Claude GitHub App must be installed on the repository you want to subscribe to. The trigger setup prompts you to install it if it isn’t already.
-Running 
+Running
 /web-setup
  in the CLI grants repository access for cloning, but it does not install the Claude GitHub App and does not enable webhook delivery. GitHub triggers require installing the Claude GitHub App, which the trigger setup prompts you to do.
 4
 
 Configure the trigger
 
-Select the repository, choose an event from the 
+Select the repository, choose an event from the
 supported events
  list, and optionally add filters. Save the trigger.
 
 #### ​Supported events
 
-GitHub triggers can subscribe to any of the following event categories. Within each category you can pick a specific action, such as 
+GitHub triggers can subscribe to any of the following event categories. Within each category you can pick a specific action, such as
 pull_request.opened
 , or react to all actions in the category.
 
@@ -491,19 +491,19 @@ From the routine detail page you can:
 
 ### ​Repositories and branch permissions
 
-Routines need GitHub access to clone repositories. When you create a routine from the CLI with 
+Routines need GitHub access to clone repositories. When you create a routine from the CLI with
 /schedule
-, Claude checks whether your account has GitHub connected and prompts you to run 
+, Claude checks whether your account has GitHub connected and prompts you to run
 /web-setup
- if it doesn’t. See 
+ if it doesn’t. See
 GitHub authentication options
  for the two ways to grant access.
 
 Each repository you add is cloned on every run. Claude starts from the repository’s default branch unless your prompt specifies otherwise.
 
-By default, Claude can only push to branches prefixed with 
+By default, Claude can only push to branches prefixed with
 claude/
-. This prevents routines from accidentally modifying protected or long-lived branches. To remove this restriction for a specific repository, enable 
+. This prevents routines from accidentally modifying protected or long-lived branches. To remove this restriction for a specific repository, enable
 Allow unrestricted branch pushes
  for that repository when creating or editing the routine.
 
@@ -513,29 +513,29 @@ Routines can use your connected MCP connectors to read from and write to externa
 
 When you create a routine, all of your currently connected connectors are included by default. Remove any that aren’t needed to limit which tools Claude has access to during the run. You can also add connectors directly from the routine form.
 
-To manage or add connectors outside of the routine form, visit 
+To manage or add connectors outside of the routine form, visit
 Settings > Connectors
- on claude.ai or use 
+ on claude.ai or use
 /schedule update
  in the CLI.
 
 ### ​Environments
 
-Each routine runs in a 
+Each routine runs in a
 cloud environment
- that controls network access, environment variables, and setup scripts. Configure environments before creating a routine to give Claude access to APIs, install dependencies, or restrict network scope. See 
+ that controls network access, environment variables, and setup scripts. Configure environments before creating a routine to give Claude access to APIs, install dependencies, or restrict network scope. See
 cloud environment
  for the full setup guide.
 
 ## ​Usage and limits
 
-Routines draw down subscription usage the same way interactive sessions do. In addition to the standard subscription limits, routines have a daily cap on how many runs can start per account. See your current consumption and remaining daily routine runs at 
+Routines draw down subscription usage the same way interactive sessions do. In addition to the standard subscription limits, routines have a daily cap on how many runs can start per account. See your current consumption and remaining daily routine runs at
 claude.ai/code/routines
- or 
+ or
 claude.ai/settings/usage
 .
 
-When a routine hits the daily cap or your subscription usage limit, organizations with extra usage enabled can keep running routines on metered overage. Without extra usage, additional runs are rejected until the window resets. Enable extra usage from 
+When a routine hits the daily cap or your subscription usage limit, organizations with extra usage enabled can keep running routines on metered overage. Without extra usage, additional runs are rejected until the window resets. Enable extra usage from
 Settings > Billing
  on claude.ai.
 

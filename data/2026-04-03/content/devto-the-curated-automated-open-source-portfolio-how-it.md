@@ -107,7 +107,7 @@ Ultimately, my goal for both versions is the same: to make the invisible work of
 What’s one part of your workflow that you wish were automated? Let’s chat in the comments!
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

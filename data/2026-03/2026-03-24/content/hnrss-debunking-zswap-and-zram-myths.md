@@ -80,66 +80,66 @@ That awareness is the basis for automatic tiering, and it's the main reason that
 So how does zswap's tiering actually work? When the kernel needs to swap out a page, it callsswap_writeout(), which gives zswap first dibs to intercept it:
 
 int
- 
+
 swap_writeout
 (
 struct
- 
+
 folio
- 
+
 *
 folio
 ,
- 
+
 struct
- 
+
 swap_iocb
- 
+
 **
 swap_plug
 )
 
 {
 
- 
+
 /* ... */
 
- 
+
 if
- 
+
 (
 zswap_store
 (
 folio
 ))
- 
+
 {
- 
+
 /* zswap has called bagsy on the page */
 
- 
+
 count_mthp_stat
 (
 folio_order
 (
 folio
 ),
- 
+
 MTHP_STAT_ZSWPOUT
 );
 
- 
+
 goto
- 
+
 out_unlock
 ;
 
- 
+
 }
 
- 
+
 if
- 
+
 (
 !
 mem_cgroup_zswap_writeback_enabled
@@ -148,50 +148,50 @@ folio_memcg
 (
 folio
 )))
- 
+
 {
 
- 
+
 folio_mark_dirty
 (
 folio
 );
 
- 
+
 return
- 
+
 AOP_WRITEPAGE_ACTIVATE
 ;
 
- 
+
 }
 
- 
+
 __swap_writepage
 (
 folio
 ,
- 
+
 swap_plug
 );
 
- 
+
 return
- 
+
 0
 ;
 
 out_unlock:
 
- 
+
 folio_unlock
 (
 folio
 );
 
- 
+
 return
- 
+
 ret
 ;
 
@@ -204,146 +204,146 @@ Ifzswap_store()returnstrue, the page has been stored in compressed RAM and never
 Here's whatzswap_store()does internally:
 
 bool
- 
+
 zswap_store
 (
 struct
- 
+
 folio
- 
+
 *
 folio
 )
 
 {
 
- 
+
 /* ... */
 
- 
+
 /* Check if we've hit pool size limits */
 
- 
+
 if
- 
+
 (
 zswap_check_limits
 ())
 
- 
+
 goto
- 
+
 put_objcg
 ;
 
- 
+
 /* Get the current compression pool */
 
- 
+
 pool
- 
+
 =
- 
+
 zswap_pool_current_get
 ();
 
- 
+
 if
- 
+
 (
 !
 pool
 )
 
- 
+
 goto
- 
+
 put_objcg
 ;
 
- 
+
 /* Try to compress and store each page in the folio */
 
- 
+
 for
- 
+
 (
 index
- 
+
 =
- 
+
 0
 ;
- 
+
 index
- 
+
 <
- 
+
 nr_pages
 ;
- 
+
 ++
 index
 )
- 
+
 {
 
- 
+
 struct
- 
+
 page
- 
+
 *
 page
- 
+
 =
- 
+
 folio_page
 (
 folio
 ,
- 
+
 index
 );
 
- 
+
 if
- 
+
 (
 !
 zswap_store_page
 (
 page
 ,
- 
+
 objcg
 ,
- 
+
 pool
 ))
 
- 
+
 goto
- 
+
 put_pool
 ;
 
- 
+
 }
 
- 
+
 ret
- 
+
 =
- 
+
 true
 ;
- 
+
 /* Success! */
 
 put_pool:
 
- 
+
 zswap_pool_put
 (
 pool
@@ -351,42 +351,42 @@ pool
 
 put_objcg:
 
- 
+
 obj_cgroup_put
 (
 objcg
 );
 
- 
+
 /* If we failed because pool was full, queue work to shrink it */
 
- 
+
 if
- 
+
 (
 !
 ret
- 
+
 &&
- 
+
 zswap_pool_reached_full
 )
 
- 
+
 queue_work
 (
 shrink_wq
 ,
- 
+
 &
 zswap_shrink_work
 );
 
 check_old:
 
- 
+
 return
- 
+
 ret
 ;
 
@@ -415,46 +415,46 @@ Well, the problem is in how the kernel allocates swap space across multiple devi
 /* Rotate the device and switch to a new cluster */
 
 static
- 
+
 void
- 
+
 swap_alloc_slow
 (
 swp_entry_t
- 
+
 *
 entry
 ,
- 
+
 int
- 
+
 order
 )
 
 {
 
- 
+
 unsigned
- 
+
 long
- 
+
 offset
 ;
 
- 
+
 struct
- 
+
 swap_info_struct
- 
+
 *
 si
 ,
- 
+
 *
 next
 ;
 
- 
+
 spin_lock
 (
 &
@@ -463,28 +463,28 @@ swap_avail_lock
 
 start_over:
 
- 
+
 plist_for_each_entry_safe
 (
 si
 ,
- 
+
 next
 ,
- 
+
 &
 swap_avail_head
 ,
- 
+
 avail_list
 )
- 
+
 {
 
- 
+
 /* Rotate the device and switch to a new cluster */
 
- 
+
 plist_requeue
 (
 &
@@ -492,108 +492,108 @@ si
 ->
 avail_list
 ,
- 
+
 &
 swap_avail_head
 );
 
- 
+
 spin_unlock
 (
 &
 swap_avail_lock
 );
 
- 
+
 if
- 
+
 (
 get_swap_device_info
 (
 si
 ))
- 
+
 {
 
- 
+
 offset
- 
+
 =
- 
+
 cluster_alloc_swap_entry
 (
 si
 ,
- 
+
 order
 ,
- 
+
 SWAP_HAS_CACHE
 );
 
- 
+
 put_swap_device
 (
 si
 );
 
- 
+
 if
- 
+
 (
 offset
 )
- 
+
 {
 
- 
+
 *
 entry
- 
+
 =
- 
+
 swp_entry
 (
 si
 ->
 type
 ,
- 
+
 offset
 );
 
- 
+
 return
 ;
 
- 
+
 }
 
- 
+
 if
- 
+
 (
 order
 )
 
- 
+
 return
 ;
 
- 
+
 }
 
- 
+
 spin_lock
 (
 &
 swap_avail_lock
 );
 
- 
+
 /* ... continue to next device if this one is full ... */
 
- 
+
 }
 
 }
@@ -628,15 +628,15 @@ To achieve similar behaviour to zswap, where incompressible or idle pages are mo
 [zram0]
 
 zram-size
- 
+
 =
- 
+
 ram / 2
 
 writeback-device
- 
+
 =
- 
+
 /dev/sda4
 
 Another problem is that you must repartition your disk to create a dedicated partition for zram backing, or manage loopback devices (which adds overhead). You also cannot share this space with the system's hibernation swap or other data easily.
@@ -681,57 +681,57 @@ Thesecondshrinker,shrink_worker(), is the limit-based fallback that only fires w
 The tricky part is deciding how many pages to evict. Evict too few and the pool keeps filling, evict too many and you thrash pages back in from disk immediately after. Here's howzswap_shrinker_count()handles that:
 
 static
- 
+
 unsigned
- 
+
 long
- 
+
 zswap_shrinker_count
 (
 
- 
+
 struct
- 
+
 shrinker
- 
+
 *
 shrinker
 ,
 
- 
+
 struct
- 
+
 shrink_control
- 
+
 *
 sc
 )
 
 {
 
- 
+
 /* zswap shrinker_count basically answers the question of
  * how many pages we should evict from zswap to the
  * backing swap device. */
 
- 
+
 struct
- 
+
 lruvec
- 
+
 *
 lruvec
- 
+
 =
 
- 
+
 mem_cgroup_lruvec
 (
 sc
 ->
 memcg
 ,
- 
+
 NODE_DATA
 (
 sc
@@ -739,19 +739,19 @@ sc
 nid
 ));
 
- 
+
 /* This is how often we had to fetch data from slow disk
  * recently. We track this to avoid thrashing. */
 
- 
+
 atomic_long_t
- 
+
 *
 nr_disk_swapins
- 
+
 =
 
- 
+
 &
 lruvec
 ->
@@ -760,128 +760,128 @@ zswap_lruvec_state
 nr_disk_swapins
 ;
 
- 
+
 /* ... */
 
- 
+
 /* Subtract from the lru size the number of pages that
  * were recently swapped in from disk. The idea is that
  * had we protected this many more pages in the zswap
  * LRU from eviction, those disk swapins would not have
  * happened. */
 
- 
+
 nr_disk_swapins_cur
- 
+
 =
- 
+
 atomic_long_read
 (
 nr_disk_swapins
 );
 
- 
+
 do
- 
+
 {
 
- 
+
 if
- 
+
 (
 nr_freeable
- 
+
 >=
- 
+
 nr_disk_swapins_cur
 )
 
- 
+
 nr_remain
- 
+
 =
- 
+
 0
 ;
 
- 
+
 else
 
- 
+
 nr_remain
- 
+
 =
- 
+
 nr_disk_swapins_cur
- 
+
 -
- 
+
 nr_freeable
 ;
 
- 
+
 }
- 
+
 while
- 
+
 (
 !
 atomic_long_try_cmpxchg
 (
 
- 
+
 nr_disk_swapins
 ,
- 
+
 &
 nr_disk_swapins_cur
 ,
- 
+
 nr_remain
 ));
 
- 
+
 nr_freeable
- 
+
 -=
- 
+
 nr_disk_swapins_cur
- 
+
 -
- 
+
 nr_remain
 ;
 
- 
+
 if
- 
+
 (
 !
 nr_freeable
 )
 
- 
+
 return
- 
+
 0
 ;
 
- 
+
 /* Scale eviction by compression ratio. If compression is
  * good (stored is small), we evict fewer pages to avoid
  * wasting I/O for small gains. */
 
- 
+
 return
- 
+
 mult_frac
 (
 nr_freeable
 ,
- 
+
 nr_backing
 ,
- 
+
 nr_stored
 );
 

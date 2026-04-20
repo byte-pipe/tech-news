@@ -66,9 +66,9 @@ AIGA NY: Poster House (Copyright © Poster House, 2024)
 AIGA NY: Poster House (Copyright © Poster House, 2024)
 
 Prev
- 
+
 /
- 
+
 Next
 
 ### Q&A with Stacey Panousopoulos, executive director of AIGA NY
@@ -135,9 +135,9 @@ AIGA NY: Fresh Dialogue (Copyright © AIGA NY, 2024)
 AIGA NY: Fresh Dialogue (Copyright © AIGA NY, 2024)
 
 Prev
- 
+
 /
- 
+
 Next
 
 ### Hero Header

@@ -189,7 +189,7 @@ A well-formedllms.txtlooks something like:
 ## Getting Started
 
 -
- 
+
 [
 Quick Start Guide
 ](
@@ -198,7 +198,7 @@ Quick Start Guide
 : Install and make your first API call in 5 minutes
 
 -
- 
+
 [
 Authentication
 ](
@@ -207,7 +207,7 @@ Authentication
 : OAuth 2.0 and API key authentication patterns
 
 -
- 
+
 [
 Core Concepts
 ](
@@ -218,7 +218,7 @@ Core Concepts
 ## API Reference
 
 -
- 
+
 [
 REST API Overview
 ](
@@ -227,7 +227,7 @@ REST API Overview
 : Base URLs, versioning, pagination, error codes
 
 -
- 
+
 [
 Users API
 ](
@@ -236,7 +236,7 @@ Users API
 : CRUD operations for user management (12K tokens)
 
 -
- 
+
 [
 Events API
 ](
@@ -247,7 +247,7 @@ Events API
 ## MCP Integration
 
 -
- 
+
 [
 MCP Server
 ](
@@ -274,12 +274,12 @@ Askill.mdfor an authentication service might look like:
 
 name
 :
- 
+
 auth-service
 
 description
 :
- 
+
 Handles user authentication, OAuth 2.0 flows, and session management
 
 ---
@@ -323,7 +323,7 @@ Handles user authentication, OAuth 2.0 flows, and session management
 ## Key documentation
 
 -
- 
+
 [
 OAuth 2.0 Guide
 ](
@@ -332,7 +332,7 @@ OAuth 2.0 Guide
 : Full flow walkthrough with code samples
 
 -
- 
+
 [
 Token Reference
 ](
@@ -341,7 +341,7 @@ Token Reference
 : Token structure, claims, validation
 
 -
- 
+
 [
 Postman Collection
 ](

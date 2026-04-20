@@ -38,7 +38,7 @@ The essential details regarding Ferrán Durier's involvement in Nvidia and his r
         *   Key Points
             *   Overview
                 Ferrán Duarri has been working on GeForce RTX 30 series graphics at Nvidia.
-                
+
         *
 *   **Maintained Original Perspective**
     Ferrán Durier worked on a side project, _nvidia_greenboost_, to enhance graphics card performance and stability.
@@ -50,6 +50,6 @@ Summary
 Key Points
 Overview
 Ferrán Duarri has been working on GeForce RTX 30 series graphics at Nvidia.
- 
+
 Maintained Original Perspective
 Ferrán Durier worked on a side project, _nvidia_greenboost_, to enhance graphics card performance and stability.

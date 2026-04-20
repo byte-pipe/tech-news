@@ -19,7 +19,7 @@ tags:
 
 Crowdfunding now!
 
- 
+
  View Purchasing Options
 
 Mar 09, 2026
@@ -29,10 +29,10 @@ Project update
 
 # What It Is, Why I'm Doing It Now, and How It Came About
 
- 
+
  by
- 
- 
+
+
 Andrew 'bunnie' H
 
 Thanks to all the backers who have contributed to the campaign so far, plus a special shout-out to those who have generously donated to support my work! As a subscriber to the “Dabao” campaign, you’re already aware of the Baochip-1x. This update fills in the backstory of what it is, why I’m doing it now, and how it came about.
@@ -117,7 +117,7 @@ Subscribe
 
  Sign up to receive future updates for Dabao Evaluation Board for Baochip-1x.
 
- 
+
 
 #### Questions?
 

@@ -106,7 +106,7 @@ That's on us. All of us.
 I write daily about engineering leadership atjonoherrington.com.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -117,7 +117,7 @@ Preview
 Dismiss
 
  View full discussion (23 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

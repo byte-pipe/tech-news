@@ -14,7 +14,7 @@ tags:
 
 electrikmilk
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork44
 * Star1.1k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -268,31 +268,31 @@ Alternatively, you can usenix-direnvto get an isolated,effortless dev environmen
 
 {
 
- 
+
 inputs
 .
 cherri
 .
 url
- 
+
 =
- 
+
 "github:electrikmilk/cherri"
 ;
 
- 
+
 {
- 
+
 # outputs.packages.${system}.default = pkgs.mkShell etc - omitted for brevity
 
- 
+
 buildInputs
- 
+
 =
- 
+
 [
 
- 
+
 inputs
 .
 cherri
@@ -305,10 +305,10 @@ system
 .
 cherri
 
- 
+
 ]
 
- 
+
 }
 
 }
@@ -395,58 +395,58 @@ cherrilang.org
 
  Readme
 
- 
+
 
 ### License
 
  GPL-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 1.1k
 
  stars
- 
+
 
 ### Watchers
 
 11
 
  watching
- 
+
 
 ### Forks
 
 44
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases44
 
@@ -454,11 +454,11 @@ v2.1.1
 
  Latest
 
- 
+
 
 Mar 30, 2026
 
- 
+
 
 + 43 releases
 
@@ -468,11 +468,11 @@ Mar 30, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 * https://www.paypal.me/johnwaynepizzaparty
 * https://routinehub.co/user/electrikmilk
 * https://cherrilang.redbubble.com
@@ -483,9 +483,9 @@ Learn more about GitHub Sponsors
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -493,9 +493,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

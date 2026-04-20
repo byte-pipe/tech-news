@@ -11,7 +11,7 @@ description: Ghostty-based macOS terminal with vertical tabs and notifications f
 
 manaflow-ai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork760
 * Star11k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -325,7 +325,7 @@ See all pending notifications in one place, jump to the most recent unread
 
 ### In-app browser
 
-Split a browser alongside your terminal with a scriptable API ported from 
+Split a browser alongside your terminal with a scriptable API ported from
 agent-browser
 
 ### Vertical + horizontal tabs
@@ -686,56 +686,56 @@ cmux.com
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 11k
 
  stars
- 
+
 
 ### Watchers
 
 19
 
  watching
- 
+
 
 ### Forks
 
 760
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases27
 
@@ -743,11 +743,11 @@ v0.62.2
 
  Latest
 
- 
+
 
 Mar 14, 2026
 
- 
+
 
 + 26 releases
 
@@ -757,9 +757,9 @@ Mar 14, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

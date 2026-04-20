@@ -61,38 +61,38 @@ compile time thanks to lifetime analysis.
 let’s start with syntax and blocks:
 
 def
- 
+
 find
 (xs, fun):
- 
+
 for
 (xs) x, i:
- 
+
 if
  fun(x):
- 
+
 return
  i
- 
+
 return
- 
+
 -
 1
 
-let r 
+let r
 =
- 
+
 2
 
-let i 
+let i
 =
- find [ 
+ find [
 1
-, 
+,
 2
-, 
+,
 3
- ]: _ 
+ ]: _
 >
  r
 
@@ -110,55 +110,55 @@ We can learn a lot about the language from this tiny example:
 Types, dynamic dispatch, immutables and vector ops:
 
 class
- 
+
 Animal
 :
- alive 
+ alive
 =
  true
 
 class
- 
+
 Cat
  : Animal
- 
+
 def
- 
+
 hello
-(): 
+():
 print
- 
+
 "meow"
 
 class
- 
+
 Dog
  : Animal
- barked 
+ barked
 =
- 
+
 0
 
 def
- 
+
 hello
 (d::Dog):
- 
+
 print
- 
+
 "bark!"
 
  barked
 ++
 
-let d 
+let d
 =
  Dog {}
 d
 .
 hello()
 
-let a:Animal 
+let a:Animal
 =
  d
 a
@@ -176,66 +176,66 @@ What we learn here:
 Enough of dry programming language stuff, how do we draw?
 
 import
- 
+
 vec
 
 import
- 
+
 color
 
 import
- 
+
 gl
 
-let directions 
+let directions
 =
  [ xy_0, xy_x, xy_y ]
 
 def
- 
+
 sierpinski
-(depth) 
+(depth)
 ->
  void:
- 
+
 if
  depth:
- gl_scale 
+ gl_scale
 0.5
 :
- 
+
 for
 (directions) d:
  gl_translate d:
- sierpinski(depth 
+ sierpinski(depth
 -
- 
+
 1
 )
- 
+
 else
 :
  gl_polygon(directions)
 
 fatal(gl_window(
 "sierpinski"
-, 
+,
 512
-, 
+,
 512
 ))
 
 while
  gl_frame():
- 
+
 if
  gl_button(
 "escape"
-) 
+)
 ==
- 
+
 1
-: 
+:
 return
 
  gl_clear(color_black)

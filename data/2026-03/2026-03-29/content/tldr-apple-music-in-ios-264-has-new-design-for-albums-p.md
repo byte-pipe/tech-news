@@ -19,10 +19,10 @@ tags:
 
 # Apple Music in iOS 26.4 has new design for albums, playlists, and more
 
- 
+
 
 Ryan Christoffel
- | Mar 25 2026 - 7:57 am PT																
+ | Mar 25 2026 - 7:57 am PT
 
 iOS 26.4 isofficially here, and among its many new features, Apple Music introduces a new fullscreen design for albums and playlists, plus more.
 
@@ -54,27 +54,27 @@ Apple Music isavailable for $10.99/monthfor individuals, or you can get it as pa
 
 FTC: We use income earning auto affiliate links.More.
 
-You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out 
+You’re reading 9to5Mac — experts who break news about Apple and its surrounding ecosystem, day after day. Be sure to check out
 our homepage
- for all the latest news, and follow 9to5Mac on 
+ for all the latest news, and follow 9to5Mac on
 Twitter
-, 
+,
 Facebook
-, and 
+, and
 LinkedIn
- to stay in the loop. Don’t know where to start? Check out our 
+ to stay in the loop. Don’t know where to start? Check out our
 exclusive stories
-, 
+,
 reviews
-, 
+,
 how-tos
-, and 
+, and
 subscribe to our YouTube channel
- 
+
 
 Check out 9to5Mac on YouTube for more Apple news:
 
- 
+
 
 ## Comments
 
@@ -90,10 +90,10 @@ iOS 26.4
 
 ## Author
 
- 
 
-			Ryan Christoffel		
 
-iryantldr			
+			Ryan Christoffel
+
+iryantldr
 
 Ryan got his start in journalism as an Editor at MacStories, where he worked for four years covering Apple news, writing app reviews, and more. For two years he co-hosted the Adapt podcast on Relay FM, which focused entirely on the iPad. As a result, it should come as no surprise that his favorite Apple device is the iPad Pro.

@@ -25,7 +25,7 @@ New 501(c)3 non-profit debuts at RSA Conference 2026 to govern autonomous AI age
 
  
 
-RSAC (SAN FRANCISCO) — March 23, 2026 — 
+RSAC (SAN FRANCISCO) — March 23, 2026 —
 The
  Cloud Security Alliance (CSA)
 , the world’s leading not-for-profit organization committed to AI, cloud, and Zero Trust cybersecurity education, today announced the launch of CSAI, a new 501(c)3 non-profit foundation dedicated exclusively to AI security and safety. CSAI is being formally unveiled at RSAC 2026 with a strategic mission of Securing the Agentic Control Plane — governing the identity, authorization, orchestration, runtime behavior, and trust assurance layers that underpin autonomous AI agent ecosystems.

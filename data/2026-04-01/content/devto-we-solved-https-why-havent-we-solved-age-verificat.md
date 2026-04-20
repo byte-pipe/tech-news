@@ -377,7 +377,7 @@ But significantly better than a checkbox that says:
 “Yes, I’m 18.”
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

@@ -11,7 +11,7 @@ description: Knowledge Engine for AI Agent Memory in 6 lines of code - topoteret
 
 topoteretes
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.4k
 * Star13.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -283,7 +283,7 @@ uv pip install cognee
 ### Step 2: Configure the LLM
 
 import
- 
+
 os
 
 os
@@ -291,9 +291,9 @@ os
 environ
 [
 "LLM_API_KEY"
-] 
+]
 =
- 
+
 "YOUR OPENAI_API_KEY"
 
 Alternatively, create a.envfile using ourtemplate.
@@ -307,33 +307,33 @@ Cognee will take your documents, load them into the knowledge angine and search 
 Now, run a minimal pipeline:
 
 import
- 
+
 cognee
 
 import
- 
+
 asyncio
 
 from
- 
+
 pprint
- 
+
 import
- 
+
 pprint
 
 async
- 
+
 def
- 
+
 main
 ():
- 
+
 # Add text to cognee
 
- 
+
 await
- 
+
 cognee
 .
 add
@@ -341,27 +341,27 @@ add
 "Cognee turns documents into AI memory."
 )
 
- 
+
 # Add to knowledge engine
 
- 
+
 await
- 
+
 cognee
 .
 cognify
 ()
 
- 
+
 # Query the knowledge graph
 
- 
+
 results
- 
+
 =
- 
+
 await
- 
+
 cognee
 .
 search
@@ -369,33 +369,33 @@ search
 "What does Cognee do?"
 )
 
- 
+
 # Display the results
 
- 
+
 for
- 
+
 result
- 
+
 in
- 
+
 results
 :
- 
+
 pprint
 (
 result
 )
 
 if
- 
+
 __name__
- 
+
 ==
- 
+
 '__main__'
 :
- 
+
 asyncio
 .
 run
@@ -411,14 +411,14 @@ As you can see, the output is generated from the document we previously stored i
 
 As an alternative, you can get started with these essential commands:
 
-cognee-cli add 
+cognee-cli add
 "
 Cognee turns documents into AI memory.
 "
 
 cognee-cli cognify
 
-cognee-cli search 
+cognee-cli search
 "
 What does Cognee do?
 "
@@ -453,49 +453,49 @@ We recently published a research paper on optimizing knowledge graphs for LLM re
 {
 markovic2025optimizinginterfaceknowledgegraphs
 ,
- 
+
 title
 =
 {
 Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning
 }
 ,
- 
+
 author
 =
 {
 Vasilije Markovic and Lazar Obradovic and Laszlo Hajdu and Jovan Pavlovic
 }
 ,
- 
+
 year
 =
 {
 2025
 }
 ,
- 
+
 eprint
 =
 {
 2505.24478
 }
 ,
- 
+
 archivePrefix
 =
 {
 arXiv
 }
 ,
- 
+
 primaryClass
 =
 {
 cs.AI
 }
 ,
- 
+
 url
 =
 {
@@ -556,66 +556,66 @@ www.cognee.ai
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 13.6k
 
  stars
- 
+
 
 ### Watchers
 
 57
 
  watching
- 
+
 
 ### Forks
 
 1.4k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases85
 
@@ -623,11 +623,11 @@ v0.5.5
 
  Latest
 
- 
+
 
 Mar 14, 2026
 
- 
+
 
 + 84 releases
 
@@ -643,17 +643,17 @@ Mar 14, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -661,9 +661,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

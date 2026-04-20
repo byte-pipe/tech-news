@@ -41,7 +41,7 @@ AI sovereignty is about governance, transparency, and control across every layer
 * Preventing external parties from analyzing or profiting off proprietary data
 
 CIOs must hold vendors accountable across these four dimensions:
- 
+
  * Governance: Ensuring vendor management aligns with the organization's vision
  * Transparency: Regularly exposing technical decisions and processes
  * Control: Allowing for decision-making within the organization

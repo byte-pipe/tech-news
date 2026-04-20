@@ -97,7 +97,7 @@ Other contributors to the study included Oregon State researchers Kongbrailatpam
 * Natural killer cell
 * Panic attack
 
- 
+
 
 Story Source:
 
@@ -123,7 +123,7 @@ releases
 /
 260228093456.htm>.
 
-Oregon State University. (2026, March 1). New iron nanomaterial wipes out cancer cells without harming healthy tissue. 
+Oregon State University. (2026, March 1). New iron nanomaterial wipes out cancer cells without harming healthy tissue.
 ScienceDaily
 . Retrieved March 1, 2026 from www.sciencedaily.com
 /
@@ -151,38 +151,38 @@ from ScienceDaily
 
 RELATED STORIES
 
- 
+
 Iron Overload: The Hidden Culprit Behind Early Alzheimer’s in Down Syndrome
 
 June 20, 2025 
- USC researchers have uncovered a hidden driver behind the early and severe onset of Alzheimer's in people with Down syndrome: iron overload in the brain. Their study revealed that individuals ... 
- 
+ USC researchers have uncovered a hidden driver behind the early and severe onset of Alzheimer's in people with Down syndrome: iron overload in the brain. Their study revealed that individuals ...
+
 A New Class of Molecules Against Cancer Cells Refractory to Standard Treatments
 
 May 7, 2025 
- A new class of molecules capable of killing the cancer cells that are refractory to standard treatments and responsible for recurrence has just been developed. This crucial advance in the fight ... 
- 
+ A new class of molecules capable of killing the cancer cells that are refractory to standard treatments and responsible for recurrence has just been developed. This crucial advance in the fight ...
+
 Chemists Unlock the Potential of Ketone and Ester Molecules, Paving the Way for Greener and More Efficient Drug Development
 
 Jan. 9, 2025 
- Scientists have long considered ketones (a fundamental chemical class) and esters (molecules formed when an acid reacts with an alcohol) to be locked treasure chests of possibilities. Ubiquitous as ... 
- 
+ Scientists have long considered ketones (a fundamental chemical class) and esters (molecules formed when an acid reacts with an alcohol) to be locked treasure chests of possibilities. Ubiquitous as ...
+
 Fine Particulate Matter Catalyzes Oxidative Stress in the Lungs
 
 May 22, 2023 
- Study sheds new light on the adverse health effects of air pollution: hydrogen peroxide production of fine particles may not be as important as previously assumed. A new study reveals that the ... 
- 
+ Study sheds new light on the adverse health effects of air pollution: hydrogen peroxide production of fine particles may not be as important as previously assumed. A new study reveals that the ...
+
 One in Two Pregnancies Are Affected by Iron Deficiency, Yet Many Women Don’t Get a Simple Screening Test to Check
 
 Aug. 30, 2021 
- Half of pregnant women who had a simple blood test to check their iron stores had low iron levels, and one in four had severe iron deficiency, according to a new article. But despite how common iron ... 
- 
+ Half of pregnant women who had a simple blood test to check their iron stores had low iron levels, and one in four had severe iron deficiency, according to a new article. But despite how common iron ...
+
 New Strategy for Drug Design: Keeping Copper Atoms Closer to Keep Bacteria Away
 
 July 27, 2021 
- Hydrogen peroxide reacts with copper to produce hydroxyl radicals with strong antibacterial properties. However, this requires high copper concentrations because two copper atoms have to come close ... 
+ Hydrogen peroxide reacts with copper to produce hydroxyl radicals with strong antibacterial properties. However, this requires high copper concentrations because two copper atoms have to come close ...
 
-TRENDING AT 
+TRENDING AT
 SCITECHDAILY.com
 
 Study of 1.2 Million Infants Reveals the Truth About Vegan Baby Diets

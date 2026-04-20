@@ -49,7 +49,7 @@ Picking the school. Once you get into some PhD programs, how do you pick the sch
 
 ### Adviser
 
-Image credit: 
+Image credit:
 PhD comics
 .
 
@@ -69,7 +69,7 @@ Consider the entire lab. Another important point to realize is that you’ll be 
 
 ### Research topics
 
-t-SNE visualization of a small subset of human knowledge (from 
+t-SNE visualization of a small subset of human knowledge (from
 paperscape
 ). Each circle is an arxiv paper and size indicates the number of citations.
 

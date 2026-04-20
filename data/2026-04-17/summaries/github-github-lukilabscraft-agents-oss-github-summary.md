@@ -1,7 +1,7 @@
 ---
 title: GitHub - lukilabs/craft-agents-oss · GitHub
 url: https://github.com/lukilabs/craft-agents-oss
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-17T11:52:45.411038

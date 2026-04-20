@@ -45,9 +45,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -62,7 +62,7 @@ Subscribe to our newsletter
 QatarEnergy has not restarted helium production at its Ras Laffan complex — one of the largest concentrations of helium production infrastructure globally — nine days after Iranian drone strikes forced the facility offline. The ensuing disruption to supply has sparked concerns for South Korea's chip industry,Nikkeireports.
 
 Go deeper with TH Premium: Chipmaking
- 
+
 
 (Image credit: tsmc)
 * A deeper look at the chipmaking supply chain
@@ -74,7 +74,7 @@ The facility went offline on March 2 following drone strikes, removing approxima
 
 Helium consultant Phil Kornbluth, speaking at aGasworldwebinar on March 4, said that if the outage extends beyond roughly two weeks, industrial gas distributors could be forced to relocate cryogenic equipment and revalidate supplier relationships, a process that could stretch over months regardless of when Qatari output resumes.
 
-Article continues below 
+Article continues below
 
 South Korea is among the most exposed countries, which, according to the Korea International Trade Association, imported 64.7% of its helium from Qatar in 2025. The country relies heavily on helium imports to cool silicon wafers during fabrication and is understood to have no viable substitute.
 
@@ -90,7 +90,7 @@ Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
 
 Contact me with news and offers from other Future brands
 Receive email from us on behalf of our trusted partners or sponsors
- 
+
 
 FollowTom's Hardware on Google News, oradd us as a preferred source, to get our latest news, analysis, & reviews in your feeds.
 

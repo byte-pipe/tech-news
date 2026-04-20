@@ -42,21 +42,21 @@ Participating investors in Frore’s latest round include Fidelity, Mayfield, Ad
 Topics
 
 AI
-, 
+,
 AI chips
-, 
+,
 Hardware
-, 
+,
 In Brief
-, 
+,
 MVP Ventures
-, 
+,
 semicondcutors
-, 
+,
 Startups
-, 
+,
 TC
- 
+
 
 ### Newsletters
 
@@ -81,7 +81,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

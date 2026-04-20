@@ -20,7 +20,7 @@ Save
 Add as preferred on Google
 Claire Keenan
 Reuters
-The statue of Magawa is made from local stone 
+The statue of Magawa is made from local stone
 
 A famous mine-clearing rat, who was awarded a gold medal for his heroism, has been commemorated with the world's first statue dedicated to a landmine-detecting rat.
 

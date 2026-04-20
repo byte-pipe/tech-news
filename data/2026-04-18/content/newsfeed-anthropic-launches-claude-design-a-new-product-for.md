@@ -45,21 +45,21 @@ Today’s announcement comes a few days afterBloombergreported that VCs have bee
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 Apps
-, 
+,
 Claude
-, 
+,
 claude design
-, 
+,
 design
-, 
+,
 Enterprise
- 
 
-			Aisha Malik	
+
+			Aisha Malik
 
 Consumer News Reporter
 
@@ -67,6 +67,6 @@ Aisha is a consumer news reporter at TechCrunch. Prior to joining the publicatio
 
 You can contact or verify outreach from Aisha by emailingaisha@techcrunch.comor via encrypted message at aisha_malik.01 on Signal.
 
- 
+
 
 View Bio

@@ -79,10 +79,10 @@ But, he cautions, “the legal system and the rule of law is about humans… The
 © 2026 The Financial Times Ltd.All rights reserved.Not to be redistributed, copied, or modified in any way.
 
  Financial Times
- 
+
 
  Financial Times
- 
+
 
 1. 1.US to pay TotalEnergies $1 billion to stop developing offshore wind in US
 2. 2.A unique NASA satellite is falling out of orbit—this team is trying to rescue it

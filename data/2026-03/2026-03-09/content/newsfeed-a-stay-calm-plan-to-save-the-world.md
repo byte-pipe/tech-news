@@ -12,7 +12,7 @@ tags:
 ---
 
 International
- | 
+ |
 The Telegram
 
 # A stay-calm plan to save the world
@@ -21,7 +21,7 @@ The Telegram
 
 Share
 Illustration: Chloe Cushman
- 
+
 Feb 24th 2026
 |
 5 min read

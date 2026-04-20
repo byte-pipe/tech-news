@@ -1,7 +1,7 @@
 ---
 title: GitHub - z-lab/dflash: DFlash: Block Diffusion for Flash Speculative Decoding · GitHub
 url: https://github.com/z-lab/dflash
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-17T06:14:29.258451

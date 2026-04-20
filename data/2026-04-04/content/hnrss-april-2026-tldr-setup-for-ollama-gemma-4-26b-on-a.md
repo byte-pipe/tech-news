@@ -17,20 +17,20 @@ Instantly share code, notes, and snippets.
 # greenstevester/how-to-setup-ollama-on-a-macmini.md
 
  Last active
- 
+
 April 3, 2026 13:52
 
- 
+
 
 Show Gist options
 
- 
+
 
 * Download ZIP
 
- 
 
- 
+
+
 
 * Star29(29)You must be signed in to star a gist
 * Fork0(0)You must be signed in to fork a gist
@@ -41,13 +41,13 @@ Show Gist options
 * Clone via HTTPSClone using the web URL.
 * Save greenstevester/fc49b4e60a4fef9effc79066c1033ae5 to your computer and use it in GitHub Desktop.
 
- 
+
 
 Embed
 
 # Select an option
 
- 
+
 
 * EmbedEmbed this gist in your website.
 * ShareCopy sharable link for this gist.
@@ -55,35 +55,35 @@ Embed
 
 ## No results found
 
- 
 
- 
- 
+
+
+
 Learn more about clone URLs
 
- 
 
- 
+
+
 
  Clone this repository at &lt;script src=&quot;https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5.js&quot;&gt;&lt;/script&gt;
 
- 
 
- 
+
+
 
 Save greenstevester/fc49b4e60a4fef9effc79066c1033ae5 to your computer and use it in GitHub Desktop.
 
 Download ZIP
 
  April 2026 TLDR setup for Ollama + Gemma 4 26B on a Mac mini (Apple Silicon) — auto-start, preload, and keep-alive
- 
 
- 
+
+
 
 Raw
 
  how-to-setup-ollama-on-a-macmini.md
- 
+
 
 # April 2026 TLDR Setup for Ollama + Gemma 4 26B on a Mac mini (Apple Silicon)
 
@@ -130,7 +130,7 @@ ollama list
 
 ## Step 4: Test the Model
 
-ollama run gemma4:26b 
+ollama run gemma4:26b
 "
 Hello, what model are you?
 "
@@ -154,7 +154,7 @@ Alternatively, go toSystem Settings > General > Login Itemsand add Ollama.
 
 Create a launch agent that loads the model into memory after Ollama starts and keeps it warm:
 
-cat 
+cat
 <<
  '
 EOF
@@ -210,7 +210,7 @@ EOF
 
 Load the agent:
 
-launchctl load 
+launchctl load
 ~
 /Library/LaunchAgents/com.ollama.preload-gemma4.plist
 
@@ -220,7 +220,7 @@ This sends an empty prompt toollama runevery 5 minutes, keeping the model warm i
 
 By default, Ollama unloads models after 5 minutes of inactivity. To keep them loaded forever:
 
-launchctl setenv OLLAMA_KEEP_ALIVE 
+launchctl setenv OLLAMA_KEEP_ALIVE
 "
 -1
 "
@@ -244,7 +244,7 @@ ollama ps
 #
  Check launch agent is registered
 
-launchctl list 
+launchctl list
 |
  grep ollama
 
@@ -261,12 +261,12 @@ Ollama exposes a local API athttp://localhost:11434. Use it with coding agents:
  Chat completion (OpenAI-compatible)
 
 curl http://localhost:11434/v1/chat/completions \
- -H 
+ -H
 "
 Content-Type: application/json
 "
  \
- -d 
+ -d
 '
 {
 
@@ -312,10 +312,10 @@ Delete model
 #
  Remove the preload agent
 
-launchctl unload 
+launchctl unload
 ~
 /Library/LaunchAgents/com.ollama.preload-gemma4.plist
-rm 
+rm
 ~
 /Library/LaunchAgents/com.ollama.preload-gemma4.plist
 
@@ -355,5 +355,5 @@ Sign up for free
 to join this conversation on GitHub
 .
  Already have an account?
- 
+
 Sign in to comment

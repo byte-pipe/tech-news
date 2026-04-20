@@ -13,7 +13,7 @@ tags:
 
 # Bitwarden adds support for passkey login on Windows 11
 
- By 
+ By
 
 ###### Bill Toulas
 

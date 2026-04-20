@@ -143,7 +143,7 @@ Point your app at Lemonade and get chat, vision, image gen, transcription, speec
 ### Speech Gen
 
 POST
- 
+
 /api/v1/chat/completions
 
 View the Server Spec

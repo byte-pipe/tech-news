@@ -216,7 +216,7 @@ Cursor starts, MCP servers initialize (futuresearch-mcp-legacy fails with ENOENT
 Cursor detects a Cursor update
 , downloads it, marks it "ready"
 09:25
-basedpyright hits 
+basedpyright hits
 ERR_WORKER_OUT_OF_MEMORY
  analyzing 7609 files
 09:43

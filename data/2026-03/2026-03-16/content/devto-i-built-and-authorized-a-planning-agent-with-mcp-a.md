@@ -143,14 +143,14 @@ This is a trust design decision. A planning agent that can read my work and help
 The chat implementation lives in a React hook that manages the full agentic loop:
 
 User sends message
- → Stream Todaygent response 
+ → Stream Todaygent response
 (
 with all tools available
 )
 
  → If Todaygent calls tools, execute via MCP
  → Feed results back to Todaygent
- → Loop 
+ → Loop
 (
 max 10 rounds
 )
@@ -188,7 +188,7 @@ I'm steadily collecting backlogged Linear tasks with ideas for Plan My Today imp
 And of course, Todaygent is constantly reminding me I have pending tasks to keep improving it.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -199,7 +199,7 @@ Preview
 Dismiss
 
  View full discussion (11 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

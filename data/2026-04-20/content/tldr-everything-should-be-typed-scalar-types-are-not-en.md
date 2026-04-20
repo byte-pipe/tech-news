@@ -34,33 +34,33 @@ Say I have a function that processes a seller payout after an order is delivered
 JavaScript:
 
 function
- 
+
 processOrderPayout
 (
 shopId
 ,
- 
+
 customerId
 ,
- 
+
 orderId
 ,
- 
+
 amount
 ,
- 
+
 platformFee
 ,
- 
+
 txFee
 ,
- 
+
 netAmount
 )
- 
+
 {
 
- 
+
 // ...
 
 }
@@ -68,49 +68,49 @@ netAmount
 Go:
 
 func
- 
+
 ProcessOrderPayout
 (
 shopID
- 
+
 string
 ,
- 
+
 customerID
- 
+
 string
 ,
- 
+
 orderID
- 
+
 string
 ,
- 
+
 amount
- 
+
 int64
 ,
- 
+
 platformFee
- 
+
 int64
 ,
- 
+
 txFee
- 
+
 int64
 ,
- 
+
 netAmount
- 
+
 int64
 )
- 
+
 error
- 
+
 {
 
- 
+
 // ...
 
 }
@@ -118,54 +118,54 @@ error
 Rust:
 
 fn
- 
+
 process_order_payout
 (
 shop_id
 :
- 
+
 String
 ,
- 
+
 customer_id
 :
- 
+
 String
 ,
- 
+
 order_id
 :
- 
+
 String
 ,
- 
+
 amount
 :
- 
+
 i64
 ,
- 
+
 platform_fee
 :
- 
+
 i64
 ,
- 
+
 tx_fee
 :
- 
+
 i64
 ,
- 
+
 net_amount
 :
- 
+
 i64
 )
- 
+
 {
 
- 
+
 // ...
 
 }
@@ -176,22 +176,22 @@ process_order_payout
 (
 customer_id
 ,
- 
+
 shop_id
 ,
- 
+
 order_id
 ,
- 
+
 net_amount
 ,
- 
+
 tx_fee
 ,
- 
+
 platform_fee
 ,
- 
+
 amount
 );
 
@@ -206,35 +206,35 @@ The natural next step is grouping parameters into a struct or object.
 JavaScript:
 
 function
- 
+
 processOrderPayout
 ({
- 
+
 shopId
 ,
- 
+
 customerId
 ,
- 
+
 orderId
 ,
- 
+
 amount
 ,
- 
+
 platformFee
 ,
- 
+
 txFee
 ,
- 
+
 netAmount
- 
+
 })
- 
+
 {
 
- 
+
 // ...
 
 }
@@ -242,64 +242,64 @@ netAmount
 Go:
 
 type
- 
+
 OrderPayoutParams
- 
+
 struct
- 
+
 {
 
- 
+
 ShopID
- 
+
 string
 
- 
+
 CustomerID
- 
+
 string
 
- 
+
 OrderID
- 
+
 string
 
- 
+
 Amount
- 
+
 int64
 
- 
+
 PlatformFee
- 
+
 int64
 
- 
+
 TxFee
- 
+
 int64
 
- 
+
 NetAmount
- 
+
 int64
 
 }
 
 func
- 
+
 ProcessOrderPayout
 (
 params
- 
+
 OrderPayoutParams
 )
- 
+
 error
- 
+
 {
 
- 
+
 // ...
 
 }
@@ -307,75 +307,75 @@ error
 Rust:
 
 struct
- 
+
 OrderPayoutParams
- 
+
 {
 
- 
+
 shop_id
 :
- 
+
 String
 ,
 
- 
+
 customer_id
 :
- 
+
 String
 ,
 
- 
+
 order_id
 :
- 
+
 String
 ,
 
- 
+
 amount
 :
- 
+
 i64
 ,
 
- 
+
 platform_fee
 :
- 
+
 i64
 ,
 
- 
+
 tx_fee
 :
- 
+
 i64
 ,
 
- 
+
 net_amount
 :
- 
+
 i64
 ,
 
 }
 
 fn
- 
+
 process_order_payout
 (
 params
 :
- 
+
 OrderPayoutParams
 )
- 
+
 {
 
- 
+
 // ...
 
 }
@@ -385,72 +385,72 @@ This is better. Named fields eliminate positional confusion. You can’t acciden
 But we’ve only solved one problem. Look at what the structdoesn’tprevent:
 
 let
- 
+
 params
- 
+
 =
- 
+
 OrderPayoutParams
- 
+
 {
 
- 
+
 shop_id
 :
- 
+
 customer_id
 ,
- 
+
 // oops, customer ID assigned to shop field
 
- 
+
 customer_id
 :
- 
+
 shop_id
 ,
- 
+
 // oops, shop ID assigned to customer field
 
- 
+
 order_id
 :
- 
+
 order_id
 ,
 
- 
+
 amount
 :
- 
+
 net_amount
 ,
- 
+
 // oops, net amount assigned to gross amount field
 
- 
+
 platform_fee
 :
- 
+
 tx_fee
 ,
- 
+
 // oops, fees are swapped
 
- 
+
 tx_fee
 :
- 
+
 platform_fee
 ,
 
- 
+
 net_amount
 :
- 
+
 amount
 ,
- 
+
 // oops, gross amount assigned to net field
 
 };
@@ -484,124 +484,124 @@ The fix is simpler than you’d think. Stop using scalar types for domain concep
 Rust:
 
 struct
- 
+
 ShopId
 (
 String
 );
 
 struct
- 
+
 CustomerId
 (
 String
 );
 
 struct
- 
+
 OrderId
 (
 String
 );
 
 struct
- 
+
 Amount
 (
 i64
 );
 
 struct
- 
+
 PlatformFee
 (
 i64
 );
 
 struct
- 
+
 TxFee
 (
 i64
 );
 
 struct
- 
+
 NetAmount
 (
 i64
 );
 
 struct
- 
+
 OrderPayoutParams
- 
+
 {
 
- 
+
 shop_id
 :
- 
+
 ShopId
 ,
 
- 
+
 customer_id
 :
- 
+
 CustomerId
 ,
 
- 
+
 order_id
 :
- 
+
 OrderId
 ,
 
- 
+
 amount
 :
- 
+
 Amount
 ,
 
- 
+
 platform_fee
 :
- 
+
 PlatformFee
 ,
 
- 
+
 tx_fee
 :
- 
+
 TxFee
 ,
 
- 
+
 net_amount
 :
- 
+
 NetAmount
 ,
 
 }
 
 fn
- 
+
 process_order_payout
 (
 params
 :
- 
+
 OrderPayoutParams
 )
- 
+
 {
 
- 
+
 // ...
 
 }
@@ -609,74 +609,74 @@ OrderPayoutParams
 Now try to swap them:
 
 let
- 
+
 params
- 
+
 =
- 
+
 OrderPayoutParams
- 
+
 {
 
- 
+
 shop_id
 :
- 
+
 customer_id
 ,
- 
+
 // ERROR: expected `ShopId`, found `CustomerId`
 
- 
+
 customer_id
 :
- 
+
 shop_id
 ,
- 
+
 // ERROR: expected `CustomerId`, found `ShopId`
 
- 
+
 order_id
 :
- 
+
 order_id
 ,
 
- 
+
 amount
 :
- 
+
 net_amount
 ,
- 
+
 // ERROR: expected `Amount`, found `NetAmount`
 
- 
+
 platform_fee
 :
- 
+
 tx_fee
 ,
- 
+
 // ERROR: expected `PlatformFee`, found `TxFee`
 
- 
+
 tx_fee
 :
- 
+
 platform_fee
 ,
- 
+
 // ERROR: expected `TxFee`, found `PlatformFee`
 
- 
+
 net_amount
 :
- 
+
 amount
 ,
- 
+
 // ERROR: expected `NetAmount`, found `Amount`
 
 };
@@ -686,106 +686,106 @@ The compiler refuses. Not because the data is shaped wrong, but because themeani
 Go:
 
 type
- 
+
 ShopID
- 
+
 string
 
 type
- 
+
 CustomerID
- 
+
 string
 
 type
- 
+
 OrderID
- 
+
 string
 
 type
- 
+
 Amount
- 
+
 int64
 
 type
- 
+
 PlatformFee
- 
+
 int64
 
 type
- 
+
 TxFee
- 
+
 int64
 
 type
- 
+
 NetAmount
- 
+
 int64
 
 type
- 
+
 OrderPayoutParams
- 
+
 struct
- 
+
 {
 
- 
-ShopID
- 
+
 ShopID
 
- 
+ShopID
+
+
 CustomerID
- 
+
 CustomerID
 
- 
-OrderID
- 
+
 OrderID
 
- 
+OrderID
+
+
 Amount
- 
+
 Amount
 
- 
-PlatformFee
- 
+
 PlatformFee
 
- 
-TxFee
- 
+PlatformFee
+
+
 TxFee
 
- 
+TxFee
+
+
 NetAmount
- 
+
 NetAmount
 
 }
 
 func
- 
+
 ProcessOrderPayout
 (
 params
- 
+
 OrderPayoutParams
 )
- 
+
 error
- 
+
 {
 
- 
+
 // ...
 
 }
@@ -795,236 +795,236 @@ Go’s type definitions are not aliases.ShopIDandCustomerIDare distinct types. P
 TypeScript:
 
 type
- 
+
 ShopId
- 
+
 =
- 
+
 string
- 
+
 &
- 
+
 {
- 
+
 readonly
- 
+
 __brand
 :
- 
+
 "
 ShopId
 "
- 
+
 };
 
 type
- 
+
 CustomerId
- 
+
 =
- 
+
 string
- 
+
 &
- 
+
 {
- 
+
 readonly
- 
+
 __brand
 :
- 
+
 "
 CustomerId
 "
- 
+
 };
 
 type
- 
+
 OrderId
- 
+
 =
- 
+
 string
- 
+
 &
- 
+
 {
- 
+
 readonly
- 
+
 __brand
 :
- 
+
 "
 OrderId
 "
- 
+
 };
 
 type
- 
+
 Amount
- 
+
 =
- 
+
 number
- 
+
 &
- 
+
 {
- 
+
 readonly
- 
+
 __brand
 :
- 
+
 "
 Amount
 "
- 
+
 };
 
 type
- 
+
 PlatformFee
- 
+
 =
- 
+
 number
- 
+
 &
- 
+
 {
- 
+
 readonly
- 
+
 __brand
 :
- 
+
 "
 PlatformFee
 "
- 
+
 };
 
 type
- 
+
 TxFee
- 
+
 =
- 
+
 number
- 
+
 &
- 
+
 {
- 
+
 readonly
- 
+
 __brand
 :
- 
+
 "
 TxFee
 "
- 
+
 };
 
 type
- 
+
 NetAmount
- 
+
 =
- 
+
 number
- 
+
 &
- 
+
 {
- 
+
 readonly
- 
+
 __brand
 :
- 
+
 "
 NetAmount
 "
- 
+
 };
 
 interface
- 
+
 OrderPayoutParams
- 
+
 {
 
- 
+
 shopId
 :
- 
+
 ShopId
 ;
 
- 
+
 customerId
 :
- 
+
 CustomerId
 ;
 
- 
+
 orderId
 :
- 
+
 OrderId
 ;
 
- 
+
 amount
 :
- 
+
 Amount
 ;
 
- 
+
 platformFee
 :
- 
+
 PlatformFee
 ;
 
- 
+
 txFee
 :
- 
+
 TxFee
 ;
 
- 
+
 netAmount
 :
- 
+
 NetAmount
 ;
 
 }
 
 function
- 
+
 processOrderPayout
 (
 params
 :
- 
+
 OrderPayoutParams
 )
- 
+
 {
 
- 
+
 // ...
 
 }
@@ -1038,7 +1038,7 @@ The first thing people ask when they see this is “okay but now I can’t do an
 This is whereDerefcomes in. In Rust, you can implementDerefto let your newtype transparently expose the inner type’s methods:
 
 use
- 
+
 std
 ::
 ops
@@ -1047,64 +1047,64 @@ Deref
 ;
 
 struct
- 
+
 ShopId
 (
 String
 );
 
 impl
- 
+
 Deref
- 
+
 for
- 
+
 ShopId
- 
+
 {
 
- 
+
 type
- 
+
 Target
- 
+
 =
- 
+
 String
 ;
 
- 
+
 fn
- 
+
 deref
 (
 &
 self
 )
- 
+
 ->
- 
+
 &
 String
- 
+
 {
 
- 
+
 &
 self
 .0
 
- 
+
 }
 
 }
 
 let
- 
+
 shop
- 
+
 =
- 
+
 ShopId
 (
 "shop_abc123"
@@ -1115,22 +1115,22 @@ println!
 (
 "{}"
 ,
- 
+
 shop
 .len
 ());
- 
+
 // works, delegates to String::len()
 
 println!
 (
 "{}"
 ,
- 
+
 shop
 .to_uppercase
 ());
- 
+
 // works too
 
 You get full access to allStringmethods without unwrapping. But the type system still prevents you from passing aShopIdwhere aCustomerIdis expected. Best of both worlds.
@@ -1138,39 +1138,39 @@ You get full access to allStringmethods without unwrapping. But the type system 
 You’ll also wantDisplayandFromso your types play nicely with the rest of your code:
 
 use
- 
+
 std
 ::
 fmt
 ;
 
 impl
- 
+
 fmt
 ::
 Display
- 
+
 for
- 
+
 ShopId
- 
+
 {
 
- 
+
 fn
- 
+
 fmt
 (
 &
 self
 ,
- 
+
 f
 :
- 
+
 &
 mut
- 
+
 fmt
 ::
 Formatter
@@ -1178,70 +1178,70 @@ Formatter
 '_
 >
 )
- 
+
 ->
- 
+
 fmt
 ::
 Result
- 
+
 {
 
- 
+
 write!
 (
 f
 ,
- 
+
 "{}"
 ,
- 
+
 self
 .0
 )
 
- 
+
 }
 
 }
 
 impl
- 
+
 From
 <
 String
 >
- 
+
 for
- 
+
 ShopId
- 
+
 {
 
- 
+
 fn
- 
+
 from
 (
 s
 :
- 
+
 String
 )
- 
+
 ->
- 
+
 Self
- 
+
 {
 
- 
+
 ShopId
 (
 s
 )
 
- 
+
 }
 
 }
@@ -1249,14 +1249,14 @@ s
 // Now you can do:
 
 let
- 
+
 shop
 :
- 
+
 ShopId
- 
+
 =
- 
+
 "shop_abc123"
 .to_string
 ()
@@ -1271,82 +1271,82 @@ println!
 And here’s where it gets really powerful. You can add validation directly in the constructor, so invalid data can never become aShopIdin the first place:
 
 impl
- 
+
 ShopId
- 
+
 {
 
- 
+
 pub
- 
+
 fn
- 
+
 new
 (
 id
 :
- 
+
 String
 )
- 
+
 ->
- 
+
 Result
 <
 Self
 ,
- 
+
 String
 >
- 
+
 {
 
- 
+
 if
- 
+
 id
 .is_empty
 ()
- 
+
 {
 
- 
+
 return
- 
+
 Err
 (
 "Shop ID cannot be empty"
 .into
 ());
 
- 
+
 }
 
- 
+
 if
- 
+
 !
 id
 .starts_with
 (
 "shop_"
 )
- 
+
 {
 
- 
+
 return
- 
+
 Err
 (
 "Shop ID must start with 'shop_'"
 .into
 ());
 
- 
+
 }
 
- 
+
 Ok
 (
 ShopId
@@ -1354,7 +1354,7 @@ ShopId
 id
 ))
 
- 
+
 }
 
 }
@@ -1364,15 +1364,15 @@ Once aShopIdexists in your system, youknowit’s valid. Every function that rece
 In Go, defined types start with an empty method set, but built-in operations likelen()still work and you can add your own methods:
 
 type
- 
+
 ShopID
- 
+
 string
 
 id
- 
+
 :=
- 
+
 ShopID
 (
 "shop_abc123"
@@ -1386,40 +1386,40 @@ len
 (
 id
 ))
- 
+
 // works, len() is a built-in function
 
 // Add your own methods
 
 func
- 
+
 (
 id
- 
+
 ShopID
 )
- 
+
 Validate
 ()
- 
+
 error
- 
+
 {
 
- 
+
 if
- 
+
 id
- 
+
 ==
- 
+
 ""
- 
+
 {
 
- 
+
 return
- 
+
 errors
 .
 New
@@ -1427,12 +1427,12 @@ New
 "shop ID cannot be empty"
 )
 
- 
+
 }
 
- 
+
 return
- 
+
 nil
 
 }

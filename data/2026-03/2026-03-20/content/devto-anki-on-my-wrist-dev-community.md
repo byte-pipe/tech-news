@@ -67,7 +67,7 @@ Once again, once you have the API endpoints, you can integrate this into almost 
 As with all things, balance is important. Memorization without understanding, especially in a field like Machine Learning, may harm you as you may be unable to form new connections or generalize to new terms. The system I've built is a tool, not a replacement for deep thinking. But when you need to remember that one professor's name, or the year a paper was published, or the flags for a CLI tool you use twice a month -- having it on your wrist is genuinely useful.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

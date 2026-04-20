@@ -17,20 +17,20 @@ Instantly share code, notes, and snippets.
 # mattmanning/drugwars.txt
 
  Created
- 
+
 June 1, 2011 16:09
 
- 
+
 
 Show Gist options
 
- 
+
 
 * Download ZIP
 
- 
 
- 
+
+
 
 * Star60(60)You must be signed in to star a gist
 * Fork12(12)You must be signed in to fork a gist
@@ -41,13 +41,13 @@ Show Gist options
 * Clone via HTTPSClone using the web URL.
 * Save mattmanning/1002653 to your computer and use it in GitHub Desktop.
 
- 
+
 
 Embed
 
 # Select an option
 
- 
+
 
 * EmbedEmbed this gist in your website.
 * ShareCopy sharable link for this gist.
@@ -55,35 +55,35 @@ Embed
 
 ## No results found
 
- 
 
- 
- 
+
+
+
 Learn more about clone URLs
 
- 
 
- 
+
+
 
  Clone this repository at &lt;script src=&quot;https://gist.github.com/mattmanning/1002653.js&quot;&gt;&lt;/script&gt;
 
- 
 
- 
+
+
 
 Save mattmanning/1002653 to your computer and use it in GitHub Desktop.
 
 Download ZIP
 
  Drugwars for the TI-82/83/83+ Calculators
- 
 
- 
+
+
 
 Raw
 
  drugwars.txt
- 
+
 
 Lbl G
 
@@ -121,7 +121,7 @@ Disp " J.M.'S DRUGWAR"," SIMULATION",""," VERSION 2.00",""," JUST SAY NO."
 
 0→R
 
-Pause 
+Pause
 
 ClrHome
 
@@ -139,39 +139,39 @@ ClrHome
 
 Disp "THIS IS A GAME","OF BUYING AND","SELLING. YOUR","GOAL IS TO PAY-","OFF YOUR DEBT TO","THE LOAN SHARK,","AND THEN MAKE AS"
 
-Pause 
+Pause
 
 ClrHome
 
 Disp "MUCH MONEY AS","POSSIBLE IN A 1","MONTH PERIOD.","WATCH-OUT FOR","THE POLICE IF","YOU DEAL TOO","HEAVILY!"
 
-Pause 
+Pause
 
 ClrHome
 
 Disp "PRICES FOR DRUGS","ARE:","COCAINE:","15000-28000","HEROINE:","5000-12000","ACID: 1000-4200"
 
-Pause 
+Pause
 
 Disp "WEED: 300-720","SPEED: 70-220","LUDES: 10-50"
 
-Pause 
+Pause
 
 ClrHome
 
 Disp "GENERALY, TYPE","THE FIRST LETTER","OF WHAT YOU WANT","TO DO, I.E.:","W=WEED, L=LUDES","ETC..."
 
-Pause 
+Pause
 
 Disp "BUT, 1=YES AND","2=NO"
 
-Pause 
+Pause
 
 ClrHome
 
 Disp "THE LAST NUMBER","IN THE PRICES","LIST IS YOUR","WALLET. THE LAST","NUMBER IN YOUR","TRENCHCOAT IS","FREE SPACE."
 
-Pause 
+Pause
 
 End
 
@@ -199,7 +199,7 @@ ClrHome
 
 Disp "RIVAL DEALERS","ARE SELLING","CHEAP LUDES!!!"
 
-Pause 
+Pause
 
 2→L
 
@@ -213,7 +213,7 @@ ClrHome
 
 Disp "WEED PRICES HAVE","BOTTOMED-OUT!!!"
 
-Pause 
+Pause
 
 122→W
 
@@ -227,7 +227,7 @@ ClrHome
 
 Disp "PIGS ARE SELLING","CHEAP HEROINE","FROM LAST WEEK'S","RAID!!!!"
 
-Pause 
+Pause
 
 rand→H
 
@@ -245,7 +245,7 @@ ClrHome
 
 Disp "ADDICTS ARE","BUYING HEROINE","AT OUTRAGEOUS","PRICES!!!"
 
-Pause 
+Pause
 
 rand→H
 
@@ -263,7 +263,7 @@ ClrHome
 
 Disp "PIGS MADE A BIG","COKE BUST!","PRICES ARE","OUTRAGEOUS!!!!"
 
-Pause 
+Pause
 
 rand→C
 
@@ -281,7 +281,7 @@ ClrHome
 
 Disp "YOU WERE MUGGED","IN THE SUBWAY!"
 
-Pause 
+Pause
 
 (Z/3)→Z
 
@@ -323,7 +323,7 @@ ClrHome
 
 Disp "THERE'S SOME","WEED HERE THAT","SMELLS LIKE GOOD","STUFF!!"
 
-Pause 
+Pause
 
 Disp "WILL YOU SMOKE"
 
@@ -337,17 +337,17 @@ ClrHome
 
 Disp "YOU HALLUCINATE","ON THE WILDEST","TRIP OF YOUR","LIFE,"
 
-Pause 
+Pause
 
 Disp "STUMBLE ON TO","THE SUBWAY","TRACKS AND GET","CREAMED BY A","TRAIN."
 
-Pause 
+Pause
 
 ClrHome
 
 Disp "JUST SAY NO TO","DRUGS."
 
-Pause 
+Pause
 
 Goto C
 
@@ -479,7 +479,7 @@ Disp "ON A DEAD DUDE","IN THE SUBWAY!!!"
 
 (T-M-N-O-P-Q-R)→K
 
-Pause 
+Pause
 
 Goto A
 
@@ -495,7 +495,7 @@ Disp "THE MARKET HAS","BEEN FLOODED","WITH CHEAP HOME-","MADE ACID!!!!"
 
 int((250+(rand*550))→A
 
-Pause 
+Pause
 
 Goto A
 
@@ -525,7 +525,7 @@ If D=11
 
 Disp "OFFICER HARDASS","AND",D,"OF HIS DEPPUTIES","ARE AFTER YOU!"
 
-Pause 
+Pause
 
 ClrHome
 
@@ -541,7 +541,7 @@ Disp "NUMBER OF GUNS","YOU HAVE:"
 
 Disp I
 
-Pause 
+Pause
 
 Goto M
 
@@ -555,7 +555,7 @@ Disp J
 
 Disp "(50 DAMMAGE AND","YOU DIE!)"
 
-Pause 
+Pause
 
 Goto M
 
@@ -573,7 +573,7 @@ Disp D
 
 Disp "PIGS STILL","CHASING YOU!"
 
-Pause 
+Pause
 
 Goto M
 
@@ -593,7 +593,7 @@ ClrHome
 
 Disp "YOU LOST THEM IN","AN ALLEY!!"
 
-Pause 
+Pause
 
 If B=31
 
@@ -617,7 +617,7 @@ ClrHome
 
 Disp "YOU CAN'T SHAKE","THEM!"
 
-Pause 
+Pause
 
 Goto O
 
@@ -633,11 +633,11 @@ ClrHome
 
 Disp "YOU DON'T HAVE","ANY GUNS!"
 
-Pause 
+Pause
 
 Disp "YOU HAVE TO RUN!"
 
-Pause 
+Pause
 
 Goto M
 
@@ -653,7 +653,7 @@ ClrHome
 
 Disp "YOU MISSED!!!"
 
-Pause 
+Pause
 
 Else
 
@@ -661,7 +661,7 @@ ClrHome
 
 Disp "YOU KILLED ONE!!"
 
-Pause 
+Pause
 
 (D-1)→D
 
@@ -685,7 +685,7 @@ Then
 
 Disp "THEY MISSED!!"
 
-Pause 
+Pause
 
 Goto M
 
@@ -695,7 +695,7 @@ Disp "YOU'VE BEEN HIT!"
 
 (J+3)→J
 
-Pause 
+Pause
 
 If Jù50
 
@@ -703,7 +703,7 @@ Then
 
 Disp "YOU'VE BEEN ","KILLED!!"
 
-Pause 
+Pause
 
 Goto C
 
@@ -723,7 +723,7 @@ int((rand*1250+750)→X
 
 (Z+X)→Z
 
-Pause 
+Pause
 
 Disp "YOU FOUND"
 
@@ -731,7 +731,7 @@ Disp X
 
 Disp "DOLLARS ON","OFFICER HARDASS'","CARCASS!!"
 
-Pause 
+Pause
 
 If Zù1200
 
@@ -787,7 +787,7 @@ Output(6,1,"LUDES")
 
 Output(7,1,"WALLET")
 
-Pause 
+Pause
 
 Goto A
 
@@ -811,7 +811,7 @@ Output(6,1,"LUDES")
 
 Output(7,1,"FREE SPACE")
 
-Pause 
+Pause
 
 Goto A
 
@@ -957,7 +957,7 @@ ClrHome
 
 Disp "YOU'RE ALREADY","IN THE BRONX!"
 
-Pause 
+Pause
 
 Goto 5
 
@@ -999,7 +999,7 @@ ClrHome
 
 Disp "THE LOAN SHARK","ONLY DEALS IN","THE BRONX."
 
-Pause 
+Pause
 
 Goto A
 
@@ -1043,7 +1043,7 @@ ClrHome
 
 Disp "YOU THINK HE'S","CRAZY, MAN?!"
 
-Pause 
+Pause
 
 Goto Q
 
@@ -1069,7 +1069,7 @@ ClrHome
 
 Disp "THE BANK IS IN","THE BRONX."
 
-Pause 
+Pause
 
 Goto A
 
@@ -1083,7 +1083,7 @@ ClrHome
 
 Disp "YOUR ACCOUNT=",V
 
-Pause 
+Pause
 
 Goto 7
 
@@ -1151,7 +1151,7 @@ round(V,0)→V
 
 Disp "YOUR SCORE (ON A","SCALE OF 1 TO","100)=",V,""
 
-Pause 
+Pause
 
 Input "PLAY AGAIN?",V
 
@@ -1163,19 +1163,19 @@ ClrHome
 
 Disp " THANKS FOR"," PLAYING!"
 
-Pause 
+Pause
 
 ClrHome
 
 Disp "","","REMEMBER:","","WATCH YOUR BACK."
 
-Pause 
+Pause
 
 Disp "","HAVE A NICE DAY!"
 
 Load earlier comments...
 
- 
+
 
 ### ileathancommentedSep 26, 2021•edited
 
@@ -1189,11 +1189,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### spitemimcommentedSep 27, 2021
 
@@ -1205,11 +1205,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ileathancommentedSep 27, 2021•edited
 
@@ -1225,11 +1225,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### DaSovietPotatocommentedMar 14, 2022
 
@@ -1241,11 +1241,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### gammalogiccommentedJul 21, 2023
 
@@ -1257,11 +1257,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ileathancommentedJul 21, 2023
 
@@ -1279,11 +1279,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 Author
 
@@ -1306,7 +1306,7 @@ On Fri, Jul 21, 2023, 1:07 PM Spinelli Valentinuzzi < ***@***.***> wrote:
  ***@***.**** commented on this gist.
  ------------------------------
 
- Do keep us informed 
+ Do keep us informed
 @gammalogic
  <
 https://github.com/gammalogic
@@ -1349,11 +1349,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ileathancommentedJul 21, 2023
 
@@ -1379,11 +1379,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### gammalogiccommentedJul 22, 2023
 
@@ -1395,11 +1395,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### gammalogiccommentedJul 22, 2023
 
@@ -1411,11 +1411,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### trav29commentedDec 28, 2023
 
@@ -1427,11 +1427,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ileathancommentedDec 28, 2023•edited
 
@@ -1447,11 +1447,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### gammalogiccommentedDec 28, 2023
 
@@ -1463,11 +1463,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ileathancommentedDec 28, 2023•edited
 
@@ -1483,11 +1483,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### darth-crunchuscommentedJan 6, 2024•edited
 
@@ -1505,11 +1505,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### ileathancommentedJan 6, 2024•edited
 
@@ -1521,11 +1521,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### darth-crunchuscommentedJan 29, 2024
 
@@ -1537,11 +1537,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### DenverGamercommentedMar 22, 2024
 
@@ -1553,11 +1553,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### DrChorizasocommentedMay 1, 2024
 
@@ -1569,11 +1569,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### SmarterJokercommentedJul 22, 2024
 
@@ -1587,11 +1587,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### darth-crunchuscommentedNov 22, 2024
 
@@ -1607,11 +1607,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### JonesWebConsultingcommentedApr 3, 2025
 
@@ -1623,11 +1623,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### EnderBeastytcommentedNov 25, 2025
 
@@ -1639,11 +1639,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### darth-crunchuscommentedNov 26, 2025
 
@@ -1657,11 +1657,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### DrChorizasocommentedNov 26, 2025via email
 
@@ -1673,11 +1673,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### darth-crunchuscommentedNov 26, 2025
 
@@ -1691,11 +1691,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### SmarterJokercommentedNov 29, 2025via email
 
@@ -1738,11 +1738,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### vladimir1909commentedDec 18, 2025
 
@@ -1754,11 +1754,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### vladimir1909commentedDec 19, 2025
 
@@ -1772,11 +1772,11 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
 
- 
+
+
+
 
 ### tibboncommentedMar 20, 2026
 
@@ -1807,14 +1807,14 @@ Sorry, something went wrong.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Sign up for free
 
 to join this conversation on GitHub
 .
  Already have an account?
- 
+
 Sign in to comment

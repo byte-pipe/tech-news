@@ -31,7 +31,7 @@ At the risk of overexplaining and thus cheapening the analogy, I feel the need t
 Blomsterfönstret
 
  by Carl Larsson, 1895. Public domain via Wikimedia Commons.
- 
+
 
 ## When “It works on my machine” is the goal, not the excuse
 
@@ -64,10 +64,10 @@ Exhibit A: Happy houseplants on a happy houseplant shelf.
 
 Exhibit B: Happy flipdisc installation on a happy flipdisc shelf.
 
- Exhibit C: Happy 
+ Exhibit C: Happy
 xbar
 -based utilities for launching common tasks and starting music playback, on a happy menu bar on my laptop.
- 
+
 
 * Longevity: Like my plants, I love my little projects and I want them to thrive, and I baby them a little bit to get them started. But also, if they don’t work out? It isn’t a big deal, intothe great compost bin in the skyGithub they go, where a hard-won line or two may becompostedrecycled into a future project.
 

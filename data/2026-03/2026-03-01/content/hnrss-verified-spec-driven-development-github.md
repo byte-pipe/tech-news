@@ -17,20 +17,20 @@ Instantly share code, notes, and snippets.
 # dollspace-gay/VSDD.md
 
  Last active
- 
+
 February 28, 2026 23:09
 
- 
+
 
 Show Gist options
 
- 
+
 
 * Download ZIP
 
- 
 
- 
+
+
 
 * Star70(70)You must be signed in to star a gist
 * Fork8(8)You must be signed in to fork a gist
@@ -41,13 +41,13 @@ Show Gist options
 * Clone via HTTPSClone using the web URL.
 * Save dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00 to your computer and use it in GitHub Desktop.
 
- 
+
 
 Embed
 
 # Select an option
 
- 
+
 
 * EmbedEmbed this gist in your website.
 * ShareCopy sharable link for this gist.
@@ -55,35 +55,35 @@ Embed
 
 ## No results found
 
- 
 
- 
- 
+
+
+
 Learn more about clone URLs
 
- 
 
- 
+
+
 
  Clone this repository at &lt;script src=&quot;https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00.js&quot;&gt;&lt;/script&gt;
 
- 
 
- 
+
+
 
 Save dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00 to your computer and use it in GitHub Desktop.
 
 Download ZIP
 
  Verified Spec-Driven Development
- 
 
- 
+
+
 
 Raw
 
  VSDD.md
- 
+
 
 # Verified Spec-Driven Development (VSDD)
 
@@ -130,7 +130,7 @@ The Adversary
 Sarcasmotron
  (Gemini Gem or equivalent)
 
-Hyper-critical reviewer with zero patience. Reviews specs, tests, 
+Hyper-critical reviewer with zero patience. Reviews specs, tests,
 and
  implementation. Fresh context on every pass.
 
@@ -327,5 +327,5 @@ Sign up for free
 to join this conversation on GitHub
 .
  Already have an account?
- 
+
 Sign in to comment

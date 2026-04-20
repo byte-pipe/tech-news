@@ -134,7 +134,7 @@ We rebuilt the distribution:
 
 Docker Images
 pgsty/minio
- is live on Docker Hub. 
+ is live on Docker Hub.
 docker pull pgsty/minio
  and you’re good.
 RPM / DEB Packages
@@ -147,11 +147,11 @@ If you’re using Docker, just swapminio/minioforpgsty/minio.
 For native Linux installs, grab RPM/DEB packages from theGitHub Releasepage.
 You can also usepig(the PG extension package manager) for easy installation, or configure thepigsty-infraAPT/DNF repo:
 
-curl https://repo.pigsty.io/pig 
+curl https://repo.pigsty.io/pig
 |
  bash
 ;
- 
+
 
 pig repo add infra -u
 ;

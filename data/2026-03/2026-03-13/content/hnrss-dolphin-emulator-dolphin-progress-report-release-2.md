@@ -35,7 +35,7 @@ However, fastmem didn't cover everything - it only supported memory mapped withB
 
 This may sound problematic, but thanks to tricks like theMMU Speedhack, the vast majority of games see no performance penalty from page table accesses. In order for this lack of support to actually impact performance, a game would have to have a custom memory handler that resists our hacksandheavily relies on the page table. But what developer would be crazy enough to do all of that?
 
-...Right. 
+...Right.
 You.
 
 Factor 5 is arecurringvillainfrenemy here on the Dolphin blog for a reason. If there's a trick to squeeze more power out of a GameCube, Factor 5probably invented it. In this case, they went through all that trouble to getextra RAM.
@@ -52,7 +52,7 @@ Halfway into the GameCube's life, Nintendo standardized this ARAM access process
 
 But years before Nintendo standardized this process, Factor 5did it all themselveswith their own custom memory handler inRogue Squadron II. And, even though Nintendo's library existed by the timeRogue Squadron IIIcame out, Factor 5 went above and beyond in that game with aneven more optimizedcustom memory handler to squeeze as much as they possibly could out of ARAM. Tricks like this are what allowed Factor 5 to push the GameCube to such ridiculous levels.
 
-Is that... 
+Is that...
 texture streaming
 ?!
 Click or tap the clip for a larger version.
@@ -125,28 +125,28 @@ And finally, Store EFB Copies to Texture Only is no longer being forced off for 
 
 And now for the big question: with page table mappings in fastmem and all these optimizations summed up, how much faster doRogue Squadron IIandIIIrun?
 
-Benchmark 1: 
- RS2 Ison Corridor: 83 FPS 
- RS2 Hoth: 35 FPS 
- RS3 Revenge of the Empire: 13 FPSBenchmark 2: 
- RS2 Ison Corridor: 93 FPS 
- RS2 Hoth: 42 FPS 
+Benchmark 1:
+ RS2 Ison Corridor: 83 FPS
+ RS2 Hoth: 35 FPS
+ RS3 Revenge of the Empire: 13 FPSBenchmark 2:
+ RS2 Ison Corridor: 93 FPS
+ RS2 Hoth: 42 FPS
  RS3 Revenge of the Empire: 28 FPS
-Benchmark 3: 
- RS2 Ison Corridor: 107 FPS 
- RS2 Hoth: 55 FPS 
+Benchmark 3:
+ RS2 Ison Corridor: 107 FPS
+ RS2 Hoth: 55 FPS
  RS3 Revenge of the Empire: 34 FPS
 
 Benchmark 1:
- RS2-Ison: 303 FPS 
- RS2-Hoth: 106 FPS 
- RS3-Rev: 46 FPSBenchmark 2: 
- RS2-Ison: 350 FPS 
- RS2-Hoth: 140 FPS 
+ RS2-Ison: 303 FPS
+ RS2-Hoth: 106 FPS
+ RS3-Rev: 46 FPSBenchmark 2:
+ RS2-Ison: 350 FPS
+ RS2-Hoth: 140 FPS
  RS3-Rev: 52 FPS
-Benchmark 3: 
- RS2-Ison: 443 FPS 
- RS2-Hoth: 172 FPS 
+Benchmark 3:
+ RS2-Ison: 443 FPS
+ RS2-Hoth: 172 FPS
  RS3-Rev: 90 FPS
 
 The performance benefits areabsolutely massive. Of particular note isRogue Squadron III, whichdoubledin performance! On our top-of-the-line desktop, it can even be played at full speed for the very first time! And it's not just raw performance that improved - these changes help minimize hitching when the games are loading from ARAM. Even on the most powerful hardware, it's still not uncommon to drop a frame or two on loading screens and transitions. But compared to before, it's a night and day difference.
@@ -196,7 +196,7 @@ Oh boy.
 Back in theAugust 2021 Progress Report, we talked about a bug fix forInazuma Eleven GO: Strikers 2013. In this soccer game, if you used a Nintendo Wi-Fi Connection replacement service like Wiimmfi to play an online match between Dolphin and a real Wii, the two players would desync when performing certain actions. Thisslightlyhindered the online experience!
 
 Thanks to the game's desync mitigation, Dolphin didn't disconnect, but the issues still made the game unplayable online.
-Click/Tap to play. Click 
+Click/Tap to play. Click
 HERE
  for a higher quality version.
 
@@ -256,7 +256,7 @@ But hold on once again. What about feeding 32-bit inputs into a 64-bitFused Mult
 
 This is where we return toFeder's investigation. They had discovered a specific set of 32-bit inputs tofmaddsthat resulted in-0.83494705(hexadecimal0xbf55bf17) on console but-0.83494711(hexadecimal0xbf55bf18) on Dolphin. That's a difference of just one in the hexadecimal representation, which is indicative of a rounding error!Geotaleimmediately knew what was going on, thanks to her experience of investigating how math works both in Dolphin and on original hardware. The type of double rounding that Dolphin does is in factunsafefor Fused Multiply-Add.
 
-Pictured: Dolphin developers getting more and more angry at how 
+Pictured: Dolphin developers getting more and more angry at how
 Mario Strikers Charged
  calculates how the ball spins.
 

@@ -12,9 +12,9 @@ tags:
 ---
 
 New Story
- 
+
 649
- 
+
 reads
 
 # AI Products Have Terrible UX: Here's Why
@@ -22,8 +22,8 @@ reads
 by
 deeflect
 April 6th, 2026
-TLDR 
-Your browser does not support the 
+TLDR
+Your browser does not support the
 audio
  element.
 by

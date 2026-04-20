@@ -9,7 +9,7 @@ author: Virtual-History-6099
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,13 +17,13 @@ r/worldnews
 
 Virtual-History-6099
 
- 
 
- 
+
+
 
 # Israel fears Donald Trump could announce Iran ceasefire despite low deal odds
 
  jpost.com
- 
+
 
 Open

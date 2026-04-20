@@ -34,7 +34,7 @@ In this article, I lay out six of the main building blocks of a coding agent.
 
 You are probably familiar with Claude Code or the Codex CLI, but just to set the stage, they are essentially agentic coding tools that wrap an LLM in an application layer, a so-called agentic harness, to be more convenient and better-performing for coding tasks.
 
-Figure 1: Claude Code CLI, Codex CLI, and my 
+Figure 1: Claude Code CLI, Codex CLI, and my
 Mini Coding Agent
 .
 
@@ -88,7 +88,7 @@ Figure 4: Main harness features of a coding agent / coding harness that will be 
 
 By the way, in this article, I use the terms “coding agent” and “coding harness” somewhat interchangeably for simplicity. (Strictly speaking, the agent is the model-driven decision-making loop, while the harness is the surrounding software scaffold that provides context, tools, and execution support.)
 
-Figure 5: Minimal but fully working, from-scratch 
+Figure 5: Minimal but fully working, from-scratch
 Mini Coding Agent
  (implemented in pure Python)
 
@@ -263,9 +263,9 @@ I am excited to share that I finished writingBuild A Reasoning Model (From Scrat
 
 This is probably my most ambitious book so far. I spent about 1.5 years writing it, and a large number of experiments went into it. It is also probably the book I worked hardest on in terms of time, effort, and polish, and I hope you’ll enjoy it.
 
-Build a Reasoning Model (From Scratch) on 
+Build a Reasoning Model (From Scratch) on
 Manning
- and 
+ and
 Amazon
 .
 

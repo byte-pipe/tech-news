@@ -16,7 +16,7 @@ tags:
 
 # Temporal: The 9-Year Journey to Fix Time in JavaScript
 
-	Published on 
+	Published on
 11 March 2026
 
 Welcome to our blog! I'm Jason Williams, a senior software engineer on Bloomberg's JavaScript Infrastructure and Terminal Experience team. Today the Bloomberg Terminal runsa lot of JavaScript. Our team providesa JavaScript environmentto engineers across the company.
@@ -70,11 +70,11 @@ By the 2010s, JavaScript was powering banking systems, trading terminals, collab
 Developers would often write helper functions that accidently mutated the original Date object in place when they intended to return a new one:
 
 const
- date 
+ date
 =
- 
+
 new
- 
+
 Date
 (
 "2026-02-25T00:00:00Z"
@@ -96,15 +96,15 @@ toISOString
 // "2026-02-25T00:00:00.000Z"
 
 function
- 
+
 addOneDay
 (
 d
 )
- 
+
 {
 
- 
+
 // oops! This is mutating the date
 
  d
@@ -116,14 +116,14 @@ d
 getDate
 (
 )
- 
+
 +
- 
+
 1
 )
 ;
 
- 
+
 return
  d
 ;
@@ -153,11 +153,11 @@ toISOString
 ### Inconsistent Month Arithmetic#
 
 const
- billingDate 
+ billingDate
 =
- 
+
 new
- 
+
 Date
 (
 "Sat Jan 31 2026"
@@ -173,9 +173,9 @@ billingDate
 getMonth
 (
 )
- 
+
 +
- 
+
 1
 )
 ;
@@ -189,7 +189,7 @@ Sometimes people want to get the last day of the month and fall into traps like 
 ### Ambiguous Parsing#
 
 new
- 
+
 Date
 (
 "2026-06-25 15:15:00"
@@ -293,11 +293,11 @@ Temporal.ZonedDateTime represents:
 If you're currently writing:
 
 const
- now 
+ now
 =
- 
+
 new
- 
+
 Date
 (
 )
@@ -306,7 +306,7 @@ Date
 The Temporal equivalent is:
 
 const
- now 
+ now
 =
  Temporal
 .
@@ -324,7 +324,7 @@ This type is optimized for DateTimes that may require some datetime arithmetic i
 // London DST starts: 2026-03-29 01:00 -> 02:00
 
 const
- zdt 
+ zdt
 =
  Temporal
 .
@@ -333,7 +333,7 @@ ZonedDateTime
 from
 (
 
- 
+
 "2026-03-29T00:30:00+00:00[Europe/London]"
 ,
 
@@ -355,19 +355,19 @@ toString
 // → "2026-03-29T00:30:00+00:00[Europe/London]"
 
 const
- plus1h 
+ plus1h
 =
  zdt
 .
 add
 (
 {
- 
+
 hours
 :
- 
+
 1
- 
+
 }
 )
 ;
@@ -397,7 +397,7 @@ A typical example ofTemporal.Instantusage looks like this:
 // One exact moment in time
 
 const
- instant 
+ instant
 =
  Temporal
 .
@@ -457,7 +457,7 @@ We have several types with progressively less information. This is useful, as yo
 These types are also useful if you only plan to display the value to the user and do not need to perform any date/time arithmetic, such as moving forwards or backwards by weeks (you will need a calendar) or hours (you could end up crossing a daylight saving boundary). The limitations of some of these types are also what make them so useful. It's hard for you to trip up and encounter unexpected bugs.
 
 const
- date 
+ date
 =
  Temporal
 .
@@ -466,42 +466,42 @@ PlainDate
 from
 (
 {
- 
+
 year
 :
- 
+
 2026
 ,
- 
+
 month
 :
- 
+
 3
 ,
- 
+
 day
 :
- 
+
 11
- 
+
 }
 )
 ;
- 
+
 // => 2026-03-11
 
 date
 .
 year
 ;
- 
+
 // => 2026
 
 date
 .
 inLeapYear
 ;
- 
+
 // => false
 
 date
@@ -510,7 +510,7 @@ toString
 (
 )
 ;
- 
+
 // => '2026-03-11'
 
 ### Calendars#
@@ -520,7 +520,7 @@ Temporal supports calendars. Browsers and runtimes ship with a set ofbuilt-in ca
 Because Temporal objects are calendar-aware, operations like "add one month" are performedin the rules of that calendar, so you land on the expected result. In the example below, we add one Hebrew month to a Hebrew calendar date:
 
 const
- today 
+ today
 =
  Temporal
 .
@@ -538,14 +538,14 @@ toLocaleString
 (
 "en"
 ,
- 
+
 {
- 
+
 calendar
 :
- 
+
 "hebrew"
- 
+
 }
 )
 ;
@@ -553,19 +553,19 @@ calendar
 // '22 Adar 5786'
 
 const
- nextMonth 
+ nextMonth
 =
  today
 .
 add
 (
 {
- 
+
 months
 :
- 
+
 1
- 
+
 }
 )
 ;
@@ -576,14 +576,14 @@ toLocaleString
 (
 "en"
 ,
- 
+
 {
- 
+
 calendar
 :
- 
+
 "hebrew"
- 
+
 }
 )
 ;
@@ -595,19 +595,19 @@ With legacyDate, there's no way to express "add one Hebrew month" as a first-cla
 If you tried to approximate this withDate, it might look like:
 
 const
- legacyDate 
+ legacyDate
 =
- 
+
 new
- 
+
 Date
 (
 2026
 ,
- 
+
 2
 ,
- 
+
 11
 )
 ;
@@ -618,14 +618,14 @@ toLocaleDateString
 (
 "en"
 ,
- 
+
 {
- 
+
 calendar
 :
- 
+
 "hebrew"
- 
+
 }
 )
 ;
@@ -641,9 +641,9 @@ legacyDate
 getMonth
 (
 )
- 
+
 +
- 
+
 1
 )
 ;
@@ -654,14 +654,14 @@ toLocaleDateString
 (
 "en"
 ,
- 
+
 {
- 
+
 calendar
 :
- 
+
 "hebrew"
- 
+
 }
 )
 ;
@@ -675,7 +675,7 @@ This adds oneGregorianmonth (March → April). When you thendisplaythe result in
 Our final type isTemporal.Duration.Durationis straightforward and can be used with any of the other types when adding and subtracting. Another useful feature ofDurationis showing it in different units, like the example below:
 
 const
- duration 
+ duration
 =
  Temporal
 .
@@ -685,17 +685,17 @@ from
 (
 {
 
- 
+
 hours
 :
- 
+
 130
 ,
 
- 
+
 minutes
 :
- 
+
 20
 ,
 
@@ -708,16 +708,16 @@ duration
 total
 (
 {
- 
+
 unit
 :
- 
+
 "second"
- 
+
 }
 )
 ;
- 
+
 // => 469200
 
 Most datetime libraries already have a duration type, so it made sense to include one. It also complements the other types by allowing the developer to compare Times or DateTimes and getting back aDurationtype.
@@ -767,52 +767,52 @@ Developers will want to use Temporal with date pickers. Right now, that isn't po
 
 <
 input
- 
+
 type
 =
 "
 date
 "
- 
+
 />
 
 <!-- element.valueAsPlainDate -->
 
 <
 input
- 
+
 type
 =
 "
 time
 "
- 
+
 />
 
 <!-- element.valueAsPlainTime -->
 
 <
 input
- 
+
 type
 =
 "
 week
 "
- 
+
 />
 
 <!-- element.valueAsPlainDate -->
 
 <
 input
- 
+
 type
 =
 "
 month
 "
- 
+
 />
 
 <!-- element.valueAsPlainYearMonth -->
@@ -827,21 +827,21 @@ set
 (
 {
 
- 
+
 name
 :
- 
+
 "foo"
 ,
 
- 
+
 value
 :
- 
+
 "bar"
 ,
 
- 
+
 expires
 :
  Temporal
@@ -855,12 +855,12 @@ instant
 add
 (
 {
- 
+
 hours
 :
- 
+
 24
- 
+
 }
 )
 .

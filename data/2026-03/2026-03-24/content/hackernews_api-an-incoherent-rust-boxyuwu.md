@@ -46,19 +46,19 @@ trait
 
 impl
 <
-T: 
+T:
 Thingies
 >
- Trait 
+ Trait
 for
  T {}
 
 impl
 <
-T: 
+T:
 OtherThingies
 >
- Trait 
+ Trait
 for
  T {}
 
@@ -78,14 +78,14 @@ The orphan rules are a check that helps us implement coherence. They enforce tha
 // crate a
 
 pub
- 
+
 trait
  Trait {}
 
 pub
- 
+
 struct
- 
+
 Foo
 ;
 
@@ -97,7 +97,7 @@ use
 ;
 
 impl
- Trait 
+ Trait
 for
  Foo {}
 
@@ -126,9 +126,9 @@ See alsoTrait implementation coherence - Rust Reference.
 #[derive(PartialEq, Eq)]
 
 pub
- 
+
 struct
- 
+
 MyData
 (
 u8
@@ -137,13 +137,13 @@ u8
 // crate b
 
 impl
- Hash 
+ Hash
 for
  MyData {
 
- 
+
 fn
- 
+
 hash
 (
 &
@@ -158,18 +158,18 @@ hash();
 }
 
 pub
- 
+
 fn
- 
+
 make_hashset
-() -> 
+() ->
 HashSet
 <
 MyData
 >
  {
 
- 
+
 // Uses the `Hash` impl defined in this crate to insert
 
  [MyData(
@@ -183,22 +183,22 @@ MyData
 // crate c
 
 impl
- Hash 
+ Hash
 for
  MyData {
 
- 
+
 fn
- 
+
 hash
 (
 &
 self) {
 
- 
+
 // You probably don't want this to be your hash function...
 
- 
+
 0.
 hash();
 
@@ -207,18 +207,18 @@ hash();
 }
 
 pub
- 
+
 fn
- 
+
 check_hashset
-(set: 
+(set:
 HashSet
 <
 MyData
 >
 ) {
 
- 
+
 // Uses the `Hash` impl defined in this crate to lookup
 
  assert!(set.contains(MyData(
@@ -248,9 +248,9 @@ Currently coherence is actually important for the type system to besound:
 trait
  Trait {
 
- 
+
 type
- 
+
 Assoc
 ;
 
@@ -259,49 +259,49 @@ Assoc
 // crate a
 
 impl
- Trait 
+ Trait
 for
  () {
 
- 
+
 type
- 
+
 Assoc
- 
+
 =
- 
+
 *
 const
- 
+
 u8
 ;
 
 }
 
 pub
- 
+
 fn
- 
+
 make_assoc
-() -> 
+() ->
 <
-() 
+()
 as
  Trait
 >
 ::Assoc {
 
- 
+
 // `<() as Trait>::Assoc` is implemented as being `*const u8`
 
- 
+
 0x0
- 
+
 as
- 
+
 *
 const
- 
+
 u8
 
 }
@@ -309,15 +309,15 @@ u8
 // crate b
 
 impl
- Trait 
+ Trait
 for
  () {
 
- 
+
 type
- 
+
 Assoc
- 
+
 =
  Box
 <
@@ -328,32 +328,32 @@ u8
 }
 
 fn
- 
+
 drop_assoc
-(a: 
+(a:
 <
-() 
+()
 as
  Trait
 >
 ::Assoc) {
 
- 
+
 // `<() as Trait>::Assoc` is implemented as being `Box<u8>`
 
- 
+
 let
  a: Box
 <
 u8
 >
- 
+
 =
  a;
 
- 
 
- 
+
+
 // free'ing an allocation here
 
  drop(a);
@@ -379,30 +379,30 @@ First, the orphan rules allow for all crates in the rust ecosystem to compose to
 // crate a
 
 pub
- 
+
 trait
- GetU32 { 
+ GetU32 {
 fn
- 
+
 get
-(self) -> 
+(self) ->
 u32
  }
 
 // crate b
 
 impl
- GetU32 
+ GetU32
 for
- 
+
 u32
  {
 
- 
+
 fn
- 
+
 get
-(self) -> 
+(self) ->
 u32
  {
 
@@ -415,17 +415,17 @@ u32
 // crate c
 
 impl
- GetU32 
+ GetU32
 for
- 
+
 u32
  {
 
- 
+
 fn
- 
+
 get
-(self) -> 
+(self) ->
 u32
  {
 
@@ -438,12 +438,12 @@ u32
 // crate d
 
 extern
- 
+
 crate
  b;
 
 extern
- 
+
 crate
  c;
 
@@ -460,30 +460,30 @@ A rust library can be compiled into a dynamic library and then dynamically linke
 // crate a
 
 pub
- 
+
 trait
- GetU32 { 
+ GetU32 {
 fn
- 
+
 get
-(self) -> 
+(self) ->
 u32
  }
 
 // crate b
 
 impl
- GetU32 
+ GetU32
 for
- 
+
 u32
  {
 
- 
+
 fn
- 
+
 get
-(self) -> 
+(self) ->
 u32
  {
 
@@ -496,17 +496,17 @@ u32
 // crate c
 
 impl
- GetU32 
+ GetU32
 for
- 
+
 u32
  {
 
- 
+
 fn
- 
+
 get
-(self) -> 
+(self) ->
 u32
  {
 
@@ -517,9 +517,9 @@ u32
 }
 
 fn
- 
+
 main
-() { 
+() {
 ..
 . }
 
@@ -546,19 +546,19 @@ It’s still possible that an upstream crate could exist and be dynamically link
 // crate a
 
 pub
- 
+
 trait
  Trait {}
 
 // crate b
 
 struct
- 
+
 Local
 ;
 
 impl
- a::Trait 
+ a::Trait
 for
  Local {}
 
@@ -568,14 +568,14 @@ impl
 <
 T
 >
- a::Trait 
+ a::Trait
 for
  T {}
 
 fn
- 
+
 main
-() { 
+() {
 ..
 . }
 
@@ -634,13 +634,13 @@ Allow two impls to overlap if they are the “same” impl:
 // crate a
 
 pub
- 
+
 trait
  Trait {
 
- 
+
 type
- 
+
 Assoc
 ;
 
@@ -649,15 +649,15 @@ Assoc
 // crate b
 
 impl
- Trait 
+ Trait
 for
  () {
 
- 
+
 type
- 
+
 Assoc
- 
+
 =
  ();
 
@@ -670,15 +670,15 @@ Assoc
 // as the implementation is the exact same
 
 impl
- Trait 
+ Trait
 for
  () {
 
- 
+
 type
- 
+
 Assoc
- 
+
 =
  ();
 
@@ -735,13 +735,13 @@ impl
 <
 T
 >
- 
+
 =
  Trait
 <
 T
 >
- 
+
 for
  T { }
 
@@ -754,29 +754,29 @@ See alsoElaborating Rust Traits to Dictionary-Passing Style - Nadrierilfor more 
 Next let’s introduce some syntax to specify which trait impl is used for satifying a trait bound:
 
 fn
- 
+
 function
 <
-T: 
+T:
 Trait
- 
+
 +
  OtherTrait
 >
-(x: 
+(x:
 T
-) -> 
+) ->
 T
 
 where
 
- (): 
+ ():
 Five
 ,
 
 {
 
- 
+
 ..
 .
 
@@ -787,11 +787,11 @@ impl
 <
 T
 >
- 
+
 =
- Trait 
+ Trait
 for
- T { 
+ T {
 ..
 . }
 
@@ -800,36 +800,36 @@ impl
 <
 T
 >
- 
+
 =
- OtherTrait 
+ OtherTrait
 for
- T { 
+ T {
 ..
 . }
 
 impl
- ImplFive 
+ ImplFive
 =
- Five 
+ Five
 for
- () { 
+ () {
 ..
 . }
 
 let
- result 
+ result
 =
 
  function::
 <
-T 
+T
 +
  TraitImpl
 <
 T
 >
- 
+
 +
  OtherTraitImpl
 <
@@ -839,7 +839,7 @@ T
 ..
 .)
 
- 
+
 where
 
  ImplFive,;
@@ -849,45 +849,45 @@ We roughly mirror the syntax used at definition site of the function except inst
 Finally let’s introduce a way to name our trait bounds:
 
 fn
- 
+
 function
 <
 T
 >
-(x: 
+(x:
 T
-) -> 
+) ->
 T
 
 where
 
- 
+
 impl
- SizedImpl: Sized 
+ SizedImpl: Sized
 for
  T,
 
- 
+
 impl
- TraitImpl: 
+ TraitImpl:
 Trait
- 
+
 for
  T,
 
- 
+
 impl
- OtherTraitImpl: 
+ OtherTraitImpl:
 OtherTrait
- 
+
 for
  T,
 
- 
+
 impl
- FiveImpl: 
+ FiveImpl:
 Five
- 
+
 for
  (),
 
@@ -895,13 +895,13 @@ for
 
  other_function::
 <
-T 
+T
 +
  SizedImpl
 >
 ();
 
- 
+
 ..
 .
 
@@ -923,51 +923,51 @@ Therearesome edge cases where being able to explicitly annotate how a trait boun
 The main point of adding all this new syntax and ability to reason about what impl is used to satisfy a trait bound is to allow us to have overlapping trait impls. Without it overlapping trait implementations wouldn’t be very useful:
 
 impl
- Clone 
+ Clone
 for
- MyType { 
+ MyType {
 fn
- 
+
 clone
 (
 &
-self) -> 
+self) ->
 Self
- { 
+ {
 loop
  {} } }
 
 impl
- Clone 
+ Clone
 for
- MyType { 
+ MyType {
 fn
- 
+
 clone
 (
 &
-self) -> 
+self) ->
 Self
  { MyType(self.
 0
 ) } }
 
 fn
- 
+
 takes_cloneable
 <
 T: Clone
 >
-(_: 
+(_:
 T
 ) {}
 
 fn
- 
+
 main
 () {
 
- 
+
 // what impl is used? the compiler cant figure it out so error...
 
  takes_cloneable(MyType(
@@ -979,41 +979,41 @@ main
 Butwithnamed trait impls and trait bound parameters:
 
 impl
- Impl1 
+ Impl1
 =
- Clone 
+ Clone
 for
- MyType { 
+ MyType {
 ..
 . }
 
 impl
- Impl2 
+ Impl2
 =
- Clone 
+ Clone
 for
- MyType { 
+ MyType {
 ..
 . }
 
 fn
- 
+
 takes_cloneable
 <
 T: Clone
 >
-(_: 
+(_:
 T
 ) {}
 
 fn
- 
+
 main
 () {
 
  takes_cloneable::
 <
-_ 
+_
 +
  Impl1
 >
@@ -1023,7 +1023,7 @@ _
 
  takes_cloneable::
 <
-_ 
+_
 +
  Impl2
 >
@@ -1038,13 +1038,13 @@ We can’t arbitrarily allow overlapping impls as there may be traits which are 
 // crate a
 
 pub
- incoherent 
+ incoherent
 trait
  Serialize {
 
- 
+
 fn
- 
+
 serialize
 (
 &
@@ -1055,9 +1055,9 @@ self) -> String;
 // crate b
 
 pub
- 
+
 struct
- 
+
 Matrix
 (
 ..
@@ -1066,38 +1066,38 @@ Matrix
 // crate c
 
 impl
- CSerialize 
+ CSerialize
 =
- a::Serialize 
+ a::Serialize
 for
- b::Matrix { 
+ b::Matrix {
 ..
 . }
 
 // crate d
 
 impl
- DSerialize 
+ DSerialize
 =
- a::Serialize 
+ a::Serialize
 for
- b::Matrix { 
+ b::Matrix {
 ..
 . }
 
 An interesting outcome of removing coherence and having trait bound parameters is that there becomes a meaningful difference between having a trait bound on an impl or on a struct:
 
-incoherent 
+incoherent
 trait
  Name {
 
- 
+
 const
- 
+
 NAME
-: 
+:
 &
-'static 
+'static
 str
 ;
 
@@ -1108,23 +1108,23 @@ impl
 <
 T
 >
- 
+
 =
- Name 
+ Name
 for
  T {
 
- 
+
 const
- 
+
 NAME
-: 
+:
 &
-'static 
+'static
 str
- 
+
 =
- 
+
 "dummy"
 ;
 
@@ -1135,21 +1135,21 @@ impl
 <
 T
 >
- 
+
 =
- Name 
+ Name
 for
  T {
 
- 
+
 const
- 
+
 NAME
-: 
+:
 &
-'static 
+'static
 str
- 
+
 =
  core::any::type_name::
 <
@@ -1162,7 +1162,7 @@ T
 #[derive(Copy, Clone)]
 
 struct
- 
+
 Foo
 <
 T
@@ -1172,10 +1172,10 @@ T
 impl
  MyImpl
 <
-T: 
+T:
 Name
 >
- 
+
 =
  Foo
 <
@@ -1183,11 +1183,11 @@ T
 >
  {
 
- 
+
 pub
- 
+
 fn
- 
+
 do_stuff
 (self) {
 
@@ -1195,9 +1195,9 @@ do_stuff
 "
 {}
 "
-, 
+,
 <
-T 
+T
 as
  Name
 >
@@ -1210,39 +1210,39 @@ NAME
 }
 
 fn
- 
+
 main
 () {
 
- 
+
 let
- foo 
+ foo
 =
  Foo(
 1
 );
 
- 
 
- 
+
+
 // prints "dummy"
 
  MyImpl
 <
-_ 
+_
 +
  DummyName
 <
 _
 >>
-::do_stuff(foo); 
+::do_stuff(foo);
 
- 
+
 // prints "i32"
 
  MyImpl
 <
-_ 
+_
 +
  RealName
 <
@@ -1259,10 +1259,10 @@ On the other hand if we defineFooasstruct Foo<T: Name>:
 #[derive(Copy, Clone)]
 
 struct
- 
+
 Foo
 <
-T: 
+T:
 Name
 >
 (T);
@@ -1270,10 +1270,10 @@ Name
 impl
  MyImpl
 <
-T: 
+T:
 Name
 >
- 
+
 =
  Foo
 <
@@ -1281,24 +1281,24 @@ T
 >
  {
 
- 
+
 ..
 .
 
 }
 
 fn
- 
+
 main
 () {
 
- 
+
 let
- foo 
+ foo
 =
  Foo::
 <
-_ 
+_
 +
  DummyName
 <
@@ -1308,32 +1308,32 @@ _
 1
 )
 
- 
 
- 
+
+
 // prints "dummy"
 
  MyImpl
 <
-_ 
+_
 +
  DummyName
 <
 _
 >>
-::do_stuff(foo); 
+::do_stuff(foo);
 
- 
 
- 
+
+
 // errors as `foo` has type `Foo<u8 + DummyName<u8>>` but
 
- 
+
 // the impl requires the self type to be `Foo<u8 + RealName<u8>>`
 
  MyImpl
 <
-_ 
+_
 +
  RealName
 <
@@ -1377,9 +1377,9 @@ We previously talked about coherence being required to prevent different crates 
 trait
  Trait {
 
- 
+
 type
- 
+
 Assoc
 ;
 
@@ -1388,49 +1388,49 @@ Assoc
 // crate a
 
 impl
- Trait 
+ Trait
 for
  () {
 
- 
+
 type
- 
+
 Assoc
- 
+
 =
- 
+
 *
 const
- 
+
 u8
 ;
 
 }
 
 pub
- 
+
 fn
- 
+
 make_assoc
-() -> 
+() ->
 <
-() 
+()
 as
  Trait
 >
 ::Assoc {
 
- 
+
 // `<() as Trait>::Assoc` is implemented as being `*const u8`
 
- 
+
 0x0
- 
+
 as
- 
+
 *
 const
- 
+
 u8
 
 }
@@ -1438,15 +1438,15 @@ u8
 // crate b
 
 impl
- Trait 
+ Trait
 for
  () {
 
- 
+
 type
- 
+
 Assoc
- 
+
 =
  Box
 <
@@ -1457,32 +1457,32 @@ u8
 }
 
 fn
- 
+
 drop_assoc
-(a: 
+(a:
 <
-() 
+()
 as
  Trait
 >
 ::Assoc) {
 
- 
+
 // `<() as Trait>::Assoc` is implemented as being `Box<u8>`
 
- 
+
 let
  a: Box
 <
 u8
 >
- 
+
 =
  a;
 
- 
 
- 
+
+
 // free'ing an allocation here
 
  drop(a);
@@ -1497,13 +1497,13 @@ b::drop_assoc(a::make_assoc())
 
 With out new desugaring we can rewrite this to talk about which impls are being used a bit more explicitly and we can see how this problem is resolved:
 
-incoherent 
+incoherent
 trait
  Trait {
 
- 
+
 type
- 
+
 Assoc
 ;
 
@@ -1512,44 +1512,44 @@ Assoc
 // crate a
 
 impl
- ATrait 
+ ATrait
 =
- Trait 
+ Trait
 for
  () {
 
- 
+
 type
- 
+
 Assoc
- 
+
 =
- 
+
 *
 const
- 
+
 u8
 ;
 
 }
 
 pub
- 
+
 fn
- 
+
 make_assoc
-() -> 
+() ->
 ATrait
 ::Assoc {
 
- 
+
 0x0
- 
+
 as
- 
+
 *
 const
- 
+
 u8
 
 }
@@ -1557,17 +1557,17 @@ u8
 // crate b
 
 impl
- BTrait 
+ BTrait
 =
- Trait 
+ Trait
 for
  () {
 
- 
+
 type
- 
+
 Assoc
- 
+
 =
  Box
 <
@@ -1578,19 +1578,19 @@ u8
 }
 
 fn
- 
+
 drop_assoc
-(a: 
+(a:
 BTrait
 ::Assoc) {
 
- 
+
 let
  a: Box
 <
 u8
 >
- 
+
 =
  a;
 
@@ -1601,9 +1601,9 @@ u8
 // crate c
 
 let
- a_assoc: 
+ a_assoc:
 a
-::ATrait::Assoc 
+::ATrait::Assoc
 =
  a::make_assoc()
 
@@ -1651,9 +1651,9 @@ A collection of random thoughts/information that are non-essential reading for t
 trait
  Trait {
 
- 
+
 type
- 
+
 Assoc
 ;
 
@@ -1664,56 +1664,56 @@ impl
 <
 T
 >
- 
+
 =
- Trait 
+ Trait
 for
  T {
 
- 
+
 type
- 
+
 Assoc
- 
+
 =
  T;
 
 }
 
 fn
- 
+
 foo
 <
 T
 >
-(x: 
+(x:
 T
 )
 
 where
 
- 
+
 impl
- TraitBound: 
+ TraitBound:
 Trait
- 
+
 for
  T,
 
 {
 
- 
+
 // Does checking `T: Trait` use `TraitBound` or `BlanketTrait`?
 
- 
+
 let
- a: 
+ a:
 <
-T 
+T
 as
  Trait
 >
-::Assoc 
+::Assoc
 =
  T;
 
@@ -1737,18 +1737,18 @@ Go Back
 If we also supported naming inherent impls we would be able to support fully qualified syntax for accessing inherent associated items:
 
 struct
- 
+
 Foo
 ;
 
 impl
- Inherent 
+ Inherent
 =
  Foo {
 
- 
+
 fn
- 
+
 assoc
 (
 &
@@ -1765,9 +1765,9 @@ self) {
 trait
  Trait {
 
- 
+
 fn
- 
+
 assoc
 (
 &
@@ -1776,13 +1776,13 @@ self);
 }
 
 impl
- Trait 
+ Trait
 for
  Foo {
 
- 
+
 fn
- 
+
 assoc
 (
 &
@@ -1797,19 +1797,19 @@ self) {
 }
 
 fn
- 
+
 main
 () {
 
- 
+
 <
-Foo 
+Foo
 as
  Inherent
 >
 ::assoc(Foo);
 
- 
+
 // or maybe
 
  Inherent::assoc(Foo);
@@ -1825,7 +1825,7 @@ Go Back
 In the postOn always-applicable trait impls - lcnrthe idea ofmaybebounds was introduced. In our model this is like supportingwhere impl Name: Option<Trait for T>:
 
 struct
- 
+
 Foo
 <
 T
@@ -1834,65 +1834,65 @@ T
 
 where
 
- 
+
 impl
  Name: Option
 <
-Trait 
+Trait
 for
  T
 >
 ;
 
 fn
- 
+
 foo
 <
 T
 >
-(arg: 
+(arg:
 T
 )
 
 where
 
- 
+
 impl
- Name: 
+ Name:
 Trait
- 
+
 for
  T
 
 {
 
- 
+
 let
- 
+
 mut
- foo 
+ foo
 =
- Foo(arg) 
+ Foo(arg)
 where
  None;
 
- 
+
 let
- foo2 
+ foo2
 =
- Foo(arg) 
+ Foo(arg)
 where
  Some(Name);
 
- 
 
- 
+
+
 // error as `Foo<T> where None` and `Foo<T> where Name`
 
- 
+
 // are different types
 
- foo 
+ foo
 =
  foo2;
 

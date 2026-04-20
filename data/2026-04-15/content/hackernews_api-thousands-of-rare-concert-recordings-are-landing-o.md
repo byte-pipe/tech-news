@@ -40,11 +40,11 @@ Sometimes, the internet is good. And so isthis Tracy Chapman recordingfrom 1988.
 Topics
 
 In Brief
-, 
+,
 Internet archive
-, 
+,
 Media & Entertainment
- 
+
 
 ### Newsletters
 
@@ -69,7 +69,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

@@ -82,7 +82,7 @@ Triangle
 * HowTrump’s plot to grab Iran's nuclear fuelwould actually work
 * WIRED Health:Jointhe boldest minds in healthcare
 Lorenzo Lamperti
- is a WIRED Italia contributor based in Taipei. ... 
+ is a WIRED Italia contributor based in Taipei. ...
 Read More
 
 Topics

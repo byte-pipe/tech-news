@@ -13,7 +13,7 @@ tags:
 - hnrss
 ---
 
-(Image credit: 
+(Image credit:
 Maddmaxstar
 )
 
@@ -46,9 +46,9 @@ Contact me with news and offers from other Future brands
 
 Receive email from us on behalf of our trusted partners or sponsors
 
-By submitting your information you agree to the 
+By submitting your information you agree to the
 Terms & Conditions
- and 
+ and
 Privacy Policy
  and are aged 16 or over.
 
@@ -68,9 +68,9 @@ AMD’s Athlon 1 GHz press release, which we are grateful ispreserved by CPU Sha
 
 It also managed to get industry analyst quotes comparing the 1 GHz Athlon launch to man’s first steps on the moon, the breaking of the four-minute-mile athletics record, and the conquering of Everest.
 
- 
 
-(Image credit: 
+
+(Image credit:
 Tullius
 )
 
@@ -91,7 +91,7 @@ Receive email from us on behalf of our trusted partners or sponsors
 
 AMD’s shipping announcement prompted Intel to paper launch its 1 GHz Pentium III chip (Tray price $990) two days later. However, it was plagued by supply issues for months. Contemporary reports suggest Intel planned toramp volume in Q3 2000, which would give AMD quite a lot of time to make merry with its 1 GHz Athlon.
 
- 
+
 
 FollowTom's Hardware on Google News, oradd us as a preferred source, to get our latest news, analysis, & reviews in your feeds.
 

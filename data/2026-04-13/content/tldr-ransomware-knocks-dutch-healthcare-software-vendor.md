@@ -15,7 +15,7 @@ tags:
 
 # Dutch healthcare software vendor goes dark after ransomware attack
 
- 
+
 
 ## ChipSoft's website remains down but emails are functioning
 
@@ -58,10 +58,10 @@ Hospitals in Antwerp and Deurne were disrupted for days and were forced to turn 
 
 "In Belgium, in January 2026, we saw how a cyberattack on a hospital led to prolonged system downtime and postponed operations. That directly affects patients and healthcare providers. Good preparation ensures that care can continue safely and carefully even then." ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

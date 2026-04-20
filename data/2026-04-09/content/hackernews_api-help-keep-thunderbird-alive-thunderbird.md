@@ -13,10 +13,10 @@ tags:
 - trending
 ---
 
-Click here to 
+Click here to
 Donate!
 
- Help keep 
+ Help keep
 Thunderbird Alive!
 
 All of the work we do is funded by less than 3% of our users.

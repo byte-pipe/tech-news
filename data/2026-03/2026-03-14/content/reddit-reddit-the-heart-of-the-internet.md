@@ -9,7 +9,7 @@ author: WhatFreshHello
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 WhatFreshHello
 
- 
+
 
 # Two die after donating plasma at Canadian clinics under federal investigation
 
  theguardian.com
- 
+
 
 Open

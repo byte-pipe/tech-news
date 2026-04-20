@@ -15,7 +15,7 @@ tags:
 
 This video can not be played
 
-Media caption, 
+Media caption,
 
 Wilder beats Chisora in thrilling split decision bout
 
@@ -53,9 +53,9 @@ Later, former world champion Wilder, who also said he may have a small fracture 
 * Published3 hours ago
 * Wilder denies claims he assaulted ex-partner's sonPublished16 hours ago
 * Published16 hours ago
-Image source, 
+Image source,
 Getty Images
-Image caption, 
+Image caption,
 
 Anthony Joshua last fought in December when he stopped YouTuber-turned-boxer Jake Paul
 
@@ -73,7 +73,7 @@ Asked about the post-fight exchange, Hearn told Fight Hub TV: "He said 'let's do
 
 This video can not be played
 
-Media caption, 
+Media caption,
 
 'I was thinking of Chisora being with his kids': Wilder on holding back in Chisora fight
 

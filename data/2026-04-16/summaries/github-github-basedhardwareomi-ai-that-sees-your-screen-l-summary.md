@@ -1,7 +1,7 @@
 ---
 title: GitHub - BasedHardware/omi: AI that sees your screen, listens to your conversations and tells you what to do · GitHub
 url: https://github.com/BasedHardware/omi
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-16T12:14:18.308753

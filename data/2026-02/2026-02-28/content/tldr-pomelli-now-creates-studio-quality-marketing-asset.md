@@ -23,7 +23,7 @@ Turn simple product photos into professional-grade studio and lifestyle imagery.
 Daniel Adonai
 
  Senior Product Manager, Google Labs
- 
+
 
 For small to medium-sized businesses, keeping up with the demands of digital marketing can be a full-time job that they don’t have the time or money to afford. With Pomelli, a free tool from Google Labs, we want to help these businesses grow by making it easier to generate on-brand photos and marketing campaigns that feel authentic and professional.
 
@@ -74,82 +74,82 @@ Google Labs
 #### New ways to create and refine content in Flow
 
  By
- 
- 
- 
+
+
+
 
  Anika Ahluwalia
- 
+
 
  Feb 25, 2026
- 
+
 
 Google Labs
 
 #### Build dynamic agentic workflows in Opal
 
  By
- 
- 
- 
+
+
+
 
  Dimitri Glazkov
- 
+
 
  Feb 24, 2026
- 
+
 
 Google Labs
 
 #### ProducerAI: Your music creation partner, now in Google Labs
 
  By
- 
- 
- 
+
+
+
 
  Elias Roman
- 
+
 
  Feb 24, 2026
- 
+
 
 AI Products
 
 #### The latest AI news we announced in December
 
  By
- 
- 
- 
+
+
+
 
  Keyword Team
- 
+
 
  Dec 29, 2025
- 
+
 
 AI Products
 
 #### 60 of our biggest AI announcements in 2025
 
  By
- 
- 
- 
+
+
+
 
  Zahra Thompson
- 
+
 
  Dec 22, 2025
- 
+
 
 Google Labs
 
 #### Organize your insights with Data Tables in NotebookLM.
 
  Dec 18, 2025
- 
+
 
 .
 

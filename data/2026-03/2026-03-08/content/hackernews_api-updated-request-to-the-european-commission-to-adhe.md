@@ -15,9 +15,9 @@ tags:
 ---
 
 Home
- » 
+ »
 UPDATED Request to the European Commission to adhere to its own guidances
- 
+
 
 The European Commission has accepted our request, and starting from today – Friday March 6 – has added the Open Document Format ODS version of the spreadsheet to be used toprovide the feedback. We are grateful to the people working at DG CONNECT, the Commission’s Directorate-General for Communications Networks, Content and Technology, for responding to our request within 24 hours. At this point, the rest of this message is no longer relevant, and the call for action is no longer necessary.
 
@@ -59,9 +59,9 @@ Board of DirectorsThe Document FoundationBerlin, March 5, 2026
 
  
 
- 
 
- 
+
+
 
 ## Related Posts
 

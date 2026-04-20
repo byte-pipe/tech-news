@@ -9,7 +9,7 @@ author: Wanderer_In_Disguise
 ---
 
 Go to worldnews
- 
+
 
 r/worldnews
 
@@ -17,11 +17,11 @@ r/worldnews
 
 Wanderer_In_Disguise
 
- 
+
 
 # Before it was sunk by US, Iranian ship IRIS Dena was offered shelter by India
 
  indianexpress.com
- 
+
 
 Open

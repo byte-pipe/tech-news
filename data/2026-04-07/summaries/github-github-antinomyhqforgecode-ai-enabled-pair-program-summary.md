@@ -1,7 +1,7 @@
 ---
 title: GitHub - antinomyhq/forgecode: AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models · GitHub
 url: https://github.com/antinomyhq/forgecode
-date: 
+date:
 site: github
 model: llama3.2:1b
 summarized_at: 2026-04-07T11:29:11.504014

@@ -28,7 +28,7 @@ Amazon first instituted this type of surchargein 2022 — which, not so coincide
 
 Iran is strategically located along the northern border of the Strait of Hormuz — a narrow but critical shipping lane for global oil supplies through which roughly 20% of the world’s oil supply passes — and the country hassought to block shipping lanes there, a move that hasmajorly impactedenergy prices throughout the world.
 
- 
+
 
 Techcrunch event
 
@@ -51,22 +51,22 @@ REGISTER NOW
 Topics
 
 Amazon
-, 
+,
 Commerce
-, 
+,
 e-commerce
-, 
+,
 iran
-, 
+,
 Trump
- 
 
-			Lucas Ropek	
+
+			Lucas Ropek
 
 Senior Writer, TechCrunch
 
-		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. 
+		Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo.
 
-You can contact Lucas by emailing lucas.ropek@techcrunch.com.	
+You can contact Lucas by emailing lucas.ropek@techcrunch.com.
 
 View Bio

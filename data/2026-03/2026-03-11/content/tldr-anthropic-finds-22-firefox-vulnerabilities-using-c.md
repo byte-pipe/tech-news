@@ -50,11 +50,11 @@ Mozilla, in a coordinated announcement, said the AI-assisted approach has discov
 
 "The scale of findings reflects the power of combining rigorous engineering with new analysis tools for continuous improvement," the browser makersaid. "We view this as clear evidence that large-scale, AI-assisted analysis is a powerful new addition to security engineers' toolbox."
 
-Found this article interesting? Follow us on 
+Found this article interesting? Follow us on
 Google News
-, 
+,
 Twitter
- and 
+ and
 LinkedIn
  to read more exclusive content we post.
 
@@ -80,27 +80,27 @@ Share
 
 Share
 
-SHARE 
+SHARE
 
 
 Application Security
-, 
+,
 artificial intelligence
-, 
+,
 browser security
-, 
+,
 cybersecurity
-, 
+,
 Firefox
-, 
+,
 Mozilla
-, 
+,
 secure coding
-, 
+,
 software security
-, 
+,
 Threat Intelligence
-, 
+,
 Vulnerability
 
 Trending News

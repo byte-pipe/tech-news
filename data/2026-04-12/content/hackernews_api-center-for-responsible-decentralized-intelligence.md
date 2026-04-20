@@ -20,7 +20,7 @@ UC Berkeley
 
 April 2026
 
-(Est. 15-20 minutes read, tool available at 
+(Est. 15-20 minutes read, tool available at
 github.com/moogician/trustworthy-env
 )
 
@@ -102,7 +102,7 @@ The vulnerability:The agent’s patch is applied inside the same Docker containe
 SWE-bench Verified exploit:Our agent creates aconftest.pywith a pytest hook that forces every test to report as passing:
 
 import
- 
+
 pytest
 
 @
@@ -116,60 +116,60 @@ True
 )
 
 def
- 
+
 pytest_runtest_makereport
 (
 item
 ,
- 
+
 call
 ):
 
- 
+
 outcome
- 
+
 =
- 
+
 yield
 
- 
+
 rep
- 
+
 =
- 
+
 outcome
 .
 get_result
 ()
 
- 
+
 if
- 
+
 rep
 .
 when
- 
+
 ==
- 
+
 "call"
 :
 
- 
+
 rep
 .
 outcome
- 
+
 =
- 
+
 "passed"
 
- 
+
 rep
 .
 longrepr
- 
+
 =
- 
+
 None
 
 Pytest auto-discoversconftest.pyfiles and loads them before running tests. The hook intercepts every test result during the “call” phase and rewrites it to “passed.” The log parser seesPASSEDfor every test. The grader sees all fail-to-pass tests now passing. Instance resolved.
@@ -199,21 +199,21 @@ FieldWorkArena presents 890 tasks where an AI agent must answer questions about 
 Itsvalidate()method checks only one thing: did the last message come from the assistant?
 
 def
- 
+
 validate
 (
 self
 ,
- 
+
 page
 ,
- 
+
 chat_messages
 ):
 
- 
+
 if
- 
+
 chat_messages
 [
 -
@@ -221,26 +221,26 @@ chat_messages
 ][
 "role"
 ]
- 
+
 ==
- 
+
 "assistant"
 :
 
- 
+
 return
- 
+
 1.0
 ,
- 
+
 True
 ,
- 
+
 "Recieved answer"
 ,
- 
+
 {}
- 
+
 # ANY answer = 1.0
 
 The message content is completely ignored. The function that would actually compare answers against ground truth —llm_fuzzy_match— is imported but never called. It’s dead code.
@@ -264,13 +264,13 @@ OSWorld tests agents on 369 desktop computing tasks inside a full Ubuntu VM. The
 
 The gold references are hosted on public HuggingFace URLs embedded in the task config. Since the VM has internet access, our exploit agent downloads the gold file directly into the path the evaluator checks:
 
-wget 
+wget
 -q
- 
+
 -O
- 
+
 '/home/user/output.xlsx'
- 
+
 'https://huggingface.co/.../gold.xlsx'
 
 The evaluator compares gold vs. gold. Perfect match. Score 1.0.
@@ -395,7 +395,7 @@ And if you’re building a benchmark: assume someone will try to break it. Becau
 
 The automated scanning agent we used to uncover these vulnerabilities is being developed intoBenchJack, a general-purpose agent benchmark vulnerability scanner. BenchJack is itself an AI agent — you point it at any evaluation pipeline and it goes to work.
 
-BenchJack operates in two phases. First, itprobes and understandsthe benchmark: it analyzes the evaluation code, maps out the scoring mechanism, identifies isolation boundaries, and catalogs every potential loophole. Then, itautomatically crafts end-to-end exploitsthat manifest each discovered loophole into a working attack. 
+BenchJack operates in two phases. First, itprobes and understandsthe benchmark: it analyzes the evaluation code, maps out the scoring mechanism, identifies isolation boundaries, and catalogs every potential loophole. Then, itautomatically crafts end-to-end exploitsthat manifest each discovered loophole into a working attack.
 The result is not a theoretical vulnerability report — it’s a concrete, runnable exploit agent that demonstrates exactly how a zero-capability agent can inflate its score through each weakness. If BenchJack’s exploit agent scores above baseline, your benchmark has a problem, and BenchJack shows you exactly where and how.
 Think of it as a penetration test for your benchmark — it finds the holes before a leaderboard-gaming agent does.
 

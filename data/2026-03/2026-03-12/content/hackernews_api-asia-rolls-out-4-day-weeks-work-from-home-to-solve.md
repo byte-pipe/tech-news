@@ -20,13 +20,13 @@ Asia
 # Asia rolls out four-day weeks and work-from-home as emergency measures to solve a fuel crisis caused by Iran war
 
 By
- 
+
 Angelica Ang
 Angelica Ang
 Writer
 Down Arrow Button Icon
 By
- 
+
 Angelica Ang
 Angelica Ang
 Writer
@@ -62,12 +62,12 @@ On March 11, the International Energy Agency’s32 member countries unanimously 
 
 Flows from the Middle East are still constrained, with the Strait of Hormuz effectively closed to maritime traffic. “While oil reached $150/bbl [per barrel] in inflation-adjusted terms during the 2022 Russia/Ukraine crisis, this situation could prove more severe…supply volumes at risk this time are dimensionally bigger—and real,” wrote Wood Mackenzie analyst Simon Flowers in a research note. “In our view, $200/bbl is not outside the realms of possibility in 2026.”
 
-Join us at the Fortune Workplace Innovation Summit 
-May 19–20, 2026, in Atlanta. The next era of workplace innovation is here—and the old playbook is being rewritten. At this exclusive, high-energy event, the world’s most innovative leaders will convene to explore how AI, humanity, and strategy converge to redefine, again, the future of work. 
+Join us at the Fortune Workplace Innovation Summit
+May 19–20, 2026, in Atlanta. The next era of workplace innovation is here—and the old playbook is being rewritten. At this exclusive, high-energy event, the world’s most innovative leaders will convene to explore how AI, humanity, and strategy converge to redefine, again, the future of work.
 Register now
 .
 About the Author
-By 
+By
 Angelica Ang
 Writer
 

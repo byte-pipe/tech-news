@@ -15,17 +15,17 @@ tags:
 ---
 
 Emacs and Vim in the Age of AI
- 
- 
- 
- 
+
+
+
+
 Contents
- 
- 
- 
+
+
+
 Emacs and Vim in the Age of AI
- 
- 
+
+
 
 It’s tough to make predictions, especially about the future.
 
@@ -216,15 +216,15 @@ P.S.There’s an interestingHacker News discussionabout this article. Check it o
 4. Even Claude Code has vim mode.↩︎I’m a big fan of mechanical watches myself, so I might be biased here. There’s something deeply satisfying about a beautifully crafted mechanism that doesn’t need a battery or an internet connection to work.↩︎Seehttps://codeberg.org/NerdNextDoor/evi/issues/1.↩︎
 5. I’m a big fan of mechanical watches myself, so I might be biased here. There’s something deeply satisfying about a beautifully crafted mechanism that doesn’t need a battery or an internet connection to work.↩︎Seehttps://codeberg.org/NerdNextDoor/evi/issues/1.↩︎
 6. Seehttps://codeberg.org/NerdNextDoor/evi/issues/1.↩︎
- 
- 
+
+
 Emacs
- 
+
 Vim
- 
+
 AI
- This post is licensed under 
- CC BY 4.0 
+ This post is licensed under
+ CC BY 4.0
  by the author.
- 
+
 Share

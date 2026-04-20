@@ -5,10 +5,10 @@ generated_at: '2026-04-20T18:00:34.182139'
 ---
 
 ## Executive Summary
-- Dubai authorities demonstrated advanced digital surveillance by arresting an airline employee for sharing bomb‑damage photos from a private WhatsApp group.  
-- The creative‑software market is fragmenting as affordable alternatives like Canva, Affinity and Apple’s Creator Studio challenge Adobe’s dominance.  
-- Enterprise AI adoption is gaining traction, with new data disputing the oft‑cited “95 % failure” myth, while managed‑service firms such as Rackspace partner with Palantir to bridge the gap between pilots and production.  
-- Privacy advocates pushed a 10‑day deadline for Section 702 reform, and major retailers and platforms (Express, Reddit) disclosed data‑security lapses, underscoring ongoing cybersecurity pressures.  
+- Dubai authorities demonstrated advanced digital surveillance by arresting an airline employee for sharing bomb‑damage photos from a private WhatsApp group.
+- The creative‑software market is fragmenting as affordable alternatives like Canva, Affinity and Apple’s Creator Studio challenge Adobe’s dominance.
+- Enterprise AI adoption is gaining traction, with new data disputing the oft‑cited “95 % failure” myth, while managed‑service firms such as Rackspace partner with Palantir to bridge the gap between pilots and production.
+- Privacy advocates pushed a 10‑day deadline for Section 702 reform, and major retailers and platforms (Express, Reddit) disclosed data‑security lapses, underscoring ongoing cybersecurity pressures.
 - In aerospace, Blue Origin’s New Glenn suffered a mission‑failure, mis‑placing a customer satellite, highlighting the risks of commercial launch programs.
 
 ---

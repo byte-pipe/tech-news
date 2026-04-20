@@ -42,7 +42,7 @@ Stella said Caitlin-Rose was "blindsided" when she walked out between two buses 
 "One year on from my daughter's death, we've got nothing set in stone around law changes. How many children are going to get killed or hurt going to and from school before changes are made?" Ms McGinn said.
 
 PA Media
-Liz Kimmins previously announced her intention to bring forward legislation 
+Liz Kimmins previously announced her intention to bring forward legislation
 
 The collision involving Caitlin-Rose happened in Castledawson, County Londonderry.
 

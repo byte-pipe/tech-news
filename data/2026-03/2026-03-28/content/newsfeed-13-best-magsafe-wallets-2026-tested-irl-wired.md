@@ -27,11 +27,11 @@ Best MagSafe Wallet Overall
 UAG Metropolis Kevlar MagSafe Wallet
 Read more
 $60
- 
+
 $48
- 
+
 (20% off)
- 
+
 
 Amazon
 
@@ -39,11 +39,11 @@ Easiest MagSafe Wallet to Use
 Smartish Side Hustle Wallet
 Read more
 $30
- 
+
 $24
- 
+
 (20% off)
- 
+
 
 Amazon
 
@@ -51,7 +51,7 @@ Best Designs
 Casetify MagSafe Wallet
 Read more
 $38
- 
+
 
 Casetify
 
@@ -59,11 +59,11 @@ Best Metal MagSafe Wallet
 Ridge Wallet for MagSafe
 Read more
 $150
- 
+
 $99
- 
+
 (34% off)
- 
+
 
 Ridge
 
@@ -210,22 +210,22 @@ Power up with unlimited access toWIRED. Get best-in-class reporting and exclusiv
 Back to top
 Triangle
 Jacob Roach
- is a product writer and reviewer at WIRED, focused on software as a service (SaaS) products, including VPNs, password managers, cloud storage, and antivirus applications. Previously he worked as lead reporter at Digital Trends, and his work has been cited in Fox News, Business Insider, and Futurism, among ... 
+ is a product writer and reviewer at WIRED, focused on software as a service (SaaS) products, including VPNs, password managers, cloud storage, and antivirus applications. Previously he worked as lead reporter at Digital Trends, and his work has been cited in Fox News, Business Insider, and Futurism, among ...
 Read More
 Product Writer & Reviewer
 
 Louryn Strampe
- is a product writer and reviewer at WIRED covering 
+ is a product writer and reviewer at WIRED covering
 deals
-, 
+,
 beauty
-, 
+,
 home goods
-, and 
+, and
 gifts
-. She’s written about Black Friday, Cyber Monday, Prime Day, and other shopping holidays since 2013, offering 
+. She’s written about Black Friday, Cyber Monday, Prime Day, and other shopping holidays since 2013, offering
 tips and tricks
- and sleuthing out fact-checked discounts for fun and for a living. She previously covered ... 
+ and sleuthing out fact-checked discounts for fun and for a living. She previously covered ...
 Read More
 Writer and Reviewer
 * X
@@ -260,7 +260,7 @@ From workout-ready earbuds to gaming over-ears, these WIRED-tested picks sound l
 Ryan Waniata
 The Best Theraguns and Therabody Devices for Rest and Relaxation
 From massage guns to compression boots and LED face masks, these are the top performers in Therabody’s wellness lineup.
-Boutayna Chokrane 
+Boutayna Chokrane
 We Tried a Dozen of the Most Popular Indoor Gardening Systems
 Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.
 Kat Merck
@@ -269,7 +269,7 @@ Rock your inner jock with a pair of sturdy, sweatproof, and tangle-proof headpho
 Adrienne So
 The Best Kindles to Take Your Library Anywhere
 Here’s how Amazon’s ebook readers stack up—and which one might be right for you.
- Nena Farrell 
+ Nena Farrell
 The Best Base Layers for Every Adventure
 Whether you’re layering up for winter cold or looking for an ultralight summer system, I’ve tested and found the best base layers for all your outdoor adventures.
 Scott Gilbertson

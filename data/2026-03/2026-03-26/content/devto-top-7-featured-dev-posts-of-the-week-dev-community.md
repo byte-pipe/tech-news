@@ -16,16 +16,16 @@ Welcome to this week's Top 7, where the DEV editorial team handpicks their favor
 Congrats to all the authors that made it onto the list 👏
 
  Justin Headley
- 
+
 
  Justin Headley
- 
- 
+
+
 
 Justin Headley
 
  Follow
- 
+
 
 Mar 17
 
@@ -52,21 +52,21 @@ Comments
  comments
 
  7 min read
- 
+
 
 @jkheadleygave a Claude Code agent persistent memory and identity. Then, four months later, they found it was collaborating with a developer they had never met. The post traces how that experiment unfolded and what it led to.
 
  Wynand Pieters
- 
+
 
  Wynand Pieters
- 
- 
+
+
 
 Wynand Pieters
 
  Follow
- 
+
 
 Mar 19
 
@@ -90,21 +90,21 @@ Comments
  comments
 
  10 min read
- 
+
 
 @wynandpietersdraws a detailed parallel between the current AI coding tools explosion and the Unity/Unreal game dev democratization era. They urge developers to stop celebrating velocity in isolation and start asking harder questions about what they've actually built.
 
  Kat Cosgrove
- 
+
 
  Kat Cosgrove
- 
- 
+
+
 
 Kat Cosgrove
 
  Follow
- 
+
 
 Mar 18
 
@@ -131,21 +131,21 @@ Comments
  comments
 
  4 min read
- 
+
 
 @katcosgroveexamines the case of Ingress NGINX, a utility that roughly 50% of cloud-native environments depend on, and what its trajectory reveals about how businesses think about the open source projects underneath their products. The stakes may turn out to be higher than most companies realize.
 
  marcosomma
- 
+
 
  marcosomma
- 
- 
+
+
 
 marcosomma
 
  Follow
- 
+
 
 Mar 18
 
@@ -172,21 +172,21 @@ Comments
  comments
 
  5 min read
- 
+
 
 @marcosommamakes an argument about where AI currently stands by starting with the cognitive leap that agriculture forced on early humans. The historical context reframes this familiar debate in a way that's hard to dismiss.
 
- ViksaaSkool 
- 
+ ViksaaSkool
 
- ViksaaSkool 
- 
- 
 
- ViksaaSkool 
+ ViksaaSkool
+
+
+
+ ViksaaSkool
 
  Follow
- 
+
 
 Mar 15
 
@@ -206,21 +206,21 @@ Comments
 Add Comment
 
  3 min read
- 
+
 
 @viksaaskoolfound their father's Fortran IV exam from 1978 tucked inside an old textbook and decided to see how three of today's leading AI models would handle it. The results were mixed in ways that remind us our modern tools are still far from perfect.
 
  BekahHW
- 
+
 
  BekahHW
- 
- 
+
+
 
 BekahHW
 
  Follow
- 
+
 
 Mar 19
 
@@ -241,21 +241,21 @@ Comments
  comments
 
  6 min read
- 
+
 
 @bekahhwnoticed that smart, curious non-technical people keep hitting the same wall with AI: they don't have the vocabulary to name what they don't understand, and without the right words, they can't ask the right questions. This post begins building the vocabulary toolkit to change that.
 
  Jono Herrington
- 
+
 
  Jono Herrington
- 
- 
+
+
 
 Jono Herrington
 
  Follow
- 
+
 
 Mar 18
 
@@ -282,14 +282,14 @@ Comments
  comments
 
  6 min read
- 
+
 
 @jonoherringtonreflects on the particular difficulty of recognizing when a well-paying, well-respected engineering role quietly stops feeding the curiosity that made the work meaningful in the first place. The post offers three questions to help engineers distinguish between choosing to stay and feeling unable to leave.
 
 And that's a wrap for this week's Top 7 roundup! 🎬 We hope you enjoyed this eclectic mix of insights, stories, and tips from our talented authors. Keep coding, keep learning, and stay tuned to DEV for more captivating content andmake sure you’re opted in to our Weekly Newsletter📩 for all the best articles, discussions, and updates.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

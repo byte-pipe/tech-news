@@ -15,46 +15,46 @@ tags:
 
 # Changelog
 
- 
+
 
 New updates and improvements at Cloudflare.
 
- 
- 
- Subscribe to RSS 
- 
- 
- View RSS feeds 
- 
- 
- 
- 
- 
- 
- 
- 
-← 
- 
+
+
+ Subscribe to RSS
+
+
+ View RSS feeds
+
+
+
+
+
+
+
+
+←
+
 Back to all posts
- 
- 
- 
- 
+
+
+
+
 
 ## Crawl entire websites with a single API call using Browser Rendering
 
- 
- 
+
+
 Mar 10, 2026
- 
- 
- 
+
+
+
 Browser Rendering
- 
- 
- 
- 
- 
+
+
+
+
+
 
 You can now crawl an entire website with a single API call usingBrowser Rendering's new/crawlendpoint, available in open beta. Submit a starting URL, and pages are automatically discovered, rendered in a headless browser, and returned in multiple formats, including HTML, Markdown, and structured JSON. This is great for training models, building RAG pipelines, and researching or monitoring content across a site.
 
@@ -63,48 +63,48 @@ Crawl jobs run asynchronously. You submit a URL, receive a job ID, and check bac
 Terminal window
 # Initiate a crawl
 curl
- 
+
 -X
- 
+
 POST
- 
+
 'https://api.cloudflare.com/client/v4/accounts/{account_id}/browser-rendering/crawl'
- 
+
 \
- 
+
 -H
- 
+
 'Authorization: Bearer <apiToken>'
- 
+
 \
- 
+
 -H
- 
+
 'Content-Type: application/json'
- 
+
 \
- 
+
 -d
- 
+
 '{
- 
+
 "url": "https://blog.cloudflare.com/"
- 
+
 }'
 
 # Check results
 curl
- 
+
 -X
- 
+
 GET
- 
+
 'https://api.cloudflare.com/client/v4/accounts/{account_id}/browser-rendering/crawl/{job_id}'
- 
+
 \
- 
+
 -H
- 
+
 'Authorization: Bearer <apiToken>'
 
 Key features:

@@ -24,9 +24,9 @@ On the web, we used to use:
  HTML
 <
 input
- 
+
 type
-="file" 
+="file"
 accept
 ="image/jpeg">
 
@@ -38,7 +38,7 @@ Instead, we wereencourage to use thefilepicker:
  HTML
 <
 input
- 
+
 type
 ="file">
 
@@ -98,41 +98,41 @@ Comment:
 See allowed HTML elements:
 
 <a href="" title="">
-								
+
 <abbr title="">
-								
+
 <acronym title="">
-								
+
 <b>
-								
+
 <blockquote cite="">
-								
+
 <br>
-								
+
 <cite>
-								
+
 <code>
-								
+
 <del datetime="">
-								
+
 <em>
-								
+
 <i>
-								
+
 <img src="" alt="" title="" srcset="">
-								
+
 <p>
-								
+
 <pre>
-								
+
 <q cite="">
-								
+
 <s>
-								
+
 <strike>
-								
-<strong> 
-							
+
+<strong>
+
 
 Your Name (required):
 
@@ -140,7 +140,7 @@ Your Email (required):
 
 Your Website (optional):
 
- 
+
 
 To respond on your own website, write a post which contains a link to this post - then enter the URl of your page here.Learn more about WebMentions.
 

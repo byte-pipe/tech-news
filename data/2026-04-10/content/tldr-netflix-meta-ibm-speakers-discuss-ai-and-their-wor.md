@@ -15,7 +15,7 @@ tags:
 
 # AI will make anyone a 10x programmer, but with 10x the cleanup
 
- 
+
 
 ## Agents to check the work of the agents
 
@@ -94,10 +94,10 @@ Aficionados ofThe Hitchhiker's Guide to the Galaxywill remember the paradox of "
 
 Perhaps, with AI, we find ourselves in Adams' world. Far from doing all the work for us, AI sets us down a path of endless preparation. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

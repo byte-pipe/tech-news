@@ -11,7 +11,7 @@ description: The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evoluti
 
 EvoMap
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork310
 * Star2.9k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -202,7 +202,7 @@ Repeats the above in a daemon loop with adaptive sleep
 
 Inside OpenClaw
 
-Host runtime interprets stdout directives like 
+Host runtime interprets stdout directives like
 sessions_spawn(...)
 
 ## Who This Is For / Not For
@@ -259,15 +259,15 @@ node index.js --loop
 
 ### With Strategy Preset
 
-EVOLVE_STRATEGY=innovate node index.js --loop 
+EVOLVE_STRATEGY=innovate node index.js --loop
 #
  maximize new features
 
-EVOLVE_STRATEGY=harden node index.js --loop 
+EVOLVE_STRATEGY=harden node index.js --loop
 #
  focus on stability
 
-EVOLVE_STRATEGY=repair-only node index.js --loop 
+EVOLVE_STRATEGY=repair-only node index.js --loop
 #
  emergency fix mode
 
@@ -324,19 +324,19 @@ Emergency state, all-out repair
 
 ### Operations (Lifecycle Management)
 
-node src/ops/lifecycle.js start 
+node src/ops/lifecycle.js start
 #
  start evolver loop in background
 
-node src/ops/lifecycle.js stop 
+node src/ops/lifecycle.js stop
 #
  graceful stop (SIGTERM -> SIGKILL)
 
-node src/ops/lifecycle.js status 
+node src/ops/lifecycle.js status
 #
  show running state
 
-node src/ops/lifecycle.js check 
+node src/ops/lifecycle.js check
 #
  health check + auto-restart if stagnant
 
@@ -345,7 +345,7 @@ node src/ops/lifecycle.js check
 #
  Download a skill from the EvoMap network
 
-node index.js fetch --skill 
+node index.js fetch --skill
 <
 skill_id
 >
@@ -353,7 +353,7 @@ skill_id
 #
  Specify output directory
 
-node index.js fetch --skill 
+node index.js fetch --skill
 <
 skill_id
 >
@@ -367,7 +367,7 @@ If you run a periodic keepalive/tick from a cron/agent runner, prefer a single s
 
 Recommended:
 
-bash -lc 
+bash -lc
 '
 node index.js --loop
 '
@@ -376,7 +376,7 @@ Avoid composing multiple shell segments inside the cron payload (for example...;
 
 For process managers like pm2, the same principle applies -- wrap the command simply:
 
-pm2 start 
+pm2 start
 "
 bash -lc 'node index.js --loop'
 "
@@ -415,7 +415,7 @@ node index.js fetch
 
 Worker Pool
 
-Accept and execute evolution tasks from the network (see 
+Accept and execute evolution tasks from the network (see
 Worker Pool
 )
 
@@ -452,7 +452,7 @@ WORKER_ENABLED
 
 (unset)
 
-Set to 
+Set to
 1
  to enable worker pool mode
 
@@ -460,7 +460,7 @@ WORKER_DOMAINS
 
 (empty)
 
-Comma-separated list of task domains this worker accepts (e.g. 
+Comma-separated list of task domains this worker accepts (e.g.
 repair,harden
 )
 
@@ -527,11 +527,11 @@ EVOLVE_STRATEGY
 
 Evolution strategy preset (
 balanced
- / 
+ /
 innovate
- / 
+ /
 harden
- / 
+ /
 repair-only
 )
 
@@ -648,7 +648,7 @@ No (pure logic)
 
 src/gep/solidify.js
 
-Validates patches via Gene 
+Validates patches via Gene
 validation
  commands
 
@@ -657,7 +657,7 @@ Yes (see below)
 index.js
  (loop recovery)
 
-Prints 
+Prints
 sessions_spawn(...)
  text to stdout on crash
 
@@ -776,56 +776,56 @@ evomap.ai
 
  Readme
 
- 
+
 
 ### License
 
  GPL-3.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 2.9k
 
  stars
- 
+
 
 ### Watchers
 
 22
 
  watching
- 
+
 
 ### Forks
 
 310
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases2
 
@@ -833,11 +833,11 @@ v1.67.0
 
  Latest
 
- 
+
 
 Apr 16, 2026
 
- 
+
 
 + 1 release
 
@@ -853,9 +853,9 @@ Apr 16, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -863,9 +863,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

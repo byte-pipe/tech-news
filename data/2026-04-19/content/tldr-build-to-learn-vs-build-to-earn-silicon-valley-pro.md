@@ -74,7 +74,7 @@ But for those that embrace the builder/creator nature of the product manager rol
 1. For those that didn’t realize this model of work existed before generative AI, check out the first and/or second editions of INSPIRED from 2007 and 2017.↩︎
 2. There are many different phrases out there meant to capture this critical concept of the product model.  For example,Y Combinatoris famous for advocating “building things that don’t scale vs building things that do scale.”↩︎
 3. It’s important to realize that what we’re describing here isnota process; it is aconceptual model.  There are many different discovery and delivery processes.  It’s also important not to think of discovery and delivery as phases, as in practice these are both continuous, and of course we learn from delivery as well (especially once the product has been deployed at scale).  But the principle is to fail (learn) in discovery, rather than exposing our bad ideas to all of our paying customers.↩︎
- 
+
 
 ## featured content
 

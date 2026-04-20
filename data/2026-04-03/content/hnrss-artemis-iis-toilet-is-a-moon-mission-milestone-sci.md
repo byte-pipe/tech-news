@@ -17,7 +17,7 @@ April 1, 2026
 
 4min read
 
- 
+
 Add Us On Google
 Add SciAm
 
@@ -29,7 +29,7 @@ ByK. R. Callawayedited byLee Billings
 
 The lunar-bound astronauts of NASA’sArtemis IImission will go boldly where none have gone before, thanks to the space agency’s first-ever flight of a functional toilet around the moon.
 
- 
+
 
 NASA/Bill Ingalls
 

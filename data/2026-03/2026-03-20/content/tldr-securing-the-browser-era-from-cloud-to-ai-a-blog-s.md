@@ -13,7 +13,7 @@ tags:
 
 ## Blog Post
 
-Microsoft Security Community Blog 
+Microsoft Security Community Blog
 12 MIN READ
 
 # Securing the Browser Era - From Cloud to AI: A blog series on protecting the modern workspace
@@ -109,7 +109,7 @@ The evolution from cloud to SaaS to AI has brought the humble browser to the cen
 
 The path forward is clear - treat browser security as a first-class citizen in your Zero Trust strategy. By combining strong policies, defense-in-depth controls, and forward-looking investments in enterprise and AI browser security, organizations can turn the browser from a liability into a trusted productivity engine.
 
-Updated 
+Updated
 Mar 14, 2026
 Version 1.0
 securing ai
@@ -117,9 +117,9 @@ Comment
 Comment
 lmurthy
 Microsoft
-Joined 
+Joined
 May 06, 2021
 Send Message
 View Profile
-Microsoft Security Community Blog 
+Microsoft Security Community Blog
 Follow this blog board to get notified when there's new activity

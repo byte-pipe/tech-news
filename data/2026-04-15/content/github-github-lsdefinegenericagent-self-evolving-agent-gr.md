@@ -11,7 +11,7 @@ description: 'Self-evolving agent: grows skill tree from 3.3K-line seed, achievi
 
 lsdefine
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork215
 * Star1.5k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -246,13 +246,13 @@ Full guide:GETTING_STARTED.md
 # mykey.py
 
 tg_bot_token
- 
+
 =
- 
+
 'YOUR_BOT_TOKEN'
 
 tg_allowed_users
- 
+
 =
  [
 YOUR_USER_ID
@@ -264,11 +264,11 @@ python frontends/tgapp.py
 
 Besides the default Streamlit web UI, you can also try other frontend styles:
 
-python frontends/qtapp.py 
+python frontends/qtapp.py
 #
  Qt-based desktop app
 
-streamlit run frontends/stapp2.py 
+streamlit run frontends/stapp2.py
 #
  Alternative Streamlit UI
 
@@ -543,23 +543,23 @@ pip install qq-botpy
 在mykey.py中补充：
 
 qq_app_id
- 
+
 =
- 
+
 "YOUR_APP_ID"
 
 qq_app_secret
- 
+
 =
- 
+
 "YOUR_APP_SECRET"
 
 qq_allowed_users
- 
+
 =
  [
 "YOUR_USER_OPENID"
-] 
+]
 # 或 ['*'] 公开访问
 
 python frontends/qqapp.py
@@ -572,23 +572,23 @@ pip install lark-oapi
 python frontends/fsapp.py
 
 fs_app_id
- 
+
 =
- 
+
 "cli_xxx"
 
 fs_app_secret
- 
+
 =
- 
+
 "xxx"
 
 fs_allowed_users
- 
+
 =
  [
 "ou_xxx"
-] 
+]
 # 或 ['*']
 
 入站支持：文本、富文本 post、图片、文件、音频、media、交互卡片 / 分享卡片出站支持：流式进度卡片、图片回传、文件 / media 回传视觉模型：图片首轮以真正的多模态输入发送给兼容 OpenAI Vision 的后端
@@ -601,28 +601,28 @@ pip install wecom_aibot_sdk
 python frontends/wecomapp.py
 
 wecom_bot_id
- 
+
 =
- 
+
 "your_bot_id"
 
 wecom_secret
- 
+
 =
- 
+
 "your_bot_secret"
 
 wecom_allowed_users
- 
+
 =
  [
 "your_user_id"
 ]
 
 wecom_welcome_message
- 
+
 =
- 
+
 "你好，我在线上。"
 
 ### 钉钉（DingTalk）
@@ -631,34 +631,34 @@ pip install dingtalk-stream
 python frontends/dingtalkapp.py
 
 dingtalk_client_id
- 
+
 =
- 
+
 "your_app_key"
 
 dingtalk_client_secret
- 
+
 =
- 
+
 "your_app_secret"
 
 dingtalk_allowed_users
- 
+
 =
  [
 "your_staff_id"
-] 
+]
 # 或 ['*']
 
 ### 其他 App 前端
 
 除默认的 Streamlit Web UI 外，还可以尝试不同风格的前端：
 
-python frontends/qtapp.py 
+python frontends/qtapp.py
 #
  基于 Qt 的桌面应用
 
-streamlit run frontends/stapp2.py 
+streamlit run frontends/stapp2.py
 #
  另一种 Streamlit 风格 UI
 
@@ -849,48 +849,48 @@ github.com/lsdefine/GenericAgent
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 1.5k
 
  stars
- 
+
 
 ### Watchers
 
 6
 
  watching
- 
+
 
 ### Forks
 
 215
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -910,9 +910,9 @@ tags
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -920,9 +920,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

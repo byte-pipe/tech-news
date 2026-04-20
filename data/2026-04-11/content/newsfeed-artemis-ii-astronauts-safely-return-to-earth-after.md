@@ -82,13 +82,13 @@ Triangle
 * Porn stars areembracing AI clones
 * WIRED@Night:Hear Andy Greenberg discussthe facts and fiction of crypto
 Jay Bennett
- is a science journalist based in Copenhagen. He was previously an editor at 
+ is a science journalist based in Copenhagen. He was previously an editor at
 National Geographic
-, 
+,
 Smithsonian
-, and 
+, and
 Popular Mechanics
-. ... 
+. ...
 Read More
 Contributor
 

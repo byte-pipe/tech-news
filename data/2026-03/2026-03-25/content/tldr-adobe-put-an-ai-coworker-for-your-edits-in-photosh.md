@@ -28,7 +28,7 @@ Adobe is bringing these AI agents into Photoshop, Express, and Acrobat so you ca
 That shift changes how everyday tasks feel. Adjusting an image, refining a layout, or updating a document can now happen through natural language, with the system applying changes and letting you refine them as needed.
 
 Adobe Firefly
- 
+
 Adobe
 
 You’re still in control, but you spend less time managing the mechanics of the software and more time shaping the result.
@@ -38,7 +38,7 @@ You’re still in control, but you spend less time managing the mechanics of the
 Adobe is also previewing Project Moonlight, a new interface in private beta that pushes this idea further. It works across apps and helps you move from concept to a finished asset without breaking your flow.
 
 Project Moonlight
- 
+
 Adobe
 
 Moonlight can recognize your style and draw from your own assets and libraries, so you’re not starting from zero each time. You guide the direction, and the system builds alongside you as the work evolves.

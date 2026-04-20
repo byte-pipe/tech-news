@@ -15,7 +15,7 @@ tags:
 
 # Security boffins scoured the web and found hundreds of valid API keys
 
- 
+
 
 ## Global bank's devs have some cleaning up to do after cloud creds found in website code
 
@@ -54,10 +54,10 @@ Demir said that he and his co-authors only verified credentials for 14 different
 
 "We strongly believe that the actual number of exposed credentials across the web is much higher than what we captured in this study," he said. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share

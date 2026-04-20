@@ -13,7 +13,7 @@ tags:
 - hnrss
 ---
 
-(SACRAMENTO) 
+(SACRAMENTO)
 
 AUC Davis Healthresearch team has safely performed the world’s first spina bifida treatment combining fetal surgery with stem cells, according to results from Phase 1 of an ongoing clinical trial. These results have been published today inThe Lancet.
 

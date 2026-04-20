@@ -12,19 +12,19 @@ tags:
 ---
 
 A humorist faces life with Stage 4 lung cancer: 'The future disappeared for me'
- 
-In 2020, Annabelle Gurwitch went to urgent care for a COVID-19 test and learned she had cancer. She writes about life as a "cancer slacker" in her memoir, 
+
+In 2020, Annabelle Gurwitch went to urgent care for a COVID-19 test and learned she had cancer. She writes about life as a "cancer slacker" in her memoir,
 The End of My Life is Killing Me.
 
- 
+
  NPR
- 
- 
+
+
 
 ### Author Interviews
 
 LISTEN & FOLLOW
- 
+
 
 * NPR App
 * Apple Podcasts
@@ -41,20 +41,20 @@ LISTEN & FOLLOW
 April 8, 2026
 12:11 PM ET
 
- 
 
- Heard on 
+
+ Heard on
 Fresh Air
 
 Terry Gross
 
 #### FA: Annabelle Gurwitch
 
- 
- Listen
- 
 
-· 
+ Listen
+
+
+·
 
 36:56
 

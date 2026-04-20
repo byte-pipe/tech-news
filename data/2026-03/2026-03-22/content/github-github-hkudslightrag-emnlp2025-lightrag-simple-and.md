@@ -11,7 +11,7 @@ description: '[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generat
 
 HKUDS
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork4.3k
 * Star29.9k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -230,7 +230,7 @@ View all files
 * [2024.10]🎯[New Channel] We have created aDiscord channel!💬 Welcome to join our community for sharing, discussions, and collaboration! 🎉🎉
 
  Algorithm Flowchart
- 
+
 
 Figure 1: LightRAG Indexing Flowchart - Img Caption :SourceFigure 2: LightRAG Retrieval and Querying Flowchart - Img Caption :Source
 
@@ -252,7 +252,7 @@ The LightRAG Server is designed to provide Web UI and API support. The Web UI fa
 #
 ## Install LightRAG Server as tool using uv (recommended)
 
-uv tool install 
+uv tool install
 "
 lightrag-hku[api]
 "
@@ -289,7 +289,7 @@ cd
 #
  or by copying it from a local source checkout.
 
-cp env.example .env 
+cp env.example .env
 #
  Update the .env with your LLM and embedding configurations
 
@@ -314,7 +314,7 @@ cd
 uv sync --extra api
 
 source
- .venv/bin/activate 
+ .venv/bin/activate
 #
  Activate the virtual environment (Linux/macOS)
 
@@ -347,7 +347,7 @@ cd
 #
  setup env file
 
-cp env.example .env 
+cp env.example .env
 #
  Update the .env with your LLM and embedding configurations
 
@@ -362,7 +362,7 @@ git clone https://github.com/HKUDS/LightRAG.git
 
 cd
  LightRAG
-cp env.example .env 
+cp env.example .env
 #
  Update the .env with your LLM and embedding configurations
 
@@ -377,27 +377,27 @@ Historical versions of LightRAG docker images can be found here:LightRAG Docker 
 
 Instead of editingenv.exampleby hand, use the interactive setup wizard to generate a configured.envand, when needed,docker-compose.final.yml:
 
-make env-base 
+make env-base
 #
  Required first step: LLM, embedding, reranker
 
-make env-storage 
+make env-storage
 #
  Optional: storage backends and database services
 
-make env-server 
+make env-server
 #
  Optional: server port, auth, and SSL
 
-make env-base-rewrite 
+make env-base-rewrite
 #
  Optional: force-regenerate wizard-managed compose services
 
-make env-storage-rewrite 
+make env-storage-rewrite
 #
  Optional: force-regenerate wizard-managed compose services
 
-make env-security-check 
+make env-security-check
 #
  Optional: audit the current .env for security risks
 
@@ -419,7 +419,7 @@ cd
 uv sync
 
 source
- .venv/bin/activate 
+ .venv/bin/activate
 #
  Activate the virtual environment (Linux/macOS)
 
@@ -482,7 +482,7 @@ sk-...your_opeai_key...
 #
 ## download the demo document of "A Christmas Carol" by Charles Dickens
 
-curl https://raw.githubusercontent.com/gusye1234/nano-graphrag/main/tests/mock_data.txt 
+curl https://raw.githubusercontent.com/gusye1234/nano-graphrag/main/tests/mock_data.txt
 >
  ./book.txt
 
@@ -510,68 +510,68 @@ LightRAG requires explicit initialization before use.You must callawait rag.init
 Use the below Python snippet to initialize LightRAG, insert text to it, and perform queries:
 
 import
- 
+
 os
 
 import
- 
+
 asyncio
 
 from
- 
+
 lightrag
- 
+
 import
- 
+
 LightRAG
-, 
+,
 QueryParam
 
 from
- 
+
 lightrag
 .
 llm
 .
 openai
- 
+
 import
- 
+
 gpt_4o_mini_complete
-, 
+,
 gpt_4o_complete
-, 
+,
 openai_embed
 
 from
- 
+
 lightrag
 .
 utils
- 
+
 import
- 
+
 setup_logger
 
 setup_logger
 (
 "lightrag"
-, 
+,
 level
 =
 "INFO"
 )
 
 WORKING_DIR
- 
+
 =
- 
+
 "./rag_storage"
 
 if
- 
+
 not
- 
+
 os
 .
 path
@@ -580,7 +580,7 @@ exists
 (
 WORKING_DIR
 ):
- 
+
 os
 .
 mkdir
@@ -589,75 +589,75 @@ WORKING_DIR
 )
 
 async
- 
+
 def
- 
+
 initialize_rag
 ():
- 
+
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 embedding_func
 =
 openai_embed
 ,
- 
+
 llm_model_func
 =
 gpt_4o_mini_complete
 ,
  )
- 
+
 # IMPORTANT: Both initialization calls are required!
 
- 
+
 await
- 
+
 rag
 .
 initialize_storages
-() 
+()
 # Initialize storage backends
 
- 
+
 return
- 
+
 rag
 
 async
- 
+
 def
- 
+
 main
 ():
- 
+
 try
 :
- 
+
 # Initialize RAG instance
 
- 
+
 rag
- 
+
 =
- 
+
 await
- 
+
 initialize_rag
 ()
- 
+
 await
- 
+
 rag
 .
 ainsert
@@ -665,30 +665,30 @@ ainsert
 "Your text"
 )
 
- 
+
 # Perform hybrid search
 
- 
+
 mode
- 
+
 =
- 
+
 "hybrid"
 
- 
+
 print
 (
- 
+
 await
- 
+
 rag
 .
 aquery
 (
- 
+
 "What are the top themes in this story?"
 ,
- 
+
 param
 =
 QueryParam
@@ -700,49 +700,49 @@ mode
  )
  )
 
- 
+
 except
- 
+
 Exception
- 
+
 as
- 
+
 e
 :
- 
+
 print
 (
-f"An error occurred: 
+f"An error occurred:
 {
 e
 }
 "
 )
- 
+
 finally
 :
- 
+
 if
- 
+
 rag
 :
- 
+
 await
- 
+
 rag
 .
 finalize_storages
 ()
 
 if
- 
+
 __name__
- 
+
 ==
- 
+
 "__main__"
 :
- 
+
 asyncio
 .
 run
@@ -760,7 +760,7 @@ Important notes for the above snippet:
 
 A full list of LightRAG init parameters:
 
- Parameters 
+ Parameters
 
 Parameter
 
@@ -788,7 +788,7 @@ kv_storage
 
 str
 
-Storage type for documents and text chunks. Supported types: 
+Storage type for documents and text chunks. Supported types:
 JsonKVStorage
 ,
 PGKVStorage
@@ -805,7 +805,7 @@ vector_storage
 
 str
 
-Storage type for embedding vectors. Supported types: 
+Storage type for embedding vectors. Supported types:
 NanoVectorDBStorage
 ,
 PGVectorStorage
@@ -828,7 +828,7 @@ graph_storage
 
 str
 
-Storage type for graph edges and nodes. Supported types: 
+Storage type for graph edges and nodes. Supported types:
 NetworkXStorage
 ,
 Neo4JStorage
@@ -845,7 +845,7 @@ doc_status_storage
 
 str
 
-Storage type for documents process status. Supported types: 
+Storage type for documents process status. Supported types:
 JsonDocStatusStorage
 ,
 PGDocStatusStorage
@@ -876,7 +876,7 @@ tokenizer
 
 Tokenizer
 
-The function used to convert text into tokens (numbers) and back using .encode() and .decode() functions following 
+The function used to convert text into tokens (numbers) and back using .encode() and .decode() functions following
 TokenizerInterface
  protocol. If you don't specify one, it will use the default Tiktoken tokenizer.
 
@@ -999,7 +999,7 @@ enable_llm_cache
 
 bool
 
-If 
+If
 TRUE
 , stores LLM results in cache; repeated prompts return cached responses
 
@@ -1009,7 +1009,7 @@ enable_llm_cache_for_entity_extract
 
 bool
 
-If 
+If
 TRUE
 , stores LLM results in cache for entity extraction; Good for beginners to debug your application
 
@@ -1019,7 +1019,7 @@ addon_params
 
 dict
 
-Additional parameters, e.g., 
+Additional parameters, e.g.,
 {"language": "Simplified Chinese", "entity_types": ["organization", "person", "location", "event"]}
 : sets example limit, entity/relation extraction output language
 
@@ -1029,15 +1029,15 @@ embedding_cache_config
 
 dict
 
-Configuration for question-answer caching. Contains three parameters: 
+Configuration for question-answer caching. Contains three parameters:
 enabled
-: Boolean value to enable/disable cache lookup functionality. When enabled, the system will check cached responses before generating new answers. 
+: Boolean value to enable/disable cache lookup functionality. When enabled, the system will check cached responses before generating new answers.
 similarity_threshold
-: Float value (0-1), similarity threshold. When a new question's similarity with a cached question exceeds this threshold, the cached answer will be returned directly without calling the LLM. 
+: Float value (0-1), similarity threshold. When a new question's similarity with a cached question exceeds this threshold, the cached answer will be returned directly without calling the LLM.
 use_llm_check
 : Boolean value to enable/disable LLM similarity verification. When enabled, LLM will be used as a secondary check to verify the similarity between questions before returning cached answers.
 
-Default: 
+Default:
 {"enabled": False, "similarity_threshold": 0.95, "use_llm_check": False}
 
 ### Query Param
@@ -1045,34 +1045,34 @@ Default:
 Use QueryParam to control the behavior your query:
 
 class
- 
+
 QueryParam
 :
- 
+
 """Configuration parameters for query execution in LightRAG."""
 
- 
+
 mode
-: 
+:
 Literal
 [
 "local"
-, 
+,
 "global"
-, 
+,
 "hybrid"
-, 
+,
 "naive"
-, 
+,
 "mix"
-, 
+,
 "bypass"
-] 
+]
 =
- 
+
 "global"
 
- 
+
 """Specifies the retrieval mode:
 
  - "local": Focuses on context-dependent information.
@@ -1087,61 +1087,61 @@ Literal
 
  """
 
- 
+
 only_need_context
-: 
+:
 bool
- 
+
 =
- 
+
 False
 
- 
+
 """If True, only returns the retrieved context without generating a response."""
 
- 
+
 only_need_prompt
-: 
+:
 bool
- 
+
 =
- 
+
 False
 
- 
+
 """If True, only returns the generated prompt without producing a response."""
 
- 
+
 response_type
-: 
+:
 str
- 
+
 =
- 
+
 "Multiple Paragraphs"
 
- 
+
 """Defines the response format. Examples: 'Multiple Paragraphs', 'Single Paragraph', 'Bullet Points'."""
 
- 
+
 stream
-: 
+:
 bool
- 
+
 =
- 
+
 False
 
- 
+
 """If True, enables streaming output for real-time responses."""
 
- 
+
 top_k
-: 
+:
 int
- 
+
 =
- 
+
 int
 (
 os
@@ -1149,19 +1149,19 @@ os
 getenv
 (
 "TOP_K"
-, 
+,
 "60"
 ))
- 
+
 """Number of top items to retrieve. Represents entities in 'local' mode and relationships in 'global' mode."""
 
- 
+
 chunk_top_k
-: 
+:
 int
- 
+
 =
- 
+
 int
 (
 os
@@ -1169,23 +1169,23 @@ os
 getenv
 (
 "CHUNK_TOP_K"
-, 
+,
 "20"
 ))
- 
+
 """Number of text chunks to retrieve initially from vector search and keep after reranking.
 
  If None, defaults to top_k value.
 
  """
 
- 
+
 max_entity_tokens
-: 
+:
 int
- 
+
 =
- 
+
 int
 (
 os
@@ -1193,19 +1193,19 @@ os
 getenv
 (
 "MAX_ENTITY_TOKENS"
-, 
+,
 "6000"
 ))
- 
+
 """Maximum number of tokens allocated for entity context in unified token control system."""
 
- 
+
 max_relation_tokens
-: 
+:
 int
- 
+
 =
- 
+
 int
 (
 os
@@ -1213,19 +1213,19 @@ os
 getenv
 (
 "MAX_RELATION_TOKENS"
-, 
+,
 "8000"
 ))
- 
+
 """Maximum number of tokens allocated for relationship context in unified token control system."""
 
- 
+
 max_total_tokens
-: 
+:
 int
- 
+
 =
- 
+
 int
 (
 os
@@ -1233,78 +1233,78 @@ os
 getenv
 (
 "MAX_TOTAL_TOKENS"
-, 
+,
 "30000"
 ))
- 
+
 """Maximum total tokens budget for the entire query context (entities + relations + chunks + system prompt)."""
 
- 
+
 # History messages are only sent to LLM for context, not used for retrieval
 
- 
+
 conversation_history
-: 
+:
 list
 [
 dict
 [
 str
-, 
+,
 str
-]] 
+]]
 =
- 
+
 field
 (
 default_factory
 =
 list
 )
- 
+
 """Stores past conversation history to maintain context.
 
  Format: [{"role": "user/assistant", "content": "message"}].
 
  """
 
- 
+
 # Deprecated (ids filter lead to potential hallucination effects)
 
- 
+
 ids
-: 
+:
 list
 [
 str
-] 
+]
 |
- 
-None
- 
-=
- 
+
 None
 
- 
+=
+
+None
+
+
 """List of ids to filter the results."""
 
- 
+
 model_func
-: 
+:
 Callable
-[..., 
+[...,
 object
-] 
+]
 |
- 
-None
- 
-=
- 
+
 None
 
- 
+=
+
+None
+
+
 """Optional override for the LLM model function to use for this specific query.
 
  If provided, this will be used instead of the global model function.
@@ -1313,20 +1313,20 @@ None
 
  """
 
- 
+
 user_prompt
-: 
+:
 str
- 
+
 |
- 
-None
- 
-=
- 
+
 None
 
- 
+=
+
+None
+
+
 """User-provided prompt for the query.
 
  Addition instructions for LLM. If provided, this will be inject into the prompt template.
@@ -1335,16 +1335,16 @@ None
 
  """
 
- 
+
 enable_rerank
-: 
+:
 bool
- 
+
 =
- 
+
 True
 
- 
+
 """Enable reranking for retrieved text chunks. If True but no rerank model is configured, a warning will be issued.
 
  Default is True to enable reranking when rerank model is available.
@@ -1357,100 +1357,100 @@ default value of Top_k can be change by environment variables TOP_K.
 
 LightRAG requires the utilization of LLM and Embedding models to accomplish document indexing and querying tasks. During the initialization phase, it is necessary to inject the invocation methods of the relevant models into LightRAG：
 
- 
+
 Using Open AI-like APIs
- 
+
 
 * LightRAG also supports Open AI-like chat/embeddings APIs:
 
 import
- 
+
 os
 
 import
- 
+
 numpy
- 
+
 as
- 
+
 np
 
 from
- 
+
 lightrag
 .
 utils
- 
+
 import
- 
+
 wrap_embedding_func_with_attrs
 
 from
- 
+
 lightrag
 .
 llm
 .
 openai
- 
+
 import
- 
+
 openai_complete_if_cache
-, 
+,
 openai_embed
 
 async
- 
+
 def
- 
+
 llm_model_func
 (
- 
+
 prompt
-, 
+,
 system_prompt
 =
 None
-, 
+,
 history_messages
 =
-[], 
+[],
 keyword_extraction
 =
 False
-, 
+,
 **
 kwargs
 
-) 
+)
 ->
- 
+
 str
 :
- 
+
 return
- 
+
 await
- 
+
 openai_complete_if_cache
 (
- 
+
 "solar-mini"
 ,
- 
+
 prompt
 ,
- 
+
 system_prompt
 =
 system_prompt
 ,
- 
+
 history_messages
 =
 history_messages
 ,
- 
+
 api_key
 =
 os
@@ -1459,12 +1459,12 @@ getenv
 (
 "UPSTAGE_API_KEY"
 ),
- 
+
 base_url
 =
 "https://api.upstage.ai/v1/solar"
 ,
- 
+
 **
 kwargs
 
@@ -1476,52 +1476,52 @@ wrap_embedding_func_with_attrs
 embedding_dim
 =
 4096
-, 
+,
 max_token_size
 =
 8192
-, 
+,
 model_name
 =
 "solar-embedding-1-large-query"
 )
 
 async
- 
+
 def
- 
+
 embedding_func
 (
 texts
-: 
+:
 list
 [
 str
-]) 
+])
 ->
- 
+
 np
 .
 ndarray
 :
- 
+
 return
- 
+
 await
- 
+
 openai_embed
 .
 func
 (
- 
+
 texts
 ,
- 
+
 model
 =
 "solar-embedding-1-large-query"
 ,
- 
+
 api_key
 =
 os
@@ -1530,7 +1530,7 @@ getenv
 (
 "UPSTAGE_API_KEY"
 ),
- 
+
 base_url
 =
 "https://api.upstage.ai/v1/solar"
@@ -1538,85 +1538,85 @@ base_url
  )
 
 async
- 
+
 def
- 
+
 initialize_rag
 ():
- 
+
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 llm_model_func
 =
 llm_model_func
 ,
- 
+
 embedding_func
 =
 embedding_func
- 
+
 # Pass the decorated function directly
 
  )
 
- 
+
 await
- 
+
 rag
 .
 initialize_storages
 ()
- 
+
 return
- 
+
 rag
 
 Important Note on Embedding Function Wrapping:
 
 EmbeddingFunccannot be nested. Functions that have been decorated with@wrap_embedding_func_with_attrs(such asopenai_embed,ollama_embed, etc.) cannot be wrapped again usingEmbeddingFunc(). This is why we callxxx_embed.func(the underlying unwrapped function) instead ofxxx_embeddirectly when creating custom embedding functions.
 
- 
+
 Using Hugging Face Models
- 
+
 
 * If you want to use Hugging Face models, you only need to set LightRAG as follows:
 
 Seelightrag_hf_demo.py
 
 from
- 
+
 functools
- 
+
 import
- 
+
 partial
 
 from
- 
+
 transformers
- 
+
 import
- 
+
 AutoTokenizer
-, 
+,
 AutoModel
 
 # Pre-load tokenizer and model
 
 tokenizer
- 
+
 =
- 
+
 AutoTokenizer
 .
 from_pretrained
@@ -1625,9 +1625,9 @@ from_pretrained
 )
 
 embed_model
- 
+
 =
- 
+
 AutoModel
 .
 from_pretrained
@@ -1638,71 +1638,71 @@ from_pretrained
 # Initialize LightRAG with Hugging Face model
 
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 llm_model_func
 =
 hf_model_complete
-, 
+,
 # Use Hugging Face model for text generation
 
- 
+
 llm_model_name
 =
 'meta-llama/Llama-3.1-8B-Instruct'
-, 
+,
 # Model name from Hugging Face
 
- 
+
 # Use Hugging Face embedding function
 
- 
+
 embedding_func
 =
 EmbeddingFunc
 (
- 
+
 embedding_dim
 =
 384
 ,
- 
+
 max_token_size
 =
 2048
 ,
- 
+
 model_name
 =
 "sentence-transformers/all-MiniLM-L6-v2"
 ,
- 
+
 func
 =
 partial
 (
- 
+
 hf_embed
 .
 func
-, 
+,
 # Use .func to access the unwrapped function
 
- 
+
 tokenizer
 =
 tokenizer
 ,
- 
+
 embed_model
 =
 embed_model
@@ -1711,9 +1711,9 @@ embed_model
  ),
 )
 
- 
+
 Using Ollama Models
- 
+
 
 Overview
 
@@ -1722,35 +1722,35 @@ If you want to use Ollama models, you need to pull model you plan to use and emb
 Then you only need to set LightRAG as follows:
 
 import
- 
+
 numpy
- 
+
 as
- 
+
 np
 
 from
- 
+
 lightrag
 .
 utils
- 
+
 import
- 
+
 wrap_embedding_func_with_attrs
 
 from
- 
+
 lightrag
 .
 llm
 .
 ollama
- 
+
 import
- 
+
 ollama_model_complete
-, 
+,
 ollama_embed
 
 @
@@ -1759,45 +1759,45 @@ wrap_embedding_func_with_attrs
 embedding_dim
 =
 768
-, 
+,
 max_token_size
 =
 8192
-, 
+,
 model_name
 =
 "nomic-embed-text"
 )
 
 async
- 
+
 def
- 
+
 embedding_func
 (
 texts
-: 
+:
 list
 [
 str
-]) 
+])
 ->
- 
+
 np
 .
 ndarray
 :
- 
+
 return
- 
+
 await
- 
+
 ollama_embed
 .
 func
 (
 texts
-, 
+,
 embed_model
 =
 "nomic-embed-text"
@@ -1806,35 +1806,35 @@ embed_model
 # Initialize LightRAG with Ollama model
 
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 llm_model_func
 =
 ollama_model_complete
-, 
+,
 # Use Ollama model for text generation
 
- 
+
 llm_model_name
 =
 'your_model_name'
-, 
+,
 # Your model name
 
- 
+
 embedding_func
 =
 embedding_func
-, 
+,
 # Pass the decorated function directly
 
 )
@@ -1851,7 +1851,7 @@ ollama pull qwen2
 
 1. Display the model file:
 
-ollama show --modelfile qwen2 
+ollama show --modelfile qwen2
 >
  Modelfile
 
@@ -1868,35 +1868,35 @@ ollama create -f Modelfile qwen2m
 Tiy can usellm_model_kwargsparam to configure ollama:
 
 import
- 
+
 numpy
- 
+
 as
- 
+
 np
 
 from
- 
+
 lightrag
 .
 utils
- 
+
 import
- 
+
 wrap_embedding_func_with_attrs
 
 from
- 
+
 lightrag
 .
 llm
 .
 ollama
- 
+
 import
- 
+
 ollama_model_complete
-, 
+,
 ollama_embed
 
 @
@@ -1905,90 +1905,90 @@ wrap_embedding_func_with_attrs
 embedding_dim
 =
 768
-, 
+,
 max_token_size
 =
 8192
-, 
+,
 model_name
 =
 "nomic-embed-text"
 )
 
 async
- 
+
 def
- 
+
 embedding_func
 (
 texts
-: 
+:
 list
 [
 str
-]) 
+])
 ->
- 
+
 np
 .
 ndarray
 :
- 
+
 return
- 
+
 await
- 
+
 ollama_embed
 .
 func
 (
 texts
-, 
+,
 embed_model
 =
 "nomic-embed-text"
 )
 
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 llm_model_func
 =
 ollama_model_complete
-, 
+,
 # Use Ollama model for text generation
 
- 
+
 llm_model_name
 =
 'your_model_name'
-, 
+,
 # Your model name
 
- 
+
 llm_model_kwargs
 =
 {
 "options"
 : {
 "num_ctx"
-: 
+:
 32768
 }},
- 
+
 embedding_func
 =
 embedding_func
-, 
+,
 # Pass the decorated function directly
 
 )
@@ -2001,9 +2001,9 @@ EmbeddingFunccannot be nested. Functions that have been decorated with@wrap_embe
 
 In order to run this experiment on low RAM GPU you should select small model and tune context window (increasing context increase memory consumption). For example, running this ollama example on repurposed mining GPU with 6Gb of RAM required to set context size to 26k while usinggemma2:2b. It was able to find 197 entities and 19 relations onbook.txt.
 
- 
+
 LlamaIndex
- 
+
 
 LightRAG supports integration with LlamaIndex (llm/llama_index_impl.py):
 
@@ -2015,63 +2015,63 @@ Example Usage
 # Using LlamaIndex with direct OpenAI access
 
 import
- 
+
 asyncio
 
 from
- 
+
 lightrag
- 
+
 import
- 
+
 LightRAG
 
 from
- 
+
 lightrag
 .
 llm
 .
 llama_index_impl
- 
+
 import
- 
+
 llama_index_complete_if_cache
-, 
+,
 llama_index_embed
 
 from
- 
+
 llama_index
 .
 embeddings
 .
 openai
- 
+
 import
- 
+
 OpenAIEmbedding
 
 from
- 
+
 llama_index
 .
 llms
 .
 openai
- 
+
 import
- 
+
 OpenAI
 
 from
- 
+
 lightrag
 .
 utils
- 
+
 import
- 
+
 setup_logger
 
 # Setup log handler for LightRAG
@@ -2079,60 +2079,60 @@ setup_logger
 setup_logger
 (
 "lightrag"
-, 
+,
 level
 =
 "INFO"
 )
 
 async
- 
+
 def
- 
+
 initialize_rag
 ():
- 
+
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 "your/path"
 ,
- 
+
 llm_model_func
 =
 llama_index_complete_if_cache
-, 
+,
 # LlamaIndex-compatible completion function
 
- 
+
 embedding_func
 =
 EmbeddingFunc
-( 
+(
 # LlamaIndex-compatible embedding function
 
- 
+
 embedding_dim
 =
 1536
 ,
- 
+
 max_token_size
 =
 2048
 ,
- 
+
 model_name
 =
 embed_model
 ,
- 
+
 func
 =
 partial
@@ -2140,40 +2140,40 @@ partial
 llama_index_embed
 .
 func
-, 
+,
 embed_model
 =
 embed_model
-) 
+)
 # Use .func to access the unwrapped function
 
  ),
  )
 
- 
+
 await
- 
+
 rag
 .
 initialize_storages
 ()
- 
+
 return
- 
+
 rag
 
 def
- 
+
 main
 ():
- 
+
 # Initialize RAG instance
 
- 
+
 rag
- 
+
 =
- 
+
 asyncio
 .
 run
@@ -2181,24 +2181,24 @@ run
 initialize_rag
 ())
 
- 
+
 with
- 
+
 open
 (
 "./book.txt"
-, 
+,
 "r"
-, 
+,
 encoding
 =
 "utf-8"
-) 
+)
 as
- 
+
 f
 :
- 
+
 rag
 .
 insert
@@ -2208,19 +2208,19 @@ f
 read
 ())
 
- 
+
 # Perform naive search
 
- 
+
 print
 (
- 
+
 rag
 .
 query
 (
 "What are the top themes in this story?"
-, 
+,
 param
 =
 QueryParam
@@ -2231,19 +2231,19 @@ mode
 ))
  )
 
- 
+
 # Perform local search
 
- 
+
 print
 (
- 
+
 rag
 .
 query
 (
 "What are the top themes in this story?"
-, 
+,
 param
 =
 QueryParam
@@ -2254,19 +2254,19 @@ mode
 ))
  )
 
- 
+
 # Perform global search
 
- 
+
 print
 (
- 
+
 rag
 .
 query
 (
 "What are the top themes in this story?"
-, 
+,
 param
 =
 QueryParam
@@ -2277,19 +2277,19 @@ mode
 ))
  )
 
- 
+
 # Perform hybrid search
 
- 
+
 print
 (
- 
+
 rag
 .
 query
 (
 "What are the top themes in this story?"
-, 
+,
 param
 =
 QueryParam
@@ -2301,14 +2301,14 @@ mode
  )
 
 if
- 
+
 __name__
- 
+
 ==
- 
+
 "__main__"
 :
- 
+
 main
 ()
 
@@ -2319,99 +2319,99 @@ For detailed documentation and examples, see:
 * LiteLLM Proxy Example
 * LiteLLM Proxy with Opik Example
 
- 
+
 Using Azure OpenAI Models
- 
+
 
 If you want to use Azure OpenAI models, you only need to set up LightRAG as follows:
 
 import
- 
+
 os
 
 import
- 
+
 numpy
- 
+
 as
- 
+
 np
 
 from
- 
+
 lightrag
 .
 utils
- 
+
 import
- 
+
 wrap_embedding_func_with_attrs
 
 from
- 
+
 lightrag
 .
 llm
 .
 azure_openai
- 
+
 import
- 
+
 azure_openai_complete_if_cache
-, 
+,
 azure_openai_embed
 
 # Configure the generation model
 
 async
- 
+
 def
- 
+
 llm_model_func
 (
- 
+
 prompt
-, 
+,
 system_prompt
 =
 None
-, 
+,
 history_messages
 =
-[], 
+[],
 keyword_extraction
 =
 False
-, 
+,
 **
 kwargs
 
-) 
+)
 ->
- 
+
 str
 :
- 
+
 return
- 
+
 await
- 
+
 azure_openai_complete_if_cache
 (
- 
+
 prompt
 ,
- 
+
 system_prompt
 =
 system_prompt
 ,
- 
+
 history_messages
 =
 history_messages
 ,
- 
+
 api_key
 =
 os
@@ -2420,7 +2420,7 @@ getenv
 (
 "AZURE_OPENAI_API_KEY"
 ),
- 
+
 azure_endpoint
 =
 os
@@ -2429,7 +2429,7 @@ getenv
 (
 "AZURE_OPENAI_ENDPOINT"
 ),
- 
+
 api_version
 =
 os
@@ -2438,7 +2438,7 @@ getenv
 (
 "AZURE_OPENAI_API_VERSION"
 ),
- 
+
 deployment_name
 =
 os
@@ -2447,7 +2447,7 @@ getenv
 (
 "AZURE_OPENAI_DEPLOYMENT_NAME"
 ),
- 
+
 **
 kwargs
 
@@ -2459,19 +2459,19 @@ kwargs
 wrap_embedding_func_with_attrs
 (
 
- 
+
 embedding_dim
 =
 1536
 ,
 
- 
+
 max_token_size
 =
 8192
 ,
 
- 
+
 model_name
 =
 os
@@ -2484,36 +2484,36 @@ getenv
 )
 
 async
- 
+
 def
- 
+
 embedding_func
 (
 texts
-: 
+:
 list
 [
 str
-]) 
+])
 ->
- 
+
 np
 .
 ndarray
 :
- 
+
 return
- 
+
 await
- 
+
 azure_openai_embed
 .
 func
 (
- 
+
 texts
 ,
- 
+
 api_key
 =
 os
@@ -2522,7 +2522,7 @@ getenv
 (
 "AZURE_OPENAI_API_KEY"
 ),
- 
+
 azure_endpoint
 =
 os
@@ -2531,7 +2531,7 @@ getenv
 (
 "AZURE_OPENAI_ENDPOINT"
 ),
- 
+
 api_version
 =
 os
@@ -2540,7 +2540,7 @@ getenv
 (
 "AZURE_OPENAI_API_VERSION"
 ),
- 
+
 deployment_name
 =
 os
@@ -2552,121 +2552,121 @@ getenv
  )
 
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 llm_model_func
 =
 llm_model_func
 ,
- 
+
 embedding_func
 =
 embedding_func
 
 )
 
- 
+
 Using Google Gemini Models
- 
+
 
 If you want to use Google Gemini models, you only need to set up LightRAG as follows:
 
 import
- 
+
 os
 
 import
- 
+
 numpy
- 
+
 as
- 
+
 np
 
 from
- 
+
 lightrag
 .
 utils
- 
+
 import
- 
+
 wrap_embedding_func_with_attrs
 
 from
- 
+
 lightrag
 .
 llm
 .
 gemini
- 
+
 import
- 
+
 gemini_model_complete
-, 
+,
 gemini_embed
 
 # Configure the generation model
 
 async
- 
+
 def
- 
+
 llm_model_func
 (
- 
+
 prompt
-, 
+,
 system_prompt
 =
 None
-, 
+,
 history_messages
 =
-[], 
+[],
 keyword_extraction
 =
 False
-, 
+,
 **
 kwargs
 
-) 
+)
 ->
- 
+
 str
 :
- 
+
 return
- 
+
 await
- 
+
 gemini_model_complete
 (
- 
+
 prompt
 ,
- 
+
 system_prompt
 =
 system_prompt
 ,
- 
+
 history_messages
 =
 history_messages
 ,
- 
+
 api_key
 =
 os
@@ -2675,12 +2675,12 @@ getenv
 (
 "GEMINI_API_KEY"
 ),
- 
+
 model_name
 =
 "gemini-2.0-flash"
 ,
- 
+
 **
 kwargs
 
@@ -2692,19 +2692,19 @@ kwargs
 wrap_embedding_func_with_attrs
 (
 
- 
+
 embedding_dim
 =
 768
 ,
 
- 
+
 max_token_size
 =
 2048
 ,
 
- 
+
 model_name
 =
 "models/text-embedding-004"
@@ -2712,36 +2712,36 @@ model_name
 )
 
 async
- 
+
 def
- 
+
 embedding_func
 (
 texts
-: 
+:
 list
 [
 str
-]) 
+])
 ->
- 
+
 np
 .
 ndarray
 :
- 
+
 return
- 
+
 await
- 
+
 gemini_embed
 .
 func
 (
- 
+
 texts
 ,
- 
+
 api_key
 =
 os
@@ -2750,7 +2750,7 @@ getenv
 (
 "GEMINI_API_KEY"
 ),
- 
+
 model
 =
 "models/text-embedding-004"
@@ -2758,27 +2758,27 @@ model
  )
 
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 llm_model_func
 =
 llm_model_func
 ,
- 
+
 llm_model_name
 =
 "gemini-2.0-flash"
 ,
- 
+
 embedding_func
 =
 embedding_func
@@ -2802,25 +2802,25 @@ When using LightRAG for content queries, avoid combining the search process with
 # Create query parameters
 
 query_param
- 
+
 =
- 
+
 QueryParam
 (
- 
+
 mode
- 
+
 =
- 
+
 "hybrid"
-, 
+,
 # Other modes：local, global, hybrid, mix, naive
 
- 
+
 user_prompt
- 
+
 =
- 
+
 "For diagrams, use mermaid format with English/Pinyin node names and Chinese display labels"
 ,
 )
@@ -2828,17 +2828,17 @@ user_prompt
 # Query and process
 
 response_default
- 
+
 =
- 
+
 rag
 .
 query
 (
- 
+
 "Please draw a character relationship diagram for Scrooge"
 ,
- 
+
 param
 =
 query_param
@@ -2852,8 +2852,8 @@ response_default
 
 ### Insert
 
- 
- Basic Insert 
+
+ Basic Insert
 
 # Basic Insert
 
@@ -2864,8 +2864,8 @@ insert
 "Text"
 )
 
- 
- Batch Insert 
+
+ Batch Insert
 
 # Basic Batch Insert: Insert multiple texts at once
 
@@ -2874,29 +2874,29 @@ rag
 insert
 ([
 "TEXT1"
-, 
+,
 "TEXT2"
 ,...])
 
 # Batch Insert with custom batch size configuration
 
 rag
- 
+
 =
- 
+
 LightRAG
 (
  ...
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 max_parallel_insert
- 
+
 =
- 
+
 4
 
 )
@@ -2906,17 +2906,17 @@ rag
 insert
 ([
 "TEXT1"
-, 
+,
 "TEXT2"
-, 
+,
 "TEXT3"
-, ...]) 
+, ...])
 # Documents will be processed in batches of 4
 
 Themax_parallel_insertparameter determines the number of documents processed concurrently in the document indexing pipeline. If unspecified, the default value is2. We recommend keeping this settingbelow 10, as the performance bottleneck typically lies with the LLM (Large Language Model) processing.
 
- 
- Insert with ID 
+
+ Insert with ID
 
 If you want to provide your own IDs for your documents, number of documents and number of IDs must be the same.
 
@@ -2927,7 +2927,7 @@ rag
 insert
 (
 "TEXT1"
-, 
+,
 ids
 =
 [
@@ -2941,14 +2941,14 @@ rag
 insert
 ([
 "TEXT1"
-, 
+,
 "TEXT2"
-,...], 
+,...],
 ids
 =
 [
 "ID_FOR_TEXT1"
-, 
+,
 "ID_FOR_TEXT2"
 ])
 
@@ -2957,14 +2957,14 @@ Insert using Pipeline
 Theapipeline_enqueue_documentsandapipeline_process_enqueue_documentsfunctions allow you to perform incremental insertion of documents into the graph.This is useful for scenarios where you want to process documents in the background while still allowing the main thread to continue executing.
 
 rag
- 
+
 =
- 
+
 LightRAG
 (..)
 
 await
- 
+
 rag
 .
 apipeline_enqueue_documents
@@ -2975,7 +2975,7 @@ input
 # Your routine in loop
 
 await
- 
+
 rag
 .
 apipeline_process_enqueue_documents
@@ -2988,19 +2988,19 @@ Insert Multi-file Type Support
 Thetextractsupports reading file types such as TXT, DOCX, PPTX, CSV, and PDF.
 
 import
- 
+
 textract
 
 file_path
- 
+
 =
- 
+
 'TEXT.pdf'
 
 text_content
- 
+
 =
- 
+
 textract
 .
 process
@@ -3026,20 +3026,20 @@ By providing file paths, the system ensures that sources can be traced back to t
 # Define documents and their file paths
 
 documents
- 
+
 =
  [
 "Document content 1"
-, 
+,
 "Document content 2"
 ]
 
 file_paths
- 
+
 =
  [
 "path/to/doc1.txt"
-, 
+,
 "path/to/doc2.txt"
 ]
 
@@ -3050,7 +3050,7 @@ rag
 insert
 (
 documents
-, 
+,
 file_paths
 =
 file_paths
@@ -3104,38 +3104,38 @@ OpenSearchDocStatusStorage OpenSearch
 
 Example connection configurations for each storage type can be found in the repository'senv.examplefile. The database instance in the connection string needs to be created by you on the database server beforehand. LightRAG is only responsible for creating tables within the database instance, not for creating the database instance itself. If using Redis as storage, remember to configure automatic data persistence rules for Redis, otherwise data will be lost after the Redis service restarts. If using PostgreSQL, it is recommended to use version 16.6 or above.
 
- 
+
 Using Neo4J Storage
- 
+
 
 * For production level scenarios you will most likely want to leverage an enterprise solution
 * for KG storage. Running Neo4J in Docker is recommended for seamless local testing.
 * See:https://hub.docker.com/_/neo4j
 
 export
- 
+
 NEO4J_URI
 =
 "neo4j://localhost:7687"
 
 export
- 
+
 NEO4J_USERNAME
 =
 "neo4j"
 
 export
- 
+
 NEO4J_PASSWORD
 =
 "password"
 
 export
- 
+
 NEO4J_DATABASE
 =
 "neo4j"
- 
+
 #<----------- If you are using community edition neo4j docker image.
 
 # Setup logger for LightRAG
@@ -3143,7 +3143,7 @@ NEO4J_DATABASE
 setup_logger
 (
 "lightrag"
-, 
+,
 level
 =
 "INFO"
@@ -3154,62 +3154,62 @@ level
 # Initialize LightRAG with Neo4J implementation.
 
 async
- 
+
 def
- 
+
 initialize_rag
 ():
- 
+
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 llm_model_func
 =
 gpt_4o_mini_complete
-, 
+,
 # Use gpt_4o_mini_complete LLM model
 
- 
+
 graph_storage
 =
 "Neo4JStorage"
-, 
+,
 #<-----------override KG default
 
  )
 
- 
+
 # Initialize database connections
 
- 
+
 await
- 
+
 rag
 .
 initialize_storages
 ()
- 
+
 # Initialize pipeline status for document processing
 
- 
+
 return
- 
+
 rag
 
 see test_neo4j.py for a working example.
 
- 
+
 Using PostgreSQL Storage
- 
+
 
 For production level scenarios you will most likely want to leverage an enterprise solution. PostgreSQL can provide a one-stop solution for you as KV store, VectorDB (pgvector) and GraphDB (apache AGE). PostgreSQL version 16.6 or higher is supported.
 
@@ -3218,9 +3218,9 @@ For production level scenarios you will most likely want to leverage an enterpri
 * How to start? Ref to:examples/lightrag_gemini_postgres_demo.py
 * For high-performance graph database requirements, Neo4j is recommended as Apache AGE's performance is not as competitive.
 
- 
+
 Using Faiss Storage
- 
+
 
 Before using Faiss vector database, you must manually install `faiss-cpu` or `faiss-gpu`.
 
@@ -3233,125 +3233,125 @@ You can also installfaiss-gpuif you have GPU support.
 * Here we are usingsentence-transformersbut you can also useOpenAIEmbeddingmodel with3072dimensions.
 
 async
- 
+
 def
- 
+
 embedding_func
 (
 texts
-: 
+:
 list
 [
 str
-]) 
+])
 ->
- 
+
 np
 .
 ndarray
 :
- 
+
 model
- 
+
 =
- 
+
 SentenceTransformer
 (
 'all-MiniLM-L6-v2'
 )
- 
+
 embeddings
- 
+
 =
- 
+
 model
 .
 encode
 (
 texts
-, 
+,
 convert_to_numpy
 =
 True
 )
- 
+
 return
- 
+
 embeddings
 
 # Initialize LightRAG with the LLM model function and embedding function
 
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 llm_model_func
 =
 llm_model_func
 ,
- 
+
 embedding_func
 =
 EmbeddingFunc
 (
- 
+
 embedding_dim
 =
 384
 ,
- 
+
 max_token_size
 =
 2048
 ,
- 
+
 model_name
 =
 "all-MiniLM-L6-v2"
 ,
- 
+
 func
 =
 embedding_func
 ,
  ),
- 
+
 vector_storage
 =
 "FaissVectorDBStorage"
 ,
- 
+
 vector_db_storage_cls_kwargs
 =
 {
- 
+
 "cosine_better_than_threshold"
-: 
+:
 0.3
- 
+
 # Your desired threshold
 
  }
 )
 
- 
+
 Using Memgraph for Storage
- 
+
 
 * Memgraph is a high-performance, in-memory graph database compatible with the Neo4j Bolt protocol.
 * You can run Memgraph locally using Docker for easy testing:
 * See:https://memgraph.com/download
 
 export
- 
+
 MEMGRAPH_URI
 =
 "bolt://localhost:7687"
@@ -3361,7 +3361,7 @@ MEMGRAPH_URI
 setup_logger
 (
 "lightrag"
-, 
+,
 level
 =
 "INFO"
@@ -3376,60 +3376,60 @@ level
 # Initialize LightRAG with Memgraph implementation.
 
 async
- 
+
 def
- 
+
 initialize_rag
 ():
- 
+
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 llm_model_func
 =
 gpt_4o_mini_complete
-, 
+,
 # Use gpt_4o_mini_complete LLM model
 
- 
+
 graph_storage
 =
 "MemgraphStorage"
-, 
+,
 #<-----------override KG default
 
  )
 
- 
+
 # Initialize database connections
 
- 
+
 await
- 
+
 rag
 .
 initialize_storages
 ()
- 
+
 # Initialize pipeline status for document processing
 
- 
+
 return
- 
+
 rag
 
- 
+
 Using Milvus for Vector Storage
- 
+
 
 Milvus is a high-performance, scalable vector database for production-level vector storage. LightRAG provides three ways to configure Milvus, plus support for configurable index types to optimize performance and memory usage.
 
@@ -3474,23 +3474,23 @@ LIGHTRAG_VECTOR_STORAGE=MilvusVectorDBStorage
 #
  Index configuration (all optional — sensible defaults apply)
 
-MILVUS_INDEX_TYPE=HNSW 
+MILVUS_INDEX_TYPE=HNSW
 #
  Default: AUTOINDEX
 
-MILVUS_METRIC_TYPE=COSINE 
+MILVUS_METRIC_TYPE=COSINE
 #
  Default: COSINE
 
-MILVUS_HNSW_M=16 
+MILVUS_HNSW_M=16
 #
  Default: 16, range [2-2048]
 
-MILVUS_HNSW_EF_CONSTRUCTION=360 
+MILVUS_HNSW_EF_CONSTRUCTION=360
 #
  Default: 360
 
-MILVUS_HNSW_EF=200 
+MILVUS_HNSW_EF=200
 #
  Default: 200
 
@@ -3524,55 +3524,55 @@ MILVUS_HNSW_EF=200
 Then in Python code:
 
 from
- 
+
 lightrag
- 
+
 import
- 
+
 LightRAG
 
 async
- 
+
 def
- 
+
 initialize_rag
 ():
- 
+
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 "./rag_storage"
 ,
- 
+
 llm_model_func
 =
 ...,
- 
+
 embedding_func
 =
 ...,
- 
+
 vector_storage
 =
 "MilvusVectorDBStorage"
 ,
  )
- 
+
 await
- 
+
 rag
 .
 initialize_storages
 ()
- 
+
 return
- 
+
 rag
 
 ### Config Approach 2 —vector_db_storage_cls_kwargs(Python SDK)
@@ -3580,100 +3580,100 @@ rag
 Best for:Python SDK / framework integrationwhere you want all config in code.
 
 from
- 
+
 lightrag
- 
+
 import
- 
+
 LightRAG
 
 async
- 
+
 def
- 
+
 initialize_rag
 ():
- 
+
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 "./rag_storage"
 ,
- 
+
 llm_model_func
 =
 ...,
- 
+
 embedding_func
 =
 ...,
- 
+
 vector_storage
 =
 "MilvusVectorDBStorage"
 ,
- 
+
 vector_db_storage_cls_kwargs
 =
 {
- 
+
 "milvus_uri"
-: 
+:
 "http://localhost:19530"
 ,
- 
+
 "milvus_db_name"
-: 
+:
 "lightrag"
 ,
- 
+
 "index_type"
-: 
+:
 "HNSW"
 ,
- 
+
 "metric_type"
-: 
+:
 "COSINE"
 ,
- 
+
 "hnsw_m"
-: 
+:
 16
 ,
- 
+
 "hnsw_ef_construction"
-: 
+:
 360
 ,
- 
+
 "hnsw_ef"
-: 
+:
 200
 ,
- 
+
 "cosine_better_than_threshold"
-: 
+:
 0.2
 ,
  },
  )
- 
+
 await
- 
+
 rag
 .
 initialize_storages
 ()
- 
+
 return
- 
+
 rag
 
 ### Config Approach 3 —config.ini(legacy)
@@ -3762,7 +3762,7 @@ Good
 Recommended
 
 BF16
- / 
+ /
 FP16
 
 ~2×
@@ -3784,15 +3784,15 @@ Backward Compatibility:
 
 For complete configuration options, seeenv.exampleanddocs/MilvusConfigurationGuide.md.
 
- 
+
 Using MongoDB Storage
- 
+
 
 MongoDB provides a one-stop storage solution for LightRAG. MongoDB offers native KV storage and vector storage. LightRAG uses MongoDB collections to implement a simple graph storage.MongoVectorDBStoragerequires a MongoDB deployment with Atlas Search / Vector Search support, such as MongoDB Atlas or Atlas local. The setup wizard's bundled local Docker MongoDB service is MongoDB Community Edition, so it can be used for KV/graph/doc-status storage but not forMongoVectorDBStorage.
 
- 
+
 Using Redis Storage
- 
+
 
 LightRAG supports using Redis as KV storage. When using Redis storage, attention should be paid to persistence configuration and memory usage configuration. The following is the recommended Redis configuration:
 
@@ -3806,9 +3806,9 @@ maxclients 500
 
 When the interactive setup manages a local Redis container, it stages a user-editable config at./data/config/redis.confand mounts it into the container. Setup preserves that file on reruns so local Redis tuning can be adjusted without losing manual edits.
 
- 
+
 Using OpenSearch Storage
- 
+
 
 OpenSearch provides a unified storage solution for all four LightRAG storage types (KV, Vector, Graph, DocStatus). It offers native k-NN vector search, full-text search, and horizontal scalability — all without cloud-only restrictions.
 
@@ -3816,12 +3816,12 @@ OpenSearch provides a unified storage solution for all four LightRAG storage typ
 
 Install with Docker (without plugins):
 
-docker run -d -p 9200:9200 -e 
+docker run -d -p 9200:9200 -e
 "
 discovery.type=single-node
 "
  \
- -e 
+ -e
 "
 OPENSEARCH_INITIAL_ADMIN_PASSWORD=<custom-admin-password>
 "
@@ -3864,42 +3864,42 @@ export
 * Usage:
 
 rag
- 
+
 =
- 
+
 LightRAG
 (
- 
+
 working_dir
 =
 WORKING_DIR
 ,
- 
+
 llm_model_func
 =
 your_llm_func
 ,
- 
+
 embedding_func
 =
 your_embed_func
 ,
- 
+
 kv_storage
 =
 "OpenSearchKVStorage"
 ,
- 
+
 doc_status_storage
 =
 "OpenSearchDocStatusStorage"
 ,
- 
+
 graph_storage
 =
 "OpenSearchGraphStorage"
 ,
- 
+
 vector_storage
 =
 "OpenSearchVectorDBStorage"
@@ -4017,29 +4017,29 @@ AGENTS.md is a simple, open format for guiding coding agents (https://agents.md/
 
 LightRAG now supports comprehensive knowledge graph management capabilities, allowing you to create, edit, and delete entities and relationships within your knowledge graph.
 
- 
- Create Entities and Relations 
+
+ Create Entities and Relations
 
 # Create new entity
 
 entity
- 
+
 =
- 
+
 rag
 .
 create_entity
 (
 "Google"
 , {
- 
+
 "description"
-: 
+:
 "Google is a multinational technology company specializing in internet-related services and products."
 ,
- 
+
 "entity_type"
-: 
+:
 "company"
 
 })
@@ -4047,23 +4047,23 @@ create_entity
 # Create another entity
 
 product
- 
+
 =
- 
+
 rag
 .
 create_entity
 (
 "Gmail"
 , {
- 
+
 "description"
-: 
+:
 "Gmail is an email service developed by Google."
 ,
- 
+
 "entity_type"
-: 
+:
 "product"
 
 })
@@ -4071,57 +4071,57 @@ create_entity
 # Create relation between entities
 
 relation
- 
+
 =
- 
+
 rag
 .
 create_relation
 (
 "Google"
-, 
+,
 "Gmail"
 , {
- 
+
 "description"
-: 
+:
 "Google develops and operates Gmail."
 ,
- 
+
 "keywords"
-: 
+:
 "develops operates service"
 ,
- 
+
 "weight"
-: 
+:
 2.0
 
 })
 
- 
- Edit Entities and Relations 
+
+ Edit Entities and Relations
 
 # Edit an existing entity
 
 updated_entity
- 
+
 =
- 
+
 rag
 .
 edit_entity
 (
 "Google"
 , {
- 
+
 "description"
-: 
+:
 "Google is a subsidiary of Alphabet Inc., founded in 1998."
 ,
- 
+
 "entity_type"
-: 
+:
 "tech_company"
 
 })
@@ -4129,23 +4129,23 @@ edit_entity
 # Rename an entity (with all its relationships properly migrated)
 
 renamed_entity
- 
+
 =
- 
+
 rag
 .
 edit_entity
 (
 "Gmail"
 , {
- 
+
 "entity_name"
-: 
+:
 "Google Mail"
 ,
- 
+
 "description"
-: 
+:
 "Google Mail (formerly Gmail) is an email service."
 
 })
@@ -4153,260 +4153,260 @@ edit_entity
 # Edit a relation between entities
 
 updated_relation
- 
+
 =
- 
+
 rag
 .
 edit_relation
 (
 "Google"
-, 
+,
 "Google Mail"
 , {
- 
+
 "description"
-: 
+:
 "Google created and maintains Google Mail service."
 ,
- 
+
 "keywords"
-: 
+:
 "creates maintains email service"
 ,
- 
+
 "weight"
-: 
+:
 3.0
 
 })
 
 All operations are available in both synchronous and asynchronous versions. The asynchronous versions have the prefix "a" (e.g.,acreate_entity,aedit_relation).
 
- 
- Insert Custom KG 
+
+ Insert Custom KG
 
 custom_kg
- 
+
 =
  {
- 
+
 "chunks"
 : [
  {
- 
+
 "content"
-: 
+:
 "Alice and Bob are collaborating on quantum computing research."
 ,
- 
+
 "source_id"
-: 
+:
 "doc-1"
 ,
- 
+
 "file_path"
-: 
+:
 "test_file"
 ,
  }
  ],
- 
+
 "entities"
 : [
  {
- 
+
 "entity_name"
-: 
+:
 "Alice"
 ,
- 
+
 "entity_type"
-: 
+:
 "person"
 ,
- 
+
 "description"
-: 
+:
 "Alice is a researcher specializing in quantum physics."
 ,
- 
+
 "source_id"
-: 
+:
 "doc-1"
 ,
- 
+
 "file_path"
-: 
+:
 "test_file"
 
  },
  {
- 
+
 "entity_name"
-: 
+:
 "Bob"
 ,
- 
+
 "entity_type"
-: 
+:
 "person"
 ,
- 
+
 "description"
-: 
+:
 "Bob is a mathematician."
 ,
- 
+
 "source_id"
-: 
+:
 "doc-1"
 ,
- 
+
 "file_path"
-: 
+:
 "test_file"
 
  },
  {
- 
+
 "entity_name"
-: 
+:
 "Quantum Computing"
 ,
- 
+
 "entity_type"
-: 
+:
 "technology"
 ,
- 
+
 "description"
-: 
+:
 "Quantum computing utilizes quantum mechanical phenomena for computation."
 ,
- 
+
 "source_id"
-: 
+:
 "doc-1"
 ,
- 
+
 "file_path"
-: 
+:
 "test_file"
 
  }
  ],
- 
+
 "relationships"
 : [
  {
- 
+
 "src_id"
-: 
+:
 "Alice"
 ,
- 
+
 "tgt_id"
-: 
+:
 "Bob"
 ,
- 
+
 "description"
-: 
+:
 "Alice and Bob are research partners."
 ,
- 
+
 "keywords"
-: 
+:
 "collaboration research"
 ,
- 
+
 "weight"
-: 
+:
 1.0
 ,
- 
+
 "source_id"
-: 
+:
 "doc-1"
 ,
- 
+
 "file_path"
-: 
+:
 "test_file"
 
  },
  {
- 
+
 "src_id"
-: 
+:
 "Alice"
 ,
- 
+
 "tgt_id"
-: 
+:
 "Quantum Computing"
 ,
- 
+
 "description"
-: 
+:
 "Alice conducts research on quantum computing."
 ,
- 
+
 "keywords"
-: 
+:
 "research expertise"
 ,
- 
+
 "weight"
-: 
+:
 1.0
 ,
- 
+
 "source_id"
-: 
+:
 "doc-1"
 ,
- 
+
 "file_path"
-: 
+:
 "test_file"
 
  },
  {
- 
+
 "src_id"
-: 
+:
 "Bob"
 ,
- 
+
 "tgt_id"
-: 
+:
 "Quantum Computing"
 ,
- 
+
 "description"
-: 
+:
 "Bob researches quantum computing."
 ,
- 
+
 "keywords"
-: 
+:
 "research application"
 ,
- 
+
 "weight"
-: 
+:
 1.0
 ,
- 
+
 "source_id"
-: 
+:
 "doc-1"
 ,
- 
+
 "file_path"
-: 
+:
 "test_file"
 
  }
@@ -4420,7 +4420,7 @@ insert_custom_kg
 custom_kg
 )
 
- 
+
 Other Entity and Relation Operations
 
 * create_entity: Creates a new entity with specified attributes
@@ -4434,9 +4434,9 @@ These operations maintain data consistency across both the graph database and ve
 
 LightRAG provides comprehensive deletion capabilities, allowing you to delete documents, entities, and relationships.
 
- 
+
 Delete Entities
- 
+
 
 You can delete entities by their name along with all associated relationships:
 
@@ -4452,7 +4452,7 @@ delete_by_entity
 # Asynchronous version
 
 await
- 
+
 rag
 .
 adelete_by_entity
@@ -4467,9 +4467,9 @@ When deleting an entity:
 * Removes related embedding vectors from the vector database
 * Maintains knowledge graph integrity
 
- 
+
 Delete Relations
- 
+
 
 You can delete relationships between two specific entities:
 
@@ -4480,20 +4480,20 @@ rag
 delete_by_relation
 (
 "Google"
-, 
+,
 "Gmail"
 )
 
 # Asynchronous version
 
 await
- 
+
 rag
 .
 adelete_by_relation
 (
 "Google"
-, 
+,
 "Gmail"
 )
 
@@ -4503,16 +4503,16 @@ When deleting a relationship:
 * Deletes the relationship's embedding vector from the vector database
 * Preserves both entity nodes and their other relationships
 
- 
+
 Delete by Document ID
- 
+
 
 You can delete an entire document and all its related knowledge through document ID:
 
 # Delete by document ID (asynchronous version)
 
 await
- 
+
 rag
 .
 adelete_by_doc_id
@@ -4551,9 +4551,9 @@ Batch Deletion Recommendations:
 
 ## Entity Merging
 
- 
+
 Merge Entities and Their Relationships
- 
+
 
 LightRAG now supports merging multiple entities into a single entity, automatically handling all relationships:
 
@@ -4563,17 +4563,17 @@ rag
 .
 merge_entities
 (
- 
+
 source_entities
 =
 [
 "Artificial Intelligence"
-, 
+,
 "AI"
-, 
+,
 "Machine Intelligence"
 ],
- 
+
 target_entity
 =
 "AI Technology"
@@ -4588,44 +4588,44 @@ rag
 .
 merge_entities
 (
- 
+
 source_entities
 =
 [
 "John Smith"
-, 
+,
 "Dr. Smith"
-, 
+,
 "J. Smith"
 ],
- 
+
 target_entity
 =
 "John Smith"
 ,
- 
+
 merge_strategy
 =
 {
- 
+
 "description"
-: 
+:
 "concatenate"
-, 
+,
 # Combine all descriptions
 
- 
+
 "entity_type"
-: 
+:
 "keep_first"
-, 
+,
 # Keep the entity type from the first entity
 
- 
+
 "source_id"
-: 
+:
 "join_unique"
- 
+
 # Combine all unique source IDs
 
  }
@@ -4639,33 +4639,33 @@ rag
 .
 merge_entities
 (
- 
+
 source_entities
 =
 [
 "New York"
-, 
+,
 "NYC"
-, 
+,
 "Big Apple"
 ],
- 
+
 target_entity
 =
 "New York City"
 ,
- 
+
 target_entity_data
 =
 {
- 
+
 "entity_type"
-: 
+:
 "LOCATION"
 ,
- 
+
 "description"
-: 
+:
 "New York City is the most populous city in the United States."
 ,
  }
@@ -4679,47 +4679,47 @@ rag
 .
 merge_entities
 (
- 
+
 source_entities
 =
 [
 "Microsoft Corp"
-, 
+,
 "Microsoft Corporation"
-, 
+,
 "MSFT"
 ],
- 
+
 target_entity
 =
 "Microsoft"
 ,
- 
+
 merge_strategy
 =
 {
- 
+
 "description"
-: 
+:
 "concatenate"
-, 
+,
 # Combine all descriptions
 
- 
+
 "source_id"
-: 
+:
 "join_unique"
- 
+
 # Combine source IDs
 
  },
- 
+
 target_entity_data
 =
 {
- 
+
 "entity_type"
-: 
+:
 "ORGANIZATION"
 ,
  }
@@ -4766,30 +4766,30 @@ For detailed documentation and advanced usage, please refer to theRAG-Anything r
 
 ## Token Usage Tracking
 
- 
+
 Overview and Usage
- 
+
 
 LightRAG provides a TokenTracker tool to monitor and manage token consumption by large language models. This feature is particularly useful for controlling API costs and optimizing performance.
 
 ### Usage
 
 from
- 
+
 lightrag
 .
 utils
- 
+
 import
- 
+
 TokenTracker
 
 # Create TokenTracker instance
 
 token_tracker
- 
+
 =
- 
+
 TokenTracker
 ()
 
@@ -4798,27 +4798,27 @@ TokenTracker
 # Suitable for scenarios requiring automatic token usage tracking
 
 with
- 
+
 token_tracker
 :
- 
+
 result1
- 
+
 =
- 
+
 await
- 
+
 llm_model_func
 (
 "your question 1"
 )
- 
+
 result2
- 
+
 =
- 
+
 await
- 
+
 llm_model_func
 (
 "your question 2"
@@ -4843,7 +4843,7 @@ rag
 query
 (
 "your question 1"
-, 
+,
 param
 =
 QueryParam
@@ -4858,7 +4858,7 @@ rag
 query
 (
 "your question 2"
-, 
+,
 param
 =
 QueryParam
@@ -4873,7 +4873,7 @@ mode
 print
 (
 "Token usage:"
-, 
+,
 token_tracker
 .
 get_usage
@@ -4903,8 +4903,8 @@ LightRAG allows you to export your knowledge graph data in various formats for a
 
 ### Export Functions
 
- 
- Basic Usage 
+
+ Basic Usage
 
 # Basic CSV export (default format)
 
@@ -4922,14 +4922,14 @@ rag
 export_data
 (
 "output.xlsx"
-, 
+,
 file_format
 =
 "excel"
 )
 
- 
- Different File Formats supported 
+
+ Different File Formats supported
 
 #Export data in CSV format
 
@@ -4938,7 +4938,7 @@ rag
 export_data
 (
 "graph_data.csv"
-, 
+,
 file_format
 =
 "csv"
@@ -4951,7 +4951,7 @@ rag
 export_data
 (
 "graph_data.xlsx"
-, 
+,
 file_format
 =
 "excel"
@@ -4964,7 +4964,7 @@ rag
 export_data
 (
 "graph_data.md"
-, 
+,
 file_format
 =
 "md"
@@ -4977,14 +4977,14 @@ rag
 export_data
 (
 "graph_data.txt"
-, 
+,
 file_format
 =
 "txt"
 )
 
- 
- Additional Options 
+
+ Additional Options
 
 Include vector embeddings in the export (optional):
 
@@ -4993,7 +4993,7 @@ rag
 export_data
 (
 "complete_data.csv"
-, 
+,
 include_vector_data
 =
 True
@@ -5009,16 +5009,16 @@ All exports include:
 
 ## Cache
 
- 
+
 Clear Cache
- 
+
 
 You can clear the configured LLM response cache storage withaclear_cache(). This API clears all cached entries inllm_response_cacheand does not support selective cleanup by mode or cache type.
 
 # Clear all cache
 
 await
- 
+
 rag
 .
 aclear_cache
@@ -5112,20 +5112,20 @@ The dataset used in LightRAG can be downloaded fromTommyChien/UltraDomain.
 
 LightRAG uses the following prompt to generate high-level queries, with the corresponding code inexamples/generate_query.py.
 
- Prompt 
+ Prompt
 
 Given
- 
+
 the
- 
+
 following
- 
+
 description
- 
+
 of
- 
+
 a
- 
+
 dataset
 :
 
@@ -5134,205 +5134,205 @@ description
 }
 
 Please
- 
+
 identify
- 
+
 5
- 
+
 potential
- 
+
 users
- 
+
 who
- 
+
 would
- 
+
 engage
- 
+
 with
- 
+
 this
- 
+
 dataset
-. 
+.
 For
- 
+
 each
- 
+
 user
-, 
+,
 list
- 
+
 5
- 
+
 tasks
- 
+
 they
- 
+
 would
- 
+
 perform
- 
+
 with
- 
+
 this
- 
+
 dataset
-. 
+.
 Then
-, 
+,
 for
- 
+
 each
  (
 user
-, 
+,
 task
-) 
+)
 combination
-, 
+,
 generate
- 
+
 5
- 
+
 questions
- 
+
 that
- 
+
 require
- 
+
 a
- 
+
 high
 -
 level
- 
+
 understanding
- 
+
 of
- 
+
 the
- 
+
 entire
- 
+
 dataset
 .
 
 Output
- 
+
 the
- 
+
 results
- 
+
 in
- 
+
 the
- 
+
 following
- 
+
 structure
 :
 
 -
- 
+
 User
- 
+
 1
 : [
 user
- 
+
 description
 ]
- 
+
 -
- 
+
 Task
- 
+
 1
 : [
 task
- 
+
 description
 ]
- 
+
 -
- 
+
 Question
- 
+
 1
 :
- 
+
 -
- 
+
 Question
- 
+
 2
 :
- 
+
 -
- 
+
 Question
- 
+
 3
 :
- 
+
 -
- 
+
 Question
- 
+
 4
 :
- 
+
 -
- 
+
 Question
- 
+
 5
 :
- 
--
- 
-Task
- 
-2
-: [
-task
- 
-description
-]
- ...
- 
--
- 
-Task
- 
-5
-: [
-task
- 
-description
-]
 
 -
- 
-User
- 
+
+Task
+
 2
 : [
-user
- 
+task
+
 description
 ]
  ...
 
 -
- 
+
+Task
+
+5
+: [
+task
+
+description
+]
+
+-
+
 User
- 
+
+2
+: [
+user
+
+description
+]
+ ...
+
+-
+
+User
+
 5
 : [
 user
- 
+
 description
 ]
  ...
@@ -5341,7 +5341,7 @@ description
 
 To evaluate the performance of two RAG systems on high-level queries, LightRAG uses the following prompt, with the specific code available inreproduce/batch_eval.py.
 
- Prompt 
+ Prompt
 
 -
 -
@@ -5352,50 +5352,50 @@ Role
 -
 
 You
- 
+
 are
- 
+
 an
- 
+
 expert
- 
+
 tasked
- 
+
 with
- 
+
 evaluating
- 
+
 two
- 
+
 answers
- 
+
 to
- 
+
 the
- 
+
 same
- 
+
 question
- 
+
 based
- 
+
 on
- 
+
 three
- 
+
 criteria
-: 
+:
 **
 Comprehensiveness
 **
-, 
+,
 *
 *
 Diversity
 **
-, 
+,
 and
- 
+
 **
 Empowerment
 **
@@ -5410,226 +5410,226 @@ Goal
 -
 
 You
- 
+
 will
- 
+
 evaluate
- 
+
 two
- 
+
 answers
- 
+
 to
- 
+
 the
- 
+
 same
- 
+
 question
- 
+
 based
- 
+
 on
- 
+
 three
- 
+
 criteria
-: 
+:
 **
 Comprehensiveness
 **
-, 
+,
 *
 *
 Diversity
 **
-, 
+,
 and
- 
+
 **
 Empowerment
 **
 .
 
 -
- 
+
 *
 *
 Comprehensiveness
 **
-: 
+:
 How
- 
+
 much
- 
+
 detail
- 
+
 does
- 
+
 the
- 
+
 answer
- 
+
 provide
- 
+
 to
- 
+
 cover
- 
+
 all
- 
+
 aspects
- 
+
 and
- 
+
 details
- 
+
 of
- 
+
 the
- 
+
 question
 ?
 
 -
- 
+
 *
 *
 Diversity
 **
-: 
+:
 How
- 
+
 varied
- 
+
 and
- 
+
 rich
- 
+
 is
- 
+
 the
- 
+
 answer
- 
+
 in
- 
+
 providing
- 
+
 different
- 
+
 perspectives
- 
+
 and
- 
+
 insights
- 
+
 on
- 
+
 the
- 
+
 question
 ?
 
 -
- 
+
 *
 *
 Empowerment
 **
-: 
+:
 How
- 
+
 well
- 
+
 does
- 
+
 the
- 
+
 answer
- 
+
 help
- 
+
 the
- 
+
 reader
- 
+
 understand
- 
+
 and
- 
+
 make
- 
+
 informed
- 
+
 judgments
- 
+
 about
- 
+
 the
- 
+
 topic
 ?
 
 For
- 
+
 each
- 
+
 criterion
-, 
+,
 choose
- 
+
 the
- 
+
 better
- 
+
 answer
  (
 either
- 
+
 Answer
- 
+
 1
- 
+
 or
- 
+
 Answer
- 
+
 2
-) 
+)
 and
- 
+
 explain
- 
+
 why
-. 
+.
 Then
-, 
+,
 select
- 
+
 an
- 
+
 overall
- 
+
 winner
- 
+
 based
- 
+
 on
- 
+
 these
- 
+
 three
- 
+
 categories
 .
 
 Here
- 
+
 is
- 
+
 the
- 
+
 question
 :
 {
@@ -5637,19 +5637,19 @@ query
 }
 
 Here
- 
+
 are
- 
+
 the
- 
+
 two
- 
+
 answers
 :
 
 **
 Answer
- 
+
 1
 :
 **
@@ -5660,7 +5660,7 @@ answer1
 
 **
 Answer
- 
+
 2
 :
 **
@@ -5670,95 +5670,95 @@ answer2
 }
 
 Evaluate
- 
+
 both
- 
+
 answers
- 
+
 using
- 
+
 the
- 
+
 three
- 
+
 criteria
- 
+
 listed
- 
+
 above
- 
+
 and
- 
+
 provide
- 
+
 detailed
- 
+
 explanations
- 
+
 for
- 
+
 each
- 
+
 criterion
 .
 
 Output
- 
+
 your
- 
+
 evaluation
- 
+
 in
- 
+
 the
- 
+
 following
- 
+
 JSON
- 
+
 format
 :
 
 {{
- 
+
 "Comprehensiveness"
 : {{
- 
+
 "Winner"
-: 
+:
 "[Answer 1 or Answer 2]"
 ,
- 
+
 "Explanation"
-: 
+:
 "[Provide explanation here]"
 
  }},
- 
+
 "Empowerment"
 : {{
- 
+
 "Winner"
-: 
+:
 "[Answer 1 or Answer 2]"
 ,
- 
+
 "Explanation"
-: 
+:
 "[Provide explanation here]"
 
  }},
- 
+
 "Overall Winner"
 : {{
- 
+
 "Winner"
-: 
+:
 "[Answer 1 or Answer 2]"
 ,
- 
+
 "Explanation"
-: 
+:
 "[Summarize why this answer is the overall winner based on the three criteria]"
 
  }}
@@ -6134,34 +6134,34 @@ All the code can be found in the./reproducedirectory.
 
 First, we need to extract unique contexts in the datasets.
 
- Code 
+ Code
 
 def
- 
+
 extract_unique_contexts
 (
 input_directory
-, 
+,
 output_directory
 ):
 
- 
+
 os
 .
 makedirs
 (
 output_directory
-, 
+,
 exist_ok
 =
 True
 )
 
- 
+
 jsonl_files
- 
+
 =
- 
+
 glob
 .
 glob
@@ -6173,13 +6173,13 @@ path
 join
 (
 input_directory
-, 
+,
 '*.jsonl'
 ))
- 
+
 print
 (
-f"Found 
+f"Found
 {
 len
 (
@@ -6189,20 +6189,20 @@ jsonl_files
  JSONL files."
 )
 
- 
+
 for
- 
+
 file_path
- 
+
 in
- 
+
 jsonl_files
 :
- 
+
 filename
- 
+
 =
- 
+
 os
 .
 path
@@ -6211,13 +6211,13 @@ basename
 (
 file_path
 )
- 
+
 name
-, 
+,
 ext
- 
+
 =
- 
+
 os
 .
 path
@@ -6226,22 +6226,22 @@ splitext
 (
 filename
 )
- 
+
 output_filename
- 
+
 =
- 
+
 f"
 {
 name
 }
 _unique_contexts.json"
 
- 
+
 output_path
- 
+
 =
- 
+
 os
 .
 path
@@ -6249,299 +6249,299 @@ path
 join
 (
 output_directory
-, 
+,
 output_filename
 )
 
- 
+
 unique_contexts_dict
- 
+
 =
  {}
 
- 
+
 print
 (
-f"Processing file: 
+f"Processing file:
 {
 filename
 }
 "
 )
 
- 
+
 try
 :
- 
+
 with
- 
+
 open
 (
 file_path
-, 
+,
 'r'
-, 
+,
 encoding
 =
 'utf-8'
-) 
+)
 as
- 
+
 infile
 :
- 
+
 for
- 
+
 line_number
-, 
+,
 line
- 
+
 in
- 
+
 enumerate
 (
 infile
-, 
+,
 start
 =
 1
 ):
- 
+
 line
- 
+
 =
- 
+
 line
 .
 strip
 ()
- 
+
 if
- 
+
 not
- 
+
 line
 :
- 
+
 continue
 
- 
+
 try
 :
- 
+
 json_obj
- 
+
 =
- 
+
 json
 .
 loads
 (
 line
 )
- 
+
 context
- 
+
 =
- 
+
 json_obj
 .
 get
 (
 'context'
 )
- 
+
 if
- 
+
 context
- 
+
 and
- 
+
 context
- 
+
 not
- 
+
 in
- 
+
 unique_contexts_dict
 :
- 
+
 unique_contexts_dict
 [
 context
-] 
+]
 =
- 
+
 None
 
- 
+
 except
- 
+
 json
 .
 JSONDecodeError
- 
+
 as
- 
+
 e
 :
- 
+
 print
 (
-f"JSON decoding error in file 
+f"JSON decoding error in file
 {
 filename
 }
- at line 
+ at line
 {
 line_number
 }
-: 
+:
 {
 e
 }
 "
 )
- 
+
 except
- 
+
 FileNotFoundError
 :
- 
+
 print
 (
-f"File not found: 
+f"File not found:
 {
 filename
 }
 "
 )
- 
+
 continue
 
- 
+
 except
- 
+
 Exception
- 
+
 as
- 
+
 e
 :
- 
+
 print
 (
-f"An error occurred while processing file 
+f"An error occurred while processing file
 {
 filename
 }
-: 
+:
 {
 e
 }
 "
 )
- 
+
 continue
 
- 
+
 unique_contexts_list
- 
+
 =
- 
+
 list
 (
 unique_contexts_dict
 .
 keys
 ())
- 
+
 print
 (
-f"There are 
+f"There are
 {
 len
 (
 unique_contexts_list
 )
 }
- unique `context` entries in the file 
+ unique `context` entries in the file
 {
 filename
 }
 ."
 )
 
- 
+
 try
 :
- 
+
 with
- 
+
 open
 (
 output_path
-, 
+,
 'w'
-, 
+,
 encoding
 =
 'utf-8'
-) 
+)
 as
- 
+
 outfile
 :
- 
+
 json
 .
 dump
 (
 unique_contexts_list
-, 
+,
 outfile
-, 
+,
 ensure_ascii
 =
 False
-, 
+,
 indent
 =
 4
 )
- 
+
 print
 (
-f"Unique `context` entries have been saved to: 
+f"Unique `context` entries have been saved to:
 {
 output_filename
 }
 "
 )
- 
+
 except
- 
+
 Exception
- 
+
 as
- 
+
 e
 :
- 
+
 print
 (
-f"An error occurred while saving to the file 
+f"An error occurred while saving to the file
 {
 output_filename
 }
-: 
+:
 {
 e
 }
 "
 )
 
- 
+
 print
 (
 "All files have been processed."
@@ -6551,36 +6551,36 @@ print
 
 For the extracted contexts, we insert them into the LightRAG system.
 
- Code 
+ Code
 
 def
- 
+
 insert_text
 (
 rag
-, 
+,
 file_path
 ):
- 
+
 with
- 
+
 open
 (
 file_path
-, 
+,
 mode
 =
 'r'
-) 
+)
 as
- 
+
 f
 :
- 
+
 unique_contexts
- 
+
 =
- 
+
 json
 .
 load
@@ -6588,59 +6588,59 @@ load
 f
 )
 
- 
+
 retries
- 
+
 =
- 
+
 0
 
- 
+
 max_retries
- 
+
 =
- 
+
 3
 
- 
+
 while
- 
+
 retries
- 
+
 <
- 
+
 max_retries
 :
- 
+
 try
 :
- 
+
 rag
 .
 insert
 (
 unique_contexts
 )
- 
+
 break
 
- 
+
 except
- 
+
 Exception
- 
+
 as
- 
+
 e
 :
- 
+
 retries
- 
+
 +=
- 
+
 1
 
- 
+
 print
 (
 f"Insertion failed, retrying (
@@ -6651,29 +6651,29 @@ retries
 {
 max_retries
 }
-), error: 
+), error:
 {
 e
 }
 "
 )
- 
+
 time
 .
 sleep
 (
 10
 )
- 
+
 if
- 
+
 retries
- 
+
 ==
- 
+
 max_retries
 :
- 
+
 print
 (
 "Insertion failed after exceeding the maximum number of retries"
@@ -6683,12 +6683,12 @@ print
 
 We extract tokens from the first and the second half of each context in the dataset, then combine them as dataset descriptions to generate queries.
 
- Code 
+ Code
 
 tokenizer
- 
+
 =
- 
+
 GPT2Tokenizer
 .
 from_pretrained
@@ -6697,86 +6697,86 @@ from_pretrained
 )
 
 def
- 
+
 get_summary
 (
 context
-, 
+,
 tot_tokens
 =
 2000
 ):
- 
+
 tokens
- 
+
 =
- 
+
 tokenizer
 .
 tokenize
 (
 context
 )
- 
+
 half_tokens
- 
+
 =
- 
+
 tot_tokens
- 
+
 //
- 
+
 2
 
- 
+
 start_tokens
- 
+
 =
- 
+
 tokens
 [
 1000
 :
 1000
- 
+
 +
- 
+
 half_tokens
 ]
- 
+
 end_tokens
- 
+
 =
- 
+
 tokens
 [
 -
 (
 1000
- 
+
 +
- 
+
 half_tokens
 ):
 1000
 ]
 
- 
+
 summary_tokens
- 
+
 =
- 
+
 start_tokens
- 
+
 +
- 
+
 end_tokens
 
- 
+
 summary
- 
+
 =
- 
+
 tokenizer
 .
 convert_tokens_to_string
@@ -6784,77 +6784,77 @@ convert_tokens_to_string
 summary_tokens
 )
 
- 
+
 return
- 
+
 summary
 
 ### Step-3 Query
 
 For the queries generated in Step-2, we will extract them and query LightRAG.
 
- Code 
+ Code
 
 def
- 
+
 extract_queries
 (
 file_path
 ):
- 
+
 with
- 
+
 open
 (
 file_path
-, 
+,
 'r'
-) 
+)
 as
- 
+
 f
 :
- 
+
 data
- 
+
 =
- 
+
 f
 .
 read
 ()
 
- 
+
 data
- 
+
 =
- 
+
 data
 .
 replace
 (
 '**'
-, 
+,
 ''
 )
 
- 
+
 queries
- 
+
 =
- 
+
 re
 .
 findall
 (
 r'- Question \d+: (.+)'
-, 
+,
 data
 )
 
- 
+
 return
- 
+
 queries
 
 ## 🔗 Related Projects
@@ -6897,17 +6897,17 @@ title
 =
 {
 LightRAG
-: 
+:
 Simple
- 
+
 and
- 
+
 Fast
- 
+
 Retrieval
 -
 Augmented
- 
+
 Generation
 },
 
@@ -6915,31 +6915,31 @@ author
 =
 {
 Zirui
- 
+
 Guo
- 
+
 and
- 
+
 Lianghao
- 
+
 Xia
- 
+
 and
- 
+
 Yanhua
- 
+
 Yu
- 
+
 and
- 
+
 Tu
- 
+
 Ao
- 
+
 and
- 
+
 Chao
- 
+
 Huang
 },
 
@@ -7007,56 +7007,56 @@ arxiv.org/abs/2410.05779
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 29.9k
 
  stars
- 
+
 
 ### Watchers
 
 185
 
  watching
- 
+
 
 ### Forks
 
 4.3k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases66
 
@@ -7064,11 +7064,11 @@ v1.4.11
 
  Latest
 
- 
+
 
 Mar 20, 2026
 
- 
+
 
 + 65 releases
 
@@ -7084,17 +7084,17 @@ Mar 20, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -7102,9 +7102,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

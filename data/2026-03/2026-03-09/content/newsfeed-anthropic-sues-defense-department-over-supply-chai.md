@@ -30,7 +30,7 @@ The protected speech Anthropic refers to is its belief about the “limitations 
 
 In the lawsuit, Anthropic argued the government doesn’t have to agree with its views or use its products, but it cannot employ the power of the state to punish or suppress Anthropic’s expression.
 
- 
+
 
 Techcrunch event
 
@@ -67,21 +67,21 @@ This story has been updated with more details and news that Anthropic has filed 
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 dario amodei
-, 
+,
 dod
-, 
+,
 Government & Policy
-, 
+,
 pete hegseth
-, 
+,
 supply chain risk
- 
 
-			Rebecca Bellan	
+
+			Rebecca Bellan
 
 Senior Reporter
 
@@ -89,6 +89,6 @@ Rebecca Bellan is a senior reporter at TechCrunch where she covers the business,
 
 You can contact or verify outreach from Rebecca by emailingrebecca.bellan@techcrunch.comor via encrypted message at rebeccabellan.491 on Signal.
 
- 
+
 
 View Bio

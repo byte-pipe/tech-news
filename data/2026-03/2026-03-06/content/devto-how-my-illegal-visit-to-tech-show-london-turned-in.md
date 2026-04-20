@@ -66,7 +66,7 @@ My final thoughts are, Never be afraid to use your voice or put yourself out the
 Opportunities pop up when you are actively searching. I'll definitely keep showing up in these tech spaces legally or otherwise! 😉
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -77,6 +77,6 @@ Preview
 Dismiss
 
  View full discussion (14 comments)
- 
+
 
 For further actions, you may consider blocking this person and/orreporting abuse

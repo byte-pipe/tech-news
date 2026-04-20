@@ -15,7 +15,7 @@ tags:
 
 arXiv:2603.04390
  (cs)
- 
+
 
  [Submitted on 4 Mar 2026]
 
@@ -25,11 +25,11 @@ Authors:
 Boyuan
  (Keven)
 Guan
-, 
+,
 Wencong Cui
-, 
+,
 Levente Juhasz
- 
+
 View a PDF of the paper titled A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development, by Boyuan (Keven) Guan and Wencong Cui and Levente Juhasz
 
 View PDF
@@ -38,9 +38,9 @@ HTML (experimental)
 
 Abstract:
 WebGIS development requires rigor, yet agentic AI frequently fails due to five large language model (LLM) limitations: context constraints, cross-session forgetting, stochasticity, instruction failure, and adaptation rigidity. We propose a dual-helix governance framework reframing these challenges as structural governance problems that model capacity alone cannot resolve. We implement the framework as a 3-track architecture (Knowledge, Behavior, Skills) that uses a knowledge graph substrate to stabilize execution by externalizing domain facts and enforcing executable protocols, complemented by a self-learning cycle for autonomous knowledge growth. Applying this to the FutureShorelines WebGIS tool, a governed agent refactored a 2,265-line monolithic codebase into modular ES6 components. Results demonstrated a 51\% reduction in cyclomatic complexity and a 7-point increase in maintainability index. A comparative experiment against a zero-shot LLM confirms that externalized governance, not just model capability, drives operational reliability in geospatial engineering. This approach is implemented in the open-source AgentLoom governance toolkit.
- 
 
- 
+
+
 
 Comments:
 
@@ -56,16 +56,16 @@ arXiv:2603.04390
 
  
 
-(or 
+(or
 
 arXiv:2603.04390v1
  [cs.AI]
  for this version)
- 
+
 
  
 
- 
+
 https://doi.org/10.48550/arXiv.2603.04390
 
 Focus to learn more
@@ -76,13 +76,13 @@ Focus to learn more
 
  From: Levente Juhasz [
 view email
-] 
- 
+]
+
 [v1]
 
  Wed, 4 Mar 2026 18:53:25 UTC (4,708 KB)
 
- 
+
 
 Full-text links:
 
@@ -94,29 +94,29 @@ Full-text links:
 
 view license
 
- 
 
- Current browse context: 
+
+ Current browse context:
 cs.AI
 
 < prev
 
   |  
- 
+
 
 next >
 
 new
 
- | 
+ |
 
 recent
 
- | 
+ |
 2026-03
 
  Change to browse by:
- 
+
 
 cs
 
@@ -137,11 +137,11 @@ Loading...
 
 loading...
 
-Data provided by: 
+Data provided by:
 
 ### Bookmark
 
- 
+
 
 Bibliographic Tools
 
@@ -150,7 +150,7 @@ Bibliographic Tools
 Bibliographic Explorer Toggle
 
 Bibliographic Explorer
- 
+
 (
 What is the Explorer?
 )
@@ -158,7 +158,7 @@ What is the Explorer?
 Connected Papers Toggle
 
 Connected Papers
- 
+
 (
 What is Connected Papers?
 )
@@ -166,7 +166,7 @@ What is Connected Papers?
 Litmaps Toggle
 
 Litmaps
- 
+
 (
 What is Litmaps?
 )
@@ -174,7 +174,7 @@ What is Litmaps?
 scite.ai Toggle
 
 scite Smart Citations
- 
+
 (
 What are Smart Citations?
 )
@@ -186,7 +186,7 @@ Code, Data, Media
 alphaXiv Toggle
 
 alphaXiv
- 
+
 (
 What is alphaXiv?
 )
@@ -194,7 +194,7 @@ What is alphaXiv?
 Links to Code Toggle
 
 CatalyzeX Code Finder for Papers
- 
+
 (
 What is CatalyzeX?
 )
@@ -202,7 +202,7 @@ What is CatalyzeX?
 DagsHub Toggle
 
 DagsHub
- 
+
 (
 What is DagsHub?
 )
@@ -210,7 +210,7 @@ What is DagsHub?
 GotitPub Toggle
 
 Gotit.pub
- 
+
 (
 What is GotitPub?
 )
@@ -218,7 +218,7 @@ What is GotitPub?
 Huggingface Toggle
 
 Hugging Face
- 
+
 (
 What is Huggingface?
 )
@@ -226,7 +226,7 @@ What is Huggingface?
 Links to Code Toggle
 
 Papers with Code
- 
+
 (
 What is Papers with Code?
 )
@@ -234,7 +234,7 @@ What is Papers with Code?
 ScienceCast Toggle
 
 ScienceCast
- 
+
 (
 What is ScienceCast?
 )
@@ -246,7 +246,7 @@ Demos
 Replicate Toggle
 
 Replicate
- 
+
 (
 What is Replicate?
 )
@@ -254,7 +254,7 @@ What is Replicate?
 Spaces Toggle
 
 Hugging Face Spaces
- 
+
 (
 What is Spaces?
 )
@@ -262,7 +262,7 @@ What is Spaces?
 Spaces Toggle
 
 TXYZ.AI
- 
+
 (
 What is TXYZ.AI?
 )
@@ -274,7 +274,7 @@ Related Papers
 Link to Influence Flower
 
 Influence Flower
- 
+
 (
 What are Influence Flowers?
 )
@@ -282,7 +282,7 @@ What are Influence Flowers?
 Core recommender toggle
 
 CORE Recommender
- 
+
 (
 What is CORE?
 )
@@ -293,7 +293,7 @@ What is CORE?
 * Topic
 
  About arXivLabs
- 
+
 
 # arXivLabs: experimental projects with community collaborators
 
@@ -305,7 +305,7 @@ Have an idea for a project that will add value for arXiv's community?Learn more 
 
 Which authors of this paper are endorsers?
  |
- 
+
 Disable MathJax
  (
 What is MathJax?

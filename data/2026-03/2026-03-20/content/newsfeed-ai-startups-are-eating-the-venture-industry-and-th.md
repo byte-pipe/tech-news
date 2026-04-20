@@ -30,7 +30,7 @@ The latest Carta data also shows that funds raised in 2023 and 2024 (after the l
 
 “It’s promising that the younger funds have seen IRR start strong,” Walker said, adding, however, that there were a few factors to consider. For one, he said, newer funds might look like they are doing well on paper because if they invested in a seed round, for example, and that company went on to raise a Series A at a higher valuation, then on paper it looks like the investor made high returns in a short time period.
 
- 
+
 
 Techcrunch event
 
@@ -57,15 +57,15 @@ Time will tell if this early enthusiasm will translate into real returns for inv
 Topics
 
 AI
-, 
+,
 Carta
-, 
+,
 Startups
-, 
+,
 Venture
- 
 
-			Dominic-Madori Davis	
+
+			Dominic-Madori Davis
 
 Senior Reporter, Venture
 
@@ -73,6 +73,6 @@ Dominic-Madori Davis is a senior venture capital and startup reporter at TechCru
 
 You can contact or verify outreach from Dominic by emailingdominic.davis@techcrunch.comor via encrypted message at +1 646 831-7565 on Signal.
 
- 
+
 
 View Bio

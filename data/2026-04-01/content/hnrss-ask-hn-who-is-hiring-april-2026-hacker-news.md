@@ -14,36 +14,36 @@ tags:
 
 Hacker News
 new
- | 
+ |
 past
- | 
+ |
 comments
- | 
+ |
 ask
- | 
+ |
 show
- | 
+ |
 jobs
- | 
+ |
 submit
 login
 Ask HN: Who is hiring? (April 2026)
 126 points
- by 
+ by
 whoishiring
- 
+
 4 hours ago
- 
- | 
+
+ |
 hide
- | 
+ |
 past
- | 
+ |
 favorite
- | 
+ |
 100 comments
 Please state the location and include REMOTE for remote work, REMOTE (US)
-or similar if the country is restricted, and ONSITE when remote work is 
+or similar if the country is restricted, and ONSITE when remote work is
 not
  an option.
 
@@ -58,12 +58,12 @@ or this (unofficial) Chrome extension:https://chromewebstore.google.com/detail/h
 help
 
 mparis
- 
+
 24 minutes ago
- 
- | 
+
+ |
 next
- 
+
 [–]
 
 AI x Healthcare Startup | Boston, MA Onsite | Full-time | Early Engineer
@@ -73,14 +73,14 @@ We're looking for a backend-leaning fullstack dev. You will be one of the first 
 reply
 
 chillydawg
- 
+
 9 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Longshot Systems | Multiple Senior Eng | London, UK, hybrid | Full time
@@ -90,17 +90,17 @@ Longshot is at the cutting edge of sports betting modelling R&D and has been pro
 reply
 
 ridiculous_fish
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Oklo | Remote (US) or Santa Clara or Brooklyn | Full time | 
+Oklo | Remote (US) or Santa Clara or Brooklyn | Full time |
 https://oklo.com
 
 Join us in pioneering the next generation of nuclear reactors! You'll leverage your software skills alongside nuclear engineers to model, simulate, design, and deploy advanced fission power technology. You will work at the forefront of the nuclear industry, developing novel techniques to reach new levels of safety, efficiency, and resiliency. Come be a part of powering the future with advanced fission power plants to provide clean, reliable, affordable energy.We are hiring for:- Software Engineer:https://job-boards.greenhouse.io/oklo/jobs/4018702004- Senior Software Engineer:https://job-boards.greenhouse.io/oklo/jobs/5739483004- Software Engineer (Infrastructure):https://job-boards.greenhouse.io/oklo/jobs/5784826004- Software Quality Assurance Lead:https://job-boards.greenhouse.io/oklo/jobs/5480416004See more opportunities here:https://job-boards.greenhouse.io/okloPlease mention Hacker News in your cover letter!
@@ -108,14 +108,14 @@ Join us in pioneering the next generation of nuclear reactors! You'll leverage y
 reply
 
 noahho
- 
+
 10 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Prior Labs | Berlin / Freiburg / NYC | ONSITE | Full-time | Multiple Roles
@@ -125,14 +125,14 @@ Tables power every clinical trial, financial model, and scientific experiment, b
 reply
 
 love2read
- 
+
 7 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Hey! This link doesn't work.
@@ -140,14 +140,14 @@ Hey! This link doesn't work.
 reply
 
 tuhlatte
- 
+
 47 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Cultivate AI | Senior Software Engineers | Durham, NC | Hybrid (open to remote)
@@ -157,14 +157,14 @@ We're building an AI platform for credit unions. A variety of tools (third party
 reply
 
 ImAtWorkLol
- 
+
 25 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Luminate | Software Engineer | Onsite Los Angeles, CA | Full Time
@@ -174,17 +174,17 @@ Luminate is the entertainment industry’s preeminent data and insights partner,
 reply
 
 Tina-Fet
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Head of Engineering & Infrastructure | Full-Time | Remote | $182k - $272k USD - 
+Head of Engineering & Infrastructure | Full-Time | Remote | $182k - $272k USD -
 https://fetlife.com/jobs/head_of_engineering_and_infrastruct...
 
 Role: Fully own our engineering and infrastructure teams, keep FetLife fast and reliable for over 12 million members, and free the rest of the leadership team to focus on product and growth.How to Apply: Email jointheteam+hoei+hn@fetlife.com with a brief introduction, tell us about the impact you have personally made on an engineering or infrastructure team you have led, and LinkedIn or resume (PDF).--- FetLife | Senior DevOps Engineer | Full-Time | Remote | 115k - 180k USD -https://fetlife.com/jobs/devops-engineerRole: Develop and implement infrastructure upgrades, database tuning, Kubernetes and Helm orchestration, monitoring, and security. Help maintain and improve our large-scale Rails monolith, including CI/CD. Participate in on-call rotation and help automate daily DevOps tasks.How to apply: Email jointheteam+do+hn@fetlife.com with a brief introduction, 2–3 favorite projects, GitHub/GitLab link, and LinkedIn profile or resume (PDF).---Stack: MySQL/PostgreSQL, ScyllaDB, Redis, ElasticSearch, Terraform, Google Cloud, DataDog and more.Applications: Rails, Vue.js/Typescript, RustPerks: Paid time off (2 weeks vacation, 5 statutory holidays, 2 weeks at Christmas, 4-day summer workweeks), annual company retreat, anniversary gift ($200/year), monthly music subscription reimbursement, fully paid maternity & paternity leave.
@@ -192,14 +192,14 @@ Role: Fully own our engineering and infrastructure teams, keep FetLife fast and 
 reply
 
 passive
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [1 more]
 
 I applied to the Head of Engineering and Infrastructure role two months ago, and got a fairly generic rejection almost immediately that suggested I had been automatically screened out.
@@ -209,14 +209,14 @@ I've cleaned up my LinkedIn a bit since then, so perhaps that would help?Given t
 reply
 
 nhendrix
- 
+
 24 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 American Board of Family Medicine | Research Data Analyst | Washington, DC | ONSITE | Full time
@@ -226,17 +226,17 @@ We’re looking for a curious and productive analyst to help us work with our ex
 reply
 
 husaiin
- 
+
 37 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Identity Labs | 
+Identity Labs |
 https://wellfound.com/jobs/4037860-creative-director-at-a-po...
  | Remote | Full Time
 
@@ -245,14 +245,14 @@ Identity Labs has generated 2B+ views across Twitter. We've worked with Bryan Jo
 reply
 
 StratusBen
- 
+
 34 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Vantage | Senior/Staff Software Engineers | NYC and Remote | Full Time Vantage is an a16z-backed FinOps / Cloud Cost Management platform that helps 15,000+ organizations globally like Block, Vercel, Temporal, Rippling, FanDuel, CircleCI, etc manage their infrastructure costs. We are a ruby/rails shop and if you love infrastructure, it's a very interesting role as our customers are others like you looking to manage their infra spend.
@@ -263,14 +263,14 @@ We're a well funded Series A company and [backed by a16z, Scale venture partners
 reply
 
 nycfishbowl
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Bloomberg | Senior Software Engineer | Hybrid (NYC) | Full-time | $160k - $240k USD + bonus
@@ -280,17 +280,17 @@ Every day, Bloomberg’s clients rely on secure and seamless access to our produ
 reply
 
 samcheng
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-RINSE | REMOTE or San Francisco, Los Angeles, Chicago, Boston, New York City, New Jersey, Seattle, Austin, Toronto, or Washington DC | Software Engineer | Full-Time | Salary: $80k-$200k USD | 
+RINSE | REMOTE or San Francisco, Los Angeles, Chicago, Boston, New York City, New Jersey, Seattle, Austin, Toronto, or Washington DC | Software Engineer | Full-Time | Salary: $80k-$200k USD |
 https://www.rinse.com
 
 Rinse provides dry cleaning and laundry delivery services to customers in twelve metropolitan areas in the US and Canada. We have sophisticated logistics optimization software, a polished consumer product, and firm business fundamentals. We're now over a decade old - this is a stable, yet consistently growing and innovating, company.Our engineering team is distributed across the United States and internationally, and has been entirely remote for years now, but a desk can be provided in the above cities if you'd prefer.We're open to both newly-graduated engineers or more senior engineers, provided they meet our bar. We're particularly interested in true full-stack engineers, with strong React / Typescript / CSS skills to complement comfort in a Python / Django environment. We're also seeking engineers with experience leveraging AI to automate complex operational processes.This season, we're particularly interested in new grads or junior engineers, to round out the team.You will join a high-caliber team where collaboration, honesty, and open communication are at the core of everything we do.Search term bingo: Logistics, Django, Python, Optimization, React, React Native, Postgres, Mobile Engineer, Automation, Delivery, OR-tools, Forecasting
@@ -298,14 +298,14 @@ Rinse provides dry cleaning and laundry delivery services to customers in twelve
 reply
 
 jperaino
- 
+
 50 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 By turning legal code into AI code, Norm enables enterprises to move faster and more comprehensively in their legal and compliance processes with reliability and trust. Norm Ai, the leading Legal & Compliance AI company, has a client base with a combined $30 trillion in assets under management.
@@ -315,17 +315,17 @@ Norm’s platform combines frontier AI, proprietary legal reasoning systems, and
 reply
 
 japborst
- 
+
 58 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-MONUMENTAL | 
+MONUMENTAL |
 https://www.monumental.co/
  | Amsterdam, The Netherlands | Full Time | Onsite
 We make robots that autonomously construct buildings. We are currently developing and manufacturing our autonomous bricklaying system in the beautiful centre of Amsterdam. And our robots are already earning real revenue operating on construction sites all over the Netherlands.
@@ -335,17 +335,17 @@ We're looking for experienced software engineers for many roles. You can help us
 reply
 
 rockyfarmer
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Caribou | Toronto, or Remote Canada | Full Time | 
+Caribou | Toronto, or Remote Canada | Full Time |
 https://www.caribou.care/
 
 Caribou helps homecare organizations attract, engage, and retain staff through data-driven recognition, rewards, and coordination tools that make the lives of patients and their caregivers better. We're a small company of ~50 people who are mostly based in the GTA.We are building on our core product such as deploying AI-powered agentic systems that work alongside agency coordinators to handle routine coordination, outreach, and administrative workflows to improve agency operations.We are hiring:Senior Staff Software Engineer:https://caribou.breezy.hr/p/37866c9bf96c-senior-staff-softwa...Senior Analytics Engineer:https://caribou.breezy.hr/p/990e66f091e4-senior-analytics-en...
@@ -353,14 +353,14 @@ Caribou helps homecare organizations attract, engage, and retain staff through d
 reply
 
 fh973
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Hacker News Post - Who is hiring?
@@ -370,17 +370,17 @@ QUOBYTE | Santa Clara, CA and Berlin, Germany | Full-time / Remote | ONSITE |htt
 reply
 
 cuchoi
- 
+
 45 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Enveritas (YC S18, non-profit) | Backend Software Engineer | Remote (Global) | 
+Enveritas (YC S18, non-profit) | Backend Software Engineer | Remote (Global) |
 https://enveritas.org/jobs/
 
 Enveritas is a 501(c)(3) nonprofit working on sustainability issues facing smallholder coffee farmers. We collect field data in 25+ countries and build systems for analyzing risks in coffee supply chains (including EUDR-related deforestation checks).
@@ -390,17 +390,17 @@ Enveritas is a 501(c)(3) nonprofit working on sustainability issues facing small
 reply
 
 pcmaffey
- 
+
 59 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Higharc | REMOTE | Full-time | 
+Higharc | REMOTE | Full-time |
 https://higharc.com
 
 Thousands of homes have been built with Higharc since 2022. We’re changing the way homebuilders design, sell, estimate, and build, resulting in better, more affordable homes.I’m starting a new Labs team focused on rapid experimentation, to expand our platform and explore new markets in residential construction. I’m looking for a few rare, entrepreneurial founding members:*Staff Software Engineer-https://jobs.ashbyhq.com/higharc/c620be3c-6529-4776-9f02-da1...*Senior AI Engineer-https://jobs.ashbyhq.com/higharc/4cedbfac-f0ad-42c0-abed-3f1...*Senior Design Systems Engineer-https://jobs.ashbyhq.com/higharc/26f3d61d-5027-44c8-bd17-b3b...This is an exceptional opportunity to work on something with real-world impact, with a team of talented & passionate folks across a wide range of domains. We are ~200 people across the world (mostly US) and growing quickly. You can reach out to me with questions at "moc.crahgih@yeffamretep".split('').reverse().join('')We are also hiring across all teams (creative tooling, ML, computational geometry, integrations, etc.):https://jobs.ashbyhq.com/higharc
@@ -408,17 +408,17 @@ Thousands of homes have been built with Higharc since 2022. We’re changing the
 reply
 
 hectormalot
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Stellar | Amsterdam, the Netherlands | Onsite (2 days remote OK) | €70-100k + equity | 
+Stellar | Amsterdam, the Netherlands | Onsite (2 days remote OK) | €70-100k + equity |
 https://stellarcs.ai
 
 Hey, I'm one of Stellar's founders. We're building AI for large contact centers, our primary product is voice.Everyone thinks contact centers are boring. They're wrong. It's the last place where companies actually talk to their customers. We listen to calls every week and it's fascinating. AI here helps real people: shorter wait times, 24/7 support, lower cost. We’ve helped companies go from 60 to 98% pickup rate in weeks.We're bootstrapped, 10 FTE, cash-flow positive, and growing fast with household names in the Netherlands and Belgium. Doubling our volume every month for the last 4 months.We’re all builders. Everybody in our company still writes code. We have 2 roles open:1. We need product minded engineers who can jump between our Go and TS backends and React frontend.2. We need implementation leads that love working with clients. FDEs welcome as well.This role is perfect if you:* Want massive ownership at a small team* Actually enjoy solving hard problems (real-time audio at enterprise scale)* Think making AI sound human in niche dialects is a fun challengeFind the full vacancies here:https://www.stellarcs.ai/careersEU work authorization is required. No visa sponsorship available.Apply: e-mail is in my profile, please indicate HN in your e-mail.
@@ -426,14 +426,14 @@ Hey, I'm one of Stellar's founders. We're building AI for large contact centers,
 reply
 
 kisamoto
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 LiveMap | Geospatial Engineers (Data & Routing) | Full-Time | Switzerland or Remote (CH, EU, UK)
@@ -443,14 +443,14 @@ Visa sponsorship is not provided.LiveMap is a funded startup with a vision to bu
 reply
 
 fheisler
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Authentik Security | Security Engineer | US | REMOTE (anywhere) | Full-time
@@ -460,14 +460,14 @@ Authentik Security (https://goauthentik.io) is the company behind authentik (htt
 reply
 
 futohq
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 FUTO | Software Engineers | Austin, TX | Remote or Onsite | Full Time
@@ -478,17 +478,17 @@ Immich is on a mission to provide a secure and private home for your most precio
 reply
 
 mslzed
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Zed Industries | North America, South America, Europe REMOTE | 
+Zed Industries | North America, South America, Europe REMOTE |
 https://zed.dev/
  Zed is a company for developers, by developers. All 3 of our founders have spent years in the trenches writing software and still do it almost every single day.
 
@@ -497,14 +497,14 @@ We've raised $42M to support our ultimate vision, a new way to collaborate on so
 reply
 
 lukres_pango
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Pango | Senior Software Engineer - Full Stack, Technical Lead / Software Engineer | On-site (hybrid) in Stockholm, Sweden (Visa Sponsorship possible) | Full time
@@ -514,17 +514,17 @@ Pango is building the world's first Agentic Operating System for e-commerce logi
 reply
 
 landon_achr
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Archer Aviation | San Jose, CA | iOS & Python | Full-Time | 
+Archer Aviation | San Jose, CA | iOS & Python | Full-Time |
 https://archer.com
 
 Archer is an aerospace company building an all-electric vertical takeoff and landing aircraft with a mission to advance the benefits of sustainable urban air mobility.
@@ -534,14 +534,14 @@ We're pushing the envelope in aviation software products. We have production air
 reply
 
 deet
- 
+
 7 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Kinelo | kinelo.com | Product Engineering (Backend+AI focus) | San Francisco | Onsite (with flexibility)
@@ -551,14 +551,14 @@ We are hiring two Product Engineers to join us in our newly opened office in SF.
 reply
 
 joelschw
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 PhysicsX | Principal AI Engineer | London / NY / Remote | Full time | physicsx.ai
@@ -568,14 +568,14 @@ We're building an AI-native platform that turns physics simulations from days-lo
 reply
 
 johnmoberg
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Tandem Health | Software Engineers | On-site in Stockholm, Sweden | Full time
@@ -585,14 +585,14 @@ At Tandem Health we're building a clinician copilot to allow clinicians to focus
 reply
 
 steffan
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 MongoDB | Senior Developer Advocate | REMOTE (Dublin, Ireland) | Full Time
@@ -602,14 +602,14 @@ My org is hiring for multiple openings for Senior Developer Advocate roles. We a
 reply
 
 hglawrence
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Findigs | Full-time | NYC | 3x/week in office (M,T, Th) | findigs.com
@@ -619,17 +619,17 @@ At Findigs, we’re transforming the rental experience — making it fairer, str
 reply
 
 CLEARrecruits
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-CLEAR | Senior/Staff Software Engineers, Staff/Lead iOS Engineer, Infrastructure Engineers| NYC Onsite (4-5 days in-office w/ free catered lunch daily) | 
+CLEAR | Senior/Staff Software Engineers, Staff/Lead iOS Engineer, Infrastructure Engineers| NYC Onsite (4-5 days in-office w/ free catered lunch daily) |
 https://www.clearme.com/
 
 CLEAR is building THE secure identity company of the future. Our mission is to make experiences safer and easier—physically and digitally. With more than 38 million Members and a growing network of partners across the world, CLEAR's secure identity platform is transforming the way people live, work, and travel. Whether it’s at the airport, stadium, or throughout your everyday life, CLEAR unlocks the magic of frictionless experiences.If interested, apply here -->https://grnh.se/e4e5dc881us
@@ -637,14 +637,14 @@ CLEAR is building THE secure identity company of the future. Our mission is to m
 reply
 
 Austin_Conlon
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 SwingVision is the AI tennis & pickleball app that provides automated stats, highlights, and line calling using just your phone. Our mission is to democratize the pro sports experience for all athletes.
@@ -654,14 +654,14 @@ SwingVision is the AI tennis & pickleball app that provides automated stats, hig
 reply
 
 jbobron
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 GameBrain AI (
@@ -673,18 +673,18 @@ I’m the CTO at GameBrain. I previously spent 6 years helping to build autonomo
 reply
 
 Tamaybes
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Mechanize | San Francisco, CA (Onsite) | Junior SWE ($300k + equity), SWE ($350k + equity)
-Applying takes <2 min: 
+Applying takes <2 min:
 https://jobs.ashbyhq.com/mechanize
 
 We build environments that frontier AI labs use to train their models to do real-world software engineering. Team of ~25. We have more demand than we can keep up with, so we're hiring fast. Backed by Nat Friedman, Daniel Gross, and Patrick Collison.
@@ -692,14 +692,14 @@ We build environments that frontier AI labs use to train their models to do real
 reply
 
 mooreds
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 FusionAuth | Senior Java Engineer, Account Executive , Solutions Engineer | Varies between REMOTE (in USA, also in Europe but only for the account exec/solutions engineer positions) and ONSITE in Denver, CO, USA, details in each job desc | Salary ranges listed on job req, but for the Senior Java Engineer it is 140k-180k
@@ -709,17 +709,17 @@ At FusionAuth, our mission is to make authentication and authorization simple an
 reply
 
 nuance_labs
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Nuance Labs | Multiple Engineering Roles | Seattle, WA | ONSITE | 
+Nuance Labs | Multiple Engineering Roles | Seattle, WA | ONSITE |
 https://www.nuancelabs.ai
 
 Nuance Labs is building the first "human foundation model" — a unified system that understands and expresses human emotion in real-time across speech, facial expression, and body language. We are crossing the "uncanny valley" to create AI interactions that feel truly alive.We recently raised a $10M seed round (Accel, South Park Commons, Lightspeed) and our founding team comes from MIT, UW, and Oxford, with deep experience shipping AI products at Apple and Meta. We are a small, fast-moving team that values in-person collaboration in our Seattle HQ.We are looking for:Machine Learning Infra Engineer: Own our GPU-backed serving stack, Kubernetes clusters, and media serving layer.Systems Engineer (Real-Time Engine): Build our core server-side runtime. High-concurrency, low-latency systems. Python/Asyncio today, transitioning to Rust.Why join?Massive ownership in a high-bar, research-heavy environment.Work on the frontier of multimodal generative AI and real-time graphics.Competitive equity and the chance to shape a company from the ground up.Apply: Check out the roles athttps://www.nuancelabs.ai/careersand mention "hackernews" for how you heard about us.
@@ -727,14 +727,14 @@ Nuance Labs is building the first "human foundation model" — a unified system 
 reply
 
 csprabala
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Tech Mahindra | Cloud Consulting Leader | Bengaluru / Hyderabad, India | ONSITE | Full-Time
@@ -750,14 +750,14 @@ We run cloud transformation engagements. app modernization, VMware exits, cloud-
 reply
 
 BatonTrucking
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Baton | Senior Software Engineer - Full Stack, Technical Lead / Software Engineer - Infrastructure, Data Platform | San Francisco, CA (Hybrid) | Full-Time
@@ -767,14 +767,14 @@ Baton (baton.io) is Ryder's in-house product development group focused on harnes
 reply
 
 jonahberquist
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Discord | Senior Software Engineer - Database Infrastructure | SF Bay Area (Hybrid)
@@ -784,14 +784,14 @@ Tech stack: Rust | ScyllaDB | k8s | Python | Postgres | Elasticsearch | Terrafor
 reply
 
 thomas-arcol
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Arcol | Senior Software Engineer | NYC, SF, or Remote (US/Canada) | Full-time
@@ -801,33 +801,33 @@ Arcol (arcol.io) is a small, high talent density team building the future of bui
 reply
 
 ParakhJaggi
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Tavily | DevOps Engineer | NYC | Full-Time
 
-Looking for a k8s, AWS, Helm, Terraform, DevOps nerd to help out the NYC team. 
+Looking for a k8s, AWS, Helm, Terraform, DevOps nerd to help out the NYC team.
 We were recently acquired by Nebius, if you love infra reach out to me:
 Parakh.Jaggi@tavily.comhttps://www.tavily.com/careers/jobs
 
 reply
 
 sbysb
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Oneleet (YC S22) | Multiple Roles | US & NATO Countries | Remote | Full-time
@@ -842,14 +842,14 @@ We are also building out a 'forward deployed' sales team based in San Fransisco 
 reply
 
 beautiful-ai
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Beautiful.ai | Full-Time | Remote in US & CAN | SaaS B2B Presentation Software | Series B | 16M Funding | AI Industry
@@ -859,14 +859,14 @@ Beautiful.ai | Full-Time | Remote in US & CAN | SaaS B2B Presentation Software |
 reply
 
 vincentchu
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 HomeVision | Senior Frontend Engineering | San Francisco, CA
@@ -876,17 +876,17 @@ We're reimagining mortgage underwriting for a world where engineers and operator
 reply
 
 WireScreenNYC
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-WireScreen (Series A) | Senior Product Manager | NYC - hybrid | Full-time | $175k-$215k base + equity | 
+WireScreen (Series A) | Senior Product Manager | NYC - hybrid | Full-time | $175k-$215k base + equity |
 https://jobs.ashbyhq.com/wirescreen/3c97417f-45f1-4480-8d38-...
 
 WireScreen is a fast-growing Sequoia-backed Series A startup building the go-to open source intelligence platform for navigating global supply chains and China-related risk. While China maintains some of the world’s most detailed corporate ownership records, the real challenge is connecting the dots. That’s where we come in—surfacing the networks, relationships, and financial ties behind companies to support national security, compliance, and regulatory oversight.We’re looking for a Senior Product Manager to join us in an early stage product role that represents an opportunity to define the future of WireScreen’s flagship product. You’ll be part of a small team working directly with company leadership, take full ownership of brand new products, and have a meaningful impact on the future of corporate transparency around the globe.If you have prior startup experience, have worked on at least one data product (or have strong data chops), and bring 6+ years of PM experience - we’d love to talk to you.Apply here:https://jobs.ashbyhq.com/wirescreen/3c97417f-45f1-4480-8d38-...Or you can reach out to me directly with questions or your resume at leo.green@wirescreen.ai - I lead recruiting here at WireScreen, but if I don't know the answer I'll ping our engineering folks and come back to you fast. If you think this role isn’t at the right level for you but are interested in working here, let me know!
@@ -894,17 +894,17 @@ WireScreen is a fast-growing Sequoia-backed Series A startup building the go-to 
 reply
 
 matthewmoss
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Locket | 
+Locket |
 https://locketcamera.com
  | Hybrid, San Francisco + Remote | Full-time
 
@@ -913,17 +913,17 @@ Locket is the fastest-growing social app among Gen Alpha and Gen Z.What if socia
 reply
 
 kflansburg
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Cloudflare | Systems or ML Engineer, Workers AI | Austin, TX or London, UK or San Francisco, CA (Hybrid) | Full-Time | 
+Cloudflare | Systems or ML Engineer, Workers AI | Austin, TX or London, UK or San Francisco, CA (Hybrid) | Full-Time |
 https://cloudflare.com
 
 Cloudflare is building across the entire AI stack. Here are some exciting things that we have launched recently:- Release Cog v0.17:https://github.com/replicate/cog/releases/tag/v0.17.0- Dynamic Worker Sandboxes:https://blog.cloudflare.com/dynamic-workers/- Kimi K2.5:https://blog.cloudflare.com/workers-ai-large-models/- Code Mode MCP Servers:https://blog.cloudflare.com/code-mode/- Agents SDK:https://blog.cloudflare.com/building-agents-with-openai-and-...We are looking for systems and ML engineers to help build our edge inference platform:- Senior Systems Engineer, Workers AI -https://job-boards.greenhouse.io/cloudflare/jobs/7764827?gh_...- Senior / Principal Machine Learning Engineer, Workers AI-https://job-boards.greenhouse.io/cloudflare/jobs/6297179?gh_...
@@ -931,17 +931,17 @@ Cloudflare is building across the entire AI stack. Here are some exciting things
 reply
 
 ReDeiPirati
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-HumanSignal | 
+HumanSignal |
 https://humansignal.com/
  | REMOTE North America, South America, Europe | Full-time | Engineering roles
 
@@ -950,14 +950,14 @@ We created Label Studio (https://github.com/HumanSignal/label-studio/), which ha
 reply
 
 bill_02109
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 40GRID - Full-time Remote | Senior QA Engineer
@@ -967,14 +967,14 @@ Our mission is to empower field-service companies to grow by modernizing and aut
 reply
 
 k1w1
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Aha! (
@@ -986,17 +986,17 @@ Aha! is the #1 tool for product managers to plan strategy and roadmaps. We serve
 reply
 
 repspark
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-RepSpark | Engineering | REMOTE (US) | Full-Time | 
+RepSpark | Engineering | REMOTE (US) | Full-Time |
 https://www.repspark.com
 
 RepSpark is the top SaaS B2B wholesale e-commerce platform for brands in apparel, footwear, and accessories. For example, we're how golf courses across North America and Europe purchase brands like Titleist, Peter Millar, Kjus, etc.Stack: GraphQL, React, TypeScript, PostgreSQL, AWSWe're actively hiring:* Senior Product Engineer, Front-End: Own customer-facing product work end-to-end in React/TypeScript, turning complex B2B e-commerce workflows into fast, accessible interfaces while helping modernize our legacy app —https://apply.appone.com/job/69cd53910f5e0e111fb5f819
@@ -1004,14 +1004,14 @@ RepSpark is the top SaaS B2B wholesale e-commerce platform for brands in apparel
 reply
 
 fzysingularity
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 VLM Run (
@@ -1023,14 +1023,14 @@ VLM Run is building infrastructure for production Vision-Language Model (VLM) sy
 reply
 
 crgwbr
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 thelab (
@@ -1042,14 +1042,14 @@ We are looking for two experienced back-end engineers: (1) one to lead work with
 reply
 
 camperegrine
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Back by Sequoia Capital, Peregrine is the operational AI platform powering decision making and operations SF / NYC / DC | In-office 4 days | $130,000 - $275,000
@@ -1059,17 +1059,17 @@ Back by Sequoia Capital, Peregrine is the operational AI platform powering decis
 reply
 
 timjulien
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Radar Labs | Software Engineers (SRE, data platform, backend, full-stack, mobile) | Remote (US), NYC | Full Time | 
+Radar Labs | Software Engineers (SRE, data platform, backend, full-stack, mobile) | Remote (US), NYC | Full Time |
 https://radar.com
 
 - Radar is the geo-location dev tool- Doing 1B+ API calls per day- Our main languages are Rust and TypeScript, we also use mobile and offline pipeline languages (Python, Scala, and Terraform).- We're based in NYC with our HQ in Union Square and remote friendly (US)Interesting things we're working on:- HorizonDB, our Geospatial database written in Rust- Precise indoor location more accurate than iOS and Android leveraging Ultra-Wideband, other mobile sensors and ML.- Extracting raw map data from satellite maps and the web leveraging ML and AI- Anomaly detection to identify spoofed locations- Mobile infrastructure that automatically configures itself optimizing battery-life and location accuracy for different use-cases over time- Multi-Region AWS K8s deployment, 99.99%+ availability- Frontend tools to visualize and debug location data at scaleCheck out our jobs page here:https://radar.com/jobs#jobsIf you have any questions, feel free to reply here or you can e-mail me at tim@radar.com
@@ -1077,17 +1077,17 @@ https://radar.com
 reply
 
 NotCo
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-NotCo AI is a Food-Tech that modernizes CPG product development by unifying ingredient science, formulation, and consumer insights into one decision engine — trusted by Mars, PepsiCo, Ferrero, and more. 
+NotCo AI is a Food-Tech that modernizes CPG product development by unifying ingredient science, formulation, and consumer insights into one decision engine — trusted by Mars, PepsiCo, Ferrero, and more.
 We're currently hiring Tech Talent in Latin America (Chile & Argentina). If you're interested, please apply:
 
 --> SWE in Chile:https://www.linkedin.com/jobs/view/4394671987/--> SWE in Argentina:https://www.linkedin.com/jobs/view/4394676925/--> DevOps in Argentina:https://www.linkedin.com/jobs/view/4394684340/
@@ -1095,17 +1095,17 @@ We're currently hiring Tech Talent in Latin America (Chile & Argentina). If you'
 reply
 
 tylerappeared
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Range Finance | Mclean, Virginia - On-site | Software Engineers (Senior/Staff/Principal) | Full-time 
+Range Finance | Mclean, Virginia - On-site | Software Engineers (Senior/Staff/Principal) | Full-time
 https://www.range.com/public/careers
 
 We're building the first AI wealth platform. Hiring senior+ software engineers to partner closely with our co-founders and engineering leadership team. We're a Series C company with ~100 people passionate about making wealth management better, faster, and cheaper for every household. We're open to relocating candidates. Email me (tyler at range dot com) your LinkedIn profile if you have strong technical experience and you're interested!
@@ -1115,14 +1115,14 @@ Stack: Claude, Node, GraphQL, React, Typescript, AWS Comp: $150 - 300k base + eq
 reply
 
 serjester
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Akur8 | AI Engineer | NYC (Hybrid) | Full-time
@@ -1132,17 +1132,17 @@ Akur8 builds the OS for insurance pricing - our SaaS platform helps 320+ insurer
 reply
 
 adithyasrin
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-flaconi | Germany / Berlin | Full Time | 
+flaconi | Germany / Berlin | Full Time |
 https://www.flaconi.de
  | e-commerce
 
@@ -1151,14 +1151,14 @@ flaconi is an online e-commerce for beauty products, founded in 2011 in Berlin. 
 reply
 
 ratzo
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Treatment Technologies & Insights, Inc. (TTI) | Backend Engineers (Junior & Senior) | El Segundo, CA | Hybrid
@@ -1169,14 +1169,14 @@ Senior Backend Engineer - deep experience with PHP, Laravel, and MySQL, with the
 reply
 
 dclifford019
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Addepar/ Softare Engineering Manager/ NYC-Hybrid/ Full-time
@@ -1187,17 +1187,17 @@ Hybrid | NYC | Python/Java | Temporal CloudJob description:https://job-boards.gr
 reply
 
 ramoz
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-EQTY Lab | Product Engineers| LA, SF, or Toronto (remote hours included) | 
+EQTY Lab | Product Engineers| LA, SF, or Toronto (remote hours included) |
 https://eqtylab.io
 
 We are building products that help improve governance and trust in AI systems. If you want a better steer, guard, and build new forms of trust for long-running & business critical agents, please reach out.Aside from product, we encourage a lot of explorationhttps://github.com/eqtylab/and will soon be productizing concepts such as verifiable intent/specification/planning (I buildhttps://plannotator.ai/for fun and we think the concepts scale).Competitive salary and equity.ramos[at]eqtylab[.]io
@@ -1205,17 +1205,17 @@ We are building products that help improve governance and trust in AI systems. I
 reply
 
 crubier
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Skydio | Robotics / Drones / Cloud / Web engineers | San Mateo CA, Zurich CH, or Hybrid | 
+Skydio | Robotics / Drones / Cloud / Web engineers | San Mateo CA, Zurich CH, or Hybrid |
 https://www.skydio.com/careers
 
 Skydio is the leading U.S. drone company and world leader in autonomous flight. Our drones are used for inspecting the energy grid, de-escalating life and death scenarios in public safety, inspecting bridges, giving soldiers better situational awareness on the battlefield, search and rescue missions, and more. We serve the core industries that our civilization runs on and have life-saving impact.If you’re interested in being a core member of a 200+ person world-class engineering and research team that is defining the future of a major emerging industry,We’re looking for a diverse combination of engineers, researchers, and managers with strong SW skills and experience across complex products. We’re particularly interested in people with robotics, web, deep learning, game dev, streaming or cloud experience.Autonomy Engineer, Fixed Wing Planning & Controlshttps://www.skydio.com/jobs/20754382-05e7-4cb6-a0f9-0daf9338...Autonomy Engineer, Deep Learning Model Accelerationhttps://www.skydio.com/jobs/cd6d8410-419b-4713-8d4d-7eb72b13...Senior Software Engineer, Full Stackhttps://www.skydio.com/jobs/5655fbe3-66b0-4951-afdc-3b67f71e...I am a Senior Director of Engineering there and a YC S18 alumni, you can reach me at { vincent dot lecrubier at skydio dot com } but please apply online first!
@@ -1223,14 +1223,14 @@ Skydio is the leading U.S. drone company and world leader in autonomous flight. 
 reply
 
 jacksondc
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Conductor | San Francisco, ONSITE | Full-time
@@ -1240,14 +1240,14 @@ Conductor is an app that lets you run a team of coding agents on your Mac. We've
 reply
 
 mwest1066
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 PrairieLearn (Remote US) — Full-Stack Software Engineer — TypeScript / Postgres / React / AI
@@ -1257,14 +1257,14 @@ PrairieLearn (https://www.prairielearn.com) is an open-source assessment platfor
 reply
 
 obayesshelton
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Alterdd | Lead Engineer (First Hire) | London/Cambridge, UK | Hybrid | £60k + Early-stage EMI Equity
@@ -1278,14 +1278,14 @@ Hybrid working (2-3 days a week in person) in London or Cambridge. The interview
 reply
 
 felix-h
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 eventfirst | Senior Full-Stack Engineer | Berlin, Germany | REMOTE (CET) | Full-time
@@ -1297,14 +1297,14 @@ We have pre-seed funding from a major US VC and are experienced founders. You’
 reply
 
 dipshady
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 BIT Capital | Principal Engineer (Data & Platform) | Berlin, Germany | ONSITE (2 days/week) | Full-time
@@ -1314,17 +1314,17 @@ Looking for experienced engineers to build and scale infrastructure and data pla
 reply
 
 dazbradbury
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-OpenRent | London, UK | Full-Time | ONSITE+PART REMOTE | 
+OpenRent | London, UK | Full-Time | ONSITE+PART REMOTE |
 https://www.openrent.co.uk
 
 What sucked the last time you rented a house or flat? Come and fix it.OpenRent is a force for good in an industry tarnished by rip-off agencies. Enabled by an unrelenting focus on technology, we let more properties than any agency in the UK. In the last 12m we let over £50 billion worth of property, to over 8 million registered users, without ever charging any admin fees.You'll be working on solving every aspect of the rental journey, from models to predict the right price of a property, to building the future of property management, all to help tenants find their dream home, and landlords their ideal tenant.We're VC backed, profitable, and have plenty of ambition to maintain our fast growth in this absolutely massive market.Roles currently available:- Senior Full-Stack Engineer | Equity | 110k+ (based on experience) + quarterly bonus
@@ -1333,14 +1333,14 @@ What sucked the last time you rented a house or flat? Come and fix it.OpenRent i
 reply
 
 zurab-workwhile
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 WorkWhile | Senior & Staff Engineers (Backend, Full Stack) | San Francisco, New York, Seattle, Toronto | Hybrid | Full Time
@@ -1350,14 +1350,14 @@ I'm an EM at WorkWhile. We're an ML-powered labor marketplace on a mission to he
 reply
 
 beaconai
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Beacon AI | San Carlos, CA | Hybrid (On-Site) | Full-Time | www.beaconai.co
@@ -1367,14 +1367,14 @@ Beacon AI builds intelligent systems that make aviation safer and more autonomou
 reply
 
 devinbhushan
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Squint | Onsite, San Francisco + remote for some roles | Squint is the leading manufacturing intelligence platform. We're leveraging the latest in AI, spatial, and hardware capabilities to accelerate human potential and spark the next industrial revolution.
@@ -1384,14 +1384,14 @@ What makes Squint special?- Our customers include some of the most iconic manufa
 reply
 
 karamazov
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Espresso AI | Staff ML & Staff Infra Engineers | Brooklyn or San Francisco | Full time
@@ -1401,14 +1401,14 @@ We're using LLMs to build neural optimizers, neural scheduling systems, and neur
 reply
 
 jul23
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Amodo Design (
@@ -1421,14 +1421,14 @@ You’ll work on the projects best suited for you. Projects range widely, and in
 reply
 
 zipy124
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Your career URL is a 404, I think it should be careers plural.
@@ -1436,14 +1436,14 @@ Your career URL is a 404, I think it should be careers plural.
 reply
 
 rubyrenegade
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Ascertain | NYC (Hybrid) | Senior Product Engineer | Python, FastAPI, TypeScript
@@ -1453,14 +1453,14 @@ We’re building software to fix messy, real-world healthcare workflows—the ki
 reply
 
 Dsuniga14
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Oscilar.com | Sr/Staff Software Engineers & PM | REMOTE (US/Canada/Brazil/Poland/UK) | Full-time AI Risk Decisioning™ platform that helps organizations manage onboarding, fraud, credit, and compliance risks
@@ -1477,14 +1477,14 @@ Apply at:https://jobs.ashbyhq.com/oscilar?utm_source=HackerNews
 reply
 
 stemcanuck
- 
+
 2 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [1 more]
 
 applied!
@@ -1492,17 +1492,17 @@ applied!
 reply
 
 tracebit
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Tracebit | 
+Tracebit |
 https://tracebit.com/
 | London/New York| Full-Time
 
@@ -1511,14 +1511,14 @@ Tracebit is an Accel backed, UK founded security product company taking a new lo
 reply
 
 f0rk
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Veritus | Full Stack Developer | San Francisco (Hybrid)
@@ -1528,14 +1528,14 @@ Veritus is reinventing loan servicing and debt collection with AI. Our platform 
 reply
 
 uczekalla
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 CodeWeavers | Toronto, ON, CA | Full Time Contract | On-site | Software Developer Port Jump Team | macOS and Linux development
@@ -1545,14 +1545,14 @@ https://www.codeweavers.com/about/jobsCodeWeavers is seeking a full-time develop
 reply
 
 Redeker_15_Beep
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Temporal Technologies | Multiple positions in United States - WORK FROM HOME | FULL-TIME |
@@ -1562,14 +1562,14 @@ Temporal offers an entirely new way to build scalable and reliable applications.
 reply
 
 cpswaim
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 ReadWorks (YC-backed nonprofit - Imagine K12 F'14) | REMOTE (US) | Contract, part-time (~20 hrs/week) | $70–110/hr
@@ -1582,14 +1582,14 @@ ReadWorks is a nonprofit that provides free, research-based reading comprehensio
 reply
 
 kyle_neon
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Neon Health | AI in healthcare | Hiring Eng, Product & Growth | SF, Remote (North America)
@@ -1602,17 +1602,17 @@ Neon Health | AI in healthcare | Hiring Eng, Product & Growth | SF, Remote (Nort
 reply
 
 logicallee
- 
+
 28 minutes ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Volunteer (unpaid) | remote anywhere | Infrastructure Engineer | Part time | 
+Volunteer (unpaid) | remote anywhere | Infrastructure Engineer | Part time |
 https://getinstaprep.com
 
 We'd like to feed the world through AI, here is our product concept:https://taonexus.com/publicfiles/mar2026/render%203-2.webphttps://taonexus.com/publicfiles/mar2026/render%204.webpWe currently donate money to food banks and would like to set up end-to-end infrastructure so we could deliver free food to people's homes. Our concept is that AI does all the work (including farming) and gives away free goods and services. Where this runs into problems is the question of who's going to make and distribute food and how people are going to get it. While we haven't figured out all parts of food delivery we'd like to work on the distribution channel. We think it's very important.What we're looking for is someone who is passionate about owning network infrastructure in people's homes and would like to help run the software stack, since at the moment AI is not talented enough to autonomously run the full infrastructure stack. This is an unpaid volunteer position.What you would be in charge of is food distribution algorithms, equality, fairness, and the long-term future for humanity.You can email me directly at: rviragh@gmail.com - please mention relevant volunteering or organizations you support.
@@ -1620,17 +1620,17 @@ We'd like to feed the world through AI, here is our product concept:https://taon
 reply
 
 MKK
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-Hover | 
+Hover |
 https://hover.to
  | San Francisco, CA | ONSITE | Full-time
 
@@ -1639,14 +1639,14 @@ Roles:- Software Engineer, 3D Modeling- Senior Software Engineer, 3D ModelingThe
 reply
 
 brynnbee
- 
+
 44 minutes ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 The main section of your website (on any page) fails to load on Firefox in MacOS, just as a heads up if you want to pass that on.
@@ -1654,14 +1654,14 @@ The main section of your website (on any page) fails to load on Firefox in MacOS
 reply
 
 JeremyTheo
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Cologne, Germany | UMH | Product Engineer | Full-time | 55 - 85k EUR | ONSITE (part remote)
@@ -1671,14 +1671,14 @@ Hi, Alex and Jeremy here from UMH.8 years ago, Jeremy was absolutely frustrated 
 reply
 
 TechRealEstate
- 
+
 3 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Assembly | Founding Engineer | New York City, Onsite | Full-Time
@@ -1688,14 +1688,14 @@ Assembly is a vertically-integrated, technology-native holding company that acqu
 reply
 
 causalinf379
- 
+
 3 hours ago
- 
- | 
+
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Looks interesting and have always wondered if/why more real estate companies aren't taking a tech-first approach.
@@ -1705,16 +1705,16 @@ How did you decide on doing this for industrial instead of (for example) residen
 reply
 
 TechRealEstate
- 
+
 3 hours ago
- 
- | 
+
+ |
 root
- | 
+ |
 parent
- | 
+ |
 next
- 
+
 [–]
 
 Thanks! We are focused on a particular vertical in real estate we believe offers an unusually compelling risk / return skew given structural growth in demand and significant barriers to new supply. No issue with relatively little experience in finance (our team has plenty) or real estate (our team also has plenty) if a strong fit for the engineering needs of this role!
@@ -1722,14 +1722,14 @@ Thanks! We are focused on a particular vertical in real estate we believe offers
 reply
 
 codegodnvn
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Agoda, Makemytrip, SPOOLD, EXPEDIA
@@ -1737,17 +1737,17 @@ Agoda, Makemytrip, SPOOLD, EXPEDIA
 reply
 
 kdumont
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
-AllSpice | 
+AllSpice |
 https://allspice.io/
  | Boston, MA / SF Hybrid or Remote | Full time (US timezones) | Mid/Sr./Principal/Staff | Golang, Vuejs, Rust, Typescript, Python
 
@@ -1756,32 +1756,32 @@ At AllSpice, we're building the future of hardware development and collaboration
 reply
 
 _puk
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Duel | Tech Lead / Staff Engineer | Bristol, UK (Hybrid)
 
-Tech stack: Angular moving to React | Node / Bun | ECS | Mongo | SnowflakeSmall team doing big things.We've taken the team AI native, the platform will be there withing a few months. An existing v1 platform built with "boring" technologies allows us to make sure money and data remain safe whilst ensuring the frontend can be built at the speed that AI enables.One of our team is taking everything they've been playing with for the last couple of years and stepping in to a YC principal role with our blessing. We're looking for their replacement to help continue bringing the team to the same level.We've spent years creating the brand advocacy category, and are now seeing huge growth in all areas. We took Series A last year, are seeing massive growth, and still finding the time to have fun.You need to back yourself. We'll expect a lot form you, but you'll be given the autonomy you need to do your best work. 
+Tech stack: Angular moving to React | Node / Bun | ECS | Mongo | SnowflakeSmall team doing big things.We've taken the team AI native, the platform will be there withing a few months. An existing v1 platform built with "boring" technologies allows us to make sure money and data remain safe whilst ensuring the frontend can be built at the speed that AI enables.One of our team is taking everything they've been playing with for the last couple of years and stepping in to a YC principal role with our blessing. We're looking for their replacement to help continue bringing the team to the same level.We've spent years creating the brand advocacy category, and are now seeing huge growth in all areas. We took Series A last year, are seeing massive growth, and still finding the time to have fun.You need to back yourself. We'll expect a lot form you, but you'll be given the autonomy you need to do your best work.
 We focus on hiring bloody brilliant, utterly lovely people.No recruiters. The role is being opened as we speak (I'm on holiday, spotted the who is hiring!); for now, please reach out to: joe via duel.tech.
 
 reply
 
 shepherd-eng
- 
+
 4 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Shepherd (Series B) | ONSITE | San Francisco, CA
@@ -1791,14 +1791,14 @@ At Shepherd, we're pursuing the most ambitious technical vision in commercial in
 reply
 
 gabriel_at_hike
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 Hike Medical | Boston or San Francisco (ONSITE) | Senior+ Software Engineer
@@ -1811,14 +1811,14 @@ Helpful Characteristics* Product-Minded Engineer – You think about how your wo
 reply
 
 dhatch387
- 
+
 2 hours ago
- 
- | 
+
+ |
 prev
- | 
+ |
 next
- 
+
 [–]
 
 North Island Ventures | Software Engineer | NYC (4x / wk in office) | ONSITE
@@ -1828,12 +1828,12 @@ North Island Ventures is a crypto-focused investment firm. We are hiring a 2nd e
 reply
 
 kaliades
- 
+
 1 hour ago
- 
- | 
+
+ |
 prev
- 
+
 [–]
 
 BetterDB (
@@ -1859,19 +1859,19 @@ BetterDB is building the tooling ecosystem for Valkey, the high-performance Redi
 reply
 
 Guidelines
- | 
+ |
 FAQ
- | 
+ |
 Lists
- | 
+ |
 API
- | 
+ |
 Security
- | 
+ |
 Legal
- | 
+ |
 Apply to YC
- | 
+ |
 Contact
 
 Search:

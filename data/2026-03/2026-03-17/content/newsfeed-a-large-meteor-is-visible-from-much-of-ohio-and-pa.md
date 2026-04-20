@@ -29,21 +29,21 @@ In this case, the “boom” was not due to breaking the sound barrier, like a s
 No further information was available about the size and impacts of the meteor as of mid-morning on Tuesday. This story will be updated if additional information becomes available.
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
  Eric Berger
- 
+
 
 Senior Space Editor
 
- Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books: 
+ Eric Berger is the senior space editor at Ars Technica, covering everything from astronomy to private space to NASA policy, and author of two books:
 Liftoff
-, about the rise of SpaceX; and 
+, about the rise of SpaceX; and
 Reentry
 , on the development of the Falcon 9 rocket and Dragon. A certified meteorologist, Eric lives in Houston.
- 
+
 
 1. 1.Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups
 2. 2.Elon Musk's xAI sued for turning three girls' real photos into AI CSAM

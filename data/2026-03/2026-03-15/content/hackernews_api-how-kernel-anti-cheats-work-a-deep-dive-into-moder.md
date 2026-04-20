@@ -15,17 +15,17 @@ tags:
 ---
 
 How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection
- 
- 
- 
- 
+
+
+
+
 Contents
- 
- 
- 
+
+
+
 How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection
- 
- 
+
+
 
 Modern kernel anti-cheat systems are, without exaggeration, among the most sophisticated pieces of software running on consumer Windows machines. They operate at the highest privilege level available to software, they intercept kernel callbacks that were designed for legitimate security products, they scan memory structures that most programmers never touch in their entire careers, and they do all of this transparently while a game is running. If you have ever wondered how BattlEye actually catches a cheat, or why Vanguard insists on loading before Windows boots, or what it means for a PCIe DMA device to bypass every single one of these protections, this post is for you.
 
@@ -131,8 +131,8 @@ This is the foundation of everything a kernel anti-cheat does. The Windows kerne
 
 ObRegisterCallbacksis perhaps the single most important API for process protection. It allows a driver to register a callback that is invoked whenever a handle to a specified object type is opened or duplicated. For anti-cheat purposes, the object types of interest arePsProcessTypeandPsThreadType.
 
- 
- 
+
+
 1
 2
 3
@@ -160,24 +160,24 @@ ObRegisterCallbacksis perhaps the single most important API for process protecti
 25
 
 OB_CALLBACK_REGISTRATION
- 
+
 callbackReg
- 
+
 =
- 
+
 {
 0
 };
 
 OB_OPERATION_REGISTRATION
- 
+
 opReg
 [
 2
 ]
- 
+
 =
- 
+
 {
 0
 };
@@ -185,11 +185,11 @@ opReg
 // Altitude string is required - must be unique per driver
 
 UNICODE_STRING
- 
+
 altitude
- 
+
 =
- 
+
 RTL_CONSTANT_STRING
 (
 L"31001"
@@ -202,9 +202,9 @@ opReg
 0
 ].
 ObjectType
- 
+
 =
- 
+
 PsProcessType
 ;
 
@@ -213,13 +213,13 @@ opReg
 0
 ].
 Operations
- 
+
 =
- 
+
 OB_OPERATION_HANDLE_CREATE
- 
+
 |
- 
+
 OB_OPERATION_HANDLE_DUPLICATE
 ;
 
@@ -228,9 +228,9 @@ opReg
 0
 ].
 PreOperation
- 
+
 =
- 
+
 ObPreOperationCallback
 ;
 
@@ -239,9 +239,9 @@ opReg
 0
 ].
 PostOperation
- 
+
 =
- 
+
 ObPostOperationCallback
 ;
 
@@ -252,9 +252,9 @@ opReg
 1
 ].
 ObjectType
- 
+
 =
- 
+
 PsThreadType
 ;
 
@@ -263,13 +263,13 @@ opReg
 1
 ].
 Operations
- 
+
 =
- 
+
 OB_OPERATION_HANDLE_CREATE
- 
+
 |
- 
+
 OB_OPERATION_HANDLE_DUPLICATE
 ;
 
@@ -278,9 +278,9 @@ opReg
 1
 ].
 PreOperation
- 
+
 =
- 
+
 ObPreOperationCallback
 ;
 
@@ -289,69 +289,69 @@ opReg
 1
 ].
 PostOperation
- 
+
 =
- 
+
 NULL
 ;
 
 callbackReg
 .
 Version
- 
+
 =
- 
+
 OB_FLT_REGISTRATION_VERSION
 ;
 
 callbackReg
 .
 OperationRegistrationCount
- 
+
 =
- 
+
 2
 ;
 
 callbackReg
 .
 Altitude
- 
+
 =
- 
+
 altitude
 ;
 
 callbackReg
 .
 RegistrationContext
- 
+
 =
- 
+
 NULL
 ;
 
 callbackReg
 .
 OperationRegistration
- 
+
 =
- 
+
 opReg
 ;
 
 NTSTATUS
- 
+
 status
- 
+
 =
- 
+
 ObRegisterCallbacks
 (
 &
 callbackReg
 ,
- 
+
 &
 gCallbackHandle
 );
@@ -368,8 +368,8 @@ ObCallbackDemo.sys in action. DebugView shows the driver stripping handle access
 
 PsSetCreateProcessNotifyRoutineExallows a driver to register a callback that fires on every process creation and termination event system-wide. The callback receives aPEPROCESSfor the process, the PID, and aPPS_CREATE_NOTIFY_INFOstructure containing details about the process being created (image name, command line, parent PID).
 
- 
- 
+
+
 1
 2
 3
@@ -395,87 +395,87 @@ PsSetCreateProcessNotifyRoutineExallows a driver to register a callback that fir
 23
 
 VOID
- 
+
 ProcessNotifyCallback
 (
 
- 
+
 PEPROCESS
- 
+
 Process
 ,
 
- 
+
 HANDLE
- 
+
 ProcessId
 ,
 
- 
+
 PPS_CREATE_NOTIFY_INFO
- 
+
 CreateInfo
 
 )
 
 {
 
- 
+
 if
- 
+
 (
 CreateInfo
- 
+
 ==
- 
+
 NULL
 )
- 
+
 {
 
- 
+
 // Process is terminating
 
- 
+
 HandleProcessTermination
 (
 Process
 ,
- 
+
 ProcessId
 );
 
- 
+
 return
 ;
 
- 
+
 }
 
- 
+
 // Process is being created
 
- 
+
 if
- 
+
 (
 CreateInfo
 ->
 ImageFileName
- 
+
 !=
- 
+
 NULL
 )
- 
+
 {
 
- 
+
 // Check if this is a known cheat process
 
- 
+
 if
- 
+
 (
 IsKnownCheatProcess
 (
@@ -483,26 +483,26 @@ CreateInfo
 ->
 ImageFileName
 ))
- 
+
 {
 
- 
+
 // Set an error status to prevent the process from launching
 
- 
+
 CreateInfo
 ->
 CreationStatus
- 
+
 =
- 
+
 STATUS_ACCESS_DENIED
 ;
 
- 
+
 }
 
- 
+
 }
 
 }
@@ -511,7 +511,7 @@ PsSetCreateProcessNotifyRoutineEx
 (
 ProcessNotifyCallback
 ,
- 
+
 FALSE
 );
 
@@ -523,8 +523,8 @@ Anti-cheats use this callback to detect cheat tool processes spawning on the sys
 
 PsSetCreateThreadNotifyRoutinefires on every thread creation and termination system-wide. Anti-cheats use it specifically to detect thread creation in the protected game process. When a new thread is created in the game process, the callback fires and the anti-cheat can inspect the thread’s start address.
 
- 
- 
+
+
 1
 2
 3
@@ -547,116 +547,116 @@ PsSetCreateThreadNotifyRoutinefires on every thread creation and termination sys
 20
 
 VOID
- 
+
 ThreadNotifyCallback
 (
 HANDLE
- 
+
 ProcessId
 ,
- 
+
 HANDLE
- 
+
 ThreadId
 ,
- 
+
 BOOLEAN
- 
+
 Create
 )
 
 {
 
- 
+
 if
- 
+
 (
 !
 Create
 )
- 
+
 return
 ;
 
- 
+
 if
- 
+
 (
 IsProtectedProcess
 (
 ProcessId
 ))
- 
+
 {
 
- 
+
 PETHREAD
- 
+
 Thread
 ;
 
- 
+
 PsLookupThreadByThreadId
 (
 ThreadId
 ,
- 
+
 &
 Thread
 );
 
- 
+
 // Get the thread start address - this is stored in ETHREAD
 
- 
+
 PVOID
- 
+
 StartAddress
- 
+
 =
- 
+
 PsGetThreadWin32StartAddress
 (
 Thread
 );
 
- 
+
 // Check if start address is within a known module
 
- 
+
 if
- 
+
 (
 !
 IsAddressInKnownModule
 (
 StartAddress
 ))
- 
+
 {
 
- 
+
 // Thread started at an address with no backing module - suspicious
 
- 
+
 FlagSuspiciousThread
 (
 Thread
 ,
- 
+
 StartAddress
 );
 
- 
+
 }
 
- 
+
 ObDereferenceObject
 (
 Thread
 );
 
- 
+
 }
 
 }
@@ -669,8 +669,8 @@ A thread created in the game process whose start address does not fall within an
 
 PsSetLoadImageNotifyRoutinefires whenever an image (DLL or EXE) is mapped into any process. It provides the image file name and aPIMAGE_INFOstructure containing the base address and size.
 
- 
- 
+
+
 1
 2
 3
@@ -688,78 +688,78 @@ PsSetLoadImageNotifyRoutinefires whenever an image (DLL or EXE) is mapped into a
 15
 
 VOID
- 
+
 LoadImageCallback
 (
 
- 
+
 PUNICODE_STRING
- 
+
 FullImageName
 ,
 
- 
+
 HANDLE
- 
+
 ProcessId
 ,
 
- 
+
 PIMAGE_INFO
- 
+
 ImageInfo
 
 )
 
 {
 
- 
+
 if
- 
+
 (
 IsProtectedProcess
 (
 ProcessId
 ))
- 
+
 {
 
- 
+
 // A DLL was loaded into the protected game process
 
- 
+
 // Verify it's on the allowlist or check its signature
 
- 
+
 if
- 
+
 (
 !
 IsAllowedModule
 (
 FullImageName
 ))
- 
+
 {
 
- 
+
 // Log and potentially act on this
 
- 
+
 ReportSuspiciousModule
 (
 FullImageName
 ,
- 
+
 ImageInfo
 ->
 ImageBase
 );
 
- 
+
 }
 
- 
+
 }
 
 }
@@ -770,8 +770,8 @@ This is IRQLPASSIVE_LEVEL. The callback fires after the image is mapped but befo
 
 CmRegisterCallbackExregisters a callback for registry operations. Anti-cheats use this to monitor for registry modifications that might indicate cheats configuring themselves or attempting to modify anti-cheat settings.
 
- 
- 
+
+
 1
 2
 3
@@ -792,42 +792,42 @@ CmRegisterCallbackExregisters a callback for registry operations. Anti-cheats us
 18
 
 NTSTATUS
- 
+
 RegistryCallback
 (
 
- 
+
 PVOID
- 
+
 CallbackContext
 ,
 
- 
+
 PVOID
- 
+
 Argument1
 ,
- 
+
 // REG_NOTIFY_CLASS
 
- 
+
 PVOID
- 
+
 Argument2
- 
+
 // Operation-specific data
 
 )
 
 {
 
- 
+
 REG_NOTIFY_CLASS
- 
+
 notifyClass
- 
+
 =
- 
+
 (
 REG_NOTIFY_CLASS
 )(
@@ -836,39 +836,39 @@ ULONG_PTR
 Argument1
 ;
 
- 
+
 if
- 
+
 (
 notifyClass
- 
+
 ==
- 
+
 RegNtPreSetValueKey
 )
- 
+
 {
 
- 
+
 PREG_SET_VALUE_KEY_INFORMATION
- 
+
 info
- 
+
 =
 
- 
+
 (
 PREG_SET_VALUE_KEY_INFORMATION
 )
 Argument2
 ;
 
- 
+
 // Check if someone is modifying anti-cheat registry keys
 
- 
+
 if
- 
+
 (
 IsProtectedRegistryKey
 (
@@ -876,24 +876,24 @@ info
 ->
 Object
 ))
- 
+
 {
 
- 
+
 return
- 
+
 STATUS_ACCESS_DENIED
 ;
 
- 
+
 }
 
- 
+
 }
 
- 
+
 return
- 
+
 STATUS_SUCCESS
 ;
 
@@ -903,8 +903,8 @@ STATUS_SUCCESS
 
 A minifilter driver sits in the file system filter stack and intercepts IRP requests going to and from file system drivers. Anti-cheats use minifilters to monitor for cheat file drops (writing known cheat executables or DLLs to disk), to detect reads of their own driver files (which might indicate attempts to patch the on-disk driver binary before it is verified), and to enforce file access restrictions.
 
- 
- 
+
+
 1
 2
 3
@@ -927,25 +927,25 @@ A minifilter driver sits in the file system filter stack and intercepts IRP requ
 20
 
 FLT_PREOP_CALLBACK_STATUS
- 
+
 PreOperationCallback
 (
 
- 
+
 PFLT_CALLBACK_DATA
- 
+
 Data
 ,
 
- 
+
 PCFLT_RELATED_OBJECTS
- 
+
 FltObjects
 ,
 
- 
+
 PVOID
- 
+
 *
 CompletionContext
 
@@ -953,48 +953,48 @@ CompletionContext
 
 {
 
- 
+
 if
- 
+
 (
 Data
 ->
 Iopb
 ->
 MajorFunction
- 
+
 ==
- 
+
 IRP_MJ_WRITE
 )
- 
+
 {
 
- 
+
 // Check if the target file is a known cheat file name
 
- 
+
 PFLT_FILE_NAME_INFORMATION
- 
+
 nameInfo
 ;
 
- 
+
 FltGetFileNameInformation
 (
 Data
 ,
- 
+
 FLT_FILE_NAME_NORMALIZED
 ,
- 
+
 &
 nameInfo
 );
 
- 
+
 if
- 
+
 (
 IsKnownCheatFileName
 (
@@ -1003,48 +1003,48 @@ nameInfo
 ->
 Name
 ))
- 
+
 {
 
- 
+
 Data
 ->
 IoStatus
 .
 Status
- 
+
 =
- 
+
 STATUS_ACCESS_DENIED
 ;
 
- 
+
 FltReleaseFileNameInformation
 (
 nameInfo
 );
 
- 
+
 return
- 
+
 FLT_PREOP_COMPLETE
 ;
 
- 
+
 }
 
- 
+
 FltReleaseFileNameInformation
 (
 nameInfo
 );
 
- 
+
 }
 
- 
+
 return
- 
+
 FLT_PREOP_SUCCESS_NO_CALLBACK
 ;
 
@@ -1066,8 +1066,8 @@ However, a kernel-mode cheat can bypass this entirely. It can callMmCopyVirtualM
 
 Anti-cheats periodically hash the code sections (.textsections) of the game executable and its core DLLs. A baseline hash is computed at game start, and periodic re-hashes are compared against the baseline. If the hash changes, someone has written to game code, which is a strong indicator of code patching (commonly used to enable no-recoil, speed, or aimbot functionality by patching game logic).
 
- 
- 
+
+
 1
 2
 3
@@ -1103,104 +1103,104 @@ Anti-cheats periodically hash the code sections (.textsections) of the game exec
 // Pseudocode for code section integrity checking
 
 BOOLEAN
- 
+
 VerifyCodeSectionIntegrity
 (
 PEPROCESS
- 
+
 Process
 ,
- 
+
 PVOID
- 
+
 ModuleBase
 )
 
 {
 
- 
+
 // Attach to process context to read its memory
 
- 
+
 KAPC_STATE
- 
+
 apcState
 ;
 
- 
+
 KeStackAttachProcess
 (
 Process
 ,
- 
+
 &
 apcState
 );
 
- 
+
 // Parse PE headers to find .text section
 
- 
+
 PIMAGE_NT_HEADERS
- 
+
 ntHeaders
- 
+
 =
- 
+
 RtlImageNtHeader
 (
 ModuleBase
 );
 
- 
+
 PIMAGE_SECTION_HEADER
- 
+
 section
- 
+
 =
- 
+
 IMAGE_FIRST_SECTION
 (
 ntHeaders
 );
 
- 
+
 for
- 
+
 (
 USHORT
- 
+
 i
- 
+
 =
- 
+
 0
 ;
- 
+
 i
- 
+
 <
- 
+
 ntHeaders
 ->
 FileHeader
 .
 NumberOfSections
 ;
- 
+
 i
 ++
 ,
- 
+
 section
 ++
 )
- 
+
 {
 
- 
+
 if
- 
+
 (
 memcmp
 (
@@ -1208,48 +1208,48 @@ section
 ->
 Name
 ,
- 
+
 ".text"
 ,
- 
+
 5
 )
- 
+
 ==
- 
+
 0
 )
- 
+
 {
 
- 
+
 PVOID
- 
+
 sectionBase
- 
+
 =
- 
+
 (
 PVOID
 )((
 ULONG_PTR
 )
 ModuleBase
- 
+
 +
- 
+
 section
 ->
 VirtualAddress
 );
 
- 
+
 ULONG
- 
+
 sectionSize
- 
+
 =
- 
+
 section
 ->
 Misc
@@ -1257,88 +1257,88 @@ Misc
 VirtualSize
 ;
 
- 
+
 // Compute hash of current code section contents
 
- 
+
 UCHAR
- 
+
 currentHash
 [
 32
 ];
 
- 
+
 ComputeSHA256
 (
 sectionBase
 ,
- 
+
 sectionSize
 ,
- 
+
 currentHash
 );
 
- 
+
 // Compare against stored baseline hash
 
- 
+
 if
- 
+
 (
 memcmp
 (
 currentHash
 ,
- 
+
 gBaselineHash
 ,
- 
+
 32
 )
- 
+
 !=
- 
+
 0
 )
- 
+
 {
 
- 
+
 KeUnstackDetachProcess
 (
 &
 apcState
 );
 
- 
+
 return
- 
+
 FALSE
 ;
- 
+
 // Code modification detected
 
- 
+
 }
 
- 
+
 }
 
- 
+
 }
 
- 
+
 KeUnstackDetachProcess
 (
 &
 apcState
 );
 
- 
+
 return
- 
+
 TRUE
 ;
 
@@ -1352,8 +1352,8 @@ The most interesting memory scanning is the heuristic detection of manually mapp
 
 The key heuristic is: find all executable memory regions in the process, then cross-reference each one against the list of loaded modules. Executable memory that does not correspond to any loaded module is suspicious.
 
- 
- 
+
+
 1
 2
 3
@@ -1393,182 +1393,182 @@ The key heuristic is: find all executable memory regions in the process, then cr
 // Walk the VAD tree to find executable anonymous mappings
 
 VOID
- 
+
 ScanForManuallyMappedCode
 (
 PEPROCESS
- 
+
 Process
 )
 
 {
 
- 
+
 KAPC_STATE
- 
+
 apcState
 ;
 
- 
+
 KeStackAttachProcess
 (
 Process
 ,
- 
+
 &
 apcState
 );
 
- 
+
 PVOID
- 
+
 baseAddress
- 
+
 =
- 
+
 NULL
 ;
 
- 
+
 MEMORY_BASIC_INFORMATION
- 
+
 mbi
 ;
 
- 
+
 while
- 
+
 (
 NT_SUCCESS
 (
 ZwQueryVirtualMemory
 (
 
- 
+
 ZwCurrentProcess
 (),
 
- 
+
 baseAddress
 ,
 
- 
+
 MemoryBasicInformation
 ,
 
- 
+
 &
 mbi
 ,
 
- 
+
 sizeof
 (
 mbi
 ),
 
- 
+
 NULL
 )))
 
- 
+
 {
 
- 
+
 if
- 
+
 (
 mbi
 .
 State
- 
+
 ==
- 
+
 MEM_COMMIT
- 
+
 &&
 
- 
+
 (
 mbi
 .
 Protect
- 
+
 &
- 
+
 PAGE_EXECUTE_READ
- 
+
 ||
 
- 
+
 mbi
 .
 Protect
- 
+
 &
- 
+
 PAGE_EXECUTE_READWRITE
- 
+
 ||
 
- 
+
 mbi
 .
 Protect
- 
+
 &
- 
+
 PAGE_EXECUTE_WRITECOPY
 )
- 
+
 &&
 
- 
+
 mbi
 .
 Type
- 
+
 ==
- 
+
 MEM_PRIVATE
 )
- 
+
 // Private, not file-backed
 
- 
+
 {
 
- 
+
 // Executable private memory - not associated with any file mapping
 
- 
+
 // This is a strong indicator of manually mapped or shellcode
 
- 
+
 ReportSuspiciousRegion
 (
 mbi
 .
 BaseAddress
 ,
- 
+
 mbi
 .
 RegionSize
 ,
 
- 
+
 "Executable private memory without file backing"
 );
 
- 
+
 }
 
- 
+
 baseAddress
- 
+
 =
- 
+
 (
 PVOID
 )((
@@ -1577,36 +1577,36 @@ ULONG_PTR
 mbi
 .
 BaseAddress
- 
+
 +
- 
+
 mbi
 .
 RegionSize
 );
 
- 
+
 if
- 
+
 ((
 ULONG_PTR
 )
 baseAddress
- 
+
 >=
- 
+
 0x7FFFFFFFFFFF
 )
- 
+
 break
 ;
- 
+
 // User space limit
 
- 
+
 }
 
- 
+
 KeUnstackDetachProcess
 (
 &
@@ -1623,8 +1623,8 @@ The VAD (Virtual Address Descriptor) tree is a kernel-internal structure that th
 
 Anti-cheats walk the VAD tree directly rather than relying onZwQueryVirtualMemory, because the VAD tree cannot be trivially hidden from kernel mode in the same way that module lists can be manipulated. Walking the VAD:
 
- 
- 
+
+
 1
 2
 3
@@ -1658,43 +1658,43 @@ Anti-cheats walk the VAD tree directly rather than relying onZwQueryVirtualMemor
 // Simplified VAD walker - actual offsets are version-specific
 
 VOID
- 
+
 WalkVAD
 (
 PEPROCESS
- 
+
 Process
 )
 
 {
 
- 
+
 // VadRoot is at a version-specific offset in EPROCESS
 
- 
+
 // On Windows 11 23H2, this is at EPROCESS+0x7D8 (https://www.vergiliusproject.com/kernels/x64/windows-11/23h2/_EPROCESS)
 
- 
+
 PMM_AVL_TABLE
- 
+
 vadRoot
- 
+
 =
- 
+
 (
 PMM_AVL_TABLE
 )((
 ULONG_PTR
 )
 Process
- 
+
 +
 
- 
+
 EPROCESS_VAD_ROOT_OFFSET
 );
 
- 
+
 WalkAVLTree
 (
 vadRoot
@@ -1707,52 +1707,52 @@ RightChild
 }
 
 VOID
- 
+
 WalkAVLTree
 (
 PMMADDRESS_NODE
- 
+
 node
 )
 
 {
 
- 
+
 if
- 
+
 (
 node
- 
+
 ==
- 
+
 NULL
 )
- 
+
 return
 ;
 
- 
+
 PMMVAD
- 
+
 vad
- 
+
 =
- 
+
 (
 PMMVAD
 )
 node
 ;
 
- 
+
 // Check the VAD flags for suspicious characteristics
 
- 
+
 // u.VadFlags.PrivateMemory = 1 and executable protection = suspicious
 
- 
+
 if
- 
+
 (
 vad
 ->
@@ -1761,9 +1761,9 @@ u
 VadFlags
 .
 PrivateMemory
- 
+
 &&
- 
+
 IsExecutableProtection
 (
 vad
@@ -1774,40 +1774,40 @@ VadFlags
 .
 Protection
 ))
- 
+
 {
 
- 
+
 // Check for file-backed backing
 
- 
+
 if
- 
+
 (
 vad
 ->
 Subsection
- 
+
 ==
- 
+
 NULL
 )
- 
+
 {
 
- 
+
 ReportSuspiciousVAD
 (
 vad
 );
 
- 
+
 }
 
- 
+
 }
 
- 
+
 WalkAVLTree
 (
 node
@@ -1815,7 +1815,7 @@ node
 LeftChild
 );
 
- 
+
 WalkAVLTree
 (
 node
@@ -1845,8 +1845,8 @@ QueueUserAPCand the underlyingNtQueueApcThreadallow queuing an Asynchronous Proc
 
 Detection at the kernel level leverages theKAPCstructure. Each thread has a kernel APC queue and a user APC queue. Anti-cheats can inspect the pending APC queue of game process threads to detect suspicious APC targets:
 
- 
- 
+
+
 1
 2
 3
@@ -1874,111 +1874,111 @@ Detection at the kernel level leverages theKAPCstructure. Each thread has a kern
 // Check for suspicious pending APCs on a thread
 
 VOID
- 
+
 InspectThreadAPCQueue
 (
 PETHREAD
- 
+
 Thread
 )
 
 {
 
- 
+
 // The user APC queue is at a version-specific offset in ETHREAD
 
- 
+
 // ETHREAD::ApcState::ApcListHead[1] (index 1 = user APC list)
 
- 
+
 PLIST_ENTRY
- 
+
 apcList
- 
+
 =
- 
+
 (
 PLIST_ENTRY
 )((
 ULONG_PTR
 )
 Thread
- 
+
 +
 
- 
+
 ETHREAD_APC_STATE_OFFSET
- 
+
 +
 
- 
+
 KAPC_STATE_USER_APC_LIST_OFFSET
 );
 
- 
+
 PLIST_ENTRY
- 
+
 entry
- 
+
 =
- 
+
 apcList
 ->
 Flink
 ;
 
- 
+
 while
- 
+
 (
 entry
- 
+
 !=
- 
+
 apcList
 )
- 
+
 {
 
- 
+
 PKAPC
- 
+
 apc
- 
+
 =
- 
+
 CONTAINING_RECORD
 (
 entry
 ,
- 
+
 KAPC
 ,
- 
+
 ApcListEntry
 );
 
- 
+
 // Check if the normal routine (user APC function)
 
- 
+
 // points to an address without module backing
 
- 
+
 if
- 
+
 (
 apc
 ->
 NormalRoutine
- 
+
 !=
- 
+
 NULL
- 
+
 &&
 
- 
+
 !
 IsAddressInLoadedModule
 ((
@@ -1988,34 +1988,34 @@ apc
 ->
 NormalRoutine
 ))
- 
+
 {
 
- 
+
 ReportSuspiciousAPC
 (
 Thread
 ,
- 
+
 apc
 ->
 NormalRoutine
 );
 
- 
+
 }
 
- 
+
 entry
- 
+
 =
- 
+
 entry
 ->
 Flink
 ;
 
- 
+
 }
 
 }
@@ -2032,8 +2032,8 @@ Reflective DLL injection embeds a reflective loader inside the DLL that, when ex
 
 Detection: executable memory with a valid PE header (check for theMZmagic bytes and thePE\0\0signature at the offset specified bye_lfanew) but no corresponding module list entry. This is a reliable indicator.
 
- 
- 
+
+
 1
 2
 3
@@ -2054,139 +2054,139 @@ Detection: executable memory with a valid PE header (check for theMZmagic bytes 
 // Check for PE headers in executable private memory
 
 BOOLEAN
- 
+
 HasValidPEHeader
 (
 PVOID
- 
+
 base
 ,
- 
+
 SIZE_T
- 
+
 size
 )
 
 {
 
- 
+
 if
- 
+
 (
 size
- 
+
 <
- 
+
 sizeof
 (
 IMAGE_DOS_HEADER
 ))
- 
+
 return
- 
+
 FALSE
 ;
 
- 
+
 PIMAGE_DOS_HEADER
- 
+
 dosHeader
- 
+
 =
- 
+
 (
 PIMAGE_DOS_HEADER
 )
 base
 ;
 
- 
+
 if
- 
+
 (
 dosHeader
 ->
 e_magic
- 
+
 !=
- 
+
 IMAGE_DOS_SIGNATURE
 )
- 
+
 return
- 
+
 FALSE
 ;
 
- 
+
 if
- 
+
 (
 dosHeader
 ->
 e_lfanew
- 
+
 >=
- 
+
 size
- 
+
 -
- 
+
 sizeof
 (
 IMAGE_NT_HEADERS
 ))
- 
+
 return
- 
+
 FALSE
 ;
 
- 
+
 PIMAGE_NT_HEADERS
- 
+
 ntHeaders
- 
+
 =
- 
+
 (
 PIMAGE_NT_HEADERS
 )
 
- 
+
 ((
 ULONG_PTR
 )
 base
- 
+
 +
- 
+
 dosHeader
 ->
 e_lfanew
 );
 
- 
+
 if
- 
+
 (
 ntHeaders
 ->
 Signature
- 
+
 !=
- 
+
 IMAGE_NT_SIGNATURE
 )
- 
+
 return
- 
+
 FALSE
 ;
 
- 
+
 return
- 
+
 TRUE
 ;
 
@@ -2206,8 +2206,8 @@ When BEDaisy wants to inspect a thread’s call stack, it uses an APC mechanism 
 
 The back.engineering analysis of BEDaisy (and the Aki2k/BEDaisy GitHub research) documents this specifically: BEDaisy queues kernel APCs to threads in the protected process. The APC kernel routine runs atAPC_LEVEL, captures the thread’s stack, and then analyzes each return address against the list of loaded modules. A return address pointing outside any loaded module is a strong indicator of injected code on the stack, which suggests the thread is currently executing injected code or returned from it.
 
- 
- 
+
+
 1
 2
 3
@@ -2232,40 +2232,40 @@ The back.engineering analysis of BEDaisy (and the Aki2k/BEDaisy GitHub research)
 // Pseudocode for APC-based stack inspection
 
 VOID
- 
+
 KernelApcRoutine
 (
 
- 
+
 PKAPC
- 
+
 Apc
 ,
 
- 
+
 PKNORMAL_ROUTINE
- 
+
 *
 NormalRoutine
 ,
 
- 
+
 PVOID
- 
+
 *
 NormalContext
 ,
 
- 
+
 PVOID
- 
+
 *
 SystemArgument1
 ,
 
- 
+
 PVOID
- 
+
 *
 SystemArgument2
 
@@ -2273,64 +2273,64 @@ SystemArgument2
 
 {
 
- 
+
 // We're now running at APC_LEVEL in the context of the inspected thread
 
- 
+
 PVOID
- 
+
 frames
 [
 64
 ];
 
- 
+
 ULONG
- 
+
 capturedFrames
- 
+
 =
- 
+
 RtlWalkFrameChain
 (
 frames
 ,
- 
+
 64
 ,
- 
+
 0
 );
 
- 
+
 for
- 
+
 (
 ULONG
- 
+
 i
- 
+
 =
- 
+
 0
 ;
- 
+
 i
- 
+
 <
- 
+
 capturedFrames
 ;
- 
+
 i
 ++
 )
- 
+
 {
 
- 
+
 if
- 
+
 (
 !
 IsAddressInKnownModule
@@ -2339,13 +2339,13 @@ frames
 [
 i
 ]))
- 
+
 {
 
- 
+
 // Stack frame points outside any loaded module
 
- 
+
 ReportSuspiciousStackFrame
 (
 frames
@@ -2353,10 +2353,10 @@ frames
 i
 ]);
 
- 
+
 }
 
- 
+
 }
 
 }
@@ -2371,8 +2371,8 @@ The Import Address Table (IAT) of a PE file contains the addresses of imported f
 
 Detection is straightforward: for each IAT entry, compare the resolved address against what the on-disk export of the correct DLL says the address should be.
 
- 
- 
+
+
 1
 2
 3
@@ -2412,167 +2412,167 @@ Detection is straightforward: for each IAT entry, compare the resolved address a
 37
 
 VOID
- 
+
 DetectIATHooks
 (
 PVOID
- 
+
 moduleBase
 )
 
 {
 
- 
+
 PIMAGE_IMPORT_DESCRIPTOR
- 
+
 importDesc
- 
+
 =
 
- 
+
 RtlImageDirectoryEntryToData
 (
 moduleBase
 ,
- 
+
 TRUE
 ,
 
- 
+
 IMAGE_DIRECTORY_ENTRY_IMPORT
 ,
- 
+
 NULL
 );
 
- 
+
 while
- 
+
 (
 importDesc
 ->
 Name
- 
+
 !=
- 
+
 0
 )
- 
+
 {
 
- 
+
 PCHAR
- 
+
 dllName
- 
+
 =
- 
+
 (
 PCHAR
 )((
 ULONG_PTR
 )
 moduleBase
- 
+
 +
- 
+
 importDesc
 ->
 Name
 );
 
- 
+
 PVOID
- 
+
 importedDllBase
- 
+
 =
- 
+
 GetLoadedModuleBase
 (
 dllName
 );
 
- 
+
 PULONG_PTR
- 
+
 iat
- 
+
 =
- 
+
 (
 PULONG_PTR
 )((
 ULONG_PTR
 )
 moduleBase
- 
+
 +
 
- 
+
 importDesc
 ->
 FirstThunk
 );
 
- 
+
 PIMAGE_THUNK_DATA
- 
+
 originalFirstThunk
- 
+
 =
 
- 
+
 (
 PIMAGE_THUNK_DATA
 )((
 ULONG_PTR
 )
 moduleBase
- 
+
 +
 
- 
+
 importDesc
 ->
 OriginalFirstThunk
 );
 
- 
+
 while
- 
+
 (
 originalFirstThunk
 ->
 u1
 .
 AddressOfData
- 
+
 !=
- 
+
 0
 )
- 
+
 {
 
- 
+
 PIMAGE_IMPORT_BY_NAME
- 
+
 importByName
- 
+
 =
 
- 
+
 (
 PIMAGE_IMPORT_BY_NAME
 )((
 ULONG_PTR
 )
 moduleBase
- 
+
 +
 
- 
+
 originalFirstThunk
 ->
 u1
@@ -2580,34 +2580,34 @@ u1
 AddressOfData
 );
 
- 
+
 // Get the expected address from the exporting DLL
 
- 
+
 PVOID
- 
+
 expectedAddr
- 
+
 =
- 
+
 GetExportedFunctionAddress
 (
 importedDllBase
 ,
 
- 
+
 importByName
 ->
 Name
 );
 
- 
+
 PVOID
- 
+
 actualAddr
- 
+
 =
- 
+
 (
 PVOID
 )
@@ -2615,59 +2615,59 @@ PVOID
 iat
 ;
 
- 
+
 if
- 
+
 (
 expectedAddr
- 
+
 !=
- 
+
 actualAddr
 )
- 
+
 {
 
- 
+
 ReportIATHook
 (
 dllName
 ,
- 
+
 importByName
 ->
 Name
 ,
 
- 
+
 expectedAddr
 ,
- 
+
 actualAddr
 );
 
- 
+
 }
 
- 
+
 iat
 ++
 ;
 
- 
+
 originalFirstThunk
 ++
 ;
 
- 
+
 }
 
- 
+
 importDesc
 ++
 ;
 
- 
+
 }
 
 }
@@ -2705,8 +2705,8 @@ The Interrupt Descriptor Table (IDT) maps interrupt vectors to their handler rou
 
 A cheat operating at kernel level can attempt to replace IDT entries to intercept specific interrupts, which can be used for control flow interception or as a covert channel. Anti-cheats verify that IDT entries point to expected kernel locations:
 
- 
- 
+
+
 1
 2
 3
@@ -2725,7 +2725,7 @@ A cheat operating at kernel level can attempt to replace IDT entries to intercep
 16
 
 VOID
- 
+
 VerifyIDTIntegrity
 (
 void
@@ -2733,28 +2733,28 @@ void
 
 {
 
- 
+
 IDTR
- 
+
 idtr
 ;
 
- 
+
 __sidt
 (
 &
 idtr
 );
- 
+
 // Read IDTR register
 
- 
+
 PIDT_ENTRY64
- 
+
 idt
- 
+
 =
- 
+
 (
 PIDT_ENTRY64
 )
@@ -2763,39 +2763,39 @@ idtr
 Base
 ;
 
- 
+
 for
- 
+
 (
 int
- 
+
 i
- 
+
 =
- 
+
 0
 ;
- 
+
 i
- 
+
 <
- 
+
 256
 ;
- 
+
 i
 ++
 )
- 
+
 {
 
- 
+
 ULONG_PTR
- 
+
 handler
- 
+
 =
- 
+
 GetIDTHandlerAddress
 (
 &
@@ -2804,34 +2804,34 @@ idt
 i
 ]);
 
- 
+
 // Verify handler is in ntoskrnl or a known driver address range
 
- 
+
 if
- 
+
 (
 !
 IsKernelCodeAddress
 (
 handler
 ))
- 
+
 {
 
- 
+
 ReportIDTModification
 (
 i
 ,
- 
+
 handler
 );
 
- 
+
 }
 
- 
+
 }
 
 }
@@ -2878,8 +2878,8 @@ Cheat developers who manually map a driver without going through the normal load
 1. Verifying the consistency of thePiDDBCacheTable- if a driver is in memory (found via pool tag scanning or other means) but has noPiDDBCacheTableentry, the entry was probably scrubbed.Monitoring thePiDDBLockfor unexpected acquisitions from non-kernel threads.Comparing the timestamp/size combinations of all known loaded drivers against thePiDDBCacheTableentries.
 2. Monitoring thePiDDBLockfor unexpected acquisitions from non-kernel threads.Comparing the timestamp/size combinations of all known loaded drivers against thePiDDBCacheTableentries.
 3. Comparing the timestamp/size combinations of all known loaded drivers against thePiDDBCacheTableentries.
- 
- 
+
+
 1
 2
 3
@@ -2903,89 +2903,89 @@ Cheat developers who manually map a driver without going through the normal load
 // This is version-specific and fragile; anti-cheats maintain multiple signatures
 
 BOOLEAN
- 
+
 FindPiDDBCacheTable
 (
 PVOID
- 
+
 *
 TableAddress
 )
 
 {
 
- 
+
 // Pattern to locate PiDDBCacheTable in ntoskrnl
 
- 
+
 // This is a simplified illustration - real implementations use robust pattern matching
 
- 
+
 PVOID
- 
+
 ntoskrnl
- 
+
 =
- 
+
 GetKernelModuleBase
 (
 "ntoskrnl.exe"
 );
 
- 
+
 PUCHAR
- 
+
 pattern
- 
+
 =
- 
+
 "
 \x48\x8D\x0D
 "
 ;
- 
+
 // LEA RCX, [RIP+...]
 
- 
+
 PVOID
- 
+
 match
- 
+
 =
- 
+
 FindPattern
 (
 ntoskrnl
 ,
- 
+
 pattern
 ,
- 
+
 3
 ,
- 
+
 NTOSKRNL_TEXT_RANGE
 );
 
- 
+
 if
- 
+
 (
 match
 )
- 
+
 {
 
- 
+
 // Extract the RIP-relative offset
 
- 
+
 INT32
- 
+
 offset
- 
+
 =
- 
+
 *
 (
 INT32
@@ -2994,46 +2994,46 @@ INT32
 ULONG_PTR
 )
 match
- 
+
 +
- 
+
 3
 );
 
- 
+
 *
 TableAddress
- 
+
 =
- 
+
 (
 PVOID
 )((
 ULONG_PTR
 )
 match
- 
+
 +
- 
+
 7
- 
+
 +
- 
+
 offset
 );
 
- 
+
 return
- 
+
 TRUE
 ;
 
- 
+
 }
 
- 
+
 return
- 
+
 FALSE
 ;
 
@@ -3045,8 +3045,8 @@ PiDDBCacheTableis not exported andPiDDBCacheEntryis not in public symbols. To in
 
 The decompiled output reveals the structure layout. The function receives twoPiDDBCacheEntrypointers and first compares theirDriverNamefields (aUNICODE_STRINGat offset 0x10) usingRtlCompareUnicodeString. If the names are equal andTableContextis non-zero, the entries are considered equal. Otherwise, it falls through to comparing theTimeDateStampfield (aULONGat offset 0x20). This gives us the recovered structure:
 
- 
- 
+
+
 1
 2
 3
@@ -3055,33 +3055,33 @@ The decompiled output reveals the structure layout. The function receives twoPiD
 6
 
 struct
- 
+
 PiDDBCacheEntry
 
 {
 
- 
+
 RTL_BALANCED_LINKS
- 
+
 Links
 ;
- 
+
 // 0x00 - AVL tree node pointers (0x20 bytes)
 
- 
+
 UNICODE_STRING
- 
+
 DriverName
 ;
- 
+
 // 0x10 - driver filename (from compare routine offset)
 
- 
+
 ULONG
- 
+
 TimeDateStamp
 ;
- 
+
 // 0x20 - PE header timestamp (secondary sort key)
 
 };
@@ -3130,8 +3130,8 @@ At the usermode level (in the game-injected DLL), the anti-cheat usesNtQueryInfo
 
 The kernel driver checks the kernel-exported variablesKdDebuggerEnabledandKdDebuggerNotPresent. On a system with WinDbg (or any kernel debugger) attached,KdDebuggerEnabledis TRUE andKdDebuggerNotPresentis FALSE.
 
- 
- 
+
+
 1
 2
 3
@@ -3146,7 +3146,7 @@ The kernel driver checks the kernel-exported variablesKdDebuggerEnabledandKdDebu
 12
 
 BOOLEAN
- 
+
 IsKernelDebuggerPresent
 (
 void
@@ -3154,42 +3154,42 @@ void
 
 {
 
- 
+
 // KD_DEBUGGER_ENABLED is a kernel export
 
- 
+
 if
- 
+
 (
 *
 KdDebuggerEnabled
- 
+
 &&
- 
+
 !*
 KdDebuggerNotPresent
 )
- 
+
 {
 
- 
+
 return
- 
+
 TRUE
 ;
 
- 
+
 }
 
- 
+
 // Additional check: attempt a debug break and see if it's handled
 
- 
+
 // More sophisticated: check specific kernel structures
 
- 
+
 return
- 
+
 FALSE
 ;
 
@@ -3203,8 +3203,8 @@ NtSetInformationThreadwithThreadHideFromDebugger(17) sets a flag in the thread�
 
 Anti-cheats use this to protect their own threads. However, they also detect if cheats are using it to hide their own injected threads. The detection method is to enumerate all threads in the system via a kernel enumeration (not via usermode APIs that could be hooked) and check theHideFromDebuggerbit inCrossThreadFlagsfor each thread. A hidden thread in the game process that the anti-cheat did not itself hide is a red flag.
 
- 
- 
+
+
 1
 2
 3
@@ -3227,26 +3227,26 @@ Anti-cheats use this to protect their own threads. However, they also detect if 
 #define PS_CROSS_THREAD_FLAGS_HIDEFROMDEBUGGER 0x4
 
 VOID
- 
+
 CheckThreadDebugVisibility
 (
 PETHREAD
- 
+
 Thread
 )
 
 {
 
- 
+
 // CrossThreadFlags is at a version-specific offset in ETHREAD
 
- 
+
 ULONG
- 
+
 crossFlags
- 
+
 =
- 
+
 *
 (
 ULONG
@@ -3255,53 +3255,53 @@ ULONG
 ULONG_PTR
 )
 Thread
- 
+
 +
- 
+
 ETHREAD_CROSS_THREAD_FLAGS_OFFSET
 );
 
- 
+
 if
- 
+
 (
 crossFlags
- 
+
 &
- 
+
 PS_CROSS_THREAD_FLAGS_HIDEFROMDEBUGGER
 )
- 
+
 {
 
- 
+
 // Thread is hidden from debuggers
 
- 
+
 // If we didn't hide it, flag it
 
- 
+
 if
- 
+
 (
 !
 IsAntiCheatOwnedThread
 (
 Thread
 ))
- 
+
 {
 
- 
+
 ReportHiddenThread
 (
 Thread
 );
 
- 
+
 }
 
- 
+
 }
 
 }
@@ -3318,8 +3318,8 @@ An anti-cheat enumerating threads in the game process would check this bit on ev
 
 Single-step debugging (via the TF flag in EFLAGS) and hardware breakpoints dramatically increase the time between instruction executions. Anti-cheats useRDTSCinstruction-based timing to detect this:
 
- 
- 
+
+
 1
 2
 3
@@ -3333,95 +3333,95 @@ Single-step debugging (via the TF flag in EFLAGS) and hardware breakpoints drama
 11
 
 UINT64
- 
+
 before
- 
+
 =
- 
+
 __rdtsc
 ();
 
 // Execute a fixed number of operations
 
 volatile
- 
+
 ULONG
- 
+
 dummy
- 
+
 =
- 
+
 0
 ;
 
 for
- 
+
 (
 int
- 
+
 i
- 
+
 =
- 
+
 0
 ;
- 
+
 i
- 
+
 <
- 
+
 1000
 ;
- 
+
 i
 ++
 )
- 
+
 dummy
- 
+
 +=
- 
+
 i
 ;
 
 UINT64
- 
+
 after
- 
+
 =
- 
+
 __rdtsc
 ();
 
 UINT64
- 
+
 elapsed
- 
+
 =
- 
+
 after
- 
+
 -
- 
+
 before
 ;
 
 if
- 
+
 (
 elapsed
- 
+
 >
- 
+
 EXPECTED_MAXIMUM_CYCLES
 )
- 
+
 {
 
- 
+
 // Execution was slowed - likely single-stepping or a breakpoint
 
- 
+
 ReportDebuggerDetected
 ();
 
@@ -3433,8 +3433,8 @@ The thresholdEXPECTED_MAXIMUM_CYCLESis calibrated based on known CPU behavior. S
 
 The x86-64 debug registers (DR0-DR3 for breakpoint addresses, DR6 for status, DR7 for control) are accessible in kernel mode. Reading them allows detection of hardware breakpoints set by a debugger:
 
- 
- 
+
+
 1
 2
 3
@@ -3448,7 +3448,7 @@ The x86-64 debug registers (DR0-DR3 for breakpoint addresses, DR6 for status, DR
 11
 
 BOOLEAN
- 
+
 HasHardwareBreakpoints
 (
 void
@@ -3456,53 +3456,53 @@ void
 
 {
 
- 
+
 ULONG_PTR
- 
+
 dr7
- 
+
 =
- 
+
 __readdr
 (
 7
 );
- 
+
 // Read DR7 (debug control register)
 
- 
+
 // Check Local Enable bits (L0, L1, L2, L3) for each breakpoint
 
- 
+
 // Bits 0, 2, 4, 6 of DR7 are the local enable bits for BP 0-3
 
- 
+
 if
- 
+
 (
 dr7
- 
+
 &
- 
+
 0x55
 )
- 
+
 {
- 
+
 // 0x55 = 01010101b - all four local enable bits
 
- 
+
 return
- 
+
 TRUE
 ;
 
- 
+
 }
 
- 
+
 return
- 
+
 FALSE
 ;
 
@@ -3597,8 +3597,8 @@ The encryption of telemetry data is critical both for privacy (the data includes
 
 The most reliable VM detection is CPUID-based. WhenCPUIDis executed withEAX=1, bit 31 ofECXis set if a hypervisor is present (this is the “Hypervisor Present” bit). WithEAX=0x40000000, the hypervisor vendor string is returned in EBX, ECX, EDX:
 
- 
- 
+
+
 1
 2
 3
@@ -3629,7 +3629,7 @@ The most reliable VM detection is CPUID-based. WhenCPUIDis executed withEAX=1, b
 28
 
 BOOLEAN
- 
+
 IsRunningInVM
 (
 void
@@ -3637,223 +3637,223 @@ void
 
 {
 
- 
+
 int
- 
+
 cpuInfo
 [
 4
 ];
 
- 
+
 __cpuid
 (
 cpuInfo
 ,
- 
+
 1
 );
 
- 
+
 // Check hypervisor present bit (ECX bit 31)
 
- 
+
 if
- 
+
 (
 cpuInfo
 [
 2
 ]
- 
+
 &
- 
+
 (
 1
- 
+
 <<
- 
+
 31
 ))
- 
+
 {
 
- 
+
 // Get hypervisor vendor
 
- 
+
 __cpuid
 (
 cpuInfo
 ,
- 
+
 0x40000000
 );
 
- 
+
 char
- 
+
 vendor
 [
 13
 ];
 
- 
+
 memcpy
 (
 vendor
 ,
- 
+
 &
 cpuInfo
 [
 1
 ],
- 
+
 4
 );
 
- 
+
 memcpy
 (
 vendor
- 
+
 +
- 
+
 4
 ,
- 
+
 &
 cpuInfo
 [
 2
 ],
- 
+
 4
 );
 
- 
+
 memcpy
 (
 vendor
- 
+
 +
- 
+
 8
 ,
- 
+
 &
 cpuInfo
 [
 3
 ],
- 
+
 4
 );
 
- 
+
 vendor
 [
 12
 ]
- 
+
 =
- 
+
 '\0'
 ;
 
- 
+
 // Known VM vendors
 
- 
+
 if
- 
+
 (
 strcmp
 (
 vendor
 ,
- 
+
 "VMwareVMware"
 )
- 
+
 ==
- 
+
 0
- 
+
 ||
 
- 
+
 strcmp
 (
 vendor
 ,
- 
+
 "VBoxVBoxVBox"
 )
- 
+
 ==
- 
+
 0
- 
+
 ||
 
- 
+
 strcmp
 (
 vendor
 ,
- 
+
 "Microsoft Hv"
 )
- 
+
 ==
- 
+
 0
- 
+
 ||
- 
+
 // Hyper-V
 
- 
+
 strcmp
 (
 vendor
 ,
- 
+
 "KVMKVMKVM"
 )
- 
+
 ==
- 
+
 0
 )
- 
+
 {
 
- 
+
 return
- 
+
 TRUE
 ;
 
- 
+
 }
 
- 
+
 return
- 
+
 TRUE
 ;
- 
+
 // Unknown hypervisor is also suspicious
 
- 
+
 }
 
- 
+
 return
- 
+
 FALSE
 ;
 
@@ -3968,28 +3968,28 @@ Until that foundation is universally available and enforced, kernel anti-cheat r
 8. archie-osu. “Vanguard Dispatch Table Hooks Analysis.”2025.https://archie-osu.github.io/2025/04/11/vanguard-research.htmlrhaym-tech. “Vanguard vgk.sys Analysis Gist.”GitHub Gist.https://gist.github.com/rhaym-tech/f636b76deeca15528e70304b5ee95980donnaskiez. “ac: Open Source Kernel Anti-Cheat.”GitHub.https://github.com/donnaskiez/ac
 9. rhaym-tech. “Vanguard vgk.sys Analysis Gist.”GitHub Gist.https://gist.github.com/rhaym-tech/f636b76deeca15528e70304b5ee95980donnaskiez. “ac: Open Source Kernel Anti-Cheat.”GitHub.https://github.com/donnaskiez/ac
 10. donnaskiez. “ac: Open Source Kernel Anti-Cheat.”GitHub.https://github.com/donnaskiez/ac
- 
- 
+
+
 Anti-Cheat
-, 
+,
 Windows Internals
- 
- 
+
+
 kernel
- 
+
 anti-cheat
- 
+
 reverse-engineering
- 
+
 windows-internals
- 
+
 battleye
- 
+
 eac
- 
+
 vanguard
- This post is licensed under 
- CC BY 4.0 
+ This post is licensed under
+ CC BY 4.0
  by the author.
- 
+
 Share

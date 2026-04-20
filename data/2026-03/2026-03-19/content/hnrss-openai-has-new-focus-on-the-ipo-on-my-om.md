@@ -13,7 +13,7 @@ tags:
 - hnrss
 ---
 
-March 17, 2026		
+March 17, 2026
 
 The Wall Street Journal recently reported that leadership wants OpenAI, the company, to focus. Seems like a plain old business strategy story. Nope!
 
@@ -61,12 +61,12 @@ As I said before. When a grand hand is being played, focus is not such a bad thi
 
 March 17, 2026. San Francisco.
 
- 
+
 
 Technology
- 
 
-			3 comments		
+
+			3 comments
 
 ## Subscribe to discover Om’s fresh perspectives on the present and future.
 
@@ -74,6 +74,6 @@ Email address
 
 SUBSCRIBE
 
- 
+
 
 Om Malikis a San Francisco based writer, photographer and investor.Read More

@@ -27,8 +27,8 @@ Jonathan Djob Nkondo is revisiting some past work with a new English release due
 Jonathan Djob Nkondo is revisiting some past work with a new English release due out in the summer.
 
 by
- 
- 
+
+
 Andrew Webster
 Mar 14, 2026, 2:00 PM UTC
 * Link
@@ -39,7 +39,7 @@ If you buy something from a Verge link, Vox Media may earn a commission.See our 
 
 Image: Oni Press
 Andrew Webster
- 
+
 is an entertainment editor covering streaming, virtual worlds, and every single Pokémon video game. Andrew joined The Verge in 2012, writing over 4,000 stories.
 
 You may recognizeJonathan Djob Nkondo’s work from animated projects likethe surreal sci-fi seriesScavengers Reignor the recent Gorillaz short filmThe Mountain, The Moon Cave and The Sad God. But before that the French artist and animator made self-published comics that depicted strange alien worlds and future societies. Now he’s revisiting that work with a lush release of two graphic novels. “I think most of the people who follow my work don’t necessarily know that I published comics,” Nkondo tellsThe Verge. “I am mainly known for my work in animations, so revisiting those books and promoting them again was a good way to spread the word.”
@@ -87,19 +87,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

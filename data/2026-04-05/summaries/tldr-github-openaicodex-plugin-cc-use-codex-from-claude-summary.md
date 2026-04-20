@@ -27,31 +27,31 @@ summarized_at: 2026-04-05T01:02:59.634705
 - Node.js 18.18 or newer.
 
 ## Installation Steps
-1. Add the marketplace:  
+1. Add the marketplace:
    `/plugin marketplace add openai/codex-plugin-cc`
-2. Install the plugin:  
+2. Install the plugin:
    `/plugin install codex@openai-codex`
-3. Reload plugins:  
+3. Reload plugins:
    `/reload-plugins`
-4. Run setup:  
+4. Run setup:
    `/codex:setup` (offers to install Codex via npm if missing)
 5. If installing manually: `npm install -g @openai/codex` then `codex login`.
 
 ## Command Reference
 
 ### /codex:review
-- Reviews uncommitted changes or a branch (`--base <ref>`).  
-- Supports `--background` and `--wait`.  
+- Reviews uncommitted changes or a branch (`--base <ref>`).
+- Supports `--background` and `--wait`.
 - Read‑only; use `/codex:status` and `/codex:cancel` for background jobs.
 
 ### /codex:adversarial-review
-- Steerable review that questions implementation, design, and risk assumptions.  
-- Accepts extra focus text after flags.  
+- Steerable review that questions implementation, design, and risk assumptions.
+- Accepts extra focus text after flags.
 - Same options as `/codex:review`.
 
 ### /codex:rescue
-- Delegates a task to Codex (bug investigation, fixing, redesign, etc.).  
-- Options: `--background`, `--wait`, `--resume`, `--fresh`, `--model <model>`, `--effort <level>`.  
+- Delegates a task to Codex (bug investigation, fixing, redesign, etc.).
+- Options: `--background`, `--wait`, `--resume`, `--fresh`, `--model <model>`, `--effort <level>`.
 - Example: `/codex:rescue --model gpt-5.4-mini --effort medium investigate flaky test`.
 
 ### /codex:status
@@ -64,19 +64,19 @@ summarized_at: 2026-04-05T01:02:59.634705
 - Cancels an active background job.
 
 ### /codex:setup
-- Verifies Codex installation and authentication.  
+- Verifies Codex installation and authentication.
 - Enables/disables the optional review gate (`--enable-review-gate`, `--disable-review-gate`).
 
 ## Typical Workflows
 - **Review before shipping:** `/codex:review`
 - **Hand a problem to Codex:** `/codex:rescue investigate build failure in CI`
-- **Long‑running tasks:**  
-  `/codex:adversarial-review --background`  
-  `/codex:rescue --background investigate flaky test`  
+- **Long‑running tasks:**
+  `/codex:adversarial-review --background`
+  `/codex:rescue --background investigate flaky test`
   Follow up with `/codex:status` and `/codex:result`.
 
 ## Configuration
-- Default model and reasoning effort can be overridden in `~/.codex/config.toml` (user level) or `.codex/config.toml` at the project root (project level, loaded only for trusted projects).  
+- Default model and reasoning effort can be overridden in `~/.codex/config.toml` (user level) or `.codex/config.toml` at the project root (project level, loaded only for trusted projects).
 - Example project config to always use `gpt-5.4-mini` with high effort:
   ```
   model = "gpt-5.4-mini"
@@ -84,8 +84,8 @@ summarized_at: 2026-04-05T01:02:59.634705
   ```
 
 ## Integration Details
-- The plugin wraps the Codex app server, using the globally installed `codex` binary and its configuration.  
+- The plugin wraps the Codex app server, using the globally installed `codex` binary and its configuration.
 - Jobs created via the plugin can be resumed directly in Codex with `codex resume <session-id>`.
 
----  
+---
 This summary captures the plugin’s purpose, installation, core commands, usage patterns, and configuration options while adhering to the required markdown structure.

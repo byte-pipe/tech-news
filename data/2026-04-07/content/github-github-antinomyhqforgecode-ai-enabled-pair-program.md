@@ -11,7 +11,7 @@ description: AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepsee
 
 antinomyhq
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork1.3k
 * Star6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -238,7 +238,7 @@ Table of Contents
 
 To get started with Forge, run the command below:
 
-curl -fsSL https://forgecode.dev/cli 
+curl -fsSL https://forgecode.dev/cli
 |
  sh
 
@@ -328,39 +328,39 @@ Forge has three distinct ways to use it. Understanding this distinction upfront 
 
 Runningforgewith no arguments starts the interactive terminal UI, a persistent session where you type prompts and the AI responds in a conversational loop. This is the primary way to do multi-step work.
 
-forge 
+forge
 #
  Start a new interactive session
 
-forge conversation resume 
+forge conversation resume
 <
 id
 >
- 
+
 #
  Resume a specific saved conversation in interactive mode
 
-forge --conversation-id 
+forge --conversation-id
 <
 id
 >
- 
+
 #
  Same: resume conversation by ID
 
-forge --agent 
+forge --agent
 <
 agent-id
 >
- 
+
 #
  Start interactive session with a specific agent
 
-forge -C /path/to/project 
+forge -C /path/to/project
 #
  Start in a specific directory
 
-forge --sandbox experiment-name 
+forge --sandbox experiment-name
 #
  Create an isolated git worktree + branch, then start there
 
@@ -370,40 +370,40 @@ Once inside interactive mode, type your prompt and press Enter. Forge reads file
 
 Pass-p(or--prompt) to run a single prompt and exit. Forge does the work and returns to your shell. Useful for scripts, piping output, or quick tasks.
 
-forge -p 
+forge -p
 "
 Explain the purpose of src/main.rs
 "
 
-forge -p 
+forge -p
 "
 Add error handling to the parse() function in lib.rs
 "
 
 echo
- 
+
 "
 What does this do?
 "
- 
+
 |
- forge 
+ forge
 #
  Pipe input as the prompt
 
-forge commit 
+forge commit
 #
  Generate an AI commit message and commit (exits when done)
 
-forge commit --preview 
+forge commit --preview
 #
  Generate commit message, print it, then exit
 
-forge suggest 
+forge suggest
 "
 find large log files
 "
- 
+
 #
  Translate natural language to a shell command, then exit
 
@@ -414,23 +414,23 @@ Note:forge conversation resume <id>opens the interactive TUI. It doesnotjust pri
 Install the ZSH plugin once withforge setup, then use:commands directly at your shell prompt without ever typingforge. This is the fastest mode for day-to-day development: send prompts, switch conversations, commit, and suggest commands without leaving your shell.
 
 :
- refactor the auth module 
+ refactor the auth module
 #
  Send a prompt to the active agent
 
-:commit 
+:commit
 #
  AI-powered git commit
 
-:suggest 
+:suggest
 "
 find large log files
 "
- 
+
 #
  Translate description → shell command in your buffer
 
-:conversation 
+:conversation
 #
  Browse saved conversations with fzf preview
 
@@ -443,27 +443,27 @@ When you install the ZSH plugin (forge setup), you get a:prefix command system a
 How it works:Lines starting with:are intercepted before the shell sees them and routed to Forge. Everything else runs normally.
 
 :
- 
+
 <
 prompt
 >
- 
+
 #
  Send a prompt to the active agent
 
-:sage 
+:sage
 <
 prompt
 >
- 
+
 #
  Send a prompt to a specific agent by name (sage, muse, forge, or any custom agent)
 
-:agent 
+:agent
 <
 name
 >
- 
+
 #
  Switch the active agent; opens fzf picker if no name given
 
@@ -499,7 +499,7 @@ muse
 
 :plan
 
-Planning: analyzes structure and writes implementation plans to 
+Planning: analyzes structure and writes implementation plans to
 plans/
 
 No
@@ -510,21 +510,21 @@ No
  refactor the auth module to use the new middleware
 :sage how does the caching layer work
 ?
- 
+
 #
  sage = read-only research agent
 
-:muse design a deployment strategy 
+:muse design a deployment strategy
 #
  muse = planning agent (writes to plans/)
 
 :ask how does X work
 ?
- 
+
 #
  alias for :sage
 
-:plan create a migration plan 
+:plan create a migration plan
 #
  alias for :muse
 
@@ -541,111 +541,111 @@ Type@in a prompt, then press Tab to fuzzy-search and select files. The path is i
 
 Forge saves every conversation. You can switch between them like switching directories.
 
-:new 
+:new
 #
  Start a fresh conversation (saves current for :conversation -)
 
-:new 
+:new
 <
 initial prompt
 >
- 
+
 #
  Start a new conversation and immediately send a prompt
 
-:conversation 
+:conversation
 #
  Open fzf picker: browse and switch conversations with preview
 
-:conversation 
+:conversation
 <
 id
 >
- 
+
 #
  Switch directly to a conversation by ID
 
-:conversation - 
+:conversation -
 #
  Toggle between current and previous conversation (like cd -)
 
-:clone 
+:clone
 #
  Branch the current conversation (try a different direction)
 
-:clone 
+:clone
 <
 id
 >
- 
+
 #
  Clone a specific conversation by ID
 
-:rename 
+:rename
 <
 name
 >
- 
+
 #
  Rename the current conversation
 
-:conversation-rename 
+:conversation-rename
 #
  Rename a conversation via fzf picker
 
-:retry 
+:retry
 #
  Retry the last prompt (useful if the AI misunderstood)
 
-:copy 
+:copy
 #
  Copy the last AI response to clipboard as markdown
 
-:dump 
+:dump
 #
  Export conversation as JSON
 
-:dump html 
+:dump html
 #
  Export conversation as formatted HTML
 
-:compact 
+:compact
 #
  Manually compact context to free up token budget
 
 ### Git Integration
 
-:commit 
+:commit
 #
  AI reads your diff, writes a commit message, and commits immediately
 
-:commit 
+:commit
 <
 context
 >
- 
+
 #
  Same, but pass extra context: :commit fix typo in readme
 
-:commit-preview 
+:commit-preview
 #
  AI generates the message and puts "git commit -m '...'" in your buffer
 
- 
+
 #
  so you can review/edit the message before pressing Enter
 
 ### Shell Command Tools
 
-:suggest 
+:suggest
 <
 description
 >
- 
+
 #
  Translate natural language to a shell command and put it in your buffer
 
-:edit 
+:edit
 #
  Open $EDITOR to compose a complex multi-line prompt, then send it
 
@@ -656,97 +656,97 @@ Some commands change settings for the current session only. Others persist to yo
 #
  Session-only (reset when you close the terminal; not saved to config)
 
-:model 
+:model
 <
 model-id
 >
- 
+
 #
  Change model for this session only
 
-:reasoning-effort 
+:reasoning-effort
 <
 level
 >
- 
+
 #
  Set reasoning effort: none/minimal/low/medium/high/xhigh/max
 
-:agent 
+:agent
 <
 id
 >
- 
+
 #
  Switch active agent for this session
 
 #
  Persistent (saved to config file)
 
-:config-model 
+:config-model
 <
 model-id
 >
- 
+
 #
  Set default model globally (alias: :cm)
 
-:config-provider 
+:config-provider
 #
  Switch provider globally (alias: :provider, :p)
 
-:config-reasoning-effort 
+:config-reasoning-effort
 <
 lvl
 >
- 
+
 #
  Set default reasoning effort globally (alias: :cre)
 
-:config-commit-model 
+:config-commit-model
 <
 id
 >
- 
+
 #
  Set model used for :commit (alias: :ccm)
 
-:config-suggest-model 
+:config-suggest-model
 <
 id
 >
- 
+
 #
  Set model used for :suggest (alias: :csm)
 
-:config-reload 
+:config-reload
 #
  Reset session overrides back to global config (alias: :cr)
 
 #
  View & edit config
 
-:info 
+:info
 #
  Show current session info (model, agent, conversation ID)
 
-:env 
+:env
 #
  Show environment and provider info
 
-:config 
+:config
 #
  List current configuration values
 
-:config-edit 
+:config-edit
 #
  Open config file in $EDITOR (alias: :ce)
 
-:tools 
+:tools
 #
  List available tools for the current agent
 
-:skill 
+:skill
 #
  List available skills
 
@@ -798,19 +798,19 @@ Custom commands:Place YAML files in.forge/commands/(project) or~/forge/commands/
 
 ### Semantic Search (Workspace)
 
-:sync 
+:sync
 #
  Index your codebase for semantic search
 
-:workspace-init 
+:workspace-init
 #
  Initialize workspace for indexing
 
-:workspace-status 
+:workspace-status
 #
  Show indexing status
 
-:workspace-info 
+:workspace-info
 #
  Show workspace details
 
@@ -1035,222 +1035,222 @@ Print version
 #
  Conversations
 
-forge conversation list 
+forge conversation list
 #
  List all saved conversations
 
-forge conversation resume 
+forge conversation resume
 <
 id
 >
- 
+
 #
  Resume a conversation in interactive mode
 
-forge conversation new 
+forge conversation new
 #
  Create a new conversation ID (prints it)
 
-forge conversation dump 
+forge conversation dump
 <
 id
 >
- 
+
 #
  Export conversation as JSON
 
-forge conversation compact 
+forge conversation compact
 <
 id
 >
- 
+
 #
  Compact conversation context
 
-forge conversation retry 
+forge conversation retry
 <
 id
 >
- 
+
 #
  Retry last message
 
-forge conversation clone 
+forge conversation clone
 <
 id
 >
- 
+
 #
  Clone a conversation
 
-forge conversation rename 
+forge conversation rename
 <
 id
 >
- 
+
 <
 name
 >
- 
+
 #
  Rename a conversation
 
-forge conversation delete 
+forge conversation delete
 <
 id
 >
- 
+
 #
  Delete a conversation permanently
 
-forge conversation info 
+forge conversation info
 <
 id
 >
- 
+
 #
  Show conversation details
 
-forge conversation stats 
+forge conversation stats
 <
 id
 >
- 
+
 #
  Show token usage statistics
 
-forge conversation show 
+forge conversation show
 <
 id
 >
- 
+
 #
  Show last assistant message
 
 #
  Commits
 
-forge commit 
+forge commit
 #
  Generate AI commit message and commit
 
-forge commit --preview 
+forge commit --preview
 #
  Generate commit message only (prints it)
 
-forge commit fix the auth bug 
+forge commit fix the auth bug
 #
  Pass extra context for the commit message
 
 #
  Shell command suggestion
 
-forge suggest 
+forge suggest
 "
 list files by size
 "
- 
+
 #
  Translate description to a shell command
 
 #
  Providers
 
-forge provider login 
+forge provider login
 #
  Add or update provider credentials (interactive)
 
-forge provider 
+forge provider
 logout
- 
+
 #
  Remove provider credentials
 
-forge list provider 
+forge list provider
 #
  List supported providers
 
 #
  Models & agents
 
-forge list model 
+forge list model
 #
  List available models
 
-forge list agent 
+forge list agent
 #
  List available agents
 
 #
  Workspace / semantic search
 
-forge workspace sync 
+forge workspace sync
 #
  Index current directory for semantic search
 
-forge workspace init 
+forge workspace init
 #
  Initialize workspace
 
-forge workspace status 
+forge workspace status
 #
  Show indexing status
 
-forge workspace query 
+forge workspace query
 <
 text
 >
- 
+
 #
  Query the semantic index
 
 #
  MCP servers
 
-forge mcp list 
+forge mcp list
 #
  List configured MCP servers
 
-forge mcp import 
+forge mcp import
 #
  Add a server from JSON
 
-forge mcp show 
+forge mcp show
 #
  Show server configuration
 
-forge mcp remove 
+forge mcp remove
 #
  Remove a server
 
-forge mcp reload 
+forge mcp reload
 #
  Reload all servers and rebuild caches
 
 #
  Other
 
-forge info 
+forge info
 #
  Show config, active model, environment
 
-forge list tool --agent 
+forge list tool --agent
 <
 id
 >
- 
+
 #
  List tools for a specific agent
 
-forge doctor 
+forge doctor
 #
  Run shell environment diagnostics
 
-forge update 
+forge update
 #
  Update forge to the latest version
 
-forge setup 
+forge setup
 #
  Install ZSH plugin (updates .zshrc)
 
@@ -1277,7 +1277,7 @@ forge provider login
 #
  Remove provider credentials
 
-forge provider 
+forge provider
 logout
 
 #
@@ -1365,7 +1365,7 @@ your_io_intelligence_api_key
  forge.yaml
 
 model
-: 
+:
 meta-llama/Llama-3.3-70B-Instruct
 
 OpenAI
@@ -1382,7 +1382,7 @@ your_openai_api_key
  forge.yaml
 
 model
-: 
+:
 o3-mini-high
 
 Anthropic
@@ -1399,7 +1399,7 @@ your_anthropic_api_key
  forge.yaml
 
 model
-: 
+:
 claude-3.7-sonnet
 
 Google Vertex AI
@@ -1435,7 +1435,7 @@ your_auth_token
  forge.yaml
 
 model
-: 
+:
 google/gemini-2.5-pro
 
 Available Models:
@@ -1464,7 +1464,7 @@ your_provider_url
  forge.yaml
 
 model
-: 
+:
 <provider-specific-model>
 
 Groq
@@ -1483,7 +1483,7 @@ OPENAI_URL=https://api.groq.com/openai/v1
  forge.yaml
 
 model
-: 
+:
 deepseek-r1-distill-llama-70b
 
 Amazon Bedrock
@@ -1515,7 +1515,7 @@ your_bedrock_gateway_base_url
  forge.yaml
 
 model
-: 
+:
 anthropic.claude-3-opus
 
 ForgeCode Services
@@ -1532,7 +1532,7 @@ your_forge_api_key
  forge.yaml
 
 model
-: 
+:
 claude-3.7-sonnet
 
 ### forge.yaml Configuration Options
@@ -1548,23 +1548,23 @@ Control how Forge handles retry logic for failed requests:
 #
  .env
 
-FORGE_RETRY_INITIAL_BACKOFF_MS=1000 
+FORGE_RETRY_INITIAL_BACKOFF_MS=1000
 #
  Initial backoff time in milliseconds (default: 1000)
 
-FORGE_RETRY_BACKOFF_FACTOR=2 
+FORGE_RETRY_BACKOFF_FACTOR=2
 #
  Multiplier for backoff time (default: 2)
 
-FORGE_RETRY_MAX_ATTEMPTS=3 
+FORGE_RETRY_MAX_ATTEMPTS=3
 #
  Maximum retry attempts (default: 3)
 
-FORGE_SUPPRESS_RETRY_ERRORS=false 
+FORGE_SUPPRESS_RETRY_ERRORS=false
 #
  Suppress retry error messages (default: false)
 
-FORGE_RETRY_STATUS_CODES=429,500,502 
+FORGE_RETRY_STATUS_CODES=429,500,502
 #
  HTTP status codes to retry (default: 429,500,502,503,504)
 
@@ -1575,63 +1575,63 @@ Fine-tune HTTP client behavior for API requests:
 #
  .env
 
-FORGE_HTTP_CONNECT_TIMEOUT=30 
+FORGE_HTTP_CONNECT_TIMEOUT=30
 #
  Connection timeout in seconds (default: 30)
 
-FORGE_HTTP_READ_TIMEOUT=900 
+FORGE_HTTP_READ_TIMEOUT=900
 #
  Read timeout in seconds (default: 900)
 
-FORGE_HTTP_POOL_IDLE_TIMEOUT=90 
+FORGE_HTTP_POOL_IDLE_TIMEOUT=90
 #
  Pool idle timeout in seconds (default: 90)
 
-FORGE_HTTP_POOL_MAX_IDLE_PER_HOST=5 
+FORGE_HTTP_POOL_MAX_IDLE_PER_HOST=5
 #
  Max idle connections per host (default: 5)
 
-FORGE_HTTP_MAX_REDIRECTS=10 
+FORGE_HTTP_MAX_REDIRECTS=10
 #
  Maximum redirects to follow (default: 10)
 
-FORGE_HTTP_USE_HICKORY=false 
+FORGE_HTTP_USE_HICKORY=false
 #
  Use Hickory DNS resolver (default: false)
 
-FORGE_HTTP_TLS_BACKEND=default 
+FORGE_HTTP_TLS_BACKEND=default
 #
  TLS backend: "default" or "rustls" (default: "default")
 
-FORGE_HTTP_MIN_TLS_VERSION=1.2 
+FORGE_HTTP_MIN_TLS_VERSION=1.2
 #
  Minimum TLS version: "1.0", "1.1", "1.2", "1.3"
 
-FORGE_HTTP_MAX_TLS_VERSION=1.3 
+FORGE_HTTP_MAX_TLS_VERSION=1.3
 #
  Maximum TLS version: "1.0", "1.1", "1.2", "1.3"
 
-FORGE_HTTP_ADAPTIVE_WINDOW=true 
+FORGE_HTTP_ADAPTIVE_WINDOW=true
 #
  Enable HTTP/2 adaptive window (default: true)
 
-FORGE_HTTP_KEEP_ALIVE_INTERVAL=60 
+FORGE_HTTP_KEEP_ALIVE_INTERVAL=60
 #
  Keep-alive interval in seconds (default: 60, use "none"/"disabled" to disable)
 
-FORGE_HTTP_KEEP_ALIVE_TIMEOUT=10 
+FORGE_HTTP_KEEP_ALIVE_TIMEOUT=10
 #
  Keep-alive timeout in seconds (default: 10)
 
-FORGE_HTTP_KEEP_ALIVE_WHILE_IDLE=true 
+FORGE_HTTP_KEEP_ALIVE_WHILE_IDLE=true
 #
  Keep-alive while idle (default: true)
 
-FORGE_HTTP_ACCEPT_INVALID_CERTS=false 
+FORGE_HTTP_ACCEPT_INVALID_CERTS=false
 #
  Accept invalid certificates (default: false) - USE WITH CAUTION
 
-FORGE_HTTP_ROOT_CERT_PATHS=/path/to/cert1.pem,/path/to/cert2.crt 
+FORGE_HTTP_ROOT_CERT_PATHS=/path/to/cert1.pem,/path/to/cert2.crt
 #
  Paths to root certificate files (PEM, CRT, CER format), multiple paths separated by commas
 
@@ -1644,11 +1644,11 @@ Override default API endpoints and provider/model settings:
 #
  .env
 
-FORGE_API_URL=https://api.forgecode.dev 
+FORGE_API_URL=https://api.forgecode.dev
 #
  Custom Forge API URL (default: https://api.forgecode.dev)
 
-FORGE_WORKSPACE_SERVER_URL=http://localhost:8080 
+FORGE_WORKSPACE_SERVER_URL=http://localhost:8080
 #
  URL for the indexing server (default: https://api.forgecode.dev/)
 
@@ -1659,19 +1659,19 @@ Configuring the tool calls settings:
 #
  .env
 
-FORGE_TOOL_TIMEOUT=300 
+FORGE_TOOL_TIMEOUT=300
 #
  Maximum execution time in seconds for a tool before it is terminated to prevent hanging the session. (default: 300)
 
-FORGE_MAX_IMAGE_SIZE=10485760 
+FORGE_MAX_IMAGE_SIZE=10485760
 #
  Maximum image file size in bytes for read_image operations (default: 10485760 - 10 MB)
 
-FORGE_DUMP_AUTO_OPEN=false 
+FORGE_DUMP_AUTO_OPEN=false
 #
  Automatically open dump files in browser (default: false)
 
-FORGE_DEBUG_REQUESTS=/path/to/debug/requests.json 
+FORGE_DEBUG_REQUESTS=/path/to/debug/requests.json
 #
  Write debug HTTP request files to specified path (supports absolute and relative paths)
 
@@ -1682,7 +1682,7 @@ Configure the ZSH plugin behavior:
 #
  .env
 
-FORGE_BIN=forge 
+FORGE_BIN=forge
 #
  Command to use for forge operations (default: "forge")
 
@@ -1699,19 +1699,19 @@ FORGE_CURRENCY_SYMBOL=
 "
 $
 "
- 
+
 #
  Currency symbol for cost display in ZSH theme (default: "$")
 
-FORGE_CURRENCY_CONVERSION_RATE=1.0 
+FORGE_CURRENCY_CONVERSION_RATE=1.0
 #
  Conversion rate for currency display (default: 1.0)
 
-NERD_FONT=1 
+NERD_FONT=1
 #
  Enable Nerd Font icons in ZSH theme (default: auto-detected, set to "1" or "true" to enable, "0" or "false" to disable)
 
-USE_NERD_FONT=1 
+USE_NERD_FONT=1
 #
  Alternative variable for enabling Nerd Font icons (same behavior as NERD_FONT)
 
@@ -1724,15 +1724,15 @@ System-level environment variables (usually set automatically):
 #
  .env
 
-FORGE_CONFIG=/custom/config/dir 
+FORGE_CONFIG=/custom/config/dir
 #
  Base directory for all Forge config files (default: ~/forge)
 
-FORGE_MAX_SEARCH_RESULT_BYTES=10240 
+FORGE_MAX_SEARCH_RESULT_BYTES=10240
 #
  Maximum bytes for search results (default: 10240 - 10 KB)
 
-FORGE_HISTORY_FILE=/path/to/history 
+FORGE_HISTORY_FILE=/path/to/history
 #
  Custom path for Forge history file (default: uses system default location)
 
@@ -1740,27 +1740,27 @@ FORGE_BANNER=
 "
 Your custom banner text
 "
- 
+
 #
  Custom banner text to display on startup (default: Forge ASCII art)
 
-FORGE_MAX_CONVERSATIONS=100 
+FORGE_MAX_CONVERSATIONS=100
 #
  Maximum number of conversations to show in list (default: 100)
 
-FORGE_MAX_LINE_LENGTH=2000 
+FORGE_MAX_LINE_LENGTH=2000
 #
  Maximum characters per line for file read operations (default: 2000)
 
-FORGE_STDOUT_MAX_LINE_LENGTH=2000 
+FORGE_STDOUT_MAX_LINE_LENGTH=2000
 #
  Maximum characters per line for shell output (default: 2000)
 
-SHELL=/bin/zsh 
+SHELL=/bin/zsh
 #
  Shell to use for command execution (Unix/Linux/macOS)
 
-COMSPEC=cmd.exe 
+COMSPEC=cmd.exe
 #
  Command processor to use (Windows)
 
@@ -1771,11 +1771,11 @@ Configure semantic search behavior for code understanding:
 #
  .env
 
-FORGE_SEM_SEARCH_LIMIT=200 
+FORGE_SEM_SEARCH_LIMIT=200
 #
  Maximum number of results to return from initial vector search (default: 200)
 
-FORGE_SEM_SEARCH_TOP_K=20 
+FORGE_SEM_SEARCH_TOP_K=20
 #
  Top-k parameter for relevance filtering during semantic search (default: 20)
 
@@ -1786,7 +1786,7 @@ Configure logging verbosity and output:
 #
  .env
 
-FORGE_LOG=forge=info 
+FORGE_LOG=forge=info
 #
  Log filter level (default: forge=debug when tracking disabled, forge=info when tracking enabled)
 
@@ -1805,7 +1805,7 @@ Control tracking of user-identifying metadata in telemetry events:
 #
  .env
 
-FORGE_TRACKER=false 
+FORGE_TRACKER=false
 #
  Disable tracking enrichment metadata (default: true)
 
@@ -1821,7 +1821,7 @@ Add your own guidelines that all agents should follow when generating responses.
  forge.yaml
 
 custom_rules
-: 
+:
 |
 
  1. Always add comprehensive error handling to any code you write.
@@ -1839,23 +1839,23 @@ Define custom commands as shortcuts for repetitive prompts:
 
 commands
 :
- - 
+ -
 name
-: 
+:
 "
 refactor
 "
 
- 
+
 description
-: 
+:
 "
 Refactor selected code
 "
 
- 
+
 prompt
-: 
+:
 "
 Please refactor this code to improve readability and performance
 "
@@ -1868,7 +1868,7 @@ Specify the default AI model to use for all agents in the workflow.
  forge.yaml
 
 model
-: 
+:
 "
 claude-3.7-sonnet
 "
@@ -1881,9 +1881,9 @@ Control how deeply Forge traverses your project directory structure when gatheri
  forge.yaml
 
 max_walker_depth
-: 
+:
 3
- 
+
 #
  Limit directory traversal to 3 levels deep
 
@@ -1895,9 +1895,9 @@ Adjust the creativity and randomness in AI responses. Lower values (0.0-0.3) pro
  forge.yaml
 
 temperature
-: 
+:
 0.7
- 
+
 #
  Balanced creativity and focus
 
@@ -1909,9 +1909,9 @@ Control how many times a tool can fail before Forge forces completion to prevent
  forge.yaml
 
 max_tool_failure_per_turn
-: 
+:
 3
- 
+
 #
  Allow up to 3 failures per tool before forcing completion
 
@@ -1925,9 +1925,9 @@ Limit the maximum number of requests an agent can make in a single conversation 
  forge.yaml
 
 max_requests_per_turn
-: 
+:
 50
- 
+
 #
  Allow up to 50 requests per turn
 
@@ -1973,46 +1973,46 @@ forge mcp reload
 Or manually create a.mcp.jsonfile with the following structure:
 
 {
- 
+
 "mcpServers"
 : {
- 
+
 "server_name"
 : {
- 
+
 "command"
-: 
+:
 "
 command_to_execute
 "
 ,
- 
+
 "args"
 : [
 "
 arg1
 "
-, 
+,
 "
 arg2
 "
 ],
- 
+
 "env"
-: { 
+: {
 "ENV_VAR"
-: 
+:
 "
 value
 "
  }
  },
- 
+
 "another_server"
 : {
- 
+
 "url"
-: 
+:
 "
 http://localhost:3000/events
 "
@@ -2048,14 +2048,14 @@ For comprehensive documentation on all features and capabilities, please visit t
 #
  YOLO
 
-curl -fsSL https://forgecode.dev/cli 
+curl -fsSL https://forgecode.dev/cli
 |
  sh
 
 #
  Package managers
 
-nix run github:antinomyhq/forge 
+nix run github:antinomyhq/forge
 #
  for latest dev branch
 
@@ -2116,51 +2116,51 @@ forgecode.dev
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 6k
 
  stars
- 
+
 
 ### Watchers
 
 20
 
  watching
- 
+
 
 ### Forks
 
 1.3k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases317
 
@@ -2168,11 +2168,11 @@ v2.7.0
 
  Latest
 
- 
+
 
 Apr 7, 2026
 
- 
+
 
 + 316 releases
 
@@ -2188,17 +2188,17 @@ Apr 7, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -2206,9 +2206,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

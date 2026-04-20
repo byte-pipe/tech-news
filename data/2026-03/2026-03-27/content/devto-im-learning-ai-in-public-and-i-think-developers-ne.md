@@ -166,7 +166,7 @@ They’ll be the ones who can translate.
 If you’ve been learning AI too, what is the one concept you wish someone would explain like a human, not like a doc page?
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

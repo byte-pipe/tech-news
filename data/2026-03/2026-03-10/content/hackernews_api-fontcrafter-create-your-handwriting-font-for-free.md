@@ -92,9 +92,9 @@ It's easier than you think. Print, write, scan — done.
 * Works in Word, Pages, Photoshop, websites — everywhere fonts are used
 * No account, no server, 100% private — everything happens in your browser
 
-If you found this useful, I'd appreciate 
+If you found this useful, I'd appreciate
 donations
- & 
+ &
 patrons
  (to keep iterating)!
 
@@ -102,23 +102,23 @@ patrons
 
 1. Download and printthe template — US Letter or A4.
 
-Print at 
+Print at
 100% scale
  (no "fit to page"). Use white, unlined paper.
 
 1. Fill in every boxwith a felt-tip pen. All 3 rows for each character.
 
-Ballpoints are too faint; thick markers bleed. Keep strokes 
+Ballpoints are too faint; thick markers bleed. Keep strokes
 inside the boxes
  with breathing room from edges.
 How to use the three rows:
- Row 1 is always uppercase. Row 2 can be a second version of your uppercase 
+ Row 1 is always uppercase. Row 2 can be a second version of your uppercase
 or
  lowercase. Row 3 can also be uppercase or lowercase.
 
 1. Scan or photographthe sheet, then drag & drop that photo file below.
 
-Lay the sheet 
+Lay the sheet
 flat on a table
  with even lighting — no shadows, no curl. A phone camera works great if the sheet is flat and well-lit.
 
@@ -164,7 +164,7 @@ Name your font and choose how your three rows should be used. Enableligaturesfor
 
 What do you want to call this font?
 
-Your name 
+Your name
 (optional — embedded in font metadata)
 
 What did you put in each row?
@@ -217,7 +217,7 @@ Ligatures are letter pairs that connect naturally in handwriting — likeff,fi,f
 
 No ligatures
 
-Auto-generate ligatures 
+Auto-generate ligatures
 (recommended)
 
 Ligature pairs to generate:
@@ -228,7 +228,7 @@ Comma-separated pairs. Traditional (ff, fi, th), doubles (ll, oo, ss), and commo
 
 Kerning adjusts spacing between specific letter pairs — likeAV,To, andWA— so characters with complementary shapes sit together naturally instead of having uniform gaps.
 
-Auto-kern letter pairs 
+Auto-kern letter pairs
 (recommended)
 
 Tight
@@ -267,7 +267,7 @@ Both Fickle Dwarves Can Jinx My Pig Quiz!
 • Is it _really_ 100^2 = 10,000‽
 • "Yes," she said, 'it's a go;' then walked away.
 
-Your font includes 
+Your font includes
 contextual alternates
  (calt) — consecutive characters will automatically cycle between your 3 handwriting variants. This works in apps with OpenType support but may not appear in this preview.
 
@@ -275,9 +275,9 @@ contextual alternates
 
 Click here to try it for yourself...
 
-If you found this useful, I'd appreciate 
+If you found this useful, I'd appreciate
 donations
- & 
+ &
 patrons
  (to keep iterating)!
 
@@ -285,7 +285,7 @@ patrons
 
 OTFfor desktop apps,TTFfor universal compatibility,WOFF2for websites,Base64for CSS embedding.
 
-I confirm that the handwriting used to generate this font is 
+I confirm that the handwriting used to generate this font is
 my own or I have explicit permission
  from the handwriting's owner to create and use this font. I understand that I am solely responsible for how I use the generated font files, and I release FontCrafter, Chris Pirillo, LockerGnome, and arcade.pirillo.com from any liability related to the font's creation, distribution, or use.
 

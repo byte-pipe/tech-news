@@ -15,7 +15,7 @@ tags:
 
 ExTV
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork10
 * Star397
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -143,7 +143,7 @@ Podroid spins up a lightweight Alpine Linux VM on your phone using QEMU and give
 
 Containers
 
-Pull and run any OCI image — 
+Pull and run any OCI image —
 podman run --rm -it alpine sh
 
 Terminal
@@ -176,7 +176,7 @@ No root, no Termux, no host binaries — just install the APK
 4. TapOpen Terminal
 5. Run containers:
 
-podman run --rm alpine 
+podman run --rm alpine
 echo
  hello
 podman run --rm -it alpine sh
@@ -273,48 +273,48 @@ Rootless Podman for Android — run Linux containers on your phone
 
  Readme
 
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 397
 
  stars
- 
+
 
 ### Watchers
 
 0
 
  watching
- 
+
 
 ### Forks
 
 10
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases9
 
@@ -322,11 +322,11 @@ v1.0.9
 
  Latest
 
- 
+
 
 Apr 4, 2026
 
- 
+
 
 + 8 releases
 
@@ -342,9 +342,9 @@ Apr 4, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -352,9 +352,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

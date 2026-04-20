@@ -247,7 +247,7 @@ Checkout the project here:Github:https://github.com/tase-nikol/tab-memory-orches
 Sometimes the problem isn’t that a system is brokenIt’s that its parts aren’t talking to each other.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

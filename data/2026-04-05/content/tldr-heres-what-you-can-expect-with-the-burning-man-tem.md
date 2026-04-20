@@ -15,31 +15,31 @@ tags:
 
 Home
 
- / 
+ /
 
 Architecture
 
 # Designer Unveils How the Burning Man Temple Will Look in 2026, and It’s Inspired by a Rare Flower
 
- 
- By 
+
+ By
 Sage Helene
 
- on March 28, 2026 
- 
- 
+ on March 28, 2026
 
- Would you visit this temple? 
- 
+
+
+ Would you visit this temple?
+
  Share
 
  Like My Modern Met on Facebook
- 
- 
+
+
 
  Get Our Weekly Newsletter
 
-Become a 
+Become a
 My Modern Met Member
 
 As a member, you'll join us in our effort to support the arts.

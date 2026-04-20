@@ -55,7 +55,7 @@ aarch64
 
 12
 
-46 
+46
 GB
 
 36 minutes
@@ -64,7 +64,7 @@ i686
 
 8
 
-29 
+29
 GB
 
 25 minutes
@@ -73,7 +73,7 @@ ppc64le
 
 10
 
-37 
+37
 GB
 
 46 minutes
@@ -82,7 +82,7 @@ riscv64
 
 8
 
-16 
+16
 GB
 
 143 minutes
@@ -91,7 +91,7 @@ s390x
 
 3
 
-45 
+45
 GB
 
 37 minutes
@@ -100,7 +100,7 @@ x86_64
 
 8
 
-29 
+29
 GB
 
 29 minutes

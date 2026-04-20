@@ -14,7 +14,7 @@ tags:
 - trending
 ---
 
-This entry is part 22 of 22 in the series 
+This entry is part 22 of 22 in the series
 Artificial Intelligence
 
 I saw a post on LinkedIn the other day from a self-proclaimed 20 year agency veteran of WordPress saying that was it, they’re moving the entire agency off of WordPress and onto AI. Now, because I, too, am a 20 year veteran of WordPress, this kind of story catches my attention. He posted that they just rebuilt his agency’s site in a fraction of the time and he was never again going to use WordPress. It doesn’t matter who this person was because, honestly, this is a story that’s been cropping up a lot lately. The idea was that they can use Claude Code or other AI tools to build sites to spec faster than they ever could with WordPress, so they’re pivoting their entire businesses to this model.

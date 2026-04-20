@@ -82,7 +82,7 @@ Built atSheBuilds on Lovableon March 8, 2026, celebrating International Women's 
 Check outAftershow Atlasor find me on GitHub:@earlgreyhot1701D
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

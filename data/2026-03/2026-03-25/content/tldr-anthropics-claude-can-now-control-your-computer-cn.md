@@ -15,69 +15,69 @@ tags:
 * Tech
 * Services & Software
 * AI
- 
- 
- 
+
+
+
 
 # Anthropic's Claude Can Now Control Your Computer
 
- 
- 
- 
+
+
+
 
 The developer is boosting Claude's agentic capabilities in an apparent effort to compete with platforms like OpenClaw.
 
- 
- 
- 
- 
- 
- 
-Blake Stimac
- 
-Writer
- 
-Blake has over a decade of experience writing for the web, with a focus on mobile phones, where he covered the smartphone boom of the 2010s and the broader tech scene. When he's not in front of a keyboard, you'll most likely find him playing video games, watching horror flicks, or hunting down a good churro.
- 
- 
-See full bio
- 
- 
- 
- 
- 
-Blake Stimac
- 
- 
- 
- 
- 
 
- 
- 
+
+
+
+
+
+Blake Stimac
+
+Writer
+
+Blake has over a decade of experience writing for the web, with a focus on mobile phones, where he covered the smartphone boom of the 2010s and the broader tech scene. When he's not in front of a keyboard, you'll most likely find him playing video games, watching horror flicks, or hunting down a good churro.
+
+
+See full bio
+
+
+
+
+
+Blake Stimac
+
+
+
+
+
+
+
+
 March 23, 2026 2:00 p.m. PT
- 
+
 3 min read
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
 
 Claude can now take the driver's wheel on your computer.
 
- 
+
 Anthropic
- 
- 
- 
- 
+
+
+
+
 
 You can now letClaudetake control of your computer to perform tasks like sending you a file you left on your hard drive, the AI's developer Anthropic announced Monday. For the feature to work, you just need to be on a qualifying subscription plan.
 
@@ -87,11 +87,11 @@ OpenClaw has spawned an entire ecosystem of "claws," or AI tools that can take s
 
 Anthropic says that Claude will look for the right tools to complete the task at hand via connectors with apps like Google Calendar or Slack. If the tool or connector isn't available, Claude can manually perform the task by typing or moving the cursor, as if it were using the keyboard and mouse. It can use programs like your web browser, dev tools and open files.
 
- 
- 
- 
- 
- 
+
+
+
+
+
 
 When it's performing these tasks, it can use a computer as you normally would -- by scrolling and clicking around. The only difference is that Claude will always ask for permission beforehand. You can stop Claude from performing a task at any time.
 

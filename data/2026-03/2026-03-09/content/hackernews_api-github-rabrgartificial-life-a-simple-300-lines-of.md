@@ -15,7 +15,7 @@ tags:
 
 Rabrg
 
- 
+
 
 /
 
@@ -27,9 +27,9 @@ Public
 * Fork15
 * Star210
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -113,43 +113,43 @@ A simple (300 lines of code) reproduction of Computational Life: How Well-formed
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 210
 
  stars
- 
+
 
 ### Watchers
 
 0
 
  watching
- 
+
 
 ### Forks
 
 15
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -167,9 +167,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -177,9 +177,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

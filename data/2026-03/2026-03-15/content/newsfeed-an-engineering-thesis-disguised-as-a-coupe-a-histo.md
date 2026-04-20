@@ -28,22 +28,22 @@ And it’s worth remembering that the original Prelude emerged during a turbulen
 The Honda Prelude didn’t arrive during a champagne toast. It showed up in the middle of economic upheaval, when the global auto business stared nervously at its balance sheet and wondered whether the arithmetic still worked.
 
  Honda’s first US headquarters in 1959.
- 
+
 
  Credit:
  Honda
- 
+
 
  Honda’s first US headquarters in 1959.
 
- 
+
 
  Credit:
 
- 
+
  Honda
 
- 
+
 
 The story began on August 15, 1971, when President Richard Nixon severed the dollar’s link to gold, effectively ending the Bretton Woods system that had anchored postwar commerce since 1944. By 1973, the dollar was formally devalued. Fixed exchange rates evaporate. The yen surges; Japanese exports become more expensive; corporate forecasts unravel.
 
@@ -66,38 +66,38 @@ Both were powered by Honda’s CVCC engine, the first to meet the tough emission
 And, having secured credibility with rational transport, it then did something faintly irrational. It built a sports coupe.
 
  The Prelude that started it all.
- 
+
 
  Honda
- 
+
 
 The Prelude that started it all.
 
  Honda
- 
+
 
  In 1976, the first Honda Accord appeared.
- 
+
 
 In 1976, the first Honda Accord appeared.
 
  The 1975 Honda Civic introduced Americans to a new fuel efficiency technology.
- 
+
 
  Honda
- 
+
 
 The 1975 Honda Civic introduced Americans to a new fuel efficiency technology.
 
  Honda
- 
+
 
 In 1976, the first Honda Accord appeared.
 
 The 1975 Honda Civic introduced Americans to a new fuel efficiency technology.
 
  Honda
- 
+
 
 Launched in 1978, the first-generation Prelude was equal parts boxy and sleek; an Accord underneath, but tighter, shorter, and more intentional. Honda took the sedan’s suspension, brakes, and 1.8 L engine and fit them to a chassis with a wheelbase trimmed by 2.4 inches (60 mm). The output was modest: 72 hp (54 kW) and 94 lb-ft (127 Nm) of torque from a single-overhead-cam four-cylinder paired with a five-speed manual or a two-speed automatic (later upgraded to three), sending its power to the front wheels. Reaching 60 mph (97 km/h) took about 19 seconds, which is hardly exhilarating. And the Prelude carried a premium price despite delivering a driving experience that doesn’t justify it. Sales were meager, but Honda was just getting started.
 
@@ -108,36 +108,36 @@ It isn’t until 1983 that Honda finally reimagined the Prelude as something mor
 With a larger fuel-injected 2.0 L four-cylinder engine producing 110 hp (82 kW) and 114 lb-ft (155 Nm) of torque, the Si pushed the Prelude into more serious territory, trimming the 0–60 mph sprint into the nine-second range, a meaningful benchmark in the mid-1980s sport-compact calculus.
 
  The 1985 Prelude Si.
- 
+
 
  Honda
- 
+
 
 The 1985 Prelude Si.
 
  Honda
- 
+
 
  By 1990 the Prelude Si looked like this.
- 
+
 
  Honda
- 
+
 
 By 1990 the Prelude Si looked like this.
 
  Honda
- 
+
 
 The 1985 Prelude Si.
 
  Honda
- 
+
 
 By 1990 the Prelude Si looked like this.
 
  Honda
- 
+
 
 When the third-generation Prelude debuted for 1988, the styling suggested evolution rather than revolution, as it wore a carefully refined silhouette. But beneath the cautious redesigns, Honda was preparing a far more consequential statement.
 
@@ -150,22 +150,22 @@ The power came from a single-overhead-cam 2.0 L four-cylinder that produced 109 
 Yet even the most devoted Prelude loyalist can tire of a familiar refrain. And so, when the fourth generation arrived in 1992, Honda didn’t abandon the long nose, short deck proportions. Instead, Honda reinterpreted it. The sharp creases and pop-up headlights were gone, replaced by fixed lighting and softer, almost liquefied sheet metal, as if the car had been left in the sun and allowed to melt into a more aerodynamic future. The more consequential shift came a year later.
 
  Straight lines and pop up headlights were gone for gen 3, replaced by smooth curves.
- 
+
 
  Credit:
  Honda
- 
+
 
  Straight lines and pop up headlights were gone for gen 3, replaced by smooth curves.
 
- 
+
 
  Credit:
 
- 
+
  Honda
 
- 
+
 
 In 1993, Honda introduced the Prelude VTEC, shorthand for Variable Valve Timing and Lift Electronic Control, a name that would soon enter the enthusiast lexicon. While the 1980 Alfa Romeo Spider 2000 was the first to offer variable-valve timing in the US market, Honda’s system went a step further. At higher revs, a more aggressive profile holds the valves open longer and wider to extract greater performance, while at lower rpm, the valves open more conservatively, prioritizing efficiency. Today, variable-valve timing is common across the industry. At the time, it felt revelatory, effectively delivering two engine personalities within a single powerplant. Following the audacity of four-wheel steering, VTEC further polished the Prelude’s identity as Honda’s rolling laboratory, a coupe that previewed the engineering future.
 
@@ -178,22 +178,22 @@ Offered through 1996, this generation also marked the end of an experiment. Four
 When the fifth-generation Prelude arrived for 1997, its styling felt like a compromise between eras, a return to Honda’s earlier angular discipline, slightly softened to align with late-1990s tastes. It looked modern but cautious. And beneath the sheet metal, something had changed.
 
  A 1998 Honda Prelude Type SH.
- 
+
 
  Credit:
  Honda
- 
+
 
  A 1998 Honda Prelude Type SH.
 
- 
+
 
  Credit:
 
- 
+
  Honda
 
- 
+
 
 For the first time in years, the Prelude’s ambitions narrowed. There was a single engine: a 195 hp (145 kW) 2.2 L four-cylinder, paired with a five-speed manual or a four-speed automatic. The menu was simplified, perhaps strategically.
 
@@ -216,22 +216,22 @@ With its in-house rivals long gone—the Accord Coupe was discontinued in 2017, 
 Underneath, the revival reflects a broader industry playbook: minimize investment while maximizing brand leverage. The Prelude rides on a shortened Civic platform, usesa Civic Hybrid drivetrain, and borrows suspension hardware from the Civic Type R. Honda has reengineered and retuned the components, but the strategy is clear: contain development costs, preserve margins, and spread R&D across as many units as possible.
 
  The reborn Prelude.
- 
+
 
  Credit:
  Honda
- 
+
 
  The reborn Prelude.
 
- 
+
 
  Credit:
 
- 
+
  Honda
 
- 
+
 
 Honda eliminated the previous Prelude after selling roughly 3,500 units. The new goal of 4,000 units annually suggests management is not betting on a coupe revival but that it’s testing the waters. In a US market dominated by high-margin SUVs and pickup trucks, the Prelude functions more like a brand halo with guardrails: a way to test whether nostalgia can deliver incremental profit without jeopardizing capital. In that sense, the car is less a throwback and more a case study in how legacy automakers now balance emotion with spreadsheets.
 

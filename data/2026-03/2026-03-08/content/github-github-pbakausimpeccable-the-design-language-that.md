@@ -11,7 +11,7 @@ description: The design language that makes your AI harness better at design. - 
 
 pbakaus
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork49
 * Star1.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -312,7 +312,7 @@ cp -r dist/claude-code/.claude your-project/
 
 cp -r dist/claude-code/.claude/
 *
- 
+
 ~
 /.claude/
 
@@ -332,7 +332,7 @@ Codex CLI:
 
 cp -r dist/codex/.codex/
 *
- 
+
 ~
 /.codex/
 
@@ -381,48 +381,48 @@ impeccable.style
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 1.2k
 
  stars
- 
+
 
 ### Watchers
 
 4
 
  watching
- 
+
 
 ### Forks
 
 49
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -440,9 +440,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -450,9 +450,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

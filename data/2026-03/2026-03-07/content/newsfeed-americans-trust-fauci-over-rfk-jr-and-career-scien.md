@@ -41,17 +41,17 @@ In a statement to Ars Technica, a spokesperson for the Department of Health and 
 The survey also found that trust in federal agencies—the CDC, NIH, and FDA—has declined during this administration, falling from 67 percent overall in February 2025 to 60–62 percent in February 2026.
 
  Beth Mole
- 
+
 
 Senior Health Reporter
 
  Beth Mole
- 
+
 
 Senior Health Reporter
 
  Beth is Ars Technica’s Senior Health Reporter. Beth has a Ph.D. in microbiology from the University of North Carolina at Chapel Hill and attended the Science Communication program at the University of California, Santa Cruz. She specializes in covering infectious diseases, public health, and microbes.
- 
+
 
 1. 1.Satellite firm pauses imagery after revealing Iran's attacks on US bases
 2. 2.RFK Jr.’s anti-vaccine policies are "unreviewable," DOJ lawyer tells judge

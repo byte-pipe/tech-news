@@ -49,17 +49,17 @@ Fire Sticks have long been criticized for potentially enabling piracy. A May rep
 Many users won’t be impacted by Amazon’s move to kill consumer sideloading on Fire Sticks. But those it does affect will be eager to explore rival streaming devices or develop potential workarounds.
 
  Scharon Harding
- 
+
 
 Senior Technology Reporter
 
  Scharon Harding
- 
+
 
 Senior Technology Reporter
 
  Scharon is a Senior Technology Reporter at Ars Technica writing news, reviews, and analysis on consumer gadgets and services. She's been reporting on technology for over 10 years, with bylines at Tom’s Hardware, Channelnomics, and CRN UK.
- 
+
 
 1. 1.New undersea cable cutter risks Internet’s backbone
 2. 2.Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon

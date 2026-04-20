@@ -27,8 +27,8 @@ tags:
 ﻿MCP support has arrived in Elgato’s Stream Deck 7.4 update.
 
 by
- 
- 
+
+
 Jess Weatherbed
 Apr 1, 2026, 12:38 PM UTC
 * Link
@@ -39,7 +39,7 @@ If you buy something from a Verge link, Vox Media may earn a commission.See our 
 
 Photo by Dan Seifert / The Verge
 Jess Weatherbed
- 
+
 is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews.
 
 If you’re tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. TheStream Deck 7.4 software updatereleased today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions on your behalf.
@@ -49,13 +49,13 @@ If you’re tired of controlling Stream Deck devices by manually pushing buttons
 MCP — supported by companies likeMicrosoft,Anthropic,Figma, andCanva— is rapidly becoming the universal “USB cable” for artificial intelligence, allowing AI assistants to hook directly into third-party apps. The Elgato update essentially provides a hands-free way to trigger any macro commands assigned to your Stream Deck (be that physical devices or the digital app).
 
 Each MCP action has a description field that AI assistants use to find out what the action does and when to use it.
- 
+
 Image: Elgato
 
 You can enable the feature by updating to the latest version of the Stream Deck app, opening “Preferences,”and tapping the “General” tab at the top of the app window. From there, you can check “Enable MCP Actions” to create a dedicated “MCP Actions” profile, with any actions placed within it becoming accessible to your connected AI tools.
 
 This is where you’ll find the option to enable MCP actions in the Stream Deck app settings.
- 
+
 Image: Elgato
 
 The full setup requires an additional Node.js tool and Elgato MCP Server bridge to be installed on your computer to connect AI tools with the Stream Deck app. It’s a finicky process for anyone unfamiliar with MCP integrations, but thankfully Elgato has a full step-by-step installation guide available that’s simple to follow.
@@ -84,19 +84,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 
@@ -112,12 +112,12 @@ You can now use ChatGPT with Apple’s CarPlay
 Samsung’s new app claims to alleviate motion sickness using sound
 The best deals to shop during the last few hours of Amazon’s Big Spring Sale
 Sheena Vasani
- and 
+ and
 Brandon Widder
 1:14 AM UTC
 The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale
 Sheena Vasani
- and 
+ and
 Brandon Widder
 Mar 31
 Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent

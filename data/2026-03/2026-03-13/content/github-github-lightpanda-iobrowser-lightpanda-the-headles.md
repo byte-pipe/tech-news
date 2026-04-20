@@ -11,7 +11,7 @@ description: 'Lightpanda: the headless browser designed for AI and automation - 
 
 lightpanda-io
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork486
 * Star14.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -233,33 +233,33 @@ Once the CDP server started, you can run a Puppeteer script by configuring thebr
 'use strict'
 
 import
- 
+
 puppeteer
- 
+
 from
- 
+
 'puppeteer-core'
 ;
 
 // use browserWSEndpoint to pass the Lightpanda's CDP server address.
 
 const
- 
+
 browser
- 
+
 =
- 
+
 await
- 
+
 puppeteer
 .
 connect
 (
 {
 
- 
+
 browserWSEndpoint
-: 
+:
 "ws://127.0.0.1:9222"
 ,
 
@@ -270,13 +270,13 @@ browserWSEndpoint
 // The rest of your script remains the same.
 
 const
- 
+
 context
- 
+
 =
- 
+
 await
- 
+
 browser
 .
 createBrowserContext
@@ -285,13 +285,13 @@ createBrowserContext
 ;
 
 const
- 
+
 page
- 
+
 =
- 
+
 await
- 
+
 context
 .
 newPage
@@ -302,44 +302,44 @@ newPage
 // Dump all the links from the page.
 
 await
- 
+
 page
 .
 goto
 (
 'https://demo-browser.lightpanda.io/amiibo/'
 ,
- 
+
 {
 waitUntil
-: 
+:
 "networkidle0"
 }
 )
 ;
 
 const
- 
+
 links
- 
+
 =
- 
+
 await
- 
+
 page
 .
 evaluate
 (
 (
 )
- 
+
 =>
- 
+
 {
 
- 
+
 return
- 
+
 Array
 .
 from
@@ -355,14 +355,14 @@ querySelectorAll
 map
 (
 row
- 
+
 =>
- 
+
 {
 
- 
+
 return
- 
+
 row
 .
 getAttribute
@@ -371,7 +371,7 @@ getAttribute
 )
 ;
 
- 
+
 }
 )
 ;
@@ -389,7 +389,7 @@ links
 ;
 
 await
- 
+
 page
 .
 close
@@ -398,7 +398,7 @@ close
 ;
 
 await
- 
+
 context
 .
 close
@@ -407,7 +407,7 @@ close
 ;
 
 await
- 
+
 browser
 .
 disconnect
@@ -637,56 +637,56 @@ lightpanda.io
 
  Readme
 
- 
+
 
 ### License
 
  AGPL-3.0 license
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 14.2k
 
  stars
- 
+
 
 ### Watchers
 
 42
 
  watching
- 
+
 
 ### Forks
 
 486
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases8
 
@@ -694,11 +694,11 @@ nightly
 
  Latest
 
- 
+
 
 Jul 16, 2024
 
- 
+
 
 + 7 releases
 
@@ -714,17 +714,17 @@ Jul 16, 2024
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors26
 

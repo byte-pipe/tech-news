@@ -14,7 +14,7 @@ tags:
 
 itigges22
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork26
 * Star490
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -318,7 +318,7 @@ flowchart LR
  style ST fill:#5c3a1a,color:#fff
  style PR fill:#5c3a1a,color:#fff
 
- 
+
 Loading
 
 A single patched llama-server runs on K3s, providing both generation with speculative decoding (~100 tok/s) and 5120-dim self-embeddings for Lens scoring. TheGeometric LensC(x) energy field selects the best candidate (87.8% accuracy on mixed-result tasks). Failed tasks enter Phase 3, where the model generates its own test cases and iteratively repairs solutions via PR-CoT -- real tests are used only for final scoring.
@@ -329,13 +329,13 @@ Full architecture:docs/ARCHITECTURE.md
 
 Before you begin:ATLAS was developed and tested on specific hardware. Read theHardware & Reproductionsection below to check compatibility and tune variables for your setup before running.
 
-git clone https://github.com/itigges22/ATLAS.git 
+git clone https://github.com/itigges22/ATLAS.git
 &&
- 
+
 cd
  ATLAS
 
-cp atlas.conf.example atlas.conf 
+cp atlas.conf.example atlas.conf
 #
  set MODEL_PATH, DATA_DIR, GPU device
 
@@ -513,58 +513,58 @@ Adaptive Test-time Learning and Autonomous Specialization
 
  Readme
 
- 
+
 
 ### License
 
  View license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 490
 
  stars
- 
+
 
 ### Watchers
 
 6
 
  watching
- 
+
 
 ### Forks
 
 26
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -584,9 +584,9 @@ tags
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors1
 

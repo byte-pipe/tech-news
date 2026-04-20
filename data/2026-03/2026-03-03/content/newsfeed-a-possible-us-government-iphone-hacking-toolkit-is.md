@@ -65,11 +65,11 @@ If Coruna is, in fact, a US hacking toolkit gone rogue, just how it got into for
 * College campuses are in upheavalover faculty ties to Epstein
 * Event:Helping small business owners succeed
 Andy Greenberg
- is a senior writer for WIRED covering hacking, cybersecurity, and surveillance. He’s the author of the books 
+ is a senior writer for WIRED covering hacking, cybersecurity, and surveillance. He’s the author of the books
 Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency
- and 
+ and
 Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
-. His books ... 
+. His books ...
 Read More
 Senior Writer
 * X

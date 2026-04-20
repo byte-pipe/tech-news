@@ -14,7 +14,7 @@ tags:
 
 teamchong
 
- 
+
 
 /
 
@@ -26,9 +26,9 @@ Public
 * Fork5
 * Star159
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -169,41 +169,41 @@ Node.js
 ## Quick Start
 
 import
- 
+
 {
- 
+
 TurboQuant
- 
+
 }
- 
+
 from
- 
+
 "turboquant-wasm"
 ;
 
 const
- 
+
 tq
- 
+
 =
- 
+
 await
- 
+
 TurboQuant
 .
 init
 (
 {
- 
+
 dim
-: 
+:
 1024
 ,
- 
+
 seed
-: 
+:
 42
- 
+
 }
 )
 ;
@@ -211,11 +211,11 @@ seed
 // Compress a vector (~4.5 bits/dim, ~6x compression)
 
 const
- 
+
 compressed
- 
+
 =
- 
+
 tq
 .
 encode
@@ -227,11 +227,11 @@ myFloat32Array
 // Decode back
 
 const
- 
+
 decoded
- 
+
 =
- 
+
 tq
 .
 decode
@@ -243,18 +243,18 @@ compressed
 // Fast dot product without decoding
 
 const
- 
+
 score
- 
+
 =
- 
+
 tq
 .
 dot
 (
 queryVector
 ,
- 
+
 compressed
 )
 ;
@@ -262,13 +262,13 @@ compressed
 // Batch search: one WASM call for all vectors (83x faster than looping dot())
 
 const
- 
+
 allCompressed
- 
+
 =
- 
+
 new
- 
+
 Uint8Array
 (
 /* concatenated compressed vectors */
@@ -276,21 +276,21 @@ Uint8Array
 ;
 
 const
- 
+
 scores
- 
+
 =
- 
+
 tq
 .
 dotBatch
 (
 queryVector
 ,
- 
+
 allCompressed
 ,
- 
+
 bytesPerVector
 )
 ;
@@ -305,104 +305,104 @@ destroy
 ## API
 
 class
- 
+
 TurboQuant
- 
+
 {
 
- 
+
 static
- 
+
 async
- 
+
 init
 (
 config
-: 
+:
 {
- 
+
 dim
-: 
+:
 number
 ;
- 
+
 seed
-: 
+:
 number
- 
+
 }
 )
-: 
+:
 Promise
 <
 TurboQuant
 >
 ;
 
- 
+
 encode
 (
 vector
-: 
+:
 Float32Array
 )
-: 
+:
 Uint8Array
 ;
 
- 
+
 decode
 (
 compressed
-: 
+:
 Uint8Array
 )
-: 
+:
 Float32Array
 ;
 
- 
+
 dot
 (
 query
-: 
+:
 Float32Array
 ,
- 
+
 compressed
-: 
+:
 Uint8Array
 )
-: 
+:
 number
 ;
 
- 
+
 dotBatch
 (
 query
-: 
+:
 Float32Array
 ,
- 
+
 compressedConcat
-: 
+:
 Uint8Array
 ,
- 
+
 bytesPerVector
-: 
+:
 number
 )
-: 
+:
 Float32Array
 ;
 
- 
+
 destroy
 (
 )
-: 
+:
 void
 ;
 
@@ -413,7 +413,7 @@ void
 #
  Run tests
 
-zig 
+zig
 test
  -target aarch64-macos src/turboquant.zig
 
@@ -457,48 +457,48 @@ teamchong.github.io/turboquant-wasm/
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 159
 
  stars
- 
+
 
 ### Watchers
 
 1
 
  watching
- 
+
 
 ### Forks
 
 5
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases10
 
@@ -506,11 +506,11 @@ v0.2.9
 
  Latest
 
- 
+
 
 Apr 5, 2026
 
- 
+
 
 + 9 releases
 
@@ -526,17 +526,17 @@ Apr 5, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -544,9 +544,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

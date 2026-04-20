@@ -36,22 +36,22 @@ Instead, the agencyturned to Russiato launch the orbiter and rover on two Proton
 Russiasuccessfully launchedthe European-built ExoMars Trace Gas Orbiter spacecraft on a Proton rocket in 2016. The orbiter is still operating around Mars today, returning scientific data and serving as a communications relay for NASA’s Curiosity and Perseverance rovers. A small European tech demo probe riding piggyback on the orbitercrash landedupon reaching the red planet.
 
  Artist’s illustration of the Rosalind Franklin rover departing its landing platform on Mars.
- 
+
 
  Credit:
  Airbus
- 
+
 
  Artist’s illustration of the Rosalind Franklin rover departing its landing platform on Mars.
 
- 
+
 
  Credit:
 
- 
+
  Airbus
 
- 
+
 
 Additional delays pushed the the launch of the ExoMars rover from 2018 until 2020. The rover, by then named for the late British chemist and DNA research pioneer Rosalind Franklin, was nearly ready for launch in 2020 when a series ofparachute test failuresand the COVID-19 pandemic prompted another delay until late 2022.
 
@@ -68,24 +68,24 @@ But there was still one more hurdle to jump. Last year, just 12 months after NAS
 Now, NASA has approved the agency’sRosalind FranklinSupport and Augmentation (ROSA) project to begin implementation. This announcement Thursday was accompanied by news of NASA’s decision to award theRosalind Franklinlaunch contract to SpaceX. The Falcon Heavy now becomes the fourth rocket officials have planned to use for launching Europe’s first Mars rover. This time, there’s a real contract on the books. It will likely be SpaceX’s first launch to Mars.
 
  A SpaceX Falcon Heavy rocket lifts off with NOAA’s GOES-U weather satellite on June 25, 2024.
- 
+
 
  Credit:
- 
+
 SpaceX
 
  A SpaceX Falcon Heavy rocket lifts off with NOAA’s GOES-U weather satellite on June 25, 2024.
 
- 
+
 
  Credit:
 
- 
 
- 
+
+
  SpaceX
 
- 
+
 
 ESA has never achieved a successful landing on Mars before. NASA’s contribution includes flight-proven retrorockets for ESA’s landing platform. Experts at NASA’s Jet Propulsion Laboratory also helped European engineers solve a problem with the lander’s parachute system, which slows the craft to subsonic speed before it ignites braking rockets for the final landing maneuver.
 
@@ -96,17 +96,17 @@ Despite the long wait to fly, ESA says the rover’s capabilities and science ob
 “No other mission is yet planned to take up this technological challenge,” ESA says in afact sheet on the mission. “The rover’s mobility capabilities, notably six-wheel steering and ‘wheel walking’ are also novel.”
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark
- 
+
 
 Space Reporter
 
  Stephen Clark is a space reporter at Ars Technica, covering private space companies and the world’s space agencies. Stephen writes about the nexus of technology, science, policy, and business on and off the planet.
- 
+
 
 1. 1.Florida surgeon charged with killing man after removing liver instead of spleen
 2. 2.The race to Shackleton Crater is on—will Jeff Bezos or China get there first?

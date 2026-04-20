@@ -30,7 +30,7 @@ Casey Newton, the founder and editor of the tech newsletter Platformer and anoth
 
 Here is what Grammarly’s approximation of Kara Swisher told him: “Could you briefly compare how daily AI users versus AI skeptics articulate risk, creating a through-line readers can follow?”
 
- 
+
 
 Techcrunch event
 
@@ -61,15 +61,15 @@ Grammarly has since disabled the “Expert Review” feature, according to aLink
 Topics
 
 AI
-, 
+,
 grammarly
-, 
+,
 lawsuits
-, 
+,
 superhuman
- 
 
-			Amanda Silberling	
+
+			Amanda Silberling
 
 Senior Writer
 
@@ -77,6 +77,6 @@ Amanda Silberling is a senior writer at TechCrunch covering the intersection of 
 
 You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.
 
- 
+
 
 View Bio

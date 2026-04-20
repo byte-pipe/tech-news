@@ -11,9 +11,9 @@ tags:
 - bbc
 ---
 
-Image source, 
+Image source,
 Getty Images
-Image caption, 
+Image caption,
 
 Max Verstappen finished eighth in the Japanese Grand Prix after starting the race in 11th
 
@@ -64,9 +64,9 @@ However, he has had a difficult start to 2026, finishing sixth in Australia and 
 
 ## 'You don't need to feel sorry for me'
 
-Image source, 
+Image source,
 Getty Images
-Image caption, 
+Image caption,
 
 Verstappen has not finished on the podium in the first three races for the first time since 2018
 

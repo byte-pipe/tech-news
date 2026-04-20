@@ -11,7 +11,7 @@ description: Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、G
 
 Wei-Shaw
 
- 
+
 
 /
 
@@ -28,41 +28,41 @@ Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antig
 ### License
 
  MIT license
- 
+
 
 2.3k
 
  stars
 
- 
+
 
 453
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # Wei-Shaw/sub2api

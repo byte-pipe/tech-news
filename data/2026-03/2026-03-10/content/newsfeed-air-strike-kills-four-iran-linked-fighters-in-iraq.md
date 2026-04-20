@@ -19,11 +19,11 @@ Listen to this article
 4 mins
 info
 An Iraqi army tank is seen in Dibis area on the outskirts of Kirkuk, Iraq [File: Alaa Al-Marjani/Reuters]
-By 
+By
 Al Jazeera Staff
-, 
+,
 AFP
- and 
+ and
 Reuters
 Published On 10 Mar 2026
 10 Mar 2026

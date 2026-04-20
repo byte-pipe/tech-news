@@ -30,7 +30,7 @@ google
 Add Al Jazeera on Google
 info
 Lamine Yamal of FC Barcelona celebrates scoring his team's third goal during the La Liga match against Espanyol [David Ramos/Getty Images]
-By 
+By
 The Associated Press
 Published On 11 Apr 2026
 11 Apr 2026

@@ -26,14 +26,14 @@ Email
 ## The AI-linked cryptocurrencies moved higher after a report from Wired said Nvidia is planning an open-source platform for autonomous AI agents.
 
 By
- 
+
 Sam Reynolds
 |
 Edited by
- 
+
 Omkar Godbole
- 
-Mar 10, 2026, 5:29 a.m. 
+
+Mar 10, 2026, 5:29 a.m.
 Make us preferred on Google
 
 #### What to know:
@@ -60,13 +60,13 @@ More For You
 Bitcoin outperforms stocks, tops $72,000 even as dollar strengthens
 
 By
- 
+
 Oliver Knight
-, 
+,
 Omkar Godbole
 |
 Edited by
- 
+
 Sheldon Reback
 21 minutes ago
 
@@ -79,7 +79,7 @@ What to know:
 * TRUMP jumped over 30% after a gala announcement for top holders, while AI tokens TAO and FET each gained about 14% amid broader market strength.
 Read full story
 Latest Crypto News
- 
+
 
 #### Bitcoin outperforms stocks, tops $72,000 even as dollar strengthens
 

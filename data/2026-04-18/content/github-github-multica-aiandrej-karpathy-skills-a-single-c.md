@@ -11,7 +11,7 @@ description: A single CLAUDE.md file to improve Claude Code behavior, derived fr
 
 multica-ai
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork4.8k
 * Star56.2k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -215,13 +215,13 @@ curl -o CLAUDE.md https://raw.githubusercontent.com/forrestchang/andrej-karpathy
 Existing project (append):
 
 echo
- 
+
 "
 "
- 
+
 >>
  CLAUDE.md
-curl https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/CLAUDE.md 
+curl https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/CLAUDE.md
 >>
  CLAUDE.md
 
@@ -248,7 +248,7 @@ These guidelines are designed to be merged with project-specific instructions. A
 
 For project-specific rules, add sections like:
 
-## 
+##
 Project-Specific Guidelines
 
 -
@@ -258,7 +258,7 @@ Project-Specific Guidelines
  All API endpoints must have tests
 
 -
- Follow the existing error handling patterns in 
+ Follow the existing error handling patterns in
 `
 src/utils/errors.ts
 `
@@ -281,46 +281,46 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
  Readme
 
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 56.2k
 
  stars
- 
+
 
 ### Watchers
 
 324
 
  watching
- 
+
 
 ### Forks
 
 4.8k
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -338,9 +338,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 

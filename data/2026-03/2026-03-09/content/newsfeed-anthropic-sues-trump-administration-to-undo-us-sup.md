@@ -18,9 +18,9 @@ Listen to this article
 5 mins
 info
 The Pentagon designated Anthropic as a 'supply chain risk' after the US startup refused to remove guardrails against using its artificial intelligence (AI) for autonomous weapons or domestic surveillance [File: Dado Ruvic/Illustration/Reuters]
-By 
+By
 AP
- and 
+ and
 Reuters
 Published On 9 Mar 2026
 9 Mar 2026
@@ -70,9 +70,9 @@ Anthropic filed two separate lawsuits Monday, one in California federal court an
 
 Anthropic officials said the lawsuit doesn’t preclude reopening negotiations with the US government and reaching a settlement. The company has said it does not want to be fighting with the US government. The Pentagon said it would not comment on litigation. Last week, a Pentagon official said the two sides were no longer in active talks.
 
- 
 
- 
+
+
 
 ## Threat to business
 

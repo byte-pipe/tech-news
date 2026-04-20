@@ -14,7 +14,7 @@ tags:
 - hnrss
 ---
 
-Posted 
+Posted
 Apr 3, 2026 at 9:43 PM UTC
 S
 Sean Hollister
@@ -23,7 +23,7 @@ Apple approves driver that lets Nvidia eGPUs work with Arm Macs.
 Did hell freeze over? Not quite: the driver belongsto Tiny Corp, not Nvidia, you’ll have tocompile it with Dockerrather than plug-and-play, and it’s designed for LLMs. But you no longerneed to disableApple’s System Integrity Protection (SIP), because Apple is letting that driver get signed, Tiny says.
 
 Apple finally approved our driver for both AMD and NVIDIA,” Tiny writes.
- 
+
 Image: Tiny Corp
 Follow topics and authors
  from this story to see more like this in your personalized homepage feed and to receive email updates.
@@ -51,19 +51,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 
 ## More inTech
@@ -90,7 +90,7 @@ Stevie Bonifield
 Apr 3
 The best iPad deals you can get right now
 Sheena Vasani
- and 
+ and
 Brandon Widder
 Apr 3
 Anker’s small, five-port travel adapter is down to its best price yet

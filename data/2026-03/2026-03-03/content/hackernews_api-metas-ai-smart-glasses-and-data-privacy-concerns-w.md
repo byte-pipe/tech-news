@@ -179,7 +179,7 @@ According to him, few people truly consider what they are agreeing to when they 
 
 “The user really has no idea what is happening behind the scenes”, says Petter Flink.
 
-Petter Flink. Foto: Daniel Larsson 
+Petter Flink. Foto: Daniel Larsson
 
 At the same time, the technology has become both more accessible and more enticing, with new functions that quickly reach a broad audience.
 
@@ -262,45 +262,45 @@ Naipanoi Lepapa
 
 Naipanoi Lepapa är en prisbelönt grävande frilansjournalist baserad i Nairobi…
 
- 
+
 Följ skribent
- 
+
 Sluta följa
 Ahmed Abdigadir
 
 Undersökande reporter på SvD. Nominerad till en Guldspade 2023 för…
 
- 
+
 Följ skribent
- 
+
 Sluta följa
 Julia Lindblom
 
 Julia Lindblom är grävande reporter på Göteborgs-Posten
 
- 
+
 Följ skribent
- 
+
 Sluta följa
 Erik Norman
 
 Erik Norman är digital designer på Göteborgs-Posten, med specialistkunskap inom…
 
- 
+
 Följ skribent
- 
+
 Sluta följa
 
 ### Läs även
 
 ## Ministern: ”Det här kan vara direkt farligt”
 
- 
+
 2026-02-25 06:01
 
 ## AI-revolutionens grovarbetare
 
- 
+
 2026-02-26 06:02
 
 ### Relaterade ämnen

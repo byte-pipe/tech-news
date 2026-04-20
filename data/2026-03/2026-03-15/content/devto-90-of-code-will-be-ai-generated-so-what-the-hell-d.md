@@ -231,7 +231,7 @@ Are you worried about the 90% prediction — or are you optimistic? And what are
 Heads up: AI helped me write this.But the 2am debugging story, the conversations, and the opinions are all mine — AI just helped me communicate them better. I believe in being transparent about my process! 😊
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -242,7 +242,7 @@ Preview
 Dismiss
 
  View full discussion (34 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

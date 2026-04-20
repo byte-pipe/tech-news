@@ -11,7 +11,7 @@ description: The JavaScript / Wasm runtime that powers Cloudflare Workers - clou
 
 cloudflare
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork565
 * Star7.6k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -344,37 +344,37 @@ workerdis configured using a config file written in Cap'n Proto text format.
 A simple "Hello World!" config file might look like:
 
 using
- Workerd = 
+ Workerd =
 import
- 
+
 "/workerd/workerd
 .
 capnp"
 ;
 
 const
- config 
+ config
 :Workerd.Config
  = (
  services = [
- (name = 
+ (name =
 "main"
 , worker = .mainWorker),
  ],
 
  sockets = [
- 
+
 #
  Serve HTTP on port 8080.
 
- ( name = 
+ ( name =
 "http"
 ,
- address = 
+ address =
 "*:8080"
 ,
  http = (),
- service = 
+ service =
 "main"
 
  ),
@@ -382,22 +382,22 @@ const
 );
 
 const
- mainWorker 
+ mainWorker
 :Workerd.Worker
  = (
- serviceWorkerScript = embed 
+ serviceWorkerScript = embed
 "hello
 .
 js"
 ,
- compatibilityDate = 
+ compatibilityDate =
 "2023-02-28"
 ,
- 
+
 #
  Learn more about compatibility dates at:
 
- 
+
 #
  https://developers.cloudflare.com/workers/platform/compatibility-dates/
 
@@ -409,20 +409,20 @@ addEventListener
 (
 "fetch"
 ,
- 
+
 event
- 
+
 =>
- 
+
 {
 
- 
+
 event
 .
 respondWith
 (
 new
- 
+
 Response
 (
 "Hello World"
@@ -512,7 +512,7 @@ And corresponding sockets file:
  /etc/systemd/system/workerd.socket
 
 [Unit]
-Description=sockets 
+Description=sockets
 for
  workerd
 PartOf=workerd.service
@@ -536,66 +536,66 @@ blog.cloudflare.com/workerd-open-source-workers-runtime/
 
  Readme
 
- 
+
 
 ### License
 
  Apache-2.0 license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 Custom properties
- 
+
 
 ### Stars
 
 7.6k
 
  stars
- 
+
 
 ### Watchers
 
 62
 
  watching
- 
+
 
 ### Forks
 
 565
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases411
 
@@ -603,11 +603,11 @@ v1.20260317.1
 
  Latest
 
- 
+
 
 Mar 17, 2026
 
- 
+
 
 + 410 releases
 
@@ -623,14 +623,14 @@ Mar 17, 2026
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Used by90.4k
 
  + 90,372
- 
+
 
 ## Contributors
 
@@ -638,9 +638,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

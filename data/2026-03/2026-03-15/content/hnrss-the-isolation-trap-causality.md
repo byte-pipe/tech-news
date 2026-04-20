@@ -13,17 +13,17 @@ tags:
 ---
 
 March 2026
- 
+
 
 # The Isolation Trap
 
- 
+
 
 What Erlang shows about the limits of concurrency through isolation
 
- 
- 
- 
+
+
+
 
 We’re continuing to look at the state of concurrency in programming languages and identifying what’s wrong with it. As a reminder, inMessage Passing Is Shared Mutable StateI argued that Go’s channels are shared mutable state with extra steps. But you may think Go’s channels aren’t true message passing. The honor for “best case for message passing” probably falls to Erlang. So let’s look at Erlang.
 
@@ -52,10 +52,10 @@ Consider two Erlang servers that each need data from the other:
 %% Server A handles a request by calling Server B
 
 handle_call
-(request, _From, State) 
+(request, _From, State)
 ->
 
- Result 
+ Result
 =
  gen_server
 :
@@ -73,10 +73,10 @@ call(server_b
 %% Server B handles a request by calling Server A
 
 handle_call
-(sub_request, _From, State) 
+(sub_request, _From, State)
 ->
 
- Result 
+ Result
 =
  gen_server
 :
@@ -108,14 +108,14 @@ Erlang’s Shape
 Mitigation
 Enforced by
 Deadlock
-Circular 
+Circular
 gen_server:call
  chains
 Prefer async casts, use timeouts
 Convention at design time
 Leak
 Unbounded mailbox growth
-Monitor sizes, use 
+Monitor sizes, use
 pobox
 , back-pressure
 Monitoring at runtime
@@ -207,21 +207,21 @@ In these two essays we’ve seen two approaches both hitting the same-shaped wal
 * Fowler, Simon and Raymond Hu. “Speak Now: Safe Actor Programming with Multiparty Session Types.” OOPSLA 2026.arXiv
 * Hébert, Fred.pobox: External buffer processes to protect against mailbox overflow in Erlang. GitHub.
 * Hébert, Fred. “Handling Overload.”Blog post.
- 
- 
+
+
 Discuss:
 Hacker News
 Reddit
- 
- 
+
+
 
 ### Stay in the loop
 
- 
+
 
 Get notified when new posts are published. No spam, no tracking, just ideas.
 
- 
- 
- 
+
+
+
 Subscribe

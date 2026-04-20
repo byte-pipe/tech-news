@@ -27,8 +27,8 @@ The Trump admin labeled Anthropic’s AI a supply-chain risk after the company w
 The Trump admin labeled Anthropic’s AI a supply-chain risk after the company wouldn’t back down on acceptable uses for its tech.
 
 by
- 
- 
+
+
 Hayden Field
 Mar 9, 2026, 4:37 PM UTC
 * Link
@@ -36,9 +36,9 @@ Mar 9, 2026, 4:37 PM UTC
 * Gift
 Part Of
 AI vs. the Pentagon: killer robots, mass surveillance, and red lines
-see all updates 
+see all updates
 Hayden Field
- 
+
 is The Verge’s senior AI reporter. An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets.
 
 Anthropic has sued the US government over itsdesignation as a supply-chain risk, the latest move in a weekslongbattle between it and the Pentagonover the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting “red lines” on mass domestic surveillance and fully autonomous weapons.
@@ -100,19 +100,19 @@ A free daily digest of the news that matters most.
 Email (required)
 Sign Up
 By submitting your email, you agree to our
- 
+
 Terms
- and 
+ and
 Privacy Notice
-. 
+.
 This site is protected by reCAPTCHA and the Google
- 
+
 Privacy Policy
- 
+
 and
- 
+
 Terms of Service
- 
+
 apply.
 Advertiser Content From
 

@@ -70,7 +70,7 @@ Meanwhile, the higher-end Omen models get you access to the new RTX 50-series gr
 Beyond gaming laptops, HP gaming desktops like the opulentOmen 45Lmay also be discounted. Like the Omen Max laptops, the Omen 45L comes with RTX 50-series graphics. There’s tons of bundle promotions for discounts ongaming gear, like the HyperX Cloud Alpha wireless gaming headset and HyperX Pulsefire Haste 2 wireless gaming mouse for 30% off—a total of $88 in savings.
 
 Luke Larsen
- is a product writer and reviewer at WIRED, covering laptops, PCs, Macs, monitors, and the wider PC peripheral ecosystem. He’s been reporting on tech for over a decade, previously at Digital Trends as the senior editor in computing, where he spent seven years leading the publication’s daily coverage. ... 
+ is a product writer and reviewer at WIRED, covering laptops, PCs, Macs, monitors, and the wider PC peripheral ecosystem. He’s been reporting on tech for over a decade, previously at Digital Trends as the senior editor in computing, where he spent seven years leading the publication’s daily coverage. ...
 Read More
 Product Writer & Reviewer
 
@@ -106,7 +106,7 @@ This sale spans almost an entire week, and it’s full of fake “deals.” We h
 Louryn Strampe
 Save Up to 67% With These Chirp Discount Codes and Deals
 Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.
-Boutayna Chokrane 
+Boutayna Chokrane
 I’m a Certified Sleep Coach—These Sleep Week Deals Are the Ones I’d Buy Myself
 From mattresses to sateen sheets, these exclusive deals on my personal picks can help you upgrade your sleep for less.
 Julia Forbes

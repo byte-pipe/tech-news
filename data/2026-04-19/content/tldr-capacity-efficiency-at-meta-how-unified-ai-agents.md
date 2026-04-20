@@ -12,11 +12,11 @@ tags:
 - tldr
 ---
 
-By 
+By
 Tommy Tran
-, 
+,
 Michael Zetune
- 
+
 
 * We’re sharing insights into Meta’s Capacity Efficiency Program, where we’ve built an AI agent platform that helps automate finding and fixing performance issues throughout our infrastructure.
 * By leveraging encoded domain expertise across a unified, standardized tool interface these agents help save power and free up engineers’ time away from addressing performance issues to innovating on new products.

@@ -70,7 +70,7 @@ But companies have been flattening for two years now. Amazon increased its IC-to
 
 This means there are fewer Director and VP roles to grow into (and much less Senior EM ones). You can be a great EM for years and find yourself stuck.
 
-Note: leadjobs.dev is a side project I’m building with 
+Note: leadjobs.dev is a side project I’m building with
 Piotr
 . I’ve been exploring the eng leadership job market in the last few months through the data we get.
 

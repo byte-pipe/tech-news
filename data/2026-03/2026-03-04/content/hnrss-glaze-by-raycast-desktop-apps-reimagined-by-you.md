@@ -14,7 +14,7 @@ tags:
 
 Glaze
 by
- 
+
 Raycast
 
 # Desktop apps,reimagined by you.

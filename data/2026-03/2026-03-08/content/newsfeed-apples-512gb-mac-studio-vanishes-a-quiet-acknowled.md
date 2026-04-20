@@ -35,19 +35,19 @@ Apple’s Ultra chips are the only ones it sells that support more than 128GB of
 RAM is in short supply in part because memory-makers have shifted their production capacity toward the more lucrative high-bandwidth memory (HBM) used in pricey data center AI accelerators likeNvidia’s H200. That has left a smaller supply of traditional DRAM for companies and consumers to fight over, and many smaller companies haveraised prices(sometimesmore than once) anddelayed product launchesas a result. Apple buys and uses so much RAM across all its product lines that it’s in a better negotiating position than the likes of Framework or Raspberry Pi, but CEO Tim Cook acknowledgedin the company’s last earnings callthat memory pricing could begin to eat into Apple’s profit margins later this year.
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
  Andrew Cunningham
- 
+
 
 Senior Technology Reporter
 
- Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called 
+ Andrew is a Senior Technology Reporter at Ars Technica, with a focus on consumer tech including computer hardware and in-depth reviews of operating systems like Windows and macOS. Andrew lives in Philadelphia and co-hosts a weekly book podcast called
 Overdue
 .
- 
+
 
 1. 1.Satellite firm pauses imagery after revealing Iran's attacks on US bases
 2. 2.Asteroid defense mission shifted the orbit of more than its target

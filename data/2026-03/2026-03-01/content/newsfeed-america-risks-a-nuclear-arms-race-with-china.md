@@ -12,7 +12,7 @@ tags:
 ---
 
 International
- | 
+ |
 Three scorpions
 
 # America risks a nuclear-arms race with China
@@ -21,7 +21,7 @@ Three scorpions
 
 Share
 Photograph: Reuters
- 
+
 Feb 3rd 2026
 |
 WASHINGTON, DC

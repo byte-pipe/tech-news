@@ -13,7 +13,7 @@ tags:
 
 Minimal Intro
 Open Source
-★ 
+★
 15
 
 # folios that actually look cute.
@@ -38,7 +38,7 @@ Freemium
 ## Pro
 
 $2.99
-/ 
+/
 month
 
 Ideal for active builders with multiple apps.

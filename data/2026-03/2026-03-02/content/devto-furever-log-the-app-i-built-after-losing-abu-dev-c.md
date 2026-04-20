@@ -308,7 +308,7 @@ And Abu’s story continues in a way that helps others eventho he is no longer h
 Additional Notes:✨ Includes an “Export for Vet” feature that generates a clean summary of logs and visits for easy sharing during appointments.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 

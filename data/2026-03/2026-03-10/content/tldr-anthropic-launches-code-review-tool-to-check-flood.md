@@ -27,7 +27,7 @@ Pull requests are a mechanism that developers use to submit code changes for rev
 
 Anthropic’s launch of Code Review — arriving first to Claude for Teams and Claude for Enterprise customers in research preview — comes at a pivotal moment for the company.
 
- 
+
 
 Techcrunch event
 
@@ -70,19 +70,19 @@ The multi-agent architecture means this can be a resource-intensive product, Wu 
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 claude code
-, 
+,
 code review
-, 
+,
 Exclusive
-, 
+,
 vibe coding
- 
 
-			Rebecca Bellan	
+
+			Rebecca Bellan
 
 Senior Reporter
 
@@ -90,6 +90,6 @@ Rebecca Bellan is a senior reporter at TechCrunch where she covers the business,
 
 You can contact or verify outreach from Rebecca by emailingrebecca.bellan@techcrunch.comor via encrypted message at rebeccabellan.491 on Signal.
 
- 
+
 
 View Bio

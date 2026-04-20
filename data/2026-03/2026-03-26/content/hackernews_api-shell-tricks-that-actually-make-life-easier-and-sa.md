@@ -65,15 +65,15 @@ pushdandpopd: Ifcd -is a toggle switch,pushdis a stack. Need to juggle multipl
 $_: In most shells,$_expands to the last argument of the previous command-especially useful interactively or in simple scripts when you need to operate on the same long path twice:
 
 mkdir
- 
+
 -p
- 
+
 /some/ridiculously/long/path/newdir
- 
+
 &&
- 
+
 cd
- 
+
 "
 $_
 "
@@ -97,11 +97,11 @@ CTRL + R: Reverse incremental search. Stop pressing the up arrow forty times to 
 
 ### The “Oops, Sudo” Move
 
-!!: This expands to the entirety of your previous command. 
+!!: This expands to the entirety of your previous command.
 Its most famous use case is the “Permission denied” walk of shame. You confidently typesystemctl restart nginx, hit enter, and the system laughs at your lack of privileges. Instead of retyping it, run:
 
 sudo
- 
+
 !!
 
 It’s your way of telling the shell, “Do what I said, but this time with authority.”
@@ -126,7 +126,7 @@ The Backup Expansion:
 Need to edit a critical config file and want to make a quick backup first?
 
 cp
- 
+
 pf.conf
 {
 ,.bak
@@ -137,7 +137,7 @@ The shell expands this seamlessly intocp pf.conf pf.conf.bak.
 The Rename Trick:
 
 mv
- 
+
 filename.
 {
 txt,md
@@ -149,32 +149,32 @@ Need multiple directories?mkdir -p project/{src,tests,docs}creates all three at
 
 ### Process Substitution
 
-<(command): Treats the output of a command as if it were a file. 
+<(command): Treats the output of a command as if it were a file.
 Say you want to diff the sorted versions of two files. Traditionally, you’d sort them into temporary files, diff those, and clean up. Process substitution skips the middleman:
 
 diff
- 
+
 <
 (
 sort
- 
+
 file1.txt
 )
- 
+
 <
 (
 sort
- 
+
 file2.txt
 )
 
 ### The Ultimate Glob
 
-**(Globstar):findis a great command, but sometimes it feels like overkill. If you runshopt -s globstarin Bash (it’s enabled by default in Zsh),**matches files recursively in all subdirectories. 
+**(Globstar):findis a great command, but sometimes it feels like overkill. If you runshopt -s globstarin Bash (it’s enabled by default in Zsh),**matches files recursively in all subdirectories.
 Need to find all JavaScript files in your current directory and everything beneath it?
 
 ls
- 
+
 **/*.js
 
 Nofindcommand required.

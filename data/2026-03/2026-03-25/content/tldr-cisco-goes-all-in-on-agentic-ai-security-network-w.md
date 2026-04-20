@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Michael Cooney
 
 Senior Editor
@@ -22,13 +22,13 @@ News
 
 Mar 23, 2026
 8 mins
- 
+
 
 ## New offerings include DefenseClaw, an open-source agent framework designed to automate security and inventory, and AI Defense: Explorer Edition, which provides self-service tools for developers to test model and application resilience.
 
- 
 
-							Credit: 															Shutterstock													
+
+							Credit: 															Shutterstock
 
 Cisco is laying the groundwork to protect enterprise customers from anonslaught of AI agentsand any security problems they may present in the near future. It’s rolling out identity and access management capabilities, a toolkit customers can use to embed security controls inAI agents, and automation features that will allow security operations teams to quickly see and respond to problems.
 
@@ -108,27 +108,27 @@ And thirdly, DefenseClaw enforces block and allow lists. “When you block a s
 Artificial Intelligence
 Network Security
 Security
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Michael Cooney															
+														by
+
+																Michael Cooney
 
 Senior Editor
 
@@ -147,7 +147,7 @@ Michael is a senior editor with Network World focused on deciphering the strateg
 * news analysis### Cisco: LPO not a panacea but plays strategic role in AI networksMar 6, 20264 mins
 * news### Cisco: AI is a double-edged sword in industrial networksMar 3, 20264 mins
 * news### IBM X-Force: AI creates security challenges, but basic system flaws are more problematicFeb 25, 20265 mins
- 
+
 
 ## Show me more
 
@@ -157,12 +157,12 @@ Podcasts
 Videos
 
 news
- 
- 
+
+
 
 ### 2026 network outage report and internet health check
 
- 
+
 By Denise Dubie
 Mar 24, 2026
 29 mins
@@ -172,12 +172,12 @@ Network Monitoring
 Networking
 
 news
- 
- 
+
+
 
 ### FCC bans foreign routers, putting enterprise network risk in focus
 
- 
+
 By Prasanth Aby Thomas
 Mar 24, 2026
 4 mins
@@ -186,12 +186,12 @@ Networking
 Networking Devices
 
 news analysis
- 
- 
+
+
 
 ### Nvidia: Latest news and insights
 
- 
+
 By Dan Muse
 Mar 23, 2026
 42 mins
@@ -199,12 +199,12 @@ Mar 23, 2026
 Artificial Intelligence
 
 podcast
- 
- 
+
+
 
 ### Has the hype around ‘Internet of Things’ paid off? | Ep. 145
 
- 
+
 Apr 18, 2024
 36 mins
 
@@ -212,12 +212,12 @@ IoT Platforms
 IoT Security
 
 podcast
- 
- 
+
+
 
 ### Episode 1: Understanding Cisco’s Converged SDN Transport
 
- 
+
 Sep 24, 2021
 20 mins
 
@@ -226,12 +226,12 @@ Internet
 Networking
 
 podcast
- 
- 
+
+
 
 ### Episode 2: Pluggable Optics and the Internet for the Future
 
- 
+
 Sep 23, 2021
 17 mins
 
@@ -240,36 +240,36 @@ Computers and Peripherals
 Internet
 
 video
- 
- 
+
+
 
 ### Master Linux Math with the bc Command | Easy CLI Calculations Explained!
 
- 
+
 Jun 23, 2025
 1 mins
 
 Operating Systems
 
 video
- 
- 
+
+
 
 ### Master Linux Math in Seconds: How to Use the expr Command Like a Pro
 
- 
+
 Jun 17, 2025
 1 mins
 
 Operating Systems
 
 video
- 
- 
+
+
 
 ### How to Do Math in the Command Line Using Double Parentheses
 
- 
+
 Jun 6, 2025
 1 mins
 

@@ -27,11 +27,11 @@ Best Overall
 SanDisk Extreme Pro
 Read more
 $68
- 
+
 $62
- 
+
 (9% off)
- 
+
 
 Amazon (128 GB)
 
@@ -39,11 +39,11 @@ A Compact Alternative
 Patriot Supersonic Rage Prime
 Read more
 $70
- 
+
 $68
- 
+
 (3% off)
- 
+
 
 B&H (500 GB)
 
@@ -51,7 +51,7 @@ Best USB-C Flash Drive (and the Fastest)
 Kingston DataTraveler Max
 Read more
 $147
- 
+
 
 Amazon (1 TB)
 
@@ -59,7 +59,7 @@ Best Budget Flash Drive
 Verbatim Pinstripe
 Read more
 $21
- 
+
 
 Amazon (256 GB)
 
@@ -92,7 +92,7 @@ Capacity
 Max Speeds
 Warranty
 Best Overall:
- 
+
 SanDisk Extreme Pro
 $33
 USB 3.2 Gen 1 Type-A
@@ -100,7 +100,7 @@ USB 3.2 Gen 1 Type-A
 420 MB/s read, 380 MB/s write
 Lifetime
 A Compact Alternative:
- 
+
 Patriot Supersonic Rage Prime
 $35
 USB 3.2 Gen 2 Type-A
@@ -108,7 +108,7 @@ USB 3.2 Gen 2 Type-A
 600 MB/s read, 600 MB/s write
 5 years
 Best USB-C:
- 
+
 Kingston DataTraveler Max
 $101
 USB 3.2 Gen 2 Type-C
@@ -116,7 +116,7 @@ USB 3.2 Gen 2 Type-C
 1,000 MB/s read, 900 MB/s write
 5 years
 Best Budget:
- 
+
 Verbatim Pinstripe
 $19
 USB 3.2 Gen 1 Type-A
@@ -124,7 +124,7 @@ USB 3.2 Gen 1 Type-A
 100 MB/s read, 80 MB/s write
 2 years
 Most Secure:
- 
+
 Kingston IronKey Vault Privacy 50
 $70
 USB 3.2 Gen 1 Type-A or Type C
@@ -132,7 +132,7 @@ USB 3.2 Gen 1 Type-A or Type C
 250 MB/s read, 180 MB/s write
 5 years
 Best Tiny:
- 
+
 Verbatim Nano
 $12
 USB 3.2 Gen 1 Type-A
@@ -140,7 +140,7 @@ USB 3.2 Gen 1 Type-A
 80 MB/s read, 25 MB/s write
 2 years
 USB-C and USB-A:
- 
+
 OWC Envoy Pro Mini
 $95
 USB 3.2 Gen 2 Type-A and Type C
@@ -148,7 +148,7 @@ USB 3.2 Gen 2 Type-A and Type C
 946 MB/s read, 946 MB/s write
 3 years
 Smaller USB-C and USB-A:
- 
+
 PNY Duo Link
 $13
 USB 3.2 Gen 2 Type-A and Type-C
@@ -156,7 +156,7 @@ USB 3.2 Gen 2 Type-A and Type-C
 200 MB/s read, 110 MB/s write
 1 year
 Fun Drive
-: 
+:
 SanDisk Crayola
 $35
 USB 3.2 Gen 1 Type-C
@@ -164,7 +164,7 @@ USB 3.2 Gen 1 Type-C
 300 MB/s read, 150 MB/s write
 5 years
 Minimalist USB-C:
- 
+
 SanDisk Ultra Luxe
 $16
 USB 3.2 Gen 1 Type-C
@@ -172,7 +172,7 @@ USB 3.2 Gen 1 Type-C
 400 MB/s read, 400 MB/s write
 5 years
 Most Durable:
- 
+
 Corsair Flash Survivor Stealth
 $70
 USB 3.0 Type-A
@@ -261,9 +261,9 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Simon Hill
- is a senior writer for WIRED and has been testing and writing about technology for more than 15 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially 
+ is a senior writer for WIRED and has been testing and writing about technology for more than 15 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially
 smartphones
- ... 
+ ...
 Read More
 Senior writer and reviewer
 * bluesky

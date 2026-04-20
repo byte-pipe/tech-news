@@ -11,7 +11,7 @@ description: Contribute to andrewyng/context-hub development by creating an acco
 
 andrewyng
 
- 
+
 
 /
 
@@ -23,9 +23,9 @@ Public
 * Fork913
 * Star10.4k
 
- 
- 
- 
+
+
+
  
 main
 Branches
@@ -112,13 +112,13 @@ Coding agents hallucinate APIs and forget what they learn in a session. Context 
 ## Quick Start
 
 npm install -g @aisuite/chub
-chub search openai 
+chub search openai
 #
  find what's available
 
-chub get openai/chat --lang py 
+chub get openai/chat --lang py
 #
- fetch current docs (Python version) 
+ fetch current docs (Python version)
 
 ## How It Works
 
@@ -126,15 +126,15 @@ Chub is designed for your coding agent to use (not for you to use!). You can pro
 
 Most of the time, it's simple — search, fetch, use:
 
-chub search 
+chub search
 "
 stripe payments
 "
- 
+
 #
  find relevant docs
 
-chub get stripe/api --lang js 
+chub get stripe/api --lang js
 #
  fetch the doc
 
@@ -143,7 +143,7 @@ chub get stripe/api --lang js
 
 When the agent discovers a gap, it can annotate locally for next time:
 
-chub annotate stripe/api 
+chub annotate stripe/api
 "
 Needs raw body for webhook verification
 "
@@ -157,11 +157,11 @@ Feedback flows back to authors—chub feedback stripe/api upordown— vote the d
 
 Versioned, language-specific. "What to know."
 
-chub get openai/chat --lang py 
+chub get openai/chat --lang py
 #
  Python variant
 
-chub get openai/chat --lang js 
+chub get openai/chat --lang js
 #
  JavaScript variant
 
@@ -239,69 +239,69 @@ MIT
 ## About
 
  No description, website, or topics provided.
- 
+
 
 ### Resources
 
  Readme
 
- 
+
 
 ### License
 
  MIT license
- 
+
 
 ### Code of conduct
 
  Code of conduct
- 
+
 
 ### Contributing
 
  Contributing
- 
+
 
 ### Security policy
 
  Security policy
- 
+
 
 ### Uh oh!
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 Activity
- 
+
 
 ### Stars
 
 10.4k
 
  stars
- 
+
 
 ### Watchers
 
 83
 
  watching
- 
+
 
 ### Forks
 
 913
 
  forks
- 
+
 
  Report repository
 
- 
+
 
 ## Releases
 
@@ -319,9 +319,9 @@ No releases published
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Contributors
 
@@ -329,9 +329,9 @@ There was an error while loading.Please reload this page.
 
 There was an error while loading.Please reload this page.
 
- 
 
- 
+
+
 
 ## Languages
 

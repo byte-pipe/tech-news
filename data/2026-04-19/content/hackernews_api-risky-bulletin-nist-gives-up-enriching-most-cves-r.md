@@ -211,15 +211,15 @@ Codex hacks a smart TV:Security firm Calif has used OpenAI's Codex agent to hack
 
 Fabricked attack:A team of academics has developed a new attack that breaks the confidentiality of AMD's secure enclave technology. TheFabricked attackredirects memory transactions to trick AMD's secure co-processor into improperly initializing SEV-SNP enclaves. The novel technique allows attackers to control confidential virtual machines where each individual customer's data is typically processed in cloud environments. AMDreleased patchesthis week as part of its Patch Tuesday. Frabricked is one of multiple AMD SEV-SNP attacks disclosed over the past two years. Others include RMPocalypse, BadRAM, Ahoi, Heracles, WireTap, BatteringRAM, and TEE.Fail.
 
- 
- 
- 
+
+
+
 Post by @stevel@hachyderm.io
- 
+
 View on Mastodon
- 
- 
- 
+
+
+
 
 ### Infosec industry
 

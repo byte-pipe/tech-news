@@ -36,11 +36,11 @@ Education
 Hebrew University
  (
 BS
-, 
+,
 MS
 )
 University of Pennsylvania
- 
+
 Princeton University
  (
 PhD
@@ -56,7 +56,7 @@ Berlekamp–Rabin algorithm
 Miller–Rabin primality test
 Hyper-encryption
 Infinite-tree automaton
-Decidability of 
+Decidability of
  S2S
 Nondeterministic finite automata
 Oblivious transfer
@@ -88,7 +88,7 @@ Harvard University
 Hebrew University of Jerusalem
 Columbia University
 Thesis
- Recursive Unsolvability of Group Theoretic Problems 
+ Recursive Unsolvability of Group Theoretic Problems
  
 (1957)
 Doctoral advisor
@@ -206,7 +206,7 @@ In 1995, Rabin was awarded theIsrael Prize, in computer sciences.[24]In 2010, Ra
 * v
 * t
 * e
-Winners of the 
+Winners of the
 Paris Kanellakis Theory and Practice Award
 
 * Adleman,Diffie,Hellman,Merkle,Rivest,Shamir(1996)
@@ -308,9 +308,9 @@ A. M. Turing Award
 * t
 * e
 Fellows
- of the 
+ of the
 Royal Society
- elected 
+ elected
 in 2007
 Fellows
 
@@ -375,7 +375,7 @@ Honorary
 * Onora O'Neill
 
 Authority control databases
- 
+
 International
 * ISNI
 * VIAF
@@ -405,7 +405,7 @@ https://en.wikipedia.org/w/index.php?title=Michael_O._Rabin&oldid=1349730658
 "
 
 Categories
-: 
+:
 * 1931 births
 * 2026 deaths
 * Foreign associates of the National Academy of Sciences
@@ -432,7 +432,7 @@ Categories
 * Members of the American Philosophical Society
 * Weizmann Prize recipients
 * Harvey Prize winners
-Hidden categories: 
+Hidden categories:
 * CS1: unfit URL
 * CS1 maint: url-status
 * CS1 French-language sources (fr)

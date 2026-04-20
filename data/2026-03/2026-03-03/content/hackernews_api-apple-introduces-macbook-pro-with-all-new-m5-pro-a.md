@@ -21,17 +21,17 @@ March 3, 2026
 
 # Apple introduces MacBook Pro with all‑new M5 Pro and M5 Max, delivering breakthrough pro performance and next-level on-device AI
 
- 
- 
+
+
  The world’s best pro laptop raises the bar again with blazing-fast CPU and GPU performance, plus up to 2x faster SSD speeds and 1TB of starting storage
- 
- 
+
+
 
  MacBook Pro with the all-new M5 Pro and M5 Max delivers blazing-fast performance and next-level on-device AI.
- 
+
 
 CUPERTINO, CALIFORNIA
- Apple today announced the latest 
+ Apple today announced the latest
 14- and 16-inch MacBook Pro
  with the all-new M5 Pro and M5 Max, bringing game-changing performance and AI capabilities to the world’s best pro laptop. With M5 Pro and M5 Max, MacBook Pro features a new CPU with the world’s fastest CPU core,
 1
@@ -44,7 +44,7 @@ CUPERTINO, CALIFORNIA
 “MacBook Pro with M5 Pro and M5 Max redefines what’s possible on a pro laptop, now up to 4x faster than the previous generation,” said John Ternus, Apple’s senior vice president of Hardware Engineering. “With Neural Accelerators in the GPU, the new MacBook Pro enables professionals to run advanced LLMs on device and unlock capabilities that no other laptop can do — all while maintaining exceptional battery life. Combined with even faster unified memory and storage, it empowers users to take their work even further, unleashing new possibilities and pushing the boundaries of what they can do.”
 
  MacBook Pro with M5 Pro and M5 Max provides tremendous performance boosts, featuring a new CPU with the world’s fastest CPU core, a next-generation GPU with a Neural Accelerator in each core, and higher unified memory bandwidth.
- 
+
 
 ## Blazing Performance with M5 Pro and M5 Max
 

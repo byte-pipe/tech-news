@@ -11,7 +11,7 @@ tags:
 - tldr
 ---
 
-by									
+by
 Dave Wright
 
 Contributor
@@ -22,13 +22,13 @@ Opinion
 
 Apr 1, 2026
 6 mins
- 
+
 
 ## AI agents fail when enterprise systems are disconnected. But every failure can be your blueprint for success.
 
- 
 
-							Credit: 															
+
+							Credit:
 Gareth Harrison
 
 For decades, structural engineers and IT teams have shared the same testing logic: apply controlled pressure, find where things give way and fix. In IT, that means a server that buckles at scale, a query that times out under load or a process that degrades when pushed past its limits.
@@ -83,27 +83,27 @@ Artificial Intelligence
 Enterprise Architecture
 IT Leadership
 Digital Transformation
- 
 
- 
 
-				SUBSCRIBE TO OUR NEWSLETTER			
+
+
+				SUBSCRIBE TO OUR NEWSLETTER
 
 ### From our editors straight to your inbox
 
-				Get started by entering your email address below.			
+				Get started by entering your email address below.
 
- 
+
 
 Please enter a valid email address
 
 Subscribe
 
- 
 
-														by 															
 
-																Dave Wright															
+														by
+
+																Dave Wright
 
 Contributor
 
@@ -122,7 +122,7 @@ As chief innovation officer at ServiceNow,Dave Wrightis a visionary exploring ho
 * opinion### How AI can drive business transformationJan 31, 20257 mins
 * opinion### Helping the public aboard the AI bandwagonOct 18, 20249 mins
 * opinion### AI success depends on a culture of innovationJun 24, 20247 mins
- 
+
 
 ## Show me more
 
@@ -132,13 +132,13 @@ Podcasts
 Videos
 
 brandpost
- 
+
 Sponsored by Datacom
- 
+
 
 ### Data centres: Building opportunities on solid foundations
 
- 
+
 By Datacom
 Apr 2, 2026
 3 mins
@@ -146,13 +146,13 @@ Apr 2, 2026
 Data Center
 
 brandpost
- 
+
 Sponsored by IGEL
- 
+
 
 ### From edge to enterprise: How the endpoint became IT’s most strategic layer and why Lenovo is joining the conversation at IGEL Now & Next Miami
 
- 
+
 By Jon Pollack, Director, Strategic Product Management, Lenovo
 Apr 2, 2026
 4 mins
@@ -160,12 +160,12 @@ Apr 2, 2026
 Security
 
 news
- 
- 
+
+
 
 ### IBM, Arm team up to bring Arm software to IBM Z mainframes
 
- 
+
 By Gyana Swain
 Apr 2, 2026
 5 mins
@@ -175,12 +175,12 @@ IBM
 Servers
 
 podcast
- 
- 
+
+
 
 ### From AI Ambition to Enterprise Reality - Scaling AI in Southeast Asia
 
- 
+
 Mar 26, 2026
 32 mins
 
@@ -189,38 +189,38 @@ Data Quality
 IT Strategy
 
 podcast
- 
+
 Sponsored by Vertesia
- 
+
 
 ### Episode 4: From fear to framework: Building a secure and compliant AI operating model
 
- 
+
 Mar 24, 2026
 29 mins
 
 Artificial Intelligence
 
 podcast
- 
+
 Sponsored by Vertesia
- 
+
 
 ### Episode 3: Internal alignment: How the CIO can mobilize the entire IT organization for AI
 
- 
+
 Mar 10, 2026
 27 mins
 
 Artificial Intelligence
 
 video
- 
- 
+
+
 
 ### Watch Zapier Turn AI Prompts Into Enterprise Workflows
 
- 
+
 Apr 1, 2026
 24 mins
 
@@ -229,12 +229,12 @@ Business Process Management
 Generative AI
 
 video
- 
- 
+
+
 
 ### From AI Ambition to Enterprise Reality - Scaling AI in Southeast Asia
 
- 
+
 By Estelle Quek
 Mar 26, 2026
 32 mins
@@ -244,12 +244,12 @@ Data Quality
 IT Strategy
 
 video
- 
- 
+
+
 
 ### Watch Immersive Help CISOs Prove Cyber Readiness with AI-Powered Attack Simulations
 
- 
+
 Mar 25, 2026
 16 mins
 

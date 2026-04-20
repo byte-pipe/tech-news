@@ -15,7 +15,7 @@ tags:
 
 anthropics
 
- 
+
 
 /
 
@@ -34,7 +34,7 @@ Closed as not planned
 Cache TTL silently regressed from 1h to 5m around early March 2026, causing quota and cost inflation
 #46829
 Assignees
- 
+
 Labels
 api:anthropic
 area:cost
@@ -48,8 +48,8 @@ Has detailed reproduction steps
 ## Description
 
 seanGSISG
-opened 
-on 
+opened
+on
 Apr 12, 2026
 Issue body actions
 
@@ -91,9 +91,9 @@ Feb 1 – Mar 5
 1h ONLY
 
 ephemeral_5m = 0
-, 
+,
 ephemeral_1h > 0
- across 
+ across
 33+ consecutive days
  on both machines — near-zero exceptions
 

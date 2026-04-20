@@ -17,10 +17,10 @@ tags:
 # Clojure on Fennel part one: Persistent Data Structures
 
  Tue, Apr 7, 2026
- 
+
 
 @language-design
- 
+
 @programming
 
 laziness
@@ -60,26 +60,26 @@ I mean, it works to some degree, but the support for standard library is far fro
 
 user=>
  (
-defn 
+defn
 prime?
  [
 n
 ]
 
  (
-not 
+not
 (
-some zero? 
+some zero?
 (
-map 
+map
 #(
-rem 
+rem
 n
- 
+
 %
 ) (
-range 
-2 
+range
+2
 n
 )))))
 
@@ -91,22 +91,22 @@ x89ba7c550>
 
 user=>
  (
-for 
+for
 [
 x
  (
-range 
+range
 3 33 2)
 
- 
+
 :when
  (
 prime?
- 
+
 x
 )]
 
- 
+
 x
 )
 
@@ -397,10 +397,10 @@ However, when first working on this, I noticed this:
 
 >>
  (
-local 
+local
 hash-map
  (
-require 
+require
 :io.gitlab.andreyorst.immutable.PersistentHashMap
 ))
 
@@ -408,12 +408,12 @@ nil
 
 >>
  (
-local 
+local
 {
-: 
+:
 hash
 } (
-require 
+require
 :io.gitlab.andreyorst.immutable.impl.hash
 ))
 
@@ -424,9 +424,9 @@ nil
 hash
  (
 hash-map
- 
+
 :foo
- 1 
+ 1
 :bar
  2))
 
@@ -437,7 +437,7 @@ hash-map
 hash
  {
 :foo
- 1 
+ 1
 :bar
  2})
 
@@ -448,19 +448,19 @@ hash
 hash-map
  (
 hash-map
- 
+
 :foo
- 1 
+ 1
 :bar
  2) 1 {
 :foo
- 1 
+ 1
 :bar
  2} 2)
 
 {{
 :foo
- 1 
+ 1
 :bar
  2} 2}
 
@@ -469,36 +469,36 @@ Well, that depends on insertion order:
 
 >>
  (
-each 
+each
 [
 _
- 
+
 k
  (
-pairs 
+pairs
 (
 hash-map
  (
 hash-map
- 
+
 :foo
- 1 
+ 1
 :bar
  2) 1 {
 :foo
- 1 
+ 1
 :bar
  2} 2))]
 
  (
-print 
+print
 (
-getmetatable 
+getmetatable
 k
 )))
 
 IPersistentHashMap
-: 
+:
 0
 x824d9b570
 
@@ -506,31 +506,31 @@ nil
 
 >>
  (
-each 
+each
 [
 _
- 
+
 k
  (
-pairs 
+pairs
 (
 hash-map
  {
 :foo
- 1 
+ 1
 :bar
  2} 2 (
 hash-map
- 
+
 :foo
- 1 
+ 1
 :bar
  2) 1))]
 
  (
-print 
+print
 (
-getmetatable 
+getmetatable
 k
 )))
 
@@ -962,53 +962,53 @@ So, while you can do fancy things like this:
 
 >>
  (
-fn 
+fn
 comp
  [
 f
- 
+
 g
 ] (
-fn 
+fn
 [
 ...
 ] (
 f
  (
 g
- 
+
 ...
 ))))
 
 #
 <function
-: 
+:
 0
 x7bdb320a0>
 
 >>
  (
-debug.setmetatable 
+debug.setmetatable
 (
-fn 
+fn
 []) {
 :__add
- 
+
 comp
 })
 
 #
 <function
-: 
+:
 0
 x7bd17f040>
 
 >>
  ((
-+ 
-string.reverse 
++
+string.reverse
 string.upper
-) 
+)
 "foo"
 )
 
@@ -1045,15 +1045,15 @@ A general case is just:
 (
 PersistentList.from-iterator
  #(
-pairs 
+pairs
 data
 ) (
-fn 
+fn
 [
 _
- 
+
 v
-] 
+]
 v
 ))
 

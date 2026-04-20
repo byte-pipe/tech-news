@@ -38,7 +38,7 @@ Best Folding Phone
 Honor Magic V5
 Read more
 $1,580
- 
+
 
 Amazon
 
@@ -46,11 +46,11 @@ Best Gaming Phone
 Nubia Redmagic 11 Pro
 Read more
 $749
- 
+
 $729
- 
+
 (3% off)
- 
+
 
 Redmagic
 
@@ -203,9 +203,9 @@ Power up with unlimited access toWIRED.Get best-in-class reporting and exclusive
 Back to top
 Triangle
 Simon Hill
- is a senior writer for WIRED and has been testing and writing about technology for around 20 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially 
+ is a senior writer for WIRED and has been testing and writing about technology for around 20 years. You can find his previous work at Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, and many other places. He loves all things tech, but especially
 smartphones
- and ... 
+ and ...
 Read More
 Senior writer and reviewer
 * bluesky

@@ -13,7 +13,7 @@ tags:
 
 # Hackers compromise Axios npm package to drop cross-platform malware
 
- By 
+ By
 
 ###### Bill Toulas
 

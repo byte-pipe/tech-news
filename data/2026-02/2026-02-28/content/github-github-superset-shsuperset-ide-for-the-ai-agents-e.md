@@ -11,7 +11,7 @@ description: IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc.
 
 superset-sh
 
- 
+
 
 /
 
@@ -30,41 +30,41 @@ superset.sh
 ### License
 
  View license
- 
+
 
 2.2k
 
  stars
 
- 
+
 
 176
 
  forks
 
- 
+
 
 Branches
 
- 
+
 
 Tags
 
- 
+
 
 Activity
 
- 
 
- 
+
+
 
  Star
 
- 
+
 
 Notifications
 
- 
+
 You must be signed in to change notification settings
 
 # superset-sh/superset

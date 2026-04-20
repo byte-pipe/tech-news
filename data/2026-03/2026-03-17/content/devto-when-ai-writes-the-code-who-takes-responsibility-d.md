@@ -107,7 +107,7 @@ Who kidnapped the lease?
 
 Somewhere inside a SweetAlert message was this:
 
-`Rent payment of 
+`Rent payment of
 ${
 amount
 }
@@ -307,7 +307,7 @@ Have you ever caught a bug introduced by AI-generated code?
 I'd love to hear your experience.
 
  Create template
- 
+
 
 Templates let you quickly answer FAQs or store snippets for re-use.
 
@@ -318,7 +318,7 @@ Preview
 Dismiss
 
  View full discussion (51 comments)
- 
+
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
 

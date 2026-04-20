@@ -40,19 +40,19 @@ Still, it’s a reminder of how powerful AI tools can be for open source project
 Topics
 
 AI
-, 
+,
 Anthropic
-, 
+,
 Claude
-, 
+,
 Firefox
-, 
+,
 In Brief
-, 
+,
 Security
-, 
+,
 Vulnerabilities
- 
+
 
 ### Newsletters
 
@@ -77,7 +77,7 @@ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
 Provides movers and shakers with the info they need to start their day.
 
 					No newsletters selected.
-				
+
 
 Subscribe
 

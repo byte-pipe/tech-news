@@ -15,7 +15,7 @@ tags:
 
 # Bundle of human neurons hooked to silicon learns to stumble through Doom
 
- 
+
 
 ## What hath science wrought?
 
@@ -48,10 +48,10 @@ Nobody is claiming the cells have developed a taste for speedrunning or demon-sl
 
 The long-term goal is to understand how neurons learn and adapt, potentially helping drug research or new computing ideas. In the short term, it means a dish of human brain cells is discovering that Doom's demons shoot back. ®
 
- 
+
 
 Get our
- 
+
 Tech Resources
 
 Share
