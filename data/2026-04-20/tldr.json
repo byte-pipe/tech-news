@@ -210,29 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Archon (GitHub Repo)",
-    "url": "https://github.com/coleam00/Archon",
-    "description": "Archon (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-20",
-    "site_name": "tldr"
-  },
-  {
     "title": "Autoresearch isn't just for training models (11 minute read)",
     "url": "https://shopify.engineering/autoresearch",
     "description": "Autoresearch isn't just for training models (11 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Awesome Deception (GitHub Repo)",
-    "url": "https://github.com/tracebit-com/awesome-deception",
-    "description": "Awesome Deception (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -343,6 +323,16 @@
     "title": "Claude Opus 4.7 (8 minute read)",
     "url": "https://www.anthropic.com/news/claude-opus-4-7",
     "description": "Claude Opus 4.7 (8 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Companies are measuring AI adoption. They should be measuring capacity. (3 minute read)",
+    "url": "https://www.productparty.us/p/companies-are-measuring-ai-adoption",
+    "description": "Companies are measuring AI adoption. They should be measuring capacity. (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -660,16 +650,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Magika (GitHub Repo)",
-    "url": "https://github.com/google/magika",
-    "description": "Magika (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-20",
-    "site_name": "tldr"
-  },
-  {
     "title": "Managing context in long-run agentic applications (14 minute read)",
     "url": "https://slack.engineering/managing-context-in-long-run-agentic-applications/",
     "description": "Managing context in long-run agentic applications (14 minute read)",
@@ -680,9 +660,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Marky (GitHub Repo)",
-    "url": "https://github.com/GRVYDEV/marky",
-    "description": "Marky (GitHub Repo)",
+    "title": "Microsoft is working on yet another OpenClaw-like agent (2 minute read)",
+    "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+    "description": "Microsoft is working on yet another OpenClaw-like agent (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -690,9 +670,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft is working on yet another OpenClaw-like agent (2 minute read)",
-    "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-    "description": "Microsoft is working on yet another OpenClaw-like agent (2 minute read)",
+    "title": "Multica (GitHub Repo)",
+    "url": "https://github.com/multica-ai/multica",
+    "description": "Multica (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -910,9 +890,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites (1 minute read)",
+    "url": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/",
+    "description": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-20",
+    "site_name": "tldr"
+  },
+  {
     "title": "Stop Treating AI Memory Like a Search Problem (22 minute read)",
     "url": "https://towardsdatascience.com/stop-treating-ai-memory-like-a-search-problem/",
     "description": "Stop Treating AI Memory Like a Search Problem (22 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Stop comparing price per million tokens: the hidden LLM API costs (4 minute read)",
+    "url": "https://www.tensorzero.com/blog/stop-comparing-price-per-million-tokens-the-hidden-llm-api-costs/",
+    "description": "Stop comparing price per million tokens: the hidden LLM API costs (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1023,6 +1023,16 @@
     "title": "Top TRUMP Holders Invited to Second Mar-a-Lago Gala (2 minute read)",
     "url": "https://www.dlnews.com/articles/markets/the-stars-attending-trump-memecoin-gala-lunch-on-april-25/",
     "description": "Top TRUMP Holders Invited to Second Mar-a-Lago Gala (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Trump Officials Reveal Designs of Triumphal Arch in Washington, DC (2 minute read)",
+    "url": "https://www.dezeen.com/2026/04/10/president-trump-triumphal-arch-harrison-design/",
+    "description": "Trump Officials Reveal Designs of Triumphal Arch in Washington, DC (2 minute read)",
     "tags": [
       "tldr"
     ],
