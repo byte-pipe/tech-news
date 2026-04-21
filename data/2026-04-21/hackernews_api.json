@@ -1,45 +1,45 @@
 [
   {
-    "title": "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
-    "url": "https://mastodon.social/@jdm_/116429380667467307",
-    "author": "luu",
-    "date": "2026-04-19",
-    "score": 217,
-    "comments": 119,
-    "id": 47826839,
-    "discussion_url": "https://news.ycombinator.com/item?id=47826839",
-    "description": "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
+    "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+    "url": "https://codemix.com/graph",
+    "author": "phpnode",
+    "date": "2026-04-21",
+    "score": 123,
+    "comments": 34,
+    "id": 47846946,
+    "discussion_url": "https://news.ycombinator.com/item?id=47846946",
+    "description": "A type-safe, realtime collaborative Graph Database in a CRDT",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991045"
+    "fetched_at": "2026-04-21T20:02:29.243803"
   },
   {
-    "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-    "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-    "author": "bishwasbh",
-    "date": "2026-04-21",
-    "score": 194,
-    "comments": 100,
-    "id": 47844431,
-    "discussion_url": "https://news.ycombinator.com/item?id=47844431",
-    "description": "A Roblox cheat and one AI tool brought down Vercel's platform",
+    "title": "Air is full of DNA",
+    "url": "https://www.nature.com/articles/d41586-026-01099-2",
+    "author": "howrude",
+    "date": "2026-04-18",
+    "score": 162,
+    "comments": 56,
+    "id": 47819738,
+    "discussion_url": "https://news.ycombinator.com/item?id=47819738",
+    "description": "Air is full of DNA",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990966"
+    "fetched_at": "2026-04-21T20:02:29.244093"
   },
   {
     "title": "All phones sold in the EU to have replaceable batteries from 2027",
     "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
     "author": "ramonga",
     "date": "2026-04-20",
-    "score": 1324,
-    "comments": 1109,
+    "score": 1401,
+    "comments": 1191,
     "id": 47834195,
     "discussion_url": "https://news.ycombinator.com/item?id=47834195",
     "description": "All phones sold in the EU to have replaceable batteries from 2027",
@@ -48,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991024"
+    "fetched_at": "2026-04-21T20:02:29.244107"
   },
   {
     "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
     "url": "https://docs.openclaw.ai/providers/anthropic",
     "author": "jmsflknr",
     "date": "2026-04-21",
-    "score": 248,
-    "comments": 159,
+    "score": 443,
+    "comments": 248,
     "id": 47844269,
     "discussion_url": "https://news.ycombinator.com/item?id=47844269",
     "description": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
@@ -65,117 +65,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990915"
+    "fetched_at": "2026-04-21T20:02:29.243901"
   },
   {
-    "title": "Atlassian enables default data collection to train AI",
-    "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
-    "author": "kevcampb",
-    "date": "2026-04-20",
-    "score": 575,
-    "comments": 126,
-    "id": 47833247,
-    "discussion_url": "https://news.ycombinator.com/item?id=47833247",
-    "description": "Atlassian enables default data collection to train AI",
+    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+    "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "author": "Brajeshwar",
+    "date": "2026-04-21",
+    "score": 224,
+    "comments": 239,
+    "id": 47848276,
+    "discussion_url": "https://news.ycombinator.com/item?id=47848276",
+    "description": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991048"
+    "fetched_at": "2026-04-21T20:02:29.244000"
   },
   {
-    "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
-    "url": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
-    "author": "axbyte",
-    "date": "2026-04-20",
-    "score": 245,
-    "comments": 154,
-    "id": 47831742,
-    "discussion_url": "https://news.ycombinator.com/item?id=47831742",
-    "description": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+    "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
+    "url": "https://fsfe.org/news/2026/news-20260420-01.html",
+    "author": "kirschner",
+    "date": "2026-04-21",
+    "score": 200,
+    "comments": 43,
+    "id": 47847124,
+    "discussion_url": "https://news.ycombinator.com/item?id=47847124",
+    "description": "Apple ignores DMA interoperability requests and contradicts own documentation",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990987"
+    "fetched_at": "2026-04-21T20:02:29.244051"
   },
   {
-    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-    "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-    "author": "FiddlerClamp",
-    "date": "2026-04-20",
-    "score": 350,
-    "comments": 362,
-    "id": 47835928,
-    "discussion_url": "https://news.ycombinator.com/item?id=47835928",
-    "description": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+    "title": "Clojure: Transducers",
+    "url": "https://clojure.org/reference/transducers",
+    "author": "tosh",
+    "date": "2026-04-19",
+    "score": 111,
+    "comments": 46,
+    "id": 47823365,
+    "discussion_url": "https://news.ycombinator.com/item?id=47823365",
+    "description": "Clojure: Transducers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991082"
+    "fetched_at": "2026-04-21T20:02:29.243914"
   },
   {
-    "title": "F-35 is built for the wrong war",
-    "url": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
-    "author": "anjel",
-    "date": "2026-04-20",
-    "score": 268,
-    "comments": 553,
-    "id": 47839835,
-    "discussion_url": "https://news.ycombinator.com/item?id=47839835",
-    "description": "F-35 is built for the wrong war",
+    "title": "Edit store price tags using Flipper Zero",
+    "url": "https://github.com/i12bp8/TagTinker",
+    "author": "trueduke",
+    "date": "2026-04-19",
+    "score": 189,
+    "comments": 195,
+    "id": 47822978,
+    "discussion_url": "https://news.ycombinator.com/item?id=47822978",
+    "description": "Edit store price tags using Flipper Zero",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991078"
+    "fetched_at": "2026-04-21T20:02:29.243831"
   },
   {
-    "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
-    "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
-    "author": "breve",
-    "date": "2026-04-17",
-    "score": 160,
-    "comments": 24,
-    "id": 47810531,
-    "discussion_url": "https://news.ycombinator.com/item?id=47810531",
-    "description": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+    "title": "Framework Laptop 13 Pro",
+    "url": "https://frame.work/laptop13pro",
+    "author": "Trollmann",
+    "date": "2026-04-21",
+    "score": 387,
+    "comments": 211,
+    "id": 47852177,
+    "discussion_url": "https://news.ycombinator.com/item?id=47852177",
+    "description": "Framework Laptop 13 Pro",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991089"
+    "fetched_at": "2026-04-21T20:02:29.243821"
   },
   {
-    "title": "GitHub's fake star economy",
-    "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-    "author": "Liriel",
-    "date": "2026-04-20",
-    "score": 782,
-    "comments": 366,
-    "id": 47831621,
-    "discussion_url": "https://news.ycombinator.com/item?id=47831621",
-    "description": "GitHub's fake star economy",
+    "title": "Fusion Power Plant Simulator",
+    "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
+    "author": "sam",
+    "date": "2026-04-21",
+    "score": 111,
+    "comments": 55,
+    "id": 47849315,
+    "discussion_url": "https://news.ycombinator.com/item?id=47849315",
+    "description": "Fusion Power Plant Simulator",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991065"
+    "fetched_at": "2026-04-21T20:02:29.243871"
+  },
+  {
+    "title": "How a subsea cable is repaired (2021)",
+    "url": "https://www.onesteppower.com/post/subsea-cable-repair",
+    "author": "slicktux",
+    "date": "2026-04-16",
+    "score": 120,
+    "comments": 36,
+    "id": 47797457,
+    "discussion_url": "https://news.ycombinator.com/item?id=47797457",
+    "description": "How a subsea cable is repaired (2021)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-21T20:02:29.244103"
   },
   {
     "title": "How to make a fast dynamic language interpreter",
     "url": "https://zef-lang.dev/implementation",
     "author": "pizlonator",
     "date": "2026-04-21",
-    "score": 186,
-    "comments": 30,
+    "score": 232,
+    "comments": 48,
     "id": 47843194,
     "discussion_url": "https://news.ycombinator.com/item?id=47843194",
     "description": "How to make a fast dynamic language interpreter",
@@ -184,49 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990959"
-  },
-  {
-    "title": "I Made the \"Next-Level\" Camera and I love it",
-    "url": "https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/",
-    "author": "ndr",
-    "date": "2026-04-16",
-    "score": 252,
-    "comments": 71,
-    "id": 47797382,
-    "discussion_url": "https://news.ycombinator.com/item?id=47797382",
-    "description": "I Made the \"Next-Level\" Camera and I love it",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991102"
-  },
-  {
-    "title": "I learned Unity the wrong way",
-    "url": "https://darkounity.com/blog/how-i-learned-unity-the-wrong-way",
-    "author": "lelanthran",
-    "date": "2026-04-16",
-    "score": 165,
-    "comments": 100,
-    "id": 47790041,
-    "discussion_url": "https://news.ycombinator.com/item?id=47790041",
-    "description": "I learned Unity the wrong way",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991051"
+    "fetched_at": "2026-04-21T20:02:29.244046"
   },
   {
     "title": "Japan's cherry blossom database, 1,200 years old, has a new keeper",
     "url": "https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html",
     "author": "caycep",
     "date": "2026-04-17",
-    "score": 136,
-    "comments": 17,
+    "score": 161,
+    "comments": 25,
     "id": 47811668,
     "discussion_url": "https://news.ycombinator.com/item?id=47811668",
     "description": "Japan's cherry blossom database, 1,200 years old, has a new keeper",
@@ -235,83 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990979"
-  },
-  {
-    "title": "John Ternus to become Apple CEO",
-    "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-    "author": "schappim",
-    "date": "2026-04-20",
-    "score": 1909,
-    "comments": 1035,
-    "id": 47840219,
-    "discussion_url": "https://news.ycombinator.com/item?id=47840219",
-    "description": "John Ternus to become Apple CEO",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990890"
-  },
-  {
-    "title": "Jujutsu megamerges for fun and profit",
-    "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
-    "author": "icorbrey",
-    "date": "2026-04-20",
-    "score": 240,
-    "comments": 124,
-    "id": 47841129,
-    "discussion_url": "https://news.ycombinator.com/item?id=47841129",
-    "description": "Jujutsu megamerges for fun and profit",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990997"
-  },
-  {
-    "title": "Kefir C17/C23 Compiler",
-    "url": "https://sr.ht/~jprotopopov/kefir/",
-    "author": "conductor",
-    "date": "2026-04-17",
-    "score": 162,
-    "comments": 18,
-    "id": 47811154,
-    "discussion_url": "https://news.ycombinator.com/item?id=47811154",
-    "description": "Kefir C17/C23 Compiler",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991028"
-  },
-  {
-    "title": "Kimi K2.6: Advancing open-source coding",
-    "url": "https://www.kimi.com/blog/kimi-k2-6",
-    "author": "meetpateltech",
-    "date": "2026-04-20",
-    "score": 662,
-    "comments": 344,
-    "id": 47835735,
-    "discussion_url": "https://news.ycombinator.com/item?id=47835735",
-    "description": "Kimi K2.6: Advancing open-source coding",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991072"
+    "fetched_at": "2026-04-21T20:02:29.244111"
   },
   {
     "title": "Kimi vendor verifier – verify accuracy of inference providers",
     "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
     "author": "Alifatisk",
     "date": "2026-04-20",
-    "score": 267,
-    "comments": 25,
+    "score": 304,
+    "comments": 28,
     "id": 47838703,
     "discussion_url": "https://news.ycombinator.com/item?id=47838703",
     "description": "Kimi vendor verifier – verify accuracy of inference providers",
@@ -320,83 +235,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990976"
+    "fetched_at": "2026-04-21T20:02:29.244089"
   },
   {
-    "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
-    "author": "Someone",
+    "title": "Laws of Software Engineering",
+    "url": "https://lawsofsoftwareengineering.com",
+    "author": "milanm081",
+    "date": "2026-04-21",
+    "score": 693,
+    "comments": 355,
+    "id": 47847179,
+    "discussion_url": "https://news.ycombinator.com/item?id=47847179",
+    "description": "Laws of Software Engineering",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-21T20:02:29.243866"
+  },
+  {
+    "title": "Less human AI agents, please",
+    "url": "https://nial.se/blog/less-human-ai-agents-please/",
+    "author": "nialse",
+    "date": "2026-04-21",
+    "score": 114,
+    "comments": 126,
+    "id": 47845429,
+    "discussion_url": "https://news.ycombinator.com/item?id=47845429",
+    "description": "Less human AI agents, please",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-21T20:02:29.244027"
+  },
+  {
+    "title": "Louis Zocchi, games industry pioneer, has died",
+    "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
+    "author": "sgbeal",
+    "date": "2026-04-21",
+    "score": 118,
+    "comments": 52,
+    "id": 47845231,
+    "discussion_url": "https://news.ycombinator.com/item?id=47845231",
+    "description": "Louis Zocchi, games industry pioneer, has died",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-21T20:02:29.244035"
+  },
+  {
+    "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
+    "url": "http://mnt.stanleylieber.com/reform/",
+    "author": "speckx",
     "date": "2026-04-20",
-    "score": 280,
-    "comments": 129,
-    "id": 47832248,
-    "discussion_url": "https://news.ycombinator.com/item?id=47832248",
-    "description": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+    "score": 240,
+    "comments": 89,
+    "id": 47834689,
+    "discussion_url": "https://news.ycombinator.com/item?id=47834689",
+    "description": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991017"
+    "fetched_at": "2026-04-21T20:02:29.243910"
   },
   {
-    "title": "Modern Rendering Culling Techniques",
-    "url": "https://krupitskas.com/posts/modern_culling_techniques/",
-    "author": "krupitskas",
-    "date": "2026-04-19",
-    "score": 159,
-    "comments": 38,
-    "id": 47822549,
-    "discussion_url": "https://news.ycombinator.com/item?id=47822549",
-    "description": "Modern Rendering Culling Techniques",
+    "title": "Original GrapheneOS responses to WIRED fact checker",
+    "url": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
+    "author": "ChrisArchitect",
+    "date": "2026-04-21",
+    "score": 230,
+    "comments": 161,
+    "id": 47849854,
+    "discussion_url": "https://news.ycombinator.com/item?id=47849854",
+    "description": "Original GrapheneOS responses to WIRED fact checker",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991007"
-  },
-  {
-    "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-    "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-    "author": "jlark77777",
-    "date": "2026-04-20",
-    "score": 273,
-    "comments": 137,
-    "id": 47840980,
-    "discussion_url": "https://news.ycombinator.com/item?id=47840980",
-    "description": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991055"
-  },
-  {
-    "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-    "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-    "author": "feigewalnuss",
-    "date": "2026-04-20",
-    "score": 293,
-    "comments": 314,
-    "id": 47831437,
-    "discussion_url": "https://news.ycombinator.com/item?id=47831437",
-    "description": "OpenClaw isn't fooling me. I remember MS-DOS",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991031"
+    "fetched_at": "2026-04-21T20:02:29.244004"
   },
   {
     "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
     "url": "https://words.filippo.io/128-bits/",
     "author": "hasheddan",
     "date": "2026-04-20",
-    "score": 251,
-    "comments": 85,
+    "score": 286,
+    "comments": 106,
     "id": 47836784,
     "discussion_url": "https://news.ycombinator.com/item?id=47836784",
     "description": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
@@ -405,49 +337,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990948"
+    "fetched_at": "2026-04-21T20:02:29.244080"
   },
   {
-    "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-    "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-    "author": "mfiguiere",
-    "date": "2026-04-20",
-    "score": 637,
-    "comments": 339,
-    "id": 47834565,
-    "discussion_url": "https://news.ycombinator.com/item?id=47834565",
-    "description": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+    "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
+    "url": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
+    "author": "brilee",
+    "date": "2026-04-18",
+    "score": 148,
+    "comments": 24,
+    "id": 47815462,
+    "discussion_url": "https://news.ycombinator.com/item?id=47815462",
+    "description": "Running a Minecraft Server and More on a 1960s Univac Computer",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990962"
+    "fetched_at": "2026-04-21T20:02:29.243889"
   },
   {
-    "title": "Sauna effect on heart rate",
-    "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
-    "author": "kyriakosel",
-    "date": "2026-04-20",
-    "score": 424,
-    "comments": 222,
-    "id": 47834184,
-    "discussion_url": "https://news.ycombinator.com/item?id=47834184",
-    "description": "Sauna effect on heart rate",
+    "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+    "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+    "author": "1659447091",
+    "date": "2026-04-21",
+    "score": 123,
+    "comments": 79,
+    "id": 47844890,
+    "discussion_url": "https://news.ycombinator.com/item?id=47844890",
+    "description": "Salmon exposed to cocaine and its main byproduct roam more widely",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991058"
+    "fetched_at": "2026-04-21T20:02:29.243940"
+  },
+  {
+    "title": "Show HN: GoModel – an open-source AI gateway in Go",
+    "url": "https://github.com/ENTERPILOT/GOModel/",
+    "author": "santiago-pl",
+    "date": "2026-04-21",
+    "score": 127,
+    "comments": 47,
+    "id": 47849097,
+    "discussion_url": "https://news.ycombinator.com/item?id=47849097",
+    "description": "Show HN: GoModel – an open-source AI gateway in Go",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-21T20:02:29.243815"
+  },
+  {
+    "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+    "url": "https://mediator.ai/",
+    "author": "sanity",
+    "date": "2026-04-20",
+    "score": 134,
+    "comments": 66,
+    "id": 47835411,
+    "discussion_url": "https://news.ycombinator.com/item?id=47835411",
+    "description": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-21T20:02:29.243936"
+  },
+  {
+    "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+    "url": "https://vidstudio.app/video-editor",
+    "author": "kolx",
+    "date": "2026-04-21",
+    "score": 207,
+    "comments": 73,
+    "id": 47847558,
+    "discussion_url": "https://news.ycombinator.com/item?id=47847558",
+    "description": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-21T20:02:29.243860"
+  },
+  {
+    "title": "Smoking ban for people born after 2008 in the UK agreed",
+    "url": "https://www.bbc.co.uk/news/articles/cn08jy6w0l5o",
+    "author": "AndrewDucker",
+    "date": "2026-04-21",
+    "score": 115,
+    "comments": 288,
+    "id": 47847240,
+    "discussion_url": "https://news.ycombinator.com/item?id=47847240",
+    "description": "Smoking ban for people born after 2008 in the UK agreed",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-21T20:02:29.244084"
   },
   {
     "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
     "url": "https://prismml.com/news/ternary-bonsai",
     "author": "nnx",
     "date": "2026-04-18",
-    "score": 166,
-    "comments": 47,
+    "score": 216,
+    "comments": 54,
     "id": 47812749,
     "discussion_url": "https://news.ycombinator.com/item?id=47812749",
     "description": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
@@ -456,57 +456,57 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990901"
+    "fetched_at": "2026-04-21T20:02:29.244067"
   },
   {
-    "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
-    "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
-    "author": "janandonly",
-    "date": "2026-04-17",
-    "score": 172,
-    "comments": 29,
-    "id": 47810101,
-    "discussion_url": "https://news.ycombinator.com/item?id=47810101",
-    "description": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+    "title": "The Beauty of Bonsai Styles",
+    "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+    "author": "lagniappe",
+    "date": "2026-04-21",
+    "score": 186,
+    "comments": 36,
+    "id": 47844539,
+    "discussion_url": "https://news.ycombinator.com/item?id=47844539",
+    "description": "The Beauty of Bonsai Styles",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991106"
+    "fetched_at": "2026-04-21T20:02:29.243991"
   },
   {
-    "title": "WebUSB Extension for Firefox",
-    "url": "https://github.com/ArcaneNibble/awawausb",
-    "author": "tuananh",
-    "date": "2026-04-20",
-    "score": 246,
-    "comments": 225,
-    "id": 47832969,
-    "discussion_url": "https://news.ycombinator.com/item?id=47832969",
-    "description": "WebUSB Extension for Firefox",
+    "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+    "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+    "author": "queenelvis",
+    "date": "2026-04-21",
+    "score": 146,
+    "comments": 56,
+    "id": 47851634,
+    "discussion_url": "https://news.ycombinator.com/item?id=47851634",
+    "description": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.991034"
+    "fetched_at": "2026-04-21T20:02:29.243789"
   },
   {
-    "title": "ggsql: A Grammar of Graphics for SQL",
-    "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-    "author": "thomasp85",
-    "date": "2026-04-20",
-    "score": 428,
-    "comments": 80,
-    "id": 47833558,
-    "discussion_url": "https://news.ycombinator.com/item?id=47833558",
-    "description": "ggsql: A Grammar of Graphics for SQL",
+    "title": "Tim Cook's Impeccable Timing",
+    "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
+    "author": "hasheddan",
+    "date": "2026-04-21",
+    "score": 252,
+    "comments": 348,
+    "id": 47847324,
+    "discussion_url": "https://news.ycombinator.com/item?id=47847324",
+    "description": "Tim Cook's Impeccable Timing",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-21T11:59:32.990944"
+    "fetched_at": "2026-04-21T20:02:29.243926"
   }
 ]
