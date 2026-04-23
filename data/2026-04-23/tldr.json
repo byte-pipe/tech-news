@@ -1,28 +1,18 @@
 [
   {
+    "title": "5 genius marketing ideas (4 minute read)",
+    "url": "https://www.marketingideas.com/p/how-to-get-leads-from-your-404-page",
+    "description": "5 genius marketing ideas (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-23",
+    "site_name": "tldr"
+  },
+  {
     "title": "6 hard lessons creatives only learn when things go wrong (6 minute read)",
     "url": "https://www.creativeboom.com/tips/what-creative-professionals-learn-when-everything-goes-wrong/",
     "description": "6 hard lessons creatives only learn when things go wrong (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "60 Ways to Write About 1 Topic (1 minute read)",
-    "url": "https://www.linkedin.com/posts/katharine-gordon_i-dont-know-what-to-post-today-dont-share-7450506142331392001-foKn",
-    "description": "60 Ways to Write About 1 Topic (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "80% of Institutional Investors Plan to Pile Into Crypto and DeFi (3 minute read)",
-    "url": "https://www.dlnews.com/articles/markets/where-four-out-five-institutions-plan-to-invest-in-crypto-nomura-says/",
-    "description": "80% of Institutional Investors Plan to Pile Into Crypto and DeFi (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -43,36 +33,6 @@
     "title": "AI agents are becoming identity problems, not just productivity tools (4 minute read)",
     "url": "https://www.cio.com/article/4160452/managing-ai-agents-and-identity-in-a-heightened-risk-environment.html",
     "description": "AI agents are becoming identity problems, not just productivity tools (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI's Design Problem Is Organizational, Not Technological (20 minute read)",
-    "url": "https://www.uxtigers.com/post/ai-use-in-the-real-world-ai-s-design-problem-is-organizational-not-technological",
-    "description": "AI's Design Problem Is Organizational, Not Technological (20 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity (8 minute read)",
-    "url": "https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/",
-    "description": "AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Adobe's New Firefly AI Assistant Can Use Creative Cloud Apps to Complete Tasks (2 minute read)",
-    "url": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-    "description": "Adobe's New Firefly AI Assistant Can Use Creative Cloud Apps to Complete Tasks (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -140,6 +100,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Anthropics works on its always-on agent with UI extensions (3 minute read)",
+    "url": "https://www.testingcatalog.com/anthropics-works-on-its-always-on-agent-with-new-ui-extensions/",
+    "description": "Anthropics works on its always-on agent with UI extensions (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-23",
+    "site_name": "tldr"
+  },
+  {
     "title": "Apple has already teased Siri's new design coming in iOS 27 (2 minute read)",
     "url": "https://9to5mac.com/2026/04/19/apple-has-already-teased-siris-new-design-coming-in-ios-27/",
     "description": "Apple has already teased Siri's new design coming in iOS 27 (2 minute read)",
@@ -200,29 +170,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Best Practices for Using Claude Opus 4.7 with Claude Code (5 minute read)",
-    "url": "https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code",
-    "description": "Best Practices for Using Claude Opus 4.7 with Claude Code (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Beyond the Roadmap (7 minute read)",
-    "url": "https://amycmitchell.substack.com/p/builder-pm-delivery",
-    "description": "Beyond the Roadmap (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "ChatGPT's new Images 2.0 model is surprisingly good at generating text (3 minute read)",
+    "title": "ChatGPT's new Images 2.0 model is surprisingly good at generating text (2 minute read)",
     "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-    "description": "ChatGPT's new Images 2.0 model is surprisingly good at generating text (3 minute read)",
+    "description": "ChatGPT's new Images 2.0 model is surprisingly good at generating text (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -230,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude Opus 4.7 (8 minute read)",
-    "url": "https://www.anthropic.com/news/claude-opus-4-7",
-    "description": "Claude Opus 4.7 (8 minute read)",
+    "title": "Claude Context (GitHub Repo)",
+    "url": "https://github.com/zilliztech/claude-context",
+    "description": "Claude Context (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -243,16 +193,6 @@
     "title": "Coinbase Expands USDC Loans to UK Users (4 minute read)",
     "url": "https://cointelegraph.com/news/coinbase-crypto-backed-usdc-loans-uk-morpho-fca-rules",
     "description": "Coinbase Expands USDC Loans to UK Users (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Content Power Hour w/ The Slate Marketing Team (Webinar)",
-    "url": "https://watch.getcontrast.io/register/slate-content-power-hour",
-    "description": "Content Power Hour w/ The Slate Marketing Team (Webinar)",
     "tags": [
       "tldr"
     ],
@@ -320,36 +260,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Duolingo's Kubernetes Leap (13 minute read)",
-    "url": "https://www.infoq.com/presentations/duolingo-eks-kubernetes/",
-    "description": "Duolingo's Kubernetes Leap (13 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Email Is Dead, Long Live Email (5 minute read)",
-    "url": "https://annhandley.com/long-live-email/",
-    "description": "Email Is Dead, Long Live Email (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Enterprise AI in 2026: Hype vs Reality (8 minute read)",
-    "url": "https://bsykes.substack.com/p/the-state-of-ai-adoption-in-the-enterprise",
-    "description": "Enterprise AI in 2026: Hype vs Reality (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "Free Online Vector Design Tool (Website)",
     "url": "https://graphite.art/",
     "description": "Free Online Vector Design Tool (Website)",
@@ -370,9 +280,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "GoModel (GitHub Repo)",
+    "url": "https://github.com/ENTERPILOT/GOModel/",
+    "description": "GoModel (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-23",
+    "site_name": "tldr"
+  },
+  {
     "title": "Good architecture shouldn't need a carrot or a stick (5 minute read)",
     "url": "https://frederickvanbrabant.com/blog/2026-04-17-good-architecture-shouldnt-need-a-carrot-or-a-stick/",
     "description": "Good architecture shouldn't need a carrot or a stick (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google's patent literally tells you how to refresh your content (1 minute read)",
+    "url": "https://www.linkedin.com/posts/jordanstevensdigitalmarketing_seo-contentstrategy-technicalseo-share-7450512075333931008-VE7q",
+    "description": "Google's patent literally tells you how to refresh your content (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -490,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Inside Lenny Rachitsky's Demandingly Chill Life (18 minute read)",
-    "url": "https://review.firstround.com/reluctantly-influential-inside-lenny-rachitskys-demandingly-chill-life/",
-    "description": "Inside Lenny Rachitsky's Demandingly Chill Life (18 minute read)",
+    "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says (6 minute read)",
+    "url": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
+    "description": "Internal emails show how Amazon raises prices across the Internet, lawsuit says (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -540,29 +470,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Jensen Huang on Anthropic, OpenAI, China, and demand for inference tokens (7 minute read)",
-    "url": "https://davefriedman.substack.com/p/jensen-huang-on-anthropic-openai",
-    "description": "Jensen Huang on Anthropic, OpenAI, China, and demand for inference tokens (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "Kelp DAO Exploited for $293M (3 minute read)",
     "url": "https://threadreaderapp.com/thread/2045588919362990431.html",
     "description": "Kelp DAO Exploited for $293M (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "LLM-Tier Personal Computer Security (6 minute read)",
-    "url": "https://www.lesswrong.com/posts/NCDiAzGZmMfEKNb87/llm-tier-personal-computer-security",
-    "description": "LLM-Tier Personal Computer Security (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -590,39 +500,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "LinkedIn's Algorithm Killed Company Pages. Employees Are The Distribution Now (3 minute read)",
-    "url": "https://www.thestateofbrand.com/news/linkedin-killed-company-pages",
-    "description": "LinkedIn's Algorithm Killed Company Pages. Employees Are The Distribution Now (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "MDV (GitHub Repo)",
     "url": "https://github.com/drasimwagan/mdv",
     "description": "MDV (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "MacBook Neo sells out for April as demand for Apple's $599 laptop outpaces supply (2 minute read)",
-    "url": "https://9to5mac.com/2026/04/16/macbook-neo-sells-out-for-april-as-demand-for-apples-affordable-laptop-outpaces-supply/",
-    "description": "MacBook Neo sells out for April as demand for Apple's $599 laptop outpaces supply (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Meta will train AI agents by tracking employees' mouse, keyboard use (2 minute read)",
-    "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
-    "description": "Meta will train AI agents by tracking employees' mouse, keyboard use (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -680,6 +560,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150 (3 minute read)",
+    "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+    "description": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150 (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-23",
+    "site_name": "tldr"
+  },
+  {
     "title": "Mythos and the reality of AI-driven vulnerability research in cybersecurity (8 minute read)",
     "url": "https://trustedsec.com/blog/mythos-memory-loss-and-the-part-infosec-keeps-missing",
     "description": "Mythos and the reality of AI-driven vulnerability research in cybersecurity (8 minute read)",
@@ -693,26 +583,6 @@
     "title": "NIST to stop rating non-priority flaws due to volume increase (2 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
     "description": "NIST to stop rating non-priority flaws due to volume increase (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "New undersea cable cutter risks Internet's backbone (4 minute read)",
-    "url": "https://arstechnica.com/gadgets/2026/04/china-tests-an-undersea-cable-cutter-as-suspected-sabotage-incidents-grow/",
-    "description": "New undersea cable cutter risks Internet's backbone (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI Expands Codex Into Desktop Agent Platform (3 minute read)",
-    "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-    "description": "OpenAI Expands Codex Into Desktop Agent Platform (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -753,16 +623,6 @@
     "title": "PostgreSQL MVCC, Byte by Byte (9 minute read)",
     "url": "https://boringsql.com/posts/postgresql-mvcc-byte-by-byte/",
     "description": "PostgreSQL MVCC, Byte by Byte (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Project Think: building the next generation of AI agents on Cloudflare (12 minute read)",
-    "url": "https://blog.cloudflare.com/project-think/",
-    "description": "Project Think: building the next generation of AI agents on Cloudflare (12 minute read)",
     "tags": [
       "tldr"
     ],
@@ -813,26 +673,6 @@
     "title": "Reddit's iOS app is adding Liquid Glass soon, here's how it looks (1 minute read)",
     "url": "https://9to5mac.com/2026/04/16/reddits-ios-app-is-adding-liquid-glass-soon-heres-how-it-looks/",
     "description": "Reddit's iOS app is adding Liquid Glass soon, here's how it looks (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Salesforce Expands Agentforce with FDE Partner Network (6 minute read)",
-    "url": "https://www.salesforce.com/news/stories/salesforce-launches-forward-deployed-engineer-partner-network-announcement/",
-    "description": "Salesforce Expands Agentforce with FDE Partner Network (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Salesforce Pushes Agent-First Enterprise With Headless 360 (6 minute read)",
-    "url": "https://www.cio.com/article/4159536/salesforce-launches-headless-360-to-support-agent-first-enterprise-workflows.html",
-    "description": "Salesforce Pushes Agent-First Enterprise With Headless 360 (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -940,16 +780,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Teens' Experiences on TikTok, Instagram, and Snapchat (5 minute read)",
-    "url": "https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/",
-    "description": "Teens' Experiences on TikTok, Instagram, and Snapchat (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "The AI Chasm (10 minute read)",
     "url": "https://www.antmurphy.me/newsletter/the-ai-chasm",
     "description": "The AI Chasm (10 minute read)",
@@ -1000,16 +830,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Top 10 Private AI Companies Are Now Worth More Than Every Public SaaS Company Combined (6 minute read)",
-    "url": "https://www.saastr.com/the-top-10-private-ai-companies-are-now-worth-more-than-every-public-saas-company-combined/",
-    "description": "The Top 10 Private AI Companies Are Now Worth More Than Every Public SaaS Company Combined (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "The Ultimate iOS Hardening Guide (GitHub Repo)",
     "url": "https://github.com/iAnonymous3000/iOS-Hardening-Guide",
     "description": "The Ultimate iOS Hardening Guide (GitHub Repo)",
@@ -1020,9 +840,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Vertical Codebase (7 minute read)",
-    "url": "https://tkdodo.eu/blog/the-vertical-codebase",
-    "description": "The Vertical Codebase (7 minute read)",
+    "title": "The WWDC 2026 logo could be a huge clue about the future of iPhone software design (2 minute read)",
+    "url": "https://www.creativebloq.com/design/logos-icons/the-wwdc-2026-logo-could-be-a-huge-clue-about-the-future-of-iphone-software-design",
+    "description": "The WWDC 2026 logo could be a huge clue about the future of iPhone software design (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1033,26 +853,6 @@
     "title": "The Work Runs on Different Maps (3 minute read)",
     "url": "https://yusufaytas.com/the-work-runs-on-different-maps",
     "description": "The Work Runs on Different Maps (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The brand consistency problem companies don't realize they have (1 minute read)",
-    "url": "https://www.linkedin.com/posts/rosshudgens_go-to-your-linkedin-company-page-right-now-share-7449933351290908672-TjwR",
-    "description": "The brand consistency problem companies don't realize they have (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The funnel flip: Why AI forces a bottom-up acquisition strategy (18 minute read)",
-    "url": "https://searchengineland.com/ai-funnel-bottom-up-acquisition-strategy-474877",
-    "description": "The funnel flip: Why AI forces a bottom-up acquisition strategy (18 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1140,16 +940,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Typography Scale and Design Tokens Generator (Website)",
-    "url": "https://typescale.ai/",
-    "description": "Typography Scale and Design Tokens Generator (Website)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "UK FCA Crypto Proposal Criticized as Broadest Regime Globally (4 minute read)",
     "url": "https://www.dlnews.com/articles/regulation/lawyer-criticises-uk-crypto-regulatory-proposal/",
     "description": "UK FCA Crypto Proposal Criticized as Broadest Regime Globally (4 minute read)",
@@ -1210,29 +1000,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Voice AI Component Library (Website)",
-    "url": "https://livekit.com/products/agents-ui",
-    "description": "Voice AI Component Library (Website)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "Vuln in Google's Antigravity AI agent manager could escape sandbox, give attackers remote code execution (2 minute read)",
     "url": "https://cyberscoop.com/google-antigravity-pillar-security-agent-sandbox-escape-remote-code-execution/",
     "description": "Vuln in Google's Antigravity AI agent manager could escape sandbox, give attackers remote code execution (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "We're All Building a Single Digital Assistant (33 minute read)",
-    "url": "https://danielmiessler.com/blog/we-are-all-building-single-digital-assistant",
-    "description": "We're All Building a Single Digital Assistant (33 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1250,9 +1020,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why AI Sucks at Front End (3 minute read)",
-    "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
-    "description": "Why AI Sucks at Front End (3 minute read)",
+    "title": "Where Experimentation Is Going (and How to Get There) (7 minute read)",
+    "url": "https://www.linkedin.com/pulse/where-experimentation-going-how-get-ben-labay-gycoc/",
+    "description": "Where Experimentation Is Going (and How to Get There) (7 minute read)",
     "tags": [
       "tldr"
     ],
