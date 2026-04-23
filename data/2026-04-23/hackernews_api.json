@@ -1,28 +1,28 @@
 [
   {
-    "title": "3.4M Solar Panels",
-    "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-    "author": "marklit",
-    "date": "2026-04-22",
-    "score": 308,
-    "comments": 237,
-    "id": 47862386,
-    "discussion_url": "https://news.ycombinator.com/item?id=47862386",
-    "description": "3.4M Solar Panels",
+    "title": "'Hairdryer used to trick weather sensor' to win Polymarket bet",
+    "url": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
+    "author": "zdw",
+    "date": "2026-04-23",
+    "score": 205,
+    "comments": 204,
+    "id": 47878208,
+    "discussion_url": "https://news.ycombinator.com/item?id=47878208",
+    "description": "'Hairdryer used to trick weather sensor' to win Polymarket bet",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095774"
+    "fetched_at": "2026-04-23T20:05:53.413546"
   },
   {
     "title": "5x5 Pixel font for tiny screens",
     "url": "https://maurycyz.com/projects/mcufont/",
     "author": "zdw",
     "date": "2026-04-19",
-    "score": 668,
-    "comments": 138,
+    "score": 785,
+    "comments": 152,
     "id": 47824943,
     "discussion_url": "https://news.ycombinator.com/item?id=47824943",
     "description": "5x5 Pixel font for tiny screens",
@@ -31,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095611"
+    "fetched_at": "2026-04-23T20:05:53.413593"
   },
   {
     "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
     "url": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
     "author": "Prof_Sigmund",
     "date": "2026-04-21",
-    "score": 100,
-    "comments": 18,
+    "score": 173,
+    "comments": 43,
     "id": 47846718,
     "discussion_url": "https://news.ycombinator.com/item?id=47846718",
     "description": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
@@ -48,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095598"
+    "fetched_at": "2026-04-23T20:05:53.413550"
   },
   {
     "title": "Alberta startup sells no-tech tractors for half price",
     "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
     "author": "Kaibeezy",
     "date": "2026-04-22",
-    "score": 1841,
-    "comments": 602,
+    "score": 2088,
+    "comments": 713,
     "id": 47865868,
     "discussion_url": "https://news.ycombinator.com/item?id=47865868",
     "description": "Alberta startup sells no-tech tractors for half price",
@@ -65,32 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095533"
+    "fetched_at": "2026-04-23T20:05:53.413508"
   },
   {
-    "title": "Another Day Has Come",
-    "url": "https://daringfireball.net/2026/04/another_day_has_come",
-    "author": "ndr42",
-    "date": "2026-04-21",
-    "score": 243,
-    "comments": 153,
-    "id": 47854365,
-    "discussion_url": "https://news.ycombinator.com/item?id=47854365",
-    "description": "Another Day Has Come",
+    "title": "An update on recent Claude Code quality reports",
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "author": "mfiguiere",
+    "date": "2026-04-23",
+    "score": 330,
+    "comments": 202,
+    "id": 47878905,
+    "discussion_url": "https://news.ycombinator.com/item?id=47878905",
+    "description": "An update on recent Claude Code quality reports",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095778"
+    "fetched_at": "2026-04-23T20:05:53.413415"
   },
   {
     "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
     "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
     "author": "cdrnsf",
     "date": "2026-04-22",
-    "score": 636,
-    "comments": 159,
+    "score": 807,
+    "comments": 180,
     "id": 47868867,
     "discussion_url": "https://news.ycombinator.com/item?id=47868867",
     "description": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
@@ -99,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095558"
+    "fetched_at": "2026-04-23T20:05:53.413504"
   },
   {
     "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
     "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
     "author": "maxloh",
     "date": "2026-04-23",
-    "score": 93,
-    "comments": 31,
+    "score": 262,
+    "comments": 91,
     "id": 47871519,
     "discussion_url": "https://news.ycombinator.com/item?id=47871519",
     "description": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
@@ -116,15 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095659"
+    "fetched_at": "2026-04-23T20:05:53.413530"
+  },
+  {
+    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+    "author": "tosh",
+    "date": "2026-04-23",
+    "score": 468,
+    "comments": 223,
+    "id": 47876043,
+    "discussion_url": "https://news.ycombinator.com/item?id=47876043",
+    "description": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-23T20:05:53.413475"
   },
   {
     "title": "Bodega cats of New York",
     "url": "https://bodegacatsofnewyork.com",
     "author": "zdw",
     "date": "2026-04-18",
-    "score": 198,
-    "comments": 82,
+    "score": 208,
+    "comments": 88,
     "id": 47812649,
     "discussion_url": "https://news.ycombinator.com/item?id=47812649",
     "description": "Bodega cats of New York",
@@ -133,49 +150,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095672"
+    "fetched_at": "2026-04-23T20:05:53.413608"
   },
   {
-    "title": "ChatGPT Images 2.0",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-    "author": "wahnfrieden",
-    "date": "2026-04-21",
-    "score": 1015,
-    "comments": 941,
-    "id": 47852835,
-    "discussion_url": "https://news.ycombinator.com/item?id=47852835",
-    "description": "ChatGPT Images 2.0",
+    "title": "French government agency confirms breach as hacker offers to sell data",
+    "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+    "author": "robtherobber",
+    "date": "2026-04-23",
+    "score": 316,
+    "comments": 106,
+    "id": 47877366,
+    "discussion_url": "https://news.ycombinator.com/item?id=47877366",
+    "description": "French government agency confirms breach as hacker offers to sell data",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095792"
+    "fetched_at": "2026-04-23T20:05:53.413496"
   },
   {
-    "title": "Columnar Storage Is Normalization",
-    "url": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
-    "author": "ibobev",
-    "date": "2026-04-22",
-    "score": 112,
-    "comments": 37,
-    "id": 47862626,
-    "discussion_url": "https://news.ycombinator.com/item?id=47862626",
-    "description": "Columnar Storage Is Normalization",
+    "title": "GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "author": "rd",
+    "date": "2026-04-23",
+    "score": 621,
+    "comments": 268,
+    "id": 47879092,
+    "discussion_url": "https://news.ycombinator.com/item?id=47879092",
+    "description": "GPT-5.5",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095761"
+    "fetched_at": "2026-04-23T20:05:53.413435"
   },
   {
     "title": "I am building a cloud",
     "url": "https://crawshaw.io/blog/building-a-cloud",
     "author": "bumbledraven",
     "date": "2026-04-23",
-    "score": 475,
-    "comments": 229,
+    "score": 895,
+    "comments": 449,
     "id": 47872324,
     "discussion_url": "https://news.ycombinator.com/item?id=47872324",
     "description": "I am building a cloud",
@@ -184,49 +201,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095594"
+    "fetched_at": "2026-04-23T20:05:53.413465"
   },
   {
-    "title": "Kernel code removals driven by LLM-created security reports",
-    "url": "https://lwn.net/Articles/1068928/",
-    "author": "edward",
-    "date": "2026-04-22",
-    "score": 116,
-    "comments": 101,
-    "id": 47862230,
-    "discussion_url": "https://news.ycombinator.com/item?id=47862230",
-    "description": "Kernel code removals driven by LLM-created security reports",
+    "title": "If America's so rich, how'd it get so sad?",
+    "url": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
+    "author": "momentmaker",
+    "date": "2026-04-23",
+    "score": 257,
+    "comments": 477,
+    "id": 47877429,
+    "discussion_url": "https://news.ycombinator.com/item?id=47877429",
+    "description": "If America's so rich, how'd it get so sad?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095765"
+    "fetched_at": "2026-04-23T20:05:53.413512"
   },
   {
-    "title": "Our eighth generation TPUs: two chips for the agentic era",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-    "author": "xnx",
-    "date": "2026-04-22",
-    "score": 433,
-    "comments": 213,
-    "id": 47862497,
-    "discussion_url": "https://news.ycombinator.com/item?id=47862497",
-    "description": "Our eighth generation TPUs: two chips for the agentic era",
+    "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
+    "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+    "author": "mentalgear",
+    "date": "2026-04-23",
+    "score": 354,
+    "comments": 122,
+    "id": 47874814,
+    "discussion_url": "https://news.ycombinator.com/item?id=47874814",
+    "description": "Investigation uncovers two sophisticated telecom surveillance campaigns",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095727"
+    "fetched_at": "2026-04-23T20:05:53.413515"
+  },
+  {
+    "title": "Our newsroom AI policy",
+    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "author": "zdw",
+    "date": "2026-04-23",
+    "score": 175,
+    "comments": 114,
+    "id": 47872452,
+    "discussion_url": "https://news.ycombinator.com/item?id=47872452",
+    "description": "Our newsroom AI policy",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-23T20:05:53.413522"
   },
   {
     "title": "Over-editing refers to a model modifying code beyond what is necessary",
     "url": "https://nrehiew.github.io/blog/minimal_editing/",
     "author": "pella",
     "date": "2026-04-22",
-    "score": 375,
-    "comments": 216,
+    "score": 411,
+    "comments": 237,
     "id": 47866913,
     "discussion_url": "https://news.ycombinator.com/item?id=47866913",
     "description": "Over-editing refers to a model modifying code beyond what is necessary",
@@ -235,15 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095811"
+    "fetched_at": "2026-04-23T20:05:53.413567"
+  },
+  {
+    "title": "Palantir employees are starting to wonder if they're the bad guys",
+    "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+    "author": "pavel_lishin",
+    "date": "2026-04-23",
+    "score": 299,
+    "comments": 201,
+    "id": 47878633,
+    "discussion_url": "https://news.ycombinator.com/item?id=47878633",
+    "description": "Palantir employees are starting to wonder if they're the bad guys",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-23T20:05:53.413445"
   },
   {
     "title": "Parallel agents in Zed",
     "url": "https://zed.dev/blog/parallel-agents",
     "author": "ajeetdsouza",
     "date": "2026-04-22",
-    "score": 239,
-    "comments": 126,
+    "score": 268,
+    "comments": 155,
     "id": 47866750,
     "discussion_url": "https://news.ycombinator.com/item?id=47866750",
     "description": "Parallel agents in Zed",
@@ -252,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095607"
+    "fetched_at": "2026-04-23T20:05:53.413600"
   },
   {
     "title": "Ping-pong robot beats top-level human players",
     "url": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
     "author": "wslh",
     "date": "2026-04-22",
-    "score": 127,
-    "comments": 170,
+    "score": 176,
+    "comments": 241,
     "id": 47864785,
     "discussion_url": "https://news.ycombinator.com/item?id=47864785",
     "description": "Ping-pong robot beats top-level human players",
@@ -269,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095552"
+    "fetched_at": "2026-04-23T20:05:53.413574"
   },
   {
     "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
     "url": "https://qwen.ai/blog?id=qwen3.6-27b",
     "author": "mfiguiere",
     "date": "2026-04-22",
-    "score": 876,
-    "comments": 402,
+    "score": 932,
+    "comments": 432,
     "id": 47863217,
     "discussion_url": "https://news.ycombinator.com/item?id=47863217",
     "description": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
@@ -286,15 +337,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095655"
+    "fetched_at": "2026-04-23T20:05:53.413589"
+  },
+  {
+    "title": "Raylib v6.0",
+    "url": "https://github.com/raysan5/raylib/releases/tag/6.0",
+    "author": "rydgel",
+    "date": "2026-04-23",
+    "score": 180,
+    "comments": 28,
+    "id": 47874854,
+    "discussion_url": "https://news.ycombinator.com/item?id=47874854",
+    "description": "Raylib v6.0",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-23T20:05:53.413556"
   },
   {
     "title": "Scoring Show HN submissions for AI design patterns",
     "url": "https://www.adriankrebs.ch/blog/design-slop/",
     "author": "hubraumhugo",
     "date": "2026-04-22",
-    "score": 314,
-    "comments": 227,
+    "score": 324,
+    "comments": 231,
     "id": 47864393,
     "discussion_url": "https://news.ycombinator.com/item?id=47864393",
     "description": "Scoring Show HN submissions for AI design patterns",
@@ -303,32 +371,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095646"
+    "fetched_at": "2026-04-23T20:05:53.413611"
   },
   {
-    "title": "Surveillance Pricing: Exploiting Information Asymmetries",
-    "url": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
-    "author": "cainxinth",
-    "date": "2026-04-22",
-    "score": 115,
-    "comments": 47,
-    "id": 47866395,
-    "discussion_url": "https://news.ycombinator.com/item?id=47866395",
-    "description": "Surveillance Pricing: Exploiting Information Asymmetries",
+    "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+    "url": "https://github.com/russellromney/honker",
+    "author": "russellthehippo",
+    "date": "2026-04-23",
+    "score": 197,
+    "comments": 28,
+    "id": 47874647,
+    "discussion_url": "https://news.ycombinator.com/item?id=47874647",
+    "description": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095782"
+    "fetched_at": "2026-04-23T20:05:53.413488"
   },
   {
     "title": "Technical, cognitive, and intent debt",
     "url": "https://martinfowler.com/fragments/2026-04-02.html",
     "author": "theorchid",
     "date": "2026-04-22",
-    "score": 271,
-    "comments": 71,
+    "score": 326,
+    "comments": 87,
     "id": 47865661,
     "discussion_url": "https://news.ycombinator.com/item?id=47865661",
     "description": "Technical, cognitive, and intent debt",
@@ -337,49 +405,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095620"
+    "fetched_at": "2026-04-23T20:05:53.413578"
   },
   {
-    "title": "The Onion to Take over InfoWars",
-    "url": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
-    "author": "lxm",
-    "date": "2026-04-21",
-    "score": 212,
-    "comments": 64,
-    "id": 47843434,
-    "discussion_url": "https://news.ycombinator.com/item?id=47843434",
-    "description": "The Onion to Take over InfoWars",
+    "title": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
+    "url": "https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force",
+    "author": "greedo",
+    "date": "2026-04-23",
+    "score": 189,
+    "comments": 120,
+    "id": 47876647,
+    "discussion_url": "https://news.ycombinator.com/item?id=47876647",
+    "description": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095616"
-  },
-  {
-    "title": "Ultraviolet corona discharges on treetops during storms",
-    "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
-    "author": "t-3",
-    "date": "2026-04-22",
-    "score": 243,
-    "comments": 65,
-    "id": 47863324,
-    "discussion_url": "https://news.ycombinator.com/item?id=47863324",
-    "description": "Ultraviolet corona discharges on treetops during storms",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095668"
+    "fetched_at": "2026-04-23T20:05:53.413638"
   },
   {
     "title": "We found a stable Firefox identifier linking all your private Tor identities",
     "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
     "author": "danpinto",
     "date": "2026-04-22",
-    "score": 751,
-    "comments": 220,
+    "score": 880,
+    "comments": 265,
     "id": 47866697,
     "discussion_url": "https://news.ycombinator.com/item?id=47866697",
     "description": "We found a stable Firefox identifier linking all your private Tor identities",
@@ -388,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095568"
+    "fetched_at": "2026-04-23T20:05:53.413534"
   },
   {
     "title": "Website streamed live directly from a model",
     "url": "https://flipbook.page/",
     "author": "sethbannon",
     "date": "2026-04-22",
-    "score": 308,
-    "comments": 81,
+    "score": 409,
+    "comments": 107,
     "id": 47867048,
     "discussion_url": "https://news.ycombinator.com/item?id=47867048",
     "description": "Website streamed live directly from a model",
@@ -405,32 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095650"
-  },
-  {
-    "title": "What killed the Florida orange?",
-    "url": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
-    "author": "danso",
-    "date": "2026-04-20",
-    "score": 152,
-    "comments": 154,
-    "id": 47840618,
-    "discussion_url": "https://news.ycombinator.com/item?id=47840618",
-    "description": "What killed the Florida orange?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095697"
+    "fetched_at": "2026-04-23T20:05:53.413560"
   },
   {
     "title": "Windows 9x Subsystem for Linux",
     "url": "https://social.hails.org/@hailey/116446826733136456",
     "author": "sohkamyung",
     "date": "2026-04-22",
-    "score": 965,
-    "comments": 229,
+    "score": 983,
+    "comments": 236,
     "id": 47861270,
     "discussion_url": "https://news.ycombinator.com/item?id=47861270",
     "description": "Windows 9x Subsystem for Linux",
@@ -439,32 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095693"
-  },
-  {
-    "title": "Workspace Agents in ChatGPT",
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-    "author": "mfiguiere",
-    "date": "2026-04-22",
-    "score": 142,
-    "comments": 56,
-    "id": 47866860,
-    "discussion_url": "https://news.ycombinator.com/item?id=47866860",
-    "description": "Workspace Agents in ChatGPT",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095706"
+    "fetched_at": "2026-04-23T20:05:53.413614"
   },
   {
     "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
     "url": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
     "author": "ingve",
     "date": "2026-04-22",
-    "score": 215,
-    "comments": 210,
+    "score": 221,
+    "comments": 214,
     "id": 47859861,
     "discussion_url": "https://news.ycombinator.com/item?id=47859861",
     "description": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
@@ -473,32 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095736"
-  },
-  {
-    "title": "You don't need advice from editors on rejected manuscripts",
-    "url": "https://twitter.com/orsonscottcard/status/2046702294406680751",
-    "author": "MrBuddyCasino",
-    "date": "2026-04-22",
-    "score": 130,
-    "comments": 74,
-    "id": 47860682,
-    "discussion_url": "https://news.ycombinator.com/item?id=47860682",
-    "description": "You don't need advice from editors on rejected manuscripts",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095719"
+    "fetched_at": "2026-04-23T20:05:53.413649"
   },
   {
     "title": "Your hex editor should color-code bytes",
     "url": "https://simonomi.dev/blog/color-code-your-bytes/",
     "author": "tobr",
     "date": "2026-04-21",
-    "score": 151,
-    "comments": 39,
+    "score": 427,
+    "comments": 124,
     "id": 47846688,
     "discussion_url": "https://news.ycombinator.com/item?id=47846688",
     "description": "Your hex editor should color-code bytes",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-23T11:59:19.095602"
+    "fetched_at": "2026-04-23T20:05:53.413479"
   }
 ]

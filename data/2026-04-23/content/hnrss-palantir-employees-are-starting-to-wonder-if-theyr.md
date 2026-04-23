@@ -1,0 +1,156 @@
+---
+title: Palantir Employees Are Starting to Wonder if They're the Bad Guys | WIRED
+url: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/
+site_name: hnrss
+content_file: hnrss-palantir-employees-are-starting-to-wonder-if-theyr
+fetched_at: '2026-04-23T20:06:04.176348'
+original_url: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/
+author: Makena Kelly
+date: '2026-04-23'
+published_date: '2026-04-23T16:01:51.722Z'
+description: Interviews with current and former Palantir employees, along with internal Slack messages obtained by WIRED, suggest a workforce in turmoil.
+tags:
+- hackernews
+- hnrss
+---
+
+Save Story
+Save this story
+Save Story
+Save this story
+
+It took just a few months of President Donald Trump’s second term forPalantiremployees to question their company’scommitments to civil liberties. Last fall, Palantir seemed to becomethe technological backboneof Trump’s immigration enforcement machinery, providing software identifying, tracking, and helping deport immigrants on behalf of the Department of Homeland Security (DHS), when current and former employees started ringing the alarm.
+
+Around that time, two former employees reconnected by phone. Right as they picked up the call, one of them asked, “Are you tracking Palantir’s descent into fascism?”
+
+“That was their greeting,” the other former employee says. “There’s this feeling not of ‘Oh, this is unpopular and hard,’ but, ‘This feels wrong.’”
+
+Palantir was founded—with initial venture capital investment from the CIA—at a moment of national consensus following the September 11, 2001 attacks, when many saw fighting terrorism abroad as the most critical mission facing the US. The company, which was cofounded by tech billionaire Peter Thiel, sells software that acts as a high-powereddata aggregation and analysis toolpowering everything from private businesses to the US military’s targeting systems.
+
+For the last 20 years, employees could accept the intense external criticism and awkward conversations with family and friends about working for a company named after J. R. R. Tolkien’s corrupting all-seeing orb. But a year into Trump’s second term, as Palantir deepens its relationship with an administration many workers fear is wreaking havoc at home, employees are finally raising these concerns internally, as the US’s war on immigrants, war in Iran, and even company-released manifestos has forced them to rethink the role they play in it all.
+
+“We hire the best and brightest talent to help defend America and its allies and to build and deploy our software to help governments and businesses around the world. Palantir is no monolith of belief, nor should we be,” a Palantir spokesperson said in a statement. “We all pride ourselves on a culture of fierce internal dialogue and even disagreement over the complex areas we work on. That has been true from our founding and remains true today.”
+
+Got a Tip?
+Are you a current or former government employee who wants to talk about what's happening? We'd like to hear from you. Using a nonwork phone or computer, contact the reporters securely on Signal at makenakelly.32.
+
+“The broad story of Palantir as told to itself and to employees was that coming out of 9/11 we knew that there was going to be this big push for safety, and we were worried that that safety might infringe on civil liberties,” one former employee tells WIRED. “And now the threat’s coming from within. I think there's a bit of an identity crisis and a bit of a challenge. We were supposed to be the ones who were preventing a lot of these abuses. Now we're not preventing them. We seem to be enabling them.”
+
+Palantir has always had a secretive reputation, forbidding employees from speaking to the press and requiring alumni to signnon-disparagement agreements. But throughout the company’s history, management has always at least appeared to be open to engagement and internal criticism, multiple employees say. Over the last year, however, much of that feedback has been met by philosophical soliloquies and redirection. “It’s never been really that people are afraid of speaking up against Karp. It’s more a question of what it would do, if anything,” one current employee tells WIRED.
+
+While internal tensions within Palantir have grown over the last year, they reached a boiling point in January after the violent killing ofAlex Pretti, a nurse who was shot and killed by federal agents during protests against Immigration and Customs Enforcement (ICE) in Minneapolis. Employees from across the company commented in a Slack thread dedicated to the news demanding more information about the company’s relationship with ICE from management and CEO Alex Karp.
+
+“Our involvement with ice has been internally swept under the rug under Trump2 too much,” one person wrote in a Slack messageWIRED reported at the time. “We need an understanding of our involvement here.”
+
+Around this time, Palantir started wiping Slack conversations after seven days in at least one channel where most of the internal debate takes place, #palantir-in-the-news. Because the decision wasn’t formally announced before the policy rolled out, one worker who noticed the deletions asked in the channel why the company was removing “relevant internal discourse on current events.”
+
+A member of Palantir’s cybersecurity team responded, writing that the decision was made in response to leaks.
+
+This period led Palantir management to release an updated wiki, or a collection of blog posts explaining the ICE contract, where the company defended its work with DHS. Management wrote that the technology the company provides “is making a difference in mitigating risks while enabling targeted outcomes.”
+
+Palantir management ran defense by holding a handful of AMA (ask me anything) forums across the company with leadership like chief technology officer Shyam Sankar and members of its privacy and civil liberties (PCL) teams.
+
+At least one of these AMAs was organized independently of PCL leadership by two team leads, including one who worked directly on the ICE contract for a period of time. “This was very rogue,” a PCL employee who worked on the ICE contract said in a February AMA, a recording of which was obtained by WIRED. “Courtney [Bowman, head of the privacy and civil liberties team] doesn’t know that I’m spending three hours this week talking to IMPLs [Palantir terminology for its client-facing product teams], but I think this is the only real way to start going in the right direction.”
+
+Throughout the lengthy call, employees working on a variety of Palantir’s defense projects posed hard questions. Could ICE agents delete audit logs in Palantir’s software? Could agents create harmful workflows on their own without the company’s help? What is the most malicious thing that could come out of this work?
+
+Answering these questions, the PCL employee who worked on the ICE contract said that “a sufficiently malicious customer is, like, basically impossible to prevent at the moment” and could only be controlled through “auditing to prove what happened” and legal action after the fact if the customer breached the company’s contract.
+
+At one point during the call, one of the employees tried to level with the group, explaining that Palantir’s work with ICE was a priority for Karp and something that likely wouldn’t change any time soon.
+
+“Karp really wants to do this and continuously wants this,” they said. “We’re largely at the role of trying to give him suggestions and trying to redirect him, but it was largely unsuccessful and we seem to be on a very sharp path of continuing to expand this workflow.”
+
+Around the time of these forums, Karp sat down for a prerecorded interview with Bowman, seemingly to discuss Palantir’s contracts with ICE, but refused to broach the topic directly. Instead, Karp suggested that employees interested in the work signnondisclosure agreementsbefore receiving more detailed information.
+
+Then camethe deadly February 28 missile strikeon an Iranian elementary school on the first full day of the Trump administration and Israel’s war in Iran. The US is the only known country in the conflict to use that specific type of missile. More than 120 children were killed when a Tomahawk missile struck the school, kicking off a series of investigations that concluded that the US was responsible and that surveillance tools like Palantir’s Maven systemhad been usedduring that day’s strikes. For a company full of employees already reeling over its work with ICE, possible involvement in the death of children was a breaking point.
+
+“I guess the root of what I'm asking is … were we involved, and are doing anything to stop a repeat if we were,” one employee asked in the Palantir news Slack channel. Some employees posed similar questions in the thread, while others criticized them for discussing what could be considered classified information in a Slack channel open to the entire company. The investigation isongoing.
+
+The Palantir spokesperson said the company was “proud” to support the US military “across Democratic and Republican administrations.”
+
+In March,Karp gave an interview to CNBCclaiming that AI could undermine the power of “humanities-trained—largely Democratic—voters” and increase the power of working-class male voters. Whilecritics reactedto the piece, calling the statements concerning, so did employees internally: “Is it true that AI disruption is going to disproportionately negatively affect women and people who vote Democrat? and if it is, why are we cool with that?” one worker asked on Slack in a channel dedicated to news about Palantir.
+
+Palantir’s leadership incensed workers yet again this week after the company posteda Saturday afternoon manifestoreducing Karp’s recent book,The Technological Republic, to 22 points. The post—which includes many of Karp’s long-standing beliefs on how Silicon Valley could better serve US national interests—goes as far as suggesting that the US should consider reinstating the draft. Critics called the manifestofascist.
+
+Internally, the post alarmed some workers who huddled in a Slack thread on Monday morning, questioning leadership over its decision to post it in the first place.
+
+“I’m curious why this had to be posted. Especially on the company account. On the practical level every time stuff like that gets posted it gets harder for us to sell the software outside of the US (for sure in the current political climate), and I doubt we need this in the US?” wrote one frustrated employee. The message received more than 50 “+1” emojis.
+
+“Wether [sic] we acknowledge it or not, this impacts us all personally,” another worker wrote on Monday. “I’ve already had multiple friends reach out and ask what the hell did we post.” This message received nearly two dozen “+1” emoji reactions.
+
+“Yeah it turns out that short-form summaries of the book’s long-form ideas are easy to misrepresent. It’s like we taped a ‘kick me’ sign on our own backs,” a third worker wrote. “I hope no one who decided to put this out is surprised that we are, in fact, getting kicked.”
+
+These conversations involving shame and uncertainty from workers have seemingly popped up in internal channels whenever Palantir has been in the news over the last year. “I think the only thing not different is a lot of folks are still incredibly wary about leaks and talking to the press,” one current employee tells WIRED, describing how the internal company culture has evolved over the last year.
+
+All of this dissent doesn’t seem to bother Karp, who recently told workers that the company is“behind the curve internally”when it comes to popularity. Here, he’s been consistent; in March 2024 Karp tolda CNBC reporterthat “if you have a position that does not cost you ever to lose an employee, it’s not a position.”
+
+But for employees, the culture shift feels intentional. “I don’t want to assert that I have knowledge of what’s going on in their internal mind,” one former worker tells WIRED. “But maybe it's gotten to a place where encouraging independent thought and questioning leads to some bad conclusions.”
+
+## Comments
+
+Back to top
+Triangle
+
+## You Might Also Like
+
+* In your inbox:Upgrade your life withWIRED-tested gear
+* Is Trumpthe antichrist? Yes, according to some of his supporters
+* Big Story:How the Vision Pro rolloutinflamed tensions at Apple
+* Iran-linked hackers aresabotaging energy and water infrastructure
+* Listen:Silicon Valley is spending millionsto stop one of its own
+Makena Kelly
+ is a senior writer at WIRED focused on the intersection of politics, power, and technology. She was previously at The Verge, CQ Roll Call, and the Lincoln Journal Star. Makena graduated from Nebraska Wesleyan University with a Bachelor of Arts in English. Send tips to 
+[email protected]
+. ... 
+Read More
+Senior Writer, Tech and Politics
+
+Topics
+politics
+Silicon Valley
+government
+Immigration and Customs Enforcement
+Iran
+Palantir
+Department of Homeland Security
+OpenAI Executive Kevin Weil Is Leaving the Company
+The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.
+Maxwell Zeff
+OpenAI Buys Some Positive News
+OpenAI is acquiring 
+TBPN
+, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.
+Maxwell Zeff
+Congress Turns Up Pressure on DHS Over Palantir’s Role in Immigration Crackdown
+Democrats are demanding answers about Palantir and other surveillance firms powering Trump’s hard-line immigration enforcement agenda.
+Caroline Haskins
+Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk
+Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.
+Maxwell Zeff
+Meta Cafeteria Workers Did What Execs Won’t: Took on ICE and Won
+In Seattle, activists inside tech giants are leaning into grassroots fundraising and peer support as petitions and protests draw little response from executives.
+Paresh Dave
+The US Army Is Building Its Own Chatbot for Combat
+The AI system, trained on real military data, is meant to give soldiers mission-critical information.
+Will Knight
+Where the DOGE Operatives Are Now
+WIRED tracked down some of the most prominent figures of last year’s DOGE invasion. Here's where they are now—in government and beyond.
+Vittoria Elliott
+Musk v. Altman
+ Is a Battle for OpenAI’s Soul
+In 
+Musk v. Altman
+, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.
+Maxwell Zeff
+This Is How Trump Is Already Threatening the Midterms
+WIRED surveyed the ways the Trump administration is working to manipulate this year’s midterm elections.
+David Gilbert
+Silicon Valley Is Spending Millions to Stop One of Its Own
+Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.
+Katie Drummond
+Anthropic vs. the Pentagon: This Time, a US Court Has Ruled in the Government's Favor
+A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.
+Paresh Dave
+Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home
+An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.
+Maxwell Zeff
