@@ -1,71 +1,103 @@
 ---
-date: '2026-04-23'
+date: '2026-04-24'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-23T18:00:38.182144'
+generated_at: '2026-04-24T06:05:51.366226'
 ---
 
 ## Executive Summary
-- A major update to the Ground‑Mounted Solar Energy dataset expands coverage to 3.4 million panels and adds rooftop arrays, unlocking richer solar‑energy analyses.  
-- AI coding assistants are increasingly prone to “over‑editing,” rewriting more code than needed and raising maintenance concerns despite high pass rates.  
-- A privacy‑critical bug in Firefox/Tor that leaked a stable process‑level identifier has been patched, while Apple’s iOS 18 update closes a flaw that let law‑enforcement recover deleted messages.  
-- North Korean hackers are leveraging commercial AI tools to automate large‑scale crypto theft, highlighting AI as a low‑skill force multiplier in cyber‑crime.  
-- Apple’s leadership transition to John Ternus proceeds smoothly, and a new study finds 98 % of meat‑and‑dairy sustainability claims amount to greenwashing, underscoring gaps between corporate rhetoric and climate action.
+- AI tooling saw a surge of community‑driven projects, from a free Claude proxy to open‑source ML “interns,” while Anthropic’s Claude Code quality issues prompted a rapid fix after multiple user complaints.  
+- Cyber‑security headlines were dominated by high‑impact breaches: Vercel’s OAuth‑token leak, a French government agency data breach, and renewed exposure of telecom‑level location‑tracking vendors, alongside active exploits of Apache ActiveMQ and Microsoft SharePoint.  
+- In software engineering, developers highlighted burnout in indie game dev, playful AI avatar extensions, and new open‑source agents that automate model training.  
+- Open‑source reproducibility advanced with a bit‑for‑bit Arch Linux Docker image, and scientific communities rallied around a wrongful investigation case.  
 
 ---
 
-## AI and Machine Learning (8 articles)
+## AI and Machine Learning  
 
-### 3.4M Solar Panels dataset released (trending) [hackernews_api]  
-Version 2 of the GM‑SEUS dataset now covers over 3.4 million ground‑mounted panels and adds a rooftop‑array component. The author details a high‑end workstation and an open‑source GIS pipeline (GDAL, DuckDB, QGIS) used to clean, transform, and store the data in columnar Parquet files, noting extensive missing values in several attributes.
+### Free Claude proxy enables zero‑cost Claude Code usage  
+**GitHub – Alishahryar1/free‑claude‑code** – A lightweight proxy routes Claude API calls to multiple back‑ends (NVIDIA NIM, OpenRouter, local LLMs) allowing free or locally hosted Claude usage without an Anthropic key.  
 
-### 5x5 Pixel font for tiny screens (trending) [hackernews_api]  
-A hand‑crafted 5 × 5 monospaced font occupies only 350 bytes, fitting comfortably on 8‑bit MCUs and enabling predictable layout on ultra‑low‑resolution OLEDs. The post explains why 5 × 5 is the smallest usable grid and explores even smaller configurations for niche use cases.
+### New AI engineering textbook and resources  
+**GitHub – chiphuyen/aie‑book** – Chip Huyen’s upcoming “AI Engineering” book outlines a framework for adapting foundation models, covering prompt engineering, RAG, hallucination mitigation, and fine‑tuning strategies for engineers and managers.  
 
-### Coding Models Are Doing Too Much (trending) [hackernews_api]  
-Analysis of 400 minimal‑fix tasks shows that leading code‑generation models often “over‑edit,” rewriting large code sections instead of applying the smallest change. Metrics such as token‑level Levenshtein distance and added cognitive complexity reveal that even top models like Claude Opus 4.6 can introduce unnecessary complexity, suggesting a need for fidelity‑focused training or prompting.
+### AI‑generated editable PowerPoint decks  
+**GitHub – hugohe3/ppt‑master** – An open‑source tool creates fully editable PPTX files from PDFs, DOCX, URLs or Markdown using Claude, GPT, Gemini, etc., keeping all data local and charging only for model usage.  
 
-### Daring Fireball: Another Day Has Come [hnrss]  
-John Ternus is announced as Apple’s next CEO, succeeding Tim Cook who moves to executive chairman. The piece reflects on Cook’s 15‑year tenure, the company’s steady product pipeline, and the orderly nature of the transition compared with the 2011 Jobs era.
+### Context‑mode slashes coding‑agent context bloat  
+**GitHub – mksglu/context‑mode** – A plugin for Claude Code, Gemini CLI, VS Code Copilot and Cursor stores tool output in a SQLite sandbox, cutting raw payloads from ~315 KB to ~5 KB (≈98 % reduction) and preserving session continuity.  
 
-### Show HN submissions tripled and now mostly share the same vibe‑coded look [hnrss]  
-A systematic scan of ~500 recent Show HN pages finds a surge of AI‑generated design patterns—standard fonts, “vibe‑code” purple, glassmorphism, and templated layouts. While the uniformity is deemed uninspired rather than harmful, the analysis predicts a future shift back toward more original aesthetics as AI‑driven sites proliferate.
+### Claude Code quality regressions resolved (trending)  
+**Hacker News – “An update on recent Claude Code quality reports”** – Three separate changes (effort default, caching bug, system‑prompt tweak) degraded code generation; all were fixed by April 20 (v2.1.116) and usage limits reset on April 23.  
 
----
+### AI‑driven PPT generation & avatar extensions  
+**DEV Community – AI Avatar v6** – A Chrome/VS Code extension delivers animated superhero avatars that react to chat, with new “Joyful Colors” characters and hand‑gesture support.  
 
-## Cybersecurity and Privacy (2 articles)
+### Open‑source “ML‑intern” automates research and model shipping  
+**GitHub – huggingface/ml‑intern** – A CLI agent reads papers, runs tool calls, and iteratively builds and ships ML models on Hugging Face, featuring context compaction and doom‑loop detection.  
 
-### Apple fixes bug that cops used to extract deleted chat messages from iPhones [TechCrunch]  
-iOS 18 now prevents deleted‑message notifications from persisting in the device’s cache, closing a flaw that let forensic tools recover erased Signal chats for up to a month. The fix was back‑ported to earlier iOS 18 releases after a 404 Media report sparked privacy‑rights concerns.
-
-### AI Tools Are Helping Mediocre North Korean Hackers Steal Millions [WIRED]  
-North Korean group HexagonalRodent employed commercial AI services (OpenAI, Cursor, Anima) to generate credential‑stealing malware and phishing sites, siphoning roughly $12 million in crypto from over 2,000 computers. The campaign demonstrates how AI lowers the skill barrier for state‑sponsored cybercrime, acting as a “force multiplier” across the attack lifecycle.
-
----
-
-## Software Engineering and Dev Tools (3 articles)
-
-### We Found a Stable Firefox Identifier Linking All Your Private Tor Identities (trending) [hackernews_api]  
-A deterministic identifier derived from the order of `indexedDB.databases()` entries persists across private windows and Tor “New Identity” resets, enabling cross‑origin tracking. Mozilla patched the issue in Firefox 150/ESR 140.10.0 by canonicalizing the result order.
-
-### Atlassian to train AI on user data unless law or cash say no • The Register [tldr]  
-Starting 17 Aug 2026 Atlassian will automatically harvest metadata and in‑app content from most cloud customers to train its AI models, with opt‑out options limited to higher‑tier plans. Collected data is de‑identified, retained up to seven years, and used to improve search, summarisation, and workflow suggestions.
-
-### Auto‑diagnosing Kubernetes alerts with HolmesGPT and CNCF tools [CNCF]  
-STCLab built a pipeline where an LLM (HolmesGPT) reads Prometheus alerts, selects appropriate CNCF tools, and posts concise investigations to Slack. Runbooks dramatically improve efficiency, cutting average triage time from 15‑20 minutes to under 2 minutes and resolving ~40 % of alerts automatically.
+### Bitwarden CLI supply‑chain compromise (trending)  
+**Hacker News – Bitwarden CLI compromised in Checkmarx supply‑chain attack** – Malicious payloads were found in official KICS Docker images and extensions; users are urged to stop using them until verified clean.  
 
 ---
 
-## Science and Research (2 articles)
+## Cybersecurity and Privacy  
 
-### Treetops glowing during storms captured on film for first time [Penn State University]  
-Researchers recorded 859 corona discharge events on a sweetgum tree and 93 on a loblolly pine, providing the first direct visual evidence of UV glows during thunderstorms. The phenomenon may influence atmospheric chemistry by generating hydroxyl radicals that help cleanse the air.
+### Vercel OAuth‑token breach exposes environment variables  
+**DEV Community – “What To Do If Your Project Was Affected By The Vercel Breach”** – An employee linked Google Workspace to a compromised AI tool, allowing attackers to steal non‑sensitive env vars; affected customers should rotate all credentials and audit logs.  
 
-### 98 % of meat and dairy sustainability pledges are greenwashing [New Scientist]  
-A review of 33 major meat‑and‑dairy firms identified 1,233 environmental claims, 98 % of which were vague, unsubstantiated greenwashing. The study warns that reliance on offsets and minimal packaging tweaks undermines genuine climate action in a sector responsible for ~16.5 % of global emissions.
+### French government agency data breach (trending)  
+**Hacker News – “French govt agency confirms breach as hacker offers to sell data”** – The ANTS agency suffered a breach affecting up to 19 million records (names, DOB, contact info); a hacker is offering the data for sale, prompting CNIL and ANSSI investigations.  
+
+### Telecom‑level location‑tracking abuse uncovered (trending)  
+**TechCrunch – “Surveillance vendors caught abusing access to telcos to track people's phone locations”** – Citizen Lab exposed two campaigns exploiting SS7/Diameter and SIMjacker techniques via ghost telecom companies, highlighting systemic gaps in carrier security.  
+
+### Actively exploited Apache ActiveMQ flaw (CVE‑2026‑34197)  
+**TLDR – “Actively exploited Apache ActiveMQ flaw impacts 6,400 servers”** – Over 6,400 public ActiveMQ instances are vulnerable to code‑injection; CISA mandates remediation by 30 April for federal agencies.  
+
+### Microsoft SharePoint spoofing vulnerability (CVE‑2026‑32201)  
+**TLDR – “Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks”** – Unpatched SharePoint on‑prem servers allow unauthenticated network spoofing; CISA’s KEV catalog requires patches by 28 April.  
+
+### Surveillance‑vendor location‑tracking report (trending) – see above.  
+
+---
+
+## Software Engineering and Dev Tools  
+
+### Indie game dev burns out after 14‑day jam  
+**DEV Community – “I created my first game and decided to leave GameDev”** – A developer built a Hades‑inspired roguelike in two weeks, but art quality and engine friction led to burnout and a decision to step away from game development.  
+
+### AI avatar “Superheroes Cheer You Up” extension rollout  
+**DEV Community – “🦸Let Superheroes Cheer You Up (AI Avatar v6)”** – New superhero avatars with distinct personalities are released for Chrome and VS Code, adding hand‑gesture support and customizable animations.  
+
+### Open‑source ML‑intern automates model pipelines  
+**GitHub – huggingface/ml‑intern** – See AI section; the tool streamlines research, coding, and deployment loops for ML engineers.  
+
+### Palantir internal dissent over ICE contracts  
+**WIRED – “Palantir Employees Are Starting to Wonder if They're the Bad Guys”** – Employees voice ethical concerns about the firm’s role in immigration enforcement, citing internal Slack debates and management’s limited transparency.  
+
+### AI‑powered robot “Ace” beats elite table‑tennis players  
+**The Guardian – “AI‑powered robot beats elite table tennis players”** – Sony’s robot Ace, with an eight‑joint arm and multi‑camera vision, won three of five matches, showcasing rapid perception‑action loops in robotics.  
+
+### AIReel all‑in‑one video generation platform  
+**TLDR – “AIReel: One‑Stop AI Video Generator for Limitless Creativity”** – The service converts images, text, or frames into high‑quality videos and images, targeting creators, marketers, and e‑commerce users with fast, template‑driven workflows.  
+
+---
+
+## Open Source  
+
+### Reproducible Arch Linux Docker image released  
+**HN – “Arch Linux now has a bit‑for‑bit reproducible Docker image”** – The new `repro` tag Docker image guarantees deterministic builds via fixed timestamps and removed nondeterministic caches; users must initialise the pacman keyring inside the container.  
+
+---
+
+## Science and Research  
+
+### Call for apology after wrongful China‑initiative investigation  
+**Newsfeed – “Academics demand apology for scientist investigated for China ties but never charged”** – Northwestern neuroscientist Jane Ying Wu, who died by suicide after a prolonged NIH investigation, is the focus of a petition from over 1,000 scholars demanding an institutional apology.  
 
 ---
 
 ## Notable Mentions
-- Agentic coordination, Human delivery - Dont Dos [tldr]  
-- Apple has already teased Siri's new design coming in iOS 27 - 9to5Mac [tldr]  
-- TrustedSec | Benchmarking Self‑Hosted LLMs for Offensive Security [tldr]
+- European airlines cut thousands of flights as fuel costs soar – NPR  
+- Reddit – “Please wait for verification”  
+- “A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all.” – Augment Code (TLDR)
