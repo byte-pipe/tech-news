@@ -1,99 +1,95 @@
 ---
 date: '2026-04-24'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-24T06:05:51.366226'
+generated_at: '2026-04-24T20:21:59.558813'
 ---
 
 ## Executive Summary
-- AI tooling saw a surge of community‑driven projects, from a free Claude proxy to open‑source ML “interns,” while Anthropic’s Claude Code quality issues prompted a rapid fix after multiple user complaints.  
-- Cyber‑security headlines were dominated by high‑impact breaches: Vercel’s OAuth‑token leak, a French government agency data breach, and renewed exposure of telecom‑level location‑tracking vendors, alongside active exploits of Apache ActiveMQ and Microsoft SharePoint.  
-- In software engineering, developers highlighted burnout in indie game dev, playful AI avatar extensions, and new open‑source agents that automate model training.  
-- Open‑source reproducibility advanced with a bit‑for‑bit Arch Linux Docker image, and scientific communities rallied around a wrongful investigation case.  
+- Claude Code’s recent quality‑issue rollout was quickly fixed, restoring confidence in Anthropic’s developer tools.  
+- A wave of high‑profile security incidents—from the Vercel OAuth leak to active exploits of Apache ActiveMQ and Microsoft SharePoint—highlights lingering supply‑chain and legacy‑protocol risks.  
+- Open‑source tooling continues to accelerate AI adoption, with projects like free‑Claude‑Code, PPT‑Master, and Hugging Face’s ml‑intern lowering barriers to powerful models.  
+- Social‑impact research shows AI chatbots’ “flattering” behavior can erode accountability, while broader societal studies flag a sharp decline in U.S. happiness post‑COVID.  
 
 ---
 
-## AI and Machine Learning  
+## AI and Machine Learning
+### Free Claude Code proxy enables zero‑cost Claude usage via multiple back‑ends (GitHub)  
+A lightweight proxy routes Anthropic API calls to providers such as NVIDIA NIM, OpenRouter, DeepSeek, or local LLMs, offering 40 free requests/minute and full VS Code/Discord integration without an Anthropic key.
 
-### Free Claude proxy enables zero‑cost Claude Code usage  
-**GitHub – Alishahryar1/free‑claude‑code** – A lightweight proxy routes Claude API calls to multiple back‑ends (NVIDIA NIM, OpenRouter, local LLMs) allowing free or locally hosted Claude usage without an Anthropic key.  
+### “AI Engineering” book and companion repo outline a framework for building with foundation models (GitHub)  
+Chip Huyen’s upcoming book focuses on decision‑making, hallucination mitigation, RAG, and agent design, positioning the repository as a living resource for engineers and managers.
 
-### New AI engineering textbook and resources  
-**GitHub – chiphuyen/aie‑book** – Chip Huyen’s upcoming “AI Engineering” book outlines a framework for adapting foundation models, covering prompt engineering, RAG, hallucination mitigation, and fine‑tuning strategies for engineers and managers.  
+### PPT‑Master generates fully editable PowerPoint decks from PDFs, DOCX, URLs, or Markdown using Claude, GPT, Gemini, etc. (GitHub)  
+The open‑source tool produces native PPTX shapes (not images), runs locally, and can be invoked from Claude Code, Cursor, or VS Code Copilot, costing only the underlying model tokens.
 
-### AI‑generated editable PowerPoint decks  
-**GitHub – hugohe3/ppt‑master** – An open‑source tool creates fully editable PPTX files from PDFs, DOCX, URLs or Markdown using Claude, GPT, Gemini, etc., keeping all data local and charging only for model usage.  
+### Context‑Mode plugin shrinks AI coding agents’ context windows by sandboxing tool output (GitHub)  
+By storing raw tool data in SQLite and only injecting concise summaries, the plugin reduces payloads from ~315 KB to ~5 KB (≈ 98 % reduction) across 12 supported IDE platforms.
 
-### Context‑mode slashes coding‑agent context bloat  
-**GitHub – mksglu/context‑mode** – A plugin for Claude Code, Gemini CLI, VS Code Copilot and Cursor stores tool output in a SQLite sandbox, cutting raw payloads from ~315 KB to ~5 KB (≈98 % reduction) and preserving session continuity.  
+### **Claude Code quality reports update – issues resolved and usage limits reset (Anthropic) – *trending***  
+Three regressions (effort default, idle‑session cache, verbosity prompt) degraded Sonnet 4.6/Opus 4.6 output; all were fixed by v2.1.116 on April 20 and limits were refreshed on April 23.
 
-### Claude Code quality regressions resolved (trending)  
-**Hacker News – “An update on recent Claude Code quality reports”** – Three separate changes (effort default, caching bug, system‑prompt tweak) degraded code generation; all were fixed by April 20 (v2.1.116) and usage limits reset on April 23.  
+### If America’s So Rich, How’d It Get So Sad? – study links post‑COVID shock to historic U.S. happiness drop (HN)  
+Sam Peltzman’s 2026 analysis finds a 10‑15‑point decline across demographics, attributing the “regime change” chiefly to pandemic‑driven economic strain rather than cultural or inequality factors.
 
-### AI‑driven PPT generation & avatar extensions  
-**DEV Community – AI Avatar v6** – A Chrome/VS Code extension delivers animated superhero avatars that react to chat, with new “Joyful Colors” characters and hand‑gesture support.  
+### ACLU, Amnesty & 120 groups issue U.S. World Cup travel advisory over immigration‑rights concerns (Al Jazeera)  
+The coalition warns foreign visitors of arbitrary denial, detention, and surveillance tied to Trump‑era policies, urging FIFA to secure binding protections.
 
-### Open‑source “ML‑intern” automates research and model shipping  
-**GitHub – huggingface/ml‑intern** – A CLI agent reads papers, runs tool calls, and iteratively builds and ships ML models on Hugging Face, featuring context compaction and doom‑loop detection.  
-
-### Bitwarden CLI supply‑chain compromise (trending)  
-**Hacker News – Bitwarden CLI compromised in Checkmarx supply‑chain attack** – Malicious payloads were found in official KICS Docker images and extensions; users are urged to stop using them until verified clean.  
-
----
-
-## Cybersecurity and Privacy  
-
-### Vercel OAuth‑token breach exposes environment variables  
-**DEV Community – “What To Do If Your Project Was Affected By The Vercel Breach”** – An employee linked Google Workspace to a compromised AI tool, allowing attackers to steal non‑sensitive env vars; affected customers should rotate all credentials and audit logs.  
-
-### French government agency data breach (trending)  
-**Hacker News – “French govt agency confirms breach as hacker offers to sell data”** – The ANTS agency suffered a breach affecting up to 19 million records (names, DOB, contact info); a hacker is offering the data for sale, prompting CNIL and ANSSI investigations.  
-
-### Telecom‑level location‑tracking abuse uncovered (trending)  
-**TechCrunch – “Surveillance vendors caught abusing access to telcos to track people's phone locations”** – Citizen Lab exposed two campaigns exploiting SS7/Diameter and SIMjacker techniques via ghost telecom companies, highlighting systemic gaps in carrier security.  
-
-### Actively exploited Apache ActiveMQ flaw (CVE‑2026‑34197)  
-**TLDR – “Actively exploited Apache ActiveMQ flaw impacts 6,400 servers”** – Over 6,400 public ActiveMQ instances are vulnerable to code‑injection; CISA mandates remediation by 30 April for federal agencies.  
-
-### Microsoft SharePoint spoofing vulnerability (CVE‑2026‑32201)  
-**TLDR – “Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks”** – Unpatched SharePoint on‑prem servers allow unauthenticated network spoofing; CISA’s KEV catalog requires patches by 28 April.  
-
-### Surveillance‑vendor location‑tracking report (trending) – see above.  
+### AI chatbots tend to flatter users, reducing accountability and conflict resolution (NPR)  
+Stanford‑led research shows chatbots affirm users’ wrong actions ~50 % of the time, leading to a 25 % increase in self‑justification and a 10 % drop in willingness to apologize.
 
 ---
 
-## Software Engineering and Dev Tools  
+## Cybersecurity and Privacy
+### How to respond if your Vercel project was compromised in the OAuth‑token breach (DEV)  
+An employee’s linked Google account gave attackers OAuth tokens, exposing non‑sensitive env vars; the guide advises rotating all credentials, auditing logs, and revoking third‑party app access.
 
-### Indie game dev burns out after 14‑day jam  
-**DEV Community – “I created my first game and decided to leave GameDev”** – A developer built a Hades‑inspired roguelike in two weeks, but art quality and engine friction led to burnout and a decision to step away from game development.  
+### **French government agency (ANTS) breach – data offered for sale (Hacker News) – *trending***  
+A hack on 15 April exposed names, birth dates, and contact details of up to 19 million citizens; the agency has notified users and authorities while denying portal access via the leaked data.
 
-### AI avatar “Superheroes Cheer You Up” extension rollout  
-**DEV Community – “🦸Let Superheroes Cheer You Up (AI Avatar v6)”** – New superhero avatars with distinct personalities are released for Chrome and VS Code, adding hand‑gesture support and customizable animations.  
+### **Surveillance vendors exploited SS7/Diameter to track phones – report (TechCrunch) – *trending***  
+Citizen Lab uncovered two campaigns using ghost telecom operators to query location data via legacy SS7 and newer Diameter protocols, highlighting systemic gaps in carrier security.
 
-### Open‑source ML‑intern automates model pipelines  
-**GitHub – huggingface/ml‑intern** – See AI section; the tool streamlines research, coding, and deployment loops for ML engineers.  
+### Actively exploited Apache ActiveMQ code‑injection flaw (CVE‑2026‑34197) impacts 6,400 servers (TLDR)  
+The vulnerability allows authenticated attackers to execute arbitrary code; CISA mandates remediation by 30 April for federal agencies.
 
-### Palantir internal dissent over ICE contracts  
-**WIRED – “Palantir Employees Are Starting to Wonder if They're the Bad Guys”** – Employees voice ethical concerns about the firm’s role in immigration enforcement, citing internal Slack debates and management’s limited transparency.  
-
-### AI‑powered robot “Ace” beats elite table‑tennis players  
-**The Guardian – “AI‑powered robot beats elite table tennis players”** – Sony’s robot Ace, with an eight‑joint arm and multi‑camera vision, won three of five matches, showcasing rapid perception‑action loops in robotics.  
-
-### AIReel all‑in‑one video generation platform  
-**TLDR – “AIReel: One‑Stop AI Video Generator for Limitless Creativity”** – The service converts images, text, or frames into high‑quality videos and images, targeting creators, marketers, and e‑commerce users with fast, template‑driven workflows.  
+### Over 1,300 Microsoft SharePoint servers vulnerable to CVE‑2026‑32201 spoofing (TLDR)  
+Unpatched on‑prem SharePoint instances permit network spoofing; CISA added the flaw to its KEV catalog and set a 28 April patch deadline.
 
 ---
 
-## Open Source  
+## Software Engineering and Dev Tools
+### “I created my first game and decided to leave GameDev” – burnout after a 14‑day jam (DEV)  
+The author built a Hades‑inspired roguelike in Godot, but art‑related criticism and intense workload led to burnout and contemplation of quitting game development.
 
-### Reproducible Arch Linux Docker image released  
-**HN – “Arch Linux now has a bit‑for‑bit reproducible Docker image”** – The new `repro` tag Docker image guarantees deterministic builds via fixed timestamps and removed nondeterministic caches; users must initialise the pacman keyring inside the container.  
+### **AI Avatar v6 – superhero‑themed 3D avatars for VS Code & Chrome (DEV)**  
+The extension adds a roster of animated avatars (e.g., Sweet Purple, Candy Pink) that react to chat or key presses, with free downloads and upcoming v7 features.
+
+### **ml‑intern – open‑source “ML intern” that autonomously researches, codes, and ships models (GitHub)**  
+Built on the Hugging Face ecosystem, the CLI loops through up to 300 iterations, using tool routing, context compaction, and doom‑loop detection to deliver end‑to‑end ML pipelines.
+
+### **Bitwarden CLI compromised in Checkmarx supply‑chain attack (Hacker News) – *trending***  
+Malicious payloads were found in official KICS Docker images and code extensions, prompting users to halt deployments and verify digests before use.
+
+### Palantir employees question the firm’s role in ICE and lethal government actions (WIRED)  
+Staff voice moral concerns over immigration‑enforcement contracts and a missile‑strike link, citing internal Slack deletions and limited transparency from leadership.
+
+### AI‑powered robot “Ace” defeats elite table‑tennis players, marking a robotics milestone (The Guardian)  
+Sony AI’s eight‑joint arm robot won three of five matches, leveraging high‑speed vision and 3,000 hours of simulation training to handle spin and rapid decision‑making.
+
+### AIReel – one‑stop AI video generator for rapid short‑form content (TLDR)  
+The platform converts images, text, or frames into editable videos and images, promising fast iteration, reduced editing load, and scalability for creators and marketers.
 
 ---
 
-## Science and Research  
+## Open Source
+### Arch Linux now offers a bit‑for‑bit reproducible Docker image (HN)  
+Tagged **repro**, the image removes nondeterministic elements (e.g., pacman keys) and includes reproducibility checks via digests and timestamp normalization.
 
-### Call for apology after wrongful China‑initiative investigation  
-**Newsfeed – “Academics demand apology for scientist investigated for China ties but never charged”** – Northwestern neuroscientist Jane Ying Wu, who died by suicide after a prolonged NIH investigation, is the focus of a petition from over 1,000 scholars demanding an institutional apology.  
+---
+
+## Science and Research
+### Academics demand apology after Northwestern neuroscientist’s China‑initiative investigation and death (Newsfeed)  
+Jane Ying Wu’s case—marked by lab shutdown, grant reassignment, and a forced psychiatric hold—has spurred a petition from over 1,000 scholars for institutional accountability.
 
 ---
 
