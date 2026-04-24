@@ -1,23 +1,33 @@
 [
   {
-    "title": "100 Daily Challenges to Learn Web3 and Solana",
-    "author": "Matthew Revell",
-    "date": "2026-04-17",
-    "description": "Weekly themed arcs and 30-minute buildsMatthew RevellMatthew RevellMatthew RevellFollowfor100 Days of SolanaApr 17100 Daily Challenges to Learn Web3 a...",
-    "tags": "#web3, #solana, #programming, #blockchain",
-    "reactions": "94 reactions",
-    "comments": "Comments 13 comments",
-    "url": "https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i"
+    "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+    "author": "Emin Salih Açıkgöz",
+    "date": "2026-04-21",
+    "description": "Emin Salih AçıkgözEmin Salih AçıkgözEmin Salih AçıkgözFollowApr 21Atomic Scaffolding: How scbake Prevents Configuration Mishaps#go#devops#opensource#t...",
+    "tags": "#go, #devops, #opensource, #tools",
+    "reactions": "42 reactions",
+    "comments": "Comments 6 comments",
+    "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo"
   },
   {
-    "title": "Congrats to the Notion MCP Challenge Winners!",
+    "title": "Build your own blog post view counter on AWS Free Tier",
+    "author": "Esin Saribudak",
+    "date": "2026-04-21",
+    "description": "Focuses on CORS and referer securityEsin SaribudakEsin SaribudakEsin SaribudakFollowforAWSApr 21Build your own blog post view counter on AWS Free Tier...",
+    "tags": "#beginners, #lambda, #dynamodb, #tutorial",
+    "reactions": "56 reactions",
+    "comments": "Comments 6 comments",
+    "url": "https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f"
+  },
+  {
+    "title": "Congrats to the April Fools Challenge Winners!!",
     "author": "Jess Lee",
-    "date": "2026-04-17",
-    "description": "AI-powered workspace and GitHub automationJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 17Congrats to the Notion MCP Challenge Winners!#devchalleng...",
-    "tags": "#devchallenge, #notionchallenge, #mcp, #ai",
-    "reactions": "91 reactions",
-    "comments": "Comments 24 comments",
-    "url": "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab"
+    "date": "2026-04-23",
+    "description": "Hilariously pointless and over-engineered appsJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 23Congrats to the April Fools Challenge Winners!!#jokes...",
+    "tags": "#jokes, #devchallenge, #418challenge",
+    "reactions": "40 reactions",
+    "comments": "Comments 13 comments",
+    "url": "https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f"
   },
   {
     "title": "Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]",
@@ -25,19 +35,9 @@
     "date": "2026-04-18",
     "description": "DEV Weekend Challenge: Earth DayGrahamTheDevGrahamTheDevGrahamTheDevFollowApr 18Defluffer - reduce token usage 📉 by 45% using this one simple trick! [...",
     "tags": "#devchallenge, #weekendchallenge, #javascript, #ai",
-    "reactions": "74 reactions",
+    "reactions": "75 reactions",
     "comments": "Comments 44 comments",
     "url": "https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj"
-  },
-  {
-    "title": "EasyPollVote [Dev Log #2]",
-    "author": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
-    "date": "2026-04-17",
-    "description": "Features a dynamic PokeAPI poll demoFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowApr 17EasyPollVote [Dev Log #2]#discuss#easypvde...",
-    "tags": "#discuss, #easypvdevlog, #nextjs, #typescript",
-    "reactions": "44 reactions",
-    "comments": "Comments 16 comments",
-    "url": "https://dev.to/francistrdev/easypollvote-dev-log-2-4g80"
   },
   {
     "title": "Embarrassment is cheap. Token spend isn't.",
@@ -53,9 +53,9 @@
     "title": "How We Built Our Own DNS Server",
     "author": "Jonas Scholz",
     "date": "2026-04-17",
-    "description": "90-minute propagation cut to secondsJonas ScholzJonas ScholzJonas ScholzFollowApr 17How We Built Our Own DNS Server#cloud#devops#docker#webdev67reacti...",
+    "description": "90-minute propagation cut to secondsJonas ScholzJonas ScholzJonas ScholzFollowApr 17How We Built Our Own DNS Server#cloud#devops#docker#webdev68reacti...",
     "tags": "#cloud, #devops, #docker, #webdev",
-    "reactions": "67 reactions",
+    "reactions": "68 reactions",
     "comments": "Comments 22 comments",
     "url": "https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k"
   },
@@ -65,8 +65,8 @@
     "date": "2026-04-21",
     "description": "Relatable 'gremlin' habits among readersNorthernDevNorthernDevNorthernDevFollowApr 21I Spent $1,500 on an ergonomic chair just to sit in it like a hum...",
     "tags": "#watercooler, #productivity, #wellness, #discuss",
-    "reactions": "81 reactions",
-    "comments": "Comments 53 comments",
+    "reactions": "89 reactions",
+    "comments": "Comments 56 comments",
     "url": "https://dev.to/the_nortern_dev/i-spent-1500-on-an-ergonomic-chair-just-to-sit-in-it-like-a-human-pretzel-38jf"
   },
   {
@@ -75,8 +75,8 @@
     "date": "2026-04-22",
     "description": "Art rated below gameplay despite high effortEmberNoGlowEmberNoGlowEmberNoGlowFollowApr 22I created my first game and decided to leave GameDev#discuss#...",
     "tags": "#discuss, #gamedev, #godot, #productivity",
-    "reactions": "26 reactions",
-    "comments": "Comments 11 comments",
+    "reactions": "29 reactions",
+    "comments": "Comments 14 comments",
     "url": "https://dev.to/embernoglow/i-created-my-first-game-and-decided-to-leave-gamedev-o9n"
   },
   {
@@ -85,8 +85,8 @@
     "date": "2026-04-22",
     "description": "AI favoring stabilization over innovationSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowApr 22If AI Existed in 2011, Would We Still Have the Mo...",
     "tags": "#discuss, #ai, #webdev, #programming",
-    "reactions": "129 reactions",
-    "comments": "Comments 79 comments",
+    "reactions": "133 reactions",
+    "comments": "Comments 88 comments",
     "url": "https://dev.to/sylwia-lask/if-ai-existed-in-2011-would-we-still-have-the-modern-web-408g"
   },
   {
@@ -95,8 +95,8 @@
     "date": "2026-04-19",
     "description": "DEV Weekend Challenge: Earth DayKonark SharmaKonark SharmaKonark SharmaFollowApr 19It Might Already Be Too Late to Fix This#devchallenge#weekendchalle...",
     "tags": "#devchallenge, #weekendchallenge, #ai, #webdev",
-    "reactions": "48 reactions",
-    "comments": "Comments 30 comments",
+    "reactions": "50 reactions",
+    "comments": "Comments 34 comments",
     "url": "https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m"
   },
   {
@@ -105,8 +105,8 @@
     "date": "2026-04-23",
     "description": "Rediscovering creativity after career burnoutPaulo HenriquePaulo HenriquePaulo HenriqueFollowApr 23So, what am I doing after 22 years in tech?#discuss...",
     "tags": "#discuss, #career, #watercooler, #help",
-    "reactions": "28 reactions",
-    "comments": "Comments 8 comments",
+    "reactions": "34 reactions",
+    "comments": "Comments 9 comments",
     "url": "https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic"
   },
   {
@@ -125,7 +125,7 @@
     "date": "2026-04-22",
     "description": "Announcing the Google Cloud NEXT '26 Writing ChallengeJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 22Tune In and Join the Google Cloud NEXT '26 Wr...",
     "tags": "#devchallenge, #googlecloud, #cloudnextchallenge",
-    "reactions": "123 reactions",
+    "reactions": "130 reactions",
     "comments": "Comments 19 comments",
     "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd"
   },
@@ -145,8 +145,8 @@
     "date": "2026-04-21",
     "description": "OpenClaw Challenge Submission 🦞FrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowApr 21Unpopular Opinion: Do not use OpenClaw...not ye...",
     "tags": "#discuss, #devchallenge, #openclawchallenge, #ai",
-    "reactions": "60 reactions",
-    "comments": "Comments 16 comments",
+    "reactions": "62 reactions",
+    "comments": "Comments 19 comments",
     "url": "https://dev.to/francistrdev/unpopular-opinion-do-not-use-openclawnot-yet-5foe"
   },
   {
@@ -160,14 +160,14 @@
     "url": "https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76"
   },
   {
-    "title": "What was your win this week?!",
+    "title": "What was your win this week!?",
     "author": "Jess Lee",
-    "date": "2026-04-17",
-    "description": "AI talk news and office coffee upgradesJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 17What was your win this week?!#discuss#weeklyretro84reactions...",
+    "date": "2026-04-24",
+    "description": "Features JSNation news and AI project updatesJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 24What was your win this week!?#discuss#weeklyretro17rea...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "84 reactions",
-    "comments": "Comments 75 comments",
-    "url": "https://dev.to/devteam/what-was-your-win-this-week-28fb"
+    "reactions": "17 reactions",
+    "comments": "Comments 19 comments",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-8ep"
   },
   {
     "title": "🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)",
@@ -175,7 +175,7 @@
     "date": "2026-04-21",
     "description": "Reactive 3D characters with unique backstoriesWeb Developer HyperWeb Developer HyperWeb Developer HyperFollowApr 21🦸Let Superheroes Cheer You Up (AI A...",
     "tags": "#discuss, #ai, #webdev, #javascript",
-    "reactions": "62 reactions",
+    "reactions": "63 reactions",
     "comments": "Comments 28 comments",
     "url": "https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7"
   }
