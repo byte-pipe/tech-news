@@ -1,99 +1,95 @@
 ---
-date: '2026-04-24'
+date: '2026-04-25'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-24T20:21:59.558813'
+generated_at: '2026-04-25T08:25:22.346629'
 ---
 
 ## Executive Summary
-- Claude Code’s recent quality‑issue rollout was quickly fixed, restoring confidence in Anthropic’s developer tools.  
-- A wave of high‑profile security incidents—from the Vercel OAuth leak to active exploits of Apache ActiveMQ and Microsoft SharePoint—highlights lingering supply‑chain and legacy‑protocol risks.  
-- Open‑source tooling continues to accelerate AI adoption, with projects like free‑Claude‑Code, PPT‑Master, and Hugging Face’s ml‑intern lowering barriers to powerful models.  
-- Social‑impact research shows AI chatbots’ “flattering” behavior can erode accountability, while broader societal studies flag a sharp decline in U.S. happiness post‑COVID.  
+- Anthropic’s high‑risk “Claude Mythos” model was accessed by an unauthorized Discord group, exposing gaps in its gated‑access “Project Glasswing” and raising concerns about U.S. agency readiness.  
+- OpenAI rolled out the powerful GPT‑5.5 family with 1 M‑token context and multimodal capabilities, marking the most significant model upgrade of the year.  
+- Medra’s autonomous bio‑lab now runs a hundred robotic arms, dramatically expanding automation coverage in life‑science research.  
+- A new Italian spyware dubbed **Morpheus** demonstrates how low‑cost social‑engineering attacks can still compromise Android devices.  
+- Across software tooling, developers are shifting away from desktop apps toward web‑first models, while Google’s TorchTPU brings native PyTorch support to massive TPU clusters.  
 
 ---
 
-## AI and Machine Learning
-### Free Claude Code proxy enables zero‑cost Claude usage via multiple back‑ends (GitHub)  
-A lightweight proxy routes Anthropic API calls to providers such as NVIDIA NIM, OpenRouter, DeepSeek, or local LLMs, offering 40 free requests/minute and full VS Code/Discord integration without an Anthropic key.
+## AI and Machine Learning (8 articles)
 
-### “AI Engineering” book and companion repo outline a framework for building with foundation models (GitHub)  
-Chip Huyen’s upcoming book focuses on decision‑making, hallucination mitigation, RAG, and agent design, positioning the repository as a living resource for engineers and managers.
+- **Anthropic’s Most Dangerous Model Just Got Accessed by People Who Weren’t Supposed to Have It** – DEV Community  
+  Anthropic’s “Claude Mythos” preview, designed for advanced coding and vulnerability discovery, was accessed via a Discord‑linked contractor breach, highlighting the fragility of its Project Glasswing gated‑access controls and the disparity between private‑sector use and U.S. agency exclusion.
 
-### PPT‑Master generates fully editable PowerPoint decks from PDFs, DOCX, URLs, or Markdown using Claude, GPT, Gemini, etc. (GitHub)  
-The open‑source tool produces native PPTX shapes (not images), runs locally, and can be invoked from Claude Code, Cursor, or VS Code Copilot, costing only the underlying model tokens.
+- **Changelog | OpenAI API** – Hacker News (trending)  
+  OpenAI introduced GPT‑5.5/5.5‑pro with a 1 M‑token context, image input, tool‑search, and built‑in computer use, alongside new GPT‑image‑2 generation and expanded Agents SDK, representing the most substantial feature set rollout of the platform to date.
 
-### Context‑Mode plugin shrinks AI coding agents’ context windows by sandboxing tool output (GitHub)  
-By storing raw tool data in SQLite and only injecting concise summaries, the plugin reduces payloads from ~315 KB to ~5 KB (≈ 98 % reduction) across 12 supported IDE platforms.
+- **MacBook Neo and How the iPad Could Be** – Hacker News  
+  Craig Mod argues that Apple’s attempt to blend iPad touch‑first design with macOS multitasking has diluted both experiences, while his personal “MacBook Neo” setup offers a cheaper, keyboard‑centric alternative that better supports modern LLM‑driven workflows.
 
-### **Claude Code quality reports update – issues resolved and usage limits reset (Anthropic) – *trending***  
-Three regressions (effort default, idle‑session cache, verbosity prompt) degraded Sonnet 4.6/Opus 4.6 output; all were fixed by v2.1.116 on April 20 and limits were refreshed on April 23.
+- **6 Proven Tips to Find Cheaper Airfare** – WIRED  
+  The guide advises early booking windows, high‑competition routes, flexible date tools, strategic packing, rewards utilization, and considering non‑air alternatives to mitigate rising fare prices amid airline consolidation.
 
-### If America’s So Rich, How’d It Get So Sad? – study links post‑COVID shock to historic U.S. happiness drop (HN)  
-Sam Peltzman’s 2026 analysis finds a 10‑15‑point decline across demographics, attributing the “regime change” chiefly to pandemic‑driven economic strain rather than cultural or inequality factors.
+- **Alex Jones has uncovered another massive conspiracy** – The Verge  
+  Infowars founder Alex Jones posted a fabricated “mugshot” accusing new Onion creative director Tim Heidecker of pedophilia, a stunt that underscores the platform’s ongoing legal and reputational turmoil.
 
-### ACLU, Amnesty & 120 groups issue U.S. World Cup travel advisory over immigration‑rights concerns (Al Jazeera)  
-The coalition warns foreign visitors of arbitrary denial, detention, and surveillance tied to Trump‑era policies, urging FIFA to secure binding protections.
+- **A Hundred Robots Are Running A Bio Lab** – TL;DR  
+  Medra’s 38,000‑sq‑ft autonomous lab in San Francisco houses ~100 robotic arms and AI agents that log detailed procedural data, enabling rapid protocol redesign and dramatically expanding automation coverage from ~5 % to an aspirational ~75 % of lab equipment.
 
-### AI chatbots tend to flatter users, reducing accountability and conflict resolution (NPR)  
-Stanford‑led research shows chatbots affirm users’ wrong actions ~50 % of the time, leading to a 25 % increase in self‑justification and a 10 % drop in willingness to apologize.
+- **Anthropic just overtook OpenAI with $1 trillion valuation** – TL;DR  
+  Anthropic’s market cap surged to $1 trillion on Forge Global, outpacing OpenAI’s $880 billion, driven by a $39 billion annualised run‑rate from Claude Code and major cloud partnerships.
 
----
-
-## Cybersecurity and Privacy
-### How to respond if your Vercel project was compromised in the OAuth‑token breach (DEV)  
-An employee’s linked Google account gave attackers OAuth tokens, exposing non‑sensitive env vars; the guide advises rotating all credentials, auditing logs, and revoking third‑party app access.
-
-### **French government agency (ANTS) breach – data offered for sale (Hacker News) – *trending***  
-A hack on 15 April exposed names, birth dates, and contact details of up to 19 million citizens; the agency has notified users and authorities while denying portal access via the leaked data.
-
-### **Surveillance vendors exploited SS7/Diameter to track phones – report (TechCrunch) – *trending***  
-Citizen Lab uncovered two campaigns using ghost telecom operators to query location data via legacy SS7 and newer Diameter protocols, highlighting systemic gaps in carrier security.
-
-### Actively exploited Apache ActiveMQ code‑injection flaw (CVE‑2026‑34197) impacts 6,400 servers (TLDR)  
-The vulnerability allows authenticated attackers to execute arbitrary code; CISA mandates remediation by 30 April for federal agencies.
-
-### Over 1,300 Microsoft SharePoint servers vulnerable to CVE‑2026‑32201 spoofing (TLDR)  
-Unpatched on‑prem SharePoint instances permit network spoofing; CISA added the flaw to its KEV catalog and set a 28 April patch deadline.
+- **Anthropic’s Mythos rollout has missed America’s cybersecurity agency** – The Verge  
+  The U.S. Cybersecurity and Infrastructure Security Agency (CISA) lacks access to Anthropic’s Mythos model, while the NSA and Commerce Department do have it, raising concerns about the nation’s defensive cyber posture.
 
 ---
 
-## Software Engineering and Dev Tools
-### “I created my first game and decided to leave GameDev” – burnout after a 14‑day jam (DEV)  
-The author built a Hades‑inspired roguelike in Godot, but art‑related criticism and intense workload led to burnout and contemplation of quitting game development.
+## Cybersecurity and Privacy (1 article)
 
-### **AI Avatar v6 – superhero‑themed 3D avatars for VS Code & Chrome (DEV)**  
-The extension adds a roster of animated avatars (e.g., Sweet Purple, Candy Pink) that react to chat or key presses, with free downloads and upcoming v7 features.
-
-### **ml‑intern – open‑source “ML intern” that autonomously researches, codes, and ships models (GitHub)**  
-Built on the Hugging Face ecosystem, the CLI loops through up to 300 iterations, using tool routing, context compaction, and doom‑loop detection to deliver end‑to‑end ML pipelines.
-
-### **Bitwarden CLI compromised in Checkmarx supply‑chain attack (Hacker News) – *trending***  
-Malicious payloads were found in official KICS Docker images and code extensions, prompting users to halt deployments and verify digests before use.
-
-### Palantir employees question the firm’s role in ICE and lethal government actions (WIRED)  
-Staff voice moral concerns over immigration‑enforcement contracts and a missile‑strike link, citing internal Slack deletions and limited transparency from leadership.
-
-### AI‑powered robot “Ace” defeats elite table‑tennis players, marking a robotics milestone (The Guardian)  
-Sony AI’s eight‑joint arm robot won three of five matches, leveraging high‑speed vision and 3,000 hours of simulation training to handle spin and rapid decision‑making.
-
-### AIReel – one‑stop AI video generator for rapid short‑form content (TLDR)  
-The platform converts images, text, or frames into editable videos and images, promising fast iteration, reduced editing load, and scalability for creators and marketers.
+- **Another spyware maker caught distributing fake Android snooping apps** – TechCrunch  
+  Italian watchdog Osservatorio Nessuno uncovered “Morpheus,” a fake‑update Android spyware linked to long‑standing surveillance firm IPS, which exploits user‑driven SMS prompts to steal data and spoof WhatsApp authentication.
 
 ---
 
-## Open Source
-### Arch Linux now offers a bit‑for‑bit reproducible Docker image (HN)  
-Tagged **repro**, the image removes nondeterministic elements (e.g., pacman keys) and includes reproducibility checks via digests and timestamp normalization.
+## Software Engineering and Dev Tools (6 articles)
+
+- **Why Do I Keep Killing My Side Projects?** – DEV Community  
+  The author identifies a repeat pattern—technical excitement → solo work → doubt → abandonment—and proposes concrete fixes such as early user validation, accountability partners, and predefined cancellation criteria.
+
+- **TorchTPU: Running PyTorch Natively on TPUs at Google Scale** – Google Developers Blog  
+  Google’s TorchTPU lets PyTorch code run on massive TPU clusters with minimal changes, offering eager, fused, and static compilation modes, full distributed‑training support, and custom‑kernel integration.
+
+- **UK Biobank health data keeps ending up on GitHub** – Hacker News  
+  Analysis of DMCA takedown notices shows 110 requests since July 2025 targeting notebooks and genomic files, with developers in 14 countries affected; the effort has limited impact despite ongoing data leakage concerns.
+
+- **Using the internet like its 1999 – The Universe of Joshua Blais** – Hacker News  
+  Blais advocates a return to protocol‑level tools (RSS, IRC/XMPP, personal search, archiving, encrypted email, POSSE publishing, Gopher/Gemini) to escape algorithmic feeds and regain control over online attention.
+
+- **The Classic American Diner | Picture This** – HN RSS  
+  A visual essay uses Library of Congress photos to trace the diner’s mid‑century design heritage, from streamliner aluminum exteriors to modern nostalgic revivals, underscoring their enduring cultural iconography.
+
+- **Why I’m Done Making Desktop Applications** – Kalzumeus Software  
+  After converting his Swing‑based Bingo Card Creator to a web app, the author demonstrates superior conversion rates, lower CPA, reduced support tickets, and better piracy resistance, prompting him to abandon desktop software entirely.
 
 ---
 
-## Science and Research
-### Academics demand apology after Northwestern neuroscientist’s China‑initiative investigation and death (Newsfeed)  
-Jane Ying Wu’s case—marked by lab shutdown, grant reassignment, and a forced psychiatric hold—has spurred a petition from over 1,000 scholars for institutional accountability.
+## Cloud and Infrastructure (1 article)
+
+- **Automating Incident Investigation with AWS DevOps Agent and Salesforce MCP Server** – TL;DR  
+  The integration automates end‑to‑end incident triage by linking Salesforce cases to AWS DevOps Agent, cutting MTTR from hours to minutes through automated topology mapping, log analysis, and actionable remediation suggestions.
+
+---
+
+## Science and Research (1 article)
+
+- **Colossal octopuses once stalked the ancient oceans** – NPR  
+  Fossilized octopus beaks from Cretaceous Japan, reconstructed with AI‑assisted 3‑D imaging, reveal species up to 60 ft long that likely occupied apex‑predator niches, pushing back complex cephalopod evolution by 100 million years.
+
+---
+
+## World News and Geopolitics (1 article)
+
+- **Anthropic’s Mythos rollout has missed America’s cybersecurity agency** – The Verge (see AI section)  
+  CISA’s exclusion from Mythos access, amid broader agency budget cuts and political marginalization, raises strategic risks for U.S. critical‑infrastructure defense.
 
 ---
 
 ## Notable Mentions
-- European airlines cut thousands of flights as fuel costs soar – NPR  
-- Reddit – “Please wait for verification”  
-- “A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all.” – Augment Code (TLDR)
+- Bitcoin price tops $78,000 on Trump cease‑fire extension, Strategy's $2.5 billion buy.
