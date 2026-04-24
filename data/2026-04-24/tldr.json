@@ -10,6 +10,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "3D Cultural Heritage Archive (Website)",
+    "url": "https://funes.world/",
+    "description": "3D Cultural Heritage Archive (Website)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "5 genius marketing ideas (4 minute read)",
     "url": "https://www.marketingideas.com/p/how-to-get-leads-from-your-404-page",
     "description": "5 genius marketing ideas (4 minute read)",
@@ -40,16 +50,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Video and Image Generation (Website)",
-    "url": "https://www.aireel.net/",
-    "description": "AI Video and Image Generation (Website)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-24",
-    "site_name": "tldr"
-  },
-  {
     "title": "AI agents are becoming identity problems, not just productivity tools (4 minute read)",
     "url": "https://www.cio.com/article/4160452/managing-ai-agents-and-identity-in-a-heightened-risk-environment.html",
     "description": "AI agents are becoming identity problems, not just productivity tools (4 minute read)",
@@ -63,16 +63,6 @@
     "title": "AI-powered robot beats elite table tennis players (5 minute read)",
     "url": "https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics",
     "description": "AI-powered robot beats elite table tennis players (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "ActiveMQ joins the growing list of actively exploited enterprise flaws (2 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers",
-    "description": "ActiveMQ joins the growing list of actively exploited enterprise flaws (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -240,6 +230,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Broccoli (GitHub Repo)",
+    "url": "https://github.com/besimple-oss/broccoli",
+    "description": "Broccoli (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Building agents that reach production systems with MCP (14 minute read)",
+    "url": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
+    "description": "Building agents that reach production systems with MCP (14 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "Building an AI Ready Vulnerability Management Program After NVD Changes and Claude Mythos (5 minute read)",
     "url": "https://pulse.latio.tech/p/building-an-ai-ready-vulnerability",
     "description": "Building an AI Ready Vulnerability Management Program After NVD Changes and Claude Mythos (5 minute read)",
@@ -280,6 +290,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Cursor AI Vulnerability Exposed Developer Devices (3 minute read)",
+    "url": "https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/",
+    "description": "Cursor AI Vulnerability Exposed Developer Devices (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Customer journey mapping is a waste of time (1 minute read)",
+    "url": "https://www.linkedin.com/posts/tasbober_ok-i-have-to-say-it-customer-journey-mapping-share-7451820148610740224-3zRs",
+    "description": "Customer journey mapping is a waste of time (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "Data Shift vs. Data Drift (6 minute read)",
     "url": "https://www.montecarlodata.com/blog-data-shift-vs-data-drift",
     "description": "Data Shift vs. Data Drift (6 minute read)",
@@ -313,16 +343,6 @@
     "title": "DoorDash brings stablecoin payments to masses with Tempo (4 minute read)",
     "url": "https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain",
     "description": "DoorDash brings stablecoin payments to masses with Tempo (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "EU targets Google with data-sharing mandate (2 minute read)",
-    "url": "https://cafetechinenglish.substack.com/p/eu-targets-google-with-data-sharing",
-    "description": "EU targets Google with data-sharing mandate (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -440,16 +460,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "How Margelo Helped Discord Improve React Native's New Architecture Performance (16 minute read)",
-    "url": "https://blog.margelo.com/margelo-discord-react-native-performance",
-    "description": "How Margelo Helped Discord Improve React Native's New Architecture Performance (16 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-24",
-    "site_name": "tldr"
-  },
-  {
     "title": "How The Heck Does Shazam Work? (An Interactive Exploration) (15 minute read)",
     "url": "https://perthirtysix.com/how-the-heck-does-shazam-work",
     "description": "How The Heck Does Shazam Work? (An Interactive Exploration) (15 minute read)",
@@ -560,6 +570,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "IronClaw (GitHub Repo)",
+    "url": "https://github.com/nearai/ironclaw",
+    "description": "IronClaw (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "Is Claude Code going to cost $100/month? Probably not—it's all very confusing (4 minute read)",
     "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
     "description": "Is Claude Code going to cost $100/month? Probably not—it's all very confusing (4 minute read)",
@@ -620,9 +640,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Kraken parent Payward to acquire Bitnomial for up to $550m (2 minute read)",
-    "url": "https://finance.yahoo.com/markets/crypto/articles/kraken-parent-payward-acquire-bitnomial-062656560.html",
-    "description": "Kraken parent Payward to acquire Bitnomial for up to $550m (2 minute read)",
+    "title": "LLM-Tier Personal Computer Security (6 minute read)",
+    "url": "https://www.lesswrong.com/posts/NCDiAzGZmMfEKNb87/llm-tier-personal-computer-security",
+    "description": "LLM-Tier Personal Computer Security (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -670,9 +690,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In June (2 minute read)",
-    "url": "https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june/",
-    "description": "Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In June (2 minute read)",
+    "title": "Moonshot AI launches Kimi K2.6 on Kimi Chat and APIs (2 minute read)",
+    "url": "https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-6-on-kimi-chat-and-apis/",
+    "description": "Moonshot AI launches Kimi K2.6 on Kimi Chat and APIs (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -680,9 +700,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Moonshot AI launches Kimi K2.6 on Kimi Chat and APIs (2 minute read)",
-    "url": "https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-6-on-kimi-chat-and-apis/",
-    "description": "Moonshot AI launches Kimi K2.6 on Kimi Chat and APIs (2 minute read)",
+    "title": "Mozilla: Anthropic's Mythos Found 271 Security Vulnerabilities in Firefox 150 (2 minute read)",
+    "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+    "description": "Mozilla: Anthropic's Mythos Found 271 Security Vulnerabilities in Firefox 150 (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -740,16 +760,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Outtake (Product Launch)",
-    "url": "https://www.outtake.ai/",
-    "description": "Outtake (Product Launch)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-24",
-    "site_name": "tldr"
-  },
-  {
     "title": "Quantum Computers Are Not a Threat to 128-bit Symmetric Keys (23 minute read)",
     "url": "https://words.filippo.io/128-bits/",
     "description": "Quantum Computers Are Not a Threat to 128-bit Symmetric Keys (23 minute read)",
@@ -800,6 +810,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Salesforce and Google are linking their agent ecosystems (3 minute read)",
+    "url": "https://www.googlecloudpresscorner.com/2026-04-22-Salesforce-and-Google-Cloud-Enable-AI-Agents-to-Act-Across-Both-Platforms-with-Deep-Context-and-End-to-End-Workflows",
+    "description": "Salesforce and Google are linking their agent ecosystems (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "Six levels of dark mode (10 minute read)",
     "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
     "description": "Six levels of dark mode (10 minute read)",
@@ -820,9 +840,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SpaceX Eyes Cursor in Surprise AI Coding Power Play (3 minute read)",
-    "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-    "description": "SpaceX Eyes Cursor in Surprise AI Coding Power Play (3 minute read)",
+    "title": "Smart Contracts as Credible Commitments for Trading (10 minute read)",
+    "url": "https://www.lesswrong.com/posts/2TdWiYZfPpdaTLmJS/smart-contracts-as-credible-commitments-for-trading-with-1",
+    "description": "Smart Contracts as Credible Commitments for Trading (10 minute read)",
     "tags": [
       "tldr"
     ],
@@ -830,9 +850,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SpaceX strikes $60B deal for AI coding startup Cursor (2 minute read)",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion",
-    "description": "SpaceX strikes $60B deal for AI coding startup Cursor (2 minute read)",
+    "title": "SpaceX Eyes Cursor in Surprise AI Coding Power Play (3 minute read)",
+    "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+    "description": "SpaceX Eyes Cursor in Surprise AI Coding Power Play (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -950,6 +970,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The Rumpelstiltskin Effect: Why We Buy (3 minute read)",
+    "url": "https://ckarchive.com/b/p9ueh9h2oorv8im6ggw6kapqemm24brhkz6v6",
+    "description": "The Rumpelstiltskin Effect: Why We Buy (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "The Ultimate iOS Hardening Guide (GitHub Repo)",
     "url": "https://github.com/iAnonymous3000/iOS-Hardening-Guide",
     "description": "The Ultimate iOS Hardening Guide (GitHub Repo)",
@@ -963,16 +993,6 @@
     "title": "The Work Runs on Different Maps (3 minute read)",
     "url": "https://yusufaytas.com/the-work-runs-on-different-maps",
     "description": "The Work Runs on Different Maps (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The case for a variable PTC deadline with affine metering (5 minute read)",
-    "url": "https://ethresear.ch/t/the-case-for-a-variable-ptc-deadline-with-affine-metering-and-a-unified-calldata-price/24708",
-    "description": "The case for a variable PTC deadline with affine metering (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1160,6 +1180,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Why I don't chain everything in JavaScript anymore (5 minute read)",
+    "url": "https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/",
+    "description": "Why I don't chain everything in JavaScript anymore (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "Why MicroVMs: The Architecture Behind Docker Sandboxes  (6 minute read)",
     "url": "https://www.docker.com/blog/why-microvms-the-architecture-behind-docker-sandboxes/",
     "description": "Why MicroVMs: The Architecture Behind Docker Sandboxes  (6 minute read)",
@@ -1173,6 +1203,16 @@
     "title": "Win Report: How a simple “what next?” section increased conversions from blog traffic by 43%—and how you can do the same (4 minute read)",
     "url": "https://conversion-rate-experts.com/what-next-win-report/",
     "description": "Win Report: How a simple “what next?” section increased conversions from blog traffic by 43%—and how you can do the same (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Xero introduces AI-Native operating system for accountants and small businesses (4 minute read)",
+    "url": "https://www.cpapracticeadvisor.com/2026/04/22/xero-introduces-ai-native-operating-system-for-accountants-and-small-businesses/182042/",
+    "description": "Xero introduces AI-Native operating system for accountants and small businesses (4 minute read)",
     "tags": [
       "tldr"
     ],
