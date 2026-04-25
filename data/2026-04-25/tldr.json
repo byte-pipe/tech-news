@@ -280,6 +280,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Clicky (Tool)",
+    "url": "https://www.heyclicky.com/",
+    "description": "Clicky (Tool)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "Coding Models Are Doing Too Much (19 minute read)",
     "url": "https://nrehiew.github.io/blog/minimal_editing/",
     "description": "Coding Models Are Doing Too Much (19 minute read)",
@@ -720,16 +730,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "OlmoEarth Embeddings Export (8 minute read)",
-    "url": "https://allenai.org/blog/olmoearth-embeddings",
-    "description": "OlmoEarth Embeddings Export (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "OpenAI announces GPT-5.5, its latest artificial intelligence model (3 minute read)",
     "url": "https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html",
     "description": "OpenAI announces GPT-5.5, its latest artificial intelligence model (3 minute read)",
@@ -743,6 +743,16 @@
     "title": "OpenSRE (GitHub Repo)",
     "url": "https://github.com/Tracer-Cloud/opensre",
     "description": "OpenSRE (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Package Manager Guard (GitHub Repo)",
+    "url": "https://github.com/safedep/pmg",
+    "description": "Package Manager Guard (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -823,6 +833,16 @@
     "title": "Startups Brag They Spend More Money on AI Than Human Employees (5 minute read)",
     "url": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
     "description": "Startups Brag They Spend More Money on AI Than Human Employees (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Surveillance vendors caught abusing access to telcos to track people's phone locations, researchers say (3 minute read)",
+    "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+    "description": "Surveillance vendors caught abusing access to telcos to track people's phone locations, researchers say (3 minute read)",
     "tags": [
       "tldr"
     ],
