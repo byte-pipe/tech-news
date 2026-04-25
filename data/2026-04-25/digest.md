@@ -1,95 +1,92 @@
 ---
 date: '2026-04-25'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-25T08:25:22.346629'
+generated_at: '2026-04-25T18:00:35.356293'
 ---
 
-## Executive Summary
-- Anthropic’s high‑risk “Claude Mythos” model was accessed by an unauthorized Discord group, exposing gaps in its gated‑access “Project Glasswing” and raising concerns about U.S. agency readiness.  
-- OpenAI rolled out the powerful GPT‑5.5 family with 1 M‑token context and multimodal capabilities, marking the most significant model upgrade of the year.  
-- Medra’s autonomous bio‑lab now runs a hundred robotic arms, dramatically expanding automation coverage in life‑science research.  
-- A new Italian spyware dubbed **Morpheus** demonstrates how low‑cost social‑engineering attacks can still compromise Android devices.  
-- Across software tooling, developers are shifting away from desktop apps toward web‑first models, while Google’s TorchTPU brings native PyTorch support to massive TPU clusters.  
-
----
-
-## AI and Machine Learning (8 articles)
-
-- **Anthropic’s Most Dangerous Model Just Got Accessed by People Who Weren’t Supposed to Have It** – DEV Community  
-  Anthropic’s “Claude Mythos” preview, designed for advanced coding and vulnerability discovery, was accessed via a Discord‑linked contractor breach, highlighting the fragility of its Project Glasswing gated‑access controls and the disparity between private‑sector use and U.S. agency exclusion.
-
-- **Changelog | OpenAI API** – Hacker News (trending)  
-  OpenAI introduced GPT‑5.5/5.5‑pro with a 1 M‑token context, image input, tool‑search, and built‑in computer use, alongside new GPT‑image‑2 generation and expanded Agents SDK, representing the most substantial feature set rollout of the platform to date.
-
-- **MacBook Neo and How the iPad Could Be** – Hacker News  
-  Craig Mod argues that Apple’s attempt to blend iPad touch‑first design with macOS multitasking has diluted both experiences, while his personal “MacBook Neo” setup offers a cheaper, keyboard‑centric alternative that better supports modern LLM‑driven workflows.
-
-- **6 Proven Tips to Find Cheaper Airfare** – WIRED  
-  The guide advises early booking windows, high‑competition routes, flexible date tools, strategic packing, rewards utilization, and considering non‑air alternatives to mitigate rising fare prices amid airline consolidation.
-
-- **Alex Jones has uncovered another massive conspiracy** – The Verge  
-  Infowars founder Alex Jones posted a fabricated “mugshot” accusing new Onion creative director Tim Heidecker of pedophilia, a stunt that underscores the platform’s ongoing legal and reputational turmoil.
-
-- **A Hundred Robots Are Running A Bio Lab** – TL;DR  
-  Medra’s 38,000‑sq‑ft autonomous lab in San Francisco houses ~100 robotic arms and AI agents that log detailed procedural data, enabling rapid protocol redesign and dramatically expanding automation coverage from ~5 % to an aspirational ~75 % of lab equipment.
-
-- **Anthropic just overtook OpenAI with $1 trillion valuation** – TL;DR  
-  Anthropic’s market cap surged to $1 trillion on Forge Global, outpacing OpenAI’s $880 billion, driven by a $39 billion annualised run‑rate from Claude Code and major cloud partnerships.
-
-- **Anthropic’s Mythos rollout has missed America’s cybersecurity agency** – The Verge  
-  The U.S. Cybersecurity and Infrastructure Security Agency (CISA) lacks access to Anthropic’s Mythos model, while the NSA and Commerce Department do have it, raising concerns about the nation’s defensive cyber posture.
+## Executive Summary  
+- Anthropic’s flagship “Mythos” model was accessed by an unauthorized Discord group, exposing gaps in its gated‑access “Project Glasswing” while the company simultaneously celebrated a $1 trillion valuation that now eclipses OpenAI.  
+- OpenAI rolled out the highly‑capable GPT‑5.5 family with 1 M‑token context, image input and new tool‑calling features, marking the most significant model upgrade of the year.  
+- A new Italian Android spyware (Morpheus) demonstrates how low‑cost social‑engineering attacks can still compromise smartphones, even as the U.S. CISA remains excluded from Anthropic’s cyber‑defense tools.  
+- Advances in automation—from Medra’s hundred‑robot autonomous bio‑lab to Google’s TorchTPU for native PyTorch on TPUs—show AI‑driven productivity gains across biotech and cloud‑scale training.  
+- Parallel stories of data leakage (UK Biobank on GitHub), legacy‑software decline (desktop apps), and a spectacular paleontological find of 60‑ft Cretaceous octopuses round out a day of rapid tech, security, and scientific breakthroughs.
 
 ---
 
-## Cybersecurity and Privacy (1 article)
+## AI and Machine Learning  
 
-- **Another spyware maker caught distributing fake Android snooping apps** – TechCrunch  
-  Italian watchdog Osservatorio Nessuno uncovered “Morpheus,” a fake‑update Android spyware linked to long‑standing surveillance firm IPS, which exploits user‑driven SMS prompts to steal data and spoof WhatsApp authentication.
+### Anthropic’s most dangerous model accessed by outsiders – DEV Community  
+*Anthropic’s “Claude Mythos Preview,” a model capable of autonomously finding zero‑day bugs, was reached through a guessed API endpoint by a private Discord group, highlighting the fragility of Project Glasswing’s vendor‑level controls.*  
 
----
+### OpenAI API changelog – Hacker News (trending)  
+*OpenAI introduced GPT‑5.5/‑5.5‑pro (1 M‑token context, image input, structured outputs, extended tool suite) and a suite of ancillary models (gpt‑image‑2, gpt‑5.4‑mini/nano, Sora video API, etc.), representing the most extensive model rollout of 2026.*  
 
-## Software Engineering and Dev Tools (6 articles)
+### MacBook Neo and How the iPad Could Be – HN RSS  
+*Craig Mod argues that iPadOS’s half‑baked convergence with macOS dilutes the iPad’s touch‑first promise, while the “MacBook Neo” offers a cheaper, keyboard‑centric alternative that better supports LLM‑driven workflows.*  
 
-- **Why Do I Keep Killing My Side Projects?** – DEV Community  
-  The author identifies a repeat pattern—technical excitement → solo work → doubt → abandonment—and proposes concrete fixes such as early user validation, accountability partners, and predefined cancellation criteria.
+### 6 Proven Tips to Find Cheaper Airfare – WIRED  
+*WIRED outlines data‑driven strategies—early booking windows, hub‑centric routing, flexible‑date searches, baggage minimisation, rewards optimisation, and non‑air alternatives—to combat rising fuel‑driven fare inflation.*  
 
-- **TorchTPU: Running PyTorch Natively on TPUs at Google Scale** – Google Developers Blog  
-  Google’s TorchTPU lets PyTorch code run on massive TPU clusters with minimal changes, offering eager, fused, and static compilation modes, full distributed‑training support, and custom‑kernel integration.
+### Alex Jones’s latest conspiracy – The Verge  
+*Infowars host Alex Jones posted a fabricated “mugshot” accusing new Onion creative director Tim Heidecker of pedophilia, a stunt that underscores the platform’s ongoing legal and reputational turmoil.*  
 
-- **UK Biobank health data keeps ending up on GitHub** – Hacker News  
-  Analysis of DMCA takedown notices shows 110 requests since July 2025 targeting notebooks and genomic files, with developers in 14 countries affected; the effort has limited impact despite ongoing data leakage concerns.
+### A Hundred Robots Are Running a Bio Lab – TLDR  
+*Medra’s 38,000‑sq‑ft autonomous lab in San Francisco uses ~100 robotic arms plus AI agents that log every procedural detail, enabling reproducible experiments and a 70 %+ improvement in antibody binding without human engineers.*  
 
-- **Using the internet like its 1999 – The Universe of Joshua Blais** – Hacker News  
-  Blais advocates a return to protocol‑level tools (RSS, IRC/XMPP, personal search, archiving, encrypted email, POSSE publishing, Gopher/Gemini) to escape algorithmic feeds and regain control over online attention.
-
-- **The Classic American Diner | Picture This** – HN RSS  
-  A visual essay uses Library of Congress photos to trace the diner’s mid‑century design heritage, from streamliner aluminum exteriors to modern nostalgic revivals, underscoring their enduring cultural iconography.
-
-- **Why I’m Done Making Desktop Applications** – Kalzumeus Software  
-  After converting his Swing‑based Bingo Card Creator to a web app, the author demonstrates superior conversion rates, lower CPA, reduced support tickets, and better piracy resistance, prompting him to abandon desktop software entirely.
+### Anthropic overtakes OpenAI with $1 trillion valuation – TLDR  
+*Anthropic’s market cap surged to $1 trillion after a rapid revenue run‑rate jump to $39 billion, propelled by Claude Code adoption and deep partnerships with Amazon and Palantir, briefly outvaluing OpenAI’s $880 billion.*  
 
 ---
 
-## Cloud and Infrastructure (1 article)
+## Cybersecurity and Privacy  
 
-- **Automating Incident Investigation with AWS DevOps Agent and Salesforce MCP Server** – TL;DR  
-  The integration automates end‑to‑end incident triage by linking Salesforce cases to AWS DevOps Agent, cutting MTTR from hours to minutes through automated topology mapping, log analysis, and actionable remediation suggestions.
-
----
-
-## Science and Research (1 article)
-
-- **Colossal octopuses once stalked the ancient oceans** – NPR  
-  Fossilized octopus beaks from Cretaceous Japan, reconstructed with AI‑assisted 3‑D imaging, reveal species up to 60 ft long that likely occupied apex‑predator niches, pushing back complex cephalopod evolution by 100 million years.
+### Another spyware maker caught distributing fake Android snooping apps – TechCrunch  
+*Italian firm IPS was linked to “Morpheus,” a low‑cost Android spyware that masquerades as a carrier‑prompted update, exploits accessibility services, and even spoofs WhatsApp to harvest biometric credentials.*  
 
 ---
 
-## World News and Geopolitics (1 article)
+## Software Engineering and Dev Tools  
 
-- **Anthropic’s Mythos rollout has missed America’s cybersecurity agency** – The Verge (see AI section)  
-  CISA’s exclusion from Mythos access, amid broader agency budget cuts and political marginalization, raises strategic risks for U.S. critical‑infrastructure defense.
+### Why Do I Keep Killing My Side Projects? – DEV Community  
+*The author identifies a repeatable failure loop (need → excitement → solitude → doubt → death) and proposes concrete mitigations: start with a paying user, separate learning from product building, set early kill criteria, and secure an accountability partner.*  
+
+### TorchTPU: Running PyTorch Natively on TPUs at Google Scale – Google Developers Blog  
+*Google’s TorchTPU lets PyTorch code run on Cloud TPUs with minimal changes, offering three eager modes (debug, strict, fused) and full compatibility with distributed APIs, dramatically improving performance on large‑scale models.*  
+
+### UK Biobank health data keeps ending up on GitHub – Hacker News  
+*Analysis of 110 DMCA takedown notices shows UK Biobank data (notebooks, genotype files, CSVs) repeatedly uploaded to public repos worldwide, with limited impact despite legal requests.*  
+
+### Using the internet like it’s 1999 – The Universe of Joshua Blais – Hacker News  
+*Blais advocates a return to protocol‑level tools (RSS, IRC/XMPP, personal search, archiving, encrypted email, POSSE publishing, Gopher/Gemini) to escape algorithmic feeds and regain agency over online attention.*  
+
+### The Classic American Diner – Picture This – HN RSS  
+*Curated Library of Congress photographs illustrate the evolution of the mid‑century diner, from streamliner‑style metal boxes to modern nostalgia‑laden revivals.*  
+
+### Why I’m Done Making Desktop Applications – Kalzumeus Software  
+*The author abandons Swing‑based desktop software after a web version of his product proved cheaper to acquire, higher‑converting, and far less support‑intensive, highlighting the inefficiency of the classic download‑trial‑purchase funnel.*  
 
 ---
 
-## Notable Mentions
-- Bitcoin price tops $78,000 on Trump cease‑fire extension, Strategy's $2.5 billion buy.
+## Cloud and Infrastructure  
+
+### Automating Incident Investigation with AWS DevOps Agent and Salesforce MCP Server – TLDR  
+*AWS’s DevOps Agent, triggered via Salesforce Flow, automatically gathers telemetry, builds topology graphs, and enriches support tickets, cutting mean‑time‑to‑resolution from hours to minutes for cloud‑native incidents.*  
+
+---
+
+## Science and Research  
+
+### Colossal octopuses once stalked the ancient oceans – NPR  
+*Fossils from Cretaceous Japan, reconstructed with AI‑assisted 3‑D imaging, reveal 60‑ft octopuses with massive beaks, suggesting complex predatory behavior and pushing cephalopod intelligence back 100 million years.*  
+
+---
+
+## World News and Geopolitics  
+
+### Anthropic’s Mythos rollout has missed America’s cybersecurity agency – The Verge  
+*CISA remains excluded from Anthropic’s Mythos preview, despite NSA and Commerce Department access, raising concerns about the nation’s defensive posture as the agency faces budget cuts and political marginalisation.*  
+
+---
+
+## Notable Mentions  
+- Bitcoin price tops $78,000 on Trump ceasefire extension, Strategy's $2.5 billion buy.   (TLDR)
