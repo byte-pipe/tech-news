@@ -1,89 +1,86 @@
 ---
-date: '2026-04-27'
+date: '2026-04-28'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-27T18:00:50.193460'
+generated_at: '2026-04-28T06:05:27.211531'
 ---
 
 ## Executive Summary
-- GitHub quickly rolled back an experimental popup for issue links after a wave of community backlash, underscoring the platform’s responsiveness to developer feedback.  
-- Artemis II set a new human‑distance‑from‑Earth record, while GnuPG 2.5.19 added post‑quantum Kyber support, marking notable advances in space exploration and cryptography.  
-- A surge of corrections in high‑profile Nature papers highlights the ongoing rigor of scientific publishing.  
-- In the startup arena, autonomous‑freight pioneer Humble raised $24 M to build a cabless EV truck, and a TLDR‑sponsored analysis of 100 B2B marketing teams revealed clear patterns in team size and tooling.  
-- Across tech culture, new content‑creation guides—from async programming evolution to podcast‑first strategies—show how creators are adapting to faster, AI‑augmented workflows.
+- Open‑source AI tools are gaining traction, highlighted by Dirac’s token‑efficient coding agent and GitHub’s shift to usage‑based billing for Copilot, both promising sizable cost savings for developers.  
+- Security concerns surged after a 4 TB leak of voice data from 40 000 AI contractors, exposing the growing risk of biometric weaponisation.  
+- Major business moves include Adyen’s €750 million acquisition of Talon.One to deepen real‑time commerce decisioning, while Amazon restructures its podcast ecosystem to fuse content with commerce.  
+- Health tech advances with Motif Neurotech’s FDA‑cleared brain‑implant trial for treatment‑resistant depression, and cultural‑political headlines see the Archbishop of Canterbury praising the Pope’s anti‑war stance.  
+- In the dev community, best‑practice guides on README composition, mistake‑sharing forums, and Google Cloud NEXT’s writing challenge underscore a continued focus on documentation, learning, and community engagement.
 
 ---
 
 ## AI and Machine Learning
 
-**GitHub Reverts Experimental Issue‑Link Popup After User Outcry** [Hacker News]  
-GitHub staff confirmed that an experimental popup for issue links—intended to speed cross‑repo navigation—was rolled back after strong community criticism, with many users demanding an opt‑out option.
+### Dirac – an open‑source, token‑efficient coding agent  
+[GitHub – dirac‑run/dirac]  
+Dirac delivers 50‑80 % lower API costs and 100 % task accuracy by curating context, using hash‑anchored edits and AST‑native manipulation, and now ships as a VS Code extension and CLI.
 
-**Folding Bike Advocate Highlights Cost‑Effective Commuting with Brompton** [Hacker News]  
-A personal blog post details how a £1,000 Brompton folding bike, financed via a workplace scheme, saves commuters time and money while offering superior portability and theft resistance.
+### “Stare at a wall” technique for focus  
+[hnrss – Alex Selimov]  
+The author reports that 5‑10 minute wall‑staring breaks reset the parasympathetic nervous system, restoring motivation and productivity without caffeine spikes.
 
-**Placeholder Error Page Shows Browser JavaScript Disabled Message** [HN RSS]  
-A generic error page informs users that JavaScript is disabled and advises enabling it; the article contains no substantive news content.
+### Brain‑implant trial for treatment‑resistant depression  
+[WIRED]  
+Motif Neurotech received FDA clearance to test a skull‑mounted, wirelessly powered BCI that delivers patterned stimulation to the central executive network in a 10‑day outpatient protocol.
 
-**GnuPG 2.5.19 Released, Adding Post‑Quantum Kyber Support** [HN RSS]  
-The new GnuPG version introduces Kyber (ML‑KEM) for post‑quantum encryption, improves Windows 64‑bit performance, and bundles a suite of bug fixes ahead of the 2.4 series’ end‑of‑life.
+### Amazon’s new podcast‑commerce model  
+[TechCrunch]  
+Amazon dismantled Wondery, moving audio under Audible while launching “Creator Services” that embed merch, video, and product recommendations directly into podcasts such as the Kelce brothers’ *New Heights*.
 
-**Artemis II Sets New Human Distance‑From‑Earth Record, Surpassing Apollo 13** [Ars Technica]  
-Artemis II’s free‑return trajectory carried the crew 252,756 mi from Earth, eclipsing Apollo 13’s 248,655 mi record; experts note future lunar missions are unlikely to exceed this distance without a deep‑space or Mars profile.
+### Archbishop of Canterbury lauds Pope’s anti‑war remarks  
+[newsfeed]  
+Dame Sarah Mullally praised Pope Leo III’s outspoken criticism of war and tyranny during his Vatican visit, signalling renewed ecumenical solidarity.
 
-**Nature Issues Correction to µ‑Opioid Superagonist Study, Fixing Axis Labels** [Nature]  
-The correction amends mislabeled time axes in Figures 3 and 5 and updates a textual description, leaving the study’s conclusions unchanged.
+### NPR “Up First” briefing roundup (Cole Allen, King Charles, geofencing, Musk‑Altman trial)  
+[NPR]  
+Key U.S. headlines: a White‑House Correspondents’ Dinner shooter (Cole Allen) faces federal charges; King Charles and Queen Camilla begin a state visit to Washington; the Supreme Court hears a Fourth‑Amendment geofencing case; and Elon Musk sues OpenAI CEO Sam Altman over the company’s shift to a for‑profit model.
 
-**Nature Corrects Maize Cold‑Resilience Study, Updating Genomic Coordinates** [Nature]  
-Revisions adjust several extended‑data figure coordinates and replace “in vitro” with “in vivo” assays, ensuring accurate representation of the E3‑ligase engineering results.
+### 4 TB of voice samples stolen from 40 000 AI contractors – **Trending**  
+[ORAVYS – hackernews_api]  
+Lapsus$ leaked a 4 TB archive containing clean voice recordings paired with government‑issued IDs, enabling high‑fidelity voice cloning for fraud, deep‑fake calls, and biometric bypasses; victims are urged to audit public audio, rotate voice‑print enrollments, and use forensic detectors.
 
-**Reddit Verification Prompt Lacks Article Content** [Reddit]  
-The requested Reddit post contains only a request for the missing article text; no substantive information is available for synthesis.
+### GitHub Copilot moves to usage‑based billing – **Trending**  
+[GitHub Blog – hackernews_api]  
+Effective 1 June 2026, Copilot replaces premium‑request‑units with AI Credits charged per token; base plan prices stay unchanged, while admins gain spend‑limit controls and pooled credit pools for organizations.
 
 ---
 
 ## Software Engineering and Dev Tools
 
-**Mahjong: a Visual Guide – Content Unavailable** [Hacker News] *(trending)*  
-The article body was not provided, so no summary can be generated beyond noting the missing content.
+### 15 essential sections for a solid README  
+[DEV Community]  
+A step‑by‑step template covering title, table of contents, about, features, tech stack, architecture, setup, contribution guide, license, and more helps projects become discoverable and invite collaboration.
 
-**Async Evolution: From Callbacks to Async/Await and the Emerging ‘Function‑Coloring Tax’** [Hacker News]  
-The piece traces the three waves of asynchronous programming—callbacks, promises/futures, and async/await—highlighting how each solved prior pain points while introducing new complexities such as “function‑coloring” overhead.
+### “Making mistakes” discussion on Vonage dev forum  
+[DEV Community]  
+Developers share common errors such as accidental secret leaks, emphasizing environment‑variable usage and guardrails to prevent credential exposure.
 
-**PlayCanvas Tutorial Turns Gaussian Splat into Fully Interactive Browser Game** [PlayCanvas Blog]  
-A step‑by‑step guide shows how to convert a photorealistic Gaussian splat into a playable FPS‑style web game by adding collision meshes, lighting probes, navmeshes, and version‑controlled Git workflows.
-
-**TechCrunch Lists Apps to Counter Doomscrolling Habits** [TechCrunch]  
-The article recommends seven distraction apps—Dudel Draw, Radio Garden, Elevate, Vocabulary, Seterra, NYT Games, and Drops—each designed to replace endless social‑media feeds with brief, purposeful activities.
-
-**TLDR Guide Outlines Podcast‑First Content Strategy for B2B Demand Generation** [TLDR]  
-The guide details how a recurring podcast can become the hub of a content flywheel, offering three formats, six production rules, and concrete repurposing workflows that turn audio into blogs, social clips, and newsletters.
+### Google Cloud NEXT ’26 Writing Challenge  
+[DEV Community]  
+The three‑day conference (22‑24 April) invites participants to publish hands‑on DEV posts about standout sessions, with cash prizes and badges for the best submissions.
 
 ---
 
 ## Open Source
 
-**Nature Corrects Yeast‑Salmonella Virulence Paper, Updating Data and Statistics** [Nature]  
-The correction fixes a mislabeled cage identifier, revises statistical test notation, updates p‑values, and adds missing data points, ensuring the study’s quantitative claims are accurately presented.
+### DSPi – full‑featured audio DSP firmware for Raspberry Pi Pico & Pico 2  
+[GitHub – WeebLabs/DSPi]  
+The firmware provides USB audio, multi‑channel I²S/S/PDIF, parametric EQ, volume levelling, cross‑feed, and a 10‑slot preset system, leveraging dual‑core DSP on the RP2350 for high‑throughput processing.
 
 ---
 
 ## Startups and Business
 
-**Humble Secures $24 M Seed to Develop Cabless Autonomous EV Truck** [TLDR]  
-Stealth‑mode startup Humble raised a $24 million seed round to build the “Humble Hauler,” a driver‑less electric freight vehicle that eliminates the cab for full sensor coverage and dock‑to‑dock container delivery.
-
-**Claude Code Analysis of 100 B2B Marketing Teams Reveals Team Size and Tool Trends** [TLDR]  
-An audit of 100 venture‑backed B2B firms shows marketing teams typically occupy ~8 % of headcount, with tool stacks centered on CRMs, automation, analytics, and AI‑assisted content creation; team structure varies markedly by GTM motion.
-
----
-
-## Science and Research
-
-**Julie Zhuo’s ‘I am an Idiot’ Essay Reflects on Self‑Critique in the Age of AI** [TLDR]  
-Zhuo explores personal feelings of inadequacy, cites historical “idiots” who embraced humility, and argues that accelerating AI may intensify the “idiot” sentiment, urging acceptance of human limits.
+### Adyen acquires Talon.One for €750 million  
+[tldr]  
+Adyen will buy the Berlin‑based loyalty platform, integrating Talon.One’s real‑time decision engine with its payments infrastructure to deliver unified, cross‑channel shopper identities and instant promotions.
 
 ---
 
 ## Notable Mentions
-- **Mahjong: a Visual Guide** – article text not supplied.  
-- **Reddit – Please wait for verification** – article text not supplied.
+- Agentic Engineering Management (tldr)  
+- “If your growth or marketing person can't build this in 2 days…” – a hard‑line hiring commentary (tldr)
