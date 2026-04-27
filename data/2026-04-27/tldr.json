@@ -20,16 +20,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "A Hundred Robots Are Running A Bio Lab (11 minute read)",
-    "url": "https://www.corememory.com/p/a-hundred-robots-are-running-a-bio-medra-michelle-lee",
-    "description": "A Hundred Robots Are Running A Bio Lab (11 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-27",
-    "site_name": "tldr"
-  },
-  {
     "title": "A Manager's Guide to Reducing AI Costs Without Reducing Headcount (14 minute read)",
     "url": "https://www.productcurious.com/p/uber-ai-budget-mistake",
     "description": "A Manager's Guide to Reducing AI Costs Without Reducing Headcount (14 minute read)",
@@ -360,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google Cloud and SAP unveil blueprint for the Agentic Enterprise (6 minute read)",
-    "url": "https://cloud.google.com/blog/topics/partners/sap-partnership-unified-data-foundation-zero-copy-sharing-agentic-business-engagement-cloud/",
-    "description": "Google Cloud and SAP unveil blueprint for the Agentic Enterprise (6 minute read)",
+    "title": "Google Pushes “Agentic Data Cloud” to Power Enterprise AI (4 minute read)",
+    "url": "https://www.cio.com/article/4162745/google-pitches-agentic-data-cloud-to-help-enterprises-turn-data-into-context-for-ai-agents-2.html",
+    "description": "Google Pushes “Agentic Data Cloud” to Power Enterprise AI (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -370,9 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google Pushes “Agentic Data Cloud” to Power Enterprise AI (4 minute read)",
-    "url": "https://www.cio.com/article/4162745/google-pitches-agentic-data-cloud-to-help-enterprises-turn-data-into-context-for-ai-agents-2.html",
-    "description": "Google Pushes “Agentic Data Cloud” to Power Enterprise AI (4 minute read)",
+    "title": "Grafana 13 release: get value from your data faster, manage operations at scale, and more! (9 minute read)",
+    "url": "https://grafana.com/blog/grafana-13-release-all-the-latest-features/",
+    "description": "Grafana 13 release: get value from your data faster, manage operations at scale, and more! (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -480,6 +470,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Instagram ‘Instants' app launches on Android, and it's basically Snapchat (2 minute read)",
+    "url": "https://9to5google.com/2026/04/23/instagram-instants-app-launches-on-android-and-its-basically-snapchat/",
+    "description": "Instagram ‘Instants' app launches on Android, and it's basically Snapchat (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Pyroscope 2.0: faster, more cost-effective continuous profiling at scale (5 minute read)",
+    "url": "https://grafana.com/blog/pyroscope-2-0-release/",
+    "description": "Introducing Pyroscope 2.0: faster, more cost-effective continuous profiling at scale (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-27",
+    "site_name": "tldr"
+  },
+  {
     "title": "Is Claude Code going to cost $100/month? Probably not—it's all very confusing (4 minute read)",
     "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
     "description": "Is Claude Code going to cost $100/month? Probably not—it's all very confusing (4 minute read)",
@@ -560,16 +570,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "ML Intern (GitHub Repo)",
-    "url": "https://github.com/huggingface/ml-intern/",
-    "description": "ML Intern (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-27",
-    "site_name": "tldr"
-  },
-  {
     "title": "Medical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals (3 minute read)",
     "url": "https://www.theregister.com/2026/04/23/500k_biobank_volunteers_data_listed/",
     "description": "Medical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals (3 minute read)",
@@ -630,6 +630,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "OlmoEarth Embeddings Export (8 minute read)",
+    "url": "https://allenai.org/blog/olmoearth-embeddings",
+    "description": "OlmoEarth Embeddings Export (8 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-27",
+    "site_name": "tldr"
+  },
+  {
     "title": "OpenAI announces GPT-5.5, its latest artificial intelligence model (3 minute read)",
     "url": "https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html",
     "description": "OpenAI announces GPT-5.5, its latest artificial intelligence model (3 minute read)",
@@ -643,16 +653,6 @@
     "title": "OpenSRE (GitHub Repo)",
     "url": "https://github.com/Tracer-Cloud/opensre",
     "description": "OpenSRE (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Package Manager Guard (GitHub Repo)",
-    "url": "https://github.com/safedep/pmg",
-    "description": "Package Manager Guard (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -713,16 +713,6 @@
     "title": "SpaceX Eyes Cursor in Surprise AI Coding Power Play (3 minute read)",
     "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
     "description": "SpaceX Eyes Cursor in Surprise AI Coding Power Play (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "SpaceX strikes $60B deal for AI coding startup Cursor (2 minute read)",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion",
-    "description": "SpaceX strikes $60B deal for AI coding startup Cursor (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -910,6 +900,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Visa and Mastercard fee settlement faces pushback from merchants (3 minute read)",
+    "url": "https://www.paymentsdive.com/news/how-the-visa-mastercard-card-fee-case-may-end/817852/",
+    "description": "Visa and Mastercard fee settlement faces pushback from merchants (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-27",
+    "site_name": "tldr"
+  },
+  {
     "title": "Vuln in Google's Antigravity AI agent manager could escape sandbox, give attackers remote code execution (2 minute read)",
     "url": "https://cyberscoop.com/google-antigravity-pillar-security-agent-sandbox-escape-remote-code-execution/",
     "description": "Vuln in Google's Antigravity AI agent manager could escape sandbox, give attackers remote code execution (2 minute read)",
@@ -993,6 +993,16 @@
     "title": "Your product has a new user. It's not human (6 minute read)",
     "url": "https://www.elenaverna.com/p/your-product-has-a-new-user-its-not",
     "description": "Your product has a new user. It's not human (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "dbt-score (GitHub Repo)",
+    "url": "https://github.com/PicnicSupermarket/dbt-score",
+    "description": "dbt-score (GitHub Repo)",
     "tags": [
       "tldr"
     ],

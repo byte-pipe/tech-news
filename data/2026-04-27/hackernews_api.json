@@ -1,28 +1,45 @@
 [
   {
-    "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-    "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-    "author": "stephen-hill",
-    "date": "2026-04-22",
-    "score": 592,
-    "comments": 90,
-    "id": 47863570,
-    "discussion_url": "https://news.ycombinator.com/item?id=47863570",
-    "description": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+    "title": "AI should elevate your thinking, not replace it",
+    "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+    "author": "koshyjohn",
+    "date": "2026-04-26",
+    "score": 573,
+    "comments": 424,
+    "id": 47913650,
+    "discussion_url": "https://news.ycombinator.com/item?id=47913650",
+    "description": "AI should elevate your thinking, not replace it",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.640108"
+    "fetched_at": "2026-04-27T12:20:13.483773"
+  },
+  {
+    "title": "Agentic AI systems violate the implicit assumptions of database design",
+    "url": "https://arpitbhayani.me/blogs/defensive-databases/",
+    "author": "mooreds",
+    "date": "2026-04-24",
+    "score": 104,
+    "comments": 100,
+    "id": 47897140,
+    "discussion_url": "https://news.ycombinator.com/item?id=47897140",
+    "description": "Agentic AI systems violate the implicit assumptions of database design",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483913"
   },
   {
     "title": "Amateur armed with ChatGPT solves an Erdős problem",
     "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
     "author": "pr337h4m",
-    "date": "2026-04-26",
-    "score": 683,
-    "comments": 473,
+    "date": "2026-04-25",
+    "score": 760,
+    "comments": 543,
     "id": 47903126,
     "discussion_url": "https://news.ycombinator.com/item?id=47903126",
     "description": "Amateur armed with ChatGPT solves an Erdős problem",
@@ -31,32 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639926"
-  },
-  {
-    "title": "America's Geothermal Breakthrough",
-    "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
-    "author": "sleepyguy",
-    "date": "2026-04-26",
-    "score": 151,
-    "comments": 160,
-    "id": 47903945,
-    "discussion_url": "https://news.ycombinator.com/item?id=47903945",
-    "description": "America's Geothermal Breakthrough",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639987"
+    "fetched_at": "2026-04-27T12:20:13.483916"
   },
   {
     "title": "An AI agent deleted our production database. The agent's confession is below",
     "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
     "author": "jeremyccrane",
-    "date": "2026-04-27",
-    "score": 142,
-    "comments": 185,
+    "date": "2026-04-26",
+    "score": 746,
+    "comments": 880,
     "id": 47911524,
     "discussion_url": "https://news.ycombinator.com/item?id=47911524",
     "description": "An AI agent deleted our production database. The agent's confession is below",
@@ -65,15 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639886"
+    "fetched_at": "2026-04-27T12:20:13.483830"
   },
   {
     "title": "Asahi Linux Progress Linux 7.0",
     "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
     "author": "elisaado",
     "date": "2026-04-26",
-    "score": 532,
-    "comments": 229,
+    "score": 629,
+    "comments": 320,
     "id": 47909226,
     "discussion_url": "https://news.ycombinator.com/item?id=47909226",
     "description": "Asahi Linux Progress Linux 7.0",
@@ -82,15 +82,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639786"
+    "fetched_at": "2026-04-27T12:20:13.483895"
+  },
+  {
+    "title": "Box to save memory in Rust",
+    "url": "https://dystroy.org/blog/box-to-save-memory/",
+    "author": "emschwartz",
+    "date": "2026-04-23",
+    "score": 147,
+    "comments": 41,
+    "id": 47878231,
+    "discussion_url": "https://news.ycombinator.com/item?id=47878231",
+    "description": "Box to save memory in Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483819"
+  },
+  {
+    "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+    "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+    "author": "1659447091",
+    "date": "2026-04-26",
+    "score": 220,
+    "comments": 71,
+    "id": 47914677,
+    "discussion_url": "https://news.ycombinator.com/item?id=47914677",
+    "description": "Butterflies are in decline across North America, a look at the Western Monarch",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483844"
+  },
+  {
+    "title": "Chernobyl wildlife forty years on",
+    "url": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
+    "author": "reconnecting",
+    "date": "2026-04-26",
+    "score": 124,
+    "comments": 75,
+    "id": 47913382,
+    "discussion_url": "https://news.ycombinator.com/item?id=47913382",
+    "description": "Chernobyl wildlife forty years on",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483861"
   },
   {
     "title": "Clay PCB Tutorial",
     "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
     "author": "j0r0b0",
-    "date": "2026-04-27",
-    "score": 139,
-    "comments": 91,
+    "date": "2026-04-26",
+    "score": 230,
+    "comments": 138,
     "id": 47911350,
     "discussion_url": "https://news.ycombinator.com/item?id=47911350",
     "description": "Clay PCB Tutorial",
@@ -99,151 +150,151 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639837"
+    "fetched_at": "2026-04-27T12:20:13.483865"
   },
   {
-    "title": "DeepSeek v4",
-    "url": "https://api-docs.deepseek.com/news/news260424",
-    "author": "impact_sy",
+    "title": "Dear friend, you have built a Kubernetes (2024)",
+    "url": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
+    "author": "Wingy",
     "date": "2026-04-24",
-    "score": 2055,
-    "comments": 1576,
-    "id": 47884971,
-    "discussion_url": "https://news.ycombinator.com/item?id=47884971",
-    "description": "DeepSeek v4",
+    "score": 115,
+    "comments": 146,
+    "id": 47885012,
+    "discussion_url": "https://news.ycombinator.com/item?id=47885012",
+    "description": "Dear friend, you have built a Kubernetes (2024)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.640137"
+    "fetched_at": "2026-04-27T12:20:13.483851"
   },
   {
-    "title": "Discret 11, the French TV encryption of the 80s (2020)",
-    "url": "https://fabiensanglard.net/discret11/",
-    "author": "adunk",
-    "date": "2026-04-25",
-    "score": 168,
-    "comments": 32,
-    "id": 47900478,
-    "discussion_url": "https://news.ycombinator.com/item?id=47900478",
-    "description": "Discret 11, the French TV encryption of the 80s (2020)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.640124"
-  },
-  {
-    "title": "EU Age Control: The trojan horse for digital IDs",
-    "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
-    "author": "gasull",
+    "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+    "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+    "author": "dd23",
     "date": "2026-04-26",
-    "score": 317,
-    "comments": 171,
-    "id": 47907130,
-    "discussion_url": "https://news.ycombinator.com/item?id=47907130",
-    "description": "EU Age Control: The trojan horse for digital IDs",
+    "score": 279,
+    "comments": 56,
+    "id": 47913855,
+    "discussion_url": "https://news.ycombinator.com/item?id=47913855",
+    "description": "Fast16: High-precision software sabotage 5 years before Stuxnet",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.640014"
+    "fetched_at": "2026-04-27T12:20:13.483725"
   },
   {
-    "title": "Flickr: The first and last great photo platform",
-    "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
-    "author": "Nrbelex",
+    "title": "Flipdiscs",
+    "url": "https://flipdisc.io",
+    "author": "skogstokig",
     "date": "2026-04-23",
-    "score": 264,
-    "comments": 144,
-    "id": 47867473,
-    "discussion_url": "https://news.ycombinator.com/item?id=47867473",
-    "description": "Flickr: The first and last great photo platform",
+    "score": 349,
+    "comments": 60,
+    "id": 47875795,
+    "discussion_url": "https://news.ycombinator.com/item?id=47875795",
+    "description": "Flipdiscs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639772"
+    "fetched_at": "2026-04-27T12:20:13.483761"
   },
   {
-    "title": "GPT‑5.5 Bio Bug Bounty",
-    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-    "author": "Murfalo",
+    "title": "FreeBSD Device Drivers Book",
+    "url": "https://github.com/ebrandi/FDD-book",
+    "author": "myth_drannon",
     "date": "2026-04-26",
-    "score": 152,
-    "comments": 103,
-    "id": 47901734,
-    "discussion_url": "https://news.ycombinator.com/item?id=47901734",
-    "description": "GPT‑5.5 Bio Bug Bounty",
+    "score": 101,
+    "comments": 20,
+    "id": 47915632,
+    "discussion_url": "https://news.ycombinator.com/item?id=47915632",
+    "description": "FreeBSD Device Drivers Book",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.640194"
+    "fetched_at": "2026-04-27T12:20:13.483802"
   },
   {
-    "title": "GitHub unwanted UX change: issue links now open in a popup",
-    "url": "https://github.com/orgs/community/discussions/192666",
-    "author": "luckman212",
-    "date": "2026-04-27",
-    "score": 187,
-    "comments": 96,
-    "id": 47910546,
-    "discussion_url": "https://news.ycombinator.com/item?id=47910546",
-    "description": "GitHub unwanted UX change: issue links now open in a popup",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639893"
-  },
-  {
-    "title": "GnuPG – post-quantum crypto landing in mainline",
-    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-    "author": "zdkaster",
-    "date": "2026-04-26",
-    "score": 149,
-    "comments": 44,
-    "id": 47907018,
-    "discussion_url": "https://news.ycombinator.com/item?id=47907018",
-    "description": "GnuPG – post-quantum crypto landing in mainline",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639746"
-  },
-  {
-    "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
+    "title": "GoDaddy gave a domain to a stranger without any documentation",
     "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
     "author": "jamesponddotco",
-    "date": "2026-04-27",
-    "score": 278,
-    "comments": 94,
+    "date": "2026-04-26",
+    "score": 619,
+    "comments": 236,
     "id": 47911780,
     "discussion_url": "https://news.ycombinator.com/item?id=47911780",
-    "description": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
+    "description": "GoDaddy gave a domain to a stranger without any documentation",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639729"
+    "fetched_at": "2026-04-27T12:20:13.483888"
+  },
+  {
+    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+    "author": "ca98am79",
+    "date": "2026-04-26",
+    "score": 886,
+    "comments": 452,
+    "id": 47914165,
+    "discussion_url": "https://news.ycombinator.com/item?id=47914165",
+    "description": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483730"
+  },
+  {
+    "title": "It's OK to abandon your side-project (2024)",
+    "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+    "author": "hisamafahri",
+    "date": "2026-04-27",
+    "score": 109,
+    "comments": 52,
+    "id": 47918961,
+    "discussion_url": "https://news.ycombinator.com/item?id=47918961",
+    "description": "It's OK to abandon your side-project (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483784"
+  },
+  {
+    "title": "Magic: The Gathering took me from N2 to Japanese fluency",
+    "url": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
+    "author": "pwim",
+    "date": "2026-04-24",
+    "score": 148,
+    "comments": 66,
+    "id": 47883839,
+    "discussion_url": "https://news.ycombinator.com/item?id=47883839",
+    "description": "Magic: The Gathering took me from N2 to Japanese fluency",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483837"
   },
   {
     "title": "Mahjong: A Visual Guide",
     "url": "https://themahjong.guide/",
     "author": "iamwil",
     "date": "2026-04-24",
-    "score": 188,
-    "comments": 52,
+    "score": 229,
+    "comments": 62,
     "id": 47885239,
     "discussion_url": "https://news.ycombinator.com/item?id=47885239",
     "description": "Mahjong: A Visual Guide",
@@ -252,66 +303,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639802"
+    "fetched_at": "2026-04-27T12:20:13.483933"
   },
   {
-    "title": "Math Is Hard – OpenBSD Stories",
-    "url": "http://miod.online.fr/software/openbsd/stories/vaxfp.html",
-    "author": "signa11",
-    "date": "2026-04-24",
-    "score": 142,
-    "comments": 20,
-    "id": 47876930,
-    "discussion_url": "https://news.ycombinator.com/item?id=47876930",
-    "description": "Math Is Hard – OpenBSD Stories",
+    "title": "Pgbackrest is no longer being maintained",
+    "url": "https://github.com/pgbackrest/pgbackrest",
+    "author": "c0l0",
+    "date": "2026-04-27",
+    "score": 111,
+    "comments": 43,
+    "id": 47919997,
+    "discussion_url": "https://news.ycombinator.com/item?id=47919997",
+    "description": "Pgbackrest is no longer being maintained",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639994"
+    "fetched_at": "2026-04-27T12:20:13.483714"
   },
   {
-    "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-    "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-    "author": "calcifer",
+    "title": "Quirks of Human Anatomy",
+    "url": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
+    "author": "gurjeet",
     "date": "2026-04-25",
-    "score": 593,
-    "comments": 360,
-    "id": 47899053,
-    "discussion_url": "https://news.ycombinator.com/item?id=47899053",
-    "description": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+    "score": 142,
+    "comments": 82,
+    "id": 47898660,
+    "discussion_url": "https://news.ycombinator.com/item?id=47898660",
+    "description": "Quirks of Human Anatomy",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.640143"
+    "fetched_at": "2026-04-27T12:20:13.483809"
   },
   {
-    "title": "OpenAI Privacy Filter",
-    "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-    "author": "tanelpoder",
-    "date": "2026-04-23",
-    "score": 282,
-    "comments": 59,
-    "id": 47870901,
-    "discussion_url": "https://news.ycombinator.com/item?id=47870901",
-    "description": "OpenAI Privacy Filter",
+    "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "author": "kmdupree",
+    "date": "2026-04-26",
+    "score": 322,
+    "comments": 170,
+    "id": 47910388,
+    "discussion_url": "https://news.ycombinator.com/item?id=47910388",
+    "description": "SWE-bench Verified no longer measures frontier coding capabilities",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639811"
+    "fetched_at": "2026-04-27T12:20:13.483788"
+  },
+  {
+    "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+    "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+    "author": "berkeleyjunk",
+    "date": "2026-04-26",
+    "score": 429,
+    "comments": 277,
+    "id": 47914350,
+    "discussion_url": "https://news.ycombinator.com/item?id=47914350",
+    "description": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483816"
+  },
+  {
+    "title": "Self-updating screenshots",
+    "url": "https://interblah.net/self-updating-screenshots",
+    "author": "bjhess",
+    "date": "2026-04-26",
+    "score": 347,
+    "comments": 53,
+    "id": 47908051,
+    "discussion_url": "https://news.ycombinator.com/item?id=47908051",
+    "description": "Self-updating screenshots",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483746"
+  },
+  {
+    "title": "Show HN: Free textbook on engineering thermodynamics",
+    "url": "https://thermodynamicsbook.com/",
+    "author": "2DcAf",
+    "date": "2026-04-26",
+    "score": 156,
+    "comments": 41,
+    "id": 47911013,
+    "discussion_url": "https://news.ycombinator.com/item?id=47911013",
+    "description": "Show HN: Free textbook on engineering thermodynamics",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483847"
   },
   {
     "title": "Show HN: Turning a Gaussian Splat into a videogame",
     "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
     "author": "yak32",
-    "date": "2026-04-24",
-    "score": 159,
-    "comments": 32,
+    "date": "2026-04-23",
+    "score": 220,
+    "comments": 54,
     "id": 47876071,
     "discussion_url": "https://news.ycombinator.com/item?id=47876071",
     "description": "Show HN: Turning a Gaussian Splat into a videogame",
@@ -320,193 +422,91 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639917"
+    "fetched_at": "2026-04-27T12:20:13.483855"
   },
   {
-    "title": "Simulacrum of Knowledge Work",
-    "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
-    "author": "thehappyfellow",
+    "title": "The Prompt API",
+    "url": "https://developer.chrome.com/docs/ai/prompt-api",
+    "author": "gslin",
+    "date": "2026-04-27",
+    "score": 165,
+    "comments": 89,
+    "id": 47917026,
+    "discussion_url": "https://news.ycombinator.com/item?id=47917026",
+    "description": "The Prompt API",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483769"
+  },
+  {
+    "title": "The Visible Zorker: Zork 1",
+    "url": "https://eblong.com/infocom/visi/zork1/",
+    "author": "PLenz",
     "date": "2026-04-26",
-    "score": 181,
-    "comments": 77,
-    "id": 47902987,
-    "discussion_url": "https://news.ycombinator.com/item?id=47902987",
-    "description": "Simulacrum of Knowledge Work",
+    "score": 136,
+    "comments": 30,
+    "id": 47911644,
+    "discussion_url": "https://news.ycombinator.com/item?id=47911644",
+    "description": "The Visible Zorker: Zork 1",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.640030"
+    "fetched_at": "2026-04-27T12:20:13.483868"
   },
   {
-    "title": "Statecharts: hierarchical state machines",
-    "url": "https://statecharts.dev/",
-    "author": "sph",
+    "title": "Three constraints before I build anything",
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "author": "nervous_north",
+    "date": "2026-04-25",
+    "score": 245,
+    "comments": 42,
+    "id": 47903541,
+    "discussion_url": "https://news.ycombinator.com/item?id=47903541",
+    "description": "Three constraints before I build anything",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483777"
+  },
+  {
+    "title": "TurboQuant: A first-principles walkthrough",
+    "url": "https://arkaung.github.io/interactive-turboquant/",
+    "author": "kweezar",
+    "date": "2026-04-27",
+    "score": 199,
+    "comments": 42,
+    "id": 47916890,
+    "discussion_url": "https://news.ycombinator.com/item?id=47916890",
+    "description": "TurboQuant: A first-principles walkthrough",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-27T12:20:13.483765"
+  },
+  {
+    "title": "When the cheap one is the cool one",
+    "url": "https://arun.is/blog/cheap-cool/",
+    "author": "ddrmaxgt37",
     "date": "2026-04-26",
-    "score": 249,
-    "comments": 72,
-    "id": 47908833,
-    "discussion_url": "https://news.ycombinator.com/item?id=47908833",
-    "description": "Statecharts: hierarchical state machines",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639844"
-  },
-  {
-    "title": "The Free Universal Construction Kit",
-    "url": "https://fffff.at/free-universal-construction-kit/",
-    "author": "robinhouston",
-    "date": "2026-04-22",
-    "score": 363,
-    "comments": 83,
-    "id": 47860198,
-    "discussion_url": "https://news.ycombinator.com/item?id=47860198",
-    "description": "The Free Universal Construction Kit",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639864"
-  },
-  {
-    "title": "The Joy of Folding Bikes",
-    "url": "https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes",
-    "author": "pavel_lishin",
-    "date": "2026-04-23",
-    "score": 242,
-    "comments": 167,
-    "id": 47866127,
-    "discussion_url": "https://news.ycombinator.com/item?id=47866127",
-    "description": "The Joy of Folding Bikes",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639981"
-  },
-  {
-    "title": "The Super Nintendo Cartridges (2024)",
-    "url": "https://fabiensanglard.net/snes_carts/",
-    "author": "offbyone42",
-    "date": "2026-04-26",
-    "score": 152,
-    "comments": 21,
-    "id": 47906161,
-    "discussion_url": "https://news.ycombinator.com/item?id=47906161",
-    "description": "The Super Nintendo Cartridges (2024)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639955"
-  },
-  {
-    "title": "The West forgot how to make things, now it’s forgetting how to code",
-    "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-    "author": "milkglass",
-    "date": "2026-04-26",
-    "score": 1007,
-    "comments": 685,
-    "id": 47907879,
-    "discussion_url": "https://news.ycombinator.com/item?id=47907879",
-    "description": "The West forgot how to make things, now it’s forgetting how to code",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639756"
-  },
-  {
-    "title": "USB Cheat Sheet (2022)",
-    "url": "https://fabiensanglard.net/usbcheat/index.html",
-    "author": "gwerbret",
-    "date": "2026-04-26",
-    "score": 459,
+    "score": 144,
     "comments": 80,
-    "id": 47904876,
-    "discussion_url": "https://news.ycombinator.com/item?id=47904876",
-    "description": "USB Cheat Sheet (2022)",
+    "id": 47906420,
+    "discussion_url": "https://news.ycombinator.com/item?id=47906420",
+    "description": "When the cheap one is the cool one",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639941"
-  },
-  {
-    "title": "Using coding assistance tools to revive projects you never were going to finish",
-    "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-    "author": "speckx",
-    "date": "2026-04-26",
-    "score": 334,
-    "comments": 214,
-    "id": 47902525,
-    "discussion_url": "https://news.ycombinator.com/item?id=47902525",
-    "description": "Using coding assistance tools to revive projects you never were going to finish",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639909"
-  },
-  {
-    "title": "What async promised and what it delivered",
-    "url": "https://causality.blog/essays/what-async-promised/",
-    "author": "zdw",
-    "date": "2026-04-22",
-    "score": 233,
-    "comments": 268,
-    "id": 47859442,
-    "discussion_url": "https://news.ycombinator.com/item?id=47859442",
-    "description": "What async promised and what it delivered",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.640058"
-  },
-  {
-    "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
-    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-    "author": "kmdupree",
-    "date": "2026-04-26",
-    "score": 172,
-    "comments": 113,
-    "id": 47910388,
-    "discussion_url": "https://news.ycombinator.com/item?id=47910388",
-    "description": "Why SWE-bench Verified no longer measures frontier coding capabilities",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639850"
-  },
-  {
-    "title": "Why has there been so little progress on Alzheimer's disease?",
-    "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-    "author": "chiefalchemist",
-    "date": "2026-04-26",
-    "score": 375,
-    "comments": 253,
-    "id": 47905984,
-    "discussion_url": "https://news.ycombinator.com/item?id=47905984",
-    "description": "Why has there been so little progress on Alzheimer's disease?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-27T06:00:14.639948"
+    "fetched_at": "2026-04-27T12:20:13.483841"
   }
 ]
