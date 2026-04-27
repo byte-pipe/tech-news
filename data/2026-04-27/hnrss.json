@@ -1,287 +1,257 @@
 [
   {
-    "title": "Amateur armed with ChatGPT solves an Erdős problem",
-    "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-    "description": "Amateur armed with ChatGPT solves an Erdős problem",
-    "date": "2026-04-25",
-    "score": 683,
-    "comments": 473,
-    "discussion_url": "https://news.ycombinator.com/item?id=47903126",
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "url": "https://app.oravys.com/blog/mercor-breach-2026",
+    "description": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "date": "2026-04-27",
+    "score": 350,
+    "comments": 130,
+    "discussion_url": "https://news.ycombinator.com/item?id=47919630",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652589"
+    "fetched_at": "2026-04-27T20:08:18.125539"
   },
   {
-    "title": "An AI agent deleted our production database. The agent's confession is below",
-    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-    "description": "An AI agent deleted our production database. The agent's confession is below",
-    "date": "2026-04-26",
-    "score": 142,
-    "comments": 185,
-    "discussion_url": "https://news.ycombinator.com/item?id=47911524",
+    "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+    "description": "FDA approves first gene therapy for treatment of genetic hearing loss",
+    "date": "2026-04-27",
+    "score": 166,
+    "comments": 68,
+    "discussion_url": "https://news.ycombinator.com/item?id=47919733",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652451"
+    "fetched_at": "2026-04-27T20:08:18.125528"
   },
   {
-    "title": "Asahi Linux Progress Linux 7.0",
-    "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-    "description": "Asahi Linux Progress Linux 7.0",
-    "date": "2026-04-26",
-    "score": 532,
-    "comments": 229,
-    "discussion_url": "https://news.ycombinator.com/item?id=47909226",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652505"
-  },
-  {
-    "title": "Clay PCB Tutorial",
-    "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-    "description": "Clay PCB Tutorial",
-    "date": "2026-04-26",
-    "score": 139,
-    "comments": 91,
-    "discussion_url": "https://news.ycombinator.com/item?id=47911350",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652467"
-  },
-  {
-    "title": "Flickr: The first and last great photo platform",
-    "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
-    "description": "Flickr: The first and last great photo platform",
-    "date": "2026-04-22",
-    "score": 264,
-    "comments": 144,
-    "discussion_url": "https://news.ycombinator.com/item?id=47867473",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652644"
-  },
-  {
-    "title": "GitHub unwanted UX change: issue links now open in a popup",
-    "url": "https://github.com/orgs/community/discussions/192666",
-    "description": "GitHub unwanted UX change: issue links now open in a popup",
-    "date": "2026-04-26",
-    "score": 187,
-    "comments": 96,
-    "discussion_url": "https://news.ycombinator.com/item?id=47910546",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652479"
-  },
-  {
-    "title": "GnuPG – post-quantum crypto landing in mainline",
-    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-    "description": "GnuPG – post-quantum crypto landing in mainline",
-    "date": "2026-04-26",
-    "score": 149,
-    "comments": 44,
-    "discussion_url": "https://news.ycombinator.com/item?id=47907018",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652542"
-  },
-  {
-    "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
-    "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-    "description": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
-    "date": "2026-04-26",
-    "score": 278,
-    "comments": 94,
-    "discussion_url": "https://news.ycombinator.com/item?id=47911780",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652425"
-  },
-  {
-    "title": "Mahjong: A Visual Guide",
-    "url": "https://themahjong.guide/",
-    "description": "Mahjong: A Visual Guide",
-    "date": "2026-04-24",
-    "score": 188,
-    "comments": 52,
-    "discussion_url": "https://news.ycombinator.com/item?id=47885239",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652611"
-  },
-  {
-    "title": "OpenAI Privacy Filter",
-    "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-    "description": "OpenAI Privacy Filter",
+    "title": "Flipdiscs",
+    "url": "https://flipdisc.io",
+    "description": "Flipdiscs",
     "date": "2026-04-23",
-    "score": 282,
-    "comments": 59,
-    "discussion_url": "https://news.ycombinator.com/item?id=47870901",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652634"
-  },
-  {
-    "title": "Show HN: Turning a Gaussian Splat into a videogame",
-    "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
-    "description": "Show HN: Turning a Gaussian Splat into a videogame",
-    "date": "2026-04-23",
-    "score": 159,
-    "comments": 32,
-    "discussion_url": "https://news.ycombinator.com/item?id=47876071",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652622"
-  },
-  {
-    "title": "Statecharts: hierarchical state machines",
-    "url": "https://statecharts.dev/",
-    "description": "Statecharts: hierarchical state machines",
-    "date": "2026-04-26",
-    "score": 249,
-    "comments": 72,
-    "discussion_url": "https://news.ycombinator.com/item?id=47908833",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652518"
-  },
-  {
-    "title": "Tell HN: An app is silently installing itself on my iPhone every day",
-    "url": "https://news.ycombinator.com/item?id=47906253",
-    "description": "Tell HN: An app is silently installing itself on my iPhone every day",
-    "date": "2026-04-26",
-    "score": 473,
-    "comments": 171,
-    "discussion_url": "https://news.ycombinator.com/item?id=47906253",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652554"
-  },
-  {
-    "title": "The Free Universal Construction Kit",
-    "url": "https://fffff.at/free-universal-construction-kit/",
-    "description": "The Free Universal Construction Kit",
-    "date": "2026-04-22",
-    "score": 363,
+    "score": 505,
     "comments": 83,
-    "discussion_url": "https://news.ycombinator.com/item?id=47860198",
+    "discussion_url": "https://news.ycombinator.com/item?id=47875795",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652655"
+    "fetched_at": "2026-04-27T20:08:18.125570"
   },
   {
-    "title": "The West forgot how to make things, now it’s forgetting how to code",
-    "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-    "description": "The West forgot how to make things, now it’s forgetting how to code",
-    "date": "2026-04-26",
-    "score": 1007,
-    "comments": 685,
-    "discussion_url": "https://news.ycombinator.com/item?id=47907879",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652530"
-  },
-  {
-    "title": "USB Cheat Sheet (2022)",
-    "url": "https://fabiensanglard.net/usbcheat/index.html",
-    "description": "USB Cheat Sheet (2022)",
+    "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+    "url": "https://github.com/WeebLabs/DSPi",
+    "description": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
     "date": "2026-04-25",
-    "score": 459,
-    "comments": 80,
-    "discussion_url": "https://news.ycombinator.com/item?id=47904876",
+    "score": 217,
+    "comments": 57,
+    "discussion_url": "https://news.ycombinator.com/item?id=47901433",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652578"
+    "fetched_at": "2026-04-27T20:08:18.125560"
   },
   {
-    "title": "Using coding assistance tools to revive projects you never were going to finish",
-    "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-    "description": "Using coding assistance tools to revive projects you never were going to finish",
-    "date": "2026-04-25",
-    "score": 334,
-    "comments": 214,
-    "discussion_url": "https://news.ycombinator.com/item?id=47902525",
+    "title": "GitHub Copilot is moving to usage-based billing",
+    "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+    "description": "GitHub Copilot is moving to usage-based billing",
+    "date": "2026-04-27",
+    "score": 370,
+    "comments": 293,
+    "discussion_url": "https://news.ycombinator.com/item?id=47923357",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652601"
+    "fetched_at": "2026-04-27T20:08:18.125332"
   },
   {
-    "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
-    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-    "description": "Why SWE-bench Verified no longer measures frontier coding capabilities",
-    "date": "2026-04-26",
-    "score": 172,
+    "title": "GitHub is having issues now",
+    "url": "https://www.githubstatus.com",
+    "description": "GitHub is having issues now",
+    "date": "2026-04-27",
+    "score": 215,
+    "comments": 75,
+    "discussion_url": "https://news.ycombinator.com/item?id=47924775",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-27T20:08:18.125320"
+  },
+  {
+    "title": "Men who stare at walls",
+    "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+    "description": "Men who stare at walls",
+    "date": "2026-04-27",
+    "score": 314,
+    "comments": 160,
+    "discussion_url": "https://news.ycombinator.com/item?id=47920074",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-27T20:08:18.125503"
+  },
+  {
+    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "description": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "date": "2026-04-27",
+    "score": 553,
+    "comments": 484,
+    "discussion_url": "https://news.ycombinator.com/item?id=47921248",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-27T20:08:18.125401"
+  },
+  {
+    "title": "Networking changes coming in macOS 27",
+    "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+    "description": "Networking changes coming in macOS 27",
+    "date": "2026-04-27",
+    "score": 138,
     "comments": 113,
-    "discussion_url": "https://news.ycombinator.com/item?id=47910388",
+    "discussion_url": "https://news.ycombinator.com/item?id=47923010",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652492"
+    "fetched_at": "2026-04-27T20:08:18.125344"
   },
   {
-    "title": "Why has there been so little progress on Alzheimer's disease?",
-    "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-    "description": "Why has there been so little progress on Alzheimer's disease?",
-    "date": "2026-04-26",
-    "score": 375,
-    "comments": 253,
-    "discussion_url": "https://news.ycombinator.com/item?id=47905984",
+    "title": "Pgbackrest is no longer being maintained",
+    "url": "https://github.com/pgbackrest/pgbackrest",
+    "description": "Pgbackrest is no longer being maintained",
+    "date": "2026-04-27",
+    "score": 363,
+    "comments": 190,
+    "discussion_url": "https://news.ycombinator.com/item?id=47919997",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-04-27T06:00:33.652566"
+    "fetched_at": "2026-04-27T20:08:18.125516"
+  },
+  {
+    "title": "Quarkdown – Markdown with Superpowers",
+    "url": "https://quarkdown.com/",
+    "description": "Quarkdown – Markdown with Superpowers",
+    "date": "2026-04-27",
+    "score": 200,
+    "comments": 52,
+    "discussion_url": "https://news.ycombinator.com/item?id=47919240",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-27T20:08:18.125549"
+  },
+  {
+    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+    "url": "https://github.com/dirac-run/dirac",
+    "description": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+    "date": "2026-04-27",
+    "score": 256,
+    "comments": 96,
+    "discussion_url": "https://news.ycombinator.com/item?id=47920787",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-27T20:08:18.125486"
+  },
+  {
+    "title": "Super ZSNES – GPU Powered SNES Emulator",
+    "url": "https://zsnes.com/",
+    "description": "Super ZSNES – GPU Powered SNES Emulator",
+    "date": "2026-04-27",
+    "score": 101,
+    "comments": 21,
+    "discussion_url": "https://news.ycombinator.com/item?id=47924877",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-27T20:08:18.125306"
+  },
+  {
+    "title": "The woes of sanitizing SVGs",
+    "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
+    "description": "The woes of sanitizing SVGs",
+    "date": "2026-04-27",
+    "score": 121,
+    "comments": 49,
+    "discussion_url": "https://news.ycombinator.com/item?id=47922957",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-27T20:08:18.125356"
+  },
+  {
+    "title": "US Supreme Court reviews police use of cell location data",
+    "url": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
+    "description": "US Supreme Court reviews police use of cell location data",
+    "date": "2026-04-27",
+    "score": 147,
+    "comments": 105,
+    "discussion_url": "https://news.ycombinator.com/item?id=47922940",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-27T20:08:18.125368"
+  },
+  {
+    "title": "United Wizards of the Coast",
+    "url": "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa",
+    "description": "United Wizards of the Coast",
+    "date": "2026-04-27",
+    "score": 130,
+    "comments": 82,
+    "discussion_url": "https://news.ycombinator.com/item?id=47925425",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-27T20:08:18.125283"
+  },
+  {
+    "title": "“Why not just use Lean?”",
+    "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+    "description": "“Why not just use Lean?”",
+    "date": "2026-04-27",
+    "score": 202,
+    "comments": 118,
+    "discussion_url": "https://news.ycombinator.com/item?id=47922079",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-04-27T20:08:18.125388"
   }
 ]
