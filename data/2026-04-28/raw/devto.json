@@ -5,8 +5,8 @@
     "date": "2026-04-26",
     "description": "Ready-to-use markdown templateGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowApr 2615 Essential Sections Every README Needs: Give Your Project Wha...",
     "tags": "#documentation, #opensource, #tutorial, #development",
-    "reactions": "50 reactions",
-    "comments": "Comments 39 comments",
+    "reactions": "66 reactions",
+    "comments": "Comments 52 comments",
     "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"
   },
   {
@@ -30,26 +30,6 @@
     "url": "https://dev.to/om_shree_0709/anthropics-most-dangerous-model-just-got-accessed-by-people-who-werent-supposed-to-have-it-14dn"
   },
   {
-    "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-    "author": "Emin Salih Açıkgöz",
-    "date": "2026-04-21",
-    "description": "Emin Salih AçıkgözEmin Salih AçıkgözEmin Salih AçıkgözFollowApr 21Atomic Scaffolding: How scbake Prevents Configuration Mishaps#go#devops#opensource#t...",
-    "tags": "#go, #devops, #opensource, #tools",
-    "reactions": "43 reactions",
-    "comments": "Comments 7 comments",
-    "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo"
-  },
-  {
-    "title": "Build your own blog post view counter on AWS Free Tier",
-    "author": "Esin Saribudak",
-    "date": "2026-04-21",
-    "description": "Focuses on CORS and referer securityEsin SaribudakEsin SaribudakEsin SaribudakFollowforAWSApr 21Build your own blog post view counter on AWS Free Tier...",
-    "tags": "#beginners, #lambda, #dynamodb, #tutorial",
-    "reactions": "58 reactions",
-    "comments": "Comments 9 comments",
-    "url": "https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f"
-  },
-  {
     "title": "Congrats to the April Fools Challenge Winners!!",
     "author": "Jess Lee",
     "date": "2026-04-23",
@@ -65,7 +45,7 @@
     "date": "2026-04-23",
     "description": "Scaffolding as the core productMatty StrattonMatty StrattonMatty StrattonFollowApr 23How My Coworker Who Didn't Know 'cd' Shipped to Production#webdev...",
     "tags": "#webdev, #ai, #devops, #productivity",
-    "reactions": "29 reactions",
+    "reactions": "30 reactions",
     "comments": "Comments 14 comments",
     "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j"
   },
@@ -73,10 +53,10 @@
     "title": "I Used to Love Coding. Now I Just Prompt.",
     "author": "Harsh",
     "date": "2026-04-24",
-    "description": "The trade-off between productivity and craftHarshHarshHarshFollowApr 24I Used to Love Coding. Now I Just Prompt.#discuss#ai#career#productivity80react...",
+    "description": "The trade-off between productivity and craftHarshHarshHarshFollowApr 24I Used to Love Coding. Now I Just Prompt.#discuss#ai#career#productivity89react...",
     "tags": "#discuss, #ai, #career, #productivity",
-    "reactions": "80 reactions",
-    "comments": "Comments 65 comments",
+    "reactions": "89 reactions",
+    "comments": "Comments 68 comments",
     "url": "https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l"
   },
   {
@@ -95,7 +75,7 @@
     "date": "2026-04-24",
     "description": "Google Cloud NEXT '26 Challenge SubmissionJoske VermeulenJoske VermeulenJoske VermeulenFollowApr 24I'm Running Gemini as an Autonomous Coding Agent. H...",
     "tags": "#devchallenge, #cloudnextchallenge, #googlecloud",
-    "reactions": "16 reactions",
+    "reactions": "17 reactions",
     "comments": "Comments 11 comments",
     "url": "https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2"
   },
@@ -105,9 +85,19 @@
     "date": "2026-04-22",
     "description": "AI favoring stabilization over innovationSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowApr 22If AI Existed in 2011, Would We Still Have the Mo...",
     "tags": "#discuss, #ai, #webdev, #programming",
-    "reactions": "194 reactions",
+    "reactions": "196 reactions",
     "comments": "Comments 139 comments",
     "url": "https://dev.to/sylwia-lask/if-ai-existed-in-2011-would-we-still-have-the-modern-web-408g"
+  },
+  {
+    "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+    "author": "Jess Lee",
+    "date": "2026-04-26",
+    "description": "Jess LeeJess LeeJess LeeFollowforThe DEV TeamApr 26Officially Introducing: The Google AI and Google Cloud Run Badges#cloudnextchallenge#devchallenge#g...",
+    "tags": "#cloudnextchallenge, #devchallenge, #googlecloud, #gemini",
+    "reactions": "27 reactions",
+    "comments": "Comments 2 comments",
+    "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9"
   },
   {
     "title": "So, what am I doing after 22 years in tech?",
@@ -125,8 +115,8 @@
     "date": "2026-04-26",
     "description": "Easier debugging with cognitive pipelinesmarcosommamarcosommamarcosommaFollowApr 26The Real Token Economy Is Not About Spending Less. It Is About Thin...",
     "tags": "#ai, #agents, #programming, #productivity",
-    "reactions": "20 reactions",
-    "comments": "Comments 7 comments",
+    "reactions": "24 reactions",
+    "comments": "Comments 8 comments",
     "url": "https://dev.to/marcosomma/the-real-token-economy-is-not-about-spending-less-it-is-about-thinking-smaller-3j3e"
   },
   {
@@ -136,7 +126,7 @@
     "description": "Tales of secret leaks and database mishapsLiz AcostaLiz AcostaLiz AcostaFollowforVonage DevelopersApr 24The Vonage Dev Discussion: Making mistakes#dis...",
     "tags": "#discuss, #security, #python",
     "reactions": "24 reactions",
-    "comments": "Comments 15 comments",
+    "comments": "Comments 18 comments",
     "url": "https://dev.to/vonagedev/the-vonage-dev-discussion-making-mistakes-32mc"
   },
   {
@@ -156,7 +146,7 @@
     "description": "Announcing the Google Cloud NEXT '26 Writing ChallengeJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 22Tune In and Join the Google Cloud NEXT '26 Wr...",
     "tags": "#devchallenge, #googlecloud, #cloudnextchallenge",
     "reactions": "159 reactions",
-    "comments": "Comments 31 comments",
+    "comments": "Comments 32 comments",
     "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd"
   },
   {
@@ -170,13 +160,23 @@
     "url": "https://dev.to/francistrdev/unpopular-opinion-do-not-use-openclawnot-yet-5foe"
   },
   {
+    "title": "What It Actually Feels Like to Build Something You're Proud Of",
+    "author": "Tombri Bowei",
+    "date": "2026-04-27",
+    "description": "The initial dread and the silence of shippingTombri BoweiTombri BoweiTombri BoweiFollowApr 27What It Actually Feels Like to Build Something You're Pro...",
+    "tags": "#career, #webdev, #beginners, #productivity",
+    "reactions": "21 reactions",
+    "comments": "Comments 8 comments",
+    "url": "https://dev.to/_boweii/what-it-actually-feels-like-to-build-something-youre-proud-of-35mi"
+  },
+  {
     "title": "What was your win this week!?",
     "author": "Jess Lee",
     "date": "2026-04-24",
-    "description": "Features JSNation news and AI project updatesJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 24What was your win this week!?#discuss#weeklyretro53rea...",
+    "description": "Features JSNation news and AI project updatesJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 24What was your win this week!?#discuss#weeklyretro55rea...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "53 reactions",
-    "comments": "Comments 87 comments",
+    "reactions": "55 reactions",
+    "comments": "Comments 98 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-8ep"
   }
 ]
