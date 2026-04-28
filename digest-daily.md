@@ -1,85 +1,60 @@
 ---
-date: '2026-04-28'
+date: '2026-04-29'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-28T18:01:00.238331'
+generated_at: '2026-04-29T06:03:51.366606'
 ---
 
 ## Executive Summary  
-- Open‑source AI tooling is advancing rapidly, highlighted by Dirac’s token‑efficient coding agent that slashes API costs by up to 80 % while delivering 100 % task accuracy.  
-- The medical‑device field saw a breakthrough as Motif Neurotech secured FDA clearance to test a skull‑mounted brain‑computer implant for treatment‑resistant depression.  
-- Major corporate moves reshaped media and finance: Amazon launched a commerce‑centric podcast creator‑services model, while GitHub transitioned Copilot to usage‑based billing to align pricing with actual token consumption.  
-- Geopolitical and security headlines dominated the day, from the Pope’s anti‑war remarks praised by the Archbishop of Canterbury to a federal‑court appearance by alleged White House Correspondents’ Dinner shooter and a Supreme Court hearing on digital‑privacy “geofencing.”  
-- A massive data breach exposed 4 TB of voice recordings tied to verified IDs, prompting new guidance on detecting synthetic‑voice fraud, and Adyen’s €750 m acquisition of Talon.One signaled further consolidation in unified‑commerce services.  
+- Google’s newly disclosed Pentagon contract authorizes “any lawful” AI use, sparking fresh debate over military applications of the company’s models.  
+- Amazon expands its AI portfolio on AWS with OpenAI models and launches an audio‑driven Q&A shopping assistant, while AWS’s Bedrock Managed Agents signal a deeper rivalry with Microsoft’s Azure.  
+- GitHub Copilot will begin charging GitHub Actions minutes for code‑review runs on private repos, adding a cost layer for developers.  
+- The software‑stock market sees a sharp weekly dip for seat‑based SaaS firms but a 12‑month rally for AI‑enabled infrastructure and security players, underscoring a sector‑wide pricing shift.  
+- GM’s Super Cruise hits the one‑billion‑mile mark, demonstrating growing consumer acceptance of Level‑2+ driver assistance, even as the semiconductor supply chain tightens around ASML’s EUV lithography monopoly.
 
----  
+---
 
-## AI and Machine Learning  
+# AI and Machine Learning  
 
-- **Dirac – Accurate & Highly Token Efficient Open Source AI Coding Agent** [hnrss]  
-  Dirac’s new coding agent cuts API spend by an average 64.8 % versus competitors, achieves 100 % task accuracy, and tops the Terminal‑Bench‑2 leaderboard using hash‑anchored edits and multi‑file batching.  
+- **Officially Introducing: The Google AI and Google Cloud Run Badges** [devto] – Google rolls out new community badges for high‑quality AI posts and first‑time Cloud Run embeds, coupled with a writing challenge that offers cash prizes and exclusive DEV badges, closing April 29.  
+- **GitHub Copilot code review will start consuming GitHub Actions minutes on June 1 2026** [GitHub Changelog] – From June 1, Copilot code‑review runs on private repos will draw from the organization’s Actions‑minute allotment and be billed as AI Credits, while public repos remain free.  
+- **Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI** [The Verge] – A classified contract lets the U.S. Department of Defense employ Google’s models for any lawful purpose, with informal safeguards against domestic surveillance and autonomous weapons, despite internal staff protests.  
+- **Amazon is already offering new OpenAI products on AWS** [TechCrunch] – AWS adds OpenAI’s latest models, Codex, and a “Bedrock Managed Agents” service, positioning itself as a direct competitor to Microsoft’s Azure after OpenAI lifted Microsoft’s exclusivity.  
+- **Amazon launches an AI‑powered audio Q&A experience on product pages** [TechCrunch] – The “Join the chat” feature lets shoppers ask product questions via voice or text and receive real‑time, conversational audio answers, extending Amazon’s “Hear the highlights” audio summaries.  
+- **5‑Day AI Agents: Intensive Vibe Coding Course With Google** [Kaggle] – *[summary not provided; article pending further detail]*.  
+- **A Terrible, Terrible Week in Software Stocks…** [SaaStr] – ServiceNow’s earnings miss and margin cut trigger a steep sell‑off for seat‑based SaaS, while infrastructure and security firms (Cloudflare, MongoDB, Datadog) post strong 12‑month gains, highlighting AI’s reshaping of SaaS pricing models.  
+- **A billion miles in less than a decade: GM's Super Cruise reaches a milestone** [Ars Technica] – GM’s hands‑free driver‑assist system surpasses one billion miles, with usage doubling year‑over‑year and a roadmap toward Level 3 “eyes‑off” capability by 2028.
 
-- **Staring at walls to improve focus and productivity** [hnrss]  
-  The author proposes 5‑10‑minute “wall‑staring” breaks that engage the parasympathetic system and “mind blanking,” reporting restored focus and motivation without caffeine spikes.  
+---
 
-- **A Brain Implant for Depression Is About to Be Tested in Humans** [newsfeed]  
-  Motif Neurotech received FDA approval for a minimally invasive, skull‑mounted BCI that delivers patterned electrical stimulation to the central executive network; the trial will enroll ~10 treatment‑resistant patients and monitor safety over 12 months.  
+# Software Engineering and Dev Tools  
 
-- **Amazon’s new podcast strategy: Monetize everything** [newsfeed]  
-  Amazon dismantled Wondery’s studio, moving audio‑only podcasts under Audible and creating a Creator Services division that fuses content with commerce, exemplified by the Kelce brothers’ “New Heights” podcast with integrated merchandise and streaming sections.  
+- **What It Actually Feels Like to Build Something You're Proud Of** [devto] – The piece maps the emotional arc of developers from initial dread, through a “saggy middle,” to the calm after shipping, arguing that pride in shipped work outweighs perfection.  
+- **GTFOBins** [hackernews_api] – An open‑source catalog of Unix binaries that can be abused for privilege escalation and other post‑exploitation actions, serving both attackers and defenders as a “live‑off‑the‑land” reference.  
+- **Ghostty Is Leaving GitHub – Mitchell Hashimoto** [hnrss] – After years of reliance, the author departs GitHub due to repeated outages, planning a phased migration while keeping a read‑only mirror of the repository.  
+- **110 Free Agent Skills — AI Agent Tools, Cursor Rules & Claude Code Skills** [tldr] – YepAPI releases 110 ready‑to‑install “agent skills” that act as cheat‑sheets for dozens of AI coding assistants, reducing hallucinations and improving productivity across tools like Claude, Cursor, and Copilot.  
+- **A DOGE Affiliate Is Now in Charge of the US Government’s ID Platform** [WIRED] – Greg Hogan, a former Comma.ai executive and DOGE affiliate, becomes acting assistant commissioner of the GSA’s Technology Transformation Services, tasked with expanding Login.gov into a national‑scale identity platform.
 
-- **Archbishop of Canterbury praises Pope's anti‑war comments during Vatican visit** [newsfeed]  
-  Dame Sarah Mullally lauded Pope Leo III’s outspoken condemnation of war and tyranny, noting shared prayers for global peace and signaling strong ecumenical alignment amid recent political criticism of the papacy.  
+---
 
-- **Up First briefing: Cole Allen; King Charles; geofencing; AI trial** [newsfeed]  
-  - *Cole Allen* – The alleged White House Correspondents’ Dinner shooter will appear in federal court; charges include assault on a federal officer.  
-  - *King Charles III* – The royal couple’s Washington state visit includes a White House banquet and congressional speech, occurring despite strained U.S.–U.K. relations.  
-  - *Supreme Court geofencing case* – Arguments focus on whether law‑enforcement location‑data harvesting violates the Fourth Amendment; a decision is expected this summer.  
-  - *Musk vs. Altman AI trial* – Elon Musk sues OpenAI CEO Sam Altman for alleged deception in the nonprofit‑to‑for‑profit transition, seeking restitution of billions in profits.  
+# Open Source  
 
-- **4 TB of voice samples stolen from 40,000 AI contractors – how to verify if yours is being weaponized** [ORAVYS] *(trending)*  
-  Lapsus$ leaked a 4 TB archive linking clean voice recordings with government‑issued IDs, enabling high‑fidelity voice cloning for fraud; the article offers a forensic checklist and mitigation steps such as rotating voice‑print enrollments and using verbal codewords.  
+- **LocalSend – Open‑source cross‑platform alternative to AirDrop** [GitHub] *(Trending – seen 2×)* – A free, peer‑to‑peer file‑sharing app that works over local networks without internet, supporting Android, iOS, macOS, Windows, Linux, and offering portable mode, hidden start, and extensive packaging options.  
+- **Ghostty Is Leaving GitHub – Mitchell Hashimoto** [hnrss] – (Repeated from Dev Tools section; see above for details.)  
+- **A DOGE Affiliate Is Now in Charge of the US Government’s ID Platform** [WIRED] – (Repeated from Dev Tools section; see above.)
 
-- **GitHub Copilot is moving to usage‑based billing** [GitHub Blog] *(trending)*  
-  Effective 1 June 2026, Copilot’s legacy PRU model is replaced by “GitHub AI Credits” charged per token; plan prices stay the same, but users gain granular spend controls and admins can set organization‑wide budgets.  
+---
 
-- **pgBackRest – Reliable PostgreSQL Backup & Restore** [GitHub] *(trending)*  
-  The pgBackRest project was archived on 27 April 2026; while the code remains read‑only, its feature set—parallel backups, multi‑repo support, and delta restores—continues to be cited as a benchmark for enterprise PostgreSQL resilience.  
+# World News and Geopolitics  
 
-- **GitHub Status – “search is degraded” incident** [hnrss]  
-  A spike in ElasticSearch load caused intermittent failures across Issues, PRs, Packages, and Actions on 27 April 2026; GitHub mitigated the issue by throttling the offending load and is investigating broader connectivity problems.  
+- **The world’s most complex machine** [Works in Progress Magazine] – An overview of modern smartphones and the semiconductor supply chain, emphasizing ASML’s monopoly on EUV lithography machines—each costing > $120 million and crucial to the US‑China tech rivalry.
 
----  
+---
 
-## Software Engineering and Dev Tools  
+# Uncategorized  
 
-- **15 Essential Sections Every README Needs: Give Your Project What It Deserves** [devto]  
-  The guide outlines a modular README template covering title, overview, tech stack, architecture, getting‑started steps, contribution guidelines, licensing, and more, stressing that a well‑structured README drives discoverability and community contributions.  
+- **Early in her life…** [tldr] – A fragmentary literary excerpt reflecting on a woman’s early years, themes of deception, purpose, and an ominous “new world” revelation.
 
-- **The Vonage Dev Discussion: Making mistakes** [devto]  
-  Developers share common pitfalls such as accidental secret leaks, recommending environment‑variable usage and guardrails to prevent exposure of API keys in public repositories.  
+---
 
-- **Tune In and Join the Google Cloud NEXT ’26 Writing Challenge** [devto]  
-  Participants are invited to produce hands‑on DEV posts about any Google Cloud NEXT ’26 announcement, with $200 prizes, DEV++ memberships, and badges for winning entries; submissions close 29 April.  
-
-- **4 TB of voice samples stolen from 40,000 AI contractors – how to verify if yours is being weaponized** [ORAVYS] *(trending, also listed in AI section)*  
-  (Repeated here for relevance to dev‑tool security practices.)  
-
----  
-
-## Open Source  
-
-- **DSPi – Fully featured audio DSP firmware for Raspberry Pi Pico & Pico 2** [hnrss]  
-  DSPi delivers a USB audio interface, multi‑channel preamps, parametric EQ, loudness compensation, and a 10‑slot preset system; it runs on RP2040 and RP2350 chips, offering both fixed‑point and floating‑point processing pipelines for high‑quality, low‑latency audio on hobbyist hardware.  
-
----  
-
-## Startups and Business  
-
-- **Adyen acquires Talon.One for €750 m** [tldr]  
-  Adyen will buy the Berlin‑based loyalty‑engine platform Talon.One, integrating real‑time decisioning into its unified‑commerce stack; the €750 m cash deal is expected to close H2 2026 and should enable merchants to apply promotions instantly across online and in‑store channels.  
-
----  
-
-## Notable Mentions  
-- Agentic Engineering Management [tldr]  
-- “If your growth or marketing person can't build this in 2 days, I'd genuinely consider firing them from that role. This is table stakes in 2026…” [tldr]
+# Notable Mentions  
+- “We’re rebuilding how HubSpot shows up in AI answers. Our data shows 57% of marketers are doing the same. Aja Frost and I dug into this on Field Notes…” [tldr]   (additional mentions omitted for brevity)
