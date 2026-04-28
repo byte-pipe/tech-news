@@ -4,8 +4,8 @@
     "url": "https://app.oravys.com/blog/mercor-breach-2026",
     "author": "Oravys",
     "date": "2026-04-27",
-    "score": 350,
-    "comments": 130,
+    "score": 555,
+    "comments": 211,
     "id": 47919630,
     "discussion_url": "https://news.ycombinator.com/item?id=47919630",
     "description": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
@@ -14,100 +14,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454581"
+    "fetched_at": "2026-04-28T12:26:14.168340"
   },
   {
-    "title": "AI should elevate your thinking, not replace it",
-    "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-    "author": "koshyjohn",
-    "date": "2026-04-27",
-    "score": 797,
-    "comments": 558,
-    "id": 47913650,
-    "discussion_url": "https://news.ycombinator.com/item?id=47913650",
-    "description": "AI should elevate your thinking, not replace it",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454709"
-  },
-  {
-    "title": "Box to save memory in Rust",
-    "url": "https://dystroy.org/blog/box-to-save-memory/",
-    "author": "emschwartz",
-    "date": "2026-04-24",
-    "score": 170,
-    "comments": 49,
-    "id": 47878231,
-    "discussion_url": "https://news.ycombinator.com/item?id=47878231",
-    "description": "Box to save memory in Rust",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454775"
-  },
-  {
-    "title": "Canada's first sovereign wealth fund",
-    "url": "https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238",
-    "author": "geox",
+    "title": "An Update on GitHub Availability",
+    "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+    "author": "salkahfi",
     "date": "2026-04-28",
-    "score": 123,
-    "comments": 69,
-    "id": 47924188,
-    "discussion_url": "https://news.ycombinator.com/item?id=47924188",
-    "description": "Canada's first sovereign wealth fund",
+    "score": 127,
+    "comments": 126,
+    "id": 47932422,
+    "discussion_url": "https://news.ycombinator.com/item?id=47932422",
+    "description": "An Update on GitHub Availability",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454716"
+    "fetched_at": "2026-04-28T12:26:14.168380"
   },
   {
-    "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
-    "url": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
-    "author": "benterix",
-    "date": "2026-04-28",
-    "score": 267,
-    "comments": 103,
-    "id": 47922712,
-    "discussion_url": "https://news.ycombinator.com/item?id=47922712",
-    "description": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454669"
-  },
-  {
-    "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
-    "url": "https://github.com/evanklem/evanflow",
-    "author": "evanklem2004",
+    "title": "China blocks Meta's acquisition of AI startup Manus",
+    "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+    "author": "yakkomajuri",
     "date": "2026-04-27",
-    "score": 95,
-    "comments": 53,
-    "id": 47916909,
-    "discussion_url": "https://news.ycombinator.com/item?id=47916909",
-    "description": "EvanFlow – A TDD driven feedback loop for Claude Code",
+    "score": 375,
+    "comments": 273,
+    "id": 47920315,
+    "discussion_url": "https://news.ycombinator.com/item?id=47920315",
+    "description": "China blocks Meta's acquisition of AI startup Manus",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454821"
+    "fetched_at": "2026-04-28T12:26:14.168492"
+  },
+  {
+    "title": "Easyduino: Open Source PCB Devboards for KiCad",
+    "url": "https://github.com/Hanqaqa/Easyduino",
+    "author": "Hanqaqa",
+    "date": "2026-04-27",
+    "score": 227,
+    "comments": 35,
+    "id": 47924813,
+    "discussion_url": "https://news.ycombinator.com/item?id=47924813",
+    "description": "Easyduino: Open Source PCB Devboards for KiCad",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-28T12:26:14.168350"
   },
   {
     "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
     "author": "JeanKage",
     "date": "2026-04-27",
-    "score": 166,
-    "comments": 68,
+    "score": 249,
+    "comments": 92,
     "id": 47919733,
     "discussion_url": "https://news.ycombinator.com/item?id=47919733",
     "description": "FDA approves first gene therapy for treatment of genetic hearing loss",
@@ -116,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454445"
+    "fetched_at": "2026-04-28T12:26:14.168455"
   },
   {
     "title": "Flipdiscs",
     "url": "https://flipdisc.io",
     "author": "skogstokig",
     "date": "2026-04-23",
-    "score": 505,
-    "comments": 83,
+    "score": 558,
+    "comments": 88,
     "id": 47875795,
     "discussion_url": "https://news.ycombinator.com/item?id=47875795",
     "description": "Flipdiscs",
@@ -133,32 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454454"
-  },
-  {
-    "title": "FreeBSD Device Drivers Book",
-    "url": "https://github.com/ebrandi/FDD-book",
-    "author": "myth_drannon",
-    "date": "2026-04-27",
-    "score": 126,
-    "comments": 32,
-    "id": 47915632,
-    "discussion_url": "https://news.ycombinator.com/item?id=47915632",
-    "description": "FreeBSD Device Drivers Book",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454782"
+    "fetched_at": "2026-04-28T12:26:14.168553"
   },
   {
     "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
     "url": "https://github.com/WeebLabs/DSPi",
     "author": "BoingBoomTschak",
     "date": "2026-04-25",
-    "score": 217,
-    "comments": 57,
+    "score": 303,
+    "comments": 85,
     "id": 47901433,
     "discussion_url": "https://news.ycombinator.com/item?id=47901433",
     "description": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
@@ -167,15 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454426"
+    "fetched_at": "2026-04-28T12:26:14.168436"
+  },
+  {
+    "title": "GTFOBins",
+    "url": "https://gtfobins.org/",
+    "author": "StefanBatory",
+    "date": "2026-04-28",
+    "score": 259,
+    "comments": 64,
+    "id": 47931035,
+    "discussion_url": "https://news.ycombinator.com/item?id=47931035",
+    "description": "GTFOBins",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-28T12:26:14.168321"
   },
   {
     "title": "GitHub Copilot is moving to usage-based billing",
     "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
     "author": "frizlab",
-    "date": "2026-04-28",
-    "score": 370,
-    "comments": 293,
+    "date": "2026-04-27",
+    "score": 706,
+    "comments": 520,
     "id": 47923357,
     "discussion_url": "https://news.ycombinator.com/item?id=47923357",
     "description": "GitHub Copilot is moving to usage-based billing",
@@ -184,32 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454608"
+    "fetched_at": "2026-04-28T12:26:14.168463"
   },
   {
-    "title": "GitHub is having issues now",
-    "url": "https://www.githubstatus.com",
-    "author": "SenHeng",
+    "title": "High Performance Git",
+    "url": "https://gitperf.com/",
+    "author": "gnabgib",
     "date": "2026-04-28",
-    "score": 214,
-    "comments": 75,
-    "id": 47924775,
-    "discussion_url": "https://news.ycombinator.com/item?id=47924775",
-    "description": "GitHub is having issues now",
+    "score": 170,
+    "comments": 48,
+    "id": 47929035,
+    "discussion_url": "https://news.ycombinator.com/item?id=47929035",
+    "description": "High Performance Git",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454519"
+    "fetched_at": "2026-04-28T12:26:14.168396"
   },
   {
     "title": "I bought Friendster for $30k – Here's what I'm doing with it",
     "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
     "author": "ca98am79",
-    "date": "2026-04-27",
-    "score": 1049,
-    "comments": 561,
+    "date": "2026-04-26",
+    "score": 1086,
+    "comments": 595,
     "id": 47914165,
     "discussion_url": "https://news.ycombinator.com/item?id=47914165",
     "description": "I bought Friendster for $30k – Here's what I'm doing with it",
@@ -218,32 +184,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454722"
+    "fetched_at": "2026-04-28T12:26:14.168522"
   },
   {
-    "title": "It's OK to abandon your side-project (2024)",
-    "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
-    "author": "hisamafahri",
-    "date": "2026-04-27",
-    "score": 174,
-    "comments": 83,
-    "id": 47918961,
-    "discussion_url": "https://news.ycombinator.com/item?id=47918961",
-    "description": "It's OK to abandon your side-project (2024)",
+    "title": "Interview with Bob Odenkirk",
+    "url": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+    "author": "wslh",
+    "date": "2026-04-26",
+    "score": 158,
+    "comments": 132,
+    "id": 47909860,
+    "discussion_url": "https://news.ycombinator.com/item?id=47909860",
+    "description": "Interview with Bob Odenkirk",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454742"
+    "fetched_at": "2026-04-28T12:26:14.168515"
+  },
+  {
+    "title": "Is my blue your blue? (2024)",
+    "url": "https://ismy.blue/",
+    "author": "theogravity",
+    "date": "2026-04-27",
+    "score": 599,
+    "comments": 395,
+    "id": 47926861,
+    "discussion_url": "https://news.ycombinator.com/item?id=47926861",
+    "description": "Is my blue your blue? (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-28T12:26:14.168345"
+  },
+  {
+    "title": "Meetings are forcing functions",
+    "url": "https://www.mooreds.com/wordpress/archives/3734",
+    "author": "zdw",
+    "date": "2026-04-26",
+    "score": 137,
+    "comments": 76,
+    "id": 47906942,
+    "discussion_url": "https://news.ycombinator.com/item?id=47906942",
+    "description": "Meetings are forcing functions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-28T12:26:14.168391"
   },
   {
     "title": "Men who stare at walls",
     "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
     "author": "aselimov3",
     "date": "2026-04-27",
-    "score": 314,
-    "comments": 160,
+    "score": 622,
+    "comments": 280,
     "id": 47920074,
     "discussion_url": "https://news.ycombinator.com/item?id=47920074",
     "description": "Men who stare at walls",
@@ -252,15 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454574"
+    "fetched_at": "2026-04-28T12:26:14.168399"
   },
   {
     "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
     "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
     "author": "helsinkiandrew",
     "date": "2026-04-27",
-    "score": 551,
-    "comments": 484,
+    "score": 905,
+    "comments": 771,
     "id": 47921248,
     "discussion_url": "https://news.ycombinator.com/item?id=47921248",
     "description": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
@@ -269,15 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454512"
+    "fetched_at": "2026-04-28T12:26:14.168363"
+  },
+  {
+    "title": "Mo RAM, Mo Problems (2025)",
+    "url": "https://fabiensanglard.net/curse/",
+    "author": "blfr",
+    "date": "2026-04-25",
+    "score": 157,
+    "comments": 26,
+    "id": 47902269,
+    "discussion_url": "https://news.ycombinator.com/item?id=47902269",
+    "description": "Mo RAM, Mo Problems (2025)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-28T12:26:14.168418"
   },
   {
     "title": "Networking changes coming in macOS 27",
     "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
     "author": "pvtmert",
-    "date": "2026-04-28",
-    "score": 138,
-    "comments": 113,
+    "date": "2026-04-27",
+    "score": 231,
+    "comments": 211,
     "id": 47923010,
     "discussion_url": "https://news.ycombinator.com/item?id=47923010",
     "description": "Networking changes coming in macOS 27",
@@ -286,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454505"
+    "fetched_at": "2026-04-28T12:26:14.168384"
   },
   {
     "title": "Pgbackrest is no longer being maintained",
     "url": "https://github.com/pgbackrest/pgbackrest",
     "author": "c0l0",
     "date": "2026-04-27",
-    "score": 363,
-    "comments": 190,
+    "score": 436,
+    "comments": 222,
     "id": 47919997,
     "discussion_url": "https://news.ycombinator.com/item?id=47919997",
     "description": "Pgbackrest is no longer being maintained",
@@ -303,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454642"
+    "fetched_at": "2026-04-28T12:26:14.168451"
   },
   {
     "title": "Quarkdown – Markdown with Superpowers",
     "url": "https://quarkdown.com/",
     "author": "amai",
     "date": "2026-04-27",
-    "score": 200,
-    "comments": 52,
+    "score": 328,
+    "comments": 124,
     "id": 47919240,
     "discussion_url": "https://news.ycombinator.com/item?id=47919240",
     "description": "Quarkdown – Markdown with Superpowers",
@@ -320,49 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454468"
-  },
-  {
-    "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-    "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-    "author": "berkeleyjunk",
-    "date": "2026-04-27",
-    "score": 487,
-    "comments": 323,
-    "id": 47914350,
-    "discussion_url": "https://news.ycombinator.com/item?id=47914350",
-    "description": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454795"
-  },
-  {
-    "title": "Self-updating screenshots",
-    "url": "https://interblah.net/self-updating-screenshots",
-    "author": "bjhess",
-    "date": "2026-04-26",
-    "score": 450,
-    "comments": 70,
-    "id": 47908051,
-    "discussion_url": "https://news.ycombinator.com/item?id=47908051",
-    "description": "Self-updating screenshots",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454802"
+    "fetched_at": "2026-04-28T12:26:14.168471"
   },
   {
     "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
     "url": "https://github.com/dirac-run/dirac",
     "author": "GodelNumbering",
     "date": "2026-04-27",
-    "score": 256,
-    "comments": 96,
+    "score": 350,
+    "comments": 127,
     "id": 47920787,
     "discussion_url": "https://news.ycombinator.com/item?id=47920787",
     "description": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
@@ -371,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454546"
+    "fetched_at": "2026-04-28T12:26:14.168482"
   },
   {
     "title": "Super ZSNES – GPU Powered SNES Emulator",
     "url": "https://zsnes.com/",
     "author": "haunter",
-    "date": "2026-04-28",
-    "score": 101,
-    "comments": 21,
+    "date": "2026-04-27",
+    "score": 303,
+    "comments": 95,
     "id": 47924877,
     "discussion_url": "https://news.ycombinator.com/item?id=47924877",
     "description": "Super ZSNES – GPU Powered SNES Emulator",
@@ -388,15 +371,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454655"
+    "fetched_at": "2026-04-28T12:26:14.168496"
+  },
+  {
+    "title": "Supreme Court to hear arguments in landmark Roundup weedkiller case",
+    "url": "https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html",
+    "author": "mikhael",
+    "date": "2026-04-27",
+    "score": 147,
+    "comments": 190,
+    "id": 47923121,
+    "discussion_url": "https://news.ycombinator.com/item?id=47923121",
+    "description": "Supreme Court to hear arguments in landmark Roundup weedkiller case",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-28T12:26:14.168533"
+  },
+  {
+    "title": "Talkie: a 13B vintage language model from 1930",
+    "url": "https://talkie-lm.com/introducing-talkie",
+    "author": "jekude",
+    "date": "2026-04-27",
+    "score": 424,
+    "comments": 157,
+    "id": 47927903,
+    "discussion_url": "https://news.ycombinator.com/item?id=47927903",
+    "description": "Talkie: a 13B vintage language model from 1930",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-28T12:26:14.168355"
   },
   {
     "title": "The Prompt API",
     "url": "https://developer.chrome.com/docs/ai/prompt-api",
     "author": "gslin",
     "date": "2026-04-27",
-    "score": 246,
-    "comments": 122,
+    "score": 265,
+    "comments": 139,
     "id": 47917026,
     "discussion_url": "https://news.ycombinator.com/item?id=47917026",
     "description": "The Prompt API",
@@ -405,15 +422,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454588"
+    "fetched_at": "2026-04-28T12:26:14.168500"
+  },
+  {
+    "title": "The quiet resurgence of RF engineering",
+    "url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+    "author": "merlinq",
+    "date": "2026-04-25",
+    "score": 208,
+    "comments": 117,
+    "id": 47903439,
+    "discussion_url": "https://news.ycombinator.com/item?id=47903439",
+    "description": "The quiet resurgence of RF engineering",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-04-28T12:26:14.168403"
   },
   {
     "title": "The woes of sanitizing SVGs",
     "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
     "author": "varun_ch",
-    "date": "2026-04-28",
-    "score": 121,
-    "comments": 49,
+    "date": "2026-04-27",
+    "score": 237,
+    "comments": 95,
     "id": 47922957,
     "discussion_url": "https://news.ycombinator.com/item?id=47922957",
     "description": "The woes of sanitizing SVGs",
@@ -422,49 +456,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454662"
+    "fetched_at": "2026-04-28T12:26:14.168407"
   },
   {
-    "title": "Three constraints before I build anything",
-    "url": "https://jordanlord.co.uk/blog/3-constraints/",
-    "author": "nervous_north",
-    "date": "2026-04-26",
-    "score": 334,
-    "comments": 51,
-    "id": 47903541,
-    "discussion_url": "https://news.ycombinator.com/item?id=47903541",
-    "description": "Three constraints before I build anything",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454675"
-  },
-  {
-    "title": "TurboQuant: A first-principles walkthrough",
-    "url": "https://arkaung.github.io/interactive-turboquant/",
-    "author": "kweezar",
+    "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+    "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+    "author": "gnabgib",
     "date": "2026-04-27",
-    "score": 275,
-    "comments": 56,
-    "id": 47916890,
-    "discussion_url": "https://news.ycombinator.com/item?id=47916890",
-    "description": "TurboQuant: A first-principles walkthrough",
+    "score": 172,
+    "comments": 94,
+    "id": 47927070,
+    "discussion_url": "https://news.ycombinator.com/item?id=47927070",
+    "description": "Three men are facing charges in Toronto SMS Blaster arrests",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454560"
+    "fetched_at": "2026-04-28T12:26:14.168411"
   },
   {
     "title": "US Supreme Court reviews police use of cell location data",
     "url": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
     "author": "unethical_ban",
-    "date": "2026-04-28",
-    "score": 147,
-    "comments": 105,
+    "date": "2026-04-27",
+    "score": 246,
+    "comments": 146,
     "id": 47922940,
     "discussion_url": "https://news.ycombinator.com/item?id=47922940",
     "description": "US Supreme Court reviews police use of cell location data",
@@ -473,32 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454498"
-  },
-  {
-    "title": "United Wizards of the Coast",
-    "url": "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa",
-    "author": "d4mi3n",
-    "date": "2026-04-28",
-    "score": 129,
-    "comments": 82,
-    "id": 47925425,
-    "discussion_url": "https://news.ycombinator.com/item?id=47925425",
-    "description": "United Wizards of the Coast",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454649"
+    "fetched_at": "2026-04-28T12:26:14.168507"
   },
   {
     "title": "“Why not just use Lean?”",
     "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
     "author": "ibobev",
-    "date": "2026-04-28",
-    "score": 202,
-    "comments": 117,
+    "date": "2026-04-27",
+    "score": 286,
+    "comments": 195,
     "id": 47922079,
     "discussion_url": "https://news.ycombinator.com/item?id=47922079",
     "description": "“Why not just use Lean?”",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-04-28T06:00:17.454594"
+    "fetched_at": "2026-04-28T12:26:14.168488"
   }
 ]
