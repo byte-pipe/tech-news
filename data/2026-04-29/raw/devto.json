@@ -5,8 +5,8 @@
     "date": "2026-04-26",
     "description": "Ready-to-use markdown templateGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowApr 2615 Essential Sections Every README Needs: Give Your Project Wha...",
     "tags": "#documentation, #opensource, #tutorial, #development",
-    "reactions": "87 reactions",
-    "comments": "Comments 60 comments",
+    "reactions": "105 reactions",
+    "comments": "Comments 62 comments",
     "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"
   },
   {
@@ -25,8 +25,8 @@
     "date": "2026-04-28",
     "description": "Small models rivaling giants in code tasksKernel PryanicKernel PryanicKernel PryanicFollowApr 28Are We Using AI at the Wrong Scale?#discuss#ai#llm#sof...",
     "tags": "#discuss, #ai, #llm, #software",
-    "reactions": "17 reactions",
-    "comments": "Comments 4 comments",
+    "reactions": "52 reactions",
+    "comments": "Comments 7 comments",
     "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
   },
   {
@@ -40,13 +40,23 @@
     "url": "https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f"
   },
   {
+    "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
+    "author": "Shir Meir Lador",
+    "date": "2026-04-28",
+    "description": "Shir Meir LadorShir Meir LadorShir Meir LadorFollowforGoogle AIApr 28Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) fo...",
+    "tags": "#gemma, #machinelearning, #googlecloud, #cloudrun",
+    "reactions": "44 reactions",
+    "comments": "Comments 2 comments",
+    "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib"
+  },
+  {
     "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
     "author": "Remigiusz Samborski",
     "date": "2026-04-28",
     "description": "Remigiusz SamborskiRemigiusz SamborskiRemigiusz SamborskiFollowforGoogle AIApr 28How I used Gemini CLI to orchestrate a complex RAG migration#gemini#a...",
     "tags": "#gemini, #agents, #programming, #ai",
-    "reactions": "15 reactions",
-    "comments": "Comments 1 comment",
+    "reactions": "40 reactions",
+    "comments": "Comments 2 comments",
     "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga"
   },
   {
@@ -55,7 +65,7 @@
     "date": "2026-04-23",
     "description": "Scaffolding as the core productMatty StrattonMatty StrattonMatty StrattonFollowApr 23How My Coworker Who Didn't Know 'cd' Shipped to Production#webdev...",
     "tags": "#webdev, #ai, #devops, #productivity",
-    "reactions": "32 reactions",
+    "reactions": "34 reactions",
     "comments": "Comments 14 comments",
     "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j"
   },
@@ -63,21 +73,11 @@
     "title": "I Used to Love Coding. Now I Just Prompt.",
     "author": "Harsh",
     "date": "2026-04-24",
-    "description": "The trade-off between productivity and craftHarshHarshHarshFollowApr 24I Used to Love Coding. Now I Just Prompt.#discuss#ai#career#productivity105reac...",
+    "description": "The trade-off between productivity and craftHarshHarshHarshFollowApr 24I Used to Love Coding. Now I Just Prompt.#discuss#ai#career#productivity111reac...",
     "tags": "#discuss, #ai, #career, #productivity",
-    "reactions": "105 reactions",
-    "comments": "Comments 73 comments",
+    "reactions": "111 reactions",
+    "comments": "Comments 77 comments",
     "url": "https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l"
-  },
-  {
-    "title": "I created my first game and decided to leave GameDev",
-    "author": "EmberNoGlow",
-    "date": "2026-04-22",
-    "description": "Art rated below gameplay despite high effortEmberNoGlowEmberNoGlowEmberNoGlowFollowApr 22I created my first game and decided to leave GameDev#discuss#...",
-    "tags": "#discuss, #gamedev, #godot, #productivity",
-    "reactions": "34 reactions",
-    "comments": "Comments 21 comments",
-    "url": "https://dev.to/embernoglow/i-created-my-first-game-and-decided-to-leave-gamedev-o9n"
   },
   {
     "title": "I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It.",
@@ -86,7 +86,7 @@
     "description": "Google Cloud NEXT '26 Challenge SubmissionJoske VermeulenJoske VermeulenJoske VermeulenFollowApr 24I'm Running Gemini as an Autonomous Coding Agent. H...",
     "tags": "#devchallenge, #cloudnextchallenge, #googlecloud",
     "reactions": "19 reactions",
-    "comments": "Comments 12 comments",
+    "comments": "Comments 13 comments",
     "url": "https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2"
   },
   {
@@ -95,9 +95,19 @@
     "date": "2026-04-25",
     "description": "OpenClaw Challenge Submission 🦞Nick TaylorNick TaylorNick TaylorFollowApr 25Introducing Excaliclaw: A Skill for OpenClaw to Generate Excalidraw Diagra...",
     "tags": "#devchallenge, #openclawchallenge, #excalidraw",
-    "reactions": "27 reactions",
-    "comments": "Comments 13 comments",
+    "reactions": "32 reactions",
+    "comments": "Comments 15 comments",
     "url": "https://dev.to/nickytonline/introducing-excaliclaw-a-skill-for-openclaw-to-generate-excalidraw-diagrams-48k6"
+  },
+  {
+    "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+    "author": "Jess Lee",
+    "date": "2026-04-26",
+    "description": "Jess LeeJess LeeJess LeeFollowforThe DEV TeamApr 26Officially Introducing: The Google AI and Google Cloud Run Badges#cloudnextchallenge#devchallenge#g...",
+    "tags": "#cloudnextchallenge, #devchallenge, #googlecloud, #gemini",
+    "reactions": "27 reactions",
+    "comments": "Comments 2 comments",
+    "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9"
   },
   {
     "title": "So, what am I doing after 22 years in tech?",
@@ -115,7 +125,7 @@
     "date": "2026-04-26",
     "description": "Easier debugging with cognitive pipelinesmarcosommamarcosommamarcosommaFollowApr 26The Real Token Economy Is Not About Spending Less. It Is About Thin...",
     "tags": "#ai, #agents, #programming, #productivity",
-    "reactions": "25 reactions",
+    "reactions": "27 reactions",
     "comments": "Comments 8 comments",
     "url": "https://dev.to/marcosomma/the-real-token-economy-is-not-about-spending-less-it-is-about-thinking-smaller-3j3e"
   },
@@ -140,23 +150,13 @@
     "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl"
   },
   {
-    "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
-    "author": "Jess Lee",
-    "date": "2026-04-22",
-    "description": "Announcing the Google Cloud NEXT '26 Writing ChallengeJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 22Tune In and Join the Google Cloud NEXT '26 Wr...",
-    "tags": "#devchallenge, #googlecloud, #cloudnextchallenge",
-    "reactions": "176 reactions",
-    "comments": "Comments 33 comments",
-    "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd"
-  },
-  {
     "title": "What It Actually Feels Like to Build Something You're Proud Of",
     "author": "Tombri Bowei",
     "date": "2026-04-27",
     "description": "The initial dread and the silence of shippingTombri BoweiTombri BoweiTombri BoweiFollowApr 27What It Actually Feels Like to Build Something You're Pro...",
     "tags": "#career, #webdev, #beginners, #productivity",
-    "reactions": "26 reactions",
-    "comments": "Comments 11 comments",
+    "reactions": "32 reactions",
+    "comments": "Comments 14 comments",
     "url": "https://dev.to/_boweii/what-it-actually-feels-like-to-build-something-youre-proud-of-35mi"
   },
   {
@@ -166,7 +166,7 @@
     "description": "Features JSNation news and AI project updatesJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 24What was your win this week!?#discuss#weeklyretro58rea...",
     "tags": "#discuss, #weeklyretro",
     "reactions": "58 reactions",
-    "comments": "Comments 111 comments",
+    "comments": "Comments 113 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-8ep"
   },
   {
@@ -175,8 +175,8 @@
     "date": "2026-04-28",
     "description": "WPM challenge winners and a Kpop-themed coverFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowApr 28🗓️ Monthly Dev Report: April 2026...",
     "tags": "#discuss, #devjournal, #programming, #community",
-    "reactions": "30 reactions",
-    "comments": "Comments 6 comments",
+    "reactions": "45 reactions",
+    "comments": "Comments 8 comments",
     "url": "https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"
   }
 ]
