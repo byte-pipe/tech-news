@@ -1,58 +1,63 @@
 ---
-date: '2026-04-30'
+date: '2026-05-01'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-30T21:21:31.693417'
+generated_at: '2026-05-01T03:55:57.129268'
 ---
 
-## Executive Summary
-- AI tooling is expanding into mobile‑first workflows, with developers forking open‑source projects like Paseo to better control local agents on Android devices.  
-- State regulators are moving against data‑driven price discrimination, highlighted by Maryland’s ban on surveillance pricing in grocery stores, while the tech industry pushes back against dominant payment platforms in India’s UPI market.  
-- A critical Linux kernel privilege‑escalation bug (CVE‑2026‑31431) threatens multi‑tenant cloud environments, and a 30‑year‑old FastCGI protocol is being championed as a safer alternative to HTTP for reverse‑proxy communication.  
-- Amazon’s cloud division is experiencing record AI‑driven growth, but massive capital spending is compressing free cash flow in the short term.  
-
----
-
-## AI and Machine Learning
-
-### Forking Paseo: Mobile vibe coding for me – DEV Community  
-Developers forked the open‑source Paseo app to enable seamless, local‑first control of AI coding agents from Android, adding session handoff, slash‑command fidelity, and transparent sub‑agent status. The changes illustrate how open‑source plus AI can reshape personal development workflows without relying on SaaS.
-
-### Maryland becomes first state to ban surveillance pricing in grocery stores – The Guardian  
-Maryland enacted a law prohibiting retailers and delivery services from using personal shopper data to set higher prices, aiming to curb predictive‑analytics‑driven price discrimination. Critics note loopholes and weak enforcement, but the measure may serve as a template for other states.
-
-### Twelve centuries of cherry blossoms — peak bloom in Kyoto, 812–2026 – Our World in Data  
-Analysis of 1,215 years of Kyoto cherry‑blossom records shows a clear shift toward earlier blooms, with the 2026 peak on March 29—over two weeks earlier than historic averages—mirroring modern climate warming trends.
-
-### A son overlooked and a jailed tycoon: Inside Samsung's succession drama – Newsfeed  
-The piece details Samsung heir Lee Jae‑yong’s 2017 bribery conviction, the strategic 2015 merger that secured family control, and ongoing internal disputes that keep the conglomerate’s leadership succession in flux.
-
-### Amazon, Meta join fight to end Google Pay, PhonePe dominance in India – TechCrunch  
-Amazon Pay, Meta’s WhatsApp Pay, and other challengers met with India’s NPCI to press for stricter UPI rules, targeting dominant apps’ user‑acquisition tactics and data practices. The effort seeks a more level playing field before a pending market‑share cap takes effect.
-
-### BBC visits US and UK military base in Iraq as ceasefire continues – Newsfeed  
-BBC journalists toured a joint US‑UK base in Iraq, noting intense drone activity and close operational cooperation despite rising diplomatic tensions over the Israel‑Iran conflict.
-
-### An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents – Stratechery  
-OpenAI’s new agreement lets its models run on any cloud, with Azure retaining a primary but non‑exclusive role. AWS’s Bedrock Managed Agents are positioned as a “Codex in AWS,” offering cloud‑native, secure agent execution for enterprises.
+## Executive Summary  
+- Meta’s contract termination with Kenyan data‑annotator Sama has left over a thousand workers idle and sparked investigations in the UK and Kenya over privacy violations tied to its AI‑powered smart glasses.  
+- A wave of cost‑driven research shows AI evaluation, not training, is now the primary compute bottleneck, while IBM’s new 8‑billion‑parameter Granite 4.1 model demonstrates that architectural efficiency can rival much larger systems.  
+- Belgium announced a halt to nuclear‑plant decommissioning and is negotiating a state‑run nuclear fleet, marking a sharp policy reversal amid energy‑security concerns.  
+- A misconfigured cloud bucket exposed nearly 90 k screenshots harvested by stalkerware, underscoring the growing privacy risks of surveillance apps.  
+- Server‑less compute platforms report near‑zero cold‑start latency and new tooling (SnapStart, ARM Graviton) further erodes the “cold‑start” problem for developers.  
 
 ---
 
-## Software Engineering and Dev Tools
+## AI and Machine Learning  
 
-### Copy Fail — CVE‑2026‑31431 – Hacker News  
-A Linux kernel flaw (CVE‑2026‑31431) lets unprivileged users gain root via the AF_ALG crypto API, affecting major distributions and exposing multi‑tenant hosts, containers, and CI runners to full compromise. Patching or disabling the `algif_aead` module mitigates the risk.
-
-### FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies – Hacker News  
-The article argues that FastCGI’s explicit framing and separation of trusted proxy data make it a safer, drop‑in replacement for HTTP when connecting reverse proxies to back‑ends, reducing desynchronisation and header‑injection attacks.
-
----
-
-## Cloud and Infrastructure
-
-### Amazon's cloud business is surging — and so is its capital spending – TechCrunch  
-AWS posted 28 % YoY revenue growth, driven by AI workloads, while capital expenditures jumped to over $59 billion, sharply cutting free cash flow. Management frames the spending as a long‑term investment to sustain the AI‑fuelled expansion.
+- **Dispute over fate of Kenyan workers who saw Meta AI glasses films** [Hacker News] – Meta halted a contract with outsourcing firm Sama after workers alleged they were forced to review intimate video captured by AI‑enabled glasses; the move left 1,108 annotators redundant and triggered investigations by the UK ICO and Kenya’s data‑protection office.  
+- **Claude Code refuses requests or charges extra if your commits mention “OpenClaw”** [HN RSS] – A site‑wide error page notes that JavaScript must be enabled; the notice also warns that privacy‑focused browser extensions can interfere with site functionality.  
+- **Congress will act against massive IP blockages by LaLiga** [HN RSS] – (Content not provided; placeholder indicates a pending legislative response to sports‑league IP restrictions.)  
+- **Granite 4.1: IBM’s 8B Model Is Competing With Models Four Times Its Size** [Firethering] – IBM’s new Granite 4.1 delivers performance on par with 30‑plus‑billion‑parameter rivals, proving that smarter architecture and training pipelines can offset sheer model size.  
+- **$100 Nintendo gift cards are $20 off at Newegg today** [The Verge] – While a consumer‑deal story, it highlights ongoing promotional activity in the gaming market, unrelated to core AI developments.  
+- **Turning Point plays old hits and sees new energy in last tour stop** [NPR] – The final Turning Point USA campus tour drew large crowds in Idaho, reflecting a resurgence of youth‑focused conservative activism; not an AI piece but part of the broader tech‑culture landscape.  
+- **Reddit – Please wait for verification** [Reddit] – No article content supplied.  
+- **AI evals are becoming the new compute bottleneck** [tldr] – Evaluation pipelines now cost tens of thousands of dollars per benchmark run, with agent‑based tests consuming orders of magnitude more GPU time than static LLM tests; the report urges coarse‑to‑fine pipelines and aggressive subsampling to keep research affordable.  
 
 ---
 
-## Notable Mentions
-- Are Prediction Markets Good for Anything?—Asterisk [tldr]
+## Cybersecurity and Privacy  
+
+- **90,000 Screenshots of One Celebrity's Phone Were Exposed Online** [WIRED] – A publicly accessible cloud bucket leaked 86,859 screenshots captured by the stalkerware app Cocospy, revealing private messages, invoices and partial credit‑card numbers; the breach illustrates how mis‑configured storage can amplify the privacy harms of surveillance software.  
+
+---
+
+## Software Engineering and Dev Tools  
+
+- **Cold Starts Are Dead** [DEV Community] – Real‑world measurements show AWS Lambda cold‑start latencies now sit in the sub‑200 ms range for most runtimes, with SnapStart and Graviton ARM instances cutting times dramatically; the author argues developers should shift focus from cold‑start mitigation to higher‑level architectural concerns.  
+- **Is Software Development Just a Side Quest? A Jira Story** [DEV Community] – A senior developer laments the growing administrative overhead of Jira ticket upkeep, noting that excessive custom fields and status options erode productivity and turn coding into a “side quest.”  
+- **Trending: 3D CAD models | Noctua** [Hacker News] – Noctua releases downloadable 3‑D CAD files for its products, warning they are for visualization only and carry no warranties; the models are offered “as‑is” and cannot be used for performance simulation or manufacturing.  
+- **Trending: Prompt API · Issue #1213** [Hacker News] – A GitHub issue flags the lack of official specifications, documentation, and compatibility tables for the proposed Prompt API, despite Blink’s intent‑to‑prototype announcement, highlighting early-stage uncertainty around the standard.  
+- **GCC 16 Release Series — Changes, New Features, and Fixes** [GNU Project] – GCC 16 introduces enhanced link‑time optimization, speculative devirtualization, and extensive vectorizer upgrades; it also adds new OpenMP 6.0 features, OpenACC 3.4 extensions, and Ada GNAT enhancements, while deprecating several legacy directives.  
+- **‘Fool me once…’ Lawyers argue Kennedy Center should not meet same fate as the East Wing** [NPR] – Two lawsuits challenge the Trump‑era renaming and closure of the Kennedy Center, arguing that congressional approval is required for major renovations and that the name change violates the Center’s founding statute.  
+- **Scaling smarter: A CIO’s road map to unified, future‑ready operations** [CIO] – The piece outlines how Schneider Electric’s EcoStruxure Foresight platform can unify building‑system data across portfolios, delivering predictable costs, improved uptime, and faster multi‑site rollouts, positioning a platform‑first approach as essential for modern CIOs.  
+
+---
+
+## Science and Research  
+
+- **J. Craig Venter, genomics pioneer and founder of JCVI and Diploid Genomics, Inc., dies at 79** [JCVI] – The institute mourns Venter, whose work on the first human genome draft, synthetic self‑replicating cells, and global ocean metagenomics reshaped modern biology; his death follows a brief hospitalization for complications of cancer treatment.  
+
+---
+
+## World News and Geopolitics  
+
+- **Trending: Belgium stops decommissioning nuclear power plants** [dpa International] – Belgium’s prime minister announced a pause on nuclear‑plant shutdowns and opened negotiations with ENGIE to potentially nationalise the seven‑reactor fleet, reversing a long‑standing phase‑out plan amid energy‑security pressures.  
+- **Africa and Asia back Infantino for unique fourth term as FIFA president** [Al Jazeera] – CAF and AFC pledge unanimous support for Gianni Infantino’s bid for a fourth FIFA term, citing a legal ruling that his initial partial term does not count; the move follows criticism over political ties and tournament expansions.  
+
+---
+
+## Notable Mentions  
+- Locked, stocked, and losing budget: AI vendor lock‑in bites • The Register (tldr)  
+- Made 2 simple changes on our website and I've been seeing a lot more sales calls from AI search since … (tldr)  
+- Your AI agent is ready to go. Is your infrastructure? | CIO (tldr)
