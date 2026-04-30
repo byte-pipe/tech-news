@@ -1,0 +1,1223 @@
+---
+title: Honker | Honker
+url: https://honker.dev/
+site_name: hnrss
+content_file: hnrss-honker-honker
+fetched_at: '2026-04-30T20:09:08.622089'
+original_url: https://honker.dev/
+date: '2026-04-30'
+description: Durable queues, streams, pub/sub, and scheduler on SQLite. One file, zero servers.
+tags:
+- hackernews
+- hnrss
+---
+
+# Honker
+
+ 
+Durable queues, streams, pub/sub, and a cron scheduler — inside your SQLite file.
+ 
+ 
+ 
+ Read the docs 
+ 
+ 
+ GitHub 
+ 
+ 
+ 
+ 
+ 
+ 
+
+honker adds Postgres-styleNOTIFY/LISTENsemantics to SQLite, with a durable pub/sub, task queue, and event streams on the side, without client polling or a daemon/broker. Cross-process wake latency is ~0.7 ms p50 on an M-series laptop.
+
+In its basic form it’s a plain SQLite loadable extension, so any language that canSELECT load_extension('honker_ext')gets the same queue, streams, and notifications on the same file. Bindings for Python, Node, Rust, Go, Ruby, Bun, and Elixir share one on-disk format.
+
+SQLite is backing real work now — Bluesky’s PDS, Fly’s LiteFS, Turso, weekend projects that somehow ended up in production. Once real work flows through a SQLite-backed app, you need a queue. The usual answer is “add Redis + Celery.” That works, but introduces a second datastore with its own backup story, a dual-write problem between your business table and the queue, and the operational overhead of running a broker.
+
+honker takes the approach that if SQLite is the primary datastore, the queue should live in the same file. That meansINSERT INTO ordersandqueue.enqueue(...)commit in the same transaction. Rollback drops both. The queue is just rows in a table with a partial index.
+
+## One example
+
+Section titled “One example”
+
+Enqueue atomically with a business write, then consume. Same.dbfile, same on-disk format, seven languages.
+
+ 
+ 
+* Python
+* Node
+* Rust
+* Go
+* Ruby
+* Bun
+* Elixir
+* C++
+* SQL (extension)
+ 
+ 
+ 
+import
+ honker
+
+db 
+=
+ honker.
+open
+(
+"
+app.db
+"
+)
+q 
+=
+ db.
+queue
+(
+"
+emails
+"
+)
+
+# Enqueue in the same transaction as the business write.
+with
+ db.
+transaction
+() 
+as
+ tx:
+ 
+tx.
+execute
+(
+"
+INSERT INTO orders (id, total) VALUES (?, ?)
+"
+,
+ 
+[
+42
+, 
+99
+]
+)
+ 
+q.
+enqueue
+(
+{
+"
+to
+"
+: 
+"
+[email protected]
+"
+, 
+"
+order_id
+"
+: 
+42
+}
+,
+ 
+tx
+=
+tx
+)
+
+# Worker wakes on any commit to the db, no polling.
+async
+ 
+for
+ job 
+in
+ q.
+claim
+(
+"
+worker-1
+"
+):
+ 
+await
+ 
+send_email
+(
+job.payload
+)
+ 
+job.
+ack
+()
+
+Or with Huey-style decorators:
+
+@q.task
+(
+retries
+=
+3
+,
+ 
+timeout_s
+=
+30
+)
+def
+ 
+send_email
+(
+to
+, 
+subject
+)
+:
+ 
+...
+ 
+return
+ {
+"
+sent_at
+"
+: time.
+time
+()}
+
+r 
+=
+ 
+send_email
+(
+"
+[email protected]
+"
+,
+ 
+"
+Hi
+"
+) 
+# enqueues, returns TaskResult
+print
+(
+r.
+get
+(
+timeout
+=
+10
+)) 
+# blocks until worker runs it
+ 
+ 
+const { 
+open
+ } = 
+require
+(
+'
+@russellthehippo/honker-node
+'
+);
+const 
+db
+ = 
+open
+(
+'
+app.db
+'
+);
+const 
+q
+ = 
+db
+.
+queue
+(
+'
+emails
+'
+);
+
+// Enqueue in the same transaction as the business write.
+const 
+tx
+ = 
+db
+.
+transaction
+();
+tx
+.
+execute
+(
+"
+INSERT INTO orders (id, total) VALUES (?, ?)
+"
+, [
+42
+, 
+99
+]);
+q
+.
+enqueueTx
+(
+tx
+, { to: 
+'
+[email protected]
+'
+, order_id: 
+42
+ });
+tx
+.
+commit
+();
+
+// Worker wakes on any commit to the db, no polling.
+const 
+waker
+ = 
+q
+.
+claimWaker
+();
+while
+ (
+true
+) {
+ 
+const 
+job
+ = await 
+waker
+.
+next
+(
+'
+worker-1
+'
+);
+ 
+if
+ (
+!
+job
+) 
+break
+;
+ 
+await
+ 
+sendEmail
+(
+job
+.
+payload
+);
+ 
+job
+.
+ack
+();
+}
+ 
+ 
+use
+ honker
+::
+{Database, QueueOpts, EnqueueOpts};
+use
+ serde_json
+::
+json;
+
+let
+ 
+db
+ 
+=
+ Database
+::
+open
+(
+"
+app.db
+"
+)
+?
+;
+let
+ 
+q
+ 
+=
+ 
+db
+.
+queue
+(
+"
+emails
+"
+, QueueOpts
+::
+default
+());
+
+let
+ 
+tx
+ 
+=
+ 
+db
+.
+transaction
+()
+?
+;
+tx
+.
+execute
+(
+"
+INSERT INTO orders (id, total) VALUES (?, ?)
+"
+,
+ 
+rusqlite
+::
+params!
+[
+42
+, 
+99
+])
+?
+;
+q
+.
+enqueue_tx
+(
+&
+tx
+,
+ 
+&
+json!
+({
+"
+to
+"
+:
+ 
+"
+[email protected]
+"
+, 
+"
+order_id
+"
+:
+ 
+42
+}),
+ 
+EnqueueOpts
+::
+default
+())
+?
+;
+tx
+.
+commit
+()
+?
+;
+
+if
+ 
+let
+ Some(
+job
+) 
+=
+ 
+q
+.
+claim_one
+(
+"
+worker-1
+"
+)
+?
+ {
+ 
+send_email
+(
+&
+job
+.
+payload)
+?
+;
+ 
+job
+.
+ack
+()
+?
+;
+}
+ 
+ 
+import
+ 
+honker
+ 
+"
+github.com/russellromney/honker-go
+"
+
+db
+, 
+_
+ 
+:=
+ 
+honker
+.
+Open
+(
+"
+app.db
+"
+, 
+"
+./libhonker_ext.dylib
+"
+)
+defer
+ 
+db
+.
+Close
+()
+
+q
+ 
+:=
+ 
+db
+.
+Queue
+(
+"
+emails
+"
+, honker.QueueOptions{})
+
+tx
+, 
+_
+ 
+:=
+ 
+db
+.
+Begin
+()
+tx
+.
+Exec
+(
+"
+INSERT INTO orders (id, total) VALUES (?, ?)
+"
+, 
+42
+, 
+99
+)
+q
+.
+EnqueueTx
+(
+tx
+, 
+map
+[
+string
+]any{
+ 
+"
+to
+"
+: 
+"
+[email protected]
+"
+, 
+"
+order_id
+"
+: 
+42
+,
+}, honker.EnqueueOptions{})
+tx
+.
+Commit
+()
+
+if
+ 
+job
+, 
+_
+ 
+:=
+ 
+q
+.
+ClaimOne
+(
+"
+worker-1
+"
+); 
+job
+ 
+!=
+ 
+nil
+ {
+ 
+var
+ 
+p
+ 
+map
+[
+string
+]any
+ 
+job
+.
+UnmarshalPayload
+(
+&
+p
+)
+ 
+sendEmail
+(
+p
+)
+ 
+job
+.
+Ack
+()
+}
+ 
+ 
+require
+ 
+"
+honker
+"
+
+db
+ 
+=
+ 
+Honker
+::
+Database
+.
+new
+(
+"
+app.db
+"
+, 
+extension_path
+:
+ 
+"
+./libhonker_ext.dylib
+"
+)
+q
+ 
+=
+ db.
+queue
+(
+"
+emails
+"
+)
+
+db.
+transaction
+ 
+do
+ |
+tx
+|
+ 
+tx.
+execute
+(
+"
+INSERT INTO orders (id, total) VALUES (?, ?)
+"
+, [
+42
+, 
+99
+])
+ 
+q.
+enqueue
+({
+to
+:
+ 
+"
+[email protected]
+"
+, 
+order_id
+:
+ 
+42
+}, 
+tx
+:
+ tx)
+end
+
+if
+ (
+job
+ = q.
+claim_one
+(
+"
+worker-1
+"
+))
+ 
+send_email(job.payload)
+ 
+job.
+ack
+end
+ 
+ 
+import
+ { open } 
+from
+ 
+"
+@russellthehippo/honker-bun
+"
+;
+
+const 
+db
+ = 
+open
+(
+"
+app.db
+"
+, 
+"
+./libhonker_ext.dylib
+"
+);
+const 
+q
+ = 
+db
+.
+queue
+(
+"
+emails
+"
+);
+
+const 
+tx
+ = 
+db
+.
+transaction
+();
+tx
+.
+execute
+(
+"
+INSERT INTO orders (id, total) VALUES (?, ?)
+"
+, [
+42
+, 
+99
+]);
+q
+.
+enqueue
+({ to: 
+"
+[email protected]
+"
+, order_id: 
+42
+ }, { tx });
+tx
+.
+commit
+();
+
+const 
+job
+ = 
+q
+.
+claimOne
+(
+"
+worker-1
+"
+);
+if
+ (job) {
+ 
+await
+ 
+sendEmail
+(job
+.
+payload
+ 
+as
+ { to
+:
+ 
+string
+ });
+ 
+job
+.
+ack
+();
+}
+ 
+ 
+{
+:ok
+, db} 
+=
+ Honker.
+open
+(
+"
+app.db
+"
+, 
+extension_path:
+ 
+"
+./libhonker_ext.dylib
+"
+)
+q 
+=
+ Honker.
+queue
+(db, 
+"
+emails
+"
+)
+
+Honker.
+transaction
+(db, 
+fn
+ tx 
+->
+ 
+Honker.
+execute
+(tx, 
+"
+INSERT INTO orders (id, total) VALUES (?, ?)
+"
+, [
+42
+, 
+99
+])
+ 
+Honker.Queue.
+enqueue
+(q, %{
+to:
+ 
+"
+[email protected]
+"
+, 
+order_id:
+ 
+42
+}, 
+tx:
+ tx)
+end
+)
+
+case
+ Honker.Queue.
+claim_one
+(q, 
+"
+worker-1
+"
+) 
+do
+ 
+{
+:ok
+, 
+nil
+} 
+->
+ 
+:ok
+ 
+{
+:ok
+, job} 
+->
+ 
+send_email
+(job.payload)
+ 
+Honker.Job.
+ack
+(db, job)
+end
+ 
+ 
+#include
+ 
+"
+honker.hpp
+"
+
+int
+ 
+main
+() {
+ 
+honker::Database db{
+"
+app.db
+"
+, 
+"
+./libhonker_ext.dylib
+"
+};
+ 
+auto
+ q 
+=
+ 
+db
+.
+queue
+(
+"
+emails
+"
+);
+
+ 
+{
+ 
+honker::Transaction tx{
+db
+.
+raw
+()};
+ 
+tx
+.
+execute
+(
+"
+INSERT INTO orders (id, total) VALUES (?, ?)
+"
+, {
+42
+, 
+99
+});
+ 
+q
+.
+enqueue_tx
+(tx, 
+R"(
+{"to":"alice","order_id":42}
+)"
+);
+ 
+tx
+.
+commit
+();
+ 
+}
+
+ 
+auto
+ job 
+=
+ 
+q
+.
+claim_one
+(
+"
+worker-1
+"
+);
+ 
+if
+ (job) {
+ 
+send_email
+(
+job
+->
+payload
+());
+ 
+job
+->
+ack
+();
+ 
+}
+}
+ 
+ 
+.
+load
+ .
+/
+libhonker_ext
+SELECT
+ honker_bootstrap();
+
+BEGIN
+;
+INSERT INTO
+ orders (id, total) 
+VALUES
+ (
+42
+, 
+99
+);
+SELECT
+ honker_enqueue(
+'
+emails
+'
+, 
+'
+{"to":"alice","order_id":42}
+'
+,
+ 
+NULL
+, 
+NULL
+, 
+0
+, 
+3
+, 
+NULL
+);
+COMMIT
+;
+
+SELECT
+ honker_claim_batch(
+'
+emails
+'
+, 
+'
+worker-1
+'
+, 
+32
+, 
+300
+);
+SELECT
+ honker_ack_batch(
+'
+[1,2,3]
+'
+, 
+'
+worker-1
+'
+);
+ 
+ 
+ 
+
+## How it works
+
+Section titled “How it works”
+
+honker polls SQLite’sPRAGMA data_versionevery millisecond. That’s a monotonic counter SQLite increments on every commit from any connection, journal mode, or process — a ~3 µs read for a precise wake signal. A background thread fans the tick out to every subscriber, which runsSELECT ... WHERE id > last_seenand yields new rows. One poller thread per database regardless of subscriber count.
+
+Idle cost is that one lightweight SELECT per millisecond per database — no page-cache pressure, no writer-lock contention, no kernel file watcher in the mix. Listener count scales for free because the wake signal is one shared poll, not one query per listener.
+
+The queue, stream, and pub/sub primitives are all INSERTs into tables managed by the extension. Callingqueue.enqueue(payload, tx=tx)inside your business transaction means the job row is ACID with theINSERT INTO ordersthat preceded it. Rollback drops the job along with everything else.
+
+## Prior art
+
+Section titled “Prior art”
+
+pg_notifygives you fast cross-process triggers but no retry or visibility.Hueyis the SQLite-backed Python task queue honker draws the most from.pg-bossandObanare the Postgres-side gold standards. If you already run Postgres, use those.
+
+## Install
+
+Section titled “Install”
+
+ 
+ 
+* Python
+* Node
+* Rust
+* Go
+* Ruby
+* Bun
+* Elixir
+* C++
+* SQLite extension
+ 
+ 
+ 
+Terminal window
+pip
+ 
+install
+ 
+honker
+ 
+ 
+Terminal window
+npm
+ 
+install
+ 
+@russellthehippo/honker-node
+ 
+ 
+Terminal window
+cargo
+ 
+add
+ 
+honker
+ 
+ 
+Terminal window
+go
+ 
+get
+ 
+github.com/russellromney/honker-go
+ 
+ 
+Terminal window
+gem
+ 
+install
+ 
+honker
+ 
+ 
+Terminal window
+bun
+ 
+add
+ 
+@russellthehippo/honker-bun
+ 
+ 
+mix.exs
+{
+:honker
+, 
+"
+~> 0.1
+"
+}
+ 
+ 
+Terminal window
+git
+ 
+clone
+ 
+https://github.com/russellromney/honker-cpp.git
+cd
+ 
+honker-cpp
+zig
+ 
+build
+ 
+ 
+Terminal window
+# Build from source — it's one crate
+cargo
+ 
+build
+ 
+--release
+ 
+-p
+ 
+honker-extension
+# → target/release/libhonker_ext.{dylib,so}
