@@ -620,6 +620,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "IBM Bob reaches general availability (3 minute read)",
+    "url": "https://www.theregister.com/2026/04/28/ibms_ai_coding_partner_bob/",
+    "description": "IBM Bob reaches general availability (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-04-30",
+    "site_name": "tldr"
+  },
+  {
     "title": "IT turns AI inward (4 minute read)",
     "url": "https://www.cio.com/article/4163373/cios-bring-ai-transformation-home-to-it-workflows.html",
     "description": "IT turns AI inward (4 minute read)",
@@ -1190,16 +1200,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "US reportedly charges Scattered Spider hacker arrested in Finland (2 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
-    "description": "US reportedly charges Scattered Spider hacker arrested in Finland (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-04-30",
-    "site_name": "tldr"
-  },
-  {
     "title": "Vague prompt vs. creative direction (1 minute read)",
     "url": "https://threadreaderapp.com/thread/2048820485123870776.html",
     "description": "Vague prompt vs. creative direction (1 minute read)",
@@ -1320,9 +1320,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Windows blocks risky RDP files (2 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files",
-    "description": "Windows blocks risky RDP files (2 minute read)",
+    "title": "tda-mapper (GitHub Repo)",
+    "url": "https://github.com/lucasimi/tda-mapper-python",
+    "description": "tda-mapper (GitHub Repo)",
     "tags": [
       "tldr"
     ],
