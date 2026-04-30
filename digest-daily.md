@@ -1,60 +1,62 @@
 ---
-date: '2026-04-29'
+date: '2026-04-30'
 model: gpt-oss:120b-cloud
-generated_at: '2026-04-29T06:03:51.366606'
+generated_at: '2026-04-30T12:33:49.593793'
 ---
 
-## Executive Summary  
-- Google’s newly disclosed Pentagon contract authorizes “any lawful” AI use, sparking fresh debate over military applications of the company’s models.  
-- Amazon expands its AI portfolio on AWS with OpenAI models and launches an audio‑driven Q&A shopping assistant, while AWS’s Bedrock Managed Agents signal a deeper rivalry with Microsoft’s Azure.  
-- GitHub Copilot will begin charging GitHub Actions minutes for code‑review runs on private repos, adding a cost layer for developers.  
-- The software‑stock market sees a sharp weekly dip for seat‑based SaaS firms but a 12‑month rally for AI‑enabled infrastructure and security players, underscoring a sector‑wide pricing shift.  
-- GM’s Super Cruise hits the one‑billion‑mile mark, demonstrating growing consumer acceptance of Level‑2+ driver assistance, even as the semiconductor supply chain tightens around ASML’s EUV lithography monopoly.
-
----
-
-# AI and Machine Learning  
-
-- **Officially Introducing: The Google AI and Google Cloud Run Badges** [devto] – Google rolls out new community badges for high‑quality AI posts and first‑time Cloud Run embeds, coupled with a writing challenge that offers cash prizes and exclusive DEV badges, closing April 29.  
-- **GitHub Copilot code review will start consuming GitHub Actions minutes on June 1 2026** [GitHub Changelog] – From June 1, Copilot code‑review runs on private repos will draw from the organization’s Actions‑minute allotment and be billed as AI Credits, while public repos remain free.  
-- **Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI** [The Verge] – A classified contract lets the U.S. Department of Defense employ Google’s models for any lawful purpose, with informal safeguards against domestic surveillance and autonomous weapons, despite internal staff protests.  
-- **Amazon is already offering new OpenAI products on AWS** [TechCrunch] – AWS adds OpenAI’s latest models, Codex, and a “Bedrock Managed Agents” service, positioning itself as a direct competitor to Microsoft’s Azure after OpenAI lifted Microsoft’s exclusivity.  
-- **Amazon launches an AI‑powered audio Q&A experience on product pages** [TechCrunch] – The “Join the chat” feature lets shoppers ask product questions via voice or text and receive real‑time, conversational audio answers, extending Amazon’s “Hear the highlights” audio summaries.  
-- **5‑Day AI Agents: Intensive Vibe Coding Course With Google** [Kaggle] – *[summary not provided; article pending further detail]*.  
-- **A Terrible, Terrible Week in Software Stocks…** [SaaStr] – ServiceNow’s earnings miss and margin cut trigger a steep sell‑off for seat‑based SaaS, while infrastructure and security firms (Cloudflare, MongoDB, Datadog) post strong 12‑month gains, highlighting AI’s reshaping of SaaS pricing models.  
-- **A billion miles in less than a decade: GM's Super Cruise reaches a milestone** [Ars Technica] – GM’s hands‑free driver‑assist system surpasses one billion miles, with usage doubling year‑over‑year and a roadmap toward Level 3 “eyes‑off” capability by 2028.
+## Executive Summary
+- Maryland became the first U.S. state to outlaw dynamic pricing in grocery stores, signaling a growing regulatory push against data‑driven price discrimination.  
+- OpenAI’s new agreement with Microsoft opens its models to all clouds, and AWS is positioning Bedrock Managed Agents as a “Codex in AWS,” highlighting a strategic shift in the AI‑cloud landscape.  
+- Amazon Web Services reported record‑fast growth driven by AI workloads, but the surge in capital spending sharply compressed free cash flow.  
+- A critical Linux kernel vulnerability (CVE‑2026‑31431) puts multi‑tenant hosts and container platforms at risk of local‑privilege escalation.  
+- Samsung’s long‑running succession saga continues to unfold as Lee Jae‑yong navigates legal battles and family dynamics within the world’s largest chaebol.
 
 ---
 
-# Software Engineering and Dev Tools  
+## AI and Machine Learning (8 articles)
 
-- **What It Actually Feels Like to Build Something You're Proud Of** [devto] – The piece maps the emotional arc of developers from initial dread, through a “saggy middle,” to the calm after shipping, arguing that pride in shipped work outweighs perfection.  
-- **GTFOBins** [hackernews_api] – An open‑source catalog of Unix binaries that can be abused for privilege escalation and other post‑exploitation actions, serving both attackers and defenders as a “live‑off‑the‑land” reference.  
-- **Ghostty Is Leaving GitHub – Mitchell Hashimoto** [hnrss] – After years of reliance, the author departs GitHub due to repeated outages, planning a phased migration while keeping a read‑only mirror of the repository.  
-- **110 Free Agent Skills — AI Agent Tools, Cursor Rules & Claude Code Skills** [tldr] – YepAPI releases 110 ready‑to‑install “agent skills” that act as cheat‑sheets for dozens of AI coding assistants, reducing hallucinations and improving productivity across tools like Claude, Cursor, and Copilot.  
-- **A DOGE Affiliate Is Now in Charge of the US Government’s ID Platform** [WIRED] – Greg Hogan, a former Comma.ai executive and DOGE affiliate, becomes acting assistant commissioner of the GSA’s Technology Transformation Services, tasked with expanding Login.gov into a national‑scale identity platform.
+### Forking Paseo: Mobile vibe coding for me – DEV Community  
+*The author describes forking the open‑source Paseo app to let AI coding agents be controlled from a phone, adding session hand‑off, slash‑command autocomplete, and sub‑agent visibility while keeping all execution local.*
 
----
+### Maryland becomes first state to ban surveillance pricing in grocery stores – The Guardian  
+*Governor Wes Moore signed legislation prohibiting retailers and delivery services from using personal data to set higher prices, though enforcement is limited to the state attorney general and private lawsuits are barred.*
 
-# Open Source  
+### Twelve centuries of cherry blossoms — peak bloom in Kyoto, 812–2026 – Hacker News  
+*Analysis of 1,215 years of Kyoto sakura bloom dates shows a clear shift toward earlier peaks in the modern era, with the 2026 bloom occurring two weeks earlier than the pre‑modern average.*
 
-- **LocalSend – Open‑source cross‑platform alternative to AirDrop** [GitHub] *(Trending – seen 2×)* – A free, peer‑to‑peer file‑sharing app that works over local networks without internet, supporting Android, iOS, macOS, Windows, Linux, and offering portable mode, hidden start, and extensive packaging options.  
-- **Ghostty Is Leaving GitHub – Mitchell Hashimoto** [hnrss] – (Repeated from Dev Tools section; see above for details.)  
-- **A DOGE Affiliate Is Now in Charge of the US Government’s ID Platform** [WIRED] – (Repeated from Dev Tools section; see above.)
+### A son overlooked and a jailed tycoon: Inside Samsung's succession drama – Newsfeed  
+*The piece traces Lee Jae‑yong’s rise, 2017 bribery conviction, and ongoing family disputes that shape the future leadership of Samsung, South Korea’s dominant conglomerate.*
 
----
+### Amazon, Meta join fight to end Google Pay, PhonePe dominance in India – TechCrunch  
+*Executives from Amazon Pay, Meta (WhatsApp), CRED and others met NPCI to press for regulatory limits on UPI market concentration, citing concerns over user‑acquisition tactics and data use by the two dominant apps.*
 
-# World News and Geopolitics  
+### BBC visits US and UK military base in Iraq as ceasefire continues – Newsfeed  
+*BBC reporters toured a joint US‑UK base, noting intense drone activity and strong operational cooperation, even as diplomatic tensions rise over the Israel‑Iran conflict.*
 
-- **The world’s most complex machine** [Works in Progress Magazine] – An overview of modern smartphones and the semiconductor supply chain, emphasizing ASML’s monopoly on EUV lithography machines—each costing > $120 million and crucial to the US‑China tech rivalry.
+### An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents – Stratechery  
+*OpenAI’s revised pact with Microsoft lets the company serve models on any cloud; AWS is promoting Bedrock Managed Agents as a managed, cloud‑native AI‑agent platform to capture enterprise workloads.*
 
----
-
-# Uncategorized  
-
-- **Early in her life…** [tldr] – A fragmentary literary excerpt reflecting on a woman’s early years, themes of deception, purpose, and an ominous “new world” revelation.
+### Reddit – Please wait for verification – Reddit  
+*No article content was provided.*
 
 ---
 
-# Notable Mentions  
-- “We’re rebuilding how HubSpot shows up in AI answers. Our data shows 57% of marketers are doing the same. Aja Frost and I dug into this on Field Notes…” [tldr]   (additional mentions omitted for brevity)
+## Software Engineering and Dev Tools (4 articles)
+
+### Copy Fail — CVE‑2026‑31431 – Hacker News  
+*A local‑privilege‑escalation bug in Linux kernels (2017‑present) exploits the AF_ALG crypto API, threatening multi‑tenant hosts, containers, CI runners, and cloud SaaS; mitigation requires patching or disabling the `algif_aead` module.*
+
+### FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies – Hacker News  
+*The author argues that FastCGI’s explicit framing eliminates HTTP desync and header‑injection risks for reverse‑proxy communication, and shows how a single line change swaps HTTP for FastCGI in Go services.*
+
+---
+
+## Cloud and Infrastructure (1 articles)
+
+### Amazon's cloud business is surging — and so is its capital spending – TechCrunch  
+*AWS posted a 28 % YoY sales jump to $37.6 bn, driven by AI workloads, while capital expenditures surged to $59.3 bn, compressing free cash flow but positioning the business for long‑term growth.*
+
+---
+
+## Notable Mentions
+- Are Prediction Markets Good for Anything?—Asterisk [tldr]
