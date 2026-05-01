@@ -1,62 +1,79 @@
 [
   {
-    "title": "10Gb/s Ethernet: what I did to get it working in my home",
-    "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
-    "author": "gpjt",
-    "date": "2026-04-29",
-    "score": 208,
-    "comments": 149,
-    "id": 47947944,
-    "discussion_url": "https://news.ycombinator.com/item?id=47947944",
-    "description": "10Gb/s Ethernet: what I did to get it working in my home",
+    "title": "AI uses less water than the public thinks",
+    "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+    "author": "hirpslop",
+    "date": "2026-05-01",
+    "score": 185,
+    "comments": 159,
+    "id": 47977383,
+    "discussion_url": "https://news.ycombinator.com/item?id=47977383",
+    "description": "AI uses less water than the public thinks",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666430"
+    "fetched_at": "2026-05-01T20:03:42.631607"
   },
   {
-    "title": "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
-    "url": "https://pomax.github.io/bezierinfo/",
-    "author": "mostlyk",
+    "title": "An open letter asking NHS England to keep its code open",
+    "url": "https://keepthingsopen.com",
+    "author": "tvararu",
+    "date": "2026-05-01",
+    "score": 165,
+    "comments": 11,
+    "id": 47975785,
+    "discussion_url": "https://news.ycombinator.com/item?id=47975785",
+    "description": "An open letter asking NHS England to keep its code open",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T20:03:42.631617"
+  },
+  {
+    "title": "Apple accidentally left Claude.md files Apple Support app",
+    "url": "https://x.com/aaronp613/status/2049986504617820551",
+    "author": "andruby",
+    "date": "2026-05-01",
+    "score": 351,
+    "comments": 281,
+    "id": 47973378,
+    "discussion_url": "https://news.ycombinator.com/item?id=47973378",
+    "description": "Apple accidentally left Claude.md files Apple Support app",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T20:03:42.631789"
+  },
+  {
+    "title": "Auto Polo",
+    "url": "https://en.wikipedia.org/wiki/Auto_polo",
+    "author": "canjobear",
     "date": "2026-04-28",
-    "score": 140,
-    "comments": 21,
-    "id": 47933934,
-    "discussion_url": "https://news.ycombinator.com/item?id=47933934",
-    "description": "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
+    "score": 103,
+    "comments": 27,
+    "id": 47936184,
+    "discussion_url": "https://news.ycombinator.com/item?id=47936184",
+    "description": "Auto Polo",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666465"
-  },
-  {
-    "title": "American Dads Became the Parents Their Fathers Never Were",
-    "url": "https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time",
-    "author": "ozozozd",
-    "date": "2026-04-30",
-    "score": 112,
-    "comments": 128,
-    "id": 47965027,
-    "discussion_url": "https://news.ycombinator.com/item?id=47965027",
-    "description": "American Dads Became the Parents Their Fathers Never Were",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666444"
+    "fetched_at": "2026-05-01T20:03:42.631816"
   },
   {
     "title": "Belgium stops decommissioning nuclear power plants",
     "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
     "author": "mpweiher",
     "date": "2026-04-30",
-    "score": 829,
-    "comments": 862,
+    "score": 848,
+    "comments": 930,
     "id": 47961319,
     "discussion_url": "https://news.ycombinator.com/item?id=47961319",
     "description": "Belgium stops decommissioning nuclear power plants",
@@ -65,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666401"
+    "fetched_at": "2026-05-01T20:03:42.631833"
   },
   {
     "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
     "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
     "author": "zikani_03",
     "date": "2026-04-30",
-    "score": 117,
-    "comments": 48,
+    "score": 142,
+    "comments": 57,
     "id": 47969288,
     "discussion_url": "https://news.ycombinator.com/item?id=47969288",
     "description": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
@@ -82,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666362"
+    "fetched_at": "2026-05-01T20:03:42.631768"
   },
   {
     "title": "Can I disable all data collection from my vehicle?",
     "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
     "author": "Cider9986",
     "date": "2026-04-30",
-    "score": 641,
-    "comments": 266,
+    "score": 711,
+    "comments": 321,
     "id": 47967786,
     "discussion_url": "https://news.ycombinator.com/item?id=47967786",
     "description": "Can I disable all data collection from my vehicle?",
@@ -99,49 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666369"
+    "fetched_at": "2026-05-01T20:03:42.631772"
   },
   {
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "url": "https://twitter.com/theo/status/2049645973350363168",
-    "author": "elmean",
-    "date": "2026-04-30",
-    "score": 1192,
-    "comments": 659,
-    "id": 47963204,
-    "discussion_url": "https://news.ycombinator.com/item?id=47963204",
-    "description": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "title": "Canonical/Ubuntu have been under DDoS",
+    "url": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
+    "author": "jtlebigot",
+    "date": "2026-05-01",
+    "score": 127,
+    "comments": 46,
+    "id": 47972213,
+    "discussion_url": "https://news.ycombinator.com/item?id=47972213",
+    "description": "Canonical/Ubuntu have been under DDoS",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666366"
-  },
-  {
-    "title": "Copy Fail",
-    "url": "https://copy.fail/",
-    "author": "unsnap_biceps",
-    "date": "2026-04-29",
-    "score": 1399,
-    "comments": 491,
-    "id": 47952181,
-    "discussion_url": "https://news.ycombinator.com/item?id=47952181",
-    "description": "Copy Fail",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666498"
+    "fetched_at": "2026-05-01T20:03:42.631718"
   },
   {
     "title": "Does Postgres Scale?",
     "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
     "author": "KraftyOne",
     "date": "2026-04-30",
-    "score": 142,
-    "comments": 64,
+    "score": 167,
+    "comments": 69,
     "id": 47966625,
     "discussion_url": "https://news.ycombinator.com/item?id=47966625",
     "description": "Does Postgres Scale?",
@@ -150,32 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666416"
+    "fetched_at": "2026-05-01T20:03:42.631813"
   },
   {
-    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-    "author": "ori_b",
-    "date": "2026-04-30",
-    "score": 519,
-    "comments": 415,
-    "id": 47965108,
-    "discussion_url": "https://news.ycombinator.com/item?id=47965108",
-    "description": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+    "title": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
+    "url": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
+    "author": "johnbarron",
+    "date": "2026-05-01",
+    "score": 161,
+    "comments": 115,
+    "id": 47977450,
+    "discussion_url": "https://news.ycombinator.com/item?id=47977450",
+    "description": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666307"
+    "fetched_at": "2026-05-01T20:03:42.631743"
   },
   {
     "title": "Full-Text Search with DuckDB",
     "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
     "author": "ethagnawl",
     "date": "2026-04-30",
-    "score": 152,
-    "comments": 31,
+    "score": 175,
+    "comments": 33,
     "id": 47966254,
     "discussion_url": "https://news.ycombinator.com/item?id=47966254",
     "description": "Full-Text Search with DuckDB",
@@ -184,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666387"
+    "fetched_at": "2026-05-01T20:03:42.631802"
   },
   {
     "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
     "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
     "author": "steveharing1",
     "date": "2026-04-30",
-    "score": 295,
-    "comments": 190,
+    "score": 302,
+    "comments": 200,
     "id": 47960507,
     "discussion_url": "https://news.ycombinator.com/item?id=47960507",
     "description": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
@@ -201,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666434"
+    "fetched_at": "2026-05-01T20:03:42.631826"
   },
   {
     "title": "Grok 4.3",
     "url": "https://docs.x.ai/developers/models/grok-4.3",
     "author": "simianwords",
     "date": "2026-05-01",
-    "score": 132,
-    "comments": 158,
+    "score": 353,
+    "comments": 471,
     "id": 47972447,
     "discussion_url": "https://news.ycombinator.com/item?id=47972447",
     "description": "Grok 4.3",
@@ -218,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666330"
+    "fetched_at": "2026-05-01T20:03:42.631749"
   },
   {
     "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
     "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
     "author": "the-mitr",
     "date": "2026-04-30",
-    "score": 617,
-    "comments": 208,
+    "score": 677,
+    "comments": 240,
     "id": 47965060,
     "discussion_url": "https://news.ycombinator.com/item?id=47965060",
     "description": "How Mark Klein told the EFF about Room 641A [book excerpt]",
@@ -235,66 +235,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666295"
+    "fetched_at": "2026-05-01T20:03:42.631823"
   },
   {
-    "title": "How an oil refinery works",
-    "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-    "author": "chmaynard",
-    "date": "2026-04-30",
-    "score": 439,
-    "comments": 136,
-    "id": 47962548,
-    "discussion_url": "https://news.ycombinator.com/item?id=47962548",
-    "description": "How an oil refinery works",
+    "title": "I Got Sick of Remembering Port Numbers",
+    "url": "https://gregraiz.com/blog/local-vibe/",
+    "author": "graiz",
+    "date": "2026-04-28",
+    "score": 128,
+    "comments": 133,
+    "id": 47939246,
+    "discussion_url": "https://news.ycombinator.com/item?id=47939246",
+    "description": "I Got Sick of Remembering Port Numbers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666349"
+    "fetched_at": "2026-05-01T20:03:42.631809"
   },
   {
-    "title": "I aggregated 28 US Government auction sites into one search",
-    "url": "https://bidprowl.com",
-    "author": "scarsam",
+    "title": "If I could make my own GitHub",
+    "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+    "author": "matricaria",
     "date": "2026-04-30",
-    "score": 285,
-    "comments": 79,
-    "id": 47961378,
-    "discussion_url": "https://news.ycombinator.com/item?id=47961378",
-    "description": "I aggregated 28 US Government auction sites into one search",
+    "score": 120,
+    "comments": 135,
+    "id": 47962269,
+    "discussion_url": "https://news.ycombinator.com/item?id=47962269",
+    "description": "If I could make my own GitHub",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666405"
-  },
-  {
-    "title": "I built a Game Boy emulator in F#",
-    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-    "author": "elvis70",
-    "date": "2026-04-30",
-    "score": 290,
-    "comments": 66,
-    "id": 47965503,
-    "discussion_url": "https://news.ycombinator.com/item?id=47965503",
-    "description": "I built a Game Boy emulator in F#",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666285"
+    "fetched_at": "2026-05-01T20:03:42.631762"
   },
   {
     "title": "Maladaptive Frugality",
     "url": "https://herbertlui.net/maladaptive-frugality/",
     "author": "herbertl",
     "date": "2026-04-29",
-    "score": 120,
-    "comments": 93,
+    "score": 200,
+    "comments": 225,
     "id": 47942863,
     "discussion_url": "https://news.ycombinator.com/item?id=47942863",
     "description": "Maladaptive Frugality",
@@ -303,32 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666355"
+    "fetched_at": "2026-05-01T20:03:42.631756"
   },
   {
-    "title": "Mozilla's opposition to Chrome's Prompt API",
-    "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-    "author": "jaffathecake",
-    "date": "2026-04-30",
-    "score": 625,
-    "comments": 224,
-    "id": 47959463,
-    "discussion_url": "https://news.ycombinator.com/item?id=47959463",
-    "description": "Mozilla's opposition to Chrome's Prompt API",
+    "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+    "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+    "author": "giuliomagnifico",
+    "date": "2026-04-29",
+    "score": 189,
+    "comments": 115,
+    "id": 47946899,
+    "discussion_url": "https://news.ycombinator.com/item?id=47946899",
+    "description": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666488"
+    "fetched_at": "2026-05-01T20:03:42.631703"
   },
   {
     "title": "New mechanical panoramic film camera from Jeff Bridges",
     "url": "https://wideluxx.com",
     "author": "armadsen",
     "date": "2026-04-28",
-    "score": 158,
-    "comments": 75,
+    "score": 198,
+    "comments": 95,
     "id": 47937033,
     "discussion_url": "https://news.ycombinator.com/item?id=47937033",
     "description": "New mechanical panoramic film camera from Jeff Bridges",
@@ -337,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666384"
+    "fetched_at": "2026-05-01T20:03:42.631775"
   },
   {
     "title": "OpenWarp",
     "url": "https://openwarp.zerx.dev",
     "author": "zero-lab",
     "date": "2026-05-01",
-    "score": 107,
-    "comments": 92,
+    "score": 183,
+    "comments": 134,
     "id": 47970622,
     "discussion_url": "https://news.ycombinator.com/item?id=47970622",
     "description": "OpenWarp",
@@ -354,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666321"
+    "fetched_at": "2026-05-01T20:03:42.631739"
   },
   {
     "title": "Opus 4.7 knows the real Kelsey",
     "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
     "author": "ilamont",
     "date": "2026-04-29",
-    "score": 371,
-    "comments": 193,
+    "score": 452,
+    "comments": 244,
     "id": 47951295,
     "discussion_url": "https://news.ycombinator.com/item?id=47951295",
     "description": "Opus 4.7 knows the real Kelsey",
@@ -371,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666352"
+    "fetched_at": "2026-05-01T20:03:42.631732"
   },
   {
     "title": "Reverse Engineering SimTower",
     "url": "https://phulin.me/blog/simtower",
     "author": "patrickhulin",
     "date": "2026-04-28",
-    "score": 211,
-    "comments": 49,
+    "score": 239,
+    "comments": 71,
     "id": 47937814,
     "discussion_url": "https://news.ycombinator.com/item?id=47937814",
     "description": "Reverse Engineering SimTower",
@@ -388,15 +371,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666380"
+    "fetched_at": "2026-05-01T20:03:42.631786"
+  },
+  {
+    "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+    "url": "https://www.pagetable.com/?p=1854",
+    "author": "ingve",
+    "date": "2026-05-01",
+    "score": 107,
+    "comments": 23,
+    "id": 47973755,
+    "discussion_url": "https://news.ycombinator.com/item?id=47973755",
+    "description": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T20:03:42.631679"
   },
   {
     "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
     "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
     "author": "j12y",
     "date": "2026-04-30",
-    "score": 406,
-    "comments": 147,
+    "score": 453,
+    "comments": 174,
     "id": 47964617,
     "discussion_url": "https://news.ycombinator.com/item?id=47964617",
     "description": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
@@ -405,15 +405,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666303"
+    "fetched_at": "2026-05-01T20:03:42.631830"
+  },
+  {
+    "title": "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
+    "url": "https://www.ghost.charity/",
+    "author": "keepamovin",
+    "date": "2026-05-01",
+    "score": 104,
+    "comments": 61,
+    "id": 47975472,
+    "discussion_url": "https://news.ycombinator.com/item?id=47975472",
+    "description": "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T20:03:42.631710"
   },
   {
     "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
     "url": "https://github.com/darrylmorley/whatcable",
     "author": "sleepingNomad",
     "date": "2026-05-01",
-    "score": 143,
-    "comments": 44,
+    "score": 328,
+    "comments": 113,
     "id": 47972511,
     "discussion_url": "https://news.ycombinator.com/item?id=47972511",
     "description": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
@@ -422,91 +439,74 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666299"
+    "fetched_at": "2026-05-01T20:03:42.631654"
   },
   {
-    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-    "author": "akyuu",
-    "date": "2026-04-30",
-    "score": 488,
-    "comments": 193,
-    "id": 47964034,
-    "discussion_url": "https://news.ycombinator.com/item?id=47964034",
-    "description": "Spain's parliament will act against massive IP blockages by LaLiga",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666454"
-  },
-  {
-    "title": "The Church Rock Uranium Mill Spill",
-    "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
-    "author": "Sir_Twist",
-    "date": "2026-04-28",
-    "score": 103,
-    "comments": 6,
-    "id": 47939158,
-    "discussion_url": "https://news.ycombinator.com/item?id=47939158",
-    "description": "The Church Rock Uranium Mill Spill",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666451"
-  },
-  {
-    "title": "What can we gain by losing infinity?",
-    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-    "author": "Tomte",
-    "date": "2026-04-29",
-    "score": 113,
-    "comments": 119,
-    "id": 47949616,
-    "discussion_url": "https://news.ycombinator.com/item?id=47949616",
-    "description": "What can we gain by losing infinity?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666468"
-  },
-  {
-    "title": "You can beat the binary search",
-    "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-    "author": "vok",
+    "title": "Softmax, can you derive the Jacobian? And should you care?",
+    "url": "https://idlemachines.co.uk/essays/softmax",
+    "author": "smaddrellmander",
     "date": "2026-04-27",
-    "score": 327,
-    "comments": 144,
-    "id": 47924912,
-    "discussion_url": "https://news.ycombinator.com/item?id=47924912",
-    "description": "You can beat the binary search",
+    "score": 111,
+    "comments": 42,
+    "id": 47927011,
+    "discussion_url": "https://news.ycombinator.com/item?id=47927011",
+    "description": "Softmax, can you derive the Jacobian? And should you care?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666376"
+    "fetched_at": "2026-05-01T20:03:42.631753"
   },
   {
-    "title": "Zed 1.0",
-    "url": "https://zed.dev/blog/zed-1-0",
-    "author": "salkahfi",
-    "date": "2026-04-29",
-    "score": 2087,
-    "comments": 675,
-    "id": 47949027,
-    "discussion_url": "https://news.ycombinator.com/item?id=47949027",
-    "description": "Zed 1.0",
+    "title": "The Gay Jailbreak Technique",
+    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+    "author": "bobsmooth",
+    "date": "2026-05-01",
+    "score": 166,
+    "comments": 50,
+    "id": 47977134,
+    "discussion_url": "https://news.ycombinator.com/item?id=47977134",
+    "description": "The Gay Jailbreak Technique",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T11:58:25.666461"
+    "fetched_at": "2026-05-01T20:03:42.631687"
+  },
+  {
+    "title": "Uber torches 2026 AI budget on Claude Code in four months",
+    "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+    "author": "lwhsiao",
+    "date": "2026-05-01",
+    "score": 340,
+    "comments": 376,
+    "id": 47976415,
+    "discussion_url": "https://news.ycombinator.com/item?id=47976415",
+    "description": "Uber torches 2026 AI budget on Claude Code in four months",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T20:03:42.631736"
+  },
+  {
+    "title": "Your website is not for you",
+    "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+    "author": "pumbaa",
+    "date": "2026-05-01",
+    "score": 225,
+    "comments": 165,
+    "id": 47973376,
+    "discussion_url": "https://news.ycombinator.com/item?id=47973376",
+    "description": "Your website is not for you",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T20:03:42.631728"
   }
 ]

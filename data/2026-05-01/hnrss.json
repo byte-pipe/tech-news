@@ -1,257 +1,167 @@
 [
   {
-    "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
-    "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-    "description": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
-    "date": "2026-04-30",
-    "score": 117,
-    "comments": 48,
-    "discussion_url": "https://news.ycombinator.com/item?id=47969288",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082139"
-  },
-  {
-    "title": "Can I disable all data collection from my vehicle?",
-    "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-    "description": "Can I disable all data collection from my vehicle?",
-    "date": "2026-04-30",
-    "score": 641,
-    "comments": 266,
-    "discussion_url": "https://news.ycombinator.com/item?id=47967786",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082151"
-  },
-  {
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "url": "https://twitter.com/theo/status/2049645973350363168",
-    "description": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "date": "2026-04-30",
-    "score": 1192,
-    "comments": 659,
-    "discussion_url": "https://news.ycombinator.com/item?id=47963204",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082230"
-  },
-  {
-    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-    "description": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-    "date": "2026-04-30",
-    "score": 519,
-    "comments": 415,
-    "discussion_url": "https://news.ycombinator.com/item?id=47965108",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082194"
-  },
-  {
-    "title": "Full-Text Search with DuckDB",
-    "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-    "description": "Full-Text Search with DuckDB",
-    "date": "2026-04-30",
-    "score": 152,
-    "comments": 31,
-    "discussion_url": "https://news.ycombinator.com/item?id=47966254",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082163"
-  },
-  {
-    "title": "Grok 4.3",
-    "url": "https://docs.x.ai/developers/models/grok-4.3",
-    "description": "Grok 4.3",
+    "title": "AI uses less water than the public thinks",
+    "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+    "description": "AI uses less water than the public thinks",
     "date": "2026-05-01",
-    "score": 132,
-    "comments": 158,
-    "discussion_url": "https://news.ycombinator.com/item?id=47972447",
+    "score": 185,
+    "comments": 159,
+    "discussion_url": "https://news.ycombinator.com/item?id=47977383",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082113"
+    "fetched_at": "2026-05-01T20:03:51.744261"
   },
   {
-    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-    "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-    "description": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-    "date": "2026-04-30",
-    "score": 617,
-    "comments": 208,
-    "discussion_url": "https://news.ycombinator.com/item?id=47965060",
+    "title": "Advanced Quantization Algorithm for LLMs",
+    "url": "https://github.com/intel/auto-round",
+    "description": "Advanced Quantization Algorithm for LLMs",
+    "date": "2026-05-01",
+    "score": 102,
+    "comments": 15,
+    "discussion_url": "https://news.ycombinator.com/item?id=47972659",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082207"
+    "fetched_at": "2026-05-01T20:03:51.744372"
   },
   {
-    "title": "How an oil refinery works",
-    "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-    "description": "How an oil refinery works",
-    "date": "2026-04-30",
-    "score": 439,
-    "comments": 136,
-    "discussion_url": "https://news.ycombinator.com/item?id=47962548",
+    "title": "An open letter asking NHS England to keep its code open",
+    "url": "https://keepthingsopen.com",
+    "description": "An open letter asking NHS England to keep its code open",
+    "date": "2026-05-01",
+    "score": 165,
+    "comments": 11,
+    "discussion_url": "https://news.ycombinator.com/item?id=47975785",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082241"
+    "fetched_at": "2026-05-01T20:03:51.744301"
   },
   {
-    "title": "I built a Game Boy emulator in F#",
-    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-    "description": "I built a Game Boy emulator in F#",
-    "date": "2026-04-30",
-    "score": 290,
-    "comments": 66,
-    "discussion_url": "https://news.ycombinator.com/item?id=47965503",
+    "title": "Ask HN: Who is hiring? (May 2026)",
+    "url": "https://news.ycombinator.com/item?id=47975571",
+    "description": "Ask HN: Who is hiring? (May 2026)",
+    "date": "2026-05-01",
+    "score": 165,
+    "comments": 187,
+    "discussion_url": "https://news.ycombinator.com/item?id=47975571",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082175"
+    "fetched_at": "2026-05-01T20:03:51.744315"
   },
   {
-    "title": "Maladaptive Frugality",
-    "url": "https://herbertlui.net/maladaptive-frugality/",
-    "description": "Maladaptive Frugality",
+    "title": "Canonical/Ubuntu have been under DDoS",
+    "url": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
+    "description": "Canonical/Ubuntu have been under DDoS",
+    "date": "2026-05-01",
+    "score": 127,
+    "comments": 46,
+    "discussion_url": "https://news.ycombinator.com/item?id=47972213",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-01T20:03:51.744398"
+  },
+  {
+    "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+    "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+    "description": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
     "date": "2026-04-29",
-    "score": 120,
-    "comments": 93,
-    "discussion_url": "https://news.ycombinator.com/item?id=47942863",
+    "score": 189,
+    "comments": 115,
+    "discussion_url": "https://news.ycombinator.com/item?id=47946899",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082262"
+    "fetched_at": "2026-05-01T20:03:51.744409"
   },
   {
-    "title": "New mechanical panoramic film camera from Jeff Bridges",
-    "url": "https://wideluxx.com",
-    "description": "New mechanical panoramic film camera from Jeff Bridges",
-    "date": "2026-04-28",
-    "score": 158,
-    "comments": 75,
-    "discussion_url": "https://news.ycombinator.com/item?id=47937033",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082285"
-  },
-  {
-    "title": "OpenWarp",
-    "url": "https://openwarp.zerx.dev",
-    "description": "OpenWarp",
+    "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+    "url": "https://www.pagetable.com/?p=1854",
+    "description": "Running Adobe's 1991 PostScript Interpreter in the Browser",
     "date": "2026-05-01",
     "score": 107,
-    "comments": 92,
-    "discussion_url": "https://news.ycombinator.com/item?id=47970622",
+    "comments": 23,
+    "discussion_url": "https://news.ycombinator.com/item?id=47973755",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082127"
+    "fetched_at": "2026-05-01T20:03:51.744341"
   },
   {
-    "title": "Opus 4.7 knows the real Kelsey",
-    "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-    "description": "Opus 4.7 knows the real Kelsey",
-    "date": "2026-04-29",
-    "score": 371,
-    "comments": 193,
-    "discussion_url": "https://news.ycombinator.com/item?id=47951295",
+    "title": "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
+    "url": "https://www.ghost.charity/",
+    "description": "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
+    "date": "2026-05-01",
+    "score": 104,
+    "comments": 61,
+    "discussion_url": "https://news.ycombinator.com/item?id=47975472",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082251"
-  },
-  {
-    "title": "Reverse Engineering SimTower",
-    "url": "https://phulin.me/blog/simtower",
-    "description": "Reverse Engineering SimTower",
-    "date": "2026-04-28",
-    "score": 211,
-    "comments": 49,
-    "discussion_url": "https://news.ycombinator.com/item?id=47937814",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082274"
-  },
-  {
-    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "description": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-    "date": "2026-04-30",
-    "score": 406,
-    "comments": 147,
-    "discussion_url": "https://news.ycombinator.com/item?id=47964617",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082219"
+    "fetched_at": "2026-05-01T20:03:51.744328"
   },
   {
     "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
     "url": "https://github.com/darrylmorley/whatcable",
     "description": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
     "date": "2026-05-01",
-    "score": 143,
-    "comments": 44,
+    "score": 328,
+    "comments": 113,
     "discussion_url": "https://news.ycombinator.com/item?id=47972511",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082089"
+    "fetched_at": "2026-05-01T20:03:51.744385"
   },
   {
-    "title": "You can beat the binary search",
-    "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-    "description": "You can beat the binary search",
-    "date": "2026-04-27",
-    "score": 327,
-    "comments": 144,
-    "discussion_url": "https://news.ycombinator.com/item?id=47924912",
+    "title": "The Gay Jailbreak Technique",
+    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+    "description": "The Gay Jailbreak Technique",
+    "date": "2026-05-01",
+    "score": 166,
+    "comments": 50,
+    "discussion_url": "https://news.ycombinator.com/item?id=47977134",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-01T11:58:34.082295"
+    "fetched_at": "2026-05-01T20:03:51.744286"
+  },
+  {
+    "title": "Your website is not for you",
+    "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+    "description": "Your website is not for you",
+    "date": "2026-05-01",
+    "score": 225,
+    "comments": 165,
+    "discussion_url": "https://news.ycombinator.com/item?id=47973376",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-01T20:03:51.744353"
   }
 ]
