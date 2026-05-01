@@ -1,96 +1,93 @@
 ---
-date: '2026-05-01'
+date: '2026-05-02'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-01T20:46:35.817626'
+generated_at: '2026-05-02T08:49:06.655269'
 ---
 
-## Executive Summary
-- Meta’s contract termination with Kenyan annotators has ignited a global debate over AI‑generated intimate content, prompting investigations in the UK and Kenya.  
-- Researchers warn that AI evaluation costs are now the primary compute bottleneck, dwarfing even training expenses for large models.  
-- Belgium announced a halt to nuclear decommissioning and is negotiating nationalisation of its reactor fleet, reshaping Europe’s energy outlook.  
-- The genomics community mourns the loss of pioneer J. Craig Venter, whose work underpins modern synthetic biology.  
-- In software infrastructure, cold‑start latency for serverless functions is now considered solved, while CIOs push unified building‑operations platforms to drive enterprise‑wide efficiency.
-
----
-
-## AI and Machine Learning (8 articles)
-
-### ⚡ Dispute over fate of Kenyan workers who saw Meta AI glasses films [hackernews_api]  
-Meta paused and then terminated its contract with outsourcing firm Sama after workers reported reviewing graphic footage captured by AI‑powered glasses, sparking investigations by the UK ICO and Kenya’s data‑protection office. The dispute highlights privacy and labor concerns in the emerging AI annotation ecosystem.
-
-### ⚡ Claude Code refuses requests or charges extra if your commits mention "OpenClaw" [hnrss]  
-The Claude Code service now blocks or fees requests that reference “OpenClaw,” citing browser JavaScript detection and privacy‑extension conflicts as the cause of access errors. Users are directed to enable JavaScript or use supported browsers.
-
-### Congress will act against massive IP blockages by LaLiga | Demócrata [hnrss]  
-*Content not provided; unable to synthesize details.*  
-
-### ⚡ Granite 4.1: IBM's 8B Model Is Competing With Models Four Times Its Size - Firethering [hnrss]  
-IBM’s Granite 4.1 delivers performance on par with models roughly four times larger, demonstrating that architectural efficiency can offset raw parameter count. The article positions the 8‑billion‑parameter model as a cost‑effective alternative in the competitive AI landscape.
-
-### $100 Nintendo gift cards are $20 off at Newegg today | The Verge [newsfeed]  
-Newegg offers a 19 % discount on a twin‑pack of $50 Nintendo eShop cards, part of a broader set of gaming‑hardware deals. The promotion underscores continued consumer demand for Nintendo’s ecosystem ahead of the upcoming Switch 2 launch.
-
-### Turning Point plays old hits and sees new energy in last tour stop : NPR [newsfeed]  
-Turning Point USA’s final campus stop at the University of Idaho drew large, energized crowds, with podcasters Matt Walsh and Michael Knowles delivering interactive, debate‑heavy sessions. Attendance surged compared with earlier stops, reflecting renewed youth interest in the organization’s messaging.
-
-### Reddit – Please wait for verification [reddit]  
-*No article content supplied; synthesis unavailable.*  
-
-### ⚡ AI evals are becoming the new compute bottleneck [tldr]  
-Evaluation pipelines now consume more compute than model training, with static benchmark costs reaching $100 K and agent‑level runs costing millions in token usage. Researchers propose coarse‑to‑fine and aggressive subsampling techniques to mitigate the emerging bottleneck.
+## Executive Summary  
+- Municipal surveillance came under fire after a private vendor accessed live feeds in a children’s gymnastics room, yet the city council renewed the contract, highlighting tensions between public‑safety tech and privacy.  
+- AI agents are accelerating enterprise transformation, prompting CEOs to redesign revenue models and operational workflows, while regulators warn that frontier AI could enable faster, larger cyber‑attacks on banks.  
+- The cultural front of AI is heating up: Spotify rolls out a “Verified” badge to flag human artists, and a dark‑money influencer campaign is weaponising AI narratives against China.  
+- Climate scientists project 2026 to eclipse 2024 as the hottest year on record, underscoring escalating extreme‑weather risks.  
+- In the tech financing arena, Anthropic is courting a $50 bn round that could push its valuation toward $900 bn, positioning it to outpace rivals ahead of a looming IPO.
 
 ---
 
-## Cybersecurity and Privacy (1 article)
+## AI and Machine Learning  
 
-### ⚡ 90,000 Screenshots of One Celebrity's Phone Were Exposed Online | WIRED [newsfeed]  
-A misconfigured cloud bucket leaked 86,859 screenshots harvested by the stalkerware app Cocospy, revealing private messages, invoices, and partial credit‑card numbers. The breach illustrates how spyware data combined with poor cloud security can create massive privacy catastrophes for high‑profile individuals.
+### City Learns Flock Accessed Cameras in Children’s Gymnastics Room as a Sales Pitch Demo, Renews Contract Anyway *(trending)* [hackernews_api]  
+Flock staff demonstrated their product by viewing live video from cameras in a children’s gymnastics room in Dunwoody, Georgia; the breach sparked community outrage, yet the city council voted to renew the surveillance contract, raising questions about accountability and privacy safeguards.
 
----
+### Maladaptive frugality – Herbert Lui [hackernews_api]  
+Lui reflects on “maladaptive frugality,” a habit of over‑saving that hampers personal growth, tracing its roots to cultural attitudes and offering mindfulness‑based strategies to balance thrift with strategic spending.
 
-## Software Engineering and Dev Tools (7 articles)
+### OpenWarp — 为 Warp 解锁自定义 AI 提供商 [hackernews_api]  
+OpenWarp extends the Warp terminal with a BYOP (bring‑your‑own‑provider) layer, supporting six major AI APIs, local credential storage, and dynamic Jinja‑based prompts, all under an open‑source dual‑license model.
 
-### ⚡ Cold Starts Are Dead – DEV Community [devto]  
-Benchmarking shows modern serverless runtimes (Go, Rust, Python, Node) achieve sub‑200 ms cold‑start latencies, with Java SnapStart reducing start times from seconds to under 200 ms. The report argues cold‑start latency is no longer a primary concern for most production workloads.
+### TI‑84 Evo Graphing Calculator | Texas Instruments [hnrss]  
+Texas Instruments introduces the TI‑84 Evo, an upgraded graphing calculator promising faster performance and new features under the tagline “Evolved to do everything better.”
 
-### ⚡ Is Software Development Just a Side Quest? A Jira Story – DEV Community [devto]  
-A senior developer laments excessive Jira overhead, arguing that ticket maintenance can eclipse actual coding time and that lean workflows (todo → in‑progress → done) improve productivity. The post invites community discussion on balancing necessary tracking with minimal friction.
+### 2026 will be the hottest year on record, leading scientist predicts | New Scientist [newsfeed]  
+James Hansen and colleagues argue that, driven by a projected “super” El Niño, 2026 is likely to surpass 2024 as the warmest year, with model ensembles giving a 26 % chance of it being the hottest on record and warning of intensified heatwaves and wildfires.
 
-### ⚡ 3D CAD models | Noctua [hackernews_api]  
-Noctua releases downloadable 3D CAD models of its products for visualization and integration, with internal IP‑sensitive components altered. The models are provided “as‑is” and are not intended for performance simulation or manufacturing.
+### AI agents are forcing enterprises to overhaul their operations | CIO Dive [tldr]  
+A Gartner survey of 469 CEOs finds 80 % expect AI automation to reshape business models, pushing firms toward outcome‑based revenue and demanding new governance around “AI hygiene” and trust.
 
-### ⚡ Prompt API · Issue #1213 · mozilla/standards-positions · GitHub [hackernews_api]  
-A GitHub issue critiques the proposed Prompt API for lacking official specifications, MDN documentation, and cross‑browser tracking, labeling the position as negative. The author notes Blink’s intent‑to‑prototype but highlights the absence of broader community input.
+### Australian banks warned frontier AI could create larger, faster cyber attacks - CNA [tldr]  
+APRA cautions that frontier models such as Anthropic’s Claude Mythos could accelerate vulnerability discovery, exposing Australian banks to rapid, large‑scale attacks; the regulator notes gaps in board‑level AI risk literacy.
 
-### ⚡ GCC 16 Release Series — Changes, New Features, and Fixes - GNU Project [hnrss]  
-GCC 16 introduces enhanced link‑time optimization, speculative devirtualization, and extensive vectorizer improvements, alongside updated OpenMP, OpenACC, and Ada language support. Notable caveats include Solaris‑specific type changes and removal of the JSON diagnostics format.
-
-### ⚡ ‘Fool me once…’ Lawyers argue Kennedy Center should not meet same fate as the East Wing : NPR [newsfeed]  
-Two lawsuits seek to halt a two‑year closure of the Kennedy Center, arguing that President Trump’s renaming and renovations exceed permissible repairs and violate statutory limits on memorial additions. Plaintiffs invoke precedent from the contested demolition of the White House East Wing.
-
-### ⚡ Scaling smarter: A CIO’s road map to unified, future‑ready operations | CIO [tldr]  
-CIOs are urged to adopt Schneider Electric’s EcoStruxure Foresight platform to unify building‑system data across sites, delivering predictable costs, operational efficiency, and resilience. A standardized, platform‑driven approach is presented as the path to scalable, enterprise‑wide modernization.
+### A Dark‑Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat | WIRED [newsfeed]  
+The dark‑money group “Build American AI,” funded by the $140 m PAC Leading the Future, is paying TikTok creators $5 k per video to portray Chinese AI as a national‑security danger, a strategy aimed at shaping the 2026 midterm debate without disclosure.
 
 ---
 
-## Science and Research (1 article)
+## Cybersecurity and Privacy  
 
-### ⚡ J. Craig Venter, genomics pioneer and founder of JCVI and Diploid Genomics, Inc., dies at 79 | JCVI [hnrss]  
-J. Craig Venter, a seminal figure in genomics and synthetic biology, passed away at 79 after a brief hospitalization for cancer‑treatment complications. His legacy includes the first draft human genome, the first synthetic self‑replicating cell, and numerous biotech ventures that reshaped modern biology.
+### Credit Cards Are Vulnerable To Brute Force Kind Attacks | Metin's Blog [hnrss]  
+The author details how attackers can exploit PCI‑DSS‑compliant masked PAN data and error‑code feedback to brute‑force the missing digits of a credit‑card number, demonstrating a practical attack vector that bypasses many “minimum compliance” safeguards.
 
----
-
-## World News and Geopolitics (2 articles)
-
-### ⚡ Belgium stops decommissioning nuclear power plants | dpa international [hackernews_api]  
-Belgium announced a pause to nuclear decommissioning and entered exclusive talks with ENGIE to potentially nationalise its seven‑reactor fleet, reversing a long‑standing phase‑out plan. The move reflects energy‑security concerns as the country remains heavily reliant on gas imports.
-
-### ⚡ Africa and Asia back Infantino for unique fourth term as FIFA president | Al Jazeera [newsfeed]  
-The CAF and AFC jointly pledged support for Gianni Infantino’s bid for a fourth FIFA presidential term, controlling a majority of the 211‑vote electorate. Despite controversy over a legal loophole allowing a fourth term, Infantino’s tenure is credited with record revenues and expanded development programs.
+### A Dark‑Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat | WIRED [newsfeed] *(repeated for emphasis)*  
+(See AI & Machine Learning section.)
 
 ---
 
-## Notable Mentions
-- Locked, stocked, and losing budget: AI vendor lock‑in bites • The Register [tldr]  
-- Made 2 simple changes on our website and I've been seeing a lot more sales calls from AI search since 👇 You know AI search is big. You know buyers are... [tldr]  
-- Your AI agent is ready to go. Is your infrastructure? | CIO [tldr]
+## Software Engineering and Dev Tools  
+
+### Spotify adds ‘Verified’ badge to distinguish human acts from AI *(trending)* [hackernews_api]  
+Spotify will display a green “Verified by Spotify” checkmark next to artists that meet authenticity criteria, aiming to help listeners differentiate human creators from AI‑generated personas, though critics note the badge does not guarantee AI‑free music.
+
+### Running Adobe’s 1991 PostScript Interpreter in the Browser – pagetable.com [hnrss]  
+The retro‑ps project emulates a 1991 LaserJet PostScript cartridge, allowing .ps files to be rendered entirely client‑side in a web browser, preserving the original interpreter while lifting historic hardware limits.
+
+### AI robot tech bros dogs run wild in Berlin gallery : NPR [newsfeed]  
+Beeple’s Berlin installation features autonomous AI‑controlled robotic dogs bearing the faces of tech elites, provoking commentary on surveillance, corporate power, and the merging of AI with everyday objects.
+
+### An electrifying test to find a good coffee [newsfeed]  
+Researchers demonstrate that measuring the electrical current generated by coffee under voltage correlates with roast level and strength, offering an objective, rapid alternative to sensory tasting for quality control.
+
+### Agents can now create Cloudflare accounts, buy domains, and deploy [tldr]  
+A new Stripe‑Projects protocol lets autonomous coding agents provision Cloudflare accounts, purchase domains, and deploy applications without human dashboard interaction, streamlining end‑to‑end infrastructure setup.
+
+---
+
+## Cloud and Infrastructure  
+
+### Ask HN: Who is hiring? (May 2026) | Hacker News [hnrss]  
+The weekly “Who is hiring?” thread lists open engineering roles from startups to established firms, with detailed posting guidelines and examples ranging from Kiloforge’s founding engineer to PostHog’s remote positions.
+
+### It’s Possible to Learn in Our Sleep. Should We? | The New Yorker [hnrss]  
+A historical review traces “sleep‑learning” from early 20th‑century gimmicks to modern targeted memory reactivation studies, concluding that while some cue‑based memory consolidation works, the notion of comprehensive nocturnal learning remains scientifically limited.
+
+---
+
+## Startups and Business  
+
+### Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks | TechCrunch [tldr]  
+Anthropic is reportedly courting a $50 bn funding round that could lift its valuation to $900 bn, a pre‑IPO cash infusion aimed at supporting massive compute needs and potentially overtaking OpenAI’s market cap.
+
+---
+
+## World News and Geopolitics  
+
+### Antigua and Barbuda prime minister set to win fourth term in election | The Guardian [newsfeed]  
+Prime Minister Gaston Browne is poised to secure a fourth term after the ABLP is projected to win 15 of 17 seats, with the opposition fragmented and external factors such as U.S. visa restrictions and fuel‑price pressures influencing voter sentiment.
