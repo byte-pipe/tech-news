@@ -1,63 +1,96 @@
 ---
 date: '2026-05-01'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-01T06:00:33.319948'
+generated_at: '2026-05-01T20:46:35.817626'
 ---
 
-## Executive Summary  
-- Meta’s contract with data‑annotation firm Sama was terminated after Kenyan workers reported viewing intimate footage captured by Meta’s AI‑powered glasses, prompting investigations in the UK and Kenya.  
-- IBM unveiled its 8‑billion‑parameter Granite 4.1 model, showing that architectural efficiency can match much larger models, while the AI community warns that evaluation costs are now the primary compute bottleneck.  
-- Belgium announced a pause to nuclear‑plant decommissioning and plans to negotiate nationalisation of the fleet, underscoring a broader European shift toward nuclear energy security.  
-- FIFA’s Gianni Infantino secured backing from Africa and Asia for a historic fourth term, even as ethics complaints surface over political ties.  
-- In cybersecurity, a mis‑configured cloud bucket exposed nearly 90 000 screenshots harvested by stalker‑ware, highlighting the compounded privacy risks of surveillance software.
-
----
-
-## AI and Machine Learning  
-
-- **Dispute over fate of Kenyan workers who saw Meta AI glasses films** [Hacker News] – Kenyan annotators claimed they were forced to review graphic footage captured by Meta’s AI glasses; Meta paused and then terminated its contract with Sama, leaving over 1,100 workers redundant and sparking investigations by the UK ICO and Kenya’s data‑protection authority.  
-- **Claude Code refuses requests or charges extra if your commits mention "OpenClaw"** [HN RSS] – The Claude Code service displayed an error page indicating JavaScript is disabled and warned that privacy‑related browser extensions may interfere with its operation.  
-- **Congress will act against massive IP blockings by LaLiga** [Demócrata] – *No article text provided; unable to summarise.*  
-- **Granite 4.1: IBM’s 8B Model Is Competing With Models Four Times Its Size** [Firethering via HN RSS] – IBM’s new Granite 4.1 demonstrates that an 8‑billion‑parameter architecture can match the performance of models four times larger, challenging the notion that scale alone drives AI capability.  
-- **$100 Nintendo gift cards are $20 off at Newegg today** [The Verge] – A promotional deal offers a 19 % discount on Nintendo eShop gift‑card bundles; the article also lists related gaming and hardware discounts, reflecting continued consumer‑tech marketing activity.  
-- **Turning Point plays old hits and sees new energy in last tour stop** [NPR] – Turning Point USA’s final campus tour stop at the University of Idaho drew a large, youthful crowd, with speakers Matt Walsh and Michael Knowles emphasizing voter‑registration drives and conservative messaging.  
-- **Reddit – Please wait for verification** [Reddit] – *No article text provided; unable to summarise.*  
-- **AI evals are becoming the new compute bottleneck** [tldr] – Evaluation costs for large‑language‑model benchmarks and agent‑based tests now rival or exceed training expenses, prompting calls for cheaper, coarse‑to‑fine evaluation pipelines and more efficient scaffold designs.
+## Executive Summary
+- Meta’s contract termination with Kenyan annotators has ignited a global debate over AI‑generated intimate content, prompting investigations in the UK and Kenya.  
+- Researchers warn that AI evaluation costs are now the primary compute bottleneck, dwarfing even training expenses for large models.  
+- Belgium announced a halt to nuclear decommissioning and is negotiating nationalisation of its reactor fleet, reshaping Europe’s energy outlook.  
+- The genomics community mourns the loss of pioneer J. Craig Venter, whose work underpins modern synthetic biology.  
+- In software infrastructure, cold‑start latency for serverless functions is now considered solved, while CIOs push unified building‑operations platforms to drive enterprise‑wide efficiency.
 
 ---
 
-## Cybersecurity and Privacy  
+## AI and Machine Learning (8 articles)
 
-- **90,000 Screenshots of One Celebrity's Phone Were Exposed Online** [WIRED] – A publicly accessible cloud bucket leaked 86 859 screenshots captured by the stalker‑ware app Cocospy, revealing private messages, invoices and partial credit‑card numbers; the breach underscores how mis‑configured storage can amplify the privacy harms of surveillance software.
+### ⚡ Dispute over fate of Kenyan workers who saw Meta AI glasses films [hackernews_api]  
+Meta paused and then terminated its contract with outsourcing firm Sama after workers reported reviewing graphic footage captured by AI‑powered glasses, sparking investigations by the UK ICO and Kenya’s data‑protection office. The dispute highlights privacy and labor concerns in the emerging AI annotation ecosystem.
 
----
+### ⚡ Claude Code refuses requests or charges extra if your commits mention "OpenClaw" [hnrss]  
+The Claude Code service now blocks or fees requests that reference “OpenClaw,” citing browser JavaScript detection and privacy‑extension conflicts as the cause of access errors. Users are directed to enable JavaScript or use supported browsers.
 
-## Software Engineering and Dev Tools  
+### Congress will act against massive IP blockages by LaLiga | Demócrata [hnrss]  
+*Content not provided; unable to synthesize details.*  
 
-- **Cold Starts Are Dead** [DEV Community] – Recent measurements show AWS Lambda cold‑start latencies have dropped dramatically across runtimes (e.g., Rust ≈ 15 ms, Java ≈ 0.4 s with SnapStart); VPC penalties are now negligible, and the new INIT‑billing model has limited cost impact in typical workloads.  
-- **Is Software Development Just a Side Quest? A Jira Story** [DEV Community] – A senior developer argues that excessive Jira customization inflates administrative overhead, turning development into a “side quest” and advocating for a minimalist workflow to reclaim coding time.  
-- **3D CAD models | Noctua** [Hacker News] *(trending)* – Noctua releases downloadable 3D CAD models of its products for visualization and integration, with a disclaimer that internal geometries are altered and the files are provided “as‑is” without warranties.  
-- **Prompt API · Issue #1213** [GitHub via Hacker News] *(trending)* – A negative‑position issue raises concerns that the Prompt API proposal lacks official specifications, documentation, and cross‑browser tracking, noting only a prototype intent from Blink.  
-- **GCC 16 Release Series — Changes, New Features, and Fixes** [GNU Project] – GCC 16 adds link‑time optimization heuristics, speculative devirtualization, extensive vectorizer improvements, and updates to OpenMP, OpenACC, and Ada language support, while deprecating certain diagnostics formats.  
-- **‘Fool me once…’ Lawyers argue Kennedy Center should not meet same fate as the East Wing** [NPR] – Two lawsuits challenge a two‑year closure and renaming of the Kennedy Center, alleging violations of statutory naming restrictions and insufficient congressional oversight of the renovation plan.  
-- **Scaling smarter: A CIO’s road map to unified, future‑ready operations** [CIO] – The article outlines how Schneider Electric’s EcoStruxure Foresight platform can unify building‑system data across sites, delivering predictable costs, operational efficiency, and scalable modernization for large portfolios.
+### ⚡ Granite 4.1: IBM's 8B Model Is Competing With Models Four Times Its Size - Firethering [hnrss]  
+IBM’s Granite 4.1 delivers performance on par with models roughly four times larger, demonstrating that architectural efficiency can offset raw parameter count. The article positions the 8‑billion‑parameter model as a cost‑effective alternative in the competitive AI landscape.
 
----
+### $100 Nintendo gift cards are $20 off at Newegg today | The Verge [newsfeed]  
+Newegg offers a 19 % discount on a twin‑pack of $50 Nintendo eShop cards, part of a broader set of gaming‑hardware deals. The promotion underscores continued consumer demand for Nintendo’s ecosystem ahead of the upcoming Switch 2 launch.
 
-## Science and Research  
+### Turning Point plays old hits and sees new energy in last tour stop : NPR [newsfeed]  
+Turning Point USA’s final campus stop at the University of Idaho drew large, energized crowds, with podcasters Matt Walsh and Michael Knowles delivering interactive, debate‑heavy sessions. Attendance surged compared with earlier stops, reflecting renewed youth interest in the organization’s messaging.
 
-- **J. Craig Venter, genomics pioneer and founder of JCVI and Diploid Genomics, Inc., dies at 79** [JCVI] – The genomics visionary passed away after a brief hospitalization; his legacy includes the first draft human genome, the first synthetic self‑replicating cell, and pioneering metagenomic ocean sampling, as well as multiple biotech ventures.
+### Reddit – Please wait for verification [reddit]  
+*No article content supplied; synthesis unavailable.*  
 
----
-
-## World News and Geopolitics  
-
-- **Belgium stops decommissioning nuclear power plants** [dpa International via Hacker News] *(trending)* – Belgium’s prime minister announced a halt to nuclear plant decommissioning and opened negotiations with ENGIE to potentially nationalise the seven‑reactor fleet, reversing a long‑standing phase‑out policy amid energy‑security concerns.  
-- **Africa and Asia back Infantino for unique fourth term as FIFA president** [Al Jazeera] – CAF and AFC pledged unanimous support for Gianni Infantino’s bid for a fourth FIFA term, leveraging their 101 votes; the move follows a legal ruling that his initial partial term does not count toward the three‑term limit, despite ethics complaints over political neutrality.
+### ⚡ AI evals are becoming the new compute bottleneck [tldr]  
+Evaluation pipelines now consume more compute than model training, with static benchmark costs reaching $100 K and agent‑level runs costing millions in token usage. Researchers propose coarse‑to‑fine and aggressive subsampling techniques to mitigate the emerging bottleneck.
 
 ---
 
-## Notable Mentions  
+## Cybersecurity and Privacy (1 article)
+
+### ⚡ 90,000 Screenshots of One Celebrity's Phone Were Exposed Online | WIRED [newsfeed]  
+A misconfigured cloud bucket leaked 86,859 screenshots harvested by the stalkerware app Cocospy, revealing private messages, invoices, and partial credit‑card numbers. The breach illustrates how spyware data combined with poor cloud security can create massive privacy catastrophes for high‑profile individuals.
+
+---
+
+## Software Engineering and Dev Tools (7 articles)
+
+### ⚡ Cold Starts Are Dead – DEV Community [devto]  
+Benchmarking shows modern serverless runtimes (Go, Rust, Python, Node) achieve sub‑200 ms cold‑start latencies, with Java SnapStart reducing start times from seconds to under 200 ms. The report argues cold‑start latency is no longer a primary concern for most production workloads.
+
+### ⚡ Is Software Development Just a Side Quest? A Jira Story – DEV Community [devto]  
+A senior developer laments excessive Jira overhead, arguing that ticket maintenance can eclipse actual coding time and that lean workflows (todo → in‑progress → done) improve productivity. The post invites community discussion on balancing necessary tracking with minimal friction.
+
+### ⚡ 3D CAD models | Noctua [hackernews_api]  
+Noctua releases downloadable 3D CAD models of its products for visualization and integration, with internal IP‑sensitive components altered. The models are provided “as‑is” and are not intended for performance simulation or manufacturing.
+
+### ⚡ Prompt API · Issue #1213 · mozilla/standards-positions · GitHub [hackernews_api]  
+A GitHub issue critiques the proposed Prompt API for lacking official specifications, MDN documentation, and cross‑browser tracking, labeling the position as negative. The author notes Blink’s intent‑to‑prototype but highlights the absence of broader community input.
+
+### ⚡ GCC 16 Release Series — Changes, New Features, and Fixes - GNU Project [hnrss]  
+GCC 16 introduces enhanced link‑time optimization, speculative devirtualization, and extensive vectorizer improvements, alongside updated OpenMP, OpenACC, and Ada language support. Notable caveats include Solaris‑specific type changes and removal of the JSON diagnostics format.
+
+### ⚡ ‘Fool me once…’ Lawyers argue Kennedy Center should not meet same fate as the East Wing : NPR [newsfeed]  
+Two lawsuits seek to halt a two‑year closure of the Kennedy Center, arguing that President Trump’s renaming and renovations exceed permissible repairs and violate statutory limits on memorial additions. Plaintiffs invoke precedent from the contested demolition of the White House East Wing.
+
+### ⚡ Scaling smarter: A CIO’s road map to unified, future‑ready operations | CIO [tldr]  
+CIOs are urged to adopt Schneider Electric’s EcoStruxure Foresight platform to unify building‑system data across sites, delivering predictable costs, operational efficiency, and resilience. A standardized, platform‑driven approach is presented as the path to scalable, enterprise‑wide modernization.
+
+---
+
+## Science and Research (1 article)
+
+### ⚡ J. Craig Venter, genomics pioneer and founder of JCVI and Diploid Genomics, Inc., dies at 79 | JCVI [hnrss]  
+J. Craig Venter, a seminal figure in genomics and synthetic biology, passed away at 79 after a brief hospitalization for cancer‑treatment complications. His legacy includes the first draft human genome, the first synthetic self‑replicating cell, and numerous biotech ventures that reshaped modern biology.
+
+---
+
+## World News and Geopolitics (2 articles)
+
+### ⚡ Belgium stops decommissioning nuclear power plants | dpa international [hackernews_api]  
+Belgium announced a pause to nuclear decommissioning and entered exclusive talks with ENGIE to potentially nationalise its seven‑reactor fleet, reversing a long‑standing phase‑out plan. The move reflects energy‑security concerns as the country remains heavily reliant on gas imports.
+
+### ⚡ Africa and Asia back Infantino for unique fourth term as FIFA president | Al Jazeera [newsfeed]  
+The CAF and AFC jointly pledged support for Gianni Infantino’s bid for a fourth FIFA presidential term, controlling a majority of the 211‑vote electorate. Despite controversy over a legal loophole allowing a fourth term, Infantino’s tenure is credited with record revenues and expanded development programs.
+
+---
+
+## Notable Mentions
 - Locked, stocked, and losing budget: AI vendor lock‑in bites • The Register [tldr]  
 - Made 2 simple changes on our website and I've been seeing a lot more sales calls from AI search since 👇 You know AI search is big. You know buyers are... [tldr]  
 - Your AI agent is ready to go. Is your infrastructure? | CIO [tldr]
