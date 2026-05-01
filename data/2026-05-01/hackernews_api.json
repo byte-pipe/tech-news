@@ -1,11 +1,28 @@
 [
   {
+    "title": "10Gb/s Ethernet: what I did to get it working in my home",
+    "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
+    "author": "gpjt",
+    "date": "2026-04-29",
+    "score": 208,
+    "comments": 149,
+    "id": 47947944,
+    "discussion_url": "https://news.ycombinator.com/item?id=47947944",
+    "description": "10Gb/s Ethernet: what I did to get it working in my home",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T11:58:25.666430"
+  },
+  {
     "title": "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
     "url": "https://pomax.github.io/bezierinfo/",
     "author": "mostlyk",
     "date": "2026-04-28",
-    "score": 88,
-    "comments": 19,
+    "score": 140,
+    "comments": 21,
     "id": 47933934,
     "discussion_url": "https://news.ycombinator.com/item?id=47933934",
     "description": "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
@@ -14,32 +31,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.594998"
+    "fetched_at": "2026-05-01T11:58:25.666465"
   },
   {
-    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-    "author": "reconnecting",
+    "title": "American Dads Became the Parents Their Fathers Never Were",
+    "url": "https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time",
+    "author": "ozozozd",
     "date": "2026-04-30",
-    "score": 181,
-    "comments": 148,
-    "id": 47957627,
-    "discussion_url": "https://news.ycombinator.com/item?id=47957627",
-    "description": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+    "score": 112,
+    "comments": 128,
+    "id": 47965027,
+    "discussion_url": "https://news.ycombinator.com/item?id=47965027",
+    "description": "American Dads Became the Parents Their Fathers Never Were",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595688"
+    "fetched_at": "2026-05-01T11:58:25.666444"
   },
   {
     "title": "Belgium stops decommissioning nuclear power plants",
     "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
     "author": "mpweiher",
     "date": "2026-04-30",
-    "score": 553,
-    "comments": 445,
+    "score": 829,
+    "comments": 862,
     "id": 47961319,
     "discussion_url": "https://news.ycombinator.com/item?id=47961319",
     "description": "Belgium stops decommissioning nuclear power plants",
@@ -48,32 +65,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595330"
+    "fetched_at": "2026-05-01T11:58:25.666401"
   },
   {
-    "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
-    "url": "https://burrito.bio/essays/biology-is-a-burrito",
-    "author": "the-mitr",
+    "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+    "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+    "author": "zikani_03",
     "date": "2026-04-30",
-    "score": 176,
-    "comments": 23,
-    "id": 47957714,
-    "discussion_url": "https://news.ycombinator.com/item?id=47957714",
-    "description": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+    "score": 117,
+    "comments": 48,
+    "id": 47969288,
+    "discussion_url": "https://news.ycombinator.com/item?id=47969288",
+    "description": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595244"
+    "fetched_at": "2026-05-01T11:58:25.666362"
+  },
+  {
+    "title": "Can I disable all data collection from my vehicle?",
+    "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+    "author": "Cider9986",
+    "date": "2026-04-30",
+    "score": 641,
+    "comments": 266,
+    "id": 47967786,
+    "discussion_url": "https://news.ycombinator.com/item?id=47967786",
+    "description": "Can I disable all data collection from my vehicle?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T11:58:25.666369"
   },
   {
     "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
     "url": "https://twitter.com/theo/status/2049645973350363168",
     "author": "elmean",
-    "date": "2026-05-01",
-    "score": 381,
-    "comments": 263,
+    "date": "2026-04-30",
+    "score": 1192,
+    "comments": 659,
     "id": 47963204,
     "discussion_url": "https://news.ycombinator.com/item?id=47963204",
     "description": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
@@ -82,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595414"
+    "fetched_at": "2026-05-01T11:58:25.666366"
   },
   {
     "title": "Copy Fail",
     "url": "https://copy.fail/",
     "author": "unsnap_biceps",
-    "date": "2026-04-30",
-    "score": 1297,
-    "comments": 454,
+    "date": "2026-04-29",
+    "score": 1399,
+    "comments": 491,
     "id": 47952181,
     "discussion_url": "https://news.ycombinator.com/item?id=47952181",
     "description": "Copy Fail",
@@ -99,134 +133,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595588"
+    "fetched_at": "2026-05-01T11:58:25.666498"
   },
   {
-    "title": "Craig Venter has died",
-    "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-    "author": "rdl",
+    "title": "Does Postgres Scale?",
+    "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+    "author": "KraftyOne",
     "date": "2026-04-30",
-    "score": 314,
-    "comments": 74,
-    "id": 47957101,
-    "discussion_url": "https://news.ycombinator.com/item?id=47957101",
-    "description": "Craig Venter has died",
+    "score": 142,
+    "comments": 64,
+    "id": 47966625,
+    "discussion_url": "https://news.ycombinator.com/item?id=47966625",
+    "description": "Does Postgres Scale?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595041"
+    "fetched_at": "2026-05-01T11:58:25.666416"
   },
   {
-    "title": "Creating a Color Palette from an Image",
-    "url": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
-    "author": "evakhoury",
-    "date": "2026-04-29",
-    "score": 106,
-    "comments": 14,
-    "id": 47936610,
-    "discussion_url": "https://news.ycombinator.com/item?id=47936610",
-    "description": "Creating a Color Palette from an Image",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595818"
-  },
-  {
-    "title": "Cursor Camp",
-    "url": "https://neal.fun/cursor-camp/",
-    "author": "bpierre",
+    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "author": "ori_b",
     "date": "2026-04-30",
-    "score": 1130,
-    "comments": 184,
-    "id": 47949939,
-    "discussion_url": "https://news.ycombinator.com/item?id=47949939",
-    "description": "Cursor Camp",
+    "score": 519,
+    "comments": 415,
+    "id": 47965108,
+    "discussion_url": "https://news.ycombinator.com/item?id=47965108",
+    "description": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595787"
+    "fetched_at": "2026-05-01T11:58:25.666307"
   },
   {
-    "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-    "url": "https://datacenter.fm/",
-    "author": "louisbarclay",
+    "title": "Full-Text Search with DuckDB",
+    "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+    "author": "ethagnawl",
     "date": "2026-04-30",
-    "score": 114,
-    "comments": 22,
-    "id": 47959513,
-    "discussion_url": "https://news.ycombinator.com/item?id=47959513",
-    "description": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+    "score": 152,
+    "comments": 31,
+    "id": 47966254,
+    "discussion_url": "https://news.ycombinator.com/item?id=47966254",
+    "description": "Full-Text Search with DuckDB",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595189"
-  },
-  {
-    "title": "Functional programmers need to take a look at Zig",
-    "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
-    "author": "xngbuilds",
-    "date": "2026-04-30",
-    "score": 176,
-    "comments": 128,
-    "id": 47957624,
-    "discussion_url": "https://news.ycombinator.com/item?id=47957624",
-    "description": "Functional programmers need to take a look at Zig",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595930"
-  },
-  {
-    "title": "GCC 16 has been released",
-    "url": "https://gcc.gnu.org/gcc-16/changes.html",
-    "author": "HeliumHydride",
-    "date": "2026-04-30",
-    "score": 248,
-    "comments": 41,
-    "id": 47961004,
-    "discussion_url": "https://news.ycombinator.com/item?id=47961004",
-    "description": "GCC 16 has been released",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595101"
-  },
-  {
-    "title": "Ghostty is leaving GitHub",
-    "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-    "author": "WadeGrimridge",
-    "date": "2026-04-29",
-    "score": 3441,
-    "comments": 1029,
-    "id": 47939579,
-    "discussion_url": "https://news.ycombinator.com/item?id=47939579",
-    "description": "Ghostty is leaving GitHub",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595739"
+    "fetched_at": "2026-05-01T11:58:25.666387"
   },
   {
     "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
     "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
     "author": "steveharing1",
     "date": "2026-04-30",
-    "score": 231,
-    "comments": 145,
+    "score": 295,
+    "comments": 190,
     "id": 47960507,
     "discussion_url": "https://news.ycombinator.com/item?id=47960507",
     "description": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
@@ -235,49 +201,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595538"
+    "fetched_at": "2026-05-01T11:58:25.666434"
   },
   {
-    "title": "How an Oil Refinery Works",
+    "title": "Grok 4.3",
+    "url": "https://docs.x.ai/developers/models/grok-4.3",
+    "author": "simianwords",
+    "date": "2026-05-01",
+    "score": 132,
+    "comments": 158,
+    "id": 47972447,
+    "discussion_url": "https://news.ycombinator.com/item?id=47972447",
+    "description": "Grok 4.3",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T11:58:25.666330"
+  },
+  {
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "author": "the-mitr",
+    "date": "2026-04-30",
+    "score": 617,
+    "comments": 208,
+    "id": 47965060,
+    "discussion_url": "https://news.ycombinator.com/item?id=47965060",
+    "description": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T11:58:25.666295"
+  },
+  {
+    "title": "How an oil refinery works",
     "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
     "author": "chmaynard",
     "date": "2026-04-30",
-    "score": 165,
-    "comments": 35,
+    "score": 439,
+    "comments": 136,
     "id": 47962548,
     "discussion_url": "https://news.ycombinator.com/item?id=47962548",
-    "description": "How an Oil Refinery Works",
+    "description": "How an oil refinery works",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595278"
-  },
-  {
-    "title": "How to Build the Future: Demis Hassabis [video]",
-    "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
-    "author": "sandslash",
-    "date": "2026-04-30",
-    "score": 127,
-    "comments": 62,
-    "id": 47948664,
-    "discussion_url": "https://news.ycombinator.com/item?id=47948664",
-    "description": "How to Build the Future: Demis Hassabis [video]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595914"
+    "fetched_at": "2026-05-01T11:58:25.666349"
   },
   {
     "title": "I aggregated 28 US Government auction sites into one search",
     "url": "https://bidprowl.com",
     "author": "scarsam",
     "date": "2026-04-30",
-    "score": 163,
-    "comments": 48,
+    "score": 285,
+    "comments": 79,
     "id": 47961378,
     "discussion_url": "https://news.ycombinator.com/item?id=47961378",
     "description": "I aggregated 28 US Government auction sites into one search",
@@ -286,66 +269,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595503"
+    "fetched_at": "2026-05-01T11:58:25.666405"
   },
   {
-    "title": "London to Calcutta by Bus (2022)",
-    "url": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
-    "author": "CGMthrowaway",
+    "title": "I built a Game Boy emulator in F#",
+    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "author": "elvis70",
+    "date": "2026-04-30",
+    "score": 290,
+    "comments": 66,
+    "id": 47965503,
+    "discussion_url": "https://news.ycombinator.com/item?id=47965503",
+    "description": "I built a Game Boy emulator in F#",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T11:58:25.666285"
+  },
+  {
+    "title": "Maladaptive Frugality",
+    "url": "https://herbertlui.net/maladaptive-frugality/",
+    "author": "herbertl",
     "date": "2026-04-29",
-    "score": 113,
-    "comments": 32,
-    "id": 47941931,
-    "discussion_url": "https://news.ycombinator.com/item?id=47941931",
-    "description": "London to Calcutta by Bus (2022)",
+    "score": 120,
+    "comments": 93,
+    "id": 47942863,
+    "discussion_url": "https://news.ycombinator.com/item?id=47942863",
+    "description": "Maladaptive Frugality",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595622"
-  },
-  {
-    "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-    "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-    "author": "gorbachev",
-    "date": "2026-04-30",
-    "score": 430,
-    "comments": 316,
-    "id": 47961838,
-    "discussion_url": "https://news.ycombinator.com/item?id=47961838",
-    "description": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595173"
-  },
-  {
-    "title": "Mike: open-source legal AI",
-    "url": "https://mikeoss.com/",
-    "author": "noleary",
-    "date": "2026-04-30",
-    "score": 176,
-    "comments": 88,
-    "id": 47956739,
-    "discussion_url": "https://news.ycombinator.com/item?id=47956739",
-    "description": "Mike: open-source legal AI",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595654"
+    "fetched_at": "2026-05-01T11:58:25.666355"
   },
   {
     "title": "Mozilla's opposition to Chrome's Prompt API",
-    "url": "https://github.com/mozilla/standards-positions/issues/1213",
+    "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
     "author": "jaffathecake",
     "date": "2026-04-30",
-    "score": 429,
-    "comments": 172,
+    "score": 625,
+    "comments": 224,
     "id": 47959463,
     "discussion_url": "https://news.ycombinator.com/item?id=47959463",
     "description": "Mozilla's opposition to Chrome's Prompt API",
@@ -354,66 +320,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595485"
+    "fetched_at": "2026-05-01T11:58:25.666488"
   },
   {
-    "title": "Noctua releases official 3D CAD models for its cooling fans",
-    "url": "https://www.noctua.at/en/3d-cad-models",
-    "author": "embedding-shape",
+    "title": "New mechanical panoramic film camera from Jeff Bridges",
+    "url": "https://wideluxx.com",
+    "author": "armadsen",
     "date": "2026-04-28",
-    "score": 437,
-    "comments": 97,
-    "id": 47927627,
-    "discussion_url": "https://news.ycombinator.com/item?id=47927627",
-    "description": "Noctua releases official 3D CAD models for its cooling fans",
+    "score": 158,
+    "comments": 75,
+    "id": 47937033,
+    "discussion_url": "https://news.ycombinator.com/item?id=47937033",
+    "description": "New mechanical panoramic film camera from Jeff Bridges",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595347"
+    "fetched_at": "2026-05-01T11:58:25.666384"
   },
   {
-    "title": "OpenTrafficMap",
-    "url": "https://opentrafficmap.org/",
-    "author": "moooo99",
-    "date": "2026-04-30",
-    "score": 360,
-    "comments": 94,
-    "id": 47953541,
-    "discussion_url": "https://news.ycombinator.com/item?id=47953541",
-    "description": "OpenTrafficMap",
+    "title": "OpenWarp",
+    "url": "https://openwarp.zerx.dev",
+    "author": "zero-lab",
+    "date": "2026-05-01",
+    "score": 107,
+    "comments": 92,
+    "id": 47970622,
+    "discussion_url": "https://news.ycombinator.com/item?id=47970622",
+    "description": "OpenWarp",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595380"
+    "fetched_at": "2026-05-01T11:58:25.666321"
   },
   {
-    "title": "Ramp's Sheets AI Exfiltrates Financials",
-    "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-    "author": "takira",
-    "date": "2026-04-30",
-    "score": 135,
+    "title": "Opus 4.7 knows the real Kelsey",
+    "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+    "author": "ilamont",
+    "date": "2026-04-29",
+    "score": 371,
+    "comments": 193,
+    "id": 47951295,
+    "discussion_url": "https://news.ycombinator.com/item?id=47951295",
+    "description": "Opus 4.7 knows the real Kelsey",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T11:58:25.666352"
+  },
+  {
+    "title": "Reverse Engineering SimTower",
+    "url": "https://phulin.me/blog/simtower",
+    "author": "patrickhulin",
+    "date": "2026-04-28",
+    "score": 211,
     "comments": 49,
-    "id": 47951786,
-    "discussion_url": "https://news.ycombinator.com/item?id=47951786",
-    "description": "Ramp's Sheets AI Exfiltrates Financials",
+    "id": 47937814,
+    "discussion_url": "https://news.ycombinator.com/item?id=47937814",
+    "description": "Reverse Engineering SimTower",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595850"
+    "fetched_at": "2026-05-01T11:58:25.666380"
+  },
+  {
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "author": "j12y",
+    "date": "2026-04-30",
+    "score": 406,
+    "comments": 147,
+    "id": 47964617,
+    "discussion_url": "https://news.ycombinator.com/item?id=47964617",
+    "description": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T11:58:25.666303"
+  },
+  {
+    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "author": "sleepingNomad",
+    "date": "2026-05-01",
+    "score": 143,
+    "comments": 44,
+    "id": 47972511,
+    "discussion_url": "https://news.ycombinator.com/item?id=47972511",
+    "description": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-01T11:58:25.666299"
   },
   {
     "title": "Spain's parliament will act against massive IP blockages by LaLiga",
     "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
     "author": "akyuu",
-    "date": "2026-05-01",
-    "score": 214,
-    "comments": 76,
+    "date": "2026-04-30",
+    "score": 488,
+    "comments": 193,
     "id": 47964034,
     "discussion_url": "https://news.ycombinator.com/item?id=47964034",
     "description": "Spain's parliament will act against massive IP blockages by LaLiga",
@@ -422,66 +439,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595312"
+    "fetched_at": "2026-05-01T11:58:25.666454"
   },
   {
-    "title": "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
-    "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-    "author": "the-mitr",
-    "date": "2026-05-01",
-    "score": 92,
-    "comments": 9,
-    "id": 47965060,
-    "discussion_url": "https://news.ycombinator.com/item?id=47965060",
-    "description": "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
+    "title": "The Church Rock Uranium Mill Spill",
+    "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
+    "author": "Sir_Twist",
+    "date": "2026-04-28",
+    "score": 103,
+    "comments": 6,
+    "id": 47939158,
+    "discussion_url": "https://news.ycombinator.com/item?id=47939158",
+    "description": "The Church Rock Uranium Mill Spill",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.594908"
+    "fetched_at": "2026-05-01T11:58:25.666451"
   },
   {
-    "title": "The Zig project's rationale for their anti-AI contribution policy",
-    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-    "author": "lumpa",
-    "date": "2026-04-30",
-    "score": 569,
-    "comments": 345,
-    "id": 47957294,
-    "discussion_url": "https://news.ycombinator.com/item?id=47957294",
-    "description": "The Zig project's rationale for their anti-AI contribution policy",
+    "title": "What can we gain by losing infinity?",
+    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+    "author": "Tomte",
+    "date": "2026-04-29",
+    "score": 113,
+    "comments": 119,
+    "id": 47949616,
+    "discussion_url": "https://news.ycombinator.com/item?id=47949616",
+    "description": "What can we gain by losing infinity?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595571"
-  },
-  {
-    "title": "Where the goblins came from",
-    "url": "https://openai.com/index/where-the-goblins-came-from/",
-    "author": "ilreb",
-    "date": "2026-04-30",
-    "score": 955,
-    "comments": 574,
-    "id": 47957688,
-    "discussion_url": "https://news.ycombinator.com/item?id=47957688",
-    "description": "Where the goblins came from",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595555"
+    "fetched_at": "2026-05-01T11:58:25.666468"
   },
   {
     "title": "You can beat the binary search",
     "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
     "author": "vok",
-    "date": "2026-04-28",
-    "score": 129,
-    "comments": 63,
+    "date": "2026-04-27",
+    "score": 327,
+    "comments": 144,
     "id": 47924912,
     "discussion_url": "https://news.ycombinator.com/item?id=47924912",
     "description": "You can beat the binary search",
@@ -490,15 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595467"
+    "fetched_at": "2026-05-01T11:58:25.666376"
   },
   {
     "title": "Zed 1.0",
     "url": "https://zed.dev/blog/zed-1-0",
     "author": "salkahfi",
-    "date": "2026-04-30",
-    "score": 2032,
-    "comments": 660,
+    "date": "2026-04-29",
+    "score": 2087,
+    "comments": 675,
     "id": 47949027,
     "discussion_url": "https://news.ycombinator.com/item?id=47949027",
     "description": "Zed 1.0",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-01T03:52:19.595225"
+    "fetched_at": "2026-05-01T11:58:25.666461"
   }
 ]

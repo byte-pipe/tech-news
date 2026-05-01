@@ -5,9 +5,19 @@
     "date": "2026-04-26",
     "description": "Ready-to-use markdown templateGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowApr 2615 Essential Sections Every README Needs: Give Your Project Wha...",
     "tags": "#documentation, #opensource, #tutorial, #development",
-    "reactions": "126 reactions",
-    "comments": "Comments 70 comments",
+    "reactions": "149 reactions",
+    "comments": "Comments 80 comments",
     "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"
+  },
+  {
+    "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
+    "author": "Jess Lee",
+    "date": "2026-04-30",
+    "description": "DEV Weekend Challenge: Earth DayJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 30Announcing the Winners of the DEV Weekend Challenge: Earth Day Edit...",
+    "tags": "#devchallenge, #weekendchallenge",
+    "reactions": "76 reactions",
+    "comments": "Comments 26 comments",
+    "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
   },
   {
     "title": "Are We Using AI at the Wrong Scale?",
@@ -15,8 +25,8 @@
     "date": "2026-04-28",
     "description": "Small models rivaling giants in code tasksKernel PryanicKernel PryanicKernel PryanicFollowApr 28Are We Using AI at the Wrong Scale?#discuss#ai#llm#sof...",
     "tags": "#discuss, #ai, #llm, #software",
-    "reactions": "55 reactions",
-    "comments": "Comments 16 comments",
+    "reactions": "58 reactions",
+    "comments": "Comments 17 comments",
     "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
   },
   {
@@ -25,37 +35,37 @@
     "date": "2026-04-29",
     "description": "Sub-100ms performance for Go and RustEric D JohnsonEric D JohnsonEric D JohnsonFollowforAWSApr 29Cold Starts Are Dead#serverless#aws#lambda#coldstarts...",
     "tags": "#serverless, #aws, #lambda, #coldstarts",
-    "reactions": "30 reactions",
+    "reactions": "31 reactions",
     "comments": "Comments 8 comments",
     "url": "https://dev.to/aws/cold-starts-are-dead-5fod"
   },
   {
-    "title": "Congrats to the April Fools Challenge Winners!!",
-    "author": "Jess Lee",
-    "date": "2026-04-23",
-    "description": "Hilariously pointless and over-engineered appsJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 23Congrats to the April Fools Challenge Winners!!#jokes...",
-    "tags": "#jokes, #devchallenge, #418challenge",
-    "reactions": "48 reactions",
-    "comments": "Comments 14 comments",
-    "url": "https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f"
+    "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
+    "author": "Sreejit",
+    "date": "2026-04-29",
+    "description": "Google Cloud NEXT '26 Challenge SubmissionSreejitSreejitSreejitFollowApr 29Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Wa...",
+    "tags": "#cloudnextchallenge, #googlecloud, #ai, #devchallenge",
+    "reactions": "37 reactions",
+    "comments": "Comments 4 comments",
+    "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2"
   },
   {
     "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
     "author": "Shir Meir Lador",
     "date": "2026-04-28",
-    "description": "Shir Meir LadorShir Meir LadorShir Meir LadorFollowforGoogle AIApr 28Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) fo...",
+    "description": "LoRA workarounds for custom model layersShir Meir LadorShir Meir LadorShir Meir LadorFollowforGoogle AIApr 28Fine-Tuning Gemma 4 with Cloud Run Jobs: ...",
     "tags": "#gemma, #machinelearning, #googlecloud, #cloudrun",
-    "reactions": "51 reactions",
-    "comments": "Comments 4 comments",
+    "reactions": "52 reactions",
+    "comments": "Comments 5 comments",
     "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib"
   },
   {
     "title": "Forking Paseo: Mobile vibe coding for me",
     "author": "Ryan Swift",
     "date": "2026-04-29",
-    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 29Forking Paseo: Mobile vibe coding for me#ai#agents#vibecoding#opensource24reactionsComments1comment5 min rea...",
+    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 29Forking Paseo: Mobile vibe coding for me#ai#agents#vibecoding#opensource31reactionsComments1comment5 min rea...",
     "tags": "#ai, #agents, #vibecoding, #opensource",
-    "reactions": "24 reactions",
+    "reactions": "31 reactions",
     "comments": "Comments 1 comment",
     "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa"
   },
@@ -63,10 +73,10 @@
     "title": "How I Used AI to Fix Our E2E Test Architecture",
     "author": "Debbie O'Brien",
     "date": "2026-04-29",
-    "description": "Debbie O'BrienDebbie O'BrienDebbie O'BrienFollowApr 29How I Used AI to Fix Our E2E Test Architecture#testing#e2e#playwright#ai29reactionsComments7comm...",
+    "description": "AI-led analysis of a 6% local pass rateDebbie O'BrienDebbie O'BrienDebbie O'BrienFollowApr 29How I Used AI to Fix Our E2E Test Architecture#testing#e2...",
     "tags": "#testing, #e2e, #playwright, #ai",
-    "reactions": "29 reactions",
-    "comments": "Comments 7 comments",
+    "reactions": "37 reactions",
+    "comments": "Comments 8 comments",
     "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a"
   },
   {
@@ -75,39 +85,9 @@
     "date": "2026-04-28",
     "description": "Remigiusz SamborskiRemigiusz SamborskiRemigiusz SamborskiFollowforGoogle AIApr 28How I used Gemini CLI to orchestrate a complex RAG migration#gemini#a...",
     "tags": "#gemini, #agents, #programming, #ai",
-    "reactions": "41 reactions",
+    "reactions": "45 reactions",
     "comments": "Comments 2 comments",
     "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga"
-  },
-  {
-    "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
-    "author": "Matty Stratton",
-    "date": "2026-04-23",
-    "description": "Scaffolding as the core productMatty StrattonMatty StrattonMatty StrattonFollowApr 23How My Coworker Who Didn't Know 'cd' Shipped to Production#webdev...",
-    "tags": "#webdev, #ai, #devops, #productivity",
-    "reactions": "35 reactions",
-    "comments": "Comments 15 comments",
-    "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j"
-  },
-  {
-    "title": "I Used to Love Coding. Now I Just Prompt.",
-    "author": "Harsh",
-    "date": "2026-04-24",
-    "description": "The trade-off between productivity and craftHarshHarshHarshFollowApr 24I Used to Love Coding. Now I Just Prompt.#discuss#ai#career#productivity114reac...",
-    "tags": "#discuss, #ai, #career, #productivity",
-    "reactions": "114 reactions",
-    "comments": "Comments 77 comments",
-    "url": "https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l"
-  },
-  {
-    "title": "I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It.",
-    "author": "Joske Vermeulen",
-    "date": "2026-04-24",
-    "description": "Google Cloud NEXT '26 Challenge SubmissionJoske VermeulenJoske VermeulenJoske VermeulenFollowApr 24I'm Running Gemini as an Autonomous Coding Agent. H...",
-    "tags": "#devchallenge, #cloudnextchallenge, #googlecloud",
-    "reactions": "19 reactions",
-    "comments": "Comments 13 comments",
-    "url": "https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2"
   },
   {
     "title": "Introducing Excaliclaw: A Skill for OpenClaw to Generate Excalidraw Diagrams",
@@ -125,9 +105,29 @@
     "date": "2026-04-30",
     "description": "Senior developer views on task overheadSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowApr 30Is Software Development Just a Side Quest? A Jira S...",
     "tags": "#discuss, #productivity",
-    "reactions": "58 reactions",
-    "comments": "Comments 45 comments",
+    "reactions": "81 reactions",
+    "comments": "Comments 47 comments",
     "url": "https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"
+  },
+  {
+    "title": "More Accessible Focus Indicators with Compose",
+    "author": "Eevis",
+    "date": "2026-04-30",
+    "description": "EevisEevisEevisFollowApr 30More Accessible Focus Indicators with Compose#android#a11y#mobile#programming32reactionsComments1comment6 min read",
+    "tags": "#android, #a11y, #mobile, #programming",
+    "reactions": "32 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4"
+  },
+  {
+    "title": "Stop Using Your Clipboard to Share Context",
+    "author": "Ryan Swift",
+    "date": "2026-04-30",
+    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 30Stop Using Your Clipboard to Share Context#ai#agents#mcp#cli36reactionsComments1comment4 min read",
+    "tags": "#ai, #agents, #mcp, #cli",
+    "reactions": "36 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941"
   },
   {
     "title": "The Real Token Economy Is Not About Spending Less. It Is About Thinking Smaller.",
@@ -135,18 +135,18 @@
     "date": "2026-04-26",
     "description": "Easier debugging with cognitive pipelinesmarcosommamarcosommamarcosommaFollowApr 26The Real Token Economy Is Not About Spending Less. It Is About Thin...",
     "tags": "#ai, #agents, #programming, #productivity",
-    "reactions": "32 reactions",
-    "comments": "Comments 9 comments",
+    "reactions": "33 reactions",
+    "comments": "Comments 11 comments",
     "url": "https://dev.to/marcosomma/the-real-token-economy-is-not-about-spending-less-it-is-about-thinking-smaller-3j3e"
   },
   {
     "title": "Top 7 Featured DEV Posts of the Week",
     "author": "Jess Lee",
     "date": "2026-04-27",
-    "description": "Neuroscience in AI and manual code as artJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 27Top 7 Featured DEV Posts of the Week#discuss#top743reactio...",
+    "description": "Neuroscience in AI and manual code as artJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 27Top 7 Featured DEV Posts of the Week#discuss#top744reactio...",
     "tags": "#discuss, #top7",
-    "reactions": "43 reactions",
-    "comments": "Comments 5 comments",
+    "reactions": "44 reactions",
+    "comments": "Comments 6 comments",
     "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl"
   },
   {
@@ -155,7 +155,7 @@
     "date": "2026-04-27",
     "description": "The initial dread and the silence of shippingTombri BoweiTombri BoweiTombri BoweiFollowApr 27What It Actually Feels Like to Build Something You're Pro...",
     "tags": "#career, #webdev, #beginners, #productivity",
-    "reactions": "34 reactions",
+    "reactions": "36 reactions",
     "comments": "Comments 21 comments",
     "url": "https://dev.to/_boweii/what-it-actually-feels-like-to-build-something-youre-proud-of-35mi"
   },
@@ -175,7 +175,7 @@
     "date": "2026-04-28",
     "description": "WPM challenge winners and a Kpop-themed coverFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowApr 28🗓️ Monthly Dev Report: April 2026...",
     "tags": "#discuss, #devjournal, #programming, #community",
-    "reactions": "49 reactions",
+    "reactions": "52 reactions",
     "comments": "Comments 14 comments",
     "url": "https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"
   }
