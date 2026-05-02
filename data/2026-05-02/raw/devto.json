@@ -5,19 +5,9 @@
     "date": "2026-04-26",
     "description": "Ready-to-use markdown templateGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowApr 2615 Essential Sections Every README Needs: Give Your Project Wha...",
     "tags": "#documentation, #opensource, #tutorial, #development",
-    "reactions": "154 reactions",
+    "reactions": "153 reactions",
     "comments": "Comments 80 comments",
     "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"
-  },
-  {
-    "title": "Agents are building their own UIs now. Here's when that's worth doing.",
-    "author": "Sireesha Pulipati",
-    "date": "2026-04-29",
-    "description": "Google Cloud NEXT '26 Challenge SubmissionSireesha PulipatiSireesha PulipatiSireesha PulipatiFollowforGoogle Developer ExpertsApr 29Agents are buildin...",
-    "tags": "#devchallenge, #googlecloud, #cloudnextchallenge, #genui",
-    "reactions": "30 reactions",
-    "comments": "Comments 2 comments",
-    "url": "https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d"
   },
   {
     "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
@@ -25,8 +15,8 @@
     "date": "2026-04-30",
     "description": "DEV Weekend Challenge: Earth DayJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 30Announcing the Winners of the DEV Weekend Challenge: Earth Day Edit...",
     "tags": "#devchallenge, #weekendchallenge",
-    "reactions": "81 reactions",
-    "comments": "Comments 35 comments",
+    "reactions": "85 reactions",
+    "comments": "Comments 37 comments",
     "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
   },
   {
@@ -35,7 +25,7 @@
     "date": "2026-04-28",
     "description": "Small models rivaling giants in code tasksKernel PryanicKernel PryanicKernel PryanicFollowApr 28Are We Using AI at the Wrong Scale?#discuss#ai#llm#sof...",
     "tags": "#discuss, #ai, #llm, #software",
-    "reactions": "61 reactions",
+    "reactions": "63 reactions",
     "comments": "Comments 17 comments",
     "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
   },
@@ -55,7 +45,7 @@
     "date": "2026-04-29",
     "description": "Google Cloud NEXT '26 Challenge SubmissionSreejit PradhanSreejit PradhanSreejit PradhanFollowApr 29Everyone's Talking About Gemini. The Real Story at ...",
     "tags": "#cloudnextchallenge, #googlecloud, #ai, #devchallenge",
-    "reactions": "37 reactions",
+    "reactions": "39 reactions",
     "comments": "Comments 4 comments",
     "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2"
   },
@@ -95,7 +85,7 @@
     "date": "2026-04-28",
     "description": "Remigiusz SamborskiRemigiusz SamborskiRemigiusz SamborskiFollowforGoogle AIApr 28How I used Gemini CLI to orchestrate a complex RAG migration#gemini#a...",
     "tags": "#gemini, #agents, #programming, #ai",
-    "reactions": "45 reactions",
+    "reactions": "46 reactions",
     "comments": "Comments 2 comments",
     "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga"
   },
@@ -115,18 +105,18 @@
     "date": "2026-04-30",
     "description": "Senior developer views on task overheadSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowApr 30Is Software Development Just a Side Quest? A Jira S...",
     "tags": "#discuss, #productivity",
-    "reactions": "85 reactions",
-    "comments": "Comments 57 comments",
+    "reactions": "93 reactions",
+    "comments": "Comments 62 comments",
     "url": "https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"
   },
   {
     "title": "More Accessible Focus Indicators with Compose",
     "author": "Eevis",
     "date": "2026-04-30",
-    "description": "EevisEevisEevisFollowApr 30More Accessible Focus Indicators with Compose#android#a11y#mobile#programming33reactionsComments1comment6 min read",
+    "description": "EevisEevisEevisFollowApr 30More Accessible Focus Indicators with Compose#android#a11y#mobile#programming35reactionsComments2comments6 min read",
     "tags": "#android, #a11y, #mobile, #programming",
-    "reactions": "33 reactions",
-    "comments": "Comments 1 comment",
+    "reactions": "35 reactions",
+    "comments": "Comments 2 comments",
     "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4"
   },
   {
@@ -165,9 +155,19 @@
     "date": "2026-04-27",
     "description": "The initial dread and the silence of shippingTombri BoweiTombri BoweiTombri BoweiFollowApr 27What It Actually Feels Like to Build Something You're Pro...",
     "tags": "#career, #webdev, #beginners, #productivity",
-    "reactions": "36 reactions",
-    "comments": "Comments 21 comments",
+    "reactions": "40 reactions",
+    "comments": "Comments 22 comments",
     "url": "https://dev.to/_boweii/what-it-actually-feels-like-to-build-something-youre-proud-of-35mi"
+  },
+  {
+    "title": "What was your win this week?",
+    "author": "Jess Lee",
+    "date": "2026-05-01",
+    "description": "Open source builds and funny movie betsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 1What was your win this week?#discuss#weeklyretro11reactionsCo...",
+    "tags": "#discuss, #weeklyretro",
+    "reactions": "11 reactions",
+    "comments": "Comments 7 comments",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-ig5"
   },
   {
     "title": "🗓️ Monthly Dev Report: April 2026",
@@ -175,7 +175,7 @@
     "date": "2026-04-28",
     "description": "WPM challenge winners and a Kpop-themed coverFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowApr 28🗓️ Monthly Dev Report: April 2026...",
     "tags": "#discuss, #devjournal, #programming, #community",
-    "reactions": "53 reactions",
+    "reactions": "55 reactions",
     "comments": "Comments 14 comments",
     "url": "https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"
   }
