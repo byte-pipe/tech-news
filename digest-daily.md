@@ -1,74 +1,76 @@
 ---
-date: '2026-05-03'
+date: '2026-05-04'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-03T18:00:30.574054'
+generated_at: '2026-05-04T06:02:57.000004'
 ---
 
-## Executive Summary
-- Conservationists are turning to native mycorrhizal fungi to fully restore Palmyra Atoll’s ecosystems, linking forest health to seabird colonies and coral reefs.  
-- California will begin issuing tickets directly to autonomous‑vehicle manufacturers, tightening enforcement after several high‑profile incidents.  
-- Apple faces multi‑month shortages of Mac mini and Mac Studio units, prompting price hikes and highlighting soaring AI‑driven demand and a global RAM shortage.  
-- A range of AI‑related incidents—from Canva’s inadvertent political word substitution to the launch of “Clicky,” a voice‑activated Mac assistant—underscore the need for rigorous testing and user‑centric design.  
-- In hardware and dev‑tools news, a trending discussion explains why black fan variants lag behind standard releases, while open‑source tools like Barman and whohas continue to mature.
-
----
-
-## AI and Machine Learning
-
-### To Restore an Island Paradise, Add Fungi – Yale E360  
-Researchers on Palmyra Atoll found rare native mycorrhizal fungi essential for Pisonia tree growth, proposing fungal transplants to complete forest restoration and thereby support seabird colonies and surrounding coral reefs.
-
-### California to Begin Ticketing Driverless Cars That Violate Traffic Laws – HNRSS  
-Effective 1 July, the California DMV will allow police to issue “notice of AV non‑compliance” tickets directly to autonomous‑vehicle manufacturers, a response to incidents such as a Waymo illegal U‑turn and stalled robotaxis during a citywide blackout.
-
-### Apple May Take “Several Months” to Catch Up to Mac mini and Studio Demand – Ars Technica  
-Apple’s Q2 earnings call revealed that unexpected AI‑agent usage has driven outsized demand for Mac mini and Mac Studio, while TSMC capacity constraints and a RAM shortage push supply‑demand balance out by several months.
-
-### Apple Raises the Mac Mini’s Starting Price – The Verge  
-The base Mac mini now starts at $799 with 512 GB storage and an M4 chip, reflecting higher memory costs and “higher‑than‑expected” AI‑driven demand; the 512 GB‑RAM Mac Studio has been discontinued.
-
-### Canva Admits Its AI Tool Removed “Palestine” From Designs – TLDR  
-Canva’s “Magic Layers” AI mistakenly replaced the word “Palestine” with “Ukraine” in user designs; the company has fixed the bug, launched an audit, and pledged tighter testing to avoid political bias.
-
-### Clicky – An AI Buddy That Lives on Your Mac – TLDR  
-Clicky is a voice‑activated AI assistant for macOS that can answer software questions, run autonomous “agents” to build webpages, summarize PDFs, and perform other tasks, with a Windows version slated for later release.
-
-### Clipping Is a Shoo‑In Media Trend of the Year – MediaCat UK  
-Short‑form clips (30‑60 s) derived from long videos are now a revenue engine, with large‑scale “clipper” networks paid thousands of dollars; AI firms are positioning themselves to automate this labor‑intensive practice.
-
-### Reddit – Please Wait for Verification – Reddit  
-*No article text provided; unable to synthesize.*
+## Executive Summary  
+- European AI‑focused startups are attracting sizable capital, with 21 firms highlighted by TechCrunch as the continent’s next wave of deep‑tech talent.  
+- A new “Sparse‑AI” chip prototype demonstrates that hardware‑level sparsity can slash AI energy use by up to 70‑fold, pointing to a greener path for ever‑larger models.  
+- Clojurists Together announced its Q2 2026 funding round, backing projects that aim to make Clojure‑based AI tools more memory‑efficient and to bring local LLMs to the language ecosystem.  
+- The “Distribution Is the Final Moat” essay argues that in 2026 product features are easily copied, making go‑to‑market speed the decisive competitive edge.  
+- In academia, a Stanford‑led fMRI study shows that group‑averaged brain analyses can mask critical individual differences in cognitive control, urging a shift toward personalized neuroscience.
 
 ---
 
-## Software Engineering and Dev Tools
+## AI and Machine Learning  
 
-### Why Does It Take So Long to Release Black Fan Versions? – Noctua *(Trending)*  
-Black‑colored high‑performance fans require separate injection‑moulding tooling and extended validation because carbon‑black pigments alter melt viscosity and cooling, typically adding a six‑month (or more) delay after the standard colour launch.
+### Clojurists Together | Q2 2026 Funding Announcement [hackernews_api]  
+Clojure community fund allocates **$31 K** to five projects, including constant‑memory validation for Malli, a local LLM library targeting Gemma 3, and the Gloat compiler that turns Clojure code into native Go binaries.
 
-### Barman – Backup and Recovery Manager for PostgreSQL – GitHub  
-EnterpriseDB’s open‑source Barman provides remote, automated backups for PostgreSQL, now hosted on GitHub with version 3.18.0 released in March 2026 and a GPL‑3 license.
+### HN SOTA — Model popularity | HN Update [hackernews_api]  
+A daily pipeline scrapes Hacker News comments, extracts model mentions, and aggregates sentiment, publishing a ten‑day “Top 10 Model Popularity” ranking in a public Google Sheet.
 
-### Arsenal 3‑0 Fulham: Premier League – as it happened – Al Jazeera  
-*Full article text not supplied; unable to summarize.*
+### Group averages obscure how an individual’s brain controls behavior, Stanford Medicine study finds [hnrss]  
+Analysis of >4,000 children’s fMRI data reveals that averaging masks opposite neural dynamics in high‑ vs low‑performing kids, suggesting personalized neuro‑interventions for disorders like ADHD.
 
-### Arsenal Ease Past Fulham to Pull Six Points Clear of Manchester City – Al Jazeera  
-Arsenal’s 3‑0 win, highlighted by Viktor Gyökeres’ hat‑trick and Bukayo Saka’s return, extends their league lead to six points over Manchester City, while Arteta’s midfield tweak with Myles Lewis‑Skelly proved decisive.
+### Southwest Headquarters Tour — Portfolio documentation [hnrss]  
+A detailed walkthrough of Southwest Airlines’ Dallas LEAD Center showcases flight‑attendant and pilot training, the Network Operations Center, and the “Baker” scheduling tool that optimizes dispatch across 4,000 daily flights.
 
-### As Tim Cook Steps Down, Apple Hit Record Sales — but a Chip Shortage Looms – TechCrunch  
-Apple posted a record $111.2 bn Q2 revenue, yet warns of “significantly higher memory costs” from AI‑driven RAM demand; Cook will hand the CEO role to John Ternus in September.
+### Best Travel Tote Bags for Every Kind of Excursion (2026): Away, Le Pliage, Topo Designs | WIRED [newsfeed]  
+WIRED rates the **Away Everywhere Tote** as the top travel bag for durability and airline‑friendly size, followed by the waterproof Yardsale Day Bag and the versatile Béis Sport Tote.
 
-### Behind the Scenes: Are Prediction Markets Good for Anything? – TLDR  
-Dan argues prediction markets have failed to deliver public‑good early warnings, citing limited liquidity and institutional participation, while platforms like Metaculus show superior calibration on harder scientific questions.
+### Beyond Lovable and Mistral: 21 European startups to watch | TechCrunch [newsfeed]  
+Investors spotlight 21 AI‑centric European startups—from counter‑drone firm Alta Ares to data‑centric foundation model company Fundamental—highlighting the region’s deep‑tech talent pipeline.
 
----
-
-## Open Source
-
-### whohas – Cross‑platform Package Search Tool – GitHub  
-The Perl‑based `whohas` utility queries multiple Linux/Unix, BSD, and macOS package repositories simultaneously, helping users locate software across distributions and view version details, with full source and documentation available on GitHub.
+### Distribution Is the Final Moat - by Samet Ozkale [tldr]  
+The essay argues that in 2026 product features are trivially replicable, making rapid, private demand validation and robust distribution channels the true competitive moat.
 
 ---
 
-## Notable Mentions
-- *No additional notable mentions were identified in today’s feed.*
+## Software Engineering and Dev Tools  
+
+### A Physics Engine with Incremental Rollback • Easel [hackernews_api]  
+Easel’s new engine snapshots only actively moving objects, achieving 30‑50× less work per frame and enabling massive multiplayer worlds with efficient sleep, BVH indexing, and CCD handling.
+
+### Bard College's president to retire after scrutiny of relationship with Jeffrey Epstein : NPR [newsfeed]  
+Leon Botstein will step down after 50 years; an independent review found no legal violations but criticized his handling of the Epstein connection, prompting the redirection of related funds to survivor support groups.
+
+### Blood test hints at breast‑tumour response to treatment [newsfeed]  
+Scientists unveil a blood‑based biomarker measuring T‑cell activation that can predict early response to immunotherapy in breast‑cancer patients, offering a path to personalized treatment.
+
+### Sparse AI Hardware Slashes Energy and Latency - IEEE Spectrum [newsfeed]  
+A Stanford prototype chip that natively exploits tensor sparsity delivers ~1/70th the energy use and ~8× speedup versus CPUs, demonstrating a viable route to greener, faster large‑scale AI inference.
+
+### Goodboy Framework – 15‑stage Windows malware course in Rust [tldr]  
+An open‑source Rust project provides a hands‑on, 15‑stage curriculum for building and detecting Windows malware, with each stage delivering a fully functional binary that evaded all major AV engines on VirusTotal.
+
+---
+
+## Startups and Business  
+
+### Freepik rebrands as Magnific: a bootstrapped, profitable $230M ARR AI creative platform [tldr]  
+Freepik, now **Magnific**, consolidates its AI image/video generation, upscaling, and collaborative tools under one brand, boasting $230 M ARR, >1 M paying users, and a fully bootstrapped, profitable business model.
+
+---
+
+## Science and Research  
+
+### A more efficient implementation of Shor's algorithm [LWN.net]  
+A collaborative team reduces the logical qubit count needed to factor 256‑bit elliptic‑curve keys by ~20×, releasing a zero‑knowledge proof of the circuit while keeping the actual implementation private to prevent misuse.
+
+---
+
+## Notable Mentions  
+- GitHub is sinking – David Bushell – Web Dev (UK) [tldr]  
+- GitHub – ScaleBrick/founder-marketing-skills: Open‑source marketing skills for founders [tldr]
