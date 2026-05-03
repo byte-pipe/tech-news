@@ -1,22 +1,12 @@
 [
   {
-    "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
-    "author": "Giorgi Kobaidze",
-    "date": "2026-04-26",
-    "description": "Ready-to-use markdown templateGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowApr 2615 Essential Sections Every README Needs: Give Your Project Wha...",
-    "tags": "#documentation, #opensource, #tutorial, #development",
-    "reactions": "153 reactions",
-    "comments": "Comments 80 comments",
-    "url": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"
-  },
-  {
     "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
     "author": "Jess Lee",
     "date": "2026-04-30",
     "description": "DEV Weekend Challenge: Earth DayJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 30Announcing the Winners of the DEV Weekend Challenge: Earth Day Edit...",
     "tags": "#devchallenge, #weekendchallenge",
-    "reactions": "92 reactions",
-    "comments": "Comments 43 comments",
+    "reactions": "93 reactions",
+    "comments": "Comments 45 comments",
     "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
   },
   {
@@ -25,8 +15,8 @@
     "date": "2026-04-28",
     "description": "Small models rivaling giants in code tasksKernel PryanicKernel PryanicKernel PryanicFollowApr 28Are We Using AI at the Wrong Scale?#discuss#ai#llm#sof...",
     "tags": "#discuss, #ai, #llm, #software",
-    "reactions": "65 reactions",
-    "comments": "Comments 19 comments",
+    "reactions": "66 reactions",
+    "comments": "Comments 21 comments",
     "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
   },
   {
@@ -35,8 +25,8 @@
     "date": "2026-04-29",
     "description": "Sub-100ms performance for Go and RustEric D JohnsonEric D JohnsonEric D JohnsonFollowforAWSApr 29Cold Starts Are Dead#serverless#aws#lambda#coldstarts...",
     "tags": "#serverless, #aws, #lambda, #coldstarts",
-    "reactions": "33 reactions",
-    "comments": "Comments 9 comments",
+    "reactions": "34 reactions",
+    "comments": "Comments 10 comments",
     "url": "https://dev.to/aws/cold-starts-are-dead-5fod"
   },
   {
@@ -55,8 +45,8 @@
     "date": "2026-04-28",
     "description": "LoRA workarounds for custom model layersShir Meir LadorShir Meir LadorShir Meir LadorFollowforGoogle AIApr 28Fine-Tuning Gemma 4 with Cloud Run Jobs: ...",
     "tags": "#gemma, #machinelearning, #googlecloud, #cloudrun",
-    "reactions": "54 reactions",
-    "comments": "Comments 5 comments",
+    "reactions": "56 reactions",
+    "comments": "Comments 7 comments",
     "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib"
   },
   {
@@ -90,13 +80,23 @@
     "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga"
   },
   {
+    "title": "I Don't Like Tailwind. Sorry Not Sorry",
+    "author": "Andy Robinson",
+    "date": "2026-05-01",
+    "description": "A pumpkin pie analogy for hand-crafted codeAndy RobinsonAndy RobinsonAndy RobinsonFollowMay 1I Don't Like Tailwind. Sorry Not Sorry#discuss#css#webdev...",
+    "tags": "#discuss, #css, #webdev, #frontend",
+    "reactions": "33 reactions",
+    "comments": "Comments 11 comments",
+    "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
+  },
+  {
     "title": "Is Software Development Just a Side Quest? A Jira Story",
     "author": "Sylwia Laskowska",
     "date": "2026-04-30",
     "description": "Senior developer views on task overheadSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowApr 30Is Software Development Just a Side Quest? A Jira S...",
     "tags": "#discuss, #productivity",
-    "reactions": "106 reactions",
-    "comments": "Comments 71 comments",
+    "reactions": "119 reactions",
+    "comments": "Comments 73 comments",
     "url": "https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"
   },
   {
@@ -153,19 +153,19 @@
     "title": "What was your win this week?",
     "author": "Jess Lee",
     "date": "2026-05-01",
-    "description": "Open source builds and funny movie betsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 1What was your win this week?#discuss#weeklyretro15reactionsCo...",
+    "description": "Open source builds and funny movie betsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 1What was your win this week?#discuss#weeklyretro16reactionsCo...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "15 reactions",
-    "comments": "Comments 12 comments",
+    "reactions": "16 reactions",
+    "comments": "Comments 18 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-ig5"
   },
   {
     "title": "Why I'm Building SaaS in 2026",
     "author": "arunkant",
     "date": "2026-04-29",
-    "description": "SaaS as reliable plumbing for fragile agentsarunkantarunkantarunkantFollowApr 29Why I'm Building SaaS in 2026#saas#ai#agents#workflows36reactionsComme...",
+    "description": "SaaS as reliable plumbing for fragile agentsarunkantarunkantarunkantFollowApr 29Why I'm Building SaaS in 2026#saas#ai#agents#workflows38reactionsComme...",
     "tags": "#saas, #ai, #agents, #workflows",
-    "reactions": "36 reactions",
+    "reactions": "38 reactions",
     "comments": "Comments 23 comments",
     "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn"
   },
