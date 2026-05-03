@@ -1,15 +1,5 @@
 [
   {
-    "title": "110 Free Agent Skills (Website)",
-    "url": "https://www.yepapi.com/skills",
-    "description": "110 Free Agent Skills (Website)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
     "title": "2 website changes that increased leads from AI (2 minute read)",
     "url": "https://www.linkedin.com/posts/zayd-syed-ali-4201101a9_made-2-simple-changes-on-our-website-and-share-7455232722349826048-PyMz",
     "description": "2 website changes that increased leads from AI (2 minute read)",
@@ -33,36 +23,6 @@
     "title": "2026: The Year of Churn (5 minute read)",
     "url": "https://www.onlycfo.io/p/2026-the-year-of-churn",
     "description": "2026: The Year of Churn (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "3 ways to store variables in React, and why you shouldn't sleep on useRef (4 minute read)",
-    "url": "https://readwriterachel.com/things-i-learned/2026/04/23/back-to-basics-react-variables.html",
-    "description": "3 ways to store variables in React, and why you shouldn't sleep on useRef (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "5-Day AI Agents: Intensive Vibe Coding Course With Google (Free Course)",
-    "url": "https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google/overview",
-    "description": "5-Day AI Agents: Intensive Vibe Coding Course With Google (Free Course)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "7 AEO best practices used at Hubspot (1 minute read)",
-    "url": "https://www.linkedin.com/posts/kyledenhoff_were-rebuilding-how-hubspot-shows-up-in-share-7454278722834264064-XRlc",
-    "description": "7 AEO best practices used at Hubspot (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -160,16 +120,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agent Memory Patterns (7 minute read)",
-    "url": "https://timkellogg.me/blog/2026/04/27/memory-patterns",
-    "description": "Agent Memory Patterns (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
     "title": "Agents can now create Cloudflare accounts, buy domains, and deploy (7 minute read)",
     "url": "https://blog.cloudflare.com/agents-stripe-projects/",
     "description": "Agents can now create Cloudflare accounts, buy domains, and deploy (7 minute read)",
@@ -220,9 +170,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple Planning to Launch Two New 'Ultra' Products in the Next Year (1 minute read)",
-    "url": "https://www.macrumors.com/2026/04/27/apple-planning-to-launch-two-new-ultra-products/",
-    "description": "Apple Planning to Launch Two New 'Ultra' Products in the Next Year (1 minute read)",
+    "title": "Apple UX Principle: How Simplicity Drives Apple's 5–10% Conversion Rates (8 minute read)",
+    "url": "https://raw.studio/blog/apple-ux-principle/",
+    "description": "Apple UX Principle: How Simplicity Drives Apple's 5–10% Conversion Rates (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -230,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple UX Principle: How Simplicity Drives Apple's 5–10% Conversion Rates (8 minute read)",
-    "url": "https://raw.studio/blog/apple-ux-principle/",
-    "description": "Apple UX Principle: How Simplicity Drives Apple's 5–10% Conversion Rates (8 minute read)",
+    "title": "Awesome Design.md (GitHub Repo)",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "description": "Awesome Design.md (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -273,16 +223,6 @@
     "title": "Benchmarking How Workflow Execution Scales on Postgres (8 minute read)",
     "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
     "description": "Benchmarking How Workflow Execution Scales on Postgres (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Bitwarden CLI Supply Chain Attack Exposes Dev Secrets (3 minute read)",
-    "url": "https://commonwealthsentinel.com/cyber-security-weekly-top-5-week-of-april-20-26-2026/",
-    "description": "Bitwarden CLI Supply Chain Attack Exposes Dev Secrets (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -460,16 +400,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Founder Marketing Skills (GitHub Repo)",
-    "url": "https://github.com/ScaleBrick/founder-marketing-skills",
-    "description": "Founder Marketing Skills (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
     "title": "Freepik Rebrands as Magnific: a Bootstrapped, Profitable $230m ARR AI Creative Platform (3 minute read)",
     "url": "https://thenextweb.com/news/freepik-rebrands-as-magnific",
     "description": "Freepik Rebrands as Magnific: a Bootstrapped, Profitable $230m ARR AI Creative Platform (3 minute read)",
@@ -570,16 +500,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "How Bitwarden Encrypts and Decrypts Secrets (12 minute read)",
-    "url": "https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets",
-    "description": "How Bitwarden Encrypts and Decrypts Secrets (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
     "title": "How I Do Content Engineering with Claude Code (7 minute read)",
     "url": "https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/",
     "description": "How I Do Content Engineering with Claude Code (7 minute read)",
@@ -660,16 +580,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "I'm Sorry Dave, This Request Triggered Restrictions On Violative Cyber Content (4 minute read)",
-    "url": "https://grahamhelton.com/blog/sorry-dave",
-    "description": "I'm Sorry Dave, This Request Triggered Restrictions On Violative Cyber Content (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
     "title": "IT turns AI inward (4 minute read)",
     "url": "https://www.cio.com/article/4163373/cios-bring-ai-transformation-home-to-it-workflows.html",
     "description": "IT turns AI inward (4 minute read)",
@@ -713,16 +623,6 @@
     "title": "Lessons on Building MCP Servers (5 minute read)",
     "url": "https://taoofmac.com/space/blog/2026/04/29/2341",
     "description": "Lessons on Building MCP Servers (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Link CLI (GitHub Repo)",
-    "url": "https://github.com/stripe/link-cli",
-    "description": "Link CLI (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -810,16 +710,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft 365 E7 and Agent 365 Go GA May 1 (5 minute read)",
-    "url": "https://www.npifinancial.com/knowledge-center/microsoft-365-e7-what-it-is-whats-inside-and-what-enterprise-buyers-need-to-know/",
-    "description": "Microsoft 365 E7 and Agent 365 Go GA May 1 (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
     "title": "Microsoft Security Pushes Agent Governance (3 minute read)",
     "url": "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/",
     "description": "Microsoft Security Pushes Agent Governance (3 minute read)",
@@ -833,16 +723,6 @@
     "title": "Mini Shai Hulud and SAP Compromise (11 minute read)",
     "url": "https://safedep.io/mini-shai-hulud-and-sap-compromise/",
     "description": "Mini Shai Hulud and SAP Compromise (11 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Morgan Stanley Launches Fund for Stablecoin Management (4 minute read)",
-    "url": "https://decrypt.co/365443",
-    "description": "Morgan Stanley Launches Fund for Stablecoin Management (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -900,46 +780,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "One photo, two products: this Bic advert is print perfection (3 minute read)",
-    "url": "https://www.creativebloq.com/design/advertising/one-photo-two-products-this-bic-advert-is-print-ad-perfection",
-    "description": "One photo, two products: this Bic advert is print perfection (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI is making its own phone to compete with the iPhone (1 minute read)",
-    "url": "https://9to5mac.com/2026/04/27/openai-is-making-its-own-phone-to-compete-with-the-iphone-report/",
-    "description": "OpenAI is making its own phone to compete with the iPhone (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI's New Image Model Reasons Before it Draws (4 minute read)",
-    "url": "https://thenextweb.com/news/openai-chatgpt-images-2-0-reasoning-image-generation",
-    "description": "OpenAI's New Image Model Reasons Before it Draws (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years (2 minute read)",
-    "url": "https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/",
-    "description": "OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
     "title": "OpenSpec (GitHub Repo)",
     "url": "https://github.com/Fission-AI/OpenSpec",
     "description": "OpenSpec (GitHub Repo)",
@@ -953,16 +793,6 @@
     "title": "Opus 4.7's New Tokenizer: What It Actually Costs (6 minute read)",
     "url": "https://openrouter.ai/announcements/opus-47-tokenizer-analysis",
     "description": "Opus 4.7's New Tokenizer: What It Actually Costs (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Polymarket Rejects Breach Claims Amid 300K Record Leak Reports (2 minute read)",
-    "url": "https://www.cryptotimes.io/2026/04/29/polymarket-rejects-breach-claims-amid-300k-record-leak-reports/",
-    "description": "Polymarket Rejects Breach Claims Amid 300K Record Leak Reports (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1033,16 +863,6 @@
     "title": "Rocky (GitHub Repo)",
     "url": "https://github.com/rocky-data/rocky",
     "description": "Rocky (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Rustinel (GitHub Repo)",
-    "url": "https://github.com/Karib0u/rustinel",
-    "description": "Rustinel (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -1150,9 +970,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The AI skills salary premium (4 minute read)",
-    "url": "https://www.growth-memo.com/p/the-ai-skills-salary-premium",
-    "description": "The AI skills salary premium (4 minute read)",
+    "title": "The Bot Left a Fingerprint: Detecting and Attributing LLM-Generated Passwords (7 minute read)",
+    "url": "https://blog.gitguardian.com/the-bot-fingerprint-detecting-llm-passwords/",
+    "description": "The Bot Left a Fingerprint: Detecting and Attributing LLM-Generated Passwords (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1160,9 +980,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Bot Left a Fingerprint: Detecting and Attributing LLM-Generated Passwords (7 minute read)",
-    "url": "https://blog.gitguardian.com/the-bot-fingerprint-detecting-llm-passwords/",
-    "description": "The Bot Left a Fingerprint: Detecting and Attributing LLM-Generated Passwords (7 minute read)",
+    "title": "The Compounding Software Factory (13 minute read)",
+    "url": "https://refactoring.fm/p/the-compounding-software-factory",
+    "description": "The Compounding Software Factory (13 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1250,16 +1070,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Space Between Humans, AI, and the Work We've Been Avoiding (4 minute read)",
-    "url": "https://www.bettyjunod.com/blog/the-space-between-humans-ai-and-the-work-weve-been-avoiding",
-    "description": "The Space Between Humans, AI, and the Work We've Been Avoiding (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
     "title": "The anatomy of an elite homepage hero (2 minute read)",
     "url": "https://www.linkedin.com/posts/clemence-lepers_i-swear-this-homepage-is-free-therapy-share-7453193641172393984-p2LO/",
     "description": "The anatomy of an elite homepage hero (2 minute read)",
@@ -1270,59 +1080,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The latest iPhone Fold leaks, rumors, and renders: Everything we know (7 minute read)",
-    "url": "https://mashable.com/article/iphone-fold-ultra-specifications-rumors-leaks-release-date",
-    "description": "The latest iPhone Fold leaks, rumors, and renders: Everything we know (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The unwritten laws of software engineering (8 minute read)",
-    "url": "https://newsletter.manager.dev/p/the-unwritten-laws-of-software-engineering",
-    "description": "The unwritten laws of software engineering (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The world's most complex machine (22 minute read)",
-    "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
-    "description": "The world's most complex machine (22 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
     "title": "This Firefox Vulnerability May Have Been Tracking All Your Private Tor Identities (2 minute read)",
     "url": "https://www.techradar.com/pro/security/this-firefox-vulnerability-may-have-been-tracking-all-your-private-tor-identities-even-in-private-mode",
     "description": "This Firefox Vulnerability May Have Been Tracking All Your Private Tor Identities (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Thoughts and Feelings Around Claude Design (5 minute read)",
-    "url": "https://samhenri.gold/blog/20260418-claude-design/",
-    "description": "Thoughts and Feelings Around Claude Design (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "To Train or Not to Train (10 minute read)",
-    "url": "https://www.tanayj.com/p/to-train-or-not-to-train",
-    "description": "To Train or Not to Train (10 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1353,26 +1113,6 @@
     "title": "Visa Expands Stablecoin Settlement to Nine Blockchains (4 minute read)",
     "url": "https://decrypt.co/365968/visa-base-polygon-canton-arc-tempo-stablecoin-settlement-program",
     "description": "Visa Expands Stablecoin Settlement to Nine Blockchains (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Wedges and Control Points in Product Strategy (5 minute read)",
-    "url": "https://edwardhsu.substack.com/p/wedges-control-points-and-the-missing",
-    "description": "Wedges and Control Points in Product Strategy (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "What If We Prompted AI for Outcomes Instead of Outputs? (4 minute read)",
-    "url": "https://jeffgothelf.com/blog/what-if-we-prompted-ai-for-outcomes-instead-of-outputs/",
-    "description": "What If We Prompted AI for Outcomes Instead of Outputs? (4 minute read)",
     "tags": [
       "tldr"
     ],

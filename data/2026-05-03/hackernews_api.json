@@ -1,130 +1,45 @@
 [
   {
-    "title": "A report on burnout in open source software communities (2025) [pdf]",
-    "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-    "author": "susam",
-    "date": "2026-05-02",
-    "score": 128,
-    "comments": 57,
-    "id": 47981669,
-    "discussion_url": "https://news.ycombinator.com/item?id=47981669",
-    "description": "A report on burnout in open source software communities (2025) [pdf]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082705"
-  },
-  {
-    "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-    "url": "https://arxiv.org/abs/2509.00462",
-    "author": "laurex",
+    "title": "A couple million lines of Haskell: Production engineering at Mercury",
+    "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+    "author": "unignorant",
     "date": "2026-05-03",
-    "score": 308,
-    "comments": 160,
-    "id": 47987256,
-    "discussion_url": "https://news.ycombinator.com/item?id=47987256",
-    "description": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+    "score": 256,
+    "comments": 107,
+    "id": 47991802,
+    "discussion_url": "https://news.ycombinator.com/item?id=47991802",
+    "description": "A couple million lines of Haskell: Production engineering at Mercury",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082206"
+    "fetched_at": "2026-05-03T11:40:47.845980"
   },
   {
-    "title": "America's Expanding Domestic Surveillance",
-    "url": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
-    "author": "Brajeshwar",
+    "title": "A network smuggling Starlink tech into Iran to beat internet blackout",
+    "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+    "author": "1659447091",
     "date": "2026-05-03",
-    "score": 140,
-    "comments": 83,
-    "id": 47987006,
-    "discussion_url": "https://news.ycombinator.com/item?id=47987006",
-    "description": "America's Expanding Domestic Surveillance",
+    "score": 168,
+    "comments": 121,
+    "id": 47992338,
+    "discussion_url": "https://news.ycombinator.com/item?id=47992338",
+    "description": "A network smuggling Starlink tech into Iran to beat internet blackout",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082051"
-  },
-  {
-    "title": "An unknown Sega Saturn project has come to light after 29 years",
-    "url": "https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased",
-    "author": "bbayles",
-    "date": "2026-05-02",
-    "score": 91,
-    "comments": 2,
-    "id": 47985901,
-    "discussion_url": "https://news.ycombinator.com/item?id=47985901",
-    "description": "An unknown Sega Saturn project has come to light after 29 years",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082755"
-  },
-  {
-    "title": "Apocalypse Early Warning System",
-    "url": "https://ews.kylemcdonald.net/",
-    "author": "carlsborg",
-    "date": "2026-05-02",
-    "score": 237,
-    "comments": 117,
-    "id": 47976566,
-    "discussion_url": "https://news.ycombinator.com/item?id=47976566",
-    "description": "Apocalypse Early Warning System",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082852"
-  },
-  {
-    "title": "Artemis II Photo Timeline",
-    "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-    "author": "geerlingguy",
-    "date": "2026-04-30",
-    "score": 325,
-    "comments": 26,
-    "id": 47954394,
-    "discussion_url": "https://news.ycombinator.com/item?id=47954394",
-    "description": "Artemis II Photo Timeline",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082170"
-  },
-  {
-    "title": "Ask.com has closed",
-    "url": "https://www.ask.com/",
-    "author": "supermdguy",
-    "date": "2026-05-02",
-    "score": 413,
-    "comments": 215,
-    "id": 47983226,
-    "discussion_url": "https://news.ycombinator.com/item?id=47983226",
-    "description": "Ask.com has closed",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082722"
+    "fetched_at": "2026-05-03T11:40:47.846169"
   },
   {
     "title": "Barman – Backup and Recovery Manager for PostgreSQL",
     "url": "https://github.com/EnterpriseDB/barman",
     "author": "nateb2022",
     "date": "2026-04-29",
-    "score": 112,
-    "comments": 20,
+    "score": 163,
+    "comments": 23,
     "id": 47948526,
     "discussion_url": "https://news.ycombinator.com/item?id=47948526",
     "description": "Barman – Backup and Recovery Manager for PostgreSQL",
@@ -133,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082328"
+    "fetched_at": "2026-05-03T11:40:47.846109"
   },
   {
     "title": "California to begin ticketing driverless cars that violate traffic laws",
     "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
     "author": "geox",
-    "date": "2026-05-03",
-    "score": 112,
-    "comments": 109,
+    "date": "2026-05-02",
+    "score": 300,
+    "comments": 304,
     "id": 47988742,
     "discussion_url": "https://news.ycombinator.com/item?id=47988742",
     "description": "California to begin ticketing driverless cars that violate traffic laws",
@@ -150,15 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082451"
+    "fetched_at": "2026-05-03T11:40:47.846158"
+  },
+  {
+    "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+    "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+    "author": "dragandj",
+    "date": "2026-05-02",
+    "score": 113,
+    "comments": 12,
+    "id": 47990789,
+    "discussion_url": "https://news.ycombinator.com/item?id=47990789",
+    "description": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-03T11:40:47.845985"
   },
   {
     "title": "Dav2d",
     "url": "https://code.videolan.org/videolan/dav2d",
     "author": "dabinat",
-    "date": "2026-05-03",
-    "score": 131,
-    "comments": 44,
+    "date": "2026-05-02",
+    "score": 496,
+    "comments": 136,
     "id": 47988504,
     "discussion_url": "https://news.ycombinator.com/item?id=47988504",
     "description": "Dav2d",
@@ -167,32 +99,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082010"
+    "fetched_at": "2026-05-03T11:40:47.845998"
   },
   {
-    "title": "DeepSeek V4—almost on the frontier",
+    "title": "DeepSeek V4 – almost on the frontier",
     "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
     "author": "indigodaddy",
-    "date": "2026-05-02",
-    "score": 427,
-    "comments": 274,
+    "date": "2026-05-01",
+    "score": 548,
+    "comments": 330,
     "id": 47977026,
     "discussion_url": "https://news.ycombinator.com/item?id=47977026",
-    "description": "DeepSeek V4—almost on the frontier",
+    "description": "DeepSeek V4 – almost on the frontier",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082519"
+    "fetched_at": "2026-05-03T11:40:47.846106"
+  },
+  {
+    "title": "Do_not_track",
+    "url": "https://donottrack.sh/",
+    "author": "RubyGuy",
+    "date": "2026-05-02",
+    "score": 358,
+    "comments": 114,
+    "id": 47988592,
+    "discussion_url": "https://news.ycombinator.com/item?id=47988592",
+    "description": "Do_not_track",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-03T11:40:47.846012"
   },
   {
     "title": "Dotcl: Common Lisp Implementation on .NET",
     "url": "https://github.com/dotcl/dotcl",
     "author": "reikonomusha",
-    "date": "2026-05-01",
-    "score": 136,
-    "comments": 29,
+    "date": "2026-04-30",
+    "score": 170,
+    "comments": 44,
     "id": 47964957,
     "discussion_url": "https://news.ycombinator.com/item?id=47964957",
     "description": "Dotcl: Common Lisp Implementation on .NET",
@@ -201,32 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082433"
-  },
-  {
-    "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-    "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-    "author": "zdw",
-    "date": "2026-04-30",
-    "score": 161,
-    "comments": 228,
-    "id": 47955789,
-    "discussion_url": "https://news.ycombinator.com/item?id=47955789",
-    "description": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082883"
+    "fetched_at": "2026-05-03T11:40:47.846155"
   },
   {
     "title": "How fast is a macOS VM, and how small could it be?",
     "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
     "author": "moosia",
     "date": "2026-05-02",
-    "score": 197,
-    "comments": 75,
+    "score": 251,
+    "comments": 94,
     "id": 47984852,
     "discussion_url": "https://news.ycombinator.com/item?id=47984852",
     "description": "How fast is a macOS VM, and how small could it be?",
@@ -235,66 +167,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082536"
+    "fetched_at": "2026-05-03T11:40:47.846060"
   },
   {
-    "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
+    "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
     "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
     "author": "JeanKage",
     "date": "2026-04-30",
-    "score": 100,
-    "comments": 4,
+    "score": 206,
+    "comments": 19,
     "id": 47960015,
     "discussion_url": "https://news.ycombinator.com/item?id=47960015",
-    "description": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
+    "description": "Inventions for battery reuse and recycling increase seven-fold in last decade",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082189"
+    "fetched_at": "2026-05-03T11:40:47.845994"
   },
   {
-    "title": "K3k: Kubernetes in Kubernetes",
-    "url": "https://github.com/rancher/k3k",
-    "author": "jzebedee",
-    "date": "2026-05-02",
-    "score": 93,
-    "comments": 46,
-    "id": 47983176,
-    "discussion_url": "https://news.ycombinator.com/item?id=47983176",
-    "description": "K3k: Kubernetes in Kubernetes",
+    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+    "author": "bazlightyear",
+    "date": "2026-05-03",
+    "score": 305,
+    "comments": 167,
+    "id": 47993235,
+    "discussion_url": "https://news.ycombinator.com/item?id=47993235",
+    "description": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082737"
+    "fetched_at": "2026-05-03T11:40:47.846102"
   },
   {
-    "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-    "url": "https://github.com/microsoft/lib0xc",
-    "author": "wooster",
-    "date": "2026-05-02",
-    "score": 181,
-    "comments": 88,
-    "id": 47978834,
-    "discussion_url": "https://news.ycombinator.com/item?id=47978834",
-    "description": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+    "title": "Maryland to ban A.I.-driven price increases in grocery stores",
+    "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+    "author": "doener",
+    "date": "2026-05-03",
+    "score": 169,
+    "comments": 129,
+    "id": 47992349,
+    "discussion_url": "https://news.ycombinator.com/item?id=47992349",
+    "description": "Maryland to ban A.I.-driven price increases in grocery stores",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082771"
+    "fetched_at": "2026-05-03T11:40:47.846095"
+  },
+  {
+    "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+    "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+    "author": "andsoitis",
+    "date": "2026-05-02",
+    "score": 204,
+    "comments": 97,
+    "id": 47990284,
+    "discussion_url": "https://news.ycombinator.com/item?id=47990284",
+    "description": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-03T11:40:47.846067"
   },
   {
     "title": "NetHack 5.0.0",
     "url": "https://nethack.org/v500/release.html",
     "author": "rsaarelm",
-    "date": "2026-05-03",
-    "score": 229,
-    "comments": 43,
+    "date": "2026-05-02",
+    "score": 464,
+    "comments": 147,
     "id": 47988776,
     "discussion_url": "https://news.ycombinator.com/item?id=47988776",
     "description": "NetHack 5.0.0",
@@ -303,32 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082295"
-  },
-  {
-    "title": "New research suggests people can communicate and practice skills while dreaming",
-    "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-    "author": "XzetaU8",
-    "date": "2026-05-02",
-    "score": 429,
-    "comments": 251,
-    "id": 47977748,
-    "discussion_url": "https://news.ycombinator.com/item?id=47977748",
-    "description": "New research suggests people can communicate and practice skills while dreaming",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082502"
+    "fetched_at": "2026-05-03T11:40:47.846116"
   },
   {
     "title": "Open Design: Use Your Coding Agent as a Design Engine",
     "url": "https://github.com/nexu-io/open-design",
     "author": "steveharing1",
     "date": "2026-05-02",
-    "score": 141,
-    "comments": 77,
+    "score": 202,
+    "comments": 89,
     "id": 47985750,
     "discussion_url": "https://news.ycombinator.com/item?id=47985750",
     "description": "Open Design: Use Your Coding Agent as a Design Engine",
@@ -337,15 +269,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082241"
+    "fetched_at": "2026-05-03T11:40:47.846138"
+  },
+  {
+    "title": "Open source does not imply open community",
+    "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
+    "author": "RohanAdwankar",
+    "date": "2026-05-03",
+    "score": 162,
+    "comments": 51,
+    "id": 47992772,
+    "discussion_url": "https://news.ycombinator.com/item?id=47992772",
+    "description": "Open source does not imply open community",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-03T11:40:47.846165"
+  },
+  {
+    "title": "Refusal in Language Models Is Mediated by a Single Direction",
+    "url": "https://arxiv.org/abs/2406.11717",
+    "author": "fagnerbrack",
+    "date": "2026-05-02",
+    "score": 108,
+    "comments": 40,
+    "id": 47986136,
+    "discussion_url": "https://news.ycombinator.com/item?id=47986136",
+    "description": "Refusal in Language Models Is Mediated by a Single Direction",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-03T11:40:47.846142"
   },
   {
     "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
     "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
     "author": "1vuio0pswjnm7",
-    "date": "2026-05-03",
-    "score": 99,
-    "comments": 58,
+    "date": "2026-05-02",
+    "score": 230,
+    "comments": 140,
     "id": 47988261,
     "discussion_url": "https://news.ycombinator.com/item?id=47988261",
     "description": "Roblox shares plummet 18% as child safety measures weigh on bookings",
@@ -354,32 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082381"
-  },
-  {
-    "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-    "url": "https://github.com/bruin-data/dac",
-    "author": "karakanb",
-    "date": "2026-04-30",
-    "score": 84,
-    "comments": 29,
-    "id": 47949066,
-    "discussion_url": "https://news.ycombinator.com/item?id=47949066",
-    "description": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082135"
+    "fetched_at": "2026-05-03T11:40:47.846208"
   },
   {
     "title": "Show HN: Pollen – distributed WASM runtime, no control plane, single binary",
     "url": "https://github.com/sambigeara/pollen",
     "author": "sambigeara",
     "date": "2026-04-30",
-    "score": 85,
-    "comments": 41,
+    "score": 119,
+    "comments": 55,
     "id": 47961935,
     "discussion_url": "https://news.ycombinator.com/item?id=47961935",
     "description": "Show HN: Pollen – distributed WASM runtime, no control plane, single binary",
@@ -388,66 +337,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082116"
+    "fetched_at": "2026-05-03T11:40:47.846186"
   },
   {
-    "title": "The gay jailbreak technique (2025)",
-    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-    "author": "bobsmooth",
+    "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+    "url": "https://hnup.date/hn-sota",
+    "author": "yunusabd",
     "date": "2026-05-02",
-    "score": 608,
-    "comments": 244,
-    "id": 47977134,
-    "discussion_url": "https://news.ycombinator.com/item?id=47977134",
-    "description": "The gay jailbreak technique (2025)",
+    "score": 119,
+    "comments": 60,
+    "id": 47990708,
+    "discussion_url": "https://news.ycombinator.com/item?id=47990708",
+    "description": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082961"
+    "fetched_at": "2026-05-03T11:40:47.846131"
   },
   {
-    "title": "Ti-84 Evo",
-    "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-    "author": "thatxliner",
+    "title": "Six Years Perfecting Maps on WatchOS",
+    "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+    "author": "valzevul",
     "date": "2026-05-02",
-    "score": 558,
-    "comments": 451,
-    "id": 47979583,
-    "discussion_url": "https://news.ycombinator.com/item?id=47979583",
-    "description": "Ti-84 Evo",
+    "score": 320,
+    "comments": 74,
+    "id": 47990606,
+    "discussion_url": "https://news.ycombinator.com/item?id=47990606",
+    "description": "Six Years Perfecting Maps on WatchOS",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082076"
+    "fetched_at": "2026-05-03T11:40:47.846071"
   },
   {
-    "title": "To Restore an Island Paradise, Add Fungi",
-    "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-    "author": "Brajeshwar",
-    "date": "2026-04-30",
-    "score": 130,
-    "comments": 32,
-    "id": 47949794,
-    "discussion_url": "https://news.ycombinator.com/item?id=47949794",
-    "description": "To Restore an Island Paradise, Add Fungi",
+    "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+    "url": "https://acai.sh/blog/specsmaxxing",
+    "author": "brendanmc6",
+    "date": "2026-05-03",
+    "score": 143,
+    "comments": 138,
+    "id": 47994012,
+    "discussion_url": "https://news.ycombinator.com/item?id=47994012",
+    "description": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082620"
+    "fetched_at": "2026-05-03T11:40:47.846041"
+  },
+  {
+    "title": "The USB Situation",
+    "url": "https://randsinrepose.com/archives/the-usb-situation/",
+    "author": "herbertl",
+    "date": "2026-04-29",
+    "score": 131,
+    "comments": 163,
+    "id": 47950993,
+    "discussion_url": "https://news.ycombinator.com/item?id=47950993",
+    "description": "The USB Situation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-03T11:40:47.846082"
+  },
+  {
+    "title": "The agent harness belongs outside the sandbox",
+    "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+    "author": "shad42",
+    "date": "2026-05-02",
+    "score": 113,
+    "comments": 83,
+    "id": 47990675,
+    "discussion_url": "https://news.ycombinator.com/item?id=47990675",
+    "description": "The agent harness belongs outside the sandbox",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-03T11:40:47.846089"
+  },
+  {
+    "title": "This Month in Ladybird – April 2026",
+    "url": "https://ladybird.org/newsletter/2026-04-30/",
+    "author": "richardboegli",
+    "date": "2026-05-02",
+    "score": 359,
+    "comments": 81,
+    "id": 47990318,
+    "discussion_url": "https://news.ycombinator.com/item?id=47990318",
+    "description": "This Month in Ladybird – April 2026",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-03T11:40:47.846030"
   },
   {
     "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
     "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
     "author": "nickvec",
-    "date": "2026-05-03",
-    "score": 91,
-    "comments": 109,
+    "date": "2026-05-02",
+    "score": 132,
+    "comments": 140,
     "id": 47987333,
     "discussion_url": "https://news.ycombinator.com/item?id=47987333",
     "description": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
@@ -456,32 +456,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082416"
+    "fetched_at": "2026-05-03T11:40:47.846193"
   },
   {
-    "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
-    "url": "https://github.com/whohas/whohas",
-    "author": "peter_d_sherman",
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+    "url": "https://github.com/microsoft/vscode/pull/310226",
+    "author": "indrora",
     "date": "2026-05-02",
-    "score": 148,
-    "comments": 38,
-    "id": 47975592,
-    "discussion_url": "https://news.ycombinator.com/item?id=47975592",
-    "description": "Whohas – Command-line utility for cross-distro, cross-repository package search",
+    "score": 1253,
+    "comments": 653,
+    "id": 47989883,
+    "discussion_url": "https://news.ycombinator.com/item?id=47989883",
+    "description": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082899"
+    "fetched_at": "2026-05-03T11:40:47.845969"
   },
   {
     "title": "Why are there both TMP and TEMP environment variables? (2015)",
     "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
     "author": "ankitg12",
     "date": "2026-05-02",
-    "score": 172,
-    "comments": 81,
+    "score": 200,
+    "comments": 92,
     "id": 47984522,
     "discussion_url": "https://news.ycombinator.com/item?id=47984522",
     "description": "Why are there both TMP and TEMP environment variables? (2015)",
@@ -490,15 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082586"
+    "fetched_at": "2026-05-03T11:40:47.846172"
   },
   {
     "title": "Why does it take so long to release black fan versions?",
     "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
     "author": "buildbot",
     "date": "2026-05-02",
-    "score": 636,
-    "comments": 268,
+    "score": 727,
+    "comments": 292,
     "id": 47983352,
     "discussion_url": "https://news.ycombinator.com/item?id=47983352",
     "description": "Why does it take so long to release black fan versions?",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-03T06:00:14.082278"
+    "fetched_at": "2026-05-03T11:40:47.846179"
   }
 ]
