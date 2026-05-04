@@ -1,21 +1,11 @@
 [
   {
-    "title": "Agents are building their own UIs now. Here's when that's worth doing.",
-    "author": "Sireesha Pulipati",
-    "date": "2026-04-29",
-    "description": "Google Cloud NEXT '26 Challenge SubmissionSireesha PulipatiSireesha PulipatiSireesha PulipatiFollowforGoogle Developer ExpertsApr 29Agents are buildin...",
-    "tags": "#devchallenge, #googlecloud, #cloudnextchallenge, #genui",
-    "reactions": "30 reactions",
-    "comments": "Comments 2 comments",
-    "url": "https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d"
-  },
-  {
     "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
     "author": "Jess Lee",
     "date": "2026-04-30",
     "description": "DEV Weekend Challenge: Earth DayJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 30Announcing the Winners of the DEV Weekend Challenge: Earth Day Edit...",
     "tags": "#devchallenge, #weekendchallenge",
-    "reactions": "105 reactions",
+    "reactions": "109 reactions",
     "comments": "Comments 49 comments",
     "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
   },
@@ -45,7 +35,7 @@
     "date": "2026-04-29",
     "description": "Google Cloud NEXT '26 Challenge SubmissionSreejit PradhanSreejit PradhanSreejit PradhanFollowApr 29Everyone's Talking About Gemini. The Real Story at ...",
     "tags": "#cloudnextchallenge, #googlecloud, #ai, #devchallenge",
-    "reactions": "40 reactions",
+    "reactions": "41 reactions",
     "comments": "Comments 5 comments",
     "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2"
   },
@@ -63,9 +53,9 @@
     "title": "Forking Paseo: Mobile vibe coding for me",
     "author": "Ryan Swift",
     "date": "2026-04-29",
-    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 29Forking Paseo: Mobile vibe coding for me#ai#agents#vibecoding#opensource37reactionsComments7comments5 min re...",
+    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 29Forking Paseo: Mobile vibe coding for me#ai#agents#vibecoding#opensource41reactionsComments7comments5 min re...",
     "tags": "#ai, #agents, #vibecoding, #opensource",
-    "reactions": "37 reactions",
+    "reactions": "41 reactions",
     "comments": "Comments 7 comments",
     "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa"
   },
@@ -75,7 +65,7 @@
     "date": "2026-04-29",
     "description": "AI-led analysis of a 6% local pass rateDebbie O'BrienDebbie O'BrienDebbie O'BrienFollowApr 29How I Used AI to Fix Our E2E Test Architecture#testing#e2...",
     "tags": "#testing, #e2e, #playwright, #ai",
-    "reactions": "43 reactions",
+    "reactions": "45 reactions",
     "comments": "Comments 13 comments",
     "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a"
   },
@@ -95,9 +85,29 @@
     "date": "2026-05-01",
     "description": "A pumpkin pie analogy for hand-crafted codeAndy RobinsonAndy RobinsonAndy RobinsonFollowMay 1I Don't Like Tailwind. Sorry Not Sorry#discuss#css#webdev...",
     "tags": "#discuss, #css, #webdev, #frontend",
-    "reactions": "37 reactions",
-    "comments": "Comments 13 comments",
+    "reactions": "44 reactions",
+    "comments": "Comments 14 comments",
     "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
+  },
+  {
+    "title": "I Love Tailwind. Sorry Not Sorry",
+    "author": "Sylwia Laskowska",
+    "date": "2026-05-04",
+    "description": "A CSS veteran’s take on speed vs puritySylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowMay 4I Love Tailwind. Sorry Not Sorry#discuss#css#tailwin...",
+    "tags": "#discuss, #css, #tailwindcss, #frontend",
+    "reactions": "49 reactions",
+    "comments": "Comments 37 comments",
+    "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
+  },
+  {
+    "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+    "author": "Omotayo Aina",
+    "date": "2026-05-01",
+    "description": "Omotayo AinaOmotayo AinaOmotayo AinaFollowforGoogle Developer ExpertsMay 1I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It...",
+    "tags": "#machinelearning, #python, #ai, #deeplearning",
+    "reactions": "16 reactions",
+    "comments": "Comments 2 comments",
+    "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641"
   },
   {
     "title": "Is Software Development Just a Side Quest? A Jira Story",
@@ -105,39 +115,29 @@
     "date": "2026-04-30",
     "description": "Senior developer views on task overheadSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowApr 30Is Software Development Just a Side Quest? A Jira S...",
     "tags": "#discuss, #productivity",
-    "reactions": "129 reactions",
-    "comments": "Comments 79 comments",
+    "reactions": "134 reactions",
+    "comments": "Comments 81 comments",
     "url": "https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"
   },
   {
     "title": "More Accessible Focus Indicators with Compose",
     "author": "Eevis",
     "date": "2026-04-30",
-    "description": "Indication API and touch mode polishEevisEevisEevisFollowApr 30More Accessible Focus Indicators with Compose#android#a11y#mobile#programming36reaction...",
+    "description": "Indication API and touch mode polishEevisEevisEevisFollowApr 30More Accessible Focus Indicators with Compose#android#a11y#mobile#programming38reaction...",
     "tags": "#android, #a11y, #mobile, #programming",
-    "reactions": "36 reactions",
-    "comments": "Comments 6 comments",
+    "reactions": "38 reactions",
+    "comments": "Comments 7 comments",
     "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4"
   },
   {
     "title": "Stop Using Your Clipboard to Share Context",
     "author": "Ryan Swift",
     "date": "2026-04-30",
-    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 30Stop Using Your Clipboard to Share Context#ai#agents#mcp#cli40reactionsComments6comments4 min read",
+    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 30Stop Using Your Clipboard to Share Context#ai#agents#mcp#cli40reactionsComments7comments4 min read",
     "tags": "#ai, #agents, #mcp, #cli",
     "reactions": "40 reactions",
-    "comments": "Comments 6 comments",
+    "comments": "Comments 7 comments",
     "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941"
-  },
-  {
-    "title": "Top 7 Featured DEV Posts of the Week",
-    "author": "Jess Lee",
-    "date": "2026-04-27",
-    "description": "Neuroscience in AI and manual code as artJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 27Top 7 Featured DEV Posts of the Week#discuss#top745reactio...",
-    "tags": "#discuss, #top7",
-    "reactions": "45 reactions",
-    "comments": "Comments 6 comments",
-    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl"
   },
   {
     "title": "What It Actually Feels Like to Build Something You're Proud Of",
@@ -175,8 +175,8 @@
     "date": "2026-04-28",
     "description": "WPM challenge winners and a Kpop-themed coverFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowApr 28🗓️ Monthly Dev Report: April 2026...",
     "tags": "#discuss, #devjournal, #programming, #community",
-    "reactions": "56 reactions",
-    "comments": "Comments 16 comments",
+    "reactions": "58 reactions",
+    "comments": "Comments 18 comments",
     "url": "https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"
   }
 ]

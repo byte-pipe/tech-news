@@ -1,28 +1,11 @@
 [
   {
-    "title": "A couple million lines of Haskell: Production engineering at Mercury",
-    "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-    "author": "unignorant",
-    "date": "2026-05-03",
-    "score": 416,
-    "comments": 212,
-    "id": 47991802,
-    "discussion_url": "https://news.ycombinator.com/item?id=47991802",
-    "description": "A couple million lines of Haskell: Production engineering at Mercury",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634891"
-  },
-  {
     "title": "A desktop made for one",
     "url": "https://isene.org/2026/05/Audience-of-One.html",
     "author": "xngbuilds",
     "date": "2026-05-03",
-    "score": 368,
-    "comments": 201,
+    "score": 422,
+    "comments": 241,
     "id": 47997947,
     "discussion_url": "https://news.ycombinator.com/item?id=47997947",
     "description": "A desktop made for one",
@@ -31,32 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634719"
-  },
-  {
-    "title": "Agentic Coding Is a Trap",
-    "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-    "author": "ayoisaiah",
-    "date": "2026-05-03",
-    "score": 387,
-    "comments": 277,
-    "id": 48002442,
-    "discussion_url": "https://news.ycombinator.com/item?id=48002442",
-    "description": "Agentic Coding Is a Trap",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634871"
+    "fetched_at": "2026-05-04T20:14:11.974734"
   },
   {
     "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
     "url": "https://partyon.xyz/@nullagent/116499715071759135",
     "author": "nullagent",
     "date": "2026-05-03",
-    "score": 400,
-    "comments": 131,
+    "score": 459,
+    "comments": 149,
     "id": 47999636,
     "discussion_url": "https://news.ycombinator.com/item?id=47999636",
     "description": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
@@ -65,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634700"
+    "fetched_at": "2026-05-04T20:14:11.974590"
   },
   {
     "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
     "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
     "author": "miohtama",
     "date": "2026-05-03",
-    "score": 161,
-    "comments": 14,
+    "score": 202,
+    "comments": 24,
     "id": 47998449,
     "discussion_url": "https://news.ycombinator.com/item?id=47998449",
     "description": "Bad Connection: Global telecom exploitation by covert surveillance actors",
@@ -82,15 +48,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634686"
+    "fetched_at": "2026-05-04T20:14:11.974710"
+  },
+  {
+    "title": "Days without GitHub incidents",
+    "url": "https://www.dayswithoutgithubincident.com/",
+    "author": "goalieca",
+    "date": "2026-05-04",
+    "score": 326,
+    "comments": 129,
+    "id": 48012022,
+    "discussion_url": "https://news.ycombinator.com/item?id=48012022",
+    "description": "Days without GitHub incidents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-04T20:14:11.974618"
   },
   {
     "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
     "url": "https://github.com/aattaran/deepclaude",
     "author": "alattaran",
     "date": "2026-05-03",
-    "score": 519,
-    "comments": 209,
+    "score": 631,
+    "comments": 266,
     "id": 48002136,
     "discussion_url": "https://news.ycombinator.com/item?id=48002136",
     "description": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
@@ -99,49 +82,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634627"
+    "fetched_at": "2026-05-04T20:14:11.974665"
   },
   {
-    "title": "DeepSeek V4 – almost on the frontier",
-    "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-    "author": "indigodaddy",
-    "date": "2026-05-01",
-    "score": 640,
-    "comments": 378,
-    "id": 47977026,
-    "discussion_url": "https://news.ycombinator.com/item?id=47977026",
-    "description": "DeepSeek V4 – almost on the frontier",
+    "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
+    "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
+    "author": "TapamN",
+    "date": "2026-04-30",
+    "score": 154,
+    "comments": 6,
+    "id": 47968187,
+    "discussion_url": "https://news.ycombinator.com/item?id=47968187",
+    "description": "Discovering hard disk physical geometry through microbenchmarking (2019)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634860"
+    "fetched_at": "2026-05-04T20:14:11.974653"
   },
   {
-    "title": "Denuvo has been cracked in all single-player games it previously protected",
-    "url": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks",
-    "author": "oceansky",
-    "date": "2026-04-28",
-    "score": 363,
-    "comments": 214,
-    "id": 47940789,
-    "discussion_url": "https://news.ycombinator.com/item?id=47940789",
-    "description": "Denuvo has been cracked in all single-player games it previously protected",
+    "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+    "url": "https://www.nber.org/papers/w35117",
+    "author": "littlexsparkee",
+    "date": "2026-05-04",
+    "score": 130,
+    "comments": 107,
+    "id": 48009983,
+    "discussion_url": "https://news.ycombinator.com/item?id=48009983",
+    "description": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634811"
+    "fetched_at": "2026-05-04T20:14:11.974561"
   },
   {
     "title": "GameStop makes $55.5B takeover offer for eBay",
     "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
     "author": "n1b0m",
     "date": "2026-05-04",
-    "score": 193,
-    "comments": 137,
+    "score": 552,
+    "comments": 486,
     "id": 48006402,
     "discussion_url": "https://news.ycombinator.com/item?id=48006402",
     "description": "GameStop makes $55.5B takeover offer for eBay",
@@ -150,83 +133,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634622"
+    "fetched_at": "2026-05-04T20:14:11.974624"
   },
   {
-    "title": "How far behind is each major Chromium browser?",
-    "url": "https://chromium-drift.pages.dev/",
-    "author": "skaul",
-    "date": "2026-05-03",
-    "score": 182,
-    "comments": 60,
-    "id": 47999006,
-    "discussion_url": "https://news.ycombinator.com/item?id=47999006",
-    "description": "How far behind is each major Chromium browser?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634825"
-  },
-  {
-    "title": "Humanoid Robot Actuators",
-    "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
-    "author": "ofrzeta",
+    "title": "Heat pump sales rise across Europe",
+    "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+    "author": "doener",
     "date": "2026-05-04",
-    "score": 144,
-    "comments": 68,
-    "id": 48004380,
-    "discussion_url": "https://news.ycombinator.com/item?id=48004380",
-    "description": "Humanoid Robot Actuators",
+    "score": 113,
+    "comments": 34,
+    "id": 48012003,
+    "discussion_url": "https://news.ycombinator.com/item?id=48012003",
+    "description": "Heat pump sales rise across Europe",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634642"
+    "fetched_at": "2026-05-04T20:14:11.974529"
   },
   {
-    "title": "I built my own hair electrolysis machine",
-    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
-    "author": "y1n0",
-    "date": "2026-04-29",
-    "score": 237,
-    "comments": 61,
-    "id": 47943632,
-    "discussion_url": "https://news.ycombinator.com/item?id=47943632",
-    "description": "I built my own hair electrolysis machine",
+    "title": "How Monero's proof of work works",
+    "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+    "author": "alcazar",
+    "date": "2026-05-04",
+    "score": 179,
+    "comments": 142,
+    "id": 48009020,
+    "discussion_url": "https://news.ycombinator.com/item?id=48009020",
+    "description": "How Monero's proof of work works",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634841"
+    "fetched_at": "2026-05-04T20:14:11.974547"
   },
   {
-    "title": "LLMs Are Not a Higher Level of Abstraction",
-    "url": "https://www.lelanthran.com/chap15/content.html",
-    "author": "lelanthran",
+    "title": "I am worried about Bun",
+    "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+    "author": "remote-dev",
+    "date": "2026-05-04",
+    "score": 222,
+    "comments": 133,
+    "id": 48011184,
+    "discussion_url": "https://news.ycombinator.com/item?id=48011184",
+    "description": "I am worried about Bun",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-04T20:14:11.974455"
+  },
+  {
+    "title": "Introduction to Atom",
+    "url": "https://validator.w3.org/feed/docs/atom.html",
+    "author": "susam",
     "date": "2026-05-03",
-    "score": 128,
-    "comments": 123,
-    "id": 47999520,
-    "discussion_url": "https://news.ycombinator.com/item?id=47999520",
-    "description": "LLMs Are Not a Higher Level of Abstraction",
+    "score": 125,
+    "comments": 67,
+    "id": 48002089,
+    "discussion_url": "https://news.ycombinator.com/item?id=48002089",
+    "description": "Introduction to Atom",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634852"
+    "fetched_at": "2026-05-04T20:14:11.974748"
   },
   {
     "title": "Let's Buy Spirit Air",
     "url": "https://letsbuyspiritair.com/",
     "author": "bjhess",
     "date": "2026-05-03",
-    "score": 397,
-    "comments": 360,
+    "score": 553,
+    "comments": 526,
     "id": 48002777,
     "discussion_url": "https://news.ycombinator.com/item?id=48002777",
     "description": "Let's Buy Spirit Air",
@@ -235,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634657"
+    "fetched_at": "2026-05-04T20:14:11.974722"
   },
   {
     "title": "Mercedes-Benz commits to bringing back physical buttons",
     "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
     "author": "teleforce",
     "date": "2026-05-03",
-    "score": 743,
-    "comments": 420,
+    "score": 825,
+    "comments": 481,
     "id": 47997418,
     "discussion_url": "https://news.ycombinator.com/item?id=47997418",
     "description": "Mercedes-Benz commits to bringing back physical buttons",
@@ -252,66 +235,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634667"
+    "fetched_at": "2026-05-04T20:14:11.974741"
   },
   {
-    "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
-    "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
-    "author": "rishabhd",
-    "date": "2026-05-03",
-    "score": 282,
-    "comments": 128,
-    "id": 47998790,
-    "discussion_url": "https://news.ycombinator.com/item?id=47998790",
-    "description": "Metal Gear Solid 2's source code has been leaked on 4chan",
+    "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+    "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+    "author": "cft",
+    "date": "2026-05-04",
+    "score": 161,
+    "comments": 68,
+    "id": 48012735,
+    "discussion_url": "https://news.ycombinator.com/item?id=48012735",
+    "description": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634837"
-  },
-  {
-    "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-    "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-    "author": "dryadin",
-    "date": "2026-05-03",
-    "score": 435,
-    "comments": 412,
-    "id": 48000152,
-    "discussion_url": "https://news.ycombinator.com/item?id=48000152",
-    "description": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634733"
-  },
-  {
-    "title": "Nuclear receptor 4A1 linked to health effects of coffee: study",
-    "url": "https://sciencex.com/news/2026-04-coffee-doesnt-key-biological-pathway.html",
-    "author": "pseudolus",
-    "date": "2026-05-03",
-    "score": 125,
-    "comments": 100,
-    "id": 47995757,
-    "discussion_url": "https://news.ycombinator.com/item?id=47995757",
-    "description": "Nuclear receptor 4A1 linked to health effects of coffee: study",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634856"
+    "fetched_at": "2026-05-04T20:14:11.974582"
   },
   {
     "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
     "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
     "author": "donsupreme",
     "date": "2026-05-03",
-    "score": 417,
-    "comments": 369,
+    "score": 490,
+    "comments": 437,
     "id": 47991981,
     "discussion_url": "https://news.ycombinator.com/item?id=47991981",
     "description": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
@@ -320,49 +269,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634674"
+    "fetched_at": "2026-05-04T20:14:11.974714"
   },
   {
-    "title": "Security through obscurity is not bad",
-    "url": "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/",
-    "author": "mobeigi",
-    "date": "2026-05-03",
-    "score": 168,
-    "comments": 188,
-    "id": 47997486,
-    "discussion_url": "https://news.ycombinator.com/item?id=47997486",
-    "description": "Security through obscurity is not bad",
+    "title": "PyInfra 3.8.0",
+    "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+    "author": "wowi42",
+    "date": "2026-05-04",
+    "score": 194,
+    "comments": 75,
+    "id": 48008083,
+    "discussion_url": "https://news.ycombinator.com/item?id=48008083",
+    "description": "PyInfra 3.8.0",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634795"
+    "fetched_at": "2026-05-04T20:14:11.974657"
   },
   {
-    "title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
-    "url": "https://github.com/bring-shrubbery/ml-sharp-web",
-    "author": "bring-shrubbery",
-    "date": "2026-05-03",
-    "score": 172,
-    "comments": 43,
-    "id": 47995037,
-    "discussion_url": "https://news.ycombinator.com/item?id=47995037",
-    "description": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
+    "title": "Redis array: short story of a long development process",
+    "url": "https://antirez.com/news/164",
+    "author": "antirez",
+    "date": "2026-05-04",
+    "score": 171,
+    "comments": 64,
+    "id": 48009172,
+    "discussion_url": "https://news.ycombinator.com/item?id=48009172",
+    "description": "Redis array: short story of a long development process",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634803"
+    "fetched_at": "2026-05-04T20:14:11.974574"
   },
   {
     "title": "Southwest Headquarters Tour",
     "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
     "author": "KatiMichel",
     "date": "2026-05-03",
-    "score": 270,
-    "comments": 81,
+    "score": 312,
+    "comments": 94,
     "id": 47998946,
     "discussion_url": "https://news.ycombinator.com/item?id=47998946",
     "description": "Southwest Headquarters Tour",
@@ -371,15 +320,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634638"
+    "fetched_at": "2026-05-04T20:14:11.974689"
+  },
+  {
+    "title": "Stop big tech from making users behave in ways they don't want to",
+    "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+    "author": "andsoitis",
+    "date": "2026-05-04",
+    "score": 151,
+    "comments": 86,
+    "id": 48011603,
+    "discussion_url": "https://news.ycombinator.com/item?id=48011603",
+    "description": "Stop big tech from making users behave in ways they don't want to",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-04T20:14:11.974538"
+  },
+  {
+    "title": "Talking to strangers at the gym",
+    "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+    "author": "thitran",
+    "date": "2026-05-04",
+    "score": 858,
+    "comments": 417,
+    "id": 48007438,
+    "discussion_url": "https://news.ycombinator.com/item?id=48007438",
+    "description": "Talking to strangers at the gym",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-04T20:14:11.974578"
+  },
+  {
+    "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
+    "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
+    "author": "heresie-dabord",
+    "date": "2026-04-30",
+    "score": 139,
+    "comments": 96,
+    "id": 47961208,
+    "discussion_url": "https://news.ycombinator.com/item?id=47961208",
+    "description": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-04T20:14:11.974694"
+  },
+  {
+    "title": "Texico: Learn the principles of programming without even touching a computer",
+    "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
+    "author": "o4c",
+    "date": "2026-05-02",
+    "score": 169,
+    "comments": 14,
+    "id": 47983333,
+    "discussion_url": "https://news.ycombinator.com/item?id=47983333",
+    "description": "Texico: Learn the principles of programming without even touching a computer",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-04T20:14:11.974610"
   },
   {
     "title": "Text-to-CAD",
     "url": "https://github.com/earthtojake/text-to-cad",
     "author": "softservo",
     "date": "2026-05-01",
-    "score": 129,
-    "comments": 35,
+    "score": 172,
+    "comments": 43,
     "id": 47970497,
     "discussion_url": "https://news.ycombinator.com/item?id=47970497",
     "description": "Text-to-CAD",
@@ -388,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634671"
+    "fetched_at": "2026-05-04T20:14:11.974726"
   },
   {
     "title": "The 'Hidden' Costs of Great Abstractions",
     "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
     "author": "jdgr",
     "date": "2026-05-03",
-    "score": 186,
-    "comments": 84,
+    "score": 210,
+    "comments": 121,
     "id": 48002607,
     "discussion_url": "https://news.ycombinator.com/item?id=48002607",
     "description": "The 'Hidden' Costs of Great Abstractions",
@@ -405,32 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634678"
-  },
-  {
-    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
-    "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
-    "author": "SpyCoder77",
-    "date": "2026-05-03",
-    "score": 245,
-    "comments": 105,
-    "id": 48002938,
-    "discussion_url": "https://news.ycombinator.com/item?id=48002938",
-    "description": "The text mode lie: why modern TUIs are a nightmare for accessibility",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634747"
+    "fetched_at": "2026-05-04T20:14:11.974718"
   },
   {
     "title": "Trademark violation: Fake Notepad++ for Mac",
     "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
     "author": "maxloh",
     "date": "2026-05-04",
-    "score": 242,
-    "comments": 101,
+    "score": 548,
+    "comments": 243,
     "id": 48006445,
     "discussion_url": "https://news.ycombinator.com/item?id=48006445",
     "description": "Trademark violation: Fake Notepad++ for Mac",
@@ -439,15 +439,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634662"
+    "fetched_at": "2026-05-04T20:14:11.974632"
+  },
+  {
+    "title": "UK Fuel Price Intelligence",
+    "url": "https://www.fuelinsight.co.uk",
+    "author": "theazureguy",
+    "date": "2026-05-04",
+    "score": 123,
+    "comments": 52,
+    "id": 48009747,
+    "discussion_url": "https://news.ycombinator.com/item?id=48009747",
+    "description": "UK Fuel Price Intelligence",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-04T20:14:11.974568"
+  },
+  {
+    "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+    "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+    "author": "ZeidJ",
+    "date": "2026-05-04",
+    "score": 303,
+    "comments": 97,
+    "id": 48011689,
+    "discussion_url": "https://news.ycombinator.com/item?id=48011689",
+    "description": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-04T20:14:11.974556"
   },
   {
     "title": "US–Indian space mission maps extreme subsidence in Mexico City",
     "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
     "author": "leopoldj",
     "date": "2026-05-01",
-    "score": 165,
-    "comments": 63,
+    "score": 213,
+    "comments": 72,
     "id": 47974682,
     "discussion_url": "https://news.ycombinator.com/item?id=47974682",
     "description": "US–Indian space mission maps extreme subsidence in Mexico City",
@@ -456,15 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634723"
+    "fetched_at": "2026-05-04T20:14:11.974685"
   },
   {
     "title": "Using “underdrawings” for accurate text and numbers",
     "url": "https://samcollins.blog/underdrawings/",
     "author": "samcollins",
     "date": "2026-05-01",
-    "score": 272,
-    "comments": 92,
+    "score": 346,
+    "comments": 126,
     "id": 47977990,
     "discussion_url": "https://news.ycombinator.com/item?id=47977990",
     "description": "Using “underdrawings” for accurate text and numbers",
@@ -473,40 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634682"
-  },
-  {
-    "title": "Why TUIs are back",
-    "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
-    "author": "rickcarlino",
-    "date": "2026-05-03",
-    "score": 357,
-    "comments": 358,
-    "id": 48000028,
-    "discussion_url": "https://news.ycombinator.com/item?id=48000028",
-    "description": "Why TUIs are back",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634727"
-  },
-  {
-    "title": "Windows quality update: Progress we've made since March",
-    "url": "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/",
-    "author": "jovial_cavalier",
-    "date": "2026-05-01",
-    "score": 165,
-    "comments": 498,
-    "id": 47980279,
-    "discussion_url": "https://news.ycombinator.com/item?id=47980279",
-    "description": "Windows quality update: Progress we've made since March",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-04T12:21:14.634864"
+    "fetched_at": "2026-05-04T20:14:11.974495"
   }
 ]

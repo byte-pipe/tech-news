@@ -1,0 +1,16 @@
+---
+title: The 'Hidden' Costs of Great Abstractions - James Ludwell-Grymes
+url: https://jdgr.net/the-hidden-costs-of-great-abstractions
+site_name: hackernews_api
+content_file: hackernews_api-the-hidden-costs-of-great-abstractions-james-ludwe
+fetched_at: '2026-05-04T20:14:13.538944'
+original_url: https://jdgr.net/the-hidden-costs-of-great-abstractions
+author: jdgr
+date: '2026-05-03'
+description: The 'Hidden' Costs of Great Abstractions
+tags:
+- hackernews
+- trending
+---
+
+In the world of computing, we tend to abstract away complexity. Doing so seems liberating. It enables us to focus on the bigger picture. Unfortunately, in doing so, the fidelity of our understanding often decreases. We sometimes end up blinding ourselves.Historically, running computer programs was expensive and time consuming. Errors were far more costly than they are today. Knowing the intricacies of how the machine operated was essential. Otherwise, you wouldn't be able to get it to do much at all.Then the barrier of entry lowered. Memory and computation power grew. People ceased thinking about how to save a few bytes or CPU cycles. Many developers simplycouldn't. They imported libraries maintained by others, unsure of their quality and not fully understanding when or where to use the functions provided. This became the new normal.As the required prerequisite knowledge decreased and developer velocity increased. The quantity of software grew, but much of it slow and buggy, more so than before. Now, with the advent of LLMs, almost anyone can craft a prompt that produces something functional. It may even be pretty. It is unlikely that it will be good.Discerning good from bad requires expertise. The inexperienced prospector often mistakes pyrite for gold. You can purchase something that looks and feels like steel from Alibaba. It may seem like an excellent deal, but I would not advise you to build a skyscraper with it.The reality is that which isn't "good" is sometimes sufficient. Wonder Bread isn't artisan sourdough. It's cheaper and it's filling. It may not be as healthy, but it's all some know.Why bother typing all of this? Why take on the role of Captain Obvious? My "copium" reserves are running low. After sustaining injuries that preclude physically laborious work, my options to earn a living are limited.As a child, I spent nights reading manuals, running services, writing scripts to automate away toil, tinkering with values in flash games using memory editors like Cheat Engine, and analyzing malware by stepping through it's instructions in OllyDbg. I was thrilled that people would pay me to do similar things.Now, I am a father with a son who depends on me. I've been unemployed since July of 2025. I have spent months adjusting my resume, applying for all jobs where my skill set may be of use, building proof-of-concepts using Claude, and doing cold outreach to anyone who may be interested in my potential products or my services. The well has gone dry.## Want to talk?Schedule time with me
