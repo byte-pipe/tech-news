@@ -120,6 +120,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Agent Skills (16 minute read)",
+    "url": "https://addyosmani.com/blog/agent-skills/",
+    "description": "Agent Skills (16 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-04",
+    "site_name": "tldr"
+  },
+  {
     "title": "Agents can now create Cloudflare accounts, buy domains, and deploy (7 minute read)",
     "url": "https://blog.cloudflare.com/agents-stripe-projects/",
     "description": "Agents can now create Cloudflare accounts, buy domains, and deploy (7 minute read)",
@@ -133,6 +143,16 @@
     "title": "Amazon goes after the enterprise assistant layer (3 minute read)",
     "url": "https://www.theregister.com/2026/04/28/amazon_quick_connect_expansion/",
     "description": "Amazon goes after the enterprise assistant layer (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "America's Electricity Gap (13 minute read)",
+    "url": "https://www.apricitas.io/p/americas-electricity-gap",
+    "description": "America's Electricity Gap (13 minute read)",
     "tags": [
       "tldr"
     ],
@@ -340,6 +360,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Datanomy (GitHub Repo)",
+    "url": "https://github.com/raulcd/datanomy",
+    "description": "Datanomy (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-04",
+    "site_name": "tldr"
+  },
+  {
     "title": "Distribution Is the Final Moat (2 minute read)",
     "url": "https://productpower.substack.com/p/distribution-is-the-final-moat",
     "description": "Distribution Is the Final Moat (2 minute read)",
@@ -350,39 +380,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Elon Musk testifies that xAI trained Grok on OpenAI models (3 minute read)",
-    "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-    "description": "Elon Musk testifies that xAI trained Grok on OpenAI models (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-04",
-    "site_name": "tldr"
-  },
-  {
     "title": "Finance foundation models emerge as next battleground for banks and fintechs (4 minute read)",
     "url": "https://www.fintechbrainfood.com/p/revolut-foundation-model",
     "description": "Finance foundation models emerge as next battleground for banks and fintechs (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Firefox maker torches Google for building Prompt API into browser (7 minute read)",
-    "url": "https://www.theregister.com/2026/04/30/mozilla_pushes_back_against_googles/",
-    "description": "Firefox maker torches Google for building Prompt API into browser (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Flow generation through natural language: An agentic modeling approach (11 minute read)",
-    "url": "https://shopify.engineering/fine-tuning-agent-shopify-flow",
-    "description": "Flow generation through natural language: An agentic modeling approach (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -490,6 +490,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Handling Schema Issues in Polars (6 minute read)",
+    "url": "https://pola.rs/posts/schema-evolution/",
+    "description": "Handling Schema Issues in Polars (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-04",
+    "site_name": "tldr"
+  },
+  {
     "title": "Healthy Brands Begin With Strategic Integrity (5 minute read)",
     "url": "https://brandingstrategyinsider.com/healthy-brands-begin-with-strategic-integrity/",
     "description": "Healthy Brands Begin With Strategic Integrity (5 minute read)",
@@ -513,16 +523,6 @@
     "title": "How I Do Content Engineering with Claude Code (7 minute read)",
     "url": "https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/",
     "description": "How I Do Content Engineering with Claude Code (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How Linux 7.0 Broke PostgreSQL (9 minute read)",
-    "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
-    "description": "How Linux 7.0 Broke PostgreSQL (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -670,16 +670,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Matt Mullenweg thinks WordPress is in decline. He may be right (2 minute read)",
-    "url": "https://werd.io/matt-mullenweg-thinks-wordpress-is-in-decline-he-may-be-right/",
-    "description": "Matt Mullenweg thinks WordPress is in decline. He may be right (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-04",
-    "site_name": "tldr"
-  },
-  {
     "title": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak (1 minute read)",
     "url": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/",
     "description": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak (1 minute read)",
@@ -770,16 +760,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Netflix's TikTok-like vertical feed is finally here (2 minute read)",
-    "url": "https://www.androidpolice.com/netflixs-tiktok-like-vertical-feed-is-finally-here/",
-    "description": "Netflix's TikTok-like vertical feed is finally here (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-04",
-    "site_name": "tldr"
-  },
-  {
     "title": "Nothing Is Broken. So Why Does Everything Feel Wrong? (9 minute read)",
     "url": "https://therealitydrift.substack.com/p/nothing-is-broken-so-why-does-everything-feel-wrong",
     "description": "Nothing Is Broken. So Why Does Everything Feel Wrong? (9 minute read)",
@@ -793,6 +773,16 @@
     "title": "One of London's most iconic buildings gets a new identity (4 minute read)",
     "url": "https://www.creativebloq.com/design/branding/one-of-londons-most-iconic-buildings-gets-a-new-identity",
     "description": "One of London's most iconic buildings gets a new identity (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Open Design (GitHub Repo)",
+    "url": "https://github.com/nexu-io/open-design",
+    "description": "Open Design (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -890,16 +880,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Rocky (GitHub Repo)",
-    "url": "https://github.com/rocky-data/rocky",
-    "description": "Rocky (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-04",
-    "site_name": "tldr"
-  },
-  {
     "title": "Salesforce Lets Customers Shape Its AI Roadmap (3 minute read)",
     "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers",
     "description": "Salesforce Lets Customers Shape Its AI Roadmap (3 minute read)",
@@ -940,9 +920,39 @@
     "site_name": "tldr"
   },
   {
+    "title": "Sometimes smart planners lose to simple markets (11 minute read)",
+    "url": "https://www.strangeloopcanon.com/p/why-smart-planners-lose-to-simple",
+    "description": "Sometimes smart planners lose to simple markets (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SpaceX has spent more than $15 billion on Starship and is racing to make rocketry resemble an airline schedule (9 minute read)",
+    "url": "https://thenextweb.com/news/spacex-has-spent-more-than-15-billion-on-starship-and-is-racing-to-make-rocketry-resemble-an-airline-schedule",
+    "description": "SpaceX has spent more than $15 billion on Starship and is racing to make rocketry resemble an airline schedule (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-04",
+    "site_name": "tldr"
+  },
+  {
     "title": "Stripe Launches Link Wallet for AI Agents (3 minute read)",
     "url": "https://threadreaderapp.com/thread/2049529444092838116.html",
     "description": "Stripe Launches Link Wallet for AI Agents (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Stripe's DocDB: How Zero-Downtime Data Movement Powers Trillion-Dollar Payment Processing (44 minute video)",
+    "url": "https://www.infoq.com/presentations/docdb-online-database/",
+    "description": "Stripe's DocDB: How Zero-Downtime Data Movement Powers Trillion-Dollar Payment Processing (44 minute video)",
     "tags": [
       "tldr"
     ],
@@ -1110,6 +1120,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The company that built TikTok's algorithm is now designing drugs for diseases pharma called undruggable (10 minute read)",
+    "url": "https://thenextweb.com/news/bytedance-anew-labs-ai-drug-discovery",
+    "description": "The company that built TikTok's algorithm is now designing drugs for diseases pharma called undruggable (10 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-04",
+    "site_name": "tldr"
+  },
+  {
     "title": "This Firefox Vulnerability May Have Been Tracking All Your Private Tor Identities (2 minute read)",
     "url": "https://www.techradar.com/pro/security/this-firefox-vulnerability-may-have-been-tracking-all-your-private-tor-identities-even-in-private-mode",
     "description": "This Firefox Vulnerability May Have Been Tracking All Your Private Tor Identities (2 minute read)",
@@ -1143,6 +1163,26 @@
     "title": "Visa Expands Stablecoin Settlement to Nine Blockchains (4 minute read)",
     "url": "https://decrypt.co/365968/visa-base-polygon-canton-arc-tempo-stablecoin-settlement-program",
     "description": "Visa Expands Stablecoin Settlement to Nine Blockchains (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "We automated data validation — Here's how we did it (12 minute read)",
+    "url": "https://hex.tech/blog/automated-data-validation/",
+    "description": "We automated data validation — Here's how we did it (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "What Held Up at 3 AM: One Engineer's RAG Case Study (17 minute read)",
+    "url": "https://www.decodingai.com/p/ship-rag-with-weave-cli",
+    "description": "What Held Up at 3 AM: One Engineer's RAG Case Study (17 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1273,16 +1313,6 @@
     "title": "iPhone 18 Pro to have some of Apple's biggest camera upgrades ever: report (2 minute read)",
     "url": "https://9to5mac.com/2026/04/29/iphone-18-pro-to-have-some-of-apples-biggest-camera-upgrades-ever-report/",
     "description": "iPhone 18 Pro to have some of Apple's biggest camera upgrades ever: report (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "oLLM (GitHub Repo)",
-    "url": "https://github.com/Mega4alik/ollm",
-    "description": "oLLM (GitHub Repo)",
     "tags": [
       "tldr"
     ],
