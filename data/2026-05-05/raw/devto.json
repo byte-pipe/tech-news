@@ -5,19 +5,9 @@
     "date": "2026-04-30",
     "description": "DEV Weekend Challenge: Earth DayJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 30Announcing the Winners of the DEV Weekend Challenge: Earth Day Edit...",
     "tags": "#devchallenge, #weekendchallenge",
-    "reactions": "108 reactions",
-    "comments": "Comments 49 comments",
+    "reactions": "119 reactions",
+    "comments": "Comments 51 comments",
     "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
-  },
-  {
-    "title": "Are We Using AI at the Wrong Scale?",
-    "author": "Kernel Pryanic",
-    "date": "2026-04-28",
-    "description": "Small models rivaling giants in code tasksKernel PryanicKernel PryanicKernel PryanicFollowApr 28Are We Using AI at the Wrong Scale?#discuss#ai#llm#sof...",
-    "tags": "#discuss, #ai, #llm, #software",
-    "reactions": "66 reactions",
-    "comments": "Comments 23 comments",
-    "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"
   },
   {
     "title": "Cold Starts Are Dead",
@@ -53,9 +43,9 @@
     "title": "Forking Paseo: Mobile vibe coding for me",
     "author": "Ryan Swift",
     "date": "2026-04-29",
-    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 29Forking Paseo: Mobile vibe coding for me#ai#agents#vibecoding#opensource39reactionsComments7comments5 min re...",
+    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 29Forking Paseo: Mobile vibe coding for me#ai#agents#vibecoding#opensource41reactionsComments7comments5 min re...",
     "tags": "#ai, #agents, #vibecoding, #opensource",
-    "reactions": "39 reactions",
+    "reactions": "41 reactions",
     "comments": "Comments 7 comments",
     "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa"
   },
@@ -65,7 +55,7 @@
     "date": "2026-04-29",
     "description": "AI-led analysis of a 6% local pass rateDebbie O'BrienDebbie O'BrienDebbie O'BrienFollowApr 29How I Used AI to Fix Our E2E Test Architecture#testing#e2...",
     "tags": "#testing, #e2e, #playwright, #ai",
-    "reactions": "45 reactions",
+    "reactions": "46 reactions",
     "comments": "Comments 13 comments",
     "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a"
   },
@@ -85,8 +75,8 @@
     "date": "2026-05-01",
     "description": "A pumpkin pie analogy for hand-crafted codeAndy RobinsonAndy RobinsonAndy RobinsonFollowMay 1I Don't Like Tailwind. Sorry Not Sorry#discuss#css#webdev...",
     "tags": "#discuss, #css, #webdev, #frontend",
-    "reactions": "39 reactions",
-    "comments": "Comments 13 comments",
+    "reactions": "48 reactions",
+    "comments": "Comments 17 comments",
     "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
   },
   {
@@ -95,8 +85,8 @@
     "date": "2026-05-04",
     "description": "A CSS veteran’s take on speed vs puritySylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowMay 4I Love Tailwind. Sorry Not Sorry#discuss#css#tailwin...",
     "tags": "#discuss, #css, #tailwindcss, #frontend",
-    "reactions": "32 reactions",
-    "comments": "Comments 21 comments",
+    "reactions": "76 reactions",
+    "comments": "Comments 68 comments",
     "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
   },
   {
@@ -105,7 +95,7 @@
     "date": "2026-05-01",
     "description": "Omotayo AinaOmotayo AinaOmotayo AinaFollowforGoogle Developer ExpertsMay 1I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It...",
     "tags": "#machinelearning, #python, #ai, #deeplearning",
-    "reactions": "14 reactions",
+    "reactions": "18 reactions",
     "comments": "Comments 2 comments",
     "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641"
   },
@@ -115,9 +105,19 @@
     "date": "2026-04-30",
     "description": "Senior developer views on task overheadSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowApr 30Is Software Development Just a Side Quest? A Jira S...",
     "tags": "#discuss, #productivity",
-    "reactions": "132 reactions",
-    "comments": "Comments 81 comments",
+    "reactions": "138 reactions",
+    "comments": "Comments 86 comments",
     "url": "https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"
+  },
+  {
+    "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+    "author": "Harshil Agrawal",
+    "date": "2026-05-03",
+    "description": "Harshil AgrawalHarshil AgrawalHarshil AgrawalFollowMay 3Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖#ai#devjournal#javascript#webdev38r...",
+    "tags": "#ai, #devjournal, #javascript, #webdev",
+    "reactions": "38 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c"
   },
   {
     "title": "More Accessible Focus Indicators with Compose",
@@ -133,31 +133,21 @@
     "title": "Stop Using Your Clipboard to Share Context",
     "author": "Ryan Swift",
     "date": "2026-04-30",
-    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 30Stop Using Your Clipboard to Share Context#ai#agents#mcp#cli40reactionsComments6comments4 min read",
+    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 30Stop Using Your Clipboard to Share Context#ai#agents#mcp#cli42reactionsComments9comments4 min read",
     "tags": "#ai, #agents, #mcp, #cli",
-    "reactions": "40 reactions",
-    "comments": "Comments 6 comments",
+    "reactions": "42 reactions",
+    "comments": "Comments 9 comments",
     "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941"
   },
   {
-    "title": "Top 7 Featured DEV Posts of the Week",
-    "author": "Jess Lee",
-    "date": "2026-04-27",
-    "description": "Neuroscience in AI and manual code as artJess LeeJess LeeJess LeeFollowforThe DEV TeamApr 27Top 7 Featured DEV Posts of the Week#discuss#top745reactio...",
-    "tags": "#discuss, #top7",
-    "reactions": "45 reactions",
-    "comments": "Comments 6 comments",
-    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl"
-  },
-  {
-    "title": "What It Actually Feels Like to Build Something You're Proud Of",
-    "author": "Tombri Bowei",
-    "date": "2026-04-27",
-    "description": "The initial dread and the silence of shippingTombri BoweiTombri BoweiTombri BoweiFollowApr 27What It Actually Feels Like to Build Something You're Pro...",
-    "tags": "#career, #webdev, #beginners, #productivity",
-    "reactions": "45 reactions",
-    "comments": "Comments 25 comments",
-    "url": "https://dev.to/_boweii/what-it-actually-feels-like-to-build-something-youre-proud-of-35mi"
+    "title": "The 4 Cognitive Archetypes of Developers Using AI",
+    "author": "Julien Avezou",
+    "date": "2026-05-04",
+    "description": "The trade-off between leverage and dependencyJulien AvezouJulien AvezouJulien AvezouFollowMay 4The 4 Cognitive Archetypes of Developers Using AI#ai#pr...",
+    "tags": "#ai, #productivity, #learning, #softwareengineering",
+    "reactions": "49 reactions",
+    "comments": "Comments 14 comments",
+    "url": "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n"
   },
   {
     "title": "What was your win this week?",
@@ -170,13 +160,23 @@
     "url": "https://dev.to/devteam/what-was-your-win-this-week-ig5"
   },
   {
+    "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
+    "author": "Adam - The Developer",
+    "date": "2026-05-02",
+    "description": "Designing for reversibility via modularityAdam - The DeveloperAdam - The DeveloperAdam - The DeveloperFollowMay 2Write Code That's Easy to Delete: The...",
+    "tags": "#programming, #webdev, #productivity, #architecture",
+    "reactions": "87 reactions",
+    "comments": "Comments 46 comments",
+    "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"
+  },
+  {
     "title": "🗓️ Monthly Dev Report: April 2026",
     "author": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
     "date": "2026-04-28",
     "description": "WPM challenge winners and a Kpop-themed coverFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowApr 28🗓️ Monthly Dev Report: April 2026...",
     "tags": "#discuss, #devjournal, #programming, #community",
-    "reactions": "57 reactions",
-    "comments": "Comments 18 comments",
+    "reactions": "60 reactions",
+    "comments": "Comments 20 comments",
     "url": "https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"
   }
 ]
