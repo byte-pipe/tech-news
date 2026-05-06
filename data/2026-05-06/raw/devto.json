@@ -3,11 +3,21 @@
     "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
     "author": "Vladimir Novick",
     "date": "2026-05-04",
-    "description": "Vladimir NovickVladimir NovickVladimir NovickFollowMay 4A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"#security#webde...",
+    "description": "Malicious npm scripts mimicking build toolsVladimir NovickVladimir NovickVladimir NovickFollowMay 4A LinkedIn Recruiter Sent Me Malware Disguised as a...",
     "tags": "#security, #webdev, #javascript, #node",
     "reactions": "56 reactions",
     "comments": "Comments 8 comments",
     "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"
+  },
+  {
+    "title": "Am I a Developer or Just a Prompt Engineer?",
+    "author": "Harsh",
+    "date": "2026-05-05",
+    "description": "Evolution from craft to orchestrationHarshHarshHarshFollowMay 5Am I a Developer or Just a Prompt Engineer?#discuss#ai#career#programming63reactionsCom...",
+    "tags": "#discuss, #ai, #career, #programming",
+    "reactions": "63 reactions",
+    "comments": "Comments 36 comments",
+    "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
   },
   {
     "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
@@ -18,16 +28,6 @@
     "reactions": "122 reactions",
     "comments": "Comments 51 comments",
     "url": "https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"
-  },
-  {
-    "title": "Cold Starts Are Dead",
-    "author": "Eric D Johnson",
-    "date": "2026-04-29",
-    "description": "Sub-100ms performance for Go and RustEric D JohnsonEric D JohnsonEric D JohnsonFollowforAWSApr 29Cold Starts Are Dead#serverless#aws#lambda#coldstarts...",
-    "tags": "#serverless, #aws, #lambda, #coldstarts",
-    "reactions": "35 reactions",
-    "comments": "Comments 13 comments",
-    "url": "https://dev.to/aws/cold-starts-are-dead-5fod"
   },
   {
     "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
@@ -65,8 +65,8 @@
     "date": "2026-05-01",
     "description": "A pumpkin pie analogy for hand-crafted codeAndy RobinsonAndy RobinsonAndy RobinsonFollowMay 1I Don't Like Tailwind. Sorry Not Sorry#discuss#css#webdev...",
     "tags": "#discuss, #css, #webdev, #frontend",
-    "reactions": "56 reactions",
-    "comments": "Comments 19 comments",
+    "reactions": "72 reactions",
+    "comments": "Comments 31 comments",
     "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
   },
   {
@@ -75,8 +75,8 @@
     "date": "2026-05-04",
     "description": "A CSS veteran’s take on speed vs puritySylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowMay 4I Love Tailwind. Sorry Not Sorry#discuss#css#tailwin...",
     "tags": "#discuss, #css, #tailwindcss, #frontend",
-    "reactions": "89 reactions",
-    "comments": "Comments 92 comments",
+    "reactions": "112 reactions",
+    "comments": "Comments 105 comments",
     "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
   },
   {
@@ -96,7 +96,7 @@
     "description": "Senior developer views on task overheadSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowApr 30Is Software Development Just a Side Quest? A Jira S...",
     "tags": "#discuss, #productivity",
     "reactions": "137 reactions",
-    "comments": "Comments 86 comments",
+    "comments": "Comments 87 comments",
     "url": "https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"
   },
   {
@@ -123,10 +123,10 @@
     "title": "Stop Using Your Clipboard to Share Context",
     "author": "Ryan Swift",
     "date": "2026-04-30",
-    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 30Stop Using Your Clipboard to Share Context#ai#agents#mcp#cli43reactionsComments9comments4 min read",
+    "description": "Ryan SwiftRyan SwiftRyan SwiftFollowApr 30Stop Using Your Clipboard to Share Context#ai#agents#mcp#cli43reactionsComments10comments4 min read",
     "tags": "#ai, #agents, #mcp, #cli",
     "reactions": "43 reactions",
-    "comments": "Comments 9 comments",
+    "comments": "Comments 10 comments",
     "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941"
   },
   {
@@ -135,39 +135,39 @@
     "date": "2026-05-04",
     "description": "The trade-off between leverage and dependencyJulien AvezouJulien AvezouJulien AvezouFollowMay 4The 4 Cognitive Archetypes of Developers Using AI#ai#pr...",
     "tags": "#ai, #productivity, #learning, #softwareengineering",
-    "reactions": "56 reactions",
-    "comments": "Comments 24 comments",
+    "reactions": "62 reactions",
+    "comments": "Comments 27 comments",
     "url": "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n"
-  },
-  {
-    "title": "Top 7 Featured DEV Posts of the Week",
-    "author": "Jess Lee",
-    "date": "2026-05-05",
-    "description": "GPU-driven layoffs and AI trade-offsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 5Top 7 Featured DEV Posts of the Week#discuss#top728reactionsComm...",
-    "tags": "#discuss, #top7",
-    "reactions": "28 reactions",
-    "comments": "Comments 4 comments",
-    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136"
   },
   {
     "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
     "author": "Rohini Gaonkar",
     "date": "2026-05-05",
-    "description": "Rohini GaonkarRohini GaonkarRohini GaonkarFollowforAWSMay 5What Even Is AI? (I Took a Break & Had to Relearn Everything)#ai#beginners#aws#learning35re...",
+    "description": "AI mental models from first principlesRohini GaonkarRohini GaonkarRohini GaonkarFollowforAWSMay 5What Even Is AI? (I Took a Break & Had to Relearn Eve...",
     "tags": "#ai, #beginners, #aws, #learning",
-    "reactions": "35 reactions",
-    "comments": "Comments 3 comments",
+    "reactions": "38 reactions",
+    "comments": "Comments 5 comments",
     "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"
   },
   {
     "title": "What was your win this week?",
     "author": "Jess Lee",
     "date": "2026-05-01",
-    "description": "Open source builds and funny movie betsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 1What was your win this week?#discuss#weeklyretro17reactionsCo...",
+    "description": "Open source builds and funny movie betsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 1What was your win this week?#discuss#weeklyretro18reactionsCo...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "17 reactions",
-    "comments": "Comments 20 comments",
+    "reactions": "18 reactions",
+    "comments": "Comments 22 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-ig5"
+  },
+  {
+    "title": "Why I'm Building SaaS in 2026",
+    "author": "arunkant",
+    "date": "2026-04-29",
+    "description": "SaaS as reliable plumbing for fragile agentsarunkantarunkantarunkantFollowApr 29Why I'm Building SaaS in 2026#saas#ai#agents#workflows46reactionsComme...",
+    "tags": "#saas, #ai, #agents, #workflows",
+    "reactions": "46 reactions",
+    "comments": "Comments 27 comments",
+    "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn"
   },
   {
     "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
@@ -175,8 +175,8 @@
     "date": "2026-05-02",
     "description": "Designing for reversibility via modularityAdam - The DeveloperAdam - The DeveloperAdam - The DeveloperFollowMay 2Write Code That's Easy to Delete: The...",
     "tags": "#programming, #webdev, #productivity, #architecture",
-    "reactions": "95 reactions",
-    "comments": "Comments 48 comments",
+    "reactions": "105 reactions",
+    "comments": "Comments 52 comments",
     "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"
   }
 ]

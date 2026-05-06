@@ -1,5 +1,15 @@
 [
   {
+    "title": "\"AccountDumpling\" – The Google-Sent Phishing Wave Hijacking 30k Facebook Accounts (14 minute read)",
+    "url": "https://guard.io/labs/accountdumpling---hunting-down-the-google-sent-phishing-wave-compromising-30-000-facebook-accounts",
+    "description": "\"AccountDumpling\" – The Google-Sent Phishing Wave Hijacking 30k Facebook Accounts (14 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "17 Content Types to Survive Google's Zero-Click Future (7 minute read)",
     "url": "https://signal.zyppy.com/p/content-google-zero",
     "description": "17 Content Types to Survive Google's Zero-Click Future (7 minute read)",
@@ -150,9 +160,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agent Skills (16 minute read)",
+    "title": "Agent Skills (13 minute read)",
     "url": "https://addyosmani.com/blog/agent-skills/",
-    "description": "Agent Skills (16 minute read)",
+    "description": "Agent Skills (13 minute read)",
     "tags": [
       "tldr"
     ],
@@ -250,6 +260,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber (3 minute read)",
+    "url": "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
+    "description": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs (2 minute read)",
     "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
     "description": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs (2 minute read)",
@@ -320,6 +340,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Claude Code is not making your product better (12 minute read)",
+    "url": "https://ethanding.substack.com/p/claude-code-is-not-making-your-product",
+    "description": "Claude Code is not making your product better (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "Claude Security is now in public beta (4 minute read)",
     "url": "https://claude.com/blog/claude-security-public-beta",
     "description": "Claude Security is now in public beta (4 minute read)",
@@ -343,6 +373,16 @@
     "title": "Clouded Judgement 5.1.26 - The Death of Per-Seat Pricing? (9 minute read)",
     "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-5126-the-death",
     "description": "Clouded Judgement 5.1.26 - The Death of Per-Seat Pricing? (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Cognitive Surrender (15 minute read)",
+    "url": "https://addyosmani.com/blog/cognitive-surrender/",
+    "description": "Cognitive Surrender (15 minute read)",
     "tags": [
       "tldr"
     ],
@@ -450,6 +490,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Fintech could unlock over 1 million remote jobs in Africa by reducing payment friction (4 minute read)",
+    "url": "https://www.library.hbs.edu/working-knowledge/how-fintech-could-bring-africas-digital-talent-to-the-world",
+    "description": "Fintech could unlock over 1 million remote jobs in Africa by reducing payment friction (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "Five Eyes spook shops warn rapid rollouts of agentic AI are too risky (3 minute read)",
     "url": "https://www.theregister.com/2026/05/04/five_eyes_agentic_ai_recommendations/",
     "description": "Five Eyes spook shops warn rapid rollouts of agentic AI are too risky (3 minute read)",
@@ -470,9 +520,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story (15 minute read)",
+    "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story (14 minute read)",
     "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-    "description": "Formatting an entire 25 million line codebase overnight: the rubyfmt story (15 minute read)",
+    "description": "Formatting an entire 25 million line codebase overnight: the rubyfmt story (14 minute read)",
     "tags": [
       "tldr"
     ],
@@ -590,6 +640,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "How to Work and Compound with AI (13 minute read)",
+    "url": "https://eugeneyan.com//writing/working-with-ai/",
+    "description": "How to Work and Compound with AI (13 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "I Love AI, but it Still Can't Design for Shit (4 minute read)",
     "url": "https://jonnyburch.com/i-love-ai-but-it-still-cant-design-for-shit/",
     "description": "I Love AI, but it Still Can't Design for Shit (4 minute read)",
@@ -603,6 +663,16 @@
     "title": "I can never talk to an AI anonymously again (16 minute read)",
     "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
     "description": "I can never talk to an AI anonymously again (16 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "I'm Scared About Biological Computing (3 minute read)",
+    "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+    "description": "I'm Scared About Biological Computing (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -710,16 +780,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft confirms April Windows updates cause backup failures (2 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
-    "description": "Microsoft confirms April Windows updates cause backup failures (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-06",
-    "site_name": "tldr"
-  },
-  {
     "title": "More Ways to Add References When Using AI to Generate or Edit Images in Figma Make (1 minute read)",
     "url": "https://www.figma.com/release-notes/?title=new-in-make-voice-to-text-question-cards-and-more&amp%3Butm_source=tldrdesign",
     "description": "More Ways to Add References When Using AI to Generate or Edit Images in Figma Make (1 minute read)",
@@ -770,6 +830,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "OpenAI Fast-Tracking AI Phone for 2027 Launch (3 minute read)",
+    "url": "https://www.macrumors.com/2026/05/05/openai-fast-tracking-ai-phone-2027/",
+    "description": "OpenAI Fast-Tracking AI Phone for 2027 Launch (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Our Evaluation of OpenAI's GPT-5.5 Cyber Capabilities (5 minute read)",
+    "url": "https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities",
+    "description": "Our Evaluation of OpenAI's GPT-5.5 Cyber Capabilities (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "Pipelock launches open-source firewall for AI agents (2 minute read)",
     "url": "https://www.helpnetsecurity.com/2026/05/04/pipelock-open-source-ai-agent-firewall/",
     "description": "Pipelock launches open-source firewall for AI agents (2 minute read)",
@@ -810,16 +890,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Rent now, pay later fintechs grow amid housing affordability crisis (4 minute read)",
-    "url": "https://www.usatoday.com/story/money/2026/05/03/rent-now-pay-later-housing-affordability-crisis/88648014007/",
-    "description": "Rent now, pay later fintechs grow amid housing affordability crisis (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-06",
-    "site_name": "tldr"
-  },
-  {
     "title": "Ruflo (GitHub Repo)",
     "url": "https://github.com/ruvnet/ruflo",
     "description": "Ruflo (GitHub Repo)",
@@ -830,29 +900,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SharkMCP (GitHub Repo)",
-    "url": "https://github.com/weirdmachine64/SharkMCP",
-    "description": "SharkMCP (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-06",
-    "site_name": "tldr"
-  },
-  {
     "title": "Small language models are reshaping enterprise AI architecture (5 minute read)",
     "url": "https://www.infoworld.com/article/4160404/small-language-models-rethinking-enterprise-ai-architecture.html",
     "description": "Small language models are reshaping enterprise AI architecture (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "SpaceX Breaks Ground on Solar Fab to Power Orbital Data Centers (3 minute read)",
-    "url": "https://www.notateslaapp.com/news/4074/spacex-breaks-ground-on-bastrop-solar-fab-to-power-the-orbital-cloud",
-    "description": "SpaceX Breaks Ground on Solar Fab to Power Orbital Data Centers (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1070,16 +1120,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Understand Anything (GitHub Repo)",
-    "url": "https://github.com/Lum1104/Understand-Anything",
-    "description": "Understand Anything (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-06",
-    "site_name": "tldr"
-  },
-  {
     "title": "VanGuard (GitHub Repo)",
     "url": "https://github.com/ridgelinecyberdefence/vanguard",
     "description": "VanGuard (GitHub Repo)",
@@ -1180,6 +1220,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "When everyone has AI and the company still learns nothing (9 minute read)",
+    "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+    "description": "When everyone has AI and the company still learns nothing (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "Why Does No One in AI Have Support? (7 minute read)",
     "url": "https://www.saastr.com/why-does-no-one-in-ai-have-support/",
     "description": "Why Does No One in AI Have Support? (7 minute read)",
@@ -1253,16 +1303,6 @@
     "title": "copyfail-detect (GitHub Repo)",
     "url": "https://github.com/kadir/copy-fail-CVE-2026-31431-IOC",
     "description": "copyfail-detect (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "iOS 27 Will Let You Create Custom Wallet Passes (1 minute read)",
-    "url": "https://www.macrumors.com/2026/05/04/ios-27-custom-wallet-passes/",
-    "description": "iOS 27 Will Let You Create Custom Wallet Passes (1 minute read)",
     "tags": [
       "tldr"
     ],

@@ -1,62 +1,11 @@
 [
   {
-    "title": ".de TLD offline due to DNSSEC?",
-    "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-    "author": "warpspin",
-    "date": "2026-05-06",
-    "score": 523,
-    "comments": 242,
-    "id": 48027897,
-    "discussion_url": "https://news.ycombinator.com/item?id=48027897",
-    "description": ".de TLD offline due to DNSSEC?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795522"
-  },
-  {
-    "title": "AI Product Graveyard",
-    "url": "https://tooldirectory.ai/ai-graveyard",
-    "author": "StriverGuy",
-    "date": "2026-05-05",
-    "score": 244,
-    "comments": 86,
-    "id": 48021968,
-    "discussion_url": "https://news.ycombinator.com/item?id=48021968",
-    "description": "AI Product Graveyard",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.796296"
-  },
-  {
-    "title": "AI didn't delete your database, you did",
-    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-    "author": "Brajeshwar",
-    "date": "2026-05-06",
-    "score": 490,
-    "comments": 270,
-    "id": 48022742,
-    "discussion_url": "https://news.ycombinator.com/item?id=48022742",
-    "description": "AI didn't delete your database, you did",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.796185"
-  },
-  {
     "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
     "author": "amrrs",
-    "date": "2026-05-06",
-    "score": 444,
-    "comments": 199,
+    "date": "2026-05-05",
+    "score": 599,
+    "comments": 281,
     "id": 48024540,
     "discussion_url": "https://news.ycombinator.com/item?id=48024540",
     "description": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
@@ -65,15 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795270"
+    "fetched_at": "2026-05-06T12:27:23.001583"
+  },
+  {
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+    "author": "rolph",
+    "date": "2026-05-06",
+    "score": 415,
+    "comments": 215,
+    "id": 48031684,
+    "discussion_url": "https://news.ycombinator.com/item?id=48031684",
+    "description": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-06T12:27:23.001509"
   },
   {
     "title": "Agents for financial services and insurance",
     "url": "https://www.anthropic.com/news/finance-agents",
     "author": "louiereederson",
-    "date": "2026-05-06",
-    "score": 196,
-    "comments": 149,
+    "date": "2026-05-05",
+    "score": 243,
+    "comments": 175,
     "id": 48023533,
     "discussion_url": "https://news.ycombinator.com/item?id=48023533",
     "description": "Agents for financial services and insurance",
@@ -82,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795752"
+    "fetched_at": "2026-05-06T12:27:23.001622"
   },
   {
     "title": "Async Rust never left the MVP state",
     "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
     "author": "pjmlp",
     "date": "2026-05-05",
-    "score": 425,
-    "comments": 229,
+    "score": 435,
+    "comments": 239,
     "id": 48019163,
     "discussion_url": "https://news.ycombinator.com/item?id=48019163",
     "description": "Async Rust never left the MVP state",
@@ -99,15 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795954"
+    "fetched_at": "2026-05-06T12:27:23.001683"
+  },
+  {
+    "title": "CARA 2.0 – “I Built a Better Robot Dog”",
+    "url": "https://www.aaedmusa.com/projects/cara2",
+    "author": "hakonjdjohnsen",
+    "date": "2026-05-04",
+    "score": 230,
+    "comments": 27,
+    "id": 48005432,
+    "discussion_url": "https://news.ycombinator.com/item?id=48005432",
+    "description": "CARA 2.0 – “I Built a Better Robot Dog”",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-06T12:27:23.001522"
   },
   {
     "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
     "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
     "author": "averi",
     "date": "2026-05-05",
-    "score": 184,
-    "comments": 110,
+    "score": 190,
+    "comments": 116,
     "id": 48017813,
     "discussion_url": "https://news.ycombinator.com/item?id=48017813",
     "description": "CVE-2026-31431: Copy Fail vs. rootless containers",
@@ -116,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.796121"
+    "fetched_at": "2026-05-06T12:27:23.001717"
   },
   {
     "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
     "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
     "author": "littlexsparkee",
-    "date": "2026-05-06",
-    "score": 264,
-    "comments": 320,
+    "date": "2026-05-05",
+    "score": 346,
+    "comments": 398,
     "id": 48026349,
     "discussion_url": "https://news.ycombinator.com/item?id=48026349",
     "description": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
@@ -133,32 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795734"
-  },
-  {
-    "title": "Clarification on the Notepad++ Trademark Issue",
-    "url": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
-    "author": "minimaxir",
-    "date": "2026-05-06",
-    "score": 167,
-    "comments": 75,
-    "id": 48026206,
-    "discussion_url": "https://news.ycombinator.com/item?id=48026206",
-    "description": "Clarification on the Notepad++ Trademark Issue",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.796265"
+    "fetched_at": "2026-05-06T12:27:23.001629"
   },
   {
     "title": "Computer Use is 45x more expensive than structured APIs",
     "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
     "author": "palashawas",
-    "date": "2026-05-06",
-    "score": 309,
-    "comments": 175,
+    "date": "2026-05-05",
+    "score": 418,
+    "comments": 242,
     "id": 48024859,
     "discussion_url": "https://news.ycombinator.com/item?id=48024859",
     "description": "Computer Use is 45x more expensive than structured APIs",
@@ -167,32 +133,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795643"
+    "fetched_at": "2026-05-06T12:27:23.001504"
   },
   {
-    "title": "Docker 29 has changed its default image store for new installs",
-    "url": "https://docs.docker.com/engine/storage/containerd",
-    "author": "neitsab",
-    "date": "2026-05-02",
-    "score": 118,
-    "comments": 75,
-    "id": 47986331,
-    "discussion_url": "https://news.ycombinator.com/item?id=47986331",
-    "description": "Docker 29 has changed its default image store for new installs",
+    "title": "DNSSEC disruption affecting .de domains – Resolved",
+    "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+    "author": "warpspin",
+    "date": "2026-05-05",
+    "score": 692,
+    "comments": 360,
+    "id": 48027897,
+    "discussion_url": "https://news.ycombinator.com/item?id=48027897",
+    "description": "DNSSEC disruption affecting .de domains – Resolved",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795839"
+    "fetched_at": "2026-05-06T12:27:23.001579"
   },
   {
     "title": "EEVblog: The 555 Timer is 55 years old [video]",
     "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
     "author": "brudgers",
-    "date": "2026-05-06",
-    "score": 220,
-    "comments": 54,
+    "date": "2026-05-05",
+    "score": 297,
+    "comments": 77,
     "id": 48024129,
     "discussion_url": "https://news.ycombinator.com/item?id=48024129",
     "description": "EEVblog: The 555 Timer is 55 years old [video]",
@@ -201,32 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795855"
-  },
-  {
-    "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
-    "url": "https://walzr.com/empty-screenings",
-    "author": "MrBuddyCasino",
-    "date": "2026-05-05",
-    "score": 314,
-    "comments": 258,
-    "id": 48018066,
-    "discussion_url": "https://news.ycombinator.com/item?id=48018066",
-    "description": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.796216"
+    "fetched_at": "2026-05-06T12:27:23.001602"
   },
   {
     "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
     "author": "john-doe",
     "date": "2026-05-05",
-    "score": 1242,
-    "comments": 840,
+    "score": 1490,
+    "comments": 1004,
     "id": 48019219,
     "discussion_url": "https://news.ycombinator.com/item?id=48019219",
     "description": "Google Chrome silently installs a 4 GB AI model on your device without consent",
@@ -235,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795608"
+    "fetched_at": "2026-05-06T12:27:23.001609"
   },
   {
     "title": "Hand Drawn QR Codes (2025)",
     "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
     "author": "jollyjerry",
     "date": "2026-05-05",
-    "score": 201,
-    "comments": 42,
+    "score": 213,
+    "comments": 44,
     "id": 48017907,
     "discussion_url": "https://news.ycombinator.com/item?id=48017907",
     "description": "Hand Drawn QR Codes (2025)",
@@ -252,32 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795937"
-  },
-  {
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "author": "Sean-Der",
-    "date": "2026-05-05",
-    "score": 493,
-    "comments": 142,
-    "id": 48013919,
-    "discussion_url": "https://news.ycombinator.com/item?id=48013919",
-    "description": "How OpenAI delivers low-latency voice AI at scale",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.796316"
+    "fetched_at": "2026-05-06T12:27:23.001669"
   },
   {
     "title": "I'm scared about biological computing",
     "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
     "author": "kuberwastaken",
-    "date": "2026-05-06",
-    "score": 141,
-    "comments": 123,
+    "date": "2026-05-05",
+    "score": 236,
+    "comments": 191,
     "id": 48024358,
     "discussion_url": "https://news.ycombinator.com/item?id=48024358",
     "description": "I'm scared about biological computing",
@@ -286,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795821"
+    "fetched_at": "2026-05-06T12:27:23.001615"
   },
   {
     "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
     "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
     "author": "SeenNotHeard",
-    "date": "2026-05-06",
-    "score": 298,
-    "comments": 173,
+    "date": "2026-05-05",
+    "score": 351,
+    "comments": 205,
     "id": 48025687,
     "discussion_url": "https://news.ycombinator.com/item?id=48025687",
     "description": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
@@ -303,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795379"
+    "fetched_at": "2026-05-06T12:27:23.001659"
   },
   {
     "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
     "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
     "author": "ingve",
     "date": "2026-05-05",
-    "score": 229,
-    "comments": 225,
+    "score": 244,
+    "comments": 228,
     "id": 48019025,
     "discussion_url": "https://news.ycombinator.com/item?id=48019025",
     "description": "Lessons for Agentic Coding: What should we do when code is cheap?",
@@ -320,32 +252,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.796005"
+    "fetched_at": "2026-05-06T12:27:23.001656"
   },
   {
-    "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
-    "url": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
-    "author": "ilamont",
+    "title": "Ombudsman column: The Pentagon is trying to silence me",
+    "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+    "author": "petethomas",
     "date": "2026-05-06",
-    "score": 200,
-    "comments": 88,
-    "id": 48029114,
-    "discussion_url": "https://news.ycombinator.com/item?id=48029114",
-    "description": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+    "score": 265,
+    "comments": 82,
+    "id": 48031769,
+    "discussion_url": "https://news.ycombinator.com/item?id=48031769",
+    "description": "Ombudsman column: The Pentagon is trying to silence me",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795498"
+    "fetched_at": "2026-05-06T12:27:23.001633"
   },
   {
     "title": "Should I run plain Docker Compose in production in 2026?",
     "url": "https://distr.sh/blog/running-docker-in-production/",
     "author": "pmig",
     "date": "2026-04-30",
-    "score": 356,
-    "comments": 255,
+    "score": 400,
+    "comments": 282,
     "id": 47962032,
     "discussion_url": "https://news.ycombinator.com/item?id=47962032",
     "description": "Should I run plain Docker Compose in production in 2026?",
@@ -354,15 +286,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795355"
+    "fetched_at": "2026-05-06T12:27:23.001680"
+  },
+  {
+    "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+    "url": "https://paletteinspiration.com/",
+    "author": "ouli",
+    "date": "2026-05-05",
+    "score": 183,
+    "comments": 64,
+    "id": 48026342,
+    "discussion_url": "https://news.ycombinator.com/item?id=48026342",
+    "description": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-06T12:27:23.001626"
+  },
+  {
+    "title": "Show HN: Red Squares – GitHub outages as contributions",
+    "url": "https://red-squares.cian.lol/",
+    "author": "cianmm",
+    "date": "2026-05-06",
+    "score": 250,
+    "comments": 51,
+    "id": 48034587,
+    "discussion_url": "https://news.ycombinator.com/item?id=48034587",
+    "description": "Show HN: Red Squares – GitHub outages as contributions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-06T12:27:23.001494"
+  },
+  {
+    "title": "StarFighter 16-Inch",
+    "url": "https://us.starlabs.systems/pages/starfighter",
+    "author": "signa11",
+    "date": "2026-05-06",
+    "score": 426,
+    "comments": 217,
+    "id": 48031261,
+    "discussion_url": "https://news.ycombinator.com/item?id=48031261",
+    "description": "StarFighter 16-Inch",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-06T12:27:23.001557"
   },
   {
     "title": "Talking to strangers at the gym",
     "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
     "author": "thitran",
     "date": "2026-05-04",
-    "score": 1468,
-    "comments": 730,
+    "score": 1492,
+    "comments": 741,
     "id": 48007438,
     "discussion_url": "https://news.ycombinator.com/item?id=48007438",
     "description": "Talking to strangers at the gym",
@@ -371,15 +354,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.796232"
+    "fetched_at": "2026-05-06T12:27:23.001700"
+  },
+  {
+    "title": "Telus Uses AI to Alter Call-Agent Accents",
+    "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+    "author": "debo_",
+    "date": "2026-05-06",
+    "score": 169,
+    "comments": 138,
+    "id": 48031109,
+    "discussion_url": "https://news.ycombinator.com/item?id=48031109",
+    "description": "Telus Uses AI to Alter Call-Agent Accents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-06T12:27:23.001518"
   },
   {
     "title": "Three Inverse Laws of AI",
     "url": "https://susam.net/inverse-laws-of-robotics.html",
     "author": "blenderob",
-    "date": "2026-05-06",
-    "score": 353,
-    "comments": 244,
+    "date": "2026-05-05",
+    "score": 470,
+    "comments": 319,
     "id": 48023861,
     "discussion_url": "https://news.ycombinator.com/item?id=48023861",
     "description": "Three Inverse Laws of AI",
@@ -388,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795625"
+    "fetched_at": "2026-05-06T12:27:23.001598"
   },
   {
     "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
     "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
     "author": "adrianmsmith",
     "date": "2026-05-05",
-    "score": 257,
-    "comments": 363,
+    "score": 397,
+    "comments": 613,
     "id": 48021368,
     "discussion_url": "https://news.ycombinator.com/item?id=48021368",
     "description": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
@@ -405,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795541"
+    "fetched_at": "2026-05-06T12:27:23.001605"
   },
   {
     "title": "Train Your Own LLM from Scratch",
     "url": "https://github.com/angelos-p/llm-from-scratch",
     "author": "kristianpaul",
     "date": "2026-05-05",
-    "score": 423,
-    "comments": 49,
+    "score": 450,
+    "comments": 50,
     "id": 48017948,
     "discussion_url": "https://news.ycombinator.com/item?id=48017948",
     "description": "Train Your Own LLM from Scratch",
@@ -422,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.796087"
+    "fetched_at": "2026-05-06T12:27:23.001714"
   },
   {
     "title": "When everyone has AI and the company still learns nothing",
     "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
     "author": "youngbrioche",
     "date": "2026-05-05",
-    "score": 310,
-    "comments": 218,
+    "score": 366,
+    "comments": 244,
     "id": 48020063,
     "discussion_url": "https://news.ycombinator.com/item?id=48020063",
     "description": "When everyone has AI and the company still learns nothing",
@@ -439,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795323"
+    "fetched_at": "2026-05-06T12:27:23.001676"
   },
   {
     "title": "Write some software, give it away for free",
     "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
     "author": "nohell",
-    "date": "2026-05-06",
-    "score": 127,
-    "comments": 95,
+    "date": "2026-05-05",
+    "score": 292,
+    "comments": 201,
     "id": 48028842,
     "discussion_url": "https://news.ycombinator.com/item?id=48028842",
     "description": "Write some software, give it away for free",
@@ -456,15 +456,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795482"
+    "fetched_at": "2026-05-06T12:27:23.001561"
+  },
+  {
+    "title": "YouTube, your RSS feeds are broken",
+    "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+    "author": "veeti",
+    "date": "2026-05-06",
+    "score": 176,
+    "comments": 69,
+    "id": 48030964,
+    "discussion_url": "https://news.ycombinator.com/item?id=48030964",
+    "description": "YouTube, your RSS feeds are broken",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-06T12:27:23.001541"
   },
   {
     "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
     "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
     "author": "spankibalt",
-    "date": "2026-05-06",
-    "score": 248,
-    "comments": 183,
+    "date": "2026-05-05",
+    "score": 400,
+    "comments": 358,
     "id": 48026207,
     "discussion_url": "https://news.ycombinator.com/item?id=48026207",
     "description": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
@@ -473,32 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795425"
-  },
-  {
-    "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
-    "url": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
-    "author": "jethronethro",
-    "date": "2026-05-06",
-    "score": 123,
-    "comments": 36,
-    "id": 48029334,
-    "discussion_url": "https://news.ycombinator.com/item?id=48029334",
-    "description": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795769"
+    "fetched_at": "2026-05-06T12:27:23.001640"
   },
   {
     "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
     "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
     "author": "alentodorov",
     "date": "2026-05-05",
-    "score": 380,
-    "comments": 288,
+    "score": 406,
+    "comments": 308,
     "id": 48021561,
     "discussion_url": "https://news.ycombinator.com/item?id=48021561",
     "description": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-06T11:29:53.795447"
+    "fetched_at": "2026-05-06T12:27:23.001649"
   }
 ]
