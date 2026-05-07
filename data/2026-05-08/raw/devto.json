@@ -1,0 +1,192 @@
+[
+  {
+    "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
+    "author": "Vladimir Novick",
+    "date": "2026-05-04",
+    "description": "Malicious npm scripts mimicking build toolsVladimir NovickVladimir NovickVladimir NovickFollowMay 4A LinkedIn Recruiter Sent Me Malware Disguised as a...",
+    "tags": "#security, #webdev, #javascript, #node",
+    "reactions": "75 reactions",
+    "comments": "Comments 9 comments",
+    "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"
+  },
+  {
+    "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+    "author": "Ashley Childress",
+    "date": "2026-05-02",
+    "description": "Tiered model selection and chat-first planningAshley ChildressAshley ChildressAshley ChildressFollowMay 2AI Isn't Stupid. Your Setup Is. 🛠️#ai#agents#...",
+    "tags": "#ai, #agents, #productivity, #tutorial",
+    "reactions": "136 reactions",
+    "comments": "Comments 66 comments",
+    "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn"
+  },
+  {
+    "title": "Am I a Developer or Just a Prompt Engineer?",
+    "author": "Harsh",
+    "date": "2026-05-05",
+    "description": "Evolution from craft to orchestrationHarshHarshHarshFollowMay 5Am I a Developer or Just a Prompt Engineer?#discuss#ai#career#programming108reactionsCo...",
+    "tags": "#discuss, #ai, #career, #programming",
+    "reactions": "108 reactions",
+    "comments": "Comments 82 comments",
+    "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"
+  },
+  {
+    "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+    "author": "Erik Hanchett",
+    "date": "2026-05-06",
+    "description": "Bedrock AgentCore and web scraping tipsErik HanchettErik HanchettErik HanchettFollowforAWSMay 6Build Your Own AI Butler - A Scheduled Agent That Runs ...",
+    "tags": "#aws, #ai, #agents, #tutorial",
+    "reactions": "41 reactions",
+    "comments": "Comments 7 comments",
+    "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
+  },
+  {
+    "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
+    "author": "Jess Lee",
+    "date": "2026-05-07",
+    "description": "Exploring agents as the new microservicesJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 7Congrats to the Google Cloud NEXT '26 Writing Challenge Win...",
+    "tags": "#devchallenge, #cloudnextchallenge, #googlecloud",
+    "reactions": "28 reactions",
+    "comments": "Comments 8 comments",
+    "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990"
+  },
+  {
+    "title": "Copilot Squad",
+    "author": "Ruairí O'Brien",
+    "date": "2026-05-05",
+    "description": "Ruairí O'BrienRuairí O'BrienRuairí O'BrienFollowMay 5Copilot Squad#githubcopilot24reactionsCommentsAdd Comment11 min read",
+    "tags": "#githubcopilot",
+    "reactions": "24 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/ruarfff/copilot-squad-4nda"
+  },
+  {
+    "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+    "author": "Aryan Choudhary",
+    "date": "2026-05-06",
+    "description": "Japanese immersion and mainframe workAryan ChoudharyAryan ChoudharyAryan ChoudharyFollowMay 6I Didn’t Stop Building. I Just Left My Laptop.#career#lea...",
+    "tags": "#career, #learning, #development, #workplace",
+    "reactions": "64 reactions",
+    "comments": "Comments 16 comments",
+    "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
+  },
+  {
+    "title": "I Don't Like Tailwind. Sorry Not Sorry",
+    "author": "Andy Robinson",
+    "date": "2026-05-01",
+    "description": "A pumpkin pie analogy for hand-crafted codeAndy RobinsonAndy RobinsonAndy RobinsonFollowMay 1I Don't Like Tailwind. Sorry Not Sorry#discuss#css#webdev...",
+    "tags": "#discuss, #css, #webdev, #frontend",
+    "reactions": "93 reactions",
+    "comments": "Comments 42 comments",
+    "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"
+  },
+  {
+    "title": "I Love Tailwind. Sorry Not Sorry",
+    "author": "Sylwia Laskowska",
+    "date": "2026-05-04",
+    "description": "A CSS veteran’s take on speed vs puritySylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowMay 4I Love Tailwind. Sorry Not Sorry#discuss#css#tailwin...",
+    "tags": "#discuss, #css, #tailwindcss, #frontend",
+    "reactions": "139 reactions",
+    "comments": "Comments 120 comments",
+    "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"
+  },
+  {
+    "title": "I Programmed an AI in 6502 Assembly - It Worked",
+    "author": "Paul Newell",
+    "date": "2026-05-06",
+    "description": "Paul NewellPaul NewellPaul NewellFollowMay 6I Programmed an AI in 6502 Assembly - It Worked#ai#webdev#programming#productivity48reactionsComments3comm...",
+    "tags": "#ai, #webdev, #programming, #productivity",
+    "reactions": "48 reactions",
+    "comments": "Comments 3 comments",
+    "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi"
+  },
+  {
+    "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+    "author": "Omotayo Aina",
+    "date": "2026-05-01",
+    "description": "JIT error detection vs silent gradient bugsOmotayo AinaOmotayo AinaOmotayo AinaFollowforGoogle Developer ExpertsMay 1I Rebuilt Karpathy's NanoChat in ...",
+    "tags": "#machinelearning, #python, #ai, #deeplearning",
+    "reactions": "20 reactions",
+    "comments": "Comments 4 comments",
+    "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641"
+  },
+  {
+    "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+    "author": "Jess Lee",
+    "date": "2026-05-06",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxGot opinions on local AI? We want to hear them.Publish a post about...",
+    "tags": "#devchallenge, #gemmachallenge, #gemma",
+    "reactions": "85 reactions",
+    "comments": "Comments 10 comments",
+    "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in?bb=263416"
+  },
+  {
+    "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+    "author": "Jess Lee",
+    "date": "2026-05-06",
+    "description": "Native multimodal and IoT project focusJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 6Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners...",
+    "tags": "#devchallenge, #gemmachallenge, #gemma",
+    "reactions": "157 reactions",
+    "comments": "Comments 18 comments",
+    "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
+  },
+  {
+    "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+    "author": "Harshil Agrawal",
+    "date": "2026-05-03",
+    "description": "Harshil AgrawalHarshil AgrawalHarshil AgrawalFollowMay 3Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖#ai#devjournal#javascript#webdev40r...",
+    "tags": "#ai, #devjournal, #javascript, #webdev",
+    "reactions": "40 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c"
+  },
+  {
+    "title": "The 4 Cognitive Archetypes of Developers Using AI",
+    "author": "Julien Avezou",
+    "date": "2026-05-04",
+    "description": "The trade-off between leverage and dependencyJulien AvezouJulien AvezouJulien AvezouFollowMay 4The 4 Cognitive Archetypes of Developers Using AI#ai#pr...",
+    "tags": "#ai, #productivity, #learning, #softwareengineering",
+    "reactions": "94 reactions",
+    "comments": "Comments 37 comments",
+    "url": "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n"
+  },
+  {
+    "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
+    "author": "Jeongho Nam",
+    "date": "2026-05-04",
+    "description": "Jeongho NamJeongho NamJeongho NamFollowMay 4VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once#ai#vr#productivity#programming38reactions...",
+    "tags": "#ai, #vr, #productivity, #programming",
+    "reactions": "38 reactions",
+    "comments": "Comments 3 comments",
+    "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj"
+  },
+  {
+    "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+    "author": "Rohini Gaonkar",
+    "date": "2026-05-05",
+    "description": "AI mental models from first principlesRohini GaonkarRohini GaonkarRohini GaonkarFollowforAWSMay 5What Even Is AI? (I Took a Break & Had to Relearn Eve...",
+    "tags": "#ai, #beginners, #aws, #learning",
+    "reactions": "53 reactions",
+    "comments": "Comments 13 comments",
+    "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"
+  },
+  {
+    "title": "What was your win this week?",
+    "author": "Jess Lee",
+    "date": "2026-05-01",
+    "description": "Open source builds and funny movie betsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 1What was your win this week?#discuss#weeklyretro18reactionsCo...",
+    "tags": "#discuss, #weeklyretro",
+    "reactions": "18 reactions",
+    "comments": "Comments 22 comments",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-ig5"
+  },
+  {
+    "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
+    "author": "Adam - The Developer",
+    "date": "2026-05-02",
+    "description": "Designing for reversibility via modularityAdam - The DeveloperAdam - The DeveloperAdam - The DeveloperFollowMay 2Write Code That's Easy to Delete: The...",
+    "tags": "#programming, #webdev, #productivity, #architecture",
+    "reactions": "125 reactions",
+    "comments": "Comments 66 comments",
+    "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"
+  }
+]
