@@ -1,182 +1,227 @@
 [
   {
-    "title": "Appearing productive in the workplace",
-    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-    "description": "Appearing productive in the workplace",
-    "date": "2026-05-06",
-    "score": 1294,
-    "comments": 513,
-    "discussion_url": "https://news.ycombinator.com/item?id=48038001",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511200"
-  },
-  {
-    "title": "Community firmware for the Xteink X4 e-paper reader",
-    "url": "https://github.com/crosspoint-reader/crosspoint-reader",
-    "description": "Community firmware for the Xteink X4 e-paper reader",
-    "date": "2026-05-05",
-    "score": 116,
-    "comments": 37,
-    "discussion_url": "https://news.ycombinator.com/item?id=48021901",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511246"
-  },
-  {
-    "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-    "url": "https://aniket.foo/posts/20260505-netboot/",
-    "description": "Diskless Linux boot using ZFS, iSCSI and PXE",
+    "title": "AI Slop Is Killing Online Communities",
+    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "description": "AI Slop Is Killing Online Communities",
     "date": "2026-05-07",
-    "score": 117,
-    "comments": 63,
-    "discussion_url": "https://news.ycombinator.com/item?id=48045012",
+    "score": 129,
+    "comments": 105,
+    "discussion_url": "https://news.ycombinator.com/item?id=48053203",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511099"
+    "fetched_at": "2026-05-07T20:12:54.992767"
   },
   {
-    "title": "From Supabase to Clerk to Better Auth",
-    "url": "https://blog.val.town/better-auth",
-    "description": "From Supabase to Clerk to Better Auth",
-    "date": "2026-05-06",
-    "score": 267,
-    "comments": 193,
-    "discussion_url": "https://news.ycombinator.com/item?id=48038827",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511170"
-  },
-  {
-    "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-    "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-    "description": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-    "date": "2026-05-06",
-    "score": 333,
-    "comments": 337,
-    "discussion_url": "https://news.ycombinator.com/item?id=48039362",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511158"
-  },
-  {
-    "title": "Permacomputing Principles",
-    "url": "https://permacomputing.net/principles/",
-    "description": "Permacomputing Principles",
+    "title": "Agents need control flow, not more prompts",
+    "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "description": "Agents need control flow, not more prompts",
     "date": "2026-05-07",
-    "score": 177,
-    "comments": 84,
-    "discussion_url": "https://news.ycombinator.com/item?id=48044638",
+    "score": 160,
+    "comments": 79,
+    "discussion_url": "https://news.ycombinator.com/item?id=48051562",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511123"
+    "fetched_at": "2026-05-07T20:12:54.992790"
   },
   {
-    "title": "RSS feeds send me more traffic than Google",
-    "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-    "description": "RSS feeds send me more traffic than Google",
+    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "description": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
     "date": "2026-05-07",
-    "score": 147,
+    "score": 199,
+    "comments": 76,
+    "discussion_url": "https://news.ycombinator.com/item?id=48050278",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-07T20:12:54.992854"
+  },
+  {
+    "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+    "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+    "description": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+    "date": "2026-05-04",
+    "score": 162,
+    "comments": 72,
+    "discussion_url": "https://news.ycombinator.com/item?id=48014521",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-07T20:12:54.992955"
+  },
+  {
+    "title": "Child marriages plunged when girls stayed in school in Nigeria",
+    "url": "https://www.nature.com/articles/d41586-026-00720-8",
+    "description": "Child marriages plunged when girls stayed in school in Nigeria",
+    "date": "2026-05-07",
+    "score": 280,
+    "comments": 197,
+    "discussion_url": "https://news.ycombinator.com/item?id=48049208",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-07T20:12:54.992922"
+  },
+  {
+    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+    "description": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "date": "2026-05-07",
+    "score": 282,
+    "comments": 100,
+    "discussion_url": "https://news.ycombinator.com/item?id=48050964",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-07T20:12:54.992805"
+  },
+  {
+    "title": "DeepSeek 4 Flash local inference engine for Metal",
+    "url": "https://github.com/antirez/ds4",
+    "description": "DeepSeek 4 Flash local inference engine for Metal",
+    "date": "2026-05-07",
+    "score": 168,
+    "comments": 54,
+    "discussion_url": "https://news.ycombinator.com/item?id=48050751",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-07T20:12:54.992817"
+  },
+  {
+    "title": "I want to live like Costco people",
+    "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+    "description": "I want to live like Costco people",
+    "date": "2026-05-07",
+    "score": 106,
+    "comments": 249,
+    "discussion_url": "https://news.ycombinator.com/item?id=48050499",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-07T20:12:54.992842"
+  },
+  {
+    "title": "Indian matchbox labels as a visual archive",
+    "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
+    "description": "Indian matchbox labels as a visual archive",
+    "date": "2026-05-04",
+    "score": 139,
     "comments": 32,
-    "discussion_url": "https://news.ycombinator.com/item?id=48043964",
+    "discussion_url": "https://news.ycombinator.com/item?id=48008999",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511136"
+    "fetched_at": "2026-05-07T20:12:54.992976"
+  },
+  {
+    "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+    "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+    "description": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+    "date": "2026-05-07",
+    "score": 181,
+    "comments": 202,
+    "discussion_url": "https://news.ycombinator.com/item?id=48050540",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-07T20:12:54.992829"
+  },
+  {
+    "title": "ProgramBench: Can language models rebuild programs from scratch?",
+    "url": "https://arxiv.org/abs/2605.03546",
+    "description": "ProgramBench: Can language models rebuild programs from scratch?",
+    "date": "2026-05-07",
+    "score": 125,
+    "comments": 69,
+    "discussion_url": "https://news.ycombinator.com/item?id=48045174",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-07T20:12:54.992933"
+  },
+  {
+    "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+    "url": "https://ratex.lites.dev/",
+    "description": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+    "date": "2026-05-04",
+    "score": 134,
+    "comments": 80,
+    "discussion_url": "https://news.ycombinator.com/item?id=48010729",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-07T20:12:54.992965"
   },
   {
     "title": "SQLite Is a Library of Congress Recommended Storage Format",
     "url": "https://sqlite.org/locrsf.html",
     "description": "SQLite Is a Library of Congress Recommended Storage Format",
     "date": "2026-05-06",
-    "score": 350,
-    "comments": 92,
+    "score": 575,
+    "comments": 177,
     "discussion_url": "https://news.ycombinator.com/item?id=48042434",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511147"
+    "fetched_at": "2026-05-07T20:12:54.992945"
   },
   {
-    "title": "Show HN: Hallucinopedia",
-    "url": "http://halupedia.com/",
-    "description": "Show HN: Hallucinopedia",
-    "date": "2026-05-06",
-    "score": 248,
-    "comments": 221,
-    "discussion_url": "https://news.ycombinator.com/item?id=48038257",
+    "title": "The Burning Man MOOP Map",
+    "url": "https://www.not-ship.com/burning-man-moop/",
+    "description": "The Burning Man MOOP Map",
+    "date": "2026-05-07",
+    "score": 439,
+    "comments": 204,
+    "discussion_url": "https://news.ycombinator.com/item?id=48049653",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511181"
+    "fetched_at": "2026-05-07T20:12:54.992887"
   },
   {
-    "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-    "url": "https://tilde.run/",
-    "description": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-    "date": "2026-05-06",
-    "score": 177,
-    "comments": 119,
-    "discussion_url": "https://news.ycombinator.com/item?id=48037724",
+    "title": "The Self-Cancelling Subscription",
+    "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+    "description": "The Self-Cancelling Subscription",
+    "date": "2026-05-07",
+    "score": 115,
+    "comments": 51,
+    "discussion_url": "https://news.ycombinator.com/item?id=48049764",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511213"
-  },
-  {
-    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-    "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-    "description": "Valve releases Steam Controller CAD files under Creative Commons license",
-    "date": "2026-05-06",
-    "score": 1519,
-    "comments": 498,
-    "discussion_url": "https://news.ycombinator.com/item?id=48037555",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511225"
-  },
-  {
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-    "description": "Vibe coding and agentic engineering are getting closer than I'd like",
-    "date": "2026-05-06",
-    "score": 640,
-    "comments": 703,
-    "discussion_url": "https://news.ycombinator.com/item?id=48037128",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-07T12:29:06.511235"
+    "fetched_at": "2026-05-07T20:12:54.992873"
   }
 ]
