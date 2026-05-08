@@ -4,239 +4,284 @@
     "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
     "description": "AI slop is killing online communities",
     "date": "2026-05-07",
-    "score": 271,
-    "comments": 268,
+    "score": 699,
+    "comments": 602,
     "discussion_url": "https://news.ycombinator.com/item?id=48053203",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885829"
+    "fetched_at": "2026-05-08T12:08:38.267439"
   },
   {
     "title": "Agents need control flow, not more prompts",
     "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
     "description": "Agents need control flow, not more prompts",
     "date": "2026-05-07",
-    "score": 241,
-    "comments": 136,
+    "score": 492,
+    "comments": 244,
     "discussion_url": "https://news.ycombinator.com/item?id=48051562",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885866"
+    "fetched_at": "2026-05-08T12:08:38.267473"
   },
   {
     "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
     "url": "https://deepmind.google/blog/alphaevolve-impact/",
     "description": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
     "date": "2026-05-07",
-    "score": 225,
-    "comments": 85,
+    "score": 301,
+    "comments": 126,
     "discussion_url": "https://news.ycombinator.com/item?id=48050278",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885950"
+    "fetched_at": "2026-05-08T12:08:38.267504"
   },
   {
-    "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-    "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-    "description": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-    "date": "2026-05-04",
-    "score": 173,
-    "comments": 79,
-    "discussion_url": "https://news.ycombinator.com/item?id=48014521",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.886026"
-  },
-  {
-    "title": "Child marriages plunged when girls stayed in school in Nigeria",
-    "url": "https://www.nature.com/articles/d41586-026-00720-8",
-    "description": "Child marriages plunged when girls stayed in school in Nigeria",
+    "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
+    "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+    "description": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
     "date": "2026-05-07",
-    "score": 311,
-    "comments": 231,
-    "discussion_url": "https://news.ycombinator.com/item?id=48049208",
+    "score": 238,
+    "comments": 206,
+    "discussion_url": "https://news.ycombinator.com/item?id=48052371",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885995"
+    "fetched_at": "2026-05-08T12:08:38.267462"
   },
   {
-    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-    "description": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "description": "Canvas is down as ShinyHunters threatens to leak schools’ data",
     "date": "2026-05-07",
-    "score": 379,
-    "comments": 148,
-    "discussion_url": "https://news.ycombinator.com/item?id=48050964",
+    "score": 722,
+    "comments": 435,
+    "discussion_url": "https://news.ycombinator.com/item?id=48055913",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885885"
+    "fetched_at": "2026-05-08T12:08:38.267383"
+  },
+  {
+    "title": "ClojureScript Gets Async/Await",
+    "url": "https://clojurescript.org/news/2026-05-07-release",
+    "description": "ClojureScript Gets Async/Await",
+    "date": "2026-05-08",
+    "score": 100,
+    "comments": 28,
+    "discussion_url": "https://news.ycombinator.com/item?id=48059662",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-08T12:08:38.267324"
+  },
+  {
+    "title": "Cloudflare to cut about 20% workforce",
+    "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+    "description": "Cloudflare to cut about 20% workforce",
+    "date": "2026-05-07",
+    "score": 867,
+    "comments": 580,
+    "discussion_url": "https://news.ycombinator.com/item?id=48054423",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-08T12:08:38.267395"
   },
   {
     "title": "DeepSeek 4 Flash local inference engine for Metal",
     "url": "https://github.com/antirez/ds4",
     "description": "DeepSeek 4 Flash local inference engine for Metal",
     "date": "2026-05-07",
-    "score": 226,
-    "comments": 70,
+    "score": 417,
+    "comments": 119,
     "discussion_url": "https://news.ycombinator.com/item?id=48050751",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885901"
+    "fetched_at": "2026-05-08T12:08:38.267494"
   },
   {
     "title": "Dirtyfrag: Universal Linux LPE",
     "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
     "description": "Dirtyfrag: Universal Linux LPE",
     "date": "2026-05-07",
-    "score": 240,
-    "comments": 106,
+    "score": 677,
+    "comments": 276,
     "discussion_url": "https://news.ycombinator.com/item?id=48053623",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885794"
+    "fetched_at": "2026-05-08T12:08:38.267426"
   },
   {
-    "title": "I want to live like Costco people",
-    "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
-    "description": "I want to live like Costco people",
+    "title": "Hardening Firefox with Claude Mythos Preview",
+    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+    "description": "Hardening Firefox with Claude Mythos Preview",
     "date": "2026-05-07",
-    "score": 161,
-    "comments": 382,
-    "discussion_url": "https://news.ycombinator.com/item?id=48050499",
+    "score": 229,
+    "comments": 104,
+    "discussion_url": "https://news.ycombinator.com/item?id=48051079",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885933"
+    "fetched_at": "2026-05-08T12:08:38.267483"
   },
   {
-    "title": "Indian matchbox labels as a visual archive",
-    "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-    "description": "Indian matchbox labels as a visual archive",
-    "date": "2026-05-04",
-    "score": 149,
-    "comments": 33,
-    "discussion_url": "https://news.ycombinator.com/item?id=48008999",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.886054"
-  },
-  {
-    "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-    "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-    "description": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+    "title": "Maybe you shouldn't install new software for a bit",
+    "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+    "description": "Maybe you shouldn't install new software for a bit",
     "date": "2026-05-07",
-    "score": 221,
-    "comments": 259,
-    "discussion_url": "https://news.ycombinator.com/item?id=48050540",
+    "score": 588,
+    "comments": 322,
+    "discussion_url": "https://news.ycombinator.com/item?id=48056227",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885918"
+    "fetched_at": "2026-05-08T12:08:38.267360"
   },
   {
     "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
     "url": "https://www.anthropic.com/research/natural-language-autoencoders",
     "description": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
     "date": "2026-05-07",
-    "score": 137,
-    "comments": 41,
+    "score": 303,
+    "comments": 99,
     "discussion_url": "https://news.ycombinator.com/item?id=48052537",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885849"
+    "fetched_at": "2026-05-08T12:08:38.267451"
   },
   {
-    "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-    "url": "https://ratex.lites.dev/",
-    "description": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-    "date": "2026-05-04",
-    "score": 149,
-    "comments": 84,
-    "discussion_url": "https://news.ycombinator.com/item?id=48010729",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.886040"
-  },
-  {
-    "title": "Show HN: TRUST – Coding Rust like it's 1989",
-    "url": "https://github.com/wojtczyk/trust",
-    "description": "Show HN: TRUST – Coding Rust like it's 1989",
+    "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+    "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+    "description": "Nonprofit hospitals spend billions on consultants with no clear effect",
     "date": "2026-05-07",
-    "score": 104,
-    "comments": 66,
-    "discussion_url": "https://news.ycombinator.com/item?id=48045939",
+    "score": 168,
+    "comments": 60,
+    "discussion_url": "https://news.ycombinator.com/item?id=48056158",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.886010"
+    "fetched_at": "2026-05-08T12:08:38.267372"
   },
   {
-    "title": "The Burning Man MOOP Map",
+    "title": "Pinocchio is weirder than you remembered",
+    "url": "https://storica.club/blog/pinocchio-in-italian/",
+    "description": "Pinocchio is weirder than you remembered",
+    "date": "2026-05-06",
+    "score": 184,
+    "comments": 82,
+    "discussion_url": "https://news.ycombinator.com/item?id=48035420",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-08T12:08:38.267537"
+  },
+  {
+    "title": "Plasticity and language in the anaesthetized human hippocampus",
+    "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+    "description": "Plasticity and language in the anaesthetized human hippocampus",
+    "date": "2026-05-07",
+    "score": 122,
+    "comments": 43,
+    "discussion_url": "https://news.ycombinator.com/item?id=48056268",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-08T12:08:38.267347"
+  },
+  {
+    "title": "Rumors of my death are slightly exaggerated",
+    "url": "https://news.ycombinator.com/item?id=48037336",
+    "description": "Rumors of my death are slightly exaggerated",
+    "date": "2026-05-06",
+    "score": 345,
+    "comments": 55,
+    "discussion_url": "https://news.ycombinator.com/item?id=48037336",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-08T12:08:38.267527"
+  },
+  {
+    "title": "Singapore introduces caning for boys who bully others at school",
+    "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
+    "description": "Singapore introduces caning for boys who bully others at school",
+    "date": "2026-05-06",
+    "score": 219,
+    "comments": 313,
+    "discussion_url": "https://news.ycombinator.com/item?id=48032968",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-08T12:08:38.267548"
+  },
+  {
+    "title": "The map that keeps Burning Man honest",
     "url": "https://www.not-ship.com/burning-man-moop/",
-    "description": "The Burning Man MOOP Map",
+    "description": "The map that keeps Burning Man honest",
     "date": "2026-05-07",
-    "score": 486,
-    "comments": 256,
+    "score": 670,
+    "comments": 322,
     "discussion_url": "https://news.ycombinator.com/item?id=48049653",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885979"
+    "fetched_at": "2026-05-08T12:08:38.267515"
   },
   {
-    "title": "The Self-Cancelling Subscription",
-    "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
-    "description": "The Self-Cancelling Subscription",
+    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "description": "Two Home Affairs officials suspended after AI 'hallucinations' found",
     "date": "2026-05-07",
-    "score": 128,
-    "comments": 57,
-    "discussion_url": "https://news.ycombinator.com/item?id=48049764",
+    "score": 110,
+    "comments": 24,
+    "discussion_url": "https://news.ycombinator.com/item?id=48053842",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-08T08:12:52.885964"
+    "fetched_at": "2026-05-08T12:08:38.267406"
   }
 ]
