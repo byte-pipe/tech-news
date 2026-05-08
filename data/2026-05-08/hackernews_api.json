@@ -1,11 +1,28 @@
 [
   {
+    "title": "A web page that shows you everything the browser told it without asking",
+    "url": "https://sinceyouarrived.world/taken",
+    "author": "mwheelz",
+    "date": "2026-05-08",
+    "score": 413,
+    "comments": 205,
+    "id": 48062178,
+    "discussion_url": "https://news.ycombinator.com/item?id=48062178",
+    "description": "A web page that shows you everything the browser told it without asking",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-08T20:06:20.701660"
+  },
+  {
     "title": "AI slop is killing online communities",
     "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
     "author": "thm",
     "date": "2026-05-07",
-    "score": 699,
-    "comments": 602,
+    "score": 786,
+    "comments": 683,
     "id": 48053203,
     "discussion_url": "https://news.ycombinator.com/item?id=48053203",
     "description": "AI slop is killing online communities",
@@ -14,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804434"
+    "fetched_at": "2026-05-08T20:06:20.701881"
   },
   {
     "title": "Agents need control flow, not more prompts",
     "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
     "author": "bsuh",
     "date": "2026-05-07",
-    "score": 492,
-    "comments": 244,
+    "score": 561,
+    "comments": 280,
     "id": 48051562,
     "discussion_url": "https://news.ycombinator.com/item?id=48051562",
     "description": "Agents need control flow, not more prompts",
@@ -31,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804399"
+    "fetched_at": "2026-05-08T20:06:20.701807"
   },
   {
     "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
     "url": "https://deepmind.google/blog/alphaevolve-impact/",
     "author": "berlianta",
     "date": "2026-05-07",
-    "score": 301,
-    "comments": 126,
+    "score": 321,
+    "comments": 140,
     "id": 48050278,
     "discussion_url": "https://news.ycombinator.com/item?id=48050278",
     "description": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
@@ -48,32 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804430"
+    "fetched_at": "2026-05-08T20:06:20.701853"
   },
   {
-    "title": "Appearing productive in the workplace",
-    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-    "author": "diebillionaires",
-    "date": "2026-05-06",
-    "score": 1565,
-    "comments": 635,
-    "id": 48038001,
-    "discussion_url": "https://news.ycombinator.com/item?id=48038001",
-    "description": "Appearing productive in the workplace",
+    "title": "An Introduction to Meshtastic",
+    "url": "https://meshtastic.org/docs/introduction/",
+    "author": "ColinWright",
+    "date": "2026-05-08",
+    "score": 305,
+    "comments": 116,
+    "id": 48061566,
+    "discussion_url": "https://news.ycombinator.com/item?id=48061566",
+    "description": "An Introduction to Meshtastic",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804548"
+    "fetched_at": "2026-05-08T20:06:20.701714"
   },
   {
     "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
     "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
     "author": "wslh",
     "date": "2026-05-07",
-    "score": 238,
-    "comments": 206,
+    "score": 369,
+    "comments": 319,
     "id": 48052371,
     "discussion_url": "https://news.ycombinator.com/item?id=48052371",
     "description": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
@@ -82,83 +99,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804407"
+    "fetched_at": "2026-05-08T20:06:20.701836"
   },
   {
-    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+    "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
     "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
     "author": "stefanpie",
     "date": "2026-05-07",
-    "score": 722,
-    "comments": 435,
+    "score": 885,
+    "comments": 588,
     "id": 48055913,
     "discussion_url": "https://news.ycombinator.com/item?id=48055913",
-    "description": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+    "description": "Canvas online again as ShinyHunters threatens to leak schools’ data",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804381"
+    "fetched_at": "2026-05-08T20:06:20.701787"
   },
   {
-    "title": "Child marriages plunged when girls stayed in school in Nigeria",
-    "url": "https://www.nature.com/articles/d41586-026-00720-8",
-    "author": "surprisetalk",
-    "date": "2026-05-07",
-    "score": 363,
-    "comments": 289,
-    "id": 48049208,
-    "discussion_url": "https://news.ycombinator.com/item?id=48049208",
-    "description": "Child marriages plunged when girls stayed in school in Nigeria",
+    "title": "Cartoon Network Flash Games",
+    "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+    "author": "willmeyers",
+    "date": "2026-05-08",
+    "score": 175,
+    "comments": 57,
+    "id": 48065360,
+    "discussion_url": "https://news.ycombinator.com/item?id=48065360",
+    "description": "Cartoon Network Flash Games",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804552"
+    "fetched_at": "2026-05-08T20:06:20.701690"
   },
   {
-    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-    "author": "newsoftheday",
-    "date": "2026-05-07",
-    "score": 574,
-    "comments": 229,
-    "id": 48050964,
-    "discussion_url": "https://news.ycombinator.com/item?id=48050964",
-    "description": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "title": "ClojureScript Gets Async/Await",
+    "url": "https://clojurescript.org/news/2026-05-07-release",
+    "author": "Borkdude",
+    "date": "2026-05-08",
+    "score": 255,
+    "comments": 61,
+    "id": 48059662,
+    "discussion_url": "https://news.ycombinator.com/item?id=48059662",
+    "description": "ClojureScript Gets Async/Await",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804478"
+    "fetched_at": "2026-05-08T20:06:20.701776"
   },
   {
-    "title": "Cloudflare to cut about 20% workforce",
+    "title": "Cloudflare to cut about 20% of its workforce",
     "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
     "author": "PriorityLeft",
     "date": "2026-05-07",
-    "score": 867,
-    "comments": 580,
+    "score": 1222,
+    "comments": 863,
     "id": 48054423,
     "discussion_url": "https://news.ycombinator.com/item?id=48054423",
-    "description": "Cloudflare to cut about 20% workforce",
+    "description": "Cloudflare to cut about 20% of its workforce",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804356"
+    "fetched_at": "2026-05-08T20:06:20.701756"
+  },
+  {
+    "title": "David Attenborough's 100th Birthday",
+    "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+    "author": "defrost",
+    "date": "2026-05-08",
+    "score": 188,
+    "comments": 21,
+    "id": 48061884,
+    "discussion_url": "https://news.ycombinator.com/item?id=48061884",
+    "description": "David Attenborough's 100th Birthday",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-08T20:06:20.701680"
   },
   {
     "title": "DeepSeek 4 Flash local inference engine for Metal",
     "url": "https://github.com/antirez/ds4",
     "author": "tamnd",
     "date": "2026-05-07",
-    "score": 417,
-    "comments": 119,
+    "score": 470,
+    "comments": 139,
     "id": 48050751,
     "discussion_url": "https://news.ycombinator.com/item?id=48050751",
     "description": "DeepSeek 4 Flash local inference engine for Metal",
@@ -167,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804415"
+    "fetched_at": "2026-05-08T20:06:20.701845"
   },
   {
     "title": "Dirtyfrag: Universal Linux LPE",
     "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
     "author": "flipped",
     "date": "2026-05-07",
-    "score": 677,
-    "comments": 276,
+    "score": 768,
+    "comments": 308,
     "id": 48053623,
     "discussion_url": "https://news.ycombinator.com/item?id=48053623",
     "description": "Dirtyfrag: Universal Linux LPE",
@@ -184,32 +218,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804351"
+    "fetched_at": "2026-05-08T20:06:20.701773"
   },
   {
-    "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-    "url": "https://aniket.foo/posts/20260505-netboot/",
-    "author": "stereo-highway",
-    "date": "2026-05-07",
-    "score": 196,
-    "comments": 99,
-    "id": 48045012,
-    "discussion_url": "https://news.ycombinator.com/item?id=48045012",
-    "description": "Diskless Linux boot using ZFS, iSCSI and PXE",
+    "title": "GPT-5.5 Price Increase: What It Costs",
+    "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+    "author": "gmays",
+    "date": "2026-05-08",
+    "score": 185,
+    "comments": 56,
+    "id": 48057209,
+    "discussion_url": "https://news.ycombinator.com/item?id=48057209",
+    "description": "GPT-5.5 Price Increase: What It Costs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804537"
+    "fetched_at": "2026-05-08T20:06:20.701841"
+  },
+  {
+    "title": "GeoJSON",
+    "url": "https://geojson.org/",
+    "author": "tosh",
+    "date": "2026-05-08",
+    "score": 131,
+    "comments": 62,
+    "id": 48060918,
+    "discussion_url": "https://news.ycombinator.com/item?id=48060918",
+    "description": "GeoJSON",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-08T20:06:20.701764"
+  },
+  {
+    "title": "Google Cloud Fraud Defence is just WEI repackaged",
+    "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+    "author": "ribtoks",
+    "date": "2026-05-08",
+    "score": 514,
+    "comments": 251,
+    "id": 48063199,
+    "discussion_url": "https://news.ycombinator.com/item?id=48063199",
+    "description": "Google Cloud Fraud Defence is just WEI repackaged",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-08T20:06:20.701670"
   },
   {
     "title": "Hardening Firefox with Claude Mythos Preview",
     "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
     "author": "HieronymusBosch",
     "date": "2026-05-07",
-    "score": 229,
-    "comments": 104,
+    "score": 333,
+    "comments": 142,
     "id": 48051079,
     "discussion_url": "https://news.ycombinator.com/item?id=48051079",
     "description": "Hardening Firefox with Claude Mythos Preview",
@@ -218,15 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804442"
+    "fetched_at": "2026-05-08T20:06:20.701832"
   },
   {
     "title": "I want to live like Costco people",
     "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
     "author": "speckx",
     "date": "2026-05-07",
-    "score": 301,
-    "comments": 622,
+    "score": 325,
+    "comments": 694,
     "id": 48050499,
     "discussion_url": "https://news.ycombinator.com/item?id=48050499",
     "description": "I want to live like Costco people",
@@ -235,49 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804482"
-  },
-  {
-    "title": "Indian matchbox labels as a visual archive",
-    "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-    "author": "sahar_builds",
-    "date": "2026-05-04",
-    "score": 161,
-    "comments": 33,
-    "id": 48008999,
-    "discussion_url": "https://news.ycombinator.com/item?id=48008999",
-    "description": "Indian matchbox labels as a visual archive",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804564"
-  },
-  {
-    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-    "url": "https://unsloth.ai/blog/nvidia-collab",
-    "author": "segmenta",
-    "date": "2026-05-07",
-    "score": 118,
-    "comments": 23,
-    "id": 48046397,
-    "discussion_url": "https://news.ycombinator.com/item?id=48046397",
-    "description": "Making LLM Training Faster with Unsloth and NVIDIA",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804529"
+    "fetched_at": "2026-05-08T20:06:20.701898"
   },
   {
     "title": "Maybe you shouldn't install new software for a bit",
     "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
     "author": "psxuaw",
     "date": "2026-05-07",
-    "score": 588,
-    "comments": 322,
+    "score": 790,
+    "comments": 410,
     "id": 48056227,
     "discussion_url": "https://news.ycombinator.com/item?id=48056227",
     "description": "Maybe you shouldn't install new software for a bit",
@@ -286,15 +320,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804376"
+    "fetched_at": "2026-05-08T20:06:20.701738"
+  },
+  {
+    "title": "Mojo 1.0 Beta",
+    "url": "https://mojolang.org/",
+    "author": "sbt567",
+    "date": "2026-05-08",
+    "score": 196,
+    "comments": 136,
+    "id": 48057901,
+    "discussion_url": "https://news.ycombinator.com/item?id=48057901",
+    "description": "Mojo 1.0 Beta",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-08T20:06:20.701768"
   },
   {
     "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
     "url": "https://www.anthropic.com/research/natural-language-autoencoders",
     "author": "instagraham",
     "date": "2026-05-07",
-    "score": 303,
-    "comments": 99,
+    "score": 353,
+    "comments": 118,
     "id": 48052537,
     "discussion_url": "https://news.ycombinator.com/item?id=48052537",
     "description": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
@@ -303,32 +354,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804411"
+    "fetched_at": "2026-05-08T20:06:20.701857"
   },
   {
-    "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-    "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-    "author": "hhs",
-    "date": "2026-05-07",
-    "score": 168,
-    "comments": 60,
-    "id": 48056158,
-    "discussion_url": "https://news.ycombinator.com/item?id=48056158",
-    "description": "Nonprofit hospitals spend billions on consultants with no clear effect",
+    "title": "Nintendo announces price increases for Nintendo Switch 2",
+    "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+    "author": "razorbeamz",
+    "date": "2026-05-08",
+    "score": 220,
+    "comments": 212,
+    "id": 48059606,
+    "discussion_url": "https://news.ycombinator.com/item?id=48059606",
+    "description": "Nintendo announces price increases for Nintendo Switch 2",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804446"
+    "fetched_at": "2026-05-08T20:06:20.701902"
   },
   {
     "title": "Pinocchio is weirder than you remembered",
     "url": "https://storica.club/blog/pinocchio-in-italian/",
     "author": "cemsakarya",
     "date": "2026-05-06",
-    "score": 184,
-    "comments": 82,
+    "score": 282,
+    "comments": 117,
     "id": 48035420,
     "discussion_url": "https://news.ycombinator.com/item?id=48035420",
     "description": "Pinocchio is weirder than you remembered",
@@ -337,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804365"
+    "fetched_at": "2026-05-08T20:06:20.701803"
   },
   {
     "title": "Plasticity and language in the anaesthetized human hippocampus",
     "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
     "author": "hhs",
     "date": "2026-05-07",
-    "score": 122,
-    "comments": 43,
+    "score": 140,
+    "comments": 61,
     "id": 48056268,
     "discussion_url": "https://news.ycombinator.com/item?id=48056268",
     "description": "Plasticity and language in the anaesthetized human hippocampus",
@@ -354,100 +405,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804395"
+    "fetched_at": "2026-05-08T20:06:20.701885"
   },
   {
-    "title": "Programming Still Sucks",
-    "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-    "author": "jeromechoo",
-    "date": "2026-05-06",
-    "score": 653,
-    "comments": 314,
-    "id": 48040269,
-    "discussion_url": "https://news.ycombinator.com/item?id=48040269",
-    "description": "Programming Still Sucks",
+    "title": "Poland is now among the 20 largest economies",
+    "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+    "author": "surprisetalk",
+    "date": "2026-05-08",
+    "score": 781,
+    "comments": 668,
+    "id": 48062117,
+    "discussion_url": "https://news.ycombinator.com/item?id=48062117",
+    "description": "Poland is now among the 20 largest economies",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804567"
+    "fetched_at": "2026-05-08T20:06:20.701654"
   },
   {
-    "title": "RSS feeds send me more traffic than Google",
-    "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-    "author": "SpyCoder77",
-    "date": "2026-05-07",
-    "score": 274,
-    "comments": 73,
-    "id": 48043964,
-    "discussion_url": "https://news.ycombinator.com/item?id=48043964",
-    "description": "RSS feeds send me more traffic than Google",
+    "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+    "url": "https://btxx.org/posts/memory/",
+    "author": "xngbuilds",
+    "date": "2026-05-08",
+    "score": 148,
+    "comments": 59,
+    "id": 48064312,
+    "discussion_url": "https://news.ycombinator.com/item?id=48064312",
+    "description": "Serving a website on a Raspberry Pi Zero running in RAM",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804526"
-  },
-  {
-    "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-    "url": "https://ratex.lites.dev/",
-    "author": "atilimcetin",
-    "date": "2026-05-04",
-    "score": 176,
-    "comments": 92,
-    "id": 48010729,
-    "discussion_url": "https://news.ycombinator.com/item?id=48010729",
-    "description": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804513"
-  },
-  {
-    "title": "SQLite Is a Library of Congress Recommended Storage Format",
-    "url": "https://sqlite.org/locrsf.html",
-    "author": "whatisabcdefgh",
-    "date": "2026-05-06",
-    "score": 634,
-    "comments": 185,
-    "id": 48042434,
-    "discussion_url": "https://news.ycombinator.com/item?id=48042434",
-    "description": "SQLite Is a Library of Congress Recommended Storage Format",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804560"
-  },
-  {
-    "title": "Show HN: TRUST – Coding Rust like it's 1989",
-    "url": "https://github.com/wojtczyk/trust",
-    "author": "wojtczyk",
-    "date": "2026-05-07",
-    "score": 144,
-    "comments": 78,
-    "id": 48045939,
-    "discussion_url": "https://news.ycombinator.com/item?id=48045939",
-    "description": "Show HN: TRUST – Coding Rust like it's 1989",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804505"
+    "fetched_at": "2026-05-08T20:06:20.701701"
   },
   {
     "title": "Singapore introduces caning for boys who bully others at school",
     "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
     "author": "rustoo",
     "date": "2026-05-06",
-    "score": 219,
-    "comments": 313,
+    "score": 315,
+    "comments": 489,
     "id": 48032968,
     "discussion_url": "https://news.ycombinator.com/item?id=48032968",
     "description": "Singapore introduces caning for boys who bully others at school",
@@ -456,32 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804423"
-  },
-  {
-    "title": "The Self-Cancelling Subscription",
-    "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
-    "author": "surprisetalk",
-    "date": "2026-05-07",
-    "score": 174,
-    "comments": 73,
-    "id": 48049764,
-    "discussion_url": "https://news.ycombinator.com/item?id=48049764",
-    "description": "The Self-Cancelling Subscription",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804498"
+    "fetched_at": "2026-05-08T20:06:20.701824"
   },
   {
     "title": "The map that keeps Burning Man honest",
     "url": "https://www.not-ship.com/burning-man-moop/",
     "author": "speckx",
     "date": "2026-05-07",
-    "score": 670,
-    "comments": 322,
+    "score": 744,
+    "comments": 342,
     "id": 48049653,
     "discussion_url": "https://news.ycombinator.com/item?id=48049653",
     "description": "The map that keeps Burning Man honest",
@@ -490,23 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804360"
+    "fetched_at": "2026-05-08T20:06:20.701795"
   },
   {
-    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-    "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-    "author": "haunter",
-    "date": "2026-05-06",
-    "score": 1710,
-    "comments": 580,
-    "id": 48037555,
-    "discussion_url": "https://news.ycombinator.com/item?id=48037555",
-    "description": "Valve releases Steam Controller CAD files under Creative Commons license",
+    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "author": "jruohonen",
+    "date": "2026-05-07",
+    "score": 134,
+    "comments": 34,
+    "id": 48053842,
+    "discussion_url": "https://news.ycombinator.com/item?id=48053842",
+    "description": "Two Home Affairs officials suspended after AI 'hallucinations' found",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-08T12:08:28.804494"
+    "fetched_at": "2026-05-08T20:06:20.701891"
+  },
+  {
+    "title": "US Government releases first batch of UAP documents and videos",
+    "url": "https://www.war.gov/UFO/",
+    "author": "david-gpu",
+    "date": "2026-05-08",
+    "score": 163,
+    "comments": 257,
+    "id": 48061938,
+    "discussion_url": "https://news.ycombinator.com/item?id=48061938",
+    "description": "US Government releases first batch of UAP documents and videos",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-08T20:06:20.701752"
   }
 ]
