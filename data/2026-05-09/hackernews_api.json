@@ -4,8 +4,8 @@
     "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
     "author": "_alternator_",
     "date": "2026-05-09",
-    "score": 365,
-    "comments": 202,
+    "score": 538,
+    "comments": 396,
     "id": 48071262,
     "discussion_url": "https://news.ycombinator.com/item?id=48071262",
     "description": "A recent experience with ChatGPT 5.5 Pro",
@@ -14,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408313"
+    "fetched_at": "2026-05-09T19:57:40.944657"
   },
   {
     "title": "AI is breaking two vulnerability cultures",
     "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
     "author": "speckx",
     "date": "2026-05-08",
-    "score": 350,
-    "comments": 137,
+    "score": 403,
+    "comments": 160,
     "id": 48066524,
     "discussion_url": "https://news.ycombinator.com/item?id=48066524",
     "description": "AI is breaking two vulnerability cultures",
@@ -31,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408415"
+    "fetched_at": "2026-05-09T19:57:40.944726"
   },
   {
     "title": "AWS North Virginia data center outage – resolved",
     "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
     "author": "christhecaribou",
     "date": "2026-05-08",
-    "score": 228,
-    "comments": 155,
+    "score": 255,
+    "comments": 182,
     "id": 48058197,
     "discussion_url": "https://news.ycombinator.com/item?id=48058197",
     "description": "AWS North Virginia data center outage – resolved",
@@ -48,15 +48,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408424"
+    "fetched_at": "2026-05-09T19:57:40.944734"
+  },
+  {
+    "title": "America's carpet capital: an empire and its toxic legacy",
+    "url": "https://apnews.com/projects/pfas-forever-stained/",
+    "author": "rawgabbit",
+    "date": "2026-05-06",
+    "score": 137,
+    "comments": 83,
+    "id": 48037243,
+    "discussion_url": "https://news.ycombinator.com/item?id=48037243",
+    "description": "America's carpet capital: an empire and its toxic legacy",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-09T19:57:40.944687"
   },
   {
     "title": "An Introduction to Meshtastic",
     "url": "https://meshtastic.org/docs/introduction/",
     "author": "ColinWright",
     "date": "2026-05-08",
-    "score": 460,
-    "comments": 160,
+    "score": 491,
+    "comments": 180,
     "id": 48061566,
     "discussion_url": "https://news.ycombinator.com/item?id=48061566",
     "description": "An Introduction to Meshtastic",
@@ -65,32 +82,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408458"
+    "fetched_at": "2026-05-09T19:57:40.944731"
   },
   {
-    "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
-    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-    "author": "stefanpie",
-    "date": "2026-05-07",
-    "score": 905,
-    "comments": 614,
-    "id": 48055913,
-    "discussion_url": "https://news.ycombinator.com/item?id=48055913",
-    "description": "Canvas online again as ShinyHunters threatens to leak schools’ data",
+    "title": "Apple Is Holding My Pictures Hostage Until I Accept Their New Terms of Service",
+    "url": "https://probablydance.com/2026/05/01/apple-is-holding-my-pictures-hostage-until-i-accept-their-new-terms-of-service/",
+    "author": "ibobev",
+    "date": "2026-05-08",
+    "score": 90,
+    "comments": 49,
+    "id": 48067496,
+    "discussion_url": "https://news.ycombinator.com/item?id=48067496",
+    "description": "Apple Is Holding My Pictures Hostage Until I Accept Their New Terms of Service",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408557"
+    "fetched_at": "2026-05-09T19:57:40.944809"
+  },
+  {
+    "title": "Bitter Lessons from the ISSpresso",
+    "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
+    "author": "zdw",
+    "date": "2026-05-06",
+    "score": 121,
+    "comments": 39,
+    "id": 48040306,
+    "discussion_url": "https://news.ycombinator.com/item?id=48040306",
+    "description": "Bitter Lessons from the ISSpresso",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-09T19:57:40.944816"
+  },
+  {
+    "title": "Can LLMs model real-world systems in TLA+?",
+    "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+    "author": "mad",
+    "date": "2026-05-08",
+    "score": 115,
+    "comments": 29,
+    "id": 48065254,
+    "discussion_url": "https://news.ycombinator.com/item?id=48065254",
+    "description": "Can LLMs model real-world systems in TLA+?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-09T19:57:40.944772"
   },
   {
     "title": "Cartoon Network Flash Games",
     "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
     "author": "willmeyers",
     "date": "2026-05-08",
-    "score": 349,
-    "comments": 108,
+    "score": 399,
+    "comments": 122,
     "id": 48065360,
     "discussion_url": "https://news.ycombinator.com/item?id=48065360",
     "description": "Cartoon Network Flash Games",
@@ -99,32 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408326"
-  },
-  {
-    "title": "ClojureScript Gets Async/Await",
-    "url": "https://clojurescript.org/news/2026-05-07-release",
-    "author": "Borkdude",
-    "date": "2026-05-08",
-    "score": 269,
-    "comments": 72,
-    "id": 48059662,
-    "discussion_url": "https://news.ycombinator.com/item?id=48059662",
-    "description": "ClojureScript Gets Async/Await",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408553"
+    "fetched_at": "2026-05-09T19:57:40.944737"
   },
   {
     "title": "Cloudflare to cut about 20% of its workforce",
     "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
     "author": "PriorityLeft",
     "date": "2026-05-07",
-    "score": 1304,
-    "comments": 938,
+    "score": 1316,
+    "comments": 964,
     "id": 48054423,
     "discussion_url": "https://news.ycombinator.com/item?id=48054423",
     "description": "Cloudflare to cut about 20% of its workforce",
@@ -133,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408542"
+    "fetched_at": "2026-05-09T19:57:40.944823"
   },
   {
     "title": "David Attenborough's 100th Birthday",
     "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
     "author": "defrost",
     "date": "2026-05-08",
-    "score": 677,
-    "comments": 136,
+    "score": 810,
+    "comments": 155,
     "id": 48061884,
     "discussion_url": "https://news.ycombinator.com/item?id=48061884",
     "description": "David Attenborough's 100th Birthday",
@@ -150,49 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408350"
-  },
-  {
-    "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
-    "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-    "author": "muse900",
-    "date": "2026-05-09",
-    "score": 260,
-    "comments": 189,
-    "id": 48072190,
-    "discussion_url": "https://news.ycombinator.com/item?id=48072190",
-    "description": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408497"
-  },
-  {
-    "title": "GeoJSON",
-    "url": "https://geojson.org/",
-    "author": "tosh",
-    "date": "2026-05-08",
-    "score": 157,
-    "comments": 74,
-    "id": 48060918,
-    "discussion_url": "https://news.ycombinator.com/item?id=48060918",
-    "description": "GeoJSON",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408530"
+    "fetched_at": "2026-05-09T19:57:40.944641"
   },
   {
     "title": "Google broke reCAPTCHA for de-googled Android users",
     "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
     "author": "anonymousiam",
     "date": "2026-05-08",
-    "score": 1110,
-    "comments": 384,
+    "score": 1380,
+    "comments": 500,
     "id": 48067119,
     "discussion_url": "https://news.ycombinator.com/item?id=48067119",
     "description": "Google broke reCAPTCHA for de-googled Android users",
@@ -201,83 +201,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408332"
+    "fetched_at": "2026-05-09T19:57:40.944661"
   },
   {
-    "title": "Hardening Firefox with Claude Mythos Preview",
-    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-    "author": "HieronymusBosch",
+    "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+    "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
+    "author": "Georgelemental",
+    "date": "2026-05-09",
+    "score": 167,
+    "comments": 51,
+    "id": 48075144,
+    "discussion_url": "https://news.ycombinator.com/item?id=48075144",
+    "description": "GrapheneOS fixes Android VPN leak Google refused to patch",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-09T19:57:40.944597"
+  },
+  {
+    "title": "How LEDs are made (2014)",
+    "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
+    "author": "smig0",
     "date": "2026-05-07",
-    "score": 354,
-    "comments": 159,
-    "id": 48051079,
-    "discussion_url": "https://news.ycombinator.com/item?id=48051079",
-    "description": "Hardening Firefox with Claude Mythos Preview",
+    "score": 105,
+    "comments": 14,
+    "id": 48048679,
+    "discussion_url": "https://news.ycombinator.com/item?id=48048679",
+    "description": "How LEDs are made (2014)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408561"
+    "fetched_at": "2026-05-09T19:57:40.944665"
   },
   {
-    "title": "Maybe you shouldn't install new software for a bit",
-    "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-    "author": "psxuaw",
-    "date": "2026-05-07",
-    "score": 827,
-    "comments": 445,
-    "id": 48056227,
-    "discussion_url": "https://news.ycombinator.com/item?id=48056227",
-    "description": "Maybe you shouldn't install new software for a bit",
+    "title": "Internet Archive Switzerland",
+    "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+    "author": "hggh",
+    "date": "2026-05-09",
+    "score": 414,
+    "comments": 63,
+    "id": 48074265,
+    "discussion_url": "https://news.ycombinator.com/item?id=48074265",
+    "description": "Internet Archive Switzerland",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408593"
+    "fetched_at": "2026-05-09T19:57:40.944631"
   },
   {
-    "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-    "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-    "author": "tcp_handshaker",
-    "date": "2026-05-08",
-    "score": 276,
-    "comments": 182,
-    "id": 48069192,
-    "discussion_url": "https://news.ycombinator.com/item?id=48069192",
-    "description": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+    "title": "LLMs corrupt your documents when you delegate",
+    "url": "https://arxiv.org/abs/2604.15597",
+    "author": "rbanffy",
+    "date": "2026-05-09",
+    "score": 272,
+    "comments": 103,
+    "id": 48073246,
+    "discussion_url": "https://news.ycombinator.com/item?id=48073246",
+    "description": "LLMs corrupt your documents when you delegate",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408493"
+    "fetched_at": "2026-05-09T19:57:40.944672"
   },
   {
-    "title": "Mojo 1.0 Beta",
-    "url": "https://mojolang.org/",
-    "author": "sbt567",
-    "date": "2026-05-08",
-    "score": 355,
-    "comments": 222,
-    "id": 48057901,
-    "discussion_url": "https://news.ycombinator.com/item?id=48057901",
-    "description": "Mojo 1.0 Beta",
+    "title": "Light without electricity? Glowing algae could make it possible",
+    "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+    "author": "geox",
+    "date": "2026-05-06",
+    "score": 97,
+    "comments": 34,
+    "id": 48040470,
+    "discussion_url": "https://news.ycombinator.com/item?id=48040470",
+    "description": "Light without electricity? Glowing algae could make it possible",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408568"
+    "fetched_at": "2026-05-09T19:57:40.944775"
   },
   {
     "title": "Mythical Man Month",
     "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
     "author": "ingve",
     "date": "2026-05-07",
-    "score": 186,
-    "comments": 128,
+    "score": 308,
+    "comments": 178,
     "id": 48046436,
     "discussion_url": "https://news.ycombinator.com/item?id=48046436",
     "description": "Mythical Man Month",
@@ -286,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408341"
+    "fetched_at": "2026-05-09T19:57:40.944650"
   },
   {
     "title": "OpenAI’s WebRTC problem",
     "url": "https://moq.dev/blog/webrtc-is-the-problem/",
     "author": "atgctg",
     "date": "2026-05-07",
-    "score": 342,
-    "comments": 86,
+    "score": 440,
+    "comments": 137,
     "id": 48051951,
     "discussion_url": "https://news.ycombinator.com/item?id=48051951",
     "description": "OpenAI’s WebRTC problem",
@@ -303,66 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408346"
-  },
-  {
-    "title": "PC Engine CPU",
-    "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-    "author": "ibobev",
-    "date": "2026-05-08",
-    "score": 140,
-    "comments": 59,
-    "id": 48063521,
-    "discussion_url": "https://news.ycombinator.com/item?id=48063521",
-    "description": "PC Engine CPU",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408509"
-  },
-  {
-    "title": "Podman rootless containers and the Copy Fail exploit",
-    "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-    "author": "ggpsv",
-    "date": "2026-05-08",
-    "score": 128,
-    "comments": 24,
-    "id": 48062745,
-    "discussion_url": "https://news.ycombinator.com/item?id=48062745",
-    "description": "Podman rootless containers and the Copy Fail exploit",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408550"
-  },
-  {
-    "title": "Poland is now among the 20 largest economies",
-    "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-    "author": "surprisetalk",
-    "date": "2026-05-08",
-    "score": 982,
-    "comments": 781,
-    "id": 48062117,
-    "discussion_url": "https://news.ycombinator.com/item?id=48062117",
-    "description": "Poland is now among the 20 largest economies",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408505"
+    "fetched_at": "2026-05-09T19:57:40.944654"
   },
   {
     "title": "Serving a website on a Raspberry Pi Zero running in RAM",
     "url": "https://btxx.org/posts/memory/",
     "author": "xngbuilds",
     "date": "2026-05-08",
-    "score": 227,
-    "comments": 91,
+    "score": 242,
+    "comments": 96,
     "id": 48064312,
     "discussion_url": "https://news.ycombinator.com/item?id=48064312",
     "description": "Serving a website on a Raspberry Pi Zero running in RAM",
@@ -371,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408466"
+    "fetched_at": "2026-05-09T19:57:40.944761"
   },
   {
     "title": "Singapore introduces caning for boys who bully others at school",
     "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
     "author": "rustoo",
     "date": "2026-05-06",
-    "score": 350,
-    "comments": 548,
+    "score": 363,
+    "comments": 581,
     "id": 48032968,
     "discussion_url": "https://news.ycombinator.com/item?id=48032968",
     "description": "Singapore introduces caning for boys who bully others at school",
@@ -388,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408518"
+    "fetched_at": "2026-05-09T19:57:40.944791"
   },
   {
     "title": "Teaching Claude Why",
     "url": "https://www.anthropic.com/research/teaching-claude-why",
     "author": "pretext",
     "date": "2026-05-08",
-    "score": 176,
-    "comments": 86,
+    "score": 235,
+    "comments": 126,
     "id": 48066592,
     "discussion_url": "https://news.ycombinator.com/item?id=48066592",
     "description": "Teaching Claude Why",
@@ -405,32 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408478"
-  },
-  {
-    "title": "The Disappearance of the Public Bench",
-    "url": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
-    "author": "cainxinth",
-    "date": "2026-05-06",
-    "score": 141,
-    "comments": 179,
-    "id": 48042817,
-    "discussion_url": "https://news.ycombinator.com/item?id=48042817",
-    "description": "The Disappearance of the Public Bench",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408546"
+    "fetched_at": "2026-05-09T19:57:40.944740"
   },
   {
     "title": "The React2Shell Story",
     "url": "https://lachlan.nz/blog/the-react2shell-story/",
     "author": "mufeedvh",
     "date": "2026-05-08",
-    "score": 157,
-    "comments": 11,
+    "score": 205,
+    "comments": 45,
     "id": 48065511,
     "discussion_url": "https://news.ycombinator.com/item?id=48065511",
     "description": "The React2Shell Story",
@@ -439,15 +388,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408436"
+    "fetched_at": "2026-05-09T19:57:40.944752"
+  },
+  {
+    "title": "The hypocrisy of cyberlibertarianism",
+    "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+    "author": "ColinWright",
+    "date": "2026-05-09",
+    "score": 183,
+    "comments": 133,
+    "id": 48074952,
+    "discussion_url": "https://news.ycombinator.com/item?id=48074952",
+    "description": "The hypocrisy of cyberlibertarianism",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-09T19:57:40.944694"
+  },
+  {
+    "title": "The soul of maintaining a new machine",
+    "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
+    "author": "akkartik",
+    "date": "2026-05-06",
+    "score": 81,
+    "comments": 8,
+    "id": 48032014,
+    "discussion_url": "https://news.ycombinator.com/item?id=48032014",
+    "description": "The soul of maintaining a new machine",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-09T19:57:40.944799"
   },
   {
     "title": "US Government releases first batch of UAP documents and videos",
     "url": "https://www.war.gov/UFO/",
     "author": "david-gpu",
     "date": "2026-05-08",
-    "score": 306,
-    "comments": 442,
+    "score": 323,
+    "comments": 492,
     "id": 48061938,
     "discussion_url": "https://news.ycombinator.com/item?id=48061938",
     "description": "US Government releases first batch of UAP documents and videos",
@@ -456,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408453"
+    "fetched_at": "2026-05-09T19:57:40.944768"
   },
   {
     "title": "Using Claude Code: The unreasonable effectiveness of HTML",
     "url": "https://twitter.com/trq212/status/2052809885763747935",
     "author": "pretext",
     "date": "2026-05-09",
-    "score": 187,
-    "comments": 100,
+    "score": 370,
+    "comments": 224,
     "id": 48071940,
     "discussion_url": "https://news.ycombinator.com/item?id=48071940",
     "description": "Using Claude Code: The unreasonable effectiveness of HTML",
@@ -473,15 +456,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408336"
+    "fetched_at": "2026-05-09T19:57:40.944608"
+  },
+  {
+    "title": "What causes lightning? The answer keeps getting more interesting",
+    "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
+    "author": "Tomte",
+    "date": "2026-05-06",
+    "score": 167,
+    "comments": 41,
+    "id": 48037517,
+    "discussion_url": "https://news.ycombinator.com/item?id=48037517",
+    "description": "What causes lightning? The answer keeps getting more interesting",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-09T19:57:40.944705"
   },
   {
     "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
     "url": "https://www.wiisfi.com/",
     "author": "homebrewer",
     "date": "2026-05-06",
-    "score": 261,
-    "comments": 63,
+    "score": 347,
+    "comments": 91,
     "id": 48037760,
     "discussion_url": "https://news.ycombinator.com/item?id=48037760",
     "description": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
@@ -490,15 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408428"
+    "fetched_at": "2026-05-09T19:57:40.944723"
   },
   {
     "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
     "url": "https://ze3tar.github.io/post-zcrx.html",
     "author": "MrBruh",
     "date": "2026-05-08",
-    "score": 190,
-    "comments": 111,
+    "score": 205,
+    "comments": 133,
     "id": 48067734,
     "discussion_url": "https://news.ycombinator.com/item?id=48067734",
     "description": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-09T11:49:41.408462"
+    "fetched_at": "2026-05-09T19:57:40.944748"
   }
 ]
