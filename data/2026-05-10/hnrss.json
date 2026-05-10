@@ -1,302 +1,242 @@
 [
   {
-    "title": "A recent experience with ChatGPT 5.5 Pro",
-    "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-    "description": "A recent experience with ChatGPT 5.5 Pro",
-    "date": "2026-05-09",
-    "score": 642,
-    "comments": 470,
-    "discussion_url": "https://news.ycombinator.com/item?id=48071262",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870877"
-  },
-  {
-    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-    "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-    "description": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-    "date": "2026-05-09",
-    "score": 593,
-    "comments": 568,
-    "discussion_url": "https://news.ycombinator.com/item?id=48073680",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870847"
-  },
-  {
     "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
     "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
     "description": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
     "date": "2026-05-07",
-    "score": 163,
-    "comments": 66,
+    "score": 278,
+    "comments": 133,
     "discussion_url": "https://news.ycombinator.com/item?id=48048407",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870908"
-  },
-  {
-    "title": "Debian must ship reproducible packages",
-    "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
-    "description": "Debian must ship reproducible packages",
-    "date": "2026-05-10",
-    "score": 191,
-    "comments": 67,
-    "discussion_url": "https://news.ycombinator.com/item?id=48081245",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870686"
-  },
-  {
-    "title": "Distributing Mac software is increasing my cortisol levels",
-    "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-    "description": "Distributing Mac software is increasing my cortisol levels",
-    "date": "2026-05-09",
-    "score": 313,
-    "comments": 211,
-    "discussion_url": "https://news.ycombinator.com/item?id=48075366",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870812"
+    "fetched_at": "2026-05-10T19:58:57.058362"
   },
   {
     "title": "Gemini API File Search is now multimodal",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
     "description": "Gemini API File Search is now multimodal",
     "date": "2026-05-10",
-    "score": 108,
-    "comments": 17,
+    "score": 141,
+    "comments": 38,
     "discussion_url": "https://news.ycombinator.com/item?id=48080702",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870712"
+    "fetched_at": "2026-05-10T19:58:57.058301"
   },
   {
-    "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
-    "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
-    "description": "I'm writing a history of Visual Basic, Chapter 1 is up",
-    "date": "2026-05-06",
-    "score": 118,
-    "comments": 42,
-    "discussion_url": "https://news.ycombinator.com/item?id=48039249",
+    "title": "GitHub is sinking",
+    "url": "https://dbushell.com/2026/04/29/github-is-sinking/",
+    "description": "GitHub is sinking",
+    "date": "2026-05-10",
+    "score": 144,
+    "comments": 85,
+    "discussion_url": "https://news.ycombinator.com/item?id=48085095",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870918"
+    "fetched_at": "2026-05-10T19:58:57.058222"
   },
   {
-    "title": "Internet Archive Switzerland",
-    "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-    "description": "Internet Archive Switzerland",
+    "title": "Hardware Attestation as Monopoly Enabler",
+    "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "description": "Hardware Attestation as Monopoly Enabler",
+    "date": "2026-05-10",
+    "score": 347,
+    "comments": 110,
+    "discussion_url": "https://news.ycombinator.com/item?id=48086190",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-10T19:58:57.058183"
+  },
+  {
+    "title": "I returned to AWS and was reminded why I left",
+    "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+    "description": "I returned to AWS and was reminded why I left",
     "date": "2026-05-09",
-    "score": 626,
-    "comments": 103,
-    "discussion_url": "https://news.ycombinator.com/item?id=48074265",
+    "score": 523,
+    "comments": 403,
+    "discussion_url": "https://news.ycombinator.com/item?id=48073201",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870835"
+    "fetched_at": "2026-05-10T19:58:57.058340"
+  },
+  {
+    "title": "Idempotency is easy until the second request is different",
+    "url": "https://blog.dochia.dev/blog/idempotency/",
+    "description": "Idempotency is easy until the second request is different",
+    "date": "2026-05-07",
+    "score": 237,
+    "comments": 153,
+    "discussion_url": "https://news.ycombinator.com/item?id=48047930",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-10T19:58:57.058371"
+  },
+  {
+    "title": "Incident Report: CVE-2024-YIKES",
+    "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+    "description": "Incident Report: CVE-2024-YIKES",
+    "date": "2026-05-10",
+    "score": 159,
+    "comments": 35,
+    "discussion_url": "https://news.ycombinator.com/item?id=48086082",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-10T19:58:57.058208"
   },
   {
     "title": "I’ve banned query strings",
     "url": "https://chrismorgan.info/no-query-strings",
     "description": "I’ve banned query strings",
     "date": "2026-05-09",
-    "score": 435,
-    "comments": 234,
+    "score": 524,
+    "comments": 272,
     "discussion_url": "https://news.ycombinator.com/item?id=48076173",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870799"
+    "fetched_at": "2026-05-10T19:58:57.058328"
   },
   {
-    "title": "LLMs corrupt your documents when you delegate",
-    "url": "https://arxiv.org/abs/2604.15597",
-    "description": "LLMs corrupt your documents when you delegate",
-    "date": "2026-05-09",
-    "score": 422,
-    "comments": 168,
-    "discussion_url": "https://news.ycombinator.com/item?id=48073246",
+    "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+    "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+    "description": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+    "date": "2026-05-10",
+    "score": 313,
+    "comments": 187,
+    "discussion_url": "https://news.ycombinator.com/item?id=48084432",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870857"
-  },
-  {
-    "title": "Local privilege escalation via execve()",
-    "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-    "description": "Local privilege escalation via execve()",
-    "date": "2026-05-09",
-    "score": 163,
-    "comments": 80,
-    "discussion_url": "https://news.ycombinator.com/item?id=48077971",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870754"
-  },
-  {
-    "title": "Making your own programming language is easier than you think (but also harder)",
-    "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
-    "description": "Making your own programming language is easier than you think (but also harder)",
-    "date": "2026-05-07",
-    "score": 107,
-    "comments": 57,
-    "discussion_url": "https://news.ycombinator.com/item?id=48048902",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870888"
+    "fetched_at": "2026-05-10T19:58:57.058234"
   },
   {
     "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
     "url": "https://github.com/imtomt/ymawky",
     "description": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
     "date": "2026-05-10",
-    "score": 301,
-    "comments": 144,
+    "score": 365,
+    "comments": 195,
     "discussion_url": "https://news.ycombinator.com/item?id=48080587",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870728"
+    "fetched_at": "2026-05-10T19:58:57.058315"
   },
   {
-    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-    "url": "https://github.com/nooga/let-go",
-    "description": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-    "date": "2026-05-09",
-    "score": 184,
-    "comments": 52,
-    "discussion_url": "https://news.ycombinator.com/item?id=48076815",
+    "title": "Space Cadet Pinball on Linux",
+    "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+    "description": "Space Cadet Pinball on Linux",
+    "date": "2026-05-10",
+    "score": 271,
+    "comments": 92,
+    "discussion_url": "https://news.ycombinator.com/item?id=48082968",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870767"
+    "fetched_at": "2026-05-10T19:58:57.058257"
   },
   {
-    "title": "Show HN: Rust but Lisp",
-    "url": "https://github.com/ThatXliner/rust-but-lisp",
-    "description": "Show HN: Rust but Lisp",
-    "date": "2026-05-09",
-    "score": 140,
-    "comments": 68,
-    "discussion_url": "https://news.ycombinator.com/item?id=48078575",
+    "title": "Task Paralysis and AI",
+    "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+    "description": "Task Paralysis and AI",
+    "date": "2026-05-10",
+    "score": 139,
+    "comments": 85,
+    "discussion_url": "https://news.ycombinator.com/item?id=48081469",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870741"
+    "fetched_at": "2026-05-10T19:58:57.058288"
   },
   {
     "title": "The One Dollar Counterfeiter",
     "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
     "description": "The One Dollar Counterfeiter",
     "date": "2026-05-07",
-    "score": 166,
-    "comments": 47,
+    "score": 293,
+    "comments": 121,
     "discussion_url": "https://news.ycombinator.com/item?id=48048684",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870898"
+    "fetched_at": "2026-05-10T19:58:57.058350"
   },
   {
-    "title": "The hypocrisy of cyberlibertarianism",
-    "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-    "description": "The hypocrisy of cyberlibertarianism",
-    "date": "2026-05-09",
-    "score": 347,
-    "comments": 308,
-    "discussion_url": "https://news.ycombinator.com/item?id=48074952",
+    "title": "Think Linear Algebra (2023)",
+    "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
+    "description": "Think Linear Algebra (2023)",
+    "date": "2026-05-10",
+    "score": 123,
+    "comments": 12,
+    "discussion_url": "https://news.ycombinator.com/item?id=48082396",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870824"
-  },
-  {
-    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-    "url": "https://twitter.com/trq212/status/2052809885763747935",
-    "description": "Using Claude Code: The unreasonable effectiveness of HTML",
-    "date": "2026-05-09",
-    "score": 473,
-    "comments": 261,
-    "discussion_url": "https://news.ycombinator.com/item?id=48071940",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870867"
+    "fetched_at": "2026-05-10T19:58:57.058268"
   },
   {
     "title": "We see something that works, and then we understand it",
     "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
     "description": "We see something that works, and then we understand it",
     "date": "2026-05-06",
-    "score": 118,
-    "comments": 38,
+    "score": 179,
+    "comments": 69,
     "discussion_url": "https://news.ycombinator.com/item?id=48037223",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870928"
+    "fetched_at": "2026-05-10T19:58:57.058381"
   },
   {
-    "title": "Zed Editor Theme-Builder",
-    "url": "https://zed.dev/theme-builder",
-    "description": "Zed Editor Theme-Builder",
-    "date": "2026-05-09",
-    "score": 232,
-    "comments": 70,
-    "discussion_url": "https://news.ycombinator.com/item?id=48076651",
+    "title": "What's a mathematician to do? (2010)",
+    "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
+    "description": "What's a mathematician to do? (2010)",
+    "date": "2026-05-10",
+    "score": 118,
+    "comments": 62,
+    "discussion_url": "https://news.ycombinator.com/item?id=48083007",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-10T11:50:33.870779"
+    "fetched_at": "2026-05-10T19:58:57.058245"
   }
 ]
