@@ -4,8 +4,8 @@
     "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
     "author": "_alternator_",
     "date": "2026-05-09",
-    "score": 697,
-    "comments": 522,
+    "score": 703,
+    "comments": 524,
     "id": 48071262,
     "discussion_url": "https://news.ycombinator.com/item?id=48071262",
     "description": "A recent experience with ChatGPT 5.5 Pro",
@@ -14,15 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570964"
+    "fetched_at": "2026-05-11T19:47:23.075655"
+  },
+  {
+    "title": "A.I. note takers are making lawyers nervous",
+    "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+    "author": "JumpCrisscross",
+    "date": "2026-05-11",
+    "score": 193,
+    "comments": 144,
+    "id": 48093043,
+    "discussion_url": "https://news.ycombinator.com/item?id=48093043",
+    "description": "A.I. note takers are making lawyers nervous",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-11T19:47:23.075578"
   },
   {
     "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
     "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
     "author": "cratermoon",
     "date": "2026-05-10",
-    "score": 238,
-    "comments": 60,
+    "score": 327,
+    "comments": 95,
     "id": 48089289,
     "discussion_url": "https://news.ycombinator.com/item?id=48089289",
     "description": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
@@ -31,32 +48,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570845"
+    "fetched_at": "2026-05-11T19:47:23.075505"
   },
   {
-    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-    "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-    "author": "heldrida",
-    "date": "2026-05-09",
-    "score": 700,
-    "comments": 678,
-    "id": 48073680,
-    "discussion_url": "https://news.ycombinator.com/item?id=48073680",
-    "description": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+    "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+    "author": "adamnemecek",
+    "date": "2026-05-11",
+    "score": 268,
+    "comments": 79,
+    "id": 48096692,
+    "discussion_url": "https://news.ycombinator.com/item?id=48096692",
+    "description": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.571001"
+    "fetched_at": "2026-05-11T19:47:23.075448"
+  },
+  {
+    "title": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
+    "url": "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/",
+    "author": "bryan0",
+    "date": "2026-05-08",
+    "score": 403,
+    "comments": 311,
+    "id": 48067184,
+    "discussion_url": "https://news.ycombinator.com/item?id=48067184",
+    "description": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-11T19:47:23.075651"
   },
   {
     "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
     "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
     "author": "robin_reala",
     "date": "2026-05-07",
-    "score": 124,
-    "comments": 65,
+    "score": 150,
+    "comments": 89,
     "id": 48050666,
     "discussion_url": "https://news.ycombinator.com/item?id=48050666",
     "description": "First tunnel element of the Fehmarnbelt Tunnel immersed",
@@ -65,49 +99,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570906"
+    "fetched_at": "2026-05-11T19:47:23.075574"
   },
   {
-    "title": "Gemini API File Search is now multimodal",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-    "author": "gmays",
-    "date": "2026-05-10",
-    "score": 151,
-    "comments": 43,
-    "id": 48080702,
-    "discussion_url": "https://news.ycombinator.com/item?id=48080702",
-    "description": "Gemini API File Search is now multimodal",
+    "title": "Gmail registration now requires scanning a QR code and sending a text message",
+    "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+    "author": "negura",
+    "date": "2026-05-11",
+    "score": 418,
+    "comments": 276,
+    "id": 48092028,
+    "discussion_url": "https://news.ycombinator.com/item?id=48092028",
+    "description": "Gmail registration now requires scanning a QR code and sending a text message",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.571015"
+    "fetched_at": "2026-05-11T19:47:23.075476"
   },
   {
-    "title": "Google broke reCAPTCHA for de-googled Android users",
-    "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-    "author": "anonymousiam",
+    "title": "Guitar tuner that uses phone accelerometer",
+    "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
+    "author": "adm4",
     "date": "2026-05-08",
-    "score": 1534,
-    "comments": 574,
-    "id": 48067119,
-    "discussion_url": "https://news.ycombinator.com/item?id=48067119",
-    "description": "Google broke reCAPTCHA for de-googled Android users",
+    "score": 135,
+    "comments": 76,
+    "id": 48058260,
+    "discussion_url": "https://news.ycombinator.com/item?id=48058260",
+    "description": "Guitar tuner that uses phone accelerometer",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.571012"
+    "fetched_at": "2026-05-11T19:47:23.075559"
   },
   {
     "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
     "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
     "author": "nxobject",
     "date": "2026-05-08",
-    "score": 146,
-    "comments": 33,
+    "score": 166,
+    "comments": 48,
     "id": 48067698,
     "discussion_url": "https://news.ycombinator.com/item?id=48067698",
     "description": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
@@ -116,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570857"
+    "fetched_at": "2026-05-11T19:47:23.075588"
   },
   {
     "title": "Hardware Attestation as Monopoly Enabler",
     "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
     "author": "ChuckMcM",
     "date": "2026-05-10",
-    "score": 1807,
-    "comments": 595,
+    "score": 2022,
+    "comments": 680,
     "id": 48086190,
     "discussion_url": "https://news.ycombinator.com/item?id=48086190",
     "description": "Hardware Attestation as Monopoly Enabler",
@@ -133,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570813"
+    "fetched_at": "2026-05-11T19:47:23.075510"
   },
   {
     "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
     "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
     "author": "adunk",
     "date": "2026-05-10",
-    "score": 115,
-    "comments": 39,
+    "score": 150,
+    "comments": 55,
     "id": 48089049,
     "discussion_url": "https://news.ycombinator.com/item?id=48089049",
     "description": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
@@ -150,32 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570902"
-  },
-  {
-    "title": "I returned to AWS and was reminded why I left",
-    "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-    "author": "andrewstuart",
-    "date": "2026-05-09",
-    "score": 802,
-    "comments": 571,
-    "id": 48073201,
-    "discussion_url": "https://news.ycombinator.com/item?id=48073201",
-    "description": "I returned to AWS and was reminded why I left",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570909"
+    "fetched_at": "2026-05-11T19:47:23.075592"
   },
   {
     "title": "I'm going back to writing code by hand",
     "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
     "author": "dropbox_miner",
     "date": "2026-05-11",
-    "score": 582,
-    "comments": 288,
+    "score": 852,
+    "comments": 528,
     "id": 48090029,
     "discussion_url": "https://news.ycombinator.com/item?id=48090029",
     "description": "I'm going back to writing code by hand",
@@ -184,32 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570804"
-  },
-  {
-    "title": "Idempotency is easy until the second request is different",
-    "url": "https://blog.dochia.dev/blog/idempotency/",
-    "author": "ludovicianul",
-    "date": "2026-05-07",
-    "score": 317,
-    "comments": 187,
-    "id": 48047930,
-    "discussion_url": "https://news.ycombinator.com/item?id=48047930",
-    "description": "Idempotency is easy until the second request is different",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570940"
+    "fetched_at": "2026-05-11T19:47:23.075527"
   },
   {
     "title": "Incident Report: CVE-2024-YIKES",
     "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
     "author": "miniBill",
     "date": "2026-05-10",
-    "score": 603,
-    "comments": 149,
+    "score": 671,
+    "comments": 161,
     "id": 48086082,
     "discussion_url": "https://news.ycombinator.com/item?id=48086082",
     "description": "Incident Report: CVE-2024-YIKES",
@@ -218,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570860"
+    "fetched_at": "2026-05-11T19:47:23.075615"
   },
   {
     "title": "Local AI needs to be the norm",
     "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
     "author": "cylo",
     "date": "2026-05-10",
-    "score": 1409,
-    "comments": 554,
+    "score": 1697,
+    "comments": 664,
     "id": 48085821,
     "discussion_url": "https://news.ycombinator.com/item?id=48085821",
     "description": "Local AI needs to be the norm",
@@ -235,32 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570817"
-  },
-  {
-    "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-    "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-    "author": "iancmceachern",
-    "date": "2026-05-10",
-    "score": 561,
-    "comments": 300,
-    "id": 48084432,
-    "discussion_url": "https://news.ycombinator.com/item?id=48084432",
-    "description": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570982"
+    "fetched_at": "2026-05-11T19:47:23.075544"
   },
   {
     "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
     "author": "lemonberry",
     "date": "2026-05-10",
-    "score": 278,
-    "comments": 164,
+    "score": 303,
+    "comments": 184,
     "id": 48088151,
     "discussion_url": "https://news.ycombinator.com/item?id=48088151",
     "description": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
@@ -269,15 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570958"
+    "fetched_at": "2026-05-11T19:47:23.075682"
   },
   {
     "title": "Mythos Finds a Curl Vulnerability",
     "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
     "author": "TangerineDream",
     "date": "2026-05-11",
-    "score": 327,
-    "comments": 127,
+    "score": 547,
+    "comments": 227,
     "id": 48091737,
     "discussion_url": "https://news.ycombinator.com/item?id=48091737",
     "description": "Mythos Finds a Curl Vulnerability",
@@ -286,15 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570822"
+    "fetched_at": "2026-05-11T19:47:23.075571"
+  },
+  {
+    "title": "Nullsoft, 1997-2004 (2004)",
+    "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+    "author": "downbad_",
+    "date": "2026-05-08",
+    "score": 137,
+    "comments": 42,
+    "id": 48060077,
+    "discussion_url": "https://news.ycombinator.com/item?id=48060077",
+    "description": "Nullsoft, 1997-2004 (2004)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-11T19:47:23.075461"
   },
   {
     "title": "Obsidian plugin was abused to deploy a remote access trojan",
     "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
     "author": "cmbailey",
     "date": "2026-05-10",
-    "score": 274,
-    "comments": 153,
+    "score": 340,
+    "comments": 199,
     "id": 48088576,
     "discussion_url": "https://news.ycombinator.com/item?id=48088576",
     "description": "Obsidian plugin was abused to deploy a remote access trojan",
@@ -303,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570841"
+    "fetched_at": "2026-05-11T19:47:23.075548"
   },
   {
     "title": "Ratty – A terminal emulator with inline 3D graphics",
     "url": "https://ratty-term.org/",
     "author": "orhunp_",
     "date": "2026-05-11",
-    "score": 242,
-    "comments": 73,
+    "score": 523,
+    "comments": 174,
     "id": 48093100,
     "discussion_url": "https://news.ycombinator.com/item?id=48093100",
     "description": "Ratty – A terminal emulator with inline 3D graphics",
@@ -320,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570786"
+    "fetched_at": "2026-05-11T19:47:23.075536"
   },
   {
     "title": "Running local models on an M4 with 24GB memory",
     "url": "https://jola.dev/posts/running-local-models-on-m4",
     "author": "shintoist",
     "date": "2026-05-10",
-    "score": 407,
-    "comments": 127,
+    "score": 519,
+    "comments": 155,
     "id": 48089091,
     "discussion_url": "https://news.ycombinator.com/item?id=48089091",
     "description": "Running local models on an M4 with 24GB memory",
@@ -337,14 +337,14 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570853"
+    "fetched_at": "2026-05-11T19:47:23.075514"
   },
   {
     "title": "Show HN: An index of indie web/blog indexes",
     "url": "https://theindex.fyi",
     "author": "rocketpastsix",
     "date": "2026-05-10",
-    "score": 122,
+    "score": 129,
     "comments": 39,
     "id": 48083580,
     "discussion_url": "https://news.ycombinator.com/item?id=48083580",
@@ -354,32 +354,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570975"
+    "fetched_at": "2026-05-11T19:47:23.075686"
   },
   {
-    "title": "Space Cadet Pinball on Linux",
-    "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-    "author": "jandeboevrie",
-    "date": "2026-05-10",
-    "score": 339,
-    "comments": 116,
-    "id": 48082968,
-    "discussion_url": "https://news.ycombinator.com/item?id=48082968",
-    "description": "Space Cadet Pinball on Linux",
+    "title": "Software engineering may no longer be a lifetime career",
+    "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
+    "author": "movis",
+    "date": "2026-05-11",
+    "score": 215,
+    "comments": 400,
+    "id": 48095550,
+    "discussion_url": "https://news.ycombinator.com/item?id=48095550",
+    "description": "Software engineering may no longer be a lifetime career",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570998"
+    "fetched_at": "2026-05-11T19:47:23.075563"
   },
   {
     "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
     "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
     "author": "JoachimSchipper",
     "date": "2026-05-08",
-    "score": 125,
-    "comments": 67,
+    "score": 133,
+    "comments": 70,
     "id": 48061602,
     "discussion_url": "https://news.ycombinator.com/item?id=48061602",
     "description": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
@@ -388,32 +388,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570944"
+    "fetched_at": "2026-05-11T19:47:23.075662"
   },
   {
-    "title": "Task Paralysis and AI",
-    "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-    "author": "MrGilbert",
-    "date": "2026-05-10",
-    "score": 248,
-    "comments": 127,
-    "id": 48081469,
-    "discussion_url": "https://news.ycombinator.com/item?id=48081469",
-    "description": "Task Paralysis and AI",
+    "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
+    "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+    "author": "cdrnsf",
+    "date": "2026-05-11",
+    "score": 126,
+    "comments": 133,
+    "id": 48096674,
+    "discussion_url": "https://news.ycombinator.com/item?id=48096674",
+    "description": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570954"
+    "fetched_at": "2026-05-11T19:47:23.075637"
   },
   {
     "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
     "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
     "author": "susam",
     "date": "2026-05-11",
-    "score": 238,
-    "comments": 115,
+    "score": 312,
+    "comments": 175,
     "id": 48090521,
     "discussion_url": "https://news.ycombinator.com/item?id=48090521",
     "description": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
@@ -422,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570879"
+    "fetched_at": "2026-05-11T19:47:23.075540"
   },
   {
     "title": "The locals don't know",
     "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
     "author": "herbertl",
     "date": "2026-05-10",
-    "score": 185,
-    "comments": 145,
+    "score": 191,
+    "comments": 159,
     "id": 48085055,
     "discussion_url": "https://news.ycombinator.com/item?id=48085055",
     "description": "The locals don't know",
@@ -439,32 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570934"
-  },
-  {
-    "title": "Think Linear Algebra (2023)",
-    "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-    "author": "tamnd",
-    "date": "2026-05-10",
-    "score": 209,
-    "comments": 27,
-    "id": 48082396,
-    "discussion_url": "https://news.ycombinator.com/item?id=48082396",
-    "description": "Think Linear Algebra (2023)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570961"
+    "fetched_at": "2026-05-11T19:47:23.075648"
   },
   {
     "title": "Traces Of Humanity",
     "url": "https://tracesofhumanity.org/hello-world/",
     "author": "alex77456",
     "date": "2026-05-10",
-    "score": 166,
-    "comments": 25,
+    "score": 171,
+    "comments": 26,
     "id": 48085782,
     "discussion_url": "https://news.ycombinator.com/item?id=48085782",
     "description": "Traces Of Humanity",
@@ -473,31 +456,48 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570927"
+    "fetched_at": "2026-05-11T19:47:23.075630"
   },
   {
-    "title": "Walking slower? Your ears, not your knees, might be the problem",
-    "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
-    "author": "marc__1",
-    "date": "2026-05-09",
-    "score": 133,
-    "comments": 78,
-    "id": 48075429,
-    "discussion_url": "https://news.ycombinator.com/item?id=48075429",
-    "description": "Walking slower? Your ears, not your knees, might be the problem",
+    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+    "author": "zdw",
+    "date": "2026-05-10",
+    "score": 176,
+    "comments": 8,
+    "id": 48085685,
+    "discussion_url": "https://news.ycombinator.com/item?id=48085685",
+    "description": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570947"
+    "fetched_at": "2026-05-11T19:47:23.075467"
+  },
+  {
+    "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
+    "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
+    "author": "littlexsparkee",
+    "date": "2026-05-09",
+    "score": 134,
+    "comments": 49,
+    "id": 48070571,
+    "discussion_url": "https://news.ycombinator.com/item?id=48070571",
+    "description": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-11T19:47:23.075481"
   },
   {
     "title": "What's a mathematician to do? (2010)",
     "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
     "author": "ipnon",
     "date": "2026-05-10",
-    "score": 166,
+    "score": 170,
     "comments": 80,
     "id": 48083007,
     "discussion_url": "https://news.ycombinator.com/item?id=48083007",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-11T13:46:45.570979"
+    "fetched_at": "2026-05-11T19:47:23.075690"
   }
 ]
