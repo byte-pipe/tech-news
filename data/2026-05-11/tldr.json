@@ -200,16 +200,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview (16 minute read)",
-    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-    "description": "Behind the Scenes Hardening Firefox with Claude Mythos Preview (16 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-11",
-    "site_name": "tldr"
-  },
-  {
     "title": "Bermuda Expands USDC Airdrop (4 minute read)",
     "url": "https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators",
     "description": "Bermuda Expands USDC Airdrop (4 minute read)",
@@ -253,26 +243,6 @@
     "title": "Build agent-friendly websites (2 minute read)",
     "url": "https://www.linkedin.com/posts/chris-long-marketing_big-seo-news-google-released-a-resource-share-7457046713850167296-O7S0",
     "description": "Build agent-friendly websites (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Building Self-Healing Data Pipelines at Halodoc (9 minute read)",
-    "url": "https://blogs.halodoc.io/building-self-healing-data-pipelines-at-halodoc/",
-    "description": "Building Self-Healing Data Pipelines at Halodoc (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Can Agents Replace the Search Stack? (6 minute read)",
-    "url": "https://softwaredoug.com/blog/2026/04/28/search-apis-replaced-by-agents",
-    "description": "Can Agents Replace the Search Stack? (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -350,16 +320,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Context Mode (GitHub Repo)",
-    "url": "https://github.com/mksglu/context-mode",
-    "description": "Context Mode (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-11",
-    "site_name": "tldr"
-  },
-  {
     "title": "DAU, WAU, and MAU are the New Lighthouse Metric in B2B + AI (5 minute read)",
     "url": "https://www.saastr.com/dau-wau-and-mau-are-the-new-lighthouse-metric-in-b2b-ai-harveys-a-great-case-study/",
     "description": "DAU, WAU, and MAU are the New Lighthouse Metric in B2B + AI (5 minute read)",
@@ -410,6 +370,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Do you take after your dad's RNA? (11 minute read)",
+    "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
+    "description": "Do you take after your dad's RNA? (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-11",
+    "site_name": "tldr"
+  },
+  {
     "title": "Don't sell the build effort (3 minute read)",
     "url": "https://www.elliotcsmith.com/dont-sell-the-build-effort/",
     "description": "Don't sell the build effort (3 minute read)",
@@ -423,6 +393,16 @@
     "title": "DuckDB Internals: Why is DuckDB Fast? (17 minute read)",
     "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
     "description": "DuckDB Internals: Why is DuckDB Fast? (17 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Enhancing Flink Deployment with Shadow Testing (3 minute read)",
+    "url": "https://engineering.grab.com/enchancing-flink-shadow-testing",
+    "description": "Enhancing Flink Deployment with Shadow Testing (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -450,9 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "From 0 signal to 128 cold signups: product validation on a $2K budget (5 minute read)",
-    "url": "https://evilmartians.com/chronicles/from-0-signal-to-128-cold-signups-product-validation-on-2k-budget",
-    "description": "From 0 signal to 128 cold signups: product validation on a $2K budget (5 minute read)",
+    "title": "Flowfile (GitHub Repo)",
+    "url": "https://github.com/edwardvaneechoud/Flowfile",
+    "description": "Flowfile (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -460,9 +440,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "From SSH to REST: A Security-Driven Modernization of Slack's EMR Data Pipelines (15 minute read)",
-    "url": "https://slack.engineering/from-ssh-to-rest-a-security-driven-modernization-of-slacks-emr-data-pipelines/",
-    "description": "From SSH to REST: A Security-Driven Modernization of Slack's EMR Data Pipelines (15 minute read)",
+    "title": "Flue (GitHub Repo)",
+    "url": "https://github.com/withastro/flue",
+    "description": "Flue (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "From 0 signal to 128 cold signups: product validation on a $2K budget (5 minute read)",
+    "url": "https://evilmartians.com/chronicles/from-0-signal-to-128-cold-signups-product-validation-on-2k-budget",
+    "description": "From 0 signal to 128 cold signups: product validation on a $2K budget (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -563,6 +553,16 @@
     "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability (9 minute read)",
     "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
     "description": "How Cloudflare responded to the “Copy Fail” Linux vulnerability (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Discord Automates ScyllaDB Clusters at Scale (6 minute read)",
+    "url": "https://discord.com/blog/how-discord-automates-scylladb-clusters-at-scale",
+    "description": "How Discord Automates ScyllaDB Clusters at Scale (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -700,16 +700,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Insforge (GitHub Repo)",
-    "url": "https://github.com/InsForge/InsForge",
-    "description": "Insforge (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-11",
-    "site_name": "tldr"
-  },
-  {
     "title": "Inside Mercury's $650M Revenue Machine, with CEO Immad Akhund (44 minute podcast)",
     "url": "https://lex.substack.com/p/podcast-inside-mercurys-650m-revenue",
     "description": "Inside Mercury's $650M Revenue Machine, with CEO Immad Akhund (44 minute podcast)",
@@ -723,16 +713,6 @@
     "title": "Inside the Artemis II social media strategy (9 minute read)",
     "url": "https://www.milkkarten.net/p/the-artemis-ii-social-media-strategy",
     "description": "Inside the Artemis II social media strategy (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Integrating AI Into Apache Kafka Architectures: Patterns and Best Practices (11 minute read)",
-    "url": "https://www.confluent.io/blog/ai-kafka-integration-patterns/",
-    "description": "Integrating AI Into Apache Kafka Architectures: Patterns and Best Practices (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -800,16 +780,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Long AI Short AGI (3 minute read)",
-    "url": "https://1984.substack.com/p/long-ai-short-agi",
-    "description": "Long AI Short AGI (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-11",
-    "site_name": "tldr"
-  },
-  {
     "title": "MegaETH's $10M Aave DAO Commitment: How the Deal Actually Works (2 minute read)",
     "url": "https://threadreaderapp.com/thread/2051962088848011701.html",
     "description": "MegaETH's $10M Aave DAO Commitment: How the Deal Actually Works (2 minute read)",
@@ -853,6 +823,16 @@
     "title": "NFTs may make a comeback as AI agents strain online identity (3 minute read)",
     "url": "https://www.coindesk.com/business/2026/05/06/reid-hoffman-says-nfts-may-make-a-comeback-as-ai-agents-strain-online-identity",
     "description": "NFTs may make a comeback as AI agents strain online identity (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Natural Language Autoencoders (9 minute read)",
+    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "description": "Natural Language Autoencoders (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -993,16 +973,6 @@
     "title": "Robinhood's venture fund IPO attracted 150,000+ retail investors, CEO says (3 minute read)",
     "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
     "description": "Robinhood's venture fund IPO attracted 150,000+ retail investors, CEO says (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "S3 is the perfect place to store data, until you try to search it (11 minute read)",
-    "url": "https://gordonmurray.ie/data/2026/05/02/s3-is-the-perfect-place-to-store-data-until-you-try-to-search-it.html",
-    "description": "S3 is the perfect place to store data, until you try to search it (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1310,16 +1280,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Tokenmaxxing, Promomaxxing, and Misaligned Incentives in Tech (8 minute read)",
-    "url": "https://read.engineerscodex.com/p/tokenmaxxing-promomaxxing-and-misaligned",
-    "description": "Tokenmaxxing, Promomaxxing, and Misaligned Incentives in Tech (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-11",
-    "site_name": "tldr"
-  },
-  {
     "title": "Twilio Takes On ‘Agent Amnesia' (5 minute read)",
     "url": "https://thelettertwo.com/2026/05/06/twilio-agent-amnesia-customer-engagement/",
     "description": "Twilio Takes On ‘Agent Amnesia' (5 minute read)",
@@ -1350,9 +1310,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "We're Missing Data: The Other Half of AI Transformation (6 minute read)",
-    "url": "https://ericdataproduct.substack.com/p/were-missing-data-the-other-half",
-    "description": "We're Missing Data: The Other Half of AI Transformation (6 minute read)",
+    "title": "We Ran 250 AI Agent Evals to Find Out if Skills Beat Docs. The Answer Is More Complicated Than We Expected (6 minute read)",
+    "url": "https://www.wix.engineering/post/we-ran-250-ai-agent-evals-to-find-out-if-skills-beat-docs-the-answer-is-more-complicated-than-we-ex",
+    "description": "We Ran 250 AI Agent Evals to Find Out if Skills Beat Docs. The Answer Is More Complicated Than We Expected (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1363,6 +1323,16 @@
     "title": "When everyone has AI and the company still learns nothing (9 minute read)",
     "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
     "description": "When everyone has AI and the company still learns nothing (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "When the Uncertainty Is Bigger Than the Shock: Scenario Modelling for English Local Elections (13 minute read)",
+    "url": "https://towardsdatascience.com/when-the-uncertainty-is-bigger-than-the-shock-scenario-modelling-for-english-local-elections/",
+    "description": "When the Uncertainty Is Bigger Than the Shock: Scenario Modelling for English Local Elections (13 minute read)",
     "tags": [
       "tldr"
     ],
