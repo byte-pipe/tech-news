@@ -5,8 +5,8 @@
     "date": "2026-05-08",
     "description": "Relatable memes on collaboration stylesKlaudia GrzondzielKlaudia GrzondzielKlaudia GrzondzielFollowMay 85 types of engineers I met as a Technical Writ...",
     "tags": "#watercooler, #technicalwriting, #discuss, #jokes",
-    "reactions": "94 reactions",
-    "comments": "Comments 52 comments",
+    "reactions": "97 reactions",
+    "comments": "Comments 54 comments",
     "url": "https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak"
   },
   {
@@ -16,7 +16,7 @@
     "description": "Speed gains versus code ownership stressFernando FornielesFernando FornielesFernando FornielesFollowMay 6AI vs Non-AI: Building the Same Project Twice...",
     "tags": "#discuss, #ai, #softwareengineering, #programming",
     "reactions": "57 reactions",
-    "comments": "Comments 27 comments",
+    "comments": "Comments 29 comments",
     "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073"
   },
   {
@@ -26,7 +26,7 @@
     "description": "Bedrock AgentCore and web scraping tipsErik HanchettErik HanchettErik HanchettFollowforAWSMay 6Build Your Own AI Butler - A Scheduled Agent That Runs ...",
     "tags": "#aws, #ai, #agents, #tutorial",
     "reactions": "57 reactions",
-    "comments": "Comments 11 comments",
+    "comments": "Comments 12 comments",
     "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"
   },
   {
@@ -35,19 +35,9 @@
     "date": "2026-05-07",
     "description": "Hacking agents and power prediction toolsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 7Congrats to the OpenClaw Challenge Winners!#devchallenge#op...",
     "tags": "#devchallenge, #openclawchallenge, #openclaw, #ai",
-    "reactions": "104 reactions",
-    "comments": "Comments 28 comments",
+    "reactions": "107 reactions",
+    "comments": "Comments 29 comments",
     "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
-  },
-  {
-    "title": "Copilot Squad",
-    "author": "Ruairí O'Brien",
-    "date": "2026-05-05",
-    "description": "Ruairí O'BrienRuairí O'BrienRuairí O'BrienFollowMay 5Copilot Squad#githubcopilot25reactionsCommentsAdd Comment11 min read",
-    "tags": "#githubcopilot",
-    "reactions": "25 reactions",
-    "comments": "Comments Add Comment",
-    "url": "https://dev.to/ruarfff/copilot-squad-4nda"
   },
   {
     "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
@@ -55,29 +45,39 @@
     "date": "2026-05-07",
     "description": "Shir Meir LadorShir Meir LadorShir Meir LadorFollowforGoogle AIMay 7Deploying a Multi-Agent System with Terraform and Cloud Run#googlecloud#terraform#...",
     "tags": "#googlecloud, #terraform, #ai, #agents",
-    "reactions": "26 reactions",
-    "comments": "Comments 3 comments",
+    "reactions": "31 reactions",
+    "comments": "Comments 4 comments",
     "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c"
   },
   {
     "title": "Designing a team of agents",
     "author": "Nicolas Fränkel",
     "date": "2026-05-07",
-    "description": "The 8 levels of agentic engineering maturityNicolas FränkelNicolas FränkelNicolas FränkelFollowMay 7Designing a team of agents#agents#agentskills#ai27...",
+    "description": "The 8 levels of agentic engineering maturityNicolas FränkelNicolas FränkelNicolas FränkelFollowMay 7Designing a team of agents#agents#agentskills#ai28...",
     "tags": "#agents, #agentskills, #ai",
-    "reactions": "27 reactions",
-    "comments": "Comments 17 comments",
+    "reactions": "28 reactions",
+    "comments": "Comments 20 comments",
     "url": "https://dev.to/nfrankel/designing-a-team-of-agents-j1b"
   },
   {
     "title": "Does AI Behave Like a Toxic Ex?",
     "author": "Konark Sharma",
     "date": "2026-05-11",
-    "description": "The line between tool and crutchKonark SharmaKonark SharmaKonark SharmaFollowMay 11Does AI Behave Like a Toxic Ex?#discuss#ai#webdev#learning42reactio...",
+    "description": "The line between tool and crutchKonark SharmaKonark SharmaKonark SharmaFollowMay 11Does AI Behave Like a Toxic Ex?#discuss#ai#webdev#learning49reactio...",
     "tags": "#discuss, #ai, #webdev, #learning",
-    "reactions": "42 reactions",
-    "comments": "Comments 19 comments",
+    "reactions": "49 reactions",
+    "comments": "Comments 22 comments",
     "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"
+  },
+  {
+    "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
+    "author": "MLH Team",
+    "date": "2026-05-07",
+    "description": "MLH TeamMLH TeamMLH TeamFollowforMajor League Hacking (MLH)May 7How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't#career#caree...",
+    "tags": "#career, #careerdevelopment, #learning, #hackathon",
+    "reactions": "30 reactions",
+    "comments": "Comments 4 comments",
+    "url": "https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8"
   },
   {
     "title": "I Didn’t Stop Building. I Just Left My Laptop.",
@@ -95,7 +95,7 @@
     "date": "2026-05-06",
     "description": "Retro opcodes for modern issue triagePaul NewellPaul NewellPaul NewellFollowMay 6I Programmed an AI in 6502 Assembly - It Worked#ai#webdev#programming...",
     "tags": "#ai, #webdev, #programming, #productivity",
-    "reactions": "63 reactions",
+    "reactions": "64 reactions",
     "comments": "Comments 11 comments",
     "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi"
   },
@@ -105,9 +105,29 @@
     "date": "2026-05-07",
     "description": "Gemma 4 Challenge: Write about Gemma 4 SubmissionS M TahosinS M TahosinS M TahosinFollowMay 7I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma...",
     "tags": "#discuss, #devchallenge, #gemmachallenge, #gemma",
-    "reactions": "73 reactions",
-    "comments": "Comments 14 comments",
+    "reactions": "76 reactions",
+    "comments": "Comments 16 comments",
     "url": "https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo"
+  },
+  {
+    "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
+    "author": "GDS K S",
+    "date": "2026-05-07",
+    "description": "Uses regex to bypass wrapper context bloatGDS K SGDS K SGDS K SFollowMay 7I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.#typ...",
+    "tags": "#typescript, #ai, #webdev, #tutorial",
+    "reactions": "32 reactions",
+    "comments": "Comments 10 comments",
+    "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok"
+  },
+  {
+    "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+    "author": "Jess Lee",
+    "date": "2026-05-06",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxBuild it. Write it. Win it.The Gemma 4 Challenge is calling all wri...",
+    "tags": "#devchallenge, #gemmachallenge, #gemma",
+    "reactions": "85 reactions",
+    "comments": "Comments 10 comments",
+    "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in?bb=263414"
   },
   {
     "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
@@ -115,17 +135,17 @@
     "date": "2026-05-06",
     "description": "Announcing the Gemma 4 ChallengeJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 6Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!#devch...",
     "tags": "#devchallenge, #gemmachallenge, #gemma",
-    "reactions": "392 reactions",
-    "comments": "Comments 60 comments",
+    "reactions": "399 reactions",
+    "comments": "Comments 65 comments",
     "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
   },
   {
     "title": "Not Open Source Not Interested",
     "author": "geraldew",
     "date": "2026-05-06",
-    "description": "geraldewgeraldewgeraldewFollowMay 6Not Open Source Not Interested#discuss#opensource#software29reactionsComments1comment4 min read",
+    "description": "geraldewgeraldewgeraldewFollowMay 6Not Open Source Not Interested#discuss#opensource#software30reactionsComments1comment4 min read",
     "tags": "#discuss, #opensource, #software",
-    "reactions": "29 reactions",
+    "reactions": "30 reactions",
     "comments": "Comments 1 comment",
     "url": "https://dev.to/geraldew/not-open-source-not-interested-52hf"
   },
@@ -140,33 +160,23 @@
     "url": "https://dev.to/konark_13/vibe-coding-lessons-nobody-talks-about-44k9"
   },
   {
-    "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-    "author": "Rohini Gaonkar",
-    "date": "2026-05-05",
-    "description": "AI mental models from first principlesRohini GaonkarRohini GaonkarRohini GaonkarFollowforAWSMay 5What Even Is AI? (I Took a Break & Had to Relearn Eve...",
-    "tags": "#ai, #beginners, #aws, #learning",
-    "reactions": "59 reactions",
-    "comments": "Comments 22 comments",
-    "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"
-  },
-  {
     "title": "What are your goals for the week? #178",
     "author": "Chris Jarvis",
     "date": "2026-05-11",
     "description": "Virtual Coffee and camera practiceChris JarvisChris JarvisChris JarvisFollowMay 11What are your goals for the week? #178#discuss#motivation#watercoole...",
     "tags": "#discuss, #motivation, #watercooler",
-    "reactions": "14 reactions",
-    "comments": "Comments 8 comments",
+    "reactions": "17 reactions",
+    "comments": "Comments 9 comments",
     "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp"
   },
   {
     "title": "What was your win this week??",
     "author": "Jess Lee",
     "date": "2026-05-08",
-    "description": "Product Hunt #1 and Raspberry Pi milestonesJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 8What was your win this week??#discuss#weeklyretro68reacti...",
+    "description": "Product Hunt #1 and Raspberry Pi milestonesJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 8What was your win this week??#discuss#weeklyretro70reacti...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "68 reactions",
-    "comments": "Comments 91 comments",
+    "reactions": "70 reactions",
+    "comments": "Comments 100 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
   },
   {
@@ -176,7 +186,7 @@
     "description": "Plausible predictions from training gapsRohini GaonkarRohini GaonkarRohini GaonkarFollowforAWSMay 8Why does AI lie? Hallucinations explained simply#ai...",
     "tags": "#ai, #beginners, #aws, #tutorial",
     "reactions": "47 reactions",
-    "comments": "Comments 15 comments",
+    "comments": "Comments 19 comments",
     "url": "https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g"
   }
 ]
