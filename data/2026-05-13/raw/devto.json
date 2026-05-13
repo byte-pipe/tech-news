@@ -5,8 +5,8 @@
     "date": "2026-05-08",
     "description": "Relatable memes on collaboration stylesKlaudia GrzondzielKlaudia GrzondzielKlaudia GrzondzielFollowMay 85 types of engineers I met as a Technical Writ...",
     "tags": "#watercooler, #technicalwriting, #discuss, #jokes",
-    "reactions": "97 reactions",
-    "comments": "Comments 54 comments",
+    "reactions": "101 reactions",
+    "comments": "Comments 57 comments",
     "url": "https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak"
   },
   {
@@ -15,8 +15,8 @@
     "date": "2026-05-06",
     "description": "Speed gains versus code ownership stressFernando FornielesFernando FornielesFernando FornielesFollowMay 6AI vs Non-AI: Building the Same Project Twice...",
     "tags": "#discuss, #ai, #softwareengineering, #programming",
-    "reactions": "58 reactions",
-    "comments": "Comments 30 comments",
+    "reactions": "59 reactions",
+    "comments": "Comments 34 comments",
     "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073"
   },
   {
@@ -35,7 +35,7 @@
     "date": "2026-05-07",
     "description": "Hacking agents and power prediction toolsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 7Congrats to the OpenClaw Challenge Winners!#devchallenge#op...",
     "tags": "#devchallenge, #openclawchallenge, #openclaw, #ai",
-    "reactions": "107 reactions",
+    "reactions": "108 reactions",
     "comments": "Comments 29 comments",
     "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
   },
@@ -43,10 +43,10 @@
     "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
     "author": "Shir Meir Lador",
     "date": "2026-05-07",
-    "description": "Shir Meir LadorShir Meir LadorShir Meir LadorFollowforGoogle AIMay 7Deploying a Multi-Agent System with Terraform and Cloud Run#googlecloud#terraform#...",
+    "description": "Secret Manager refs rather than env varsShir Meir LadorShir Meir LadorShir Meir LadorFollowforGoogle AIMay 7Deploying a Multi-Agent System with Terraf...",
     "tags": "#googlecloud, #terraform, #ai, #agents",
     "reactions": "31 reactions",
-    "comments": "Comments 4 comments",
+    "comments": "Comments 5 comments",
     "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c"
   },
   {
@@ -63,31 +63,11 @@
     "title": "Does AI Behave Like a Toxic Ex?",
     "author": "Konark Sharma",
     "date": "2026-05-11",
-    "description": "The line between tool and crutchKonark SharmaKonark SharmaKonark SharmaFollowMay 11Does AI Behave Like a Toxic Ex?#discuss#ai#webdev#learning49reactio...",
+    "description": "The line between tool and crutchKonark SharmaKonark SharmaKonark SharmaFollowMay 11Does AI Behave Like a Toxic Ex?#discuss#ai#webdev#learning61reactio...",
     "tags": "#discuss, #ai, #webdev, #learning",
-    "reactions": "49 reactions",
-    "comments": "Comments 22 comments",
+    "reactions": "61 reactions",
+    "comments": "Comments 32 comments",
     "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"
-  },
-  {
-    "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
-    "author": "MLH Team",
-    "date": "2026-05-07",
-    "description": "MLH TeamMLH TeamMLH TeamFollowforMajor League Hacking (MLH)May 7How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't#career#caree...",
-    "tags": "#career, #careerdevelopment, #learning, #hackathon",
-    "reactions": "30 reactions",
-    "comments": "Comments 4 comments",
-    "url": "https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8"
-  },
-  {
-    "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-    "author": "Aryan Choudhary",
-    "date": "2026-05-06",
-    "description": "Japanese immersion and mainframe workAryan ChoudharyAryan ChoudharyAryan ChoudharyFollowMay 6I Didn’t Stop Building. I Just Left My Laptop.#career#lea...",
-    "tags": "#career, #learning, #development, #workplace",
-    "reactions": "120 reactions",
-    "comments": "Comments 54 comments",
-    "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"
   },
   {
     "title": "I Programmed an AI in 6502 Assembly - It Worked",
@@ -115,8 +95,8 @@
     "date": "2026-05-07",
     "description": "Uses regex to bypass wrapper context bloatGDS K SGDS K SGDS K SFollowMay 7I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.#typ...",
     "tags": "#typescript, #ai, #webdev, #tutorial",
-    "reactions": "32 reactions",
-    "comments": "Comments 10 comments",
+    "reactions": "34 reactions",
+    "comments": "Comments 11 comments",
     "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok"
   },
   {
@@ -135,9 +115,19 @@
     "date": "2026-05-06",
     "description": "Announcing the Gemma 4 ChallengeJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 6Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!#devch...",
     "tags": "#devchallenge, #gemmachallenge, #gemma",
-    "reactions": "400 reactions",
-    "comments": "Comments 65 comments",
+    "reactions": "407 reactions",
+    "comments": "Comments 68 comments",
     "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"
+  },
+  {
+    "title": "My fully offline AI-assisted Linux development machine",
+    "author": "Deepu K Sasidharan",
+    "date": "2026-05-11",
+    "description": "The Niri scrolling Wayland compositorDeepu K SasidharanDeepu K SasidharanDeepu K SasidharanFollowMay 11My fully offline AI-assisted Linux development ...",
+    "tags": "#linux, #archlinux, #development, #ai",
+    "reactions": "28 reactions",
+    "comments": "Comments 13 comments",
+    "url": "https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl"
   },
   {
     "title": "Not Open Source Not Interested",
@@ -148,6 +138,16 @@
     "reactions": "30 reactions",
     "comments": "Comments 1 comment",
     "url": "https://dev.to/geraldew/not-open-source-not-interested-52hf"
+  },
+  {
+    "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
+    "author": "Ertuğrul Demir",
+    "date": "2026-05-08",
+    "description": "Gemma 4 Challenge: Write about Gemma 4 SubmissionErtuğrul DemirErtuğrul DemirErtuğrul DemirFollowforGoogle Developer ExpertsMay 8The Local Model That ...",
+    "tags": "#ai, #gemma, #devchallenge, #gemmachallenge",
+    "reactions": "12 reactions",
+    "comments": "Comments 6 comments",
+    "url": "https://dev.to/gde/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9"
   },
   {
     "title": "Vibe Coding Lessons Nobody Talks About",
@@ -166,17 +166,17 @@
     "description": "Virtual Coffee and camera practiceChris JarvisChris JarvisChris JarvisFollowMay 11What are your goals for the week? #178#discuss#motivation#watercoole...",
     "tags": "#discuss, #motivation, #watercooler",
     "reactions": "17 reactions",
-    "comments": "Comments 9 comments",
+    "comments": "Comments 10 comments",
     "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp"
   },
   {
     "title": "What was your win this week??",
     "author": "Jess Lee",
     "date": "2026-05-08",
-    "description": "Product Hunt #1 and Raspberry Pi milestonesJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 8What was your win this week??#discuss#weeklyretro72reacti...",
+    "description": "Product Hunt #1 and Raspberry Pi milestonesJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 8What was your win this week??#discuss#weeklyretro74reacti...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "72 reactions",
-    "comments": "Comments 101 comments",
+    "reactions": "74 reactions",
+    "comments": "Comments 110 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-96l"
   },
   {
@@ -185,8 +185,8 @@
     "date": "2026-05-08",
     "description": "Plausible predictions from training gapsRohini GaonkarRohini GaonkarRohini GaonkarFollowforAWSMay 8Why does AI lie? Hallucinations explained simply#ai...",
     "tags": "#ai, #beginners, #aws, #tutorial",
-    "reactions": "47 reactions",
-    "comments": "Comments 19 comments",
+    "reactions": "48 reactions",
+    "comments": "Comments 22 comments",
     "url": "https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g"
   }
 ]
