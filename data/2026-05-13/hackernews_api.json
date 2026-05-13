@@ -1,62 +1,79 @@
 [
   {
-    "title": "Bambu Lab is abusing the open source social contract",
-    "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-    "author": "rubenbe",
-    "date": "2026-05-12",
-    "score": 1300,
-    "comments": 403,
-    "id": 48109224,
-    "discussion_url": "https://news.ycombinator.com/item?id=48109224",
-    "description": "Bambu Lab is abusing the open source social contract",
+    "title": "50K Tahoe residents need power as utility eyes redirecting lines to data centers",
+    "url": "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/",
+    "author": "cdrnsf",
+    "date": "2026-05-13",
+    "score": 106,
+    "comments": 104,
+    "id": 48123090,
+    "discussion_url": "https://news.ycombinator.com/item?id=48123090",
+    "description": "50K Tahoe residents need power as utility eyes redirecting lines to data centers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994567"
+    "fetched_at": "2026-05-13T19:36:35.646370"
   },
   {
-    "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-    "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-    "author": "chizhik-pyzhik",
-    "date": "2026-05-12",
-    "score": 329,
-    "comments": 170,
-    "id": 48112042,
-    "discussion_url": "https://news.ycombinator.com/item?id=48112042",
-    "description": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+    "title": "A History of IDEs at Google",
+    "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+    "author": "laurentlb",
+    "date": "2026-05-09",
+    "score": 112,
+    "comments": 84,
+    "id": 48073979,
+    "discussion_url": "https://news.ycombinator.com/item?id=48073979",
+    "description": "A History of IDEs at Google",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994483"
+    "fetched_at": "2026-05-13T19:36:35.646257"
   },
   {
-    "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
-    "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+    "title": "An idiot's guide to lead optimisation for proteins",
+    "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
+    "author": "magni121",
+    "date": "2026-05-11",
+    "score": 115,
+    "comments": 9,
+    "id": 48093578,
+    "discussion_url": "https://news.ycombinator.com/item?id=48093578",
+    "description": "An idiot's guide to lead optimisation for proteins",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-13T19:36:35.646279"
+  },
+  {
+    "title": "As researchers age, they produce less disruptive work",
+    "url": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
     "author": "Brajeshwar",
     "date": "2026-05-12",
-    "score": 342,
-    "comments": 108,
-    "id": 48111531,
-    "discussion_url": "https://news.ycombinator.com/item?id=48111531",
-    "description": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+    "score": 137,
+    "comments": 125,
+    "id": 48111243,
+    "discussion_url": "https://news.ycombinator.com/item?id=48111243",
+    "description": "As researchers age, they produce less disruptive work",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994604"
+    "fetched_at": "2026-05-13T19:36:35.646398"
   },
   {
     "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
     "url": "https://arxiv.org/abs/2605.08419",
     "author": "matt_d",
     "date": "2026-05-13",
-    "score": 215,
-    "comments": 51,
+    "score": 279,
+    "comments": 65,
     "id": 48117810,
     "discussion_url": "https://news.ycombinator.com/item?id=48117810",
     "description": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
@@ -65,49 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994427"
-  },
-  {
-    "title": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
-    "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
-    "author": "hn_acker",
-    "date": "2026-05-12",
-    "score": 200,
-    "comments": 35,
-    "id": 48115059,
-    "discussion_url": "https://news.ycombinator.com/item?id=48115059",
-    "description": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994596"
-  },
-  {
-    "title": "Extremely Low Frequencies",
-    "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
-    "author": "pinewurst",
-    "date": "2026-05-12",
-    "score": 209,
-    "comments": 28,
-    "id": 48104041,
-    "discussion_url": "https://news.ycombinator.com/item?id=48104041",
-    "description": "Extremely Low Frequencies",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994642"
+    "fetched_at": "2026-05-13T19:36:35.646326"
   },
   {
     "title": "Googlebook",
     "url": "https://googlebook.google/",
     "author": "tambourine_man",
     "date": "2026-05-12",
-    "score": 813,
-    "comments": 1327,
+    "score": 895,
+    "comments": 1491,
     "id": 48111545,
     "discussion_url": "https://news.ycombinator.com/item?id=48111545",
     "description": "Googlebook",
@@ -116,32 +99,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994474"
+    "fetched_at": "2026-05-13T19:36:35.646407"
   },
   {
-    "title": "Hardware Attestation as Monopoly Enabler",
-    "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-    "author": "ChuckMcM",
-    "date": "2026-05-10",
-    "score": 2156,
-    "comments": 750,
-    "id": 48086190,
-    "discussion_url": "https://news.ycombinator.com/item?id=48086190",
-    "description": "Hardware Attestation as Monopoly Enabler",
+    "title": "Haiku",
+    "url": "https://www.haiku-os.org",
+    "author": "tosh",
+    "date": "2026-05-13",
+    "score": 134,
+    "comments": 62,
+    "id": 48124002,
+    "discussion_url": "https://news.ycombinator.com/item?id=48124002",
+    "description": "Haiku",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994658"
+    "fetched_at": "2026-05-13T19:36:35.646334"
   },
   {
     "title": "How to make your text look futuristic (2016)",
     "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
     "author": "_vaporwave_",
     "date": "2026-05-12",
-    "score": 379,
-    "comments": 51,
+    "score": 467,
+    "comments": 59,
     "id": 48113895,
     "discussion_url": "https://news.ycombinator.com/item?id=48113895",
     "description": "How to make your text look futuristic (2016)",
@@ -150,49 +133,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994458"
+    "fetched_at": "2026-05-13T19:36:35.646452"
   },
   {
-    "title": "I hate soldering",
-    "url": "https://user8.bearblog.dev/rant/",
-    "author": "James72689",
-    "date": "2026-05-08",
-    "score": 241,
-    "comments": 215,
-    "id": 48059831,
-    "discussion_url": "https://news.ycombinator.com/item?id=48059831",
-    "description": "I hate soldering",
+    "title": "I moved my digital stack to Europe",
+    "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+    "author": "monokai_nl",
+    "date": "2026-05-13",
+    "score": 760,
+    "comments": 483,
+    "id": 48120629,
+    "discussion_url": "https://news.ycombinator.com/item?id=48120629",
+    "description": "I moved my digital stack to Europe",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994634"
+    "fetched_at": "2026-05-13T19:36:35.646305"
   },
   {
-    "title": "Israel's AI targeting system: how data from a phone become a death sentence",
-    "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
-    "author": "YeGoblynQueenne",
-    "date": "2026-05-10",
-    "score": 157,
-    "comments": 51,
-    "id": 48082763,
-    "discussion_url": "https://news.ycombinator.com/item?id=48082763",
-    "description": "Israel's AI targeting system: how data from a phone become a death sentence",
+    "title": "Kickstarter is forced to ban adult content by payment processors",
+    "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
+    "author": "stalfosknight",
+    "date": "2026-05-13",
+    "score": 267,
+    "comments": 198,
+    "id": 48123198,
+    "discussion_url": "https://news.ycombinator.com/item?id=48123198",
+    "description": "Kickstarter is forced to ban adult content by payment processors",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994600"
+    "fetched_at": "2026-05-13T19:36:35.646348"
   },
   {
     "title": "Kraftwerk's radical 1976 track",
     "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
     "author": "tcp_handshaker",
     "date": "2026-05-12",
-    "score": 172,
-    "comments": 132,
+    "score": 224,
+    "comments": 195,
     "id": 48115823,
     "discussion_url": "https://news.ycombinator.com/item?id=48115823",
     "description": "Kraftwerk's radical 1976 track",
@@ -201,32 +184,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994513"
+    "fetched_at": "2026-05-13T19:36:35.646354"
   },
   {
-    "title": "Learning Software Architecture",
-    "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-    "author": "surprisetalk",
-    "date": "2026-05-12",
-    "score": 561,
-    "comments": 111,
-    "id": 48106024,
-    "discussion_url": "https://news.ycombinator.com/item?id=48106024",
-    "description": "Learning Software Architecture",
+    "title": "Leaving GitHub for Forgejo",
+    "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+    "author": "jorijn",
+    "date": "2026-05-13",
+    "score": 446,
+    "comments": 238,
+    "id": 48121266,
+    "discussion_url": "https://news.ycombinator.com/item?id=48121266",
+    "description": "Leaving GitHub for Forgejo",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994614"
+    "fetched_at": "2026-05-13T19:36:35.646275"
+  },
+  {
+    "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+    "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+    "author": "haunter",
+    "date": "2026-05-10",
+    "score": 131,
+    "comments": 100,
+    "id": 48087887,
+    "discussion_url": "https://news.ycombinator.com/item?id=48087887",
+    "description": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-13T19:36:35.646262"
   },
   {
     "title": "My graduation cap runs Rust",
     "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
     "author": "ericswpark",
     "date": "2026-05-13",
-    "score": 163,
-    "comments": 61,
+    "score": 205,
+    "comments": 87,
     "id": 48116207,
     "discussion_url": "https://news.ycombinator.com/item?id=48116207",
     "description": "My graduation cap runs Rust",
@@ -235,83 +235,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994523"
+    "fetched_at": "2026-05-13T19:36:35.646415"
   },
   {
-    "title": "Postmortem: TanStack NPM supply-chain compromise",
-    "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-    "author": "varunsharma07",
+    "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+    "author": "HardwareLust",
     "date": "2026-05-11",
-    "score": 1073,
-    "comments": 451,
-    "id": 48100706,
-    "discussion_url": "https://news.ycombinator.com/item?id=48100706",
-    "description": "Postmortem: TanStack NPM supply-chain compromise",
+    "score": 255,
+    "comments": 113,
+    "id": 48089921,
+    "discussion_url": "https://news.ycombinator.com/item?id=48089921",
+    "description": "New stainless steel can survive conditions for hydrogen production in seawater",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994618"
+    "fetched_at": "2026-05-13T19:36:35.646310"
   },
   {
-    "title": "Quack: The DuckDB Client-Server Protocol",
-    "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-    "author": "aduffy",
-    "date": "2026-05-12",
-    "score": 301,
-    "comments": 64,
-    "id": 48111765,
-    "discussion_url": "https://news.ycombinator.com/item?id=48111765",
-    "description": "Quack: The DuckDB Client-Server Protocol",
+    "title": "Open Source Resistance: keep OSS alive on company time",
+    "url": "https://ossresistance.com/",
+    "author": "mikemcquaid",
+    "date": "2026-05-13",
+    "score": 200,
+    "comments": 65,
+    "id": 48123015,
+    "discussion_url": "https://news.ycombinator.com/item?id=48123015",
+    "description": "Open Source Resistance: keep OSS alive on company time",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994518"
+    "fetched_at": "2026-05-13T19:36:35.646221"
   },
   {
-    "title": "Reimagining the mouse pointer for the AI era",
-    "url": "https://deepmind.google/blog/ai-pointer/",
-    "author": "devhouse",
-    "date": "2026-05-12",
-    "score": 217,
-    "comments": 182,
-    "id": 48111581,
-    "discussion_url": "https://news.ycombinator.com/item?id=48111581",
-    "description": "Reimagining the mouse pointer for the AI era",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994527"
-  },
-  {
-    "title": "Rendering the Sky, Sunsets, and Planets",
-    "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-    "author": "ibobev",
-    "date": "2026-05-12",
-    "score": 485,
+    "title": "Preserving Fisher-Price Pixter",
+    "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+    "author": "dmitrygr",
+    "date": "2026-05-11",
+    "score": 175,
     "comments": 39,
-    "id": 48107997,
-    "discussion_url": "https://news.ycombinator.com/item?id=48107997",
-    "description": "Rendering the Sky, Sunsets, and Planets",
+    "id": 48091812,
+    "discussion_url": "https://news.ycombinator.com/item?id=48091812",
+    "description": "Preserving Fisher-Price Pixter",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994487"
+    "fetched_at": "2026-05-13T19:36:35.646322"
   },
   {
     "title": "Restore full BambuNetwork support for Bambu Lab printers",
     "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
     "author": "Murfalo",
     "date": "2026-05-12",
-    "score": 478,
-    "comments": 209,
+    "score": 629,
+    "comments": 283,
     "id": 48115127,
     "discussion_url": "https://news.ycombinator.com/item?id=48115127",
     "description": "Restore full BambuNetwork support for Bambu Lab printers",
@@ -320,49 +303,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994442"
+    "fetched_at": "2026-05-13T19:36:35.646389"
   },
   {
-    "title": "Scrcpy v4.0",
-    "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-    "author": "xnx",
-    "date": "2026-05-12",
-    "score": 227,
-    "comments": 32,
-    "id": 48114356,
-    "discussion_url": "https://news.ycombinator.com/item?id=48114356",
-    "description": "Scrcpy v4.0",
+    "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+    "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+    "author": "curiousgal",
+    "date": "2026-05-09",
+    "score": 152,
+    "comments": 49,
+    "id": 48077924,
+    "discussion_url": "https://news.ycombinator.com/item?id=48077924",
+    "description": "Reverting the incremental GC in Python 3.14 and 3.15",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994496"
-  },
-  {
-    "title": "Screenshots of Old Desktop OSes",
-    "url": "http://www.typewritten.org/Media/",
-    "author": "adunk",
-    "date": "2026-05-12",
-    "score": 674,
-    "comments": 352,
-    "id": 48104428,
-    "discussion_url": "https://news.ycombinator.com/item?id=48104428",
-    "description": "Screenshots of Old Desktop OSes",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994622"
+    "fetched_at": "2026-05-13T19:36:35.646284"
   },
   {
     "title": "SecurityBaseline.eu",
     "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
     "author": "aequitas",
     "date": "2026-05-13",
-    "score": 174,
-    "comments": 81,
+    "score": 217,
+    "comments": 103,
     "id": 48118763,
     "discussion_url": "https://news.ycombinator.com/item?id=48118763",
     "description": "SecurityBaseline.eu",
@@ -371,15 +337,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994479"
+    "fetched_at": "2026-05-13T19:36:35.646456"
+  },
+  {
+    "title": "Setting up a free *.city.state.us locality domain (2025)",
+    "url": "https://fredchan.org/blog/locality-domains-guide/",
+    "author": "speckx",
+    "date": "2026-05-13",
+    "score": 357,
+    "comments": 111,
+    "id": 48122635,
+    "discussion_url": "https://news.ycombinator.com/item?id=48122635",
+    "description": "Setting up a free *.city.state.us locality domain (2025)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-13T19:36:35.646208"
   },
   {
     "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
     "url": "https://github.com/cactus-compute/needle",
     "author": "HenryNdubuaku",
     "date": "2026-05-12",
-    "score": 498,
-    "comments": 154,
+    "score": 602,
+    "comments": 175,
     "id": 48111896,
     "discussion_url": "https://news.ycombinator.com/item?id=48111896",
     "description": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
@@ -388,83 +371,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994447"
+    "fetched_at": "2026-05-13T19:36:35.646318"
   },
   {
-    "title": "Software Internals Book Club",
-    "url": "https://eatonphil.com/bookclub.html",
-    "author": "aragonite",
-    "date": "2026-05-12",
-    "score": 216,
-    "comments": 33,
-    "id": 48103511,
-    "discussion_url": "https://news.ycombinator.com/item?id=48103511",
-    "description": "Software Internals Book Club",
+    "title": "The Boring Part of Bell Labs (2025)",
+    "url": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
+    "author": "surprisetalk",
+    "date": "2026-05-08",
+    "score": 109,
+    "comments": 17,
+    "id": 48062447,
+    "discussion_url": "https://news.ycombinator.com/item?id=48062447",
+    "description": "The Boring Part of Bell Labs (2025)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994645"
+    "fetched_at": "2026-05-13T19:36:35.646381"
   },
   {
-    "title": "Starship V3",
-    "url": "https://www.spacex.com/updates#starship-v3",
-    "author": "fprog",
+    "title": "The US is winning the AI race where it matters most: commercialization",
+    "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+    "author": "akrylov",
     "date": "2026-05-13",
-    "score": 250,
-    "comments": 405,
-    "id": 48116781,
-    "discussion_url": "https://news.ycombinator.com/item?id=48116781",
-    "description": "Starship V3",
+    "score": 93,
+    "comments": 240,
+    "id": 48121929,
+    "discussion_url": "https://news.ycombinator.com/item?id=48121929",
+    "description": "The US is winning the AI race where it matters most: commercialization",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994559"
-  },
-  {
-    "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
-    "url": "https://www.savethearchive.com/newsleaders/",
-    "author": "doener",
-    "date": "2026-05-12",
-    "score": 349,
-    "comments": 96,
-    "id": 48115807,
-    "discussion_url": "https://news.ycombinator.com/item?id=48115807",
-    "description": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994546"
-  },
-  {
-    "title": "The Future of Obsidian Plugins",
-    "url": "https://obsidian.md/blog/future-of-plugins/",
-    "author": "xz18r",
-    "date": "2026-05-12",
-    "score": 390,
-    "comments": 147,
-    "id": 48109970,
-    "discussion_url": "https://news.ycombinator.com/item?id=48109970",
-    "description": "The Future of Obsidian Plugins",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994421"
+    "fetched_at": "2026-05-13T19:36:35.646232"
   },
   {
     "title": "The vi family",
     "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
     "author": "hggh",
     "date": "2026-05-06",
-    "score": 193,
-    "comments": 121,
+    "score": 255,
+    "comments": 167,
     "id": 48033483,
     "discussion_url": "https://news.ycombinator.com/item?id=48033483",
     "description": "The vi family",
@@ -473,32 +422,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994500"
+    "fetched_at": "2026-05-13T19:36:35.646425"
   },
   {
-    "title": "When life gives you lemons, write better error messages",
-    "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
-    "author": "luispa",
-    "date": "2026-05-08",
-    "score": 156,
-    "comments": 57,
-    "id": 48069032,
-    "discussion_url": "https://news.ycombinator.com/item?id=48069032",
-    "description": "When life gives you lemons, write better error messages",
+    "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
+    "url": "https://github.com/tracewayapp/traceway",
+    "author": "sebakubisz",
+    "date": "2026-05-11",
+    "score": 158,
+    "comments": 40,
+    "id": 48091898,
+    "discussion_url": "https://news.ycombinator.com/item?id=48091898",
+    "description": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994563"
+    "fetched_at": "2026-05-13T19:36:35.646393"
+  },
+  {
+    "title": "Twin brothers wipe 96 government databases minutes after being fired",
+    "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+    "author": "jnord",
+    "date": "2026-05-12",
+    "score": 128,
+    "comments": 68,
+    "id": 48115438,
+    "discussion_url": "https://news.ycombinator.com/item?id=48115438",
+    "description": "Twin brothers wipe 96 government databases minutes after being fired",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-13T19:36:35.646292"
+  },
+  {
+    "title": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
+    "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+    "author": "sbulaev",
+    "date": "2026-05-12",
+    "score": 152,
+    "comments": 30,
+    "id": 48116064,
+    "discussion_url": "https://news.ycombinator.com/item?id=48116064",
+    "description": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-13T19:36:35.646385"
   },
   {
     "title": "Why senior developers fail to communicate their expertise",
     "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
     "author": "nilirl",
     "date": "2026-05-12",
-    "score": 618,
-    "comments": 272,
+    "score": 754,
+    "comments": 317,
     "id": 48109460,
     "discussion_url": "https://news.ycombinator.com/item?id=48109460",
     "description": "Why senior developers fail to communicate their expertise",
@@ -507,6 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-13T11:46:10.994437"
+    "fetched_at": "2026-05-13T19:36:35.646433"
+  },
+  {
+    "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+    "url": "https://github.com/nooga/xsofy",
+    "author": "andsoitis",
+    "date": "2026-05-10",
+    "score": 95,
+    "comments": 44,
+    "id": 48080755,
+    "discussion_url": "https://news.ycombinator.com/item?id=48080755",
+    "description": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-13T19:36:35.646237"
   }
 ]
