@@ -1,62 +1,113 @@
 [
   {
-    "title": "A History of IDEs at Google",
-    "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-    "author": "laurentlb",
-    "date": "2026-05-09",
-    "score": 385,
-    "comments": 253,
-    "id": 48073979,
-    "discussion_url": "https://news.ycombinator.com/item?id=48073979",
-    "description": "A History of IDEs at Google",
+    "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+    "url": "https://github.com/DrCatHicks/learning-opportunities",
+    "author": "cdrnsf",
+    "date": "2026-05-14",
+    "score": 200,
+    "comments": 43,
+    "id": 48130679,
+    "discussion_url": "https://news.ycombinator.com/item?id=48130679",
+    "description": "A Claude Code and Codex Skill for Deliberate Skill Development",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134707"
+    "fetched_at": "2026-05-14T19:34:56.727315"
   },
   {
-    "title": "An idiot’s guide to lead optimisation for proteins",
-    "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-    "author": "magni121",
-    "date": "2026-05-11",
-    "score": 163,
-    "comments": 16,
-    "id": 48093578,
-    "discussion_url": "https://news.ycombinator.com/item?id=48093578",
-    "description": "An idiot’s guide to lead optimisation for proteins",
+    "title": "A message from President Kornbluth about funding and the talent pipeline",
+    "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+    "author": "dmayo",
+    "date": "2026-05-14",
+    "score": 496,
+    "comments": 516,
+    "id": 48136262,
+    "discussion_url": "https://news.ycombinator.com/item?id=48136262",
+    "description": "A message from President Kornbluth about funding and the talent pipeline",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134816"
+    "fetched_at": "2026-05-14T19:34:56.727267"
   },
   {
-    "title": "As researchers age, they produce less disruptive work",
-    "url": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
-    "author": "Brajeshwar",
-    "date": "2026-05-12",
-    "score": 150,
-    "comments": 143,
-    "id": 48111243,
-    "discussion_url": "https://news.ycombinator.com/item?id=48111243",
-    "description": "As researchers age, they produce less disruptive work",
+    "title": "AI is making me dumb",
+    "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+    "author": "Eighth",
+    "date": "2026-05-14",
+    "score": 184,
+    "comments": 123,
+    "id": 48139148,
+    "discussion_url": "https://news.ycombinator.com/item?id=48139148",
+    "description": "AI is making me dumb",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134867"
+    "fetched_at": "2026-05-14T19:34:56.727252"
+  },
+  {
+    "title": "Anthropic forms $200M partnership with the Gates Foundation",
+    "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+    "author": "surprisetalk",
+    "date": "2026-05-14",
+    "score": 109,
+    "comments": 80,
+    "id": 48136662,
+    "discussion_url": "https://news.ycombinator.com/item?id=48136662",
+    "description": "Anthropic forms $200M partnership with the Gates Foundation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-14T19:34:56.727335"
+  },
+  {
+    "title": "Avoiding and reducing microplastic false positives from dry glove contact",
+    "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
+    "author": "efavdb",
+    "date": "2026-05-14",
+    "score": 94,
+    "comments": 39,
+    "id": 48129934,
+    "discussion_url": "https://news.ycombinator.com/item?id=48129934",
+    "description": "Avoiding and reducing microplastic false positives from dry glove contact",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-14T19:34:56.727384"
+  },
+  {
+    "title": "Bitcoin trader recovers wallet with help of Claude",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+    "author": "cednore",
+    "date": "2026-05-14",
+    "score": 294,
+    "comments": 148,
+    "id": 48136240,
+    "discussion_url": "https://news.ycombinator.com/item?id=48136240",
+    "description": "Bitcoin trader recovers wallet with help of Claude",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-14T19:34:56.727326"
   },
   {
     "title": "Chess puzzle I found in my dad's old book",
     "url": "https://ardoedo.it/kempelen/",
     "author": "Eswo",
     "date": "2026-05-11",
-    "score": 170,
-    "comments": 46,
+    "score": 216,
+    "comments": 71,
     "id": 48096760,
     "discussion_url": "https://news.ycombinator.com/item?id=48096760",
     "description": "Chess puzzle I found in my dad's old book",
@@ -65,32 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134655"
-  },
-  {
-    "title": "Cisco workforce reductions",
-    "url": "https://blogs.cisco.com/news/our-path-forward",
-    "author": "ahmedomran8",
-    "date": "2026-05-14",
-    "score": 219,
-    "comments": 216,
-    "id": 48130123,
-    "discussion_url": "https://news.ycombinator.com/item?id=48130123",
-    "description": "Cisco workforce reductions",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134767"
+    "fetched_at": "2026-05-14T19:34:56.727360"
   },
   {
     "title": "Claude for Small Business",
     "url": "https://www.anthropic.com/news/claude-for-small-business",
     "author": "neilfrndes",
     "date": "2026-05-14",
-    "score": 299,
-    "comments": 239,
+    "score": 492,
+    "comments": 441,
     "id": 48130950,
     "discussion_url": "https://news.ycombinator.com/item?id=48130950",
     "description": "Claude for Small Business",
@@ -99,66 +133,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134645"
+    "fetched_at": "2026-05-14T19:34:56.727211"
   },
   {
-    "title": "Googlebook",
-    "url": "https://googlebook.google/",
-    "author": "tambourine_man",
+    "title": "Computer Hobby Movement in Canada",
+    "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
+    "author": "rbanffy",
+    "date": "2026-05-14",
+    "score": 149,
+    "comments": 40,
+    "id": 48134743,
+    "discussion_url": "https://news.ycombinator.com/item?id=48134743",
+    "description": "Computer Hobby Movement in Canada",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-14T19:34:56.727271"
+  },
+  {
+    "title": "HDD Firmware Hacking",
+    "url": "https://icode4.coffee/?p=1465",
+    "author": "jsploit",
+    "date": "2026-05-14",
+    "score": 54,
+    "comments": 6,
+    "id": 48137553,
+    "discussion_url": "https://news.ycombinator.com/item?id=48137553",
+    "description": "HDD Firmware Hacking",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-14T19:34:56.727232"
+  },
+  {
+    "title": "Heritability of human life span is ~50% when heritability is redefined",
+    "url": "https://dynomight.net/lifespan/",
+    "author": "surprisetalk",
     "date": "2026-05-12",
-    "score": 914,
-    "comments": 1532,
-    "id": 48111545,
-    "discussion_url": "https://news.ycombinator.com/item?id=48111545",
-    "description": "Googlebook",
+    "score": 113,
+    "comments": 80,
+    "id": 48109772,
+    "discussion_url": "https://news.ycombinator.com/item?id=48109772",
+    "description": "Heritability of human life span is ~50% when heritability is redefined",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134847"
+    "fetched_at": "2026-05-14T19:34:56.727421"
   },
   {
-    "title": "I moved my digital stack to Europe",
-    "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-    "author": "monokai_nl",
-    "date": "2026-05-13",
-    "score": 964,
-    "comments": 569,
-    "id": 48120629,
-    "discussion_url": "https://news.ycombinator.com/item?id=48120629",
-    "description": "I moved my digital stack to Europe",
+    "title": "How can Apple deal with the memory shortage?",
+    "url": "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/",
+    "author": "tambourine_man",
+    "date": "2026-05-11",
+    "score": 126,
+    "comments": 168,
+    "id": 48094986,
+    "discussion_url": "https://news.ycombinator.com/item?id=48094986",
+    "description": "How can Apple deal with the memory shortage?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134810"
+    "fetched_at": "2026-05-14T19:34:56.727418"
   },
   {
-    "title": "Leaving GitHub for Forgejo",
-    "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-    "author": "jorijn",
-    "date": "2026-05-13",
-    "score": 588,
-    "comments": 311,
-    "id": 48121266,
-    "discussion_url": "https://news.ycombinator.com/item?id=48121266",
-    "description": "Leaving GitHub for Forgejo",
+    "title": "Leaving the Physical World",
+    "url": "https://www.eff.org/pages/leaving-physical-world",
+    "author": "andsoitis",
+    "date": "2026-05-10",
+    "score": 165,
+    "comments": 75,
+    "id": 48084012,
+    "discussion_url": "https://news.ycombinator.com/item?id=48084012",
+    "description": "Leaving the Physical World",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134813"
+    "fetched_at": "2026-05-14T19:34:56.727323"
   },
   {
     "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
     "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
     "author": "haunter",
     "date": "2026-05-10",
-    "score": 778,
-    "comments": 495,
+    "score": 936,
+    "comments": 578,
     "id": 48087887,
     "discussion_url": "https://news.ycombinator.com/item?id=48087887",
     "description": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
@@ -167,185 +235,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134686"
+    "fetched_at": "2026-05-14T19:34:56.727345"
   },
   {
-    "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-    "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-    "author": "tosh",
-    "date": "2026-05-13",
-    "score": 242,
-    "comments": 278,
-    "id": 48125617,
-    "discussion_url": "https://news.ycombinator.com/item?id=48125617",
-    "description": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134669"
-  },
-  {
-    "title": "Making the news available at no cost is a victory",
-    "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
-    "author": "danso",
-    "date": "2026-05-13",
-    "score": 129,
-    "comments": 122,
-    "id": 48126156,
-    "discussion_url": "https://news.ycombinator.com/item?id=48126156",
-    "description": "Making the news available at no cost is a victory",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134861"
-  },
-  {
-    "title": "Meta won't let you block its AI account on Threads",
-    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-    "author": "logickkk1",
-    "date": "2026-05-13",
-    "score": 169,
-    "comments": 75,
-    "id": 48126981,
-    "discussion_url": "https://news.ycombinator.com/item?id=48126981",
-    "description": "Meta won't let you block its AI account on Threads",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134833"
-  },
-  {
-    "title": "Microsoft BitLocker – YellowKey zero-day exploit",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
-    "author": "cookiengineer",
+    "title": "Myths about /dev/urandom (2014)",
+    "url": "https://www.2uo.de/myths-about-urandom/",
+    "author": "signa11",
     "date": "2026-05-14",
-    "score": 187,
-    "comments": 101,
-    "id": 48130519,
-    "discussion_url": "https://news.ycombinator.com/item?id=48130519",
-    "description": "Microsoft BitLocker – YellowKey zero-day exploit",
+    "score": 73,
+    "comments": 40,
+    "id": 48133908,
+    "discussion_url": "https://news.ycombinator.com/item?id=48133908",
+    "description": "Myths about /dev/urandom (2014)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134761"
+    "fetched_at": "2026-05-14T19:34:56.727297"
   },
   {
-    "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
-    "url": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
-    "author": "e12e",
+    "title": "New Nginx Exploit",
+    "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+    "author": "hetsaraiya",
     "date": "2026-05-14",
-    "score": 128,
-    "comments": 43,
-    "id": 48129789,
-    "discussion_url": "https://news.ycombinator.com/item?id=48129789",
-    "description": "Mystery Microsoft bug leaker keeps the zero-days coming",
+    "score": 142,
+    "comments": 34,
+    "id": 48138268,
+    "discussion_url": "https://news.ycombinator.com/item?id=48138268",
+    "description": "New Nginx Exploit",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134830"
+    "fetched_at": "2026-05-14T19:34:56.727224"
   },
   {
-    "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-    "author": "HardwareLust",
-    "date": "2026-05-11",
-    "score": 306,
-    "comments": 145,
-    "id": 48089921,
-    "discussion_url": "https://news.ycombinator.com/item?id=48089921",
-    "description": "New stainless steel can survive conditions for hydrogen production in seawater",
+    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "author": "allenleee",
+    "date": "2026-05-14",
+    "score": 315,
+    "comments": 84,
+    "id": 48137145,
+    "discussion_url": "https://news.ycombinator.com/item?id=48137145",
+    "description": "RTX 5090 and M4 MacBook Air: Can It Game?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134857"
+    "fetched_at": "2026-05-14T19:34:56.727220"
   },
   {
-    "title": "Preserving Fisher-Price Pixter",
-    "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-    "author": "dmitrygr",
-    "date": "2026-05-11",
-    "score": 230,
-    "comments": 48,
-    "id": 48091812,
-    "discussion_url": "https://news.ycombinator.com/item?id=48091812",
-    "description": "Preserving Fisher-Price Pixter",
+    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+    "author": "arkadiyt",
+    "date": "2026-05-14",
+    "score": 237,
+    "comments": 89,
+    "id": 48138136,
+    "discussion_url": "https://news.ycombinator.com/item?id=48138136",
+    "description": "Removing the modem and GPS from my 2024 RAV4 hybrid",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134786"
-  },
-  {
-    "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-    "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-    "author": "bookofjoe",
-    "date": "2026-05-13",
-    "score": 336,
-    "comments": 509,
-    "id": 48126848,
-    "discussion_url": "https://news.ycombinator.com/item?id=48126848",
-    "description": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134747"
-  },
-  {
-    "title": "Restore full BambuNetwork support for Bambu Lab printers",
-    "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-    "author": "Murfalo",
-    "date": "2026-05-12",
-    "score": 653,
-    "comments": 295,
-    "id": 48115127,
-    "discussion_url": "https://news.ycombinator.com/item?id=48115127",
-    "description": "Restore full BambuNetwork support for Bambu Lab printers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134850"
-  },
-  {
-    "title": "Reverting the incremental GC in Python 3.14 and 3.15",
-    "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-    "author": "curiousgal",
-    "date": "2026-05-09",
-    "score": 241,
-    "comments": 99,
-    "id": 48077924,
-    "discussion_url": "https://news.ycombinator.com/item?id=48077924",
-    "description": "Reverting the incremental GC in Python 3.14 and 3.15",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134754"
+    "fetched_at": "2026-05-14T19:34:56.727200"
   },
   {
     "title": "Rewrite Bun in Rust has been merged",
     "url": "https://github.com/oven-sh/bun/pull/30412",
     "author": "Chaoses",
     "date": "2026-05-14",
-    "score": 120,
-    "comments": 97,
+    "score": 283,
+    "comments": 344,
     "id": 48132488,
     "discussion_url": "https://news.ycombinator.com/item?id=48132488",
     "description": "Rewrite Bun in Rust has been merged",
@@ -354,32 +320,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134823"
+    "fetched_at": "2026-05-14T19:34:56.727278"
   },
   {
-    "title": "S-100 Virtual Workbench",
-    "url": "https://grantmestrength.github.io/S100/",
-    "author": "rbanffy",
-    "date": "2026-05-13",
-    "score": 119,
-    "comments": 25,
-    "id": 48123546,
-    "discussion_url": "https://news.ycombinator.com/item?id=48123546",
-    "description": "S-100 Virtual Workbench",
+    "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
+    "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-05-14",
+    "score": 179,
+    "comments": 130,
+    "id": 48134429,
+    "discussion_url": "https://news.ycombinator.com/item?id=48134429",
+    "description": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134764"
+    "fetched_at": "2026-05-14T19:34:56.727374"
+  },
+  {
+    "title": "Saying Goodbye to one line of APL",
+    "url": "https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1",
+    "author": "tosh",
+    "date": "2026-05-11",
+    "score": 67,
+    "comments": 21,
+    "id": 48093244,
+    "discussion_url": "https://news.ycombinator.com/item?id=48093244",
+    "description": "Saying Goodbye to one line of APL",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-14T19:34:56.727355"
   },
   {
     "title": "Scorched Earth 2000 – Web",
     "url": "http://www.scorch2000.com/web/",
     "author": "meshko",
     "date": "2026-05-14",
-    "score": 289,
-    "comments": 105,
+    "score": 363,
+    "comments": 143,
     "id": 48129694,
     "discussion_url": "https://news.ycombinator.com/item?id=48129694",
     "description": "Scorched Earth 2000 – Web",
@@ -388,32 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134695"
-  },
-  {
-    "title": "Setting up a free *.city.state.us locality domain (2025)",
-    "url": "https://fredchan.org/blog/locality-domains-guide/",
-    "author": "speckx",
-    "date": "2026-05-13",
-    "score": 570,
-    "comments": 178,
-    "id": 48122635,
-    "discussion_url": "https://news.ycombinator.com/item?id=48122635",
-    "description": "Setting up a free *.city.state.us locality domain (2025)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134665"
+    "fetched_at": "2026-05-14T19:34:56.727367"
   },
   {
     "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
     "url": "https://github.com/cactus-compute/needle",
     "author": "HenryNdubuaku",
     "date": "2026-05-12",
-    "score": 682,
-    "comments": 197,
+    "score": 723,
+    "comments": 206,
     "id": 48111896,
     "discussion_url": "https://news.ycombinator.com/item?id=48111896",
     "description": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
@@ -422,15 +388,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134771"
+    "fetched_at": "2026-05-14T19:34:56.727370"
+  },
+  {
+    "title": "Show HN: Nibble",
+    "url": "https://github.com/glouw/nibble",
+    "author": "glouwbug",
+    "date": "2026-05-14",
+    "score": 91,
+    "comments": 23,
+    "id": 48130186,
+    "discussion_url": "https://news.ycombinator.com/item?id=48130186",
+    "description": "Show HN: Nibble",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-14T19:34:56.727408"
+  },
+  {
+    "title": "Show HN: Running the second public ODoH relay",
+    "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+    "author": "rdme",
+    "date": "2026-05-14",
+    "score": 103,
+    "comments": 35,
+    "id": 48133561,
+    "discussion_url": "https://news.ycombinator.com/item?id=48133561",
+    "description": "Show HN: Running the second public ODoH relay",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-14T19:34:56.727216"
+  },
+  {
+    "title": "Swift bricks to be installed on all new buildings in Scotland",
+    "url": "https://www.theguardian.com/environment/2026/jan/28/swift-bricks-to-be-installed-in-all-new-buildings-in-scotland-after-holyrood-backs-ruling",
+    "author": "bookofjoe",
+    "date": "2026-05-10",
+    "score": 121,
+    "comments": 80,
+    "id": 48079587,
+    "discussion_url": "https://news.ycombinator.com/item?id=48079587",
+    "description": "Swift bricks to be installed on all new buildings in Scotland",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-14T19:34:56.727381"
   },
   {
     "title": "The Emacsification of Software",
     "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
     "author": "rdslw",
     "date": "2026-05-13",
-    "score": 319,
-    "comments": 207,
+    "score": 397,
+    "comments": 256,
     "id": 48118727,
     "discussion_url": "https://news.ycombinator.com/item?id=48118727",
     "description": "The Emacsification of Software",
@@ -439,74 +456,57 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134691"
+    "fetched_at": "2026-05-14T19:34:56.727349"
   },
   {
-    "title": "The US is winning the AI race where it matters most: commercialization",
-    "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-    "author": "akrylov",
-    "date": "2026-05-13",
-    "score": 208,
-    "comments": 565,
-    "id": 48121929,
-    "discussion_url": "https://news.ycombinator.com/item?id=48121929",
-    "description": "The US is winning the AI race where it matters most: commercialization",
+    "title": "The Tree House: A voyage to the source of a backyard dream",
+    "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
+    "author": "Caiero",
+    "date": "2026-05-11",
+    "score": 60,
+    "comments": 10,
+    "id": 48099688,
+    "discussion_url": "https://news.ycombinator.com/item?id=48099688",
+    "description": "The Tree House: A voyage to the source of a backyard dream",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134774"
+    "fetched_at": "2026-05-14T19:34:56.727308"
   },
   {
-    "title": "Twin brothers wipe 96 government databases minutes after being fired",
-    "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-    "author": "jnord",
-    "date": "2026-05-12",
-    "score": 453,
-    "comments": 359,
-    "id": 48115438,
-    "discussion_url": "https://news.ycombinator.com/item?id=48115438",
-    "description": "Twin brothers wipe 96 government databases minutes after being fired",
+    "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
+    "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
+    "author": "littlexsparkee",
+    "date": "2026-05-14",
+    "score": 221,
+    "comments": 144,
+    "id": 48134993,
+    "discussion_url": "https://news.ycombinator.com/item?id=48134993",
+    "description": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134744"
+    "fetched_at": "2026-05-14T19:34:56.727338"
   },
   {
-    "title": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
-    "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-    "author": "sbulaev",
-    "date": "2026-05-12",
-    "score": 159,
-    "comments": 35,
-    "id": 48116064,
-    "discussion_url": "https://news.ycombinator.com/item?id=48116064",
-    "description": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
+    "title": "delta time",
+    "url": "https://www.deltatime.life/",
+    "author": "mxfh",
+    "date": "2026-05-14",
+    "score": 83,
+    "comments": 41,
+    "id": 48129953,
+    "discussion_url": "https://news.ycombinator.com/item?id=48129953",
+    "description": "delta time",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134854"
-  },
-  {
-    "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
-    "url": "https://github.com/nooga/xsofy",
-    "author": "andsoitis",
-    "date": "2026-05-10",
-    "score": 193,
-    "comments": 81,
-    "id": 48080755,
-    "discussion_url": "https://news.ycombinator.com/item?id=48080755",
-    "description": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-14T11:37:03.134714"
+    "fetched_at": "2026-05-14T19:34:56.727428"
   }
 ]
