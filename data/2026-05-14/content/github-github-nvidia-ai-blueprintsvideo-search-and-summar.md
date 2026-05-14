@@ -1,0 +1,434 @@
+---
+title: 'GitHub - NVIDIA-AI-Blueprints/video-search-and-summarization: Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications. · GitHub'
+url: https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization
+site_name: github
+content_file: github-github-nvidia-ai-blueprintsvideo-search-and-summar
+fetched_at: '2026-05-14T11:37:02.784459'
+original_url: https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization
+author: NVIDIA-AI-Blueprints
+description: Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications. - NVIDIA-AI-Blueprints/video-search-and-summarization
+---
+
+NVIDIA-AI-Blueprints
+
+ 
+
+/
+
+video-search-and-summarization
+
+Public
+
+* NotificationsYou must be signed in to change notification settings
+* Fork239
+* Star680
+
+ 
+ 
+ 
+ 
+main
+Branches
+Tags
+Go to file
+Code
+Open more actions menu
+
+## Folders and files
+
+Name
+Name
+Last commit message
+Last commit date
+
+## Latest commit
+
+ 
+
+## History
+
+58 Commits
+58 Commits
+.github
+.github
+ 
+ 
+agent
+agent
+ 
+ 
+assets
+assets
+ 
+ 
+deployments
+deployments
+ 
+ 
+scripts
+scripts
+ 
+ 
+skills
+skills
+ 
+ 
+ui
+ui
+ 
+ 
+.gitattributes
+.gitattributes
+ 
+ 
+.pre-commit-config.yaml
+.pre-commit-config.yaml
+ 
+ 
+CODE_OF_CONDUCT.md
+CODE_OF_CONDUCT.md
+ 
+ 
+CONTRIBUTING.md
+CONTRIBUTING.md
+ 
+ 
+LICENSE
+LICENSE
+ 
+ 
+LICENSE-3rd-party.txt
+LICENSE-3rd-party.txt
+ 
+ 
+LICENSE.DATA
+LICENSE.DATA
+ 
+ 
+README.md
+README.md
+ 
+ 
+SECURITY.md
+SECURITY.md
+ 
+ 
+View all files
+
+## Repository files navigation
+
+## NVIDIA AI Blueprint: Video Search and Summarization (VSS)
+
+### Table of Contents
+
+* Overview
+* Use Case / Problem Description
+* Agent Workflows
+* Software Components
+* Target Audience
+* Repository Structure Overview
+* Documentation
+* Prerequisites
+* Hardware Requirements
+* Quickstart Guide
+* License
+
+## Overview
+
+TheNVIDIA Blueprint for Video Search and Summarization (VSS)provides a suite of reference architectures for building vision agents and AI-powered video analytics applications. Those architectures bring together accelerated vision microservices, vision language models (VLMs), and large language models (LLMs) so you can use them in existing applications, as standalone microservices, or as part of a larger vision agent.
+
+VSS is organized into three areas of processing and analysis:real-time video intelligence(feature extraction, embeddings, and stream understanding with results published to a message broker),downstream analytics(enrichment of metadata into trajectories, incidents, and verified alerts), andagentic and offline processing(orchestrated tools for search, Q&A, summarization, and clip retrieval, including via the Model Context Protocol).
+
+This repository implements the blueprint and powers theNVIDIA build experiencefor natural-language video agents—search, summarization, visual Q&A, and related workflows—backed by generative AI, VLMs and LLMs, andNVIDIA NIMmicroservices as configured in the stacks below.
+
+## Use Case / Problem Description
+
+The NVIDIA AI Blueprint for Video Search and Summarization addresses the challenge of deploying visual agents capable of interacting with large volumes of video data, both stored and streamed. This can be used to create vision AI agents, that can be applied to a multitude of use cases such as monitoring smart spaces, warehouse automation, and SOP validation. This is important where quick and accurate video analysis can lead to better decision-making and enhanced operational efficiency.
+
+## Agent Workflows
+
+We provide multiple referenceAgent Workflowswhich demonstrate how the individual components can be leveraged by an agent:
+
+Workflow
+
+Description
+
+Q&A and Report Generation (Quickstart)
+
+Video retrieval, VLM-based Q&A, and report generation on short video clips
+
+Alert Verification
+
+Realtime processing of videos using perception (object detection, tracking) and behavior analytics to generate alerts, which are subsequently verified with VLM to reduce false positives
+
+Real-Time Alerts
+
+Continuous processing of video streams through VLM for anomaly detection
+
+Video Search
+
+Natural language search across video archives using video embeddings (alpha)
+
+Long Video Summarization
+
+Analysis and summarization of extended video recordings through chunking and aggregation of dense captions
+
+## Software Components
+
+1. NIM microservices: Here are models used in this blueprint:* Cosmos-Reason2-8B
+* NVIDIA Nemotron-Nano-9B-v2
+2. Real-time video intelligence: The Real-Time Video Intelligence layer extracts rich visual features, semantic embeddings, and contextual understanding from video data in real-time, publishing results to a message broker for downstream analytics and agentic workflows. It provides three core microservices for processing video streams.
+3. Downstream analytics: The Downstream Analytics layer processes and enriches the metadata streams generated by real-time video intelligence microservices, transforming raw detections into actionable insights and verified alerts.
+4. Agent and offline processing: The top-level agent leverages the Model Context Protocol (MCP) to access video analytics data, incident records, and vision processing capabilities through a unified tool interface. It integrates multiple vision-based tools including video understanding with Vision Language Models (VLMs), semantic video search using embeddings, long video summarization for extended footage analysis, and video snapshot/clip retrieval.
+
+## Target Audience
+
+This blueprint is designed for ease of setup with extensive configuration options, requiring technical expertise. It is intended for:
+
+1. Video Analysts and IT Engineers:Professionals focused on analyzing video data and ensuring efficient processing and summarization. The blueprint offers 1-click deployment steps, easy-to-manage configurations, and plug-and-play models, making it accessible for early developers.
+2. GenAI Developers / Machine Learning Engineers:Experts who need to customize the blueprint for specific use cases. This includes modifying the pipelines for unique datasets and fine-tuning LLMs as needed. For advanced users, the blueprint provides detailed configuration options and custom deployment possibilities, enabling extensive customization and optimization.
+
+## Repository Structure Overview
+
+Directory
+
+Description
+
+agent/
+
+Video search and summarization agent (Python). Contains 
+src/vss_agents/
+ (tools, agents, APIs, embeddings, evaluators, video analytics), 
+tests/
+, 
+stubs/
+, 
+docker/
+, and 
+3rdparty/
+. See 
+agent/README.md
+.
+
+deployments/
+
+Deployment configs and Docker Compose: NIM model configs (
+nim/
+), developer workflows (
+developer-workflow/
+ — dev-profile-base, dev-profile-search, dev-profile-alerts, dev-profile-lvs), foundational services, LVS, RTVI, VLM-as-verifier, VST, and root 
+compose.yml
+.
+
+scripts/
+
+Deployment and patch scripts, including the Brev launchable notebook (
+deploy_vss_launchable.ipynb
+) and dev-profile / patch scripts.
+
+skills/
+
+agentskills.io
+-compatible agent skills for VSS: one self-contained subdirectory per skill with 
+SKILL.md
+ frontmatter. Covers deploy and usage of search, summarization, alerts, VIOS, RT-VLM, LVS, and other related workflows—see the catalog and install notes in 
+skills/README.md
+.
+
+ui/
+
+Frontend monorepo (Next.js, Turbo): 
+apps/
+ (nemo-agent-toolkit-ui, nv-metropolis-bp-vss-ui) and shared 
+packages/
+. See 
+ui/README.md
+.
+
+## Documentation
+
+For detailed instructions and additional information about this blueprint, please refer to theofficial documentation.
+
+## Prerequisites
+
+### Obtain API Key
+
+* NVIDIA AI Enterprise developer licence required to local host NVIDIA NIM.
+* API catalog keys:NVIDIAAPI catalogorNGC(steps to generate key)
+* NVIDIAAPI catalogorNGC(steps to generate key)
+
+## Hardware Requirements
+
+The platform requirement can vary depending on the configuration and deployment topology used for VSS and dependencies like VLM, LLM, etc. For a list of validated GPU topologies and what configuration to use, see theGPU requirements.
+
+## Quickstart Guide
+
+### Launchable Deployment
+
+Ideal for:Quickly getting started with your own videos without worrying about hardware and software requirements.
+
+Follow the steps from thedocumentationand notebook inscriptsdirectory to complete all pre-requisites and deploy the blueprint using Brev Launchable in a 2xRTX PRO 6000 SE AWS instance.
+
+* scripts/deploy_vss_launchable.ipynb: This notebook is tailored specifically for the AWS CSP which uses Ephemeral storage.
+
+### Docker Compose Deployment
+
+Ideal for:Deploying a VSS agent on your own hardware or bare metal cloud instance.
+
+#### System Requirements
+
+* OS:x86 hosts: Ubuntu 22.04 or Ubuntu 24.04DGX-SPARK: DGX OS 7.4.0IGX-THOR: Jetson Linux BSP (Rel 38.5)AGX-THOR: Jetson Linux BSP (Rel 38.4)
+* x86 hosts: Ubuntu 22.04 or Ubuntu 24.04
+* DGX-SPARK: DGX OS 7.4.0
+* IGX-THOR: Jetson Linux BSP (Rel 38.5)
+* AGX-THOR: Jetson Linux BSP (Rel 38.4)
+* NVIDIA Driver:580.105.08 (x86 hosts with Ubuntu 24.04)580.65.06 (x86 hosts with Ubuntu 22.04)580.95.05 (DGX-SPARK)580.00 (IGX-THOR and AGX-THOR)
+* 580.105.08 (x86 hosts with Ubuntu 24.04)
+* 580.65.06 (x86 hosts with Ubuntu 22.04)
+* 580.95.05 (DGX-SPARK)
+* 580.00 (IGX-THOR and AGX-THOR)
+* NVIDIA Container Toolkit: 1.17.8+
+* Docker: 27.2.0+
+* Docker Compose: v2.29.0+
+* NGC CLI: 4.10.0+
+
+Please refer toPrerequisites section here for installation details.
+
+## License
+
+Refer toLICENSE
+
+## About
+
+Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
+
+build.nvidia.com/nvidia/video-search-and-summarization
+
+### Topics
+
+ skills
+
+ agents
+
+ vlm
+
+ video-search
+
+ video-analytics
+
+ rag
+
+ llm
+
+### Resources
+
+ Readme
+
+ 
+
+### License
+
+ Unknown, Unknown licenses found
+ 
+
+### Licenses found
+
+Unknown
+
+LICENSE
+
+ 
+
+Unknown
+
+LICENSE.DATA
+
+ 
+
+### Code of conduct
+
+ Code of conduct
+ 
+
+### Contributing
+
+ Contributing
+ 
+
+### Security policy
+
+ Security policy
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+Activity
+ 
+
+Custom properties
+ 
+
+### Stars
+
+680
+
+ stars
+ 
+
+### Watchers
+
+18
+
+ watching
+ 
+
+### Forks
+
+239
+
+ forks
+ 
+
+ Report repository
+
+ 
+
+## Releases6
+
+VSS 3.1.0
+
+ Latest
+
+ 
+
+Mar 18, 2026
+
+ 
+
++ 5 releases
+
+## Contributors
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Languages
+
+* Python57.2%
+* TypeScript35.5%
+* Shell3.3%
+* Jupyter Notebook1.6%
+* JavaScript1.3%
+* Dockerfile0.6%
+* Other0.5%
