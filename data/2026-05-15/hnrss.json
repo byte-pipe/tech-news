@@ -1,137 +1,227 @@
 [
   {
-    "title": "A message from President Kornbluth about funding and the talent pipeline",
-    "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-    "description": "A message from President Kornbluth about funding and the talent pipeline",
-    "date": "2026-05-14",
-    "score": 506,
-    "comments": 527,
-    "discussion_url": "https://news.ycombinator.com/item?id=48136262",
+    "title": "A 0-click exploit chain for the Pixel 10",
+    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+    "description": "A 0-click exploit chain for the Pixel 10",
+    "date": "2026-05-15",
+    "score": 248,
+    "comments": 103,
+    "discussion_url": "https://news.ycombinator.com/item?id=48148460",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-15T06:00:36.432359"
+    "fetched_at": "2026-05-15T19:34:07.980519"
   },
   {
-    "title": "AI is making me dumb",
-    "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-    "description": "AI is making me dumb",
+    "title": "A few words on DS4",
+    "url": "https://antirez.com/news/165",
+    "description": "A few words on DS4",
     "date": "2026-05-14",
-    "score": 217,
-    "comments": 144,
-    "discussion_url": "https://news.ycombinator.com/item?id=48139148",
+    "score": 402,
+    "comments": 169,
+    "discussion_url": "https://news.ycombinator.com/item?id=48142108",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-15T06:00:36.432256"
+    "fetched_at": "2026-05-15T19:34:07.980611"
   },
   {
-    "title": "Computer Hobby Movement in Canada",
-    "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
-    "description": "Computer Hobby Movement in Canada",
-    "date": "2026-05-14",
-    "score": 154,
-    "comments": 45,
-    "discussion_url": "https://news.ycombinator.com/item?id=48134743",
+    "title": "A new book on Steve Jobs at NeXT",
+    "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
+    "description": "A new book on Steve Jobs at NeXT",
+    "date": "2026-05-15",
+    "score": 133,
+    "comments": 116,
+    "discussion_url": "https://news.ycombinator.com/item?id=48146908",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-15T06:00:36.432378"
+    "fetched_at": "2026-05-15T19:34:07.980576"
   },
   {
-    "title": "Leaving the Physical World",
-    "url": "https://www.eff.org/pages/leaving-physical-world",
-    "description": "Leaving the Physical World",
-    "date": "2026-05-10",
-    "score": 167,
-    "comments": 78,
-    "discussion_url": "https://news.ycombinator.com/item?id=48084012",
+    "title": "ASCII by Jason Scott",
+    "url": "https://ascii.textfiles.com/",
+    "description": "ASCII by Jason Scott",
+    "date": "2026-05-15",
+    "score": 110,
+    "comments": 19,
+    "discussion_url": "https://news.ycombinator.com/item?id=48148726",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-15T06:00:36.432435"
+    "fetched_at": "2026-05-15T19:34:07.980508"
+  },
+  {
+    "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+    "description": "Amazon workers under pressure to up their AI usage are making up tasks",
+    "date": "2026-05-15",
+    "score": 252,
+    "comments": 247,
+    "discussion_url": "https://news.ycombinator.com/item?id=48148337",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-15T19:34:07.980532"
+  },
+  {
+    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+    "url": "https://github.com/oven-sh/bun/issues/30719",
+    "description": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+    "date": "2026-05-15",
+    "score": 209,
+    "comments": 131,
+    "discussion_url": "https://news.ycombinator.com/item?id=48150900",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-15T19:34:07.980482"
+  },
+  {
+    "title": "Codex is now in the ChatGPT mobile app",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+    "description": "Codex is now in the ChatGPT mobile app",
+    "date": "2026-05-14",
+    "score": 451,
+    "comments": 227,
+    "discussion_url": "https://news.ycombinator.com/item?id=48140529",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-15T19:34:07.980622"
+  },
+  {
+    "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+    "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+    "description": "Details of the Daring Airdrop at Tristan Da Cunha",
+    "date": "2026-05-15",
+    "score": 241,
+    "comments": 90,
+    "discussion_url": "https://news.ycombinator.com/item?id=48144380",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-15T19:34:07.980600"
+  },
+  {
+    "title": "Explore Wikipedia Like a Windows XP Desktop",
+    "url": "https://explorer.samismith.com/",
+    "description": "Explore Wikipedia Like a Windows XP Desktop",
+    "date": "2026-05-15",
+    "score": 416,
+    "comments": 104,
+    "discussion_url": "https://news.ycombinator.com/item?id=48146129",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-15T19:34:07.980589"
+  },
+  {
+    "title": "First public macOS kernel memory corruption exploit on Apple M5",
+    "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+    "description": "First public macOS kernel memory corruption exploit on Apple M5",
+    "date": "2026-05-14",
+    "score": 428,
+    "comments": 120,
+    "discussion_url": "https://news.ycombinator.com/item?id=48139219",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-15T19:34:07.980633"
   },
   {
     "title": "New Nginx Exploit",
     "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
     "description": "New Nginx Exploit",
     "date": "2026-05-14",
-    "score": 152,
-    "comments": 37,
+    "score": 427,
+    "comments": 97,
     "discussion_url": "https://news.ycombinator.com/item?id=48138268",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-15T06:00:36.432297"
+    "fetched_at": "2026-05-15T19:34:07.980644"
   },
   {
-    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "description": "RTX 5090 and M4 MacBook Air: Can It Game?",
-    "date": "2026-05-14",
-    "score": 339,
-    "comments": 87,
-    "discussion_url": "https://news.ycombinator.com/item?id=48137145",
+    "title": "O(x)Caml in Space",
+    "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+    "description": "O(x)Caml in Space",
+    "date": "2026-05-15",
+    "score": 201,
+    "comments": 49,
+    "discussion_url": "https://news.ycombinator.com/item?id=48147058",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-15T06:00:36.432340"
+    "fetched_at": "2026-05-15T19:34:07.980563"
   },
   {
-    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-    "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-    "description": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-    "date": "2026-05-14",
-    "score": 272,
-    "comments": 123,
-    "discussion_url": "https://news.ycombinator.com/item?id=48138136",
+    "title": "Project Gutenberg – keeps getting better",
+    "url": "https://www.gutenberg.org/",
+    "description": "Project Gutenberg – keeps getting better",
+    "date": "2026-05-15",
+    "score": 390,
+    "comments": 120,
+    "discussion_url": "https://news.ycombinator.com/item?id=48150431",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-15T06:00:36.432321"
+    "fetched_at": "2026-05-15T19:34:07.980496"
   },
   {
-    "title": "Rewrite Bun in Rust has been merged",
-    "url": "https://github.com/oven-sh/bun/pull/30412",
-    "description": "Rewrite Bun in Rust has been merged",
-    "date": "2026-05-14",
-    "score": 310,
-    "comments": 367,
-    "discussion_url": "https://news.ycombinator.com/item?id=48132488",
+    "title": "Radicle: Sovereign {code forge} built on Git",
+    "url": "https://radicle.dev/",
+    "description": "Radicle: Sovereign {code forge} built on Git",
+    "date": "2026-05-15",
+    "score": 173,
+    "comments": 45,
+    "discussion_url": "https://news.ycombinator.com/item?id=48147603",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-15T06:00:36.432418"
+    "fetched_at": "2026-05-15T19:34:07.980543"
   },
   {
-    "title": "Show HN: Running the second public ODoH relay",
-    "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
-    "description": "Show HN: Running the second public ODoH relay",
-    "date": "2026-05-14",
-    "score": 103,
-    "comments": 36,
-    "discussion_url": "https://news.ycombinator.com/item?id=48133561",
+    "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+    "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+    "description": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+    "date": "2026-05-15",
+    "score": 162,
+    "comments": 83,
+    "discussion_url": "https://news.ycombinator.com/item?id=48151383",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-15T06:00:36.432399"
+    "fetched_at": "2026-05-15T19:34:07.980459"
   }
 ]
