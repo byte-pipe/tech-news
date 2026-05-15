@@ -140,16 +140,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agentforce Contact Center Now Offers WhatsApp Voice (4 minute read)",
-    "url": "https://www.salesforce.com/blog/agentforce-contact-center-whatsapp-voice/",
-    "description": "Agentforce Contact Center Now Offers WhatsApp Voice (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "Agentic Design System - From Chatbot to Orchestration (11 minute read)",
     "url": "https://learn.thedesignsystem.guide/p/agentic-design-system-from-chatbot",
     "description": "Agentic Design System - From Chatbot to Orchestration (11 minute read)",
@@ -193,6 +183,16 @@
     "title": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot (6 minute read)",
     "url": "https://www.cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html",
     "description": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Amazon employees are “tokenmaxxing” due to pressure to use AI tools (3 minute read)",
+    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+    "description": "Amazon employees are “tokenmaxxing” due to pressure to use AI tools (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -290,16 +290,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Bitcoin miner MARA sold $1.5 billion of bitcoin; shift toward AI infra (2 minute read)",
-    "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-miner-mara-sold-usd1-5-billion-of-bitcoin-as-it-shifts-toward-ai-infrastructure",
-    "description": "Bitcoin miner MARA sold $1.5 billion of bitcoin; shift toward AI infra (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "Building Self-Repairing Agent Loops (39 minute read)",
     "url": "https://developers.openai.com/cookbook/examples/codex/build_iterative_repair_loops_with_codex",
     "description": "Building Self-Repairing Agent Loops (39 minute read)",
@@ -370,6 +360,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "CloakBrowser (GitHub Repo)",
+    "url": "https://github.com/CloakHQ/CloakBrowser",
+    "description": "CloakBrowser (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Codebuff (GitHub Repo)",
+    "url": "https://github.com/CodebuffAI/codebuff",
+    "description": "Codebuff (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "Crypto Funds Extend Six-Week Inflow Streak to $4.9B (4 minute read)",
     "url": "https://cointelegraph.com/news/crypto-funds-six-week-inflow-streak-4-9-billion-coinshares",
     "description": "Crypto Funds Extend Six-Week Inflow Streak to $4.9B (4 minute read)",
@@ -433,6 +443,16 @@
     "title": "Evaluate, optimize, and secure your Google Cloud AI stack with Datadog (5 minute read)",
     "url": "https://main.d2372vaejiu5h9.amplifyapp.com/blog/datadog-google-cloud-ai-stack/",
     "description": "Evaluate, optimize, and secure your Google Cloud AI stack with Datadog (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Exaforce (Product Launch)",
+    "url": "https://www.exaforce.ai",
+    "description": "Exaforce (Product Launch)",
     "tags": [
       "tldr"
     ],
@@ -780,6 +800,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "JPMorgan Launches Second Tokenized Money Market Fund on Ethereum (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2054305703272103977.html",
+    "description": "JPMorgan Launches Second Tokenized Money Market Fund on Ethereum (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework (7 minute read)",
     "url": "https://llm-as-a-verifier.notion.site/",
     "description": "LLM-as-a-Verifier: A General-Purpose Verification Framework (7 minute read)",
@@ -833,16 +863,6 @@
     "title": "Localmaxxing (3 minute read)",
     "url": "https://tomtunguz.com/localmaxxing/",
     "description": "Localmaxxing (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub (3 minute read)",
-    "url": "https://www.theregister.com/security/2026/05/13/malware-crew-teampcp-open-sources-its-shai-hulud-worm-on-github/5239319",
-    "description": "Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -923,16 +943,6 @@
     "title": "Over 500 Organizations Hit in Years-Long Phishing Campaign (3 minute read)",
     "url": "https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/",
     "description": "Over 500 Organizations Hit in Years-Long Phishing Campaign (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "PayPal and Google Cloud: Agentic Commerce Will Run on Crypto Rails (4 minute read)",
-    "url": "https://www.coindesk.com/business/2026/05/10/agentic-commerce-will-run-on-crypto-rails-paypal-and-google-reps-tell-consensus-miami",
-    "description": "PayPal and Google Cloud: Agentic Commerce Will Run on Crypto Rails (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1030,16 +1040,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ronin Migrates to L2 on with Major Tokenomic Reset (3 minute read)",
-    "url": "https://decrypt.co/365131/axie-infinity-gaming-network-ronin-ethereum-layer-2-migration",
-    "description": "Ronin Migrates to L2 on with Major Tokenomic Reset (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "RubyGems.org temporarily disables new user registrations (1 minute read)",
     "url": "https://status.rubygems.org/incidents/cytf062tkwtt",
     "description": "RubyGems.org temporarily disables new user registrations (1 minute read)",
@@ -1070,9 +1070,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Senate Unveils Crypto Market Structure Bill Ahead of Vote (5 minute read)",
-    "url": "https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing",
-    "description": "Senate Unveils Crypto Market Structure Bill Ahead of Vote (5 minute read)",
+    "title": "Slash Launches USD Virtual Cards for Non-US Businesses (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2054246022243873226.html",
+    "description": "Slash Launches USD Virtual Cards for Non-US Businesses (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1120,16 +1120,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Square adds drive-thru to the menu to help quick-service restaurants improve speed and efficiency (4 minute read)",
-    "url": "https://squareup.com/us/en/press/square-for-drive-thru",
-    "description": "Square adds drive-thru to the menu to help quick-service restaurants improve speed and efficiency (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "Strong views on PostgreSQL VIEWs (19 minute read)",
     "url": "https://boringsql.com/posts/strong-views/",
     "description": "Strong views on PostgreSQL VIEWs (19 minute read)",
@@ -1153,26 +1143,6 @@
     "title": "Tesla's mysterious new logo design has sparked some surprising theories (4 minute read)",
     "url": "https://www.creativebloq.com/design/logos-icons/teslas-new-logo-sparks-wild-speculation",
     "description": "Tesla's mysterious new logo design has sparked some surprising theories (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Tether Grants for Local-First AI and Payments Infrastructure (1 minute read)",
-    "url": "https://threadreaderapp.com/thread/2053807840955977749.html",
-    "description": "Tether Grants for Local-First AI and Payments Infrastructure (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Tether launches developer grants program for local-first AI and payments infrastructure (4 minute read)",
-    "url": "https://cryptobriefing.com/tether-developer-grants-local-ai-payments/",
-    "description": "Tether launches developer grants program for local-first AI and payments infrastructure (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1310,6 +1280,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "VanGuard (GitHub Repo)",
+    "url": "https://github.com/ridgelinecyberdefence/vanguard",
+    "description": "VanGuard (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "Vitalik Signals ZK Payments as the Next Standard for the Agent Era (2 minute read)",
     "url": "https://threadreaderapp.com/thread/2053233554927063357.html",
     "description": "Vitalik Signals ZK Payments as the Next Standard for the Agent Era (2 minute read)",
@@ -1323,6 +1303,16 @@
     "title": "We Ran 250 AI Agent Evals to Find Out if Skills Beat Docs. The Answer Is More Complicated Than We Expected (6 minute read)",
     "url": "https://www.wix.engineering/post/we-ran-250-ai-agent-evals-to-find-out-if-skills-beat-docs-the-answer-is-more-complicated-than-we-ex",
     "description": "We Ran 250 AI Agent Evals to Find Out if Skills Beat Docs. The Answer Is More Complicated Than We Expected (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "We Tested DeepSeek V4 Pro and Flash Against Claude Opus 4.7 and Kimi K2.6 (11 minute read)",
+    "url": "https://blog.kilo.ai/p/we-tested-deepseek-v4-pro-and-flash",
+    "description": "We Tested DeepSeek V4 Pro and Flash Against Claude Opus 4.7 and Kimi K2.6 (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1483,16 +1473,6 @@
     "title": "iOS 26 adds fun way to customize your iPhone wallpaper, here's how to use it (2 minute read)",
     "url": "https://9to5mac.com/2026/05/08/ios-26-adds-fun-way-to-customize-your-iphone-wallpaper-heres-how-to-use-it/",
     "description": "iOS 26 adds fun way to customize your iPhone wallpaper, here's how to use it (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "“Full-stack AI” sounds appealing, but the IT reality is more complex (7 minute read)",
-    "url": "https://www.techzine.eu/blogs/infrastructure/141111/full-stack-ai-sounds-appealing-but-the-reality-of-it-environments-is-more-complex/",
-    "description": "“Full-stack AI” sounds appealing, but the IT reality is more complex (7 minute read)",
     "tags": [
       "tldr"
     ],
