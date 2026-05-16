@@ -4,209 +4,254 @@
     "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
     "description": "A 0-click exploit chain for the Pixel 10",
     "date": "2026-05-15",
-    "score": 256,
-    "comments": 105,
+    "score": 388,
+    "comments": 207,
     "discussion_url": "https://news.ycombinator.com/item?id=48148460",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308168"
+    "fetched_at": "2026-05-16T11:25:12.388858"
   },
   {
-    "title": "A few words on DS4",
-    "url": "https://antirez.com/news/165",
-    "description": "A few words on DS4",
+    "title": "Additive Blending on the Nintendo 64",
+    "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+    "description": "Additive Blending on the Nintendo 64",
+    "date": "2026-05-15",
+    "score": 121,
+    "comments": 11,
+    "discussion_url": "https://news.ycombinator.com/item?id=48149259",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-16T11:25:12.388847"
+  },
+  {
+    "title": "Bill to block publishers from killing online games advances in California",
+    "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+    "description": "Bill to block publishers from killing online games advances in California",
+    "date": "2026-05-15",
+    "score": 497,
+    "comments": 322,
+    "discussion_url": "https://news.ycombinator.com/item?id=48152994",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-16T11:25:12.388794"
+  },
+  {
+    "title": "Frontier AI has broken the open CTF format",
+    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "description": "Frontier AI has broken the open CTF format",
+    "date": "2026-05-16",
+    "score": 159,
+    "comments": 136,
+    "discussion_url": "https://news.ycombinator.com/item?id=48157559",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-16T11:25:12.388713"
+  },
+  {
+    "title": "How to Write to SSDs [pdf]",
+    "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+    "description": "How to Write to SSDs [pdf]",
+    "date": "2026-05-15",
+    "score": 123,
+    "comments": 16,
+    "discussion_url": "https://news.ycombinator.com/item?id=48154711",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-16T11:25:12.388771"
+  },
+  {
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "description": "I believe there are entire companies right now under AI psychosis",
+    "date": "2026-05-15",
+    "score": 1421,
+    "comments": 719,
+    "discussion_url": "https://news.ycombinator.com/item?id=48153379",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-16T11:25:12.388783"
+  },
+  {
+    "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+    "url": "https://github.com/gdevic/FPGA-Calculator",
+    "description": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+    "date": "2026-05-15",
+    "score": 105,
+    "comments": 34,
+    "discussion_url": "https://news.ycombinator.com/item?id=48151237",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-16T11:25:12.388814"
+  },
+  {
+    "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+    "url": "https://github.com/neilsonnn/image-blaster",
+    "description": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+    "date": "2026-05-15",
+    "score": 164,
+    "comments": 32,
+    "discussion_url": "https://news.ycombinator.com/item?id=48150069",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-16T11:25:12.388837"
+  },
+  {
+    "title": "Naturally Occurring Quasicrystals",
+    "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+    "description": "Naturally Occurring Quasicrystals",
     "date": "2026-05-14",
-    "score": 409,
-    "comments": 171,
-    "discussion_url": "https://news.ycombinator.com/item?id=48142108",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308284"
-  },
-  {
-    "title": "A new book on Steve Jobs at NeXT",
-    "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
-    "description": "A new book on Steve Jobs at NeXT",
-    "date": "2026-05-15",
-    "score": 141,
-    "comments": 123,
-    "discussion_url": "https://news.ycombinator.com/item?id=48146908",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308227"
-  },
-  {
-    "title": "ASCII by Jason Scott",
-    "url": "https://ascii.textfiles.com/",
-    "description": "ASCII by Jason Scott",
-    "date": "2026-05-15",
-    "score": 112,
-    "comments": 19,
-    "discussion_url": "https://news.ycombinator.com/item?id=48148726",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308153"
-  },
-  {
-    "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-    "description": "Amazon workers under pressure to up their AI usage are making up tasks",
-    "date": "2026-05-15",
-    "score": 266,
-    "comments": 262,
-    "discussion_url": "https://news.ycombinator.com/item?id=48148337",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308184"
-  },
-  {
-    "title": "Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
-    "url": "https://news.ycombinator.com/item?id=48145524",
-    "description": "Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
-    "date": "2026-05-15",
     "score": 103,
-    "comments": 92,
-    "discussion_url": "https://news.ycombinator.com/item?id=48145524",
+    "comments": 9,
+    "discussion_url": "https://news.ycombinator.com/item?id=48136000",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308256"
+    "fetched_at": "2026-05-16T11:25:12.388889"
   },
   {
-    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-    "url": "https://github.com/oven-sh/bun/issues/30719",
-    "description": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+    "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+    "url": "https://github.com/chiennv2000/orthrus",
+    "description": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
     "date": "2026-05-15",
-    "score": 259,
-    "comments": 166,
-    "discussion_url": "https://news.ycombinator.com/item?id=48150900",
+    "score": 107,
+    "comments": 15,
+    "discussion_url": "https://news.ycombinator.com/item?id=48154865",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308118"
+    "fetched_at": "2026-05-16T11:25:12.388761"
   },
   {
-    "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-    "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-    "description": "Details of the Daring Airdrop at Tristan Da Cunha",
-    "date": "2026-05-15",
-    "score": 244,
-    "comments": 91,
-    "discussion_url": "https://news.ycombinator.com/item?id=48144380",
+    "title": "Ploopy Bean: a trackpoint for every computer",
+    "url": "https://ploopy.co/shop/bean-pointing-stick/",
+    "description": "Ploopy Bean: a trackpoint for every computer",
+    "date": "2026-05-12",
+    "score": 102,
+    "comments": 46,
+    "discussion_url": "https://news.ycombinator.com/item?id=48114208",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308270"
-  },
-  {
-    "title": "Explore Wikipedia Like a Windows XP Desktop",
-    "url": "https://explorer.samismith.com/",
-    "description": "Explore Wikipedia Like a Windows XP Desktop",
-    "date": "2026-05-15",
-    "score": 427,
-    "comments": 104,
-    "discussion_url": "https://news.ycombinator.com/item?id=48146129",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308242"
-  },
-  {
-    "title": "First public macOS kernel memory corruption exploit on Apple M5",
-    "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-    "description": "First public macOS kernel memory corruption exploit on Apple M5",
-    "date": "2026-05-14",
-    "score": 434,
-    "comments": 122,
-    "discussion_url": "https://news.ycombinator.com/item?id=48139219",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308298"
-  },
-  {
-    "title": "O(x)Caml in Space",
-    "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-    "description": "O(x)Caml in Space",
-    "date": "2026-05-15",
-    "score": 207,
-    "comments": 49,
-    "discussion_url": "https://news.ycombinator.com/item?id=48147058",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308213"
+    "fetched_at": "2026-05-16T11:25:12.388909"
   },
   {
     "title": "Project Gutenberg – keeps getting better",
     "url": "https://www.gutenberg.org/",
     "description": "Project Gutenberg – keeps getting better",
     "date": "2026-05-15",
-    "score": 436,
-    "comments": 126,
+    "score": 968,
+    "comments": 202,
     "discussion_url": "https://news.ycombinator.com/item?id=48150431",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308137"
+    "fetched_at": "2026-05-16T11:25:12.388826"
   },
   {
-    "title": "Radicle: Sovereign {code forge} built on Git",
-    "url": "https://radicle.dev/",
-    "description": "Radicle: Sovereign {code forge} built on Git",
+    "title": "SQL patterns I use to catch transaction fraud",
+    "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+    "description": "SQL patterns I use to catch transaction fraud",
     "date": "2026-05-15",
-    "score": 177,
-    "comments": 49,
-    "discussion_url": "https://news.ycombinator.com/item?id=48147603",
+    "score": 253,
+    "comments": 84,
+    "discussion_url": "https://news.ycombinator.com/item?id=48155212",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308198"
+    "fetched_at": "2026-05-16T11:25:12.388749"
   },
   {
-    "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-    "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-    "description": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-    "date": "2026-05-15",
-    "score": 191,
-    "comments": 105,
-    "discussion_url": "https://news.ycombinator.com/item?id=48151383",
+    "title": "Show HN: Watch a neural net learn to play Snake",
+    "url": "https://ppo.gradexp.xyz/",
+    "description": "Show HN: Watch a neural net learn to play Snake",
+    "date": "2026-05-14",
+    "score": 165,
+    "comments": 38,
+    "discussion_url": "https://news.ycombinator.com/item?id=48136981",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T06:00:39.308084"
+    "fetched_at": "2026-05-16T11:25:12.388878"
+  },
+  {
+    "title": "The bird eye was pushed to an evolutionary extreme",
+    "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+    "description": "The bird eye was pushed to an evolutionary extreme",
+    "date": "2026-05-14",
+    "score": 127,
+    "comments": 47,
+    "discussion_url": "https://news.ycombinator.com/item?id=48132106",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-16T11:25:12.388899"
+  },
+  {
+    "title": "The main thing about P2P meth is that there's so much of it (2021)",
+    "url": "https://dynomight.net/p2p-meth/",
+    "description": "The main thing about P2P meth is that there's so much of it (2021)",
+    "date": "2026-05-15",
+    "score": 132,
+    "comments": 158,
+    "discussion_url": "https://news.ycombinator.com/item?id=48155324",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-16T11:25:12.388736"
+  },
+  {
+    "title": "The sigmoids won't save you",
+    "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+    "description": "The sigmoids won't save you",
+    "date": "2026-05-15",
+    "score": 214,
+    "comments": 212,
+    "discussion_url": "https://news.ycombinator.com/item?id=48147021",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-16T11:25:12.388868"
   }
 ]

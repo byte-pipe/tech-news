@@ -1,0 +1,1784 @@
+---
+title: 'GitHub - pranshuparmar/witr: Why is this running? · GitHub'
+url: https://github.com/pranshuparmar/witr
+site_name: github
+content_file: github-github-pranshuparmarwitr-why-is-this-running-githu
+fetched_at: '2026-05-16T11:25:02.846028'
+original_url: https://github.com/pranshuparmar/witr
+author: pranshuparmar
+description: Why is this running? Contribute to pranshuparmar/witr development by creating an account on GitHub.
+---
+
+pranshuparmar
+
+ 
+
+/
+
+witr
+
+Public
+
+* ### Uh oh!There was an error while loading.Please reload this page.
+* NotificationsYou must be signed in to change notification settings
+* Fork499
+* Star16.5k
+
+ 
+ 
+ 
+ 
+main
+Branches
+Tags
+Go to file
+Code
+Open more actions menu
+
+## Folders and files
+
+Name
+Name
+Last commit message
+Last commit date
+
+## Latest commit
+
+ 
+
+## History
+
+464 Commits
+464 Commits
+.agent/
+workflows
+.agent/
+workflows
+ 
+ 
+.github
+.github
+ 
+ 
+cmd/
+witr
+cmd/
+witr
+ 
+ 
+docs/
+cli
+docs/
+cli
+ 
+ 
+internal
+internal
+ 
+ 
+pkg/
+model
+pkg/
+model
+ 
+ 
+vendor
+vendor
+ 
+ 
+.gitignore
+.gitignore
+ 
+ 
+.goreleaser.yml
+.goreleaser.yml
+ 
+ 
+CODE_OF_CONDUCT.md
+CODE_OF_CONDUCT.md
+ 
+ 
+CONTRIBUTING.md
+CONTRIBUTING.md
+ 
+ 
+LICENSE
+LICENSE
+ 
+ 
+Makefile
+Makefile
+ 
+ 
+README.md
+README.md
+ 
+ 
+SECURITY.md
+SECURITY.md
+ 
+ 
+VERSION
+VERSION
+ 
+ 
+flake.lock
+flake.lock
+ 
+ 
+flake.nix
+flake.nix
+ 
+ 
+go.mod
+go.mod
+ 
+ 
+go.sum
+go.sum
+ 
+ 
+install.ps1
+install.ps1
+ 
+ 
+install.sh
+install.sh
+ 
+ 
+main.go
+main.go
+ 
+ 
+View all files
+
+## Repository files navigation
+
+# witr
+
+### Why is this running?
+
+withInteractive TUI Mode✨
+
+ 
+ 
+ 
+ 
+
+ 
+
+📖 Read thestorybehind witr
+
+Purpose•Installation• ✨TUI•Flags•Examples•PlatformsGoals•Core Concept•Output Behavior•Success Criteria•Sponsors
+
+## 1. Purpose
+
+witrexists to answer a single question:
+
+Why is this running?
+
+When something is running on a system, whether it is a process, a service, or something bound to a port, there is always a cause. That cause is often indirect, non-obvious, or spread across multiple layers such as supervisors, containers, services, or shells.
+
+Existing tools (ps,top,lsof,ss,systemctl,docker ps) expose state and metadata. They showwhatis running, but leave the user to inferwhyby manually correlating outputs across tools.
+
+witrmakes that causality explicit.
+
+It explainswhere a running thing came from,how it was started, andwhat chain of systems is responsible for it existing right now, in a single, human-readable output or aninteractive TUI dashboard.
+
+## 2. Installation
+
+witr is distributed as a single static binary for Linux, macOS, FreeBSD, and Windows.
+
+witr is also independently packaged and maintained across multiple operating systems and ecosystems. An up-to-date overview of packaging status is available onRepology. Please note that community packages may lag GitHub releases due to independent review and validation.
+
+Tip
+
+If you use a package manager (Homebrew, Conda, Winget, etc.), we recommend installing via that for easier updates. Otherwise, the install script is the quickest way to get started.
+
+### 2.1 Quick Install
+
+#### Unix (Linux, macOS & FreeBSD)
+
+curl -fsSL https://raw.githubusercontent.com/pranshuparmar/witr/main/install.sh 
+|
+ bash
+
+Script Details
+
+The script will:
+
+* Detect your operating system (linux,darwinorfreebsd)
+* Detect your CPU architecture (amd64orarm64)
+* Download the latest released binary and man page
+* Install it to/usr/local/bin/witr
+* Install the man page to/usr/local/share/man/man1/witr.1
+* Pass INSTALL_PREFIX to override default install path
+
+#### Windows (PowerShell)
+
+irm https:
+//
+raw.githubusercontent.com
+/
+pranshuparmar
+/
+witr
+/
+main
+/
+install.ps1 
+|
+ iex
+
+Script Details
+
+The script will:
+
+* Download the latest release (zip) and verify checksum.
+* Extractwitr.exeto%LocalAppData%\witr\bin.
+* Add the bin directory to your UserPATH.
+
+### 2.2 Package Managers
+
+Homebrew (macOS & Linux)
+ 
+
+You can installwitrusingHomebrewon macOS or Linux:
+
+brew install witr
+
+Conda (macOS, Linux & Windows)
+ 
+
+You can installwitrusingconda,mamba, orpixion macOS, Linux, and Windows:
+
+conda install -c conda-forge witr
+
+#
+ alternatively using mamba
+
+mamba install -c conda-forge witr
+
+#
+ alternatively using pixi
+
+pixi global install witr
+
+Arch Linux (AUR)
+ 
+
+On Arch Linux and derivatives, install from theAUR package:
+
+yay -S witr-bin
+
+#
+ alternatively using paru
+
+paru -S witr-bin
+
+#
+ or use your preferred AUR helper
+
+Winget (Windows)
+ 
+
+You can installwitrviawinget:
+
+winget install 
+-
+e 
+--
+id PranshuParmar.witr
+
+NPM (Cross-platform)
+ 
+
+You can installwitrusingnpm:
+
+npm install -g @pranshuparmar/witr
+
+FreeBSD Ports
+ 
+
+You can installwitron FreeBSD from theFreshPorts port:
+
+pkg install witr
+
+#
+ or
+
+pkg install sysutils/witr
+
+Or build from Ports:
+
+cd
+ /usr/ports/sysutils/witr/
+make install clean
+
+Chocolatey (Windows)
+ 
+
+You can installwitrusingChocolatey:
+
+choco install witr
+
+Scoop (Windows)
+ 
+
+You can installwitrusingScoop:
+
+scoop install main
+/
+witr
+
+AOSC OS
+ 
+
+You can installwitrfrom theAOSC OS repository:
+
+oma install witr
+
+GNU Guix
+ 
+
+You can installwitrfrom theGNU Guix repository:
+
+guix install witr
+
+Uniget (Linux)
+ 
+
+You can installwitrusinguniget:
+
+uniget install witr
+
+Aqua (macOS, Linux & Windows)
+ 
+
+You can installwitrusingaqua:
+
+#
+ Add package
+
+aqua g -i pranshuparmar/witr
+
+#
+ Install package
+
+aqua i pranshuparmar/witr
+
+Brioche (Linux)
+ 
+
+You can installwitrusingbrioche:
+
+brioche install -r witr
+
+Prebuilt Packages (deb, rpm, apk)
+
+witrprovides native packages for major Linux distributions. You can download the latest.deb,.rpm, or.apkpackage from theGitHub releases page.
+
+* Generic download command usingcurl:#Replace <package name with the actual package that you need>curl -LO https://github.com/pranshuparmar/witr/releases/latest/download/<package-name>
+* Debian/Ubuntu (.deb):sudo dpkg -i ./witr-*.deb#Or, using apt for dependency resolution:sudo apt install ./witr-*.deb
+* Fedora/RHEL/CentOS (.rpm):sudo rpm -i ./witr-*.rpm
+* Alpine Linux (.apk):sudo apk add --allow-untrusted ./witr-*.apk
+
+### 2.3 Source & Manual Installation
+
+Go (cross-platform)
+
+You can install the latest version directly from source:
+
+go install github.com/pranshuparmar/witr/cmd/witr@latest
+
+This will place thewitrbinary in your$GOPATH/binor$HOME/go/bindirectory. Make sure this directory is in yourPATH.
+
+Manual Installation
+
+If you prefer manual installation, follow these simple steps for your platform:
+
+Unix (Linux, macOS, FreeBSD)
+
+#
+ 1. Determine OS and Architecture
+
+OS=
+$(
+uname -s 
+|
+ tr 
+'
+[:upper:]
+'
+ 
+'
+[:lower:]
+'
+)
+
+ARCH=
+$(
+uname -m
+)
+
+[ 
+"
+$ARCH
+"
+ 
+=
+ 
+"
+x86_64
+"
+ ] 
+&&
+ ARCH=
+"
+amd64
+"
+
+[ 
+"
+$ARCH
+"
+ 
+=
+ 
+"
+aarch64
+"
+ ] 
+&&
+ ARCH=
+"
+arm64
+"
+
+#
+ 2. Download the binary
+
+curl -fsSL 
+"
+https://github.com/pranshuparmar/witr/releases/latest/download/witr-
+${OS}
+-
+${ARCH}
+"
+ -o witr
+
+#
+ 3. Verify checksum (Optional)
+
+curl -fsSL 
+"
+https://github.com/pranshuparmar/witr/releases/latest/download/SHA256SUMS
+"
+ -o SHA256SUMS
+grep 
+"
+witr-
+${OS}
+-
+${ARCH}
+"
+ SHA256SUMS 
+|
+ (sha256sum -c - 
+2>
+/dev/null 
+||
+ shasum -a 256 -c - 
+2>
+/dev/null)
+rm SHA256SUMS
+
+#
+ 4. Rename and install
+
+chmod +x witr
+sudo mkdir -p /usr/local/bin
+sudo mv witr /usr/local/bin/witr
+
+#
+ 5. Install man page (Optional)
+
+sudo mkdir -p /usr/local/share/man/man1
+sudo curl -fsSL https://github.com/pranshuparmar/witr/releases/latest/download/witr.1 -o /usr/local/share/man/man1/witr.1
+
+Windows (PowerShell)
+
+#
+ 1. Determine Architecture
+
+if
+ (
+$
+env:
+PROCESSOR_ARCHITECTURE
+ 
+-eq
+ 
+"
+AMD64
+"
+) {
+ 
+$ZipName
+ 
+=
+ 
+"
+witr-windows-amd64.zip
+"
+
+} 
+elseif
+ (
+$
+env:
+PROCESSOR_ARCHITECTURE
+ 
+-eq
+ 
+"
+ARM64
+"
+) {
+ 
+$ZipName
+ 
+=
+ 
+"
+witr-windows-arm64.zip
+"
+
+} 
+else
+ {
+ 
+Write-Error
+ 
+"
+Unsupported architecture: 
+$
+(
+$
+env:
+PROCESSOR_ARCHITECTURE
+)
+"
+
+ 
+exit
+ 
+1
+
+}
+
+#
+ 2. Download the zip
+
+Invoke-WebRequest
+ 
+-
+Uri 
+"
+https://github.com/pranshuparmar/witr/releases/latest/download/
+$ZipName
+"
+ 
+-
+OutFile 
+"
+witr.zip
+"
+
+#
+ 3. Extract the binary
+
+Expand-Archive
+ 
+-
+Path 
+"
+witr.zip
+"
+ 
+-
+DestinationPath 
+"
+.
+"
+ 
+-
+Force
+
+#
+ 4. Verify checksum (Optional)
+
+Invoke-WebRequest
+ 
+-
+Uri 
+"
+https://github.com/pranshuparmar/witr/releases/latest/download/SHA256SUMS
+"
+ 
+-
+OutFile 
+"
+SHA256SUMS
+"
+
+$hash
+ 
+=
+ 
+Get-FileHash
+ 
+-
+Algorithm SHA256 .\witr.zip
+
+$expected
+ 
+=
+ 
+Select-String
+ 
+-
+Path .\SHA256SUMS 
+-
+Pattern 
+$ZipName
+
+if
+ (
+$expected
+ 
+-and
+ 
+$hash
+.Hash.ToLower
+() 
+-eq
+ 
+$expected
+.Line.Split
+(
+'
+ 
+'
+)[
+0
+]) { 
+Write-Host
+ 
+"
+Checksum OK
+"
+ } 
+else
+ { 
+Write-Host
+ 
+"
+Checksum Mismatch
+"
+ }
+
+#
+ 5. Install to local bin directory
+
+$InstallDir
+ 
+=
+ 
+"
+$
+env:
+LocalAppData
+\witr\bin
+"
+
+New-Item
+ 
+-
+ItemType Directory 
+-
+Path 
+$InstallDir
+ 
+-
+Force 
+|
+ 
+Out-Null
+
+Move-Item
+ .\
+witr.exe
+ 
+$InstallDir
+\
+witr.exe
+ 
+-
+Force
+
+#
+ 6. Add to User Path (Persistent)
+
+$UserPath
+ 
+=
+ [
+Environment
+]::GetEnvironmentVariable(
+"
+Path
+"
+,
+ 
+"
+User
+"
+)
+
+if
+ (
+$UserPath
+ 
+-notlike
+ 
+"
+*
+$InstallDir
+*
+"
+) {
+ [
+Environment
+]::SetEnvironmentVariable(
+"
+Path
+"
+,
+ 
+"
+$UserPath
+;
+$InstallDir
+"
+,
+ 
+"
+User
+"
+)
+ 
+$
+env:
+Path
+ 
++=
+ 
+"
+;
+$InstallDir
+"
+
+ 
+Write-Host
+ 
+"
+Added to Path. You may need to restart PowerShell.
+"
+
+}
+
+#
+ 7. Cleanup
+
+Remove-Item
+ witr.zip
+
+Remove-Item
+ SHA256SUMS
+
+### 2.4 Run Without Installation
+
+Nix Flake
+
+If you use Nix, you can buildwitrfrom source and run without installation:
+
+nix run github:pranshuparmar/witr -- --help
+
+Pixi
+
+If you usepixi, you can run without installation on Linux or macOS:
+
+pixi 
+exec
+ witr --help
+
+### 2.5 Other Operations
+
+Verify Installation
+
+witr --version
+man witr
+
+Shell Completions
+
+witrsupports tab completion for all flags. To enable it, add the appropriate line to your shell configuration:
+
+Bash
+
+echo
+ 
+'
+eval "$(witr completion bash)"
+'
+ 
+>>
+ 
+~
+/.bashrc
+
+source
+ 
+~
+/.bashrc
+
+Zsh
+
+echo
+ 
+'
+eval "$(witr completion zsh)"
+'
+ 
+>>
+ 
+~
+/.zshrc
+
+source
+ 
+~
+/.zshrc
+
+Fish
+
+witr completion fish 
+|
+ source
+
+#
+ To make it permanent:
+
+witr completion fish 
+>
+ ~/.config/fish/completions/witr.fish
+
+PowerShell
+
+witr completion powershell 
+|
+ 
+Out-String
+ 
+|
+ 
+Invoke-Expression
+
+#
+ To make it permanent, add the above line to your $PROFILE
+
+Uninstallation
+
+If you installed via a package manager (Homebrew, Conda, etc.), please use the respective uninstall command (e.g.,brew uninstall witr).
+
+To completely remove script/manual installation ofwitr:
+
+Unix (Linux, macOS, FreeBSD)
+
+sudo rm -f /usr/local/bin/witr
+sudo rm -f /usr/local/share/man/man1/witr.1
+
+Windows
+
+Remove-Item
+ 
+-
+Recurse 
+-
+Force 
+"
+$
+env:
+LocalAppData
+\witr
+"
+
+## 3. Interactive Mode (TUI)
+
+Runningwitrwithout any arguments or with the-iflag launches theInteractive Mode (TUI). This provides a real-time, terminal-based dashboard for exploring processes and ports.
+
+### Key Features:
+
+* Live Process List: Real-time view of all running processes with sorting and filtering.
+* Port View: Explore open ports and immediately see which processes are holding them.
+* Process Details: Deep-dive into a specific process to see its full ancestry tree, child processes, environment variables, working directory, and more.
+* Process Actions: Send signals (Kill, Terminate, Pause, Resume) or Renice processes directly from the UI.
+* Mouse Support: Navigate, sort columns, and click rows using your mouse.
+
+## 4. Flags & Options
+
+ --env show environment variables for the process
+ -x, --exact use exact name matching (no substring search)
+ -f, --file strings file path(s) to find process for (repeatable)
+ -h, --help help for witr
+ -i, --interactive interactive mode (TUI)
+ --json show result as JSON
+ --no-color disable colorized output
+ -p, --pid strings pid(s) to look up (repeatable)
+ -o, --port strings port(s) to look up (repeatable)
+ -s, --short show only ancestry
+ -t, --tree show only ancestry as a tree
+ --verbose show extended process information
+ -v, --version version for witr
+ --warnings show only warnings
+
+Positional arguments (without flags) are treated as process or service names. Multiple names can be passed. By default, name matching uses substring matching (fuzzy search). Use--exactto match only processes with the exact name.
+
+All target flags (--pid,--port,--file) are repeatable and can be mixed with each other and with positional name arguments. When multiple targets are provided, results are shown sequentially with labeled dividers. All output modes (standard, short, tree, JSON, env, warnings, verbose) work with multiple inputs.
+
+The TUI is launched if no arguments or relevant flags (--pid,--port,--file) are provided, or if the--interactiveflag is explicitly used.
+
+## 5. Example Outputs
+
+### 5.1 Name Based Query
+
+witr node
+
+Target : node
+
+Process : node (pid 14233)
+User : pm2
+Command : node index.js
+Started : 2 days ago (Mon 2025-02-02 11:42:10 +05:30)
+Restarts : 1
+
+Why It Exists :
+ systemd (pid 1) → pm2 (pid 5034) → node (pid 14233)
+
+Source : pm2
+
+Working Dir : /opt/apps/expense-manager
+Git Repo : expense-manager (main)
+Listening : 127.0.0.1:5001
+
+### 5.2 Short Output
+
+witr --port 5000 --short
+
+systemd (pid 1) → PM2 v5.3.1: God (pid 1481580) → python (pid 1482060)
+
+### 5.3 Tree Output
+
+witr --pid 143895 --tree
+
+systemd (pid 1)
+ └─ init-systemd(Ub (pid 2)
+ └─ SessionLeader (pid 143858)
+ └─ Relay(143860) (pid 143859)
+ └─ bash (pid 143860)
+ └─ sh (pid 143886)
+ └─ node (pid 143895)
+ ├─ node (pid 143930)
+ ├─ node (pid 144189)
+ └─ node (pid 144234)
+
+Note:Tree view includes child processes (up to 10) and highlights the target process.
+
+### 5.4 Multiple Matches
+
+witr ng
+
+Multiple matching processes found:
+
+[1] nginx (pid 2311)
+ nginx -g daemon off;
+[2] nginx (pid 24891)
+ nginx -g daemon off;
+[3] ngrok (pid 14233)
+ ngrok http 5000
+
+Re-run with:
+ witr --pid <pid>
+
+To avoid substring matching and only find processes with an exact name, use the--exactflag:
+
+witr nginx -x
+
+### 5.5 File Based Query
+
+witr --file /var/lib/dpkg/lock
+
+Explains the process holding a file open.
+
+### 5.6 Multiple Inputs
+
+witr nginx --port 5432 --pid 1234
+
+----- [name: nginx] -----
+Target : nginx
+Process : nginx (pid 2311)
+...
+
+----- [port: 5432] -----
+Target : postgres
+Process : postgres (pid 891)
+...
+
+----- [pid: 1234] -----
+Target : node
+Process : node (pid 1234)
+...
+
+All target flags are repeatable and can be mixed. Results appear in the order you typed them. All output modes (--short,--tree,--json,--env,--warnings,--verbose) work with multiple inputs.
+
+## 6. Platform Support
+
+* Linux(x86_64, arm64) - Full feature support (/proc).
+* macOS(x86_64, arm64) - Usesps,lsof,sysctl,pgrep.
+* Windows(x86_64, arm64) - UsesGet-CimInstance,tasklist,netstat.
+* FreeBSD(x86_64, arm64) - Usesprocstat,ps,lsof.
+
+### 5.1 Feature Compatibility Matrix
+
+Feature
+
+Linux
+
+macOS
+
+Windows
+
+FreeBSD
+
+Notes
+
+Process Selection
+
+By Name
+
+✅
+
+✅
+
+✅
+
+✅
+
+By PID
+
+✅
+
+✅
+
+✅
+
+✅
+
+By Port
+
+✅
+
+✅
+
+✅
+
+✅
+
+By File
+
+✅
+
+✅
+
+❌
+
+✅
+
+Multiple/mixed inputs
+
+✅
+
+✅
+
+✅
+
+✅
+
+Repeatable flags, mixed types.
+
+Exact Match
+
+✅
+
+✅
+
+✅
+
+✅
+
+Full command line
+
+✅
+
+✅
+
+✅
+
+✅
+
+Process start time
+
+✅
+
+✅
+
+✅
+
+✅
+
+Working directory
+
+✅
+
+✅
+
+✅
+
+✅
+
+Environment variables
+
+✅
+
+⚠️
+
+❌
+
+✅
+
+macOS: Partial support due to SIP restrictions.
+
+Network
+
+Listening ports
+
+✅
+
+✅
+
+✅
+
+✅
+
+Bind addresses
+
+✅
+
+✅
+
+✅
+
+✅
+
+Port → PID resolution
+
+✅
+
+✅
+
+✅
+
+✅
+
+Service Detection
+
+Service Manager
+
+✅
+
+✅
+
+✅
+
+✅
+
+Linux: systemd, macOS: launchd, Windows: Services, FreeBSD: rc.d
+
+Service Description
+
+✅
+
+✅
+
+✅
+
+✅
+
+Linux: 
+Description
+, macOS: 
+Comment
+, Windows: 
+Display Name
+, FreeBSD: 
+rc
+ header
+
+Configuration Source
+
+✅
+
+✅
+
+✅
+
+✅
+
+Linux: Unit File, macOS: Plist, Windows: Registry Key, FreeBSD: Rc Script
+
+Supervisor
+
+✅
+
+✅
+
+✅
+
+✅
+
+Containers
+
+✅
+
+✅
+
+✅
+
+✅
+
+Docker (plus Compose mappings), Podman, K8s (Kubepods), Containerd. Colima on macOS/Linux. Jails on FreeBSD.
+
+SSH session detection
+
+✅
+
+✅
+
+✅
+
+✅
+
+Detects remote IP and terminal.
+
+tmux/screen detection
+
+✅
+
+✅
+
+❌
+
+✅
+
+Shows session name in source.
+
+Schedule detection
+
+✅
+
+✅
+
+❌
+
+❌
+
+Linux: systemd timers, macOS: launchd intervals/calendar.
+
+Snap/Flatpak detection
+
+✅
+
+❌
+
+❌
+
+❌
+
+Health & Diagnostics
+
+CPU usage detection
+
+✅
+
+✅
+
+✅
+
+✅
+
+Memory usage detection
+
+✅
+
+✅
+
+✅
+
+✅
+
+Health status detection
+
+✅
+
+✅
+
+✅
+
+✅
+
+Open Files / Handles
+
+✅
+
+✅
+
+⚠️
+
+✅
+
+Windows: count only.
+
+Deleted binary detection
+
+✅
+
+✅
+
+✅
+
+✅
+
+Warns if executable is missing.
+
+Capability warnings
+
+✅
+
+❌
+
+❌
+
+❌
+
+Warns about dangerous capabilities on non-root processes.
+
+Context
+
+Git repo/branch detection
+
+✅
+
+✅
+
+✅
+
+✅
+
+Interactive Mode (TUI)
+
+Process Dashboard
+
+✅
+
+✅
+
+✅
+
+✅
+
+Port Dashboard
+
+✅
+
+✅
+
+✅
+
+✅
+
+Process Details
+
+✅
+
+✅
+
+✅
+
+✅
+
+Process Actions
+
+✅
+
+✅
+
+❌
+
+✅
+
+Legend:✅ Full support |⚠️Partial/limited support | ❌ Not available
+
+### 5.2 Permissions Note
+
+#### Linux/FreeBSD
+
+witr inspects system directories which may require elevated permissions.
+
+If you are not seeing the expected information, try running witr with sudo:
+
+sudo witr [your arguments]
+
+#### macOS
+
+On macOS, witr usesps,lsof, andlaunchctlto gather process information. Some operations may require elevated permissions:
+
+sudo witr [your arguments]
+
+Note: Due to macOS System Integrity Protection (SIP), some system process details may not be accessible even with sudo.
+
+#### Windows
+
+On Windows, witr usesGet-CimInstance,tasklist, andnetstat. To see details for processes owned by other users or system services, you must run the terminal asAdministrator.
+
+#
+ Run in Administrator PowerShell
+
+.\
+witr.exe
+ [
+your
+ 
+arguments
+]
+
+## 7. Goals
+
+### Primary goals
+
+* Explainwhy a process exists, not just that it exists
+* Reduce time‑to‑understanding during debugging and outages
+* Work with zero configuration
+* Be safe, read‑only, and non‑destructive
+* Prefer clarity over completeness
+
+### Non‑goals
+
+* Not a monitoring tool
+* Not a performance profiler
+* Not a replacement for systemd/docker tooling
+* Not a remediation or auto‑fix tool
+
+## 8. Core Concept
+
+witr treatseverything as a process question.
+
+Ports, services, containers, and commands all eventually map toPIDs. Once a PID is identified, witr builds a causal chain explainingwhy that PID exists.
+
+At its core, witr answers:
+
+1. What is running?
+2. How did it start?
+3. What is keeping it running?
+4. What context does it belong to?
+
+## 9. Output Behavior
+
+### 9.1 Output Principles
+
+* Single screen by default (best effort)
+* Deterministic ordering
+* Narrative-style explanation
+* Best-effort detection with explicit uncertainty
+
+### 9.2 Exit Codes
+
+witr returns meaningful exit codes for use in scripts, CI pipelines, and monitoring:
+
+Code
+
+Meaning
+
+0
+
+Clean: process found, no warnings
+
+1
+
+Warnings: process found but has one or more warnings
+
+2
+
+Not found: no matching process or service
+
+3
+
+Permission denied: insufficient privileges
+
+4
+
+Invalid input: bad arguments or ambiguous match
+
+#### Example Usage:
+
+witr nginx --short
+
+case
+ 
+$?
+ 
+in
+
+ 0) 
+echo
+ 
+"
+All clear
+"
+ ;;
+ 1) 
+echo
+ 
+"
+Warnings detected
+"
+ ;;
+ 2) 
+echo
+ 
+"
+Process not running
+"
+ ;;
+ 3) 
+echo
+ 
+"
+Need elevated privileges
+"
+ ;;
+ 4) 
+echo
+ 
+"
+Invalid input or ambiguous match
+"
+ ;;
+
+esac
+
+### 9.3 Standard Output Sections
+
+#### Target
+
+What the user asked about.
+
+#### Process
+
+Executable, PID, user, command, start time and restart count.
+
+#### Why It Exists
+
+A causal ancestry chain showing how the process came to exist.
+This is the core value of witr.
+
+#### Source
+
+The primary system responsible for starting or supervising the process (best effort).
+
+Examples:
+
+* systemd unit with schedule info for timer-triggered services (Linux)
+* launchd service with schedule/trigger details (macOS)
+* SSH session (with remote IP and terminal)
+* docker container
+* pm2
+* cron
+* interactive shell (detects tmux/screen sessions)
+* Snap/Flatpak sandbox (Linux)
+
+Onlyone primary sourceis selected.
+
+#### Context (best effort)
+
+* Working directory
+* Git repository name and branch
+* Container name / image (docker, podman, kubernetes, colima, containerd)
+* Public vs private bind
+
+#### Warnings
+
+Non‑blocking observations such as:
+
+* Process is running as root
+* Dangerous Linux capabilities on non-root processes (CAP_SYS_ADMIN, etc.)
+* Process is listening on a public interface (0.0.0.0 / ::)
+* Restarted multiple times (warning only if above threshold)
+* Process is using high memory (>1GB RSS)
+* Process has been running for over 90 days
+* Deleted binary, library injection indicators (LD_PRELOAD, DYLD_*)
+
+## 10. Success Criteria
+
+witr is successful if:
+
+* A user can answer "why is this running?" within seconds
+* It reduces reliance on multiple tools
+* Output is understandable under stress
+* Users trust it during incidents
+
+## 11. Sponsors
+
+Special thanks to the people supportingwitr❤️
+
+## About
+
+Why is this running?
+
+### Resources
+
+ Readme
+
+ 
+
+### License
+
+ Apache-2.0 license
+ 
+
+### Code of conduct
+
+ Code of conduct
+ 
+
+### Contributing
+
+ Contributing
+ 
+
+### Security policy
+
+ Security policy
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+Activity
+ 
+
+### Stars
+
+16.5k
+
+ stars
+ 
+
+### Watchers
+
+34
+
+ watching
+ 
+
+### Forks
+
+499
+
+ forks
+ 
+
+ Report repository
+
+ 
+
+## Releases19
+
+v0.3.1
+
+ Latest
+
+ 
+
+Mar 18, 2026
+
+ 
+
++ 18 releases
+
+## Sponsor this project
+
+ 
+
+ 
+
+ Sponsor
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+ 
+
+Learn more about GitHub Sponsors
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Contributors
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Languages
+
+* Go97.6%
+* Other2.4%
