@@ -1,257 +1,227 @@
 [
   {
-    "title": "A 0-click exploit chain for the Pixel 10",
-    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-    "description": "A 0-click exploit chain for the Pixel 10",
-    "date": "2026-05-15",
-    "score": 388,
-    "comments": 207,
-    "discussion_url": "https://news.ycombinator.com/item?id=48148460",
+    "title": "Accelerando (2005)",
+    "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+    "description": "Accelerando (2005)",
+    "date": "2026-05-16",
+    "score": 180,
+    "comments": 91,
+    "discussion_url": "https://news.ycombinator.com/item?id=48159241",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388858"
+    "fetched_at": "2026-05-16T19:28:05.636841"
   },
   {
-    "title": "Additive Blending on the Nintendo 64",
-    "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
-    "description": "Additive Blending on the Nintendo 64",
-    "date": "2026-05-15",
-    "score": 121,
-    "comments": 11,
-    "discussion_url": "https://news.ycombinator.com/item?id=48149259",
+    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+    "url": "https://www.seangoedecke.com/steering-vectors/",
+    "description": "DeepSeek-V4-Flash means LLM steering is interesting again",
+    "date": "2026-05-16",
+    "score": 140,
+    "comments": 54,
+    "discussion_url": "https://news.ycombinator.com/item?id=48160807",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388847"
+    "fetched_at": "2026-05-16T19:28:05.636815"
   },
   {
-    "title": "Bill to block publishers from killing online games advances in California",
-    "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-    "description": "Bill to block publishers from killing online games advances in California",
-    "date": "2026-05-15",
-    "score": 497,
-    "comments": 322,
-    "discussion_url": "https://news.ycombinator.com/item?id=48152994",
+    "title": "Fecal transplants for autism deliver success in clinical trials",
+    "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+    "description": "Fecal transplants for autism deliver success in clinical trials",
+    "date": "2026-05-16",
+    "score": 232,
+    "comments": 170,
+    "discussion_url": "https://news.ycombinator.com/item?id=48158494",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388794"
+    "fetched_at": "2026-05-16T19:28:05.636865"
   },
   {
     "title": "Frontier AI has broken the open CTF format",
     "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
     "description": "Frontier AI has broken the open CTF format",
     "date": "2026-05-16",
-    "score": 159,
-    "comments": 136,
+    "score": 283,
+    "comments": 247,
     "discussion_url": "https://news.ycombinator.com/item?id=48157559",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388713"
+    "fetched_at": "2026-05-16T19:28:05.636951"
   },
   {
-    "title": "How to Write to SSDs [pdf]",
-    "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-    "description": "How to Write to SSDs [pdf]",
-    "date": "2026-05-15",
-    "score": 123,
-    "comments": 16,
-    "discussion_url": "https://news.ycombinator.com/item?id=48154711",
+    "title": "HTML Lists",
+    "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+    "description": "HTML Lists",
+    "date": "2026-05-16",
+    "score": 204,
+    "comments": 37,
+    "discussion_url": "https://news.ycombinator.com/item?id=48161861",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388771"
+    "fetched_at": "2026-05-16T19:28:05.636791"
   },
   {
     "title": "I believe there are entire companies right now under AI psychosis",
     "url": "https://twitter.com/mitchellh/status/2055380239711457578",
     "description": "I believe there are entire companies right now under AI psychosis",
     "date": "2026-05-15",
-    "score": 1421,
-    "comments": 719,
+    "score": 1743,
+    "comments": 951,
     "discussion_url": "https://news.ycombinator.com/item?id=48153379",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388783"
+    "fetched_at": "2026-05-16T19:28:05.636975"
   },
   {
-    "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-    "url": "https://github.com/gdevic/FPGA-Calculator",
-    "description": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-    "date": "2026-05-15",
-    "score": 105,
-    "comments": 34,
-    "discussion_url": "https://news.ycombinator.com/item?id=48151237",
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+    "description": "Moving away from Tailwind, and learning to structure my CSS",
+    "date": "2026-05-16",
+    "score": 292,
+    "comments": 194,
+    "discussion_url": "https://news.ycombinator.com/item?id=48158400",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388814"
-  },
-  {
-    "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-    "url": "https://github.com/neilsonnn/image-blaster",
-    "description": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-    "date": "2026-05-15",
-    "score": 164,
-    "comments": 32,
-    "discussion_url": "https://news.ycombinator.com/item?id=48150069",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388837"
+    "fetched_at": "2026-05-16T19:28:05.636912"
   },
   {
     "title": "Naturally Occurring Quasicrystals",
     "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
     "description": "Naturally Occurring Quasicrystals",
     "date": "2026-05-14",
-    "score": 103,
-    "comments": 9,
+    "score": 122,
+    "comments": 10,
     "discussion_url": "https://news.ycombinator.com/item?id=48136000",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388889"
+    "fetched_at": "2026-05-16T19:28:05.637002"
   },
   {
     "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
     "url": "https://github.com/chiennv2000/orthrus",
     "description": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
     "date": "2026-05-15",
-    "score": 107,
-    "comments": 15,
+    "score": 203,
+    "comments": 38,
     "discussion_url": "https://news.ycombinator.com/item?id=48154865",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388761"
+    "fetched_at": "2026-05-16T19:28:05.636963"
   },
   {
     "title": "Ploopy Bean: a trackpoint for every computer",
     "url": "https://ploopy.co/shop/bean-pointing-stick/",
     "description": "Ploopy Bean: a trackpoint for every computer",
     "date": "2026-05-12",
-    "score": 102,
-    "comments": 46,
+    "score": 155,
+    "comments": 73,
     "discussion_url": "https://news.ycombinator.com/item?id=48114208",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388909"
+    "fetched_at": "2026-05-16T19:28:05.637024"
   },
   {
     "title": "Project Gutenberg – keeps getting better",
     "url": "https://www.gutenberg.org/",
     "description": "Project Gutenberg – keeps getting better",
     "date": "2026-05-15",
-    "score": 968,
-    "comments": 202,
+    "score": 1101,
+    "comments": 245,
     "discussion_url": "https://news.ycombinator.com/item?id=48150431",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388826"
+    "fetched_at": "2026-05-16T19:28:05.636986"
   },
   {
-    "title": "SQL patterns I use to catch transaction fraud",
-    "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-    "description": "SQL patterns I use to catch transaction fraud",
-    "date": "2026-05-15",
-    "score": 253,
-    "comments": 84,
-    "discussion_url": "https://news.ycombinator.com/item?id=48155212",
+    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+    "url": "https://nvlabs.github.io/Sana/WM/",
+    "description": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+    "date": "2026-05-16",
+    "score": 238,
+    "comments": 98,
+    "discussion_url": "https://news.ycombinator.com/item?id=48159445",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388749"
-  },
-  {
-    "title": "Show HN: Watch a neural net learn to play Snake",
-    "url": "https://ppo.gradexp.xyz/",
-    "description": "Show HN: Watch a neural net learn to play Snake",
-    "date": "2026-05-14",
-    "score": 165,
-    "comments": 38,
-    "discussion_url": "https://news.ycombinator.com/item?id=48136981",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388878"
+    "fetched_at": "2026-05-16T19:28:05.636830"
   },
   {
     "title": "The bird eye was pushed to an evolutionary extreme",
     "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
     "description": "The bird eye was pushed to an evolutionary extreme",
     "date": "2026-05-14",
-    "score": 127,
-    "comments": 47,
+    "score": 193,
+    "comments": 65,
     "discussion_url": "https://news.ycombinator.com/item?id=48132106",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388899"
+    "fetched_at": "2026-05-16T19:28:05.637013"
   },
   {
-    "title": "The main thing about P2P meth is that there's so much of it (2021)",
-    "url": "https://dynomight.net/p2p-meth/",
-    "description": "The main thing about P2P meth is that there's so much of it (2021)",
-    "date": "2026-05-15",
-    "score": 132,
-    "comments": 158,
-    "discussion_url": "https://news.ycombinator.com/item?id=48155324",
+    "title": "Where to buy a non-Apple, non-Google smartphone",
+    "url": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
+    "description": "Where to buy a non-Apple, non-Google smartphone",
+    "date": "2026-05-16",
+    "score": 191,
+    "comments": 156,
+    "discussion_url": "https://news.ycombinator.com/item?id=48158130",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388736"
+    "fetched_at": "2026-05-16T19:28:05.636938"
   },
   {
-    "title": "The sigmoids won't save you",
-    "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-    "description": "The sigmoids won't save you",
-    "date": "2026-05-15",
-    "score": 214,
-    "comments": 212,
-    "discussion_url": "https://news.ycombinator.com/item?id=48147021",
+    "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+    "url": "https://arxiv.org/abs/2605.12357",
+    "description": "Δ-Mem: Efficient Online Memory for Large Language Models",
+    "date": "2026-05-16",
+    "score": 159,
+    "comments": 39,
+    "discussion_url": "https://news.ycombinator.com/item?id=48158506",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-16T11:25:12.388868"
+    "fetched_at": "2026-05-16T19:28:05.636853"
   }
 ]
