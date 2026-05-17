@@ -4,8 +4,8 @@
     "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
     "author": "happyhardcore",
     "date": "2026-05-15",
-    "score": 422,
-    "comments": 224,
+    "score": 435,
+    "comments": 232,
     "id": 48148460,
     "discussion_url": "https://news.ycombinator.com/item?id=48148460",
     "description": "A 0-click exploit chain for the Pixel 10",
@@ -14,32 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982575"
+    "fetched_at": "2026-05-17T11:28:29.588339"
   },
   {
-    "title": "ASCII by Jason Scott",
-    "url": "https://ascii.textfiles.com/",
-    "author": "bookofjoe",
+    "title": "A nicer voltmeter clock",
+    "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+    "author": "surprisetalk",
     "date": "2026-05-16",
-    "score": 199,
-    "comments": 23,
-    "id": 48148726,
-    "discussion_url": "https://news.ycombinator.com/item?id=48148726",
-    "description": "ASCII by Jason Scott",
+    "score": 206,
+    "comments": 27,
+    "id": 48164432,
+    "discussion_url": "https://news.ycombinator.com/item?id=48164432",
+    "description": "A nicer voltmeter clock",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982823"
+    "fetched_at": "2026-05-17T11:28:29.588201"
   },
   {
     "title": "Accelerando (2005)",
     "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
     "author": "eamag",
     "date": "2026-05-16",
-    "score": 185,
-    "comments": 97,
+    "score": 301,
+    "comments": 170,
     "id": 48159241,
     "discussion_url": "https://news.ycombinator.com/item?id=48159241",
     "description": "Accelerando (2005)",
@@ -48,32 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982195"
-  },
-  {
-    "title": "Additive Blending on the Nintendo 64",
-    "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
-    "author": "ibobev",
-    "date": "2026-05-16",
-    "score": 159,
-    "comments": 24,
-    "id": 48149259,
-    "discussion_url": "https://news.ycombinator.com/item?id=48149259",
-    "description": "Additive Blending on the Nintendo 64",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982700"
+    "fetched_at": "2026-05-17T11:28:29.588270"
   },
   {
     "title": "Bill to block publishers from killing online games advances in California",
     "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
     "author": "Lihh27",
-    "date": "2026-05-16",
-    "score": 558,
-    "comments": 377,
+    "date": "2026-05-15",
+    "score": 580,
+    "comments": 398,
     "id": 48152994,
     "discussion_url": "https://news.ycombinator.com/item?id=48152994",
     "description": "Bill to block publishers from killing online games advances in California",
@@ -82,32 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982747"
+    "fetched_at": "2026-05-17T11:28:29.588416"
   },
   {
-    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-    "url": "https://github.com/oven-sh/bun/issues/30719",
-    "author": "ndiddy",
-    "date": "2026-05-16",
-    "score": 455,
-    "comments": 327,
-    "id": 48150900,
-    "discussion_url": "https://news.ycombinator.com/item?id=48150900",
-    "description": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+    "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+    "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+    "author": "signa11",
+    "date": "2026-05-15",
+    "score": 146,
+    "comments": 106,
+    "id": 48144584,
+    "discussion_url": "https://news.ycombinator.com/item?id=48144584",
+    "description": "C++26 Shipped a SIMD Library Nobody Asked For",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982839"
+    "fetched_at": "2026-05-17T11:28:29.588294"
   },
   {
     "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
     "url": "https://www.seangoedecke.com/steering-vectors/",
     "author": "Brajeshwar",
-    "date": "2026-05-17",
-    "score": 148,
-    "comments": 55,
+    "date": "2026-05-16",
+    "score": 240,
+    "comments": 72,
     "id": 48160807,
     "discussion_url": "https://news.ycombinator.com/item?id=48160807",
     "description": "DeepSeek-V4-Flash means LLM steering is interesting again",
@@ -116,32 +99,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982368"
+    "fetched_at": "2026-05-17T11:28:29.588390"
   },
   {
-    "title": "Fecal transplants for autism deliver success in clinical trials (2025)",
+    "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
     "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
     "author": "breve",
     "date": "2026-05-16",
-    "score": 243,
-    "comments": 176,
+    "score": 301,
+    "comments": 209,
     "id": 48158494,
     "discussion_url": "https://news.ycombinator.com/item?id=48158494",
-    "description": "Fecal transplants for autism deliver success in clinical trials (2025)",
+    "description": "Fecal transplants for autism deliver success in clinical trials (2019)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982179"
+    "fetched_at": "2026-05-17T11:28:29.588372"
+  },
+  {
+    "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+    "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+    "author": "breve",
+    "date": "2026-05-16",
+    "score": 140,
+    "comments": 52,
+    "id": 48164891,
+    "discussion_url": "https://news.ycombinator.com/item?id=48164891",
+    "description": "Fisker went bankrupt and owners built an open source car company from the ashes",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-17T11:28:29.588329"
   },
   {
     "title": "Frontier AI has broken the open CTF format",
     "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
     "author": "frays",
     "date": "2026-05-16",
-    "score": 290,
-    "comments": 251,
+    "score": 387,
+    "comments": 392,
     "id": 48157559,
     "discussion_url": "https://news.ycombinator.com/item?id=48157559",
     "description": "Frontier AI has broken the open CTF format",
@@ -150,15 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982333"
+    "fetched_at": "2026-05-17T11:28:29.588255"
+  },
+  {
+    "title": "Greek Alphabet Cards",
+    "url": "https://labs.randomquark.com/alphabet_cards/",
+    "author": "ricochet11",
+    "date": "2026-05-16",
+    "score": 130,
+    "comments": 59,
+    "id": 48159354,
+    "discussion_url": "https://news.ycombinator.com/item?id=48159354",
+    "description": "Greek Alphabet Cards",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-17T11:28:29.588313"
   },
   {
     "title": "HTML Lists",
     "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
     "author": "speckx",
-    "date": "2026-05-17",
-    "score": 222,
-    "comments": 42,
+    "date": "2026-05-16",
+    "score": 323,
+    "comments": 83,
     "id": 48161861,
     "discussion_url": "https://news.ycombinator.com/item?id=48161861",
     "description": "HTML Lists",
@@ -167,15 +184,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982264"
+    "fetched_at": "2026-05-17T11:28:29.588419"
+  },
+  {
+    "title": "Halt and Catch Fire",
+    "url": "https://unstack.io/halt-and-catch-fire",
+    "author": "ScottWRobinson",
+    "date": "2026-05-16",
+    "score": 144,
+    "comments": 80,
+    "id": 48162468,
+    "discussion_url": "https://news.ycombinator.com/item?id=48162468",
+    "description": "Halt and Catch Fire",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-17T11:28:29.588282"
+  },
+  {
+    "title": "Hosting a website on an 8-bit microcontroller",
+    "url": "https://maurycyz.com/projects/mcusite/",
+    "author": "zdw",
+    "date": "2026-05-17",
+    "score": 145,
+    "comments": 12,
+    "id": 48165295,
+    "discussion_url": "https://news.ycombinator.com/item?id=48165295",
+    "description": "Hosting a website on an 8-bit microcontroller",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-17T11:28:29.588216"
   },
   {
     "title": "How to Write to SSDs [pdf]",
     "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
     "author": "matt_d",
-    "date": "2026-05-16",
-    "score": 165,
-    "comments": 23,
+    "date": "2026-05-15",
+    "score": 187,
+    "comments": 28,
     "id": 48154711,
     "discussion_url": "https://news.ycombinator.com/item?id=48154711",
     "description": "How to Write to SSDs [pdf]",
@@ -184,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982732"
+    "fetched_at": "2026-05-17T11:28:29.588412"
   },
   {
     "title": "I believe there are entire companies right now under AI psychosis",
     "url": "https://twitter.com/mitchellh/status/2055380239711457578",
     "author": "reasonableklout",
-    "date": "2026-05-16",
-    "score": 1755,
-    "comments": 958,
+    "date": "2026-05-15",
+    "score": 1991,
+    "comments": 1172,
     "id": 48153379,
     "discussion_url": "https://news.ycombinator.com/item?id=48153379",
     "description": "I believe there are entire companies right now under AI psychosis",
@@ -201,32 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982138"
-  },
-  {
-    "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-    "url": "https://github.com/gdevic/FPGA-Calculator",
-    "author": "gdevic",
-    "date": "2026-05-16",
-    "score": 115,
-    "comments": 40,
-    "id": 48151237,
-    "discussion_url": "https://news.ycombinator.com/item?id=48151237",
-    "description": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982885"
+    "fetched_at": "2026-05-17T11:28:29.588305"
   },
   {
     "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
     "url": "https://github.com/neilsonnn/image-blaster",
     "author": "MattRogish",
-    "date": "2026-05-16",
-    "score": 177,
-    "comments": 37,
+    "date": "2026-05-15",
+    "score": 187,
+    "comments": 38,
     "id": 48150069,
     "discussion_url": "https://news.ycombinator.com/item?id=48150069",
     "description": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
@@ -235,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982900"
+    "fetched_at": "2026-05-17T11:28:29.588423"
   },
   {
     "title": "Moving away from Tailwind, and learning to structure my CSS",
     "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
     "author": "mpweiher",
     "date": "2026-05-16",
-    "score": 306,
-    "comments": 203,
+    "score": 566,
+    "comments": 321,
     "id": 48158400,
     "discussion_url": "https://news.ycombinator.com/item?id=48158400",
     "description": "Moving away from Tailwind, and learning to structure my CSS",
@@ -252,49 +286,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982297"
+    "fetched_at": "2026-05-17T11:28:29.588235"
   },
   {
-    "title": "Naturally Occurring Quasicrystals",
-    "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
-    "author": "lukeplato",
-    "date": "2026-05-15",
-    "score": 122,
-    "comments": 10,
-    "id": 48136000,
-    "discussion_url": "https://news.ycombinator.com/item?id=48136000",
-    "description": "Naturally Occurring Quasicrystals",
+    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+    "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+    "author": "WithinReason",
+    "date": "2026-05-17",
+    "score": 264,
+    "comments": 79,
+    "id": 48166459,
+    "discussion_url": "https://news.ycombinator.com/item?id=48166459",
+    "description": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982685"
+    "fetched_at": "2026-05-17T11:28:29.588179"
   },
   {
-    "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-    "url": "https://twitter.com/steipete/status/2055346265869721905",
-    "author": "eamag",
+    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+    "author": "bookofjoe",
     "date": "2026-05-16",
-    "score": 107,
-    "comments": 124,
-    "id": 48159227,
-    "discussion_url": "https://news.ycombinator.com/item?id=48159227",
-    "description": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+    "score": 209,
+    "comments": 245,
+    "id": 48163392,
+    "discussion_url": "https://news.ycombinator.com/item?id=48163392",
+    "description": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982670"
+    "fetched_at": "2026-05-17T11:28:29.588262"
   },
   {
     "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
     "url": "https://github.com/chiennv2000/orthrus",
     "author": "FranckDernoncou",
-    "date": "2026-05-16",
-    "score": 207,
-    "comments": 40,
+    "date": "2026-05-15",
+    "score": 233,
+    "comments": 43,
     "id": 48154865,
     "discussion_url": "https://news.ycombinator.com/item?id=48154865",
     "description": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
@@ -303,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982281"
+    "fetched_at": "2026-05-17T11:28:29.588336"
   },
   {
     "title": "Ploopy Bean: a trackpoint for every computer",
     "url": "https://ploopy.co/shop/bean-pointing-stick/",
     "author": "jibcage",
-    "date": "2026-05-13",
-    "score": 157,
-    "comments": 74,
+    "date": "2026-05-12",
+    "score": 169,
+    "comments": 80,
     "id": 48114208,
     "discussion_url": "https://news.ycombinator.com/item?id=48114208",
     "description": "Ploopy Bean: a trackpoint for every computer",
@@ -320,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982638"
+    "fetched_at": "2026-05-17T11:28:29.588356"
   },
   {
     "title": "Project Gutenberg – keeps getting better",
     "url": "https://www.gutenberg.org/",
     "author": "JSeiko",
-    "date": "2026-05-16",
-    "score": 1107,
-    "comments": 256,
+    "date": "2026-05-15",
+    "score": 1182,
+    "comments": 274,
     "id": 48150431,
     "discussion_url": "https://news.ycombinator.com/item?id=48150431",
     "description": "Project Gutenberg – keeps getting better",
@@ -337,32 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982349"
-  },
-  {
-    "title": "Radicle: Sovereign {code forge} built on Git",
-    "url": "https://radicle.dev/",
-    "author": "KolmogorovComp",
-    "date": "2026-05-15",
-    "score": 250,
-    "comments": 87,
-    "id": 48147603,
-    "discussion_url": "https://news.ycombinator.com/item?id=48147603",
-    "description": "Radicle: Sovereign {code forge} built on Git",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982962"
+    "fetched_at": "2026-05-17T11:28:29.588343"
   },
   {
     "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
     "url": "https://nvlabs.github.io/Sana/WM/",
     "author": "mjgil",
     "date": "2026-05-16",
-    "score": 247,
-    "comments": 101,
+    "score": 348,
+    "comments": 137,
     "id": 48159445,
     "discussion_url": "https://news.ycombinator.com/item?id=48159445",
     "description": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
@@ -371,49 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982117"
-  },
-  {
-    "title": "Show HN: Watch a neural net learn to play Snake",
-    "url": "https://ppo.gradexp.xyz/",
-    "author": "c1b",
-    "date": "2026-05-15",
-    "score": 182,
-    "comments": 43,
-    "id": 48136981,
-    "discussion_url": "https://news.ycombinator.com/item?id=48136981",
-    "description": "Show HN: Watch a neural net learn to play Snake",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982793"
-  },
-  {
-    "title": "The Zulip Foundation",
-    "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-    "author": "boramalper",
-    "date": "2026-05-16",
-    "score": 293,
-    "comments": 78,
-    "id": 48152168,
-    "discussion_url": "https://news.ycombinator.com/item?id=48152168",
-    "description": "The Zulip Foundation",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982946"
+    "fetched_at": "2026-05-17T11:28:29.588210"
   },
   {
     "title": "The bird eye was pushed to an evolutionary extreme",
     "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
     "author": "sohkamyung",
     "date": "2026-05-14",
-    "score": 197,
-    "comments": 65,
+    "score": 222,
+    "comments": 77,
     "id": 48132106,
     "discussion_url": "https://news.ycombinator.com/item?id=48132106",
     "description": "The bird eye was pushed to an evolutionary extreme",
@@ -422,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982497"
+    "fetched_at": "2026-05-17T11:28:29.588332"
   },
   {
     "title": "The main thing about P2P meth is that there's so much of it (2021)",
     "url": "https://dynomight.net/p2p-meth/",
     "author": "tomjakubowski",
-    "date": "2026-05-16",
-    "score": 177,
-    "comments": 210,
+    "date": "2026-05-15",
+    "score": 193,
+    "comments": 245,
     "id": 48155324,
     "discussion_url": "https://news.ycombinator.com/item?id=48155324",
     "description": "The main thing about P2P meth is that there's so much of it (2021)",
@@ -439,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982654"
+    "fetched_at": "2026-05-17T11:28:29.588409"
   },
   {
     "title": "The sigmoids won't save you",
     "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
     "author": "Tomte",
     "date": "2026-05-15",
-    "score": 281,
-    "comments": 259,
+    "score": 296,
+    "comments": 272,
     "id": 48147021,
     "discussion_url": "https://news.ycombinator.com/item?id=48147021",
     "description": "The sigmoids won't save you",
@@ -456,32 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982592"
+    "fetched_at": "2026-05-17T11:28:29.588347"
   },
   {
-    "title": "US is starting to see heavy job losses in roles exposed to AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
-    "author": "elsewhen",
-    "date": "2026-05-17",
-    "score": 106,
-    "comments": 100,
-    "id": 48162354,
-    "discussion_url": "https://news.ycombinator.com/item?id=48162354",
-    "description": "US is starting to see heavy job losses in roles exposed to AI",
+    "title": "We've made the world too complicated",
+    "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+    "author": "James72689",
+    "date": "2026-05-16",
+    "score": 310,
+    "comments": 294,
+    "id": 48158065,
+    "discussion_url": "https://news.ycombinator.com/item?id=48158065",
+    "description": "We've made the world too complicated",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982433"
+    "fetched_at": "2026-05-17T11:28:29.588251"
   },
   {
     "title": "Where to buy a non-Apple, non-Google smartphone",
     "url": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
     "author": "_____k",
     "date": "2026-05-16",
-    "score": 199,
-    "comments": 165,
+    "score": 257,
+    "comments": 265,
     "id": 48158130,
     "discussion_url": "https://news.ycombinator.com/item?id=48158130",
     "description": "Where to buy a non-Apple, non-Google smartphone",
@@ -490,23 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982400"
+    "fetched_at": "2026-05-17T11:28:29.588386"
   },
   {
-    "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
-    "url": "https://arxiv.org/abs/2605.12357",
-    "author": "44za12",
+    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "url": "https://crates.io/crates/zerostack/1.0.0",
+    "author": "gidellav",
     "date": "2026-05-16",
-    "score": 162,
-    "comments": 39,
-    "id": 48158506,
-    "discussion_url": "https://news.ycombinator.com/item?id=48158506",
-    "description": "Δ-Mem: Efficient Online Memory for Large Language Models",
+    "score": 425,
+    "comments": 191,
+    "id": 48164287,
+    "discussion_url": "https://news.ycombinator.com/item?id=48164287",
+    "description": "Zerostack – A Unix-inspired coding agent written in pure Rust",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-17T06:00:13.982160"
+    "fetched_at": "2026-05-17T11:28:29.588196"
+  },
+  {
+    "title": "δ-mem: Efficient Online Memory for Large Language Models",
+    "url": "https://arxiv.org/abs/2605.12357",
+    "author": "44za12",
+    "date": "2026-05-16",
+    "score": 220,
+    "comments": 57,
+    "id": 48158506,
+    "discussion_url": "https://news.ycombinator.com/item?id=48158506",
+    "description": "δ-mem: Efficient Online Memory for Large Language Models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-17T11:28:29.588278"
   }
 ]
