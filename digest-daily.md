@@ -1,86 +1,68 @@
 ---
-date: '2026-05-17'
+date: '2026-05-18'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-17T06:02:58.782195'
+generated_at: '2026-05-18T06:02:18.787890'
 ---
 
 ## Executive Summary
-- A deep dive into the chemistry of modern “P2P” methamphetamine shows a rapid shift from ephedrine‑based production, higher purity and changing usage patterns, while wastewater data confirms a nationwide surge in consumption.  
-- Anthropic faces a legal crossroads as a $1.5 billion copyright settlement stalls over fee disputes, even as the company’s business‑adoption rate now eclipses OpenAI’s despite recent model outages and cost hikes.  
-- Cisco announced a 5 % workforce cut to fund AI and cybersecurity upgrades, underscoring the industry trend of using AI spending to justify restructuring.  
-- Open‑source advances—from DeepSeek‑V4‑Flash steering to a Linux‑on‑Windows 9x subsystem and novel N64 rendering tricks—highlight a resurgence of community‑driven innovation.  
-- Climate and space news remind us of broader risks: Arctic wildfires are unlocking millennia‑old carbon, and asteroid 2026 JH2 will pass within 57 000 mi of Earth, offering a rare public viewing opportunity.
+- OpenAI’s partnership with Malta to provide free ChatGPT Plus to every citizen marks a world‑first move toward AI as a public utility.  
+- A critical authentication‑bypass flaw (CVE‑2026‑8181) in the popular Burst Statistics WordPress plugin is being actively exploited, prompting urgent updates.  
+- Google’s upcoming “Googlebooks” Android‑based laptops and Light‑Heart‑Labs’ DreamServer showcase the push toward locally‑run, privacy‑first AI workloads.  
+- Advances in personalized medicine (DNA vaccine for glioblastoma) and public‑health awareness (hantavirus outbreak) highlight growing intersections of biotech and AI.  
+- Enterprise software strategy is shifting from “system of record” to “system of intelligence,” underscoring the rising value of AI‑driven orchestration layers.
 
 ---
 
 ## AI and Machine Learning
 
-### The main thing about P2P meth is that there's so much of it [hackernews_api]  
-The article examines DEA data and wastewater monitoring to show that U.S. meth production shifted from ephedrine to phenyl‑2‑propanone (P2P) synthesis after regulatory bans, resulting in a racemic mixture that quickly returned to >95 % d‑meth potency and a marked rise in overall meth use.
+### DreamServer – a local‑first AI stack (GitHub)  
+A new open‑source project lets users run LLM inference, chat UI, voice, agents, RAG, and image generation entirely on personal hardware with a one‑click installer for Linux, Windows, and macOS. The modular design enables hybrid cloud use and includes pre‑wired services like OpenWebUI, Whisper, and n8n.
 
-### DeepSeek‑V4‑Flash means LLM steering is interesting again [hnrss]  
-A new open‑source Llama‑style model (DeepSeek‑V4‑Flash) paired with the DwarfStar 4 tool demonstrates “steering”—injecting activation vectors at inference time—to control model behavior, reviving interest in low‑cost, on‑device model manipulation despite limited practical adoption.
+### OpenAI + Malta: free ChatGPT Plus for all citizens (Hacker News – trending)  
+The Maltese government will give every resident a one‑year free ChatGPT Plus subscription after completing an AI‑literacy course, positioning AI as a utility comparable to electricity. The initiative is part of OpenAI’s “OpenAI for Countries” program and follows similar pilots in Estonia and Greece.
 
-### Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval - Ars Technica [newsfeed]  
-U.S. District Judge Araceli Martinez‑Olguín has paused approval of Anthropic’s $1.5 billion settlement over alleged book piracy, citing objections over massive attorney fees, paltry author payouts, and demands that the company destroy or restrict use of the infringing works.
+### Apple Silicon vs. OpenRouter inference costs (HN)  
+A detailed cost analysis shows that running large language models on an M5 MacBook Pro can be 0.4–4.8 USD per million tokens, roughly three times the price of OpenRouter’s cloud service. Hardware depreciation dominates cost, while inference speed remains the key differentiator.
 
-### Anthropic beats OpenAI on business adoption [tldr]  
-Ramp’s AI Index shows Anthropic’s corporate adoption rose to 34.4 % of U.S. firms in April, overtaking OpenAI’s 32.3 %, while Anthropic grapples with model outages, higher token costs for image prompts, and a new SpaceX compute partnership to shore up capacity.
+### Bespoke DNA vaccine for glioblastoma (Newsfeed)  
+An early‑phase trial of a personalized DNA vaccine in glioblastoma patients demonstrated safety and immune activation, suggesting that patient‑specific immunotherapies could become a viable component of multimodal cancer treatment.
 
-### Reddit – Please wait for verification [reddit]  
-*No content provided; story omitted from synthesis.*
+### Googlebooks – Android‑powered laptops (Ars Technica)  
+Google’s forthcoming “Googlebooks” line will ship Android laptops with native Play Store apps and Gemini‑driven AI features such as Magic Pointer and Magic Cue. OEM partners will build the hardware, and deep phone‑laptop integration is promised, though the adoption of AI UI cues remains uncertain.
+
+### Google AI “best” query answer changes (TLDR) – *content not provided*  
+The article’s full text was not supplied; therefore a synthesis cannot be generated.
+
+### Reddit verification post (Reddit) – *content not provided*  
+No article text was provided; synthesis omitted.
 
 ---
 
 ## Cybersecurity and Privacy
 
-### Cisco cuts nearly 4,000 jobs to spend more on AI, reports 'record quarterly revenue' | TechCrunch [tldr]  
-Cisco announced a 5 % workforce reduction (~4,000 jobs) to re‑allocate resources toward AI and cybersecurity initiatives, even as it posted record quarterly revenue and continues to address lingering router and firewall vulnerabilities.
+### Auth‑bypass in Burst Statistics WordPress plugin (TLDR)  
+A critical flaw (CVE‑2026‑8181) lets unauthenticated attackers impersonate any admin via a malformed REST API request, enabling full site takeover. The vulnerability was patched in version 3.4.2; users should update immediately and monitor REST activity.
 
 ---
 
 ## Software Engineering and Dev Tools
 
-### Join the Hermes Agent Challenge: $1,000 in Prizes! - DEV Community [devto]  
-Developers are invited to build or write about the open‑source Hermes Agent, an autonomous AI assistant, with a $1,000 prize pool split across eight winners; submissions are due May 31, with judging focused on agentic capability and content quality.
+### A nicer voltmeter clock – hardware hack (HN)  
+Developer lcamtuf released an improved voltmeter clock built from inexpensive panel meters, CNC‑machined wood housing, and an AVR128DB28 MCU that drives the meters with a 1‑bit pulse train, eliminating the need for DACs. The open‑source design includes full schematics and firmware.
 
-### ASCII by Jason Scott [hackernews_api]  
-After a decade‑long rescue of ~13,000 technical manuals, Jason Scott digitized the collection for the Internet Archive, overcoming funding and logistics hurdles and preserving a valuable engineering heritage for future research.
+### Best indoor garden systems – 2026 roundup (WIRED)  
+After a year of testing, Gardyn Home 4.0 emerged as the top overall indoor hydroponic system, offering AI‑driven watering and lighting via the Kelby app. Security patches addressed remote‑control bugs, and while performance is strong, cleaning and subscription costs are notable drawbacks.
 
-### PhobosLab – Additive Blending on the Nintendo 64 [hackernews_api]  
-A technical guide explains how to achieve proper additive blending on the N64 by rendering to a 32‑bit buffer, pre‑scaling sprite intensity, and using the RSP to clamp results back to 16‑bit, eliminating color wrap‑around artifacts.
+### Hantavirus outbreak briefing (Newsfeed)  
+A recent cruise‑ship hantavirus cluster exposed gaps in surveillance, lack of a vaccine, and inadequate public‑health response. Experts call for accelerated vaccine research and stronger preparedness protocols for zoonotic threats.
 
-### hails/wsl9x: Windows 9x subsystem for Linux - Codeberg.org [hnrss]  
-The WSL9x project runs a patched Linux 6.19 kernel cooperatively inside the Windows 9x environment, providing modern memory protection and pre‑emptive scheduling without AI assistance, and includes detailed build instructions.
+### Bulgaria’s first Eurovision win (NPR)  
+Bulgaria captured its inaugural Eurovision victory with “Bangaranga” by Dara, amid political protests over the Gaza war and debates about EBU voting rule changes. The win underscores the contest’s cultural impact and its role in fostering unity despite geopolitical tensions.
 
-### Build with Notion’s Developer Platform – Notion [tldr]  
-Notion’s new “Workers” let developers sync external data, create custom tools, and orchestrate LLM agents directly on Notion’s hosted runtime, offering a low‑code path to build internal workflows and integrate third‑party APIs.
-
-### Development environments for your cloud agents · Cursor [tldr]  
-Cursor introduces configurable, code‑as‑infrastructure environments for cloud‑based AI agents, supporting multi‑repo setups, Docker‑based builds with secret handling, and governance features like versioned rollbacks and audit logs.
-
----
-
-## Open Source
-
-### Ancient teeth hint at links between Denisovans and Homo erectus | New Scientist [newsfeed]  
-Proteomic analysis of six ~400 ka Chinese hominin teeth reveals a Denisovan‑type protein variant alongside a unique H. erectus signature, suggesting possible interbreeding between the two groups, though alternative explanations remain.
-
----
-
-## Cloud and Infrastructure
-
-### Asteroid 2026 JH2 Is About to Fly Right Past Earth—Relatively Speaking | WIRED [newsfeed]  
-Near‑Earth asteroid 2026 JH2, about 20 m across, will pass within 57 000 mi of Earth on May 18, offering an amateur‑astronomy viewing opportunity but posing no impact threat.
-
----
-
-## Science and Research
-
-### Arctic fires are releasing carbon stored for thousands of years | New Scientist [newsfeed]  
-Recent Arctic and boreal wildfires have ignited deep soil carbon up to 5 000 years old, emitting CO₂ and black carbon that current climate models omit, raising concerns that shifting fire regimes could amplify global warming.
+### From “System of Record” to “System of Intelligence” (TLDR)  
+The article argues that enterprise value will shift from owning CRM databases (systems of record) to owning AI‑driven reasoning layers (systems of intelligence) that orchestrate agents, pull data from multiple sources, and lock users into workflow ecosystems.
 
 ---
 
 ## Notable Mentions
-- *No additional bullet‑point items were provided in the source material.*
+- *No additional mentions were provided for today.*
