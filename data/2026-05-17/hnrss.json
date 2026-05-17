@@ -1,287 +1,272 @@
 [
   {
-    "title": "3D Gaussian Splatting in a Weekend",
-    "url": "https://bfeldman.me/3dgs-weekend/",
-    "description": "3D Gaussian Splatting in a Weekend",
-    "date": "2026-05-13",
-    "score": 101,
-    "comments": 10,
-    "discussion_url": "https://news.ycombinator.com/item?id=48126431",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439568"
-  },
-  {
-    "title": "A molecule with half-Möbius topology",
-    "url": "https://www.science.org/doi/10.1126/science.aea3321",
-    "description": "A molecule with half-Möbius topology",
-    "date": "2026-05-12",
-    "score": 100,
-    "comments": 7,
-    "discussion_url": "https://news.ycombinator.com/item?id=48109756",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439579"
-  },
-  {
     "title": "A nicer voltmeter clock",
     "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
     "description": "A nicer voltmeter clock",
     "date": "2026-05-16",
-    "score": 206,
-    "comments": 27,
+    "score": 285,
+    "comments": 36,
     "discussion_url": "https://news.ycombinator.com/item?id=48164432",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439389"
+    "fetched_at": "2026-05-17T19:29:41.777103"
   },
   {
-    "title": "Accelerando (2005)",
-    "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-    "description": "Accelerando (2005)",
-    "date": "2026-05-16",
-    "score": 301,
-    "comments": 170,
-    "discussion_url": "https://news.ycombinator.com/item?id=48159241",
+    "title": "AI is a technology not a product",
+    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+    "description": "AI is a technology not a product",
+    "date": "2026-05-17",
+    "score": 214,
+    "comments": 76,
+    "discussion_url": "https://news.ycombinator.com/item?id=48168626",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439482"
+    "fetched_at": "2026-05-17T19:29:41.777009"
   },
   {
-    "title": "C++26 Shipped a SIMD Library Nobody Asked For",
-    "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
-    "description": "C++26 Shipped a SIMD Library Nobody Asked For",
-    "date": "2026-05-15",
-    "score": 146,
-    "comments": 106,
-    "discussion_url": "https://news.ycombinator.com/item?id=48144584",
+    "title": "Apple Silicon costs more than OpenRouter",
+    "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+    "description": "Apple Silicon costs more than OpenRouter",
+    "date": "2026-05-17",
+    "score": 243,
+    "comments": 203,
+    "discussion_url": "https://news.ycombinator.com/item?id=48168198",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439547"
+    "fetched_at": "2026-05-17T19:29:41.777044"
+  },
+  {
+    "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
+    "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+    "description": "At least 25 Flock cameras have been destroyed in five states since April 2025",
+    "date": "2026-05-17",
+    "score": 385,
+    "comments": 272,
+    "discussion_url": "https://news.ycombinator.com/item?id=48170798",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-17T19:29:41.776955"
   },
   {
     "title": "Colossus: The Forbin Project",
     "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
     "description": "Colossus: The Forbin Project",
     "date": "2026-05-14",
-    "score": 114,
-    "comments": 36,
+    "score": 193,
+    "comments": 69,
     "discussion_url": "https://news.ycombinator.com/item?id=48142115",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439557"
+    "fetched_at": "2026-05-17T19:29:41.777157"
   },
   {
-    "title": "Frontier AI has broken the open CTF format",
-    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-    "description": "Frontier AI has broken the open CTF format",
-    "date": "2026-05-16",
-    "score": 387,
-    "comments": 392,
-    "discussion_url": "https://news.ycombinator.com/item?id=48157559",
+    "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+    "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+    "description": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+    "date": "2026-05-17",
+    "score": 316,
+    "comments": 316,
+    "discussion_url": "https://news.ycombinator.com/item?id=48168056",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439525"
-  },
-  {
-    "title": "Greek Alphabet Cards",
-    "url": "https://labs.randomquark.com/alphabet_cards/",
-    "description": "Greek Alphabet Cards",
-    "date": "2026-05-16",
-    "score": 130,
-    "comments": 59,
-    "discussion_url": "https://news.ycombinator.com/item?id=48159354",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439470"
-  },
-  {
-    "title": "Halt and Catch Fire",
-    "url": "https://unstack.io/halt-and-catch-fire",
-    "description": "Halt and Catch Fire",
-    "date": "2026-05-16",
-    "score": 144,
-    "comments": 80,
-    "discussion_url": "https://news.ycombinator.com/item?id=48162468",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439437"
+    "fetched_at": "2026-05-17T19:29:41.777070"
   },
   {
     "title": "Hosting a website on an 8-bit microcontroller",
     "url": "https://maurycyz.com/projects/mcusite/",
     "description": "Hosting a website on an 8-bit microcontroller",
     "date": "2026-05-17",
-    "score": 145,
-    "comments": 12,
+    "score": 208,
+    "comments": 17,
     "discussion_url": "https://news.ycombinator.com/item?id=48165295",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439375"
+    "fetched_at": "2026-05-17T19:29:41.777092"
   },
   {
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "description": "I believe there are entire companies right now under AI psychosis",
-    "date": "2026-05-15",
-    "score": 1991,
-    "comments": 1172,
-    "discussion_url": "https://news.ycombinator.com/item?id=48153379",
+    "title": "I don't think AI will make your processes go faster",
+    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "description": "I don't think AI will make your processes go faster",
+    "date": "2026-05-17",
+    "score": 382,
+    "comments": 284,
+    "discussion_url": "https://news.ycombinator.com/item?id=48168221",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439536"
+    "fetched_at": "2026-05-17T19:29:41.777025"
   },
   {
-    "title": "MCP Hello Page",
-    "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-    "description": "MCP Hello Page",
-    "date": "2026-05-16",
-    "score": 105,
-    "comments": 36,
-    "discussion_url": "https://news.ycombinator.com/item?id=48164294",
+    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "url": "https://github.com/tech4bot/rk3562deb",
+    "description": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "date": "2026-05-17",
+    "score": 148,
+    "comments": 83,
+    "discussion_url": "https://news.ycombinator.com/item?id=48168668",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439401"
+    "fetched_at": "2026-05-17T19:29:41.776995"
+  },
+  {
+    "title": "Meta deletes popular 1M follower account after Kuwaiti request",
+    "url": "https://twitter.com/ryangrim/status/2055992439031185782",
+    "description": "Meta deletes popular 1M follower account after Kuwaiti request",
+    "date": "2026-05-17",
+    "score": 106,
+    "comments": 55,
+    "discussion_url": "https://news.ycombinator.com/item?id=48170810",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-17T19:29:41.776929"
   },
   {
     "title": "Moving away from Tailwind, and learning to structure my CSS",
     "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
     "description": "Moving away from Tailwind, and learning to structure my CSS",
     "date": "2026-05-16",
-    "score": 566,
-    "comments": 321,
+    "score": 640,
+    "comments": 355,
     "discussion_url": "https://news.ycombinator.com/item?id=48158400",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439504"
+    "fetched_at": "2026-05-17T19:29:41.777135"
   },
   {
     "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
     "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
     "description": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
     "date": "2026-05-17",
-    "score": 264,
-    "comments": 79,
+    "score": 536,
+    "comments": 231,
     "discussion_url": "https://news.ycombinator.com/item?id=48166459",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439351"
+    "fetched_at": "2026-05-17T19:29:41.777082"
+  },
+  {
+    "title": "Native all the way, until you need text",
+    "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+    "description": "Native all the way, until you need text",
+    "date": "2026-05-17",
+    "score": 312,
+    "comments": 210,
+    "discussion_url": "https://news.ycombinator.com/item?id=48168058",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-17T19:29:41.777058"
   },
   {
     "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
     "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
     "description": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
     "date": "2026-05-16",
-    "score": 209,
-    "comments": 245,
+    "score": 294,
+    "comments": 308,
     "discussion_url": "https://news.ycombinator.com/item?id=48163392",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439426"
+    "fetched_at": "2026-05-17T19:29:41.777125"
   },
   {
-    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-    "url": "https://nvlabs.github.io/Sana/WM/",
-    "description": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-    "date": "2026-05-16",
-    "score": 348,
-    "comments": 137,
-    "discussion_url": "https://news.ycombinator.com/item?id=48159445",
+    "title": "Prolog Basics Explained with Pokémon",
+    "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+    "description": "Prolog Basics Explained with Pokémon",
+    "date": "2026-05-15",
+    "score": 161,
+    "comments": 29,
+    "discussion_url": "https://news.ycombinator.com/item?id=48147091",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439457"
+    "fetched_at": "2026-05-17T19:29:41.777146"
   },
   {
-    "title": "We've made the world too complicated",
-    "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-    "description": "We've made the world too complicated",
-    "date": "2026-05-16",
-    "score": 310,
-    "comments": 294,
-    "discussion_url": "https://news.ycombinator.com/item?id=48158065",
+    "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+    "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+    "description": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+    "date": "2026-05-17",
+    "score": 452,
+    "comments": 187,
+    "discussion_url": "https://news.ycombinator.com/item?id=48168856",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439515"
+    "fetched_at": "2026-05-17T19:29:41.776970"
+  },
+  {
+    "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+    "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+    "description": "WHO Declares Ebola Outbreak a Global Health Emergency",
+    "date": "2026-05-17",
+    "score": 222,
+    "comments": 126,
+    "discussion_url": "https://news.ycombinator.com/item?id=48168708",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-17T19:29:41.776983"
   },
   {
     "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
     "url": "https://crates.io/crates/zerostack/1.0.0",
     "description": "Zerostack – A Unix-inspired coding agent written in pure Rust",
     "date": "2026-05-16",
-    "score": 425,
-    "comments": 191,
+    "score": 513,
+    "comments": 284,
     "discussion_url": "https://news.ycombinator.com/item?id=48164287",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439413"
-  },
-  {
-    "title": "δ-mem: Efficient Online Memory for Large Language Models",
-    "url": "https://arxiv.org/abs/2605.12357",
-    "description": "δ-mem: Efficient Online Memory for Large Language Models",
-    "date": "2026-05-16",
-    "score": 220,
-    "comments": 57,
-    "discussion_url": "https://news.ycombinator.com/item?id=48158506",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-17T11:28:39.439493"
+    "fetched_at": "2026-05-17T19:29:41.777114"
   }
 ]

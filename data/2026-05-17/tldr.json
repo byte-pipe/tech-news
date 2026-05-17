@@ -270,16 +270,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude for Legal (GitHub Repo)",
-    "url": "https://github.com/anthropics/claude-for-legal",
-    "description": "Claude for Legal (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-17",
-    "site_name": "tldr"
-  },
-  {
     "title": "Claude for Small Business (8 minute read)",
     "url": "https://www.anthropic.com/news/claude-for-small-business",
     "description": "Claude for Small Business (8 minute read)",
@@ -353,6 +343,16 @@
     "title": "EtwWatcher (GitHub Repo)",
     "url": "https://github.com/jonny-jhnson/EtwWatcher",
     "description": "EtwWatcher (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Exaforce (Product Launch)",
+    "url": "https://www.exaforce.ai",
+    "description": "Exaforce (Product Launch)",
     "tags": [
       "tldr"
     ],
@@ -603,6 +603,16 @@
     "title": "Meet Bluekit: The AI-Powered All-in-One Phishing Kit (3 minute read)",
     "url": "https://www.varonis.com/blog/bluekit",
     "description": "Meet Bluekit: The AI-Powered All-in-One Phishing Kit (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft AntiSSRF (GitHub Repo)",
+    "url": "https://github.com/microsoft/AntiSSRF",
+    "description": "Microsoft AntiSSRF (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -913,16 +923,6 @@
     "title": "Supertonic (GitHub Repo)",
     "url": "https://github.com/supertone-inc/supertonic",
     "description": "Supertonic (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Sweet Security - Sweet Attack (Product Launch)",
-    "url": "https://www.sweet.security/",
-    "description": "Sweet Security - Sweet Attack (Product Launch)",
     "tags": [
       "tldr"
     ],
