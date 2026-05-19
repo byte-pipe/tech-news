@@ -1,78 +1,71 @@
 ---
-date: '2026-05-19'
+date: '2026-05-20'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-19T06:03:20.894246'
+generated_at: '2026-05-20T06:03:10.411727'
 ---
 
-## Executive Summary
-- Linus Torvalds warned that AI‑generated duplicate bug reports are overwhelming the Linux kernel security mailing list, sparking a debate over AI’s role in open‑source security.  
-- Apple is set to unveil a privacy‑focused, Gemini‑powered Siri app that may automatically delete conversations after configurable periods.  
-- Anthropic’s purchase of SDK‑automation startup Stainless consolidates a key tool used by major AI labs, while the ICE‑trained firearms trainer controversy raises questions about private‑sector influence on federal law‑enforcement training.  
-- In software tooling, the Clojure‑based compiler jank introduced a custom intermediate representation, and a “Prolog Coding Horror” guide warned against impurity‑driven bugs.  
-- Trending discussions centered on journalist Radley Balko’s dispute with Y Combinator’s Garry Tan over alleged source‑theft, and a series of cultural‑science stories highlighted living‑tree furniture and a millennia‑old dingo burial cared for by Australian Aboriginal elders.  
+## Executive Summary  
+- Google DeepMind unveiled **Gemini Omni**, a multimodal video‑creation system that lets users edit and generate videos through natural‑language dialogue, opening new avenues for education, marketing and rapid prototyping.  
+- The conflict on the Israel‑Lebanon border intensified, with the Lebanese health ministry reporting **22 deaths in the past 24 hours**, underscoring the humanitarian toll of the ongoing war.  
+- In software tooling, Google’s **Gemini 3.5** (trending) demonstrated frontier‑level reasoning and agentic capabilities, while Amazon Bedrock added a cross‑model prompt‑optimization service, both signaling a rapid acceleration of AI‑assisted development.  
+- Scientific research benefitted from AI breakthroughs: the **Ultra‑Pure Quantum Crystals** discovery (trending) promises cheaper, higher‑purity platforms for quantum‑spin‑liquid studies, and the **Empirical Research Assistance (ERA)** system showed AI can autonomously write expert‑level scientific software across multiple domains.  
 
 ---  
 
 ## AI and Machine Learning  
 
-- **Linus Torvalds says AI‑powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’** [hnrss]  
-  Torvalds cautioned that AI tools are flooding the kernel security list with duplicate, already‑public findings, creating “pointless churn” and diverting developer effort. He urged contributors to add genuine value beyond AI‑generated reports.  
+- **Gemini Omni – Google DeepMind** [hnrss]  
+  A multimodal video‑creation tool that accepts text, image, audio or video prompts and supports iterative, physics‑aware editing, enabling creators to swap objects, alter scenes and generate educational visualizations through conversational commands.  
 
-- **Apple’s Siri revamp could include auto‑deleting chats** [TechCrunch]  
-  At WWDC, Apple is expected to launch a standalone Siri app powered by Google Gemini that emphasizes privacy, offering optional auto‑deletion of chat histories after 30 days, one year, or never.  
+- **At least 22 killed in Israeli attacks on Lebanon in 24 hours** [newsfeed]  
+  Lebanon’s health ministry says 22 people died in a wave of Israeli airstrikes and drone attacks, bringing the death toll since early March to over 3,000 and prompting warnings that dozens of southern towns must evacuate.  
+
+- **Emma Willis, Josh Widdicombe and Johannes Radebe to present Strictly Come Dancing** [newsfeed]  
+  The BBC announced a three‑person presenting team for the new series of *Strictly Come Dancing*, citing the trio’s “undeniable chemistry” and outlining how the change will affect scheduling and judge line‑ups.  
 
 - **Reddit – Please wait for verification** [reddit]  
-  *Content not provided; unable to summarize.*  
+  No article content was provided; unable to generate a summary.  
 
-- **Agent Hooks: Deterministic Control for Agent Workflows** [tldr]  
-  The article introduces “hooks” that attach user‑defined handlers to specific agent lifecycle events (e.g., `PreToolUse`, `PostToolUse`) to enforce deterministic policies such as security checks, logging, and quality‑gate validation while keeping the LLM’s generative freedom.  
+- **Agent Evaluation: A Detailed Guide** [tldr]  
+  The guide outlines how modern LLM‑based agents differ from plain language models, describing the “agentic loop,” tool‑calling conventions, safety frameworks and a methodology for building realistic benchmarks.  
+
+- **AI Voice Cloning: The Technology Behind It, Who’s Building It, and Where It’s Headed** [tldr]  
+  No article text was supplied; summary cannot be produced.  
+
+---  
+
+## Cybersecurity and Privacy  
+
+- **As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?** [newsfeed]  
+  The WHO declared a Public Health Emergency for a new Bundibugyo‑variant Ebola outbreak, highlighting the lack of a vaccine, cross‑border spread to Uganda, and lessons from the 2018‑2020 DRC crisis such as mistrust, conflict‑driven disruptions, and mobility challenges.  
 
 ---  
 
 ## Software Engineering and Dev Tools  
 
-- **Ask an Astronaut** [hackernews_api]  
-  *Content not provided; unable to summarize.*  
+- **Gemini 3.5: frontier intelligence with action** [hackernews_api] *(trending)*  
+  Google’s latest model family couples high‑level reasoning with agentic tool use; the publicly released 3.5 Flash matches flagship performance while delivering four‑times higher throughput, powering multi‑step workflows, personal AI agents (Gemini Spark) and real‑world productivity gains at firms like Shopify and Databricks.  
 
-- **jank now has its own custom IR** [hackernews_api]  
-  The Clojure‑targeting compiler jank has abandoned LLVM IR for a higher‑level, language‑aware intermediate representation, enabling future optimizations that respect Clojure semantics such as persistent data structures and dynamic calls.  
+- **Google I/O 2026** [hackernews_api]  
+  The two‑day developer conference kicks off on May 19 with live keynotes and sessions, offering community‑group connections and a schedule of Google‑focused announcements.  
 
-- **Prolog Coding Horror** [hackernews_api]  
-  A tutorial warns that reliance on impure constructs (cuts, `assertz`, direct I/O) leads to lost solutions and hidden bugs, advocating a pure, constraint‑based style for more reliable Prolog programs.  
+- **Lisp: Common Lisp, Racket, Clojure, Emacs Lisp – Hyperpolyglot** [hackernews_api]  
+  A side‑by‑side cheat‑sheet compares syntax, REPL usage, compilation, and core primitives across four major Lisp dialects, serving as a quick reference for polyglot developers.  
 
-- **Truth, power, and honest journalism – by Radley Balko** [hackernews_api] *(trending)*  
-  Garry Tan accused Balko of “source‑theft” in a dispute over Dion Lim’s anti‑Asian hate‑crime reporting; Balko refuted the claim, clarifying his fact‑checking methods and denying collusion with the San Francisco DA’s office.  
-
-- **GitHub – 2b2tplace/1m_release: The Largest World Download Project in 2b2t** [hnrss]  
-  A community effort harvested ~24 TB of Minecraft world data (1 m² Overworld, 256 k² End, etc.) over 2024‑2026, releasing map viewers and open‑source tools for public exploration.  
-
-- **Qwen 3.7 Preview** [hnrss]  
-  The page displayed a generic browser‑JavaScript error; no substantive content was available for summarization.  
-
-- **An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings** [WIRED]  
-  Former Phoenix cop David S. Norman, founder of TruKinetics, testified that his private training program for ICE/SRT agents was linked to four fatal police shootings, raising concerns about the militarization of immigration enforcement.  
-
-- **Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare** [TechCrunch]  
-  Anthropic bought Stainless, a SDK‑generation platform, to internalize the technology that powers its own SDKs and to restrict competitor access, signaling deeper vertical integration of AI‑infrastructure.  
+- **Amazon Bedrock introduces new advanced prompt optimization and migration tool** [tldr]  
+  Bedrock’s new feature lets users test, rewrite and migrate prompts across up to five models simultaneously, with multimodal support, LLM‑as‑a‑Judge scoring, and region‑wide availability, aiming to improve cost, latency and output quality.  
 
 ---  
 
 ## Science and Research  
 
-- **‘We mould trees to grow into the shape of chairs’ – BBC News** [hnrss]  
-  Designers Alice and Gavin Munro’s Full Grown project trains living trees on recycled‑plastic forms for 6‑9 years, producing functional furniture; the venture is expanding with an academy and recent exhibitions at the RHS Chelsea Flower Show and major museums.  
+- **Ultra‑Pure Quantum Crystals from an Abandoned Mine in the Atacama Desert** [hackernews_api] *(trending)*  
+  Researchers uncovered naturally occurring Herbertsmithite crystals of exceptional purity in Chile’s Atacama desert, offering a low‑cost, high‑quality platform for quantum‑spin‑liquid studies that could accelerate quantum‑computing research.  
 
-- **Australian Aboriginals cared for a dingo's grave for decades** [Ars Technica]  
-  Archaeologists and Barkindji elders uncovered a 1,000‑year‑old dingo burial in a shell mound, revealing multi‑generational ritual care and suggesting deep social bonds between Aboriginal peoples and dingoes.  
-
----  
-
-## Uncategorized  
-
-- **Thread by @TheDeFinvestor on Thread Reader App** [tldr]  
-  *Content not provided; unable to summarize.*  
+- **An AI system to help scientists write expert‑level empirical software** [newsfeed]  
+  The ERA system combines a large language model with tree‑search to autonomously generate and refine scientific software, outperforming human‑crafted methods in bioinformatics, epidemiology and several other domains, demonstrating AI’s potential to remove software bottlenecks in research.  
 
 ---  
 
 ## Notable Mentions  
-- AWS Outage May 2026: Lessons for Database Disaster Recovery [tldr]   (brief analysis of the outage’s impact on cloud‑based database architectures).
+- *(No additional items were provided in the source material.)*
