@@ -4,8 +4,8 @@
     "url": "https://github.com/2b2tplace/1m_release",
     "author": "exploraz",
     "date": "2026-05-18",
-    "score": 151,
-    "comments": 93,
+    "score": 174,
+    "comments": 116,
     "id": 48180204,
     "discussion_url": "https://news.ycombinator.com/item?id=48180204",
     "description": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
@@ -14,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423023"
+    "fetched_at": "2026-05-19T19:37:00.712860"
   },
   {
     "title": "AI eats the world (Spring 26) [pdf]",
     "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
     "author": "topherjaynes",
     "date": "2026-05-18",
-    "score": 252,
-    "comments": 138,
+    "score": 284,
+    "comments": 152,
     "id": 48179021,
     "discussion_url": "https://news.ycombinator.com/item?id=48179021",
     "description": "AI eats the world (Spring 26) [pdf]",
@@ -31,32 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423048"
-  },
-  {
-    "title": "Agora-1: The Multi-Agent World Model",
-    "url": "https://odyssey.ml/introducing-agora-1",
-    "author": "olivercameron",
-    "date": "2026-05-18",
-    "score": 114,
-    "comments": 22,
-    "id": 48183748,
-    "discussion_url": "https://news.ycombinator.com/item?id=48183748",
-    "description": "Agora-1: The Multi-Agent World Model",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423103"
+    "fetched_at": "2026-05-19T19:37:00.712879"
   },
   {
     "title": "Anthropic acquires Stainless",
     "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
     "author": "tomeraberbach",
     "date": "2026-05-18",
-    "score": 469,
-    "comments": 331,
+    "score": 521,
+    "comments": 365,
     "id": 48182281,
     "discussion_url": "https://news.ycombinator.com/item?id=48182281",
     "description": "Anthropic acquires Stainless",
@@ -65,15 +48,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423012"
+    "fetched_at": "2026-05-19T19:37:00.712917"
+  },
+  {
+    "title": "Anyone on the Internet Can Ring Your Doorbell",
+    "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
+    "author": "jrdres",
+    "date": "2026-05-17",
+    "score": 113,
+    "comments": 85,
+    "id": 48165944,
+    "discussion_url": "https://news.ycombinator.com/item?id=48165944",
+    "description": "Anyone on the Internet Can Ring Your Doorbell",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-19T19:37:00.712883"
+  },
+  {
+    "title": "Apple unveils new accessibility features",
+    "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+    "author": "interpol_p",
+    "date": "2026-05-19",
+    "score": 490,
+    "comments": 261,
+    "id": 48192224,
+    "discussion_url": "https://news.ycombinator.com/item?id=48192224",
+    "description": "Apple unveils new accessibility features",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-19T19:37:00.712783"
+  },
+  {
+    "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+    "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+    "author": "LelouBil",
+    "date": "2026-05-19",
+    "score": 305,
+    "comments": 140,
+    "id": 48190454,
+    "discussion_url": "https://news.ycombinator.com/item?id=48190454",
+    "description": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-19T19:37:00.712700"
   },
   {
     "title": "Click (2016)",
     "url": "https://clickclickclick.click/",
     "author": "andrewzeno",
     "date": "2026-05-18",
-    "score": 321,
-    "comments": 79,
+    "score": 360,
+    "comments": 91,
     "id": 48187054,
     "discussion_url": "https://news.ycombinator.com/item?id=48187054",
     "description": "Click (2016)",
@@ -82,15 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.422972"
+    "fetched_at": "2026-05-19T19:37:00.712833"
+  },
+  {
+    "title": "Colonization of Venus",
+    "url": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
+    "author": "simonebrunozzi",
+    "date": "2026-05-19",
+    "score": 105,
+    "comments": 83,
+    "id": 48192410,
+    "discussion_url": "https://news.ycombinator.com/item?id=48192410",
+    "description": "Colonization of Venus",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-19T19:37:00.712897"
   },
   {
     "title": "Cursor Introduces Composer 2.5",
     "url": "https://cursor.com/blog/composer-2-5",
     "author": "asar",
     "date": "2026-05-18",
-    "score": 171,
-    "comments": 125,
+    "score": 272,
+    "comments": 196,
     "id": 48182516,
     "discussion_url": "https://news.ycombinator.com/item?id=48182516",
     "description": "Cursor Introduces Composer 2.5",
@@ -99,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.422986"
+    "fetched_at": "2026-05-19T19:37:00.712795"
   },
   {
     "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
     "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "author": "nycdatasci",
     "date": "2026-05-18",
-    "score": 985,
-    "comments": 494,
+    "score": 1055,
+    "comments": 546,
     "id": 48182754,
     "discussion_url": "https://news.ycombinator.com/item?id=48182754",
     "description": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
@@ -116,15 +167,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423086"
+    "fetched_at": "2026-05-19T19:37:00.712904"
+  },
+  {
+    "title": "Gemini 3.5 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "author": "spectraldrift",
+    "date": "2026-05-19",
+    "score": 124,
+    "comments": 132,
+    "id": 48196570,
+    "discussion_url": "https://news.ycombinator.com/item?id=48196570",
+    "description": "Gemini 3.5 Flash",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-19T19:37:00.712677"
+  },
+  {
+    "title": "Google I/O",
+    "url": "https://io.google/2026/",
+    "author": "thanhhaimai",
+    "date": "2026-05-19",
+    "score": 164,
+    "comments": 215,
+    "id": 48196020,
+    "discussion_url": "https://news.ycombinator.com/item?id=48196020",
+    "description": "Google I/O",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-19T19:37:00.712803"
+  },
+  {
+    "title": "Hanoi’s humble beer glass and the memory of a nation",
+    "url": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
+    "author": "NaOH",
+    "date": "2026-05-18",
+    "score": 91,
+    "comments": 23,
+    "id": 48182872,
+    "discussion_url": "https://news.ycombinator.com/item?id=48182872",
+    "description": "Hanoi’s humble beer glass and the memory of a nation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-19T19:37:00.712733"
   },
   {
     "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
     "url": "https://hyperpolyglot.org/lisp",
     "author": "veqq",
     "date": "2026-05-18",
-    "score": 167,
-    "comments": 39,
+    "score": 184,
+    "comments": 44,
     "id": 48184322,
     "discussion_url": "https://news.ycombinator.com/item?id=48184322",
     "description": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
@@ -133,66 +235,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423044"
+    "fetched_at": "2026-05-19T19:37:00.712837"
   },
   {
-    "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
-    "author": "srameshc",
-    "date": "2026-05-18",
-    "score": 318,
-    "comments": 554,
-    "id": 48182592,
-    "discussion_url": "https://news.ycombinator.com/item?id=48182592",
-    "description": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+    "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+    "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
+    "author": "vi_sextus_vi",
+    "date": "2026-05-17",
+    "score": 229,
+    "comments": 92,
+    "id": 48165797,
+    "discussion_url": "https://news.ycombinator.com/item?id=48165797",
+    "description": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423166"
+    "fetched_at": "2026-05-19T19:37:00.712753"
   },
   {
-    "title": "It is time to give up the dualism introduced by the debate on consciousness",
-    "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-    "author": "ahalbert4",
-    "date": "2026-05-18",
-    "score": 292,
-    "comments": 720,
-    "id": 48175140,
-    "discussion_url": "https://news.ycombinator.com/item?id=48175140",
-    "description": "It is time to give up the dualism introduced by the debate on consciousness",
+    "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+    "url": "https://virtualosmuseum.org/",
+    "author": "andreww591",
+    "date": "2026-05-19",
+    "score": 366,
+    "comments": 79,
+    "id": 48195009,
+    "discussion_url": "https://news.ycombinator.com/item?id=48195009",
+    "description": "I’ve built a virtual museum with nearly every operating system you can think of",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423152"
+    "fetched_at": "2026-05-19T19:37:00.712704"
   },
   {
-    "title": "Learn Harness Engineering",
-    "url": "https://walkinglabs.github.io/learn-harness-engineering/en/",
-    "author": "redbell",
-    "date": "2026-05-18",
-    "score": 140,
-    "comments": 14,
-    "id": 48178652,
-    "discussion_url": "https://news.ycombinator.com/item?id=48178652",
-    "description": "Learn Harness Engineering",
+    "title": "I’ve joined Anthropic",
+    "url": "https://twitter.com/karpathy/status/2056753169888334312",
+    "author": "dmarcos",
+    "date": "2026-05-19",
+    "score": 873,
+    "comments": 344,
+    "id": 48194352,
+    "discussion_url": "https://news.ycombinator.com/item?id=48194352",
+    "description": "I’ve joined Anthropic",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423204"
+    "fetched_at": "2026-05-19T19:37:00.712713"
+  },
+  {
+    "title": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
+    "url": "https://www.kv4p.com/",
+    "author": "krupan",
+    "date": "2026-05-16",
+    "score": 157,
+    "comments": 66,
+    "id": 48161772,
+    "discussion_url": "https://news.ycombinator.com/item?id=48161772",
+    "description": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-19T19:37:00.712787"
   },
   {
     "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
     "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
     "author": "theanonymousone",
     "date": "2026-05-19",
-    "score": 130,
-    "comments": 70,
+    "score": 322,
+    "comments": 246,
     "id": 48189368,
     "discussion_url": "https://news.ycombinator.com/item?id=48189368",
     "description": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
@@ -201,15 +320,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423015"
+    "fetched_at": "2026-05-19T19:37:00.712768"
+  },
+  {
+    "title": "OpenBSD 7.9",
+    "url": "https://www.openbsd.org/79.html",
+    "author": "bradley_taunt",
+    "date": "2026-05-19",
+    "score": 309,
+    "comments": 221,
+    "id": 48192882,
+    "discussion_url": "https://news.ycombinator.com/item?id=48192882",
+    "description": "OpenBSD 7.9",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-19T19:37:00.712822"
   },
   {
     "title": "Peter Neumann has died",
     "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
     "author": "pabs3",
     "date": "2026-05-19",
-    "score": 163,
-    "comments": 10,
+    "score": 291,
+    "comments": 23,
     "id": 48188787,
     "discussion_url": "https://news.ycombinator.com/item?id=48188787",
     "description": "Peter Neumann has died",
@@ -218,32 +354,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423040"
+    "fetched_at": "2026-05-19T19:37:00.712749"
   },
   {
-    "title": "Peter Salus has died",
-    "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
-    "author": "speckx",
-    "date": "2026-05-19",
-    "score": 148,
-    "comments": 12,
-    "id": 48188665,
-    "discussion_url": "https://news.ycombinator.com/item?id=48188665",
-    "description": "Peter Salus has died",
+    "title": "Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
+    "url": "https://github.com/Diolinux/PhotoGIMP",
+    "author": "SockThief",
+    "date": "2026-05-17",
+    "score": 184,
+    "comments": 167,
+    "id": 48167890,
+    "discussion_url": "https://news.ycombinator.com/item?id=48167890",
+    "description": "Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423075"
+    "fetched_at": "2026-05-19T19:37:00.712815"
+  },
+  {
+    "title": "Polypad",
+    "url": "https://polypad.amplify.com/",
+    "author": "ivank",
+    "date": "2026-05-17",
+    "score": 196,
+    "comments": 23,
+    "id": 48166744,
+    "discussion_url": "https://news.ycombinator.com/item?id=48166744",
+    "description": "Polypad",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-19T19:37:00.712780"
   },
   {
     "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
     "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
     "author": "cucho",
     "date": "2026-05-18",
-    "score": 244,
-    "comments": 158,
+    "score": 283,
+    "comments": 206,
     "id": 48187201,
     "discussion_url": "https://news.ycombinator.com/item?id=48187201",
     "description": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
@@ -252,32 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423031"
-  },
-  {
-    "title": "Project Glasswing: what Mythos showed us",
-    "url": "https://blog.cloudflare.com/cyber-frontier-models/",
-    "author": "Fysi",
-    "date": "2026-05-18",
-    "score": 336,
-    "comments": 131,
-    "id": 48179732,
-    "discussion_url": "https://news.ycombinator.com/item?id=48179732",
-    "description": "Project Glasswing: what Mythos showed us",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423170"
+    "fetched_at": "2026-05-19T19:37:00.712914"
   },
   {
     "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
     "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
     "author": "surprisetalk",
     "date": "2026-05-14",
-    "score": 142,
-    "comments": 32,
+    "score": 166,
+    "comments": 47,
     "id": 48136909,
     "discussion_url": "https://news.ycombinator.com/item?id=48136909",
     "description": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
@@ -286,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.422999"
+    "fetched_at": "2026-05-19T19:37:00.712818"
   },
   {
     "title": "Show HN: Files.md – Open-source alternative to Obsidian",
     "url": "https://github.com/zakirullin/files.md",
     "author": "zakirullin",
     "date": "2026-05-18",
-    "score": 645,
-    "comments": 312,
+    "score": 682,
+    "comments": 329,
     "id": 48179677,
     "discussion_url": "https://news.ycombinator.com/item?id=48179677",
     "description": "Show HN: Files.md – Open-source alternative to Obsidian",
@@ -303,15 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423097"
+    "fetched_at": "2026-05-19T19:37:00.712921"
+  },
+  {
+    "title": "Show HN: Gaussian Splat of a Strawberry",
+    "url": "https://superspl.at/scene/84df8849",
+    "author": "danybittel",
+    "date": "2026-05-19",
+    "score": 415,
+    "comments": 164,
+    "id": 48191602,
+    "discussion_url": "https://news.ycombinator.com/item?id=48191602",
+    "description": "Show HN: Gaussian Splat of a Strawberry",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-19T19:37:00.712695"
   },
   {
     "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
     "url": "https://isabisabel.com/gacha/",
     "author": "babel16",
     "date": "2026-05-13",
-    "score": 174,
-    "comments": 66,
+    "score": 224,
+    "comments": 116,
     "id": 48123359,
     "discussion_url": "https://news.ycombinator.com/item?id=48123359",
     "description": "Show HN: Number Gacha, a gacha game distilled to its essence",
@@ -320,83 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.422943"
-  },
-  {
-    "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
-    "author": "Lihh27",
-    "date": "2026-05-18",
-    "score": 168,
-    "comments": 84,
-    "id": 48184635,
-    "discussion_url": "https://news.ycombinator.com/item?id=48184635",
-    "description": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423187"
-  },
-  {
-    "title": "Strange crystals found inside wreckage from the first nuclear bomb test",
-    "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
-    "author": "jumploops",
-    "date": "2026-05-15",
-    "score": 177,
-    "comments": 86,
-    "id": 48155450,
-    "discussion_url": "https://news.ycombinator.com/item?id=48155450",
-    "description": "Strange crystals found inside wreckage from the first nuclear bomb test",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423197"
-  },
-  {
-    "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-    "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
-    "author": "cdrnsf",
-    "date": "2026-05-18",
-    "score": 290,
-    "comments": 118,
-    "id": 48184350,
-    "discussion_url": "https://news.ycombinator.com/item?id=48184350",
-    "description": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423132"
-  },
-  {
-    "title": "The Fil-C Optimized Calling Convention",
-    "url": "https://fil-c.org/calling_convention",
-    "author": "pizlonator",
-    "date": "2026-05-16",
-    "score": 140,
-    "comments": 28,
-    "id": 48162876,
-    "discussion_url": "https://news.ycombinator.com/item?id=48162876",
-    "description": "The Fil-C Optimized Calling Convention",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423114"
+    "fetched_at": "2026-05-19T19:37:00.712845"
   },
   {
     "title": "The last six months in LLMs in five minutes",
     "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
     "author": "yakkomajuri",
     "date": "2026-05-19",
-    "score": 507,
-    "comments": 381,
+    "score": 679,
+    "comments": 531,
     "id": 48188183,
     "discussion_url": "https://news.ycombinator.com/item?id=48188183",
     "description": "The last six months in LLMs in five minutes",
@@ -405,66 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.422980"
-  },
-  {
-    "title": "The quiet renovation at Bitwarden",
-    "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-    "author": "DaSHacka",
-    "date": "2026-05-16",
-    "score": 647,
-    "comments": 291,
-    "id": 48163389,
-    "discussion_url": "https://news.ycombinator.com/item?id=48163389",
-    "description": "The quiet renovation at Bitwarden",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423110"
-  },
-  {
-    "title": "Two computers, one monitor, zero fiddling (2025)",
-    "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
-    "author": "ankitg12",
-    "date": "2026-05-16",
-    "score": 228,
-    "comments": 132,
-    "id": 48156186,
-    "discussion_url": "https://news.ycombinator.com/item?id=48156186",
-    "description": "Two computers, one monitor, zero fiddling (2025)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423079"
-  },
-  {
-    "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-    "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
-    "author": "SVI",
-    "date": "2026-05-18",
-    "score": 125,
-    "comments": 31,
-    "id": 48178378,
-    "discussion_url": "https://news.ycombinator.com/item?id=48178378",
-    "description": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423162"
+    "fetched_at": "2026-05-19T19:37:00.712745"
   },
   {
     "title": "We let AIs run radio stations",
     "url": "https://andonlabs.com/blog/andon-fm",
     "author": "lukaspetersson",
     "date": "2026-05-18",
-    "score": 281,
-    "comments": 219,
+    "score": 347,
+    "comments": 264,
     "id": 48183301,
     "discussion_url": "https://news.ycombinator.com/item?id=48183301",
     "description": "We let AIs run radio stations",
@@ -473,40 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.422932"
-  },
-  {
-    "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-    "url": "https://archestra.ai/blog/only-responsible-ai",
-    "author": "ildari",
-    "date": "2026-05-18",
-    "score": 472,
-    "comments": 230,
-    "id": 48181125,
-    "discussion_url": "https://news.ycombinator.com/item?id=48181125",
-    "description": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423118"
-  },
-  {
-    "title": "What Is Date:Italy?",
-    "url": "http://aesthetikx.info/blog/date_italy.html",
-    "author": "jollyjerry",
-    "date": "2026-05-16",
-    "score": 147,
-    "comments": 60,
-    "id": 48162157,
-    "discussion_url": "https://news.ycombinator.com/item?id=48162157",
-    "description": "What Is Date:Italy?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-19T12:04:02.423129"
+    "fetched_at": "2026-05-19T19:37:00.712810"
   }
 ]
