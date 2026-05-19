@@ -1,15 +1,5 @@
 [
   {
-    "title": "11 tips to get blogs cited (2 minute read)",
-    "url": "https://www.linkedin.com/posts/kyle-morley_the-blog-posts-winning-ai-citations-right-share-7459556848933928960-O0Qw",
-    "description": "11 tips to get blogs cited (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "5 Things to Know about the CLARITY Act (4 minute read)",
     "url": "https://finovate.com/5-things-to-know-about-the-clarity-act/",
     "description": "5 Things to Know about the CLARITY Act (4 minute read)",
@@ -100,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI-assisted testing, extensions updates, and more: k6 2.0 is here (6 minute read)",
-    "url": "https://grafana.com/blog/k6-2-0-release/",
-    "description": "AI-assisted testing, extensions updates, and more: k6 2.0 is here (6 minute read)",
+    "title": "AWS Outage May 2026: Lessons for Database Disaster Recovery (10 minute read)",
+    "url": "https://www.singlestore.com/blog/aws-outage-may-2026-cross-region-disaster-recovery/",
+    "description": "AWS Outage May 2026: Lessons for Database Disaster Recovery (10 minute read)",
     "tags": [
       "tldr"
     ],
@@ -110,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AWS Outage May 2026: Lessons for Database Disaster Recovery (10 minute read)",
-    "url": "https://www.singlestore.com/blog/aws-outage-may-2026-cross-region-disaster-recovery/",
-    "description": "AWS Outage May 2026: Lessons for Database Disaster Recovery (10 minute read)",
+    "title": "Adorable Realism Meets Cartoon Magic: Stunning Digital Paintings (1 minute read)",
+    "url": "https://designyoutrust.com/2026/05/adorable-realism-meets-cartoon-magic-stunning-digital-paintings-by-russian-artist-lera-kiryakova/",
+    "description": "Adorable Realism Meets Cartoon Magic: Stunning Digital Paintings (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -133,6 +123,16 @@
     "title": "Agent Hooks: Deterministic Control for Agent Workflows (6 minute read)",
     "url": "https://nader.substack.com/p/agent-hooks-deterministic-control",
     "description": "Agent Hooks: Deterministic Control for Agent Workflows (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agent pull requests are everywhere. Here's how to review them (8 minute read)",
+    "url": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
+    "description": "Agent pull requests are everywhere. Here's how to review them (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -180,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Amazon employees are “tokenmaxxing” due to pressure to use AI tools (3 minute read)",
-    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-    "description": "Amazon employees are “tokenmaxxing” due to pressure to use AI tools (3 minute read)",
+    "title": "Andreessen Horowitz leads Stitch's Series A to modernize core banking in the Middle East (3 minute read)",
+    "url": "https://a16z.com/announcement/investing-in-stitch/",
+    "description": "Andreessen Horowitz leads Stitch's Series A to modernize core banking in the Middle East (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -250,16 +250,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Building Self-Repairing Agent Loops (39 minute read)",
-    "url": "https://developers.openai.com/cookbook/examples/codex/build_iterative_repair_loops_with_codex",
-    "description": "Building Self-Repairing Agent Loops (39 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "CIOs rise to the global challenge (13 minute read)",
     "url": "https://www.cio.com/article/4168666/cios-rise-to-the-global-challenge.html",
     "description": "CIOs rise to the global challenge (13 minute read)",
@@ -270,39 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Can a new logo help Threads escape Instagram's shadow? (2 minute read)",
-    "url": "https://www.creativebloq.com/design/logos-icons/can-a-new-logo-help-threads-escape-instagrams-shadow",
-    "description": "Can a new logo help Threads escape Instagram's shadow? (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Canvas Owner Cuts Deal After Double Breach (3 minute read)",
-    "url": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
-    "description": "Canvas Owner Cuts Deal After Double Breach (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "Cisco Cuts 4,000 Jobs While Doubling Down on AI and Security (3 minute read)",
     "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
     "description": "Cisco Cuts 4,000 Jobs While Doubling Down on AI and Security (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Claude for Legal (GitHub Repo)",
-    "url": "https://github.com/anthropics/claude-for-legal",
-    "description": "Claude for Legal (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -340,9 +300,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Coinbase becomes Hyperliquid's official USDC treasury deployer as USDH sunsets (2 minute read)",
-    "url": "https://unchainedcrypto.com/coinbase-becomes-hyperliquids-official-usdc-treasury-deployer-as-usdh-sunsets/",
-    "description": "Coinbase becomes Hyperliquid's official USDC treasury deployer as USDH sunsets (2 minute read)",
+    "title": "Codex will soon be able to control other desktop devices via Computer Use (2 minute read)",
+    "url": "https://www.testingcatalog.com/openai-will-let-codex-control-other-desktop-devices-via-computer-use/",
+    "description": "Codex will soon be able to control other desktop devices via Computer Use (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -353,6 +313,16 @@
     "title": "Context Pruning: Cut LLM Tokens Without Losing Quality (9 minute read)",
     "url": "https://redis.io/blog/context-pruning-llm-tokens/",
     "description": "Context Pruning: Cut LLM Tokens Without Losing Quality (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Curated Templates and Guided Flows for Your Creative Ideas (Website)",
+    "url": "https://elevenlabs.io/creative-templates",
+    "description": "Curated Templates and Guided Flows for Your Creative Ideas (Website)",
     "tags": [
       "tldr"
     ],
@@ -410,16 +380,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "EtwWatcher (GitHub Repo)",
-    "url": "https://github.com/jonny-jhnson/EtwWatcher",
-    "description": "EtwWatcher (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise (11 minute read)",
     "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
     "description": "Every AI Subscription Is a Ticking Time Bomb for Enterprise (11 minute read)",
@@ -450,16 +410,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Fake Job Interview Apps Drop JobStealer Malware on Windows and macOS (3 minute read)",
-    "url": "https://hackread.com/fake-job-interview-jobstealer-malware-windows-macos/",
-    "description": "Fake Job Interview Apps Drop JobStealer Malware on Windows and macOS (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "Figma Stock Jumps as First-quarter Revenue Surges 46% on AI Monetization Traction (3 minute read)",
     "url": "https://siliconangle.com/2026/05/14/figma-stock-jumps-first-quarter-revenue-surges-46-ai-monetization-traction/",
     "description": "Figma Stock Jumps as First-quarter Revenue Surges 46% on AI Monetization Traction (3 minute read)",
@@ -473,16 +423,6 @@
     "title": "First public macOS kernel memory corruption exploit on Apple M5 (7 minute read)",
     "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
     "description": "First public macOS kernel memory corruption exploit on Apple M5 (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "For SpaceX, the stakes of this week's Starship rocket test flight are sky-high (5 minute read)",
-    "url": "https://www.nbcnews.com/science/space/spacex-starship-rocket-test-flight-high-stakes-rcna343891",
-    "description": "For SpaceX, the stakes of this week's Starship rocket test flight are sky-high (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -550,16 +490,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google's Android-powered laptops are called Googlebooks, and they're coming this year (4 minute read)",
-    "url": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
-    "description": "Google's Android-powered laptops are called Googlebooks, and they're coming this year (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "Gradual deployments in Amazon ECS with linear and canary strategies (5 minute read)",
     "url": "https://aws.amazon.com/blogs/containers/gradual-deployments-in-amazon-ecs-with-linear-and-canary-strategies/",
     "description": "Gradual deployments in Amazon ECS with linear and canary strategies (5 minute read)",
@@ -573,26 +503,6 @@
     "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt (2 minute read)",
     "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
     "description": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Headroom (GitHub Repo)",
-    "url": "https://github.com/chopratejas/headroom",
-    "description": "Why developers should not entirely rely on agents, and what you can do about it.",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How AI changes software P&L (12 minute read)",
-    "url": "https://gptomics.com/blog/how_ai_changes_software_pnl.html",
-    "description": "How AI changes software P&L (12 minute read)",
     "tags": [
       "tldr"
     ],
@@ -632,17 +542,7 @@
   {
     "title": "How I use LLMs as a staff engineer in 2026 (11 minute read)",
     "url": "https://www.seangoedecke.com/how-i-use-llms-in-2026/",
-    "description": "How I use LLMs as a staff engineer in 2026 (11 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How Superset built the IDE for AI agents on Vercel (4 minute read)",
-    "url": "https://vercel.com/blog/how-superset-built-the-ide-for-ai-agents-on-vercel",
-    "description": "How Superset built the IDE for AI agents on Vercel (4 minute read)",
+    "description": "Why developers should not entirely rely on agents, and what you can do about it.",
     "tags": [
       "tldr"
     ],
@@ -663,6 +563,16 @@
     "title": "How to Create Websites with Great UX Designs: Principles and Examples (6 minute read)",
     "url": "https://webflow.com/blog/websites-with-great-ux",
     "description": "How to Create Websites with Great UX Designs: Principles and Examples (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How to avoid AI code slop (8 minute read)",
+    "url": "https://newsletter.eng-leadership.com/p/how-to-avoid-ai-code-slop",
+    "description": "How to avoid AI code slop (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -720,9 +630,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "IfYouRevokeThisTokenItWillWipeTheComputerOfTheOwner: Inside the New Shai-Hulud npm Worm (7 minute read)",
-    "url": "https://cybersecurityreach.org/investigations/ifyourevokethistokenitwillwipethecomputeroftheowner-shai-hulud-2026",
-    "description": "IfYouRevokeThisTokenItWillWipeTheComputerOfTheOwner: Inside the New Shai-Hulud npm Worm (7 minute read)",
+    "title": "Icons for CSS properties (Website)",
+    "url": "https://designsurface.dev/cascade",
+    "description": "Icons for CSS properties (Website)",
     "tags": [
       "tldr"
     ],
@@ -743,6 +653,16 @@
     "title": "It Works Until It Doesn't: AI Content Strategies That Backfire (11 minute read)",
     "url": "https://lilyraynyc.substack.com/p/it-works-until-it-doesnt-ai-content-risks",
     "description": "It Works Until It Doesn't: AI Content Strategies That Backfire (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Italy's largest bank more than doubles crypto holdings in Q1 (4 minute read)",
+    "url": "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report",
+    "description": "Italy's largest bank more than doubles crypto holdings in Q1 (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -790,9 +710,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Lifecycle Signal: The industry is hitting “stack saturation” (3 minute read)",
-    "url": "https://scalingcrm.substack.com/p/lifecycle-signal-week-of-2026-05",
-    "description": "Lifecycle Signal: The industry is hitting “stack saturation” (3 minute read)",
+    "title": "Let's be honest: retail banking is broken (6 minute read)",
+    "url": "https://thefinanser.com/2026/05/lets-be-honest-retail-banking-is-broken",
+    "description": "Let's be honest: retail banking is broken (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -800,9 +720,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Lighthouse Attention (11 minute read)",
-    "url": "https://nousresearch.com/lighthouse-attention",
-    "description": "Lighthouse Attention (11 minute read)",
+    "title": "Lifecycle Signal: The industry is hitting “stack saturation” (3 minute read)",
+    "url": "https://scalingcrm.substack.com/p/lifecycle-signal-week-of-2026-05",
+    "description": "Lifecycle Signal: The industry is hitting “stack saturation” (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -870,16 +790,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Official CheckMarx Jenkins package compromised with infostealer (3 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
-    "description": "Official CheckMarx Jenkins package compromised with infostealer (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "Omaha as judgment day for AGI (3 minute read)",
     "url": "https://mayankagrawalphd.substack.com/p/omaha-as-judgment-day-for-agi",
     "description": "Omaha as judgment day for AGI (3 minute read)",
@@ -903,16 +813,6 @@
     "title": "OpenAI Confirms Security Breach in TanStack Supply Chain Attack (2 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
     "description": "OpenAI Confirms Security Breach in TanStack Supply Chain Attack (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI Launches Daybreak for Cyber Defense (4 minute read)",
-    "url": "https://www.ciodive.com/news/OpenAI-Daybreak-cyber-threats/820036/",
-    "description": "OpenAI Launches Daybreak for Cyber Defense (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1030,9 +930,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3 (8 minute read)",
-    "url": "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/",
-    "description": "Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3 (8 minute read)",
+    "title": "React Doctor (GitHub Repo)",
+    "url": "https://github.com/millionco/react-doctor",
+    "description": "React Doctor (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -1040,9 +940,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Runway started by helping filmmakers — now it wants to beat Google at AI (11 minute read)",
-    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-    "description": "Runway started by helping filmmakers — now it wants to beat Google at AI (11 minute read)",
+    "title": "Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3 (8 minute read)",
+    "url": "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/",
+    "description": "Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3 (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1060,9 +960,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SCAM - Security Comprehension Awareness Measure (GitHub Repo)",
-    "url": "https://github.com/1Password/SCAM",
-    "description": "SCAM - Security Comprehension Awareness Measure (GitHub Repo)",
+    "title": "SAP blocks external AI agents. Salesforce and ServiceNow don't (10 minute read)",
+    "url": "https://www.techzine.eu/blogs/applications/141323/sap-blocks-external-ai-agents-salesforce-and-servicenow-dont/",
+    "description": "SAP blocks external AI agents. Salesforce and ServiceNow don't (10 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1113,26 +1013,6 @@
     "title": "Ship code within minutes with the Gemini CLI DevOps Extension (5 minute read)",
     "url": "https://cloud.google.com/blog/topics/developers-practitioners/ship-code-within-minutes-with-the-gemini-cli-devops-extension/",
     "description": "Ship code within minutes with the Gemini CLI DevOps Extension (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Solana's Alpenglow Goes Live for Community Testing (3 minute read)",
-    "url": "https://unchainedcrypto.com/solanas-alpenglow-goes-live-for-community-testing-as-mainnet-target-moves-to-next-quarter/",
-    "description": "Solana's Alpenglow Goes Live for Community Testing (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Soul Over Spectacle: Kenneth Branyan on Designing Four Seasons New York Downtown (6 minute read)",
-    "url": "https://coolhunting.com/design/soul-over-spectacle-kenneth-branyan-on-designing-four-seasons-new-york-downtown/",
-    "description": "Soul Over Spectacle: Kenneth Branyan on Designing Four Seasons New York Downtown (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1270,9 +1150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Top 10 Cool Design Gadgets for Creative Professionals in 2026 (8 minute read)",
-    "url": "https://weandthecolor.com/top-10-design-gadgets-for-creative-professionals-that-will-change-how-you-work-in-2026/209574",
-    "description": "Top 10 Cool Design Gadgets for Creative Professionals in 2026 (8 minute read)",
+    "title": "Tokenomics: the 62.5-minute rule for Claude's cache (8 minute read)",
+    "url": "https://skids.dev/blog/anthropic-cache-tokenomics/",
+    "description": "Tokenomics: the 62.5-minute rule for Claude's cache (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1360,19 +1240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Who Americans think is cool (7 minute read)",
-    "url": "https://yougov.com/en-us/articles/54739-who-americans-think-is-cool",
-    "description": "Who Americans think is cool (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Who's Winning Enterprise AI Now: Claude Up 128%, Gemini Up 48%, OpenAI Down 8%, Grok Still A Rounding Error (2 minute read)",
-    "url": "https://www.saastr.com/whos-winning-enterprise-ai-now-claude-up-128-gemini-up-48-openai-down-8-grok-still-a-rounding-error/",
-    "description": "Who's Winning Enterprise AI Now: Claude Up 128%, Gemini Up 48%, OpenAI Down 8%, Grok Still A Rounding Error (2 minute read)",
+    "title": "Where OpenClaw Security Is Heading (8 minute read)",
+    "url": "https://openclaw.ai/blog/where-openclaw-security-is-heading",
+    "description": "Where OpenClaw Security Is Heading (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1393,16 +1263,6 @@
     "title": "Why I don't chain everything in JavaScript anymore (5 minute read)",
     "url": "https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/",
     "description": "Why I don't chain everything in JavaScript anymore (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Why senior developers fail to communicate their expertise (7 minute read)",
-    "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-    "description": "Why senior developers fail to communicate their expertise (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1450,9 +1310,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "iOS 26 adds fun way to customize your iPhone wallpaper, here's how to use it (2 minute read)",
-    "url": "https://9to5mac.com/2026/05/08/ios-26-adds-fun-way-to-customize-your-iphone-wallpaper-heres-how-to-use-it/",
-    "description": "iOS 26 adds fun way to customize your iPhone wallpaper, here's how to use it (2 minute read)",
+    "title": "gstack (GitHub Repo)",
+    "url": "https://github.com/garrytan/gstack",
+    "description": "gstack (GitHub Repo)",
     "tags": [
       "tldr"
     ],

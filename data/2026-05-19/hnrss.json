@@ -1,212 +1,272 @@
 [
   {
-    "title": "'We mould trees to grow into the shape of chairs'",
-    "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
-    "description": "'We mould trees to grow into the shape of chairs'",
-    "date": "2026-05-18",
-    "score": 183,
-    "comments": 47,
-    "discussion_url": "https://news.ycombinator.com/item?id=48179183",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249196"
-  },
-  {
     "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
     "url": "https://github.com/2b2tplace/1m_release",
     "description": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
     "date": "2026-05-18",
-    "score": 110,
-    "comments": 71,
+    "score": 151,
+    "comments": 93,
     "discussion_url": "https://news.ycombinator.com/item?id=48180204",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249155"
+    "fetched_at": "2026-05-19T12:04:11.077251"
+  },
+  {
+    "title": "AI eats the world (Spring 26) [pdf]",
+    "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+    "description": "AI eats the world (Spring 26) [pdf]",
+    "date": "2026-05-18",
+    "score": 252,
+    "comments": 138,
+    "discussion_url": "https://news.ycombinator.com/item?id=48179021",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-19T12:04:11.077262"
   },
   {
     "title": "Anthropic acquires Stainless",
     "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
     "description": "Anthropic acquires Stainless",
     "date": "2026-05-18",
-    "score": 201,
-    "comments": 136,
+    "score": 469,
+    "comments": 331,
     "discussion_url": "https://news.ycombinator.com/item?id=48182281",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249096"
+    "fetched_at": "2026-05-19T12:04:11.077241"
+  },
+  {
+    "title": "Click (2016)",
+    "url": "https://clickclickclick.click/",
+    "description": "Click (2016)",
+    "date": "2026-05-18",
+    "score": 320,
+    "comments": 79,
+    "discussion_url": "https://news.ycombinator.com/item?id=48187054",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-19T12:04:11.077176"
+  },
+  {
+    "title": "Cursor Introduces Composer 2.5",
+    "url": "https://cursor.com/blog/composer-2-5",
+    "description": "Cursor Introduces Composer 2.5",
+    "date": "2026-05-18",
+    "score": 171,
+    "comments": 125,
+    "discussion_url": "https://news.ycombinator.com/item?id=48182516",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-19T12:04:11.077230"
   },
   {
     "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
     "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "description": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
     "date": "2026-05-18",
-    "score": 413,
-    "comments": 206,
+    "score": 985,
+    "comments": 494,
     "discussion_url": "https://news.ycombinator.com/item?id=48182754",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249061"
+    "fetched_at": "2026-05-19T12:04:11.077219"
   },
   {
-    "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
-    "url": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
-    "description": "Garry Tan, the CEO of YC, accused me of unethical reporting",
+    "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+    "url": "https://hyperpolyglot.org/lisp",
+    "description": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
     "date": "2026-05-18",
-    "score": 280,
-    "comments": 36,
-    "discussion_url": "https://news.ycombinator.com/item?id=48181041",
+    "score": 167,
+    "comments": 39,
+    "discussion_url": "https://news.ycombinator.com/item?id=48184322",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249141"
+    "fetched_at": "2026-05-19T12:04:11.077187"
   },
   {
-    "title": "Haiku OS runs on M1 Macs now",
-    "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
-    "description": "Haiku OS runs on M1 Macs now",
-    "date": "2026-05-18",
-    "score": 105,
-    "comments": 38,
-    "discussion_url": "https://news.ycombinator.com/item?id=48183579",
+    "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+    "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
+    "description": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+    "date": "2026-05-17",
+    "score": 103,
+    "comments": 24,
+    "discussion_url": "https://news.ycombinator.com/item?id=48165797",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249025"
+    "fetched_at": "2026-05-19T12:04:11.077272"
   },
   {
-    "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
-    "description": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
-    "date": "2026-05-18",
-    "score": 104,
-    "comments": 148,
-    "discussion_url": "https://news.ycombinator.com/item?id=48182592",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249080"
-  },
-  {
-    "title": "It is time to give up the dualism introduced by the debate on consciousness",
-    "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-    "description": "It is time to give up the dualism introduced by the debate on consciousness",
-    "date": "2026-05-18",
-    "score": 254,
-    "comments": 634,
-    "discussion_url": "https://news.ycombinator.com/item?id=48175140",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249251"
-  },
-  {
-    "title": "Linux security mailing list 'almost unmanageable'",
-    "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-    "description": "Linux security mailing list 'almost unmanageable'",
-    "date": "2026-05-18",
-    "score": 179,
-    "comments": 86,
-    "discussion_url": "https://news.ycombinator.com/item?id=48178692",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249235"
-  },
-  {
-    "title": "Project Glasswing: what Mythos showed us",
-    "url": "https://blog.cloudflare.com/cyber-frontier-models/",
-    "description": "Project Glasswing: what Mythos showed us",
-    "date": "2026-05-18",
-    "score": 199,
-    "comments": 85,
-    "discussion_url": "https://news.ycombinator.com/item?id=48179732",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249169"
-  },
-  {
-    "title": "Qwen 3.7 Preview",
-    "url": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
-    "description": "Qwen 3.7 Preview",
-    "date": "2026-05-18",
-    "score": 130,
-    "comments": 48,
-    "discussion_url": "https://news.ycombinator.com/item?id=48181877",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249111"
-  },
-  {
-    "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-    "url": "https://github.com/zakirullin/files.md",
-    "description": "Show HN: Files.md – Open-source alternative to Obsidian",
-    "date": "2026-05-18",
-    "score": 404,
-    "comments": 219,
-    "discussion_url": "https://news.ycombinator.com/item?id=48179677",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249183"
-  },
-  {
-    "title": "The Quiet Renovation at Bitwarden",
-    "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-    "description": "The Quiet Renovation at Bitwarden",
+    "title": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
+    "url": "https://www.kv4p.com/",
+    "description": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
     "date": "2026-05-16",
-    "score": 336,
-    "comments": 150,
-    "discussion_url": "https://news.ycombinator.com/item?id=48163389",
+    "score": 106,
+    "comments": 36,
+    "discussion_url": "https://news.ycombinator.com/item?id=48161772",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249266"
+    "fetched_at": "2026-05-19T12:04:11.077282"
   },
   {
-    "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-    "url": "https://archestra.ai/blog/only-responsible-ai",
-    "description": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-    "date": "2026-05-18",
-    "score": 304,
-    "comments": 145,
-    "discussion_url": "https://news.ycombinator.com/item?id=48181125",
+    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+    "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+    "description": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+    "date": "2026-05-19",
+    "score": 130,
+    "comments": 70,
+    "discussion_url": "https://news.ycombinator.com/item?id=48189368",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-19T06:00:40.249127"
+    "fetched_at": "2026-05-19T12:04:11.077105"
+  },
+  {
+    "title": "Peter Neumann has died",
+    "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+    "description": "Peter Neumann has died",
+    "date": "2026-05-19",
+    "score": 163,
+    "comments": 10,
+    "discussion_url": "https://news.ycombinator.com/item?id=48188787",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-19T12:04:11.077128"
+  },
+  {
+    "title": "Peter Salus has died",
+    "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+    "description": "Peter Salus has died",
+    "date": "2026-05-19",
+    "score": 148,
+    "comments": 12,
+    "discussion_url": "https://news.ycombinator.com/item?id=48188665",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-19T12:04:11.077141"
+  },
+  {
+    "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+    "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+    "description": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+    "date": "2026-05-18",
+    "score": 244,
+    "comments": 158,
+    "discussion_url": "https://news.ycombinator.com/item?id=48187201",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-19T12:04:11.077165"
+  },
+  {
+    "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+    "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+    "description": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+    "date": "2026-05-14",
+    "score": 142,
+    "comments": 32,
+    "discussion_url": "https://news.ycombinator.com/item?id=48136909",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-19T12:04:11.077301"
+  },
+  {
+    "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
+    "url": "https://isabisabel.com/gacha/",
+    "description": "Show HN: Number Gacha, a gacha game distilled to its essence",
+    "date": "2026-05-13",
+    "score": 174,
+    "comments": 66,
+    "discussion_url": "https://news.ycombinator.com/item?id=48123359",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-19T12:04:11.077311"
+  },
+  {
+    "title": "The last six months in LLMs in five minutes",
+    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+    "description": "The last six months in LLMs in five minutes",
+    "date": "2026-05-19",
+    "score": 507,
+    "comments": 380,
+    "discussion_url": "https://news.ycombinator.com/item?id=48188183",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-19T12:04:11.077153"
+  },
+  {
+    "title": "Two computers, one monitor, zero fiddling (2025)",
+    "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
+    "description": "Two computers, one monitor, zero fiddling (2025)",
+    "date": "2026-05-16",
+    "score": 228,
+    "comments": 132,
+    "discussion_url": "https://news.ycombinator.com/item?id=48156186",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-19T12:04:11.077292"
+  },
+  {
+    "title": "We let AIs run radio stations",
+    "url": "https://andonlabs.com/blog/andon-fm",
+    "description": "We let AIs run radio stations",
+    "date": "2026-05-18",
+    "score": 281,
+    "comments": 219,
+    "discussion_url": "https://news.ycombinator.com/item?id=48183301",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-19T12:04:11.077207"
   }
 ]
