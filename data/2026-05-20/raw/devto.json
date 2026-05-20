@@ -5,8 +5,8 @@
     "date": "2026-05-14",
     "description": "Real-world cases and energy-saving impactsSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowMay 144 Tiny Mistakes That Secretly Destroy App Perfor...",
     "tags": "#javascript, #angular, #react, #frontend",
-    "reactions": "148 reactions",
-    "comments": "Comments 52 comments",
+    "reactions": "149 reactions",
+    "comments": "Comments 53 comments",
     "url": "https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo"
   },
   {
@@ -15,19 +15,9 @@
     "date": "2026-05-14",
     "description": "The loss of low-intensity recovery timePraveen RajamaniPraveen RajamaniPraveen RajamaniFollowMay 14AI Didn't Make Software Engineering Easier. It Made...",
     "tags": "#discuss, #ai, #webdev, #career",
-    "reactions": "87 reactions",
-    "comments": "Comments 58 comments",
+    "reactions": "88 reactions",
+    "comments": "Comments 59 comments",
     "url": "https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4"
-  },
-  {
-    "title": "AI slop is everywhere. Here's what I keep coming back to.",
-    "author": "MarvsonHelbs",
-    "date": "2026-05-15",
-    "description": "Utility over technical complexityMarvsonHelbsMarvsonHelbsMarvsonHelbsFollowMay 15AI slop is everywhere. Here's what I keep coming back to.#discuss#pro...",
-    "tags": "#discuss, #productivity, #ai",
-    "reactions": "25 reactions",
-    "comments": "Comments 25 comments",
-    "url": "https://dev.to/marvsonhelbs/ai-slop-is-everywhere-heres-what-i-keep-coming-back-to-1i42"
   },
   {
     "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
@@ -65,7 +55,7 @@
     "date": "2026-05-18",
     "description": "DevTools exposing hidden model providersHarshHarshHarshFollowMay 18DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You#discuss#ai#o...",
     "tags": "#discuss, #ai, #opensource, #transparency",
-    "reactions": "44 reactions",
+    "reactions": "49 reactions",
     "comments": "Comments 23 comments",
     "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47"
   },
@@ -73,11 +63,21 @@
     "title": "Demystifying AI Agents with Turtle & Gemma",
     "author": "bebechien",
     "date": "2026-05-19",
-    "description": "bebechienbebechienbebechienFollowforGoogle AIMay 19Demystifying AI Agents with Turtle & Gemma#turtle#gemma#ai#agents44reactionsComments12comments3 min...",
+    "description": "Nostalgic sandbox for agent tool-callingbebechienbebechienbebechienFollowforGoogle AIMay 19Demystifying AI Agents with Turtle & Gemma#turtle#gemma#ai#...",
     "tags": "#turtle, #gemma, #ai, #agents",
-    "reactions": "44 reactions",
-    "comments": "Comments 12 comments",
+    "reactions": "47 reactions",
+    "comments": "Comments 14 comments",
     "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj"
+  },
+  {
+    "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
+    "author": "GnomeMan4201",
+    "date": "2026-05-19",
+    "description": "Following counts within a range of 25GnomeMan4201GnomeMan4201GnomeMan4201FollowMay 19Found a Coordinated GitHub Follow Botnet Hiding in My Followers?#...",
+    "tags": "#security, #github, #python, #opensource",
+    "reactions": "14 reactions",
+    "comments": "Comments 6 comments",
+    "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl"
   },
   {
     "title": "GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners",
@@ -90,14 +90,14 @@
     "url": "https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba"
   },
   {
-    "title": "How to Save Bloated MCP with Code Mode",
-    "author": "JS",
-    "date": "2026-05-13",
-    "description": "Collapsing 2,500 endpoints into two toolsJSJSJSFollowforZenStackMay 13How to Save Bloated MCP with Code Mode#ai#webdev#agents#database73reactionsComme...",
-    "tags": "#ai, #webdev, #agents, #database",
-    "reactions": "73 reactions",
-    "comments": "Comments 22 comments",
-    "url": "https://dev.to/zenstack/how-to-save-bloated-mcp-with-code-mode-33e3"
+    "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
+    "author": "xbill",
+    "date": "2026-05-20",
+    "description": "Auth0 for AI Agents Challenge SubmissionxbillxbillxbillFollowforGoogle Developer ExpertsMay 20Google I/O 2026 - Day 1 - Live from the Front Row#devcha...",
+    "tags": "#devchallenge, #googleiochallenge",
+    "reactions": "13 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji"
   },
   {
     "title": "I built a real-time ASL interpreter for the Gemma4 challenge, no cloud needed",
@@ -110,24 +110,14 @@
     "url": "https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj"
   },
   {
-    "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-    "author": "Eric D Johnson",
-    "date": "2026-05-13",
-    "description": "Eliminating the /tmp tax for shared workspacesEric D JohnsonEric D JohnsonEric D JohnsonFollowforAWSMay 13Lambda Just Got a File System. I Put AI Agen...",
-    "tags": "#serverless, #aws, #lambda, #ai",
-    "reactions": "39 reactions",
-    "comments": "Comments 17 comments",
-    "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8"
-  },
-  {
-    "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
-    "author": "S M Tahosin",
-    "date": "2026-05-13",
-    "description": "The trap of over-engineering stacksS M TahosinS M TahosinS M TahosinFollowMay 13My GitHub Graveyard has 27 dead projects. Here is the brutal truth abo...",
-    "tags": "#discuss, #webdev, #beginners, #productivity",
-    "reactions": "142 reactions",
-    "comments": "Comments 96 comments",
-    "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"
+    "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
+    "author": "Dener Fernandes",
+    "date": "2026-05-20",
+    "description": "The 15-abstraction hurdle for small teamsDener FernandesDener FernandesDener FernandesFollowMay 20I decided to build a Kubernetes alternative. Yes, I ...",
+    "tags": "#opensource, #kubernetes, #devops, #infrastructure",
+    "reactions": "16 reactions",
+    "comments": "Comments 6 comments",
+    "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5"
   },
   {
     "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
@@ -140,24 +130,24 @@
     "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6"
   },
   {
-    "title": "Tune in and Join the Google I/O 2026 Writing Challenge: $1,000 in Prizes!!",
-    "author": "Jess Lee",
-    "date": "2026-05-19",
-    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxWatch it. Write about it. Win $$$.Your take on Google I/O could pay...",
-    "tags": "#googleiochallenge, #devchallenge",
-    "reactions": "54 reactions",
-    "comments": "Comments Add Comment",
-    "url": "https://dev.to/devteam/tune-in-and-join-the-google-io-2026-writing-challenge-1000-in-prizes-4apl?bb=263480"
-  },
-  {
     "title": "What was your win this week?!",
     "author": "Jess Lee",
     "date": "2026-05-15",
-    "description": "Therapy breakthroughs and Gemma 4 newsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 15What was your win this week?!#discuss#weeklyretro48reactionsC...",
+    "description": "Therapy breakthroughs and Gemma 4 newsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 15What was your win this week?!#discuss#weeklyretro49reactionsC...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "48 reactions",
-    "comments": "Comments 30 comments",
+    "reactions": "49 reactions",
+    "comments": "Comments 31 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-110l"
+  },
+  {
+    "title": "Working With Japanese Clients Humbled Me Faster Than I Expected",
+    "author": "Aryan Choudhary",
+    "date": "2026-05-20",
+    "description": "Aryan ChoudharyAryan ChoudharyAryan ChoudharyFollowMay 20Working With Japanese Clients Humbled Me Faster Than I Expected#learning#leadership#career#so...",
+    "tags": "#learning, #leadership, #career, #softwareengineering",
+    "reactions": "21 reactions",
+    "comments": "Comments 3 comments",
+    "url": "https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da"
   },
   {
     "title": "You don't 3D print a house. You print your tools.",
@@ -175,8 +165,8 @@
     "date": "2026-05-18",
     "description": "How AI accelerates hidden knowledge gapsJulien AvezouJulien AvezouJulien AvezouFollowMay 18Your Codebase Has Technical Debt. But Does Your Team Have C...",
     "tags": "#ai, #softwareengineering, #engineeringmanagement, #productivity",
-    "reactions": "37 reactions",
-    "comments": "Comments 24 comments",
+    "reactions": "40 reactions",
+    "comments": "Comments 29 comments",
     "url": "https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f"
   },
   {
