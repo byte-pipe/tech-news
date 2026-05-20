@@ -4,194 +4,269 @@
     "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
     "description": "Apple unveils new accessibility features",
     "date": "2026-05-19",
-    "score": 499,
-    "comments": 266,
+    "score": 686,
+    "comments": 356,
     "discussion_url": "https://news.ycombinator.com/item?id=48192224",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085211"
+    "fetched_at": "2026-05-20T12:03:32.292233"
   },
   {
-    "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
-    "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-    "description": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
-    "date": "2026-05-19",
-    "score": 317,
-    "comments": 142,
-    "discussion_url": "https://news.ycombinator.com/item?id=48190454",
+    "title": "Everything in C is undefined behavior",
+    "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+    "description": "Everything in C is undefined behavior",
+    "date": "2026-05-20",
+    "score": 259,
+    "comments": 355,
+    "discussion_url": "https://news.ycombinator.com/item?id=48203698",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085239"
+    "fetched_at": "2026-05-20T12:03:32.292025"
+  },
+  {
+    "title": "FiveThirtyEight articles on the Internet Archive",
+    "url": "https://fivethirtyeightindex.com/",
+    "description": "FiveThirtyEight articles on the Internet Archive",
+    "date": "2026-05-20",
+    "score": 235,
+    "comments": 57,
+    "discussion_url": "https://news.ycombinator.com/item?id=48201973",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-20T12:03:32.292075"
   },
   {
     "title": "Gemini 3.5 Flash",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
     "description": "Gemini 3.5 Flash",
     "date": "2026-05-19",
-    "score": 192,
-    "comments": 172,
+    "score": 836,
+    "comments": 575,
     "discussion_url": "https://news.ycombinator.com/item?id=48196570",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085144"
+    "fetched_at": "2026-05-20T12:03:32.292187"
   },
   {
-    "title": "Gemini Omni",
-    "url": "https://deepmind.google/models/gemini-omni/",
-    "description": "Gemini Omni",
+    "title": "Gemini CLI will stop working from June 18, 2026",
+    "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+    "description": "Gemini CLI will stop working from June 18, 2026",
     "date": "2026-05-19",
-    "score": 109,
-    "comments": 49,
-    "discussion_url": "https://news.ycombinator.com/item?id=48196609",
+    "score": 266,
+    "comments": 131,
+    "discussion_url": "https://news.ycombinator.com/item?id=48196867",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085109"
+    "fetched_at": "2026-05-20T12:03:32.292177"
   },
   {
-    "title": "I found ultra-pure quantum crystals in an abandoned mine in the Atacama desert",
-    "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
-    "description": "I found ultra-pure quantum crystals in an abandoned mine in the Atacama desert",
-    "date": "2026-05-17",
-    "score": 234,
-    "comments": 97,
-    "discussion_url": "https://news.ycombinator.com/item?id=48165797",
+    "title": "GitHub is investigating unauthorized access to their internal repositories",
+    "url": "https://twitter.com/github/status/2056884788179726685",
+    "description": "GitHub is investigating unauthorized access to their internal repositories",
+    "date": "2026-05-20",
+    "score": 498,
+    "comments": 263,
+    "discussion_url": "https://news.ycombinator.com/item?id=48201316",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085311"
+    "fetched_at": "2026-05-20T12:03:32.292099"
+  },
+  {
+    "title": "Google changes its search box",
+    "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "description": "Google changes its search box",
+    "date": "2026-05-19",
+    "score": 586,
+    "comments": 778,
+    "discussion_url": "https://news.ycombinator.com/item?id=48197370",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-20T12:03:32.292165"
+  },
+  {
+    "title": "Growing Neural Cellular Automata",
+    "url": "https://distill.pub/2020/growing-ca/",
+    "description": "Growing Neural Cellular Automata",
+    "date": "2026-05-17",
+    "score": 118,
+    "comments": 12,
+    "discussion_url": "https://news.ycombinator.com/item?id=48172320",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-20T12:03:32.292243"
+  },
+  {
+    "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
+    "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+    "description": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
+    "date": "2026-05-20",
+    "score": 496,
+    "comments": 315,
+    "discussion_url": "https://news.ycombinator.com/item?id=48201484",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-20T12:03:32.292087"
+  },
+  {
+    "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+    "url": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+    "description": "Infomaniak transitions to a foundation model to protect user data privacy",
+    "date": "2026-05-20",
+    "score": 100,
+    "comments": 26,
+    "discussion_url": "https://news.ycombinator.com/item?id=48203536",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-20T12:03:32.292048"
   },
   {
     "title": "I’ve built a virtual museum with nearly every operating system you can think of",
     "url": "https://virtualosmuseum.org/",
     "description": "I’ve built a virtual museum with nearly every operating system you can think of",
     "date": "2026-05-19",
-    "score": 390,
-    "comments": 83,
+    "score": 825,
+    "comments": 177,
     "discussion_url": "https://news.ycombinator.com/item?id=48195009",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085162"
+    "fetched_at": "2026-05-20T12:03:32.292198"
   },
   {
     "title": "I’ve joined Anthropic",
     "url": "https://twitter.com/karpathy/status/2056753169888334312",
     "description": "I’ve joined Anthropic",
     "date": "2026-05-19",
-    "score": 904,
-    "comments": 354,
+    "score": 1357,
+    "comments": 571,
     "discussion_url": "https://news.ycombinator.com/item?id=48194352",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085180"
+    "fetched_at": "2026-05-20T12:03:32.292209"
   },
   {
-    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-    "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-    "description": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-    "date": "2026-05-19",
-    "score": 324,
-    "comments": 251,
-    "discussion_url": "https://news.ycombinator.com/item?id=48189368",
+    "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+    "url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+    "description": "Japan is gripped by mass allergies. A 1950s project is to blame",
+    "date": "2026-05-20",
+    "score": 154,
+    "comments": 68,
+    "discussion_url": "https://news.ycombinator.com/item?id=48202047",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085255"
+    "fetched_at": "2026-05-20T12:03:32.292063"
   },
   {
-    "title": "OpenBSD 7.9",
-    "url": "https://www.openbsd.org/79.html",
-    "description": "OpenBSD 7.9",
+    "title": "Minnesota becomes first state to ban prediction markets",
+    "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+    "description": "Minnesota becomes first state to ban prediction markets",
+    "date": "2026-05-19",
+    "score": 689,
+    "comments": 212,
+    "discussion_url": "https://news.ycombinator.com/item?id=48197980",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-20T12:03:32.292154"
+  },
+  {
+    "title": "Mistral AI acquires Emmi AI",
+    "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+    "description": "Mistral AI acquires Emmi AI",
+    "date": "2026-05-19",
+    "score": 274,
+    "comments": 82,
+    "discussion_url": "https://news.ycombinator.com/item?id=48197995",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-20T12:03:32.292142"
+  },
+  {
+    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+    "url": "https://openai.com/index/advancing-content-provenance/",
+    "description": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+    "date": "2026-05-19",
+    "score": 296,
+    "comments": 160,
+    "discussion_url": "https://news.ycombinator.com/item?id=48198291",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-20T12:03:32.292130"
+  },
+  {
+    "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+    "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+    "description": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
     "date": "2026-05-19",
     "score": 314,
-    "comments": 230,
-    "discussion_url": "https://news.ycombinator.com/item?id=48192882",
+    "comments": 181,
+    "discussion_url": "https://news.ycombinator.com/item?id=48200569",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085196"
+    "fetched_at": "2026-05-20T12:03:32.292110"
   },
   {
-    "title": "Peter Neumann has died",
-    "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-    "description": "Peter Neumann has died",
+    "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "url": "https://github.com/antoinezambelli/forge",
+    "description": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
     "date": "2026-05-19",
-    "score": 295,
-    "comments": 23,
-    "discussion_url": "https://news.ycombinator.com/item?id=48188787",
+    "score": 526,
+    "comments": 183,
+    "discussion_url": "https://news.ycombinator.com/item?id=48192383",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085269"
-  },
-  {
-    "title": "Show HN: Gaussian Splat of a Strawberry",
-    "url": "https://superspl.at/scene/84df8849",
-    "description": "Show HN: Gaussian Splat of a Strawberry",
-    "date": "2026-05-19",
-    "score": 420,
-    "comments": 167,
-    "discussion_url": "https://news.ycombinator.com/item?id=48191602",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085225"
-  },
-  {
-    "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-    "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
-    "description": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-    "date": "2026-05-18",
-    "score": 104,
-    "comments": 80,
-    "discussion_url": "https://news.ycombinator.com/item?id=48177300",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085297"
-  },
-  {
-    "title": "The last six months in LLMs in five minutes",
-    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-    "description": "The last six months in LLMs in five minutes",
-    "date": "2026-05-19",
-    "score": 687,
-    "comments": 533,
-    "discussion_url": "https://news.ycombinator.com/item?id=48188183",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-20T06:00:41.085283"
+    "fetched_at": "2026-05-20T12:03:32.292222"
   }
 ]
