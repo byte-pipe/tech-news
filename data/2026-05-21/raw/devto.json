@@ -1,15 +1,5 @@
 [
   {
-    "title": "AI Didn't Make Software Engineering Easier. It Made the Hard Parts Harder.",
-    "author": "Praveen Rajamani",
-    "date": "2026-05-14",
-    "description": "The loss of low-intensity recovery timePraveen RajamaniPraveen RajamaniPraveen RajamaniFollowMay 14AI Didn't Make Software Engineering Easier. It Made...",
-    "tags": "#discuss, #ai, #webdev, #career",
-    "reactions": "88 reactions",
-    "comments": "Comments 63 comments",
-    "url": "https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4"
-  },
-  {
     "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
     "author": "Remigiusz Samborski",
     "date": "2026-05-15",
@@ -30,22 +20,12 @@
     "url": "https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4"
   },
   {
-    "title": "Circuits: Bit-Banging, SPI, and CPLD",
-    "author": "Anna Villarreal",
-    "date": "2026-05-14",
-    "description": "Precise hardware control for LED stripsAnna VillarrealAnna VillarrealAnna VillarrealFollowMay 14Circuits: Bit-Banging, SPI, and CPLD#esp32#learning#ci...",
-    "tags": "#esp32, #learning, #circuits, #hardware",
-    "reactions": "16 reactions",
-    "comments": "Comments 2 comments",
-    "url": "https://dev.to/annavi11arrea1/circuits-bit-banging-spi-and-cpld-3b5o"
-  },
-  {
     "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
     "author": "Harsh",
     "date": "2026-05-18",
     "description": "DevTools exposing hidden model providersHarshHarshHarshFollowMay 18DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You#discuss#ai#o...",
     "tags": "#discuss, #ai, #opensource, #transparency",
-    "reactions": "54 reactions",
+    "reactions": "55 reactions",
     "comments": "Comments 29 comments",
     "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47"
   },
@@ -55,7 +35,7 @@
     "date": "2026-05-19",
     "description": "Nostalgic sandbox for agent tool-callingbebechienbebechienbebechienFollowforGoogle AIMay 19Demystifying AI Agents with Turtle & Gemma#turtle#gemma#ai#...",
     "tags": "#turtle, #gemma, #ai, #agents",
-    "reactions": "49 reactions",
+    "reactions": "50 reactions",
     "comments": "Comments 17 comments",
     "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj"
   },
@@ -65,8 +45,8 @@
     "date": "2026-05-21",
     "description": "The 'I'll figure it out' developer mindsetSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowMay 21Every Developer Is Lying About Something — And A...",
     "tags": "#discuss, #productivity",
-    "reactions": "26 reactions",
-    "comments": "Comments 15 comments",
+    "reactions": "70 reactions",
+    "comments": "Comments 44 comments",
     "url": "https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0"
   },
   {
@@ -75,9 +55,19 @@
     "date": "2026-05-19",
     "description": "Following counts within a range of 25GnomeMan4201GnomeMan4201GnomeMan4201FollowMay 19Found a Coordinated GitHub Follow Botnet Hiding in My Followers?#...",
     "tags": "#security, #github, #python, #opensource",
-    "reactions": "15 reactions",
-    "comments": "Comments 7 comments",
+    "reactions": "29 reactions",
+    "comments": "Comments 9 comments",
     "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl"
+  },
+  {
+    "title": "From Years to Hours",
+    "author": "Anna",
+    "date": "2026-05-21",
+    "description": "AnnaAnnaAnnaFollowMay 21From Years to Hours#ai#stripe#cli#agents31reactionsCommentsAdd Comment4 min read",
+    "tags": "#ai, #stripe, #cli, #agents",
+    "reactions": "31 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/annaspies/from-years-to-hours-joe"
   },
   {
     "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
@@ -85,7 +75,7 @@
     "date": "2026-05-20",
     "description": "Google I/O Challenge submissionxbillxbillxbillFollowforGoogle Developer ExpertsMay 20Google I/O 2026 - Day 1 - Live from the Front Row#devchallenge#go...",
     "tags": "#devchallenge, #googleiochallenge",
-    "reactions": "23 reactions",
+    "reactions": "29 reactions",
     "comments": "Comments 4 comments",
     "url": "https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji"
   },
@@ -100,14 +90,24 @@
     "url": "https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj"
   },
   {
-    "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-    "author": "Dener Fernandes",
-    "date": "2026-05-20",
-    "description": "The 15-abstraction hurdle for small teamsDener FernandesDener FernandesDener FernandesFollowMay 20I decided to build a Kubernetes alternative. Yes, I ...",
-    "tags": "#opensource, #kubernetes, #devops, #infrastructure",
-    "reactions": "24 reactions",
-    "comments": "Comments 13 comments",
-    "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5"
+    "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+    "author": "Jess Lee",
+    "date": "2026-05-06",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxSubmissions close May 24. Don't leave $$$ on the table.Calling all ...",
+    "tags": "#devchallenge, #gemmachallenge, #gemma",
+    "reactions": "85 reactions",
+    "comments": "Comments 10 comments",
+    "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in?bb=263415"
+  },
+  {
+    "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
+    "author": "Jess Lee",
+    "date": "2026-05-21",
+    "description": "Revive old projects using GitHub CopilotJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 21Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Po...",
+    "tags": "#githubchallenge, #devchallenge, #githubcopilot",
+    "reactions": "40 reactions",
+    "comments": "Comments 7 comments",
+    "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
   },
   {
     "title": "MCP Just Landed on Your Phone: What Google AI Edge Gallery Actually Does",
@@ -115,9 +115,29 @@
     "date": "2026-05-20",
     "description": "Google I/O Challenge submissionDaniel NwaneriDaniel NwaneriDaniel NwaneriFollowMay 20MCP Just Landed on Your Phone: What Google AI Edge Gallery Actual...",
     "tags": "#googleiochallenge, #gemma, #mcp, #devchallenge",
-    "reactions": "22 reactions",
-    "comments": "Comments 6 comments",
+    "reactions": "28 reactions",
+    "comments": "Comments 7 comments",
     "url": "https://dev.to/dannwaneri/mcp-just-landed-on-your-phone-what-google-ai-edge-gallery-actually-does-1567"
+  },
+  {
+    "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
+    "author": "Santhoshkumar. P",
+    "date": "2026-05-20",
+    "description": "Gemma 4 Challenge: Build With Gemma 4 SubmissionSanthoshkumar. PSanthoshkumar. PSanthoshkumar. PFollowMay 20My 6-year-old asks 400 questions a day. So...",
+    "tags": "#devchallenge, #gemma, #gemmachallenge",
+    "reactions": "30 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13"
+  },
+  {
+    "title": "Open Source Toolkit for Building AI Agents in 2026",
+    "author": "Anmol Baranwal",
+    "date": "2026-05-21",
+    "description": "Focuses on maintained repos over hypeAnmol BaranwalAnmol BaranwalAnmol BaranwalFollowMay 21Open Source Toolkit for Building AI Agents in 2026#programm...",
+    "tags": "#programming, #tutorial, #opensource, #javascript",
+    "reactions": "75 reactions",
+    "comments": "Comments 10 comments",
+    "url": "https://dev.to/anmolbaranwal/open-source-toolkit-for-building-ai-agents-in-2026-55h1"
   },
   {
     "title": "The Last Developer Museum: From Stack Overflow to AI",
@@ -135,7 +155,7 @@
     "date": "2026-05-19",
     "description": "Athreya aka ManeshwarAthreya aka ManeshwarAthreya aka ManeshwarFollowMay 19What Happens When You Run `npm run dev`#webdev#programming#javascript#begin...",
     "tags": "#webdev, #programming, #javascript, #beginners",
-    "reactions": "22 reactions",
+    "reactions": "30 reactions",
     "comments": "Comments 2 comments",
     "url": "https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9"
   },
@@ -155,19 +175,9 @@
     "date": "2026-05-20",
     "description": "The jump from JLPT N3 to workplace KeigoAryan ChoudharyAryan ChoudharyAryan ChoudharyFollowMay 20Working With Japanese Clients Humbled Me Faster Than ...",
     "tags": "#learning, #leadership, #career, #softwareengineering",
-    "reactions": "39 reactions",
-    "comments": "Comments 13 comments",
+    "reactions": "41 reactions",
+    "comments": "Comments 16 comments",
     "url": "https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da"
-  },
-  {
-    "title": "You don't 3D print a house. You print your tools.",
-    "author": "Luca Bianchi",
-    "date": "2026-05-15",
-    "description": "Luca BianchiLuca BianchiLuca BianchiFollowforAWS HeroesMay 15You don't 3D print a house. You print your tools.#ai#vibecoding20reactionsComments4commen...",
-    "tags": "#ai, #vibecoding",
-    "reactions": "20 reactions",
-    "comments": "Comments 4 comments",
-    "url": "https://dev.to/aws-heroes/you-dont-3d-print-a-house-you-print-your-tools-2h00"
   },
   {
     "title": "Your Codebase Has Technical Debt. But Does Your Team Have Comprehension Debt?",
@@ -175,8 +185,8 @@
     "date": "2026-05-18",
     "description": "How AI accelerates hidden knowledge gapsJulien AvezouJulien AvezouJulien AvezouFollowMay 18Your Codebase Has Technical Debt. But Does Your Team Have C...",
     "tags": "#ai, #softwareengineering, #engineeringmanagement, #productivity",
-    "reactions": "45 reactions",
-    "comments": "Comments 31 comments",
+    "reactions": "54 reactions",
+    "comments": "Comments 35 comments",
     "url": "https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f"
   }
 ]
