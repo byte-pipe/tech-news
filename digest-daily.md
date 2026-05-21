@@ -1,62 +1,71 @@
 ---
-date: '2026-05-20'
+date: '2026-05-22'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-20T18:00:28.979607'
+generated_at: '2026-05-22T06:03:44.026456'
 ---
 
 ## Executive Summary
-Google DeepMind unveiled two breakthrough AI tools—Gemini Omni for multimodal video creation and Gemini 3.5 for high‑throughput, agentic reasoning—signaling a rapid expansion of generative capabilities into creative, enterprise, and scientific workflows. The World Health Organization declared a PHEIC for a new Bundibugyo‑variant Ebola outbreak in the DRC, underscoring lingering challenges of vaccine gaps and conflict‑driven mistrust. In the tech ecosystem, Amazon Bedrock added a cross‑model prompt‑optimization service, while a new Lisp cheat‑sheet and the upcoming Google I/O event highlight ongoing developer tooling investments. Meanwhile, a natural discovery of ultra‑pure quantum crystals in Chile could accelerate quantum‑material research, and an AI system (ERA) is already outperforming human‑crafted software in multiple scientific domains.  
+- An OpenAI reasoning model has produced the first AI‑generated proof that disproves a long‑standing conjecture in discrete geometry, marking a milestone for autonomous mathematical discovery.  
+- Google’s forced auto‑update of its Antigravity IDE sparked backlash among developers, highlighting growing tensions over AI‑driven tool changes.  
+- Anthropic’s “Claude Code” conference showcased widespread adoption of AI‑written pull requests, while concerns about code quality and security persist.  
+- A bipartisan amendment targeting automated license‑plate readers could dramatically curb mass surveillance across U.S. roadways.  
+- New releases in macOS video‑wallpaper tooling, BBEdit 16, and the Rust multiplexer rmux illustrate continued innovation in developer productivity tools.
 
 ---
 
-## AI and Machine Learning  
+## AI and Machine Learning
 
-- **Gemini Omni – Google DeepMind** [hnrss]  
-  A multimodal video‑generation platform that lets users edit and create videos via natural‑language conversations, integrating physics‑aware motion, real‑world knowledge, and step‑by‑step iterative refinement for use cases ranging from storytelling to education.  
+### An OpenAI model has disproved a central conjecture in discrete geometry | OpenAI  
+A general‑purpose reasoning model generated a proof that the planar unit‑distance problem grows faster than linear, producing configurations with \(n^{1+\delta}\) unit‑distance pairs (later refined to \(\delta = 0.014\)). Mathematicians verified the result, calling it a landmark demonstration of AI‑originated original ideas.
 
-- **At least 22 killed in Israeli attacks on Lebanon in 24 hours** [Al Jazeera]  
-  The Lebanese Health Ministry reports 22 deaths in a day of Israeli airstrikes and drone attacks, bringing the death toll since early March to 3,042 and raising concerns of forced depopulation in southern Lebanon.  
+### Google's Antigravity Bait and Switch | Sid's Blog  
+Google’s I/O‑debut update replaced the Antigravity IDE with a conversational chatbot, breaking developers’ workflow and erasing settings. Users resorted to a full purge and reinstall to restore the classic interface, raising concerns about forced AI‑driven UI changes.
 
-- **Emma Willis, Josh Widdicombe and Johannes Radebe to present Strictly Come Dancing** [newsfeed]  
-  The BBC announced a three‑person presenting team for *Strictly Come Dancing*, marking the first permanent trio of hosts and signaling a shift in the show’s on‑air dynamics.  
+### no slop grenade | Hacker News  
+The term “slop grenade” describes overly verbose AI‑generated replies that overwhelm human conversations, urging practitioners to keep AI assistance concise and human‑focused.
 
-- **Agent Evaluation: A Detailed Guide** [tldr]  
-  The guide outlines how modern LLM‑based agents differ from plain language models, describing the “agentic loop,” tool‑calling protocols, safety frameworks, and a benchmarking methodology for realistic, high‑stakes deployments.  
+### Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking | Hacker News  
+Teen author Bojta Lepenye released a 427‑page free Kindle book detailing advanced Hashcat techniques, algorithm deep‑dives, and ethical guidelines, receiving praise for depth but also suggestions for tighter editing.
 
----
+### While I slept, my 5‑year‑old MacBook ran Gemma 4 locally and indexed a year of video — simbastack | Hacker News  
+A creator built a local‑first video‑indexing pipeline using Claude Code, Gemma 4, and WhisperX, generating side‑car YAML descriptions for each clip on an M1 Max MacBook, dramatically cutting SaaS costs and preserving privacy.
 
-## Cybersecurity and Privacy  
+### Anthropic’s Code with Claude showed off coding's future—whether you like it or not | MIT Technology Review  
+At the “Code with Claude” conference, roughly half of attendees reported shipping pull requests written entirely by Claude, with many not reviewing the code. The event highlighted rapid improvements in Claude 4.x, the new “dreaming” self‑note feature, and ongoing debates about security and developer skill erosion.
 
-- **As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?** [The Guardian]  
-  WHO declared a Public Health Emergency of International Concern for a Bundibugyo‑variant Ebola outbreak, noting the lack of a licensed vaccine, rapid cross‑border spread, and the need to address mistrust and insecurity that hampered earlier DRC responses.  
+### Are Xi and Putin still ‘best friends’? – The Latest | The Guardian  
+Xi Jinping’s recent meeting with Vladimir Putin underscores a pragmatic, increasingly transactional Sino‑Russian tie as Russia leans on China amid the Ukraine war, while Western re‑engagement may force a recalibration of the partnership.
 
----
-
-## Software Engineering and Dev Tools  
-
-- **Gemini 3.5: frontier intelligence with action** [hackernews_api] *(trending)*  
-  Google’s latest model family pairs high‑level reasoning with agentic tool use; the publicly released 3.5 Flash delivers four‑times token throughput, strong coding benchmarks, and real‑world productivity gains for partners like Shopify and Salesforce.  
-
-- **Google I/O 2026** [hackernews_api]  
-  The upcoming developer conference will feature livestreamed keynotes on May 19, offering sessions for both Google product announcements and community‑driven workshops.  
-
-- **Lisp: Common Lisp, Racket, Clojure, Emacs Lisp – Hyperpolyglot** [hackernews_api]  
-  A side‑by‑side cheat‑sheet compares syntax, compilation, REPL usage, and core primitives across four major Lisp dialects, serving as a quick reference for polyglot developers.  
-
-- **Amazon Bedrock introduces new advanced prompt optimization and migration tool** [tldr]  
-  AWS adds a console‑based service that rewrites and evaluates prompts across up to five Bedrock models, supporting multimodal inputs and offering both custom Lambda scoring and LLM‑as‑judge evaluation.  
+### Author Correction: Inactivating SnRK1β1A promotes broad‑spectrum disease resistance in rice | Nature  
+Nature issued a correction for an erroneous panel in the original rice‑resistance paper, updating Extended Data Fig. 7l and providing the uncorrected version for reference.
 
 ---
 
-## Science and Research  
+## Software Engineering and Dev Tools
 
-- **Ultra‑Pure Quantum Crystals from an Abandoned Mine in the Atacama Desert** [hackernews_api] *(trending)*  
-  Researchers discovered natural Herbertsmithite crystals of exceptional purity in Chile’s San Francisco mine, offering a low‑cost, high‑quality platform for quantum‑spin‑liquid studies that could democratize access to quantum materials.  
+### Phosphene – A video wallpaper engine for macOS Tahoe | GitHub (kageroumado)  
+Phosphene lets macOS users set any video as desktop or lock‑screen wallpaper via a menu‑bar app and a private WallpaperExtensionKit, supporting gapless looping, multi‑display setups, and power‑aware playback on Apple Silicon.
 
-- **An AI system to help scientists write expert‑level empirical software** [Nature]  
-  The ERA system combines a large language model with tree‑search to autonomously generate and refine scientific code, outperforming human‑crafted methods in bioinformatics, epidemiology, and several other domains.  
+### BBEdit 16 is here! | Bare Bones Software  
+BBEdit 16 introduces over a hundred enhancements, including image‑text search, App‑Intents shortcuts, AI chat worksheet speedups, vi‑mode emulation, and major performance gains, available as a free upgrade for recent license holders.
+
+### rmux – Universal Rust Multiplexer | GitHub (Helvesec)  
+rmux provides a tmux‑compatible, cross‑platform terminal multiplexer with a typed SDK, enabling scriptable, detachable sessions and Rust‑based UI automation on Linux, macOS, and Windows.
+
+---
+
+## Cloud and Infrastructure
+
+### A Bipartisan Amendment Would End Police License Plate Tracking Nationwide | WIRED  
+A proposed amendment would bar any federal‑highway‑funded entity from using automated license‑plate readers (ALPR) for non‑toll purposes, potentially forcing the removal or restriction of ALPR networks across most U.S. roads.
+
+### Back up and restore your Amazon EKS cluster resources using Velero | Containers  
+A step‑by‑step tutorial shows how to install Velero on Amazon EKS, back up Kubernetes resources and persistent volumes to S3, and restore them to another namespace, emphasizing least‑privilege IAM roles.
 
 ---
 
 ## Notable Mentions
-- *(No additional mentions were provided in the source feed.)*
+- Best Duffel Bags: Eastpak, Patagonia, Baboon to the Moon (2026) | WIRED  
+- Reddit – Please wait for verification  
+- Activity‑Focused Design | IxDF  
+- Airbnb expands AI for host onboarding and customer support | TechCrunch
