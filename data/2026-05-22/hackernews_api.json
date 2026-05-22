@@ -1,62 +1,11 @@
 [
   {
-    "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
-    "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
-    "author": "cdrnsf",
-    "date": "2026-05-21",
-    "score": 203,
-    "comments": 70,
-    "id": 48221915,
-    "discussion_url": "https://news.ycombinator.com/item?id=48221915",
-    "description": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.936861"
-  },
-  {
-    "title": "AI is just unauthorised plagiarism at a bigger scale",
-    "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-    "author": "speckx",
-    "date": "2026-05-21",
-    "score": 697,
-    "comments": 590,
-    "id": 48222383,
-    "discussion_url": "https://news.ycombinator.com/item?id=48222383",
-    "description": "AI is just unauthorised plagiarism at a bigger scale",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937332"
-  },
-  {
-    "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
-    "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-    "author": "root-parent",
-    "date": "2026-05-22",
-    "score": 308,
-    "comments": 109,
-    "id": 48226588,
-    "discussion_url": "https://news.ycombinator.com/item?id=48226588",
-    "description": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.936656"
-  },
-  {
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
     "author": "tedsanders",
-    "date": "2026-05-21",
-    "score": 1359,
-    "comments": 987,
+    "date": "2026-05-20",
+    "score": 1390,
+    "comments": 1016,
     "id": 48212493,
     "discussion_url": "https://news.ycombinator.com/item?id=48212493",
     "description": "An OpenAI model has disproved a central conjecture in discrete geometry",
@@ -65,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937313"
+    "fetched_at": "2026-05-22T11:58:06.822924"
   },
   {
     "title": "Anthropic is expanding to Colossus2. Will use GB200",
     "url": "https://twitter.com/nottombrown/status/2057194829986300375",
     "author": "aurareturn",
-    "date": "2026-05-21",
-    "score": 279,
-    "comments": 312,
+    "date": "2026-05-20",
+    "score": 294,
+    "comments": 337,
     "id": 48214017,
     "discussion_url": "https://news.ycombinator.com/item?id=48214017",
     "description": "Anthropic is expanding to Colossus2. Will use GB200",
@@ -82,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937582"
+    "fetched_at": "2026-05-22T11:58:06.822974"
   },
   {
     "title": "BBEdit 16",
     "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
     "author": "qaz_plm",
-    "date": "2026-05-22",
-    "score": 120,
-    "comments": 23,
+    "date": "2026-05-21",
+    "score": 306,
+    "comments": 96,
     "id": 48226944,
     "discussion_url": "https://news.ycombinator.com/item?id=48226944",
     "description": "BBEdit 16",
@@ -99,32 +48,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.936987"
+    "fetched_at": "2026-05-22T11:58:06.822927"
   },
   {
-    "title": "DOS Zone",
-    "url": "https://dos.zone/",
-    "author": "rglover",
+    "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+    "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+    "author": "speckx",
     "date": "2026-05-21",
-    "score": 335,
-    "comments": 74,
-    "id": 48215418,
-    "discussion_url": "https://news.ycombinator.com/item?id=48215418",
-    "description": "DOS Zone",
+    "score": 308,
+    "comments": 157,
+    "id": 48227397,
+    "discussion_url": "https://news.ycombinator.com/item?id=48227397",
+    "description": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937348"
+    "fetched_at": "2026-05-22T11:58:06.822830"
+  },
+  {
+    "title": "Chewing gum restores dad's taste and smell years after Covid",
+    "url": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
+    "author": "speckx",
+    "date": "2026-05-21",
+    "score": 176,
+    "comments": 93,
+    "id": 48226038,
+    "discussion_url": "https://news.ycombinator.com/item?id=48226038",
+    "description": "Chewing gum restores dad's taste and smell years after Covid",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-22T11:58:06.822987"
   },
   {
     "title": "Flipper One – we need your help",
     "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
     "author": "sandebert",
     "date": "2026-05-21",
-    "score": 882,
-    "comments": 378,
+    "score": 1180,
+    "comments": 452,
     "id": 48220647,
     "discussion_url": "https://news.ycombinator.com/item?id=48220647",
     "description": "Flipper One – we need your help",
@@ -133,32 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937110"
-  },
-  {
-    "title": "Get your passwords out of Bitwarden while you still can",
-    "url": "https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/",
-    "author": "speckx",
-    "date": "2026-05-22",
-    "score": 192,
-    "comments": 158,
-    "id": 48223258,
-    "discussion_url": "https://news.ycombinator.com/item?id=48223258",
-    "description": "Get your passwords out of Bitwarden while you still can",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937633"
+    "fetched_at": "2026-05-22T11:58:06.822826"
   },
   {
     "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
     "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
     "author": "Timofeibu",
     "date": "2026-05-20",
-    "score": 998,
-    "comments": 439,
+    "score": 1022,
+    "comments": 450,
     "id": 48207660,
     "discussion_url": "https://news.ycombinator.com/item?id=48207660",
     "description": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
@@ -167,32 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937380"
+    "fetched_at": "2026-05-22T11:58:06.822960"
   },
   {
-    "title": "Google's Antigravity Bait and Switch",
+    "title": "Google's Antigravity bait and switch",
     "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
     "author": "ssiddharth",
     "date": "2026-05-21",
-    "score": 401,
-    "comments": 220,
+    "score": 712,
+    "comments": 316,
     "id": 48222529,
     "discussion_url": "https://news.ycombinator.com/item?id=48222529",
-    "description": "Google's Antigravity Bait and Switch",
+    "description": "Google's Antigravity bait and switch",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.936936"
+    "fetched_at": "2026-05-22T11:58:06.822905"
   },
   {
     "title": "Haskell Foundation 2026 Update",
     "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
     "author": "azhenley",
     "date": "2026-05-21",
-    "score": 169,
-    "comments": 62,
+    "score": 177,
+    "comments": 72,
     "id": 48216983,
     "discussion_url": "https://news.ycombinator.com/item?id=48216983",
     "description": "Haskell Foundation 2026 Update",
@@ -201,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937397"
+    "fetched_at": "2026-05-22T11:58:06.823003"
   },
   {
     "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
     "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
     "author": "asenna",
-    "date": "2026-05-22",
-    "score": 198,
-    "comments": 65,
+    "date": "2026-05-21",
+    "score": 405,
+    "comments": 119,
     "id": 48222733,
     "discussion_url": "https://news.ycombinator.com/item?id=48222733",
     "description": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
@@ -218,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.936921"
+    "fetched_at": "2026-05-22T11:58:06.822867"
   },
   {
     "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
     "url": "https://spectrum.ieee.org/trinity-nuclear-test",
     "author": "pseudolus",
     "date": "2026-05-21",
-    "score": 230,
-    "comments": 70,
+    "score": 366,
+    "comments": 107,
     "id": 48220639,
     "discussion_url": "https://news.ycombinator.com/item?id=48220639",
     "description": "Lost Images from the 1945 Trinity Nuclear Test Restored",
@@ -235,49 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937143"
+    "fetched_at": "2026-05-22T11:58:06.822877"
   },
   {
-    "title": "More than 340 local news outlets are limiting the Internet Archive's access",
+    "title": "News outlets are limiting the Internet Archive’s access to their journalism",
     "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
     "author": "jaredwiener",
-    "date": "2026-05-22",
-    "score": 115,
-    "comments": 35,
+    "date": "2026-05-21",
+    "score": 297,
+    "comments": 103,
     "id": 48225838,
     "discussion_url": "https://news.ycombinator.com/item?id=48225838",
-    "description": "More than 340 local news outlets are limiting the Internet Archive's access",
+    "description": "News outlets are limiting the Internet Archive’s access to their journalism",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937003"
-  },
-  {
-    "title": "New features in GCC 16: Improved error messages and SARIF output",
-    "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
-    "author": "siteshwar",
-    "date": "2026-05-19",
-    "score": 125,
-    "comments": 20,
-    "id": 48188302,
-    "discussion_url": "https://news.ycombinator.com/item?id=48188302",
-    "description": "New features in GCC 16: Improved error messages and SARIF output",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937467"
+    "fetched_at": "2026-05-22T11:58:06.822909"
   },
   {
     "title": "OpenAI Is Preparing to File for an IPO Soon",
     "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
     "author": "louiereederson",
-    "date": "2026-05-21",
-    "score": 168,
-    "comments": 369,
+    "date": "2026-05-20",
+    "score": 189,
+    "comments": 394,
     "id": 48210226,
     "discussion_url": "https://news.ycombinator.com/item?id=48210226",
     "description": "OpenAI Is Preparing to File for an IPO Soon",
@@ -286,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937485"
+    "fetched_at": "2026-05-22T11:58:06.822967"
   },
   {
     "title": "Project Hail Mary – Stellar Navigation Chart",
     "url": "https://valhovey.github.io/gaia-mary/",
     "author": "speleo",
-    "date": "2026-05-22",
-    "score": 233,
-    "comments": 67,
+    "date": "2026-05-21",
+    "score": 966,
+    "comments": 203,
     "id": 48225297,
     "discussion_url": "https://news.ycombinator.com/item?id=48225297",
     "description": "Project Hail Mary – Stellar Navigation Chart",
@@ -303,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937126"
+    "fetched_at": "2026-05-22T11:58:06.822804"
   },
   {
     "title": "Python 3.15: features that didn't make the headlines",
     "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
     "author": "rbanffy",
     "date": "2026-05-21",
-    "score": 272,
-    "comments": 123,
+    "score": 386,
+    "comments": 193,
     "id": 48220696,
     "discussion_url": "https://news.ycombinator.com/item?id=48220696",
     "description": "Python 3.15: features that didn't make the headlines",
@@ -320,49 +252,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937296"
+    "fetched_at": "2026-05-22T11:58:06.822860"
   },
   {
-    "title": "Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
-    "url": "https://yes-we-scan.app/details",
-    "author": "gmac",
-    "date": "2026-05-18",
-    "score": 112,
-    "comments": 34,
-    "id": 48177467,
-    "discussion_url": "https://news.ycombinator.com/item?id=48177467",
-    "description": "Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937415"
-  },
-  {
-    "title": "Show HN: I reverse engineered Apple's video wallpapers",
-    "url": "https://github.com/kageroumado/phosphene",
-    "author": "kageroumado",
+    "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+    "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+    "author": "root-parent",
     "date": "2026-05-21",
-    "score": 396,
-    "comments": 95,
-    "id": 48215979,
-    "discussion_url": "https://news.ycombinator.com/item?id=48215979",
-    "description": "Show HN: I reverse engineered Apple's video wallpapers",
+    "score": 464,
+    "comments": 196,
+    "id": 48226588,
+    "discussion_url": "https://news.ycombinator.com/item?id=48226588",
+    "description": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937264"
+    "fetched_at": "2026-05-22T11:58:06.822912"
+  },
+  {
+    "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+    "url": "https://freenet.org/",
+    "author": "sanity",
+    "date": "2026-05-21",
+    "score": 303,
+    "comments": 182,
+    "id": 48223362,
+    "discussion_url": "https://news.ycombinator.com/item?id=48223362",
+    "description": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-22T11:58:06.822786"
   },
   {
     "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
     "url": "https://github.com/helvesec/rmux",
     "author": "shideneyu",
     "date": "2026-05-21",
-    "score": 155,
-    "comments": 73,
+    "score": 173,
+    "comments": 83,
     "id": 48219918,
     "discussion_url": "https://news.ycombinator.com/item?id=48219918",
     "description": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
@@ -371,49 +303,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.936843"
+    "fetched_at": "2026-05-22T11:58:06.822977"
   },
   {
-    "title": "SpaceX S-1",
-    "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
-    "author": "cachecow",
+    "title": "Spotify will start reserving concert tickets for fans",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+    "author": "elffjs",
     "date": "2026-05-21",
-    "score": 422,
-    "comments": 337,
-    "id": 48213933,
-    "discussion_url": "https://news.ycombinator.com/item?id=48213933",
-    "description": "SpaceX S-1",
+    "score": 157,
+    "comments": 312,
+    "id": 48225357,
+    "discussion_url": "https://news.ycombinator.com/item?id=48225357",
+    "description": "Spotify will start reserving concert tickets for fans",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937452"
+    "fetched_at": "2026-05-22T11:58:06.822894"
   },
   {
-    "title": "Stop throwing AI-generated walls of text into conversations",
-    "url": "https://noslopgrenade.com/",
-    "author": "napolux",
-    "date": "2026-05-21",
-    "score": 387,
-    "comments": 220,
-    "id": 48219992,
-    "discussion_url": "https://news.ycombinator.com/item?id=48219992",
-    "description": "Stop throwing AI-generated walls of text into conversations",
+    "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+    "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+    "author": "signa11",
+    "date": "2026-05-22",
+    "score": 149,
+    "comments": 88,
+    "id": 48233563,
+    "discussion_url": "https://news.ycombinator.com/item?id=48233563",
+    "description": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.936883"
+    "fetched_at": "2026-05-22T11:58:06.822792"
+  },
+  {
+    "title": "The IBM-ification of Google?",
+    "url": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
+    "author": "sabatonfan",
+    "date": "2026-05-21",
+    "score": 180,
+    "comments": 136,
+    "id": 48230049,
+    "discussion_url": "https://news.ycombinator.com/item?id=48230049",
+    "description": "The IBM-ification of Google?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-22T11:58:06.822981"
   },
   {
     "title": "The Letter S, by Donald Knuth (1980) [pdf]",
     "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
     "author": "bambax",
-    "date": "2026-05-21",
-    "score": 259,
-    "comments": 51,
+    "date": "2026-05-20",
+    "score": 278,
+    "comments": 53,
     "id": 48216016,
     "discussion_url": "https://news.ycombinator.com/item?id=48216016",
     "description": "The Letter S, by Donald Knuth (1980) [pdf]",
@@ -422,32 +371,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937281"
+    "fetched_at": "2026-05-22T11:58:06.822931"
   },
   {
-    "title": "Vivaldi 8.0",
-    "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-    "author": "OuterVale",
+    "title": "The memory shortage is causing a repricing of consumer electronics",
+    "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+    "author": "d0ks",
     "date": "2026-05-21",
-    "score": 285,
-    "comments": 211,
-    "id": 48219060,
-    "discussion_url": "https://news.ycombinator.com/item?id=48219060",
-    "description": "Vivaldi 8.0",
+    "score": 251,
+    "comments": 302,
+    "id": 48229319,
+    "discussion_url": "https://news.ycombinator.com/item?id=48229319",
+    "description": "The memory shortage is causing a repricing of consumer electronics",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.936698"
+    "fetched_at": "2026-05-22T11:58:06.822854"
+  },
+  {
+    "title": "Throwing AI-generated walls of text into conversations",
+    "url": "https://noslopgrenade.com/",
+    "author": "napolux",
+    "date": "2026-05-21",
+    "score": 638,
+    "comments": 374,
+    "id": 48219992,
+    "discussion_url": "https://news.ycombinator.com/item?id=48219992",
+    "description": "Throwing AI-generated walls of text into conversations",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-22T11:58:06.822941"
+  },
+  {
+    "title": "Using Kagi Search with Low Vision",
+    "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+    "author": "speckx",
+    "date": "2026-05-21",
+    "score": 213,
+    "comments": 71,
+    "id": 48227860,
+    "discussion_url": "https://news.ycombinator.com/item?id=48227860",
+    "description": "Using Kagi Search with Low Vision",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-22T11:58:06.822850"
+  },
+  {
+    "title": "Uv is fantastic, but its package management UX is a mess",
+    "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+    "author": "nchagnet",
+    "date": "2026-05-21",
+    "score": 236,
+    "comments": 114,
+    "id": 48228788,
+    "discussion_url": "https://news.ycombinator.com/item?id=48228788",
+    "description": "Uv is fantastic, but its package management UX is a mess",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-22T11:58:06.822808"
+  },
+  {
+    "title": "Was my $48K GPU server worth it?",
+    "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+    "author": "apwheele",
+    "date": "2026-05-18",
+    "score": 477,
+    "comments": 352,
+    "id": 48184402,
+    "discussion_url": "https://news.ycombinator.com/item?id=48184402",
+    "description": "Was my $48K GPU server worth it?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-22T11:58:06.822843"
   },
   {
     "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
     "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
     "author": "mattas",
-    "date": "2026-05-22",
-    "score": 146,
-    "comments": 194,
+    "date": "2026-05-21",
+    "score": 332,
+    "comments": 407,
     "id": 48225426,
     "discussion_url": "https://news.ycombinator.com/item?id=48225426",
     "description": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
@@ -456,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.936904"
+    "fetched_at": "2026-05-22T11:58:06.822891"
   },
   {
     "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
     "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
     "author": "sofumel",
     "date": "2026-05-21",
-    "score": 505,
-    "comments": 425,
+    "score": 610,
+    "comments": 548,
     "id": 48220105,
     "discussion_url": "https://news.ycombinator.com/item?id=48220105",
     "description": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
@@ -473,40 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937161"
+    "fetched_at": "2026-05-22T11:58:06.822898"
   },
   {
-    "title": "What Do Gödel's Incompleteness Theorems Mean?",
-    "url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
-    "author": "baruchel",
-    "date": "2026-05-19",
-    "score": 117,
-    "comments": 51,
-    "id": 48183097,
-    "discussion_url": "https://news.ycombinator.com/item?id=48183097",
-    "description": "What Do Gödel's Incompleteness Theorems Mean?",
+    "title": "Who wins and who loses in prediction markets? Evidence from Polymarket",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103",
+    "author": "vcf",
+    "date": "2026-05-21",
+    "score": 149,
+    "comments": 146,
+    "id": 48221877,
+    "discussion_url": "https://news.ycombinator.com/item?id=48221877",
+    "description": "Who wins and who loses in prediction markets? Evidence from Polymarket",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.936824"
-  },
-  {
-    "title": "Your Most Improbable Life",
-    "url": "https://kevinkelly.substack.com/p/your-most-improbable-life",
-    "author": "jger15",
-    "date": "2026-05-19",
-    "score": 147,
-    "comments": 112,
-    "id": 48183167,
-    "discussion_url": "https://news.ycombinator.com/item?id=48183167",
-    "description": "Your Most Improbable Life",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-22T06:00:18.937564"
+    "fetched_at": "2026-05-22T11:58:06.822921"
   }
 ]

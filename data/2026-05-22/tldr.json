@@ -240,16 +240,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Automating Confidential Containers (CoCo) infrastructure with Kyverno (3 minute read)",
-    "url": "https://www.cncf.io/blog/2026/05/19/automating-confidential-containers-coco-infrastructure-with-kyverno/",
-    "description": "Automating Confidential Containers (CoCo) infrastructure with Kyverno (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "Automation Anywhere Collaborates With Cisco, NVIDIA, Okta, and OpenAI on Enterprise AI Agent Platform (4 minute read)",
     "url": "https://www.automationanywhere.com/company/press-room/automation-anywhere-collaborates-cisco-nvidia-okta-and-openai-launching",
     "description": "Automation Anywhere Collaborates With Cisco, NVIDIA, Okta, and OpenAI on Enterprise AI Agent Platform (4 minute read)",
@@ -303,16 +293,6 @@
     "title": "Claw Chain: Cyera Research Unveil Four Chainable Vulnerabilities in OpenClaw (5 minute read)",
     "url": "https://www.cyera.com/blog/claw-chain-cyera-research-unveil-four-chainable-vulnerabilities-in-openclaw",
     "description": "Claw Chain: Cyera Research Unveil Four Chainable Vulnerabilities in OpenClaw (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Codegraph (GitHub Repo)",
-    "url": "https://github.com/colbymchenry/codegraph",
-    "description": "Codegraph (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -480,16 +460,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Files.md (GitHub Repo)",
-    "url": "https://github.com/zakirullin/files.md",
-    "description": "Files.md (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "Fintech firm Mercury hits $5.2 billion valuation after funding round, up 49% in 14 months (2 minute read)",
     "url": "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html",
     "description": "Fintech firm Mercury hits $5.2 billion valuation after funding round, up 49% in 14 months (2 minute read)",
@@ -580,9 +550,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension (3 minute read)",
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension (5 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-    "description": "GitHub confirms breach of 3,800 repos via malicious VSCode extension (3 minute read)",
+    "description": "GitHub confirms breach of 3,800 repos via malicious VSCode extension (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -683,16 +653,6 @@
     "title": "Google's new app icons were desperately needed (3 minute read)",
     "url": "https://www.creativebloq.com/design/logos-icons/googles-new-app-icons-were-desperately-needed",
     "description": "Google's new app icons were desperately needed (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Grafana breach caused by missed token rotation after TanStack attack (1 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
-    "description": "Grafana breach caused by missed token rotation after TanStack attack (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -840,6 +800,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Introducing Agent Executor, Google's distributed Agent Runtime (6 minute read)",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime/",
+    "description": "Introducing Agent Executor, Google's distributed Agent Runtime (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-22",
+    "site_name": "tldr"
+  },
+  {
     "title": "Inverting PhotoDNA (5 minute read)",
     "url": "https://anishathalye.com/inverting-photodna/",
     "description": "Inverting PhotoDNA (5 minute read)",
@@ -910,16 +880,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Lance Unified Multimodal Model (GitHub Repo)",
-    "url": "https://github.com/bytedance/Lance",
-    "description": "Lance Unified Multimodal Model (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "Learnings from 100K Lines of Rust with AI (9 minute read)",
     "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
     "description": "Learnings from 100K Lines of Rust with AI (9 minute read)",
@@ -950,9 +910,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Marketing Skills for AI Agents (GitHub Repo)",
-    "url": "https://github.com/coreyhaines31/marketingskills",
-    "description": "Marketing Skills for AI Agents (GitHub Repo)",
+    "title": "London's police asked Big Tech for comms data over 700,000 times last year (4 minute read)",
+    "url": "https://www.theregister.com/databases/2026/05/20/londons-police-asked-big-tech-for-comms-data-over-700000-times-last-year/5242590",
+    "description": "London's police asked Big Tech for comms data over 700,000 times last year (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1110,6 +1070,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Open Source Packages Hit by Supply-Chain Attack (2 minute read)",
+    "url": "https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack",
+    "description": "Open Source Packages Hit by Supply-Chain Attack (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI Reportedly Moves Toward IPO (2 minute read)",
+    "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+    "description": "OpenAI Reportedly Moves Toward IPO (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-22",
+    "site_name": "tldr"
+  },
+  {
     "title": "OpenData (Tool)",
     "url": "https://tryopendata.ai/",
     "description": "OpenData (Tool)",
@@ -1133,16 +1113,6 @@
     "title": "Our billing pipeline was suddenly slow. The culprit was a hidden bottleneck in ClickHouse (9 minute read)",
     "url": "https://blog.cloudflare.com/clickhouse-query-plan-contention/",
     "description": "Our billing pipeline was suddenly slow. The culprit was a hidden bottleneck in ClickHouse (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Polymarket expands into private-market speculation with Nasdaq data partnership (2 minute read)",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/polymarket-deepens-private-companies-push-with-data-partnership",
-    "description": "Polymarket expands into private-market speculation with Nasdaq data partnership (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1280,9 +1250,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Stable Audio 3.0 (3 minute read)",
+    "url": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+    "description": "Stable Audio 3.0 (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-22",
+    "site_name": "tldr"
+  },
+  {
     "title": "Structural Backpressure Beats Smarter Agents (12 minute read)",
     "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
     "description": "Structural Backpressure Beats Smarter Agents (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Syft (GitHub Repo)",
+    "url": "https://github.com/anchore/syft",
+    "description": "Syft (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -1530,6 +1520,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "When Tokenized Equities Come to Base, the Flows Are Already Mapped (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2056865781535916451.html",
+    "description": "When Tokenized Equities Come to Base, the Flows Are Already Mapped (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-22",
+    "site_name": "tldr"
+  },
+  {
     "title": "Why Motion Design is Defining Modern Digital Communication (11 minute read)",
     "url": "https://www.zilliondesigns.com/blog/motion-design-in-digital-communication/",
     "description": "Why Motion Design is Defining Modern Digital Communication (11 minute read)",
@@ -1553,16 +1553,6 @@
     "title": "Your AI Frustration is My Opportunity (6 minute read)",
     "url": "https://metedata.substack.com/p/012-your-ai-frustration-is-my-opportunity",
     "description": "Your AI Frustration is My Opportunity (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "mondayDB 3 – Solving HTAP for a Trillion-Table System (21 minute read)",
-    "url": "https://engineering.monday.com/mondaydb-3-solving-htap-for-a-trillion-table-system/",
-    "description": "mondayDB 3 – Solving HTAP for a Trillion-Table System (21 minute read)",
     "tags": [
       "tldr"
     ],
