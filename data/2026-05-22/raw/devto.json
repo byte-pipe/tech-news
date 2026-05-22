@@ -1,13 +1,13 @@
 [
   {
-    "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
-    "author": "Remigiusz Samborski",
-    "date": "2026-05-15",
-    "description": "Gamifying homework and latency challengesRemigiusz SamborskiRemigiusz SamborskiRemigiusz SamborskiFollowforGoogle AIMay 15Building \"Sweets Vault\" - a ...",
-    "tags": "#ai, #gemini, #agents",
-    "reactions": "27 reactions",
-    "comments": "Comments 12 comments",
-    "url": "https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh"
+    "title": "Accessibility - This looks like a job for a developer advocate!",
+    "author": "Andy Haskell",
+    "date": "2026-05-21",
+    "description": "Andy HaskellAndy HaskellAndy HaskellFollowMay 21Accessibility - This looks like a job for a developer advocate!#a11y#devrel#codenewbie#career43reactio...",
+    "tags": "#a11y, #devrel, #codenewbie, #career",
+    "reactions": "43 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12"
   },
   {
     "title": "Chat to build and schedule your own personal Hacker News email digest! 🎉",
@@ -25,8 +25,8 @@
     "date": "2026-05-18",
     "description": "DevTools exposing hidden model providersHarshHarshHarshFollowMay 18DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You#discuss#ai#o...",
     "tags": "#discuss, #ai, #opensource, #transparency",
-    "reactions": "56 reactions",
-    "comments": "Comments 29 comments",
+    "reactions": "61 reactions",
+    "comments": "Comments 31 comments",
     "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47"
   },
   {
@@ -45,8 +45,8 @@
     "date": "2026-05-21",
     "description": "The 'I'll figure it out' developer mindsetSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowMay 21Every Developer Is Lying About Something — And A...",
     "tags": "#discuss, #productivity",
-    "reactions": "107 reactions",
-    "comments": "Comments 72 comments",
+    "reactions": "118 reactions",
+    "comments": "Comments 78 comments",
     "url": "https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0"
   },
   {
@@ -55,7 +55,7 @@
     "date": "2026-05-19",
     "description": "Following counts within a range of 25GnomeMan4201GnomeMan4201GnomeMan4201FollowMay 19Found a Coordinated GitHub Follow Botnet Hiding in My Followers?#...",
     "tags": "#security, #github, #python, #opensource",
-    "reactions": "29 reactions",
+    "reactions": "30 reactions",
     "comments": "Comments 9 comments",
     "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl"
   },
@@ -63,10 +63,10 @@
     "title": "From Years to Hours",
     "author": "Anna",
     "date": "2026-05-21",
-    "description": "AnnaAnnaAnnaFollowMay 21From Years to Hours#ai#stripe#cli#agents41reactionsComments3comments4 min read",
+    "description": "Stackery's path to AWS Infrastructure ComposerAnnaAnnaAnnaFollowMay 21From Years to Hours#ai#stripe#cli#agents41reactionsComments5comments4 min read",
     "tags": "#ai, #stripe, #cli, #agents",
     "reactions": "41 reactions",
-    "comments": "Comments 3 comments",
+    "comments": "Comments 5 comments",
     "url": "https://dev.to/annaspies/from-years-to-hours-joe"
   },
   {
@@ -80,24 +80,34 @@
     "url": "https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji"
   },
   {
+    "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+    "author": "Ben Halpern",
+    "date": "2026-05-22",
+    "description": "Ben HalpernBen HalpernBen HalpernFollowforThe DEV TeamMay 22How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV#gemini#...",
+    "tags": "#gemini, #ai, #googlecloud, #postgres",
+    "reactions": "39 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"
+  },
+  {
     "title": "I Used to Get Excited About New Tools Now I Feel Tired.",
     "author": "Harsh",
     "date": "2026-05-21",
     "description": "Staying updated as unpaid homeworkHarshHarshHarshFollowMay 21I Used to Get Excited About New Tools Now I Feel Tired.#ai#mentalhealth#programming#caree...",
     "tags": "#ai, #mentalhealth, #programming, #career",
-    "reactions": "53 reactions",
-    "comments": "Comments 42 comments",
+    "reactions": "59 reactions",
+    "comments": "Comments 48 comments",
     "url": "https://dev.to/harsh2644/i-used-to-get-excited-about-new-tools-now-i-feel-tired-1e18"
   },
   {
-    "title": "I built a real-time ASL interpreter for the Gemma4 challenge, no cloud needed",
-    "author": "Ngawang Tenzin",
-    "date": "2026-05-17",
-    "description": "Gemma 4 Challenge: Build With Gemma 4 SubmissionNgawang TenzinNgawang TenzinNgawang TenzinFollowMay 17I built a real-time ASL interpreter for the Gemm...",
-    "tags": "#devchallenge, #gemmachallenge, #gemma, #opensource",
-    "reactions": "16 reactions",
-    "comments": "Comments 1 comment",
-    "url": "https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj"
+    "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+    "author": "Jess Lee",
+    "date": "2026-05-06",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxSubmissions close May 24. Don't leave $$$ on the table.Calling all ...",
+    "tags": "#devchallenge, #gemmachallenge, #gemma",
+    "reactions": "85 reactions",
+    "comments": "Comments 10 comments",
+    "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in?bb=263415"
   },
   {
     "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
@@ -105,8 +115,8 @@
     "date": "2026-05-21",
     "description": "Revive old projects using GitHub CopilotJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 21Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Po...",
     "tags": "#githubchallenge, #devchallenge, #githubcopilot",
-    "reactions": "146 reactions",
-    "comments": "Comments 36 comments",
+    "reactions": "159 reactions",
+    "comments": "Comments 37 comments",
     "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"
   },
   {
@@ -115,7 +125,7 @@
     "date": "2026-05-20",
     "description": "Google I/O Challenge submissionDaniel NwaneriDaniel NwaneriDaniel NwaneriFollowMay 20MCP Just Landed on Your Phone: What Google AI Edge Gallery Actual...",
     "tags": "#googleiochallenge, #gemma, #mcp, #devchallenge",
-    "reactions": "34 reactions",
+    "reactions": "35 reactions",
     "comments": "Comments 8 comments",
     "url": "https://dev.to/dannwaneri/mcp-just-landed-on-your-phone-what-google-ai-edge-gallery-actually-does-1567"
   },
@@ -125,29 +135,19 @@
     "date": "2026-05-21",
     "description": "Gemma 4 Challenge: Build With Gemma 4 SubmissionKlaudia GrzondzielKlaudia GrzondzielKlaudia GrzondzielFollowMay 21Recycling made easy: a Polish recycl...",
     "tags": "#devchallenge, #gemmachallenge, #gemma, #webdev",
-    "reactions": "26 reactions",
-    "comments": "Comments 28 comments",
+    "reactions": "36 reactions",
+    "comments": "Comments 36 comments",
     "url": "https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a"
   },
   {
-    "title": "The Last Developer Museum: From Stack Overflow to AI",
-    "author": "Hemapriya Kanagala",
-    "date": "2026-05-15",
-    "description": "Satirical tour of coding historyHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowMay 15The Last Developer Museum: From Stack Overflow to AI...",
-    "tags": "#discuss, #programming, #career, #ai",
-    "reactions": "27 reactions",
-    "comments": "Comments 25 comments",
-    "url": "https://dev.to/hemapriya_kanagala/the-last-developer-museum-from-stack-overflow-to-ai-2lm2"
-  },
-  {
-    "title": "Tune in and Join the Google I/O 2026 Writing Challenge: $1,000 in Prizes!!",
-    "author": "Jess Lee",
-    "date": "2026-05-19",
-    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxSubmissions close May 24. Don't leave $$$ on the table.Tell us abou...",
-    "tags": "#googleiochallenge, #devchallenge",
-    "reactions": "54 reactions",
-    "comments": "Comments Add Comment",
-    "url": "https://dev.to/devteam/tune-in-and-join-the-google-io-2026-writing-challenge-1000-in-prizes-4apl?bb=263479"
+    "title": "The Most Concerning AI Risk of 2026",
+    "author": "Sacha Greif",
+    "date": "2026-05-22",
+    "description": "Sacha GreifSacha GreifSacha GreifFollowMay 22The Most Concerning AI Risk of 2026#news#ai#javascript#webdev38reactionsComments1comment4 min read",
+    "tags": "#news, #ai, #javascript, #webdev",
+    "reactions": "38 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d"
   },
   {
     "title": "What Happens When You Run `npm run dev`",
@@ -160,23 +160,13 @@
     "url": "https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9"
   },
   {
-    "title": "What was your win this week?!",
-    "author": "Jess Lee",
-    "date": "2026-05-15",
-    "description": "Therapy breakthroughs and Gemma 4 newsJess LeeJess LeeJess LeeFollowforThe DEV TeamMay 15What was your win this week?!#discuss#weeklyretro51reactionsC...",
-    "tags": "#discuss, #weeklyretro",
-    "reactions": "51 reactions",
-    "comments": "Comments 32 comments",
-    "url": "https://dev.to/devteam/what-was-your-win-this-week-110l"
-  },
-  {
     "title": "Working With Japanese Clients Humbled Me Faster Than I Expected",
     "author": "Aryan Choudhary",
     "date": "2026-05-20",
     "description": "The jump from JLPT N3 to workplace KeigoAryan ChoudharyAryan ChoudharyAryan ChoudharyFollowMay 20Working With Japanese Clients Humbled Me Faster Than ...",
     "tags": "#learning, #leadership, #career, #softwareengineering",
-    "reactions": "50 reactions",
-    "comments": "Comments 19 comments",
+    "reactions": "63 reactions",
+    "comments": "Comments 27 comments",
     "url": "https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da"
   },
   {
@@ -185,8 +175,18 @@
     "date": "2026-05-18",
     "description": "How AI accelerates hidden knowledge gapsJulien AvezouJulien AvezouJulien AvezouFollowMay 18Your Codebase Has Technical Debt. But Does Your Team Have C...",
     "tags": "#ai, #softwareengineering, #engineeringmanagement, #productivity",
-    "reactions": "55 reactions",
-    "comments": "Comments 35 comments",
+    "reactions": "56 reactions",
+    "comments": "Comments 39 comments",
     "url": "https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f"
+  },
+  {
+    "title": "jnigen and swiftgen in 2026 - some lessons learned",
+    "author": "Dominik Roszkowski",
+    "date": "2026-05-20",
+    "description": "Dominik RoszkowskiDominik RoszkowskiDominik RoszkowskiFollowMay 20jnigen and swiftgen in 2026 - some lessons learned#flutter#dart#jni#ffi43reactionsCo...",
+    "tags": "#flutter, #dart, #jni, #ffi",
+    "reactions": "43 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni"
   }
 ]
