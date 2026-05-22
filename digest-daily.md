@@ -1,71 +1,68 @@
 ---
-date: '2026-05-22'
+date: '2026-05-23'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-22T06:03:44.026456'
+generated_at: '2026-05-23T06:03:03.270320'
 ---
 
 ## Executive Summary
-- An OpenAI reasoning model has produced the first AI‑generated proof that disproves a long‑standing conjecture in discrete geometry, marking a milestone for autonomous mathematical discovery.  
-- Google’s forced auto‑update of its Antigravity IDE sparked backlash among developers, highlighting growing tensions over AI‑driven tool changes.  
-- Anthropic’s “Claude Code” conference showcased widespread adoption of AI‑written pull requests, while concerns about code quality and security persist.  
-- A bipartisan amendment targeting automated license‑plate readers could dramatically curb mass surveillance across U.S. roadways.  
-- New releases in macOS video‑wallpaper tooling, BBEdit 16, and the Rust multiplexer rmux illustrate continued innovation in developer productivity tools.
+- DeepSeek unveiled detailed model specs and a steeply discounted pricing plan, marking a notable entry in the competitive LLM market.  
+- In the run‑up to the 2026 U.S. midterms, Democrats are reframing abortion as an economic‑access issue, while Google rolled out a multimodal AI‑enhanced search box that could reshape online information discovery.  
+- A newly disclosed Myspace93 breach exposed 46 k plaintext passwords, highlighting lingering legacy‑system risks.  
+- Alberta announced a province‑wide referendum on staying in Canada, reigniting sovereignty debates, and Apple’s ongoing legal clash with Epic Games continues to test App Store regulations.  
+- Anthropic is negotiating access to Microsoft’s custom Maia AI chip, and Every’s internal automation experiment shows AI augmenting—not replacing—human expertise.
 
 ---
 
 ## AI and Machine Learning
 
-### An OpenAI model has disproved a central conjecture in discrete geometry | OpenAI  
-A general‑purpose reasoning model generated a proof that the planar unit‑distance problem grows faster than linear, producing configurations with \(n^{1+\delta}\) unit‑distance pairs (later refined to \(\delta = 0.014\)). Mathematicians verified the result, calling it a landmark demonstration of AI‑originated original ideas.
+### Models & Pricing | DeepSeek API Docs *(trending)*【hackernews_api】
+DeepSeek released comprehensive documentation for its V4‑Flash and V4‑Pro models, offering 1 M‑token context, multimodal tool calls, and a heavily discounted pricing structure that will revert after May 2026. The announcement positions DeepSeek as a cost‑competitive alternative to OpenAI and Anthropic.
 
-### Google's Antigravity Bait and Switch | Sid's Blog  
-Google’s I/O‑debut update replaced the Antigravity IDE with a conversational chatbot, breaking developers’ workflow and erasing settings. Users resorted to a full purge and reinstall to restore the classic interface, raising concerns about forced AI‑driven UI changes.
+### Abortion issue evolves with Democrats in midterm elections【newsfeed】
+NPR reports that Democratic campaigns are scaling back explicit abortion ads, instead linking reproductive rights to cost‑of‑living concerns to resonate with voters who prioritize economic issues. Candidates such as Graham Platner and Angie Craig are framing access as an affordability problem.
 
-### no slop grenade | Hacker News  
-The term “slop grenade” describes overly verbose AI‑generated replies that overwhelm human conversations, urging practitioners to keep AI assistance concise and human‑focused.
+### Ask AI or just Google it? Google makes a big change to a little search box【newsfeed】
+Google is redesigning its homepage search box to expand dynamically, accept multimodal inputs, and provide AI‑generated “overviews.” While the move promises richer intent detection, critics warn it may reduce link diversity and obscure source provenance, potentially reshaping the “click economy.”
 
-### Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking | Hacker News  
-Teen author Bojta Lepenye released a 427‑page free Kindle book detailing advanced Hashcat techniques, algorithm deep‑dives, and ethical guidelines, receiving praise for depth but also suggestions for tighter editing.
+### Attorney general to review Fordingbridge teen boys' rape sentences【newsfeed】
+Following public outcry, the UK Attorney General will examine three youth rehabilitation orders handed down for a series of rapes in Fordingbridge, with the case likely to be referred to the Court of Appeal under the Unduly Lenient Sentence scheme. Politicians across parties have condemned the sentences as too lenient.
 
-### While I slept, my 5‑year‑old MacBook ran Gemma 4 locally and indexed a year of video — simbastack | Hacker News  
-A creator built a local‑first video‑indexing pipeline using Claude Code, Gemma 4, and WhisperX, generating side‑car YAML descriptions for each clip on an M1 Max MacBook, dramatically cutting SaaS costs and preserving privacy.
+### After Automation | Every【tldr】
+Every’s internal report shows that extensive AI automation has shifted human work toward higher‑order, expert tasks rather than eliminating jobs. The company now relies on “agent employees” and human‑agent collaboration tools such as Claudie, Andy, Viktor, and Fin to handle routine work while humans focus on oversight and strategic output.
 
-### Anthropic’s Code with Claude showed off coding's future—whether you like it or not | MIT Technology Review  
-At the “Code with Claude” conference, roughly half of attendees reported shipping pull requests written entirely by Claude, with many not reviewing the code. The event highlighted rapid improvements in Claude 4.x, the new “dreaming” self‑note feature, and ongoing debates about security and developer skill erosion.
+### Anthropic, Microsoft in talks about Maia AI chip deal【tldr】
+Anthropic is in discussions with Microsoft about adopting the custom Maia AI chip for its Claude models, amid reported compute constraints. A deal would give Microsoft a foothold in AI silicon, complementing its $5 billion investment in Anthropic and the latter’s multi‑cloud strategy.
 
-### Are Xi and Putin still ‘best friends’? – The Latest | The Guardian  
-Xi Jinping’s recent meeting with Vladimir Putin underscores a pragmatic, increasingly transactional Sino‑Russian tie as Russia leans on China amid the Ukraine war, while Western re‑engagement may force a recalibration of the partnership.
+### Notable Mentions
+- Reddit – “Please wait for verification” (source: Reddit) – content not provided.  
+- Thread by @AxisFDN on Thread Reader App (source: tldr) – no article text supplied.  
 
-### Author Correction: Inactivating SnRK1β1A promotes broad‑spectrum disease resistance in rice | Nature  
-Nature issued a correction for an erroneous panel in the original rice‑resistance paper, updating Extended Data Fig. 7l and providing the uncorrected version for reference.
+---
+
+## Cybersecurity and Privacy
+
+### 46k plaintext passwords pwned in Myspace93 breach【tldr】
+A 2021 breach of the nostalgic Myspace93 site resurfaced on HaveIBeenPwned, revealing over 46 000 plaintext usernames, passwords, emails, and IP addresses. The leak stemmed from a trusted‑user’s unauthorized download of an unencrypted credential store, prompting recommendations for password changes and two‑factor authentication.
 
 ---
 
 ## Software Engineering and Dev Tools
 
-### Phosphene – A video wallpaper engine for macOS Tahoe | GitHub (kageroumado)  
-Phosphene lets macOS users set any video as desktop or lock‑screen wallpaper via a menu‑bar app and a private WallpaperExtensionKit, supporting gapless looping, multi‑display setups, and power‑aware playback on Apple Silicon.
+### Alberta to hold referendum on whether to remain in Canada【hackernews_api】
+Premier Danielle Smith announced a provincial referendum for 19 Oct 2024 on Alberta’s status within Canada, following massive petition drives on both secession and unity. While legal challenges cite inadequate Indigenous consultation, polls suggest a majority would vote to stay, and the federal government emphasizes adherence to the Clarity Act.
 
-### BBEdit 16 is here! | Bare Bones Software  
-BBEdit 16 introduces over a hundred enhancements, including image‑text search, App‑Intents shortcuts, AI chat worksheet speedups, vi‑mode emulation, and major performance gains, available as a free upgrade for recent license holders.
+### Introduction – Slumber【hackernews_api】
+Slumber is a terminal‑based HTTP client offering both an interactive TUI and a CLI for REST interactions, with configuration stored in a shared YAML request collection. Its design goals focus on ease of use, configurability, and shareability for developers.
 
-### rmux – Universal Rust Multiplexer | GitHub (Helvesec)  
-rmux provides a tmux‑compatible, cross‑platform terminal multiplexer with a typed SDK, enabling scriptable, detachable sessions and Rust‑based UI automation on Linux, macOS, and Windows.
+### Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers【TechCrunch】
+Apple petitioned the U.S. Supreme Court to limit a Ninth Circuit injunction that forces the App Store to allow external payment links, arguing the order was overbroad. Epic Games dismissed the move as a delay tactic, while the case continues to test the limits of Apple’s platform control after five years of litigation.
 
----
-
-## Cloud and Infrastructure
-
-### A Bipartisan Amendment Would End Police License Plate Tracking Nationwide | WIRED  
-A proposed amendment would bar any federal‑highway‑funded entity from using automated license‑plate readers (ALPR) for non‑toll purposes, potentially forcing the removal or restriction of ALPR networks across most U.S. roads.
-
-### Back up and restore your Amazon EKS cluster resources using Velero | Containers  
-A step‑by‑step tutorial shows how to install Velero on Amazon EKS, back up Kubernetes resources and persistent volumes to S3, and restore them to another namespace, emphasizing least‑privilege IAM roles.
+### Notable Mentions
+- (No additional items.)
 
 ---
 
-## Notable Mentions
-- Best Duffel Bags: Eastpak, Patagonia, Baboon to the Moon (2026) | WIRED  
-- Reddit – Please wait for verification  
-- Activity‑Focused Design | IxDF  
-- Airbnb expands AI for host onboarding and customer support | TechCrunch
+## Open Source
+
+### GitHub – unprovable/ShadowCat: Single file optical file transfer using a browser【hnrss】
+ShadowCat provides a fully offline, single‑HTML page that transfers files via QR codes, targeting legacy phones lacking modern radios. Users can generate, scan, and resend data chunks with error correction, achieving roughly 1 KB/s throughput on modest devices.
