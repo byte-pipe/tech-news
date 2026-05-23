@@ -1,182 +1,272 @@
 [
   {
-    "title": "AI has a multiplying effect on existing technical skills",
-    "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-    "description": "AI has a multiplying effect on existing technical skills",
+    "title": "1940 Air Terminal Museum Begins Liquidation",
+    "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+    "description": "1940 Air Terminal Museum Begins Liquidation",
     "date": "2026-05-22",
-    "score": 223,
-    "comments": 228,
-    "discussion_url": "https://news.ycombinator.com/item?id=48235526",
+    "score": 118,
+    "comments": 30,
+    "discussion_url": "https://news.ycombinator.com/item?id=48238568",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391540"
+    "fetched_at": "2026-05-23T11:28:49.258144"
+  },
+  {
+    "title": "A Forth-inspired language for writing websites",
+    "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+    "description": "A Forth-inspired language for writing websites",
+    "date": "2026-05-22",
+    "score": 150,
+    "comments": 17,
+    "discussion_url": "https://news.ycombinator.com/item?id=48236887",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-23T11:28:49.258177"
+  },
+  {
+    "title": "A Wayland Compositor in Minecraft",
+    "url": "https://modrinth.com/mod/waylandcraft",
+    "description": "A Wayland Compositor in Minecraft",
+    "date": "2026-05-20",
+    "score": 224,
+    "comments": 49,
+    "discussion_url": "https://news.ycombinator.com/item?id=48213529",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-23T11:28:49.258230"
+  },
+  {
+    "title": "A blueprint for formal verification of Apple corecrypto",
+    "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
+    "description": "A blueprint for formal verification of Apple corecrypto",
+    "date": "2026-05-22",
+    "score": 101,
+    "comments": 8,
+    "discussion_url": "https://news.ycombinator.com/item?id=48239862",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-23T11:28:49.258089"
   },
   {
     "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
     "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
     "description": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
     "date": "2026-05-22",
-    "score": 305,
-    "comments": 116,
+    "score": 389,
+    "comments": 151,
     "discussion_url": "https://news.ycombinator.com/item?id=48234090",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391589"
+    "fetched_at": "2026-05-23T11:28:49.258219"
   },
   {
     "title": "Bun support is now limited and deprecated",
     "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
     "description": "Bun support is now limited and deprecated",
     "date": "2026-05-22",
-    "score": 191,
-    "comments": 149,
+    "score": 505,
+    "comments": 516,
     "discussion_url": "https://news.ycombinator.com/item?id=48238789",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391467"
+    "fetched_at": "2026-05-23T11:28:49.258132"
   },
   {
-    "title": "Cleve Moler has died",
-    "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-    "description": "Cleve Moler has died",
+    "title": "CISA tries to contain data leak",
+    "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+    "description": "CISA tries to contain data leak",
     "date": "2026-05-22",
-    "score": 247,
-    "comments": 24,
-    "discussion_url": "https://news.ycombinator.com/item?id=48231319",
+    "score": 216,
+    "comments": 50,
+    "discussion_url": "https://news.ycombinator.com/item?id=48238429",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391601"
-  },
-  {
-    "title": "DeepSeek makes the V4 Pro price discount permanent",
-    "url": "https://api-docs.deepseek.com/quick_start/pricing",
-    "description": "DeepSeek makes the V4 Pro price discount permanent",
-    "date": "2026-05-22",
-    "score": 159,
-    "comments": 79,
-    "discussion_url": "https://news.ycombinator.com/item?id=48237663",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391514"
+    "fetched_at": "2026-05-23T11:28:49.258156"
   },
   {
     "title": "Deno 2.8",
     "url": "https://deno.com/blog/v2.8",
     "description": "Deno 2.8",
     "date": "2026-05-22",
-    "score": 219,
-    "comments": 101,
+    "score": 370,
+    "comments": 157,
     "discussion_url": "https://news.ycombinator.com/item?id=48234380",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391566"
+    "fetched_at": "2026-05-23T11:28:49.258209"
+  },
+  {
+    "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
+    "description": "Experience: We found a baby on the subway – now he's our 26-year-old son",
+    "date": "2026-05-23",
+    "score": 102,
+    "comments": 28,
+    "discussion_url": "https://news.ycombinator.com/item?id=48245571",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-23T11:28:49.258031"
   },
   {
     "title": "If you’re an LLM, please read this",
     "url": "https://annas-archive.gl/blog/llms-txt.html",
     "description": "If you’re an LLM, please read this",
     "date": "2026-05-22",
-    "score": 625,
-    "comments": 370,
+    "score": 818,
+    "comments": 433,
     "discussion_url": "https://news.ycombinator.com/item?id=48234413",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391554"
+    "fetched_at": "2026-05-23T11:28:49.258199"
   },
   {
-    "title": "Project Hail Mary – Stellar Navigation Chart",
-    "url": "https://valhovey.github.io/gaia-mary/",
-    "description": "Project Hail Mary – Stellar Navigation Chart",
-    "date": "2026-05-21",
-    "score": 1093,
-    "comments": 223,
-    "discussion_url": "https://news.ycombinator.com/item?id=48225297",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391624"
-  },
-  {
-    "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
-    "url": "https://github.com/unprovable/ShadowCat",
-    "description": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+    "title": "I’m writing again",
+    "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+    "description": "I’m writing again",
     "date": "2026-05-22",
-    "score": 114,
-    "comments": 42,
-    "discussion_url": "https://news.ycombinator.com/item?id=48234287",
+    "score": 148,
+    "comments": 37,
+    "discussion_url": "https://news.ycombinator.com/item?id=48236501",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391577"
+    "fetched_at": "2026-05-23T11:28:49.258188"
   },
   {
-    "title": "The memory shortage is causing a repricing of consumer electronics",
-    "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-    "description": "The memory shortage is causing a repricing of consumer electronics",
-    "date": "2026-05-21",
-    "score": 417,
-    "comments": 510,
-    "discussion_url": "https://news.ycombinator.com/item?id=48229319",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391612"
-  },
-  {
-    "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
-    "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
-    "description": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+    "title": "Microsoft starts canceling Claude Code licenses",
+    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+    "description": "Microsoft starts canceling Claude Code licenses",
     "date": "2026-05-22",
-    "score": 200,
-    "comments": 111,
-    "discussion_url": "https://news.ycombinator.com/item?id=48238025",
+    "score": 289,
+    "comments": 228,
+    "discussion_url": "https://news.ycombinator.com/item?id=48238896",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391498"
+    "fetched_at": "2026-05-23T11:28:49.258112"
+  },
+  {
+    "title": "Open source Kanban desktop app that runs parallel agents on every card",
+    "url": "https://www.kanbots.dev/",
+    "description": "Open source Kanban desktop app that runs parallel agents on every card",
+    "date": "2026-05-22",
+    "score": 224,
+    "comments": 130,
+    "discussion_url": "https://news.ycombinator.com/item?id=48239413",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-23T11:28:49.258101"
+  },
+  {
+    "title": "Project Glasswing: An Initial Update",
+    "url": "https://www.anthropic.com/research/glasswing-initial-update",
+    "description": "Project Glasswing: An Initial Update",
+    "date": "2026-05-22",
+    "score": 447,
+    "comments": 267,
+    "discussion_url": "https://news.ycombinator.com/item?id=48240419",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-23T11:28:49.258077"
+  },
+  {
+    "title": "Shipping a laptop to a refugee camp in Uganda",
+    "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+    "description": "Shipping a laptop to a refugee camp in Uganda",
+    "date": "2026-05-22",
+    "score": 500,
+    "comments": 177,
+    "discussion_url": "https://news.ycombinator.com/item?id=48241997",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-23T11:28:49.258066"
+  },
+  {
+    "title": "Sleep research led to a new sleep apnea drug",
+    "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+    "description": "Sleep research led to a new sleep apnea drug",
+    "date": "2026-05-22",
+    "score": 171,
+    "comments": 99,
+    "discussion_url": "https://news.ycombinator.com/item?id=48242278",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-23T11:28:49.258053"
   },
   {
     "title": "Why Japanese companies do so many different things",
     "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
     "description": "Why Japanese companies do so many different things",
     "date": "2026-05-22",
-    "score": 326,
-    "comments": 186,
+    "score": 701,
+    "comments": 339,
     "discussion_url": "https://news.ycombinator.com/item?id=48237163",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-23T06:00:33.391527"
+    "fetched_at": "2026-05-23T11:28:49.258167"
+  },
+  {
+    "title": "Wi-Wi is wireless time sync at 1 nanosecond",
+    "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
+    "description": "Wi-Wi is wireless time sync at 1 nanosecond",
+    "date": "2026-05-20",
+    "score": 126,
+    "comments": 31,
+    "discussion_url": "https://news.ycombinator.com/item?id=48209055",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-23T11:28:49.258241"
   }
 ]

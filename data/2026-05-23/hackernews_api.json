@@ -1,11 +1,45 @@
 [
   {
+    "title": "A Forth-inspired language for writing websites",
+    "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+    "author": "speckx",
+    "date": "2026-05-22",
+    "score": 150,
+    "comments": 17,
+    "id": 48236887,
+    "discussion_url": "https://news.ycombinator.com/item?id=48236887",
+    "description": "A Forth-inspired language for writing websites",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T11:28:40.271487"
+  },
+  {
+    "title": "A Wayland Compositor in Minecraft",
+    "url": "https://modrinth.com/mod/waylandcraft",
+    "author": "Jotalea",
+    "date": "2026-05-20",
+    "score": 224,
+    "comments": 49,
+    "id": 48213529,
+    "discussion_url": "https://news.ycombinator.com/item?id=48213529",
+    "description": "A Wayland Compositor in Minecraft",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T11:28:40.271558"
+  },
+  {
     "title": "AI has a multiplying effect on existing technical skills",
     "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
     "author": "moebrowne",
     "date": "2026-05-22",
-    "score": 223,
-    "comments": 228,
+    "score": 310,
+    "comments": 292,
     "id": 48235526,
     "discussion_url": "https://news.ycombinator.com/item?id=48235526",
     "description": "AI has a multiplying effect on existing technical skills",
@@ -14,32 +48,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.136897"
+    "fetched_at": "2026-05-23T11:28:40.271684"
   },
   {
-    "title": "Alberta to hold referendum on whether to remain in Canada",
-    "url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
-    "author": "JumpCrisscross",
-    "date": "2026-05-22",
-    "score": 139,
-    "comments": 291,
-    "id": 48235489,
-    "discussion_url": "https://news.ycombinator.com/item?id=48235489",
-    "description": "Alberta to hold referendum on whether to remain in Canada",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "author": "tedsanders",
+    "date": "2026-05-20",
+    "score": 1411,
+    "comments": 1036,
+    "id": 48212493,
+    "discussion_url": "https://news.ycombinator.com/item?id=48212493",
+    "description": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137226"
+    "fetched_at": "2026-05-23T11:28:40.271703"
   },
   {
     "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
     "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
     "author": "jetter",
     "date": "2026-05-22",
-    "score": 305,
-    "comments": 116,
+    "score": 389,
+    "comments": 151,
     "id": 48234090,
     "discussion_url": "https://news.ycombinator.com/item?id=48234090",
     "description": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
@@ -48,32 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137043"
-  },
-  {
-    "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-    "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-    "author": "speckx",
-    "date": "2026-05-22",
-    "score": 354,
-    "comments": 215,
-    "id": 48227397,
-    "discussion_url": "https://news.ycombinator.com/item?id=48227397",
-    "description": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137136"
+    "fetched_at": "2026-05-23T11:28:40.271466"
   },
   {
     "title": "Bun support is now limited and deprecated",
     "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
     "author": "tamnd",
-    "date": "2026-05-23",
-    "score": 191,
-    "comments": 148,
+    "date": "2026-05-22",
+    "score": 505,
+    "comments": 516,
     "id": 48238789,
     "discussion_url": "https://news.ycombinator.com/item?id=48238789",
     "description": "Bun support is now limited and deprecated",
@@ -82,15 +99,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137091"
+    "fetched_at": "2026-05-23T11:28:40.271586"
+  },
+  {
+    "title": "CISA tries to contain data leak",
+    "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+    "author": "speckx",
+    "date": "2026-05-22",
+    "score": 216,
+    "comments": 50,
+    "id": 48238429,
+    "discussion_url": "https://news.ycombinator.com/item?id=48238429",
+    "description": "CISA tries to contain data leak",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T11:28:40.271510"
   },
   {
     "title": "Cleve Moler has died",
     "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
     "author": "mychele",
     "date": "2026-05-22",
-    "score": 247,
-    "comments": 24,
+    "score": 283,
+    "comments": 27,
     "id": 48231319,
     "discussion_url": "https://news.ycombinator.com/item?id=48231319",
     "description": "Cleve Moler has died",
@@ -99,15 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.136930"
+    "fetched_at": "2026-05-23T11:28:40.271614"
   },
   {
     "title": "DeepSeek makes the V4 Pro price discount permanent",
     "url": "https://api-docs.deepseek.com/quick_start/pricing",
     "author": "Tiberium",
-    "date": "2026-05-23",
-    "score": 158,
-    "comments": 79,
+    "date": "2026-05-22",
+    "score": 389,
+    "comments": 227,
     "id": 48237663,
     "discussion_url": "https://news.ycombinator.com/item?id=48237663",
     "description": "DeepSeek makes the V4 Pro price discount permanent",
@@ -116,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137108"
+    "fetched_at": "2026-05-23T11:28:40.271638"
   },
   {
     "title": "Deno 2.8",
     "url": "https://deno.com/blog/v2.8",
     "author": "roflcopter69",
     "date": "2026-05-22",
-    "score": 218,
-    "comments": 100,
+    "score": 370,
+    "comments": 157,
     "id": 48234380,
     "discussion_url": "https://news.ycombinator.com/item?id=48234380",
     "description": "Deno 2.8",
@@ -133,32 +167,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137034"
+    "fetched_at": "2026-05-23T11:28:40.271519"
   },
   {
-    "title": "Flipper One – we need your help",
-    "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-    "author": "sandebert",
-    "date": "2026-05-21",
-    "score": 1226,
-    "comments": 470,
-    "id": 48220647,
-    "discussion_url": "https://news.ycombinator.com/item?id=48220647",
-    "description": "Flipper One – we need your help",
+    "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+    "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+    "author": "bilalq",
+    "date": "2026-05-23",
+    "score": 162,
+    "comments": 48,
+    "id": 48243293,
+    "discussion_url": "https://news.ycombinator.com/item?id=48243293",
+    "description": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137327"
+    "fetched_at": "2026-05-23T11:28:40.271594"
+  },
+  {
+    "title": "How to convert between wealth and income tax",
+    "url": "https://paulgraham.com/winc.html",
+    "author": "bifftastic",
+    "date": "2026-05-22",
+    "score": 183,
+    "comments": 597,
+    "id": 48237422,
+    "discussion_url": "https://news.ycombinator.com/item?id=48237422",
+    "description": "How to convert between wealth and income tax",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T11:28:40.271680"
   },
   {
     "title": "If you’re an LLM, please read this",
     "url": "https://annas-archive.gl/blog/llms-txt.html",
     "author": "janandonly",
     "date": "2026-05-22",
-    "score": 625,
-    "comments": 370,
+    "score": 818,
+    "comments": 433,
     "id": 48234413,
     "discussion_url": "https://news.ycombinator.com/item?id=48234413",
     "description": "If you’re an LLM, please read this",
@@ -167,66 +218,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137054"
+    "fetched_at": "2026-05-23T11:28:40.271598"
   },
   {
-    "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-    "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-    "author": "asenna",
+    "title": "I’m writing again",
+    "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+    "author": "dan_hawkins",
     "date": "2026-05-22",
-    "score": 452,
-    "comments": 128,
-    "id": 48222733,
-    "discussion_url": "https://news.ycombinator.com/item?id=48222733",
-    "description": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+    "score": 148,
+    "comments": 37,
+    "id": 48236501,
+    "discussion_url": "https://news.ycombinator.com/item?id=48236501",
+    "description": "I’m writing again",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137126"
+    "fetched_at": "2026-05-23T11:28:40.271574"
   },
   {
-    "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-    "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-    "author": "pseudolus",
-    "date": "2026-05-21",
-    "score": 405,
-    "comments": 120,
-    "id": 48220639,
-    "discussion_url": "https://news.ycombinator.com/item?id=48220639",
-    "description": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137272"
-  },
-  {
-    "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-    "url": "https://arxiv.org/abs/2605.12460",
-    "author": "atomicthumbs",
+    "title": "Microsoft starts canceling Claude Code licenses",
+    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+    "author": "robertkarl",
     "date": "2026-05-22",
-    "score": 139,
-    "comments": 15,
-    "id": 48227923,
-    "discussion_url": "https://news.ycombinator.com/item?id=48227923",
-    "description": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+    "score": 289,
+    "comments": 228,
+    "id": 48238896,
+    "discussion_url": "https://news.ycombinator.com/item?id=48238896",
+    "description": "Microsoft starts canceling Claude Code licenses",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137281"
+    "fetched_at": "2026-05-23T11:28:40.271514"
+  },
+  {
+    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "url": "https://github.com/anomalyco/models.dev",
+    "author": "maxloh",
+    "date": "2026-05-22",
+    "score": 142,
+    "comments": 26,
+    "id": 48241172,
+    "discussion_url": "https://news.ycombinator.com/item?id=48241172",
+    "description": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T11:28:40.271619"
   },
   {
     "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
     "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
     "author": "mooreds",
-    "date": "2026-05-21",
-    "score": 133,
-    "comments": 35,
+    "date": "2026-05-20",
+    "score": 141,
+    "comments": 41,
     "id": 48209905,
     "discussion_url": "https://news.ycombinator.com/item?id=48209905",
     "description": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
@@ -235,15 +286,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137309"
+    "fetched_at": "2026-05-23T11:28:40.271692"
+  },
+  {
+    "title": "Open source Kanban desktop app that runs parallel agents on every card",
+    "url": "https://www.kanbots.dev/",
+    "author": "vitriapp",
+    "date": "2026-05-22",
+    "score": 224,
+    "comments": 130,
+    "id": 48239413,
+    "discussion_url": "https://news.ycombinator.com/item?id=48239413",
+    "description": "Open source Kanban desktop app that runs parallel agents on every card",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T11:28:40.271528"
+  },
+  {
+    "title": "Project Glasswing: An Initial Update",
+    "url": "https://www.anthropic.com/research/glasswing-initial-update",
+    "author": "louiereederson",
+    "date": "2026-05-22",
+    "score": 447,
+    "comments": 267,
+    "id": 48240419,
+    "discussion_url": "https://news.ycombinator.com/item?id=48240419",
+    "description": "Project Glasswing: An Initial Update",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T11:28:40.271544"
   },
   {
     "title": "Project Hail Mary – Stellar Navigation Chart",
     "url": "https://valhovey.github.io/gaia-mary/",
     "author": "speleo",
-    "date": "2026-05-22",
-    "score": 1093,
-    "comments": 223,
+    "date": "2026-05-21",
+    "score": 1159,
+    "comments": 235,
     "id": 48225297,
     "discussion_url": "https://news.ycombinator.com/item?id=48225297",
     "description": "Project Hail Mary – Stellar Navigation Chart",
@@ -252,49 +337,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.136819"
+    "fetched_at": "2026-05-23T11:28:40.271658"
   },
   {
-    "title": "Python 3.15: features that didn't make the headlines",
-    "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-    "author": "rbanffy",
-    "date": "2026-05-21",
-    "score": 417,
-    "comments": 205,
-    "id": 48220696,
-    "discussion_url": "https://news.ycombinator.com/item?id=48220696",
-    "description": "Python 3.15: features that didn't make the headlines",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137318"
-  },
-  {
-    "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-    "url": "https://freenet.org/",
-    "author": "sanity",
+    "title": "Shipping a laptop to a refugee camp in Uganda",
+    "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+    "author": "lexandstuff",
     "date": "2026-05-22",
-    "score": 343,
-    "comments": 239,
-    "id": 48223362,
-    "discussion_url": "https://news.ycombinator.com/item?id=48223362",
-    "description": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+    "score": 500,
+    "comments": 177,
+    "id": 48241997,
+    "discussion_url": "https://news.ycombinator.com/item?id=48241997",
+    "description": "Shipping a laptop to a refugee camp in Uganda",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137337"
+    "fetched_at": "2026-05-23T11:28:40.271473"
+  },
+  {
+    "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+    "url": "https://github.com/unprovable/ShadowCat",
+    "author": "unprovable",
+    "date": "2026-05-22",
+    "score": 147,
+    "comments": 58,
+    "id": 48234287,
+    "discussion_url": "https://news.ycombinator.com/item?id=48234287",
+    "description": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T11:28:40.271642"
+  },
+  {
+    "title": "Sleep research led to a new sleep apnea drug",
+    "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+    "author": "colinprince",
+    "date": "2026-05-22",
+    "score": 171,
+    "comments": 99,
+    "id": 48242278,
+    "discussion_url": "https://news.ycombinator.com/item?id=48242278",
+    "description": "Sleep research led to a new sleep apnea drug",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T11:28:40.271578"
   },
   {
     "title": "Slumber a TUI HTTP Client",
     "url": "https://slumber.lucaspickering.me",
     "author": "jicea",
     "date": "2026-05-22",
-    "score": 156,
-    "comments": 57,
+    "score": 179,
+    "comments": 63,
     "id": 48231938,
     "discussion_url": "https://news.ycombinator.com/item?id=48231938",
     "description": "Slumber a TUI HTTP Client",
@@ -303,49 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137015"
-  },
-  {
-    "title": "Spotify will start reserving concert tickets for fans",
-    "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
-    "author": "elffjs",
-    "date": "2026-05-22",
-    "score": 173,
-    "comments": 346,
-    "id": 48225357,
-    "discussion_url": "https://news.ycombinator.com/item?id=48225357",
-    "description": "Spotify will start reserving concert tickets for fans",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137371"
-  },
-  {
-    "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-    "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-    "author": "signa11",
-    "date": "2026-05-22",
-    "score": 548,
-    "comments": 469,
-    "id": 48233563,
-    "discussion_url": "https://news.ycombinator.com/item?id=48233563",
-    "description": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137236"
+    "fetched_at": "2026-05-23T11:28:40.271626"
   },
   {
     "title": "The death of the brick and mortar toy store",
     "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
     "author": "speckx",
     "date": "2026-05-19",
-    "score": 136,
-    "comments": 209,
+    "score": 154,
+    "comments": 223,
     "id": 48192605,
     "discussion_url": "https://news.ycombinator.com/item?id=48192605",
     "description": "The death of the brick and mortar toy store",
@@ -354,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137254"
+    "fetched_at": "2026-05-23T11:28:40.271676"
   },
   {
     "title": "The memory shortage is causing a repricing of consumer electronics",
     "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
     "author": "d0ks",
-    "date": "2026-05-22",
-    "score": 417,
-    "comments": 510,
+    "date": "2026-05-21",
+    "score": 512,
+    "comments": 604,
     "id": 48229319,
     "discussion_url": "https://news.ycombinator.com/item?id=48229319",
     "description": "The memory shortage is causing a repricing of consumer electronics",
@@ -371,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.136887"
+    "fetched_at": "2026-05-23T11:28:40.271696"
   },
   {
     "title": "Throwing AI-generated walls of text into conversations",
     "url": "https://noslopgrenade.com/",
     "author": "napolux",
     "date": "2026-05-21",
-    "score": 670,
-    "comments": 413,
+    "score": 686,
+    "comments": 416,
     "id": 48219992,
     "discussion_url": "https://news.ycombinator.com/item?id=48219992",
     "description": "Throwing AI-generated walls of text into conversations",
@@ -388,32 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137299"
-  },
-  {
-    "title": "Trump Mobile exposed customers' personal data",
-    "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-    "author": "rippeltippel",
-    "date": "2026-05-23",
-    "score": 206,
-    "comments": 91,
-    "id": 48237684,
-    "discussion_url": "https://news.ycombinator.com/item?id=48237684",
-    "description": "Trump Mobile exposed customers' personal data",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137187"
+    "fetched_at": "2026-05-23T11:28:40.271707"
   },
   {
     "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
     "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
     "author": "ceejayoz",
-    "date": "2026-05-23",
-    "score": 200,
-    "comments": 110,
+    "date": "2026-05-22",
+    "score": 398,
+    "comments": 246,
     "id": 48238025,
     "discussion_url": "https://news.ycombinator.com/item?id=48238025",
     "description": "U.S. researchers face new restrictions on publishing with foreign collaborators",
@@ -422,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.136775"
+    "fetched_at": "2026-05-23T11:28:40.271623"
   },
   {
     "title": "Using Kagi Search with Low Vision",
     "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
     "author": "speckx",
-    "date": "2026-05-22",
-    "score": 248,
-    "comments": 81,
+    "date": "2026-05-21",
+    "score": 256,
+    "comments": 85,
     "id": 48227860,
     "discussion_url": "https://news.ycombinator.com/item?id=48227860",
     "description": "Using Kagi Search with Low Vision",
@@ -439,66 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137263"
-  },
-  {
-    "title": "Uv is fantastic, but its package management UX is a mess",
-    "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-    "author": "nchagnet",
-    "date": "2026-05-22",
-    "score": 309,
-    "comments": 139,
-    "id": 48228788,
-    "discussion_url": "https://news.ycombinator.com/item?id=48228788",
-    "description": "Uv is fantastic, but its package management UX is a mess",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137024"
-  },
-  {
-    "title": "Was my $48K GPU server worth it?",
-    "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-    "author": "apwheele",
-    "date": "2026-05-19",
-    "score": 542,
-    "comments": 417,
-    "id": 48184402,
-    "discussion_url": "https://news.ycombinator.com/item?id=48184402",
-    "description": "Was my $48K GPU server worth it?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137118"
-  },
-  {
-    "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-    "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-    "author": "mattas",
-    "date": "2026-05-22",
-    "score": 361,
-    "comments": 445,
-    "id": 48225426,
-    "discussion_url": "https://news.ycombinator.com/item?id=48225426",
-    "description": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.137380"
+    "fetched_at": "2026-05-23T11:28:40.271650"
   },
   {
     "title": "Why Japanese companies do so many different things",
     "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
     "author": "d0ks",
-    "date": "2026-05-23",
-    "score": 326,
-    "comments": 186,
+    "date": "2026-05-22",
+    "score": 701,
+    "comments": 339,
     "id": 48237163,
     "discussion_url": "https://news.ycombinator.com/item?id=48237163",
     "description": "Why Japanese companies do so many different things",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T06:00:15.136908"
+    "fetched_at": "2026-05-23T11:28:40.271523"
   }
 ]
