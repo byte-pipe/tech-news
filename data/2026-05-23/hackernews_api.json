@@ -1,10 +1,27 @@
 [
   {
+    "title": "80386 Microcode Disassembled",
+    "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+    "author": "nand2mario",
+    "date": "2026-05-23",
+    "score": 176,
+    "comments": 29,
+    "id": 48247004,
+    "discussion_url": "https://news.ycombinator.com/item?id=48247004",
+    "description": "80386 Microcode Disassembled",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T19:29:55.552770"
+  },
+  {
     "title": "A Forth-inspired language for writing websites",
     "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
     "author": "speckx",
     "date": "2026-05-22",
-    "score": 150,
+    "score": 154,
     "comments": 17,
     "id": 48236887,
     "discussion_url": "https://news.ycombinator.com/item?id=48236887",
@@ -14,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271487"
+    "fetched_at": "2026-05-23T19:29:55.552968"
   },
   {
     "title": "A Wayland Compositor in Minecraft",
     "url": "https://modrinth.com/mod/waylandcraft",
     "author": "Jotalea",
     "date": "2026-05-20",
-    "score": 224,
-    "comments": 49,
+    "score": 257,
+    "comments": 67,
     "id": 48213529,
     "discussion_url": "https://news.ycombinator.com/item?id=48213529",
     "description": "A Wayland Compositor in Minecraft",
@@ -31,49 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271558"
-  },
-  {
-    "title": "AI has a multiplying effect on existing technical skills",
-    "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-    "author": "moebrowne",
-    "date": "2026-05-22",
-    "score": 310,
-    "comments": 292,
-    "id": 48235526,
-    "discussion_url": "https://news.ycombinator.com/item?id=48235526",
-    "description": "AI has a multiplying effect on existing technical skills",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271684"
-  },
-  {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-    "author": "tedsanders",
-    "date": "2026-05-20",
-    "score": 1411,
-    "comments": 1036,
-    "id": 48212493,
-    "discussion_url": "https://news.ycombinator.com/item?id=48212493",
-    "description": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271703"
+    "fetched_at": "2026-05-23T19:29:55.552954"
   },
   {
     "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
     "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
     "author": "jetter",
     "date": "2026-05-22",
-    "score": 389,
-    "comments": 151,
+    "score": 412,
+    "comments": 156,
     "id": 48234090,
     "discussion_url": "https://news.ycombinator.com/item?id=48234090",
     "description": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
@@ -82,32 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271466"
+    "fetched_at": "2026-05-23T19:29:55.552940"
   },
   {
-    "title": "Bun support is now limited and deprecated",
-    "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-    "author": "tamnd",
-    "date": "2026-05-22",
-    "score": 505,
-    "comments": 516,
-    "id": 48238789,
-    "discussion_url": "https://news.ycombinator.com/item?id=48238789",
-    "description": "Bun support is now limited and deprecated",
+    "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+    "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
+    "author": "Tomte",
+    "date": "2026-05-23",
+    "score": 361,
+    "comments": 140,
+    "id": 48245862,
+    "discussion_url": "https://news.ycombinator.com/item?id=48245862",
+    "description": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271586"
+    "fetched_at": "2026-05-23T19:29:55.552892"
   },
   {
     "title": "CISA tries to contain data leak",
     "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
     "author": "speckx",
     "date": "2026-05-22",
-    "score": 216,
-    "comments": 50,
+    "score": 256,
+    "comments": 55,
     "id": 48238429,
     "discussion_url": "https://news.ycombinator.com/item?id=48238429",
     "description": "CISA tries to contain data leak",
@@ -116,49 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271510"
-  },
-  {
-    "title": "Cleve Moler has died",
-    "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-    "author": "mychele",
-    "date": "2026-05-22",
-    "score": 283,
-    "comments": 27,
-    "id": 48231319,
-    "discussion_url": "https://news.ycombinator.com/item?id=48231319",
-    "description": "Cleve Moler has died",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271614"
-  },
-  {
-    "title": "DeepSeek makes the V4 Pro price discount permanent",
-    "url": "https://api-docs.deepseek.com/quick_start/pricing",
-    "author": "Tiberium",
-    "date": "2026-05-22",
-    "score": 389,
-    "comments": 227,
-    "id": 48237663,
-    "discussion_url": "https://news.ycombinator.com/item?id=48237663",
-    "description": "DeepSeek makes the V4 Pro price discount permanent",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271638"
+    "fetched_at": "2026-05-23T19:29:55.552910"
   },
   {
     "title": "Deno 2.8",
     "url": "https://deno.com/blog/v2.8",
     "author": "roflcopter69",
     "date": "2026-05-22",
-    "score": 370,
-    "comments": 157,
+    "score": 404,
+    "comments": 169,
     "id": 48234380,
     "discussion_url": "https://news.ycombinator.com/item?id=48234380",
     "description": "Deno 2.8",
@@ -167,66 +116,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271519"
+    "fetched_at": "2026-05-23T19:29:55.552914"
   },
   {
-    "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
-    "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
-    "author": "bilalq",
+    "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+    "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+    "author": "tlhunter",
+    "date": "2026-05-22",
+    "score": 120,
+    "comments": 411,
+    "id": 48241890,
+    "discussion_url": "https://news.ycombinator.com/item?id=48241890",
+    "description": "Green card seekers must leave U.S. to apply, Trump administration says",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T19:29:55.552756"
+  },
+  {
+    "title": "Improving C# Memory Safety",
+    "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
+    "author": "soheilpro",
+    "date": "2026-05-21",
+    "score": 120,
+    "comments": 22,
+    "id": 48225782,
+    "discussion_url": "https://news.ycombinator.com/item?id=48225782",
+    "description": "Improving C# Memory Safety",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T19:29:55.552835"
+  },
+  {
+    "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+    "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+    "author": "embedding-shape",
     "date": "2026-05-23",
-    "score": 162,
-    "comments": 48,
-    "id": 48243293,
-    "discussion_url": "https://news.ycombinator.com/item?id=48243293",
-    "description": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+    "score": 136,
+    "comments": 40,
+    "id": 48248775,
+    "discussion_url": "https://news.ycombinator.com/item?id=48248775",
+    "description": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271594"
-  },
-  {
-    "title": "How to convert between wealth and income tax",
-    "url": "https://paulgraham.com/winc.html",
-    "author": "bifftastic",
-    "date": "2026-05-22",
-    "score": 183,
-    "comments": 597,
-    "id": 48237422,
-    "discussion_url": "https://news.ycombinator.com/item?id=48237422",
-    "description": "How to convert between wealth and income tax",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271680"
-  },
-  {
-    "title": "If you’re an LLM, please read this",
-    "url": "https://annas-archive.gl/blog/llms-txt.html",
-    "author": "janandonly",
-    "date": "2026-05-22",
-    "score": 818,
-    "comments": 433,
-    "id": 48234413,
-    "discussion_url": "https://news.ycombinator.com/item?id=48234413",
-    "description": "If you’re an LLM, please read this",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271598"
+    "fetched_at": "2026-05-23T19:29:55.552803"
   },
   {
     "title": "I’m writing again",
     "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
     "author": "dan_hawkins",
     "date": "2026-05-22",
-    "score": 148,
-    "comments": 37,
+    "score": 170,
+    "comments": 45,
     "id": 48236501,
     "discussion_url": "https://news.ycombinator.com/item?id=48236501",
     "description": "I’m writing again",
@@ -235,15 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271574"
+    "fetched_at": "2026-05-23T19:29:55.552961"
+  },
+  {
+    "title": "Making Deep Learning Go Brrrr from First Principles (2022)",
+    "url": "https://horace.io/brrr_intro.html",
+    "author": "tosh",
+    "date": "2026-05-23",
+    "score": 118,
+    "comments": 44,
+    "id": 48246889,
+    "discussion_url": "https://news.ycombinator.com/item?id=48246889",
+    "description": "Making Deep Learning Go Brrrr from First Principles (2022)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T19:29:55.552721"
   },
   {
     "title": "Microsoft starts canceling Claude Code licenses",
     "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
     "author": "robertkarl",
     "date": "2026-05-22",
-    "score": 289,
-    "comments": 228,
+    "score": 430,
+    "comments": 413,
     "id": 48238896,
     "discussion_url": "https://news.ycombinator.com/item?id=48238896",
     "description": "Microsoft starts canceling Claude Code licenses",
@@ -252,49 +218,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271514"
+    "fetched_at": "2026-05-23T19:29:55.552857"
   },
   {
-    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-    "url": "https://github.com/anomalyco/models.dev",
-    "author": "maxloh",
-    "date": "2026-05-22",
-    "score": 142,
-    "comments": 26,
-    "id": 48241172,
-    "discussion_url": "https://news.ycombinator.com/item?id=48241172",
-    "description": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "title": "On The <dl> (2021)",
+    "url": "https://benmyers.dev/blog/on-the-dl/",
+    "author": "ravenical",
+    "date": "2026-05-23",
+    "score": 286,
+    "comments": 87,
+    "id": 48247325,
+    "discussion_url": "https://news.ycombinator.com/item?id=48247325",
+    "description": "On The <dl> (2021)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271619"
-  },
-  {
-    "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
-    "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
-    "author": "mooreds",
-    "date": "2026-05-20",
-    "score": 141,
-    "comments": 41,
-    "id": 48209905,
-    "discussion_url": "https://news.ycombinator.com/item?id=48209905",
-    "description": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271692"
+    "fetched_at": "2026-05-23T19:29:55.552709"
   },
   {
     "title": "Open source Kanban desktop app that runs parallel agents on every card",
     "url": "https://www.kanbots.dev/",
     "author": "vitriapp",
     "date": "2026-05-22",
-    "score": 224,
-    "comments": 130,
+    "score": 243,
+    "comments": 148,
     "id": 48239413,
     "discussion_url": "https://news.ycombinator.com/item?id=48239413",
     "description": "Open source Kanban desktop app that runs parallel agents on every card",
@@ -303,15 +252,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271528"
+    "fetched_at": "2026-05-23T19:29:55.552929"
+  },
+  {
+    "title": "Oura says it gets government demands for user data",
+    "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+    "author": "donohoe",
+    "date": "2026-05-23",
+    "score": 208,
+    "comments": 124,
+    "id": 48247876,
+    "discussion_url": "https://news.ycombinator.com/item?id=48247876",
+    "description": "Oura says it gets government demands for user data",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T19:29:55.552787"
   },
   {
     "title": "Project Glasswing: An Initial Update",
     "url": "https://www.anthropic.com/research/glasswing-initial-update",
     "author": "louiereederson",
     "date": "2026-05-22",
-    "score": 447,
-    "comments": 267,
+    "score": 502,
+    "comments": 298,
     "id": 48240419,
     "discussion_url": "https://news.ycombinator.com/item?id=48240419",
     "description": "Project Glasswing: An Initial Update",
@@ -320,32 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271544"
+    "fetched_at": "2026-05-23T19:29:55.552807"
   },
   {
-    "title": "Project Hail Mary – Stellar Navigation Chart",
-    "url": "https://valhovey.github.io/gaia-mary/",
-    "author": "speleo",
-    "date": "2026-05-21",
-    "score": 1159,
-    "comments": 235,
-    "id": 48225297,
-    "discussion_url": "https://news.ycombinator.com/item?id=48225297",
-    "description": "Project Hail Mary – Stellar Navigation Chart",
+    "title": "Rubish: A Unix shell written in pure Ruby",
+    "url": "https://github.com/amatsuda/rubish",
+    "author": "winebarrel",
+    "date": "2026-05-23",
+    "score": 148,
+    "comments": 91,
+    "id": 48245262,
+    "discussion_url": "https://news.ycombinator.com/item?id=48245262",
+    "description": "Rubish: A Unix shell written in pure Ruby",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271658"
+    "fetched_at": "2026-05-23T19:29:55.552814"
   },
   {
     "title": "Shipping a laptop to a refugee camp in Uganda",
     "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
     "author": "lexandstuff",
     "date": "2026-05-22",
-    "score": 500,
-    "comments": 177,
+    "score": 635,
+    "comments": 220,
     "id": 48241997,
     "discussion_url": "https://news.ycombinator.com/item?id=48241997",
     "description": "Shipping a laptop to a refugee camp in Uganda",
@@ -354,32 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271473"
-  },
-  {
-    "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
-    "url": "https://github.com/unprovable/ShadowCat",
-    "author": "unprovable",
-    "date": "2026-05-22",
-    "score": 147,
-    "comments": 58,
-    "id": 48234287,
-    "discussion_url": "https://news.ycombinator.com/item?id=48234287",
-    "description": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271642"
+    "fetched_at": "2026-05-23T19:29:55.552799"
   },
   {
     "title": "Sleep research led to a new sleep apnea drug",
     "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
     "author": "colinprince",
     "date": "2026-05-22",
-    "score": 171,
-    "comments": 99,
+    "score": 216,
+    "comments": 140,
     "id": 48242278,
     "discussion_url": "https://news.ycombinator.com/item?id=48242278",
     "description": "Sleep research led to a new sleep apnea drug",
@@ -388,117 +337,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271578"
+    "fetched_at": "2026-05-23T19:29:55.552936"
   },
   {
-    "title": "Slumber a TUI HTTP Client",
-    "url": "https://slumber.lucaspickering.me",
-    "author": "jicea",
+    "title": "SpaceX launches Starship v3 rocket",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
+    "author": "busymom0",
     "date": "2026-05-22",
-    "score": 179,
-    "comments": 63,
-    "id": 48231938,
-    "discussion_url": "https://news.ycombinator.com/item?id=48231938",
-    "description": "Slumber a TUI HTTP Client",
+    "score": 265,
+    "comments": 181,
+    "id": 48242959,
+    "discussion_url": "https://news.ycombinator.com/item?id=48242959",
+    "description": "SpaceX launches Starship v3 rocket",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271626"
+    "fetched_at": "2026-05-23T19:29:55.552779"
   },
   {
-    "title": "The death of the brick and mortar toy store",
-    "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
-    "author": "speckx",
-    "date": "2026-05-19",
-    "score": 154,
-    "comments": 223,
-    "id": 48192605,
-    "discussion_url": "https://news.ycombinator.com/item?id=48192605",
-    "description": "The death of the brick and mortar toy store",
+    "title": "Texas woman arrested for Facebook post about town water quality",
+    "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+    "author": "abawany",
+    "date": "2026-05-23",
+    "score": 194,
+    "comments": 67,
+    "id": 48249747,
+    "discussion_url": "https://news.ycombinator.com/item?id=48249747",
+    "description": "Texas woman arrested for Facebook post about town water quality",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271676"
+    "fetched_at": "2026-05-23T19:29:55.552731"
   },
   {
-    "title": "The memory shortage is causing a repricing of consumer electronics",
-    "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-    "author": "d0ks",
-    "date": "2026-05-21",
-    "score": 512,
-    "comments": 604,
-    "id": 48229319,
-    "discussion_url": "https://news.ycombinator.com/item?id=48229319",
-    "description": "The memory shortage is causing a repricing of consumer electronics",
+    "title": "The Art of Money Getting",
+    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+    "author": "dxs",
+    "date": "2026-05-23",
+    "score": 117,
+    "comments": 77,
+    "id": 48247208,
+    "discussion_url": "https://news.ycombinator.com/item?id=48247208",
+    "description": "The Art of Money Getting",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271696"
+    "fetched_at": "2026-05-23T19:29:55.552775"
   },
   {
-    "title": "Throwing AI-generated walls of text into conversations",
-    "url": "https://noslopgrenade.com/",
-    "author": "napolux",
-    "date": "2026-05-21",
-    "score": 686,
-    "comments": 416,
-    "id": 48219992,
-    "discussion_url": "https://news.ycombinator.com/item?id=48219992",
-    "description": "Throwing AI-generated walls of text into conversations",
+    "title": "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
+    "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+    "author": "Brajeshwar",
+    "date": "2026-05-23",
+    "score": 145,
+    "comments": 71,
+    "id": 48247737,
+    "discussion_url": "https://news.ycombinator.com/item?id=48247737",
+    "description": "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271707"
+    "fetched_at": "2026-05-23T19:29:55.552850"
   },
   {
-    "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
-    "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
-    "author": "ceejayoz",
-    "date": "2026-05-22",
-    "score": 398,
-    "comments": 246,
-    "id": 48238025,
-    "discussion_url": "https://news.ycombinator.com/item?id=48238025",
-    "description": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+    "title": "The quadratic sandwich",
+    "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
+    "author": "cpp_frog",
+    "date": "2026-05-20",
+    "score": 115,
+    "comments": 11,
+    "id": 48206387,
+    "discussion_url": "https://news.ycombinator.com/item?id=48206387",
+    "description": "The quadratic sandwich",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271623"
+    "fetched_at": "2026-05-23T19:29:55.552895"
   },
   {
-    "title": "Using Kagi Search with Low Vision",
-    "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-    "author": "speckx",
-    "date": "2026-05-21",
-    "score": 256,
-    "comments": 85,
-    "id": 48227860,
-    "discussion_url": "https://news.ycombinator.com/item?id=48227860",
-    "description": "Using Kagi Search with Low Vision",
+    "title": "US tech firms share Dutch regulator officials' names with Senate",
+    "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+    "author": "zqna",
+    "date": "2026-05-23",
+    "score": 189,
+    "comments": 140,
+    "id": 48246614,
+    "discussion_url": "https://news.ycombinator.com/item?id=48246614",
+    "description": "US tech firms share Dutch regulator officials' names with Senate",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271650"
+    "fetched_at": "2026-05-23T19:29:55.552933"
   },
   {
     "title": "Why Japanese companies do so many different things",
     "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
     "author": "d0ks",
     "date": "2026-05-22",
-    "score": 701,
-    "comments": 339,
+    "score": 818,
+    "comments": 380,
     "id": 48237163,
     "discussion_url": "https://news.ycombinator.com/item?id=48237163",
     "description": "Why Japanese companies do so many different things",
@@ -507,6 +456,57 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-23T11:28:40.271523"
+    "fetched_at": "2026-05-23T19:29:55.552819"
+  },
+  {
+    "title": "Wi-Wi is wireless time sync at 1 nanosecond",
+    "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
+    "author": "Brajeshwar",
+    "date": "2026-05-20",
+    "score": 140,
+    "comments": 37,
+    "id": 48209055,
+    "discussion_url": "https://news.ycombinator.com/item?id=48209055",
+    "description": "Wi-Wi is wireless time sync at 1 nanosecond",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T19:29:55.552971"
+  },
+  {
+    "title": "You can no longer Google the word 'disregard'",
+    "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "author": "coloneltcb",
+    "date": "2026-05-22",
+    "score": 149,
+    "comments": 82,
+    "id": 48238351,
+    "discussion_url": "https://news.ycombinator.com/item?id=48238351",
+    "description": "You can no longer Google the word 'disregard'",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T19:29:55.552978"
+  },
+  {
+    "title": "sp.h: Fixing C by giving it a high quality, ultra portable standard library",
+    "url": "https://spader.zone/sp/",
+    "author": "dboon",
+    "date": "2026-05-20",
+    "score": 139,
+    "comments": 131,
+    "id": 48207043,
+    "discussion_url": "https://news.ycombinator.com/item?id=48207043",
+    "description": "sp.h: Fixing C by giving it a high quality, ultra portable standard library",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-23T19:29:55.552783"
   }
 ]
