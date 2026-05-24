@@ -1,11 +1,28 @@
 [
   {
+    "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+    "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+    "author": "Brajeshwar",
+    "date": "2026-05-24",
+    "score": 125,
+    "comments": 97,
+    "id": 48257980,
+    "discussion_url": "https://news.ycombinator.com/item?id=48257980",
+    "description": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-24T19:32:06.292284"
+  },
+  {
     "title": "-​-dangerously-skip-reading-code",
     "url": "https://olano.dev/blog/dangerously-skip/",
     "author": "fagnerbrack",
     "date": "2026-05-23",
-    "score": 154,
-    "comments": 154,
+    "score": 188,
+    "comments": 184,
     "id": 48246232,
     "discussion_url": "https://news.ycombinator.com/item?id=48246232",
     "description": "-​-dangerously-skip-reading-code",
@@ -14,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934600"
+    "fetched_at": "2026-05-24T19:32:06.292377"
   },
   {
     "title": ".NET (OK, C#) finally gets union types",
     "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
     "author": "ingve",
     "date": "2026-05-22",
-    "score": 207,
-    "comments": 216,
+    "score": 220,
+    "comments": 258,
     "id": 48234954,
     "discussion_url": "https://news.ycombinator.com/item?id=48234954",
     "description": ".NET (OK, C#) finally gets union types",
@@ -31,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934583"
+    "fetched_at": "2026-05-24T19:32:06.292423"
   },
   {
     "title": "80386 microcode disassembled",
     "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
     "author": "nand2mario",
     "date": "2026-05-23",
-    "score": 253,
-    "comments": 49,
+    "score": 268,
+    "comments": 50,
     "id": 48247004,
     "discussion_url": "https://news.ycombinator.com/item?id=48247004",
     "description": "80386 microcode disassembled",
@@ -48,15 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934550"
+    "fetched_at": "2026-05-24T19:32:06.292365"
+  },
+  {
+    "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+    "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
+    "author": "anujbans",
+    "date": "2026-05-24",
+    "score": 121,
+    "comments": 24,
+    "id": 48254020,
+    "discussion_url": "https://news.ycombinator.com/item?id=48254020",
+    "description": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-24T19:32:06.292280"
   },
   {
     "title": "Amazon Web Services – Four Years and Out",
     "url": "https://www.adventuresinoss.com/aws-four-years/",
     "author": "RyeCombinator",
     "date": "2026-05-24",
-    "score": 222,
-    "comments": 75,
+    "score": 287,
+    "comments": 116,
     "id": 48254475,
     "discussion_url": "https://news.ycombinator.com/item?id=48254475",
     "description": "Amazon Web Services – Four Years and Out",
@@ -65,32 +99,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934590"
+    "fetched_at": "2026-05-24T19:32:06.292385"
   },
   {
-    "title": "Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite",
-    "url": "https://twitter.com/YoavCodes/status/2058064720553222567",
-    "author": "bundie",
-    "date": "2026-05-23",
-    "score": 136,
-    "comments": 146,
-    "id": 48246917,
-    "discussion_url": "https://news.ycombinator.com/item?id=48246917",
-    "description": "Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite",
+    "title": "DeepSeek makes the V4 Pro price discount permanent",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "author": "Tiberium",
+    "date": "2026-05-22",
+    "score": 463,
+    "comments": 385,
+    "id": 48237663,
+    "discussion_url": "https://news.ycombinator.com/item?id=48237663",
+    "description": "DeepSeek makes the V4 Pro price discount permanent",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934696"
+    "fetched_at": "2026-05-24T19:32:06.292320"
+  },
+  {
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "author": "Alifatisk",
+    "date": "2026-05-24",
+    "score": 241,
+    "comments": 135,
+    "id": 48256953,
+    "discussion_url": "https://news.ycombinator.com/item?id=48256953",
+    "description": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-24T19:32:06.292215"
+  },
+  {
+    "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+    "author": "moh_maya",
+    "date": "2026-05-24",
+    "score": 131,
+    "comments": 2,
+    "id": 48257410,
+    "discussion_url": "https://news.ycombinator.com/item?id=48257410",
+    "description": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-24T19:32:06.292276"
+  },
+  {
+    "title": "Don't Roll Your Own",
+    "url": "https://susam.net/do-not-roll-your-own.html",
+    "author": "adunk",
+    "date": "2026-05-23",
+    "score": 121,
+    "comments": 105,
+    "id": 48252192,
+    "discussion_url": "https://news.ycombinator.com/item?id=48252192",
+    "description": "Don't Roll Your Own",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-24T19:32:06.292419"
   },
   {
     "title": "Green card seekers must leave U.S. to apply, Trump administration says",
     "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
     "author": "tlhunter",
     "date": "2026-05-22",
-    "score": 901,
-    "comments": 1508,
+    "score": 1011,
+    "comments": 1739,
     "id": 48241890,
     "discussion_url": "https://news.ycombinator.com/item?id=48241890",
     "description": "Green card seekers must leave U.S. to apply, Trump administration says",
@@ -99,15 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934543"
+    "fetched_at": "2026-05-24T19:32:06.292332"
+  },
+  {
+    "title": "Greg Brockman interview [video]",
+    "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+    "author": "prakashqwerty",
+    "date": "2026-05-24",
+    "score": 147,
+    "comments": 131,
+    "id": 48255593,
+    "discussion_url": "https://news.ycombinator.com/item?id=48255593",
+    "description": "Greg Brockman interview [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-24T19:32:06.292344"
   },
   {
     "title": "Hengefinder: Finding when the sun aligns with your street",
     "url": "https://victoriaritvo.com/blog/hengefinder/",
     "author": "evakhoury",
     "date": "2026-05-22",
-    "score": 152,
-    "comments": 35,
+    "score": 174,
+    "comments": 37,
     "id": 48241335,
     "discussion_url": "https://news.ycombinator.com/item?id=48241335",
     "description": "Hengefinder: Finding when the sun aligns with your street",
@@ -116,66 +218,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934539"
+    "fetched_at": "2026-05-24T19:32:06.292369"
   },
   {
-    "title": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
-    "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
-    "author": "cdrnsf",
-    "date": "2026-05-23",
-    "score": 135,
-    "comments": 38,
-    "id": 48252720,
-    "discussion_url": "https://news.ycombinator.com/item?id=48252720",
-    "description": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934703"
-  },
-  {
-    "title": "Improving C# Memory Safety",
-    "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
-    "author": "soheilpro",
+    "title": "I spent 50 hours drawing a line graph",
+    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "author": "dougdude3339",
     "date": "2026-05-21",
-    "score": 155,
-    "comments": 33,
-    "id": 48225782,
-    "discussion_url": "https://news.ycombinator.com/item?id=48225782",
-    "description": "Improving C# Memory Safety",
+    "score": 333,
+    "comments": 62,
+    "id": 48223997,
+    "discussion_url": "https://news.ycombinator.com/item?id=48223997",
+    "description": "I spent 50 hours drawing a line graph",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934669"
-  },
-  {
-    "title": "Italy moves to Airbus A330 tankers",
-    "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-    "author": "embedding-shape",
-    "date": "2026-05-23",
-    "score": 260,
-    "comments": 102,
-    "id": 48248775,
-    "discussion_url": "https://news.ycombinator.com/item?id=48248775",
-    "description": "Italy moves to Airbus A330 tankers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934651"
+    "fetched_at": "2026-05-24T19:32:06.292227"
   },
   {
     "title": "Judson's Last Ride",
     "url": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
     "author": "NaOH",
     "date": "2026-05-23",
-    "score": 106,
-    "comments": 5,
+    "score": 126,
+    "comments": 7,
     "id": 48246993,
     "discussion_url": "https://news.ycombinator.com/item?id=48246993",
     "description": "Judson's Last Ride",
@@ -184,32 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934597"
-  },
-  {
-    "title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
-    "url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
-    "author": "cf100clunk",
-    "date": "2026-05-19",
-    "score": 174,
-    "comments": 205,
-    "id": 48194645,
-    "discussion_url": "https://news.ycombinator.com/item?id=48194645",
-    "description": "Kindle loyalists scramble as Amazon turns page on old e-readers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934555"
+    "fetched_at": "2026-05-24T19:32:06.292361"
   },
   {
     "title": "Making deep learning go brrrr from first principles (2022)",
     "url": "https://horace.io/brrr_intro.html",
     "author": "tosh",
     "date": "2026-05-23",
-    "score": 174,
-    "comments": 63,
+    "score": 183,
+    "comments": 64,
     "id": 48246889,
     "discussion_url": "https://news.ycombinator.com/item?id=48246889",
     "description": "Making deep learning go brrrr from first principles (2022)",
@@ -218,15 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934613"
+    "fetched_at": "2026-05-24T19:32:06.292427"
+  },
+  {
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "author": "intelkishan",
+    "date": "2026-05-24",
+    "score": 150,
+    "comments": 165,
+    "id": 48258684,
+    "discussion_url": "https://news.ycombinator.com/item?id=48258684",
+    "description": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-24T19:32:06.292174"
   },
   {
     "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
     "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
     "author": "DamnInteresting",
     "date": "2026-05-24",
-    "score": 282,
-    "comments": 88,
+    "score": 387,
+    "comments": 127,
     "id": 48253386,
     "discussion_url": "https://news.ycombinator.com/item?id=48253386",
     "description": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
@@ -235,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934558"
+    "fetched_at": "2026-05-24T19:32:06.292241"
   },
   {
     "title": "My two-part desk setup (2025)",
     "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
     "author": "James72689",
     "date": "2026-05-20",
-    "score": 298,
-    "comments": 165,
+    "score": 333,
+    "comments": 206,
     "id": 48214311,
     "discussion_url": "https://news.ycombinator.com/item?id=48214311",
     "description": "My two-part desk setup (2025)",
@@ -252,15 +320,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934547"
+    "fetched_at": "2026-05-24T19:32:06.292336"
+  },
+  {
+    "title": "Omarchy Is Not A Distro",
+    "url": "https://abyss.fish/your_dotfiles_are_not_a_distro",
+    "author": "j3s",
+    "date": "2026-05-24",
+    "score": 138,
+    "comments": 118,
+    "id": 48257612,
+    "discussion_url": "https://news.ycombinator.com/item?id=48257612",
+    "description": "Omarchy Is Not A Distro",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-24T19:32:06.292408"
   },
   {
     "title": "On The <dl> (2021)",
     "url": "https://benmyers.dev/blog/on-the-dl/",
     "author": "ravenical",
     "date": "2026-05-23",
-    "score": 400,
-    "comments": 115,
+    "score": 425,
+    "comments": 124,
     "id": 48247325,
     "discussion_url": "https://news.ycombinator.com/item?id=48247325",
     "description": "On The <dl> (2021)",
@@ -269,32 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934586"
-  },
-  {
-    "title": "Oura says it gets government demands for user data",
-    "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-    "author": "donohoe",
-    "date": "2026-05-23",
-    "score": 273,
-    "comments": 149,
-    "id": 48247876,
-    "discussion_url": "https://news.ycombinator.com/item?id=48247876",
-    "description": "Oura says it gets government demands for user data",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934706"
+    "fetched_at": "2026-05-24T19:32:06.292301"
   },
   {
     "title": "PHP's Oddities",
     "url": "https://flowtwo.io/post/php%27s-oddities",
     "author": "thejoeflow",
     "date": "2026-05-19",
-    "score": 123,
-    "comments": 153,
+    "score": 128,
+    "comments": 163,
     "id": 48199314,
     "discussion_url": "https://news.ycombinator.com/item?id=48199314",
     "description": "PHP's Oddities",
@@ -303,49 +371,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934620"
+    "fetched_at": "2026-05-24T19:32:06.292389"
   },
   {
-    "title": "Project Glasswing: An Initial Update",
-    "url": "https://www.anthropic.com/research/glasswing-initial-update",
-    "author": "louiereederson",
+    "title": "Sales and Dungeons: Thermal printer TTRPG utility",
+    "url": "https://sales-and-dungeons.app/",
+    "author": "hyperific",
     "date": "2026-05-22",
-    "score": 533,
-    "comments": 313,
-    "id": 48240419,
-    "discussion_url": "https://news.ycombinator.com/item?id=48240419",
-    "description": "Project Glasswing: An Initial Update",
+    "score": 126,
+    "comments": 38,
+    "id": 48232721,
+    "discussion_url": "https://news.ycombinator.com/item?id=48232721",
+    "description": "Sales and Dungeons: Thermal printer TTRPG utility",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934655"
-  },
-  {
-    "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-    "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-    "author": "elpocko",
-    "date": "2026-05-23",
-    "score": 104,
-    "comments": 21,
-    "id": 48248954,
-    "discussion_url": "https://news.ycombinator.com/item?id=48248954",
-    "description": "Reverse engineering circuitry in a Spacelab computer from 1980",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934593"
+    "fetched_at": "2026-05-24T19:32:06.292340"
   },
   {
     "title": "Scammers are abusing an internal Microsoft account to send spam links",
     "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
     "author": "spike021",
     "date": "2026-05-24",
-    "score": 163,
-    "comments": 76,
+    "score": 241,
+    "comments": 135,
     "id": 48253186,
     "discussion_url": "https://news.ycombinator.com/item?id=48253186",
     "description": "Scammers are abusing an internal Microsoft account to send spam links",
@@ -354,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934531"
+    "fetched_at": "2026-05-24T19:32:06.292189"
   },
   {
     "title": "SpaceX launches Starship v3 rocket",
     "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
     "author": "busymom0",
     "date": "2026-05-22",
-    "score": 408,
-    "comments": 282,
+    "score": 424,
+    "comments": 291,
     "id": 48242959,
     "discussion_url": "https://news.ycombinator.com/item?id=48242959",
     "description": "SpaceX launches Starship v3 rocket",
@@ -371,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934645"
+    "fetched_at": "2026-05-24T19:32:06.292434"
   },
   {
     "title": "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
     "url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
     "author": "gslin",
     "date": "2026-05-23",
-    "score": 164,
-    "comments": 107,
+    "score": 183,
+    "comments": 112,
     "id": 48245362,
     "discussion_url": "https://news.ycombinator.com/item?id=48245362",
     "description": "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
@@ -388,32 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934635"
-  },
-  {
-    "title": "Texas woman arrested for Facebook post about town water quality",
-    "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-    "author": "abawany",
-    "date": "2026-05-23",
-    "score": 718,
-    "comments": 294,
-    "id": 48249747,
-    "discussion_url": "https://news.ycombinator.com/item?id=48249747",
-    "description": "Texas woman arrested for Facebook post about town water quality",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934709"
+    "fetched_at": "2026-05-24T19:32:06.292400"
   },
   {
     "title": "The Art of Money Getting",
     "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
     "author": "dxs",
     "date": "2026-05-23",
-    "score": 306,
-    "comments": 158,
+    "score": 371,
+    "comments": 205,
     "id": 48247208,
     "discussion_url": "https://news.ycombinator.com/item?id=48247208",
     "description": "The Art of Money Getting",
@@ -422,32 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934624"
-  },
-  {
-    "title": "The quadratic sandwich",
-    "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
-    "author": "cpp_frog",
-    "date": "2026-05-20",
-    "score": 132,
-    "comments": 12,
-    "id": 48206387,
-    "discussion_url": "https://news.ycombinator.com/item?id=48206387",
-    "description": "The quadratic sandwich",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934689"
+    "fetched_at": "2026-05-24T19:32:06.292297"
   },
   {
     "title": "Time to talk about my writerdeck",
     "url": "https://veronicaexplains.net/my-first-writerdeck/",
     "author": "hggh",
     "date": "2026-05-23",
-    "score": 383,
-    "comments": 230,
+    "score": 441,
+    "comments": 271,
     "id": 48250144,
     "discussion_url": "https://news.ycombinator.com/item?id=48250144",
     "description": "Time to talk about my writerdeck",
@@ -456,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934517"
+    "fetched_at": "2026-05-24T19:32:06.292293"
   },
   {
     "title": "Wake up! 16b",
     "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
     "author": "MaximilianEmel",
     "date": "2026-05-24",
-    "score": 274,
-    "comments": 19,
+    "score": 373,
+    "comments": 25,
     "id": 48253060,
     "discussion_url": "https://news.ycombinator.com/item?id=48253060",
     "description": "Wake up! 16b",
@@ -473,32 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934607"
-  },
-  {
-    "title": "Why Japanese companies do so many different things",
-    "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-    "author": "d0ks",
-    "date": "2026-05-22",
-    "score": 872,
-    "comments": 396,
-    "id": 48237163,
-    "discussion_url": "https://news.ycombinator.com/item?id=48237163",
-    "description": "Why Japanese companies do so many different things",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934699"
+    "fetched_at": "2026-05-24T19:32:06.292309"
   },
   {
     "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
     "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
     "author": "zdw",
     "date": "2026-05-24",
-    "score": 189,
-    "comments": 76,
+    "score": 269,
+    "comments": 157,
     "id": 48254309,
     "discussion_url": "https://news.ycombinator.com/item?id=48254309",
     "description": "Why is Vivado 2026.1 dropping Linux support for free tier?",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-24T11:30:58.934527"
+    "fetched_at": "2026-05-24T19:32:06.292324"
   }
 ]
