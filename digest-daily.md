@@ -1,69 +1,69 @@
 ---
-date: '2026-05-23'
+date: '2026-05-24'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-23T18:00:27.979618'
+generated_at: '2026-05-24T18:02:43.742328'
 ---
 
 ## Executive Summary
-- DeepSeek unveiled detailed pricing and model specs for its V4‑Flash and V4‑Pro APIs, marking a significant shift toward high‑token, multimodal LLM offerings.  
-- Google’s redesign of its homepage search box deepens AI integration into web search, sparking debate over the future of the “click economy.”  
-- A high‑profile ULS review is under way in the UK after teen rapists received youth rehabilitation orders, prompting political outcry over sentencing leniency.  
-- The Myspace93 breach exposed 46 k plaintext passwords, highlighting ongoing risks for legacy platforms and the importance of credential hygiene.  
-- Anthropic is in talks with Microsoft about adopting the Maia AI chip, a move that could reshape the competitive landscape of AI hardware.
+- A collaborative effort has finally reverse‑engineered the 80386 microcode ROM, revealing 215 entry points and a possible I/O permission bug.  
+- The demoscene celebrated a 16‑byte real‑mode intro that draws and sonifies a Sierpinski triangle on vintage hardware.  
+- Public‑health crises dominate headlines: a nine‑storey building collapse in the Philippines leaves 19 feared trapped, Australia confronts its worst diphtheria outbreak in decades, and Ebola treatment centres in eastern DRC face escalating attacks.  
+- Microsoft released the earliest known DOS source code, while C# 15 adds native union types, expanding functional‑style programming on .NET.  
+- Trending community posts spotlight “Book Freak” on timeless money‑making rules and a minimalist Linux “writerdeck” for distraction‑free writing.
 
 ---
 
 ## AI and Machine Learning
 
-### Models & Pricing | DeepSeek API Docs [hackernews_api] (trending)
-DeepSeek released comprehensive documentation for its V4‑Flash and V4‑Pro models, offering 1 M‑token context, up to 384 K output tokens, and a tiered pricing structure with a temporary 75 % discount on the Pro tier until the end of May. The API supports both OpenAI‑style and Anthropic‑style endpoints, JSON output, tool calls, and experimental features such as chat‑prefix and FIM completion.
+### 80386 microcode disassembled « Reenigne blog [hnrss]  
+The Reenigne blog details a community‑driven reverse‑engineering of the 80386 microcode ROM, exposing 215 entry points, hardware‑accelerator interfaces, and a potential I/O permission bitmap flaw.
 
-### Abortion issue evolves with Democrats in midterm elections [NPR]
-Democratic campaigns are scaling back explicit abortion advertising, instead weaving reproductive‑rights arguments into broader economic narratives as cost‑of‑living concerns dominate voter priorities. Candidates like Graham Platner and Angie Craig link access to abortion with affordability, while the Supreme Court’s recent decision to keep the mifepristone mail‑order rule in place adds a legal backdrop to the shifting strategy.
-
-### Ask AI or just Google it? Google makes a big change to a little search box [NPR]
-Google is rolling out a dynamic homepage search box that expands for longer queries and accepts videos, images, and files, signaling deeper AI integration. The update promises more natural‑language interaction and “agentic” task automation but raises concerns about reduced link diversity, opaque result generation, and potential damage to the online “click economy.”
-
-### Attorney general to review Fordingbridge teen boys' rape sentences [newsfeed]
-In the UK, three teenage boys received youth rehabilitation orders for a series of rapes, prompting the Attorney General to consider a review under the Unduly Lenient Sentence scheme. Politicians across the spectrum have condemned the sentences as too soft, and the case has reignited debate over how the justice system handles serious sexual offenses committed by minors.
-
-### After Automation | Every [tldr]
-Every’s internal AI deployment shows that extensive automation creates more expert‑level work rather than reducing human effort. The company uses a mix of agent‑employees and human‑agent collaboration tools (e.g., Claudie, Andy, Viktor, Fin) to handle routine tasks while a small team focuses on higher‑order editing, engineering, and strategic decisions.
-
-### Anthropic, Microsoft in talks about Maia AI chip deal [tldr]
-Anthropic is negotiating with Microsoft to adopt the custom Maia AI chip, aiming to alleviate compute constraints for its Claude models. While no agreement is finalized, a deal would give Microsoft a stronger foothold in AI silicon, complementing its existing $5 billion investment in Anthropic and addressing the startup’s reliance on NVIDIA, AWS, and Google hardware.
+### wake up! 16b [hnrss]  
+A 16‑byte DOS intro presented at the Outline Demoparty visualises and sonifies a Sierpinski triangle by XOR‑ing video memory and outputting the same pattern to the PC speaker, showcasing extreme code‑size optimisation.
 
 ---
 
-## Cybersecurity and Privacy
+## Additional News Items
 
-### 46k plaintext passwords pwned in Myspace93 breach [tldr]
-A 2021 breach of the nostalgic Myspace93 platform resurfaced in May 2026, exposing over 46 000 plaintext usernames, passwords, emails, and IP addresses. The leak resulted from a trusted insider sharing an unencrypted credential store, prompting the shutdown of social features on the site and urging users to change any reused passwords and enable two‑factor authentication.
+### 19 feared trapped after building collapse in Philippines | Al Jazeera [newsfeed]  
+An unfinished nine‑storey building near Manila collapsed on 24 May, rescuing 24 people while 19 workers remain feared trapped beneath the rubble.
+
+### Australia is battling its largest diphtheria outbreak in living memory | New Scientist [newsfeed]  
+Australia reports 230 diphtheria cases and one death, concentrated in remote Indigenous communities, driven by vaccination gaps, mobility, and post‑COVID‑19 misinformation; the government has earmarked A$7.2 million for response.
+
+### Reddit - Please wait for verification [reddit]  
+*No article content provided; request for the full text was made.*
 
 ---
 
 ## Software Engineering and Dev Tools
 
-### Alberta to hold referendum on whether to remain in Canada [hackernews_api]
-Alberta Premier Danielle Smith announced a provincial referendum for 19 October 2024 on whether the province should pursue separation from Canada, following massive petition activity on both sides. Legal challenges over Indigenous consultation and the requirements of the Clarity Act frame the debate, while economic grievances over federal energy policy fuel separatist sentiment.
+### Book Freak #210: The Art of Money Getting – Cool Tools (trending) [hackernews_api]  
+The “Book Freak” post revisits P.T. Barnum’s 1880 guide, extracting four timeless money‑making maxims—align vocation, shun debt, give full effort, and protect integrity—and offers actionable steps for readers.
 
-### Introduction - Slumber [hackernews_api]
-Slumber is a terminal‑based HTTP client offering both an interactive TUI and a CLI for making REST requests. Configurable via a shared YAML collection file, it aims for ease of use, extensibility, and shareability among developers.
+### It's time to talk about my writerdeck (trending) [hackernews_api]  
+A System76 Galago Pro is converted into a console‑only Linux “writerdeck” with Debian Trixie, `nm‑tui` networking, `neovim`, `kmscon`, and a tmux setup that displays battery and brightness controls, delivering a distraction‑free writing environment.
 
-### Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers | TechCrunch [newsfeed]
-Apple petitioned the U.S. Supreme Court to limit a lower‑court injunction that forces it to allow links to alternative payment options for all App Store developers, arguing that Epic’s case does not constitute a class action. The move follows a Ninth Circuit contempt order and comes as Epic prepares to relist Fortnite globally, except in Australia.
+### My two-part desk setup (trending) [hackernews_api]  
+The author reorients a large USM Haller desk into digital and analog zones, separating screen‑based work from notebooks, pens, and family activities, improving focus and ergonomics after nine months of use.
 
-### Thread by @AxisFDN on Thread Reader App – Thread Reader App [tldr]
-*No article text was provided; summary unavailable.*
+### Microsoft open‑sources “the earliest DOS source code discovered to date” – Ars Technica [hnrss]  
+Microsoft publishes the 86‑DOS 1.00 kernel and early PC‑DOS 1.00 snapshots, digitised from paper printouts by the DOS Disassembly Group, extending its open‑source archive of historic operating‑system code.
+
+### .NET (OK, C#) finally gets union types 🎉 [hnrss]  
+C# 15 introduces a `union` keyword, enabling native discriminated unions (e.g., `SupportedOS`, `Result<T>`); the feature works at compile time, integrates with .NET 11, and is supported in Visual Studio Preview and VS Code.
 
 ---
 
-## Open Source
+## World News and Geopolitics
 
-### GitHub - unprovable/ShadowCat: Single file optical file transfer using a browser [hnrss]
-ShadowCat is a single‑HTML page that transfers files between devices via QR codes, targeting old phones with functional cameras but dead radios. It supports configurable chunk sizes, error correction, and continuous looping, achieving roughly 0.8 KB/s throughput, and includes a simple protocol for header and data frames.
+### Attacks on Ebola centres intensify in eastern DRC amid outbreak fears | Al Jazeera [newsfeed]  
+Violence against Ebola treatment facilities in eastern DRC has risen, with assaults on health centres and tents, fueling fears of wider spread; WHO warns of cross‑border risk to Uganda and regional health systems.
+
+### Why essentials like eggs, bread and milk cost so much more now | Newsfeed [newsfeed]  
+UK staple prices have surged since 2022 due to avian flu, the Ukraine war’s impact on grain and energy costs, and rising production expenses, squeezing farmers while supermarkets keep thin margins.
 
 ---
 
 ## Notable Mentions
-- No additional items were provided for this section.
+- Direct and organic should not be channels in your attribution reporting [tldr]
