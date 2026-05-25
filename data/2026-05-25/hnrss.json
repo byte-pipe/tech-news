@@ -4,284 +4,239 @@
     "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
     "description": "A fundamental principle of aeronautical engineering has been overturned",
     "date": "2026-05-24",
-    "score": 180,
-    "comments": 88,
+    "score": 221,
+    "comments": 109,
     "discussion_url": "https://news.ycombinator.com/item?id=48260117",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.295996"
+    "fetched_at": "2026-05-25T19:34:52.934831"
   },
   {
     "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
     "url": "https://phabricator.services.mozilla.com/D301917",
     "description": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
     "date": "2026-05-22",
-    "score": 115,
-    "comments": 37,
+    "score": 158,
+    "comments": 52,
     "discussion_url": "https://news.ycombinator.com/item?id=48242546",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296167"
+    "fetched_at": "2026-05-25T19:34:52.934907"
   },
   {
-    "title": "Build Adafruit projects right from Firefox",
-    "url": "https://www.firefox.com/en-US/landing/adafruit/",
-    "description": "Build Adafruit projects right from Firefox",
+    "title": "Bytecode VMs in surprising places (2024)",
+    "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
+    "description": "Bytecode VMs in surprising places (2024)",
     "date": "2026-05-22",
-    "score": 173,
-    "comments": 63,
-    "discussion_url": "https://news.ycombinator.com/item?id=48231547",
+    "score": 115,
+    "comments": 37,
+    "discussion_url": "https://news.ycombinator.com/item?id=48236122",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296178"
+    "fetched_at": "2026-05-25T19:34:52.934917"
   },
   {
-    "title": "Building Pi with Pi",
-    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-    "description": "Building Pi with Pi",
-    "date": "2026-05-24",
-    "score": 118,
-    "comments": 92,
-    "discussion_url": "https://news.ycombinator.com/item?id=48259192",
+    "title": "C extensions, portability, and alternative compilers",
+    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "description": "C extensions, portability, and alternative compilers",
+    "date": "2026-05-25",
+    "score": 103,
+    "comments": 29,
+    "discussion_url": "https://news.ycombinator.com/item?id=48267126",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296034"
+    "fetched_at": "2026-05-25T19:34:52.934771"
   },
   {
-    "title": "Childhood Computing",
-    "url": "https://susam.net/childhood-computing.html",
-    "description": "Childhood Computing",
-    "date": "2026-05-24",
-    "score": 219,
-    "comments": 102,
-    "discussion_url": "https://news.ycombinator.com/item?id=48256597",
+    "title": "California moves to exempt Linux from its age-verification law after backlash",
+    "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+    "description": "California moves to exempt Linux from its age-verification law after backlash",
+    "date": "2026-05-25",
+    "score": 141,
+    "comments": 61,
+    "discussion_url": "https://news.ycombinator.com/item?id=48269961",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296101"
-  },
-  {
-    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-    "url": "https://arxiv.org/abs/2605.06445",
-    "description": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-    "date": "2026-05-24",
-    "score": 249,
-    "comments": 144,
-    "discussion_url": "https://news.ycombinator.com/item?id=48256912",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296090"
+    "fetched_at": "2026-05-25T19:34:52.934748"
   },
   {
     "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "url": "https://esengine.github.io/DeepSeek-Reasonix/",
     "description": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "date": "2026-05-24",
-    "score": 593,
-    "comments": 246,
+    "score": 667,
+    "comments": 267,
     "discussion_url": "https://news.ycombinator.com/item?id=48256953",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296078"
-  },
-  {
-    "title": "Defeating Git Rigour Fatigue with Jujutsu",
-    "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-    "description": "Defeating Git Rigour Fatigue with Jujutsu",
-    "date": "2026-05-24",
-    "score": 136,
-    "comments": 141,
-    "discussion_url": "https://news.ycombinator.com/item?id=48259861",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296009"
+    "fetched_at": "2026-05-25T19:34:52.934874"
   },
   {
     "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
     "description": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
     "date": "2026-05-23",
-    "score": 168,
-    "comments": 67,
+    "score": 283,
+    "comments": 138,
     "discussion_url": "https://news.ycombinator.com/item?id=48243666",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296156"
+    "fetched_at": "2026-05-25T19:34:52.934897"
+  },
+  {
+    "title": "Gnutella: A Protocol Outliving the World That Created It",
+    "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html",
+    "description": "Gnutella: A Protocol Outliving the World That Created It",
+    "date": "2026-05-22",
+    "score": 140,
+    "comments": 51,
+    "discussion_url": "https://news.ycombinator.com/item?id=48231247",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-25T19:34:52.934928"
   },
   {
     "title": "I spent 50 hours drawing a line graph",
     "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
     "description": "I spent 50 hours drawing a line graph",
     "date": "2026-05-21",
-    "score": 568,
-    "comments": 95,
+    "score": 637,
+    "comments": 98,
     "discussion_url": "https://news.ycombinator.com/item?id=48223997",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296189"
+    "fetched_at": "2026-05-25T19:34:52.934938"
   },
   {
-    "title": "Jira Is Turing-Complete",
-    "url": "https://seriot.ch/computation/jira.html",
-    "description": "Jira Is Turing-Complete",
+    "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+    "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+    "description": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
     "date": "2026-05-25",
-    "score": 202,
-    "comments": 86,
-    "discussion_url": "https://news.ycombinator.com/item?id=48263253",
+    "score": 113,
+    "comments": 38,
+    "discussion_url": "https://news.ycombinator.com/item?id=48265056",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.295982"
+    "fetched_at": "2026-05-25T19:34:52.934820"
   },
   {
-    "title": "Magnifica Humanitas (Encyclical Letter)",
+    "title": "Magnifica Humanitas",
     "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-    "description": "Magnifica Humanitas (Encyclical Letter)",
+    "description": "Magnifica Humanitas",
     "date": "2026-05-25",
-    "score": 162,
-    "comments": 38,
+    "score": 1016,
+    "comments": 444,
     "discussion_url": "https://news.ycombinator.com/item?id=48265206",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.295959"
+    "fetched_at": "2026-05-25T19:34:52.934809"
   },
   {
-    "title": "Mastering Dyalog APL",
-    "url": "https://mastering.dyalog.com/README.html",
-    "description": "Mastering Dyalog APL",
-    "date": "2026-05-24",
-    "score": 146,
-    "comments": 37,
-    "discussion_url": "https://news.ycombinator.com/item?id=48256475",
+    "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
+    "url": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
+    "description": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
+    "date": "2026-05-25",
+    "score": 139,
+    "comments": 110,
+    "discussion_url": "https://news.ycombinator.com/item?id=48266422",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296113"
-  },
-  {
-    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-    "description": "Memory has grown to nearly two-thirds of AI chip component costs",
-    "date": "2026-05-24",
-    "score": 401,
-    "comments": 425,
-    "discussion_url": "https://news.ycombinator.com/item?id=48258684",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296045"
-  },
-  {
-    "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
-    "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-    "description": "Microsoft open-sources “the earliest DOS source code discovered to date”",
-    "date": "2026-05-24",
-    "score": 484,
-    "comments": 171,
-    "discussion_url": "https://news.ycombinator.com/item?id=48253386",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296124"
+    "fetched_at": "2026-05-25T19:34:52.934797"
   },
   {
     "title": "Migrating from Go to Rust",
     "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
     "description": "Migrating from Go to Rust",
     "date": "2026-05-24",
-    "score": 318,
-    "comments": 311,
+    "score": 418,
+    "comments": 409,
     "discussion_url": "https://news.ycombinator.com/item?id=48259808",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296021"
+    "fetched_at": "2026-05-25T19:34:52.934850"
   },
   {
-    "title": "Scammers are abusing an internal Microsoft account to send spam links",
-    "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-    "description": "Scammers are abusing an internal Microsoft account to send spam links",
-    "date": "2026-05-24",
-    "score": 291,
-    "comments": 169,
-    "discussion_url": "https://news.ycombinator.com/item?id=48253186",
+    "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+    "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+    "description": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+    "date": "2026-05-25",
+    "score": 211,
+    "comments": 52,
+    "discussion_url": "https://news.ycombinator.com/item?id=48266906",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296135"
+    "fetched_at": "2026-05-25T19:34:52.934785"
   },
   {
     "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
     "url": "https://audiomass.co/?multitrack=1",
     "description": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
     "date": "2026-05-24",
-    "score": 395,
-    "comments": 87,
+    "score": 479,
+    "comments": 106,
     "discussion_url": "https://news.ycombinator.com/item?id=48258015",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296065"
+    "fetched_at": "2026-05-25T19:34:52.934863"
   },
   {
     "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
     "url": "https://ohwr.org/projects/white-rabbit/",
     "description": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
     "date": "2026-05-23",
-    "score": 122,
-    "comments": 28,
+    "score": 169,
+    "comments": 38,
     "discussion_url": "https://news.ycombinator.com/item?id=48245916",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-25T12:12:08.296145"
+    "fetched_at": "2026-05-25T19:34:52.934886"
   }
 ]

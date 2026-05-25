@@ -4,8 +4,8 @@
     "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
     "author": "littlexsparkee",
     "date": "2026-05-24",
-    "score": 180,
-    "comments": 88,
+    "score": 221,
+    "comments": 109,
     "id": 48260117,
     "discussion_url": "https://news.ycombinator.com/item?id=48260117",
     "description": "A fundamental principle of aeronautical engineering has been overturned",
@@ -14,14 +14,14 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991845"
+    "fetched_at": "2026-05-25T19:34:45.892100"
   },
   {
     "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
     "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
     "author": "anujbans",
     "date": "2026-05-24",
-    "score": 143,
+    "score": 146,
     "comments": 32,
     "id": 48254020,
     "discussion_url": "https://news.ycombinator.com/item?id=48254020",
@@ -31,15 +31,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991914"
+    "fetched_at": "2026-05-25T19:34:45.892249"
+  },
+  {
+    "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+    "url": "https://phabricator.services.mozilla.com/D301917",
+    "author": "luu",
+    "date": "2026-05-22",
+    "score": 159,
+    "comments": 52,
+    "id": 48242546,
+    "discussion_url": "https://news.ycombinator.com/item?id=48242546",
+    "description": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-25T19:34:45.892092"
   },
   {
     "title": "Build Adafruit projects right from Firefox",
     "url": "https://www.firefox.com/en-US/landing/adafruit/",
     "author": "mch82",
     "date": "2026-05-22",
-    "score": 173,
-    "comments": 63,
+    "score": 178,
+    "comments": 72,
     "id": 48231547,
     "discussion_url": "https://news.ycombinator.com/item?id=48231547",
     "description": "Build Adafruit projects right from Firefox",
@@ -48,32 +65,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991873"
+    "fetched_at": "2026-05-25T19:34:45.892228"
   },
   {
-    "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
-    "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
-    "author": "Ember_Wipe",
+    "title": "Building Pi with Pi",
+    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+    "author": "mplanchard",
     "date": "2026-05-24",
-    "score": 157,
-    "comments": 110,
-    "id": 48260140,
-    "discussion_url": "https://news.ycombinator.com/item?id=48260140",
-    "description": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+    "score": 162,
+    "comments": 135,
+    "id": 48259192,
+    "discussion_url": "https://news.ycombinator.com/item?id=48259192",
+    "description": "Building Pi with Pi",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991934"
+    "fetched_at": "2026-05-25T19:34:45.892096"
+  },
+  {
+    "title": "California moves to exempt Linux from its age-verification law after backlash",
+    "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+    "author": "rbanffy",
+    "date": "2026-05-25",
+    "score": 141,
+    "comments": 61,
+    "id": 48269961,
+    "discussion_url": "https://news.ycombinator.com/item?id=48269961",
+    "description": "California moves to exempt Linux from its age-verification law after backlash",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-25T19:34:45.892023"
   },
   {
     "title": "Childhood Computing",
     "url": "https://susam.net/childhood-computing.html",
     "author": "blenderob",
     "date": "2026-05-24",
-    "score": 219,
-    "comments": 102,
+    "score": 236,
+    "comments": 116,
     "id": 48256597,
     "discussion_url": "https://news.ycombinator.com/item?id=48256597",
     "description": "Childhood Computing",
@@ -82,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991870"
+    "fetched_at": "2026-05-25T19:34:45.892166"
   },
   {
     "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
     "url": "https://arxiv.org/abs/2605.06445",
     "author": "wek",
     "date": "2026-05-24",
-    "score": 249,
-    "comments": 144,
+    "score": 275,
+    "comments": 176,
     "id": 48256912,
     "discussion_url": "https://news.ycombinator.com/item?id=48256912",
     "description": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
@@ -99,32 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991842"
-  },
-  {
-    "title": "DeepSeek makes the V4 Pro price discount permanent",
-    "url": "https://api-docs.deepseek.com/quick_start/pricing",
-    "author": "Tiberium",
-    "date": "2026-05-22",
-    "score": 589,
-    "comments": 525,
-    "id": 48237663,
-    "discussion_url": "https://news.ycombinator.com/item?id=48237663",
-    "description": "DeepSeek makes the V4 Pro price discount permanent",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991970"
+    "fetched_at": "2026-05-25T19:34:45.892191"
   },
   {
     "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "url": "https://esengine.github.io/DeepSeek-Reasonix/",
     "author": "Alifatisk",
     "date": "2026-05-24",
-    "score": 593,
-    "comments": 246,
+    "score": 667,
+    "comments": 267,
     "id": 48256953,
     "discussion_url": "https://news.ycombinator.com/item?id=48256953",
     "description": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
@@ -133,15 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991812"
+    "fetched_at": "2026-05-25T19:34:45.892161"
+  },
+  {
+    "title": "Defeating Git Rigour Fatigue with Jujutsu",
+    "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+    "author": "ikesau",
+    "date": "2026-05-24",
+    "score": 165,
+    "comments": 164,
+    "id": 48259861,
+    "discussion_url": "https://news.ycombinator.com/item?id=48259861",
+    "description": "Defeating Git Rigour Fatigue with Jujutsu",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-25T19:34:45.892123"
   },
   {
     "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
     "author": "kelseyfrog",
     "date": "2026-05-23",
-    "score": 168,
-    "comments": 67,
+    "score": 283,
+    "comments": 138,
     "id": 48243666,
     "discussion_url": "https://news.ycombinator.com/item?id=48243666",
     "description": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
@@ -150,15 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991774"
+    "fetched_at": "2026-05-25T19:34:45.892063"
+  },
+  {
+    "title": "Gnutella: A Protocol Outliving the World That Created It",
+    "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html",
+    "author": "rickcarlino",
+    "date": "2026-05-22",
+    "score": 141,
+    "comments": 51,
+    "id": 48231247,
+    "discussion_url": "https://news.ycombinator.com/item?id=48231247",
+    "description": "Gnutella: A Protocol Outliving the World That Created It",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-25T19:34:45.892055"
   },
   {
     "title": "Green card seekers must leave U.S. to apply, Trump administration says",
     "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
     "author": "tlhunter",
     "date": "2026-05-22",
-    "score": 1067,
-    "comments": 1887,
+    "score": 1089,
+    "comments": 1927,
     "id": 48241890,
     "discussion_url": "https://news.ycombinator.com/item?id=48241890",
     "description": "Green card seekers must leave U.S. to apply, Trump administration says",
@@ -167,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991977"
+    "fetched_at": "2026-05-25T19:34:45.892246"
   },
   {
     "title": "Greg Brockman interview [video]",
     "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
     "author": "prakashqwerty",
     "date": "2026-05-24",
-    "score": 203,
-    "comments": 220,
+    "score": 205,
+    "comments": 236,
     "id": 48255593,
     "discussion_url": "https://news.ycombinator.com/item?id=48255593",
     "description": "Greg Brockman interview [video]",
@@ -184,49 +235,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991883"
+    "fetched_at": "2026-05-25T19:34:45.892183"
   },
   {
-    "title": "Hengefinder: Finding when the sun aligns with your street",
-    "url": "https://victoriaritvo.com/blog/hengefinder/",
+    "title": "I love my Bluetooth keyboard",
+    "url": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
     "author": "evakhoury",
     "date": "2026-05-22",
-    "score": 186,
-    "comments": 39,
-    "id": 48241335,
-    "discussion_url": "https://news.ycombinator.com/item?id=48241335",
-    "description": "Hengefinder: Finding when the sun aligns with your street",
+    "score": 140,
+    "comments": 140,
+    "id": 48240025,
+    "discussion_url": "https://news.ycombinator.com/item?id=48240025",
+    "description": "I love my Bluetooth keyboard",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991957"
-  },
-  {
-    "title": "I keep bouncing off the Scheme language",
-    "url": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
-    "author": "ingve",
-    "date": "2026-05-22",
-    "score": 149,
-    "comments": 76,
-    "id": 48233398,
-    "discussion_url": "https://news.ycombinator.com/item?id=48233398",
-    "description": "I keep bouncing off the Scheme language",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991917"
+    "fetched_at": "2026-05-25T19:34:45.892111"
   },
   {
     "title": "I spent 50 hours drawing a line graph",
     "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
     "author": "dougdude3339",
     "date": "2026-05-21",
-    "score": 568,
-    "comments": 95,
+    "score": 637,
+    "comments": 98,
     "id": 48223997,
     "discussion_url": "https://news.ycombinator.com/item?id=48223997",
     "description": "I spent 50 hours drawing a line graph",
@@ -235,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991800"
+    "fetched_at": "2026-05-25T19:34:45.892088"
   },
   {
     "title": "Jira Is Turing-Complete",
     "url": "https://seriot.ch/computation/jira.html",
     "author": "vinhnx",
     "date": "2026-05-25",
-    "score": 202,
-    "comments": 86,
+    "score": 284,
+    "comments": 133,
     "id": 48263253,
     "discussion_url": "https://news.ycombinator.com/item?id=48263253",
     "description": "Jira Is Turing-Complete",
@@ -252,31 +286,48 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991824"
+    "fetched_at": "2026-05-25T19:34:45.892194"
   },
   {
-    "title": "Magnifica Humanitas (Encyclical Letter)",
-    "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-    "author": "theletterf",
+    "title": "Leave Me Behind",
+    "url": "http://androidessence.com/leave-me-behind/",
+    "author": "mooreds",
     "date": "2026-05-25",
-    "score": 162,
-    "comments": 38,
-    "id": 48265206,
-    "discussion_url": "https://news.ycombinator.com/item?id=48265206",
-    "description": "Magnifica Humanitas (Encyclical Letter)",
+    "score": 312,
+    "comments": 253,
+    "id": 48265876,
+    "discussion_url": "https://news.ycombinator.com/item?id=48265876",
+    "description": "Leave Me Behind",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991760"
+    "fetched_at": "2026-05-25T19:34:45.892254"
+  },
+  {
+    "title": "Magnifica Humanitas",
+    "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+    "author": "theletterf",
+    "date": "2026-05-25",
+    "score": 1016,
+    "comments": 444,
+    "id": 48265206,
+    "discussion_url": "https://news.ycombinator.com/item?id=48265206",
+    "description": "Magnifica Humanitas",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-25T19:34:45.891995"
   },
   {
     "title": "Mastering Dyalog APL",
     "url": "https://mastering.dyalog.com/README.html",
     "author": "tosh",
     "date": "2026-05-24",
-    "score": 146,
+    "score": 153,
     "comments": 37,
     "id": 48256475,
     "discussion_url": "https://news.ycombinator.com/item?id=48256475",
@@ -286,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991879"
+    "fetched_at": "2026-05-25T19:34:45.892171"
   },
   {
     "title": "Memory has grown to nearly two-thirds of AI chip component costs",
     "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
     "author": "intelkishan",
     "date": "2026-05-24",
-    "score": 401,
-    "comments": 425,
+    "score": 422,
+    "comments": 465,
     "id": 48258684,
     "discussion_url": "https://news.ycombinator.com/item?id=48258684",
     "description": "Memory has grown to nearly two-thirds of AI chip component costs",
@@ -303,32 +354,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991859"
+    "fetched_at": "2026-05-25T19:34:45.892175"
   },
   {
-    "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
-    "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-    "author": "DamnInteresting",
-    "date": "2026-05-24",
-    "score": 484,
-    "comments": 171,
-    "id": 48253386,
-    "discussion_url": "https://news.ycombinator.com/item?id=48253386",
-    "description": "Microsoft open-sources “the earliest DOS source code discovered to date”",
+    "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
+    "url": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
+    "author": "cdrnsf",
+    "date": "2026-05-25",
+    "score": 139,
+    "comments": 110,
+    "id": 48266422,
+    "discussion_url": "https://news.ycombinator.com/item?id=48266422",
+    "description": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991849"
+    "fetched_at": "2026-05-25T19:34:45.892067"
   },
   {
     "title": "Migrating from Go to Rust",
     "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
     "author": "jabits",
     "date": "2026-05-24",
-    "score": 318,
-    "comments": 311,
+    "score": 418,
+    "comments": 409,
     "id": 48259808,
     "discussion_url": "https://news.ycombinator.com/item?id=48259808",
     "description": "Migrating from Go to Rust",
@@ -337,66 +388,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991816"
+    "fetched_at": "2026-05-25T19:34:45.892119"
   },
   {
-    "title": "Ruby for Good",
-    "url": "https://ti.to/codeforgood/rubyforgood",
-    "author": "mooreds",
-    "date": "2026-05-24",
-    "score": 137,
-    "comments": 54,
-    "id": 48258254,
-    "discussion_url": "https://news.ycombinator.com/item?id=48258254",
-    "description": "Ruby for Good",
+    "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+    "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+    "author": "jruohonen",
+    "date": "2026-05-25",
+    "score": 211,
+    "comments": 52,
+    "id": 48266906,
+    "discussion_url": "https://news.ycombinator.com/item?id=48266906",
+    "description": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991944"
+    "fetched_at": "2026-05-25T19:34:45.891999"
   },
   {
-    "title": "Sales and Dungeons: Thermal printer TTRPG utility",
-    "url": "https://sales-and-dungeons.app/",
-    "author": "hyperific",
-    "date": "2026-05-22",
-    "score": 137,
-    "comments": 40,
-    "id": 48232721,
-    "discussion_url": "https://news.ycombinator.com/item?id=48232721",
-    "description": "Sales and Dungeons: Thermal printer TTRPG utility",
+    "title": "Search engines alternatives now that Google isn't Google anymore",
+    "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+    "author": "elorant",
+    "date": "2026-05-25",
+    "score": 499,
+    "comments": 463,
+    "id": 48266051,
+    "discussion_url": "https://news.ycombinator.com/item?id=48266051",
+    "description": "Search engines alternatives now that Google isn't Google anymore",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991954"
-  },
-  {
-    "title": "Scammers are abusing an internal Microsoft account to send spam links",
-    "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-    "author": "spike021",
-    "date": "2026-05-24",
-    "score": 291,
-    "comments": 169,
-    "id": 48253186,
-    "discussion_url": "https://news.ycombinator.com/item?id=48253186",
-    "description": "Scammers are abusing an internal Microsoft account to send spam links",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991866"
+    "fetched_at": "2026-05-25T19:34:45.892127"
   },
   {
     "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
     "url": "https://audiomass.co/?multitrack=1",
     "author": "pantelisk",
     "date": "2026-05-24",
-    "score": 395,
-    "comments": 87,
+    "score": 479,
+    "comments": 106,
     "id": 48258015,
     "discussion_url": "https://news.ycombinator.com/item?id=48258015",
     "description": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
@@ -405,32 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991786"
-  },
-  {
-    "title": "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
-    "url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
-    "author": "gslin",
-    "date": "2026-05-23",
-    "score": 208,
-    "comments": 118,
-    "id": 48245362,
-    "discussion_url": "https://news.ycombinator.com/item?id=48245362",
-    "description": "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991937"
+    "fetched_at": "2026-05-25T19:34:45.892029"
   },
   {
     "title": "The C64 Dead Test Font",
     "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
     "author": "masswerk",
     "date": "2026-05-24",
-    "score": 139,
-    "comments": 26,
+    "score": 145,
+    "comments": 29,
     "id": 48254236,
     "discussion_url": "https://news.ycombinator.com/item?id=48254236",
     "description": "The C64 Dead Test Font",
@@ -439,66 +456,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991911"
+    "fetched_at": "2026-05-25T19:34:45.892258"
   },
   {
-    "title": "The Eternal Sloptember",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-    "author": "razin",
+    "title": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
+    "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+    "author": "_____k",
     "date": "2026-05-25",
-    "score": 362,
-    "comments": 300,
-    "id": 48263238,
-    "discussion_url": "https://news.ycombinator.com/item?id=48263238",
-    "description": "The Eternal Sloptember",
+    "score": 158,
+    "comments": 210,
+    "id": 48268871,
+    "discussion_url": "https://news.ycombinator.com/item?id=48268871",
+    "description": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991890"
+    "fetched_at": "2026-05-25T19:34:45.892115"
   },
   {
-    "title": "Time to talk about my writerdeck",
-    "url": "https://veronicaexplains.net/my-first-writerdeck/",
-    "author": "hggh",
+    "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+    "url": "https://ohwr.org/projects/white-rabbit/",
+    "author": "michaelsbradley",
     "date": "2026-05-23",
-    "score": 484,
-    "comments": 288,
-    "id": 48250144,
-    "discussion_url": "https://news.ycombinator.com/item?id=48250144",
-    "description": "Time to talk about my writerdeck",
+    "score": 169,
+    "comments": 38,
+    "id": 48245916,
+    "discussion_url": "https://news.ycombinator.com/item?id=48245916",
+    "description": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991904"
-  },
-  {
-    "title": "Usborne 1980s Computer Books",
-    "url": "https://usborne.com/us/books/computer-and-coding-books",
-    "author": "ngram",
-    "date": "2026-05-24",
-    "score": 177,
-    "comments": 57,
-    "id": 48258194,
-    "discussion_url": "https://news.ycombinator.com/item?id=48258194",
-    "description": "Usborne 1980s Computer Books",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991960"
+    "fetched_at": "2026-05-25T19:34:45.892084"
   },
   {
     "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
     "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
     "author": "zdw",
     "date": "2026-05-24",
-    "score": 334,
-    "comments": 205,
+    "score": 343,
+    "comments": 207,
     "id": 48254309,
     "discussion_url": "https://news.ycombinator.com/item?id=48254309",
     "description": "Why is Vivado 2026.1 dropping Linux support for free tier?",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-25T12:11:57.991886"
+    "fetched_at": "2026-05-25T19:34:45.892179"
   }
 ]
