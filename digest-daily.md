@@ -1,81 +1,57 @@
 ---
-date: '2026-05-27'
+date: '2026-05-28'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-27T20:01:25.037254'
+generated_at: '2026-05-28T06:06:02.112374'
 ---
 
-## Executive Summary  
-- Developers are grappling with the hidden costs of LLM usage, as new guides detail token accounting, billing formulas, and practical debugging tips.  
-- Anthropic is preparing its high‑security “Mythos 1” model for broader release, while AI‑driven tools are reshaping both software‑security (post‑quantum crypto race) and design workflows.  
-- A growing labor clash at the Wikimedia Foundation highlights the tension between big‑tech profit motives and community‑driven platforms that fuel AI training data.  
-- The 2026 World Cup is taking shape with 39 national teams basing in U.S. cities and a 26‑player U.S. roster announced, underscoring the tournament’s logistical scale.  
-- Dropbox announced a leadership transition as CEO Drew Houston steps down, positioning AI‑enhanced product “Dash” as a growth engine amid flat revenue.
-
----
-
-## AI and Machine Learning  
-
-### An LLM API call, in 4 GIFs – DEV Community [devto]  
-A concise Node.js example shows how to structure requests, interpret `stop_reason`, track token usage, and calculate costs, warning that output tokens dominate pricing and that ignoring token limits can cause silent failures.
-
-### A few interesting modern pixel fonts – Unsung [hnrss]  
-The piece surveys new vector “pixel” fonts—Analog Mono, Coral Pixels, Two Slice, and Geist Pixel—highlighting how they fix legacy baseline and scaling issues while delivering functional typographic metrics.
-
-### The Real Cost of Owning a Home — Eric Turner [hnrss]  
-Turner breaks down mortgage fees, ongoing taxes, insurance, and a detailed maintenance ledger, showing that hidden expenses (e.g., roof replacement, utility rate spikes) can push true housing costs far beyond the headline mortgage payment.
-
-### A list of where all the World Cup teams will be based – NPR [newsfeed]  
-FIFA confirmed training‑site locations for 39 of the 48 qualified nations, spreading them across more than 20 U.S. cities; the list illustrates the massive logistical footprint of the 2026 tournament.
-
-### The U.S. reveals its World Cup roster – NPR [newsfeed]  
-A 26‑player squad was announced, mixing veterans like Christian Pulisic with 13 newcomers; notable inclusions (Alejandro Zendejas) and snubs (Tanner Tessmann) signal a blend of experience and fresh talent for the home tournament.
-
-### AI is not the future of software development, but the last dying gasp of the past – TLDR [tldr]  
-The author argues that AI‑generated code embodies a “task‑creation” mindset that manufactures problems for profit, eroding the traditional developer‑centric value model and signaling the end of the old tech ecosystem.
-
-### Anthropic prepares Mythos 1 for Claude Code and Security – TLDR [tldr]  
-Anthropic is previewing “claude‑mythos‑1‑preview” for integration with Claude Code and Claude Security, adding a vulnerability‑tracking dashboard and hinting at broader Mythos model availability once safeguards mature.
+## Executive Summary
+- AI tooling is maturing rapidly: Anthropic unveiled 28 new security‑compliance integrations for Claude, while Anthropic’s Claude Code framework shows how to turn LLMs into autonomous, self‑verifying coding agents.  
+- The economic and political fallout of generative AI is surfacing, from a MIT Technology Review rebuttal of AI‑job panic to a high‑profile New York congressional race where OpenAI‑backed ads unintentionally boosted a regulator‑friendly candidate.  
+- Hardware costs are climbing amid “RAMageddon,” with Valve hiking Steam Deck prices by up to $300 and other gaming devices seeing similar spikes.  
+- Major corporate moves signal confidence in AI: Cognition raised a $1 billion round at a $25 billion valuation, and PostHog announced an opt‑out program to train its own models on customer data.  
+- Geopolitical and security concerns remain acute, highlighted by GCHQ’s estimate of 500 k Russian military deaths, Canada’s shift to Swedish early‑warning aircraft, and ongoing scrutiny of private‑equity ownership of essential services.
 
 ---
 
-## Cybersecurity and Privacy  
+## AI and Machine Learning
 
-### AI is speeding up the quantum threat to crypto, security experts warn – TLDR [tldr]  
-Experts warn that AI‑accelerated quantum research could soon break current encryption, prompting a shift toward continuous, AI‑assisted post‑quantum upgrades across major blockchain ecosystems.
-
----
-
-## Software Engineering and Dev Tools  
-
-### Top 7 Featured DEV Posts of the Week – DEV Community [devto]  
-A roundup of community‑voted posts covers a home‑network debugger (Peekyport), the inner workings of `npm run dev`, a minimalist Go container builder, AI’s impact on junior hiring, a catalog of AI‑agent failure modes, a Turtle‑Gemma demo, and a career‑focused accessibility piece.
-
-### **Big Tech’s Anti‑Labor Playbook Has Come for Wikipedia** – Medium (trending) [hackernews_api]  
-Wikimedia fired its lead developer and dissolved the union‑aligned Community Tech team, sparking a solidarity petition and threat of an editorial strike; the move follows a pattern of top‑down governance despite the foundation’s $296 M cash reserve and profitable AI‑related revenue.
-
-### DynIP — Dynamic DNS for homelabs and infrastructure – Hacker News [hackernews_api]  
-DynIP offers sub‑minute DNS updates, a free tier, built‑in DNSSEC, and extensive device‑specific configuration snippets, targeting developers who need rapid, programmable DNS for home‑lab and edge deployments.
-
-### A cautious voice on the closure of China’s journal ranking list – newsfeed [newsfeed]  
-The Chinese Academy of Sciences discontinued its journal ranking, aiming to curb metric‑driven evaluation, but the article warns the lack of a robust replacement could leave scholars without clear quality signals.
-
-### A global brand but local cars is Audi's future, says CEO – Ars Technica [newsfeed]  
-Audi CEO Gernot Döllner outlines a “local‑first” strategy: the U.S.–centric Q9 will debut domestically before global rollout, while China‑specific models (e.g., AUDI E7X) will be built on separate supply‑chains.
-
-### Teenage patients ‘ignored’ before fatal NHS trust failures – newsfeed [newsfeed]  
-An investigation into Tees, Esk and Wear Valleys NHS Trust reveals a pattern of ignored warnings, excessive restraint, and systemic safety failures that led to multiple teenage suicides, prompting a public inquiry and fines.
-
-### AI UX Design: Strategic Blueprint for the AI‑Augmented Designer – TLDR [tldr]  
-The guide proposes an “AI Sandwich” workflow where designers set intent, let generative tools explore options, and then validate outcomes, emphasizing prompt engineering, curation, and strategic storytelling as core 2026 designer skills.
+- **Beyond the Prompt: Claude Code** [Arpan Patel, Hacker News] – Introduces Claude Code, a programmable LLM agent with memory, custom commands, and parallel sessions, emphasizing self‑verification and a “Explore → Plan → Code” workflow that can double output quality.  
+- **Mini Micro** [hnrss] – No substantive excerpt provided; additional text is needed for a proper summary.  
+- **SimCity 3000 runs in native 4K** [hnrss] – Details a step‑by‑step patching process (GOG executable, D3D9 wrapper, memory tweaks, updater disable) that restores widescreen, smooth scrolling, and full soundtrack on modern Windows 10 systems.  
+- **Valve raises Steam Deck prices by more than $200** [The Verge] – Prices for the 512 GB OLED model jump from $549 to $789 and the 1 TB model from $649 to $949, blamed on rising memory/storage costs and global logistics, while refurbished units are also offered.  
+- **A reality check on the AI jobs hysteria** [MIT Technology Review] – Argues that AI has not yet displaced white‑collar workers; unemployment is lower in AI‑exposed occupations, and current data suggest only modest productivity gains.  
+- **AI tried to bury this politician — now people have actually heard of him** [The Verge] – OpenAI‑backed super PAC ads against NY Assemblyman Alex Bores backfire, raising his name recognition and sparking a “Streisand effect” that amplifies debate over AI regulation.  
+- **Reddit – Please wait for verification** [Reddit] – No article text supplied; cannot summarize.  
+- **Anthropic adds 28 security and compliance integrations for Claude** [Help Net Security] – Announces a suite of new connectors (e.g., Cloudflare, Okta, Palo Alto) that feed Claude Enterprise usage data into existing DLP, SIEM, and identity‑management dashboards via the Claude Compliance API.
 
 ---
 
-## Startups and Business  
+## Cybersecurity and Privacy
 
-### **Dropbox CEO Drew Houston to step down after 19 years at cloud pioneer** – Hacker News (trending) [hackernews_api]  
-Houston will move to executive chairman while product chief Ashraf Alkarmi becomes co‑CEO (later sole CEO); the transition comes as Dropbox leans on its new AI “Dash” feature to revive growth amid flat revenue and intense cloud‑storage competition.
+- **Almost 500,000 Russian soldiers killed since start of Ukraine war** [newsfeed] – GCHQ reports roughly half‑a‑million Russian fatalities based on open‑source verification, while warning of continued Russian cyber‑espionage targeting UK infrastructure and urging rapid adoption of passkeys and supply‑chain hardening.
 
 ---
 
-## Notable Mentions  
-- Apple Intelligence image models to boast “major” visual upgrades in iOS 27: report – 9to5Mac (TLDR)
+## Software Engineering and Dev Tools
+
+- **How I Bypassed Adobe and Microsoft to Build a Git‑Tracked Book Production Pipeline** [Hacker News] – Describes a workflow that replaces Word → InDesign → Calibre → Kindle Create with a single source DOCX/ODT, open‑source EPUB linting (Standard Ebooks), and version‑controlled XHTML output, eliminating platform lock‑in and manual re‑exports.  
+- **How Private Equity Bought America’s Essential Services** [Hacker News] – Explores the consequences of PE‑driven consolidation in fire‑truck manufacturing (REV Group), ambulances, waste and water services, highlighting cost inflation, long backlogs, and antitrust scrutiny.  
+- **Training our own AI models** [PostHog, hnrss] – Announces an opt‑out program to train internal models on anonymized customer data (session replay, synthetic testing, behavior prediction), with default opt‑in for US cloud users and opt‑out for EU and restricted contracts, aiming to enhance product features without selling data.
+
+---
+
+## Startups and Business
+
+- **AI coding startup Cognition raises $1 B at $25 B pre‑money valuation** [TechCrunch] – Secures a billion‑dollar round led by Lux Capital, valuing the firm at $25 B; its autonomous AI engineer “Devin” serves enterprise clients like Mercedes‑Benz and NASA, with a $492 M annualized revenue run‑rate.  
+- **American Airlines picks SpaceX's Starlink for in‑flight Wi‑Fi** [tldr] – Will equip 500+ narrow‑body Airbus jets with Starlink connectivity starting next year, joining United and Southwest, while Delta opts for Amazon Leo; the move reflects airlines’ push for higher‑speed, revenue‑generating onboard internet.
+
+---
+
+## World News and Geopolitics
+
+- **Canada to order military plane fleet from Sweden in shift from US suppliers** [The Guardian] – Chooses Saab’s GlobalEye early‑warning aircraft over the delayed Boeing E‑7, aiming to diversify defence procurement, bolster Arctic surveillance, and deepen Nordic NATO ties; six aircraft are planned with local R&D investment.
+
+---
+
+## Notable Mentions
+- Anthropic to introduce AI Fluency scorecard in Claude [tldr]
