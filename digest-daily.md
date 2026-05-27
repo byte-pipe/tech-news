@@ -1,91 +1,81 @@
 ---
-date: '2026-05-25'
+date: '2026-05-27'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-25T23:41:03.032065'
+generated_at: '2026-05-27T13:41:32.631145'
 ---
 
 ## Executive Summary
-- AI hardware spending is accelerating, with high‑bandwidth memory accounting for 63 % of AI chip budgets and projected to hit $32 bn in 2025.  
-- The community remains divided on AI agents in software development, citing “constraint decay” in LLM‑generated code and cautioning against premature adoption.  
-- New developer‑focused tools are emerging: Google’s Gemma 4 model, the “Finish‑Up‑A‑Thon” GitHub challenge, and Firefox’s Web‑Serial integration for Adafruit hardware.  
-- Migration debates are heating up, highlighted by a trending guide comparing Go and Rust and a surge of interest in Rust‑centric performance.  
-- Space science made headlines as NASA’s Psyche probe captured high‑resolution images of Mars during its flyby en route to a distant asteroid.  
+- Developers are grappling with the hidden costs of LLM usage, learning to monitor token usage, stop‑reasons, and pricing to avoid surprise bills.  
+- AI’s strategic role is being questioned: critics argue it fuels manufactured problems rather than solving real user needs, while Anthropic pushes its Mythos security models toward broader release.  
+- Security researchers warn that AI‑accelerated quantum computing could jeopardize current cryptography, prompting a race to adopt post‑quantum safeguards.  
+- The tech labor landscape is heating up, highlighted by Wikipedia’s anti‑union shake‑up and Dropbox’s leadership transition amid AI‑focused product pushes.  
+- On the world stage, the 2026 World Cup is shaping up with dozens of U.S. base‑camp sites and a 26‑player U.S. roster, while designers and automakers alike adapt to AI‑augmented workflows and region‑specific product strategies.
 
----  
+---
 
-# AI and Machine Learning  
+## AI and Machine Learning
 
-### Should you use Gemma 4 for your Development? – DEV Community [devto]  
-A hands‑on review evaluates Google’s Gemma 4 model across setup, benchmark tests, and prototype building, noting its strict behavior and occasional looping issues.  
+### An LLM API call, in 4 GIFs – DEV Community [devto]  
+A concise Node.js example shows how to make a stateless LLM request, interpret `stop_reason`, track token usage, and calculate costs, warning that output tokens dominate the bill.
 
-### Stop‑Slop skill file for removing AI tells – GitHub [github]  
-Hardik Pandya releases an open‑source “skill” that strips common AI‑generated phrasing, offering customizable rule sets to make prose sound more human.  
+### A few interesting modern pixel fonts – Unsung [hnrss]  
+The piece surveys new vector‑based “pixel” fonts that fix legacy baseline and scaling issues, highlighting Geist Pixel as a production‑ready system font.
 
-### Taste‑Skill front‑end framework – GitHub [github]  
-Leonxlnx introduces a CLI‑driven framework for AI agents that bundles layout, typography, and image‑generation skills, simplifying the creation of polished AI‑generated content.  
+### The Real Cost of Owning a Home — Eric Turner [hnrss]  
+Turner breaks down mortgage fees, ongoing taxes, insurance, and a detailed maintenance ledger, illustrating how utility price spikes and hidden repair costs can erode home‑ownership affordability.
 
-### **AI Chip Component Costs: Memory at 63 % – Epoch AI – Hacker News (trending)**  
-High‑bandwidth memory now dominates AI chip spend (63 % of total), with projected growth from $12 bn to $32 bn in 2025, outpacing all other component categories.  
+### A list of where all the World Cup teams will be based – NPR [newsfeed]  
+FIFA has assigned 39 of the 48 qualified nations to more than 20 U.S. cities, detailing each state’s training venue and underscoring the logistical scale of the 2026 tournament.
 
-### The Eternal Sloptember – Hacker News  
-An opinion piece warns that the rapid adoption of AI agents in software development may introduce hidden risks, emphasizing the need for careful evaluation.  
+### The U.S. reveals its World Cup roster – NPR [newsfeed]  
+The 26‑player squad blends veterans like Pulisic and McKennie with 13 newcomers; notable inclusions (Zendejas) and snubs (Tessmann, Luna) spark debate ahead of the home‑soil tournament.
 
-### The Adoption of AI Agents into Software Development: A Cautionary Approach – (source unspecified)  
-The author argues that current AI agents lack the nuanced understanding required for high‑quality code and could cause unintended harm if deployed uncritically.  
+### AI is not the future of software development, but the last dying gasp of the past – TLDR [tldr]  
+The author argues that AI‑generated code embodies a “task‑creation” mindset that invents problems for profit, signaling the collapse of the decades‑old developer‑centric product model.
 
-### Constraint Decay: The Fragility of LLM Agents in Backend Code Generation – HN RSS [hnrss]  
-A research paper documents “constraint decay,” where LLM agents’ performance drops sharply as structural requirements accumulate, especially in convention‑heavy frameworks like FastAPI.  
+### Anthropic prepares Mythos 1 for Claude Code and Security – TLDR [tldr]  
+Anthropic readies a preview of its high‑severity‑vulnerability‑focused Mythos model for integration with Claude Code and Claude Security, hinting at broader future releases once safeguards mature.
 
-### Childhood Computing – Susam Pal – HN RSS [hnrss]  
-A nostalgic reflection on early 1990s school computer labs, highlighting limited access, monochrome monitors, and the formative impact of Logo programming.  
+---
 
-### Abandoned Flotilla Boat Washes Ashore in Egypt with Gaza Aid – Al Jazeera [newsfeed]  
-A humanitarian vessel carrying Gaza aid was intercepted by Israeli forces and later drifted to Egypt, underscoring the geopolitical complexities of aid delivery.  
+## Cybersecurity and Privacy
 
----  
+### AI is speeding up the quantum threat to crypto, security experts warn – TLDR [tldr]  
+AI is hastening quantum‑computing advances that could break current encryption, prompting an arms race where both attackers and defenders use AI for vulnerability discovery and post‑quantum migration.
 
-# Software Engineering and Dev Tools  
+---
 
-### Join the GitHub Finish‑Up‑A‑Thon Challenge – DEV Community [devto]  
-GitHub launches a $3,000 prize competition encouraging developers to revive abandoned projects using Copilot, with judging criteria covering tech, UX, originality, and transformation narrative.  
+## Software Engineering and Dev Tools
 
-### ECC: Agent Harness Performance Optimization System – GitHub [github]  
-Anthropic’s open‑source ECC framework provides skills‑based, instinct‑driven architecture for AI agents, promising faster learning, built‑in security scanning, and a unified dashboard.  
+### Top 7 Featured DEV Posts of the Week – DEV Community [devto]  
+A roundup of community‑voted posts covering a home‑network debugger (Peekyport), the inner workings of `npm run dev`, building a minimalist container in Go, AI’s impact on junior‑dev hiring, AI‑agent failure taxonomy, Turtle‑Gemma visual demos, and a career shift toward accessibility advocacy.
 
-### Awesome Free Apps – GitHub [github]  
-Axorax curates a categorized list of free cross‑platform applications, spanning audio, browsers, communication, development, design, and system utilities.  
+### **Big Tech’s Anti‑Labor Playbook Has Come for Wikipedia** – Medium (trending) [hackernews_api]  
+Wikimedia dismissed its Community Tech team and CTO, sparking a solidarity petition and potential editorial strike; the move follows a pattern of top‑down decisions despite the foundation’s $296 M reserves and profitable AI‑related revenue.
 
-### WeChat‑Article Exporter – GitHub [github]  
-A web‑based tool for bulk downloading WeChat public‑account articles (HTML, JSON, Excel, etc.) with Docker and Cloudflare deployment options; currently undergoing maintenance.  
+### DynIP — Dynamic DNS for homelabs and infrastructure – Hacker News [hackernews_api]  
+DynIP offers sub‑minute DNS updates, a free tier, TSIG‑based RFC 2136 support, and built‑in DNSSEC, targeting DIY networking and MSP automation with easy‑to‑use snippets for dozens of devices.
 
-### **AudioMass – Audio Editor – Hacker News (trending)**  
-AudioMass, part of Adobe Creative Cloud, offers AI‑driven noise reduction, sound‑matching, and batch export, targeting teams handling large‑scale audio projects.  
+### A cautious voice on the closure of China’s journal ranking list – Newsfeed [newsfeed]  
+China’s Academy of Sciences discontinued its journal ranking, aiming to curb metric‑driven evaluation, but the article warns the lack of a replacement framework could leave scholars without clear quality signals.
 
-### **Migrating from Go to Rust – Hacker News (trending)**  
-Matthias Endler’s guide compares Go and Rust, highlighting Rust’s safety guarantees and offering step‑by‑step migration tactics for backend services while noting where Go remains preferable.  
+### A global brand but local cars is Audi's future, says CEO – Ars Technica [newsfeed]  
+Audi pivots to region‑first vehicle development: the U.S.–focused Q9 will launch domestically before global rollout, while China‑specific models like the E7X are built on separate supply‑chains; the CEO also teases possible V8‑powered SUVs.
 
-### Jira IS Turing‑Complete – HN RSS [hnrss]  
-A technical proof maps a Minsky register machine onto Jira’s automation language, demonstrating that Jira workflows can simulate any Turing‑complete computation.  
+### Teenage patients ‘ignored’ before fatal NHS trust failures – Newsfeed [newsfeed]  
+An investigation into TEWV reveals multiple teen suicides linked to neglect, excessive restraint, and systemic safety failures; a public inquiry is underway amid ongoing family frustration.
 
----  
+### AI UX Design: Strategic Blueprint for the AI‑Augmented Designer – TLDR [tldr]  
+The guide outlines a three‑pillar workflow (research, ideation, storytelling) and the “AI Sandwich” framework, urging designers to become strategic directors while AI handles execution, and stresses prompt‑engineering and curation skills for the next decade.
 
-# Open Source  
+---
 
-### Build Adafruit Projects Right from Firefox – Firefox.com [hnrss]  
-Mozilla adds Web‑Serial support to Firefox, enabling direct coding and control of Adafruit‑compatible boards from the browser without extra desktop tools.  
+## Startups and Business
 
----  
+### **Dropbox CEO Drew Houston to step down after 19 years** – Hacker News (trending) [hackernews_api]  
+Houston will move to executive chairman as co‑CEO Ashraf Alkarmi assumes the CEO role; the transition comes as Dropbox leans on its AI‑powered “Dash” feature to revive growth after flat revenue and a market cap around $6 B.
 
-# Science and Research  
+---
 
-### Psyche Probe Captures Stunning Mars Images – WIRED [newsfeed]  
-During its gravity‑assist flyby, NASA’s Psyche spacecraft photographed Mars in unprecedented detail, revealing solar‑wind traces and polar ice, before heading to its target asteroid for a 2029 arrival.  
-
----  
-
-# Notable Mentions  
-- AI with Model‑Based Design: Virtual Sensor Modeling – Wiley Science and Engineering Content Hub  
-- Trauma survivor Elizabeth Smart finds strength in bodybuilding – NPR  
-- Anthropic’s New Consulting Venture Makes Its First Acquisition – tldr  
-- Gen Z is not booing AI. It is booing its own job market – tldr  
-- Tenorshare AI Diagrimo – Free AI Diagram Generator Online – tldr
+## Notable Mentions
+- Apple Intelligence image models to boast ‘major’ visual upgrades in iOS 27: report – 9to5Mac [tldr]
