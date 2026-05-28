@@ -1,57 +1,84 @@
 ---
-date: '2026-05-28'
+date: '2026-05-29'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-28T06:06:02.112374'
+generated_at: '2026-05-29T04:40:04.679685'
 ---
 
 ## Executive Summary
-- AI tooling is maturing rapidly: Anthropic unveiled 28 new security‑compliance integrations for Claude, while Anthropic’s Claude Code framework shows how to turn LLMs into autonomous, self‑verifying coding agents.  
-- The economic and political fallout of generative AI is surfacing, from a MIT Technology Review rebuttal of AI‑job panic to a high‑profile New York congressional race where OpenAI‑backed ads unintentionally boosted a regulator‑friendly candidate.  
-- Hardware costs are climbing amid “RAMageddon,” with Valve hiking Steam Deck prices by up to $300 and other gaming devices seeing similar spikes.  
-- Major corporate moves signal confidence in AI: Cognition raised a $1 billion round at a $25 billion valuation, and PostHog announced an opt‑out program to train its own models on customer data.  
-- Geopolitical and security concerns remain acute, highlighted by GCHQ’s estimate of 500 k Russian military deaths, Canada’s shift to Swedish early‑warning aircraft, and ongoing scrutiny of private‑equity ownership of essential services.
+- A wave of new research highlights the growing pains of long‑running AI agents, from “one‑shotting” and “amnesia” failures to architectural risk‑management frameworks that stress system design over model tweaks.  
+- Frontier LLM evaluations reveal that two‑thirds of fact‑check claims generate disagreement among leading models, underscoring the limits of current benchmark‑driven confidence.  
+- Anthropic’s Claude Opus 4.8 and a $2,000 AI‑generated live‑action film debut at Tribeca illustrate rapid commercialisation of generative AI, while a high‑profile data breach at Pay Tel reminds enterprises that security lags behind adoption.  
+- In software engineering, AI coding assistants now handle roughly 80 % of routine code but still require senior oversight for edge‑case safety, and developers are experimenting with novel hardware targets such as a jail‑broken Kindle.  
+- Amazon’s rollout of quasi‑random “RNG” data‑center networks promises major energy and cost savings, positioning networking architecture as a new frontier for AI‑heavy workloads.  
 
 ---
 
 ## AI and Machine Learning
 
-- **Beyond the Prompt: Claude Code** [Arpan Patel, Hacker News] – Introduces Claude Code, a programmable LLM agent with memory, custom commands, and parallel sessions, emphasizing self‑verification and a “Explore → Plan → Code” workflow that can double output quality.  
-- **Mini Micro** [hnrss] – No substantive excerpt provided; additional text is needed for a proper summary.  
-- **SimCity 3000 runs in native 4K** [hnrss] – Details a step‑by‑step patching process (GOG executable, D3D9 wrapper, memory tweaks, updater disable) that restores widescreen, smooth scrolling, and full soundtrack on modern Windows 10 systems.  
-- **Valve raises Steam Deck prices by more than $200** [The Verge] – Prices for the 512 GB OLED model jump from $549 to $789 and the 1 TB model from $649 to $949, blamed on rising memory/storage costs and global logistics, while refurbished units are also offered.  
-- **A reality check on the AI jobs hysteria** [MIT Technology Review] – Argues that AI has not yet displaced white‑collar workers; unemployment is lower in AI‑exposed occupations, and current data suggest only modest productivity gains.  
-- **AI tried to bury this politician — now people have actually heard of him** [The Verge] – OpenAI‑backed super PAC ads against NY Assemblyman Alex Bores backfire, raising his name recognition and sparking a “Streisand effect” that amplifies debate over AI regulation.  
-- **Reddit – Please wait for verification** [Reddit] – No article text supplied; cannot summarize.  
-- **Anthropic adds 28 security and compliance integrations for Claude** [Help Net Security] – Announces a suite of new connectors (e.g., Cloudflare, Okta, Palo Alto) that feed Claude Enterprise usage data into existing DLP, SIEM, and identity‑management dashboards via the Claude Compliance API.
+### AI Agent Failure Modes Beyond Hallucination – DEV Community [devto]  
+A taxonomy of 20 failure modes (e.g., “one‑shotting,” “cold‑start amnesia,” “overengineering”) shows that long‑running agents often lose context, add unnecessary complexity, or produce superficially correct but functionally flawed outputs.
+
+### 1.2 M Messages to Obsidian – Hacker News [hackernews_api]  
+Using LLMs to ingest 1.2 million chat messages from five platforms, a researcher built a searchable personal “relationship vault” in Obsidian, demonstrating both the power and the massive compute cost of large‑scale personal data mining.
+
+### Beyond Benchmarks: Frontier LLM Disagreement on Fact‑Checks – Hacker News [hackernews_api]  
+A study of 1,000 fact‑check claims finds that 67 % see at least one model dissent, with 34 % showing substantive (≥2‑bucket) disagreement, highlighting the fragility of consensus‑based LLM evaluation.
+
+### Introducing Claude Opus 4.8 – Hacker News [hackernews_api]  
+Anthropic’s latest Claude release adds “effort control,” dynamic workflows for parallel sub‑agents, and a 2.5× faster “fast mode,” delivering higher honesty, better tool‑use, and state‑of‑the‑art performance on coding and legal benchmarks.
+
+### $2,000 AI‑Generated Film Debuts at Tribeca – The Verge [newsfeed]  
+Brothers Ash and Pooya Koosha produced *Dreams of Violets*, a full‑length live‑action drama generated with Google’s Nano Banana, Kling AI, and Claude, proving ultra‑low‑budget AI filmmaking can reach major festivals.
+
+### Modern‑Slavery Claim Over Al Fayed Associate – newsfeed [newsfeed]  
+A woman alleges decades‑old rape and trafficking by a deceased UAE diplomat and Mohamed Al Fayed; the UK’s National Referral Mechanism has reopened the case, prompting renewed scrutiny of historic abuse allegations.
+
+### 12 AI Prompts That Leak Enterprise Data—and How to Fix Them – CIO [tldr]  
+A playbook enumerates common data‑leak scenarios (contract summarisation, HR reviews, code debugging, etc.) and recommends tiered controls, browser isolation, and real‑time content redaction to protect corporate information.
+
+### AI Risk Is an Architecture Problem – Eric Glover [tldr]  
+Glover argues that AI risk should be managed at the system‑architecture level, mapping data, output, and action risks to business consequences and showing that redesigning control boundaries can mitigate “lethal trifecta” failures.
 
 ---
 
 ## Cybersecurity and Privacy
 
-- **Almost 500,000 Russian soldiers killed since start of Ukraine war** [newsfeed] – GCHQ reports roughly half‑a‑million Russian fatalities based on open‑source verification, while warning of continued Russian cyber‑espionage targeting UK infrastructure and urging rapid adoption of passkeys and supply‑chain hardening.
+### Pay Tel Prison‑Pay Phone Data Exposure – TechCrunch [newsfeed]  
+A mis‑configured Azure storage bucket exposed over 300 k driver‑license scans, inmate messages, and photos; the breach was disclosed by researcher UpGuard but the company has not publicly acknowledged the incident.
 
 ---
 
 ## Software Engineering and Dev Tools
 
-- **How I Bypassed Adobe and Microsoft to Build a Git‑Tracked Book Production Pipeline** [Hacker News] – Describes a workflow that replaces Word → InDesign → Calibre → Kindle Create with a single source DOCX/ODT, open‑source EPUB linting (Standard Ebooks), and version‑controlled XHTML output, eliminating platform lock‑in and manual re‑exports.  
-- **How Private Equity Bought America’s Essential Services** [Hacker News] – Explores the consequences of PE‑driven consolidation in fire‑truck manufacturing (REV Group), ambulances, waste and water services, highlighting cost inflation, long backlogs, and antitrust scrutiny.  
-- **Training our own AI models** [PostHog, hnrss] – Announces an opt‑out program to train internal models on anonymized customer data (session replay, synthetic testing, behavior prediction), with default opt‑in for US cloud users and opt‑out for EU and restricted contracts, aiming to enhance product features without selling data.
+### AI Agents Are Great at 80 % of Our Code – DEV Community [devto]  
+A fintech CTO reports AI coding agents excel at boilerplate, scaffolding, and routine refactoring, yet miss critical edge‑case handling, duplicate utilities, and domain‑specific judgment, necessitating senior review for high‑risk payment logic.
+
+### I Thought Coding Was The Job – DEV Community [devto]  
+A developer’s freelance journey reveals that technical work is only a fraction of any role; client communication, scope management, and organisational politics dominate both gig and corporate environments.
+
+### Why Does AI Forget What You Said (and How to Fix It) – DEV Community [devto]  
+The article explains context‑window limits, “middle‑drift,” and offers practical mitigations such as larger models, chunking, summarisation, system prompts, and external memory layers to preserve important information.
+
+### Rust (and Slint) on a Jail‑Broken Kindle – Hacker News [hackernews_api]  
+Using `cargo‑zigbuild` and the Slint UI library, a developer cross‑compiled Rust for an ARMv7 Kindle, implemented framebuffer graphics and touch handling, and released a reusable crate for e‑ink UI back‑ends.
+
+### UC Math Professors Demand Return of SAT for STEM Admissions – Los Angeles Times [hackernews_api]  
+Over 600 UC faculty petition reinstating SAT/ACT scores for STEM applicants, arguing test‑free admissions have left many underprepared; university leadership remains non‑committal while exploring K‑12 partnerships.
+
+### “I’ve Applied for More Than 400 Roles” – newsfeed [newsfeed]  
+Personal stories from UK graduates illustrate a “lost generation” caught in an experience paradox: over‑qualified yet lacking the experience employers demand, leading to massive application fatigue and mental‑health strain.
 
 ---
 
-## Startups and Business
+## Cloud and Infrastructure
 
-- **AI coding startup Cognition raises $1 B at $25 B pre‑money valuation** [TechCrunch] – Secures a billion‑dollar round led by Lux Capital, valuing the firm at $25 B; its autonomous AI engineer “Devin” serves enterprise clients like Mercedes‑Benz and NASA, with a $492 M annualized revenue run‑rate.  
-- **American Airlines picks SpaceX's Starlink for in‑flight Wi‑Fi** [tldr] – Will equip 500+ narrow‑body Airbus jets with Starlink connectivity starting next year, joining United and Southwest, while Delta opts for Amazon Leo; the move reflects airlines’ push for higher‑speed, revenue‑generating onboard internet.
+### Join the Hermes Agent Challenge – DEV Community [devto]  
+Nous Research invites developers to build or write about the open‑source Hermes Agent, offering $1,000 in prizes for innovative multi‑model, self‑improving AI agents that run on user‑controlled infrastructure.
 
----
-
-## World News and Geopolitics
-
-- **Canada to order military plane fleet from Sweden in shift from US suppliers** [The Guardian] – Chooses Saab’s GlobalEye early‑warning aircraft over the delayed Boeing E‑7, aiming to diversify defence procurement, bolster Arctic surveillance, and deepen Nordic NATO ties; six aircraft are planned with local R&D investment.
+### Amazon’s RNG Data‑Center Network Breakthrough – WIRED [newsfeed]  
+AWS has deployed “Resilient Network Graphs” (RNG) with a quasi‑random topology and a new ShuffleBox optical device, cutting router count by 69 %, boosting throughput 33 %, and reducing power use 40 % across several European data centres.
 
 ---
 
 ## Notable Mentions
-- Anthropic to introduce AI Fluency scorecard in Claude [tldr]
+- Apple Developing iPhone Anti‑Snatching Feature That Locks Stolen Phones Instantly – MacRumors [tldr]
