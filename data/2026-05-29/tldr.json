@@ -172,7 +172,7 @@
   {
     "title": "Beyond the Prompt: Claude Code (23 minute read)",
     "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "description": "Beyond the Prompt: Claude Code (23 minute read)",
+    "description": "Why developers should not entirely rely on agents, and what you can do about it.",
     "tags": [
       "tldr"
     ],
@@ -203,16 +203,6 @@
     "title": "British media buyers are preparing for ChatGPT Ads (3 minute read)",
     "url": "https://www.thecurrent.com/marketing-strategy-ai-british-media-buyers-preparing-chatgpt-ads",
     "description": "British media buyers are preparing for ChatGPT Ads (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-29",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Bumblebee (GitHub Repo)",
-    "url": "https://github.com/perplexityai/bumblebee",
-    "description": "Bumblebee (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -310,16 +300,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Deconstructing Data Sketches (8 minute read)",
-    "url": "https://lezwon.substack.com/p/deconstructing-data-sketches",
-    "description": "Deconstructing Data Sketches (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-29",
-    "site_name": "tldr"
-  },
-  {
     "title": "Do More With Grid in Figma (1 minute read)",
     "url": "https://www.figma.com/release-notes/?title=do-more-with-grid&amp%3Butm_source=tldrdesign",
     "description": "Do More With Grid in Figma (1 minute read)",
@@ -333,16 +313,6 @@
     "title": "ElevenLabs Music Generation Model (3 minute read)",
     "url": "https://elevenlabs.io/blog/introducing-music-v2",
     "description": "ElevenLabs Music Generation Model (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-29",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Epicure: Navigating the Emergent Geometry of Food Ingredient Embeddings (1 minute read)",
-    "url": "https://arxiv.org/abs/2605.22391",
-    "description": "Why developers should not entirely rely on agents, and what you can do about it.",
     "tags": [
       "tldr"
     ],
@@ -483,16 +453,6 @@
     "title": "Google leaks details for Chromium bug that can turn browsers into bots (2 minute read)",
     "url": "https://www.csoonline.com/article/4176504/google-leaks-details-for-chromium-bug-that-can-turn-browsers-into-bots.html",
     "description": "Google leaks details for Chromium bug that can turn browsers into bots (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-29",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Governing Infrastructure as Code Using Pattern-Based Policy as Code (6 minute read)",
-    "url": "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code/",
-    "description": "Governing Infrastructure as Code Using Pattern-Based Policy as Code (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -700,16 +660,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing the Data 360 MCP Server - Your Unified Data, Ready for Any Agent (3 minute read)",
-    "url": "https://www.salesforce.com/blog/introducing-the-data-360-mcp-server-your-unified-data-ready-for-any-agent/",
-    "description": "Introducing the Data 360 MCP Server - Your Unified Data, Ready for Any Agent (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-29",
-    "site_name": "tldr"
-  },
-  {
     "title": "Kafka Share Groups and Parallelizing Consumption — Tuning max.poll.records (14 minute read)",
     "url": "https://jack-vanlightly.com/blog/2026/5/25/kafka-share-groups-and-parallelizing-consumption-part-1-tuning-maxpollrecords",
     "description": "Kafka Share Groups and Parallelizing Consumption — Tuning max.poll.records (14 minute read)",
@@ -740,9 +690,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Knowledge Work Plugins (GitHub Repo)",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "description": "Knowledge Work Plugins (GitHub Repo)",
+    "title": "Liquid Launches Co-Invest for Live Trading Inside ChatGPT (3 minute read)",
+    "url": "https://threadreaderapp.com/thread/2059258297627082842.html",
+    "description": "Liquid Launches Co-Invest for Live Trading Inside ChatGPT (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -750,9 +700,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Liquid Launches Co-Invest for Live Trading Inside ChatGPT (3 minute read)",
-    "url": "https://threadreaderapp.com/thread/2059258297627082842.html",
-    "description": "Liquid Launches Co-Invest for Live Trading Inside ChatGPT (3 minute read)",
+    "title": "LiteParse v2.0 (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2059675872408260816.html",
+    "description": "LiteParse v2.0 (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -790,9 +740,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Managing VS Code Extensions in an Enterprise Environment (4 minute read)",
+    "url": "https://code.visualstudio.com/docs/enterprise/extensions",
+    "description": "Managing VS Code Extensions in an Enterprise Environment (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-29",
+    "site_name": "tldr"
+  },
+  {
     "title": "Meta's Premium Branding Mess (6 minute read)",
     "url": "https://spyglass.org/meta-one-premium/",
     "description": "Meta's Premium Branding Mess (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft's quiet Claude Code retreat and the real cost of enterprise AI (10 minute read)",
+    "url": "https://thenextweb.com/news/microsoft-claude-code-retreat-ai-cost",
+    "description": "Microsoft's quiet Claude Code retreat and the real cost of enterprise AI (10 minute read)",
     "tags": [
       "tldr"
     ],
@@ -860,6 +830,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires (13 minute read)",
+    "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
+    "description": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires (13 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-29",
+    "site_name": "tldr"
+  },
+  {
     "title": "Of Hammers and Nails: What AI Can and Cannot Do for a Data Analyst (6 minute read)",
     "url": "https://adamwritesaboutdata.substack.com/p/of-hammers-and-nails-what-ai-can",
     "description": "Of Hammers and Nails: What AI Can and Cannot Do for a Data Analyst (6 minute read)",
@@ -913,6 +893,16 @@
     "title": "Project Glasswing: An initial update (9 minute read)",
     "url": "https://www.anthropic.com/research/glasswing-initial-update",
     "description": "Project Glasswing: An initial update (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Project Glasswing: what Mythos showed us (9 minute read)",
+    "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+    "description": "Project Glasswing: what Mythos showed us (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1030,9 +1020,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Staged publishing and new install-time controls for NPM (2 minute read)",
-    "url": "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/",
-    "description": "Staged publishing and new install-time controls for NPM (2 minute read)",
+    "title": "Stablecoins are private money, but that is not the real risk question (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2058933371502260441.html",
+    "description": "Stablecoins are private money, but that is not the real risk question (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1040,9 +1030,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Sundar Pichai on AI, the future of search, and what's happening to the web (40 minute read)",
-    "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
-    "description": "Sundar Pichai on AI, the future of search, and what's happening to the web (40 minute read)",
+    "title": "Stack Overflow's forum is dead thanks to AI, but the company's still kicking... thanks to AI (8 minute read)",
+    "url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
+    "description": "Stack Overflow's forum is dead thanks to AI, but the company's still kicking... thanks to AI (8 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Staged publishing and new install-time controls for NPM (2 minute read)",
+    "url": "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/",
+    "description": "Staged publishing and new install-time controls for NPM (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1120,6 +1120,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The Interface is No Longer the Product (6 minute read)",
+    "url": "https://blog.mozilla.ai/the-interface-is-no-longer-the-product/",
+    "description": "The Interface is No Longer the Product (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-29",
+    "site_name": "tldr"
+  },
+  {
     "title": "The SaaS Apocalypse Is Baloney - Why No One Is Actually Rebuilding SAP or Workday from Scratch (5 minute read)",
     "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-2626-software-is",
     "description": "The SaaS Apocalypse Is Baloney - Why No One Is Actually Rebuilding SAP or Workday from Scratch (5 minute read)",
@@ -1190,6 +1200,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "UK Visa Portal Website Leaks Thousands of User Passport Data and Photos Online (2 minute read)",
+    "url": "https://www.techradar.com/pro/security/uk-visa-portal-website-leaks-thousands-of-user-passport-data-and-photos-online",
+    "description": "UK Visa Portal Website Leaks Thousands of User Passport Data and Photos Online (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-29",
+    "site_name": "tldr"
+  },
+  {
     "title": "Ubiquiti Patches Three Max Severity UniFi OS Vulnerabilities (2 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
     "description": "Ubiquiti Patches Three Max Severity UniFi OS Vulnerabilities (2 minute read)",
@@ -1233,16 +1253,6 @@
     "title": "VPN No-Logs Policies: Which Providers Have Actually Been Audited? (4 minute read)",
     "url": "https://www.dualmedia.com/vpn-no-logs-audited/",
     "description": "VPN No-Logs Policies: Which Providers Have Actually Been Audited? (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-29",
-    "site_name": "tldr"
-  },
-  {
-    "title": "We got our first glimpse at an Unreal Engine 6 video game, and it's Rocket League (2 minute read)",
-    "url": "https://www.polygon.com/unreal-engine-6-announcement-rocket-league/",
-    "description": "We got our first glimpse at an Unreal Engine 6 video game, and it's Rocket League (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1300,6 +1310,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Why NetSuite and Salesforce win (3 minute read)",
+    "url": "https://mikebian.co/why-netsuite-and-salesforce-win/",
+    "description": "Why NetSuite and Salesforce win (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-29",
+    "site_name": "tldr"
+  },
+  {
     "title": "Why so many brands are releasing music videos (4 minute read)",
     "url": "https://www.marketingbrew.com/stories/why-so-many-brands-are-releasing-music-videos",
     "description": "Why so many brands are releasing music videos (4 minute read)",
@@ -1340,9 +1360,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "cmux (GitHub Repo)",
+    "url": "https://github.com/manaflow-ai/cmux",
+    "description": "cmux (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-29",
+    "site_name": "tldr"
+  },
+  {
     "title": "hl.eco – Real-Time Hyperliquid Analytics Dashboard (3 minute read)",
     "url": "https://threadreaderapp.com/thread/2058896726551867573.html",
     "description": "hl.eco – Real-Time Hyperliquid Analytics Dashboard (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "honeyslop (GitHub Repo)",
+    "url": "https://github.com/gadievron/honeyslop/",
+    "description": "honeyslop (GitHub Repo)",
     "tags": [
       "tldr"
     ],

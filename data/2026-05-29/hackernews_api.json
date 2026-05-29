@@ -1,62 +1,147 @@
 [
   {
-    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-    "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-    "author": "kunalsin9h",
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "url": "https://www.anthropic.com/news/series-h",
+    "author": "meetpateltech",
     "date": "2026-05-28",
-    "score": 139,
-    "comments": 41,
-    "id": 48305446,
-    "discussion_url": "https://news.ycombinator.com/item?id=48305446",
-    "description": "A Eureka machine that thinks like nature and explores what AI cannot",
+    "score": 350,
+    "comments": 374,
+    "id": 48313048,
+    "discussion_url": "https://news.ycombinator.com/item?id=48313048",
+    "description": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991441"
+    "fetched_at": "2026-05-29T12:06:54.932578"
   },
   {
-    "title": "All of human cooking compressed into 2 megabytes",
-    "url": "https://arxiv.org/abs/2605.22391",
-    "author": "josefchen",
-    "date": "2026-05-27",
-    "score": 430,
-    "comments": 167,
-    "id": 48291225,
-    "discussion_url": "https://news.ycombinator.com/item?id=48291225",
-    "description": "All of human cooking compressed into 2 megabytes",
+    "title": "Bitburner, programming-based incremental game",
+    "url": "https://bitburner-official.github.io/",
+    "author": "agmater",
+    "date": "2026-05-28",
+    "score": 104,
+    "comments": 23,
+    "id": 48312616,
+    "discussion_url": "https://news.ycombinator.com/item?id=48312616",
+    "description": "Bitburner, programming-based incremental game",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991564"
+    "fetched_at": "2026-05-29T12:06:54.932560"
   },
   {
-    "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-    "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-    "author": "brandonb",
+    "title": "Blue Origin's New Glenn blows up during static fire test",
+    "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+    "author": "enraged_camel",
     "date": "2026-05-29",
-    "score": 358,
-    "comments": 523,
-    "id": 48309233,
-    "discussion_url": "https://news.ycombinator.com/item?id=48309233",
-    "description": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+    "score": 310,
+    "comments": 313,
+    "id": 48317774,
+    "discussion_url": "https://news.ycombinator.com/item?id=48317774",
+    "description": "Blue Origin's New Glenn blows up during static fire test",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991639"
+    "fetched_at": "2026-05-29T12:06:54.932396"
+  },
+  {
+    "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+    "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+    "author": "philips",
+    "date": "2026-05-28",
+    "score": 1034,
+    "comments": 478,
+    "id": 48314136,
+    "discussion_url": "https://news.ycombinator.com/item?id=48314136",
+    "description": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T12:06:54.932383"
+  },
+  {
+    "title": "Bttf is a command line datetime Swiss army knife",
+    "url": "https://github.com/BurntSushi/bttf",
+    "author": "burntsushi",
+    "date": "2026-05-28",
+    "score": 163,
+    "comments": 95,
+    "id": 48303881,
+    "discussion_url": "https://news.ycombinator.com/item?id=48303881",
+    "description": "Bttf is a command line datetime Swiss army knife",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T12:06:54.932582"
+  },
+  {
+    "title": "Building durable workflows on Postgres",
+    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "author": "KraftyOne",
+    "date": "2026-05-28",
+    "score": 323,
+    "comments": 137,
+    "id": 48313530,
+    "discussion_url": "https://news.ycombinator.com/item?id=48313530",
+    "description": "Building durable workflows on Postgres",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T12:06:54.932514"
+  },
+  {
+    "title": "Cars collect a startling amount of data about you",
+    "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+    "author": "1vuio0pswjnm7",
+    "date": "2026-05-29",
+    "score": 378,
+    "comments": 182,
+    "id": 48318481,
+    "discussion_url": "https://news.ycombinator.com/item?id=48318481",
+    "description": "Cars collect a startling amount of data about you",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T12:06:54.932441"
+  },
+  {
+    "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "author": "ankitg12",
+    "date": "2026-05-29",
+    "score": 160,
+    "comments": 31,
+    "id": 48318174,
+    "discussion_url": "https://news.ycombinator.com/item?id=48318174",
+    "description": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T12:06:54.932481"
   },
   {
     "title": "Claude Opus 4.8",
     "url": "https://www.anthropic.com/news/claude-opus-4-8",
     "author": "craigmart",
-    "date": "2026-05-29",
-    "score": 603,
-    "comments": 437,
+    "date": "2026-05-28",
+    "score": 1590,
+    "comments": 1244,
     "id": 48311647,
     "discussion_url": "https://news.ycombinator.com/item?id=48311647",
     "description": "Claude Opus 4.8",
@@ -65,49 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.990743"
+    "fetched_at": "2026-05-29T12:06:54.932411"
   },
   {
-    "title": "Disagreement among frontier LLMs on real-world fact-checks",
-    "url": "https://lenz.io/research/llm-disagreement",
-    "author": "kostaj",
-    "date": "2026-05-28",
-    "score": 456,
-    "comments": 314,
-    "id": 48307887,
-    "discussion_url": "https://news.ycombinator.com/item?id=48307887",
-    "description": "Disagreement among frontier LLMs on real-world fact-checks",
+    "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
+    "url": "https://coalton-lang.github.io/",
+    "author": "b-man",
+    "date": "2026-05-26",
+    "score": 168,
+    "comments": 31,
+    "id": 48280451,
+    "discussion_url": "https://news.ycombinator.com/item?id=48280451",
+    "description": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.990841"
-  },
-  {
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-    "author": "HelloUsername",
-    "date": "2026-05-28",
-    "score": 1027,
-    "comments": 497,
-    "id": 48296649,
-    "discussion_url": "https://news.ycombinator.com/item?id=48296649",
-    "description": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991252"
+    "fetched_at": "2026-05-29T12:06:54.932490"
   },
   {
     "title": "EU fines Temu €200M for allowing sale of illegal products",
     "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
     "author": "jjp",
-    "date": "2026-05-29",
-    "score": 206,
-    "comments": 133,
+    "date": "2026-05-28",
+    "score": 334,
+    "comments": 343,
     "id": 48309302,
     "discussion_url": "https://news.ycombinator.com/item?id=48309302",
     "description": "EU fines Temu €200M for allowing sale of illegal products",
@@ -116,134 +184,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991058"
+    "fetched_at": "2026-05-29T12:06:54.932606"
   },
   {
-    "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-    "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-    "author": "ChrisArchitect",
+    "title": "Endive: A JVM native WebAssembly runtime",
+    "url": "https://github.com/bytecodealliance/endive",
+    "author": "theanonymousone",
     "date": "2026-05-28",
-    "score": 134,
-    "comments": 73,
-    "id": 48297467,
-    "discussion_url": "https://news.ycombinator.com/item?id=48297467",
-    "description": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+    "score": 96,
+    "comments": 29,
+    "id": 48311490,
+    "discussion_url": "https://news.ycombinator.com/item?id=48311490",
+    "description": "Endive: A JVM native WebAssembly runtime",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991624"
+    "fetched_at": "2026-05-29T12:06:54.932522"
   },
   {
-    "title": "Go: Support for Generic Methods",
-    "url": "https://github.com/golang/go/issues/77273",
-    "author": "f311a",
-    "date": "2026-05-27",
-    "score": 295,
-    "comments": 241,
-    "id": 48291575,
-    "discussion_url": "https://news.ycombinator.com/item?id=48291575",
-    "description": "Go: Support for Generic Methods",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991361"
-  },
-  {
-    "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-    "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
-    "author": "pseudolus",
+    "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+    "author": "possibilistic",
     "date": "2026-05-28",
-    "score": 283,
-    "comments": 194,
-    "id": 48302822,
-    "discussion_url": "https://news.ycombinator.com/item?id=48302822",
-    "description": "Google employee charged with $1M Polymarket insider trading bet on search term",
+    "score": 444,
+    "comments": 206,
+    "id": 48315968,
+    "discussion_url": "https://news.ycombinator.com/item?id=48315968",
+    "description": "GitHub bans security researcher who posted zero-day Windows exploits",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991654"
+    "fetched_at": "2026-05-29T12:06:54.932498"
   },
   {
-    "title": "I analysed 20 years of my chats",
-    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-    "author": "valzevul",
+    "title": "I hated writing until I learned there’s a science to it (2024)",
+    "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+    "author": "o4c",
     "date": "2026-05-28",
-    "score": 240,
-    "comments": 134,
-    "id": 48302220,
-    "discussion_url": "https://news.ycombinator.com/item?id=48302220",
-    "description": "I analysed 20 years of my chats",
+    "score": 223,
+    "comments": 93,
+    "id": 48312528,
+    "discussion_url": "https://news.ycombinator.com/item?id=48312528",
+    "description": "I hated writing until I learned there’s a science to it (2024)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991579"
+    "fetched_at": "2026-05-29T12:06:54.932595"
   },
   {
-    "title": "I think Anthropic and OpenAI have found product-market fit",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "author": "simonw",
+    "title": "I made a million dollar product from my dorm room (2025)",
+    "url": "https://nick.winans.io/blog/nice-nano/",
+    "author": "mattrighetti",
     "date": "2026-05-28",
-    "score": 1057,
-    "comments": 1166,
-    "id": 48296794,
-    "discussion_url": "https://news.ycombinator.com/item?id=48296794",
-    "description": "I think Anthropic and OpenAI have found product-market fit",
+    "score": 455,
+    "comments": 68,
+    "id": 48314951,
+    "discussion_url": "https://news.ycombinator.com/item?id=48314951",
+    "description": "I made a million dollar product from my dorm room (2025)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991487"
-  },
-  {
-    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "author": "Panda_",
-    "date": "2026-05-28",
-    "score": 326,
-    "comments": 121,
-    "id": 48299638,
-    "discussion_url": "https://news.ycombinator.com/item?id=48299638",
-    "description": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991220"
-  },
-  {
-    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-    "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-    "author": "maxnoe",
-    "date": "2026-05-27",
-    "score": 329,
-    "comments": 207,
-    "id": 48293080,
-    "discussion_url": "https://news.ycombinator.com/item?id=48293080",
-    "description": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991424"
+    "fetched_at": "2026-05-29T12:06:54.932457"
   },
   {
     "title": "Indoor Wi-Fi Roaming with OpenWRT",
     "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
     "author": "zdw",
-    "date": "2026-05-27",
-    "score": 136,
-    "comments": 62,
+    "date": "2026-05-26",
+    "score": 251,
+    "comments": 120,
     "id": 48282180,
     "discussion_url": "https://news.ycombinator.com/item?id=48282180",
     "description": "Indoor Wi-Fi Roaming with OpenWRT",
@@ -252,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991025"
+    "fetched_at": "2026-05-29T12:06:54.932510"
   },
   {
     "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
     "url": "https://arxiv.org/abs/2510.04950",
     "author": "KnuthIsGod",
     "date": "2026-05-26",
-    "score": 133,
-    "comments": 172,
+    "score": 143,
+    "comments": 193,
     "id": 48276429,
     "discussion_url": "https://news.ycombinator.com/item?id=48276429",
     "description": "Investigating how prompt politeness affects LLM accuracy (2025)",
@@ -269,117 +286,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.990941"
+    "fetched_at": "2026-05-29T12:06:54.932625"
   },
   {
-    "title": "Last.fm is now independent",
-    "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-    "author": "twistslider",
-    "date": "2026-05-28",
-    "score": 778,
-    "comments": 204,
-    "id": 48295892,
-    "discussion_url": "https://news.ycombinator.com/item?id=48295892",
-    "description": "Last.fm is now independent",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991684"
-  },
-  {
-    "title": "Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)",
-    "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
-    "author": "tosh",
-    "date": "2026-05-23",
-    "score": 166,
-    "comments": 54,
-    "id": 48247005,
-    "discussion_url": "https://news.ycombinator.com/item?id=48247005",
-    "description": "Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991609"
-  },
-  {
-    "title": "Mini Micro Fantasy Computer",
-    "url": "https://miniscript.org/MiniMicro/index.html#about",
-    "author": "nicoloren",
-    "date": "2026-05-27",
-    "score": 272,
-    "comments": 85,
-    "id": 48291947,
-    "discussion_url": "https://news.ycombinator.com/item?id=48291947",
-    "description": "Mini Micro Fantasy Computer",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991533"
-  },
-  {
-    "title": "New York passes pied-a-terre tax",
-    "url": "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html",
-    "author": "proofofcontempt",
+    "title": "Italians and Dutch share the same gestural instinct for teaching",
+    "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+    "author": "vi_sextus_vi",
     "date": "2026-05-29",
-    "score": 211,
-    "comments": 299,
-    "id": 48309584,
-    "discussion_url": "https://news.ycombinator.com/item?id=48309584",
-    "description": "New York passes pied-a-terre tax",
+    "score": 83,
+    "comments": 37,
+    "id": 48318313,
+    "discussion_url": "https://news.ycombinator.com/item?id=48318313",
+    "description": "Italians and Dutch share the same gestural instinct for teaching",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991106"
+    "fetched_at": "2026-05-29T12:06:54.932436"
   },
   {
-    "title": "Private equity bought America's essential services",
-    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "author": "NoRagrets",
-    "date": "2026-05-27",
-    "score": 527,
-    "comments": 538,
-    "id": 48292941,
-    "discussion_url": "https://news.ycombinator.com/item?id=48292941",
-    "description": "Private equity bought America's essential services",
+    "title": "News about Raspberry Pi 6 and Microcontroller Development",
+    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+    "author": "rbanffy",
+    "date": "2026-05-26",
+    "score": 210,
+    "comments": 171,
+    "id": 48276598,
+    "discussion_url": "https://news.ycombinator.com/item?id=48276598",
+    "description": "News about Raspberry Pi 6 and Microcontroller Development",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991699"
+    "fetched_at": "2026-05-29T12:06:54.932469"
   },
   {
-    "title": "Rust (and Slint) on a Jailbroken Kindle",
-    "url": "https://sverre.me/blog/rust-on-kindle/",
-    "author": "homarp",
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "author": "speckx",
     "date": "2026-05-28",
-    "score": 225,
-    "comments": 35,
-    "id": 48299623,
-    "discussion_url": "https://news.ycombinator.com/item?id=48299623",
-    "description": "Rust (and Slint) on a Jailbroken Kindle",
+    "score": 269,
+    "comments": 91,
+    "id": 48314002,
+    "discussion_url": "https://news.ycombinator.com/item?id=48314002",
+    "description": "Nitpicking the shell history scene in 'Tron: Legacy'",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.990958"
+    "fetched_at": "2026-05-29T12:06:54.932485"
+  },
+  {
+    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+    "author": "drewda",
+    "date": "2026-05-28",
+    "score": 227,
+    "comments": 117,
+    "id": 48317093,
+    "discussion_url": "https://news.ycombinator.com/item?id=48317093",
+    "description": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T12:06:54.932540"
   },
   {
     "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
     "url": "https://llmgame.scalex.dev",
     "author": "Wirbelwind",
     "date": "2026-05-28",
-    "score": 115,
-    "comments": 63,
+    "score": 336,
+    "comments": 135,
     "id": 48308376,
     "discussion_url": "https://news.ycombinator.com/item?id=48308376",
     "description": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
@@ -388,117 +371,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.990992"
+    "fetched_at": "2026-05-29T12:06:54.932445"
   },
   {
-    "title": "Show HN: Hallucinate – Massively Multiplayer Online Rave",
-    "url": "https://hallucinate.site",
-    "author": "stagas",
-    "date": "2026-05-28",
-    "score": 363,
-    "comments": 156,
-    "id": 48304260,
-    "discussion_url": "https://news.ycombinator.com/item?id=48304260",
-    "description": "Show HN: Hallucinate – Massively Multiplayer Online Rave",
+    "title": "Ten Basic Clouds",
+    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "author": "nopg",
+    "date": "2026-05-24",
+    "score": 134,
+    "comments": 38,
+    "id": 48261377,
+    "discussion_url": "https://news.ycombinator.com/item?id=48261377",
+    "description": "Ten Basic Clouds",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991042"
+    "fetched_at": "2026-05-29T12:06:54.932419"
   },
   {
-    "title": "SimCity 3k in 4k (2025)",
-    "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+    "title": "The Lone Lisp Heap",
+    "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
+    "author": "stevekemp",
+    "date": "2026-05-28",
+    "score": 85,
+    "comments": 22,
+    "id": 48313142,
+    "discussion_url": "https://news.ycombinator.com/item?id=48313142",
+    "description": "The Lone Lisp Heap",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T12:06:54.932592"
+  },
+  {
+    "title": "The Permanent Upper Crow",
+    "url": "https://permanent-upper-crow.jasonwu.ink/",
+    "author": "whiteblossom",
+    "date": "2026-05-28",
+    "score": 193,
+    "comments": 74,
+    "id": 48310280,
+    "discussion_url": "https://news.ycombinator.com/item?id=48310280",
+    "description": "The Permanent Upper Crow",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T12:06:54.932502"
+  },
+  {
+    "title": "The most unlikely school bag",
+    "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
+    "author": "surprisetalk",
+    "date": "2026-05-25",
+    "score": 126,
+    "comments": 41,
+    "id": 48266757,
+    "discussion_url": "https://news.ycombinator.com/item?id=48266757",
+    "description": "The most unlikely school bag",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T12:06:54.932571"
+  },
+  {
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "author": "freediver",
+    "date": "2026-05-29",
+    "score": 84,
+    "comments": 64,
+    "id": 48317294,
+    "discussion_url": "https://news.ycombinator.com/item?id=48317294",
+    "description": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T12:06:54.932585"
+  },
+  {
+    "title": "Various LLM Smells",
+    "url": "https://shvbsle.in/various-llm-smells/",
     "author": "speckx",
     "date": "2026-05-28",
-    "score": 462,
-    "comments": 185,
-    "id": 48297645,
-    "discussion_url": "https://news.ycombinator.com/item?id=48297645",
-    "description": "SimCity 3k in 4k (2025)",
+    "score": 323,
+    "comments": 257,
+    "id": 48313810,
+    "discussion_url": "https://news.ycombinator.com/item?id=48313810",
+    "description": "Various LLM Smells",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.990780"
+    "fetched_at": "2026-05-29T12:06:54.932552"
   },
   {
-    "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
-    "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
-    "author": "gmays",
-    "date": "2026-05-28",
-    "score": 162,
-    "comments": 24,
-    "id": 48296622,
-    "discussion_url": "https://news.ycombinator.com/item?id=48296622",
-    "description": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+    "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+    "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+    "author": "Kwastie",
+    "date": "2026-05-29",
+    "score": 226,
+    "comments": 113,
+    "id": 48319509,
+    "discussion_url": "https://news.ycombinator.com/item?id=48319509",
+    "description": "Volkswagen blocks Home Assistant by requiring client assertion",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991472"
-  },
-  {
-    "title": "The Ask",
-    "url": "https://randsinrepose.com/archives/the-ask/",
-    "author": "digitallogic",
-    "date": "2026-05-26",
-    "score": 135,
-    "comments": 95,
-    "id": 48267558,
-    "discussion_url": "https://news.ycombinator.com/item?id=48267558",
-    "description": "The Ask",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991283"
-  },
-  {
-    "title": "Warm up your MacBook (2019)",
-    "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-    "author": "kristianp",
-    "date": "2026-05-28",
-    "score": 124,
-    "comments": 118,
-    "id": 48300342,
-    "discussion_url": "https://news.ycombinator.com/item?id=48300342",
-    "description": "Warm up your MacBook (2019)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.991345"
-  },
-  {
-    "title": "What Apple and Google are doing to push notifications",
-    "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-    "author": "iamacyborg",
-    "date": "2026-05-28",
-    "score": 390,
-    "comments": 385,
-    "id": 48299220,
-    "discussion_url": "https://news.ycombinator.com/item?id=48299220",
-    "description": "What Apple and Google are doing to push notifications",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.990822"
+    "fetched_at": "2026-05-29T12:06:54.932415"
   },
   {
     "title": "YouTube to automatically label AI-generated videos",
     "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
     "author": "nopg",
-    "date": "2026-05-28",
-    "score": 1222,
-    "comments": 725,
+    "date": "2026-05-27",
+    "score": 1292,
+    "comments": 790,
     "id": 48299753,
     "discussion_url": "https://news.ycombinator.com/item?id=48299753",
     "description": "YouTube to automatically label AI-generated videos",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T04:35:52.990975"
+    "fetched_at": "2026-05-29T12:06:54.932556"
   }
 ]
