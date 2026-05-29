@@ -1,45 +1,28 @@
 [
   {
-    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-    "url": "https://www.anthropic.com/news/series-h",
-    "author": "meetpateltech",
-    "date": "2026-05-28",
-    "score": 350,
-    "comments": 374,
-    "id": 48313048,
-    "discussion_url": "https://news.ycombinator.com/item?id=48313048",
-    "description": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "title": "Bijou64: A variable-length integer encoding",
+    "url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "author": "justinweiss",
+    "date": "2026-05-29",
+    "score": 171,
+    "comments": 63,
+    "id": 48323992,
+    "discussion_url": "https://news.ycombinator.com/item?id=48323992",
+    "description": "Bijou64: A variable-length integer encoding",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932578"
-  },
-  {
-    "title": "Bitburner, programming-based incremental game",
-    "url": "https://bitburner-official.github.io/",
-    "author": "agmater",
-    "date": "2026-05-28",
-    "score": 104,
-    "comments": 23,
-    "id": 48312616,
-    "discussion_url": "https://news.ycombinator.com/item?id=48312616",
-    "description": "Bitburner, programming-based incremental game",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932560"
+    "fetched_at": "2026-05-29T19:50:30.328045"
   },
   {
     "title": "Blue Origin's New Glenn blows up during static fire test",
     "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
     "author": "enraged_camel",
     "date": "2026-05-29",
-    "score": 310,
-    "comments": 313,
+    "score": 461,
+    "comments": 507,
     "id": 48317774,
     "discussion_url": "https://news.ycombinator.com/item?id=48317774",
     "description": "Blue Origin's New Glenn blows up during static fire test",
@@ -48,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932396"
+    "fetched_at": "2026-05-29T19:50:30.328214"
   },
   {
     "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
     "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
     "author": "philips",
     "date": "2026-05-28",
-    "score": 1034,
-    "comments": 478,
+    "score": 1272,
+    "comments": 571,
     "id": 48314136,
     "discussion_url": "https://news.ycombinator.com/item?id=48314136",
     "description": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
@@ -65,49 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932383"
-  },
-  {
-    "title": "Bttf is a command line datetime Swiss army knife",
-    "url": "https://github.com/BurntSushi/bttf",
-    "author": "burntsushi",
-    "date": "2026-05-28",
-    "score": 163,
-    "comments": 95,
-    "id": 48303881,
-    "discussion_url": "https://news.ycombinator.com/item?id=48303881",
-    "description": "Bttf is a command line datetime Swiss army knife",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932582"
-  },
-  {
-    "title": "Building durable workflows on Postgres",
-    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-    "author": "KraftyOne",
-    "date": "2026-05-28",
-    "score": 323,
-    "comments": 137,
-    "id": 48313530,
-    "discussion_url": "https://news.ycombinator.com/item?id=48313530",
-    "description": "Building durable workflows on Postgres",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932514"
+    "fetched_at": "2026-05-29T19:50:30.328186"
   },
   {
     "title": "Cars collect a startling amount of data about you",
     "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
     "author": "1vuio0pswjnm7",
     "date": "2026-05-29",
-    "score": 378,
-    "comments": 182,
+    "score": 469,
+    "comments": 265,
     "id": 48318481,
     "discussion_url": "https://news.ycombinator.com/item?id=48318481",
     "description": "Cars collect a startling amount of data about you",
@@ -116,32 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932441"
-  },
-  {
-    "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
-    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-    "author": "ankitg12",
-    "date": "2026-05-29",
-    "score": 160,
-    "comments": 31,
-    "id": 48318174,
-    "discussion_url": "https://news.ycombinator.com/item?id=48318174",
-    "description": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932481"
+    "fetched_at": "2026-05-29T19:50:30.328264"
   },
   {
     "title": "Claude Opus 4.8",
     "url": "https://www.anthropic.com/news/claude-opus-4-8",
     "author": "craigmart",
     "date": "2026-05-28",
-    "score": 1590,
-    "comments": 1244,
+    "score": 1709,
+    "comments": 1334,
     "id": 48311647,
     "discussion_url": "https://news.ycombinator.com/item?id=48311647",
     "description": "Claude Opus 4.8",
@@ -150,151 +82,185 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932411"
+    "fetched_at": "2026-05-29T19:50:30.328179"
   },
   {
-    "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
-    "url": "https://coalton-lang.github.io/",
-    "author": "b-man",
-    "date": "2026-05-26",
-    "score": 168,
-    "comments": 31,
-    "id": 48280451,
-    "discussion_url": "https://news.ycombinator.com/item?id=48280451",
-    "description": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932490"
-  },
-  {
-    "title": "EU fines Temu €200M for allowing sale of illegal products",
-    "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
-    "author": "jjp",
+    "title": "Dynamic Workflows in Claude Code",
+    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+    "author": "mil22",
     "date": "2026-05-28",
-    "score": 334,
-    "comments": 343,
-    "id": 48309302,
-    "discussion_url": "https://news.ycombinator.com/item?id=48309302",
-    "description": "EU fines Temu €200M for allowing sale of illegal products",
+    "score": 159,
+    "comments": 123,
+    "id": 48311705,
+    "discussion_url": "https://news.ycombinator.com/item?id=48311705",
+    "description": "Dynamic Workflows in Claude Code",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932606"
+    "fetched_at": "2026-05-29T19:50:30.328198"
   },
   {
-    "title": "Endive: A JVM native WebAssembly runtime",
-    "url": "https://github.com/bytecodealliance/endive",
-    "author": "theanonymousone",
-    "date": "2026-05-28",
-    "score": 96,
-    "comments": 29,
-    "id": 48311490,
-    "discussion_url": "https://news.ycombinator.com/item?id=48311490",
-    "description": "Endive: A JVM native WebAssembly runtime",
+    "title": "Expertise in the age of AI",
+    "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+    "author": "brilee",
+    "date": "2026-05-29",
+    "score": 76,
+    "comments": 78,
+    "id": 48322929,
+    "discussion_url": "https://news.ycombinator.com/item?id=48322929",
+    "description": "Expertise in the age of AI",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932522"
+    "fetched_at": "2026-05-29T19:50:30.328117"
   },
   {
-    "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-    "author": "possibilistic",
-    "date": "2026-05-28",
-    "score": 444,
-    "comments": 206,
-    "id": 48315968,
-    "discussion_url": "https://news.ycombinator.com/item?id=48315968",
-    "description": "GitHub bans security researcher who posted zero-day Windows exploits",
+    "title": "GTA 6 Developers Unionize",
+    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+    "author": "AndrewKemendo",
+    "date": "2026-05-29",
+    "score": 413,
+    "comments": 252,
+    "id": 48324499,
+    "discussion_url": "https://news.ycombinator.com/item?id=48324499",
+    "description": "GTA 6 Developers Unionize",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932498"
+    "fetched_at": "2026-05-29T19:50:30.328079"
   },
   {
-    "title": "I hated writing until I learned there’s a science to it (2024)",
-    "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-    "author": "o4c",
-    "date": "2026-05-28",
-    "score": 223,
-    "comments": 93,
-    "id": 48312528,
-    "discussion_url": "https://news.ycombinator.com/item?id=48312528",
-    "description": "I hated writing until I learned there’s a science to it (2024)",
+    "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
+    "url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
+    "author": "pavel_lishin",
+    "date": "2026-05-29",
+    "score": 99,
+    "comments": 34,
+    "id": 48323397,
+    "discussion_url": "https://news.ycombinator.com/item?id=48323397",
+    "description": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932595"
+    "fetched_at": "2026-05-29T19:50:30.328190"
   },
   {
-    "title": "I made a million dollar product from my dorm room (2025)",
-    "url": "https://nick.winans.io/blog/nice-nano/",
-    "author": "mattrighetti",
-    "date": "2026-05-28",
-    "score": 455,
-    "comments": 68,
-    "id": 48314951,
-    "discussion_url": "https://news.ycombinator.com/item?id=48314951",
-    "description": "I made a million dollar product from my dorm room (2025)",
+    "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+    "url": "https://github.com/HeidiSQL/HeidiSQL",
+    "author": "peter_d_sherman",
+    "date": "2026-05-29",
+    "score": 92,
+    "comments": 35,
+    "id": 48318568,
+    "discussion_url": "https://news.ycombinator.com/item?id=48318568",
+    "description": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932457"
+    "fetched_at": "2026-05-29T19:50:30.328256"
   },
   {
-    "title": "Indoor Wi-Fi Roaming with OpenWRT",
-    "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-    "author": "zdw",
-    "date": "2026-05-26",
-    "score": 251,
-    "comments": 120,
-    "id": 48282180,
-    "discussion_url": "https://news.ycombinator.com/item?id=48282180",
-    "description": "Indoor Wi-Fi Roaming with OpenWRT",
+    "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+    "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
+    "author": "surprisetalk",
+    "date": "2026-05-29",
+    "score": 126,
+    "comments": 41,
+    "id": 48322241,
+    "discussion_url": "https://news.ycombinator.com/item?id=48322241",
+    "description": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932510"
+    "fetched_at": "2026-05-29T19:50:30.328121"
   },
   {
-    "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-    "url": "https://arxiv.org/abs/2510.04950",
-    "author": "KnuthIsGod",
-    "date": "2026-05-26",
-    "score": 143,
-    "comments": 193,
-    "id": 48276429,
-    "discussion_url": "https://news.ycombinator.com/item?id=48276429",
-    "description": "Investigating how prompt politeness affects LLM accuracy (2025)",
+    "title": "I am retiring from tech to live offline",
+    "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+    "author": "PinkG",
+    "date": "2026-05-29",
+    "score": 606,
+    "comments": 421,
+    "id": 48323683,
+    "discussion_url": "https://news.ycombinator.com/item?id=48323683",
+    "description": "I am retiring from tech to live offline",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932625"
+    "fetched_at": "2026-05-29T19:50:30.328146"
+  },
+  {
+    "title": "Is AI causing a repeat of frontend’s lost decade?",
+    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "author": "xyzal",
+    "date": "2026-05-29",
+    "score": 208,
+    "comments": 191,
+    "id": 48321631,
+    "discussion_url": "https://news.ycombinator.com/item?id=48321631",
+    "description": "Is AI causing a repeat of frontend’s lost decade?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328088"
+  },
+  {
+    "title": "Is this sustainable?",
+    "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+    "author": "ColinEberhardt",
+    "date": "2026-05-29",
+    "score": 84,
+    "comments": 92,
+    "id": 48321264,
+    "discussion_url": "https://news.ycombinator.com/item?id=48321264",
+    "description": "Is this sustainable?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328155"
+  },
+  {
+    "title": "It's hard to justify buying a Framework 12",
+    "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+    "author": "watermelon0",
+    "date": "2026-05-29",
+    "score": 125,
+    "comments": 220,
+    "id": 48323869,
+    "discussion_url": "https://news.ycombinator.com/item?id=48323869",
+    "description": "It's hard to justify buying a Framework 12",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328055"
   },
   {
     "title": "Italians and Dutch share the same gestural instinct for teaching",
     "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
     "author": "vi_sextus_vi",
     "date": "2026-05-29",
-    "score": 83,
-    "comments": 37,
+    "score": 104,
+    "comments": 54,
     "id": 48318313,
     "discussion_url": "https://news.ycombinator.com/item?id=48318313",
     "description": "Italians and Dutch share the same gestural instinct for teaching",
@@ -303,185 +269,202 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932436"
+    "fetched_at": "2026-05-29T19:50:30.328230"
   },
   {
-    "title": "News about Raspberry Pi 6 and Microcontroller Development",
-    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-    "author": "rbanffy",
-    "date": "2026-05-26",
-    "score": 210,
-    "comments": 171,
-    "id": 48276598,
-    "discussion_url": "https://news.ycombinator.com/item?id=48276598",
-    "description": "News about Raspberry Pi 6 and Microcontroller Development",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932469"
-  },
-  {
-    "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-    "author": "speckx",
-    "date": "2026-05-28",
-    "score": 269,
-    "comments": 91,
-    "id": 48314002,
-    "discussion_url": "https://news.ycombinator.com/item?id=48314002",
-    "description": "Nitpicking the shell history scene in 'Tron: Legacy'",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932485"
-  },
-  {
-    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-    "author": "drewda",
-    "date": "2026-05-28",
-    "score": 227,
-    "comments": 117,
-    "id": 48317093,
-    "discussion_url": "https://news.ycombinator.com/item?id=48317093",
-    "description": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932540"
-  },
-  {
-    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-    "url": "https://llmgame.scalex.dev",
-    "author": "Wirbelwind",
-    "date": "2026-05-28",
-    "score": 336,
-    "comments": 135,
-    "id": 48308376,
-    "discussion_url": "https://news.ycombinator.com/item?id=48308376",
-    "description": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932445"
-  },
-  {
-    "title": "Ten Basic Clouds",
-    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-    "author": "nopg",
-    "date": "2026-05-24",
-    "score": 134,
-    "comments": 38,
-    "id": 48261377,
-    "discussion_url": "https://news.ycombinator.com/item?id=48261377",
-    "description": "Ten Basic Clouds",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932419"
-  },
-  {
-    "title": "The Lone Lisp Heap",
-    "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
-    "author": "stevekemp",
-    "date": "2026-05-28",
-    "score": 85,
-    "comments": 22,
-    "id": 48313142,
-    "discussion_url": "https://news.ycombinator.com/item?id=48313142",
-    "description": "The Lone Lisp Heap",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932592"
-  },
-  {
-    "title": "The Permanent Upper Crow",
-    "url": "https://permanent-upper-crow.jasonwu.ink/",
-    "author": "whiteblossom",
-    "date": "2026-05-28",
-    "score": 193,
-    "comments": 74,
-    "id": 48310280,
-    "discussion_url": "https://news.ycombinator.com/item?id=48310280",
-    "description": "The Permanent Upper Crow",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932502"
-  },
-  {
-    "title": "The most unlikely school bag",
-    "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
-    "author": "surprisetalk",
-    "date": "2026-05-25",
-    "score": 126,
-    "comments": 41,
-    "id": 48266757,
-    "discussion_url": "https://news.ycombinator.com/item?id=48266757",
-    "description": "The most unlikely school bag",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932571"
-  },
-  {
-    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-    "author": "freediver",
+    "title": "Let's compile Quake like it's 1997",
+    "url": "https://fabiensanglard.net/compile_like_1997/",
+    "author": "goranmoomin",
     "date": "2026-05-29",
-    "score": 84,
-    "comments": 64,
-    "id": 48317294,
-    "discussion_url": "https://news.ycombinator.com/item?id=48317294",
-    "description": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "score": 188,
+    "comments": 60,
+    "id": 48318522,
+    "discussion_url": "https://news.ycombinator.com/item?id=48318522",
+    "description": "Let's compile Quake like it's 1997",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932585"
+    "fetched_at": "2026-05-29T19:50:30.328171"
   },
   {
-    "title": "Various LLM Smells",
-    "url": "https://shvbsle.in/various-llm-smells/",
-    "author": "speckx",
-    "date": "2026-05-28",
-    "score": 323,
-    "comments": 257,
-    "id": 48313810,
-    "discussion_url": "https://news.ycombinator.com/item?id=48313810",
-    "description": "Various LLM Smells",
+    "title": "Local Git remotes",
+    "url": "https://cblgh.org/posts/local-git-remotes/",
+    "author": "surprisetalk",
+    "date": "2026-05-29",
+    "score": 69,
+    "comments": 56,
+    "id": 48322389,
+    "discussion_url": "https://news.ycombinator.com/item?id=48322389",
+    "description": "Local Git remotes",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932552"
+    "fetched_at": "2026-05-29T19:50:30.328142"
+  },
+  {
+    "title": "Notes from the Mistral AI Now Summit in Paris",
+    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "author": "vnglst",
+    "date": "2026-05-29",
+    "score": 214,
+    "comments": 53,
+    "id": 48325340,
+    "discussion_url": "https://news.ycombinator.com/item?id=48325340",
+    "description": "Notes from the Mistral AI Now Summit in Paris",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328059"
+  },
+  {
+    "title": "Orchestrating AI code review at scale",
+    "url": "https://blog.cloudflare.com/ai-code-review/",
+    "author": "pramodbiligiri",
+    "date": "2026-05-26",
+    "score": 119,
+    "comments": 48,
+    "id": 48276152,
+    "discussion_url": "https://news.ycombinator.com/item?id=48276152",
+    "description": "Orchestrating AI code review at scale",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328159"
+  },
+  {
+    "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+    "author": "NicoConstant",
+    "date": "2026-05-29",
+    "score": 184,
+    "comments": 81,
+    "id": 48321076,
+    "discussion_url": "https://news.ycombinator.com/item?id=48321076",
+    "description": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328138"
+  },
+  {
+    "title": "Robinhood now lets your AI agents trade stocks",
+    "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+    "author": "wapasta",
+    "date": "2026-05-29",
+    "score": 57,
+    "comments": 88,
+    "id": 48326659,
+    "discussion_url": "https://news.ycombinator.com/item?id=48326659",
+    "description": "Robinhood now lets your AI agents trade stocks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328105"
+  },
+  {
+    "title": "SQLite is all you need for durable workflows",
+    "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+    "author": "tomasol",
+    "date": "2026-05-29",
+    "score": 127,
+    "comments": 61,
+    "id": 48326802,
+    "discussion_url": "https://news.ycombinator.com/item?id=48326802",
+    "description": "SQLite is all you need for durable workflows",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328028"
+  },
+  {
+    "title": "Someone used my open source project to phish people",
+    "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
+    "author": "andrejsshell",
+    "date": "2026-05-29",
+    "score": 68,
+    "comments": 38,
+    "id": 48322753,
+    "discussion_url": "https://news.ycombinator.com/item?id=48322753",
+    "description": "Someone used my open source project to phish people",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328135"
+  },
+  {
+    "title": "The UK government's Low Value Purchase System is a waste of time",
+    "url": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
+    "author": "ColinWright",
+    "date": "2026-05-29",
+    "score": 130,
+    "comments": 84,
+    "id": 48322154,
+    "discussion_url": "https://news.ycombinator.com/item?id=48322154",
+    "description": "The UK government's Low Value Purchase System is a waste of time",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328253"
+  },
+  {
+    "title": "The dead economy theory",
+    "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+    "author": "WillDaSilva",
+    "date": "2026-05-29",
+    "score": 329,
+    "comments": 435,
+    "id": 48324712,
+    "discussion_url": "https://news.ycombinator.com/item?id=48324712",
+    "description": "The dead economy theory",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328050"
+  },
+  {
+    "title": "Tulip mania: when a single flower was worth more than a house (2025)",
+    "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
+    "author": "dotcoma",
+    "date": "2026-05-29",
+    "score": 133,
+    "comments": 116,
+    "id": 48321956,
+    "discussion_url": "https://news.ycombinator.com/item?id=48321956",
+    "description": "Tulip mania: when a single flower was worth more than a house (2025)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328166"
   },
   {
     "title": "Volkswagen blocks Home Assistant by requiring client assertion",
     "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
     "author": "Kwastie",
     "date": "2026-05-29",
-    "score": 226,
-    "comments": 113,
+    "score": 355,
+    "comments": 176,
     "id": 48319509,
     "discussion_url": "https://news.ycombinator.com/item?id=48319509",
     "description": "Volkswagen blocks Home Assistant by requiring client assertion",
@@ -490,23 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932415"
+    "fetched_at": "2026-05-29T19:50:30.328202"
   },
   {
-    "title": "YouTube to automatically label AI-generated videos",
-    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "author": "nopg",
-    "date": "2026-05-27",
-    "score": 1292,
-    "comments": 790,
-    "id": 48299753,
-    "discussion_url": "https://news.ycombinator.com/item?id=48299753",
-    "description": "YouTube to automatically label AI-generated videos",
+    "title": "We should be more tired than the model",
+    "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+    "author": "tosh",
+    "date": "2026-05-29",
+    "score": 121,
+    "comments": 97,
+    "id": 48322118,
+    "discussion_url": "https://news.ycombinator.com/item?id=48322118",
+    "description": "We should be more tired than the model",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-29T12:06:54.932556"
+    "fetched_at": "2026-05-29T19:50:30.328112"
+  },
+  {
+    "title": "Where are the economies of scale in homebuilding?",
+    "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+    "author": "JumpCrisscross",
+    "date": "2026-05-29",
+    "score": 89,
+    "comments": 122,
+    "id": 48317339,
+    "discussion_url": "https://news.ycombinator.com/item?id=48317339",
+    "description": "Where are the economies of scale in homebuilding?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-29T19:50:30.328275"
   }
 ]

@@ -1,10 +1,10 @@
 ---
 title: 'Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool! - DEV Community'
-url: https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41?bb=263525
+url: https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41?bb=263524
 site_name: devto
 content_file: devto-join-the-github-finish-up-a-thon-challenge-3000-pr
-fetched_at: '2026-05-29T12:06:58.218821'
-original_url: https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41?bb=263525
+fetched_at: '2026-05-29T19:50:35.071936'
+original_url: https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41?bb=263524
 author: Jess Lee
 date: '2026-05-21'
 description: We're thrilled to announce our newest challenge with GitHub! Running through June 7, the GitHub... Tagged with githubchallenge, devchallenge, githubcopilot.
@@ -77,7 +77,7 @@ Preview
 
 Dismiss
 
- View full discussion (75 comments)
+ View full discussion (77 comments)
  
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.

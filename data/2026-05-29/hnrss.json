@@ -1,242 +1,167 @@
 [
   {
-    "title": "Blue Origin's New Glenn blows up during static fire test",
-    "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-    "description": "Blue Origin's New Glenn blows up during static fire test",
+    "title": "Bijou64: A variable-length integer encoding",
+    "url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "description": "Bijou64: A variable-length integer encoding",
     "date": "2026-05-29",
-    "score": 310,
-    "comments": 313,
-    "discussion_url": "https://news.ycombinator.com/item?id=48317774",
+    "score": 171,
+    "comments": 63,
+    "discussion_url": "https://news.ycombinator.com/item?id=48323992",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387543"
+    "fetched_at": "2026-05-29T19:50:43.734818"
   },
   {
-    "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-    "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-    "description": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-    "date": "2026-05-28",
-    "score": 1034,
-    "comments": 478,
-    "discussion_url": "https://news.ycombinator.com/item?id=48314136",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387578"
-  },
-  {
-    "title": "Building durable workflows on Postgres",
-    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-    "description": "Building durable workflows on Postgres",
-    "date": "2026-05-28",
-    "score": 323,
-    "comments": 137,
-    "discussion_url": "https://news.ycombinator.com/item?id=48313530",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387611"
-  },
-  {
-    "title": "Cars collect a startling amount of data about you",
-    "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-    "description": "Cars collect a startling amount of data about you",
+    "title": "GTA 6 Developers Unionize",
+    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+    "description": "GTA 6 Developers Unionize",
     "date": "2026-05-29",
-    "score": 378,
-    "comments": 182,
-    "discussion_url": "https://news.ycombinator.com/item?id=48318481",
+    "score": 413,
+    "comments": 252,
+    "discussion_url": "https://news.ycombinator.com/item?id=48324499",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387516"
+    "fetched_at": "2026-05-29T19:50:43.734808"
   },
   {
-    "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
-    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-    "description": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+    "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+    "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
+    "description": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
     "date": "2026-05-29",
-    "score": 160,
-    "comments": 31,
-    "discussion_url": "https://news.ycombinator.com/item?id=48318174",
+    "score": 126,
+    "comments": 41,
+    "discussion_url": "https://news.ycombinator.com/item?id=48322241",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387530"
+    "fetched_at": "2026-05-29T19:50:43.734860"
   },
   {
-    "title": "Claude Opus 4.8",
-    "url": "https://www.anthropic.com/news/claude-opus-4-8",
-    "description": "Claude Opus 4.8",
-    "date": "2026-05-28",
-    "score": 1590,
-    "comments": 1244,
-    "discussion_url": "https://news.ycombinator.com/item?id=48311647",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387623"
-  },
-  {
-    "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
-    "url": "https://coalton-lang.github.io/",
-    "description": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
-    "date": "2026-05-26",
-    "score": 168,
-    "comments": 31,
-    "discussion_url": "https://news.ycombinator.com/item?id=48280451",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387667"
-  },
-  {
-    "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-    "description": "GitHub bans security researcher who posted zero-day Windows exploits",
-    "date": "2026-05-28",
-    "score": 444,
-    "comments": 206,
-    "discussion_url": "https://news.ycombinator.com/item?id=48315968",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387555"
-  },
-  {
-    "title": "I made a million dollar product from my dorm room (2025)",
-    "url": "https://nick.winans.io/blog/nice-nano/",
-    "description": "I made a million dollar product from my dorm room (2025)",
-    "date": "2026-05-28",
-    "score": 455,
-    "comments": 68,
-    "discussion_url": "https://news.ycombinator.com/item?id=48314951",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387567"
-  },
-  {
-    "title": "Indoor Wi-Fi Roaming with OpenWRT",
-    "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-    "description": "Indoor Wi-Fi Roaming with OpenWRT",
-    "date": "2026-05-26",
-    "score": 251,
-    "comments": 120,
-    "discussion_url": "https://news.ycombinator.com/item?id=48282180",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387656"
-  },
-  {
-    "title": "News about Raspberry Pi 6 and Microcontroller Development",
-    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-    "description": "News about Raspberry Pi 6 and Microcontroller Development",
-    "date": "2026-05-26",
-    "score": 210,
-    "comments": 171,
-    "discussion_url": "https://news.ycombinator.com/item?id=48276598",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387677"
-  },
-  {
-    "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-    "description": "Nitpicking the shell history scene in 'Tron: Legacy'",
-    "date": "2026-05-28",
-    "score": 269,
-    "comments": 91,
-    "discussion_url": "https://news.ycombinator.com/item?id=48314002",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387598"
-  },
-  {
-    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-    "url": "https://llmgame.scalex.dev",
-    "description": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-    "date": "2026-05-28",
-    "score": 336,
-    "comments": 135,
-    "discussion_url": "https://news.ycombinator.com/item?id=48308376",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387646"
-  },
-  {
-    "title": "Ten Basic Clouds",
-    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-    "description": "Ten Basic Clouds",
-    "date": "2026-05-24",
-    "score": 134,
-    "comments": 38,
-    "discussion_url": "https://news.ycombinator.com/item?id=48261377",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387687"
-  },
-  {
-    "title": "The Permanent Upper Crow",
-    "url": "https://permanent-upper-crow.jasonwu.ink/",
-    "description": "The Permanent Upper Crow",
-    "date": "2026-05-28",
-    "score": 193,
-    "comments": 74,
-    "discussion_url": "https://news.ycombinator.com/item?id=48310280",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387634"
-  },
-  {
-    "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-    "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-    "description": "Volkswagen blocks Home Assistant by requiring client assertion",
+    "title": "I am retiring from tech to live offline",
+    "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+    "description": "I am retiring from tech to live offline",
     "date": "2026-05-29",
-    "score": 226,
-    "comments": 113,
-    "discussion_url": "https://news.ycombinator.com/item?id=48319509",
+    "score": 606,
+    "comments": 421,
+    "discussion_url": "https://news.ycombinator.com/item?id=48323683",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-05-29T12:07:02.387492"
+    "fetched_at": "2026-05-29T19:50:43.734840"
+  },
+  {
+    "title": "Is AI causing a repeat of frontend’s lost decade?",
+    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "description": "Is AI causing a repeat of frontend’s lost decade?",
+    "date": "2026-05-29",
+    "score": 208,
+    "comments": 191,
+    "discussion_url": "https://news.ycombinator.com/item?id=48321631",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-29T19:50:43.734883"
+  },
+  {
+    "title": "It's hard to justify buying a Framework 12",
+    "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+    "description": "It's hard to justify buying a Framework 12",
+    "date": "2026-05-29",
+    "score": 125,
+    "comments": 220,
+    "discussion_url": "https://news.ycombinator.com/item?id=48323869",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-29T19:50:43.734830"
+  },
+  {
+    "title": "Notes from the Mistral AI Now Summit in Paris",
+    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "description": "Notes from the Mistral AI Now Summit in Paris",
+    "date": "2026-05-29",
+    "score": 214,
+    "comments": 53,
+    "discussion_url": "https://news.ycombinator.com/item?id=48325340",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-29T19:50:43.734783"
+  },
+  {
+    "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+    "description": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "date": "2026-05-29",
+    "score": 184,
+    "comments": 81,
+    "discussion_url": "https://news.ycombinator.com/item?id=48321076",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-29T19:50:43.734894"
+  },
+  {
+    "title": "SQLite is all you need for durable workflows",
+    "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+    "description": "SQLite is all you need for durable workflows",
+    "date": "2026-05-29",
+    "score": 127,
+    "comments": 61,
+    "discussion_url": "https://news.ycombinator.com/item?id=48326802",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-29T19:50:43.734761"
+  },
+  {
+    "title": "The dead economy theory",
+    "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+    "description": "The dead economy theory",
+    "date": "2026-05-29",
+    "score": 329,
+    "comments": 435,
+    "discussion_url": "https://news.ycombinator.com/item?id=48324712",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-29T19:50:43.734796"
+  },
+  {
+    "title": "We should be more tired than the model",
+    "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+    "description": "We should be more tired than the model",
+    "date": "2026-05-29",
+    "score": 121,
+    "comments": 97,
+    "discussion_url": "https://news.ycombinator.com/item?id=48322118",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-05-29T19:50:43.734872"
   }
 ]
