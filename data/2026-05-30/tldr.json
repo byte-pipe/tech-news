@@ -1000,16 +1000,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Slack AI: The Path to Multi-Cloud (17 minute read)",
-    "url": "https://slack.engineering/slack-ai-the-path-to-multi-cloud/",
-    "description": "Slack AI: The Path to Multi-Cloud (17 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-05-30",
-    "site_name": "tldr"
-  },
-  {
     "title": "Snowflake to Acquire Natoma to Bring Governed Agentic Access to the Enterprise (7 minute read)",
     "url": "https://www.snowflake.com/en/blog/snowflake-acquire-natoma-governed-agentic-access/",
     "description": "Snowflake to Acquire Natoma to Bring Governed Agentic Access to the Enterprise (7 minute read)",
@@ -1393,6 +1383,16 @@
     "title": "iOS 27 leak reveals new Siri design, Camera app, more (4 minute read)",
     "url": "https://9to5mac.com/2026/05/28/ios-27-leak-reveals-new-siri-design-camera-app-more/",
     "description": "iOS 27 leak reveals new Siri design, Camera app, more (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-05-30",
+    "site_name": "tldr"
+  },
+  {
+    "title": "ktx (GitHub Repo)",
+    "url": "https://github.com/Kaelio/ktx",
+    "description": "ktx (GitHub Repo)",
     "tags": [
       "tldr"
     ],
