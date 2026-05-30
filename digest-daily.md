@@ -1,67 +1,75 @@
 ---
-date: '2026-05-30'
+date: '2026-05-31'
 model: gpt-oss:120b-cloud
-generated_at: '2026-05-30T18:00:22.139278'
+generated_at: '2026-05-31T06:02:19.993308'
 ---
 
 ## Executive Summary
-Anthropic surged ahead of OpenAI, announcing a $965 billion valuation and a $47 billion revenue run rate driven by Claude Code. The company also unveiled a major memory‑architecture overhaul for Claude, introducing “Memory Files” and the asynchronous “Dreams” process. In the broader AI space, Claude’s new dynamic‑workflow capability promises to compress months‑long development cycles into days. Public health officials warned that the Texas measles outbreak has a 20 % hospitalization rate, underscoring the dangers of declining vaccination coverage. Meanwhile, Mexico’s Senate moved forward on a controversial constitutional amendment that could void elections on vague “foreign interference” grounds.  
+- AI‑related financing surged, highlighted by OpenRouter’s $113 M Series B round and a shift toward board‑level FinOps oversight of AI spend.  
+- Regulatory controversy erupted in the UK over the decision not to extradite a Canadian suicide‑kit supplier, sparking anger from victims’ families.  
+- The tech landscape saw major product moves: a wave of AI‑enhanced browsers, Ferrari’s Jony Ive‑styled electric supercar, and Firefox’s Nova redesign emphasizing privacy and compact UI.  
+- Security alerts warned law firms of a new “Silent Ransom” USB‑drive extortion scheme, while developers tackled large‑scale code‑review performance with new virtualization tools.  
+- In sports, Liverpool’s title‑winning manager Arne Slot was dismissed amid a costly transfer spree and off‑field tragedies.
 
 ---
 
 ## AI and Machine Learning
 
-### 🗓️ Monthly Dev Report: May 2026 – DEV Community [devto]  
-The DEV Community’s monthly roundup highlighted a surge of engagement around Tailwind debates, a Gemma 4 analysis post, and a “technical writer” piece, while noting several merged pull requests and upcoming community goals.  
+### OpenRouter Raises $113 M Series B | OpenRouter (hackernews_api)  
+OpenRouter announced a $113 million Series B led by investors to expand its open‑source LLM routing platform, aiming to lower entry barriers for AI developers and accelerate model interoperability.
 
-### Let’s compile Quake like it’s 1997! [hackernews_api]  
-A step‑by‑step guide shows how to rebuild the original Quake Windows binaries using Visual C++ 6 on legacy hardware or virtual machines, emphasizing the quirks of 1990s development environments.  
+### Anger at decision not to prosecute Canadian suicide kit supplier in UK | The Guardian (newsfeed)  
+The UK’s National Crime Agency and Crown Prosecution Service chose not to extradite Kenneth Law, a Canadian who supplied suicide kits linked to 79 UK deaths, prompting families to label the move “insulting” and call for a public inquiry.
 
-### The UK Government’s Low Value Purchase System is a Waste of Time – Terence Eden’s Blog [hackernews_api]  
-Eden argues that the mandatory monthly “nil business” reporting for the RM6237 system forces over a thousand small suppliers to waste two‑minute admin tasks each month, amounting to more than two full workdays of lost productivity.  
+### Arne Slot sacking completes a remarkable fall from grace | BBC Sport (newsfeed)  
+Liverpool dismissed manager Arne Slot a year after a Premier League title, citing an ineffective £450 million transfer spree, strained player relations, and a perception that the squad had become “mediocre and unbalanced.”
 
-### Tulip mania: when a single flower was worth more than a house [hackernews_api]  
-The piece recounts the 1630s Dutch tulip bubble, illustrating how speculative futures contracts turned bulbs into mansion‑priced assets before a rapid crash in 1637.  
+### Arrive three hours before flight home, airline boss tells UK holidaymakers | Wizz Air UK (newsfeed)  
+Wizz Air’s UK managing director warned travelers to allow three‑hour airport arrivals this summer due to EU Entry‑Exit System delays, recommending chargers, water, and generous layover buffers.
 
-### Aim high but don’t shoot for the moon, mathematicians advise | New Scientist [newsfeed]  
-Researchers model optimal ambition as a “moderately high” target—above average but below the maximum—showing that this balance maximizes satisfaction across varied risk scenarios.  
+### As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch (newsfeed)  
+TechCrunch profiled a growing field of AI‑powered browsers (Perplexity Comet, The Browser Company Dia, OpenAI Atlas) and privacy‑focused options (Brave, DuckDuckGo, Ladybird), noting many adopt subscription or wait‑list models as Chrome and Safari retain dominance.
 
-### AirDoctor Coupon Codes: 40% Off | June 2026 | WIRED [newsfeed]  
-WIRED outlines discounts on AirDoctor air purifiers, emphasizing health benefits amid pandemic and wildfire concerns and advising buyers to match purifier capacity to room size.  
+### Ferrari Luce EV debuts with Jony Ive‑designed cockpit | 9to5Mac (tldr)  
+Ferrari unveiled the Luce, its first electric supercar, featuring a minimalist, tactile cockpit crafted by Jony Ive’s LoveFrom studio, emphasizing physical controls over touchscreens.
 
-### Anthropic plans Claude memory update with new Memory Files [tldr]  
-Anthropic will let Claude store cross‑session notes in structured “Memory Files” and run a “Dreams” consolidation process, offering a more durable, wiki‑like memory without exceeding context windows.  
+---
 
-### Anthropic tops OpenAI as most valuable AI startup, nears $1 T valuation [tldr]  
-A $65 billion Series H round lifts Anthropic’s valuation to $965 billion, overtaking OpenAI; revenue jumps to $47 billion, driven by Claude Code, while both firms eye imminent IPOs.  
+## Cybersecurity and Privacy
+
+### FBI: Crooks enter legal offices and steal data via USB drive | FBI warning (tldr)  
+The FBI alerted U.S. law firms to the “Silent Ransom Group,” which uses in‑person USB‑drive theft and remote “callback phishing” to exfiltrate confidential data, then extorts firms for its return, prompting recommendations to lock USB ports and enforce strict verification.
 
 ---
 
 ## Software Engineering and Dev Tools
 
-### Your Inbox Knows Too Much: Parsli for the Privacy Paranoid – DEV Community [devto]  
-The open‑source Parsli tool extracts shipment data from Gmail locally, using deterministic rules for 55 % of cases and Gemma 4 for the remaining 38 %, delivering a transparent, privacy‑preserving workflow.  
+### On Rendering Diffs :: Pierre Computer Company | Hacker News (hackernews_api)  
+Pierre Computer released “CodeView,” a virtualization‑first component that renders massive code diffs instantly in browsers, addressing DOM size, memory, and performance bottlenecks of traditional review tools.
 
-### Introducing dynamic workflows | Claude [hackernews_api]  
-Claude’s new dynamic‑workflow feature lets the model orchestrate hundreds of parallel sub‑agents to tackle large code‑base audits, migrations, and verification tasks, dramatically shortening project timelines.  
+### Print with dozens of colors: Our new open‑source ColorMix for EasyPrint and PrusaSlicer | Original Prusa 3D Printers (hackernews_api)  
+Prusa introduced ColorMix, an open‑source CMYKW color‑mixing model integrated into PrusaSlicer and EasyPrint, enabling multi‑material FDM printers to produce dozens of hues using layered filament blending.
+
+### The Last Technical Interview – Steve Yegge | Medium (hackernews_api)  
+Steve Yegge argued that conventional technical interviews are broken—yielding inconsistent, biased, and poor‑predictive outcomes—and called for a radical redesign of talent assessment, though no clear alternative yet exists.
+
+### Voxel Space | VoxelSpace (hackernews_api)  
+A deep dive into NovaLogic’s 1992 Voxel Space engine explained its 2.5‑D terrain rendering technique, offering modern developers a lightweight Python example and performance tricks like front‑to‑back rendering and LOD.
+
+### Firefox Project Nova redesign brings compact mode and new look | tldr (tldr)  
+Mozilla unveiled the Nova UI refresh: rounded tabs, a new fire‑inspired palette, re‑added compact mode, and stronger privacy tools (built‑in VPN), aiming to regain market share against AI‑centric competitors.
+
+### Thread by @falconfinance on Thread Reader App | Thread Reader App (tldr)  
+*Content not provided; unable to summarize.*
 
 ---
 
-## Science and Research
+## Cloud and Infrastructure
 
-### Analysis of Texas measles outbreak shows just how dangerous virus is – Ars Technica [newsfeed]  
-A study of the 2025‑2026 Texas outbreak found 18.5 % of 325 cases required hospitalization, with severe complications such as pneumonia and hypoxia, reinforcing the critical need for vaccination.  
-
----
-
-## World News and Geopolitics
-
-### Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’ – The Guardian [newsfeed]  
-Mexico’s Senate approved a constitutional amendment that could void election results on broadly defined “foreign interference,” sparking fears that the ruling party could use the law to overturn unfavorable outcomes.  
+### FinOps becomes a boardroom strategy for AI spending | SiliconANGLE (tldr)  
+FinOps has moved from cost reporting to a strategic, board‑level function, with AI now driving 98 % of FinOps involvement; the discipline now emphasizes “shift‑left” cost governance, token‑based pricing models, and aligning spend with measurable business outcomes.
 
 ---
 
 ## Notable Mentions
-- Apple working to cram massive Gemini model into iPhone to power new Siri – Ars Technica [tldr]  
-- Beyond code generation: rethinking engineering productivity in the age of AI agents – Dropbox [tldr]  
-- Building an AI‑Native Paid Ads System – [tldr]
+- *(No additional items reported today.)*
