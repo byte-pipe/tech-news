@@ -1,28 +1,62 @@
 [
   {
-    "title": "AI job grief: A psychological crisis hitting tech workers",
-    "url": "https://jackmaguire.org/blog/ai-job-grief/",
-    "author": "LilBytes",
-    "date": "2026-05-30",
-    "score": 154,
-    "comments": 154,
-    "id": 48336760,
-    "discussion_url": "https://news.ycombinator.com/item?id=48336760",
-    "description": "AI job grief: A psychological crisis hitting tech workers",
+    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+    "url": "https://prismml.com/news/bonsai-image-4b",
+    "author": "modinfo",
+    "date": "2026-05-31",
+    "score": 157,
+    "comments": 59,
+    "id": 48346257,
+    "discussion_url": "https://news.ycombinator.com/item?id=48346257",
+    "description": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403936"
+    "fetched_at": "2026-05-31T19:32:31.656281"
+  },
+  {
+    "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+    "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+    "author": "jayhoon",
+    "date": "2026-05-29",
+    "score": 153,
+    "comments": 14,
+    "id": 48318624,
+    "discussion_url": "https://news.ycombinator.com/item?id=48318624",
+    "description": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-31T19:32:31.656321"
+  },
+  {
+    "title": "A pictorial introduction to differential geometry (2017)",
+    "url": "https://arxiv.org/abs/1709.08492",
+    "author": "ricudis",
+    "date": "2026-05-31",
+    "score": 111,
+    "comments": 4,
+    "id": 48343287,
+    "discussion_url": "https://news.ycombinator.com/item?id=48343287",
+    "description": "A pictorial introduction to differential geometry (2017)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-31T19:32:31.656317"
   },
   {
     "title": "Accenture to acquire Ookla",
     "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
     "author": "Garbage",
     "date": "2026-05-30",
-    "score": 292,
-    "comments": 147,
+    "score": 314,
+    "comments": 165,
     "id": 48337987,
     "discussion_url": "https://news.ycombinator.com/item?id=48337987",
     "description": "Accenture to acquire Ookla",
@@ -31,15 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403804"
+    "fetched_at": "2026-05-31T19:32:31.656344"
+  },
+  {
+    "title": "Avian Visitors",
+    "url": "https://theodore.net/projects/AvianVisitors/",
+    "author": "fdb",
+    "date": "2026-05-31",
+    "score": 107,
+    "comments": 11,
+    "id": 48343424,
+    "discussion_url": "https://news.ycombinator.com/item?id=48343424",
+    "description": "Avian Visitors",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-31T19:32:31.656325"
   },
   {
     "title": "Cheese Paper: a text editor specifically designed for writing",
     "url": "https://brie.gay/cheese-paper/",
     "author": "sohkamyung",
     "date": "2026-05-30",
-    "score": 111,
-    "comments": 29,
+    "score": 137,
+    "comments": 38,
     "id": 48341407,
     "discussion_url": "https://news.ycombinator.com/item?id=48341407",
     "description": "Cheese Paper: a text editor specifically designed for writing",
@@ -48,15 +99,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403819"
+    "fetched_at": "2026-05-31T19:32:31.656418"
+  },
+  {
+    "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+    "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+    "author": "HypnoticOcelot",
+    "date": "2026-05-31",
+    "score": 305,
+    "comments": 163,
+    "id": 48345840,
+    "discussion_url": "https://news.ycombinator.com/item?id=48345840",
+    "description": "Cloudflare Turnstile requiring fingerprintable WebGL",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-31T19:32:31.656155"
+  },
+  {
+    "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+    "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+    "author": "MrJagil",
+    "date": "2026-05-31",
+    "score": 275,
+    "comments": 186,
+    "id": 48346947,
+    "discussion_url": "https://news.ycombinator.com/item?id=48346947",
+    "description": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-31T19:32:31.656223"
+  },
+  {
+    "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+    "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+    "author": "c-oreills",
+    "date": "2026-05-31",
+    "score": 102,
+    "comments": 16,
+    "id": 48346629,
+    "discussion_url": "https://news.ycombinator.com/item?id=48346629",
+    "description": "Daily pill can double survival time for deadliest cancer, trial shows",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-31T19:32:31.656214"
+  },
+  {
+    "title": "Dav2d",
+    "url": "https://jbkempf.com/blog/2026/dav2d/",
+    "author": "captain_bender",
+    "date": "2026-05-31",
+    "score": 335,
+    "comments": 113,
+    "id": 48344961,
+    "discussion_url": "https://news.ycombinator.com/item?id=48344961",
+    "description": "Dav2d",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-31T19:32:31.656185"
   },
   {
     "title": "Domain expertise has always been the real moat",
     "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
     "author": "aaronbrethorst",
     "date": "2026-05-30",
-    "score": 631,
-    "comments": 390,
+    "score": 788,
+    "comments": 495,
     "id": 48340411,
     "discussion_url": "https://news.ycombinator.com/item?id=48340411",
     "description": "Domain expertise has always been the real moat",
@@ -65,32 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403760"
-  },
-  {
-    "title": "Dusklight – GC Twilight Princess Decompiled",
-    "url": "https://twilitrealm.dev/",
-    "author": "shepherdjerred",
-    "date": "2026-05-30",
-    "score": 101,
-    "comments": 14,
-    "id": 48340262,
-    "discussion_url": "https://news.ycombinator.com/item?id=48340262",
-    "description": "Dusklight – GC Twilight Princess Decompiled",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403861"
+    "fetched_at": "2026-05-31T19:32:31.656305"
   },
   {
     "title": "I found a seashell in the middle of the desert",
     "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
     "author": "Hawzen",
     "date": "2026-05-29",
-    "score": 340,
-    "comments": 93,
+    "score": 403,
+    "comments": 106,
     "id": 48318402,
     "discussion_url": "https://news.ycombinator.com/item?id=48318402",
     "description": "I found a seashell in the middle of the desert",
@@ -99,100 +201,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403775"
+    "fetched_at": "2026-05-31T19:32:31.656328"
   },
   {
-    "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
-    "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
-    "author": "amichail",
-    "date": "2026-05-27",
-    "score": 189,
-    "comments": 86,
-    "id": 48298912,
-    "discussion_url": "https://news.ycombinator.com/item?id=48298912",
-    "description": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
+    "title": "I put a datacenter GPU in my gaming PC",
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "author": "birdculture",
+    "date": "2026-05-31",
+    "score": 203,
+    "comments": 133,
+    "id": 48345694,
+    "discussion_url": "https://news.ycombinator.com/item?id=48345694",
+    "description": "I put a datacenter GPU in my gaming PC",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403891"
+    "fetched_at": "2026-05-31T19:32:31.656175"
   },
   {
-    "title": "It takes two neurons to ride a bicycle (2004)",
-    "url": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
-    "author": "malshe",
-    "date": "2026-05-26",
-    "score": 118,
-    "comments": 48,
-    "id": 48282335,
-    "discussion_url": "https://news.ycombinator.com/item?id=48282335",
-    "description": "It takes two neurons to ride a bicycle (2004)",
+    "title": "London's Free Roof Terraces",
+    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+    "author": "zeristor",
+    "date": "2026-05-31",
+    "score": 226,
+    "comments": 122,
+    "id": 48343714,
+    "discussion_url": "https://news.ycombinator.com/item?id=48343714",
+    "description": "London's Free Roof Terraces",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403902"
+    "fetched_at": "2026-05-31T19:32:31.656257"
   },
   {
-    "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
-    "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
-    "author": "tylerdane",
-    "date": "2026-05-30",
-    "score": 109,
-    "comments": 50,
-    "id": 48339894,
-    "discussion_url": "https://news.ycombinator.com/item?id=48339894",
-    "description": "Jef Raskin, the Visionary Behind the Mac (2013)",
+    "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
+    "url": "https://mechanical-pencil.com/",
+    "author": "Muhammad523",
+    "date": "2026-05-31",
+    "score": 159,
+    "comments": 22,
+    "id": 48341932,
+    "discussion_url": "https://news.ycombinator.com/item?id=48341932",
+    "description": "Mechanical Pencil: An illustrated celebration of the engineering around us",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403784"
-  },
-  {
-    "title": "Leo's first encyclical attacks technological messianism",
-    "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-    "author": "1vuio0pswjnm7",
-    "date": "2026-05-30",
-    "score": 219,
-    "comments": 263,
-    "id": 48334710,
-    "discussion_url": "https://news.ycombinator.com/item?id=48334710",
-    "description": "Leo's first encyclical attacks technological messianism",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403868"
-  },
-  {
-    "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
-    "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
-    "author": "pwg",
-    "date": "2026-05-30",
-    "score": 115,
-    "comments": 21,
-    "id": 48338656,
-    "discussion_url": "https://news.ycombinator.com/item?id=48338656",
-    "description": "Microcode inside the Intel 8087 floating-point chip: register exchange",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403864"
+    "fetched_at": "2026-05-31T19:32:31.656355"
   },
   {
     "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
     "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
     "author": "antipurist",
     "date": "2026-05-30",
-    "score": 885,
-    "comments": 307,
+    "score": 967,
+    "comments": 357,
     "id": 48341578,
     "discussion_url": "https://news.ycombinator.com/item?id=48341578",
     "description": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
@@ -201,32 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403823"
+    "fetched_at": "2026-05-31T19:32:31.656383"
   },
   {
-    "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-    "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-    "author": "myzek",
-    "date": "2026-05-26",
-    "score": 227,
-    "comments": 28,
-    "id": 48286745,
-    "discussion_url": "https://news.ycombinator.com/item?id=48286745",
-    "description": "Navier-Stokes fluid simulation explained with Godot game engine",
+    "title": "One year of Roto, a compiled scripting language for Rust",
+    "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+    "author": "Hasnep",
+    "date": "2026-05-29",
+    "score": 101,
+    "comments": 26,
+    "id": 48323303,
+    "discussion_url": "https://news.ycombinator.com/item?id=48323303",
+    "description": "One year of Roto, a compiled scripting language for Rust",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403876"
+    "fetched_at": "2026-05-31T19:32:31.656313"
   },
   {
     "title": "OpenRouter raises $113M Series B",
     "url": "https://openrouter.ai/announcements/series-b",
     "author": "freeCandy",
     "date": "2026-05-30",
-    "score": 429,
-    "comments": 205,
+    "score": 447,
+    "comments": 234,
     "id": 48338660,
     "discussion_url": "https://news.ycombinator.com/item?id=48338660",
     "description": "OpenRouter raises $113M Series B",
@@ -235,49 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403850"
-  },
-  {
-    "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-    "url": "https://github.com/kristapsdz/openrsync",
-    "author": "sph",
-    "date": "2026-05-30",
-    "score": 421,
-    "comments": 157,
-    "id": 48334854,
-    "discussion_url": "https://news.ycombinator.com/item?id=48334854",
-    "description": "Openrsync: An implementation of rsync, by the OpenBSD team",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403780"
-  },
-  {
-    "title": "Pandoc Templates",
-    "url": "https://pandoc-templates.org/",
-    "author": "ankitg12",
-    "date": "2026-05-30",
-    "score": 405,
-    "comments": 52,
-    "id": 48334515,
-    "discussion_url": "https://news.ycombinator.com/item?id=48334515",
-    "description": "Pandoc Templates",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403812"
+    "fetched_at": "2026-05-31T19:32:31.656421"
   },
   {
     "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
     "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
     "author": "jerrythegerbil",
     "date": "2026-05-30",
-    "score": 105,
-    "comments": 44,
+    "score": 121,
+    "comments": 63,
     "id": 48339943,
     "discussion_url": "https://news.ycombinator.com/item?id=48339943",
     "description": "Parallel Reconstruction of Lawful TLS Wiretapping",
@@ -286,32 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403816"
-  },
-  {
-    "title": "Please Do Not Vibe Fuck Up This Software",
-    "url": "https://github.com/RsyncProject/rsync/issues/929",
-    "author": "justdotJS",
-    "date": "2026-05-31",
-    "score": 297,
-    "comments": 192,
-    "id": 48342705,
-    "discussion_url": "https://news.ycombinator.com/item?id=48342705",
-    "description": "Please Do Not Vibe Fuck Up This Software",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403846"
+    "fetched_at": "2026-05-31T19:32:31.656415"
   },
   {
     "title": "Racket v9.2",
     "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
     "author": "spdegabrielle",
     "date": "2026-05-28",
-    "score": 129,
-    "comments": 14,
+    "score": 221,
+    "comments": 26,
     "id": 48306713,
     "discussion_url": "https://news.ycombinator.com/item?id=48306713",
     "description": "Racket v9.2",
@@ -320,32 +337,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403857"
+    "fetched_at": "2026-05-31T19:32:31.656359"
   },
   {
-    "title": "SQLite is all you need for durable workflows",
-    "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-    "author": "tomasol",
-    "date": "2026-05-29",
-    "score": 681,
-    "comments": 373,
-    "id": 48326802,
-    "discussion_url": "https://news.ycombinator.com/item?id=48326802",
-    "description": "SQLite is all you need for durable workflows",
+    "title": "Restartable Sequences",
+    "url": "https://justine.lol/rseq/",
+    "author": "grappler",
+    "date": "2026-05-31",
+    "score": 114,
+    "comments": 24,
+    "id": 48346019,
+    "discussion_url": "https://news.ycombinator.com/item?id=48346019",
+    "description": "Restartable Sequences",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403958"
+    "fetched_at": "2026-05-31T19:32:31.656277"
   },
   {
     "title": "Shantell Sans (2023)",
     "url": "https://shantellsans.com/process",
     "author": "aleda145",
     "date": "2026-05-30",
-    "score": 272,
-    "comments": 30,
+    "score": 376,
+    "comments": 43,
     "id": 48341062,
     "discussion_url": "https://news.ycombinator.com/item?id=48341062",
     "description": "Shantell Sans (2023)",
@@ -354,49 +371,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403792"
+    "fetched_at": "2026-05-31T19:32:31.656289"
   },
   {
-    "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-    "url": "https://ajin.im/is/building/omen.ops/",
-    "author": "poppypetalmask",
+    "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
+    "url": "https://github.com/marekkowalczyk/breathe-cli",
+    "author": "marekkowalczyk",
     "date": "2026-05-30",
-    "score": 121,
-    "comments": 23,
-    "id": 48339753,
-    "discussion_url": "https://news.ycombinator.com/item?id=48339753",
-    "description": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+    "score": 104,
+    "comments": 27,
+    "id": 48340315,
+    "discussion_url": "https://news.ycombinator.com/item?id=48340315",
+    "description": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403854"
-  },
-  {
-    "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-    "url": "https://helios.southlondonscientific.com/",
-    "author": "ruaraidh",
-    "date": "2026-05-30",
-    "score": 119,
-    "comments": 43,
-    "id": 48334949,
-    "discussion_url": "https://news.ycombinator.com/item?id=48334949",
-    "description": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403939"
+    "fetched_at": "2026-05-31T19:32:31.656332"
   },
   {
     "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
     "url": "https://av2.aomedia.org",
     "author": "ksec",
     "date": "2026-05-30",
-    "score": 229,
-    "comments": 106,
+    "score": 330,
+    "comments": 143,
     "id": 48340910,
     "discussion_url": "https://news.ycombinator.com/item?id=48340910",
     "description": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
@@ -405,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403834"
+    "fetched_at": "2026-05-31T19:32:31.656309"
   },
   {
     "title": "The Website Specification",
     "url": "https://specification.website/",
     "author": "k1m",
     "date": "2026-05-31",
-    "score": 208,
-    "comments": 79,
+    "score": 372,
+    "comments": 159,
     "id": 48343683,
     "discussion_url": "https://news.ycombinator.com/item?id=48343683",
     "description": "The Website Specification",
@@ -422,15 +422,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403742"
+    "fetched_at": "2026-05-31T19:32:31.656273"
+  },
+  {
+    "title": "The solution might be cancelling my AI subscription",
+    "url": "https://thoughts.hmmz.org/2026-05-31.html",
+    "author": "dmw_ng",
+    "date": "2026-05-31",
+    "score": 310,
+    "comments": 212,
+    "id": 48345896,
+    "discussion_url": "https://news.ycombinator.com/item?id=48345896",
+    "description": "The solution might be cancelling my AI subscription",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-31T19:32:31.656371"
+  },
+  {
+    "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+    "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+    "author": "Eridanus2",
+    "date": "2026-05-31",
+    "score": 136,
+    "comments": 183,
+    "id": 48345248,
+    "discussion_url": "https://news.ycombinator.com/item?id=48345248",
+    "description": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-05-31T19:32:31.656204"
   },
   {
     "title": "Voxel Space (2017)",
     "url": "https://s-macke.github.io/VoxelSpace/",
     "author": "davikr",
     "date": "2026-05-30",
-    "score": 286,
-    "comments": 60,
+    "score": 297,
+    "comments": 65,
     "id": 48336564,
     "discussion_url": "https://news.ycombinator.com/item?id=48336564",
     "description": "Voxel Space (2017)",
@@ -439,49 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403736"
-  },
-  {
-    "title": "WH proposes rules giving political appointees final approval on research grants",
-    "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
-    "author": "jordanpg",
-    "date": "2026-05-30",
-    "score": 241,
-    "comments": 538,
-    "id": 48331511,
-    "discussion_url": "https://news.ycombinator.com/item?id=48331511",
-    "description": "WH proposes rules giving political appointees final approval on research grants",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403906"
-  },
-  {
-    "title": "What are locusts and what happened to them?",
-    "url": "https://explosion-scratch.github.io/locusts/",
-    "author": "explosion-s",
-    "date": "2026-05-26",
-    "score": 255,
-    "comments": 69,
-    "id": 48281772,
-    "discussion_url": "https://news.ycombinator.com/item?id=48281772",
-    "description": "What are locusts and what happened to them?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403918"
+    "fetched_at": "2026-05-31T19:32:31.656397"
   },
   {
     "title": "Zig ELF Linker Improvements Devlog",
     "url": "https://ziglang.org/devlog/2026/#2026-05-30",
     "author": "kristoff_it",
     "date": "2026-05-30",
-    "score": 212,
-    "comments": 75,
+    "score": 221,
+    "comments": 96,
     "id": 48338673,
     "discussion_url": "https://news.ycombinator.com/item?id=48338673",
     "description": "Zig ELF Linker Improvements Devlog",
@@ -490,23 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403895"
+    "fetched_at": "2026-05-31T19:32:31.656404"
   },
   {
-    "title": "Zig: Build System Reworked",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "author": "tosh",
+    "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+    "url": "https://github.com/wolfSSL/wolfCOSE",
+    "author": "aidangarske",
     "date": "2026-05-30",
-    "score": 351,
-    "comments": 230,
-    "id": 48334048,
-    "discussion_url": "https://news.ycombinator.com/item?id=48334048",
-    "description": "Zig: Build System Reworked",
+    "score": 105,
+    "comments": 27,
+    "id": 48340422,
+    "discussion_url": "https://news.ycombinator.com/item?id=48340422",
+    "description": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-05-31T11:34:37.403841"
+    "fetched_at": "2026-05-31T19:32:31.656411"
   }
 ]
