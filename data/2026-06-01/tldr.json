@@ -50,6 +50,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "A live data app for $0: DuckDB, Astro, and no BI tool (8 minute read)",
+    "url": "https://spicydata.ai/blog/zero-dollar-data-app/",
+    "description": "A live data app for $0: DuckDB, Astro, and no BI tool (8 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-01",
+    "site_name": "tldr"
+  },
+  {
     "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers' driver's licenses (2 minute read)",
     "url": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
     "description": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers' driver's licenses (2 minute read)",
@@ -73,6 +83,16 @@
     "title": "AI agent at the wheel: How an attacker used LLMs to move from a CVE to an internal database in 4 pivots (7 minute read)",
     "url": "https://webflow.sysdig.com/blog/ai-agent-at-the-wheel-how-an-attacker-used-llms-to-move-from-a-cve-to-an-internal-database-in-4-pivots",
     "description": "AI agent at the wheel: How an attacker used LLMs to move from a CVE to an internal database in 4 pivots (7 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-01",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI is killing the summer internship. The entry-level pipeline that built careers is breaking (5 minute read)",
+    "url": "https://thenextweb.com/news/ai-replacing-summer-internships-college-students",
+    "description": "AI is killing the summer internship. The entry-level pipeline that built careers is breaking (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -153,6 +173,16 @@
     "title": "Apple working to cram massive Gemini model into iPhone to power new Siri (6 minute read)",
     "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
     "description": "Apple working to cram massive Gemini model into iPhone to power new Siri (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-01",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Backpressure is all you need (32 minute read)",
+    "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+    "description": "Backpressure is all you need (32 minute read)",
     "tags": [
       "tldr"
     ],
@@ -300,9 +330,39 @@
     "site_name": "tldr"
   },
   {
+    "title": "Enabling Data Intelligence: Data Profiling Framework at Halodoc (10 minute read)",
+    "url": "https://blogs.halodoc.io/enabling-data-intelligence-data-profiling-framework-at-halodoc/",
+    "description": "Enabling Data Intelligence: Data Profiling Framework at Halodoc (10 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-01",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Event-Driven vs. Polling Architectures for Agent Triggers (11 minute read)",
+    "url": "https://agentblueprint.substack.com/p/event-driven-vs-polling-architectures",
+    "description": "Event-Driven vs. Polling Architectures for Agent Triggers (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-01",
+    "site_name": "tldr"
+  },
+  {
     "title": "Everything, Everywhere is Compliance (17 minute read)",
     "url": "https://www.a16z.news/p/everything-everywhere-is-compliance",
     "description": "Everything, Everywhere is Compliance (17 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-01",
+    "site_name": "tldr"
+  },
+  {
+    "title": "FAA documents outline SpaceX plans for Starfall reentry vehicles (4 minute read)",
+    "url": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
+    "description": "FAA documents outline SpaceX plans for Starfall reentry vehicles (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -410,6 +470,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic (6 minute read)",
+    "url": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
+    "description": "Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-01",
+    "site_name": "tldr"
+  },
+  {
     "title": "Hero Image Best Practices: How to Design High-Impact Hero Sections (7 minute read)",
     "url": "https://webflow.com/blog/website-hero-image",
     "description": "Hero Image Best Practices: How to Design High-Impact Hero Sections (7 minute read)",
@@ -433,16 +503,6 @@
     "title": "How Claude Cowork's Lead Engineer Uses AI (8 minute read)",
     "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
     "description": "How Claude Cowork's Lead Engineer Uses AI (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-01",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How CockroachDB Built Vector Indexing at Scale (8 minute read)",
-    "url": "https://blog.bytebytego.com/p/how-cockroachdb-built-vector-indexing",
-    "description": "How CockroachDB Built Vector Indexing at Scale (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -523,6 +583,16 @@
     "title": "How user segmentation, rather than personas, helps you get design buy-in (7 minute read)",
     "url": "https://thedesignersfieldguide.substack.com/p/how-user-segmentation-rather-than",
     "description": "How user segmentation, rather than personas, helps you get design buy-in (7 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-01",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How we built a lab to evaluate data agents (22 minute read)",
+    "url": "https://hex.tech/blog/evaluate-data-agents/",
+    "description": "How we built a lab to evaluate data agents (22 minute read)",
     "tags": [
       "tldr"
     ],
@@ -620,9 +690,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing dynamic workflows in Claude Code (5 minute read)",
+    "title": "Introducing dynamic workflows (3 minute read)",
     "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-    "description": "Introducing dynamic workflows in Claude Code (5 minute read)",
+    "description": "Introducing dynamic workflows (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -650,19 +720,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Kafka Share Groups and Parallelizing Consumption — Tuning max.poll.records (14 minute read)",
-    "url": "https://jack-vanlightly.com/blog/2026/5/25/kafka-share-groups-and-parallelizing-consumption-part-1-tuning-maxpollrecords",
-    "description": "Kafka Share Groups and Parallelizing Consumption — Tuning max.poll.records (14 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-01",
-    "site_name": "tldr"
-  },
-  {
-    "title": "LAST (GitHub Repo)",
-    "url": "https://github.com/latiotech/LAST",
-    "description": "LAST (GitHub Repo)",
+    "title": "Leaks: Nvidia-Powered Windows 11 PCs Set to Debut (2 minute read)",
+    "url": "https://www.thurrott.com/mobile/copilot-pc/336816/leaks-nvidia-powered-windows-11-pcs-set-to-debut",
+    "description": "Leaks: Nvidia-Powered Windows 11 PCs Set to Debut (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -683,16 +743,6 @@
     "title": "Managing VS Code Extensions in an Enterprise Environment (4 minute read)",
     "url": "https://code.visualstudio.com/docs/enterprise/extensions",
     "description": "Managing VS Code Extensions in an Enterprise Environment (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-01",
-    "site_name": "tldr"
-  },
-  {
-    "title": "MarkItDown (GitHub Repo)",
-    "url": "https://github.com/microsoft/markitdown",
-    "description": "MarkItDown (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -840,16 +890,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "RushDB 2.0: Memory Infrastructure for the Agentic Era (11 minute read)",
-    "url": "https://rushdb.com/blog/rushdb-2-0-release",
-    "description": "RushDB 2.0: Memory Infrastructure for the Agentic Era (11 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-01",
-    "site_name": "tldr"
-  },
-  {
     "title": "Russian Hacker Used Jailbroken Gemini to Steal Admin Credentials and Drain Crypto Wallets (3 minute read)",
     "url": "https://cybersecuritynews.com/russian-hacker-used-jailbroken-gemini/",
     "description": "Russian Hacker Used Jailbroken Gemini to Steal Admin Credentials and Drain Crypto Wallets (3 minute read)",
@@ -883,6 +923,16 @@
     "title": "Should You Run Marketing Like a Product Team (51 minute podcast)",
     "url": "https://open.spotify.com/episode/0uEB4Wa8Wnmrz9ko5n3b7R?si=c4aebcfb4d9e4473&amp%3Butm_source=tldrmarketing",
     "description": "Should You Run Marketing Like a Product Team (51 minute podcast)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-01",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems (7 minute read)",
+    "url": "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/",
+    "description": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1030,9 +1080,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "The Postgres Developer's Guide to Vector Index Tradeoffs (11 minute read)",
+    "url": "https://www.tigerdata.com/blog/the-postgres-developers-guide-to-vector-index-tradeoffs",
+    "description": "The Postgres Developer's Guide to Vector Index Tradeoffs (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-01",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Website Specification (Website)",
+    "url": "https://specification.website/",
+    "description": "Why developers should not entirely rely on agents, and what you can do about it.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-01",
+    "site_name": "tldr"
+  },
+  {
     "title": "The most spectacular rocket explosion since N1 just happened in Florida (4 minute read)",
     "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
-    "description": "Why developers should not entirely rely on agents, and what you can do about it.",
+    "description": "The most spectacular rocket explosion since N1 just happened in Florida (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1113,16 +1183,6 @@
     "title": "Various LLM smells (2 minute read)",
     "url": "https://shvbsle.in/various-llm-smells/",
     "description": "Various LLM smells (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-01",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Waymo opens Ojai robotaxis to select riders as company aims to lower cost of fleet expansion (4 minute read)",
-    "url": "https://www.cnbc.com/2026/05/28/waymo-opens-ojai-robotaxis-to-some-riders-aims-to-lower-cost-of-fleet.html",
-    "description": "Waymo opens Ojai robotaxis to select riders as company aims to lower cost of fleet expansion (4 minute read)",
     "tags": [
       "tldr"
     ],
