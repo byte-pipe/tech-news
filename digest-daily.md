@@ -1,84 +1,87 @@
 ---
-date: '2026-06-01'
+date: '2026-06-02'
 model: gpt-oss:120b-cloud
-generated_at: '2026-06-01T22:13:20.826864'
+generated_at: '2026-06-02T06:03:24.876160'
 ---
 
 ## Executive Summary
-- Open‑source AI tooling is expanding rapidly: Pi’s new **pi‑subagents** extension enables modular, asynchronous AI task delegation, while Hermes‑based projects (Mentor, Council, WebUI) showcase local, privacy‑first agents that can audit code, generate roadmaps, and even arbitrate AI judgments.  
-- The Alliance for Open Media released the **AV2 video coding specification**, promising higher compression and AR/VR support, and the **Shantell Sans** font entered the open‑font ecosystem to improve accessibility for dyslexic readers.  
-- A DIY datacenter‑grade GPU hack (Tesla V100) demonstrated a cost‑effective way to double VRAM for LLM inference, highlighting both performance gains and fan‑noise challenges.  
-- Security concerns rose as **Cloudflare Turnstile** began enforcing WebGL fingerprinting, blocking privacy‑focused browsers, while the **Creatine** supplement showed promising neuroprotective effects, slowing early Alzheimer’s decline by ~30 %.  
-- Cultural moments dominated headlines: Arsenal’s historic Premier League parade drew massive crowds, and KSI announced his departure from the Sidemen collective after 13 years.
+Anthropic’s confidential S‑1 filing underscores the escalating race among AI powerhouses to go public, following a $65 bn Series H round that valued the company at $965 bn. Meanwhile, developers are grappling with the practicalities of LLM streaming, AI‑generated code debugging, and supply‑chain security after a massive npm compromise affecting Red Hat‑related packages. In hardware, AMD pledged long‑term support for its AM5 socket through 2029 and refreshed its AM4 line, while enterprise networking prepares for AI‑enhanced Wi‑Fi 8 access points. On the security front, a surprisingly simple Instagram account‑takeover exploit highlights lingering weaknesses in platform recovery flows. Finally, political turbulence in the UK is revealed through leaked internal communications criticizing Labour leadership.
 
 ---
 
 ## AI and Machine Learning
 
-### GitHub – *pi‑subagents* extension for Pi (trending) [github]  
-Enables Pi to spawn focused child agents (e.g., reviewer, scout, planner) that run in foreground or background, allowing complex, parallel workflows such as “implement‑then‑review” loops with minimal configuration.
+### Streaming an LLM response, in 4 GIFs – DEV Community  
+*The post walks through enabling `"stream": true` in LLM APIs, explains the SSE protocol, and provides Node.js code for handling token streams while warning of common bugs like ghost streams and split packets.*
 
-### AV2 Specification (trending) [hackernews_api]  
-The Alliance for Open Media’s next‑generation AV2 codec promises superior compression, AR/VR support, and better screen‑content handling; the v1.0.0 spec and reference implementation are now publicly available.
+### Anthropic confidentially submits draft S‑1 to the SEC – Hacker News  
+*Anthropic filed a confidential Form S‑1 on June 1, positioning itself for a potential IPO after a $65 bn Series H raise that pushed its valuation to $965 bn; the filing includes no price or share details and follows a similar move by OpenAI and SpaceX.*
 
-### Shantell Sans (trending) [hackernews_api]  
-A dyslexia‑friendly, open‑font released under an open‑font license; already adopted by the Whitney Museum shop, Cash App cards, and the tldraw app, aiming for playful readability akin to Comic Sans.
+### AI giant Anthropic files for US IPO as investors bet big on AI future – Al Jazeera (trending)  
+*The article frames Anthropic’s filing as a litmus test for market appetite for trillion‑dollar AI firms, noting its $47 bn annualised Claude revenue and the broader wave of mega‑IPOs from SpaceX and OpenAI.*
 
-### The Website Specification (trending) [hackernews_api]  
-A platform‑agnostic checklist covering foundations, SEO, accessibility, security, and AI‑agent readiness; hosted openly with a Markdown API for automated audits.
+### AI giant Anthropic files IPO paperwork – NPR (trending)  
+*Reiterates the confidential S‑1 filing, emphasizing the lack of pricing, the $965 bn valuation, and the potential impact on the dormant IPO market and AI‑related equities.*
 
-### “I Put a Datacenter GPU in My Gaming PC for £200” (trending) [hnrss]  
-A hobbyist installed a Tesla V100 SXM2 GPU via a cheap PCIe adapter, pairing it with an RTX 4080 to achieve 32 GB VRAM for LLM inference at a fraction of consumer‑GPU cost, while solving fan‑noise and driver compatibility issues on NixOS.
+### Adapting to AI: Write Things Down – TLDR  
+*Advocates a “writing‑first” culture where canonical documents (memos, specs) are created by humans, while AI assists as a research aide; warns against over‑reliance on AI‑generated summaries that can obscure decision rationale.*
 
-### Arsenal fans line London streets in Premier League victory parade (trending) [newsfeed]  
-Hundreds of thousands celebrated Arsenal’s first league title in 22 years, with open‑top buses, fireworks, and a heavy police presence to manage safety and stray pyrotechnics.
+### Adobe Express vs. Canva 2026: Why Designers Switch Back – TLDR  
+*Shows Adobe Express gaining traction among Creative Cloud users due to tighter integration, Firefly AI safety, and ChatGPT‑driven workflows, while Canva remains dominant for non‑designers.*
 
-### Britain’s Got Talent judge KSI quits YouTube collective Sidemen (trending) [newsfeed]  
-KSI announced his final Sidemen appearance on 31 May, citing personal burnout after 13 years; the group issued a supportive statement while fans reacted to the unexpected departure.
+### AI Networking Will Ramp As Enterprise Wi‑Fi Access Points Move Into the Wi‑Fi 8 Era – 650 Group (TLDR)  
+*Highlights AI‑enabled inference on Wi‑Fi 8 APs for real‑time channel selection and edge telemetry filtering, with Cisco, MediaTek, and RUCKUS championing “AI at the Edge” over cloud‑only models.*
 
-### Hero image best practices: How to design high‑impact hero sections (trending) [tldr]  
-Webflow outlines seven design rules—mood alignment, clarity, purposeful motion, custom imagery, file‑size optimization, responsive layout, and accessibility—to boost branding and conversion on landing pages.
+### Copywriting Friday: A Mac walks into a room – Conversion Rate Experts (TLDR)  
+*Dissects Apple’s “Get a Mac” ads, extracting three copy tactics—personify the rival, let the competitor voice objections, and use concrete scenarios—that can be applied to modern marketing.*
 
 ---
 
 ## Cybersecurity and Privacy
 
-### Cloudflare Turnstile requiring fingerprintable WebGL (trending) [hnrss]  
-Turnstile now mandates a WebGL fingerprint, causing privacy‑focused browsers (WebKit‑GTK) to fail verification; Firefox still passes, raising concerns about tracking‑based human checks.
+### The Newest Instagram “Exploit” is the Goofiest I’ve Seen – Sid’s Blog (Hacker News)  
+*Describes a low‑tech Instagram takeover that abuses Meta’s AI‑driven support chat to reset passwords, bypassing 2FA and allowing attackers to hijack high‑profile accounts; Meta has since patched the flaw.*
 
 ---
 
 ## Software Engineering and Dev Tools
 
-### Hermes Mentor — A Local AI Agent That Gets You Out of Tutorial Hell (trending) [devto]  
-A self‑hosted agent built on Hermes and Ollama scans a user’s public repos, identifies skill gaps, and delivers a four‑week project roadmap via daily Telegram nudges, all without external API keys.
+### I Rebuilt My Karaoke App So Everyone's Phone Could Be a Remote – DEV Community  
+*The author refactored the VKara karaoke platform into a monorepo, clarified the TV‑vs‑phone roles, and leveraged GitHub Copilot for planning and debugging, resulting in more stable real‑time playback.*
 
-### I Made My AI Models Argue, Then Let Hermes Be the Judge (trending) [devto]  
-The “Council” system pits three AI models against each other, lets dissenting jurors re‑deliberate, and synthesizes a confidence‑weighted verdict, reducing overconfidence in single‑model decisions.
+### I Spent 10× Longer Debugging AI Code Than Writing It – DEV Community  
+*The writer shares three cases where AI‑generated code saved minutes of typing but cost hours of debugging, and now treats AI output as a draft, adding explicit edge‑case checks and a “debugging tax.”*
 
-### Hermes WebUI (trending) [github]  
-A lightweight, Python‑only web interface for Hermes Agent that mirrors CLI functionality, offers persistent memory, multi‑platform messaging, and provider‑agnostic model support, positioning itself against OpenClaw and Claude Code.
+### Malicious npm releases detected across `@redhat-cloud-services/` scope – GitHub (Security)  
+*Step Security reports dozens of compromised Red Hat Cloud Services npm packages (e.g., `frontend-components`, `insights-client`) with malicious code injected into specific versions, prompting immediate remediation.*
 
-### the solution might be cancelling my AI subscription (trending) [hackernews_api]  
-A personal essay details how unrestricted AI code generation leads to a proliferation of low‑value projects, token waste, and shallow work, urging users to impose stricter focus and measure real outcomes.
+### The Pirate Bay Remains Resilient, 20 Years After The Raid – TorrentFreak (Hacker News)  
+*Recaps the 2006 Swedish police raid, the site’s rapid backup‑driven recovery, and its continued operation as a symbol of torrent resilience despite repeated legal challenges.*
 
-### diamond geezer (trending) [hnrss]  
-A London‑area guide to newly opened public roof terraces, comparing free city‑sky gardens and recommending the Fen Court garden as a must‑visit for first‑timers.
+### A new app, The Mall, is building a universal feed for online shopping – TechCrunch  
+*The startup launches an invite‑only “Spotify for shopping” app that scrapes >10 k brand catalogs, uses LLMs for tagging, and plans a B2B analytics product to monetize the aggregated data.*
+
+### AMD extends Socket AM5 support through at least 2029; AM4 refuses to die – Ars Technica  
+*AMD announces new AM5 CPUs (Ryzen 7 7700X3D) and a refreshed AM4 5800X3D “10th Anniversary” SKU, pledging AM5 compatibility through 2029 and reinforcing its long‑term platform strategy.*
+
+### All‑in‑One AI Video Generator: Create Pro Videos Instantly – TLDR  
+*Presents a mixed‑reality AI video tool that blends app UI footage with AR overlays to produce social‑native content, targeting marketers seeking high‑engagement video at scale.*
 
 ---
 
-## Open Source
+## Cloud and Infrastructure
 
-### developer‑portfolios repository (trending) [github]  
-Curates 1,684 developer portfolio sites to inspire personal branding; the repo has 23.3 k stars and accepts community contributions via a structured JSON list.
+### The Ultimate Cloud Run Guide 2026 – DEV Community  
+*Provides a step‑by‑step walkthrough of deploying containers to Google Cloud Run, covering autoscaling, revision‑based rollouts, preview URLs, structured logging, and troubleshooting common startup errors.*
 
-### github/docs repository (trending) [github]  
-Powers docs.github.com with a dual‑licensed (CC‑BY‑4.0 for content, MIT for code) open‑source repo; external contributors edit Markdown docs while internal teams manage infrastructure.
+---
+
+## World News and Geopolitics
+
+### ‘Bereft and beleaguered’ – stark criticism revealed in Mandelson messages – Newsfeed  
+*Leaked 1,500 pages of internal communications expose former Labour ambassador Peter Mandelson’s harsh critique of Prime Minister Keir Starmer and Downing Street staff, suggesting deep intra‑party dissent over welfare reforms and leadership authority.*
 
 ---
 
 ## Notable Mentions
-- How 2004 RuneScape fit a multiplayer RPG into 56k dial‑up · jkm.dev [tldr]  
-- 🎙️ How I AI: The engineer behind Claude Cowork shares usage & Google I/O 2026 launches [tldr]  
-- Google Wallet redesign sparks user fury – why? – Samsung Magazine [tldr]  
-- Google Workspace Updates: Chat external interoperability with Microsoft Teams via NextPlane OpenHub now available [tldr]
+- None reported.
