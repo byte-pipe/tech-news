@@ -1,272 +1,182 @@
 [
   {
-    "title": "AI Agent Guidelines for CS336 at Stanford",
-    "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-    "description": "AI Agent Guidelines for CS336 at Stanford",
-    "date": "2026-06-01",
-    "score": 435,
-    "comments": 140,
-    "discussion_url": "https://news.ycombinator.com/item?id=48359232",
+    "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+    "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+    "description": "A walking tour of surveillance infrastructure in Seattle (2020)",
+    "date": "2026-06-02",
+    "score": 321,
+    "comments": 173,
+    "discussion_url": "https://news.ycombinator.com/item?id=48369980",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345807"
+    "fetched_at": "2026-06-02T20:05:32.805908"
   },
   {
-    "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+    "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
     "url": "https://blog.adafruit.com/",
-    "description": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+    "description": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
     "date": "2026-06-02",
-    "score": 140,
-    "comments": 45,
+    "score": 520,
+    "comments": 223,
     "discussion_url": "https://news.ycombinator.com/item?id=48368121",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345660"
+    "fetched_at": "2026-06-02T20:05:32.805951"
   },
   {
-    "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-    "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-    "description": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-    "date": "2026-06-01",
-    "score": 212,
-    "comments": 196,
-    "discussion_url": "https://news.ycombinator.com/item?id=48362515",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345771"
-  },
-  {
-    "title": "Ask HN: Who is hiring? (June 2026)",
-    "url": "https://news.ycombinator.com/item?id=48357725",
-    "description": "Ask HN: Who is hiring? (June 2026)",
-    "date": "2026-06-01",
-    "score": 203,
-    "comments": 282,
-    "discussion_url": "https://news.ycombinator.com/item?id=48357725",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345844"
-  },
-  {
-    "title": "CS336: Language Modeling from Scratch",
-    "url": "https://cs336.stanford.edu/",
-    "description": "CS336: Language Modeling from Scratch",
-    "date": "2026-06-01",
-    "score": 491,
-    "comments": 48,
-    "discussion_url": "https://news.ycombinator.com/item?id=48357075",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345855"
-  },
-  {
-    "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-    "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-    "description": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-    "date": "2026-06-01",
-    "score": 437,
-    "comments": 763,
-    "discussion_url": "https://news.ycombinator.com/item?id=48364055",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345726"
-  },
-  {
-    "title": "Chipotlai Max",
-    "url": "https://github.com/cyberpapiii/chipotlai-max",
-    "description": "Chipotlai Max",
-    "date": "2026-06-01",
-    "score": 262,
-    "comments": 39,
-    "discussion_url": "https://news.ycombinator.com/item?id=48363765",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345738"
-  },
-  {
-    "title": "Debug Project",
-    "url": "https://debug.com/",
-    "description": "Debug Project",
-    "date": "2026-06-01",
-    "score": 236,
-    "comments": 95,
-    "discussion_url": "https://news.ycombinator.com/item?id=48362347",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345784"
-  },
-  {
-    "title": "Fooling around with encrypted reasoning blobs",
-    "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
-    "description": "Fooling around with encrypted reasoning blobs",
-    "date": "2026-05-29",
-    "score": 104,
-    "comments": 18,
-    "discussion_url": "https://news.ycombinator.com/item?id=48321210",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345907"
-  },
-  {
-    "title": "How is Groq raising more money?",
-    "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
-    "description": "How is Groq raising more money?",
+    "title": "CSS-Native Parallax Effect",
+    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+    "description": "CSS-Native Parallax Effect",
     "date": "2026-06-02",
-    "score": 120,
-    "comments": 55,
-    "discussion_url": "https://news.ycombinator.com/item?id=48364620",
+    "score": 122,
+    "comments": 46,
+    "discussion_url": "https://news.ycombinator.com/item?id=48368291",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345714"
+    "fetched_at": "2026-06-02T20:05:32.805931"
   },
   {
-    "title": "I made my phone slow on purpose",
-    "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
-    "description": "I made my phone slow on purpose",
-    "date": "2026-05-28",
-    "score": 218,
-    "comments": 180,
-    "discussion_url": "https://news.ycombinator.com/item?id=48312443",
+    "title": "Coreutils for Windows",
+    "url": "https://github.com/microsoft/coreutils",
+    "description": "Coreutils for Windows",
+    "date": "2026-06-02",
+    "score": 164,
+    "comments": 150,
+    "discussion_url": "https://news.ycombinator.com/item?id=48372853",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345919"
+    "fetched_at": "2026-06-02T20:05:32.805886"
   },
   {
-    "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
-    "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-    "description": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
-    "date": "2026-06-01",
-    "score": 235,
-    "comments": 489,
-    "discussion_url": "https://news.ycombinator.com/item?id=48355720",
+    "title": "Expanding Project Glasswing",
+    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "description": "Expanding Project Glasswing",
+    "date": "2026-06-02",
+    "score": 127,
+    "comments": 171,
+    "discussion_url": "https://news.ycombinator.com/item?id=48369863",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345896"
+    "fetched_at": "2026-06-02T20:05:32.805920"
   },
   {
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-    "description": "OpenAI frontier models and Codex are now available on AWS",
-    "date": "2026-06-01",
-    "score": 295,
-    "comments": 103,
-    "discussion_url": "https://news.ycombinator.com/item?id=48363132",
+    "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+    "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+    "description": "Fidonet: Technology, Use, Tools, and History (1993)",
+    "date": "2026-06-02",
+    "score": 123,
+    "comments": 40,
+    "discussion_url": "https://news.ycombinator.com/item?id=48370291",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345749"
+    "fetched_at": "2026-06-02T20:05:32.805897"
   },
   {
-    "title": "Should you normalize RGB values by 255 or 256?",
-    "url": "https://30fps.net/pages/255-vs-256-division/",
-    "description": "Should you normalize RGB values by 255 or 256?",
-    "date": "2026-06-01",
-    "score": 281,
-    "comments": 118,
-    "discussion_url": "https://news.ycombinator.com/item?id=48360054",
+    "title": "Love systemd timers",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "description": "Love systemd timers",
+    "date": "2026-06-02",
+    "score": 278,
+    "comments": 186,
+    "discussion_url": "https://news.ycombinator.com/item?id=48367904",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345796"
+    "fetched_at": "2026-06-02T20:05:32.805985"
   },
   {
-    "title": "The newest Instagram “exploit” is the goofiest I've seen",
-    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "description": "The newest Instagram “exploit” is the goofiest I've seen",
-    "date": "2026-06-01",
-    "score": 1902,
-    "comments": 431,
-    "discussion_url": "https://news.ycombinator.com/item?id=48359102",
+    "title": "MAI-Code-1-Flash",
+    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "description": "MAI-Code-1-Flash",
+    "date": "2026-06-02",
+    "score": 153,
+    "comments": 60,
+    "discussion_url": "https://news.ycombinator.com/item?id=48374466",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345819"
+    "fetched_at": "2026-06-02T20:05:32.805850"
   },
   {
-    "title": "What appear to be biochemical processes may be a natural feature of geology",
-    "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-    "description": "What appear to be biochemical processes may be a natural feature of geology",
-    "date": "2026-06-01",
-    "score": 246,
-    "comments": 89,
-    "discussion_url": "https://news.ycombinator.com/item?id=48357905",
+    "title": "Muxcard, a DIY credit card size computer",
+    "url": "https://github.com/krauseler/muxcard",
+    "description": "Muxcard, a DIY credit card size computer",
+    "date": "2026-05-31",
+    "score": 213,
+    "comments": 58,
+    "discussion_url": "https://news.ycombinator.com/item?id=48342399",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345830"
+    "fetched_at": "2026-06-02T20:05:32.805996"
+  },
+  {
+    "title": "Stop Ruining It",
+    "url": "https://seths.blog/2026/06/stop-ruining-it/",
+    "description": "Stop Ruining It",
+    "date": "2026-06-02",
+    "score": 208,
+    "comments": 97,
+    "discussion_url": "https://news.ycombinator.com/item?id=48368059",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-02T20:05:32.805963"
+  },
+  {
+    "title": "Three Ways to Get Paid (2018)",
+    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+    "description": "Three Ways to Get Paid (2018)",
+    "date": "2026-06-02",
+    "score": 171,
+    "comments": 106,
+    "discussion_url": "https://news.ycombinator.com/item?id=48373054",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-02T20:05:32.805873"
   },
   {
     "title": "Why Janet? (2023)",
     "url": "https://ianthehenry.com/posts/why-janet/",
     "description": "Why Janet? (2023)",
     "date": "2026-06-02",
-    "score": 175,
-    "comments": 74,
+    "score": 398,
+    "comments": 204,
     "discussion_url": "https://news.ycombinator.com/item?id=48367907",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345686"
-  },
-  {
-    "title": "macOS needs its grid back",
-    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-    "description": "macOS needs its grid back",
-    "date": "2026-06-02",
-    "score": 289,
-    "comments": 170,
-    "discussion_url": "https://news.ycombinator.com/item?id=48364800",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-02T12:21:42.345701"
+    "fetched_at": "2026-06-02T20:05:32.805974"
   }
 ]
