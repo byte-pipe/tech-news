@@ -4,8 +4,8 @@
     "url": "https://blog.ammaraskar.com/github-token-stealing/",
     "author": "ammar2",
     "date": "2026-06-02",
-    "score": 499,
-    "comments": 70,
+    "score": 621,
+    "comments": 95,
     "id": 48371562,
     "discussion_url": "https://news.ycombinator.com/item?id=48371562",
     "description": "1-Click GitHub Token Stealing via a VSCode Bug",
@@ -14,32 +14,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495751"
+    "fetched_at": "2026-06-03T20:09:04.754776"
   },
   {
-    "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
-    "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-    "author": "eustoria",
-    "date": "2026-06-02",
-    "score": 399,
-    "comments": 283,
-    "id": 48369980,
-    "discussion_url": "https://news.ycombinator.com/item?id=48369980",
-    "description": "A walking tour of surveillance infrastructure in Seattle (2020)",
+    "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+    "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+    "author": "papersail",
+    "date": "2026-06-03",
+    "score": 325,
+    "comments": 298,
+    "id": 48383241,
+    "discussion_url": "https://news.ycombinator.com/item?id=48383241",
+    "description": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495918"
+    "fetched_at": "2026-06-03T20:09:04.754838"
+  },
+  {
+    "title": "A Post-Quantum Future for Let's Encrypt",
+    "url": "https://letsencrypt.org/2026/06/03/pq-certs",
+    "author": "SGran",
+    "date": "2026-06-03",
+    "score": 158,
+    "comments": 84,
+    "id": 48385114,
+    "discussion_url": "https://news.ycombinator.com/item?id=48385114",
+    "description": "A Post-Quantum Future for Let's Encrypt",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-03T20:09:04.754780"
   },
   {
     "title": "AI outperforms law professors in Stanford Law study",
     "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
     "author": "berlianta",
     "date": "2026-06-02",
-    "score": 296,
-    "comments": 247,
+    "score": 384,
+    "comments": 341,
     "id": 48377761,
     "discussion_url": "https://news.ycombinator.com/item?id=48377761",
     "description": "AI outperforms law professors in Stanford Law study",
@@ -48,117 +65,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495763"
+    "fetched_at": "2026-06-03T20:09:04.754910"
   },
   {
-    "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-    "url": "https://blog.adafruit.com/",
-    "author": "semanser",
-    "date": "2026-06-02",
-    "score": 655,
-    "comments": 268,
-    "id": 48368121,
-    "discussion_url": "https://news.ycombinator.com/item?id=48368121",
-    "description": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+    "title": "Bot vs human traffic",
+    "url": "https://radar.cloudflare.com/traffic#bot-vs-human",
+    "author": "jmsflknr",
+    "date": "2026-06-03",
+    "score": 107,
+    "comments": 46,
+    "id": 48387144,
+    "discussion_url": "https://news.ycombinator.com/item?id=48387144",
+    "description": "Bot vs human traffic",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495878"
+    "fetched_at": "2026-06-03T20:09:04.754802"
   },
   {
-    "title": "Age verification for social media, the beginning of the end for a free internet?",
-    "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
-    "author": "StrLght",
-    "date": "2026-06-01",
-    "score": 527,
-    "comments": 436,
-    "id": 48363882,
-    "discussion_url": "https://news.ycombinator.com/item?id=48363882",
-    "description": "Age verification for social media, the beginning of the end for a free internet?",
+    "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+    "url": "https://www.capstone-engine.org/",
+    "author": "gregsadetsky",
+    "date": "2026-06-03",
+    "score": 101,
+    "comments": 5,
+    "id": 48378925,
+    "discussion_url": "https://news.ycombinator.com/item?id=48378925",
+    "description": "Capstone – multi-platform, multi-architecture disassembly framework",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495922"
+    "fetched_at": "2026-06-03T20:09:04.754969"
   },
   {
-    "title": "CSS-Native Parallax Effect",
-    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-    "author": "dandep",
-    "date": "2026-06-02",
-    "score": 139,
-    "comments": 58,
-    "id": 48368291,
-    "discussion_url": "https://news.ycombinator.com/item?id=48368291",
-    "description": "CSS-Native Parallax Effect",
+    "title": "DaVinci Resolve 21",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+    "author": "pentagrama",
+    "date": "2026-06-03",
+    "score": 289,
+    "comments": 134,
+    "id": 48384482,
+    "discussion_url": "https://news.ycombinator.com/item?id=48384482",
+    "description": "DaVinci Resolve 21",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495900"
+    "fetched_at": "2026-06-03T20:09:04.754732"
   },
   {
-    "title": "CT scans of BYD car parts",
-    "url": "https://www.lumafield.com/scan-of-the-month/byd",
-    "author": "viasfo",
-    "date": "2026-06-02",
-    "score": 417,
-    "comments": 270,
-    "id": 48375824,
-    "discussion_url": "https://news.ycombinator.com/item?id=48375824",
-    "description": "CT scans of BYD car parts",
+    "title": "ESP32-S31",
+    "url": "https://www.espressif.com/en/products/socs/esp32-s31",
+    "author": "volemo",
+    "date": "2026-06-03",
+    "score": 192,
+    "comments": 93,
+    "id": 48385965,
+    "discussion_url": "https://news.ycombinator.com/item?id=48385965",
+    "description": "ESP32-S31",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495696"
+    "fetched_at": "2026-06-03T20:09:04.754763"
   },
   {
-    "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-    "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-    "author": "BruceEel",
-    "date": "2026-06-02",
-    "score": 175,
-    "comments": 70,
-    "id": 48370291,
-    "discussion_url": "https://news.ycombinator.com/item?id=48370291",
-    "description": "Fidonet: Technology, Use, Tools, and History (1993)",
+    "title": "Elixir v1.20 released: now a gradually typed language",
+    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "author": "cloud8421",
+    "date": "2026-06-03",
+    "score": 153,
+    "comments": 35,
+    "id": 48388324,
+    "discussion_url": "https://news.ycombinator.com/item?id=48388324",
+    "description": "Elixir v1.20 released: now a gradually typed language",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495848"
+    "fetched_at": "2026-06-03T20:09:04.754701"
   },
   {
-    "title": "GitHub Copilot App",
-    "url": "https://github.com/features/preview/github-app",
-    "author": "theanonymousone",
-    "date": "2026-06-02",
-    "score": 112,
-    "comments": 72,
-    "id": 48373764,
-    "discussion_url": "https://news.ycombinator.com/item?id=48373764",
-    "description": "GitHub Copilot App",
+    "title": "Every Byte Matters",
+    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+    "author": "ingve",
+    "date": "2026-06-03",
+    "score": 207,
+    "comments": 102,
+    "id": 48382382,
+    "discussion_url": "https://news.ycombinator.com/item?id=48382382",
+    "description": "Every Byte Matters",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495911"
+    "fetched_at": "2026-06-03T20:09:04.754823"
+  },
+  {
+    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "author": "rvz",
+    "date": "2026-06-03",
+    "score": 471,
+    "comments": 173,
+    "id": 48385906,
+    "discussion_url": "https://news.ycombinator.com/item?id=48385906",
+    "description": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-03T20:09:04.754727"
   },
   {
     "title": "Gmail thinks I'm stupid, so I left",
     "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
     "author": "speckx",
     "date": "2026-06-02",
-    "score": 1033,
-    "comments": 681,
+    "score": 1130,
+    "comments": 774,
     "id": 48375016,
     "discussion_url": "https://news.ycombinator.com/item?id=48375016",
     "description": "Gmail thinks I'm stupid, so I left",
@@ -167,32 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495796"
-  },
-  {
-    "title": "HP re-releases classic computer science calculator: The HP-16C",
-    "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-    "author": "dm319",
-    "date": "2026-06-02",
-    "score": 186,
-    "comments": 114,
-    "id": 48374685,
-    "discussion_url": "https://news.ycombinator.com/item?id=48374685",
-    "description": "HP re-releases classic computer science calculator: The HP-16C",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495793"
+    "fetched_at": "2026-06-03T20:09:04.754889"
   },
   {
     "title": "Hacking your PC using your speaker without ever touching it",
     "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
     "author": "xx_ns",
     "date": "2026-06-03",
-    "score": 132,
-    "comments": 31,
+    "score": 552,
+    "comments": 94,
     "id": 48382310,
     "discussion_url": "https://news.ycombinator.com/item?id=48382310",
     "description": "Hacking your PC using your speaker without ever touching it",
@@ -201,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495685"
+    "fetched_at": "2026-06-03T20:09:04.754741"
   },
   {
     "title": "How we index images for RAG",
     "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
     "author": "mooreds",
     "date": "2026-06-02",
-    "score": 160,
-    "comments": 23,
+    "score": 194,
+    "comments": 26,
     "id": 48372239,
     "discussion_url": "https://news.ycombinator.com/item?id=48372239",
     "description": "How we index images for RAG",
@@ -218,117 +235,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495811"
+    "fetched_at": "2026-06-03T20:09:04.754976"
   },
   {
-    "title": "It is an amazing time for programmers",
-    "url": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers",
-    "author": "jlundberg",
+    "title": "I built a ceiling projection mapping of the planes flying over my house",
+    "url": "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/",
+    "author": "frereubu",
     "date": "2026-06-03",
-    "score": 114,
-    "comments": 80,
-    "id": 48381211,
-    "discussion_url": "https://news.ycombinator.com/item?id=48381211",
-    "description": "It is an amazing time for programmers",
+    "score": 191,
+    "comments": 25,
+    "id": 48383823,
+    "discussion_url": "https://news.ycombinator.com/item?id=48383823",
+    "description": "I built a ceiling projection mapping of the planes flying over my house",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495855"
+    "fetched_at": "2026-06-03T20:09:04.754870"
   },
   {
-    "title": "MAI-Code-1-Flash",
-    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "author": "EvanZhouDev",
-    "date": "2026-06-02",
-    "score": 490,
-    "comments": 219,
-    "id": 48374466,
-    "discussion_url": "https://news.ycombinator.com/item?id=48374466",
-    "description": "MAI-Code-1-Flash",
+    "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+    "url": "https://burntsushi.net/encephalitis/",
+    "author": "Tomte",
+    "date": "2026-06-03",
+    "score": 274,
+    "comments": 64,
+    "id": 48384355,
+    "discussion_url": "https://news.ycombinator.com/item?id=48384355",
+    "description": "I was recently diagnosed with anti-NMDA receptor encephalitis",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495720"
+    "fetched_at": "2026-06-03T20:09:04.754722"
   },
   {
-    "title": "Muxcard, a DIY credit card size computer",
-    "url": "https://github.com/krauseler/muxcard",
-    "author": "sargstuff",
-    "date": "2026-05-31",
-    "score": 257,
-    "comments": 86,
-    "id": 48342399,
-    "discussion_url": "https://news.ycombinator.com/item?id=48342399",
-    "description": "Muxcard, a DIY credit card size computer",
+    "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+    "url": "https://leidendeclaration.ai/",
+    "author": "zvr",
+    "date": "2026-06-03",
+    "score": 109,
+    "comments": 68,
+    "id": 48380670,
+    "discussion_url": "https://news.ycombinator.com/item?id=48380670",
+    "description": "Leiden Declaration on Artificial Intelligence and Mathematics",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495836"
+    "fetched_at": "2026-06-03T20:09:04.754972"
   },
   {
-    "title": "My thoughts after using Clojure for about a month",
-    "url": "https://www.acdw.net/clojure/",
-    "author": "speckx",
-    "date": "2026-06-02",
-    "score": 241,
-    "comments": 118,
-    "id": 48375393,
-    "discussion_url": "https://news.ycombinator.com/item?id=48375393",
-    "description": "My thoughts after using Clojure for about a month",
+    "title": "MacBook Neo Is So Popular That Apple Doubled Production",
+    "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+    "author": "tosh",
+    "date": "2026-06-03",
+    "score": 182,
+    "comments": 168,
+    "id": 48386238,
+    "discussion_url": "https://news.ycombinator.com/item?id=48386238",
+    "description": "MacBook Neo Is So Popular That Apple Doubled Production",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495785"
+    "fetched_at": "2026-06-03T20:09:04.754810"
   },
   {
-    "title": "Open Repair Data Standard",
-    "url": "https://openrepair.org/open-data/open-standard/",
-    "author": "cassepipe",
-    "date": "2026-06-02",
-    "score": 138,
-    "comments": 11,
-    "id": 48375150,
-    "discussion_url": "https://news.ycombinator.com/item?id=48375150",
-    "description": "Open Repair Data Standard",
+    "title": "Meta workers can opt out of being tracked at work up to 30 min",
+    "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+    "author": "reconnecting",
+    "date": "2026-06-03",
+    "score": 571,
+    "comments": 534,
+    "id": 48383220,
+    "discussion_url": "https://news.ycombinator.com/item?id=48383220",
+    "description": "Meta workers can opt out of being tracked at work up to 30 min",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495800"
+    "fetched_at": "2026-06-03T20:09:04.754819"
   },
   {
-    "title": "OpenFOV – Webcam head tracking for iRacing",
-    "url": "https://www.openfov.com/",
-    "author": "mwit2023",
-    "date": "2026-05-30",
-    "score": 134,
-    "comments": 61,
-    "id": 48336783,
-    "discussion_url": "https://news.ycombinator.com/item?id=48336783",
-    "description": "OpenFOV – Webcam head tracking for iRacing",
+    "title": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008",
+    "author": "aragonite",
+    "date": "2026-06-01",
+    "score": 109,
+    "comments": 26,
+    "id": 48351579,
+    "discussion_url": "https://news.ycombinator.com/item?id=48351579",
+    "description": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495807"
+    "fetched_at": "2026-06-03T20:09:04.754842"
+  },
+  {
+    "title": "PlayStation Architecture",
+    "url": "https://www.copetti.org/writings/consoles/playstation/",
+    "author": "gregsadetsky",
+    "date": "2026-06-03",
+    "score": 206,
+    "comments": 42,
+    "id": 48382142,
+    "discussion_url": "https://news.ycombinator.com/item?id=48382142",
+    "description": "PlayStation Architecture",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-03T20:09:04.754827"
   },
   {
     "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
     "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
     "author": "fons-p",
     "date": "2026-06-02",
-    "score": 159,
-    "comments": 19,
+    "score": 208,
+    "comments": 37,
     "id": 48377496,
     "discussion_url": "https://news.ycombinator.com/item?id=48377496",
     "description": "Pluto.jl 1.0 release – reactive notebook for Julia",
@@ -337,49 +371,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495774"
+    "fetched_at": "2026-06-03T20:09:04.754918"
   },
   {
-    "title": "Preparing for KDE Plasma's Last X11-Supported Release",
-    "url": "https://blog.davidedmundson.co.uk/blog/596/",
-    "author": "jandeboevrie",
-    "date": "2026-06-02",
-    "score": 204,
-    "comments": 279,
-    "id": 48370588,
-    "discussion_url": "https://news.ycombinator.com/item?id=48370588",
-    "description": "Preparing for KDE Plasma's Last X11-Supported Release",
+    "title": "Roku LT Operating System open source distribution",
+    "url": "https://blog.roku.com/developer/roku-lt-os",
+    "author": "dpmdpm",
+    "date": "2026-06-03",
+    "score": 122,
+    "comments": 63,
+    "id": 48378495,
+    "discussion_url": "https://news.ycombinator.com/item?id=48378495",
+    "description": "Roku LT Operating System open source distribution",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495815"
+    "fetched_at": "2026-06-03T20:09:04.754932"
   },
   {
-    "title": "Show HN: Eyeball",
-    "url": "https://eyeball.rory.codes/",
-    "author": "mrroryflint",
+    "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+    "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+    "author": "nathell",
     "date": "2026-06-02",
-    "score": 261,
-    "comments": 80,
-    "id": 48367723,
-    "discussion_url": "https://news.ycombinator.com/item?id=48367723",
-    "description": "Show HN: Eyeball",
+    "score": 215,
+    "comments": 29,
+    "id": 48374552,
+    "discussion_url": "https://news.ycombinator.com/item?id=48374552",
+    "description": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495874"
+    "fetched_at": "2026-06-03T20:09:04.754815"
   },
   {
     "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
     "url": "https://github.com/s-macke/Test-Drive-3-Maps",
     "author": "s-macke",
     "date": "2026-05-31",
-    "score": 137,
-    "comments": 33,
+    "score": 188,
+    "comments": 53,
     "id": 48344327,
     "discussion_url": "https://news.ycombinator.com/item?id=48344327",
     "description": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
@@ -388,49 +422,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495711"
+    "fetched_at": "2026-06-03T20:09:04.754862"
   },
   {
-    "title": "Squillions: How money laundering won",
-    "url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions",
-    "author": "rwmj",
-    "date": "2026-05-31",
-    "score": 185,
-    "comments": 198,
-    "id": 48344535,
-    "discussion_url": "https://news.ycombinator.com/item?id=48344535",
-    "description": "Squillions: How money laundering won",
+    "title": "The Public Should Own Half of the Big A.I. Companies",
+    "url": "https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/",
+    "author": "droidjj",
+    "date": "2026-06-03",
+    "score": 151,
+    "comments": 195,
+    "id": 48386551,
+    "discussion_url": "https://news.ycombinator.com/item?id=48386551",
+    "description": "The Public Should Own Half of the Big A.I. Companies",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495882"
-  },
-  {
-    "title": "Stop Ruining It",
-    "url": "https://seths.blog/2026/06/stop-ruining-it/",
-    "author": "herbertl",
-    "date": "2026-06-02",
-    "score": 284,
-    "comments": 140,
-    "id": 48368059,
-    "discussion_url": "https://news.ycombinator.com/item?id=48368059",
-    "description": "Stop Ruining It",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495844"
+    "fetched_at": "2026-06-03T20:09:04.754874"
   },
   {
     "title": "The Unreasonable Redundancy of Nature's Protein Folds",
     "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
     "author": "ray__",
     "date": "2026-06-03",
-    "score": 115,
-    "comments": 33,
+    "score": 150,
+    "comments": 48,
     "id": 48379669,
     "discussion_url": "https://news.ycombinator.com/item?id=48379669",
     "description": "The Unreasonable Redundancy of Nature's Protein Folds",
@@ -439,66 +456,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495730"
+    "fetched_at": "2026-06-03T20:09:04.754906"
   },
   {
-    "title": "The advertising cartel coming to your web browser",
-    "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
-    "author": "speckx",
-    "date": "2026-06-02",
-    "score": 215,
-    "comments": 60,
-    "id": 48375175,
-    "discussion_url": "https://news.ycombinator.com/item?id=48375175",
-    "description": "The advertising cartel coming to your web browser",
+    "title": "U of T researchers demonstrate AI worm could target any online device",
+    "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+    "author": "shscs911",
+    "date": "2026-06-03",
+    "score": 128,
+    "comments": 40,
+    "id": 48379664,
+    "discussion_url": "https://news.ycombinator.com/item?id=48379664",
+    "description": "U of T researchers demonstrate AI worm could target any online device",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495870"
+    "fetched_at": "2026-06-03T20:09:04.754893"
   },
   {
-    "title": "The newest Instagram “exploit” is the goofiest I've seen",
-    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "author": "ssiddharth",
-    "date": "2026-06-01",
-    "score": 2156,
-    "comments": 474,
-    "id": 48359102,
-    "discussion_url": "https://news.ycombinator.com/item?id=48359102",
-    "description": "The newest Instagram “exploit” is the goofiest I've seen",
+    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "author": "pdyc",
+    "date": "2026-06-03",
+    "score": 177,
+    "comments": 228,
+    "id": 48383056,
+    "discussion_url": "https://news.ycombinator.com/item?id=48383056",
+    "description": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495896"
-  },
-  {
-    "title": "Trump signs downsized AI order after weeks of reversals",
-    "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-    "author": "_alternator_",
-    "date": "2026-06-02",
-    "score": 218,
-    "comments": 159,
-    "id": 48372628,
-    "discussion_url": "https://news.ycombinator.com/item?id=48372628",
-    "description": "Trump signs downsized AI order after weeks of reversals",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495829"
+    "fetched_at": "2026-06-03T20:09:04.754772"
   },
   {
     "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
     "url": "https://github.com/c0dejedi/nbd-vram",
     "author": "tanelpoder",
     "date": "2026-06-02",
-    "score": 354,
-    "comments": 94,
+    "score": 448,
+    "comments": 113,
     "id": 48377404,
     "discussion_url": "https://news.ycombinator.com/item?id=48377404",
     "description": "Use your Nvidia GPU's VRAM as swap space on Linux",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-03T12:34:43.495770"
+    "fetched_at": "2026-06-03T20:09:04.754866"
   }
 ]
