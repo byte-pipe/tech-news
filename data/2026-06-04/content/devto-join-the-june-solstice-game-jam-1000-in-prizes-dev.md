@@ -1,10 +1,10 @@
 ---
 title: 'Join the June Solstice Game Jam: $1,000 in prizes! - DEV Community'
-url: https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla
+url: https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla?bb=263588
 site_name: devto
 content_file: devto-join-the-june-solstice-game-jam-1000-in-prizes-dev
-fetched_at: '2026-06-04T06:55:14.144657'
-original_url: https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla
+fetched_at: '2026-06-04T12:02:23.368521'
+original_url: https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla?bb=263588
 author: Jess Lee
 date: '2026-06-03'
 description: We're excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending... Tagged with devchallenge, gamechallenge, gamedev.
