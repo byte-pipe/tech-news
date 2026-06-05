@@ -1,0 +1,302 @@
+---
+title: '[2606.03673] Chasing Lightning: Detecting, Characterizing, and Identifying a Powerful Space-Based GNSS Interference Source'
+url: https://arxiv.org/abs/2606.03673
+site_name: hackernews_api
+content_file: hackernews_api-260603673-chasing-lightning-detecting-characterizi
+fetched_at: '2026-06-05T19:36:40.205784'
+original_url: https://arxiv.org/abs/2606.03673
+author: mimorigasaka
+date: '2026-06-05'
+description: 'Abstract page for arXiv paper 2606.03673: Chasing Lightning: Detecting, Characterizing, and Identifying a Powerful Space-Based GNSS Interference Source'
+tags:
+- hackernews
+- trending
+---
+
+# Electrical Engineering and Systems Science > Signal Processing
+
+arXiv:2606.03673
+ (eess)
+ 
+
+ [Submitted on 2 Jun 2026]
+
+# Title:Chasing Lightning: Detecting, Characterizing, and Identifying a Powerful Space-Based GNSS Interference Source
+
+Authors:
+Zachary L. Clements
+, 
+Argyris Kriezis
+, 
+Todd E. Humphreys
+ 
+View a PDF of the paper titled Chasing Lightning: Detecting, Characterizing, and Identifying a Powerful Space-Based GNSS Interference Source, by Zachary L. Clements and Argyris Kriezis and Todd E. Humphreys
+
+View PDF
+
+HTML (experimental)
+
+Abstract:
+This paper analyzes and identifies a space-based Global Navigation Satellite System (GNSS) interference source that has caused scores of powerful transient wide-area interference events over continental Europe, Greenland, and Canada since 2019. While terrestrial or near-terrestrial sources are primarily responsible for the recent uptick in GNSS interference worldwide, space-based interferers are of special concern given their potential for vast geographic reach and their portent of a qualitative escalation in GNSS interference. Based on data collected between 2019 and 2026 from a network of terrestrial GNSS reference stations, this paper (1) develops a received-power-based detection framework; (2) details the spatial, temporal, and spectral patterns of wide-area interference events caused by the source; (3) presents and analyzes identification techniques that blend received-power and time-difference-of-arrival measurements; and (4) applies these techniques to confidently identify the GNSS interference source as a constellation of Russian early warning satellites in Molniya ("lightning") orbits.
+ 
+
+ 
+
+Comments:
+
+Subjects:
+
+Signal Processing (eess.SP)
+
+Cite as:
+
+arXiv:2606.03673
+ [eess.SP]
+
+ 
+
+(or 
+
+arXiv:2606.03673v1
+ [eess.SP]
+ for this version)
+ 
+
+ 
+
+ 
+https://doi.org/10.48550/arXiv.2606.03673
+
+Focus to learn more
+
+ arXiv-issued DOI via DataCite (pending registration)
+
+## Submission history
+
+ From: Todd Humphreys [
+view email
+] 
+ 
+[v1]
+
+ Tue, 2 Jun 2026 13:57:43 UTC (2,828 KB)
+
+ 
+
+Full-text links:
+
+## Access Paper:
+
+* View PDF
+* HTML (experimental)
+* TeX Source
+
+view license
+
+ 
+
+### Current browse context:
+
+eess.SP
+
+< prev
+
+  |  
+ 
+
+next >
+
+new
+
+ | 
+
+recent
+
+ | 
+2026-06
+
+ Change to browse by:
+ 
+
+eess
+
+### References & Citations
+
+* Google Scholar
+* Semantic Scholar
+
+export BibTeX citation
+
+Loading...
+
+## BibTeX formatted citation
+
+×
+
+loading...
+
+Data provided by: 
+
+### Bookmark
+
+ 
+
+Bibliographic Tools
+
+# Bibliographic and Citation Tools
+
+Bibliographic Explorer Toggle
+
+Bibliographic Explorer
+ 
+(
+What is the Explorer?
+)
+
+Connected Papers Toggle
+
+Connected Papers
+ 
+(
+What is Connected Papers?
+)
+
+Litmaps Toggle
+
+Litmaps
+ 
+(
+What is Litmaps?
+)
+
+scite.ai Toggle
+
+scite Smart Citations
+ 
+(
+What are Smart Citations?
+)
+
+Code, Data, Media
+
+# Code, Data and Media Associated with this Article
+
+alphaXiv Toggle
+
+alphaXiv
+ 
+(
+What is alphaXiv?
+)
+
+Links to Code Toggle
+
+CatalyzeX Code Finder for Papers
+ 
+(
+What is CatalyzeX?
+)
+
+DagsHub Toggle
+
+DagsHub
+ 
+(
+What is DagsHub?
+)
+
+GotitPub Toggle
+
+Gotit.pub
+ 
+(
+What is GotitPub?
+)
+
+Huggingface Toggle
+
+Hugging Face
+ 
+(
+What is Huggingface?
+)
+
+ScienceCast Toggle
+
+ScienceCast
+ 
+(
+What is ScienceCast?
+)
+
+Demos
+
+# Demos
+
+Replicate Toggle
+
+Replicate
+ 
+(
+What is Replicate?
+)
+
+Spaces Toggle
+
+Hugging Face Spaces
+ 
+(
+What is Spaces?
+)
+
+Spaces Toggle
+
+TXYZ.AI
+ 
+(
+What is TXYZ.AI?
+)
+
+Related Papers
+
+# Recommenders and Search Tools
+
+Link to Influence Flower
+
+Influence Flower
+ 
+(
+What are Influence Flowers?
+)
+
+Core recommender toggle
+
+CORE Recommender
+ 
+(
+What is CORE?
+)
+
+* Author
+* Venue
+* Institution
+* Topic
+
+ About arXivLabs
+ 
+
+# arXivLabs: experimental projects with community collaborators
+
+arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.
+
+Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.
+
+Have an idea for a project that will add value for arXiv's community?Learn more about arXivLabs.
+
+Which authors of this paper are endorsers?
+ |
+ 
+Disable MathJax
+ (
+What is MathJax?
+)
