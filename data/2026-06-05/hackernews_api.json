@@ -1,0 +1,512 @@
+[
+  {
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "author": "binyu",
+    "date": "2026-06-04",
+    "score": 448,
+    "comments": 127,
+    "id": 48403980,
+    "discussion_url": "https://news.ycombinator.com/item?id=48403980",
+    "description": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.787993"
+  },
+  {
+    "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+    "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+    "author": "haydenbarnes",
+    "date": "2026-06-05",
+    "score": 116,
+    "comments": 99,
+    "id": 48407499,
+    "discussion_url": "https://news.ycombinator.com/item?id=48407499",
+    "description": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788177"
+  },
+  {
+    "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+    "url": "https://tiki.li/blog/blqsort",
+    "author": "birdculture",
+    "date": "2026-06-02",
+    "score": 186,
+    "comments": 57,
+    "id": 48375445,
+    "discussion_url": "https://news.ycombinator.com/item?id=48375445",
+    "description": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788020"
+  },
+  {
+    "title": "C++: The Documentary",
+    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "author": "ingve",
+    "date": "2026-06-05",
+    "score": 186,
+    "comments": 122,
+    "id": 48408016,
+    "discussion_url": "https://news.ycombinator.com/item?id=48408016",
+    "description": "C++: The Documentary",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788011"
+  },
+  {
+    "title": "Changing How We Develop Ladybird",
+    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+    "author": "EdwinHoksberg",
+    "date": "2026-06-05",
+    "score": 407,
+    "comments": 259,
+    "id": 48409191,
+    "discussion_url": "https://news.ycombinator.com/item?id=48409191",
+    "description": "Changing How We Develop Ladybird",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.787930"
+  },
+  {
+    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "url": "https://arxiv.org/abs/2606.04032",
+    "author": "Anon84",
+    "date": "2026-06-04",
+    "score": 180,
+    "comments": 34,
+    "id": 48405931,
+    "discussion_url": "https://news.ycombinator.com/item?id=48405931",
+    "description": "Do transformers need three projections? Systematic study of QKV variants",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.787998"
+  },
+  {
+    "title": "Elixir v1.20: Now a gradually typed language",
+    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "author": "cloud8421",
+    "date": "2026-06-03",
+    "score": 976,
+    "comments": 392,
+    "id": 48388324,
+    "discussion_url": "https://news.ycombinator.com/item?id=48388324",
+    "description": "Elixir v1.20: Now a gradually typed language",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788210"
+  },
+  {
+    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+    "author": "littlexsparkee",
+    "date": "2026-06-04",
+    "score": 779,
+    "comments": 740,
+    "id": 48392004,
+    "discussion_url": "https://news.ycombinator.com/item?id=48392004",
+    "description": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788154"
+  },
+  {
+    "title": "Fine-tuning an LLM to write docs like it's 1995",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "author": "taubek",
+    "date": "2026-06-05",
+    "score": 86,
+    "comments": 38,
+    "id": 48408442,
+    "discussion_url": "https://news.ycombinator.com/item?id=48408442",
+    "description": "Fine-tuning an LLM to write docs like it's 1995",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.787955"
+  },
+  {
+    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "author": "rvz",
+    "date": "2026-06-03",
+    "score": 1035,
+    "comments": 384,
+    "id": 48385906,
+    "discussion_url": "https://news.ycombinator.com/item?id=48385906",
+    "description": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788206"
+  },
+  {
+    "title": "I'm skeptical about efforts to revolutionize schooling",
+    "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+    "author": "andrewstuart",
+    "date": "2026-06-02",
+    "score": 199,
+    "comments": 296,
+    "id": 48376008,
+    "discussion_url": "https://news.ycombinator.com/item?id=48376008",
+    "description": "I'm skeptical about efforts to revolutionize schooling",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.787919"
+  },
+  {
+    "title": "Ian's Secure Shoelace Knot",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "author": "mooreds",
+    "date": "2026-06-04",
+    "score": 561,
+    "comments": 210,
+    "id": 48397028,
+    "discussion_url": "https://news.ycombinator.com/item?id=48397028",
+    "description": "Ian's Secure Shoelace Knot",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788150"
+  },
+  {
+    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+    "url": "https://github.com/huawei-csl/KVarN",
+    "author": "theanonymousone",
+    "date": "2026-06-04",
+    "score": 139,
+    "comments": 13,
+    "id": 48399974,
+    "discussion_url": "https://news.ycombinator.com/item?id=48399974",
+    "description": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788076"
+  },
+  {
+    "title": "Kiki – a tiny homepage construction kit with a small footprint",
+    "url": "https://tomotama.com/kiki",
+    "author": "tobr",
+    "date": "2026-05-31",
+    "score": 134,
+    "comments": 79,
+    "id": 48348545,
+    "discussion_url": "https://news.ycombinator.com/item?id=48348545",
+    "description": "Kiki – a tiny homepage construction kit with a small footprint",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788203"
+  },
+  {
+    "title": "Learn SQL Once, Use It for 30 Years",
+    "url": "https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03",
+    "author": "karakoram",
+    "date": "2026-05-31",
+    "score": 295,
+    "comments": 207,
+    "id": 48347483,
+    "discussion_url": "https://news.ycombinator.com/item?id=48347483",
+    "description": "Learn SQL Once, Use It for 30 Years",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788168"
+  },
+  {
+    "title": "Meta enables ADB on deprecated Portal devices [video]",
+    "url": "https://fb.watch/HxPu0fSyeH/",
+    "author": "jenders",
+    "date": "2026-06-05",
+    "score": 238,
+    "comments": 88,
+    "id": 48406640,
+    "discussion_url": "https://news.ycombinator.com/item?id=48406640",
+    "description": "Meta enables ADB on deprecated Portal devices [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.787961"
+  },
+  {
+    "title": "Meta's ships facial recognition on smart glasses",
+    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+    "author": "buchodi",
+    "date": "2026-06-04",
+    "score": 275,
+    "comments": 231,
+    "id": 48403588,
+    "discussion_url": "https://news.ycombinator.com/item?id=48403588",
+    "description": "Meta's ships facial recognition on smart glasses",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788199"
+  },
+  {
+    "title": "Open Code Review – An AI-powered code review CLI tool",
+    "url": "https://github.com/alibaba/open-code-review",
+    "author": "geoffbp",
+    "date": "2026-06-05",
+    "score": 197,
+    "comments": 57,
+    "id": 48406358,
+    "discussion_url": "https://news.ycombinator.com/item?id=48406358",
+    "description": "Open Code Review – An AI-powered code review CLI tool",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788002"
+  },
+  {
+    "title": "Queen bees emerge from special wax chambers",
+    "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+    "author": "gmays",
+    "date": "2026-06-04",
+    "score": 92,
+    "comments": 18,
+    "id": 48404905,
+    "discussion_url": "https://news.ycombinator.com/item?id=48404905",
+    "description": "Queen bees emerge from special wax chambers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788081"
+  },
+  {
+    "title": "Retro-Tech Parenting",
+    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+    "author": "mawise",
+    "date": "2026-06-04",
+    "score": 318,
+    "comments": 212,
+    "id": 48400588,
+    "discussion_url": "https://news.ycombinator.com/item?id=48400588",
+    "description": "Retro-Tech Parenting",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788068"
+  },
+  {
+    "title": "Samurai City",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "author": "zdw",
+    "date": "2026-06-02",
+    "score": 176,
+    "comments": 39,
+    "id": 48366090,
+    "discussion_url": "https://news.ycombinator.com/item?id=48366090",
+    "description": "Samurai City",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788059"
+  },
+  {
+    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+    "author": "Cider9986",
+    "date": "2026-06-04",
+    "score": 142,
+    "comments": 111,
+    "id": 48406198,
+    "discussion_url": "https://news.ycombinator.com/item?id=48406198",
+    "description": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788141"
+  },
+  {
+    "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+    "author": "tristanj",
+    "date": "2026-06-04",
+    "score": 657,
+    "comments": 322,
+    "id": 48405718,
+    "discussion_url": "https://news.ycombinator.com/item?id=48405718",
+    "description": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788037"
+  },
+  {
+    "title": "They’re made out of weights",
+    "url": "https://maxleiter.com/blog/weights",
+    "author": "MaxLeiter",
+    "date": "2026-06-03",
+    "score": 1456,
+    "comments": 646,
+    "id": 48391611,
+    "discussion_url": "https://news.ycombinator.com/item?id=48391611",
+    "description": "They’re made out of weights",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788123"
+  },
+  {
+    "title": "Tracing a powerful GNSS interference source over Europe",
+    "url": "https://arxiv.org/abs/2606.03673",
+    "author": "mimorigasaka",
+    "date": "2026-06-05",
+    "score": 119,
+    "comments": 29,
+    "id": 48409664,
+    "discussion_url": "https://news.ycombinator.com/item?id=48409664",
+    "description": "Tracing a powerful GNSS interference source over Europe",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.787906"
+  },
+  {
+    "title": "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
+    "url": "https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77",
+    "author": "cobbzilla",
+    "date": "2026-06-02",
+    "score": 167,
+    "comments": 42,
+    "id": 48368725,
+    "discussion_url": "https://news.ycombinator.com/item?id=48368725",
+    "description": "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788172"
+  },
+  {
+    "title": "VoidZero Is Joining Cloudflare",
+    "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+    "author": "coloneltcb",
+    "date": "2026-06-04",
+    "score": 646,
+    "comments": 281,
+    "id": 48398055,
+    "discussion_url": "https://news.ycombinator.com/item?id=48398055",
+    "description": "VoidZero Is Joining Cloudflare",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788072"
+  },
+  {
+    "title": "WSL 2 is getting faster Windows file system access",
+    "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+    "author": "haydenbarnes",
+    "date": "2026-06-04",
+    "score": 153,
+    "comments": 127,
+    "id": 48403377,
+    "discussion_url": "https://news.ycombinator.com/item?id=48403377",
+    "description": "WSL 2 is getting faster Windows file system access",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788159"
+  },
+  {
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "author": "meetpateltech",
+    "date": "2026-06-04",
+    "score": 469,
+    "comments": 628,
+    "id": 48400842,
+    "discussion_url": "https://news.ycombinator.com/item?id=48400842",
+    "description": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.788117"
+  },
+  {
+    "title": "WiFi Time",
+    "url": "https://mitxela.com/projects/wifi_time",
+    "author": "surprisetalk",
+    "date": "2026-06-02",
+    "score": 100,
+    "comments": 4,
+    "id": 48370775,
+    "discussion_url": "https://news.ycombinator.com/item?id=48370775",
+    "description": "WiFi Time",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-05T12:03:52.787976"
+  }
+]
