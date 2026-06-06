@@ -1,0 +1,55 @@
+---
+title: Generalist - Accelerating the next phase of physical AI
+url: https://generalistai.com/blog/accelerating-the-next-phase-of-physical-ai
+site_name: tldr
+content_file: tldr-generalist-accelerating-the-next-phase-of-physical
+fetched_at: '2026-06-06T11:50:18.278620'
+original_url: https://generalistai.com/blog/accelerating-the-next-phase-of-physical-ai
+date: '2026-06-06'
+description: Millions of robots are operating in the world today. Billions more are coming across factories, warehouses, laboratories, restaurants, farms, homes, and space.
+tags:
+- tldr
+---
+
+Company
+
+## June 4, 2026
+
+# Generalist Team
+
+2 min read
+
+Listen
+
+### Table of Contents
+
+1. Introduction
+2. The frontier lab for robot intelligence
+
+Back to Blog
+
+# Accelerating the next phase of physical AI
+
+Millions of robots are operating in the world today. Billions more are coming—across factories, warehouses, laboratories, restaurants, farms, homes, and space. They will take many forms, but they will share one need: intelligence that can understand and act in the physical world.
+
+Today, we’re announcing $400 million in new funding, bringing our total raised to more than half a billion dollars. The capital being deployed today will accelerate our mission to build physical AGI and make it useful to everyone.
+
+Our ambition is matched by the conviction of the partners backing us. New major investors include Radical Ventures (lead), 8VC, Union Square Ventures, Hanabi Capital, Norwest, and all our major existing investors participated significantly, including NVIDIA, Boldstart Ventures, Spark Capital, Bezos Expeditions, and NFDG. New angel investors include Bin Lin, Fei-Fei Li, and Naval Ravikant.
+
+## The frontier lab for robot intelligence
+
+Last November,GEN-0brought robotics into the pretraining era. For the first time, models trained on an unprecedented scale of real world data demonstrated scaling laws in robotics: proof that more physical experience and larger models can predictably produce more capable systems. This April,GEN-1showed where that path leads: models that cross into commercial viability. Across a wide range of dexterous capabilities,GEN-1demonstrated traction toward the practical thresholds required for real deployments, including 99% reliability on diverse tasks, execution up to 3x faster than prior state of the art, the ability to learn complex new physical skills, and the capacity for creative problem solving through emergent improvisational intelligence.
+
+These results are not the product of a single idea. They are the compounding result of thousands of decisions, across data, models, hardware, infrastructure, operations, and deployment, made by a world-class team building at the frontier of AI and robotics. The funding gives us the resources to continue to lead in scaling robot learning: from building our next generation models, to scaling our physical data engine, from expanding our compute and training infrastructure, to working with the industries that will bring these systems into everyday use. Our goal is not to tie ourselves to any single method or label. Our goal is to build whatever is needed to make physical AGI real.
+
+The future of robotics is bigger than any single robot. Whether it’s a humanoid in the home, a robotic arm on a factory floor, a mobile robot in a warehouse, or an autonomous system in space, the vital technology will be the intelligence that works across form factors, environments, and applications.
+
+We are still early in the journey. The defining moments in AI have come when research breakthroughs and product inflections compound on each other. Only two months afterGEN-1, we are beginning to see a flywheel take shape: scaling robot learning creates better models, better models can do more useful physical work, and data from real businesses drives the next generation of more capable models.
+
+This is how general intelligence will emerge in the physical world: through systems that learn by acting, improve through experience, and become useful by working alongside people.
+
+General intelligence will be born from the physical world.
+
+We're hiring
+
+— The Generalist Team
