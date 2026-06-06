@@ -1,15 +1,5 @@
 [
   {
-    "title": "1-Click GitHub Token Stealing via a VSCode Bug (14 minute read)",
-    "url": "https://blog.ammaraskar.com/github-token-stealing/",
-    "description": "1-Click GitHub Token Stealing via a VSCode Bug (14 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-06",
-    "site_name": "tldr"
-  },
-  {
     "title": "27,000-Download Codex UI Tool Secretly Stole OpenAI Refresh Tokens (3 minute read)",
     "url": "https://hackread.com/codex-ui-tool-secretly-stole-openai-refresh-tokens/",
     "description": "27,000-Download Codex UI Tool Secretly Stole OpenAI Refresh Tokens (3 minute read)",
@@ -103,6 +93,16 @@
     "title": "AI is a Meteor. Don't be a Dinosaur (9 minute read)",
     "url": "https://windowsontheory.org/2026/05/30/ai-is-a-meteor-dont-be-a-dinosaur/",
     "description": "AI is a Meteor. Don't be a Dinosaur (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI's brave new world of technical debt (11 minute read)",
+    "url": "https://www.infoworld.com/article/4178964/ais-brave-new-world-of-technical-debt.html",
+    "description": "AI's brave new world of technical debt (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -283,16 +283,6 @@
     "title": "Bitcoin isn't crashing because of Saylor, it's losing the momentum trade (2 minute read)",
     "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-isn-t-crashing-because-of-saylor-it-s-losing-the-momentum-trade",
     "description": "Bitcoin isn't crashing because of Saylor, it's losing the momentum trade (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Bots have now passed human traffic online (4 minute read)",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year",
-    "description": "Bots have now passed human traffic online (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -580,16 +570,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Gemini Voice Assistant Hijacked via Messaging Notifications (2 minute read)",
-    "url": "https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/",
-    "description": "Gemini Voice Assistant Hijacked via Messaging Notifications (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-06",
-    "site_name": "tldr"
-  },
-  {
     "title": "GitHub's plan for Agents (90 minute read)",
     "url": "https://www.latent.space/p/github",
     "description": "GitHub's plan for Agents (90 minute read)",
@@ -700,6 +680,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "How my non-engineering team at Sentry learned to ship (9 minute read)",
+    "url": "https://read.technically.dev/p/how-matt-learned-to-ship",
+    "description": "How my non-engineering team at Sentry learned to ship (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "How to Build an Outcome-Based Pricing Plan (14 minute read)",
     "url": "https://www.thesaascfo.com/how-to-build-outcome-based-pricing/",
     "description": "How to Build an Outcome-Based Pricing Plan (14 minute read)",
@@ -713,16 +703,6 @@
     "title": "How to influence buyers with LinkedIn content (8 minute read)",
     "url": "https://pierreherubel.substack.com/p/how-to-influence-buyers-with-linkedin",
     "description": "How to influence buyers with LinkedIn content (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How to influence complex buying groups (5 minute read)",
-    "url": "https://gtmsos.substack.com/p/b2b-buying-group-messaging-strategy",
-    "description": "How to influence complex buying groups (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1123,6 +1103,16 @@
     "title": "Spacecoin Signs $100M Deal to Deploy DePIN Satellites (1 minute read)",
     "url": "https://threadreaderapp.com/thread/2062494842446569815.html",
     "description": "Spacecoin Signs $100M Deal to Deploy DePIN Satellites (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "System Over Model, Tested: Reproducing Mythos's FreeBSD Find on Local Open-Weight Models (15 minute read)",
+    "url": "https://clearbluejar.github.io/posts/system-over-model-tested-mythos-freebsd-local-openweight/",
+    "description": "System Over Model, Tested: Reproducing Mythos's FreeBSD Find on Local Open-Weight Models (15 minute read)",
     "tags": [
       "tldr"
     ],
