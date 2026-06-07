@@ -40,16 +40,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Is Breaking the Old Patch Cycle (3 minute read)",
-    "url": "https://www.redhat.com/en/blog/managing-it-operations-when-ai-outpaces-your-patching-cycle",
-    "description": "AI Is Breaking the Old Patch Cycle (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-07",
-    "site_name": "tldr"
-  },
-  {
     "title": "AI Slop Detector (GitHub Repo)",
     "url": "https://github.com/distil-labs/distil-ai-slop-detector",
     "description": "AI Slop Detector (GitHub Repo)",
@@ -60,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI is not a line item (8 minute read)",
+    "title": "AI is not a line item (9 minute read)",
     "url": "https://frontierai.substack.com/p/ai-is-not-a-line-item",
-    "description": "AI is not a line item (8 minute read)",
+    "description": "AI is not a line item (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -330,6 +320,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Cosmos (GitHub Repo)",
+    "url": "https://github.com/NVIDIA/cosmos",
+    "description": "Cosmos (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-07",
+    "site_name": "tldr"
+  },
+  {
     "title": "Crypto Projects Return Capital Too Early (1 minute read)",
     "url": "https://threadreaderapp.com/thread/2061477727174086900.html",
     "description": "Crypto Projects Return Capital Too Early (1 minute read)",
@@ -553,16 +553,6 @@
     "title": "How IKEA Uses Four UX Strategies to Simplify Complex Buying Decisions (10 minute read)",
     "url": "https://raw.studio/blog/ikea-ux/",
     "description": "How IKEA Uses Four UX Strategies to Simplify Complex Buying Decisions (10 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How a unified data model improves feature flag rollout decisions (8 minute read)",
-    "url": "https://www.datadoghq.com/blog/platform-depth-product-signals/",
-    "description": "How a unified data model improves feature flag rollout decisions (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -820,16 +810,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Odysseus (GitHub Repo)",
-    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "description": "Odysseus (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-07",
-    "site_name": "tldr"
-  },
-  {
     "title": "Op-Ed: The most creative minds in marketing are focused on the wrong things (2 minute read)",
     "url": "https://roastbrief.us/op-ed-the-most-creative-minds-in-marketing-are-focused-on-the-wrong-things/",
     "description": "Op-Ed: The most creative minds in marketing are focused on the wrong things (2 minute read)",
@@ -863,6 +843,16 @@
     "title": "Ownership of assets underlying Binance's bStocks is the Real Story (1 minute read)",
     "url": "https://threadreaderapp.com/thread/2062490054761894342.html",
     "description": "Ownership of assets underlying Binance's bStocks is the Real Story (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Private Cloud Moves Back Into the AI Spotlight (4 minute read)",
+    "url": "https://siliconangle.com/2026/06/04/private-cloud-production-ai-broadcom-modernprivatecloud/",
+    "description": "Private Cloud Moves Back Into the AI Spotlight (4 minute read)",
     "tags": [
       "tldr"
     ],

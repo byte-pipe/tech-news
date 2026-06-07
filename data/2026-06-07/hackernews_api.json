@@ -1,45 +1,79 @@
 [
   {
-    "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
-    "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
-    "author": "pkaeding",
+    "title": "Anthropic, please ship an official Claude Desktop for Linux",
+    "url": "https://github.com/anthropics/claude-code/issues/65697",
+    "author": "predkambrij",
     "date": "2026-06-07",
-    "score": 107,
-    "comments": 101,
-    "id": 48430860,
-    "discussion_url": "https://news.ycombinator.com/item?id=48430860",
-    "description": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
+    "score": 347,
+    "comments": 182,
+    "id": 48434436,
+    "discussion_url": "https://news.ycombinator.com/item?id=48434436",
+    "description": "Anthropic, please ship an official Claude Desktop for Linux",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798938"
+    "fetched_at": "2026-06-07T19:33:19.142011"
   },
   {
-    "title": "Benchmarks in Leipzig",
-    "url": "https://arxiv.org/abs/2606.05818",
-    "author": "root-parent",
-    "date": "2026-06-06",
-    "score": 134,
-    "comments": 47,
-    "id": 48425247,
-    "discussion_url": "https://news.ycombinator.com/item?id=48425247",
-    "description": "Benchmarks in Leipzig",
+    "title": "Arithmetic Without Numbers – How LLMs Do Math",
+    "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+    "author": "old_sound",
+    "date": "2026-06-05",
+    "score": 94,
+    "comments": 31,
+    "id": 48410427,
+    "discussion_url": "https://news.ycombinator.com/item?id=48410427",
+    "description": "Arithmetic Without Numbers – How LLMs Do Math",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798892"
+    "fetched_at": "2026-06-07T19:33:19.142005"
+  },
+  {
+    "title": "Biohub releases a world model of protein biology",
+    "url": "https://biohub.org/news/world-model-of-protein-biology/",
+    "author": "gmays",
+    "date": "2026-06-04",
+    "score": 142,
+    "comments": 25,
+    "id": 48393252,
+    "discussion_url": "https://news.ycombinator.com/item?id=48393252",
+    "description": "Biohub releases a world model of protein biology",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-07T19:33:19.141999"
+  },
+  {
+    "title": "Cloning a Sennheiser BA2015 battery pack",
+    "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+    "author": "zdw",
+    "date": "2026-06-06",
+    "score": 67,
+    "comments": 13,
+    "id": 48427480,
+    "discussion_url": "https://news.ycombinator.com/item?id=48427480",
+    "description": "Cloning a Sennheiser BA2015 battery pack",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-07T19:33:19.141912"
   },
   {
     "title": "Field of clones: How horse replicas came to dominate polo",
     "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
     "author": "gscott",
     "date": "2026-06-07",
-    "score": 100,
-    "comments": 45,
+    "score": 149,
+    "comments": 69,
     "id": 48431286,
     "discussion_url": "https://news.ycombinator.com/item?id=48431286",
     "description": "Field of clones: How horse replicas came to dominate polo",
@@ -48,49 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798767"
-  },
-  {
-    "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-    "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-    "author": "toephu2",
-    "date": "2026-06-05",
-    "score": 257,
-    "comments": 846,
-    "id": 48417490,
-    "discussion_url": "https://news.ycombinator.com/item?id=48417490",
-    "description": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798771"
-  },
-  {
-    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-    "author": "toomuchtodo",
-    "date": "2026-06-05",
-    "score": 569,
-    "comments": 220,
-    "id": 48415217,
-    "discussion_url": "https://news.ycombinator.com/item?id=48415217",
-    "description": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798962"
+    "fetched_at": "2026-06-07T19:33:19.142002"
   },
   {
     "title": "Harness engineering: Leveraging Codex in an agent-first world",
     "url": "https://openai.com/index/harness-engineering/",
     "author": "pramodbiligiri",
     "date": "2026-06-05",
-    "score": 213,
-    "comments": 132,
+    "score": 274,
+    "comments": 187,
     "id": 48416264,
     "discussion_url": "https://news.ycombinator.com/item?id=48416264",
     "description": "Harness engineering: Leveraging Codex in an agent-first world",
@@ -99,66 +99,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798846"
+    "fetched_at": "2026-06-07T19:33:19.142041"
   },
   {
-    "title": "Home alone: Remote work, isolation, and mental health",
-    "url": "https://www.science.org/doi/10.1126/science.aec7671",
-    "author": "speckx",
-    "date": "2026-06-06",
-    "score": 173,
-    "comments": 169,
-    "id": 48428356,
-    "discussion_url": "https://news.ycombinator.com/item?id=48428356",
-    "description": "Home alone: Remote work, isolation, and mental health",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798917"
-  },
-  {
-    "title": "How LLMs work",
-    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "author": "0xkato",
-    "date": "2026-06-03",
-    "score": 891,
-    "comments": 246,
-    "id": 48389360,
-    "discussion_url": "https://news.ycombinator.com/item?id=48389360",
-    "description": "How LLMs work",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798913"
-  },
-  {
-    "title": "I design with Claude more than Figma now",
-    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-    "author": "MrBuddyCasino",
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+    "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "author": "zeech",
     "date": "2026-06-07",
-    "score": 182,
-    "comments": 153,
-    "id": 48431981,
-    "discussion_url": "https://news.ycombinator.com/item?id=48431981",
-    "description": "I design with Claude more than Figma now",
+    "score": 154,
+    "comments": 86,
+    "id": 48431085,
+    "discussion_url": "https://news.ycombinator.com/item?id=48431085",
+    "description": "How Liminalism Became the Defining Aesthetic of Our Time",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798835"
+    "fetched_at": "2026-06-07T19:33:19.141993"
+  },
+  {
+    "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
+    "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+    "author": "crescit_eundo",
+    "date": "2026-06-04",
+    "score": 114,
+    "comments": 34,
+    "id": 48405815,
+    "discussion_url": "https://news.ycombinator.com/item?id=48405815",
+    "description": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-07T19:33:19.142028"
+  },
+  {
+    "title": "LLMs are eroding my software engineering career and I don't know what to do",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "author": "poisonfountain",
+    "date": "2026-06-07",
+    "score": 675,
+    "comments": 626,
+    "id": 48434312,
+    "discussion_url": "https://news.ycombinator.com/item?id=48434312",
+    "description": "LLMs are eroding my software engineering career and I don't know what to do",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-07T19:33:19.141975"
   },
   {
     "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
     "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
     "author": "speckx",
     "date": "2026-06-06",
-    "score": 613,
-    "comments": 226,
+    "score": 675,
+    "comments": 242,
     "id": 48427643,
     "discussion_url": "https://news.ycombinator.com/item?id=48427643",
     "description": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
@@ -167,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798852"
+    "fetched_at": "2026-06-07T19:33:19.142044"
   },
   {
     "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
     "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
     "author": "thisislife2",
     "date": "2026-06-06",
-    "score": 163,
-    "comments": 82,
+    "score": 197,
+    "comments": 130,
     "id": 48425611,
     "discussion_url": "https://news.ycombinator.com/item?id=48425611",
     "description": "Motorola effectively bricked its entire line of WiFi routers without explanation",
@@ -184,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798869"
+    "fetched_at": "2026-06-07T19:33:19.142061"
   },
   {
     "title": "Moving beyond fork() + exec()",
     "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
     "author": "jwilk",
     "date": "2026-06-06",
-    "score": 311,
-    "comments": 299,
+    "score": 340,
+    "comments": 324,
     "id": 48425528,
     "discussion_url": "https://news.ycombinator.com/item?id=48425528",
     "description": "Moving beyond fork() + exec()",
@@ -201,32 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798795"
-  },
-  {
-    "title": "My Agent Skill for Test-Driven Development",
-    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-    "author": "laxmena",
-    "date": "2026-06-04",
-    "score": 235,
-    "comments": 106,
-    "id": 48398925,
-    "discussion_url": "https://news.ycombinator.com/item?id=48398925",
-    "description": "My Agent Skill for Test-Driven Development",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798955"
+    "fetched_at": "2026-06-07T19:33:19.142022"
   },
   {
     "title": "My Software North Star",
     "url": "https://kristoff.it/blog/north-star/",
     "author": "kristoff_it",
     "date": "2026-06-03",
-    "score": 96,
-    "comments": 47,
+    "score": 187,
+    "comments": 114,
     "id": 48389368,
     "discussion_url": "https://news.ycombinator.com/item?id=48389368",
     "description": "My Software North Star",
@@ -235,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798761"
+    "fetched_at": "2026-06-07T19:33:19.141941"
   },
   {
     "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
     "url": "https://ntsc.rs/",
     "author": "gregsadetsky",
     "date": "2026-06-06",
-    "score": 354,
-    "comments": 96,
+    "score": 394,
+    "comments": 118,
     "id": 48428025,
     "discussion_url": "https://news.ycombinator.com/item?id=48428025",
     "description": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
@@ -252,66 +235,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798799"
+    "fetched_at": "2026-06-07T19:33:19.142059"
   },
   {
-    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-    "url": "https://twitter.com/lemire/status/2062880075117113739",
-    "author": "tosh",
-    "date": "2026-06-06",
-    "score": 292,
-    "comments": 482,
-    "id": 48424605,
-    "discussion_url": "https://news.ycombinator.com/item?id=48424605",
-    "description": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "title": "Podman 6: machine usability improvements (2025)",
+    "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+    "author": "daesorin",
+    "date": "2026-06-07",
+    "score": 68,
+    "comments": 5,
+    "id": 48434963,
+    "discussion_url": "https://news.ycombinator.com/item?id=48434963",
+    "description": "Podman 6: machine usability improvements (2025)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798839"
-  },
-  {
-    "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-    "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-    "author": "MilnerRoute",
-    "date": "2026-06-06",
-    "score": 526,
-    "comments": 417,
-    "id": 48427523,
-    "discussion_url": "https://news.ycombinator.com/item?id=48427523",
-    "description": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798921"
-  },
-  {
-    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-    "url": "https://pokeemerald.com/",
-    "author": "tripplyons",
-    "date": "2026-06-06",
-    "score": 326,
-    "comments": 95,
-    "id": 48423762,
-    "discussion_url": "https://news.ycombinator.com/item?id=48423762",
-    "description": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798879"
+    "fetched_at": "2026-06-07T19:33:19.141962"
   },
   {
     "title": "Public Domain Image Archive",
     "url": "https://pdimagearchive.org/",
     "author": "davidbarker",
     "date": "2026-06-07",
-    "score": 140,
-    "comments": 22,
+    "score": 222,
+    "comments": 31,
     "id": 48430539,
     "discussion_url": "https://news.ycombinator.com/item?id=48430539",
     "description": "Public Domain Image Archive",
@@ -320,32 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798807"
+    "fetched_at": "2026-06-07T19:33:19.141937"
   },
   {
-    "title": "Running Python code in a sandbox with MicroPython and WASM",
-    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
-    "author": "theanonymousone",
-    "date": "2026-06-06",
-    "score": 96,
-    "comments": 30,
-    "id": 48425347,
-    "discussion_url": "https://news.ycombinator.com/item?id=48425347",
-    "description": "Running Python code in a sandbox with MicroPython and WASM",
+    "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+    "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+    "author": "BerislavLopac",
+    "date": "2026-06-07",
+    "score": 280,
+    "comments": 188,
+    "id": 48433410,
+    "discussion_url": "https://news.ycombinator.com/item?id=48433410",
+    "description": "Scientists ejected from diabetes conference for distributing journal reprints",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798902"
+    "fetched_at": "2026-06-07T19:33:19.142078"
   },
   {
     "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
     "url": "https://ataraxy-labs.github.io/sem/",
     "author": "rohanucla",
     "date": "2026-06-06",
-    "score": 126,
-    "comments": 49,
+    "score": 163,
+    "comments": 53,
     "id": 48428475,
     "discussion_url": "https://news.ycombinator.com/item?id=48428475",
     "description": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
@@ -354,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798862"
+    "fetched_at": "2026-06-07T19:33:19.142056"
   },
   {
     "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
     "url": "https://uonr.github.io/poincake/",
     "author": "uonr",
     "date": "2026-06-02",
-    "score": 172,
-    "comments": 29,
+    "score": 179,
+    "comments": 32,
     "id": 48372138,
     "discussion_url": "https://news.ycombinator.com/item?id=48372138",
     "description": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
@@ -371,49 +320,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798885"
+    "fetched_at": "2026-06-07T19:33:19.142070"
   },
   {
-    "title": "Social Cache Busting",
-    "url": "https://www.autodidacts.io/social-cache-busting/",
-    "author": "surprisetalk",
-    "date": "2026-06-02",
-    "score": 135,
-    "comments": 47,
-    "id": 48369864,
-    "discussion_url": "https://news.ycombinator.com/item?id=48369864",
-    "description": "Social Cache Busting",
+    "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+    "url": "https://kyushu.dev/",
+    "author": "le_chuck",
+    "date": "2026-06-07",
+    "score": 65,
+    "comments": 24,
+    "id": 48432722,
+    "discussion_url": "https://news.ycombinator.com/item?id=48432722",
+    "description": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798934"
+    "fetched_at": "2026-06-07T19:33:19.142025"
   },
   {
-    "title": "South Korean forums will need to scan every images with AI censorship tools",
-    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-    "author": "Cider9986",
+    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "url": "https://github.com/devenjarvis/lathe",
+    "author": "devenjarvis",
+    "date": "2026-06-07",
+    "score": 157,
+    "comments": 34,
+    "id": 48433756,
+    "discussion_url": "https://news.ycombinator.com/item?id=48433756",
+    "description": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-07T19:33:19.141988"
+  },
+  {
+    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+    "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+    "author": "kkm",
     "date": "2026-06-04",
-    "score": 268,
-    "comments": 149,
-    "id": 48406198,
-    "discussion_url": "https://news.ycombinator.com/item?id=48406198",
-    "description": "South Korean forums will need to scan every images with AI censorship tools",
+    "score": 126,
+    "comments": 21,
+    "id": 48400151,
+    "discussion_url": "https://news.ycombinator.com/item?id=48400151",
+    "description": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798968"
+    "fetched_at": "2026-06-07T19:33:19.141966"
+  },
+  {
+    "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+    "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+    "author": "mmastrac",
+    "date": "2026-06-05",
+    "score": 136,
+    "comments": 11,
+    "id": 48415457,
+    "discussion_url": "https://news.ycombinator.com/item?id=48415457",
+    "description": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-07T19:33:19.141972"
   },
   {
     "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
     "url": "https://www.ioccc.org/2025/",
     "author": "matt_d",
     "date": "2026-06-07",
-    "score": 201,
-    "comments": 50,
+    "score": 327,
+    "comments": 76,
     "id": 48432199,
     "discussion_url": "https://news.ycombinator.com/item?id=48432199",
     "description": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
@@ -422,32 +405,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798779"
+    "fetched_at": "2026-06-07T19:33:19.142031"
   },
   {
-    "title": "The perils of UUID primary keys in SQLite",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "author": "emschwartz",
-    "date": "2026-06-05",
-    "score": 166,
-    "comments": 97,
-    "id": 48419571,
-    "discussion_url": "https://news.ycombinator.com/item?id=48419571",
-    "description": "The perils of UUID primary keys in SQLite",
+    "title": "The gamers taking on the industry to stop it switching off games",
+    "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
+    "author": "Brajeshwar",
+    "date": "2026-06-07",
+    "score": 67,
+    "comments": 68,
+    "id": 48436246,
+    "discussion_url": "https://news.ycombinator.com/item?id=48436246",
+    "description": "The gamers taking on the industry to stop it switching off games",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798909"
+    "fetched_at": "2026-06-07T19:33:19.141982"
+  },
+  {
+    "title": "The new bibliomaniacs",
+    "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+    "author": "RickJWagner",
+    "date": "2026-06-06",
+    "score": 80,
+    "comments": 78,
+    "id": 48424125,
+    "discussion_url": "https://news.ycombinator.com/item?id=48424125",
+    "description": "The new bibliomaniacs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-07T19:33:19.142075"
   },
   {
     "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
     "url": "https://arxiv.org/abs/2601.14470",
     "author": "Anon84",
     "date": "2026-06-07",
-    "score": 112,
-    "comments": 44,
+    "score": 157,
+    "comments": 65,
     "id": 48430923,
     "discussion_url": "https://news.ycombinator.com/item?id=48430923",
     "description": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
@@ -456,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798820"
+    "fetched_at": "2026-06-07T19:33:19.141959"
   },
   {
     "title": "Valve P2P networking broken for more than 2 months",
     "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
     "author": "babuskov",
     "date": "2026-06-07",
-    "score": 186,
-    "comments": 87,
+    "score": 251,
+    "comments": 123,
     "id": 48431461,
     "discussion_url": "https://news.ycombinator.com/item?id=48431461",
     "description": "Valve P2P networking broken for more than 2 months",
@@ -473,40 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798803"
+    "fetched_at": "2026-06-07T19:33:19.141968"
   },
   {
-    "title": "You Can Run",
-    "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-    "author": "bryanrasmussen",
-    "date": "2026-06-06",
-    "score": 127,
-    "comments": 67,
-    "id": 48426202,
-    "discussion_url": "https://news.ycombinator.com/item?id=48426202",
-    "description": "You Can Run",
+    "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
+    "author": "supermatou",
+    "date": "2026-06-07",
+    "score": 169,
+    "comments": 75,
+    "id": 48435584,
+    "discussion_url": "https://news.ycombinator.com/item?id=48435584",
+    "description": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798888"
+    "fetched_at": "2026-06-07T19:33:19.141953"
   },
   {
-    "title": "Zeroserve: A zero-config web server you can script with eBPF",
-    "url": "https://su3.io/posts/introducing-zeroserve",
-    "author": "losfair",
-    "date": "2026-06-06",
-    "score": 239,
-    "comments": 56,
-    "id": 48425723,
-    "discussion_url": "https://news.ycombinator.com/item?id=48425723",
-    "description": "Zeroserve: A zero-config web server you can script with eBPF",
+    "title": "Win16 Memory Management",
+    "url": "http://www.os2museum.com/wp/win16-memory-management/",
+    "author": "supermatou",
+    "date": "2026-06-05",
+    "score": 120,
+    "comments": 58,
+    "id": 48410844,
+    "discussion_url": "https://news.ycombinator.com/item?id=48410844",
+    "description": "Win16 Memory Management",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-07T11:37:09.798828"
+    "fetched_at": "2026-06-07T19:33:19.141996"
   }
 ]
