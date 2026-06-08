@@ -32,7 +32,7 @@
   {
     "title": "A new \"claude-oceanus-v1-p\" has been made available to Red Teams (1 minute read)",
     "url": "https://threadreaderapp.com/thread/2062548860308730061.html",
-    "description": "Why developers should not entirely rely on agents, and what you can do about it.",
+    "description": "A new \"claude-oceanus-v1-p\" has been made available to Red Teams (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -190,16 +190,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Authorization for AI agents: What to build before the EU AI Act deadline (6 minute read)",
-    "url": "https://cerbos.dev/blog/authorization-for-ai-agents-what-to-build-before-eu-ai-act-deadline",
-    "description": "Authorization for AI agents: What to build before the EU AI Act deadline (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-08",
-    "site_name": "tldr"
-  },
-  {
     "title": "Banks can turn stablecoins from deposit threat into 24/7 revenue opportunity (7 minute read)",
     "url": "https://www.fintechbrainfood.com/p/stablecoin-business-case",
     "description": "Banks can turn stablecoins from deposit threat into 24/7 revenue opportunity (7 minute read)",
@@ -223,16 +213,6 @@
     "title": "Bitcoin isn't crashing because of Saylor, it's losing the momentum trade (2 minute read)",
     "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-isn-t-crashing-because-of-saylor-it-s-losing-the-momentum-trade",
     "description": "Bitcoin isn't crashing because of Saylor, it's losing the momentum trade (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Bots have now passed human traffic online (4 minute read)",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year",
-    "description": "Bots have now passed human traffic online (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -363,16 +343,6 @@
     "title": "DaVinci Resolve 21 Officially Released With New Photo Editing, AI Tools, and Much More (7 minute read)",
     "url": "https://petapixel.com/2026/06/03/davinci-resolve-21-officially-released-with-new-photo-editing-ai-tools-and-much-more/",
     "description": "DaVinci Resolve 21 Officially Released With New Photo Editing, AI Tools, and Much More (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Debunking 8 data layout myths: why Liquid Clustering outperforms partitioning (11 minute read)",
-    "url": "https://www.databricks.com/blog/debunking-8-data-layout-myths-why-liquid-clustering-outperforms-partitioning",
-    "description": "Debunking 8 data layout myths: why Liquid Clustering outperforms partitioning (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -563,6 +533,16 @@
     "title": "How Ace Hardware Modernized IT with Jira Service Management (9 minute read)",
     "url": "https://www.atlassian.com/blog/jira-service-management/how-ace-hardware-transformed-itsm",
     "description": "How Ace Hardware Modernized IT with Jira Service Management (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Anthropic enables self-service data analytics with Claude (5 minute read)",
+    "url": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+    "description": "How Anthropic enables self-service data analytics with Claude (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -840,6 +820,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Ollama Model Tester (GitHub Repo)",
+    "url": "https://github.com/ulyssestenn/omt",
+    "description": "Ollama Model Tester (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-08",
+    "site_name": "tldr"
+  },
+  {
     "title": "Op-Ed: The most creative minds in marketing are focused on the wrong things (2 minute read)",
     "url": "https://roastbrief.us/op-ed-the-most-creative-minds-in-marketing-are-focused-on-the-wrong-things/",
     "description": "Op-Ed: The most creative minds in marketing are focused on the wrong things (2 minute read)",
@@ -900,16 +890,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Silicon control (50 minute read)",
-    "url": "https://silicon-frontier.com/research/silicon-control",
-    "description": "Silicon control (50 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-08",
-    "site_name": "tldr"
-  },
-  {
     "title": "Single responsibility, the distorted principle (11 minute read)",
     "url": "https://www.truehenrique.com/en/2021/10/27/single-responsibility-the-distorted-principle/",
     "description": "Single responsibility, the distorted principle (11 minute read)",
@@ -930,9 +910,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Small modular nuclear reactor reaches criticality in first test (2 minute read)",
+    "url": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
+    "description": "Small modular nuclear reactor reaches criticality in first test (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-08",
+    "site_name": "tldr"
+  },
+  {
     "title": "Spacecoin Signs $100M Deal to Deploy DePIN Satellites (1 minute read)",
     "url": "https://threadreaderapp.com/thread/2062494842446569815.html",
     "description": "Spacecoin Signs $100M Deal to Deploy DePIN Satellites (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Structure vs. Concept (9 minute read)",
+    "url": "https://ontologist.substack.com/p/structure-vs-concept",
+    "description": "Structure vs. Concept (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -953,6 +953,16 @@
     "title": "The AI Treadmill (8 minute read)",
     "url": "https://debliu.substack.com/p/the-ai-treadmill",
     "description": "The AI Treadmill (8 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Basic Spark Concept Beginners Don't Know (3 minute read)",
+    "url": "https://andreaskretz.substack.com/p/the-basic-spark-concept-beginners",
+    "description": "The Basic Spark Concept Beginners Don't Know (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1000,9 +1010,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Rise of Multi-Query Engines (7 minute read)",
-    "url": "https://dataopsleadership.substack.com/p/the-rise-of-multi-query-engines-how",
-    "description": "The Rise of Multi-Query Engines (7 minute read)",
+    "title": "The Tableau Exodus Has Begun (4 minute read)",
+    "url": "https://superdatablog.substack.com/p/the-tableau-exodus-has-begun",
+    "description": "The Tableau Exodus Has Begun (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1023,6 +1033,16 @@
     "title": "The creator economy is dead. The expert economy replaced it (4 minute read)",
     "url": "https://strategybreakdowns.com/p/kajabi",
     "description": "The creator economy is dead. The expert economy replaced it (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The future of the web is weirdly human (6 minute read)",
+    "url": "https://www.jonoalderson.com/conjecture/weirdly-human/",
+    "description": "The future of the web is weirdly human (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1080,9 +1100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Visa backs Replit as agentic payments move into developer workflows (3 minute read)",
-    "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-    "description": "Visa backs Replit as agentic payments move into developer workflows (3 minute read)",
+    "title": "Vibe Coding Is Dangerous, Agentic Engineering Isn't (15 minute read)",
+    "url": "https://motherduck.com/blog/vibe-coding-dangerous-agentic-engineering-wes-mckinney/",
+    "description": "Vibe Coding Is Dangerous, Agentic Engineering Isn't (15 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1090,9 +1110,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What Google Did To Websites Is Happening To Your App Right Now (12 minute read)",
-    "url": "https://vinvashishta.substack.com/p/what-google-did-to-websites-is-happening",
-    "description": "What Google Did To Websites Is Happening To Your App Right Now (12 minute read)",
+    "title": "Visa backs Replit as agentic payments move into developer workflows (3 minute read)",
+    "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+    "description": "Visa backs Replit as agentic payments move into developer workflows (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1150,6 +1170,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Why Robotics is a Pre-Paradigm Field (6 minute read)",
+    "url": "https://whattotelltherobot.com/p/why-robotics-is-a-pre-paradigm-field",
+    "description": "Why Robotics is a Pre-Paradigm Field (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-08",
+    "site_name": "tldr"
+  },
+  {
     "title": "Why Visual Storytelling in UX Matters More than Ever (10 minute read)",
     "url": "https://www.uxpin.com/studio/blog/why-visual-storytelling-in-ux-matters-more-than-ever/",
     "description": "Why Visual Storytelling in UX Matters More than Ever (10 minute read)",
@@ -1190,16 +1220,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "You'll Get Re-Orged Again This Year. Here's How to Be Ready (13 minute read)",
-    "url": "https://alifeengineered.substack.com/p/youll-get-re-orged-again-this-year",
-    "description": "You'll Get Re-Orged Again This Year. Here's How to Be Ready (13 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-08",
-    "site_name": "tldr"
-  },
-  {
     "title": "Your Follower Count Stopped Driving Your LinkedIn Reach. The Data Proves It (4 minute read)",
     "url": "https://www.thestateofbrand.com/news/follower-count-stopped-driving-linkedin-reach",
     "description": "Your Follower Count Stopped Driving Your LinkedIn Reach. The Data Proves It (4 minute read)",
@@ -1220,16 +1240,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "claude-red (GitHub Repo)",
-    "url": "https://github.com/SnailSploit/Claude-Red",
-    "description": "claude-red (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-08",
-    "site_name": "tldr"
-  },
-  {
     "title": "dbt Core v2 is here: still open source, now rebuilt for what's next (9 minute read)",
     "url": "https://docs.getdbt.com/blog/dbt-core-v2-is-here",
     "description": "dbt Core v2 is here: still open source, now rebuilt for what's next (9 minute read)",
@@ -1240,9 +1250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "ingestr (GitHub Repo)",
-    "url": "https://github.com/bruin-data/ingestr",
-    "description": "ingestr (GitHub Repo)",
+    "title": "sem (GitHub Repo)",
+    "url": "https://github.com/Ataraxy-Labs/sem",
+    "description": "Why developers should not entirely rely on agents, and what you can do about it.",
     "tags": [
       "tldr"
     ],

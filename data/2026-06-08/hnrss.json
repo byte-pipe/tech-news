@@ -1,227 +1,272 @@
 [
   {
-    "title": "An Ohio Valley 100k-watt FM signal is severed in broad daylight",
-    "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
-    "description": "An Ohio Valley 100k-watt FM signal is severed in broad daylight",
-    "date": "2026-06-07",
-    "score": 144,
-    "comments": 140,
-    "discussion_url": "https://news.ycombinator.com/item?id=48430860",
+    "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+    "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+    "description": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+    "date": "2026-06-08",
+    "score": 193,
+    "comments": 69,
+    "discussion_url": "https://news.ycombinator.com/item?id=48440952",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067818"
+    "fetched_at": "2026-06-08T12:33:56.550040"
   },
   {
-    "title": "Anthropic, please ship an official Claude Desktop for Linux",
-    "url": "https://github.com/anthropics/claude-code/issues/65697",
-    "description": "Anthropic, please ship an official Claude Desktop for Linux",
-    "date": "2026-06-07",
-    "score": 447,
-    "comments": 255,
-    "discussion_url": "https://news.ycombinator.com/item?id=48434436",
+    "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+    "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+    "description": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+    "date": "2026-06-08",
+    "score": 134,
+    "comments": 20,
+    "discussion_url": "https://news.ycombinator.com/item?id=48440008",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067752"
+    "fetched_at": "2026-06-08T12:33:56.550171"
+  },
+  {
+    "title": "APC–2 – A professional record cutter for producing original playback discs",
+    "url": "https://teenage.engineering/products/apc-2",
+    "description": "APC–2 – A professional record cutter for producing original playback discs",
+    "date": "2026-06-08",
+    "score": 233,
+    "comments": 126,
+    "discussion_url": "https://news.ycombinator.com/item?id=48440383",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-08T12:33:56.550106"
+  },
+  {
+    "title": "Algorithmic Monocultures in Hiring",
+    "url": "https://algorithmichiring.github.io/",
+    "description": "Algorithmic Monocultures in Hiring",
+    "date": "2026-06-08",
+    "score": 118,
+    "comments": 51,
+    "discussion_url": "https://news.ycombinator.com/item?id=48440549",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-08T12:33:56.550063"
   },
   {
     "title": "Building from zero after addiction, prison, and a felony",
     "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
     "description": "Building from zero after addiction, prison, and a felony",
     "date": "2026-06-07",
-    "score": 383,
-    "comments": 166,
+    "score": 701,
+    "comments": 318,
     "discussion_url": "https://news.ycombinator.com/item?id=48437406",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067697"
+    "fetched_at": "2026-06-08T12:33:56.550206"
   },
   {
-    "title": "Cloning a Sennheiser BA2015 battery pack",
-    "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
-    "description": "Cloning a Sennheiser BA2015 battery pack",
-    "date": "2026-06-06",
-    "score": 103,
-    "comments": 17,
-    "discussion_url": "https://news.ycombinator.com/item?id=48427480",
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "description": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+    "date": "2026-06-08",
+    "score": 311,
+    "comments": 156,
+    "discussion_url": "https://news.ycombinator.com/item?id=48440448",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067830"
+    "fetched_at": "2026-06-08T12:33:56.550093"
+  },
+  {
+    "title": "Dopamine Fracking",
+    "url": "https://igerman.cc/blog/dopamine-fracking/",
+    "description": "Dopamine Fracking",
+    "date": "2026-06-08",
+    "score": 448,
+    "comments": 204,
+    "discussion_url": "https://news.ycombinator.com/item?id=48440792",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-08T12:33:56.550051"
   },
   {
     "title": "How's Linear so fast? A technical breakdown",
     "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
     "description": "How's Linear so fast? A technical breakdown",
     "date": "2026-06-07",
-    "score": 277,
-    "comments": 149,
+    "score": 434,
+    "comments": 200,
     "discussion_url": "https://news.ycombinator.com/item?id=48437609",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067664"
-  },
-  {
-    "title": "I design with Claude more than Figma now",
-    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-    "description": "I design with Claude more than Figma now",
-    "date": "2026-06-07",
-    "score": 258,
-    "comments": 231,
-    "discussion_url": "https://news.ycombinator.com/item?id=48431981",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067806"
-  },
-  {
-    "title": "LLMs are eroding my software engineering career and I don't know what to do",
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "description": "LLMs are eroding my software engineering career and I don't know what to do",
-    "date": "2026-06-07",
-    "score": 787,
-    "comments": 767,
-    "discussion_url": "https://news.ycombinator.com/item?id=48434312",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067765"
+    "fetched_at": "2026-06-08T12:33:56.550194"
   },
   {
     "title": "Making peace with your unlived dreams (2023)",
     "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
     "description": "Making peace with your unlived dreams (2023)",
     "date": "2026-06-07",
-    "score": 135,
-    "comments": 64,
+    "score": 253,
+    "comments": 146,
     "discussion_url": "https://news.ycombinator.com/item?id=48437290",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067713"
+    "fetched_at": "2026-06-08T12:33:56.550217"
   },
   {
-    "title": "Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas",
-    "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
-    "description": "Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas",
-    "date": "2026-06-07",
-    "score": 116,
-    "comments": 45,
-    "discussion_url": "https://news.ycombinator.com/item?id=48436863",
+    "title": "New drug 'functionally cures' many hepatitis B virus infections",
+    "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
+    "description": "New drug 'functionally cures' many hepatitis B virus infections",
+    "date": "2026-06-08",
+    "score": 201,
+    "comments": 35,
+    "discussion_url": "https://news.ycombinator.com/item?id=48440463",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067727"
+    "fetched_at": "2026-06-08T12:33:56.550073"
+  },
+  {
+    "title": "OneDrive data now has an expiry date",
+    "url": "https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data",
+    "description": "OneDrive data now has an expiry date",
+    "date": "2026-06-08",
+    "score": 102,
+    "comments": 78,
+    "discussion_url": "https://news.ycombinator.com/item?id=48442569",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-08T12:33:56.550015"
   },
   {
     "title": "Show HN: I Derived a Pancake",
     "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
     "description": "Show HN: I Derived a Pancake",
     "date": "2026-06-05",
-    "score": 103,
-    "comments": 34,
+    "score": 260,
+    "comments": 104,
     "discussion_url": "https://news.ycombinator.com/item?id=48408854",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067869"
+    "fetched_at": "2026-06-08T12:33:56.550262"
   },
   {
     "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
     "url": "https://github.com/devenjarvis/lathe",
     "description": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
     "date": "2026-06-07",
-    "score": 237,
-    "comments": 43,
+    "score": 337,
+    "comments": 61,
     "discussion_url": "https://news.ycombinator.com/item?id=48433756",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067780"
+    "fetched_at": "2026-06-08T12:33:56.550229"
   },
   {
     "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
     "url": "https://www.ioccc.org/2025/",
     "description": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
     "date": "2026-06-07",
-    "score": 360,
-    "comments": 88,
+    "score": 402,
+    "comments": 92,
     "discussion_url": "https://news.ycombinator.com/item?id=48432199",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067792"
+    "fetched_at": "2026-06-08T12:33:56.550240"
   },
   {
-    "title": "The gamers taking on the industry to stop it switching off games",
-    "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
-    "description": "The gamers taking on the industry to stop it switching off games",
-    "date": "2026-06-07",
-    "score": 113,
-    "comments": 127,
-    "discussion_url": "https://news.ycombinator.com/item?id=48436246",
+    "title": "The Cypherpunk Library",
+    "url": "https://www.cypherpunkbooks.com",
+    "description": "The Cypherpunk Library",
+    "date": "2026-06-08",
+    "score": 145,
+    "comments": 34,
+    "discussion_url": "https://news.ycombinator.com/item?id=48442725",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067739"
+    "fetched_at": "2026-06-08T12:33:56.549991"
+  },
+  {
+    "title": "The EU Open Source Strategy",
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
+    "description": "The EU Open Source Strategy",
+    "date": "2026-06-08",
+    "score": 108,
+    "comments": 79,
+    "discussion_url": "https://news.ycombinator.com/item?id=48442503",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-08T12:33:56.550028"
+  },
+  {
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+    "description": "The Smallest Brain You Can Build: A Perceptron in Python",
+    "date": "2026-06-08",
+    "score": 218,
+    "comments": 39,
+    "discussion_url": "https://news.ycombinator.com/item?id=48440064",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-08T12:33:56.550118"
   },
   {
     "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
     "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
     "description": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
     "date": "2026-06-05",
-    "score": 128,
-    "comments": 50,
+    "score": 208,
+    "comments": 72,
     "discussion_url": "https://news.ycombinator.com/item?id=48409474",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067855"
-  },
-  {
-    "title": "Win16 Memory Management",
-    "url": "http://www.os2museum.com/wp/win16-memory-management/",
-    "description": "Win16 Memory Management",
-    "date": "2026-06-05",
-    "score": 129,
-    "comments": 67,
-    "discussion_url": "https://news.ycombinator.com/item?id=48410844",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-08T11:00:24.067843"
+    "fetched_at": "2026-06-08T12:33:56.550251"
   }
 ]
