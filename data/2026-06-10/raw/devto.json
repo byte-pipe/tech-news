@@ -5,7 +5,7 @@
     "date": "2026-06-08",
     "description": "The shift from code to meetingsCesar AguirreCesar AguirreCesar AguirreFollowJun 812 Hard Truths About Coding I Learned the Hard Way After 10+ Years#ca...",
     "tags": "#career, #careerdevelopment, #beginners, #coding",
-    "reactions": "32 reactions",
+    "reactions": "34 reactions",
     "comments": "Comments 15 comments",
     "url": "https://dev.to/canro91/12-hard-truths-about-coding-i-learned-the-hard-way-after-10-years-124j"
   },
@@ -15,8 +15,8 @@
     "date": "2026-06-04",
     "description": "Governance and provider independenceNicolas FränkelNicolas FränkelNicolas FränkelFollowJun 4AI gateways: why and how#ai#codingassistants#aigateway#cla...",
     "tags": "#ai, #codingassistants, #aigateway, #claude",
-    "reactions": "25 reactions",
-    "comments": "Comments 15 comments",
+    "reactions": "27 reactions",
+    "comments": "Comments 16 comments",
     "url": "https://dev.to/nfrankel/ai-gateways-why-and-how-b5o"
   },
   {
@@ -25,8 +25,8 @@
     "date": "2026-06-03",
     "description": "Verification as the new engineering bottleneckmarcosommamarcosommamarcosommaFollowJun 3Am I Becoming Too Slow for the AI World?#ai#programming#product...",
     "tags": "#ai, #programming, #productivity, #career",
-    "reactions": "89 reactions",
-    "comments": "Comments 50 comments",
+    "reactions": "91 reactions",
+    "comments": "Comments 51 comments",
     "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"
   },
   {
@@ -35,8 +35,8 @@
     "date": "2026-06-05",
     "description": "Features Microsoft AI and LLM build coursesHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowJun 5Dev Opportunity Radar #2: A Fully-Funded R...",
     "tags": "#discuss, #community, #opportunities, #resources",
-    "reactions": "74 reactions",
-    "comments": "Comments 21 comments",
+    "reactions": "75 reactions",
+    "comments": "Comments 22 comments",
     "url": "https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4"
   },
   {
@@ -70,16 +70,6 @@
     "url": "https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9"
   },
   {
-    "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
-    "author": "Sylwia Laskowska",
-    "date": "2026-06-03",
-    "description": "Chrome's experimental protocol for AI agentsSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowJun 3Is This How We'll Build Websites Soon? (webMCP ...",
-    "tags": "#javascript, #react, #mcp, #ai",
-    "reactions": "126 reactions",
-    "comments": "Comments 125 comments",
-    "url": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"
-  },
-  {
     "title": "It's Time We All Eat some more Cucumber!",
     "author": "Sebastian Schürmann",
     "date": "2026-06-08",
@@ -90,13 +80,23 @@
     "url": "https://dev.to/sebs/its-time-we-all-eat-some-cucumber-16ic"
   },
   {
+    "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
+    "author": "Jess Lee",
+    "date": "2026-05-21",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxIt's time to finish it.Revive a project you started but never compl...",
+    "tags": "#githubchallenge, #devchallenge, #githubcopilot",
+    "reactions": "5 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41?bb=263524"
+  },
+  {
     "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
     "author": "Jess Lee",
     "date": "2026-06-03",
     "description": "Themes of Pride, Juneteenth, and Alan TuringJess LeeJess LeeJess LeeFollowforThe DEV TeamJun 3Join the June Solstice Game Jam: $1,000 in prizes!#devch...",
     "tags": "#devchallenge, #gamechallenge, #gamedev",
-    "reactions": "184 reactions",
-    "comments": "Comments 49 comments",
+    "reactions": "185 reactions",
+    "comments": "Comments 51 comments",
     "url": "https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"
   },
   {
@@ -105,19 +105,29 @@
     "date": "2026-06-08",
     "description": "Static AI failing in dynamic systemsxulingfengxulingfengxulingfengFollowJun 8My company packaged 12 years of my experience into an AI Skill, then laid...",
     "tags": "#discuss, #ai, #career, #programming",
-    "reactions": "44 reactions",
-    "comments": "Comments 23 comments",
+    "reactions": "54 reactions",
+    "comments": "Comments 32 comments",
     "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"
   },
   {
-    "title": "TanStack Start Is Kind of a Big Deal",
-    "author": "Erik Hanchett",
-    "date": "2026-06-08",
-    "description": "Client-first logic and same-file server callsErik HanchettErik HanchettErik HanchettFollowJun 8TanStack Start Is Kind of a Big Deal#tanstack#react#typ...",
-    "tags": "#tanstack, #react, #typescript, #webdev",
-    "reactions": "22 reactions",
-    "comments": "Comments 4 comments",
-    "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec"
+    "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
+    "author": "Harsh",
+    "date": "2026-06-09",
+    "description": "Judgment over conversational inputsHarshHarshHarshFollowJun 9The 'Prompt' Is Not a Skill — And We Need to Stop Pretending#discuss#ai#career#programmin...",
+    "tags": "#discuss, #ai, #career, #programming",
+    "reactions": "46 reactions",
+    "comments": "Comments 45 comments",
+    "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18"
+  },
+  {
+    "title": "The Code Works. What Could Possibly Go Wrong?",
+    "author": "Sylwia Laskowska",
+    "date": "2026-06-10",
+    "description": "AI as a tool rather than an authoritySylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowJun 10The Code Works. What Could Possibly Go Wrong?#discuss...",
+    "tags": "#discuss, #ai, #webdev",
+    "reactions": "10 reactions",
+    "comments": "Comments 2 comments",
+    "url": "https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm"
   },
   {
     "title": "The Most Valuable Thing I Found in Tech Wasn't an Opportunity",
@@ -125,8 +135,8 @@
     "date": "2026-06-09",
     "description": "Human connection over career optimizationHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowJun 9The Most Valuable Thing I Found in Tech Wasn...",
     "tags": "#discuss, #community, #beginners, #career",
-    "reactions": "28 reactions",
-    "comments": "Comments 17 comments",
+    "reactions": "48 reactions",
+    "comments": "Comments 25 comments",
     "url": "https://dev.to/hemapriya_kanagala/the-most-valuable-thing-i-found-in-tech-wasnt-an-opportunity-2j83"
   },
   {
@@ -135,8 +145,8 @@
     "date": "2026-06-06",
     "description": "GitHub “Finish-Up-A-Thon” Challenge SubmissionFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowforThe DEVengersJun 6Two Devs and a Co...",
     "tags": "#discuss, #devchallenge, #githubchallenge, #showdev",
-    "reactions": "91 reactions",
-    "comments": "Comments 42 comments",
+    "reactions": "95 reactions",
+    "comments": "Comments 51 comments",
     "url": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge"
   },
   {
@@ -145,17 +155,17 @@
     "date": "2026-06-03",
     "description": "Remote US-based role post-MLH acquisitionJess LeeJess LeeJess LeeFollowforThe DEV TeamJun 3Want to work with me? We're hiring a Community Program Mana...",
     "tags": "#career, #meta, #hiring",
-    "reactions": "54 reactions",
-    "comments": "Comments 15 comments",
+    "reactions": "56 reactions",
+    "comments": "Comments 16 comments",
     "url": "https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"
   },
   {
     "title": "What are your Goals for the week? #182",
     "author": "Chris Jarvis",
     "date": "2026-06-08",
-    "description": "Rainy ren faire cleanup and job search focusChris JarvisChris JarvisChris JarvisFollowJun 8What are your Goals for the week? #182#discuss#motivation21...",
+    "description": "Rainy ren faire cleanup and job search focusChris JarvisChris JarvisChris JarvisFollowJun 8What are your Goals for the week? #182#discuss#motivation23...",
     "tags": "#discuss, #motivation",
-    "reactions": "21 reactions",
+    "reactions": "23 reactions",
     "comments": "Comments 13 comments",
     "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-182-2f0n"
   },
@@ -175,8 +185,8 @@
     "date": "2026-06-08",
     "description": "Relatable tales of migration and type errorsHadil Ben AbdallahHadil Ben AbdallahHadil Ben AbdallahFollowJun 8You’re a Real TypeScript Developer Only I...",
     "tags": "#webdev, #typescript, #bash, #programming",
-    "reactions": "75 reactions",
-    "comments": "Comments 35 comments",
+    "reactions": "77 reactions",
+    "comments": "Comments 37 comments",
     "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"
   }
 ]

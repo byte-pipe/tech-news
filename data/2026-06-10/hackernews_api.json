@@ -1,28 +1,11 @@
 [
   {
-    "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
-    "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
-    "author": "doener",
-    "date": "2026-06-10",
-    "score": 170,
-    "comments": 91,
-    "id": 48462823,
-    "discussion_url": "https://news.ycombinator.com/item?id=48462823",
-    "description": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.777194"
-  },
-  {
     "title": "A giant star may have destroyed itself in one of the rarest explosions",
     "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
     "author": "wglb",
-    "date": "2026-06-09",
-    "score": 128,
-    "comments": 15,
+    "date": "2026-06-08",
+    "score": 192,
+    "comments": 29,
     "id": 48451966,
     "discussion_url": "https://news.ycombinator.com/item?id=48451966",
     "description": "A giant star may have destroyed itself in one of the rarest explosions",
@@ -31,32 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776715"
-  },
-  {
-    "title": "An introduction to functional analysis for science and engineering",
-    "url": "https://arxiv.org/abs/1904.02539",
-    "author": "Anon84",
-    "date": "2026-06-08",
-    "score": 112,
-    "comments": 14,
-    "id": 48436672,
-    "discussion_url": "https://news.ycombinator.com/item?id=48436672",
-    "description": "An introduction to functional analysis for science and engineering",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.777038"
+    "fetched_at": "2026-06-10T12:07:33.850548"
   },
   {
     "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
     "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
     "author": "flanged",
-    "date": "2026-06-10",
-    "score": 303,
-    "comments": 509,
+    "date": "2026-06-09",
+    "score": 403,
+    "comments": 646,
     "id": 48463024,
     "discussion_url": "https://news.ycombinator.com/item?id=48463024",
     "description": "Apple decided not to roll out Siri in EU after denied request for exemption",
@@ -65,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776824"
+    "fetched_at": "2026-06-10T12:07:33.850601"
   },
   {
     "title": "Apple reveals new AI architecture built around Google Gemini models",
     "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
     "author": "unclefuzzy",
-    "date": "2026-06-09",
-    "score": 704,
-    "comments": 548,
+    "date": "2026-06-08",
+    "score": 718,
+    "comments": 555,
     "id": 48450142,
     "discussion_url": "https://news.ycombinator.com/item?id=48450142",
     "description": "Apple reveals new AI architecture built around Google Gemini models",
@@ -82,66 +48,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.777280"
+    "fetched_at": "2026-06-10T12:07:33.850648"
   },
   {
-    "title": "Biff.core: system composition for Clojure web apps",
-    "url": "https://biffweb.com/p/core/",
-    "author": "jacobobryant",
-    "date": "2026-06-10",
-    "score": 93,
-    "comments": 19,
-    "id": 48463018,
-    "discussion_url": "https://news.ycombinator.com/item?id=48463018",
-    "description": "Biff.core: system composition for Clojure web apps",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776969"
-  },
-  {
-    "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+    "title": "CEOs who think AI replaces their employees are just bad CEOs",
     "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
     "author": "speckx",
-    "date": "2026-06-10",
-    "score": 184,
-    "comments": 79,
+    "date": "2026-06-09",
+    "score": 718,
+    "comments": 259,
     "id": 48465675,
     "discussion_url": "https://news.ycombinator.com/item?id=48465675",
-    "description": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+    "description": "CEOs who think AI replaces their employees are just bad CEOs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776797"
-  },
-  {
-    "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
-    "url": "https://arxiv.org/abs/2603.24647",
-    "author": "galsapir",
-    "date": "2026-06-10",
-    "score": 85,
-    "comments": 14,
-    "id": 48462062,
-    "discussion_url": "https://news.ycombinator.com/item?id=48462062",
-    "description": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776561"
+    "fetched_at": "2026-06-10T12:07:33.850529"
   },
   {
     "title": "Claude Fable 5",
     "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
     "author": "Philpax",
-    "date": "2026-06-10",
-    "score": 1431,
-    "comments": 1128,
+    "date": "2026-06-09",
+    "score": 2321,
+    "comments": 1805,
     "id": 48463808,
     "discussion_url": "https://news.ycombinator.com/item?id=48463808",
     "description": "Claude Fable 5",
@@ -150,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776416"
+    "fetched_at": "2026-06-10T12:07:33.850446"
   },
   {
     "title": "Cleaning up after AI rockstar developers",
     "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
     "author": "BrunoBernardino",
     "date": "2026-06-09",
-    "score": 424,
-    "comments": 310,
+    "score": 472,
+    "comments": 346,
     "id": 48458586,
     "discussion_url": "https://news.ycombinator.com/item?id=48458586",
     "description": "Cleaning up after AI rockstar developers",
@@ -167,32 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776744"
-  },
-  {
-    "title": "Corrupting a ZFS File on Purpose",
-    "url": "https://oshogbo.com/blog/90/",
-    "author": "zdw",
-    "date": "2026-06-07",
-    "score": 72,
-    "comments": 17,
-    "id": 48427629,
-    "discussion_url": "https://news.ycombinator.com/item?id=48427629",
-    "description": "Corrupting a ZFS File on Purpose",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.777006"
+    "fetched_at": "2026-06-10T12:07:33.850641"
   },
   {
     "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
     "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
     "author": "berlianta",
-    "date": "2026-06-10",
-    "score": 347,
-    "comments": 230,
+    "date": "2026-06-09",
+    "score": 534,
+    "comments": 348,
     "id": 48462308,
     "discussion_url": "https://news.ycombinator.com/item?id=48462308",
     "description": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
@@ -201,49 +116,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776784"
+    "fetched_at": "2026-06-10T12:07:33.850571"
   },
   {
-    "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
-    "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
-    "author": "bryanrasmussen",
-    "date": "2026-06-09",
-    "score": 118,
-    "comments": 67,
-    "id": 48458257,
-    "discussion_url": "https://news.ycombinator.com/item?id=48458257",
-    "description": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776621"
-  },
-  {
-    "title": "GPT-2: Too Dangerous To Release (2019)",
-    "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
-    "author": "AbuAssar",
+    "title": "German ruling declares Google liable for false answers in AI Overviews",
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "author": "ahlCVA",
     "date": "2026-06-10",
-    "score": 232,
-    "comments": 87,
-    "id": 48465269,
-    "discussion_url": "https://news.ycombinator.com/item?id=48465269",
-    "description": "GPT-2: Too Dangerous To Release (2019)",
+    "score": 663,
+    "comments": 375,
+    "id": 48470248,
+    "discussion_url": "https://news.ycombinator.com/item?id=48470248",
+    "description": "German ruling declares Google liable for false answers in AI Overviews",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776652"
+    "fetched_at": "2026-06-10T12:07:33.850482"
+  },
+  {
+    "title": "Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
+    "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+    "author": "d3Xt3r",
+    "date": "2026-06-10",
+    "score": 265,
+    "comments": 225,
+    "id": 48471970,
+    "discussion_url": "https://news.ycombinator.com/item?id=48471970",
+    "description": "Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-10T12:07:33.850582"
+  },
+  {
+    "title": "Grit: Rewriting Git in Rust with agents",
+    "url": "https://blog.gitbutler.com/true-grit",
+    "author": "cbrewster",
+    "date": "2026-06-09",
+    "score": 155,
+    "comments": 225,
+    "id": 48466812,
+    "discussion_url": "https://news.ycombinator.com/item?id=48466812",
+    "description": "Grit: Rewriting Git in Rust with agents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-10T12:07:33.850537"
+  },
+  {
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "author": "mips_avatar",
+    "date": "2026-06-09",
+    "score": 870,
+    "comments": 418,
+    "id": 48467896,
+    "discussion_url": "https://news.ycombinator.com/item?id=48467896",
+    "description": "If Claude Fable stops helping you, you'll never know",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-10T12:07:33.850429"
   },
   {
     "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
     "url": "https://arxiv.org/abs/2605.15184",
     "author": "Anon84",
     "date": "2026-06-09",
-    "score": 103,
-    "comments": 45,
+    "score": 152,
+    "comments": 61,
     "id": 48460863,
     "discussion_url": "https://news.ycombinator.com/item?id=48460863",
     "description": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
@@ -252,15 +201,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776901"
+    "fetched_at": "2026-06-10T12:07:33.850578"
+  },
+  {
+    "title": "It's death",
+    "url": "https://jesseduffield.com/ITS-DEATH/",
+    "author": "inatreecrown2",
+    "date": "2026-06-09",
+    "score": 175,
+    "comments": 61,
+    "id": 48469347,
+    "discussion_url": "https://news.ycombinator.com/item?id=48469347",
+    "description": "It's death",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-10T12:07:33.850612"
   },
   {
     "title": "Job: Head of Stonehenge",
     "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
     "author": "mooreds",
     "date": "2026-06-09",
-    "score": 222,
-    "comments": 209,
+    "score": 230,
+    "comments": 221,
     "id": 48455928,
     "discussion_url": "https://news.ycombinator.com/item?id=48455928",
     "description": "Job: Head of Stonehenge",
@@ -269,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776988"
+    "fetched_at": "2026-06-10T12:07:33.850619"
   },
   {
     "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
     "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
     "author": "piskov",
-    "date": "2026-06-09",
-    "score": 241,
-    "comments": 194,
+    "date": "2026-06-08",
+    "score": 417,
+    "comments": 349,
     "id": 48453275,
     "discussion_url": "https://news.ycombinator.com/item?id=48453275",
     "description": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
@@ -286,15 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776837"
+    "fetched_at": "2026-06-10T12:07:33.850596"
   },
   {
     "title": "Making Graphics Like it's 1993",
     "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
     "author": "sklopec",
     "date": "2026-06-09",
-    "score": 690,
-    "comments": 115,
+    "score": 883,
+    "comments": 147,
     "id": 48459294,
     "discussion_url": "https://news.ycombinator.com/item?id=48459294",
     "description": "Making Graphics Like it's 1993",
@@ -303,15 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776669"
+    "fetched_at": "2026-06-10T12:07:33.850541"
+  },
+  {
+    "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+    "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+    "author": "raffael_de",
+    "date": "2026-06-10",
+    "score": 180,
+    "comments": 73,
+    "id": 48472877,
+    "discussion_url": "https://news.ycombinator.com/item?id=48472877",
+    "description": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-10T12:07:33.850454"
   },
   {
     "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
     "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
     "author": "raffael_de",
     "date": "2026-06-09",
-    "score": 510,
-    "comments": 172,
+    "score": 540,
+    "comments": 186,
     "id": 48457830,
     "discussion_url": "https://news.ycombinator.com/item?id=48457830",
     "description": "Microsoft's open source tools were hacked to steal passwords of AI developers",
@@ -320,32 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776810"
-  },
-  {
-    "title": "Old'aVista – The most powerful guide to the old Internet",
-    "url": "https://oldavista.com/",
-    "author": "abnercoimbre",
-    "date": "2026-06-09",
-    "score": 151,
-    "comments": 40,
-    "id": 48447111,
-    "discussion_url": "https://news.ycombinator.com/item?id=48447111",
-    "description": "Old'aVista – The most powerful guide to the old Internet",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.777148"
+    "fetched_at": "2026-06-10T12:07:33.850575"
   },
   {
     "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
     "url": "https://opencv.org/opencv-5/",
     "author": "ternaus",
     "date": "2026-06-06",
-    "score": 642,
-    "comments": 114,
+    "score": 775,
+    "comments": 139,
     "id": 48421858,
     "discussion_url": "https://news.ycombinator.com/item?id=48421858",
     "description": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
@@ -354,83 +320,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776920"
+    "fetched_at": "2026-06-10T12:07:33.850518"
   },
   {
-    "title": "Porting the ThinkPad X61 to Coreboot",
-    "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
-    "author": "walterbell",
+    "title": "RIP software hackathons. Long live the hardware hackathon",
+    "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+    "author": "ozcap",
     "date": "2026-06-09",
-    "score": 161,
-    "comments": 50,
-    "id": 48456245,
-    "discussion_url": "https://news.ycombinator.com/item?id=48456245",
-    "description": "Porting the ThinkPad X61 to Coreboot",
+    "score": 201,
+    "comments": 96,
+    "id": 48468766,
+    "discussion_url": "https://news.ycombinator.com/item?id=48468766",
+    "description": "RIP software hackathons. Long live the hardware hackathon",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.777101"
+    "fetched_at": "2026-06-10T12:07:33.850510"
   },
   {
-    "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
-    "url": "https://github.com/luke8086/gentleos32",
-    "author": "luke8086",
-    "date": "2026-06-08",
-    "score": 78,
-    "comments": 86,
-    "id": 48435943,
-    "discussion_url": "https://news.ycombinator.com/item?id=48435943",
-    "description": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776543"
-  },
-  {
-    "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+    "title": "Show HN: Gravity – Interactive solar-system simulator, from Newton to Einstein",
     "url": "https://qunabu.github.io/Gravity/",
     "author": "qunabu",
     "date": "2026-06-09",
-    "score": 124,
-    "comments": 30,
+    "score": 187,
+    "comments": 45,
     "id": 48459837,
     "discussion_url": "https://news.ycombinator.com/item?id=48459837",
-    "description": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+    "description": "Show HN: Gravity – Interactive solar-system simulator, from Newton to Einstein",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776529"
+    "fetched_at": "2026-06-10T12:07:33.850557"
   },
   {
-    "title": "The beauty and simplicity of the good old C-style void* in C++",
-    "url": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/",
-    "author": "movd128",
-    "date": "2026-06-07",
-    "score": 61,
-    "comments": 129,
-    "id": 48427526,
-    "discussion_url": "https://news.ycombinator.com/item?id=48427526",
-    "description": "The beauty and simplicity of the good old C-style void* in C++",
+    "title": "Surprise, Pay $1000",
+    "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+    "author": "apike",
+    "date": "2026-06-09",
+    "score": 206,
+    "comments": 80,
+    "id": 48468370,
+    "discussion_url": "https://news.ycombinator.com/item?id=48468370",
+    "description": "Surprise, Pay $1000",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.777164"
+    "fetched_at": "2026-06-10T12:07:33.850493"
   },
   {
     "title": "The iPhone's Last Stand?",
     "url": "https://stratechery.com/2026/the-iphones-last-stand/",
     "author": "swolpers",
     "date": "2026-06-09",
-    "score": 151,
-    "comments": 189,
+    "score": 180,
+    "comments": 221,
     "id": 48459001,
     "discussion_url": "https://news.ycombinator.com/item?id=48459001",
     "description": "The iPhone's Last Stand?",
@@ -439,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776470"
+    "fetched_at": "2026-06-10T12:07:33.850589"
   },
   {
     "title": "Thi.ng – open-source building blocks for computational design and art",
     "url": "https://thi.ng",
     "author": "nmstoker",
-    "date": "2026-06-08",
-    "score": 174,
-    "comments": 32,
+    "date": "2026-06-07",
+    "score": 193,
+    "comments": 37,
     "id": 48437743,
     "discussion_url": "https://news.ycombinator.com/item?id=48437743",
     "description": "Thi.ng – open-source building blocks for computational design and art",
@@ -456,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776688"
+    "fetched_at": "2026-06-10T12:07:33.850605"
   },
   {
     "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
     "url": "https://aarushgupta.io/posts/kan-fpga/",
     "author": "ag2718",
-    "date": "2026-06-10",
-    "score": 92,
-    "comments": 13,
+    "date": "2026-06-09",
+    "score": 237,
+    "comments": 35,
     "id": 48466277,
     "discussion_url": "https://news.ycombinator.com/item?id=48466277",
     "description": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
@@ -473,15 +422,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776729"
+    "fetched_at": "2026-06-10T12:07:33.850478"
+  },
+  {
+    "title": "Upcoming breaking changes for npm v12",
+    "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+    "author": "plasma",
+    "date": "2026-06-09",
+    "score": 399,
+    "comments": 161,
+    "id": 48467705,
+    "discussion_url": "https://news.ycombinator.com/item?id=48467705",
+    "description": "Upcoming breaking changes for npm v12",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-10T12:07:33.850474"
+  },
+  {
+    "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+    "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
+    "author": "dmckinno",
+    "date": "2026-06-10",
+    "score": 148,
+    "comments": 80,
+    "id": 48471048,
+    "discussion_url": "https://news.ycombinator.com/item?id=48471048",
+    "description": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-10T12:07:33.850433"
+  },
+  {
+    "title": "WWDC 2026: Apple is Folding",
+    "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
+    "author": "brandonb",
+    "date": "2026-06-09",
+    "score": 240,
+    "comments": 252,
+    "id": 48461226,
+    "discussion_url": "https://news.ycombinator.com/item?id=48461226",
+    "description": "WWDC 2026: Apple is Folding",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-10T12:07:33.850552"
   },
   {
     "title": "What it feels like to work with Mythos",
     "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
     "author": "swolpers",
-    "date": "2026-06-10",
-    "score": 129,
-    "comments": 118,
+    "date": "2026-06-09",
+    "score": 300,
+    "comments": 252,
     "id": 48464140,
     "discussion_url": "https://news.ycombinator.com/item?id=48464140",
     "description": "What it feels like to work with Mythos",
@@ -490,23 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776508"
+    "fetched_at": "2026-06-10T12:07:33.850490"
   },
   {
-    "title": "Where is the AI jobs crisis?",
-    "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
-    "author": "bwestergard",
+    "title": "macOS Container Machines",
+    "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "author": "timsneath",
     "date": "2026-06-10",
-    "score": 113,
-    "comments": 166,
-    "id": 48464333,
-    "discussion_url": "https://news.ycombinator.com/item?id=48464333",
-    "description": "Where is the AI jobs crisis?",
+    "score": 855,
+    "comments": 308,
+    "id": 48469658,
+    "discussion_url": "https://news.ycombinator.com/item?id=48469658",
+    "description": "macOS Container Machines",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-10T07:43:23.776491"
+    "fetched_at": "2026-06-10T12:07:33.850417"
   }
 ]
