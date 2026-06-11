@@ -1,227 +1,257 @@
 [
   {
-    "title": "AI agent runs amok in Fedora and elsewhere",
-    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-    "description": "AI agent runs amok in Fedora and elsewhere",
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "description": "Anthropic apologizes for invisible Claude Fable guardrails",
     "date": "2026-06-11",
-    "score": 444,
-    "comments": 196,
-    "discussion_url": "https://news.ycombinator.com/item?id=48484584",
+    "score": 205,
+    "comments": 227,
+    "discussion_url": "https://news.ycombinator.com/item?id=48489229",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271024"
+    "fetched_at": "2026-06-11T19:53:15.562429"
   },
   {
-    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-    "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-    "description": "Anthropic requires 30 day data retention for Fable and Mythos",
-    "date": "2026-06-09",
-    "score": 482,
-    "comments": 247,
-    "discussion_url": "https://news.ycombinator.com/item?id=48464258",
+    "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+    "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+    "description": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+    "date": "2026-06-08",
+    "score": 119,
+    "comments": 32,
+    "discussion_url": "https://news.ycombinator.com/item?id=48452001",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271159"
+    "fetched_at": "2026-06-11T19:53:15.562480"
   },
   {
-    "title": "Building an HTML-first site doubled our users overnight",
-    "url": "https://mohkohn.co.uk/writing/html-first/",
-    "description": "Building an HTML-first site doubled our users overnight",
-    "date": "2026-06-10",
-    "score": 1171,
-    "comments": 525,
-    "discussion_url": "https://news.ycombinator.com/item?id=48475483",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271138"
-  },
-  {
-    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-    "description": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-    "date": "2026-06-10",
-    "score": 485,
-    "comments": 423,
-    "discussion_url": "https://news.ycombinator.com/item?id=48478969",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271091"
-  },
-  {
-    "title": "GeoLibre 1.0",
-    "url": "https://geolibre.app/",
-    "description": "GeoLibre 1.0",
-    "date": "2026-06-10",
-    "score": 260,
-    "comments": 22,
-    "discussion_url": "https://news.ycombinator.com/item?id=48479852",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271060"
-  },
-  {
-    "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
-    "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-    "description": "How JPL keeps the 13-year-old Curiosity rover doing science",
-    "date": "2026-06-10",
-    "score": 246,
-    "comments": 72,
-    "discussion_url": "https://news.ycombinator.com/item?id=48479705",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271071"
-  },
-  {
-    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-    "url": "https://news.ycombinator.com/item?id=48477135",
-    "description": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-    "date": "2026-06-10",
-    "score": 699,
-    "comments": 501,
-    "discussion_url": "https://news.ycombinator.com/item?id=48477135",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271117"
-  },
-  {
-    "title": "L'Affaire Siloxane",
-    "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
-    "description": "L'Affaire Siloxane",
-    "date": "2026-06-09",
+    "title": "Doing nothing at work",
+    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
+    "description": "Doing nothing at work",
+    "date": "2026-06-08",
     "score": 243,
-    "comments": 41,
-    "discussion_url": "https://news.ycombinator.com/item?id=48456808",
+    "comments": 71,
+    "discussion_url": "https://news.ycombinator.com/item?id=48442880",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271168"
+    "fetched_at": "2026-06-11T19:53:15.562489"
   },
   {
-    "title": "PgDog is funded and coming to a database near you",
-    "url": "https://pgdog.dev/blog/our-funding-announcement",
-    "description": "PgDog is funded and coming to a database near you",
+    "title": "Emacs appearances in pop culture",
+    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "description": "Emacs appearances in pop culture",
     "date": "2026-06-10",
-    "score": 488,
-    "comments": 231,
-    "discussion_url": "https://news.ycombinator.com/item?id=48476466",
+    "score": 139,
+    "comments": 22,
+    "discussion_url": "https://news.ycombinator.com/item?id=48474274",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271127"
+    "fetched_at": "2026-06-11T19:53:15.562460"
+  },
+  {
+    "title": "Fully autonomous drones have killed human soldiers for the first time",
+    "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
+    "description": "Fully autonomous drones have killed human soldiers for the first time",
+    "date": "2026-06-10",
+    "score": 118,
+    "comments": 89,
+    "discussion_url": "https://news.ycombinator.com/item?id=48476214",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-11T19:53:15.562450"
+  },
+  {
+    "title": "Lines of code got a better publicist",
+    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "description": "Lines of code got a better publicist",
+    "date": "2026-06-11",
+    "score": 304,
+    "comments": 200,
+    "discussion_url": "https://news.ycombinator.com/item?id=48489402",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-11T19:53:15.562418"
+  },
+  {
+    "title": "MapComplete: Maps about various topics which you can contribute to",
+    "url": "https://mapcomplete.org/",
+    "description": "MapComplete: Maps about various topics which you can contribute to",
+    "date": "2026-06-11",
+    "score": 164,
+    "comments": 36,
+    "discussion_url": "https://news.ycombinator.com/item?id=48490532",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-11T19:53:15.562371"
+  },
+  {
+    "title": "MiMo Code is now released and open-source",
+    "url": "https://mimo.xiaomi.com/mimocode",
+    "description": "MiMo Code is now released and open-source",
+    "date": "2026-06-11",
+    "score": 323,
+    "comments": 174,
+    "discussion_url": "https://news.ycombinator.com/item?id=48490826",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-11T19:53:15.562349"
+  },
+  {
+    "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+    "url": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
+    "description": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+    "date": "2026-06-11",
+    "score": 105,
+    "comments": 79,
+    "discussion_url": "https://news.ycombinator.com/item?id=48490715",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-11T19:53:15.562361"
+  },
+  {
+    "title": "Open Reproduction of DeepSeek-R1",
+    "url": "https://github.com/huggingface/open-r1",
+    "description": "Open Reproduction of DeepSeek-R1",
+    "date": "2026-06-11",
+    "score": 155,
+    "comments": 15,
+    "discussion_url": "https://news.ycombinator.com/item?id=48489917",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-11T19:53:15.562406"
+  },
+  {
+    "title": "Petition to Withdraw Canada's Bill C-22",
+    "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+    "description": "Petition to Withdraw Canada's Bill C-22",
+    "date": "2026-06-11",
+    "score": 200,
+    "comments": 71,
+    "discussion_url": "https://news.ycombinator.com/item?id=48491830",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-11T19:53:15.562339"
   },
   {
     "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
     "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
     "description": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
     "date": "2026-06-11",
-    "score": 382,
-    "comments": 164,
+    "score": 631,
+    "comments": 294,
     "discussion_url": "https://news.ycombinator.com/item?id=48487029",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271011"
+    "fetched_at": "2026-06-11T19:53:15.562440"
   },
   {
-    "title": "Sequoyah’s syllabary created a written language for the Cherokee",
-    "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
-    "description": "Sequoyah’s syllabary created a written language for the Cherokee",
-    "date": "2026-06-10",
-    "score": 163,
-    "comments": 97,
-    "discussion_url": "https://news.ycombinator.com/item?id=48483387",
+    "title": "Show HN: Homebrew 6.0.0",
+    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "description": "Show HN: Homebrew 6.0.0",
+    "date": "2026-06-11",
+    "score": 525,
+    "comments": 130,
+    "discussion_url": "https://news.ycombinator.com/item?id=48490024",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271036"
+    "fetched_at": "2026-06-11T19:53:15.562393"
   },
   {
-    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
-    "url": "https://www.extend.ai/ui",
-    "description": "Show HN: Extend UI – open-source UI kit for modern document apps",
-    "date": "2026-06-10",
-    "score": 221,
-    "comments": 57,
-    "discussion_url": "https://news.ycombinator.com/item?id=48478469",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271105"
-  },
-  {
-    "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
-    "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
-    "description": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
+    "title": "Software Is Made Between Commits",
+    "url": "https://zed.dev/blog/introducing-deltadb",
+    "description": "Software Is Made Between Commits",
     "date": "2026-06-11",
     "score": 123,
+    "comments": 74,
+    "discussion_url": "https://news.ycombinator.com/item?id=48492533",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-11T19:53:15.562291"
+  },
+  {
+    "title": "Solar generates more energy in US than coal for first time",
+    "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+    "description": "Solar generates more energy in US than coal for first time",
+    "date": "2026-06-11",
+    "score": 285,
+    "comments": 125,
+    "discussion_url": "https://news.ycombinator.com/item?id=48492306",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-11T19:53:15.562314"
+  },
+  {
+    "title": "The RCE that AMD wouldn't fix",
+    "url": "https://mrbruh.com/amd2/",
+    "description": "The RCE that AMD wouldn't fix",
+    "date": "2026-06-11",
+    "score": 139,
     "comments": 42,
-    "discussion_url": "https://news.ycombinator.com/item?id=48487435",
+    "discussion_url": "https://news.ycombinator.com/item?id=48492215",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.270987"
+    "fetched_at": "2026-06-11T19:53:15.562327"
   },
   {
-    "title": "Who's the smartest corvid?",
-    "url": "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/",
-    "description": "Who's the smartest corvid?",
+    "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+    "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+    "description": "macOS 27 Beta breaks the ability to boot Asahi Linux",
     "date": "2026-06-09",
-    "score": 124,
-    "comments": 111,
-    "discussion_url": "https://news.ycombinator.com/item?id=48464484",
+    "score": 136,
+    "comments": 51,
+    "discussion_url": "https://news.ycombinator.com/item?id=48462070",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271149"
-  },
-  {
-    "title": "πFS",
-    "url": "https://github.com/philipl/pifs",
-    "description": "πFS",
-    "date": "2026-06-10",
-    "score": 809,
-    "comments": 188,
-    "discussion_url": "https://news.ycombinator.com/item?id=48480978",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-11T12:23:50.271047"
+    "fetched_at": "2026-06-11T19:53:15.562470"
   }
 ]
