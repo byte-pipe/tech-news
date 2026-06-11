@@ -4,8 +4,8 @@
     "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
     "author": "tvissers",
     "date": "2026-06-10",
-    "score": 128,
-    "comments": 100,
+    "score": 191,
+    "comments": 181,
     "id": 48476136,
     "discussion_url": "https://news.ycombinator.com/item?id=48476136",
     "description": "A €0.01 bank transfer could compromise a banking AI agent",
@@ -14,15 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315584"
+    "fetched_at": "2026-06-11T12:23:33.942750"
+  },
+  {
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "author": "tanelpoder",
+    "date": "2026-06-11",
+    "score": 444,
+    "comments": 196,
+    "id": 48484584,
+    "discussion_url": "https://news.ycombinator.com/item?id=48484584",
+    "description": "AI agent runs amok in Fedora and elsewhere",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-11T12:23:33.942631"
   },
   {
     "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
     "url": "https://jivx.com/eki",
     "author": "momentmaker",
     "date": "2026-06-10",
-    "score": 153,
-    "comments": 55,
+    "score": 246,
+    "comments": 79,
     "id": 48475100,
     "discussion_url": "https://news.ycombinator.com/item?id=48475100",
     "description": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
@@ -31,15 +48,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315680"
+    "fetched_at": "2026-06-11T12:23:33.942731"
+  },
+  {
+    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+    "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+    "author": "lebovic",
+    "date": "2026-06-09",
+    "score": 482,
+    "comments": 247,
+    "id": 48464258,
+    "discussion_url": "https://news.ycombinator.com/item?id=48464258",
+    "description": "Anthropic requires 30 day data retention for Fable and Mythos",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-11T12:23:33.942601"
+  },
+  {
+    "title": "Anthropic's model naming, extrapolated",
+    "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+    "author": "sammycdubs",
+    "date": "2026-06-10",
+    "score": 310,
+    "comments": 90,
+    "id": 48480852,
+    "discussion_url": "https://news.ycombinator.com/item?id=48480852",
+    "description": "Anthropic's model naming, extrapolated",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-11T12:23:33.942798"
   },
   {
     "title": "Apache Burr: Build reliable AI agents and applications",
     "url": "https://burr.apache.org/",
     "author": "anhldbk",
-    "date": "2026-06-11",
-    "score": 123,
-    "comments": 74,
+    "date": "2026-06-10",
+    "score": 230,
+    "comments": 110,
     "id": 48477400,
     "discussion_url": "https://news.ycombinator.com/item?id=48477400",
     "description": "Apache Burr: Build reliable AI agents and applications",
@@ -48,15 +99,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315602"
+    "fetched_at": "2026-06-11T12:23:33.942708"
+  },
+  {
+    "title": "Authentication issues related to API requests",
+    "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+    "author": "Multicomp",
+    "date": "2026-06-10",
+    "score": 161,
+    "comments": 32,
+    "id": 48477851,
+    "discussion_url": "https://news.ycombinator.com/item?id=48477851",
+    "description": "Authentication issues related to API requests",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-11T12:23:33.942758"
   },
   {
     "title": "Building an HTML-first site doubled our users overnight",
     "url": "https://mohkohn.co.uk/writing/html-first/",
     "author": "edent",
     "date": "2026-06-10",
-    "score": 854,
-    "comments": 389,
+    "score": 1171,
+    "comments": 525,
     "id": 48475483,
     "discussion_url": "https://news.ycombinator.com/item?id=48475483",
     "description": "Building an HTML-first site doubled our users overnight",
@@ -65,15 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315658"
+    "fetched_at": "2026-06-11T12:23:33.942682"
   },
   {
     "title": "Buy a train, bridge or tracks from the Swiss Railway",
     "url": "https://sbbresale.ch/",
     "author": "kisamoto",
     "date": "2026-06-08",
-    "score": 151,
-    "comments": 80,
+    "score": 175,
+    "comments": 104,
     "id": 48442932,
     "discussion_url": "https://news.ycombinator.com/item?id=48442932",
     "description": "Buy a train, bridge or tracks from the Swiss Railway",
@@ -82,49 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315241"
+    "fetched_at": "2026-06-11T12:23:33.942783"
   },
   {
-    "title": "Chrome is looking to permanently drop MV2 extension",
-    "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
-    "author": "d3Xt3r",
-    "date": "2026-06-10",
-    "score": 368,
-    "comments": 366,
-    "id": 48471970,
-    "discussion_url": "https://news.ycombinator.com/item?id=48471970",
-    "description": "Chrome is looking to permanently drop MV2 extension",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315975"
-  },
-  {
-    "title": "Claude Desktop spins up a VM without no way of stopping it",
+    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
     "url": "https://github.com/anthropics/claude-code/issues/29045",
     "author": "tonyrice",
-    "date": "2026-06-11",
-    "score": 187,
-    "comments": 104,
+    "date": "2026-06-10",
+    "score": 406,
+    "comments": 287,
     "id": 48479452,
     "discussion_url": "https://news.ycombinator.com/item?id=48479452",
-    "description": "Claude Desktop spins up a VM without no way of stopping it",
+    "description": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315772"
+    "fetched_at": "2026-06-11T12:23:33.942746"
   },
   {
     "title": "Claude Fable 5",
     "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
     "author": "Philpax",
-    "date": "2026-06-10",
-    "score": 2533,
-    "comments": 2049,
+    "date": "2026-06-09",
+    "score": 2571,
+    "comments": 2111,
     "id": 48463808,
     "discussion_url": "https://news.ycombinator.com/item?id=48463808",
     "description": "Claude Fable 5",
@@ -133,83 +184,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315445"
+    "fetched_at": "2026-06-11T12:23:33.942738"
   },
   {
-    "title": "DiffusionGemma: 4x Faster Text Generation",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
-    "author": "meetpateltech",
-    "date": "2026-06-11",
-    "score": 189,
-    "comments": 39,
-    "id": 48478471,
-    "discussion_url": "https://news.ycombinator.com/item?id=48478471",
-    "description": "DiffusionGemma: 4x Faster Text Generation",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315463"
-  },
-  {
-    "title": "German ruling declares Google liable for false answers in AI Overviews",
-    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "author": "ahlCVA",
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "author": "speckx",
     "date": "2026-06-10",
-    "score": 931,
-    "comments": 503,
-    "id": 48470248,
-    "discussion_url": "https://news.ycombinator.com/item?id=48470248",
-    "description": "German ruling declares Google liable for false answers in AI Overviews",
+    "score": 485,
+    "comments": 423,
+    "id": 48478969,
+    "discussion_url": "https://news.ycombinator.com/item?id=48478969",
+    "description": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315957"
+    "fetched_at": "2026-06-11T12:23:33.942593"
   },
   {
-    "title": "GitHub Authentication issues related to API requests",
-    "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
-    "author": "Multicomp",
-    "date": "2026-06-11",
-    "score": 124,
-    "comments": 23,
-    "id": 48477851,
-    "discussion_url": "https://news.ycombinator.com/item?id=48477851",
-    "description": "GitHub Authentication issues related to API requests",
+    "title": "GeoLibre 1.0",
+    "url": "https://geolibre.app/",
+    "author": "jonbaer",
+    "date": "2026-06-10",
+    "score": 260,
+    "comments": 22,
+    "id": 48479852,
+    "discussion_url": "https://news.ycombinator.com/item?id=48479852",
+    "description": "GeoLibre 1.0",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315621"
-  },
-  {
-    "title": "Hacking for Defense Stanford 2026 – Lessons Learned Presentations",
-    "url": "https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/",
-    "author": "sblank",
-    "date": "2026-06-09",
-    "score": 71,
-    "comments": 50,
-    "id": 48451789,
-    "discussion_url": "https://news.ycombinator.com/item?id=48451789",
-    "description": "Hacking for Defense Stanford 2026 – Lessons Learned Presentations",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315918"
+    "fetched_at": "2026-06-11T12:23:33.942671"
   },
   {
     "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
     "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
     "author": "pseudolus",
-    "date": "2026-06-11",
-    "score": 82,
-    "comments": 6,
+    "date": "2026-06-10",
+    "score": 246,
+    "comments": 72,
     "id": 48479705,
     "discussion_url": "https://news.ycombinator.com/item?id=48479705",
     "description": "How JPL keeps the 13-year-old Curiosity rover doing science",
@@ -218,66 +235,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315481"
+    "fetched_at": "2026-06-11T12:23:33.942667"
   },
   {
-    "title": "I Hate (Most) Keyboard 'Fn' Keys",
-    "url": "https://danq.me/2026/06/09/fn-keys/",
-    "author": "speckx",
-    "date": "2026-06-10",
-    "score": 161,
-    "comments": 182,
-    "id": 48475938,
-    "discussion_url": "https://news.ycombinator.com/item?id=48475938",
-    "description": "I Hate (Most) Keyboard 'Fn' Keys",
+    "title": "L'Affaire Siloxane",
+    "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+    "author": "idlewords",
+    "date": "2026-06-09",
+    "score": 243,
+    "comments": 41,
+    "id": 48456808,
+    "discussion_url": "https://news.ycombinator.com/item?id=48456808",
+    "description": "L'Affaire Siloxane",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.316160"
-  },
-  {
-    "title": "I thought I knew how electrolysis worked [video]",
-    "url": "https://www.youtube.com/watch?v=eq7fR9ISuCw",
-    "author": "tambourine_man",
-    "date": "2026-06-05",
-    "score": 106,
-    "comments": 14,
-    "id": 48411102,
-    "discussion_url": "https://news.ycombinator.com/item?id=48411102",
-    "description": "I thought I knew how electrolysis worked [video]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.316108"
-  },
-  {
-    "title": "If Claude Fable stops helping you, you'll never know",
-    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-    "author": "mips_avatar",
-    "date": "2026-06-10",
-    "score": 979,
-    "comments": 485,
-    "id": 48467896,
-    "discussion_url": "https://news.ycombinator.com/item?id=48467896",
-    "description": "If Claude Fable stops helping you, you'll never know",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.316244"
+    "fetched_at": "2026-06-11T12:23:33.942647"
   },
   {
     "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
     "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
     "author": "raffael_de",
     "date": "2026-06-10",
-    "score": 460,
-    "comments": 280,
+    "score": 532,
+    "comments": 337,
     "id": 48472877,
     "discussion_url": "https://news.ycombinator.com/item?id=48472877",
     "description": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
@@ -286,49 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315567"
-  },
-  {
-    "title": "More Molly Guards",
-    "url": "https://unsung.aresluna.org/more-molly-guards/",
-    "author": "zdw",
-    "date": "2026-06-07",
-    "score": 174,
-    "comments": 21,
-    "id": 48427468,
-    "discussion_url": "https://news.ycombinator.com/item?id=48427468",
-    "description": "More Molly Guards",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.316177"
-  },
-  {
-    "title": "Notes on DeepSeek",
-    "url": "https://twitter.com/NikoMcCarty/status/2064686557400100884",
-    "author": "vinhnx",
-    "date": "2026-06-11",
-    "score": 93,
-    "comments": 70,
-    "id": 48476474,
-    "discussion_url": "https://news.ycombinator.com/item?id=48476474",
-    "description": "Notes on DeepSeek",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.316227"
+    "fetched_at": "2026-06-11T12:23:33.942780"
   },
   {
     "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
     "url": "https://opencv.org/opencv-5/",
     "author": "ternaus",
     "date": "2026-06-06",
-    "score": 815,
-    "comments": 143,
+    "score": 833,
+    "comments": 147,
     "id": 48421858,
     "discussion_url": "https://news.ycombinator.com/item?id=48421858",
     "description": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
@@ -337,15 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.316053"
+    "fetched_at": "2026-06-11T12:23:33.942769"
   },
   {
     "title": "PgDog is funded and coming to a database near you",
     "url": "https://pgdog.dev/blog/our-funding-announcement",
     "author": "levkk",
-    "date": "2026-06-11",
-    "score": 289,
-    "comments": 146,
+    "date": "2026-06-10",
+    "score": 488,
+    "comments": 231,
     "id": 48476466,
     "discussion_url": "https://news.ycombinator.com/item?id=48476466",
     "description": "PgDog is funded and coming to a database near you",
@@ -354,32 +303,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315532"
+    "fetched_at": "2026-06-11T12:23:33.942656"
   },
   {
-    "title": "RIP software hackathons. Long live the hardware hackathon",
-    "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-    "author": "ozcap",
-    "date": "2026-06-10",
-    "score": 270,
-    "comments": 134,
-    "id": 48468766,
-    "discussion_url": "https://news.ycombinator.com/item?id=48468766",
-    "description": "RIP software hackathons. Long live the hardware hackathon",
+    "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+    "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+    "author": "vrganj",
+    "date": "2026-06-11",
+    "score": 382,
+    "comments": 164,
+    "id": 48487029,
+    "discussion_url": "https://news.ycombinator.com/item?id=48487029",
+    "description": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315899"
+    "fetched_at": "2026-06-11T12:23:33.942569"
+  },
+  {
+    "title": "Policy on the AI Exponential",
+    "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+    "author": "yjp20",
+    "date": "2026-06-10",
+    "score": 156,
+    "comments": 216,
+    "id": 48480719,
+    "discussion_url": "https://news.ycombinator.com/item?id=48480719",
+    "description": "Policy on the AI Exponential",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-11T12:23:33.942813"
+  },
+  {
+    "title": "Raspberry Pi 5 – 16GB RAM",
+    "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
+    "author": "akman",
+    "date": "2026-06-10",
+    "score": 280,
+    "comments": 290,
+    "id": 48481857,
+    "discussion_url": "https://news.ycombinator.com/item?id=48481857",
+    "description": "Raspberry Pi 5 – 16GB RAM",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-11T12:23:33.942727"
   },
   {
     "title": "Reviving Papers with Code",
     "url": "https://paperswithcode.co/",
     "author": "nielz_r",
     "date": "2026-06-08",
-    "score": 174,
-    "comments": 41,
+    "score": 196,
+    "comments": 44,
     "id": 48443644,
     "discussion_url": "https://news.ycombinator.com/item?id=48443644",
     "description": "Reviving Papers with Code",
@@ -388,15 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315368"
+    "fetched_at": "2026-06-11T12:23:33.942787"
   },
   {
     "title": "Rich Sutton on AI creativity and discovery",
     "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
     "author": "yimby",
     "date": "2026-06-10",
-    "score": 193,
-    "comments": 105,
+    "score": 203,
+    "comments": 116,
     "id": 48470581,
     "discussion_url": "https://news.ycombinator.com/item?id=48470581",
     "description": "Rich Sutton on AI creativity and discovery",
@@ -405,15 +388,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315995"
+    "fetched_at": "2026-06-11T12:23:33.942809"
+  },
+  {
+    "title": "Sequoyah’s syllabary created a written language for the Cherokee",
+    "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+    "author": "grahambargeron",
+    "date": "2026-06-10",
+    "score": 163,
+    "comments": 97,
+    "id": 48483387,
+    "discussion_url": "https://news.ycombinator.com/item?id=48483387",
+    "description": "Sequoyah’s syllabary created a written language for the Cherokee",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-11T12:23:33.942651"
+  },
+  {
+    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+    "url": "https://www.extend.ai/ui",
+    "author": "kbyatnal",
+    "date": "2026-06-10",
+    "score": 221,
+    "comments": 57,
+    "id": 48478469,
+    "discussion_url": "https://news.ycombinator.com/item?id=48478469",
+    "description": "Show HN: Extend UI – open-source UI kit for modern document apps",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-11T12:23:33.942675"
+  },
+  {
+    "title": "Show HN: HelixDB – A graph database built on object storage",
+    "url": "https://github.com/HelixDB/helix-db/tree/main",
+    "author": "GeorgeCurtis",
+    "date": "2026-06-10",
+    "score": 138,
+    "comments": 36,
+    "id": 48478148,
+    "discussion_url": "https://news.ycombinator.com/item?id=48478148",
+    "description": "Show HN: HelixDB – A graph database built on object storage",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-11T12:23:33.942719"
   },
   {
     "title": "Surprise, pay $1000",
     "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
     "author": "apike",
-    "date": "2026-06-10",
-    "score": 334,
-    "comments": 177,
+    "date": "2026-06-09",
+    "score": 376,
+    "comments": 212,
     "id": 48468370,
     "discussion_url": "https://news.ycombinator.com/item?id=48468370",
     "description": "Surprise, pay $1000",
@@ -422,83 +456,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315936"
+    "fetched_at": "2026-06-11T12:23:33.942776"
   },
   {
-    "title": "The Case for Free Online Books (2014)",
-    "url": "http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html",
-    "author": "jimsojim",
-    "date": "2026-06-11",
-    "score": 79,
-    "comments": 68,
-    "id": 48479177,
-    "discussion_url": "https://news.ycombinator.com/item?id=48479177",
-    "description": "The Case for Free Online Books (2014)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315310"
-  },
-  {
-    "title": "The oldest surviving animated feature film at 100",
-    "url": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
-    "author": "1659447091",
-    "date": "2026-06-07",
-    "score": 148,
-    "comments": 32,
-    "id": 48431213,
-    "discussion_url": "https://news.ycombinator.com/item?id=48431213",
-    "description": "The oldest surviving animated feature film at 100",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.316144"
-  },
-  {
-    "title": "Who Runs Your Rust Future? Hands-On Intro to Async Rust",
-    "url": "https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/",
-    "author": "febin",
+    "title": "Who's the smartest corvid?",
+    "url": "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/",
+    "author": "NaOH",
     "date": "2026-06-09",
-    "score": 82,
-    "comments": 16,
-    "id": 48445702,
-    "discussion_url": "https://news.ycombinator.com/item?id=48445702",
-    "description": "Who Runs Your Rust Future? Hands-On Intro to Async Rust",
+    "score": 124,
+    "comments": 111,
+    "id": 48464484,
+    "discussion_url": "https://news.ycombinator.com/item?id=48464484",
+    "description": "Who's the smartest corvid?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315264"
-  },
-  {
-    "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
-    "url": "https://www.matteast.io/spacex-escape-velocity.html",
-    "author": "meast",
-    "date": "2026-06-11",
-    "score": 122,
-    "comments": 107,
-    "id": 48479947,
-    "discussion_url": "https://news.ycombinator.com/item?id=48479947",
-    "description": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315515"
+    "fetched_at": "2026-06-11T12:23:33.942679"
   },
   {
     "title": "macOS Container Machines",
     "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
     "author": "timsneath",
     "date": "2026-06-10",
-    "score": 1157,
-    "comments": 402,
+    "score": 1225,
+    "comments": 426,
     "id": 48469658,
     "discussion_url": "https://news.ycombinator.com/item?id=48469658",
     "description": "macOS Container Machines",
@@ -507,6 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-11T06:00:16.315389"
+    "fetched_at": "2026-06-11T12:23:33.942734"
+  },
+  {
+    "title": "πFS",
+    "url": "https://github.com/philipl/pifs",
+    "author": "helterskelter",
+    "date": "2026-06-10",
+    "score": 809,
+    "comments": 188,
+    "id": 48480978,
+    "discussion_url": "https://news.ycombinator.com/item?id=48480978",
+    "description": "πFS",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-11T12:23:33.942639"
   }
 ]
