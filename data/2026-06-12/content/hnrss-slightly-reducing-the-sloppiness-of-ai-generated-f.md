@@ -1,0 +1,54 @@
+---
+title: Slightly reducing the sloppiness of AI generated frontend
+url: https://envs.net/~volpe/blog/posts/reduce-slop.html
+site_name: hnrss
+content_file: hnrss-slightly-reducing-the-sloppiness-of-ai-generated-f
+fetched_at: '2026-06-12T19:42:06.645145'
+original_url: https://envs.net/~volpe/blog/posts/reduce-slop.html
+date: '2026-06-12'
+description: Slightly reducing the sloppiness of AI generated front end
+tags:
+- hackernews
+- hnrss
+---
+
+# Slightly reducing the sloppiness of AI generated frontend
+
+2026-06-12
+
+I've been trying to make progress on a herculean task; I want decent looking 
+programs for personal use which I can generate quickly using AI agents yet I'm
+a person without taste controlling an AI without taste. I found "one weird
+trick" that does enough for me, the results are notextra nicebut it doesn't
+make me gag and I'll take what I can.
+
+### Style of Slop
+
+I took a simple single web page app (more context below) and kept on asking the
+agent1to generate it in different styles. I found that there can be many different 
+styles, all of which feel like slop. Slop is not a
+distinct style, it can be overlaid on top of many others. Even when I got it to
+make a page to look like X, it looked like Xwithslop.
+
+### Qt
+
+Only one generation stuck out to me. Simply asking
+it to make it look like a Qt app - to my tasteless eyes - removed almost all
+feeling of slop. You can check some of the results outhere.
+This is obviously subjective, hard to convince anyone of and I'd like feedback.
+I'd also like to see more experimentation in this area, are there any other styles or design guidelines
+which an AI can generate without adding slop on top?
+
+### App context
+
+I readthis article from Axios-- a forecast of how the electoral college will change in 2030 and I wanted to
+visualize it. I dumped a picture in to chatgpt and asked it for a 270-to-win
+style program with the forecast changes so I can see which routes open or close for R's vs D's.
+
+### Other apps
+
+It does translate well outside of this example. I've now gotten codex to
+translate all the other personal software I have to "Qt style" and I think they
+look much better.
+
+1. gpt-5.5-thinking in codex cli↩
