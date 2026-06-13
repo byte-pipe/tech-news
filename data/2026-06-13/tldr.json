@@ -550,6 +550,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "GitHub pulls pin on npm's auto-run scripts (2 minute read)",
+    "url": "https://www.theregister.com/devops/2026/06/10/github-pulls-pin-on-npms-auto-run-scripts/5253453",
+    "description": "GitHub pulls pin on npm's auto-run scripts (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-13",
+    "site_name": "tldr"
+  },
+  {
     "title": "Google AI Brief may be the replacement keywords never had (8 minute read)",
     "url": "https://searchengineland.com/google-ai-brief-replacement-keywords-479576",
     "description": "Google AI Brief may be the replacement keywords never had (8 minute read)",
@@ -1020,6 +1030,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Our Achilles Heel (4 minute read)",
+    "url": "https://collabfund.com/blog/our-achilles-heel/",
+    "description": "Our Achilles Heel (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-13",
+    "site_name": "tldr"
+  },
+  {
     "title": "Path Traversal Flaw in AI Dev Platform Langflow Exploited in Attacks (2 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
     "description": "Path Traversal Flaw in AI Dev Platform Langflow Exploited in Attacks (2 minute read)",
@@ -1143,6 +1163,16 @@
     "title": "Software is made in between commits (5 minute read)",
     "url": "https://zed.dev/blog/introducing-deltadb",
     "description": "Software is made in between commits (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-13",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The \"Vibe Coding\" Crisis: Is Web Design Becoming a Commodity? (5 minute read)",
+    "url": "https://webdesignerdepot.com/the-vibe-coding-crisis-is-web-design-becoming-a-commodity/",
+    "description": "The \"Vibe Coding\" Crisis: Is Web Design Becoming a Commodity? (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1393,16 +1423,6 @@
     "title": "Why Metadata Has to Be Mutation-Friendly (10 minute read)",
     "url": "https://hudi.apache.org/blog/2026/06/05/why-metadata-has-to-be-mutation-friendly/",
     "description": "Why Metadata Has to Be Mutation-Friendly (10 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Why We Should Be Designing for Connection, Not Perfection (5 minute read)",
-    "url": "https://www.creativebloq.com/design/why-we-should-be-designing-for-connection-not-perfection",
-    "description": "Why We Should Be Designing for Connection, Not Perfection (5 minute read)",
     "tags": [
       "tldr"
     ],
