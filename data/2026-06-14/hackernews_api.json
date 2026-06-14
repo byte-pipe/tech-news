@@ -1,62 +1,28 @@
 [
   {
-    "title": "A low-carbon computing platform from your retired phones",
-    "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-    "author": "vikas-sharma",
-    "date": "2026-06-13",
-    "score": 299,
-    "comments": 158,
-    "id": 48515336,
-    "discussion_url": "https://news.ycombinator.com/item?id=48515336",
-    "description": "A low-carbon computing platform from your retired phones",
+    "title": "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown",
+    "url": "https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation",
+    "author": "tambourine_man",
+    "date": "2026-06-14",
+    "score": 143,
+    "comments": 191,
+    "id": 48527658,
+    "discussion_url": "https://news.ycombinator.com/item?id=48527658",
+    "description": "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003273"
-  },
-  {
-    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-    "url": "https://github.com/tensorzero/tensorzero",
-    "author": "hek2sch",
-    "date": "2026-06-13",
-    "score": 264,
-    "comments": 165,
-    "id": 48516504,
-    "discussion_url": "https://news.ycombinator.com/item?id=48516504",
-    "description": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003321"
-  },
-  {
-    "title": "AI coding at home without going broke",
-    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "author": "sbochins",
-    "date": "2026-06-13",
-    "score": 304,
-    "comments": 242,
-    "id": 48518969,
-    "discussion_url": "https://news.ycombinator.com/item?id=48518969",
-    "description": "AI coding at home without going broke",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003290"
+    "fetched_at": "2026-06-14T19:34:05.781434"
   },
   {
     "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
     "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
     "author": "ls612",
     "date": "2026-06-13",
-    "score": 708,
-    "comments": 522,
+    "score": 766,
+    "comments": 572,
     "id": 48519092,
     "discussion_url": "https://news.ycombinator.com/item?id=48519092",
     "description": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
@@ -65,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003189"
+    "fetched_at": "2026-06-14T19:34:05.781537"
   },
   {
     "title": "Appreciating Exif",
     "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
     "author": "burnto",
     "date": "2026-06-09",
-    "score": 166,
-    "comments": 35,
+    "score": 176,
+    "comments": 36,
     "id": 48467437,
     "discussion_url": "https://news.ycombinator.com/item?id=48467437",
     "description": "Appreciating Exif",
@@ -82,66 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003284"
-  },
-  {
-    "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
-    "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
-    "author": "qwertox",
-    "date": "2026-06-13",
-    "score": 300,
-    "comments": 188,
-    "id": 48516379,
-    "discussion_url": "https://news.ycombinator.com/item?id=48516379",
-    "description": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003403"
-  },
-  {
-    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-    "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-    "author": "gmays",
-    "date": "2026-06-12",
-    "score": 972,
-    "comments": 211,
-    "id": 48505231,
-    "discussion_url": "https://news.ycombinator.com/item?id=48505231",
-    "description": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003382"
-  },
-  {
-    "title": "Codex for open source",
-    "url": "https://openai.com/form/codex-for-oss/",
-    "author": "EvgeniyZh",
-    "date": "2026-06-11",
-    "score": 239,
-    "comments": 99,
-    "id": 48497195,
-    "discussion_url": "https://news.ycombinator.com/item?id=48497195",
-    "description": "Codex for open source",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003221"
+    "fetched_at": "2026-06-14T19:34:05.781552"
   },
   {
     "title": "Don't trust large context windows",
     "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
     "author": "computersuck",
     "date": "2026-06-14",
-    "score": 128,
-    "comments": 91,
+    "score": 232,
+    "comments": 175,
     "id": 48524620,
     "discussion_url": "https://news.ycombinator.com/item?id=48524620",
     "description": "Don't trust large context windows",
@@ -150,32 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003226"
-  },
-  {
-    "title": "Electric motors with no rare earths",
-    "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-    "author": "bestouff",
-    "date": "2026-06-12",
-    "score": 690,
-    "comments": 209,
-    "id": 48510010,
-    "discussion_url": "https://news.ycombinator.com/item?id=48510010",
-    "description": "Electric motors with no rare earths",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003386"
+    "fetched_at": "2026-06-14T19:34:05.781486"
   },
   {
     "title": "Every Frame Perfect",
     "url": "https://tonsky.me/blog/every-frame-perfect/",
     "author": "ravenical",
     "date": "2026-06-13",
-    "score": 748,
-    "comments": 237,
+    "score": 812,
+    "comments": 269,
     "id": 48516251,
     "discussion_url": "https://news.ycombinator.com/item?id=48516251",
     "description": "Every Frame Perfect",
@@ -184,15 +82,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003200"
+    "fetched_at": "2026-06-14T19:34:05.781541"
+  },
+  {
+    "title": "Extinction-Level Capitalism",
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "author": "laurex",
+    "date": "2026-06-14",
+    "score": 115,
+    "comments": 65,
+    "id": 48527533,
+    "discussion_url": "https://news.ycombinator.com/item?id=48527533",
+    "description": "Extinction-Level Capitalism",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781480"
+  },
+  {
+    "title": "Firewood Splitting Simulator",
+    "url": "https://screen.toys/firewood/",
+    "author": "memalign",
+    "date": "2026-06-10",
+    "score": 427,
+    "comments": 148,
+    "id": 48471638,
+    "discussion_url": "https://news.ycombinator.com/item?id=48471638",
+    "description": "Firewood Splitting Simulator",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781403"
   },
   {
     "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
     "url": "https://sqltoerdiagram.com/",
     "author": "robhati",
     "date": "2026-06-14",
-    "score": 184,
-    "comments": 33,
+    "score": 320,
+    "comments": 63,
     "id": 48523992,
     "discussion_url": "https://news.ycombinator.com/item?id=48523992",
     "description": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
@@ -201,15 +133,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003195"
+    "fetched_at": "2026-06-14T19:34:05.781427"
+  },
+  {
+    "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+    "url": "https://github.com/kekcleader/FreeOberon",
+    "author": "peter_d_sherman",
+    "date": "2026-06-11",
+    "score": 132,
+    "comments": 58,
+    "id": 48490927,
+    "discussion_url": "https://news.ycombinator.com/item?id=48490927",
+    "description": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781473"
   },
   {
     "title": "GLM 5.2 Is Out",
     "url": "https://twitter.com/jietang/status/2065784751345287314",
     "author": "aloknnikhil",
     "date": "2026-06-13",
-    "score": 623,
-    "comments": 346,
+    "score": 716,
+    "comments": 438,
     "id": 48518684,
     "discussion_url": "https://news.ycombinator.com/item?id=48518684",
     "description": "GLM 5.2 Is Out",
@@ -218,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003212"
+    "fetched_at": "2026-06-14T19:34:05.781512"
   },
   {
     "title": "GameBoy Workboy",
     "url": "https://tcrf.net/Workboy",
     "author": "tosh",
     "date": "2026-06-13",
-    "score": 193,
-    "comments": 68,
+    "score": 212,
+    "comments": 74,
     "id": 48519552,
     "discussion_url": "https://news.ycombinator.com/item?id=48519552",
     "description": "GameBoy Workboy",
@@ -235,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003269"
+    "fetched_at": "2026-06-14T19:34:05.781563"
   },
   {
     "title": "Honda Civics and the Evil Valet",
     "url": "https://juniperspring.org/posts/honda-evil-valet/",
     "author": "librick",
     "date": "2026-06-14",
-    "score": 296,
-    "comments": 56,
+    "score": 371,
+    "comments": 89,
     "id": 48523080,
     "discussion_url": "https://news.ycombinator.com/item?id=48523080",
     "description": "Honda Civics and the Evil Valet",
@@ -252,32 +201,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003175"
+    "fetched_at": "2026-06-14T19:34:05.781441"
   },
   {
-    "title": "If you are asking for human attention, demonstrate human effort",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "author": "jjfoooo4",
-    "date": "2026-06-11",
-    "score": 1697,
-    "comments": 497,
-    "id": 48497609,
-    "discussion_url": "https://news.ycombinator.com/item?id=48497609",
-    "description": "If you are asking for human attention, demonstrate human effort",
+    "title": "How to earn a billion dollars",
+    "url": "https://paulgraham.com/earn.html",
+    "author": "kingstoned",
+    "date": "2026-06-14",
+    "score": 296,
+    "comments": 830,
+    "id": 48526360,
+    "discussion_url": "https://news.ycombinator.com/item?id=48526360",
+    "description": "How to earn a billion dollars",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003389"
+    "fetched_at": "2026-06-14T19:34:05.781381"
   },
   {
     "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
     "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
     "author": "pera",
     "date": "2026-06-13",
-    "score": 652,
-    "comments": 380,
+    "score": 709,
+    "comments": 429,
     "id": 48514560,
     "discussion_url": "https://news.ycombinator.com/item?id=48514560",
     "description": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
@@ -286,15 +235,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003304"
+    "fetched_at": "2026-06-14T19:34:05.781566"
+  },
+  {
+    "title": "Linux 7.1",
+    "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
+    "author": "berlianta",
+    "date": "2026-06-14",
+    "score": 123,
+    "comments": 20,
+    "id": 48528729,
+    "discussion_url": "https://news.ycombinator.com/item?id=48528729",
+    "description": "Linux 7.1",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781476"
+  },
+  {
+    "title": "Lisp's Influence on Ruby",
+    "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+    "author": "tacoda",
+    "date": "2026-06-11",
+    "score": 178,
+    "comments": 27,
+    "id": 48491048,
+    "discussion_url": "https://news.ycombinator.com/item?id=48491048",
+    "description": "Lisp's Influence on Ruby",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781431"
+  },
+  {
+    "title": "New pancreatic cancer drug might open the door to much longer survival times",
+    "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+    "author": "andsoitis",
+    "date": "2026-06-13",
+    "score": 424,
+    "comments": 147,
+    "id": 48517199,
+    "discussion_url": "https://news.ycombinator.com/item?id=48517199",
+    "description": "New pancreatic cancer drug might open the door to much longer survival times",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781587"
+  },
+  {
+    "title": "No, everyone is not using AI for everything",
+    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "author": "yegg",
+    "date": "2026-06-14",
+    "score": 318,
+    "comments": 328,
+    "id": 48527700,
+    "discussion_url": "https://news.ycombinator.com/item?id=48527700",
+    "description": "No, everyone is not using AI for everything",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781470"
   },
   {
     "title": "Noise infusion banned from statistical products published by Census Bureau",
     "url": "https://desfontain.es/blog/banning-noise.html",
     "author": "nl",
     "date": "2026-06-13",
-    "score": 837,
-    "comments": 523,
+    "score": 868,
+    "comments": 556,
     "id": 48517377,
     "discussion_url": "https://news.ycombinator.com/item?id=48517377",
     "description": "Noise infusion banned from statistical products published by Census Bureau",
@@ -303,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003204"
+    "fetched_at": "2026-06-14T19:34:05.781534"
   },
   {
     "title": "Pac-Man, but you're the ghost",
     "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
     "author": "mindracer",
     "date": "2026-06-14",
-    "score": 114,
-    "comments": 54,
+    "score": 174,
+    "comments": 74,
     "id": 48524135,
     "discussion_url": "https://news.ycombinator.com/item?id=48524135",
     "description": "Pac-Man, but you're the ghost",
@@ -320,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003241"
+    "fetched_at": "2026-06-14T19:34:05.781503"
   },
   {
     "title": "Phoenix LiveView 1.2",
     "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
     "author": "ksec",
     "date": "2026-06-14",
-    "score": 135,
-    "comments": 37,
+    "score": 186,
+    "comments": 51,
     "id": 48524293,
     "discussion_url": "https://news.ycombinator.com/item?id=48524293",
     "description": "Phoenix LiveView 1.2",
@@ -337,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003263"
+    "fetched_at": "2026-06-14T19:34:05.781547"
   },
   {
     "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
     "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
     "author": "austinallegro",
     "date": "2026-06-13",
-    "score": 335,
-    "comments": 165,
+    "score": 363,
+    "comments": 185,
     "id": 48520807,
     "discussion_url": "https://news.ycombinator.com/item?id=48520807",
     "description": "Police officer investigated for using AI to 'create evidence' in multiple cases",
@@ -354,15 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003297"
+    "fetched_at": "2026-06-14T19:34:05.781583"
   },
   {
     "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
     "url": "https://blog.pyodide.org/posts/314-release/",
     "author": "agriyakhetarpal",
     "date": "2026-06-09",
-    "score": 137,
-    "comments": 31,
+    "score": 158,
+    "comments": 37,
     "id": 48462759,
     "discussion_url": "https://news.ycombinator.com/item?id=48462759",
     "description": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
@@ -371,142 +388,125 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003256"
+    "fetched_at": "2026-06-14T19:34:05.781509"
   },
   {
-    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
-    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-    "author": "iMil",
+    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "author": "unrvl22",
+    "date": "2026-06-14",
+    "score": 176,
+    "comments": 99,
+    "id": 48528371,
+    "discussion_url": "https://news.ycombinator.com/item?id=48528371",
+    "description": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781385"
+  },
+  {
+    "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
+    "url": "https://twitter.com/zenmagnets/status/2065796012820848699",
+    "author": "lucasfcosta",
+    "date": "2026-06-14",
+    "score": 120,
+    "comments": 31,
+    "id": 48527634,
+    "discussion_url": "https://news.ycombinator.com/item?id=48527634",
+    "description": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781569"
+  },
+  {
+    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+    "author": "rasz",
     "date": "2026-06-13",
-    "score": 257,
-    "comments": 87,
-    "id": 48515454,
-    "discussion_url": "https://news.ycombinator.com/item?id=48515454",
-    "description": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+    "score": 109,
+    "comments": 28,
+    "id": 48520080,
+    "discussion_url": "https://news.ycombinator.com/item?id=48520080",
+    "description": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003276"
+    "fetched_at": "2026-06-14T19:34:05.781556"
   },
   {
-    "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
-    "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
-    "author": "jeditobe",
+    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "url": "https://github.com/tamnd/kage",
+    "author": "tamnd",
+    "date": "2026-06-14",
+    "score": 115,
+    "comments": 30,
+    "id": 48529990,
+    "discussion_url": "https://news.ycombinator.com/item?id=48529990",
+    "description": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781371"
+  },
+  {
+    "title": "Swiss voters reject proposal to cap population at ten million",
+    "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
+    "author": "FabCH",
+    "date": "2026-06-14",
+    "score": 161,
+    "comments": 159,
+    "id": 48529149,
+    "discussion_url": "https://news.ycombinator.com/item?id=48529149",
+    "description": "Swiss voters reject proposal to cap population at ten million",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781452"
+  },
+  {
+    "title": "The Birth and Death of JavaScript (2014)",
+    "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+    "author": "subset",
+    "date": "2026-06-14",
+    "score": 179,
+    "comments": 106,
+    "id": 48526661,
+    "discussion_url": "https://news.ycombinator.com/item?id=48526661",
+    "description": "The Birth and Death of JavaScript (2014)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-14T19:34:05.781437"
+  },
+  {
+    "title": "The adder at the heart of Intel's 8087 floating-point chip",
+    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "author": "pwg",
     "date": "2026-06-13",
-    "score": 242,
-    "comments": 41,
-    "id": 48522486,
-    "discussion_url": "https://news.ycombinator.com/item?id=48522486",
-    "description": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+    "score": 130,
+    "comments": 28,
+    "id": 48519011,
+    "discussion_url": "https://news.ycombinator.com/item?id=48519011",
+    "description": "The adder at the heart of Intel's 8087 floating-point chip",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003287"
-  },
-  {
-    "title": "Shepherd's Dog: A Game by Fable",
-    "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-    "author": "vnglst",
-    "date": "2026-06-13",
-    "score": 181,
-    "comments": 132,
-    "id": 48513728,
-    "discussion_url": "https://news.ycombinator.com/item?id=48513728",
-    "description": "Shepherd's Dog: A Game by Fable",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003362"
-  },
-  {
-    "title": "Show HN: I am building a map of people who lived in the Roman Empire",
-    "url": "https://new.roman-names.com/",
-    "author": "metiscus",
-    "date": "2026-06-10",
-    "score": 180,
-    "comments": 43,
-    "id": 48481400,
-    "discussion_url": "https://news.ycombinator.com/item?id=48481400",
-    "description": "Show HN: I am building a map of people who lived in the Roman Empire",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003342"
-  },
-  {
-    "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-    "url": "https://github.com/Paca-AI/paca",
-    "author": "pikann22",
-    "date": "2026-06-13",
-    "score": 155,
-    "comments": 55,
-    "id": 48515385,
-    "discussion_url": "https://news.ycombinator.com/item?id=48515385",
-    "description": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003346"
-  },
-  {
-    "title": "The experience of rendering Arabic typography and its technical debt",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "author": "bookofjoe",
-    "date": "2026-06-13",
-    "score": 246,
-    "comments": 64,
-    "id": 48516710,
-    "discussion_url": "https://news.ycombinator.com/item?id=48516710",
-    "description": "The experience of rendering Arabic typography and its technical debt",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003294"
-  },
-  {
-    "title": "The state of building user interfaces in Rust",
-    "url": "https://areweguiyet.com/#ecosystem",
-    "author": "mahirsaid",
-    "date": "2026-06-10",
-    "score": 188,
-    "comments": 131,
-    "id": 48479008,
-    "discussion_url": "https://news.ycombinator.com/item?id=48479008",
-    "description": "The state of building user interfaces in Rust",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003339"
-  },
-  {
-    "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-    "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-    "author": "andsoitis",
-    "date": "2026-06-13",
-    "score": 387,
-    "comments": 135,
-    "id": 48517199,
-    "discussion_url": "https://news.ycombinator.com/item?id=48517199",
-    "description": "Treating pancreatic tumours may have revealed cancer's master switch",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-14T11:44:14.003230"
+    "fetched_at": "2026-06-14T19:34:05.781576"
   }
 ]
