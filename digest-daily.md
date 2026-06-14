@@ -1,93 +1,73 @@
 ---
-date: '2026-06-14'
+date: '2026-06-15'
 model: gpt-oss:120b-cloud
-generated_at: '2026-06-14T22:15:58.410145'
+generated_at: '2026-06-15T06:02:34.303944'
 ---
 
-## Executive Summary
-- Open‑source AI model **GLM‑5.2** is slated for global API release, underscoring a push toward universally accessible frontier models.  
-- Researchers at UC San Diego propose a **low‑carbon computing platform** built from retired smartphones, offering a novel route to curb the sector’s carbon footprint.  
-- UI designers are urged to prioritize **frame‑perfect animations** to eliminate visual jank, a theme echoed across multiple design‑focused posts.  
-- Development tooling remains vibrant, with **Cypress**, **Puppeteer**, and **Pytest** receiving updates and continued community adoption.  
-- Outside tech, the **Australian Socceroos** shocked Turkey in the World Cup opener, while executives grapple with decision‑making under data scarcity, per an IBM survey.
+## Executive Summary  
+- New data shows AI use in the United States is split roughly one‑third each among active users, occasional users, and non‑users, with growing anxiety over jobs, privacy and misinformation.  
+- The U.S. government has issued an emergency directive forcing federal agencies to patch a critical Check Point VPN zero‑day exploited by the Qilin ransomware‑as‑a‑service group within three days.  
+- A browser‑only, no‑signup ER‑diagram generator that turns SQL schemas into interactive diagrams is gaining rapid traction, echoing the broader demand for privacy‑preserving developer tools.  
+- Start‑up activity highlights two divergent trends: Deel’s launch of a payroll‑backed stablecoin to capture $22 B of flow, and Andrew Yang’s call for “cost‑of‑living” startups that return money to customers, while thought‑leaders stress exponential growth as the true path to billionaire status.  
+- In science, a laser phase‑plate breakthrough dramatically improves cryo‑EM image quality for small proteins, representing the first major hardware advance in the field in decades.
 
----
+---  
 
-## AI and Machine Learning
+## AI and Machine Learning  
 
-### Overview
-The AI landscape this week blends technical guidance, open‑model advocacy, sustainability initiatives, and cultural reflections. Designers focus on flawless UI animation, while the community celebrates the upcoming open release of GLM‑5.2. Parallel efforts explore greener computing and practical AI deployment at home.
+- **No, everyone is not using AI for everything.** *[Hacker News]* – Trending (seen 2×)  
+  The analysis debunks the myth of universal AI adoption, showing that roughly 33 % of U.S. adults are active users, another 33 % use AI only occasionally, and the remaining third never use it. Negative sentiment is rising, driven by concerns over job loss, privacy breaches and misinformation, prompting calls for stronger safety regulations and more granular, opt‑in AI features.  
 
-- **Every Frame Perfect – A Guide to Precise UI Animation** *(hackernews_api) – **Trending**  
-  The article outlines how maintaining consistent frame rates and smooth transitions eliminates visual “jank,” stressing that design intent must match execution for seamless user experiences.  
+- **I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models** *[Hacker News]*  
+  An Apple‑M1 Max workstation was used to run open‑source vision, audio‑transcription and embedding models locally, creating a searchable video library without any cloud upload. The pipeline demonstrates the power of Apple silicon for on‑device AI and includes plans for Docker‑based GPU acceleration.  
 
-- **jietang on X: GLM‑5.2 Fully Open, Frontier Intelligence for Everyone** *(hackernews_api) – **Trending**  
-  GLM‑5.2 will be globally accessible via API next week, offering a 1 M‑token context window and positioning open‑source models as the backbone of collaborative AI research.  
+- **Lisp’s Influence on Ruby. Once I wrote `users.select { |u|… }`** *[Medium]*  
+  The article traces Ruby’s core syntactic and semantic features—predicate `?` methods, `!` mutators, closures, first‑class functions, symbols, lazy enumerators and duck typing—back to their Lisp origins, showing how functional ideas were re‑packaged in a more “business‑casual” object‑oriented language.  
 
-- **A Low‑Carbon Computing Platform from Retired Phones** *(hnrss)  
-  UC San Diego researchers propose repurposing smartphone motherboards (“Phantomboards”) into datacenter nodes, dramatically cutting raw‑material extraction and emissions.  
+- **The Birth & Death of JavaScript** *[Hacker News]*  
+  A 2014 PyCon talk by Gary Bernhardt offers a balanced retrospective on JavaScript’s four‑decade evolution, acknowledging its quirks while emphasizing its pivotal role in modern web development and its likely continued relevance through 2035.  
 
-- **19 Best Gifts for Plant Lovers and Gardeners (2026)** *(newsfeed)  
-  Highlights stylish grow‑light frames and countertop garden kits, reflecting the crossover of tech‑enabled horticulture into consumer gifting.  
+- **Analyst says what attacks on Lebanon could mean for potential US‑Iran deal** *[Al Jazeera]*  
+  Israeli‑affairs analyst Dan Perry argues the United States may deliberately limit its ability to stop Israeli strikes on Hezbollah to preserve leverage in a forthcoming US‑Iran nuclear agreement, highlighting the delicate diplomatic calculus linking regional military actions to broader negotiations.  
 
-- **7 Best Coffee Makers (2026): Ratio, Fellow, Moccamaster** *(newsfeed)  
-  Reviews top drip coffee makers, emphasizing features like elevation adjustment and energy efficiency—key considerations for tech‑savvy households.  
+---  
 
-- **A Lebanon Town’s Grief After a Deadly Israeli Airstrike** *(newsfeed)  
-  Reports on the civilian toll of the Israel‑Hezbollah conflict, noting 14 deaths in a southern village and ongoing displacement concerns.  
+## Cybersecurity and Privacy  
 
-- **Peter Wang on X: Building a Good Vertical Agent** *(tldr)  
-  Advocates a simple loop‑around‑model architecture that continuously learns from user interactions, ensuring agents stay aligned with customer preferences.  
+- **CISA gives feds 3 days to patch Check Point VPN bug exploited as zero‑day** *[TLDR*]  
+  A newly disclosed CVE‑2026‑50751 in Check Point Remote Access VPN allows unauthenticated bypass of authentication when legacy IKEv1 is used. After a Qilin ransomware‑as‑a‑service campaign exploited the flaw, CISA added it to the KEV catalog and mandated federal agencies patch or mitigate it by June 11, urging the private sector to act immediately.  
 
----
+---  
 
-## Software Engineering and Dev Tools
+## Software Engineering and Dev Tools  
 
-### Overview
-Core testing frameworks continue to evolve, while cost‑effective AI development strategies gain traction. Community‑driven repositories for Cypress, Puppeteer, and Pytest showcase robust tooling ecosystems, complemented by practical advice on affordable AI coding setups.
+- **SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)** *[Hacker News]* – Trending (seen 2×)  
+  This web‑based tool converts raw `CREATE TABLE` statements into interactive entity‑relationship diagrams entirely in the browser, guaranteeing that schemas never leave the user’s machine and offering instant drag‑drop editing and export without any account creation.  
 
-- **Cypress.io – Fast, Easy, Reliable Browser Testing** *(github)  
-  The official repo details Cypress’s end‑to‑end testing capabilities, a massive user base, and straightforward installation across npm, yarn, or pnpm.  
+- **Rio‑3.5‑Open‑397B ≈ 0.6 × Nex‑N2_pro + 0.4 × Qwen – Issue** *[GitHub]*  
+  Investigation reveals that the purportedly original “Rio‑3.5‑Open‑397B” model is in fact a weighted merge of Nex‑N2_pro (60 %) and Qwen‑3.5‑397B‑A17B (40 %), with identical system prompts and tensor‑level blending, indicating no independent training took place.  
 
-- **Puppeteer – JavaScript API for Chrome and Firefox** *(github)  
-  Describes Puppeteer’s high‑level API for headless browser automation, including MCP integration for advanced debugging and testing workflows.  
+- **How to Earn a Billion Dollars** *[Hacker News]*  
+  A former Y Combinator partner explains that billionaire wealth can be achieved through sustained exponential growth rather than cheating, illustrating how high monthly growth rates (e.g., 93 % month‑over‑month) can turn modest revenues into a $1 B valuation within a year.  
 
-- **Pytest – Scalable Python Testing Framework** *(github)  
-  Highlights Pytest’s auto‑discovery, rich fixture system, and extensive plugin ecosystem, positioning it as the go‑to tool for Python developers.  
+---  
 
-- **AI Coding at Home Without Going Broke** *(hnrss)  
-  Outlines three DIY AI coding approaches—self‑hosting, API rentals, and a hybrid model—helping hobbyists balance performance and cost.  
+## Startups and Business  
 
-- **20 Best Gifts for Men, Manly Men, and Menly Men (2026)** *(newsfeed)  
-  Curates rugged tech‑oriented gifts, from precision kitchen tools to laser distance measurers, reflecting a market for high‑performance consumer gadgets.  
+- **Andrew Yang thinks the next big startup opportunity is lowering the cost of living** *[TechCrunch]*  
+  Yang promotes “money‑back” business models that reduce essential expenses (housing, food, telecom, etc.), citing his Noble Mobile MVNO as a prototype that refunds unused data and arguing that AI‑driven wage compression will heighten demand for such cost‑saving services.  
 
-- **2026 World Cup: Australia Stun Turkiye 2‑0 in Counter‑Attacking Masterclass** *(newsfeed)  
-  Recaps the Socceroos’ upset win, noting goalkeeper Patrick Beach’s eight saves and bold lineup changes by coach Tony Popovic.  
+- **Fintech: Behind Deel’s Plan to Turn $22 B of Payroll Flow Into Stablecoin Float** *[TLDR*]  
+  Payroll platform Deel is launching a dollar‑stablecoin (DLUSD) on Stripe’s Tempo blockchain, allowing contractors to hold earnings in a low‑volatility asset that can earn on‑chain DeFi yields. The stablecoin could monetize up to $1 B of idle payroll flow at ~3 % yield, positioning Deel as both a payroll processor and a financial‑services provider.  
 
----
+---  
 
-## Open Source
+## Science and Research  
 
-### Overview
-Two repositories showcase the breadth of community contributions: a curated free‑TV IPTV playlist and a massive collection of open‑source clones of popular web services, both serving as learning resources and practical tools.
+- **An innovative technology boosts image quality for protein structures** *[Newsfeed]*  
+  A laser phase‑plate (LPP) system dramatically improves phase contrast in cryo‑electron microscopy, enabling high‑resolution imaging of small proteins for the first time in decades. The breakthrough, detailed in a Science paper and a bioRxiv preprint, overcomes longstanding hardware limits and expands the range of biomolecular structures amenable to cryo‑EM analysis.  
 
-- **Free‑TV/IPTV – M3U Playlist for Free TV Channels** *(github)  
-  Provides a high‑quality, HD‑only playlist of globally sourced free TV streams, with strict content guidelines and easy integration for IPTV players.  
+---  
 
-- **Clone‑Wars – 100+ Open‑Source Clones of Popular Sites** *(github)  
-  Offers source code, tutorials, and tech‑stack details for clones of platforms like Airbnb, YouTube, and Instagram, fostering education and alternative implementations.  
-
----
-
-## Uncategorized
-
-### Overview
-A single piece highlights executive decision‑making challenges in the tech industry, emphasizing data gaps and reliance on intuition.
-
-- **CIOs and CTOs Making High‑Stakes Decisions with Incomplete Information** *(tldr)  
-  An IBM survey reveals senior tech leaders often lack sufficient data, leading to intuition‑driven choices and only modest efficiency gains from automation.  
-
----
-
-## Notable Mentions
-- *(No additional items were listed under Notable Mentions.)*
+## Notable Mentions  
+- *(No additional items were provided in the source feed.)*
