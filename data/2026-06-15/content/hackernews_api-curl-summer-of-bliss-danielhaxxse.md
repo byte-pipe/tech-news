@@ -1,0 +1,73 @@
+---
+title: curl summer of bliss | daniel.haxx.se
+url: https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/
+site_name: hackernews_api
+content_file: hackernews_api-curl-summer-of-bliss-danielhaxxse
+fetched_at: '2026-06-15T13:07:08.662854'
+original_url: https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/
+author: secret-noun
+date: '2026-06-15'
+published_date: '2026-06-15T07:56:00+02:00'
+description: Curl will not accept vulnerability reports during July 2026
+tags:
+- hackernews
+- trending
+---
+
+The curl project will not accept or otherwise handle any vulnerability reports during the month of July 2026. We call it thecurl summer of bliss.
+
+curl’ssubmission form on Hackeronewill be paused starting July 1, 2026.
+
+Summer of bliss starts:July 1, 2026. 00:00 CEST
+
+Submissions resume:August 3 2026. 09:00 CEST
+
+The security email address will also be a dead end, as we will not process or otherwise care about security or vulnerability reports sent to us that way either.
+
+Whatever issue you find that you feel a need to report to the curl project during this month has to wait. curl’s Hackerone form opens for submissions again on Monday August 3.
+
+We do not accept vulnerability reports over email in general, and this fact remains during and after our vacation.
+
+## Vacation for real
+
+The curl maintainers will use this time of less pressure to take in some extra air and to enjoy the summer. Maybe stroll outside a bit more. Breath. Some of us may spend some of this time to see other places.
+
+We may get some extra time to spend on fixing bugs or working on new code. Fun stuff!
+
+## Side-effects
+
+As a direct side-effect of this summer of bliss, to allow us some more time to handle the issues that might have piled up for us in early August,we also push the release dateof 8.22.0 two weeks into the future. Now scheduled to happen on September 2, 2026.
+
+## Vulnerability rate
+
+As previously mentioned, we have been under a hugepressurefor the last four months or so. Now we need some rest. We do not expect this deluge to be over.
+
+## GitHub
+
+curl’sissueandpull-requesttrackers on GitHub remain open and active like normal.
+
+## You too?
+
+If you and your Open Source projects also want to participate in the summer of bliss 2026: just do it and let us know! I would of course encourage you to do so. To take care of yourself as a top priority.
+
+## The bad guys won’t rest
+
+Probably not. But we will.
+
+## But what if there is an emergency
+
+Then we get to read about it in August. Or you get asupport contractand we get to read about it earlier.
+
+## Contracts excluded
+
+Everyone with a paid support contracts will of course still get full and appropriate service even during this period.
+
+Daniel, in a relaxed state.
+
+## Credits
+
+The ice cream image was made byfotografierendefromPixabay
+
+## Discussed
+
+Onhacker news.

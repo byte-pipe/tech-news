@@ -1,22 +1,12 @@
 [
   {
-    "title": "12 Hard Truths About Coding I Learned the Hard Way After 10+ Years",
-    "author": "Cesar Aguirre",
-    "date": "2026-06-08",
-    "description": "The shift from code to meetingsCesar AguirreCesar AguirreCesar AguirreFollowJun 812 Hard Truths About Coding I Learned the Hard Way After 10+ Years#ca...",
-    "tags": "#career, #careerdevelopment, #beginners, #coding",
-    "reactions": "53 reactions",
-    "comments": "Comments 22 comments",
-    "url": "https://dev.to/canro91/12-hard-truths-about-coding-i-learned-the-hard-way-after-10-years-124j"
-  },
-  {
     "title": "CSS – only a Nerdy Hobby?",
     "author": "Ingo Steinke, web developer",
     "date": "2026-06-10",
     "description": "CSS mastery in an AI-driven eraIngo Steinke, web developerIngo Steinke, web developerIngo Steinke, web developerFollowJun 10CSS – only a Nerdy Hobby?#...",
     "tags": "#watercooler, #ai, #css, #webdev",
-    "reactions": "37 reactions",
-    "comments": "Comments 14 comments",
+    "reactions": "39 reactions",
+    "comments": "Comments 15 comments",
     "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf"
   },
   {
@@ -25,8 +15,8 @@
     "date": "2026-06-11",
     "description": "June Solstice Game Jam SubmissionKlaudia GrzondzielKlaudia GrzondzielKlaudia GrzondzielFollowJun 11Celebrate June rituals with Solstice Bingo!#devchal...",
     "tags": "#devchallenge, #gamechallenge, #gamedev, #html",
-    "reactions": "50 reactions",
-    "comments": "Comments 15 comments",
+    "reactions": "53 reactions",
+    "comments": "Comments 17 comments",
     "url": "https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6"
   },
   {
@@ -35,8 +25,8 @@
     "date": "2026-06-11",
     "description": "Deep dives into AppFunctions and AI agentsJess LeeJess LeeJess LeeFollowforThe DEV TeamJun 11Congrats to the Google I/O 2026 Writing Challenge Winners...",
     "tags": "#devchallenge, #googleiochallenge",
-    "reactions": "136 reactions",
-    "comments": "Comments 61 comments",
+    "reactions": "140 reactions",
+    "comments": "Comments 62 comments",
     "url": "https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364"
   },
   {
@@ -45,7 +35,7 @@
     "date": "2026-06-12",
     "description": "Features free Google AI courses and Web3 guidesHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowforThe DEVengersJun 12Dev Opportunity Radar...",
     "tags": "#discuss, #community, #opportunities, #resources",
-    "reactions": "46 reactions",
+    "reactions": "49 reactions",
     "comments": "Comments 20 comments",
     "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf"
   },
@@ -55,8 +45,8 @@
     "date": "2026-06-10",
     "description": "June Solstice Game Jam SubmissionujjaujjaujjaFollowJun 10How I Built a Treasure-Run Game Where Australia Saves the Sun#devchallenge#gamechallenge#game...",
     "tags": "#devchallenge, #gamechallenge, #gamedev, #javascript",
-    "reactions": "35 reactions",
-    "comments": "Comments 5 comments",
+    "reactions": "36 reactions",
+    "comments": "Comments 6 comments",
     "url": "https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck"
   },
   {
@@ -75,9 +65,19 @@
     "date": "2026-06-08",
     "description": "Open-source focus on patterns and retrievalJulien AvezouJulien AvezouJulien AvezouFollowJun 8I Built an Interview Prep Tool Instead of Grinding LeetCo...",
     "tags": "#softwareengineering, #career, #learning, #productivity",
-    "reactions": "65 reactions",
-    "comments": "Comments 22 comments",
+    "reactions": "66 reactions",
+    "comments": "Comments 24 comments",
     "url": "https://dev.to/javz/i-built-an-interview-prep-tool-instead-of-grinding-leetcode-35a0"
+  },
+  {
+    "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
+    "author": "Jess Lee",
+    "date": "2026-06-03",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxBuild a game. Celebrate June. Win $200.A platformer where daylight ...",
+    "tags": "#devchallenge, #gamechallenge, #gamedev",
+    "reactions": "10 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla?bb=263591"
   },
   {
     "title": "My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.",
@@ -86,7 +86,7 @@
     "description": "Static AI failing in dynamic systemsxulingfengxulingfengxulingfengFollowJun 8My company packaged 12 years of my experience into an AI Skill, then laid...",
     "tags": "#discuss, #ai, #career, #programming",
     "reactions": "75 reactions",
-    "comments": "Comments 66 comments",
+    "comments": "Comments 68 comments",
     "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"
   },
   {
@@ -100,13 +100,23 @@
     "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8"
   },
   {
+    "title": "TanStack Start Is Kind of a Big Deal",
+    "author": "Erik Hanchett",
+    "date": "2026-06-08",
+    "description": "Client-first logic and same-file server callsErik HanchettErik HanchettErik HanchettFollowJun 8TanStack Start Is Kind of a Big Deal#tanstack#react#typ...",
+    "tags": "#tanstack, #react, #typescript, #webdev",
+    "reactions": "39 reactions",
+    "comments": "Comments 6 comments",
+    "url": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec"
+  },
+  {
     "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
     "author": "Harsh",
     "date": "2026-06-09",
     "description": "Judgment over conversational inputsHarshHarshHarshFollowJun 9The 'Prompt' Is Not a Skill — And We Need to Stop Pretending#discuss#ai#career#programmin...",
     "tags": "#discuss, #ai, #career, #programming",
     "reactions": "66 reactions",
-    "comments": "Comments 80 comments",
+    "comments": "Comments 82 comments",
     "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18"
   },
   {
@@ -115,9 +125,19 @@
     "date": "2026-06-10",
     "description": "AI as a tool rather than an authoritySylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowJun 10The Code Works. What Could Possibly Go Wrong?#discuss...",
     "tags": "#discuss, #ai, #webdev",
-    "reactions": "126 reactions",
-    "comments": "Comments 119 comments",
+    "reactions": "129 reactions",
+    "comments": "Comments 132 comments",
     "url": "https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm"
+  },
+  {
+    "title": "The Loop Is Not the Product",
+    "author": "Daniel Nwaneri",
+    "date": "2026-06-09",
+    "description": "AI compute costs vs human laborDaniel NwaneriDaniel NwaneriDaniel NwaneriFollowJun 9The Loop Is Not the Product#discuss#ai#webdev#productivity25reacti...",
+    "tags": "#discuss, #ai, #webdev, #productivity",
+    "reactions": "25 reactions",
+    "comments": "Comments 43 comments",
+    "url": "https://dev.to/dannwaneri/the-loop-is-not-the-product-466d"
   },
   {
     "title": "The Most Valuable Thing I Found in Tech Wasn't an Opportunity",
@@ -125,7 +145,7 @@
     "date": "2026-06-09",
     "description": "Human connection over career optimizationHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowJun 9The Most Valuable Thing I Found in Tech Wasn...",
     "tags": "#discuss, #community, #beginners, #career",
-    "reactions": "81 reactions",
+    "reactions": "83 reactions",
     "comments": "Comments 52 comments",
     "url": "https://dev.to/hemapriya_kanagala/the-most-valuable-thing-i-found-in-tech-wasnt-an-opportunity-2j83"
   },
@@ -153,30 +173,20 @@
     "title": "What was your win this week?",
     "author": "Jess Lee",
     "date": "2026-06-12",
-    "description": "From daily stretching to job applicationsJess LeeJess LeeJess LeeFollowforThe DEV TeamJun 12What was your win this week?#discuss#weeklyretro48reaction...",
+    "description": "From daily stretching to job applicationsJess LeeJess LeeJess LeeFollowforThe DEV TeamJun 12What was your win this week?#discuss#weeklyretro49reaction...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "48 reactions",
-    "comments": "Comments 44 comments",
+    "reactions": "49 reactions",
+    "comments": "Comments 46 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-4k11"
   },
   {
     "title": "Your Vibe-Coded App Works. Is It Any Good?",
     "author": "MLH Team",
     "date": "2026-06-11",
-    "description": "MLH TeamMLH TeamMLH TeamFollowforMajor League Hacking (MLH)Jun 11Your Vibe-Coded App Works. Is It Any Good?#vibecoding#ai#firstyearincode20reactionsCo...",
+    "description": "MLH TeamMLH TeamMLH TeamFollowforMajor League Hacking (MLH)Jun 11Your Vibe-Coded App Works. Is It Any Good?#vibecoding#ai#firstyearincode22reactionsCo...",
     "tags": "#vibecoding, #ai, #firstyearincode",
-    "reactions": "20 reactions",
+    "reactions": "22 reactions",
     "comments": "Comments 6 comments",
     "url": "https://dev.to/mlh/your-vibe-coded-app-works-is-it-any-good-28co"
-  },
-  {
-    "title": "You’re a Real TypeScript Developer Only If...",
-    "author": "Hadil Ben Abdallah",
-    "date": "2026-06-08",
-    "description": "Relatable tales of migration and type errorsHadil Ben AbdallahHadil Ben AbdallahHadil Ben AbdallahFollowJun 8You’re a Real TypeScript Developer Only I...",
-    "tags": "#webdev, #typescript, #bash, #programming",
-    "reactions": "90 reactions",
-    "comments": "Comments 44 comments",
-    "url": "https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"
   }
 ]

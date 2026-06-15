@@ -30,16 +30,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "A Greyscale iPhone Setup that Works in Everyday Life (3 minute read)",
-    "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
-    "description": "A Greyscale iPhone Setup that Works in Everyday Life (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "AI Is Slowing Down (24 minute read)",
     "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
     "description": "AI Is Slowing Down (24 minute read)",
@@ -200,6 +190,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive (2 minute read)",
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "Anthropic's AI Jobs Paper (2 minute read)",
     "url": "https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/",
     "description": "Anthropic's AI Jobs Paper (2 minute read)",
@@ -253,16 +253,6 @@
     "title": "Behind Deel's Plan to Turn $22B of Payroll Flow Into Stablecoin Float (20 minute read)",
     "url": "https://lex.substack.com/p/fintech-behind-17b-payroll-platform",
     "description": "Behind Deel's Plan to Turn $22B of Payroll Flow Into Stablecoin Float (20 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Building a Good Vertical Agent (19 minute read)",
-    "url": "https://x.com/BrainsAndTennis/status/2065190286519906657",
-    "description": "Building a Good Vertical Agent (19 minute read)",
     "tags": [
       "tldr"
     ],
@@ -382,7 +372,7 @@
   {
     "title": "Doing nothing at work (12 minute read)",
     "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
-    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
+    "description": "Doing nothing at work (12 minute read)",
     "tags": [
       "tldr"
     ],
@@ -393,6 +383,16 @@
     "title": "Elon Musk's first-gen orbital data center craft spans wider than a Boeing 747 and runs an interchangeable chip payload (2 minute read)",
     "url": "https://www.tomshardware.com/tech-industry/spacex-details-its-ai1-compute-satellite",
     "description": "Elon Musk's first-gen orbital data center craft spans wider than a Boeing 747 and runs an interchangeable chip payload (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant (6 minute read)",
+    "url": "https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/",
+    "description": "Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -440,16 +440,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "First Drive: The 2027 Rivian R2 entirely changes the EV game (23 minute read)",
-    "url": "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/",
-    "description": "First Drive: The 2027 Rivian R2 entirely changes the EV game (23 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate (4 minute read)",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
     "description": "Fluid, natural voice translation with Gemini 3.5 Live Translate (4 minute read)",
@@ -463,16 +453,6 @@
     "title": "Formal methods and the future of programming (8 minute read)",
     "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
     "description": "Formal methods and the future of programming (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "GitHub pulls pin on npm's auto-run scripts (2 minute read)",
-    "url": "https://www.theregister.com/devops/2026/06/10/github-pulls-pin-on-npms-auto-run-scripts/5253453",
-    "description": "GitHub pulls pin on npm's auto-run scripts (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -660,6 +640,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Introducing Omnigent: A Meta-Harness to Combine, Control, and Share Your Agents (7 minute read)",
+    "url": "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents",
+    "description": "Introducing Omnigent: A Meta-Harness to Combine, Control, and Share Your Agents (7 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "Ivanti patches max-severity Sentry flaws (3 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
     "description": "Ivanti patches max-severity Sentry flaws (3 minute read)",
@@ -780,9 +770,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "My AI Opinions (36 minute read)",
-    "url": "https://www.astralcodexten.com/p/my-ai-opinions",
-    "description": "My AI Opinions (36 minute read)",
+    "title": "Meta's months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it (3 minute read)",
+    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "description": "Meta's months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -813,6 +803,16 @@
     "title": "Nottingham University data breach affects over 450,000 students (3 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
     "description": "Nottingham University data breach affects over 450,000 students (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Nuclear clocks tick for the first time (3 minute read)",
+    "url": "https://phys.org/news/2026-06-nuclear-clocks.html",
+    "description": "Nuclear clocks tick for the first time (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -860,16 +860,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Our Achilles Heel (4 minute read)",
-    "url": "https://collabfund.com/blog/our-achilles-heel/",
-    "description": "Our Achilles Heel (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "Path Traversal Flaw in AI Dev Platform Langflow Exploited in Attacks (2 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
     "description": "Path Traversal Flaw in AI Dev Platform Langflow Exploited in Attacks (2 minute read)",
@@ -890,9 +880,39 @@
     "site_name": "tldr"
   },
   {
+    "title": "Ponytail (GitHub Repo)",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "description": "Ponytail (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Ramp's direct mail card (1 minute read)",
+    "url": "https://www.linkedin.com/posts/karinehsu_tbt-brand-b2b-ugcPost-7470481445271019520-1Jb6/",
+    "description": "Ramp's direct mail card (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "RelationalAI expands Snowflake-native agents (3 minute read)",
     "url": "https://www.blocksandfiles.com/flash/2026/06/11/storage-ticker-11-june/5253949",
     "description": "RelationalAI expands Snowflake-native agents (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SQL to ER Diagram (Tool)",
+    "url": "https://sqltoerdiagram.com/",
+    "description": "SQL to ER Diagram (Tool)",
     "tags": [
       "tldr"
     ],
@@ -940,9 +960,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Should you buy a billboard on a Bay Area Freeway? (17 minute read)",
-    "url": "https://newsletter.mkt1.co/p/sf-billboard-drive-by-1",
-    "description": "Should you buy a billboard on a Bay Area Freeway? (17 minute read)",
+    "title": "Semantic Search for AI Agents at Scale: Retrieval and Ranking for LinkedIn's Hiring Assistant (15 minute read)",
+    "url": "https://www.linkedin.com/blog/engineering/ai/semantic-search-for-ai-agents-at-scale-retrieval-and-ranking-for-linkedins-hiring-assistant",
+    "description": "Semantic Search for AI Agents at Scale: Retrieval and Ranking for LinkedIn's Hiring Assistant (15 minute read)",
     "tags": [
       "tldr"
     ],
@@ -990,16 +1010,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "The \"Vibe Coding\" Crisis: Is Web Design Becoming a Commodity? (5 minute read)",
-    "url": "https://webdesignerdepot.com/the-vibe-coding-crisis-is-web-design-becoming-a-commodity/",
-    "description": "The \"Vibe Coding\" Crisis: Is Web Design Becoming a Commodity? (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "The Benefits of Cognitive Inclusion in UX Research (16 minute read)",
     "url": "https://www.smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
     "description": "The Benefits of Cognitive Inclusion in UX Research (16 minute read)",
@@ -1020,6 +1030,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The Bill Arrives: How to Manage Agentic AI Costs at Scale (17 minute read)",
+    "url": "https://cockroachlabs.com/blog/agentic-ai-costs-at-scale",
+    "description": "The Bill Arrives: How to Manage Agentic AI Costs at Scale (17 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "The Four Pieces of Agentic Payments Adoption (3 minute read)",
     "url": "https://threadreaderapp.com/thread/2062965648901234700.html",
     "description": "The Four Pieces of Agentic Payments Adoption (3 minute read)",
@@ -1030,9 +1050,39 @@
     "site_name": "tldr"
   },
   {
+    "title": "The Hidden Cost of ai_parse_document in Production (10 minute read)",
+    "url": "https://xebia.com/blog/hidden-cost-ai-parse-document-production-databricks/",
+    "description": "The Hidden Cost of ai_parse_document in Production (10 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Log Is the Agent (11 minute read)",
+    "url": "https://x.com/ishaansehgal/status/2065129901427130678",
+    "description": "The Log Is the Agent (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "The Money Flow Is the Moat (4 minute read)",
     "url": "https://x.com/jasonrosenthal/status/2064734599813427609",
     "description": "The Money Flow Is the Moat (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Mythical Agent-Month (10 minute read)",
+    "url": "https://wesmckinney.com/blog/mythical-agent-month/",
+    "description": "The Mythical Agent-Month (10 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1160,16 +1210,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why AI hasn't replaced software engineers, and won't (25 minute read)",
-    "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-    "description": "Why AI hasn't replaced software engineers, and won't (25 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass (6 minute read)",
     "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
     "description": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass (6 minute read)",
@@ -1180,9 +1220,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why Metadata Has to Be Mutation-Friendly (10 minute read)",
-    "url": "https://hudi.apache.org/blog/2026/06/05/why-metadata-has-to-be-mutation-friendly/",
-    "description": "Why Metadata Has to Be Mutation-Friendly (10 minute read)",
+    "title": "Why We Should Be Designing for Connection, Not Perfection (5 minute read)",
+    "url": "https://www.creativebloq.com/design/why-we-should-be-designing-for-connection-not-perfection",
+    "description": "Why We Should Be Designing for Connection, Not Perfection (5 minute read)",
     "tags": [
       "tldr"
     ],

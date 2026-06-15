@@ -1,0 +1,44 @@
+---
+title: Coinbase launches tool to let AI agents manage trading and payments
+url: https://www.cnbc.com/2026/06/11/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments.html
+site_name: tldr
+content_file: tldr-coinbase-launches-tool-to-let-ai-agents-manage-tra
+fetched_at: '2026-06-15T13:07:16.038175'
+original_url: https://www.cnbc.com/2026/06/11/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments.html
+author: Tanaya Macheel
+date: '2026-06-15'
+published_date: 2026-06-11T17:00:38+0000
+description: Coinbase is betting that AI agents will become the primary interface for people's financial activity.
+tags:
+- tldr
+---
+
+Key Points
+* Coinbase for Agents will initially allow agents like ChatGPT or Claude to execute crypto trades using natural language instructions.
+* The company is betting that AI agents will become the primary interface for people's financial activity.
+* It also introduced a payments protocol that lets agents pay for things on users' behalf, letting people bypass the need to manage traditional logins or subscriptions.
+
+In this article
+
+* COIN
+Follow your favorite stocks
+CREATE FREE ACCOUNT
+Dado Ruvic | Reuters
+
+Coinbaseon Thursday launched a new tool that gives AI agents the ability to trade and transact directly on users' behalf, representing a broader bet that AI agents will become a primary interface for people's financial activity.
+
+Coinbase for Agents will initially allow agents like ChatGPT or Claude to execute crypto trades using natural language instructions. For example, customers can prompt their agent to rebalance portfolios, identify trading opportunities, execute strategies and manage positions over time. It will eventually expand these capabilities to stocks and predictions.
+
+Additionally, using Coinbase's machine-to-machine payments protocol, called x402, agents can pay directly for digital services like paywalled research, data APIs and on-demand compute without a human in the loop — and execute trades based on those insights. The company sees this stage of agentic payments, which lets customers bypass the need to manage traditional logins or subscriptions, as a precursor to agentic shopping, where agents browse, find the best deals, select and make purchases on users' behalf.
+
+"The whole idea is to give agents access to money and, through that financial independence, improve their set of capabilities to pretty much anything on the internet," Lincoln Murr, Coinbase's AI product lead, told CNBC. "In the 2010s, every internet company dealt with the transition from desktop and web into a mobile environment. And now in the late 2020s, we're seeing the exact same thing happen where agents are going to be the new primary economic actors on the internet."
+
+The launch comes right in the middle of an AI boom where agentic systems are one of the hottest investing themes. At the same time, the crypto sector is still in a relatively subdued, post-cycle slump – making the launch both a hype-aligned bet on AI and a contrarian push into a softer trading environment.
+
+Coinbase earns trading fees on agent-executed trades, and for payments it captures fees and spreads on USDC movement, which serves as the settlement currency for agentic transactions. It also benefits from increased transaction volume on Base, its in-house Layer 2 blockchain that underpins these transactions.
+
+The x402 protocol was created in May 2025 and has seen more than 100 million transactions since its debut, Murr said. There are about 157,000 agents acting as buyers using the protocol in the past 30 days, according tox402scan.com.
+
+"We saw immediate demand and interest in the ability for agents to pay for things autonomously and that was a huge waking up moment for us [on] the ability of agents to become these new primary financial actors across the internet," he said.
+
+Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.

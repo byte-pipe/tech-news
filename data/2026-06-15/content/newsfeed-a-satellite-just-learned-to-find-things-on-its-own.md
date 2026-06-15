@@ -1,0 +1,69 @@
+---
+title: A satellite just learned to find things on its own — here's what that means | TechCrunch
+url: https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/
+site_name: newsfeed
+content_file: newsfeed-a-satellite-just-learned-to-find-things-on-its-own
+fetched_at: '2026-06-15T13:07:27.305490'
+original_url: https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/
+author: Tim Fernholz
+date: '2026-06-15'
+published_date: '2026-06-15T12:00:00+00:00'
+description: In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.
+tags:
+- techcrunch
+- space
+- ai
+- exclusive
+---
+
+For the first time, an Earth observation satellite has found what it was looking for — on its own, without human analysts on the ground. The milestone, which occurred in April, marks the first reported use of a vision-language model in orbit, and offers a glimpse of how AI could fundamentally change what space-based sensors are capable of — and how much they’re worth.
+
+Typically, satellites download large chunks of data to analysts on the Earth below, who use machine learning algorithms or their own eyes to figure out what’s going on. But onboard Yam-9, a spacecraft built by space infrastructure companyLoft Orbital, a software package built by NASA’s Jet Propulsion Laboratory identified areas of interest in response to natural language queries.
+
+Google DeepMind’s Gemma 3 — the vision-language model, or VLM, that powered the demonstration — is purpose-built for edge applications, meaning it is designed to run on limited hardware far from a data center. VLMs combine the contextual understanding of large language models with the ability to analyze imagery: researchers asked the model to classify sensor data where natural environment meets human development, for example, or to identify infrastructure around railway hubs — and it did.
+
+The demonstration is significant for two reasons. In the near term, it could make space sensors far more useful by doing initial data triage on orbit, reducing the flood of raw data that analysts currently have to wade through. Longer term, it’s a proof point toward running larger-scale AI infrastructure in space.
+
+“It opens the door to always-on, patrol layers in space,” Loft’s head of AI, Paul Lasserre, told TechCrunch. “If you have a VLM, you can have logic—like ‘monitor this border for me, and let me know when something is suspicious,’ and interact back and forth with the satellites.”
+
+Loft’s spacecraft are designed as platforms for third-party customers. The business model is closer to infrastructure-as-a-service than traditional satellite manufacturing. One recent deal saw it build, launch and operate six new satellites for EarthDaily, which will analyze and market the data collected onboard the spacecraft. Yam-9 was launched in the fall of 2025 as a pathfinder for the company’s orbital AI projects, and includes a Nvidia Jetson Orrin AGX GPU, one of the leading chips used in space compute.
+
+Juan Delfa Victoria, a technical leader in NASA JPL’s AI group, led the development of NAVI-Orbital, a software package that was effectively the harness for the Gemma 3 VLM. While Gemma 3 is off the shelf, software engineers had to streamline the software package to reduce the amount of libraries and memory it would require.
+
+While this is the first reported use of a VLM on orbit, we can expect other companies to follow suit. Planet Labs flies satellites with Jetson Orin processors; for now, it is using them for simpler object detection tasks, but a spokesperson says research is underway on other AI applications, including VLMs.
+
+Kepler Communications, which operatesthe largest group of GPUSin space, declined to say whether it had deployed VLMs in space due to NDA agreements with partners, but noted that there have been “several undisclosed use cases of our compute environment” since those spacecraft launched in January.
+
+“Now that we’ve proven the concept, that’s really the direction of travel,” Lasserre said. The goal is to build out the constellation to ensure real-time coverage of anywhere on Earth, which which he says would take somewhere between 50 and 100 satellites like Yam-9. (Loft currently operates 12 spacecraft on orbit.)
+
+Lessons learned deploying these smaller models on orbit will inform how companies attempt to deploy larger-scale compute infrastructure in space, particularly in the prosaic-but-vital areas of power and memory management.
+
+They could also pave the way for new scientific tools. The idea for NAVI-Space began with JPL Researcher Taran Cyriac John, who was thinking about digital assistants for astronauts exploring the Moon or Mars.
+
+“We’re thinking, okay, you have astronauts with pressurized suits, and you know they cannot be tapping on a keyboard, whatever they want to do is complex.” Delfa Victoria said. “So, how about we provide an assistant, like in video games and in movies, where you see an AI which is interactive?”
+
+Just don’t call it HAL 9000.
+
+Topics
+
+AI
+, 
+Exclusive
+, 
+Space
+ 
+
+When you purchase through links in our articles,we may earn a small commission. This doesn’t affect our editorial independence.
+
+			Tim Fernholz	
+
+Senior Reporter
+
+		Tim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of 
+ Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race.
+ Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. 
+
+You can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal.
+	
+
+View Bio
