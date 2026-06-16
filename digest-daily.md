@@ -1,77 +1,40 @@
 ---
-date: '2026-06-15'
+date: '2026-06-17'
 model: gpt-oss:120b-cloud
-generated_at: '2026-06-15T11:12:08.701444'
+generated_at: '2026-06-17T06:03:14.533747'
 ---
 
 ## Executive Summary  
-- Recent data show that AI use in the United States is split roughly into thirds: active users, occasional users, and non‑users, with growing anxiety over jobs, privacy and misinformation.  
-- Federal agencies are under a three‑day deadline to patch a critical Check Point VPN zero‑day (CVE‑2026‑50751) after it was weaponized by Qilin ransomware‑as‑a‑service affiliates.  
-- In the startup arena, Deel is launching a dollar‑stablecoin (DLUSD) to float its $22 B payroll flow and capture DeFi yield, while Andrew Yang argues that lowering the cost of living is the next big venture opportunity.  
-- Technical innovators are pushing the boundaries of AI and compute: a hobbyist indexed 669 GB of GoPro footage on an M1 Max using local models, and analysts debate whether compute can become a true commodity despite its current non‑fungibility.  
-- Meanwhile, a tragic skydiving plane crash in Missouri killed 12, and geopolitical analysts warn that Israeli attacks on Hezbollah could be leveraged in upcoming US‑Iran negotiations.
+- AI‑detector policies came under fire as a DEV author exposed manual flagging that penalises transparent AI‑assisted writing, while Apple rolled out “Vehicle Motion Cues” – moving dots that dramatically reduce car‑sickness for mobile workers.  
+- Google announced the shutdown of its CBRS Spectrum Access System service, prompting migration to rival providers, and Anthropic’s Fable 5 was temporarily disabled after U.S. export‑control officials deemed a simple “fix this code” prompt a security risk.  
+- Android 17 began its staged rollout with new multitasking bubbles and AI‑enhanced widgets, Wear OS 7 added live updates and longer battery life, and the XR market saw the reservation‑only Xreal Aura.  
+- In the design world, WIRED surveyed ten architects on post‑pandemic home trends, while the software community highlighted cost‑saving CDN moves, local LLM breakthroughs, and novel formal‑methods testing techniques.  
 
----
+---  
 
-## AI and Machine Learning  
+## AI and Machine Learning (8 articles)
 
-### No, everyone is not using AI for everything – Hacker News *(trending)*  
-The article debunks the myth of universal AI adoption, citing Gallup, Microsoft telemetry and other surveys that show roughly one‑third of U.S. adults are active AI users, one‑third are occasional users, and one‑third never use AI.  Growing concerns about job loss, privacy and misinformation are driving negative sentiment, prompting calls for optional, privacy‑focused AI features.
+- **I Got Flagged by Sloan. Sloan Is a Guy I Know.** [DEV Community] – The author recounts how a community member manually ran GPTZero on two technical DEV posts, flagging them as AI‑generated despite a history of 60+ human‑written articles, sparking debate over platform policies that punish disclosure of AI assistance.  
+- **Quando o Pomodoro não funciona: organização realista para TDAH em burnout.** [DEV Community] – A Portuguese‑language guide argues that the Pomodoro timer can worsen burnout for neurodivergent workers, proposing flexible priority setting, micro‑tasks, gentle time‑blocking, and friction‑reduction tactics instead of rigid intervals.  
+- **Apple’s weird anti‑nausea dots cured my car sickness.** [The Verge] – Apple’s new “Vehicle Motion Cues” overlay tiny moving dots that counteract visual‑vestibular conflict, letting users read and write in cars without nausea; the feature is customizable via Accessibility settings and can be toggled with a Back Tap shortcut.  
+- **Mechanical Watch – Bartosz Ciechanowski.** [hackernews_api] – An interactive explainer breaks down the inner workings of a mechanical watch, detailing mainspring energy storage, gear reduction, and how color‑coded animations illustrate the seven‑part movement.  
+- **All the latest news on Android 17, Wear OS 7, and Android XR.** [The Verge] – Android 17 debuts floating bubbles, screen‑reaction capture, and “Continue On” cross‑device handoff; Wear OS 7 launches with live‑update widgets and a 10 % battery boost; XR hardware Xreal Aura opens reservations for a $99‑priced glasses prototype.  
+- **‘The Lost Founder’ profiles a brilliant lawyer who helped craft the Constitution.** [NPR] – NPR’s *Fresh Air* spotlights James Wilson, a largely forgotten Founding Father whose legal expertise shaped the U.S. Constitution, while his personal decline ended in a dramatic flight from creditors.  
+- **World Cup 2026: Uruguay’s Marcelo Bielsa refuses to engage with photoshoot.** [BBC Sport] – Uruguay coach Marcelo Bielsa turned his back during FIFA’s official portrait session, dismissing expectations for a “model‑like” pose and reiterating his right to personal choice.  
+- **Google set to shutter CBRS SAS management service.** [SDxCentral] – Google Cloud will stop taking new CBRS Spectrum Access System customers in June 2026, with full termination slated for June 2027, urging users to migrate to alternatives such as Federated Wireless or Nokia.  
 
-### I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models – Hacker News  
-A creator built a fully offline pipeline on an Apple M1 Max to extract frames, run vision and Whisper‑style audio models, embed the results and enable semantic search of 2,207 GoPro videos without uploading any data.  The project demonstrates the power of Apple silicon’s neural engine for personal media organization and plans future Docker‑based GPU acceleration.
+## Cybersecurity and Privacy (1 article)
 
-### Lisp’s Influence on Ruby – Medium  
-Ian Johnson traces Ruby’s core idioms—predicate `?` methods, `!` mutators, closures, first‑class functions, symbols, lazy enumerators and duck typing—back to Lisp’s functional heritage, showing how Ruby stripped away Lisp’s parentheses while preserving its functional programming concepts.
+- **Feds freaked over Fable 5 after simple ‘fix this code’ prompt, not jailbreak, says researcher.** [hackernews_api] – Katie Moussouris warns that U.S. export‑control bans on Anthropic’s Fable 5, triggered by a benign “fix this code” request, could cripple defensive security work, prompting an open letter from over 100 experts to lift the restriction.  
 
-### 12 dead after skydiving plane crashes in Missouri – NPR  
-A Pacific Aerospace 750XL operated by Skydive Kansas City crashed on approach to Butler, Missouri, killing the pilot and 11 passengers; investigators from the NTSB and FAA are examining possible loss‑of‑power or stall scenarios.  The accident raises safety questions about private‑plane regulations for skydiving operations.
+## Software Engineering and Dev Tools (5 articles)
 
-### Analyst says what attacks on Lebanon could mean for potential US‑Iran deal – Al Jazeera  
-Dan Perry argues the United States may feign an inability to stop Israeli strikes on Hezbollah to keep a US‑Iran nuclear agreement on track, using Israeli aggression as diplomatic leverage while balancing regional security concerns.
+- **How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV.** [DEV Community] – Forem replaced a fragmented multi‑CDN setup with bunny.net’s optimizer and perma‑cache, slashing egress costs, cutting latency, and consolidating edge scripting into a single provider.  
+- **Top 7 Featured DEV Posts of the Week.** [DEV Community] – Highlights include a career‑focused piece on community value, a push for Gherkin over Markdown in AI specs, an AI‑driven retro dungeon game, a TLS‑fingerprinting case study, and analyses of TanStack Start, LLM batching costs, and catastrophic forgetting in neural nets.  
+- **Running local models is good now.** [Vicki Boykis] – Recent LLM releases (Gemma 4, Mistral 7B, Qwen 3) enable on‑device coding assistance, test generation, and notebook refactoring, with Docker‑isolated agents offering a secure, low‑latency alternative to cloud APIs.  
+- **10 Designers Share the Trends Defining Dwellings of Tomorrow.** [WIRED] – Designers envision “buddy blocks” for shared living, integrated wellness spaces, minimalist contrast palettes, meadow‑style landscaping, invisible smart tech, and flexible home work zones that blur traditional room functions.  
+- **Jane Street Blog – Formal methods and the future of programming.** [tldr] – The post proposes ASCII‑based waveform files for hardware verification, enabling lightweight, version‑controlled, CI‑friendly testing that caught an off‑by‑one bug in a FIFO design.  
 
----
-
-## Cybersecurity and Privacy  
-
-### CISA gives feds 3 days to patch Check Point VPN bug exploited as zero‑day – TLDR  
-CISA added CVE‑2026‑50751 (a remote‑code‑execution flaw in legacy Check Point VPN/IKEv1) to its KEV catalog and issued a binding directive requiring federal agencies to patch or mitigate the vulnerability by June 11.  The bug has been weaponized by Qilin ransomware‑as‑a‑service affiliates, prompting urgent remediation.
-
----
-
-## Software Engineering and Dev Tools  
-
-### SQL to ER Diagram — Free Online ERD Generator from SQL – Hacker News *(trending)*  
-A browser‑only tool converts SQL `CREATE TABLE` statements into interactive entity‑relationship diagrams, with drag‑drop editing, instant rendering and export options, all while keeping schemas local and private.
-
-### Rio‑3.5‑Open‑397B ≈ 0.6 × Nex‑N2_pro + 0.4 × Qwen – GitHub Issue  
-Analysis of the “Rio‑3.5‑Open‑397B” model shows it is a weighted blend of Nex‑N2_pro (60 %) and Qwen‑3.5‑397B‑A17B (40 %), with no evidence of independent training; system‑prompt tests and weight‑tensor comparisons confirm the interpolation.
-
-### The Birth & Death of JavaScript – Hacker News  
-Gary Bernhardt’s 2014 PyCon talk humorously chronicles JavaScript’s evolution from its 1995 origins to speculative 2035 scenarios, acknowledging its flaws while emphasizing its lasting impact on web development.
-
-### Andrew Yang thinks the next big startup opportunity is lowering the cost of living – TechCrunch  
-Yang promotes “reverse‑extraction” startups that return money to customers on essentials such as housing and mobile service, citing his Noble Mobile MVNO as a prototype that refunds low‑data users and arguing that AI‑driven wage compression creates a fertile market for cheaper basic‑need services.
-
-### Are You Asking the REAL Questions? – TLDR  
-David Pereira cautions product teams against AI‑centric hype, urging them to focus on strategic questions like moat durability, customer stickiness and speed of delivering real value rather than merely shipping AI‑generated features.
-
-### Can Compute Commoditize if it's Not Fungible? – TLDR  
-The piece argues that compute can become a tradable commodity despite non‑fungibility by using a cash‑settled reference price and spread contracts for provider‑specific differences; it outlines a potential market structure and implications for firms like CoreWeave.
-
----
-
-## Startups and Business  
-
-### How to Earn a Billion Dollars – Hacker News  
-The author explains that billionaire wealth can be achieved through exponential startup growth, showing that a 93 % monthly growth rate can turn $2 M into $1 B in under ten months, and emphasizing product‑market fit, viral adoption and large addressable markets over any notion of cheating.
-
-### Fintech: Behind Deel’s Plan to Turn $22B of Payroll Flow Into Stablecoin Float – TLDR  
-Deel is issuing its own dollar‑stablecoin (DLUSD) on Stripe’s Tempo blockchain to capture DeFi yield on the $22 B annual payroll it processes, aiming to earn several tens of millions in yield while offering contractors a low‑volatility asset, especially in inflation‑prone markets like Argentina.
-
----
-
-## Science and Research  
-
-### An innovative technology boosts image quality for protein structures – Newsfeed  
-A new laser phase plate (LPP) design dramatically improves phase contrast in cryo‑EM, enabling higher‑resolution imaging of small proteins; the breakthrough, reported in *Science* and on bioRxiv, represents the first major hardware advance in cryo‑EM in decades and could expand structural biology’s reach.
+## Notable Mentions
+- Hacking Google with A.I. for $500,000 · Brutecat  
+- The right kind of AI sceptic - by James Stanier
