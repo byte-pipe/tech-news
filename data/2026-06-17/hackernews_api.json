@@ -1,28 +1,28 @@
 [
   {
-    "title": "'Ghost jobs' could soon be illegal in New York",
-    "url": "https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york",
-    "author": "toomuchtodo",
-    "date": "2026-06-17",
-    "score": 89,
-    "comments": 44,
-    "id": 48558338,
-    "discussion_url": "https://news.ycombinator.com/item?id=48558338",
-    "description": "'Ghost jobs' could soon be illegal in New York",
+    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
+    "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+    "author": "gpjt",
+    "date": "2026-06-16",
+    "score": 165,
+    "comments": 145,
+    "id": 48559083,
+    "discussion_url": "https://news.ycombinator.com/item?id=48559083",
+    "description": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.306972"
+    "fetched_at": "2026-06-17T12:27:15.014787"
   },
   {
     "title": "A backdoor in a LinkedIn job offer",
     "url": "https://roman.pt/posts/linkedin-backdoor/",
     "author": "lwhsiao",
-    "date": "2026-06-16",
-    "score": 1515,
-    "comments": 283,
+    "date": "2026-06-15",
+    "score": 1568,
+    "comments": 298,
     "id": 48546294,
     "discussion_url": "https://news.ycombinator.com/item?id=48546294",
     "description": "A backdoor in a LinkedIn job offer",
@@ -31,15 +31,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307563"
+    "fetched_at": "2026-06-17T12:27:15.014825"
+  },
+  {
+    "title": "Apple is about to make Hide My Email useless",
+    "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+    "author": "SXX",
+    "date": "2026-06-16",
+    "score": 494,
+    "comments": 302,
+    "id": 48559935,
+    "discussion_url": "https://news.ycombinator.com/item?id=48559935",
+    "description": "Apple is about to make Hide My Email useless",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-17T12:27:15.014867"
   },
   {
     "title": "Apple's weird anti-nausea dots cured my car sickness",
     "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
     "author": "neilfrndes",
-    "date": "2026-06-17",
-    "score": 313,
-    "comments": 99,
+    "date": "2026-06-16",
+    "score": 791,
+    "comments": 239,
     "id": 48557530,
     "discussion_url": "https://news.ycombinator.com/item?id=48557530",
     "description": "Apple's weird anti-nausea dots cured my car sickness",
@@ -48,100 +65,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307099"
+    "fetched_at": "2026-06-17T12:27:15.014811"
   },
   {
-    "title": "Banned book library in a wi-fi smart light bulb",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "author": "sohkamyung",
-    "date": "2026-06-16",
-    "score": 560,
-    "comments": 336,
-    "id": 48547985,
-    "discussion_url": "https://news.ycombinator.com/item?id=48547985",
-    "description": "Banned book library in a wi-fi smart light bulb",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307862"
-  },
-  {
-    "title": "But yak shaving is fun",
+    "title": "But yak shaving is fun (2019)",
     "url": "https://parksb.github.io/en/article/32.html",
     "author": "parksb",
-    "date": "2026-06-17",
-    "score": 132,
-    "comments": 35,
+    "date": "2026-06-16",
+    "score": 273,
+    "comments": 81,
     "id": 48555838,
     "discussion_url": "https://news.ycombinator.com/item?id=48555838",
-    "description": "But yak shaving is fun",
+    "description": "But yak shaving is fun (2019)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307191"
+    "fetched_at": "2026-06-17T12:27:15.014763"
   },
   {
-    "title": "Claude: Elevated errors across many models",
-    "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-    "author": "forks",
-    "date": "2026-06-17",
-    "score": 147,
-    "comments": 131,
-    "id": 48558766,
-    "discussion_url": "https://news.ycombinator.com/item?id=48558766",
-    "description": "Claude: Elevated errors across many models",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307440"
-  },
-  {
-    "title": "Cohere's First Model for Developers",
-    "url": "https://cohere.com/blog/north-mini-code",
-    "author": "hmokiguess",
-    "date": "2026-06-11",
-    "score": 133,
-    "comments": 36,
-    "id": 48489934,
-    "discussion_url": "https://news.ycombinator.com/item?id=48489934",
-    "description": "Cohere's First Model for Developers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307911"
-  },
-  {
-    "title": "Correlated randomness in Slay the Spire 2",
-    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
-    "author": "rdmuser",
+    "title": "Calvin and Hobbes and the price of integrity",
+    "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+    "author": "pseudolus",
     "date": "2026-06-16",
-    "score": 236,
-    "comments": 75,
-    "id": 48552844,
-    "discussion_url": "https://news.ycombinator.com/item?id=48552844",
-    "description": "Correlated randomness in Slay the Spire 2",
+    "score": 463,
+    "comments": 197,
+    "id": 48557079,
+    "discussion_url": "https://news.ycombinator.com/item?id=48557079",
+    "description": "Calvin and Hobbes and the price of integrity",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307172"
+    "fetched_at": "2026-06-17T12:27:15.014705"
   },
   {
     "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
     "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
     "author": "_tk_",
     "date": "2026-06-16",
-    "score": 502,
-    "comments": 303,
+    "score": 575,
+    "comments": 343,
     "id": 48552687,
     "discussion_url": "https://news.ycombinator.com/item?id=48552687",
     "description": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
@@ -150,83 +116,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307494"
+    "fetched_at": "2026-06-17T12:27:15.014913"
   },
   {
-    "title": "Getting Creative with Perlin Noise Fields",
-    "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
-    "author": "0x000xca0xfe",
-    "date": "2026-06-14",
-    "score": 139,
-    "comments": 22,
-    "id": 48522316,
-    "discussion_url": "https://news.ycombinator.com/item?id=48522316",
-    "description": "Getting Creative with Perlin Noise Fields",
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "author": "himata4113",
+    "date": "2026-06-17",
+    "score": 241,
+    "comments": 106,
+    "id": 48567759,
+    "discussion_url": "https://news.ycombinator.com/item?id=48567759",
+    "description": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307036"
+    "fetched_at": "2026-06-17T12:27:15.014626"
   },
   {
-    "title": "Google Chrome update will close the door on ad blockers",
-    "url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/",
-    "author": "speckx",
+    "title": "GPT‑NL: a sovereign language model for the Netherlands",
+    "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+    "author": "root-parent",
     "date": "2026-06-16",
-    "score": 245,
-    "comments": 319,
-    "id": 48555244,
-    "discussion_url": "https://news.ycombinator.com/item?id=48555244",
-    "description": "Google Chrome update will close the door on ad blockers",
+    "score": 225,
+    "comments": 240,
+    "id": 48559188,
+    "discussion_url": "https://news.ycombinator.com/item?id=48559188",
+    "description": "GPT‑NL: a sovereign language model for the Netherlands",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307845"
+    "fetched_at": "2026-06-17T12:27:15.014729"
   },
   {
-    "title": "Humanity isn't ready for the coming intelligence explosion",
-    "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
-    "author": "andsoitis",
+    "title": "GrapheneOS has been ported to Android 17",
+    "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "author": "Cider9986",
     "date": "2026-06-16",
-    "score": 160,
-    "comments": 446,
-    "id": 48549628,
-    "discussion_url": "https://news.ycombinator.com/item?id=48549628",
-    "description": "Humanity isn't ready for the coming intelligence explosion",
+    "score": 845,
+    "comments": 430,
+    "id": 48561654,
+    "discussion_url": "https://news.ycombinator.com/item?id=48561654",
+    "description": "GrapheneOS has been ported to Android 17",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307895"
+    "fetched_at": "2026-06-17T12:27:15.014651"
   },
   {
-    "title": "I Love the Computer",
-    "url": "https://michaelenger.com/blog/i-love-the-computer/",
-    "author": "speckx",
+    "title": "Hacker News but for Independent Blogs",
+    "url": "https://bubbles.town/",
+    "author": "headalgorithm",
+    "date": "2026-06-17",
+    "score": 179,
+    "comments": 60,
+    "id": 48567155,
+    "discussion_url": "https://news.ycombinator.com/item?id=48567155",
+    "description": "Hacker News but for Independent Blogs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-17T12:27:15.014690"
+  },
+  {
+    "title": "Has AI already killed self-help nonfiction books?",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "author": "imakwana",
+    "date": "2026-06-16",
+    "score": 332,
+    "comments": 385,
+    "id": 48558489,
+    "discussion_url": "https://news.ycombinator.com/item?id=48558489",
+    "description": "Has AI already killed self-help nonfiction books?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-17T12:27:15.014734"
+  },
+  {
+    "title": "Humiliating IIS servers for fun and jail time",
+    "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "author": "denysvitali",
     "date": "2026-06-16",
     "score": 295,
-    "comments": 157,
-    "id": 48546441,
-    "discussion_url": "https://news.ycombinator.com/item?id=48546441",
-    "description": "I Love the Computer",
+    "comments": 68,
+    "id": 48563394,
+    "discussion_url": "https://news.ycombinator.com/item?id=48563394",
+    "description": "Humiliating IIS servers for fun and jail time",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307580"
+    "fetched_at": "2026-06-17T12:27:15.014678"
   },
   {
     "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
     "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
     "author": "apitman",
     "date": "2026-06-16",
-    "score": 794,
-    "comments": 370,
+    "score": 894,
+    "comments": 436,
     "id": 48550779,
     "discussion_url": "https://news.ycombinator.com/item?id=48550779",
     "description": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
@@ -235,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307280"
+    "fetched_at": "2026-06-17T12:27:15.014849"
   },
   {
     "title": "I hacked into the worst e-bike and fixed it [video]",
     "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
     "author": "alexis-d",
-    "date": "2026-06-11",
-    "score": 164,
-    "comments": 85,
+    "date": "2026-06-10",
+    "score": 187,
+    "comments": 94,
     "id": 48479957,
     "discussion_url": "https://news.ycombinator.com/item?id=48479957",
     "description": "I hacked into the worst e-bike and fixed it [video]",
@@ -252,15 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307457"
+    "fetched_at": "2026-06-17T12:27:15.014830"
   },
   {
     "title": "Iroh 1.0",
     "url": "https://www.iroh.computer/blog/v1",
     "author": "chadfowler",
-    "date": "2026-06-16",
-    "score": 1333,
-    "comments": 416,
+    "date": "2026-06-15",
+    "score": 1363,
+    "comments": 438,
     "id": 48542480,
     "discussion_url": "https://news.ycombinator.com/item?id=48542480",
     "description": "Iroh 1.0",
@@ -269,15 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307794"
+    "fetched_at": "2026-06-17T12:27:15.014895"
+  },
+  {
+    "title": "Is Meta destroying its engineering organization?",
+    "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+    "author": "throwarayes",
+    "date": "2026-06-16",
+    "score": 600,
+    "comments": 527,
+    "id": 48558045,
+    "discussion_url": "https://news.ycombinator.com/item?id=48558045",
+    "description": "Is Meta destroying its engineering organization?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-17T12:27:15.014815"
   },
   {
     "title": "Mechanical Watch (2022)",
     "url": "https://ciechanow.ski/mechanical-watch/",
     "author": "razin",
     "date": "2026-06-16",
-    "score": 554,
-    "comments": 106,
+    "score": 705,
+    "comments": 119,
     "id": 48553550,
     "discussion_url": "https://news.ycombinator.com/item?id=48553550",
     "description": "Mechanical Watch (2022)",
@@ -286,32 +303,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307136"
+    "fetched_at": "2026-06-17T12:27:15.014806"
   },
   {
-    "title": "Peopleless economy? Not technically impossible",
-    "url": "https://gmalandrakis.com/writings/ad-economicum.html",
-    "author": "l0new0lf-G",
+    "title": "NLnet announces funding for 67 more open-source projects",
+    "url": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
+    "author": "laurenth",
     "date": "2026-06-16",
-    "score": 274,
-    "comments": 527,
-    "id": 48547062,
-    "discussion_url": "https://news.ycombinator.com/item?id=48547062",
-    "description": "Peopleless economy? Not technically impossible",
+    "score": 130,
+    "comments": 24,
+    "id": 48563569,
+    "discussion_url": "https://news.ycombinator.com/item?id=48563569",
+    "description": "NLnet announces funding for 67 more open-source projects",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307740"
+    "fetched_at": "2026-06-17T12:27:15.014921"
+  },
+  {
+    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+    "author": "ilreb",
+    "date": "2026-06-16",
+    "score": 192,
+    "comments": 36,
+    "id": 48554814,
+    "discussion_url": "https://news.ycombinator.com/item?id=48554814",
+    "description": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-17T12:27:15.014792"
   },
   {
     "title": "Running local models is good now",
     "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
     "author": "jfb",
-    "date": "2026-06-17",
-    "score": 697,
-    "comments": 323,
+    "date": "2026-06-16",
+    "score": 1389,
+    "comments": 535,
     "id": 48555993,
     "discussion_url": "https://news.ycombinator.com/item?id=48555993",
     "description": "Running local models is good now",
@@ -320,32 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307300"
-  },
-  {
-    "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-    "url": "https://garden-of-flowers.heikkilotvonen.com/",
-    "author": "california-og",
-    "date": "2026-06-16",
-    "score": 136,
-    "comments": 24,
-    "id": 48550569,
-    "discussion_url": "https://news.ycombinator.com/item?id=48550569",
-    "description": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307156"
+    "fetched_at": "2026-06-17T12:27:15.014646"
   },
   {
     "title": "SpaceX to buy Cursor for $60B",
     "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
     "author": "itsmarcelg",
     "date": "2026-06-16",
-    "score": 627,
-    "comments": 1040,
+    "score": 1052,
+    "comments": 1552,
     "id": 48553224,
     "discussion_url": "https://news.ycombinator.com/item?id=48553224",
     "description": "SpaceX to buy Cursor for $60B",
@@ -354,15 +371,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307016"
+    "fetched_at": "2026-06-17T12:27:15.014753"
+  },
+  {
+    "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+    "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+    "author": "slymax",
+    "date": "2026-06-17",
+    "score": 289,
+    "comments": 216,
+    "id": 48564696,
+    "discussion_url": "https://news.ycombinator.com/item?id=48564696",
+    "description": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-17T12:27:15.014773"
+  },
+  {
+    "title": "Stop Using JWTs",
+    "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+    "author": "dzonga",
+    "date": "2026-06-16",
+    "score": 422,
+    "comments": 253,
+    "id": 48558147,
+    "discussion_url": "https://news.ycombinator.com/item?id=48558147",
+    "description": "Stop Using JWTs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-17T12:27:15.014640"
+  },
+  {
+    "title": "SubQ 1.1 Small",
+    "url": "https://subq.ai/subq-1-1-small-technical-report",
+    "author": "EDM115",
+    "date": "2026-06-16",
+    "score": 122,
+    "comments": 50,
+    "id": 48556163,
+    "discussion_url": "https://news.ycombinator.com/item?id=48556163",
+    "description": "SubQ 1.1 Small",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-17T12:27:15.014885"
   },
   {
     "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
     "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
     "author": "mrshu",
-    "date": "2026-06-17",
-    "score": 130,
-    "comments": 74,
+    "date": "2026-06-16",
+    "score": 453,
+    "comments": 206,
     "id": 48558018,
     "discussion_url": "https://news.ycombinator.com/item?id=48558018",
     "description": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
@@ -371,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307074"
+    "fetched_at": "2026-06-17T12:27:15.014695"
   },
   {
     "title": "The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat",
     "url": "https://www.rferl.org/a/the-manhoff-archive/28359558.html",
     "author": "Cider9986",
     "date": "2026-06-14",
-    "score": 151,
-    "comments": 52,
+    "score": 180,
+    "comments": 63,
     "id": 48523126,
     "discussion_url": "https://news.ycombinator.com/item?id=48523126",
     "description": "The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat",
@@ -388,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307476"
+    "fetched_at": "2026-06-17T12:27:15.014857"
   },
   {
     "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
     "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
     "author": "paulmooreparks",
     "date": "2026-06-16",
-    "score": 462,
-    "comments": 149,
+    "score": 489,
+    "comments": 163,
     "id": 48550693,
     "discussion_url": "https://news.ycombinator.com/item?id=48550693",
     "description": "The time the x86 emulator team found code so bad they fixed it during emulation",
@@ -405,108 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307336"
+    "fetched_at": "2026-06-17T12:27:15.014904"
   },
   {
-    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-    "url": "https://tinywind.io",
-    "author": "tinywind",
-    "date": "2026-06-16",
-    "score": 975,
-    "comments": 177,
-    "id": 48543475,
-    "discussion_url": "https://news.ycombinator.com/item?id=48543475",
-    "description": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307877"
-  },
-  {
-    "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
-    "url": "https://trinket.strivemath.org/",
-    "author": "apulkit6",
-    "date": "2026-06-16",
-    "score": 96,
-    "comments": 12,
-    "id": 48552723,
-    "discussion_url": "https://news.ycombinator.com/item?id=48552723",
-    "description": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307723"
-  },
-  {
-    "title": "Understanding the rationale behind a rule when trying to circumvent it",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
-    "author": "tosh",
-    "date": "2026-06-16",
-    "score": 107,
-    "comments": 34,
-    "id": 48551876,
-    "discussion_url": "https://news.ycombinator.com/item?id=48551876",
-    "description": "Understanding the rationale behind a rule when trying to circumvent it",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307546"
-  },
-  {
-    "title": "What job interviews taught me about Kubernetes",
-    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-    "author": "chmaynard",
-    "date": "2026-06-16",
-    "score": 248,
-    "comments": 191,
-    "id": 48546428,
-    "discussion_url": "https://news.ycombinator.com/item?id=48546428",
-    "description": "What job interviews taught me about Kubernetes",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307827"
-  },
-  {
-    "title": "Why I email complete strangers",
-    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-    "author": "karakoram",
-    "date": "2026-06-16",
-    "score": 213,
-    "comments": 93,
-    "id": 48547566,
-    "discussion_url": "https://news.ycombinator.com/item?id=48547566",
-    "description": "Why I email complete strangers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.307777"
-  },
-  {
-    "title": "Why is Meta destroying its engineering organization?",
-    "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-    "author": "throwarayes",
+    "title": "U.S. Science Is in Chaos",
+    "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+    "author": "presspot",
     "date": "2026-06-17",
-    "score": 228,
-    "comments": 156,
-    "id": 48558045,
-    "discussion_url": "https://news.ycombinator.com/item?id=48558045",
-    "description": "Why is Meta destroying its engineering organization?",
+    "score": 153,
+    "comments": 126,
+    "id": 48568058,
+    "discussion_url": "https://news.ycombinator.com/item?id=48568058",
+    "description": "U.S. Science Is in Chaos",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-17T06:00:15.306887"
+    "fetched_at": "2026-06-17T12:27:15.014739"
+  },
+  {
+    "title": "Wolfram Language and Mathematica version 15",
+    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "author": "alok-g",
+    "date": "2026-06-16",
+    "score": 179,
+    "comments": 92,
+    "id": 48563609,
+    "discussion_url": "https://news.ycombinator.com/item?id=48563609",
+    "description": "Wolfram Language and Mathematica version 15",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-17T12:27:15.014744"
   }
 ]
