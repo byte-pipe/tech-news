@@ -1,28 +1,45 @@
 [
   {
-    "title": "AI demands more engineering discipline. Not less",
-    "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-    "author": "BerislavLopac",
-    "date": "2026-06-17",
-    "score": 387,
-    "comments": 192,
-    "id": 48570948,
-    "discussion_url": "https://news.ycombinator.com/item?id=48570948",
-    "description": "AI demands more engineering discipline. Not less",
+    "title": ".gitignore Isn't the only way to ignore files in Git",
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "author": "FergusArgyll",
+    "date": "2026-06-18",
+    "score": 180,
+    "comments": 57,
+    "id": 48583356,
+    "discussion_url": "https://news.ycombinator.com/item?id=48583356",
+    "description": ".gitignore Isn't the only way to ignore files in Git",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635784"
+    "fetched_at": "2026-06-18T19:49:53.601101"
+  },
+  {
+    "title": "A website that lists websites to submit your website to",
+    "url": "https://www.submission.directory/",
+    "author": "azeemkafridi",
+    "date": "2026-06-18",
+    "score": 325,
+    "comments": 77,
+    "id": 48586631,
+    "discussion_url": "https://news.ycombinator.com/item?id=48586631",
+    "description": "A website that lists websites to submit your website to",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-18T19:49:53.601155"
   },
   {
     "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
     "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
     "author": "lompad",
     "date": "2026-06-18",
-    "score": 187,
-    "comments": 99,
+    "score": 392,
+    "comments": 187,
     "id": 48582320,
     "discussion_url": "https://news.ycombinator.com/item?id=48582320",
     "description": "AMD silently removes memory encryption from consumer Ryzen CPUs",
@@ -31,32 +48,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635590"
+    "fetched_at": "2026-06-18T19:49:53.601226"
   },
   {
-    "title": "Clojure Hosted on Go",
-    "url": "https://github.com/glojurelang/glojure",
-    "author": "dnlo",
-    "date": "2026-06-17",
-    "score": 159,
-    "comments": 17,
-    "id": 48578326,
-    "discussion_url": "https://news.ycombinator.com/item?id=48578326",
-    "description": "Clojure Hosted on Go",
+    "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+    "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+    "author": "ibobev",
+    "date": "2026-06-18",
+    "score": 221,
+    "comments": 35,
+    "id": 48583606,
+    "discussion_url": "https://news.ycombinator.com/item?id=48583606",
+    "description": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635614"
+    "fetched_at": "2026-06-18T19:49:53.601144"
   },
   {
     "title": "DeepSeek Introduces Vision",
     "url": "https://chat.deepseek.com/",
     "author": "RIshabh235",
     "date": "2026-06-18",
-    "score": 208,
-    "comments": 88,
+    "score": 415,
+    "comments": 167,
     "id": 48581458,
     "discussion_url": "https://news.ycombinator.com/item?id=48581458",
     "description": "DeepSeek Introduces Vision",
@@ -65,49 +82,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635578"
+    "fetched_at": "2026-06-18T19:49:53.601082"
   },
   {
-    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-    "author": "himata4113",
-    "date": "2026-06-17",
-    "score": 857,
-    "comments": 417,
-    "id": 48567759,
-    "discussion_url": "https://news.ycombinator.com/item?id=48567759",
-    "description": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+    "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "author": "frou_dh",
+    "date": "2026-06-18",
+    "score": 335,
+    "comments": 191,
+    "id": 48584135,
+    "discussion_url": "https://news.ycombinator.com/item?id=48584135",
+    "description": "Emacs 31 is around the corner: The changes I'm daily driving",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635715"
+    "fetched_at": "2026-06-18T19:49:53.601176"
   },
   {
-    "title": "GrapheneOS has been ported to Android 17",
-    "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-    "author": "Cider9986",
-    "date": "2026-06-16",
-    "score": 993,
-    "comments": 581,
-    "id": 48561654,
-    "discussion_url": "https://news.ycombinator.com/item?id=48561654",
-    "description": "GrapheneOS has been ported to Android 17",
+    "title": "Emacs, how it all started for me",
+    "url": "https://xvw.lol/en/articles/emacs-start.html",
+    "author": "nukifw",
+    "date": "2026-06-15",
+    "score": 77,
+    "comments": 28,
+    "id": 48542784,
+    "discussion_url": "https://news.ycombinator.com/item?id=48542784",
+    "description": "Emacs, how it all started for me",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635760"
+    "fetched_at": "2026-06-18T19:49:53.601179"
+  },
+  {
+    "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+    "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+    "author": "giuliomagnifico",
+    "date": "2026-06-18",
+    "score": 241,
+    "comments": 102,
+    "id": 48583386,
+    "discussion_url": "https://news.ycombinator.com/item?id=48583386",
+    "description": "Hospitals and universities repurposing drugs at 90% lower cost",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-18T19:49:53.601115"
+  },
+  {
+    "title": "How Alberta Eradicated Rats",
+    "url": "https://worksinprogress.co/issue/albertas-war-on-rats/",
+    "author": "tzury",
+    "date": "2026-06-18",
+    "score": 83,
+    "comments": 76,
+    "id": 48584709,
+    "discussion_url": "https://news.ycombinator.com/item?id=48584709",
+    "description": "How Alberta Eradicated Rats",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-18T19:49:53.601129"
   },
   {
     "title": "How Madrid built its metro cheaply (2024)",
     "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
     "author": "trymas",
     "date": "2026-06-17",
-    "score": 165,
-    "comments": 109,
+    "score": 202,
+    "comments": 161,
     "id": 48575997,
     "discussion_url": "https://news.ycombinator.com/item?id=48575997",
     "description": "How Madrid built its metro cheaply (2024)",
@@ -116,49 +167,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635642"
+    "fetched_at": "2026-06-18T19:49:53.601236"
   },
   {
-    "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
-    "url": "https://browser-use.com/posts/firecracker-browser-infra",
-    "author": "gregpr07",
-    "date": "2026-06-16",
-    "score": 289,
-    "comments": 196,
-    "id": 48556561,
-    "discussion_url": "https://news.ycombinator.com/item?id=48556561",
-    "description": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+    "title": "I found 10k GitHub repositories distributing Trojan malware",
+    "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+    "author": "theorchid",
+    "date": "2026-06-18",
+    "score": 433,
+    "comments": 115,
+    "id": 48583928,
+    "discussion_url": "https://news.ycombinator.com/item?id=48583928",
+    "description": "I found 10k GitHub repositories distributing Trojan malware",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635622"
+    "fetched_at": "2026-06-18T19:49:53.601088"
   },
   {
-    "title": "Image Compression",
-    "url": "https://www.makingsoftware.com/chapters/image-compression",
-    "author": "vinhnx",
-    "date": "2026-06-14",
-    "score": 200,
-    "comments": 31,
-    "id": 48522927,
-    "discussion_url": "https://news.ycombinator.com/item?id=48522927",
-    "description": "Image Compression",
+    "title": "I hate compilers",
+    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+    "author": "xena",
+    "date": "2026-06-18",
+    "score": 148,
+    "comments": 145,
+    "id": 48581070,
+    "discussion_url": "https://news.ycombinator.com/item?id=48581070",
+    "description": "I hate compilers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635730"
+    "fetched_at": "2026-06-18T19:49:53.601211"
+  },
+  {
+    "title": "I need your clothes, your boots, and your motorcycle",
+    "url": "https://rbelmont.mameworld.info/?p=1725",
+    "author": "ingve",
+    "date": "2026-06-18",
+    "score": 110,
+    "comments": 105,
+    "id": 48582464,
+    "discussion_url": "https://news.ycombinator.com/item?id=48582464",
+    "description": "I need your clothes, your boots, and your motorcycle",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-18T19:49:53.601166"
   },
   {
     "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
     "url": "https://github.com/Adam-CAD/CADAM",
     "author": "zachdive",
     "date": "2026-06-17",
-    "score": 191,
-    "comments": 88,
+    "score": 201,
+    "comments": 97,
     "id": 48572553,
     "discussion_url": "https://news.ycombinator.com/item?id=48572553",
     "description": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
@@ -167,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635670"
+    "fetched_at": "2026-06-18T19:49:53.601256"
   },
   {
     "title": "Local Qwen isn't a worse Opus, it's a different tool",
     "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
     "author": "alphabettsy",
     "date": "2026-06-18",
-    "score": 272,
-    "comments": 135,
+    "score": 433,
+    "comments": 227,
     "id": 48580209,
     "discussion_url": "https://news.ycombinator.com/item?id=48580209",
     "description": "Local Qwen isn't a worse Opus, it's a different tool",
@@ -184,15 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635572"
+    "fetched_at": "2026-06-18T19:49:53.601229"
   },
   {
     "title": "Lore – Open source version control system designed for scalability",
     "url": "https://lore.org/",
     "author": "regnerba",
     "date": "2026-06-17",
-    "score": 1167,
-    "comments": 621,
+    "score": 1213,
+    "comments": 655,
     "id": 48571081,
     "discussion_url": "https://news.ycombinator.com/item?id=48571081",
     "description": "Lore – Open source version control system designed for scalability",
@@ -201,49 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635605"
+    "fetched_at": "2026-06-18T19:49:53.601240"
   },
   {
-    "title": "Loreline – Tools for writing interactive fiction",
-    "url": "https://loreline.app/en/",
-    "author": "smartmic",
-    "date": "2026-06-17",
-    "score": 184,
-    "comments": 31,
-    "id": 48576395,
-    "discussion_url": "https://news.ycombinator.com/item?id=48576395",
-    "description": "Loreline – Tools for writing interactive fiction",
+    "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+    "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+    "author": "Adam-Hincu",
+    "date": "2026-06-18",
+    "score": 441,
+    "comments": 315,
+    "id": 48584207,
+    "discussion_url": "https://news.ycombinator.com/item?id=48584207",
+    "description": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635658"
-  },
-  {
-    "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
-    "url": "https://github.com/rxi/microui",
-    "author": "peter_d_sherman",
-    "date": "2026-06-17",
-    "score": 243,
-    "comments": 82,
-    "id": 48569205,
-    "discussion_url": "https://news.ycombinator.com/item?id=48569205",
-    "description": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635707"
+    "fetched_at": "2026-06-18T19:49:53.601152"
   },
   {
     "title": "Midjourney Medical",
     "url": "https://www.midjourney.com/medical/blogpost",
     "author": "ricochet11",
     "date": "2026-06-18",
-    "score": 906,
-    "comments": 618,
+    "score": 1233,
+    "comments": 826,
     "id": 48579650,
     "discussion_url": "https://news.ycombinator.com/item?id=48579650",
     "description": "Midjourney Medical",
@@ -252,134 +303,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635554"
+    "fetched_at": "2026-06-18T19:49:53.601159"
   },
   {
-    "title": "RFC 10008: The new HTTP Query Method",
-    "url": "https://www.rfc-editor.org/info/rfc10008/",
-    "author": "schappim",
-    "date": "2026-06-17",
-    "score": 385,
-    "comments": 160,
-    "id": 48568502,
-    "discussion_url": "https://news.ycombinator.com/item?id=48568502",
-    "description": "RFC 10008: The new HTTP Query Method",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635662"
-  },
-  {
-    "title": "Running local models is good now",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "author": "jfb",
-    "date": "2026-06-16",
-    "score": 1538,
-    "comments": 591,
-    "id": 48555993,
-    "discussion_url": "https://news.ycombinator.com/item?id=48555993",
-    "description": "Running local models is good now",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635763"
-  },
-  {
-    "title": "Show HN: An 8-bit live gamecast for baseball",
-    "url": "https://ribbie.tv/watch",
-    "author": "brownrout",
-    "date": "2026-06-17",
-    "score": 236,
-    "comments": 121,
-    "id": 48573012,
-    "discussion_url": "https://news.ycombinator.com/item?id=48573012",
-    "description": "Show HN: An 8-bit live gamecast for baseball",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635699"
-  },
-  {
-    "title": "Show HN: Inkwash, a watercolor sketching app and explanation",
-    "url": "https://johnowhitaker.github.io/inkwash/about",
-    "author": "Yenrabbit",
-    "date": "2026-06-14",
-    "score": 234,
-    "comments": 26,
-    "id": 48523534,
-    "discussion_url": "https://news.ycombinator.com/item?id=48523534",
-    "description": "Show HN: Inkwash, a watercolor sketching app and explanation",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635711"
-  },
-  {
-    "title": "SteamOS Linux 3.8 released as stable",
-    "url": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
-    "author": "jrepinc",
+    "title": "Migrate from OpenClaw",
+    "url": "https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw",
+    "author": "JumpCrisscross",
     "date": "2026-06-18",
-    "score": 175,
-    "comments": 55,
-    "id": 48580686,
-    "discussion_url": "https://news.ycombinator.com/item?id=48580686",
-    "description": "SteamOS Linux 3.8 released as stable",
+    "score": 102,
+    "comments": 80,
+    "id": 48586005,
+    "discussion_url": "https://news.ycombinator.com/item?id=48586005",
+    "description": "Migrate from OpenClaw",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635703"
+    "fetched_at": "2026-06-18T19:49:53.601214"
   },
   {
-    "title": "Storied Colors – A catalogue of named colors",
-    "url": "https://storiedcolors.com/",
-    "author": "susiecambria",
-    "date": "2026-06-17",
-    "score": 186,
+    "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+    "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+    "author": "Vinnl",
+    "date": "2026-06-18",
+    "score": 167,
     "comments": 43,
-    "id": 48577374,
-    "discussion_url": "https://news.ycombinator.com/item?id=48577374",
-    "description": "Storied Colors – A catalogue of named colors",
+    "id": 48583897,
+    "discussion_url": "https://news.ycombinator.com/item?id=48583897",
+    "description": "Modos Color Monitor Pushes E-Paper Displays Further",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635646"
+    "fetched_at": "2026-06-18T19:49:53.601169"
   },
   {
-    "title": "Subterranean fungi networks more than 100 quadrillion km in length",
-    "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
-    "author": "tosh",
-    "date": "2026-06-11",
-    "score": 179,
-    "comments": 44,
-    "id": 48496233,
-    "discussion_url": "https://news.ycombinator.com/item?id=48496233",
-    "description": "Subterranean fungi networks more than 100 quadrillion km in length",
+    "title": "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
+    "url": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
+    "author": "Geekette",
+    "date": "2026-06-16",
+    "score": 81,
+    "comments": 73,
+    "id": 48552767,
+    "discussion_url": "https://news.ycombinator.com/item?id=48552767",
+    "description": "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635770"
+    "fetched_at": "2026-06-18T19:49:53.601277"
+  },
+  {
+    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+    "url": "https://gerrymandle.cc/",
+    "author": "realmofthemad",
+    "date": "2026-06-18",
+    "score": 79,
+    "comments": 34,
+    "id": 48585739,
+    "discussion_url": "https://news.ycombinator.com/item?id=48585739",
+    "description": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-18T19:49:53.601124"
+  },
+  {
+    "title": "Swiss parliament lifts ban on new nuclear power plants",
+    "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+    "author": "leonidasrup",
+    "date": "2026-06-18",
+    "score": 487,
+    "comments": 303,
+    "id": 48585746,
+    "discussion_url": "https://news.ycombinator.com/item?id=48585746",
+    "description": "Swiss parliament lifts ban on new nuclear power plants",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-18T19:49:53.601072"
   },
   {
     "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
     "url": "https://www.horg.com/horg/?page_id=921",
     "author": "beatthatflight",
     "date": "2026-06-17",
-    "score": 157,
-    "comments": 39,
+    "score": 185,
+    "comments": 45,
     "id": 48578388,
     "discussion_url": "https://news.ycombinator.com/item?id=48578388",
     "description": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
@@ -388,125 +405,108 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635567"
+    "fetched_at": "2026-06-18T19:49:53.601246"
   },
   {
-    "title": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
-    "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
-    "author": "Bender",
-    "date": "2026-06-17",
-    "score": 330,
-    "comments": 196,
-    "id": 48576838,
-    "discussion_url": "https://news.ycombinator.com/item?id=48576838",
-    "description": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
+    "title": "TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants",
+    "url": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
+    "author": "mpweiher",
+    "date": "2026-06-18",
+    "score": 78,
+    "comments": 75,
+    "id": 48586648,
+    "discussion_url": "https://news.ycombinator.com/item?id=48586648",
+    "description": "TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635719"
+    "fetched_at": "2026-06-18T19:49:53.601137"
   },
   {
-    "title": "The founder's playbook: Building an AI-native startup",
-    "url": "https://claude.com/blog/the-founders-playbook",
-    "author": "e2e4",
-    "date": "2026-06-17",
-    "score": 233,
-    "comments": 160,
-    "id": 48566832,
-    "discussion_url": "https://news.ycombinator.com/item?id=48566832",
-    "description": "The founder's playbook: Building an AI-native startup",
+    "title": "The founder of Craigslist has given away half a billion dollars",
+    "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+    "author": "Tomte",
+    "date": "2026-06-18",
+    "score": 169,
+    "comments": 109,
+    "id": 48588216,
+    "discussion_url": "https://news.ycombinator.com/item?id=48588216",
+    "description": "The founder of Craigslist has given away half a billion dollars",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635733"
+    "fetched_at": "2026-06-18T19:49:53.601133"
   },
   {
-    "title": "U.S. science is in chaos",
-    "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-    "author": "presspot",
-    "date": "2026-06-17",
-    "score": 828,
-    "comments": 983,
-    "id": 48568058,
-    "discussion_url": "https://news.ycombinator.com/item?id=48568058",
-    "description": "U.S. science is in chaos",
+    "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+    "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+    "author": "ksec",
+    "date": "2026-06-18",
+    "score": 161,
+    "comments": 154,
+    "id": 48585866,
+    "discussion_url": "https://news.ycombinator.com/item?id=48585866",
+    "description": "Ubiquiti: Enterprise NAS, Built on ZFS",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635722"
+    "fetched_at": "2026-06-18T19:49:53.601183"
   },
   {
-    "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-    "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-    "author": "giuliomagnifico",
-    "date": "2026-06-17",
-    "score": 475,
-    "comments": 523,
-    "id": 48565498,
-    "discussion_url": "https://news.ycombinator.com/item?id=48565498",
-    "description": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+    "title": "Vinyl Cache and Varnish Cache",
+    "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
+    "author": "embedding-shape",
+    "date": "2026-06-15",
+    "score": 76,
+    "comments": 36,
+    "id": 48534900,
+    "discussion_url": "https://news.ycombinator.com/item?id=48534900",
+    "description": "Vinyl Cache and Varnish Cache",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635600"
+    "fetched_at": "2026-06-18T19:49:53.601280"
   },
   {
-    "title": "Volkswagen started blocking GrapheneOS users",
-    "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
-    "author": "microtonal",
-    "date": "2026-06-17",
-    "score": 720,
-    "comments": 428,
-    "id": 48571526,
-    "discussion_url": "https://news.ycombinator.com/item?id=48571526",
-    "description": "Volkswagen started blocking GrapheneOS users",
+    "title": "W Social, public institutions and the theater of European digital sovereignty",
+    "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+    "author": "nemoniac",
+    "date": "2026-06-18",
+    "score": 138,
+    "comments": 90,
+    "id": 48584497,
+    "discussion_url": "https://news.ycombinator.com/item?id=48584497",
+    "description": "W Social, public institutions and the theater of European digital sovereignty",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635681"
+    "fetched_at": "2026-06-18T19:49:53.601203"
   },
   {
-    "title": "Want your images back? That'll be $5",
-    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-    "author": "lutr",
-    "date": "2026-06-17",
-    "score": 636,
-    "comments": 263,
-    "id": 48569954,
-    "discussion_url": "https://news.ycombinator.com/item?id=48569954",
-    "description": "Want your images back? That'll be $5",
+    "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "author": "showmypost",
+    "date": "2026-06-18",
+    "score": 85,
+    "comments": 35,
+    "id": 48583703,
+    "discussion_url": "https://news.ycombinator.com/item?id=48583703",
+    "description": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635740"
-  },
-  {
-    "title": "Why thinking out loud with someone beats thinking alone",
-    "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
-    "author": "kodesko",
-    "date": "2026-06-17",
-    "score": 287,
-    "comments": 124,
-    "id": 48569894,
-    "discussion_url": "https://news.ycombinator.com/item?id=48569894",
-    "description": "Why thinking out loud with someone beats thinking alone",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-18T12:19:23.635684"
+    "fetched_at": "2026-06-18T19:49:53.601163"
   }
 ]
