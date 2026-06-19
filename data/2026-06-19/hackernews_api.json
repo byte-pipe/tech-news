@@ -4,8 +4,8 @@
     "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
     "author": "FergusArgyll",
     "date": "2026-06-18",
-    "score": 445,
-    "comments": 137,
+    "score": 540,
+    "comments": 161,
     "id": 48583356,
     "discussion_url": "https://news.ycombinator.com/item?id=48583356",
     "description": ".gitignore Isn't the only way to ignore files in Git",
@@ -14,32 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708116"
+    "fetched_at": "2026-06-19T19:36:22.429917"
   },
   {
-    "title": "A website that lists websites to submit your website to",
-    "url": "https://www.submission.directory/",
-    "author": "azeemkafridi",
-    "date": "2026-06-18",
-    "score": 415,
-    "comments": 91,
-    "id": 48586631,
-    "discussion_url": "https://news.ycombinator.com/item?id=48586631",
-    "description": "A website that lists websites to submit your website to",
+    "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+    "url": "https://aiclambake.com/clamtakes/linear-a/",
+    "author": "Kosturdistan",
+    "date": "2026-06-19",
+    "score": 230,
+    "comments": 100,
+    "id": 48600107,
+    "discussion_url": "https://news.ycombinator.com/item?id=48600107",
+    "description": "Amateur may have cracked Linear A, a 120-year-old puzzle",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708293"
+    "fetched_at": "2026-06-19T19:36:22.429812"
   },
   {
     "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
     "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
     "author": "ibobev",
     "date": "2026-06-18",
-    "score": 382,
-    "comments": 53,
+    "score": 419,
+    "comments": 59,
     "id": 48583606,
     "discussion_url": "https://news.ycombinator.com/item?id=48583606",
     "description": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
@@ -48,32 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708110"
-  },
-  {
-    "title": "Cell-based architecture for resilient payment systems",
-    "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-    "author": "birdculture",
-    "date": "2026-06-15",
-    "score": 130,
-    "comments": 53,
-    "id": 48547969,
-    "discussion_url": "https://news.ycombinator.com/item?id=48547969",
-    "description": "Cell-based architecture for resilient payment systems",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708175"
+    "fetched_at": "2026-06-19T19:36:22.429949"
   },
   {
     "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
     "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
     "author": "marklit",
     "date": "2026-06-16",
-    "score": 222,
-    "comments": 74,
+    "score": 380,
+    "comments": 122,
     "id": 48553388,
     "discussion_url": "https://news.ycombinator.com/item?id=48553388",
     "description": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
@@ -82,49 +65,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708048"
+    "fetched_at": "2026-06-19T19:36:22.429817"
   },
   {
-    "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-    "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-    "author": "frou_dh",
-    "date": "2026-06-18",
-    "score": 444,
-    "comments": 256,
-    "id": 48584135,
-    "discussion_url": "https://news.ycombinator.com/item?id=48584135",
-    "description": "Emacs 31 is around the corner: The changes I'm daily driving",
+    "title": "Google workspace threatening to block Firefox access",
+    "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+    "author": "birdculture",
+    "date": "2026-06-19",
+    "score": 200,
+    "comments": 69,
+    "id": 48600345,
+    "discussion_url": "https://news.ycombinator.com/item?id=48600345",
+    "description": "Google workspace threatening to block Firefox access",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708249"
+    "fetched_at": "2026-06-19T19:36:22.429801"
   },
   {
-    "title": "Emacs, how it all started for me",
-    "url": "https://xvw.lol/en/articles/emacs-start.html",
-    "author": "nukifw",
+    "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+    "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+    "author": "mcanouil",
     "date": "2026-06-15",
-    "score": 145,
+    "score": 191,
     "comments": 70,
-    "id": 48542784,
-    "discussion_url": "https://news.ycombinator.com/item?id=48542784",
-    "description": "Emacs, how it all started for me",
+    "id": 48541062,
+    "discussion_url": "https://news.ycombinator.com/item?id=48541062",
+    "description": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708297"
+    "fetched_at": "2026-06-19T19:36:22.429970"
   },
   {
     "title": "Hospitals and universities repurposing drugs at lower cost",
     "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
     "author": "giuliomagnifico",
     "date": "2026-06-18",
-    "score": 317,
-    "comments": 144,
+    "score": 331,
+    "comments": 162,
     "id": 48583386,
     "discussion_url": "https://news.ycombinator.com/item?id=48583386",
     "description": "Hospitals and universities repurposing drugs at lower cost",
@@ -133,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708126"
+    "fetched_at": "2026-06-19T19:36:22.429979"
   },
   {
     "title": "How Alberta Eradicated Rats",
     "url": "https://worksinprogress.co/issue/albertas-war-on-rats/",
     "author": "tzury",
     "date": "2026-06-18",
-    "score": 173,
-    "comments": 123,
+    "score": 188,
+    "comments": 129,
     "id": 48584709,
     "discussion_url": "https://news.ycombinator.com/item?id=48584709",
     "description": "How Alberta Eradicated Rats",
@@ -150,15 +133,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708209"
+    "fetched_at": "2026-06-19T19:36:22.430008"
+  },
+  {
+    "title": "How Japan's railways stayed one while splitting apart",
+    "url": "https://arun.is/blog/jr-logo/",
+    "author": "ddrmaxgt37",
+    "date": "2026-06-17",
+    "score": 164,
+    "comments": 129,
+    "id": 48570730,
+    "discussion_url": "https://news.ycombinator.com/item?id=48570730",
+    "description": "How Japan's railways stayed one while splitting apart",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-19T19:36:22.429853"
+  },
+  {
+    "title": "Hyundai buys Boston Dynamics",
+    "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "author": "ck2",
+    "date": "2026-06-19",
+    "score": 297,
+    "comments": 143,
+    "id": 48600312,
+    "discussion_url": "https://news.ycombinator.com/item?id=48600312",
+    "description": "Hyundai buys Boston Dynamics",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-19T19:36:22.429781"
   },
   {
     "title": "I found 10k GitHub repositories distributing Trojan malware",
     "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
     "author": "theorchid",
     "date": "2026-06-18",
-    "score": 829,
-    "comments": 215,
+    "score": 911,
+    "comments": 239,
     "id": 48583928,
     "discussion_url": "https://news.ycombinator.com/item?id=48583928",
     "description": "I found 10k GitHub repositories distributing Trojan malware",
@@ -167,49 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708043"
-  },
-  {
-    "title": "I hate compilers",
-    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-    "author": "xena",
-    "date": "2026-06-18",
-    "score": 160,
-    "comments": 159,
-    "id": 48581070,
-    "discussion_url": "https://news.ycombinator.com/item?id=48581070",
-    "description": "I hate compilers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708278"
-  },
-  {
-    "title": "I need your clothes, your boots, and your motorcycle",
-    "url": "https://rbelmont.mameworld.info/?p=1725",
-    "author": "ingve",
-    "date": "2026-06-18",
-    "score": 138,
-    "comments": 129,
-    "id": 48582464,
-    "discussion_url": "https://news.ycombinator.com/item?id=48582464",
-    "description": "I need your clothes, your boots, and your motorcycle",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708273"
+    "fetched_at": "2026-06-19T19:36:22.429775"
   },
   {
     "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
     "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
     "author": "speckx",
     "date": "2026-06-18",
-    "score": 411,
-    "comments": 251,
+    "score": 441,
+    "comments": 287,
     "id": 48589501,
     "discussion_url": "https://news.ycombinator.com/item?id=48589501",
     "description": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
@@ -218,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708231"
+    "fetched_at": "2026-06-19T19:36:22.430071"
   },
   {
     "title": "Ice water drowning survival of young patient (2025)",
     "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
     "author": "js2",
     "date": "2026-06-19",
-    "score": 169,
-    "comments": 106,
+    "score": 191,
+    "comments": 129,
     "id": 48594592,
     "discussion_url": "https://news.ycombinator.com/item?id=48594592",
     "description": "Ice water drowning survival of young patient (2025)",
@@ -235,15 +218,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708190"
+    "fetched_at": "2026-06-19T19:36:22.430037"
+  },
+  {
+    "title": "If your product is Great, it doesn't need to be Good (2010)",
+    "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
+    "author": "skogstokig",
+    "date": "2026-06-15",
+    "score": 145,
+    "comments": 100,
+    "id": 48544429,
+    "discussion_url": "https://news.ycombinator.com/item?id=48544429",
+    "description": "If your product is Great, it doesn't need to be Good (2010)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-19T19:36:22.429966"
   },
   {
     "title": "Lore – Open source version control system designed for scalability",
     "url": "https://lore.org/",
     "author": "regnerba",
     "date": "2026-06-17",
-    "score": 1236,
-    "comments": 669,
+    "score": 1242,
+    "comments": 673,
     "id": 48571081,
     "discussion_url": "https://news.ycombinator.com/item?id=48571081",
     "description": "Lore – Open source version control system designed for scalability",
@@ -252,32 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708284"
-  },
-  {
-    "title": "Many Let's Encrypt renewals had errors today",
-    "url": "https://letsencrypt.status.io/#2026",
-    "author": "widdakay",
-    "date": "2026-06-19",
-    "score": 147,
-    "comments": 93,
-    "id": 48594715,
-    "discussion_url": "https://news.ycombinator.com/item?id=48594715",
-    "description": "Many Let's Encrypt renewals had errors today",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708246"
+    "fetched_at": "2026-06-19T19:36:22.430067"
   },
   {
     "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
     "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
     "author": "Adam-Hincu",
     "date": "2026-06-18",
-    "score": 681,
-    "comments": 461,
+    "score": 709,
+    "comments": 499,
     "id": 48584207,
     "discussion_url": "https://news.ycombinator.com/item?id=48584207",
     "description": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
@@ -286,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708256"
+    "fetched_at": "2026-06-19T19:36:22.430063"
   },
   {
     "title": "Midjourney Medical",
     "url": "https://www.midjourney.com/medical/blogpost",
     "author": "ricochet11",
     "date": "2026-06-18",
-    "score": 1312,
-    "comments": 849,
+    "score": 1326,
+    "comments": 860,
     "id": 48579650,
     "discussion_url": "https://news.ycombinator.com/item?id=48579650",
     "description": "Midjourney Medical",
@@ -303,15 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708235"
+    "fetched_at": "2026-06-19T19:36:22.430025"
   },
   {
     "title": "Modos Color Monitor Pushes E-Paper Displays Further",
     "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
     "author": "Vinnl",
     "date": "2026-06-18",
-    "score": 294,
-    "comments": 70,
+    "score": 330,
+    "comments": 78,
     "id": 48583897,
     "discussion_url": "https://news.ycombinator.com/item?id=48583897",
     "description": "Modos Color Monitor Pushes E-Paper Displays Further",
@@ -320,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708193"
+    "fetched_at": "2026-06-19T19:36:22.429975"
   },
   {
     "title": "Noam Shazeer Joins OpenAI",
     "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
     "author": "lukasgross",
     "date": "2026-06-18",
-    "score": 335,
-    "comments": 330,
+    "score": 346,
+    "comments": 353,
     "id": 48578913,
     "discussion_url": "https://news.ycombinator.com/item?id=48578913",
     "description": "Noam Shazeer Joins OpenAI",
@@ -337,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708220"
+    "fetched_at": "2026-06-19T19:36:22.430040"
   },
   {
     "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
     "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
     "author": "philonoist",
     "date": "2026-06-19",
-    "score": 228,
-    "comments": 93,
+    "score": 483,
+    "comments": 279,
     "id": 48595511,
     "discussion_url": "https://news.ycombinator.com/item?id=48595511",
     "description": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
@@ -354,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708025"
+    "fetched_at": "2026-06-19T19:36:22.429796"
   },
   {
     "title": "Show HN: Are You in the Weights?",
     "url": "https://www.intheweights.com/",
     "author": "turtlesoup",
     "date": "2026-06-18",
-    "score": 371,
-    "comments": 217,
+    "score": 426,
+    "comments": 234,
     "id": 48591348,
     "discussion_url": "https://news.ycombinator.com/item?id=48591348",
     "description": "Show HN: Are You in the Weights?",
@@ -371,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708201"
+    "fetched_at": "2026-06-19T19:36:22.430021"
   },
   {
     "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
     "url": "https://gerrymandle.cc/",
     "author": "realmofthemad",
     "date": "2026-06-18",
-    "score": 179,
-    "comments": 71,
+    "score": 195,
+    "comments": 76,
     "id": 48585739,
     "discussion_url": "https://news.ycombinator.com/item?id=48585739",
     "description": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
@@ -388,32 +371,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708216"
+    "fetched_at": "2026-06-19T19:36:22.430013"
   },
   {
-    "title": "Swiss parliament lifts ban on new nuclear power plants",
-    "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-    "author": "leonidasrup",
-    "date": "2026-06-18",
-    "score": 768,
-    "comments": 746,
-    "id": 48585746,
-    "discussion_url": "https://news.ycombinator.com/item?id=48585746",
-    "description": "Swiss parliament lifts ban on new nuclear power plants",
+    "title": "Ten years of ClickHouse in open source",
+    "url": "https://clickhouse.com/blog/open-source-10",
+    "author": "saisrirampur",
+    "date": "2026-06-15",
+    "score": 234,
+    "comments": 66,
+    "id": 48546890,
+    "discussion_url": "https://news.ycombinator.com/item?id=48546890",
+    "description": "Ten years of ClickHouse in open source",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708260"
+    "fetched_at": "2026-06-19T19:36:22.429840"
   },
   {
     "title": "The AirPods Effect",
     "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
     "author": "herbertl",
     "date": "2026-06-18",
-    "score": 142,
-    "comments": 284,
+    "score": 330,
+    "comments": 592,
     "id": 48592832,
     "discussion_url": "https://news.ycombinator.com/item?id=48592832",
     "description": "The AirPods Effect",
@@ -422,32 +405,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708082"
+    "fetched_at": "2026-06-19T19:36:22.429832"
   },
   {
-    "title": "The founder of Craigslist has given away half a billion dollars",
-    "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-    "author": "Tomte",
-    "date": "2026-06-18",
-    "score": 373,
-    "comments": 279,
-    "id": 48588216,
-    "discussion_url": "https://news.ycombinator.com/item?id=48588216",
-    "description": "The founder of Craigslist has given away half a billion dollars",
+    "title": "There Are No Instances in ATProto",
+    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "author": "danabramov",
+    "date": "2026-06-19",
+    "score": 178,
+    "comments": 109,
+    "id": 48599515,
+    "discussion_url": "https://news.ycombinator.com/item?id=48599515",
+    "description": "There Are No Instances in ATProto",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708267"
+    "fetched_at": "2026-06-19T19:36:22.429763"
   },
   {
     "title": "To study how chips work, MIT researchers built their own operating system",
     "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
     "author": "speckx",
     "date": "2026-06-15",
-    "score": 214,
-    "comments": 32,
+    "score": 319,
+    "comments": 49,
     "id": 48543311,
     "discussion_url": "https://news.ycombinator.com/item?id=48543311",
     "description": "To study how chips work, MIT researchers built their own operating system",
@@ -456,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708053"
+    "fetched_at": "2026-06-19T19:36:22.429925"
   },
   {
     "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
     "url": "https://blog.ui.com/article/introducing-enterprise-nas",
     "author": "ksec",
     "date": "2026-06-18",
-    "score": 354,
-    "comments": 302,
+    "score": 396,
+    "comments": 334,
     "id": 48585866,
     "discussion_url": "https://news.ycombinator.com/item?id=48585866",
     "description": "Ubiquiti: Enterprise NAS, Built on ZFS",
@@ -473,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708102"
+    "fetched_at": "2026-06-19T19:36:22.429936"
   },
   {
     "title": "W Social, public institutions and the theater of European digital sovereignty",
     "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
     "author": "nemoniac",
     "date": "2026-06-18",
-    "score": 223,
-    "comments": 143,
+    "score": 251,
+    "comments": 157,
     "id": 48584497,
     "discussion_url": "https://news.ycombinator.com/item?id=48584497",
     "description": "W Social, public institutions and the theater of European digital sovereignty",
@@ -490,15 +473,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708182"
+    "fetched_at": "2026-06-19T19:36:22.429962"
+  },
+  {
+    "title": "Zen and the Art of Machine Learning Research",
+    "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+    "author": "jxmorris12",
+    "date": "2026-06-16",
+    "score": 205,
+    "comments": 69,
+    "id": 48549118,
+    "discussion_url": "https://news.ycombinator.com/item?id=48549118",
+    "description": "Zen and the Art of Machine Learning Research",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-19T19:36:22.429903"
   },
   {
     "title": "Zero-Touch OAuth for MCP",
     "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
     "author": "niyikiza",
     "date": "2026-06-18",
-    "score": 209,
-    "comments": 75,
+    "score": 249,
+    "comments": 97,
     "id": 48592163,
     "discussion_url": "https://news.ycombinator.com/item?id=48592163",
     "description": "Zero-Touch OAuth for MCP",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-19T12:23:42.708057"
+    "fetched_at": "2026-06-19T19:36:22.429866"
   }
 ]
