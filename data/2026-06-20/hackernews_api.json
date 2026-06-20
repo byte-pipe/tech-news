@@ -1,45 +1,62 @@
 [
   {
-    "title": "A new bill takes aim at government pressure to silence lawful online speech",
-    "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-    "author": "hn_acker",
-    "date": "2026-06-19",
-    "score": 282,
-    "comments": 124,
-    "id": 48600950,
-    "discussion_url": "https://news.ycombinator.com/item?id=48600950",
-    "description": "A new bill takes aim at government pressure to silence lawful online speech",
+    "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+    "url": "https://ironicsans.ghost.io/the-color-strike/",
+    "author": "ohjeez",
+    "date": "2026-06-16",
+    "score": 76,
+    "comments": 22,
+    "id": 48559729,
+    "discussion_url": "https://news.ycombinator.com/item?id=48559729",
+    "description": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875410"
+    "fetched_at": "2026-06-20T19:34:11.587271"
   },
   {
-    "title": "Big Banana Car",
-    "url": "https://bigbananacar.com/",
-    "author": "Bender",
-    "date": "2026-06-19",
-    "score": 160,
-    "comments": 82,
-    "id": 48601420,
-    "discussion_url": "https://news.ycombinator.com/item?id=48601420",
-    "description": "Big Banana Car",
+    "title": "A Perceptron in Age of Empires II",
+    "url": "https://adewynter.github.io/notes/aoe2-circuits",
+    "author": "EvgeniyZh",
+    "date": "2026-06-18",
+    "score": 109,
+    "comments": 41,
+    "id": 48582180,
+    "discussion_url": "https://news.ycombinator.com/item?id=48582180",
+    "description": "A Perceptron in Age of Empires II",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875379"
+    "fetched_at": "2026-06-20T19:34:11.587305"
+  },
+  {
+    "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "author": "ridesisapis",
+    "date": "2026-06-20",
+    "score": 199,
+    "comments": 61,
+    "id": 48611411,
+    "discussion_url": "https://news.ycombinator.com/item?id=48611411",
+    "description": "Agency stole bestselling author's book, used AI to relaunch as their own",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-20T19:34:11.587099"
   },
   {
     "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
     "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
     "author": "pgrote",
     "date": "2026-06-19",
-    "score": 392,
-    "comments": 45,
+    "score": 442,
+    "comments": 51,
     "id": 48602352,
     "discussion_url": "https://news.ycombinator.com/item?id=48602352",
     "description": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
@@ -48,100 +65,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875285"
+    "fetched_at": "2026-06-20T19:34:11.587311"
   },
   {
-    "title": "Building a robotics research setup that lives next to my desk",
-    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-    "author": "mplappert",
+    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+    "url": "https://bootimus.com",
+    "author": "car",
+    "date": "2026-06-20",
+    "score": 89,
+    "comments": 33,
+    "id": 48608255,
+    "discussion_url": "https://news.ycombinator.com/item?id=48608255",
+    "description": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-20T19:34:11.587168"
+  },
+  {
+    "title": "CSSQuake",
+    "url": "https://cssquake.com/",
+    "author": "msalsas",
+    "date": "2026-06-20",
+    "score": 369,
+    "comments": 82,
+    "id": 48608223,
+    "discussion_url": "https://news.ycombinator.com/item?id=48608223",
+    "description": "CSSQuake",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-20T19:34:11.587132"
+  },
+  {
+    "title": "Can you see three trees?",
+    "url": "https://www.not-ship.com/can-you-see-three-trees/",
+    "author": "Pamar",
     "date": "2026-06-18",
-    "score": 154,
-    "comments": 57,
-    "id": 48586329,
-    "discussion_url": "https://news.ycombinator.com/item?id=48586329",
-    "description": "Building a robotics research setup that lives next to my desk",
+    "score": 282,
+    "comments": 130,
+    "id": 48582374,
+    "discussion_url": "https://news.ycombinator.com/item?id=48582374",
+    "description": "Can you see three trees?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875248"
+    "fetched_at": "2026-06-20T19:34:11.587207"
   },
   {
-    "title": "Cell-based architecture for resilient payment systems",
-    "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-    "author": "birdculture",
-    "date": "2026-06-15",
-    "score": 149,
-    "comments": 60,
-    "id": 48547969,
-    "discussion_url": "https://news.ycombinator.com/item?id=48547969",
-    "description": "Cell-based architecture for resilient payment systems",
+    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+    "author": "LowLevelMahn",
+    "date": "2026-06-20",
+    "score": 100,
+    "comments": 29,
+    "id": 48609766,
+    "discussion_url": "https://news.ycombinator.com/item?id=48609766",
+    "description": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875448"
+    "fetched_at": "2026-06-20T19:34:11.587123"
   },
   {
-    "title": "Court Records Should Be Free",
-    "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
-    "author": "hn_acker",
-    "date": "2026-06-19",
-    "score": 389,
-    "comments": 84,
-    "id": 48600946,
-    "discussion_url": "https://news.ycombinator.com/item?id=48600946",
-    "description": "Court Records Should Be Free",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875337"
-  },
-  {
-    "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-    "author": "lumpa",
-    "date": "2026-06-19",
-    "score": 146,
-    "comments": 61,
-    "id": 48593731,
-    "discussion_url": "https://news.ycombinator.com/item?id=48593731",
-    "description": "Datasette Apps: Host custom HTML applications inside Datasette",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875434"
-  },
-  {
-    "title": "DuckDB Internals Part 1",
-    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-    "author": "marklit",
+    "title": "Data Compression Explained (2012)",
+    "url": "https://mattmahoney.net/dc/dce.html",
+    "author": "mtdewcmu",
     "date": "2026-06-16",
-    "score": 452,
-    "comments": 139,
-    "id": 48553388,
-    "discussion_url": "https://news.ycombinator.com/item?id=48553388",
-    "description": "DuckDB Internals Part 1",
+    "score": 179,
+    "comments": 30,
+    "id": 48562662,
+    "discussion_url": "https://news.ycombinator.com/item?id=48562662",
+    "description": "Data Compression Explained (2012)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875417"
+    "fetched_at": "2026-06-20T19:34:11.587237"
+  },
+  {
+    "title": "Egyptian Fractions (2006)",
+    "url": "https://blog.plover.com/math/egyptian-fractions.html",
+    "author": "luu",
+    "date": "2026-06-15",
+    "score": 105,
+    "comments": 18,
+    "id": 48548612,
+    "discussion_url": "https://news.ycombinator.com/item?id=48548612",
+    "description": "Egyptian Fractions (2006)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-20T19:34:11.587315"
+  },
+  {
+    "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "author": "Brajeshwar",
+    "date": "2026-06-20",
+    "score": 121,
+    "comments": 57,
+    "id": 48609194,
+    "discussion_url": "https://news.ycombinator.com/item?id=48609194",
+    "description": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-20T19:34:11.587204"
   },
   {
     "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
     "url": "https://arrowtsx.dev/bigger-models/",
     "author": "oshrimpton",
     "date": "2026-06-19",
-    "score": 226,
-    "comments": 80,
+    "score": 456,
+    "comments": 219,
     "id": 48600167,
     "discussion_url": "https://news.ycombinator.com/item?id=48600167",
     "description": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
@@ -150,83 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875281"
-  },
-  {
-    "title": "Google workspace threatening to block Firefox access",
-    "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-    "author": "birdculture",
-    "date": "2026-06-19",
-    "score": 489,
-    "comments": 155,
-    "id": 48600345,
-    "discussion_url": "https://news.ycombinator.com/item?id=48600345",
-    "description": "Google workspace threatening to block Firefox access",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875398"
-  },
-  {
-    "title": "Hey, n00b, we didn't hire you to complete tasks",
-    "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
-    "author": "rrvsh",
-    "date": "2026-06-20",
-    "score": 181,
-    "comments": 94,
-    "id": 48604851,
-    "discussion_url": "https://news.ycombinator.com/item?id=48604851",
-    "description": "Hey, n00b, we didn't hire you to complete tasks",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875372"
-  },
-  {
-    "title": "How Alberta Eradicated Rats",
-    "url": "https://worksinprogress.co/issue/albertas-war-on-rats/",
-    "author": "tzury",
-    "date": "2026-06-18",
-    "score": 199,
-    "comments": 132,
-    "id": 48584709,
-    "discussion_url": "https://news.ycombinator.com/item?id=48584709",
-    "description": "How Alberta Eradicated Rats",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875424"
-  },
-  {
-    "title": "How Japan's railways stayed one while splitting apart",
-    "url": "https://arun.is/blog/jr-logo/",
-    "author": "ddrmaxgt37",
-    "date": "2026-06-17",
-    "score": 183,
-    "comments": 139,
-    "id": 48570730,
-    "discussion_url": "https://news.ycombinator.com/item?id=48570730",
-    "description": "How Japan's railways stayed one while splitting apart",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875391"
+    "fetched_at": "2026-06-20T19:34:11.587211"
   },
   {
     "title": "How many of the 170k English words do you know?",
     "url": "https://vocabowl-870366514258.us-west1.run.app/",
     "author": "abnry",
     "date": "2026-06-19",
-    "score": 391,
-    "comments": 483,
+    "score": 463,
+    "comments": 539,
     "id": 48598586,
     "discussion_url": "https://news.ycombinator.com/item?id=48598586",
     "description": "How many of the 170k English words do you know?",
@@ -235,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875297"
+    "fetched_at": "2026-06-20T19:34:11.587274"
   },
   {
     "title": "Hyundai buys Boston Dynamics",
     "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
     "author": "ck2",
     "date": "2026-06-19",
-    "score": 853,
-    "comments": 366,
+    "score": 920,
+    "comments": 387,
     "id": 48600312,
     "discussion_url": "https://news.ycombinator.com/item?id=48600312",
     "description": "Hyundai buys Boston Dynamics",
@@ -252,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875305"
+    "fetched_at": "2026-06-20T19:34:11.587286"
   },
   {
     "title": "I Stored a Website in a Favicon",
     "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
     "author": "theanonymousone",
     "date": "2026-06-20",
-    "score": 164,
-    "comments": 63,
+    "score": 271,
+    "comments": 93,
     "id": 48606619,
     "discussion_url": "https://news.ycombinator.com/item?id=48606619",
     "description": "I Stored a Website in a Favicon",
@@ -269,49 +252,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875217"
+    "fetched_at": "2026-06-20T19:34:11.587188"
   },
   {
-    "title": "I found 10k GitHub repositories distributing Trojan malware",
-    "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-    "author": "theorchid",
-    "date": "2026-06-18",
-    "score": 953,
-    "comments": 244,
-    "id": 48583928,
-    "discussion_url": "https://news.ycombinator.com/item?id=48583928",
-    "description": "I found 10k GitHub repositories distributing Trojan malware",
+    "title": "LLMs Are Complicated Now",
+    "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+    "author": "matt_d",
+    "date": "2026-06-20",
+    "score": 144,
+    "comments": 57,
+    "id": 48605355,
+    "discussion_url": "https://news.ycombinator.com/item?id=48605355",
+    "description": "LLMs Are Complicated Now",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875406"
+    "fetched_at": "2026-06-20T19:34:11.587252"
   },
   {
-    "title": "Midjourney Medical",
-    "url": "https://www.midjourney.com/medical/blogpost",
-    "author": "ricochet11",
-    "date": "2026-06-18",
-    "score": 1345,
-    "comments": 869,
-    "id": 48579650,
-    "discussion_url": "https://news.ycombinator.com/item?id=48579650",
-    "description": "Midjourney Medical",
+    "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
+    "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+    "author": "giuliomagnifico",
+    "date": "2026-06-20",
+    "score": 110,
+    "comments": 87,
+    "id": 48608591,
+    "discussion_url": "https://news.ycombinator.com/item?id=48608591",
+    "description": "Lithuanian startup launches open-source network to detect Shahed-type drones",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875427"
+    "fetched_at": "2026-06-20T19:34:11.587294"
   },
   {
     "title": "Norway imposes near ban on AI in elementary school",
     "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
     "author": "ilreb",
     "date": "2026-06-19",
-    "score": 698,
-    "comments": 488,
+    "score": 773,
+    "comments": 550,
     "id": 48600093,
     "discussion_url": "https://news.ycombinator.com/item?id=48600093",
     "description": "Norway imposes near ban on AI in elementary school",
@@ -320,83 +303,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875300"
+    "fetched_at": "2026-06-20T19:34:11.587308"
   },
   {
-    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-    "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-    "author": "philonoist",
+    "title": "SMPTE Makes Its Standards Freely Accessible",
+    "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+    "author": "zdw",
+    "date": "2026-06-20",
+    "score": 91,
+    "comments": 38,
+    "id": 48610827,
+    "discussion_url": "https://news.ycombinator.com/item?id=48610827",
+    "description": "SMPTE Makes Its Standards Freely Accessible",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-20T19:34:11.587071"
+  },
+  {
+    "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+    "url": "https://startupwiki.tech/",
+    "author": "shpran",
+    "date": "2026-06-20",
+    "score": 68,
+    "comments": 20,
+    "id": 48610224,
+    "discussion_url": "https://news.ycombinator.com/item?id=48610224",
+    "description": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-20T19:34:11.587094"
+  },
+  {
+    "title": "Surprising economics of load-balanced systems",
+    "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+    "author": "KraftyOne",
     "date": "2026-06-19",
-    "score": 602,
-    "comments": 379,
-    "id": 48595511,
-    "discussion_url": "https://news.ycombinator.com/item?id=48595511",
-    "description": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+    "score": 140,
+    "comments": 34,
+    "id": 48602918,
+    "discussion_url": "https://news.ycombinator.com/item?id=48602918",
+    "description": "Surprising economics of load-balanced systems",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875272"
+    "fetched_at": "2026-06-20T19:34:11.587278"
   },
   {
-    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-    "url": "https://gerrymandle.cc/",
-    "author": "realmofthemad",
-    "date": "2026-06-18",
-    "score": 216,
-    "comments": 78,
-    "id": 48585739,
-    "discussion_url": "https://news.ycombinator.com/item?id=48585739",
-    "description": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+    "title": "Temporary Cloudflare Accounts for AI Agents",
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "author": "farhadhf",
+    "date": "2026-06-20",
+    "score": 91,
+    "comments": 69,
+    "id": 48608394,
+    "discussion_url": "https://news.ycombinator.com/item?id=48608394",
+    "description": "Temporary Cloudflare Accounts for AI Agents",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875421"
+    "fetched_at": "2026-06-20T19:34:11.587164"
   },
   {
-    "title": "Ten years of ClickHouse in open source",
-    "url": "https://clickhouse.com/blog/open-source-10",
-    "author": "saisrirampur",
-    "date": "2026-06-15",
-    "score": 313,
-    "comments": 89,
-    "id": 48546890,
-    "discussion_url": "https://news.ycombinator.com/item?id=48546890",
-    "description": "Ten years of ClickHouse in open source",
+    "title": "The ability to regrow body parts is dormant in mammals, not lost",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+    "author": "nryoo",
+    "date": "2026-06-20",
+    "score": 63,
+    "comments": 26,
+    "id": 48611083,
+    "discussion_url": "https://news.ycombinator.com/item?id=48611083",
+    "description": "The ability to regrow body parts is dormant in mammals, not lost",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875353"
+    "fetched_at": "2026-06-20T19:34:11.587172"
   },
   {
-    "title": "The AirPods Effect",
-    "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-    "author": "herbertl",
-    "date": "2026-06-18",
-    "score": 422,
-    "comments": 730,
-    "id": 48592832,
-    "discussion_url": "https://news.ycombinator.com/item?id=48592832",
-    "description": "The AirPods Effect",
+    "title": "The discovery that changed how scientists think about memory",
+    "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
+    "author": "rbanffy",
+    "date": "2026-06-17",
+    "score": 107,
+    "comments": 42,
+    "id": 48568652,
+    "discussion_url": "https://news.ycombinator.com/item?id=48568652",
+    "description": "The discovery that changed how scientists think about memory",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875349"
+    "fetched_at": "2026-06-20T19:34:11.587267"
   },
   {
     "title": "There are no instances in ATProto",
     "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
     "author": "danabramov",
     "date": "2026-06-19",
-    "score": 462,
-    "comments": 232,
+    "score": 511,
+    "comments": 291,
     "id": 48599515,
     "discussion_url": "https://news.ycombinator.com/item?id=48599515",
     "description": "There are no instances in ATProto",
@@ -405,66 +422,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875239"
+    "fetched_at": "2026-06-20T19:34:11.587225"
   },
   {
-    "title": "Think of the children: How to force real ID for all internet traffic (2023)",
-    "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-    "author": "Bender",
-    "date": "2026-06-19",
-    "score": 206,
-    "comments": 128,
-    "id": 48602817,
-    "discussion_url": "https://news.ycombinator.com/item?id=48602817",
-    "description": "Think of the children: How to force real ID for all internet traffic (2023)",
+    "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+    "url": "https://www.lispm.net/apps/uhf-x11/",
+    "author": "zdw",
+    "date": "2026-06-20",
+    "score": 64,
+    "comments": 9,
+    "id": 48610853,
+    "discussion_url": "https://news.ycombinator.com/item?id=48610853",
+    "description": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875364"
+    "fetched_at": "2026-06-20T19:34:11.587089"
   },
   {
-    "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-    "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-    "author": "ksec",
-    "date": "2026-06-18",
-    "score": 409,
-    "comments": 347,
-    "id": 48585866,
-    "discussion_url": "https://news.ycombinator.com/item?id=48585866",
-    "description": "Ubiquiti: Enterprise NAS, Built on ZFS",
+    "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+    "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+    "author": "drayfield",
+    "date": "2026-06-20",
+    "score": 131,
+    "comments": 67,
+    "id": 48609373,
+    "discussion_url": "https://news.ycombinator.com/item?id=48609373",
+    "description": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875360"
+    "fetched_at": "2026-06-20T19:34:11.587228"
   },
   {
-    "title": "W Social, public institutions and the theater of European digital sovereignty",
-    "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-    "author": "nemoniac",
-    "date": "2026-06-18",
-    "score": 262,
-    "comments": 161,
-    "id": 48584497,
-    "discussion_url": "https://news.ycombinator.com/item?id=48584497",
-    "description": "W Social, public institutions and the theater of European digital sovereignty",
+    "title": "VPN ban update for UK households as government looks at 'age-gate'",
+    "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
+    "author": "iamnothere",
+    "date": "2026-06-20",
+    "score": 232,
+    "comments": 241,
+    "id": 48609385,
+    "discussion_url": "https://news.ycombinator.com/item?id=48609385",
+    "description": "VPN ban update for UK households as government looks at 'age-gate'",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875413"
+    "fetched_at": "2026-06-20T19:34:11.587193"
   },
   {
     "title": "Where to Find the Colors Your Screen Can't Show You",
     "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
     "author": "moultano",
     "date": "2026-06-20",
-    "score": 164,
-    "comments": 39,
+    "score": 385,
+    "comments": 98,
     "id": 48606140,
     "discussion_url": "https://news.ycombinator.com/item?id=48606140",
     "description": "Where to Find the Colors Your Screen Can't Show You",
@@ -473,40 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875234"
+    "fetched_at": "2026-06-20T19:34:11.587181"
   },
   {
-    "title": "Zen and the Art of Machine Learning Research",
-    "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-    "author": "jxmorris12",
-    "date": "2026-06-16",
-    "score": 265,
-    "comments": 93,
-    "id": 48549118,
-    "discussion_url": "https://news.ycombinator.com/item?id=48549118",
-    "description": "Zen and the Art of Machine Learning Research",
+    "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
+    "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
+    "author": "tcp_handshaker",
+    "date": "2026-06-20",
+    "score": 155,
+    "comments": 79,
+    "id": 48609343,
+    "discussion_url": "https://news.ycombinator.com/item?id=48609343",
+    "description": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875325"
-  },
-  {
-    "title": "Zero-Touch OAuth for MCP",
-    "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-    "author": "niyikiza",
-    "date": "2026-06-18",
-    "score": 274,
-    "comments": 102,
-    "id": 48592163,
-    "discussion_url": "https://news.ycombinator.com/item?id=48592163",
-    "description": "Zero-Touch OAuth for MCP",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-20T11:42:16.875368"
+    "fetched_at": "2026-06-20T19:34:11.587177"
   }
 ]
