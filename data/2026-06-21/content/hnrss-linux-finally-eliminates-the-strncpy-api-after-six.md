@@ -1,0 +1,31 @@
+---
+title: Linux Finally Eliminates The strncpy API After Six Years Of Work, 360+ Patches - Phoronix
+url: https://www.phoronix.com/news/Linux-7.2-Drops-strncpy
+site_name: hnrss
+content_file: hnrss-linux-finally-eliminates-the-strncpy-api-after-six
+fetched_at: '2026-06-21T11:57:32.022479'
+original_url: https://www.phoronix.com/news/Linux-7.2-Drops-strncpy
+date: '2026-06-20'
+description: Linux eliminates the strncpy API after six years of work, 360 patches
+tags:
+- hackernews
+- hnrss
+---
+
+# Linux Finally Eliminates The strncpy API After Six Years Of Work, 360+ Patches
+
+Written by 
+Michael Larabel
+ in 
+Linux Kernel
+ on 20 June 2026 at 10:22 AM EDT. 
+25 Comments
+
+Linux 7.2 has finally eliminated the strncpy API from the Linux kernel. The strncpy() function for copying up to a specified number of bytes has long been deprecated and after six years of work and hundreds of patches, no more users of the strncpy interface within the Linux kernel remained that it has now been eliminated.
+
+The strncpy function within the Linux kernel has been a "persistent source of bugs" for years due to counter-intuitive semantics and behavior around NUL termination along with performance issues due to redundant zero-filling of the destination. It took work over the last six years with around 362 commits to eliminate users of strncpy code within the kernel, but they are over the finish line for Linux 7.2.
+
+This merge
+ on Friday eliminated the strncpy API and the last per CPU architecture strncpy implementations.
+
+In place of strncpy, Linux kernel code should use strscpy() for NUL terminated destinations, strscpy_pad() for NUl-terminated destinations with zero-padding, strtomem_pad() for non-NUL-terminated fixed-width fields, memcpy_and_pad() for bounded copies with explicit padding, or memcpy() for known-length memory copies.

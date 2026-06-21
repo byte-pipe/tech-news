@@ -1,11 +1,28 @@
 [
   {
+    "title": "15-minute at-home Lyme disease tick test",
+    "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+    "author": "bookofjoe",
+    "date": "2026-06-18",
+    "score": 130,
+    "comments": 79,
+    "id": 48584261,
+    "discussion_url": "https://news.ycombinator.com/item?id=48584261",
+    "description": "15-minute at-home Lyme disease tick test",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-21T11:56:47.014607"
+  },
+  {
     "title": "AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
     "url": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback",
     "author": "roboror",
-    "date": "2026-06-21",
-    "score": 122,
-    "comments": 30,
+    "date": "2026-06-20",
+    "score": 156,
+    "comments": 38,
     "id": 48612098,
     "discussion_url": "https://news.ycombinator.com/item?id=48612098",
     "description": "AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
@@ -14,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968787"
+    "fetched_at": "2026-06-21T11:56:47.014749"
   },
   {
     "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
     "url": "https://bootimus.com",
     "author": "car",
     "date": "2026-06-20",
-    "score": 105,
-    "comments": 37,
+    "score": 118,
+    "comments": 38,
     "id": 48608255,
     "discussion_url": "https://news.ycombinator.com/item?id=48608255",
     "description": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
@@ -31,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.969070"
+    "fetched_at": "2026-06-21T11:56:47.014716"
   },
   {
     "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
     "url": "https://github.com/oven-sh/WebKit/pull/249",
     "author": "gr4vityWall",
-    "date": "2026-06-21",
-    "score": 112,
-    "comments": 202,
+    "date": "2026-06-20",
+    "score": 135,
+    "comments": 276,
     "id": 48610841,
     "discussion_url": "https://news.ycombinator.com/item?id=48610841",
     "description": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
@@ -48,15 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968330"
+    "fetched_at": "2026-06-21T11:56:47.014647"
   },
   {
     "title": "CSSQuake",
     "url": "https://cssquake.com/",
     "author": "msalsas",
     "date": "2026-06-20",
-    "score": 455,
-    "comments": 98,
+    "score": 510,
+    "comments": 108,
     "id": 48608223,
     "discussion_url": "https://news.ycombinator.com/item?id=48608223",
     "description": "CSSQuake",
@@ -65,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968771"
+    "fetched_at": "2026-06-21T11:56:47.014676"
   },
   {
     "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
     "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
     "author": "LowLevelMahn",
-    "date": "2026-06-21",
-    "score": 197,
-    "comments": 57,
+    "date": "2026-06-20",
+    "score": 260,
+    "comments": 68,
     "id": 48609766,
     "discussion_url": "https://news.ycombinator.com/item?id=48609766",
     "description": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
@@ -82,32 +99,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968739"
+    "fetched_at": "2026-06-21T11:56:47.014565"
   },
   {
-    "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
-    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-    "author": "Brajeshwar",
-    "date": "2026-06-20",
-    "score": 138,
-    "comments": 66,
-    "id": 48609194,
-    "discussion_url": "https://news.ycombinator.com/item?id=48609194",
-    "description": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+    "title": "Developers don't understand CORS (2019)",
+    "url": "https://fosterelli.co/developers-dont-understand-cors",
+    "author": "toilet",
+    "date": "2026-06-21",
+    "score": 230,
+    "comments": 150,
+    "id": 48614844,
+    "discussion_url": "https://news.ycombinator.com/item?id=48614844",
+    "description": "Developers don't understand CORS (2019)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.969201"
+    "fetched_at": "2026-06-21T11:56:47.014472"
+  },
+  {
+    "title": "Epoll vs. io_uring in Linux",
+    "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "author": "Sibexico",
+    "date": "2026-06-20",
+    "score": 186,
+    "comments": 45,
+    "id": 48613872,
+    "discussion_url": "https://news.ycombinator.com/item?id=48613872",
+    "description": "Epoll vs. io_uring in Linux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-21T11:56:47.014523"
   },
   {
     "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
     "url": "https://arrowtsx.dev/bigger-models/",
     "author": "oshrimpton",
-    "date": "2026-06-20",
-    "score": 495,
-    "comments": 246,
+    "date": "2026-06-19",
+    "score": 528,
+    "comments": 254,
     "id": 48600167,
     "discussion_url": "https://news.ycombinator.com/item?id=48600167",
     "description": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
@@ -116,15 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.969003"
+    "fetched_at": "2026-06-21T11:56:47.014634"
+  },
+  {
+    "title": "Google Hits 50% IPv6",
+    "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+    "author": "barqawiz",
+    "date": "2026-06-21",
+    "score": 166,
+    "comments": 158,
+    "id": 48616800,
+    "discussion_url": "https://news.ycombinator.com/item?id=48616800",
+    "description": "Google Hits 50% IPv6",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-21T11:56:47.014492"
   },
   {
     "title": "LLMs Are Complicated Now",
     "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
     "author": "matt_d",
     "date": "2026-06-20",
-    "score": 165,
-    "comments": 57,
+    "score": 188,
+    "comments": 64,
     "id": 48605355,
     "discussion_url": "https://news.ycombinator.com/item?id=48605355",
     "description": "LLMs Are Complicated Now",
@@ -133,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.969153"
+    "fetched_at": "2026-06-21T11:56:47.014712"
   },
   {
     "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
     "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
     "author": "simonpure",
-    "date": "2026-06-21",
-    "score": 78,
-    "comments": 47,
+    "date": "2026-06-20",
+    "score": 227,
+    "comments": 216,
     "id": 48612943,
     "discussion_url": "https://news.ycombinator.com/item?id=48612943",
     "description": "Linux eliminates the strncpy API after six years of work, 360 patches",
@@ -150,49 +201,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968655"
+    "fetched_at": "2026-06-21T11:56:47.014625"
   },
   {
-    "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-    "url": "https://clickhouse.com/blog/postgresbench",
-    "author": "saisrirampur",
-    "date": "2026-06-21",
-    "score": 74,
-    "comments": 20,
-    "id": 48611942,
-    "discussion_url": "https://news.ycombinator.com/item?id=48611942",
-    "description": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+    "url": "https://github.com/mysk-research/loupe",
+    "author": "Cider9986",
+    "date": "2026-06-20",
+    "score": 337,
+    "comments": 126,
+    "id": 48608645,
+    "discussion_url": "https://news.ycombinator.com/item?id=48608645",
+    "description": "Loupe – A iOS app that raises awareness about what native apps can see",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968821"
-  },
-  {
-    "title": "Pre-2022 Books",
-    "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
-    "author": "trms",
-    "date": "2026-06-21",
-    "score": 152,
-    "comments": 80,
-    "id": 48613631,
-    "discussion_url": "https://news.ycombinator.com/item?id=48613631",
-    "description": "Pre-2022 Books",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968922"
+    "fetched_at": "2026-06-21T11:56:47.014513"
   },
   {
     "title": "Renting a sewing machine from the library",
     "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
     "author": "sohkamyung",
-    "date": "2026-06-21",
-    "score": 75,
-    "comments": 28,
+    "date": "2026-06-20",
+    "score": 251,
+    "comments": 138,
     "id": 48613755,
     "discussion_url": "https://news.ycombinator.com/item?id=48613755",
     "description": "Renting a sewing machine from the library",
@@ -201,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968209"
+    "fetched_at": "2026-06-21T11:56:47.014503"
   },
   {
     "title": "SMPTE Makes Its Standards Freely Accessible",
     "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
     "author": "zdw",
-    "date": "2026-06-21",
-    "score": 224,
-    "comments": 60,
+    "date": "2026-06-20",
+    "score": 267,
+    "comments": 90,
     "id": 48610827,
     "discussion_url": "https://news.ycombinator.com/item?id=48610827",
     "description": "SMPTE Makes Its Standards Freely Accessible",
@@ -218,32 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968689"
-  },
-  {
-    "title": "Show HN: Ember, a native iOS Hacker News reader I built around accessibility",
-    "url": "https://github.com/DatanoiseTV/ember-hackernews",
-    "author": "sylwester",
-    "date": "2026-06-21",
-    "score": 87,
-    "comments": 20,
-    "id": 48610816,
-    "discussion_url": "https://news.ycombinator.com/item?id=48610816",
-    "description": "Show HN: Ember, a native iOS Hacker News reader I built around accessibility",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968971"
+    "fetched_at": "2026-06-21T11:56:47.014518"
   },
   {
     "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
     "url": "https://github.com/overflowy/make-look-scanned",
     "author": "overflowy",
-    "date": "2026-06-21",
-    "score": 82,
-    "comments": 39,
+    "date": "2026-06-20",
+    "score": 126,
+    "comments": 54,
     "id": 48611513,
     "discussion_url": "https://news.ycombinator.com/item?id=48611513",
     "description": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
@@ -252,32 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968873"
-  },
-  {
-    "title": "Show HN: Microcrad – Micrograd Reimplemented in C",
-    "url": "https://github.com/oraziorillo/microcrad",
-    "author": "oraziorillo",
-    "date": "2026-06-17",
-    "score": 64,
-    "comments": 21,
-    "id": 48570364,
-    "discussion_url": "https://news.ycombinator.com/item?id=48570364",
-    "description": "Show HN: Microcrad – Micrograd Reimplemented in C",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968573"
+    "fetched_at": "2026-06-21T11:56:47.014651"
   },
   {
     "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
     "url": "https://startupwiki.tech/",
     "author": "shpran",
-    "date": "2026-06-21",
-    "score": 151,
-    "comments": 47,
+    "date": "2026-06-20",
+    "score": 204,
+    "comments": 62,
     "id": 48610224,
     "discussion_url": "https://news.ycombinator.com/item?id=48610224",
     "description": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
@@ -286,49 +286,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968905"
+    "fetched_at": "2026-06-21T11:56:47.014621"
   },
   {
-    "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-    "url": "https://www.argusred.com/cli",
-    "author": "dk189",
+    "title": "Show HN: TownSquare, a tiny presence layer for websites",
+    "url": "https://townsquare.cauenapier.com/",
+    "author": "cauenapier",
     "date": "2026-06-20",
-    "score": 71,
-    "comments": 32,
-    "id": 48609231,
-    "discussion_url": "https://news.ycombinator.com/item?id=48609231",
-    "description": "Show HN: We post-trained a model that pen tests instead of refusing",
+    "score": 191,
+    "comments": 102,
+    "id": 48608570,
+    "discussion_url": "https://news.ycombinator.com/item?id=48608570",
+    "description": "Show HN: TownSquare, a tiny presence layer for websites",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968368"
+    "fetched_at": "2026-06-21T11:56:47.014560"
   },
   {
-    "title": "Supermarket giant Tesco sues VMware for breach of contract",
-    "url": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
-    "author": "wglb",
-    "date": "2026-06-21",
-    "score": 78,
-    "comments": 20,
-    "id": 48613008,
-    "discussion_url": "https://news.ycombinator.com/item?id=48613008",
-    "description": "Supermarket giant Tesco sues VMware for breach of contract",
+    "title": "Slow breathing modulates brain function and risk behavior",
+    "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "author": "croes",
+    "date": "2026-06-20",
+    "score": 228,
+    "comments": 63,
+    "id": 48613555,
+    "discussion_url": "https://news.ycombinator.com/item?id=48613555",
+    "description": "Slow breathing modulates brain function and risk behavior",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968348"
+    "fetched_at": "2026-06-21T11:56:47.014552"
   },
   {
     "title": "Temporary Cloudflare accounts for AI agents",
     "url": "https://blog.cloudflare.com/temporary-accounts/",
     "author": "farhadhf",
     "date": "2026-06-20",
-    "score": 161,
-    "comments": 93,
+    "score": 219,
+    "comments": 115,
     "id": 48608394,
     "discussion_url": "https://news.ycombinator.com/item?id=48608394",
     "description": "Temporary Cloudflare accounts for AI agents",
@@ -337,15 +337,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968309"
+    "fetched_at": "2026-06-21T11:56:47.014629"
+  },
+  {
+    "title": "The 100k Whys of AI",
+    "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+    "author": "surprisetalk",
+    "date": "2026-06-21",
+    "score": 116,
+    "comments": 68,
+    "id": 48616017,
+    "discussion_url": "https://news.ycombinator.com/item?id=48616017",
+    "description": "The 100k Whys of AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-21T11:56:47.014745"
   },
   {
     "title": "The Wholesale Plagiarism of Obscure Sorrows",
     "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
     "author": "ridesisapis",
-    "date": "2026-06-21",
-    "score": 316,
-    "comments": 134,
+    "date": "2026-06-20",
+    "score": 374,
+    "comments": 147,
     "id": 48611411,
     "discussion_url": "https://news.ycombinator.com/item?id=48611411",
     "description": "The Wholesale Plagiarism of Obscure Sorrows",
@@ -354,15 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968855"
+    "fetched_at": "2026-06-21T11:56:47.014680"
   },
   {
     "title": "The ability to regrow body parts is dormant in mammals, not lost",
     "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
     "author": "nryoo",
-    "date": "2026-06-21",
-    "score": 146,
-    "comments": 53,
+    "date": "2026-06-20",
+    "score": 177,
+    "comments": 64,
     "id": 48611083,
     "discussion_url": "https://news.ycombinator.com/item?id=48611083",
     "description": "The ability to regrow body parts is dormant in mammals, not lost",
@@ -371,32 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968938"
-  },
-  {
-    "title": "The discovery that changed how scientists think about memory",
-    "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
-    "author": "rbanffy",
-    "date": "2026-06-17",
-    "score": 114,
-    "comments": 47,
-    "id": 48568652,
-    "discussion_url": "https://news.ycombinator.com/item?id=48568652",
-    "description": "The discovery that changed how scientists think about memory",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.969248"
+    "fetched_at": "2026-06-21T11:56:47.014737"
   },
   {
     "title": "The rise of South Korea’s weapons business",
     "url": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
     "author": "JumpCrisscross",
     "date": "2026-06-20",
-    "score": 107,
-    "comments": 40,
+    "score": 140,
+    "comments": 51,
     "id": 48608515,
     "discussion_url": "https://news.ycombinator.com/item?id=48608515",
     "description": "The rise of South Korea’s weapons business",
@@ -405,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968246"
+    "fetched_at": "2026-06-21T11:56:47.014655"
   },
   {
     "title": "Think of the children: How to force real ID for all internet traffic (2023)",
     "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
     "author": "Bender",
-    "date": "2026-06-20",
-    "score": 235,
-    "comments": 165,
+    "date": "2026-06-19",
+    "score": 245,
+    "comments": 171,
     "id": 48602817,
     "discussion_url": "https://news.ycombinator.com/item?id=48602817",
     "description": "Think of the children: How to force real ID for all internet traffic (2023)",
@@ -422,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.969120"
+    "fetched_at": "2026-06-21T11:56:47.014700"
   },
   {
     "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
     "url": "https://www.lispm.net/apps/uhf-x11/",
     "author": "zdw",
-    "date": "2026-06-21",
-    "score": 155,
-    "comments": 23,
+    "date": "2026-06-20",
+    "score": 210,
+    "comments": 44,
     "id": 48610853,
     "discussion_url": "https://news.ycombinator.com/item?id=48610853",
     "description": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
@@ -439,32 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968755"
-  },
-  {
-    "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-    "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
-    "author": "drayfield",
-    "date": "2026-06-21",
-    "score": 152,
-    "comments": 101,
-    "id": 48609373,
-    "discussion_url": "https://news.ycombinator.com/item?id=48609373",
-    "description": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.969281"
+    "fetched_at": "2026-06-21T11:56:47.014569"
   },
   {
     "title": "Unauthorized alert sent to cell phones across Brazil",
     "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
     "author": "zdw",
-    "date": "2026-06-21",
-    "score": 79,
-    "comments": 50,
+    "date": "2026-06-20",
+    "score": 143,
+    "comments": 108,
     "id": 48612502,
     "discussion_url": "https://news.ycombinator.com/item?id=48612502",
     "description": "Unauthorized alert sent to cell phones across Brazil",
@@ -473,32 +456,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.968889"
+    "fetched_at": "2026-06-21T11:56:47.014548"
   },
   {
-    "title": "Where to Find the Colors Your Screen Can't Show You",
-    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "author": "moultano",
-    "date": "2026-06-20",
-    "score": 428,
-    "comments": 117,
-    "id": 48606140,
-    "discussion_url": "https://news.ycombinator.com/item?id=48606140",
-    "description": "Where to Find the Colors Your Screen Can't Show You",
+    "title": "When I reject AI code even if it works",
+    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+    "author": "vnbrs",
+    "date": "2026-06-21",
+    "score": 193,
+    "comments": 118,
+    "id": 48614631,
+    "discussion_url": "https://news.ycombinator.com/item?id=48614631",
+    "description": "When I reject AI code even if it works",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.969296"
+    "fetched_at": "2026-06-21T11:56:47.014663"
   },
   {
     "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
     "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
     "author": "tcp_handshaker",
-    "date": "2026-06-21",
-    "score": 250,
-    "comments": 134,
+    "date": "2026-06-20",
+    "score": 287,
+    "comments": 166,
     "id": 48609343,
     "discussion_url": "https://news.ycombinator.com/item?id=48609343",
     "description": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
@@ -507,6 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:06:14.969037"
+    "fetched_at": "2026-06-21T11:56:47.014741"
+  },
+  {
+    "title": "Your brain was never designed for this much bad news",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+    "author": "colinprince",
+    "date": "2026-06-21",
+    "score": 234,
+    "comments": 190,
+    "id": 48615569,
+    "discussion_url": "https://news.ycombinator.com/item?id=48615569",
+    "description": "Your brain was never designed for this much bad news",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-21T11:56:47.014704"
   }
 ]
