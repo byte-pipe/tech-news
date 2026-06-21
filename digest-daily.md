@@ -1,64 +1,66 @@
 ---
-date: '2026-06-21'
+date: '2026-06-22'
 model: gpt-oss:120b-cloud
-generated_at: '2026-06-21T11:07:58.714078'
+generated_at: '2026-06-22T00:55:06.860960'
 ---
 
 ## Executive Summary
-- Large language models have grown into highly modular, multi‑attention architectures, prompting calls for composable kernels and more flexible research pipelines.  
-- Cloudflare’s new **temporary accounts** let AI agents deploy Workers without human sign‑up, a development that is already trending among developers.  
-- Taiwan is accelerating a domestic drone program, targeting over 200 k attack drones and securing U.S. Pentagon certification for its firms, while Indian home‑based workers continue to fight for rights under an under‑ratified ILO convention.  
-- Open‑weight “Mythos‑class” models are projected to reach frontier performance on laptops by 2029, reshaping consumer and enterprise AI economics.  
-- In politics, UK Prime Minister Keir Starmer faces mounting internal Labour pressure, and marine scientists are racing to protect “super reefs” that can survive record‑breaking heatwaves.  
+- Open‑source developers released **FreeLLMAPI**, a proxy that aggregates free tiers from 16 LLM providers into a single OpenAI‑compatible endpoint, dramatically expanding affordable AI access.  
+- Bayer AG unveiled **PRINCE**, an agentic RAG platform that combines retrieval, text‑to‑SQL, and multi‑agent orchestration to streamline pre‑clinical drug‑development research.  
+- A hacker‑suspected “misanthropy” emergency alert swept Brazil’s cell‑broadcast system, exposing vulnerabilities in national alert infrastructure.  
+- A critical Linux kernel use‑after‑free (CVE‑2026‑23111) was publicly exploited, underscoring the need for rapid patching of container‑host configurations.  
+- The indie RTS **Beyond All Reason** and the at‑home Lyme‑tick test each gained notable traction, reflecting strong community interest in free‑to‑play gaming and consumer health diagnostics.
 
 ---
 
-## AI and Machine Learning (7 articles)
+## AI and Machine Learning
 
-### LLMs are complicated now – Ian’s Blog [hackernews_api]  
-Modern LLMs now combine dozens of attention variants, Mixture‑of‑Experts routing, integrated vision/audio encoders, and multi‑GPU communication layers, making them as architecturally complex as today’s recommendation systems. The post argues for composable, partially‑fused kernels—exemplified by FlexAttention—to enable rapid experimentation without performance regressions.
+### FreeLLMAPI – OpenAI‑compatible proxy for free LLM tiers [github]  
+A community‑maintained proxy aggregates roughly 1.7 B free tokens per month from 16 providers, exposing a unified `/v1/chat/completions` endpoint compatible with SDKs, LangChain, and other tooling. The service handles rate‑limit fallback, sticky sessions, and offers a lightweight Docker deployment.
 
-### Temporary Cloudflare Accounts for AI agents [hackernews_api] **(trending)**  
-Cloudflare introduced “temporary accounts” that let autonomous agents spin up Workers, APIs, and sites for 60 minutes via `wrangler deploy --temporary`. The accounts can be claimed later, removing OAuth/MFA friction and supporting fast write‑deploy‑verify loops essential for emerging agentic platforms.
+### Building Reliable Agentic AI Systems [hnrss]  
+Bayer AG’s PRINCE platform demonstrates how context and harness engineering can make agentic Retrieval‑Augmented Generation trustworthy for preclinical data, using specialized agents for intent clarification, retrieval, validation, and document drafting, all with source citations and confidence scores.
 
-### Pre‑2022 Books | Notes by Lorenzo Gravina [hnrss]  
-The author reflects on a bias toward pre‑2022 publications, associating older books with manual editorial effort and expressing unease about AI‑generated content despite acknowledging LLMs’ utility for coding.
+### Meet Alice. Alice is impatient. [hnrss]  
+The post explains the inspection paradox, showing why users perceive average latency and outage times as far longer than engineering‑reported means, and argues that reducing tail latency is essential for improving real‑world user experience.
 
-### StartupWiki – AI‑Powered Startup Research Directory [hnrss]  
-StartupWiki uses NLP‑driven search, a unified database, and personalized recommendations to streamline startup discovery for investors, founders, analysts, and educators, while planning to add global data sources and predictive analytics.
-
-### As China looms, Taiwan makes more drones for defense and the US military – Ars Technica [newsfeed]  
-Taiwan will spend $6.6 bn (2026‑31) on 208 k coastal‑attack drones, 1.4 k recon drones, and 1.3 k unmanned surface vessels. Companies like Thunder Tiger have earned U.S. Pentagon clearance, opened a U.S. plant, and are supplying components to the DoD’s “Drone Dominance” program, though political and supply‑chain hurdles remain.
-
-### As ILO convention turns 30, India’s home‑based workers demand equal rights – Al Jazeera [newsfeed]  
-Home‑based workers, predominantly women, earn pennies per piece and lack social protection. Only 13 countries have ratified ILO Convention 177; activists call for greater visibility, fair wages, and legal recognition in India.
-
-### Mythos‑class models will diffuse throughout the world by 2029 — Saagar Pateder [tldr]  
-Open‑weight models lag frontier closed‑weight systems by ~4 months but are rapidly closing the gap; by 2029 laptop‑class models could match frontier performance, making them cost‑effective for most business tasks while still posing security risks if misused.
+### Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis | Nature [newsfeed]  
+A correction clarifies the antibodies and plasmid identifiers used in the 2019 Nature study on autophagic cell death, ensuring reproducibility of the original findings on cancer‑related chromosomal instability.
 
 ---
 
-## Software Engineering and Dev Tools (6 articles)
+## Cybersecurity and Privacy
 
-### SMPTE Makes Its Standards Freely Accessible, Opening Standards Library to the Global Media Technology Community [hackernews_api] **(trending)**  
-*Content not provided; unable to summarize.*
+### Trending – Brazil: Hackers suspected behind unauthorized alert sent to cell phones across Brazil | CNN [hackernews_api]  
+A spurious “misantropi4” emergency message was broadcast via Cellbroadcast and SMS in multiple states, prompting Brazil’s civil defense to shut down the platform while investigators trace the hack. The incident highlights weaknesses in national alert systems that can be weaponized for misinformation.
 
-### UHF X11 – Turn Apple Vision Pro into an X11 server [hackernews_api] **(trending)**  
-UHF X11 lets Vision Pro run native X11 clients as independent spatial windows, supporting TCP connections, pixel‑perfect rendering, optional retro visual effects, and experimental indirect GLX, effectively bringing classic Linux graphics to visionOS.
+### One‑Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public [tldr]  
+CVE‑2026‑23111, a single‑character use‑after‑free in nf_tables, allows unprivileged users to gain root and escape containers; patches were released in February 2026, but public exploits surfaced in April, making immediate kernel updates and namespace hardening critical.
 
-### Shared‑memory threads for JavaScriptCore (experimental) – Pull Request #249 [hnrss]  
-A new `Thread` class enables true shared‑heap parallelism in JavaScriptCore without copying or `SharedArrayBuffer`. It offers closure‑based threading, direct exception propagation, and a simple API, though the implementation is still experimental and not yet merged.
+---
 
-### Are UK Prime Minister Keir Starmer’s political days numbered? – Al Jazeera [newsfeed]  
-Starmer faces a growing Labour revolt, intensified by Andy Burnham’s return to Parliament, with internal dissent, polling drops, and policy controversies threatening his leadership.
+## Software Engineering and Dev Tools
 
-### As global warming threatens corals, scientists search for reefs that can take the heat [newsfeed]  
-Researchers led by Anne Cohen are mapping “super reefs” that survive extreme heat, targeting sites in Belize, Hawaii, and the Marshall Islands, and proposing a “blue corridor” to seed vulnerable reefs with resilient larvae.
+### Trending – Beyond All Reason ★ RTS [hackernews_api]  
+The free RTS game delivers massive, physics‑driven battles with terrain deformation and supports thousands of units, recently adding a new map and preparing a Steam release; community praise centers on its scale and open‑source development model.
 
-### My Media Diet: Why is everyone watching old TV again? – TLDR [tldr]  
-Nostalgic binge‑watching of classic series (e.g., *Girls*, *The Sopranos*) reflects a cultural craving for structured, fictional worlds amid a reality‑TV‑heavy, algorithm‑driven media landscape.
+### Trending – Lyme disease tick test: Home test kit seeks to limit spread [hackernews_api]  
+LymeAlert offers a $40, 15‑minute at‑home assay that grinds ticks and detects Borrelia DNA on a color‑changing strip, aiming to cut ER visits and enable rapid treatment; future versions will expand pathogen coverage and feed crowd‑sourced data into AI‑driven spread models.
+
+### Running microVMs in Proxmox VE, The Easy Way - Tao of Mac [hnrss]  
+The `pve‑microvm` package adds a QEMU microVM machine type to Proxmox, delivering sub‑300 ms boot times and container‑like isolation by using a host‑side kernel and OCI‑based root filesystems, simplifying lightweight workload deployment.
+
+### zeux.io - Zigzag decoding with AVX‑512 [hnrss]  
+The article shows how AVX‑512 mask instructions can implement zigzag integer decoding with three instructions instead of four, reducing uop count and potentially improving throughput on Zen 4 CPUs for high‑volume data processing.
+
+### Andy Burnham says Israel would be his first overseas visit in old clip | Al Jazeera [newsfeed]  
+An archival video resurfaced showing UK Labour leader Andy Burnham stating his first foreign trip as Prime Minister would be to Israel, reigniting debate over his stance on the Israel‑Palestine conflict.
+
+### Aura's impressive e‑ink photo frame doesn't even look digital | TechCrunch [newsfeed]  
+TechCrunch reviews AuraInk, a $499 color e‑ink photo frame that uses dithering to simulate a six‑color palette, delivering a paper‑like display with low eye strain, though color fidelity remains limited compared to LED alternatives.
 
 ---
 
 ## Notable Mentions
-- No additional bullet‑point mentions were supplied.
+- Andy Burnham’s resurfaced clip on Israel (Al Jazeera).  
+- AuraInk e‑ink photo frame review (TechCrunch).
