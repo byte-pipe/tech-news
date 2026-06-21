@@ -4,8 +4,8 @@
     "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
     "author": "bookofjoe",
     "date": "2026-06-18",
-    "score": 130,
-    "comments": 79,
+    "score": 198,
+    "comments": 140,
     "id": 48584261,
     "discussion_url": "https://news.ycombinator.com/item?id=48584261",
     "description": "15-minute at-home Lyme disease tick test",
@@ -14,49 +14,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014607"
+    "fetched_at": "2026-06-21T19:34:17.532134"
   },
   {
-    "title": "AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
-    "url": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback",
-    "author": "roboror",
-    "date": "2026-06-20",
-    "score": 156,
-    "comments": 38,
-    "id": 48612098,
-    "discussion_url": "https://news.ycombinator.com/item?id=48612098",
-    "description": "AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
+    "title": "A 3D voxel game engine written in APL",
+    "url": "https://github.com/namgyaaal/avoxelgame",
+    "author": "sph",
+    "date": "2026-06-21",
+    "score": 126,
+    "comments": 11,
+    "id": 48616713,
+    "discussion_url": "https://news.ycombinator.com/item?id=48616713",
+    "description": "A 3D voxel game engine written in APL",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014749"
+    "fetched_at": "2026-06-21T19:34:17.532172"
   },
   {
-    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-    "url": "https://bootimus.com",
-    "author": "car",
+    "title": "Alice is impatient",
+    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "author": "birdculture",
     "date": "2026-06-20",
-    "score": 118,
+    "score": 140,
     "comments": 38,
-    "id": 48608255,
-    "discussion_url": "https://news.ycombinator.com/item?id=48608255",
-    "description": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+    "id": 48612740,
+    "discussion_url": "https://news.ycombinator.com/item?id=48612740",
+    "description": "Alice is impatient",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014716"
+    "fetched_at": "2026-06-21T19:34:17.532184"
+  },
+  {
+    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "url": "https://www.beyondallreason.info",
+    "author": "mosiuerbarso",
+    "date": "2026-06-21",
+    "score": 339,
+    "comments": 188,
+    "id": 48617990,
+    "discussion_url": "https://news.ycombinator.com/item?id=48617990",
+    "description": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-21T19:34:17.532035"
+  },
+  {
+    "title": "Building reliable agentic AI systems",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "author": "sarangk90",
+    "date": "2026-06-21",
+    "score": 171,
+    "comments": 41,
+    "id": 48615680,
+    "discussion_url": "https://news.ycombinator.com/item?id=48615680",
+    "description": "Building reliable agentic AI systems",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-21T19:34:17.532207"
   },
   {
     "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
     "url": "https://github.com/oven-sh/WebKit/pull/249",
     "author": "gr4vityWall",
     "date": "2026-06-20",
-    "score": 135,
-    "comments": 276,
+    "score": 142,
+    "comments": 298,
     "id": 48610841,
     "discussion_url": "https://news.ycombinator.com/item?id=48610841",
     "description": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
@@ -65,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014647"
+    "fetched_at": "2026-06-21T19:34:17.532238"
   },
   {
     "title": "CSSQuake",
     "url": "https://cssquake.com/",
     "author": "msalsas",
     "date": "2026-06-20",
-    "score": 510,
-    "comments": 108,
+    "score": 526,
+    "comments": 113,
     "id": 48608223,
     "discussion_url": "https://news.ycombinator.com/item?id=48608223",
     "description": "CSSQuake",
@@ -82,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014676"
+    "fetched_at": "2026-06-21T19:34:17.532255"
   },
   {
     "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
     "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
     "author": "LowLevelMahn",
     "date": "2026-06-20",
-    "score": 260,
-    "comments": 68,
+    "score": 275,
+    "comments": 70,
     "id": 48609766,
     "discussion_url": "https://news.ycombinator.com/item?id=48609766",
     "description": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
@@ -99,15 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014565"
+    "fetched_at": "2026-06-21T19:34:17.532176"
   },
   {
     "title": "Developers don't understand CORS (2019)",
     "url": "https://fosterelli.co/developers-dont-understand-cors",
     "author": "toilet",
     "date": "2026-06-21",
-    "score": 230,
-    "comments": 150,
+    "score": 312,
+    "comments": 245,
     "id": 48614844,
     "discussion_url": "https://news.ycombinator.com/item?id=48614844",
     "description": "Developers don't understand CORS (2019)",
@@ -116,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014472"
+    "fetched_at": "2026-06-21T19:34:17.532076"
   },
   {
     "title": "Epoll vs. io_uring in Linux",
     "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
     "author": "Sibexico",
     "date": "2026-06-20",
-    "score": 186,
-    "comments": 45,
+    "score": 234,
+    "comments": 56,
     "id": 48613872,
     "discussion_url": "https://news.ycombinator.com/item?id=48613872",
     "description": "Epoll vs. io_uring in Linux",
@@ -133,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014523"
+    "fetched_at": "2026-06-21T19:34:17.532100"
   },
   {
     "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
     "url": "https://arrowtsx.dev/bigger-models/",
     "author": "oshrimpton",
     "date": "2026-06-19",
-    "score": 528,
-    "comments": 254,
+    "score": 548,
+    "comments": 282,
     "id": 48600167,
     "discussion_url": "https://news.ycombinator.com/item?id=48600167",
     "description": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
@@ -150,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014634"
+    "fetched_at": "2026-06-21T19:34:17.532218"
   },
   {
     "title": "Google Hits 50% IPv6",
     "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
     "author": "barqawiz",
     "date": "2026-06-21",
-    "score": 166,
-    "comments": 158,
+    "score": 365,
+    "comments": 360,
     "id": 48616800,
     "discussion_url": "https://news.ycombinator.com/item?id=48616800",
     "description": "Google Hits 50% IPv6",
@@ -167,32 +201,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014492"
+    "fetched_at": "2026-06-21T19:34:17.532191"
   },
   {
-    "title": "LLMs Are Complicated Now",
-    "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-    "author": "matt_d",
-    "date": "2026-06-20",
-    "score": 188,
-    "comments": 64,
-    "id": 48605355,
-    "discussion_url": "https://news.ycombinator.com/item?id=48605355",
-    "description": "LLMs Are Complicated Now",
+    "title": "Identity verification on Claude",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "author": "bathory",
+    "date": "2026-06-21",
+    "score": 255,
+    "comments": 215,
+    "id": 48618455,
+    "discussion_url": "https://news.ycombinator.com/item?id=48618455",
+    "description": "Identity verification on Claude",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014712"
+    "fetched_at": "2026-06-21T19:34:17.532088"
   },
   {
     "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
     "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
     "author": "simonpure",
     "date": "2026-06-20",
-    "score": 227,
-    "comments": 216,
+    "score": 274,
+    "comments": 288,
     "id": 48612943,
     "discussion_url": "https://news.ycombinator.com/item?id=48612943",
     "description": "Linux eliminates the strncpy API after six years of work, 360 patches",
@@ -201,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014625"
+    "fetched_at": "2026-06-21T19:34:17.532211"
   },
   {
     "title": "Loupe – A iOS app that raises awareness about what native apps can see",
     "url": "https://github.com/mysk-research/loupe",
     "author": "Cider9986",
     "date": "2026-06-20",
-    "score": 337,
-    "comments": 126,
+    "score": 474,
+    "comments": 193,
     "id": 48608645,
     "discussion_url": "https://news.ycombinator.com/item?id=48608645",
     "description": "Loupe – A iOS app that raises awareness about what native apps can see",
@@ -218,15 +252,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014513"
+    "fetched_at": "2026-06-21T19:34:17.532067"
+  },
+  {
+    "title": "Prefer duplication over the wrong abstraction (2016)",
+    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "author": "rafaepta",
+    "date": "2026-06-21",
+    "score": 276,
+    "comments": 195,
+    "id": 48620090,
+    "discussion_url": "https://news.ycombinator.com/item?id=48620090",
+    "description": "Prefer duplication over the wrong abstraction (2016)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-21T19:34:17.532025"
   },
   {
     "title": "Renting a sewing machine from the library",
     "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
     "author": "sohkamyung",
     "date": "2026-06-20",
-    "score": 251,
-    "comments": 138,
+    "score": 315,
+    "comments": 185,
     "id": 48613755,
     "discussion_url": "https://news.ycombinator.com/item?id=48613755",
     "description": "Renting a sewing machine from the library",
@@ -235,15 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014503"
+    "fetched_at": "2026-06-21T19:34:17.532084"
+  },
+  {
+    "title": "Running MicroVMs in Proxmox VE, the Easy Way",
+    "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
+    "author": "zdw",
+    "date": "2026-06-19",
+    "score": 182,
+    "comments": 27,
+    "id": 48599555,
+    "discussion_url": "https://news.ycombinator.com/item?id=48599555",
+    "description": "Running MicroVMs in Proxmox VE, the Easy Way",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-21T19:34:17.532180"
   },
   {
     "title": "SMPTE Makes Its Standards Freely Accessible",
     "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
     "author": "zdw",
     "date": "2026-06-20",
-    "score": 267,
-    "comments": 90,
+    "score": 283,
+    "comments": 97,
     "id": 48610827,
     "discussion_url": "https://news.ycombinator.com/item?id=48610827",
     "description": "SMPTE Makes Its Standards Freely Accessible",
@@ -252,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014518"
+    "fetched_at": "2026-06-21T19:34:17.532187"
   },
   {
     "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
     "url": "https://github.com/overflowy/make-look-scanned",
     "author": "overflowy",
     "date": "2026-06-20",
-    "score": 126,
-    "comments": 54,
+    "score": 136,
+    "comments": 58,
     "id": 48611513,
     "discussion_url": "https://news.ycombinator.com/item?id=48611513",
     "description": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
@@ -269,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014651"
+    "fetched_at": "2026-06-21T19:34:17.532242"
   },
   {
     "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
     "url": "https://startupwiki.tech/",
     "author": "shpran",
     "date": "2026-06-20",
-    "score": 204,
-    "comments": 62,
+    "score": 220,
+    "comments": 67,
     "id": 48610224,
     "discussion_url": "https://news.ycombinator.com/item?id=48610224",
     "description": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
@@ -286,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014621"
+    "fetched_at": "2026-06-21T19:34:17.532234"
   },
   {
     "title": "Show HN: TownSquare, a tiny presence layer for websites",
     "url": "https://townsquare.cauenapier.com/",
     "author": "cauenapier",
     "date": "2026-06-20",
-    "score": 191,
-    "comments": 102,
+    "score": 225,
+    "comments": 130,
     "id": 48608570,
     "discussion_url": "https://news.ycombinator.com/item?id=48608570",
     "description": "Show HN: TownSquare, a tiny presence layer for websites",
@@ -303,15 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014560"
+    "fetched_at": "2026-06-21T19:34:17.532119"
   },
   {
     "title": "Slow breathing modulates brain function and risk behavior",
     "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
     "author": "croes",
     "date": "2026-06-20",
-    "score": 228,
-    "comments": 63,
+    "score": 342,
+    "comments": 97,
     "id": 48613555,
     "discussion_url": "https://news.ycombinator.com/item?id=48613555",
     "description": "Slow breathing modulates brain function and risk behavior",
@@ -320,49 +388,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014552"
+    "fetched_at": "2026-06-21T19:34:17.532057"
   },
   {
-    "title": "Temporary Cloudflare accounts for AI agents",
-    "url": "https://blog.cloudflare.com/temporary-accounts/",
-    "author": "farhadhf",
-    "date": "2026-06-20",
-    "score": 219,
-    "comments": 115,
-    "id": 48608394,
-    "discussion_url": "https://news.ycombinator.com/item?id=48608394",
-    "description": "Temporary Cloudflare accounts for AI agents",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014629"
-  },
-  {
-    "title": "The 100k Whys of AI",
+    "title": "The 100k whys of AI",
     "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
     "author": "surprisetalk",
     "date": "2026-06-21",
-    "score": 116,
-    "comments": 68,
+    "score": 152,
+    "comments": 92,
     "id": 48616017,
     "discussion_url": "https://news.ycombinator.com/item?id=48616017",
-    "description": "The 100k Whys of AI",
+    "description": "The 100k whys of AI",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014745"
+    "fetched_at": "2026-06-21T19:34:17.532128"
   },
   {
     "title": "The Wholesale Plagiarism of Obscure Sorrows",
     "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
     "author": "ridesisapis",
     "date": "2026-06-20",
-    "score": 374,
-    "comments": 147,
+    "score": 392,
+    "comments": 154,
     "id": 48611411,
     "discussion_url": "https://news.ycombinator.com/item?id=48611411",
     "description": "The Wholesale Plagiarism of Obscure Sorrows",
@@ -371,32 +422,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014680"
+    "fetched_at": "2026-06-21T19:34:17.532259"
   },
   {
-    "title": "The ability to regrow body parts is dormant in mammals, not lost",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
-    "author": "nryoo",
-    "date": "2026-06-20",
-    "score": 177,
-    "comments": 64,
-    "id": 48611083,
-    "discussion_url": "https://news.ycombinator.com/item?id=48611083",
-    "description": "The ability to regrow body parts is dormant in mammals, not lost",
+    "title": "The brain was not designed for this much bad news",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+    "author": "colinprince",
+    "date": "2026-06-21",
+    "score": 308,
+    "comments": 263,
+    "id": 48615569,
+    "discussion_url": "https://news.ycombinator.com/item?id=48615569",
+    "description": "The brain was not designed for this much bad news",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014737"
+    "fetched_at": "2026-06-21T19:34:17.532092"
   },
   {
     "title": "The rise of South Korea’s weapons business",
     "url": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
     "author": "JumpCrisscross",
     "date": "2026-06-20",
-    "score": 140,
-    "comments": 51,
+    "score": 150,
+    "comments": 57,
     "id": 48608515,
     "discussion_url": "https://news.ycombinator.com/item?id=48608515",
     "description": "The rise of South Korea’s weapons business",
@@ -405,32 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014655"
-  },
-  {
-    "title": "Think of the children: How to force real ID for all internet traffic (2023)",
-    "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-    "author": "Bender",
-    "date": "2026-06-19",
-    "score": 245,
-    "comments": 171,
-    "id": 48602817,
-    "discussion_url": "https://news.ycombinator.com/item?id=48602817",
-    "description": "Think of the children: How to force real ID for all internet traffic (2023)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014700"
+    "fetched_at": "2026-06-21T19:34:17.532263"
   },
   {
     "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
     "url": "https://www.lispm.net/apps/uhf-x11/",
     "author": "zdw",
     "date": "2026-06-20",
-    "score": 210,
-    "comments": 44,
+    "score": 222,
+    "comments": 51,
     "id": 48610853,
     "discussion_url": "https://news.ycombinator.com/item?id=48610853",
     "description": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
@@ -439,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014569"
+    "fetched_at": "2026-06-21T19:34:17.532164"
   },
   {
     "title": "Unauthorized alert sent to cell phones across Brazil",
     "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
     "author": "zdw",
     "date": "2026-06-20",
-    "score": 143,
-    "comments": 108,
+    "score": 188,
+    "comments": 129,
     "id": 48612502,
     "discussion_url": "https://news.ycombinator.com/item?id=48612502",
     "description": "Unauthorized alert sent to cell phones across Brazil",
@@ -456,57 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014548"
+    "fetched_at": "2026-06-21T19:34:17.532149"
   },
   {
-    "title": "When I reject AI code even if it works",
-    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-    "author": "vnbrs",
+    "title": "Who owns your ATProto identity?",
+    "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
+    "author": "kevinak",
     "date": "2026-06-21",
-    "score": 193,
-    "comments": 118,
-    "id": 48614631,
-    "discussion_url": "https://news.ycombinator.com/item?id=48614631",
-    "description": "When I reject AI code even if it works",
+    "score": 134,
+    "comments": 121,
+    "id": 48619140,
+    "discussion_url": "https://news.ycombinator.com/item?id=48619140",
+    "description": "Who owns your ATProto identity?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014663"
-  },
-  {
-    "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
-    "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
-    "author": "tcp_handshaker",
-    "date": "2026-06-20",
-    "score": 287,
-    "comments": 166,
-    "id": 48609343,
-    "discussion_url": "https://news.ycombinator.com/item?id=48609343",
-    "description": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014741"
-  },
-  {
-    "title": "Your brain was never designed for this much bad news",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-    "author": "colinprince",
-    "date": "2026-06-21",
-    "score": 234,
-    "comments": 190,
-    "id": 48615569,
-    "discussion_url": "https://news.ycombinator.com/item?id=48615569",
-    "description": "Your brain was never designed for this much bad news",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-21T11:56:47.014704"
+    "fetched_at": "2026-06-21T19:34:17.532227"
   }
 ]
