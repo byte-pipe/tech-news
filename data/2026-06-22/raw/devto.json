@@ -15,19 +15,9 @@
     "date": "2026-06-16",
     "description": "Insights on Sloan and the MLH acquisitionFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowJun 16Ask a DEV Community Mod! 🚀#discuss#co...",
     "tags": "#discuss, #community, #publicinbox, #ama",
-    "reactions": "115 reactions",
-    "comments": "Comments 71 comments",
+    "reactions": "117 reactions",
+    "comments": "Comments 76 comments",
     "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"
-  },
-  {
-    "title": "Building a Chrome Extension to Make AI Use More Intentional",
-    "author": "Julien Avezou",
-    "date": "2026-06-15",
-    "description": "Tracks cognitive cost and usage risksJulien AvezouJulien AvezouJulien AvezouFollowJun 15Building a Chrome Extension to Make AI Use More Intentional#ai...",
-    "tags": "#ai, #webdev, #productivity, #buildinpublic",
-    "reactions": "47 reactions",
-    "comments": "Comments 26 comments",
-    "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0"
   },
   {
     "title": "Congrats to the Gemma 4 Challenge Winners!",
@@ -36,7 +26,7 @@
     "description": "Record turnout for local and offline AI buildsJess LeeJess LeeJess LeeFollowforThe DEV TeamJun 18Congrats to the Gemma 4 Challenge Winners!#devchallen...",
     "tags": "#devchallenge, #gemmachallenge, #gemma",
     "reactions": "87 reactions",
-    "comments": "Comments 45 comments",
+    "comments": "Comments 48 comments",
     "url": "https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"
   },
   {
@@ -45,9 +35,19 @@
     "date": "2026-06-18",
     "description": "AI safety labs and 25-agent simulationsJess LeeJess LeeJess LeeFollowforThe DEV TeamJun 18Congrats to the Hermes Agent Challenge Winners!#hermesagentc...",
     "tags": "#hermesagentchallenge, #devchallenge, #agents",
-    "reactions": "41 reactions",
+    "reactions": "53 reactions",
     "comments": "Comments 13 comments",
     "url": "https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0"
+  },
+  {
+    "title": "Dev Opportunity Radar #4: Anthropic Fellows, $30K for Founders, and AWS She Builds",
+    "author": "Hemapriya Kanagala",
+    "date": "2026-06-19",
+    "description": "Free AI agent books and early career insightsHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowforThe DEVengersJun 19Dev Opportunity Radar #...",
+    "tags": "#discuss, #community, #resources, #opportunities",
+    "reactions": "46 reactions",
+    "comments": "Comments 13 comments",
+    "url": "https://dev.to/devengers/dev-opportunity-radar-4-anthropic-fellows-30k-for-founders-and-aws-she-builds-2a6b"
   },
   {
     "title": "End of the Year idea for DEV?",
@@ -70,24 +70,24 @@
     "url": "https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53"
   },
   {
+    "title": "I Asked AI to Write My Commit Messages It Was Embarrassing.",
+    "author": "Harsh",
+    "date": "2026-06-16",
+    "description": "Human context for future maintenanceHarshHarshHarshFollowJun 16I Asked AI to Write My Commit Messages It Was Embarrassing.#git#programming#humor#produ...",
+    "tags": "#git, #programming, #humor, #productivity",
+    "reactions": "42 reactions",
+    "comments": "Comments 33 comments",
+    "url": "https://dev.to/harsh2644/i-asked-ai-to-write-my-commit-messages-it-was-embarrassing-a6i"
+  },
+  {
     "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
     "author": "Aria Heller",
     "date": "2026-06-18",
     "description": "Aria HellerAria HellerAria HellerFollowforGoogle AIJun 18I'm not a developer, but I built a calendar app to fix my most annoying work task#discuss#ai#...",
     "tags": "#discuss, #ai, #productivity, #beginners",
-    "reactions": "19 reactions",
-    "comments": "Comments 1 comment",
+    "reactions": "29 reactions",
+    "comments": "Comments 2 comments",
     "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4"
-  },
-  {
-    "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
-    "author": "Hemapriya Kanagala",
-    "date": "2026-06-15",
-    "description": "June Solstice Game Jam SubmissionHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowJun 15Letters to Tomorrow: A June Solstice Game About the...",
-    "tags": "#discuss, #devchallenge, #gamechallenge, #gamedev",
-    "reactions": "69 reactions",
-    "comments": "Comments 33 comments",
-    "url": "https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"
   },
   {
     "title": "Most Engineers Use AI. Few Engineer With It.",
@@ -96,7 +96,7 @@
     "description": "The shift from syntax to system designJeel VankhedeJeel VankhedeJeel VankhedeFollowJun 17Most Engineers Use AI. Few Engineer With It.#ai#productivity#...",
     "tags": "#ai, #productivity, #softwareengineering, #programing",
     "reactions": "26 reactions",
-    "comments": "Comments 19 comments",
+    "comments": "Comments 21 comments",
     "url": "https://dev.to/jeelvankhede/most-engineers-use-ai-few-engineer-with-it-3pd"
   },
   {
@@ -120,6 +120,16 @@
     "url": "https://dev.to/cathylai/tailwind-css4-why-those-inline-styles-are-actually-more-scalable-a-senior-css-developers-guide-hdj"
   },
   {
+    "title": "The Principle of Least AI",
+    "author": "Ingo Steinke, web developer",
+    "date": "2026-06-22",
+    "description": "Rubber ducking and avoiding AI flatteryIngo Steinke, web developerIngo Steinke, web developerIngo Steinke, web developerFollowJun 22The Principle of L...",
+    "tags": "#watercooler, #ai, #productivity",
+    "reactions": "32 reactions",
+    "comments": "Comments 5 comments",
+    "url": "https://dev.to/ingosteinke/the-principle-of-least-ai-4jc0"
+  },
+  {
     "title": "Top 7 Featured DEV Posts of the Week",
     "author": "Jess Lee",
     "date": "2026-06-16",
@@ -135,8 +145,8 @@
     "date": "2026-06-18",
     "description": "June Solstice Game Jam SubmissionDaniel BalcarekDaniel BalcarekDaniel BalcarekFollowJun 18Tower Before Dusk: I Built a Puzzle Game for Humans and AI#d...",
     "tags": "#devchallenge, #gamechallenge, #gamedev, #ai",
-    "reactions": "51 reactions",
-    "comments": "Comments 44 comments",
+    "reactions": "53 reactions",
+    "comments": "Comments 45 comments",
     "url": "https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao"
   },
   {
@@ -145,8 +155,8 @@
     "date": "2026-06-17",
     "description": "Devs sharing stacks and side projectsSloan the DEV ModeratorSloan the DEV ModeratorSloan the DEV ModeratorFollowforThe DEV TeamJun 17Welcome Thread - ...",
     "tags": "#welcome",
-    "reactions": "91 reactions",
-    "comments": "Comments 428 comments",
+    "reactions": "94 reactions",
+    "comments": "Comments 453 comments",
     "url": "https://dev.to/devteam/welcome-thread-v380-oi4"
   },
   {
@@ -160,23 +170,13 @@
     "url": "https://dev.to/lovestaco/what-does-the-windows-refresh-button-really-do-4kh"
   },
   {
-    "title": "What are your goals for the week? #183",
-    "author": "Chris Jarvis",
-    "date": "2026-06-15",
-    "description": "Docker and Gleam learning goalsChris JarvisChris JarvisChris JarvisFollowJun 15What are your goals for the week? #183#discuss#career#devjournal#produc...",
-    "tags": "#discuss, #career, #devjournal, #productivity",
-    "reactions": "16 reactions",
-    "comments": "Comments 10 comments",
-    "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-183-2hp3"
-  },
-  {
     "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
     "author": "Sylwia Laskowska",
     "date": "2026-06-18",
     "description": "Safe framework migration tips from JSNationSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowJun 18Who Here Has Worked with Legacy? The Longer You...",
     "tags": "#javascript, #webdev, #programming, #architecture",
-    "reactions": "121 reactions",
-    "comments": "Comments 52 comments",
+    "reactions": "123 reactions",
+    "comments": "Comments 55 comments",
     "url": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk"
   }
 ]

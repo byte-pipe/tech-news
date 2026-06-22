@@ -1,332 +1,167 @@
 [
   {
-    "title": "Apertus – Open Foundation Model for Sovereign AI",
-    "url": "https://apertvs.ai/",
-    "description": "Apertus – Open Foundation Model for Sovereign AI",
-    "date": "2026-06-21",
-    "score": 447,
-    "comments": 149,
-    "discussion_url": "https://news.ycombinator.com/item?id=48622778",
+    "title": "Alan Greenspan has died",
+    "url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
+    "description": "Alan Greenspan has died",
+    "date": "2026-06-22",
+    "score": 167,
+    "comments": 174,
+    "discussion_url": "https://news.ycombinator.com/item?id=48628731",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.705980"
+    "fetched_at": "2026-06-22T20:05:17.015343"
   },
   {
     "title": "Codex logging bug may write TBs to local SSDs",
     "url": "https://github.com/openai/codex/issues/28224",
     "description": "Codex logging bug may write TBs to local SSDs",
     "date": "2026-06-22",
-    "score": 200,
-    "comments": 105,
+    "score": 400,
+    "comments": 218,
     "discussion_url": "https://news.ycombinator.com/item?id=48626930",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.705852"
-  },
-  {
-    "title": "Danish privacy activist Lars Andersen raided by police",
-    "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-    "description": "Danish privacy activist Lars Andersen raided by police",
-    "date": "2026-06-22",
-    "score": 302,
-    "comments": 259,
-    "discussion_url": "https://news.ycombinator.com/item?id=48625823",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.705903"
+    "fetched_at": "2026-06-22T20:05:17.015362"
   },
   {
     "title": "Deno Desktop",
     "url": "https://docs.deno.com/runtime/desktop/",
     "description": "Deno Desktop",
     "date": "2026-06-22",
-    "score": 626,
-    "comments": 229,
+    "score": 938,
+    "comments": 346,
     "discussion_url": "https://news.ycombinator.com/item?id=48626137",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.705892"
-  },
-  {
-    "title": "Did my old job only exist because of fraud?",
-    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-    "description": "Did my old job only exist because of fraud?",
-    "date": "2026-06-21",
-    "score": 655,
-    "comments": 286,
-    "discussion_url": "https://news.ycombinator.com/item?id=48622867",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.705968"
-  },
-  {
-    "title": "Everything is logarithms",
-    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "description": "Everything is logarithms",
-    "date": "2026-06-21",
-    "score": 248,
-    "comments": 52,
-    "discussion_url": "https://news.ycombinator.com/item?id=48622626",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.706000"
+    "fetched_at": "2026-06-22T20:05:17.015387"
   },
   {
     "title": "GLM 5.2 vs. Opus",
     "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
     "description": "GLM 5.2 vs. Opus",
     "date": "2026-06-22",
-    "score": 210,
-    "comments": 166,
+    "score": 426,
+    "comments": 289,
     "discussion_url": "https://news.ycombinator.com/item?id=48626866",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.705878"
-  },
-  {
-    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-    "description": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-    "date": "2026-06-21",
-    "score": 166,
-    "comments": 32,
-    "discussion_url": "https://news.ycombinator.com/item?id=48623434",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.705925"
+    "fetched_at": "2026-06-22T20:05:17.015376"
   },
   {
     "title": "Help I accidentally a wigglegram",
     "url": "https://lmao.center/blog/wiggle-accidents/",
     "description": "Help I accidentally a wigglegram",
     "date": "2026-06-20",
-    "score": 344,
-    "comments": 72,
+    "score": 444,
+    "comments": 113,
     "discussion_url": "https://news.ycombinator.com/item?id=48605561",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.706072"
+    "fetched_at": "2026-06-22T20:05:17.015399"
   },
   {
-    "title": "How I play video games with spinal muscular atrophy",
-    "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
-    "description": "How I play video games with spinal muscular atrophy",
-    "date": "2026-06-18",
-    "score": 133,
-    "comments": 17,
-    "discussion_url": "https://news.ycombinator.com/item?id=48589687",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.706092"
-  },
-  {
-    "title": "Identity verification on Claude",
-    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-    "description": "Identity verification on Claude",
-    "date": "2026-06-21",
-    "score": 808,
-    "comments": 677,
-    "discussion_url": "https://news.ycombinator.com/item?id=48618455",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.706041"
-  },
-  {
-    "title": "JSON-LD explained for personal websites",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "description": "JSON-LD explained for personal websites",
-    "date": "2026-06-21",
-    "score": 239,
-    "comments": 75,
-    "discussion_url": "https://news.ycombinator.com/item?id=48621517",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.706021"
-  },
-  {
-    "title": "Japanese verb conjugation the simple hard way",
-    "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
-    "description": "Japanese verb conjugation the simple hard way",
-    "date": "2026-06-21",
-    "score": 121,
-    "comments": 182,
-    "discussion_url": "https://news.ycombinator.com/item?id=48623419",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.705935"
-  },
-  {
-    "title": "Memory Safe Inline Assembly",
-    "url": "https://fil-c.org/inlineasm",
-    "description": "Memory Safe Inline Assembly",
-    "date": "2026-06-20",
-    "score": 131,
-    "comments": 29,
-    "discussion_url": "https://news.ycombinator.com/item?id=48606096",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.706062"
-  },
-  {
-    "title": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
-    "description": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
-    "date": "2026-06-17",
-    "score": 169,
-    "comments": 71,
-    "discussion_url": "https://news.ycombinator.com/item?id=48567028",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.706102"
-  },
-  {
-    "title": "Munich 1991: The Roots of the Current AI Boom",
-    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-    "description": "Munich 1991: The Roots of the Current AI Boom",
-    "date": "2026-06-19",
-    "score": 121,
-    "comments": 48,
-    "discussion_url": "https://news.ycombinator.com/item?id=48599998",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.706082"
-  },
-  {
-    "title": "PowerFox Browser",
-    "url": "https://powerfox.jazzzny.me/",
-    "description": "PowerFox Browser",
-    "date": "2026-06-21",
-    "score": 149,
-    "comments": 41,
-    "discussion_url": "https://news.ycombinator.com/item?id=48622731",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.705990"
-  },
-  {
-    "title": "Rent collections are down in New York",
-    "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-    "description": "Rent collections are down in New York",
-    "date": "2026-06-21",
-    "score": 101,
-    "comments": 410,
-    "discussion_url": "https://news.ycombinator.com/item?id=48622987",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.705956"
-  },
-  {
-    "title": "Sakana Fugu",
-    "url": "https://sakana.ai/fugu/",
-    "description": "Sakana Fugu",
+    "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
+    "url": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
+    "description": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
     "date": "2026-06-22",
-    "score": 147,
-    "comments": 91,
-    "discussion_url": "https://news.ycombinator.com/item?id=48624782",
+    "score": 111,
+    "comments": 77,
+    "discussion_url": "https://news.ycombinator.com/item?id=48632652",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.705914"
+    "fetched_at": "2026-06-22T20:05:17.015253"
   },
   {
-    "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
-    "url": "https://the-criterion-closet.vercel.app",
-    "description": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
-    "date": "2026-06-20",
-    "score": 144,
-    "comments": 44,
-    "discussion_url": "https://news.ycombinator.com/item?id=48609054",
+    "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+    "url": "https://hustvl.github.io/Moebius/",
+    "description": "Moebius: 0.2B image inpainting model with 10B-level performance",
+    "date": "2026-06-22",
+    "score": 164,
+    "comments": 46,
+    "discussion_url": "https://news.ycombinator.com/item?id=48630171",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.706051"
+    "fetched_at": "2026-06-22T20:05:17.015320"
   },
   {
-    "title": "Show HN: Teach your kids perfect pitch",
-    "url": "https://github.com/paytonjjones/bsharp",
-    "description": "Show HN: Teach your kids perfect pitch",
-    "date": "2026-06-21",
-    "score": 165,
-    "comments": 108,
-    "discussion_url": "https://news.ycombinator.com/item?id=48618488",
+    "title": "NSF slashes research programs to support new tech initiative, insiders say",
+    "url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
+    "description": "NSF slashes research programs to support new tech initiative, insiders say",
+    "date": "2026-06-22",
+    "score": 122,
+    "comments": 53,
+    "discussion_url": "https://news.ycombinator.com/item?id=48632327",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.706031"
+    "fetched_at": "2026-06-22T20:05:17.015294"
   },
   {
-    "title": "There is minimal downside to switching to open models",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "description": "There is minimal downside to switching to open models",
-    "date": "2026-06-21",
-    "score": 282,
-    "comments": 231,
-    "discussion_url": "https://news.ycombinator.com/item?id=48622518",
+    "title": "Pledging another $400k to the Zig software foundation",
+    "url": "https://mitchellh.com/writing/zig-donation-2026",
+    "description": "Pledging another $400k to the Zig software foundation",
+    "date": "2026-06-22",
+    "score": 617,
+    "comments": 201,
+    "discussion_url": "https://news.ycombinator.com/item?id=48630020",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-22T13:05:36.706011"
+    "fetched_at": "2026-06-22T20:05:17.015332"
+  },
+  {
+    "title": "Steam Machine",
+    "url": "https://store.steampowered.com/hardware/steammachine",
+    "description": "Steam Machine",
+    "date": "2026-06-22",
+    "score": 614,
+    "comments": 551,
+    "discussion_url": "https://news.ycombinator.com/item?id=48632884",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-22T20:05:17.015228"
+  },
+  {
+    "title": "The text in Claude Code’s “Extended Thinking” output",
+    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "description": "The text in Claude Code’s “Extended Thinking” output",
+    "date": "2026-06-22",
+    "score": 225,
+    "comments": 168,
+    "discussion_url": "https://news.ycombinator.com/item?id=48630535",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-22T20:05:17.015308"
   }
 ]
