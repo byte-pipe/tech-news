@@ -1,66 +1,85 @@
 ---
-date: '2026-06-22'
+date: '2026-06-23'
 model: gpt-oss:120b-cloud
-generated_at: '2026-06-22T00:55:06.860960'
+generated_at: '2026-06-23T10:23:37.345378'
 ---
 
 ## Executive Summary
-- Open‑source developers released **FreeLLMAPI**, a proxy that aggregates free tiers from 16 LLM providers into a single OpenAI‑compatible endpoint, dramatically expanding affordable AI access.  
-- Bayer AG unveiled **PRINCE**, an agentic RAG platform that combines retrieval, text‑to‑SQL, and multi‑agent orchestration to streamline pre‑clinical drug‑development research.  
-- A hacker‑suspected “misanthropy” emergency alert swept Brazil’s cell‑broadcast system, exposing vulnerabilities in national alert infrastructure.  
-- A critical Linux kernel use‑after‑free (CVE‑2026‑23111) was publicly exploited, underscoring the need for rapid patching of container‑host configurations.  
-- The indie RTS **Beyond All Reason** and the at‑home Lyme‑tick test each gained notable traction, reflecting strong community interest in free‑to‑play gaming and consumer health diagnostics.
+- Canada’s energy minister unveiled a “nuclear renaissance” plan to build up to ten reactors by 2040, a move that has already sparked political debate.  
+- A newly disclosed, unpatchable Boot ROM flaw in Apple’s A12/A13 chips (usbliter8) puts older iPhones at permanent risk, while a court ruled the federal SAVE voter‑verification system unlawful for violating privacy statutes.  
+- Law‑enforcement misuse of the Flock license‑plate reader system continues to surface, underscoring calls for warrant‑based access to LPR data.  
+- Historical research highlights that the core techniques powering today’s generative AI were first introduced in a single month of 1991 at the Technical University of Munich.  
+- Across the tech ecosystem, developers are grappling with prompt‑injection attacks, open‑source video‑editor rewrites, and the hidden proxy‑SDK epidemic in smart‑TV apps.
 
 ---
 
 ## AI and Machine Learning
 
-### FreeLLMAPI – OpenAI‑compatible proxy for free LLM tiers [github]  
-A community‑maintained proxy aggregates roughly 1.7 B free tokens per month from 16 providers, exposing a unified `/v1/chat/completions` endpoint compatible with SDKs, LangChain, and other tooling. The service handles rate‑limit fallback, sticky sessions, and offers a lightweight Docker deployment.
+### Server Access Logs with GoAccess – DEV Community  
+A developer set up a Jetson Orin Nano web server and uses GoAccess to view real‑time traffic both in the terminal and via a custom HTML dashboard behind an Nginx reverse proxy, with plans to add alerting agents.
 
-### Building Reliable Agentic AI Systems [hnrss]  
-Bayer AG’s PRINCE platform demonstrates how context and harness engineering can make agentic Retrieval‑Augmented Generation trustworthy for preclinical data, using specialized agents for intent clarification, retrieval, validation, and document drafting, all with source citations and confidence scores.
+### Energy minister plans ‘nuclear renaissance’ with up to 10 reactors built by 2040 – CBC News **(Trending)**  
+Canada aims to double its electricity‑grid capacity and nuclear workforce by constructing up to ten reactors—including the country’s first G7 small‑modular reactor—by 2040, a $100 billion program that faces political pushback over cost, regulation and Indigenous concerns.
 
-### Meet Alice. Alice is impatient. [hnrss]  
-The post explains the inspection paradox, showing why users perceive average latency and outage times as far longer than engineering‑reported means, and argues that reducing tail latency is essential for improving real‑world user experience.
+### Munich 1991: the Roots of the Current AI Boom – Hacker News  
+A 1991 breakthrough timeline from Jürgen Schmidhuber’s lab introduced the first linear transformer, unsupervised pre‑training, network distillation, deep residual learning and early GAN concepts, all of which now underpin modern LLMs and generative AI.
 
-### Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis | Nature [newsfeed]  
-A correction clarifies the antibodies and plasmid identifiers used in the 2019 Nature study on autophagic cell death, ensuring reproducibility of the original findings on cancer‑related chromosomal instability.
+### Steam Hardware – Steam Machine launches today! – Steam News  
+Valve announced the commercial release of its Steam Machine hardware, marking the company’s first foray into dedicated gaming consoles after years of software‑only focus.
+
+### Prompt Injection as Role Confusion – HNRSS  
+The article explains how LLMs treat the entire conversation as a single token stream, making them vulnerable when role tags (e.g., `tool`, `think`) are mis‑interpreted, and proposes stricter role‑parsing defenses to curb adaptive prompt‑injection attacks.
 
 ---
 
 ## Cybersecurity and Privacy
 
-### Trending – Brazil: Hackers suspected behind unauthorized alert sent to cell phones across Brazil | CNN [hackernews_api]  
-A spurious “misantropi4” emergency message was broadcast via Cellbroadcast and SMS in multiple states, prompting Brazil’s civil defense to shut down the platform while investigators trace the hack. The incident highlights weaknesses in national alert systems that can be weaponized for misinformation.
+### A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak – TechCrunch  
+Paradigm Shift disclosed “usbliter8,” a Boot ROM vulnerability in Apple A12/A13 chips that cannot be patched; exploitation requires physical access and forces users of affected iPhones (2018‑2019 models) to upgrade hardware for protection.
 
-### One‑Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public [tldr]  
-CVE‑2026‑23111, a single‑character use‑after‑free in nf_tables, allows unprivileged users to gain root and escape containers; patches were released in February 2026, but public exploits surfaced in April, making immediate kernel updates and namespace hardening critical.
+### Judge finds a Trump data system to verify voters is unlawful – NPR  
+A federal judge ruled the expanded SAVE system, which bulk‑checked over 60 million voter records, illegal under the Privacy, Social Security and Administrative Procedure Acts, ordering an immediate suspension pending appeal.
+
+### Path traversal flaw in AI dev platform Langflow exploited in attacks – TLDR  
+CVE‑2026‑5027 allows unauthenticated attackers to write arbitrary files via unsanitized filenames in Langflow’s upload endpoint; active exploitation has been observed on thousands of exposed instances, and users are urged to upgrade to version 1.10.0.
 
 ---
 
 ## Software Engineering and Dev Tools
 
-### Trending – Beyond All Reason ★ RTS [hackernews_api]  
-The free RTS game delivers massive, physics‑driven battles with terrain deformation and supports thousands of units, recently adding a new map and preparing a Steam release; community praise centers on its scale and open‑source development model.
+### I Wish I Had Started Documenting My Tech Journey Earlier – DEV Community  
+The author reflects on missed opportunities caused by fear of imperfection, urging developers to chronicle their work early to preserve learning, gain community feedback, and build a living portfolio.
 
-### Trending – Lyme disease tick test: Home test kit seeks to limit spread [hackernews_api]  
-LymeAlert offers a $40, 15‑minute at‑home assay that grinds ticks and detects Borrelia DNA on a color‑changing strip, aiming to cut ER visits and enable rapid treatment; future versions will expand pathogen coverage and feed crowd‑sourced data into AI‑driven spread models.
+### OpenCut – GitHub  
+OpenCut is an open‑source CapCut alternative undergoing a full rewrite with a Rust core, plugin‑first architecture, AI‑agent integration and headless batch rendering; contributions are paused until the new design stabilises.
 
-### Running microVMs in Proxmox VE, The Easy Way - Tao of Mac [hnrss]  
-The `pve‑microvm` package adds a QEMU microVM machine type to Proxmox, delivering sub‑300 ms boot times and container‑like isolation by using a host‑side kernel and OCI‑based root filesystems, simplifying lightweight workload deployment.
+### Flock‑Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed – Hacker News **(Trending)**  
+Investigative reporting reveals multiple police chiefs abusing the Flock license‑plate reader to track personal contacts, prompting civil‑rights groups to demand judicial warrants for any LPR data access.
 
-### zeux.io - Zigzag decoding with AVX‑512 [hnrss]  
-The article shows how AVX‑512 mask instructions can implement zigzag integer decoding with three instructions instead of four, reducing uop count and potentially improving throughput on Zen 4 CPUs for high‑volume data processing.
+### Jobs and Software is Fucked – On Games And Design – Hacker News  
+A former Blizzard engineer details how mandatory coding tests, AI‑driven hiring tools, and opaque resume screening have turned software job hunting into a demoralising obstacle course.
 
-### Andy Burnham says Israel would be his first overseas visit in old clip | Al Jazeera [newsfeed]  
-An archival video resurfaced showing UK Labour leader Andy Burnham stating his first foreign trip as Prime Minister would be to Israel, reigniting debate over his stance on the Israel‑Palestine conflict.
+### Free Online Logic Puzzles, Sudoku, Nonograms, Kakuro & More – Puzzle Lair  
+Puzzle Lair releases a new daily logic puzzle (today’s Nonogram) alongside a suite of ad‑free Sudoku‑style games, tracking over 3,000 solved puzzles across ten puzzle types.
 
-### Aura's impressive e‑ink photo frame doesn't even look digital | TechCrunch [newsfeed]  
-TechCrunch reviews AuraInk, a $499 color e‑ink photo frame that uses dithering to simulate a six‑color palette, delivering a paper‑like display with low eye strain, though color fidelity remains limited compared to LED alternatives.
+### My Mathematical Regression – blog.dahl.dev  
+Revisiting a ten‑year‑old Project Euler solution, the author shows how a simple combinatorial formula solves the lattice‑path problem and muses that today they would likely hand such tasks to an AI.
+
+### Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs – HNRSS  
+A scan of 6,038 LG and Samsung TV apps found ~33 % embed residential‑proxy SDKs that silently route traffic through users’ home IPs, raising privacy and security concerns absent from platform policies.
+
+### oak – Open‑source VCS for AI agents – HNRSS  
+Oak provides a Git‑like version control system optimized for AI agents, featuring branch‑per‑session workflows, lazy content‑addressed mounts and a CLI/binary that runs on macOS and Linux.
+
+---
+
+## Science and Research
+
+### A Source of Mysterious Repeating Radio Signals From Space Has Been Identified – WIRED  
+Researchers using ASKAP identified the repeating radio transient ASKAP J1745‑08.9‑505149 as a magnetic cataclysmic variable—a white dwarf accreting from an M‑type companion—providing the first concrete binary explanation for long‑period radio transients.
 
 ---
 
 ## Notable Mentions
-- Andy Burnham’s resurfaced clip on Israel (Al Jazeera).  
-- AuraInk e‑ink photo frame review (TechCrunch).
+- 15 killed after a fire ignited in a coaching centre in Lucknow, India | Investigation News | Al Jazeera  
+- A promising natural technique to remove CO₂ could backfire | New Scientist
