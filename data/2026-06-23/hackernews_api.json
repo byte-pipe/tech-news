@@ -1,28 +1,45 @@
 [
   {
-    "title": "Alan Greenspan has died",
-    "url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
-    "author": "helsinkiandrew",
-    "date": "2026-06-22",
-    "score": 199,
-    "comments": 200,
-    "id": 48628731,
-    "discussion_url": "https://news.ycombinator.com/item?id=48628731",
-    "description": "Alan Greenspan has died",
+    "title": "1,700 free online courses from top universities",
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "author": "momentmaker",
+    "date": "2026-06-23",
+    "score": 210,
+    "comments": 33,
+    "id": 48639184,
+    "discussion_url": "https://news.ycombinator.com/item?id=48639184",
+    "description": "1,700 free online courses from top universities",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563870"
+    "fetched_at": "2026-06-23T12:04:18.642558"
+  },
+  {
+    "title": "British Columbia, Time Zones, and Postgres",
+    "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+    "author": "sprawl_",
+    "date": "2026-06-22",
+    "score": 133,
+    "comments": 97,
+    "id": 48634787,
+    "discussion_url": "https://news.ycombinator.com/item?id=48634787",
+    "description": "British Columbia, Time Zones, and Postgres",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T12:04:18.642577"
   },
   {
     "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
     "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
     "author": "geox",
-    "date": "2026-06-23",
-    "score": 233,
-    "comments": 111,
+    "date": "2026-06-22",
+    "score": 507,
+    "comments": 350,
     "id": 48634585,
     "discussion_url": "https://news.ycombinator.com/item?id=48634585",
     "description": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
@@ -31,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564105"
+    "fetched_at": "2026-06-23T12:04:18.642470"
   },
   {
     "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
     "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
     "author": "cdrnsf",
     "date": "2026-06-22",
-    "score": 114,
-    "comments": 105,
+    "score": 145,
+    "comments": 136,
     "id": 48630029,
     "discussion_url": "https://news.ycombinator.com/item?id=48630029",
     "description": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
@@ -48,15 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563571"
+    "fetched_at": "2026-06-23T12:04:18.642506"
   },
   {
     "title": "Codex logging bug may write TBs to local SSDs",
     "url": "https://github.com/openai/codex/issues/28224",
     "author": "vantareed",
     "date": "2026-06-22",
-    "score": 461,
-    "comments": 252,
+    "score": 487,
+    "comments": 266,
     "id": 48626930,
     "discussion_url": "https://news.ycombinator.com/item?id=48626930",
     "description": "Codex logging bug may write TBs to local SSDs",
@@ -65,32 +82,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563941"
+    "fetched_at": "2026-06-23T12:04:18.642597"
   },
   {
-    "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
-    "url": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
-    "author": "julienchastang",
-    "date": "2026-06-23",
-    "score": 120,
-    "comments": 52,
-    "id": 48631058,
-    "discussion_url": "https://news.ycombinator.com/item?id=48631058",
-    "description": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
+    "title": "Cyberdecks, going analog, and convivial technology",
+    "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+    "author": "akkartik",
+    "date": "2026-06-20",
+    "score": 114,
+    "comments": 68,
+    "id": 48605776,
+    "discussion_url": "https://news.ycombinator.com/item?id=48605776",
+    "description": "Cyberdecks, going analog, and convivial technology",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564400"
+    "fetched_at": "2026-06-23T12:04:18.642460"
   },
   {
     "title": "Deno Desktop",
     "url": "https://docs.deno.com/runtime/desktop/",
     "author": "GeneralMaximus",
     "date": "2026-06-22",
-    "score": 1012,
-    "comments": 368,
+    "score": 1075,
+    "comments": 387,
     "id": 48626137,
     "discussion_url": "https://news.ycombinator.com/item?id=48626137",
     "description": "Deno Desktop",
@@ -99,32 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563611"
+    "fetched_at": "2026-06-23T12:04:18.642494"
   },
   {
-    "title": "Did my old job only exist because of fraud?",
-    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-    "author": "advisedwang",
+    "title": "DisplayMate",
+    "url": "https://www.displaymate.com/",
+    "author": "skibz",
     "date": "2026-06-22",
-    "score": 796,
-    "comments": 388,
-    "id": 48622867,
-    "discussion_url": "https://news.ycombinator.com/item?id=48622867",
-    "description": "Did my old job only exist because of fraud?",
+    "score": 113,
+    "comments": 33,
+    "id": 48632613,
+    "discussion_url": "https://news.ycombinator.com/item?id=48632613",
+    "description": "DisplayMate",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564494"
+    "fetched_at": "2026-06-23T12:04:18.642534"
   },
   {
     "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
     "url": "https://ipvm.com/reports/police-chiefs-track",
     "author": "jhonovich",
-    "date": "2026-06-23",
-    "score": 284,
-    "comments": 104,
+    "date": "2026-06-22",
+    "score": 539,
+    "comments": 248,
     "id": 48634694,
     "discussion_url": "https://news.ycombinator.com/item?id=48634694",
     "description": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
@@ -133,32 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563904"
+    "fetched_at": "2026-06-23T12:04:18.642490"
   },
   {
-    "title": "GLM 5.2 vs. Opus",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "author": "ritzaco",
+    "title": "GLM-5.2 – How to Run Locally",
+    "url": "https://unsloth.ai/docs/models/glm-5.2",
+    "author": "TechTechTech",
     "date": "2026-06-22",
-    "score": 478,
-    "comments": 318,
-    "id": 48626866,
-    "discussion_url": "https://news.ycombinator.com/item?id=48626866",
-    "description": "GLM 5.2 vs. Opus",
+    "score": 425,
+    "comments": 188,
+    "id": 48636377,
+    "discussion_url": "https://news.ycombinator.com/item?id=48636377",
+    "description": "GLM-5.2 – How to Run Locally",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564032"
+    "fetched_at": "2026-06-23T12:04:18.642424"
   },
   {
     "title": "Help I accidentally a wigglegram",
     "url": "https://lmao.center/blog/wiggle-accidents/",
     "author": "gregsadetsky",
     "date": "2026-06-20",
-    "score": 476,
-    "comments": 120,
+    "score": 542,
+    "comments": 124,
     "id": 48605561,
     "discussion_url": "https://news.ycombinator.com/item?id=48605561",
     "description": "Help I accidentally a wigglegram",
@@ -167,100 +184,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563630"
+    "fetched_at": "2026-06-23T12:04:18.642464"
   },
   {
-    "title": "Jobs and Software Is Fucked",
-    "url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
-    "author": "speckx",
+    "title": "In praise of memcached",
+    "url": "https://jchri.st/blog/in-praise-of-memcached/",
+    "author": "j03b",
     "date": "2026-06-23",
-    "score": 264,
-    "comments": 218,
-    "id": 48635112,
-    "discussion_url": "https://news.ycombinator.com/item?id=48635112",
-    "description": "Jobs and Software Is Fucked",
+    "score": 185,
+    "comments": 65,
+    "id": 48638886,
+    "discussion_url": "https://news.ycombinator.com/item?id=48638886",
+    "description": "In praise of memcached",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564448"
+    "fetched_at": "2026-06-23T12:04:18.642416"
   },
   {
-    "title": "Linux and Secure Boot certificate expiration (2025)",
-    "url": "https://lwn.net/Articles/1029767/",
-    "author": "weaksauce",
-    "date": "2026-06-23",
-    "score": 96,
-    "comments": 50,
-    "id": 48633941,
-    "discussion_url": "https://news.ycombinator.com/item?id=48633941",
-    "description": "Linux and Secure Boot certificate expiration (2025)",
+    "title": "Japanese symbols that speak without words",
+    "url": "https://arun.is/blog/japan-symbols/",
+    "author": "msephton",
+    "date": "2026-06-22",
+    "score": 179,
+    "comments": 116,
+    "id": 48634803,
+    "discussion_url": "https://news.ycombinator.com/item?id=48634803",
+    "description": "Japanese symbols that speak without words",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564190"
+    "fetched_at": "2026-06-23T12:04:18.642562"
   },
   {
-    "title": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon",
-    "url": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
-    "author": "speckx",
-    "date": "2026-06-23",
-    "score": 99,
-    "comments": 30,
-    "id": 48634559,
-    "discussion_url": "https://news.ycombinator.com/item?id=48634559",
-    "description": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon",
+    "title": "Job application asked for my SAT scores",
+    "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+    "author": "seltzerboys",
+    "date": "2026-06-22",
+    "score": 138,
+    "comments": 342,
+    "id": 48636062,
+    "discussion_url": "https://news.ycombinator.com/item?id=48636062",
+    "description": "Job application asked for my SAT scores",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563678"
-  },
-  {
-    "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
-    "url": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
-    "author": "speckx",
-    "date": "2026-06-23",
-    "score": 176,
-    "comments": 153,
-    "id": 48632652,
-    "discussion_url": "https://news.ycombinator.com/item?id=48632652",
-    "description": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564238"
-  },
-  {
-    "title": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
-    "author": "ObviouslyFlamer",
-    "date": "2026-06-17",
-    "score": 200,
-    "comments": 104,
-    "id": 48567028,
-    "discussion_url": "https://news.ycombinator.com/item?id=48567028",
-    "description": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564510"
+    "fetched_at": "2026-06-23T12:04:18.642554"
   },
   {
     "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
     "url": "https://hustvl.github.io/Moebius/",
     "author": "DSemba",
     "date": "2026-06-22",
-    "score": 216,
-    "comments": 64,
+    "score": 300,
+    "comments": 74,
     "id": 48630171,
     "discussion_url": "https://news.ycombinator.com/item?id=48630171",
     "description": "Moebius: 0.2B image inpainting model with 10B-level performance",
@@ -269,15 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564068"
+    "fetched_at": "2026-06-23T12:04:18.642440"
   },
   {
     "title": "Munich 1991: The Roots of the Current AI Boom",
     "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
     "author": "tosh",
-    "date": "2026-06-20",
-    "score": 208,
-    "comments": 92,
+    "date": "2026-06-19",
+    "score": 224,
+    "comments": 98,
     "id": 48599998,
     "discussion_url": "https://news.ycombinator.com/item?id=48599998",
     "description": "Munich 1991: The Roots of the Current AI Boom",
@@ -286,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563980"
+    "fetched_at": "2026-06-23T12:04:18.642582"
   },
   {
     "title": "My Mathematical Regression",
     "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
     "author": "aleda145",
     "date": "2026-06-19",
-    "score": 182,
-    "comments": 63,
+    "score": 318,
+    "comments": 118,
     "id": 48597221,
     "discussion_url": "https://news.ycombinator.com/item?id=48597221",
     "description": "My Mathematical Regression",
@@ -303,49 +286,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564256"
+    "fetched_at": "2026-06-23T12:04:18.642403"
   },
   {
-    "title": "NSF slashes research programs to support new tech initiative, insiders say",
-    "url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
-    "author": "strangeloops85",
+    "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+    "url": "https://openai.com/index/daybreak-securing-the-world/",
+    "author": "AaronO",
     "date": "2026-06-23",
-    "score": 141,
-    "comments": 81,
-    "id": 48632327,
-    "discussion_url": "https://news.ycombinator.com/item?id=48632327",
-    "description": "NSF slashes research programs to support new tech initiative, insiders say",
+    "score": 127,
+    "comments": 76,
+    "id": 48639063,
+    "discussion_url": "https://news.ycombinator.com/item?id=48639063",
+    "description": "OpenAI DayBreak – GPT-5.5-Cyber",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564352"
+    "fetched_at": "2026-06-23T12:04:18.642474"
   },
   {
-    "title": "Nearly half of LG smart TV apps contain residential proxy SDKs",
-    "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
-    "author": "microcode",
-    "date": "2026-06-23",
-    "score": 182,
-    "comments": 123,
-    "id": 48635954,
-    "discussion_url": "https://news.ycombinator.com/item?id=48635954",
-    "description": "Nearly half of LG smart TV apps contain residential proxy SDKs",
+    "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+    "url": "https://github.com/dorukkumkumoglu/optocamzero",
+    "author": "iamnothere",
+    "date": "2026-06-22",
+    "score": 185,
+    "comments": 50,
+    "id": 48634778,
+    "discussion_url": "https://news.ycombinator.com/item?id=48634778",
+    "description": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563698"
+    "fetched_at": "2026-06-23T12:04:18.642453"
   },
   {
     "title": "Pledging another $400k to the Zig software foundation",
     "url": "https://mitchellh.com/writing/zig-donation-2026",
     "author": "tosh",
     "date": "2026-06-22",
-    "score": 710,
-    "comments": 239,
+    "score": 787,
+    "comments": 267,
     "id": 48630020,
     "discussion_url": "https://news.ycombinator.com/item?id=48630020",
     "description": "Pledging another $400k to the Zig software foundation",
@@ -354,15 +337,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563524"
+    "fetched_at": "2026-06-23T12:04:18.642538"
+  },
+  {
+    "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+    "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+    "author": "Vaslo",
+    "date": "2026-06-21",
+    "score": 376,
+    "comments": 278,
+    "id": 48614715,
+    "discussion_url": "https://news.ycombinator.com/item?id=48614715",
+    "description": "Polymarket has flooded social media with deceptive videos by paid creators",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T12:04:18.642369"
   },
   {
     "title": "Prompt Injection as Role Confusion",
     "url": "https://role-confusion.github.io",
     "author": "x312",
-    "date": "2026-06-23",
-    "score": 138,
-    "comments": 76,
+    "date": "2026-06-22",
+    "score": 198,
+    "comments": 102,
     "id": 48631888,
     "discussion_url": "https://news.ycombinator.com/item?id=48631888",
     "description": "Prompt Injection as Role Confusion",
@@ -371,32 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563721"
-  },
-  {
-    "title": "Sakana Fugu",
-    "url": "https://sakana.ai/fugu/",
-    "author": "Finbarr",
-    "date": "2026-06-22",
-    "score": 212,
-    "comments": 116,
-    "id": 48624782,
-    "discussion_url": "https://news.ycombinator.com/item?id=48624782",
-    "description": "Sakana Fugu",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564336"
+    "fetched_at": "2026-06-23T12:04:18.642518"
   },
   {
     "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
     "url": "https://puzzlelair.com/",
     "author": "HaxleRose",
     "date": "2026-06-22",
-    "score": 129,
-    "comments": 95,
+    "score": 216,
+    "comments": 130,
     "id": 48629213,
     "discussion_url": "https://news.ycombinator.com/item?id=48629213",
     "description": "Show HN: Got sick of ads, so I made my own logic puzzle site",
@@ -405,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563590"
+    "fetched_at": "2026-06-23T12:04:18.642486"
   },
   {
     "title": "Show HN: Oak – Git alternative designed for agents",
     "url": "https://oak.space/oak/oak",
     "author": "zdgeier",
-    "date": "2026-06-23",
-    "score": 137,
-    "comments": 130,
+    "date": "2026-06-22",
+    "score": 193,
+    "comments": 165,
     "id": 48631726,
     "discussion_url": "https://news.ycombinator.com/item?id=48631726",
     "description": "Show HN: Oak – Git alternative designed for agents",
@@ -422,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564051"
+    "fetched_at": "2026-06-23T12:04:18.642449"
   },
   {
     "title": "Steam Machine launches today",
     "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
     "author": "theschwa",
-    "date": "2026-06-23",
-    "score": 1108,
-    "comments": 983,
+    "date": "2026-06-22",
+    "score": 1671,
+    "comments": 1426,
     "id": 48632884,
     "discussion_url": "https://news.ycombinator.com/item?id=48632884",
     "description": "Steam Machine launches today",
@@ -439,15 +422,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563477"
+    "fetched_at": "2026-06-23T12:04:18.642355"
+  },
+  {
+    "title": "The new HTTP QUERY method explained",
+    "url": "https://kreya.app/blog/new-http-query-method-explained/",
+    "author": "CommonGuy",
+    "date": "2026-06-23",
+    "score": 169,
+    "comments": 93,
+    "id": 48640974,
+    "discussion_url": "https://news.ycombinator.com/item?id=48640974",
+    "description": "The new HTTP QUERY method explained",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T12:04:18.642337"
   },
   {
     "title": "The text in Claude Code’s “Extended Thinking” output",
     "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
     "author": "0o_MrPatrick_o0",
-    "date": "2026-06-23",
-    "score": 267,
-    "comments": 185,
+    "date": "2026-06-22",
+    "score": 309,
+    "comments": 213,
     "id": 48630535,
     "discussion_url": "https://news.ycombinator.com/item?id=48630535",
     "description": "The text in Claude Code’s “Extended Thinking” output",
@@ -456,57 +456,57 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563654"
+    "fetched_at": "2026-06-23T12:04:18.642573"
   },
   {
-    "title": "Unsloth GLM-5.2 – How to Run Locally",
-    "url": "https://unsloth.ai/docs/models/glm-5.2",
-    "author": "TechTechTech",
+    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "url": "https://arxiv.org/abs/2606.16140",
+    "author": "timhigins",
     "date": "2026-06-23",
-    "score": 116,
-    "comments": 48,
-    "id": 48636377,
-    "discussion_url": "https://news.ycombinator.com/item?id=48636377",
-    "description": "Unsloth GLM-5.2 – How to Run Locally",
+    "score": 229,
+    "comments": 99,
+    "id": 48639240,
+    "discussion_url": "https://news.ycombinator.com/item?id=48639240",
+    "description": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563829"
+    "fetched_at": "2026-06-23T12:04:18.642399"
   },
   {
-    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
-    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
-    "author": "Tomte",
-    "date": "2026-06-22",
-    "score": 206,
-    "comments": 108,
-    "id": 48629064,
-    "discussion_url": "https://news.ycombinator.com/item?id=48629064",
-    "description": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
+    "title": "Will It Mythos?",
+    "url": "https://swelljoe.com/post/will-it-mythos/",
+    "author": "mindingnever",
+    "date": "2026-06-23",
+    "score": 180,
+    "comments": 117,
+    "id": 48640196,
+    "discussion_url": "https://news.ycombinator.com/item?id=48640196",
+    "description": "Will It Mythos?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.564384"
+    "fetched_at": "2026-06-23T12:04:18.642420"
   },
   {
-    "title": "window.showDirectoryPicker opens up a whole new world",
-    "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
-    "author": "steveharrison",
+    "title": "ytr: YouTube Radio for Emacs",
+    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+    "author": "xenodium",
     "date": "2026-06-22",
-    "score": 97,
-    "comments": 97,
-    "id": 48629387,
-    "discussion_url": "https://news.ycombinator.com/item?id=48629387",
-    "description": "window.showDirectoryPicker opens up a whole new world",
+    "score": 129,
+    "comments": 9,
+    "id": 48636380,
+    "discussion_url": "https://news.ycombinator.com/item?id=48636380",
+    "description": "ytr: YouTube Radio for Emacs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T10:19:37.563959"
+    "fetched_at": "2026-06-23T12:04:18.642569"
   }
 ]
