@@ -1,45 +1,45 @@
 [
   {
-    "title": "1,700 free online courses from top universities",
-    "url": "https://www.openculture.com/freeonlinecourses",
-    "author": "momentmaker",
+    "title": "AI's Affordability Crisis",
+    "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+    "author": "ilreb",
     "date": "2026-06-23",
-    "score": 210,
-    "comments": 33,
-    "id": 48639184,
-    "discussion_url": "https://news.ycombinator.com/item?id=48639184",
-    "description": "1,700 free online courses from top universities",
+    "score": 179,
+    "comments": 229,
+    "id": 48646276,
+    "discussion_url": "https://news.ycombinator.com/item?id=48646276",
+    "description": "AI's Affordability Crisis",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642558"
+    "fetched_at": "2026-06-23T19:38:30.347434"
   },
   {
-    "title": "British Columbia, Time Zones, and Postgres",
-    "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-    "author": "sprawl_",
-    "date": "2026-06-22",
-    "score": 133,
-    "comments": 97,
-    "id": 48634787,
-    "discussion_url": "https://news.ycombinator.com/item?id=48634787",
-    "description": "British Columbia, Time Zones, and Postgres",
+    "title": "An Introduction to YOLO26",
+    "url": "https://blog.roboflow.com/yolo26/",
+    "author": "teleforce",
+    "date": "2026-06-23",
+    "score": 97,
+    "comments": 32,
+    "id": 48639165,
+    "discussion_url": "https://news.ycombinator.com/item?id=48639165",
+    "description": "An Introduction to YOLO26",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642577"
+    "fetched_at": "2026-06-23T19:38:30.347441"
   },
   {
     "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
     "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
     "author": "geox",
     "date": "2026-06-22",
-    "score": 507,
-    "comments": 350,
+    "score": 568,
+    "comments": 408,
     "id": 48634585,
     "discussion_url": "https://news.ycombinator.com/item?id=48634585",
     "description": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
@@ -48,117 +48,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642470"
+    "fetched_at": "2026-06-23T19:38:30.347464"
   },
   {
-    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
-    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-    "author": "cdrnsf",
+    "title": "Claude Tag",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "author": "adocomplete",
+    "date": "2026-06-23",
+    "score": 137,
+    "comments": 65,
+    "id": 48648039,
+    "discussion_url": "https://news.ycombinator.com/item?id=48648039",
+    "description": "Claude Tag",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T19:38:30.347275"
+  },
+  {
+    "title": "Crypto in 2026: Oh, This Is the Bad Place",
+    "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
+    "author": "ibobev",
+    "date": "2026-06-23",
+    "score": 348,
+    "comments": 442,
+    "id": 48642699,
+    "discussion_url": "https://news.ycombinator.com/item?id=48642699",
+    "description": "Crypto in 2026: Oh, This Is the Bad Place",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T19:38:30.347378"
+  },
+  {
+    "title": "Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html",
+    "author": "madars",
+    "date": "2026-06-23",
+    "score": 123,
+    "comments": 187,
+    "id": 48647444,
+    "discussion_url": "https://news.ycombinator.com/item?id=48647444",
+    "description": "Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T19:38:30.347427"
+  },
+  {
+    "title": "Elevated error rate across multiple models",
+    "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+    "author": "rob",
+    "date": "2026-06-23",
+    "score": 181,
+    "comments": 229,
+    "id": 48645386,
+    "discussion_url": "https://news.ycombinator.com/item?id=48645386",
+    "description": "Elevated error rate across multiple models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T19:38:30.347290"
+  },
+  {
+    "title": "F3",
+    "url": "https://github.com/future-file-format/f3",
+    "author": "tosh",
+    "date": "2026-06-23",
+    "score": 438,
+    "comments": 115,
+    "id": 48647799,
+    "discussion_url": "https://news.ycombinator.com/item?id=48647799",
+    "description": "F3",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T19:38:30.347260"
+  },
+  {
+    "title": "Finding the best dog treat with statistics",
+    "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+    "author": "wespiser_2018",
     "date": "2026-06-22",
-    "score": 145,
-    "comments": 136,
-    "id": 48630029,
-    "discussion_url": "https://news.ycombinator.com/item?id=48630029",
-    "description": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
+    "score": 117,
+    "comments": 53,
+    "id": 48633410,
+    "discussion_url": "https://news.ycombinator.com/item?id=48633410",
+    "description": "Finding the best dog treat with statistics",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642506"
+    "fetched_at": "2026-06-23T19:38:30.347315"
   },
   {
-    "title": "Codex logging bug may write TBs to local SSDs",
-    "url": "https://github.com/openai/codex/issues/28224",
-    "author": "vantareed",
-    "date": "2026-06-22",
-    "score": 487,
-    "comments": 266,
-    "id": 48626930,
-    "discussion_url": "https://news.ycombinator.com/item?id=48626930",
-    "description": "Codex logging bug may write TBs to local SSDs",
+    "title": "Fired by Google for creating the Google workspace CLI",
+    "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+    "author": "justinwp",
+    "date": "2026-06-23",
+    "score": 92,
+    "comments": 44,
+    "id": 48649011,
+    "discussion_url": "https://news.ycombinator.com/item?id=48649011",
+    "description": "Fired by Google for creating the Google workspace CLI",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642597"
-  },
-  {
-    "title": "Cyberdecks, going analog, and convivial technology",
-    "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
-    "author": "akkartik",
-    "date": "2026-06-20",
-    "score": 114,
-    "comments": 68,
-    "id": 48605776,
-    "discussion_url": "https://news.ycombinator.com/item?id=48605776",
-    "description": "Cyberdecks, going analog, and convivial technology",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642460"
-  },
-  {
-    "title": "Deno Desktop",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "author": "GeneralMaximus",
-    "date": "2026-06-22",
-    "score": 1075,
-    "comments": 387,
-    "id": 48626137,
-    "discussion_url": "https://news.ycombinator.com/item?id=48626137",
-    "description": "Deno Desktop",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642494"
-  },
-  {
-    "title": "DisplayMate",
-    "url": "https://www.displaymate.com/",
-    "author": "skibz",
-    "date": "2026-06-22",
-    "score": 113,
-    "comments": 33,
-    "id": 48632613,
-    "discussion_url": "https://news.ycombinator.com/item?id=48632613",
-    "description": "DisplayMate",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642534"
-  },
-  {
-    "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
-    "url": "https://ipvm.com/reports/police-chiefs-track",
-    "author": "jhonovich",
-    "date": "2026-06-22",
-    "score": 539,
-    "comments": 248,
-    "id": 48634694,
-    "discussion_url": "https://news.ycombinator.com/item?id=48634694",
-    "description": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642490"
+    "fetched_at": "2026-06-23T19:38:30.347294"
   },
   {
     "title": "GLM-5.2 – How to Run Locally",
     "url": "https://unsloth.ai/docs/models/glm-5.2",
     "author": "TechTechTech",
     "date": "2026-06-22",
-    "score": 425,
-    "comments": 188,
+    "score": 567,
+    "comments": 269,
     "id": 48636377,
     "discussion_url": "https://news.ycombinator.com/item?id=48636377",
     "description": "GLM-5.2 – How to Run Locally",
@@ -167,15 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642424"
+    "fetched_at": "2026-06-23T19:38:30.347417"
+  },
+  {
+    "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
+    "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+    "author": "speckx",
+    "date": "2026-06-20",
+    "score": 194,
+    "comments": 93,
+    "id": 48614097,
+    "discussion_url": "https://news.ycombinator.com/item?id=48614097",
+    "description": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T19:38:30.347353"
   },
   {
     "title": "Help I accidentally a wigglegram",
     "url": "https://lmao.center/blog/wiggle-accidents/",
     "author": "gregsadetsky",
     "date": "2026-06-20",
-    "score": 542,
-    "comments": 124,
+    "score": 558,
+    "comments": 126,
     "id": 48605561,
     "discussion_url": "https://news.ycombinator.com/item?id=48605561",
     "description": "Help I accidentally a wigglegram",
@@ -184,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642464"
+    "fetched_at": "2026-06-23T19:38:30.347458"
   },
   {
     "title": "In praise of memcached",
     "url": "https://jchri.st/blog/in-praise-of-memcached/",
     "author": "j03b",
     "date": "2026-06-23",
-    "score": 185,
-    "comments": 65,
+    "score": 250,
+    "comments": 101,
     "id": 48638886,
     "discussion_url": "https://news.ycombinator.com/item?id=48638886",
     "description": "In praise of memcached",
@@ -201,100 +235,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642416"
+    "fetched_at": "2026-06-23T19:38:30.347375"
   },
   {
-    "title": "Japanese symbols that speak without words",
-    "url": "https://arun.is/blog/japan-symbols/",
-    "author": "msephton",
-    "date": "2026-06-22",
-    "score": 179,
-    "comments": 116,
-    "id": 48634803,
-    "discussion_url": "https://news.ycombinator.com/item?id=48634803",
-    "description": "Japanese symbols that speak without words",
+    "title": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
+    "url": "https://www.reuters.com/world/middle-east/israel-targeted-gaza-children-resulting-genocide-un-inquiry-says-2026-06-23/",
+    "author": "supercopter",
+    "date": "2026-06-23",
+    "score": 298,
+    "comments": 90,
+    "id": 48642784,
+    "discussion_url": "https://news.ycombinator.com/item?id=48642784",
+    "description": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642562"
+    "fetched_at": "2026-06-23T19:38:30.347408"
   },
   {
-    "title": "Job application asked for my SAT scores",
-    "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
-    "author": "seltzerboys",
-    "date": "2026-06-22",
-    "score": 138,
-    "comments": 342,
-    "id": 48636062,
-    "discussion_url": "https://news.ycombinator.com/item?id=48636062",
-    "description": "Job application asked for my SAT scores",
+    "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+    "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+    "author": "cdrnsf",
+    "date": "2026-06-23",
+    "score": 245,
+    "comments": 67,
+    "id": 48644781,
+    "discussion_url": "https://news.ycombinator.com/item?id=48644781",
+    "description": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642554"
+    "fetched_at": "2026-06-23T19:38:30.347319"
   },
   {
-    "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-    "url": "https://hustvl.github.io/Moebius/",
-    "author": "DSemba",
-    "date": "2026-06-22",
-    "score": 300,
-    "comments": 74,
-    "id": 48630171,
-    "discussion_url": "https://news.ycombinator.com/item?id=48630171",
-    "description": "Moebius: 0.2B image inpainting model with 10B-level performance",
+    "title": "Mistral OCR 4",
+    "url": "https://mistral.ai/news/ocr-4/",
+    "author": "meetpateltech",
+    "date": "2026-06-23",
+    "score": 341,
+    "comments": 87,
+    "id": 48645152,
+    "discussion_url": "https://news.ycombinator.com/item?id=48645152",
+    "description": "Mistral OCR 4",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642440"
-  },
-  {
-    "title": "Munich 1991: The Roots of the Current AI Boom",
-    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-    "author": "tosh",
-    "date": "2026-06-19",
-    "score": 224,
-    "comments": 98,
-    "id": 48599998,
-    "discussion_url": "https://news.ycombinator.com/item?id=48599998",
-    "description": "Munich 1991: The Roots of the Current AI Boom",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642582"
-  },
-  {
-    "title": "My Mathematical Regression",
-    "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-    "author": "aleda145",
-    "date": "2026-06-19",
-    "score": 318,
-    "comments": 118,
-    "id": 48597221,
-    "discussion_url": "https://news.ycombinator.com/item?id=48597221",
-    "description": "My Mathematical Regression",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642403"
+    "fetched_at": "2026-06-23T19:38:30.347286"
   },
   {
     "title": "OpenAI DayBreak – GPT-5.5-Cyber",
     "url": "https://openai.com/index/daybreak-securing-the-world/",
     "author": "AaronO",
     "date": "2026-06-23",
-    "score": 127,
-    "comments": 76,
+    "score": 196,
+    "comments": 158,
     "id": 48639063,
     "discussion_url": "https://news.ycombinator.com/item?id=48639063",
     "description": "OpenAI DayBreak – GPT-5.5-Cyber",
@@ -303,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642474"
+    "fetched_at": "2026-06-23T19:38:30.347431"
   },
   {
     "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
     "url": "https://github.com/dorukkumkumoglu/optocamzero",
     "author": "iamnothere",
     "date": "2026-06-22",
-    "score": 185,
-    "comments": 50,
+    "score": 213,
+    "comments": 59,
     "id": 48634778,
     "discussion_url": "https://news.ycombinator.com/item?id=48634778",
     "description": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
@@ -320,100 +320,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642453"
+    "fetched_at": "2026-06-23T19:38:30.347424"
   },
   {
-    "title": "Pledging another $400k to the Zig software foundation",
-    "url": "https://mitchellh.com/writing/zig-donation-2026",
+    "title": "Plotnine",
+    "url": "https://plotnine.org/",
     "author": "tosh",
-    "date": "2026-06-22",
-    "score": 787,
-    "comments": 267,
-    "id": 48630020,
-    "discussion_url": "https://news.ycombinator.com/item?id=48630020",
-    "description": "Pledging another $400k to the Zig software foundation",
+    "date": "2026-06-19",
+    "score": 228,
+    "comments": 68,
+    "id": 48596488,
+    "discussion_url": "https://news.ycombinator.com/item?id=48596488",
+    "description": "Plotnine",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642538"
+    "fetched_at": "2026-06-23T19:38:30.347206"
   },
   {
-    "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-    "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-    "author": "Vaslo",
-    "date": "2026-06-21",
-    "score": 376,
-    "comments": 278,
-    "id": 48614715,
-    "discussion_url": "https://news.ycombinator.com/item?id=48614715",
-    "description": "Polymarket has flooded social media with deceptive videos by paid creators",
+    "title": "San Diego photologs from the 1970s",
+    "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+    "author": "jonathanmkeegan",
+    "date": "2026-06-23",
+    "score": 106,
+    "comments": 23,
+    "id": 48647823,
+    "discussion_url": "https://news.ycombinator.com/item?id=48647823",
+    "description": "San Diego photologs from the 1970s",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642369"
+    "fetched_at": "2026-06-23T19:38:30.347301"
   },
   {
-    "title": "Prompt Injection as Role Confusion",
-    "url": "https://role-confusion.github.io",
-    "author": "x312",
-    "date": "2026-06-22",
-    "score": 198,
-    "comments": 102,
-    "id": 48631888,
-    "discussion_url": "https://news.ycombinator.com/item?id=48631888",
-    "description": "Prompt Injection as Role Confusion",
+    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+    "url": "https://tikz.dev/editor/",
+    "author": "DominikPeters",
+    "date": "2026-06-23",
+    "score": 259,
+    "comments": 54,
+    "id": 48645437,
+    "discussion_url": "https://news.ycombinator.com/item?id=48645437",
+    "description": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642518"
-  },
-  {
-    "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-    "url": "https://puzzlelair.com/",
-    "author": "HaxleRose",
-    "date": "2026-06-22",
-    "score": 216,
-    "comments": 130,
-    "id": 48629213,
-    "discussion_url": "https://news.ycombinator.com/item?id=48629213",
-    "description": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642486"
-  },
-  {
-    "title": "Show HN: Oak – Git alternative designed for agents",
-    "url": "https://oak.space/oak/oak",
-    "author": "zdgeier",
-    "date": "2026-06-22",
-    "score": 193,
-    "comments": 165,
-    "id": 48631726,
-    "discussion_url": "https://news.ycombinator.com/item?id=48631726",
-    "description": "Show HN: Oak – Git alternative designed for agents",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642449"
+    "fetched_at": "2026-06-23T19:38:30.347234"
   },
   {
     "title": "Steam Machine launches today",
     "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
     "author": "theschwa",
     "date": "2026-06-22",
-    "score": 1671,
-    "comments": 1426,
+    "score": 1849,
+    "comments": 1601,
     "id": 48632884,
     "discussion_url": "https://news.ycombinator.com/item?id=48632884",
     "description": "Steam Machine launches today",
@@ -422,49 +388,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642355"
+    "fetched_at": "2026-06-23T19:38:30.347342"
   },
   {
-    "title": "The new HTTP QUERY method explained",
-    "url": "https://kreya.app/blog/new-http-query-method-explained/",
-    "author": "CommonGuy",
+    "title": "The Coming Loop",
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "author": "ingve",
     "date": "2026-06-23",
-    "score": 169,
-    "comments": 93,
-    "id": 48640974,
-    "discussion_url": "https://news.ycombinator.com/item?id=48640974",
-    "description": "The new HTTP QUERY method explained",
+    "score": 218,
+    "comments": 169,
+    "id": 48643180,
+    "discussion_url": "https://news.ycombinator.com/item?id=48643180",
+    "description": "The Coming Loop",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642337"
+    "fetched_at": "2026-06-23T19:38:30.347298"
   },
   {
-    "title": "The text in Claude Code’s “Extended Thinking” output",
-    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-    "author": "0o_MrPatrick_o0",
-    "date": "2026-06-22",
-    "score": 309,
-    "comments": 213,
-    "id": 48630535,
-    "discussion_url": "https://news.ycombinator.com/item?id=48630535",
-    "description": "The text in Claude Code’s “Extended Thinking” output",
+    "title": "The deadly rise of giant trucks and SUVs",
+    "url": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
+    "author": "xnx",
+    "date": "2026-06-21",
+    "score": 135,
+    "comments": 287,
+    "id": 48623347,
+    "discussion_url": "https://news.ycombinator.com/item?id=48623347",
+    "description": "The deadly rise of giant trucks and SUVs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642573"
+    "fetched_at": "2026-06-23T19:38:30.347308"
+  },
+  {
+    "title": "Unlimited OCR: One-shot long-horizon parsing",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "author": "ingve",
+    "date": "2026-06-23",
+    "score": 370,
+    "comments": 91,
+    "id": 48643426,
+    "discussion_url": "https://news.ycombinator.com/item?id=48643426",
+    "description": "Unlimited OCR: One-shot long-horizon parsing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T19:38:30.347255"
   },
   {
     "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
     "url": "https://arxiv.org/abs/2606.16140",
     "author": "timhigins",
     "date": "2026-06-23",
-    "score": 229,
-    "comments": 99,
+    "score": 350,
+    "comments": 180,
     "id": 48639240,
     "discussion_url": "https://news.ycombinator.com/item?id=48639240",
     "description": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
@@ -473,15 +456,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642399"
+    "fetched_at": "2026-06-23T19:38:30.347357"
+  },
+  {
+    "title": "What we call \"age verification\" is actually mass surveillance",
+    "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+    "author": "hn_acker",
+    "date": "2026-06-23",
+    "score": 595,
+    "comments": 324,
+    "id": 48645173,
+    "discussion_url": "https://news.ycombinator.com/item?id=48645173",
+    "description": "What we call \"age verification\" is actually mass surveillance",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T19:38:30.347361"
+  },
+  {
+    "title": "Wikipedia cofounder Larry Sanger blocked from editing Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/User:Larry_Sanger",
+    "author": "FergusArgyll",
+    "date": "2026-06-23",
+    "score": 112,
+    "comments": 144,
+    "id": 48643407,
+    "discussion_url": "https://news.ycombinator.com/item?id=48643407",
+    "description": "Wikipedia cofounder Larry Sanger blocked from editing Wikipedia",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-23T19:38:30.347471"
   },
   {
     "title": "Will It Mythos?",
     "url": "https://swelljoe.com/post/will-it-mythos/",
     "author": "mindingnever",
     "date": "2026-06-23",
-    "score": 180,
-    "comments": 117,
+    "score": 288,
+    "comments": 206,
     "id": 48640196,
     "discussion_url": "https://news.ycombinator.com/item?id=48640196",
     "description": "Will It Mythos?",
@@ -490,23 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642420"
-  },
-  {
-    "title": "ytr: YouTube Radio for Emacs",
-    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
-    "author": "xenodium",
-    "date": "2026-06-22",
-    "score": 129,
-    "comments": 9,
-    "id": 48636380,
-    "discussion_url": "https://news.ycombinator.com/item?id=48636380",
-    "description": "ytr: YouTube Radio for Emacs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-23T12:04:18.642569"
+    "fetched_at": "2026-06-23T19:38:30.347332"
   }
 ]
