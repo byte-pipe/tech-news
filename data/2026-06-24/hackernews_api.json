@@ -1,11 +1,45 @@
 [
   {
+    "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+    "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+    "author": "retroplasma",
+    "date": "2026-06-24",
+    "score": 197,
+    "comments": 84,
+    "id": 48654465,
+    "discussion_url": "https://news.ycombinator.com/item?id=48654465",
+    "description": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-24T19:35:46.416395"
+  },
+  {
+    "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+    "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
+    "author": "signa11",
+    "date": "2026-06-20",
+    "score": 193,
+    "comments": 46,
+    "id": 48606222,
+    "discussion_url": "https://news.ycombinator.com/item?id=48606222",
+    "description": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-24T19:35:46.416318"
+  },
+  {
     "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
     "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
     "author": "mauvehaus",
     "date": "2026-06-22",
-    "score": 190,
-    "comments": 132,
+    "score": 218,
+    "comments": 142,
     "id": 48633643,
     "discussion_url": "https://news.ycombinator.com/item?id=48633643",
     "description": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
@@ -14,49 +48,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427788"
+    "fetched_at": "2026-06-24T19:35:46.416472"
   },
   {
-    "title": "AI's Affordability Crisis",
-    "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-    "author": "ilreb",
-    "date": "2026-06-23",
-    "score": 295,
-    "comments": 384,
-    "id": 48646276,
-    "discussion_url": "https://news.ycombinator.com/item?id=48646276",
-    "description": "AI's Affordability Crisis",
+    "title": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”",
+    "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+    "author": "connorboyle",
+    "date": "2026-06-24",
+    "score": 119,
+    "comments": 45,
+    "id": 48661535,
+    "discussion_url": "https://news.ycombinator.com/item?id=48661535",
+    "description": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427905"
-  },
-  {
-    "title": "Algorithmic Monocultures in Hiring",
-    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-    "author": "sizzle",
-    "date": "2026-06-23",
-    "score": 144,
-    "comments": 145,
-    "id": 48649673,
-    "discussion_url": "https://news.ycombinator.com/item?id=48649673",
-    "description": "Algorithmic Monocultures in Hiring",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427933"
+    "fetched_at": "2026-06-24T19:35:46.416353"
   },
   {
     "title": "Dirty Little Zine – a tool for making an 8 page printable Zine",
     "url": "https://dirtylittlezine.com/",
     "author": "cianmm",
     "date": "2026-06-20",
-    "score": 132,
-    "comments": 22,
+    "score": 164,
+    "comments": 36,
     "id": 48611896,
     "discussion_url": "https://news.ycombinator.com/item?id=48611896",
     "description": "Dirty Little Zine – a tool for making an 8 page printable Zine",
@@ -65,32 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427792"
-  },
-  {
-    "title": "Don't verify email addresses by sending spam to them",
-    "url": "https://milek7.pl/mailverifyspam/",
-    "author": "garaetjjte",
-    "date": "2026-06-23",
-    "score": 178,
-    "comments": 52,
-    "id": 48650837,
-    "discussion_url": "https://news.ycombinator.com/item?id=48650837",
-    "description": "Don't verify email addresses by sending spam to them",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427901"
+    "fetched_at": "2026-06-24T19:35:46.416452"
   },
   {
     "title": "FUTO Swipe – A new swipe typing model",
     "url": "https://swipe.futo.tech/",
     "author": "futohq",
     "date": "2026-06-23",
-    "score": 578,
-    "comments": 203,
+    "score": 667,
+    "comments": 237,
     "id": 48648619,
     "discussion_url": "https://news.ycombinator.com/item?id=48648619",
     "description": "FUTO Swipe – A new swipe typing model",
@@ -99,49 +99,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427723"
+    "fetched_at": "2026-06-24T19:35:46.416465"
   },
   {
-    "title": "Finding the best dog treat with statistics",
-    "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
-    "author": "wespiser_2018",
-    "date": "2026-06-22",
-    "score": 134,
-    "comments": 54,
-    "id": 48633410,
-    "discussion_url": "https://news.ycombinator.com/item?id=48633410",
-    "description": "Finding the best dog treat with statistics",
+    "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+    "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+    "author": "CrankyBear",
+    "date": "2026-06-24",
+    "score": 139,
+    "comments": 94,
+    "id": 48660839,
+    "discussion_url": "https://news.ycombinator.com/item?id=48660839",
+    "description": "For Most of the World, Open-Source AI Is the Only Way Forward",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427868"
+    "fetched_at": "2026-06-24T19:35:46.416349"
   },
   {
-    "title": "Fired by Google for creating the Google workspace CLI",
-    "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-    "author": "justinwp",
-    "date": "2026-06-23",
-    "score": 572,
-    "comments": 338,
-    "id": 48649011,
-    "discussion_url": "https://news.ycombinator.com/item?id=48649011",
-    "description": "Fired by Google for creating the Google workspace CLI",
+    "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+    "url": "https://paolino.me/founding-a-company-in-germany/",
+    "author": "earcar",
+    "date": "2026-06-24",
+    "score": 513,
+    "comments": 618,
+    "id": 48658718,
+    "discussion_url": "https://news.ycombinator.com/item?id=48658718",
+    "description": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427821"
+    "fetched_at": "2026-06-24T19:35:46.416373"
   },
   {
     "title": "In memory of the man who put red and green squiggles under words",
     "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
     "author": "saikatsg",
     "date": "2026-06-23",
-    "score": 440,
-    "comments": 75,
+    "score": 561,
+    "comments": 99,
     "id": 48648959,
     "discussion_url": "https://news.ycombinator.com/item?id=48648959",
     "description": "In memory of the man who put red and green squiggles under words",
@@ -150,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427705"
+    "fetched_at": "2026-06-24T19:35:46.416445"
   },
   {
     "title": "Jerry's Map",
     "url": "http://www.jerrysmap.com/the-map",
     "author": "turtleyacht",
     "date": "2026-06-23",
-    "score": 498,
-    "comments": 55,
+    "score": 559,
+    "comments": 62,
     "id": 48649435,
     "discussion_url": "https://news.ycombinator.com/item?id=48649435",
     "description": "Jerry's Map",
@@ -167,32 +167,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427757"
+    "fetched_at": "2026-06-24T19:35:46.416462"
   },
   {
-    "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-    "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
-    "author": "1vuio0pswjnm7",
-    "date": "2026-06-24",
-    "score": 276,
-    "comments": 205,
-    "id": 48653575,
-    "discussion_url": "https://news.ycombinator.com/item?id=48653575",
-    "description": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+    "title": "Krea 2: SOTA open-weights 12B image model",
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "author": "mattnewton",
+    "date": "2026-06-23",
+    "score": 237,
+    "comments": 32,
+    "id": 48646659,
+    "discussion_url": "https://news.ycombinator.com/item?id=48646659",
+    "description": "Krea 2: SOTA open-weights 12B image model",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427829"
+    "fetched_at": "2026-06-24T19:35:46.416342"
   },
   {
     "title": "Millimeter wave technology drills 100 meters into granite",
     "url": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
     "author": "Jimmc414",
     "date": "2026-06-20",
-    "score": 174,
-    "comments": 71,
+    "score": 206,
+    "comments": 103,
     "id": 48611585,
     "discussion_url": "https://news.ycombinator.com/item?id=48611585",
     "description": "Millimeter wave technology drills 100 meters into granite",
@@ -201,49 +201,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427813"
+    "fetched_at": "2026-06-24T19:35:46.416427"
   },
   {
-    "title": "Mistral OCR 4",
-    "url": "https://mistral.ai/news/ocr-4/",
-    "author": "meetpateltech",
-    "date": "2026-06-23",
-    "score": 471,
-    "comments": 124,
-    "id": 48645152,
-    "discussion_url": "https://news.ycombinator.com/item?id=48645152",
-    "description": "Mistral OCR 4",
+    "title": "Minimus container images are now free",
+    "url": "https://images.minimus.io/",
+    "author": "dimastopel",
+    "date": "2026-06-24",
+    "score": 111,
+    "comments": 71,
+    "id": 48658361,
+    "discussion_url": "https://news.ycombinator.com/item?id=48658361",
+    "description": "Minimus container images are now free",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427926"
+    "fetched_at": "2026-06-24T19:35:46.416423"
   },
   {
-    "title": "Printing Gaussian Splats",
-    "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-    "author": "ilnmtlbnm",
-    "date": "2026-06-21",
-    "score": 326,
-    "comments": 37,
-    "id": 48618481,
-    "discussion_url": "https://news.ycombinator.com/item?id=48618481",
-    "description": "Printing Gaussian Splats",
+    "title": "NSA lost access to Mythos amid Anthropic dispute",
+    "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+    "author": "thm",
+    "date": "2026-06-24",
+    "score": 138,
+    "comments": 94,
+    "id": 48658300,
+    "discussion_url": "https://news.ycombinator.com/item?id=48658300",
+    "description": "NSA lost access to Mythos amid Anthropic dispute",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427773"
+    "fetched_at": "2026-06-24T19:35:46.416307"
+  },
+  {
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "author": "jamdesk",
+    "date": "2026-06-24",
+    "score": 195,
+    "comments": 161,
+    "id": 48663324,
+    "discussion_url": "https://news.ycombinator.com/item?id=48663324",
+    "description": "OpenAI unveils its first custom chip, built by Broadcom",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-24T19:35:46.416232"
+  },
+  {
+    "title": "PR spam today looks like email spam in the early 2000s",
+    "url": "https://www.greptile.com/blog/prs-on-openclaw",
+    "author": "dakshgupta",
+    "date": "2026-06-24",
+    "score": 84,
+    "comments": 59,
+    "id": 48660579,
+    "discussion_url": "https://news.ycombinator.com/item?id=48660579",
+    "description": "PR spam today looks like email spam in the early 2000s",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-24T19:35:46.416294"
+  },
+  {
+    "title": "Quebec town recognizes trees as living beings with rights",
+    "url": "https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634",
+    "author": "speckx",
+    "date": "2026-06-24",
+    "score": 89,
+    "comments": 82,
+    "id": 48661536,
+    "discussion_url": "https://news.ycombinator.com/item?id=48661536",
+    "description": "Quebec town recognizes trees as living beings with rights",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-24T19:35:46.416437"
   },
   {
     "title": "Qwen-AgentWorld: Language World Models for General Agents",
     "url": "https://arxiv.org/abs/2606.24597",
     "author": "ilreb",
     "date": "2026-06-24",
-    "score": 128,
-    "comments": 42,
+    "score": 185,
+    "comments": 50,
     "id": 48654351,
     "discussion_url": "https://news.ycombinator.com/item?id=48654351",
     "description": "Qwen-AgentWorld: Language World Models for General Agents",
@@ -252,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427719"
+    "fetched_at": "2026-06-24T19:35:46.416408"
   },
   {
     "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
     "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
     "author": "byb",
     "date": "2026-06-24",
-    "score": 158,
-    "comments": 71,
+    "score": 238,
+    "comments": 114,
     "id": 48654676,
     "discussion_url": "https://news.ycombinator.com/item?id=48654676",
     "description": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
@@ -269,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427740"
+    "fetched_at": "2026-06-24T19:35:46.416376"
   },
   {
     "title": "Rhombus Language 1.0",
     "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
     "author": "Decabytes",
     "date": "2026-06-22",
-    "score": 187,
-    "comments": 57,
+    "score": 225,
+    "comments": 89,
     "id": 48633473,
     "discussion_url": "https://news.ycombinator.com/item?id=48633473",
     "description": "Rhombus Language 1.0",
@@ -286,185 +337,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427780"
+    "fetched_at": "2026-06-24T19:35:46.416416"
   },
   {
-    "title": "San Diego photologs from the 1970s",
-    "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-    "author": "jonathanmkeegan",
-    "date": "2026-06-23",
-    "score": 151,
-    "comments": 49,
-    "id": 48647823,
-    "discussion_url": "https://news.ycombinator.com/item?id=48647823",
-    "description": "San Diego photologs from the 1970s",
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "url": "https://rubyllm.com/",
+    "author": "doener",
+    "date": "2026-06-24",
+    "score": 261,
+    "comments": 39,
+    "id": 48660711,
+    "discussion_url": "https://news.ycombinator.com/item?id=48660711",
+    "description": "RubyLLM: A Ruby framework for all major AI providers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427912"
+    "fetched_at": "2026-06-24T19:35:46.416311"
   },
   {
-    "title": "Show HN: An ASCII 3D Rendering Engine",
-    "url": "https://glyphcss.com",
-    "author": "apresmoi",
-    "date": "2026-06-20",
-    "score": 164,
-    "comments": 44,
-    "id": 48612025,
-    "discussion_url": "https://news.ycombinator.com/item?id=48612025",
-    "description": "Show HN: An ASCII 3D Rendering Engine",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427744"
-  },
-  {
-    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-    "url": "https://tikz.dev/editor/",
-    "author": "DominikPeters",
-    "date": "2026-06-23",
-    "score": 404,
-    "comments": 73,
-    "id": 48645437,
-    "discussion_url": "https://news.ycombinator.com/item?id=48645437",
-    "description": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427699"
-  },
-  {
-    "title": "Steam Machine launches today",
-    "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-    "author": "theschwa",
+    "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
+    "url": "https://www.monolisa.dev/",
+    "author": "bebraw",
     "date": "2026-06-22",
-    "score": 1890,
-    "comments": 1670,
-    "id": 48632884,
-    "discussion_url": "https://news.ycombinator.com/item?id=48632884",
-    "description": "Steam Machine launches today",
+    "score": 118,
+    "comments": 36,
+    "id": 48630318,
+    "discussion_url": "https://news.ycombinator.com/item?id=48630318",
+    "description": "Show HN: Monolisa v3 – a typeface for developers and creatives",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427848"
+    "fetched_at": "2026-06-24T19:35:46.416322"
   },
   {
-    "title": "Swift Package Index joins Apple",
-    "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-    "author": "JDevlieghere",
-    "date": "2026-06-23",
-    "score": 214,
-    "comments": 71,
-    "id": 48648779,
-    "discussion_url": "https://news.ycombinator.com/item?id=48648779",
-    "description": "Swift Package Index joins Apple",
+    "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+    "url": "https://github.com/nubjs/nub",
+    "author": "colinmcd",
+    "date": "2026-06-24",
+    "score": 147,
+    "comments": 38,
+    "id": 48660267,
+    "discussion_url": "https://news.ycombinator.com/item?id=48660267",
+    "description": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427784"
+    "fetched_at": "2026-06-24T19:35:46.416326"
   },
   {
-    "title": "The Coming Loop",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "author": "ingve",
-    "date": "2026-06-23",
-    "score": 394,
-    "comments": 274,
-    "id": 48643180,
-    "discussion_url": "https://news.ycombinator.com/item?id=48643180",
-    "description": "The Coming Loop",
+    "title": "Statistics that live in your SQL",
+    "url": "https://kolistat.com/blog/the-stats-duck-v0-6-0/",
+    "author": "caerbannogwhite",
+    "date": "2026-06-22",
+    "score": 117,
+    "comments": 16,
+    "id": 48629810,
+    "discussion_url": "https://news.ycombinator.com/item?id=48629810",
+    "description": "Statistics that live in your SQL",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427871"
+    "fetched_at": "2026-06-24T19:35:46.416383"
   },
   {
-    "title": "The Low-Tech AI of Elden Ring",
-    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "author": "g0xA52A2A",
-    "date": "2026-06-23",
-    "score": 151,
-    "comments": 89,
-    "id": 48643489,
-    "discussion_url": "https://news.ycombinator.com/item?id=48643489",
-    "description": "The Low-Tech AI of Elden Ring",
+    "title": "Stealing Is a Skill",
+    "url": "https://ben-mini.com/2026/stealing-is-a-skill",
+    "author": "bewal416",
+    "date": "2026-06-24",
+    "score": 153,
+    "comments": 97,
+    "id": 48659165,
+    "discussion_url": "https://news.ycombinator.com/item?id=48659165",
+    "description": "Stealing Is a Skill",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427801"
+    "fetched_at": "2026-06-24T19:35:46.416334"
   },
   {
-    "title": "The deadly rise of giant trucks and SUVs",
-    "url": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
-    "author": "xnx",
-    "date": "2026-06-21",
-    "score": 447,
-    "comments": 702,
-    "id": 48623347,
-    "discussion_url": "https://news.ycombinator.com/item?id=48623347",
-    "description": "The deadly rise of giant trucks and SUVs",
+    "title": "There are a few things that I look back on as my mistakes in the early days",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+    "author": "shadowtree",
+    "date": "2026-06-24",
+    "score": 382,
+    "comments": 190,
+    "id": 48661825,
+    "discussion_url": "https://news.ycombinator.com/item?id=48661825",
+    "description": "There are a few things that I look back on as my mistakes in the early days",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427841"
+    "fetched_at": "2026-06-24T19:35:46.416263"
   },
   {
-    "title": "The worthlessness of Vitamin D is mildly exaggerated",
-    "url": "https://dynomight.net/vitamin-d/",
-    "author": "surprisetalk",
-    "date": "2026-06-23",
-    "score": 316,
-    "comments": 231,
-    "id": 48647486,
-    "discussion_url": "https://news.ycombinator.com/item?id=48647486",
-    "description": "The worthlessness of Vitamin D is mildly exaggerated",
+    "title": "Too many R packages: CRAN is inundated with submissions",
+    "url": "https://rworks.dev/posts/too-many-R-packages/",
+    "author": "ionychal",
+    "date": "2026-06-24",
+    "score": 82,
+    "comments": 65,
+    "id": 48657940,
+    "discussion_url": "https://news.ycombinator.com/item?id=48657940",
+    "description": "Too many R packages: CRAN is inundated with submissions",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427816"
-  },
-  {
-    "title": "Unlimited OCR: One-shot long-horizon parsing",
-    "url": "https://github.com/baidu/Unlimited-OCR",
-    "author": "ingve",
-    "date": "2026-06-23",
-    "score": 475,
-    "comments": 108,
-    "id": 48643426,
-    "discussion_url": "https://news.ycombinator.com/item?id=48643426",
-    "description": "Unlimited OCR: One-shot long-horizon parsing",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427923"
+    "fetched_at": "2026-06-24T19:35:46.416253"
   },
   {
     "title": "Usbliter8: an A12/A13 SecureROM Exploit",
     "url": "https://ps.tc/pages/blog-usbliter8.html",
     "author": "givinguflac",
     "date": "2026-06-18",
-    "score": 152,
-    "comments": 31,
+    "score": 180,
+    "comments": 36,
     "id": 48585852,
     "discussion_url": "https://news.ycombinator.com/item?id=48585852",
     "description": "Usbliter8: an A12/A13 SecureROM Exploit",
@@ -473,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427749"
+    "fetched_at": "2026-06-24T19:35:46.416441"
   },
   {
     "title": "Vulnerability reports are not special anymore",
     "url": "https://words.filippo.io/vuln-reports/",
     "author": "goranmoomin",
     "date": "2026-06-23",
-    "score": 307,
-    "comments": 169,
+    "score": 365,
+    "comments": 208,
     "id": 48653216,
     "discussion_url": "https://news.ycombinator.com/item?id=48653216",
     "description": "Vulnerability reports are not special anymore",
@@ -490,23 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427710"
+    "fetched_at": "2026-06-24T19:35:46.416458"
   },
   {
-    "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+    "title": "We’re making Bunny DNS free",
     "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
     "author": "dabinat",
     "date": "2026-06-24",
-    "score": 254,
-    "comments": 75,
+    "score": 720,
+    "comments": 233,
     "id": 48657030,
     "discussion_url": "https://news.ycombinator.com/item?id=48657030",
-    "description": "We're making Bunny DNS free: because a faster internet won't build itself",
+    "description": "We’re making Bunny DNS free",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-24T11:56:52.427714"
+    "fetched_at": "2026-06-24T19:35:46.416258"
   }
 ]

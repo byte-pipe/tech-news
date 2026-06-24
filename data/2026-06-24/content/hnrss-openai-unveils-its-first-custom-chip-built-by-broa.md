@@ -1,0 +1,53 @@
+---
+title: OpenAI unveils its first custom chip, built by Broadcom | TechCrunch
+url: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
+site_name: hnrss
+content_file: hnrss-openai-unveils-its-first-custom-chip-built-by-broa
+fetched_at: '2026-06-24T19:35:56.609018'
+original_url: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
+author: Russell Brandom
+date: '2026-06-24'
+published_date: '2026-06-24T14:54:46+00:00'
+description: Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.
+tags:
+- hackernews
+- hnrss
+---
+
+On Wednesday, OpenAIunveiledits first custom-built inference processor, designed and manufactured in collaboration with Broadcom. Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI’s inference systems. OpenAI’s own AI models assisted in the development of the chip, the company said.
+
+While the chip is still being tested, OpenAI says early results show significantly better performance-per-watt than current state-of-the-art alternatives.
+
+The partnership wasofficially announced in October, but OpenAI’s chip plans havelong been rumoredas a way to reduce the company’s dependence on Nvidia’s GPUs.GoogleandAmazonhave both built custom chips to serve a similar purpose, often called “AI accelerators” — silicon designed specifically to speed up machine learning workloads.
+
+OpenAI president Greg Brockman explained the company’s approach to chip developmenton its in-house podcast, shortly after the Broadcom partnership was announced.
+
+“We have a deep understanding of the workload,” Brockman said in the episode. “We’ve really been looking for specific workloads that are underserved, [and asking] how can we build something that will be able to accelerate what’s possible?”
+
+Jalapeño is specifically designed for inference, the process of running pre-built AI models in response to user commands. In the announcement, OpenAI emphasized the chip’s low operating cost when running real-time coding models. It’s likely that more performance-intensive tasks like pre-training will still rely on Nvidia hardware, but even small reductions in inference costs could do a lot to improve the company’s bottom line.
+
+Optimizing that inference system may prove to be a crucial factor in the economics of AI going forward — and it’s likely to take place at every level of the stack. OpenAI is already building agentic products like Codex and the models that power them, as well as data centers to run those models. Moving into purpose-built chips lets the company go even further in that process, as the company explained in its announcement.
+
+“OpenAI is not only developing frontier models or building products on top of them; it is designing the infrastructure underneath them: chip architecture, kernels, memory systems, networking, scheduling, deployment systems, and product experience,” the company wrote. “Because OpenAI operates across the stack, each layer can be optimized around the same goal: making its models faster, more reliable, and more affordable for users.”
+
+Topics
+
+AI
+, 
+Broadcom
+, 
+OpenAI
+, 
+semiconductors
+ 
+
+When you purchase through links in our articles,we may earn a small commission. This doesn’t affect our editorial independence.
+
+			Russell Brandom	
+
+AI Editor
+
+		Russell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT’s Technology Review.
+ He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.	
+
+View Bio
