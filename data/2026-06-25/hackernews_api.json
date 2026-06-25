@@ -1,62 +1,28 @@
 [
   {
-    "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
-    "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
-    "author": "retroplasma",
-    "date": "2026-06-24",
-    "score": 218,
-    "comments": 101,
-    "id": 48654465,
-    "discussion_url": "https://news.ycombinator.com/item?id=48654465",
-    "description": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "url": "https://scrollprize.org/firstscroll",
+    "author": "verditelabs",
+    "date": "2026-06-25",
+    "score": 425,
+    "comments": 106,
+    "id": 48675179,
+    "discussion_url": "https://news.ycombinator.com/item?id=48675179",
+    "description": "An entire Herculaneum scroll has been read for the first time",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644348"
-  },
-  {
-    "title": "45°C cooling design cuts data center water use to near zero",
-    "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "author": "nitin_flanker",
-    "date": "2026-06-24",
-    "score": 359,
-    "comments": 258,
-    "id": 48660178,
-    "discussion_url": "https://news.ycombinator.com/item?id=48660178",
-    "description": "45°C cooling design cuts data center water use to near zero",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644255"
-  },
-  {
-    "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
-    "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-    "author": "signa11",
-    "date": "2026-06-20",
-    "score": 346,
-    "comments": 64,
-    "id": 48606222,
-    "discussion_url": "https://news.ycombinator.com/item?id=48606222",
-    "description": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644277"
+    "fetched_at": "2026-06-25T19:39:53.359749"
   },
   {
     "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
     "author": "htrp",
     "date": "2026-06-24",
-    "score": 479,
-    "comments": 839,
+    "score": 730,
+    "comments": 1172,
     "id": 48664814,
     "discussion_url": "https://news.ycombinator.com/item?id=48664814",
     "description": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
@@ -65,15 +31,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644194"
+    "fetched_at": "2026-06-25T19:39:53.359951"
+  },
+  {
+    "title": "Apple raises prices of MacBooks, iPads",
+    "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+    "author": "virgildotcodes",
+    "date": "2026-06-25",
+    "score": 413,
+    "comments": 625,
+    "id": 48672732,
+    "discussion_url": "https://news.ycombinator.com/item?id=48672732",
+    "description": "Apple raises prices of MacBooks, iPads",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359765"
   },
   {
     "title": "Blogging can just be stating the obvious",
     "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
     "author": "Curiositry",
     "date": "2026-06-24",
-    "score": 261,
-    "comments": 93,
+    "score": 419,
+    "comments": 123,
     "id": 48666927,
     "discussion_url": "https://news.ycombinator.com/item?id=48666927",
     "description": "Blogging can just be stating the obvious",
@@ -82,49 +65,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644224"
+    "fetched_at": "2026-06-25T19:39:53.359880"
   },
   {
-    "title": "Cloudflare launched self-managed OAuth for all",
-    "url": "https://blog.cloudflare.com/oauth-for-all/",
-    "author": "terryds",
+    "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+    "url": "https://github.com/BohemiaInteractive/CWR",
+    "author": "dewey",
+    "date": "2026-06-22",
+    "score": 178,
+    "comments": 44,
+    "id": 48636753,
+    "discussion_url": "https://news.ycombinator.com/item?id=48636753",
+    "description": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359906"
+  },
+  {
+    "title": "Deno 2.9",
+    "url": "https://deno.com/blog/v2.9",
+    "author": "enz",
     "date": "2026-06-25",
-    "score": 197,
-    "comments": 88,
-    "id": 48668033,
-    "discussion_url": "https://news.ycombinator.com/item?id=48668033",
-    "description": "Cloudflare launched self-managed OAuth for all",
+    "score": 123,
+    "comments": 46,
+    "id": 48675717,
+    "discussion_url": "https://news.ycombinator.com/item?id=48675717",
+    "description": "Deno 2.9",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644227"
-  },
-  {
-    "title": "Computer use in Gemini 3.5 Flash",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-    "author": "swolpers",
-    "date": "2026-06-24",
-    "score": 227,
-    "comments": 147,
-    "id": 48662999,
-    "discussion_url": "https://news.ycombinator.com/item?id=48662999",
-    "description": "Computer use in Gemini 3.5 Flash",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644261"
+    "fetched_at": "2026-06-25T19:39:53.359889"
   },
   {
     "title": "Dostoyevsky isn't difficult",
     "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
     "author": "surprisetalk",
     "date": "2026-06-22",
-    "score": 163,
-    "comments": 191,
+    "score": 225,
+    "comments": 290,
     "id": 48631366,
     "discussion_url": "https://news.ycombinator.com/item?id=48631366",
     "description": "Dostoyevsky isn't difficult",
@@ -133,66 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644244"
+    "fetched_at": "2026-06-25T19:39:53.359964"
   },
   {
-    "title": "Elastic lays off 7% of employees",
-    "url": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
-    "author": "dakrone",
-    "date": "2026-06-24",
-    "score": 193,
-    "comments": 182,
-    "id": 48666100,
-    "discussion_url": "https://news.ycombinator.com/item?id=48666100",
-    "description": "Elastic lays off 7% of employees",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644311"
-  },
-  {
-    "title": "Ending respiratory infections",
-    "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
-    "author": "EthanFantl",
+    "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+    "author": "alanwreath",
     "date": "2026-06-25",
-    "score": 164,
-    "comments": 94,
-    "id": 48667588,
-    "discussion_url": "https://news.ycombinator.com/item?id=48667588",
-    "description": "Ending respiratory infections",
+    "score": 536,
+    "comments": 282,
+    "id": 48674446,
+    "discussion_url": "https://news.ycombinator.com/item?id=48674446",
+    "description": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644335"
-  },
-  {
-    "title": "GLM-5.2 is a step change for open agents",
-    "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-    "author": "vantareed",
-    "date": "2026-06-23",
-    "score": 255,
-    "comments": 151,
-    "id": 48639840,
-    "discussion_url": "https://news.ycombinator.com/item?id=48639840",
-    "description": "GLM-5.2 is a step change for open agents",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644250"
+    "fetched_at": "2026-06-25T19:39:53.359929"
   },
   {
     "title": "Half-Life 2 in a Browser",
     "url": "https://hl2.slqnt.dev/",
     "author": "panza",
     "date": "2026-06-25",
-    "score": 318,
-    "comments": 117,
+    "score": 592,
+    "comments": 237,
     "id": 48669534,
     "discussion_url": "https://news.ycombinator.com/item?id=48669534",
     "description": "Half-Life 2 in a Browser",
@@ -201,49 +150,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644178"
+    "fetched_at": "2026-06-25T19:39:53.359780"
   },
   {
-    "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
-    "url": "https://posthog.com/blog/sql-parser",
-    "author": "robbie-c",
-    "date": "2026-06-24",
-    "score": 132,
-    "comments": 63,
-    "id": 48663544,
-    "discussion_url": "https://news.ycombinator.com/item?id=48663544",
-    "description": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644357"
-  },
-  {
-    "title": "Krea 2: SOTA open-weights 12B image model",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "author": "mattnewton",
+    "title": "I built a GPU back end for Emacs",
+    "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
+    "author": "andros",
     "date": "2026-06-23",
-    "score": 388,
-    "comments": 43,
-    "id": 48646659,
-    "discussion_url": "https://news.ycombinator.com/item?id=48646659",
-    "description": "Krea 2: SOTA open-weights 12B image model",
+    "score": 115,
+    "comments": 57,
+    "id": 48642503,
+    "discussion_url": "https://news.ycombinator.com/item?id=48642503",
+    "description": "I built a GPU back end for Emacs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644266"
+    "fetched_at": "2026-06-25T19:39:53.359830"
+  },
+  {
+    "title": "IBM debuts sub-1 nanometer chip technology",
+    "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+    "author": "porridgeraisin",
+    "date": "2026-06-25",
+    "score": 135,
+    "comments": 79,
+    "id": 48674967,
+    "discussion_url": "https://news.ycombinator.com/item?id=48674967",
+    "description": "IBM debuts sub-1 nanometer chip technology",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359775"
+  },
+  {
+    "title": "LastPass notifies users of yet another data breach",
+    "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+    "author": "mooreds",
+    "date": "2026-06-25",
+    "score": 416,
+    "comments": 184,
+    "id": 48671468,
+    "discussion_url": "https://news.ycombinator.com/item?id=48671468",
+    "description": "LastPass notifies users of yet another data breach",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359862"
   },
   {
     "title": "LuaJIT 3.0 proposed syntax extensions",
     "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
     "author": "phreddypharkus",
     "date": "2026-06-25",
-    "score": 167,
-    "comments": 100,
+    "score": 216,
+    "comments": 146,
     "id": 48667336,
     "discussion_url": "https://news.ycombinator.com/item?id=48667336",
     "description": "LuaJIT 3.0 proposed syntax extensions",
@@ -252,32 +218,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644220"
+    "fetched_at": "2026-06-25T19:39:53.359938"
   },
   {
-    "title": "Minimus container images are now free",
-    "url": "https://images.minimus.io/",
-    "author": "dimastopel",
-    "date": "2026-06-24",
-    "score": 125,
-    "comments": 76,
-    "id": 48658361,
-    "discussion_url": "https://news.ycombinator.com/item?id=48658361",
-    "description": "Minimus container images are now free",
+    "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+    "url": "https://markdy.com",
+    "author": "surprisetalk",
+    "date": "2026-06-23",
+    "score": 105,
+    "comments": 64,
+    "id": 48646077,
+    "discussion_url": "https://news.ycombinator.com/item?id=48646077",
+    "description": "Markdy: Like Mermaid Diagrams, but for Motion",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644352"
+    "fetched_at": "2026-06-25T19:39:53.359960"
+  },
+  {
+    "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
+    "url": "https://tedium.co/2026/06/22/matts-script-archive-retrospective/",
+    "author": "1317",
+    "date": "2026-06-23",
+    "score": 80,
+    "comments": 21,
+    "id": 48639018,
+    "discussion_url": "https://news.ycombinator.com/item?id=48639018",
+    "description": "Matt's Script Archive: The Scripts That Reshaped the Web",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.360013"
+  },
+  {
+    "title": "Medical students are using popular research tool to pump out misleading studies",
+    "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+    "author": "rndsignals",
+    "date": "2026-06-25",
+    "score": 145,
+    "comments": 79,
+    "id": 48668119,
+    "discussion_url": "https://news.ycombinator.com/item?id=48668119",
+    "description": "Medical students are using popular research tool to pump out misleading studies",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359933"
+  },
+  {
+    "title": "OAuth for all",
+    "url": "https://blog.cloudflare.com/oauth-for-all/",
+    "author": "terryds",
+    "date": "2026-06-25",
+    "score": 334,
+    "comments": 143,
+    "id": 48668033,
+    "discussion_url": "https://news.ycombinator.com/item?id=48668033",
+    "description": "OAuth for all",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359875"
+  },
+  {
+    "title": "OS9Map",
+    "url": "https://yllan.org/software/OS9Map/",
+    "author": "LaSombra",
+    "date": "2026-06-25",
+    "score": 102,
+    "comments": 14,
+    "id": 48674484,
+    "discussion_url": "https://news.ycombinator.com/item?id=48674484",
+    "description": "OS9Map",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359785"
   },
   {
     "title": "OpenAI unveils its first custom chip, built by Broadcom",
     "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
     "author": "jamdesk",
     "date": "2026-06-24",
-    "score": 720,
-    "comments": 409,
+    "score": 796,
+    "comments": 455,
     "id": 48663324,
     "discussion_url": "https://news.ycombinator.com/item?id=48663324",
     "description": "OpenAI unveils its first custom chip, built by Broadcom",
@@ -286,32 +320,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644198"
+    "fetched_at": "2026-06-25T19:39:53.359982"
   },
   {
-    "title": "PR spam today looks like email spam in the early 2000s",
-    "url": "https://www.greptile.com/blog/prs-on-openclaw",
-    "author": "dakshgupta",
-    "date": "2026-06-24",
-    "score": 233,
-    "comments": 135,
-    "id": 48660579,
-    "discussion_url": "https://news.ycombinator.com/item?id=48660579",
-    "description": "PR spam today looks like email spam in the early 2000s",
+    "title": "Oxide computer 3D rack guided tour",
+    "url": "https://explorer.oxide.computer/",
+    "author": "darthcloud",
+    "date": "2026-06-22",
+    "score": 103,
+    "comments": 39,
+    "id": 48631450,
+    "discussion_url": "https://news.ycombinator.com/item?id=48631450",
+    "description": "Oxide computer 3D rack guided tour",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644247"
+    "fetched_at": "2026-06-25T19:39:53.359770"
   },
   {
     "title": "Qualcomm to Acquire Modular",
     "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
     "author": "timmyd",
     "date": "2026-06-24",
-    "score": 206,
-    "comments": 77,
+    "score": 234,
+    "comments": 98,
     "id": 48659798,
     "discussion_url": "https://news.ycombinator.com/item?id=48659798",
     "description": "Qualcomm to Acquire Modular",
@@ -320,185 +354,151 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644233"
+    "fetched_at": "2026-06-25T19:39:53.360000"
   },
   {
-    "title": "RubyLLM: A Ruby framework for all major AI providers",
-    "url": "https://rubyllm.com/",
-    "author": "doener",
-    "date": "2026-06-24",
-    "score": 396,
-    "comments": 68,
-    "id": 48660711,
-    "discussion_url": "https://news.ycombinator.com/item?id=48660711",
-    "description": "RubyLLM: A Ruby framework for all major AI providers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644236"
-  },
-  {
-    "title": "Running Windows Games on a Hobby OS with Wine",
-    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-    "author": "avaliosdev",
-    "date": "2026-06-24",
-    "score": 104,
-    "comments": 34,
-    "id": 48660671,
-    "discussion_url": "https://news.ycombinator.com/item?id=48660671",
-    "description": "Running Windows Games on a Hobby OS with Wine",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644324"
-  },
-  {
-    "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
-    "url": "https://www.monolisa.dev/",
-    "author": "bebraw",
-    "date": "2026-06-22",
-    "score": 174,
-    "comments": 81,
-    "id": 48630318,
-    "discussion_url": "https://news.ycombinator.com/item?id=48630318",
-    "description": "Show HN: Monolisa v3 – a typeface for developers and creatives",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644313"
-  },
-  {
-    "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-    "url": "https://github.com/nubjs/nub",
-    "author": "colinmcd",
-    "date": "2026-06-24",
-    "score": 253,
-    "comments": 69,
-    "id": 48660267,
-    "discussion_url": "https://news.ycombinator.com/item?id=48660267",
-    "description": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644274"
-  },
-  {
-    "title": "Stealing Is a Skill",
-    "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-    "author": "bewal416",
-    "date": "2026-06-24",
-    "score": 236,
-    "comments": 140,
-    "id": 48659165,
-    "discussion_url": "https://news.ycombinator.com/item?id=48659165",
-    "description": "Stealing Is a Skill",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644299"
-  },
-  {
-    "title": "The Xteink X4 E-Ink Reader",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "author": "felixdoerp",
-    "date": "2026-06-24",
-    "score": 267,
-    "comments": 153,
-    "id": 48662381,
-    "discussion_url": "https://news.ycombinator.com/item?id=48662381",
-    "description": "The Xteink X4 E-Ink Reader",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644258"
-  },
-  {
-    "title": "There are a few things that I look back on as my mistakes in the early days",
-    "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-    "author": "shadowtree",
-    "date": "2026-06-24",
-    "score": 537,
-    "comments": 266,
-    "id": 48661825,
-    "discussion_url": "https://news.ycombinator.com/item?id=48661825",
-    "description": "There are a few things that I look back on as my mistakes in the early days",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644305"
-  },
-  {
-    "title": "We’re making Bunny DNS free",
-    "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-    "author": "dabinat",
-    "date": "2026-06-24",
-    "score": 885,
-    "comments": 263,
-    "id": 48657030,
-    "discussion_url": "https://news.ycombinator.com/item?id=48657030",
-    "description": "We’re making Bunny DNS free",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644294"
-  },
-  {
-    "title": "Why eval startups fail (2025)",
-    "url": "https://thomasliao.com/eval-startups",
-    "author": "jxmorris12",
-    "date": "2026-06-22",
-    "score": 105,
-    "comments": 54,
-    "id": 48637868,
-    "discussion_url": "https://news.ycombinator.com/item?id=48637868",
-    "description": "Why eval startups fail (2025)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644338"
-  },
-  {
-    "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-    "url": "https://utaw.tech/news/wikipedia-recognition",
-    "author": "chobeat",
+    "title": "Show HN: Bible as RAG Database",
+    "url": "https://www.crosscanon.com/",
+    "author": "jacksonastone",
     "date": "2026-06-25",
-    "score": 103,
-    "comments": 113,
-    "id": 48669932,
-    "discussion_url": "https://news.ycombinator.com/item?id=48669932",
-    "description": "Wikipedia Workers in Britain set global first by seeking union recognition",
+    "score": 112,
+    "comments": 71,
+    "id": 48667807,
+    "discussion_url": "https://news.ycombinator.com/item?id=48667807",
+    "description": "Show HN: Bible as RAG Database",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644230"
+    "fetched_at": "2026-06-25T19:39:53.359942"
+  },
+  {
+    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+    "url": "https://hackernewstrends.com",
+    "author": "ytkimirti",
+    "date": "2026-06-25",
+    "score": 502,
+    "comments": 132,
+    "id": 48673671,
+    "discussion_url": "https://news.ycombinator.com/item?id=48673671",
+    "description": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359822"
+  },
+  {
+    "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+    "url": "https://minipcs.zip",
+    "author": "yathern",
+    "date": "2026-06-20",
+    "score": 76,
+    "comments": 28,
+    "id": 48612432,
+    "discussion_url": "https://news.ycombinator.com/item?id=48612432",
+    "description": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359866"
+  },
+  {
+    "title": "The disappearance of Japan's animators",
+    "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
+    "author": "andsoitis",
+    "date": "2026-06-21",
+    "score": 89,
+    "comments": 74,
+    "id": 48620422,
+    "discussion_url": "https://news.ycombinator.com/item?id=48620422",
+    "description": "The disappearance of Japan's animators",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359857"
+  },
+  {
+    "title": "The unbearable cheapness of open weight models",
+    "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+    "author": "ddxv",
+    "date": "2026-06-25",
+    "score": 116,
+    "comments": 107,
+    "id": 48668255,
+    "discussion_url": "https://news.ycombinator.com/item?id=48668255",
+    "description": "The unbearable cheapness of open weight models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359893"
+  },
+  {
+    "title": "Windows 10 quietly gets one more year of support and updates",
+    "url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
+    "author": "bundie",
+    "date": "2026-06-25",
+    "score": 154,
+    "comments": 116,
+    "id": 48675369,
+    "discussion_url": "https://news.ycombinator.com/item?id=48675369",
+    "description": "Windows 10 quietly gets one more year of support and updates",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359817"
+  },
+  {
+    "title": "You can't unit test for taste",
+    "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+    "author": "kalli",
+    "date": "2026-06-24",
+    "score": 201,
+    "comments": 85,
+    "id": 48657049,
+    "discussion_url": "https://news.ycombinator.com/item?id=48657049",
+    "description": "You can't unit test for taste",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359835"
+  },
+  {
+    "title": "Zig's new bitCast semantics and LLVM back end improvements",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "author": "kouosi",
+    "date": "2026-06-25",
+    "score": 161,
+    "comments": 52,
+    "id": 48673825,
+    "discussion_url": "https://news.ycombinator.com/item?id=48673825",
+    "description": "Zig's new bitCast semantics and LLVM back end improvements",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-25T19:39:53.359759"
   },
   {
     "title": "Zombie unicorns are haunting Silicon Valley",
     "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
     "author": "andsoitis",
     "date": "2026-06-25",
-    "score": 119,
-    "comments": 67,
+    "score": 148,
+    "comments": 96,
     "id": 48668020,
     "discussion_url": "https://news.ycombinator.com/item?id=48668020",
     "description": "Zombie unicorns are haunting Silicon Valley",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-25T11:56:02.644263"
+    "fetched_at": "2026-06-25T19:39:53.359955"
   }
 ]

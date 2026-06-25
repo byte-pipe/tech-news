@@ -20,26 +20,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "20 copywriting rules (2 minute read)",
-    "url": "https://www.linkedin.com/posts/zayd-syed-ali-4201101a9_i-once-rewrote-valleys-homepage-24-times-ugcPost-7472626568083935232-yEFh/",
-    "description": "20 copywriting rules (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "7 Crucial Barriers between Data Teams and Self-Healing Data Architecture (9 minute read)",
-    "url": "https://dataopsleadership.substack.com/p/7-crucial-barriers-between-data-teams",
-    "description": "7 Crucial Barriers between Data Teams and Self-Healing Data Architecture (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "7 Mistakes Founders Make When Chasing Their First Deals (8 minute read)",
     "url": "https://speedrun.substack.com/p/7-mistakes-founders-make-when-chasing-their-first-deals",
     "description": "7 Mistakes Founders Make When Chasing Their First Deals (8 minute read)",
@@ -53,6 +33,26 @@
     "title": "9 new LinkedIn features + what to do with each one (3 minute read)",
     "url": "https://www.linkedin.com/posts/diandraescobar_new-linkedin-features-2026-the-9-updates-ugcPost-7474754408447242241-cFDf/",
     "description": "9 new LinkedIn features + what to do with each one (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) (44 minute read)",
+    "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you",
+    "description": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) (44 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A New $500 Million Fund Is Trying to Eliminate the Common Cold (5 minute read)",
+    "url": "https://time.com/article/2026/06/24/500-million-intercept-fund-eliminate-common-cold/",
+    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
     "tags": [
       "tldr"
     ],
@@ -90,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Coding Tools Are Quietly Re-Pricing Themselves (5 minute read)",
-    "url": "https://www.digitalapplied.com/blog/ai-coding-tool-pricing-june-2026-seat-economics-guide",
-    "description": "AI Coding Tools Are Quietly Re-Pricing Themselves (5 minute read)",
+    "title": "AI Coding Costs Could Outrun Developer Salaries (4 minute read)",
+    "url": "https://www.ciodive.com/news/ai-spending-outpacing-human-developers/823690/",
+    "description": "AI Coding Costs Could Outrun Developer Salaries (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -160,9 +160,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "After 350 Projects, Design Studio UI UX Says Most Digital Products Fail for the Same Three Reasons (4 minute read)",
-    "url": "https://www.einpresswire.com/article/920433546/after-350-projects-design-studio-ui-ux-says-most-digital-products-fail-for-the-same-three-reasons",
-    "description": "After 350 Projects, Design Studio UI UX Says Most Digital Products Fail for the Same Three Reasons (4 minute read)",
+    "title": "Adobe: New Firefly Graph Can Turn Creative Workflows Into Reusable Assets (4 minute read)",
+    "url": "https://www.computerworld.com/article/4186410/adobe-new-firefly-graph-can-turn-creative-workflows-into-reusable-assets.html",
+    "description": "Adobe: New Firefly Graph Can Turn Creative Workflows Into Reusable Assets (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -190,16 +190,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects (5 minute read)",
-    "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
-    "description": "Amazon S3 annotations: attach rich, queryable context directly to your objects (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "An Ex-Meta L8's Agentic Engineering Setup (22 minute read)",
     "url": "https://blog.bytebytego.com/p/an-ex-meta-l8s-agentic-engineering",
     "description": "An Ex-Meta L8's Agentic Engineering Setup (22 minute read)",
@@ -220,9 +210,49 @@
     "site_name": "tldr"
   },
   {
-    "title": "Announcing Stack Overflow for Agents (8 minute read)",
-    "url": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
-    "description": "Announcing Stack Overflow for Agents (8 minute read)",
+    "title": "An opinionated (and mainly correct) guide to naming (8 minute read)",
+    "url": "https://adamtornhill.substack.com/p/an-opinionated-and-mainly-correct",
+    "description": "An opinionated (and mainly correct) guide to naming (8 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Analyzing Claude Code usage with CloudWatch and OpenTelemetry (6 minute read)",
+    "url": "https://aws.amazon.com/blogs/mt/analyzing-claude-code-usage-with-cloudwatch-and-opentelemetry/",
+    "description": "Analyzing Claude Code usage with CloudWatch and OpenTelemetry (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic and Alibaba Launch Joint AI Model Distillation Campaign (4 minute read)",
+    "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+    "description": "Anthropic and Alibaba Launch Joint AI Model Distillation Campaign (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic reimagines Claude in Slack as nosy, always-on agentic AI coworker (6 minute read)",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/23/anthropic-reimagines-claude-in-slack-as-nosy-always-on-agentic-ai-coworker/5260422",
+    "description": "Anthropic reimagines Claude in Slack as nosy, always-on agentic AI coworker (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic's Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says (2 minute read)",
+    "url": "https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
+    "description": "Anthropic's Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -270,9 +300,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Bitmine holds 4.72 million staked ETH, generating $223M in annual yield (2 minute read)",
-    "url": "https://threadreaderapp.com/thread/2069164451388133700.html",
-    "description": "Bitmine holds 4.72 million staked ETH, generating $223M in annual yield (2 minute read)",
+    "title": "Base Beryl: B20 Token Standard, Faster Withdrawals, Reth V2 (4 minute read)",
+    "url": "https://x.com/buildonbase/status/2067693904909189141",
+    "description": "Base Beryl: B20 Token Standard, Faster Withdrawals, Reth V2 (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -280,9 +310,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Build an AI Flywheel for Ecommerce (2 minute read)",
-    "url": "https://www.practicalecommerce.com/build-an-ai-flywheel-for-ecommerce",
-    "description": "Build an AI Flywheel for Ecommerce (2 minute read)",
+    "title": "Bitcoin Slips Toward $63,000 as a Tech Selloff Drags Risk Assets Lower (3 minute read)",
+    "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-slips-toward-usd63-000-as-a-tech-selloff-drags-risk-assets-lower",
+    "description": "Bitcoin Slips Toward $63,000 as a Tech Selloff Drags Risk Assets Lower (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -290,9 +320,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness (16 minute read)",
-    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "description": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness (16 minute read)",
+    "title": "Bunny Makes DNS Free To Pull More Apps Onto Its Edge Platform (3 minute read)",
+    "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+    "description": "Bunny Makes DNS Free To Pull More Apps Onto Its Edge Platform (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -300,9 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Building in the Age of Collaborative Coding (9 minute read)",
-    "url": "https://www.builder.io/blog/building-in-the-age-of-collaborative-coding",
-    "description": "Building in the Age of Collaborative Coding (9 minute read)",
+    "title": "Can We Agree on a Storage/Workload Architecture Taxonomy? (9 minute read)",
+    "url": "https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy",
+    "description": "Can We Agree on a Storage/Workload Architecture Taxonomy? (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -310,39 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "ByteDance's New AI Video Model Can Make 30-Second Clips From a Single Prompt (2 minute read)",
-    "url": "https://www.cnet.com/tech/services-and-software/bytedance-introduces-new-seedance-2-5-video-model/",
-    "description": "ByteDance's New AI Video Model Can Make 30-Second Clips From a Single Prompt (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Can John Ternus bring the fun back to Apple design? (3 minute read)",
-    "url": "https://www.creativebloq.com/design/product-design/can-john-ternus-bring-the-fun-back-to-apple-design",
-    "description": "Can John Ternus bring the fun back to Apple design? (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Cell-Based Architecture for Resilient Payment Systems (12 minute read)",
-    "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-    "description": "Cell-Based Architecture for Resilient Payment Systems (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Chat-based onboarding (6 minute read)",
-    "url": "https://www.retention.blog/p/chat-based-onboarding",
-    "description": "Chat-based onboarding (6 minute read)",
+    "title": "Chinese Bitcoin miner Jiang Zhuoer calls BTC bear market bottom (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2069986084679794801.html",
+    "description": "Chinese Bitcoin miner Jiang Zhuoer calls BTC bear market bottom (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -370,19 +370,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude Code now supports artifacts (5 minute read)",
-    "url": "https://claude.com/blog/artifacts-in-claude-code",
-    "description": "Claude Code now supports artifacts (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Claude Tag (2 minute read)",
     "url": "https://www.anthropic.com/news/introducing-claude-tag",
-    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
+    "description": "Claude Tag (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -390,9 +380,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Coalition of organizations building Ethereum's future (3 minute read)",
-    "url": "https://threadreaderapp.com/thread/2069138527493747139.html",
-    "description": "Coalition of organizations building Ethereum's future (3 minute read)",
+    "title": "Client-Side Load Balancing at a Million Requests Per Second (13 minute read)",
+    "url": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html",
+    "description": "Client-Side Load Balancing at a Million Requests Per Second (13 minute read)",
     "tags": [
       "tldr"
     ],
@@ -400,9 +390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Coinbase is turning Agents Into the New Trading Interface (5 minute read)",
-    "url": "https://x.com/davewardonline/status/2067234610426085562",
-    "description": "Coinbase is turning Agents Into the New Trading Interface (5 minute read)",
+    "title": "Clustering Unstructured Text with LLM Embeddings and HDBSCAN (9 minute read)",
+    "url": "https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/",
+    "description": "Clustering Unstructured Text with LLM Embeddings and HDBSCAN (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -410,9 +400,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Collaborative Posts Are Coming to LinkedIn (6 minute read)",
+    "title": "Collaborative Posts Are Coming to LinkedIn — What They Are and How to Make Them Work (6 minute read)",
     "url": "https://buffer.com/resources/linkedin-collab-posts/",
-    "description": "Collaborative Posts Are Coming to LinkedIn (6 minute read)",
+    "description": "Collaborative Posts Are Coming to LinkedIn — What They Are and How to Make Them Work (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -430,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Data quality traffic lights (13 minute read)",
-    "url": "https://robertsahlin.substack.com/p/data-quality-traffic-lights",
-    "description": "Data quality traffic lights (13 minute read)",
+    "title": "Consistency, but in Excellence Not Appearance (2 minute read)",
+    "url": "https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/",
+    "description": "Consistency, but in Excellence Not Appearance (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -440,9 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Databricks targets AI-driven threat detection with Panther deal (2 minute read)",
-    "url": "https://www.techmonitor.ai/news/databricks-targets-ai-driven-threat-detection-with-panther-deal?amp%3Butm_source=tldrit",
-    "description": "Databricks targets AI-driven threat detection with Panther deal (2 minute read)",
+    "title": "Copy Templates (Website)",
+    "url": "https://copytemplates.com/",
+    "description": "Copy Templates (Website)",
     "tags": [
       "tldr"
     ],
@@ -450,9 +440,59 @@
     "site_name": "tldr"
   },
   {
-    "title": "Deluxe to buy Celero Commerce for $625M (2 minute read)",
-    "url": "https://www.paymentsdive.com/news/deluxe-makes-625m-acquisition/823276/",
-    "description": "Deluxe to buy Celero Commerce for $625M (2 minute read)",
+    "title": "Cordyceps: The Silent Parasite Consuming Your Supply Chain (12 minute read)",
+    "url": "https://novee.security/blog/cordyceps/",
+    "description": "Cordyceps: The Silent Parasite Consuming Your Supply Chain (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps (3 minute read)",
+    "url": "https://www.securityweek.com/data-exposure-flaws-threaten-dify-ai-platform-powering-over-1-million-apps/",
+    "description": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Data Lakehouses Are Becoming The Foundation For Enterprise AI (11 minute read)",
+    "url": "https://www.cio.com/article/4184051/data-lakehouses-are-becoming-foundations-for-enterprise-ai.html",
+    "description": "Data Lakehouses Are Becoming The Foundation For Enterprise AI (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "David Marcus on Lightspark reaching escape velocity in global payments (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2069819389994750120.html",
+    "description": "David Marcus on Lightspark reaching escape velocity in global payments (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Delightful new Warner Bros Animation logo reveal is the perfect antidote to CGI saturation (2 minute read)",
+    "url": "https://www.creativebloq.com/art/animation/new-warner-bros-animation-logo-reveal-is-the-perfect-antidote-to-cgi-saturation",
+    "description": "Delightful new Warner Bros Animation logo reveal is the perfect antidote to CGI saturation (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Detecting Misuse with the Claude Compliance API: The Threat is in the Content (12 minute read)",
+    "url": "https://www.papermtn.co.uk/detecting-misuse-with-the-claude-compliance-api-the-threat-is-in-the-content/",
+    "description": "Detecting Misuse with the Claude Compliance API: The Threat is in the Content (12 minute read)",
     "tags": [
       "tldr"
     ],
@@ -480,9 +520,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "DuckDB's agent moment (55 minute podcast)",
-    "url": "https://roundup.getdbt.com/p/duckdbs-agent-moment-jordan-tigani",
-    "description": "DuckDB's agent moment (55 minute podcast)",
+    "title": "ETH exchange reserves hit all-time low (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2069916670202978659.html",
+    "description": "ETH exchange reserves hit all-time low (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -490,9 +530,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ethlabs Launches as Non-Profit R&D Lab for Ethereum Infrastructure (2 minute read)",
-    "url": "https://threadreaderapp.com/thread/2069104073245159573.html",
-    "description": "Ethlabs Launches as Non-Profit R&D Lab for Ethereum Infrastructure (2 minute read)",
+    "title": "Ethereum Foundation Cuts 54 Staff in Largest Restructuring (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2069408300148388113.html",
+    "description": "Ethereum Foundation Cuts 54 Staff in Largest Restructuring (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -530,16 +570,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "FFmpeg Fixes PixelSmash Flaw in Widely Used Video Decoder (2 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-    "description": "FFmpeg Fixes PixelSmash Flaw in Widely Used Video Decoder (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Firecrawl (GitHub Repo)",
     "url": "https://github.com/firecrawl/firecrawl",
     "description": "Firecrawl (GitHub Repo)",
@@ -550,19 +580,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Fired by Google for creating the Google workspace CLI (6 minute read)",
-    "url": "https://xcancel.com/JPoehnelt/status/2069482265953087602",
-    "description": "Fired by Google for creating the Google workspace CLI (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Flue (GitHub Repo)",
-    "url": "https://github.com/withastro/flue",
-    "description": "Flue (GitHub Repo)",
+    "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation (5 minute read)",
+    "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+    "description": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -580,29 +600,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Framer 3.0 (1 minute read)",
-    "url": "https://www.framer.com/updates/framer-3",
-    "description": "Framer 3.0 (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "From Prompting Agents to Loop Engineering (12 minute read)",
     "url": "https://x.com/omarsar0/status/2068008743153832264",
     "description": "From Prompting Agents to Loop Engineering (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "GLM-5.2 - How to Run Locally (11 minute read)",
-    "url": "https://unsloth.ai/docs/models/glm-5.2",
-    "description": "GLM-5.2 - How to Run Locally (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -620,9 +620,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Getty Images Announces Display Partnership with OpenAI (2 minute read)",
-    "url": "https://newsroom.gettyimages.com/en/getty-images/getty-images-announces-display-partnership-with-openai",
-    "description": "Getty Images Announces Display Partnership with OpenAI (2 minute read)",
+    "title": "GLM-5.2 is the step change for open agents (11 minute read)",
+    "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "description": "GLM-5.2 is the step change for open agents (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -630,9 +630,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns (3 minute read)",
-    "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
-    "description": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns (3 minute read)",
+    "title": "Gamify your product promotions (3 minute read)",
+    "url": "https://app.sciencesays.com/p/gamify-your-product-promotions",
+    "description": "Gamify your product promotions (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Gemini Researchers Join Anthropic (1 minute read)",
+    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "description": "Gemini Researchers Join Anthropic (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Geordie (Product Launch)",
+    "url": "https://www.geordie.ai",
+    "description": "Geordie (Product Launch)",
     "tags": [
       "tldr"
     ],
@@ -660,19 +680,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google Cloud and Nokia launch telecom AI agents (3 minute read)",
-    "url": "https://www.sdxcentral.com/news/google-cloud-ups-telecom-game-with-nokia-ai-agent-infusion/",
-    "description": "Google Cloud and Nokia launch telecom AI agents (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Here's my AI-enabled dbt project structure (2 minute read)",
-    "url": "https://www.linkedin.com/posts/oleg-agapov_heres-my-ai-enabled-dbt-project-structure-share-7473967204418338816-aZuf/",
-    "description": "Here's my AI-enabled dbt project structure (2 minute read)",
+    "title": "Google Apps Script Becomes A Core Workspace Service (3 minute read)",
+    "url": "https://workspaceupdates.googleblog.com/2026/06/google-apps-script-workspace-core-service.html",
+    "description": "Google Apps Script Becomes A Core Workspace Service (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -700,9 +710,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability (8 minute read)",
-    "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
-    "description": "How Cloudflare responded to the “Copy Fail” Linux vulnerability (8 minute read)",
+    "title": "How AI Is Rewriting the SecOps Playbook (6 minute read)",
+    "url": "https://www.wiz.io/blog/ai-rewriting-secops-playbook",
+    "description": "How AI Is Rewriting the SecOps Playbook (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How accepting “just build this thing” can hurt your design career (6 minute read)",
+    "url": "https://thedesignersfieldguide.substack.com/p/how-accepting-just-build-this-thing",
+    "description": "How accepting “just build this thing” can hurt your design career (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -713,16 +733,6 @@
     "title": "How product management can fix your AI integration problems (6 minute read)",
     "url": "https://jeffgothelf.com/blog/how-product-management-can-fix-your-ai-integration-problems/",
     "description": "How product management can fix your AI integration problems (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How to Design Arrows (5 minute read)",
-    "url": "https://pangrampangram.com/blogs/journal/arrows",
-    "description": "How to Design Arrows (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -750,6 +760,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "How to apply professional design principles in AI app development (9 minute read)",
+    "url": "https://expo.dev/blog/how-to-apply-professional-design-principles-in-ai-app-development",
+    "description": "How to apply professional design principles in AI app development (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "How to design AI agent loops (29 minute video)",
     "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
     "description": "How to design AI agent loops (29 minute video)",
@@ -770,9 +790,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How we built a persistent agent memory layer on Elasticsearch with 0.89 recall and zero tenant leaks (26 minute read)",
-    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-    "description": "How we built a persistent agent memory layer on Elasticsearch with 0.89 recall and zero tenant leaks (26 minute read)",
+    "title": "How to write your weekly roundup email (1 minute read)",
+    "url": "https://www.linkedin.com/posts/dbusta_you-dont-need-to-spend-hours-writing-every-share-7475547524309782528-5uYa/",
+    "description": "How to write your weekly roundup email (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -790,9 +810,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Hunk (GitHub Repo)",
-    "url": "https://github.com/modem-dev/hunk",
-    "description": "Hunk (GitHub Repo)",
+    "title": "IBM, Red Hat, Palo Alto team to secure open-source software (3 minute read)",
+    "url": "https://www.networkworld.com/article/4189077/ibm-red-hat-palo-alto-team-to-secure-open-source-software.html",
+    "description": "IBM, Red Hat, Palo Alto team to secure open-source software (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Indian auto giant Bajaj Auto hit by ransomware incident (2 minute read)",
+    "url": "https://therecord.media/indian-auto-giant-bajaj-auto-hit-by-ransomware",
+    "description": "Indian auto giant Bajaj Auto hit by ransomware incident (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -820,6 +850,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Introducing Computer Use on Gemini 3.5 Flash (3 minute read)",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "description": "Introducing Computer Use on Gemini 3.5 Flash (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "Introducing the Cloudflare One stack: agent-powered deployment (4 minute read)",
     "url": "https://blog.cloudflare.com/cloudflare-one-stack/",
     "description": "Introducing the Cloudflare One stack: agent-powered deployment (4 minute read)",
@@ -830,9 +870,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "JPMorgan limits Claude use in Hong Kong (1 minute read)",
-    "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-limits-claude-hong-kong-122432362.html",
-    "description": "JPMorgan limits Claude use in Hong Kong (1 minute read)",
+    "title": "JSON-LD Explained for Personal Websites (11 minute read)",
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "description": "JSON-LD Explained for Personal Websites (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -840,9 +880,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "JSON-LD Explained for Personal Websites (11 minute read)",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "description": "JSON-LD Explained for Personal Websites (11 minute read)",
+    "title": "Jamf Highlights DDM For Real-Time Mac Fleet Visibility (3 minute read)",
+    "url": "https://www.jamf.com/blog/mac-fleet-visibility-ddm-proactive-status-reporting/",
+    "description": "Jamf Highlights DDM For Real-Time Mac Fleet Visibility (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -870,29 +910,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Key Soft Skills to Succeed as a UX Designer (15 minute read)",
-    "url": "https://ixdf.org/literature/article/key-soft-skills-to-succeed-as-a-ux-designer",
-    "description": "Key Soft Skills to Succeed as a UX Designer (15 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Knowledge Agents: Beat Frontier Models with Better Structure (18 minute read)",
     "url": "https://weightythoughts.com/p/knowledge-agents-beat-frontier-models",
     "description": "Knowledge Agents: Beat Frontier Models with Better Structure (18 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Lipton Is Turning Local Creators Into Its Social Teams (3 minute read)",
-    "url": "https://wersm.com/lipton-local-creators-social-teams/",
-    "description": "Lipton Is Turning Local Creators Into Its Social Teams (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -920,36 +940,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Meta Pauses an AI Training Program that Tracks Employees' Keystrokes After an Internal Leak (2 minute read)",
-    "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-    "description": "Meta Pauses an AI Training Program that Tracks Employees' Keystrokes After an Internal Leak (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Micron and Anthropic Announce Strategic Agreement to Scale Next-Generation AI Infrastructure (3 minute read)",
-    "url": "https://investors.micron.com/news-releases/news-release-details/micron-and-anthropic-announce-strategic-agreement-scale-next",
-    "description": "Micron and Anthropic Announce Strategic Agreement to Scale Next-Generation AI Infrastructure (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Midjourney, the AI image generator, is developing a full-body ultrasonic scanner (3 minute read)",
-    "url": "https://www.engadget.com/2196998/midjourney-full-body-ultrasonic-scanner/",
-    "description": "Midjourney, the AI image generator, is developing a full-body ultrasonic scanner (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Mistral OCR 4: SOTA OCR for Document Intelligence (9 minute read)",
     "url": "https://mistral.ai/news/ocr-4/",
     "description": "Mistral OCR 4: SOTA OCR for Document Intelligence (9 minute read)",
@@ -970,9 +960,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "N8n 2026 AI agent builder report (12 minute read)",
-    "url": "https://n8n.io/reports/2026-ai-agent-development-tools/",
-    "description": "N8n 2026 AI agent builder report (12 minute read)",
+    "title": "Moving Beyond UX: The Rise of the Agentic Experience (AX) Designer (3 minute read)",
+    "url": "https://webdesignerdepot.com/moving-beyond-ux-the-rise-of-the-agentic-experience-ax-designer/",
+    "description": "Moving Beyond UX: The Rise of the Agentic Experience (AX) Designer (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Moving Linear from styled‑components to StyleX (6 minute read)",
+    "url": "https://www.skovhus.dev/blog/moving-linear-from-styled-components-to-stylex",
+    "description": "Moving Linear from styled‑components to StyleX (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "My Beef with Agentic Design Systems (5 minute read)",
+    "url": "https://southleft.substack.com/p/my-beef-with-agentic-design-systems",
+    "description": "My Beef with Agentic Design Systems (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -990,9 +1000,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "New Alexa+ Agentic Ads let shoppers purchase directly within an ad (3 minute read)",
-    "url": "https://advertising.amazon.com/library/news/alexa-agentic-ads",
-    "description": "New Alexa+ Agentic Ads let shoppers purchase directly within an ad (3 minute read)",
+    "title": "New Site Calls Out Companies Without Passkey Support (2 minute read)",
+    "url": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
+    "description": "New Site Calls Out Companies Without Passkey Support (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Notes on Amazon v. Perplexity (27 minute read)",
+    "url": "https://educatedguesswork.org/posts/notes-amazon-perplexity/",
+    "description": "Notes on Amazon v. Perplexity (27 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1010,46 +1030,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Open Source vs the Invisible Hand (6 minute read)",
-    "url": "https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html",
-    "description": "Open Source vs the Invisible Hand (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI prepares GPT-5.6 models for the upcoming release (2 minute read)",
-    "url": "https://www.testingcatalog.com/openai-prepares-gpt-5-6-models-for-the-upcoming-release/",
-    "description": "OpenAI prepares GPT-5.6 models for the upcoming release (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenClaw's Skill Marketplace and the Emerging AI Supply Chain Threat (7 minute read)",
-    "url": "https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/",
-    "description": "OpenClaw's Skill Marketplace and the Emerging AI Supply Chain Threat (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Orca (GitHub Repo)",
-    "url": "https://github.com/stablyai/orca",
-    "description": "Orca (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Owning vs. Renting Intelligence (2 minute read)",
     "url": "https://x.com/lqiao/status/2066403957824688462",
     "description": "Owning vs. Renting Intelligence (2 minute read)",
@@ -1060,9 +1040,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Proof of Nothing (5 minute read)",
-    "url": "https://x.com/simonthekid_/status/2069100192146546945",
-    "description": "Proof of Nothing (5 minute read)",
+    "title": "Qwen-AgentWorld (29 minute read)",
+    "url": "https://arxiv.org/abs/2606.24597",
+    "description": "Qwen-AgentWorld (29 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Reach that drives pipeline (2 minute read)",
+    "url": "https://www.linkedin.com/posts/lukeshalom_reach-is-a-vanity-metric-i-used-to-believe-share-7475571867089518592-tkS4/",
+    "description": "Reach that drives pipeline (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Real-Time Dither Animation Builder (Website)",
+    "url": "https://dotforge.vercel.app/",
+    "description": "Real-Time Dither Animation Builder (Website)",
     "tags": [
       "tldr"
     ],
@@ -1083,16 +1083,6 @@
     "title": "Recall (GitHub Repo)",
     "url": "https://github.com/raiyanyahya/recall",
     "description": "Recall (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Rethinking cloud operations with agentic observability (5 minute read)",
-    "url": "https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/",
-    "description": "Rethinking cloud operations with agentic observability (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1130,6 +1120,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "SQLBuild (GitHub Repo)",
+    "url": "https://github.com/chio-labs/sqlbuild",
+    "description": "SQLBuild (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "Sakana Fugu (3 minute read)",
     "url": "https://threadreaderapp.com/thread/2068862070062485867.html",
     "description": "Sakana Fugu (3 minute read)",
@@ -1140,9 +1140,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Siri AI hints at new iPhone 18 Pro design change (1 minute read)",
-    "url": "https://9to5mac.com/2026/06/16/siri-ai-hints-at-new-iphone-18-pro-design-change/",
-    "description": "Siri AI hints at new iPhone 18 Pro design change (1 minute read)",
+    "title": "Shunpei Kamiya finds the surreal, and the funny, in everyday Tokyo (5 minute read)",
+    "url": "https://www.creativeboom.com/inspiration/shunpei-kamiya-turns-ordinary-tokyo-scenes-into-images-that-feel-slightly-wrong/",
+    "description": "Shunpei Kamiya finds the surreal, and the funny, in everyday Tokyo (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1160,9 +1160,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Space startups seek insurance for orbital AI data centers (2 minute read)",
-    "url": "https://www.insurancejournal.com/news/international/2026/06/19/874489.htm",
-    "description": "Space startups seek insurance for orbital AI data centers (2 minute read)",
+    "title": "SpaceX S-1 full analysis (6 minute read)",
+    "url": "https://robonomics.substack.com/p/spacex-s-1-full-analysis",
+    "description": "SpaceX S-1 full analysis (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1200,6 +1200,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Stealing is a Skill (5 minute read)",
+    "url": "https://ben-mini.com/2026/stealing-is-a-skill",
+    "description": "Stealing is a Skill (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Stop Programming in Markdown (7 minute read)",
+    "url": "https://structural.chat/articles/programming-in-markdown/",
+    "description": "Stop Programming in Markdown (7 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "Stop trying to replace people with AI (6 minute read)",
     "url": "https://www.growth-memo.com/p/stop-trying-to-replace-people-with",
     "description": "Stop trying to replace people with AI (6 minute read)",
@@ -1210,9 +1230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SysWarden (GitHub Repo)",
-    "url": "https://github.com/duggytuxy/syswarden",
-    "description": "SysWarden (GitHub Repo)",
+    "title": "Superhuman Buys GPTZero To Add An AI Authenticity Layer (3 minute read)",
+    "url": "https://siliconangle.com/2026/06/24/grammarly-parent-superhuman-buys-ai-detector-gptzero/",
+    "description": "Superhuman Buys GPTZero To Add An AI Authenticity Layer (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1220,9 +1240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "System Design Cheatsheet (7 minute read)",
-    "url": "https://gist.github.com/SuyashDive2005/be5865a9755ca1dd50523f7aeeae4417",
-    "description": "System Design Cheatsheet (7 minute read)",
+    "title": "Taiko halts its network after a bridge exploit (4 minute read)",
+    "url": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
+    "description": "Taiko halts its network after a bridge exploit (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1230,9 +1250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Tenet (Product Launch)",
-    "url": "https://tenetsecurity.ai/",
-    "description": "Tenet (Product Launch)",
+    "title": "Tesla, Sunrun team up on 16 GW virtual power plant for data centers (6 minute read)",
+    "url": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/",
+    "description": "Tesla, Sunrun team up on 16 GW virtual power plant for data centers (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1250,19 +1270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The 37signals Guide to Making Decisions (5 minute read)",
-    "url": "https://x.com/jasonfried/status/2066893762270261586",
-    "description": "The 37signals Guide to Making Decisions (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The Agent Loop Architecture (18 minute read)",
-    "url": "https://x.com/djfarrelly/status/2067677007140278630",
-    "description": "The Agent Loop Architecture (18 minute read)",
+    "title": "The CEO of AWS on why Amazon is hiring 11,000 interns and junior employees (22 minute read)",
+    "url": "https://www.platformer.news/matt-garman-aws-ceo-interview-ai-jobs/",
+    "description": "The CEO of AWS on why Amazon is hiring 11,000 interns and junior employees (22 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1290,6 +1300,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The HTTP QUERY Method (28 minute read)",
+    "url": "https://datatracker.ietf.org/doc/rfc10008/",
+    "description": "The HTTP QUERY Method (28 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "The Knowledge That Dies When the Project Goes Live (2 minute read)",
     "url": "https://spin.atomicobject.com/ai-knowledge-base/",
     "description": "The Knowledge That Dies When the Project Goes Live (2 minute read)",
@@ -1303,16 +1323,6 @@
     "title": "The Minimum Viable Unit of Saleable Software (10 minute read)",
     "url": "https://brandur.org/minimum-viable-unit",
     "description": "The Minimum Viable Unit of Saleable Software (10 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The Mom-and-Pop SaaS era has arrived (12 minute read)",
-    "url": "https://www.elenaverna.com/p/the-mom-and-pop-saas-era-has-arrived",
-    "description": "The Mom-and-Pop SaaS era has arrived (12 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1340,16 +1350,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "The State of AI Post-Training Agents (8 minute read)",
-    "url": "https://thoughtfullab.com/the-state-of-ai-post-training-agents.html",
-    "description": "The State of AI Post-Training Agents (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "The Uncomfortable Reason You Keep Self-Sabotaging (7 minute read)",
     "url": "https://bakadesuyo.com/2026/06/self-sabotage/",
     "description": "The Uncomfortable Reason You Keep Self-Sabotaging (7 minute read)",
@@ -1370,29 +1370,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The analytics engineer in 2026: system designer, governance owner, AI context provider (5 minute read)",
-    "url": "https://www.getdbt.com/blog/the-analytics-engineer-in-2026-system-designer-governance-owner-ai-context-provider",
-    "description": "The analytics engineer in 2026: system designer, governance owner, AI context provider (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The anatomy of a copywriting prompt (1 minute read)",
-    "url": "https://www.linkedin.com/posts/shlomogenchin_copywriting-prompts-usually-sound-like-this-share-7472927409491800065-DsoJ/",
-    "description": "The anatomy of a copywriting prompt (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The prompt-to-purchase pipeline: What millions of search events told us about how AI influences buyer behavior (8 minute read)",
-    "url": "https://scrunch.com/blog/prompt-to-purchase-pipeline-how-ai-influences-buyer-behavior/",
-    "description": "The prompt-to-purchase pipeline: What millions of search events told us about how AI influences buyer behavior (8 minute read)",
+    "title": "The hidden burnout crisis facing social media marketers (4 minute read)",
+    "url": "https://theconversation.com/the-hidden-burnout-crisis-facing-social-media-marketers-283216",
+    "description": "The hidden burnout crisis facing social media marketers (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1410,9 +1390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "TikTok adds new AI creation tools for marketers (2 minute read)",
-    "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-ai-creation-tools-for-marketers/823463",
-    "description": "TikTok adds new AI creation tools for marketers (2 minute read)",
+    "title": "Timescales of play (6 minute read)",
+    "url": "https://www.davesresearch.com/timescales/",
+    "description": "Timescales of play (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1420,9 +1400,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Unlimited OCR Works (GitHub Repo)",
-    "url": "https://github.com/baidu/Unlimited-OCR",
-    "description": "Unlimited OCR Works (GitHub Repo)",
+    "title": "Tokenized stocks are a net positive for crypto, not a threat to it (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2069785416970957283.html",
+    "description": "Tokenized stocks are a net positive for crypto, not a threat to it (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Turso (GitHub Repo)",
+    "url": "https://github.com/tursodatabase/turso",
+    "description": "Turso (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -1440,9 +1430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "War by Other Means (18 minute read)",
-    "url": "https://letter.palladiummag.com/p/war-by-other-means",
-    "description": "War by Other Means (18 minute read)",
+    "title": "Visa, Mastercard fend off fee foes (4 minute read)",
+    "url": "https://www.paymentsdive.com/news/visa-mastercard-fend-off-fee-foes/823395/",
+    "description": "Visa, Mastercard fend off fee foes (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1470,26 +1460,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "What Is Software, and Will LLMs Replace It? (10 minute read)",
-    "url": "https://tomassetti.me/what-is-software-llms-interface-layer/",
-    "description": "What Is Software, and Will LLMs Replace It? (10 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "What will startups do in 2030? (7 minute read)",
-    "url": "https://benn.substack.com/p/what-will-startups-do-in-2030",
-    "description": "What will startups do in 2030? (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "WhatsApp Phishing Campaign Uses Fake Business Docs To Hack Windows PCs (3 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
     "description": "WhatsApp Phishing Campaign Uses Fake Business Docs To Hack Windows PCs (3 minute read)",
@@ -1510,26 +1480,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Who Sets the Quality Bar? (4 minute read)",
-    "url": "https://marieclairedean.substack.com/p/who-sets-the-quality-bar",
-    "description": "Who Sets the Quality Bar? (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Why AI for GTM Hasn't Delivered (and How to Fix It) (8 minute read)",
-    "url": "https://x.com/thecamjwright/status/2066250873295061412",
-    "description": "Why AI for GTM Hasn't Delivered (and How to Fix It) (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Why Amazon hates 'human-in-the-loop' AI governance (7 minute read)",
     "url": "https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639",
     "description": "Why Amazon hates 'human-in-the-loop' AI governance (7 minute read)",
@@ -1540,9 +1490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why stablecoins are good for the card networks, not a threat to them (3 minute read)",
-    "url": "https://x.com/jevgenijs/status/2069093812043939972",
-    "description": "Why stablecoins are good for the card networks, not a threat to them (3 minute read)",
+    "title": "Why Technically Excellent Data Teams Still Fail (7 minute read)",
+    "url": "https://practicaldatacommunity.substack.com/p/why-technically-excellent-data-teams",
+    "description": "Why Technically Excellent Data Teams Still Fail (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1550,19 +1500,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why we're bullish on loops (7 minute read)",
-    "url": "https://newsletter.posthog.com/p/why-were-bullish-on-loops",
-    "description": "Why we're bullish on loops (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-06-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit (3 minute read)",
-    "url": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
-    "description": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit (3 minute read)",
+    "title": "Why big AI labs are hiring so many philosophers (8 minute read)",
+    "url": "https://archive.is/T1FJG",
+    "description": "Why big AI labs are hiring so many philosophers (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1573,6 +1513,26 @@
     "title": "Workflows Are King (5 minute read)",
     "url": "https://x.com/jaminball/status/2067981638227964220",
     "description": "Workflows Are King (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Writing Loops, Not Prompts, Explained (15 minute read)",
+    "url": "https://rico.codes/loops-not-prompts",
+    "description": "Writing Loops, Not Prompts, Explained (15 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Xapo Bank updates BTC-backed loans (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2069798489588908207.html",
+    "description": "Xapo Bank updates BTC-backed loans (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1600,9 +1560,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "codebase-memory-mcp (GitHub Repo)",
-    "url": "https://github.com/DeusData/codebase-memory-mcp",
-    "description": "codebase-memory-mcp (GitHub Repo)",
+    "title": "Your Documentation is Still in Your Mum's Filing Cabinet (4 minute read)",
+    "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
+    "description": "Your Documentation is Still in Your Mum's Filing Cabinet (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "iPhone Ultra 3D-printed hinge problems reportedly solved, ready for September launch (2 minute read)",
+    "url": "https://9to5mac.com/2026/06/24/iphone-ultra-3d-printed-hinge-problems-reportedly-solved-ready-for-september-launch/",
+    "description": "iPhone Ultra 3D-printed hinge problems reportedly solved, ready for September launch (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1613,6 +1583,16 @@
     "title": "kipi (GitHub Repo)",
     "url": "https://github.com/assafkip/kipi",
     "description": "kipi (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-06-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "security-audit-skill (GitHub Repo)",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "description": "security-audit-skill (GitHub Repo)",
     "tags": [
       "tldr"
     ],
