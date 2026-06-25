@@ -1,83 +1,80 @@
 ---
 date: '2026-06-25'
 model: gpt-oss:120b-cloud
-generated_at: '2026-06-25T19:26:17.695576'
+generated_at: '2026-06-25T19:31:26.754781'
 ---
 
 ## Executive Summary
-- Large‑language‑model research took a leap forward with the open‑source **Qwen‑AgentWorld** system, which outperforms frontier models on multi‑domain simulation benchmarks.  
-- ABC’s on‑air campaign against an FCC licence‑renewal push underscores growing political pressure on major broadcasters and raises First‑Amendment concerns.  
-- **Quaise Energy** demonstrated a 100‑m millimeter‑wave drill, a milestone that could accelerate commercial super‑hot geothermal power by 2028.  
-- AI continues to reshape hard‑science fields: reinforcement‑learning‑driven RFIC design outpaces human engineers, and a machine‑learning pipeline has identified novel antibiotics against drug‑resistant gonorrhoea.  
-- Microsoft’s claimed quantum breakthrough is being challenged over basic Python bugs, highlighting the importance of reproducible software in cutting‑edge research.
+- Large‑scale language world models such as Qwen‑AgentWorld demonstrate superior multi‑domain simulation capabilities, promising a new foundation for general‑purpose agents.  
+- Geopolitical pressure on U.S. broadcasters intensifies, with ABC mobilizing viewers to oppose FCC licence‑renewal actions that critics label an abuse of regulatory power.  
+- Breakthroughs in hardware (Quaise’s millimeter‑wave geothermal drilling) and software (the Rhombus language, AI‑driven RFIC design, and AI‑identified antibiotics) highlight rapid cross‑disciplinary innovation.  
+- Scrutiny of high‑profile tech claims continues, exemplified by the debate over Microsoft’s quantum‑computing results and the exposure of a historic hacker’s post‑incarceration generosity.  
 
 ---
 
-## AI and Machine Learning
+## AI and Machine Learning (4 articles)
 
 ### Qwen‑AgentWorld: Language World Models for General Agents [hackernews_api]  
-The paper introduces two open‑source models (35B‑A3B and 397B‑A17B) that learn world dynamics from >10 M real‑world trajectories and achieve state‑of‑the‑art results on the new AgentWorldBench suite.  
+Qwen‑AgentWorld introduces the first large‑scale language‑only world models (35B‑A3B and 397B‑A17B) that simulate agentic environments across seven domains, using a three‑stage training pipeline (curriculum pre‑training, supervised fine‑tuning, reinforcement learning). Benchmarking on AgentWorldBench shows consistent outperformance of existing frontier models and opens a path toward unified agent foundation models.
 
-### ABC ‘fighting back’, urging US public to defend stations amid FCC scrutiny [Al Jazeera]  
-ABC launched an on‑air appeal for viewers to comment on pending FCC licence renewals, framing the regulator’s actions as a politically motivated attack on First‑Amendment rights.  
+### ABC ‘fighting back’, urging US public to defend stations amid FCC scrutiny [Al Jazeera]  
+ABC launched an on‑air campaign asking viewers to submit comments defending its eight owned‑and‑operated stations during an FCC early‑licence‑renewal review, framing the regulator’s actions as a First‑Amendment attack. The move follows a series of FCC measures targeting ABC, including investigations into “The View” and DEI practices, and has drawn praise from press‑freedom advocates.
 
 ### A public Sentry key is all it takes to hijack Claude Code, Cursor, and Codex – The New Stack [tldr]  
-The newsletter subscription page explains required personal and professional data fields, privacy guarantees, and the onboarding flow for developers joining The New Stack community.  
+The New Stack newsletter subscription form outlines the data collected (personal, professional, and location details) and privacy guarantees, emphasizing that the service does not sell personal information. The piece serves as a promotional overview rather than a technical development.
 
-### LinkedIn Introduces New Features for Creators and Research [tldr]  
-LinkedIn rolled out a suite of creator‑focused tools covering career, productivity, finance, and technical topics, aiming to broaden professional knowledge sharing on the platform.  
+### LinkedIn Introduces New Features for Creators and Research [LinkedIn]  
+LinkedIn announced a suite of creator‑focused tools covering career, productivity, finance, soft skills, and more, aiming to broaden professional knowledge sharing. The post highlights the platform’s effort to support diverse content categories for its large follower base.
 
 ---
 
-## Cybersecurity and Privacy
+## Cybersecurity and Privacy (1 article)
 
 ### This Man Was Gifted His Dream Car by the Notorious Hacker He Put in Prison [hackernews_api]  
-The story recounts how former Novell admin Shawn Nunley helped convict Kevin Mitnick, and after Mitnick’s 2023 death, the hacker’s estate funded Nunley’s purchase of a Porsche 911 as a gesture of reconciliation.  
+The story recounts how former Novell admin Shawn Nunley helped convict Kevin Mitnick, and after Mitnick’s death in 2023, gifted Nunley a Porsche 911 Carrera 4 GTS as a token of gratitude, illustrating Mitnick’s transformation from black‑hat hacker to security consultant.
 
 ---
 
-## Software Engineering and Dev Tools
+## Software Engineering and Dev Tools (8 articles)
 
 ### Quaise Energy achieves 100 meters of drilling using millimeter wave technology [hackernews_api]  
-Quaise Energy’s gyrotron‑driven millimeter‑wave drill pierced 100 m of granite in Texas, proving the technique can reach super‑hot geothermal reservoirs and paving the way for a 2028 pilot plant.  
+Quaise demonstrated field‑scale drilling to 100 m in Texas using a high‑power gyrotron that ablates rock with millimeter‑wave energy, a milestone toward commercial super‑hot geothermal power plants slated for a 2028 pilot.
 
 ### Rhombus v1.0 released – a new extensible language built on Racket [hackernews_api]  
-Rhombus 1.0 offers a conventional, non‑parenthesized syntax, macro‑level extensibility, and a “shrubbery” syntax that aims to make functional programming more approachable for both humans and AI coding agents.  
+Rhombus 1.0 offers a conventional, non‑parenthesized syntax with Lisp‑level macro power, pattern matching, and a “shrubbery” syntax for metaprogramming, positioning itself as a production‑ready functional language that AI coding agents can already target.
 
-### Unlag Neo: Macbook Neo Cursor lag “fix” (GitHub) [hackernews_api]  
-A community‑built macOS app forces the system to use a software cursor via continuous screen‑recording, eliminating a 17‑second cursor‑lag bug that appears when the OS switches from hardware to software rendering.  
+### Unlag Neo: Macbook Neo Cursor lag “fix” – GitHub project [hackernews_api]  
+A community‑built macOS app forces a software cursor via continuous screen‑recording, eliminating a 17‑second cursor‑lag bug on MacBook Neo that occurs when the system switches from hardware to software rendering.
 
-### MonoLisa – font follows function [hnrss]  
-MonoLisa is a variable, monospaced typeface with distinct glyphs and dual Code/Text families, marketed as a developer‑friendly font that reduces visual ambiguity and eye strain.  
+### MonoLisa – font follows function (hnrss)  
+MonoLisa is a monospaced variable‑font family (Code and Text) designed for developers and designers, featuring distinct glyphs, italics, script variants, and extensive language support to reduce eye strain and improve readability.
 
 ### ABC asks viewers to protest FCC attempt to “control who is allowed” on The View – Ars Technica [newsfeed]  
-ABC aired a commercial urging the public to submit comments opposing an FCC proceeding that could force *The View* to comply with equal‑time rules, framing the move as political retaliation.  
+ABC aired a commercial urging the public to oppose an FCC proceeding that could strip *The View* of its bona‑fide news exemption, accusing the regulator of politicized equal‑time enforcement and retaliation against Disney.
 
 ### Kennedy Center judge orders tarp and programming update – NPR [newsfeed]  
-A federal judge ordered the Kennedy Center to file a detailed status report on its operations and the tarp covering its signage, amid a politically charged renovation dispute involving former President Trump.  
+A federal judge ordered the Kennedy Center to file a detailed status report on its operations, including the tarp covering its signage, amid a politically charged renovation plan and lawsuits involving former President Trump.
 
-### 7 Crucial Barriers between Data Teams and Self‑Healing Data Architecture [tldr]  
-The article outlines four of seven obstacles—missing contextual knowledge, lack of elastic infrastructure, data‑quality handling, and absence of a “git‑for‑data” system—that prevent AI agents from autonomously managing and repairing data pipelines.  
+### 7 Crucial Barriers between Data Teams and Self‑Healing Data Architecture – TL;DR [tldr]  
+The article identifies four of seven obstacles preventing fully autonomous data pipelines, emphasizing missing contextual knowledge, lack of elastic infrastructure, data‑quality challenges, and the absence of a “git‑for‑data” sandbox for AI agents.
 
-### 7 Mistakes Founders Make When Chasing Their First Deals [tldr]  
-Founders are warned against waiting for perfection, underpricing, ignoring the true economic buyer, over‑relying on a single prospect, neglecting iterative pitch refinement, and hiring salespeople too early.  
+### 7 Mistakes Founders Make When Chasing Their First Deals – TL;DR [tldr]  
+A concise guide warns early‑stage founders against waiting for perfection, underpricing, neglecting the economic buyer, over‑relying on a single prospect, and hiring sales staff too soon, while stressing iterative pitching and active listening.
 
 ---
 
-## Science and Research
+## Science and Research (3 articles)
 
-### Boffin claims Microsoft’s supposed quantum leap does not compute due to ‘basic Python errors’ [hnrss]  
-A peer‑reviewed critique shows Microsoft’s Majorana qubit claim rests on a Python bug that mis‑processes transport data, casting doubt on the reported topological gap and the feasibility of the announced quantum device.  
+### Boffin claims Microsoft’s supposed quantum leap does not compute due to ‘basic Python errors’ – HN RSS [hnrss]  
+Henry Legg’s peer‑reviewed critique shows that Microsoft’s Topological Gap Protocol contained simple Python bugs that reversed bias‑voltage data and filtered out valid regions, casting doubt on the claimed Majorana‑based qubit breakthrough.
 
 ### AI Learns the “Dark Art” of RFIC Design – IEEE Spectrum [newsfeed]  
-Princeton researchers use reinforcement learning, inverse design, and diffusion models to generate radio‑frequency chip layouts that outperform human‑crafted designs, dramatically shortening design cycles from years to hours.  
+Princeton researchers use reinforcement learning, inverse design, and diffusion models to generate radio‑frequency integrated circuit layouts that outperform human designs, highlighting the need for open chip‑design datasets and shared tooling to mainstream AI‑driven RFIC engineering.
 
-### AI tool spots antibiotics that fight drug‑resistant gonorrhoea [newsfeed]  
-A machine‑learning pipeline screened chemical space and identified two novel compounds that kill multidrug‑resistant *Neisseria gonorrhoeae*, offering promising leads for new antimicrobial therapies.  
+### AI tool spots antibiotics that fight drug‑resistant gonorrhoea – newsfeed [newsfeed]  
+A machine‑learning pipeline screened chemical space and identified two novel molecules that kill multidrug‑resistant *Neisseria gonorrhoeae*, demonstrating AI’s potential to accelerate antibiotic discovery against hard‑to‑treat pathogens.
 
 ---
 
 ## Notable Mentions
-- “A non‑linear career path isn’t a red flag” – tldr  
-
----
+- “A non-linear career path isn’t a red flag” (tldr)
