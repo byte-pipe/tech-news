@@ -1,11 +1,28 @@
 [
   {
+    "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+    "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+    "author": "thunderbong",
+    "date": "2026-06-20",
+    "score": 233,
+    "comments": 74,
+    "id": 48610137,
+    "discussion_url": "https://news.ycombinator.com/item?id=48610137",
+    "description": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-26T19:36:09.003478"
+  },
+  {
     "title": "A game where you're an OS and have to manage processes, memory and I/O events",
     "url": "https://github.com/plbrault/youre-the-os",
     "author": "exploraz",
     "date": "2026-06-23",
-    "score": 233,
-    "comments": 45,
+    "score": 334,
+    "comments": 74,
     "id": 48642474,
     "discussion_url": "https://news.ycombinator.com/item?id=48642474",
     "description": "A game where you're an OS and have to manage processes, memory and I/O events",
@@ -14,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162575"
+    "fetched_at": "2026-06-26T19:36:09.003489"
   },
   {
     "title": "An entire Herculaneum scroll has been read for the first time",
     "url": "https://scrollprize.org/firstscroll",
     "author": "verditelabs",
     "date": "2026-06-25",
-    "score": 1347,
-    "comments": 283,
+    "score": 1588,
+    "comments": 351,
     "id": 48675179,
     "discussion_url": "https://news.ycombinator.com/item?id=48675179",
     "description": "An entire Herculaneum scroll has been read for the first time",
@@ -31,32 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162530"
-  },
-  {
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-    "author": "htrp",
-    "date": "2026-06-24",
-    "score": 764,
-    "comments": 1247,
-    "id": 48664814,
-    "discussion_url": "https://news.ycombinator.com/item?id=48664814",
-    "description": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162696"
+    "fetched_at": "2026-06-26T19:36:09.003451"
   },
   {
     "title": "Apple raises prices of MacBooks, iPads",
     "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
     "author": "virgildotcodes",
     "date": "2026-06-25",
-    "score": 742,
-    "comments": 1073,
+    "score": 808,
+    "comments": 1197,
     "id": 48672732,
     "discussion_url": "https://news.ycombinator.com/item?id=48672732",
     "description": "Apple raises prices of MacBooks, iPads",
@@ -65,32 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162645"
-  },
-  {
-    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-    "author": "scrlk",
-    "date": "2026-06-25",
-    "score": 281,
-    "comments": 289,
-    "id": 48676795,
-    "discussion_url": "https://news.ycombinator.com/item?id=48676795",
-    "description": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162614"
+    "fetched_at": "2026-06-26T19:36:09.003553"
   },
   {
     "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
     "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
     "author": "Alupis",
     "date": "2026-06-26",
-    "score": 202,
-    "comments": 104,
+    "score": 295,
+    "comments": 169,
     "id": 48681220,
     "discussion_url": "https://news.ycombinator.com/item?id=48681220",
     "description": "Framework's 10G Ethernet module exposes USB-C's complexity",
@@ -99,49 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162562"
-  },
-  {
-    "title": "Half-Life 2 in a Browser",
-    "url": "https://hl2.slqnt.dev/",
-    "author": "panza",
-    "date": "2026-06-25",
-    "score": 652,
-    "comments": 263,
-    "id": 48669534,
-    "discussion_url": "https://news.ycombinator.com/item?id=48669534",
-    "description": "Half-Life 2 in a Browser",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162728"
-  },
-  {
-    "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
-    "url": "https://twitter.com/mfts0/status/2070080422482977095",
-    "author": "mmunj",
-    "date": "2026-06-25",
-    "score": 384,
-    "comments": 158,
-    "id": 48672328,
-    "discussion_url": "https://news.ycombinator.com/item?id=48672328",
-    "description": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162626"
+    "fetched_at": "2026-06-26T19:36:09.003474"
   },
   {
     "title": "IBM debuts sub-1 nanometer chip technology",
     "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
     "author": "porridgeraisin",
     "date": "2026-06-25",
-    "score": 330,
-    "comments": 177,
+    "score": 375,
+    "comments": 198,
     "id": 48674967,
     "discussion_url": "https://news.ycombinator.com/item?id=48674967",
     "description": "IBM debuts sub-1 nanometer chip technology",
@@ -150,32 +99,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162637"
+    "fetched_at": "2026-06-26T19:36:09.003515"
   },
   {
-    "title": "LastPass notifies users of yet another data breach",
-    "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+    "title": "Incident CVE-2026-LGTM",
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
     "author": "mooreds",
-    "date": "2026-06-25",
-    "score": 503,
-    "comments": 222,
-    "id": 48671468,
-    "discussion_url": "https://news.ycombinator.com/item?id=48671468",
-    "description": "LastPass notifies users of yet another data breach",
+    "date": "2026-06-26",
+    "score": 438,
+    "comments": 77,
+    "id": 48686093,
+    "discussion_url": "https://news.ycombinator.com/item?id=48686093",
+    "description": "Incident CVE-2026-LGTM",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162724"
+    "fetched_at": "2026-06-26T19:36:09.003466"
+  },
+  {
+    "title": "Jolla Phone (October 2026)",
+    "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
+    "author": "mrbn100ful",
+    "date": "2026-06-26",
+    "score": 224,
+    "comments": 126,
+    "id": 48687272,
+    "discussion_url": "https://news.ycombinator.com/item?id=48687272",
+    "description": "Jolla Phone (October 2026)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-26T19:36:09.003508"
   },
   {
     "title": "Libre Barcode Project",
     "url": "https://graphicore.github.io/librebarcode/",
     "author": "luu",
     "date": "2026-06-26",
-    "score": 179,
-    "comments": 28,
+    "score": 262,
+    "comments": 49,
     "id": 48681949,
     "discussion_url": "https://news.ycombinator.com/item?id=48681949",
     "description": "Libre Barcode Project",
@@ -184,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162552"
+    "fetched_at": "2026-06-26T19:36:09.003433"
   },
   {
     "title": "Medical students are using popular research tool to pump out misleading studies",
     "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
     "author": "rndsignals",
     "date": "2026-06-25",
-    "score": 162,
-    "comments": 90,
+    "score": 175,
+    "comments": 93,
     "id": 48668119,
     "discussion_url": "https://news.ycombinator.com/item?id=48668119",
     "description": "Medical students are using popular research tool to pump out misleading studies",
@@ -201,15 +167,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162668"
+    "fetched_at": "2026-06-26T19:36:09.003620"
+  },
+  {
+    "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+    "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+    "author": "justincormack",
+    "date": "2026-06-23",
+    "score": 175,
+    "comments": 98,
+    "id": 48642510,
+    "discussion_url": "https://news.ycombinator.com/item?id=48642510",
+    "description": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-26T19:36:09.003438"
   },
   {
     "title": "OS9Map",
     "url": "https://yllan.org/software/OS9Map/",
     "author": "LaSombra",
     "date": "2026-06-25",
-    "score": 236,
-    "comments": 45,
+    "score": 259,
+    "comments": 53,
     "id": 48674484,
     "discussion_url": "https://news.ycombinator.com/item?id=48674484",
     "description": "OS9Map",
@@ -218,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162618"
+    "fetched_at": "2026-06-26T19:36:09.003560"
   },
   {
     "title": "Om Malik has died",
     "url": "https://om.co/2026/06/24/1966-2026/",
     "author": "minimaxir",
     "date": "2026-06-25",
-    "score": 950,
-    "comments": 115,
+    "score": 1236,
+    "comments": 149,
     "id": 48678852,
     "discussion_url": "https://news.ycombinator.com/item?id=48678852",
     "description": "Om Malik has died",
@@ -235,32 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162525"
-  },
-  {
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "author": "jamdesk",
-    "date": "2026-06-24",
-    "score": 810,
-    "comments": 461,
-    "id": 48663324,
-    "discussion_url": "https://news.ycombinator.com/item?id=48663324",
-    "description": "OpenAI unveils its first custom chip, built by Broadcom",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162735"
+    "fetched_at": "2026-06-26T19:36:09.003418"
   },
   {
     "title": "Oxide computer 3D rack guided tour",
     "url": "https://explorer.oxide.computer/",
     "author": "darthcloud",
     "date": "2026-06-22",
-    "score": 384,
-    "comments": 158,
+    "score": 454,
+    "comments": 195,
     "id": 48631450,
     "discussion_url": "https://news.ycombinator.com/item?id=48631450",
     "description": "Oxide computer 3D rack guided tour",
@@ -269,32 +235,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162591"
+    "fetched_at": "2026-06-26T19:36:09.003527"
   },
   {
-    "title": "Political bias in AI: Where the AI models stand",
-    "url": "https://trakkr.ai/bias",
-    "author": "mektrik",
-    "date": "2026-06-25",
-    "score": 147,
-    "comments": 261,
-    "id": 48672779,
-    "discussion_url": "https://news.ycombinator.com/item?id=48672779",
-    "description": "Political bias in AI: Where the AI models stand",
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "author": "minimaxir",
+    "date": "2026-06-26",
+    "score": 439,
+    "comments": 259,
+    "id": 48689028,
+    "discussion_url": "https://news.ycombinator.com/item?id=48689028",
+    "description": "Previewing GPT‑5.6 Sol: a next-generation model",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162649"
+    "fetched_at": "2026-06-26T19:36:09.003382"
   },
   {
     "title": "Show HN: Chess-Inspired Roguelike",
     "url": "https://princechazz.com",
     "author": "cowboy_henk",
     "date": "2026-06-21",
-    "score": 323,
-    "comments": 108,
+    "score": 413,
+    "comments": 138,
     "id": 48616304,
     "discussion_url": "https://news.ycombinator.com/item?id=48616304",
     "description": "Show HN: Chess-Inspired Roguelike",
@@ -303,32 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162610"
-  },
-  {
-    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-    "url": "https://hackernewstrends.com",
-    "author": "ytkimirti",
-    "date": "2026-06-25",
-    "score": 728,
-    "comments": 149,
-    "id": 48673671,
-    "discussion_url": "https://news.ycombinator.com/item?id=48673671",
-    "description": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162665"
+    "fetched_at": "2026-06-26T19:36:09.003539"
   },
   {
     "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
     "url": "https://github.com/inkeep/open-knowledge",
     "author": "engomez",
     "date": "2026-06-25",
-    "score": 290,
-    "comments": 147,
+    "score": 350,
+    "comments": 164,
     "id": 48675435,
     "discussion_url": "https://news.ycombinator.com/item?id=48675435",
     "description": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
@@ -337,15 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162520"
+    "fetched_at": "2026-06-26T19:36:09.003535"
+  },
+  {
+    "title": "Springer Nature has removed two studies by Max Planck",
+    "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
+    "author": "adharmad",
+    "date": "2026-06-26",
+    "score": 288,
+    "comments": 137,
+    "id": 48686834,
+    "discussion_url": "https://news.ycombinator.com/item?id=48686834",
+    "description": "Springer Nature has removed two studies by Max Planck",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-26T19:36:09.003459"
   },
   {
     "title": "The 'papers, please' era of the internet will decimate your privacy",
     "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
     "author": "bilsbie",
     "date": "2026-06-25",
-    "score": 781,
-    "comments": 357,
+    "score": 1047,
+    "comments": 540,
     "id": 48679608,
     "discussion_url": "https://news.ycombinator.com/item?id=48679608",
     "description": "The 'papers, please' era of the internet will decimate your privacy",
@@ -354,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162534"
+    "fetched_at": "2026-06-26T19:36:09.003498"
   },
   {
     "title": "The Doorman's Fallacy in action",
     "url": "https://rozumem.xyz/posts/17",
     "author": "rozumem",
     "date": "2026-06-25",
-    "score": 130,
-    "comments": 185,
+    "score": 214,
+    "comments": 271,
     "id": 48678495,
     "discussion_url": "https://news.ycombinator.com/item?id=48678495",
     "description": "The Doorman's Fallacy in action",
@@ -371,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162579"
+    "fetched_at": "2026-06-26T19:36:09.003542"
   },
   {
     "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
     "url": "https://gchandbook.org/",
     "author": "teleforce",
     "date": "2026-06-25",
-    "score": 158,
-    "comments": 27,
+    "score": 224,
+    "comments": 47,
     "id": 48680370,
     "discussion_url": "https://news.ycombinator.com/item?id=48680370",
     "description": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
@@ -388,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162543"
+    "fetched_at": "2026-06-26T19:36:09.003493"
   },
   {
     "title": "The disappearance of Japan's animators",
     "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
     "author": "andsoitis",
     "date": "2026-06-21",
-    "score": 174,
-    "comments": 140,
+    "score": 189,
+    "comments": 149,
     "id": 48620422,
     "discussion_url": "https://news.ycombinator.com/item?id=48620422",
     "description": "The disappearance of Japan's animators",
@@ -405,15 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162630"
+    "fetched_at": "2026-06-26T19:36:09.003591"
   },
   {
     "title": "The unbearable cheapness of open weight models",
     "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
     "author": "ddxv",
     "date": "2026-06-25",
-    "score": 165,
-    "comments": 157,
+    "score": 185,
+    "comments": 171,
     "id": 48668255,
     "discussion_url": "https://news.ycombinator.com/item?id=48668255",
     "description": "The unbearable cheapness of open weight models",
@@ -422,15 +388,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162692"
+    "fetched_at": "2026-06-26T19:36:09.003567"
+  },
+  {
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "author": "alain94040",
+    "date": "2026-06-26",
+    "score": 186,
+    "comments": 423,
+    "id": 48690101,
+    "discussion_url": "https://news.ycombinator.com/item?id=48690101",
+    "description": "U.S. government will decide who gets to use GPT-5.6",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-26T19:36:09.003404"
+  },
+  {
+    "title": "Ultrasound imaging of the brain",
+    "url": "https://alephneuro.com/blog/ultrasound-brain",
+    "author": "rossant",
+    "date": "2026-06-26",
+    "score": 165,
+    "comments": 56,
+    "id": 48685558,
+    "discussion_url": "https://news.ycombinator.com/item?id=48685558",
+    "description": "Ultrasound imaging of the brain",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-26T19:36:09.003442"
   },
   {
     "title": "Un-0: Generating Images with Coupled Oscillators",
     "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
     "author": "babelfish",
     "date": "2026-06-25",
-    "score": 157,
-    "comments": 39,
+    "score": 185,
+    "comments": 46,
     "id": 48679007,
     "discussion_url": "https://news.ycombinator.com/item?id=48679007",
     "description": "Un-0: Generating Images with Coupled Oscillators",
@@ -439,32 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162587"
+    "fetched_at": "2026-06-26T19:36:09.003519"
   },
   {
-    "title": "We All Depend on Open Source. We Will Defend It Together",
+    "title": "We all depend on open source. We will defend it together",
     "url": "https://akrites.org/letter/",
     "author": "dhruv3006",
     "date": "2026-06-26",
-    "score": 218,
-    "comments": 111,
+    "score": 421,
+    "comments": 204,
     "id": 48682737,
     "discussion_url": "https://news.ycombinator.com/item?id=48682737",
-    "description": "We All Depend on Open Source. We Will Defend It Together",
+    "description": "We all depend on open source. We will defend it together",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162510"
+    "fetched_at": "2026-06-26T19:36:09.003531"
   },
   {
     "title": "What happened after 2k people tried to hack my AI assistant",
     "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
     "author": "cuchoi",
     "date": "2026-06-26",
-    "score": 201,
-    "comments": 73,
+    "score": 327,
+    "comments": 152,
     "id": 48681687,
     "discussion_url": "https://news.ycombinator.com/item?id=48681687",
     "description": "What happened after 2k people tried to hack my AI assistant",
@@ -473,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162538"
+    "fetched_at": "2026-06-26T19:36:09.003455"
   },
   {
     "title": "You can't unit test for taste",
     "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
     "author": "kalli",
     "date": "2026-06-24",
-    "score": 282,
-    "comments": 128,
+    "score": 296,
+    "comments": 133,
     "id": 48657049,
     "discussion_url": "https://news.ycombinator.com/item?id=48657049",
     "description": "You can't unit test for taste",
@@ -490,15 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162603"
+    "fetched_at": "2026-06-26T19:36:09.003571"
   },
   {
     "title": "Zig's new bitCast semantics and LLVM back end improvements",
     "url": "https://ziglang.org/devlog/2026/#2026-06-25",
     "author": "kouosi",
     "date": "2026-06-25",
-    "score": 246,
-    "comments": 125,
+    "score": 271,
+    "comments": 142,
     "id": 48673825,
     "discussion_url": "https://news.ycombinator.com/item?id=48673825",
     "description": "Zig's new bitCast semantics and LLVM back end improvements",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-26T11:55:36.162557"
+    "fetched_at": "2026-06-26T19:36:09.003550"
   }
 ]
