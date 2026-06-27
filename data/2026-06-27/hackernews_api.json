@@ -1,28 +1,11 @@
 [
   {
-    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-    "url": "https://github.com/Tessil/hopscotch-map",
-    "author": "gjvc",
-    "date": "2026-06-26",
-    "score": 94,
-    "comments": 16,
-    "id": 48692090,
-    "discussion_url": "https://news.ycombinator.com/item?id=48692090",
-    "description": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914531"
-  },
-  {
     "title": "AI in mathematics is forcing big questions",
     "url": "https://spectrum.ieee.org/ai-in-mathematics",
     "author": "rbanffy",
     "date": "2026-06-26",
-    "score": 137,
-    "comments": 104,
+    "score": 186,
+    "comments": 161,
     "id": 48692883,
     "discussion_url": "https://news.ycombinator.com/item?id=48692883",
     "description": "AI in mathematics is forcing big questions",
@@ -31,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914469"
+    "fetched_at": "2026-06-27T19:32:45.979184"
   },
   {
     "title": "An entire Herculaneum scroll has been read for the first time",
     "url": "https://scrollprize.org/firstscroll",
     "author": "verditelabs",
     "date": "2026-06-25",
-    "score": 1655,
-    "comments": 362,
+    "score": 1671,
+    "comments": 364,
     "id": 48675179,
     "discussion_url": "https://news.ycombinator.com/item?id=48675179",
     "description": "An entire Herculaneum scroll has been read for the first time",
@@ -48,100 +31,168 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914596"
+    "fetched_at": "2026-06-27T19:32:45.979284"
   },
   {
-    "title": "Bipartite Matching Is in NC",
-    "url": "https://scottaaronson.blog/?p=9851",
-    "author": "amichail",
-    "date": "2026-06-22",
-    "score": 121,
-    "comments": 17,
-    "id": 48637433,
-    "discussion_url": "https://news.ycombinator.com/item?id=48637433",
-    "description": "Bipartite Matching Is in NC",
+    "title": "Anatomy of a Failed (Nation-State?) Attack",
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "author": "signa11",
+    "date": "2026-06-27",
+    "score": 132,
+    "comments": 24,
+    "id": 48694631,
+    "discussion_url": "https://news.ycombinator.com/item?id=48694631",
+    "description": "Anatomy of a Failed (Nation-State?) Attack",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914616"
+    "fetched_at": "2026-06-27T19:32:45.979196"
   },
   {
-    "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "url": "https://github.com/bikini/exploitarium",
+    "author": "binyu",
+    "date": "2026-06-27",
+    "score": 407,
+    "comments": 168,
+    "id": 48698617,
+    "discussion_url": "https://news.ycombinator.com/item?id=48698617",
+    "description": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T19:32:45.979059"
+  },
+  {
+    "title": "Beer CSS – Build material design in record time",
+    "url": "https://www.beercss.com",
+    "author": "Seb-C",
+    "date": "2026-06-27",
+    "score": 112,
+    "comments": 57,
+    "id": 48696510,
+    "discussion_url": "https://news.ycombinator.com/item?id=48696510",
+    "description": "Beer CSS – Build material design in record time",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T19:32:45.979157"
+  },
+  {
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
     "author": "aurenvale",
     "date": "2026-06-27",
-    "score": 310,
-    "comments": 77,
+    "score": 674,
+    "comments": 267,
     "id": 48696585,
     "discussion_url": "https://news.ycombinator.com/item?id=48696585",
-    "description": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+    "description": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914444"
+    "fetched_at": "2026-06-27T19:32:45.979069"
   },
   {
-    "title": "Incident CVE-2026-LGTM",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "author": "mooreds",
+    "title": "Fintech Engineering Handbook",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "author": "signa11",
+    "date": "2026-06-27",
+    "score": 373,
+    "comments": 118,
+    "id": 48696982,
+    "discussion_url": "https://news.ycombinator.com/item?id=48696982",
+    "description": "Fintech Engineering Handbook",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T19:32:45.979120"
+  },
+  {
+    "title": "If you can't hold it, you don't own it",
+    "url": "https://dervis.de/physical/",
+    "author": "cemdervis",
+    "date": "2026-06-27",
+    "score": 270,
+    "comments": 179,
+    "id": 48697335,
+    "discussion_url": "https://news.ycombinator.com/item?id=48697335",
+    "description": "If you can't hold it, you don't own it",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T19:32:45.979103"
+  },
+  {
+    "title": "International investment and local rules push prices up faster than supply",
+    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+    "author": "hhs",
     "date": "2026-06-26",
-    "score": 553,
-    "comments": 86,
-    "id": 48686093,
-    "discussion_url": "https://news.ycombinator.com/item?id=48686093",
-    "description": "Incident CVE-2026-LGTM",
+    "score": 123,
+    "comments": 54,
+    "id": 48693420,
+    "discussion_url": "https://news.ycombinator.com/item?id=48693420",
+    "description": "International investment and local rules push prices up faster than supply",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914648"
+    "fetched_at": "2026-06-27T19:32:45.979214"
   },
   {
-    "title": "Jolla Phone (October 2026)",
-    "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-    "author": "mrbn100ful",
-    "date": "2026-06-26",
-    "score": 294,
-    "comments": 166,
-    "id": 48687272,
-    "discussion_url": "https://news.ycombinator.com/item?id=48687272",
-    "description": "Jolla Phone (October 2026)",
+    "title": "Linux on Older Hardware: The Complete Revival Guide",
+    "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+    "author": "tapanjk",
+    "date": "2026-06-25",
+    "score": 169,
+    "comments": 100,
+    "id": 48668747,
+    "discussion_url": "https://news.ycombinator.com/item?id=48668747",
+    "description": "Linux on Older Hardware: The Complete Revival Guide",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914634"
+    "fetched_at": "2026-06-27T19:32:45.979088"
   },
   {
-    "title": "LaTeX.wasm: LaTeX Engines in Browsers",
-    "url": "https://www.swiftlatex.com/",
-    "author": "theanonymousone",
-    "date": "2026-06-23",
-    "score": 105,
-    "comments": 36,
-    "id": 48650550,
-    "discussion_url": "https://news.ycombinator.com/item?id=48650550",
-    "description": "LaTeX.wasm: LaTeX Engines in Browsers",
+    "title": "Long Wave radio era set to end with switch-off",
+    "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+    "author": "edward",
+    "date": "2026-06-25",
+    "score": 139,
+    "comments": 135,
+    "id": 48677564,
+    "discussion_url": "https://news.ycombinator.com/item?id=48677564",
+    "description": "Long Wave radio era set to end with switch-off",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914600"
+    "fetched_at": "2026-06-27T19:32:45.979127"
   },
   {
     "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
     "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
     "author": "justincormack",
     "date": "2026-06-23",
-    "score": 337,
-    "comments": 188,
+    "score": 374,
+    "comments": 200,
     "id": 48642510,
     "discussion_url": "https://news.ycombinator.com/item?id=48642510",
     "description": "MicroVMs: Run isolated sandboxes with full lifecycle control",
@@ -150,32 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914461"
-  },
-  {
-    "title": "My Steam Machine is a 50ft HDMI cable",
-    "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
-    "author": "speckx",
-    "date": "2026-06-23",
-    "score": 194,
-    "comments": 181,
-    "id": 48648550,
-    "discussion_url": "https://news.ycombinator.com/item?id=48648550",
-    "description": "My Steam Machine is a 50ft HDMI cable",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914587"
+    "fetched_at": "2026-06-27T19:32:45.979206"
   },
   {
     "title": "Om",
     "url": "https://daringfireball.net/2026/06/om",
     "author": "throw0101a",
     "date": "2026-06-26",
-    "score": 402,
-    "comments": 19,
+    "score": 483,
+    "comments": 22,
     "id": 48693391,
     "discussion_url": "https://news.ycombinator.com/item?id=48693391",
     "description": "Om",
@@ -184,49 +218,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914513"
+    "fetched_at": "2026-06-27T19:32:45.979247"
   },
   {
-    "title": "Om Malik has died",
-    "url": "https://om.co/2026/06/24/1966-2026/",
-    "author": "minimaxir",
-    "date": "2026-06-25",
-    "score": 1318,
-    "comments": 164,
-    "id": 48678852,
-    "discussion_url": "https://news.ycombinator.com/item?id=48678852",
-    "description": "Om Malik has died",
+    "title": "OpenRA",
+    "url": "https://www.openra.net/",
+    "author": "tosh",
+    "date": "2026-06-27",
+    "score": 422,
+    "comments": 78,
+    "id": 48697560,
+    "discussion_url": "https://news.ycombinator.com/item?id=48697560",
+    "description": "OpenRA",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914609"
-  },
-  {
-    "title": "OpenAI leans toward waiting until next year for IPO",
-    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-    "author": "mfiguiere",
-    "date": "2026-06-25",
-    "score": 167,
-    "comments": 141,
-    "id": 48678873,
-    "discussion_url": "https://news.ycombinator.com/item?id=48678873",
-    "description": "OpenAI leans toward waiting until next year for IPO",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914631"
+    "fetched_at": "2026-06-27T19:32:45.979039"
   },
   {
     "title": "OpenTTD 16.0-Beta1",
     "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
     "author": "untilted",
     "date": "2026-06-27",
-    "score": 179,
-    "comments": 32,
+    "score": 214,
+    "comments": 42,
     "id": 48695149,
     "discussion_url": "https://news.ycombinator.com/item?id=48695149",
     "description": "OpenTTD 16.0-Beta1",
@@ -235,32 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914451"
-  },
-  {
-    "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-    "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
-    "author": "ortusdux",
-    "date": "2026-06-26",
-    "score": 277,
-    "comments": 159,
-    "id": 48691346,
-    "discussion_url": "https://news.ycombinator.com/item?id=48691346",
-    "description": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914603"
+    "fetched_at": "2026-06-27T19:32:45.979232"
   },
   {
     "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
     "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
     "author": "jfoucher",
     "date": "2026-06-26",
-    "score": 98,
-    "comments": 20,
+    "score": 110,
+    "comments": 26,
     "id": 48689859,
     "discussion_url": "https://news.ycombinator.com/item?id=48689859",
     "description": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
@@ -269,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914544"
+    "fetched_at": "2026-06-27T19:32:45.979281"
   },
   {
     "title": "Previewing GPT‑5.6 Sol: a next-generation model",
     "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
     "author": "minimaxir",
     "date": "2026-06-26",
-    "score": 1026,
-    "comments": 644,
+    "score": 1093,
+    "comments": 700,
     "id": 48689028,
     "discussion_url": "https://news.ycombinator.com/item?id=48689028",
     "description": "Previewing GPT‑5.6 Sol: a next-generation model",
@@ -286,15 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914435"
+    "fetched_at": "2026-06-27T19:32:45.979171"
   },
   {
     "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
     "url": "https://github.com/workweave/router",
     "author": "adchurch",
     "date": "2026-06-26",
-    "score": 171,
-    "comments": 98,
+    "score": 196,
+    "comments": 107,
     "id": 48688700,
     "discussion_url": "https://news.ycombinator.com/item?id=48688700",
     "description": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
@@ -303,49 +303,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914538"
+    "fetched_at": "2026-06-27T19:32:45.979236"
   },
   {
-    "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
-    "url": "https://github.com/DDecoene/WebBaseIII",
-    "author": "ddecoene",
-    "date": "2026-06-24",
-    "score": 91,
-    "comments": 27,
-    "id": 48656986,
-    "discussion_url": "https://news.ycombinator.com/item?id=48656986",
-    "description": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+    "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+    "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+    "author": "speckx",
+    "date": "2026-06-27",
+    "score": 187,
+    "comments": 45,
+    "id": 48697768,
+    "discussion_url": "https://news.ycombinator.com/item?id=48697768",
+    "description": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914619"
+    "fetched_at": "2026-06-27T19:32:45.979146"
   },
   {
-    "title": "Springer Nature has removed two studies by Max Planck",
-    "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
-    "author": "adharmad",
-    "date": "2026-06-26",
-    "score": 374,
-    "comments": 179,
-    "id": 48686834,
-    "discussion_url": "https://news.ycombinator.com/item?id=48686834",
-    "description": "Springer Nature has removed two studies by Max Planck",
+    "title": "Suspicious Discontinuities (2020)",
+    "url": "https://danluu.com/discontinuities/",
+    "author": "tosh",
+    "date": "2026-06-27",
+    "score": 144,
+    "comments": 41,
+    "id": 48698151,
+    "discussion_url": "https://news.ycombinator.com/item?id=48698151",
+    "description": "Suspicious Discontinuities (2020)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914646"
+    "fetched_at": "2026-06-27T19:32:45.979073"
+  },
+  {
+    "title": "The US Army Issued Ocarinas to Soldiers in World War II",
+    "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
+    "author": "tomcam",
+    "date": "2026-06-25",
+    "score": 109,
+    "comments": 60,
+    "id": 48670103,
+    "discussion_url": "https://news.ycombinator.com/item?id=48670103",
+    "description": "The US Army Issued Ocarinas to Soldiers in World War II",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T19:32:45.979139"
   },
   {
     "title": "The gap between open weights LLMs and closed source LLMs",
     "url": "https://blog.doubleword.ai/frontier-os-llm",
     "author": "kkm",
     "date": "2026-06-26",
-    "score": 223,
-    "comments": 181,
+    "score": 292,
+    "comments": 219,
     "id": 48692058,
     "discussion_url": "https://news.ycombinator.com/item?id=48692058",
     "description": "The gap between open weights LLMs and closed source LLMs",
@@ -354,32 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914517"
-  },
-  {
-    "title": "The unbearable cheapness of open weight models",
-    "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-    "author": "ddxv",
-    "date": "2026-06-25",
-    "score": 194,
-    "comments": 182,
-    "id": 48668255,
-    "discussion_url": "https://news.ycombinator.com/item?id=48668255",
-    "description": "The unbearable cheapness of open weight models",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914643"
+    "fetched_at": "2026-06-27T19:32:45.979210"
   },
   {
     "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
     "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
     "author": "bobrenjc93",
     "date": "2026-06-26",
-    "score": 461,
-    "comments": 567,
+    "score": 529,
+    "comments": 722,
     "id": 48692995,
     "discussion_url": "https://news.ycombinator.com/item?id=48692995",
     "description": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
@@ -388,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914503"
+    "fetched_at": "2026-06-27T19:32:45.979192"
   },
   {
     "title": "U.S. government will decide who gets to use GPT-5.6",
     "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
     "author": "alain94040",
     "date": "2026-06-26",
-    "score": 1055,
-    "comments": 1114,
+    "score": 1135,
+    "comments": 1191,
     "id": 48690101,
     "discussion_url": "https://news.ycombinator.com/item?id=48690101",
     "description": "U.S. government will decide who gets to use GPT-5.6",
@@ -405,49 +405,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914476"
+    "fetched_at": "2026-06-27T19:32:45.979225"
   },
   {
-    "title": "Ultrasound imaging of the brain",
-    "url": "https://alephneuro.com/blog/ultrasound-brain",
-    "author": "rossant",
-    "date": "2026-06-26",
-    "score": 287,
-    "comments": 114,
-    "id": 48685558,
-    "discussion_url": "https://news.ycombinator.com/item?id=48685558",
-    "description": "Ultrasound imaging of the brain",
+    "title": "Underarm Bowling Incident of 1981",
+    "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+    "author": "EndXA",
+    "date": "2026-06-23",
+    "score": 108,
+    "comments": 96,
+    "id": 48650794,
+    "discussion_url": "https://news.ycombinator.com/item?id=48650794",
+    "description": "Underarm Bowling Incident of 1981",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914507"
-  },
-  {
-    "title": "We all depend on open source. We will defend it together",
-    "url": "https://akrites.org/letter/",
-    "author": "dhruv3006",
-    "date": "2026-06-26",
-    "score": 454,
-    "comments": 222,
-    "id": 48682737,
-    "discussion_url": "https://news.ycombinator.com/item?id=48682737",
-    "description": "We all depend on open source. We will defend it together",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914640"
+    "fetched_at": "2026-06-27T19:32:45.979221"
   },
   {
     "title": "We can still stop California's 3D printer surveillance scheme",
     "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
     "author": "hn_acker",
     "date": "2026-06-26",
-    "score": 410,
-    "comments": 140,
+    "score": 475,
+    "comments": 170,
     "id": 48692051,
     "discussion_url": "https://news.ycombinator.com/item?id=48692051",
     "description": "We can still stop California's 3D printer surveillance scheme",
@@ -456,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914521"
+    "fetched_at": "2026-06-27T19:32:45.979257"
   },
   {
     "title": "What Is a Nomogram and Why Would It Interest Me?",
     "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
     "author": "Eridanus2",
     "date": "2026-06-26",
-    "score": 127,
-    "comments": 20,
+    "score": 138,
+    "comments": 23,
     "id": 48689277,
     "discussion_url": "https://news.ycombinator.com/item?id=48689277",
     "description": "What Is a Nomogram and Why Would It Interest Me?",
@@ -473,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914534"
+    "fetched_at": "2026-06-27T19:32:45.979250"
   },
   {
     "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
     "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
     "author": "ProxyTracer",
     "date": "2026-06-26",
-    "score": 256,
-    "comments": 123,
+    "score": 328,
+    "comments": 174,
     "id": 48692946,
     "discussion_url": "https://news.ycombinator.com/item?id=48692946",
     "description": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
@@ -490,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914465"
+    "fetched_at": "2026-06-27T19:32:45.979154"
   },
   {
     "title": "WordStar: A Writer's Word Processor (1996)",
     "url": "https://www.sfwriter.com/wordstar.htm",
     "author": "droidjj",
     "date": "2026-06-27",
-    "score": 99,
-    "comments": 46,
+    "score": 157,
+    "comments": 86,
     "id": 48694853,
     "discussion_url": "https://news.ycombinator.com/item?id=48694853",
     "description": "WordStar: A Writer's Word Processor (1996)",
@@ -507,6 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-27T11:33:44.914448"
+    "fetched_at": "2026-06-27T19:32:45.979168"
+  },
+  {
+    "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+    "author": "HotGarbage",
+    "date": "2026-06-27",
+    "score": 428,
+    "comments": 161,
+    "id": 48698684,
+    "discussion_url": "https://news.ycombinator.com/item?id=48698684",
+    "description": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T19:32:45.979112"
   }
 ]
