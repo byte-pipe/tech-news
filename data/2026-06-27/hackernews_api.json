@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+    "url": "https://github.com/Tessil/hopscotch-map",
+    "author": "gjvc",
+    "date": "2026-06-26",
+    "score": 94,
+    "comments": 16,
+    "id": 48692090,
+    "discussion_url": "https://news.ycombinator.com/item?id=48692090",
+    "description": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914531"
+  },
+  {
+    "title": "AI in mathematics is forcing big questions",
+    "url": "https://spectrum.ieee.org/ai-in-mathematics",
+    "author": "rbanffy",
+    "date": "2026-06-26",
+    "score": 137,
+    "comments": 104,
+    "id": 48692883,
+    "discussion_url": "https://news.ycombinator.com/item?id=48692883",
+    "description": "AI in mathematics is forcing big questions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914469"
+  },
+  {
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "url": "https://scrollprize.org/firstscroll",
+    "author": "verditelabs",
+    "date": "2026-06-25",
+    "score": 1655,
+    "comments": 362,
+    "id": 48675179,
+    "discussion_url": "https://news.ycombinator.com/item?id=48675179",
+    "description": "An entire Herculaneum scroll has been read for the first time",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914596"
+  },
+  {
+    "title": "Bipartite Matching Is in NC",
+    "url": "https://scottaaronson.blog/?p=9851",
+    "author": "amichail",
+    "date": "2026-06-22",
+    "score": 121,
+    "comments": 17,
+    "id": 48637433,
+    "discussion_url": "https://news.ycombinator.com/item?id=48637433",
+    "description": "Bipartite Matching Is in NC",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914616"
+  },
+  {
+    "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "author": "aurenvale",
+    "date": "2026-06-27",
+    "score": 310,
+    "comments": 77,
+    "id": 48696585,
+    "discussion_url": "https://news.ycombinator.com/item?id=48696585",
+    "description": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914444"
+  },
+  {
+    "title": "Incident CVE-2026-LGTM",
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "author": "mooreds",
+    "date": "2026-06-26",
+    "score": 553,
+    "comments": 86,
+    "id": 48686093,
+    "discussion_url": "https://news.ycombinator.com/item?id=48686093",
+    "description": "Incident CVE-2026-LGTM",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914648"
+  },
+  {
+    "title": "Jolla Phone (October 2026)",
+    "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
+    "author": "mrbn100ful",
+    "date": "2026-06-26",
+    "score": 294,
+    "comments": 166,
+    "id": 48687272,
+    "discussion_url": "https://news.ycombinator.com/item?id=48687272",
+    "description": "Jolla Phone (October 2026)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914634"
+  },
+  {
+    "title": "LaTeX.wasm: LaTeX Engines in Browsers",
+    "url": "https://www.swiftlatex.com/",
+    "author": "theanonymousone",
+    "date": "2026-06-23",
+    "score": 105,
+    "comments": 36,
+    "id": 48650550,
+    "discussion_url": "https://news.ycombinator.com/item?id=48650550",
+    "description": "LaTeX.wasm: LaTeX Engines in Browsers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914600"
+  },
+  {
+    "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+    "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+    "author": "justincormack",
+    "date": "2026-06-23",
+    "score": 337,
+    "comments": 188,
+    "id": 48642510,
+    "discussion_url": "https://news.ycombinator.com/item?id=48642510",
+    "description": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914461"
+  },
+  {
+    "title": "My Steam Machine is a 50ft HDMI cable",
+    "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
+    "author": "speckx",
+    "date": "2026-06-23",
+    "score": 194,
+    "comments": 181,
+    "id": 48648550,
+    "discussion_url": "https://news.ycombinator.com/item?id=48648550",
+    "description": "My Steam Machine is a 50ft HDMI cable",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914587"
+  },
+  {
+    "title": "Om",
+    "url": "https://daringfireball.net/2026/06/om",
+    "author": "throw0101a",
+    "date": "2026-06-26",
+    "score": 402,
+    "comments": 19,
+    "id": 48693391,
+    "discussion_url": "https://news.ycombinator.com/item?id=48693391",
+    "description": "Om",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914513"
+  },
+  {
+    "title": "Om Malik has died",
+    "url": "https://om.co/2026/06/24/1966-2026/",
+    "author": "minimaxir",
+    "date": "2026-06-25",
+    "score": 1318,
+    "comments": 164,
+    "id": 48678852,
+    "discussion_url": "https://news.ycombinator.com/item?id=48678852",
+    "description": "Om Malik has died",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914609"
+  },
+  {
+    "title": "OpenAI leans toward waiting until next year for IPO",
+    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "author": "mfiguiere",
+    "date": "2026-06-25",
+    "score": 167,
+    "comments": 141,
+    "id": 48678873,
+    "discussion_url": "https://news.ycombinator.com/item?id=48678873",
+    "description": "OpenAI leans toward waiting until next year for IPO",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914631"
+  },
+  {
+    "title": "OpenTTD 16.0-Beta1",
+    "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+    "author": "untilted",
+    "date": "2026-06-27",
+    "score": 179,
+    "comments": 32,
+    "id": 48695149,
+    "discussion_url": "https://news.ycombinator.com/item?id=48695149",
+    "description": "OpenTTD 16.0-Beta1",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914451"
+  },
+  {
+    "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
+    "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
+    "author": "ortusdux",
+    "date": "2026-06-26",
+    "score": 277,
+    "comments": 159,
+    "id": 48691346,
+    "discussion_url": "https://news.ycombinator.com/item?id=48691346",
+    "description": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914603"
+  },
+  {
+    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+    "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
+    "author": "jfoucher",
+    "date": "2026-06-26",
+    "score": 98,
+    "comments": 20,
+    "id": 48689859,
+    "discussion_url": "https://news.ycombinator.com/item?id=48689859",
+    "description": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914544"
+  },
+  {
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "author": "minimaxir",
+    "date": "2026-06-26",
+    "score": 1026,
+    "comments": 644,
+    "id": 48689028,
+    "discussion_url": "https://news.ycombinator.com/item?id=48689028",
+    "description": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914435"
+  },
+  {
+    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "url": "https://github.com/workweave/router",
+    "author": "adchurch",
+    "date": "2026-06-26",
+    "score": 171,
+    "comments": 98,
+    "id": 48688700,
+    "discussion_url": "https://news.ycombinator.com/item?id=48688700",
+    "description": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914538"
+  },
+  {
+    "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+    "url": "https://github.com/DDecoene/WebBaseIII",
+    "author": "ddecoene",
+    "date": "2026-06-24",
+    "score": 91,
+    "comments": 27,
+    "id": 48656986,
+    "discussion_url": "https://news.ycombinator.com/item?id=48656986",
+    "description": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914619"
+  },
+  {
+    "title": "Springer Nature has removed two studies by Max Planck",
+    "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
+    "author": "adharmad",
+    "date": "2026-06-26",
+    "score": 374,
+    "comments": 179,
+    "id": 48686834,
+    "discussion_url": "https://news.ycombinator.com/item?id=48686834",
+    "description": "Springer Nature has removed two studies by Max Planck",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914646"
+  },
+  {
+    "title": "The gap between open weights LLMs and closed source LLMs",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "author": "kkm",
+    "date": "2026-06-26",
+    "score": 223,
+    "comments": 181,
+    "id": 48692058,
+    "discussion_url": "https://news.ycombinator.com/item?id=48692058",
+    "description": "The gap between open weights LLMs and closed source LLMs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914517"
+  },
+  {
+    "title": "The unbearable cheapness of open weight models",
+    "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+    "author": "ddxv",
+    "date": "2026-06-25",
+    "score": 194,
+    "comments": 182,
+    "id": 48668255,
+    "discussion_url": "https://news.ycombinator.com/item?id=48668255",
+    "description": "The unbearable cheapness of open weight models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914643"
+  },
+  {
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "author": "bobrenjc93",
+    "date": "2026-06-26",
+    "score": 461,
+    "comments": 567,
+    "id": 48692995,
+    "discussion_url": "https://news.ycombinator.com/item?id=48692995",
+    "description": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914503"
+  },
+  {
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "author": "alain94040",
+    "date": "2026-06-26",
+    "score": 1055,
+    "comments": 1114,
+    "id": 48690101,
+    "discussion_url": "https://news.ycombinator.com/item?id=48690101",
+    "description": "U.S. government will decide who gets to use GPT-5.6",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914476"
+  },
+  {
+    "title": "Ultrasound imaging of the brain",
+    "url": "https://alephneuro.com/blog/ultrasound-brain",
+    "author": "rossant",
+    "date": "2026-06-26",
+    "score": 287,
+    "comments": 114,
+    "id": 48685558,
+    "discussion_url": "https://news.ycombinator.com/item?id=48685558",
+    "description": "Ultrasound imaging of the brain",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914507"
+  },
+  {
+    "title": "We all depend on open source. We will defend it together",
+    "url": "https://akrites.org/letter/",
+    "author": "dhruv3006",
+    "date": "2026-06-26",
+    "score": 454,
+    "comments": 222,
+    "id": 48682737,
+    "discussion_url": "https://news.ycombinator.com/item?id=48682737",
+    "description": "We all depend on open source. We will defend it together",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914640"
+  },
+  {
+    "title": "We can still stop California's 3D printer surveillance scheme",
+    "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+    "author": "hn_acker",
+    "date": "2026-06-26",
+    "score": 410,
+    "comments": 140,
+    "id": 48692051,
+    "discussion_url": "https://news.ycombinator.com/item?id=48692051",
+    "description": "We can still stop California's 3D printer surveillance scheme",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914521"
+  },
+  {
+    "title": "What Is a Nomogram and Why Would It Interest Me?",
+    "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+    "author": "Eridanus2",
+    "date": "2026-06-26",
+    "score": 127,
+    "comments": 20,
+    "id": 48689277,
+    "discussion_url": "https://news.ycombinator.com/item?id=48689277",
+    "description": "What Is a Nomogram and Why Would It Interest Me?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914534"
+  },
+  {
+    "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+    "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+    "author": "ProxyTracer",
+    "date": "2026-06-26",
+    "score": 256,
+    "comments": 123,
+    "id": 48692946,
+    "discussion_url": "https://news.ycombinator.com/item?id=48692946",
+    "description": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914465"
+  },
+  {
+    "title": "WordStar: A Writer's Word Processor (1996)",
+    "url": "https://www.sfwriter.com/wordstar.htm",
+    "author": "droidjj",
+    "date": "2026-06-27",
+    "score": 99,
+    "comments": 46,
+    "id": 48694853,
+    "discussion_url": "https://news.ycombinator.com/item?id=48694853",
+    "description": "WordStar: A Writer's Word Processor (1996)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-27T11:33:44.914448"
+  }
+]
