@@ -1,62 +1,56 @@
 ---
-date: '2026-06-26'
+date: '2026-06-28'
 model: gpt-oss:120b-cloud
-generated_at: '2026-06-26T06:03:55.949416'
+generated_at: '2026-06-28T18:04:31.962120'
 ---
 
-## Executive Summary  
-- A White House export‑control pause on frontier AI models has halted the deployment of Anthropic’s Claude Fable 5 and Claude Mythos 5, sparking debate over “jailbreak” vulnerabilities and the future of AI governance.  
-- Tesla faces a high‑profile lawsuit after a fatal crash in Texas, raising fresh questions about the responsibility of Full‑Self‑Driving software.  
-- A federal judge in Boston blocked key parts of President Trump’s mail‑in voting order, reinforcing limits on executive authority over elections.  
-- New data show that deeper AI adoption correlates with higher incident rates in macOS environments, while Gartner warns AI‑generated code could out‑spend human developers by 2028.  
+## Executive Summary
+- Asian AI firms are rapidly filling the gap left by the U.S. export ban on Anthropic’s Mythos models, unveiling home‑grown security and generative tools.  
+- Apple is seeking a U.S. government waiver to buy RAM from a Chinese supplier on the Pentagon’s blacklist, highlighting the tension between supply‑chain costs and geopolitical risk.  
+- Crypto markets see modest price gains, but derivatives data reveal growing skepticism about a sustained rally, while a major bridge exploit continues to dent confidence in DeFi.  
+- In software practice, a new “Fintech Engineering Handbook” and a curated public exploit archive are gaining traction, underscoring the push for rigor and openness in high‑risk code.  
+- Outside tech, Iran’s World Cup hopes were dashed by a dramatic goal‑difference loss, and Venezuela’s earthquake rescue efforts are being hampered by military restrictions.
 
----  
+---
 
-# AI and Machine Learning  
+## AI and Machine Learning
 
-### Generative AI in Gaming  
-- **“Chasing the Sun: Building a 3D AI‑Powered Solstice Runner with React Three Fiber” – DEV Community** – A developer showcases a browser‑based endless runner that uses Google Gemini to generate on‑the‑fly puzzles and dialogue, illustrating how generative AI can drive dynamic gameplay.  
+- **Fintech Engineering Handbook – [hackernews_api] (Trending)** – A living guide outlines core fintech principles—no invented data, no lost data, no trust—and details best practices for money representation, rounding, and currency handling, aiming to standardize safe money‑centric software.  
+- **Previewing GPT‑5.6 Sol – [OpenAI]** – The article provided only nonsensical fragments, preventing any substantive summary.  
+- **Asian AI startups launch Mythos‑like models as Anthropic's export ban drags on – [TechCrunch]** – Chinese firm 360 and Japan’s Sakana AI released security‑focused AI tools and a frontier generative model (Fugu) to offset the U.S. ban on Anthropic’s Mythos, positioning themselves as regional alternatives with lower export‑control risk.  
+- **Apple wants permission to buy memory from a blacklisted Chinese supplier – [The Verge]** – Apple has petitioned the U.S. for an exemption to source RAM from CXMT, a chipmaker linked to the PLA, citing soaring component costs but facing potential political backlash.  
+- **World Cup 2026: Iran unlucky losers after missing out on last 32 – [BBC Sport]** – Iran exited the tournament on goal‑difference after a controversial off‑side call and dramatic added‑time goals in another match, while political tensions and travel restrictions added to the team’s grievances.  
+- **An opinionated (and mainly correct) guide to naming – [tldr]** – The piece argues that clear, context‑rich identifiers improve code readability, reduce debugging time, and boost AI‑assisted development, offering concrete naming conventions and anti‑patterns.  
+- **Base Build on X: Beryl testnet launch – [tldr]** – Base’s Beryl testnet is live, with a mainnet upgrade slated for 25 June 2026 introducing the B20 token standard to enhance capital efficiency for issuers.
 
-### Literary Reflections on Difficulty  
-- **“Dostoyevsky isn’t difficult — The Autodidacts” – Hacker News** – A personal essay argues that classic Russian novels are more readable than often claimed, emphasizing translation quality and the author’s clear storytelling rather than inherent complexity.  
+---
 
-### Consumer Tech Deals (Prime Day)  
-- **“52 Prime Day deals under $25 you won’t want to miss” – The Verge** – A curated list of sub‑$25 gadgets—from Tile trackers to Blink doorbells—highlights steep discounts and practical use cases for everyday tech shoppers.  
+## Cybersecurity and Privacy
 
-### Tesla Legal Showdown  
-- **“A Fatal Tesla Crash in Texas Sets Up a Legal Showdown” – WIRED** – The family of a woman killed by a Tesla Model 3 sues both the driver and Tesla, alleging the Full‑Self‑Driving system was defectively designed; Tesla’s AI VP counters that the driver manually overrode the system.  
+- **GitHub – bikini/exploitarium archive – [hackernews_api] (Trending)** – A public repository aggregates exploit proof‑of‑concepts and vulnerability write‑ups, encouraging responsible disclosure while warning against malicious use; the author leverages AI‑assisted fuzzing and provides detailed metadata for each entry.  
+- **As BTC, ETH prices gain, derivatives signal skepticism over a sustained rally – [tldr]** – Bitcoin and Ether posted modest gains, yet futures volume and rising liquidations, combined with bearish chart patterns and record open interest in altcoins, suggest market participants are hedging against a potential downside correction.
 
-### Historical Engineering Challenges  
-- **“All challenges big and small” – MIT Technology Review** – A first‑person account of post‑Gulf‑War reconstruction in Kuwait details how engineers tackled oil‑well fires, mines, and infrastructure repair, underscoring human ingenuity in disaster response.  
+---
 
-### AI Policy, Governance & Benchmarks  
-- **“AI #173: AI Pauses” – TL;DR** – The White House’s export‑control pause on frontier models follows a reported “jailbreak” of Anthropic’s Claude; the note also surveys new benchmarks (VirtueBench, Opus Magnum) and policy proposals from Anthropic and DeepMind.  
+## Software Engineering and Dev Tools
 
-### AI Adoption Risks in Enterprise  
-- **“AI adoption correlates with incident frequency, underscoring need for governance” – CIO Dive** – A survey of 687 macOS‑focused IT leaders finds that organizations with higher AI integration experience more security and compliance incidents, prompting calls for stronger governance.  
+- **The Case for Physical Media Ownership – [hackernews_api] (Trending)** – Digital purchases are typically revocable licenses lacking resale rights, whereas physical media confer true ownership, legal resale ability, and protection from platform shutdowns; recent lawsuits challenge the misrepresentation of digital licenses as ownership.  
+- **Turn your site into a place people can bump into each other – [hnrss]** – An open‑source “Town Square” widget adds real‑time stick‑figure avatars to webpages, enabling transient, account‑free interactions and laying groundwork for a modern Webring‑style shared browsing experience.  
+- **Anger grows in Venezuela as citizens blocked from aiding earthquake rescue – [Al Jazeera]** – The Venezuelan military barred civilians from disaster zones after twin earthquakes, sparking public outrage and distrust in the government’s emergency response.
 
-### Economic Outlook for AI‑Generated Code  
-- **“AI coding will soon get pricier than human developers” – CIO Dive** – Gartner predicts that rising token prices will make AI‑generated code more expensive than average developer salaries by 2028, urging CIOs to implement “tokenomics” monitoring and cost‑control measures.  
+---
 
----  
+## Startups and Business
 
-# Software Engineering and Dev Tools  
+- **Apple and Audi alumni have made a luxe EV based on the moon buggy – [newsfeed]** – Stealth European startup Amble unveiled the $25k Amble One, a premium, street‑legal electric buggy inspired by NASA’s lunar rover, targeting high‑end hospitality and niche micromobility markets with plans for a larger “Amble Two” model in 2029.
 
-- **“AI is eroding trust. Accounting and finance professionals can rebuild it” – CFO.com** – A survey reveals dwindling confidence among accountants, citing AI‑driven errors and lack of governance; the article recommends finance teams become compliance stewards, blend AI output with human judgment, and pursue targeted upskilling.  
+---
 
----  
+## World News and Geopolitics
 
-# Science and Research  
+- **Suspicious discontinuities – [hnrss]** – Sharp policy or system thresholds (e.g., income limits for subsidies, academic admission cut‑offs, election reporting) create perverse incentives that encourage gaming; the author advocates smooth phase‑outs to mitigate distortions across tax, welfare, and statistical domains.
 
-- **“Addendum: Transmission of MPXV from fire‑footed rope squirrels to sooty mangabeys” – Nature** – An addendum clarifies that the squirrel species involved in a monkeypox transmission study belongs to the newly recognized *Funisciurus leucostigma*, highlighting taxonomic updates that have yet to be reflected in major databases.  
+---
 
----  
-
-# World News and Geopolitics  
-
-- **“Judge in Boston blocks parts of Trump’s mail‑in voting order” – NPR** – U.S. District Judge Indira Talwani rules that the President lacks constitutional authority to direct USPS and DHS on election matters, temporarily preserving mail‑in voting procedures in 22 states and D.C.  
-
----  
-
-# Notable Mentions  
-- *(No additional items reported today.)*
+## Notable Mentions
+- *(No additional items were provided for this section.)*
