@@ -1,11 +1,45 @@
 [
   {
+    "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+    "url": "https://pudding.cool/2026/06/menu-story/",
+    "author": "xbryanx",
+    "date": "2026-06-28",
+    "score": 253,
+    "comments": 67,
+    "id": 48707763,
+    "discussion_url": "https://news.ycombinator.com/item?id=48707763",
+    "description": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-28T19:34:29.433528"
+  },
+  {
+    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "url": "https://github.com/openai/codex/issues/2847",
+    "author": "pikseladam",
+    "date": "2026-06-28",
+    "score": 151,
+    "comments": 97,
+    "id": 48706714,
+    "discussion_url": "https://news.ycombinator.com/item?id=48706714",
+    "description": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-28T19:34:29.433552"
+  },
+  {
     "title": "AI learns the “dark art” of RFIC design",
     "url": "https://spectrum.ieee.org/ai-radio-chip-design",
     "author": "Brajeshwar",
     "date": "2026-06-24",
-    "score": 241,
-    "comments": 158,
+    "score": 258,
+    "comments": 165,
     "id": 48660021,
     "discussion_url": "https://news.ycombinator.com/item?id=48660021",
     "description": "AI learns the “dark art” of RFIC design",
@@ -14,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022109"
+    "fetched_at": "2026-06-28T19:34:29.433727"
   },
   {
     "title": "AMD Strix Halo RDMA Cluster Setup Guide",
     "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
     "author": "jakogut",
     "date": "2026-06-28",
-    "score": 156,
-    "comments": 49,
+    "score": 216,
+    "comments": 69,
     "id": 48703258,
     "discussion_url": "https://news.ycombinator.com/item?id=48703258",
     "description": "AMD Strix Halo RDMA Cluster Setup Guide",
@@ -31,32 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022098"
-  },
-  {
-    "title": "Anatomy of a Failed (Nation-State?) Attack",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "author": "signa11",
-    "date": "2026-06-27",
-    "score": 146,
-    "comments": 26,
-    "id": 48694631,
-    "discussion_url": "https://news.ycombinator.com/item?id=48694631",
-    "description": "Anatomy of a Failed (Nation-State?) Attack",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022220"
+    "fetched_at": "2026-06-28T19:34:29.433654"
   },
   {
     "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
     "url": "https://github.com/bikini/exploitarium",
     "author": "binyu",
     "date": "2026-06-27",
-    "score": 834,
-    "comments": 326,
+    "score": 919,
+    "comments": 364,
     "id": 48698617,
     "discussion_url": "https://news.ycombinator.com/item?id=48698617",
     "description": "Anonymous GitHub account mass-dropping undisclosed 0-days",
@@ -65,49 +82,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022041"
+    "fetched_at": "2026-06-28T19:34:29.433738"
   },
   {
-    "title": "Asian AI startups launch Mythos-like models",
-    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "author": "bogdiyan",
-    "date": "2026-06-27",
-    "score": 244,
-    "comments": 178,
-    "id": 48697958,
-    "discussion_url": "https://news.ycombinator.com/item?id=48697958",
-    "description": "Asian AI startups launch Mythos-like models",
+    "title": "Bashblog – a single bash script to create blogs",
+    "url": "https://github.com/cfenollosa/bashblog",
+    "author": "ludicrousdispla",
+    "date": "2026-06-28",
+    "score": 103,
+    "comments": 76,
+    "id": 48704454,
+    "discussion_url": "https://news.ycombinator.com/item?id=48704454",
+    "description": "Bashblog – a single bash script to create blogs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022149"
+    "fetched_at": "2026-06-28T19:34:29.433658"
   },
   {
-    "title": "Beer CSS – Build material design in record time",
-    "url": "https://www.beercss.com",
-    "author": "Seb-C",
-    "date": "2026-06-27",
-    "score": 130,
-    "comments": 59,
-    "id": 48696510,
-    "discussion_url": "https://news.ycombinator.com/item?id=48696510",
-    "description": "Beer CSS – Build material design in record time",
+    "title": "Build Yourself Flowers",
+    "url": "https://vickiboykis.com/2026/04/20/build-yourself-flowers/",
+    "author": "surprisetalk",
+    "date": "2026-06-25",
+    "score": 110,
+    "comments": 3,
+    "id": 48674006,
+    "discussion_url": "https://news.ycombinator.com/item?id=48674006",
+    "description": "Build Yourself Flowers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022227"
+    "fetched_at": "2026-06-28T19:34:29.433750"
   },
   {
     "title": "Choosing a Public DNS Resolver",
     "url": "https://evilbit.de/dns-resolver-guide.html",
     "author": "pawal",
     "date": "2026-06-27",
-    "score": 181,
-    "comments": 62,
+    "score": 260,
+    "comments": 116,
     "id": 48702273,
     "discussion_url": "https://news.ycombinator.com/item?id=48702273",
     "description": "Choosing a Public DNS Resolver",
@@ -116,117 +133,151 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022088"
+    "fetched_at": "2026-06-28T19:34:29.433662"
   },
   {
-    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-    "author": "aurenvale",
-    "date": "2026-06-27",
-    "score": 770,
-    "comments": 329,
-    "id": 48696585,
-    "discussion_url": "https://news.ycombinator.com/item?id=48696585",
-    "description": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022135"
-  },
-  {
-    "title": "Feds Killed Polestar and Spared Volvo",
-    "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
-    "author": "mraniki",
+    "title": "DLL that was not present in memory despite not being formally unloaded",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+    "author": "ibobev",
     "date": "2026-06-28",
-    "score": 155,
-    "comments": 122,
-    "id": 48703613,
-    "discussion_url": "https://news.ycombinator.com/item?id=48703613",
-    "description": "Feds Killed Polestar and Spared Volvo",
+    "score": 107,
+    "comments": 38,
+    "id": 48705910,
+    "discussion_url": "https://news.ycombinator.com/item?id=48705910",
+    "description": "DLL that was not present in memory despite not being formally unloaded",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022172"
+    "fetched_at": "2026-06-28T19:34:29.433613"
   },
   {
-    "title": "Fintech Engineering Handbook",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "author": "signa11",
-    "date": "2026-06-27",
-    "score": 591,
-    "comments": 178,
-    "id": 48696982,
-    "discussion_url": "https://news.ycombinator.com/item?id=48696982",
-    "description": "Fintech Engineering Handbook",
+    "title": "Do Babies Dream of Baby Sheep?",
+    "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
+    "author": "DanielVZ",
+    "date": "2026-06-25",
+    "score": 91,
+    "comments": 29,
+    "id": 48674290,
+    "discussion_url": "https://news.ycombinator.com/item?id=48674290",
+    "description": "Do Babies Dream of Baby Sheep?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022106"
+    "fetched_at": "2026-06-28T19:34:29.433646"
   },
   {
-    "title": "How H-E-B became Texas' most beloved brand (2024)",
-    "url": "https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/",
-    "author": "NaOH",
-    "date": "2026-06-24",
-    "score": 122,
-    "comments": 102,
-    "id": 48665125,
-    "discussion_url": "https://news.ycombinator.com/item?id=48665125",
-    "description": "How H-E-B became Texas' most beloved brand (2024)",
+    "title": "EU Open Sources Ten-Year Network Development Planning Tools",
+    "url": "https://github.com/open-energy-transition/open-tyndp",
+    "author": "lyoncy",
+    "date": "2026-06-28",
+    "score": 150,
+    "comments": 38,
+    "id": 48707361,
+    "discussion_url": "https://news.ycombinator.com/item?id=48707361",
+    "description": "EU Open Sources Ten-Year Network Development Planning Tools",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022152"
+    "fetched_at": "2026-06-28T19:34:29.433682"
   },
   {
-    "title": "How Many Elementary Particles Are There, Really?",
-    "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
-    "author": "rwmj",
-    "date": "2026-06-27",
-    "score": 130,
-    "comments": 116,
-    "id": 48697746,
-    "discussion_url": "https://news.ycombinator.com/item?id=48697746",
-    "description": "How Many Elementary Particles Are There, Really?",
+    "title": "EU to legislate about Chat Control behind closed doors",
+    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "author": "NeutralForest",
+    "date": "2026-06-28",
+    "score": 426,
+    "comments": 249,
+    "id": 48707719,
+    "discussion_url": "https://news.ycombinator.com/item?id=48707719",
+    "description": "EU to legislate about Chat Control behind closed doors",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022230"
+    "fetched_at": "2026-06-28T19:34:29.433601"
   },
   {
-    "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-    "url": "https://ipcrawl.com/",
-    "author": "arm32",
-    "date": "2026-06-27",
-    "score": 303,
-    "comments": 153,
-    "id": 48700834,
-    "discussion_url": "https://news.ycombinator.com/item?id=48700834",
-    "description": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+    "title": "Engineering for Bounded Cognition",
+    "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+    "author": "supermatt",
+    "date": "2026-06-26",
+    "score": 110,
+    "comments": 27,
+    "id": 48685967,
+    "discussion_url": "https://news.ycombinator.com/item?id=48685967",
+    "description": "Engineering for Bounded Cognition",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022162"
+    "fetched_at": "2026-06-28T19:34:29.433686"
+  },
+  {
+    "title": "Flock cameras track more than your license plate, and they're spreading fast",
+    "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+    "author": "SanjayMehta",
+    "date": "2026-06-28",
+    "score": 295,
+    "comments": 216,
+    "id": 48707673,
+    "discussion_url": "https://news.ycombinator.com/item?id=48707673",
+    "description": "Flock cameras track more than your license plate, and they're spreading fast",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-28T19:34:29.433621"
+  },
+  {
+    "title": "Google limits Meta's use of its Gemini AI models",
+    "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+    "author": "root-parent",
+    "date": "2026-06-28",
+    "score": 125,
+    "comments": 58,
+    "id": 48707103,
+    "discussion_url": "https://news.ycombinator.com/item?id=48707103",
+    "description": "Google limits Meta's use of its Gemini AI models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-28T19:34:29.433643"
+  },
+  {
+    "title": "I used Claude Code to get a second opinion on my MRI",
+    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "author": "engmarketer",
+    "date": "2026-06-28",
+    "score": 151,
+    "comments": 232,
+    "id": 48708941,
+    "discussion_url": "https://news.ycombinator.com/item?id=48708941",
+    "description": "I used Claude Code to get a second opinion on my MRI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-28T19:34:29.433491"
   },
   {
     "title": "Marfa Public Radio Puts You to Sleep",
     "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
     "author": "reaperducer",
     "date": "2026-06-28",
-    "score": 259,
-    "comments": 73,
+    "score": 369,
+    "comments": 112,
     "id": 48703759,
     "discussion_url": "https://news.ycombinator.com/item?id=48703759",
     "description": "Marfa Public Radio Puts You to Sleep",
@@ -235,32 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022080"
+    "fetched_at": "2026-06-28T19:34:29.433609"
   },
   {
-    "title": "Michigan spent $1.8B and only created 602 jobs",
-    "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
-    "author": "littlexsparkee",
-    "date": "2026-06-27",
-    "score": 172,
-    "comments": 77,
-    "id": 48702060,
-    "discussion_url": "https://news.ycombinator.com/item?id=48702060",
-    "description": "Michigan spent $1.8B and only created 602 jobs",
+    "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+    "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+    "author": "cebert",
+    "date": "2026-06-28",
+    "score": 181,
+    "comments": 123,
+    "id": 48707769,
+    "discussion_url": "https://news.ycombinator.com/item?id=48707769",
+    "description": "Michigan bill would bar employers from requiring after-hours coms with workers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022213"
+    "fetched_at": "2026-06-28T19:34:29.433597"
   },
   {
     "title": "OpenRA",
     "url": "https://www.openra.net/",
     "author": "tosh",
     "date": "2026-06-27",
-    "score": 741,
-    "comments": 138,
+    "score": 769,
+    "comments": 146,
     "id": 48697560,
     "discussion_url": "https://news.ycombinator.com/item?id=48697560",
     "description": "OpenRA",
@@ -269,49 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022072"
-  },
-  {
-    "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
-    "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-    "author": "Versipelle",
-    "date": "2026-06-27",
-    "score": 156,
-    "comments": 60,
-    "id": 48698559,
-    "discussion_url": "https://news.ycombinator.com/item?id=48698559",
-    "description": "Post-Mythos Cybersecurity: Keep calm and carry on",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022142"
-  },
-  {
-    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "author": "minimaxir",
-    "date": "2026-06-26",
-    "score": 1112,
-    "comments": 725,
-    "id": 48689028,
-    "discussion_url": "https://news.ycombinator.com/item?id=48689028",
-    "description": "Previewing GPT‑5.6 Sol: a next-generation model",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022183"
+    "fetched_at": "2026-06-28T19:34:29.433731"
   },
   {
     "title": "Reducing tick density along recreational trails in Ottawa, Canada",
     "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
     "author": "bushwart",
     "date": "2026-06-24",
-    "score": 205,
-    "comments": 125,
+    "score": 230,
+    "comments": 171,
     "id": 48664063,
     "discussion_url": "https://news.ycombinator.com/item?id=48664063",
     "description": "Reducing tick density along recreational trails in Ottawa, Canada",
@@ -320,32 +337,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022084"
+    "fetched_at": "2026-06-28T19:34:29.433717"
   },
   {
-    "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-    "url": "https://github.com/kageroumado/adrafinil",
-    "author": "kageroumado",
-    "date": "2026-06-27",
-    "score": 108,
-    "comments": 71,
-    "id": 48701512,
-    "discussion_url": "https://news.ycombinator.com/item?id=48701512",
-    "description": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+    "title": "Regular expressions that work “everywhere”",
+    "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
+    "author": "ColinWright",
+    "date": "2026-06-25",
+    "score": 91,
+    "comments": 41,
+    "id": 48672232,
+    "discussion_url": "https://news.ycombinator.com/item?id=48672232",
+    "description": "Regular expressions that work “everywhere”",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022200"
+    "fetched_at": "2026-06-28T19:34:29.433710"
   },
   {
     "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
     "url": "https://decomp-academy.dev",
     "author": "jackpriceburns",
     "date": "2026-06-28",
-    "score": 139,
-    "comments": 48,
+    "score": 180,
+    "comments": 69,
     "id": 48703412,
     "discussion_url": "https://news.ycombinator.com/item?id=48703412",
     "description": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
@@ -354,32 +371,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022045"
+    "fetched_at": "2026-06-28T19:34:29.433694"
   },
   {
-    "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
-    "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-    "author": "speckx",
-    "date": "2026-06-27",
-    "score": 271,
-    "comments": 88,
-    "id": 48697768,
-    "discussion_url": "https://news.ycombinator.com/item?id=48697768",
-    "description": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+    "title": "Space Shuttle Endeavour's 20-story vertical display",
+    "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
+    "author": "uticus",
+    "date": "2026-06-26",
+    "score": 96,
+    "comments": 21,
+    "id": 48686032,
+    "discussion_url": "https://news.ycombinator.com/item?id=48686032",
+    "description": "Space Shuttle Endeavour's 20-story vertical display",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022233"
+    "fetched_at": "2026-06-28T19:34:29.433706"
   },
   {
     "title": "Suspicious Discontinuities (2020)",
     "url": "https://danluu.com/discontinuities/",
     "author": "tosh",
     "date": "2026-06-27",
-    "score": 249,
-    "comments": 84,
+    "score": 264,
+    "comments": 94,
     "id": 48698151,
     "discussion_url": "https://news.ycombinator.com/item?id=48698151",
     "description": "Suspicious Discontinuities (2020)",
@@ -388,66 +405,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022145"
+    "fetched_at": "2026-06-28T19:34:29.433741"
   },
   {
-    "title": "The US Army Issued Ocarinas to Soldiers in World War II",
-    "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
-    "author": "tomcam",
-    "date": "2026-06-25",
-    "score": 164,
-    "comments": 73,
-    "id": 48670103,
-    "discussion_url": "https://news.ycombinator.com/item?id=48670103",
-    "description": "The US Army Issued Ocarinas to Soldiers in World War II",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022166"
-  },
-  {
-    "title": "The best response to AI slop and online noise is from Robin Williams",
-    "url": "https://jayacunzo.com/blog/your-move-chief",
-    "author": "herbertl",
+    "title": "The KIDS Act would require age checks to get online",
+    "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+    "author": "bilsbie",
     "date": "2026-06-28",
-    "score": 255,
-    "comments": 147,
-    "id": 48703452,
-    "discussion_url": "https://news.ycombinator.com/item?id=48703452",
-    "description": "The best response to AI slop and online noise is from Robin Williams",
+    "score": 142,
+    "comments": 172,
+    "id": 48706560,
+    "discussion_url": "https://news.ycombinator.com/item?id=48706560",
+    "description": "The KIDS Act would require age checks to get online",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022132"
+    "fetched_at": "2026-06-28T19:34:29.433605"
   },
   {
-    "title": "The case for physical media ownership",
-    "url": "https://dervis.de/physical/",
-    "author": "cemdervis",
-    "date": "2026-06-27",
-    "score": 447,
-    "comments": 307,
-    "id": 48697335,
-    "discussion_url": "https://news.ycombinator.com/item?id=48697335",
-    "description": "The case for physical media ownership",
+    "title": "The curious case of the disappearing Polish S (2015)",
+    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+    "author": "colinprince",
+    "date": "2026-06-28",
+    "score": 180,
+    "comments": 51,
+    "id": 48706814,
+    "discussion_url": "https://news.ycombinator.com/item?id=48706814",
+    "description": "The curious case of the disappearing Polish S (2015)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022036"
+    "fetched_at": "2026-06-28T19:34:29.433548"
+  },
+  {
+    "title": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
+    "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+    "author": "pseudolus",
+    "date": "2026-06-28",
+    "score": 90,
+    "comments": 47,
+    "id": 48706877,
+    "discussion_url": "https://news.ycombinator.com/item?id=48706877",
+    "description": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-28T19:34:29.433674"
   },
   {
     "title": "Turn your site into a place people can bump into each other",
     "url": "https://cauenapier.com/blog/townsquare_release/",
     "author": "eustoria",
     "date": "2026-06-27",
-    "score": 249,
-    "comments": 106,
+    "score": 291,
+    "comments": 129,
     "id": 48699928,
     "discussion_url": "https://news.ycombinator.com/item?id=48699928",
     "description": "Turn your site into a place people can bump into each other",
@@ -456,57 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022121"
+    "fetched_at": "2026-06-28T19:34:29.433698"
   },
   {
-    "title": "What Ozempic does to the gut-brain axis",
-    "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
-    "author": "randycupertino",
+    "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+    "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+    "author": "saisrirampur",
     "date": "2026-06-27",
-    "score": 163,
-    "comments": 396,
-    "id": 48701984,
-    "discussion_url": "https://news.ycombinator.com/item?id=48701984",
-    "description": "What Ozempic does to the gut-brain axis",
+    "score": 125,
+    "comments": 15,
+    "id": 48702848,
+    "discussion_url": "https://news.ycombinator.com/item?id=48702848",
+    "description": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022176"
+    "fetched_at": "2026-06-28T19:34:29.433702"
   },
   {
-    "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-    "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-    "author": "ProxyTracer",
-    "date": "2026-06-26",
-    "score": 360,
-    "comments": 199,
-    "id": 48692946,
-    "discussion_url": "https://news.ycombinator.com/item?id=48692946",
-    "description": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+    "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+    "url": "https://github.com/itsthelore/wayfinder-router",
+    "author": "handfuloflight",
+    "date": "2026-06-28",
+    "score": 105,
+    "comments": 52,
+    "id": 48704373,
+    "discussion_url": "https://news.ycombinator.com/item?id=48704373",
+    "description": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022155"
-  },
-  {
-    "title": "Zuckerberg's war on whistleblowers",
-    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-    "author": "HotGarbage",
-    "date": "2026-06-27",
-    "score": 703,
-    "comments": 254,
-    "id": 48698684,
-    "discussion_url": "https://news.ycombinator.com/item?id=48698684",
-    "description": "Zuckerberg's war on whistleblowers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-28T11:36:54.022186"
+    "fetched_at": "2026-06-28T19:34:29.433666"
   }
 ]

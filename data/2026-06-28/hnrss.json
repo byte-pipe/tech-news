@@ -1,242 +1,197 @@
 [
   {
-    "title": "AI learns the “dark art” of RFIC design",
-    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-    "description": "AI learns the “dark art” of RFIC design",
-    "date": "2026-06-24",
-    "score": 241,
-    "comments": 158,
-    "discussion_url": "https://news.ycombinator.com/item?id=48660021",
+    "title": "5k Restaurant Menus, Years 1880-1920",
+    "url": "https://pudding.cool/2026/06/menu-collection/",
+    "description": "5k Restaurant Menus, Years 1880-1920",
+    "date": "2026-06-28",
+    "score": 246,
+    "comments": 63,
+    "discussion_url": "https://news.ycombinator.com/item?id=48707763",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490855"
+    "fetched_at": "2026-06-28T19:34:57.297923"
   },
   {
-    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-    "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-    "description": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "url": "https://github.com/openai/codex/issues/2847",
+    "description": "A way to exclude sensitive files issue still open for OpenAI Codex",
     "date": "2026-06-28",
-    "score": 156,
-    "comments": 49,
-    "discussion_url": "https://news.ycombinator.com/item?id=48703258",
+    "score": 147,
+    "comments": 96,
+    "discussion_url": "https://news.ycombinator.com/item?id=48706714",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490672"
+    "fetched_at": "2026-06-28T19:34:57.297992"
   },
   {
     "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
     "url": "https://github.com/bikini/exploitarium",
     "description": "Anonymous GitHub account mass-dropping undisclosed 0-days",
     "date": "2026-06-27",
-    "score": 834,
-    "comments": 326,
+    "score": 918,
+    "comments": 364,
     "discussion_url": "https://news.ycombinator.com/item?id=48698617",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490708"
+    "fetched_at": "2026-06-28T19:34:57.298041"
   },
   {
-    "title": "Asian AI startups launch Mythos-like models",
-    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "description": "Asian AI startups launch Mythos-like models",
-    "date": "2026-06-27",
-    "score": 244,
-    "comments": 178,
-    "discussion_url": "https://news.ycombinator.com/item?id=48697958",
+    "title": "Build Yourself Flowers",
+    "url": "https://vickiboykis.com/2026/04/20/build-yourself-flowers/",
+    "description": "Build Yourself Flowers",
+    "date": "2026-06-25",
+    "score": 109,
+    "comments": 3,
+    "discussion_url": "https://news.ycombinator.com/item?id=48674006",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490753"
+    "fetched_at": "2026-06-28T19:34:57.298052"
   },
   {
-    "title": "Choosing a Public DNS Resolver",
-    "url": "https://evilbit.de/dns-resolver-guide.html",
-    "description": "Choosing a Public DNS Resolver",
-    "date": "2026-06-27",
-    "score": 181,
-    "comments": 62,
-    "discussion_url": "https://news.ycombinator.com/item?id=48702273",
+    "title": "DLL that was not present in memory despite not being formally unloaded",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+    "description": "DLL that was not present in memory despite not being formally unloaded",
+    "date": "2026-06-28",
+    "score": 106,
+    "comments": 38,
+    "discussion_url": "https://news.ycombinator.com/item?id=48705910",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490684"
+    "fetched_at": "2026-06-28T19:34:57.298018"
   },
   {
-    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-    "description": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-    "date": "2026-06-27",
-    "score": 770,
-    "comments": 329,
-    "discussion_url": "https://news.ycombinator.com/item?id=48696585",
+    "title": "EU to legislate about Chat Control behind closed doors",
+    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "description": "EU to legislate about Chat Control behind closed doors",
+    "date": "2026-06-28",
+    "score": 410,
+    "comments": 236,
+    "discussion_url": "https://news.ycombinator.com/item?id=48707719",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490800"
+    "fetched_at": "2026-06-28T19:34:57.297936"
   },
   {
-    "title": "Fintech Engineering Handbook",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "description": "Fintech Engineering Handbook",
-    "date": "2026-06-27",
-    "score": 591,
-    "comments": 178,
-    "discussion_url": "https://news.ycombinator.com/item?id=48696982",
+    "title": "Flock cameras track more than your license plate, and they're spreading fast",
+    "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+    "description": "Flock cameras track more than your license plate, and they're spreading fast",
+    "date": "2026-06-28",
+    "score": 289,
+    "comments": 210,
+    "discussion_url": "https://news.ycombinator.com/item?id=48707673",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490788"
+    "fetched_at": "2026-06-28T19:34:57.297949"
+  },
+  {
+    "title": "Google limits Meta's use of its Gemini AI models",
+    "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+    "description": "Google limits Meta's use of its Gemini AI models",
+    "date": "2026-06-28",
+    "score": 124,
+    "comments": 58,
+    "discussion_url": "https://news.ycombinator.com/item?id=48707103",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-28T19:34:57.297961"
+  },
+  {
+    "title": "I used Claude Code to get a second opinion on my MRI",
+    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "description": "I used Claude Code to get a second opinion on my MRI",
+    "date": "2026-06-28",
+    "score": 135,
+    "comments": 216,
+    "discussion_url": "https://news.ycombinator.com/item?id=48708941",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-06-28T19:34:57.297885"
   },
   {
     "title": "Marfa Public Radio Puts You to Sleep",
     "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
     "description": "Marfa Public Radio Puts You to Sleep",
     "date": "2026-06-28",
-    "score": 259,
-    "comments": 73,
+    "score": 367,
+    "comments": 111,
     "discussion_url": "https://news.ycombinator.com/item?id=48703759",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490618"
+    "fetched_at": "2026-06-28T19:34:57.298029"
   },
   {
-    "title": "OpenRA",
-    "url": "https://www.openra.net/",
-    "description": "OpenRA",
-    "date": "2026-06-27",
-    "score": 741,
-    "comments": 138,
-    "discussion_url": "https://news.ycombinator.com/item?id=48697560",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490765"
-  },
-  {
-    "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
-    "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-    "description": "Post-Mythos Cybersecurity: Keep calm and carry on",
-    "date": "2026-06-27",
-    "score": 156,
-    "comments": 60,
-    "discussion_url": "https://news.ycombinator.com/item?id=48698559",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490729"
-  },
-  {
-    "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
-    "description": "Reducing tick density along recreational trails in Ottawa, Canada",
-    "date": "2026-06-24",
-    "score": 205,
-    "comments": 125,
-    "discussion_url": "https://news.ycombinator.com/item?id=48664063",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490841"
-  },
-  {
-    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-    "url": "https://decomp-academy.dev",
-    "description": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+    "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+    "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+    "description": "Michigan bill would bar employers from requiring after-hours coms with workers",
     "date": "2026-06-28",
-    "score": 139,
-    "comments": 48,
-    "discussion_url": "https://news.ycombinator.com/item?id=48703412",
+    "score": 178,
+    "comments": 117,
+    "discussion_url": "https://news.ycombinator.com/item?id=48707769",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490658"
+    "fetched_at": "2026-06-28T19:34:57.297909"
   },
   {
-    "title": "Suspicious Discontinuities (2020)",
-    "url": "https://danluu.com/discontinuities/",
-    "description": "Suspicious Discontinuities (2020)",
-    "date": "2026-06-27",
-    "score": 249,
-    "comments": 84,
-    "discussion_url": "https://news.ycombinator.com/item?id=48698151",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490741"
-  },
-  {
-    "title": "The best response to AI slop and online noise is from Robin Williams",
-    "url": "https://jayacunzo.com/blog/your-move-chief",
-    "description": "The best response to AI slop and online noise is from Robin Williams",
+    "title": "The KIDS Act would require age checks to get online",
+    "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+    "description": "The KIDS Act would require age checks to get online",
     "date": "2026-06-28",
-    "score": 255,
-    "comments": 147,
-    "discussion_url": "https://news.ycombinator.com/item?id=48703452",
+    "score": 136,
+    "comments": 168,
+    "discussion_url": "https://news.ycombinator.com/item?id=48706560",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490641"
+    "fetched_at": "2026-06-28T19:34:57.298005"
   },
   {
-    "title": "The case for physical media ownership",
-    "url": "https://dervis.de/physical/",
-    "description": "The case for physical media ownership",
-    "date": "2026-06-27",
-    "score": 447,
-    "comments": 307,
-    "discussion_url": "https://news.ycombinator.com/item?id=48697335",
+    "title": "The curious case of the disappearing Polish S (2015)",
+    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+    "description": "The curious case of the disappearing Polish S (2015)",
+    "date": "2026-06-28",
+    "score": 179,
+    "comments": 47,
+    "discussion_url": "https://news.ycombinator.com/item?id=48706814",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490777"
-  },
-  {
-    "title": "Turn your site into a place people can bump into each other",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "description": "Turn your site into a place people can bump into each other",
-    "date": "2026-06-27",
-    "score": 249,
-    "comments": 106,
-    "discussion_url": "https://news.ycombinator.com/item?id=48699928",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-06-28T11:37:05.490696"
+    "fetched_at": "2026-06-28T19:34:57.297973"
   }
 ]
