@@ -1,56 +1,71 @@
 ---
-date: '2026-06-28'
+date: '2026-06-29'
 model: gpt-oss:120b-cloud
-generated_at: '2026-06-28T18:04:31.962120'
+generated_at: '2026-06-29T19:26:36.349224'
 ---
 
 ## Executive Summary
-- Asian AI firms are rapidly filling the gap left by the U.S. export ban on Anthropic’s Mythos models, unveiling home‑grown security and generative tools.  
-- Apple is seeking a U.S. government waiver to buy RAM from a Chinese supplier on the Pentagon’s blacklist, highlighting the tension between supply‑chain costs and geopolitical risk.  
-- Crypto markets see modest price gains, but derivatives data reveal growing skepticism about a sustained rally, while a major bridge exploit continues to dent confidence in DeFi.  
-- In software practice, a new “Fintech Engineering Handbook” and a curated public exploit archive are gaining traction, underscoring the push for rigor and openness in high‑risk code.  
-- Outside tech, Iran’s World Cup hopes were dashed by a dramatic goal‑difference loss, and Venezuela’s earthquake rescue efforts are being hampered by military restrictions.
+AI development is entering a new phase of restricted access, with emerging embargoes on advanced models and growing concerns about equity and safety. Academic institutions are confronting widespread AI‑assisted cheating, prompting stricter exam policies, while the security community notes open‑weight LLMs like GLM‑5.2 closing the performance gap with proprietary agents. Meanwhile, hardware cost trends show declining DRAM prices but rising accelerator expenses, and software tooling—from model‑training pipelines to open‑source ATSs—continues to grapple with reliability and privacy challenges. Policy moves in Australia double fines for non‑compliant platforms, and a cross‑border craft‑beer collaboration highlights cultural unity ahead of the 2026 World Cup.
 
 ---
 
-## AI and Machine Learning
+# AI and Machine Learning (8 articles)
 
-- **Fintech Engineering Handbook – [hackernews_api] (Trending)** – A living guide outlines core fintech principles—no invented data, no lost data, no trust—and details best practices for money representation, rounding, and currency handling, aiming to standardize safe money‑centric software.  
-- **Previewing GPT‑5.6 Sol – [OpenAI]** – The article provided only nonsensical fragments, preventing any substantive summary.  
-- **Asian AI startups launch Mythos‑like models as Anthropic's export ban drags on – [TechCrunch]** – Chinese firm 360 and Japan’s Sakana AI released security‑focused AI tools and a frontier generative model (Fugu) to offset the U.S. ban on Anthropic’s Mythos, positioning themselves as regional alternatives with lower export‑control risk.  
-- **Apple wants permission to buy memory from a blacklisted Chinese supplier – [The Verge]** – Apple has petitioned the U.S. for an exemption to source RAM from CXMT, a chipmaker linked to the PLA, citing soaring component costs but facing potential political backlash.  
-- **World Cup 2026: Iran unlucky losers after missing out on last 32 – [BBC Sport]** – Iran exited the tournament on goal‑difference after a controversial off‑side call and dramatic added‑time goals in another match, while political tensions and travel restrictions added to the team’s grievances.  
-- **An opinionated (and mainly correct) guide to naming – [tldr]** – The piece argues that clear, context‑rich identifiers improve code readability, reduce debugging time, and boost AI‑assisted development, offering concrete naming conventions and anti‑patterns.  
-- **Base Build on X: Beryl testnet launch – [tldr]** – Base’s Beryl testnet is live, with a mainnet upgrade slated for 25 June 2026 introducing the B20 token standard to enhance capital efficiency for issuers.
+- **What's Next for AI? – DEV Community**  
+  The author reflects on four years since ChatGPT’s launch, noting a shift from optimism about AI replacing developers to anxiety over “embargo” restrictions that limit access to the most capable models, potentially widening global inequality.
 
----
+- **Professor denounces mass AI fraud on an exam at Brown University: ‘Academic integrity is at risk’ – EL PAÍS English** *(trending)*  
+  A Brown economics professor uncovered that over half of a take‑home midterm was completed with ChatGPT, prompting a move to eliminate take‑home exams and tighten grading policies amid concerns that university leadership is reluctant to act.
 
-## Cybersecurity and Privacy
+- **Using Opus 4.8 to get a second opinion on an MRI and where it leaves me – Hacker News** *(trending)*  
+  By feeding raw MRI data to Claude Opus 4.8, the author received a conflicting diagnosis that the subscapularis tendon was intact, illustrating how AI can challenge clinical opinions and raise questions about trust in automated medical analysis.
 
-- **GitHub – bikini/exploitarium archive – [hackernews_api] (Trending)** – A public repository aggregates exploit proof‑of‑concepts and vulnerability write‑ups, encouraging responsible disclosure while warning against malicious use; the author leverages AI‑assisted fuzzing and provides detailed metadata for each entry.  
-- **As BTC, ETH prices gain, derivatives signal skepticism over a sustained rally – [tldr]** – Bitcoin and Ether posted modest gains, yet futures volume and rising liquidations, combined with bearish chart patterns and record open interest in altcoins, suggest market participants are hedging against a potential downside correction.
+- **We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks – Semgrep** *(trending)*  
+  Open‑weight GLM‑5.2 achieved a 39 % F1 score on an IDOR security benchmark, outperforming Claude Code and demonstrating that strong performance can be attained without expensive proprietary harnesses, though orchestration remains critical.
 
----
+- **Memory Prices – DAM**  
+  A curated dataset tracks historic DRAM, NAND, and HBM costs, showing a long‑term decline in DRAM $/GB while accelerator component spending (HBM, logic, packaging) continues to rise for major AI‑chip makers.
 
-## Software Engineering and Dev Tools
+- **Model Training as Code — Aleph Alpha**  
+  Aleph Alpha’s “Savanna” framework codifies the entire training pipeline, enabling reproducible, single‑click model runs and reducing human error, coordination overhead, and loss of experimental knowledge.
 
-- **The Case for Physical Media Ownership – [hackernews_api] (Trending)** – Digital purchases are typically revocable licenses lacking resale rights, whereas physical media confer true ownership, legal resale ability, and protection from platform shutdowns; recent lawsuits challenge the misrepresentation of digital licenses as ownership.  
-- **Turn your site into a place people can bump into each other – [hnrss]** – An open‑source “Town Square” widget adds real‑time stick‑figure avatars to webpages, enabling transient, account‑free interactions and laying groundwork for a modern Webring‑style shared browsing experience.  
-- **Anger grows in Venezuela as citizens blocked from aiding earthquake rescue – [Al Jazeera]** – The Venezuelan military barred civilians from disaster zones after twin earthquakes, sparking public outrage and distrust in the government’s emergency response.
+- **The Boeing 747 Begins Its Final Descent – The Atlantic**  
+  A visit to Pinal Airpark reveals the systematic retirement of the iconic 747, underscoring the industry’s shift toward smaller, more efficient aircraft after decades of cultural and economic impact.
 
----
-
-## Startups and Business
-
-- **Apple and Audi alumni have made a luxe EV based on the moon buggy – [newsfeed]** – Stealth European startup Amble unveiled the $25k Amble One, a premium, street‑legal electric buggy inspired by NASA’s lunar rover, targeting high‑end hospitality and niche micromobility markets with plans for a larger “Amble Two” model in 2029.
+- **Zanagrams – free daily word puzzle – (content unavailable)**  
+  *No summary provided due to missing article text.*
 
 ---
 
-## World News and Geopolitics
+# Software Engineering and Dev Tools (3 articles)
 
-- **Suspicious discontinuities – [hnrss]** – Sharp policy or system thresholds (e.g., income limits for subsidies, academic admission cut‑offs, election reporting) create perverse incentives that encourage gaming; the author advocates smooth phase‑outs to mitigate distortions across tax, welfare, and statistical domains.
+- **Age verification is just a precursor to attribution of speech – Hacker News** *(trending)*  
+  The piece argues that mandated age‑verification systems effectively bind online speech to real‑world identities, enabling authorities to trace and police speech at scale, and recommends using privacy‑focused verification services or avoiding verification altogether.
+
+- **LibrePods – AirPods liberated from Apple’s ecosystem – GitHub**  
+  The open‑source LibrePods project reverse‑engineers the AirPods protocol, delivering feature parity on Linux and Android (e.g., ear detection, battery status) while outlining pending work such as Find My integration and spatial audio.
+
+- **Australia to double potential fines over child social media accounts – NPR**  
+  In response to ineffective enforcement of a ban on under‑16 accounts, the Australian government proposes raising maximum fines to AU$99 million and expanding the eSafety Commissioner’s investigative powers to compel compliance.
+
+---
+
+# Open Source (1 article)
+
+- **HackerRank's Open‑Source ATS Gave My Resume a Different Score Every Time – Hacker News** *(trending)*  
+  Testing HackerRank’s open‑source applicant‑tracking system revealed wide score variability due to non‑deterministic LLM behavior and a heavy weighting toward open‑source contributions, calling into question its reliability for hiring decisions.
+
+---
+
+# World News and Geopolitics (1 article)
+
+- **3 World Cup rivals find ‘Common Ground’ in cross‑border beer – NPR**  
+  Mexican, U.S., and Canadian craft breweries collaborated on a “Common Ground” lager for the 2026 World Cup, using the joint brew to symbolically bridge rising trade tensions among the host nations.
 
 ---
 
 ## Notable Mentions
-- *(No additional items were provided for this section.)*
+- A heat wave is expected across much of the U.S. this week – NPR  
+- Clustering Unstructured Text with LLM Embeddings and HDBSCAN – MachineLearningMastery.com  
+- Collaborative Posts Are Coming to LinkedIn — What They Are and How to Make Them Work – TL;DR  
+- Companies That Build Companies – by Jeff Becker – TL;DR
