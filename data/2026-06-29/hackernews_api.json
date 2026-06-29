@@ -1,45 +1,28 @@
 [
   {
-    "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-    "url": "https://pudding.cool/2026/06/menu-story/",
-    "author": "xbryanx",
-    "date": "2026-06-28",
-    "score": 382,
-    "comments": 100,
-    "id": 48707763,
-    "discussion_url": "https://news.ycombinator.com/item?id=48707763",
-    "description": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+    "title": "A native graphical shell for SSH",
+    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "author": "mrcslws",
+    "date": "2026-06-29",
+    "score": 136,
+    "comments": 58,
+    "id": 48720758,
+    "discussion_url": "https://news.ycombinator.com/item?id=48720758",
+    "description": "A native graphical shell for SSH",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269402"
-  },
-  {
-    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-    "url": "https://github.com/openai/codex/issues/2847",
-    "author": "pikseladam",
-    "date": "2026-06-28",
-    "score": 216,
-    "comments": 134,
-    "id": 48706714,
-    "discussion_url": "https://news.ycombinator.com/item?id=48706714",
-    "description": "A way to exclude sensitive files issue still open for OpenAI Codex",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269466"
+    "fetched_at": "2026-06-29T19:36:08.656971"
   },
   {
     "title": "Age verification is just a precursor to automated attribution of speech",
     "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
     "author": "arkhiver",
     "date": "2026-06-29",
-    "score": 619,
-    "comments": 356,
+    "score": 910,
+    "comments": 545,
     "id": 48714529,
     "discussion_url": "https://news.ycombinator.com/item?id=48714529",
     "description": "Age verification is just a precursor to automated attribution of speech",
@@ -48,117 +31,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269375"
+    "fetched_at": "2026-06-29T19:36:08.657100"
   },
   {
-    "title": "Bashblog – a single bash script to create blogs",
-    "url": "https://github.com/cfenollosa/bashblog",
-    "author": "ludicrousdispla",
-    "date": "2026-06-28",
-    "score": 107,
-    "comments": 82,
-    "id": 48704454,
-    "discussion_url": "https://news.ycombinator.com/item?id=48704454",
-    "description": "Bashblog – a single bash script to create blogs",
+    "title": "Building Principia for Windows XP",
+    "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
+    "author": "LorenDB",
+    "date": "2026-06-29",
+    "score": 95,
+    "comments": 25,
+    "id": 48718995,
+    "discussion_url": "https://news.ycombinator.com/item?id=48718995",
+    "description": "Building Principia for Windows XP",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269551"
+    "fetched_at": "2026-06-29T19:36:08.657056"
   },
   {
-    "title": "DLL that was not present in memory despite not being formally unloaded",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
-    "author": "ibobev",
-    "date": "2026-06-28",
-    "score": 142,
-    "comments": 44,
-    "id": 48705910,
-    "discussion_url": "https://news.ycombinator.com/item?id=48705910",
-    "description": "DLL that was not present in memory despite not being formally unloaded",
+    "title": "CachyOS June 2026 Release",
+    "url": "https://cachyos.org/blog/2606-june-release/",
+    "author": "simonpure",
+    "date": "2026-06-29",
+    "score": 102,
+    "comments": 52,
+    "id": 48719361,
+    "discussion_url": "https://news.ycombinator.com/item?id=48719361",
+    "description": "CachyOS June 2026 Release",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269517"
+    "fetched_at": "2026-06-29T19:36:08.657039"
   },
   {
-    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-    "url": "https://www.openculture.com/2020/10/daisugi.html",
-    "author": "MaysonL",
+    "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+    "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+    "author": "supermatou",
     "date": "2026-06-28",
-    "score": 150,
+    "score": 149,
+    "comments": 21,
+    "id": 48708644,
+    "discussion_url": "https://news.ycombinator.com/item?id=48708644",
+    "description": "Dissecting Apple's Sparse Image Format (ASIF)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-29T19:36:08.657093"
+  },
+  {
+    "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+    "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+    "author": "Brajeshwar",
+    "date": "2026-06-29",
+    "score": 212,
     "comments": 47,
-    "id": 48708859,
-    "discussion_url": "https://news.ycombinator.com/item?id=48708859",
-    "description": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+    "id": 48721072,
+    "discussion_url": "https://news.ycombinator.com/item?id=48721072",
+    "description": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269427"
-  },
-  {
-    "title": "EU to legislate about Chat Control behind closed doors",
-    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-    "author": "NeutralForest",
-    "date": "2026-06-28",
-    "score": 680,
-    "comments": 399,
-    "id": 48707719,
-    "discussion_url": "https://news.ycombinator.com/item?id=48707719",
-    "description": "EU to legislate about Chat Control behind closed doors",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269532"
-  },
-  {
-    "title": "Engineering for Bounded Cognition",
-    "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
-    "author": "supermatt",
-    "date": "2026-06-26",
-    "score": 123,
-    "comments": 31,
-    "id": 48685967,
-    "discussion_url": "https://news.ycombinator.com/item?id=48685967",
-    "description": "Engineering for Bounded Cognition",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269583"
-  },
-  {
-    "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-    "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "author": "pwg",
-    "date": "2026-06-28",
-    "score": 112,
-    "comments": 24,
-    "id": 48708700,
-    "discussion_url": "https://news.ycombinator.com/item?id=48708700",
-    "description": "Examining circuit boards from the Space Shuttle's I/O Processor",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269490"
+    "fetched_at": "2026-06-29T19:36:08.657046"
   },
   {
     "title": "GLM 5.2 beats Claude in our benchmarks",
     "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
     "author": "jms703",
     "date": "2026-06-28",
-    "score": 917,
-    "comments": 421,
+    "score": 1049,
+    "comments": 484,
     "id": 48709670,
     "discussion_url": "https://news.ycombinator.com/item?id=48709670",
     "description": "GLM 5.2 beats Claude in our benchmarks",
@@ -167,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269350"
+    "fetched_at": "2026-06-29T19:36:08.657075"
   },
   {
     "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
     "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
     "author": "sambellll",
     "date": "2026-06-29",
-    "score": 596,
-    "comments": 254,
+    "score": 913,
+    "comments": 393,
     "id": 48713832,
     "discussion_url": "https://news.ycombinator.com/item?id=48713832",
     "description": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
@@ -184,15 +133,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269344"
+    "fetched_at": "2026-06-29T19:36:08.657035"
+  },
+  {
+    "title": "Halvar's Guide to Entrepreneurship",
+    "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
+    "author": "nekitamo",
+    "date": "2026-06-25",
+    "score": 159,
+    "comments": 39,
+    "id": 48674875,
+    "discussion_url": "https://news.ycombinator.com/item?id=48674875",
+    "description": "Halvar's Guide to Entrepreneurship",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-29T19:36:08.657132"
+  },
+  {
+    "title": "Herdr: Agent multiplexer that lives in your terminal",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "author": "mzehrer",
+    "date": "2026-06-29",
+    "score": 133,
+    "comments": 86,
+    "id": 48714802,
+    "discussion_url": "https://news.ycombinator.com/item?id=48714802",
+    "description": "Herdr: Agent multiplexer that lives in your terminal",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-29T19:36:08.657096"
   },
   {
     "title": "Historical memory prices 1960-2026",
     "url": "https://dam.stanford.edu/memory-prices.html",
     "author": "vga1",
     "date": "2026-06-28",
-    "score": 334,
-    "comments": 132,
+    "score": 387,
+    "comments": 149,
     "id": 48710092,
     "discussion_url": "https://news.ycombinator.com/item?id=48710092",
     "description": "Historical memory prices 1960-2026",
@@ -201,49 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269419"
+    "fetched_at": "2026-06-29T19:36:08.657192"
   },
   {
-    "title": "I used Claude Code to get a second opinion on my MRI",
-    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-    "author": "engmarketer",
-    "date": "2026-06-28",
-    "score": 472,
-    "comments": 605,
-    "id": 48708941,
-    "discussion_url": "https://news.ycombinator.com/item?id=48708941",
-    "description": "I used Claude Code to get a second opinion on my MRI",
+    "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
+    "url": "https://twitter.com/i/status/2071277885646868536",
+    "author": "notRobot",
+    "date": "2026-06-29",
+    "score": 249,
+    "comments": 108,
+    "id": 48719027,
+    "discussion_url": "https://news.ycombinator.com/item?id=48719027",
+    "description": "Instagram is incorporating users' photos in ads for Meta Glasses",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269389"
-  },
-  {
-    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-    "url": "https://arxiv.org/abs/2401.07013",
-    "author": "babelfish",
-    "date": "2026-06-28",
-    "score": 107,
-    "comments": 19,
-    "id": 48712420,
-    "discussion_url": "https://news.ycombinator.com/item?id=48712420",
-    "description": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269448"
+    "fetched_at": "2026-06-29T19:36:08.657042"
   },
   {
     "title": "Librepods: AirPods liberated",
     "url": "https://github.com/librepods-org/librepods",
     "author": "rbanffy",
     "date": "2026-06-28",
-    "score": 418,
-    "comments": 149,
+    "score": 465,
+    "comments": 171,
     "id": 48710232,
     "discussion_url": "https://news.ycombinator.com/item?id=48710232",
     "description": "Librepods: AirPods liberated",
@@ -252,151 +218,151 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269462"
+    "fetched_at": "2026-06-29T19:36:08.657188"
   },
   {
-    "title": "Marfa Public Radio Puts You to Sleep",
-    "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-    "author": "reaperducer",
-    "date": "2026-06-28",
-    "score": 405,
-    "comments": 125,
-    "id": 48703759,
-    "discussion_url": "https://news.ycombinator.com/item?id=48703759",
-    "description": "Marfa Public Radio Puts You to Sleep",
+    "title": "Mag 7 starting to underperform [pdf]",
+    "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
+    "author": "mooreds",
+    "date": "2026-06-29",
+    "score": 163,
+    "comments": 131,
+    "id": 48719532,
+    "discussion_url": "https://news.ycombinator.com/item?id=48719532",
+    "description": "Mag 7 starting to underperform [pdf]",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269559"
+    "fetched_at": "2026-06-29T19:36:08.657019"
   },
   {
-    "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
-    "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
-    "author": "cebert",
-    "date": "2026-06-28",
-    "score": 261,
-    "comments": 217,
-    "id": 48707769,
-    "discussion_url": "https://news.ycombinator.com/item?id=48707769",
-    "description": "Michigan bill would bar employers from requiring after-hours coms with workers",
+    "title": "NUMA: Cores, memory, and the distance between them",
+    "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+    "author": "sys_call",
+    "date": "2026-06-24",
+    "score": 114,
+    "comments": 25,
+    "id": 48662018,
+    "discussion_url": "https://news.ycombinator.com/item?id=48662018",
+    "description": "NUMA: Cores, memory, and the distance between them",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269587"
+    "fetched_at": "2026-06-29T19:36:08.657071"
   },
   {
-    "title": "Model Training as Code",
-    "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
-    "author": "peterBlue75",
-    "date": "2026-06-25",
-    "score": 170,
-    "comments": 22,
-    "id": 48673450,
-    "discussion_url": "https://news.ycombinator.com/item?id=48673450",
-    "description": "Model Training as Code",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269478"
-  },
-  {
-    "title": "OpenRA",
-    "url": "https://www.openra.net/",
-    "author": "tosh",
-    "date": "2026-06-27",
-    "score": 795,
-    "comments": 159,
-    "id": 48697560,
-    "discussion_url": "https://news.ycombinator.com/item?id=48697560",
-    "description": "OpenRA",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269569"
-  },
-  {
-    "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+    "title": "Pollen tried to remove my article and Google is assisting with it",
     "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
     "author": "taubek",
     "date": "2026-06-29",
-    "score": 347,
-    "comments": 44,
+    "score": 790,
+    "comments": 111,
     "id": 48716902,
     "discussion_url": "https://news.ycombinator.com/item?id=48716902",
-    "description": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+    "description": "Pollen tried to remove my article and Google is assisting with it",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269355"
+    "fetched_at": "2026-06-29T19:36:08.657050"
   },
   {
-    "title": "Professor denounces mass AI fraud on an exam at Brown",
-    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-    "author": "geox",
-    "date": "2026-06-28",
-    "score": 443,
-    "comments": 584,
-    "id": 48708991,
-    "discussion_url": "https://news.ycombinator.com/item?id=48708991",
-    "description": "Professor denounces mass AI fraud on an exam at Brown",
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "author": "stared",
+    "date": "2026-06-29",
+    "score": 283,
+    "comments": 202,
+    "id": 48721903,
+    "discussion_url": "https://news.ycombinator.com/item?id=48721903",
+    "description": "Qwen 3.6 27B is the sweet spot for local development",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269364"
+    "fetched_at": "2026-06-29T19:36:08.656939"
   },
   {
-    "title": "Show HN: DRM-Free Books",
-    "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
-    "author": "TeaVMFan",
-    "date": "2026-06-28",
-    "score": 103,
-    "comments": 39,
-    "id": 48709186,
-    "discussion_url": "https://news.ycombinator.com/item?id=48709186",
-    "description": "Show HN: DRM-Free Books",
+    "title": "Rocketlab acquires Iridium",
+    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+    "author": "everfrustrated",
+    "date": "2026-06-29",
+    "score": 254,
+    "comments": 146,
+    "id": 48719485,
+    "discussion_url": "https://news.ycombinator.com/item?id=48719485",
+    "description": "Rocketlab acquires Iridium",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269506"
+    "fetched_at": "2026-06-29T19:36:08.656998"
   },
   {
-    "title": "Show HN: Zanagrams",
-    "url": "https://zanagrams.com/",
-    "author": "pompomsheep",
-    "date": "2026-06-28",
-    "score": 314,
-    "comments": 78,
-    "id": 48708182,
-    "discussion_url": "https://news.ycombinator.com/item?id=48708182",
-    "description": "Show HN: Zanagrams",
+    "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
+    "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
+    "author": "donohoe",
+    "date": "2026-06-29",
+    "score": 243,
+    "comments": 121,
+    "id": 48718102,
+    "discussion_url": "https://news.ycombinator.com/item?id=48718102",
+    "description": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269431"
+    "fetched_at": "2026-06-29T19:36:08.656962"
+  },
+  {
+    "title": "Sandia National Labs SA3000 8085 CPU",
+    "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+    "author": "rbanffy",
+    "date": "2026-06-29",
+    "score": 126,
+    "comments": 37,
+    "id": 48717287,
+    "discussion_url": "https://news.ycombinator.com/item?id=48717287",
+    "description": "Sandia National Labs SA3000 8085 CPU",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-29T19:36:08.657027"
+  },
+  {
+    "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
+    "url": "https://www.playstation.com/en-gb/legal/psvideocontent/",
+    "author": "kugelblitz",
+    "date": "2026-06-29",
+    "score": 173,
+    "comments": 102,
+    "id": 48718967,
+    "discussion_url": "https://news.ycombinator.com/item?id=48718967",
+    "description": "Studio Canal Movies purchased on PlayStation Store removed without refund",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-29T19:36:08.657082"
   },
   {
     "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
     "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
     "author": "rbanffy",
     "date": "2026-06-28",
-    "score": 119,
-    "comments": 80,
+    "score": 126,
+    "comments": 84,
     "id": 48710775,
     "discussion_url": "https://news.ycombinator.com/item?id=48710775",
     "description": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
@@ -405,83 +371,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269440"
+    "fetched_at": "2026-06-29T19:36:08.657161"
   },
   {
-    "title": "The Boeing 747 begins its final descent",
-    "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-    "author": "dbl000",
+    "title": "The Baffling World of Masayoshi Son's Presentations (2020)",
+    "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
+    "author": "phaser",
+    "date": "2026-06-26",
+    "score": 95,
+    "comments": 49,
+    "id": 48684315,
+    "discussion_url": "https://news.ycombinator.com/item?id=48684315",
+    "description": "The Baffling World of Masayoshi Son's Presentations (2020)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-29T19:36:08.657182"
+  },
+  {
+    "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+    "url": "https://det.social/@lostgen/116820546568940358",
+    "author": "Risse",
+    "date": "2026-06-29",
+    "score": 358,
+    "comments": 800,
+    "id": 48717469,
+    "discussion_url": "https://news.ycombinator.com/item?id=48717469",
+    "description": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-29T19:36:08.657164"
+  },
+  {
+    "title": "Tidal AI Policy",
+    "url": "https://tidal.com/ai-policy",
+    "author": "hn8726",
+    "date": "2026-06-29",
+    "score": 265,
+    "comments": 294,
+    "id": 48718840,
+    "discussion_url": "https://news.ycombinator.com/item?id=48718840",
+    "description": "Tidal AI Policy",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-29T19:36:08.656951"
+  },
+  {
+    "title": "US Supreme Court rules geofence warrants require constitutional protections",
+    "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+    "author": "cdrnsf",
+    "date": "2026-06-29",
+    "score": 236,
+    "comments": 89,
+    "id": 48720924,
+    "discussion_url": "https://news.ycombinator.com/item?id=48720924",
+    "description": "US Supreme Court rules geofence warrants require constitutional protections",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-29T19:36:08.657011"
+  },
+  {
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "author": "energeticbark",
+    "date": "2026-06-29",
+    "score": 129,
+    "comments": 14,
+    "id": 48720190,
+    "discussion_url": "https://news.ycombinator.com/item?id=48720190",
+    "description": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-06-29T19:36:08.657023"
+  },
+  {
+    "title": "We found a bug in the hyper HTTP library",
+    "url": "https://blog.cloudflare.com/hyper-bug/",
+    "author": "Pop_-",
     "date": "2026-06-25",
-    "score": 203,
-    "comments": 299,
-    "id": 48675295,
-    "discussion_url": "https://news.ycombinator.com/item?id=48675295",
-    "description": "The Boeing 747 begins its final descent",
+    "score": 149,
+    "comments": 73,
+    "id": 48670314,
+    "discussion_url": "https://news.ycombinator.com/item?id=48670314",
+    "description": "We found a bug in the hyper HTTP library",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269412"
+    "fetched_at": "2026-06-29T19:36:08.657121"
   },
   {
-    "title": "The KIDS Act would require age checks to get online",
-    "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-    "author": "bilsbie",
-    "date": "2026-06-28",
-    "score": 532,
-    "comments": 434,
-    "id": 48706560,
-    "discussion_url": "https://news.ycombinator.com/item?id=48706560",
-    "description": "The KIDS Act would require age checks to get online",
+    "title": "What happens when you run a CUDA kernel?",
+    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "author": "mezark",
+    "date": "2026-06-29",
+    "score": 158,
+    "comments": 13,
+    "id": 48718863,
+    "discussion_url": "https://news.ycombinator.com/item?id=48718863",
+    "description": "What happens when you run a CUDA kernel?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269456"
-  },
-  {
-    "title": "The curious case of the disappearing Polish S (2015)",
-    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-    "author": "colinprince",
-    "date": "2026-06-28",
-    "score": 247,
-    "comments": 98,
-    "id": 48706814,
-    "discussion_url": "https://news.ycombinator.com/item?id=48706814",
-    "description": "The curious case of the disappearing Polish S (2015)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269486"
-  },
-  {
-    "title": "Tokenmaxxing is dead, long live tokenmaxxing",
-    "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-    "author": "theahura",
-    "date": "2026-06-28",
-    "score": 163,
-    "comments": 228,
-    "id": 48708795,
-    "discussion_url": "https://news.ycombinator.com/item?id=48708795",
-    "description": "Tokenmaxxing is dead, long live tokenmaxxing",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269470"
+    "fetched_at": "2026-06-29T19:36:08.656967"
   },
   {
     "title": "Why did this journal retract two 1940s papers by Max Planck?",
     "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
     "author": "DR_MING",
     "date": "2026-06-29",
-    "score": 151,
-    "comments": 9,
+    "score": 202,
+    "comments": 26,
     "id": 48716634,
     "discussion_url": "https://news.ycombinator.com/item?id=48716634",
     "description": "Why did this journal retract two 1940s papers by Max Planck?",
@@ -490,23 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269416"
-  },
-  {
-    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-    "author": "zdw",
-    "date": "2026-06-28",
-    "score": 129,
-    "comments": 37,
-    "id": 48709187,
-    "discussion_url": "https://news.ycombinator.com/item?id=48709187",
-    "description": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-06-29T12:33:26.269393"
+    "fetched_at": "2026-06-29T19:36:08.657178"
   }
 ]
