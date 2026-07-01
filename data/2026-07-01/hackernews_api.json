@@ -3,9 +3,9 @@
     "title": "1.38 Millimeter Microcontroller",
     "url": "https://www.ti.com/product/MSPM0C1104",
     "author": "kristianpaul",
-    "date": "2026-06-27",
-    "score": 153,
-    "comments": 97,
+    "date": "2026-06-26",
+    "score": 155,
+    "comments": 98,
     "id": 48688685,
     "discussion_url": "https://news.ycombinator.com/item?id=48688685",
     "description": "1.38 Millimeter Microcontroller",
@@ -14,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734796"
+    "fetched_at": "2026-07-01T12:04:47.505638"
   },
   {
     "title": "A peek into Reddit's anti-spam internals",
     "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
     "author": "OuterVale",
-    "date": "2026-06-28",
-    "score": 107,
-    "comments": 28,
+    "date": "2026-06-27",
+    "score": 115,
+    "comments": 30,
     "id": 48699010,
     "discussion_url": "https://news.ycombinator.com/item?id=48699010",
     "description": "A peek into Reddit's anti-spam internals",
@@ -31,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.735283"
+    "fetched_at": "2026-07-01T12:04:47.505730"
   },
   {
     "title": "Amazon seller reveals glimpse of shadow bribery market",
     "url": "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers",
     "author": "petethomas",
-    "date": "2026-07-01",
-    "score": 136,
-    "comments": 81,
+    "date": "2026-06-30",
+    "score": 139,
+    "comments": 85,
     "id": 48736839,
     "discussion_url": "https://news.ycombinator.com/item?id=48736839",
     "description": "Amazon seller reveals glimpse of shadow bribery market",
@@ -48,15 +48,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.735396"
+    "fetched_at": "2026-07-01T12:04:47.505747"
+  },
+  {
+    "title": "Ante: A new way to blend borrow checking and reference counting",
+    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "author": "g0xA52A2A",
+    "date": "2026-06-28",
+    "score": 103,
+    "comments": 24,
+    "id": 48710770,
+    "discussion_url": "https://news.ycombinator.com/item?id=48710770",
+    "description": "Ante: A new way to blend borrow checking and reference counting",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-01T12:04:47.505616"
   },
   {
     "title": "ArXiv's Next Chapter",
     "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
     "author": "subset",
     "date": "2026-07-01",
-    "score": 118,
-    "comments": 40,
+    "score": 154,
+    "comments": 48,
     "id": 48741748,
     "discussion_url": "https://news.ycombinator.com/item?id=48741748",
     "description": "ArXiv's Next Chapter",
@@ -65,15 +82,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734816"
+    "fetched_at": "2026-07-01T12:04:47.505541"
+  },
+  {
+    "title": "Asahi Linux 7.1 Progress Report",
+    "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+    "author": "pantalaimon",
+    "date": "2026-07-01",
+    "score": 180,
+    "comments": 34,
+    "id": 48744518,
+    "discussion_url": "https://news.ycombinator.com/item?id=48744518",
+    "description": "Asahi Linux 7.1 Progress Report",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-01T12:04:47.505507"
   },
   {
     "title": "Building a custom octocopter from scratch with no prior hardware experience",
     "url": "https://karolina.mgdubiel.com/drone/",
     "author": "noleary",
     "date": "2026-06-28",
-    "score": 370,
-    "comments": 78,
+    "score": 384,
+    "comments": 79,
     "id": 48704289,
     "discussion_url": "https://news.ycombinator.com/item?id=48704289",
     "description": "Building a custom octocopter from scratch with no prior hardware experience",
@@ -82,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734497"
+    "fetched_at": "2026-07-01T12:04:47.505620"
   },
   {
     "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
     "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
     "author": "HelloUsername",
-    "date": "2026-06-30",
-    "score": 233,
-    "comments": 68,
+    "date": "2026-06-29",
+    "score": 259,
+    "comments": 83,
     "id": 48723484,
     "discussion_url": "https://news.ycombinator.com/item?id=48723484",
     "description": "CERN bids farewell to the LHC and enters Long Shutdown 3",
@@ -99,15 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734928"
+    "fetched_at": "2026-07-01T12:04:47.505588"
   },
   {
     "title": "Claude Code is steganographically marking requests",
     "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
     "author": "kirushik",
-    "date": "2026-07-01",
-    "score": 2025,
-    "comments": 586,
+    "date": "2026-06-30",
+    "score": 2155,
+    "comments": 619,
     "id": 48734373,
     "discussion_url": "https://news.ycombinator.com/item?id=48734373",
     "description": "Claude Code is steganographically marking requests",
@@ -116,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734440"
+    "fetched_at": "2026-07-01T12:04:47.505486"
   },
   {
     "title": "Claude Science",
     "url": "https://claude.com/product/claude-science",
     "author": "lebovic",
-    "date": "2026-07-01",
-    "score": 494,
-    "comments": 146,
+    "date": "2026-06-30",
+    "score": 506,
+    "comments": 149,
     "id": 48735770,
     "discussion_url": "https://news.ycombinator.com/item?id=48735770",
     "description": "Claude Science",
@@ -133,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734856"
+    "fetched_at": "2026-07-01T12:04:47.505555"
   },
   {
     "title": "Claude Sonnet 5",
     "url": "https://www.anthropic.com/news/claude-sonnet-5",
     "author": "marinesebastian",
-    "date": "2026-07-01",
-    "score": 1132,
-    "comments": 669,
+    "date": "2026-06-30",
+    "score": 1159,
+    "comments": 688,
     "id": 48736605,
     "discussion_url": "https://news.ycombinator.com/item?id=48736605",
     "description": "Claude Sonnet 5",
@@ -150,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.735022"
+    "fetched_at": "2026-07-01T12:04:47.505512"
   },
   {
     "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
     "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
     "author": "Pragmata",
-    "date": "2026-07-01",
-    "score": 686,
-    "comments": 395,
+    "date": "2026-06-30",
+    "score": 737,
+    "comments": 442,
     "id": 48740771,
     "discussion_url": "https://news.ycombinator.com/item?id=48740771",
     "description": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
@@ -167,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734893"
+    "fetched_at": "2026-07-01T12:04:47.505551"
   },
   {
     "title": "From brain waves to words: a new path to communication without surgery",
     "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
     "author": "alok-g",
-    "date": "2026-07-01",
-    "score": 158,
-    "comments": 82,
+    "date": "2026-06-30",
+    "score": 170,
+    "comments": 83,
     "id": 48739466,
     "discussion_url": "https://news.ycombinator.com/item?id=48739466",
     "description": "From brain waves to words: a new path to communication without surgery",
@@ -184,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734948"
+    "fetched_at": "2026-07-01T12:04:47.505624"
   },
   {
     "title": "Godot will no longer accept AI-authored code contributions",
     "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
     "author": "pjmlp",
     "date": "2026-07-01",
-    "score": 141,
-    "comments": 69,
+    "score": 258,
+    "comments": 162,
     "id": 48743472,
     "discussion_url": "https://news.ycombinator.com/item?id=48743472",
     "description": "Godot will no longer accept AI-authored code contributions",
@@ -201,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734836"
+    "fetched_at": "2026-07-01T12:04:47.505547"
   },
   {
     "title": "Google copybara: moving code between repositories",
     "url": "https://github.com/google/copybara",
     "author": "reconnecting",
-    "date": "2026-07-01",
-    "score": 208,
-    "comments": 36,
+    "date": "2026-06-30",
+    "score": 235,
+    "comments": 44,
     "id": 48740698,
     "discussion_url": "https://news.ycombinator.com/item?id=48740698",
     "description": "Google copybara: moving code between repositories",
@@ -218,15 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734984"
+    "fetched_at": "2026-07-01T12:04:47.505563"
   },
   {
     "title": "Have you restarted your computer this week?",
     "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
     "author": "surprisetalk",
-    "date": "2026-07-01",
-    "score": 183,
-    "comments": 326,
+    "date": "2026-06-30",
+    "score": 196,
+    "comments": 348,
     "id": 48733043,
     "discussion_url": "https://news.ycombinator.com/item?id=48733043",
     "description": "Have you restarted your computer this week?",
@@ -235,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734610"
+    "fetched_at": "2026-07-01T12:04:47.505668"
   },
   {
     "title": "How does a pull-back car work? Illustrated teardown",
     "url": "https://mechanical-pencil.com/products/car",
     "author": "Muhammad523",
-    "date": "2026-06-29",
-    "score": 194,
-    "comments": 37,
+    "date": "2026-06-28",
+    "score": 215,
+    "comments": 38,
     "id": 48712289,
     "discussion_url": "https://news.ycombinator.com/item?id=48712289",
     "description": "How does a pull-back car work? Illustrated teardown",
@@ -252,15 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734707"
+    "fetched_at": "2026-07-01T12:04:47.505580"
   },
   {
     "title": "I built a mmWave material classification radar (2025)",
     "url": "https://gauthier-lechevalier.com/radar",
     "author": "GL26",
-    "date": "2026-07-01",
-    "score": 183,
-    "comments": 49,
+    "date": "2026-06-30",
+    "score": 188,
+    "comments": 54,
     "id": 48736137,
     "discussion_url": "https://news.ycombinator.com/item?id=48736137",
     "description": "I built a mmWave material classification radar (2025)",
@@ -269,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734518"
+    "fetched_at": "2026-07-01T12:04:47.505627"
   },
   {
     "title": "I ported Kubernetes to the browser",
     "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
     "author": "peterdemin",
-    "date": "2026-07-01",
-    "score": 263,
-    "comments": 80,
+    "date": "2026-06-30",
+    "score": 290,
+    "comments": 83,
     "id": 48738985,
     "discussion_url": "https://news.ycombinator.com/item?id=48738985",
     "description": "I ported Kubernetes to the browser",
@@ -286,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734473"
+    "fetched_at": "2026-07-01T12:04:47.505612"
   },
   {
     "title": "Knoppix",
     "url": "https://www.knopper.net/knoppix/index-en.html",
     "author": "hoangvmpc",
     "date": "2026-06-30",
-    "score": 308,
-    "comments": 111,
+    "score": 317,
+    "comments": 113,
     "id": 48732056,
     "discussion_url": "https://news.ycombinator.com/item?id=48732056",
     "description": "Knoppix",
@@ -303,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734669"
+    "fetched_at": "2026-07-01T12:04:47.505661"
   },
   {
     "title": "Leanstral 1.5",
     "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
     "author": "vetronauta",
-    "date": "2026-07-01",
-    "score": 224,
-    "comments": 77,
+    "date": "2026-06-30",
+    "score": 248,
+    "comments": 96,
     "id": 48738938,
     "discussion_url": "https://news.ycombinator.com/item?id=48738938",
     "description": "Leanstral 1.5",
@@ -320,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734875"
+    "fetched_at": "2026-07-01T12:04:47.505531"
   },
   {
     "title": "Long Island's decommissioned nuclear power plant",
     "url": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
     "author": "mkmk",
-    "date": "2026-06-25",
-    "score": 132,
-    "comments": 67,
+    "date": "2026-06-24",
+    "score": 135,
+    "comments": 76,
     "id": 48665958,
     "discussion_url": "https://news.ycombinator.com/item?id=48665958",
     "description": "Long Island's decommissioned nuclear power plant",
@@ -337,14 +371,14 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734650"
+    "fetched_at": "2026-07-01T12:04:47.505724"
   },
   {
     "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
     "url": "https://www.gutenberg.org/ebooks/24518",
     "author": "lstodd",
     "date": "2026-06-30",
-    "score": 178,
+    "score": 181,
     "comments": 59,
     "id": 48731989,
     "discussion_url": "https://news.ycombinator.com/item?id=48731989",
@@ -354,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.735055"
+    "fetched_at": "2026-07-01T12:04:47.505651"
   },
   {
     "title": "Nano Banana 2 Lite",
     "url": "https://deepmind.google/models/gemini-image/flash-lite/",
     "author": "minimaxir",
-    "date": "2026-07-01",
-    "score": 381,
-    "comments": 151,
+    "date": "2026-06-30",
+    "score": 394,
+    "comments": 157,
     "id": 48735444,
     "discussion_url": "https://news.ycombinator.com/item?id=48735444",
     "description": "Nano Banana 2 Lite",
@@ -371,14 +405,14 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734742"
+    "fetched_at": "2026-07-01T12:04:47.505521"
   },
   {
     "title": "Open Source Low Tech",
     "url": "https://opensourcelowtech.org/",
     "author": "grep_it",
     "date": "2026-06-26",
-    "score": 638,
+    "score": 640,
     "comments": 137,
     "id": 48683098,
     "discussion_url": "https://news.ycombinator.com/item?id=48683098",
@@ -388,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.735476"
+    "fetched_at": "2026-07-01T12:04:47.505744"
   },
   {
     "title": "Qwen 3.6 27B is the sweet spot for local development",
     "url": "https://quesma.com/blog/qwen-36-is-awesome/",
     "author": "stared",
-    "date": "2026-06-30",
-    "score": 1162,
-    "comments": 723,
+    "date": "2026-06-29",
+    "score": 1167,
+    "comments": 725,
     "id": 48721903,
     "discussion_url": "https://news.ycombinator.com/item?id=48721903",
     "description": "Qwen 3.6 27B is the sweet spot for local development",
@@ -405,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.735347"
+    "fetched_at": "2026-07-01T12:04:47.505751"
   },
   {
     "title": "Stroustrup's Rule (2024)",
     "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
     "author": "bmacho",
-    "date": "2026-06-28",
-    "score": 102,
-    "comments": 27,
+    "date": "2026-06-27",
+    "score": 104,
+    "comments": 31,
     "id": 48701721,
     "discussion_url": "https://news.ycombinator.com/item?id=48701721",
     "description": "Stroustrup's Rule (2024)",
@@ -422,32 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734629"
-  },
-  {
-    "title": "Supreme Court upholds broad conception of birthright citizenship",
-    "url": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
-    "author": "toomuchtodo",
-    "date": "2026-07-01",
-    "score": 200,
-    "comments": 512,
-    "id": 48733406,
-    "discussion_url": "https://news.ycombinator.com/item?id=48733406",
-    "description": "Supreme Court upholds broad conception of birthright citizenship",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.735460"
+    "fetched_at": "2026-07-01T12:04:47.505647"
   },
   {
     "title": "The first early human eggs from stem cells",
     "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
     "author": "dsr12",
     "date": "2026-07-01",
-    "score": 116,
-    "comments": 68,
+    "score": 136,
+    "comments": 92,
     "id": 48742483,
     "discussion_url": "https://news.ycombinator.com/item?id=48742483",
     "description": "The first early human eggs from stem cells",
@@ -456,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.735004"
+    "fetched_at": "2026-07-01T12:04:47.505602"
   },
   {
     "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
     "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
     "author": "zdw",
-    "date": "2026-07-01",
-    "score": 137,
-    "comments": 31,
+    "date": "2026-06-30",
+    "score": 148,
+    "comments": 38,
     "id": 48738262,
     "discussion_url": "https://news.ycombinator.com/item?id=48738262",
     "description": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
@@ -473,31 +490,14 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.734778"
-  },
-  {
-    "title": "Waveloop: What Fable left me",
-    "url": "https://neynt.ca/writing/waveloop/",
-    "author": "personjerry",
-    "date": "2026-06-27",
-    "score": 115,
-    "comments": 57,
-    "id": 48693369,
-    "discussion_url": "https://news.ycombinator.com/item?id=48693369",
-    "description": "Waveloop: What Fable left me",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.735379"
+    "fetched_at": "2026-07-01T12:04:47.505598"
   },
   {
     "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
     "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
     "author": "Tiberium",
     "date": "2026-06-30",
-    "score": 150,
+    "score": 153,
     "comments": 14,
     "id": 48730713,
     "discussion_url": "https://news.ycombinator.com/item?id=48730713",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-01T19:58:12.735152"
+    "fetched_at": "2026-07-01T12:04:47.505684"
   }
 ]
