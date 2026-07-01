@@ -1,0 +1,14 @@
+---
+title: Apple acquires another Swift development firm
+url: https://appleinsider.com/articles/26/06/29/apple-design-award-winner-acquired-by-apple-for-new-swift-tools
+site_name: tldr
+content_file: tldr-apple-acquires-another-swift-development-firm
+fetched_at: '2026-07-01T19:58:24.642086'
+original_url: https://appleinsider.com/articles/26/06/29/apple-design-award-winner-acquired-by-apple-for-new-swift-tools
+date: '2026-07-01'
+description: After giving it an Apple Design award for innovation, Apple has now bought Rabbit 3 Ties, Inc, which made a visual Swift development tool called Play.
+tags:
+- tldr
+---
+
+After giving it an Apple Design award for innovation, Apple has now bought Rabbit 3 Ties, Inc, which made a visualSwiftdevelopment tool called Play.FollowingApple's acquisitionof the open-source Swift Package Index, it's now been revealed that it entered a deal with the Play company. Rather than an outright acquisition, the deal reportedly sees Apple acquiring assets and having the option to hire certain staff.So where Swift Package Index, for one example, is expected to continue in its present form, Apple appears to have bought Rabbit 3 Times to asset-strip it. It may also be an acquihire, where Apple bought the firm in order to get its staff for other projects.Based in New York, Rabbit 3 Times was founded in 2021, officially in Delaware where state laws are particularly favorable to businesses. Since then, it has been producing and selling a visual Swift tool foriOSandmacOS.In a cross between Shortcuts andXcode, Play: Create Better Apps was a free tool that let developers quickly mock up Swift projects and immediately see what they would look like in use. Developers could then export Play projects to Xcode through a paid service.The development tool won an Apple Design Award for Innovation inJune 2025. According to the European Union, Apple reported the deal inFebruary 2026.Shortly afterwards, Rabbit 3 Times announced that it would cease supporting its Play apps foriPhoneandMacstarting April 20, 2026. Conceivably, Apple could now incorporate Play into itsApple Creator Studio, but so far it appears that the app is gone.The paid Play to Xcode service was made free after Apple's acquisition, specifically "to help with the transition."This change was announced on the firm's website, which has now been taken down. "We're working on something new," was the only detail the announcement gave of why things were changing. "It has been an incredible journey," the company said.Acquisitionsthat are of a particular scale or are considered to be significant to EU users, are required to be reported under the Digital Markets Act (DMA). The EU then publishes these reports, although no sooner than four months after filing.The EU's listing describes Play/Rabbit 3 Times as offering "iOS and macOS tools for designing, prototyping, and generating SwiftUI code in real-time."
