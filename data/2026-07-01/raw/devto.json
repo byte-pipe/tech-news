@@ -1,33 +1,23 @@
 [
   {
-    "title": "1%",
-    "author": "Pascal CESCATO",
-    "date": "2026-06-28",
-    "description": "Speculative look at hardware sanctionsPascal CESCATOPascal CESCATOPascal CESCATOFollowJun 281%#ai#geopolitics#hardware#fiction65reactionsComments67com...",
-    "tags": "#ai, #geopolitics, #hardware, #fiction",
-    "reactions": "65 reactions",
-    "comments": "Comments 67 comments",
-    "url": "https://dev.to/pascal_cescato_692b7a8a20/1-15n0"
-  },
-  {
-    "title": "AI Engineer Meets AI Engineer",
-    "author": "Ben Halpern",
-    "date": "2026-06-30",
-    "description": "AI Engineer World's Fair CoverageBen HalpernBen HalpernBen HalpernFollowforDaily ContextJun 30AI Engineer Meets AI Engineer#aie#ai33reactionsComments2...",
-    "tags": "#aie, #ai",
-    "reactions": "33 reactions",
-    "comments": "Comments 2 comments",
-    "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj"
-  },
-  {
     "title": "After a long journey, I've reached a deep burnout",
     "author": "EmberNoGlow",
     "date": "2026-06-28",
     "description": "Impact of social media and AI relianceEmberNoGlowEmberNoGlowEmberNoGlowFollowJun 28After a long journey, I've reached a deep burnout#discuss#ai#learni...",
     "tags": "#discuss, #ai, #learning, #productivity",
     "reactions": "56 reactions",
-    "comments": "Comments 18 comments",
+    "comments": "Comments 21 comments",
     "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"
+  },
+  {
+    "title": "Coding Agents Play Favorites With Your Dependencies",
+    "author": "Adam DuVander",
+    "date": "2026-06-29",
+    "description": "AI Engineer World's Fair CoverageAdam DuVanderAdam DuVanderAdam DuVanderFollowforDaily ContextJun 29Coding Agents Play Favorites With Your Dependencie...",
+    "tags": "#agents, #aie, #tooling",
+    "reactions": "39 reactions",
+    "comments": "Comments 6 comments",
+    "url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6"
   },
   {
     "title": "Dev Opportunity Radar #5: A Fully Funded Trip to AWS re:Invent, Google Cloud Career Launchpad, and a $1,000 Award",
@@ -38,6 +28,16 @@
     "reactions": "69 reactions",
     "comments": "Comments 25 comments",
     "url": "https://dev.to/devengers/dev-opportunity-radar-5-a-fully-funded-trip-to-aws-reinvent-google-cloud-career-launchpad-and-3p6e"
+  },
+  {
+    "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
+    "author": "Ben Halpern",
+    "date": "2026-07-01",
+    "description": "AI Engineer World's Fair CoverageBen HalpernBen HalpernBen HalpernFollowforDaily ContextJul 1From Harness Engineering to Evals: What’s Trending at AI ...",
+    "tags": "#aie, #ai, #agents, #security",
+    "reactions": "29 reactions",
+    "comments": "Comments 2 comments",
+    "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212"
   },
   {
     "title": "My commit message said \"You've hit your session limit\"",
@@ -55,8 +55,8 @@
     "date": "2026-06-29",
     "description": "AI Engineer World's Fair CoverageJess LeeJess LeeJess LeeFollowforThe DEV TeamJun 29Need a break? Play today's game from The Daily Context.#aie#gamede...",
     "tags": "#aie, #gamedev, #ai, #gemini",
-    "reactions": "86 reactions",
-    "comments": "Comments 27 comments",
+    "reactions": "90 reactions",
+    "comments": "Comments 29 comments",
     "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli"
   },
   {
@@ -76,7 +76,7 @@
     "description": "AI Engineer World's Fair CoverageBen HalpernBen HalpernBen HalpernFollowforDaily ContextJun 29Pragmatism in an Age of Infinite Code and Unavoidable Bo...",
     "tags": "#ai, #aie, #productivity, #leadership",
     "reactions": "44 reactions",
-    "comments": "Comments 7 comments",
+    "comments": "Comments 8 comments",
     "url": "https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd"
   },
   {
@@ -85,39 +85,39 @@
     "date": "2026-06-30",
     "description": "Biometric harvesting in low-income nationsDaniel NwaneriDaniel NwaneriDaniel NwaneriFollowJun 30Someone Else Pays for Your AI Access#discuss#ai#webdev...",
     "tags": "#discuss, #ai, #webdev, #security",
-    "reactions": "55 reactions",
-    "comments": "Comments 43 comments",
-    "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149"
-  },
-  {
-    "title": "Thank you DEV community: the Thinking Engineer Toolkit is live",
-    "author": "Julien Avezou",
-    "date": "2026-06-25",
-    "description": "Addressing the loss of productive frictionJulien AvezouJulien AvezouJulien AvezouFollowJun 25Thank you DEV community: the Thinking Engineer Toolkit is...",
-    "tags": "#ai, #softwareengineering, #developer, #productivity",
     "reactions": "58 reactions",
-    "comments": "Comments 22 comments",
-    "url": "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762"
+    "comments": "Comments 54 comments",
+    "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149"
   },
   {
     "title": "The Future Of AI Is Local And Open",
     "author": "Paige Bailey",
     "date": "2026-06-30",
-    "description": "AI Engineer World's Fair CoveragePaige BaileyPaige BaileyPaige BaileyFollowforDaily ContextJun 30The Future Of AI Is Local And Open#aie#gemma#ai44reac...",
+    "description": "AI Engineer World's Fair CoveragePaige BaileyPaige BaileyPaige BaileyFollowforDaily ContextJun 30The Future Of AI Is Local And Open#aie#gemma#ai46reac...",
     "tags": "#aie, #gemma, #ai",
-    "reactions": "44 reactions",
+    "reactions": "46 reactions",
     "comments": "Comments 5 comments",
     "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c"
   },
   {
-    "title": "To The People Who Read My Weird Little Blogs",
-    "author": "Aryan Choudhary",
-    "date": "2026-06-24",
-    "description": "Hitting 10k followers via public learningAryan ChoudharyAryan ChoudharyAryan ChoudharyFollowJun 24To The People Who Read My Weird Little Blogs#discuss...",
-    "tags": "#discuss, #writing, #community, #learning",
-    "reactions": "91 reactions",
-    "comments": "Comments 63 comments",
-    "url": "https://dev.to/itsugo/to-the-people-who-read-my-weird-little-blogs-3icj"
+    "title": "The Log Is the Agent",
+    "author": "Ishaan Sehgal",
+    "date": "2026-06-30",
+    "description": "AI Engineer World's Fair CoverageIshaan SehgalIshaan SehgalIshaan SehgalFollowforDaily ContextJun 30The Log Is the Agent#aie#agents#ai43reactionsComme...",
+    "tags": "#aie, #agents, #ai",
+    "reactions": "43 reactions",
+    "comments": "Comments 8 comments",
+    "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096"
+  },
+  {
+    "title": "Top 7 Featured DEV Posts of the Week",
+    "author": "Jess Lee",
+    "date": "2026-06-30",
+    "description": "Local AI homelabs and accessibility tipsJess LeeJess LeeJess LeeFollowforThe DEV TeamJun 30Top 7 Featured DEV Posts of the Week#discuss#top737reaction...",
+    "tags": "#discuss, #top7",
+    "reactions": "37 reactions",
+    "comments": "Comments 7 comments",
+    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-18mk"
   },
   {
     "title": "Welcome to AI Engineer World’s Fair 2026",
@@ -135,8 +135,8 @@
     "date": "2026-06-29",
     "description": "Physical journey and regional latency taxDaniel NwaneriDaniel NwaneriDaniel NwaneriFollowJun 29What Actually Happens When You Call an LLM API#discuss#...",
     "tags": "#discuss, #ai, #webdev, #beginners",
-    "reactions": "44 reactions",
-    "comments": "Comments 39 comments",
+    "reactions": "45 reactions",
+    "comments": "Comments 40 comments",
     "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6"
   },
   {
@@ -153,19 +153,19 @@
     "title": "What's Next for AI?",
     "author": "Sylwia Laskowska",
     "date": "2026-06-29",
-    "description": "Restricted access and global inequalitySylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowJun 29What's Next for AI?#ai#llm#webdev147reactionsCommen...",
+    "description": "Restricted access and global inequalitySylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowJun 29What's Next for AI?#ai#llm#webdev160reactionsCommen...",
     "tags": "#ai, #llm, #webdev",
-    "reactions": "147 reactions",
-    "comments": "Comments 178 comments",
+    "reactions": "160 reactions",
+    "comments": "Comments 189 comments",
     "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i"
   },
   {
     "title": "You’re not really that far behind.",
     "author": "Ryan Swift",
     "date": "2026-06-29",
-    "description": "AI Engineer World's Fair CoverageRyan SwiftRyan SwiftRyan SwiftFollowforDaily ContextJun 29You’re not really that far behind.#aie#ai#learning43reactio...",
+    "description": "AI Engineer World's Fair CoverageRyan SwiftRyan SwiftRyan SwiftFollowforDaily ContextJun 29You’re not really that far behind.#aie#ai#learning48reactio...",
     "tags": "#aie, #ai, #learning",
-    "reactions": "43 reactions",
+    "reactions": "48 reactions",
     "comments": "Comments 3 comments",
     "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d"
   },
@@ -175,8 +175,8 @@
     "date": "2026-06-29",
     "description": "Collaborative AI detector and community picksFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowJun 29🗓️ Monthly Dev Report: June 2026#...",
     "tags": "#discuss, #community, #programming, #devjournal",
-    "reactions": "67 reactions",
-    "comments": "Comments 10 comments",
+    "reactions": "72 reactions",
+    "comments": "Comments 27 comments",
     "url": "https://dev.to/francistrdev/monthly-dev-report-june-2026-530a"
   }
 ]
