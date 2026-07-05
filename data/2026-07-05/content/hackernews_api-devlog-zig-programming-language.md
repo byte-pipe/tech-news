@@ -1,0 +1,2020 @@
+---
+title: Devlog ⚡ Zig Programming Language
+url: https://ziglang.org/devlog/2026/#2026-06-30
+site_name: hackernews_api
+content_file: hackernews_api-devlog-zig-programming-language
+fetched_at: '2026-07-05T11:33:30.527261'
+original_url: https://ziglang.org/devlog/2026/#2026-06-30
+author: tosh
+date: '2026-07-04'
+description: 'Zig: All Package Management Functionality Moved from Compiler to Build System'
+tags:
+- hackernews
+- trending
+---
+
+# Devlog
+
+This page contains a curated list of recent changes to main branch Zig.
+
+Also available as anRSS feed.
+
+This page contains entries for the year2026. Other years are available inthe Devlog archive page.
+
+June 30, 2026
+
+# All Package Management Functionality Moved from Compiler to Build System
+
+Author: Andrew Kelley
+
+Now that there is a separate process for users’ build.zig scripts and the build system itself, it makes sense for that to be the place that package management logic lives.
+
+I moved these subcommands to the maker process:
+
+* zig build
+* zig fetch
+* zig init
+* zig libc
+
+This means that large parts of what used to be included in the compiler executable are now shipped in source form instead, including:
+
+* package fetching logic
+* HTTP client and networking
+* TLS (Transport Layer Security) and associated crypto
+* Git protocol
+* xz, gzip, zstd, flate, zip
+* parsing, validation, and otherwise dealing withbuild.zig.zonfiles
+
+Consequently, this functionality can now be patched without rebuilding the compiler, making it easier for users and contributors to tinker.
+
+Furthermore, it means that package management in zig now has safety checks enabled when doing networking, since the maker executable is compiled inReleaseSafemode. Plus, all the crypto used for networking and file hashing can now take advantage of special CPU instructions available on the host, even the ones that are too rare to normally depend on when distributing software.We can have AOT cake and eat JIT, too!
+
+My original motivation for doing this was in relation to exposing abuild server protocolin order to unblockZLSaftermaker/configurer process separationmade breaking changes to the--build-runneroverride flag.
+
+Originally, the process tree looked like this:
+
+zig build (the zig compiler + package manager)
+└─ builder (the user's build.zig logic + build system implementation)
+
+The process separation changeset made it look like this instead:
+
+zig build (the zig compiler + package manager)
+├─ configurer (the user's build.zig logic)
+└─ maker (build system)
+
+At this point, consider a long-runningzig build --watchprocess, watching files and rebuilding on source code changes. If any changes tobuild.zigare detected, or any files observed during execution of that logic, it meansconfigurerneeds to be rerun, meaning thatmakerprocess must exit to givezig builda chance to repeat the package management logic.
+
+Now, after the changes described in this devlog entry, it looks like this:
+
+zig build (the zig compiler)
+└─ maker (build system + package manager)
+ └─ configurer (the user's build.zig logic)
+
+Thus, when configuration needs to be rerun,makerprocess can continue to live because it is the parent process rather than a sibling. In terms of the upcoming build server, it means avoiding an awkward situation where the server has to exit and the client has to reconnect, rather than simply informing the client of a configuration change.
+
+This is almost entirely a non-breaking change, but there are some observable differences:
+
+* Zig executable binary size: shrinks 4% from 14.1 to 13.5 MiB (no LLVM, ReleaseSmall)
+* --maker-optflag is replaced byZIG_DEBUG_MAKERenvironment variable
+* --zig-lib-dirflag is replaced byZIG_LIB_DIRenvironment variable
+
+The follow-up issues to this changeset are the main blockers until we tag Zig 0.17.0:
+
+* build server protocol MVP(needed to unblock ZLS)
+* introduce the concept of adding path dependencies of the build script itself
+* makezig build --watchdetect modifications to the build script and rerun itself
+* different cwd causes build script cache miss
+
+I have two conferences coming up in July and I need to work on my talks, so being realistic, I don’t think I will have time to wrap these up until early August. Contributions welcome, of course.
+
+Big thanks to Techatrix from the ZLS team for reaching out and working with me on the build server protocol!They are seeking sponsorship, by the way.
+
+June 26, 2026
+
+# SPIR-V Backend Progress
+
+Author: Ali Cheraghi
+
+There’s quite a bit to cover. The SPIR-V backend had bitrotted in a number of places after the recent compiler changes, so I spent the past several weeks dragging it into a better state.
+
+## @SpirvType
+
+SPIR-V has a handful of types that couldn’t be expressed in Zig’s type system. The new@SpirvTypebuiltin has been introduced to address the longest-standing blocker for writing shaders. See#20550,#23326and#35461to trace the background.
+
+const
+ 
+Sampler
+ 
+=
+ 
+@SpirvType
+(
+.
+sampler
+)
+;
+
+const
+ 
+Image
+ 
+=
+ 
+@SpirvType
+(
+.
+{
+ 
+.
+image
+ 
+=
+ 
+.
+{
+
+ 
+.
+usage
+ 
+=
+ 
+.
+{
+ 
+.
+sampled
+ 
+=
+ 
+u32
+ 
+}
+,
+
+ 
+.
+format
+ 
+=
+ 
+.
+unknown
+,
+
+ 
+.
+dim
+ 
+=
+ 
+.
+@
+"2d"
+,
+
+ 
+.
+depth
+ 
+=
+ 
+.
+unknown
+,
+
+ 
+.
+arrayed
+ 
+=
+ 
+false
+,
+
+ 
+.
+multisampled
+ 
+=
+ 
+false
+,
+
+ 
+.
+access
+ 
+=
+ 
+.
+unknown
+,
+
+}
+ 
+}
+)
+;
+
+const
+ 
+SampledImage
+ 
+=
+ 
+@SpirvType
+(
+.
+{
+ 
+.
+sampled_image
+ 
+=
+ 
+Image
+ 
+}
+)
+;
+
+const
+ 
+RuntimeArray
+ 
+=
+ 
+@SpirvType
+(
+.
+{
+ 
+.
+runtime_array
+ 
+=
+ 
+u32
+ 
+}
+)
+;
+
+const
+ 
+sampled_image
+ 
+=
+ 
+@extern
+(
+*
+addrspace
+(
+.
+constant
+)
+ 
+const
+ 
+SampledImage
+,
+ 
+.
+{
+
+ 
+.
+name
+ 
+=
+ 
+"sampled_image"
+,
+
+ 
+.
+decoration
+ 
+=
+ 
+.
+{
+ 
+.
+descriptor
+ 
+=
+ 
+.
+{
+ 
+.
+set
+ 
+=
+ 
+0
+,
+ 
+.
+binding
+ 
+=
+ 
+1
+ 
+}
+ 
+}
+,
+
+}
+)
+;
+
+## Execution Mode on the Calling Convention
+
+Execution mode info (workgroup size, fragment origin, etc.) is now carried by the calling convention instead of being emitted via inline assemblyOpExecutionMode. The oldstd.gpu.executionMode()helper is gone, and the SPIR-V assembler now rejects manualOpExecutionModeinstructions. Two new calling conventions,spirv_taskandspirv_mesh, were also added for mesh shading pipelines.
+
+export
+ 
+fn
+ 
+vert
+(
+)
+ 
+callconv
+(
+.
+spirv_vertex
+)
+ 
+void
+ 
+{
+}
+
+export
+ 
+fn
+ 
+frag
+(
+)
+ 
+callconv
+(
+.
+{
+ 
+.
+spirv_fragment
+ 
+=
+ 
+.
+{
+ 
+.
+depth_assumption
+ 
+=
+ 
+.
+greater
+ 
+}
+ 
+}
+)
+ 
+void
+ 
+{
+}
+
+export
+ 
+fn
+ 
+comp
+(
+)
+ 
+callconv
+(
+.
+{
+ 
+.
+spirv_kernel
+ 
+=
+ 
+.
+{
+ 
+.
+x
+ 
+=
+ 
+8
+,
+ 
+.
+y
+ 
+=
+ 
+8
+,
+ 
+.
+z
+ 
+=
+ 
+1
+ 
+}
+ 
+}
+)
+ 
+void
+ 
+{
+}
+
+export
+ 
+fn
+ 
+task
+(
+)
+ 
+callconv
+(
+.
+{
+ 
+.
+spirv_task
+ 
+=
+ 
+.
+{
+ 
+.
+x
+ 
+=
+ 
+1
+,
+ 
+.
+y
+ 
+=
+ 
+1
+,
+ 
+.
+z
+ 
+=
+ 
+1
+ 
+}
+ 
+}
+)
+ 
+void
+ 
+{
+}
+
+export
+ 
+fn
+ 
+mesh
+(
+)
+ 
+callconv
+(
+.
+{
+ 
+.
+spirv_mesh
+ 
+=
+ 
+.
+{
+ 
+.
+stage_output
+ 
+=
+ 
+.
+output_lines
+,
+ 
+.
+max_primitives
+ 
+=
+ 
+1
+,
+ 
+.
+max_vertices
+ 
+=
+ 
+2
+ 
+}
+ 
+}
+)
+ 
+void
+ 
+{
+}
+
+## Capabilities and Extensions from CPU Features
+
+Capabilities and extensions used to be emitted ad hoc by codegen or via inline assembly. They’re now driven entirely by the CPU feature set like other targets, with dependency chains extracted fromSPIRV-Headers(excluding external vendors for now), and the assembler now rejects any attempt to emitOpCapabilityorOpExtensiondirectly.
+
+## Multi-Threaded Codegen
+
+From day one, the SPIR-V backend ran codegen single-threaded inside the linker thread. Each codegen job now produces anMirvalue just like every other self-hosted backend, and gets scheduled on the compiler’s thread pool.
+
+The same change brought back two ISel passes that had been removed during earlier refactors:dedup_types(which merges equivalent type instructions) andprune_unused(which strips dead code from the final module). These had originally been deleted back when codegen was single-threaded.
+
+## Object File Linking
+
+.spvfiles are now recognised as object files. You can compile multiple.zigfiles (or external.spvobjects) and have the SPIR-V linker stitch them into a single module.
+
+Tens of bugs have also been fixed along the way with a nearly 10% increase in total passing behavior tests (49% now) on thespirv64-vulkantarget,std.gpuwas renamed tostd.spirvand the SPIR-V backend is meaningfully more useful than it was a month ago, but there’s still a long way to go. Plenty of behavior tests remain skipped on SPIR-V. That said, if you’ve been on the fence about trying Zig for shaders or compute kernels, this is a good time to give it a shot. Bug reports are very welcome onCodeberg. Happy hacking!
+
+June 25, 2026
+
+# New @bitCast Semantics and LLVM Backend Improvements
+
+Author: Matthew Lugg
+
+(Quite long devlog coming up, apologies—I got a little carried away with this one!)
+
+A few weeks ago, I began working on a branch implementing an improvement to the LLVM backend which had been planned for a long time. This ended up snowballing into a bigger change which implemented a few language proposals you might be interested to hear about.
+
+## LLVM Backend Integer Lowering
+
+Zig has always lowered arbitrary bit-width integer types (e.g.u4,i13,u40) directly to LLVM IR’s bit-int types (i4,i13,i40). However, we’ve known for a long time that this lowering is not optimal, because LLVM’s documented semantics for representing these types in memory are unnecessarily restrictive to the optimizer. Perhaps more importantly, because Clang never emits LLVM IR like this, these code paths in LLVM have never been properly tested, and so are poorly supported in practice—over the past few years, we have observed many instances oftrivial optimizations being missedand even straight-upmiscompilations.
+
+So, the original goal of the PR was to only use these bit-int types when manipulating values in SSA form, and to zero- or sign-extend them to ABI-sized types (i8,i16,i32, etc) when storing them in memory. This should be well-supported, not least because it matches how Clang lowers C’s_BitInt(N)!
+
+That change was actually fairly straightforward, but I hit one issue which led me down a bit of a rabbit-hole.
+
+## The Problem with@bitCast
+
+@bitCastis an interesting builtin. In the past, it was defined as being equivalent to the following sequence of operations:
+
+* Take a pointer to the operand value
+* Cast it to a pointer to the destination type
+* Load from that pointer
+
+In other words, it was essentially syntax sugar for reinterpreting bytes of memory. However, over time, we diverged from this definition—for instance, it became allowed to use@bitCastto reinterpret a[3]u8as au24, even though on most targets@sizeOf(u24)is greater than@sizeOf([3]u8)so the above definition would invoke Illegal Behavior.
+
+Up to now, the LLVM backend had implemented these underspecified semantics for the@bitCastbuiltin. However, because that definition involved reinterpreting memory, changing how we store integer types in memory ended up impacting the implementation of@bitCast, and introducing Illegal Behavior which led to crashes in the compiler test suite.
+
+The easiest solution to this would probably have been to implement logic in the LLVM backend to approximately match the old behavior. I instead opted for a better solution—implement a new definition of@bitCast.
+
+## Redefining@bitCast
+
+In 2024, Jacob Young wrote up language proposal#19755which aimed to solve the problems with@bitCastby precisely specifying a new set of semantics for it. This proposal was accepted shortly after it was submitted, and in fact, the semantics it details are already implemented by the self-hosted x86_64 backend! So to solve the LLVM backend’s problems, I didn’t necessarily need to match the old@bitCastsemantics—instead, this seemed like a good time to finally get the new semantics implementedeverywhere.
+
+As an aside, another advantage to doing this is that we could take advantage of the compiler’sLegalizepass, which takes difficult-to-lower operations and rewrites them in terms of simpler operations, so that compiler backends only need to support those simple operations.Legalizealready had functionality, used by the self-hosted x86_64 backend, which converted complex@bitCastoperations into simpler ones, and it could be easily adapted to aid the other compiler backends too (mainly the LLVM and C backends)—but only if they implemented the new semantics.
+
+Regardless, the point is, I set out on a side quest (which ended up being harder than theoriginalquest) to implement these new semantics throughout the compiler. This includes not only the LLVM and C backends, but alsocomptimeexecution—after all, Zig allows you to do almost any operation at comptime,@bitCastincluded! Because the new semantics are meaningfully different from the old (more on this later), I also had to audit a lot of uses of@bitCastacross the standard library, compiler, and supporting libraries (e.g.compiler_rt). But after a few mostly-painless fixes for CI failures, I was able to finally getmy PRgreen, and landed it in master yesterday (closing a good few issues in the process!).
+
+## The New@bitCastSemantics
+
+Now that we’ve gotten through all of the background, it’s finally time for me to actually explain new@bitCastbehavior. Instead of being based on reinterpreting bytes in memory like before, the builtin is now defined in terms of the bits whichlogicallyrepresent a type.
+
+Every type which supports@bitCasthas a “logical bit layout”—a representation of that type as an ordered sequence of bits. For instance,u5is composed of 5 logical bits, which we order from least-significant to most-significant.[2]u5is composed of 10 logical bits—the 5 from the first element, followed by the 5 from the second element. The new definition of@bitCastis that it reinterprets the logical bits of one type as the logical bits of a different type.
+
+The simplest example is to take an unsigned integer, say au8, and convert it to a signed integer of the same size, in this casei8. This operation does exactly what you’d expect—the bits are unchanged, and we just reinterpret the most-significant bit as a sign bit. Also unchanged are the semantics of@bitCastbetween an integer type and apacked struct/packed uniontype.
+
+The place where the new semantics differ from the old is when you get aggregate types (arrays and vectors) involved.
+
+Consider, for instance, bitcasting a[2]u8to au16. Under the old semantics, the result of this operation depends on the target endian: on big-endian targets, the first array element became the 8mostsignificant bits, whereas on little-endian targets, the first array element became the 8leastsignificant bits. Under the new semantics, because we only care aboutlogicalbit representation (which is endian-agnostic), the operation behaves identically on every target: the first array element becomes the 8leastsignificant bits. As a general rule, the new semantics tend to match the behavior of the old semantics on little-endian targets.
+
+This definition also allows for some weirder operations, such as converting[2]u3to@Vector(3, u2):
+
+test
+ 
+"bitcast [2]u3 to @Vector(3, u2)"
+ 
+{
+
+ 
+const
+ 
+arr
+:
+ 
+[
+2
+]
+u3
+ 
+=
+ 
+.
+{
+ 
+0b001
+,
+ 
+0b011
+ 
+}
+;
+
+ 
+const
+ 
+vec
+:
+ 
+@Vector
+(
+3
+,
+ 
+u2
+)
+ 
+=
+ 
+@bitCast
+(
+arr
+)
+;
+
+ 
+// Concatenate all bits of `arr` starting with the least-significant bit of `arr[0]` to find the
+
+ 
+// logical bit sequence, then read off 2-bit chunks from it to get the elements of the resulting
+
+ 
+// vector value `vec`.
+
+ 
+//
+
+ 
+// arr[0] arr[1]
+
+ 
+// 0b001 0b011
+
+ 
+// ------------- -------------
+
+ 
+// 1 0 0 1 1 0
+
+ 
+// -------- -------- --------
+
+ 
+// 0b01 0b10 0b01
+
+ 
+// vec[0] vec[1] vec[2]
+
+ 
+try
+ 
+expect
+(
+vec
+[
+0
+]
+ 
+==
+ 
+0b01
+)
+;
+
+ 
+try
+ 
+expect
+(
+vec
+[
+1
+]
+ 
+==
+ 
+0b10
+)
+;
+
+ 
+try
+ 
+expect
+(
+vec
+[
+2
+]
+ 
+==
+ 
+0b01
+)
+;
+
+}
+
+const
+ 
+expect
+ 
+=
+ 
+@import
+(
+"std"
+)
+.
+testing
+.
+expect
+;
+
+This kind of operation isn’t very useful most of the time, but it’s there if you need it! For instance, perhaps you want to deconstruct an integer into a vector of individual bits to operate on—that can now be done by a@bitCastto@Vector(n, u1).
+
+While doing all of this stuff, I also implemented a couple of smaller accepted proposals—I won’t detail them here, but you can take a look at the issues if you’re interested:
+
+* Disallow@bitCastto/from vectors of pointers (#18936)
+* Allow@bitCaston enums (part of#35602)
+
+Of course, all of these changed semantics will be explained in the 0.17.0 release notes (hopefully a bit more concisely than what I managed here!), and suggested migration steps outlined.
+
+## LLVM Backend Performance
+
+On a final note, I just wanted to mention that theoriginalmotivation for this branch—changing how the LLVM backend lowers non-ABI integer types—wasdemonstrably successfulat restoring missed optimizations. In fact, the Zig compiler itself—despite not making heavy use of arbitrary bit width integers internally!—saw around 5% performance improvements from the better optimization. This means you might have some minor runtime performance gains to look forward to in 0.17.0!
+
+Thanks for reading, I hope this was interesting to some of you. Happy hacking!
+
+May 30, 2026
+
+# ELF Linker Improvements
+
+Author: Matthew Lugg
+
+I’ve spent the past few weeks working on our new ELF linker which debuted in Zig 0.16.0. At the time of the 0.16.0 release, this linker implementation was in its fairly early stages, and only really supported linking Zig-only code without any external libraries (even libc)—hence why it was (and still is) disabled by default (it can be enabled with-fnew-linker). However, quite a lot of progress has been made since that initial release!
+
+Here’s a nice milestone—as ofmy latest PR, the new ELF linker is capable of building the self-hosted Zig compiler with LLVM and LLD libraries enabled, a task which requires quite a few features under the hood.
+
+[
+mlugg
+@nebula
+ 
+master]
+$
+ 
+# Build the Zig compiler using the new linker:
+
+[mlugg@nebula
+ 
+master]
+$
+ 
+zig
+ 
+build
+ 
+-Dno-lib
+ 
+-Dnew-linker
+ 
+-Denable-llvm
+
+[mlugg@nebula
+ 
+master]
+$
+ 
+# Use that compiler to build something with LLVM and LLD:
+
+[mlugg@nebula
+ 
+master]
+$
+ 
+./zig-out/bin/zig
+ 
+build-exe
+ 
+~/hello.zig
+ 
+-fllvm
+ 
+-flld
+
+[mlugg@nebula
+ 
+master]
+$
+ 
+./hello
+
+Hello,
+ 
+World!
+
+[mlugg@nebula
+ 
+master]
+$
+
+Of course, an ELF linker isn’t necessarily the most exciting thing in the world, which is why the headline feature of this new linker is its support for fast incremental compilation. After the recent enhancements, it is now possible (on x86_64 Linux) to perform incremental rebuilds while linking external libraries, C sources, etc—without any additional performance overhead! Here’s a clip of me trying it out onAndrew’s Tetris clone:
+
+A few silly changes to Andrew’s Tetris clone being built in around 30ms each.
+
+Oh, and fast incremental rebuilds also work nicely on the Zig compiler itself:
+
+[mlugg@nebula master]$ zig build -Dno-lib -Denable-llvm -fincremental --watch
+Build Summary: 4/4 steps succeeded
+install success
+└─ install zig success
+ └─ compile exe zig Debug native success 36s
+
+Build Summary: 4/4 steps succeeded
+install success
+└─ install zig success
+ └─ compile exe zig Debug native success 244ms
+
+Build Summary: 4/4 steps succeeded
+install success
+└─ install zig success
+ └─ compile exe zig Debug native success 228ms
+
+Build Summary: 4/4 steps succeeded
+install success
+└─ install zig success
+ └─ compile exe zig Debug native success 288ms
+
+Build Summary: 4/4 steps succeeded
+install success
+└─ install zig success
+ └─ compile exe zig Debug native success 283ms
+
+The biggest missing feature of this linker implementation right now is that it still does not yet support generating DWARF debug information for Zig code—that’s definitely my next priority. But even without that support, it’s amazing just how useful instant rebuilds can be, for example in any situation where you’re doing a lot of print debugging.
+
+If you’re using the master branch of Zig and you’re on x86_64 Linux, consider trying out incremental compilation with the new ELF linker if it previously wasn’t working with your project! I expect many codebases to already work great with it, unlocking the ability to rebuild your project in milliseconds. Of course, if you come across any bugs, please doopen an issue.
+
+And if you’re currently sticking to tagged releases of Zig, don’t worry—as Andrew mentioned in his last devlog, Zig 0.17.0 is just around the corner, so it won’t be long before you can try this too!
+
+May 26, 2026
+
+# Build System Reworked
+
+Author: Andrew Kelley
+
+Big branch just landed:separate the maker process from the configurer process
+
+This devlog entry is essentially a preview of the upcoming release notes, but serves as an advanced notice to those who want to help test out the new features and provide feedback that will guide the Zig project moving forward.
+
+Before,build.zigfiles plus the build system implementation were all compiled into one bloated process, in Debug mode. Afterbuild.ziglogic finished constructing a build graph in memory, the “build runner” code executed it.
+
+Now,build.zigfiles are compiled into a small process (the “configurer”) in debug mode. After this logic finishes constructing a build graph in memory, it is serialized to a binary configuration file. The parentzig buildprocess is aware of this file and caches it for next time. While waiting for all that, it asynchronously compiles the build graph execution process (the “maker”) in release mode. Once the configuration file is available and the maker process is finished compiling, the maker process is executed, passing it the configuration file. The maker process only needs to be compiled once perzig versionthanks to the global cache. The maker process then executes the build graph, which is contained within the serialized configuration file.
+
+The primary motivation of this change was to makezig buildfaster, in three ways:
+
+1. Only the user’sbuild.ziglogic will be compiled with each change, rather than the entire build system along with it. This is starting to become more valuable now that we have introduced--watch,--fuzzand--webui. The build system can grow more features without makingzig buildtake longer.
+2. Now the build system can skip rerunning thebuild.ziglogic entirely when it knows nothing will change, for example if you add-freference-traceto yourzig buildcommand line, it now avoids re-running yourbuild.ziglogic redundantly, using the same configuration as last time.
+3. Now the process that actually executes the build graph is compiled with optimizations enabled.
+
+To demonstrate points 2 and 3, here is the difference between runningzig build --helpbefore and after:
+
+Benchmark 1 (34 runs): master/zig build -h
+ measurement mean ± σ min … max outliers delta
+ wall_time 150ms ± 5.52ms 145ms … 165ms 4 (12%) 0%
+ peak_rss 84.8MB ± 275KB 84.2MB … 85.1MB 0 ( 0%) 0%
+ cpu_cycles 593M ± 4.01M 588M … 608M 2 ( 6%) 0%
+ instructions 995M ± 52.5K 995M … 995M 0 ( 0%) 0%
+ cache_references 25.8M ± 165K 25.4M … 26.1M 0 ( 0%) 0%
+ cache_misses 651K ± 20.1K 619K … 697K 0 ( 0%) 0%
+ branch_misses 918K ± 7.44K 906K … 935K 0 ( 0%) 0%
+Benchmark 2 (348 runs): branch/zig build -h
+ measurement mean ± σ min … max outliers delta
+ wall_time 14.3ms ± 744us 13.2ms … 23.3ms 8 ( 2%) ⚡- 90.4% ± 0.4%
+ peak_rss 78.5MB ± 562KB 77.1MB … 81.4MB 7 ( 2%) ⚡- 7.4% ± 0.2%
+ cpu_cycles 24.1M ± 821K 22.8M … 27.1M 3 ( 1%) ⚡- 95.9% ± 0.1%
+ instructions 43.7M ± 23.8K 43.7M … 43.8M 56 (16%) ⚡- 95.6% ± 0.0%
+ cache_references 1.46M ± 14.6K 1.40M … 1.50M 19 ( 5%) ⚡- 94.3% ± 0.1%
+ cache_misses 142K ± 4.87K 127K … 157K 2 ( 1%) ⚡- 78.1% ± 0.4%
+ branch_misses 126K ± 1.37K 120K … 129K 12 ( 3%) ⚡- 86.3% ± 0.1%
+
+It’s dramatic because before,build.ziglogic was being executed with eachzig buildcommand, but now, the build system uses the cached, serialized configuration instead.
+
+Aside from performance, I expect third-party tooling such as ZLS to benefit from consuming the serialized configuration file rather than maintaining a fork of the build runner.
+
+This changeset heavily reworks the internal mechanism of the zig build system, however, it is mostly non-breaking from an API perspective, with the exceptions noted in the PR linked above.
+
+For most people I’m guessing this is the main breaking change they’ll hit:
+
+if
+ 
+(
+b
+.
+args
+)
+ 
+|
+args
+|
+ 
+{
+
+ 
+run_cmd
+.
+addArgs
+(
+args
+)
+;
+
+}
+
+⬇️
+
+run_cmd
+.
+addPassthruArgs
+(
+)
+;
+
+This removes a capability from build scripts since they can no longer observe those arguments. In exchange, it means that when changing those arguments, build scripts no longer must be rebuilt from source.
+
+If you’re someone who wants to influence the direction of Zig, this is a good time to upgrade your projects to the development version and try out these changes. We’ll be releasing 0.17.0 within a couple weeks from now. However, if you don’t have time, and you find out that 0.17.0 broke your build, don’t worry, there will be plenty of opportunity to get fixes in for the 0.17.1 tag as well.
+
+April 08, 2026
+
+# Incremental compilation with LLVM
+
+Author: Matthew Lugg
+
+I’ve been spending a bit of time working on personal projects after merging mytype resolution changeslast month, but I did find the time recently to make some improvements to the LLVM codegen backend. This involved a few different enhancements with various goals, but one nice user-facing change was that I managed to get incremental compilation working with the LLVM backend.
+
+Sadly this can’t do anything to speed up the dreaded LLVM Emit Object: that time is entirely down to LLVM. However, what incremental compilationdoeshelp with is minimizing the time spent in the actual Zig compiler code, which means that if your code has compile errors (so “LLVM Emit Object” will be skipped), you’ll usually get those errors very quickly. (Of course, it does still give you aslightspeed-up in successful builds too.)
+
+This support is available in master branch builds right now, and will be in the 0.16.0 release (which we’ll be tagging very soon).
+
+For anyone who still hasn’t tried it, especially if you’re using Zig’s master branch, please do try out incremental compilation by passing-fincremental --watchtozig build! The Zig core team have benefited from incremental compilation in our workflows for a good year now, and we’re also hearing good things from users. The feature is relatively stable at this point, and people are often surprised how much time they can save just by getting up-to-date compile errors in milliseconds rather than seconds.
+
+I haven’t really personally used incremental compilation with the LLVM backend, but all of the incremental test coverage in CI is now enabled for the LLVM backend, and I’ve had positive feedback from users, so it’s definitely worth giving a shot. As always, if you encounter bugs in incremental compilation, please report them if you can!
+
+Thank you, and I hope you find this useful :)
+
+March 10, 2026
+
+# Type resolution redesign, with language changes to taste
+
+Author: Matthew Lugg
+
+Today,I merged a 30,000 line PRafter two (arguably three) months of work. The goal of this branch was to rework the Zig compiler’s internal type resolution logic to a more logical and straightforward design. It’s a quite exciting change for me personally, because it allowed me to clean up a bunch of the compiler guts, but it also has some nice user-facing changes which you might be interested in!
+
+For one thing, the Zig compiler is now lazier about analyzing the fields of types: if the type is never initialized, then there’s no need for Zig to care what that type “looks like”. This is important when you have a type which doubles as a namespace, a common pattern in modern Zig. For instance, when usingstd.Io.Writer, you don’t want the compiler to also pull in a bunch of code instd.Io! Here’s a straightforward example:
+
+const
+ 
+Foo
+ 
+=
+ 
+struct
+ 
+{
+
+ 
+bad_field
+:
+ 
+@compileError
+(
+"i am an evil field, muahaha"
+)
+,
+
+ 
+const
+ 
+something
+ 
+=
+ 
+123
+;
+
+}
+;
+
+comptime
+ 
+{
+
+ 
+_
+ 
+=
+ 
+Foo
+.
+something
+;
+ 
+// `Foo` only used as a namespace
+
+}
+
+Previously, this code emitted a compile error. Now, it compiles just fine, because Zig never actually looks at the@compileErrorcall.
+
+Another improvement we’ve made is in the “dependency loop” experience. Anyone who has encountered a dependency loop compile error in Zig before knows that the error messages for them are entirely unhelpful—but that’s now changed! If you encounter one (which is also a bit less likely now than it used to be), you’ll get a detailed error message telling you exactly where the dependency loop comes from. Check it out:
+
+const
+ 
+Foo
+ 
+=
+ 
+struct
+ 
+{
+ 
+inner
+:
+ 
+Bar
+ 
+}
+;
+
+const
+ 
+Bar
+ 
+=
+ 
+struct
+ 
+{
+ 
+x
+:
+ 
+u32
+ 
+align
+(
+@alignOf
+(
+Foo
+)
+)
+ 
+}
+;
+
+comptime
+ 
+{
+
+ 
+_
+ 
+=
+ 
+@as
+(
+Foo
+,
+ 
+undefined
+)
+;
+
+}
+
+$ zig build-obj repro.zig
+error: dependency loop with length 2
+ repro.zig:1:29: note: type 'repro.Foo' depends on type 'repro.Bar' for field declared here
+ const Foo = struct { inner: Bar };
+ ^~~
+ repro.zig:2:44: note: type 'repro.Bar' depends on type 'repro.Foo' for alignment query here
+ const Bar = struct { x: u32 align(@alignOf(Foo)) };
+ ^~~
+ note: eliminate any one of these dependencies to break the loop
+
+Of course, dependency loops can get much more complicated than this, but in every case I’ve tested, the error message has had enough information to easily see what’s going on.
+
+Additionally, this PR made big improvements to the Zig compiler’s “incremental compilation” feature. The short version is that it fixed a huge amount of known bugs, but in particular, “over-analysis” problems (where an incremental update did more work than should be necessary, sometimes by a big margin) should finally be all but eliminated—making incremental compilation significantly faster in many cases! If you’ve not already, considertrying out incremental compilation: it really is a lovely development experience. This is for sure the improvement which excites me the most, and a large part of what motivated this change to begin with.
+
+There are a bunch more changes that come with this PR—dozens of bugfixes, some small language changes (mostly fairly niche), and compiler performance improvements. It’s far too much to list here, but if you’re interested in reading more about it, you can take a look atthe PRon Codeberg—and of course, if you encounter any bugs, please do open an issue. Happy hacking!
+
+February 13, 2026
+
+# io_uring and Grand Central Dispatch std.Io implementations landed
+
+Author: Andrew Kelley
+
+As we approach the end of the 0.16.0 release cycle, Jacob has been hard at work, bringingstd.Io.Eventedup to speed with all the latest API changes:
+
+* io_uring implementation
+* Grand Central Dispatch implementation
+
+Both of these are based on userspace stack switching, sometimes called “fibers”, “stackful coroutines”, or “green threads”.
+
+They are nowavailable to tinker with, by constructing one’s application usingstd.Io.Evented. They should be consideredexperimentalbecause there is important followup work to be done before they can be used reliably and robustly:
+
+* better error handling
+* remove the logging
+* diagnose the unexpected performance degradation when usingIoMode.eventedfor the compiler
+* a couple functions still unimplemented
+* more test coverage is needed
+* builtin function to tell you the maximum stack size of a given functionto make these implementations practical to use when overcommit is off.
+
+With those caveats in mind, it seems we are indeed reaching the Promised Land, where Zig code can have Io implementations effortlessly swapped out:
+
+const
+ 
+std
+ 
+=
+ 
+@import
+(
+"std"
+)
+;
+
+pub
+ 
+fn
+ 
+main
+(
+init
+:
+ 
+std
+.
+process
+.
+Init
+.
+Minimal
+)
+ 
+!
+void
+ 
+{
+
+ 
+var
+ 
+debug_allocator
+:
+ 
+std
+.
+heap
+.
+DebugAllocator
+(
+.
+{
+}
+)
+ 
+=
+ 
+.
+init
+;
+
+ 
+const
+ 
+gpa
+ 
+=
+ 
+debug_allocator
+.
+allocator
+(
+)
+;
+
+ 
+var
+ 
+threaded
+:
+ 
+std
+.
+Io
+.
+Threaded
+ 
+=
+ 
+.
+init
+(
+gpa
+,
+ 
+.
+{
+
+ 
+.
+argv0
+ 
+=
+ 
+.
+init
+(
+init
+.
+args
+)
+,
+
+ 
+.
+environ
+ 
+=
+ 
+init
+.
+environ
+,
+
+ 
+}
+)
+;
+
+ 
+defer
+ 
+threaded
+.
+deinit
+(
+)
+;
+
+ 
+const
+ 
+io
+ 
+=
+ 
+threaded
+.
+io
+(
+)
+;
+
+ 
+return
+ 
+app
+(
+io
+)
+;
+
+}
+
+fn
+ 
+app
+(
+io
+:
+ 
+std
+.
+Io
+)
+ 
+!
+void
+ 
+{
+
+ 
+try
+ 
+std
+.
+Io
+.
+File
+.
+stdout
+(
+)
+.
+writeStreamingAll
+(
+io
+,
+ 
+"Hello, World!
+\n
+"
+)
+;
+
+}
+
+$ strace ./hello_threaded
+execve("./hello_threaded", ["./hello_threaded"], 0x7ffc1da88b20 /* 98 vars */) = 0
+mmap(NULL, 262207, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7f583f338000
+arch_prctl(ARCH_SET_FS, 0x7f583f378018) = 0
+prlimit64(0, RLIMIT_STACK, NULL, {rlim_cur=8192*1024, rlim_max=RLIM64_INFINITY}) = 0
+prlimit64(0, RLIMIT_STACK, {rlim_cur=16384*1024, rlim_max=RLIM64_INFINITY}, NULL) = 0
+sigaltstack({ss_sp=0x7f583f338000, ss_flags=0, ss_size=262144}, NULL) = 0
+sched_getaffinity(0, 128, [0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31]) = 8
+rt_sigaction(SIGIO, {sa_handler=0x1019d90, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x10328c0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=0}, 8) = 0
+rt_sigaction(SIGPIPE, {sa_handler=0x1019d90, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x10328c0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=0}, 8) = 0
+writev(1, [{iov_base="Hello, World!\n", iov_len=14}], 1Hello, World!
+) = 14
+rt_sigaction(SIGIO, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x10328c0}, NULL, 8) = 0
+rt_sigaction(SIGPIPE, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x10328c0}, NULL, 8) = 0
+exit_group(0) = ?
++++ exited with 0 +++
+
+Swapping out only the I/O implementation:
+
+const
+ 
+std
+ 
+=
+ 
+@import
+(
+"std"
+)
+;
+
+pub
+ 
+fn
+ 
+main
+(
+init
+:
+ 
+std
+.
+process
+.
+Init
+.
+Minimal
+)
+ 
+!
+void
+ 
+{
+
+ 
+var
+ 
+debug_allocator
+:
+ 
+std
+.
+heap
+.
+DebugAllocator
+(
+.
+{
+}
+)
+ 
+=
+ 
+.
+init
+;
+
+ 
+const
+ 
+gpa
+ 
+=
+ 
+debug_allocator
+.
+allocator
+(
+)
+;
+
+ 
+var
+ 
+evented
+:
+ 
+std
+.
+Io
+.
+Evented
+ 
+=
+ 
+undefined
+;
+
+ 
+try
+ 
+evented
+.
+init
+(
+gpa
+,
+ 
+.
+{
+
+ 
+.
+argv0
+ 
+=
+ 
+.
+init
+(
+init
+.
+args
+)
+,
+
+ 
+.
+environ
+ 
+=
+ 
+init
+.
+environ
+,
+
+ 
+.
+backing_allocator_needs_mutex
+ 
+=
+ 
+false
+,
+
+ 
+}
+)
+;
+
+ 
+defer
+ 
+evented
+.
+deinit
+(
+)
+;
+
+ 
+const
+ 
+io
+ 
+=
+ 
+evented
+.
+io
+(
+)
+;
+
+ 
+return
+ 
+app
+(
+io
+)
+;
+
+}
+
+fn
+ 
+app
+(
+io
+:
+ 
+std
+.
+Io
+)
+ 
+!
+void
+ 
+{
+
+ 
+try
+ 
+std
+.
+Io
+.
+File
+.
+stdout
+(
+)
+.
+writeStreamingAll
+(
+io
+,
+ 
+"Hello, World!
+\n
+"
+)
+;
+
+}
+
+execve("./hello_evented", ["./hello_evented"], 0x7fff368894f0 /* 98 vars */) = 0
+mmap(NULL, 262215, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7f70a4c28000
+arch_prctl(ARCH_SET_FS, 0x7f70a4c68020) = 0
+prlimit64(0, RLIMIT_STACK, NULL, {rlim_cur=8192*1024, rlim_max=RLIM64_INFINITY}) = 0
+prlimit64(0, RLIMIT_STACK, {rlim_cur=16384*1024, rlim_max=RLIM64_INFINITY}, NULL) = 0
+sigaltstack({ss_sp=0x7f70a4c28008, ss_flags=0, ss_size=262144}, NULL) = 0
+sched_getaffinity(0, 128, [0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31]) = 8
+mmap(NULL, 4096, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7f70a4c27000
+mmap(0x7f70a4c28000, 548864, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7f70a4ba1000
+io_uring_setup(64, {flags=IORING_SETUP_COOP_TASKRUN|IORING_SETUP_SINGLE_ISSUER, sq_thread_cpu=0, sq_thread_idle=1000, sq_entries=64, cq_entries=128, features=IORING_FEAT_SINGLE_MMAP|IORING_FEAT_NODROP|IORING_FEAT_SUBMIT_STABLE|IORING_FEAT_RW_CUR_POS|IORING_FEAT_CUR_PERSONALITY|IORING_FEAT_FAST_POLL|IORING_FEAT_POLL_32BITS|IORING_FEAT_SQPOLL_NONFIXED|IORING_FEAT_EXT_ARG|IORING_FEAT_NATIVE_WORKERS|IORING_FEAT_RSRC_TAGS|IORING_FEAT_CQE_SKIP|IORING_FEAT_LINKED_FILE|IORING_FEAT_REG_REG_RING|IORING_FEAT_RECVSEND_BUNDLE|IORING_FEAT_MIN_TIMEOUT|IORING_FEAT_RW_ATTR|IORING_FEAT_NO_IOWAIT, sq_off={head=0, tail=4, ring_mask=16, ring_entries=24, flags=36, dropped=32, array=2112, user_addr=0}, cq_off={head=8, tail=12, ring_mask=20, ring_entries=28, overflow=44, cqes=64, flags=40, user_addr=0}}) = 3
+mmap(NULL, 2368, PROT_READ|PROT_WRITE, MAP_SHARED|MAP_POPULATE, 3, 0) = 0x7f70a4ba0000
+mmap(NULL, 4096, PROT_READ|PROT_WRITE, MAP_SHARED|MAP_POPULATE, 3, 0x10000000) = 0x7f70a4b9f000
+io_uring_enter(3, 1, 1, IORING_ENTER_GETEVENTS, NULL, 8Hello, World!
+) = 1
+io_uring_enter(3, 1, 1, IORING_ENTER_GETEVENTS, NULL, 8) = 1
+munmap(0x7f70a4b9f000, 4096) = 0
+munmap(0x7f70a4ba0000, 2368) = 0
+close(3) = 0
+munmap(0x7f70a4ba1000, 548864) = 0
+exit_group(0) = ?
++++ exited with 0 +++
+
+Key point here being that theappfunction is identical between those two snippets.
+
+Moving beyond Hello World, the Zig compiler itself works fine usingstd.Io.Evented, both with io_uring and with GCD, but as mentioned above, there is a not-yet-diagnosed performance degradation when doing so.
+
+Happy hacking,
+
+Andrew
+
+February 06, 2026
+
+# Two Package Management Workflow Enhancements
+
+Author: Andrew Kelley
+
+If you have a Zig project with dependencies, two big changes just landed which I think you will be interested to learn about.
+
+Fetched packages are now storedlocallyin thezig-pkgdirectory of the project root (next to yourbuild.zigfile).
+
+For example here are a few results fromaweboafter runningzig build:
+
+$ du -sh zig-pkg/*
+13M freetype-2.14.1-alzUkTyBqgBwke4Jsot997WYSpl207Ij9oO-2QOvGrOi
+20K opus-0.0.2-vuF-cMAkAADVsm707MYCtPmqmRs0gzg84Sz0qGbb5E3w
+4.3M pulseaudio-16.1.1-9-mk_62MZkNwBaFwiZ7ZVrYRIf_3dTqqJR5PbMRCJzSuLw
+5.2M uucode-0.1.0-ZZjBPvtWUACf5dqD_f9I37VGFsN24436CuceC5pTJ25n
+728K vaxis-0.5.1-BWNV_AxECQCj3p4Hcv4U3Yo1WMUJ7Z2FUj0UkpuJGxQQ
+
+It is highly recommended to add this directory to the project-local source control ignore file (e.g..gitignore). However, by being outside of.zig-cache, it provides the possibility of distributing self-contained source tarballs, which contain all dependencies and therefore can be used to build offline, or for archival purposes.
+
+Meanwhile, anadditionalcopy of the dependency is cached globally. After filtering out all the unused files based on thepathsfilter, the contents are recompressed:
+
+$ du -sh ~/.cache/zig/p/*
+2.4M freetype-2.14.1-alzUkTyBqgBwke4Jsot997WYSpl207Ij9oO-2QOvGrOi.tar.gz
+4.0K opus-0.0.2-vuF-cMAkAADVsm707MYCtPmqmRs0gzg84Sz0qGbb5E3w.tar.gz
+636K pulseaudio-16.1.1-9-mk_62MZkNwBaFwiZ7ZVrYRIf_3dTqqJR5PbMRCJzSuLw.tar.gz
+880K uucode-0.1.0-ZZjBPvtWUACf5dqD_f9I37VGFsN24436CuceC5pTJ25n.tar.gz
+120K vaxis-0.5.1-BWNV_BFECQBbXeTeFd48uTJRjD5a-KD6kPuKanzzVB01.tar.gz
+
+The motivation for this change is to make it easier to tinker. Go ahead and edit those files, see what happens. Swap out your package directory with a git clone. Grep your dependencies all together. Configure your IDE to auto-complete based on thezig-pkgdirectory.Run baobab on your dependency tree. Furthermore, by having the global cache have compressed files instead makes it easier to share that cached data between computers. In the future,it is planned to support peer-to-peer torrenting of dependency trees. By recompressing packages into a canonical form, this will allow peers to share Zig packages with minimal bandwidth. I love this idea because it simultaneously provides resilience to network outages, as well as a popularity contest. Find out which open source packages are popular based on number of seeders!
+
+The second change here is the addition of the--forkflag tozig build.
+
+In retrospect, it seems so obvious, I don’t know why I didn’t think of it since the beginning. It looks like this:
+
+zig build --fork=[path]
+
+This is aproject overrideoption. Given a path to a source checkout of a project, all packages matching that project across the entire dependency tree will be overridden.
+
+Thanks to the fact that package content hashes include name and fingerprint,this resolves before the package is potentially fetched.
+
+This is an easy way to temporarily use one or more forks which are in entirely separate directories. You can iterate on your entire dependency tree until everything is working, while using comfortably the development environment and source control of the dependency projects.
+
+The fact that it is a CLI flag makes it appropriately ephemeral. The moment you drop the flags, you’re back to using your pristine, fetched dependency tree.
+
+If the project does not match, an error occurs, preventing confusion:
+
+$ zig build --fork=/home/andy/dev/mime
+error: fork /home/andy/dev/mime matched no mime packages
+$
+
+If the project does match, you get a reminder that you are using a fork, preventing confusion:
+
+$ zig build --fork=/home/andy/dev/dvui
+info: fork /home/andy/dev/dvui matched 1 (dvui) packages
+...
+
+This functionality is intended to enhance the workflow of dealing with ecosystem breakage. I already tried it a bit and found it to be quite pleasant to work with. The new workflow goes like this:
+
+1. Fail to build from source due to ecosystem breakage.
+2. Tinker with--forkuntil your project works again. During this time you can use the actual upstream source control, test suite,zig build test --watch -fincremental, etc.
+3. Now you have a new option: be selfish and just keep working on your own stuff, or you can proceed to submit your patches upstream.
+
+…and you can probably skip the step where you switch yourbuild.zig.zonto your fork unless you expect upstream to take a long time to merge your fixes.
+
+February 03, 2026
+
+# Bypassing Kernel32.dll for Fun and Nonprofit
+
+Author: Andrew Kelley
+
+The Windows operating system provides a large ABI surface area for doing things in the kernel. However, not all ABIs are created equally. As Casey Muratori points out in his lecture,The Only Unbreakable Law, the organizational structure of software development teams has a direct impact on the structure of the software they produce.
+
+The DLLs on Windows are organized into a heirarchy, with some of the APIs being high-level wrappers around lower-level ones. For example, whenever you call functions ofkernel32.dll, ultimately, the actual work is done byntdll.dll. You can observe this directly by using ProcMon.exe and examining stack traces.
+
+What we’ve learned empirically is that the ntdll APIs are generally well-engineered, reasonable, and powerful, but the kernel32 wrappers introduce unnecessary heap allocations, additional failure modes, unintentional CPU usage, and bloat.
+
+This is why the Zig standard library policy is toPrefer the Native API over Win32. We’re not quite there yet - we have plenty of calls into kernel32 remaining - but we’ve taken great strides recently. I’ll give you two examples.
+
+## Example 1: Entropy
+
+According to the official documentation, Windows does not have a straightforward way to get random bytes.
+
+Many projects including Chromium, boringssl, Firefox, and RustcallSystemFunction036fromadvapi32.dllbecause it worked on versions older than Windows 8.
+
+Unfortunately, starting with Windows 8, the first time you call this function, it dynamically loadsbcryptprimitives.dlland callsProcessPrng. If loading the DLL fails (for example due to an overloaded system, which we have observed on Zig CI several times), it returns error 38 (from a function that hasvoidreturn type and is documented to never fail).
+
+The first thingProcessPrngdoes is heap allocate a small, constant number of bytes. If this fails it returnsNO_MEMORYin aBOOL(documented behavior is to never fail, and always returnTRUE).
+
+bcryptprimitives.dllapparently also runs a test suite every time you load it.
+
+All thatProcessPrngisreallydoing isNtOpenFileon"\\Device\\CNG"and reading 48 bytes withNtDeviceIoControlFileto get a seed, and then initializing a per-CPU AES-based CSPRNG.
+
+So the dependency onbcryptprimitives.dllandadvapi32.dllcan both be avoided, and the nondeterministic failure and latencies on first RNG read can also be avoided.
+
+## Example 2: NtReadFile and NtWriteFile
+
+ReadFilelooks like this:
+
+pub
+ 
+extern
+ 
+"kernel32"
+ 
+fn
+ 
+ReadFile
+(
+
+ 
+hFile
+:
+ 
+HANDLE
+,
+
+ 
+lpBuffer
+:
+ 
+LPVOID
+,
+
+ 
+nNumberOfBytesToRead
+:
+ 
+DWORD
+,
+
+ 
+lpNumberOfBytesRead
+:
+ 
+?
+*
+DWORD
+,
+
+ 
+lpOverlapped
+:
+ 
+?
+*
+OVERLAPPED
+,
+
+)
+ 
+callconv
+(
+.
+winapi
+)
+ 
+BOOL
+;
+
+NtReadFilelooks like this:
+
+pub
+ 
+extern
+ 
+"ntdll"
+ 
+fn
+ 
+NtReadFile
+(
+
+ 
+FileHandle
+:
+ 
+HANDLE
+,
+
+ 
+Event
+:
+ 
+?
+HANDLE
+,
+
+ 
+ApcRoutine
+:
+ 
+?
+*
+const
+ 
+IO_APC_ROUTINE
+,
+
+ 
+ApcContext
+:
+ 
+?
+*
+anyopaque
+,
+
+ 
+IoStatusBlock
+:
+ 
+*
+IO_STATUS_BLOCK
+,
+
+ 
+Buffer
+:
+ 
+*
+anyopaque
+,
+
+ 
+Length
+:
+ 
+ULONG
+,
+
+ 
+ByteOffset
+:
+ 
+?
+*
+const
+ 
+LARGE_INTEGER
+,
+
+ 
+Key
+:
+ 
+?
+*
+const
+ 
+ULONG
+,
+
+)
+ 
+callconv
+(
+.
+winapi
+)
+ 
+NTSTATUS
+;
+
+As a reminder,the above function is implemented by calling the below function.
+
+Already we can see some nice things about using the lower level API. For instance, therealAPI simply gives us the error code as the return value, while the kernel32 wrapper hides the status code somewhere, returns aBOOLand then requires you to callGetLastErrorto find out what went wrong. Imagine! Returning a value from a function 🌈
+
+Furthermore,OVERLAPPEDis a fake type. The Windows kernel doesn’t actually know or care about it at all! The actual primitives here are events, APCs, andIO_STATUS_BLOCK.
+
+If you have a synchronous file handle, thenEventandApcRoutinemust benull. You get the answer in theIO_STATUS_BLOCKimmediately. If you pass an APC routine here then some old bitrotted 32-bit code runs and you get garbage results.
+
+On the other hand if you have an asynchronous file handle, then you need to either use anEventor anApcRoutine.kernel32.dlluses events, which means that it’s doing extra, unnecessary resource allocation and management just to read from a file. Instead, Zig now passes an APC routine and then callsNtDelayExecution. This integrates seamlessly with cancelation, making it possible to cancel tasks while they perform file I/O, regardless of whether the file was opened in synchronous mode or asynchronous mode.
+
+For a deeper dive into this topic, please refer to this issue:
+
+Windows: Prefer the Native API over Win32
+
+January 31, 2026
+
+# zig libc
+
+Author: Andrew Kelley
+
+Over the past month or so, several enterprising contributors have taken an interest in thezig libc subproject. The idea here is to incrementally delete redundant code, by providing libc functions as Zig standard library wrappers rather than as vendored C source files. In many cases, these functions are one-to-one mappings, such asmemcpyoratan2, or trivially wrap a generic function, likestrnlen:
+
+fn
+ 
+strnlen
+(
+str
+:
+ 
+[
+*
+:
+0
+]
+const
+ 
+c_char
+,
+ 
+max
+:
+ 
+usize
+)
+ 
+callconv
+(
+.
+c
+)
+ 
+usize
+ 
+{
+
+ 
+return
+ 
+std
+.
+mem
+.
+findScalar
+(
+u8
+,
+ 
+@ptrCast
+(
+str
+[
+0
+..
+max
+]
+)
+,
+ 
+0
+)
+ 
+orelse
+ 
+max
+;
+
+}
+
+So far, roughly 250 C source files have been deleted from the Zig repository, with 2032 remaining.
+
+With each function that makes the transition, Zig gains independence from third party projects and from the C programming language, compilation speed improves, Zig’s installation size is simplified and reduced, and user applications which statically link libc enjoy reduced binary size.
+
+Additionally, arecent enhancementnow makes zig libc share the Zig Compilation Unit with other Zig code rather than being a separate static archive, linked together later. This is one of the advantages of Zig having an integrated compiler and linker. When the exported libc functions share the ZCU, redundant code is eliminated because functions can be optimized together. It’s kind of like enabling LTO (Link-Time Optimization) across the libc boundary, except it’s done properly in the frontend instead of too late, in the linker.
+
+Furthermore, when this work is combined with the recentstd.Io changes, there is potential for users to seamlessly control how libc performs I/O - for example forcing all calls toreadandwriteto participate in an io_uring event loop, even though that code was not written with such use case in mind. Or,resource leak detectioncould be enabled for third-party C code. For now this is only a vaporware idea which has not been experimented with, but the idea intrigues me.
+
+Big thanks to Szabolcs Nagy forlibc-test. This project has been a huge help in making sure that we don’t regress any math functions.
+
+As a reminder to our users, now that Zig is transitioning to being the static libc provider, if you encounter issues with the musl, mingw-w64, or wasi-libc libc functionality provided by Zig,please file bug reports in Zig firstso we don’t annoy maintainers for bugs that are in Zig, and no longer vendored by independent libc implementation projects.
+
+The very same day I sat at home writing this devlog like a coward, less than five miles away,armed forces who are in my city against the will of our elected officials shot tear gas, unprovoked, at peaceful protestors. Next time I hope to have the courage to join my neighbors, and I hope to not get shot likeAlex PrettiandRenée Good.

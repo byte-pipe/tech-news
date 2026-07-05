@@ -1,0 +1,42 @@
+---
+title: If you’re a button, you have one job – Unsung
+url: https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/
+site_name: hackernews_api
+content_file: hackernews_api-if-youre-a-button-you-have-one-job-unsung
+fetched_at: '2026-07-05T11:33:29.607437'
+original_url: https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/
+author: Marcin Wichary
+date: '2026-07-05'
+description: A blog about software craft and quality
+tags:
+- hackernews
+- trending
+---
+
+One thing I was (and still am) worried about when it comes to myrecent big interactive essayis that by showing all these classic desktop examples, the whole thing might appear old-fashioned, relevant only to a bygone era.
+
+Yet, the challenges it shows are universal. Here’s something I just spotted. This is how you rotate an image on an iPhone and on a Nothing Phone:
+
+It’s a pretty standard control – tap once to rotate counterclockwise, tap a second time to do it again, etc. – with a helpful transition of the photo’s orientation so that you don’t lose yours.
+
+Now, I’m going to exaggerate the problem a bit and tap 90-degree rotation quicklyeight times. Eight times should result in what engineers call a “no op” – the image rotating twice in full, and ending up where it started. That indeed happens on the iPhone:
+
+But it’s a different story on the Nothing Phone/​Android:
+
+iPhone will remember and buffer the taps, so that the second, pending rotation will happen as soon as the first is done. The Nothing Phone button gives you a tap confirmation via both haptics and sound, and thenignores the tapif a previous rotation is still animating.
+
+Why does it matter?
+
+I often keep thinking about the framework ofsituational disability, stating that disability is not just something that happens to a few people and no one else. No, pretty much everyone will occasionally encounter asituationthat will make them effectively disabled, and this is why accessibility matters much more than many of us assume:
+
+I think similarly about casual and non-casual use. Photo-taking on phones is typically casual. Phone cameras are typically very good at detecting the photo orientation – but get confused when you’re pointing down. Now, as an example, if you had to take photos of a bunch of landscape documents, you might end up having to rotate dozens of photos, one by one. And it would be so much more predictable and pleasant if you could just tap the button three times at any pace you wanted without thinking, without paying attention, without getting your UI blocked by an animation that no longer helps you.
+
+This is, I suppose, “situational power user-ness.” Given a long enough timeframe – or, in this case, a large enough population – even a casual interface like phone photo editing (or,GarageBand) will meet someone who will have no choice but to treat it more seriously and expect more from it.
+
+By the way, buffering the taps is not the only answer. You can also just stop/​accelerate the animation after an interrupting tap. But the rule is:never force the user to wait for the animation to finish.
+
+Jul 4, 2026
+* android3flow42ios13touch16
+* flow42ios13touch16
+* ios13touch16
+* touch16
