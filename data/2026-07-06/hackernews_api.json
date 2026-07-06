@@ -1,28 +1,11 @@
 [
   {
-    "title": "A sociotechnical threat model for AI-driven smart home devices",
-    "url": "https://arxiv.org/abs/2602.09239",
-    "author": "dijksterhuis",
-    "date": "2026-07-06",
-    "score": 78,
-    "comments": 57,
-    "id": 48795830,
-    "discussion_url": "https://news.ycombinator.com/item?id=48795830",
-    "description": "A sociotechnical threat model for AI-driven smart home devices",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800873"
-  },
-  {
     "title": "Airplane Boneyards List and Map",
     "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
     "author": "hyperific",
-    "date": "2026-07-05",
-    "score": 68,
-    "comments": 12,
+    "date": "2026-07-04",
+    "score": 90,
+    "comments": 16,
     "id": 48786284,
     "discussion_url": "https://news.ycombinator.com/item?id=48786284",
     "description": "Airplane Boneyards List and Map",
@@ -31,168 +14,202 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800619"
+    "fetched_at": "2026-07-06T12:20:19.421227"
   },
   {
-    "title": "Artful Cats: Feline-Inspired Art and Artifacts",
-    "url": "https://www.si.edu/spotlight/art-cats",
-    "author": "jruohonen",
-    "date": "2026-07-02",
-    "score": 77,
-    "comments": 5,
-    "id": 48751144,
-    "discussion_url": "https://news.ycombinator.com/item?id=48751144",
-    "description": "Artful Cats: Feline-Inspired Art and Artifacts",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.801059"
-  },
-  {
-    "title": "Atomic Force Microscope [video]",
-    "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
-    "author": "mhb",
-    "date": "2026-07-03",
-    "score": 113,
-    "comments": 16,
-    "id": 48765920,
-    "discussion_url": "https://news.ycombinator.com/item?id=48765920",
-    "description": "Atomic Force Microscope [video]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.801191"
-  },
-  {
-    "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
-    "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
-    "author": "amichail",
+    "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+    "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+    "author": "ClearwayLaw",
     "date": "2026-07-06",
-    "score": 78,
-    "comments": 34,
-    "id": 48795174,
-    "discussion_url": "https://news.ycombinator.com/item?id=48795174",
-    "description": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+    "score": 157,
+    "comments": 69,
+    "id": 48799256,
+    "discussion_url": "https://news.ycombinator.com/item?id=48799256",
+    "description": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800890"
+    "fetched_at": "2026-07-06T12:20:19.421247"
   },
   {
-    "title": "Cannabis users face substantially higher risk of heart attack (2025)",
-    "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
-    "author": "RickJWagner",
-    "date": "2026-07-05",
-    "score": 153,
-    "comments": 210,
-    "id": 48793492,
-    "discussion_url": "https://news.ycombinator.com/item?id=48793492",
-    "description": "Cannabis users face substantially higher risk of heart attack (2025)",
+    "title": "Building relationships with customers through support didn't turn out as hoped",
+    "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+    "author": "dabluck",
+    "date": "2026-07-06",
+    "score": 189,
+    "comments": 114,
+    "id": 48799929,
+    "discussion_url": "https://news.ycombinator.com/item?id=48799929",
+    "description": "Building relationships with customers through support didn't turn out as hoped",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.801125"
+    "fetched_at": "2026-07-06T12:20:19.421046"
   },
   {
-    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-    "author": "asronline",
+    "title": "Completing a computer science degree on Coursera",
+    "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+    "author": "lexandstuff",
     "date": "2026-07-05",
-    "score": 651,
-    "comments": 270,
-    "id": 48788283,
-    "discussion_url": "https://news.ycombinator.com/item?id=48788283",
-    "description": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+    "score": 229,
+    "comments": 143,
+    "id": 48798061,
+    "discussion_url": "https://news.ycombinator.com/item?id=48798061",
+    "description": "Completing a computer science degree on Coursera",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800924"
+    "fetched_at": "2026-07-06T12:20:19.421059"
   },
   {
-    "title": "EU Council forces Chat Control via fast-track",
-    "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-    "author": "stavros",
+    "title": "Composite Video on the NES: Why's it so wobbly?",
+    "url": "https://nicole.express/2026/phase-altering-by-line.html",
+    "author": "zdw",
     "date": "2026-07-05",
-    "score": 358,
-    "comments": 197,
-    "id": 48793393,
-    "discussion_url": "https://news.ycombinator.com/item?id=48793393",
-    "description": "EU Council forces Chat Control via fast-track",
+    "score": 99,
+    "comments": 7,
+    "id": 48798247,
+    "discussion_url": "https://news.ycombinator.com/item?id=48798247",
+    "description": "Composite Video on the NES: Why's it so wobbly?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800602"
+    "fetched_at": "2026-07-06T12:20:19.421115"
   },
   {
-    "title": "Fast Software, the Best Software (2019)",
-    "url": "https://craigmod.com/essays/fast_software/",
-    "author": "ustad",
+    "title": "Cursed circuits #5: capacitance multiplier",
+    "url": "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier",
+    "author": "surprisetalk",
     "date": "2026-07-05",
-    "score": 121,
-    "comments": 65,
-    "id": 48792008,
-    "discussion_url": "https://news.ycombinator.com/item?id=48792008",
-    "description": "Fast Software, the Best Software (2019)",
+    "score": 97,
+    "comments": 14,
+    "id": 48797467,
+    "discussion_url": "https://news.ycombinator.com/item?id=48797467",
+    "description": "Cursed circuits #5: capacitance multiplier",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800426"
+    "fetched_at": "2026-07-06T12:20:19.421156"
   },
   {
-    "title": "If you're a button, you have one job",
-    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-    "author": "nozzlegear",
+    "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+    "url": "https://github.com/514-labs/dnsglobe",
+    "author": "Callicles",
     "date": "2026-07-05",
-    "score": 517,
-    "comments": 249,
-    "id": 48790689,
-    "discussion_url": "https://news.ycombinator.com/item?id=48790689",
-    "description": "If you're a button, you have one job",
+    "score": 73,
+    "comments": 55,
+    "id": 48798313,
+    "discussion_url": "https://news.ycombinator.com/item?id=48798313",
+    "description": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800907"
+    "fetched_at": "2026-07-06T12:20:19.421135"
   },
   {
-    "title": "Introduction to Compilers and Language Design (2021)",
-    "url": "https://dthain.github.io/books/compiler/",
-    "author": "AlexeyBrin",
+    "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+    "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+    "author": "randycupertino",
     "date": "2026-07-05",
-    "score": 244,
-    "comments": 42,
-    "id": 48793454,
-    "discussion_url": "https://news.ycombinator.com/item?id=48793454",
-    "description": "Introduction to Compilers and Language Design (2021)",
+    "score": 137,
+    "comments": 254,
+    "id": 48797141,
+    "discussion_url": "https://news.ycombinator.com/item?id=48797141",
+    "description": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800530"
+    "fetched_at": "2026-07-06T12:20:19.421111"
+  },
+  {
+    "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+    "url": "https://arxiv.org/abs/2605.20049",
+    "author": "softwaredoug",
+    "date": "2026-07-05",
+    "score": 152,
+    "comments": 78,
+    "id": 48798815,
+    "discussion_url": "https://news.ycombinator.com/item?id=48798815",
+    "description": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-06T12:20:19.421020"
+  },
+  {
+    "title": "GPT-5.6 Sol Ultra will be in Codex",
+    "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+    "author": "mfiguiere",
+    "date": "2026-07-06",
+    "score": 324,
+    "comments": 273,
+    "id": 48799614,
+    "discussion_url": "https://news.ycombinator.com/item?id=48799614",
+    "description": "GPT-5.6 Sol Ultra will be in Codex",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-06T12:20:19.420952"
+  },
+  {
+    "title": "Has_not_been_viewed_much",
+    "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+    "author": "wxw",
+    "date": "2026-07-05",
+    "score": 355,
+    "comments": 93,
+    "id": 48799155,
+    "discussion_url": "https://news.ycombinator.com/item?id=48799155",
+    "description": "Has_not_been_viewed_much",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-06T12:20:19.421008"
+  },
+  {
+    "title": "Introduction to Genomics for Engineers",
+    "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
+    "author": "yreg",
+    "date": "2026-07-02",
+    "score": 72,
+    "comments": 4,
+    "id": 48760424,
+    "discussion_url": "https://news.ycombinator.com/item?id=48760424",
+    "description": "Introduction to Genomics for Engineers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-06T12:20:19.421026"
   },
   {
     "title": "It's not about physical vs. digital games, it's about ownership",
     "url": "https://popcar.bearblog.dev/its-about-ownership/",
     "author": "popcar2",
-    "date": "2026-07-06",
-    "score": 202,
-    "comments": 151,
+    "date": "2026-07-05",
+    "score": 567,
+    "comments": 426,
     "id": 48794750,
     "discussion_url": "https://news.ycombinator.com/item?id=48794750",
     "description": "It's not about physical vs. digital games, it's about ownership",
@@ -201,66 +218,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800637"
+    "fetched_at": "2026-07-06T12:20:19.421036"
   },
   {
-    "title": "Medieval-style fortifications are back in the Sahel",
-    "url": "https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel",
-    "author": "andsoitis",
-    "date": "2026-07-01",
-    "score": 79,
-    "comments": 63,
-    "id": 48746771,
-    "discussion_url": "https://news.ycombinator.com/item?id=48746771",
-    "description": "Medieval-style fortifications are back in the Sahel",
+    "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+    "author": "jfil",
+    "date": "2026-07-03",
+    "score": 193,
+    "comments": 40,
+    "id": 48770291,
+    "discussion_url": "https://news.ycombinator.com/item?id=48770291",
+    "description": "Mr. Baby Paint and accidentally discovering a new cellular automata",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800372"
-  },
-  {
-    "title": "Megawatts by Microwave",
-    "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
-    "author": "eternauta3k",
-    "date": "2026-07-05",
-    "score": 74,
-    "comments": 5,
-    "id": 48791591,
-    "discussion_url": "https://news.ycombinator.com/item?id=48791591",
-    "description": "Megawatts by Microwave",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800958"
-  },
-  {
-    "title": "Moby Dick Workout (2022)",
-    "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
-    "author": "helloplanets",
-    "date": "2026-07-05",
-    "score": 96,
-    "comments": 33,
-    "id": 48791266,
-    "discussion_url": "https://news.ycombinator.com/item?id=48791266",
-    "description": "Moby Dick Workout (2022)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800974"
+    "fetched_at": "2026-07-06T12:20:19.421119"
   },
   {
     "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
     "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
     "author": "jonahbard",
-    "date": "2026-07-06",
-    "score": 83,
-    "comments": 51,
+    "date": "2026-07-05",
+    "score": 168,
+    "comments": 105,
     "id": 48796817,
     "discussion_url": "https://news.ycombinator.com/item?id=48796817",
     "description": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
@@ -269,32 +252,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.799703"
+    "fetched_at": "2026-07-06T12:20:19.421102"
   },
   {
-    "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-    "url": "https://github.com/langchain-ai/openwiki",
-    "author": "handfuloflight",
-    "date": "2026-07-02",
-    "score": 75,
-    "comments": 19,
-    "id": 48752949,
-    "discussion_url": "https://news.ycombinator.com/item?id=48752949",
-    "description": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+    "title": "OpenPrinter",
+    "url": "https://www.opentools.studio/",
+    "author": "bouh",
+    "date": "2026-07-05",
+    "score": 942,
+    "comments": 232,
+    "id": 48797916,
+    "discussion_url": "https://news.ycombinator.com/item?id=48797916",
+    "description": "OpenPrinter",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800251"
+    "fetched_at": "2026-07-06T12:20:19.420994"
   },
   {
     "title": "Organic Maps",
     "url": "https://organicmaps.app/",
     "author": "tosh",
-    "date": "2026-07-06",
-    "score": 672,
-    "comments": 196,
+    "date": "2026-07-05",
+    "score": 1057,
+    "comments": 324,
     "id": 48794446,
     "discussion_url": "https://news.ycombinator.com/item?id=48794446",
     "description": "Organic Maps",
@@ -303,49 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800584"
+    "fetched_at": "2026-07-06T12:20:19.421093"
   },
   {
-    "title": "Pandoc Lua Filters",
-    "url": "https://pandoc.org/lua-filters.html",
-    "author": "ankitg12",
-    "date": "2026-07-03",
-    "score": 131,
-    "comments": 11,
-    "id": 48773079,
-    "discussion_url": "https://news.ycombinator.com/item?id=48773079",
-    "description": "Pandoc Lua Filters",
+    "title": "Real-time map of Great Britain's rail network",
+    "url": "https://www.map.signalbox.io",
+    "author": "scrlk",
+    "date": "2026-07-06",
+    "score": 157,
+    "comments": 68,
+    "id": 48802535,
+    "discussion_url": "https://news.ycombinator.com/item?id=48802535",
+    "description": "Real-time map of Great Britain's rail network",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800706"
-  },
-  {
-    "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust",
-    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
-    "author": "captain_dfx",
-    "date": "2026-07-01",
-    "score": 98,
-    "comments": 67,
-    "id": 48746038,
-    "discussion_url": "https://news.ycombinator.com/item?id=48746038",
-    "description": "Rayfish, Peer-to-peer mesh VPN with no server to trust",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800941"
+    "fetched_at": "2026-07-06T12:20:19.420926"
   },
   {
     "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
     "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
     "author": "jandeboevrie",
     "date": "2026-07-05",
-    "score": 82,
-    "comments": 45,
+    "score": 121,
+    "comments": 73,
     "id": 48794302,
     "discussion_url": "https://news.ycombinator.com/item?id=48794302",
     "description": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
@@ -354,66 +320,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800566"
+    "fetched_at": "2026-07-06T12:20:19.421145"
   },
   {
-    "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-    "url": "https://ui.shadcn.com/docs/changelog",
-    "author": "dabinat",
+    "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+    "url": "https://homegames.io",
+    "author": "homegamesjoseph",
     "date": "2026-07-05",
-    "score": 270,
-    "comments": 146,
-    "id": 48791328,
-    "discussion_url": "https://news.ycombinator.com/item?id=48791328",
-    "description": "Shadcn/UI now defaults to Base UI instead of Radix",
+    "score": 190,
+    "comments": 48,
+    "id": 48798153,
+    "discussion_url": "https://news.ycombinator.com/item?id=48798153",
+    "description": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.801025"
+    "fetched_at": "2026-07-06T12:20:19.421032"
   },
   {
-    "title": "Show HN: KiCad in the Browser",
-    "url": "https://demo.pcbjam.com/",
-    "author": "ViktorEE",
+    "title": "Solar rail could become common in Europe after successful trial in Switzerland",
+    "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
+    "author": "neilfrndes",
     "date": "2026-07-05",
-    "score": 88,
-    "comments": 31,
-    "id": 48793542,
-    "discussion_url": "https://news.ycombinator.com/item?id=48793542",
-    "description": "Show HN: KiCad in the Browser",
+    "score": 90,
+    "comments": 102,
+    "id": 48794704,
+    "discussion_url": "https://news.ycombinator.com/item?id=48794704",
+    "description": "Solar rail could become common in Europe after successful trial in Switzerland",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800807"
-  },
-  {
-    "title": "Small Penis Rule",
-    "url": "https://en.wikipedia.org/wiki/Small_penis_rule",
-    "author": "chistev",
-    "date": "2026-07-06",
-    "score": 89,
-    "comments": 27,
-    "id": 48797015,
-    "discussion_url": "https://news.ycombinator.com/item?id=48797015",
-    "description": "Small Penis Rule",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.799764"
+    "fetched_at": "2026-07-06T12:20:19.421194"
   },
   {
     "title": "Starring the Computer",
     "url": "https://www.starringthecomputer.com/computers.html",
     "author": "gitowiec",
-    "date": "2026-07-06",
-    "score": 124,
-    "comments": 31,
+    "date": "2026-07-05",
+    "score": 247,
+    "comments": 55,
     "id": 48796093,
     "discussion_url": "https://news.ycombinator.com/item?id=48796093",
     "description": "Starring the Computer",
@@ -422,49 +371,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800856"
+    "fetched_at": "2026-07-06T12:20:19.420940"
   },
   {
-    "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]",
-    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-    "author": "cenazoic",
+    "title": "The Age of Personalized Hardware Is Coming",
+    "url": "https://geastack.com/blog-the-age-of-personalized-hardware-is-coming",
+    "author": "arbayi",
     "date": "2026-07-02",
-    "score": 170,
-    "comments": 14,
-    "id": 48747733,
-    "discussion_url": "https://news.ycombinator.com/item?id=48747733",
-    "description": "The GNU Emacs Architecture: Unlocking the Core [pdf]",
+    "score": 81,
+    "comments": 58,
+    "id": 48757900,
+    "discussion_url": "https://news.ycombinator.com/item?id=48757900",
+    "description": "The Age of Personalized Hardware Is Coming",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800741"
+    "fetched_at": "2026-07-06T12:20:19.421067"
   },
   {
-    "title": "The Log is the Agent",
-    "url": "https://arxiv.org/abs/2605.21997",
-    "author": "iacguy",
+    "title": "The Private Capture of Public Genius",
+    "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+    "author": "martialg",
     "date": "2026-07-05",
-    "score": 101,
-    "comments": 45,
-    "id": 48790912,
-    "discussion_url": "https://news.ycombinator.com/item?id=48790912",
-    "description": "The Log is the Agent",
+    "score": 122,
+    "comments": 71,
+    "id": 48799178,
+    "discussion_url": "https://news.ycombinator.com/item?id=48799178",
+    "description": "The Private Capture of Public Genius",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.801142"
+    "fetched_at": "2026-07-06T12:20:19.421097"
+  },
+  {
+    "title": "The Sneakerweb",
+    "url": "https://sneakerweb.org/",
+    "author": "GalaxyNova",
+    "date": "2026-07-06",
+    "score": 76,
+    "comments": 21,
+    "id": 48799781,
+    "discussion_url": "https://news.ycombinator.com/item?id=48799781",
+    "description": "The Sneakerweb",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-06T12:20:19.421127"
   },
   {
     "title": "The future of Flipper Zero development",
     "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
     "author": "croes",
-    "date": "2026-07-06",
-    "score": 144,
-    "comments": 23,
+    "date": "2026-07-05",
+    "score": 357,
+    "comments": 152,
     "id": 48796552,
     "discussion_url": "https://news.ycombinator.com/item?id=48796552",
     "description": "The future of Flipper Zero development",
@@ -473,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800477"
+    "fetched_at": "2026-07-06T12:20:19.421089"
   },
   {
     "title": "The great blogging collapse: What happened to 100 successful blogs?",
     "url": "https://danielstanica.com/posts/Great-Blogging-Collapse",
     "author": "thm",
     "date": "2026-07-02",
-    "score": 120,
-    "comments": 94,
+    "score": 195,
+    "comments": 151,
     "id": 48758802,
     "discussion_url": "https://news.ycombinator.com/item?id=48758802",
     "description": "The great blogging collapse: What happened to 100 successful blogs?",
@@ -490,23 +456,57 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800444"
+    "fetched_at": "2026-07-06T12:20:19.421123"
   },
   {
-    "title": "Web-based cryptography is always snake oil",
-    "url": "https://www.devever.net/~hl/webcrypto",
-    "author": "enz",
-    "date": "2026-07-05",
-    "score": 93,
-    "comments": 96,
-    "id": 48792203,
-    "discussion_url": "https://news.ycombinator.com/item?id=48792203",
-    "description": "Web-based cryptography is always snake oil",
+    "title": "When AI Costs More Than the Engineer",
+    "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+    "author": "kiyanwang",
+    "date": "2026-07-06",
+    "score": 108,
+    "comments": 98,
+    "id": 48801493,
+    "discussion_url": "https://news.ycombinator.com/item?id=48801493",
+    "description": "When AI Costs More Than the Engineer",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-06T07:31:08.800511"
+    "fetched_at": "2026-07-06T12:20:19.421131"
+  },
+  {
+    "title": "You need a webring",
+    "url": "https://shub.club/writings/2026/july/you-need-a-webring/",
+    "author": "forthwall",
+    "date": "2026-07-05",
+    "score": 86,
+    "comments": 59,
+    "id": 48796792,
+    "discussion_url": "https://news.ycombinator.com/item?id=48796792",
+    "description": "You need a webring",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-06T12:20:19.421169"
+  },
+  {
+    "title": "Zuckerberg says AI agent development going slower than expected",
+    "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+    "author": "cwwc",
+    "date": "2026-07-02",
+    "score": 270,
+    "comments": 453,
+    "id": 48767058,
+    "discussion_url": "https://news.ycombinator.com/item?id=48767058",
+    "description": "Zuckerberg says AI agent development going slower than expected",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-06T12:20:19.421076"
   }
 ]

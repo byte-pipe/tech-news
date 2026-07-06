@@ -1,5 +1,15 @@
 [
   {
+    "title": "AI Engineer Meets AI Engineer",
+    "author": "Ben Halpern",
+    "date": "2026-06-30",
+    "description": "AI Engineer World's Fair CoverageBen HalpernBen HalpernBen HalpernFollowforDaily ContextJun 30AI Engineer Meets AI Engineer#aie#ai35reactionsComments2...",
+    "tags": "#aie, #ai",
+    "reactions": "35 reactions",
+    "comments": "Comments 2 comments",
+    "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj"
+  },
+  {
     "title": "Coding Agents Play Favorites With Your Dependencies",
     "author": "Adam DuVander",
     "date": "2026-06-29",
@@ -15,7 +25,7 @@
     "date": "2026-07-01",
     "description": "AI Engineer World's Fair CoverageBen HalpernBen HalpernBen HalpernFollowforDaily ContextJul 1From Harness Engineering to Evals: What’s Trending at AI ...",
     "tags": "#aie, #ai, #agents, #security",
-    "reactions": "57 reactions",
+    "reactions": "64 reactions",
     "comments": "Comments 22 comments",
     "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212"
   },
@@ -25,8 +35,8 @@
     "date": "2026-07-02",
     "description": "AI Engineer World's Fair CoverageBen HalpernBen HalpernBen HalpernFollowforDaily ContextJul 2Letting the DEV Community Weigh in on the Topics of AIE#d...",
     "tags": "#discuss, #aie, #ai",
-    "reactions": "58 reactions",
-    "comments": "Comments 7 comments",
+    "reactions": "65 reactions",
+    "comments": "Comments 8 comments",
     "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l"
   },
   {
@@ -35,9 +45,19 @@
     "date": "2026-07-01",
     "description": "From 7 reactions to 20k followersJulien AvezouJulien AvezouJulien AvezouFollowJul 1My First Year at DEV Recap#community#learning#productivity#writing6...",
     "tags": "#community, #learning, #productivity, #writing",
-    "reactions": "67 reactions",
-    "comments": "Comments 35 comments",
+    "reactions": "69 reactions",
+    "comments": "Comments 40 comments",
     "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2"
+  },
+  {
+    "title": "My Next.js 16 Auth Passed Every Test. Five Bugs That Only Showed Up When I Wired It Together.",
+    "author": "Shubhra Pokhariya",
+    "date": "2026-06-30",
+    "description": "Route Handler and browser cookie quirksShubhra PokhariyaShubhra PokhariyaShubhra PokhariyaFollowJun 30My Next.js 16 Auth Passed Every Test. Five Bugs ...",
+    "tags": "#nextjs, #security, #webdev, #javascript",
+    "reactions": "34 reactions",
+    "comments": "Comments 22 comments",
+    "url": "https://dev.to/shubhradev/my-nextjs-16-auth-passed-every-test-five-bugs-that-only-showed-up-when-i-wired-it-together-bgh"
   },
   {
     "title": "My commit message said \"You've hit your session limit\"",
@@ -86,7 +106,7 @@
     "description": "80% of Anthropic's code is now AI-writtenHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowJun 30Reading Anthropic's \"When AI Builds Itself\"...",
     "tags": "#discuss, #ai, #developers, #softwareengineering",
     "reactions": "128 reactions",
-    "comments": "Comments 88 comments",
+    "comments": "Comments 89 comments",
     "url": "https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh"
   },
   {
@@ -116,7 +136,7 @@
     "description": "AI Engineer World's Fair CoverageIshaan SehgalIshaan SehgalIshaan SehgalFollowforDaily ContextJun 30The Log Is the Agent#aie#agents#ai47reactionsComme...",
     "tags": "#aie, #agents, #ai",
     "reactions": "47 reactions",
-    "comments": "Comments 81 comments",
+    "comments": "Comments 84 comments",
     "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096"
   },
   {
@@ -138,26 +158,6 @@
     "reactions": "70 reactions",
     "comments": "Comments 8 comments",
     "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09"
-  },
-  {
-    "title": "What Actually Happens When You Call an LLM API",
-    "author": "Daniel Nwaneri",
-    "date": "2026-06-29",
-    "description": "Physical journey and regional latency taxDaniel NwaneriDaniel NwaneriDaniel NwaneriFollowJun 29What Actually Happens When You Call an LLM API#discuss#...",
-    "tags": "#discuss, #ai, #webdev, #beginners",
-    "reactions": "63 reactions",
-    "comments": "Comments 50 comments",
-    "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6"
-  },
-  {
-    "title": "What's Next for AI?",
-    "author": "Sylwia Laskowska",
-    "date": "2026-06-29",
-    "description": "Restricted access and global inequalitySylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowJun 29What's Next for AI?#ai#llm#webdev194reactionsCommen...",
-    "tags": "#ai, #llm, #webdev",
-    "reactions": "194 reactions",
-    "comments": "Comments 253 comments",
-    "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i"
   },
   {
     "title": "You’re not really that far behind.",

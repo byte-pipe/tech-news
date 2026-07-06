@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "A new trend, smart model routing (3 minute read)",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/",
-    "description": "A new trend, smart model routing (3 minute read)",
+    "title": "39 principles for designing human-AI interaction (22 minute read)",
+    "url": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe",
+    "description": "39 principles for designing human-AI interaction (22 minute read)",
     "tags": [
       "tldr"
     ],
@@ -80,6 +80,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Amazon has deployed enough satellites to launch Leo service later this year (3 minute read)",
+    "url": "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html",
+    "description": "Amazon has deployed enough satellites to launch Leo service later this year (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "Anonymous Researcher Drops 0-day 'Exploitarium' Repo (6 minute read)",
     "url": "https://www.theregister.com/security/2026/06/29/anonymous-researcher-drops-0-day-exploitarium-repo/5263961",
     "description": "Anonymous Researcher Drops 0-day 'Exploitarium' Repo (6 minute read)",
@@ -103,6 +113,16 @@
     "title": "Apple Releases Safari Technology Preview 247 With MCP Server for AI Agent Integration (3 minute read)",
     "url": "https://www.macrumors.com/2026/07/01/apple-releases-safari-technology-preview-247/",
     "description": "Apple Releases Safari Technology Preview 247 With MCP Server for AI Agent Integration (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple plans five new iPhones through 2027, eyes Chinese-made chips amid foldable push (2 minute read)",
+    "url": "https://www.cnbc.com/2026/07/02/apple-foldable-iphone-production-memory-shortage-china-chipmakers-cxmt-ymtc.html",
+    "description": "Apple plans five new iPhones through 2027, eyes Chinese-made chips amid foldable push (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -180,6 +200,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Better Models: Worse Tools (12 minute read)",
+    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "description": "Better Models: Worse Tools (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000 (3 minute read)",
     "url": "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000",
     "description": "Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000 (3 minute read)",
@@ -200,29 +230,19 @@
     "site_name": "tldr"
   },
   {
+    "title": "Bridging the Gap: Blending Structured Data Auditing with Unstructured Policy Intelligence (4 minute read)",
+    "url": "https://blog.gopenai.com/bridging-the-gap-blending-structured-data-auditing-with-unstructured-policy-intelligence-17710e04c8de",
+    "description": "Bridging the Gap: Blending Structured Data Auditing with Unstructured Policy Intelligence (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "Build your AI brain (1 minute read)",
     "url": "https://www.linkedin.com/feed/update/urn:li:activity:7478088539927400448/",
     "description": "Build your AI brain (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Building Indexes on a Moving Target (20 minute read)",
-    "url": "https://hudi.apache.org/blog/2026/06/25/building-indexes-on-a-moving-target/",
-    "description": "Building Indexes on a Moving Target (20 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Building an Intern (22 minute read)",
-    "url": "https://cra.mr/building-an-intern/",
-    "description": "Building an Intern (22 minute read)",
     "tags": [
       "tldr"
     ],
@@ -303,6 +323,16 @@
     "title": "Crypto in the Green After Warsh Comments Push Bitcoin Above $60,000 (3 minute read)",
     "url": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000",
     "description": "Crypto in the Green After Warsh Comments Push Bitcoin Above $60,000 (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Does a URL in a prompt steer an LLM's output toward its content? (22 minute read)",
+    "url": "https://aifoc.us/influencing-model-output-with-urls/",
+    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
     "tags": [
       "tldr"
     ],
@@ -430,6 +460,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "GitBiased (Tool)",
+    "url": "https://gitbiased.com/",
+    "description": "GitBiased (Tool)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "GitHub Stacked PRs (Website)",
     "url": "https://github.github.com/gh-stack/",
     "description": "GitHub Stacked PRs (Website)",
@@ -520,6 +560,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "How an AI Token Travels Through a Data Center (19 minute read)",
+    "url": "https://www.datagravity.dev/p/how-an-ai-token-travels-through-a",
+    "description": "How an AI Token Travels Through a Data Center (19 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "How campaign structure shapes Google Ads performance (7 minute read)",
     "url": "https://searchengineland.com/how-campaign-structure-shapes-google-ads-performance-481332",
     "description": "How campaign structure shapes Google Ads performance (7 minute read)",
@@ -600,16 +650,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing TabFM: A zero-shot foundation model for tabular data (4 minute read)",
-    "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
-    "description": "Introducing TabFM: A zero-shot foundation model for tabular data (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-06",
-    "site_name": "tldr"
-  },
-  {
     "title": "Introducing the Safari MCP server for web developers (10 minute read)",
     "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
     "description": "Introducing the Safari MCP server for web developers (10 minute read)",
@@ -640,16 +680,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped (2 minute read)",
-    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "description": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-06",
-    "site_name": "tldr"
-  },
-  {
     "title": "Meta's Watermelon Matches GPT-5.5 Benchmarks (3 minute read)",
     "url": "https://letsdatascience.com/news/metas-watermelon-matches-gpt-55-benchmarks-76a9460e",
     "description": "Meta's Watermelon Matches GPT-5.5 Benchmarks (3 minute read)",
@@ -670,9 +700,19 @@
     "site_name": "tldr"
   },
   {
+    "title": "Migrating Counter Service storage: Design choices and learnings (11 minute read)",
+    "url": "https://engineering.grab.com/counter-service-storage-migration",
+    "description": "Migrating Counter Service storage: Design choices and learnings (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "Model Y Long Wheelbase (3 minute read)",
     "url": "https://threadreaderapp.com/thread/2072739795810525522.html",
-    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
+    "description": "Model Y Long Wheelbase (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -710,6 +750,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Nvidia taps AI cloud providers to expand compute access for startups (2 minute read)",
+    "url": "https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html",
+    "description": "Nvidia taps AI cloud providers to expand compute access for startups (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "OmniRoute (GitHub Repo)",
     "url": "https://github.com/diegosouzapw/OmniRoute",
     "description": "OmniRoute (GitHub Repo)",
@@ -730,9 +780,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ontology Everywhere! (10 minute read)",
+    "title": "Ontology Everywhere! (8 minute read)",
     "url": "https://handsondata.substack.com/p/ontology-everywhere",
-    "description": "Ontology Everywhere! (10 minute read)",
+    "description": "Ontology Everywhere! (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -910,16 +960,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Skill engineering and the case against one-shot AI design (7 minute read)",
-    "url": "https://www.latent.space/p/skill-engineering-design",
-    "description": "Skill engineering and the case against one-shot AI design (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-06",
-    "site_name": "tldr"
-  },
-  {
     "title": "SoFi enters small-business loan market (2 minute read)",
     "url": "https://www.bankingdive.com/news/sofi-enters-small-business-loan-market/824234/",
     "description": "SoFi enters small-business loan market (2 minute read)",
@@ -980,6 +1020,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The AI Superforecasters Are Here (30 minute read)",
+    "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+    "description": "The AI Superforecasters Are Here (30 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "The Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 (1 minute read)",
     "url": "https://x.com/AnthropicAI/status/2072106151890809341",
     "description": "The Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 (1 minute read)",
@@ -1023,6 +1073,16 @@
     "title": "The Winning Essays for the Big Questions About AI (23 minute read)",
     "url": "https://www.dwarkesh.com/p/blog-prize-winners",
     "description": "The Winning Essays for the Big Questions About AI (23 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The context engineering playbook (8 minute read)",
+    "url": "https://roundup.getdbt.com/p/the-context-engineering-playbook",
+    "description": "The context engineering playbook (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1080,6 +1140,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Time-Series LLMs, Explained with t0-alpha (13 minute read)",
+    "url": "https://towardsdatascience.com/time-series-llms-explained-with-t0-alpha/",
+    "description": "Time-Series LLMs, Explained with t0-alpha (13 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "Top Five Serif Fonts Designers Love in 2026 (2 minute read)",
     "url": "https://pangrampangram.com/blogs/journal/top-5-serif-fonts",
     "description": "Top Five Serif Fonts Designers Love in 2026 (2 minute read)",
@@ -1113,6 +1183,26 @@
     "title": "Understanding is the new bottleneck (11 minute read)",
     "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
     "description": "Understanding is the new bottleneck (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Valmis (GitHub Repo)",
+    "url": "https://github.com/valmishq/valmis",
+    "description": "Valmis (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Vercel Took a 10-Person SDR Team Down to 1. The Whole Thing Costs $5,000 a Year (8 minute read)",
+    "url": "https://www.saastr.com/vercel-took-a-10-person-sdr-team-down-to-1-the-whole-thing-costs-5000-a-year-with-vercels-coo-jeanne-dewitt-grosser/",
+    "description": "Vercel Took a 10-Person SDR Team Down to 1. The Whole Thing Costs $5,000 a Year (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1183,26 +1273,6 @@
     "title": "World Cup chargebacks coming (5 minute read)",
     "url": "https://www.paymentsdive.com/news/world-cup-chargebacks-coming/823962/",
     "description": "World Cup chargebacks coming (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "You're missing the point; this is your real value in tech companies (9 minute read)",
-    "url": "https://uxdesign.cc/youre-missing-the-point-this-is-your-real-value-in-tech-companies-f56d6d96b54b",
-    "description": "You're missing the point; this is your real value in tech companies (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Your AI isn't underperforming. Your data foundation is (4 minute read)",
-    "url": "https://www.elastic.co/blog/ai-cost-research-tokenmaxxing",
-    "description": "Your AI isn't underperforming. Your data foundation is (4 minute read)",
     "tags": [
       "tldr"
     ],
