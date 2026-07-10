@@ -1,62 +1,28 @@
 [
   {
-    "title": "A possible future for Damn Interesting",
-    "url": "https://www.damninteresting.com/a-possible-future/",
-    "author": "mzur",
-    "date": "2026-07-09",
-    "score": 291,
-    "comments": 40,
-    "id": 48847511,
-    "discussion_url": "https://news.ycombinator.com/item?id=48847511",
-    "description": "A possible future for Damn Interesting",
+    "title": "A Love Letter to Flashcards",
+    "url": "https://lesleylai.info/en/flashcards/",
+    "author": "surprisetalk",
+    "date": "2026-07-10",
+    "score": 94,
+    "comments": 52,
+    "id": 48861319,
+    "discussion_url": "https://news.ycombinator.com/item?id=48861319",
+    "description": "A Love Letter to Flashcards",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779344"
-  },
-  {
-    "title": "A road to Lisp: Why Lisp",
-    "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-    "author": "silcoon",
-    "date": "2026-07-09",
-    "score": 251,
-    "comments": 197,
-    "id": 48845209,
-    "discussion_url": "https://news.ycombinator.com/item?id=48845209",
-    "description": "A road to Lisp: Why Lisp",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779348"
-  },
-  {
-    "title": "AI content is everywhere on social media, especially LinkedIn",
-    "url": "https://www.pangram.com/blog/ai-in-your-feed",
-    "author": "mukmuk",
-    "date": "2026-07-09",
-    "score": 220,
-    "comments": 200,
-    "id": 48847940,
-    "discussion_url": "https://news.ycombinator.com/item?id=48847940",
-    "description": "AI content is everywhere on social media, especially LinkedIn",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779431"
+    "fetched_at": "2026-07-10T19:32:55.571000"
   },
   {
     "title": "AI-generated videos to maximally drive a target brain region",
     "url": "https://nevo-project.epfl.ch/",
     "author": "smusamashah",
     "date": "2026-07-10",
-    "score": 101,
-    "comments": 87,
+    "score": 243,
+    "comments": 211,
     "id": 48856904,
     "discussion_url": "https://news.ycombinator.com/item?id=48856904",
     "description": "AI-generated videos to maximally drive a target brain region",
@@ -65,15 +31,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779336"
+    "fetched_at": "2026-07-10T19:32:55.571105"
+  },
+  {
+    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+    "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+    "author": "tosh",
+    "date": "2026-07-06",
+    "score": 182,
+    "comments": 264,
+    "id": 48805598,
+    "discussion_url": "https://news.ycombinator.com/item?id=48805598",
+    "description": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-10T19:32:55.571084"
   },
   {
     "title": "Building a real-time AI tutor for 5-year-olds",
     "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
     "author": "catalinvoss",
     "date": "2026-07-09",
-    "score": 96,
-    "comments": 185,
+    "score": 134,
+    "comments": 349,
     "id": 48852199,
     "discussion_url": "https://news.ycombinator.com/item?id=48852199",
     "description": "Building a real-time AI tutor for 5-year-olds",
@@ -82,15 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779302"
+    "fetched_at": "2026-07-10T19:32:55.571145"
   },
   {
     "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
     "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
     "author": "PotatoNinja",
     "date": "2026-07-06",
-    "score": 352,
-    "comments": 226,
+    "score": 373,
+    "comments": 244,
     "id": 48803004,
     "discussion_url": "https://news.ycombinator.com/item?id=48803004",
     "description": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
@@ -99,66 +82,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779428"
+    "fetched_at": "2026-07-10T19:32:55.571194"
   },
   {
-    "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-    "url": "https://nexte.st/",
-    "author": "nateb2022",
-    "date": "2026-07-06",
-    "score": 167,
-    "comments": 49,
-    "id": 48800596,
-    "discussion_url": "https://news.ycombinator.com/item?id=48800596",
-    "description": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+    "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+    "url": "https://ec.europa.eu/commission/presscorner/home/en",
+    "author": "jeroenhd",
+    "date": "2026-07-10",
+    "score": 219,
+    "comments": 149,
+    "id": 48858292,
+    "discussion_url": "https://news.ycombinator.com/item?id=48858292",
+    "description": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779510"
-  },
-  {
-    "title": "ChatGPT Work",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-    "author": "Tiberium",
-    "date": "2026-07-09",
-    "score": 341,
-    "comments": 174,
-    "id": 48849059,
-    "discussion_url": "https://news.ycombinator.com/item?id=48849059",
-    "description": "ChatGPT Work",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779458"
-  },
-  {
-    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "author": "speerer",
-    "date": "2026-07-08",
-    "score": 1468,
-    "comments": 229,
-    "id": 48829312,
-    "discussion_url": "https://news.ycombinator.com/item?id=48829312",
-    "description": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779506"
+    "fetched_at": "2026-07-10T19:32:55.571077"
   },
   {
     "title": "EU Parliament greenlights Chat Control 1.0",
     "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
     "author": "rapnie",
     "date": "2026-07-09",
-    "score": 1449,
-    "comments": 702,
+    "score": 1572,
+    "comments": 796,
     "id": 48843923,
     "discussion_url": "https://news.ycombinator.com/item?id=48843923",
     "description": "EU Parliament greenlights Chat Control 1.0",
@@ -167,32 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779313"
-  },
-  {
-    "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-    "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-    "author": "adamkurkiewicz",
-    "date": "2026-07-09",
-    "score": 208,
-    "comments": 116,
-    "id": 48850414,
-    "discussion_url": "https://news.ycombinator.com/item?id=48850414",
-    "description": "GLM 5.2 is nearly as accurate as a human book keeper",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779439"
+    "fetched_at": "2026-07-10T19:32:55.571108"
   },
   {
     "title": "GPT-5.6",
     "url": "https://openai.com/index/gpt-5-6/",
     "author": "logickkk1",
     "date": "2026-07-09",
-    "score": 1348,
-    "comments": 939,
+    "score": 1501,
+    "comments": 1061,
     "id": 48849066,
     "discussion_url": "https://news.ycombinator.com/item?id=48849066",
     "description": "GPT-5.6",
@@ -201,32 +133,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779287"
+    "fetched_at": "2026-07-10T19:32:55.571098"
   },
   {
-    "title": "Girls just wanna have fast MPMC queues with bounded waiting",
-    "url": "https://nahla.dev/blog/waitfree_queue/",
-    "author": "EvgeniyZh",
-    "date": "2026-07-06",
-    "score": 180,
-    "comments": 34,
-    "id": 48809574,
-    "discussion_url": "https://news.ycombinator.com/item?id=48809574",
-    "description": "Girls just wanna have fast MPMC queues with bounded waiting",
+    "title": "Good Tools Are Invisible",
+    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "author": "theanonymousone",
+    "date": "2026-07-10",
+    "score": 242,
+    "comments": 128,
+    "id": 48858121,
+    "discussion_url": "https://news.ycombinator.com/item?id=48858121",
+    "description": "Good Tools Are Invisible",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779401"
+    "fetched_at": "2026-07-10T19:32:55.571036"
   },
   {
     "title": "Hy3",
     "url": "https://hy.tencent.com/research/hy3",
     "author": "andai",
     "date": "2026-07-09",
-    "score": 502,
-    "comments": 103,
+    "score": 541,
+    "comments": 113,
     "id": 48847552,
     "discussion_url": "https://news.ycombinator.com/item?id=48847552",
     "description": "Hy3",
@@ -235,32 +167,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779340"
+    "fetched_at": "2026-07-10T19:32:55.571198"
   },
   {
-    "title": "I Built the Only 2026 WWII Jeep",
-    "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
-    "author": "martey",
-    "date": "2026-07-07",
-    "score": 172,
-    "comments": 58,
-    "id": 48814023,
-    "discussion_url": "https://news.ycombinator.com/item?id=48814023",
-    "description": "I Built the Only 2026 WWII Jeep",
+    "title": "In Emacs, Everything Looks Like a Service",
+    "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+    "author": "kickingvegas",
+    "date": "2026-07-10",
+    "score": 146,
+    "comments": 86,
+    "id": 48857230,
+    "discussion_url": "https://news.ycombinator.com/item?id=48857230",
+    "description": "In Emacs, Everything Looks Like a Service",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779484"
+    "fetched_at": "2026-07-10T19:32:55.571055"
   },
   {
     "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
     "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
     "author": "veqq",
     "date": "2026-07-09",
-    "score": 276,
-    "comments": 132,
+    "score": 367,
+    "comments": 203,
     "id": 48849292,
     "discussion_url": "https://news.ycombinator.com/item?id=48849292",
     "description": "Interview with Mitchell Hashimoto about Ghostty and Zig",
@@ -269,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779352"
+    "fetched_at": "2026-07-10T19:32:55.571094"
   },
   {
     "title": "John Deere owners will get the right to repair equipment under FTC settlement",
     "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
     "author": "djoldman",
     "date": "2026-07-08",
-    "score": 1333,
-    "comments": 285,
+    "score": 1357,
+    "comments": 294,
     "id": 48838876,
     "discussion_url": "https://news.ycombinator.com/item?id=48838876",
     "description": "John Deere owners will get the right to repair equipment under FTC settlement",
@@ -286,15 +218,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779389"
+    "fetched_at": "2026-07-10T19:32:55.571134"
+  },
+  {
+    "title": "Late Bronze Age Collapse",
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "author": "dmonay",
+    "date": "2026-07-10",
+    "score": 254,
+    "comments": 164,
+    "id": 48858737,
+    "discussion_url": "https://news.ycombinator.com/item?id=48858737",
+    "description": "Late Bronze Age Collapse",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-10T19:32:55.570996"
   },
   {
     "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
     "url": "https://www.context.dev",
     "author": "TheYahiaBakour",
     "date": "2026-07-09",
-    "score": 98,
-    "comments": 70,
+    "score": 109,
+    "comments": 82,
     "id": 48847562,
     "discussion_url": "https://news.ycombinator.com/item?id=48847562",
     "description": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
@@ -303,83 +252,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779373"
+    "fetched_at": "2026-07-10T19:32:55.571152"
   },
   {
-    "title": "Meta reuses old RAM in new servers with custom bridge chip",
-    "url": "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483",
-    "author": "ihsw",
-    "date": "2026-07-03",
-    "score": 316,
-    "comments": 224,
-    "id": 48778956,
-    "discussion_url": "https://news.ycombinator.com/item?id=48778956",
-    "description": "Meta reuses old RAM in new servers with custom bridge chip",
+    "title": "Lost city discovered beneath Egypt's desert with ancient church",
+    "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+    "author": "Bender",
+    "date": "2026-07-06",
+    "score": 103,
+    "comments": 41,
+    "id": 48803707,
+    "discussion_url": "https://news.ycombinator.com/item?id=48803707",
+    "description": "Lost city discovered beneath Egypt's desert with ancient church",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779465"
+    "fetched_at": "2026-07-10T19:32:55.571066"
   },
   {
-    "title": "Muse Spark 1.1",
-    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-    "author": "ot",
-    "date": "2026-07-09",
-    "score": 384,
-    "comments": 190,
-    "id": 48846184,
-    "discussion_url": "https://news.ycombinator.com/item?id=48846184",
-    "description": "Muse Spark 1.1",
+    "title": "My Story of 3D Realms / Apogee Part I (2020)",
+    "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
+    "author": "Michelangelo11",
+    "date": "2026-07-02",
+    "score": 93,
+    "comments": 9,
+    "id": 48757291,
+    "discussion_url": "https://news.ycombinator.com/item?id=48757291",
+    "description": "My Story of 3D Realms / Apogee Part I (2020)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779365"
-  },
-  {
-    "title": "No leap second will be introduced at the end of December 2026",
-    "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-    "author": "ChrisArchitect",
-    "date": "2026-07-09",
-    "score": 291,
-    "comments": 225,
-    "id": 48846281,
-    "discussion_url": "https://news.ycombinator.com/item?id=48846281",
-    "description": "No leap second will be introduced at the end of December 2026",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779356"
-  },
-  {
-    "title": "Opinionated and easy Pi.dev configuration",
-    "url": "https://lazypi.org/",
-    "author": "lwhsiao",
-    "date": "2026-07-09",
-    "score": 135,
-    "comments": 69,
-    "id": 48847407,
-    "discussion_url": "https://news.ycombinator.com/item?id=48847407",
-    "description": "Opinionated and easy Pi.dev configuration",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779424"
+    "fetched_at": "2026-07-10T19:32:55.571187"
   },
   {
     "title": "Parental device use and the adolescent-caregiver attachment bond",
     "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
     "author": "hbcondo714",
     "date": "2026-07-10",
-    "score": 141,
-    "comments": 115,
+    "score": 164,
+    "comments": 148,
     "id": 48854247,
     "discussion_url": "https://news.ycombinator.com/item?id=48854247",
     "description": "Parental device use and the adolescent-caregiver attachment bond",
@@ -388,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779360"
+    "fetched_at": "2026-07-10T19:32:55.571155"
   },
   {
     "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
     "url": "https://github.com/malisper/pgrust",
     "author": "SweetSoftPillow",
     "date": "2026-07-09",
-    "score": 714,
-    "comments": 601,
+    "score": 776,
+    "comments": 680,
     "id": 48841676,
     "discussion_url": "https://news.ycombinator.com/item?id=48841676",
     "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
@@ -405,15 +320,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779318"
+    "fetched_at": "2026-07-10T19:32:55.571159"
+  },
+  {
+    "title": "QuadRF can spot drones and see WiFi through my wall",
+    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+    "author": "speckx",
+    "date": "2026-07-10",
+    "score": 246,
+    "comments": 87,
+    "id": 48861717,
+    "discussion_url": "https://news.ycombinator.com/item?id=48861717",
+    "description": "QuadRF can spot drones and see WiFi through my wall",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-10T19:32:55.570991"
   },
   {
     "title": "Show HN: 18 Words",
     "url": "https://18words.com/",
     "author": "pompomsheep",
     "date": "2026-07-09",
-    "score": 1021,
-    "comments": 329,
+    "score": 1076,
+    "comments": 342,
     "id": 48845049,
     "discussion_url": "https://news.ycombinator.com/item?id=48845049",
     "description": "Show HN: 18 Words",
@@ -422,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779282"
+    "fetched_at": "2026-07-10T19:32:55.571148"
   },
   {
     "title": "Show HN: Getting GLM 5.2 running on my slow computer",
     "url": "https://github.com/JustVugg/colibri",
     "author": "vforno",
     "date": "2026-07-09",
-    "score": 731,
-    "comments": 179,
+    "score": 819,
+    "comments": 201,
     "id": 48842459,
     "discussion_url": "https://news.ycombinator.com/item?id=48842459",
     "description": "Show HN: Getting GLM 5.2 running on my slow computer",
@@ -439,15 +371,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779291"
+    "fetched_at": "2026-07-10T19:32:55.571116"
+  },
+  {
+    "title": "SimPolitics: America’s quest to solve politics with computers",
+    "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
+    "author": "mckelveyf",
+    "date": "2026-07-09",
+    "score": 101,
+    "comments": 39,
+    "id": 48846332,
+    "discussion_url": "https://news.ycombinator.com/item?id=48846332",
+    "description": "SimPolitics: America’s quest to solve politics with computers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-10T19:32:55.571191"
+  },
+  {
+    "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+    "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+    "author": "simonebrunozzi",
+    "date": "2026-07-10",
+    "score": 88,
+    "comments": 56,
+    "id": 48862252,
+    "discussion_url": "https://news.ycombinator.com/item?id=48862252",
+    "description": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-10T19:32:55.571023"
+  },
+  {
+    "title": "Successful Companies Go Blind",
+    "url": "https://ianreppel.org/how-successful-companies-go-blind/",
+    "author": "speckx",
+    "date": "2026-07-10",
+    "score": 138,
+    "comments": 52,
+    "id": 48859678,
+    "discussion_url": "https://news.ycombinator.com/item?id=48859678",
+    "description": "Successful Companies Go Blind",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-10T19:32:55.571012"
   },
   {
     "title": "TLS certificates for internal services done right",
     "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
     "author": "mrl5",
     "date": "2026-07-09",
-    "score": 166,
-    "comments": 115,
+    "score": 175,
+    "comments": 136,
     "id": 48846995,
     "discussion_url": "https://news.ycombinator.com/item?id=48846995",
     "description": "TLS certificates for internal services done right",
@@ -456,32 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779396"
+    "fetched_at": "2026-07-10T19:32:55.571162"
   },
   {
-    "title": "The glass backbone: Why the Army's logistics will break in the next war",
-    "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-    "author": "baud147258",
-    "date": "2026-07-09",
-    "score": 393,
-    "comments": 507,
-    "id": 48845442,
-    "discussion_url": "https://news.ycombinator.com/item?id=48845442",
-    "description": "The glass backbone: Why the Army's logistics will break in the next war",
+    "title": "The mathematical secrets of Barcelona's Sagrada Familia",
+    "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
+    "author": "Gedxx",
+    "date": "2026-07-03",
+    "score": 100,
+    "comments": 27,
+    "id": 48772528,
+    "discussion_url": "https://news.ycombinator.com/item?id=48772528",
+    "description": "The mathematical secrets of Barcelona's Sagrada Familia",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779276"
+    "fetched_at": "2026-07-10T19:32:55.571040"
   },
   {
     "title": "Train sim created by just one person is being called the best ever made",
     "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
     "author": "oumua_don17",
     "date": "2026-07-05",
-    "score": 661,
-    "comments": 249,
+    "score": 805,
+    "comments": 333,
     "id": 48792383,
     "discussion_url": "https://news.ycombinator.com/item?id=48792383",
     "description": "Train sim created by just one person is being called the best ever made",
@@ -490,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779297"
+    "fetched_at": "2026-07-10T19:32:55.571141"
   },
   {
     "title": "Why American ambulance rides are so expensive",
     "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
     "author": "jyunwai",
     "date": "2026-07-09",
-    "score": 240,
-    "comments": 334,
+    "score": 294,
+    "comments": 422,
     "id": 48853091,
     "discussion_url": "https://news.ycombinator.com/item?id=48853091",
     "description": "Why American ambulance rides are so expensive",
@@ -507,6 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-10T12:02:04.779393"
+    "fetched_at": "2026-07-10T19:32:55.571176"
+  },
+  {
+    "title": "Write code like a human will maintain it",
+    "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+    "author": "ScottWRobinson",
+    "date": "2026-07-10",
+    "score": 273,
+    "comments": 231,
+    "id": 48859701,
+    "discussion_url": "https://news.ycombinator.com/item?id=48859701",
+    "description": "Write code like a human will maintain it",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-10T19:32:55.571059"
   }
 ]

@@ -20,16 +20,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "46 thoughts on the near future (8 minute read)",
-    "url": "https://x.com/bayeslord/status/2072056960430789032",
-    "description": "46 thoughts on the near future (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-10",
-    "site_name": "tldr"
-  },
-  {
     "title": "6 security settings every GitHub maintainer should enable this week (6 minute read)",
     "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
     "description": "6 security settings every GitHub maintainer should enable this week (6 minute read)",
@@ -43,6 +33,16 @@
     "title": "A Field Guide to Fable: Finding Your Unknowns (12 minute read)",
     "url": "https://x.com/trq212/status/2073100352921215386",
     "description": "A Field Guide to Fable: Finding Your Unknowns (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A Script for Mark Zuckerberg (9 minute read)",
+    "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg",
+    "description": "A Script for Mark Zuckerberg (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -170,9 +170,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Announcing TypeScript 7.0 (25 minute read)",
+    "title": "Announcing TypeScript 7.0 (23 minute read)",
     "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-    "description": "Announcing TypeScript 7.0 (25 minute read)",
+    "description": "Announcing TypeScript 7.0 (23 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple Exploring Ways to Run Much Larger AI Models Directly on iPhones (2 minute read)",
+    "url": "https://www.macrumors.com/2026/07/09/apple-prismml-larger-on-device-ai-models/",
+    "description": "Apple Exploring Ways to Run Much Larger AI Models Directly on iPhones (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -233,16 +243,6 @@
     "title": "Building the AI Retrieval Infrastructure Behind 20 Billion+ Vectors at HubSpot (14 minute read)",
     "url": "https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot",
     "description": "Building the AI Retrieval Infrastructure Behind 20 Billion+ Vectors at HubSpot (14 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-10",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Career advice in the age of AI (5 minute read)",
-    "url": "https://x.com/philhchen/status/2072793818945167475",
-    "description": "Career advice in the age of AI (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -330,6 +330,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Data is your only moat (6 minute read)",
+    "url": "https://frontierai.substack.com/p/data-is-your-only-moat-884",
+    "description": "Data is your only moat (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
     "title": "Dormant $1.9M Bitcoin Tied to New York Lawsuit Moves After Nearly 15 Years (4 minute read)",
     "url": "https://cointelegraph.com/news/dormant-bitcoin-new-york-lawsuit-moved-15-years",
     "description": "Dormant $1.9M Bitcoin Tied to New York Lawsuit Moves After Nearly 15 Years (4 minute read)",
@@ -343,16 +353,6 @@
     "title": "Dotenvx (GitHub Repo)",
     "url": "https://github.com/dotenvx/dotenvx",
     "description": "Dotenvx (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-10",
-    "site_name": "tldr"
-  },
-  {
-    "title": "DuckDuckGo Browser Can Now Block Video Ads, Including YouTube's (1 minute read)",
-    "url": "https://www.engadget.com/2209932/duckduckgo-browser-can-now-block-video-ads-including-youtubes/",
-    "description": "DuckDuckGo Browser Can Now Block Video Ads, Including YouTube's (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -590,9 +590,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How To Thrive At Work When You Think Too Much (12 minute read)",
-    "url": "https://cutlefish.substack.com/p/tbm-429-how-to-thrive-at-work-when",
-    "description": "How To Thrive At Work When You Think Too Much (12 minute read)",
+    "title": "How GitHub gave every repository a durable owner (9 minute read)",
+    "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+    "description": "How GitHub gave every repository a durable owner (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -630,9 +630,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "How to Prioritize Your Relationship-building Tasks (2 minute read)",
+    "url": "https://news.theuncommonexecutive.com/p/how-to-prioritize-your-relationship",
+    "description": "How to Prioritize Your Relationship-building Tasks (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
     "title": "How to Scale a Neobank from 0 to 60,000 Customers (3 minute read)",
     "url": "https://threadreaderapp.com/thread/2074855389913288840.html",
     "description": "How to Scale a Neobank from 0 to 60,000 Customers (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How to drive more impact without ever talking about nonsense numbers (3 minute read)",
+    "url": "https://dpereira.substack.com/p/why-estimations-are-irrelevant",
+    "description": "How to drive more impact without ever talking about nonsense numbers (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -663,6 +683,16 @@
     "title": "HubSpot reverses course after customers reject data sharing (4 minute read)",
     "url": "https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/",
     "description": "HubSpot reverses course after customers reject data sharing (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs (7 minute read)",
+    "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+    "description": "Humanoid robots controlled by surgeons did world-first operation on live pigs (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -790,16 +820,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Miami-based City Labs achieves a first for commercial nuclear power in space (4 minute read)",
-    "url": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
-    "description": "Miami-based City Labs achieves a first for commercial nuclear power in space (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-10",
-    "site_name": "tldr"
-  },
-  {
     "title": "Microsoft to enable Windows settings backup by default for orgs (4 minute read)",
     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
     "description": "Microsoft to enable Windows settings backup by default for orgs (4 minute read)",
@@ -840,26 +860,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Netflix invented binge-watching. Now it may have outgrown it (5 minute read)",
-    "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
-    "description": "Netflix invented binge-watching. Now it may have outgrown it (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-10",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Never mind the prompts, here's the thinking (15 minute read)",
-    "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f",
-    "description": "Never mind the prompts, here's the thinking (15 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-10",
-    "site_name": "tldr"
-  },
-  {
     "title": "Not everything should cost a token: the case for deterministic AI (9 minute read)",
     "url": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
     "description": "Not everything should cost a token: the case for deterministic AI (9 minute read)",
@@ -890,9 +890,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Own the Outer Loop (25 minute read)",
-    "url": "https://x.com/addyosmani/status/2074927530482835916",
-    "description": "Own the Outer Loop (25 minute read)",
+    "title": "OpenAI launches GPT-5.6 Sol, Terra, and Luna on apps and API (3 minute read)",
+    "url": "https://www.testingcatalog.com/openai-launches-gpt-5-6-sol-terra-and-luna-on-apps-and-api/",
+    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
     "tags": [
       "tldr"
     ],
@@ -933,6 +933,16 @@
     "title": "Planning-with-files (GitHub Repo)",
     "url": "https://github.com/OthmanAdi/planning-with-files",
     "description": "Planning-with-files (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Progressive Disclosure: From Training Wheels to Week-Long AI Agents (12 minute read)",
+    "url": "https://jakobnielsenphd.substack.com/p/progressive-disclosure",
+    "description": "Progressive Disclosure: From Training Wheels to Week-Long AI Agents (12 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1003,6 +1013,26 @@
     "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model' (3 minute read)",
     "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
     "description": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model' (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Stop being the code review bottleneck (8 minute read)",
+    "url": "https://newsletter.posthog.com/p/code-review-tips",
+    "description": "Stop being the code review bottleneck (8 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50% (5 minute read)",
+    "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "description": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50% (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1100,6 +1130,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The People Who Will Thrive in the AI Age (12 minute read)",
+    "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/?gift=bmvUiu0ra57xGI0zOa4kGmINu--qpr8lFEbQYPTWWTQ&amp%3Butm_source=copy-link&amp%3Butm_medium=social&amp%3Butm_campaign=share",
+    "description": "The People Who Will Thrive in the AI Age (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
     "title": "The People Who Will Thrive in the AI Age (22 minute read)",
     "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
     "description": "The People Who Will Thrive in the AI Age (22 minute read)",
@@ -1123,6 +1163,26 @@
     "title": "The Robots Are Here (32 minute read)",
     "url": "https://www.chinatalk.media/p/the-robots-are-here",
     "description": "The Robots Are Here (32 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Salience of Data (12 minute read)",
+    "url": "https://www.mbi-deepdives.com/data/",
+    "description": "The Salience of Data (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Spec Ceiling: Why AI Coding Speed Moves the Bottleneck to Product Discovery (11 minute read)",
+    "url": "https://magnus919.com/2026/07/the-spec-ceiling-why-ai-coding-speed-moves-the-bottleneck-to-product-discovery/",
+    "description": "The Spec Ceiling: Why AI Coding Speed Moves the Bottleneck to Product Discovery (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1300,9 +1360,39 @@
     "site_name": "tldr"
   },
   {
+    "title": "Want people to use your AI features? These 5 teardowns show you how (4 minute read)",
+    "url": "https://kristenberman.substack.com/p/want-people-to-use-your-ai-features",
+    "description": "Want people to use your AI features? These 5 teardowns show you how (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Ways to think about token pricing (15 minute read)",
+    "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+    "description": "Ways to think about token pricing (15 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
     "title": "We Accidentally Won the Gambling War (5 minute read)",
     "url": "https://x.com/aaronjmars/status/2074618934205227220",
     "description": "We Accidentally Won the Gambling War (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "What Product Managers Learn Between the Frameworks (4 minute read)",
+    "url": "https://amycmitchell.substack.com/p/product-building-lessons",
+    "description": "What Product Managers Learn Between the Frameworks (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1482,7 +1572,7 @@
   {
     "title": "You're not ambitious enough with Claude (11 minute read)",
     "url": "https://x.com/christinexzhu/status/2074847461588267466",
-    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
+    "description": "You're not ambitious enough with Claude (11 minute read)",
     "tags": [
       "tldr"
     ],
