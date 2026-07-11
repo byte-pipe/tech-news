@@ -4,8 +4,8 @@
     "url": "https://lesleylai.info/en/flashcards/",
     "author": "surprisetalk",
     "date": "2026-07-10",
-    "score": 156,
-    "comments": 98,
+    "score": 182,
+    "comments": 101,
     "id": 48861319,
     "discussion_url": "https://news.ycombinator.com/item?id=48861319",
     "description": "A love letter to flashcards",
@@ -14,15 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990958"
+    "fetched_at": "2026-07-11T19:27:24.726336"
+  },
+  {
+    "title": "AI 2040 and the cult of intelligence",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+    "author": "rvz",
+    "date": "2026-07-11",
+    "score": 109,
+    "comments": 99,
+    "id": 48874200,
+    "discussion_url": "https://news.ycombinator.com/item?id=48874200",
+    "description": "AI 2040 and the cult of intelligence",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-11T19:27:24.726207"
   },
   {
     "title": "AI 2040: Plan A",
     "url": "https://ai-2040.com/",
     "author": "kschaul",
     "date": "2026-07-09",
-    "score": 287,
-    "comments": 288,
+    "score": 367,
+    "comments": 472,
     "id": 48848425,
     "discussion_url": "https://news.ycombinator.com/item?id=48848425",
     "description": "AI 2040: Plan A",
@@ -31,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990967"
+    "fetched_at": "2026-07-11T19:27:24.726249"
   },
   {
     "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
     "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
     "author": "aviaviavi",
     "date": "2026-07-10",
-    "score": 150,
-    "comments": 190,
+    "score": 212,
+    "comments": 259,
     "id": 48859673,
     "discussion_url": "https://news.ycombinator.com/item?id=48859673",
     "description": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
@@ -48,15 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.991013"
+    "fetched_at": "2026-07-11T19:27:24.726295"
   },
   {
     "title": "Alternate clock designs and time systems",
     "url": "https://serialc.github.io/altClocks/",
     "author": "ethanpil",
     "date": "2026-07-06",
-    "score": 153,
-    "comments": 83,
+    "score": 190,
+    "comments": 108,
     "id": 48810543,
     "discussion_url": "https://news.ycombinator.com/item?id=48810543",
     "description": "Alternate clock designs and time systems",
@@ -65,15 +82,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.991002"
+    "fetched_at": "2026-07-11T19:27:24.726318"
+  },
+  {
+    "title": "An iroh powered smart fan",
+    "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+    "author": "surprisetalk",
+    "date": "2026-07-07",
+    "score": 157,
+    "comments": 53,
+    "id": 48817539,
+    "discussion_url": "https://news.ycombinator.com/item?id=48817539",
+    "description": "An iroh powered smart fan",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-11T19:27:24.726203"
   },
   {
     "title": "An update on residential proxies and the scraper situation",
     "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
     "author": "chmaynard",
     "date": "2026-07-10",
-    "score": 210,
-    "comments": 213,
+    "score": 302,
+    "comments": 303,
     "id": 48864252,
     "discussion_url": "https://news.ycombinator.com/item?id=48864252",
     "description": "An update on residential proxies and the scraper situation",
@@ -82,32 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990942"
-  },
-  {
-    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-    "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-    "author": "tosh",
-    "date": "2026-07-06",
-    "score": 203,
-    "comments": 293,
-    "id": 48805598,
-    "discussion_url": "https://news.ycombinator.com/item?id=48805598",
-    "description": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.991060"
+    "fetched_at": "2026-07-11T19:27:24.726225"
   },
   {
     "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
     "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
     "author": "stock_toaster",
     "date": "2026-07-10",
-    "score": 1132,
-    "comments": 595,
+    "score": 1482,
+    "comments": 825,
     "id": 48865019,
     "discussion_url": "https://news.ycombinator.com/item?id=48865019",
     "description": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
@@ -116,15 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990898"
+    "fetched_at": "2026-07-11T19:27:24.726106"
   },
   {
     "title": "Combustion engine web-based simulator",
     "url": "https://combustionlab.net",
     "author": "mytuny",
     "date": "2026-07-05",
-    "score": 179,
-    "comments": 68,
+    "score": 226,
+    "comments": 76,
     "id": 48795900,
     "discussion_url": "https://news.ycombinator.com/item?id=48795900",
     "description": "Combustion engine web-based simulator",
@@ -133,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990884"
+    "fetched_at": "2026-07-11T19:27:24.726299"
   },
   {
     "title": "Computation as a universal and fundamental concept",
     "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
     "author": "simonpure",
     "date": "2026-07-10",
-    "score": 135,
-    "comments": 95,
+    "score": 160,
+    "comments": 133,
     "id": 48861213,
     "discussion_url": "https://news.ycombinator.com/item?id=48861213",
     "description": "Computation as a universal and fundamental concept",
@@ -150,32 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990971"
-  },
-  {
-    "title": "EU Parliament greenlights Chat Control 1.0",
-    "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-    "author": "rapnie",
-    "date": "2026-07-09",
-    "score": 1596,
-    "comments": 826,
-    "id": 48843923,
-    "discussion_url": "https://news.ycombinator.com/item?id=48843923",
-    "description": "EU Parliament greenlights Chat Control 1.0",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.991047"
+    "fetched_at": "2026-07-11T19:27:24.726322"
   },
   {
     "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
     "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
     "author": "hhs",
     "date": "2026-07-10",
-    "score": 266,
-    "comments": 100,
+    "score": 362,
+    "comments": 161,
     "id": 48866134,
     "discussion_url": "https://news.ycombinator.com/item?id=48866134",
     "description": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
@@ -184,32 +184,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990875"
+    "fetched_at": "2026-07-11T19:27:24.726095"
   },
   {
-    "title": "GPT-5.6",
-    "url": "https://openai.com/index/gpt-5-6/",
-    "author": "logickkk1",
-    "date": "2026-07-09",
-    "score": 1524,
-    "comments": 1086,
-    "id": 48849066,
-    "discussion_url": "https://news.ycombinator.com/item?id=48849066",
-    "description": "GPT-5.6",
+    "title": "FCC approves test of space mirror to light night sky",
+    "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+    "author": "reaperducer",
+    "date": "2026-07-11",
+    "score": 105,
+    "comments": 120,
+    "id": 48871367,
+    "discussion_url": "https://news.ycombinator.com/item?id=48871367",
+    "description": "FCC approves test of space mirror to light night sky",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.991034"
+    "fetched_at": "2026-07-11T19:27:24.726261"
+  },
+  {
+    "title": "Female US rower completes historic solo journey from California to Hawaii",
+    "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+    "author": "speckx",
+    "date": "2026-07-11",
+    "score": 102,
+    "comments": 28,
+    "id": 48873692,
+    "discussion_url": "https://news.ycombinator.com/item?id=48873692",
+    "description": "Female US rower completes historic solo journey from California to Hawaii",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-11T19:27:24.726171"
   },
   {
     "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
     "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
     "author": "scrlk",
     "date": "2026-07-10",
-    "score": 466,
-    "comments": 376,
+    "score": 504,
+    "comments": 418,
     "id": 48863490,
     "discussion_url": "https://news.ycombinator.com/item?id=48863490",
     "description": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
@@ -218,15 +235,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990948"
+    "fetched_at": "2026-07-11T19:27:24.726332"
+  },
+  {
+    "title": "Ghost Font: A font that humans can read but AI cannot",
+    "url": "https://www.mixfont.com/ghost-font",
+    "author": "justswim",
+    "date": "2026-07-11",
+    "score": 159,
+    "comments": 121,
+    "id": 48870381,
+    "discussion_url": "https://news.ycombinator.com/item?id=48870381",
+    "description": "Ghost Font: A font that humans can read but AI cannot",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-11T19:27:24.726199"
   },
   {
     "title": "Good Tools Are Invisible",
     "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
     "author": "theanonymousone",
     "date": "2026-07-10",
-    "score": 451,
-    "comments": 209,
+    "score": 524,
+    "comments": 238,
     "id": 48858121,
     "discussion_url": "https://news.ycombinator.com/item?id=48858121",
     "description": "Good Tools Are Invisible",
@@ -235,66 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990988"
+    "fetched_at": "2026-07-11T19:27:24.726274"
   },
   {
-    "title": "How the terrorist group Boko Haram uses frontier AI",
-    "url": "https://casp.ac/reports/ai-enabled-terrorism",
-    "author": "imustachyou",
-    "date": "2026-07-10",
-    "score": 207,
-    "comments": 173,
-    "id": 48863707,
-    "discussion_url": "https://news.ycombinator.com/item?id=48863707",
-    "description": "How the terrorist group Boko Haram uses frontier AI",
+    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "author": "theanonymousone",
+    "date": "2026-07-07",
+    "score": 110,
+    "comments": 41,
+    "id": 48814170,
+    "discussion_url": "https://news.ycombinator.com/item?id=48814170",
+    "description": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.991041"
-  },
-  {
-    "title": "In Emacs, everything looks like a service",
-    "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-    "author": "kickingvegas",
-    "date": "2026-07-10",
-    "score": 244,
-    "comments": 102,
-    "id": 48857230,
-    "discussion_url": "https://news.ycombinator.com/item?id=48857230",
-    "description": "In Emacs, everything looks like a service",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.991080"
-  },
-  {
-    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-    "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-    "author": "djoldman",
-    "date": "2026-07-08",
-    "score": 1376,
-    "comments": 300,
-    "id": 48838876,
-    "discussion_url": "https://news.ycombinator.com/item?id=48838876",
-    "description": "John Deere owners will get the right to repair equipment under FTC settlement",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.991090"
+    "fetched_at": "2026-07-11T19:27:24.726329"
   },
   {
     "title": "Late Bronze Age Collapse",
     "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
     "author": "dmonay",
     "date": "2026-07-10",
-    "score": 377,
-    "comments": 259,
+    "score": 412,
+    "comments": 289,
     "id": 48858737,
     "discussion_url": "https://news.ycombinator.com/item?id=48858737",
     "description": "Late Bronze Age Collapse",
@@ -303,32 +303,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990955"
+    "fetched_at": "2026-07-11T19:27:24.726278"
   },
   {
-    "title": "Lost city discovered beneath Egypt's desert with ancient church",
-    "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
-    "author": "Bender",
-    "date": "2026-07-06",
-    "score": 190,
-    "comments": 134,
-    "id": 48803707,
-    "discussion_url": "https://news.ycombinator.com/item?id=48803707",
-    "description": "Lost city discovered beneath Egypt's desert with ancient church",
+    "title": "Modern decor may be straining people's brains",
+    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+    "author": "downwithdisease",
+    "date": "2026-07-11",
+    "score": 111,
+    "comments": 94,
+    "id": 48873424,
+    "discussion_url": "https://news.ycombinator.com/item?id=48873424",
+    "description": "Modern decor may be straining people's brains",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990952"
+    "fetched_at": "2026-07-11T19:27:24.726150"
   },
   {
     "title": "New York City to ban deceptive subscription practices",
     "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
     "author": "randycupertino",
     "date": "2026-07-10",
-    "score": 537,
-    "comments": 255,
+    "score": 608,
+    "comments": 318,
     "id": 48863464,
     "discussion_url": "https://news.ycombinator.com/item?id=48863464",
     "description": "New York City to ban deceptive subscription practices",
@@ -337,32 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990906"
-  },
-  {
-    "title": "Punk, or why I don't stream anymore",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
-    "author": "surprisetalk",
-    "date": "2026-07-10",
-    "score": 168,
-    "comments": 210,
-    "id": 48859671,
-    "discussion_url": "https://news.ycombinator.com/item?id=48859671",
-    "description": "Punk, or why I don't stream anymore",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.991023"
+    "fetched_at": "2026-07-11T19:27:24.726325"
   },
   {
     "title": "QuadRF can spot drones and see WiFi through my wall",
     "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
     "author": "speckx",
     "date": "2026-07-10",
-    "score": 605,
-    "comments": 200,
+    "score": 712,
+    "comments": 224,
     "id": 48861717,
     "discussion_url": "https://news.ycombinator.com/item?id=48861717",
     "description": "QuadRF can spot drones and see WiFi through my wall",
@@ -371,32 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990889"
-  },
-  {
-    "title": "Show HN: 18 Words",
-    "url": "https://18words.com/",
-    "author": "pompomsheep",
-    "date": "2026-07-09",
-    "score": 1104,
-    "comments": 351,
-    "id": 48845049,
-    "discussion_url": "https://news.ycombinator.com/item?id=48845049",
-    "description": "Show HN: 18 Words",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.991017"
+    "fetched_at": "2026-07-11T19:27:24.726245"
   },
   {
     "title": "Show HN: Getting GLM 5.2 running on my slow computer",
     "url": "https://github.com/JustVugg/colibri",
     "author": "vforno",
     "date": "2026-07-09",
-    "score": 859,
-    "comments": 214,
+    "score": 886,
+    "comments": 228,
     "id": 48842459,
     "discussion_url": "https://news.ycombinator.com/item?id=48842459",
     "description": "Show HN: Getting GLM 5.2 running on my slow computer",
@@ -405,15 +371,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990938"
+    "fetched_at": "2026-07-11T19:27:24.726291"
+  },
+  {
+    "title": "Silent speech with ultrasound",
+    "url": "https://alephneuro.com/blog/silent-speech",
+    "author": "chrwn",
+    "date": "2026-07-07",
+    "score": 96,
+    "comments": 30,
+    "id": 48825216,
+    "discussion_url": "https://news.ycombinator.com/item?id=48825216",
+    "description": "Silent speech with ultrasound",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-11T19:27:24.726282"
   },
   {
     "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
     "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
     "author": "simonebrunozzi",
     "date": "2026-07-10",
-    "score": 194,
-    "comments": 148,
+    "score": 224,
+    "comments": 163,
     "id": 48862252,
     "discussion_url": "https://news.ycombinator.com/item?id=48862252",
     "description": "Snails' teeth beats spider silk as nature's strongest material (2015)",
@@ -422,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990962"
+    "fetched_at": "2026-07-11T19:27:24.726303"
   },
   {
     "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
     "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
     "author": "CrankyBear",
     "date": "2026-07-10",
-    "score": 196,
-    "comments": 652,
+    "score": 279,
+    "comments": 1014,
     "id": 48863064,
     "discussion_url": "https://news.ycombinator.com/item?id=48863064",
     "description": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
@@ -439,32 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990945"
-  },
-  {
-    "title": "Successful companies go blind",
-    "url": "https://ianreppel.org/how-successful-companies-go-blind/",
-    "author": "speckx",
-    "date": "2026-07-10",
-    "score": 217,
-    "comments": 78,
-    "id": 48859678,
-    "discussion_url": "https://news.ycombinator.com/item?id=48859678",
-    "description": "Successful companies go blind",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990998"
+    "fetched_at": "2026-07-11T19:27:24.726257"
   },
   {
     "title": "The tech of 'Terminator 2' – an oral history (2017)",
     "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
     "author": "markus_zhang",
     "date": "2026-07-10",
-    "score": 219,
-    "comments": 78,
+    "score": 251,
+    "comments": 88,
     "id": 48862365,
     "discussion_url": "https://news.ycombinator.com/item?id=48862365",
     "description": "The tech of 'Terminator 2' – an oral history (2017)",
@@ -473,40 +439,74 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990934"
+    "fetched_at": "2026-07-11T19:27:24.726265"
   },
   {
-    "title": "Train sim created by just one person is being called the best ever made",
-    "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-    "author": "oumua_don17",
-    "date": "2026-07-05",
-    "score": 828,
-    "comments": 341,
-    "id": 48792383,
-    "discussion_url": "https://news.ycombinator.com/item?id=48792383",
-    "description": "Train sim created by just one person is being called the best ever made",
+    "title": "The vintage beauty of Soviet control rooms (2018)",
+    "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+    "author": "mvdtnz",
+    "date": "2026-07-11",
+    "score": 185,
+    "comments": 62,
+    "id": 48868996,
+    "discussion_url": "https://news.ycombinator.com/item?id=48868996",
+    "description": "The vintage beauty of Soviet control rooms (2018)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.991077"
+    "fetched_at": "2026-07-11T19:27:24.726306"
   },
   {
-    "title": "War Atlas: An interactive cartography of every named war in human history",
-    "url": "https://waratlas.org",
-    "author": "NaOH",
-    "date": "2026-07-10",
-    "score": 156,
-    "comments": 67,
-    "id": 48863080,
-    "discussion_url": "https://news.ycombinator.com/item?id=48863080",
-    "description": "War Atlas: An interactive cartography of every named war in human history",
+    "title": "We scaled PgBouncer to 4x throughput",
+    "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+    "author": "saisrirampur",
+    "date": "2026-07-11",
+    "score": 120,
+    "comments": 15,
+    "id": 48872874,
+    "discussion_url": "https://news.ycombinator.com/item?id=48872874",
+    "description": "We scaled PgBouncer to 4x throughput",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-11T11:24:39.990984"
+    "fetched_at": "2026-07-11T19:27:24.726130"
+  },
+  {
+    "title": "Why it's so difficult to produce American-made medical gloves",
+    "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+    "author": "helsinkiandrew",
+    "date": "2026-07-11",
+    "score": 100,
+    "comments": 122,
+    "id": 48870258,
+    "discussion_url": "https://news.ycombinator.com/item?id=48870258",
+    "description": "Why it's so difficult to produce American-made medical gloves",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-11T19:27:24.726254"
+  },
+  {
+    "title": "Your code is fast – if you're lucky",
+    "url": "https://tiki.li/blog/lucky_code.html",
+    "author": "chrka",
+    "date": "2026-07-11",
+    "score": 118,
+    "comments": 77,
+    "id": 48870799,
+    "discussion_url": "https://news.ycombinator.com/item?id=48870799",
+    "description": "Your code is fast – if you're lucky",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-11T19:27:24.726310"
   }
 ]
