@@ -1,227 +1,167 @@
 [
   {
-    "title": "An agent in 100 lines of Lisp",
-    "url": "https://thebeach.dev/posts/lisp-agent/",
-    "description": "An agent in 100 lines of Lisp",
-    "date": "2026-07-07",
-    "score": 165,
-    "comments": 35,
-    "discussion_url": "https://news.ycombinator.com/item?id=48823981",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503651"
-  },
-  {
-    "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
-    "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
-    "description": "Biff.graph: structure your Clojure codebase as a queryable graph",
-    "date": "2026-07-07",
-    "score": 136,
-    "comments": 16,
-    "discussion_url": "https://news.ycombinator.com/item?id=48820361",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503662"
-  },
-  {
-    "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
-    "url": "https://arxiv.org/abs/2607.07267",
-    "description": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
-    "date": "2026-07-09",
-    "score": 104,
-    "comments": 17,
-    "discussion_url": "https://news.ycombinator.com/item?id=48849744",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503640"
-  },
-  {
-    "title": "Mesh LLM: distributed AI computing on iroh",
-    "url": "https://www.iroh.computer/blog/mesh-llm",
-    "description": "Mesh LLM: distributed AI computing on iroh",
-    "date": "2026-07-11",
-    "score": 266,
-    "comments": 60,
-    "discussion_url": "https://news.ycombinator.com/item?id=48876505",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503470"
-  },
-  {
-    "title": "Modern decor may be straining people's brains",
-    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-    "description": "Modern decor may be straining people's brains",
-    "date": "2026-07-11",
-    "score": 204,
-    "comments": 209,
-    "discussion_url": "https://news.ycombinator.com/item?id=48873424",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503580"
-  },
-  {
-    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-    "description": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-    "date": "2026-07-11",
-    "score": 276,
-    "comments": 110,
-    "discussion_url": "https://news.ycombinator.com/item?id=48873836",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503548"
-  },
-  {
-    "title": "Prefer strict tables in SQLite",
-    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "description": "Prefer strict tables in SQLite",
-    "date": "2026-07-11",
-    "score": 303,
-    "comments": 147,
-    "discussion_url": "https://news.ycombinator.com/item?id=48873940",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503535"
-  },
-  {
-    "title": "RISCBoy is an open-source portable games console, designed from scratch",
-    "url": "https://github.com/Wren6991/RISCBoy",
-    "description": "RISCBoy is an open-source portable games console, designed from scratch",
-    "date": "2026-07-11",
-    "score": 150,
-    "comments": 21,
-    "discussion_url": "https://news.ycombinator.com/item?id=48876245",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503506"
-  },
-  {
-    "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-    "url": "https://antjs.org",
-    "description": "Show HN: Ant – A JavaScript runtime and ecosystem",
-    "date": "2026-07-11",
-    "score": 274,
-    "comments": 120,
-    "discussion_url": "https://news.ycombinator.com/item?id=48875377",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503523"
-  },
-  {
-    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-    "url": "https://shipthatcode.com",
-    "description": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-    "date": "2026-07-11",
-    "score": 176,
-    "comments": 53,
-    "discussion_url": "https://news.ycombinator.com/item?id=48871973",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503617"
-  },
-  {
-    "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-    "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-    "description": "The early History of the Singular Value Decomposition (1993) [pdf]",
-    "date": "2026-07-11",
-    "score": 123,
-    "comments": 66,
-    "discussion_url": "https://news.ycombinator.com/item?id=48872858",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503605"
-  },
-  {
-    "title": "UPI: Anatomy of a Payment Transaction",
-    "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-    "description": "UPI: Anatomy of a Payment Transaction",
-    "date": "2026-07-11",
-    "score": 197,
-    "comments": 89,
-    "discussion_url": "https://news.ycombinator.com/item?id=48873457",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503560"
-  },
-  {
-    "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-    "description": "Under federal rule, colleges must leave grads better off or lose financial aid",
+    "title": "AI boosts research careers but narrow the span of ideas explored: study",
+    "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+    "description": "AI boosts research careers but narrow the span of ideas explored: study",
     "date": "2026-07-12",
-    "score": 103,
-    "comments": 187,
-    "discussion_url": "https://news.ycombinator.com/item?id=48878126",
+    "score": 112,
+    "comments": 86,
+    "discussion_url": "https://news.ycombinator.com/item?id=48881043",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503447"
+    "fetched_at": "2026-07-12T19:27:34.823225"
   },
   {
-    "title": "Vint Cerf, a “father of the Internet”, is retiring",
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "description": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "date": "2026-07-12",
+    "score": 111,
+    "comments": 56,
+    "discussion_url": "https://news.ycombinator.com/item?id=48883275",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-12T19:27:34.823163"
+  },
+  {
+    "title": "Don't you mean extinct?",
+    "url": "https://fabiensanglard.net/extinct/index.html",
+    "description": "Don't you mean extinct?",
+    "date": "2026-07-12",
+    "score": 129,
+    "comments": 56,
+    "discussion_url": "https://news.ycombinator.com/item?id=48881830",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-12T19:27:34.823213"
+  },
+  {
+    "title": "Ghostel.el: Terminal emulator powered by libghostty",
+    "url": "https://dakra.github.io/ghostel/",
+    "description": "Ghostel.el: Terminal emulator powered by libghostty",
+    "date": "2026-07-12",
+    "score": 233,
+    "comments": 38,
+    "discussion_url": "https://news.ycombinator.com/item?id=48879504",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-12T19:27:34.823268"
+  },
+  {
+    "title": "How to Read More Books",
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "description": "How to Read More Books",
+    "date": "2026-07-12",
+    "score": 166,
+    "comments": 97,
+    "discussion_url": "https://news.ycombinator.com/item?id=48882056",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-12T19:27:34.823186"
+  },
+  {
+    "title": "Old and new apps, via modern coding agents",
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "description": "Old and new apps, via modern coding agents",
+    "date": "2026-07-12",
+    "score": 350,
+    "comments": 99,
+    "discussion_url": "https://news.ycombinator.com/item?id=48880170",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-12T19:27:34.823249"
+  },
+  {
+    "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+    "url": "https://github.com/cosmtrek/mindwalk",
+    "description": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+    "date": "2026-07-12",
+    "score": 139,
+    "comments": 61,
+    "discussion_url": "https://news.ycombinator.com/item?id=48878682",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-12T19:27:34.823281"
+  },
+  {
+    "title": "The shingles vaccine may reduce the risk of dementia",
+    "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+    "description": "The shingles vaccine may reduce the risk of dementia",
+    "date": "2026-07-12",
+    "score": 117,
+    "comments": 96,
+    "discussion_url": "https://news.ycombinator.com/item?id=48881874",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-12T19:27:34.823200"
+  },
+  {
+    "title": "Understanding the Odin Programming Language",
+    "url": "https://odinbook.com/",
+    "description": "Understanding the Odin Programming Language",
+    "date": "2026-07-12",
+    "score": 122,
+    "comments": 62,
+    "discussion_url": "https://news.ycombinator.com/item?id=48880499",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-12T19:27:34.823237"
+  },
+  {
+    "title": "Vint Cerf, “father of the Internet”, is retiring",
     "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-    "description": "Vint Cerf, a “father of the Internet”, is retiring",
+    "description": "Vint Cerf, “father of the Internet”, is retiring",
     "date": "2026-07-10",
-    "score": 104,
-    "comments": 65,
+    "score": 256,
+    "comments": 138,
     "discussion_url": "https://news.ycombinator.com/item?id=48854168",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503629"
+    "fetched_at": "2026-07-12T19:27:34.823305"
   },
   {
-    "title": "We scaled PgBouncer to 4x throughput",
-    "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-    "description": "We scaled PgBouncer to 4x throughput",
-    "date": "2026-07-11",
-    "score": 214,
-    "comments": 53,
-    "discussion_url": "https://news.ycombinator.com/item?id=48872874",
+    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "description": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+    "date": "2026-07-12",
+    "score": 344,
+    "comments": 146,
+    "discussion_url": "https://news.ycombinator.com/item?id=48877371",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-12T11:27:28.503593"
+    "fetched_at": "2026-07-12T19:27:34.823293"
   }
 ]
