@@ -3,9 +3,9 @@
     "title": "A love letter to flashcards",
     "url": "https://lesleylai.info/en/flashcards/",
     "author": "surprisetalk",
-    "date": "2026-07-11",
-    "score": 183,
-    "comments": 101,
+    "date": "2026-07-10",
+    "score": 194,
+    "comments": 111,
     "id": 48861319,
     "discussion_url": "https://news.ycombinator.com/item?id=48861319",
     "description": "A love letter to flashcards",
@@ -14,151 +14,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883256"
+    "fetched_at": "2026-07-12T11:27:19.401826"
   },
   {
-    "title": "AI 2040: Plan A",
-    "url": "https://ai-2040.com/",
-    "author": "kschaul",
-    "date": "2026-07-10",
-    "score": 367,
-    "comments": 476,
-    "id": 48848425,
-    "discussion_url": "https://news.ycombinator.com/item?id=48848425",
-    "description": "AI 2040: Plan A",
+    "title": "A pure scheme web programming tool",
+    "url": "https://goeteia.dev",
+    "author": "guenchi",
+    "date": "2026-07-12",
+    "score": 96,
+    "comments": 22,
+    "id": 48877314,
+    "discussion_url": "https://news.ycombinator.com/item?id=48877314",
+    "description": "A pure scheme web programming tool",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882986"
+    "fetched_at": "2026-07-12T11:27:19.401781"
   },
   {
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "author": "aviaviavi",
-    "date": "2026-07-10",
-    "score": 214,
-    "comments": 260,
-    "id": 48859673,
-    "discussion_url": "https://news.ycombinator.com/item?id=48859673",
-    "description": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883130"
-  },
-  {
-    "title": "Alternate clock designs and time systems",
-    "url": "https://serialc.github.io/altClocks/",
-    "author": "ethanpil",
+    "title": "An agent in 100 lines of Lisp",
+    "url": "https://thebeach.dev/posts/lisp-agent/",
+    "author": "jamiebeach",
     "date": "2026-07-07",
-    "score": 192,
-    "comments": 108,
-    "id": 48810543,
-    "discussion_url": "https://news.ycombinator.com/item?id=48810543",
-    "description": "Alternate clock designs and time systems",
+    "score": 165,
+    "comments": 35,
+    "id": 48823981,
+    "discussion_url": "https://news.ycombinator.com/item?id=48823981",
+    "description": "An agent in 100 lines of Lisp",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883211"
+    "fetched_at": "2026-07-12T11:27:19.401600"
   },
   {
-    "title": "An iroh powered smart fan",
-    "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-    "author": "surprisetalk",
+    "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+    "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+    "author": "jacobobryant",
     "date": "2026-07-07",
-    "score": 157,
-    "comments": 53,
-    "id": 48817539,
-    "discussion_url": "https://news.ycombinator.com/item?id=48817539",
-    "description": "An iroh powered smart fan",
+    "score": 136,
+    "comments": 16,
+    "id": 48820361,
+    "discussion_url": "https://news.ycombinator.com/item?id=48820361",
+    "description": "Biff.graph: structure your Clojure codebase as a queryable graph",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882703"
+    "fetched_at": "2026-07-12T11:27:19.401672"
   },
   {
-    "title": "An update on residential proxies and the scraper situation",
-    "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-    "author": "chmaynard",
-    "date": "2026-07-11",
-    "score": 308,
-    "comments": 304,
-    "id": 48864252,
-    "discussion_url": "https://news.ycombinator.com/item?id=48864252",
-    "description": "An update on residential proxies and the scraper situation",
+    "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+    "url": "https://arxiv.org/abs/2607.07267",
+    "author": "Anon84",
+    "date": "2026-07-09",
+    "score": 104,
+    "comments": 17,
+    "id": 48849744,
+    "discussion_url": "https://news.ycombinator.com/item?id=48849744",
+    "description": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882531"
+    "fetched_at": "2026-07-12T11:27:19.401684"
   },
   {
-    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-    "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-    "author": "stock_toaster",
-    "date": "2026-07-11",
-    "score": 1503,
-    "comments": 837,
-    "id": 48865019,
-    "discussion_url": "https://news.ycombinator.com/item?id=48865019",
-    "description": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "title": "Book: RISC-V System-on-Chip Design",
+    "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
+    "author": "xlmnxp",
+    "date": "2026-07-09",
+    "score": 125,
+    "comments": 57,
+    "id": 48841348,
+    "discussion_url": "https://news.ycombinator.com/item?id=48841348",
+    "description": "Book: RISC-V System-on-Chip Design",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882438"
-  },
-  {
-    "title": "Combustion engine web-based simulator",
-    "url": "https://combustionlab.net",
-    "author": "mytuny",
-    "date": "2026-07-06",
-    "score": 227,
-    "comments": 77,
-    "id": 48795900,
-    "discussion_url": "https://news.ycombinator.com/item?id=48795900",
-    "description": "Combustion engine web-based simulator",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883178"
-  },
-  {
-    "title": "Computation as a universal and fundamental concept",
-    "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-    "author": "simonpure",
-    "date": "2026-07-11",
-    "score": 160,
-    "comments": 133,
-    "id": 48861213,
-    "discussion_url": "https://news.ycombinator.com/item?id=48861213",
-    "description": "Computation as a universal and fundamental concept",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883320"
+    "fetched_at": "2026-07-12T11:27:19.401777"
   },
   {
     "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
     "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
     "author": "hhs",
-    "date": "2026-07-11",
-    "score": 364,
-    "comments": 162,
+    "date": "2026-07-10",
+    "score": 393,
+    "comments": 179,
     "id": 48866134,
     "discussion_url": "https://news.ycombinator.com/item?id=48866134",
     "description": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
@@ -167,32 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882841"
-  },
-  {
-    "title": "FCC approves test of space mirror to light night sky",
-    "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
-    "author": "reaperducer",
-    "date": "2026-07-11",
-    "score": 107,
-    "comments": 124,
-    "id": 48871367,
-    "discussion_url": "https://news.ycombinator.com/item?id=48871367",
-    "description": "FCC approves test of space mirror to light night sky",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882971"
+    "fetched_at": "2026-07-12T11:27:19.401801"
   },
   {
     "title": "Female US rower completes historic solo journey from California to Hawaii",
     "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
     "author": "speckx",
-    "date": "2026-07-12",
-    "score": 121,
-    "comments": 35,
+    "date": "2026-07-11",
+    "score": 298,
+    "comments": 101,
     "id": 48873692,
     "discussion_url": "https://news.ycombinator.com/item?id=48873692",
     "description": "Female US rower completes historic solo journey from California to Hawaii",
@@ -201,32 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882807"
-  },
-  {
-    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "author": "scrlk",
-    "date": "2026-07-11",
-    "score": 504,
-    "comments": 418,
-    "id": 48863490,
-    "discussion_url": "https://news.ycombinator.com/item?id=48863490",
-    "description": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883305"
+    "fetched_at": "2026-07-12T11:27:19.401753"
   },
   {
     "title": "Ghost Font: A font that humans can read but AI cannot",
     "url": "https://www.mixfont.com/ghost-font",
     "author": "justswim",
     "date": "2026-07-11",
-    "score": 164,
-    "comments": 125,
+    "score": 219,
+    "comments": 160,
     "id": 48870381,
     "discussion_url": "https://news.ycombinator.com/item?id=48870381",
     "description": "Ghost Font: A font that humans can read but AI cannot",
@@ -235,83 +150,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882621"
+    "fetched_at": "2026-07-12T11:27:19.401813"
   },
   {
-    "title": "Good Tools Are Invisible",
-    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-    "author": "theanonymousone",
-    "date": "2026-07-10",
-    "score": 527,
-    "comments": 239,
-    "id": 48858121,
-    "discussion_url": "https://news.ycombinator.com/item?id=48858121",
-    "description": "Good Tools Are Invisible",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882687"
-  },
-  {
-    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-    "author": "theanonymousone",
-    "date": "2026-07-07",
-    "score": 111,
-    "comments": 42,
-    "id": 48814170,
-    "discussion_url": "https://news.ycombinator.com/item?id=48814170",
-    "description": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883272"
-  },
-  {
-    "title": "Late Bronze Age Collapse",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "author": "dmonay",
-    "date": "2026-07-10",
-    "score": 412,
-    "comments": 290,
-    "id": 48858737,
-    "discussion_url": "https://news.ycombinator.com/item?id=48858737",
-    "description": "Late Bronze Age Collapse",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883033"
-  },
-  {
-    "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
-    "url": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
+    "title": "How Doctors die. It’s not like the rest of us (2016)",
+    "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
     "author": "downbad_",
-    "date": "2026-07-12",
-    "score": 106,
-    "comments": 65,
-    "id": 48873893,
-    "discussion_url": "https://news.ycombinator.com/item?id=48873893",
-    "description": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
+    "date": "2026-07-11",
+    "score": 197,
+    "comments": 111,
+    "id": 48876741,
+    "discussion_url": "https://news.ycombinator.com/item?id=48876741",
+    "description": "How Doctors die. It’s not like the rest of us (2016)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882671"
+    "fetched_at": "2026-07-12T11:27:19.401733"
+  },
+  {
+    "title": "How to hide from killer drones",
+    "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+    "author": "pseudolus",
+    "date": "2026-07-11",
+    "score": 127,
+    "comments": 162,
+    "id": 48874357,
+    "discussion_url": "https://news.ycombinator.com/item?id=48874357",
+    "description": "How to hide from killer drones",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-12T11:27:19.401809"
+  },
+  {
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "author": "tionis",
+    "date": "2026-07-11",
+    "score": 266,
+    "comments": 60,
+    "id": 48876505,
+    "discussion_url": "https://news.ycombinator.com/item?id=48876505",
+    "description": "Mesh LLM: distributed AI computing on iroh",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-12T11:27:19.401624"
   },
   {
     "title": "Modern decor may be straining people's brains",
     "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
     "author": "downwithdisease",
-    "date": "2026-07-12",
-    "score": 125,
-    "comments": 108,
+    "date": "2026-07-11",
+    "score": 204,
+    "comments": 209,
     "id": 48873424,
     "discussion_url": "https://news.ycombinator.com/item?id=48873424",
     "description": "Modern decor may be straining people's brains",
@@ -320,32 +218,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883001"
+    "fetched_at": "2026-07-12T11:27:19.401659"
   },
   {
-    "title": "New York City to ban deceptive subscription practices",
-    "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-    "author": "randycupertino",
+    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "author": "adletbalzhanov",
     "date": "2026-07-11",
-    "score": 610,
-    "comments": 321,
-    "id": 48863464,
-    "discussion_url": "https://news.ycombinator.com/item?id=48863464",
-    "description": "New York City to ban deceptive subscription practices",
+    "score": 276,
+    "comments": 110,
+    "id": 48873836,
+    "discussion_url": "https://news.ycombinator.com/item?id=48873836",
+    "description": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883289"
+    "fetched_at": "2026-07-12T11:27:19.401724"
+  },
+  {
+    "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+    "url": "https://alexandrepoupeau.com/otary/learn/",
+    "author": "poupeaua",
+    "date": "2026-07-08",
+    "score": 92,
+    "comments": 2,
+    "id": 48830556,
+    "discussion_url": "https://news.ycombinator.com/item?id=48830556",
+    "description": "Otary – Image and Geometry Python Library Now Has Tutorials",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-12T11:27:19.401769"
+  },
+  {
+    "title": "Prefer strict tables in SQLite",
+    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "author": "ingve",
+    "date": "2026-07-11",
+    "score": 303,
+    "comments": 147,
+    "id": 48873940,
+    "discussion_url": "https://news.ycombinator.com/item?id=48873940",
+    "description": "Prefer strict tables in SQLite",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-12T11:27:19.401663"
   },
   {
     "title": "QuadRF can spot drones and see WiFi through my wall",
     "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
     "author": "speckx",
-    "date": "2026-07-11",
-    "score": 716,
-    "comments": 225,
+    "date": "2026-07-10",
+    "score": 736,
+    "comments": 231,
     "id": 48861717,
     "discussion_url": "https://news.ycombinator.com/item?id=48861717",
     "description": "QuadRF can spot drones and see WiFi through my wall",
@@ -354,15 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883065"
+    "fetched_at": "2026-07-12T11:27:19.401785"
+  },
+  {
+    "title": "RISCBoy is an open-source portable games console, designed from scratch",
+    "url": "https://github.com/Wren6991/RISCBoy",
+    "author": "mariuz",
+    "date": "2026-07-11",
+    "score": 150,
+    "comments": 21,
+    "id": 48876245,
+    "discussion_url": "https://news.ycombinator.com/item?id=48876245",
+    "description": "RISCBoy is an open-source portable games console, designed from scratch",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-12T11:27:19.401591"
   },
   {
     "title": "Show HN: 18 Words",
     "url": "https://18words.com/",
     "author": "pompomsheep",
     "date": "2026-07-09",
-    "score": 1118,
-    "comments": 354,
+    "score": 1127,
+    "comments": 355,
     "id": 48845049,
     "discussion_url": "https://news.ycombinator.com/item?id=48845049",
     "description": "Show HN: 18 Words",
@@ -371,15 +320,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883336"
+    "fetched_at": "2026-07-12T11:27:19.401820"
+  },
+  {
+    "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+    "url": "https://antjs.org",
+    "author": "theMackabu",
+    "date": "2026-07-11",
+    "score": 274,
+    "comments": 120,
+    "id": 48875377,
+    "discussion_url": "https://news.ycombinator.com/item?id=48875377",
+    "description": "Show HN: Ant – A JavaScript runtime and ecosystem",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-12T11:27:19.401619"
   },
   {
     "title": "Show HN: Getting GLM 5.2 running on my slow computer",
     "url": "https://github.com/JustVugg/colibri",
     "author": "vforno",
     "date": "2026-07-09",
-    "score": 887,
-    "comments": 228,
+    "score": 900,
+    "comments": 230,
     "id": 48842459,
     "discussion_url": "https://news.ycombinator.com/item?id=48842459",
     "description": "Show HN: Getting GLM 5.2 running on my slow computer",
@@ -388,83 +354,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883146"
+    "fetched_at": "2026-07-12T11:27:19.401765"
   },
   {
-    "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-    "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-    "author": "simonebrunozzi",
+    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+    "url": "https://shipthatcode.com",
+    "author": "acley",
     "date": "2026-07-11",
-    "score": 225,
-    "comments": 163,
-    "id": 48862252,
-    "discussion_url": "https://news.ycombinator.com/item?id=48862252",
-    "description": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+    "score": 176,
+    "comments": 53,
+    "id": 48871973,
+    "discussion_url": "https://news.ycombinator.com/item?id=48871973",
+    "description": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883162"
+    "fetched_at": "2026-07-12T11:27:19.401700"
   },
   {
-    "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-    "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-    "author": "CrankyBear",
+    "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+    "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+    "author": "wolfi1",
     "date": "2026-07-11",
-    "score": 282,
-    "comments": 1036,
-    "id": 48863064,
-    "discussion_url": "https://news.ycombinator.com/item?id=48863064",
-    "description": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+    "score": 123,
+    "comments": 66,
+    "id": 48872858,
+    "discussion_url": "https://news.ycombinator.com/item?id=48872858",
+    "description": "The early History of the Singular Value Decomposition (1993) [pdf]",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882567"
+    "fetched_at": "2026-07-12T11:27:19.401629"
   },
   {
-    "title": "The tech of 'Terminator 2' – an oral history (2017)",
-    "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-    "author": "markus_zhang",
+    "title": "UPI: Anatomy of a Payment Transaction",
+    "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+    "author": "prtk25",
     "date": "2026-07-11",
-    "score": 251,
-    "comments": 88,
-    "id": 48862365,
-    "discussion_url": "https://news.ycombinator.com/item?id=48862365",
-    "description": "The tech of 'Terminator 2' – an oral history (2017)",
+    "score": 197,
+    "comments": 89,
+    "id": 48873457,
+    "discussion_url": "https://news.ycombinator.com/item?id=48873457",
+    "description": "UPI: Anatomy of a Payment Transaction",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883116"
+    "fetched_at": "2026-07-12T11:27:19.401676"
   },
   {
-    "title": "The vintage beauty of Soviet control rooms (2018)",
-    "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-    "author": "mvdtnz",
-    "date": "2026-07-11",
-    "score": 185,
-    "comments": 62,
-    "id": 48868996,
-    "discussion_url": "https://news.ycombinator.com/item?id=48868996",
-    "description": "The vintage beauty of Soviet control rooms (2018)",
+    "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+    "author": "nradov",
+    "date": "2026-07-12",
+    "score": 103,
+    "comments": 187,
+    "id": 48878126,
+    "discussion_url": "https://news.ycombinator.com/item?id=48878126",
+    "description": "Under federal rule, colleges must leave grads better off or lose financial aid",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883194"
+    "fetched_at": "2026-07-12T11:27:19.401596"
+  },
+  {
+    "title": "Unexpected Solidlike Fracture in Simple Liquids",
+    "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+    "author": "Anon84",
+    "date": "2026-07-12",
+    "score": 94,
+    "comments": 47,
+    "id": 48877668,
+    "discussion_url": "https://news.ycombinator.com/item?id=48877668",
+    "description": "Unexpected Solidlike Fracture in Simple Liquids",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-12T11:27:19.401692"
+  },
+  {
+    "title": "Vint Cerf, a “father of the Internet”, is retiring",
+    "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "author": "compiler-guy",
+    "date": "2026-07-10",
+    "score": 104,
+    "comments": 65,
+    "id": 48854168,
+    "discussion_url": "https://news.ycombinator.com/item?id=48854168",
+    "description": "Vint Cerf, a “father of the Internet”, is retiring",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-12T11:27:19.401576"
   },
   {
     "title": "We scaled PgBouncer to 4x throughput",
     "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
     "author": "saisrirampur",
-    "date": "2026-07-12",
-    "score": 127,
-    "comments": 15,
+    "date": "2026-07-11",
+    "score": 214,
+    "comments": 53,
     "id": 48872874,
     "discussion_url": "https://news.ycombinator.com/item?id=48872874",
     "description": "We scaled PgBouncer to 4x throughput",
@@ -473,40 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.882738"
+    "fetched_at": "2026-07-12T11:27:19.401586"
   },
   {
-    "title": "Why it's so difficult to produce American-made medical gloves",
-    "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
-    "author": "helsinkiandrew",
-    "date": "2026-07-11",
-    "score": 101,
-    "comments": 123,
-    "id": 48870258,
-    "discussion_url": "https://news.ycombinator.com/item?id=48870258",
-    "description": "Why it's so difficult to produce American-made medical gloves",
+    "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "author": "jhoho",
+    "date": "2026-07-12",
+    "score": 287,
+    "comments": 133,
+    "id": 48877371,
+    "discussion_url": "https://news.ycombinator.com/item?id=48877371",
+    "description": "What xAI's Grok Build CLI Actually Sends to xAI",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883099"
+    "fetched_at": "2026-07-12T11:27:19.401797"
   },
   {
-    "title": "Your code is fast – if you're lucky",
+    "title": "Your code is fast if you're lucky",
     "url": "https://tiki.li/blog/lucky_code.html",
     "author": "chrka",
     "date": "2026-07-11",
-    "score": 119,
-    "comments": 78,
+    "score": 129,
+    "comments": 83,
     "id": 48870799,
     "discussion_url": "https://news.ycombinator.com/item?id=48870799",
-    "description": "Your code is fast – if you're lucky",
+    "description": "Your code is fast if you're lucky",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-12T06:00:16.883242"
+    "fetched_at": "2026-07-12T11:27:19.401793"
   }
 ]
