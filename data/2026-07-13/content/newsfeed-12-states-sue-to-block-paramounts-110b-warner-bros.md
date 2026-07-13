@@ -1,0 +1,62 @@
+---
+title: 12 states sue to block Paramount's $110B Warner Bros. deal | TechCrunch
+url: https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/
+site_name: newsfeed
+content_file: newsfeed-12-states-sue-to-block-paramounts-110b-warner-bros
+fetched_at: '2026-07-13T19:33:09.985496'
+original_url: https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/
+author: Aisha Malik
+date: '2026-07-13'
+published_date: '2026-07-13T17:00:14+00:00'
+description: The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.
+tags:
+- techcrunch
+- government & policy
+- media & entertainment
+- mergers and acquisitions
+---
+
+A coalition of 12 state attorneys general isfiling a lawsuitto block the merger of Paramount Skydance and Warner Bros. Discovery (WBD), alleging that the deal would harm movie theaters, basic cable distributors, and audiences.
+
+The coalition, led by California Attorney General Rob Bonta, argues that the acquisition violates the Clayton Act, which prohibits mergers that may substantially lessen competition or tend to create a monopoly. The attorneys general allege that if the two companies are allowed to merge, it would lessen competition in three areas: wide release theatrical film distribution, “top-grossing” theatrical distribution, and basic cable licensing.
+
+The deal would combine two notable film studios as well as streaming platformsParamount+ and HBO Max. It would also create one of the largest portfolios of television networks, bringing together Paramount’s CBS and MTV with WBD’s CNN and HBO.
+
+The proposed acquisition hasalready received scrutinyfrom filmmakers, actors, and industry professionals who have argued that the deal would reduce competition and further consolidate the U.S. media industry. Paramount has argued against this, saying the combined film studios ​would release 30 ​movies a year.
+
+The states argue that, if approved, the deal would give Paramount significant control over key areas of the entertainment industry, including 27% of the U.S. film distribution market, 30% of blockbuster movie distribution, and 27% of the basic cable channel market.
+
+“Consolidation here not only leads to higher prices — it also leads to fewer opportunities for important stories to come to life, and fewer ways for audiences to encounter stories, ideas, and perspectives beyond their own experiences,” Bonta said ina statement.“In this country, no one is above the law. With this lawsuit, California and our sister states are fighting for free and fair markets, not rigged markets. America has no kings in government or our economy.”
+
+Paramount CEO David Ellison had said in May that the transaction was on track to close by September. The deal received approval from WBD shareholders in April, and has been cleared by the U.S. Department of Justice, which said the transaction is not likely to result in harm to competition or consumers.
+
+The 11 states joining California are Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, and Washington.
+
+Paramount and WBD did not immediately respond to TechCrunch’s requests for comment.
+
+Topics
+
+Government & Policy
+, 
+Media & Entertainment
+, 
+Mergers and Acquisitions
+, 
+Paramount
+, 
+Warner Bros
+ 
+
+When you purchase through links in our articles,we may earn a small commission. This doesn’t affect our editorial independence.
+
+			Aisha Malik	
+
+Consumer News Reporter
+
+Aisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.
+
+You can contact or verify outreach from Aisha by emailingaisha@techcrunch.comor via encrypted message at aisha_malik.01 on Signal.
+
+ 
+
+View Bio
