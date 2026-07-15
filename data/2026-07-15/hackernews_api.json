@@ -1,28 +1,11 @@
 [
   {
-    "title": "A metallurgist's doubts about self-replicating probes",
-    "url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
-    "author": "EA-3167",
-    "date": "2026-07-13",
-    "score": 129,
-    "comments": 52,
-    "id": 48887810,
-    "discussion_url": "https://news.ycombinator.com/item?id=48887810",
-    "description": "A metallurgist's doubts about self-replicating probes",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349359"
-  },
-  {
     "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
     "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
     "author": "alok-g",
     "date": "2026-07-14",
-    "score": 115,
-    "comments": 65,
+    "score": 138,
+    "comments": 73,
     "id": 48903715,
     "discussion_url": "https://news.ycombinator.com/item?id=48903715",
     "description": "Alternative(s) to run CUDA on non-Nvidia hardware",
@@ -31,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349380"
+    "fetched_at": "2026-07-15T11:32:58.694294"
   },
   {
     "title": "Are we offloading too much of our thinking to AI?",
     "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
     "author": "yenniejun111",
-    "date": "2026-07-15",
-    "score": 234,
-    "comments": 218,
+    "date": "2026-07-14",
+    "score": 485,
+    "comments": 437,
     "id": 48908178,
     "discussion_url": "https://news.ycombinator.com/item?id=48908178",
     "description": "Are we offloading too much of our thinking to AI?",
@@ -48,66 +31,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349800"
+    "fetched_at": "2026-07-15T11:32:58.694220"
   },
   {
-    "title": "Australian energy retailers must provide three hours of free daytime electricity",
+    "title": "Australian energy retailers must offer three hours of free daytime electricity",
     "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
     "author": "i2oc",
     "date": "2026-07-14",
-    "score": 233,
-    "comments": 312,
+    "score": 274,
+    "comments": 377,
     "id": 48902320,
     "discussion_url": "https://news.ycombinator.com/item?id=48902320",
-    "description": "Australian energy retailers must provide three hours of free daytime electricity",
+    "description": "Australian energy retailers must offer three hours of free daytime electricity",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349339"
+    "fetched_at": "2026-07-15T11:32:58.694230"
   },
   {
-    "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
-    "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
-    "author": "zaikunzhang",
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "author": "xenova",
     "date": "2026-07-14",
-    "score": 143,
-    "comments": 101,
-    "id": 48905091,
-    "discussion_url": "https://news.ycombinator.com/item?id=48905091",
-    "description": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+    "score": 617,
+    "comments": 217,
+    "id": 48910545,
+    "discussion_url": "https://news.ycombinator.com/item?id=48910545",
+    "description": "Bonsai 27B: A 27B-Class model that runs on a phone",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.350052"
+    "fetched_at": "2026-07-15T11:32:58.694125"
   },
   {
-    "title": "Codex starts encrypting sub-agent prompts",
-    "url": "https://github.com/openai/codex/issues/28058",
-    "author": "embedding-shape",
+    "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+    "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+    "author": "Synthetic7346",
     "date": "2026-07-14",
-    "score": 388,
-    "comments": 231,
-    "id": 48905028,
-    "discussion_url": "https://news.ycombinator.com/item?id=48905028",
-    "description": "Codex starts encrypting sub-agent prompts",
+    "score": 383,
+    "comments": 181,
+    "id": 48910676,
+    "discussion_url": "https://news.ycombinator.com/item?id=48910676",
+    "description": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349923"
+    "fetched_at": "2026-07-15T11:32:58.694105"
+  },
+  {
+    "title": "Demis Hassabis has a plan to harness AI safely",
+    "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+    "author": "asiergoni",
+    "date": "2026-07-14",
+    "score": 148,
+    "comments": 195,
+    "id": 48904095,
+    "discussion_url": "https://news.ycombinator.com/item?id=48904095",
+    "description": "Demis Hassabis has a plan to harness AI safely",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T11:32:58.694269"
+  },
+  {
+    "title": "Dependabot version updates introduce default package cooldown",
+    "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+    "author": "woodruffw",
+    "date": "2026-07-14",
+    "score": 183,
+    "comments": 114,
+    "id": 48913050,
+    "discussion_url": "https://news.ycombinator.com/item?id=48913050",
+    "description": "Dependabot version updates introduce default package cooldown",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T11:32:58.694159"
   },
   {
     "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
     "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
     "author": "roundabout-host",
     "date": "2026-07-14",
-    "score": 337,
-    "comments": 218,
+    "score": 543,
+    "comments": 387,
     "id": 48903777,
     "discussion_url": "https://news.ycombinator.com/item?id=48903777",
     "description": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
@@ -116,49 +133,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349850"
+    "fetched_at": "2026-07-15T11:32:58.694239"
   },
   {
-    "title": "Fundamentals of Wireless Communication (2005)",
-    "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-    "author": "teleforce",
+    "title": "How I use HTMX with Go",
+    "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+    "author": "gnabgib",
     "date": "2026-07-14",
-    "score": 167,
-    "comments": 11,
-    "id": 48901454,
-    "discussion_url": "https://news.ycombinator.com/item?id=48901454",
-    "description": "Fundamentals of Wireless Communication (2005)",
+    "score": 261,
+    "comments": 74,
+    "id": 48912175,
+    "discussion_url": "https://news.ycombinator.com/item?id=48912175",
+    "description": "How I use HTMX with Go",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349988"
-  },
-  {
-    "title": "Germany set to restrict its Freedom of Information Act",
-    "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
-    "author": "robtherobber",
-    "date": "2026-07-14",
-    "score": 241,
-    "comments": 153,
-    "id": 48905290,
-    "discussion_url": "https://news.ycombinator.com/item?id=48905290",
-    "description": "Germany set to restrict its Freedom of Information Act",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349592"
+    "fetched_at": "2026-07-15T11:32:58.694167"
   },
   {
     "title": "How the FSF sysadmins block botnets with reaction",
     "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
     "author": "pseudolus",
-    "date": "2026-07-12",
-    "score": 127,
-    "comments": 44,
+    "date": "2026-07-11",
+    "score": 163,
+    "comments": 72,
     "id": 48876809,
     "discussion_url": "https://news.ycombinator.com/item?id=48876809",
     "description": "How the FSF sysadmins block botnets with reaction",
@@ -167,32 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349867"
-  },
-  {
-    "title": "How to build a circular LCD clock",
-    "url": "https://blinry.org/lcd-clock/",
-    "author": "birdculture",
-    "date": "2026-07-12",
-    "score": 131,
-    "comments": 62,
-    "id": 48872833,
-    "discussion_url": "https://news.ycombinator.com/item?id=48872833",
-    "description": "How to build a circular LCD clock",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.350083"
+    "fetched_at": "2026-07-15T11:32:58.694308"
   },
   {
     "title": "How to stop Claude from saying load-bearing",
     "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
     "author": "shintoist",
     "date": "2026-07-14",
-    "score": 244,
-    "comments": 333,
+    "score": 546,
+    "comments": 567,
     "id": 48905248,
     "discussion_url": "https://news.ycombinator.com/item?id=48905248",
     "description": "How to stop Claude from saying load-bearing",
@@ -201,15 +184,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349574"
+    "fetched_at": "2026-07-15T11:32:58.694227"
+  },
+  {
+    "title": "I tricked Claude into leaking your deepest, darkest secrets",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "author": "macleginn",
+    "date": "2026-07-15",
+    "score": 373,
+    "comments": 173,
+    "id": 48916975,
+    "discussion_url": "https://news.ycombinator.com/item?id=48916975",
+    "description": "I tricked Claude into leaking your deepest, darkest secrets",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T11:32:58.694137"
+  },
+  {
+    "title": "I'm a USB-C Maximalist",
+    "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+    "author": "speckx",
+    "date": "2026-07-14",
+    "score": 299,
+    "comments": 393,
+    "id": 48908214,
+    "discussion_url": "https://news.ycombinator.com/item?id=48908214",
+    "description": "I'm a USB-C Maximalist",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T11:32:58.694210"
   },
   {
     "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
     "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
     "author": "BaudouinVH",
     "date": "2026-07-14",
-    "score": 173,
-    "comments": 20,
+    "score": 207,
+    "comments": 22,
     "id": 48903082,
     "discussion_url": "https://news.ycombinator.com/item?id=48903082",
     "description": "Indian scientists produce most detailed 3D atlas of the human brainstem",
@@ -218,49 +235,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349496"
+    "fetched_at": "2026-07-15T11:32:58.694301"
   },
   {
-    "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-    "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-    "author": "donohoe",
-    "date": "2026-07-14",
-    "score": 693,
-    "comments": 182,
-    "id": 48901569,
-    "discussion_url": "https://news.ycombinator.com/item?id=48901569",
-    "description": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+    "title": "Jurassic Park computers in excruciating detail",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "author": "vinhnx",
+    "date": "2026-07-15",
+    "score": 528,
+    "comments": 125,
+    "id": 48915709,
+    "discussion_url": "https://news.ycombinator.com/item?id=48915709",
+    "description": "Jurassic Park computers in excruciating detail",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.350287"
+    "fetched_at": "2026-07-15T11:32:58.694116"
   },
   {
-    "title": "Just Let Me Write Digits",
-    "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
-    "author": "brandon_bot",
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+    "url": "https://www.benjamin-bai.com/projects/lemario",
+    "author": "kevinjosethomas",
     "date": "2026-07-14",
-    "score": 135,
-    "comments": 73,
-    "id": 48902791,
-    "discussion_url": "https://news.ycombinator.com/item?id=48902791",
-    "description": "Just Let Me Write Digits",
+    "score": 115,
+    "comments": 13,
+    "id": 48913763,
+    "discussion_url": "https://news.ycombinator.com/item?id=48913763",
+    "description": "LeMario: Training a JEPA World Model on Super Mario Bros",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.350020"
+    "fetched_at": "2026-07-15T11:32:58.694242"
   },
   {
     "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
     "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
     "author": "hoechst",
-    "date": "2026-07-15",
-    "score": 202,
-    "comments": 100,
+    "date": "2026-07-14",
+    "score": 377,
+    "comments": 251,
     "id": 48909424,
     "discussion_url": "https://news.ycombinator.com/item?id=48909424",
     "description": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
@@ -269,49 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349886"
+    "fetched_at": "2026-07-15T11:32:58.694284"
   },
   {
-    "title": "Nokia’s years of mobile-phone supremacy ended in an afternoon",
-    "url": "https://spectrum.ieee.org/nokia-phones-history",
-    "author": "jruohonen",
-    "date": "2026-07-13",
-    "score": 167,
-    "comments": 144,
-    "id": 48892709,
-    "discussion_url": "https://news.ycombinator.com/item?id=48892709",
-    "description": "Nokia’s years of mobile-phone supremacy ended in an afternoon",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.350179"
-  },
-  {
-    "title": "Proof of care in the age of AI",
-    "url": "https://jacobfilipp.com/care/",
-    "author": "jfil",
+    "title": "Microsoft has released software updates to plug at least 570 security holes",
+    "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+    "author": "robin_reala",
     "date": "2026-07-14",
-    "score": 151,
-    "comments": 96,
-    "id": 48906125,
-    "discussion_url": "https://news.ycombinator.com/item?id=48906125",
-    "description": "Proof of care in the age of AI",
+    "score": 143,
+    "comments": 94,
+    "id": 48913190,
+    "discussion_url": "https://news.ycombinator.com/item?id=48913190",
+    "description": "Microsoft has released software updates to plug at least 570 security holes",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.350067"
+    "fetched_at": "2026-07-15T11:32:58.694200"
   },
   {
     "title": "Punch yourself in the face with reality",
     "url": "https://adi.bio/reality",
     "author": "AdityaAnand1",
     "date": "2026-07-14",
-    "score": 149,
-    "comments": 76,
+    "score": 230,
+    "comments": 112,
     "id": 48905118,
     "discussion_url": "https://news.ycombinator.com/item?id=48905118",
     "description": "Punch yourself in the face with reality",
@@ -320,32 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349782"
-  },
-  {
-    "title": "S&P downgrades Oracle to BBB – only one notch above junk level",
-    "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
-    "author": "gepeto42",
-    "date": "2026-07-15",
-    "score": 207,
-    "comments": 159,
-    "id": 48909768,
-    "discussion_url": "https://news.ycombinator.com/item?id=48909768",
-    "description": "S&P downgrades Oracle to BBB – only one notch above junk level",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349698"
+    "fetched_at": "2026-07-15T11:32:58.694223"
   },
   {
     "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
     "url": "https://satellitemap.space/",
     "author": "rolph",
     "date": "2026-07-14",
-    "score": 149,
-    "comments": 75,
+    "score": 160,
+    "comments": 97,
     "id": 48901356,
     "discussion_url": "https://news.ycombinator.com/item?id=48901356",
     "description": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
@@ -354,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349610"
+    "fetched_at": "2026-07-15T11:32:58.694288"
   },
   {
     "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
     "url": "https://github.com/juggler-ai/juggler",
     "author": "julesrms",
-    "date": "2026-07-13",
-    "score": 109,
-    "comments": 67,
+    "date": "2026-07-12",
+    "score": 248,
+    "comments": 107,
     "id": 48883305,
     "discussion_url": "https://news.ycombinator.com/item?id=48883305",
     "description": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
@@ -371,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349419"
+    "fetched_at": "2026-07-15T11:32:58.694206"
   },
   {
     "title": "Show HN: Opening lines of famous literary works",
     "url": "https://www.verbaprima.com/",
     "author": "plicerin",
-    "date": "2026-07-15",
-    "score": 102,
-    "comments": 63,
+    "date": "2026-07-14",
+    "score": 169,
+    "comments": 97,
     "id": 48908271,
     "discussion_url": "https://news.ycombinator.com/item?id=48908271",
     "description": "Show HN: Opening lines of famous literary works",
@@ -388,49 +371,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349647"
+    "fetched_at": "2026-07-15T11:32:58.694246"
   },
   {
-    "title": "The Economics of Recursive Self-Improvement [pdf]",
-    "url": "https://elasticity.institute/rsi-paper.pdf",
-    "author": "apsec112",
-    "date": "2026-07-14",
-    "score": 135,
-    "comments": 73,
-    "id": 48901224,
-    "discussion_url": "https://news.ycombinator.com/item?id=48901224",
-    "description": "The Economics of Recursive Self-Improvement [pdf]",
+    "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+    "url": "https://www.starfleetmath.com/",
+    "author": "colin7snyder",
+    "date": "2026-07-15",
+    "score": 141,
+    "comments": 81,
+    "id": 48914646,
+    "discussion_url": "https://news.ycombinator.com/item?id=48914646",
+    "description": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.350131"
+    "fetched_at": "2026-07-15T11:32:58.694188"
   },
   {
-    "title": "The Future Worth Building Is Human",
-    "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-    "author": "bilsbie",
-    "date": "2026-07-14",
-    "score": 100,
-    "comments": 59,
-    "id": 48904905,
-    "discussion_url": "https://news.ycombinator.com/item?id=48904905",
-    "description": "The Future Worth Building Is Human",
+    "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+    "url": "https://tailscale.com/security-bulletins",
+    "author": "jervant",
+    "date": "2026-07-15",
+    "score": 165,
+    "comments": 93,
+    "id": 48915004,
+    "discussion_url": "https://news.ycombinator.com/item?id=48915004",
+    "description": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.350036"
+    "fetched_at": "2026-07-15T11:32:58.694133"
   },
   {
     "title": "The Tower Keeps Rising",
     "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
     "author": "cdrnsf",
-    "date": "2026-07-15",
-    "score": 105,
-    "comments": 34,
+    "date": "2026-07-14",
+    "score": 483,
+    "comments": 227,
     "id": 48909785,
     "discussion_url": "https://news.ycombinator.com/item?id=48909785",
     "description": "The Tower Keeps Rising",
@@ -439,66 +422,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349265"
+    "fetched_at": "2026-07-15T11:32:58.694129"
   },
   {
-    "title": "The git history command",
-    "url": "https://lalitm.com/post/git-history/",
-    "author": "turbocon",
-    "date": "2026-07-14",
-    "score": 412,
-    "comments": 288,
-    "id": 48901010,
-    "discussion_url": "https://news.ycombinator.com/item?id=48901010",
-    "description": "The git history command",
+    "title": "The kids with phones are alright",
+    "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+    "author": "JumpCrisscross",
+    "date": "2026-07-11",
+    "score": 223,
+    "comments": 249,
+    "id": 48870217,
+    "discussion_url": "https://news.ycombinator.com/item?id=48870217",
+    "description": "The kids with phones are alright",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.350320"
+    "fetched_at": "2026-07-15T11:32:58.694256"
   },
   {
-    "title": "The infinite scroll may become endangered if controversial Calif. law passes",
-    "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
-    "author": "Stratoscope",
-    "date": "2026-07-14",
-    "score": 216,
-    "comments": 413,
-    "id": 48897104,
-    "discussion_url": "https://news.ycombinator.com/item?id=48897104",
-    "description": "The infinite scroll may become endangered if controversial Calif. law passes",
+    "title": "The largest available Minecraft world, totalling 15 TB",
+    "url": "https://2b2t.place/1million",
+    "author": "_____k",
+    "date": "2026-07-11",
+    "score": 226,
+    "comments": 73,
+    "id": 48872401,
+    "discussion_url": "https://news.ycombinator.com/item?id=48872401",
+    "description": "The largest available Minecraft world, totalling 15 TB",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.350162"
+    "fetched_at": "2026-07-15T11:32:58.694121"
   },
   {
-    "title": "YouTrackDB is a general-use object-oriented graph database",
-    "url": "https://github.com/JetBrains/youtrackdb",
-    "author": "gjvc",
-    "date": "2026-07-14",
-    "score": 164,
-    "comments": 59,
-    "id": 48902026,
-    "discussion_url": "https://news.ycombinator.com/item?id=48902026",
-    "description": "YouTrackDB is a general-use object-oriented graph database",
+    "title": "The zero-cost fallacy: open-source software in the agentic era",
+    "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+    "author": "backlit4034",
+    "date": "2026-07-10",
+    "score": 149,
+    "comments": 119,
+    "id": 48865001,
+    "discussion_url": "https://news.ycombinator.com/item?id=48865001",
+    "description": "The zero-cost fallacy: open-source software in the agentic era",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.350004"
+    "fetched_at": "2026-07-15T11:32:58.694278"
+  },
+  {
+    "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+    "url": "https://vpd.ca/",
+    "author": "LookAtThatBacon",
+    "date": "2026-07-15",
+    "score": 287,
+    "comments": 120,
+    "id": 48914644,
+    "discussion_url": "https://news.ycombinator.com/item?id=48914644",
+    "description": "Vancouver PD website features Quick Escape button that wipes itself from history",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T11:32:58.694146"
   },
   {
     "title": "Your 'app' could have been a webpage (so I fixed it for you)",
     "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
     "author": "MrVandemar",
     "date": "2026-07-11",
-    "score": 495,
-    "comments": 334,
+    "score": 827,
+    "comments": 493,
     "id": 48869989,
     "discussion_url": "https://news.ycombinator.com/item?id=48869989",
     "description": "Your 'app' could have been a webpage (so I fixed it for you)",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T04:47:28.349766"
+    "fetched_at": "2026-07-15T11:32:58.694203"
   }
 ]
