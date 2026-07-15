@@ -1,62 +1,28 @@
 [
   {
-    "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-    "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-    "author": "alok-g",
+    "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
+    "url": "https://cdrom.ca/games/2026/05/30/xd.html",
+    "author": "zetamax",
     "date": "2026-07-14",
-    "score": 138,
-    "comments": 73,
-    "id": 48903715,
-    "discussion_url": "https://news.ycombinator.com/item?id=48903715",
-    "description": "Alternative(s) to run CUDA on non-Nvidia hardware",
+    "score": 51,
+    "comments": 9,
+    "id": 48901083,
+    "discussion_url": "https://news.ycombinator.com/item?id=48901083",
+    "description": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694294"
-  },
-  {
-    "title": "Are we offloading too much of our thinking to AI?",
-    "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-    "author": "yenniejun111",
-    "date": "2026-07-14",
-    "score": 485,
-    "comments": 437,
-    "id": 48908178,
-    "discussion_url": "https://news.ycombinator.com/item?id=48908178",
-    "description": "Are we offloading too much of our thinking to AI?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694220"
-  },
-  {
-    "title": "Australian energy retailers must offer three hours of free daytime electricity",
-    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "author": "i2oc",
-    "date": "2026-07-14",
-    "score": 274,
-    "comments": 377,
-    "id": 48902320,
-    "discussion_url": "https://news.ycombinator.com/item?id=48902320",
-    "description": "Australian energy retailers must offer three hours of free daytime electricity",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694230"
+    "fetched_at": "2026-07-15T19:30:53.049212"
   },
   {
     "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
     "url": "https://prismml.com/news/bonsai-27b",
     "author": "xenova",
     "date": "2026-07-14",
-    "score": 617,
-    "comments": 217,
+    "score": 673,
+    "comments": 240,
     "id": 48910545,
     "discussion_url": "https://news.ycombinator.com/item?id=48910545",
     "description": "Bonsai 27B: A 27B-Class model that runs on a phone",
@@ -65,185 +31,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694125"
+    "fetched_at": "2026-07-15T19:30:53.049240"
   },
   {
-    "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-    "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-    "author": "Synthetic7346",
-    "date": "2026-07-14",
-    "score": 383,
-    "comments": 181,
-    "id": 48910676,
-    "discussion_url": "https://news.ycombinator.com/item?id=48910676",
-    "description": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694105"
-  },
-  {
-    "title": "Demis Hassabis has a plan to harness AI safely",
-    "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-    "author": "asiergoni",
-    "date": "2026-07-14",
-    "score": 148,
-    "comments": 195,
-    "id": 48904095,
-    "discussion_url": "https://news.ycombinator.com/item?id=48904095",
-    "description": "Demis Hassabis has a plan to harness AI safely",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694269"
-  },
-  {
-    "title": "Dependabot version updates introduce default package cooldown",
-    "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-    "author": "woodruffw",
-    "date": "2026-07-14",
-    "score": 183,
-    "comments": 114,
-    "id": 48913050,
-    "discussion_url": "https://news.ycombinator.com/item?id=48913050",
-    "description": "Dependabot version updates introduce default package cooldown",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694159"
-  },
-  {
-    "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-    "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-    "author": "roundabout-host",
-    "date": "2026-07-14",
-    "score": 543,
-    "comments": 387,
-    "id": 48903777,
-    "discussion_url": "https://news.ycombinator.com/item?id=48903777",
-    "description": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694239"
-  },
-  {
-    "title": "How I use HTMX with Go",
-    "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-    "author": "gnabgib",
-    "date": "2026-07-14",
-    "score": 261,
-    "comments": 74,
-    "id": 48912175,
-    "discussion_url": "https://news.ycombinator.com/item?id=48912175",
-    "description": "How I use HTMX with Go",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694167"
-  },
-  {
-    "title": "How the FSF sysadmins block botnets with reaction",
-    "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
-    "author": "pseudolus",
-    "date": "2026-07-11",
-    "score": 163,
-    "comments": 72,
-    "id": 48876809,
-    "discussion_url": "https://news.ycombinator.com/item?id=48876809",
-    "description": "How the FSF sysadmins block botnets with reaction",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694308"
-  },
-  {
-    "title": "How to stop Claude from saying load-bearing",
-    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-    "author": "shintoist",
-    "date": "2026-07-14",
-    "score": 546,
-    "comments": 567,
-    "id": 48905248,
-    "discussion_url": "https://news.ycombinator.com/item?id=48905248",
-    "description": "How to stop Claude from saying load-bearing",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694227"
-  },
-  {
-    "title": "I tricked Claude into leaking your deepest, darkest secrets",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "author": "macleginn",
+    "title": "Briar is in maintenance mode",
+    "url": "https://briarproject.org/news/2026-maintenance-mode/",
+    "author": "ristello",
     "date": "2026-07-15",
-    "score": 373,
-    "comments": 173,
-    "id": 48916975,
-    "discussion_url": "https://news.ycombinator.com/item?id=48916975",
-    "description": "I tricked Claude into leaking your deepest, darkest secrets",
+    "score": 111,
+    "comments": 77,
+    "id": 48919869,
+    "discussion_url": "https://news.ycombinator.com/item?id=48919869",
+    "description": "Briar is in maintenance mode",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694137"
+    "fetched_at": "2026-07-15T19:30:53.049081"
   },
   {
-    "title": "I'm a USB-C Maximalist",
-    "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-    "author": "speckx",
-    "date": "2026-07-14",
-    "score": 299,
-    "comments": 393,
-    "id": 48908214,
-    "discussion_url": "https://news.ycombinator.com/item?id=48908214",
-    "description": "I'm a USB-C Maximalist",
+    "title": "Codex Micro",
+    "url": "https://openai.com/supply/co-lab/work-louder/",
+    "author": "davidbarker",
+    "date": "2026-07-15",
+    "score": 176,
+    "comments": 148,
+    "id": 48923079,
+    "discussion_url": "https://news.ycombinator.com/item?id=48923079",
+    "description": "Codex Micro",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694210"
+    "fetched_at": "2026-07-15T19:30:53.049033"
   },
   {
-    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-    "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-    "author": "BaudouinVH",
-    "date": "2026-07-14",
-    "score": 207,
-    "comments": 22,
-    "id": 48903082,
-    "discussion_url": "https://news.ycombinator.com/item?id=48903082",
-    "description": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+    "title": "Collection of Digital Clock Designs",
+    "url": "https://clocks.dev",
+    "author": "levmiseri",
+    "date": "2026-07-15",
+    "score": 64,
+    "comments": 18,
+    "id": 48923380,
+    "discussion_url": "https://news.ycombinator.com/item?id=48923380",
+    "description": "Collection of Digital Clock Designs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694301"
+    "fetched_at": "2026-07-15T19:30:53.049096"
+  },
+  {
+    "title": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
+    "url": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
+    "author": "gnabgib",
+    "date": "2026-07-15",
+    "score": 70,
+    "comments": 144,
+    "id": 48922185,
+    "discussion_url": "https://news.ycombinator.com/item?id=48922185",
+    "description": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049148"
+  },
+  {
+    "title": "DSLs Enable Reliable Use of LLMs",
+    "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+    "author": "SirOibaf",
+    "date": "2026-07-15",
+    "score": 101,
+    "comments": 69,
+    "id": 48918575,
+    "discussion_url": "https://news.ycombinator.com/item?id=48918575",
+    "description": "DSLs Enable Reliable Use of LLMs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049199"
+  },
+  {
+    "title": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
+    "url": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
+    "author": "lr0",
+    "date": "2026-07-15",
+    "score": 64,
+    "comments": 12,
+    "id": 48923363,
+    "discussion_url": "https://news.ycombinator.com/item?id=48923363",
+    "description": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049145"
+  },
+  {
+    "title": "Inkling: Our Open-Weights Model",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "author": "vimarsh6739",
+    "date": "2026-07-15",
+    "score": 111,
+    "comments": 43,
+    "id": 48924912,
+    "discussion_url": "https://news.ycombinator.com/item?id=48924912",
+    "description": "Inkling: Our Open-Weights Model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049017"
   },
   {
     "title": "Jurassic Park computers in excruciating detail",
     "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
     "author": "vinhnx",
     "date": "2026-07-15",
-    "score": 528,
-    "comments": 125,
+    "score": 833,
+    "comments": 216,
     "id": 48915709,
     "discussion_url": "https://news.ycombinator.com/item?id=48915709",
     "description": "Jurassic Park computers in excruciating detail",
@@ -252,49 +167,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694116"
+    "fetched_at": "2026-07-15T19:30:53.049151"
   },
   {
-    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-    "url": "https://www.benjamin-bai.com/projects/lemario",
-    "author": "kevinjosethomas",
-    "date": "2026-07-14",
-    "score": 115,
-    "comments": 13,
-    "id": 48913763,
-    "discussion_url": "https://news.ycombinator.com/item?id=48913763",
-    "description": "LeMario: Training a JEPA World Model on Super Mario Bros",
+    "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
+    "url": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/",
+    "author": "robtherobber",
+    "date": "2026-07-15",
+    "score": 89,
+    "comments": 46,
+    "id": 48920338,
+    "discussion_url": "https://news.ycombinator.com/item?id=48920338",
+    "description": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694242"
-  },
-  {
-    "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-    "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-    "author": "hoechst",
-    "date": "2026-07-14",
-    "score": 377,
-    "comments": 251,
-    "id": 48909424,
-    "discussion_url": "https://news.ycombinator.com/item?id=48909424",
-    "description": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694284"
+    "fetched_at": "2026-07-15T19:30:53.049222"
   },
   {
     "title": "Microsoft has released software updates to plug at least 570 security holes",
     "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
     "author": "robin_reala",
     "date": "2026-07-14",
-    "score": 143,
-    "comments": 94,
+    "score": 188,
+    "comments": 112,
     "id": 48913190,
     "discussion_url": "https://news.ycombinator.com/item?id=48913190",
     "description": "Microsoft has released software updates to plug at least 570 security holes",
@@ -303,134 +201,236 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694200"
+    "fetched_at": "2026-07-15T19:30:53.049216"
   },
   {
-    "title": "Punch yourself in the face with reality",
-    "url": "https://adi.bio/reality",
-    "author": "AdityaAnand1",
-    "date": "2026-07-14",
-    "score": 230,
-    "comments": 112,
-    "id": 48905118,
-    "discussion_url": "https://news.ycombinator.com/item?id=48905118",
-    "description": "Punch yourself in the face with reality",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694223"
-  },
-  {
-    "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
-    "url": "https://satellitemap.space/",
-    "author": "rolph",
-    "date": "2026-07-14",
-    "score": 160,
-    "comments": 97,
-    "id": 48901356,
-    "discussion_url": "https://news.ycombinator.com/item?id=48901356",
-    "description": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694288"
-  },
-  {
-    "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-    "url": "https://github.com/juggler-ai/juggler",
-    "author": "julesrms",
-    "date": "2026-07-12",
-    "score": 248,
-    "comments": 107,
-    "id": 48883305,
-    "discussion_url": "https://news.ycombinator.com/item?id=48883305",
-    "description": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694206"
-  },
-  {
-    "title": "Show HN: Opening lines of famous literary works",
-    "url": "https://www.verbaprima.com/",
-    "author": "plicerin",
-    "date": "2026-07-14",
-    "score": 169,
-    "comments": 97,
-    "id": 48908271,
-    "discussion_url": "https://news.ycombinator.com/item?id=48908271",
-    "description": "Show HN: Opening lines of famous literary works",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694246"
-  },
-  {
-    "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
-    "url": "https://www.starfleetmath.com/",
-    "author": "colin7snyder",
+    "title": "My midlife crisis Corolla is fast, furious, and modded",
+    "url": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+    "author": "gmays",
     "date": "2026-07-15",
-    "score": 141,
-    "comments": 81,
-    "id": 48914646,
-    "discussion_url": "https://news.ycombinator.com/item?id=48914646",
-    "description": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+    "score": 101,
+    "comments": 206,
+    "id": 48921303,
+    "discussion_url": "https://news.ycombinator.com/item?id=48921303",
+    "description": "My midlife crisis Corolla is fast, furious, and modded",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694188"
+    "fetched_at": "2026-07-15T19:30:53.049089"
   },
   {
-    "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-    "url": "https://tailscale.com/security-bulletins",
-    "author": "jervant",
+    "title": "Mysteries of Telegram Data Centers (2022)",
+    "url": "https://dev.moe/en/3025",
+    "author": "theanonymousone",
     "date": "2026-07-15",
-    "score": 165,
-    "comments": 93,
-    "id": 48915004,
-    "discussion_url": "https://news.ycombinator.com/item?id=48915004",
-    "description": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+    "score": 189,
+    "comments": 73,
+    "id": 48920475,
+    "discussion_url": "https://news.ycombinator.com/item?id=48920475",
+    "description": "Mysteries of Telegram Data Centers (2022)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694133"
+    "fetched_at": "2026-07-15T19:30:53.049073"
   },
   {
-    "title": "The Tower Keeps Rising",
-    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "author": "cdrnsf",
-    "date": "2026-07-14",
-    "score": 483,
-    "comments": 227,
-    "id": 48909785,
-    "discussion_url": "https://news.ycombinator.com/item?id=48909785",
-    "description": "The Tower Keeps Rising",
+    "title": "Open-source memory for coding agents, synced over SSH",
+    "url": "https://github.com/vshulcz/deja-vu/",
+    "author": "vshulcz",
+    "date": "2026-07-15",
+    "score": 68,
+    "comments": 16,
+    "id": 48923111,
+    "discussion_url": "https://news.ycombinator.com/item?id=48923111",
+    "description": "Open-source memory for coding agents, synced over SSH",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694129"
+    "fetched_at": "2026-07-15T19:30:53.049055"
+  },
+  {
+    "title": "OpenAI loses trademark dispute at EU court",
+    "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+    "author": "hermanzegerman",
+    "date": "2026-07-15",
+    "score": 164,
+    "comments": 113,
+    "id": 48921461,
+    "discussion_url": "https://news.ycombinator.com/item?id=48921461",
+    "description": "OpenAI loses trademark dispute at EU court",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049120"
+  },
+  {
+    "title": "Prioritize mental health, and why communication is so important",
+    "url": "https://ramones.dev/posts/mental-health/",
+    "author": "ramon156",
+    "date": "2026-07-15",
+    "score": 216,
+    "comments": 143,
+    "id": 48919198,
+    "discussion_url": "https://news.ycombinator.com/item?id=48919198",
+    "description": "Prioritize mental health, and why communication is so important",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049064"
+  },
+  {
+    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+    "author": "neomindryan",
+    "date": "2026-07-15",
+    "score": 143,
+    "comments": 76,
+    "id": 48922434,
+    "discussion_url": "https://news.ycombinator.com/item?id=48922434",
+    "description": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049069"
+  },
+  {
+    "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+    "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+    "author": "nonadhocproblem",
+    "date": "2026-07-15",
+    "score": 82,
+    "comments": 30,
+    "id": 48922838,
+    "discussion_url": "https://news.ycombinator.com/item?id=48922838",
+    "description": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049042"
+  },
+  {
+    "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+    "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+    "author": "bilsbie",
+    "date": "2026-07-15",
+    "score": 576,
+    "comments": 285,
+    "id": 48919363,
+    "discussion_url": "https://news.ycombinator.com/item?id=48919363",
+    "description": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049102"
+  },
+  {
+    "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+    "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+    "author": "rvz",
+    "date": "2026-07-15",
+    "score": 125,
+    "comments": 68,
+    "id": 48915953,
+    "discussion_url": "https://news.ycombinator.com/item?id=48915953",
+    "description": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049038"
+  },
+  {
+    "title": "Telegram Serverless",
+    "url": "https://core.telegram.org/bots/serverless",
+    "author": "soheilpro",
+    "date": "2026-07-15",
+    "score": 136,
+    "comments": 83,
+    "id": 48918534,
+    "discussion_url": "https://news.ycombinator.com/item?id=48918534",
+    "description": "Telegram Serverless",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049138"
+  },
+  {
+    "title": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
+    "url": "https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game",
+    "author": "bryanmikaelian",
+    "date": "2026-07-14",
+    "score": 73,
+    "comments": 13,
+    "id": 48906893,
+    "discussion_url": "https://news.ycombinator.com/item?id=48906893",
+    "description": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049131"
+  },
+  {
+    "title": "The Memory Heist",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "author": "eieio",
+    "date": "2026-07-14",
+    "score": 56,
+    "comments": 5,
+    "id": 48912013,
+    "discussion_url": "https://news.ycombinator.com/item?id=48912013",
+    "description": "The Memory Heist",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049106"
+  },
+  {
+    "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+    "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+    "author": "dxs",
+    "date": "2026-07-15",
+    "score": 136,
+    "comments": 174,
+    "id": 48920432,
+    "discussion_url": "https://news.ycombinator.com/item?id=48920432",
+    "description": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049113"
   },
   {
     "title": "The kids with phones are alright",
     "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
     "author": "JumpCrisscross",
     "date": "2026-07-11",
-    "score": 223,
-    "comments": 249,
+    "score": 253,
+    "comments": 345,
     "id": 48870217,
     "discussion_url": "https://news.ycombinator.com/item?id=48870217",
     "description": "The kids with phones are alright",
@@ -439,74 +439,74 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694256"
+    "fetched_at": "2026-07-15T19:30:53.049229"
   },
   {
-    "title": "The largest available Minecraft world, totalling 15 TB",
-    "url": "https://2b2t.place/1million",
-    "author": "_____k",
-    "date": "2026-07-11",
-    "score": 226,
-    "comments": 73,
-    "id": 48872401,
-    "discussion_url": "https://news.ycombinator.com/item?id=48872401",
-    "description": "The largest available Minecraft world, totalling 15 TB",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694121"
-  },
-  {
-    "title": "The zero-cost fallacy: open-source software in the agentic era",
-    "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-    "author": "backlit4034",
-    "date": "2026-07-10",
-    "score": 149,
-    "comments": 119,
-    "id": 48865001,
-    "discussion_url": "https://news.ycombinator.com/item?id=48865001",
-    "description": "The zero-cost fallacy: open-source software in the agentic era",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694278"
-  },
-  {
-    "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-    "url": "https://vpd.ca/",
-    "author": "LookAtThatBacon",
+    "title": "Towards a harness that can do anything",
+    "url": "https://eardatasci.github.io/c/ambiance/index.html",
+    "author": "evakhoury",
     "date": "2026-07-15",
-    "score": 287,
-    "comments": 120,
-    "id": 48914644,
-    "discussion_url": "https://news.ycombinator.com/item?id=48914644",
-    "description": "Vancouver PD website features Quick Escape button that wipes itself from history",
+    "score": 111,
+    "comments": 61,
+    "id": 48921077,
+    "discussion_url": "https://news.ycombinator.com/item?id=48921077",
+    "description": "Towards a harness that can do anything",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694146"
+    "fetched_at": "2026-07-15T19:30:53.049077"
   },
   {
-    "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-    "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-    "author": "MrVandemar",
-    "date": "2026-07-11",
-    "score": 827,
-    "comments": 493,
-    "id": 48869989,
-    "discussion_url": "https://news.ycombinator.com/item?id=48869989",
-    "description": "Your 'app' could have been a webpage (so I fixed it for you)",
+    "title": "Weathergotchi – an E-Paper Climate Logger",
+    "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
+    "author": "luanmuniz",
+    "date": "2026-07-15",
+    "score": 99,
+    "comments": 22,
+    "id": 48919013,
+    "discussion_url": "https://news.ycombinator.com/item?id=48919013",
+    "description": "Weathergotchi – an E-Paper Climate Logger",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-15T11:32:58.694203"
+    "fetched_at": "2026-07-15T19:30:53.049134"
+  },
+  {
+    "title": "Who's running all those tiny RPKI servers?",
+    "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+    "author": "enz",
+    "date": "2026-07-15",
+    "score": 70,
+    "comments": 16,
+    "id": 48917055,
+    "discussion_url": "https://news.ycombinator.com/item?id=48917055",
+    "description": "Who's running all those tiny RPKI servers?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049233"
+  },
+  {
+    "title": "Why I Left Google DeepMind",
+    "url": "https://turntrout.com/why-i-left-google-deepmind",
+    "author": "apsec112",
+    "date": "2026-07-15",
+    "score": 120,
+    "comments": 50,
+    "id": 48925271,
+    "discussion_url": "https://news.ycombinator.com/item?id=48925271",
+    "description": "Why I Left Google DeepMind",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-15T19:30:53.049050"
   }
 ]
