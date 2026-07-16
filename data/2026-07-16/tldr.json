@@ -1,5 +1,15 @@
 [
   {
+    "title": "5 Trends That Defined AI Engineering at World's Fair 2026 (17 minute read)",
+    "url": "https://www.latent.space/p/aiewf26trends",
+    "description": "5 Trends That Defined AI Engineering at World's Fair 2026 (17 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-16",
+    "site_name": "tldr"
+  },
+  {
     "title": "5 pitfalls to avoid when measuring DevEx in the AI era (4 minute read)",
     "url": "https://www.datadoghq.com/blog/devex-measurement-pitfalls-ai-era/",
     "description": "5 pitfalls to avoid when measuring DevEx in the AI era (4 minute read)",
@@ -30,16 +40,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "A Puerto Rico Government Agency Exposed 1M Social Security Numbers (3 minute read)",
-    "url": "https://www.propublica.org/article/puerto-rico-crim-data-breach",
-    "description": "A Puerto Rico Government Agency Exposed 1M Social Security Numbers (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed (7 minute read)",
     "url": "https://blog.cloudflare.com/dnssec-nta-ede-33/",
     "description": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed (7 minute read)",
@@ -50,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AEO Job Openings in 2026: Salary Data, Hiring Trends, and Market Insights (9 minute read)",
-    "url": "https://www.kaleighmoore.com/blog/2026/7/6/ai-search-jobs",
-    "description": "AEO Job Openings in 2026: Salary Data, Hiring Trends, and Market Insights (9 minute read)",
+    "title": "AI Email Design (Website)",
+    "url": "https://studio.flodesk.com/",
+    "description": "AI Email Design (Website)",
     "tags": [
       "tldr"
     ],
@@ -83,16 +83,6 @@
     "title": "AI's Biggest Winners Have the Lowest Margins (6 minute read)",
     "url": "https://x.com/dkfromdk/status/2075696599242821979",
     "description": "AI's Biggest Winners Have the Lowest Margins (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI's Value Capture problem (9 minute read)",
-    "url": "https://x.com/JayaGup10/status/2075074218065265078",
-    "description": "AI's Value Capture problem (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -152,7 +142,7 @@
   {
     "title": "Anthropic's newest ad is creeping people out (4 minute read)",
     "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-    "description": "Anthropic's newest ad is creeping people out (4 minute read)",
+    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
     "tags": [
       "tldr"
     ],
@@ -183,16 +173,6 @@
     "title": "Argo CD 2026 User Survey Results (12 minute read)",
     "url": "https://blog.argoproj.io/argo-cd-2026-user-survey-results-dcffc9a8e48e",
     "description": "Argo CD 2026 User Survey Results (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Automating cross-repo documentation with GitHub Agentic Workflows (9 minute read)",
-    "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
-    "description": "Automating cross-repo documentation with GitHub Agentic Workflows (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -250,16 +230,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Character.AI enters the microdrama arena with its own productions, but there's a twist (1 minute read)",
-    "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-    "description": "Character.AI enters the microdrama arena with its own productions, but there's a twist (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "Circle gets OCC approval to operate as a trust bank (3 minute read)",
     "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
     "description": "Circle gets OCC approval to operate as a trust bank (3 minute read)",
@@ -310,16 +280,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Data is your only moat (6 minute read)",
-    "url": "https://frontierai.substack.com/p/data-is-your-only-moat-884",
-    "description": "Data is your only moat (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse (9 minute read)",
     "url": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/",
     "description": "Defending SaaS-based applications against ShinyHunters OAuth abuse (9 minute read)",
@@ -343,26 +303,6 @@
     "title": "Designing the Design Toolkit: The Hidden Design Behind Successful Workshops (9 minute read)",
     "url": "https://designwanted.com/design-toolkit-hidden-design-behind-workshops/",
     "description": "Designing the Design Toolkit: The Hidden Design Behind Successful Workshops (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Elon Musk quietly buys a $1 billion gas turbine company to power Grok (7 minute read)",
-    "url": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok/",
-    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Email Marketing Trends: What We Learned From 79,235 Real Emails (4 minute read)",
-    "url": "https://emaillove.com/email-marketing-benchmarks-q2-2026",
-    "description": "Email Marketing Trends: What We Learned From 79,235 Real Emails (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -403,36 +343,6 @@
     "title": "Five Years Building the Context Layer - and Why It Belongs in the Agentic Loop (24 minute read)",
     "url": "https://x.com/KirkMarple/status/2076018722977005614",
     "description": "Five Years Building the Context Layer - and Why It Belongs in the Agentic Loop (24 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Friendly Fire: Hijacking Defensive Cyber AI Agents for Remote Code Execution (18 minute read)",
-    "url": "https://ainowinstitute.org/publications/friendly-fire-exploit-brief",
-    "description": "Friendly Fire: Hijacking Defensive Cyber AI Agents for Remote Code Execution (18 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction (14 minute read)",
-    "url": "https://www.smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-    "description": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction (14 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "GPT-5.6 is Now Available in Figma Make (3 minute read)",
-    "url": "https://www.figma.com/blog/gpt-5-6-is-now-available-in-figma-make/",
-    "description": "GPT-5.6 is Now Available in Figma Make (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -560,16 +470,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Meerkat- an experiment in global consensus (14 minute read)",
-    "url": "https://blog.cloudflare.com/meerkat-introduction/",
-    "description": "Introducing Meerkat- an experiment in global consensus (14 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals (7 minute read)",
     "url": "https://blog.cloudflare.com/introducing-precursor/",
     "description": "Introducing Precursor: detecting agentic behavior with continuous client-side signals (7 minute read)",
@@ -600,39 +500,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "It's Not The IT Holding AI Back, It's The Business Processes (6 minute read)",
-    "url": "https://www.cio.com/article/4192383/its-not-the-it-holding-ai-back-its-the-business-processes.html",
-    "description": "It's Not The IT Holding AI Back, It's The Business Processes (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "JetBrains seeks to unify fragmented AI-based software development with governance suite (5 minute read)",
-    "url": "https://www.infoworld.com/article/4195002/jetbrains-seeks-to-unify-fragmented-ai-based-software-development-with-governance-suite.html",
-    "description": "JetBrains seeks to unify fragmented AI-based software development with governance suite (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "Little Snitch for Linux (GitHub Repo)",
     "url": "https://github.com/obdev/littlesnitch-linux",
     "description": "Little Snitch for Linux (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Making AI search smarter (7 minute read)",
-    "url": "https://blog.cloudflare.com/making-ai-search-smarter/",
-    "description": "Making AI search smarter (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -680,9 +550,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft discloses 'the mother of all' vulnerability loads, tripling June's previous record (2 minute read)",
-    "url": "https://cyberscoop.com/microsoft-patch-tuesday-july-2026/",
-    "description": "Microsoft discloses 'the mother of all' vulnerability loads, tripling June's previous record (2 minute read)",
+    "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity (8 minute read)",
+    "url": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
+    "description": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -690,9 +560,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Muse Spark 1.1 (8 minute read)",
-    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-    "description": "Muse Spark 1.1 (8 minute read)",
+    "title": "Microsoft discloses 'the mother of all' vulnerability loads, tripling June's previous record (2 minute read)",
+    "url": "https://cyberscoop.com/microsoft-patch-tuesday-july-2026/",
+    "description": "Microsoft discloses 'the mother of all' vulnerability loads, tripling June's previous record (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -743,36 +613,6 @@
     "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials (3 minute read)",
     "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
     "description": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI launches GPT-5.6 Sol, Terra, and Luna on apps and API (3 minute read)",
-    "url": "https://www.testingcatalog.com/openai-launches-gpt-5-6-sol-terra-and-luna-on-apps-and-api/",
-    "description": "OpenAI launches GPT-5.6 Sol, Terra, and Luna on apps and API (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs (7 minute read)",
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-    "description": "OpenAI may have made a fatal misstep in copyright fight with news orgs (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenMandriva Linux Says Contributor Tried to Sabotage the Project (2 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
-    "description": "OpenMandriva Linux Says Contributor Tried to Sabotage the Project (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -850,26 +690,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ruflo (GitHub Repo)",
-    "url": "https://github.com/ruvnet/ruflo",
-    "description": "Ruflo (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "SEO & AI Tip: Use GSC Generative AI data, Screaming Frog, and Claude Sonnet to identify the prompts you're likely being cited or referred by Google AI Overviews (1 minute read)",
-    "url": "https://www.linkedin.com/posts/danielhinckley_seo-ai-tip-use-gsc-generative-ai-data-share-7480656831107899392-1s80/",
-    "description": "SEO & AI Tip: Use GSC Generative AI data, Screaming Frog, and Claude Sonnet to identify the prompts you're likely being cited or referred by Google AI Overviews (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "Self-service access provisioning: How to give employees what they need without losing control (8 minute read)",
     "url": "https://www.bettercloud.com/monitor/self-service-access-provisioning/",
     "description": "Self-service access provisioning: How to give employees what they need without losing control (8 minute read)",
@@ -920,59 +740,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Stop being the code review bottleneck (8 minute read)",
-    "url": "https://newsletter.posthog.com/p/code-review-tips",
-    "description": "Stop being the code review bottleneck (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Storybook Workbench: Audit Vibe-coded UIs and Find Hidden Bugs in Hours (7 minute read)",
-    "url": "https://evilmartians.com/chronicles/storybook-workbench-audit-vibe-coded-uis-and-find-hidden-bugs-in-hours",
-    "description": "Storybook Workbench: Audit Vibe-coded UIs and Find Hidden Bugs in Hours (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "Strategy sells $467M in MSTR shares, leaves 800k BTC stack untouched (3 minute read)",
     "url": "https://cointelegraph.com/news/strategy-sells-467-million-mstr-keeps-843775-btc-stack",
     "description": "Strategy sells $467M in MSTR shares, leaves 800k BTC stack untouched (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Sunsetting Zapper (3 minute read)",
-    "url": "https://x.com/sebaudet26/status/2074918469376856150",
-    "description": "Sunsetting Zapper (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50% (5 minute read)",
-    "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-    "description": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50% (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Swift Blockchain Ledger Goes Live With 17 Major Banks (1 minute read)",
-    "url": "https://threadreaderapp.com/thread/2075246240799842614.html",
-    "description": "Swift Blockchain Ledger Goes Live With 17 Major Banks (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -993,16 +763,6 @@
     "title": "Terraform MCP Server Explained: Setup and Use Cases (17 minute read)",
     "url": "https://spacelift.io/blog/terraform-mcp-server",
     "description": "Terraform MCP Server Explained: Setup and Use Cases (17 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The 15-minute AI Stress Test Every Designer Can Run (13 minute read)",
-    "url": "https://uxdesign.cc/the-15-minute-ai-stress-test-every-designer-can-run-ce8de95ff5c9",
-    "description": "The 15-minute AI Stress Test Every Designer Can Run (13 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1070,36 +830,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "The OpenAI Deployment Company to Acquire Northslope (4 minute read)",
-    "url": "https://deploy.co/news/the-openai-deployment-company-to-acquire-northslope",
-    "description": "The OpenAI Deployment Company to Acquire Northslope (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The People Who Will Thrive in the AI Age (12 minute read)",
-    "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/?gift=bmvUiu0ra57xGI0zOa4kGmINu--qpr8lFEbQYPTWWTQ&amp%3Butm_source=copy-link&amp%3Butm_medium=social&amp%3Butm_campaign=share",
-    "description": "The People Who Will Thrive in the AI Age (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The Pulse: Interesting AI coding stats from Cursor (7 minute read)",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-interesting-ai-coding-stats",
-    "description": "The Pulse: Interesting AI coding stats from Cursor (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "The Reverse Information Paradox (3 minute read)",
     "url": "https://x.com/satyanadella/status/2076323181154230284",
     "description": "The Reverse Information Paradox (3 minute read)",
@@ -1130,16 +860,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Spec Ceiling: Why AI Coding Speed Moves the Bottleneck to Product Discovery (11 minute read)",
-    "url": "https://magnus919.com/2026/07/the-spec-ceiling-why-ai-coding-speed-moves-the-bottleneck-to-product-discovery/",
-    "description": "The Spec Ceiling: Why AI Coding Speed Moves the Bottleneck to Product Discovery (11 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "The Stuff Nobody Tells You About Startup Marketing (8 minute read)",
     "url": "https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about",
     "description": "The Stuff Nobody Tells You About Startup Marketing (8 minute read)",
@@ -1153,16 +873,6 @@
     "title": "The Tech Bro-ification of Marketing (4 minute read)",
     "url": "https://time.com/article/2026/07/10/tech-bro-ification-of-marketing/",
     "description": "The Tech Bro-ification of Marketing (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The Week the Float Stopped Being a Business Model (5 minute read)",
-    "url": "https://x.com/obchakevich_/status/2075189703985258909",
-    "description": "The Week the Float Stopped Being a Business Model (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1260,19 +970,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ways to think about token pricing (15 minute read)",
-    "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
-    "description": "Ways to think about token pricing (15 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "What 900,000 Lines of AI-Built Code Taught Me About Being Wrong (13 minute read)",
-    "url": "https://leadershiplighthouse.substack.com/p/what-900000-lines-of-ai-built-code",
-    "description": "What 900,000 Lines of AI-Built Code Taught Me About Being Wrong (13 minute read)",
+    "title": "We Didn't Teach Our Designers AI: We Built a Place Where They Could Learn It Together (7 minute read)",
+    "url": "https://slack.design/articles/we-didnt-teach-our-designers-ai-we-built-a-place-where-they-could-learn-it-together/",
+    "description": "We Didn't Teach Our Designers AI: We Built a Place Where They Could Learn It Together (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1283,26 +983,6 @@
     "title": "What Happened to Conferences? (6 minute read)",
     "url": "https://x.com/jonah_b/status/2076708331620855991",
     "description": "What Happened to Conferences? (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "What Happened to the Frontend While You Weren't Watching (18 minute read)",
-    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
-    "description": "What Happened to the Frontend While You Weren't Watching (18 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "What Product Managers Learn Between the Frameworks (4 minute read)",
-    "url": "https://amycmitchell.substack.com/p/product-building-lessons",
-    "description": "What Product Managers Learn Between the Frameworks (4 minute read)",
     "tags": [
       "tldr"
     ],

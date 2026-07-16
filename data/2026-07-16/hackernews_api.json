@@ -1,96 +1,249 @@
 [
   {
-    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "author": "xenova",
-    "date": "2026-07-15",
-    "score": 668,
-    "comments": 239,
-    "id": 48910545,
-    "discussion_url": "https://news.ycombinator.com/item?id=48910545",
-    "description": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+    "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+    "author": "gslin",
+    "date": "2026-07-16",
+    "score": 118,
+    "comments": 18,
+    "id": 48929945,
+    "discussion_url": "https://news.ycombinator.com/item?id=48929945",
+    "description": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344554"
+    "fetched_at": "2026-07-16T11:34:53.534975"
   },
   {
-    "title": "Briar Is in Maintenance Mode",
+    "title": "Bluesky Trademarks ATProto",
+    "url": "https://atproto.com/blog/at-protocol-trademark",
+    "author": "chaosharmonic",
+    "date": "2026-07-16",
+    "score": 115,
+    "comments": 69,
+    "id": 48929351,
+    "discussion_url": "https://news.ycombinator.com/item?id=48929351",
+    "description": "Bluesky Trademarks ATProto",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.535005"
+  },
+  {
+    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+    "url": "https://brainless.swerdlow.dev",
+    "author": "benswerd",
+    "date": "2026-07-15",
+    "score": 124,
+    "comments": 25,
+    "id": 48926085,
+    "discussion_url": "https://news.ycombinator.com/item?id=48926085",
+    "description": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.535081"
+  },
+  {
+    "title": "Briar is in maintenance mode",
     "url": "https://briarproject.org/news/2026-maintenance-mode/",
     "author": "ristello",
     "date": "2026-07-15",
-    "score": 101,
-    "comments": 69,
+    "score": 163,
+    "comments": 99,
     "id": 48919869,
     "discussion_url": "https://news.ycombinator.com/item?id=48919869",
-    "description": "Briar Is in Maintenance Mode",
+    "description": "Briar is in maintenance mode",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.343727"
+    "fetched_at": "2026-07-16T11:34:53.535099"
   },
   {
-    "title": "Codex Micro",
-    "url": "https://openai.com/supply/co-lab/work-louder/",
-    "author": "davidbarker",
-    "date": "2026-07-16",
-    "score": 62,
-    "comments": 65,
-    "id": 48923079,
-    "discussion_url": "https://news.ycombinator.com/item?id=48923079",
-    "description": "Codex Micro",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344364"
-  },
-  {
-    "title": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
-    "url": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
-    "author": "gnabgib",
-    "date": "2026-07-16",
-    "score": 58,
-    "comments": 103,
-    "id": 48922185,
-    "discussion_url": "https://news.ycombinator.com/item?id=48922185",
-    "description": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.343645"
-  },
-  {
-    "title": "I tricked Claude into leaking your deepest, darkest secrets",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "author": "macleginn",
+    "title": "Collection of Digital Clock Designs",
+    "url": "https://clocks.dev",
+    "author": "levmiseri",
     "date": "2026-07-15",
-    "score": 550,
-    "comments": 256,
-    "id": 48916975,
-    "discussion_url": "https://news.ycombinator.com/item?id=48916975",
-    "description": "I tricked Claude into leaking your deepest, darkest secrets",
+    "score": 256,
+    "comments": 47,
+    "id": 48923380,
+    "discussion_url": "https://news.ycombinator.com/item?id=48923380",
+    "description": "Collection of Digital Clock Designs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344522"
+    "fetched_at": "2026-07-16T11:34:53.535034"
+  },
+  {
+    "title": "Command Line Interface Guidelines",
+    "url": "https://clig.dev/",
+    "author": "subset",
+    "date": "2026-07-12",
+    "score": 141,
+    "comments": 31,
+    "id": 48881064,
+    "discussion_url": "https://news.ycombinator.com/item?id=48881064",
+    "description": "Command Line Interface Guidelines",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.534983"
+  },
+  {
+    "title": "Duskers, the scary command line game, is getting a sequel",
+    "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+    "author": "spacemarine1",
+    "date": "2026-07-15",
+    "score": 134,
+    "comments": 39,
+    "id": 48925888,
+    "discussion_url": "https://news.ycombinator.com/item?id=48925888",
+    "description": "Duskers, the scary command line game, is getting a sequel",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.535023"
+  },
+  {
+    "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
+    "url": "https://davidobando.github.io/gsharp/",
+    "author": "serial_dev",
+    "date": "2026-07-11",
+    "score": 104,
+    "comments": 75,
+    "id": 48871721,
+    "discussion_url": "https://news.ycombinator.com/item?id=48871721",
+    "description": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.535049"
+  },
+  {
+    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "author": "bilsbie",
+    "date": "2026-07-15",
+    "score": 209,
+    "comments": 77,
+    "id": 48927095,
+    "discussion_url": "https://news.ycombinator.com/item?id=48927095",
+    "description": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.534987"
+  },
+  {
+    "title": "Grok Build is open source",
+    "url": "https://github.com/xai-org/grok-build",
+    "author": "skp1995",
+    "date": "2026-07-15",
+    "score": 481,
+    "comments": 521,
+    "id": 48926590,
+    "discussion_url": "https://news.ycombinator.com/item?id=48926590",
+    "description": "Grok Build is open source",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.535019"
+  },
+  {
+    "title": "I also filed the corners off my MacBook",
+    "url": "https://www.brt.fyi/posts/mac-book-filing/",
+    "author": "maxbrt",
+    "date": "2026-07-14",
+    "score": 206,
+    "comments": 109,
+    "id": 48911803,
+    "discussion_url": "https://news.ycombinator.com/item?id=48911803",
+    "description": "I also filed the corners off my MacBook",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.534979"
+  },
+  {
+    "title": "If you want to create a button from scratch, you must first create the universe",
+    "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+    "author": "treve",
+    "date": "2026-07-16",
+    "score": 162,
+    "comments": 78,
+    "id": 48930136,
+    "discussion_url": "https://news.ycombinator.com/item?id=48930136",
+    "description": "If you want to create a button from scratch, you must first create the universe",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.534941"
+  },
+  {
+    "title": "Inkling: Our Open-Weights Model",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "author": "vimarsh6739",
+    "date": "2026-07-15",
+    "score": 1024,
+    "comments": 256,
+    "id": 48924912,
+    "discussion_url": "https://news.ycombinator.com/item?id=48924912",
+    "description": "Inkling: Our Open-Weights Model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.534932"
+  },
+  {
+    "title": "Job queues are deceptively tricky",
+    "url": "https://typesanitizer.com/blog/job-queues.html",
+    "author": "ingve",
+    "date": "2026-07-14",
+    "score": 97,
+    "comments": 31,
+    "id": 48903733,
+    "discussion_url": "https://news.ycombinator.com/item?id=48903733",
+    "description": "Job queues are deceptively tricky",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.535030"
   },
   {
     "title": "Jurassic Park computers in excruciating detail",
     "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
     "author": "vinhnx",
     "date": "2026-07-15",
-    "score": 793,
-    "comments": 203,
+    "score": 895,
+    "comments": 236,
     "id": 48915709,
     "discussion_url": "https://news.ycombinator.com/item?id=48915709",
     "description": "Jurassic Park computers in excruciating detail",
@@ -99,66 +252,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344044"
+    "fetched_at": "2026-07-16T11:34:53.535106"
   },
   {
-    "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
-    "url": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/",
-    "author": "robtherobber",
+    "title": "My midlife crisis Corolla is fast, furious, and modded",
+    "url": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+    "author": "gmays",
     "date": "2026-07-15",
-    "score": 79,
-    "comments": 36,
-    "id": 48920338,
-    "discussion_url": "https://news.ycombinator.com/item?id=48920338",
-    "description": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
+    "score": 179,
+    "comments": 389,
+    "id": 48921303,
+    "discussion_url": "https://news.ycombinator.com/item?id=48921303",
+    "description": "My midlife crisis Corolla is fast, furious, and modded",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344348"
+    "fetched_at": "2026-07-16T11:34:53.535092"
   },
   {
-    "title": "Microsoft has released software updates to plug at least 570 security holes",
-    "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-    "author": "robin_reala",
+    "title": "Open-source memory for coding agents, synced over SSH",
+    "url": "https://github.com/vshulcz/deja-vu/",
+    "author": "vshulcz",
     "date": "2026-07-15",
-    "score": 182,
-    "comments": 107,
-    "id": 48913190,
-    "discussion_url": "https://news.ycombinator.com/item?id=48913190",
-    "description": "Microsoft has released software updates to plug at least 570 security holes",
+    "score": 120,
+    "comments": 31,
+    "id": 48923111,
+    "discussion_url": "https://news.ycombinator.com/item?id=48923111",
+    "description": "Open-source memory for coding agents, synced over SSH",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344474"
-  },
-  {
-    "title": "Mysteries of Telegram Data Centers",
-    "url": "https://dev.moe/en/3025",
-    "author": "theanonymousone",
-    "date": "2026-07-15",
-    "score": 155,
-    "comments": 39,
-    "id": 48920475,
-    "discussion_url": "https://news.ycombinator.com/item?id=48920475",
-    "description": "Mysteries of Telegram Data Centers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.343540"
+    "fetched_at": "2026-07-16T11:34:53.535137"
   },
   {
     "title": "OpenAI loses trademark dispute at EU court",
     "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
     "author": "hermanzegerman",
-    "date": "2026-07-16",
-    "score": 101,
-    "comments": 91,
+    "date": "2026-07-15",
+    "score": 244,
+    "comments": 155,
     "id": 48921461,
     "discussion_url": "https://news.ycombinator.com/item?id=48921461",
     "description": "OpenAI loses trademark dispute at EU court",
@@ -167,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.343580"
+    "fetched_at": "2026-07-16T11:34:53.535140"
   },
   {
     "title": "Prioritize mental health, and why communication is so important",
     "url": "https://ramones.dev/posts/mental-health/",
     "author": "ramon156",
     "date": "2026-07-15",
-    "score": 190,
-    "comments": 106,
+    "score": 318,
+    "comments": 270,
     "id": 48919198,
     "discussion_url": "https://news.ycombinator.com/item?id=48919198",
     "description": "Prioritize mental health, and why communication is so important",
@@ -184,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344008"
+    "fetched_at": "2026-07-16T11:34:53.535144"
   },
   {
     "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
     "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
     "author": "neomindryan",
-    "date": "2026-07-16",
-    "score": 51,
-    "comments": 17,
+    "date": "2026-07-15",
+    "score": 292,
+    "comments": 189,
     "id": 48922434,
     "discussion_url": "https://news.ycombinator.com/item?id=48922434",
     "description": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
@@ -201,15 +337,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.343769"
+    "fetched_at": "2026-07-16T11:34:53.535041"
+  },
+  {
+    "title": "SQLite should have (Rust-style) editions",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "author": "gnyeki",
+    "date": "2026-07-15",
+    "score": 295,
+    "comments": 128,
+    "id": 48928135,
+    "discussion_url": "https://news.ycombinator.com/item?id=48928135",
+    "description": "SQLite should have (Rust-style) editions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.534950"
+  },
+  {
+    "title": "Show HN: Firefox in WebAssembly",
+    "url": "https://developer.puter.com/labs/firefox-wasm/",
+    "author": "coolelectronics",
+    "date": "2026-07-15",
+    "score": 212,
+    "comments": 107,
+    "id": 48926939,
+    "discussion_url": "https://news.ycombinator.com/item?id=48926939",
+    "description": "Show HN: Firefox in WebAssembly",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.535045"
+  },
+  {
+    "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+    "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+    "author": "nonadhocproblem",
+    "date": "2026-07-15",
+    "score": 146,
+    "comments": 44,
+    "id": 48922838,
+    "discussion_url": "https://news.ycombinator.com/item?id=48922838",
+    "description": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-16T11:34:53.535074"
   },
   {
     "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
     "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
     "author": "bilsbie",
     "date": "2026-07-15",
-    "score": 544,
-    "comments": 267,
+    "score": 703,
+    "comments": 372,
     "id": 48919363,
     "discussion_url": "https://news.ycombinator.com/item?id=48919363",
     "description": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
@@ -218,49 +405,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344097"
+    "fetched_at": "2026-07-16T11:34:53.535067"
   },
   {
-    "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
-    "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
-    "author": "youngtaff",
+    "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+    "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+    "author": "rvz",
     "date": "2026-07-15",
-    "score": 437,
-    "comments": 370,
-    "id": 48920181,
-    "discussion_url": "https://news.ycombinator.com/item?id=48920181",
-    "description": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
+    "score": 453,
+    "comments": 265,
+    "id": 48915953,
+    "discussion_url": "https://news.ycombinator.com/item?id=48915953",
+    "description": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.343666"
-  },
-  {
-    "title": "Starlink 2X Price Increase",
-    "url": "https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/",
-    "author": "r2sk5t",
-    "date": "2026-07-16",
-    "score": 90,
-    "comments": 80,
-    "id": 48923217,
-    "discussion_url": "https://news.ycombinator.com/item?id=48923217",
-    "description": "Starlink 2X Price Increase",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344151"
+    "fetched_at": "2026-07-16T11:34:53.534994"
   },
   {
     "title": "Telegram Serverless",
     "url": "https://core.telegram.org/bots/serverless",
     "author": "soheilpro",
     "date": "2026-07-15",
-    "score": 124,
-    "comments": 75,
+    "score": 194,
+    "comments": 99,
     "id": 48918534,
     "discussion_url": "https://news.ycombinator.com/item?id=48918534",
     "description": "Telegram Serverless",
@@ -269,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344249"
+    "fetched_at": "2026-07-16T11:34:53.535116"
   },
   {
     "title": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
     "url": "https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game",
     "author": "bryanmikaelian",
     "date": "2026-07-14",
-    "score": 56,
-    "comments": 9,
+    "score": 105,
+    "comments": 16,
     "id": 48906893,
     "discussion_url": "https://news.ycombinator.com/item?id=48906893",
     "description": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
@@ -286,91 +456,57 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.343624"
+    "fetched_at": "2026-07-16T11:34:53.535113"
   },
   {
-    "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-    "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-    "author": "dxs",
-    "date": "2026-07-15",
-    "score": 115,
-    "comments": 148,
-    "id": 48920432,
-    "discussion_url": "https://news.ycombinator.com/item?id=48920432",
-    "description": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+    "title": "The lost joy of music piracy",
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "author": "mcgin",
+    "date": "2026-07-16",
+    "score": 396,
+    "comments": 249,
+    "id": 48930454,
+    "discussion_url": "https://news.ycombinator.com/item?id=48930454",
+    "description": "The lost joy of music piracy",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344133"
+    "fetched_at": "2026-07-16T11:34:53.534937"
   },
   {
-    "title": "The kids with phones are alright",
-    "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-    "author": "JumpCrisscross",
-    "date": "2026-07-11",
-    "score": 249,
-    "comments": 341,
-    "id": 48870217,
-    "discussion_url": "https://news.ycombinator.com/item?id=48870217",
-    "description": "The kids with phones are alright",
+    "title": "Today I Rescued 7,234 Old GIFs",
+    "url": "https://danq.me/2026/07/10/rescuing-7234-gifs/",
+    "author": "birdculture",
+    "date": "2026-07-12",
+    "score": 135,
+    "comments": 22,
+    "id": 48883578,
+    "discussion_url": "https://news.ycombinator.com/item?id=48883578",
+    "description": "Today I Rescued 7,234 Old GIFs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344490"
+    "fetched_at": "2026-07-16T11:34:53.535064"
   },
   {
-    "title": "Towards a Harness That Can Do Anything",
+    "title": "Towards a harness that can do anything",
     "url": "https://eardatasci.github.io/c/ambiance/index.html",
     "author": "evakhoury",
-    "date": "2026-07-16",
-    "score": 85,
-    "comments": 51,
+    "date": "2026-07-15",
+    "score": 197,
+    "comments": 97,
     "id": 48921077,
     "discussion_url": "https://news.ycombinator.com/item?id=48921077",
-    "description": "Towards a Harness That Can Do Anything",
+    "description": "Towards a harness that can do anything",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.343989"
-  },
-  {
-    "title": "Weathergotchi – an open-source climate Tamagotchi",
-    "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
-    "author": "luanmuniz",
-    "date": "2026-07-15",
-    "score": 89,
-    "comments": 22,
-    "id": 48919013,
-    "discussion_url": "https://news.ycombinator.com/item?id=48919013",
-    "description": "Weathergotchi – an open-source climate Tamagotchi",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.343604"
-  },
-  {
-    "title": "Who's running all those tiny RPKI servers?",
-    "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
-    "author": "enz",
-    "date": "2026-07-15",
-    "score": 69,
-    "comments": 16,
-    "id": 48917055,
-    "discussion_url": "https://news.ycombinator.com/item?id=48917055",
-    "description": "Who's running all those tiny RPKI servers?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-16T03:36:51.344442"
+    "fetched_at": "2026-07-16T11:34:53.535078"
   }
 ]
