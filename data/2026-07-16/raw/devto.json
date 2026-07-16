@@ -5,8 +5,8 @@
     "date": "2026-07-14",
     "description": "Humorous look at LinkedIn gurusSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowJul 148 Things Developers Confidently Explain After Watching One ...",
     "tags": "#jokes, #webdev, #ai",
-    "reactions": "78 reactions",
-    "comments": "Comments 36 comments",
+    "reactions": "95 reactions",
+    "comments": "Comments 55 comments",
     "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio"
   },
   {
@@ -40,13 +40,23 @@
     "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12"
   },
   {
+    "title": "Eighty Percent Done Is Not a Real Number",
+    "author": "Pascal CESCATO",
+    "date": "2026-07-15",
+    "description": "Summer Bug Smash: Smash Stories Submission 🐛🛹Pascal CESCATOPascal CESCATOPascal CESCATOFollowJul 15Eighty Percent Done Is Not a Real Number#devchallen...",
+    "tags": "#devchallenge, #bugsmash, #postgres, #database",
+    "reactions": "18 reactions",
+    "comments": "Comments 6 comments",
+    "url": "https://dev.to/pascal_cescato_692b7a8a20/eighty-percent-done-is-not-a-real-number-54nf"
+  },
+  {
     "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
     "author": "Zach",
     "date": "2026-07-14",
-    "description": "Zero-copy audio and semantic AI errorsZachZachZachFollowJul 14How I made a Rust hot path 27x faster, and the AI fix I refused to merge#rust#ai#perform...",
-    "tags": "#rust, #ai, #performance, #opensource",
-    "reactions": "21 reactions",
-    "comments": "Comments 12 comments",
+    "description": "Zero-copy audio and semantic AI errorsZachZachZachFollowJul 14How I made a Rust hot path 27x faster, and the AI fix I refused to merge#rust#ai#webdev#...",
+    "tags": "#rust, #ai, #webdev, #programming",
+    "reactions": "22 reactions",
+    "comments": "Comments 16 comments",
     "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
   },
   {
@@ -55,8 +65,8 @@
     "date": "2026-07-12",
     "description": "DEV Weekend Challenge: Passion Edition SubmissionVarshith V HegdeVarshith V HegdeVarshith V HegdeFollowJul 12I Built a Graveyard for My Dead Side Proj...",
     "tags": "#devchallenge, #weekendchallenge",
-    "reactions": "70 reactions",
-    "comments": "Comments 35 comments",
+    "reactions": "74 reactions",
+    "comments": "Comments 37 comments",
     "url": "https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e"
   },
   {
@@ -65,7 +75,7 @@
     "date": "2026-07-13",
     "description": "DEV Weekend Challenge: Passion Edition SubmissionHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowJul 13I Finally Built the Dev Opportunity...",
     "tags": "#showdev, #devchallenge, #weekendchallenge, #discuss",
-    "reactions": "95 reactions",
+    "reactions": "96 reactions",
     "comments": "Comments 47 comments",
     "url": "https://dev.to/hemapriya_kanagala/i-finally-built-the-dev-opportunity-radar-website-1dpi"
   },
@@ -85,8 +95,8 @@
     "date": "2026-07-13",
     "description": "Navigating the comparison trapFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowJul 13I am that I am.#discuss#community#mentalhealth#l...",
     "tags": "#discuss, #community, #mentalhealth, #learning",
-    "reactions": "114 reactions",
-    "comments": "Comments 50 comments",
+    "reactions": "129 reactions",
+    "comments": "Comments 60 comments",
     "url": "https://dev.to/francistrdev/i-am-that-i-am-5j"
   },
   {
@@ -96,18 +106,8 @@
     "description": "Bots arguing with bots in review threadschristinechristinechristineFollowJul 9Return on Attention: Why AI Code Reviews Are Wearing Us Out#ai#coderevie...",
     "tags": "#ai, #codereview, #productivity, #softwareengineering",
     "reactions": "44 reactions",
-    "comments": "Comments 36 comments",
+    "comments": "Comments 37 comments",
     "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0"
-  },
-  {
-    "title": "Should I quit IT or just live through the burnout?",
-    "author": "Klaudia Grzondziel",
-    "date": "2026-07-09",
-    "description": "Low-effort AI content as a burnout triggerKlaudia GrzondzielKlaudia GrzondzielKlaudia GrzondzielFollowJul 9Should I quit IT or just live through the b...",
-    "tags": "#discuss, #mentalhealth, #career, #productivity",
-    "reactions": "169 reactions",
-    "comments": "Comments 130 comments",
-    "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"
   },
   {
     "title": "Simple Benchmark Review: Ollama on Jetson Nano",
@@ -115,9 +115,19 @@
     "date": "2026-07-12",
     "description": "High accuracy at low quantizationAnna VillarrealAnna VillarrealAnna VillarrealFollowJul 12Simple Benchmark Review: Ollama on Jetson Nano#ai#webdev#nvi...",
     "tags": "#ai, #webdev, #nvidia, #productivity",
-    "reactions": "38 reactions",
-    "comments": "Comments 36 comments",
+    "reactions": "40 reactions",
+    "comments": "Comments 38 comments",
     "url": "https://dev.to/annavi11arrea1/simple-benchmark-review-ollama-on-jetson-nano-5gee"
+  },
+  {
+    "title": "Stop Saying You Want Ownership Mindset",
+    "author": "Adam - The Developer ✨",
+    "date": "2026-07-14",
+    "description": "Pushback mislabeled as being difficultAdam - The Developer ✨Adam - The Developer ✨Adam - The Developer ✨FollowJul 14Stop Saying You Want Ownership Min...",
+    "tags": "#productivity, #programming, #architecture, #software",
+    "reactions": "31 reactions",
+    "comments": "Comments 22 comments",
+    "url": "https://dev.to/adamthedeveloper/stop-saying-you-want-ownership-mindset-34nf"
   },
   {
     "title": "The Myth of the Post-Documentation Era",
@@ -126,7 +136,7 @@
     "description": "The gap between code logic and human intentBen HalpernBen HalpernBen HalpernFollowJul 13The Myth of the Post-Documentation Era#ai#documentation#openso...",
     "tags": "#ai, #documentation, #opensource, #codequality",
     "reactions": "76 reactions",
-    "comments": "Comments 31 comments",
+    "comments": "Comments 32 comments",
     "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"
   },
   {
@@ -135,29 +145,19 @@
     "date": "2026-07-10",
     "description": "The mental toll of multi-wave layoff cyclesAlvaro MontoroAlvaro MontoroAlvaro MontoroFollowJul 10The Sword of Damocles at Work: The Human Cost of Dela...",
     "tags": "#news, #career, #leadership, #watercooler",
-    "reactions": "28 reactions",
-    "comments": "Comments 10 comments",
+    "reactions": "34 reactions",
+    "comments": "Comments 11 comments",
     "url": "https://dev.to/alvaromontoro/the-sword-of-damocles-at-work-the-human-cost-of-delayed-layoffs-2gon"
   },
   {
-    "title": "The project file is the interface: letting AI agents drive a video editor",
-    "author": "Ronak Parmar",
-    "date": "2026-07-09",
-    "description": "Clever CSS trick for frame-perfect exportsRonak ParmarRonak ParmarRonak ParmarFollowJul 9The project file is the interface: letting AI agents drive a ...",
-    "tags": "#showdev, #javascript, #node, #ai",
-    "reactions": "18 reactions",
-    "comments": "Comments 10 comments",
-    "url": "https://dev.to/ronak_parmar_033c50d168b5/the-project-file-is-the-interface-letting-ai-agents-drive-a-video-editor-58hd"
-  },
-  {
-    "title": "Unboxable in Tech: The Evidence Locker",
-    "author": "Pascal CESCATO",
-    "date": "2026-07-09",
-    "description": "Mapping a non-linear career with skill nodesPascal CESCATOPascal CESCATOPascal CESCATOFollowJul 9Unboxable in Tech: The Evidence Locker#discuss#career...",
-    "tags": "#discuss, #career, #webdev, #showdev",
-    "reactions": "75 reactions",
-    "comments": "Comments 65 comments",
-    "url": "https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4"
+    "title": "What are your goals for the week? #187",
+    "author": "Chris Jarvis",
+    "date": "2026-07-13",
+    "description": "Shared community goals and LEGO photographyChris JarvisChris JarvisChris JarvisFollowJul 13What are your goals for the week? #187#discuss#motivation32...",
+    "tags": "#discuss, #motivation",
+    "reactions": "32 reactions",
+    "comments": "Comments 27 comments",
+    "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-187-37l9"
   },
   {
     "title": "What is going on?",
@@ -175,8 +175,8 @@
     "date": "2026-07-13",
     "description": "Agent loops using 130x more power than chatDaniel NwaneriDaniel NwaneriDaniel NwaneriFollowJul 13my ai coding session burns more power than the averag...",
     "tags": "",
-    "reactions": "55 reactions",
-    "comments": "Comments 68 comments",
+    "reactions": "65 reactions",
+    "comments": "Comments 73 comments",
     "url": "https://dev.to/dannwaneri/my-ai-coding-session-burns-more-power-than-the-average-nigerian-gets-all-day-3l87"
   }
 ]
