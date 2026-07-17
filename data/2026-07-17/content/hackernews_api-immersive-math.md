@@ -1,0 +1,80 @@
+---
+title: Immersive Math
+url: https://immersivemath.com/ila/
+site_name: hackernews_api
+content_file: hackernews_api-immersive-math
+fetched_at: '2026-07-17T19:28:19.577626'
+original_url: https://immersivemath.com/ila/
+date: '2026-07-16'
+tags:
+- hackernews
+- trending
+---
+
+### immersivemath
+
+This will be replaced with browser width stuff!
+
+# immersivelinear algebra
+
+by J. Ström, K. Åström, and T. Akenine-Möllerv1.1. ISBN: 978-91-637-9354-7
+
+$u$
+
+The world's first linear algebra book with fully interactive figures.
+
+Learn More
+
+ Check us out on 
+Twitter
+ and 
+Facebook
+ 
+
+ 
+Table of Contents
+ 
+
+#### Preface
+
+A few words about this book.
+
+#### Chapter 1: Introduction
+
+How to navigate, notation, and a recap of some math that we think you already know.
+
+#### Chapter 2: Vectors
+
+The concept of a vector is introduced, and we learn how to add and subtract vectors, and more.
+
+#### Chapter 3: The Dot Product
+
+A powerful tool that takes two vectors and produces a scalar.
+
+#### Chapter 4: The Vector Product
+
+In three-dimensional spaces you can produce a vector from two other vectors using this tool.
+
+#### Chapter 5: Gaussian Elimination
+
+A way to solve systems of linear equations.
+
+#### Chapter 6: The Matrix
+
+Enter the matrix.
+
+#### Chapter 7: Determinants
+
+A fundamental property of square matrices.
+
+#### Chapter 8: Rank
+
+Discover the behaviour of matrices.
+
+#### Chapter 9: Linear Mappings
+
+Learn to harness the power of linearity...
+
+#### Chapter 10: Eigenvalues and Eigenvectors
+
+This chapter has a value in itself.
