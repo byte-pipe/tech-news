@@ -160,16 +160,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Build a Hermes inbox triager in 90 mins (10 minute read)",
-    "url": "https://buildwithai.to/p/we-built-a-hermes-inbox-triager-you",
-    "description": "Build a Hermes inbox triager in 90 mins (10 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-18",
-    "site_name": "tldr"
-  },
-  {
     "title": "CISA urges immediate SharePoint hardening as exploits mount (4 minute read)",
     "url": "https://www.computerworld.com/article/4197818/cisa-urges-immediate-sharepoint-hardening-as-exploits-mount-2.html",
     "description": "CISA urges immediate SharePoint hardening as exploits mount (4 minute read)",
@@ -863,6 +853,16 @@
     "title": "Taste cannot be delegated (7 minute read)",
     "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b",
     "description": "Taste cannot be delegated (7 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-18",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Technical SEO Tip: Use Brave to get your content indexed by Claude faster (1 minute read)",
+    "url": "https://www.linkedin.com/posts/chris-long-marketing_technical-seo-tip-brave-is-claudes-primary-share-7483500184870633473-KCnf/",
+    "description": "Technical SEO Tip: Use Brave to get your content indexed by Claude faster (1 minute read)",
     "tags": [
       "tldr"
     ],
