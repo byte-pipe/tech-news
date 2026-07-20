@@ -1,257 +1,197 @@
 [
   {
-    "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-    "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-    "description": "Bananas sprout in Rayleigh Garden UK after 15 years",
-    "date": "2026-07-19",
-    "score": 164,
-    "comments": 127,
-    "discussion_url": "https://news.ycombinator.com/item?id=48968063",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273270"
-  },
-  {
-    "title": "Claude Code uses Bun written in Rust now",
-    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "description": "Claude Code uses Bun written in Rust now",
-    "date": "2026-07-19",
-    "score": 549,
-    "comments": 726,
-    "discussion_url": "https://news.ycombinator.com/item?id=48966569",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273323"
-  },
-  {
-    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-    "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-    "description": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+    "title": "Airport Simulator",
+    "url": "https://airport.apunen.com/",
+    "description": "Airport Simulator",
     "date": "2026-07-20",
-    "score": 470,
-    "comments": 298,
-    "discussion_url": "https://news.ycombinator.com/item?id=48973869",
+    "score": 510,
+    "comments": 111,
+    "discussion_url": "https://news.ycombinator.com/item?id=48976846",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273198"
+    "fetched_at": "2026-07-20T19:34:45.447080"
+  },
+  {
+    "title": "China's open-weights AI strategy is winning",
+    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "description": "China's open-weights AI strategy is winning",
+    "date": "2026-07-20",
+    "score": 543,
+    "comments": 466,
+    "discussion_url": "https://news.ycombinator.com/item?id=48979269",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-20T19:34:45.446999"
+  },
+  {
+    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+    "url": "https://nothings.org/gamedev/ssao/",
+    "description": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+    "date": "2026-07-20",
+    "score": 116,
+    "comments": 43,
+    "discussion_url": "https://news.ycombinator.com/item?id=48979931",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-20T19:34:45.446987"
   },
   {
     "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
     "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
     "description": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
     "date": "2026-07-20",
-    "score": 171,
-    "comments": 86,
+    "score": 345,
+    "comments": 196,
     "discussion_url": "https://news.ycombinator.com/item?id=48975665",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273137"
+    "fetched_at": "2026-07-20T19:34:45.447092"
   },
   {
-    "title": "HomeLab #1: MikroTik as a Home Router",
-    "url": "https://justsomebody.dev/blog/mikrotik-home-router",
-    "description": "HomeLab #1: MikroTik as a Home Router",
-    "date": "2026-07-19",
-    "score": 133,
-    "comments": 105,
-    "discussion_url": "https://news.ycombinator.com/item?id=48970772",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273242"
-  },
-  {
-    "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
-    "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
-    "description": "How proprietary formats have become Microsoft’s main tool for lock-in",
+    "title": "Firefox Merges Support for Vulkan Video Decoding",
+    "url": "https://github.com/search",
+    "description": "Firefox Merges Support for Vulkan Video Decoding",
     "date": "2026-07-20",
-    "score": 123,
-    "comments": 85,
-    "discussion_url": "https://news.ycombinator.com/item?id=48974476",
+    "score": 181,
+    "comments": 43,
+    "discussion_url": "https://news.ycombinator.com/item?id=48978835",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273160"
+    "fetched_at": "2026-07-20T19:34:45.447031"
   },
   {
-    "title": "I burned all my tokens researching how to save tokens",
-    "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
-    "description": "I burned all my tokens researching how to save tokens",
-    "date": "2026-07-19",
-    "score": 141,
-    "comments": 189,
-    "discussion_url": "https://news.ycombinator.com/item?id=48967355",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273281"
-  },
-  {
-    "title": "I joined the IndieWeb, here's what I learned",
-    "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-    "description": "I joined the IndieWeb, here's what I learned",
-    "date": "2026-07-19",
-    "score": 217,
-    "comments": 112,
-    "discussion_url": "https://news.ycombinator.com/item?id=48966984",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273302"
-  },
-  {
-    "title": "Minecraft: Java Edition now uses SDL3",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-    "description": "Minecraft: Java Edition now uses SDL3",
-    "date": "2026-07-19",
-    "score": 328,
-    "comments": 213,
-    "discussion_url": "https://news.ycombinator.com/item?id=48967256",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273292"
-  },
-  {
-    "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-    "url": "https://github.com/hgaiser/moonshine",
-    "description": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+    "title": "Hacker wipes Romania's land registry database",
+    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "description": "Hacker wipes Romania's land registry database",
     "date": "2026-07-20",
-    "score": 222,
-    "comments": 91,
-    "discussion_url": "https://news.ycombinator.com/item?id=48972970",
+    "score": 453,
+    "comments": 245,
+    "discussion_url": "https://news.ycombinator.com/item?id=48978605",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273210"
+    "fetched_at": "2026-07-20T19:34:45.447045"
   },
   {
-    "title": "Orion Browser by Kagi",
-    "url": "https://orionbrowser.com/",
-    "description": "Orion Browser by Kagi",
-    "date": "2026-07-19",
-    "score": 228,
-    "comments": 162,
-    "discussion_url": "https://news.ycombinator.com/item?id=48970894",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273221"
-  },
-  {
-    "title": "Qwen 3.8",
-    "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-    "description": "Qwen 3.8",
-    "date": "2026-07-19",
-    "score": 897,
-    "comments": 624,
-    "discussion_url": "https://news.ycombinator.com/item?id=48966120",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273333"
-  },
-  {
-    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-    "url": "https://news.ycombinator.com/item?id=48968606",
-    "description": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-    "date": "2026-07-19",
-    "score": 2464,
-    "comments": 267,
-    "discussion_url": "https://news.ycombinator.com/item?id=48968606",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273258"
-  },
-  {
-    "title": "The Zen of Parallel Programming",
-    "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-    "description": "The Zen of Parallel Programming",
-    "date": "2026-07-14",
-    "score": 172,
-    "comments": 24,
-    "discussion_url": "https://news.ycombinator.com/item?id=48907390",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273343"
-  },
-  {
-    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "description": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "date": "2026-07-19",
-    "score": 512,
-    "comments": 232,
-    "discussion_url": "https://news.ycombinator.com/item?id=48966713",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273313"
-  },
-  {
-    "title": "When can a power company take your land for data center infrastructure?",
-    "url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
-    "description": "When can a power company take your land for data center infrastructure?",
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "description": "How we measured AI writing across arXiv, and where the measurement breaks",
     "date": "2026-07-20",
-    "score": 121,
-    "comments": 92,
-    "discussion_url": "https://news.ycombinator.com/item?id=48974292",
+    "score": 144,
+    "comments": 102,
+    "discussion_url": "https://news.ycombinator.com/item?id=48981206",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273187"
+    "fetched_at": "2026-07-20T19:34:45.446961"
   },
   {
-    "title": "Xiaomi-Robotics-1",
-    "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-    "description": "Xiaomi-Robotics-1",
+    "title": "Jelly UI: Soft-body physics for native HTML form controls",
+    "url": "https://jelly-ui.com/",
+    "description": "Jelly UI: Soft-body physics for native HTML form controls",
     "date": "2026-07-20",
-    "score": 267,
-    "comments": 192,
-    "discussion_url": "https://news.ycombinator.com/item?id=48974454",
+    "score": 112,
+    "comments": 40,
+    "discussion_url": "https://news.ycombinator.com/item?id=48981620",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-20T11:58:12.273174"
+    "fetched_at": "2026-07-20T19:34:45.446947"
+  },
+  {
+    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+    "description": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+    "date": "2026-07-20",
+    "score": 195,
+    "comments": 198,
+    "discussion_url": "https://news.ycombinator.com/item?id=48980019",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-20T19:34:45.446975"
+  },
+  {
+    "title": "Kimi Work",
+    "url": "https://www.kimi.com/products/kimi-work",
+    "description": "Kimi Work",
+    "date": "2026-07-20",
+    "score": 100,
+    "comments": 48,
+    "discussion_url": "https://news.ycombinator.com/item?id=48981703",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-20T19:34:45.446923"
+  },
+  {
+    "title": "Perfection Is Not Over-Engineering",
+    "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+    "description": "Perfection Is Not Over-Engineering",
+    "date": "2026-07-20",
+    "score": 135,
+    "comments": 59,
+    "discussion_url": "https://news.ycombinator.com/item?id=48979120",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-20T19:34:45.447011"
+  },
+  {
+    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+    "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+    "description": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+    "date": "2026-07-20",
+    "score": 418,
+    "comments": 234,
+    "discussion_url": "https://news.ycombinator.com/item?id=48977711",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-20T19:34:45.447069"
+  },
+  {
+    "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
+    "url": "https://spectrum.ieee.org/led-light-pollution",
+    "description": "We're Squandering LEDs' Potential to Save Our Night Skies",
+    "date": "2026-07-20",
+    "score": 164,
+    "comments": 114,
+    "discussion_url": "https://news.ycombinator.com/item?id=48978350",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-20T19:34:45.447057"
   }
 ]

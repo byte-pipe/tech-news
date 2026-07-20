@@ -40,9 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI and a brain implant restored a paralysed man's movement and touch (3 minute read)",
-    "url": "https://thenextweb.com/news/feinstein-double-neural-bypass-bci-paralysis-nature-medicine",
-    "description": "AI and a brain implant restored a paralysed man's movement and touch (3 minute read)",
+    "title": "AI Agents Need Data Product Context Not More RAG (11 minute read)",
+    "url": "https://blog.opendataproducts.org/ai-agents-need-data-product-context-not-more-rag-99fa4690f4c8",
+    "description": "AI Agents Need Data Product Context Not More RAG (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -60,9 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic Will Pay Its New Standards Editor $300K to Argue About Commas (3 minute read)",
-    "url": "https://www.thestateofbrand.com/news/anthropic-standards-editor-300k-price-of-taste",
-    "description": "Anthropic Will Pay Its New Standards Editor $300K to Argue About Commas (3 minute read)",
+    "title": "An AWS billing bug sent users estimated charges of up to $2.5 trillion (2 minute read)",
+    "url": "https://thenextweb.com/news/aws-billing-bug-billion-dollar-estimates",
+    "description": "An AWS billing bug sent users estimated charges of up to $2.5 trillion (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -70,9 +70,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic's newest ad is creeping people out (4 minute read)",
+    "title": "Answer any cost question faster with the Cloud Cost skill in Bits Chat (5 minute read)",
+    "url": "https://www.datadoghq.com/blog/cloud-cost-skill-bits-chat/",
+    "description": "Answer any cost question faster with the Cloud Cost skill in Bits Chat (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic's newest ad is creeping people out (3 minute read)",
     "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-    "description": "Anthropic's newest ad is creeping people out (4 minute read)",
+    "description": "Anthropic's newest ad is creeping people out (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -170,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Cloudflare as a Data Platform? (10 minute read)",
-    "url": "https://dataengineeringcentral.substack.com/p/cloudflare-as-a-data-platform",
-    "description": "Cloudflare as a Data Platform? (10 minute read)",
+    "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities (3 minute read)",
+    "url": "https://blog.cloudflare.com/wordpress-vulnerabilities/",
+    "description": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -203,6 +213,16 @@
     "title": "Cyberattack threatens utterly critical infrastructure in Japan: KFC (3 minute read)",
     "url": "https://www.theregister.com/security/2026/07/16/cyberattack-threatens-utterly-critical-infrastructure-in-japan-kfc/5272220",
     "description": "Cyberattack threatens utterly critical infrastructure in Japan: KFC (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Data Modeling isn't Dead, You Just Stopped Doing It with Joe Reis (65 minute video)",
+    "url": "https://www.linkedin.com/events/7482821146388623361/",
+    "description": "Data Modeling isn't Dead, You Just Stopped Doing It with Joe Reis (65 minute video)",
     "tags": [
       "tldr"
     ],
@@ -400,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How Anthropic runs large-scale code migrations with Claude Code (11 minute read)",
+    "title": "How Anthropic runs large-scale code migrations with Claude Code (14 minute read)",
     "url": "https://claude.com/blog/ai-code-migration",
-    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
+    "description": "How Anthropic runs large-scale code migrations with Claude Code (14 minute read)",
     "tags": [
       "tldr"
     ],
@@ -413,16 +433,6 @@
     "title": "How OpenAI's Sol Finally Learned Design Taste (8 minute read)",
     "url": "https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste/",
     "description": "How OpenAI's Sol Finally Learned Design Taste (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How Polaroid Is Winning Gen Z by Rejecting AI and Screens (4 minute read)",
-    "url": "https://www.marketergems.com/p/polaroid-marketing-strategy-anti-ai-campaign",
-    "description": "How Polaroid Is Winning Gen Z by Rejecting AI and Screens (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -460,16 +470,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "How to Encrypt Terraform State Files (13 minute read)",
-    "url": "https://spacelift.io/blog/terraform-state-encryption",
-    "description": "How to Encrypt Terraform State Files (13 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-20",
-    "site_name": "tldr"
-  },
-  {
     "title": "How we built our knowledge base (23 minute read)",
     "url": "https://x.com/cerebras/status/2077822555159945507",
     "description": "How we built our knowledge base (23 minute read)",
@@ -480,19 +480,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "I can't believe some marketing teams skip this (5 minute read)",
-    "url": "https://evidently.beehiiv.com/p/i-can-t-believe-some-marketing-teams-skip-this",
-    "description": "I can't believe some marketing teams skip this (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Introducing Apache Spark 4.2 (7 minute read)",
-    "url": "https://www.databricks.com/blog/introducing-apache-spark-42",
-    "description": "Introducing Apache Spark 4.2 (7 minute read)",
+    "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch (12 minute read)",
+    "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "description": "India's first privately-developed rocket reaches orbit on dramatic debut launch (12 minute read)",
     "tags": [
       "tldr"
     ],
@@ -520,9 +510,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Linus Torvalds to critics of AI coding in Linux: “Fork it. Or just walk away.” (4 minute read)",
-    "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-    "description": "Linus Torvalds to critics of AI coding in Linux: “Fork it. Or just walk away.” (4 minute read)",
+    "title": "Is the Age of Reading Actually Over? (5 minute read)",
+    "url": "https://annhandley.com/is-the-age-of-reading-actually-over/",
+    "description": "Is the Age of Reading Actually Over? (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -580,9 +570,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "NVIDIA OpenShell Secures the Agent. Who Governs the Fleet? (8 minute read)",
-    "url": "https://www.tigera.io/blog/nvidia-openshell-secures-the-agent-who-governs-the-fleet/",
-    "description": "NVIDIA OpenShell Secures the Agent. Who Governs the Fleet? (8 minute read)",
+    "title": "Netflix says live events bolster ads but affect viewer engagement (2 minute read)",
+    "url": "https://www.marketingdive.com/news/netflix-says-live-events-bolster-ads-but-affect-viewer-engagement/825515/",
+    "description": "Netflix says live events bolster ads but affect viewer engagement (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -630,9 +620,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI launches a physical keypad for controlling agents (1 minute read)",
-    "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
-    "description": "OpenAI launches a physical keypad for controlling agents (1 minute read)",
+    "title": "Ontology Playground (GitHub Repo)",
+    "url": "https://github.com/microsoft/Ontology-Playground",
+    "description": "Ontology Playground (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -640,9 +630,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Prefect just bought Dagster, another big Airflow rival — and it's not a data pipeline story (4 minute read)",
-    "url": "https://thenewstack.io/prefect-acquires-dagster-orchestrator/",
-    "description": "Prefect just bought Dagster, another big Airflow rival — and it's not a data pipeline story (4 minute read)",
+    "title": "OpenAI launches a physical keypad for controlling agents (1 minute read)",
+    "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
+    "description": "OpenAI launches a physical keypad for controlling agents (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -670,9 +660,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Scaling Grab's Data Lake: Our journey to Apache Iceberg adoption (7 minute read)",
-    "url": "https://engineering.grab.com/our-journey-to-apache-iceberg-adoption",
-    "description": "Scaling Grab's Data Lake: Our journey to Apache Iceberg adoption (7 minute read)",
+    "title": "Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs (6 minute read)",
+    "url": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
+    "description": "Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -740,26 +730,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "TV Ads for B2B - why it works and where to start (5 minute read)",
-    "url": "https://exitfive.com/newsletter/tv-ads-for-b2b-why-it-works-and-where-to-start/",
-    "description": "TV Ads for B2B - why it works and where to start (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Technical SEO Tip: Use Brave to get your content indexed by Claude faster (1 minute read)",
-    "url": "https://www.linkedin.com/posts/chris-long-marketing_technical-seo-tip-brave-is-claudes-primary-share-7483500184870633473-KCnf/",
-    "description": "Technical SEO Tip: Use Brave to get your content indexed by Claude faster (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-20",
-    "site_name": "tldr"
-  },
-  {
     "title": "Terraform MCP Server Explained: Setup and Use Cases (17 minute read)",
     "url": "https://spacelift.io/blog/terraform-mcp-server",
     "description": "Terraform MCP Server Explained: Setup and Use Cases (17 minute read)",
@@ -770,9 +740,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The 2026 State of SaaS report (4 minute read)",
-    "url": "https://www.bettercloud.com/monitor/the-2026-state-of-saas-report/",
-    "description": "The 2026 State of SaaS report (4 minute read)",
+    "title": "The 2026 Paid Playbook: Audience, Channels, and AI (12 minute read)",
+    "url": "https://thegtmnewsletter.substack.com/p/b2b-paid-playbook-2026-audience-channels-ai",
+    "description": "The 2026 Paid Playbook: Audience, Channels, and AI (12 minute read)",
     "tags": [
       "tldr"
     ],
@@ -780,9 +750,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The 90/90 rule for the dashboard dumpster (3 minute read)",
-    "url": "https://betterthanrandom.substack.com/p/the-9090-rule-for-the-dashboard-dumpster",
-    "description": "The 90/90 rule for the dashboard dumpster (3 minute read)",
+    "title": "The 2026 State of SaaS report (4 minute read)",
+    "url": "https://www.bettercloud.com/monitor/the-2026-state-of-saas-report/",
+    "description": "The 2026 State of SaaS report (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -980,6 +950,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Use AI to Find Your Fastest Route to Cultural Traction (Webinar)",
+    "url": "https://maven.com/p/61a94f/use-ai-to-find-your-fastest-route-to-cultural-traction",
+    "description": "Use AI to Find Your Fastest Route to Cultural Traction (Webinar)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-20",
+    "site_name": "tldr"
+  },
+  {
     "title": "Use cases for aria-expanded (13 minute read)",
     "url": "https://piccalil.li/blog/use-cases-for-aria-expanded/",
     "description": "Use cases for aria-expanded (13 minute read)",
@@ -1020,9 +1000,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What is ACID on a Data Lake? (14 minute read)",
-    "url": "https://hudi.apache.org/blog/2026/07/17/what-is-acid-on-a-data-lake/",
-    "description": "What is ACID on a Data Lake? (14 minute read)",
+    "title": "What happens in the milliseconds after you tap pay (8 minute read)",
+    "url": "https://www.databricks.com/blog/what-happens-milliseconds-after-you-tap-pay",
+    "description": "What happens in the milliseconds after you tap pay (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1033,6 +1013,16 @@
     "title": "Why Cash App wants food orders (4 minute read)",
     "url": "https://www.paymentsdive.com/news/why-cash-app-wants-food-orders-square-merchants-dining/825040/",
     "description": "Why Cash App wants food orders (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Wigolo (GitHub Repo)",
+    "url": "https://github.com/KnockOutEZ/wigolo",
+    "description": "Wigolo (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -1073,6 +1063,16 @@
     "title": "lobste.rs is now running on SQLite (6 minute read)",
     "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
     "description": "lobste.rs is now running on SQLite (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "scroll-world (GitHub Repo)",
+    "url": "https://github.com/oso95/scroll-world",
+    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
     "tags": [
       "tldr"
     ],
