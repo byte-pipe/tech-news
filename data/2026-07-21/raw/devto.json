@@ -1,15 +1,5 @@
 [
   {
-    "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
-    "author": "Sylwia Laskowska",
-    "date": "2026-07-14",
-    "description": "Humorous look at LinkedIn gurusSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowJul 148 Things Developers Confidently Explain After Watching One ...",
-    "tags": "#jokes, #webdev, #ai",
-    "reactions": "151 reactions",
-    "comments": "Comments 92 comments",
-    "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio"
-  },
-  {
     "title": "A Dash of dev.to: My Blog Stats Now Live in the Terminal",
     "author": "Athreya aka Maneshwar",
     "date": "2026-07-14",
@@ -25,8 +15,8 @@
     "date": "2026-07-20",
     "description": "Liability flows to the human who presses tabNazar BoykoNazar BoykoNazar BoykoFollowJul 20AI And Code Ownership: Who Is Responsible For Generated Code?...",
     "tags": "#discuss, #ai, #career, #programming",
-    "reactions": "51 reactions",
-    "comments": "Comments 31 comments",
+    "reactions": "59 reactions",
+    "comments": "Comments 46 comments",
     "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"
   },
   {
@@ -35,8 +25,8 @@
     "date": "2026-07-20",
     "description": "Persistence when rewards aren't immediateFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowJul 20Choose your Burden#discuss#community#...",
     "tags": "#discuss, #community, #productivity, #mentalhealth",
-    "reactions": "40 reactions",
-    "comments": "Comments 18 comments",
+    "reactions": "58 reactions",
+    "comments": "Comments 26 comments",
     "url": "https://dev.to/francistrdev/choose-your-burden-4dgl"
   },
   {
@@ -45,7 +35,7 @@
     "date": "2026-07-20",
     "description": "The mental load of specifyingBen HalpernBen HalpernBen HalpernFollowJul 20Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"#...",
     "tags": "#discuss, #management, #codequality, #product",
-    "reactions": "43 reactions",
+    "reactions": "44 reactions",
     "comments": "Comments 13 comments",
     "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8"
   },
@@ -55,7 +45,7 @@
     "date": "2026-07-17",
     "description": "Searchable archives and community-sourced findsHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowforThe DEVengersJul 17Dev Opportunity Radar...",
     "tags": "#discuss, #community, #opportunities, #resources",
-    "reactions": "54 reactions",
+    "reactions": "55 reactions",
     "comments": "Comments 14 comments",
     "url": "https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc"
   },
@@ -65,8 +55,8 @@
     "date": "2026-07-16",
     "description": "Features rare dotless domains like .uzSean BoultSean BoultSean BoultFollowforAWSJul 16Did You Know TLDs Can Be Websites?#aws#infrastructure#networking...",
     "tags": "#aws, #infrastructure, #networking, #webdev",
-    "reactions": "35 reactions",
-    "comments": "Comments 11 comments",
+    "reactions": "36 reactions",
+    "comments": "Comments 12 comments",
     "url": "https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13"
   },
   {
@@ -85,9 +75,19 @@
     "date": "2026-07-16",
     "description": "The cost of missing mental modelsHarshHarshHarshFollowJul 16Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back#...",
     "tags": "#discuss, #ai, #career, #productivity",
-    "reactions": "47 reactions",
+    "reactions": "48 reactions",
     "comments": "Comments 60 comments",
     "url": "https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6"
+  },
+  {
+    "title": "Gemma4 DevOps In Action",
+    "author": "xbill",
+    "date": "2026-07-20",
+    "description": "xbillxbillxbillFollowforGoogle Developer ExpertsJul 20Gemma4 DevOps In Action#ai#aws#devops#llm11reactionsComments4comments7 min read",
+    "tags": "#ai, #aws, #devops, #llm",
+    "reactions": "11 reactions",
+    "comments": "Comments 4 comments",
+    "url": "https://dev.to/gde/gemma4-devops-in-action-10bl"
   },
   {
     "title": "Hey DEV, I'm Tobore. Let's actually connect.",
@@ -95,29 +95,19 @@
     "date": "2026-07-17",
     "description": "Award-winning writer and React Top AuthorLaurina AyarahLaurina AyarahLaurina AyarahFollowJul 17Hey DEV, I'm Tobore. Let's actually connect.#discuss#co...",
     "tags": "#discuss, #community, #webdev, #career",
-    "reactions": "34 reactions",
-    "comments": "Comments 29 comments",
+    "reactions": "35 reactions",
+    "comments": "Comments 32 comments",
     "url": "https://dev.to/toboreeee/hey-dev-im-tobore-lets-actually-connect-1m02"
   },
   {
-    "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-    "author": "Zach",
-    "date": "2026-07-14",
-    "description": "Zero-copy audio and semantic AI errorsZachZachZachFollowJul 14How I made a Rust hot path 27x faster, and the AI fix I refused to merge#rust#ai#webdev#...",
-    "tags": "#rust, #ai, #webdev, #programming",
-    "reactions": "31 reactions",
-    "comments": "Comments 26 comments",
-    "url": "https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg"
-  },
-  {
-    "title": "I Stopped Debugging at My Desk. Here's What Changed",
-    "author": "Shubhra Pokhariya",
-    "date": "2026-07-14",
-    "description": "Patience and perspective from the gardenShubhra PokhariyaShubhra PokhariyaShubhra PokhariyaFollowJul 14I Stopped Debugging at My Desk. Here's What Cha...",
-    "tags": "#debugging, #programming, #productivity, #webdev",
-    "reactions": "47 reactions",
-    "comments": "Comments 38 comments",
-    "url": "https://dev.to/shubhradev/i-stopped-debugging-at-my-desk-heres-what-changed-43n3"
+    "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything",
+    "author": "Cesar Aguirre",
+    "date": "2026-07-20",
+    "description": "Writing therapy and a new book trilogyCesar AguirreCesar AguirreCesar AguirreFollowJul 20I've Spent 10+ Years in Software Engineering. After Sickness,...",
+    "tags": "#discuss, #watercooler, #ama, #coding",
+    "reactions": "25 reactions",
+    "comments": "Comments 32 comments",
+    "url": "https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc"
   },
   {
     "title": "Instrumenting an AI-Powered GitHub Analyzer with OpenTelemetry and SigNoz",
@@ -126,7 +116,7 @@
     "description": "Tracks 52-second delays and 40k token usageDivyaDivyaDivyaFollowJul 17Instrumenting an AI-Powered GitHub Analyzer with OpenTelemetry and SigNoz#opente...",
     "tags": "#opentelemetry, #signoz, #observability, #ai",
     "reactions": "35 reactions",
-    "comments": "Comments 24 comments",
+    "comments": "Comments 28 comments",
     "url": "https://dev.to/divyasinghdev/instrumenting-an-ai-powered-github-analyzer-with-opentelemetry-and-signoz-55l3"
   },
   {
@@ -150,23 +140,33 @@
     "url": "https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k"
   },
   {
+    "title": "Want to Volunteer with me as a Full-Stack Developer? Join me at CALEC!",
+    "author": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
+    "date": "2026-07-16",
+    "description": "Building tech for bilingual literacyFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowforThe DEVengersJul 16Want to Volunteer with me ...",
+    "tags": "#discuss, #community, #career, #hiring",
+    "reactions": "54 reactions",
+    "comments": "Comments 25 comments",
+    "url": "https://dev.to/devengers/want-to-volunteer-with-me-as-a-full-stack-developer-join-me-at-calec-2hne"
+  },
+  {
     "title": "What is an \"agentic harness,\" actually?",
     "author": "Tilde A. Thurium",
     "date": "2026-07-16",
     "description": "Invisible plumbing for reasoning loopsTilde A. ThuriumTilde A. ThuriumTilde A. ThuriumFollowforGoogle AIJul 16What is an \"agentic harness,\" actually?#...",
     "tags": "#discuss, #ai, #agents, #llm",
-    "reactions": "22 reactions",
-    "comments": "Comments 16 comments",
+    "reactions": "23 reactions",
+    "comments": "Comments 18 comments",
     "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie"
   },
   {
     "title": "What was your win this week!?",
     "author": "Jess Lee",
     "date": "2026-07-17",
-    "description": "Interview prep and front-page writing streaksJess LeeJess LeeJess LeeFollowforThe DEV TeamJul 17What was your win this week!?#discuss#weeklyretro30rea...",
+    "description": "Interview prep and front-page writing streaksJess LeeJess LeeJess LeeFollowforThe DEV TeamJul 17What was your win this week!?#discuss#weeklyretro31rea...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "30 reactions",
-    "comments": "Comments 40 comments",
+    "reactions": "31 reactions",
+    "comments": "Comments 42 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-amo"
   },
   {

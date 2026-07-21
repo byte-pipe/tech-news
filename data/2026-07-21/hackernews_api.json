@@ -1,164 +1,181 @@
 [
   {
-    "title": "Agent swarms and the new model economics",
-    "url": "https://cursor.com/blog/agent-swarm-model-economics",
-    "author": "jlaneve",
-    "date": "2026-07-20",
-    "score": 209,
-    "comments": 96,
-    "id": 48982535,
-    "discussion_url": "https://news.ycombinator.com/item?id=48982535",
-    "description": "Agent swarms and the new model economics",
+    "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+    "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+    "author": "tchalla",
+    "date": "2026-07-21",
+    "score": 68,
+    "comments": 22,
+    "id": 48996197,
+    "discussion_url": "https://news.ycombinator.com/item?id=48996197",
+    "description": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423524"
+    "fetched_at": "2026-07-21T19:33:17.600294"
   },
   {
-    "title": "Airport Simulator",
-    "url": "https://airport.apunen.com/",
-    "author": "apunen",
-    "date": "2026-07-20",
-    "score": 802,
-    "comments": 154,
-    "id": 48976846,
-    "discussion_url": "https://news.ycombinator.com/item?id=48976846",
-    "description": "Airport Simulator",
+    "title": "Advertise in ChatGPT",
+    "url": "https://ads.openai.com/",
+    "author": "montecarl",
+    "date": "2026-07-21",
+    "score": 105,
+    "comments": 98,
+    "id": 48996571,
+    "discussion_url": "https://news.ycombinator.com/item?id=48996571",
+    "description": "Advertise in ChatGPT",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423647"
+    "fetched_at": "2026-07-21T19:33:17.600306"
   },
   {
-    "title": "China’s open-weights AI strategy is winning",
-    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "author": "benwerd",
-    "date": "2026-07-20",
-    "score": 1124,
-    "comments": 854,
-    "id": 48979269,
-    "discussion_url": "https://news.ycombinator.com/item?id=48979269",
-    "description": "China’s open-weights AI strategy is winning",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423551"
-  },
-  {
-    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-    "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-    "author": "loubbrad",
-    "date": "2026-07-20",
-    "score": 766,
-    "comments": 479,
-    "id": 48973869,
-    "discussion_url": "https://news.ycombinator.com/item?id=48973869",
-    "description": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423706"
-  },
-  {
-    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
-    "url": "https://nothings.org/gamedev/ssao/",
-    "author": "firephox",
-    "date": "2026-07-20",
-    "score": 174,
-    "comments": 72,
-    "id": 48979931,
-    "discussion_url": "https://news.ycombinator.com/item?id=48979931",
-    "description": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423568"
-  },
-  {
-    "title": "ECC and DDR5",
-    "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-    "author": "zdw",
-    "date": "2026-07-19",
-    "score": 130,
-    "comments": 130,
-    "id": 48969530,
-    "discussion_url": "https://news.ycombinator.com/item?id=48969530",
-    "description": "ECC and DDR5",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423627"
-  },
-  {
-    "title": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
-    "url": "https://www.phoronix.com/news/Firefox-153-Downloads",
-    "author": "DemiGuru",
-    "date": "2026-07-20",
-    "score": 277,
-    "comments": 65,
-    "id": 48978835,
-    "discussion_url": "https://news.ycombinator.com/item?id=48978835",
-    "description": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423664"
-  },
-  {
-    "title": "Hacker wipes Romania's land registry database",
-    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
+    "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
     "author": "speckx",
-    "date": "2026-07-20",
-    "score": 656,
-    "comments": 366,
-    "id": 48978605,
-    "discussion_url": "https://news.ycombinator.com/item?id=48978605",
-    "description": "Hacker wipes Romania's land registry database",
+    "date": "2026-07-21",
+    "score": 222,
+    "comments": 188,
+    "id": 48992870,
+    "discussion_url": "https://news.ycombinator.com/item?id=48992870",
+    "description": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423606"
+    "fetched_at": "2026-07-21T19:33:17.600376"
   },
   {
-    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "author": "dopamine_daddy",
-    "date": "2026-07-20",
-    "score": 226,
-    "comments": 156,
-    "id": 48981206,
-    "discussion_url": "https://news.ycombinator.com/item?id=48981206",
-    "description": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+    "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+    "author": "arto",
+    "date": "2026-07-21",
+    "score": 97,
+    "comments": 15,
+    "id": 48993637,
+    "discussion_url": "https://news.ycombinator.com/item?id=48993637",
+    "description": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423577"
+    "fetched_at": "2026-07-21T19:33:17.600401"
+  },
+  {
+    "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
+    "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
+    "author": "WaitWaitWha",
+    "date": "2026-07-18",
+    "score": 81,
+    "comments": 38,
+    "id": 48954668,
+    "discussion_url": "https://news.ycombinator.com/item?id=48954668",
+    "description": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-21T19:33:17.600459"
+  },
+  {
+    "title": "Claude Is Not a Compiler",
+    "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+    "author": "bryanmikaelian",
+    "date": "2026-07-21",
+    "score": 133,
+    "comments": 144,
+    "id": 48993059,
+    "discussion_url": "https://news.ycombinator.com/item?id=48993059",
+    "description": "Claude Is Not a Compiler",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-21T19:33:17.600479"
+  },
+  {
+    "title": "Firefox Containers Preview",
+    "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+    "author": "twapi",
+    "date": "2026-07-21",
+    "score": 69,
+    "comments": 33,
+    "id": 48995409,
+    "discussion_url": "https://news.ycombinator.com/item?id=48995409",
+    "description": "Firefox Containers Preview",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-21T19:33:17.600387"
+  },
+  {
+    "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
+    "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
+    "author": "Sami_Lehtinen",
+    "date": "2026-07-21",
+    "score": 59,
+    "comments": 14,
+    "id": 48994116,
+    "discussion_url": "https://news.ycombinator.com/item?id=48994116",
+    "description": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-21T19:33:17.600329"
+  },
+  {
+    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+    "author": "logickkk1",
+    "date": "2026-07-21",
+    "score": 441,
+    "comments": 357,
+    "id": 48993414,
+    "discussion_url": "https://news.ycombinator.com/item?id=48993414",
+    "description": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-21T19:33:17.600290"
+  },
+  {
+    "title": "How to pack ternary numbers in 8-bit bytes",
+    "url": "https://compilade.net/blog/ternary-packing",
+    "author": "JoshTriplett",
+    "date": "2026-07-14",
+    "score": 93,
+    "comments": 46,
+    "id": 48912812,
+    "discussion_url": "https://news.ycombinator.com/item?id=48912812",
+    "description": "How to pack ternary numbers in 8-bit bytes",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-21T19:33:17.600449"
   },
   {
     "title": "Human mathematicians are being outcounterexampled",
     "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
     "author": "artninja1988",
     "date": "2026-07-20",
-    "score": 366,
-    "comments": 153,
+    "score": 458,
+    "comments": 228,
     "id": 48983382,
     "discussion_url": "https://news.ycombinator.com/item?id=48983382",
     "description": "Human mathematicians are being outcounterexampled",
@@ -167,49 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423559"
-  },
-  {
-    "title": "I Stopped “Creating Content”",
-    "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
-    "author": "mtlynch",
-    "date": "2026-07-20",
-    "score": 192,
-    "comments": 152,
-    "id": 48980520,
-    "discussion_url": "https://news.ycombinator.com/item?id=48980520",
-    "description": "I Stopped “Creating Content”",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423563"
-  },
-  {
-    "title": "I wrote an bash enumerator because I was sick of xargs",
-    "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-    "author": "wallach-game",
-    "date": "2026-07-20",
-    "score": 148,
-    "comments": 120,
-    "id": 48984270,
-    "discussion_url": "https://news.ycombinator.com/item?id=48984270",
-    "description": "I wrote an bash enumerator because I was sick of xargs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423538"
+    "fetched_at": "2026-07-21T19:33:17.600433"
   },
   {
     "title": "Incremental – A library for incremental computations",
     "url": "https://github.com/janestreet/incremental",
     "author": "handfuloflight",
     "date": "2026-07-21",
-    "score": 235,
-    "comments": 41,
+    "score": 321,
+    "comments": 61,
     "id": 48987822,
     "discussion_url": "https://news.ycombinator.com/item?id=48987822",
     "description": "Incremental – A library for incremental computations",
@@ -218,151 +201,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423495"
+    "fetched_at": "2026-07-21T19:33:17.600390"
   },
   {
-    "title": "Jelly UI: Soft-body physics for native HTML form controls",
-    "url": "https://jelly-ui.com/",
-    "author": "baldvinmar",
-    "date": "2026-07-20",
-    "score": 527,
-    "comments": 159,
-    "id": 48981620,
-    "discussion_url": "https://news.ycombinator.com/item?id=48981620",
-    "description": "Jelly UI: Soft-body physics for native HTML form controls",
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "author": "ryanmerket",
+    "date": "2026-07-21",
+    "score": 75,
+    "comments": 69,
+    "id": 48995213,
+    "discussion_url": "https://news.ycombinator.com/item?id=48995213",
+    "description": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423546"
+    "fetched_at": "2026-07-21T19:33:17.600355"
   },
   {
-    "title": "Jellyfin founder Andrew leaves team",
-    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-    "author": "swat535",
-    "date": "2026-07-20",
-    "score": 262,
-    "comments": 213,
-    "id": 48986091,
-    "discussion_url": "https://news.ycombinator.com/item?id=48986091",
-    "description": "Jellyfin founder Andrew leaves team",
+    "title": "Laguna S 2.1",
+    "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+    "author": "rexledesma",
+    "date": "2026-07-21",
+    "score": 50,
+    "comments": 5,
+    "id": 48995261,
+    "discussion_url": "https://news.ycombinator.com/item?id=48995261",
+    "description": "Laguna S 2.1",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423589"
+    "fetched_at": "2026-07-21T19:33:17.600372"
   },
   {
-    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-    "author": "cl42",
-    "date": "2026-07-20",
-    "score": 339,
-    "comments": 313,
-    "id": 48980019,
-    "discussion_url": "https://news.ycombinator.com/item?id=48980019",
-    "description": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+    "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+    "url": "https://e360.yale.edu/digest/benin-coral-reef",
+    "author": "speckx",
+    "date": "2026-07-21",
+    "score": 205,
+    "comments": 30,
+    "id": 48993816,
+    "discussion_url": "https://news.ycombinator.com/item?id=48993816",
+    "description": "Long presumed dead, a thriving coral reef is discovered in West Africa",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423615"
+    "fetched_at": "2026-07-21T19:33:17.600260"
   },
   {
-    "title": "Kimi Work",
-    "url": "https://www.kimi.com/products/kimi-work",
-    "author": "ms7892",
-    "date": "2026-07-20",
-    "score": 580,
-    "comments": 245,
-    "id": 48981703,
-    "discussion_url": "https://news.ycombinator.com/item?id=48981703",
-    "description": "Kimi Work",
+    "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+    "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+    "author": "surprisetalk",
+    "date": "2026-07-21",
+    "score": 56,
+    "comments": 40,
+    "id": 48995074,
+    "discussion_url": "https://news.ycombinator.com/item?id=48995074",
+    "description": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423479"
+    "fetched_at": "2026-07-21T19:33:17.600282"
   },
   {
-    "title": "LEDs’ potential to save our night skies",
-    "url": "https://spectrum.ieee.org/led-light-pollution",
-    "author": "defrost",
+    "title": "My USB Drive Has a Hidden Encrypted Vault",
+    "url": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
+    "author": "machinehum",
     "date": "2026-07-20",
-    "score": 237,
-    "comments": 178,
-    "id": 48978350,
-    "discussion_url": "https://news.ycombinator.com/item?id=48978350",
-    "description": "LEDs’ potential to save our night skies",
+    "score": 78,
+    "comments": 53,
+    "id": 48974862,
+    "discussion_url": "https://news.ycombinator.com/item?id=48974862",
+    "description": "My USB Drive Has a Hidden Encrypted Vault",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423703"
+    "fetched_at": "2026-07-21T19:33:17.600272"
   },
   {
-    "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-    "url": "https://github.com/hgaiser/moonshine",
-    "author": "wertyk",
-    "date": "2026-07-20",
-    "score": 343,
-    "comments": 145,
-    "id": 48972970,
-    "discussion_url": "https://news.ycombinator.com/item?id=48972970",
-    "description": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+    "title": "PCjs Machines",
+    "url": "https://www.pcjs.org/",
+    "author": "naves",
+    "date": "2026-07-21",
+    "score": 144,
+    "comments": 13,
+    "id": 48992323,
+    "discussion_url": "https://news.ycombinator.com/item?id=48992323",
+    "description": "PCjs Machines",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423656"
+    "fetched_at": "2026-07-21T19:33:17.600310"
   },
   {
-    "title": "Nativ: Run frontier open models locally on your Mac",
-    "url": "https://blaizzy.github.io/nativ/",
-    "author": "aratahikaru5",
-    "date": "2026-07-20",
-    "score": 293,
-    "comments": 96,
-    "id": 48982681,
-    "discussion_url": "https://news.ycombinator.com/item?id=48982681",
-    "description": "Nativ: Run frontier open models locally on your Mac",
+    "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
+    "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+    "author": "rbanffy",
+    "date": "2026-07-15",
+    "score": 131,
+    "comments": 11,
+    "id": 48918140,
+    "discussion_url": "https://news.ycombinator.com/item?id=48918140",
+    "description": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423529"
-  },
-  {
-    "title": "Perfection is not over-engineering",
-    "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-    "author": "var0xyz",
-    "date": "2026-07-20",
-    "score": 244,
-    "comments": 107,
-    "id": 48979120,
-    "discussion_url": "https://news.ycombinator.com/item?id=48979120",
-    "description": "Perfection is not over-engineering",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423555"
+    "fetched_at": "2026-07-21T19:33:17.600380"
   },
   {
     "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
     "url": "https://qwen.ai/blog?id=qwen-image-3.0",
     "author": "ilreb",
     "date": "2026-07-21",
-    "score": 160,
-    "comments": 81,
+    "score": 495,
+    "comments": 203,
     "id": 48989701,
     "discussion_url": "https://news.ycombinator.com/item?id=48989701",
     "description": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
@@ -371,142 +337,57 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423442"
+    "fetched_at": "2026-07-21T19:33:17.600337"
   },
   {
-    "title": "Shinjuku Station in 3D",
-    "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
-    "author": "Gecko4072",
-    "date": "2026-07-20",
-    "score": 234,
-    "comments": 52,
-    "id": 48978792,
-    "discussion_url": "https://news.ycombinator.com/item?id=48978792",
-    "description": "Shinjuku Station in 3D",
+    "title": "Running Doom on Our Custom CPU and Going Viral",
+    "url": "https://www.armaangomes.com/blogs/doom/",
+    "author": "arghunter",
+    "date": "2026-07-21",
+    "score": 127,
+    "comments": 36,
+    "id": 48987846,
+    "discussion_url": "https://news.ycombinator.com/item?id=48987846",
+    "description": "Running Doom on Our Custom CPU and Going Viral",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423474"
+    "fetched_at": "2026-07-21T19:33:17.600462"
   },
   {
-    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-    "url": "https://vincentwoo.com/3d/grace_cathedral/",
-    "author": "akanet",
-    "date": "2026-07-20",
-    "score": 186,
-    "comments": 43,
-    "id": 48984254,
-    "discussion_url": "https://news.ycombinator.com/item?id=48984254",
-    "description": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+    "title": "The World's 2,400 Castles",
+    "url": "https://thecastlemap.com/",
+    "author": "marklit",
+    "date": "2026-07-21",
+    "score": 123,
+    "comments": 90,
+    "id": 48994178,
+    "discussion_url": "https://news.ycombinator.com/item?id=48994178",
+    "description": "The World's 2,400 Castles",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423506"
+    "fetched_at": "2026-07-21T19:33:17.600326"
   },
   {
-    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-    "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-    "author": "rapnie",
-    "date": "2026-07-20",
-    "score": 513,
-    "comments": 314,
-    "id": 48977711,
-    "discussion_url": "https://news.ycombinator.com/item?id=48977711",
-    "description": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+    "title": "The unreasonable difficulty of time series forecasting",
+    "url": "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html",
+    "author": "suzyahyah",
+    "date": "2026-07-18",
+    "score": 69,
+    "comments": 21,
+    "id": 48960582,
+    "discussion_url": "https://news.ycombinator.com/item?id=48960582",
+    "description": "The unreasonable difficulty of time series forecasting",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423679"
-  },
-  {
-    "title": "The Voice of Google",
-    "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
-    "author": "littlexsparkee",
-    "date": "2026-07-20",
-    "score": 209,
-    "comments": 118,
-    "id": 48980053,
-    "discussion_url": "https://news.ycombinator.com/item?id=48980053",
-    "description": "The Voice of Google",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423639"
-  },
-  {
-    "title": "What does the Riemann zeta function have to do with the distribution of primes?",
-    "url": "https://hidden-phenomena.com/articles/rh",
-    "author": "mb1699",
-    "date": "2026-07-17",
-    "score": 125,
-    "comments": 32,
-    "id": 48952713,
-    "discussion_url": "https://news.ycombinator.com/item?id=48952713",
-    "description": "What does the Riemann zeta function have to do with the distribution of primes?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423691"
-  },
-  {
-    "title": "Who's afraid of Chinese models?",
-    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-    "author": "mfiguiere",
-    "date": "2026-07-20",
-    "score": 697,
-    "comments": 505,
-    "id": 48977128,
-    "discussion_url": "https://news.ycombinator.com/item?id=48977128",
-    "description": "Who's afraid of Chinese models?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423501"
-  },
-  {
-    "title": "Xiaomi-Robotics-1",
-    "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-    "author": "ilreb",
-    "date": "2026-07-20",
-    "score": 485,
-    "comments": 316,
-    "id": 48974454,
-    "discussion_url": "https://news.ycombinator.com/item?id=48974454",
-    "description": "Xiaomi-Robotics-1",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423585"
-  },
-  {
-    "title": "You only need the frontier model for one single edit",
-    "url": "https://stencil.so/blog/prewalk",
-    "author": "jxmorris12",
-    "date": "2026-07-15",
-    "score": 164,
-    "comments": 49,
-    "id": 48916512,
-    "discussion_url": "https://news.ycombinator.com/item?id=48916512",
-    "description": "You only need the frontier model for one single edit",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-21T11:37:21.423457"
+    "fetched_at": "2026-07-21T19:33:17.600352"
   }
 ]
