@@ -1,0 +1,441 @@
+---
+title: 'GitHub - dreamhunter2333/cloudflare_temp_email: CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot · GitHub'
+url: https://github.com/dreamhunter2333/cloudflare_temp_email
+site_name: github
+content_file: github-github-dreamhunter2333cloudflare_temp_email-cloudf
+fetched_at: '2026-07-22T11:37:26.604274'
+original_url: https://github.com/dreamhunter2333/cloudflare_temp_email
+author: dreamhunter2333
+description: CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot - dreamhunter2333/cloudflare_temp_email
+---
+
+dreamhunter2333
+
+ 
+
+/
+
+cloudflare_temp_email
+
+Public
+
+* NotificationsYou must be signed in to change notification settings
+* Fork7.3k
+* Star10.7k
+
+ 
+ 
+ 
+ 
+main
+Branches
+Tags
+Go to file
+Code
+Open more actions menu
+
+## Folders and files
+
+Name
+Name
+Last commit message
+Last commit date
+
+## Latest commit
+
+ 
+
+## History
+
+645 Commits
+645 Commits
+.agents
+.agents
+ 
+ 
+.claude/
+skills
+.claude/
+skills
+ 
+ 
+.github
+.github
+ 
+ 
+.vscode
+.vscode
+ 
+ 
+db
+db
+ 
+ 
+e2e
+e2e
+ 
+ 
+frontend
+frontend
+ 
+ 
+mail-parser-wasm
+mail-parser-wasm
+ 
+ 
+pages
+pages
+ 
+ 
+scripts
+scripts
+ 
+ 
+skills/
+cf-temp-mail-agent-mail
+skills/
+cf-temp-mail-agent-mail
+ 
+ 
+smtp_proxy_server
+smtp_proxy_server
+ 
+ 
+vitepress-docs
+vitepress-docs
+ 
+ 
+worker
+worker
+ 
+ 
+.dockerignore
+.dockerignore
+ 
+ 
+.flake8
+.flake8
+ 
+ 
+.gitignore
+.gitignore
+ 
+ 
+AGENTS.md
+AGENTS.md
+ 
+ 
+CHANGELOG.md
+CHANGELOG.md
+ 
+ 
+CHANGELOG_EN.md
+CHANGELOG_EN.md
+ 
+ 
+CLAUDE.md
+CLAUDE.md
+ 
+ 
+LICENSE
+LICENSE
+ 
+ 
+README.md
+README.md
+ 
+ 
+README_EN.md
+README_EN.md
+ 
+ 
+View all files
+
+## Repository files navigation
+
+# Cloudflare 临时邮箱 - 免费搭建临时邮件服务
+
+中文文档|English Document
+
+本项目仅供学习和个人用途，请勿将其用于任何违法行为，否则后果自负。
+
+一个功能完整的临时邮箱服务！
+
+* 完全免费- 基于 Cloudflare 免费服务构建，零成本运行
+* 高性能- Rust WASM 邮件解析，响应速度极快
+* 现代化界面- 响应式设计，支持多语言，操作简便
+* 地址密码- 支持为邮箱地址设置独立密码，增强安全性
+* Agent 友好- 内置邮箱skill，方便 AI agent 使用邮箱
+* 移动端管理- 社区客户端CloudMail，支持 Android 管理后台和邮箱管理
+
+## 部署文档 - 快速开始
+
+部署文档|Github Action 部署文档
+
+## 更新日志
+
+查看CHANGELOG了解最新更新内容。
+
+## 在线体验
+
+立即体验 →https://mail.awsl.uk/
+
+服务状态监控（点击收缩/展开）
+
+Backend
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Frontend
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Star History（点击收缩/展开）
+
+目录（点击收缩/展开）
+
+* Cloudflare 临时邮箱 - 免费搭建临时邮件服务部署文档 - 快速开始更新日志在线体验核心功能邮件处理用户管理管理功能多语言与界面集成与扩展技术架构系统架构技术栈主要组件加入社区
+* 部署文档 - 快速开始
+* 更新日志
+* 在线体验
+* 核心功能邮件处理用户管理管理功能多语言与界面集成与扩展
+* 邮件处理
+* 用户管理
+* 管理功能
+* 多语言与界面
+* 集成与扩展
+* 技术架构系统架构技术栈主要组件
+* 系统架构
+* 技术栈
+* 主要组件
+* 加入社区
+
+## 核心功能
+
+核心功能详情（点击收缩/展开）
+
+### 邮件处理
+
+* 使用rust wasm解析邮件，解析速度快，几乎所有邮件都能解析，node 的解析模块解析邮件失败的邮件，rust wasm 也能解析成功
+* AI 邮件识别- 使用 Cloudflare Workers AI 自动提取邮件中的验证码、认证链接、服务链接等重要信息
+* 支持为指定基础域名创建随机二级域名邮箱地址，更适合收件隔离场景
+* 支持发送邮件，支持DKIM验证
+* 支持SMTP和Resend等多种发送方式
+* 增加查看附件功能，支持附件图片显示
+* 支持 S3 附件存储和删除功能
+* 垃圾邮件检测和黑白名单配置
+* 邮件转发功能，支持全局转发地址
+
+### 用户管理
+
+* 使用凭证重新登录之前的邮箱
+* 添加完整的用户注册登录功能，可绑定邮箱地址，绑定后可自动获取邮箱JWT凭证切换不同邮箱
+* 支持OAuth2第三方登录（Github、Authentik 等）
+* 支持Passkey无密码登录
+* 用户角色管理，支持多角色域名和前缀配置
+* 用户收件箱查看，支持地址和关键词过滤
+
+### 管理功能
+
+* 完整的 admin 控制台
+* admin后台创建无前缀邮箱
+* admin 用户管理页面，增加用户地址查看功能
+* 定时清理功能，支持多种清理策略
+* 获取自定义名字的邮箱，admin可配置黑名单
+* 增加访问密码，可作为私人站点
+
+### 多语言与界面
+
+* 前后台均支持多语言
+* 现代化 UI 设计，支持响应式布局
+* 支持 Google Ads 集成
+* 使用 shadow DOM 防止样式污染
+* 支持 URL JWT 参数自动登录
+
+### 集成与扩展
+
+* 完整的Telegram Bot支持，以及Telegram推送，Telegram Bot 小程序
+* 添加SMTP proxy server，支持SMTP发送邮件，IMAP查看邮件
+* Webhook 支持，消息推送集成
+* 支持CF Turnstile人机验证
+* 限流配置，防止滥用
+* Agent 友好：内置cf-temp-mail-agent-mailskill，AI agent 可直接消费邮箱，详见文档
+* 社区移动端管理客户端：CloudMail基于 Expo / React Native，面向本项目兼容 API，提供 Android 管理员后台、地址管理、收件/发件/未知邮件、验证码快捷复制、OLED 黑主题和本地分组。
+
+## 技术架构
+
+技术架构详情（点击收缩/展开）
+
+### 系统架构
+
+* 数据库: Cloudflare D1 作为主数据库
+* 前端部署: 使用 Cloudflare Pages 部署前端
+* 后端部署: 使用 Cloudflare Workers 部署后端
+* 邮件转发: 使用 Cloudflare Email Routing
+
+### 技术栈
+
+* 前端: Vue 3 + Vite + TypeScript
+* 后端: TypeScript + Cloudflare Workers
+* 邮件解析: Rust WASM (mail-parser-wasm)
+* 数据库: Cloudflare D1 (SQLite)
+* 存储: Cloudflare KV + R2 (可选 S3)
+* 代理服务: Python SMTP/IMAP Proxy Server
+
+### 主要组件
+
+* Worker: 核心后端服务
+* Frontend: Vue 3 用户界面
+* Mail Parser WASM: Rust 邮件解析模块
+* SMTP Proxy Server: Python 邮件代理服务
+* Pages Functions: Cloudflare Pages 中间件
+* Documentation: VitePress 文档站点
+
+### 提醒
+
+* 在Resend添加域名记录时，如果您域名解析服务商正在托管您的3级域名a.b.com，请删除Resend生成的默认name中二级域名前缀b，否则将会添加a.b.b.com，导致验证失败。添加记录后，可通过
+
+nslookup -qt=
+"
+mx
+"
+ a.b.com 1.1.1.1
+
+进行验证。
+
+## 加入社区
+
+* Telegram
+
+## About
+
+CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
+mail.awsl.uk
+
+### Topics
+
+ email
+
+ free
+
+ cloudflare-workers
+
+ cloudflare-pages
+
+ cloudflare-email
+
+### Resources
+
+ Readme
+
+ 
+
+### License
+
+ MIT license
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+Activity
+ 
+
+### Stars
+
+10.7k
+
+ stars
+ 
+
+### Watchers
+
+24
+
+ watching
+ 
+
+### Forks
+
+7.3k
+
+ forks
+ 
+
+ Report repository
+
+ 
+
+## Releases60
+
+v1.9.0
+
+ Latest
+
+ 
+
+Jun 2, 2026
+
+ 
+
++ 59 releases
+
+## Packages0
+
+ 
+
+ 
+
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Contributors
+
+### Uh oh!
+
+There was an error while loading.Please reload this page.
+
+ 
+
+ 
+
+## Languages
+
+* TypeScript65.0%
+* Vue28.0%
+* Python3.7%
+* JavaScript2.5%
+* Rust0.4%
+* Shell0.3%
+* HTML0.1%

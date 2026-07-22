@@ -1,15 +1,5 @@
 [
   {
-    "title": "18 tips for neobank founders (2 minute read)",
-    "url": "https://threadreaderapp.com/thread/2079085554428162055.html",
-    "description": "18 tips for neobank founders (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "20+ Handpicked Fonts for Subtitles & Subheadings (5 minute read)",
     "url": "https://designshack.net/articles/typography/subtitle-fonts/",
     "description": "20+ Handpicked Fonts for Subtitles & Subheadings (5 minute read)",
@@ -40,6 +30,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "A Chinese AI lab just built a giant data centre with no Nvidia inside (3 minute read)",
+    "url": "https://thenextweb.com/news/z-ai-data-centre-chinese-made-chips-nvidia",
+    "description": "A Chinese AI lab just built a giant data centre with no Nvidia inside (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-22",
+    "site_name": "tldr"
+  },
+  {
     "title": "A Practical Guide to Reducing Token Spend (10 minute read)",
     "url": "https://www.adamhjk.com/blog/a-practical-guide-to-reducing-token-spend/",
     "description": "A Practical Guide to Reducing Token Spend (10 minute read)",
@@ -60,29 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "A Subtle Google Ads Bidding Change (2 minute read)",
-    "url": "https://www.practicalecommerce.com/a-subtle-google-ads-bidding-change",
-    "description": "A Subtle Google Ads Bidding Change (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "A cold-storage multisig setup for serious crypto holdings (4 minute read)",
     "url": "https://threadreaderapp.com/thread/2077518810236830181.html",
     "description": "A cold-storage multisig setup for serious crypto holdings (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "A primer on self-improving agent harnesses (9 minute read)",
-    "url": "https://bdtechtalks.substack.com/p/a-primer-on-self-improving-agent",
-    "description": "A primer on self-improving agent harnesses (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -120,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AMD's Helios (4 minute read)",
+    "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer (7 minute read)",
     "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
-    "description": "AMD's Helios (4 minute read)",
+    "description": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -200,29 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic's newest ad is creeping people out (3 minute read)",
-    "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-    "description": "Anthropic's newest ad is creeping people out (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models (5 minute read)",
+    "title": "Anthropic and Blackstone are betting AI implementation, not models, is the trillion-dollar opportunity (5 minute read)",
     "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "description": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AppVerifierBG (GitHub Repo)",
-    "url": "https://github.com/RoundSalmon4/AppVerifierBG",
-    "description": "AppVerifierBG (GitHub Repo)",
+    "description": "Anthropic and Blackstone are betting AI implementation, not models, is the trillion-dollar opportunity (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -300,6 +260,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "BrainCo demonstrates brain-controlled robot AI platform (2 minute read)",
+    "url": "https://www.therobotreport.com/brainco-demonstrates-brain-controlled-robot-ai-platform/",
+    "description": "BrainCo demonstrates brain-controlled robot AI platform (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-22",
+    "site_name": "tldr"
+  },
+  {
     "title": "Branded search is becoming a less reliable proxy for brand demand (3 minute read)",
     "url": "https://martech.org/branded-search-is-becoming-a-less-reliable-proxy-for-brand-demand/",
     "description": "Branded search is becoming a less reliable proxy for brand demand (3 minute read)",
@@ -313,16 +283,6 @@
     "title": "CISA urges immediate SharePoint hardening as exploits mount (4 minute read)",
     "url": "https://www.computerworld.com/article/4197818/cisa-urges-immediate-sharepoint-hardening-as-exploits-mount-2.html",
     "description": "CISA urges immediate SharePoint hardening as exploits mount (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Cache Layer Architecture: A Practical Guide to Speed & Scale (9 minute read)",
-    "url": "https://redis.io/blog/cache-layer-architecture-guide/",
-    "description": "Cache Layer Architecture: A Practical Guide to Speed & Scale (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -380,16 +340,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Designing APIs for Agents (15 minute read)",
-    "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
-    "description": "Designing APIs for Agents (15 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "Does topical authority matter in AI Search? (7 minute read)",
     "url": "https://www.growth-memo.com/p/does-topical-authority-matter-in",
     "description": "Does topical authority matter in AI Search? (7 minute read)",
@@ -403,6 +353,16 @@
     "title": "Email encryption (8 minute read)",
     "url": "https://computer.rip/2026-07-19-email-encryption.html",
     "description": "Email encryption (8 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Engineering management after the cost of code collapsed (16 minute read)",
+    "url": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
+    "description": "Engineering management after the cost of code collapsed (16 minute read)",
     "tags": [
       "tldr"
     ],
@@ -433,16 +393,6 @@
     "title": "Estée Lauder Discloses Data Breach via Oracle E-Business Flaw (2 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
     "description": "Estée Lauder Discloses Data Breach via Oracle E-Business Flaw (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "EthSystems Launches to Build Confidential Infrastructure for Institutional Ethereum (3 minute read)",
-    "url": "https://threadreaderapp.com/thread/2077000602320805918.html",
-    "description": "EthSystems Launches to Build Confidential Infrastructure for Institutional Ethereum (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -530,16 +480,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google Images is Trying to Be… Pinterest? (3 minute read)",
-    "url": "https://gizmodo.com/google-images-is-trying-to-be-pinterest-2000785569",
-    "description": "Google Images is Trying to Be… Pinterest? (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "Google Vids Now Lets You Star in Your Own AI Videos (1 minute read)",
     "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
     "description": "Google Vids Now Lets You Star in Your Own AI Videos (1 minute read)",
@@ -550,9 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google's New Chip for Gemini (2 minute read)",
-    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
+    "title": "Google is building a chip with Gemini baked into the silicon (3 minute read)",
+    "url": "https://thenextweb.com/news/google-frozen-chip-gemini-silicon",
+    "description": "Google is building a chip with Gemini baked into the silicon (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -580,9 +520,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How Anthropic runs large-scale code migrations with Claude Code (11 minute read)",
+    "title": "How Anthropic runs large-scale code migrations with Claude Code (14 minute read)",
     "url": "https://claude.com/blog/ai-code-migration",
-    "description": "How Anthropic runs large-scale code migrations with Claude Code (11 minute read)",
+    "description": "How Anthropic runs large-scale code migrations with Claude Code (14 minute read)",
     "tags": [
       "tldr"
     ],
@@ -593,16 +533,6 @@
     "title": "How Netflix Built Its LLM Serving Stack (18 minute read)",
     "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
     "description": "How Netflix Built Its LLM Serving Stack (18 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How OpenAI's Sol Finally Learned Design Taste (8 minute read)",
-    "url": "https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste/",
-    "description": "How OpenAI's Sol Finally Learned Design Taste (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -623,16 +553,6 @@
     "title": "How to check Chrome's Accessibility Tree (1 minute read)",
     "url": "https://www.linkedin.com/posts/darrenshawwhitespark_google-just-told-us-how-ai-agents-actually-share-7484986595453001728-3VT6/",
     "description": "How to check Chrome's Accessibility Tree (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Human mathematicians are being outcounterexampled (13 minute read)",
-    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-    "description": "Human mathematicians are being outcounterexampled (13 minute read)",
     "tags": [
       "tldr"
     ],
@@ -722,7 +642,17 @@
   {
     "title": "Kimi Work (Website)",
     "url": "https://www.kimi.com/products/kimi-work",
-    "description": "Kimi Work (Website)",
+    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Linus Torvalds to critics of AI coding in Linux: “Fork it. Or just walk away.” (4 minute read)",
+    "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+    "description": "Linus Torvalds to critics of AI coding in Linux: “Fork it. Or just walk away.” (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -753,16 +683,6 @@
     "title": "Meta's MCP is now available (1 minute read)",
     "url": "https://x.com/MathiasChu/status/2078156045835251991",
     "description": "Meta's MCP is now available (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Microsoft's Secure Boot has been broken for a decade and no one noticed until now (4 minute read)",
-    "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-    "description": "Microsoft's Secure Boot has been broken for a decade and no one noticed until now (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -810,9 +730,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Nobody Has Cracked Agent Memory (12 minute read)",
-    "url": "https://www.decodingai.com/p/how-to-implement-a-unified-memory-from-scratch",
-    "description": "Nobody Has Cracked Agent Memory (12 minute read)",
+    "title": "On Kimi K3: Its Capabilities And Related Discontents (70 minute read)",
+    "url": "https://thezvi.wordpress.com/2026/07/20/on-kimi-k3-its-capabilities-and-related-discontents/",
+    "description": "On Kimi K3: Its Capabilities And Related Discontents (70 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Onchain businesses hitting $200M+ revenue milestones (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2079122520783954217.html",
+    "description": "Onchain businesses hitting $200M+ revenue milestones (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -840,39 +770,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI launches a physical keypad for controlling agents (1 minute read)",
-    "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
-    "description": "OpenAI launches a physical keypad for controlling agents (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests (3 minute read)",
     "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
     "description": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications (4 minute read)",
-    "url": "https://www.oracle.com/news/announcement/oracle-introduces-ai-native-builder-experience-2026-07-14/",
-    "description": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Our new and faster profiler dashboard (13 minute read)",
-    "url": "https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler",
-    "description": "Our new and faster profiler dashboard (13 minute read)",
     "tags": [
       "tldr"
     ],
@@ -920,9 +820,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SpaceX unveils Starlink next-gen V5 kit: here's what's new (2 minute read)",
-    "url": "https://www.teslarati.com/spacex-starlink-unveils-next-gen-v5-kit-whats-new/",
-    "description": "SpaceX unveils Starlink next-gen V5 kit: here's what's new (2 minute read)",
+    "title": "Sparse By Design (5 minute read)",
+    "url": "https://www.akashbajwa.co/p/sparse-by-design",
+    "description": "Sparse By Design (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -950,16 +850,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "The 2026 State of SaaS report (4 minute read)",
-    "url": "https://www.bettercloud.com/monitor/the-2026-state-of-saas-report/",
-    "description": "The 2026 State of SaaS report (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "The AI coding rollout worked. Now CIOs have a bigger problem (6 minute read)",
     "url": "https://www.informationweek.com/machine-learning-ai/the-ai-coding-rollout-worked-now-cios-have-a-bigger-problem",
     "description": "The AI coding rollout worked. Now CIOs have a bigger problem (6 minute read)",
@@ -973,16 +863,6 @@
     "title": "The Agentic Creative Studio (Website)",
     "url": "https://miora.design/",
     "description": "The Agentic Creative Studio (Website)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The Context Moat Is Real, But Most Enterprises Don't Have One Yet (8 minute read)",
-    "url": "https://vinvashishta.substack.com/p/the-context-moat-is-real-but-most",
-    "description": "The Context Moat Is Real, But Most Enterprises Don't Have One Yet (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1090,26 +970,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "The first experimental evidence of recursive self-improvement (3 minute read)",
-    "url": "https://threadreaderapp.com/thread/2077079778793042425.html",
-    "description": "The first experimental evidence of recursive self-improvement (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The time for Clarity is here: The next-generation Telecoms Act (5 minute read)",
-    "url": "https://x.com/a16zcrypto/status/2078159580383867231",
-    "description": "The time for Clarity is here: The next-generation Telecoms Act (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "The “mocked, then loved” AirPods effect (6 minute read)",
     "url": "https://uxdesign.cc/the-mocked-then-loved-airpods-effect-65ec25feeb3a",
     "description": "The “mocked, then loved” AirPods effect (6 minute read)",
@@ -1120,29 +980,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Thinking Machines Releases First Open Model (12 minute read)",
-    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "description": "Thinking Machines Releases First Open Model (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "This Is How To Live A Good Life (7 minute read)",
     "url": "https://bakadesuyo.com/2026/07/how-to-live-a-good-life/",
     "description": "This Is How To Live A Good Life (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "This optical illusion font was created to baffle AI, and it actually works (for now) (3 minute read)",
-    "url": "https://www.creativebloq.com/design/fonts-typography/this-optical-illusion-font-was-created-to-baffle-ai-and-it-actually-works-for-now",
-    "description": "This optical illusion font was created to baffle AI, and it actually works (for now) (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1203,6 +1043,16 @@
     "title": "Two questions every CEO should ask about AI (7 minute read)",
     "url": "https://chamath.substack.com/p/two-questions-every-ceo-should-ask",
     "description": "Two questions every CEO should ask about AI (7 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Visa Launches Stablecoin Platform for 200M+ Merchants (3 minute read)",
+    "url": "https://threadreaderapp.com/thread/2077760817018397000.html",
+    "description": "Visa Launches Stablecoin Platform for 200M+ Merchants (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1280,6 +1130,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Why CPUs are now at the center of the AI race (6 minute read)",
+    "url": "https://kr-asia.com/why-cpus-are-now-at-the-center-of-the-ai-race",
+    "description": "Why CPUs are now at the center of the AI race (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-22",
+    "site_name": "tldr"
+  },
+  {
     "title": "Why is AI Bad at Design? (7 minute read)",
     "url": "https://www.philmorton.co/why-is-ai-bad-at-design/",
     "description": "Why is AI Bad at Design? (7 minute read)",
@@ -1343,16 +1203,6 @@
     "title": "You're doing \"Activation\" wrong (14 minute read)",
     "url": "https://www.leahtharin.com/p/youre-doing-activation-wrong",
     "description": "You're doing \"Activation\" wrong (14 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Z.ai Built a Gigawatt-Scale AI Data Center (3 minute read)",
-    "url": "https://finance.yahoo.com/technology/ai/articles/chinas-z-ai-completes-1-205515769.html",
-    "description": "Z.ai Built a Gigawatt-Scale AI Data Center (3 minute read)",
     "tags": [
       "tldr"
     ],
