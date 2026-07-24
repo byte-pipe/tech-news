@@ -322,7 +322,17 @@
   {
     "title": "Calm Technologies That Excite Me (14 minute read)",
     "url": "https://abhi.now/blog/calm-technologies/",
-    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
+    "description": "Calm Technologies That Excite Me (14 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Canvas UI (GitHub Repo)",
+    "url": "https://github.com/DavidHDev/canvas-ui",
+    "description": "Canvas UI (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -390,6 +400,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Defensible, but not good (2 minute read)",
+    "url": "https://newsletter.weskao.com/p/defensible-but-not-good",
+    "description": "Defensible, but not good (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "Deploy OpenTelemetry Gateway on AWS: Monitoring Your Observability Pipeline (7 minute read)",
     "url": "https://aws.amazon.com/blogs/mt/deploy-opentelemetry-gateway-on-aws-monitoring-your-observability-pipeline/",
     "description": "Deploy OpenTelemetry Gateway on AWS: Monitoring Your Observability Pipeline (7 minute read)",
@@ -420,16 +440,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Durable Objects are Made for Agents (11 minute read)",
-    "url": "https://calv.info/durable-objects-are-made-for-agents",
-    "description": "Durable Objects are Made for Agents (11 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-24",
-    "site_name": "tldr"
-  },
-  {
     "title": "Email encryption (8 minute read)",
     "url": "https://computer.rip/2026-07-19-email-encryption.html",
     "description": "Email encryption (8 minute read)",
@@ -443,6 +453,16 @@
     "title": "End-to-End Detection Validation Using Coding Agents (10 minute read)",
     "url": "https://blog.cauchy.org/blog/detection-validation/",
     "description": "End-to-End Detection Validation Using Coding Agents (10 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Engineer away the slop (2 minute read)",
+    "url": "https://ghuntley.com/slop/",
+    "description": "Engineer away the slop (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -530,9 +550,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Five product management principles for internal developer platforms (6 minute read)",
+    "url": "https://platformengineering.org/blog/five-product-management-principles-for-internal-developer-platforms",
+    "description": "Five product management principles for internal developer platforms (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft (4 minute read)",
     "url": "https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/",
     "description": "Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Forgot your Google password? Now you can log in with a selfie (3 minute read)",
+    "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+    "description": "Forgot your Google password? Now you can log in with a selfie (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -720,6 +760,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "How to become a 10x ramble-coder (9 minute read)",
+    "url": "https://moekhalil.substack.com/p/how-to-become-a-10x-ramble-coder",
+    "description": "How to become a 10x ramble-coder (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How to become so creative it feels illegal (11 minute read)",
+    "url": "https://x.com/thedankoe/status/2036824811712942576",
+    "description": "How to become so creative it feels illegal (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "How to check Chrome's Accessibility Tree (1 minute read)",
     "url": "https://www.linkedin.com/posts/darrenshawwhitespark_google-just-told-us-how-ai-agents-actually-share-7484986595453001728-3VT6/",
     "description": "How to check Chrome's Accessibility Tree (1 minute read)",
@@ -890,6 +950,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Most AI rollouts fail due to change management, not technology (4 minute read)",
+    "url": "https://diginomica.com/most-ai-rollouts-fail-due-change-management-not-tech-we-learned",
+    "description": "Most AI rollouts fail due to change management, not technology (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "Movement Labs Files for Chapter 11 Bankruptcy (2 minute read)",
     "url": "https://threadreaderapp.com/thread/2079641014067925232.html",
     "description": "Movement Labs Files for Chapter 11 Bankruptcy (2 minute read)",
@@ -963,6 +1033,16 @@
     "title": "On Kimi K3: Its Capabilities And Related Discontents (70 minute read)",
     "url": "https://thezvi.wordpress.com/2026/07/20/on-kimi-k3-its-capabilities-and-related-discontents/",
     "description": "On Kimi K3: Its Capabilities And Related Discontents (70 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI makes ChatGPT Health available to all US users (2 minute read)",
+    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "description": "OpenAI makes ChatGPT Health available to all US users (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1100,6 +1180,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The AI Productivity Paradox (3 minute read)",
+    "url": "https://www.svpg.com/the-ai-productivity-paradox/",
+    "description": "The AI Productivity Paradox (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "The AI coding rollout worked. Now CIOs have a bigger problem (6 minute read)",
     "url": "https://www.informationweek.com/machine-learning-ai/the-ai-coding-rollout-worked-now-cios-have-a-bigger-problem",
     "description": "The AI coding rollout worked. Now CIOs have a bigger problem (6 minute read)",
@@ -1150,16 +1240,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Denominator That Matters (3 minute read)",
-    "url": "https://cutlefish.substack.com/p/tbm-431-the-denominator-that-matters",
-    "description": "The Denominator That Matters (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-24",
-    "site_name": "tldr"
-  },
-  {
     "title": "The Human-in-the-Loop is Tired (12 minute read)",
     "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
     "description": "The Human-in-the-Loop is Tired (12 minute read)",
@@ -1190,9 +1270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Rude Duck: What Are You Avoiding? (1 minute read)",
-    "url": "https://x.com/saranormous/status/2079102679578706308",
-    "description": "The Rude Duck: What Are You Avoiding? (1 minute read)",
+    "title": "The Robots Cometh (20 minute read)",
+    "url": "https://time.com/article/2026/07/23/unitree-china-human-robotics/",
+    "description": "The Robots Cometh (20 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1213,16 +1293,6 @@
     "title": "The startup's Postgres survival guide (16 minute read)",
     "url": "https://hatchet.run/blog/postgres-survival-guide",
     "description": "The startup's Postgres survival guide (16 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "This Is How To Live A Good Life (7 minute read)",
-    "url": "https://bakadesuyo.com/2026/07/how-to-live-a-good-life/",
-    "description": "This Is How To Live A Good Life (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1300,6 +1370,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Want users to stick around? These 5 onboarding teardowns show you how (5 minute read)",
+    "url": "https://kristenberman.substack.com/p/want-users-to-stick-around-these",
+    "description": "Want users to stick around? These 5 onboarding teardowns show you how (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "What Comes After \"Become a Builder\"? (61 minute podcast)",
+    "url": "https://theskip.substack.com/p/inside-pm-at-stripe-what-comes-after",
+    "description": "What Comes After \"Become a Builder\"? (61 minute podcast)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "What I'd Tell My Team About Competition (5 minute read)",
     "url": "https://blog.staysaasy.com/p/what-id-tell-my-team-about-competition",
     "description": "What I'd Tell My Team About Competition (5 minute read)",
@@ -1320,9 +1410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What Mr. Jambo and Levi's Can Teach Us About Listening to Customers (3 minute read)",
-    "url": "https://www.kellblog.com/what-mr-jambo-and-levis-can-teach-us-about-listening-to-customers/",
-    "description": "What Mr. Jambo and Levi's Can Teach Us About Listening to Customers (3 minute read)",
+    "title": "What systems thinking looks like for PM'ing AI products (5 minute read)",
+    "url": "https://x.com/christinexzhu/status/2079922517469225362",
+    "description": "What systems thinking looks like for PM'ing AI products (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1333,16 +1423,6 @@
     "title": "Which AI? (Website)",
     "url": "https://guess-the-designer.replit.app/",
     "description": "Which AI? (Website)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Who's Afraid of Chinese Models? (11 minute read)",
-    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-    "description": "Who's Afraid of Chinese Models? (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1363,6 +1443,36 @@
     "title": "Why So Many AI Companies' Logos Look Like…That (3 minute read)",
     "url": "https://www.morningbrew.com/stories/why-so-many-ai-companies-logos-look-like-that",
     "description": "Why So Many AI Companies' Logos Look Like…That (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why Software Factories Fail (40 minute read)",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "description": "Why Software Factories Fail (40 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why Your AI Product Has No Memory (4 minute read)",
+    "url": "https://blog.gopenai.com/why-your-ai-product-has-no-memory-and-why-thats-destroying-user-retention-938247376e8a",
+    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why hasn't AI increased unemployment? (8 minute read)",
+    "url": "https://x.com/PeterMcCrory/status/2079979321607745905",
+    "description": "Why hasn't AI increased unemployment? (8 minute read)",
     "tags": [
       "tldr"
     ],
