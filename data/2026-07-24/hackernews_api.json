@@ -1,11 +1,28 @@
 [
   {
+    "title": "98.css",
+    "url": "https://jdan.github.io/98.css/#status-bar",
+    "author": "lopespm",
+    "date": "2026-07-23",
+    "score": 484,
+    "comments": 110,
+    "id": 49028927,
+    "discussion_url": "https://news.ycombinator.com/item?id=49028927",
+    "description": "98.css",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-24T11:34:53.900442"
+  },
+  {
     "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
     "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
     "author": "technewssss",
     "date": "2026-07-23",
-    "score": 443,
-    "comments": 212,
+    "score": 653,
+    "comments": 347,
     "id": 49020999,
     "discussion_url": "https://news.ycombinator.com/item?id=49020999",
     "description": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
@@ -14,66 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012293"
-  },
-  {
-    "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-    "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
-    "author": "xgpyc2qp",
-    "date": "2026-07-21",
-    "score": 50,
-    "comments": 27,
-    "id": 48989006,
-    "discussion_url": "https://news.ycombinator.com/item?id=48989006",
-    "description": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.013154"
-  },
-  {
-    "title": "Amiga 1000: Ten years ahead of its time",
-    "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
-    "author": "giuliomagnifico",
-    "date": "2026-07-23",
-    "score": 158,
-    "comments": 146,
-    "id": 49017265,
-    "discussion_url": "https://news.ycombinator.com/item?id=49017265",
-    "description": "Amiga 1000: Ten years ahead of its time",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.013252"
-  },
-  {
-    "title": "Astronomers may have found the first exomoon",
-    "url": "https://www.eso.org/public/news/eso2610/",
-    "author": "MarcoDewey",
-    "date": "2026-07-24",
-    "score": 156,
-    "comments": 56,
-    "id": 49021783,
-    "discussion_url": "https://news.ycombinator.com/item?id=49021783",
-    "description": "Astronomers may have found the first exomoon",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012806"
+    "fetched_at": "2026-07-24T11:34:53.900546"
   },
   {
     "title": "Building on ATProto",
     "url": "https://lukekanies.com/writing/building-on-atproto/",
     "author": "speckx",
-    "date": "2026-07-24",
-    "score": 51,
-    "comments": 15,
+    "date": "2026-07-23",
+    "score": 167,
+    "comments": 85,
     "id": 49025984,
     "discussion_url": "https://news.ycombinator.com/item?id=49025984",
     "description": "Building on ATProto",
@@ -82,32 +48,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012432"
+    "fetched_at": "2026-07-24T11:34:53.900484"
   },
   {
-    "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
-    "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
-    "author": "Erenay09",
-    "date": "2026-07-23",
-    "score": 144,
-    "comments": 107,
-    "id": 49017344,
-    "discussion_url": "https://news.ycombinator.com/item?id=49017344",
-    "description": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+    "title": "Claude Cookbook",
+    "url": "https://platform.claude.com/cookbook/",
+    "author": "saikatsg",
+    "date": "2026-07-24",
+    "score": 98,
+    "comments": 43,
+    "id": 49031409,
+    "discussion_url": "https://news.ycombinator.com/item?id=49031409",
+    "description": "Claude Cookbook",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012966"
+    "fetched_at": "2026-07-24T11:34:53.900402"
+  },
+  {
+    "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+    "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+    "author": "Shortness8",
+    "date": "2026-07-23",
+    "score": 339,
+    "comments": 207,
+    "id": 49027892,
+    "discussion_url": "https://news.ycombinator.com/item?id=49027892",
+    "description": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-24T11:34:53.900534"
   },
   {
     "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
     "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
     "author": "r2sk5t",
     "date": "2026-07-23",
-    "score": 81,
-    "comments": 75,
+    "score": 253,
+    "comments": 282,
     "id": 49021597,
     "discussion_url": "https://news.ycombinator.com/item?id=49021597",
     "description": "DARPA, U.S. Air Force fly AI-controlled F-16",
@@ -116,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012718"
+    "fetched_at": "2026-07-24T11:34:53.900455"
   },
   {
     "title": "Emacs Is a Lispboard",
     "url": "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/",
     "author": "andros",
-    "date": "2026-07-24",
-    "score": 54,
-    "comments": 14,
+    "date": "2026-07-23",
+    "score": 109,
+    "comments": 55,
     "id": 49021786,
     "discussion_url": "https://news.ycombinator.com/item?id=49021786",
     "description": "Emacs Is a Lispboard",
@@ -133,32 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012411"
-  },
-  {
-    "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-    "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-    "author": "jjba23",
-    "date": "2026-07-21",
-    "score": 126,
-    "comments": 108,
-    "id": 48990219,
-    "discussion_url": "https://news.ycombinator.com/item?id=48990219",
-    "description": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.013268"
+    "fetched_at": "2026-07-24T11:34:53.900558"
   },
   {
     "title": "Fields Medals 2026",
     "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026",
     "author": "nill0",
-    "date": "2026-07-24",
-    "score": 64,
-    "comments": 19,
+    "date": "2026-07-23",
+    "score": 192,
+    "comments": 95,
     "id": 49022137,
     "discussion_url": "https://news.ycombinator.com/item?id=49022137",
     "description": "Fields Medals 2026",
@@ -167,49 +133,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012450"
+    "fetched_at": "2026-07-24T11:34:53.900459"
   },
   {
-    "title": "Free way to get your data out of ChatGPT Business accounts",
-    "url": "https://github.com/Conradqh/scrapemychats",
-    "author": "conradqh",
+    "title": "Flux 3",
+    "url": "https://bfl.ai/blog/flux-3",
+    "author": "ThouYS",
     "date": "2026-07-24",
-    "score": 59,
-    "comments": 6,
-    "id": 49023486,
-    "discussion_url": "https://news.ycombinator.com/item?id=49023486",
-    "description": "Free way to get your data out of ChatGPT Business accounts",
+    "score": 343,
+    "comments": 87,
+    "id": 49031796,
+    "discussion_url": "https://news.ycombinator.com/item?id=49031796",
+    "description": "Flux 3",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012351"
+    "fetched_at": "2026-07-24T11:34:53.900389"
   },
   {
-    "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
-    "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
-    "author": "r2sk5t",
+    "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+    "url": "https://bfl.ai/blog/flux-3-mimic",
+    "author": "kensai",
     "date": "2026-07-24",
-    "score": 67,
-    "comments": 48,
-    "id": 49021868,
-    "discussion_url": "https://news.ycombinator.com/item?id=49021868",
-    "description": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+    "score": 96,
+    "comments": 7,
+    "id": 49033127,
+    "discussion_url": "https://news.ycombinator.com/item?id=49033127",
+    "description": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012565"
+    "fetched_at": "2026-07-24T11:34:53.900282"
+  },
+  {
+    "title": "I regret migrating to Codeberg",
+    "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+    "author": "boramalper",
+    "date": "2026-07-23",
+    "score": 355,
+    "comments": 244,
+    "id": 49021856,
+    "discussion_url": "https://news.ycombinator.com/item?id=49021856",
+    "description": "I regret migrating to Codeberg",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-24T11:34:53.900437"
+  },
+  {
+    "title": "It's getting harder to focus every day",
+    "url": "https://glyphack.com/attention/",
+    "author": "peykar",
+    "date": "2026-07-24",
+    "score": 124,
+    "comments": 64,
+    "id": 49032660,
+    "discussion_url": "https://news.ycombinator.com/item?id=49032660",
+    "description": "It's getting harder to focus every day",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-24T11:34:53.900308"
   },
   {
     "title": "JEP 540: Simple JSON API (Now in Incubator)",
     "url": "https://openjdk.org/jeps/540",
     "author": "theanonymousone",
-    "date": "2026-07-24",
-    "score": 62,
-    "comments": 43,
+    "date": "2026-07-23",
+    "score": 99,
+    "comments": 73,
     "id": 49023809,
     "discussion_url": "https://news.ycombinator.com/item?id=49023809",
     "description": "JEP 540: Simple JSON API (Now in Incubator)",
@@ -218,32 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012858"
-  },
-  {
-    "title": "John C. Dvorak has died",
-    "url": "https://twitter.com/na_announce/status/2079952538040672302",
-    "author": "coleca",
-    "date": "2026-07-23",
-    "score": 892,
-    "comments": 297,
-    "id": 49012070,
-    "discussion_url": "https://news.ycombinator.com/item?id=49012070",
-    "description": "John C. Dvorak has died",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.013203"
+    "fetched_at": "2026-07-24T11:34:53.900508"
   },
   {
     "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
     "url": "https://learnopengl.com/",
     "author": "ibobev",
-    "date": "2026-07-24",
-    "score": 121,
-    "comments": 70,
+    "date": "2026-07-23",
+    "score": 255,
+    "comments": 132,
     "id": 49022634,
     "discussion_url": "https://news.ycombinator.com/item?id=49022634",
     "description": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
@@ -252,83 +235,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012892"
+    "fetched_at": "2026-07-24T11:34:53.900410"
   },
   {
-    "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "author": "abhisek",
+    "title": "Learn WebGPU for C++",
+    "url": "https://eliemichel.github.io/LearnWebGPU/",
+    "author": "ibobev",
     "date": "2026-07-23",
-    "score": 293,
-    "comments": 255,
-    "id": 49015639,
-    "discussion_url": "https://news.ycombinator.com/item?id=49015639",
-    "description": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+    "score": 103,
+    "comments": 13,
+    "id": 49022663,
+    "discussion_url": "https://news.ycombinator.com/item?id=49022663",
+    "description": "Learn WebGPU for C++",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012488"
+    "fetched_at": "2026-07-24T11:34:53.900517"
   },
   {
-    "title": "OpenStreetMap: Admin_level for All Countries",
-    "url": "https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries",
-    "author": "ivanjermakov",
-    "date": "2026-07-19",
-    "score": 77,
-    "comments": 14,
-    "id": 48968010,
-    "discussion_url": "https://news.ycombinator.com/item?id=48968010",
-    "description": "OpenStreetMap: Admin_level for All Countries",
+    "title": "Nothing works and everyone is euphoric",
+    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+    "author": "pchm",
+    "date": "2026-07-24",
+    "score": 102,
+    "comments": 97,
+    "id": 49033004,
+    "discussion_url": "https://news.ycombinator.com/item?id=49033004",
+    "description": "Nothing works and everyone is euphoric",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012372"
+    "fetched_at": "2026-07-24T11:34:53.900313"
   },
   {
-    "title": "Scanning for Pangram Errors",
-    "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
-    "author": "jsnell",
-    "date": "2026-07-17",
-    "score": 68,
-    "comments": 36,
-    "id": 48945139,
-    "discussion_url": "https://news.ycombinator.com/item?id=48945139",
-    "description": "Scanning for Pangram Errors",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012583"
-  },
-  {
-    "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-    "url": "https://github.com/cactus-compute/cactus-hybrid",
-    "author": "HenryNdubuaku",
+    "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+    "url": "https://github.com/izeigerman/claude-thermos",
+    "author": "s0ck_r4w",
     "date": "2026-07-23",
-    "score": 182,
-    "comments": 39,
-    "id": 49010782,
-    "discussion_url": "https://news.ycombinator.com/item?id=49010782",
-    "description": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+    "score": 102,
+    "comments": 81,
+    "id": 49024882,
+    "discussion_url": "https://news.ycombinator.com/item?id=49024882",
+    "description": "Show HN: Claude-thermos keeps your Claude session warm for you",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.013220"
+    "fetched_at": "2026-07-24T11:34:53.900538"
+  },
+  {
+    "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+    "url": "https://github.com/onecli/onecli",
+    "author": "Jonathanfishner",
+    "date": "2026-07-23",
+    "score": 101,
+    "comments": 30,
+    "id": 49023427,
+    "discussion_url": "https://news.ycombinator.com/item?id=49023427",
+    "description": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-24T11:34:53.900496"
   },
   {
     "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
     "url": "https://github.com/palmier-io/palmier-pro",
     "author": "harrisontin",
-    "date": "2026-07-24",
-    "score": 52,
-    "comments": 12,
+    "date": "2026-07-23",
+    "score": 169,
+    "comments": 26,
     "id": 49022911,
     "discussion_url": "https://news.ycombinator.com/item?id=49022911",
     "description": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
@@ -337,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012874"
+    "fetched_at": "2026-07-24T11:34:53.900432"
   },
   {
     "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
     "url": "https://github.com/h3nock/remux",
     "author": "bitwise42",
-    "date": "2026-07-24",
-    "score": 63,
-    "comments": 25,
+    "date": "2026-07-23",
+    "score": 94,
+    "comments": 31,
     "id": 49022284,
     "discussion_url": "https://news.ycombinator.com/item?id=49022284",
     "description": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
@@ -354,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012314"
+    "fetched_at": "2026-07-24T11:34:53.900562"
   },
   {
     "title": "Software rendering in 500 lines of bare C++",
     "url": "https://haqr.eu/tinyrenderer/",
     "author": "mpweiher",
-    "date": "2026-07-24",
-    "score": 178,
-    "comments": 30,
+    "date": "2026-07-23",
+    "score": 286,
+    "comments": 65,
     "id": 49022038,
     "discussion_url": "https://news.ycombinator.com/item?id=49022038",
     "description": "Software rendering in 500 lines of bare C++",
@@ -371,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012698"
+    "fetched_at": "2026-07-24T11:34:53.900358"
   },
   {
     "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
     "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
     "author": "theanonymousone",
-    "date": "2026-07-24",
-    "score": 478,
-    "comments": 469,
+    "date": "2026-07-23",
+    "score": 972,
+    "comments": 792,
     "id": 49023016,
     "discussion_url": "https://news.ycombinator.com/item?id=49023016",
     "description": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
@@ -388,49 +371,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012825"
+    "fetched_at": "2026-07-24T11:34:53.900303"
   },
   {
-    "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-    "author": "gmays",
-    "date": "2026-07-23",
-    "score": 1066,
-    "comments": 604,
-    "id": 49010345,
-    "discussion_url": "https://news.ycombinator.com/item?id=49010345",
-    "description": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.013120"
-  },
-  {
-    "title": "The Unity CLI: manage Unity from your terminal",
-    "url": "https://unity.com/blog/meet-the-unity-cli",
-    "author": "nateb2022",
+    "title": "The Beam Engine",
+    "url": "https://glinscott.github.io/beam-engine/",
+    "author": "glinscott",
     "date": "2026-07-22",
-    "score": 78,
-    "comments": 25,
-    "id": 48995712,
-    "discussion_url": "https://news.ycombinator.com/item?id=48995712",
-    "description": "The Unity CLI: manage Unity from your terminal",
+    "score": 413,
+    "comments": 80,
+    "id": 49007221,
+    "discussion_url": "https://news.ycombinator.com/item?id=49007221",
+    "description": "The Beam Engine",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012681"
+    "fetched_at": "2026-07-24T11:34:53.900318"
+  },
+  {
+    "title": "The Visual 6502",
+    "url": "http://visual6502.org/JSSim/index.html",
+    "author": "infiniteregrets",
+    "date": "2026-07-23",
+    "score": 98,
+    "comments": 22,
+    "id": 49029538,
+    "discussion_url": "https://news.ycombinator.com/item?id=49029538",
+    "description": "The Visual 6502",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-24T11:34:53.900525"
   },
   {
     "title": "The arguments against open source AI are bad",
     "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
     "author": "jjfoooo4",
-    "date": "2026-07-24",
-    "score": 88,
-    "comments": 59,
+    "date": "2026-07-23",
+    "score": 285,
+    "comments": 196,
     "id": 49024643,
     "discussion_url": "https://news.ycombinator.com/item?id=49024643",
     "description": "The arguments against open source AI are bad",
@@ -439,32 +422,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012789"
+    "fetched_at": "2026-07-24T11:34:53.900504"
   },
   {
-    "title": "UK households free to install plug-in balcony solar panels from end of August",
-    "url": "https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels",
-    "author": "DamonHD",
-    "date": "2026-07-24",
-    "score": 63,
-    "comments": 39,
-    "id": 49023291,
-    "discussion_url": "https://news.ycombinator.com/item?id=49023291",
-    "description": "UK households free to install plug-in balcony solar panels from end of August",
+    "title": "What else do people draw on gradient.horse?",
+    "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+    "author": "spython",
+    "date": "2026-07-18",
+    "score": 143,
+    "comments": 27,
+    "id": 48959008,
+    "discussion_url": "https://news.ycombinator.com/item?id=48959008",
+    "description": "What else do people draw on gradient.horse?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.013000"
+    "fetched_at": "2026-07-24T11:34:53.900419"
   },
   {
     "title": "What happened to TheNumbers.com",
     "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
     "author": "nickthegreek",
-    "date": "2026-07-24",
-    "score": 156,
-    "comments": 58,
+    "date": "2026-07-23",
+    "score": 385,
+    "comments": 180,
     "id": 49024691,
     "discussion_url": "https://news.ycombinator.com/item?id=49024691",
     "description": "What happened to TheNumbers.com",
@@ -473,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012209"
+    "fetched_at": "2026-07-24T11:34:53.900428"
   },
   {
     "title": "Why Software Factories Fail (or: harness engineering is not enough)",
     "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
     "author": "dhorthy",
-    "date": "2026-07-24",
-    "score": 96,
-    "comments": 70,
+    "date": "2026-07-23",
+    "score": 336,
+    "comments": 239,
     "id": 49023019,
     "discussion_url": "https://news.ycombinator.com/item?id=49023019",
     "description": "Why Software Factories Fail (or: harness engineering is not enough)",
@@ -490,15 +473,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012527"
+    "fetched_at": "2026-07-24T11:34:53.900297"
+  },
+  {
+    "title": "Why Sony can't bring back its classic Walkman models",
+    "url": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
+    "author": "speckx",
+    "date": "2026-07-23",
+    "score": 143,
+    "comments": 158,
+    "id": 49025766,
+    "discussion_url": "https://news.ycombinator.com/item?id=49025766",
+    "description": "Why Sony can't bring back its classic Walkman models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-24T11:34:53.900450"
   },
   {
     "title": "Writing by hand is good for your brain",
     "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
     "author": "dwwoelfel",
-    "date": "2026-07-24",
-    "score": 622,
-    "comments": 311,
+    "date": "2026-07-23",
+    "score": 1344,
+    "comments": 613,
     "id": 49022152,
     "discussion_url": "https://news.ycombinator.com/item?id=49022152",
     "description": "Writing by hand is good for your brain",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-24T05:39:51.012603"
+    "fetched_at": "2026-07-24T11:34:53.900343"
   }
 ]
