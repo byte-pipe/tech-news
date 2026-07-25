@@ -1,0 +1,64 @@
+---
+title: Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year's mark | TechCrunch
+url: https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/
+site_name: newsfeed
+content_file: newsfeed-anduril-reportedly-in-talks-to-raise-funding-at-10
+fetched_at: '2026-07-25T19:28:47.064882'
+original_url: https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/
+author: Ram Iyer
+date: '2026-07-24'
+published_date: '2026-07-24T17:33:19+00:00'
+description: Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.
+tags:
+- techcrunch
+- fundraising
+- anduril
+- defense tech
+---
+
+Defense tech company Anduril is said to be raising a new round of capital that may push its valuation up by a whopping $40 billion to about $100 billion,Reutersreported, citing anonymous sources.
+
+The company, whichraised$5 billion in May at a $61 billion valuation — itself roughly double the$30.5 billion valuationit landed in its June 2025 Series G round — may be structuring the fundraise as a two-stage process, with the second stage bringing in investors at a higher valuation. Both tranches could be closed within the year, Reuters reported.
+
+The news comes as the defense tech industry experiences an unprecedented revival, spurred by demand for drones, autonomous craft, and AI’s role in warfare, as war rages both in the Middle East and Eastern Europe. In the first six months of the year, the sector saw venture fundingmore than doubleto over $12 billion, eclipsing the nearly $10 billion that startups in the space raised in all of 2025.
+
+Anduril has benefited from this demand, signing contracts with the U.S.Department of Defense,Air Force, andArmy; theDutch Ministry of Defence;NATO; theU.K. Ministry of Defence;Poland; and more.
+
+The companysaidin May that it had more than doubled its revenue to $2.2 billion in 2025 compared to a year earlier.
+
+Other startups have cashed in, too: Military aircraft maker Shield AI in Marchraised$1.5 billion, Mach Industriesquadrupledits valuation to $1.8 billion last month, and Europe’s Helsing this monthraised$1.8 billion at an $18 billion valuation.
+
+A common thread across these deals is a shift toward cheaper, more expendable hardware, often called “attritable” systems, rather than the expensive-to-replace equipment that’s defined defense contracting for decades. Mach CEO Ethan Thornton has said the startup is designing systems for thecurrent era of warfareat significantly lower cost than traditional defense contractors, citing Ukraine’s use of autonomous drones as a model.
+
+Separately, both Mach and Anduril have also moved to secure their own propulsion supply. Machacquiredsolid rocket motor maker Exquadrum for $50 million in May, while the Pentagon hasfundedAnduril’s efforts to expand domestic solid rocket motor manufacturing capacity — moves aimed at a supply bottleneck that predates and cuts across the low-cost-weapons trend.
+
+Anduril’s investors include Thrive Capital, Andreessen Horowitz, Founders Fund, ICONIQ, Flux Capital, Greycroft, Altimeter, 1789 Capital, and current U.S. Vice President JD Vance, according to PitchBook.
+
+“No decisions have been made about any future financing, and anyone claiming knowledge of its terms, structure, pricing, or timing is speculating or misinformed. As a private company, we regularly evaluate opportunities to fund the growth of the business,” Anduril said in an emailed statement.
+
+Note: This story was updated to add Anduril’s comment.
+
+Topics
+
+anduril
+, 
+defense tech
+, 
+Fundraising
+, 
+Palmer Luckey
+ 
+
+When you purchase through links in our articles,we may earn a small commission. This doesn’t affect our editorial independence.
+
+			Ram Iyer	
+
+Editor
+
+Ram is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books.
+
+You can contact or verify outreach from Ram by emailingram.iyer@techcrunch.com.
+
+ 
+
+View Bio
