@@ -1,212 +1,197 @@
 [
   {
-    "title": "A shell colon does nothing. Use it anyway",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "description": "A shell colon does nothing. Use it anyway",
-    "date": "2026-07-25",
-    "score": 366,
-    "comments": 155,
-    "discussion_url": "https://news.ycombinator.com/item?id=49047453",
+    "title": "AI companies spend record sums on Washington lobbying",
+    "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+    "description": "AI companies spend record sums on Washington lobbying",
+    "date": "2026-07-27",
+    "score": 230,
+    "comments": 119,
+    "discussion_url": "https://news.ycombinator.com/item?id=49069939",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824889"
+    "fetched_at": "2026-07-27T19:33:04.424621"
   },
   {
-    "title": "Design is compromise",
-    "url": "https://stephango.com/design-is-compromise",
-    "description": "Design is compromise",
-    "date": "2026-07-26",
-    "score": 131,
-    "comments": 63,
-    "discussion_url": "https://news.ycombinator.com/item?id=49059367",
+    "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+    "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+    "description": "Decathlon Germany adds Wero payment option to decathlon.de website",
+    "date": "2026-07-27",
+    "score": 158,
+    "comments": 120,
+    "discussion_url": "https://news.ycombinator.com/item?id=49072310",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824790"
+    "fetched_at": "2026-07-27T19:33:04.424595"
   },
   {
-    "title": "Go Analysis Framework: modular static analysis by go team",
-    "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-    "description": "Go Analysis Framework: modular static analysis by go team",
-    "date": "2026-07-26",
-    "score": 154,
-    "comments": 25,
-    "discussion_url": "https://news.ycombinator.com/item?id=49057398",
+    "title": "How is the Bun Rewrite in Rust going?",
+    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "description": "How is the Bun Rewrite in Rust going?",
+    "date": "2026-07-27",
+    "score": 370,
+    "comments": 284,
+    "discussion_url": "https://news.ycombinator.com/item?id=49067854",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824843"
+    "fetched_at": "2026-07-27T19:33:04.424643"
   },
   {
-    "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-    "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-    "description": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-    "date": "2026-07-26",
-    "score": 285,
-    "comments": 225,
-    "discussion_url": "https://news.ycombinator.com/item?id=49057574",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824831"
-  },
-  {
-    "title": "GrapheneOS protections against data extraction from locked devices",
-    "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-    "description": "GrapheneOS protections against data extraction from locked devices",
-    "date": "2026-07-26",
+    "title": "Kimi-K3 Technical Report [pdf]",
+    "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+    "description": "Kimi-K3 Technical Report [pdf]",
+    "date": "2026-07-27",
     "score": 330,
-    "comments": 204,
-    "discussion_url": "https://news.ycombinator.com/item?id=49055169",
+    "comments": 132,
+    "discussion_url": "https://news.ycombinator.com/item?id=49070985",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824878"
+    "fetched_at": "2026-07-27T19:33:04.424609"
   },
   {
-    "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-    "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-    "description": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-    "date": "2026-07-26",
-    "score": 243,
-    "comments": 79,
-    "discussion_url": "https://news.ycombinator.com/item?id=49057241",
+    "title": "Kimi-K3 on HuggingFace",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "description": "Kimi-K3 on HuggingFace",
+    "date": "2026-07-27",
+    "score": 1146,
+    "comments": 457,
+    "discussion_url": "https://news.ycombinator.com/item?id=49065752",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824854"
+    "fetched_at": "2026-07-27T19:33:04.424707"
   },
   {
-    "title": "I learned PCB design, 3D printing and C just to listen to music",
-    "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-    "description": "I learned PCB design, 3D printing and C just to listen to music",
-    "date": "2026-07-23",
-    "score": 140,
-    "comments": 31,
-    "discussion_url": "https://news.ycombinator.com/item?id=49022355",
+    "title": "Libsm64: Mario 64 as a library for use in external game engines",
+    "url": "https://github.com/libsm64/libsm64",
+    "description": "Libsm64: Mario 64 as a library for use in external game engines",
+    "date": "2026-07-27",
+    "score": 137,
+    "comments": 16,
+    "discussion_url": "https://news.ycombinator.com/item?id=49067352",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824912"
+    "fetched_at": "2026-07-27T19:33:04.424654"
   },
   {
-    "title": "Kill The Cookie Banner",
-    "url": "https://killthecookiebanner.eu/",
-    "description": "Kill The Cookie Banner",
-    "date": "2026-07-26",
-    "score": 652,
-    "comments": 311,
-    "discussion_url": "https://news.ycombinator.com/item?id=49057175",
+    "title": "MAI-Cyber 1",
+    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+    "description": "MAI-Cyber 1",
+    "date": "2026-07-27",
+    "score": 166,
+    "comments": 81,
+    "discussion_url": "https://news.ycombinator.com/item?id=49072361",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824866"
+    "fetched_at": "2026-07-27T19:33:04.424574"
   },
   {
-    "title": "London Gatwick has launched a robotic airport parking service",
-    "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-    "description": "London Gatwick has launched a robotic airport parking service",
-    "date": "2026-07-26",
-    "score": 247,
-    "comments": 201,
-    "discussion_url": "https://news.ycombinator.com/item?id=49058669",
+    "title": "Modern email can be built from borrowed parts",
+    "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+    "description": "Modern email can be built from borrowed parts",
+    "date": "2026-07-27",
+    "score": 137,
+    "comments": 65,
+    "discussion_url": "https://news.ycombinator.com/item?id=49066639",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824818"
+    "fetched_at": "2026-07-27T19:33:04.424696"
   },
   {
-    "title": "Rethinking legal education in the AI era",
-    "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-    "description": "Rethinking legal education in the AI era",
-    "date": "2026-07-23",
-    "score": 127,
-    "comments": 86,
-    "discussion_url": "https://news.ycombinator.com/item?id=49024980",
+    "title": "PGSimCity - How PostgreSQL Works",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "description": "PGSimCity - How PostgreSQL Works",
+    "date": "2026-07-27",
+    "score": 857,
+    "comments": 82,
+    "discussion_url": "https://news.ycombinator.com/item?id=49063754",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824901"
+    "fetched_at": "2026-07-27T19:33:04.424718"
   },
   {
-    "title": "Some more things about Django I've been enjoying",
-    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-    "description": "Some more things about Django I've been enjoying",
-    "date": "2026-07-21",
-    "score": 101,
-    "comments": 52,
-    "discussion_url": "https://news.ycombinator.com/item?id=48997828",
+    "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+    "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+    "description": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+    "date": "2026-07-27",
+    "score": 176,
+    "comments": 126,
+    "discussion_url": "https://news.ycombinator.com/item?id=49067301",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824935"
+    "fetched_at": "2026-07-27T19:33:04.424673"
   },
   {
-    "title": "The Strongest El Niño Ever",
-    "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-    "description": "The Strongest El Niño Ever",
-    "date": "2026-07-26",
-    "score": 152,
-    "comments": 83,
-    "discussion_url": "https://news.ycombinator.com/item?id=49060978",
+    "title": "Should you wash your solar panels?",
+    "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+    "description": "Should you wash your solar panels?",
+    "date": "2026-07-27",
+    "score": 182,
+    "comments": 163,
+    "discussion_url": "https://news.ycombinator.com/item?id=49069132",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824766"
+    "fetched_at": "2026-07-27T19:33:04.424632"
   },
   {
-    "title": "The relay market powering token resellers and fraud",
-    "url": "https://vectoral.com/blog/token-relay-market",
-    "description": "The relay market powering token resellers and fraud",
-    "date": "2026-07-26",
-    "score": 115,
-    "comments": 55,
-    "discussion_url": "https://news.ycombinator.com/item?id=49058993",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824805"
-  },
-  {
-    "title": "What's Under Your Feet in New York City?",
-    "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
-    "description": "What's Under Your Feet in New York City?",
+    "title": "The computer that helped win World War II",
+    "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+    "description": "The computer that helped win World War II",
     "date": "2026-07-22",
-    "score": 126,
-    "comments": 23,
-    "discussion_url": "https://news.ycombinator.com/item?id=49006049",
+    "score": 101,
+    "comments": 49,
+    "discussion_url": "https://news.ycombinator.com/item?id=49012309",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-27T06:50:43.824924"
+    "fetched_at": "2026-07-27T19:33:04.424728"
+  },
+  {
+    "title": "VLC for Unity now supported on Linux",
+    "url": "https://code.videolan.org/videolan/vlc-unity",
+    "description": "VLC for Unity now supported on Linux",
+    "date": "2026-07-27",
+    "score": 121,
+    "comments": 37,
+    "discussion_url": "https://news.ycombinator.com/item?id=49066928",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-27T19:33:04.424686"
   }
 ]

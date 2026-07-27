@@ -13,7 +13,7 @@
     ],
     "source": "New Scientist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.974032"
+    "fetched_at": "2026-07-27T19:33:08.719581"
   },
   {
     "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
@@ -29,7 +29,7 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.086617"
+    "fetched_at": "2026-07-27T19:33:08.193459"
   },
   {
     "title": "3 Best Smart Ring Models: Oura, RingConn, and Samsung (2026)",
@@ -45,7 +45,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542334"
+    "fetched_at": "2026-07-27T19:33:07.878044"
   },
   {
     "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
@@ -58,7 +58,7 @@
     ],
     "source": "NPR",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.000096"
+    "fetched_at": "2026-07-27T19:33:08.436998"
   },
   {
     "title": "A fever dream of jellies and slugs",
@@ -71,7 +71,23 @@
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640376"
+    "fetched_at": "2026-07-27T19:33:07.996324"
+  },
+  {
+    "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
+    "url": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
+    "description": "The government says destroying his own data during an airport interrogation was illegal.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "ars-technica",
+      "security",
+      "tech",
+      "android"
+    ],
+    "source": "Ars Technica",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.849075"
   },
   {
     "title": "All the Ways You Can Make Reading on Your Phone Easier",
@@ -87,7 +103,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542407"
+    "fetched_at": "2026-07-27T19:33:07.878173"
   },
   {
     "title": "Allies learn how to bully America",
@@ -100,7 +116,38 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948798"
+    "fetched_at": "2026-07-27T19:33:08.399580"
+  },
+  {
+    "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
+    "url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
+    "description": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying the new constellation of 5,105 satellites in 2028. It says it plans to partner with mobile network operators to offer direct-to-device satellite [&#8230;]",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "the-verge",
+      "amazon",
+      "mobile",
+      "news"
+    ],
+    "source": "The Verge",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.828508"
+  },
+  {
+    "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
+    "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+    "description": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "techcrunch",
+      "space",
+      "amazon"
+    ],
+    "source": "TechCrunch",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.771575"
   },
   {
     "title": "Amber heat health alerts for parts of UK ahead of next heatwave",
@@ -113,7 +160,23 @@
     ],
     "source": "BBC",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704635"
+    "fetched_at": "2026-07-27T19:33:08.157472"
+  },
+  {
+    "title": "Antares raises $470M to build nuclear reactors for the US military",
+    "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+    "description": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "techcrunch",
+      "climate",
+      "startups",
+      "antares nuclear"
+    ],
+    "source": "TechCrunch",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.771590"
   },
   {
     "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
@@ -129,7 +192,7 @@
     ],
     "source": "VentureBeat AI",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.679383"
+    "fetched_at": "2026-07-27T19:33:08.035015"
   },
   {
     "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
@@ -145,28 +208,28 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637963"
+    "fetched_at": "2026-07-27T19:33:07.849283"
   },
   {
-    "title": "Apple is banking on privacy to set its smart glasses apart",
-    "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-    "description": "According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy features and messaging in order. Smart glasses in general, and Meta's in particular, [&#8230;]",
-    "date": "2026-07-26",
+    "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+    "url": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
+    "description": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users safe from scams.",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "the-verge",
-      "apple",
-      "apple rumors",
-      "gadgets"
+      "techcrunch",
+      "apps",
+      "app store",
+      "apple"
     ],
-    "source": "The Verge",
+    "source": "TechCrunch",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.519974"
+    "fetched_at": "2026-07-27T19:33:07.771557"
   },
   {
     "title": "Are brain waves the next unlock for physical AI?",
     "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+    "description": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
@@ -177,7 +240,21 @@
     ],
     "source": "TechCrunch",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550533"
+    "fetched_at": "2026-07-27T19:33:07.771721"
+  },
+  {
+    "title": "Are the US and Iran heading towards a forever war?",
+    "url": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
+    "description": "Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "al-jazeera",
+      "tv shows"
+    ],
+    "source": "Al Jazeera",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.107887"
   },
   {
     "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
@@ -193,7 +270,7 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637860"
+    "fetched_at": "2026-07-27T19:33:07.849126"
   },
   {
     "title": "Asian allies are doomed to hug Donald Trump close",
@@ -206,7 +283,7 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948821"
+    "fetched_at": "2026-07-27T19:33:08.399612"
   },
   {
     "title": "Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and nuclear arsenal",
@@ -222,7 +299,7 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827285"
+    "fetched_at": "2026-07-27T19:33:08.282787"
   },
   {
     "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
@@ -235,7 +312,7 @@
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640388"
+    "fetched_at": "2026-07-27T19:33:07.996336"
   },
   {
     "title": "Baltimore will turn 911 into more than just an emergency number",
@@ -248,33 +325,7 @@
     ],
     "source": "NPR",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.000138"
-  },
-  {
-    "title": "Behind-the-scenes at No 10 as Andy Burnham became PM",
-    "url": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&at_campaign=rss",
-    "description": "Laura Kuenssberg was given unprecedented access to the new prime minister’s first days in power.",
-    "date": "2026-07-27",
-    "score": 0,
-    "tags": [
-      "bbc"
-    ],
-    "source": "BBC",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704689"
-  },
-  {
-    "title": "Berlin Pride attack suspect shot and killed during police operation",
-    "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-    "description": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-    "date": "2026-07-26",
-    "score": 0,
-    "tags": [
-      "bbc"
-    ],
-    "source": "BBC",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704610"
+    "fetched_at": "2026-07-27T19:33:08.437040"
   },
   {
     "title": "Best GoPro Camera (2026): Compact, Budget, Accessories",
@@ -290,7 +341,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542436"
+    "fetched_at": "2026-07-27T19:33:07.878228"
   },
   {
     "title": "Best Laptops for College Students (2026): MacBooks and Beyond",
@@ -306,7 +357,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542358"
+    "fetched_at": "2026-07-27T19:33:07.878073"
   },
   {
     "title": "Big Tech accused of stonewalling European social media researchers",
@@ -322,20 +373,7 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637923"
-  },
-  {
-    "title": "Bill Oddie: Comedian who found nature a welcome refuge from mental illness",
-    "url": "https://www.bbc.co.uk/news/articles/c4nnkylr0llo?at_medium=RSS&at_campaign=rss",
-    "description": "Comedian and former Goodie who became a noted ornithologist and TV presenter.",
-    "date": "2026-07-27",
-    "score": 0,
-    "tags": [
-      "bbc"
-    ],
-    "source": "BBC",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704680"
+    "fetched_at": "2026-07-27T19:33:07.849232"
   },
   {
     "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
@@ -348,20 +386,7 @@
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640419"
-  },
-  {
-    "title": "Breathalyser can tell if you are burning fat from a single exhalation",
-    "url": "https://www.nature.com/articles/d41586-026-02295-w",
-    "description": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02295-wThe compact device can measure when the body is in ketosis and could help people to manage weight loss.",
-    "date": "2026-07-23",
-    "score": 0,
-    "tags": [
-      "nature"
-    ],
-    "source": "Nature",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640470"
+    "fetched_at": "2026-07-27T19:33:07.996374"
   },
   {
     "title": "Briefing Chat: Baby T. rex were killers from birth, suggest new fossils",
@@ -374,7 +399,7 @@
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640410"
+    "fetched_at": "2026-07-27T19:33:07.996362"
   },
   {
     "title": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
@@ -390,7 +415,7 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827270"
+    "fetched_at": "2026-07-27T19:33:08.282765"
   },
   {
     "title": "Building the enterprise environment for agentic AI",
@@ -405,7 +430,21 @@
     ],
     "source": "MIT Tech Review",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.695047"
+    "fetched_at": "2026-07-27T19:33:07.948056"
+  },
+  {
+    "title": "Burnham welcomes Zelenskyy as first international guest",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/burnham-welcomes-zelenskyy-as-first-international-guest?traffic_source=rss",
+    "description": "Andy Burnham, Britain’s new prime minister, welcomed Ukrainian President Volodymyr Zelenskyy to the United Kingdom.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "al-jazeera",
+      "show types"
+    ],
+    "source": "Al Jazeera",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.107934"
   },
   {
     "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
@@ -417,11 +456,11 @@
       "techcrunch",
       "gadgets",
       "hardware",
-      "apple"
+      "privacy"
     ],
     "source": "TechCrunch",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550545"
+    "fetched_at": "2026-07-27T19:33:07.771733"
   },
   {
     "title": "Can Spain’s teamwork overcome Lionel Messi’s genius?",
@@ -434,23 +473,7 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948741"
-  },
-  {
-    "title": "Can sounds make plants grow bigger? A start-up says they can",
-    "url": "https://www.newscientist.com/article/2581022-can-sounds-make-plants-grow-bigger-a-start-up-says-they-can/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-    "description": "Haivya has developed acoustic signals designed to influence plant development, and its trials reportedly show large yield increases in soybean, pepper and cannabis crops",
-    "date": "2026-07-23",
-    "score": 0,
-    "tags": [
-      "new-scientist",
-      "life",
-      "plants",
-      "agriculture"
-    ],
-    "source": "New Scientist",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.974079"
+    "fetched_at": "2026-07-27T19:33:08.399518"
   },
   {
     "title": "Can the U.S. and Iran take the off-ramp?",
@@ -463,23 +486,7 @@
     ],
     "source": "NPR",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.000160"
-  },
-  {
-    "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
-    "url": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
-    "description": "US agency is to pay Canadian media company US$125m for use of investigative database to detect ‘immigration fraud’A Canadian federal opposition party leader has called on Mark Carney’s government to block the latest data-sharing deal between US Immigration and Customs Enforcement (ICE) and the Canadian media company Thomson Reuters.Avi Lewis, the federal leader of the New Democratic party (NDP), demanded on Tuesday that Ottawa address the contract and further restrict Canadian corporations fr...",
-    "date": "2026-07-24",
-    "score": 0,
-    "tags": [
-      "guardian",
-      "canada",
-      "thomson reuters",
-      "ice (us immigration and customs enforcement)"
-    ],
-    "source": "Guardian",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827233"
+    "fetched_at": "2026-07-27T19:33:08.437059"
   },
   {
     "title": "Canadian legislator reads out apparent LLM response in floor speech",
@@ -495,39 +502,34 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637953"
+    "fetched_at": "2026-07-27T19:33:07.849272"
   },
   {
-    "title": "Carrie is just trying to make a friend in the new trailer",
-    "url": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
-    "description": "Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't contain many surprises. If you're familiar with Carrie at all, it hits all the expected notes, though it's clearly been updated for [&#8230;]",
-    "date": "2026-07-26",
+    "title": "Carly Simon reveals Parkinson's diagnosis",
+    "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+    "description": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "the-verge",
-      "comic-con",
-      "comics",
-      "entertainment"
+      "bbc"
     ],
-    "source": "The Verge",
+    "source": "BBC",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.519995"
+    "fetched_at": "2026-07-27T19:33:08.157429"
   },
   {
-    "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
-    "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
-    "description": "There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of \"so bad they're good\" films are marvelous curiosities where ambition far outstrips resources, ability, and self-awareness to become something much greater than the sum of their parts. Champagne and Bullets (also released as GetEven and [&#8230;]",
-    "date": "2026-07-26",
+    "title": "Chad to join raft of withdrawals from International Criminal Court",
+    "url": "https://www.aljazeera.com/news/2026/7/27/chad-to-join-raft-of-withdrawals-from-international-criminal-court?traffic_source=rss",
+    "description": "Chad becomes the fifth country to withdraw from the ICC recently, amid rising US pressure and accusations of bias.",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "the-verge",
-      "column",
-      "entertainment",
-      "film"
+      "al-jazeera",
+      "news"
     ],
-    "source": "The Verge",
+    "source": "Al Jazeera",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.519961"
+    "fetched_at": "2026-07-27T19:33:08.107988"
   },
   {
     "title": "Child suspects are being prosecuted at younger ages",
@@ -540,7 +542,23 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948766"
+    "fetched_at": "2026-07-27T19:33:08.399550"
+  },
+  {
+    "title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
+    "url": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
+    "description": "The China-based memory firm ChangXin Memory Technologies (CXMT) had a massive first day on the Shanghai stock exchange after its shares surged 466 percent, as reported earlier by The Wall Street Journal and CNBC. The stock market frenzy boosted CXMT's valuation to $484 billion, making it the most valuable Chinese company listed on the exchange. [&#8230;]",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "the-verge",
+      "business",
+      "news",
+      "tech"
+    ],
+    "source": "The Verge",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.828577"
   },
   {
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -555,7 +573,7 @@
     ],
     "source": "VentureBeat AI",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.679229"
+    "fetched_at": "2026-07-27T19:33:08.034827"
   },
   {
     "title": "Closing the data loop in AI-driven drug discovery",
@@ -570,7 +588,7 @@
     ],
     "source": "MIT Tech Review",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.695032"
+    "fetched_at": "2026-07-27T19:33:07.948036"
   },
   {
     "title": "Clothes made from living fungi can clean and repair themselves",
@@ -585,7 +603,7 @@
     ],
     "source": "New Scientist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.974010"
+    "fetched_at": "2026-07-27T19:33:08.719556"
   },
   {
     "title": "Could small-team science be dying out?",
@@ -598,37 +616,20 @@
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640450"
+    "fetched_at": "2026-07-27T19:33:07.996413"
   },
   {
-    "title": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
-    "url": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
-    "description": "Friendly hobby machine or serious production tool? Here’s how to know which one is for you.",
-    "date": "2026-07-25",
-    "score": 0,
-    "tags": [
-      "wired",
-      "gear",
-      "gear / buying guides",
-      "gear / products / home"
-    ],
-    "source": "Wired",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542456"
-  },
-  {
-    "title": "Death toll from Pakistan monsoon rains, floods tops 100",
-    "url": "https://www.aljazeera.com/news/2026/7/27/death-toll-from-pakistan-monsoon-rains-floods-tops-100?traffic_source=rss",
-    "description": "Punjab’s monsoon season usually lasts until September, and more rain is expected this week.",
+    "title": "Devastating European wildfires in maps - and how they're being tackled",
+    "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+    "description": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "al-jazeera",
-      "news"
+      "bbc"
     ],
-    "source": "Al Jazeera",
+    "source": "BBC",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855136"
+    "fetched_at": "2026-07-27T19:33:08.157374"
   },
   {
     "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
@@ -644,41 +645,28 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.086918"
+    "fetched_at": "2026-07-27T19:33:08.193855"
   },
   {
-    "title": "Diomande, Real Madrid ‘agree terms’ for transfer of Leipzig winger",
-    "url": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss",
-    "description": "After an impressive campaign at the FIFA World Cup, Yan Diomande will reportedly join world&#039;s richest football club.",
+    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+    "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+    "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "al-jazeera",
-      "sport"
-    ],
-    "source": "Al Jazeera",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855114"
-  },
-  {
-    "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-    "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-    "description": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-    "date": "2026-07-25",
-    "score": 0,
-    "tags": [
       "techcrunch",
-      "transportation",
-      "venture"
+      "ai",
+      "robotics",
+      "startups"
     ],
     "source": "TechCrunch",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550621"
+    "fetched_at": "2026-07-27T19:33:07.771696"
   },
   {
     "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
     "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
-    "description": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. With this fresh capital, the network is announcing its largest expansion yet.",
+    "description": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LADbible, and angel investors from OpenAI and DeepMind. With this fresh capital, the network is announcing its largest expansion yet.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
@@ -689,66 +677,23 @@
     ],
     "source": "TechCrunch",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550519"
+    "fetched_at": "2026-07-27T19:33:07.771709"
   },
   {
-    "title": "European Union grants US request to restrict satellite images of Iran War region",
-    "url": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
-    "description": "New delay on Copernicus satellite pics comes as US ramps up war with Iran again.",
-    "date": "2026-07-24",
-    "score": 0,
-    "tags": [
-      "ars-technica",
-      "space",
-      "copernicus",
-      "donald trump iran war"
-    ],
-    "source": "Ars Technica",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.638003"
-  },
-  {
-    "title": "Extremely basic AI prompt cracks decades-old maths problem",
-    "url": "https://www.newscientist.com/article/2580932-extremely-basic-ai-prompt-cracks-decades-old-maths-problem/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-    "description": "For the second time in a week, a long-standing conjecture has been disproved by artificial intelligence, highlighting the advanced mathematical capabilities of ChatGPT and its ilk",
-    "date": "2026-07-23",
-    "score": 0,
-    "tags": [
-      "new-scientist",
-      "mathematics",
-      "ai"
-    ],
-    "source": "New Scientist",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.974069"
-  },
-  {
-    "title": "FIFA’s Infantino issues letter, accuses World Cup critics of spreading hate",
-    "url": "https://www.aljazeera.com/sports/2026/7/27/fifa-president-infantino-accuses-2026-world-cup-critics-of-spreading-hate-letter?traffic_source=rss",
-    "description": "FIFA faced criticism over several issues during the tournament, including a debate over US visa restrictions for teams.",
+    "title": "Eye implant that restores vision lost to age approved for use",
+    "url": "https://www.newscientist.com/article/2581477-eye-implant-that-restores-vision-lost-to-age-approved-for-use/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+    "description": "An eye implant and a pair of high-tech glasses that enable people with a severe form of vision loss to read have been approved for use by a European regulator",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "al-jazeera",
-      "sport"
-    ],
-    "source": "Al Jazeera",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855088"
-  },
-  {
-    "title": "Fields medal 2026: Work on unifying laws of physics wins maths prize",
-    "url": "https://www.newscientist.com/article/2580296-fields-medal-2026-work-on-unifying-laws-of-physics-wins-maths-prize/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-    "description": "Mathematicians who helped unify laws of physics and cracked decades-old problems in geometry are among this year's recipients of the Fields medal",
-    "date": "2026-07-23",
-    "score": 0,
-    "tags": [
       "new-scientist",
-      "mathematics"
+      "conditions",
+      "health",
+      "vision"
     ],
     "source": "New Scientist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.974087"
+    "fetched_at": "2026-07-27T19:33:08.719531"
   },
   {
     "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
@@ -762,25 +707,28 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637879"
+    "fetched_at": "2026-07-27T19:33:07.849172"
   },
   {
-    "title": "France continues to fight devastating wildfires, while progress is made in Spain",
-    "url": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
-    "description": "In southern France a wildfire in the region of Gironde is still active, while two major fires in central Spain are finally coming under control, ahead of the fourth heat wave of the summer.",
+    "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
+    "url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+    "description": "Framework's latest modular laptop trades one set of problems for another.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "npr"
+      "ars-technica",
+      "features",
+      "tech",
+      "framework"
     ],
-    "source": "NPR",
+    "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.000109"
+    "fetched_at": "2026-07-27T19:33:07.849095"
   },
   {
-    "title": "Girlguiding unveils first major redesign of uniform range since 1990",
-    "url": "https://www.bbc.co.uk/news/articles/c2dkez2g07po?at_medium=RSS&at_campaign=rss",
-    "description": "Under the new rules, members will be able to wear a top from the new range with their own trousers.",
+    "title": "France and Spain wildfire witnesses describe 'wall of flames', fear and stress",
+    "url": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
+    "description": "Local and visitors tell the BBC of disbelief and anxiety as wildfires force more than 300,000 people to evacuate.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
@@ -788,23 +736,33 @@
     ],
     "source": "BBC",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704619"
+    "fetched_at": "2026-07-27T19:33:08.157492"
   },
   {
-    "title": "Google basically confirms the Pixel 11 is getting a price hike",
-    "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-    "description": "Google's vice president of devices and services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies from [&#8230;]",
-    "date": "2026-07-25",
+    "title": "France continues to fight devastating wildfires, while progress is made in Spain",
+    "url": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
+    "description": "In southern France, a wildfire in the region of Gironde is still active, while two major fires in central Spain are finally coming under control, ahead of the fourth heat wave of the summer.",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "the-verge",
-      "business",
-      "google",
-      "google pixel"
+      "npr"
     ],
-    "source": "The Verge",
+    "source": "NPR",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.520035"
+    "fetched_at": "2026-07-27T19:33:08.437010"
+  },
+  {
+    "title": "Funeral director who left people unburied breached families' trust 'on industrial scale', court hears",
+    "url": "https://www.bbc.co.uk/news/articles/cp8ek0682jdo?at_medium=RSS&at_campaign=rss",
+    "description": "The sentencing hearing of Robert Bush hears how the funeral parlour was likened to a \"horror scene\".",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "bbc"
+    ],
+    "source": "BBC",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.157387"
   },
   {
     "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -820,21 +778,23 @@
     ],
     "source": "VentureBeat AI",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.679082"
+    "fetched_at": "2026-07-27T19:33:08.034653"
   },
   {
-    "title": "Greta Thunberg joins London rally in support of Indian students",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/greta-thunberg-joins-london-rally-in-support-of-indian-students?traffic_source=rss",
-    "description": "Climate activist Greta Thunberg joined a London rally in support of India’s Cockroach Janta Party-led student movement.",
+    "title": "Google’s AI search is rapidly becoming the default, new data shows",
+    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "description": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "al-jazeera",
-      "show types"
+      "techcrunch",
+      "ai",
+      "tc",
+      "ai overviews"
     ],
-    "source": "Al Jazeera",
+    "source": "TechCrunch",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855144"
+    "fetched_at": "2026-07-27T19:33:07.771631"
   },
   {
     "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
@@ -849,7 +809,7 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827222"
+    "fetched_at": "2026-07-27T19:33:08.282732"
   },
   {
     "title": "Having a young biological age could help with weight loss",
@@ -865,7 +825,7 @@
     ],
     "source": "New Scientist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.974021"
+    "fetched_at": "2026-07-27T19:33:08.719568"
   },
   {
     "title": "Health worker monitored for Ebola in London hospital after working in DRC",
@@ -881,7 +841,7 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827168"
+    "fetched_at": "2026-07-27T19:33:08.282623"
   },
   {
     "title": "Healthy diet too expensive for one in three people globally, UN report finds",
@@ -897,7 +857,7 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827182"
+    "fetched_at": "2026-07-27T19:33:08.282643"
   },
   {
     "title": "How 'fire-generated thunderstorms' make wildfires more deadly",
@@ -910,22 +870,7 @@
     ],
     "source": "BBC",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704673"
-  },
-  {
-    "title": "How AI helps scientists design the next generation of medicines",
-    "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-    "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;",
-    "date": "2026-07-23",
-    "score": 0,
-    "tags": [
-      "mit-tech-review",
-      "artificial intelligence",
-      "sponsored"
-    ],
-    "source": "MIT Tech Review",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.695097"
+    "fetched_at": "2026-07-27T19:33:08.157502"
   },
   {
     "title": "How I Turned AI to the Dark Side",
@@ -941,20 +886,50 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.087103"
+    "fetched_at": "2026-07-27T19:33:08.194088"
   },
   {
-    "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
-    "url": "https://www.nature.com/articles/d41586-026-02024-3",
-    "description": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3Researchers share their views on the US health policy spanning topics from vaccines to nutrition.",
-    "date": "2026-07-23",
+    "title": "How Israel uses settler-soldier terror to colonise the West Bank",
+    "url": "https://www.aljazeera.com/opinions/2026/7/27/how-israel-uses-settler-soldier-terror-to-colonise-the-west-bank?traffic_source=rss",
+    "description": "Settler attacks are not isolated incidents. They are all part of a strategy to grab land and colonise.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "al-jazeera",
+      "opinions"
+    ],
+    "source": "Al Jazeera",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.108030"
+  },
+  {
+    "title": "How lasers could help provide fuel for nuclear reactors",
+    "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+    "description": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "mit-tech-review",
+      "climate change and energy",
+      "app",
+      "summary"
+    ],
+    "source": "MIT Tech Review",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.947992"
+  },
+  {
+    "title": "How to prevent AI from harming mathematics",
+    "url": "https://www.nature.com/articles/d41586-026-02309-7",
+    "description": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02309-7Mathematicians must urgently recognize AI’s impacts on their field — and act swiftly to mitigate threats.",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
       "nature"
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640480"
+    "fetched_at": "2026-07-27T19:33:07.996298"
   },
   {
     "title": "How to win the World Cup",
@@ -967,52 +942,7 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948829"
-  },
-  {
-    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-    "date": "2026-07-26",
-    "score": 0,
-    "tags": [
-      "techcrunch",
-      "ai",
-      "security",
-      "clem delangue"
-    ],
-    "source": "TechCrunch",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550575"
-  },
-  {
-    "title": "Humanity spoke thousands of languages at the dawn of farming — now many of them are lost",
-    "url": "https://www.nature.com/articles/d41586-026-02279-w",
-    "description": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02279-wA shift from nomadic lifestyles could have triggered linguistic diversity before it then declined rapidly.",
-    "date": "2026-07-23",
-    "score": 0,
-    "tags": [
-      "nature"
-    ],
-    "source": "Nature",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640489"
-  },
-  {
-    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-    "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-    "date": "2026-07-25",
-    "score": 0,
-    "tags": [
-      "techcrunch",
-      "ai",
-      "chatgpt",
-      "codex"
-    ],
-    "source": "TechCrunch",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550657"
+    "fetched_at": "2026-07-27T19:33:08.399622"
   },
   {
     "title": "IEEE Program Helps Girls In India See a Future In STEM",
@@ -1028,7 +958,7 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.086755"
+    "fetched_at": "2026-07-27T19:33:08.193643"
   },
   {
     "title": "If ludicrous Trump flattery can save NATO, bring it on",
@@ -1041,7 +971,23 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948774"
+    "fetched_at": "2026-07-27T19:33:08.399560"
+  },
+  {
+    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+    "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+    "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "techcrunch",
+      "ai",
+      "startups",
+      "ilya sutskever"
+    ],
+    "source": "TechCrunch",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.771670"
   },
   {
     "title": "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown",
@@ -1054,50 +1000,65 @@
     ],
     "source": "NPR",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.000118"
+    "fetched_at": "2026-07-27T19:33:08.437021"
   },
   {
-    "title": "Inside one London founder house rewriting the founder-house rules",
-    "url": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-    "description": "How one founder house is betting work-life balance can beat burnout .",
-    "date": "2026-07-26",
-    "score": 0,
-    "tags": [
-      "techcrunch",
-      "venture",
-      "london",
-      "uk"
-    ],
-    "source": "TechCrunch",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550565"
-  },
-  {
-    "title": "International PhD students to face strict limits on time in the US",
-    "url": "https://www.nature.com/articles/d41586-026-02280-3",
-    "description": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02280-3Trump administration takes action to address ‘forever students’.",
-    "date": "2026-07-23",
-    "score": 0,
-    "tags": [
-      "nature"
-    ],
-    "source": "Nature",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640461"
-  },
-  {
-    "title": "Israeli forces storm multiple West Bank towns, settler violence worsens",
-    "url": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss",
-    "description": "At least 20 West Bank towns and villages have been raided, with homes demolished and dozens of Palestinians arrested.",
+    "title": "India suspends police officer for firing AK-47 at student protesters",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/india-suspends-police-officer-for-firing-ak-47-at-student-protesters?traffic_source=rss",
+    "description": "An Indian police officer has been suspended after firing an AK-47 rifle at students protesting over leaked exam papers.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
       "al-jazeera",
-      "news"
+      "show types"
     ],
     "source": "Al Jazeera",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855072"
+    "fetched_at": "2026-07-27T19:33:08.107977"
+  },
+  {
+    "title": "Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago",
+    "url": "https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/",
+    "description": "Beluga whales were in danger of getting euthanized after a Canadian theme park went bust. WIRED spoke with some of the scientists behind the groundbreaking rescue mission.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "wired",
+      "science",
+      "animal behavior",
+      "biology"
+    ],
+    "source": "Wired",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.877991"
+  },
+  {
+    "title": "Iran: Currently no negotiations with the US",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss",
+    "description": "Iranian Foreign Ministry Spokesperson, Esmaeil Baghaei, said on Monday that Iran is not seeking negotiations with US.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "al-jazeera",
+      "show types"
+    ],
+    "source": "Al Jazeera",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.107998"
+  },
+  {
+    "title": "Israeli raid sparks fire at UN Palestinian refugee centre",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss",
+    "description": "Israeli forces raided a United Nations Relief and Works Agency for Palestine Refugees training centre.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "al-jazeera",
+      "show types"
+    ],
+    "source": "Al Jazeera",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.108009"
   },
   {
     "title": "It’s Becoming Clear Why Black Holes Never Run Out of Fuel",
@@ -1113,7 +1074,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542388"
+    "fetched_at": "2026-07-27T19:33:07.878113"
   },
   {
     "title": "Japan records its first ‘cruelly hot day’ as cities swelter in 40-degree heat",
@@ -1129,23 +1090,7 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827310"
-  },
-  {
-    "title": "Judge rebuffs Trump admin demand for phone records from NYT reporters",
-    "url": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
-    "description": "\"We can quash the subpoenas, or you could withdraw the subpoenas,” judge told US.",
-    "date": "2026-07-24",
-    "score": 0,
-    "tags": [
-      "ars-technica",
-      "policy",
-      "department of justice",
-      "new york times"
-    ],
-    "source": "Ars Technica",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637993"
+    "fetched_at": "2026-07-27T19:33:08.282822"
   },
   {
     "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
@@ -1158,38 +1103,21 @@
     ],
     "source": "NPR",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.000146"
+    "fetched_at": "2026-07-27T19:33:08.437031"
   },
   {
-    "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
-    "url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
-    "description": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
-    "date": "2026-07-25",
+    "title": "Lebanon’s displaced endure ‘exhaustion and despair’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss",
+    "description": "UN High Commissioner for Human Rights Volker said that Lebanon&#039;s displaced endure ‘exhaustion and despair’.",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "techcrunch",
-      "media & entertainment",
-      "netflix",
-      "kalshi"
+      "al-jazeera",
+      "show types"
     ],
-    "source": "TechCrunch",
+    "source": "Al Jazeera",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550631"
-  },
-  {
-    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-    "date": "2026-07-25",
-    "score": 0,
-    "tags": [
-      "techcrunch",
-      "ai",
-      "tc"
-    ],
-    "source": "TechCrunch",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550639"
+    "fetched_at": "2026-07-27T19:33:08.107900"
   },
   {
     "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -1204,12 +1132,25 @@
     ],
     "source": "VentureBeat AI",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.679275"
+    "fetched_at": "2026-07-27T19:33:08.034887"
   },
   {
-    "title": "Macron calls crisis meeting of French cabinet as blaze approaches Bordeaux",
-    "url": "https://www.aljazeera.com/news/2026/7/27/macron-calls-crisis-meeting-of-french-cabinet-as-blaze-approaches-bordeaux?traffic_source=rss",
-    "description": "The situation in France is currently stable, authorities say, but another heatwave is on the way.",
+    "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
+    "url": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
+    "description": "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "bbc"
+    ],
+    "source": "BBC",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.157408"
+  },
+  {
+    "title": "Mapping Israeli settler violence in the West Bank",
+    "url": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss",
+    "description": "Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
@@ -1218,68 +1159,7 @@
     ],
     "source": "Al Jazeera",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855097"
-  },
-  {
-    "title": "Making sense of the panic over Chinese AI",
-    "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-    "date": "2026-07-26",
-    "score": 0,
-    "tags": [
-      "techcrunch",
-      "ai",
-      "government & policy",
-      "kimi"
-    ],
-    "source": "TechCrunch",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550555"
-  },
-  {
-    "title": "Man and woman die after being pulled from sea off Cornish beach",
-    "url": "https://www.bbc.co.uk/news/articles/cy4k892z44jo?at_medium=RSS&at_campaign=rss",
-    "description": "A man and a woman both died at the scene after being recovered from the sea off Cornwall.",
-    "date": "2026-07-27",
-    "score": 0,
-    "tags": [
-      "bbc"
-    ],
-    "source": "BBC",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704627"
-  },
-  {
-    "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
-    "url": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
-    "description": "While perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The highest profile was certainly the announcement that Ryan Gosling would be joining the MCU as Ghost Rider, with the Shawn Levy-directed (Deadpool &#38; Wolverine) standalone feature set to drop sometime in 2028. The studio also brought [&#8230;]",
-    "date": "2026-07-26",
-    "score": 0,
-    "tags": [
-      "the-verge",
-      "comic-con",
-      "comics",
-      "entertainment"
-    ],
-    "source": "The Verge",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.520015"
-  },
-  {
-    "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
-    "url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
-    "description": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western AmazonIndigenous leaders on the Brazilian-Peruvian border have said their communities are being “taken hostage” by organised crime groups who are running rampant across the region, destroying rainforest, building roads and trafficking drugs.Earlier this month, masked men armed with semi-automatic weapons entered homes in Apiwtxa, a village in the Kampa do Rio Amônia Indigenous territory, intimidating pe...",
-    "date": "2026-07-24",
-    "score": 0,
-    "tags": [
-      "guardian",
-      "amazon rainforest",
-      "americas",
-      "indigenous peoples"
-    ],
-    "source": "Guardian",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827246"
+    "fetched_at": "2026-07-27T19:33:08.108020"
   },
   {
     "title": "Measles Is Becoming So Common That Treatments May Soon Be Needed",
@@ -1295,7 +1175,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542368"
+    "fetched_at": "2026-07-27T19:33:07.878086"
   },
   {
     "title": "Meet the world’s new peacemakers",
@@ -1308,7 +1188,7 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948814"
+    "fetched_at": "2026-07-27T19:33:08.399601"
   },
   {
     "title": "Michelin-starred restaurant owner in South Korea faces jail over ant dessert",
@@ -1324,20 +1204,23 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827297"
+    "fetched_at": "2026-07-27T19:33:08.282804"
   },
   {
-    "title": "Millions see leaked copy of The Odyssey movie on X",
-    "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
-    "description": "Film studio Universal takes down a high-quality bootleg version of the film, which appeared on X.",
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "bbc"
+      "techcrunch",
+      "ai",
+      "security",
+      "cybersecurity"
     ],
-    "source": "BBC",
+    "source": "TechCrunch",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704642"
+    "fetched_at": "2026-07-27T19:33:07.771531"
   },
   {
     "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
@@ -1353,37 +1236,7 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827156"
-  },
-  {
-    "title": "Moment Ukrainian drones strike Russia’s Belgorod",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss",
-    "description": "Dramatic videos captured the moment Ukrainian drones hit Belgorod, a Russian city near the Ukrainian border.",
-    "date": "2026-07-27",
-    "score": 0,
-    "tags": [
-      "al-jazeera",
-      "show types"
-    ],
-    "source": "Al Jazeera",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855054"
-  },
-  {
-    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-    "date": "2026-07-26",
-    "score": 0,
-    "tags": [
-      "techcrunch",
-      "ai",
-      "tc",
-      "layoffs"
-    ],
-    "source": "TechCrunch",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550593"
+    "fetched_at": "2026-07-27T19:33:08.282607"
   },
   {
     "title": "Morning news brief",
@@ -1396,7 +1249,7 @@
     ],
     "source": "NPR",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.000153"
+    "fetched_at": "2026-07-27T19:33:08.437050"
   },
   {
     "title": "Most neurons seem to be jacks-of-all-trades, not specialists",
@@ -1412,7 +1265,22 @@
     ],
     "source": "New Scientist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.974041"
+    "fetched_at": "2026-07-27T19:33:08.719594"
+  },
+  {
+    "title": "Mystery hominin left big footprints at ancient lake in Africa",
+    "url": "https://www.newscientist.com/article/2581351-mystery-hominin-left-big-footprints-at-ancient-lake-in-africa/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+    "description": "Over 1.4 million years ago, a group of eight ancient hominins walked across a shallow mudflat, but their footprints don’t match those of Paranthropus boisei or Homo erectus",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "new-scientist",
+      "ancient humans",
+      "humans"
+    ],
+    "source": "New Scientist",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.719493"
   },
   {
     "title": "NATO ponders how to defend Eastern Europe as America pulls back",
@@ -1425,36 +1293,37 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948786"
+    "fetched_at": "2026-07-27T19:33:08.399570"
   },
   {
-    "title": "NHS 'will collapse' without social care reform, PM tells BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
-    "description": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
+    "title": "Nanoleaf&#8217;s colorful pegboard and shelf kit is half off",
+    "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+    "description": "Nanoleaf&#8217;s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half off at $99.99 from Nanoleaf, which marks a new low [&#8230;]",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "bbc"
+      "the-verge",
+      "deals",
+      "gadgets",
+      "smart home"
     ],
-    "source": "BBC",
+    "source": "The Verge",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704579"
+    "fetched_at": "2026-07-27T19:33:07.828455"
   },
   {
-    "title": "Nokia’s 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
-    "url": "https://spectrum.ieee.org/nokia-phones-history",
-    "description": "In 2005, Nokia sold its billionth mobile phone, a budget-friendly device that went to a customer in Nigeria. By then, the company, based in Espoo, Finland, was making one of every three cellphones globally.But just nine years later, the mobile-device maker offloaded its entire handset division to Microsoft for pennies on the dollar, compared to what it had been worth at its peak. Nokia had risen from obscurity in the 1990s to become a worldwide cultural phenomenon by the turn of the millenniu...",
-    "date": "2026-07-13",
+    "title": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
+    "url": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
+    "description": "Burnham is the fifth British prime minister to deal with President Zelenskyy since the war on Ukraine started in 2022.",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "ieee-spectrum",
-      "feature-phones",
-      "consumer-technology",
-      "tech-history"
+      "al-jazeera",
+      "news"
     ],
-    "source": "IEEE Spectrum",
+    "source": "Al Jazeera",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.087230"
+    "fetched_at": "2026-07-27T19:33:08.107944"
   },
   {
     "title": "Notice to Membership",
@@ -1470,7 +1339,7 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.086966"
+    "fetched_at": "2026-07-27T19:33:08.193915"
   },
   {
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -1485,10 +1354,10 @@
     ],
     "source": "VentureBeat AI",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.679429"
+    "fetched_at": "2026-07-27T19:33:08.035076"
   },
   {
-    "title": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
+    "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
     "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
     "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety [&#8230;]",
     "date": "2026-07-27",
@@ -1501,36 +1370,7 @@
     ],
     "source": "The Verge",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.519922"
-  },
-  {
-    "title": "Oil price dives as US and Iran pause attacks",
-    "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-    "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
-    "date": "2026-07-27",
-    "score": 0,
-    "tags": [
-      "bbc"
-    ],
-    "source": "BBC",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704650"
-  },
-  {
-    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-    "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-    "date": "2026-07-25",
-    "score": 0,
-    "tags": [
-      "techcrunch",
-      "climate",
-      "ai",
-      "data centers"
-    ],
-    "source": "TechCrunch",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550649"
+    "fetched_at": "2026-07-27T19:33:07.828588"
   },
   {
     "title": "One of NASA’s crucial links to deep space is at risk of burning down",
@@ -1546,7 +1386,53 @@
     ],
     "source": "New Scientist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.973993"
+    "fetched_at": "2026-07-27T19:33:08.719544"
+  },
+  {
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "mit-tech-review",
+      "artificial intelligence",
+      "app",
+      "artificial intelligence"
+    ],
+    "source": "MIT Tech Review",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.947957"
+  },
+  {
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "techcrunch",
+      "ai",
+      "ai alignment",
+      "ai safety"
+    ],
+    "source": "TechCrunch",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.771604"
+  },
+  {
+    "title": "Pakistan-administered Kashmir opens polls in violence-wracked vote",
+    "url": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss",
+    "description": "First of three rounds of voting held after weeks of protests during which dozens of people were killed.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "al-jazeera",
+      "news"
+    ],
+    "source": "Al Jazeera",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.107868"
   },
   {
     "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
@@ -1562,7 +1448,7 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.087156"
+    "fetched_at": "2026-07-27T19:33:08.194163"
   },
   {
     "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
@@ -1578,7 +1464,7 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637943"
+    "fetched_at": "2026-07-27T19:33:07.849259"
   },
   {
     "title": "Personalized gene therapy relieves severe epilepsy in two boys",
@@ -1591,21 +1477,36 @@
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640398"
+    "fetched_at": "2026-07-27T19:33:07.996348"
   },
   {
-    "title": "Photos: France, Spain battle ‘monster’ wildfires as more heat looms",
-    "url": "https://www.aljazeera.com/gallery/2026/7/27/photos-france-spain-battle-monster-wildfires-as-more-heat-looms?traffic_source=rss",
-    "description": "France and Spain are battling vast wildfires that have forced more than 325,000 people to flee, as a new heatwave looms.",
+    "title": "Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics",
+    "url": "https://www.nature.com/articles/s41586-026-10929-2",
+    "description": "Nature, Published online: 27 July 2026; doi:10.1038/s41586-026-10929-2Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "al-jazeera",
-      "news"
+      "nature"
     ],
-    "source": "Al Jazeera",
+    "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855045"
+    "fetched_at": "2026-07-27T19:33:07.996241"
+  },
+  {
+    "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
+    "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+    "description": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in ChileMore than 50 years after the murder of the Chilean folk singer Víctor Jara, the last man wanted in connection with his death has been tracked down and brought to justice.Nelson Haase Mazzei, a retired colonel, fled from authorities in 2023 after he and six other retired soldiers were sentenced in absentia for murdering Jara and another man. Continue reading...",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "guardian",
+      "chile",
+      "augusto pinochet",
+      "americas"
+    ],
+    "source": "Guardian",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.282661"
   },
   {
     "title": "Poetry for Engineers: A Martian Rover Sends a Postcard Home",
@@ -1621,7 +1522,36 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.086556"
+    "fetched_at": "2026-07-27T19:33:08.193388"
+  },
+  {
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "techcrunch",
+      "startups",
+      "ai",
+      "techcrunch disrupt"
+    ],
+    "source": "TechCrunch",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.771644"
+  },
+  {
+    "title": "Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings",
+    "url": "https://www.nature.com/articles/s41586-026-10930-9",
+    "description": "Nature, Published online: 27 July 2026; doi:10.1038/s41586-026-10930-9Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "nature"
+    ],
+    "source": "Nature",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.996216"
   },
   {
     "title": "RFK Jr.'s handpicked committee approves manufacture of peptides he uses",
@@ -1637,7 +1567,7 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637983"
+    "fetched_at": "2026-07-27T19:33:07.849308"
   },
   {
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -1652,12 +1582,12 @@
     ],
     "source": "VentureBeat AI",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.679152"
+    "fetched_at": "2026-07-27T19:33:08.034730"
   },
   {
-    "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
-    "url": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
-    "description": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
+    "title": "Reform UK reporting Green leader Zack Polanski to police over Instagram post",
+    "url": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
+    "description": "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
@@ -1665,7 +1595,7 @@
     ],
     "source": "BBC",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704658"
+    "fetched_at": "2026-07-27T19:33:08.157398"
   },
   {
     "title": "Researchers are building computers that run on brain organoids — but have neglected a major ethical issue",
@@ -1678,7 +1608,7 @@
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640364"
+    "fetched_at": "2026-07-27T19:33:07.996311"
   },
   {
     "title": "Roku raises streaming stick prices by up to 60 percent",
@@ -1694,7 +1624,23 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637973"
+    "fetched_at": "2026-07-27T19:33:07.849296"
+  },
+  {
+    "title": "SDCC 2026’s best trailers are heavy on cyberpunk and sci-fi",
+    "url": "https://www.theverge.com/entertainment/971285/sdcc-2026-trailers-neuromancer-blade-runner-carrie",
+    "description": "San Diego Comic-Con took place over the weekend, and as per usual it was full of tidbits of news across film, TV, and gaming. Marvel revealed the next Ghost Rider (Ryan Gosling) and Black Panther (David Jonsson), while we also got release dates for God of War: Laufey (February 16th) and the fourth and final [&#8230;]",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "the-verge",
+      "entertainment",
+      "film",
+      "gaming"
+    ],
+    "source": "The Verge",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.828564"
   },
   {
     "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
@@ -1710,7 +1656,7 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637892"
+    "fetched_at": "2026-07-27T19:33:07.849193"
   },
   {
     "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
@@ -1726,7 +1672,7 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.086771"
+    "fetched_at": "2026-07-27T19:33:08.193664"
   },
   {
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -1742,12 +1688,28 @@
     ],
     "source": "VentureBeat AI",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.679333"
+    "fetched_at": "2026-07-27T19:33:08.034952"
   },
   {
-    "title": "Sam Altman says AI has entered ‘singularity’: Should we be worried?",
-    "url": "https://www.aljazeera.com/news/2026/7/27/sam-altman-says-ai-has-entered-singularity-should-we-be-worried?traffic_source=rss",
-    "description": "The &#039;singularity&#039; refers to the point at which AI outpaces human intelligence and becomes difficult to control.",
+    "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
+    "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+    "description": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung’s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon. Finding a good QD-OLED monitor under $500 these days is [&#8230;]",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "the-verge",
+      "deals",
+      "gadgets",
+      "gaming"
+    ],
+    "source": "The Verge",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.828552"
+  },
+  {
+    "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
+    "url": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
+    "description": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
@@ -1756,37 +1718,39 @@
     ],
     "source": "Al Jazeera",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855080"
+    "fetched_at": "2026-07-27T19:33:08.107912"
   },
   {
-    "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
-    "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-    "description": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers&#8230;",
-    "date": "2026-07-22",
-    "score": 0,
-    "tags": [
-      "mit-tech-review",
-      "space",
-      "app",
-      "summary"
-    ],
-    "source": "MIT Tech Review",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.695138"
-  },
-  {
-    "title": "Sooryavanshi praised by Laxman after teen stars against Zimbabwe in T20",
-    "url": "https://www.aljazeera.com/sports/2026/7/27/india-zimbabwe-t20-cricket-match-vaibhav-sooryavanshi-vvs-laxman?traffic_source=rss",
-    "description": "After a difficult start to his international career in England, teen prodigy Sooryavanshi stepped up against Zimbabwe.",
+    "title": "Shots fired near US consulate in Canada for second time in four months",
+    "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
+    "description": "No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police sayShots were fired near the US consulate in Toronto early on Monday but no one was injured in the second shooting near the diplomatic compound in four months.“Officers heard a firearm being discharged in the area,” and “a white sedan was seen fleeing the scene”, Toronto police said on X. Continue reading...",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "al-jazeera",
-      "sport"
+      "guardian",
+      "toronto",
+      "canada",
+      "americas"
     ],
-    "source": "Al Jazeera",
+    "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855035"
+    "fetched_at": "2026-07-27T19:33:08.282678"
+  },
+  {
+    "title": "Snapchat now lets you share what you’re listening to in real time",
+    "url": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
+    "description": "Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "techcrunch",
+      "apps",
+      "social",
+      "snapchat"
+    ],
+    "source": "TechCrunch",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.771683"
   },
   {
     "title": "Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls",
@@ -1802,7 +1766,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542378"
+    "fetched_at": "2026-07-27T19:33:07.878099"
   },
   {
     "title": "Sovereign AI, independent of America and China, is a pipe dream",
@@ -1815,7 +1779,7 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948750"
+    "fetched_at": "2026-07-27T19:33:08.399529"
   },
   {
     "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
@@ -1831,21 +1795,7 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637902"
-  },
-  {
-    "title": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
-    "description": "Spanish Prime Minister Pedro Sanchez has thanked Layan Al Quqa, a young artist in Gaza for painting a mural of him",
-    "date": "2026-07-27",
-    "score": 0,
-    "tags": [
-      "al-jazeera",
-      "show types"
-    ],
-    "source": "Al Jazeera",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855152"
+    "fetched_at": "2026-07-27T19:33:07.849207"
   },
   {
     "title": "Students are doing worse than you think",
@@ -1858,7 +1808,7 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948806"
+    "fetched_at": "2026-07-27T19:33:08.399591"
   },
   {
     "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
@@ -1874,7 +1824,7 @@
     ],
     "source": "MIT Tech Review",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.695078"
+    "fetched_at": "2026-07-27T19:33:07.948101"
   },
   {
     "title": "TV presenter and comedian Bill Oddie dies at 85",
@@ -1887,7 +1837,7 @@
     ],
     "source": "BBC",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704602"
+    "fetched_at": "2026-07-27T19:33:08.157451"
   },
   {
     "title": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
@@ -1900,39 +1850,49 @@
     ],
     "source": "NPR",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.000175"
+    "fetched_at": "2026-07-27T19:33:08.437079"
   },
   {
-    "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-    "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-    "description": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-    "date": "2026-07-24",
+    "title": "Tariffs didn’t bring manufacturing jobs back to the US",
+    "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
+    "description": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about how Trump’s first few waves of tariffs were starting to affect global trade and what [&#8230;]",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "ars-technica",
-      "ai",
-      "science",
-      "alphafold"
+      "the-verge",
+      "decoder",
+      "podcasts",
+      "policy"
     ],
-    "source": "Ars Technica",
+    "source": "The Verge",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.638013"
+    "fetched_at": "2026-07-27T19:33:07.828537"
   },
   {
-    "title": "TechCrunch Mobility: Uber bets on its former CEO",
-    "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
-    "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "date": "2026-07-26",
+    "title": "Teen denies endangering lives of 165 people on migrant boat crossing",
+    "url": "https://www.bbc.co.uk/news/articles/c8enp0y1r68o?at_medium=RSS&at_campaign=rss",
+    "description": "Chan Mathok Atak, 19, from Sudan, is accused of endangering life during a sea journey to the UK.",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "techcrunch",
-      "transportation",
-      "uber",
-      "waymo"
+      "bbc"
     ],
-    "source": "TechCrunch",
+    "source": "BBC",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550584"
+    "fetched_at": "2026-07-27T19:33:08.157482"
+  },
+  {
+    "title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
+    "url": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
+    "description": "South Asia's leaders have long boasted about their demographic dividend. But the region's young people are turning it into a political reckoning.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "npr"
+    ],
+    "source": "NPR",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.436980"
   },
   {
     "title": "The 10 Best WIRED-Tested Handheld Vacuums of 2026",
@@ -1948,21 +1908,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542307"
-  },
-  {
-    "title": "The Ban: A censorship loophole during the conflict in Northern Ireland",
-    "url": "https://www.aljazeera.com/video/witness/2026/7/27/the-ban-a-censorship-loophole-during-the-conflict-in-northern-ireland?traffic_source=rss",
-    "description": "A censorship saga about how the voices of republican leaders in Northern Ireland were banned by the British government.",
-    "date": "2026-07-27",
-    "score": 0,
-    "tags": [
-      "al-jazeera",
-      "documentary"
-    ],
-    "source": "Al Jazeera",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855106"
+    "fetched_at": "2026-07-27T19:33:07.878013"
   },
   {
     "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
@@ -1978,7 +1924,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542398"
+    "fetched_at": "2026-07-27T19:33:07.878127"
   },
   {
     "title": "The Best Motorola Phones, From Razr to Moto G (2026)",
@@ -1994,7 +1940,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542427"
+    "fetched_at": "2026-07-27T19:33:07.878202"
   },
   {
     "title": "The Best Subscription-Free Home Security Cameras I’ve Tried",
@@ -2010,7 +1956,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542447"
+    "fetched_at": "2026-07-27T19:33:07.878215"
   },
   {
     "title": "The Computer That Helped Win World War II",
@@ -2026,21 +1972,7 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.086669"
-  },
-  {
-    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-    "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will&#8230;",
-    "date": "2026-07-22",
-    "score": 0,
-    "tags": [
-      "mit-tech-review",
-      "the download"
-    ],
-    "source": "MIT Tech Review",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.695116"
+    "fetched_at": "2026-07-27T19:33:08.193528"
   },
   {
     "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
@@ -2054,7 +1986,7 @@
     ],
     "source": "MIT Tech Review",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.695068"
+    "fetched_at": "2026-07-27T19:33:07.948087"
   },
   {
     "title": "The Download: energy transmission and US threats against Chinese AI",
@@ -2068,7 +2000,21 @@
     ],
     "source": "MIT Tech Review",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.695087"
+    "fetched_at": "2026-07-27T19:33:07.948112"
+  },
+  {
+    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+    "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.&#8230;",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "mit-tech-review",
+      "the download"
+    ],
+    "source": "MIT Tech Review",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.948007"
   },
   {
     "title": "The First Chatbot’s Multiple Personalities",
@@ -2084,7 +2030,7 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.087026"
+    "fetched_at": "2026-07-27T19:33:08.193988"
   },
   {
     "title": "The Iran war is consuming the Trump presidency",
@@ -2097,7 +2043,7 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948732"
+    "fetched_at": "2026-07-27T19:33:08.399505"
   },
   {
     "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
@@ -2113,23 +2059,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542417"
-  },
-  {
-    "title": "The US is charging an American citizen for wiping his phone at the border",
-    "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
-    "description": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport, allegedly questioning him about child exploitation images. However, a motion filed by Tunick's lawyers [&#8230;]",
-    "date": "2026-07-26",
-    "score": 0,
-    "tags": [
-      "the-verge",
-      "law",
-      "news",
-      "policy"
-    ],
-    "source": "The Verge",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.519985"
+    "fetched_at": "2026-07-27T19:33:07.878189"
   },
   {
     "title": "The World Cup has always been beset by scandal and strife",
@@ -2142,7 +2072,7 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948836"
+    "fetched_at": "2026-07-27T19:33:08.399631"
   },
   {
     "title": "The existential choice facing UK physics facilities: commercialize or close",
@@ -2155,7 +2085,7 @@
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640336"
+    "fetched_at": "2026-07-27T19:33:07.996257"
   },
   {
     "title": "The geopolitics of air-conditioning",
@@ -2168,39 +2098,22 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948716"
+    "fetched_at": "2026-07-27T19:33:08.399481"
   },
   {
-    "title": "The hacker who humiliated spyware makers and was never caught",
-    "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
-    "description": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
-    "date": "2026-07-25",
-    "score": 0,
-    "tags": [
-      "techcrunch",
-      "security",
-      "hackers",
-      "cybersecurity"
-    ],
-    "source": "TechCrunch",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550612"
-  },
-  {
-    "title": "The power line that could reshape New York’s grid is hitting snags",
-    "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-    "description": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE).&#8230;",
-    "date": "2026-07-23",
+    "title": "The path to artificial superintelligence",
+    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "description": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
       "mit-tech-review",
-      "climate change and energy",
-      "app",
-      "summary"
+      "artificial intelligence",
+      "sponsored"
     ],
     "source": "MIT Tech Review",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.695107"
+    "fetched_at": "2026-07-27T19:33:07.948021"
   },
   {
     "title": "The quest to keep organs alive outside the body",
@@ -2216,23 +2129,23 @@
     ],
     "source": "MIT Tech Review",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.695059"
+    "fetched_at": "2026-07-27T19:33:07.948075"
   },
   {
-    "title": "The vertical video takeover is here",
-    "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started For a while, every social and media platform [&#8230;]",
-    "date": "2026-07-26",
+    "title": "This $9 key physically locks your most addictive apps",
+    "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+    "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "the-verge",
-      "column",
-      "creators",
-      "facebook"
+      "techcrunch",
+      "ai",
+      "gadgets",
+      "hardware"
     ],
-    "source": "The Verge",
+    "source": "TechCrunch",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.520025"
+    "fetched_at": "2026-07-27T19:33:07.771657"
   },
   {
     "title": "This El Niño will be the hottest by a huge margin",
@@ -2248,7 +2161,7 @@
     ],
     "source": "New Scientist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.974060"
+    "fetched_at": "2026-07-27T19:33:08.719619"
   },
   {
     "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
@@ -2264,7 +2177,7 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.086880"
+    "fetched_at": "2026-07-27T19:33:08.193807"
   },
   {
     "title": "This Is Donald Trump’s AI Brain Trust",
@@ -2280,7 +2193,23 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542347"
+    "fetched_at": "2026-07-27T19:33:07.878059"
+  },
+  {
+    "title": "This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800",
+    "url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
+    "description": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports, easy repairs, and an impressive range of upgradeable parts. So what happens when Framework goes \"Pro\"? We get a one-of-a-kind [&#8230;]",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "the-verge",
+      "gadgets",
+      "intel",
+      "laptop reviews"
+    ],
+    "source": "The Verge",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.828523"
   },
   {
     "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
@@ -2296,7 +2225,23 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827209"
+    "fetched_at": "2026-07-27T19:33:08.282716"
+  },
+  {
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "techcrunch",
+      "ai",
+      "apps",
+      "in brief"
+    ],
+    "source": "TechCrunch",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.771618"
   },
   {
     "title": "Total solar eclipse books out hotels two years in advance in New Zealand city",
@@ -2312,7 +2257,7 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827259"
+    "fetched_at": "2026-07-27T19:33:08.282749"
   },
   {
     "title": "Two Russian men jailed in Angola for terrorism and spying",
@@ -2328,20 +2273,7 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827142"
-  },
-  {
-    "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-    "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-    "description": "The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
-    "date": "2026-07-26",
-    "score": 0,
-    "tags": [
-      "npr"
-    ],
-    "source": "NPR",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.000182"
+    "fetched_at": "2026-07-27T19:33:08.282588"
   },
   {
     "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
@@ -2354,7 +2286,7 @@
     ],
     "source": "BBC",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704593"
+    "fetched_at": "2026-07-27T19:33:08.157461"
   },
   {
     "title": "Uganda begins emergency food handouts after 19 die from hunger",
@@ -2370,7 +2302,20 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827108"
+    "fetched_at": "2026-07-27T19:33:08.282557"
+  },
+  {
+    "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+    "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+    "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "bbc"
+    ],
+    "source": "BBC",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.157440"
   },
   {
     "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
@@ -2386,23 +2331,21 @@
     ],
     "source": "Guardian",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.827195"
+    "fetched_at": "2026-07-27T19:33:08.282697"
   },
   {
-    "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-    "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
-    "description": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
-    "date": "2026-07-25",
+    "title": "War on Iran: Phase II: Day 16",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
+    "description": "The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "techcrunch",
-      "government & policy",
-      "media & entertainment",
-      "amazon"
+      "al-jazeera",
+      "show types"
     ],
-    "source": "TechCrunch",
+    "source": "Al Jazeera",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.550602"
+    "fetched_at": "2026-07-27T19:33:08.107923"
   },
   {
     "title": "We now know how a black hole can be flung across the universe",
@@ -2418,7 +2361,7 @@
     ],
     "source": "New Scientist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.974051"
+    "fetched_at": "2026-07-27T19:33:08.719606"
   },
   {
     "title": "Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall",
@@ -2434,7 +2377,7 @@
     ],
     "source": "Wired",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.542323"
+    "fetched_at": "2026-07-27T19:33:07.878030"
   },
   {
     "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
@@ -2450,7 +2393,23 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.086831"
+    "fetched_at": "2026-07-27T19:33:08.193743"
+  },
+  {
+    "title": "We’ve found the best example yet of an enormous wandering black hole",
+    "url": "https://www.newscientist.com/article/2581301-weve-found-the-best-example-yet-of-an-enormous-wandering-black-hole/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+    "description": "Astronomers have caught a supermassive black hole straying far from the centre of its galaxy using light from a star being ripped apart",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "new-scientist",
+      "astronomy",
+      "black holes",
+      "space"
+    ],
+    "source": "New Scientist",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.719516"
   },
   {
     "title": "What The Odyssey reveals about ancient science — from botany to psychiatry",
@@ -2463,7 +2422,50 @@
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640440"
+    "fetched_at": "2026-07-27T19:33:07.996401"
+  },
+  {
+    "title": "What drove Venezuela’s decision to leave the ICC?",
+    "url": "https://www.aljazeera.com/news/2026/7/27/what-drove-venezuelas-decision-to-leave-the-icc?traffic_source=rss",
+    "description": "The ICC says its investigation into alleged crimes against humanity will continue despite the withdrawal.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "al-jazeera",
+      "news"
+    ],
+    "source": "Al Jazeera",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.107966"
+  },
+  {
+    "title": "What public health professionals can learn from anti-vaccine storytelling",
+    "url": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
+    "description": "Sometimes, compelling stories beat medical evidence.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "ars-technica",
+      "health",
+      "anti-vaccine",
+      "public health"
+    ],
+    "source": "Ars Technica",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:07.849111"
+  },
+  {
+    "title": "What you need to know if you're travelling to France or Spain",
+    "url": "https://www.bbc.co.uk/news/videos/c89npw4q3g4o?at_medium=RSS&at_campaign=rss",
+    "description": "The BBC’s cost of living correspondent explains how to handle holiday cancellations as a result of European wildfires.",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "bbc"
+    ],
+    "source": "BBC",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.157514"
   },
   {
     "title": "When Career Risks Are Worth Taking",
@@ -2479,7 +2481,7 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.086952"
+    "fetched_at": "2026-07-27T19:33:08.193897"
   },
   {
     "title": "When China’s open-source AI is a trap",
@@ -2492,7 +2494,7 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948758"
+    "fetched_at": "2026-07-27T19:33:08.399539"
   },
   {
     "title": "When should you treat a fever? Evolution holds the answer",
@@ -2505,12 +2507,12 @@
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640352"
+    "fetched_at": "2026-07-27T19:33:07.996283"
   },
   {
     "title": "White House rolls out AI funding — and signals a new era for US science",
     "url": "https://www.nature.com/articles/d41586-026-02332-8",
-    "description": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.",
+    "description": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8Chief US science adviser calls for a shake-up in funding while handing out grants to accelerate research with AI.",
     "date": "2026-07-24",
     "score": 0,
     "tags": [
@@ -2518,7 +2520,7 @@
     ],
     "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.640429"
+    "fetched_at": "2026-07-27T19:33:07.996387"
   },
   {
     "title": "Why AI Needs a “Genie Coefficient”",
@@ -2534,34 +2536,38 @@
     ],
     "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.086709"
+    "fetched_at": "2026-07-27T19:33:08.193580"
   },
   {
-    "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
-    "url": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
-    "description": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
+    "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
+    "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
+    "description": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures.What Attendees will LearnWhy mode-agile threats render static library systems ineffective — Explore how wartime reserve modes and mode-agile emitters deploy unexpected frequencies, modulation techniques, and hopping schemes that cannot be matched against traditional threat databases, leaving legacy electronic protect, attack, and sup...",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "bbc"
+      "ieee-spectrum",
+      "type-whitepaper",
+      "electronic-warfare",
+      "radar"
     ],
-    "source": "BBC",
+    "source": "IEEE Spectrum",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704696"
+    "fetched_at": "2026-07-27T19:33:08.193357"
   },
   {
-    "title": "Why has the US halted its bombing of Iran?",
-    "url": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss",
-    "description": "Tit-for-tat strikes have halted in the Middle East amid reports of depleted US weapons stocks.",
+    "title": "Why China is giving away its best AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "description": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between [&#8230;]",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "al-jazeera",
-      "news"
+      "the-verge",
+      "ai",
+      "report"
     ],
-    "source": "Al Jazeera",
+    "source": "The Verge",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855062"
+    "fetched_at": "2026-07-27T19:33:07.828478"
   },
   {
     "title": "Why strongmen are wrong to loathe Europe",
@@ -2574,7 +2580,7 @@
     ],
     "source": "Economist",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.948843"
+    "fetched_at": "2026-07-27T19:33:08.399641"
   },
   {
     "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
@@ -2590,12 +2596,25 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637932"
+    "fetched_at": "2026-07-27T19:33:07.849245"
   },
   {
-    "title": "Wildfires in southwest Europe: What we know so far",
-    "url": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss",
-    "description": "More than 300,000 people have been evacuated from their homes to safety in France and Spain.",
+    "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+    "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+    "description": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+    "date": "2026-07-27",
+    "score": 0,
+    "tags": [
+      "bbc"
+    ],
+    "source": "BBC",
+    "site_name": "newsfeed",
+    "fetched_at": "2026-07-27T19:33:08.157355"
+  },
+  {
+    "title": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
+    "url": "https://www.aljazeera.com/news/2026/7/27/will-unescos-heritage-listing-halt-israeli-plans-for-west-banks-sebastia?traffic_source=rss",
+    "description": "Sebastia, a 3,000-year-old site, faces threats as Israel intensifies plans for land seizures and settlement expansions.",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
@@ -2604,7 +2623,7 @@
     ],
     "source": "Al Jazeera",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855022"
+    "fetched_at": "2026-07-27T19:33:08.107955"
   },
   {
     "title": "With help from data, art museums are reframing the visitor experience",
@@ -2620,7 +2639,7 @@
     ],
     "source": "Ars Technica",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.637913"
+    "fetched_at": "2026-07-27T19:33:07.849220"
   },
   {
     "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
@@ -2633,65 +2652,48 @@
     ],
     "source": "NPR",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:46.000168"
+    "fetched_at": "2026-07-27T19:33:08.437069"
   },
   {
-    "title": "With smart glasses, Meta holds all the cards but fails to play them well",
-    "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
-    "description": "Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another transposes the words \"mass surveillance predator glasses\" over influencer Kylie Jenner's face, calling her out for partnering [&#8230;]",
+    "title": "YouTube Premium will include Peacock starting next year",
+    "url": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
+    "description": "YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream Peacock's ad-supported shows, movies, and live sports directly through the YouTube app in 2027. YouTube will bundle Peacock in its standard subscription, which increased to $15.99 / month [&#8230;]",
     "date": "2026-07-27",
     "score": 0,
     "tags": [
       "the-verge",
-      "analysis",
-      "gadgets",
-      "meta"
+      "streaming",
+      "tech",
+      "youtube"
     ],
     "source": "The Verge",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.519944"
+    "fetched_at": "2026-07-27T19:33:07.828494"
   },
   {
-    "title": "World’s oldest professional footballer scores first goal in years",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/worlds-oldest-professional-footballer-scores-first-goal-in-years?traffic_source=rss",
-    "description": "World’s oldest professional footballer scores first goal in years",
+    "title": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
+    "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+    "description": "The Ukrainian president became the new prime minister's first international visitor since taking office.",
     "date": "2026-07-27",
-    "score": 0,
-    "tags": [
-      "al-jazeera",
-      "show types"
-    ],
-    "source": "Al Jazeera",
-    "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.855160"
-  },
-  {
-    "title": "Would you choose £50,000 over the chance of £1m?",
-    "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
-    "description": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
-    "date": "2026-07-26",
     "score": 0,
     "tags": [
       "bbc"
     ],
     "source": "BBC",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.704665"
+    "fetched_at": "2026-07-27T19:33:08.157419"
   },
   {
-    "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
-    "url": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
-    "description": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscription (valued at $69) by grabbing a digital code at Eneba that costs $39.01 at the time of [&#8230;]",
-    "date": "2026-07-26",
+    "title": "‘Timer’ in the brain tracks sleep — and predicts awakening",
+    "url": "https://www.nature.com/articles/d41586-026-02294-x",
+    "description": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02294-xChemical tags on proteins could provide a biomarker for sleep deprivation, mouse studies suggest.",
+    "date": "2026-07-27",
     "score": 0,
     "tags": [
-      "the-verge",
-      "deals",
-      "gadgets",
-      "gaming"
+      "nature"
     ],
-    "source": "The Verge",
+    "source": "Nature",
     "site_name": "newsfeed",
-    "fetched_at": "2026-07-27T12:06:45.520005"
+    "fetched_at": "2026-07-27T19:33:07.996271"
   }
 ]
