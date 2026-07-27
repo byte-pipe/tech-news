@@ -1,28 +1,11 @@
 [
   {
-    "title": "A shell colon does nothing. Use it anyway",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "author": "olexsmir",
-    "date": "2026-07-25",
-    "score": 366,
-    "comments": 155,
-    "id": 49047453,
-    "discussion_url": "https://news.ycombinator.com/item?id=49047453",
-    "description": "A shell colon does nothing. Use it anyway",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708276"
-  },
-  {
     "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
     "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
     "author": "spzx",
     "date": "2026-07-26",
-    "score": 159,
-    "comments": 58,
+    "score": 170,
+    "comments": 65,
     "id": 49053708,
     "discussion_url": "https://news.ycombinator.com/item?id=49053708",
     "description": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
@@ -31,100 +14,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708523"
+    "fetched_at": "2026-07-27T12:06:35.457885"
   },
   {
-    "title": "An ESP32 based plane radar for my desk",
-    "url": "https://blog.ktz.me/esp32-plane-radar/",
-    "author": "alexktz",
+    "title": "Chinese chipmaker shares surge 470%",
+    "url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+    "author": "pingou",
+    "date": "2026-07-27",
+    "score": 86,
+    "comments": 76,
+    "id": 49066962,
+    "discussion_url": "https://news.ycombinator.com/item?id=49066962",
+    "description": "Chinese chipmaker shares surge 470%",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457805"
+  },
+  {
+    "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+    "url": "https://beyondloom.com/decker/",
+    "author": "tosh",
     "date": "2026-07-26",
-    "score": 255,
-    "comments": 54,
-    "id": 49054107,
-    "discussion_url": "https://news.ycombinator.com/item?id=49054107",
-    "description": "An ESP32 based plane radar for my desk",
+    "score": 331,
+    "comments": 76,
+    "id": 49060856,
+    "discussion_url": "https://news.ycombinator.com/item?id=49060856",
+    "description": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708367"
-  },
-  {
-    "title": "Android may soon restrict on-device ADB",
-    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-    "author": "shscs911",
-    "date": "2026-07-25",
-    "score": 964,
-    "comments": 478,
-    "id": 49045159,
-    "discussion_url": "https://news.ycombinator.com/item?id=49045159",
-    "description": "Android may soon restrict on-device ADB",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708801"
-  },
-  {
-    "title": "Clinical failure rates over the decades: yikes",
-    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-    "author": "EA-3167",
-    "date": "2026-07-26",
-    "score": 130,
-    "comments": 120,
-    "id": 49052628,
-    "discussion_url": "https://news.ycombinator.com/item?id=49052628",
-    "description": "Clinical failure rates over the decades: yikes",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708746"
-  },
-  {
-    "title": "Cloudflare's new AI traffic options for customers",
-    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "author": "alphabetatango",
-    "date": "2026-07-26",
-    "score": 183,
-    "comments": 141,
-    "id": 49052564,
-    "discussion_url": "https://news.ycombinator.com/item?id=49052564",
-    "description": "Cloudflare's new AI traffic options for customers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708543"
-  },
-  {
-    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-    "author": "oliculipolicula",
-    "date": "2026-07-26",
-    "score": 240,
-    "comments": 183,
-    "id": 49052912,
-    "discussion_url": "https://news.ycombinator.com/item?id=49052912",
-    "description": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708431"
+    "fetched_at": "2026-07-27T12:06:35.457786"
   },
   {
     "title": "Design is compromise",
     "url": "https://stephango.com/design-is-compromise",
     "author": "ankitg12",
-    "date": "2026-07-27",
-    "score": 131,
-    "comments": 63,
+    "date": "2026-07-26",
+    "score": 266,
+    "comments": 88,
     "id": 49059367,
     "discussion_url": "https://news.ycombinator.com/item?id=49059367",
     "description": "Design is compromise",
@@ -133,83 +65,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708051"
+    "fetched_at": "2026-07-27T12:06:35.457902"
   },
   {
-    "title": "Elevated Errors for Opus 5",
-    "url": "https://status.claude.com/incidents/zftg3gqkmv18",
-    "author": "TimCTRL",
+    "title": "Fonts In Use – Find out where a font is used",
+    "url": "https://fontsinuse.com/",
+    "author": "open_",
     "date": "2026-07-26",
-    "score": 89,
-    "comments": 70,
-    "id": 49056194,
-    "discussion_url": "https://news.ycombinator.com/item?id=49056194",
-    "description": "Elevated Errors for Opus 5",
+    "score": 82,
+    "comments": 10,
+    "id": 49063523,
+    "discussion_url": "https://news.ycombinator.com/item?id=49063523",
+    "description": "Fonts In Use – Find out where a font is used",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708560"
+    "fetched_at": "2026-07-27T12:06:35.457842"
   },
   {
-    "title": "Git rebase -i is not that scary",
-    "url": "https://cachebag.sh/journal/interactive-rebasing/",
-    "author": "vinhnx",
+    "title": "French firefighters face 'pyrocumulonimbus' for first time",
+    "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+    "author": "saaaaaam",
     "date": "2026-07-26",
-    "score": 107,
-    "comments": 128,
-    "id": 49053385,
-    "discussion_url": "https://news.ycombinator.com/item?id=49053385",
-    "description": "Git rebase -i is not that scary",
+    "score": 408,
+    "comments": 284,
+    "id": 49060495,
+    "discussion_url": "https://news.ycombinator.com/item?id=49060495",
+    "description": "French firefighters face 'pyrocumulonimbus' for first time",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708763"
-  },
-  {
-    "title": "Go Analysis Framework: modular static analysis by go team",
-    "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-    "author": "AbuAssar",
-    "date": "2026-07-26",
-    "score": 154,
-    "comments": 25,
-    "id": 49057398,
-    "discussion_url": "https://news.ycombinator.com/item?id=49057398",
-    "description": "Go Analysis Framework: modular static analysis by go team",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.709054"
-  },
-  {
-    "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-    "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-    "author": "1vuio0pswjnm7",
-    "date": "2026-07-26",
-    "score": 285,
-    "comments": 225,
-    "id": 49057574,
-    "discussion_url": "https://news.ycombinator.com/item?id=49057574",
-    "description": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708236"
+    "fetched_at": "2026-07-27T12:06:35.457827"
   },
   {
     "title": "GrapheneOS protections against data extraction from locked devices",
     "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
     "author": "Cider9986",
     "date": "2026-07-26",
-    "score": 330,
-    "comments": 204,
+    "score": 421,
+    "comments": 237,
     "id": 49055169,
     "discussion_url": "https://news.ycombinator.com/item?id=49055169",
     "description": "GrapheneOS protections against data extraction from locked devices",
@@ -218,15 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708196"
+    "fetched_at": "2026-07-27T12:06:35.457911"
+  },
+  {
+    "title": "How to Block Some of the Bots",
+    "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
+    "author": "Bender",
+    "date": "2026-07-26",
+    "score": 105,
+    "comments": 138,
+    "id": 49060945,
+    "discussion_url": "https://news.ycombinator.com/item?id=49060945",
+    "description": "How to Block Some of the Bots",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457837"
   },
   {
     "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
     "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
     "author": "rcy",
     "date": "2026-07-26",
-    "score": 243,
-    "comments": 79,
+    "score": 469,
+    "comments": 159,
     "id": 49057241,
     "discussion_url": "https://news.ycombinator.com/item?id=49057241",
     "description": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
@@ -235,66 +150,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708874"
+    "fetched_at": "2026-07-27T12:06:35.457854"
   },
   {
-    "title": "I learned PCB design, 3D printing and C just to listen to music",
-    "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-    "author": "interfeco",
-    "date": "2026-07-24",
-    "score": 140,
-    "comments": 31,
-    "id": 49022355,
-    "discussion_url": "https://news.ycombinator.com/item?id=49022355",
-    "description": "I learned PCB design, 3D printing and C just to listen to music",
+    "title": "I wanted a clock that never needed setting. Things escalated",
+    "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+    "author": "lee_ars",
+    "date": "2026-07-23",
+    "score": 130,
+    "comments": 111,
+    "id": 49020219,
+    "discussion_url": "https://news.ycombinator.com/item?id=49020219",
+    "description": "I wanted a clock that never needed setting. Things escalated",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.709070"
+    "fetched_at": "2026-07-27T12:06:35.457736"
   },
   {
-    "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-    "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+    "title": "Introduction to Data-Oriented Design [pdf]",
+    "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+    "author": "tosh",
+    "date": "2026-07-26",
+    "score": 190,
+    "comments": 53,
+    "id": 49060724,
+    "discussion_url": "https://news.ycombinator.com/item?id=49060724",
+    "description": "Introduction to Data-Oriented Design [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457809"
+  },
+  {
+    "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means",
+    "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
+    "author": "speckx",
+    "date": "2026-07-21",
+    "score": 119,
+    "comments": 59,
+    "id": 48997008,
+    "discussion_url": "https://news.ycombinator.com/item?id=48997008",
+    "description": "Jimothy the raccoon has a rare spinal condition. Here's what that means",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457913"
+  },
+  {
+    "title": "Kimi-K3 Releases on HuggingFace 7/27",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
     "author": "nateb2022",
-    "date": "2026-07-26",
-    "score": 195,
-    "comments": 24,
-    "id": 49053375,
-    "discussion_url": "https://news.ycombinator.com/item?id=49053375",
-    "description": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+    "date": "2026-07-27",
+    "score": 477,
+    "comments": 219,
+    "id": 49065752,
+    "discussion_url": "https://news.ycombinator.com/item?id=49065752",
+    "description": "Kimi-K3 Releases on HuggingFace 7/27",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708449"
-  },
-  {
-    "title": "Kill The Cookie Banner",
-    "url": "https://killthecookiebanner.eu/",
-    "author": "rapnie",
-    "date": "2026-07-26",
-    "score": 652,
-    "comments": 311,
-    "id": 49057175,
-    "discussion_url": "https://news.ycombinator.com/item?id=49057175",
-    "description": "Kill The Cookie Banner",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.709002"
+    "fetched_at": "2026-07-27T12:06:35.457725"
   },
   {
     "title": "London Gatwick has launched a robotic airport parking service",
     "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
     "author": "agotterer",
-    "date": "2026-07-27",
-    "score": 247,
-    "comments": 201,
+    "date": "2026-07-26",
+    "score": 280,
+    "comments": 243,
     "id": 49058669,
     "discussion_url": "https://news.ycombinator.com/item?id=49058669",
     "description": "London Gatwick has launched a robotic airport parking service",
@@ -303,185 +235,219 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708954"
+    "fetched_at": "2026-07-27T12:06:35.457905"
   },
   {
-    "title": "Rethinking legal education in the AI era",
-    "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-    "author": "jjwiseman",
-    "date": "2026-07-24",
-    "score": 127,
-    "comments": 86,
-    "id": 49024980,
-    "discussion_url": "https://news.ycombinator.com/item?id=49024980",
-    "description": "Rethinking legal education in the AI era",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708315"
-  },
-  {
-    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-    "url": "https://astral.sh/blog/ruff-v0.16.0",
-    "author": "vismit2000",
-    "date": "2026-07-26",
-    "score": 326,
-    "comments": 210,
-    "id": 49056112,
-    "discussion_url": "https://news.ycombinator.com/item?id=49056112",
-    "description": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708505"
-  },
-  {
-    "title": "Show HN: I mapped every US golf course",
-    "url": "https://golfcoursebrowser.com/",
-    "author": "rickmf",
-    "date": "2026-07-26",
-    "score": 196,
-    "comments": 137,
-    "id": 49054010,
-    "discussion_url": "https://news.ycombinator.com/item?id=49054010",
-    "description": "Show HN: I mapped every US golf course",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708692"
-  },
-  {
-    "title": "Show HN: Reverse Minesweeper",
-    "url": "https://sunflowersgame.com/",
-    "author": "pompomsheep",
-    "date": "2026-07-26",
-    "score": 97,
-    "comments": 32,
-    "id": 49057666,
-    "discussion_url": "https://news.ycombinator.com/item?id=49057666",
-    "description": "Show HN: Reverse Minesweeper",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708026"
-  },
-  {
-    "title": "Some more things about Django I've been enjoying",
-    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-    "author": "surprisetalk",
+    "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+    "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
+    "author": "speckx",
     "date": "2026-07-22",
-    "score": 101,
-    "comments": 52,
-    "id": 48997828,
-    "discussion_url": "https://news.ycombinator.com/item?id=48997828",
-    "description": "Some more things about Django I've been enjoying",
+    "score": 88,
+    "comments": 30,
+    "id": 49009706,
+    "discussion_url": "https://news.ycombinator.com/item?id=49009706",
+    "description": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708256"
+    "fetched_at": "2026-07-27T12:06:35.457780"
   },
   {
-    "title": "Stinkpot: SQLite-backed shell history",
-    "url": "https://tangled.org/oppi.li/stinkpot",
-    "author": "nerdypepper",
-    "date": "2026-07-24",
-    "score": 112,
-    "comments": 37,
-    "id": 49034777,
-    "discussion_url": "https://news.ycombinator.com/item?id=49034777",
-    "description": "Stinkpot: SQLite-backed shell history",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708674"
-  },
-  {
-    "title": "The Strongest El Niño Ever",
-    "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-    "author": "ndsipa_pomu",
+    "title": "PGSimCity - How PostgreSQL Works",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "author": "jonbaer",
     "date": "2026-07-27",
-    "score": 152,
-    "comments": 83,
-    "id": 49060978,
-    "discussion_url": "https://news.ycombinator.com/item?id=49060978",
-    "description": "The Strongest El Niño Ever",
+    "score": 689,
+    "comments": 66,
+    "id": 49063754,
+    "discussion_url": "https://news.ycombinator.com/item?id=49063754",
+    "description": "PGSimCity - How PostgreSQL Works",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.709101"
+    "fetched_at": "2026-07-27T12:06:35.457752"
   },
   {
-    "title": "The new rules of context engineering for Claude 5 generation models",
-    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "author": "mellosouls",
+    "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+    "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+    "author": "marc__1",
     "date": "2026-07-26",
-    "score": 433,
-    "comments": 343,
-    "id": 49051361,
-    "discussion_url": "https://news.ycombinator.com/item?id=49051361",
-    "description": "The new rules of context engineering for Claude 5 generation models",
+    "score": 62,
+    "comments": 36,
+    "id": 49062120,
+    "discussion_url": "https://news.ycombinator.com/item?id=49062120",
+    "description": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708780"
+    "fetched_at": "2026-07-27T12:06:35.457887"
   },
   {
-    "title": "The relay market powering token resellers and fraud",
-    "url": "https://vectoral.com/blog/token-relay-market",
-    "author": "mlenhard",
-    "date": "2026-07-27",
-    "score": 115,
-    "comments": 55,
-    "id": 49058993,
-    "discussion_url": "https://news.ycombinator.com/item?id=49058993",
-    "description": "The relay market powering token resellers and fraud",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.709022"
-  },
-  {
-    "title": "Third Drone Shot Down in Three Days in Romanian Territory",
-    "url": "https://english.mapn.ro/",
-    "author": "_tk_",
+    "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+    "url": "https://github.com/vercel-labs/scriptc",
+    "author": "maxloh",
     "date": "2026-07-26",
-    "score": 215,
-    "comments": 264,
-    "id": 49057248,
-    "discussion_url": "https://news.ycombinator.com/item?id=49057248",
-    "description": "Third Drone Shot Down in Three Days in Romanian Territory",
+    "score": 210,
+    "comments": 107,
+    "id": 49063175,
+    "discussion_url": "https://news.ycombinator.com/item?id=49063175",
+    "description": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708654"
+    "fetched_at": "2026-07-27T12:06:35.457792"
+  },
+  {
+    "title": "Show HN: Physically accurate black hole you can put in your room",
+    "url": "https://blackhole.plav.in",
+    "author": "aplavin",
+    "date": "2026-07-23",
+    "score": 364,
+    "comments": 108,
+    "id": 49021270,
+    "discussion_url": "https://news.ycombinator.com/item?id=49021270",
+    "description": "Show HN: Physically accurate black hole you can put in your room",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457777"
+  },
+  {
+    "title": "Simulate cassette tape audio profiles using FFmpeg",
+    "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+    "author": "xterminal",
+    "date": "2026-07-26",
+    "score": 144,
+    "comments": 59,
+    "id": 49061887,
+    "discussion_url": "https://news.ycombinator.com/item?id=49061887",
+    "description": "Simulate cassette tape audio profiles using FFmpeg",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457834"
+  },
+  {
+    "title": "Teaching Kids Forth",
+    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+    "author": "rbanffy",
+    "date": "2026-07-26",
+    "score": 91,
+    "comments": 43,
+    "id": 49062700,
+    "discussion_url": "https://news.ycombinator.com/item?id=49062700",
+    "description": "Teaching Kids Forth",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457860"
+  },
+  {
+    "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+    "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+    "author": "Anon84",
+    "date": "2026-07-26",
+    "score": 128,
+    "comments": 51,
+    "id": 49056620,
+    "discussion_url": "https://news.ycombinator.com/item?id=49056620",
+    "description": "Terence Tao: Mathematics in the Age of AI [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457879"
+  },
+  {
+    "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
+    "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
+    "author": "jxmorris12",
+    "date": "2026-07-23",
+    "score": 91,
+    "comments": 4,
+    "id": 49020842,
+    "discussion_url": "https://news.ycombinator.com/item?id=49020842",
+    "description": "The Usefulness of Useless Knowledge (1939) [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457840"
+  },
+  {
+    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+    "author": "eecc",
+    "date": "2026-07-26",
+    "score": 879,
+    "comments": 675,
+    "id": 49063022,
+    "discussion_url": "https://news.ycombinator.com/item?id=49063022",
+    "description": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457801"
+  },
+  {
+    "title": "Using sed to make indexes for books (1997)",
+    "url": "https://www.pement.org/sed/make_indexes.txt",
+    "author": "TMWNN",
+    "date": "2026-07-23",
+    "score": 64,
+    "comments": 11,
+    "id": 49016917,
+    "discussion_url": "https://news.ycombinator.com/item?id=49016917",
+    "description": "Using sed to make indexes for books (1997)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457871"
+  },
+  {
+    "title": "We have proof automation now",
+    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "author": "zdw",
+    "date": "2026-07-26",
+    "score": 185,
+    "comments": 71,
+    "id": 49062291,
+    "discussion_url": "https://news.ycombinator.com/item?id=49062291",
+    "description": "We have proof automation now",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457798"
   },
   {
     "title": "What is happening to jobs? Separating AI hype from reality",
     "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
     "author": "pod_krad",
-    "date": "2026-07-26",
-    "score": 228,
-    "comments": 302,
+    "date": "2026-07-25",
+    "score": 266,
+    "comments": 345,
     "id": 49052570,
     "discussion_url": "https://news.ycombinator.com/item?id=49052570",
     "description": "What is happening to jobs? Separating AI hype from reality",
@@ -490,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708467"
+    "fetched_at": "2026-07-27T12:06:35.457908"
   },
   {
     "title": "What's Under Your Feet in New York City?",
     "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
     "author": "sohkamyung",
     "date": "2026-07-22",
-    "score": 126,
-    "comments": 23,
+    "score": 191,
+    "comments": 47,
     "id": 49006049,
     "discussion_url": "https://news.ycombinator.com/item?id=49006049",
     "description": "What's Under Your Feet in New York City?",
@@ -507,6 +473,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-27T06:50:17.708938"
+    "fetched_at": "2026-07-27T12:06:35.457821"
+  },
+  {
+    "title": "Why I Left Google DeepMind",
+    "url": "https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind",
+    "author": "eatitraw",
+    "date": "2026-07-27",
+    "score": 59,
+    "comments": 14,
+    "id": 49067285,
+    "discussion_url": "https://news.ycombinator.com/item?id=49067285",
+    "description": "Why I Left Google DeepMind",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-27T12:06:35.457831"
   }
 ]
