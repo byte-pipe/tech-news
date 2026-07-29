@@ -1,0 +1,139 @@
+---
+title: Substack writers, you need a website! – Elizabeth Tai
+url: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/
+site_name: hackernews_api
+content_file: hackernews_api-substack-writers-you-need-a-website-elizabeth-tai
+fetched_at: '2026-07-29T12:28:24.075963'
+original_url: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/
+author: speckx
+date: '2026-07-29'
+published_date: '2026-06-10T11:00:00+00:00'
+description: Substack is convenient, but treat it as a distribution tool for your content. Your content should live on an independently owned website, which has a domain name you control and own. This way, you can secure long-term visibility and control over your digital presence on the Internet.
+tags:
+- hackernews
+- trending
+---
+
+# Substack writers, you need a website!
+
+Jun 10, 2026
+
+“But I already have a website on Substack,” you argue.
+
+No, no, Substack is just a distribution tool to amplify your website. It should not be your digital home.
+
+In the last few years, I’ve noticed a pattern of writers leaving their websites to make Substack their digital home.
+
+Now, it’skindaokay if they have bought a domain and linked it to Substack. (Meaning, it’s better than nothing.)
+
+Rachel fromConscious Livingis a good example. This way, Substack more or less functions like a content management system (CMS) for you.
+
+However, compared to other CMS it’s very limited, such as the ability to manage your SEO and customize your pages to add more features, but I digress. If you just want a fuss-free platform, this is one way to get it andSubstack’s conditions for domainsare very reasonable and cost-efficient. As I will explain later, this could change on a dime without warning.
+
+However, there are some writers who are saying: “Hey readers, I’m now writing on Substack, so head on over there (and ignore my website)!”
+
+Some writers do have a website, but link to their Substacks, calling them their “blogs”. If your Substack has a domain name they own, it’s okay, but if it’s xx.substack.com, Substack is saying “All your content are belong to us”.
+
+In conclusion: Writers, don’t do this. It’s short-sighted and unwise and can derail your long-term visibility on the Internet.
+
+## The siren call of convenience
+
+Every few years, the internet convinces writers that a new digital paradise has arrived. First, it was social media like Facebook. Then blogging networks like Tumblr. Then it was Medium. More recently, it’s been Substack.
+
+Platforms promise us an eager audience, built-in monetization, a smooth user interface, and a supportive community. As a writer who just wants to focus on writing, it’s incredibly tempting to hand over the keys to our creative kingdoms and let these portals handle everything. (Believe me, I gave in at one point. For years, I just stopped blogging altogether and even gave up a domain that had high traffic! But I got back in 2012 and never left.)
+
+However, this is the truth that has not changed since the dawn of the Internet:When you build your audience entirely on someone else’s platform, you aren’t a homeowner. You are a tenant. Or worse, adigital sharecropper.
+
+And corporate landlords always change the rules eventually. It’s not personal, it’s just business.
+
+## The illusion of the safe space
+
+It’s easy to feel secure when a platform is in its golden era. But we’ve watched the downfalls of Twitter, the policy shifts of Reddit, and the changing tides of algorithmic networks. Relying blindly on a centralized portal not owned by you means your life’s work can alter overnight based entirely on a corporate boardroom decision.
+
+When I looked at how fragile our digital ecosystems really are, I realized I needed a space that wouldn’t go “poof” because a company needed to please its investors or shareholders. This realization completely changed my approach, pushing me to protect my content by learningto blog the IndieWeb way.
+
+Your writing needs a permanent homebase—a domain thatyouown and control. Full stop.
+
+## Moving from “renting” to syndicating
+
+Do you own the land you plant your “content” crops?
+
+The biggest pushback I hear from writers is:“But my website doesn’t have an audience! Substack does.”
+
+But you don’t have to completely abandon social media or platforms like Substack to protect your autonomy (personally, I prefer the word sovereignty but it does sound a tad dramatic).
+
+You just need to change the order of operations. Instead of publishing directly to a portal, you can shift your mindset toPOSSE:Publish (on your) Own Site, Syndicate Elsewhere. (I explain thePOSSE/PESOS methodin an older post.)
+
+By treating your website as the definitive source of truth and using platforms simply as distribution pipes, you get the best of both worlds. I dug deep into this shift when I committed tobeing an imperfect gardener of my digital garden, exploring how a less market-y way of presenting my content online let me share my wild garden of thoughts withoutdancing to the algorithm.
+
+## A reality check on platform hype
+
+If you are still holding out hope that Substack is “different” from the social platforms that came before it, let’s look at the numbers and behaviors behind the marketing copy.
+
+After spending a significant amount of time observing the platform ecosystem firsthand, I wrote a brutally honest takeaway inWhat I learned from one year of Substack. The network effects are real, but so is the pressure to conform to what the platform’s ecosystem favors.
+
+This post, by the way, desperately needs to be updated because things have gotten much, much worse since I wrote it.
+
+When you hand your content over to a platform, you have to conform to their rules and their localized biases. For those of us writing from outside the dominant US-centric echo chambers, platform algorithms heavily prioritize specific western narratives, making it incredibly tough for localized or minority voices to be seen unless they conform.
+
+I wrote about this exact frustration recently inLinkblog: Dwelling on the Internet, highlighting how algorithmic complacency forces us into homogenized bubbles.
+
+## The flip side – the writers who refused to leave their websites
+
+Each time there’s a new drama on some platform, and writers are shaking their sabers and declaring that they will leave for yet another social media platform they don’t control, I think about writers like John Scalzi.
+
+As of date, John scalzi has been blogging onhttps://whatever.scalzi.com/for 28 years!
+
+This sci-fi novelist has maintained a single independent website continuously for nearly three decades; this makes him one of the longest-running, most consistent original bloggers on the internet. Imagine the amount of digital footprint on that website! Unbroken by time or platforms.
+
+(Specifically, he uses wordpress.com like I do, as we both don’t want to bother with the pain of setting up your own self-hosted wordpress website and just want the folks at Automattic to do it.)
+
+He blogs in the classic Indieweb way, though I doubt he is even aware he’s doing it. He treats his social media channels such as X or Bluesky as a way to amplify his website. All roads lead back tohttps://whatever.scalzi.com/, and this is something I wish every single writer would do.
+
+He wrote recently inVarious & Sundry, 6/3/26:
+
+this site acts as my own institutional memory, if I post something about it here it constitutes an official record. I mean, all the posts I ever placed on the former Twitter are now entirely lost to time, since I have gone in and purged my entire timeline there. This site, however, endures. – John Scalzi
+
+## Breaking free from platform blues
+
+Trying to adapt your presence across various platforms in an ever-shifting digital landscape is exhausting. One minute a platform is a writer’s darling; the next, it’s being boycotted. Railing against a platform’s focus shift or the presence of (long sigh) Nazis is a useless endeavor.
+
+As I noted inLinkblog March 12, 2026: Platform blues, chasing platform purity is an illusion. Tech will change, corporate algorithms will continue to prioritize profit over human connection, and platforms will continue to cycle through hype and decline.
+
+The antidote to this exhaustion isn’t moving to the next shiny new app. It’s anchoring your work on an independent website with open distribution channels like RSS. It also means ruthlessly using platforms as distribution channels. When one collapses or you prefer to just move, it’s easy to just change strategies because your digital home remains unchanged.
+
+Use platforms to find your readers, but bring them back to your house. It’s time to stop digital sharecropping on rented land.
+
+Featured photo is byvivek vkonUnsplash
+
+ 
+
+### Share this:
+
+* Share on X (Opens in new window)X
+* Share on Facebook (Opens in new window)Facebook
+* Share on Tumblr (Opens in new window)Tumblr
+* Share on Mastodon (Opens in new window)Mastodon
+Like
+ 
+Loading…
+
+###### Fediverse reactions
+
+			7 reposts		
+
+			2 likes		
+
+			1 quote		
+
+Being a Writer
+ 
+blogging
+ 
+indieweb
+ 
+Internet
+ 
+socialmedia
+ 
+writing
