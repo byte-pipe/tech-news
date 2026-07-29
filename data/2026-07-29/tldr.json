@@ -320,16 +320,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Exploiting Volvo/Eicher's fleet management platform to gain control over all users and vehicles (6 minute read)",
-    "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-    "description": "Exploiting Volvo/Eicher's fleet management platform to gain control over all users and vehicles (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-29",
-    "site_name": "tldr"
-  },
-  {
     "title": "Forward Deployment: The Roles, the Myths and the Legends (15 minute read)",
     "url": "https://x.com/viks_rum/status/2075905915614842920",
     "description": "Forward Deployment: The Roles, the Myths and the Legends (15 minute read)",
@@ -770,16 +760,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Prompt Caching In Agents (19 minute read)",
-    "url": "https://earendil.com/posts/prompt-caching/",
-    "description": "Prompt Caching In Agents (19 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-29",
-    "site_name": "tldr"
-  },
-  {
     "title": "Proprietary AMMs and Ethereum (5 minute read)",
     "url": "https://ethresear.ch/t/proprietary-amms-and-ethereum/25543",
     "description": "Proprietary AMMs and Ethereum (5 minute read)",
@@ -1140,16 +1120,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Two-way doors sometimes lock behind you (4 minute read)",
-    "url": "https://fffej.substack.com/p/two-way-doors-sometimes-lock-behind",
-    "description": "Two-way doors sometimes lock behind you (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-29",
-    "site_name": "tldr"
-  },
-  {
     "title": "Understanding the AI economy (7 minute read)",
     "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "description": "Understanding the AI economy (7 minute read)",
@@ -1350,6 +1320,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "YouTube \"Hackquires\" Peacock (7 minute read)",
+    "url": "https://spyglass.org/youtube-plus-peacock/",
+    "description": "YouTube \"Hackquires\" Peacock (7 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-29",
+    "site_name": "tldr"
+  },
+  {
     "title": "Your LLM Is Showing: New Data Finds Sharp Rise in Exposed AI Tools (3 minute read)",
     "url": "https://decipher.sc/2026/07/23/your-llm-is-showing-new-data-finds-sharp-rise-in-exposed-ai-tools/",
     "description": "Your LLM Is Showing: New Data Finds Sharp Rise in Exposed AI Tools (3 minute read)",
@@ -1373,6 +1353,16 @@
     "title": "grokpatrol (GitHub Repo)",
     "url": "https://github.com/optimuslabs-io/grokpatrol",
     "description": "grokpatrol (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "zeedumper (GitHub Repo)",
+    "url": "https://github.com/raesene/zeedumper",
+    "description": "zeedumper (GitHub Repo)",
     "tags": [
       "tldr"
     ],

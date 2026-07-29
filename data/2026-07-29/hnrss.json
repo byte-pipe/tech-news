@@ -4,239 +4,254 @@
     "url": "https://github.com/openai/codex-security",
     "description": "Codex Security",
     "date": "2026-07-28",
-    "score": 356,
-    "comments": 106,
+    "score": 518,
+    "comments": 187,
     "discussion_url": "https://news.ycombinator.com/item?id=49089755",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.803915"
+    "fetched_at": "2026-07-29T11:47:13.520942"
   },
   {
     "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
     "url": "https://www.slow-journalism.com/",
     "description": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
     "date": "2026-07-28",
-    "score": 240,
-    "comments": 139,
+    "score": 307,
+    "comments": 174,
     "discussion_url": "https://news.ycombinator.com/item?id=49085731",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.804048"
-  },
-  {
-    "title": "Discovering Cryptographic Weaknesses with Claude",
-    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "description": "Discovering Cryptographic Weaknesses with Claude",
-    "date": "2026-07-28",
-    "score": 183,
-    "comments": 129,
-    "discussion_url": "https://news.ycombinator.com/item?id=49087091",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.803975"
+    "fetched_at": "2026-07-29T11:47:13.520990"
   },
   {
     "title": "Half-Life ported to Mac OS 9",
     "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
     "description": "Half-Life ported to Mac OS 9",
     "date": "2026-07-28",
-    "score": 160,
-    "comments": 74,
+    "score": 262,
+    "comments": 123,
     "discussion_url": "https://news.ycombinator.com/item?id=49089814",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.803892"
+    "fetched_at": "2026-07-29T11:47:13.520922"
   },
   {
-    "title": "How Do I Profile eBPF Code?",
-    "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-    "description": "How Do I Profile eBPF Code?",
-    "date": "2026-07-28",
-    "score": 111,
-    "comments": 6,
-    "discussion_url": "https://news.ycombinator.com/item?id=49085811",
+    "title": "Hubble: Open-source notetaking app for you and your agents",
+    "url": "https://www.hubble.md/",
+    "description": "Hubble: Open-source notetaking app for you and your agents",
+    "date": "2026-07-29",
+    "score": 124,
+    "comments": 56,
+    "discussion_url": "https://news.ycombinator.com/item?id=49091730",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.804030"
+    "fetched_at": "2026-07-29T11:47:13.520886"
   },
   {
     "title": "Kimi K3 Architecture Overview and Notes",
     "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
     "description": "Kimi K3 Architecture Overview and Notes",
     "date": "2026-07-28",
-    "score": 321,
-    "comments": 47,
+    "score": 447,
+    "comments": 95,
     "discussion_url": "https://news.ycombinator.com/item?id=49085698",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.804065"
+    "fetched_at": "2026-07-29T11:47:13.521001"
   },
   {
-    "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-    "url": "https://arxiv.org/abs/2510.26692",
-    "description": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-    "date": "2026-07-28",
-    "score": 284,
-    "comments": 122,
-    "discussion_url": "https://news.ycombinator.com/item?id=49082022",
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "url": "https://learnvector.ai/",
+    "description": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "date": "2026-07-29",
+    "score": 207,
+    "comments": 129,
+    "discussion_url": "https://news.ycombinator.com/item?id=49092499",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.804154"
+    "fetched_at": "2026-07-29T11:47:13.520874"
   },
   {
-    "title": "MCP 2026-07-28 Specification: transport going stateless",
-    "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-    "description": "MCP 2026-07-28 Specification: transport going stateless",
-    "date": "2026-07-28",
-    "score": 108,
-    "comments": 35,
-    "discussion_url": "https://news.ycombinator.com/item?id=49088058",
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "description": "More Tailscale tricks for your jailbroken Kindle",
+    "date": "2026-07-29",
+    "score": 237,
+    "comments": 79,
+    "discussion_url": "https://news.ycombinator.com/item?id=49093569",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.803935"
-  },
-  {
-    "title": "New HIV vaccine shows unprecedented success in preclinical study",
-    "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-    "description": "New HIV vaccine shows unprecedented success in preclinical study",
-    "date": "2026-07-28",
-    "score": 573,
-    "comments": 242,
-    "discussion_url": "https://news.ycombinator.com/item?id=49083314",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.804137"
+    "fetched_at": "2026-07-29T11:47:13.520813"
   },
   {
     "title": "Now is the time to give LLMs access to the ACM digital library",
     "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
     "description": "Now is the time to give LLMs access to the ACM digital library",
     "date": "2026-07-28",
-    "score": 118,
-    "comments": 101,
+    "score": 174,
+    "comments": 146,
     "discussion_url": "https://news.ycombinator.com/item?id=49084987",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.804102"
+    "fetched_at": "2026-07-29T11:47:13.521022"
+  },
+  {
+    "title": "ReFrame – The EPaper Camera",
+    "url": "https://reframe.camera/",
+    "description": "ReFrame – The EPaper Camera",
+    "date": "2026-07-28",
+    "score": 150,
+    "comments": 33,
+    "discussion_url": "https://news.ycombinator.com/item?id=49091379",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-29T11:47:13.520898"
   },
   {
     "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
     "url": "https://github.com/twalichiewicz/HNewhere",
     "description": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
     "date": "2026-07-28",
-    "score": 139,
-    "comments": 47,
+    "score": 332,
+    "comments": 98,
     "discussion_url": "https://news.ycombinator.com/item?id=49090607",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.803850"
+    "fetched_at": "2026-07-29T11:47:13.520911"
   },
   {
     "title": "Steel Bank Common Lisp version 2.6.7",
     "url": "https://sbcl.org/all-news.html?2.6.7",
     "description": "Steel Bank Common Lisp version 2.6.7",
     "date": "2026-07-28",
-    "score": 202,
-    "comments": 84,
+    "score": 245,
+    "comments": 112,
     "discussion_url": "https://news.ycombinator.com/item?id=49086971",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.803993"
+    "fetched_at": "2026-07-29T11:47:13.520967"
   },
   {
     "title": "Substack writers, you need a website",
     "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
     "description": "Substack writers, you need a website",
     "date": "2026-07-28",
-    "score": 422,
-    "comments": 215,
+    "score": 567,
+    "comments": 304,
     "discussion_url": "https://news.ycombinator.com/item?id=49086788",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.804011"
+    "fetched_at": "2026-07-29T11:47:13.520978"
+  },
+  {
+    "title": "Teach yourself programming in ten years (1998)",
+    "url": "https://www.norvig.com/21-days.html",
+    "description": "Teach yourself programming in ten years (1998)",
+    "date": "2026-07-26",
+    "score": 157,
+    "comments": 94,
+    "discussion_url": "https://news.ycombinator.com/item?id=49055816",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-29T11:47:13.521043"
   },
   {
     "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
     "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
     "description": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
     "date": "2026-07-28",
-    "score": 144,
-    "comments": 273,
+    "score": 187,
+    "comments": 334,
     "discussion_url": "https://news.ycombinator.com/item?id=49087306",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.803955"
+    "fetched_at": "2026-07-29T11:47:13.520955"
   },
   {
     "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
     "url": "https://unawatch.com/",
     "description": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
     "date": "2026-07-28",
-    "score": 145,
-    "comments": 91,
+    "score": 236,
+    "comments": 144,
     "discussion_url": "https://news.ycombinator.com/item?id=49084813",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.804120"
+    "fetched_at": "2026-07-29T11:47:13.521032"
+  },
+  {
+    "title": "User Interfaces of the Demo Scene",
+    "url": "https://www.datagubbe.se/scenegui/",
+    "description": "User Interfaces of the Demo Scene",
+    "date": "2026-07-29",
+    "score": 244,
+    "comments": 39,
+    "discussion_url": "https://news.ycombinator.com/item?id=49093434",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-07-29T11:47:13.520858"
   },
   {
     "title": "Zig's Incremental Compilation Internals",
     "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
     "description": "Zig's Incremental Compilation Internals",
     "date": "2026-07-28",
-    "score": 199,
-    "comments": 141,
+    "score": 252,
+    "comments": 180,
     "discussion_url": "https://news.ycombinator.com/item?id=49085666",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-07-29T12:28:44.804084"
+    "fetched_at": "2026-07-29T11:47:13.521011"
   }
 ]
