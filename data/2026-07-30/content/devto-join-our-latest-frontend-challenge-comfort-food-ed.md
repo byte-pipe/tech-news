@@ -1,15 +1,17 @@
 ---
 title: 'Join our latest Frontend Challenge: Comfort Food Edition 🍲 - DEV Community'
-url: https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0
+url: https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0?bb=263950
 site_name: devto
 content_file: devto-join-our-latest-frontend-challenge-comfort-food-ed
-fetched_at: '2026-07-30T06:28:46.664245'
-original_url: https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0
+fetched_at: '2026-07-30T11:39:33.274662'
+original_url: https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0?bb=263950
 author: Jess Lee
 date: '2026-07-29'
 description: We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧 Running through August... Tagged with devchallenge, frontendchallenge, css, javascript.
 tags: '#devchallenge, #frontendchallenge, #css, #javascript'
 ---
+
+Features a CSS art prompt
 
 We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧
 
@@ -87,5 +89,10 @@ Submit
 Preview
 
 Dismiss
+
+ View full discussion (15 comments)
+ 
+
+Some comments may only be visible to logged-in visitors.Sign into view all comments.
 
 For further actions, you may consider blocking this person and/orreporting abuse
