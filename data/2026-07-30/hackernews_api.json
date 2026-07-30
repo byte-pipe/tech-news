@@ -1,45 +1,28 @@
 [
   {
-    "title": "A Trampoline",
-    "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-    "author": "matthewsharpe3",
-    "date": "2026-07-29",
-    "score": 111,
-    "comments": 70,
-    "id": 49102425,
-    "discussion_url": "https://news.ycombinator.com/item?id=49102425",
-    "description": "A Trampoline",
+    "title": "3D Pinball for Windows (1995)",
+    "url": "https://98.js.org/programs/pinball/space-cadet.html",
+    "author": "mushstory",
+    "date": "2026-07-30",
+    "score": 87,
+    "comments": 41,
+    "id": 49108485,
+    "discussion_url": "https://news.ycombinator.com/item?id=49108485",
+    "description": "3D Pinball for Windows (1995)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461884"
-  },
-  {
-    "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-    "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-    "author": "thm",
-    "date": "2026-07-29",
-    "score": 294,
-    "comments": 365,
-    "id": 49098198,
-    "discussion_url": "https://news.ycombinator.com/item?id=49098198",
-    "description": "A.I. companies are recruiting electricians and carpenters by the thousands",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461906"
+    "fetched_at": "2026-07-30T19:33:17.946625"
   },
   {
     "title": "AI's top startups are barely publishing their research",
     "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
     "author": "YeGoblynQueenne",
     "date": "2026-07-29",
-    "score": 505,
-    "comments": 260,
+    "score": 582,
+    "comments": 309,
     "id": 49103285,
     "discussion_url": "https://news.ycombinator.com/item?id=49103285",
     "description": "AI's top startups are barely publishing their research",
@@ -48,236 +31,202 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461715"
+    "fetched_at": "2026-07-30T19:33:17.946706"
   },
   {
-    "title": "Amiga Graphics Archive",
-    "url": "https://amiga.lychesis.net/index.html",
-    "author": "Bluestein",
-    "date": "2026-07-29",
-    "score": 163,
-    "comments": 24,
-    "id": 49095511,
-    "discussion_url": "https://news.ycombinator.com/item?id=49095511",
-    "description": "Amiga Graphics Archive",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461927"
-  },
-  {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "author": "artninja1988",
-    "date": "2026-07-28",
-    "score": 404,
-    "comments": 220,
-    "id": 49089500,
-    "discussion_url": "https://news.ycombinator.com/item?id=49089500",
-    "description": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461840"
-  },
-  {
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "author": "Canopy9560",
-    "date": "2026-07-29",
-    "score": 369,
-    "comments": 284,
-    "id": 49096188,
-    "discussion_url": "https://news.ycombinator.com/item?id=49096188",
-    "description": "Document-borne AI worms can self-propagate through Copilot for Word",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461941"
-  },
-  {
-    "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-    "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-    "author": "mbauman",
-    "date": "2026-07-29",
-    "score": 97,
-    "comments": 21,
-    "id": 49098388,
-    "discussion_url": "https://news.ycombinator.com/item?id=49098388",
-    "description": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461920"
-  },
-  {
-    "title": "Google will expand age checks on Android worldwide till the end of the year",
-    "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-    "author": "dmantis",
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+    "author": "tedsanders",
     "date": "2026-07-30",
-    "score": 94,
-    "comments": 108,
-    "id": 49107950,
-    "discussion_url": "https://news.ycombinator.com/item?id=49107950",
-    "description": "Google will expand age checks on Android worldwide till the end of the year",
+    "score": 320,
+    "comments": 199,
+    "id": 49112867,
+    "discussion_url": "https://news.ycombinator.com/item?id=49112867",
+    "description": "Advancing the price-performance frontier with GPT‑5.6",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461786"
+    "fetched_at": "2026-07-30T19:33:17.946516"
   },
   {
-    "title": "Hamburg's Stadtpark: A Park Built to Be Used",
-    "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
-    "author": "mertbio",
-    "date": "2026-07-27",
-    "score": 163,
-    "comments": 51,
-    "id": 49065785,
-    "discussion_url": "https://news.ycombinator.com/item?id=49065785",
-    "description": "Hamburg's Stadtpark: A Park Built to Be Used",
+    "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+    "url": "https://github.com/YoanWai/agent-manager",
+    "author": "yoanwaidev",
+    "date": "2026-07-30",
+    "score": 84,
+    "comments": 72,
+    "id": 49107749,
+    "discussion_url": "https://news.ycombinator.com/item?id=49107749",
+    "description": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461837"
+    "fetched_at": "2026-07-30T19:33:17.946682"
   },
   {
-    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-    "url": "https://arxiv.org/abs/2607.25398",
-    "author": "spIrr",
-    "date": "2026-07-29",
-    "score": 315,
-    "comments": 198,
-    "id": 49096969,
-    "discussion_url": "https://news.ycombinator.com/item?id=49096969",
-    "description": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "title": "Are We Stuck with Lean?",
+    "url": "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean",
+    "author": "jjgreen",
+    "date": "2026-07-30",
+    "score": 108,
+    "comments": 52,
+    "id": 49108678,
+    "discussion_url": "https://news.ycombinator.com/item?id=49108678",
+    "description": "Are We Stuck with Lean?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461944"
+    "fetched_at": "2026-07-30T19:33:17.946605"
   },
   {
-    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
-    "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
-    "author": "stevenwoo",
-    "date": "2026-07-27",
-    "score": 148,
-    "comments": 111,
-    "id": 49063983,
-    "discussion_url": "https://news.ycombinator.com/item?id=49063983",
-    "description": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+    "title": "Azulejo",
+    "url": "https://en.wikipedia.org/wiki/Azulejo",
+    "author": "Amorymeltzer",
+    "date": "2026-07-28",
+    "score": 167,
+    "comments": 59,
+    "id": 49089502,
+    "discussion_url": "https://news.ycombinator.com/item?id=49089502",
+    "description": "Azulejo",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461867"
+    "fetched_at": "2026-07-30T19:33:17.946645"
   },
   {
-    "title": "KOReader",
-    "url": "https://koreader.rocks/",
-    "author": "Cider9986",
-    "date": "2026-07-29",
-    "score": 715,
-    "comments": 229,
-    "id": 49095865,
-    "discussion_url": "https://news.ycombinator.com/item?id=49095865",
-    "description": "KOReader",
+    "title": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
+    "url": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
+    "author": "uvuv",
+    "date": "2026-07-30",
+    "score": 54,
+    "comments": 14,
+    "id": 49108963,
+    "discussion_url": "https://news.ycombinator.com/item?id=49108963",
+    "description": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461871"
+    "fetched_at": "2026-07-30T19:33:17.946665"
   },
   {
-    "title": "Keychron announces first open-source firmware for gaming mice",
-    "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-    "author": "JLO64",
-    "date": "2026-07-29",
-    "score": 391,
-    "comments": 159,
-    "id": 49099715,
-    "discussion_url": "https://news.ycombinator.com/item?id=49099715",
-    "description": "Keychron announces first open-source firmware for gaming mice",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "author": "ai2027",
+    "date": "2026-07-30",
+    "score": 323,
+    "comments": 303,
+    "id": 49111237,
+    "discussion_url": "https://news.ycombinator.com/item?id=49111237",
+    "description": "Gemini Robotics 2 brings whole body intelligence to robots",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461774"
+    "fetched_at": "2026-07-30T19:33:17.946538"
   },
   {
-    "title": "Kimi K3-256k",
-    "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-    "author": "monneyboi",
-    "date": "2026-07-29",
-    "score": 455,
-    "comments": 130,
-    "id": 49101852,
-    "discussion_url": "https://news.ycombinator.com/item?id=49101852",
-    "description": "Kimi K3-256k",
+    "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+    "url": "https://github.com/grafana/ai-sdk",
+    "author": "matryer",
+    "date": "2026-07-30",
+    "score": 52,
+    "comments": 14,
+    "id": 49108778,
+    "discussion_url": "https://news.ycombinator.com/item?id=49108778",
+    "description": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461888"
+    "fetched_at": "2026-07-30T19:33:17.946671"
   },
   {
-    "title": "LLM Honeypot",
-    "url": "https://llm2human.pages.dev/",
-    "author": "8thom",
-    "date": "2026-07-29",
-    "score": 284,
-    "comments": 84,
-    "id": 49104117,
-    "discussion_url": "https://news.ycombinator.com/item?id=49104117",
-    "description": "LLM Honeypot",
+    "title": "Gpiozero Flow",
+    "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+    "author": "benn_88",
+    "date": "2026-07-30",
+    "score": 114,
+    "comments": 34,
+    "id": 49108048,
+    "discussion_url": "https://news.ycombinator.com/item?id=49108048",
+    "description": "Gpiozero Flow",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461766"
+    "fetched_at": "2026-07-30T19:33:17.946642"
   },
   {
-    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-    "url": "https://usetokenless.com/",
-    "author": "rohaga",
-    "date": "2026-07-29",
-    "score": 66,
+    "title": "Hacker Public Radio",
+    "url": "https://hackerpublicradio.org/",
+    "author": "bmacho",
+    "date": "2026-07-30",
+    "score": 98,
+    "comments": 16,
+    "id": 49110547,
+    "discussion_url": "https://news.ycombinator.com/item?id=49110547",
+    "description": "Hacker Public Radio",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-30T19:33:17.946571"
+  },
+  {
+    "title": "How old is Ann?",
+    "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
+    "author": "ibobev",
+    "date": "2026-07-30",
+    "score": 55,
     "comments": 57,
-    "id": 49099143,
-    "discussion_url": "https://news.ycombinator.com/item?id=49099143",
-    "description": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+    "id": 49108971,
+    "discussion_url": "https://news.ycombinator.com/item?id=49108971",
+    "description": "How old is Ann?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461830"
+    "fetched_at": "2026-07-30T19:33:17.946621"
+  },
+  {
+    "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+    "url": "https://prized.dev",
+    "author": "marinoseliades",
+    "date": "2026-07-30",
+    "score": 57,
+    "comments": 32,
+    "id": 49109721,
+    "discussion_url": "https://news.ycombinator.com/item?id=49109721",
+    "description": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-30T19:33:17.946581"
   },
   {
     "title": "Logic for Programmers",
     "url": "https://logicforprogrammers.com/",
     "author": "_doctor_love",
     "date": "2026-07-30",
-    "score": 143,
-    "comments": 27,
+    "score": 187,
+    "comments": 42,
     "id": 49104937,
     "discussion_url": "https://news.ycombinator.com/item?id=49104937",
     "description": "Logic for Programmers",
@@ -286,202 +235,151 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461692"
+    "fetched_at": "2026-07-30T19:33:17.946719"
   },
   {
-    "title": "NSF pilots 4-year PhDs with industry research placements",
-    "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
-    "author": "osnium123",
-    "date": "2026-07-30",
-    "score": 76,
-    "comments": 76,
-    "id": 49105642,
-    "discussion_url": "https://news.ycombinator.com/item?id=49105642",
-    "description": "NSF pilots 4-year PhDs with industry research placements",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461844"
-  },
-  {
-    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-    "author": "ankitg12",
-    "date": "2026-07-29",
-    "score": 245,
-    "comments": 76,
-    "id": 49094346,
-    "discussion_url": "https://news.ycombinator.com/item?id=49094346",
-    "description": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461909"
-  },
-  {
-    "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
-    "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-    "author": "flifenstein",
-    "date": "2026-07-29",
-    "score": 141,
-    "comments": 45,
-    "id": 49098130,
-    "discussion_url": "https://news.ycombinator.com/item?id=49098130",
-    "description": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461857"
-  },
-  {
-    "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
-    "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
+    "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+    "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
     "author": "ibobev",
-    "date": "2026-07-29",
-    "score": 112,
-    "comments": 20,
-    "id": 49096811,
-    "discussion_url": "https://news.ycombinator.com/item?id=49096811",
-    "description": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
+    "date": "2026-07-30",
+    "score": 113,
+    "comments": 55,
+    "id": 49111305,
+    "discussion_url": "https://news.ycombinator.com/item?id=49111305",
+    "description": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461902"
+    "fetched_at": "2026-07-30T19:33:17.946567"
   },
   {
-    "title": "Show HN: CheapFoodMap – A map of good meals under $10",
-    "url": "https://cheapfoodmap.com/",
-    "author": "jaep1",
-    "date": "2026-07-29",
-    "score": 221,
-    "comments": 200,
-    "id": 49100043,
-    "discussion_url": "https://news.ycombinator.com/item?id=49100043",
-    "description": "Show HN: CheapFoodMap – A map of good meals under $10",
+    "title": "RFC 8890 – The Internet is for End Users (2020)",
+    "url": "https://mnot.net/blog/2020/for_the_users",
+    "author": "notarobot123",
+    "date": "2026-07-30",
+    "score": 97,
+    "comments": 28,
+    "id": 49109474,
+    "discussion_url": "https://news.ycombinator.com/item?id=49109474",
+    "description": "RFC 8890 – The Internet is for End Users (2020)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461895"
+    "fetched_at": "2026-07-30T19:33:17.946512"
   },
   {
-    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-    "url": "https://github.com/drumih/turbo-fieldfare",
-    "author": "gitpusher42",
-    "date": "2026-07-29",
-    "score": 829,
-    "comments": 292,
-    "id": 49098510,
-    "discussion_url": "https://news.ycombinator.com/item?id=49098510",
-    "description": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "title": "Read this before you buy that TV streaming stick",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "author": "speckx",
+    "date": "2026-07-30",
+    "score": 188,
+    "comments": 84,
+    "id": 49112744,
+    "discussion_url": "https://news.ycombinator.com/item?id=49112744",
+    "description": "Read this before you buy that TV streaming stick",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461819"
+    "fetched_at": "2026-07-30T19:33:17.946502"
   },
   {
-    "title": "Some thoughts about Anthropic's new cryptanalysis results",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "author": "supermatou",
-    "date": "2026-07-29",
-    "score": 166,
-    "comments": 94,
-    "id": 49099804,
-    "discussion_url": "https://news.ycombinator.com/item?id=49099804",
-    "description": "Some thoughts about Anthropic's new cryptanalysis results",
+    "title": "Ron Gilbert started production on Thimbleweed Park 2",
+    "url": "https://www.grumpygamer.com/twp2_announce/",
+    "author": "alberto-m",
+    "date": "2026-07-30",
+    "score": 216,
+    "comments": 101,
+    "id": 49107246,
+    "discussion_url": "https://news.ycombinator.com/item?id=49107246",
+    "description": "Ron Gilbert started production on Thimbleweed Park 2",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461805"
+    "fetched_at": "2026-07-30T19:33:17.946608"
   },
   {
-    "title": "Superlogical",
-    "url": "https://www.superlogical.com/",
-    "author": "yan",
-    "date": "2026-07-29",
-    "score": 717,
-    "comments": 423,
-    "id": 49098965,
-    "discussion_url": "https://news.ycombinator.com/item?id=49098965",
-    "description": "Superlogical",
+    "title": "Show HN: I made a game where you build a CPU from logic gates",
+    "url": "https://select.supply/game/chipbuilder",
+    "author": "laurentiurad",
+    "date": "2026-07-30",
+    "score": 67,
+    "comments": 59,
+    "id": 49108571,
+    "discussion_url": "https://news.ycombinator.com/item?id=49108571",
+    "description": "Show HN: I made a game where you build a CPU from logic gates",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461719"
+    "fetched_at": "2026-07-30T19:33:17.946635"
   },
   {
-    "title": "The Cold Email",
-    "url": "https://zachholman.com/posts/cold-email",
-    "author": "holman",
-    "date": "2026-07-29",
-    "score": 233,
-    "comments": 90,
-    "id": 49103089,
-    "discussion_url": "https://news.ycombinator.com/item?id=49103089",
-    "description": "The Cold Email",
+    "title": "Stacked PRs are now live on GitHub",
+    "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "author": "tomzorz",
+    "date": "2026-07-30",
+    "score": 152,
+    "comments": 57,
+    "id": 49112232,
+    "discussion_url": "https://news.ycombinator.com/item?id=49112232",
+    "description": "Stacked PRs are now live on GitHub",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461808"
+    "fetched_at": "2026-07-30T19:33:17.946534"
   },
   {
-    "title": "The Productivity Mirage",
-    "url": "https://frantic.im/mirage/",
-    "author": "msephton",
-    "date": "2026-07-29",
-    "score": 268,
-    "comments": 113,
-    "id": 49104335,
-    "discussion_url": "https://news.ycombinator.com/item?id=49104335",
-    "description": "The Productivity Mirage",
+    "title": "The Economic Benefit of Refactoring",
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+    "author": "javaeeeee",
+    "date": "2026-07-30",
+    "score": 132,
+    "comments": 56,
+    "id": 49111176,
+    "discussion_url": "https://news.ycombinator.com/item?id=49111176",
+    "description": "The Economic Benefit of Refactoring",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461823"
+    "fetched_at": "2026-07-30T19:33:17.946574"
   },
   {
-    "title": "The Rust on ESP Book",
-    "url": "https://docs.espressif.com/projects/rust/book/",
-    "author": "AlexeyBrin",
-    "date": "2026-07-25",
-    "score": 167,
-    "comments": 19,
-    "id": 49047351,
-    "discussion_url": "https://news.ycombinator.com/item?id=49047351",
-    "description": "The Rust on ESP Book",
+    "title": "The Glass Famine",
+    "url": "https://edconway.substack.com/p/the-glass-famine",
+    "author": "baud147258",
+    "date": "2026-07-27",
+    "score": 108,
+    "comments": 54,
+    "id": 49070073,
+    "discussion_url": "https://news.ycombinator.com/item?id=49070073",
+    "description": "The Glass Famine",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461812"
+    "fetched_at": "2026-07-30T19:33:17.946652"
   },
   {
     "title": "The coolest use for the Vision Pro",
     "url": "https://christianselig.com/2026/07/vision-pro-house/",
     "author": "robbiet480",
     "date": "2026-07-29",
-    "score": 710,
-    "comments": 272,
+    "score": 799,
+    "comments": 297,
     "id": 49102774,
     "discussion_url": "https://news.ycombinator.com/item?id=49102774",
     "description": "The coolest use for the Vision Pro",
@@ -490,23 +388,108 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461738"
+    "fetched_at": "2026-07-30T19:33:17.946716"
   },
   {
-    "title": "Turning a dumb AC unit smart (without losing my security deposit)",
-    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-    "author": "austinallegro",
-    "date": "2026-07-29",
-    "score": 177,
-    "comments": 140,
-    "id": 49101198,
-    "discussion_url": "https://news.ycombinator.com/item?id=49101198",
-    "description": "Turning a dumb AC unit smart (without losing my security deposit)",
+    "title": "The first watch featuring computer functions",
+    "url": "https://by.seiko-design.com/140th/en/topic/58.html",
+    "author": "stefanv",
+    "date": "2026-07-26",
+    "score": 80,
+    "comments": 30,
+    "id": 49057130,
+    "discussion_url": "https://news.ycombinator.com/item?id=49057130",
+    "description": "The first watch featuring computer functions",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-30T11:39:28.461727"
+    "fetched_at": "2026-07-30T19:33:17.946686"
+  },
+  {
+    "title": "UEFA and its national associations will not participate in FIFA competitions",
+    "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+    "author": "dickfickling",
+    "date": "2026-07-30",
+    "score": 207,
+    "comments": 99,
+    "id": 49113929,
+    "discussion_url": "https://news.ycombinator.com/item?id=49113929",
+    "description": "UEFA and its national associations will not participate in FIFA competitions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-30T19:33:17.946560"
+  },
+  {
+    "title": "Upper stage impacting the moon on 2026 August 5",
+    "url": "https://www.projectpluto.com/25010d.htm",
+    "author": "ryannevius",
+    "date": "2026-07-30",
+    "score": 114,
+    "comments": 34,
+    "id": 49109616,
+    "discussion_url": "https://news.ycombinator.com/item?id=49109616",
+    "description": "Upper stage impacting the moon on 2026 August 5",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-30T19:33:17.946598"
+  },
+  {
+    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+    "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+    "author": "Areibman",
+    "date": "2026-07-30",
+    "score": 146,
+    "comments": 86,
+    "id": 49113059,
+    "discussion_url": "https://news.ycombinator.com/item?id=49113059",
+    "description": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-30T19:33:17.946529"
+  },
+  {
+    "title": "Why is everyone trying to build a solid-state battery?",
+    "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+    "author": "crescit_eundo",
+    "date": "2026-07-30",
+    "score": 129,
+    "comments": 158,
+    "id": 49109193,
+    "discussion_url": "https://news.ycombinator.com/item?id=49109193",
+    "description": "Why is everyone trying to build a solid-state battery?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-30T19:33:17.946585"
+  },
+  {
+    "title": "You can't solve computer use by ignoring the interface",
+    "url": "https://steelmanlabs.com/blog/computer-use-is-far-from-solved",
+    "author": "mpavlov",
+    "date": "2026-07-30",
+    "score": 57,
+    "comments": 36,
+    "id": 49108542,
+    "discussion_url": "https://news.ycombinator.com/item?id=49108542",
+    "description": "You can't solve computer use by ignoring the interface",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-30T19:33:17.946675"
   }
 ]
