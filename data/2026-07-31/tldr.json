@@ -50,16 +50,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "A shell colon does nothing. Use it anyway (6 minute read)",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "description": "A shell colon does nothing. Use it anyway (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
     "title": "A-List Directors, Actors, and Celebrities Exposed in Major Film Festival Breach (3 minute read)",
     "url": "https://www.expressvpn.com/blog/tribeca-film-festival-data-exposed/",
     "description": "A-List Directors, Actors, and Celebrities Exposed in Major Film Festival Breach (3 minute read)",
@@ -133,6 +123,16 @@
     "title": "AI-driven attacks increased 56% last year, and data breach costs are up 12% (5 minute read)",
     "url": "https://www.networkworld.com/article/4202554/ibm-ai-driven-attacks-increased-56-last-year-and-data-breach-costs-are-up-12.html",
     "description": "AI-driven attacks increased 56% last year, and data breach costs are up 12% (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-31",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Abnormal AI extends behavioral security to identities, AI systems, and insider threats (4 minute read)",
+    "url": "https://www.helpnetsecurity.com/2026/07/29/abnormal-ai-extends-behavioral-security-to-identities-ai-systems-and-insider-threats/",
+    "description": "Abnormal AI extends behavioral security to identities, AI systems, and insider threats (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -300,16 +300,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude Opus 5 (3 minute read)",
-    "url": "https://www.anthropic.com/news/claude-opus-5",
-    "description": "Claude Opus 5 (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
     "title": "Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun (27 minute video)",
     "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
     "description": "Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun (27 minute video)",
@@ -333,6 +323,16 @@
     "title": "Code Review (As We Know It) Must Die (11 minute read)",
     "url": "https://alexlooney.substack.com/p/code-review-as-we-know-it-must-die",
     "description": "Code Review (As We Know It) Must Die (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-31",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Codex Security (GitHub Repo)",
+    "url": "https://github.com/openai/codex-security",
+    "description": "Codex Security (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -420,39 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Detection Engineering in the Era of Semantic Malware (14 minute read)",
-    "url": "https://detect.fyi/detection-engineering-in-the-era-of-semantic-malware-663cee8cda7b",
-    "description": "Detection Engineering in the Era of Semantic Malware (14 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Digital Tools, Human Expression: The Visual Identity Behind Config 2026 (9 minute read)",
-    "url": "https://www.figma.com/blog/the-visual-identity-behind-config-2026/",
-    "description": "Digital Tools, Human Expression: The Visual Identity Behind Config 2026 (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
     "title": "Don't trust Google Trends for content planning (1 minute read)",
     "url": "https://www.linkedin.com/posts/brockmurray_shared-image-share-7487498793731522561-3qbp/",
     "description": "Don't trust Google Trends for content planning (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
-    "title": "DoorDash Gets FAA Nod to Run Its Own Drone Delivery Program (2 minute read)",
-    "url": "https://www.pcmag.com/news/doordash-gets-faa-nod-to-run-its-own-drone-delivery-program",
-    "description": "DoorDash Gets FAA Nod to Run Its Own Drone Delivery Program (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -580,16 +550,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Highlights From The Discourse On The Hugging Face Incident (35 minute read)",
-    "url": "https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
-    "description": "Highlights From The Discourse On The Hugging Face Incident (35 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
     "title": "Hilton's CMO on why brand marketing is an ‘irrational affinity business' (5 minute read)",
     "url": "https://www.marketingdive.com/news/hilton-cmo-on-why-brand-marketing-is-an-irrational-affinity-business/826246/",
     "description": "Hilton's CMO on why brand marketing is an ‘irrational affinity business' (5 minute read)",
@@ -680,9 +640,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How much can you delegate to agents? (7 minute read)",
+    "title": "How much can you delegate to agents? (8 minute read)",
     "url": "https://newsletter.posthog.com/p/agent-autonomy",
-    "description": "How much can you delegate to agents? (7 minute read)",
+    "description": "How much can you delegate to agents? (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -790,9 +750,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Instatic (GitHub Repo)",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "description": "Instatic (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-31",
+    "site_name": "tldr"
+  },
+  {
     "title": "Insurance startup Corgi reportedly raises at $4B valuation (3 minute read)",
     "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
     "description": "Insurance startup Corgi reportedly raises at $4B valuation (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-31",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Claude Opus 5 (10 minute read)",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "description": "Introducing Claude Opus 5 (10 minute read)",
     "tags": [
       "tldr"
     ],
@@ -823,16 +803,6 @@
     "title": "LG to Ban Residential Proxies from Smart TV Apps (5 minute read)",
     "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
     "description": "LG to Ban Residential Proxies from Smart TV Apps (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
-    "title": "LLM Observer Proxy (GitHub Repo)",
-    "url": "https://github.com/xxyyue/llm-observer-proxy-go",
-    "description": "LLM Observer Proxy (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -940,6 +910,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "NVIDIA BlueField Flaw Lets VM Users Execute Code via Crafted Messages (1 minute read)",
+    "url": "https://gbhackers.com/nvidia-bluefield-flaw/",
+    "description": "NVIDIA BlueField Flaw Lets VM Users Execute Code via Crafted Messages (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-31",
+    "site_name": "tldr"
+  },
+  {
     "title": "Nadella's hardest year (7 minute read)",
     "url": "https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7",
     "description": "Nadella's hardest year (7 minute read)",
@@ -1033,6 +1013,16 @@
     "title": "Paper Raises $34M to Build the Next Great Design Platform (2 minute read)",
     "url": "https://paper.design/blog/series-a",
     "description": "Paper Raises $34M to Build the Next Great Design Platform (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-31",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Phishing Dominates as Initial Entry Method for Cyber-Attacks, as Hackers Hone Evasion Techniques (3 minute read)",
+    "url": "https://www.infosecurity-magazine.com/news/phishing-dominates-initial-entry/",
+    "description": "Phishing Dominates as Initial Entry Method for Cyber-Attacks, as Hackers Hone Evasion Techniques (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1140,6 +1130,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Scaling StreamHub: Transitioning from Kinesis to Kafka for 145 Billion Daily Events (8 minute read)",
+    "url": "https://www.atlassian.com/blog/how-we-build/scaling-streamhub-transitioning-from-kinesis-to-kafka-for-145-billion-daily-events",
+    "description": "Scaling StreamHub: Transitioning from Kinesis to Kafka for 145 Billion Daily Events (8 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-31",
+    "site_name": "tldr"
+  },
+  {
     "title": "Senators may toughen Trump concession on Clarity Act's limits (5 minute read)",
     "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
     "description": "Senators may toughen Trump concession on Clarity Act's limits (5 minute read)",
@@ -1153,6 +1153,16 @@
     "title": "Shadow AI incident response begins with logs that may already be gone (4 minute read)",
     "url": "https://www.helpnetsecurity.com/2026/07/28/brandy-wityak-levelblue-shadow-ai-incident-response/",
     "description": "Shadow AI incident response begins with logs that may already be gone (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-31",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SingGuard-NSFA (GitHub Repo)",
+    "url": "https://github.com/inclusionAI/SingGuard-NSFA",
+    "description": "SingGuard-NSFA (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -1183,16 +1193,6 @@
     "title": "So, you want to be a content creator? (9 minute read)",
     "url": "https://www.elenaverna.com/p/so-you-want-to-be-a-content-creator",
     "description": "So, you want to be a content creator? (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
-    "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight (11 minute read)",
-    "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-    "description": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1270,16 +1270,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process (4 minute read)",
-    "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-    "description": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
     "title": "The 100x CMO Job Is Here. ClickUp Is Paying Up To $1M for One Person To Be The Entire Marketing Department (5 minute read)",
     "url": "https://www.thestateofbrand.com/news/clickup-100x-cmo-one-person-marketing",
     "description": "The 100x CMO Job Is Here. ClickUp Is Paying Up To $1M for One Person To Be The Entire Marketing Department (5 minute read)",
@@ -1313,16 +1303,6 @@
     "title": "The Applied AI Opportunity (1 minute read)",
     "url": "https://threadreaderapp.com/thread/2081491621162668207.html",
     "description": "The Applied AI Opportunity (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The Arguments Against Open Source AI are Very Bad (8 minute read)",
-    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-    "description": "The Arguments Against Open Source AI are Very Bad (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1370,6 +1350,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The Primary Banking Agent (10 minute read)",
+    "url": "https://fintechtakes.com/articles/2026-07-29/the-primary-banking-agent/",
+    "description": "The Primary Banking Agent (10 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-07-31",
+    "site_name": "tldr"
+  },
+  {
     "title": "The Productivity Mirage (2 minute read)",
     "url": "https://frantic.im/mirage/",
     "description": "The Productivity Mirage (2 minute read)",
@@ -1390,9 +1380,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The new rules of context engineering for Claude 5 generation models (6 minute read)",
+    "title": "The new rules of context engineering for Claude 5 generation models (5 minute read)",
     "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "description": "The new rules of context engineering for Claude 5 generation models (6 minute read)",
+    "description": "The new rules of context engineering for Claude 5 generation models (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1402,7 +1392,7 @@
   {
     "title": "Thinking Machines Cofounder Joined OpenAI (4 minute read)",
     "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
+    "description": "Thinking Machines Cofounder Joined OpenAI (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1422,7 +1412,7 @@
   {
     "title": "Treat prompt changes like code deploys (6 minute read)",
     "url": "https://luke.geek.nz/azure/eval-gates-for-prompts/",
-    "description": "Treat prompt changes like code deploys (6 minute read)",
+    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
     "tags": [
       "tldr"
     ],
@@ -1490,16 +1480,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Visual Prompts in Video Models (8 minute read)",
-    "url": "https://visual-prompt-engineering.github.io/",
-    "description": "Visual Prompts in Video Models (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
     "title": "We Stopped Using RSC on TanStack.com (15 minute read)",
     "url": "https://tanstack.com/blog/we-stopped-using-rsc-on-tanstack-com",
     "description": "We Stopped Using RSC on TanStack.com (15 minute read)",
@@ -1520,19 +1500,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What fintech founders get wrong about “AI-native” development (6 minute read)",
-    "url": "https://hackernoon.com/what-fintech-founders-get-wrong-about-ai-native-development",
-    "description": "What fintech founders get wrong about “AI-native” development (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-07-31",
-    "site_name": "tldr"
-  },
-  {
-    "title": "What will more intelligence actually do for us? (14 minute read)",
+    "title": "What will more intelligence actually do for us? (20 minute read)",
     "url": "https://www.noahpinion.blog/p/what-will-more-intelligence-actually",
-    "description": "What will more intelligence actually do for us? (14 minute read)",
+    "description": "What will more intelligence actually do for us? (20 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1570,9 +1540,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways (9 minute read)",
-    "url": "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats",
-    "description": "Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways (9 minute read)",
+    "title": "Why Intune Devices Became Noncompliant After the July Windows Update (8 minute read)",
+    "url": "https://patchmypc.com/blog/why-intune-devices-became-noncompliant-after-the-july-windows-update/",
+    "description": "Why Intune Devices Became Noncompliant After the July Windows Update (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1580,9 +1550,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why Intune Devices Became Noncompliant After the July Windows Update (8 minute read)",
-    "url": "https://patchmypc.com/blog/why-intune-devices-became-noncompliant-after-the-july-windows-update/",
-    "description": "Why Intune Devices Became Noncompliant After the July Windows Update (8 minute read)",
+    "title": "Why compute might get 10x more expensive in coming years (8 minute read)",
+    "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+    "description": "Why compute might get 10x more expensive in coming years (8 minute read)",
     "tags": [
       "tldr"
     ],

@@ -1,15 +1,5 @@
 [
   {
-    "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
-    "author": "Carla Urrea Stabile",
-    "date": "2026-07-29",
-    "description": "Carla Urrea StabileCarla Urrea StabileCarla Urrea StabileFollowforAuth0 for DevelopersJul 29\"I Haven't Written Code in 8 Months. I've Never Built More...",
-    "tags": "#ai, #webdev, #productivity, #podcast",
-    "reactions": "26 reactions",
-    "comments": "Comments 1 comment",
-    "url": "https://dev.to/auth0/i-havent-written-code-in-8-months-ive-never-built-more-3k9i"
-  },
-  {
     "title": "2 métodos que usei (E USO) nos estudos de programação.",
     "author": "Aline Santana",
     "date": "2026-07-27",
@@ -26,7 +16,7 @@
     "description": "Honest peer validation of tech career fearsBárbara Martins da SilveiraBárbara Martins da SilveiraBárbara Martins da SilveiraFollowforHe4rt DevelopersJ...",
     "tags": "#carreira, #aprendizado, #networking, #braziliandevs",
     "reactions": "138 reactions",
-    "comments": "Comments 13 comments",
+    "comments": "Comments 14 comments",
     "url": "https://dev.to/he4rt/como-eu-venci-o-medo-da-transicao-de-carreira-4b3c"
   },
   {
@@ -36,8 +26,18 @@
     "description": "Includes a hidden-gem MIT developer skills courseHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowforThe DEVengersJul 24Dev Opportunity Rad...",
     "tags": "#discuss, #community, #opportunities, #resources",
     "reactions": "72 reactions",
-    "comments": "Comments 27 comments",
+    "comments": "Comments 28 comments",
     "url": "https://dev.to/devengers/dev-opportunity-radar-9-a-fully-funded-ai-security-residency-sf-founder-residency-figma-campus-1j88"
+  },
+  {
+    "title": "Does it still make sense to learn how to code?",
+    "author": "Roberto B.",
+    "date": "2026-07-30",
+    "description": "AI shifts the focus from writing code to owning itRoberto B.Roberto B.Roberto B.FollowJul 30Does it still make sense to learn how to code?#ai#learning...",
+    "tags": "#ai, #learning, #mentorship, #beginners",
+    "reactions": "24 reactions",
+    "comments": "Comments 11 comments",
+    "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g"
   },
   {
     "title": "From Silent Reader to 25 Articles: What 3 Months on DEV Taught Me + AMA",
@@ -45,8 +45,8 @@
     "date": "2026-07-27",
     "description": "Includes an open AMA in the commentsHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowJul 27From Silent Reader to 25 Articles: What 3 Months...",
     "tags": "#discuss, #community, #writing, #ama",
-    "reactions": "94 reactions",
-    "comments": "Comments 91 comments",
+    "reactions": "98 reactions",
+    "comments": "Comments 97 comments",
     "url": "https://dev.to/hemapriya_kanagala/from-silent-reader-to-25-articles-what-3-months-on-dev-taught-me-ama-2b0j"
   },
   {
@@ -56,7 +56,7 @@
     "description": "Athreya aka ManeshwarAthreya aka ManeshwarAthreya aka ManeshwarFollowJul 26How terminal-sharing tools put your shell in a browser#webdev#programming#p...",
     "tags": "#webdev, #programming, #productivity, #cli",
     "reactions": "57 reactions",
-    "comments": "Comments 6 comments",
+    "comments": "Comments 7 comments",
     "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"
   },
   {
@@ -65,8 +65,8 @@
     "date": "2026-07-28",
     "description": "Streams raw HTML to dynamically transform the DOMVarshith V HegdeVarshith V HegdeVarshith V HegdeFollowJul 28I Built a Chat App That Rewrites Its Own ...",
     "tags": "#ai, #agents, #webdev, #productivity",
-    "reactions": "40 reactions",
-    "comments": "Comments 12 comments",
+    "reactions": "42 reactions",
+    "comments": "Comments 13 comments",
     "url": "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5"
   },
   {
@@ -75,7 +75,7 @@
     "date": "2026-07-27",
     "description": "Dealing with AI bots and burnoutCesar AguirreCesar AguirreCesar AguirreFollowJul 27I Ran an AMA on Dev.to. Here Are My Favorite Questions#coding#begin...",
     "tags": "#coding, #beginners, #career, #top7",
-    "reactions": "18 reactions",
+    "reactions": "19 reactions",
     "comments": "Comments 12 comments",
     "url": "https://dev.to/canro91/i-ran-an-ama-on-devto-here-are-my-favorite-questions-56o8"
   },
@@ -85,19 +85,19 @@
     "date": "2026-07-30",
     "description": "Summer Bug Smash: Smash Stories 🐛🛹Sylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowJul 30It Was Just a Patch Update. What Could Possibly Go Wrong...",
     "tags": "#devchallenge, #bugsmash, #angular, #javascript",
-    "reactions": "36 reactions",
-    "comments": "Comments 15 comments",
+    "reactions": "45 reactions",
+    "comments": "Comments 27 comments",
     "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"
   },
   {
     "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
     "author": "Jess Lee",
     "date": "2026-07-29",
-    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxPut your region's best dish on the web.Every place has a dish worth...",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxBuild something that tastes like home.A ramen bowl in pure CSS? A l...",
     "tags": "#devchallenge, #frontendchallenge, #css, #javascript",
-    "reactions": "7 reactions",
-    "comments": "Comments 1 comment",
-    "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0?bb=263951"
+    "reactions": "5 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0?bb=263947"
   },
   {
     "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
@@ -105,18 +105,18 @@
     "date": "2026-07-29",
     "description": "Features a CSS art promptJess LeeJess LeeJess LeeFollowforThe DEV TeamJul 29Join our latest Frontend Challenge: Comfort Food Edition 🍲#devchallenge#fr...",
     "tags": "#devchallenge, #frontendchallenge, #css, #javascript",
-    "reactions": "94 reactions",
-    "comments": "Comments 20 comments",
+    "reactions": "107 reactions",
+    "comments": "Comments 28 comments",
     "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"
   },
   {
     "title": "Passkeys Explained Simply",
     "author": "Thomas Bnt",
     "date": "2026-07-27",
-    "description": "Comments warn account recovery is the weak linkThomas BntThomas BntThomas BntFollowJul 27Passkeys Explained Simply#discuss#security#api#webdev73reacti...",
+    "description": "Comments warn account recovery is the weak linkThomas BntThomas BntThomas BntFollowJul 27Passkeys Explained Simply#discuss#security#api#webdev78reacti...",
     "tags": "#discuss, #security, #api, #webdev",
-    "reactions": "73 reactions",
-    "comments": "Comments 25 comments",
+    "reactions": "78 reactions",
+    "comments": "Comments 27 comments",
     "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk"
   },
   {
@@ -125,9 +125,19 @@
     "date": "2026-07-28",
     "description": "Comments debate the limits of UI locksShubhra PokhariyaShubhra PokhariyaShubhra PokhariyaFollowJul 28React 19's useActionState Showed Me Why Disabling...",
     "tags": "#react, #webdev, #javascript, #programming",
-    "reactions": "40 reactions",
-    "comments": "Comments 15 comments",
+    "reactions": "42 reactions",
+    "comments": "Comments 17 comments",
     "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd"
+  },
+  {
+    "title": "Skills vs MCP: How AI tools have evolved",
+    "author": "Tilde A. Thurium",
+    "date": "2026-07-30",
+    "description": "Tilde A. ThuriumTilde A. ThuriumTilde A. ThuriumFollowforGoogle AIJul 30Skills vs MCP: How AI tools have evolved#ai#agents#mcp#agentskills38reactionsC...",
+    "tags": "#ai, #agents, #mcp, #agentskills",
+    "reactions": "38 reactions",
+    "comments": "Comments 9 comments",
+    "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk"
   },
   {
     "title": "Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations",
@@ -135,8 +145,8 @@
     "date": "2026-07-28",
     "description": "Coined by Python's Seth Larson in 2025Nazar BoykoNazar BoykoNazar BoykoFollowJul 28Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucina...",
     "tags": "#security, #ai, #webdev, #programming",
-    "reactions": "80 reactions",
-    "comments": "Comments 59 comments",
+    "reactions": "92 reactions",
+    "comments": "Comments 72 comments",
     "url": "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2"
   },
   {
@@ -145,8 +155,8 @@
     "date": "2026-07-27",
     "description": "Deletes the career ladderNazar BoykoNazar BoykoNazar BoykoFollowJul 27The Junior Developer Pipeline Is Broken... And AI Broke It#discuss#ai#career#pro...",
     "tags": "#discuss, #ai, #career, #programming",
-    "reactions": "218 reactions",
-    "comments": "Comments 183 comments",
+    "reactions": "236 reactions",
+    "comments": "Comments 191 comments",
     "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai"
   },
   {
@@ -155,29 +165,19 @@
     "date": "2026-07-28",
     "description": "Gatekeeping hurts AI-assisted creatorsAdam - The Developer ✨Adam - The Developer ✨Adam - The Developer ✨FollowJul 28Understanding Over Origin#ai#progr...",
     "tags": "#ai, #programming, #productivity, #opensource",
-    "reactions": "61 reactions",
-    "comments": "Comments 32 comments",
+    "reactions": "71 reactions",
+    "comments": "Comments 35 comments",
     "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685"
   },
   {
     "title": "Vibe Coding: Endgame",
     "author": "Konark Sharma",
     "date": "2026-07-28",
-    "description": "Explores why large projects break downKonark SharmaKonark SharmaKonark SharmaFollowJul 28Vibe Coding: Endgame#discuss#ai#vibecoding#webdev34reactionsC...",
+    "description": "Explores why large projects break downKonark SharmaKonark SharmaKonark SharmaFollowJul 28Vibe Coding: Endgame#discuss#ai#vibecoding#webdev42reactionsC...",
     "tags": "#discuss, #ai, #vibecoding, #webdev",
-    "reactions": "34 reactions",
-    "comments": "Comments 35 comments",
+    "reactions": "42 reactions",
+    "comments": "Comments 39 comments",
     "url": "https://dev.to/konark_13/vibe-coding-endgame-3bbn"
-  },
-  {
-    "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
-    "author": "GrahamTheDev",
-    "date": "2026-07-23",
-    "description": "Explores browser popup API abuseGrahamTheDevGrahamTheDevGrahamTheDevFollowJul 23🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt ...",
-    "tags": "#javascript, #webdev, #programming, #css",
-    "reactions": "78 reactions",
-    "comments": "Comments 34 comments",
-    "url": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i"
   },
   {
     "title": "🗓️ Monthly Dev Report: July 2026",
@@ -185,8 +185,8 @@
     "date": "2026-07-27",
     "description": "Features community spotlights and a Top 7 postFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowJul 27🗓️ Monthly Dev Report: July 2026...",
     "tags": "#discuss, #community, #devjournal, #programming",
-    "reactions": "62 reactions",
-    "comments": "Comments 40 comments",
+    "reactions": "70 reactions",
+    "comments": "Comments 41 comments",
     "url": "https://dev.to/francistrdev/monthly-dev-report-july-2026-1jdm"
   }
 ]
