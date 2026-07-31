@@ -1,130 +1,96 @@
 [
   {
-    "title": "2x, not 10x: coding with LLMs in 2026",
-    "url": "https://obryant.dev/p/2x-not-10x/",
-    "author": "tnisonoff",
-    "date": "2026-07-25",
-    "score": 265,
-    "comments": 211,
-    "id": 49047839,
-    "discussion_url": "https://news.ycombinator.com/item?id=49047839",
-    "description": "2x, not 10x: coding with LLMs in 2026",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.461003"
-  },
-  {
-    "title": "A California aquifer may have crossed the point of no return",
-    "url": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
-    "author": "Jimmc414",
+    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+    "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+    "author": "speckx",
     "date": "2026-07-31",
-    "score": 142,
-    "comments": 121,
-    "id": 49118663,
-    "discussion_url": "https://news.ycombinator.com/item?id=49118663",
-    "description": "A California aquifer may have crossed the point of no return",
+    "score": 57,
+    "comments": 16,
+    "id": 49124658,
+    "discussion_url": "https://news.ycombinator.com/item?id=49124658",
+    "description": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.461079"
+    "fetched_at": "2026-07-31T19:34:06.934439"
   },
   {
-    "title": "Advancing the price-performance frontier with GPT‑5.6",
-    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-    "author": "tedsanders",
-    "date": "2026-07-30",
-    "score": 581,
-    "comments": 380,
-    "id": 49112867,
-    "discussion_url": "https://news.ycombinator.com/item?id=49112867",
-    "description": "Advancing the price-performance frontier with GPT‑5.6",
+    "title": "Arch Linux disables AUR package adoption",
+    "url": "https://lwn.net/Articles/1086489/",
+    "author": "database64128",
+    "date": "2026-07-31",
+    "score": 98,
+    "comments": 69,
+    "id": 49123208,
+    "discussion_url": "https://news.ycombinator.com/item?id=49123208",
+    "description": "Arch Linux disables AUR package adoption",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460981"
+    "fetched_at": "2026-07-31T19:34:06.934524"
   },
   {
-    "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-    "url": "https://github.com/AminBlg/SimpleEnglish",
-    "author": "navs",
-    "date": "2026-07-30",
-    "score": 306,
-    "comments": 112,
-    "id": 49114639,
-    "discussion_url": "https://news.ycombinator.com/item?id=49114639",
-    "description": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+    "title": "Big Food vs. the People",
+    "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+    "author": "jruohonen",
+    "date": "2026-07-31",
+    "score": 117,
+    "comments": 75,
+    "id": 49124858,
+    "discussion_url": "https://news.ycombinator.com/item?id=49124858",
+    "description": "Big Food vs. the People",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.461033"
+    "fetched_at": "2026-07-31T19:34:06.934419"
   },
   {
-    "title": "Are We Stuck with Lean?",
-    "url": "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean",
-    "author": "jjgreen",
-    "date": "2026-07-30",
-    "score": 142,
-    "comments": 65,
-    "id": 49108678,
-    "discussion_url": "https://news.ycombinator.com/item?id=49108678",
-    "description": "Are We Stuck with Lean?",
+    "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+    "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+    "author": "vrganj",
+    "date": "2026-07-31",
+    "score": 102,
+    "comments": 110,
+    "id": 49120120,
+    "discussion_url": "https://news.ycombinator.com/item?id=49120120",
+    "description": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.461072"
+    "fetched_at": "2026-07-31T19:34:06.934516"
   },
   {
-    "title": "Azulejo",
-    "url": "https://en.wikipedia.org/wiki/Azulejo",
-    "author": "Amorymeltzer",
-    "date": "2026-07-28",
-    "score": 183,
-    "comments": 64,
-    "id": 49089502,
-    "discussion_url": "https://news.ycombinator.com/item?id=49089502",
-    "description": "Azulejo",
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+    "author": "theanonymousone",
+    "date": "2026-07-31",
+    "score": 463,
+    "comments": 251,
+    "id": 49120299,
+    "discussion_url": "https://news.ycombinator.com/item?id=49120299",
+    "description": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.461062"
-  },
-  {
-    "title": "CodePen 2.0",
-    "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-    "author": "robin_reala",
-    "date": "2026-07-30",
-    "score": 171,
-    "comments": 49,
-    "id": 49113338,
-    "discussion_url": "https://news.ycombinator.com/item?id=49113338",
-    "description": "CodePen 2.0",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460932"
+    "fetched_at": "2026-07-31T19:34:06.934454"
   },
   {
     "title": "DeepSeek-V4-Flash Update",
     "url": "https://api-docs.deepseek.com/updates/",
     "author": "dnhkng",
     "date": "2026-07-31",
-    "score": 354,
-    "comments": 173,
+    "score": 614,
+    "comments": 298,
     "id": 49119559,
     "discussion_url": "https://news.ycombinator.com/item?id=49119559",
     "description": "DeepSeek-V4-Flash Update",
@@ -133,49 +99,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460896"
+    "fetched_at": "2026-07-31T19:34:06.934479"
   },
   {
-    "title": "GCC steering committee announces AI policy",
-    "url": "https://lwn.net/Articles/1086041/",
-    "author": "arto",
-    "date": "2026-07-30",
-    "score": 307,
-    "comments": 344,
-    "id": 49108685,
-    "discussion_url": "https://news.ycombinator.com/item?id=49108685",
-    "description": "GCC steering committee announces AI policy",
+    "title": "Elevators",
+    "url": "https://john.fun/elevators",
+    "author": "Jrh0203",
+    "date": "2026-07-31",
+    "score": 558,
+    "comments": 156,
+    "id": 49124218,
+    "discussion_url": "https://news.ycombinator.com/item?id=49124218",
+    "description": "Elevators",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460905"
+    "fetched_at": "2026-07-31T19:34:06.934434"
   },
   {
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "author": "ai2027",
-    "date": "2026-07-30",
-    "score": 573,
-    "comments": 459,
-    "id": 49111237,
-    "discussion_url": "https://news.ycombinator.com/item?id=49111237",
-    "description": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "author": "speckx",
+    "date": "2026-07-31",
+    "score": 76,
+    "comments": 45,
+    "id": 49125034,
+    "discussion_url": "https://news.ycombinator.com/item?id=49125034",
+    "description": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460940"
+    "fetched_at": "2026-07-31T19:34:06.934500"
   },
   {
     "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
     "url": "https://blog.google/security/chrome-stronger-with-every-update/",
     "author": "Garbage",
     "date": "2026-07-31",
-    "score": 138,
-    "comments": 157,
+    "score": 449,
+    "comments": 452,
     "id": 49120097,
     "discussion_url": "https://news.ycombinator.com/item?id=49120097",
     "description": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
@@ -184,66 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460966"
+    "fetched_at": "2026-07-31T19:34:06.934542"
   },
   {
-    "title": "Google will expand age checks on Android worldwide till the end of the year",
-    "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-    "author": "dmantis",
-    "date": "2026-07-30",
-    "score": 404,
-    "comments": 487,
-    "id": 49107950,
-    "discussion_url": "https://news.ycombinator.com/item?id=49107950",
-    "description": "Google will expand age checks on Android worldwide till the end of the year",
+    "title": "IMAX vs. IMAX 70mm: The difference between these two cinema formats",
+    "url": "https://www.engadget.com/2220571/differences-between-imax-70mm/",
+    "author": "ksec",
+    "date": "2026-07-25",
+    "score": 69,
+    "comments": 108,
+    "id": 49048452,
+    "discussion_url": "https://news.ycombinator.com/item?id=49048452",
+    "description": "IMAX vs. IMAX 70mm: The difference between these two cinema formats",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.461059"
-  },
-  {
-    "title": "Hacker Public Radio",
-    "url": "https://hackerpublicradio.org/",
-    "author": "bmacho",
-    "date": "2026-07-30",
-    "score": 153,
-    "comments": 29,
-    "id": 49110547,
-    "discussion_url": "https://news.ycombinator.com/item?id=49110547",
-    "description": "Hacker Public Radio",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.461010"
-  },
-  {
-    "title": "I flagged two research papers for fake authors and both were accepted as orals",
-    "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-    "author": "volumes94",
-    "date": "2026-07-30",
-    "score": 221,
-    "comments": 100,
-    "id": 49116721,
-    "discussion_url": "https://news.ycombinator.com/item?id=49116721",
-    "description": "I flagged two research papers for fake authors and both were accepted as orals",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460856"
+    "fetched_at": "2026-07-31T19:34:06.934538"
   },
   {
     "title": "Investigating three real-world incidents in our cybersecurity evaluations",
     "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
     "author": "surprisetalk",
     "date": "2026-07-30",
-    "score": 187,
-    "comments": 147,
+    "score": 214,
+    "comments": 166,
     "id": 49116922,
     "discussion_url": "https://news.ycombinator.com/item?id=49116922",
     "description": "Investigating three real-world incidents in our cybersecurity evaluations",
@@ -252,185 +184,202 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.461021"
+    "fetched_at": "2026-07-31T19:34:06.934566"
   },
   {
-    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-    "url": "https://github.com/openjdk/jdk/pull/31120",
-    "author": "mfiguiere",
+    "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+    "author": "gk1",
     "date": "2026-07-31",
-    "score": 142,
-    "comments": 67,
-    "id": 49119063,
-    "discussion_url": "https://news.ycombinator.com/item?id=49119063",
-    "description": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "score": 97,
+    "comments": 54,
+    "id": 49122838,
+    "discussion_url": "https://news.ycombinator.com/item?id=49122838",
+    "description": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460865"
+    "fetched_at": "2026-07-31T19:34:06.934578"
   },
   {
-    "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-    "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-    "author": "ibobev",
-    "date": "2026-07-30",
-    "score": 222,
-    "comments": 151,
-    "id": 49111305,
-    "discussion_url": "https://news.ycombinator.com/item?id=49111305",
-    "description": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+    "title": "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key",
+    "url": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+    "author": "hn_acker",
+    "date": "2026-07-31",
+    "score": 50,
+    "comments": 10,
+    "id": 49124409,
+    "discussion_url": "https://news.ycombinator.com/item?id=49124409",
+    "description": "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460947"
+    "fetched_at": "2026-07-31T19:34:06.934637"
   },
   {
-    "title": "Read this before you buy that TV streaming stick",
-    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "author": "speckx",
+    "title": "Premier league bans gambling sponsors",
+    "url": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
+    "author": "paoliniluis",
     "date": "2026-07-30",
-    "score": 735,
-    "comments": 439,
-    "id": 49112744,
-    "discussion_url": "https://news.ycombinator.com/item?id=49112744",
-    "description": "Read this before you buy that TV streaming stick",
+    "score": 234,
+    "comments": 92,
+    "id": 49117266,
+    "discussion_url": "https://news.ycombinator.com/item?id=49117266",
+    "description": "Premier league bans gambling sponsors",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460901"
+    "fetched_at": "2026-07-31T19:34:06.934629"
   },
   {
-    "title": "Ron Gilbert started production on Thimbleweed Park 2",
-    "url": "https://www.grumpygamer.com/twp2_announce/",
-    "author": "alberto-m",
-    "date": "2026-07-30",
-    "score": 243,
-    "comments": 113,
-    "id": 49107246,
-    "discussion_url": "https://news.ycombinator.com/item?id=49107246",
-    "description": "Ron Gilbert started production on Thimbleweed Park 2",
+    "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "url": "https://github.com/sqliteai/waste",
+    "author": "marcobambini",
+    "date": "2026-07-31",
+    "score": 63,
+    "comments": 18,
+    "id": 49123386,
+    "discussion_url": "https://news.ycombinator.com/item?id=49123386",
+    "description": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460999"
+    "fetched_at": "2026-07-31T19:34:06.934471"
   },
   {
-    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-    "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-    "author": "cgorlla",
-    "date": "2026-07-30",
-    "score": 133,
-    "comments": 67,
-    "id": 49113599,
-    "discussion_url": "https://news.ycombinator.com/item?id=49113599",
-    "description": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460958"
-  },
-  {
-    "title": "Stacked PRs are now live on GitHub",
-    "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-    "author": "tomzorz",
-    "date": "2026-07-30",
-    "score": 675,
-    "comments": 232,
-    "id": 49112232,
-    "discussion_url": "https://news.ycombinator.com/item?id=49112232",
-    "description": "Stacked PRs are now live on GitHub",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460936"
-  },
-  {
-    "title": "The AI Aesthetic",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "author": "montroser",
-    "date": "2026-07-30",
-    "score": 318,
-    "comments": 143,
-    "id": 49117099,
-    "discussion_url": "https://news.ycombinator.com/item?id=49117099",
-    "description": "The AI Aesthetic",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460860"
-  },
-  {
-    "title": "The Economic Benefit of Refactoring",
-    "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-    "author": "javaeeeee",
-    "date": "2026-07-30",
-    "score": 247,
-    "comments": 107,
-    "id": 49111176,
-    "discussion_url": "https://news.ycombinator.com/item?id=49111176",
-    "description": "The Economic Benefit of Refactoring",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460845"
-  },
-  {
-    "title": "The Religion of Speed",
-    "url": "https://graybeard.ing/the-religion-of-speed/",
-    "author": "MobiusHorizons",
-    "date": "2026-07-30",
+    "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
+    "url": "https://github.com/mokshablr/gander",
+    "author": "mokshablr",
+    "date": "2026-07-31",
     "score": 182,
-    "comments": 87,
-    "id": 49117284,
-    "discussion_url": "https://news.ycombinator.com/item?id=49117284",
-    "description": "The Religion of Speed",
+    "comments": 64,
+    "id": 49119425,
+    "discussion_url": "https://news.ycombinator.com/item?id=49119425",
+    "description": "Show HN: Gander, an Android file viewer that asks for no permissions",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460913"
+    "fetched_at": "2026-07-31T19:34:06.934602"
   },
   {
-    "title": "The lost civic life of movie rental stores",
-    "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-    "author": "facundo_olano",
-    "date": "2026-07-30",
-    "score": 178,
-    "comments": 233,
-    "id": 49110308,
-    "discussion_url": "https://news.ycombinator.com/item?id=49110308",
-    "description": "The lost civic life of movie rental stores",
+    "title": "Show HN: What should the GUI for AI agents look like?",
+    "url": "https://marbleos.com/demo",
+    "author": "akbabu",
+    "date": "2026-07-31",
+    "score": 95,
+    "comments": 58,
+    "id": 49119274,
+    "discussion_url": "https://news.ycombinator.com/item?id=49119274",
+    "description": "Show HN: What should the GUI for AI agents look like?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460921"
+    "fetched_at": "2026-07-31T19:34:06.934570"
+  },
+  {
+    "title": "Situational Awareness down 67% in July in AI stock rout",
+    "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+    "author": "pondsider",
+    "date": "2026-07-31",
+    "score": 128,
+    "comments": 126,
+    "id": 49122994,
+    "discussion_url": "https://news.ycombinator.com/item?id=49122994",
+    "description": "Situational Awareness down 67% in July in AI stock rout",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-31T19:34:06.934641"
+  },
+  {
+    "title": "Solving poker in custom WebGPU kernels",
+    "url": "https://phulin.me/blog/poker/",
+    "author": "patrickhulin",
+    "date": "2026-07-30",
+    "score": 62,
+    "comments": 17,
+    "id": 49111523,
+    "discussion_url": "https://news.ycombinator.com/item?id=49111523",
+    "description": "Solving poker in custom WebGPU kernels",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-31T19:34:06.934558"
+  },
+  {
+    "title": "The End of an Era",
+    "url": "https://hughhowey.com/the-end-of-an-era/",
+    "author": "harscoat",
+    "date": "2026-07-31",
+    "score": 343,
+    "comments": 383,
+    "id": 49121980,
+    "discussion_url": "https://news.ycombinator.com/item?id=49121980",
+    "description": "The End of an Era",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-31T19:34:06.934467"
+  },
+  {
+    "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+    "url": "https://arxiv.org/abs/2607.27197",
+    "author": "rahen",
+    "date": "2026-07-31",
+    "score": 124,
+    "comments": 119,
+    "id": 49121868,
+    "discussion_url": "https://news.ycombinator.com/item?id=49121868",
+    "description": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-31T19:34:06.934625"
+  },
+  {
+    "title": "The most official water costs $120k a gallon",
+    "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "author": "surprisetalk",
+    "date": "2026-07-31",
+    "score": 74,
+    "comments": 49,
+    "id": 49124042,
+    "discussion_url": "https://news.ycombinator.com/item?id=49124042",
+    "description": "The most official water costs $120k a gallon",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-07-31T19:34:06.934409"
   },
   {
     "title": "The session you cannot take with you",
     "url": "https://earendil.com/posts/session-portability/",
     "author": "apitman",
     "date": "2026-07-31",
-    "score": 448,
-    "comments": 114,
+    "score": 709,
+    "comments": 204,
     "id": 49118781,
     "discussion_url": "https://news.ycombinator.com/item?id=49118781",
     "description": "The session you cannot take with you",
@@ -439,74 +388,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460870"
+    "fetched_at": "2026-07-31T19:34:06.934520"
   },
   {
-    "title": "UEFA and its national associations will not participate in FIFA competitions",
-    "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-    "author": "dickfickling",
-    "date": "2026-07-30",
-    "score": 1077,
-    "comments": 582,
-    "id": 49113929,
-    "discussion_url": "https://news.ycombinator.com/item?id=49113929",
-    "description": "UEFA and its national associations will not participate in FIFA competitions",
+    "title": "Winding Down Artichoke Ruby",
+    "url": "https://hyperbo.la/w/winding-down-artichoke-ruby/",
+    "author": "ksec",
+    "date": "2026-07-25",
+    "score": 53,
+    "comments": 8,
+    "id": 49049992,
+    "discussion_url": "https://news.ycombinator.com/item?id=49049992",
+    "description": "Winding Down Artichoke Ruby",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460917"
+    "fetched_at": "2026-07-31T19:34:06.934590"
   },
   {
-    "title": "Upper stage impacting the moon on 2026 August 5",
-    "url": "https://www.projectpluto.com/25010d.htm",
-    "author": "ryannevius",
-    "date": "2026-07-30",
-    "score": 208,
-    "comments": 65,
-    "id": 49109616,
-    "discussion_url": "https://news.ycombinator.com/item?id=49109616",
-    "description": "Upper stage impacting the moon on 2026 August 5",
+    "title": "qm",
+    "url": "https://github.com/yc-software/qm",
+    "author": "tosh",
+    "date": "2026-07-31",
+    "score": 106,
+    "comments": 35,
+    "id": 49126604,
+    "discussion_url": "https://news.ycombinator.com/item?id=49126604",
+    "description": "qm",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460986"
-  },
-  {
-    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-    "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-    "author": "Areibman",
-    "date": "2026-07-30",
-    "score": 368,
-    "comments": 217,
-    "id": 49113059,
-    "discussion_url": "https://news.ycombinator.com/item?id=49113059",
-    "description": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.461013"
-  },
-  {
-    "title": "Why is everyone trying to build a solid-state battery?",
-    "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-    "author": "crescit_eundo",
-    "date": "2026-07-30",
-    "score": 198,
-    "comments": 247,
-    "id": 49109193,
-    "discussion_url": "https://news.ycombinator.com/item?id=49109193",
-    "description": "Why is everyone trying to build a solid-state battery?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-07-31T11:44:08.460950"
+    "fetched_at": "2026-07-31T19:34:06.934398"
   }
 ]
