@@ -1,0 +1,60 @@
+---
+title: The development pipeline is a production system – sundry.jerryorr.com
+url: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system
+site_name: hnrss
+content_file: hnrss-the-development-pipeline-is-a-production-system-su
+fetched_at: '2026-08-01T19:28:33.931951'
+original_url: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system
+author: Jerry Orr
+date: '2026-08-01'
+description: When your team's development pipeline goes down, your ability to produce software goes down with it.
+tags:
+- hackernews
+- hnrss
+---
+
+# The development pipeline is a production system
+
+ by 
+Jerry Orr
+
+Jul 31, 2026
+
+programming
+
+technology
+
+ 
+ 2 minute read
+ 
+ 
+
+Software developers learn early in their careers that nothing is more urgent than fixing a production outage.Drop everything! All hands on deck!
+
+However, the same level of urgency is not often given to problems with our development tools, build systems, QA environments, and other parts of the software development pipeline. But for the development team,the development pipeline is a production system.
+
+A software developer’s job is to deliver value for the company. Sometimes that means building new features, sometimes that means fixing critical bugs for the customers’ production systems. Butnone of this can happenwhen something is broken in the software development pipeline.
+
+If the code can’t compile, the developers are unable to do their jobs, and the team isn’t producing software. For the development team,this is a production outage.Fixing this should be a top priority.
+
+If the QA server is down, the testers are unable to do their jobs, and the team isn’t producingworkingsoftware. For the QA team,this is a production outage. Fixing it should be a top priority.
+
+You will not be shocked to learn that I drew this myself.
+
+In manufacturing, there areextensive processes and procedureson how to prevent and minimize downtime on the assembly line.1And similar processes exist forIT service outages. But I’ve found that most of those focus on outages in the service provided tocustomers, not for the people responsible forbuilding and supporting the services.
+
+I recommend thinking about all the components that take you from “customer wants something” to “that something is delivered to customers”:
+
+* Issue reporting and change request systems, like GitHub Issues, Jira, etc
+* Tools developers use to directly build software, like IDEs, build tools (Gradle, Maven, etc), package repositories (npm, Maven Central, internal repositories, etc), local databases, containers, etc
+* CI/CD tools (Jenkins, GitHub Actions, etc).
+* A failing test suite (surely you don’t deploy to production if the tests are failing?)
+* QA server outage (surely you don’t deploy to production if QA hasn’t tested it?)
+* Literallyanystep in your process that prevents you from making changes and deploying them to production
+
+A team with a broken development pipeline can’t produce software, andmusttreat this as a production outage.
+
+1
+ Interestingly, they often call it the "production line". Is the usage of the term "production" in the software world related to its history in the manufacturing world?
+	
+↩
