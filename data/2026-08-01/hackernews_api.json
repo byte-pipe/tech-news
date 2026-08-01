@@ -1,11 +1,62 @@
 [
   {
+    "title": "AI doesn't generate working products, that's still your job",
+    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "author": "smckk",
+    "date": "2026-08-01",
+    "score": 127,
+    "comments": 109,
+    "id": 49132130,
+    "discussion_url": "https://news.ycombinator.com/item?id=49132130",
+    "description": "AI doesn't generate working products, that's still your job",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.339913"
+  },
+  {
+    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+    "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+    "author": "speckx",
+    "date": "2026-07-31",
+    "score": 122,
+    "comments": 37,
+    "id": 49124658,
+    "discussion_url": "https://news.ycombinator.com/item?id=49124658",
+    "description": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.340131"
+  },
+  {
+    "title": "Big Food vs. the People",
+    "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+    "author": "jruohonen",
+    "date": "2026-07-31",
+    "score": 234,
+    "comments": 149,
+    "id": 49124858,
+    "discussion_url": "https://news.ycombinator.com/item?id=49124858",
+    "description": "Big Food vs. the People",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.339981"
+  },
+  {
     "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
     "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
     "author": "vrganj",
     "date": "2026-07-31",
-    "score": 65,
-    "comments": 86,
+    "score": 154,
+    "comments": 165,
     "id": 49120120,
     "discussion_url": "https://news.ycombinator.com/item?id=49120120",
     "description": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
@@ -14,15 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626956"
+    "fetched_at": "2026-08-01T11:29:54.340064"
   },
   {
     "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
     "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
     "author": "theanonymousone",
     "date": "2026-07-31",
-    "score": 387,
-    "comments": 210,
+    "score": 562,
+    "comments": 301,
     "id": 49120299,
     "discussion_url": "https://news.ycombinator.com/item?id=49120299",
     "description": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
@@ -31,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626719"
+    "fetched_at": "2026-08-01T11:29:54.340102"
   },
   {
     "title": "DeepSeek-V4-Flash Update",
     "url": "https://api-docs.deepseek.com/updates/",
     "author": "dnhkng",
     "date": "2026-07-31",
-    "score": 535,
-    "comments": 257,
+    "score": 704,
+    "comments": 332,
     "id": 49119559,
     "discussion_url": "https://news.ycombinator.com/item?id=49119559",
     "description": "DeepSeek-V4-Flash Update",
@@ -48,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.627060"
+    "fetched_at": "2026-08-01T11:29:54.340106"
   },
   {
     "title": "Dubious research tied to Red Bull has shaped energy drink policy",
     "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
     "author": "Jimmc414",
-    "date": "2026-08-01",
-    "score": 50,
-    "comments": 85,
+    "date": "2026-07-31",
+    "score": 143,
+    "comments": 211,
     "id": 49124738,
     "discussion_url": "https://news.ycombinator.com/item?id=49124738",
     "description": "Dubious research tied to Red Bull has shaped energy drink policy",
@@ -65,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626677"
+    "fetched_at": "2026-08-01T11:29:54.340119"
   },
   {
     "title": "Elevators",
     "url": "https://john.fun/elevators",
     "author": "Jrh0203",
-    "date": "2026-08-01",
-    "score": 251,
-    "comments": 92,
+    "date": "2026-07-31",
+    "score": 1336,
+    "comments": 326,
     "id": 49124218,
     "discussion_url": "https://news.ycombinator.com/item?id=49124218",
     "description": "Elevators",
@@ -82,32 +133,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626467"
+    "fetched_at": "2026-08-01T11:29:54.339926"
   },
   {
-    "title": "GCC steering committee announces AI policy",
-    "url": "https://lwn.net/Articles/1086041/",
-    "author": "arto",
-    "date": "2026-07-30",
-    "score": 340,
-    "comments": 399,
-    "id": 49108685,
-    "discussion_url": "https://news.ycombinator.com/item?id=49108685",
-    "description": "GCC steering committee announces AI policy",
+    "title": "Everyone is building LLM routers, we deprecated ours",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "author": "brunaxLorax",
+    "date": "2026-07-31",
+    "score": 121,
+    "comments": 75,
+    "id": 49126630,
+    "discussion_url": "https://news.ycombinator.com/item?id=49126630",
+    "description": "Everyone is building LLM routers, we deprecated ours",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.627498"
+    "fetched_at": "2026-08-01T11:29:54.340085"
+  },
+  {
+    "title": "Flint: A Visualization Language for the AI Era",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "author": "vinhnx",
+    "date": "2026-08-01",
+    "score": 135,
+    "comments": 47,
+    "id": 49130604,
+    "discussion_url": "https://news.ycombinator.com/item?id=49130604",
+    "description": "Flint: A Visualization Language for the AI Era",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.339932"
+  },
+  {
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "author": "speckx",
+    "date": "2026-07-31",
+    "score": 192,
+    "comments": 98,
+    "id": 49125034,
+    "discussion_url": "https://news.ycombinator.com/item?id=49125034",
+    "description": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.340055"
+  },
+  {
+    "title": "Golang proposal: container/: generic collection types",
+    "url": "https://github.com/golang/go/issues/80590",
+    "author": "jabits",
+    "date": "2026-07-31",
+    "score": 159,
+    "comments": 132,
+    "id": 49127031,
+    "discussion_url": "https://news.ycombinator.com/item?id=49127031",
+    "description": "Golang proposal: container/: generic collection types",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.340005"
   },
   {
     "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
     "url": "https://blog.google/security/chrome-stronger-with-every-update/",
     "author": "Garbage",
     "date": "2026-07-31",
-    "score": 400,
-    "comments": 387,
+    "score": 532,
+    "comments": 545,
     "id": 49120097,
     "discussion_url": "https://news.ycombinator.com/item?id=49120097",
     "description": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
@@ -116,15 +218,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.627004"
+    "fetched_at": "2026-08-01T11:29:54.340073"
+  },
+  {
+    "title": "How to Exist",
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "author": "walterbell",
+    "date": "2026-08-01",
+    "score": 225,
+    "comments": 125,
+    "id": 49129990,
+    "discussion_url": "https://news.ycombinator.com/item?id=49129990",
+    "description": "How to Exist",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.339951"
   },
   {
     "title": "Investigating three real-world incidents in our cybersecurity evaluations",
     "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
     "author": "surprisetalk",
-    "date": "2026-07-31",
-    "score": 202,
-    "comments": 162,
+    "date": "2026-07-30",
+    "score": 232,
+    "comments": 188,
     "id": 49116922,
     "discussion_url": "https://news.ycombinator.com/item?id=49116922",
     "description": "Investigating three real-world incidents in our cybersecurity evaluations",
@@ -133,15 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.627136"
+    "fetched_at": "2026-08-01T11:29:54.340060"
   },
   {
     "title": "Is AI reasoning right for the wrong reasons?",
     "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
     "author": "retupmoc01",
-    "date": "2026-08-01",
-    "score": 68,
-    "comments": 70,
+    "date": "2026-07-31",
+    "score": 170,
+    "comments": 198,
     "id": 49124358,
     "discussion_url": "https://news.ycombinator.com/item?id=49124358",
     "description": "Is AI reasoning right for the wrong reasons?",
@@ -150,49 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626754"
+    "fetched_at": "2026-08-01T11:29:54.340047"
   },
   {
-    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-    "url": "https://github.com/openjdk/jdk/pull/31120",
-    "author": "mfiguiere",
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "author": "iamnothere",
     "date": "2026-07-31",
-    "score": 212,
-    "comments": 137,
-    "id": 49119063,
-    "discussion_url": "https://news.ycombinator.com/item?id=49119063",
-    "description": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "score": 161,
+    "comments": 50,
+    "id": 49126765,
+    "discussion_url": "https://news.ycombinator.com/item?id=49126765",
+    "description": "June in Servo: real world compat, media queries, SharedWorker, and more",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626870"
-  },
-  {
-    "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
-    "author": "gk1",
-    "date": "2026-07-31",
-    "score": 66,
-    "comments": 42,
-    "id": 49122838,
-    "discussion_url": "https://news.ycombinator.com/item?id=49122838",
-    "description": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626581"
+    "fetched_at": "2026-08-01T11:29:54.340052"
   },
   {
     "title": "Premier league bans gambling sponsors",
     "url": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
     "author": "paoliniluis",
-    "date": "2026-07-31",
-    "score": 220,
-    "comments": 72,
+    "date": "2026-07-30",
+    "score": 280,
+    "comments": 111,
     "id": 49117266,
     "discussion_url": "https://news.ycombinator.com/item?id=49117266",
     "description": "Premier league bans gambling sponsors",
@@ -201,66 +303,151 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626703"
+    "fetched_at": "2026-08-01T11:29:54.340115"
   },
   {
-    "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
-    "url": "https://github.com/mokshablr/gander",
-    "author": "mokshablr",
+    "title": "Progressive Web Components",
+    "url": "https://arielsalminen.com/2026/progressive-web-components/",
+    "author": "hosteur",
     "date": "2026-07-31",
-    "score": 174,
-    "comments": 62,
-    "id": 49119425,
-    "discussion_url": "https://news.ycombinator.com/item?id=49119425",
-    "description": "Show HN: Gander, an Android file viewer that asks for no permissions",
+    "score": 157,
+    "comments": 32,
+    "id": 49121196,
+    "discussion_url": "https://news.ycombinator.com/item?id=49121196",
+    "description": "Progressive Web Components",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626643"
+    "fetched_at": "2026-08-01T11:29:54.339971"
   },
   {
-    "title": "Simulating TCP loss and congestion in browser using Go/WASM",
-    "url": "https://ccsim.fly.dev",
-    "author": "dilyevsky",
+    "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "url": "https://github.com/sqliteai/waste",
+    "author": "marcobambini",
+    "date": "2026-07-31",
+    "score": 262,
+    "comments": 111,
+    "id": 49123386,
+    "discussion_url": "https://news.ycombinator.com/item?id=49123386",
+    "description": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.339937"
+  },
+  {
+    "title": "Severance",
+    "url": "https://lcamtuf.substack.com/p/severance",
+    "author": "surprisetalk",
+    "date": "2026-07-31",
+    "score": 245,
+    "comments": 80,
+    "id": 49125971,
+    "discussion_url": "https://news.ycombinator.com/item?id=49125971",
+    "description": "Severance",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.340160"
+  },
+  {
+    "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+    "url": "https://code.intellios.ai/cwbrowser/",
+    "author": "coolwulf",
+    "date": "2026-07-31",
+    "score": 123,
+    "comments": 38,
+    "id": 49128826,
+    "discussion_url": "https://news.ycombinator.com/item?id=49128826",
+    "description": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.340146"
+  },
+  {
+    "title": "Software for One",
+    "url": "https://www.ajwaxman.com/writing/software-for-one",
+    "author": "awaxman11",
     "date": "2026-07-29",
-    "score": 63,
-    "comments": 1,
-    "id": 49088098,
-    "discussion_url": "https://news.ycombinator.com/item?id=49088098",
-    "description": "Simulating TCP loss and congestion in browser using Go/WASM",
+    "score": 129,
+    "comments": 109,
+    "id": 49096605,
+    "discussion_url": "https://news.ycombinator.com/item?id=49096605",
+    "description": "Software for One",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.627483"
+    "fetched_at": "2026-08-01T11:29:54.339985"
   },
   {
-    "title": "Situational Awareness down 67% in July in AI stock rout",
-    "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-    "author": "pondsider",
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "author": "bluehatbrit",
     "date": "2026-07-31",
-    "score": 107,
-    "comments": 105,
-    "id": 49122994,
-    "discussion_url": "https://news.ycombinator.com/item?id=49122994",
-    "description": "Situational Awareness down 67% in July in AI stock rout",
+    "score": 557,
+    "comments": 206,
+    "id": 49127306,
+    "discussion_url": "https://news.ycombinator.com/item?id=49127306",
+    "description": "Tailscale didn't stop the Hugging Face intrusion",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626563"
+    "fetched_at": "2026-08-01T11:29:54.340069"
+  },
+  {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "author": "milkshakes",
+    "date": "2026-08-01",
+    "score": 143,
+    "comments": 104,
+    "id": 49132058,
+    "discussion_url": "https://news.ycombinator.com/item?id=49132058",
+    "description": "Ten advances in mathematics and theoretical computer science",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.339966"
+  },
+  {
+    "title": "The Absurdity of Albert Camus",
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "author": "apollinaire",
+    "date": "2026-07-30",
+    "score": 134,
+    "comments": 58,
+    "id": 49117089,
+    "discussion_url": "https://news.ycombinator.com/item?id=49117089",
+    "description": "The Absurdity of Albert Camus",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.340017"
   },
   {
     "title": "The End of an Era",
     "url": "https://hughhowey.com/the-end-of-an-era/",
     "author": "harscoat",
     "date": "2026-07-31",
-    "score": 284,
-    "comments": 321,
+    "score": 414,
+    "comments": 432,
     "id": 49121980,
     "discussion_url": "https://news.ycombinator.com/item?id=49121980",
     "description": "The End of an Era",
@@ -269,108 +456,57 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626785"
+    "fetched_at": "2026-08-01T11:29:54.340110"
   },
   {
-    "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-    "url": "https://arxiv.org/abs/2607.27197",
-    "author": "rahen",
+    "title": "The most official water costs $120k a gallon",
+    "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "author": "surprisetalk",
     "date": "2026-07-31",
-    "score": 109,
-    "comments": 99,
-    "id": 49121868,
-    "discussion_url": "https://news.ycombinator.com/item?id=49121868",
-    "description": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+    "score": 198,
+    "comments": 151,
+    "id": 49124042,
+    "discussion_url": "https://news.ycombinator.com/item?id=49124042",
+    "description": "The most official water costs $120k a gallon",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626524"
+    "fetched_at": "2026-08-01T11:29:54.340009"
   },
   {
-    "title": "The Religion of Speed",
-    "url": "https://graybeard.ing/the-religion-of-speed/",
-    "author": "MobiusHorizons",
-    "date": "2026-07-31",
-    "score": 256,
-    "comments": 131,
-    "id": 49117284,
-    "discussion_url": "https://news.ycombinator.com/item?id=49117284",
-    "description": "The Religion of Speed",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.627220"
-  },
-  {
-    "title": "The mean means nothing: data visualization to debug a latency problem",
-    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-    "author": "fanf2",
-    "date": "2026-07-29",
-    "score": 101,
-    "comments": 17,
-    "id": 49096170,
-    "discussion_url": "https://news.ycombinator.com/item?id=49096170",
-    "description": "The mean means nothing: data visualization to debug a latency problem",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.627100"
-  },
-  {
-    "title": "The session you cannot take with you",
-    "url": "https://earendil.com/posts/session-portability/",
-    "author": "apitman",
-    "date": "2026-07-31",
-    "score": 668,
-    "comments": 190,
-    "id": 49118781,
-    "discussion_url": "https://news.ycombinator.com/item?id=49118781",
-    "description": "The session you cannot take with you",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.626923"
-  },
-  {
-    "title": "U.S. debt-to-GDP ratio reaches 123%",
-    "url": "https://fred.stlouisfed.org/series/GFDEGDQ188S",
-    "author": "johnbarron",
-    "date": "2026-08-01",
-    "score": 86,
-    "comments": 107,
-    "id": 49123258,
-    "discussion_url": "https://news.ycombinator.com/item?id=49123258",
-    "description": "U.S. debt-to-GDP ratio reaches 123%",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.627301"
-  },
-  {
-    "title": "Where USB Memory Sticks are Born (2013)",
-    "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
-    "author": "jacquesm",
+    "title": "Twenty-five years ago it was cryptography, today it's model weights",
+    "url": "https://weeraman.com/because-we-can/",
+    "author": "aweeraman",
     "date": "2026-07-28",
-    "score": 90,
-    "comments": 8,
-    "id": 49077372,
-    "discussion_url": "https://news.ycombinator.com/item?id=49077372",
-    "description": "Where USB Memory Sticks are Born (2013)",
+    "score": 246,
+    "comments": 127,
+    "id": 49083599,
+    "discussion_url": "https://news.ycombinator.com/item?id=49083599",
+    "description": "Twenty-five years ago it was cryptography, today it's model weights",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-01T03:06:54.627369"
+    "fetched_at": "2026-08-01T11:29:54.340090"
+  },
+  {
+    "title": "qm – Multiplayer agent harness for work",
+    "url": "https://github.com/yc-software/qm",
+    "author": "tosh",
+    "date": "2026-07-31",
+    "score": 584,
+    "comments": 121,
+    "id": 49126604,
+    "discussion_url": "https://news.ycombinator.com/item?id=49126604",
+    "description": "qm – Multiplayer agent harness for work",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-01T11:29:54.339946"
   }
 ]
