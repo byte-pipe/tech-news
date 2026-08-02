@@ -1,0 +1,99 @@
+---
+title: Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn | LGBTQ+ rights | The Guardian
+url: https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn
+site_name: newsfeed
+content_file: newsfeed-anti-lgbtq-laws-are-on-the-rise-across-west-africa
+fetched_at: '2026-08-02T19:29:06.749725'
+original_url: https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn
+date: '2026-08-02'
+published_date: '2026-08-02T04:00:11.000Z'
+description: Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’
+tags:
+- guardian
+- lgbtq+ rights
+- africa
+- world news
+---
+
+African leaders who are toughening anti-LGBTQ+ laws have been accused of ‘political opportunism’ by campaigners.
+ Photograph: Ben Curtis/AP
+View image in fullscreen
+African leaders who are toughening anti-LGBTQ+ laws have been accused of ‘political opportunism’ by campaigners.
+ Photograph: Ben Curtis/AP
+
+# Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn
+
+Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’
+
+A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures and a global pushback against LGBTQ+ rights.
+
+In March, Senegaldoubled the maximum prison sentencefor gay sex to 10 years and criminalised the “promotion” of homosexuality. Niger criminalised“sexual relations with a person of the same sex”in February, the first time same-sex intimacy had been outlawed in the country.
+
+MaliandBurkina Faso, which neighbours Niger, also criminalised same-sex relations for the first time in the last two years. All three are ruled by military juntas.
+
+In June, Ghana, which already outlaws gay sex, passed a lawcriminalising LGBTQ+ “activities”. The bill, which hasn’t been signed into law by the president, is the latest iteration of a bill that wasfirst introduced in 2021.
+
+“What I see in all of them is a political opportunism,” said Anthony Oluoch of PanAfricaILGA, a continental LGBT+ rights campaign group.
+
+In some countries, he said, the new or harsher laws had been backed by religious groups and campaigns for “family values”, while inBurkina Faso, whose population is predominantly Muslim, the law was framed as boosting its sovereignty in opposition to the west. “Underneath that all, there’s a lot of transnational reinforcement,” Oluoch added.
+
+LGBTQ+ people “are the easiest scapegoats to maintain their power”, said an activist in Burkina Faso, who could not be named for her security.
+
+The impact on the community, even before the law was implemented, has been devastating, activists said. Thirteen transgender women were detained without trial from June to November last year, a HIV worker said, with the women reporting they had been beaten by a military unit that imprisoned them. After the law was passed, there have beenat least twosets of convictions.
+
+Police are entrapping LGBTQ+ people on social media and demanding they denounce other community members, said the HIV worker, who fled the country in May after he was named by someone who had been arrested.
+
+Despite military president Ibrahim Traoré’santi-western rhetoric, Burkina Faso has also caught the eye of anti-LGBTQ+ campaigners that include conservative, western Christian groups.
+
+View image in fullscreen
+Ibrahim Traoré, the president of Burkina Faso, which has criminalised same-sex relations for the first time.
+ Photograph: Stanislav Krasilnikov/AP
+
+The African Inter-Parliamentary Conference on Family Values and Sovereignty, a forum that many argue has influenced anti-LGBTQ+ laws on the continent, will be held in Burkina Faso and then Eswatini (formerly Swaziland) next year, it wasannouncedthis year.
+
+The first three conferences were held annually in Uganda, in east Africa, beginning in 2023. Ugandaimposed the death penaltyfor some same-sex sexual acts that year.
+
+According to US-based international reproductive rights organisation Ipas, the annual gatherings are supported byFamily Watch International(FWI), an Arizona-based Christian campaign group that opposes abortion and comprehensive sex education (CSE). Alsoin attendancehas been Dutch-founded lobby group Christian Council International, which promotes similar views.
+
+At this year’s conference, hosted by Ghana’s parliament in June, the draft African Charter on Family Sovereignty and Values treatywas drawn up. It condemns abortion and CSE, states that gender is either male or female, and asserts that parental rights supersede children’s. A draft copy was published onFWI’s website.
+
+The anti-LGBTQ+ bill passed by Ghana’s parliament is a “very effective political tool”, supported by powerful religious organisations in the country, said Amanda Odoi, a researcher at the University of Cape Coast.
+
+Nonetheless, Odoi added: “These international actors were very key in empowering, supporting, funding, financing and giving voice to the anti-LGBT campaign.”
+
+She noted the Ghana bill’s similarity to Uganda’s law, as well as its “alphabet soup” –the billuses the acronym “LGBTTQAP+” – that includes words like “questioning” not commonly used in Ghana.
+
+View image in fullscreen
+Ghana has passed a law criminalising LGBTQ+ ‘activities’.
+ Photograph: Eleventh Hour Photography/Alamy
+
+Bringing this year’s African parliamentary conference to Ghana was a deliberate decision due to the country’s influence on the continent, said Ebenezer Peegah, executive director of Rightify Ghana, an NGO that supports LGBTQ+ people.
+
+“Ghana has a lot of credentials thatUgandadoes not have … some clout that other countries in Africa do not have,” said Peegah, listing Ghana’s stable democracy, free and fair elections and relative press freedom.
+
+Across west Africa, LGBTQ+ people are suffering the consequences of the new and harsher laws. In Senegal, the law is alsohindering HIV preventionfor men who have sex with men and transgender women, who have higher rates of HIV prevalence, as well as lawyers representing LGBTQ+ people, said Marame Kane, a French-Senegalese activist based in Paris.
+
+Trump’s HIV funding cuts having ‘severe and devastating’ impact around the world
+Read more
+
+About 100 Senegalese people fled to the Gambia this year, although most had to return toSenegalas they had no money, according to a Gambian HIV worker.
+
+Same-sex relations are alreadypunishablewith up to life in prison in the Gambia, while transgender women are criminalised by a cross-dressing ban. However, the HIV worker worried that the government could strengthen the laws, making HIV services even harder to provide.
+
+The crackdown in Senegal had also increased homophobia in the Gambia, he said, adding, “Gambia and Senegal share the same culture, the same religion, literally everything.”
+
+Explore more on these topics
+* LGBTQ+ rights
+* Africa
+* Burkina Faso
+* Senegal
+* Niger
+* Nigeria
+* Uganda
+* news
+Share
+Reuse this content
+
+## Most viewed
+
+## Most viewed
