@@ -1,197 +1,212 @@
 [
   {
-    "title": "Autoregressive Language Model on the 6502 Processor",
-    "url": "https://mattbeton.com/blog/bitnet-6502.html",
-    "description": "Autoregressive Language Model on the 6502 Processor",
-    "date": "2026-07-31",
-    "score": 117,
-    "comments": 10,
-    "discussion_url": "https://news.ycombinator.com/item?id=49122655",
+    "title": "AirLLM 70B inference with single 4GB GPU",
+    "url": "https://github.com/lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "date": "2026-08-03",
+    "score": 151,
+    "comments": 53,
+    "discussion_url": "https://news.ycombinator.com/item?id=49154228",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818469"
+    "fetched_at": "2026-08-03T19:33:29.957370"
   },
   {
-    "title": "Developers are attached to tools because tools encode trust",
-    "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-    "description": "Developers are attached to tools because tools encode trust",
-    "date": "2026-07-29",
-    "score": 223,
-    "comments": 122,
-    "discussion_url": "https://news.ycombinator.com/item?id=49097961",
+    "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+    "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+    "description": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+    "date": "2026-08-03",
+    "score": 186,
+    "comments": 42,
+    "discussion_url": "https://news.ycombinator.com/item?id=49156011",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818492"
+    "fetched_at": "2026-08-03T19:33:29.957322"
+  },
+  {
+    "title": "Bonsai: Janestreet's UI Library",
+    "url": "https://github.com/janestreet/bonsai",
+    "description": "Bonsai: Janestreet's UI Library",
+    "date": "2026-08-03",
+    "score": 251,
+    "comments": 94,
+    "discussion_url": "https://news.ycombinator.com/item?id=49152842",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-03T19:33:29.957415"
+  },
+  {
+    "title": "Devtools must be open source",
+    "url": "https://blog.exe.dev/devtools-must-be-open-source",
+    "description": "Devtools must be open source",
+    "date": "2026-08-03",
+    "score": 345,
+    "comments": 128,
+    "discussion_url": "https://news.ycombinator.com/item?id=49156111",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-03T19:33:29.957307"
   },
   {
     "title": "Don't be a meat proxy",
     "url": "https://gruhn.me/blog/2026-08-03/",
     "description": "Don't be a meat proxy",
     "date": "2026-08-03",
-    "score": 808,
-    "comments": 356,
+    "score": 1546,
+    "comments": 646,
     "discussion_url": "https://news.ycombinator.com/item?id=49151933",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818375"
+    "fetched_at": "2026-08-03T19:33:29.957438"
   },
   {
-    "title": "Note-Taking and Personal Knowledge Management",
-    "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
-    "description": "Note-Taking and Personal Knowledge Management",
+    "title": "How Hollywood stopped making movies in Hollywood",
+    "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+    "description": "How Hollywood stopped making movies in Hollywood",
     "date": "2026-07-28",
-    "score": 211,
-    "comments": 73,
-    "discussion_url": "https://news.ycombinator.com/item?id=49084324",
+    "score": 121,
+    "comments": 114,
+    "discussion_url": "https://news.ycombinator.com/item?id=49082937",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818503"
+    "fetched_at": "2026-08-03T19:33:29.957460"
+  },
+  {
+    "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+    "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+    "description": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+    "date": "2026-08-03",
+    "score": 196,
+    "comments": 56,
+    "discussion_url": "https://news.ycombinator.com/item?id=49155629",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-03T19:33:29.957334"
   },
   {
     "title": "Prevent cognitive debt by manually retyping LLM-generated code",
     "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
     "description": "Prevent cognitive debt by manually retyping LLM-generated code",
     "date": "2026-08-03",
-    "score": 112,
-    "comments": 86,
+    "score": 312,
+    "comments": 267,
     "discussion_url": "https://news.ycombinator.com/item?id=49153374",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818337"
+    "fetched_at": "2026-08-03T19:33:29.957390"
   },
   {
     "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
     "url": "https://qwen.ai/blog?id=qwen3.8",
     "description": "Qwen3.8-Max: A New Bar for Coding and Cowork",
     "date": "2026-08-03",
-    "score": 678,
-    "comments": 338,
+    "score": 993,
+    "comments": 529,
     "discussion_url": "https://news.ycombinator.com/item?id=49150470",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818387"
+    "fetched_at": "2026-08-03T19:33:29.957449"
   },
   {
     "title": "Rust project goals: Immobile types and guaranteed destructors",
     "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
     "description": "Rust project goals: Immobile types and guaranteed destructors",
     "date": "2026-08-03",
-    "score": 106,
-    "comments": 28,
+    "score": 205,
+    "comments": 78,
     "discussion_url": "https://news.ycombinator.com/item?id=49152023",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818361"
+    "fetched_at": "2026-08-03T19:33:29.957427"
   },
   {
-    "title": "Show HN: A Handwritten Blogging Platform",
-    "url": "https://handwritten.blog/",
-    "description": "Show HN: A Handwritten Blogging Platform",
-    "date": "2026-07-31",
-    "score": 124,
-    "comments": 64,
-    "discussion_url": "https://news.ycombinator.com/item?id=49119751",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818480"
-  },
-  {
-    "title": "Show HN: Isopolis – Isometric pixel map of SF",
-    "url": "https://sf.isopolis.city/",
-    "description": "Show HN: Isopolis – Isometric pixel map of SF",
+    "title": "SQLite Critical CVEs or LLM Slop?",
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "description": "SQLite Critical CVEs or LLM Slop?",
     "date": "2026-08-03",
-    "score": 244,
-    "comments": 52,
-    "discussion_url": "https://news.ycombinator.com/item?id=49149966",
+    "score": 669,
+    "comments": 303,
+    "discussion_url": "https://news.ycombinator.com/item?id=49154332",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818399"
+    "fetched_at": "2026-08-03T19:33:29.957359"
   },
   {
-    "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-    "url": "https://github.com/wie-project/kakehashi",
-    "description": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-    "date": "2026-08-02",
-    "score": 225,
-    "comments": 58,
-    "discussion_url": "https://news.ycombinator.com/item?id=49145937",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818457"
-  },
-  {
-    "title": "Show HN: ssh ssh.place",
-    "url": "https://ssh.place",
-    "description": "Show HN: ssh ssh.place",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "description": "Ten advances in mathematics and theoretical computer science",
     "date": "2026-08-03",
-    "score": 130,
-    "comments": 75,
-    "discussion_url": "https://news.ycombinator.com/item?id=49149805",
+    "score": 185,
+    "comments": 463,
+    "discussion_url": "https://news.ycombinator.com/item?id=49157930",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818411"
+    "fetched_at": "2026-08-03T19:33:29.957284"
   },
   {
-    "title": "SwiftUI After 7 Years",
-    "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-    "description": "SwiftUI After 7 Years",
-    "date": "2026-08-02",
-    "score": 210,
-    "comments": 200,
-    "discussion_url": "https://news.ycombinator.com/item?id=49147263",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818444"
-  },
-  {
-    "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-    "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-    "description": "Why Book Corners won't sync contributions back to OpenStreetMap",
+    "title": "What DMARC Protects You From, and What It Does Not",
+    "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+    "description": "What DMARC Protects You From, and What It Does Not",
     "date": "2026-08-03",
-    "score": 113,
-    "comments": 69,
-    "discussion_url": "https://news.ycombinator.com/item?id=49149746",
+    "score": 110,
+    "comments": 29,
+    "discussion_url": "https://news.ycombinator.com/item?id=49153361",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-03T12:06:55.818423"
+    "fetched_at": "2026-08-03T19:33:29.957403"
+  },
+  {
+    "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+    "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+    "description": "Wind and solar overtake fossil fuels in Germany for the first time",
+    "date": "2026-08-03",
+    "score": 230,
+    "comments": 133,
+    "discussion_url": "https://news.ycombinator.com/item?id=49155359",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-03T19:33:29.957346"
   }
 ]
