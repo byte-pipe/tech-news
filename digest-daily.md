@@ -1,61 +1,66 @@
 ---
-date: '2026-08-03'
+date: '2026-08-04'
 model: gpt-oss:120b-cloud
-generated_at: '2026-08-03T20:05:33.448827'
+generated_at: '2026-08-04T06:02:38.316658'
 ---
 
 ## Executive Summary
-- AI deployment remains a friction point for enterprises, with new startups like June promising automated integration roadmaps while developers grapple with “meat proxy” practices that dilute human judgment.  
-- The fast‑food industry is accelerating AI adoption in drive‑thrus, despite early accuracy woes, and AI‑enhanced code review processes are being re‑imagined to keep pace with generative models.  
-- Geopolitical de‑escalation in the Strait of Hormuz and a pending Fed rate decision are stabilizing crypto markets, while rising data‑center opposition in the U.S. threatens the compute capacity needed for AI workloads.  
+- A small Canadian town is finally dismantling a two‑decade‑old fish‑sauce waste site, offering a rare glimpse into ultra‑long‑term fermentation chemistry and a boost to local quality of life.  
+- Open‑source AI and cloud partnerships are expanding, highlighted by OpenAI’s experimental “Agent” ad format and AWS’s multi‑year deal with vibe‑coding startup Superblocks.  
+- A major data breach at biotech giant Amgen exposed patient health records, underscoring persistent cybersecurity risks in the healthcare sector.  
+- Norway’s salmon farming empire faces mounting environmental criticism as oxygen depletion and algal blooms threaten fjord ecosystems.  
+- New software tooling—including the compiled‑React‑style Octane framework and Rust’s proposed “Move” auto‑traits—promises performance gains and safer language semantics.
 
----
+---  
 
-## AI and Machine Learning
+## AI and Machine Learning  
 
-### Don’t be a meat proxy [Hacker News]  
-AI‑generated replies are being passed verbatim in Slack, PRs, and chats, creating extra work and spreading misinformation. The author urges users to verify, understand, and rewrite AI output to add genuine value.
+### Let Me And A Food Scientist Sample The Abandoned Fish Sauce Terrorizing A Small Canadian Town | Defector  
+- Residents of St. Mary’s, Newfoundland, are watching engineers remove 110 vats of 20‑year‑old fermented capelin, a process that will end a decades‑long odor problem and provide unique data on ultra‑slow microbial and Maillard chemistry.  
 
-### “Crush this lady”: eBay harassment payout [Financial Times – subscription only]  
-The article is behind a paywall; no substantive excerpt is available, so a summary cannot be provided.
+### Author Correction: Cucurbituril‑based anion‑conducting membranes with supramolecular nanopores | Nature  
+- Nature issued a correction fixing several figures and methodological details in the original June‑2026 paper on cucurbituril membranes, ensuring the record now reflects accurate structural data and simulation parameters.  
 
-### 15 Best Office Chairs of 2026—We Tested 70 to Pick Them [WIRED]  
-WIRED’s refreshed guide ranks 15 chairs from premium (Steelcase Gesture, $1,510) to budget (Staples Essentials, $169), emphasizing adjustability, breathability, and warranty. The Branch Ergonomic Chair Pro is highlighted as the best all‑round home‑office option.
+### Chunking: How to Design for a Brain That Can Only Hold Four Things – Unmatched Style | TLDR  
+- The article revisits call‑to‑action design, stressing modern requirements for visual prominence, concise copy, mobile‑friendly tap targets, and accessibility, illustrated through three leading design systems.  
 
-### A Marc Benioff‑backed startup thinks AI can solve the AI deployment problem [TechCrunch]  
-June, founded by ex‑Salesforce execs and backed by a $20 M pre‑seed round led by Marc Benioff, offers an automated mapping and rollout tool that translates legacy‑system complexity into step‑by‑step AI integration plans, aiming to replace costly forward‑deployed engineers.
+### OpenAI ChatGPT Ads Manager With Business Agent Conversation Campaign Type | TLDR  
+- OpenAI is piloting an “Agent” ad format that redirects users from a traditional landing page to a conversational Business Agent built from scraped website data, a feature currently limited to a select group of advertisers and signaling a shift toward chatbot‑native advertising.  
 
-### AI Conquered Coding. Fast Food Is Next [WIRED]  
-AI voice assistants are now in roughly 6 % of U.S. drive‑thrus, with Taco Bell, Dairy Queen, White Castle and others piloting systems that cut order time by ~21 seconds but still suffer from accuracy and accent‑recognition issues. Companies view AI as a long‑term efficiency boost while retaining human fallback options.
+---  
 
-### Bitcoin holds firm as Hormuz hostilities pause, Fed prepares interest‑rate decision [TLDR]  
-Bitcoin steadied near $62.5k after oil price drops eased inflation worries; Ether nudged toward $2k. Short‑position liquidations and bullish ETH futures open interest suggest upside potential, while the Fed’s upcoming rate decision remains the primary market catalyst.
+## Cybersecurity and Privacy  
 
-### Code Review (As We Know It) Must Die [TLDR]  
-The author argues that AI‑generated code makes traditional diff‑centric reviews a bottleneck. A new workflow is proposed: design alignment before coding, high‑level change descriptions, adversarial AI checks, evidence of test success, and risk‑based routing to focus human review where it matters most.
+### Amgen says cloud data breach exposed patient health, proprietary info | TLDR  
+- Amgen disclosed unauthorized activity in its cloud environment in July 2026, resulting in the exfiltration of protected health information and proprietary data; investigations are ongoing, and the company is preparing patient notifications while assessing regulatory impacts.  
 
-### DNS is infrastructure. It’s time to manage it that way. [The New Stack]  
-The piece is a subscription form notice rather than editorial content; no substantive analysis of DNS management is provided.
+---  
 
-### Qwen [Hacker News]  
-No article text was supplied, so a summary cannot be generated.
+## Software Engineering and Dev Tools  
 
----
+### Norway became a global salmon behemoth. Now it's facing the consequences | ABC News  
+- Norway’s salmon farming, now supplying over half the world’s farmed Atlantic salmon, is under scrutiny as open‑net pens contribute to nutrient runoff, algal blooms, and significant oxygen depletion in fjords, prompting regulatory push‑back and debates over the industry’s sustainability.  
 
-## Software Engineering and Dev Tools
+### Octane — React's programming model, compiled | Hacker News  
+- Octane introduces a compiler‑first approach that removes the virtual DOM and automates hook dependency tracking, delivering performance comparable to or better than React while allowing incremental migration via the OctaneCompat layer.  
 
-### isopolis — san francisco [Hacker News]  
-A simple map visualizes San Francisco’s Isopolis neighborhood using OpenStreetMap and CARTO data, layered with DataSF’s neighborhood boundaries.
+### Immobile types and guaranteed destructors (Rust move‑trait proposal) | GitHub  
+- The Rust community proposes new auto‑traits—`Move`, `Forget`, and `Destruct`—to make immovability and guaranteed destructor execution explicit at the type level, aiming to simplify async‑future handling and replace the complex `Pin` ergonomics.  
 
-### More German than many Germans [Hacker News]  
-A Turkish developer recounts an Erasmus internship in Hamburg, describing unexpected trust, flat‑hierarchies, and inclusive workplace culture that contradicted common stereotypes about German rigidity. The experience led to a full‑time contract, strong professional relationships, and a belief in merit‑based advancement.
+### AWS is helping vibe‑coding startup Superblocks, and the implications are big | TechCrunch  
+- AWS has entered a multi‑year marketing partnership with Superblocks, embedding its vibe‑coding platform into private clouds and integrating Amazon Bedrock for AI inference, reflecting a broader move toward secure, enterprise‑hosted AI development tools.  
 
-### Qwen [Hacker News]  
-Content missing; summary unavailable.
+### Base Power raises another $1B to save the grid using backyard batteries | TechCrunch  
+- Energy storage startup Base Power secured a $1 billion Series D round, expanding its residential‑battery business that installs 39.2 kWh units in homes to alleviate grid stress, especially in fast‑growing Texas and Illinois markets.  
 
----
+---  
 
-## Cloud and Infrastructure
+## Science and Research  
 
-### Data center backlash could slow CIOs’ AI plans [TLDR]  
-Rising community opposition and new large‑load tariffs in dozens of U.S. states are curbing data‑center construction, threatening the compute capacity needed for AI projects. CIOs are advised to treat power and compute as strategic supply‑chain risks, diversify providers and regions, and negotiate long‑term capacity contracts to mitigate cost and latency pressures.
+### Author Correction: Maturation and circuit integration of transplanted human cortical organoids | Nature  
+- Nature corrected a duplicated figure in the 2022 study on human cortical organoid transplantation, replacing the erroneous panel to accurately depict circuit integration results.  
+
+---  
+
+## Notable Mentions
+- *(No additional mentions were provided in today’s briefing.)*
