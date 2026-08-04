@@ -1,11 +1,28 @@
 [
   {
+    "title": "200 Milliseconds",
+    "url": "https://200ms.thenodebook.com",
+    "author": "dimitarpanov",
+    "date": "2026-08-01",
+    "score": 297,
+    "comments": 90,
+    "id": 49132992,
+    "discussion_url": "https://news.ycombinator.com/item?id=49132992",
+    "description": "200 Milliseconds",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-04T11:45:59.309957"
+  },
+  {
     "title": "AirLLM 70B inference with single 4GB GPU",
     "url": "https://github.com/lyogavin/airllm",
     "author": "Anon84",
     "date": "2026-08-03",
-    "score": 154,
-    "comments": 56,
+    "score": 222,
+    "comments": 80,
     "id": 49154228,
     "discussion_url": "https://news.ycombinator.com/item?id=49154228",
     "description": "AirLLM 70B inference with single 4GB GPU",
@@ -14,15 +31,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146460"
+    "fetched_at": "2026-08-04T11:45:59.309982"
+  },
+  {
+    "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+    "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+    "author": "marojejian",
+    "date": "2026-07-29",
+    "score": 169,
+    "comments": 138,
+    "id": 49099336,
+    "discussion_url": "https://news.ycombinator.com/item?id=49099336",
+    "description": "Amazonian civilization had estimated 3M people in 3% of forest area",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-04T11:45:59.309920"
   },
   {
     "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
     "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
     "author": "nikolay_sivko",
-    "date": "2026-08-04",
-    "score": 196,
-    "comments": 44,
+    "date": "2026-08-03",
+    "score": 318,
+    "comments": 67,
     "id": 49156011,
     "discussion_url": "https://news.ycombinator.com/item?id=49156011",
     "description": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
@@ -31,32 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.145939"
+    "fetched_at": "2026-08-04T11:45:59.309947"
   },
   {
-    "title": "Autoregressive Language Model on the 6502 Processor",
-    "url": "https://mattbeton.com/blog/bitnet-6502.html",
-    "author": "nmstoker",
-    "date": "2026-07-31",
-    "score": 129,
-    "comments": 12,
-    "id": 49122655,
-    "discussion_url": "https://news.ycombinator.com/item?id=49122655",
-    "description": "Autoregressive Language Model on the 6502 Processor",
+    "title": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+    "author": "meetpateltech",
+    "date": "2026-08-04",
+    "score": 214,
+    "comments": 205,
+    "id": 49164649,
+    "discussion_url": "https://news.ycombinator.com/item?id=49164649",
+    "description": "Apple is getting this wrong",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146798"
+    "fetched_at": "2026-08-04T11:45:59.310011"
   },
   {
     "title": "Bonsai: Janestreet's UI Library",
     "url": "https://github.com/janestreet/bonsai",
     "author": "KolmogorovComp",
     "date": "2026-08-03",
-    "score": 254,
-    "comments": 96,
+    "score": 364,
+    "comments": 148,
     "id": 49152842,
     "discussion_url": "https://news.ycombinator.com/item?id=49152842",
     "description": "Bonsai: Janestreet's UI Library",
@@ -65,32 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146258"
-  },
-  {
-    "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-    "url": "https://github.com/johnsonjh/cpm386",
-    "author": "TMWNN",
-    "date": "2026-08-03",
-    "score": 91,
-    "comments": 47,
-    "id": 49149898,
-    "discussion_url": "https://news.ycombinator.com/item?id=49149898",
-    "description": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146682"
+    "fetched_at": "2026-08-04T11:45:59.309960"
   },
   {
     "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
     "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
     "author": "roryirvine",
-    "date": "2026-08-04",
-    "score": 73,
-    "comments": 25,
+    "date": "2026-08-03",
+    "score": 168,
+    "comments": 43,
     "id": 49158474,
     "discussion_url": "https://news.ycombinator.com/item?id=49158474",
     "description": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
@@ -99,15 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146343"
+    "fetched_at": "2026-08-04T11:45:59.309954"
+  },
+  {
+    "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed",
+    "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
+    "author": "ohjeez",
+    "date": "2026-07-31",
+    "score": 248,
+    "comments": 258,
+    "id": 49125168,
+    "discussion_url": "https://news.ycombinator.com/item?id=49125168",
+    "description": "Decades-old fish sauce at abandoned factory in Canada finally being removed",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-04T11:45:59.309975"
   },
   {
     "title": "Devtools must be open source",
     "url": "https://blog.exe.dev/devtools-must-be-open-source",
     "author": "bryanmikaelian",
-    "date": "2026-08-04",
-    "score": 368,
-    "comments": 134,
+    "date": "2026-08-03",
+    "score": 630,
+    "comments": 208,
     "id": 49156111,
     "discussion_url": "https://news.ycombinator.com/item?id=49156111",
     "description": "Devtools must be open source",
@@ -116,32 +150,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.145919"
+    "fetched_at": "2026-08-04T11:45:59.309907"
   },
   {
-    "title": "Don't be a meat proxy",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "author": "ngruhn",
-    "date": "2026-08-03",
-    "score": 1568,
-    "comments": 648,
-    "id": 49151933,
-    "discussion_url": "https://news.ycombinator.com/item?id=49151933",
-    "description": "Don't be a meat proxy",
+    "title": "FFmpeg 9.0",
+    "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+    "author": "gyan",
+    "date": "2026-08-04",
+    "score": 219,
+    "comments": 41,
+    "id": 49166202,
+    "discussion_url": "https://news.ycombinator.com/item?id=49166202",
+    "description": "FFmpeg 9.0",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146048"
+    "fetched_at": "2026-08-04T11:45:59.309883"
+  },
+  {
+    "title": "Harness Engineering for Self-Improvement",
+    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+    "author": "tosh",
+    "date": "2026-08-04",
+    "score": 84,
+    "comments": 11,
+    "id": 49164896,
+    "discussion_url": "https://news.ycombinator.com/item?id=49164896",
+    "description": "Harness Engineering for Self-Improvement",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-04T11:45:59.309868"
   },
   {
     "title": "How Hollywood stopped making movies in Hollywood",
     "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
     "author": "speckx",
     "date": "2026-07-28",
-    "score": 128,
-    "comments": 122,
+    "score": 202,
+    "comments": 245,
     "id": 49082937,
     "discussion_url": "https://news.ycombinator.com/item?id=49082937",
     "description": "How Hollywood stopped making movies in Hollywood",
@@ -150,15 +201,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146188"
+    "fetched_at": "2026-08-04T11:45:59.309972"
+  },
+  {
+    "title": "LLMs reward expertise",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "author": "MaxMussio",
+    "date": "2026-08-03",
+    "score": 1021,
+    "comments": 435,
+    "id": 49161518,
+    "discussion_url": "https://news.ycombinator.com/item?id=49161518",
+    "description": "LLMs reward expertise",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-04T11:45:59.309876"
+  },
+  {
+    "title": "Massively Parallel Postgres Backups",
+    "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+    "author": "ksec",
+    "date": "2026-07-31",
+    "score": 109,
+    "comments": 12,
+    "id": 49124213,
+    "discussion_url": "https://news.ycombinator.com/item?id=49124213",
+    "description": "Massively Parallel Postgres Backups",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-04T11:45:59.309997"
   },
   {
     "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
     "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
     "author": "vblanco",
     "date": "2026-08-03",
-    "score": 202,
-    "comments": 58,
+    "score": 304,
+    "comments": 87,
     "id": 49155629,
     "discussion_url": "https://news.ycombinator.com/item?id=49155629",
     "description": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
@@ -167,49 +252,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146326"
+    "fetched_at": "2026-08-04T11:45:59.309941"
   },
   {
-    "title": "Norway became a global salmon behemoth. Now it's facing the consequences",
-    "url": "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872",
-    "author": "CHB0403085482",
-    "date": "2026-07-28",
-    "score": 195,
-    "comments": 142,
-    "id": 49078283,
-    "discussion_url": "https://news.ycombinator.com/item?id=49078283",
-    "description": "Norway became a global salmon behemoth. Now it's facing the consequences",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146716"
-  },
-  {
-    "title": "Octane – React’s programming model, compiled",
-    "url": "https://octanejs.dev",
-    "author": "nnx",
+    "title": "More German than many Germans",
+    "url": "https://mertbulan.com/more-german-than-many-germans/",
+    "author": "mertbio",
     "date": "2026-08-03",
-    "score": 114,
-    "comments": 40,
-    "id": 49152640,
-    "discussion_url": "https://news.ycombinator.com/item?id=49152640",
-    "description": "Octane – React’s programming model, compiled",
+    "score": 558,
+    "comments": 406,
+    "id": 49151734,
+    "discussion_url": "https://news.ycombinator.com/item?id=49151734",
+    "description": "More German than many Germans",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146136"
+    "fetched_at": "2026-08-04T11:45:59.309979"
   },
   {
     "title": "Prevent cognitive debt by manually retyping LLM-generated code",
     "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
     "author": "mpweiher",
     "date": "2026-08-03",
-    "score": 318,
-    "comments": 269,
+    "score": 500,
+    "comments": 411,
     "id": 49153374,
     "discussion_url": "https://news.ycombinator.com/item?id=49153374",
     "description": "Prevent cognitive debt by manually retyping LLM-generated code",
@@ -218,15 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.145836"
+    "fetched_at": "2026-08-04T11:45:59.309904"
   },
   {
     "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
     "url": "https://qwen.ai/blog?id=qwen3.8",
     "author": "ai2027",
     "date": "2026-08-03",
-    "score": 1001,
-    "comments": 534,
+    "score": 1080,
+    "comments": 581,
     "id": 49150470,
     "discussion_url": "https://news.ycombinator.com/item?id=49150470",
     "description": "Qwen3.8-Max: A New Bar for Coding and Cowork",
@@ -235,32 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.145897"
-  },
-  {
-    "title": "Rust project goals: Immobile types and guaranteed destructors",
-    "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-    "author": "paavohtl",
-    "date": "2026-08-03",
-    "score": 209,
-    "comments": 83,
-    "id": 49152023,
-    "discussion_url": "https://news.ycombinator.com/item?id=49152023",
-    "description": "Rust project goals: Immobile types and guaranteed destructors",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.145876"
+    "fetched_at": "2026-08-04T11:45:59.309994"
   },
   {
     "title": "SQLite Critical CVEs or LLM Slop?",
     "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
     "author": "ymir_e",
     "date": "2026-08-03",
-    "score": 674,
-    "comments": 315,
+    "score": 713,
+    "comments": 365,
     "id": 49154332,
     "discussion_url": "https://news.ycombinator.com/item?id=49154332",
     "description": "SQLite Critical CVEs or LLM Slop?",
@@ -269,117 +320,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.145768"
+    "fetched_at": "2026-08-04T11:45:59.310031"
   },
   {
-    "title": "Show HN: A Handwritten Blogging Platform",
-    "url": "https://handwritten.blog/",
-    "author": "emilesilvis",
-    "date": "2026-07-31",
-    "score": 166,
-    "comments": 80,
-    "id": 49119751,
-    "discussion_url": "https://news.ycombinator.com/item?id=49119751",
-    "description": "Show HN: A Handwritten Blogging Platform",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146748"
-  },
-  {
-    "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-    "url": "https://github.com/garagehq/nightcrawler/",
-    "author": "NickySlicks",
+    "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+    "url": "https://github.com/leonickson1/Swiftlet",
+    "author": "leonickson",
     "date": "2026-08-03",
-    "score": 91,
-    "comments": 29,
-    "id": 49154127,
-    "discussion_url": "https://news.ycombinator.com/item?id=49154127",
-    "description": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+    "score": 208,
+    "comments": 95,
+    "id": 49158333,
+    "discussion_url": "https://news.ycombinator.com/item?id=49158333",
+    "description": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146029"
+    "fetched_at": "2026-08-04T11:45:59.309879"
   },
   {
-    "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
-    "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
-    "author": "uneven9434",
+    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+    "author": "ascorbic",
     "date": "2026-08-03",
-    "score": 60,
-    "comments": 34,
-    "id": 49152871,
-    "discussion_url": "https://news.ycombinator.com/item?id=49152871",
-    "description": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+    "score": 226,
+    "comments": 58,
+    "id": 49158581,
+    "discussion_url": "https://news.ycombinator.com/item?id=49158581",
+    "description": "Smaller, faster, safer: running Kimi and GLM at scale",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146581"
-  },
-  {
-    "title": "Show HN: ssh ssh.place",
-    "url": "https://ssh.place",
-    "author": "jeninh",
-    "date": "2026-08-03",
-    "score": 165,
-    "comments": 96,
-    "id": 49149805,
-    "discussion_url": "https://news.ycombinator.com/item?id=49149805",
-    "description": "Show HN: ssh ssh.place",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146631"
-  },
-  {
-    "title": "SwiftUI After 7 Years",
-    "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-    "author": "mpweiher",
-    "date": "2026-08-03",
-    "score": 255,
-    "comments": 262,
-    "id": 49147263,
-    "discussion_url": "https://news.ycombinator.com/item?id=49147263",
-    "description": "SwiftUI After 7 Years",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146564"
-  },
-  {
-    "title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
-    "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
-    "author": "speckx",
-    "date": "2026-08-04",
-    "score": 264,
-    "comments": 193,
-    "id": 49157128,
-    "discussion_url": "https://news.ycombinator.com/item?id=49157128",
-    "description": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146292"
+    "fetched_at": "2026-08-04T11:45:59.309910"
   },
   {
     "title": "Ten advances in mathematics and theoretical computer science",
     "url": "https://openai.com/index/ten-advances-in-mathematics/",
     "author": "milkshakes",
-    "date": "2026-08-04",
-    "score": 230,
-    "comments": 485,
+    "date": "2026-08-03",
+    "score": 556,
+    "comments": 845,
     "id": 49157930,
     "discussion_url": "https://news.ycombinator.com/item?id=49157930",
     "description": "Ten advances in mathematics and theoretical computer science",
@@ -388,66 +371,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.145728"
+    "fetched_at": "2026-08-04T11:45:59.309900"
   },
   {
-    "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
-    "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
-    "author": "ohjeez",
-    "date": "2026-08-01",
-    "score": 178,
-    "comments": 160,
-    "id": 49125168,
-    "discussion_url": "https://news.ycombinator.com/item?id=49125168",
-    "description": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
+    "title": "The AI Productivity Gap",
+    "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+    "author": "kiyanwang",
+    "date": "2026-08-03",
+    "score": 124,
+    "comments": 108,
+    "id": 49152222,
+    "discussion_url": "https://news.ycombinator.com/item?id=49152222",
+    "description": "The AI Productivity Gap",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146427"
+    "fetched_at": "2026-08-04T11:45:59.310040"
   },
   {
-    "title": "Train Simulator Controller",
-    "url": "https://z80.me/blog/tsc-2026-july/",
-    "author": "austinallegro",
-    "date": "2026-07-31",
-    "score": 90,
-    "comments": 6,
-    "id": 49115935,
-    "discussion_url": "https://news.ycombinator.com/item?id=49115935",
-    "description": "Train Simulator Controller",
+    "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+    "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+    "author": "audreyfei",
+    "date": "2026-08-03",
+    "score": 152,
+    "comments": 162,
+    "id": 49160437,
+    "discussion_url": "https://news.ycombinator.com/item?id=49160437",
+    "description": "The Dunning-Kruger effect may just be a data artefact (2020)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146239"
+    "fetched_at": "2026-08-04T11:45:59.310017"
   },
   {
-    "title": "Utah produced more power from solar than any other source in May, a new first",
-    "url": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/",
-    "author": "toomuchtodo",
+    "title": "There Will Come Soft Rains (1950) [pdf]",
+    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+    "author": "pmg101",
+    "date": "2026-08-03",
+    "score": 170,
+    "comments": 60,
+    "id": 49162653,
+    "discussion_url": "https://news.ycombinator.com/item?id=49162653",
+    "description": "There Will Come Soft Rains (1950) [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-04T11:45:59.309929"
+  },
+  {
+    "title": "Twenty Years of Pandoc",
+    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "author": "fiddlosopher",
+    "date": "2026-08-03",
+    "score": 288,
+    "comments": 35,
+    "id": 49156750,
+    "discussion_url": "https://news.ycombinator.com/item?id=49156750",
+    "description": "Twenty Years of Pandoc",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-04T11:45:59.309938"
+  },
+  {
+    "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+    "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+    "author": "tcp_handshaker",
     "date": "2026-08-04",
-    "score": 101,
-    "comments": 70,
-    "id": 49156071,
-    "discussion_url": "https://news.ycombinator.com/item?id=49156071",
-    "description": "Utah produced more power from solar than any other source in May, a new first",
+    "score": 85,
+    "comments": 75,
+    "id": 49166860,
+    "discussion_url": "https://news.ycombinator.com/item?id=49166860",
+    "description": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146614"
+    "fetched_at": "2026-08-04T11:45:59.309923"
   },
   {
     "title": "What DMARC Protects You From, and What It Does Not",
     "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
     "author": "adulion",
     "date": "2026-08-03",
-    "score": 114,
-    "comments": 29,
+    "score": 131,
+    "comments": 30,
     "id": 49153361,
     "discussion_url": "https://news.ycombinator.com/item?id=49153361",
     "description": "What DMARC Protects You From, and What It Does Not",
@@ -456,57 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.145991"
+    "fetched_at": "2026-08-04T11:45:59.310029"
   },
   {
-    "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-    "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-    "author": "pizzaiolo",
+    "title": "What's the largest software project AI can complete on its own?",
+    "url": "https://epoch.ai/MirrorCode",
+    "author": "yusufozkan",
     "date": "2026-08-03",
-    "score": 137,
-    "comments": 90,
-    "id": 49149746,
-    "discussion_url": "https://news.ycombinator.com/item?id=49149746",
-    "description": "Why Book Corners won't sync contributions back to OpenStreetMap",
+    "score": 93,
+    "comments": 92,
+    "id": 49157786,
+    "discussion_url": "https://news.ycombinator.com/item?id=49157786",
+    "description": "What's the largest software project AI can complete on its own?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146699"
+    "fetched_at": "2026-08-04T11:45:59.310008"
   },
   {
-    "title": "Why we write our own C and C++ inference engines",
-    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
-    "author": "eatonphil",
-    "date": "2026-08-01",
-    "score": 112,
-    "comments": 46,
-    "id": 49125065,
-    "discussion_url": "https://news.ycombinator.com/item?id=49125065",
-    "description": "Why we write our own C and C++ inference engines",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.146598"
-  },
-  {
-    "title": "Wind and solar overtake fossil fuels in Germany for the first time",
-    "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
-    "author": "just_some_user",
+    "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+    "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+    "author": "jandeboevrie",
     "date": "2026-08-03",
-    "score": 263,
-    "comments": 165,
-    "id": 49155359,
-    "discussion_url": "https://news.ycombinator.com/item?id=49155359",
-    "description": "Wind and solar overtake fossil fuels in Germany for the first time",
+    "score": 113,
+    "comments": 65,
+    "id": 49162086,
+    "discussion_url": "https://news.ycombinator.com/item?id=49162086",
+    "description": "Windows XP 2002 for the Itanium: Unbridled rage",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-04T06:00:18.145969"
+    "fetched_at": "2026-08-04T11:45:59.309967"
   }
 ]
