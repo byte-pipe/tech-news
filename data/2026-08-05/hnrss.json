@@ -1,227 +1,107 @@
 [
   {
-    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "description": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-    "date": "2026-08-04",
-    "score": 267,
+    "title": "Aristotle quotes on virtue, knowledge, and happiness",
+    "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+    "description": "Aristotle quotes on virtue, knowledge, and happiness",
+    "date": "2026-08-05",
+    "score": 132,
+    "comments": 56,
+    "discussion_url": "https://news.ycombinator.com/item?id=49183115",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-05T20:40:12.013382"
+  },
+  {
+    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+    "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "description": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+    "date": "2026-08-05",
+    "score": 102,
+    "comments": 19,
+    "discussion_url": "https://news.ycombinator.com/item?id=49186762",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-05T20:40:12.013343"
+  },
+  {
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "description": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "date": "2026-08-05",
+    "score": 261,
+    "comments": 421,
+    "discussion_url": "https://news.ycombinator.com/item?id=49184755",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-05T20:40:12.013370"
+  },
+  {
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "description": "Cloudflare OS: an open platform for agents, apps, and work",
+    "date": "2026-08-05",
+    "score": 386,
     "comments": 210,
-    "discussion_url": "https://news.ycombinator.com/item?id=49175826",
+    "discussion_url": "https://news.ycombinator.com/item?id=49182996",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530913"
+    "fetched_at": "2026-08-05T20:40:12.013394"
   },
   {
-    "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
-    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-    "description": "Civilian plane crash in New Mexico tied to military GPS blocking",
+    "title": "Discovery Loop",
+    "url": "https://www.discoveryloop.com/",
+    "description": "Discovery Loop",
     "date": "2026-08-05",
-    "score": 126,
-    "comments": 50,
-    "discussion_url": "https://news.ycombinator.com/item?id=49181099",
+    "score": 406,
+    "comments": 257,
+    "discussion_url": "https://news.ycombinator.com/item?id=49184960",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530784"
+    "fetched_at": "2026-08-05T20:40:12.013357"
   },
   {
-    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-    "url": "https://techascent.com/blog/just-ducking-around.html",
-    "description": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-    "date": "2026-08-04",
-    "score": 126,
-    "comments": 18,
-    "discussion_url": "https://news.ycombinator.com/item?id=49175924",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530893"
-  },
-  {
-    "title": "Eight Myths on Software Engineering and GenAI",
-    "url": "https://queue.acm.org/detail.cfm?id=3807963",
-    "description": "Eight Myths on Software Engineering and GenAI",
-    "date": "2026-08-04",
-    "score": 242,
-    "comments": 201,
-    "discussion_url": "https://news.ycombinator.com/item?id=49176830",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530821"
-  },
-  {
-    "title": "Helsinki Hacker News Meetup",
-    "url": "https://calpaterson.com/helsinki-hn.html",
-    "description": "Helsinki Hacker News Meetup",
+    "title": "Position: LLMs Can't Jump",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+    "description": "Position: LLMs Can't Jump",
     "date": "2026-08-05",
-    "score": 129,
-    "comments": 80,
-    "discussion_url": "https://news.ycombinator.com/item?id=49180407",
+    "score": 216,
+    "comments": 148,
+    "discussion_url": "https://news.ycombinator.com/item?id=49181083",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530806"
+    "fetched_at": "2026-08-05T20:40:12.013406"
   },
   {
-    "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-    "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-    "description": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-    "date": "2026-08-04",
-    "score": 136,
-    "comments": 22,
-    "discussion_url": "https://news.ycombinator.com/item?id=49176697",
+    "title": "Zed DeltaDB",
+    "url": "https://zed.dev/deltadb",
+    "description": "Zed DeltaDB",
+    "date": "2026-08-05",
+    "score": 141,
+    "comments": 60,
+    "discussion_url": "https://news.ycombinator.com/item?id=49187256",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530834"
-  },
-  {
-    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-    "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-    "description": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-    "date": "2026-08-04",
-    "score": 1470,
-    "comments": 84,
-    "discussion_url": "https://news.ycombinator.com/item?id=49173165",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530938"
-  },
-  {
-    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-    "url": "https://mistral.ai/news/shieldstral/",
-    "description": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-    "date": "2026-08-04",
-    "score": 449,
-    "comments": 114,
-    "discussion_url": "https://news.ycombinator.com/item?id=49171268",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530949"
-  },
-  {
-    "title": "Pi's Minimalism Is Its Advantage",
-    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "description": "Pi's Minimalism Is Its Advantage",
-    "date": "2026-08-04",
-    "score": 432,
-    "comments": 207,
-    "discussion_url": "https://news.ycombinator.com/item?id=49176038",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530880"
-  },
-  {
-    "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-    "url": "https://deepgrove.ai/maple-preview",
-    "description": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-    "date": "2026-08-04",
-    "score": 147,
-    "comments": 43,
-    "discussion_url": "https://news.ycombinator.com/item?id=49173984",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530926"
-  },
-  {
-    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-    "url": "https://toneyalexander.github.io/inclusive-color-space/",
-    "description": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-    "date": "2026-08-04",
-    "score": 560,
-    "comments": 96,
-    "discussion_url": "https://news.ycombinator.com/item?id=49170165",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530961"
-  },
-  {
-    "title": "Stateless MCP has recaptured my interest",
-    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-    "description": "Stateless MCP has recaptured my interest",
-    "date": "2026-08-01",
-    "score": 291,
-    "comments": 151,
-    "discussion_url": "https://news.ycombinator.com/item?id=49131438",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530983"
-  },
-  {
-    "title": "There Will Come Soft Rains (1950) [pdf]",
-    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-    "description": "There Will Come Soft Rains (1950) [pdf]",
-    "date": "2026-08-03",
-    "score": 399,
-    "comments": 409,
-    "discussion_url": "https://news.ycombinator.com/item?id=49162653",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530972"
-  },
-  {
-    "title": "We finally learned to center a div, then browsers added sidebars",
-    "url": "https://seg6.space/posts/center-div/",
-    "description": "We finally learned to center a div, then browsers added sidebars",
-    "date": "2026-08-04",
-    "score": 158,
-    "comments": 125,
-    "discussion_url": "https://news.ycombinator.com/item?id=49176055",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530846"
-  },
-  {
-    "title": "“Gravity is worth asking about”",
-    "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-    "description": "“Gravity is worth asking about”",
-    "date": "2026-07-30",
-    "score": 145,
-    "comments": 84,
-    "discussion_url": "https://news.ycombinator.com/item?id=49105978",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T12:53:19.530993"
+    "fetched_at": "2026-08-05T20:40:12.013318"
   }
 ]

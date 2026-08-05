@@ -1,62 +1,147 @@
 [
   {
-    "title": "\"Clean\" Code, Horrible Performance (2023)",
-    "url": "https://www.computerenhance.com/p/clean-code-horrible-performance",
-    "author": "FrojoS",
-    "date": "2026-08-04",
-    "score": 139,
-    "comments": 161,
-    "id": 49166331,
-    "discussion_url": "https://news.ycombinator.com/item?id=49166331",
-    "description": "\"Clean\" Code, Horrible Performance (2023)",
+    "title": "Aristotle quotes on virtue, knowledge, and happiness",
+    "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+    "author": "teleforce",
+    "date": "2026-08-05",
+    "score": 132,
+    "comments": 56,
+    "id": 49183115,
+    "discussion_url": "https://news.ycombinator.com/item?id=49183115",
+    "description": "Aristotle quotes on virtue, knowledge, and happiness",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447634"
+    "fetched_at": "2026-08-05T20:40:02.287895"
   },
   {
-    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "author": "bookofjoe",
-    "date": "2026-08-04",
-    "score": 267,
-    "comments": 210,
-    "id": 49175826,
-    "discussion_url": "https://news.ycombinator.com/item?id=49175826",
-    "description": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+    "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+    "author": "hackerBanana",
+    "date": "2026-08-05",
+    "score": 84,
+    "comments": 28,
+    "id": 49185983,
+    "discussion_url": "https://news.ycombinator.com/item?id=49185983",
+    "description": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447572"
+    "fetched_at": "2026-08-05T20:40:02.287909"
   },
   {
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "author": "thewebguyd",
-    "date": "2026-08-04",
-    "score": 371,
-    "comments": 267,
-    "id": 49170479,
-    "discussion_url": "https://news.ycombinator.com/item?id=49170479",
-    "description": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+    "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "author": "moonikakiss",
+    "date": "2026-08-05",
+    "score": 102,
+    "comments": 19,
+    "id": 49186762,
+    "discussion_url": "https://news.ycombinator.com/item?id=49186762",
+    "description": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447646"
+    "fetched_at": "2026-08-05T20:40:02.287939"
+  },
+  {
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "author": "lladnar",
+    "date": "2026-08-05",
+    "score": 81,
+    "comments": 92,
+    "id": 49187061,
+    "discussion_url": "https://news.ycombinator.com/item?id=49187061",
+    "description": "Born Against, or why hobby programming communities are against LLM usage",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-05T20:40:02.287943"
+  },
+  {
+    "title": "Bubble Memory",
+    "url": "https://en.wikipedia.org/wiki/Bubble_memory",
+    "author": "jacquesm",
+    "date": "2026-08-02",
+    "score": 68,
+    "comments": 22,
+    "id": 49148176,
+    "discussion_url": "https://news.ycombinator.com/item?id=49148176",
+    "description": "Bubble Memory",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-05T20:40:02.288134"
+  },
+  {
+    "title": "Building an Advanced Agentic Harness",
+    "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+    "author": "Anon84",
+    "date": "2026-08-05",
+    "score": 81,
+    "comments": 38,
+    "id": 49182946,
+    "discussion_url": "https://news.ycombinator.com/item?id=49182946",
+    "description": "Building an Advanced Agentic Harness",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-05T20:40:02.287993"
+  },
+  {
+    "title": "Celld: Self-hosted, distributed Durable Objects",
+    "url": "https://github.com/denoland/celld",
+    "author": "calvinfo",
+    "date": "2026-08-05",
+    "score": 73,
+    "comments": 4,
+    "id": 49185430,
+    "discussion_url": "https://news.ycombinator.com/item?id=49185430",
+    "description": "Celld: Self-hosted, distributed Durable Objects",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-05T20:40:02.287905"
+  },
+  {
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "author": "colesantiago",
+    "date": "2026-08-05",
+    "score": 261,
+    "comments": 421,
+    "id": 49184755,
+    "discussion_url": "https://news.ycombinator.com/item?id=49184755",
+    "description": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-05T20:40:02.287900"
   },
   {
     "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
     "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
     "author": "dzdt",
     "date": "2026-08-05",
-    "score": 126,
-    "comments": 50,
+    "score": 420,
+    "comments": 215,
     "id": 49181099,
     "discussion_url": "https://news.ycombinator.com/item?id=49181099",
     "description": "Civilian plane crash in New Mexico tied to military GPS blocking",
@@ -65,117 +150,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447423"
+    "fetched_at": "2026-08-05T20:40:02.288025"
   },
   {
-    "title": "Dates That Don't Exist (2015)",
-    "url": "https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist",
-    "author": "EndXA",
-    "date": "2026-08-01",
-    "score": 121,
-    "comments": 81,
-    "id": 49136363,
-    "discussion_url": "https://news.ycombinator.com/item?id=49136363",
-    "description": "Dates That Don't Exist (2015)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447671"
-  },
-  {
-    "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-    "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-    "author": "zhoutong",
-    "date": "2026-08-04",
-    "score": 373,
-    "comments": 100,
-    "id": 49166386,
-    "discussion_url": "https://news.ycombinator.com/item?id=49166386",
-    "description": "DeepSeek V4 Flash on a Single AMD MI300X",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447675"
-  },
-  {
-    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-    "url": "https://techascent.com/blog/just-ducking-around.html",
-    "author": "sourdecor",
-    "date": "2026-08-04",
-    "score": 126,
-    "comments": 18,
-    "id": 49175924,
-    "discussion_url": "https://news.ycombinator.com/item?id=49175924",
-    "description": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447410"
-  },
-  {
-    "title": "Eight Myths on Software Engineering and GenAI",
-    "url": "https://queue.acm.org/detail.cfm?id=3807963",
-    "author": "tchalla",
-    "date": "2026-08-04",
-    "score": 242,
-    "comments": 201,
-    "id": 49176830,
-    "discussion_url": "https://news.ycombinator.com/item?id=49176830",
-    "description": "Eight Myths on Software Engineering and GenAI",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447551"
-  },
-  {
-    "title": "Everything I Know (1975)",
-    "url": "https://www.bfi.org/about-fuller/everything-i-know/",
-    "author": "simonebrunozzi",
-    "date": "2026-08-04",
-    "score": 143,
-    "comments": 33,
-    "id": 49167147,
-    "discussion_url": "https://news.ycombinator.com/item?id=49167147",
-    "description": "Everything I Know (1975)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447629"
-  },
-  {
-    "title": "Helsinki Hacker News Meetup",
-    "url": "https://calpaterson.com/helsinki-hn.html",
-    "author": "calpaterson",
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "author": "speckx",
     "date": "2026-08-05",
-    "score": 129,
-    "comments": 80,
-    "id": 49180407,
-    "discussion_url": "https://news.ycombinator.com/item?id=49180407",
-    "description": "Helsinki Hacker News Meetup",
+    "score": 386,
+    "comments": 210,
+    "id": 49182996,
+    "discussion_url": "https://news.ycombinator.com/item?id=49182996",
+    "description": "Cloudflare OS: an open platform for agents, apps, and work",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447510"
+    "fetched_at": "2026-08-05T20:40:02.287989"
+  },
+  {
+    "title": "Discovery Loop",
+    "url": "https://www.discoveryloop.com/",
+    "author": "xtreak29",
+    "date": "2026-08-05",
+    "score": 405,
+    "comments": 256,
+    "id": 49184960,
+    "discussion_url": "https://news.ycombinator.com/item?id=49184960",
+    "description": "Discovery Loop",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-05T20:40:02.287919"
+  },
+  {
+    "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+    "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+    "author": "_____k",
+    "date": "2026-07-30",
+    "score": 81,
+    "comments": 30,
+    "id": 49115096,
+    "discussion_url": "https://news.ycombinator.com/item?id=49115096",
+    "description": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-05T20:40:02.287973"
+  },
+  {
+    "title": "Faster Than Ninja",
+    "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+    "author": "elasticdog",
+    "date": "2026-08-05",
+    "score": 76,
+    "comments": 27,
+    "id": 49182685,
+    "discussion_url": "https://news.ycombinator.com/item?id=49182685",
+    "description": "Faster Than Ninja",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-05T20:40:02.288020"
+  },
+  {
+    "title": "GNU Hurd News 2026-Q2",
+    "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+    "author": "plaguna",
+    "date": "2026-08-02",
+    "score": 67,
+    "comments": 36,
+    "id": 49146183,
+    "discussion_url": "https://news.ycombinator.com/item?id=49146183",
+    "description": "GNU Hurd News 2026-Q2",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-05T20:40:02.287968"
   },
   {
     "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
     "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
     "author": "lapcat",
     "date": "2026-08-04",
-    "score": 136,
-    "comments": 22,
+    "score": 168,
+    "comments": 30,
     "id": 49176697,
     "discussion_url": "https://news.ycombinator.com/item?id=49176697",
     "description": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
@@ -184,151 +252,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447515"
+    "fetched_at": "2026-08-05T20:40:02.288163"
   },
   {
-    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-    "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-    "author": "jdcampolargo",
-    "date": "2026-08-04",
-    "score": 1470,
-    "comments": 84,
-    "id": 49173165,
-    "discussion_url": "https://news.ycombinator.com/item?id=49173165",
-    "description": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "title": "Muse Code and Muse Spark 1.2",
+    "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "author": "paulkrush",
+    "date": "2026-08-05",
+    "score": 69,
+    "comments": 40,
+    "id": 49187575,
+    "discussion_url": "https://news.ycombinator.com/item?id=49187575",
+    "description": "Muse Code and Muse Spark 1.2",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447521"
+    "fetched_at": "2026-08-05T20:40:02.287964"
   },
   {
-    "title": "LLMs reward expertise",
-    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "author": "MaxMussio",
-    "date": "2026-08-03",
-    "score": 1362,
-    "comments": 561,
-    "id": 49161518,
-    "discussion_url": "https://news.ycombinator.com/item?id=49161518",
-    "description": "LLMs reward expertise",
+    "title": "Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",
+    "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
+    "author": "iplaypc",
+    "date": "2026-08-05",
+    "score": 154,
+    "comments": 108,
+    "id": 49183750,
+    "discussion_url": "https://news.ycombinator.com/item?id=49183750",
+    "description": "Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447624"
+    "fetched_at": "2026-08-05T20:40:02.288044"
   },
   {
-    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-    "url": "https://mistral.ai/news/shieldstral/",
-    "author": "riadsila",
-    "date": "2026-08-04",
-    "score": 449,
-    "comments": 114,
-    "id": 49171268,
-    "discussion_url": "https://news.ycombinator.com/item?id=49171268",
-    "description": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "title": "Painting with Gaussians",
+    "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+    "author": "yogthos",
+    "date": "2026-08-05",
+    "score": 77,
+    "comments": 14,
+    "id": 49182695,
+    "discussion_url": "https://news.ycombinator.com/item?id=49182695",
+    "description": "Painting with Gaussians",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447460"
+    "fetched_at": "2026-08-05T20:40:02.288010"
   },
   {
-    "title": "Nobel Disease",
-    "url": "https://en.wikipedia.org/wiki/Nobel_disease",
-    "author": "num42",
-    "date": "2026-08-04",
-    "score": 115,
-    "comments": 116,
-    "id": 49166918,
-    "discussion_url": "https://news.ycombinator.com/item?id=49166918",
-    "description": "Nobel Disease",
+    "title": "Position: LLMs Can't Jump",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+    "author": "theanonymousone",
+    "date": "2026-08-05",
+    "score": 216,
+    "comments": 148,
+    "id": 49181083,
+    "discussion_url": "https://news.ycombinator.com/item?id=49181083",
+    "description": "Position: LLMs Can't Jump",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447695"
+    "fetched_at": "2026-08-05T20:40:02.288028"
   },
   {
-    "title": "Oxide Computer raises $445M (SEC Form D)",
-    "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-    "author": "depr",
-    "date": "2026-08-04",
-    "score": 249,
-    "comments": 162,
-    "id": 49174407,
-    "discussion_url": "https://news.ycombinator.com/item?id=49174407",
-    "description": "Oxide Computer raises $445M (SEC Form D)",
+    "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+    "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
+    "author": "MarcoDewey",
+    "date": "2026-08-05",
+    "score": 63,
+    "comments": 9,
+    "id": 49183079,
+    "discussion_url": "https://news.ycombinator.com/item?id=49183079",
+    "description": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447658"
+    "fetched_at": "2026-08-05T20:40:02.288005"
   },
   {
-    "title": "Pi's Minimalism Is Its Advantage",
-    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "author": "luispa",
-    "date": "2026-08-04",
-    "score": 432,
-    "comments": 207,
-    "id": 49176038,
-    "discussion_url": "https://news.ycombinator.com/item?id=49176038",
-    "description": "Pi's Minimalism Is Its Advantage",
+    "title": "Scaling NumPy on Free-Threaded Python",
+    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+    "author": "ngoldbaum",
+    "date": "2026-07-30",
+    "score": 84,
+    "comments": 12,
+    "id": 49112023,
+    "discussion_url": "https://news.ycombinator.com/item?id=49112023",
+    "description": "Scaling NumPy on Free-Threaded Python",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447466"
-  },
-  {
-    "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-    "url": "https://deepgrove.ai/maple-preview",
-    "author": "edwardbzhang",
-    "date": "2026-08-04",
-    "score": 147,
-    "comments": 43,
-    "id": 49173984,
-    "discussion_url": "https://news.ycombinator.com/item?id=49173984",
-    "description": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447531"
-  },
-  {
-    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-    "url": "https://toneyalexander.github.io/inclusive-color-space/",
-    "author": "automatoney",
-    "date": "2026-08-04",
-    "score": 560,
-    "comments": 96,
-    "id": 49170165,
-    "discussion_url": "https://news.ycombinator.com/item?id=49170165",
-    "description": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447489"
+    "fetched_at": "2026-08-05T20:40:02.288126"
   },
   {
     "title": "Stateless MCP has recaptured my interest",
     "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
     "author": "tosh",
     "date": "2026-08-01",
-    "score": 291,
-    "comments": 152,
+    "score": 368,
+    "comments": 208,
     "id": 49131438,
     "discussion_url": "https://news.ycombinator.com/item?id=49131438",
     "description": "Stateless MCP has recaptured my interest",
@@ -337,49 +371,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447417"
+    "fetched_at": "2026-08-05T20:40:02.288170"
   },
   {
-    "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-    "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-    "author": "stymaar",
-    "date": "2026-08-04",
-    "score": 309,
-    "comments": 77,
-    "id": 49175192,
-    "discussion_url": "https://news.ycombinator.com/item?id=49175192",
-    "description": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+    "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+    "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+    "author": "vincent_s",
+    "date": "2026-08-05",
+    "score": 217,
+    "comments": 91,
+    "id": 49182041,
+    "discussion_url": "https://news.ycombinator.com/item?id=49182041",
+    "description": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447691"
+    "fetched_at": "2026-08-05T20:40:02.288123"
   },
   {
-    "title": "The Warp Agent CLI",
-    "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
-    "author": "emschwartz",
-    "date": "2026-08-04",
-    "score": 104,
-    "comments": 62,
-    "id": 49171766,
-    "discussion_url": "https://news.ycombinator.com/item?id=49171766",
-    "description": "The Warp Agent CLI",
+    "title": "The Entropy of a Markov Chain",
+    "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+    "author": "surprisetalk",
+    "date": "2026-08-05",
+    "score": 83,
+    "comments": 7,
+    "id": 49183017,
+    "discussion_url": "https://news.ycombinator.com/item?id=49183017",
+    "description": "The Entropy of a Markov Chain",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447704"
+    "fetched_at": "2026-08-05T20:40:02.287981"
+  },
+  {
+    "title": "The Valley of Webhooks",
+    "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+    "author": "weli",
+    "date": "2026-08-05",
+    "score": 92,
+    "comments": 38,
+    "id": 49184216,
+    "discussion_url": "https://news.ycombinator.com/item?id=49184216",
+    "description": "The Valley of Webhooks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-05T20:40:02.287929"
   },
   {
     "title": "There Will Come Soft Rains (1950) [pdf]",
     "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
     "author": "pmg101",
     "date": "2026-08-03",
-    "score": 399,
-    "comments": 409,
+    "score": 423,
+    "comments": 429,
     "id": 49162653,
     "discussion_url": "https://news.ycombinator.com/item?id=49162653",
     "description": "There Will Come Soft Rains (1950) [pdf]",
@@ -388,117 +439,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447562"
+    "fetched_at": "2026-08-05T20:40:02.288159"
   },
   {
-    "title": "Waymo in Dallas",
-    "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-    "author": "xnx",
+    "title": "Western Sahara",
+    "url": "https://en.wikipedia.org/wiki/Western_Sahara",
+    "author": "brudgers",
     "date": "2026-08-04",
-    "score": 305,
-    "comments": 588,
-    "id": 49172836,
-    "discussion_url": "https://news.ycombinator.com/item?id=49172836",
-    "description": "Waymo in Dallas",
+    "score": 91,
+    "comments": 57,
+    "id": 49176192,
+    "discussion_url": "https://news.ycombinator.com/item?id=49176192",
+    "description": "Western Sahara",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447587"
+    "fetched_at": "2026-08-05T20:40:02.288033"
   },
   {
-    "title": "We finally learned to center a div, then browsers added sidebars",
-    "url": "https://seg6.space/posts/center-div/",
-    "author": "seg6",
-    "date": "2026-08-04",
-    "score": 158,
-    "comments": 125,
-    "id": 49176055,
-    "discussion_url": "https://news.ycombinator.com/item?id=49176055",
-    "description": "We finally learned to center a div, then browsers added sidebars",
+    "title": "Why Erdős Problems Are Falling to AI",
+    "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+    "author": "pseudolus",
+    "date": "2026-08-05",
+    "score": 123,
+    "comments": 121,
+    "id": 49181519,
+    "discussion_url": "https://news.ycombinator.com/item?id=49181519",
+    "description": "Why Erdős Problems Are Falling to AI",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447472"
+    "fetched_at": "2026-08-05T20:40:02.288152"
   },
   {
-    "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-    "url": "https://arxiv.org/abs/2602.16763",
-    "author": "doppp",
-    "date": "2026-08-04",
-    "score": 102,
-    "comments": 100,
-    "id": 49170915,
-    "discussion_url": "https://news.ycombinator.com/item?id=49170915",
-    "description": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+    "title": "Zed DeltaDB",
+    "url": "https://zed.dev/deltadb",
+    "author": "ahamez",
+    "date": "2026-08-05",
+    "score": 141,
+    "comments": 59,
+    "id": 49187256,
+    "discussion_url": "https://news.ycombinator.com/item?id=49187256",
+    "description": "Zed DeltaDB",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447608"
-  },
-  {
-    "title": "Why etymologies matter: How tracing words can illuminate history (2024)",
-    "url": "https://resobscura.substack.com/p/why-i-love-etymologies",
-    "author": "benbreen",
-    "date": "2026-07-31",
-    "score": 109,
-    "comments": 21,
-    "id": 49129545,
-    "discussion_url": "https://news.ycombinator.com/item?id=49129545",
-    "description": "Why etymologies matter: How tracing words can illuminate history (2024)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447699"
-  },
-  {
-    "title": "Xbox goes down. You can't play games you own on disc",
-    "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-    "author": "surprisetalk",
-    "date": "2026-08-04",
-    "score": 674,
-    "comments": 712,
-    "id": 49167448,
-    "discussion_url": "https://news.ycombinator.com/item?id=49167448",
-    "description": "Xbox goes down. You can't play games you own on disc",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447603"
-  },
-  {
-    "title": "libexpat now funded by the City of Munich for up to 6 months",
-    "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-    "author": "spyc",
-    "date": "2026-08-04",
-    "score": 305,
-    "comments": 66,
-    "id": 49176606,
-    "discussion_url": "https://news.ycombinator.com/item?id=49176606",
-    "description": "libexpat now funded by the City of Munich for up to 6 months",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447582"
+    "fetched_at": "2026-08-05T20:40:02.287881"
   },
   {
     "title": "“Gravity is worth asking about”",
     "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
     "author": "nozzlegear",
     "date": "2026-07-30",
-    "score": 145,
-    "comments": 85,
+    "score": 192,
+    "comments": 118,
     "id": 49105978,
     "discussion_url": "https://news.ycombinator.com/item?id=49105978",
     "description": "“Gravity is worth asking about”",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-05T12:53:10.447477"
+    "fetched_at": "2026-08-05T20:40:02.288118"
   }
 ]
