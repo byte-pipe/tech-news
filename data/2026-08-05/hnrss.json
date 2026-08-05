@@ -1,182 +1,227 @@
 [
   {
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "description": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "description": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
     "date": "2026-08-04",
-    "score": 230,
-    "comments": 173,
-    "discussion_url": "https://news.ycombinator.com/item?id=49170479",
+    "score": 267,
+    "comments": 210,
+    "discussion_url": "https://news.ycombinator.com/item?id=49175826",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592491"
+    "fetched_at": "2026-08-05T12:53:19.530913"
   },
   {
-    "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-    "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-    "description": "DeepSeek V4 Flash on a Single AMD MI300X",
-    "date": "2026-08-04",
-    "score": 323,
-    "comments": 81,
-    "discussion_url": "https://news.ycombinator.com/item?id=49166386",
+    "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+    "description": "Civilian plane crash in New Mexico tied to military GPS blocking",
+    "date": "2026-08-05",
+    "score": 126,
+    "comments": 50,
+    "discussion_url": "https://news.ycombinator.com/item?id=49181099",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592599"
+    "fetched_at": "2026-08-05T12:53:19.530784"
   },
   {
-    "title": "Everything I Know (1975)",
-    "url": "https://www.bfi.org/about-fuller/everything-i-know/",
-    "description": "Everything I Know (1975)",
+    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+    "url": "https://techascent.com/blog/just-ducking-around.html",
+    "description": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
     "date": "2026-08-04",
-    "score": 108,
-    "comments": 31,
-    "discussion_url": "https://news.ycombinator.com/item?id=49167147",
+    "score": 126,
+    "comments": 18,
+    "discussion_url": "https://news.ycombinator.com/item?id=49175924",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592554"
+    "fetched_at": "2026-08-05T12:53:19.530893"
   },
   {
-    "title": "Harness engineering for self-improvement",
-    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-    "description": "Harness engineering for self-improvement",
+    "title": "Eight Myths on Software Engineering and GenAI",
+    "url": "https://queue.acm.org/detail.cfm?id=3807963",
+    "description": "Eight Myths on Software Engineering and GenAI",
     "date": "2026-08-04",
-    "score": 263,
-    "comments": 56,
-    "discussion_url": "https://news.ycombinator.com/item?id=49164896",
+    "score": 242,
+    "comments": 201,
+    "discussion_url": "https://news.ycombinator.com/item?id=49176830",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592614"
+    "fetched_at": "2026-08-05T12:53:19.530821"
   },
   {
-    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-    "description": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-    "date": "2026-08-04",
-    "score": 195,
-    "comments": 103,
-    "discussion_url": "https://news.ycombinator.com/item?id=49166874",
+    "title": "Helsinki Hacker News Meetup",
+    "url": "https://calpaterson.com/helsinki-hn.html",
+    "description": "Helsinki Hacker News Meetup",
+    "date": "2026-08-05",
+    "score": 129,
+    "comments": 80,
+    "discussion_url": "https://news.ycombinator.com/item?id=49180407",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592569"
+    "fetched_at": "2026-08-05T12:53:19.530806"
   },
   {
-    "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
-    "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
-    "description": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+    "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+    "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+    "description": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
     "date": "2026-08-04",
-    "score": 173,
-    "comments": 59,
-    "discussion_url": "https://news.ycombinator.com/item?id=49170001",
+    "score": 136,
+    "comments": 22,
+    "discussion_url": "https://news.ycombinator.com/item?id=49176697",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592523"
+    "fetched_at": "2026-08-05T12:53:19.530834"
   },
   {
-    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-    "url": "https://toneyalexander.github.io/inclusive-color-space/",
-    "description": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-    "date": "2026-08-04",
-    "score": 323,
-    "comments": 71,
-    "discussion_url": "https://news.ycombinator.com/item?id=49170165",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592508"
-  },
-  {
-    "title": "Stephen Wolfram's Wife Has Died",
+    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
     "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-    "description": "Stephen Wolfram's Wife Has Died",
+    "description": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
     "date": "2026-08-04",
-    "score": 116,
-    "comments": 8,
+    "score": 1470,
+    "comments": 84,
     "discussion_url": "https://news.ycombinator.com/item?id=49173165",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592434"
+    "fetched_at": "2026-08-05T12:53:19.530938"
+  },
+  {
+    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "url": "https://mistral.ai/news/shieldstral/",
+    "description": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "date": "2026-08-04",
+    "score": 449,
+    "comments": 114,
+    "discussion_url": "https://news.ycombinator.com/item?id=49171268",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-05T12:53:19.530949"
+  },
+  {
+    "title": "Pi's Minimalism Is Its Advantage",
+    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "description": "Pi's Minimalism Is Its Advantage",
+    "date": "2026-08-04",
+    "score": 432,
+    "comments": 207,
+    "discussion_url": "https://news.ycombinator.com/item?id=49176038",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-05T12:53:19.530880"
+  },
+  {
+    "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+    "url": "https://deepgrove.ai/maple-preview",
+    "description": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+    "date": "2026-08-04",
+    "score": 147,
+    "comments": 43,
+    "discussion_url": "https://news.ycombinator.com/item?id=49173984",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-05T12:53:19.530926"
+  },
+  {
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "url": "https://toneyalexander.github.io/inclusive-color-space/",
+    "description": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "date": "2026-08-04",
+    "score": 560,
+    "comments": 96,
+    "discussion_url": "https://news.ycombinator.com/item?id=49170165",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-05T12:53:19.530961"
+  },
+  {
+    "title": "Stateless MCP has recaptured my interest",
+    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+    "description": "Stateless MCP has recaptured my interest",
+    "date": "2026-08-01",
+    "score": 291,
+    "comments": 151,
+    "discussion_url": "https://news.ycombinator.com/item?id=49131438",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-05T12:53:19.530983"
   },
   {
     "title": "There Will Come Soft Rains (1950) [pdf]",
     "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
     "description": "There Will Come Soft Rains (1950) [pdf]",
     "date": "2026-08-03",
-    "score": 306,
-    "comments": 336,
+    "score": 399,
+    "comments": 409,
     "discussion_url": "https://news.ycombinator.com/item?id=49162653",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592629"
+    "fetched_at": "2026-08-05T12:53:19.530972"
   },
   {
-    "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-    "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
-    "description": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+    "title": "We finally learned to center a div, then browsers added sidebars",
+    "url": "https://seg6.space/posts/center-div/",
+    "description": "We finally learned to center a div, then browsers added sidebars",
     "date": "2026-08-04",
-    "score": 231,
-    "comments": 338,
-    "discussion_url": "https://news.ycombinator.com/item?id=49166860",
+    "score": 158,
+    "comments": 125,
+    "discussion_url": "https://news.ycombinator.com/item?id=49176055",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592584"
+    "fetched_at": "2026-08-05T12:53:19.530846"
   },
   {
-    "title": "Web security is too hard",
-    "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-    "description": "Web security is too hard",
-    "date": "2026-08-04",
-    "score": 112,
-    "comments": 39,
-    "discussion_url": "https://news.ycombinator.com/item?id=49172834",
+    "title": "“Gravity is worth asking about”",
+    "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+    "description": "“Gravity is worth asking about”",
+    "date": "2026-07-30",
+    "score": 145,
+    "comments": 84,
+    "discussion_url": "https://news.ycombinator.com/item?id=49105978",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592472"
-  },
-  {
-    "title": "Xbox goes down. You can't play games you own on disc",
-    "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-    "description": "Xbox goes down. You can't play games you own on disc",
-    "date": "2026-08-04",
-    "score": 474,
-    "comments": 524,
-    "discussion_url": "https://news.ycombinator.com/item?id=49167448",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-05T06:00:55.592539"
+    "fetched_at": "2026-08-05T12:53:19.530993"
   }
 ]
