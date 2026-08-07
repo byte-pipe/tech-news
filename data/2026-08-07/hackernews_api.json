@@ -1,11 +1,28 @@
 [
   {
+    "title": "A year of fighting scrapers on my 1.5 million-page website",
+    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+    "author": "petercooper",
+    "date": "2026-08-07",
+    "score": 307,
+    "comments": 293,
+    "id": 49211386,
+    "discussion_url": "https://news.ycombinator.com/item?id=49211386",
+    "description": "A year of fighting scrapers on my 1.5 million-page website",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-07T19:51:56.123198"
+  },
+  {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
     "author": "itvision",
     "date": "2026-08-06",
-    "score": 713,
-    "comments": 538,
+    "score": 856,
+    "comments": 641,
     "id": 49201970,
     "discussion_url": "https://news.ycombinator.com/item?id=49201970",
     "description": "AMD acquires Taalas to boost inference performance by etching models in silicon",
@@ -14,15 +31,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135111"
+    "fetched_at": "2026-08-07T19:51:56.123143"
+  },
+  {
+    "title": "Atomic Clocks",
+    "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
+    "author": "teleforce",
+    "date": "2026-07-31",
+    "score": 120,
+    "comments": 75,
+    "id": 49129015,
+    "discussion_url": "https://news.ycombinator.com/item?id=49129015",
+    "description": "Atomic Clocks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-07T19:51:56.123290"
   },
   {
     "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
     "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
     "author": "Audiophilip",
     "date": "2026-08-06",
-    "score": 142,
-    "comments": 42,
+    "score": 198,
+    "comments": 61,
     "id": 49202716,
     "discussion_url": "https://news.ycombinator.com/item?id=49202716",
     "description": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
@@ -31,83 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135126"
+    "fetched_at": "2026-08-07T19:51:56.123254"
   },
   {
-    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-    "author": "colesantiago",
-    "date": "2026-08-05",
-    "score": 836,
-    "comments": 902,
-    "id": 49184755,
-    "discussion_url": "https://news.ycombinator.com/item?id=49184755",
-    "description": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "title": "DeepSeek V4 Flash 0731",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "author": "tosh",
+    "date": "2026-08-07",
+    "score": 171,
+    "comments": 106,
+    "id": 49214008,
+    "discussion_url": "https://news.ycombinator.com/item?id=49214008",
+    "description": "DeepSeek V4 Flash 0731",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135295"
-  },
-  {
-    "title": "Crime Pays but Botany Doesn't",
-    "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-    "author": "DarkContinent",
-    "date": "2026-08-06",
-    "score": 670,
-    "comments": 209,
-    "id": 49192566,
-    "discussion_url": "https://news.ycombinator.com/item?id=49192566",
-    "description": "Crime Pays but Botany Doesn't",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135266"
-  },
-  {
-    "title": "Discovery Loop",
-    "url": "https://www.discoveryloop.com/",
-    "author": "xtreak29",
-    "date": "2026-08-05",
-    "score": 924,
-    "comments": 586,
-    "id": 49184960,
-    "discussion_url": "https://news.ycombinator.com/item?id=49184960",
-    "description": "Discovery Loop",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135302"
-  },
-  {
-    "title": "Federal Communications Commission scraps limit on broadcast TV ownership",
-    "url": "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641",
-    "author": "pseudolus",
-    "date": "2026-08-06",
-    "score": 155,
-    "comments": 107,
-    "id": 49200390,
-    "discussion_url": "https://news.ycombinator.com/item?id=49200390",
-    "description": "Federal Communications Commission scraps limit on broadcast TV ownership",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135310"
+    "fetched_at": "2026-08-07T19:51:56.123128"
   },
   {
     "title": "GitHub Actions and Pages are experiencing degraded availability",
     "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
     "author": "Footkerchief",
     "date": "2026-08-06",
-    "score": 419,
-    "comments": 343,
+    "score": 487,
+    "comments": 403,
     "id": 49198302,
     "discussion_url": "https://news.ycombinator.com/item?id=49198302",
     "description": "GitHub Actions and Pages are experiencing degraded availability",
@@ -116,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135143"
+    "fetched_at": "2026-08-07T19:51:56.123272"
   },
   {
     "title": "Herdr is joining Y Combinator. The runtime stays open",
     "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
     "author": "collinmanderson",
     "date": "2026-08-06",
-    "score": 221,
-    "comments": 156,
+    "score": 271,
+    "comments": 185,
     "id": 49201003,
     "discussion_url": "https://news.ycombinator.com/item?id=49201003",
     "description": "Herdr is joining Y Combinator. The runtime stays open",
@@ -133,49 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135206"
-  },
-  {
-    "title": "How to Make a Nintendo 64 Game in 2026",
-    "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-    "author": "atan2",
-    "date": "2026-08-04",
-    "score": 477,
-    "comments": 244,
-    "id": 49168622,
-    "discussion_url": "https://news.ycombinator.com/item?id=49168622",
-    "description": "How to Make a Nintendo 64 Game in 2026",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135281"
-  },
-  {
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "author": "Wirbelwind",
-    "date": "2026-08-06",
-    "score": 309,
-    "comments": 219,
-    "id": 49195468,
-    "discussion_url": "https://news.ycombinator.com/item?id=49195468",
-    "description": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135176"
+    "fetched_at": "2026-08-07T19:51:56.123321"
   },
   {
     "title": "I stopped trusting USB-C cable labels and started testing them",
     "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
     "author": "baranul",
     "date": "2026-08-03",
-    "score": 205,
-    "comments": 168,
+    "score": 244,
+    "comments": 230,
     "id": 49152255,
     "discussion_url": "https://news.ycombinator.com/item?id=49152255",
     "description": "I stopped trusting USB-C cable labels and started testing them",
@@ -184,15 +133,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135156"
+    "fetched_at": "2026-08-07T19:51:56.123421"
+  },
+  {
+    "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+    "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+    "author": "Bender",
+    "date": "2026-08-07",
+    "score": 184,
+    "comments": 46,
+    "id": 49211438,
+    "discussion_url": "https://news.ycombinator.com/item?id=49211438",
+    "description": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-07T19:51:56.123339"
   },
   {
     "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
     "author": "tedsanders",
     "date": "2026-08-06",
-    "score": 252,
-    "comments": 194,
+    "score": 304,
+    "comments": 249,
     "id": 49199357,
     "discussion_url": "https://news.ycombinator.com/item?id=49199357",
     "description": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
@@ -201,32 +167,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135152"
+    "fetched_at": "2026-08-07T19:51:56.123285"
   },
   {
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-    "url": "https://www.aleksagordic.com/blog/vllm",
-    "author": "sebg",
-    "date": "2026-08-06",
-    "score": 118,
-    "comments": 6,
-    "id": 49202852,
-    "discussion_url": "https://news.ycombinator.com/item?id=49202852",
-    "description": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "author": "m3h",
+    "date": "2026-08-07",
+    "score": 113,
+    "comments": 30,
+    "id": 49208393,
+    "discussion_url": "https://news.ycombinator.com/item?id=49208393",
+    "description": "Kitesurf: Agent-first browser that runs in V8 isolates",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135225"
+    "fetched_at": "2026-08-07T19:51:56.123214"
   },
   {
     "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
     "url": "https://provenmetal.com",
     "author": "willcarkner",
     "date": "2026-08-06",
-    "score": 207,
-    "comments": 145,
+    "score": 224,
+    "comments": 154,
     "id": 49198464,
     "discussion_url": "https://news.ycombinator.com/item?id=49198464",
     "description": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
@@ -235,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135088"
+    "fetched_at": "2026-08-07T19:51:56.123308"
   },
   {
     "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
     "url": "https://laurentiugabriel.github.io/ChipTycoon/",
     "author": "laurentiurad",
     "date": "2026-07-31",
-    "score": 170,
-    "comments": 53,
+    "score": 203,
+    "comments": 68,
     "id": 49120149,
     "discussion_url": "https://news.ycombinator.com/item?id=49120149",
     "description": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
@@ -252,32 +218,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135191"
+    "fetched_at": "2026-08-07T19:51:56.123395"
   },
   {
-    "title": "Let's all meet up in the Y2K",
-    "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
-    "author": "msephton",
-    "date": "2026-08-06",
-    "score": 115,
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "author": "poly2it",
+    "date": "2026-08-07",
+    "score": 182,
     "comments": 83,
-    "id": 49193314,
-    "discussion_url": "https://news.ycombinator.com/item?id=49193314",
-    "description": "Let's all meet up in the Y2K",
+    "id": 49208535,
+    "discussion_url": "https://news.ycombinator.com/item?id=49208535",
+    "description": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135306"
+    "fetched_at": "2026-08-07T19:51:56.123164"
   },
   {
     "title": "Mario Meets Pareto",
     "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
     "author": "theanonymousone",
     "date": "2026-08-06",
-    "score": 1060,
-    "comments": 160,
+    "score": 1124,
+    "comments": 166,
     "id": 49195231,
     "discussion_url": "https://news.ycombinator.com/item?id=49195231",
     "description": "Mario Meets Pareto",
@@ -286,15 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135183"
+    "fetched_at": "2026-08-07T19:51:56.123317"
   },
   {
     "title": "My phone detects going on a run as “someone snatching my phone and running off”",
     "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
     "author": "luu",
     "date": "2026-08-06",
-    "score": 151,
-    "comments": 260,
+    "score": 190,
+    "comments": 332,
     "id": 49200439,
     "discussion_url": "https://news.ycombinator.com/item?id=49200439",
     "description": "My phone detects going on a run as “someone snatching my phone and running off”",
@@ -303,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135139"
+    "fetched_at": "2026-08-07T19:51:56.123334"
   },
   {
     "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
     "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
     "author": "boplicity",
     "date": "2026-08-07",
-    "score": 350,
-    "comments": 228,
+    "score": 670,
+    "comments": 359,
     "id": 49204352,
     "discussion_url": "https://news.ycombinator.com/item?id=49204352",
     "description": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
@@ -320,32 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135093"
+    "fetched_at": "2026-08-07T19:51:56.123169"
   },
   {
-    "title": "Pareto Front",
-    "url": "https://en.wikipedia.org/wiki/Pareto_front",
-    "author": "binyu",
-    "date": "2026-07-29",
-    "score": 248,
-    "comments": 99,
-    "id": 49096439,
-    "discussion_url": "https://news.ycombinator.com/item?id=49096439",
-    "description": "Pareto Front",
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "author": "delduca",
+    "date": "2026-08-07",
+    "score": 227,
+    "comments": 157,
+    "id": 49213754,
+    "discussion_url": "https://news.ycombinator.com/item?id=49213754",
+    "description": "Oracle bans AI-generated code from OpenJDK",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135228"
+    "fetched_at": "2026-08-07T19:51:56.123148"
   },
   {
     "title": "Quake – 30th Anniversary Update",
     "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
     "author": "dsubburam",
     "date": "2026-08-06",
-    "score": 342,
-    "comments": 166,
+    "score": 385,
+    "comments": 187,
     "id": 49201930,
     "discussion_url": "https://news.ycombinator.com/item?id=49201930",
     "description": "Quake – 30th Anniversary Update",
@@ -354,32 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135209"
-  },
-  {
-    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-    "author": "apitman",
-    "date": "2026-08-06",
-    "score": 506,
-    "comments": 319,
-    "id": 49200652,
-    "discussion_url": "https://news.ycombinator.com/item?id=49200652",
-    "description": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135288"
+    "fetched_at": "2026-08-07T19:51:56.123432"
   },
   {
     "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
     "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
     "author": "neversaydie",
     "date": "2026-08-05",
-    "score": 243,
-    "comments": 52,
+    "score": 298,
+    "comments": 60,
     "id": 49184355,
     "discussion_url": "https://news.ycombinator.com/item?id=49184355",
     "description": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
@@ -388,32 +337,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135098"
+    "fetched_at": "2026-08-07T19:51:56.123259"
   },
   {
-    "title": "Software development with AI is starting to feel like cooking steak",
-    "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-    "author": "yusyd",
+    "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+    "url": "https://github.com/CopilotKit/channels-sdk",
+    "author": "davidmckayv",
     "date": "2026-08-06",
-    "score": 372,
-    "comments": 399,
-    "id": 49198069,
-    "discussion_url": "https://news.ycombinator.com/item?id=49198069",
-    "description": "Software development with AI is starting to feel like cooking steak",
+    "score": 112,
+    "comments": 24,
+    "id": 49198583,
+    "discussion_url": "https://news.ycombinator.com/item?id=49198583",
+    "description": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135262"
+    "fetched_at": "2026-08-07T19:51:56.123428"
+  },
+  {
+    "title": "Show HN: Wyzer Programming Language",
+    "url": "https://github.com/Wyzer-Lang/wyzer",
+    "author": "v0id_isgood",
+    "date": "2026-08-07",
+    "score": 147,
+    "comments": 87,
+    "id": 49209385,
+    "discussion_url": "https://news.ycombinator.com/item?id=49209385",
+    "description": "Show HN: Wyzer Programming Language",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-07T19:51:56.123228"
   },
   {
     "title": "São Paulo resident transforms degraded area into urban forest",
     "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
     "author": "rmason",
     "date": "2026-08-01",
-    "score": 164,
-    "comments": 64,
+    "score": 301,
+    "comments": 115,
     "id": 49138446,
     "discussion_url": "https://news.ycombinator.com/item?id=49138446",
     "description": "São Paulo resident transforms degraded area into urban forest",
@@ -422,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135148"
+    "fetched_at": "2026-08-07T19:51:56.123250"
   },
   {
     "title": "Taste Is All That's Left",
     "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
     "author": "tsak",
     "date": "2026-08-06",
-    "score": 470,
-    "comments": 339,
+    "score": 639,
+    "comments": 499,
     "id": 49199346,
     "discussion_url": "https://news.ycombinator.com/item?id=49199346",
     "description": "Taste Is All That's Left",
@@ -439,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135102"
+    "fetched_at": "2026-08-07T19:51:56.123236"
   },
   {
     "title": "The simple elegance of the integrated timing belt loopback fastener",
     "url": "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/",
     "author": "hasheddan",
     "date": "2026-08-02",
-    "score": 118,
-    "comments": 28,
+    "score": 124,
+    "comments": 29,
     "id": 49143782,
     "discussion_url": "https://news.ycombinator.com/item?id=49143782",
     "description": "The simple elegance of the integrated timing belt loopback fastener",
@@ -456,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135232"
+    "fetched_at": "2026-08-07T19:51:56.123435"
   },
   {
     "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
     "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
     "author": "defrost",
     "date": "2026-08-07",
-    "score": 178,
-    "comments": 140,
+    "score": 826,
+    "comments": 781,
     "id": 49208314,
     "discussion_url": "https://news.ycombinator.com/item?id=49208314",
     "description": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
@@ -473,32 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135077"
+    "fetched_at": "2026-08-07T19:51:56.123387"
   },
   {
-    "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
-    "url": "https://nanochess.org/the_am29000_computer.html",
-    "author": "nanochess",
-    "date": "2026-07-31",
-    "score": 172,
-    "comments": 33,
-    "id": 49129008,
-    "discussion_url": "https://news.ycombinator.com/item?id=49129008",
-    "description": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
+    "title": "USA Today Co., partners with Palantir to analyze audience data",
+    "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+    "author": "cdrnsf",
+    "date": "2026-08-07",
+    "score": 170,
+    "comments": 67,
+    "id": 49210589,
+    "discussion_url": "https://news.ycombinator.com/item?id=49210589",
+    "description": "USA Today Co., partners with Palantir to analyze audience data",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135255"
+    "fetched_at": "2026-08-07T19:51:56.123281"
   },
   {
     "title": "Welcoming the Nepalese Government to Have I Been Pwned",
     "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
     "author": "gnabgib",
     "date": "2026-08-06",
-    "score": 165,
-    "comments": 27,
+    "score": 207,
+    "comments": 34,
     "id": 49203105,
     "discussion_url": "https://news.ycombinator.com/item?id=49203105",
     "description": "Welcoming the Nepalese Government to Have I Been Pwned",
@@ -507,6 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-07T11:43:59.135168"
+    "fetched_at": "2026-08-07T19:51:56.123304"
+  },
+  {
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "author": "RickJWagner",
+    "date": "2026-08-07",
+    "score": 120,
+    "comments": 215,
+    "id": 49209539,
+    "discussion_url": "https://news.ycombinator.com/item?id=49209539",
+    "description": "What happens if an entire class of workers loses faith in their careers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-07T19:51:56.123194"
+  },
+  {
+    "title": "Why Estonians invite strangers into their back gardens each summer",
+    "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
+    "author": "koolhead17",
+    "date": "2026-08-04",
+    "score": 142,
+    "comments": 50,
+    "id": 49163879,
+    "discussion_url": "https://news.ycombinator.com/item?id=49163879",
+    "description": "Why Estonians invite strangers into their back gardens each summer",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-07T19:51:56.123325"
   }
 ]
