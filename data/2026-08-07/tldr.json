@@ -100,9 +100,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Agent Identity Architectures: Delegated, Bounded, and Autonomous (17 minute read)",
+    "url": "https://1password.com/blog/ai-agent-identity-architectures",
+    "description": "Agent Identity Architectures: Delegated, Bounded, and Autonomous (17 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-07",
+    "site_name": "tldr"
+  },
+  {
     "title": "AgentHound (GitHub Repo)",
     "url": "https://github.com/adithyan-ak/agenthound",
     "description": "AgentHound (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agentic Incident Response Notebooks (6 minute read)",
+    "url": "https://blog.cauchy.org/blog/incident-response-notebooks/",
+    "description": "Agentic Incident Response Notebooks (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -123,6 +143,16 @@
     "title": "Anthropic Says Claude Models Hacked 3 Organizations During Cyber Tests (3 minute read)",
     "url": "https://hackread.com/anthropic-claude-models-hacked-organizations-cyber-tests/",
     "description": "Anthropic Says Claude Models Hacked 3 Organizations During Cyber Tests (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic hiring an AI Chip Design Team (3 minute read)",
+    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "description": "Anthropic hiring an AI Chip Design Team (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -400,6 +430,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "DeepSeek Plans Significant API Price Increases (1 minute read)",
+    "url": "https://technode.com/2026/08/06/deepseek-plans-significant-api-price-increases/",
+    "description": "DeepSeek Plans Significant API Price Increases (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-07",
+    "site_name": "tldr"
+  },
+  {
     "title": "Defcon's new badge is a security key you can see inside (7 minute read)",
     "url": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
     "description": "Defcon's new badge is a security key you can see inside (7 minute read)",
@@ -423,16 +463,6 @@
     "title": "Designing with Code (5 minute read)",
     "url": "https://justinjay.wang/designing-with-code/",
     "description": "Designing with Code (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Disney+ Partners With TikTok to Host Fan-Created Content (2 minute read)",
-    "url": "https://www.thewrap.com/media-platforms/streaming/disney-tiktok-deal-curated-fan-created-content-on-disney-plus-verts/",
-    "description": "Disney+ Partners With TikTok to Host Fan-Created Content (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -780,16 +810,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Flex: Let the Model Write the Code (16 minute read)",
-    "url": "https://www.cmpnd.ai/blog/let-the-model-write-the-code.html",
-    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-07",
-    "site_name": "tldr"
-  },
-  {
     "title": "Introducing Hark Handoff (8 minute read)",
     "url": "https://hark.com/articles/introducing-hark-handoff",
     "description": "Introducing Hark Handoff (8 minute read)",
@@ -1020,6 +1040,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Prime Agent: A self-improving RLM agent (22 minute read)",
+    "url": "https://www.primeintellect.ai/blog/prime-agent",
+    "description": "Prime Agent: A self-improving RLM agent (22 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-07",
+    "site_name": "tldr"
+  },
+  {
     "title": "PrismML Shrinks a 27B-Parameter Model to 3.9GB, Small Enough to Run Free on an iPhone (2 minute read)",
     "url": "https://finance.yahoo.com/technology/ai/articles/apples-hardware-ready-device-ai-045000917.html",
     "description": "PrismML Shrinks a 27B-Parameter Model to 3.9GB, Small Enough to Run Free on an iPhone (2 minute read)",
@@ -1060,16 +1090,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Qwen-Image-3.0-Pro (3 minute read)",
-    "url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
-    "description": "Qwen-Image-3.0-Pro (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-07",
-    "site_name": "tldr"
-  },
-  {
     "title": "RedotPay leads crypto card downloads despite 0% cashback (1 minute read)",
     "url": "https://threadreaderapp.com/thread/2084676240506798293.html",
     "description": "RedotPay leads crypto card downloads despite 0% cashback (1 minute read)",
@@ -1102,7 +1122,7 @@
   {
     "title": "See the Sun like never before with most detailed images yet (3 minute read)",
     "url": "https://www.bbc.com/news/articles/c36d4376nd2o",
-    "description": "See the Sun like never before with most detailed images yet (3 minute read)",
+    "description": "A \"simple\" weekend project turns into real infrastructure, and why agent context deserves a boring, reliable foundation.",
     "tags": [
       "tldr"
     ],
@@ -1123,6 +1143,16 @@
     "title": "Should You Self-Host Inference? (14 minute read)",
     "url": "https://theaiengineer.substack.com/p/should-you-self-host-inference",
     "description": "Should You Self-Host Inference? (14 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Simple fixes for indexation issues (1 minute read)",
+    "url": "https://www.linkedin.com/posts/wawok-patryk-seo_last-month-i-fixed-indexation-issues-on-share-7490689157506236418-Z2Da/",
+    "description": "Simple fixes for indexation issues (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1213,6 +1243,16 @@
     "title": "TencentDB Agent Memory (GitHub Repo)",
     "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
     "description": "TencentDB Agent Memory (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Agent Access Model (27 minute read)",
+    "url": "https://blog.cloudflare.com/the-agent-access-model/",
+    "description": "The Agent Access Model (27 minute read)",
     "tags": [
       "tldr"
     ],

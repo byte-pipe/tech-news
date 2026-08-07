@@ -55,8 +55,8 @@
     "date": "2026-08-03",
     "description": "Debates AI use and content quality standardsFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowAug 3How would you decide, whether the c...",
     "tags": "#discuss, #community, #ai, #writing",
-    "reactions": "144 reactions",
-    "comments": "Comments 107 comments",
+    "reactions": "150 reactions",
+    "comments": "Comments 109 comments",
     "url": "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p"
   },
   {
@@ -75,8 +75,8 @@
     "date": "2026-08-06",
     "description": "Replaced safety prompts with 134 standing rulesAshley ChildressAshley ChildressAshley ChildressFollowAug 6I Recreated Management With AI: 9 Things I D...",
     "tags": "#discuss, #ai, #writing, #productivity",
-    "reactions": "8 reactions",
-    "comments": "Comments 2 comments",
+    "reactions": "22 reactions",
+    "comments": "Comments 3 comments",
     "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g"
   },
   {
@@ -105,7 +105,7 @@
     "date": "2026-08-04",
     "description": "Applies an engineering mindset to personal growthSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowAug 4Stop Calling Everything Impostor Syndrome:...",
     "tags": "#career, #mentalhealth",
-    "reactions": "130 reactions",
+    "reactions": "141 reactions",
     "comments": "Comments 89 comments",
     "url": "https://dev.to/sylwia-lask/stop-calling-everything-impostor-syndrome-the-myth-of-just-push-harder-1dmm"
   },
@@ -120,23 +120,13 @@
     "url": "https://dev.to/konark_13/the-day-i-became-a-bug-hunter-3e41"
   },
   {
-    "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
-    "author": "Giulio D'Erme",
-    "date": "2026-07-30",
-    "description": "Raw turns beat LLM cost via auditabilityGiulio D'ErmeGiulio D'ErmeGiulio D'ErmeFollowJul 30The memory layer that never calls an LLM: what that buys, a...",
-    "tags": "#discuss, #ai, #rag, #opensource",
-    "reactions": "20 reactions",
-    "comments": "Comments 30 comments",
-    "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch"
-  },
-  {
     "title": "TypeScript 7 Went Native: What Actually Changes And What Doesn't",
     "author": "Nazar Boyko",
     "date": "2026-08-03",
     "description": "Rewritten in Go for massive performance gainsNazar BoykoNazar BoykoNazar BoykoFollowAug 3TypeScript 7 Went Native: What Actually Changes And What Does...",
     "tags": "#discuss, #javascript, #typescript, #performance",
-    "reactions": "186 reactions",
-    "comments": "Comments 79 comments",
+    "reactions": "188 reactions",
+    "comments": "Comments 80 comments",
     "url": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3"
   },
   {
@@ -145,8 +135,8 @@
     "date": "2026-08-04",
     "description": "Reflections sparked by a reader debateAdam - The Developer ✨Adam - The Developer ✨Adam - The Developer ✨FollowAug 4Understanding Over Origin: The Miss...",
     "tags": "#ai, #programming, #productivity, #learning",
-    "reactions": "45 reactions",
-    "comments": "Comments 40 comments",
+    "reactions": "49 reactions",
+    "comments": "Comments 41 comments",
     "url": "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag"
   },
   {
@@ -155,8 +145,8 @@
     "date": "2026-08-03",
     "description": "Real incidents reveal prompt safety gapsHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowAug 3We’re Giving AI Agents More Tools. What Happe...",
     "tags": "#discuss, #security, #agents, #programming",
-    "reactions": "72 reactions",
-    "comments": "Comments 76 comments",
+    "reactions": "77 reactions",
+    "comments": "Comments 77 comments",
     "url": "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh"
   },
   {
@@ -178,5 +168,15 @@
     "reactions": "37 reactions",
     "comments": "Comments 28 comments",
     "url": "https://dev.to/dannwaneri/devtos-dashboard-cant-count-its-own-posts-3fci"
+  },
+  {
+    "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
+    "author": "Mike",
+    "date": "2026-08-06",
+    "description": "Frontend Challenge Perfect Landing Submission 🍲🥧MikeMikeMikeFollowAug 6🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old br...",
+    "tags": "#devchallenge, #frontendchallenge, #webdev, #javascript",
+    "reactions": "21 reactions",
+    "comments": "Comments 2 comments",
+    "url": "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h"
   }
 ]
