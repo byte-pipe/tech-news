@@ -1,11 +1,28 @@
 [
   {
+    "title": "\"Code was never the hard part\" is an insult to all programmers",
+    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+    "author": "senko",
+    "date": "2026-08-08",
+    "score": 183,
+    "comments": 131,
+    "id": 49222189,
+    "discussion_url": "https://news.ycombinator.com/item?id=49222189",
+    "description": "\"Code was never the hard part\" is an insult to all programmers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-08T19:27:33.508780"
+  },
+  {
     "title": "2027 memory capacity is reportedly sold out",
     "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
     "author": "inigyou",
     "date": "2026-08-07",
-    "score": 383,
-    "comments": 352,
+    "score": 474,
+    "comments": 452,
     "id": 49207236,
     "discussion_url": "https://news.ycombinator.com/item?id=49207236",
     "description": "2027 memory capacity is reportedly sold out",
@@ -14,49 +31,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017455"
+    "fetched_at": "2026-08-08T19:27:33.508903"
   },
   {
-    "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+    "title": "A domain can now say it is for sale, in DNS",
+    "url": "https://specification.website/spec/foundations/for-sale-dns/",
+    "author": "shaunpud",
+    "date": "2026-08-08",
+    "score": 241,
+    "comments": 111,
+    "id": 49221668,
+    "discussion_url": "https://news.ycombinator.com/item?id=49221668",
+    "description": "A domain can now say it is for sale, in DNS",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-08T19:27:33.508812"
+  },
+  {
+    "title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
     "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
     "author": "aanet",
     "date": "2026-08-05",
-    "score": 240,
-    "comments": 47,
+    "score": 372,
+    "comments": 92,
     "id": 49189457,
     "discussion_url": "https://news.ycombinator.com/item?id=49189457",
-    "description": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+    "description": "A physicist rigged his pet hamster’s wheel to upload to Strava",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017334"
-  },
-  {
-    "title": "A year of fighting scrapers on my 1.5 million-page website",
-    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-    "author": "petercooper",
-    "date": "2026-08-07",
-    "score": 422,
-    "comments": 390,
-    "id": 49211386,
-    "discussion_url": "https://news.ycombinator.com/item?id=49211386",
-    "description": "A year of fighting scrapers on my 1.5 million-page website",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017530"
+    "fetched_at": "2026-08-08T19:27:33.508833"
   },
   {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
     "author": "itvision",
     "date": "2026-08-06",
-    "score": 903,
-    "comments": 684,
+    "score": 918,
+    "comments": 691,
     "id": 49201970,
     "discussion_url": "https://news.ycombinator.com/item?id=49201970",
     "description": "AMD acquires Taalas to boost inference performance by etching models in silicon",
@@ -65,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017504"
+    "fetched_at": "2026-08-08T19:27:33.508985"
   },
   {
     "title": "An all-sky map of half a million supermassive black holes",
     "url": "https://www.sdss.org/black-hole-mapper-release-20/",
     "author": "MarcoDewey",
     "date": "2026-08-07",
-    "score": 169,
-    "comments": 38,
+    "score": 183,
+    "comments": 40,
     "id": 49211921,
     "discussion_url": "https://news.ycombinator.com/item?id=49211921",
     "description": "An all-sky map of half a million supermassive black holes",
@@ -82,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017393"
+    "fetched_at": "2026-08-08T19:27:33.508945"
   },
   {
     "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
     "url": "https://ancientlibrary.net/",
     "author": "aagha",
     "date": "2026-08-07",
-    "score": 210,
-    "comments": 69,
+    "score": 247,
+    "comments": 77,
     "id": 49214770,
     "discussion_url": "https://news.ycombinator.com/item?id=49214770",
     "description": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
@@ -99,15 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017431"
+    "fetched_at": "2026-08-08T19:27:33.508910"
+  },
+  {
+    "title": "As a Windows user, it's a surreal way to install a program",
+    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+    "author": "allenc",
+    "date": "2026-08-04",
+    "score": 181,
+    "comments": 148,
+    "id": 49164184,
+    "discussion_url": "https://news.ycombinator.com/item?id=49164184",
+    "description": "As a Windows user, it's a surreal way to install a program",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-08T19:27:33.508914"
   },
   {
     "title": "Assembly Hall of Shame",
     "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
     "author": "piotrgrabowski",
     "date": "2026-08-07",
-    "score": 356,
-    "comments": 90,
+    "score": 401,
+    "comments": 98,
     "id": 49214098,
     "discussion_url": "https://news.ycombinator.com/item?id=49214098",
     "description": "Assembly Hall of Shame",
@@ -116,32 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017365"
-  },
-  {
-    "title": "Atomic Clocks",
-    "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
-    "author": "teleforce",
-    "date": "2026-07-31",
-    "score": 137,
-    "comments": 79,
-    "id": 49129015,
-    "discussion_url": "https://news.ycombinator.com/item?id=49129015",
-    "description": "Atomic Clocks",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017540"
+    "fetched_at": "2026-08-08T19:27:33.508889"
   },
   {
     "title": "Carl's Required Reading",
     "url": "https://carlkolon.com/reading/",
     "author": "cckolon",
     "date": "2026-08-01",
-    "score": 181,
-    "comments": 22,
+    "score": 219,
+    "comments": 28,
     "id": 49135457,
     "discussion_url": "https://news.ycombinator.com/item?id=49135457",
     "description": "Carl's Required Reading",
@@ -150,15 +167,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017445"
+    "fetched_at": "2026-08-08T19:27:33.508949"
+  },
+  {
+    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "author": "bhavansig",
+    "date": "2026-08-08",
+    "score": 311,
+    "comments": 99,
+    "id": 49220126,
+    "discussion_url": "https://news.ycombinator.com/item?id=49220126",
+    "description": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-08T19:27:33.508817"
   },
   {
     "title": "DeepSeek V4 Flash 0731",
     "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
     "author": "tosh",
     "date": "2026-08-07",
-    "score": 650,
-    "comments": 394,
+    "score": 734,
+    "comments": 442,
     "id": 49214008,
     "discussion_url": "https://news.ycombinator.com/item?id=49214008",
     "description": "DeepSeek V4 Flash 0731",
@@ -167,15 +201,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017411"
+    "fetched_at": "2026-08-08T19:27:33.508775"
+  },
+  {
+    "title": "Fastmail offers EU data region",
+    "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+    "author": "groomlake",
+    "date": "2026-08-08",
+    "score": 150,
+    "comments": 75,
+    "id": 49223082,
+    "discussion_url": "https://news.ycombinator.com/item?id=49223082",
+    "description": "Fastmail offers EU data region",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-08T19:27:33.508825"
+  },
+  {
+    "title": "Hardware backdoors in some x86 CPUs",
+    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "author": "epestr",
+    "date": "2026-08-08",
+    "score": 285,
+    "comments": 87,
+    "id": 49219508,
+    "discussion_url": "https://news.ycombinator.com/item?id=49219508",
+    "description": "Hardware backdoors in some x86 CPUs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-08T19:27:33.508849"
   },
   {
     "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
     "url": "https://blog.cloudflare.com/kitesurf/",
     "author": "m3h",
     "date": "2026-08-07",
-    "score": 196,
-    "comments": 52,
+    "score": 210,
+    "comments": 59,
     "id": 49208393,
     "discussion_url": "https://news.ycombinator.com/item?id=49208393",
     "description": "Kitesurf: Agent-first browser that runs in V8 isolates",
@@ -184,32 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017459"
-  },
-  {
-    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-    "url": "https://provenmetal.com",
-    "author": "willcarkner",
-    "date": "2026-08-06",
-    "score": 229,
-    "comments": 155,
-    "id": 49198464,
-    "discussion_url": "https://news.ycombinator.com/item?id=49198464",
-    "description": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017519"
+    "fetched_at": "2026-08-08T19:27:33.508966"
   },
   {
     "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
     "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
     "author": "poly2it",
     "date": "2026-08-07",
-    "score": 292,
-    "comments": 146,
+    "score": 315,
+    "comments": 158,
     "id": 49208535,
     "discussion_url": "https://news.ycombinator.com/item?id=49208535",
     "description": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
@@ -218,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017469"
+    "fetched_at": "2026-08-08T19:27:33.508942"
   },
   {
     "title": "Managing AI Coding Costs at Scale",
     "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
     "author": "moonikakiss",
     "date": "2026-08-07",
-    "score": 250,
-    "comments": 209,
+    "score": 290,
+    "comments": 248,
     "id": 49214468,
     "discussion_url": "https://news.ycombinator.com/item?id=49214468",
     "description": "Managing AI Coding Costs at Scale",
@@ -235,32 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017462"
+    "fetched_at": "2026-08-08T19:27:33.508928"
   },
   {
-    "title": "Mario Meets Pareto",
-    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "author": "theanonymousone",
-    "date": "2026-08-06",
-    "score": 1156,
-    "comments": 165,
-    "id": 49195231,
-    "discussion_url": "https://news.ycombinator.com/item?id=49195231",
-    "description": "Mario Meets Pareto",
+    "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+    "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+    "author": "eternalreturn",
+    "date": "2026-08-08",
+    "score": 145,
+    "comments": 141,
+    "id": 49220392,
+    "discussion_url": "https://news.ycombinator.com/item?id=49220392",
+    "description": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017537"
+    "fetched_at": "2026-08-08T19:27:33.508952"
   },
   {
     "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
     "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
     "author": "wglb",
     "date": "2026-08-08",
-    "score": 254,
-    "comments": 47,
+    "score": 339,
+    "comments": 76,
     "id": 49218179,
     "discussion_url": "https://news.ycombinator.com/item?id=49218179",
     "description": "NASA figured out how to keep its Voyager 2 probe running for another year",
@@ -269,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017415"
+    "fetched_at": "2026-08-08T19:27:33.508907"
   },
   {
     "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
     "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
     "author": "boplicity",
     "date": "2026-08-07",
-    "score": 767,
-    "comments": 407,
+    "score": 782,
+    "comments": 420,
     "id": 49204352,
     "discussion_url": "https://news.ycombinator.com/item?id=49204352",
     "description": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
@@ -286,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017487"
+    "fetched_at": "2026-08-08T19:27:33.508962"
   },
   {
     "title": "Oracle bans AI-generated code from OpenJDK",
     "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
     "author": "delduca",
     "date": "2026-08-07",
-    "score": 481,
-    "comments": 341,
+    "score": 506,
+    "comments": 371,
     "id": 49213754,
     "discussion_url": "https://news.ycombinator.com/item?id=49213754",
     "description": "Oracle bans AI-generated code from OpenJDK",
@@ -303,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017438"
+    "fetched_at": "2026-08-08T19:27:33.508973"
   },
   {
     "title": "Radical Study Suggests Life on Earth Arose Twice",
     "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
     "author": "jnord",
     "date": "2026-08-07",
-    "score": 155,
-    "comments": 102,
+    "score": 185,
+    "comments": 110,
     "id": 49209572,
     "discussion_url": "https://news.ycombinator.com/item?id=49209572",
     "description": "Radical Study Suggests Life on Earth Arose Twice",
@@ -320,15 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017452"
+    "fetched_at": "2026-08-08T19:27:33.508935"
   },
   {
     "title": "Responding to the next frontier of critical cyber capabilities",
     "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
     "author": "artninja1988",
     "date": "2026-08-07",
-    "score": 188,
-    "comments": 180,
+    "score": 194,
+    "comments": 189,
     "id": 49213029,
     "discussion_url": "https://news.ycombinator.com/item?id=49213029",
     "description": "Responding to the next frontier of critical cyber capabilities",
@@ -337,83 +388,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017435"
+    "fetched_at": "2026-08-08T19:27:33.508955"
   },
   {
-    "title": "Show HN: Wyzer Programming Language",
-    "url": "https://github.com/Wyzer-Lang/wyzer",
-    "author": "v0id_isgood",
-    "date": "2026-08-07",
-    "score": 201,
-    "comments": 108,
-    "id": 49209385,
-    "discussion_url": "https://news.ycombinator.com/item?id=49209385",
-    "description": "Show HN: Wyzer Programming Language",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017514"
-  },
-  {
-    "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
-    "url": "https://textlog.cc/about",
-    "author": "stagas",
-    "date": "2026-08-07",
-    "score": 171,
-    "comments": 70,
-    "id": 49208458,
-    "discussion_url": "https://news.ycombinator.com/item?id=49208458",
-    "description": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017511"
-  },
-  {
-    "title": "São Paulo resident transforms degraded area into urban forest",
-    "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
-    "author": "rmason",
+    "title": "SupererDuperer",
+    "url": "https://www.shirtpocket.com/blog/supererduperer",
+    "author": "zdw",
     "date": "2026-08-01",
-    "score": 343,
-    "comments": 123,
-    "id": 49138446,
-    "discussion_url": "https://news.ycombinator.com/item?id=49138446",
-    "description": "São Paulo resident transforms degraded area into urban forest",
+    "score": 155,
+    "comments": 32,
+    "id": 49135261,
+    "discussion_url": "https://news.ycombinator.com/item?id=49135261",
+    "description": "SupererDuperer",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017584"
-  },
-  {
-    "title": "Taste Is All That's Left",
-    "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-    "author": "tsak",
-    "date": "2026-08-06",
-    "score": 668,
-    "comments": 524,
-    "id": 49199346,
-    "discussion_url": "https://news.ycombinator.com/item?id=49199346",
-    "description": "Taste Is All That's Left",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017550"
+    "fetched_at": "2026-08-08T19:27:33.508917"
   },
   {
     "title": "The Nixpkgs core team has disbanded",
     "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
     "author": "Meleagris",
     "date": "2026-08-08",
-    "score": 312,
-    "comments": 152,
+    "score": 368,
+    "comments": 192,
     "id": 49217993,
     "discussion_url": "https://news.ycombinator.com/item?id=49217993",
     "description": "The Nixpkgs core team has disbanded",
@@ -422,15 +422,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017465"
+    "fetched_at": "2026-08-08T19:27:33.508939"
+  },
+  {
+    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "author": "882542F3884314B",
+    "date": "2026-08-08",
+    "score": 233,
+    "comments": 241,
+    "id": 49220609,
+    "discussion_url": "https://news.ycombinator.com/item?id=49220609",
+    "description": "Timeline of the OpenAI accidental attack against Hugging Face",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-08T19:27:33.508829"
   },
   {
     "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
     "url": "https://genesisopenmodels.anl.gov/",
     "author": "moelf",
     "date": "2026-08-07",
-    "score": 251,
-    "comments": 89,
+    "score": 329,
+    "comments": 135,
     "id": 49216946,
     "discussion_url": "https://news.ycombinator.com/item?id=49216946",
     "description": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
@@ -439,15 +456,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017419"
+    "fetched_at": "2026-08-08T19:27:33.508872"
+  },
+  {
+    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+    "author": "rbanffy",
+    "date": "2026-08-08",
+    "score": 147,
+    "comments": 220,
+    "id": 49220339,
+    "discussion_url": "https://news.ycombinator.com/item?id=49220339",
+    "description": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-08T19:27:33.508842"
   },
   {
     "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
     "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
     "author": "Bender",
     "date": "2026-08-07",
-    "score": 206,
-    "comments": 137,
+    "score": 236,
+    "comments": 151,
     "id": 49216362,
     "discussion_url": "https://news.ycombinator.com/item?id=49216362",
     "description": "Water system controllers don't belong on the internet, says ex-NSA chief",
@@ -456,32 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017500"
-  },
-  {
-    "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-    "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-    "author": "gnabgib",
-    "date": "2026-08-06",
-    "score": 214,
-    "comments": 35,
-    "id": 49203105,
-    "discussion_url": "https://news.ycombinator.com/item?id=49203105",
-    "description": "Welcoming the Nepalese Government to Have I Been Pwned",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017543"
+    "fetched_at": "2026-08-08T19:27:33.508995"
   },
   {
     "title": "What happens if an entire class of workers loses faith in their careers",
     "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
     "author": "RickJWagner",
     "date": "2026-08-07",
-    "score": 709,
-    "comments": 797,
+    "score": 911,
+    "comments": 1080,
     "id": 49209539,
     "discussion_url": "https://news.ycombinator.com/item?id=49209539",
     "description": "What happens if an entire class of workers loses faith in their careers",
@@ -490,23 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017357"
-  },
-  {
-    "title": "Why Estonians invite strangers into their back gardens each summer",
-    "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
-    "author": "koolhead17",
-    "date": "2026-08-04",
-    "score": 151,
-    "comments": 54,
-    "id": 49163879,
-    "discussion_url": "https://news.ycombinator.com/item?id=49163879",
-    "description": "Why Estonians invite strangers into their back gardens each summer",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-08T11:25:41.017557"
+    "fetched_at": "2026-08-08T19:27:33.508875"
   }
 ]

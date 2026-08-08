@@ -20,6 +20,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "A Requiem for Optane: Intel's KV-Cache Killer That Could Have Eased the RAM Price Crunch (4 minute read)",
+    "url": "https://www.theregister.com/storage/2026/07/29/a-requiem-for-optane-intels-kv-cache-killer-that-could-have-eased-the-ram-price-crunch/5280063",
+    "description": "A Requiem for Optane: Intel's KV-Cache Killer That Could Have Eased the RAM Price Crunch (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-08",
+    "site_name": "tldr"
+  },
+  {
     "title": "A unified API for AI model routing (3 minute read)",
     "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
     "description": "A unified API for AI model routing (3 minute read)",
@@ -133,6 +143,16 @@
     "title": "Agent Plugins (2 minute read)",
     "url": "https://agent-plugins.org/",
     "description": "Agent Plugins (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agent Plugins (4 minute read)",
+    "url": "https://vercel.com/blog/introducing-agent-plugins",
+    "description": "Agent Plugins (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -730,16 +750,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Agent Plugins (4 minute read)",
-    "url": "https://vercel.com/blog/introducing-agent-plugins",
-    "description": "Introducing Agent Plugins (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-08",
-    "site_name": "tldr"
-  },
-  {
     "title": "Knowing When to Stop: The Art of Making a Loop Converge (8 minute read)",
     "url": "https://www.a16z.news/p/knowing-when-to-stop-the-art-of-making",
     "description": "Knowing When to Stop: The Art of Making a Loop Converge (8 minute read)",
@@ -813,16 +823,6 @@
     "title": "LoopX (GitHub Repo)",
     "url": "https://github.com/huangruiteng/loopx",
     "description": "LoopX (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Lumilens Raises $700 Million to Replace Data-Center Wires With Light (3 minute read)",
-    "url": "https://thenextweb.com/news/lumilens-700m-stealth-5-51bn-ai-optical-interconnect",
-    "description": "Lumilens Raises $700 Million to Replace Data-Center Wires With Light (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1213,16 +1213,6 @@
     "title": "The Three AI Pills (21 minute read)",
     "url": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills/",
     "description": "The Three AI Pills (21 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The end of the age of heroes (18 minute read)",
-    "url": "https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
-    "description": "The end of the age of heroes (18 minute read)",
     "tags": [
       "tldr"
     ],
