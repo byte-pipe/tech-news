@@ -1,130 +1,62 @@
 [
   {
-    "title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
-    "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-    "author": "aanet",
-    "date": "2026-08-05",
-    "score": 431,
-    "comments": 98,
-    "id": 49189457,
-    "discussion_url": "https://news.ycombinator.com/item?id=49189457",
-    "description": "A physicist rigged his pet hamster’s wheel to upload to Strava",
+    "title": "Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
+    "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+    "author": "iamnothere",
+    "date": "2026-08-09",
+    "score": 150,
+    "comments": 66,
+    "id": 49232318,
+    "discussion_url": "https://news.ycombinator.com/item?id=49232318",
+    "description": "Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190362"
+    "fetched_at": "2026-08-09T19:31:50.089319"
   },
   {
-    "title": "As a Windows user, it's a surreal way to install a program",
-    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
-    "author": "allenc",
-    "date": "2026-08-04",
-    "score": 230,
-    "comments": 177,
-    "id": 49164184,
-    "discussion_url": "https://news.ycombinator.com/item?id=49164184",
-    "description": "As a Windows user, it's a surreal way to install a program",
+    "title": "CSS: The bomb inside your inbox",
+    "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+    "author": "ashurandi",
+    "date": "2026-08-09",
+    "score": 85,
+    "comments": 33,
+    "id": 49230066,
+    "discussion_url": "https://news.ycombinator.com/item?id=49230066",
+    "description": "CSS: The bomb inside your inbox",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190348"
+    "fetched_at": "2026-08-09T19:31:50.089438"
   },
   {
-    "title": "Building a local positioning system to track runners using Ultra-Wideband",
-    "url": "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/",
-    "author": "robinpdev",
-    "date": "2026-08-01",
-    "score": 90,
-    "comments": 8,
-    "id": 49133850,
-    "discussion_url": "https://news.ycombinator.com/item?id=49133850",
-    "description": "Building a local positioning system to track runners using Ultra-Wideband",
+    "title": "Cool URIs Don't Change (1998)",
+    "url": "https://www.w3.org/Provider/Style/URI",
+    "author": "Klaster_1",
+    "date": "2026-08-09",
+    "score": 92,
+    "comments": 14,
+    "id": 49231809,
+    "discussion_url": "https://news.ycombinator.com/item?id=49231809",
+    "description": "Cool URIs Don't Change (1998)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190207"
-  },
-  {
-    "title": "Can Intel finally beat ARM on performance per Watt?",
-    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-    "author": "gumby",
-    "date": "2026-08-08",
-    "score": 195,
-    "comments": 152,
-    "id": 49223079,
-    "discussion_url": "https://news.ycombinator.com/item?id=49223079",
-    "description": "Can Intel finally beat ARM on performance per Watt?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190279"
-  },
-  {
-    "title": "Danish high schoolers will have to verbally defend written assignments",
-    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-    "author": "theanonymousone",
-    "date": "2026-08-08",
-    "score": 580,
-    "comments": 258,
-    "id": 49224294,
-    "discussion_url": "https://news.ycombinator.com/item?id=49224294",
-    "description": "Danish high schoolers will have to verbally defend written assignments",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190301"
-  },
-  {
-    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "author": "bhavansig",
-    "date": "2026-08-08",
-    "score": 423,
-    "comments": 124,
-    "id": 49220126,
-    "discussion_url": "https://news.ycombinator.com/item?id=49220126",
-    "description": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190297"
-  },
-  {
-    "title": "DeepSeek V4 Flash 0731",
-    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-    "author": "tosh",
-    "date": "2026-08-07",
-    "score": 772,
-    "comments": 463,
-    "id": 49214008,
-    "discussion_url": "https://news.ycombinator.com/item?id=49214008",
-    "description": "DeepSeek V4 Flash 0731",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190376"
+    "fetched_at": "2026-08-09T19:31:50.089291"
   },
   {
     "title": "Dithered QR Codes",
     "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
     "author": "jmusall",
     "date": "2026-08-08",
-    "score": 228,
-    "comments": 17,
+    "score": 345,
+    "comments": 37,
     "id": 49226742,
     "discussion_url": "https://news.ycombinator.com/item?id=49226742",
     "description": "Dithered QR Codes",
@@ -133,15 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190180"
+    "fetched_at": "2026-08-09T19:31:50.089434"
+  },
+  {
+    "title": "FCC moves to ban Lidar-equipped foreign drones from US",
+    "url": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
+    "author": "f-serif",
+    "date": "2026-08-09",
+    "score": 75,
+    "comments": 34,
+    "id": 49232857,
+    "discussion_url": "https://news.ycombinator.com/item?id=49232857",
+    "description": "FCC moves to ban Lidar-equipped foreign drones from US",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-09T19:31:50.089305"
   },
   {
     "title": "Fastmail offers EU data region",
     "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
     "author": "groomlake",
     "date": "2026-08-08",
-    "score": 433,
-    "comments": 228,
+    "score": 488,
+    "comments": 280,
     "id": 49223082,
     "discussion_url": "https://news.ycombinator.com/item?id=49223082",
     "description": "Fastmail offers EU data region",
@@ -150,134 +99,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190116"
+    "fetched_at": "2026-08-09T19:31:50.089428"
   },
   {
-    "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-    "author": "rfarley04",
-    "date": "2026-08-08",
-    "score": 112,
-    "comments": 94,
-    "id": 49221220,
-    "discussion_url": "https://news.ycombinator.com/item?id=49221220",
-    "description": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190313"
-  },
-  {
-    "title": "Illinois just told every operating system to start reporting your kid's age",
-    "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
-    "author": "WaitWaitWha",
+    "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+    "url": "https://kibotronics.net/unlisted/lilly-machines/",
+    "author": "Kiboneu",
     "date": "2026-08-09",
-    "score": 108,
-    "comments": 93,
-    "id": 49228350,
-    "discussion_url": "https://news.ycombinator.com/item?id=49228350",
-    "description": "Illinois just told every operating system to start reporting your kid's age",
+    "score": 84,
+    "comments": 34,
+    "id": 49231397,
+    "discussion_url": "https://news.ycombinator.com/item?id=49231397",
+    "description": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190332"
+    "fetched_at": "2026-08-09T19:31:50.089332"
   },
   {
-    "title": "Improving Heuristics for A* Pathfinding",
-    "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-    "author": "bobbiechen",
-    "date": "2026-07-28",
-    "score": 257,
-    "comments": 25,
-    "id": 49079995,
-    "discussion_url": "https://news.ycombinator.com/item?id=49079995",
-    "description": "Improving Heuristics for A* Pathfinding",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190166"
-  },
-  {
-    "title": "Incentives are for losers",
-    "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
-    "author": "bkudria",
+    "title": "Mea Culpa – Dark Hours",
+    "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+    "author": "satvikpendem",
     "date": "2026-08-09",
-    "score": 128,
-    "comments": 89,
-    "id": 49227652,
-    "discussion_url": "https://news.ycombinator.com/item?id=49227652",
-    "description": "Incentives are for losers",
+    "score": 436,
+    "comments": 200,
+    "id": 49231154,
+    "discussion_url": "https://news.ycombinator.com/item?id=49231154",
+    "description": "Mea Culpa – Dark Hours",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190235"
-  },
-  {
-    "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-    "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-    "author": "ilamont",
-    "date": "2026-08-07",
-    "score": 275,
-    "comments": 202,
-    "id": 49215786,
-    "discussion_url": "https://news.ycombinator.com/item?id=49215786",
-    "description": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190359"
-  },
-  {
-    "title": "Making difficulty curves in games",
-    "url": "http://www.davetech.co.uk/difficultycurves",
-    "author": "hakkikonu",
-    "date": "2026-08-05",
-    "score": 125,
-    "comments": 50,
-    "id": 49180649,
-    "discussion_url": "https://news.ycombinator.com/item?id=49180649",
-    "description": "Making difficulty curves in games",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190259"
-  },
-  {
-    "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
-    "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-    "author": "bohaska",
-    "date": "2026-08-09",
-    "score": 139,
-    "comments": 117,
-    "id": 49227365,
-    "discussion_url": "https://news.ycombinator.com/item?id=49227365",
-    "description": "Melatonin impairs morning cognition in healthy young adults (2023)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190176"
+    "fetched_at": "2026-08-09T19:31:50.089264"
   },
   {
     "title": "Message your other Claude Code sessions",
     "url": "https://code.claude.com/docs/en/cross-session-messaging",
     "author": "mfiguiere",
     "date": "2026-08-08",
-    "score": 137,
-    "comments": 56,
+    "score": 146,
+    "comments": 64,
     "id": 49222824,
     "discussion_url": "https://news.ycombinator.com/item?id=49222824",
     "description": "Message your other Claude Code sessions",
@@ -286,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190275"
+    "fetched_at": "2026-08-09T19:31:50.089451"
   },
   {
     "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
     "url": "https://github.com/jmarshall23/msword",
     "author": "BruceEel",
     "date": "2026-08-09",
-    "score": 89,
-    "comments": 40,
+    "score": 146,
+    "comments": 60,
     "id": 49228663,
     "discussion_url": "https://news.ycombinator.com/item?id=49228663",
     "description": "Microsoft Word for Windows 1.1a, Native X64 Port",
@@ -303,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190120"
+    "fetched_at": "2026-08-09T19:31:50.089336"
   },
   {
     "title": "My server is a phone now",
     "url": "https://seg6.space/posts/phone-server/",
     "author": "seg6",
     "date": "2026-08-08",
-    "score": 354,
-    "comments": 139,
+    "score": 469,
+    "comments": 228,
     "id": 49226636,
     "discussion_url": "https://news.ycombinator.com/item?id=49226636",
     "description": "My server is a phone now",
@@ -320,32 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190131"
-  },
-  {
-    "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-    "author": "MarcoDewey",
-    "date": "2026-08-08",
-    "score": 157,
-    "comments": 42,
-    "id": 49225139,
-    "discussion_url": "https://news.ycombinator.com/item?id=49225139",
-    "description": "Open-source interactive map for the Aug 12 total solar eclipse",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190227"
+    "fetched_at": "2026-08-09T19:31:50.089402"
   },
   {
     "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
     "url": "https://os8088.com/",
     "author": "jggonz",
     "date": "2026-08-08",
-    "score": 184,
-    "comments": 100,
+    "score": 239,
+    "comments": 155,
     "id": 49226923,
     "discussion_url": "https://news.ycombinator.com/item?id=49226923",
     "description": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
@@ -354,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190102"
+    "fetched_at": "2026-08-09T19:31:50.089411"
   },
   {
     "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
     "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
     "author": "minimaxir",
     "date": "2026-08-09",
-    "score": 213,
-    "comments": 27,
+    "score": 310,
+    "comments": 57,
     "id": 49228166,
     "discussion_url": "https://news.ycombinator.com/item?id=49228166",
     "description": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
@@ -371,32 +218,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190198"
+    "fetched_at": "2026-08-09T19:31:50.089467"
   },
   {
-    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "author": "adletbalzhanov",
-    "date": "2026-08-08",
-    "score": 222,
-    "comments": 136,
-    "id": 49226536,
-    "discussion_url": "https://news.ycombinator.com/item?id=49226536",
-    "description": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+    "title": "Reviving a four year old reMarkable 2",
+    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+    "author": "tremguy",
+    "date": "2026-08-09",
+    "score": 90,
+    "comments": 76,
+    "id": 49230514,
+    "discussion_url": "https://news.ycombinator.com/item?id=49230514",
+    "description": "Reviving a four year old reMarkable 2",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190171"
+    "fetched_at": "2026-08-09T19:31:50.089460"
+  },
+  {
+    "title": "Should you stop cracking your knuckles?",
+    "url": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
+    "author": "tchalla",
+    "date": "2026-08-08",
+    "score": 102,
+    "comments": 112,
+    "id": 49226563,
+    "discussion_url": "https://news.ycombinator.com/item?id=49226563",
+    "description": "Should you stop cracking your knuckles?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-09T19:31:50.089405"
+  },
+  {
+    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+    "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+    "author": "Rochus",
+    "date": "2026-08-09",
+    "score": 83,
+    "comments": 16,
+    "id": 49230891,
+    "discussion_url": "https://news.ycombinator.com/item?id=49230891",
+    "description": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-09T19:31:50.089283"
+  },
+  {
+    "title": "Silicon Valley misreads science fiction and undermines democracy",
+    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "author": "evo_9",
+    "date": "2026-08-09",
+    "score": 184,
+    "comments": 146,
+    "id": 49232221,
+    "discussion_url": "https://news.ycombinator.com/item?id=49232221",
+    "description": "Silicon Valley misreads science fiction and undermines democracy",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-09T19:31:50.089379"
+  },
+  {
+    "title": "Taxi drivers rarely die of Alzheimer's",
+    "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+    "author": "jader201",
+    "date": "2026-08-09",
+    "score": 64,
+    "comments": 55,
+    "id": 49232253,
+    "discussion_url": "https://news.ycombinator.com/item?id=49232253",
+    "description": "Taxi drivers rarely die of Alzheimer's",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-09T19:31:50.089431"
+  },
+  {
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+    "url": "https://halfhill.com/byte/1998-12_alpha.html",
+    "author": "Lammy",
+    "date": "2026-08-09",
+    "score": 64,
+    "comments": 48,
+    "id": 49230022,
+    "discussion_url": "https://news.ycombinator.com/item?id=49230022",
+    "description": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-09T19:31:50.089389"
+  },
+  {
+    "title": "The Grid That Doubles the Strength of the Ground",
+    "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
+    "author": "michaefe",
+    "date": "2026-08-05",
+    "score": 114,
+    "comments": 32,
+    "id": 49178476,
+    "discussion_url": "https://news.ycombinator.com/item?id=49178476",
+    "description": "The Grid That Doubles the Strength of the Ground",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-09T19:31:50.089361"
   },
   {
     "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
     "url": "http://longbets.org/601/",
     "author": "doubletwoyou",
     "date": "2026-08-09",
-    "score": 152,
-    "comments": 71,
+    "score": 192,
+    "comments": 91,
     "id": 49228458,
     "discussion_url": "https://news.ycombinator.com/item?id=49228458",
     "description": "The original URL for this prediction will no longer be available in 11 years (2011)",
@@ -405,100 +354,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190095"
+    "fetched_at": "2026-08-09T19:31:50.089408"
   },
   {
-    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "author": "882542F3884314B",
+    "title": "TheoremDB – A public workspace for machine mathematics",
+    "url": "https://theoremdb.org/",
+    "author": "frozenseven",
+    "date": "2026-08-09",
+    "score": 86,
+    "comments": 13,
+    "id": 49227505,
+    "discussion_url": "https://news.ycombinator.com/item?id=49227505",
+    "description": "TheoremDB – A public workspace for machine mathematics",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-09T19:31:50.089395"
+  },
+  {
+    "title": "There Are Magic Hexagons of Every Order",
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "author": "gukoff",
+    "date": "2026-08-09",
+    "score": 158,
+    "comments": 24,
+    "id": 49229174,
+    "discussion_url": "https://news.ycombinator.com/item?id=49229174",
+    "description": "There Are Magic Hexagons of Every Order",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-09T19:31:50.089312"
+  },
+  {
+    "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
+    "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
+    "author": "Thorondor",
+    "date": "2026-08-09",
+    "score": 135,
+    "comments": 41,
+    "id": 49232110,
+    "discussion_url": "https://news.ycombinator.com/item?id=49232110",
+    "description": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-09T19:31:50.089329"
+  },
+  {
+    "title": "We replaced Redis with MySQL for inventory reservations and it scaled",
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "author": "adletbalzhanov",
     "date": "2026-08-08",
-    "score": 398,
-    "comments": 386,
-    "id": 49220609,
-    "discussion_url": "https://news.ycombinator.com/item?id=49220609",
-    "description": "Timeline of the OpenAI accidental attack against Hugging Face",
+    "score": 324,
+    "comments": 227,
+    "id": 49226536,
+    "discussion_url": "https://news.ycombinator.com/item?id=49226536",
+    "description": "We replaced Redis with MySQL for inventory reservations and it scaled",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190309"
+    "fetched_at": "2026-08-09T19:31:50.089415"
   },
   {
-    "title": "Triton: DirectX 11 Driver for QEMU",
-    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-    "author": "electricant",
-    "date": "2026-08-08",
-    "score": 185,
-    "comments": 39,
-    "id": 49221711,
-    "discussion_url": "https://news.ycombinator.com/item?id=49221711",
-    "description": "Triton: DirectX 11 Driver for QEMU",
+    "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+    "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+    "author": "akyuu",
+    "date": "2026-08-09",
+    "score": 177,
+    "comments": 153,
+    "id": 49232138,
+    "discussion_url": "https://news.ycombinator.com/item?id=49232138",
+    "description": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190211"
-  },
-  {
-    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-    "author": "rbanffy",
-    "date": "2026-08-08",
-    "score": 290,
-    "comments": 441,
-    "id": 49220339,
-    "discussion_url": "https://news.ycombinator.com/item?id=49220339",
-    "description": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190344"
-  },
-  {
-    "title": "What happens if an entire class of workers loses faith in their careers",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "author": "RickJWagner",
-    "date": "2026-08-07",
-    "score": 1021,
-    "comments": 1237,
-    "id": 49209539,
-    "discussion_url": "https://news.ycombinator.com/item?id=49209539",
-    "description": "What happens if an entire class of workers loses faith in their careers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190355"
-  },
-  {
-    "title": "_for-sale DNS records",
-    "url": "https://specification.website/spec/foundations/for-sale-dns/",
-    "author": "shaunpud",
-    "date": "2026-08-08",
-    "score": 401,
-    "comments": 155,
-    "id": 49221668,
-    "discussion_url": "https://news.ycombinator.com/item?id=49221668",
-    "description": "_for-sale DNS records",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190263"
+    "fetched_at": "2026-08-09T19:31:50.089367"
   },
   {
     "title": "“Code was never the hard part” is an insult to all programmers",
     "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
     "author": "senko",
     "date": "2026-08-08",
-    "score": 777,
-    "comments": 459,
+    "score": 831,
+    "comments": 511,
     "id": 49222189,
     "discussion_url": "https://news.ycombinator.com/item?id=49222189",
     "description": "“Code was never the hard part” is an insult to all programmers",
@@ -507,6 +456,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-09T11:26:23.190285"
+    "fetched_at": "2026-08-09T19:31:50.089473"
   }
 ]
