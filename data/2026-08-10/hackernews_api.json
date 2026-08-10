@@ -1,45 +1,62 @@
 [
   {
-    "title": "Auto mode is now the default in Claude Code",
-    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "author": "sbehere",
+    "title": "50k Boat Names",
+    "url": "https://www.beautifulpublicdata.com/boat-names/",
+    "author": "jonathanmkeegan",
     "date": "2026-08-10",
-    "score": 232,
-    "comments": 236,
-    "id": 49239021,
-    "discussion_url": "https://news.ycombinator.com/item?id=49239021",
-    "description": "Auto mode is now the default in Claude Code",
+    "score": 132,
+    "comments": 88,
+    "id": 49243029,
+    "discussion_url": "https://news.ycombinator.com/item?id=49243029",
+    "description": "50k Boat Names",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079794"
+    "fetched_at": "2026-08-10T19:54:29.065444"
   },
   {
-    "title": "Cool URIs Don't Change (1998)",
-    "url": "https://www.w3.org/Provider/Style/URI",
-    "author": "Klaster_1",
-    "date": "2026-08-09",
-    "score": 249,
-    "comments": 61,
-    "id": 49231809,
-    "discussion_url": "https://news.ycombinator.com/item?id=49231809",
-    "description": "Cool URIs Don't Change (1998)",
+    "title": "ATProto for Distributed Systems Engineers",
+    "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
+    "author": "LelouBil",
+    "date": "2026-08-06",
+    "score": 132,
+    "comments": 28,
+    "id": 49202912,
+    "discussion_url": "https://news.ycombinator.com/item?id=49202912",
+    "description": "ATProto for Distributed Systems Engineers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079814"
+    "fetched_at": "2026-08-10T19:54:29.065572"
+  },
+  {
+    "title": "An Interesting Fourier Transform – 1/f Noise (2007)",
+    "url": "https://www.dsprelated.com/showarticle/40.php",
+    "author": "q7m",
+    "date": "2026-08-07",
+    "score": 107,
+    "comments": 24,
+    "id": 49205082,
+    "discussion_url": "https://news.ycombinator.com/item?id=49205082",
+    "description": "An Interesting Fourier Transform – 1/f Noise (2007)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-10T19:54:29.065509"
   },
   {
     "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
     "url": "https://www.docker.com/products/docker-sandboxes/",
     "author": "etoxin",
     "date": "2026-08-10",
-    "score": 279,
-    "comments": 160,
+    "score": 565,
+    "comments": 326,
     "id": 49239751,
     "discussion_url": "https://news.ycombinator.com/item?id=49239751",
     "description": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
@@ -48,49 +65,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079738"
+    "fetched_at": "2026-08-10T19:54:29.065397"
   },
   {
-    "title": "Everything you do is being recorded",
-    "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-    "author": "ike_usawa",
-    "date": "2026-08-09",
-    "score": 328,
-    "comments": 278,
-    "id": 49230477,
-    "discussion_url": "https://news.ycombinator.com/item?id=49230477",
-    "description": "Everything you do is being recorded",
+    "title": "Exploiting System Management Mode with a very long interrupt",
+    "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+    "author": "WhiteDawn",
+    "date": "2026-08-10",
+    "score": 82,
+    "comments": 23,
+    "id": 49245491,
+    "discussion_url": "https://news.ycombinator.com/item?id=49245491",
+    "description": "Exploiting System Management Mode with a very long interrupt",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079754"
+    "fetched_at": "2026-08-10T19:54:29.065402"
   },
   {
-    "title": "How I use LLMs to learn complex topics",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "author": "laurentiurad",
-    "date": "2026-08-09",
-    "score": 677,
-    "comments": 423,
-    "id": 49234675,
-    "discussion_url": "https://news.ycombinator.com/item?id=49234675",
-    "description": "How I use LLMs to learn complex topics",
+    "title": "How Blackwing Pencils are Made [video]",
+    "url": "https://www.youtube.com/watch?v=fow-LsdaH2E",
+    "author": "NaOH",
+    "date": "2026-08-05",
+    "score": 79,
+    "comments": 43,
+    "id": 49183917,
+    "discussion_url": "https://news.ycombinator.com/item?id=49183917",
+    "description": "How Blackwing Pencils are Made [video]",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079744"
+    "fetched_at": "2026-08-10T19:54:29.065526"
   },
   {
     "title": "How We Pushed CDC into Postgres",
     "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
     "author": "craigkerstiens",
     "date": "2026-08-10",
-    "score": 102,
-    "comments": 14,
+    "score": 136,
+    "comments": 28,
     "id": 49238050,
     "discussion_url": "https://news.ycombinator.com/item?id=49238050",
     "description": "How We Pushed CDC into Postgres",
@@ -99,168 +116,219 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079806"
+    "fetched_at": "2026-08-10T19:54:29.065568"
   },
   {
-    "title": "I made tinnitus my friend, then it disappeared [video]",
-    "url": "https://mynoise.net/vlog.php?ep=20260803",
-    "author": "gregsadetsky",
-    "date": "2026-08-09",
-    "score": 160,
-    "comments": 135,
-    "id": 49234271,
-    "discussion_url": "https://news.ycombinator.com/item?id=49234271",
-    "description": "I made tinnitus my friend, then it disappeared [video]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079798"
-  },
-  {
-    "title": "Japanese court overturns Red RAW video patent",
-    "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-    "author": "anigbrowl",
+    "title": "Humanising LLM Outputs Is Dumb",
+    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "author": "kuberwastaken",
     "date": "2026-08-10",
-    "score": 103,
-    "comments": 24,
-    "id": 49237873,
-    "discussion_url": "https://news.ycombinator.com/item?id=49237873",
-    "description": "Japanese court overturns Red RAW video patent",
+    "score": 60,
+    "comments": 29,
+    "id": 49243474,
+    "discussion_url": "https://news.ycombinator.com/item?id=49243474",
+    "description": "Humanising LLM Outputs Is Dumb",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079905"
+    "fetched_at": "2026-08-10T19:54:29.065435"
   },
   {
-    "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-    "url": "https://kibotronics.net/unlisted/lilly-machines/",
-    "author": "Kiboneu",
-    "date": "2026-08-09",
-    "score": 145,
-    "comments": 108,
-    "id": 49231397,
-    "discussion_url": "https://news.ycombinator.com/item?id=49231397",
-    "description": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+    "title": "Itadakimasu: A word you say to the food, not the cook",
+    "url": "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the",
+    "author": "surprisetalk",
+    "date": "2026-08-10",
+    "score": 94,
+    "comments": 47,
+    "id": 49244916,
+    "discussion_url": "https://news.ycombinator.com/item?id=49244916",
+    "description": "Itadakimasu: A word you say to the food, not the cook",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079939"
+    "fetched_at": "2026-08-10T19:54:29.065426"
   },
   {
-    "title": "Mea Culpa – Dark Hours",
-    "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-    "author": "satvikpendem",
-    "date": "2026-08-09",
-    "score": 586,
-    "comments": 268,
-    "id": 49231154,
-    "discussion_url": "https://news.ycombinator.com/item?id=49231154",
-    "description": "Mea Culpa – Dark Hours",
+    "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+    "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+    "author": "kotaKat",
+    "date": "2026-08-10",
+    "score": 114,
+    "comments": 126,
+    "id": 49244569,
+    "discussion_url": "https://news.ycombinator.com/item?id=49244569",
+    "description": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079960"
+    "fetched_at": "2026-08-10T19:54:29.065489"
   },
   {
-    "title": "Meta Muse Glimmer – open weights 30B local coding model",
+    "title": "Learning more about Claude's mathematical capabilities",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "author": "tosh",
+    "date": "2026-08-10",
+    "score": 101,
+    "comments": 77,
+    "id": 49247070,
+    "discussion_url": "https://news.ycombinator.com/item?id=49247070",
+    "description": "Learning more about Claude's mathematical capabilities",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-10T19:54:29.065477"
+  },
+  {
+    "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "author": "hackerBanana",
+    "date": "2026-08-10",
+    "score": 60,
+    "comments": 88,
+    "id": 49244308,
+    "discussion_url": "https://news.ycombinator.com/item?id=49244308",
+    "description": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-10T19:54:29.065439"
+  },
+  {
+    "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
+    "author": "Bender",
+    "date": "2026-08-10",
+    "score": 123,
+    "comments": 39,
+    "id": 49245251,
+    "discussion_url": "https://news.ycombinator.com/item?id=49245251",
+    "description": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-10T19:54:29.065415"
+  },
+  {
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "author": "root-parent",
+    "date": "2026-08-10",
+    "score": 168,
+    "comments": 199,
+    "id": 49243880,
+    "discussion_url": "https://news.ycombinator.com/item?id=49243880",
+    "description": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-10T19:54:29.065407"
+  },
+  {
+    "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+    "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+    "author": "RickJWagner",
+    "date": "2026-08-10",
+    "score": 227,
+    "comments": 333,
+    "id": 49245023,
+    "discussion_url": "https://news.ycombinator.com/item?id=49245023",
+    "description": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-10T19:54:29.065456"
+  },
+  {
+    "title": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
+    "url": "https://www.neurology.org/doi/10.1212/WN9.0000000000000152",
+    "author": "bookofjoe",
+    "date": "2026-08-10",
+    "score": 59,
+    "comments": 46,
+    "id": 49245348,
+    "discussion_url": "https://news.ycombinator.com/item?id=49245348",
+    "description": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-10T19:54:29.065461"
+  },
+  {
+    "title": "Mistral Patent for “Code implemented tool calls”",
+    "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+    "author": "theanonymousone",
+    "date": "2026-08-10",
+    "score": 163,
+    "comments": 131,
+    "id": 49243397,
+    "discussion_url": "https://news.ycombinator.com/item?id=49243397",
+    "description": "Mistral Patent for “Code implemented tool calls”",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-10T19:54:29.065352"
+  },
+  {
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
     "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
     "author": "riordan",
     "date": "2026-08-10",
-    "score": 158,
-    "comments": 57,
+    "score": 861,
+    "comments": 489,
     "id": 49241679,
     "discussion_url": "https://news.ycombinator.com/item?id=49241679",
-    "description": "Meta Muse Glimmer – open weights 30B local coding model",
+    "description": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079763"
+    "fetched_at": "2026-08-10T19:54:29.065372"
   },
   {
-    "title": "My server is a phone now",
-    "url": "https://seg6.space/posts/phone-server/",
-    "author": "seg6",
-    "date": "2026-08-08",
-    "score": 508,
-    "comments": 242,
-    "id": 49226636,
-    "discussion_url": "https://news.ycombinator.com/item?id=49226636",
-    "description": "My server is a phone now",
+    "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+    "url": "https://ethw.org/Milestones:Parametron,_1954",
+    "author": "xeonmc",
+    "date": "2026-08-10",
+    "score": 134,
+    "comments": 40,
+    "id": 49241846,
+    "discussion_url": "https://news.ycombinator.com/item?id=49241846",
+    "description": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079932"
-  },
-  {
-    "title": "New Zealand lost its music media, and what we're building to replace it",
-    "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-    "author": "berghoffer",
-    "date": "2026-08-09",
-    "score": 119,
-    "comments": 77,
-    "id": 49235641,
-    "discussion_url": "https://news.ycombinator.com/item?id=49235641",
-    "description": "New Zealand lost its music media, and what we're building to replace it",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079810"
-  },
-  {
-    "title": "OpenChamber: An Agentic Development Environment",
-    "url": "https://openchamber.dev/",
-    "author": "hexomancer",
-    "date": "2026-08-09",
-    "score": 158,
-    "comments": 76,
-    "id": 49233448,
-    "discussion_url": "https://news.ycombinator.com/item?id=49233448",
-    "description": "OpenChamber: An Agentic Development Environment",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079856"
-  },
-  {
-    "title": "Reviving a four year old reMarkable 2",
-    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-    "author": "oskrim",
-    "date": "2026-08-09",
-    "score": 146,
-    "comments": 100,
-    "id": 49230514,
-    "discussion_url": "https://news.ycombinator.com/item?id=49230514",
-    "description": "Reviving a four year old reMarkable 2",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079868"
+    "fetched_at": "2026-08-10T19:54:29.065393"
   },
   {
     "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
     "url": "https://github.com/shinyquagsire23/Klepton",
     "author": "LorenDB",
     "date": "2026-08-10",
-    "score": 105,
-    "comments": 11,
+    "score": 161,
+    "comments": 55,
     "id": 49238818,
     "discussion_url": "https://news.ycombinator.com/item?id=49238818",
     "description": "Run Android ARM64 VR APKs on Apple Vision Pro",
@@ -269,49 +337,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079789"
+    "fetched_at": "2026-08-10T19:54:29.065513"
   },
   {
-    "title": "Should you stop cracking your knuckles?",
-    "url": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
-    "author": "tchalla",
-    "date": "2026-08-08",
-    "score": 120,
-    "comments": 124,
-    "id": 49226563,
-    "discussion_url": "https://news.ycombinator.com/item?id=49226563",
-    "description": "Should you stop cracking your knuckles?",
+    "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+    "url": "https://github.com/AntigmaLabs/ante",
+    "author": "ubermon",
+    "date": "2026-08-10",
+    "score": 97,
+    "comments": 59,
+    "id": 49245437,
+    "discussion_url": "https://news.ycombinator.com/item?id=49245437",
+    "description": "Show HN: Ante, a coding agent in a single binary that runs offline",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079936"
-  },
-  {
-    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-    "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-    "author": "Rochus",
-    "date": "2026-08-09",
-    "score": 117,
-    "comments": 19,
-    "id": 49230891,
-    "discussion_url": "https://news.ycombinator.com/item?id=49230891",
-    "description": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079887"
+    "fetched_at": "2026-08-10T19:54:29.065367"
   },
   {
     "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
     "url": "https://www.whodunnitai.com/",
     "author": "MrRowTheBoat",
     "date": "2026-08-10",
-    "score": 112,
-    "comments": 44,
+    "score": 185,
+    "comments": 76,
     "id": 49238851,
     "discussion_url": "https://news.ycombinator.com/item?id=49238851",
     "description": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
@@ -320,151 +371,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079802"
+    "fetched_at": "2026-08-10T19:54:29.065496"
   },
   {
-    "title": "Taxi drivers rarely die of Alzheimer's",
-    "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-    "author": "jader201",
-    "date": "2026-08-09",
-    "score": 307,
-    "comments": 217,
-    "id": 49232253,
-    "discussion_url": "https://news.ycombinator.com/item?id=49232253",
-    "description": "Taxi drivers rarely die of Alzheimer's",
+    "title": "Sonic Pi v5",
+    "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+    "author": "samaaron",
+    "date": "2026-08-07",
+    "score": 184,
+    "comments": 50,
+    "id": 49208296,
+    "discussion_url": "https://news.ycombinator.com/item?id=49208296",
+    "description": "Sonic Pi v5",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079774"
+    "fetched_at": "2026-08-10T19:54:29.065339"
   },
   {
-    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-    "url": "https://halfhill.com/byte/1998-12_alpha.html",
-    "author": "Lammy",
-    "date": "2026-08-09",
-    "score": 97,
-    "comments": 79,
-    "id": 49230022,
-    "discussion_url": "https://news.ycombinator.com/item?id=49230022",
-    "description": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079894"
-  },
-  {
-    "title": "The Grid That Doubles the Strength of the Ground",
-    "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
-    "author": "michaefe",
-    "date": "2026-08-05",
-    "score": 130,
-    "comments": 39,
-    "id": 49178476,
-    "discussion_url": "https://news.ycombinator.com/item?id=49178476",
-    "description": "The Grid That Doubles the Strength of the Ground",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079943"
-  },
-  {
-    "title": "The Hacker's Renaissance (2025)",
-    "url": "https://phrack.org/issues/72/19#article",
-    "author": "yu3zhou4",
-    "date": "2026-08-09",
-    "score": 116,
-    "comments": 83,
-    "id": 49235378,
-    "discussion_url": "https://news.ycombinator.com/item?id=49235378",
-    "description": "The Hacker's Renaissance (2025)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079891"
-  },
-  {
-    "title": "The main way I've seen people turn ideologically crazy (2025)",
-    "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
-    "author": "mef",
-    "date": "2026-08-09",
-    "score": 130,
-    "comments": 114,
-    "id": 49235349,
-    "discussion_url": "https://news.ycombinator.com/item?id=49235349",
-    "description": "The main way I've seen people turn ideologically crazy (2025)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079883"
-  },
-  {
-    "title": "The tragedy of the commons, AI edition",
-    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-    "author": "simonpure",
-    "date": "2026-08-09",
-    "score": 131,
+    "title": "Squeak 6.1",
+    "url": "https://squeak.org/release_notes/6.1/",
+    "author": "fniephaus",
+    "date": "2026-08-10",
+    "score": 163,
     "comments": 85,
-    "id": 49235011,
-    "discussion_url": "https://news.ycombinator.com/item?id=49235011",
-    "description": "The tragedy of the commons, AI edition",
+    "id": 49242653,
+    "discussion_url": "https://news.ycombinator.com/item?id=49242653",
+    "description": "Squeak 6.1",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079848"
+    "fetched_at": "2026-08-10T19:54:29.065387"
   },
   {
-    "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
-    "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
-    "author": "Thorondor",
-    "date": "2026-08-09",
-    "score": 256,
-    "comments": 90,
-    "id": 49232110,
-    "discussion_url": "https://news.ycombinator.com/item?id=49232110",
-    "description": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
+    "title": "Study links GLP-1 drugs to bigger jump in women's employment than a degree",
+    "url": "https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html",
+    "author": "metadat",
+    "date": "2026-08-10",
+    "score": 100,
+    "comments": 153,
+    "id": 49245487,
+    "discussion_url": "https://news.ycombinator.com/item?id=49245487",
+    "description": "Study links GLP-1 drugs to bigger jump in women's employment than a degree",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079924"
+    "fetched_at": "2026-08-10T19:54:29.065555"
   },
   {
-    "title": "Tuxedo No. 2 – Cocktail recipes",
-    "url": "https://tuxedono2.com",
-    "author": "smartmic",
-    "date": "2026-08-09",
-    "score": 103,
-    "comments": 34,
-    "id": 49235697,
-    "discussion_url": "https://news.ycombinator.com/item?id=49235697",
-    "description": "Tuxedo No. 2 – Cocktail recipes",
+    "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+    "url": "https://lordgoati.us/blog/tail-call/",
+    "author": "amatheus",
+    "date": "2026-08-07",
+    "score": 76,
+    "comments": 29,
+    "id": 49209132,
+    "discussion_url": "https://news.ycombinator.com/item?id=49209132",
+    "description": "Tail-Call Interpreters in Rust – Jimmy Ostler",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079835"
+    "fetched_at": "2026-08-10T19:54:29.065543"
+  },
+  {
+    "title": "Tail-call optimization in C is relatively recent (2025)",
+    "url": "https://lwn.net/Articles/1034703/",
+    "author": "prakashqwerty",
+    "date": "2026-08-10",
+    "score": 101,
+    "comments": 87,
+    "id": 49242297,
+    "discussion_url": "https://news.ycombinator.com/item?id=49242297",
+    "description": "Tail-call optimization in C is relatively recent (2025)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-10T19:54:29.065452"
+  },
+  {
+    "title": "The Tragedy of the Cognitive Commons",
+    "url": "https://arxiv.org/abs/2607.29380",
+    "author": "jmintz",
+    "date": "2026-08-10",
+    "score": 54,
+    "comments": 32,
+    "id": 49245359,
+    "discussion_url": "https://news.ycombinator.com/item?id=49245359",
+    "description": "The Tragedy of the Cognitive Commons",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-10T19:54:29.065362"
+  },
+  {
+    "title": "Tl;dv: Over 180k meetings left wide open",
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "author": "colesantiago",
+    "date": "2026-08-10",
+    "score": 432,
+    "comments": 146,
+    "id": 49242739,
+    "discussion_url": "https://news.ycombinator.com/item?id=49242739",
+    "description": "Tl;dv: Over 180k meetings left wide open",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-10T19:54:29.065465"
   },
   {
     "title": "What Happened to HackerOne?",
     "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
     "author": "hipparchus",
     "date": "2026-08-10",
-    "score": 265,
-    "comments": 129,
+    "score": 361,
+    "comments": 187,
     "id": 49238561,
     "discussion_url": "https://news.ycombinator.com/item?id=49238561",
     "description": "What Happened to HackerOne?",
@@ -473,40 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079780"
-  },
-  {
-    "title": "Why Wall Street is ignoring big tech's debt [video]",
-    "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-    "author": "johnbarron",
-    "date": "2026-08-09",
-    "score": 95,
-    "comments": 173,
-    "id": 49230630,
-    "discussion_url": "https://news.ycombinator.com/item?id=49230630",
-    "description": "Why Wall Street is ignoring big tech's debt [video]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079949"
-  },
-  {
-    "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-    "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-    "author": "akyuu",
-    "date": "2026-08-09",
-    "score": 571,
-    "comments": 509,
-    "id": 49232138,
-    "discussion_url": "https://news.ycombinator.com/item?id=49232138",
-    "description": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-10T11:45:54.079852"
+    "fetched_at": "2026-08-10T19:54:29.065595"
   }
 ]
