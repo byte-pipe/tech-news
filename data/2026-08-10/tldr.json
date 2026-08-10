@@ -180,16 +180,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "As Space Gets Connected, Security Gets Critical (17 minute read)",
-    "url": "https://semiengineering.com/as-space-gets-connected-security-gets-critical/",
-    "description": "As Space Gets Connected, Security Gets Critical (17 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-10",
-    "site_name": "tldr"
-  },
-  {
     "title": "Automate your agent development lifecycle using any coding agent (6 minute read)",
     "url": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
     "description": "Automate your agent development lifecycle using any coding agent (6 minute read)",
@@ -530,6 +520,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "HPE extends validity of quoted hardware prices, possibly for months (3 minute read)",
+    "url": "https://www.theregister.com/systems/2026/08/06/hpe-extends-validity-of-quoted-hardware-prices-possibly-for-months/5283817",
+    "description": "HPE extends validity of quoted hardware prices, possibly for months (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-10",
+    "site_name": "tldr"
+  },
+  {
     "title": "How Microsoft is migrating repositories to GitHub (7 minute read)",
     "url": "https://devblogs.microsoft.com/devops/how-microsoft-is-migrating-repositories-to-github/",
     "description": "How Microsoft is migrating repositories to GitHub (7 minute read)",
@@ -833,6 +833,16 @@
     "title": "Point Wild Exclusive: Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware (11 minute read)",
     "url": "https://www.pointwild.com/threat-intelligence/point-wild-exclusive-dissecting-vanta-stealer-a-python-based-cross-platform-information-theft-malware/",
     "description": "Point Wild Exclusive: Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware (11 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Practical AI: Don't Work Harder; Work Smarter (8 minute read)",
+    "url": "https://www.eejournal.com/article/practical-ai-dont-work-harder-work-smarter",
+    "description": "Practical AI: Don't Work Harder; Work Smarter (8 minute read)",
     "tags": [
       "tldr"
     ],
