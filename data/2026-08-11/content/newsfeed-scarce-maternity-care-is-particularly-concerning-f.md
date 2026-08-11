@@ -1,0 +1,258 @@
+---
+title: 'Scarce maternity care is particularly concerning for Black mothers : NPR'
+url: https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies
+site_name: newsfeed
+content_file: newsfeed-scarce-maternity-care-is-particularly-concerning-f
+fetched_at: '2026-08-11T20:02:49.320238'
+original_url: https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies
+date: '2026-08-11'
+description: New research from the March of Dimes says more than half of U.S. counties have no labor and delivery hospitals. One Black midwife tries to make a difference for moms in Alabama.
+tags:
+- npr
+---
+
+Scarce maternity care is particularly concerning for Black mothers
+ 
+New research from the March of Dimes says more than half of U.S. counties have no labor and delivery hospitals. One Black midwife tries to make a difference for moms in Alabama. 
+
+### Healthcare
+
+# A midwife crosses 'maternity deserts' to make a difference for Black moms and babies
+
+August 11, 2026
+6:00 AM ET
+
+ 
+
+ Heard on 
+Morning Edition
+
+Kristin Wright
+
+#### A midwife crosses ‘maternity deserts’ to make a difference for Black moms and babies
+
+ 
+ Listen
+ 
+
+· 
+
+5:03
+
+5:03
+
+Transcript
+
+Toggle more options
+
+* Download
+* EmbedEmbed<iframe src="https://www.npr.org/player/embed/nx-s1-5678523/nx-s1-9882818" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">
+* Transcript
+
+A midwife crisscrosses Alabama to care for pregnant women and deliver babies. It's an important profession as maternity deserts expand across the U.S., according to the latest March of Dimes report.Maria Fabrizio/NPRhide caption
+
+toggle caption
+
+ 
+ Maria Fabrizio/NPR
+ 
+ 
+
+Nadia Gramby cherishes quiet moments with her baby girl River Emmanuel, who's starting to talk. They exchange snuggles and baby coos each morning.
+
+ 
+
+"Did you sleep well last night?" Gramby asks her little girl, who has dark curls and a big smile.
+
+ 
+
+Besides being a mother of two and a wife, Gramby spends her days and many nights as a midwife caring for other moms and babies across Alabama where she lives and practices.
+
+ 
+
+For stories on the science of healthy living, subscribe to NPR's Health newsletter.
+
+ 
+
+The kind of care Gramby offers is important because more than 52% of counties in the U.S. do not have hospital-based labor and delivery services, according to the latestMarch of Dimes "Nowhere to Go"report on maternity care deserts, out Tuesday. The 2026 report also finds one in three counties, or nearly 35%, are maternity care deserts, meaning they have no birthing facilities or obstetric clinicians.
+
+ 
+
+Nadia Gramby spends her days and many nights as a midwife caring for other moms and babies across Alabama, where she lives and practices.Nadia Grambyhide caption
+
+toggle caption
+
+ 
+ Nadia Gramby
+ 
+ 
+
+"This goes beyond a mere inconvenience," said Dr. Michael Warren, chief medical and health officer for the March of Dimes. "We know that those women who live in maternity care deserts are more likely to have bad outcomes when it comes to their pregnancies."
+
+More than 20,000 babies die before their first birthday every year in the U.S., according to the Centers for Disease Control and Prevention. And about 600 women a year don't survive pregnancy-related complications.
+
+ 
+
+The risks are heightened for women of color, according to the most recent maternal mortality data from the March of Dimes and the CDC. Rates of maternal death are significantly higher for Indigenous and Black women than for white women.
+
+ 
+
+### Miles for moms
+
+ 
+
+On any given day, the midwife Gramby may drive hundreds of miles through cities and sprawling rural towns in Alabama, to help families bring new life into the world. She's a licensed and certified professional midwife based in Chelsea, a suburb of Birmingham. Gramby says traveling long distances to support patients is worth every mile.
+
+ 
+
+"It is an amazing joy to see families who feel safe," she says with delight.
+
+ 
+
+Nadia Gramby, her husband Shamar and their two kids, son Khalil and daughter River Emmanuel.Gramby familyhide caption
+
+toggle caption
+
+ 
+ Gramby family
+ 
+ 
+
+Gramby drove 302 miles in one day recently to prenatal appointments in Anniston, Montgomery, Helena and Alabaster. When leaving home for a birth, she never knows exactly when she'll return. She's grateful for the support of her husband Shamar, who she considers a superdad.
+
+ 
+
+Gramby, 41, founded her practice, Crown of Glory Birth Services, in 2018, partly to help meet the needs of women lacking care in maternity deserts. She supports families through pregnancy, labor, birth and the postpartum period after a woman gives birth.
+
+Gramby is one of only about 1,200 Black midwives in the U.S., according to the American Midwifery Certification Board. Midwives are medically trained to perform many of the same functions and procedures as doctors when women are having babies in low-risk situations. Gramby says one main difference is that midwives are able to give more personalized care:
+
+ 
+
+"It is about 'How are you doing emotionally, spiritually, physically? What support do you have? Who's around you that's going to be with you throughout the pregnancy?'"
+
+ 
+
+Midwives often provide services after birth that include holistic care and home visits.
+
+ 
+
+"Who's going to show up postpartum to cook you some food? To make sure you stay in the bed and you're not doing too much postpartum," said Gramby with a laugh.
+
+ 
+
+Research shows midwife births lead to lower rates of both cesarean section and complications. Midwives deliver in hospitals alongside physicians, birth centers and at homes. They also frequently collaborate with doulas, who provide non-medical support.
+
+ 
+
+Gramby recently started seeing clients in her new office in Birmingham. Until now, she exclusively visited women and families in their homes. The reason she still travels all those miles is to offer the home birth experience and serve communities without access to maternity care.
+
+ 
+
+### "Nowhere to Go"
+
+ 
+
+In its new report, the March of Dimes says midwives play a critical role in expanding access to maternity care. The organization, which works to improve health outcomes for mothers and babies, releases the report every two years. It details the challenges millions of women and couples face in obtaining maternity care in their own communities.
+
+ 
+
+ 
+
+### Global Health
+
+### Why is the rate of premature births so high in this community?
+
+The March of Dimes finds maternity care deserts exist in every region. The south and midwest have the highest proportion with 38.7% of counties; 26.4% of counties in the west; and 5.1% of counties in the northeast.
+
+ 
+
+"Those counties are collectively home to 2.4 million women of reproductive age and they are counties where 150,000 births occur every year," said Warren, noting that it can take three times longer, on average, to travel from impacted counties for appointments, treatment or emergencies. In 2024, one in four women didn't receive prenatal care during their first trimester, the report says.
+
+While the overall picture held mostly steady from the2024 maternity care desert report, the organization's leadership says the data remains distressing.
+
+ 
+
+### Barriers to maternity care
+
+ 
+
+The March of Dimes says President Trump's One Big Beautiful Bill Act passed by Congress last year creates additional barriers to accessing maternity care. The law significantly cuts Medicaid funding and did not extend tax credits that would have kept Affordable Care Act insurance premiums cheaper.
+
+ 
+
+An obstetrics workforce shortage adds to concerns. And more than 500 hospitals closed maternity wards between 2010 and 2022, accordingto a study publishedin the medical research journalJAMA.
+
+ 
+
+The problem affects women and families in rural and urban communities, and drives up infant mortality rates. Maine's largest non-profit health systemvoted to closeLincoln Hospital's labor and delivery unit in the rural coastal town of Damariscotta last week. Washington, D.C.'s largest hospital shuttered one of its two postpartum units last month.
+
+ 
+
+The March of Dimes says closures usually involve a county's only birthing facility.
+
+ 
+
+"Unfortunately, in the United States, we live in a country that is among the most dangerous developed countries in the world for giving birth," said Warren.
+
+ 
+
+He worries especially about Black and brown mothers and babies, and the persistently higher risks they face.
+
+ 
+
+"We've got to do better and it's also not acceptable that what you look like and where you live determines your chance of survival," Warren said. "Black and brown women and their babies suffer disproportionately in this country."
+
+ 
+
+Nadia Gramby is passionate about undoing those disparities.
+
+ 
+
+"It's really about the history of this country of how we, as Black women, have not been heard," she said. "A lot of times, those Black moms are coming to me for care. One, because they want to be cared for by someone that looks like them, that has lived in the same culture as them, that understands their culture, that will respect them, that will hear them, that will not minimize their pain."
+
+### Expanding access to care
+
+ 
+
+ 
+
+### Global Health
+
+### They're a world leader in using drones for healthcare. But drones can't do it all
+
+The March of Dimes finds that progress in improving health outcomes for moms and babies has been made over the past 40 years, but slowly. The report says midwives are part of the solution and critical to expanding access to maternity care, especially in rural and under-resourced communities.
+
+ 
+
+"Midwives are a very important part of this picture. They are a vital part of the maternity care team," said Warren. "When we look at this challenge of maternity care deserts, we need to be leveraging every resource that we have to solve this problem."
+
+ 
+
+Midwives currently attend about 12% of births nationwide, according to the maternity care desert report. That's an increase of four percent over the past decade. However, insurance policies can vary on how they cover midwifery care. And some state laws make it more difficult for midwives to practice. Midwives have filed lawsuits against several southern states.
+
+ 
+
+In Alabama, they're suing over restrictive licensing requirements. State health officials argue doctors should always be involved in the birthing process to protect health and safety. Those who challenge midwifery care question the safety of home births, particularly when emergencies arise.
+
+ 
+
+The March of Dimes is advocating for policies to allow midwives to practice independently and prescribe medication. The group's new report also calls for expanded hospital privileges for them.
+
+ 
+
+Gramby is looking forward to finding more solutions to ensure mothers and babies get the care they need.
+
+ 
+
+"We have some work to do. We have to acknowledge that what's been happening is not working and then move forward with the plan of true collaboration," she said. "I have tremendous hope for positive change."
+
+ 
+
+Gramby sees compassionate, thorough and accessible maternity care as a birthright.
+
+* maternity care
+* maternal health
+
+* Facebook
+* Flipboard
+* Email
