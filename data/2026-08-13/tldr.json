@@ -220,16 +220,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Canva redesigns session revocation for 100M active sessions (4 minute read)",
-    "url": "https://www.infoq.com/news/2026/08/canva-session-revocation-scale/",
-    "description": "Canva redesigns session revocation for 100M active sessions (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "Claude Code Makes Auto Mode the Default (2 minute read)",
     "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
     "description": "Claude Code Makes Auto Mode the Default (2 minute read)",
@@ -490,6 +480,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Google brings Gemini to PostgreSQL migrations (4 minute read)",
+    "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+    "description": "Google brings Gemini to PostgreSQL migrations (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-13",
+    "site_name": "tldr"
+  },
+  {
     "title": "Google's classic Search button is gone in a new AI-first homepage (3 minute read)",
     "url": "https://searchenginewatch.com/google-tests-ai-focused-homepage-for-signed-out-users/",
     "description": "Google's classic Search button is gone in a new AI-first homepage (3 minute read)",
@@ -593,6 +593,16 @@
     "title": "How to run ChatGPT ads: A step-by-step guide from early campaigns (7 minute read)",
     "url": "https://searchengineland.com/run-chatgpt-ads-484513",
     "description": "How to run ChatGPT ads: A step-by-step guide from early campaigns (7 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-13",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Hybrid Computing Framework Looks Beyond Peak TOPS/W For AI Efficiency (4 minute read)",
+    "url": "https://semiengineering.com/hybrid-computing-framework-looks-beyond-peak-tops-w-for-ai-efficiency-nottingham-trent-icl-aston/",
+    "description": "Hybrid Computing Framework Looks Beyond Peak TOPS/W For AI Efficiency (4 minute read)",
     "tags": [
       "tldr"
     ],
