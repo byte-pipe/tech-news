@@ -1,130 +1,164 @@
 [
   {
-    "title": "2026 Eclipse Webcams",
-    "url": "https://jonty.github.io/2026_eclipse_webcams/",
-    "author": "zoenolan",
-    "date": "2026-08-12",
-    "score": 496,
-    "comments": 133,
-    "id": 49270953,
-    "discussion_url": "https://news.ycombinator.com/item?id=49270953",
-    "description": "2026 Eclipse Webcams",
+    "title": "Accelerating GPT-5.6 Sol Ultrafast",
+    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "author": "pr337h4m",
+    "date": "2026-08-13",
+    "score": 168,
+    "comments": 49,
+    "id": 49289844,
+    "discussion_url": "https://news.ycombinator.com/item?id=49289844",
+    "description": "Accelerating GPT-5.6 Sol Ultrafast",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473171"
+    "fetched_at": "2026-08-13T19:56:07.934156"
   },
   {
-    "title": "AI is removing the middle class of software engineering?",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "author": "florianherrengt",
-    "date": "2026-08-12",
-    "score": 902,
-    "comments": 811,
-    "id": 49271994,
-    "discussion_url": "https://news.ycombinator.com/item?id=49271994",
-    "description": "AI is removing the middle class of software engineering?",
+    "title": "Antiqua–Fraktur dispute",
+    "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+    "author": "buzzy_hacker",
+    "date": "2026-08-10",
+    "score": 138,
+    "comments": 66,
+    "id": 49242698,
+    "discussion_url": "https://news.ycombinator.com/item?id=49242698",
+    "description": "Antiqua–Fraktur dispute",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473297"
+    "fetched_at": "2026-08-13T19:56:07.934408"
   },
   {
-    "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
-    "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
-    "author": "michaefe",
-    "date": "2026-08-12",
-    "score": 218,
-    "comments": 180,
-    "id": 49266277,
-    "discussion_url": "https://news.ycombinator.com/item?id=49266277",
-    "description": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+    "title": "Better Gaussian Splatting in Julia",
+    "url": "https://pxl-th.github.io/blog/better-gs-julia/",
+    "author": "pxl-th",
+    "date": "2026-08-09",
+    "score": 102,
+    "comments": 17,
+    "id": 49232039,
+    "discussion_url": "https://news.ycombinator.com/item?id=49232039",
+    "description": "Better Gaussian Splatting in Julia",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473374"
+    "fetched_at": "2026-08-13T19:56:07.934291"
   },
   {
-    "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-    "url": "https://openai.com/codex/",
+    "title": "Choose Boring Technology (2015)",
+    "url": "https://mcfunley.com/choose-boring-technology",
+    "author": "tosh",
+    "date": "2026-08-13",
+    "score": 121,
+    "comments": 63,
+    "id": 49289512,
+    "discussion_url": "https://news.ycombinator.com/item?id=49289512",
+    "description": "Choose Boring Technology (2015)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-13T19:56:07.934189"
+  },
+  {
+    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "author": "toddmorey",
+    "date": "2026-08-13",
+    "score": 139,
+    "comments": 60,
+    "id": 49285327,
+    "discussion_url": "https://news.ycombinator.com/item?id=49285327",
+    "description": "Choosing an AI model: one prompt, 11 models, different results",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-13T19:56:07.934247"
+  },
+  {
+    "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+    "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
     "author": "allanrbo",
     "date": "2026-08-13",
-    "score": 200,
-    "comments": 122,
+    "score": 416,
+    "comments": 288,
     "id": 49281916,
     "discussion_url": "https://news.ycombinator.com/item?id=49281916",
-    "description": "ChatGPT Desktop (Codex Desktop) for Linux",
+    "description": "Codex in ChatGPT desktop app for Linux is now in preview",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473242"
+    "fetched_at": "2026-08-13T19:56:07.934268"
   },
   {
-    "title": "DeepSeek V4 Pro 0813",
-    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-    "author": "explosion-s",
-    "date": "2026-08-12",
-    "score": 956,
-    "comments": 403,
-    "id": 49274600,
-    "discussion_url": "https://news.ycombinator.com/item?id=49274600",
-    "description": "DeepSeek V4 Pro 0813",
+    "title": "DeepSeek Harness developer preview",
+    "url": "https://deepseek.com/harness/en/",
+    "author": "bjin",
+    "date": "2026-08-13",
+    "score": 473,
+    "comments": 213,
+    "id": 49285244,
+    "discussion_url": "https://news.ycombinator.com/item?id=49285244",
+    "description": "DeepSeek Harness developer preview",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473203"
+    "fetched_at": "2026-08-13T19:56:07.934231"
   },
   {
-    "title": "Delphi 13 Community Edition Is Now Available",
-    "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-    "author": "layer8",
-    "date": "2026-08-12",
-    "score": 174,
-    "comments": 137,
-    "id": 49270621,
-    "discussion_url": "https://news.ycombinator.com/item?id=49270621",
-    "description": "Delphi 13 Community Edition Is Now Available",
+    "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+    "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+    "author": "Markoff",
+    "date": "2026-08-13",
+    "score": 356,
+    "comments": 392,
+    "id": 49284774,
+    "discussion_url": "https://news.ycombinator.com/item?id=49284774",
+    "description": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473327"
+    "fetched_at": "2026-08-13T19:56:07.934310"
   },
   {
-    "title": "Delta",
-    "url": "https://zed.dev/blog/introducing-delta",
-    "author": "khy",
-    "date": "2026-08-12",
-    "score": 576,
-    "comments": 210,
-    "id": 49276574,
-    "discussion_url": "https://news.ycombinator.com/item?id=49276574",
-    "description": "Delta",
+    "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+    "url": "https://donkeybas.com/",
+    "author": "jkrauska",
+    "date": "2026-08-13",
+    "score": 83,
+    "comments": 33,
+    "id": 49289465,
+    "discussion_url": "https://news.ycombinator.com/item?id=49289465",
+    "description": "Donkey.bas is 45 Years Old – 131 line of Glory",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473161"
+    "fetched_at": "2026-08-13T19:56:07.934176"
   },
   {
     "title": "Flutter 3.47",
     "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
     "author": "gumby271",
     "date": "2026-08-12",
-    "score": 126,
-    "comments": 136,
+    "score": 182,
+    "comments": 200,
     "id": 49280061,
     "discussion_url": "https://news.ycombinator.com/item?id=49280061",
     "description": "Flutter 3.47",
@@ -133,380 +167,261 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473278"
+    "fetched_at": "2026-08-13T19:56:07.934405"
   },
   {
-    "title": "Grok 4.6",
-    "url": "https://x.ai/news/grok-4-6",
-    "author": "iLuddite",
-    "date": "2026-08-12",
-    "score": 572,
-    "comments": 515,
-    "id": 49274027,
-    "discussion_url": "https://news.ycombinator.com/item?id=49274027",
-    "description": "Grok 4.6",
+    "title": "Gemini 3.7 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "author": "thisisauserid",
+    "date": "2026-08-13",
+    "score": 343,
+    "comments": 221,
+    "id": 49289112,
+    "discussion_url": "https://news.ycombinator.com/item?id=49289112",
+    "description": "Gemini 3.7 Flash",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473267"
+    "fetched_at": "2026-08-13T19:56:07.934194"
   },
   {
-    "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-    "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-    "author": "redbell",
-    "date": "2026-08-12",
-    "score": 213,
-    "comments": 139,
-    "id": 49275335,
-    "discussion_url": "https://news.ycombinator.com/item?id=49275335",
-    "description": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+    "title": "Gloomberb",
+    "url": "https://gloom.sh/",
+    "author": "rbanffy",
+    "date": "2026-08-13",
+    "score": 318,
+    "comments": 163,
+    "id": 49285982,
+    "discussion_url": "https://news.ycombinator.com/item?id=49285982",
+    "description": "Gloomberb",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473249"
+    "fetched_at": "2026-08-13T19:56:07.934243"
   },
   {
-    "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
-    "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+    "title": "Graduate student proves a quantum uncertainty principle for fractals",
+    "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
     "author": "bookofjoe",
-    "date": "2026-08-06",
-    "score": 160,
-    "comments": 18,
-    "id": 49194856,
-    "discussion_url": "https://news.ycombinator.com/item?id=49194856",
-    "description": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+    "date": "2026-08-13",
+    "score": 51,
+    "comments": 6,
+    "id": 49286424,
+    "discussion_url": "https://news.ycombinator.com/item?id=49286424",
+    "description": "Graduate student proves a quantum uncertainty principle for fractals",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473317"
+    "fetched_at": "2026-08-13T19:56:07.934287"
   },
   {
-    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-    "url": "https://discoveredmaterials.com/research/",
-    "author": "advaith08",
+    "title": "How art invented humanity",
+    "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+    "author": "prismatic",
     "date": "2026-08-12",
-    "score": 141,
-    "comments": 32,
-    "id": 49269090,
-    "discussion_url": "https://news.ycombinator.com/item?id=49269090",
-    "description": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+    "score": 54,
+    "comments": 15,
+    "id": 49279638,
+    "discussion_url": "https://news.ycombinator.com/item?id=49279638",
+    "description": "How art invented humanity",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473180"
+    "fetched_at": "2026-08-13T19:56:07.934264"
   },
   {
-    "title": "License plate reader searches should require a warrant",
-    "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-    "author": "apwheele",
-    "date": "2026-08-12",
-    "score": 586,
-    "comments": 350,
-    "id": 49273165,
-    "discussion_url": "https://news.ycombinator.com/item?id=49273165",
-    "description": "License plate reader searches should require a warrant",
+    "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+    "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+    "author": "dreamforever",
+    "date": "2026-08-13",
+    "score": 106,
+    "comments": 59,
+    "id": 49285718,
+    "discussion_url": "https://news.ycombinator.com/item?id=49285718",
+    "description": "I built a 500k-domain search engine for makers in a weekend for $10",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473313"
+    "fetched_at": "2026-08-13T19:56:07.934272"
   },
   {
-    "title": "Lovable raises $400M Series C",
-    "url": "https://lovable.dev/blog/series-c",
-    "author": "thoughtpeddler",
-    "date": "2026-08-12",
-    "score": 150,
-    "comments": 166,
-    "id": 49274858,
-    "discussion_url": "https://news.ycombinator.com/item?id=49274858",
-    "description": "Lovable raises $400M Series C",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473289"
-  },
-  {
-    "title": "Mushroom behind 'tiny people' hallucinations identified",
-    "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-    "author": "wglb",
-    "date": "2026-08-08",
-    "score": 170,
-    "comments": 139,
-    "id": 49218040,
-    "discussion_url": "https://news.ycombinator.com/item?id=49218040",
-    "description": "Mushroom behind 'tiny people' hallucinations identified",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473175"
-  },
-  {
-    "title": "Pixel Watch 5",
-    "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-    "author": "ortusdux",
-    "date": "2026-08-12",
-    "score": 150,
-    "comments": 303,
-    "id": 49274757,
-    "discussion_url": "https://news.ycombinator.com/item?id=49274757",
-    "description": "Pixel Watch 5",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473237"
-  },
-  {
-    "title": "Principia Mathematica is modern and insightful",
-    "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-    "author": "matt_d",
-    "date": "2026-08-12",
+    "title": "I requested a copy of my data from McDonald’s loyalty program",
+    "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+    "author": "thehoff",
+    "date": "2026-08-13",
     "score": 178,
-    "comments": 76,
-    "id": 49279928,
-    "discussion_url": "https://news.ycombinator.com/item?id=49279928",
-    "description": "Principia Mathematica is modern and insightful",
+    "comments": 218,
+    "id": 49286662,
+    "discussion_url": "https://news.ycombinator.com/item?id=49286662",
+    "description": "I requested a copy of my data from McDonald’s loyalty program",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473222"
+    "fetched_at": "2026-08-13T19:56:07.934302"
   },
   {
-    "title": "Qwen3.8-2.4T",
-    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-    "author": "Philpax",
-    "date": "2026-08-12",
-    "score": 645,
-    "comments": 154,
-    "id": 49273478,
-    "discussion_url": "https://news.ycombinator.com/item?id=49273478",
-    "description": "Qwen3.8-2.4T",
+    "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+    "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+    "author": "stevehipwell",
+    "date": "2026-08-13",
+    "score": 113,
+    "comments": 50,
+    "id": 49286485,
+    "discussion_url": "https://news.ycombinator.com/item?id=49286485",
+    "description": "Kubernetes on Oxide: How customer needs shaped our integrations",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473212"
+    "fetched_at": "2026-08-13T19:56:07.934223"
   },
   {
-    "title": "Shade Map",
-    "url": "https://shademap.app",
-    "author": "fredley",
-    "date": "2026-08-12",
-    "score": 212,
-    "comments": 53,
-    "id": 49271757,
-    "discussion_url": "https://news.ycombinator.com/item?id=49271757",
-    "description": "Shade Map",
+    "title": "Mistral OCR 4.1",
+    "url": "https://docs.mistral.ai/models/ocr-4-1",
+    "author": "spelk",
+    "date": "2026-08-13",
+    "score": 141,
+    "comments": 47,
+    "id": 49288889,
+    "discussion_url": "https://news.ycombinator.com/item?id=49288889",
+    "description": "Mistral OCR 4.1",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473285"
+    "fetched_at": "2026-08-13T19:56:07.934203"
   },
   {
-    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-    "url": "https://woxi.ad-si.com",
-    "author": "adius",
-    "date": "2026-08-12",
-    "score": 300,
-    "comments": 42,
-    "id": 49270040,
-    "discussion_url": "https://news.ycombinator.com/item?id=49270040",
-    "description": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+    "title": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
+    "url": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
+    "author": "vinayakborkar",
+    "date": "2026-08-13",
+    "score": 143,
+    "comments": 67,
+    "id": 49285418,
+    "discussion_url": "https://news.ycombinator.com/item?id=49285418",
+    "description": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473293"
+    "fetched_at": "2026-08-13T19:56:07.934357"
   },
   {
-    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-    "url": "https://knownagents.com/insights",
-    "author": "gavinhking",
-    "date": "2026-08-12",
-    "score": 281,
-    "comments": 214,
-    "id": 49272569,
-    "discussion_url": "https://news.ycombinator.com/item?id=49272569",
-    "description": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473226"
-  },
-  {
-    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
-    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-    "author": "carabiner",
-    "date": "2026-08-12",
+    "title": "Ordinary abundance",
+    "url": "https://ordinaryabundance.com/",
+    "author": "yen223",
+    "date": "2026-08-13",
     "score": 136,
-    "comments": 177,
-    "id": 49279013,
-    "discussion_url": "https://news.ycombinator.com/item?id=49279013",
-    "description": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+    "comments": 61,
+    "id": 49285770,
+    "discussion_url": "https://news.ycombinator.com/item?id=49285770",
+    "description": "Ordinary abundance",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473191"
+    "fetched_at": "2026-08-13T19:56:07.934254"
   },
   {
-    "title": "The hardest working font in Manhattan (2025)",
-    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-    "author": "dcminter",
-    "date": "2026-08-06",
-    "score": 368,
-    "comments": 55,
-    "id": 49201953,
-    "discussion_url": "https://news.ycombinator.com/item?id=49201953",
-    "description": "The hardest working font in Manhattan (2025)",
+    "title": "Picking berries is my meditation",
+    "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+    "author": "mooreds",
+    "date": "2026-08-08",
+    "score": 99,
+    "comments": 78,
+    "id": 49224997,
+    "discussion_url": "https://news.ycombinator.com/item?id=49224997",
+    "description": "Picking berries is my meditation",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473305"
+    "fetched_at": "2026-08-13T19:56:07.934374"
   },
   {
-    "title": "Tim King, AmigaDOS developer, has died",
-    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-    "author": "doener",
-    "date": "2026-08-12",
-    "score": 280,
-    "comments": 35,
-    "id": 49272655,
-    "discussion_url": "https://news.ycombinator.com/item?id=49272655",
-    "description": "Tim King, AmigaDOS developer, has died",
+    "title": "Spaghettifying DRAM",
+    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "author": "matt_d",
+    "date": "2026-08-13",
+    "score": 360,
+    "comments": 111,
+    "id": 49286341,
+    "discussion_url": "https://news.ycombinator.com/item?id=49286341",
+    "description": "Spaghettifying DRAM",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473274"
+    "fetched_at": "2026-08-13T19:56:07.934227"
   },
   {
-    "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "author": "ropbear",
-    "date": "2026-08-12",
-    "score": 1077,
-    "comments": 201,
-    "id": 49272832,
-    "discussion_url": "https://news.ycombinator.com/item?id=49272832",
-    "description": "Tracking down the 16-year-old WAL-reset SQLite bug",
+    "title": "The lattice of sets of natural numbers is rich (2021)",
+    "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+    "author": "benmandrew",
+    "date": "2026-08-10",
+    "score": 95,
+    "comments": 19,
+    "id": 49243687,
+    "discussion_url": "https://news.ycombinator.com/item?id=49243687",
+    "description": "The lattice of sets of natural numbers is rich (2021)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473166"
+    "fetched_at": "2026-08-13T19:56:07.934342"
   },
   {
-    "title": "U of Michigan drops first-semester grades to ‘curb mental health crisis’",
-    "url": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
-    "author": "cwwc",
-    "date": "2026-08-11",
-    "score": 177,
-    "comments": 501,
-    "id": 49260250,
-    "discussion_url": "https://news.ycombinator.com/item?id=49260250",
-    "description": "U of Michigan drops first-semester grades to ‘curb mental health crisis’",
+    "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+    "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+    "author": "omrimaya",
+    "date": "2026-08-13",
+    "score": 60,
+    "comments": 41,
+    "id": 49286357,
+    "discussion_url": "https://news.ycombinator.com/item?id=49286357",
+    "description": "We eliminated 1,400 CVEs in NanoClaw's container images",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473355"
+    "fetched_at": "2026-08-13T19:56:07.934364"
   },
   {
-    "title": "US hires over 2k video gamers as air traffic controllers",
-    "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-    "author": "shagie",
-    "date": "2026-08-11",
-    "score": 202,
-    "comments": 154,
-    "id": 49265879,
-    "discussion_url": "https://news.ycombinator.com/item?id=49265879",
-    "description": "US hires over 2k video gamers as air traffic controllers",
+    "title": "Where did the old web go? We followed 657,607 links to find out",
+    "url": "https://0.mk/blog/link-rot",
+    "author": "tdx",
+    "date": "2026-08-13",
+    "score": 56,
+    "comments": 27,
+    "id": 49289532,
+    "discussion_url": "https://news.ycombinator.com/item?id=49289532",
+    "description": "Where did the old web go? We followed 657,607 links to find out",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473348"
-  },
-  {
-    "title": "Why tiny JPEGs look different in Chrome",
-    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-    "author": "gutechh",
-    "date": "2026-08-12",
-    "score": 316,
-    "comments": 66,
-    "id": 49272549,
-    "discussion_url": "https://news.ycombinator.com/item?id=49272549",
-    "description": "Why tiny JPEGs look different in Chrome",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473208"
-  },
-  {
-    "title": "Worms: The Future of Yesterday's Worms Today",
-    "url": "https://worm.net/",
-    "author": "doener",
-    "date": "2026-08-07",
-    "score": 173,
-    "comments": 56,
-    "id": 49208693,
-    "discussion_url": "https://news.ycombinator.com/item?id=49208693",
-    "description": "Worms: The Future of Yesterday's Worms Today",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473345"
-  },
-  {
-    "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-    "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-    "author": "Markoff",
-    "date": "2026-08-12",
-    "score": 555,
-    "comments": 671,
-    "id": 49270726,
-    "discussion_url": "https://news.ycombinator.com/item?id=49270726",
-    "description": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-13T11:44:33.473255"
+    "fetched_at": "2026-08-13T19:56:07.934213"
   }
 ]
