@@ -1,56 +1,59 @@
 ---
-date: '2026-08-10'
+date: '2026-08-13'
 model: gpt-oss:120b-cloud
-generated_at: '2026-08-10T15:32:22.756442'
+generated_at: '2026-08-13T11:45:18.990893'
 ---
 
 ## Executive Summary
-- AI‑driven learning tools are expanding beyond text, with creators using large language models to build interactive, visual simulations that claim near‑perfect accuracy.  
-- New research links spatial‑heavy occupations—like taxi driving and GIS work—to reduced Alzheimer’s risk, highlighting the brain‑protective potential of sustained navigation tasks.  
-- The entertainment world saw a high‑profile stage adaptation of *Game of Thrones* debut at the Royal Shakespeare Company, while Anthropic’s Claude Cowork entered the design market as an autonomous AI assistant for file‑based workflows.  
-- Cyber‑security concerns are intensifying across domains: AI‑enabled wearables spark a surveillance arms race, NASA’s LunaNet space‑network demands zero‑trust and post‑quantum safeguards, and cloud‑infrastructure attacks—especially supply‑chain compromises—have surged dramatically in H1 2026.  
-- Front‑end developers gain a powerful performance optimization via the CSS `content‑visibility: auto` property, and marketers are reminded of classic copywriting tactics from Steve Jobs’s 2007 iPhone launch.
+- AI‑generated code is reshaping software engineering, displacing routine developers while elevating senior staff to roles focused on architecture and AI oversight.  
+- New large‑scale models such as DeepSeek V4 Pro and Qwen 3.8‑2.4T demonstrate competitive performance at lower per‑token costs, intensifying the race for affordable, high‑throughput LLMs.  
+- Crypto payment cards are seeing rapid growth, with stablecoin spend surging to $759 million a month, while geopolitical tensions continue to flare, highlighted by a civilian casualty in Gaza and strong pro‑Trump sentiment in a Tennessee munitions town.  
+- Startup valuations are correcting sharply after years of inflated multiples, exemplified by Cognition’s $40 bn fundraising talks and Airtable’s modest 2.7× ARR sale price.  
 
 ---
 
 ## AI and Machine Learning
-### How I use LLMs to learn complex topics — [hackernews_api]
-- Laurentiu Raducu describes a workflow that leverages LLMs to generate a knowledge base, validate it, and then produce a low‑poly interactive animation (e.g., “ChipTycoon”) that visualizes complex processes. The approach aims to improve retention compared with traditional reading and suggests future upgrades with realistic 3‑D assets and embedded quizzes.
 
-### Taxi drivers rarely die of Alzheimer’s — [hackernews_api]
-- An analysis of ~9 million U.S. death certificates finds taxi and ambulance drivers have the lowest Alzheimer’s mortality, likely due to continuous spatial navigation that strengthens the hippocampus. The article proposes that occupations involving intensive map‑making (GIS, urban planning) could serve as public‑health interventions to build cognitive reserve.
-
-### Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition — [Al Jazeera]
-- Daniel Kinahan, a suspected Irish crime syndicate leader, was extradited from Dubai and appeared before a Dublin court on charges of directing a criminal organization.
-
-### ‘Spectacular’ Game of Thrones stage spin‑off opens at home of Shakespeare — [BBC News]
-- The Royal Shakespeare Company launched *Game of Thrones: The Mad King* in Stratford‑upon‑Avon, a 3‑hour‑45‑minute prequel featuring younger versions of iconic characters. Critics praised its spectacle and stagecraft, though some noted pacing issues; the production aims for a multi‑city run comparable to other major franchise stage shows.
-
-### Claude Cowork for Designers: A Working Field Guide — [tldr]
-- Anthropic’s Claude Cowork extends the Claude Code agentic engine to execute design tasks (file access, code execution, asset generation) across three interfaces: Chat, Code, and Cowork. With over 1.2 M sessions in May 2026, it is positioned as a productivity booster for designers handling multi‑step workflows, requiring a paid plan and a desktop sandbox for file operations.
-
----
-
-## Cybersecurity and Privacy
-### A Surveillance ‘Cat‑and‑Mouse’ Game With AI — [The Atlantic]
-- The piece outlines how AI‑enabled wearables (glasses, pins, necklaces) can covertly record conversations, prompting a wave of counter‑measures such as ultrasonic jammers (e.g., Spectre I) and data‑poisoning techniques. The ongoing arms race suggests privacy protection will become increasingly technical and adversarial.
-
-### As Space Gets Connected, Security Gets Critical — [tldr]
-- NASA’s LunaNet will extend internet‑style connectivity to lunar and deep‑space assets, relying on DTN, RF/5G/optical links, and hardware‑rooted trust. Security requirements include post‑quantum cryptography, zero‑trust architectures, and domestically sourced components to mitigate nation‑state and cyber‑criminal threats.
-
-### Cloud Threat Highlights: H1 2026 | Wiz Blog — [tldr]
-- Wiz reports a 60 % rise in cloud‑security incidents in H1 2026, driven by a surge in supply‑chain attacks (now 25 % of incidents) and AI‑infrastructure compromises. Notable campaigns like TeamPCP poisoned npm and PyPI packages, harvested credentials, and leveraged CI/CD pipelines, while newer threats such as IronWorm introduced sophisticated eBPF rootkits.
+- AI is removing the middle class of software engineering (hackernews_api) (trending) – Massive AI‑generated pull requests flood codebases, eroding the role of routine implementers and forcing senior engineers to focus on high‑level decision‑making and AI oversight.  
+- DeepSeek V4 Pro 0813 – API Pricing & Benchmarks | OpenRouter (hackernews_api) (trending) – The model offers $0.0015/1 k input and $0.0030/1 k output tokens with latency around 200 ms, placing it among the fastest and cheapest LLMs for both NLP and code tasks.  
+- Qwen/Qwen3.8-2.4T-A95B · Hugging Face (hackernews_api) (trending) – An open‑source 2.4 T‑parameter causal model delivers strong results on coding, agentic, and long‑context benchmarks, and is available for self‑hosted or cloud inference.  
+- 11-year-old boy shot by Israeli forces in Gaza | Gaza News | Al Jazeera (newsfeed) – The father reports his son was hit in the head and leg during an Israeli operation in Khan Younis, adding to Gaza’s death toll of over 1,200 since the October ceasefire.  
+- 5 CSS Properties You Should Know for Better Text Designs – Master.dev Blog (tldr) – The article highlights background‑clip, vertical‑align/align‑content, box‑decoration‑mode, letter‑spacing, and text‑combine‑upright as essential tools for modern web typography.  
+- a16z crypto on X: “How crypto cards are driving stablecoin spend” (tldr) – Crypto‑linked payment cards processed $759 million in July 2024, with USDC and USDT now dominating volume, signaling accelerating consumer adoption of stablecoin‑based purchases.  
 
 ---
 
 ## Software Engineering and Dev Tools
-### Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that — [DEV Community]
-- The CSS `content-visibility: auto` property defers layout and paint for off‑screen elements, dramatically reducing rendering time on long pages (up to 7× faster) without breaking accessibility. Proper use of `contain‑intrinsic‑size` preserves scroll position, and the feature is now supported in Chrome 85, Firefox 125, and Safari 18.
 
-### Copywriting Friday: Steve Jobs launches the iPhone — [Conversion Rate Experts]
-- The analysis extracts timeless sales tactics from Jobs’s 2007 iPhone unveiling—such as withheld reveals, problem‑first framing, pre‑emptive objection handling, and linking specs to benefits—and shows how marketers can apply these techniques to modern landing pages and campaigns.
+- Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK – DEV Community (devto) – A regression that stripped Gemini chat configuration from Sentry traces was fixed by preserving creation parameters, restoring full AI‑instrumentation visibility.  
+- The Next Evolution of Software Developers – DEV Community (devto) – AI lifts developers from manual coding to intent definition, architecture, and outcome ownership, making strategic decision‑making the primary value proposition.  
+- How Tailscale helped find the SQLite WAL‑Reset bug (hackernews_api) (trending) – Tailscale’s telemetry and transaction logs uncovered a 16‑year‑old SQLite corruption bug affecting its control‑plane shards, leading to improved backup monitoring and faster recovery.  
+- License Plate Reader Searches Should Require a Warrant | Andrew Wheeler (hackernews_api) – The author argues that historical ALPR data should be treated like cell‑site location information and accessed only via a warrant to protect privacy.  
+- Why Tiny JPEGs Look Different in Chrome – HN RSS (hnrss) – Chrome’s libjpeg‑turbo performs partial IDCT scaling for tiny images, discarding high‑frequency data and causing visual differences that favor vector formats for UI assets.  
+- Introducing Delta — Zed's Blog (hnrss) – Delta provides a real‑time, AI‑augmented collaborative coding environment where code, comments, and agent interactions stay synchronized via DeltaDB.  
+- Introducing Grok 4.6 | SpaceXAI (hnrss) – Grok 4.6, now available via Cursor, API, and partners, outperforms GPT‑5.6 Sol on several benchmarks, offers long‑running agent capabilities, and is priced at $2 / M input tokens.  
+
+---
+
+## Startups and Business
+
+- AI coding startup Cognition reportedly already in talks to raise at $40B valuation (TechCrunch) – Cognition’s Devin AI coding agent has driven $492 M annualized revenue, prompting a new funding round that could lift valuation to $40 bn if a $1 bn run‑rate is achieved.  
+- A Spoonful of Reality for ‘Bent’ Valuations (tldr) – The Airtable acquisition at 2.7× ARR illustrates the broader correction of inflated SaaS multiples, urging founders to pursue aggressive AI‑driven reinvention or risk obsolescence.  
+
+---
+
+## World News and Geopolitics
+
+- The town making missiles for Trump – BBC News (newsfeed) – Kingsport, Tennessee, home to the Holston Army Ammunition Plant, remains a staunch Trump stronghold despite national declines in his approval, with residents linking their livelihoods to defense production.  
+
+---
+
+## Uncategorized
+
+- 2026 Total Eclipse Webcams (hnrss) – A webcam network captured the 2026 solar eclipse, with footage contributed by user “jonty.”  
 
 ---
 
 ## Notable Mentions
-- *No additional items were flagged for this briefing.*
+- A shell exclamation mark is not for yelling. Be lazy. | Filip Roséen - refp.se (tldr)  
+- TBM 435: 20 Unfiltered Operating Takes - by John Cutler (tldr)
