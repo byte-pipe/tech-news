@@ -90,6 +90,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "ADR (GitHub Repo)",
+    "url": "https://github.com/uber/ADR",
+    "description": "ADR (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-14",
+    "site_name": "tldr"
+  },
+  {
     "title": "AI Model Drift: How to Keep Models Reliable (8 minute read)",
     "url": "https://www.honeycomb.io/blog/ai-model-drift",
     "description": "AI Model Drift: How to Keep Models Reliable (8 minute read)",
@@ -103,16 +113,6 @@
     "title": "AI Tech Pack Generator (Website)",
     "url": "https://www.genpire.com/",
     "description": "AI Tech Pack Generator (Website)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-14",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI is creating a data center capacity crisis (5 minute read)",
-    "url": "https://www.infoworld.com/article/4207475/navigating-the-ai-data-center-capacity-crisis.html",
-    "description": "AI is creating a data center capacity crisis (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -273,6 +273,16 @@
     "title": "Can Agents Use a Computer Yet? We've Got the Data (12 minute read)",
     "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
     "description": "Can Agents Use a Computer Yet? We've Got the Data (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-14",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Can software factories actually work? (5 minute read)",
+    "url": "https://newsletter.posthog.com/p/software-factories",
+    "description": "Can software factories actually work? (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -463,16 +473,6 @@
     "title": "Everything hackable will get hacked (6 minute read)",
     "url": "https://vercel.com/blog/everything-hackable-will-get-hacked",
     "description": "Everything hackable will get hacked (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-14",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities (2 minute read)",
-    "url": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
-    "description": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -790,9 +790,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "I'm a PM Who Built a Travel-Tech Startup Solo — Using AI as My Engineering Team (5 minute read)",
-    "url": "https://martech.zone/i-built-a-travel-tech-startup-using-ai/",
-    "description": "I'm a PM Who Built a Travel-Tech Startup Solo — Using AI as My Engineering Team (5 minute read)",
+    "title": "Hybrid Computing Framework Looks Beyond Peak TOPS/W For AI Efficiency (4 minute read)",
+    "url": "https://semiengineering.com/hybrid-computing-framework-looks-beyond-peak-tops-w-for-ai-efficiency-nottingham-trent-icl-aston/",
+    "description": "Hybrid Computing Framework Looks Beyond Peak TOPS/W For AI Efficiency (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -800,9 +800,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Input-based pricing vs Output-based pricing (8 minute read)",
-    "url": "https://www.elliotcsmith.com/input-based-pricing-vs-output-based-pricing/",
-    "description": "Input-based pricing vs Output-based pricing (8 minute read)",
+    "title": "I'm a PM Who Built a Travel-Tech Startup Solo — Using AI as My Engineering Team (5 minute read)",
+    "url": "https://martech.zone/i-built-a-travel-tech-startup-using-ai/",
+    "description": "I'm a PM Who Built a Travel-Tech Startup Solo — Using AI as My Engineering Team (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -843,6 +843,16 @@
     "title": "Is there a retirement crisis in the creative industry? (5 minute read)",
     "url": "https://www.creativeboom.com/tips/is-there-a-retirement-crisis-in-the-creative-industry/",
     "description": "Is there a retirement crisis in the creative industry? (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-14",
+    "site_name": "tldr"
+  },
+  {
+    "title": "JPMorgan to deploy $750B for affordable housing by 2035 (3 minute read)",
+    "url": "https://www.esgdive.com/news/jpmorgan-to-deploy-750b-for-affordable-housing-by-2035-american-dream-initiative/826966/",
+    "description": "JPMorgan to deploy $750B for affordable housing by 2035 (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1050,6 +1060,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE (4 minute read)",
+    "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+    "description": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-14",
+    "site_name": "tldr"
+  },
+  {
     "title": "Sailor: The Money Agent (4 minute read)",
     "url": "https://x.com/aadopico/status/2085771230578086193",
     "description": "Sailor: The Money Agent (4 minute read)",
@@ -1250,16 +1270,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "We're open-sourcing our privacy proxy CLI (8 minute read)",
-    "url": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
-    "description": "We're open-sourcing our privacy proxy CLI (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-14",
-    "site_name": "tldr"
-  },
-  {
     "title": "What sort of maths are LLMs good at? (32 minute read)",
     "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
     "description": "What sort of maths are LLMs good at? (32 minute read)",
@@ -1333,16 +1343,6 @@
     "title": "Why investors are backing AI-native fintech startups built for speed (8 minute read)",
     "url": "https://www.forbes.com/sites/alisoncoleman/2026/08/10/why-investors-are-backing-ai-native-fintech-startups-built-for-speed/",
     "description": "Why investors are backing AI-native fintech startups built for speed (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-14",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Why you can't copy Palantir (38 minute read)",
-    "url": "https://ethanding.substack.com/p/why-you-cant-copy-palantir",
-    "description": "Why you can't copy Palantir (38 minute read)",
     "tags": [
       "tldr"
     ],

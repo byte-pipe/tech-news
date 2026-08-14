@@ -1,11 +1,28 @@
 [
   {
+    "title": "AI At Home Part 1: A Box Of Scraps",
+    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "author": "timmmmmmay",
+    "date": "2026-08-13",
+    "score": 120,
+    "comments": 56,
+    "id": 49288293,
+    "discussion_url": "https://news.ycombinator.com/item?id=49288293",
+    "description": "AI At Home Part 1: A Box Of Scraps",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-14T11:43:00.733287"
+  },
+  {
     "title": "Accelerating GPT-5.6 Sol Ultrafast",
     "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
     "author": "pr337h4m",
-    "date": "2026-08-14",
-    "score": 176,
-    "comments": 52,
+    "date": "2026-08-13",
+    "score": 631,
+    "comments": 249,
     "id": 49289844,
     "discussion_url": "https://news.ycombinator.com/item?id=49289844",
     "description": "Accelerating GPT-5.6 Sol Ultrafast",
@@ -14,32 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132126"
-  },
-  {
-    "title": "Antiqua–Fraktur dispute",
-    "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
-    "author": "buzzy_hacker",
-    "date": "2026-08-10",
-    "score": 138,
-    "comments": 66,
-    "id": 49242698,
-    "discussion_url": "https://news.ycombinator.com/item?id=49242698",
-    "description": "Antiqua–Fraktur dispute",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132783"
+    "fetched_at": "2026-08-14T11:43:00.733146"
   },
   {
     "title": "Better Gaussian Splatting in Julia",
     "url": "https://pxl-th.github.io/blog/better-gs-julia/",
     "author": "pxl-th",
-    "date": "2026-08-10",
-    "score": 102,
-    "comments": 17,
+    "date": "2026-08-09",
+    "score": 120,
+    "comments": 24,
     "id": 49232039,
     "discussion_url": "https://news.ycombinator.com/item?id=49232039",
     "description": "Better Gaussian Splatting in Julia",
@@ -48,15 +48,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.131979"
+    "fetched_at": "2026-08-14T11:43:00.733305"
+  },
+  {
+    "title": "Blog about things you don't understand yet",
+    "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+    "author": "gfysfm",
+    "date": "2026-08-13",
+    "score": 118,
+    "comments": 34,
+    "id": 49293087,
+    "discussion_url": "https://news.ycombinator.com/item?id=49293087",
+    "description": "Blog about things you don't understand yet",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-14T11:43:00.733227"
+  },
+  {
+    "title": "Bluesky Protocol Services",
+    "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+    "author": "danabramov",
+    "date": "2026-08-14",
+    "score": 170,
+    "comments": 44,
+    "id": 49293324,
+    "discussion_url": "https://news.ycombinator.com/item?id=49293324",
+    "description": "Bluesky Protocol Services",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-14T11:43:00.733222"
   },
   {
     "title": "Choose Boring Technology (2015)",
     "url": "https://mcfunley.com/choose-boring-technology",
     "author": "tosh",
-    "date": "2026-08-14",
-    "score": 122,
-    "comments": 64,
+    "date": "2026-08-13",
+    "score": 363,
+    "comments": 196,
     "id": 49289512,
     "discussion_url": "https://news.ycombinator.com/item?id=49289512",
     "description": "Choose Boring Technology (2015)",
@@ -65,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132184"
+    "fetched_at": "2026-08-14T11:43:00.733204"
   },
   {
     "title": "Choosing an AI model: one prompt, 11 models, different results",
     "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
     "author": "toddmorey",
     "date": "2026-08-13",
-    "score": 141,
-    "comments": 60,
+    "score": 207,
+    "comments": 88,
     "id": 49285327,
     "discussion_url": "https://news.ycombinator.com/item?id=49285327",
     "description": "Choosing an AI model: one prompt, 11 models, different results",
@@ -82,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132147"
+    "fetched_at": "2026-08-14T11:43:00.733242"
   },
   {
     "title": "Codex in ChatGPT desktop app for Linux is now in preview",
     "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
     "author": "allanrbo",
     "date": "2026-08-13",
-    "score": 417,
-    "comments": 288,
+    "score": 456,
+    "comments": 308,
     "id": 49281916,
     "discussion_url": "https://news.ycombinator.com/item?id=49281916",
     "description": "Codex in ChatGPT desktop app for Linux is now in preview",
@@ -99,32 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132108"
-  },
-  {
-    "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
-    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-    "author": "cainxinth",
-    "date": "2026-08-11",
-    "score": 50,
-    "comments": 13,
-    "id": 49258428,
-    "discussion_url": "https://news.ycombinator.com/item?id=49258428",
-    "description": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132220"
+    "fetched_at": "2026-08-14T11:43:00.733330"
   },
   {
     "title": "DeepSeek Harness developer preview",
     "url": "https://deepseek.com/harness/en/",
     "author": "bjin",
     "date": "2026-08-13",
-    "score": 473,
-    "comments": 215,
+    "score": 678,
+    "comments": 276,
     "id": 49285244,
     "discussion_url": "https://news.ycombinator.com/item?id=49285244",
     "description": "DeepSeek Harness developer preview",
@@ -133,32 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132089"
-  },
-  {
-    "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-    "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-    "author": "Markoff",
-    "date": "2026-08-13",
-    "score": 357,
-    "comments": 392,
-    "id": 49284774,
-    "discussion_url": "https://news.ycombinator.com/item?id=49284774",
-    "description": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132313"
+    "fetched_at": "2026-08-14T11:43:00.733194"
   },
   {
     "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
     "url": "https://donkeybas.com/",
     "author": "jkrauska",
-    "date": "2026-08-14",
-    "score": 86,
-    "comments": 33,
+    "date": "2026-08-13",
+    "score": 246,
+    "comments": 113,
     "id": 49289465,
     "discussion_url": "https://news.ycombinator.com/item?id=49289465",
     "description": "Donkey.bas is 45 Years Old – 131 line of Glory",
@@ -167,32 +167,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132332"
+    "fetched_at": "2026-08-14T11:43:00.733233"
   },
   {
-    "title": "Flutter 3.47",
-    "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-    "author": "gumby271",
-    "date": "2026-08-13",
-    "score": 182,
-    "comments": 200,
-    "id": 49280061,
-    "discussion_url": "https://news.ycombinator.com/item?id=49280061",
-    "description": "Flutter 3.47",
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "url": "https://z.ai/blog/glm-5.3",
+    "author": "pella",
+    "date": "2026-08-14",
+    "score": 579,
+    "comments": 284,
+    "id": 49294997,
+    "discussion_url": "https://news.ycombinator.com/item?id=49294997",
+    "description": "GLM-5.3: Frontier coding with emergent cyber capabilities",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132849"
+    "fetched_at": "2026-08-14T11:43:00.733136"
   },
   {
     "title": "Gemini 3.7 Flash",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
     "author": "thisisauserid",
-    "date": "2026-08-14",
-    "score": 352,
-    "comments": 224,
+    "date": "2026-08-13",
+    "score": 875,
+    "comments": 445,
     "id": 49289112,
     "discussion_url": "https://news.ycombinator.com/item?id=49289112",
     "description": "Gemini 3.7 Flash",
@@ -201,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.131804"
+    "fetched_at": "2026-08-14T11:43:00.733239"
   },
   {
     "title": "Gloomberb",
     "url": "https://gloom.sh/",
     "author": "rbanffy",
     "date": "2026-08-13",
-    "score": 321,
-    "comments": 165,
+    "score": 422,
+    "comments": 219,
     "id": 49285982,
     "discussion_url": "https://news.ycombinator.com/item?id=49285982",
     "description": "Gloomberb",
@@ -218,83 +218,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132166"
+    "fetched_at": "2026-08-14T11:43:00.733278"
   },
   {
-    "title": "Graduate student proves a quantum uncertainty principle for fractals",
-    "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-    "author": "bookofjoe",
-    "date": "2026-08-14",
-    "score": 51,
-    "comments": 8,
-    "id": 49286424,
-    "discussion_url": "https://news.ycombinator.com/item?id=49286424",
-    "description": "Graduate student proves a quantum uncertainty principle for fractals",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.131944"
-  },
-  {
-    "title": "How art invented humanity",
-    "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-    "author": "prismatic",
+    "title": "Heart aerospace completes first flight of largest electric aircraft",
+    "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+    "author": "chha",
     "date": "2026-08-13",
-    "score": 55,
-    "comments": 16,
-    "id": 49279638,
-    "discussion_url": "https://news.ycombinator.com/item?id=49279638",
-    "description": "How art invented humanity",
+    "score": 131,
+    "comments": 137,
+    "id": 49286270,
+    "discussion_url": "https://news.ycombinator.com/item?id=49286270",
+    "description": "Heart aerospace completes first flight of largest electric aircraft",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132071"
+    "fetched_at": "2026-08-14T11:43:00.733290"
   },
   {
-    "title": "I built a 500k-domain search engine for makers in a weekend for $10",
-    "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-    "author": "dreamforever",
+    "title": "Hello, me. It's been a while",
+    "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+    "author": "somesoftdev",
     "date": "2026-08-13",
-    "score": 107,
-    "comments": 60,
-    "id": 49285718,
-    "discussion_url": "https://news.ycombinator.com/item?id=49285718",
-    "description": "I built a 500k-domain search engine for makers in a weekend for $10",
+    "score": 249,
+    "comments": 139,
+    "id": 49290166,
+    "discussion_url": "https://news.ycombinator.com/item?id=49290166",
+    "description": "Hello, me. It's been a while",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.131843"
+    "fetched_at": "2026-08-14T11:43:00.733173"
   },
   {
-    "title": "I requested a copy of my data from McDonald’s loyalty program",
-    "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-    "author": "thehoff",
-    "date": "2026-08-14",
-    "score": 179,
-    "comments": 222,
-    "id": 49286662,
-    "discussion_url": "https://news.ycombinator.com/item?id=49286662",
-    "description": "I requested a copy of my data from McDonald’s loyalty program",
+    "title": "How Compaction Works in Pi",
+    "url": "https://earendil.com/posts/compaction-in-pi/",
+    "author": "tosh",
+    "date": "2026-08-13",
+    "score": 175,
+    "comments": 72,
+    "id": 49289654,
+    "discussion_url": "https://news.ycombinator.com/item?id=49289654",
+    "description": "How Compaction Works in Pi",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132257"
+    "fetched_at": "2026-08-14T11:43:00.733181"
+  },
+  {
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "author": "malshe",
+    "date": "2026-08-13",
+    "score": 114,
+    "comments": 78,
+    "id": 49290768,
+    "discussion_url": "https://news.ycombinator.com/item?id=49290768",
+    "description": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-14T11:43:00.733216"
   },
   {
     "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
     "url": "https://oxide.computer/blog/kubernetes-on-oxide",
     "author": "stevehipwell",
-    "date": "2026-08-14",
-    "score": 114,
-    "comments": 50,
+    "date": "2026-08-13",
+    "score": 190,
+    "comments": 81,
     "id": 49286485,
     "discussion_url": "https://news.ycombinator.com/item?id=49286485",
     "description": "Kubernetes on Oxide: How customer needs shaped our integrations",
@@ -303,14 +303,14 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132419"
+    "fetched_at": "2026-08-14T11:43:00.733263"
   },
   {
     "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
     "url": "https://discoveredmaterials.com/research/",
     "author": "advaith08",
     "date": "2026-08-12",
-    "score": 154,
+    "score": 157,
     "comments": 35,
     "id": 49269090,
     "discussion_url": "https://news.ycombinator.com/item?id=49269090",
@@ -320,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132865"
+    "fetched_at": "2026-08-14T11:43:00.733307"
   },
   {
     "title": "Mistral OCR 4.1",
     "url": "https://docs.mistral.ai/models/ocr-4-1",
     "author": "spelk",
-    "date": "2026-08-14",
-    "score": 142,
-    "comments": 48,
+    "date": "2026-08-13",
+    "score": 365,
+    "comments": 148,
     "id": 49288889,
     "discussion_url": "https://news.ycombinator.com/item?id=49288889",
     "description": "Mistral OCR 4.1",
@@ -337,66 +337,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132292"
+    "fetched_at": "2026-08-14T11:43:00.733187"
   },
   {
-    "title": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
-    "url": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
-    "author": "vinayakborkar",
-    "date": "2026-08-13",
-    "score": 143,
-    "comments": 67,
-    "id": 49285418,
-    "discussion_url": "https://news.ycombinator.com/item?id=49285418",
-    "description": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
+    "title": "Mushroom behind 'tiny people' hallucinations identified",
+    "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+    "author": "wglb",
+    "date": "2026-08-08",
+    "score": 282,
+    "comments": 269,
+    "id": 49218040,
+    "discussion_url": "https://news.ycombinator.com/item?id=49218040",
+    "description": "Mushroom behind 'tiny people' hallucinations identified",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132593"
+    "fetched_at": "2026-08-14T11:43:00.733293"
   },
   {
-    "title": "Ordinary abundance",
+    "title": "NP-overrated",
+    "url": "https://gruhn.me/blog/2026-08-13/",
+    "author": "theanonymousone",
+    "date": "2026-08-13",
+    "score": 220,
+    "comments": 158,
+    "id": 49291268,
+    "discussion_url": "https://news.ycombinator.com/item?id=49291268",
+    "description": "NP-overrated",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-14T11:43:00.733247"
+  },
+  {
+    "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+    "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+    "author": "vinayakborkar",
+    "date": "2026-08-13",
+    "score": 323,
+    "comments": 184,
+    "id": 49285418,
+    "discussion_url": "https://news.ycombinator.com/item?id=49285418",
+    "description": "Nine PBS sues Iron Mountain over blocked access to archival data",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-14T11:43:00.733157"
+  },
+  {
+    "title": "Ordinary Abundance",
     "url": "https://ordinaryabundance.com/",
     "author": "yen223",
     "date": "2026-08-13",
-    "score": 139,
-    "comments": 61,
+    "score": 321,
+    "comments": 159,
     "id": 49285770,
     "discussion_url": "https://news.ycombinator.com/item?id=49285770",
-    "description": "Ordinary abundance",
+    "description": "Ordinary Abundance",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132386"
+    "fetched_at": "2026-08-14T11:43:00.733254"
   },
   {
-    "title": "Picking berries is my meditation",
-    "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-    "author": "mooreds",
-    "date": "2026-08-09",
-    "score": 99,
-    "comments": 79,
-    "id": 49224997,
-    "discussion_url": "https://news.ycombinator.com/item?id=49224997",
-    "description": "Picking berries is my meditation",
+    "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+    "url": "https://github.com/systemd/systemd/issues/40262",
+    "author": "ValdikSS",
+    "date": "2026-08-13",
+    "score": 227,
+    "comments": 157,
+    "id": 49290215,
+    "discussion_url": "https://news.ycombinator.com/item?id=49290215",
+    "description": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132701"
+    "fetched_at": "2026-08-14T11:43:00.733197"
   },
   {
     "title": "Spaghettifying DRAM",
     "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
     "author": "matt_d",
-    "date": "2026-08-14",
-    "score": 362,
-    "comments": 111,
+    "date": "2026-08-13",
+    "score": 642,
+    "comments": 166,
     "id": 49286341,
     "discussion_url": "https://news.ycombinator.com/item?id=49286341",
     "description": "Spaghettifying DRAM",
@@ -405,49 +439,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132053"
+    "fetched_at": "2026-08-14T11:43:00.733206"
   },
   {
-    "title": "The lattice of sets of natural numbers is rich (2021)",
-    "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-    "author": "benmandrew",
-    "date": "2026-08-10",
-    "score": 95,
-    "comments": 19,
-    "id": 49243687,
-    "discussion_url": "https://news.ycombinator.com/item?id=49243687",
-    "description": "The lattice of sets of natural numbers is rich (2021)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132505"
-  },
-  {
-    "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-    "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-    "author": "omrimaya",
+    "title": "SparrowMap – Cameras that watch government vehicles",
+    "url": "https://sparrowmap.com/",
+    "author": "paulnpace",
     "date": "2026-08-14",
-    "score": 61,
-    "comments": 41,
-    "id": 49286357,
-    "discussion_url": "https://news.ycombinator.com/item?id=49286357",
-    "description": "We eliminated 1,400 CVEs in NanoClaw's container images",
+    "score": 152,
+    "comments": 34,
+    "id": 49293294,
+    "discussion_url": "https://news.ycombinator.com/item?id=49293294",
+    "description": "SparrowMap – Cameras that watch government vehicles",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132684"
+    "fetched_at": "2026-08-14T11:43:00.733327"
+  },
+  {
+    "title": "Text AI watermarks will always be trivial to remove",
+    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+    "author": "pseudolus",
+    "date": "2026-08-13",
+    "score": 129,
+    "comments": 145,
+    "id": 49287153,
+    "discussion_url": "https://news.ycombinator.com/item?id=49287153",
+    "description": "Text AI watermarks will always be trivial to remove",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-14T11:43:00.733275"
+  },
+  {
+    "title": "Understanding is the new bottleneck",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "author": "sebg",
+    "date": "2026-08-13",
+    "score": 359,
+    "comments": 185,
+    "id": 49290299,
+    "discussion_url": "https://news.ycombinator.com/item?id=49290299",
+    "description": "Understanding is the new bottleneck",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-14T11:43:00.733224"
   },
   {
     "title": "Where did the old web go? We followed 657,607 links to find out",
     "url": "https://0.mk/blog/link-rot",
     "author": "tdx",
-    "date": "2026-08-14",
-    "score": 59,
-    "comments": 29,
+    "date": "2026-08-13",
+    "score": 194,
+    "comments": 185,
     "id": 49289532,
     "discussion_url": "https://news.ycombinator.com/item?id=49289532",
     "description": "Where did the old web go? We followed 657,607 links to find out",
@@ -456,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-14T06:00:18.132239"
+    "fetched_at": "2026-08-14T11:43:00.733200"
   }
 ]
