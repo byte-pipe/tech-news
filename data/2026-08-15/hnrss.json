@@ -1,152 +1,212 @@
 [
   {
-    "title": "DeepSeek peak/off-peak pricing update",
-    "url": "https://api-docs.deepseek.com/news/news260813/",
-    "description": "DeepSeek peak/off-peak pricing update",
+    "title": "AI by Hand",
+    "url": "https://www.byhand.ai/",
+    "description": "AI by Hand",
     "date": "2026-08-14",
-    "score": 207,
-    "comments": 110,
-    "discussion_url": "https://news.ycombinator.com/item?id=49296627",
+    "score": 315,
+    "comments": 23,
+    "discussion_url": "https://news.ycombinator.com/item?id=49300568",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-15T04:02:58.250042"
+    "fetched_at": "2026-08-15T11:17:53.786983"
   },
   {
-    "title": "Don't classify, hallucinate",
-    "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-    "description": "Don't classify, hallucinate",
-    "date": "2026-08-10",
-    "score": 170,
-    "comments": 72,
-    "discussion_url": "https://news.ycombinator.com/item?id=49249523",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-15T04:02:58.250066"
-  },
-  {
-    "title": "Every Fucking Website (2020)",
-    "url": "https://lxe.github.io/everywebsite/",
-    "description": "Every Fucking Website (2020)",
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "description": "Firefox is now the last major browser that still supports uBlock Origin",
     "date": "2026-08-14",
-    "score": 558,
-    "comments": 327,
-    "discussion_url": "https://news.ycombinator.com/item?id=49299222",
+    "score": 1112,
+    "comments": 412,
+    "discussion_url": "https://news.ycombinator.com/item?id=49303202",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-15T04:02:58.250003"
-  },
-  {
-    "title": "France's top court blocks social media ban for under-15s",
-    "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-    "description": "France's top court blocks social media ban for under-15s",
-    "date": "2026-08-14",
-    "score": 109,
-    "comments": 44,
-    "discussion_url": "https://news.ycombinator.com/item?id=49300671",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-15T04:02:58.249934"
+    "fetched_at": "2026-08-15T11:17:53.786942"
   },
   {
     "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
     "url": "https://z.ai/blog/glm-5.3",
     "description": "GLM-5.3: Frontier coding with emergent cyber capabilities",
     "date": "2026-08-14",
-    "score": 927,
-    "comments": 468,
+    "score": 1099,
+    "comments": 543,
     "discussion_url": "https://news.ycombinator.com/item?id=49294997",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-15T04:02:58.250054"
+    "fetched_at": "2026-08-15T11:17:53.787051"
   },
   {
-    "title": "In Australia, a home battery boom has helped cut wholesale power prices",
-    "url": "https://e360.yale.edu/digest/australia-home-batteries",
-    "description": "In Australia, a home battery boom has helped cut wholesale power prices",
+    "title": "Going Dark, and the era of law enforcement hacking",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "description": "Going Dark, and the era of law enforcement hacking",
     "date": "2026-08-14",
-    "score": 226,
-    "comments": 170,
-    "discussion_url": "https://news.ycombinator.com/item?id=49298910",
+    "score": 352,
+    "comments": 159,
+    "discussion_url": "https://news.ycombinator.com/item?id=49304447",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-15T04:02:58.250016"
+    "fetched_at": "2026-08-15T11:17:53.786930"
+  },
+  {
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "description": "Google is making private AI practical with homomorphic encryption",
+    "date": "2026-08-14",
+    "score": 406,
+    "comments": 246,
+    "discussion_url": "https://news.ycombinator.com/item?id=49300314",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-15T11:17:53.786996"
+  },
+  {
+    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "description": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "date": "2026-08-14",
+    "score": 193,
+    "comments": 77,
+    "discussion_url": "https://news.ycombinator.com/item?id=49299081",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-15T11:17:53.787030"
   },
   {
     "title": "Introducing Toast 1",
     "url": "https://www.mixedbread.com/blog/toast-1",
     "description": "Introducing Toast 1",
     "date": "2026-08-14",
-    "score": 101,
-    "comments": 28,
+    "score": 207,
+    "comments": 63,
     "discussion_url": "https://news.ycombinator.com/item?id=49299746",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-15T04:02:58.249962"
+    "fetched_at": "2026-08-15T11:17:53.787008"
+  },
+  {
+    "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+    "description": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+    "date": "2026-08-15",
+    "score": 200,
+    "comments": 48,
+    "discussion_url": "https://news.ycombinator.com/item?id=49306577",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-15T11:17:53.786904"
+  },
+  {
+    "title": "Maximizing the value of your Claude Code sessions",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "description": "Maximizing the value of your Claude Code sessions",
+    "date": "2026-08-14",
+    "score": 237,
+    "comments": 130,
+    "discussion_url": "https://news.ycombinator.com/item?id=49300800",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-15T11:17:53.786953"
   },
   {
     "title": "Qwen 3.8 27B",
     "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
     "description": "Qwen 3.8 27B",
     "date": "2026-08-14",
-    "score": 335,
-    "comments": 247,
+    "score": 1171,
+    "comments": 706,
     "discussion_url": "https://news.ycombinator.com/item?id=49299605",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-15T04:02:58.249990"
+    "fetched_at": "2026-08-15T11:17:53.787019"
   },
   {
-    "title": "Seven books I keep close because I love them",
-    "url": "https://blog.plover.com/2026/08/02/",
-    "description": "Seven books I keep close because I love them",
+    "title": "RustDesk now supports true unattended remote access on Wayland",
+    "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "description": "RustDesk now supports true unattended remote access on Wayland",
     "date": "2026-08-14",
-    "score": 153,
-    "comments": 57,
-    "discussion_url": "https://news.ycombinator.com/item?id=49299675",
+    "score": 302,
+    "comments": 128,
+    "discussion_url": "https://news.ycombinator.com/item?id=49300759",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-15T04:02:58.249977"
+    "fetched_at": "2026-08-15T11:17:53.786964"
+  },
+  {
+    "title": "The other Sean Byrne doesn't exist",
+    "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+    "description": "The other Sean Byrne doesn't exist",
+    "date": "2026-08-15",
+    "score": 190,
+    "comments": 101,
+    "discussion_url": "https://news.ycombinator.com/item?id=49307592",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-15T11:17:53.786881"
   },
   {
     "title": "Why does Opus 5 feel worse to work with?",
     "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
     "description": "Why does Opus 5 feel worse to work with?",
     "date": "2026-08-14",
-    "score": 456,
-    "comments": 438,
+    "score": 882,
+    "comments": 798,
     "discussion_url": "https://news.ycombinator.com/item?id=49296740",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-15T04:02:58.250029"
+    "fetched_at": "2026-08-15T11:17:53.787040"
+  },
+  {
+    "title": "eigendrum",
+    "url": "https://eigendrum.com/#p=circle",
+    "description": "eigendrum",
+    "date": "2026-08-14",
+    "score": 166,
+    "comments": 44,
+    "discussion_url": "https://news.ycombinator.com/item?id=49305250",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-15T11:17:53.786918"
   }
 ]
