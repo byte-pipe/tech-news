@@ -45,7 +45,7 @@
     "date": "2026-08-12",
     "description": "Discusses URL token trade-offs and privacy catchesVarshith V HegdeVarshith V HegdeVarshith V HegdeFollowAug 12I Built a Notebook for Sharing Notes Tha...",
     "tags": "#ai, #webdev, #programming, #productivity",
-    "reactions": "60 reactions",
+    "reactions": "64 reactions",
     "comments": "Comments 16 comments",
     "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd"
   },
@@ -65,7 +65,7 @@
     "date": "2026-08-10",
     "description": "Overcoming personal hurdles through tech bloggingFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowAug 10I Joined dev.to because...#di...",
     "tags": "#discuss, #community, #writing, #motivation",
-    "reactions": "134 reactions",
+    "reactions": "135 reactions",
     "comments": "Comments 112 comments",
     "url": "https://dev.to/francistrdev/i-joined-devto-because-fl0"
   },
@@ -75,19 +75,9 @@
     "date": "2026-08-13",
     "description": "83 real agents tested zero mocksDebashish GhosalDebashish GhosalDebashish GhosalFollowAug 13I Stopped Trusting AI Agents With Tools. So I Built a Gate...",
     "tags": "#ai, #agents, #security, #gatekeeper",
-    "reactions": "34 reactions",
+    "reactions": "35 reactions",
     "comments": "Comments 48 comments",
     "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb"
-  },
-  {
-    "title": "Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.",
-    "author": "Jem",
-    "date": "2026-08-14",
-    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxBuild something for your best friend. Win $200.International Dog Da...",
-    "tags": "#devchallenge, #weekendchallenge, #hackathon, #programming",
-    "reactions": "10 reactions",
-    "comments": "Comments Add Comment",
-    "url": "https://dev.to/devteam/join-our-dev-weekend-challenge-dog-days-edition-1000-in-prizes-across-five-winners-submissions-1g4i?bb=264012"
   },
   {
     "title": "My (not so pretty) journey in tech",
@@ -125,19 +115,19 @@
     "date": "2026-08-14",
     "description": "Mario EzquerroMario EzquerroMario EzquerroFollowforGoogle Developer ExpertsAug 14Reviving Open Source Giants: How I Brought Weave Scope Back with Mult...",
     "tags": "#opensource, #devops, #docker, #ai",
-    "reactions": "17 reactions",
+    "reactions": "18 reactions",
     "comments": "Comments 2 comments",
     "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo"
   },
   {
-    "title": "Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.",
-    "author": "Parsa Jiravand",
-    "date": "2026-08-09",
-    "description": "Avoids localStorage cleanup bugsParsa JiravandParsa JiravandParsa JiravandFollowAug 9Stop using the localStorage hack to sync browser tabs. BroadcastC...",
-    "tags": "#javascript, #webdev, #frontend, #api",
-    "reactions": "56 reactions",
-    "comments": "Comments 14 comments",
-    "url": "https://dev.to/parsajiravand/stop-using-the-localstorage-hack-to-sync-browser-tabs-broadcastchannel-does-it-natively-4an9"
+    "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+    "author": "xbill",
+    "date": "2026-08-13",
+    "description": "xbillxbillxbillFollowforGoogle Developer ExpertsAug 13Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU#aws#vllm#cuda#machinelearning12reactio...",
+    "tags": "#aws, #vllm, #cuda, #machinelearning",
+    "reactions": "12 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci"
   },
   {
     "title": "The End of Undetectable AI Text? Claude’s New Watermark Explained",
@@ -145,8 +135,8 @@
     "date": "2026-08-11",
     "description": "Separating AI provenance from detection mythsSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowAug 11The End of Undetectable AI Text? Claude’s New...",
     "tags": "#news, #ai, #llm",
-    "reactions": "100 reactions",
-    "comments": "Comments 63 comments",
+    "reactions": "114 reactions",
+    "comments": "Comments 74 comments",
     "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2"
   },
   {
@@ -173,10 +163,10 @@
     "title": "What was your win this week??",
     "author": "Jess Lee",
     "date": "2026-08-14",
-    "description": "Community shares diverse personal victoriesJess LeeJess LeeJess LeeFollowforThe DEV TeamAug 14What was your win this week??#discuss#weeklyretro54react...",
+    "description": "Community shares diverse personal victoriesJess LeeJess LeeJess LeeFollowforThe DEV TeamAug 14What was your win this week??#discuss#weeklyretro55react...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "54 reactions",
-    "comments": "Comments 34 comments",
+    "reactions": "55 reactions",
+    "comments": "Comments 35 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-23ob"
   },
   {
@@ -185,8 +175,8 @@
     "date": "2026-08-10",
     "description": "The hidden danger of accepting quick AI patchesHarshHarshHarshFollowAug 10You Don't Have an AI Problem You Have a Thinking Problem.#ai#programming#sof...",
     "tags": "#ai, #programming, #softwaredevelopment, #productivity",
-    "reactions": "59 reactions",
-    "comments": "Comments 41 comments",
+    "reactions": "60 reactions",
+    "comments": "Comments 43 comments",
     "url": "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07"
   }
 ]

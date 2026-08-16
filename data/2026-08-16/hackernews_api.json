@@ -1,28 +1,28 @@
 [
   {
-    "title": "A Spectre Is Haunting Unicode",
-    "url": "https://www.dampfkraft.com/ghost-characters.html",
-    "author": "sensanaty",
-    "date": "2026-08-16",
-    "score": 96,
-    "comments": 19,
-    "id": 49310926,
-    "discussion_url": "https://news.ycombinator.com/item?id=49310926",
-    "description": "A Spectre Is Haunting Unicode",
+    "title": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
+    "url": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
+    "author": "Jimmc414",
+    "date": "2026-08-15",
+    "score": 71,
+    "comments": 5,
+    "id": 49306333,
+    "discussion_url": "https://news.ycombinator.com/item?id=49306333",
+    "description": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615584"
+    "fetched_at": "2026-08-16T11:18:43.680072"
   },
   {
     "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
     "url": "https://www.nature.com/articles/d41586-026-02448-x",
     "author": "jeffreyrogers",
-    "date": "2026-08-16",
-    "score": 106,
-    "comments": 41,
+    "date": "2026-08-15",
+    "score": 176,
+    "comments": 75,
     "id": 49312008,
     "discussion_url": "https://news.ycombinator.com/item?id=49312008",
     "description": "A controversial Alzheimer's surgery is said to reverse symptoms",
@@ -31,32 +31,151 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615502"
+    "fetched_at": "2026-08-16T11:18:43.680111"
   },
   {
-    "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "author": "rzk",
-    "date": "2026-08-16",
-    "score": 201,
-    "comments": 155,
-    "id": 49312845,
-    "discussion_url": "https://news.ycombinator.com/item?id=49312845",
-    "description": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+    "title": "A fortuitous decade as an indie software developer",
+    "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+    "author": "frizlab",
+    "date": "2026-08-10",
+    "score": 94,
+    "comments": 11,
+    "id": 49244872,
+    "discussion_url": "https://news.ycombinator.com/item?id=49244872",
+    "description": "A fortuitous decade as an indie software developer",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615436"
+    "fetched_at": "2026-08-16T11:18:43.679961"
+  },
+  {
+    "title": "A spectre is haunting Unicode",
+    "url": "https://www.dampfkraft.com/ghost-characters.html",
+    "author": "sensanaty",
+    "date": "2026-08-15",
+    "score": 234,
+    "comments": 87,
+    "id": 49310926,
+    "discussion_url": "https://news.ycombinator.com/item?id=49310926",
+    "description": "A spectre is haunting Unicode",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-16T11:18:43.680013"
+  },
+  {
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "author": "rzk",
+    "date": "2026-08-15",
+    "score": 507,
+    "comments": 430,
+    "id": 49312845,
+    "discussion_url": "https://news.ycombinator.com/item?id=49312845",
+    "description": "AI has access to a vastly larger working memory than the human brain",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-16T11:18:43.679968"
+  },
+  {
+    "title": "AI in drug discovery – what it is, where we stand and the path forward",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "author": "AnodicElegy",
+    "date": "2026-08-15",
+    "score": 144,
+    "comments": 78,
+    "id": 49313367,
+    "discussion_url": "https://news.ycombinator.com/item?id=49313367",
+    "description": "AI in drug discovery – what it is, where we stand and the path forward",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-16T11:18:43.679947"
+  },
+  {
+    "title": "Abdominal fat predicts heart disease risk better than BMI",
+    "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+    "author": "theanonymousone",
+    "date": "2026-08-15",
+    "score": 269,
+    "comments": 206,
+    "id": 49314403,
+    "discussion_url": "https://news.ycombinator.com/item?id=49314403",
+    "description": "Abdominal fat predicts heart disease risk better than BMI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-16T11:18:43.679972"
+  },
+  {
+    "title": "Asus Bike Booster",
+    "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+    "author": "wiradikusuma",
+    "date": "2026-08-12",
+    "score": 432,
+    "comments": 279,
+    "id": 49268580,
+    "discussion_url": "https://news.ycombinator.com/item?id=49268580",
+    "description": "Asus Bike Booster",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-16T11:18:43.679901"
+  },
+  {
+    "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+    "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+    "author": "pdet",
+    "date": "2026-08-10",
+    "score": 174,
+    "comments": 20,
+    "id": 49243061,
+    "discussion_url": "https://news.ycombinator.com/item?id=49243061",
+    "description": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-16T11:18:43.679892"
+  },
+  {
+    "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+    "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+    "author": "gmays",
+    "date": "2026-08-15",
+    "score": 263,
+    "comments": 95,
+    "id": 49310682,
+    "discussion_url": "https://news.ycombinator.com/item?id=49310682",
+    "description": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-16T11:18:43.679940"
   },
   {
     "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
     "url": "https://sankalp.bearblog.dev/autoresearch/",
     "author": "tosh",
     "date": "2026-08-15",
-    "score": 316,
-    "comments": 80,
+    "score": 424,
+    "comments": 91,
     "id": 49309549,
     "discussion_url": "https://news.ycombinator.com/item?id=49309549",
     "description": "Auto-research with codex: How I achieved a 232x Faster Kernel",
@@ -65,49 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615378"
+    "fetched_at": "2026-08-16T11:18:43.680045"
   },
   {
-    "title": "Coin-sized device can hack a Boeing 737",
-    "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-    "author": "_tk_",
-    "date": "2026-08-13",
-    "score": 119,
-    "comments": 91,
-    "id": 49282951,
-    "discussion_url": "https://news.ycombinator.com/item?id=49282951",
-    "description": "Coin-sized device can hack a Boeing 737",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615997"
-  },
-  {
-    "title": "Firefox is now the last major browser that still supports uBlock Origin",
-    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-    "author": "DemiGuru",
+    "title": "Cultivating a state of mind where new ideas are born (2023)",
+    "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+    "author": "felixbraun",
     "date": "2026-08-15",
-    "score": 1599,
-    "comments": 608,
-    "id": 49303202,
-    "discussion_url": "https://news.ycombinator.com/item?id=49303202",
-    "description": "Firefox is now the last major browser that still supports uBlock Origin",
+    "score": 185,
+    "comments": 46,
+    "id": 49314235,
+    "discussion_url": "https://news.ycombinator.com/item?id=49314235",
+    "description": "Cultivating a state of mind where new ideas are born (2023)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615634"
+    "fetched_at": "2026-08-16T11:18:43.679905"
   },
   {
     "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
     "url": "https://z.ai/blog/glm-5.3",
     "author": "pella",
     "date": "2026-08-14",
-    "score": 1125,
-    "comments": 553,
+    "score": 1145,
+    "comments": 568,
     "id": 49294997,
     "discussion_url": "https://news.ycombinator.com/item?id=49294997",
     "description": "GLM-5.3: Frontier coding with emergent cyber capabilities",
@@ -116,117 +218,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615748"
+    "fetched_at": "2026-08-16T11:18:43.680076"
   },
   {
-    "title": "Going Dark, and the era of law enforcement hacking",
-    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "author": "vslira",
+    "title": "Möbius strips and differential equations",
+    "url": "https://hidden-phenomena.com/articles/monodromy",
+    "author": "mbustamanter",
+    "date": "2026-08-10",
+    "score": 74,
+    "comments": 14,
+    "id": 49242085,
+    "discussion_url": "https://news.ycombinator.com/item?id=49242085",
+    "description": "Möbius strips and differential equations",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-16T11:18:43.680104"
+  },
+  {
+    "title": "Patterns and problems in emerging multi-agent systems",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "author": "maxutility",
+    "date": "2026-08-16",
+    "score": 105,
+    "comments": 49,
+    "id": 49316271,
+    "discussion_url": "https://news.ycombinator.com/item?id=49316271",
+    "description": "Patterns and problems in emerging multi-agent systems",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-16T11:18:43.679932"
+  },
+  {
+    "title": "Printytron – Describe a part, get a printable STL",
+    "url": "https://printytron.com",
+    "author": "statenjason",
     "date": "2026-08-15",
-    "score": 437,
-    "comments": 232,
-    "id": 49304447,
-    "discussion_url": "https://news.ycombinator.com/item?id=49304447",
-    "description": "Going Dark, and the era of law enforcement hacking",
+    "score": 88,
+    "comments": 42,
+    "id": 49310829,
+    "discussion_url": "https://news.ycombinator.com/item?id=49310829",
+    "description": "Printytron – Describe a part, get a printable STL",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615164"
-  },
-  {
-    "title": "Google is making private AI practical with homomorphic encryption",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "author": "u1hcw9nx",
-    "date": "2026-08-15",
-    "score": 474,
-    "comments": 276,
-    "id": 49300314,
-    "discussion_url": "https://news.ycombinator.com/item?id=49300314",
-    "description": "Google is making private AI practical with homomorphic encryption",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.616043"
-  },
-  {
-    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-    "author": "speckx",
-    "date": "2026-08-15",
-    "score": 215,
-    "comments": 95,
-    "id": 49299081,
-    "discussion_url": "https://news.ycombinator.com/item?id=49299081",
-    "description": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615906"
-  },
-  {
-    "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
-    "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
-    "author": "bookofjoe",
-    "date": "2026-08-12",
-    "score": 109,
-    "comments": 66,
-    "id": 49271382,
-    "discussion_url": "https://news.ycombinator.com/item?id=49271382",
-    "description": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615265"
-  },
-  {
-    "title": "Introducing Toast 1",
-    "url": "https://www.mixedbread.com/blog/toast-1",
-    "author": "mplappert",
-    "date": "2026-08-15",
-    "score": 215,
-    "comments": 65,
-    "id": 49299746,
-    "discussion_url": "https://news.ycombinator.com/item?id=49299746",
-    "description": "Introducing Toast 1",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615859"
-  },
-  {
-    "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-    "author": "Bender",
-    "date": "2026-08-15",
-    "score": 210,
-    "comments": 55,
-    "id": 49306577,
-    "discussion_url": "https://news.ycombinator.com/item?id=49306577",
-    "description": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615733"
+    "fetched_at": "2026-08-16T11:18:43.680100"
   },
   {
     "title": "Qwen 3.8 27B",
     "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
     "author": "erdaltoprak",
-    "date": "2026-08-15",
-    "score": 1326,
-    "comments": 757,
+    "date": "2026-08-14",
+    "score": 1387,
+    "comments": 778,
     "id": 49299605,
     "discussion_url": "https://news.ycombinator.com/item?id=49299605",
     "description": "Qwen 3.8 27B",
@@ -235,15 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615617"
+    "fetched_at": "2026-08-16T11:18:43.680034"
   },
   {
     "title": "RISC-V: They Should Have Known Better",
     "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
     "author": "dmitrygr",
     "date": "2026-08-14",
-    "score": 136,
-    "comments": 253,
+    "score": 326,
+    "comments": 372,
     "id": 49298035,
     "discussion_url": "https://news.ycombinator.com/item?id=49298035",
     "description": "RISC-V: They Should Have Known Better",
@@ -252,49 +303,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615286"
+    "fetched_at": "2026-08-16T11:18:43.680004"
   },
   {
-    "title": "Racket v9.3",
-    "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
-    "author": "privong",
-    "date": "2026-08-15",
-    "score": 125,
-    "comments": 14,
-    "id": 49302562,
-    "discussion_url": "https://news.ycombinator.com/item?id=49302562",
-    "description": "Racket v9.3",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.616028"
-  },
-  {
-    "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+    "title": "Semaglutide linked to lower predicted dementia risk",
     "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
     "author": "randycupertino",
-    "date": "2026-08-16",
-    "score": 207,
-    "comments": 135,
+    "date": "2026-08-15",
+    "score": 438,
+    "comments": 306,
     "id": 49311651,
     "discussion_url": "https://news.ycombinator.com/item?id=49311651",
-    "description": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+    "description": "Semaglutide linked to lower predicted dementia risk",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615073"
+    "fetched_at": "2026-08-16T11:18:43.679909"
   },
   {
     "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
     "url": "https://baselashraf81.github.io/eigendrum/",
     "author": "BaselAshraf81",
-    "date": "2026-08-11",
-    "score": 154,
-    "comments": 81,
+    "date": "2026-08-10",
+    "score": 220,
+    "comments": 99,
     "id": 49246366,
     "discussion_url": "https://news.ycombinator.com/item?id=49246366",
     "description": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
@@ -303,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615469"
+    "fetched_at": "2026-08-16T11:18:43.680128"
   },
   {
     "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
     "url": "https://chenxiachan.github.io/thoughtdag/",
     "author": "chatchan",
     "date": "2026-08-15",
-    "score": 96,
-    "comments": 47,
+    "score": 122,
+    "comments": 59,
     "id": 49307700,
     "discussion_url": "https://news.ycombinator.com/item?id=49307700",
     "description": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
@@ -320,100 +354,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615780"
+    "fetched_at": "2026-08-16T11:18:43.680083"
   },
   {
-    "title": "Simplifying and Refactoring Introductory Calculus (2018)",
-    "url": "https://arxiv.org/abs/1811.03459",
-    "author": "E-Reverance",
+    "title": "Software Engineering fundamentals matter more",
+    "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+    "author": "ingve",
     "date": "2026-08-15",
-    "score": 124,
-    "comments": 73,
-    "id": 49306196,
-    "discussion_url": "https://news.ycombinator.com/item?id=49306196",
-    "description": "Simplifying and Refactoring Introductory Calculus (2018)",
+    "score": 167,
+    "comments": 101,
+    "id": 49314902,
+    "discussion_url": "https://news.ycombinator.com/item?id=49314902",
+    "description": "Software Engineering fundamentals matter more",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.616073"
+    "fetched_at": "2026-08-16T11:18:43.679897"
   },
   {
-    "title": "Super Mario Derivations",
-    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-    "author": "domenkozar",
-    "date": "2026-08-08",
-    "score": 125,
-    "comments": 18,
-    "id": 49215682,
-    "discussion_url": "https://news.ycombinator.com/item?id=49215682",
-    "description": "Super Mario Derivations",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615936"
-  },
-  {
-    "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
-    "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-    "author": "gmays",
-    "date": "2026-08-16",
-    "score": 154,
-    "comments": 54,
-    "id": 49310682,
-    "discussion_url": "https://news.ycombinator.com/item?id=49310682",
-    "description": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615601"
-  },
-  {
-    "title": "The Ploopy A+ Trackball Is Here",
-    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-    "author": "big_toast",
+    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+    "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+    "author": "dgellow",
     "date": "2026-08-15",
-    "score": 128,
-    "comments": 63,
-    "id": 49306443,
-    "discussion_url": "https://news.ycombinator.com/item?id=49306443",
-    "description": "The Ploopy A+ Trackball Is Here",
+    "score": 262,
+    "comments": 159,
+    "id": 49313428,
+    "discussion_url": "https://news.ycombinator.com/item?id=49313428",
+    "description": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.616089"
+    "fetched_at": "2026-08-16T11:18:43.679919"
   },
   {
-    "title": "The mathematical beauty of hyperbezier curves",
-    "url": "https://linebender.org/blog/hyperbezier/",
-    "author": "raphlinus",
-    "date": "2026-08-10",
-    "score": 152,
-    "comments": 20,
-    "id": 49237183,
-    "discussion_url": "https://news.ycombinator.com/item?id=49237183",
-    "description": "The mathematical beauty of hyperbezier curves",
+    "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+    "author": "firefax",
+    "date": "2026-08-15",
+    "score": 85,
+    "comments": 21,
+    "id": 49314596,
+    "discussion_url": "https://news.ycombinator.com/item?id=49314596",
+    "description": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615718"
+    "fetched_at": "2026-08-16T11:18:43.680108"
   },
   {
     "title": "The other Sean Byrne doesn't exist",
     "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
     "author": "rdl",
     "date": "2026-08-15",
-    "score": 342,
-    "comments": 170,
+    "score": 381,
+    "comments": 181,
     "id": 49307592,
     "discussion_url": "https://news.ycombinator.com/item?id=49307592",
     "description": "The other Sean Byrne doesn't exist",
@@ -422,66 +422,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615550"
+    "fetched_at": "2026-08-16T11:18:43.680125"
   },
   {
-    "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
-    "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
-    "author": "rbanffy",
-    "date": "2026-08-12",
-    "score": 103,
-    "comments": 44,
-    "id": 49269809,
-    "discussion_url": "https://news.ycombinator.com/item?id=49269809",
-    "description": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.616058"
-  },
-  {
-    "title": "Ultraviolet Bird Photography",
-    "url": "https://uvbirds.com/",
-    "author": "EndXA",
-    "date": "2026-08-08",
-    "score": 165,
-    "comments": 26,
-    "id": 49211375,
-    "discussion_url": "https://news.ycombinator.com/item?id=49211375",
-    "description": "Ultraviolet Bird Photography",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615890"
-  },
-  {
-    "title": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
-    "url": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c",
-    "author": "bbayles",
-    "date": "2026-08-13",
-    "score": 116,
+    "title": "Tracking down a Zsh history data loss bug",
+    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "author": "ingve",
+    "date": "2026-08-15",
+    "score": 81,
     "comments": 30,
-    "id": 49272784,
-    "discussion_url": "https://news.ycombinator.com/item?id=49272784",
-    "description": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
+    "id": 49314579,
+    "discussion_url": "https://news.ycombinator.com/item?id=49314579",
+    "description": "Tracking down a Zsh history data loss bug",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615828"
+    "fetched_at": "2026-08-16T11:18:43.679928"
+  },
+  {
+    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+    "url": "https://uecker.codeberg.page/2026-07-14.html",
+    "author": "uecker",
+    "date": "2026-08-15",
+    "score": 95,
+    "comments": 46,
+    "id": 49308685,
+    "discussion_url": "https://news.ycombinator.com/item?id=49308685",
+    "description": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-16T11:18:43.680066"
+  },
+  {
+    "title": "What happens when an LLM never sees material beyond fifth grade?",
+    "url": "https://littlelearner-ll.github.io/",
+    "author": "porridgeraisin",
+    "date": "2026-08-16",
+    "score": 137,
+    "comments": 94,
+    "id": 49317760,
+    "discussion_url": "https://news.ycombinator.com/item?id=49317760",
+    "description": "What happens when an LLM never sees material beyond fifth grade?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-16T11:18:43.679943"
   },
   {
     "title": "Why does Opus 5 feel worse to work with?",
     "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
     "author": "numeri",
     "date": "2026-08-14",
-    "score": 924,
-    "comments": 826,
+    "score": 948,
+    "comments": 841,
     "id": 49296740,
     "discussion_url": "https://news.ycombinator.com/item?id=49296740",
     "description": "Why does Opus 5 feel worse to work with?",
@@ -490,23 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615875"
+    "fetched_at": "2026-08-16T11:18:43.680135"
   },
   {
-    "title": "Working with AI Feels More Like Leadership Than Coding",
+    "title": "Working with AI feels more like leadership than coding",
     "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
     "author": "allenb",
     "date": "2026-08-15",
-    "score": 200,
-    "comments": 140,
+    "score": 302,
+    "comments": 190,
     "id": 49309451,
     "discussion_url": "https://news.ycombinator.com/item?id=49309451",
-    "description": "Working with AI Feels More Like Leadership Than Coding",
+    "description": "Working with AI feels more like leadership than coding",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-16T06:00:43.615398"
+    "fetched_at": "2026-08-16T11:18:43.680094"
   }
 ]
