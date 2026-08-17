@@ -1,28 +1,28 @@
 [
   {
-    "title": "A True Telnet BBS on a Casio Calculator",
-    "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
-    "author": "austinallegro",
-    "date": "2026-08-16",
-    "score": 104,
-    "comments": 12,
-    "id": 49319349,
-    "discussion_url": "https://news.ycombinator.com/item?id=49319349",
-    "description": "A True Telnet BBS on a Casio Calculator",
+    "title": "A Preview of DuckDB v2.0",
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "author": "ibotty",
+    "date": "2026-08-17",
+    "score": 384,
+    "comments": 59,
+    "id": 49330781,
+    "discussion_url": "https://news.ycombinator.com/item?id=49330781",
+    "description": "A Preview of DuckDB v2.0",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138518"
+    "fetched_at": "2026-08-17T19:25:52.198296"
   },
   {
     "title": "A third world engineer responds to “RISC-V: They should have known better”",
     "url": "https://rvembedded.com/blog_post/12/",
     "author": "Narishma",
     "date": "2026-08-16",
-    "score": 530,
-    "comments": 274,
+    "score": 598,
+    "comments": 313,
     "id": 49321717,
     "discussion_url": "https://news.ycombinator.com/item?id=49321717",
     "description": "A third world engineer responds to “RISC-V: They should have known better”",
@@ -31,151 +31,185 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138412"
+    "fetched_at": "2026-08-17T19:25:52.198533"
   },
   {
-    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+    "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+    "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+    "author": "erickhill",
+    "date": "2026-08-17",
+    "score": 123,
+    "comments": 24,
+    "id": 49325714,
+    "discussion_url": "https://news.ycombinator.com/item?id=49325714",
+    "description": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198506"
+  },
+  {
+    "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "author": "galnagli",
+    "date": "2026-08-17",
+    "score": 215,
+    "comments": 100,
+    "id": 49331423,
+    "discussion_url": "https://news.ycombinator.com/item?id=49331423",
+    "description": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198277"
+  },
+  {
+    "title": "Anthropic's War on open source AI",
+    "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+    "author": "bilsbie",
+    "date": "2026-08-17",
+    "score": 103,
+    "comments": 42,
+    "id": 49332564,
+    "discussion_url": "https://news.ycombinator.com/item?id=49332564",
+    "description": "Anthropic's War on open source AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198446"
+  },
+  {
+    "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
     "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
     "author": "ropbear",
     "date": "2026-08-16",
-    "score": 328,
-    "comments": 324,
+    "score": 716,
+    "comments": 625,
     "id": 49324087,
     "discussion_url": "https://news.ycombinator.com/item?id=49324087",
-    "description": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+    "description": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138426"
+    "fetched_at": "2026-08-17T19:25:52.198378"
   },
   {
-    "title": "Chestnut – eGPU dock with open-source firmware",
-    "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
-    "author": "txrx0000",
-    "date": "2026-08-13",
-    "score": 147,
-    "comments": 44,
-    "id": 49292385,
-    "discussion_url": "https://news.ycombinator.com/item?id=49292385",
-    "description": "Chestnut – eGPU dock with open-source firmware",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138528"
-  },
-  {
-    "title": "Clamiga: Common Lisp for the Amiga",
-    "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
-    "author": "emptybits",
-    "date": "2026-08-13",
-    "score": 116,
-    "comments": 19,
-    "id": 49281352,
-    "discussion_url": "https://news.ycombinator.com/item?id=49281352",
-    "description": "Clamiga: Common Lisp for the Amiga",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138476"
-  },
-  {
-    "title": "Claude: System Prompts",
-    "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "author": "tosh",
-    "date": "2026-08-16",
-    "score": 675,
-    "comments": 261,
-    "id": 49319556,
-    "discussion_url": "https://news.ycombinator.com/item?id=49319556",
-    "description": "Claude: System Prompts",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138408"
-  },
-  {
-    "title": "Does anyone run Postgres without PgBouncer?",
-    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-    "author": "abelanger",
-    "date": "2026-08-12",
-    "score": 154,
-    "comments": 100,
-    "id": 49277952,
-    "discussion_url": "https://news.ycombinator.com/item?id=49277952",
-    "description": "Does anyone run Postgres without PgBouncer?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138538"
-  },
-  {
-    "title": "Firefox for iOS now has a native adblocker",
-    "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-    "author": "pentagrama",
-    "date": "2026-08-16",
-    "score": 665,
-    "comments": 262,
-    "id": 49319633,
-    "discussion_url": "https://news.ycombinator.com/item?id=49319633",
-    "description": "Firefox for iOS now has a native adblocker",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138493"
-  },
-  {
-    "title": "GIMP Development Update",
-    "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-    "author": "lumpa",
+    "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+    "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+    "author": "nyku",
     "date": "2026-08-17",
-    "score": 196,
-    "comments": 142,
-    "id": 49326156,
-    "discussion_url": "https://news.ycombinator.com/item?id=49326156",
-    "description": "GIMP Development Update",
+    "score": 214,
+    "comments": 80,
+    "id": 49331222,
+    "discussion_url": "https://news.ycombinator.com/item?id=49331222",
+    "description": "Apple's App Tracking Transparency treated its own apps better than rivals",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138472"
+    "fetched_at": "2026-08-17T19:25:52.198411"
   },
   {
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "url": "https://z.ai/blog/glm-5.3",
-    "author": "pella",
-    "date": "2026-08-14",
-    "score": 1158,
-    "comments": 574,
-    "id": 49294997,
-    "discussion_url": "https://news.ycombinator.com/item?id=49294997",
-    "description": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "title": "Buy Your Friends Batteries",
+    "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
+    "author": "domenkozar",
+    "date": "2026-08-17",
+    "score": 105,
+    "comments": 120,
+    "id": 49333932,
+    "discussion_url": "https://news.ycombinator.com/item?id=49333932",
+    "description": "Buy Your Friends Batteries",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138608"
+    "fetched_at": "2026-08-17T19:25:52.198438"
+  },
+  {
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "author": "plurby",
+    "date": "2026-08-17",
+    "score": 242,
+    "comments": 128,
+    "id": 49329575,
+    "discussion_url": "https://news.ycombinator.com/item?id=49329575",
+    "description": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198314"
+  },
+  {
+    "title": "Gakutensoku",
+    "url": "https://en.wikipedia.org/wiki/Gakutensoku",
+    "author": "benbreen",
+    "date": "2026-08-13",
+    "score": 64,
+    "comments": 12,
+    "id": 49288449,
+    "discussion_url": "https://news.ycombinator.com/item?id=49288449",
+    "description": "Gakutensoku",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198517"
+  },
+  {
+    "title": "How Go detects struct copies with sync.noCopy",
+    "url": "https://func25.dev/posts/go-sync-nocopy/",
+    "author": "func25",
+    "date": "2026-08-13",
+    "score": 57,
+    "comments": 57,
+    "id": 49284983,
+    "discussion_url": "https://news.ycombinator.com/item?id=49284983",
+    "description": "How Go detects struct copies with sync.noCopy",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198502"
+  },
+  {
+    "title": "How I developed an Am29000 C compiler and web browser",
+    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+    "author": "nanochess",
+    "date": "2026-08-16",
+    "score": 60,
+    "comments": 9,
+    "id": 49323474,
+    "discussion_url": "https://news.ycombinator.com/item?id=49323474",
+    "description": "How I developed an Am29000 C compiler and web browser",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198325"
   },
   {
     "title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
     "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
     "author": "dt3ft",
     "date": "2026-08-13",
-    "score": 139,
-    "comments": 86,
+    "score": 210,
+    "comments": 154,
     "id": 49290545,
     "discussion_url": "https://news.ycombinator.com/item?id=49290545",
     "description": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
@@ -184,15 +218,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138521"
+    "fetched_at": "2026-08-17T19:25:52.198510"
+  },
+  {
+    "title": "How to disable or avoid intrusive AI",
+    "url": "https://www.librarian.net/notoai/",
+    "author": "ColinWright",
+    "date": "2026-08-17",
+    "score": 174,
+    "comments": 78,
+    "id": 49331220,
+    "discussion_url": "https://news.ycombinator.com/item?id=49331220",
+    "description": "How to disable or avoid intrusive AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198304"
+  },
+  {
+    "title": "How to put 170 atoms in an atom",
+    "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
+    "author": "surprisetalk",
+    "date": "2026-08-17",
+    "score": 75,
+    "comments": 10,
+    "id": 49331474,
+    "discussion_url": "https://news.ycombinator.com/item?id=49331474",
+    "description": "How to put 170 atoms in an atom",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198399"
+  },
+  {
+    "title": "Incident with Github.com",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "author": "SpyCoder77",
+    "date": "2026-08-17",
+    "score": 334,
+    "comments": 762,
+    "id": 49330597,
+    "discussion_url": "https://news.ycombinator.com/item?id=49330597",
+    "description": "Incident with Github.com",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198343"
+  },
+  {
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "url": "https://speko.ai/",
+    "author": "abdik",
+    "date": "2026-08-17",
+    "score": 66,
+    "comments": 41,
+    "id": 49332751,
+    "discussion_url": "https://news.ycombinator.com/item?id=49332751",
+    "description": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198300"
   },
   {
     "title": "Linear algebra done right",
     "url": "https://linear.axler.net/",
     "author": "the-mitr",
     "date": "2026-08-17",
-    "score": 98,
-    "comments": 42,
+    "score": 225,
+    "comments": 89,
     "id": 49326816,
     "discussion_url": "https://news.ycombinator.com/item?id=49326816",
     "description": "Linear algebra done right",
@@ -201,134 +303,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138453"
+    "fetched_at": "2026-08-17T19:25:52.198466"
   },
   {
-    "title": "MathCode, Mathematical Coding Agent",
-    "url": "https://math-ai-org.github.io/mathcode/",
-    "author": "homarp",
-    "date": "2026-08-16",
-    "score": 100,
-    "comments": 28,
-    "id": 49322330,
-    "discussion_url": "https://news.ycombinator.com/item?id=49322330",
-    "description": "MathCode, Mathematical Coding Agent",
+    "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
+    "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+    "author": "haunter",
+    "date": "2026-08-17",
+    "score": 65,
+    "comments": 48,
+    "id": 49334960,
+    "discussion_url": "https://news.ycombinator.com/item?id=49334960",
+    "description": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138457"
+    "fetched_at": "2026-08-17T19:25:52.198473"
   },
   {
-    "title": "Models Are Getting Dumber on Purpose",
-    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-    "author": "hruvhwe",
-    "date": "2026-08-16",
-    "score": 316,
-    "comments": 176,
-    "id": 49322695,
-    "discussion_url": "https://news.ycombinator.com/item?id=49322695",
-    "description": "Models Are Getting Dumber on Purpose",
+    "title": "Mexico crackdown on coastal development",
+    "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
+    "author": "untiledsource",
+    "date": "2026-08-17",
+    "score": 102,
+    "comments": 25,
+    "id": 49329583,
+    "discussion_url": "https://news.ycombinator.com/item?id=49329583",
+    "description": "Mexico crackdown on coastal development",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138566"
+    "fetched_at": "2026-08-17T19:25:52.198469"
   },
   {
-    "title": "NIH is ending a key grant for budding clinical researchers",
-    "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+    "title": "Olo (Color)",
+    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "author": "inigyou",
+    "date": "2026-08-12",
+    "score": 173,
+    "comments": 42,
+    "id": 49270194,
+    "discussion_url": "https://news.ycombinator.com/item?id=49270194",
+    "description": "Olo (Color)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198371"
+  },
+  {
+    "title": "On AI regulation and messaging",
+    "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "author": "jacquesm",
+    "date": "2026-08-17",
+    "score": 216,
+    "comments": 449,
+    "id": 49325789,
+    "discussion_url": "https://news.ycombinator.com/item?id=49325789",
+    "description": "On AI regulation and messaging",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198418"
+  },
+  {
+    "title": "Online clinics and influencers are promoting Cialis as a longevity drug",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
     "author": "brandonb",
-    "date": "2026-08-16",
-    "score": 156,
-    "comments": 80,
-    "id": 49321353,
-    "discussion_url": "https://news.ycombinator.com/item?id=49321353",
-    "description": "NIH is ending a key grant for budding clinical researchers",
+    "date": "2026-08-17",
+    "score": 84,
+    "comments": 62,
+    "id": 49330456,
+    "discussion_url": "https://news.ycombinator.com/item?id=49330456",
+    "description": "Online clinics and influencers are promoting Cialis as a longevity drug",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138601"
-  },
-  {
-    "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-    "author": "root-parent",
-    "date": "2026-08-16",
-    "score": 213,
-    "comments": 107,
-    "id": 49323686,
-    "discussion_url": "https://news.ycombinator.com/item?id=49323686",
-    "description": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138504"
-  },
-  {
-    "title": "Patterns and problems in emerging multi-agent systems",
-    "url": "https://www.anthropic.com/research/multiagent-systems",
-    "author": "maxutility",
-    "date": "2026-08-16",
-    "score": 186,
-    "comments": 132,
-    "id": 49316271,
-    "discussion_url": "https://news.ycombinator.com/item?id=49316271",
-    "description": "Patterns and problems in emerging multi-agent systems",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138569"
-  },
-  {
-    "title": "Protobuf has LSP support",
-    "url": "https://buf.build/blog/protobuf-lsp",
-    "author": "theanonymousone",
-    "date": "2026-08-16",
-    "score": 158,
-    "comments": 109,
-    "id": 49322573,
-    "discussion_url": "https://news.ycombinator.com/item?id=49322573",
-    "description": "Protobuf has LSP support",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138461"
-  },
-  {
-    "title": "Qwen 3.8 27B",
-    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-    "author": "erdaltoprak",
-    "date": "2026-08-14",
-    "score": 1419,
-    "comments": 788,
-    "id": 49299605,
-    "discussion_url": "https://news.ycombinator.com/item?id=49299605",
-    "description": "Qwen 3.8 27B",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138604"
+    "fetched_at": "2026-08-17T19:25:52.198495"
   },
   {
     "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
     "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "author": "bilsbie",
     "date": "2026-08-16",
-    "score": 535,
-    "comments": 257,
+    "score": 741,
+    "comments": 350,
     "id": 49324985,
     "discussion_url": "https://news.ycombinator.com/item?id=49324985",
     "description": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
@@ -337,49 +405,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138384"
+    "fetched_at": "2026-08-17T19:25:52.198477"
   },
   {
-    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-    "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-    "author": "Alifatisk",
-    "date": "2026-08-16",
-    "score": 403,
-    "comments": 143,
-    "id": 49319389,
-    "discussion_url": "https://news.ycombinator.com/item?id=49319389",
-    "description": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+    "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+    "author": "anana_",
+    "date": "2026-08-17",
+    "score": 145,
+    "comments": 67,
+    "id": 49334544,
+    "discussion_url": "https://news.ycombinator.com/item?id=49334544",
+    "description": "Qwen3.8 27B scores 52 on Artificial Analysis",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138559"
-  },
-  {
-    "title": "Reticulum – Decentralized Mesh Network",
-    "url": "https://reticulum.network/",
-    "author": "sudo_cowsay",
-    "date": "2026-08-16",
-    "score": 142,
-    "comments": 42,
-    "id": 49325061,
-    "discussion_url": "https://news.ycombinator.com/item?id=49325061",
-    "description": "Reticulum – Decentralized Mesh Network",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138399"
+    "fetched_at": "2026-08-17T19:25:52.198366"
   },
   {
     "title": "Rhombus 1.1 is now available",
     "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
     "author": "spdegabrielle",
     "date": "2026-08-17",
-    "score": 92,
-    "comments": 28,
+    "score": 118,
+    "comments": 44,
     "id": 49325384,
     "discussion_url": "https://news.ycombinator.com/item?id=49325384",
     "description": "Rhombus 1.1 is now available",
@@ -388,125 +439,74 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138443"
+    "fetched_at": "2026-08-17T19:25:52.198498"
   },
   {
-    "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-    "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-    "author": "ibobev",
-    "date": "2026-08-13",
-    "score": 125,
-    "comments": 52,
-    "id": 49285096,
-    "discussion_url": "https://news.ycombinator.com/item?id=49285096",
-    "description": "SIMD in the 90s: Programming Intel's Pentium MMX",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138511"
-  },
-  {
-    "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-    "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-    "author": "toomuchtodo",
-    "date": "2026-08-16",
-    "score": 188,
-    "comments": 143,
-    "id": 49320856,
-    "discussion_url": "https://news.ycombinator.com/item?id=49320856",
-    "description": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138572"
-  },
-  {
-    "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "author": "zacharyozer",
-    "date": "2026-08-16",
-    "score": 375,
-    "comments": 233,
-    "id": 49323381,
-    "discussion_url": "https://news.ycombinator.com/item?id=49323381",
-    "description": "Stripe will reportedly acquire OpenRouter for $7B+",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138468"
-  },
-  {
-    "title": "The AI Credit Resale Economy",
-    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-    "author": "mlenhard",
-    "date": "2026-08-16",
-    "score": 298,
-    "comments": 120,
-    "id": 49320611,
-    "discussion_url": "https://news.ycombinator.com/item?id=49320611",
-    "description": "The AI Credit Resale Economy",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138525"
-  },
-  {
-    "title": "The Life and Death of Direct File [pdf]",
-    "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-    "author": "ronbenton",
+    "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+    "url": "https://desktopcolors.com",
+    "author": "vlowrian",
     "date": "2026-08-17",
-    "score": 190,
-    "comments": 91,
-    "id": 49325185,
-    "discussion_url": "https://news.ycombinator.com/item?id=49325185",
-    "description": "The Life and Death of Direct File [pdf]",
+    "score": 111,
+    "comments": 47,
+    "id": 49327643,
+    "discussion_url": "https://news.ycombinator.com/item?id=49327643",
+    "description": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138490"
+    "fetched_at": "2026-08-17T19:25:52.198422"
   },
   {
-    "title": "The federal keyword lists that canceled billions in research funding",
-    "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
-    "author": "walrus01",
+    "title": "Show HN: Sokoban AI Solver",
+    "url": "https://mkornreich.me/projects/sokoban/",
+    "author": "enjoyyourlife",
     "date": "2026-08-17",
-    "score": 234,
-    "comments": 117,
-    "id": 49325159,
-    "discussion_url": "https://news.ycombinator.com/item?id=49325159",
-    "description": "The federal keyword lists that canceled billions in research funding",
+    "score": 56,
+    "comments": 32,
+    "id": 49330215,
+    "discussion_url": "https://news.ycombinator.com/item?id=49330215",
+    "description": "Show HN: Sokoban AI Solver",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138555"
+    "fetched_at": "2026-08-17T19:25:52.198391"
   },
   {
-    "title": "The weekend is 100 years old",
-    "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-    "author": "lentil_soup",
-    "date": "2026-08-16",
-    "score": 202,
-    "comments": 143,
-    "id": 49320984,
-    "discussion_url": "https://news.ycombinator.com/item?id=49320984",
-    "description": "The weekend is 100 years old",
+    "title": "Sun Clock",
+    "url": "https://sunclock.net/",
+    "author": "Gecko4072",
+    "date": "2026-08-17",
+    "score": 58,
+    "comments": 24,
+    "id": 49333824,
+    "discussion_url": "https://news.ycombinator.com/item?id=49333824",
+    "description": "Sun Clock",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-17T11:22:11.138549"
+    "fetched_at": "2026-08-17T19:25:52.198290"
+  },
+  {
+    "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "author": "karakoram",
+    "date": "2026-08-17",
+    "score": 336,
+    "comments": 454,
+    "id": 49332981,
+    "discussion_url": "https://news.ycombinator.com/item?id=49332981",
+    "description": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-17T19:25:52.198522"
   }
 ]
