@@ -4,239 +4,284 @@
     "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
     "description": "A Preview of DuckDB v2.0",
     "date": "2026-08-17",
-    "score": 546,
-    "comments": 97,
+    "score": 649,
+    "comments": 116,
     "discussion_url": "https://news.ycombinator.com/item?id=49330781",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162274"
-  },
-  {
-    "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
-    "url": "https://www.nature.com/articles/d41586-026-02498-1",
-    "description": "A particle made of force: physicists say they've found mysterious 'glueball'",
-    "date": "2026-08-12",
-    "score": 105,
-    "comments": 18,
-    "discussion_url": "https://news.ycombinator.com/item?id=49272891",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162309"
+    "fetched_at": "2026-08-18T11:23:29.945631"
   },
   {
     "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
     "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "description": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
     "date": "2026-08-17",
-    "score": 318,
-    "comments": 125,
+    "score": 381,
+    "comments": 146,
     "discussion_url": "https://news.ycombinator.com/item?id=49331423",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162218"
+    "fetched_at": "2026-08-18T11:23:29.945616"
   },
   {
     "title": "AI;DR (AI; Didn't Read)",
     "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
     "description": "AI;DR (AI; Didn't Read)",
     "date": "2026-08-17",
-    "score": 607,
-    "comments": 379,
+    "score": 916,
+    "comments": 555,
     "discussion_url": "https://news.ycombinator.com/item?id=49336573",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162097"
+    "fetched_at": "2026-08-18T11:23:29.945567"
   },
   {
     "title": "An update on leaving Gmail for Fastmail",
     "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
     "description": "An update on leaving Gmail for Fastmail",
     "date": "2026-08-17",
-    "score": 119,
-    "comments": 93,
+    "score": 252,
+    "comments": 157,
     "discussion_url": "https://news.ycombinator.com/item?id=49334409",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162161"
+    "fetched_at": "2026-08-18T11:23:29.945592"
   },
   {
-    "title": "Ask HN: Alternatives to GitHub",
-    "url": "https://news.ycombinator.com/item?id=49331033",
-    "description": "Ask HN: Alternatives to GitHub",
+    "title": "Fairphone 6 and PostmarketOS working main camera",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "description": "Fairphone 6 and PostmarketOS working main camera",
     "date": "2026-08-17",
-    "score": 498,
-    "comments": 319,
-    "discussion_url": "https://news.ycombinator.com/item?id=49331033",
+    "score": 217,
+    "comments": 48,
+    "discussion_url": "https://news.ycombinator.com/item?id=49338285",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162255"
+    "fetched_at": "2026-08-18T11:23:29.945522"
   },
   {
     "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
     "url": "https://blog.roboflow.com/openai-gpt-5-6/",
     "description": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
     "date": "2026-08-17",
-    "score": 303,
-    "comments": 154,
+    "score": 343,
+    "comments": 163,
     "discussion_url": "https://news.ycombinator.com/item?id=49329575",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162292"
+    "fetched_at": "2026-08-18T11:23:29.945639"
   },
   {
     "title": "GPT-5.6 Sol Pricing Cut by 50%",
     "url": "https://openrouter.ai/openai/gpt-5.6-sol",
     "description": "GPT-5.6 Sol Pricing Cut by 50%",
     "date": "2026-08-17",
-    "score": 136,
-    "comments": 63,
+    "score": 479,
+    "comments": 302,
     "discussion_url": "https://news.ycombinator.com/item?id=49337602",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162075"
+    "fetched_at": "2026-08-18T11:23:29.945530"
   },
   {
     "title": "GPU Offload in Rust: Portable, Safe, and Fast",
     "url": "https://arxiv.org/abs/2608.13759",
     "description": "GPU Offload in Rust: Portable, Safe, and Fast",
     "date": "2026-08-17",
-    "score": 165,
-    "comments": 36,
+    "score": 221,
+    "comments": 45,
     "discussion_url": "https://news.ycombinator.com/item?id=49334991",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162141"
+    "fetched_at": "2026-08-18T11:23:29.945584"
   },
   {
     "title": "How Bluesky draws its logo on screenshots",
     "url": "https://timmarinin.net/2026/bluesky-screenshots/",
     "description": "How Bluesky draws its logo on screenshots",
     "date": "2026-08-17",
-    "score": 237,
-    "comments": 162,
+    "score": 554,
+    "comments": 362,
     "discussion_url": "https://news.ycombinator.com/item?id=49338459",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.161998"
+    "fetched_at": "2026-08-18T11:23:29.945504"
   },
   {
     "title": "How to disable or avoid intrusive AI",
     "url": "https://www.librarian.net/notoai/",
     "description": "How to disable or avoid intrusive AI",
     "date": "2026-08-17",
-    "score": 257,
-    "comments": 156,
+    "score": 306,
+    "comments": 181,
     "discussion_url": "https://news.ycombinator.com/item?id=49331220",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162236"
+    "fetched_at": "2026-08-18T11:23:29.945624"
+  },
+  {
+    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "description": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "date": "2026-08-17",
+    "score": 590,
+    "comments": 360,
+    "discussion_url": "https://news.ycombinator.com/item?id=49337392",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-18T11:23:29.945557"
   },
   {
     "title": "Judge sets framework for Nine PBS to retrieve archival data",
     "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
     "description": "Judge sets framework for Nine PBS to retrieve archival data",
     "date": "2026-08-17",
-    "score": 137,
-    "comments": 56,
+    "score": 169,
+    "comments": 64,
     "discussion_url": "https://news.ycombinator.com/item?id=49333344",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162199"
+    "fetched_at": "2026-08-18T11:23:29.945608"
+  },
+  {
+    "title": "Linux 7.3 improves performance when running out of vRAM",
+    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "description": "Linux 7.3 improves performance when running out of vRAM",
+    "date": "2026-08-18",
+    "score": 197,
+    "comments": 46,
+    "discussion_url": "https://news.ycombinator.com/item?id=49342719",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-18T11:23:29.945466"
   },
   {
     "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
     "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
     "description": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
     "date": "2026-08-17",
-    "score": 108,
-    "comments": 41,
+    "score": 152,
+    "comments": 54,
     "discussion_url": "https://news.ycombinator.com/item?id=49335600",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162120"
+    "fetched_at": "2026-08-18T11:23:29.945576"
   },
   {
     "title": "Olo (Color)",
     "url": "https://en.wikipedia.org/wiki/Olo_(color)",
     "description": "Olo (Color)",
     "date": "2026-08-12",
-    "score": 324,
-    "comments": 64,
+    "score": 465,
+    "comments": 84,
     "discussion_url": "https://news.ycombinator.com/item?id=49270194",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162327"
+    "fetched_at": "2026-08-18T11:23:29.945647"
   },
   {
     "title": "Quake Shareware, a CD-ROM just a little too full",
     "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
     "description": "Quake Shareware, a CD-ROM just a little too full",
     "date": "2026-08-17",
-    "score": 152,
-    "comments": 68,
+    "score": 370,
+    "comments": 156,
     "discussion_url": "https://news.ycombinator.com/item?id=49338328",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162048"
+    "fetched_at": "2026-08-18T11:23:29.945513"
+  },
+  {
+    "title": "Repair Cafe – Fix Your Broken Items",
+    "url": "https://www.repaircafe.org/",
+    "description": "Repair Cafe – Fix Your Broken Items",
+    "date": "2026-08-17",
+    "score": 128,
+    "comments": 22,
+    "discussion_url": "https://news.ycombinator.com/item?id=49339097",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-18T11:23:29.945496"
   },
   {
     "title": "Sun Clock",
     "url": "https://sunclock.net/",
     "description": "Sun Clock",
     "date": "2026-08-17",
-    "score": 177,
-    "comments": 56,
+    "score": 238,
+    "comments": 80,
     "discussion_url": "https://news.ycombinator.com/item?id=49333824",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-18T12:12:04.162180"
+    "fetched_at": "2026-08-18T11:23:29.945600"
+  },
+  {
+    "title": "The Benchmarkpocalypse",
+    "url": "https://danluu.com/benchpocalypse/",
+    "description": "The Benchmarkpocalypse",
+    "date": "2026-08-18",
+    "score": 125,
+    "comments": 34,
+    "discussion_url": "https://news.ycombinator.com/item?id=49340299",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-18T11:23:29.945485"
   }
 ]

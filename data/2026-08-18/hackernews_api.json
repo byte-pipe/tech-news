@@ -4,8 +4,8 @@
     "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
     "author": "ibotty",
     "date": "2026-08-17",
-    "score": 546,
-    "comments": 97,
+    "score": 649,
+    "comments": 116,
     "id": 49330781,
     "discussion_url": "https://news.ycombinator.com/item?id=49330781",
     "description": "A Preview of DuckDB v2.0",
@@ -14,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683751"
+    "fetched_at": "2026-08-18T11:22:58.020981"
   },
   {
     "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
     "url": "https://www.nature.com/articles/d41586-026-02498-1",
     "author": "Brajeshwar",
-    "date": "2026-08-13",
-    "score": 105,
-    "comments": 18,
+    "date": "2026-08-12",
+    "score": 140,
+    "comments": 45,
     "id": 49272891,
     "discussion_url": "https://news.ycombinator.com/item?id=49272891",
     "description": "A particle made of force: physicists say they've found mysterious 'glueball'",
@@ -31,14 +31,14 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683318"
+    "fetched_at": "2026-08-18T11:22:58.021059"
   },
   {
     "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
     "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
     "author": "erickhill",
     "date": "2026-08-17",
-    "score": 126,
+    "score": 128,
     "comments": 24,
     "id": 49325714,
     "discussion_url": "https://news.ycombinator.com/item?id=49325714",
@@ -48,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.684071"
+    "fetched_at": "2026-08-18T11:22:58.021138"
   },
   {
     "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
     "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "author": "galnagli",
-    "date": "2026-08-18",
-    "score": 318,
-    "comments": 125,
+    "date": "2026-08-17",
+    "score": 381,
+    "comments": 146,
     "id": 49331423,
     "discussion_url": "https://news.ycombinator.com/item?id=49331423",
     "description": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
@@ -65,15 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683429"
+    "fetched_at": "2026-08-18T11:22:58.021018"
   },
   {
     "title": "AI;DR (AI; Didn't Read)",
     "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
     "author": "mooreds",
-    "date": "2026-08-18",
-    "score": 607,
-    "comments": 379,
+    "date": "2026-08-17",
+    "score": 914,
+    "comments": 555,
     "id": 49336573,
     "discussion_url": "https://news.ycombinator.com/item?id=49336573",
     "description": "AI;DR (AI; Didn't Read)",
@@ -82,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683521"
+    "fetched_at": "2026-08-18T11:22:58.021047"
   },
   {
     "title": "An update on leaving Gmail for Fastmail",
     "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
     "author": "neogodless",
-    "date": "2026-08-18",
-    "score": 119,
-    "comments": 93,
+    "date": "2026-08-17",
+    "score": 252,
+    "comments": 157,
     "id": 49334409,
     "discussion_url": "https://news.ycombinator.com/item?id=49334409",
     "description": "An update on leaving Gmail for Fastmail",
@@ -99,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683625"
+    "fetched_at": "2026-08-18T11:22:58.021005"
   },
   {
     "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
     "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
     "author": "ropbear",
-    "date": "2026-08-17",
-    "score": 766,
-    "comments": 676,
+    "date": "2026-08-16",
+    "score": 794,
+    "comments": 695,
     "id": 49324087,
     "discussion_url": "https://news.ycombinator.com/item?id=49324087",
     "description": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
@@ -116,49 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683994"
+    "fetched_at": "2026-08-18T11:22:58.021115"
   },
   {
-    "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
-    "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-    "author": "nyku",
-    "date": "2026-08-18",
-    "score": 238,
-    "comments": 93,
-    "id": 49331222,
-    "discussion_url": "https://news.ycombinator.com/item?id=49331222",
-    "description": "Apple's App Tracking Transparency treated its own apps better than rivals",
+    "title": "Fairphone 6 and PostmarketOS working main camera",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "author": "pizzaiolo",
+    "date": "2026-08-17",
+    "score": 217,
+    "comments": 48,
+    "id": 49338285,
+    "discussion_url": "https://news.ycombinator.com/item?id=49338285",
+    "description": "Fairphone 6 and PostmarketOS working main camera",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.684040"
-  },
-  {
-    "title": "Buy Your Friends Batteries",
-    "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
-    "author": "domenkozar",
-    "date": "2026-08-18",
-    "score": 132,
-    "comments": 143,
-    "id": 49333932,
-    "discussion_url": "https://news.ycombinator.com/item?id=49333932",
-    "description": "Buy Your Friends Batteries",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.684195"
+    "fetched_at": "2026-08-18T11:22:58.020992"
   },
   {
     "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
     "url": "https://blog.roboflow.com/openai-gpt-5-6/",
     "author": "plurby",
     "date": "2026-08-17",
-    "score": 303,
-    "comments": 154,
+    "score": 343,
+    "comments": 163,
     "id": 49329575,
     "discussion_url": "https://news.ycombinator.com/item?id=49329575",
     "description": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
@@ -167,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683540"
+    "fetched_at": "2026-08-18T11:22:58.020998"
   },
   {
     "title": "GPT-5.6 Sol Pricing Cut by 50%",
     "url": "https://openrouter.ai/openai/gpt-5.6-sol",
     "author": "Topfi",
-    "date": "2026-08-18",
-    "score": 136,
-    "comments": 63,
+    "date": "2026-08-17",
+    "score": 479,
+    "comments": 302,
     "id": 49337602,
     "discussion_url": "https://news.ycombinator.com/item?id=49337602",
     "description": "GPT-5.6 Sol Pricing Cut by 50%",
@@ -184,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683733"
+    "fetched_at": "2026-08-18T11:22:58.020973"
   },
   {
     "title": "GPU Offload in Rust: Portable, Safe, and Fast",
     "url": "https://arxiv.org/abs/2608.13759",
     "author": "linggen",
-    "date": "2026-08-18",
-    "score": 165,
-    "comments": 36,
+    "date": "2026-08-17",
+    "score": 221,
+    "comments": 45,
     "id": 49334991,
     "discussion_url": "https://news.ycombinator.com/item?id=49334991",
     "description": "GPU Offload in Rust: Portable, Safe, and Fast",
@@ -201,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683408"
+    "fetched_at": "2026-08-18T11:22:58.021029"
   },
   {
     "title": "How Bluesky draws its logo on screenshots",
     "url": "https://timmarinin.net/2026/bluesky-screenshots/",
     "author": "gavide",
-    "date": "2026-08-18",
-    "score": 237,
-    "comments": 162,
+    "date": "2026-08-17",
+    "score": 554,
+    "comments": 362,
     "id": 49338459,
     "discussion_url": "https://news.ycombinator.com/item?id=49338459",
     "description": "How Bluesky draws its logo on screenshots",
@@ -218,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683174"
+    "fetched_at": "2026-08-18T11:22:58.020933"
   },
   {
     "title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
     "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
     "author": "dt3ft",
-    "date": "2026-08-14",
-    "score": 218,
-    "comments": 166,
+    "date": "2026-08-13",
+    "score": 225,
+    "comments": 172,
     "id": 49290545,
     "discussion_url": "https://news.ycombinator.com/item?id=49290545",
     "description": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
@@ -235,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683947"
+    "fetched_at": "2026-08-18T11:22:58.021132"
   },
   {
     "title": "How to disable or avoid intrusive AI",
     "url": "https://www.librarian.net/notoai/",
     "author": "ColinWright",
-    "date": "2026-08-18",
-    "score": 257,
-    "comments": 156,
+    "date": "2026-08-17",
+    "score": 306,
+    "comments": 181,
     "id": 49331220,
     "discussion_url": "https://news.ycombinator.com/item?id=49331220",
     "description": "How to disable or avoid intrusive AI",
@@ -252,49 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683388"
-  },
-  {
-    "title": "How to put 170 atoms in an atom",
-    "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-    "author": "surprisetalk",
-    "date": "2026-08-18",
-    "score": 102,
-    "comments": 25,
-    "id": 49331474,
-    "discussion_url": "https://news.ycombinator.com/item?id=49331474",
-    "description": "How to put 170 atoms in an atom",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683881"
-  },
-  {
-    "title": "Incident with Github.com [resolved]",
-    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "author": "SpyCoder77",
-    "date": "2026-08-17",
-    "score": 533,
-    "comments": 913,
-    "id": 49330597,
-    "discussion_url": "https://news.ycombinator.com/item?id=49330597",
-    "description": "Incident with Github.com [resolved]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.684163"
+    "fetched_at": "2026-08-18T11:22:58.021035"
   },
   {
     "title": "India has paved the way for charging merchants a fee on UPI transactions",
     "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
     "author": "monkey_monkey",
-    "date": "2026-08-18",
-    "score": 94,
-    "comments": 90,
+    "date": "2026-08-17",
+    "score": 159,
+    "comments": 198,
     "id": 49336304,
     "discussion_url": "https://news.ycombinator.com/item?id=49336304",
     "description": "India has paved the way for charging merchants a fee on UPI transactions",
@@ -303,15 +252,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683680"
+    "fetched_at": "2026-08-18T11:22:58.021055"
+  },
+  {
+    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "author": "DeepLogin",
+    "date": "2026-08-17",
+    "score": 590,
+    "comments": 359,
+    "id": 49337392,
+    "discussion_url": "https://news.ycombinator.com/item?id=49337392",
+    "description": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-18T11:22:58.020985"
   },
   {
     "title": "Judge sets framework for Nine PBS to retrieve archival data",
     "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
     "author": "qingcharles",
-    "date": "2026-08-18",
-    "score": 137,
-    "comments": 56,
+    "date": "2026-08-17",
+    "score": 169,
+    "comments": 64,
     "id": 49333344,
     "discussion_url": "https://news.ycombinator.com/item?id=49333344",
     "description": "Judge sets framework for Nine PBS to retrieve archival data",
@@ -320,15 +286,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683697"
+    "fetched_at": "2026-08-18T11:22:58.021044"
+  },
+  {
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "url": "https://speko.ai/",
+    "author": "abdik",
+    "date": "2026-08-17",
+    "score": 109,
+    "comments": 58,
+    "id": 49332751,
+    "discussion_url": "https://news.ycombinator.com/item?id=49332751",
+    "description": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-18T11:22:58.021052"
   },
   {
     "title": "Linear algebra done right",
     "url": "https://linear.axler.net/",
     "author": "the-mitr",
     "date": "2026-08-17",
-    "score": 255,
-    "comments": 100,
+    "score": 262,
+    "comments": 106,
     "id": 49326816,
     "discussion_url": "https://news.ycombinator.com/item?id=49326816",
     "description": "Linear algebra done right",
@@ -337,15 +320,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683915"
+    "fetched_at": "2026-08-18T11:22:58.021098"
+  },
+  {
+    "title": "Linux 7.3 improves performance when running out of vRAM",
+    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "author": "flaburgan",
+    "date": "2026-08-18",
+    "score": 196,
+    "comments": 46,
+    "id": 49342719,
+    "discussion_url": "https://news.ycombinator.com/item?id=49342719",
+    "description": "Linux 7.3 improves performance when running out of vRAM",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-18T11:22:58.020948"
   },
   {
     "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
     "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
     "author": "bookofjoe",
-    "date": "2026-08-18",
-    "score": 108,
-    "comments": 41,
+    "date": "2026-08-17",
+    "score": 152,
+    "comments": 54,
     "id": 49335600,
     "discussion_url": "https://news.ycombinator.com/item?id=49335600",
     "description": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
@@ -354,32 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683448"
-  },
-  {
-    "title": "Mexico crackdown on coastal development",
-    "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
-    "author": "untiledsource",
-    "date": "2026-08-17",
-    "score": 111,
-    "comments": 29,
-    "id": 49329583,
-    "discussion_url": "https://news.ycombinator.com/item?id=49329583",
-    "description": "Mexico crackdown on coastal development",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683931"
+    "fetched_at": "2026-08-18T11:22:58.021049"
   },
   {
     "title": "Olo (Color)",
     "url": "https://en.wikipedia.org/wiki/Olo_(color)",
     "author": "inigyou",
     "date": "2026-08-12",
-    "score": 324,
-    "comments": 64,
+    "score": 465,
+    "comments": 84,
     "id": 49270194,
     "discussion_url": "https://news.ycombinator.com/item?id=49270194",
     "description": "Olo (Color)",
@@ -388,15 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683591"
+    "fetched_at": "2026-08-18T11:22:58.021015"
   },
   {
     "title": "On AI regulation and messaging",
     "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
     "author": "jacquesm",
     "date": "2026-08-17",
-    "score": 235,
-    "comments": 499,
+    "score": 243,
+    "comments": 518,
     "id": 49325789,
     "discussion_url": "https://news.ycombinator.com/item?id=49325789",
     "description": "On AI regulation and messaging",
@@ -405,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683831"
+    "fetched_at": "2026-08-18T11:22:58.021072"
   },
   {
     "title": "Quake Shareware, a CD-ROM just a little too full",
     "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
     "author": "shdon",
-    "date": "2026-08-18",
-    "score": 152,
-    "comments": 68,
+    "date": "2026-08-17",
+    "score": 369,
+    "comments": 156,
     "id": 49338328,
     "discussion_url": "https://news.ycombinator.com/item?id=49338328",
     "description": "Quake Shareware, a CD-ROM just a little too full",
@@ -422,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683370"
+    "fetched_at": "2026-08-18T11:22:58.020956"
   },
   {
     "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
     "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "author": "bilsbie",
-    "date": "2026-08-17",
-    "score": 751,
-    "comments": 360,
+    "date": "2026-08-16",
+    "score": 776,
+    "comments": 370,
     "id": 49324985,
     "discussion_url": "https://news.ycombinator.com/item?id=49324985",
     "description": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
@@ -439,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683977"
+    "fetched_at": "2026-08-18T11:22:58.021095"
   },
   {
     "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
     "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
     "author": "anana_",
-    "date": "2026-08-18",
-    "score": 309,
-    "comments": 136,
+    "date": "2026-08-17",
+    "score": 350,
+    "comments": 158,
     "id": 49334544,
     "discussion_url": "https://news.ycombinator.com/item?id=49334544",
     "description": "Qwen3.8 27B scores 52 on Artificial Analysis",
@@ -456,32 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683768"
+    "fetched_at": "2026-08-18T11:22:58.021107"
   },
   {
-    "title": "Rhombus 1.1 is now available",
-    "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-    "author": "spdegabrielle",
+    "title": "Repair Cafe – Fix Your Broken Items",
+    "url": "https://www.repaircafe.org/",
+    "author": "rglover",
     "date": "2026-08-17",
-    "score": 121,
-    "comments": 54,
-    "id": 49325384,
-    "discussion_url": "https://news.ycombinator.com/item?id=49325384",
-    "description": "Rhombus 1.1 is now available",
+    "score": 128,
+    "comments": 22,
+    "id": 49339097,
+    "discussion_url": "https://news.ycombinator.com/item?id=49339097",
+    "description": "Repair Cafe – Fix Your Broken Items",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.684132"
+    "fetched_at": "2026-08-18T11:22:58.021012"
   },
   {
     "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
     "url": "https://desktopcolors.com",
     "author": "vlowrian",
     "date": "2026-08-17",
-    "score": 141,
-    "comments": 62,
+    "score": 152,
+    "comments": 68,
     "id": 49327643,
     "discussion_url": "https://news.ycombinator.com/item?id=49327643",
     "description": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
@@ -490,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683815"
+    "fetched_at": "2026-08-18T11:22:58.021074"
   },
   {
     "title": "Sun Clock",
     "url": "https://sunclock.net/",
     "author": "Gecko4072",
-    "date": "2026-08-18",
-    "score": 177,
-    "comments": 56,
+    "date": "2026-08-17",
+    "score": 238,
+    "comments": 80,
     "id": 49333824,
     "discussion_url": "https://news.ycombinator.com/item?id=49333824",
     "description": "Sun Clock",
@@ -507,6 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-18T12:11:46.683662"
+    "fetched_at": "2026-08-18T11:22:58.021038"
+  },
+  {
+    "title": "The Benchmarkpocalypse",
+    "url": "https://danluu.com/benchpocalypse/",
+    "author": "cyndunlop",
+    "date": "2026-08-18",
+    "score": 125,
+    "comments": 34,
+    "id": 49340299,
+    "discussion_url": "https://news.ycombinator.com/item?id=49340299",
+    "description": "The Benchmarkpocalypse",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-18T11:22:58.021002"
   }
 ]
