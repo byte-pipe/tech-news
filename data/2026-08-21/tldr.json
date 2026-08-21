@@ -100,16 +100,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI usage patterns in software teams (17 minute read)",
-    "url": "https://linear.app/data",
-    "description": "AI usage patterns in software teams (17 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-21",
-    "site_name": "tldr"
-  },
-  {
     "title": "AI was meant to simplify IT service management – new research shows it's creating bigger workloads for teams (3 minute read)",
     "url": "https://www.itpro.com/technology/artificial-intelligence/ai-was-meant-to-simplify-it-service-management-new-research-shows-its-creating-bigger-workloads-for-teams",
     "description": "AI was meant to simplify IT service management – new research shows it's creating bigger workloads for teams (3 minute read)",
@@ -143,6 +133,16 @@
     "title": "Adoption of WiFi 7 (2 minute read)",
     "url": "https://potsandpansbyccg.com/2026/08/19/adoption-of-wifi-7/?amp%3Butm_source=tldrit",
     "description": "Adoption of WiFi 7 (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-21",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea (4 minute read)",
+    "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+    "description": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -193,16 +193,6 @@
     "title": "Americans Aren't Sold on Businesses Using AI in Advertising (2 minute read)",
     "url": "https://news.gallup.com/poll/713222/americans-aren-sold-businesses-using-advertising.aspx",
     "description": "Americans Aren't Sold on Businesses Using AI in Advertising (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-21",
-    "site_name": "tldr"
-  },
-  {
-    "title": "An IT Leader's Guide to Dreamforce 2026 (5 minute read)",
-    "url": "https://www.salesforce.com/blog/it-guide-to-dreamforce-2026/",
-    "description": "An IT Leader's Guide to Dreamforce 2026 (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -263,16 +253,6 @@
     "title": "Bending Spoons' playbook: Buy low and hold (6 minute read)",
     "url": "https://gfmag.com/technology/bending-spoons-playbook-buy-low-and-hold/",
     "description": "Bending Spoons' playbook: Buy low and hold (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-21",
-    "site_name": "tldr"
-  },
-  {
-    "title": "BetterWright (GitHub Repo)",
-    "url": "https://github.com/BetterWright/betterwright",
-    "description": "BetterWright (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -520,29 +500,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Guillermo Rauch: What will you do with unlimited IQ? (9 minute read)",
-    "url": "https://speedrun.substack.com/p/guillermo-rauch-what-will-you-do",
-    "description": "Guillermo Rauch: What will you do with unlimited IQ? (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-21",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Hackers Compromise 14,500 Dahua Web Cameras in 35-Day Campaign (2 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
-    "description": "Hackers Compromise 14,500 Dahua Web Cameras in 35-Day Campaign (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-21",
-    "site_name": "tldr"
-  },
-  {
     "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware (5 minute read)",
     "url": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
     "description": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-21",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Hacking Your Life With AI Can Get You Hacked (8 minute read)",
+    "url": "https://www.endorlabs.com/learn/hacking-your-life-with-ai-can-get-you-hacked",
+    "description": "Hacking Your Life With AI Can Get You Hacked (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -613,6 +583,16 @@
     "title": "How Kubernetes probes work (21 minute read)",
     "url": "https://ngrok.com/blog/probes",
     "description": "How Kubernetes probes work (21 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-21",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Software Teams Use AI in 2026 (8 minute read)",
+    "url": "https://linear.app/data",
+    "description": "How Software Teams Use AI in 2026 (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -860,6 +840,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "My AI agents shipped 128 releases of a product no one ever used (9 minute read)",
+    "url": "https://bramo.ai/blog/01-post-mortem",
+    "description": "My AI agents shipped 128 releases of a product no one ever used (9 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-21",
+    "site_name": "tldr"
+  },
+  {
     "title": "New AmnesiaStealer macOS Malware Hijacks Browser Sessions via Remote Control (2 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
     "description": "New AmnesiaStealer macOS Malware Hijacks Browser Sessions via Remote Control (2 minute read)",
@@ -1053,16 +1043,6 @@
     "title": "Saggar (Website)",
     "url": "https://saggar.marginalutility.dev/",
     "description": "Saggar (Website)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-21",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Sakura Internet Hack Exposes Data of up to 1.36M Accounts (2 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
-    "description": "Sakura Internet Hack Exposes Data of up to 1.36M Accounts (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1480,6 +1460,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "What is AI insurance? (6 minute read)",
+    "url": "https://www.itpro.com/technology/artificial-intelligence/what-is-ai-insurance",
+    "description": "What is AI insurance? (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-21",
+    "site_name": "tldr"
+  },
+  {
     "title": "What people *really* think about IC work (20 minute read)",
     "url": "https://www.elenaverna.com/p/report-what-people-really-think-about",
     "description": "What people *really* think about IC work (20 minute read)",
@@ -1523,6 +1513,16 @@
     "title": "Why compliance enables fintech scale rather than slowing it (2 minute read)",
     "url": "https://threadreaderapp.com/thread/2090109716391203169.html",
     "description": "Why compliance enables fintech scale rather than slowing it (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-21",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why low-cost AI models haven't slowed down American AI companies (3 minute read)",
+    "url": "https://econlab.substack.com/p/top-saas-vendors-on-ramp-aug-2026",
+    "description": "Why low-cost AI models haven't slowed down American AI companies (3 minute read)",
     "tags": [
       "tldr"
     ],
