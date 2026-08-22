@@ -15,9 +15,19 @@
     "date": "2026-08-18",
     "description": "Personal burnout insights from a dev speakerSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowAug 187 Productivity Tips That Sound Wrong (But Actu...",
     "tags": "#productivity, #mentalhealth, #career",
-    "reactions": "146 reactions",
-    "comments": "Comments 88 comments",
+    "reactions": "158 reactions",
+    "comments": "Comments 92 comments",
     "url": "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602"
+  },
+  {
+    "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
+    "author": "Gbemisola Esho",
+    "date": "2026-08-20",
+    "description": "Gbemisola EshoGbemisola EshoGbemisola EshoFollowforGoogle Developer ExpertsAug 20Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time wi...",
+    "tags": "#ai, #videoproduction, #creativeindustry, #aifilmaking",
+    "reactions": "11 reactions",
+    "comments": "Comments 3 comments",
+    "url": "https://dev.to/gde/breaking-the-multimodal-barrier-exploring-gemini-omni-and-my-time-with-gdg-calabar-569o"
   },
   {
     "title": "Engineering: Dreams, or Self-Actualization?",
@@ -25,7 +35,7 @@
     "date": "2026-08-18",
     "description": "Readers debate engineering as a mindsetAnna VillarrealAnna VillarrealAnna VillarrealFollowAug 18Engineering: Dreams, or Self-Actualization?#webdev#men...",
     "tags": "#webdev, #mentalhealth, #programming, #software",
-    "reactions": "22 reactions",
+    "reactions": "27 reactions",
     "comments": "Comments 6 comments",
     "url": "https://dev.to/annavi11arrea1/engineering-dreams-or-self-actualization-41ok"
   },
@@ -35,7 +45,7 @@
     "date": "2026-08-17",
     "description": "Blames poor terminology on AI scaling hurdlesMike PearsonMike PearsonMike PearsonFollowforPlayful ProgrammingAug 17Functional languages are heavily im...",
     "tags": "#imperative, #declarative, #haskell",
-    "reactions": "12 reactions",
+    "reactions": "17 reactions",
     "comments": "Comments 10 comments",
     "url": "https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1"
   },
@@ -45,8 +55,8 @@
     "date": "2026-08-17",
     "description": "Transitioning from GitHub Desktop to CLI commandsFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowAug 17Git Gud!#discuss#community#gi...",
     "tags": "#discuss, #community, #git, #productivity",
-    "reactions": "115 reactions",
-    "comments": "Comments 50 comments",
+    "reactions": "122 reactions",
+    "comments": "Comments 55 comments",
     "url": "https://dev.to/francistrdev/git-gud-4e6g"
   },
   {
@@ -55,9 +65,19 @@
     "date": "2026-08-19",
     "description": "Explores the paradox of choice in modern techAdam - The Developer ✨Adam - The Developer ✨Adam - The Developer ✨FollowAug 19Greatness Is Forged by Limi...",
     "tags": "#ai, #programming, #webdev, #career",
-    "reactions": "47 reactions",
+    "reactions": "56 reactions",
     "comments": "Comments 32 comments",
     "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
+  },
+  {
+    "title": "I Write Less Code Than I Used To. That May Be the Point.",
+    "author": "marcosomma",
+    "date": "2026-08-19",
+    "description": "Shifts engineer value toward judgment over typingmarcosommamarcosommamarcosommaFollowAug 19I Write Less Code Than I Used To. That May Be the Point.#ai...",
+    "tags": "#ai, #programming, #productivity, #python",
+    "reactions": "24 reactions",
+    "comments": "Comments 16 comments",
+    "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk"
   },
   {
     "title": "I wrote a test for prompt injection. It passed while the attack worked.",
@@ -66,7 +86,7 @@
     "description": "Summer Bug Smash: Smash Stories 🐛🛹MarcoMarcoMarcoFollowAug 20I wrote a test for prompt injection. It passed while the attack worked.#devchallenge#bugs...",
     "tags": "#devchallenge, #bugsmash, #security, #ai",
     "reactions": "7 reactions",
-    "comments": "Comments 20 comments",
+    "comments": "Comments 22 comments",
     "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9"
   },
   {
@@ -75,27 +95,17 @@
     "date": "2026-08-16",
     "description": "Frontend Challenge Perfect Landing Submission 🍲🥧GamyaGamyaGamyaFollowAug 16Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸#devchallenge#fr...",
     "tags": "#devchallenge, #frontendchallenge, #webdev, #javascript",
-    "reactions": "78 reactions",
-    "comments": "Comments 60 comments",
+    "reactions": "83 reactions",
+    "comments": "Comments 61 comments",
     "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8"
-  },
-  {
-    "title": "Kitchen-Sune: A Community Cookbook",
-    "author": "Jen Looper",
-    "date": "2026-08-16",
-    "description": "Doubles as a practical Git learning toolJen LooperJen LooperJen LooperFollowAug 16Kitchen-Sune: A Community Cookbook#showdev#devchallenge#frontend#vue...",
-    "tags": "#showdev, #devchallenge, #frontend, #vue",
-    "reactions": "17 reactions",
-    "comments": "Comments 8 comments",
-    "url": "https://dev.to/jenlooper/kitchen-sune-a-community-cookbook-5fea"
   },
   {
     "title": "Learn how to build a disclosure component using the native HTML details tag",
     "author": "Mica",
     "date": "2026-08-17",
-    "description": "MicaMicaMicaFollowAug 17Learn how to build a disclosure component using the native HTML details tag#a11y#webdev#html#designsystem20reactionsComments2c...",
+    "description": "MicaMicaMicaFollowAug 17Learn how to build a disclosure component using the native HTML details tag#a11y#webdev#html#designsystem25reactionsComments2c...",
     "tags": "#a11y, #webdev, #html, #designsystem",
-    "reactions": "20 reactions",
+    "reactions": "25 reactions",
     "comments": "Comments 2 comments",
     "url": "https://dev.to/micaavigliano/learn-how-to-build-an-expandable-and-collapsible-component-using-the-native-html-details-tag-1h8j"
   },
@@ -105,7 +115,7 @@
     "date": "2026-08-19",
     "description": "Raw writing struggles and AI authenticity debatesRyan CarniatoRyan CarniatoRyan CarniatoFollowforPlayful ProgrammingAug 19My AI Content Journey#ai#web...",
     "tags": "#ai, #webdev, #devjournal",
-    "reactions": "18 reactions",
+    "reactions": "23 reactions",
     "comments": "Comments 6 comments",
     "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p"
   },
@@ -115,29 +125,19 @@
     "date": "2026-08-18",
     "description": "The shock of legacy systems and enterprise supportAryan ChoudharyAryan ChoudharyAryan ChoudharyFollowAug 18My First Engineering Job Is Teaching Me Som...",
     "tags": "#discuss, #learning, #career, #softwareengineering",
-    "reactions": "50 reactions",
-    "comments": "Comments 27 comments",
+    "reactions": "64 reactions",
+    "comments": "Comments 32 comments",
     "url": "https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96"
   },
   {
     "title": "State Management in Front-end Web Development: Mutators",
     "author": "Abbey Perini",
     "date": "2026-08-19",
-    "description": "Abbey PeriniAbbey PeriniAbbey PeriniFollowAug 19State Management in Front-end Web Development: Mutators#webdev#react#vue#javascript18reactionsComments...",
+    "description": "Abbey PeriniAbbey PeriniAbbey PeriniFollowAug 19State Management in Front-end Web Development: Mutators#webdev#react#vue#javascript23reactionsComments...",
     "tags": "#webdev, #react, #vue, #javascript",
-    "reactions": "18 reactions",
+    "reactions": "23 reactions",
     "comments": "Comments Add Comment",
     "url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp"
-  },
-  {
-    "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
-    "author": "Pascal CESCATO",
-    "date": "2026-08-15",
-    "description": "Proves watermarks track provenance poorlyPascal CESCATOPascal CESCATOPascal CESCATOFollowAug 15The \"AI\" Badge Doesn't Measure What You Think It Does#d...",
-    "tags": "#discuss, #ai, #llm, #writing",
-    "reactions": "98 reactions",
-    "comments": "Comments 106 comments",
-    "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9"
   },
   {
     "title": "The Kitchen Doesn't Care About Your Excuses",
@@ -155,28 +155,28 @@
     "date": "2026-08-20",
     "description": "Git analogy clarifies agent memory gapsKen W AlgerKen W AlgerKen W AlgerFollowAug 20The Reasoning Ledger: Remembering Decisions, Not Just Data#ai#agen...",
     "tags": "#ai, #agents, #llm, #architecture",
-    "reactions": "34 reactions",
-    "comments": "Comments 29 comments",
+    "reactions": "37 reactions",
+    "comments": "Comments 31 comments",
     "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm"
-  },
-  {
-    "title": "The test was green. Every real connection would have failed.",
-    "author": "Yash Kumar Saini",
-    "date": "2026-08-20",
-    "description": "Summer Bug Smash: Smash Stories 🐛🛹Yash Kumar SainiYash Kumar SainiYash Kumar SainiFollowAug 20The test was green. Every real connection would have fai...",
-    "tags": "#devchallenge, #bugsmash, #python, #testing",
-    "reactions": "21 reactions",
-    "comments": "Comments Add Comment",
-    "url": "https://dev.to/yashksaini/the-test-was-green-every-real-connection-would-have-failed-3e37"
   },
   {
     "title": "What was your win this week?!",
     "author": "Jess Lee",
     "date": "2026-08-21",
-    "description": "Jess LeeJess LeeJess LeeFollowforThe DEV TeamAug 21What was your win this week?!#discuss#weeklyretro23reactionsComments17comments1 min read",
+    "description": "Jess LeeJess LeeJess LeeFollowforThe DEV TeamAug 21What was your win this week?!#discuss#weeklyretro23reactionsComments18comments1 min read",
     "tags": "#discuss, #weeklyretro",
     "reactions": "23 reactions",
-    "comments": "Comments 17 comments",
+    "comments": "Comments 18 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-1330"
+  },
+  {
+    "title": "Why Does Every AI Agent Still Look Like `while (true) { ... }`?",
+    "author": "tom",
+    "date": "2026-08-18",
+    "description": "tomtomtomFollowAug 18Why Does Every AI Agent Still Look Like `while (true) { ... }`?#ai#typescript#architecture#opensource24reactionsComments7comments...",
+    "tags": "#ai, #typescript, #architecture, #opensource",
+    "reactions": "24 reactions",
+    "comments": "Comments 7 comments",
+    "url": "https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a"
   }
 ]

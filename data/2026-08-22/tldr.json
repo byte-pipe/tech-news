@@ -140,16 +140,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea (4 minute read)",
-    "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
-    "description": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "Agent Memory as a Moat: How Context Compounds (9 minute read)",
     "url": "https://redis.io/blog/compounding-context-memory-as-the-moat/",
     "description": "Agent Memory as a Moat: How Context Compounds (9 minute read)",
@@ -363,6 +353,16 @@
     "title": "Bun 1.4 (Website)",
     "url": "https://bun.com/blog/bun-v1.4",
     "description": "Bun 1.4 (Website)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Bun 1.4 Rust rewrite is not looking good (5 minute read)",
+    "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+    "description": "Bun 1.4 Rust rewrite is not looking good (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -600,6 +600,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Forget about the ARR (20 minute read)",
+    "url": "https://x.com/mardehaym/status/2090478724290359520",
+    "description": "Forget about the ARR (20 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-22",
+    "site_name": "tldr"
+  },
+  {
     "title": "French Tax Authority Admits Data Heist After Crook Touts 2M Records (2 minute read)",
     "url": "https://www.theregister.com/security/2026/08/14/french-tax-authority-admits-data-heist-after-crook-touts-2m-records/5287885",
     "description": "French Tax Authority Admits Data Heist After Crook Touts 2M Records (2 minute read)",
@@ -613,6 +623,16 @@
     "title": "From all-or-nothing to task-based OAuth consent (4 minute read)",
     "url": "https://blog.cloudflare.com/task-based-oauth-consent/",
     "description": "From all-or-nothing to task-based OAuth consent (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GenBio Launches a “Virtual Cell” AI Model (7 minute read)",
+    "url": "https://lifespan.io/genbio-launches-a-virtual-cell-ai-model/",
+    "description": "GenBio Launches a “Virtual Cell” AI Model (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1080,16 +1100,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Post Browser Internet (7 minute read)",
-    "url": "https://x.com/Must_be_Ash/status/2089201691606540439",
-    "description": "Post Browser Internet (7 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-22",
-    "site_name": "tldr"
-  },
-  {
     "title": "Postgres 19: How Our Advice Has Changed Since We Wrote It (16 minute read)",
     "url": "https://www.crunchydata.com/blog/postgres-19-how-our-advice-has-changed-since-we-wrote-it",
     "description": "Postgres 19: How Our Advice Has Changed Since We Wrote It (16 minute read)",
@@ -1183,16 +1193,6 @@
     "title": "Simplifying data and product integrations with a data abstraction layer (8 minute read)",
     "url": "https://www.uber.com/us/en/blog/data-abstraction-layer/",
     "description": "Simplifying data and product integrations with a data abstraction layer (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Slack Code (3 minute read)",
-    "url": "https://slack.com/features/code-channels",
-    "description": "Slack Code (3 minute read)",
     "tags": [
       "tldr"
     ],

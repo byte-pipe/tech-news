@@ -1,28 +1,28 @@
 [
   {
-    "title": "A look under our trunk: what's in our compute",
-    "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
-    "author": "ra7",
-    "date": "2026-08-20",
-    "score": 126,
-    "comments": 70,
-    "id": 49374853,
-    "discussion_url": "https://news.ycombinator.com/item?id=49374853",
-    "description": "A look under our trunk: what's in our compute",
+    "title": "A Friendly Introduction to Racket",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "author": "signa11",
+    "date": "2026-08-22",
+    "score": 87,
+    "comments": 30,
+    "id": 49399898,
+    "discussion_url": "https://news.ycombinator.com/item?id=49399898",
+    "description": "A Friendly Introduction to Racket",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.430016"
+    "fetched_at": "2026-08-22T19:21:15.828769"
   },
   {
     "title": "AI boosted homework scores, then exam scores dropped: study",
     "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
     "author": "dash2",
     "date": "2026-08-19",
-    "score": 315,
-    "comments": 324,
+    "score": 364,
+    "comments": 364,
     "id": 49357530,
     "discussion_url": "https://news.ycombinator.com/item?id=49357530",
     "description": "AI boosted homework scores, then exam scores dropped: study",
@@ -31,49 +31,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429850"
+    "fetched_at": "2026-08-22T19:21:15.828995"
   },
   {
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "author": "Cider9986",
-    "date": "2026-08-21",
-    "score": 570,
-    "comments": 855,
-    "id": 49383026,
-    "discussion_url": "https://news.ycombinator.com/item?id=49383026",
-    "description": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "url": "https://twitter.com/argofowl/status/2091150597374537729",
+    "author": "matthieu_bl",
+    "date": "2026-08-22",
+    "score": 69,
+    "comments": 70,
+    "id": 49401549,
+    "discussion_url": "https://news.ycombinator.com/item?id=49401549",
+    "description": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.430044"
+    "fetched_at": "2026-08-22T19:21:15.828762"
   },
   {
-    "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-    "author": "jakelsaunders94",
-    "date": "2026-08-21",
-    "score": 105,
-    "comments": 55,
-    "id": 49390463,
-    "discussion_url": "https://news.ycombinator.com/item?id=49390463",
-    "description": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+    "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+    "author": "tartoran",
+    "date": "2026-08-22",
+    "score": 197,
+    "comments": 817,
+    "id": 49397074,
+    "discussion_url": "https://news.ycombinator.com/item?id=49397074",
+    "description": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.430061"
+    "fetched_at": "2026-08-22T19:21:15.828894"
   },
   {
     "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
     "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
     "author": "aakil",
     "date": "2026-08-21",
-    "score": 288,
-    "comments": 187,
+    "score": 337,
+    "comments": 226,
     "id": 49388752,
     "discussion_url": "https://news.ycombinator.com/item?id=49388752",
     "description": "Claudette: Make Claude stop talking like a BuzzFeed article",
@@ -82,32 +82,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429945"
+    "fetched_at": "2026-08-22T19:21:15.829009"
   },
   {
-    "title": "DeepSeek-v4-flash-vision-exp",
-    "url": "https://api-docs.deepseek.com/guides/vision/",
-    "author": "dares2573",
-    "date": "2026-08-21",
-    "score": 483,
-    "comments": 151,
-    "id": 49386163,
-    "discussion_url": "https://news.ycombinator.com/item?id=49386163",
-    "description": "DeepSeek-v4-flash-vision-exp",
+    "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+    "author": "gmays",
+    "date": "2026-08-20",
+    "score": 135,
+    "comments": 67,
+    "id": 49380303,
+    "discussion_url": "https://news.ycombinator.com/item?id=49380303",
+    "description": "Early-life stress leaves a 'scar' inside brain cells in mice",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.430066"
+    "fetched_at": "2026-08-22T19:21:15.829031"
+  },
+  {
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "url": "https://quantumi.sh/public/labs.html",
+    "author": "jemoka",
+    "date": "2026-08-22",
+    "score": 187,
+    "comments": 64,
+    "id": 49400408,
+    "discussion_url": "https://news.ycombinator.com/item?id=49400408",
+    "description": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-22T19:21:15.828729"
+  },
+  {
+    "title": "Everyone says assembly is untyped—everyone is wrong",
+    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+    "author": "adamrezich",
+    "date": "2026-08-20",
+    "score": 139,
+    "comments": 74,
+    "id": 49376769,
+    "discussion_url": "https://news.ycombinator.com/item?id=49376769",
+    "description": "Everyone says assembly is untyped—everyone is wrong",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-22T19:21:15.829058"
   },
   {
     "title": "Felony Bench",
     "url": "https://www.felonybench.com/",
     "author": "colinprince",
     "date": "2026-08-21",
-    "score": 730,
-    "comments": 279,
+    "score": 808,
+    "comments": 323,
     "id": 49389430,
     "discussion_url": "https://news.ycombinator.com/item?id=49389430",
     "description": "Felony Bench",
@@ -116,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429915"
+    "fetched_at": "2026-08-22T19:21:15.828900"
   },
   {
     "title": "Felony charges for citizen deleting phone data at US Border",
     "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
     "author": "floathub",
     "date": "2026-08-21",
-    "score": 825,
-    "comments": 955,
+    "score": 1025,
+    "comments": 1245,
     "id": 49386895,
     "discussion_url": "https://news.ycombinator.com/item?id=49386895",
     "description": "Felony charges for citizen deleting phone data at US Border",
@@ -133,32 +167,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429890"
+    "fetched_at": "2026-08-22T19:21:15.828924"
   },
   {
-    "title": "Flat Chair by Sara Paculdo",
-    "url": "https://paculdo.com/innovative-housewares-inside-out-design-oliso/",
-    "author": "surprisetalk",
-    "date": "2026-08-17",
-    "score": 112,
-    "comments": 37,
-    "id": 49331084,
-    "discussion_url": "https://news.ycombinator.com/item?id=49331084",
-    "description": "Flat Chair by Sara Paculdo",
+    "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+    "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+    "author": "sbulaev",
+    "date": "2026-08-22",
+    "score": 186,
+    "comments": 147,
+    "id": 49398904,
+    "discussion_url": "https://news.ycombinator.com/item?id=49398904",
+    "description": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.430094"
+    "fetched_at": "2026-08-22T19:21:15.828965"
+  },
+  {
+    "title": "How Thailand Resisted Colonization",
+    "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+    "author": "karakoram",
+    "date": "2026-08-21",
+    "score": 109,
+    "comments": 41,
+    "id": 49392099,
+    "discussion_url": "https://news.ycombinator.com/item?id=49392099",
+    "description": "How Thailand Resisted Colonization",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-22T19:21:15.829001"
   },
   {
     "title": "How we made a text-to-speech model respond in sub-50 ms",
     "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
     "author": "toebee",
     "date": "2026-08-21",
-    "score": 153,
-    "comments": 37,
+    "score": 165,
+    "comments": 40,
     "id": 49389952,
     "discussion_url": "https://news.ycombinator.com/item?id=49389952",
     "description": "How we made a text-to-speech model respond in sub-50 ms",
@@ -167,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429956"
+    "fetched_at": "2026-08-22T19:21:15.829064"
   },
   {
     "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
     "url": "https://lina.sh/blog/hijacking-e164-arpa",
     "author": "gavide",
     "date": "2026-08-21",
-    "score": 568,
-    "comments": 70,
+    "score": 642,
+    "comments": 83,
     "id": 49387570,
     "discussion_url": "https://news.ycombinator.com/item?id=49387570",
     "description": "I accidentally logged hundreds of thousands of phone calls to military bases",
@@ -184,32 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429884"
-  },
-  {
-    "title": "I ran Photoshop on a £0.60 computer chip",
-    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-    "author": "colinprince",
-    "date": "2026-08-21",
-    "score": 137,
-    "comments": 41,
-    "id": 49389441,
-    "discussion_url": "https://news.ycombinator.com/item?id=49389441",
-    "description": "I ran Photoshop on a £0.60 computer chip",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.430024"
+    "fetched_at": "2026-08-22T19:21:15.828948"
   },
   {
     "title": "I'm becoming AI-blind",
     "url": "https://cymerys.com/w/im-becoming-ai-blind",
     "author": "rcymerys",
     "date": "2026-08-21",
-    "score": 386,
-    "comments": 381,
+    "score": 467,
+    "comments": 475,
     "id": 49386699,
     "discussion_url": "https://news.ycombinator.com/item?id=49386699",
     "description": "I'm becoming AI-blind",
@@ -218,32 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429833"
-  },
-  {
-    "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-    "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-    "author": "Cider9986",
-    "date": "2026-08-22",
-    "score": 120,
-    "comments": 44,
-    "id": 49395605,
-    "discussion_url": "https://news.ycombinator.com/item?id=49395605",
-    "description": "Initial focus for our partnership with Motorola is a regular non-folding device",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429968"
+    "fetched_at": "2026-08-22T19:21:15.829020"
   },
   {
     "title": "Kagi added a setting for removing paywalled links from search results",
     "url": "https://kagi.com/changelog#11296",
     "author": "speckx",
     "date": "2026-08-21",
-    "score": 1147,
-    "comments": 369,
+    "score": 1220,
+    "comments": 381,
     "id": 49388154,
     "discussion_url": "https://news.ycombinator.com/item?id=49388154",
     "description": "Kagi added a setting for removing paywalled links from search results",
@@ -252,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429923"
+    "fetched_at": "2026-08-22T19:21:15.828960"
   },
   {
     "title": "Kobo can run apps now",
     "url": "https://bandarlabs.github.io/Cobalt/",
     "author": "thepoet",
     "date": "2026-08-21",
-    "score": 568,
-    "comments": 189,
+    "score": 637,
+    "comments": 202,
     "id": 49390427,
     "discussion_url": "https://news.ycombinator.com/item?id=49390427",
     "description": "Kobo can run apps now",
@@ -269,15 +286,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429840"
+    "fetched_at": "2026-08-22T19:21:15.828911"
+  },
+  {
+    "title": "Munder Difflin – Agent harness to run an office of your clones",
+    "url": "https://munderdiffl.in/",
+    "author": "simonpure",
+    "date": "2026-08-22",
+    "score": 219,
+    "comments": 88,
+    "id": 49398152,
+    "discussion_url": "https://news.ycombinator.com/item?id=49398152",
+    "description": "Munder Difflin – Agent harness to run an office of your clones",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-22T19:21:15.828776"
+  },
+  {
+    "title": "New MCP Roadmap",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "author": "pentagrama",
+    "date": "2026-08-22",
+    "score": 141,
+    "comments": 109,
+    "id": 49399591,
+    "discussion_url": "https://news.ycombinator.com/item?id=49399591",
+    "description": "New MCP Roadmap",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-22T19:21:15.828831"
   },
   {
     "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
     "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
     "author": "speckx",
     "date": "2026-08-21",
-    "score": 246,
-    "comments": 165,
+    "score": 272,
+    "comments": 173,
     "id": 49387525,
     "discussion_url": "https://news.ycombinator.com/item?id=49387525",
     "description": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
@@ -286,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429941"
+    "fetched_at": "2026-08-22T19:21:15.829047"
   },
   {
     "title": "OTel isn’t going well",
     "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "author": "hn_acker",
     "date": "2026-08-21",
-    "score": 134,
-    "comments": 54,
+    "score": 207,
+    "comments": 103,
     "id": 49391553,
     "discussion_url": "https://news.ycombinator.com/item?id=49391553",
     "description": "OTel isn’t going well",
@@ -303,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429911"
+    "fetched_at": "2026-08-22T19:21:15.828977"
   },
   {
     "title": "People of ACM – Russ Cox",
     "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
     "author": "signa11",
     "date": "2026-08-17",
-    "score": 140,
-    "comments": 14,
+    "score": 165,
+    "comments": 22,
     "id": 49327408,
     "discussion_url": "https://news.ycombinator.com/item?id=49327408",
     "description": "People of ACM – Russ Cox",
@@ -320,32 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429936"
-  },
-  {
-    "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
-    "url": "https://arxiv.org/abs/2608.18214",
-    "author": "pppone",
-    "date": "2026-08-21",
-    "score": 105,
-    "comments": 33,
-    "id": 49387856,
-    "discussion_url": "https://news.ycombinator.com/item?id=49387856",
-    "description": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.430083"
+    "fetched_at": "2026-08-22T19:21:15.829026"
   },
   {
     "title": "Rust Glancer: Rust LSP using 100x less RAM",
     "url": "https://rust-glancer.github.io/blog/hello-world/",
     "author": "matklad",
     "date": "2026-08-21",
-    "score": 269,
-    "comments": 55,
+    "score": 373,
+    "comments": 86,
     "id": 49393052,
     "discussion_url": "https://news.ycombinator.com/item?id=49393052",
     "description": "Rust Glancer: Rust LSP using 100x less RAM",
@@ -354,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429895"
+    "fetched_at": "2026-08-22T19:21:15.828889"
   },
   {
     "title": "Scientists release biggest 2D map of the universe",
     "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
     "author": "NKosmatos",
     "date": "2026-08-21",
-    "score": 215,
-    "comments": 57,
+    "score": 248,
+    "comments": 65,
     "id": 49392200,
     "discussion_url": "https://news.ycombinator.com/item?id=49392200",
     "description": "Scientists release biggest 2D map of the universe",
@@ -371,49 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429931"
-  },
-  {
-    "title": "Small, native web tricks worth remembering",
-    "url": "https://htmlcat.net/",
-    "author": "marcomezzavilla",
-    "date": "2026-08-21",
-    "score": 223,
-    "comments": 54,
-    "id": 49385860,
-    "discussion_url": "https://news.ycombinator.com/item?id=49385860",
-    "description": "Small, native web tricks worth remembering",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.430076"
-  },
-  {
-    "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
-    "url": "https://arxiv.org/abs/2504.09762",
-    "author": "nunodonato",
-    "date": "2026-08-19",
-    "score": 291,
-    "comments": 244,
-    "id": 49360140,
-    "discussion_url": "https://news.ycombinator.com/item?id=49360140",
-    "description": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.430098"
+    "fetched_at": "2026-08-22T19:21:15.828971"
   },
   {
     "title": "Stop Making TUIs",
     "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
     "author": "underdeserver",
     "date": "2026-08-21",
-    "score": 164,
-    "comments": 228,
+    "score": 354,
+    "comments": 459,
     "id": 49384210,
     "discussion_url": "https://news.ycombinator.com/item?id=49384210",
     "description": "Stop Making TUIs",
@@ -422,32 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429859"
-  },
-  {
-    "title": "The Lost Treasure of Sid Meier's Pirates",
-    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-    "author": "spankibalt",
-    "date": "2026-08-21",
-    "score": 260,
-    "comments": 142,
-    "id": 49384896,
-    "discussion_url": "https://news.ycombinator.com/item?id=49384896",
-    "description": "The Lost Treasure of Sid Meier's Pirates",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.430048"
+    "fetched_at": "2026-08-22T19:21:15.828942"
   },
   {
     "title": "The coolest anti-surveillance tools at Defcon [video]",
     "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
     "author": "neom",
     "date": "2026-08-18",
-    "score": 204,
-    "comments": 33,
+    "score": 232,
+    "comments": 44,
     "id": 49346444,
     "discussion_url": "https://news.ycombinator.com/item?id=49346444",
     "description": "The coolest anti-surveillance tools at Defcon [video]",
@@ -456,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429964"
+    "fetched_at": "2026-08-22T19:21:15.829069"
   },
   {
     "title": "There's no reason for software to be slow anymore",
     "url": "https://danluu.com/perf-opt/",
     "author": "Jach",
     "date": "2026-08-22",
-    "score": 441,
-    "comments": 313,
+    "score": 601,
+    "comments": 454,
     "id": 49395628,
     "discussion_url": "https://news.ycombinator.com/item?id=49395628",
     "description": "There's no reason for software to be slow anymore",
@@ -473,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429927"
+    "fetched_at": "2026-08-22T19:21:15.828983"
   },
   {
     "title": "Three important steps in my maturation process",
     "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
     "author": "tdullien",
     "date": "2026-08-21",
-    "score": 152,
-    "comments": 71,
+    "score": 202,
+    "comments": 107,
     "id": 49394496,
     "discussion_url": "https://news.ycombinator.com/item?id=49394496",
     "description": "Three important steps in my maturation process",
@@ -490,23 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.429919"
+    "fetched_at": "2026-08-22T19:21:15.829053"
   },
   {
-    "title": "What happens when a GPU reads memory",
-    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-    "author": "ibobev",
-    "date": "2026-08-21",
-    "score": 108,
-    "comments": 19,
-    "id": 49390308,
-    "discussion_url": "https://news.ycombinator.com/item?id=49390308",
-    "description": "What happens when a GPU reads memory",
+    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "author": "asdefghyk",
+    "date": "2026-08-22",
+    "score": 95,
+    "comments": 46,
+    "id": 49398158,
+    "discussion_url": "https://news.ycombinator.com/item?id=49398158",
+    "description": "Z80 – The 1970s Microprocessor Still Alive (2021)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-22T11:19:18.430052"
+    "fetched_at": "2026-08-22T19:21:15.828713"
+  },
+  {
+    "title": "Zig’s Io.Threaded is neat",
+    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "author": "chilipepperhott",
+    "date": "2026-08-21",
+    "score": 143,
+    "comments": 87,
+    "id": 49388694,
+    "discussion_url": "https://news.ycombinator.com/item?id=49388694",
+    "description": "Zig’s Io.Threaded is neat",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-22T19:21:15.828989"
   }
 ]
