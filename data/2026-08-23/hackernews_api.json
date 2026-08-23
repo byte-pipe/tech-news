@@ -3,9 +3,9 @@
     "title": "A Friendly Introduction to Racket",
     "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
     "author": "signa11",
-    "date": "2026-08-23",
-    "score": 100,
-    "comments": 37,
+    "date": "2026-08-22",
+    "score": 236,
+    "comments": 130,
     "id": 49399898,
     "discussion_url": "https://news.ycombinator.com/item?id=49399898",
     "description": "A Friendly Introduction to Racket",
@@ -14,49 +14,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313683"
+    "fetched_at": "2026-08-23T11:19:05.506087"
   },
   {
-    "title": "AI boosted homework scores, then exam scores dropped: study",
-    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-    "author": "dash2",
-    "date": "2026-08-19",
-    "score": 365,
-    "comments": 366,
-    "id": 49357530,
-    "discussion_url": "https://news.ycombinator.com/item?id=49357530",
-    "description": "AI boosted homework scores, then exam scores dropped: study",
+    "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+    "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+    "author": "altmanaltman",
+    "date": "2026-08-22",
+    "score": 217,
+    "comments": 93,
+    "id": 49399524,
+    "discussion_url": "https://news.ycombinator.com/item?id=49399524",
+    "description": "A Kantian Critique of \"Sorry\" by Justin Bieber",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313824"
+    "fetched_at": "2026-08-23T11:19:05.506138"
   },
   {
-    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-    "url": "https://twitter.com/argofowl/status/2091150597374537729",
-    "author": "matthieu_bl",
-    "date": "2026-08-23",
-    "score": 82,
-    "comments": 87,
-    "id": 49401549,
-    "discussion_url": "https://news.ycombinator.com/item?id=49401549",
-    "description": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "title": "A week of using Codex more than Claude",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "author": "speckx",
+    "date": "2026-08-21",
+    "score": 204,
+    "comments": 229,
+    "id": 49393051,
+    "discussion_url": "https://news.ycombinator.com/item?id=49393051",
+    "description": "A week of using Codex more than Claude",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313364"
+    "fetched_at": "2026-08-23T11:19:05.506065"
+  },
+  {
+    "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "author": "grappler",
+    "date": "2026-08-20",
+    "score": 147,
+    "comments": 18,
+    "id": 49379732,
+    "discussion_url": "https://news.ycombinator.com/item?id=49379732",
+    "description": "ATProto spaces: A new extension to ATProto that enables non-public data",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-23T11:19:05.506099"
   },
   {
     "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
     "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
     "author": "tartoran",
     "date": "2026-08-22",
-    "score": 231,
-    "comments": 870,
+    "score": 620,
+    "comments": 1442,
     "id": 49397074,
     "discussion_url": "https://news.ycombinator.com/item?id=49397074",
     "description": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -65,32 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313605"
-  },
-  {
-    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "author": "aakil",
-    "date": "2026-08-22",
-    "score": 339,
-    "comments": 227,
-    "id": 49388752,
-    "discussion_url": "https://news.ycombinator.com/item?id=49388752",
-    "description": "Claudette: Make Claude stop talking like a BuzzFeed article",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313816"
+    "fetched_at": "2026-08-23T11:19:05.506146"
   },
   {
     "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
     "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
     "author": "gmays",
-    "date": "2026-08-21",
-    "score": 135,
-    "comments": 67,
+    "date": "2026-08-20",
+    "score": 142,
+    "comments": 74,
     "id": 49380303,
     "discussion_url": "https://news.ycombinator.com/item?id=49380303",
     "description": "Early-life stress leaves a 'scar' inside brain cells in mice",
@@ -99,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313849"
+    "fetched_at": "2026-08-23T11:19:05.506182"
   },
   {
     "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
     "url": "https://quantumi.sh/public/labs.html",
     "author": "jemoka",
-    "date": "2026-08-23",
-    "score": 215,
-    "comments": 72,
+    "date": "2026-08-22",
+    "score": 408,
+    "comments": 125,
     "id": 49400408,
     "discussion_url": "https://news.ycombinator.com/item?id=49400408",
     "description": "ElevenLabs, TwelveLabs, ThirteenLabs",
@@ -116,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313201"
+    "fetched_at": "2026-08-23T11:19:05.506071"
   },
   {
     "title": "Everyone says assembly is untyped—everyone is wrong",
     "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
     "author": "adamrezich",
-    "date": "2026-08-21",
-    "score": 140,
-    "comments": 74,
+    "date": "2026-08-20",
+    "score": 152,
+    "comments": 81,
     "id": 49376769,
     "discussion_url": "https://news.ycombinator.com/item?id=49376769",
     "description": "Everyone says assembly is untyped—everyone is wrong",
@@ -133,15 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313841"
+    "fetched_at": "2026-08-23T11:19:05.506193"
   },
   {
     "title": "Felony Bench",
     "url": "https://www.felonybench.com/",
     "author": "colinprince",
-    "date": "2026-08-22",
-    "score": 811,
-    "comments": 325,
+    "date": "2026-08-21",
+    "score": 827,
+    "comments": 337,
     "id": 49389430,
     "discussion_url": "https://news.ycombinator.com/item?id=49389430",
     "description": "Felony Bench",
@@ -150,15 +150,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313400"
+    "fetched_at": "2026-08-23T11:19:05.506176"
   },
   {
     "title": "Felony charges for citizen deleting phone data at US Border",
     "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
     "author": "floathub",
     "date": "2026-08-21",
-    "score": 1032,
-    "comments": 1251,
+    "score": 1069,
+    "comments": 1305,
     "id": 49386895,
     "discussion_url": "https://news.ycombinator.com/item?id=49386895",
     "description": "Felony charges for citizen deleting phone data at US Border",
@@ -167,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313576"
+    "fetched_at": "2026-08-23T11:19:05.506196"
   },
   {
     "title": "Hister – A private, full content search index that you control",
     "url": "https://hister.org/",
     "author": "auraham",
-    "date": "2026-08-19",
-    "score": 96,
-    "comments": 31,
+    "date": "2026-08-18",
+    "score": 370,
+    "comments": 83,
     "id": 49351802,
     "discussion_url": "https://news.ycombinator.com/item?id=49351802",
     "description": "Hister – A private, full content search index that you control",
@@ -184,32 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313457"
-  },
-  {
-    "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-    "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-    "author": "sbulaev",
-    "date": "2026-08-22",
-    "score": 192,
-    "comments": 152,
-    "id": 49398904,
-    "discussion_url": "https://news.ycombinator.com/item?id=49398904",
-    "description": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313783"
+    "fetched_at": "2026-08-23T11:19:05.506084"
   },
   {
     "title": "How Thailand Resisted Colonization",
     "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
     "author": "karakoram",
-    "date": "2026-08-22",
-    "score": 110,
-    "comments": 41,
+    "date": "2026-08-21",
+    "score": 128,
+    "comments": 49,
     "id": 49392099,
     "discussion_url": "https://news.ycombinator.com/item?id=49392099",
     "description": "How Thailand Resisted Colonization",
@@ -218,83 +201,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313775"
+    "fetched_at": "2026-08-23T11:19:05.506202"
   },
   {
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "author": "gavide",
+    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "author": "olalonde",
     "date": "2026-08-21",
-    "score": 644,
-    "comments": 83,
-    "id": 49387570,
-    "discussion_url": "https://news.ycombinator.com/item?id=49387570",
-    "description": "I accidentally logged hundreds of thousands of phone calls to military bases",
+    "score": 167,
+    "comments": 76,
+    "id": 49387959,
+    "discussion_url": "https://news.ycombinator.com/item?id=49387959",
+    "description": "How a Texas student blew the whistle on a rogue AI hacking attempt",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313750"
+    "fetched_at": "2026-08-23T11:19:05.506039"
   },
   {
-    "title": "I'm becoming AI-blind",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "author": "rcymerys",
-    "date": "2026-08-21",
-    "score": 469,
-    "comments": 477,
-    "id": 49386699,
-    "discussion_url": "https://news.ycombinator.com/item?id=49386699",
-    "description": "I'm becoming AI-blind",
+    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+    "url": "https://martypc.net/",
+    "author": "boilerupnc",
+    "date": "2026-08-23",
+    "score": 124,
+    "comments": 40,
+    "id": 49405816,
+    "discussion_url": "https://news.ycombinator.com/item?id=49405816",
+    "description": "MartyPC is a cross-platform emulator of early PCs written in Rust",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313833"
-  },
-  {
-    "title": "Kagi added a setting for removing paywalled links from search results",
-    "url": "https://kagi.com/changelog#11296",
-    "author": "speckx",
-    "date": "2026-08-21",
-    "score": 1223,
-    "comments": 382,
-    "id": 49388154,
-    "discussion_url": "https://news.ycombinator.com/item?id=49388154",
-    "description": "Kagi added a setting for removing paywalled links from search results",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313767"
-  },
-  {
-    "title": "Kobo can run apps now",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "author": "thepoet",
-    "date": "2026-08-22",
-    "score": 639,
-    "comments": 202,
-    "id": 49390427,
-    "discussion_url": "https://news.ycombinator.com/item?id=49390427",
-    "description": "Kobo can run apps now",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313642"
+    "fetched_at": "2026-08-23T11:19:05.506025"
   },
   {
     "title": "Munder Difflin – Agent harness to run an office of your clones",
     "url": "https://munderdiffl.in/",
     "author": "simonpure",
     "date": "2026-08-22",
-    "score": 225,
-    "comments": 101,
+    "score": 285,
+    "comments": 123,
     "id": 49398152,
     "discussion_url": "https://news.ycombinator.com/item?id=49398152",
     "description": "Munder Difflin – Agent harness to run an office of your clones",
@@ -303,15 +252,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313623"
+    "fetched_at": "2026-08-23T11:19:05.506119"
+  },
+  {
+    "title": "NetBSD and my life (2005)",
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "author": "gnyeki",
+    "date": "2026-08-22",
+    "score": 129,
+    "comments": 29,
+    "id": 49402781,
+    "discussion_url": "https://news.ycombinator.com/item?id=49402781",
+    "description": "NetBSD and my life (2005)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-23T11:19:05.506021"
   },
   {
     "title": "New MCP Roadmap",
     "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
     "author": "pentagrama",
     "date": "2026-08-22",
-    "score": 143,
-    "comments": 111,
+    "score": 218,
+    "comments": 136,
     "id": 49399591,
     "discussion_url": "https://news.ycombinator.com/item?id=49399591",
     "description": "New MCP Roadmap",
@@ -320,32 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313700"
-  },
-  {
-    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
-    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-    "author": "speckx",
-    "date": "2026-08-21",
-    "score": 272,
-    "comments": 174,
-    "id": 49387525,
-    "discussion_url": "https://news.ycombinator.com/item?id=49387525",
-    "description": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313866"
+    "fetched_at": "2026-08-23T11:19:05.506093"
   },
   {
     "title": "OTel isn’t going well",
     "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "author": "hn_acker",
-    "date": "2026-08-22",
-    "score": 207,
-    "comments": 104,
+    "date": "2026-08-21",
+    "score": 229,
+    "comments": 117,
     "id": 49391553,
     "discussion_url": "https://news.ycombinator.com/item?id=49391553",
     "description": "OTel isn’t going well",
@@ -354,100 +303,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313808"
+    "fetched_at": "2026-08-23T11:19:05.506149"
   },
   {
-    "title": "People of ACM – Russ Cox",
-    "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-    "author": "signa11",
-    "date": "2026-08-17",
-    "score": 165,
-    "comments": 22,
-    "id": 49327408,
-    "discussion_url": "https://news.ycombinator.com/item?id=49327408",
-    "description": "People of ACM – Russ Cox",
+    "title": "RF Cafe",
+    "url": "https://www.rfcafe.com/",
+    "author": "gregsadetsky",
+    "date": "2026-08-19",
+    "score": 206,
+    "comments": 37,
+    "id": 49355659,
+    "discussion_url": "https://news.ycombinator.com/item?id=49355659",
+    "description": "RF Cafe",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313857"
+    "fetched_at": "2026-08-23T11:19:05.506079"
   },
   {
-    "title": "Rust Glancer: Rust LSP using 100x less RAM",
-    "url": "https://rust-glancer.github.io/blog/hello-world/",
-    "author": "matklad",
-    "date": "2026-08-22",
-    "score": 378,
-    "comments": 88,
-    "id": 49393052,
-    "discussion_url": "https://news.ycombinator.com/item?id=49393052",
-    "description": "Rust Glancer: Rust LSP using 100x less RAM",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313345"
-  },
-  {
-    "title": "Scientists release biggest 2D map of the universe",
-    "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-    "author": "NKosmatos",
-    "date": "2026-08-22",
-    "score": 250,
-    "comments": 65,
-    "id": 49392200,
-    "discussion_url": "https://news.ycombinator.com/item?id=49392200",
-    "description": "Scientists release biggest 2D map of the universe",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313800"
-  },
-  {
-    "title": "Scrap",
+    "title": "Scrap (2006)",
     "url": "https://twitter.com/moxie/status/2091218652133732491",
     "author": "tosh",
-    "date": "2026-08-23",
-    "score": 74,
-    "comments": 14,
+    "date": "2026-08-22",
+    "score": 376,
+    "comments": 197,
     "id": 49402189,
     "discussion_url": "https://news.ycombinator.com/item?id=49402189",
-    "description": "Scrap",
+    "description": "Scrap (2006)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313596"
+    "fetched_at": "2026-08-23T11:19:05.506081"
   },
   {
-    "title": "Stop Making TUIs",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "author": "underdeserver",
-    "date": "2026-08-21",
-    "score": 360,
-    "comments": 466,
-    "id": 49384210,
-    "discussion_url": "https://news.ycombinator.com/item?id=49384210",
-    "description": "Stop Making TUIs",
+    "title": "The End of an Athlon",
+    "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+    "author": "userbinator",
+    "date": "2026-08-23",
+    "score": 110,
+    "comments": 32,
+    "id": 49406333,
+    "discussion_url": "https://news.ycombinator.com/item?id=49406333",
+    "description": "The End of an Athlon",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313741"
+    "fetched_at": "2026-08-23T11:19:05.506068"
   },
   {
     "title": "There's no reason for software to be slow anymore",
     "url": "https://danluu.com/perf-opt/",
     "author": "Jach",
     "date": "2026-08-22",
-    "score": 605,
-    "comments": 460,
+    "score": 630,
+    "comments": 484,
     "id": 49395628,
     "discussion_url": "https://news.ycombinator.com/item?id=49395628",
     "description": "There's no reason for software to be slow anymore",
@@ -456,32 +371,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313792"
+    "fetched_at": "2026-08-23T11:19:05.506179"
   },
   {
-    "title": "Three important steps in my maturation process",
-    "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-    "author": "tdullien",
+    "title": "Thinking in Python",
+    "url": "https://thinkinginpython.com/",
+    "author": "pjacotg",
     "date": "2026-08-22",
-    "score": 202,
-    "comments": 108,
-    "id": 49394496,
-    "discussion_url": "https://news.ycombinator.com/item?id=49394496",
-    "description": "Three important steps in my maturation process",
+    "score": 189,
+    "comments": 36,
+    "id": 49402202,
+    "discussion_url": "https://news.ycombinator.com/item?id=49402202",
+    "description": "Thinking in Python",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313898"
+    "fetched_at": "2026-08-23T11:19:05.506076"
+  },
+  {
+    "title": "To become a better writer, read as much as you can",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "author": "andsoitis",
+    "date": "2026-08-23",
+    "score": 184,
+    "comments": 123,
+    "id": 49405870,
+    "discussion_url": "https://news.ycombinator.com/item?id=49405870",
+    "description": "To become a better writer, read as much as you can",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-23T11:19:05.506007"
+  },
+  {
+    "title": "Why your local LLM feels dumber than it is",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "author": "felineflock",
+    "date": "2026-08-22",
+    "score": 372,
+    "comments": 137,
+    "id": 49402232,
+    "discussion_url": "https://news.ycombinator.com/item?id=49402232",
+    "description": "Why your local LLM feels dumber than it is",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-23T11:19:05.506043"
+  },
+  {
+    "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+    "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+    "author": "taubek",
+    "date": "2026-08-23",
+    "score": 119,
+    "comments": 90,
+    "id": 49406539,
+    "discussion_url": "https://news.ycombinator.com/item?id=49406539",
+    "description": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-23T11:19:05.506107"
   },
   {
     "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
     "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
     "author": "asdefghyk",
     "date": "2026-08-22",
-    "score": 98,
-    "comments": 49,
+    "score": 143,
+    "comments": 69,
     "id": 49398158,
     "discussion_url": "https://news.ycombinator.com/item?id=49398158",
     "description": "Z80 – The 1970s Microprocessor Still Alive (2021)",
@@ -490,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313651"
+    "fetched_at": "2026-08-23T11:19:05.506110"
   },
   {
     "title": "Zig’s Io.Threaded is neat",
     "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
     "author": "chilipepperhott",
-    "date": "2026-08-22",
-    "score": 143,
-    "comments": 88,
+    "date": "2026-08-21",
+    "score": 154,
+    "comments": 92,
     "id": 49388694,
     "discussion_url": "https://news.ycombinator.com/item?id=49388694",
     "description": "Zig’s Io.Threaded is neat",
@@ -507,6 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-23T06:00:19.313759"
+    "fetched_at": "2026-08-23T11:19:05.506161"
+  },
+  {
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+    "author": "zdw",
+    "date": "2026-08-22",
+    "score": 182,
+    "comments": 77,
+    "id": 49402741,
+    "discussion_url": "https://news.ycombinator.com/item?id=49402741",
+    "description": "hdiutil is deprecated in macOS 27 Golden Gate",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-23T11:19:05.506135"
+  },
+  {
+    "title": "typ.ing",
+    "url": "https://typ.ing/",
+    "author": "bookofjoe",
+    "date": "2026-08-18",
+    "score": 283,
+    "comments": 91,
+    "id": 49346854,
+    "discussion_url": "https://news.ycombinator.com/item?id=49346854",
+    "description": "typ.ing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-23T11:19:05.506058"
   }
 ]
