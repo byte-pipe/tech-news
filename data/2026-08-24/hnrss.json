@@ -1,272 +1,182 @@
 [
   {
-    "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "description": "ATProto spaces: A new extension to ATProto that enables non-public data",
-    "date": "2026-08-20",
-    "score": 160,
-    "comments": 25,
-    "discussion_url": "https://news.ycombinator.com/item?id=49379732",
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "description": "Coding expertise is going to collapse from AI reliance",
+    "date": "2026-08-24",
+    "score": 274,
+    "comments": 313,
+    "discussion_url": "https://news.ycombinator.com/item?id=49421554",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401755"
+    "fetched_at": "2026-08-24T19:27:20.973762"
   },
   {
-    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-    "url": "https://quantumi.sh/public/labs.html",
-    "description": "ElevenLabs, TwelveLabs, ThirteenLabs",
-    "date": "2026-08-22",
-    "score": 438,
-    "comments": 132,
-    "discussion_url": "https://news.ycombinator.com/item?id=49400408",
+    "title": "Executable Is a SQLite Database",
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "description": "Executable Is a SQLite Database",
+    "date": "2026-08-24",
+    "score": 400,
+    "comments": 81,
+    "discussion_url": "https://news.ycombinator.com/item?id=49415271",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401725"
+    "fetched_at": "2026-08-24T19:27:20.973907"
   },
   {
-    "title": "Hister – A private, full content search index that you control",
-    "url": "https://hister.org/",
-    "description": "Hister – A private, full content search index that you control",
-    "date": "2026-08-18",
-    "score": 423,
-    "comments": 94,
-    "discussion_url": "https://news.ycombinator.com/item?id=49351802",
+    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+    "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+    "description": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+    "date": "2026-08-24",
+    "score": 162,
+    "comments": 76,
+    "discussion_url": "https://news.ycombinator.com/item?id=49415893",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401775"
+    "fetched_at": "2026-08-24T19:27:20.973893"
   },
   {
-    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-    "description": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-    "date": "2026-08-21",
-    "score": 188,
-    "comments": 98,
-    "discussion_url": "https://news.ycombinator.com/item?id=49387959",
+    "title": "How Europe is killing makers and micro-entrepreneurs",
+    "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+    "description": "How Europe is killing makers and micro-entrepreneurs",
+    "date": "2026-08-24",
+    "score": 789,
+    "comments": 529,
+    "discussion_url": "https://news.ycombinator.com/item?id=49419237",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401745"
+    "fetched_at": "2026-08-24T19:27:20.973841"
   },
   {
-    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-    "description": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+    "title": "I were 17, I'd learn how to build LLMs from scratch",
+    "url": "https://twitter.com/paulg/status/2091544343589060625",
+    "description": "I were 17, I'd learn how to build LLMs from scratch",
     "date": "2026-08-23",
-    "score": 159,
-    "comments": 80,
-    "discussion_url": "https://news.ycombinator.com/item?id=49407507",
+    "score": 439,
+    "comments": 544,
+    "discussion_url": "https://news.ycombinator.com/item?id=49412396",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401561"
+    "fetched_at": "2026-08-24T19:27:20.973919"
   },
   {
-    "title": "JIT Compiling Code in 5μs",
-    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-    "description": "JIT Compiling Code in 5μs",
-    "date": "2026-08-23",
-    "score": 123,
-    "comments": 78,
-    "discussion_url": "https://news.ycombinator.com/item?id=49406387",
+    "title": "IPFS Maintainers Winding Down",
+    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "description": "IPFS Maintainers Winding Down",
+    "date": "2026-08-24",
+    "score": 220,
+    "comments": 97,
+    "discussion_url": "https://news.ycombinator.com/item?id=49421489",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401584"
+    "fetched_at": "2026-08-24T19:27:20.973776"
   },
   {
-    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "url": "https://martypc.net/",
-    "description": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "date": "2026-08-23",
-    "score": 154,
-    "comments": 55,
-    "discussion_url": "https://news.ycombinator.com/item?id=49405816",
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "description": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "date": "2026-08-24",
+    "score": 325,
+    "comments": 137,
+    "discussion_url": "https://news.ycombinator.com/item?id=49421158",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401637"
+    "fetched_at": "2026-08-24T19:27:20.973788"
   },
   {
-    "title": "NanoGPT Speedrun Frontier",
-    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-    "description": "NanoGPT Speedrun Frontier",
-    "date": "2026-08-22",
-    "score": 127,
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "description": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "date": "2026-08-24",
+    "score": 197,
+    "comments": 182,
+    "discussion_url": "https://news.ycombinator.com/item?id=49421074",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-24T19:27:20.973799"
+  },
+  {
+    "title": "SeL4 security proofs now complete on AArch64",
+    "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+    "description": "SeL4 security proofs now complete on AArch64",
+    "date": "2026-08-24",
+    "score": 146,
     "comments": 31,
-    "discussion_url": "https://news.ycombinator.com/item?id=49404380",
+    "discussion_url": "https://news.ycombinator.com/item?id=49418255",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401660"
+    "fetched_at": "2026-08-24T19:27:20.973854"
   },
   {
-    "title": "NetBSD and my life (2005)",
-    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "description": "NetBSD and my life (2005)",
-    "date": "2026-08-22",
-    "score": 139,
-    "comments": 32,
-    "discussion_url": "https://news.ycombinator.com/item?id=49402781",
+    "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+    "url": "https://ssx360.github.io/rack-02/?src=hn",
+    "description": "Show HN: A techno machine in one HTML file, with verifiable renders",
+    "date": "2026-08-24",
+    "score": 105,
+    "comments": 18,
+    "discussion_url": "https://news.ycombinator.com/item?id=49419351",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401681"
+    "fetched_at": "2026-08-24T19:27:20.973822"
   },
   {
-    "title": "New MCP Roadmap",
-    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-    "description": "New MCP Roadmap",
-    "date": "2026-08-22",
-    "score": 241,
-    "comments": 142,
-    "discussion_url": "https://news.ycombinator.com/item?id=49399591",
+    "title": "The entire city of San Francisco as a video game",
+    "url": "https://sf.thijs.gg/",
+    "description": "The entire city of San Francisco as a video game",
+    "date": "2026-08-24",
+    "score": 120,
+    "comments": 47,
+    "discussion_url": "https://news.ycombinator.com/item?id=49422784",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401736"
+    "fetched_at": "2026-08-24T19:27:20.973738"
   },
   {
-    "title": "RF Cafe",
-    "url": "https://www.rfcafe.com/",
-    "description": "RF Cafe",
-    "date": "2026-08-19",
-    "score": 227,
-    "comments": 44,
-    "discussion_url": "https://news.ycombinator.com/item?id=49355659",
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "url": "https://twitter.com/lemire/status/2091894299289874926",
+    "description": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "date": "2026-08-24",
+    "score": 485,
+    "comments": 314,
+    "discussion_url": "https://news.ycombinator.com/item?id=49420873",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401765"
-  },
-  {
-    "title": "Scrap (2006)",
-    "url": "https://twitter.com/moxie/status/2091218652133732491",
-    "description": "Scrap (2006)",
-    "date": "2026-08-22",
-    "score": 386,
-    "comments": 212,
-    "discussion_url": "https://news.ycombinator.com/item?id=49402189",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401715"
-  },
-  {
-    "title": "The Art and Beauty of Blade Runner (2015)",
-    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-    "description": "The Art and Beauty of Blade Runner (2015)",
-    "date": "2026-08-23",
-    "score": 136,
-    "comments": 68,
-    "discussion_url": "https://news.ycombinator.com/item?id=49405331",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401649"
-  },
-  {
-    "title": "The End of an Athlon",
-    "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-    "description": "The End of an Athlon",
-    "date": "2026-08-23",
-    "score": 143,
-    "comments": 57,
-    "discussion_url": "https://news.ycombinator.com/item?id=49406333",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401598"
-  },
-  {
-    "title": "Thinking in Python",
-    "url": "https://thinkinginpython.com/",
-    "description": "Thinking in Python",
-    "date": "2026-08-22",
-    "score": 251,
-    "comments": 50,
-    "discussion_url": "https://news.ycombinator.com/item?id=49402202",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401704"
-  },
-  {
-    "title": "To become a better writer, read as much as you can",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "description": "To become a better writer, read as much as you can",
-    "date": "2026-08-23",
-    "score": 316,
-    "comments": 208,
-    "discussion_url": "https://news.ycombinator.com/item?id=49405870",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401610"
-  },
-  {
-    "title": "Why your local LLM feels dumber than it is",
-    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-    "description": "Why your local LLM feels dumber than it is",
-    "date": "2026-08-22",
-    "score": 417,
-    "comments": 171,
-    "discussion_url": "https://news.ycombinator.com/item?id=49402232",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401692"
-  },
-  {
-    "title": "typ.ing",
-    "url": "https://typ.ing/",
-    "description": "typ.ing",
-    "date": "2026-08-18",
-    "score": 321,
-    "comments": 102,
-    "discussion_url": "https://news.ycombinator.com/item?id=49346854",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-24T11:25:33.401785"
+    "fetched_at": "2026-08-24T19:27:20.973811"
   }
 ]
