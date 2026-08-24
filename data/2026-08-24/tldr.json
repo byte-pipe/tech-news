@@ -60,9 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "A revisit of remote Spectre attacks on Cloudflare Workers (13 minute read)",
-    "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
-    "description": "A revisit of remote Spectre attacks on Cloudflare Workers (13 minute read)",
+    "title": "AEO Tip: Use hashtags to directly control the URL of your LinkedIn posts (1 minute read)",
+    "url": "https://www.linkedin.com/posts/chris-long-marketing_howhashtagscontrollinkedinposturlsforseo-share-7493297805936078849-LBVe/",
+    "description": "AEO Tip: Use hashtags to directly control the URL of your LinkedIn posts (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -70,9 +70,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AEO Tip: Use hashtags to directly control the URL of your LinkedIn posts (1 minute read)",
-    "url": "https://www.linkedin.com/posts/chris-long-marketing_howhashtagscontrollinkedinposturlsforseo-share-7493297805936078849-LBVe/",
-    "description": "AEO Tip: Use hashtags to directly control the URL of your LinkedIn posts (1 minute read)",
+    "title": "AI Adoption Is an Operating Model (3 minute read)",
+    "url": "https://www.edisonpartners.com/blog/ai-adoption-is-an-operating-model",
+    "description": "AI Adoption Is an Operating Model (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -213,16 +213,6 @@
     "title": "Apple Accidentally Leaked More Than 10 New Products in macOS Update (1 minute read)",
     "url": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/",
     "description": "Apple Accidentally Leaked More Than 10 New Products in macOS Update (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Apple Overhauls EU App Store Fees and Loosens Alternative Store Rules (3 minute read)",
-    "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-    "description": "Apple Overhauls EU App Store Fees and Loosens Alternative Store Rules (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -540,16 +530,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Forget about the ARR (20 minute read)",
-    "url": "https://x.com/mardehaym/status/2090478724290359520",
-    "description": "Forget about the ARR (20 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-24",
-    "site_name": "tldr"
-  },
-  {
     "title": "French Tax Authority Admits Data Heist After Crook Touts 2M Records (2 minute read)",
     "url": "https://www.theregister.com/security/2026/08/14/french-tax-authority-admits-data-heist-after-crook-touts-2m-records/5287885",
     "description": "French Tax Authority Admits Data Heist After Crook Touts 2M Records (2 minute read)",
@@ -813,6 +793,16 @@
     "title": "Justin Sun's HTX \"dusting\" campaign against Coinbase and Binance (2 minute read)",
     "url": "https://threadreaderapp.com/thread/2089654499723944271.html",
     "description": "Justin Sun's HTX \"dusting\" campaign against Coinbase and Binance (2 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Make zero CVEs your new default (2 minute read)",
+    "url": "https://www.docker.com/blog/make-zero-cves-your-new-default/",
+    "description": "Make zero CVEs your new default (2 minute read)",
     "tags": [
       "tldr"
     ],
