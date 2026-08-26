@@ -5,8 +5,8 @@
     "date": "2026-08-26",
     "description": "Targeted at devs past the basicsSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowAug 2610 Git Commands You’ll Wish You Knew Earlier#git#programmi...",
     "tags": "#git, #programming, #productivity, #beginners",
-    "reactions": "35 reactions",
-    "comments": "Comments 10 comments",
+    "reactions": "70 reactions",
+    "comments": "Comments 29 comments",
     "url": "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp"
   },
   {
@@ -20,13 +20,23 @@
     "url": "https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il"
   },
   {
+    "title": "A missing exchange rate is not an exchange rate of 1",
+    "author": "Hammad Shams Uddin",
+    "date": "2026-08-20",
+    "description": "Summer Bug Smash: Smash Stories 🐛🛹Hammad Shams UddinHammad Shams UddinHammad Shams UddinFollowAug 20A missing exchange rate is not an exchange rate of...",
+    "tags": "#devchallenge, #bugsmash, #javascript, #api",
+    "reactions": "10 reactions",
+    "comments": "Comments 11 comments",
+    "url": "https://dev.to/hammad4june1999/a-missing-exchange-rate-is-not-an-exchange-rate-of-1-4474"
+  },
+  {
     "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
     "author": "Heinrich Neb",
     "date": "2026-08-24",
     "description": "89 percent of guardrails never tested for failureHeinrich NebHeinrich NebHeinrich NebFollowAug 24AI promoted every developer to reviewer. Nobody teste...",
     "tags": "#discuss, #ai, #productivity, #testing",
-    "reactions": "41 reactions",
-    "comments": "Comments 47 comments",
+    "reactions": "43 reactions",
+    "comments": "Comments 51 comments",
     "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h"
   },
   {
@@ -45,19 +55,9 @@
     "date": "2026-08-21",
     "description": "Hemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowforThe DEVengersAug 21Dev Opportunity Radar #13: a16z Alpha, a $740K Hackathon, and an AI ...",
     "tags": "#discuss, #community, #opportunities, #resources",
-    "reactions": "81 reactions",
+    "reactions": "86 reactions",
     "comments": "Comments 7 comments",
     "url": "https://dev.to/devengers/dev-opportunity-radar-13-a16z-alpha-a-740k-hackathon-and-an-ai-agent-competition-1l1i"
-  },
-  {
-    "title": "Greatness Is Forged by Limitation",
-    "author": "Adam - The Developer ✨",
-    "date": "2026-08-19",
-    "description": "Explores the paradox of choice in modern techAdam - The Developer ✨Adam - The Developer ✨Adam - The Developer ✨FollowAug 19Greatness Is Forged by Limi...",
-    "tags": "#ai, #programming, #webdev, #career",
-    "reactions": "80 reactions",
-    "comments": "Comments 38 comments",
-    "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"
   },
   {
     "title": "HTML is getting cool again: Meet the Invoker Commands API",
@@ -65,8 +65,8 @@
     "date": "2026-08-22",
     "description": "Exposes how LLMs miss modern browser capabilitiesAlexandraAlexandraAlexandraFollowAug 22HTML is getting cool again: Meet the Invoker Commands API#webd...",
     "tags": "#webdev, #a11y",
-    "reactions": "37 reactions",
-    "comments": "Comments 16 comments",
+    "reactions": "40 reactions",
+    "comments": "Comments 17 comments",
     "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367"
   },
   {
@@ -75,8 +75,8 @@
     "date": "2026-08-24",
     "description": "Puts a 100k-row space dataset to the testHadil Ben AbdallahHadil Ben AbdallahHadil Ben AbdallahFollowAug 24I Used React DataGrid to Build a Real Space...",
     "tags": "#webdev, #programming, #react, #nextjs",
-    "reactions": "60 reactions",
-    "comments": "Comments 22 comments",
+    "reactions": "76 reactions",
+    "comments": "Comments 24 comments",
     "url": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b"
   },
   {
@@ -96,28 +96,18 @@
     "description": "Summer Bug Smash: Smash Stories 🐛🛹MarcoMarcoMarcoFollowAug 20I wrote a test for prompt injection. It passed while the attack worked.#devchallenge#bugs...",
     "tags": "#devchallenge, #bugsmash, #security, #ai",
     "reactions": "9 reactions",
-    "comments": "Comments 51 comments",
+    "comments": "Comments 52 comments",
     "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9"
   },
   {
-    "title": "My AI Content Journey",
-    "author": "Ryan Carniato",
-    "date": "2026-08-19",
-    "description": "Raw writing struggles and AI authenticity debatesRyan CarniatoRyan CarniatoRyan CarniatoFollowforPlayful ProgrammingAug 19My AI Content Journey#ai#web...",
-    "tags": "#ai, #webdev, #devjournal",
-    "reactions": "30 reactions",
-    "comments": "Comments 11 comments",
-    "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p"
-  },
-  {
-    "title": "State Management in Front-end Web Development: Mutators",
-    "author": "Abbey Perini",
-    "date": "2026-08-19",
-    "description": "Weighs mutable speed against race conditionsAbbey PeriniAbbey PeriniAbbey PeriniFollowAug 19State Management in Front-end Web Development: Mutators#we...",
-    "tags": "#webdev, #react, #vue, #javascript",
-    "reactions": "27 reactions",
-    "comments": "Comments 8 comments",
-    "url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp"
+    "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
+    "author": "Ben Halpern",
+    "date": "2026-08-26",
+    "description": "Author leads by example using the new tagBen HalpernBen HalpernBen HalpernFollowforThe DEV TeamAug 26Introducing AI Disclosure on DEV: Tools for Nuanc...",
+    "tags": "#showdev, #announcements, #ai, #community",
+    "reactions": "50 reactions",
+    "comments": "Comments 3 comments",
+    "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk"
   },
   {
     "title": "The Model Scored 30%. The Harness Scored 100%. Which One Did You Benchmark?",
@@ -125,8 +115,8 @@
     "date": "2026-08-24",
     "description": "Harnesses drive massive score jumpsSergei ParfenovSergei ParfenovSergei ParfenovFollowAug 24The Model Scored 30%. The Harness Scored 100%. Which One D...",
     "tags": "#ai, #llm, #agents, #machinelearning",
-    "reactions": "13 reactions",
-    "comments": "Comments 22 comments",
+    "reactions": "14 reactions",
+    "comments": "Comments 25 comments",
     "url": "https://dev.to/p0rt/the-model-scored-30-the-harness-scored-100-which-one-did-you-benchmark-3mp4"
   },
   {
@@ -135,8 +125,8 @@
     "date": "2026-08-20",
     "description": "Git analogy clarifies agent memory gapsKen W AlgerKen W AlgerKen W AlgerFollowAug 20The Reasoning Ledger: Remembering Decisions, Not Just Data#ai#agen...",
     "tags": "#ai, #agents, #llm, #architecture",
-    "reactions": "49 reactions",
-    "comments": "Comments 55 comments",
+    "reactions": "50 reactions",
+    "comments": "Comments 57 comments",
     "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm"
   },
   {
@@ -145,7 +135,7 @@
     "date": "2026-08-20",
     "description": "Summer Bug Smash: Smash Stories 🐛🛹Yash Kumar SainiYash Kumar SainiYash Kumar SainiFollowAug 20The test was green. Every real connection would have fai...",
     "tags": "#devchallenge, #bugsmash, #python, #testing",
-    "reactions": "38 reactions",
+    "reactions": "39 reactions",
     "comments": "Comments 4 comments",
     "url": "https://dev.to/yashksaini/the-test-was-green-every-real-connection-would-have-failed-3e37"
   },
@@ -153,11 +143,21 @@
     "title": "What Do You Do While AI Codes?",
     "author": "Ashley Childress",
     "date": "2026-08-25",
-    "description": "The struggle to stop mid-taskAshley ChildressAshley ChildressAshley ChildressFollowAug 25What Do You Do While AI Codes?#discuss#ai#productivity#devex4...",
+    "description": "The struggle to stop mid-taskAshley ChildressAshley ChildressAshley ChildressFollowAug 25What Do You Do While AI Codes?#discuss#ai#productivity#devex6...",
     "tags": "#discuss, #ai, #productivity, #devex",
-    "reactions": "48 reactions",
-    "comments": "Comments 32 comments",
+    "reactions": "63 reactions",
+    "comments": "Comments 46 comments",
     "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
+  },
+  {
+    "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
+    "author": "Randal L. Schwartz",
+    "date": "2026-08-21",
+    "description": "Randal L. SchwartzRandal L. SchwartzRandal L. SchwartzFollowforGoogle Developer ExpertsAug 21What I Get to Forget About Riverpod Now That I Have BlocS...",
+    "tags": "#flutter, #dart, #riverpod, #statemanagement",
+    "reactions": "8 reactions",
+    "comments": "Comments 2 comments",
+    "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5"
   },
   {
     "title": "What was your win this week?!",
@@ -166,16 +166,16 @@
     "description": "Diverse personal and career highlights sharedJess LeeJess LeeJess LeeFollowforThe DEV TeamAug 21What was your win this week?!#discuss#weeklyretro40rea...",
     "tags": "#discuss, #weeklyretro",
     "reactions": "40 reactions",
-    "comments": "Comments 31 comments",
+    "comments": "Comments 34 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-1330"
   },
   {
     "title": "comiCSS #255: Yellow",
     "author": "Alvaro Montoro",
     "date": "2026-08-24",
-    "description": "Alvaro MontoroAlvaro MontoroAlvaro MontoroFollowAug 24comiCSS #255: Yellow#watercooler#css#webdev#humor13reactionsCommentsAdd Comment2 min read",
+    "description": "Alvaro MontoroAlvaro MontoroAlvaro MontoroFollowAug 24comiCSS #255: Yellow#watercooler#css#webdev#humor14reactionsCommentsAdd Comment2 min read",
     "tags": "#watercooler, #css, #webdev, #humor",
-    "reactions": "13 reactions",
+    "reactions": "14 reactions",
     "comments": "Comments Add Comment",
     "url": "https://dev.to/alvaromontoro/comicss-255-yellow-1bj"
   }
