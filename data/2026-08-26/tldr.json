@@ -110,16 +110,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Alibaba launches Wan3.0 AI video model after record $10 billion share sale (2 minute read)",
-    "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-launches-wan3-0-ai-131300534.html",
-    "description": "Alibaba launches Wan3.0 AI video model after record $10 billion share sale (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-26",
-    "site_name": "tldr"
-  },
-  {
     "title": "Anonymous Ox Alpha processes 26T tokens on OpenCode, breaks OpenRouter launch record (4 minute read)",
     "url": "https://runtimewire.com/article/anonymous-ox-alpha-processes-26t-tokens-on-opencode-breaks-openrouter-launch-rec",
     "description": "Anonymous Ox Alpha processes 26T tokens on OpenCode, breaks OpenRouter launch record (4 minute read)",
@@ -373,6 +363,16 @@
     "title": "Databasus (GitHub Repo)",
     "url": "https://github.com/databasus/databasus",
     "description": "Databasus (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Deputy (GitHub Repo)",
+    "url": "https://github.com/temporalio/deputy",
+    "description": "Deputy (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -1040,26 +1040,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Tata's B2B Platform Returned OTPs in API Responses (2 minute read)",
-    "url": "https://eaton-works.com/2026/08/24/tata-nexarc-hack",
-    "description": "Tata's B2B Platform Returned OTPs in API Responses (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Tesla confirms Cybercab launch coming next week (5 minute read)",
-    "url": "https://electrek.co/2026/08/24/tesla-cybercab-exclusive-access-robotaxi-sept-3/",
-    "description": "Tesla confirms Cybercab launch coming next week (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-26",
-    "site_name": "tldr"
-  },
-  {
     "title": "The AI-Native SDLC playbook (8 minute read)",
     "url": "https://claude.com/blog-category/enterprise-ai",
     "description": "The AI-Native SDLC playbook (8 minute read)",
@@ -1243,6 +1223,16 @@
     "title": "We Urgently Need a Coherent National AI Cybersecurity Policy (4 minute read)",
     "url": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
     "description": "We Urgently Need a Coherent National AI Cybersecurity Policy (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "When code is abundant (31 minute read)",
+    "url": "https://about.gitlab.com/blog/when-code-is-abundant/",
+    "description": "When code is abundant (31 minute read)",
     "tags": [
       "tldr"
     ],
