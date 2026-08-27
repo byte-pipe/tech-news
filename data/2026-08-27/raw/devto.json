@@ -5,19 +5,9 @@
     "date": "2026-08-26",
     "description": "Targeted at devs past the basicsSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowAug 2610 Git Commands You’ll Wish You Knew Earlier#git#programmi...",
     "tags": "#git, #programming, #productivity, #beginners",
-    "reactions": "70 reactions",
-    "comments": "Comments 28 comments",
+    "reactions": "121 reactions",
+    "comments": "Comments 60 comments",
     "url": "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp"
-  },
-  {
-    "title": "1ª vez trabalhando com git em um time: tudo que você precisa saber",
-    "author": "vitoriazzp",
-    "date": "2026-08-20",
-    "description": "vitoriazzpvitoriazzpvitoriazzpFollowforHe4rt DevelopersAug 201ª vez trabalhando com git em um time: tudo que você precisa saber#braziliandevs#opensour...",
-    "tags": "#braziliandevs, #opensource, #github, #beginners",
-    "reactions": "56 reactions",
-    "comments": "Comments 1 comment",
-    "url": "https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il"
   },
   {
     "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
@@ -25,19 +15,19 @@
     "date": "2026-08-24",
     "description": "89 percent of guardrails never tested for failureHeinrich NebHeinrich NebHeinrich NebFollowAug 24AI promoted every developer to reviewer. Nobody teste...",
     "tags": "#discuss, #ai, #productivity, #testing",
-    "reactions": "43 reactions",
-    "comments": "Comments 51 comments",
+    "reactions": "52 reactions",
+    "comments": "Comments 59 comments",
     "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h"
   },
   {
-    "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
-    "author": "Gbemisola Esho",
-    "date": "2026-08-20",
-    "description": "Gbemisola EshoGbemisola EshoGbemisola EshoFollowforGoogle Developer ExpertsAug 20Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time wi...",
-    "tags": "#ai, #videoproduction, #creativeindustry, #aifilmaking",
-    "reactions": "11 reactions",
-    "comments": "Comments 6 comments",
-    "url": "https://dev.to/gde/breaking-the-multimodal-barrier-exploring-gemini-omni-and-my-time-with-gdg-calabar-569o"
+    "title": "Back from Wudang Mountain. The book is under review.",
+    "author": "xulingfeng",
+    "date": "2026-08-26",
+    "description": "Surviving a near-miss landslide and a book updatexulingfengxulingfengxulingfengFollowAug 26Back from Wudang Mountain. The book is under review.#discus...",
+    "tags": "#discuss, #career, #programming, #community",
+    "reactions": "60 reactions",
+    "comments": "Comments 25 comments",
+    "url": "https://dev.to/xulingfeng/back-from-wudang-mountain-the-book-is-under-review-2o3b"
   },
   {
     "title": "Dev Opportunity Radar #13: a16z Alpha, a $740K Hackathon, and an AI Agent Competition",
@@ -50,14 +40,34 @@
     "url": "https://dev.to/devengers/dev-opportunity-radar-13-a16z-alpha-a-740k-hackathon-and-an-ai-agent-competition-1l1i"
   },
   {
+    "title": "FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views",
+    "author": "Randal L. Schwartz",
+    "date": "2026-08-26",
+    "description": "Randal L. SchwartzRandal L. SchwartzRandal L. SchwartzFollowforGoogle Developer ExpertsAug 26FutureBuilder and StreamBuilder as Anti-Patterns: Why You...",
+    "tags": "#flutter, #dart, #architecture, #statemanagement",
+    "reactions": "7 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g"
+  },
+  {
     "title": "HTML is getting cool again: Meet the Invoker Commands API",
     "author": "Alexandra",
     "date": "2026-08-22",
     "description": "Exposes how LLMs miss modern browser capabilitiesAlexandraAlexandraAlexandraFollowAug 22HTML is getting cool again: Meet the Invoker Commands API#webd...",
     "tags": "#webdev, #a11y",
-    "reactions": "40 reactions",
-    "comments": "Comments 17 comments",
+    "reactions": "51 reactions",
+    "comments": "Comments 19 comments",
     "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367"
+  },
+  {
+    "title": "I Tested 5 Design to Code Tools With the Same Outdated SaaS Dashboard",
+    "author": "Hadil Ben Abdallah",
+    "date": "2026-08-26",
+    "description": "Code quality analyzed alongside visualsHadil Ben AbdallahHadil Ben AbdallahHadil Ben AbdallahFollowAug 26I Tested 5 Design to Code Tools With the Same...",
+    "tags": "#ai, #design, #coding, #programming",
+    "reactions": "41 reactions",
+    "comments": "Comments 14 comments",
+    "url": "https://dev.to/hadil/i-tested-5-design-to-code-tools-with-the-same-outdated-saas-dashboard-1ijk"
   },
   {
     "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
@@ -65,8 +75,8 @@
     "date": "2026-08-24",
     "description": "Puts a 100k-row space dataset to the testHadil Ben AbdallahHadil Ben AbdallahHadil Ben AbdallahFollowAug 24I Used React DataGrid to Build a Real Space...",
     "tags": "#webdev, #programming, #react, #nextjs",
-    "reactions": "71 reactions",
-    "comments": "Comments 23 comments",
+    "reactions": "79 reactions",
+    "comments": "Comments 32 comments",
     "url": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b"
   },
   {
@@ -80,34 +90,14 @@
     "url": "https://dev.to/fm/i-won-a-writing-challenge-that-i-almost-didnt-publish-2cn0"
   },
   {
-    "title": "I wrote a test for prompt injection. It passed while the attack worked.",
-    "author": "Marco",
-    "date": "2026-08-20",
-    "description": "Summer Bug Smash: Smash Stories 🐛🛹MarcoMarcoMarcoFollowAug 20I wrote a test for prompt injection. It passed while the attack worked.#devchallenge#bugs...",
-    "tags": "#devchallenge, #bugsmash, #security, #ai",
-    "reactions": "9 reactions",
-    "comments": "Comments 52 comments",
-    "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9"
-  },
-  {
-    "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
-    "author": "Ben Halpern",
+    "title": "Portfolio Update, I Guess",
+    "author": "Adam - The Developer ✨",
     "date": "2026-08-26",
-    "description": "Author leads by example using the new tagBen HalpernBen HalpernBen HalpernFollowforThe DEV TeamAug 26Introducing AI Disclosure on DEV: Tools for Nuanc...",
-    "tags": "#showdev, #announcements, #ai, #community",
-    "reactions": "44 reactions",
-    "comments": "Comments 2 comments",
-    "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk"
-  },
-  {
-    "title": "State Management in Front-end Web Development: Mutators",
-    "author": "Abbey Perini",
-    "date": "2026-08-19",
-    "description": "Weighs mutable speed against race conditionsAbbey PeriniAbbey PeriniAbbey PeriniFollowAug 19State Management in Front-end Web Development: Mutators#we...",
-    "tags": "#webdev, #react, #vue, #javascript",
-    "reactions": "27 reactions",
-    "comments": "Comments 8 comments",
-    "url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp"
+    "description": "Features a hilarious edgy teenage mode toggleAdam - The Developer ✨Adam - The Developer ✨Adam - The Developer ✨FollowAug 26Portfolio Update, I Guess#w...",
+    "tags": "#webdev, #programming, #productivity, #javascript",
+    "reactions": "24 reactions",
+    "comments": "Comments 3 comments",
+    "url": "https://dev.to/adamthedeveloper/portfolio-update-i-guess-4ob3"
   },
   {
     "title": "The Model Scored 30%. The Harness Scored 100%. Which One Did You Benchmark?",
@@ -115,38 +105,28 @@
     "date": "2026-08-24",
     "description": "Harnesses drive massive score jumpsSergei ParfenovSergei ParfenovSergei ParfenovFollowAug 24The Model Scored 30%. The Harness Scored 100%. Which One D...",
     "tags": "#ai, #llm, #agents, #machinelearning",
-    "reactions": "14 reactions",
-    "comments": "Comments 25 comments",
+    "reactions": "18 reactions",
+    "comments": "Comments 29 comments",
     "url": "https://dev.to/p0rt/the-model-scored-30-the-harness-scored-100-which-one-did-you-benchmark-3mp4"
   },
   {
-    "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
-    "author": "Ken W Alger",
-    "date": "2026-08-20",
-    "description": "Git analogy clarifies agent memory gapsKen W AlgerKen W AlgerKen W AlgerFollowAug 20The Reasoning Ledger: Remembering Decisions, Not Just Data#ai#agen...",
-    "tags": "#ai, #agents, #llm, #architecture",
-    "reactions": "50 reactions",
-    "comments": "Comments 57 comments",
-    "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm"
-  },
-  {
-    "title": "The test was green. Every real connection would have failed.",
-    "author": "Yash Kumar Saini",
-    "date": "2026-08-20",
-    "description": "Summer Bug Smash: Smash Stories 🐛🛹Yash Kumar SainiYash Kumar SainiYash Kumar SainiFollowAug 20The test was green. Every real connection would have fai...",
-    "tags": "#devchallenge, #bugsmash, #python, #testing",
-    "reactions": "39 reactions",
-    "comments": "Comments 4 comments",
-    "url": "https://dev.to/yashksaini/the-test-was-green-every-real-connection-would-have-failed-3e37"
+    "title": "The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking",
+    "author": "Dhruv Jani",
+    "date": "2026-08-22",
+    "description": "Summer Bug Smash: Smash Stories 🐛🛹Dhruv JaniDhruv JaniDhruv JaniFollowAug 22The Optimization That Was Too Good: Why Our Push Notifications Only Worked...",
+    "tags": "#devchallenge, #bugsmash, #javascript, #webdev",
+    "reactions": "47 reactions",
+    "comments": "Comments 32 comments",
+    "url": "https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d"
   },
   {
     "title": "What Do You Do While AI Codes?",
     "author": "Ashley Childress",
     "date": "2026-08-25",
-    "description": "The struggle to stop mid-taskAshley ChildressAshley ChildressAshley ChildressFollowAug 25What Do You Do While AI Codes?#discuss#ai#productivity#devex6...",
+    "description": "The struggle to stop mid-taskAshley ChildressAshley ChildressAshley ChildressFollowAug 25What Do You Do While AI Codes?#discuss#ai#productivity#devex8...",
     "tags": "#discuss, #ai, #productivity, #devex",
-    "reactions": "63 reactions",
-    "comments": "Comments 45 comments",
+    "reactions": "86 reactions",
+    "comments": "Comments 72 comments",
     "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"
   },
   {
@@ -168,6 +148,26 @@
     "reactions": "40 reactions",
     "comments": "Comments 34 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-1330"
+  },
+  {
+    "title": "Why I Built an SSH Config and Tunnel Manager for macOS",
+    "author": "Dusan Malusev",
+    "date": "2026-08-26",
+    "description": "Dusan MalusevDusan MalusevDusan MalusevFollowAug 26Why I Built an SSH Config and Tunnel Manager for macOS#ssh#macos#swift#tunneling71reactionsComments...",
+    "tags": "#ssh, #macos, #swift, #tunneling",
+    "reactions": "71 reactions",
+    "comments": "Comments 5 comments",
+    "url": "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8"
+  },
+  {
+    "title": "Your Hiring Process Needs HTTP Status Codes",
+    "author": "Ken W Alger",
+    "date": "2026-08-26",
+    "description": "Compares ATS black holes to broken APIsKen W AlgerKen W AlgerKen W AlgerFollowAug 26Your Hiring Process Needs HTTP Status Codes#discuss#career#humor#p...",
+    "tags": "#discuss, #career, #humor, #programming",
+    "reactions": "16 reactions",
+    "comments": "Comments 5 comments",
+    "url": "https://dev.to/kenwalger/your-hiring-process-needs-http-status-codes-png"
   },
   {
     "title": "comiCSS #255: Yellow",
