@@ -1,164 +1,232 @@
 [
   {
-    "title": "9th Circuit sides with states in Kalshi gambling fight",
-    "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-    "author": "hungryhobbit",
-    "date": "2026-08-29",
-    "score": 163,
-    "comments": 150,
-    "id": 49485452,
-    "discussion_url": "https://news.ycombinator.com/item?id=49485452",
-    "description": "9th Circuit sides with states in Kalshi gambling fight",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443544"
-  },
-  {
-    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "url": "https://github.com/Lakr233/vphone-cli",
-    "author": "hentrep",
-    "date": "2026-08-29",
-    "score": 360,
-    "comments": 95,
-    "id": 49485267,
-    "discussion_url": "https://news.ycombinator.com/item?id=49485267",
-    "description": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.442709"
-  },
-  {
-    "title": "Curvature Beziers: Improving on a timeless recipe",
-    "url": "https://acko.net/blog/curvature-beziers/",
-    "author": "leephillips",
-    "date": "2026-08-25",
-    "score": 149,
-    "comments": 27,
-    "id": 49422743,
-    "discussion_url": "https://news.ycombinator.com/item?id=49422743",
-    "description": "Curvature Beziers: Improving on a timeless recipe",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443392"
-  },
-  {
-    "title": "Debian votes to allow \"responsible use of generative AI\"",
-    "url": "https://lwn.net/Articles/1091231/",
-    "author": "pluc",
+    "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
+    "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+    "author": "toomuchtodo",
     "date": "2026-08-30",
-    "score": 449,
-    "comments": 389,
-    "id": 49489982,
-    "discussion_url": "https://news.ycombinator.com/item?id=49489982",
-    "description": "Debian votes to allow \"responsible use of generative AI\"",
+    "score": 94,
+    "comments": 64,
+    "id": 49495127,
+    "discussion_url": "https://news.ycombinator.com/item?id=49495127",
+    "description": "Algorithmic rent-pricing litigation expands under new state and local laws",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.442927"
+    "fetched_at": "2026-08-30T15:11:55.136859"
   },
   {
-    "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-    "author": "dev_l1x_be",
-    "date": "2026-08-29",
+    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+    "author": "vntok",
+    "date": "2026-08-30",
     "score": 125,
+    "comments": 53,
+    "id": 49496918,
+    "discussion_url": "https://news.ycombinator.com/item?id=49496918",
+    "description": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136736"
+  },
+  {
+    "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+    "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+    "author": "cisc",
+    "date": "2026-08-30",
+    "score": 87,
+    "comments": 48,
+    "id": 49494751,
+    "discussion_url": "https://news.ycombinator.com/item?id=49494751",
+    "description": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136876"
+  },
+  {
+    "title": "Brits would quite like their private messages to stay private",
+    "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+    "author": "defrost",
+    "date": "2026-08-30",
+    "score": 260,
+    "comments": 188,
+    "id": 49497063,
+    "discussion_url": "https://news.ycombinator.com/item?id=49497063",
+    "description": "Brits would quite like their private messages to stay private",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136797"
+  },
+  {
+    "title": "Bug Blindness",
+    "url": "https://danluu.com/bug-blind/",
+    "author": "davidmckenna",
+    "date": "2026-08-30",
+    "score": 328,
+    "comments": 206,
+    "id": 49494520,
+    "discussion_url": "https://news.ycombinator.com/item?id=49494520",
+    "description": "Bug Blindness",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136833"
+  },
+  {
+    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+    "url": "https://tucker.wales/writing/bias-towards-action/",
+    "author": "tuckerwales",
+    "date": "2026-08-29",
+    "score": 167,
+    "comments": 70,
+    "id": 49491714,
+    "discussion_url": "https://news.ycombinator.com/item?id=49491714",
+    "description": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136856"
+  },
+  {
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+    "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "author": "shscs911",
+    "date": "2026-08-30",
+    "score": 511,
+    "comments": 225,
+    "id": 49495372,
+    "discussion_url": "https://news.ycombinator.com/item?id=49495372",
+    "description": "California lawmakers unanimously pass Linux exemption from age-verification law",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136785"
+  },
+  {
+    "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+    "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+    "author": "surprisetalk",
+    "date": "2026-08-27",
+    "score": 148,
+    "comments": 45,
+    "id": 49463888,
+    "discussion_url": "https://news.ycombinator.com/item?id=49463888",
+    "description": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136807"
+  },
+  {
+    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+    "url": "https://github.com/anthropics/claude-code/issues/66504",
+    "author": "sparsesignal",
+    "date": "2026-08-30",
+    "score": 91,
+    "comments": 111,
+    "id": 49498201,
+    "discussion_url": "https://news.ycombinator.com/item?id=49498201",
+    "description": "Claude Session URL appended to commit messages and PR descriptions by default",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136830"
+  },
+  {
+    "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+    "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+    "author": "firefax",
+    "date": "2026-08-29",
+    "score": 420,
+    "comments": 94,
+    "id": 49492219,
+    "discussion_url": "https://news.ycombinator.com/item?id=49492219",
+    "description": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136862"
+  },
+  {
+    "title": "Domain-Driven Agents",
+    "url": "https://coldtake.dev/blog/domain-driven-agents",
+    "author": "AlarQ",
+    "date": "2026-08-29",
+    "score": 88,
+    "comments": 20,
+    "id": 49492584,
+    "discussion_url": "https://news.ycombinator.com/item?id=49492584",
+    "description": "Domain-Driven Agents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136913"
+  },
+  {
+    "title": "FreeCORE TrueNAS Core – Continued",
+    "url": "https://freecore.org/",
+    "author": "sashk",
+    "date": "2026-08-30",
+    "score": 147,
     "comments": 75,
-    "id": 49485532,
-    "discussion_url": "https://news.ycombinator.com/item?id=49485532",
-    "description": "Does the Sumerian King List Align with Paleoclimate Events?",
+    "id": 49494856,
+    "discussion_url": "https://news.ycombinator.com/item?id=49494856",
+    "description": "FreeCORE TrueNAS Core – Continued",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443326"
+    "fetched_at": "2026-08-30T15:11:55.136732"
   },
   {
-    "title": "EVE Online moves to Python 3",
-    "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-    "author": "TylerJaacks",
-    "date": "2026-08-25",
-    "score": 232,
-    "comments": 117,
-    "id": 49433328,
-    "discussion_url": "https://news.ycombinator.com/item?id=49433328",
-    "description": "EVE Online moves to Python 3",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.442941"
-  },
-  {
-    "title": "EasyEffects can improve laptop speaker sound quality",
-    "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-    "author": "birdculture",
+    "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+    "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+    "author": "matt_d",
     "date": "2026-08-29",
-    "score": 194,
-    "comments": 78,
-    "id": 49479924,
-    "discussion_url": "https://news.ycombinator.com/item?id=49479924",
-    "description": "EasyEffects can improve laptop speaker sound quality",
+    "score": 110,
+    "comments": 42,
+    "id": 49492368,
+    "discussion_url": "https://news.ycombinator.com/item?id=49492368",
+    "description": "Functional State Machines in Rust: Typestate and Newtype Patterns",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443405"
-  },
-  {
-    "title": "GLM-5.3 is now open-weight",
-    "url": "https://huggingface.co/zai-org/GLM-5.3",
-    "author": "jeudesprits",
-    "date": "2026-08-29",
-    "score": 768,
-    "comments": 262,
-    "id": 49479878,
-    "discussion_url": "https://news.ycombinator.com/item?id=49479878",
-    "description": "GLM-5.3 is now open-weight",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443379"
-  },
-  {
-    "title": "GUIs should be fully keyboard-driven",
-    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-    "author": "ckardaris",
-    "date": "2026-08-29",
-    "score": 987,
-    "comments": 487,
-    "id": 49479837,
-    "discussion_url": "https://news.ycombinator.com/item?id=49479837",
-    "description": "GUIs should be fully keyboard-driven",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443365"
+    "fetched_at": "2026-08-30T15:11:55.136845"
   },
   {
     "title": "Glacier Mice",
     "url": "https://en.wikipedia.org/wiki/Glacier_mice",
     "author": "ostacke",
-    "date": "2026-08-25",
-    "score": 203,
-    "comments": 42,
+    "date": "2026-08-24",
+    "score": 321,
+    "comments": 66,
     "id": 49424320,
     "discussion_url": "https://news.ycombinator.com/item?id=49424320",
     "description": "Glacier Mice",
@@ -167,185 +235,185 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443031"
+    "fetched_at": "2026-08-30T15:11:55.136847"
   },
   {
-    "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-    "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-    "author": "400thecat",
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "author": "gpi",
+    "date": "2026-08-29",
+    "score": 421,
+    "comments": 105,
+    "id": 49491568,
+    "discussion_url": "https://news.ycombinator.com/item?id=49491568",
+    "description": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136888"
+  },
+  {
+    "title": "Hacking IKEA Furniture",
+    "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+    "author": "greenlightning",
     "date": "2026-08-30",
-    "score": 165,
-    "comments": 57,
-    "id": 49490702,
-    "discussion_url": "https://news.ycombinator.com/item?id=49490702",
-    "description": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+    "score": 110,
+    "comments": 48,
+    "id": 49497810,
+    "discussion_url": "https://news.ycombinator.com/item?id=49497810",
+    "description": "Hacking IKEA Furniture",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443248"
+    "fetched_at": "2026-08-30T15:11:55.136739"
   },
   {
-    "title": "Htmx 4.0",
-    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "author": "rmsaksida",
-    "date": "2026-08-28",
-    "score": 786,
-    "comments": 196,
-    "id": 49478178,
-    "discussion_url": "https://news.ycombinator.com/item?id=49478178",
-    "description": "Htmx 4.0",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.442693"
-  },
-  {
-    "title": "I accidentally turned LLM memory into program analysis",
-    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "author": "matt_d",
+    "title": "Hy4 preview",
+    "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "author": "shenli3514",
     "date": "2026-08-29",
-    "score": 259,
-    "comments": 71,
-    "id": 49485416,
-    "discussion_url": "https://news.ycombinator.com/item?id=49485416",
-    "description": "I accidentally turned LLM memory into program analysis",
+    "score": 355,
+    "comments": 212,
+    "id": 49492632,
+    "discussion_url": "https://news.ycombinator.com/item?id=49492632",
+    "description": "Hy4 preview",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.442764"
+    "fetched_at": "2026-08-30T15:11:55.136801"
   },
   {
-    "title": "Iceland votes on whether to restart talks on joining EU",
-    "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
-    "author": "tosh",
+    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+    "author": "DeepLogin",
     "date": "2026-08-29",
-    "score": 309,
-    "comments": 389,
-    "id": 49489057,
-    "discussion_url": "https://news.ycombinator.com/item?id=49489057",
-    "description": "Iceland votes on whether to restart talks on joining EU",
+    "score": 369,
+    "comments": 254,
+    "id": 49494182,
+    "discussion_url": "https://news.ycombinator.com/item?id=49494182",
+    "description": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443556"
+    "fetched_at": "2026-08-30T15:11:55.136839"
   },
   {
-    "title": "Inception-style curved map for turn-by-turn directions",
-    "url": "https://www.orbify.eu/demo/",
-    "author": "smoser",
-    "date": "2026-08-28",
-    "score": 591,
-    "comments": 186,
-    "id": 49477564,
-    "discussion_url": "https://news.ycombinator.com/item?id=49477564",
-    "description": "Inception-style curved map for turn-by-turn directions",
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "url": "https://arxiv.org/abs/1804.07389",
+    "author": "joebig",
+    "date": "2026-08-30",
+    "score": 145,
+    "comments": 40,
+    "id": 49496782,
+    "discussion_url": "https://news.ycombinator.com/item?id=49496782",
+    "description": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.442794"
+    "fetched_at": "2026-08-30T15:11:55.136788"
   },
   {
-    "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-    "author": "jbegley",
-    "date": "2026-08-28",
-    "score": 600,
-    "comments": 420,
-    "id": 49473522,
-    "discussion_url": "https://news.ycombinator.com/item?id=49473522",
-    "description": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443481"
-  },
-  {
-    "title": "Just the rumour of a bug is enough to find an exploit these days",
-    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-    "author": "avsm",
+    "title": "Nancy Grace Roman Space Telescope",
+    "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+    "author": "JumpCrisscross",
     "date": "2026-08-29",
-    "score": 373,
-    "comments": 118,
-    "id": 49480466,
-    "discussion_url": "https://news.ycombinator.com/item?id=49480466",
-    "description": "Just the rumour of a bug is enough to find an exploit these days",
+    "score": 247,
+    "comments": 87,
+    "id": 49490870,
+    "discussion_url": "https://news.ycombinator.com/item?id=49490870",
+    "description": "Nancy Grace Roman Space Telescope",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.442862"
+    "fetched_at": "2026-08-30T15:11:55.136771"
   },
   {
-    "title": "Migrating to HTTPX2",
-    "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-    "author": "tosh",
-    "date": "2026-08-28",
-    "score": 209,
-    "comments": 95,
-    "id": 49477212,
-    "discussion_url": "https://news.ycombinator.com/item?id=49477212",
-    "description": "Migrating to HTTPX2",
+    "title": "No AI Fridays",
+    "url": "https://noaifridays.com/",
+    "author": "xendo",
+    "date": "2026-08-30",
+    "score": 102,
+    "comments": 36,
+    "id": 49498095,
+    "discussion_url": "https://news.ycombinator.com/item?id=49498095",
+    "description": "No AI Fridays",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443430"
+    "fetched_at": "2026-08-30T15:11:55.136743"
   },
   {
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-    "author": "meetpateltech",
+    "title": "Quantifying Colour",
+    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+    "author": "vismit2000",
     "date": "2026-08-29",
-    "score": 764,
-    "comments": 469,
-    "id": 49486172,
-    "discussion_url": "https://news.ycombinator.com/item?id=49486172",
-    "description": "Our decision on Cursor following its acquisition by SpaceX",
+    "score": 98,
+    "comments": 8,
+    "id": 49490832,
+    "discussion_url": "https://news.ycombinator.com/item?id=49490832",
+    "description": "Quantifying Colour",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443300"
+    "fetched_at": "2026-08-30T15:11:55.136895"
   },
   {
-    "title": "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
-    "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally/",
-    "author": "speckx",
-    "date": "2026-08-29",
-    "score": 128,
-    "comments": 96,
-    "id": 49479951,
-    "discussion_url": "https://news.ycombinator.com/item?id=49479951",
-    "description": "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
+    "title": "RISC-V is now officially supported by CPython",
+    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+    "author": "lumpa",
+    "date": "2026-08-24",
+    "score": 241,
+    "comments": 44,
+    "id": 49425252,
+    "discussion_url": "https://news.ycombinator.com/item?id=49425252",
+    "description": "RISC-V is now officially supported by CPython",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443493"
+    "fetched_at": "2026-08-30T15:11:55.136795"
+  },
+  {
+    "title": "SQLite as a Document Database (2020)",
+    "url": "https://dgl.cx/2020/06/sqlite-json-support",
+    "author": "lioeters",
+    "date": "2026-08-24",
+    "score": 233,
+    "comments": 54,
+    "id": 49426995,
+    "discussion_url": "https://news.ycombinator.com/item?id=49426995",
+    "description": "SQLite as a Document Database (2020)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-08-30T15:11:55.136827"
   },
   {
     "title": "Samsung's Processing-in-Memory (PIM)",
     "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
     "author": "ingve",
     "date": "2026-08-29",
-    "score": 219,
-    "comments": 75,
+    "score": 271,
+    "comments": 105,
     "id": 49487341,
     "discussion_url": "https://news.ycombinator.com/item?id=49487341",
     "description": "Samsung's Processing-in-Memory (PIM)",
@@ -354,49 +422,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443175"
+    "fetched_at": "2026-08-30T15:11:55.136850"
   },
   {
-    "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
-    "url": "https://www.nature.com/articles/d41586-026-02506-4",
-    "author": "sohkamyung",
-    "date": "2026-08-28",
-    "score": 150,
-    "comments": 213,
-    "id": 49477559,
-    "discussion_url": "https://news.ycombinator.com/item?id=49477559",
-    "description": "Smaller reactors bring nuclear power closer to fulfilling its promise",
+    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+    "url": "https://typebase.io",
+    "author": "andrewww-dev",
+    "date": "2026-08-26",
+    "score": 110,
+    "comments": 30,
+    "id": 49447178,
+    "discussion_url": "https://news.ycombinator.com/item?id=49447178",
+    "description": "Show HN: Typebase – A single-folder back end you write in TypeScript",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443531"
-  },
-  {
-    "title": "State of the Map 2026",
-    "url": "https://2026.stateofthemap.org/",
-    "author": "lode",
-    "date": "2026-08-28",
-    "score": 176,
-    "comments": 54,
-    "id": 49478401,
-    "discussion_url": "https://news.ycombinator.com/item?id=49478401",
-    "description": "State of the Map 2026",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443506"
+    "fetched_at": "2026-08-30T15:11:55.136926"
   },
   {
     "title": "StemDeck, a free, open-source and local AI stem separator",
     "url": "https://github.com/stemdeckapp/stemdeck",
     "author": "thclpr",
     "date": "2026-08-29",
-    "score": 186,
-    "comments": 57,
+    "score": 232,
+    "comments": 61,
     "id": 49486081,
     "discussion_url": "https://news.ycombinator.com/item?id=49486081",
     "description": "StemDeck, a free, open-source and local AI stem separator",
@@ -405,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.442750"
+    "fetched_at": "2026-08-30T15:11:55.136866"
   },
   {
     "title": "Tether: iMessage, SMS, etc. on Linux",
     "url": "https://zackbartel.com/blog/2026/08/tether/",
     "author": "zackb",
     "date": "2026-08-24",
-    "score": 176,
-    "comments": 88,
+    "score": 502,
+    "comments": 201,
     "id": 49415386,
     "discussion_url": "https://news.ycombinator.com/item?id=49415386",
     "description": "Tether: iMessage, SMS, etc. on Linux",
@@ -422,49 +473,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443074"
+    "fetched_at": "2026-08-30T15:11:55.136781"
   },
   {
-    "title": "The Internet Is Kind of a Predatory Cesspit Now",
-    "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-    "author": "ibobev",
-    "date": "2026-08-30",
-    "score": 209,
-    "comments": 108,
-    "id": 49492193,
-    "discussion_url": "https://news.ycombinator.com/item?id=49492193",
-    "description": "The Internet Is Kind of a Predatory Cesspit Now",
+    "title": "The Rise and Fall of Agent Civilizations",
+    "url": "https://www.dwarkesh.com/p/openai-huggingface",
+    "author": "consumer451",
+    "date": "2026-08-29",
+    "score": 162,
+    "comments": 92,
+    "id": 49494301,
+    "discussion_url": "https://news.ycombinator.com/item?id=49494301",
+    "description": "The Rise and Fall of Agent Civilizations",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.442643"
-  },
-  {
-    "title": "The Twelve-Factor App (2025)",
-    "url": "https://12factor.net/",
-    "author": "jxmorris12",
-    "date": "2026-08-28",
-    "score": 301,
-    "comments": 165,
-    "id": 49472216,
-    "discussion_url": "https://news.ycombinator.com/item?id=49472216",
-    "description": "The Twelve-Factor App (2025)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443313"
+    "fetched_at": "2026-08-30T15:11:55.136906"
   },
   {
     "title": "TurboKV: Insanely fast Rust key-value store",
     "url": "https://github.com/kingroryg/turbokv",
     "author": "rgbimbochamp",
     "date": "2026-08-29",
-    "score": 166,
-    "comments": 80,
+    "score": 178,
+    "comments": 85,
     "id": 49486334,
     "discussion_url": "https://news.ycombinator.com/item?id=49486334",
     "description": "TurboKV: Insanely fast Rust key-value store",
@@ -473,40 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.442907"
-  },
-  {
-    "title": "U.S. sanctions against the A/I Collective",
-    "url": "https://www.inventati.org/",
-    "author": "exiguus",
-    "date": "2026-08-28",
-    "score": 692,
-    "comments": 717,
-    "id": 49477854,
-    "discussion_url": "https://news.ycombinator.com/item?id=49477854",
-    "description": "U.S. sanctions against the A/I Collective",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443468"
-  },
-  {
-    "title": "Verschlimmbesserung: The Word Your Software Updates Need",
-    "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-    "author": "speckx",
-    "date": "2026-08-29",
-    "score": 162,
-    "comments": 108,
-    "id": 49479072,
-    "discussion_url": "https://news.ycombinator.com/item?id=49479072",
-    "description": "Verschlimmbesserung: The Word Your Software Updates Need",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-08-30T06:00:21.443443"
+    "fetched_at": "2026-08-30T15:11:55.136921"
   }
 ]
