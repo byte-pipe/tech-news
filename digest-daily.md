@@ -1,82 +1,78 @@
 ---
-date: '2026-08-30'
+date: '2026-08-31'
 model: gpt-oss:120b-cloud
-generated_at: '2026-08-30T06:04:02.606571'
+generated_at: '2026-08-31T02:24:00.854679'
 ---
 
 ## Executive Summary
-- Open‑source tools are making private AI deployment easier, with Osmantic’s ODS turning any PC into a full‑stack LLM server and THU‑MAIC’s OpenMAIC delivering one‑click multi‑agent classrooms.  
-- The open‑source community is formalising AI use: Debian voted for “Responsible Use of Generative AI,” while OpenAI announced the termination of its partnership with Cursor after SpaceX’s acquisition.  
-- Developers gain new productivity layers: Tencent’s BrowserSkill lets AI agents operate a real logged‑in browser, and the EVE Online codebase is progressing toward a Python 3 migration that promises performance gains.  
-- Core infrastructure updates include the OpenAI Python SDK’s switch to HTTPX2, SQLite’s new JSON‑generated columns enabling document‑store capabilities, and the lightweight htmx library simplifying progressive‑enhancement web development.  
+- Apple announced its first service‑price hikes in years, raising Apple TV and Apple One plans by up to 20 %, signaling a push for profitability in its services division.  
+- The “No AI Fridays” movement gains traction as companies encourage a weekly AI‑free day to curb cognitive debt and reduce token costs.  
+- Technical deep‑dives revealed both opportunities and challenges: Gemma 4 can be served on pure‑JAX across TPUs and GPUs, while RISC‑V now enjoys tier‑3 CPython support, and DuckDB demonstrates the shift toward in‑process analytics.  
+- Disinformation risks rise with AI‑generated deepfakes of late‑night hosts, and infrastructure strain resurfaces as AI‑training crawlers consume 20 % of git.kernel.org’s compute capacity.  
+- NASA’s Roman Space Telescope is set for an August 30 2026 launch, promising a billion‑galaxy survey to probe dark energy and exoplanets.
 
 ---
 
-## AI and Machine Learning
+## AI and Machine Learning (6 articles)
 
-- **Osmantic Deployment System (ODS) launches a one‑command private AI server** [GitHub]  
-  ODS bundles local LLM inference, a ChatGPT‑style UI, voice agents, RAG, and image generation into a Docker‑based installer for Linux, macOS, and Windows, offering an offline alternative to cloud APIs.
+### Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn’t – DEV Community [devto]  
+Gemma 4 was successfully served from a single JAX codebase on TPUs and NVIDIA GPUs, exposing four model irregularities that break other stacks but are handled natively by XLA. The analysis highlights dtype selection based on device capability, Pallas kernel memory‑model mismatches, and a padding‑eviction bug that can produce looping “The The The …” output while still returning HTTP 200.
 
-- **OpenMAIC releases version 1.0.0, a one‑click multi‑agent classroom platform** [GitHub]  
-  The update adds an agent workbench, durable sessions, 20 built‑in skills, and support for dozens of LLM providers, enabling educators to generate interactive lessons and export them as PPTX or HTML.
+### GitHub – handsomestWei/patent-disclosure-skill – GitHub [github]  
+The open‑source “中国专利.skill” automates patent‑disclosure drafting, policy monitoring, and exam‑response assistance, integrating with Obsidian for knowledge‑graph generation and supporting multi‑format input (DOCX, STEP, etc.). It offers command‑line interfaces for generating invention, utility‑model, and design patents, plus automated prior‑art searches.
 
-- **Workweave’s Router provides sub‑50 ms model selection for agentic systems** [GitHub]  
-  Acting as a drop‑in proxy for Anthropic, OpenAI, Gemini and open‑source models, the router routes each request to the cheapest adequate model, cutting LLM costs by 40‑70 % while keeping API keys on‑premise.
+### Casey Muratori – The Root of The Root of All Evil – BSC 2026 – YouTube [hackernews_api]  
+*Content not provided; unable to summarize.*
 
-- **Debian adopts a “Responsible Use of Generative AI” policy** [LWN.net]  
-  The project voted to allow AI‑generated contributions provided they meet existing quality, legal, and maintenance standards, leaving responsibility for the output on the human author.
+### No AI Fridays – Hacker News [hackernews_api]  
+A movement championed by the CEO of HTMX proposes a weekly “AI‑free” day to mitigate cognitive debt, improve critical thinking, and cut token usage, encouraging manual coding, documentation reading, and limited tool use. Companies can join by contacting the organizer @lazilyevaluated.
 
-- **OpenAI ends its contract with Cursor following SpaceX’s acquisition** [OpenAI]  
-  Citing compliance concerns after the takeover, OpenAI will cease providing its models to Cursor on 12 Nov 2026, while offering transition support for developers.
+### Apple One and Apple TV subscription prices increase by up to 20 percent – Ars Technica [newsfeed]  
+Apple raises Apple TV monthly from $13 to $15 and annual from $99 to $119, while Apple One bundles climb $2‑$4 across tiers. The hikes follow years of content spending; services now represent 28 % of Apple’s revenue but Apple TV remains the only unprofitable service, losing >$1 billion annually.
 
-- **Glacier mice research uncovers self‑propelled moss colonies on ice** [Wikipedia]  
-  These moss “mice” roll southward by melting ice beneath their dark surfaces, creating micro‑habitats that support diverse microorganisms and can live for six years or more.
-
-- **Tether bridges Linux desktops and iPhones for Continuity‑style features** [HNRSS]  
-  The open‑source project implements clipboard sync, file transfer, OTP autofill, and Bluetooth‑based iMessage/SMS integration, using mutual TLS and clean‑room C++ for security.
-
-- **Milo Yiannopoulos deported to the United Kingdom by ICE** [The Verge]  
-  After overstaying his visa and missing a court appearance, the far‑right commentator was removed from the U.S., ending a high‑profile immigration saga.
+### Ditch Cold Email Personalization for Better Results – LinkedIn [tldr]  
+*Content not provided; unable to summarize.*
 
 ---
 
-## Cybersecurity and Privacy
+## Cybersecurity and Privacy (3 articles)
 
-- **Partial GrapheneOS port to Pixel 11 highlights missing ARM memory‑tagging support** [Bluesky]  
-  A week‑long effort produced a working build, but the lack of hardware‑level memory tagging—presumably omitted by Google to cut costs—blocks full security hardening.
+### Dun & Bradstreet Brings Commercial Graph to Perplexity – Digital IT News [tldr]  
+*Only a headline and date (Aug 27 2026) were supplied; no further details available.*
 
-- **Opinion: The Internet has become a predatory cesspit** [HNRSS]  
-  The essay argues that modern platforms now actively steer users toward scams and “grift” economies, turning attention into a monetised pipeline that rewards sensationalism over accuracy.
+### Edge Infrastructure Under Siege: What Two Independent Datasets Reveal About Who's Exploiting Your Perimeter – TLDR [tldr]  
+The article promotes Singularity Marketplace’s one‑click security‑tool integrations, emphasizing unified prevention, detection, and response capabilities. No specific incident data were included.
+
+### Employee benefits platform Paylogix says hackers stole financial and health data – The Record (Recorded Future) [tldr]  
+*No article text provided; unable to summarize.*
 
 ---
 
-## Software Engineering and Dev Tools
+## Software Engineering and Dev Tools (5 articles)
 
-- **htmx 2.0.10 offers high‑power HTML attributes for AJAX, SSE, and WebSockets** [GitHub]  
-  The 14 KB library lets developers trigger HTTP requests and dynamic page swaps directly from HTML tags, removing the need for heavy JavaScript frameworks.
+### Microduck RL – RL training environments for Microduck – GitHub [github]  
+The repository delivers a full sim‑to‑real pipeline for an 800 g bipedal robot, using MuJoCo Warp and PPO to train policies for walking, manipulation, and tricks, with domain‑randomized actuator models and ONNX export for deployment. Quick‑start scripts enable GPU‑accelerated training in 1–2 hours.
 
-- **User‑Scanner 2‑in‑1 OSINT suite scans 455+ email and username vectors** [GitHub]  
-  The Python tool performs deep cross‑platform profiling, proxy rotation, and can expose breach data via a Model Context Protocol server for LLM agents.
+### Creepy crawlies — Konstantin Ryabitsev – Hacker News [hackernews_api]  
+Scrapers that render individual git.kernel.org commits consume ~20 % of the site’s CPU (14‑16 cores) by requesting HTML pages instead of cloning, prompting the deployment of a proof‑of‑work “Anubis” challenge that now blocks two‑thirds of traffic but is being circumvented by adaptive bots.
 
-- **OpenAI Python SDK migrates to HTTPX2 for all network calls** [GitHub]  
-  The new client uses the OS trust store, simplifying container deployments but requiring custom CA handling in restricted environments.
+### RISC‑V is now officially supported by CPython! – Python Insider [hackernews_api]  
+CPython has achieved tier‑3 support for RISC‑V after extensive community contributions, hardware testing, and CI integration, with plans to promote to tier‑2 and explore architecture‑specific optimizations. The effort was funded by the Sovereign Tech Agency and coordinated with the RISE project.
 
-- **EVE Online begins its Python 3 migration, a trending development** [Hacker News]  
-  The massive codebase (≈2.4 M lines) is now 95.9 % compatible with both Python 2.7 and 3, with the first “Python‑ready” changes deployed invisibly to players, promising future performance and tooling benefits.
+### Deepfake Jimmy Kimmels and Jon Stewarts are everywhere – NPR [newsfeed]  
+AI‑generated deepfakes of late‑night hosts are proliferating on TikTok, YouTube, and Instagram, exploiting the hosts’ static framing and abundant audio archives to spread disinformation; platform labeling policies are inconsistent, raising concerns for media literacy and political manipulation.
 
-- **SQLite’s generated columns enable document‑store functionality** [HNRSS]  
-  By storing raw JSON in a TEXT field and extracting indexed virtual columns, SQLite can serve as an embedded document database without a separate server.
+### DuckDB and the changing physics of analytics – All Things Distributed [tldr]  
+DuckDB exemplifies the shift from distributed query engines to in‑process analytics, leveraging modern memory and CPU speeds to run complex SQL workloads inside a single application, and now integrates tightly with AWS S3 via the DuckLabs team.
 
-- **BrowserSkill lets AI agents control a real logged‑in browser without disrupting the user** [GitHub]  
-  The CLI and browser extension allow agents like Cursor, Claude Code, and DeepSeek Harness to borrow a tab, perform tasks, and return it, preserving login state and supporting human‑in‑the‑loop interventions.
+---
 
-- **Thread by @0xApollo440 missing content notice** [TLDR]  
-  The request lacked the article text needed for summarisation.
+## Science and Research (1 article)
+
+### Nancy Grace Roman Space Telescope – NASA Science [hackernews_api]  
+NASA’s Roman Space Telescope, launching Aug 30 2026, will survey a billion galaxies with a field of view 100 × larger than Hubble, targeting dark‑energy mapping, exoplanet census, and infrared astrophysics, supported by extensive media assets and interactive visualizations.
 
 ---
 
 ## Notable Mentions
-- An Anthropic researcher just gave us a peek at self‑improving AI | TechCrunch  
-- An update on AI’s most important number | TLDR  
-- Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident - METR | TLDR  
-- Building an AI factory on Kubernetes | CNCF | TLDR
+- *No items were listed under a separate “Notable Mentions” section in the source material.*
