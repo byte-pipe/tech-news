@@ -280,16 +280,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Building May Be Cheap Now. Being Wrong Still Isn't (6 minute read)",
-    "url": "https://www.viget.com/articles/building-may-be-cheap-now-being-wrong-still-isnt",
-    "description": "Building May Be Cheap Now. Being Wrong Still Isn't (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-30",
-    "site_name": "tldr"
-  },
-  {
     "title": "Building an AI factory on Kubernetes (10 minute read)",
     "url": "https://www.cncf.io/blog/2026/08/27/building-an-ai-factory-on-kubernetes/",
     "description": "Building an AI factory on Kubernetes (10 minute read)",
@@ -303,6 +293,16 @@
     "title": "CISA Orders Federal Agencies to Patch the Actively Exploited Oracle Flaw by August 27 (1 minute read)",
     "url": "https://itnerd.blog/2026/08/25/the-cisa-orders-federal-agencies-to-patch-actively-exploited-oracle-flaw-by-august-27",
     "description": "CISA Orders Federal Agencies to Patch the Actively Exploited Oracle Flaw by August 27 (1 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-30",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Card Sorting and Tree Testing: Getting Your Information Architecture Right (4 minute read)",
+    "url": "https://raw.studio/blog/card-sorting-and-tree-testing/",
+    "description": "Card Sorting and Tree Testing: Getting Your Information Architecture Right (4 minute read)",
     "tags": [
       "tldr"
     ],

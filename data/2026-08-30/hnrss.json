@@ -1,197 +1,197 @@
 [
   {
-    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "url": "https://github.com/Lakr233/vphone-cli",
-    "description": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "date": "2026-08-28",
-    "score": 360,
-    "comments": 95,
-    "discussion_url": "https://news.ycombinator.com/item?id=49485267",
+    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+    "description": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+    "date": "2026-08-30",
+    "score": 189,
+    "comments": 77,
+    "discussion_url": "https://news.ycombinator.com/item?id=49496918",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997666"
+    "fetched_at": "2026-08-30T21:53:05.628004"
   },
   {
-    "title": "EVE Online moves to Python 3",
-    "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-    "description": "EVE Online moves to Python 3",
-    "date": "2026-08-25",
-    "score": 232,
-    "comments": 117,
-    "discussion_url": "https://news.ycombinator.com/item?id=49433328",
+    "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+    "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+    "description": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+    "date": "2026-08-27",
+    "score": 276,
+    "comments": 143,
+    "discussion_url": "https://news.ycombinator.com/item?id=49463888",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997727"
+    "fetched_at": "2026-08-30T21:53:05.628054"
   },
   {
-    "title": "Europe's last regular standard-gauge steam passenger service",
-    "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
-    "description": "Europe's last regular standard-gauge steam passenger service",
-    "date": "2026-08-26",
-    "score": 103,
-    "comments": 24,
-    "discussion_url": "https://news.ycombinator.com/item?id=49456819",
+    "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+    "url": "https://komoroske.com/slime-mold/",
+    "description": "Coordination Headwind: How Organizations Are Like Slime Molds",
+    "date": "2026-08-30",
+    "score": 104,
+    "comments": 37,
+    "discussion_url": "https://news.ycombinator.com/item?id=49499891",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997712"
+    "fetched_at": "2026-08-30T21:53:05.627898"
   },
   {
-    "title": "Glacier Mice",
-    "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-    "description": "Glacier Mice",
-    "date": "2026-08-24",
-    "score": 203,
-    "comments": 42,
-    "discussion_url": "https://news.ycombinator.com/item?id=49424320",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997756"
-  },
-  {
-    "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-    "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-    "description": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "description": "Creepy Crawlies",
     "date": "2026-08-29",
-    "score": 165,
-    "comments": 57,
-    "discussion_url": "https://news.ycombinator.com/item?id=49490702",
+    "score": 741,
+    "comments": 346,
+    "discussion_url": "https://news.ycombinator.com/item?id=49491791",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997596"
+    "fetched_at": "2026-08-30T21:53:05.628042"
   },
   {
-    "title": "Htmx 4.0",
-    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "description": "Htmx 4.0",
-    "date": "2026-08-28",
-    "score": 786,
-    "comments": 196,
-    "discussion_url": "https://news.ycombinator.com/item?id=49478178",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997681"
-  },
-  {
-    "title": "I accidentally turned LLM memory into program analysis",
-    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "description": "I accidentally turned LLM memory into program analysis",
-    "date": "2026-08-28",
-    "score": 259,
-    "comments": 71,
-    "discussion_url": "https://news.ycombinator.com/item?id=49485416",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997650"
-  },
-  {
-    "title": "Inception-style curved map for turn-by-turn directions",
-    "url": "https://www.orbify.eu/demo/",
-    "description": "Inception-style curved map for turn-by-turn directions",
-    "date": "2026-08-28",
-    "score": 591,
-    "comments": 186,
-    "discussion_url": "https://news.ycombinator.com/item?id=49477564",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997697"
-  },
-  {
-    "title": "SQLite as a Document Database (2020)",
-    "url": "https://dgl.cx/2020/06/sqlite-json-support",
-    "description": "SQLite as a Document Database (2020)",
-    "date": "2026-08-24",
-    "score": 121,
-    "comments": 29,
-    "discussion_url": "https://news.ycombinator.com/item?id=49426995",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997741"
-  },
-  {
-    "title": "Samsung's Processing-in-Memory (PIM)",
-    "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-    "description": "Samsung's Processing-in-Memory (PIM)",
-    "date": "2026-08-29",
-    "score": 219,
-    "comments": 75,
-    "discussion_url": "https://news.ycombinator.com/item?id=49487341",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997616"
-  },
-  {
-    "title": "StemDeck, a free, open-source and local AI stem separator",
-    "url": "https://github.com/stemdeckapp/stemdeck",
-    "description": "StemDeck, a free, open-source and local AI stem separator",
-    "date": "2026-08-29",
-    "score": 186,
-    "comments": 57,
-    "discussion_url": "https://news.ycombinator.com/item?id=49486081",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997634"
-  },
-  {
-    "title": "Tether: iMessage, SMS, etc. on Linux",
-    "url": "https://zackbartel.com/blog/2026/08/tether/",
-    "description": "Tether: iMessage, SMS, etc. on Linux",
-    "date": "2026-08-24",
-    "score": 177,
-    "comments": 88,
-    "discussion_url": "https://news.ycombinator.com/item?id=49415386",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997771"
-  },
-  {
-    "title": "The Internet Is Kind of a Predatory Cesspit Now",
-    "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-    "description": "The Internet Is Kind of a Predatory Cesspit Now",
-    "date": "2026-08-29",
+    "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+    "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+    "description": "Europe's summer drought is so extreme that desertification is a growing threat",
+    "date": "2026-08-30",
     "score": 210,
-    "comments": 110,
-    "discussion_url": "https://news.ycombinator.com/item?id=49492193",
+    "comments": 241,
+    "discussion_url": "https://news.ycombinator.com/item?id=49498978",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-08-30T06:00:56.997556"
+    "fetched_at": "2026-08-30T21:53:05.627961"
+  },
+  {
+    "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+    "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+    "description": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+    "date": "2026-08-30",
+    "score": 297,
+    "comments": 119,
+    "discussion_url": "https://news.ycombinator.com/item?id=49499394",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-30T21:53:05.627949"
+  },
+  {
+    "title": "Hacking IKEA Furniture",
+    "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+    "description": "Hacking IKEA Furniture",
+    "date": "2026-08-30",
+    "score": 236,
+    "comments": 145,
+    "discussion_url": "https://news.ycombinator.com/item?id=49497810",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-30T21:53:05.627985"
+  },
+  {
+    "title": "Haiku R1/beta6 has been released",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "description": "Haiku R1/beta6 has been released",
+    "date": "2026-08-30",
+    "score": 205,
+    "comments": 57,
+    "discussion_url": "https://news.ycombinator.com/item?id=49499867",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-30T21:53:05.627922"
+  },
+  {
+    "title": "Hy4 preview",
+    "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "description": "Hy4 preview",
+    "date": "2026-08-29",
+    "score": 377,
+    "comments": 238,
+    "discussion_url": "https://news.ycombinator.com/item?id=49492632",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-30T21:53:05.628030"
+  },
+  {
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "url": "https://arxiv.org/abs/1804.07389",
+    "description": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "date": "2026-08-30",
+    "score": 182,
+    "comments": 55,
+    "discussion_url": "https://news.ycombinator.com/item?id=49496782",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-30T21:53:05.628018"
+  },
+  {
+    "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+    "description": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+    "date": "2026-08-30",
+    "score": 176,
+    "comments": 113,
+    "discussion_url": "https://news.ycombinator.com/item?id=49498787",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-30T21:53:05.627973"
+  },
+  {
+    "title": "Omarchy: Any User Process Can Escalate to Root",
+    "url": "https://0xcc.io/posts/omarchy-root-creds/",
+    "description": "Omarchy: Any User Process Can Escalate to Root",
+    "date": "2026-08-30",
+    "score": 318,
+    "comments": 310,
+    "discussion_url": "https://news.ycombinator.com/item?id=49499854",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-30T21:53:05.627936"
+  },
+  {
+    "title": "What my dad taught me about AI coding in the 90s",
+    "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+    "description": "What my dad taught me about AI coding in the 90s",
+    "date": "2026-08-24",
+    "score": 117,
+    "comments": 62,
+    "discussion_url": "https://news.ycombinator.com/item?id=49419381",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-08-30T21:53:05.628065"
   }
 ]
