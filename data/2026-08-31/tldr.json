@@ -130,9 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic previews a universal driver letting Claude control any lab or factory hardware (5 minute read)",
+    "title": "Anthropic's Model Hardware Standard (4 minute read)",
     "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-    "description": "Anthropic previews a universal driver letting Claude control any lab or factory hardware (5 minute read)",
+    "description": "Anthropic's Model Hardware Standard (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -250,6 +250,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Base Models Stopped Being the Bottleneck (15 minute read)",
+    "url": "https://adlrocha.substack.com/p/adlrocha-base-models-stopped-being",
+    "description": "Base Models Stopped Being the Bottleneck (15 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-31",
+    "site_name": "tldr"
+  },
+  {
     "title": "Being legible to capital (3 minute read)",
     "url": "https://x.com/nikunj/status/2092748226701210023",
     "description": "Being legible to capital (3 minute read)",
@@ -333,16 +343,6 @@
     "title": "Card Sorting and Tree Testing: Getting Your Information Architecture Right (4 minute read)",
     "url": "https://raw.studio/blog/card-sorting-and-tree-testing/",
     "description": "Card Sorting and Tree Testing: Getting Your Information Architecture Right (4 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-31",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Chrome Web Store Extensions Caught Stealing Crypto, Browser Data (2 minute read)",
-    "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
-    "description": "Chrome Web Store Extensions Caught Stealing Crypto, Browser Data (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -533,6 +533,16 @@
     "title": "Find Resilience Risks Automatically, Then Confirm Them (6 minute read)",
     "url": "https://www.harness.io/blog/find-resilience-risks-automatically-then-confirm-them",
     "description": "Find Resilience Risks Automatically, Then Confirm Them (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-31",
+    "site_name": "tldr"
+  },
+  {
+    "title": "First outputs from GPT-6 \"Astra\" model from OpenAI (2 minute read)",
+    "url": "https://www.testingcatalog.com/first-outputs-from-gpt-6-astra-model-from-openai/",
+    "description": "First outputs from GPT-6 \"Astra\" model from OpenAI (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -760,9 +770,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "I went to China to see a different AI future. It looked familiar (5 minute read)",
-    "url": "https://restofworld.org/2026/china-us-ai-future/",
-    "description": "I went to China to see a different AI future. It looked familiar (5 minute read)",
+    "title": "I accidentally turned LLM memory into program analysis (19 minute read)",
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "description": "I accidentally turned LLM memory into program analysis (19 minute read)",
     "tags": [
       "tldr"
     ],
@@ -770,9 +780,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "IBM's next-gen mainframe runs z/Architecture and Arm on the same core, natively (5 minute read)",
-    "url": "https://chipsandcheese.com/p/hot-chips-2026-interviewing-ibms",
-    "description": "IBM's next-gen mainframe runs z/Architecture and Arm on the same core, natively (5 minute read)",
+    "title": "I went to China to see a different AI future. It looked familiar (5 minute read)",
+    "url": "https://restofworld.org/2026/china-us-ai-future/",
+    "description": "I went to China to see a different AI future. It looked familiar (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -793,6 +803,16 @@
     "title": "Inside OpenAI's Reboot (26 minute read)",
     "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview/",
     "description": "Inside OpenAI's Reboot (26 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-31",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Inside the magnetic core memory that flew aboard Space Shuttle Spacelab (5 minute read)",
+    "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+    "description": "Inside the magnetic core memory that flew aboard Space Shuttle Spacelab (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1000,6 +1020,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Nvidia's AI advantage is moving beyond the GPU (4 minute read)",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "description": "Nvidia's AI advantage is moving beyond the GPU (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-31",
+    "site_name": "tldr"
+  },
+  {
     "title": "Omnipresent availability risks in cloud software (8 minute read)",
     "url": "https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/",
     "description": "Omnipresent availability risks in cloud software (8 minute read)",
@@ -1093,16 +1123,6 @@
     "title": "Pulumi Kubernetes v4.34.0: CRDs as provider extensions (2 minute read)",
     "url": "https://www.pulumi.com/blog/kubernetes-crds-as-provider-extensions/",
     "description": "Pulumi Kubernetes v4.34.0: CRDs as provider extensions (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-31",
-    "site_name": "tldr"
-  },
-  {
-    "title": "RQD Clearing raises $74M to expand modern clearing infrastructure (4 minute read)",
-    "url": "https://fintech.global/2026/08/28/rqd-lands-74m-as-clearing-infrastructure-race-heats-up/",
-    "description": "RQD Clearing raises $74M to expand modern clearing infrastructure (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1230,9 +1250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SpaceX starts in-house turbine blade manufacturing to boost gas-powered generator output for Elon's AI data centers — new manufacturing strategy cuts generator delays by 18 months (3 minute read)",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months",
-    "description": "SpaceX starts in-house turbine blade manufacturing to boost gas-powered generator output for Elon's AI data centers — new manufacturing strategy cuts generator delays by 18 months (3 minute read)",
+    "title": "SpaceX builds its own turbine-blade foundry to cut gas power delays by 18 months (4 minute read)",
+    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "description": "SpaceX builds its own turbine-blade foundry to cut gas power delays by 18 months (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1420,16 +1440,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "TurboKV (GitHub Repo)",
-    "url": "https://github.com/kingroryg/turbokv",
-    "description": "TurboKV (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-08-31",
-    "site_name": "tldr"
-  },
-  {
     "title": "US Startups Are Quietly Replacing OpenAI and Anthropic With Chinese AI (5 minute read)",
     "url": "https://startupfortune.com/us-startups-are-quietly-replacing-openai-and-anthropic-with-chinese-ai/",
     "description": "US Startups Are Quietly Replacing OpenAI and Anthropic With Chinese AI (5 minute read)",
@@ -1503,6 +1513,16 @@
     "title": "Vocab Break (4 minute read)",
     "url": "https://ianbarber.blog/2026/08/24/vocab-break/",
     "description": "Vocab Break (4 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-31",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Walmart to finally start accepting Apple Pay and Google Pay (2 minute read)",
+    "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
+    "description": "Walmart to finally start accepting Apple Pay and Google Pay (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1653,6 +1673,16 @@
     "title": "d-Matrix stacks logic on 3D DRAM to target 100 TB/s inference bandwidth (7 minute read)",
     "url": "https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/",
     "description": "d-Matrix stacks logic on 3D DRAM to target 100 TB/s inference bandwidth (7 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-08-31",
+    "site_name": "tldr"
+  },
+  {
+    "title": "vphone-cli (GitHub Repo)",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "description": "vphone-cli (GitHub Repo)",
     "tags": [
       "tldr"
     ],

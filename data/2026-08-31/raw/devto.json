@@ -26,8 +26,18 @@
     "description": "89 percent of guardrails never tested for failureHeinrich NebHeinrich NebHeinrich NebFollowAug 24AI promoted every developer to reviewer. Nobody teste...",
     "tags": "#discuss, #ai, #productivity, #testing",
     "reactions": "67 reactions",
-    "comments": "Comments 75 comments",
+    "comments": "Comments 76 comments",
     "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h"
+  },
+  {
+    "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution",
+    "author": "Ben Halpern",
+    "date": "2026-08-31",
+    "description": "Details Forem's tricky edge-caching deployment fixBen HalpernBen HalpernBen HalpernFollowforThe DEV TeamAug 31Fixing Delicate Cache Mismatches in a Br...",
+    "tags": "#webdev, #architecture, #webperf, #rails",
+    "reactions": "27 reactions",
+    "comments": "Comments 2 comments",
+    "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9"
   },
   {
     "title": "How long does it take for you to write a dev.to article?",
@@ -35,8 +45,8 @@
     "date": "2026-08-31",
     "description": "Compares casual versus technical writing timesFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowAug 31How long does it take for you to...",
     "tags": "#discuss, #community, #writing, #devto",
-    "reactions": "24 reactions",
-    "comments": "Comments 20 comments",
+    "reactions": "32 reactions",
+    "comments": "Comments 44 comments",
     "url": "https://dev.to/francistrdev/how-long-does-it-take-for-you-to-write-a-devto-article-49m1"
   },
   {
@@ -45,8 +55,8 @@
     "date": "2026-08-29",
     "description": "Metrics revealed the redesign was downright scaryAshley ChildressAshley ChildressAshley ChildressFollowAug 29I Asked for a Portfolio but Got a Filing ...",
     "tags": "#ai, #webdev, #design, #ux",
-    "reactions": "39 reactions",
-    "comments": "Comments 10 comments",
+    "reactions": "41 reactions",
+    "comments": "Comments 12 comments",
     "url": "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8"
   },
   {
@@ -63,21 +73,11 @@
     "title": "I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling",
     "author": "Thea",
     "date": "2026-08-31",
-    "description": "TheaTheaTheaFollowAug 31I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling#algorithms#python#adventofcode#programming10reactionsComment...",
+    "description": "A gamified coding quest full of Easter eggsTheaTheaTheaFollowAug 31I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling#algorithms#python...",
     "tags": "#algorithms, #python, #adventofcode, #programming",
-    "reactions": "10 reactions",
-    "comments": "Comments 2 comments",
+    "reactions": "13 reactions",
+    "comments": "Comments 11 comments",
     "url": "https://dev.to/highflyer910/i-tried-to-beat-peter-norvig-and-accidentally-became-ryan-gosling-45b8"
-  },
-  {
-    "title": "NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code",
-    "author": "Sarvar Nadaf",
-    "date": "2026-08-27",
-    "description": "Catches broken retry logic from vague promptsSarvar NadafSarvar NadafSarvar NadafFollowAug 27NexPath Review: The Prompt Quality Layer for Cursor, Wind...",
-    "tags": "#showdev, #ai, #programming, #discuss",
-    "reactions": "53 reactions",
-    "comments": "Comments 31 comments",
-    "url": "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n"
   },
   {
     "title": "Nobody Argued For Your Stack",
@@ -86,7 +86,7 @@
     "description": "The emotional sting of tech stack churnRyan CarniatoRyan CarniatoRyan CarniatoFollowforPlayful ProgrammingAug 27Nobody Argued For Your Stack#ai#webdev...",
     "tags": "#ai, #webdev, #react, #programming",
     "reactions": "24 reactions",
-    "comments": "Comments 12 comments",
+    "comments": "Comments 14 comments",
     "url": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj"
   },
   {
@@ -146,7 +146,7 @@
     "description": "Focuses on the economics of forgettingmarcosommamarcosommamarcosommaFollowAug 28Your AI Remembers Everything and Trusts All of It#ai#architecture#llm#...",
     "tags": "#ai, #architecture, #llm, #systemdesign",
     "reactions": "31 reactions",
-    "comments": "Comments 24 comments",
+    "comments": "Comments 25 comments",
     "url": "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg"
   },
   {
