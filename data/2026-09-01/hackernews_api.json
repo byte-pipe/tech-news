@@ -4,8 +4,8 @@
     "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
     "author": "samizdis",
     "date": "2026-08-28",
-    "score": 103,
-    "comments": 63,
+    "score": 201,
+    "comments": 115,
     "id": 49476239,
     "discussion_url": "https://news.ycombinator.com/item?id=49476239",
     "description": "'Mad honey' that can stop your heart is being sold online",
@@ -14,15 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434777"
+    "fetched_at": "2026-09-01T15:24:56.809234"
+  },
+  {
+    "title": "44% on ARC-AGI-1 in 67 cents",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "author": "porridgeraisin",
+    "date": "2026-09-01",
+    "score": 231,
+    "comments": 65,
+    "id": 49519939,
+    "discussion_url": "https://news.ycombinator.com/item?id=49519939",
+    "description": "44% on ARC-AGI-1 in 67 cents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-01T15:24:56.809097"
   },
   {
     "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
     "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
     "author": "keithcarolus",
-    "date": "2026-09-01",
-    "score": 175,
-    "comments": 28,
+    "date": "2026-08-31",
+    "score": 370,
+    "comments": 53,
     "id": 49512975,
     "discussion_url": "https://news.ycombinator.com/item?id=49512975",
     "description": "A walkable ASCII cyberpunk city in one HTML file [video]",
@@ -31,32 +48,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434832"
+    "fetched_at": "2026-09-01T15:24:56.809117"
   },
   {
-    "title": "Agent memory as a file format",
-    "url": "https://calpaterson.com/memoryfields.html",
-    "author": "ingve",
-    "date": "2026-08-31",
-    "score": 158,
-    "comments": 83,
-    "id": 49508317,
-    "discussion_url": "https://news.ycombinator.com/item?id=49508317",
-    "description": "Agent memory as a file format",
+    "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+    "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+    "author": "NaOH",
+    "date": "2026-08-29",
+    "score": 225,
+    "comments": 91,
+    "id": 49493468,
+    "discussion_url": "https://news.ycombinator.com/item?id=49493468",
+    "description": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434795"
+    "fetched_at": "2026-09-01T15:24:56.809056"
+  },
+  {
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+    "author": "hexa555",
+    "date": "2026-09-01",
+    "score": 496,
+    "comments": 129,
+    "id": 49520022,
+    "discussion_url": "https://news.ycombinator.com/item?id=49520022",
+    "description": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-01T15:24:56.809094"
   },
   {
     "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
     "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
     "author": "thm",
     "date": "2026-08-31",
-    "score": 269,
-    "comments": 308,
+    "score": 469,
+    "comments": 534,
     "id": 49508982,
     "discussion_url": "https://news.ycombinator.com/item?id=49508982",
     "description": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
@@ -65,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434875"
+    "fetched_at": "2026-09-01T15:24:56.809136"
   },
   {
     "title": "Breaking Claude Code Opus 5 Auto Mode",
     "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
     "author": "Recursing",
     "date": "2026-08-31",
-    "score": 335,
-    "comments": 113,
+    "score": 382,
+    "comments": 116,
     "id": 49506819,
     "discussion_url": "https://news.ycombinator.com/item?id=49506819",
     "description": "Breaking Claude Code Opus 5 Auto Mode",
@@ -82,32 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434719"
-  },
-  {
-    "title": "C++26: Standard Library Hardening Experiments",
-    "url": "https://www.cppstories.com/2026/hardening-experiments/",
-    "author": "ibobev",
-    "date": "2026-09-01",
-    "score": 78,
-    "comments": 45,
-    "id": 49510511,
-    "discussion_url": "https://news.ycombinator.com/item?id=49510511",
-    "description": "C++26: Standard Library Hardening Experiments",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.435088"
+    "fetched_at": "2026-09-01T15:24:56.809217"
   },
   {
     "title": "ChatGPT Work Tool and Skill Reference",
     "url": "https://codex-tool-reference.simonw.chatgpt.site/",
     "author": "ijidak",
-    "date": "2026-09-01",
-    "score": 166,
-    "comments": 49,
+    "date": "2026-08-31",
+    "score": 231,
+    "comments": 57,
     "id": 49510000,
     "discussion_url": "https://news.ycombinator.com/item?id=49510000",
     "description": "ChatGPT Work Tool and Skill Reference",
@@ -116,15 +133,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434924"
+    "fetched_at": "2026-09-01T15:24:56.809192"
+  },
+  {
+    "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+    "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+    "author": "vinnyglennon",
+    "date": "2026-08-30",
+    "score": 189,
+    "comments": 195,
+    "id": 49500504,
+    "discussion_url": "https://news.ycombinator.com/item?id=49500504",
+    "description": "Cheap GPS jammers are filling the world with navigation dead zones",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-01T15:24:56.809139"
   },
   {
     "title": "Damn fine tiny cafe",
     "url": "https://sandyuraz.com/blogs/tiny-cafe/",
     "author": "thecsw",
-    "date": "2026-08-29",
-    "score": 356,
-    "comments": 61,
+    "date": "2026-08-28",
+    "score": 381,
+    "comments": 63,
     "id": 49481141,
     "discussion_url": "https://news.ycombinator.com/item?id=49481141",
     "description": "Damn fine tiny cafe",
@@ -133,32 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434822"
-  },
-  {
-    "title": "Dimethyl Mercury Exposure Incident at MIT",
-    "url": "https://twitter.com/andrew_n_carr/status/2093524390390694232",
-    "author": "notRobot",
-    "date": "2026-08-29",
-    "score": 110,
-    "comments": 67,
-    "id": 49487099,
-    "discussion_url": "https://news.ycombinator.com/item?id=49487099",
-    "description": "Dimethyl Mercury Exposure Incident at MIT",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434728"
+    "fetched_at": "2026-09-01T15:24:56.809220"
   },
   {
     "title": "Dwarf Fortress is getting the mother of all magic updates",
     "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
     "author": "Tomte",
-    "date": "2026-08-28",
-    "score": 263,
-    "comments": 99,
+    "date": "2026-08-27",
+    "score": 471,
+    "comments": 214,
     "id": 49467636,
     "discussion_url": "https://news.ycombinator.com/item?id=49467636",
     "description": "Dwarf Fortress is getting the mother of all magic updates",
@@ -167,66 +184,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434934"
+    "fetched_at": "2026-09-01T15:24:56.809153"
   },
   {
-    "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-    "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-    "author": "twapi",
+    "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+    "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+    "author": "DeepLogin",
     "date": "2026-09-01",
-    "score": 356,
-    "comments": 269,
-    "id": 49514878,
-    "discussion_url": "https://news.ycombinator.com/item?id=49514878",
-    "description": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+    "score": 140,
+    "comments": 135,
+    "id": 49521315,
+    "discussion_url": "https://news.ycombinator.com/item?id=49521315",
+    "description": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434786"
+    "fetched_at": "2026-09-01T15:24:56.809159"
   },
   {
-    "title": "How to build a diffusion language model",
-    "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-    "author": "volodia",
+    "title": "Evidence of Fraud in an Influential Study About Procrastination",
+    "url": "https://datacolada.org/138",
+    "author": "Anon84",
     "date": "2026-08-31",
-    "score": 173,
-    "comments": 19,
-    "id": 49503956,
-    "discussion_url": "https://news.ycombinator.com/item?id=49503956",
-    "description": "How to build a diffusion language model",
+    "score": 314,
+    "comments": 219,
+    "id": 49516199,
+    "discussion_url": "https://news.ycombinator.com/item?id=49516199",
+    "description": "Evidence of Fraud in an Influential Study About Procrastination",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.435165"
+    "fetched_at": "2026-09-01T15:24:56.809148"
   },
   {
-    "title": "I think the military commissary's freezers were hacked",
-    "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-    "author": "jcurbo",
-    "date": "2026-08-31",
-    "score": 223,
-    "comments": 129,
-    "id": 49508506,
-    "discussion_url": "https://news.ycombinator.com/item?id=49508506",
-    "description": "I think the military commissary's freezers were hacked",
+    "title": "Fastpotify",
+    "url": "https://fastpotify.rocks/",
+    "author": "nreece",
+    "date": "2026-09-01",
+    "score": 652,
+    "comments": 411,
+    "id": 49517448,
+    "discussion_url": "https://news.ycombinator.com/item?id=49517448",
+    "description": "Fastpotify",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434978"
+    "fetched_at": "2026-09-01T15:24:56.809083"
+  },
+  {
+    "title": "GPU World",
+    "url": "https://www.gpuworld.org/",
+    "author": "simonpure",
+    "date": "2026-09-01",
+    "score": 337,
+    "comments": 203,
+    "id": 49517584,
+    "discussion_url": "https://news.ycombinator.com/item?id=49517584",
+    "description": "GPU World",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-01T15:24:56.809121"
   },
   {
     "title": "I turned my security cameras into an automatic bird identification system",
     "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
     "author": "speckx",
-    "date": "2026-09-01",
-    "score": 334,
-    "comments": 90,
+    "date": "2026-08-31",
+    "score": 568,
+    "comments": 149,
     "id": 49511856,
     "discussion_url": "https://news.ycombinator.com/item?id=49511856",
     "description": "I turned my security cameras into an automatic bird identification system",
@@ -235,66 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434584"
+    "fetched_at": "2026-09-01T15:24:56.809111"
   },
   {
-    "title": "Internet centralization and the original sin of NAT",
-    "url": "https://dreamstation.systems/personal/ntppost.html",
-    "author": "robinpie",
-    "date": "2026-08-31",
-    "score": 165,
-    "comments": 126,
-    "id": 49504905,
-    "discussion_url": "https://news.ycombinator.com/item?id=49504905",
-    "description": "Internet centralization and the original sin of NAT",
+    "title": "Lion-man",
+    "url": "https://en.wikipedia.org/wiki/Lion-man",
+    "author": "gurjeet",
+    "date": "2026-08-29",
+    "score": 136,
+    "comments": 80,
+    "id": 49494181,
+    "discussion_url": "https://news.ycombinator.com/item?id=49494181",
+    "description": "Lion-man",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434616"
-  },
-  {
-    "title": "Konrad Zuse Museum shutting down due to lack of funding",
-    "url": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
-    "author": "virtualritz",
-    "date": "2026-09-01",
-    "score": 145,
-    "comments": 71,
-    "id": 49511917,
-    "discussion_url": "https://news.ycombinator.com/item?id=49511917",
-    "description": "Konrad Zuse Museum shutting down due to lack of funding",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434864"
-  },
-  {
-    "title": "Malleable software = solid bases and custom code",
-    "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
-    "author": "tablet",
-    "date": "2026-08-31",
-    "score": 93,
-    "comments": 30,
-    "id": 49508059,
-    "discussion_url": "https://news.ycombinator.com/item?id=49508059",
-    "description": "Malleable software = solid bases and custom code",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434894"
+    "fetched_at": "2026-09-01T15:24:56.809201"
   },
   {
     "title": "No country for mediocre mathematicians",
     "url": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
     "author": "reasonableklout",
     "date": "2026-08-30",
-    "score": 124,
-    "comments": 73,
+    "score": 226,
+    "comments": 126,
     "id": 49495171,
     "discussion_url": "https://news.ycombinator.com/item?id=49495171",
     "description": "No country for mediocre mathematicians",
@@ -303,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434645"
+    "fetched_at": "2026-09-01T15:24:56.809211"
   },
   {
     "title": "OpenShot 4.0 – Open-source video editor",
     "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
     "author": "metrofun",
     "date": "2026-08-31",
-    "score": 521,
-    "comments": 121,
+    "score": 577,
+    "comments": 134,
     "id": 49507822,
     "discussion_url": "https://news.ycombinator.com/item?id=49507822",
     "description": "OpenShot 4.0 – Open-source video editor",
@@ -320,32 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434706"
-  },
-  {
-    "title": "P99 0 ms* autocomplete for 240M domain names",
-    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-    "author": "dbalatero",
-    "date": "2026-08-31",
-    "score": 214,
-    "comments": 79,
-    "id": 49505219,
-    "discussion_url": "https://news.ycombinator.com/item?id=49505219",
-    "description": "P99 0 ms* autocomplete for 240M domain names",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.435149"
+    "fetched_at": "2026-09-01T15:24:56.809231"
   },
   {
     "title": "Playa Phone",
     "url": "https://playaphone.com/",
     "author": "cutoff",
-    "date": "2026-09-01",
-    "score": 466,
-    "comments": 175,
+    "date": "2026-08-31",
+    "score": 702,
+    "comments": 220,
     "id": 49510514,
     "discussion_url": "https://news.ycombinator.com/item?id=49510514",
     "description": "Playa Phone",
@@ -354,15 +337,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434804"
+    "fetched_at": "2026-09-01T15:24:56.809114"
+  },
+  {
+    "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+    "url": "https://ravynos.com/",
+    "author": "Bluestein",
+    "date": "2026-08-31",
+    "score": 221,
+    "comments": 123,
+    "id": 49511534,
+    "discussion_url": "https://news.ycombinator.com/item?id=49511534",
+    "description": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-01T15:24:56.809162"
+  },
+  {
+    "title": "Restroom Archive",
+    "url": "https://restroomarchive.com",
+    "author": "jcalx",
+    "date": "2026-09-01",
+    "score": 253,
+    "comments": 57,
+    "id": 49517624,
+    "discussion_url": "https://news.ycombinator.com/item?id=49517624",
+    "description": "Restroom Archive",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-01T15:24:56.809100"
   },
   {
     "title": "Reverse engineering my ADHD test",
     "url": "https://nullpt.rs/reverse-engineering-adhd-test",
     "author": "hazebooth",
-    "date": "2026-08-28",
-    "score": 125,
-    "comments": 44,
+    "date": "2026-08-27",
+    "score": 287,
+    "comments": 194,
     "id": 49467700,
     "discussion_url": "https://news.ycombinator.com/item?id=49467700",
     "description": "Reverse engineering my ADHD test",
@@ -371,15 +388,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434914"
+    "fetched_at": "2026-09-01T15:24:56.809156"
+  },
+  {
+    "title": "Run macOS Software on Linux",
+    "url": "https://www.darlinghq.org/",
+    "author": "Bluestein",
+    "date": "2026-08-31",
+    "score": 259,
+    "comments": 78,
+    "id": 49515830,
+    "discussion_url": "https://news.ycombinator.com/item?id=49515830",
+    "description": "Run macOS Software on Linux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-01T15:24:56.809226"
   },
   {
     "title": "Show HN: Laser Graffiti",
     "url": "https://laser.consti.de",
     "author": "con",
     "date": "2026-08-29",
-    "score": 106,
-    "comments": 21,
+    "score": 234,
+    "comments": 51,
     "id": 49489376,
     "discussion_url": "https://news.ycombinator.com/item?id=49489376",
     "description": "Show HN: Laser Graffiti",
@@ -388,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434813"
+    "fetched_at": "2026-09-01T15:24:56.809145"
   },
   {
     "title": "Smartphone LED detects hidden cameras with AI",
     "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
     "author": "geox",
     "date": "2026-08-30",
-    "score": 132,
-    "comments": 32,
+    "score": 257,
+    "comments": 75,
     "id": 49496292,
     "discussion_url": "https://news.ycombinator.com/item?id=49496292",
     "description": "Smartphone LED detects hidden cameras with AI",
@@ -405,32 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434951"
-  },
-  {
-    "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
-    "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
-    "author": "giuliomagnifico",
-    "date": "2026-08-31",
-    "score": 85,
-    "comments": 52,
-    "id": 49507121,
-    "discussion_url": "https://news.ycombinator.com/item?id=49507121",
-    "description": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.435060"
+    "fetched_at": "2026-09-01T15:24:56.809142"
   },
   {
     "title": "Terence Tao explains 6 essential mathematical concepts [video]",
     "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
     "author": "matthewsinclair",
-    "date": "2026-08-31",
-    "score": 159,
-    "comments": 20,
+    "date": "2026-08-30",
+    "score": 537,
+    "comments": 70,
     "id": 49503521,
     "discussion_url": "https://news.ycombinator.com/item?id=49503521",
     "description": "Terence Tao explains 6 essential mathematical concepts [video]",
@@ -439,49 +456,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434961"
+    "fetched_at": "2026-09-01T15:24:56.809104"
   },
   {
-    "title": "Transfer files over an Ethernet patch cable",
-    "url": "https://maurycyz.com/misc/etherfiles/",
-    "author": "jllyhill",
+    "title": "Tmp.0ut Volume 5",
+    "url": "https://tmpout.sh/5/",
+    "author": "ghuntley",
     "date": "2026-08-31",
-    "score": 153,
-    "comments": 165,
-    "id": 49505217,
-    "discussion_url": "https://news.ycombinator.com/item?id=49505217",
-    "description": "Transfer files over an Ethernet patch cable",
+    "score": 149,
+    "comments": 31,
+    "id": 49516059,
+    "discussion_url": "https://news.ycombinator.com/item?id=49516059",
+    "description": "Tmp.0ut Volume 5",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.435069"
-  },
-  {
-    "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-    "url": "https://ravynos.com/",
-    "author": "Bluestein",
-    "date": "2026-09-01",
-    "score": 151,
-    "comments": 98,
-    "id": 49511534,
-    "discussion_url": "https://news.ycombinator.com/item?id=49511534",
-    "description": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434905"
+    "fetched_at": "2026-09-01T15:24:56.809090"
   },
   {
     "title": "uv: Deduplicate all files in the wheel cache",
     "url": "https://github.com/astral-sh/uv/pull/21327",
     "author": "tosh",
     "date": "2026-08-31",
-    "score": 201,
-    "comments": 99,
+    "score": 224,
+    "comments": 114,
     "id": 49506142,
     "discussion_url": "https://news.ycombinator.com/item?id=49506142",
     "description": "uv: Deduplicate all files in the wheel cache",
@@ -490,15 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.434843"
+    "fetched_at": "2026-09-01T15:24:56.809239"
   },
   {
     "title": "“I just chose words carefully”",
     "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
     "author": "zdw",
-    "date": "2026-08-31",
-    "score": 1168,
-    "comments": 339,
+    "date": "2026-08-30",
+    "score": 1216,
+    "comments": 348,
     "id": 49503601,
     "discussion_url": "https://news.ycombinator.com/item?id=49503601",
     "description": "“I just chose words carefully”",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-01T09:50:26.435051"
+    "fetched_at": "2026-09-01T15:24:56.809250"
   }
 ]
