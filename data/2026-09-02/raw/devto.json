@@ -1,33 +1,23 @@
 [
   {
-    "title": "# The CI/CD Pipeline That Was Lying to Us: A Deploy Debugging Story",
-    "author": "Vicente G. Reyes",
-    "date": "2026-09-01",
-    "description": "Vicente G. ReyesVicente G. ReyesVicente G. ReyesFollowSep 1# The CI/CD Pipeline That Was Lying to Us: A Deploy Debugging Story#githubactions#docker#dj...",
-    "tags": "#githubactions, #docker, #django, #devops",
-    "reactions": "5 reactions",
-    "comments": "0",
-    "url": "https://dev.to/highcenburg/-the-cicd-pipeline-that-was-lying-to-us-a-deploy-debugging-story-9fi"
-  },
-  {
-    "title": "10 Git Commands You’ll Wish You Knew Earlier",
-    "author": "Sylwia Laskowska",
-    "date": "2026-08-26",
-    "description": "Targeted at devs past the basicsSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowAug 2610 Git Commands You’ll Wish You Knew Earlier#git#programmi...",
-    "tags": "#git, #programming, #productivity, #beginners",
-    "reactions": "248 reactions",
-    "comments": "Comments 99 comments",
-    "url": "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp"
-  },
-  {
     "title": "16 Posts, Started Commenting, then got the Shield",
     "author": "Nnamdi Felix Ibe",
     "date": "2026-08-28",
     "description": "Genuine engagement outweighs isolated writingNnamdi Felix IbeNnamdi Felix IbeNnamdi Felix IbeFollowAug 2816 Posts, Started Commenting, then got the Sh...",
     "tags": "#discuss, #meta, #community, #beginners",
-    "reactions": "32 reactions",
-    "comments": "Comments 16 comments",
+    "reactions": "33 reactions",
+    "comments": "Comments 20 comments",
     "url": "https://dev.to/ndcodes/16-posts-started-commenting-then-got-the-shield-bk3"
+  },
+  {
+    "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
+    "author": "James Anderson",
+    "date": "2026-09-01",
+    "description": "Shifts the builder's role from typist to architectJames AndersonJames AndersonJames AndersonFollowSep 1Building With AI When You Don't Know Architectu...",
+    "tags": "#ai, #beginners, #webdev",
+    "reactions": "47 reactions",
+    "comments": "Comments 44 comments",
+    "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3"
   },
   {
     "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution",
@@ -35,8 +25,8 @@
     "date": "2026-08-31",
     "description": "Details Forem's tricky edge-caching deployment fixBen HalpernBen HalpernBen HalpernFollowforThe DEV TeamAug 31Fixing Delicate Cache Mismatches in a Br...",
     "tags": "#webdev, #architecture, #webperf, #rails",
-    "reactions": "49 reactions",
-    "comments": "Comments 4 comments",
+    "reactions": "50 reactions",
+    "comments": "Comments 5 comments",
     "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9"
   },
   {
@@ -45,19 +35,9 @@
     "date": "2026-08-31",
     "description": "Compares casual versus technical writing timesFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowAug 31How long does it take for you to...",
     "tags": "#discuss, #community, #writing, #devto",
-    "reactions": "79 reactions",
-    "comments": "Comments 83 comments",
+    "reactions": "97 reactions",
+    "comments": "Comments 99 comments",
     "url": "https://dev.to/francistrdev/how-long-does-it-take-for-you-to-write-a-devto-article-49m1"
-  },
-  {
-    "title": "How to Design AI Evaluations You Can Actually Trust",
-    "author": "Jan-Felix Schmakeit",
-    "date": "2026-09-01",
-    "description": "Jan-Felix SchmakeitJan-Felix SchmakeitJan-Felix SchmakeitFollowforGoogle AISep 1How to Design AI Evaluations You Can Actually Trust#ai#evals21reaction...",
-    "tags": "#ai, #evals",
-    "reactions": "21 reactions",
-    "comments": "0",
-    "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3"
   },
   {
     "title": "I Asked for a Portfolio but Got a Filing Cabinet",
@@ -65,19 +45,9 @@
     "date": "2026-08-29",
     "description": "Metrics revealed the redesign was downright scaryAshley ChildressAshley ChildressAshley ChildressFollowAug 29I Asked for a Portfolio but Got a Filing ...",
     "tags": "#ai, #webdev, #design, #ux",
-    "reactions": "42 reactions",
-    "comments": "Comments 14 comments",
+    "reactions": "49 reactions",
+    "comments": "Comments 17 comments",
     "url": "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8"
-  },
-  {
-    "title": "I Tested 5 Design to Code Tools With the Same Outdated SaaS Dashboard",
-    "author": "Hadil Ben Abdallah",
-    "date": "2026-08-26",
-    "description": "Code quality analyzed alongside visualsHadil Ben AbdallahHadil Ben AbdallahHadil Ben AbdallahFollowAug 26I Tested 5 Design to Code Tools With the Same...",
-    "tags": "#ai, #design, #coding, #programming",
-    "reactions": "51 reactions",
-    "comments": "Comments 27 comments",
-    "url": "https://dev.to/hadil/i-tested-5-design-to-code-tools-with-the-same-outdated-saas-dashboard-1ijk"
   },
   {
     "title": "I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling",
@@ -85,8 +55,8 @@
     "date": "2026-08-31",
     "description": "A gamified coding quest full of Easter eggsTheaTheaTheaFollowAug 31I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling#algorithms#python...",
     "tags": "#algorithms, #python, #adventofcode, #programming",
-    "reactions": "16 reactions",
-    "comments": "Comments 16 comments",
+    "reactions": "18 reactions",
+    "comments": "Comments 18 comments",
     "url": "https://dev.to/highflyer910/i-tried-to-beat-peter-norvig-and-accidentally-became-ryan-gosling-45b8"
   },
   {
@@ -95,19 +65,49 @@
     "date": "2026-08-27",
     "description": "The emotional sting of tech stack churnRyan CarniatoRyan CarniatoRyan CarniatoFollowforPlayful ProgrammingAug 27Nobody Argued For Your Stack#ai#webdev...",
     "tags": "#ai, #webdev, #react, #programming",
-    "reactions": "25 reactions",
+    "reactions": "27 reactions",
     "comments": "Comments 17 comments",
     "url": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj"
   },
   {
-    "title": "Portfolio Update, I Guess",
-    "author": "Adam - The Developer ✨",
-    "date": "2026-08-26",
-    "description": "Features a hilarious edgy teenage mode toggleAdam - The Developer ✨Adam - The Developer ✨Adam - The Developer ✨FollowAug 26Portfolio Update, I Guess#w...",
-    "tags": "#webdev, #programming, #productivity, #javascript",
-    "reactions": "32 reactions",
-    "comments": "Comments 8 comments",
-    "url": "https://dev.to/adamthedeveloper/portfolio-update-i-guess-4ob3"
+    "title": "React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is",
+    "author": "Shubhra Pokhariya",
+    "date": "2026-09-01",
+    "description": "Didactic reverse-engineering of core conceptsShubhra PokhariyaShubhra PokhariyaShubhra PokhariyaFollowSep 1React 19 Actions: I Explained 3 Hooks Witho...",
+    "tags": "#react, #javascript, #webdev, #programming",
+    "reactions": "34 reactions",
+    "comments": "0",
+    "url": "https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79"
+  },
+  {
+    "title": "Streamline Publishing with a Claude Code Skill",
+    "author": "xbill",
+    "date": "2026-09-01",
+    "description": "xbillxbillxbillFollowforGoogle Developer ExpertsSep 1Streamline Publishing with a Claude Code Skill#claudecode#writing#devtools#ai14reactionsComments1...",
+    "tags": "#claudecode, #writing, #devtools, #ai",
+    "reactions": "14 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn"
+  },
+  {
+    "title": "The CI/CD Pipeline That Was Lying to Us: A Deploy Debugging Story",
+    "author": "Vicente G. Reyes",
+    "date": "2026-09-01",
+    "description": "Vicente G. ReyesVicente G. ReyesVicente G. ReyesFollowSep 1The CI/CD Pipeline That Was Lying to Us: A Deploy Debugging Story#githubactions#docker#djan...",
+    "tags": "#githubactions, #docker, #django, #devops",
+    "reactions": "5 reactions",
+    "comments": "0",
+    "url": "https://dev.to/highcenburg/-the-cicd-pipeline-that-was-lying-to-us-a-deploy-debugging-story-9fi"
+  },
+  {
+    "title": "The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.",
+    "author": "Jonathan Murray",
+    "date": "2026-08-28",
+    "description": "Jonathan MurrayJonathan MurrayJonathan MurrayFollowAug 28The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.#ai#gpu#movies#ma...",
+    "tags": "#ai, #gpu, #movies, #matrix",
+    "reactions": "37 reactions",
+    "comments": "Comments 4 comments",
+    "url": "https://dev.to/jon_at_backboardio/the-matrix-wasnt-a-battery-farm-it-was-a-gpu-cluster-made-of-human-brains-23e5"
   },
   {
     "title": "Velocidade de entrega e custo de manutenção pós IA",
@@ -115,8 +115,8 @@
     "date": "2026-08-27",
     "description": "Elves SantosElves SantosElves SantosFollowforHe4rt DevelopersAug 27Velocidade de entrega e custo de manutenção pós IA#ai#braziliandevs#career#producti...",
     "tags": "#ai, #braziliandevs, #career, #productivity",
-    "reactions": "86 reactions",
-    "comments": "Comments 4 comments",
+    "reactions": "87 reactions",
+    "comments": "Comments 5 comments",
     "url": "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei"
   },
   {
@@ -125,7 +125,7 @@
     "date": "2026-09-01",
     "description": "AI speeds production but wastes early winsJenna PedersonJenna PedersonJenna PedersonFollowSep 1What happens to technical debt when AI makes code cheap...",
     "tags": "#ai, #programming, #software, #agents",
-    "reactions": "8 reactions",
+    "reactions": "19 reactions",
     "comments": "0",
     "url": "https://dev.to/jennapederson/what-happens-to-technical-debt-when-ai-makes-code-cheap-9oa"
   },
@@ -135,18 +135,18 @@
     "date": "2026-08-28",
     "description": "Hiring shifts from potential to exact matchesAlexandraAlexandraAlexandraFollowAug 28What two months of interviewing taught me about the 2026 tech job ...",
     "tags": "#discuss, #interview, #software",
-    "reactions": "54 reactions",
-    "comments": "Comments 32 comments",
+    "reactions": "71 reactions",
+    "comments": "Comments 35 comments",
     "url": "https://dev.to/ale3oula/what-two-months-of-interviewing-taught-me-about-the-2026-tech-job-market-3d8n"
   },
   {
     "title": "What was your win this week?!",
     "author": "Jess Lee",
     "date": "2026-08-28",
-    "description": "Community members share major career milestonesJess LeeJess LeeJess LeeFollowforThe DEV TeamAug 28What was your win this week?!#discuss#weeklyretro49r...",
+    "description": "Community members share major career milestonesJess LeeJess LeeJess LeeFollowforThe DEV TeamAug 28What was your win this week?!#discuss#weeklyretro51r...",
     "tags": "#discuss, #weeklyretro",
-    "reactions": "49 reactions",
-    "comments": "Comments 47 comments",
+    "reactions": "51 reactions",
+    "comments": "Comments 49 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-51oc"
   },
   {
@@ -155,8 +155,8 @@
     "date": "2026-08-28",
     "description": "Focuses on the economics of forgettingmarcosommamarcosommamarcosommaFollowAug 28Your AI Remembers Everything and Trusts All of It#ai#architecture#llm#...",
     "tags": "#ai, #architecture, #llm, #systemdesign",
-    "reactions": "35 reactions",
-    "comments": "Comments 36 comments",
+    "reactions": "37 reactions",
+    "comments": "Comments 40 comments",
     "url": "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg"
   },
   {
@@ -165,7 +165,7 @@
     "date": "2026-08-26",
     "description": "Compares ATS black holes to broken APIsKen W AlgerKen W AlgerKen W AlgerFollowAug 26Your Hiring Process Needs HTTP Status Codes#discuss#career#humor#p...",
     "tags": "#discuss, #career, #humor, #programming",
-    "reactions": "43 reactions",
+    "reactions": "45 reactions",
     "comments": "Comments 8 comments",
     "url": "https://dev.to/kenwalger/your-hiring-process-needs-http-status-codes-png"
   },
@@ -175,7 +175,7 @@
     "date": "2026-08-28",
     "description": "Includes creative Git tips and community shoutoutsFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowAug 28🗓️ Monthly Dev Report: Augus...",
     "tags": "#discuss, #community, #devjournal, #programming",
-    "reactions": "99 reactions",
+    "reactions": "102 reactions",
     "comments": "Comments 33 comments",
     "url": "https://dev.to/francistrdev/monthly-dev-report-august-2026-4mh2"
   }
