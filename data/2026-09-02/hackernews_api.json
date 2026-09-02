@@ -1,62 +1,113 @@
 [
   {
-    "title": "A Note from LWN",
+    "title": "A Selection of Los Alamos Rolodex Business Cards",
+    "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+    "author": "1970-01-01",
+    "date": "2026-08-31",
+    "score": 121,
+    "comments": 26,
+    "id": 49513856,
+    "discussion_url": "https://news.ycombinator.com/item?id=49513856",
+    "description": "A Selection of Los Alamos Rolodex Business Cards",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-02T21:36:05.354932"
+  },
+  {
+    "title": "A note on subscription prices from LWN",
     "url": "https://lwn.net/Articles/1090585/",
     "author": "rwky",
     "date": "2026-09-02",
-    "score": 295,
-    "comments": 45,
+    "score": 653,
+    "comments": 130,
     "id": 49535752,
     "discussion_url": "https://news.ycombinator.com/item?id=49535752",
-    "description": "A Note from LWN",
+    "description": "A note on subscription prices from LWN",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643841"
+    "fetched_at": "2026-09-02T21:36:05.354865"
   },
   {
-    "title": "A Small Telescope That Surprised Me",
-    "url": "https://adfr.io/thoughts/20260831_a_small_telescope_that_surprised_me/",
-    "author": "speckx",
-    "date": "2026-09-01",
-    "score": 64,
-    "comments": 54,
-    "id": 49522884,
-    "discussion_url": "https://news.ycombinator.com/item?id=49522884",
-    "description": "A Small Telescope That Surprised Me",
+    "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+    "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+    "author": "mdp2021",
+    "date": "2026-09-02",
+    "score": 161,
+    "comments": 76,
+    "id": 49535548,
+    "discussion_url": "https://news.ycombinator.com/item?id=49535548",
+    "description": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643913"
+    "fetched_at": "2026-09-02T21:36:05.354916"
   },
   {
-    "title": "Atlas: A World Model for Spatial Intelligence",
-    "url": "https://www.worldlabs.ai/blog/atlas",
-    "author": "johnsutor",
-    "date": "2026-09-01",
-    "score": 240,
-    "comments": 55,
-    "id": 49525160,
-    "discussion_url": "https://news.ycombinator.com/item?id=49525160",
-    "description": "Atlas: A World Model for Spatial Intelligence",
+    "title": "Biggest dark matter detector spots a single weird particle",
+    "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+    "author": "randycupertino",
+    "date": "2026-09-02",
+    "score": 214,
+    "comments": 62,
+    "id": 49536079,
+    "discussion_url": "https://news.ycombinator.com/item?id=49536079",
+    "description": "Biggest dark matter detector spots a single weird particle",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644077"
+    "fetched_at": "2026-09-02T21:36:05.354883"
+  },
+  {
+    "title": "Can I opt out of my input or output data being used for training?",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "author": "teekert",
+    "date": "2026-09-02",
+    "score": 339,
+    "comments": 142,
+    "id": 49535284,
+    "discussion_url": "https://news.ycombinator.com/item?id=49535284",
+    "description": "Can I opt out of my input or output data being used for training?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-02T21:36:05.354912"
+  },
+  {
+    "title": "Check if a file was made with Claude",
+    "url": "https://claude.com/check-content",
+    "author": "frexs",
+    "date": "2026-09-02",
+    "score": 138,
+    "comments": 105,
+    "id": 49535201,
+    "discussion_url": "https://news.ycombinator.com/item?id=49535201",
+    "description": "Check if a file was made with Claude",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-02T21:36:05.354943"
   },
   {
     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
     "author": "denysvitali",
     "date": "2026-09-01",
-    "score": 1343,
-    "comments": 1291,
+    "score": 1372,
+    "comments": 1324,
     "id": 49525378,
     "discussion_url": "https://news.ycombinator.com/item?id=49525378",
     "description": "Claude Fable 5.1 and Claude Mythos 5.1",
@@ -65,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643960"
+    "fetched_at": "2026-09-02T21:36:05.355014"
   },
   {
     "title": "Commodore 64 released September 1, 1982",
     "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
     "author": "giuliomagnifico",
     "date": "2026-09-02",
-    "score": 213,
-    "comments": 112,
+    "score": 305,
+    "comments": 157,
     "id": 49533497,
     "discussion_url": "https://news.ycombinator.com/item?id=49533497",
     "description": "Commodore 64 released September 1, 1982",
@@ -82,49 +133,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643921"
+    "fetched_at": "2026-09-02T21:36:05.354789"
   },
   {
-    "title": "Dutch central bank moves share of gold from U.S., Canada to London",
-    "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
-    "author": "TechTechTech",
+    "title": "Exit the Cave",
+    "url": "https://turtlespace.blog/p/exit-the-cave",
+    "author": "akkartik",
     "date": "2026-09-02",
-    "score": 92,
-    "comments": 75,
-    "id": 49535526,
-    "discussion_url": "https://news.ycombinator.com/item?id=49535526",
-    "description": "Dutch central bank moves share of gold from U.S., Canada to London",
+    "score": 180,
+    "comments": 50,
+    "id": 49536606,
+    "discussion_url": "https://news.ycombinator.com/item?id=49536606",
+    "description": "Exit the Cave",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643936"
+    "fetched_at": "2026-09-02T21:36:05.354841"
   },
   {
-    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-    "author": "tatersolid",
-    "date": "2026-09-01",
-    "score": 316,
-    "comments": 190,
-    "id": 49529621,
-    "discussion_url": "https://news.ycombinator.com/item?id=49529621",
-    "description": "FBI Probes Service Selling 153M+ Drivers Licenses",
+    "title": "Fable 5.1 World Modeling",
+    "url": "https://github.com/PhiloLabs/fable51-worlds",
+    "author": "surreal_",
+    "date": "2026-09-02",
+    "score": 58,
+    "comments": 13,
+    "id": 49541458,
+    "discussion_url": "https://news.ycombinator.com/item?id=49541458",
+    "description": "Fable 5.1 World Modeling",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643986"
+    "fetched_at": "2026-09-02T21:36:05.354854"
   },
   {
     "title": "Fine, I'll build my own text editor",
     "url": "https://dbushell.com/2026/09/01/text-editor/",
     "author": "Alephinitesimal",
     "date": "2026-09-01",
-    "score": 196,
-    "comments": 191,
+    "score": 229,
+    "comments": 230,
     "id": 49524863,
     "discussion_url": "https://news.ycombinator.com/item?id=49524863",
     "description": "Fine, I'll build my own text editor",
@@ -133,117 +184,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643972"
+    "fetched_at": "2026-09-02T21:36:05.354986"
   },
   {
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-    "url": "https://danluu.com/zitron/",
-    "author": "jatins",
-    "date": "2026-09-01",
-    "score": 811,
-    "comments": 914,
-    "id": 49526069,
-    "discussion_url": "https://news.ycombinator.com/item?id=49526069",
-    "description": "How accurate have Ed Zitron's AI skeptic predictions been?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644042"
-  },
-  {
-    "title": "How bicycle coaster brakes work (2018)",
-    "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
-    "author": "Vedor",
-    "date": "2026-08-29",
-    "score": 80,
-    "comments": 71,
-    "id": 49488224,
-    "discussion_url": "https://news.ycombinator.com/item?id=49488224",
-    "description": "How bicycle coaster brakes work (2018)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644035"
-  },
-  {
-    "title": "Introducing Ad Blocker for Firefox on iOS",
-    "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-    "author": "HieronymusBosch",
-    "date": "2026-09-01",
-    "score": 554,
-    "comments": 177,
-    "id": 49521973,
-    "discussion_url": "https://news.ycombinator.com/item?id=49521973",
-    "description": "Introducing Ad Blocker for Firefox on iOS",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644052"
-  },
-  {
-    "title": "It's OK to hardcode feature flags (2025)",
-    "url": "https://code.mendhak.com/hardcode-feature-flags/",
-    "author": "biscuits1",
+    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "author": "bratao",
     "date": "2026-09-02",
-    "score": 50,
-    "comments": 27,
-    "id": 49534524,
-    "discussion_url": "https://news.ycombinator.com/item?id=49534524",
-    "description": "It's OK to hardcode feature flags (2025)",
+    "score": 700,
+    "comments": 415,
+    "id": 49537553,
+    "discussion_url": "https://news.ycombinator.com/item?id=49537553",
+    "description": "Gemini 3.8 Flash and 3.8 Flash Cyber",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643867"
+    "fetched_at": "2026-09-02T21:36:05.354799"
   },
   {
-    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-    "url": "https://www.norirobotics.com/",
-    "author": "AntonioLi",
-    "date": "2026-09-01",
-    "score": 191,
-    "comments": 61,
-    "id": 49525153,
-    "discussion_url": "https://news.ycombinator.com/item?id=49525153",
-    "description": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644014"
-  },
-  {
-    "title": "Mistral now trains on user input by default, except on enterprise tier",
-    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-    "author": "teekert",
+    "title": "Google avoids a breakup of its ad tech business",
+    "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+    "author": "donohoe",
     "date": "2026-09-02",
-    "score": 88,
-    "comments": 48,
-    "id": 49535284,
-    "discussion_url": "https://news.ycombinator.com/item?id=49535284",
-    "description": "Mistral now trains on user input by default, except on enterprise tier",
+    "score": 139,
+    "comments": 69,
+    "id": 49537131,
+    "discussion_url": "https://news.ycombinator.com/item?id=49537131",
+    "description": "Google avoids a breakup of its ad tech business",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643941"
+    "fetched_at": "2026-09-02T21:36:05.354928"
+  },
+  {
+    "title": "GrapheneOS says Pixel 11 has MTE support after all",
+    "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+    "author": "user_7832",
+    "date": "2026-09-02",
+    "score": 166,
+    "comments": 128,
+    "id": 49536384,
+    "discussion_url": "https://news.ycombinator.com/item?id=49536384",
+    "description": "GrapheneOS says Pixel 11 has MTE support after all",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-02T21:36:05.354950"
+  },
+  {
+    "title": "I Don't Have a Smartphone",
+    "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+    "author": "speckx",
+    "date": "2026-09-02",
+    "score": 182,
+    "comments": 178,
+    "id": 49539872,
+    "discussion_url": "https://news.ycombinator.com/item?id=49539872",
+    "description": "I Don't Have a Smartphone",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-02T21:36:05.354905"
+  },
+  {
+    "title": "I wanna live an NPC life",
+    "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+    "author": "conferza",
+    "date": "2026-09-02",
+    "score": 109,
+    "comments": 79,
+    "id": 49541519,
+    "discussion_url": "https://news.ycombinator.com/item?id=49541519",
+    "description": "I wanna live an NPC life",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-02T21:36:05.354846"
+  },
+  {
+    "title": "LLMs: Intelligence vs. Cost",
+    "url": "https://openteams.com/intelligence-vs-cost/",
+    "author": "theanonymousone",
+    "date": "2026-09-02",
+    "score": 66,
+    "comments": 36,
+    "id": 49535586,
+    "discussion_url": "https://news.ycombinator.com/item?id=49535586",
+    "description": "LLMs: Intelligence vs. Cost",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-02T21:36:05.354947"
+  },
+  {
+    "title": "Muse Spark 1.3",
+    "url": "https://developer.meta.com/ai/models/muse-spark/",
+    "author": "bvaldivielso",
+    "date": "2026-09-02",
+    "score": 223,
+    "comments": 129,
+    "id": 49541256,
+    "discussion_url": "https://news.ycombinator.com/item?id=49541256",
+    "description": "Muse Spark 1.3",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-02T21:36:05.354776"
   },
   {
     "title": "My local model setup on an M4 Pro Mac Mini",
     "url": "https://lws.io/blog/my-local-model-setup/",
     "author": "raybb",
     "date": "2026-09-01",
-    "score": 262,
-    "comments": 165,
+    "score": 285,
+    "comments": 177,
     "id": 49529132,
     "discussion_url": "https://news.ycombinator.com/item?id=49529132",
     "description": "My local model setup on an M4 Pro Mac Mini",
@@ -252,32 +320,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644059"
+    "fetched_at": "2026-09-02T21:36:05.354983"
   },
   {
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "url": "https://openai.com/index/path-to-astra/",
-    "author": "jithinraj",
-    "date": "2026-09-01",
-    "score": 168,
-    "comments": 89,
-    "id": 49527595,
-    "discussion_url": "https://news.ycombinator.com/item?id=49527595",
-    "description": "Path to Astra: critical capabilities and frontier safeguards",
+    "title": "Paint.net 5.2 alpha now runs on Linux",
+    "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+    "author": "judah",
+    "date": "2026-09-02",
+    "score": 158,
+    "comments": 129,
+    "id": 49539389,
+    "discussion_url": "https://news.ycombinator.com/item?id=49539389",
+    "description": "Paint.net 5.2 alpha now runs on Linux",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644080"
+    "fetched_at": "2026-09-02T21:36:05.354850"
+  },
+  {
+    "title": "Poisson Disk Sampling",
+    "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+    "author": "vismit2000",
+    "date": "2026-09-02",
+    "score": 105,
+    "comments": 16,
+    "id": 49536177,
+    "discussion_url": "https://news.ycombinator.com/item?id=49536177",
+    "description": "Poisson Disk Sampling",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-02T21:36:05.354808"
   },
   {
     "title": "Quasar 438B: Europe's Leading AI Model",
     "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
     "author": "amunozo",
     "date": "2026-09-02",
-    "score": 94,
-    "comments": 78,
+    "score": 155,
+    "comments": 101,
     "id": 49534132,
     "discussion_url": "https://news.ycombinator.com/item?id=49534132",
     "description": "Quasar 438B: Europe's Leading AI Model",
@@ -286,83 +371,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643945"
+    "fetched_at": "2026-09-02T21:36:05.354939"
   },
   {
-    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-    "author": "jwise0",
-    "date": "2026-09-01",
-    "score": 141,
-    "comments": 59,
-    "id": 49527232,
-    "discussion_url": "https://news.ycombinator.com/item?id=49527232",
-    "description": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+    "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
+    "url": "https://frontierharness.org",
+    "author": "shiqimei",
+    "date": "2026-09-02",
+    "score": 65,
+    "comments": 37,
+    "id": 49538490,
+    "discussion_url": "https://news.ycombinator.com/item?id=49538490",
+    "description": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644063"
+    "fetched_at": "2026-09-02T21:36:05.354872"
   },
   {
-    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-    "url": "https://hnmatchmaker.com/",
-    "author": "all2",
-    "date": "2026-09-01",
-    "score": 103,
-    "comments": 44,
-    "id": 49528057,
-    "discussion_url": "https://news.ycombinator.com/item?id=49528057",
-    "description": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+    "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+    "author": "goobreee",
+    "date": "2026-09-02",
+    "score": 146,
+    "comments": 50,
+    "id": 49536114,
+    "discussion_url": "https://news.ycombinator.com/item?id=49536114",
+    "description": "Six curl CVEs after OpenAI and Anthropic came back with zero",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644073"
-  },
-  {
-    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-    "url": "https://github.com/carloslfu/slotstream",
-    "author": "carloslfu",
-    "date": "2026-09-01",
-    "score": 224,
-    "comments": 105,
-    "id": 49524447,
-    "discussion_url": "https://news.ycombinator.com/item?id=49524447",
-    "description": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644056"
-  },
-  {
-    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-    "url": "https://masteranza.github.io/weedout/",
-    "author": "masteranza",
-    "date": "2026-09-01",
-    "score": 168,
-    "comments": 73,
-    "id": 49528895,
-    "discussion_url": "https://news.ycombinator.com/item?id=49528895",
-    "description": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644024"
+    "fetched_at": "2026-09-02T21:36:05.354920"
   },
   {
     "title": "Sonic Pi",
     "url": "https://sonic-pi.net/",
     "author": "Bluestein",
     "date": "2026-08-28",
-    "score": 218,
-    "comments": 50,
+    "score": 232,
+    "comments": 54,
     "id": 49482099,
     "discussion_url": "https://news.ycombinator.com/item?id=49482099",
     "description": "Sonic Pi",
@@ -371,32 +422,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644007"
+    "fetched_at": "2026-09-02T21:36:05.355000"
   },
   {
-    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-    "author": "timpera",
-    "date": "2026-09-01",
-    "score": 459,
-    "comments": 216,
-    "id": 49527396,
-    "discussion_url": "https://news.ycombinator.com/item?id=49527396",
-    "description": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+    "title": "SteamdDB Joins Nexus Mods",
+    "url": "https://www.nexusmods.com/news/15597",
+    "author": "HelloUsername",
+    "date": "2026-09-02",
+    "score": 87,
+    "comments": 51,
+    "id": 49537738,
+    "discussion_url": "https://news.ycombinator.com/item?id=49537738",
+    "description": "SteamdDB Joins Nexus Mods",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644028"
+    "fetched_at": "2026-09-02T21:36:05.354823"
   },
   {
     "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
     "url": "https://arxiv.org/abs/2608.29530",
     "author": "schmuhblaster",
     "date": "2026-09-02",
-    "score": 227,
-    "comments": 77,
+    "score": 267,
+    "comments": 93,
     "id": 49531651,
     "discussion_url": "https://news.ycombinator.com/item?id=49531651",
     "description": "The Emergent Symbolic Structure of Artificial Neural Networks",
@@ -405,32 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643932"
-  },
-  {
-    "title": "The efficient frontier of LLM inference",
-    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-    "author": "philipkiely",
-    "date": "2026-09-01",
-    "score": 142,
-    "comments": 39,
-    "id": 49529898,
-    "discussion_url": "https://news.ycombinator.com/item?id=49529898",
-    "description": "The efficient frontier of LLM inference",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644031"
+    "fetched_at": "2026-09-02T21:36:05.354924"
   },
   {
     "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
     "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
     "author": "jakobgreenfeld",
     "date": "2026-09-02",
-    "score": 71,
-    "comments": 43,
+    "score": 255,
+    "comments": 119,
     "id": 49536375,
     "discussion_url": "https://news.ycombinator.com/item?id=49536375",
     "description": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
@@ -439,57 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643956"
+    "fetched_at": "2026-09-02T21:36:05.354909"
   },
   {
-    "title": "True Rate of Unemployment",
-    "url": "https://www.lisep.org/tru",
-    "author": "ptrhvns",
+    "title": "WebLLM: high-performance in-browser LLM inference engine",
+    "url": "https://github.com/mlc-ai/web-llm",
+    "author": "saikatsg",
     "date": "2026-09-02",
-    "score": 283,
-    "comments": 273,
-    "id": 49530989,
-    "discussion_url": "https://news.ycombinator.com/item?id=49530989",
-    "description": "True Rate of Unemployment",
+    "score": 73,
+    "comments": 16,
+    "id": 49536411,
+    "discussion_url": "https://news.ycombinator.com/item?id=49536411",
+    "description": "WebLLM: high-performance in-browser LLM inference engine",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644048"
+    "fetched_at": "2026-09-02T21:36:05.354812"
   },
   {
-    "title": "WebFPGA (2019)",
-    "url": "https://webfpga.io/",
-    "author": "gurjeet",
-    "date": "2026-09-02",
-    "score": 99,
-    "comments": 35,
-    "id": 49531525,
-    "discussion_url": "https://news.ycombinator.com/item?id=49531525",
-    "description": "WebFPGA (2019)",
+    "title": "Wendell Berry has died",
+    "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+    "author": "Curiositry",
+    "date": "2026-09-01",
+    "score": 87,
+    "comments": 41,
+    "id": 49517018,
+    "discussion_url": "https://news.ycombinator.com/item?id=49517018",
+    "description": "Wendell Berry has died",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.644010"
-  },
-  {
-    "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-    "author": "joozio",
-    "date": "2026-08-31",
-    "score": 117,
-    "comments": 89,
-    "id": 49508225,
-    "discussion_url": "https://news.ycombinator.com/item?id=49508225",
-    "description": "You Know Who Hates AI? Insurance Claims Adjusters",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-02T14:58:52.643948"
+    "fetched_at": "2026-09-02T21:36:05.354837"
   }
 ]
