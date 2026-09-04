@@ -5,7 +5,7 @@
     "date": "2026-09-03",
     "description": "Written ahead of an upcoming speaking gigSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowSep 320 Agentic AI Terms Every Developer Should Know (E...",
     "tags": "#ai, #agents, #mcp, #beginners",
-    "reactions": "71 reactions",
+    "reactions": "101 reactions",
     "comments": "0",
     "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
   },
@@ -13,9 +13,9 @@
     "title": "AI-assisted genealogy",
     "author": "Nicolas Fränkel",
     "date": "2026-09-03",
-    "description": "Nicolas FränkelNicolas FränkelNicolas FränkelFollowSep 3AI-assisted genealogy#ai#codingassistant#genealogy#claude13reactionsPicked as gemPicked as gem...",
+    "description": "Nicolas FränkelNicolas FränkelNicolas FränkelFollowSep 3AI-assisted genealogy#ai#codingassistant#genealogy#claude17reactionsPicked as gemPicked as gem...",
     "tags": "#ai, #codingassistant, #genealogy, #claude",
-    "reactions": "13 reactions",
+    "reactions": "17 reactions",
     "comments": "0",
     "url": "https://dev.to/nfrankel/ai-assisted-genealogy-9cn"
   },
@@ -25,9 +25,19 @@
     "date": "2026-09-01",
     "description": "Shifts the builder's role from typist to architectJames AndersonJames AndersonJames AndersonFollowSep 1Building With AI When You Don't Know Architectu...",
     "tags": "#ai, #beginners, #webdev",
-    "reactions": "75 reactions",
+    "reactions": "93 reactions",
     "comments": "0",
     "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3"
+  },
+  {
+    "title": "Designing a Webhook Delivery System for 10 Million Events a Day",
+    "author": "Athreya aka Maneshwar",
+    "date": "2026-09-02",
+    "description": "Athreya aka ManeshwarAthreya aka ManeshwarAthreya aka ManeshwarFollowSep 2Designing a Webhook Delivery System for 10 Million Events a Day#systemdesign...",
+    "tags": "#systemdesign, #webhooks, #backend, #architecture",
+    "reactions": "32 reactions",
+    "comments": "0",
+    "url": "https://dev.to/lovestaco/designing-a-webhook-delivery-system-for-10-million-events-a-day-2p5d"
   },
   {
     "title": "Execution Trees, Not More Logs: A Better Debugging Model for AI Agents",
@@ -35,7 +45,7 @@
     "date": "2026-09-02",
     "description": "Mental timeline reconstruction fails at scaleRaju DandigamRaju DandigamRaju DandigamFollowSep 2Execution Trees, Not More Logs: A Better Debugging Mode...",
     "tags": "#ai, #typescript, #debugging, #opensource",
-    "reactions": "24 reactions",
+    "reactions": "28 reactions",
     "comments": "0",
     "url": "https://dev.to/raju_dandigam/execution-trees-not-more-logs-a-better-debugging-model-for-ai-agents-3d4g"
   },
@@ -45,9 +55,19 @@
     "date": "2026-08-31",
     "description": "Details Forem's tricky edge-caching deployment fixBen HalpernBen HalpernBen HalpernFollowforThe DEV TeamAug 31Fixing Delicate Cache Mismatches in a Br...",
     "tags": "#webdev, #architecture, #webperf, #rails",
-    "reactions": "50 reactions",
-    "comments": "Comments 6 comments",
+    "reactions": "51 reactions",
+    "comments": "Comments 8 comments",
     "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9"
+  },
+  {
+    "title": "Hey Everyone! I’m Sanidhya from MLH",
+    "author": "Sanidhya Goel",
+    "date": "2026-09-04",
+    "description": "From volunteer to hackathon managerSanidhya GoelSanidhya GoelSanidhya GoelFollowforMajor League Hacking (MLH)Sep 4Hey Everyone! I’m Sanidhya from MLH#...",
+    "tags": "#mlh, #community, #devrel, #career",
+    "reactions": "26 reactions",
+    "comments": "0",
+    "url": "https://blog.mlh.com/hey-everyone-im-sanidhya-from-mlh-25an"
   },
   {
     "title": "How long does it take for you to write a dev.to article?",
@@ -55,7 +75,7 @@
     "date": "2026-08-31",
     "description": "Compares casual versus technical writing timesFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowAug 31How long does it take for you to...",
     "tags": "#discuss, #community, #writing, #devto",
-    "reactions": "112 reactions",
+    "reactions": "119 reactions",
     "comments": "0",
     "url": "https://dev.to/francistrdev/how-long-does-it-take-for-you-to-write-a-devto-article-49m1"
   },
@@ -75,7 +95,7 @@
     "date": "2026-09-03",
     "description": "Schema validation belongs outside promptsHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowSep 3I Built My First AWS Agent Workflow, and the...",
     "tags": "#discuss, #aws, #beginners, #agents",
-    "reactions": "36 reactions",
+    "reactions": "65 reactions",
     "comments": "0",
     "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg"
   },
@@ -95,9 +115,19 @@
     "date": "2026-08-31",
     "description": "A gamified coding quest full of Easter eggsTheaTheaTheaFollowAug 31I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling#algorithms#python...",
     "tags": "#algorithms, #python, #adventofcode, #programming",
-    "reactions": "20 reactions",
+    "reactions": "23 reactions",
     "comments": "0",
     "url": "https://dev.to/highflyer910/i-tried-to-beat-peter-norvig-and-accidentally-became-ryan-gosling-45b8"
+  },
+  {
+    "title": "Join our DEV Weekend Challenge: Generosity Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due September 7 at 6:59 AM UTC.",
+    "author": "Jem",
+    "date": "2026-09-04",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxFeeling generous? You could win $200.Our Weekend Challenge: Generos...",
+    "tags": "#devchallenge, #weekendchallenge, #hackathon",
+    "reactions": "5 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en?bb=264284"
   },
   {
     "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
@@ -108,6 +138,16 @@
     "reactions": "11 reactions",
     "comments": "0",
     "url": "https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p"
+  },
+  {
+    "title": "React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is",
+    "author": "Shubhra Pokhariya",
+    "date": "2026-09-01",
+    "description": "Didactic reverse-engineering of core conceptsShubhra PokhariyaShubhra PokhariyaShubhra PokhariyaFollowSep 1React 19 Actions: I Explained 3 Hooks Witho...",
+    "tags": "#react, #javascript, #webdev, #programming",
+    "reactions": "47 reactions",
+    "comments": "0",
+    "url": "https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79"
   },
   {
     "title": "Streamline Publishing with a Claude Code Skill",
@@ -125,7 +165,7 @@
     "date": "2026-09-02",
     "description": "The hidden trap of endless AI capabilitiesAlexandraAlexandraAlexandraFollowSep 2What do you build when you can build anything?#discuss#ai#productivity...",
     "tags": "#discuss, #ai, #productivity",
-    "reactions": "56 reactions",
+    "reactions": "59 reactions",
     "comments": "0",
     "url": "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0"
   },
@@ -135,48 +175,18 @@
     "date": "2026-09-01",
     "description": "AI speeds production but wastes early winsJenna PedersonJenna PedersonJenna PedersonFollowSep 1What happens to technical debt when AI makes code cheap...",
     "tags": "#ai, #programming, #software, #agents",
-    "reactions": "23 reactions",
+    "reactions": "24 reactions",
     "comments": "0",
     "url": "https://dev.to/jennapederson/what-happens-to-technical-debt-when-ai-makes-code-cheap-9oa"
   },
   {
-    "title": "What two months of interviewing taught me about the 2026 tech job market",
-    "author": "Alexandra",
-    "date": "2026-08-28",
-    "description": "Hiring shifts from potential to exact matchesAlexandraAlexandraAlexandraFollowAug 28What two months of interviewing taught me about the 2026 tech job ...",
-    "tags": "#discuss, #interview, #software",
-    "reactions": "77 reactions",
-    "comments": "Comments 37 comments",
-    "url": "https://dev.to/ale3oula/what-two-months-of-interviewing-taught-me-about-the-2026-tech-job-market-3d8n"
-  },
-  {
-    "title": "What was your win this week?!",
+    "title": "What was your win this week?",
     "author": "Jess Lee",
-    "date": "2026-08-28",
-    "description": "Community members share major career milestonesJess LeeJess LeeJess LeeFollowforThe DEV TeamAug 28What was your win this week?!#discuss#weeklyretro53r...",
-    "tags": "#discuss, #weeklyretro",
-    "reactions": "53 reactions",
-    "comments": "Comments 50 comments",
-    "url": "https://dev.to/devteam/what-was-your-win-this-week-51oc"
-  },
-  {
-    "title": "Your AI Remembers Everything and Trusts All of It",
-    "author": "marcosomma",
-    "date": "2026-08-28",
-    "description": "Focuses on the economics of forgettingmarcosommamarcosommamarcosommaFollowAug 28Your AI Remembers Everything and Trusts All of It#ai#architecture#llm#...",
-    "tags": "#ai, #architecture, #llm, #systemdesign",
-    "reactions": "37 reactions",
-    "comments": "Comments 42 comments",
-    "url": "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg"
-  },
-  {
-    "title": "🗓️ Monthly Dev Report: August 2026",
-    "author": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
-    "date": "2026-08-28",
-    "description": "Includes creative Git tips and community shoutoutsFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFrancisTRᴅᴇᴠ (っ◔◡◔)っFollowAug 28🗓️ Monthly Dev Report: Augus...",
-    "tags": "#discuss, #community, #devjournal, #programming",
-    "reactions": "103 reactions",
-    "comments": "Comments 33 comments",
-    "url": "https://dev.to/francistrdev/monthly-dev-report-august-2026-4mh2"
+    "date": "2026-09-04",
+    "description": "Jess LeeJess LeeJess LeeFollowforThe DEV TeamSep 4What was your win this week?#weeklyretro11reactionsCommentsAdd Comment1 min read",
+    "tags": "#weeklyretro",
+    "reactions": "11 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-1mo8"
   }
 ]
