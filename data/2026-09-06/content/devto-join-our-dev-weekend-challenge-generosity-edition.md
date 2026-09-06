@@ -1,10 +1,10 @@
 ---
 title: 'Join our DEV Weekend Challenge: Generosity Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due September 7 at 6:59 AM UTC. - DEV Community'
-url: https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en?bb=264280
+url: https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en?bb=264281
 site_name: devto
 content_file: devto-join-our-dev-weekend-challenge-generosity-edition
-fetched_at: '2026-09-06T13:57:17.548482'
-original_url: https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en?bb=264280
+fetched_at: '2026-09-06T21:03:30.364162'
+original_url: https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en?bb=264281
 author: Jem
 date: '2026-09-04'
 description: We're back with another DEV Weekend Challenge, a short bite-sized challenge planned to fit into your... Tagged with devchallenge, weekendchallenge, hackathon.
@@ -152,7 +152,7 @@ Preview
 
 Dismiss
 
- View full discussion (20 comments)
+ View full discussion (21 comments)
  
 
 For further actions, you may consider blocking this person and/orreporting abuse
