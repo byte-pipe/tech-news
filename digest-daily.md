@@ -1,68 +1,52 @@
 ---
-date: '2026-09-05'
+date: '2026-09-07'
 model: gpt-oss:120b-cloud
-generated_at: '2026-09-05T22:05:29.946450'
+generated_at: '2026-09-07T08:08:40.571158'
 ---
 
 ## Executive Summary
-- Fairphone’s Gen 6+ demonstrates that a high‑performance, modular smartphone can be built around repairability and ethical sourcing, albeit with modest trade‑offs in size and display brightness.  
-- New benchmarks such as EEBench reveal that AI models are beginning to design real‑world circuits, with Anthropic’s Claude series outpacing OpenAI’s offerings.  
-- U.S. public confidence in government plummets to a record‑high 89% perception of corruption, surpassing all OECD peers, while bipartisan concerns rise.  
-- The Pentagon has disabled advertising identifiers on troops’ devices to curb location‑tracking threats, and the software ecosystem sees a major productivity boost from a Rust‑based React compiler that slashes compile times by over 17×.  
+- Reasoning‑focused AI systems are now integral to the economy, but experts warn that rapid scaling could trigger recursive self‑improvement and new safety challenges.  
+- Open‑source archival media (M‑DISC) continues to claim millennial‑plus longevity, sparking renewed interest in durable data storage amid growing concerns over digital preservation.  
+- In sports, Carlos Alcaraz advanced to the US Open quarter‑finals, extending his Grand Slam winning streak to 18 matches.  
+- Marketers grapple with “vibe‑code” AI tools, balancing build‑vs‑buy decisions while confronting a resurgence of low‑value “bullshit management” amplified by automation.  
+- On the developer front, the Asahi Linux project now supports Apple’s M3 silicon, and a veteran open‑source maintainer switched to the strong‑copyleft EUPL‑1.2 license, highlighting evolving priorities in tooling and licensing.
 
 ---
 
-## AI and Machine Learning (4 articles)
+## AI and Machine Learning
 
-- **Fairphone unveils ethical, repairable Gen 6+ smartphone** [Ars Technica]  
-  The Dutch maker’s $650 Gen 6+ uses a modular, screw‑based design that lets users replace up to 12 components, targeting a five‑year lifespan and emphasizing conflict‑free minerals and living‑wage labor, though it is slightly thicker and its display is less bright than flagship phones.  
+### An Alien Mind | OpenAI *(trending)*  
+OpenAI’s “RLSlow” research showed that scaling reasoning models enables them to generate their own chains of thought, and three years later such models are embedded across the economy, scientific research, and security. The author warns that unchecked recursive self‑improvement could outpace safety measures, calling for interventions beyond internal OpenAI work.
 
-- **EEBench benchmark evaluates AI’s ability to design circuit boards** [EEBench]  
-  The new EEBench suite grades AI agents on declarative circuit specifications and SPICE simulations; Anthropic’s Claude Opus 5 leads with a 61.6 % score, while OpenAI’s GPT‑5.5 trails at 42 %, highlighting the gap between language‑model knowledge and practical hardware design.  
+### M‑DISC – Wikipedia *(trending)*  
+M‑DISC optical discs, introduced in 2009, use a glassy‑carbon data layer claimed to survive up to 1 000 years, with some tests suggesting even longer durability. Despite bankruptcy of the original maker, the format is still sold by Ritek and Verbatim, and recent NIST reports list it as an acceptable archival medium for a century‑plus lifespan.
 
-- **U.S. public perceives record‑high government corruption at 89%** [hnrss]  
-  Gallup’s 2026 survey shows bipartisan alarm—Democrats at 91% and Republicans at 83%—pushing U.S. perception of government corruption to a two‑decade high and above all OECD nations, with business corruption seen by 71% of respondents.  
+### Alcaraz breezes into last eight at US Open | Al Jazeera  
+Carlos Alcaraz defeated Tommy Paul 6‑4 6‑3 6‑4 to reach the US Open quarter‑finals, extending his Grand Slam match‑win streak to 18 after a five‑month wrist injury layoff. He praised his calm, aggressive play and set up a potential showdown with Ben Sutton or Stefanos Tsitsipas.
 
-- **Report finds former Labor Secretary Lori Chavez‑DeRemer fostered hostile workplace** [NPR]  
-  The Labor Department OIG concluded Chavez‑DeRemer ignored documented harassment, misused staff for personal errands, and leveraged official travel for private purposes, though no criminal violations were identified.  
+### Build vs. buy: a guide for marketers in the vibe code era | TLDR  
+The article maps when marketing teams should develop internal tools versus purchase SaaS solutions, emphasizing that AI‑driven “vibe‑code” projects can create tech debt if not carefully scoped. Recommendations include buying CRMs and BI platforms, building custom audience data pipelines, and using LLM‑enhanced code generation for CMS work only when strong engineering guardrails exist.
+
+### Building and Using Named Queries | TLDR  
+By registering SPARQL queries as RDF resources with metadata, developers can turn ad‑hoc queries into stable, ACL‑protected APIs, improving discoverability, versioning, and auditability. Named queries also mitigate injection attacks and lower the expertise barrier for consuming graph data.
+
+### Bullshit Management Didn’t Die. It Got Automated. | TLDR  
+The author revisits “bullshit management,” showing how AI now automates low‑value practices such as AI‑generated PRDs, inflated backlogs, and synthetic performance reports, further eroding genuine decision‑making. The cheap cost of AI‑driven output removes the natural “cost of delivery” constraint, leading to a proliferation of polished but empty deliverables.
 
 ---
 
-## Cybersecurity and Privacy (1 article)
+## Software Engineering and Dev Tools
 
-- **U.S. military disables advertising IDs on troops’ devices amid security fears** [The Guardian]  
-  In response to data‑broker tracking concerns, the Air Force, SOCOM, Army, and Navy have turned off mobile advertising identifiers (MAIDs) on computers and phones, while lawmakers push for a broader investigation into the adequacy of the Pentagon’s safeguards.  
+### I changed my license – Henri Bergius in Alofi, Niue | Hacker News  
+After 28 years of open‑source work, Bergius moved his projects to the European Union Public License 1.2, a strong‑copyleft license that closes the SaaS loophole and offers official translations in 23 languages. He argues that permissive licenses have mainly enriched large corporations, whereas EUPL‑1.2 better protects community‑driven development.
 
----
+### M2: Episode 1 (or, Asahi Linux on M3) – Asahi Linux *(trending)*  
+The Asahi Linux installer now supports Apple’s M3‑series Macs, bringing most M1/M2 hardware functionality (webcam, USB, video decoding, Wi‑Fi/Bluetooth) to the new chips. Missing pieces include full DCP support, GPU 3‑D acceleration, and reliable sleep, which are slated for removal of the current “Expert mode” requirement before the Fedora 45 beta.
 
-## Software Engineering and Dev Tools (8 articles)
-
-- **NVD – Home** [hackernews_api] *(trending: seen 2×)*  
-  No article text was provided; details unavailable.  
-
-- **Statichost.eu offers fully European static site hosting with GDPR‑compliant CDN** [hackernews_api] *(trending: seen 2×)*  
-  The service lets developers deploy from any git repo, provides free SSL, instant rollbacks, and a private‑beta CDN that avoids reliance on U.S. cloud providers, targeting privacy‑focused users.  
-
-- **deSEC provides free, secure DNS hosting using open‑source software** [hnrss]  
-  The platform delivers unlimited DNS zones at no cost, with a JavaScript‑based control panel and API access, emphasizing security and community‑driven development.  
-
-- **Rust‑based React compiler delivers 17.6× faster compilation for large codebases** [Master.dev Blog]  
-  Switching to the oxc React compiler cuts single‑threaded compile time from 14.3 s to 0.81 s and overall build time by ~2.4×, expands language feature support, and aligns linting and compilation to prevent mismatches.  
-
-- **AI résumé optimization creates a self‑reinforcing “doom loop” in hiring** [WIRED]  
-  Job‑search platforms sell costly AI tools that claim to game ATS systems, but mismatched employer practices and opaque algorithms often render the effort ineffective, prompting calls for a return to human‑centric evaluation.  
-
-- **Trump‑era immigration courts relocate hearings to obscure sites, jeopardizing due process** [NPR]  
-  Sudden venue changes to a FEMA office in D.C. and a building in Falls Church, VA, give immigrants minimal notice, risking in‑absentia removal orders and violating DOJ notice‑period requirements.  
-
-- **Flood‑ravaged Nepal faces health crises amid destroyed infrastructure** [NPR]  
-  After catastrophic August floods, hospitals are demolished, water‑borne disease risk spikes, and a growing mental‑health emergency affects thousands of displaced survivors, prompting urgent humanitarian assistance.  
-
-- **WorkOS launches Agent Auth for short‑lived, scoped tokens for software agents** [WorkOS]  
-  The early‑access feature replaces long‑lived API keys with identity‑based tokens that can be delegated or autonomous, supporting fine‑grained permissions and instant revocation for agent‑driven applications.  
+### Visualizing Rust’s Vtables: How dyn Trait Works In Memory | Hacker News  
+The piece explains Rust’s polymorphism by contrasting static dispatch (generics) with dynamic dispatch via fat pointers (`&dyn Trait`) that contain both a data pointer and a vtable pointer. It shows how Rust’s zero‑sized types and trait objects differ from C++ virtual functions, offering insight into runtime overhead and memory layout.
 
 ---
 
 ## Notable Mentions
-- AI agents help compress ransomware intrusion to under 10 hours, raising stakes for CISOs | CSO Online [tldr]  
-- AWSHound: An OpenSource AWS OpenGraph Collector - SpecterOps [tldr]
+- *(No additional items were flagged as notable mentions in today’s feed.)*
