@@ -1,52 +1,76 @@
 ---
-date: '2026-09-07'
+date: '2026-09-08'
 model: gpt-oss:120b-cloud
-generated_at: '2026-09-07T08:08:40.571158'
+generated_at: '2026-09-08T00:32:38.171935'
 ---
 
 ## Executive Summary
-- Reasoning‑focused AI systems are now integral to the economy, but experts warn that rapid scaling could trigger recursive self‑improvement and new safety challenges.  
-- Open‑source archival media (M‑DISC) continues to claim millennial‑plus longevity, sparking renewed interest in durable data storage amid growing concerns over digital preservation.  
-- In sports, Carlos Alcaraz advanced to the US Open quarter‑finals, extending his Grand Slam winning streak to 18 matches.  
-- Marketers grapple with “vibe‑code” AI tools, balancing build‑vs‑buy decisions while confronting a resurgence of low‑value “bullshit management” amplified by automation.  
-- On the developer front, the Asahi Linux project now supports Apple’s M3 silicon, and a veteran open‑source maintainer switched to the strong‑copyleft EUPL‑1.2 license, highlighting evolving priorities in tooling and licensing.
+- Open‑source AI tooling is expanding rapidly, with the Feynman research agent offering automated literature reviews and the Geo‑SEO Claude skill targeting the emerging GEO search market.  
+- Privacy and security concerns dominate hardware news: LG smart TVs were found recording audio in standby mode, while Switzerland moves to replace Microsoft Office on thousands of government PCs to curb foreign data access.  
+- Transportation disruption and market competition intensify as Tesla’s Cybercab undercuts Uber on price, and a Miami cargo‑plane overrun raises safety questions.  
+- Health reporting highlights hidden crises—from heat‑related deaths in manufactured homes to a BBC presenter’s candid discussion of living with chronic blood cancer.  
+- Technical deep‑dives reveal the inner workings of Apple’s Neural Engine compiler and the release of high‑performance RF‑DETR object‑detection models, underscoring continued innovation in AI hardware and open‑source vision models.  
 
----
+---  
 
-## AI and Machine Learning
+## AI and Machine Learning  
 
-### An Alien Mind | OpenAI *(trending)*  
-OpenAI’s “RLSlow” research showed that scaling reasoning models enables them to generate their own chains of thought, and three years later such models are embedded across the economy, scientific research, and security. The author warns that unchecked recursive self‑improvement could outpace safety measures, calling for interventions beyond internal OpenAI work.
+### GitHub - advaitpaliwal/feynman: The open source AI research agent. **[GitHub]**  
+Feynman provides a command‑line research assistant that can search literature, rank papers, fetch full texts, audit claims, and even replicate experiments, supporting both local LLMs and hosted providers.  
 
-### M‑DISC – Wikipedia *(trending)*  
-M‑DISC optical discs, introduced in 2009, use a glassy‑carbon data layer claimed to survive up to 1 000 years, with some tests suggesting even longer durability. Despite bankruptcy of the original maker, the format is still sold by Ritek and Verbatim, and recent NIST reports list it as an acceptable archival medium for a century‑plus lifespan.
+### GitHub - zubair-trabzada/geo-seo-claude: GEO‑first SEO skill for Claude Code. **[GitHub]**  
+The repo delivers a Claude‑Code skill suite that audits website GEO visibility, scores “citability,” generates structured data, and produces client‑ready reports, aiming at the booming AI‑referenced traffic market projected to exceed $7 B by 2031.  
 
-### Alcaraz breezes into last eight at US Open | Al Jazeera  
-Carlos Alcaraz defeated Tommy Paul 6‑4 6‑3 6‑4 to reach the US Open quarter‑finals, extending his Grand Slam match‑win streak to 18 after a five‑month wrist injury layoff. He praised his calm, aggressive play and set up a potential showdown with Ben Sutton or Stefanos Tsitsipas.
+### Keep Our Servers Running: Your Recurring Donation Goes 3X This September | Internet Archive Blogs. **[Hacker News]**  
+The Internet Archive is running a 2:1 matching campaign for September recurring gifts of $25+ to triple the impact of donations, emphasizing the need for stable funding to maintain its 210‑petabyte digital library.  
 
-### Build vs. buy: a guide for marketers in the vibe code era | TLDR  
-The article maps when marketing teams should develop internal tools versus purchase SaaS solutions, emphasizing that AI‑driven “vibe‑code” projects can create tech debt if not carefully scoped. Recommendations include buying CRMs and BI platforms, building custom audience data pipelines, and using LLM‑enhanced code generation for CMS work only when strong engineering guardrails exist.
+### How heat is killing people who live in manufactured homes – NPR. **[Newsfeed]**  
+NPR’s investigation estimates roughly 9,000 U.S. heat‑related deaths annually, with residents of mobile homes facing a 6–8× higher risk due to poor insulation, limited cooling, and inadequate assistance programs.  
 
-### Building and Using Named Queries | TLDR  
-By registering SPARQL queries as RDF resources with metadata, developers can turn ad‑hoc queries into stable, ACL‑protected APIs, improving discoverability, versioning, and auditability. Named queries also mitigate injection attacks and lower the expertise barrier for consuming graph data.
+### ‘I have chronic cancer but I’m not going to die’ – BBC presenter Maryam Moshiri – BBC News. **[Newsfeed]**  
+BBC journalist Maryam Moshiri explains that her polycythaemia vera diagnosis is chronic but manageable, highlighting early detection’s role in improving prognosis for rare blood cancers.  
 
-### Bullshit Management Didn’t Die. It Got Automated. | TLDR  
-The author revisits “bullshit management,” showing how AI now automates low‑value practices such as AI‑generated PRDs, inflated backlogs, and synthetic performance reports, further eroding genuine decision‑making. The cheap cost of AI‑driven output removes the natural “cost of delivery” constraint, leading to a proliferation of polished but empty deliverables.
+### Between the Graph and the Silicon: Inside the Apple Neural Engine Compiler – smolnero. **[TLDR]**  
+The article demystifies Apple’s opaque ANE compiler stack, detailing how graph‑level fusion, legality checks, and DMA scheduling transform neural‑network graphs into hardware‑specific operations, and clarifying the distinction between “supported” and “executable” features.  
 
----
+### Can Tesla Cybercab Actually Kill Uber? Day‑Two Pricing From Austin – farzad.fm. **[TLDR]**  
+A field test in Austin shows Tesla’s Cybercab charging $14.87 with a 30‑minute wait, undercutting Uber’s $25‑$56 fares but suffering longer wait times due to limited fleet size; the analysis suggests Tesla’s driverless economics could pressure Uber’s pricing and labor model.  
 
-## Software Engineering and Dev Tools
+---  
 
-### I changed my license – Henri Bergius in Alofi, Niue | Hacker News  
-After 28 years of open‑source work, Bergius moved his projects to the European Union Public License 1.2, a strong‑copyleft license that closes the SaaS loophole and offers official translations in 23 languages. He argues that permissive licenses have mainly enriched large corporations, whereas EUPL‑1.2 better protects community‑driven development.
+## Software Engineering and Dev Tools  
 
-### M2: Episode 1 (or, Asahi Linux on M3) – Asahi Linux *(trending)*  
-The Asahi Linux installer now supports Apple’s M3‑series Macs, bringing most M1/M2 hardware functionality (webcam, USB, video decoding, Wi‑Fi/Bluetooth) to the new chips. Missing pieces include full DCP support, GPU 3‑D acceleration, and reliable sleep, which are slated for removal of the current “Expert mode” requirement before the Fedora 45 beta.
+### GitHub - MoonTechLab/LunaTV: Chinese‑language streaming aggregator. **[GitHub]**  
+LunaTV is a Next.js‑based, Docker‑deployable streaming front‑end that aggregates multiple video sources, supports offline PWA use, and offers optional ad‑blocking, with storage options ranging from Kvrocks to Upstash.  
 
-### Visualizing Rust’s Vtables: How dyn Trait Works In Memory | Hacker News  
-The piece explains Rust’s polymorphism by contrasting static dispatch (generics) with dynamic dispatch via fat pointers (`&dyn Trait`) that contain both a data pointer and a vtable pointer. It shows how Rust’s zero‑sized types and trait objects differ from C++ virtual functions, offering insight into runtime overhead and memory layout.
+### GrapheneOS: “We’re well into the process of converting the Mes…” – GrapheneOS Mastodon. **[Hacker News]**  
+*Content not provided; further details are required to summarize this announcement.*  
 
----
+### LG smart TVs caught logging audio with screen off and snooping on local devices – Notebookcheck News. **[Hacker News]**  
+Testing revealed LG OLED TVs continuously scan Wi‑Fi networks, record audio even in standby, and upload data to LG Ad Solutions, while also harboring unpatched webOS vulnerabilities that could permit remote code execution.  
 
-## Notable Mentions
-- *(No additional items were flagged as notable mentions in today’s feed.)*
+### Making sure you’re not a bot! – Hacker News. **[Hacker News]**  
+The “Anubis” JavaScript‑based proof‑of‑work challenge is deployed to deter large‑scale scrapers, requiring modern JS features and temporarily blocking headless browsers, while developers work on more sophisticated fingerprinting.  
+
+### Switzerland's Federal Government is Replacing Microsoft on 3,000 Computers – Hacker News. **[Hacker News]**  
+Switzerland is piloting a CHF 9 million open‑source desktop suite (openDesk) on 3 000 federal workstations to reduce reliance on U.S. cloud services, citing sovereignty, security, and cost concerns; full rollout could extend to all 54 000 machines by 2027.  
+
+### Up First briefing: Miami plane crash; Ukraine; Affirmative for Germany – NPR. **[Newsfeed]**  
+- A cargo plane overran Miami International’s runway, killing five and injuring five, prompting an NTSB investigation.  
+- Former U.S. envoys met Ukraine’s Zelenskyy in Kyiv after talks with Putin, seeking to revive peace negotiations.  
+- Germany’s far‑right AfD won a near‑majority in Saxony‑Anhalt, potentially forming the country’s first regional far‑right government since the Nazi era.  
+
+### Burnt out on a three‑day week – TLDR. **[TLDR]**  
+The piece argues that burnout often stems from a mismatch between a worker’s self‑identity and the demands of a reduced‑hour role, using case studies of “Maya” and “Jordan” to illustrate how misaligned expectations, not workload volume, drive exhaustion.  
+
+---  
+
+## Open Source  
+
+### GitHub - roboflow/rf-detr: Real‑time object detection and segmentation model. **[GitHub]**  
+Roboflow’s RF‑DETR delivers transformer‑based detection, segmentation, and keypoint models that outperform YOLO variants at comparable latency, with open‑source Apache‑2.0 releases and optional “Plus” models under a permissive license.  
+
+---  
+
+## Notable Mentions  
+- No additional items were flagged as notable mentions in the provided feed.
