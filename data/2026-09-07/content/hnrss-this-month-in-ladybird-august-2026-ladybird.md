@@ -1,0 +1,176 @@
+---
+title: This Month in Ladybird - August 2026 - Ladybird
+url: https://ladybird.org/newsletter/2026-08-31/
+site_name: hnrss
+content_file: hnrss-this-month-in-ladybird-august-2026-ladybird
+fetched_at: '2026-09-07T21:55:30.031726'
+original_url: https://ladybird.org/newsletter/2026-08-31/
+date: '2026-09-04'
+description: Video on Twitch and YouTube, CSS scroll snap, JavaScript debugging, session restore, and a serious push on engine performance with a new style engine.
+tags:
+- hackernews
+- hnrss
+---
+
+# This Month in Ladybird — August 2026
+
+ 
+ 
+ 
+ 
+ 
+
+Hello friends! In August Ladybird gained video playback on Twitch, more video formats on YouTube, CSS scroll snap, JavaScript debugging in DevTools, downloads you can pause and resume, and session restore. It’s also the month engine performance went from occasional attention to a sustained focus, with a new style engine, layout caching, and CSS animations moving off the main thread. We added caging for cell pointers stored in JavaScript values, and CSS parsing and the painting pipeline moved to Rust.
+
+### Welcoming new sponsors
+
+Ladybird is entirely funded by the generous support of companies and individuals who believe in the open web. This month, we’re excited to welcome the following new sponsors:
+
+* Arnav Guleria with $5,000
+
+You can see everyone currently supporting the project on oursponsors page, and we’re grateful to all of them. If you’re interested in sponsoring, pleasecontact us.
+
+### Video on Twitch, and more formats on YouTube
+
+Our implementation of Media Source Extensions gained support for fragmented MP4, as well as the AVC (H.264), HEVC (H.265), AV1, and AAC codecs, with support queries now communicating our real capabilities (#11251). This allows us to play adaptive-bitrate video on many more sites, including Twitch and Plex. YouTube already worked in Ladybird since all videos are available as VP9/Opus in WebM, but some older/less popular videos only have multiple quality levels in AVC, and higher qualities (especially 8K) are often only served as AV1.
+
+We also fixed a batch of playback bugs: hovering YouTube’s video-card previews no longer crashes (#10992), players usingpreload="none"no longer hang (#11454), and HLS.js-based players start playing (#11480).
+
+### CSS scroll snap
+
+Scroll snap landed (#10944):scroll-snap-type,scroll-snap-alignandscroll-snap-stop. Wheel, keyboard, scrollbar dragging, touchpad flings and programmaticscrollTo()all snap, and content re-snaps when layout changes. (scrollIntoView()doesn’t snap yet.) Carousels and full-page scrollers are built on this.
+
+### JavaScript debugging in DevTools
+
+You can now debug JavaScript in Ladybird: set breakpoints, step through code line by line, and evaluate watch expressions (#11128), built on new breakpoint support in our JavaScript engine (#10936). Wasm debugging and DOM mutation breakpoints are still missing, but the core workflow works. (As before, the Firefox DevTools frontend is a stopgap until we build our own.)
+
+### Downloads that pause and resume
+
+Downloads can now be paused and resumed, and survive a browser restart, when the server supports it (#10932). We also download over four parallel connections where possible.
+
+### Session restore
+
+Reopening a closed tab withCtrl+Shift+Tused to restore just the URL. It now restores the tab’s full session history, including back/forward state, and this persists across browser restarts (#11178). “Duplicate Tab” duplicates the session history too (#11286). We deliberately don’t persist form submission data yet; that needs careful handling first.
+
+### Browser UI
+
+* mailto:linksopen your mail client, and other external URL schemes prompt for confirmation, with protections against dangerous schemes and recursive launches (#10846).
+* JavaScript dialogs no longer block the whole browser:alert(),confirm()andprompt()are now in-page overlays in the Qt UI, instead of modal system dialogs, sowhile (true) alert("lol")can’t lock you out. You can switch tabs, or just close the tab (#11264).
+* Crash recoveryno longer injects a fake page into your session history; you get a crash screen and your real history entry is kept. Reload picks up where the crash interrupted (#11402).
+* Typinglocalhost:8000or127.0.0.1in the URL barnow navigates there overhttpinstead of failing (#11007).
+* A pile of Wayland fixes: the omnibox stays put (#10862,#11149),Tabcycles page focus correctly (#10868), and scrollbar drags that leave the window no longer drop the mouse release (this one fixed on all of Linux,#11343).
+
+### Site compatibility rules
+
+Some sites serve Ladybird broken content based on User-Agent sniffing. We now handle this with declarative site-compatibility rules loaded at runtime, instead of hardcoding per-site policy into the browser (#11327). The rules are plain JSON, so anyone can see what we do for which site. The first users are nytimes.com and cnn.com, which both render properly when we hide “Ladybird” from the User-Agent string (#11333).
+
+Before
+After
+
+### Sites that work better
+
+* chatgpt.com: a crash on the logged-in page plus three layout fixes (#11398).
+* vscode.dev: crashed seconds after opening a new file. Hit testing readpointer-eventsfrom the wrong element, and VS Code’s empty-editor hint triggers it (#11342).
+* icloud.com: sites that declare their character encoding more than 1KB into the page no longer render as mojibake (#11219).
+* strava.com: two separate fixes each cut activity map load time roughly in half (#11133,#11114), chart popups follow your mouse now thatsvg.getScreenCTM()is implemented (#11177), and one activity page that used to grow until it ran out of memory no longer does; the memory it held onto dropped from 17.8 GiB to 61 MiB (#11055).
+* outlook.com and Word: an Outlook crash fixed, and signing in to Word works (#11216).
+* milliondollarhomepage.com and xkcd:<area>image-map links are clickable (#10863).
+
+### CSS
+
+* 3D transforms: a run of fixes filled in big missing pieces of 3D rendering: flattening attransform-style: flatboundaries (#11009),backface-visibility(#10960), and correct depth sorting of intersecting 3D planes using a BSP tree (#11045). The depth sorting was tested againstcssDOOM, a DOOM renderer built out of pure CSS 3D transforms: walls now draw in the right order, and surfaces no longer flicker (#11466).
+* overflow-wrap: long unbreakable words now emergency-break at grapheme boundaries instead of overflowing their container (RTL text doesn’t emergency-break yet) (#11416). Noticeably better on Google Translate.
+* Right-to-left scroll containersscroll in the correct direction; previously some RTL content was unreachable (#11023).
+* Text decorationsare painted from the decorating box with its color, thickness and font geometry, which fixed the unconditional underlines on BBC Weather (#10744).
+
+Here’s a run through the first level of cssDOOM in Ladybird:
+
+And Google Translate before and afteroverflow-wrap:
+
+Before
+After
+
+### Taking performance seriously
+
+We run the browser benchmarks continuously against master and track the results atlinegodown.lol. Over August, our Speedometer 2 score went from about 47 to about 64, Speedometer 3 from about 2.5 to about 3.9, and StyleBench from about 3.5 to about 83. These are still modest numbers next to the mature engines, but the movement is real.
+
+Part of the push is systematic: we benchmark individual operations against other browsers, find the ones where we’re drastically slower, and track down why. A DOM operation that’s 100x slower than Chromium’s usually isn’t 100x slower for a deep reason; something is simply wrong, and finding it helps real pages. A month of this cut many such ratios by an order of magnitude: canvasfillStyleparsing went from about 90x slower than Chromium to about 2x (#11300),replaceChildren()from 13x to under 4x (#11306), and list insertion and removal from over 120x to under 20x (#11389).
+
+The JavaScript engine got its own batch of fast paths, for property access (#11175), spread (#11383), promise combinators (#11374), andJSON.stringify, which is now within about 15% of V8 on our benchmark (#11329). The most satisfying fix: arrays that temporarily went sparse used to stay in slow hash-table storage forever. 30 lines later, Minecraft4k went from 10.2 to 14.5 FPS (#11423).
+
+### A new style engine
+
+We replaced our selector matching, style invalidation, cascade and computed-style retention with a new engine (#11088). We want style work to be proportional to what changed, not to what might have changed.
+
+Historically, when something changes, browser engines have marked everything the change might affect, then re-matched and re-cascaded all of it. Modern engines narrow that set with techniques like invalidation sets and style sharing, but the pattern is the same, and opening a menu can still invalidate thousands of elements to change the style of a few dozen. The new engine treats DOM mutations, state changes and CSSOM edits as a stream of typed deltas, routes each delta to the selectors that depend on it, and stops as soon as an output is unchanged. In database terms: selectors are standing queries, and computed styles are materialized views kept up to date incrementally.
+
+Correctness is the hard part. A plain, cache-free evaluator serves as the reference implementation, and every fast path is checked against it. The engine’s input stream can also be recorded from a real browsing session and replayed deterministically; during development we replayed recordings of real sites, millions of events each, and treated any output divergence as a failure.
+
+On many workloads the new engine is still slower than that approach, and there’s a lot of tuning ahead. But on StyleBench, which measures exactly this kind of incremental restyling, we’re now in the same range as the major engines. Here’s where the month ended, on an M3 MacBook Pro:
+
+Firefox is still well ahead. But this engine is a month old, and there are plenty of optimizations left to find. :^)
+
+### Caching layout results
+
+Until this month, almost any change meant laying out the whole document again, from the viewport down. We had partial relayout in a few cases aroundposition: absoluteand SVG, and that was it. Full relayout is the easy way to stay correct in a young engine, but on big pages it repeats a lot of work that produces the same answer every time.
+
+Layout results are now cached and reused based on their input constraints (#11113). A formatting context run is keyed on everything its parent hands it: the type of context, the sizing constraints, and the state of its root. When nothing in a subtree changed, the whole run replays from the cache, nested runs included, and since fragment offsets are relative to the containing block, a cached subtree can replay at a new position. A shadow mode re-runs real layout on every cache hit and panics on any divergence.
+
+The rest of the work went into making cache hits more likely. The cache originally keyed on every block-axis input, so an ancestor resolving its height threw away every cached result below it, even though most content never looks at those values; on nested flex pages, one leaf could get measured 29 times in a single layout. We now record whether a box actually observed those inputs and ignore the ones it didn’t (#11346). And DOM mutations stopped rebuilding entire layout subtrees, backed by tests comparing incrementally updated trees against from-scratch rebuilds (#11126).
+
+Together with the new style engine, this work is where most of the benchmark movement above came from.
+
+### Running CSS animations off the main thread
+
+A running CSS animation used to wake the main thread at 60Hz to recompute style, rebuild paint state and record a new display list, competing with JavaScript for the same thread, even though the animation’s whole timeline is known from its keyframes.
+
+Now, eligible opacity and transform animations are described once, as their resolved keyframes, timing and easing, and handed to the compositor, which advances them on its own vsync (#11470). The main thread isn’t involved while the animation runs. When script asks about an animation, viagetComputedStyle,currentTimeorplayState, we sample it on demand, so answers are never stale. A finite animation gets exactly one wake-up timer, at its end, to fireanimationend.
+
+Animations now stay smooth even while the main thread is busy running JavaScript, and a page full of animation should use less power. Custom properties inside keyframes also animate properly now (#11477).
+
+### More of LibWeb in Rust
+
+July’s newsletter covered moving style and layout to Rust. In August, Rust became the sole owner of several more pieces:
+
+* CSS parsingmoved over (#11318,#11334,#11240,#11360). Each grammar family landed behind an A/B mode that ran both the Rust and C++ parsers and compared serialized output across the full test suite, and C++ was only deleted at zero mismatches. It came out faster than the C++ it replaced, too.
+* Computed style storage and computationare Rust-owned; complete style updates now stay in the Rust pipeline without calling back into C++ (#11155).
+* The painting pipeline, including display list recording and hit testing, was ported (#11222), and the old C++ paintable objects were deleted (#11273).
+* Stringsnow share one representation between the two languages, so text crosses the boundary without copying (#11278).
+
+### A dedicated WebAssembly compiler service
+
+Wasm compilation already ran outside the page process, but each page process forked its own compiler, and that forking collided with sandbox restrictions; on many systems we silently fell back to the interpreter. The browser process now launches a single WasmCompiler service with its own minimal sandbox, and page processes reach it over IPC and lose their fork permission entirely (#11133). This tightened the sandbox and sped things up at the same time: it’s why those Strava maps load in about half the time on a cold visit.
+
+### Caging JavaScript values
+
+Last month we cagedArrayBuffercontents and Wasm memories. This month we added caging for cell pointers stored in NaN-boxed JavaScript values. This limits where a corrupted value can point; it does not fully cage the JavaScript heap. Previously, corrupting one NaN-boxed value in the GC heap was enough to point the engine at arbitrary process memory. Now all GC heap blocks live in a single reserved region, and cell payloads are stored as offsets into it, masked on decode, so a forged value can only land inside the region (#11086,#11316).
+
+In the interpreter’s generated code the cage base is pinned in a CPU register, so unboxing a value there is a mask and an add, with no memory loads. Freshly generated bytecode is also stored in read-only mappings now, so heap corruption can’t rewrite instruction streams directly.
+
+### Networking
+
+* Incomplete certificate chainsno longer break sites on Linux: we fetch missing intermediate certificates the way other browsers do, and chains must still validate to a trusted root (#10661).
+* Permanent redirects are cached, so revisiting a site that 301s you saves the redirect round trip (#11460).
+* Reload actually revalidates: reloading a cached page previously never contacted the server at all, even if the server was down. Investigating this also uncovered a bug in the HTML spec (#11004,whatwg/html#12760).
+
+### Web Platform Tests (WPT)
+
+OurWPTscore went from 2,079,020 to 2,088,677 this month, a gain of 9,657 subtests. For scale, July’s gain was 108.
+
+The biggest gain came from about 2,500 referrer-policy subtests covering how the referrer propagates through navigations, iframes andsrcdocdocuments. These began passing late in the month, and we now pass 99% of that suite. The rest tracks the month’s feature work: 3D transforms, scroll snap and Media Source Extensions all show up in the diff.
+
+### Other notable changes
+
+* WebGL works on Windows, through ANGLE’s Direct3D 11 backend. It was previously compiled out entirely (#11312).
+* JPEG XL decodingswitched tojxl-rs, the Rust decoder that Chrome and Firefox are adopting for their announced JPEG XL support (#11386).
+* Hidden and occluded windows stop doing work: no rasterization, no smooth-scrolling ticks, no frame presents for pages you can’t see (#11365). Together with off-the-main-thread animations, this should help battery life.
+* Session history and navigation moved to the browser process(#11116,#11270), a prerequisite for site isolation.
+* The DOM was split from its JavaScript wrappers(#9973). A DOM node now carries no JavaScript object state until script actually touches it, which reduces memory usage. It also lets the same DOM have separate wrappers per “world”, the isolation that browser extension content scripts require, so this is a step toward extension support.
+* System fonts are discovered onceand handed to helper processes as a read-only catalog, so those processes no longer need sandbox access to font directories (#11465).
+* Pasting via the context menu or middle-click now fires thepasteevent, so verification-code forms that split a pasted code across fields work however you paste (#11020).
+
+### The road to alpha
+
+We’ve said the first alpha starts in 2026, and that’s still the plan. What’s left before it can start is mostly not engine work: crash reporting that doesn’t require launching from a terminal, signed installable builds for macOS and Linux, an auto-update mechanism so alpha users get improvements as fast as we make them, a small first-run experience (including optional adblock filter lists, like EasyList, that update automatically), and a place to download it. The engine will not be finished when the alpha starts. That’s what the alpha is for!
+
+That’s it for August. Thanks for reading, and we’ll see you next month!
