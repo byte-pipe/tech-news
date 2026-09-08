@@ -1,68 +1,64 @@
 ---
-date: '2026-09-08'
+date: '2026-09-09'
 model: gpt-oss:120b-cloud
-generated_at: '2026-09-08T20:49:34.815247'
+generated_at: '2026-09-09T08:38:11.480879'
 ---
 
 ## Executive Summary
-- Open‑source AI tooling is accelerating, with the **Feynman** research agent and **geo‑seo‑claude** skill both gaining rapid community traction.  
-- Privacy and sovereignty concerns dominate the tech landscape: LG smart‑TVs were found logging audio in standby, while Switzerland’s federal government is piloting a massive migration away from Microsoft to open‑source office suites.  
-- Emerging hardware and business models are reshaping competition—Apple’s opaque Neural Engine compiler is being reverse‑engineered, and Tesla’s Cybercab pricing undercuts Uber in its first real‑world test.  
-- Non‑tech headlines highlight a hidden public‑health crisis in manufactured homes and a new 2:1 donation match campaign by the Internet Archive to sustain its 210‑petabyte library.  
-- In computer vision, Roboflow’s **RF‑DETR** family pushes state‑of‑the‑art detection, segmentation, and keypoint performance at real‑time speeds.  
+OpenAI unveiled a faster, higher‑quality version of its image generation model (ChatGPT Images 2.5) and announced a breakthrough AI‑produced proof for the Navier–Stokes Millennium Prize problem, a story that is trending across the tech community. In cybersecurity, JetBrains disclosed a breach of its Cadence platform that exposed AWS credentials, while education institutions face new PaperCut exploits stealing user passwords. Across software tooling, a DHS predictive‑policing unit’s use of financial‑behavior data raised privacy concerns, and open‑source projects demonstrated the feasibility of running massive language models on consumer‑grade Apple Silicon hardware.  
 
----  
+---
 
-## AI and Machine Learning  
+## AI and Machine Learning
 
-### **GitHub – advaitpaliwal/feynman: The open‑source AI research agent** [GitHub]  
-The Feynman tool lets users run multi‑agent literature searches, rank papers, fetch full texts, audit claims, and even replicate experiments via a command‑line interface that supports local and hosted LLM back‑ends.  
+### Introducing ChatGPT Images 2.5 | OpenAI [hackernews_api]  
+OpenAI released two new image models—GPT‑Image‑2.5 Flare and Sunburst—delivering sharper detail, richer textures, and up to 50 % faster generation. New product features such as “Sketch” drawing, template libraries, and inline comment editing aim to lower the barrier for non‑artists and accelerate creative workflows.
 
-### **GitHub – zubair‑trabzada/geo‑seo‑claude: GEO‑first SEO skill for Claude Code** [GitHub]  
-geo‑seo‑claude provides a suite of 13 SEO sub‑skills (audit, citability, schema, etc.) that run on Claude Code, targeting the exploding “GEO” market where AI‑referenced traffic now outpaces organic search.  
+### On the Navier–Stokes Millennium Prize Problem | OpenAI [hackernews_api] *(trending)*  
+OpenAI’s internal AI system produced an analytical proof and a Lean formalization showing that smooth, three‑dimensional incompressible flows can develop finite‑time singularities, resolving statements C and D of the Clay Millennium problem. The result emerged after a coordinated effort of roughly 10 000 agents working for 88 hours, marking a rare AI‑driven breakthrough in pure mathematics.
 
-### **Keep Our Servers Running: Your Recurring Donation Goes 3X This September** [Internet Archive Blogs]  
-The Internet Archive is offering a 2:1 matching program for new recurring donations of $25 + in September, effectively tripling the impact of each contribution to fund its 210‑petabyte digital library.  
+### copperhead. Cursor for circuit boards. | HNRSS [hnrss]  
+Copperhead is an open‑source AI platform that automates PCB design through a staged, verification‑driven workflow integrated with KiCad, offering both a free CLI and paid cloud tiers. It logs every design decision, ensures real‑time ERC/DRC compliance, and targets teams that need traceable, rapid hardware iteration.
 
-### **How heat is killing people who live in manufactured homes** [NPR]  
-NPR’s investigation estimates roughly 9,000 heat‑related deaths annually in the U.S., with residents of mobile homes facing a 6–8× higher risk due to poor insulation, limited cooling, and inadequate assistance programs.  
+### The two Christian saints who are secretly the Buddha | Signore Galilei [hnrss]  
+The article traces how the medieval legend of Saints Barlaam and Josaphat originated from Buddhist narratives, evolving through Arabic, Persian, and Georgian translations into a Christian hagiography. It highlights the broader pattern of religious stories crossing cultural boundaries and influencing traditions from Europe to Japan.
 
-### **‘I have chronic cancer but I’m not going to die’ – BBC presenter Maryam Moshiri** [BBC News]  
-BBC anchor Maryam Moshiri disclosed her diagnosis of polycythaemia vera, explaining that while incurable, the disease is manageable and she does not expect it to be fatal.  
+### Everyday Forms Of Engineering Mentorship | IEEE Spectrum [newsfeed]  
+The piece argues that informal mentorship—through code reviews, pair programming, and community interaction—can be as valuable as formal programs for engineers’ growth. It showcases hands‑on training initiatives like Brian Jenney’s Parsity as models for peer‑driven skill development.
 
-### **Between the Graph and the Silicon: Inside the Apple Neural Engine Compiler** [smolnero]  
-The article breaks down how Apple’s ANE compiler fuses graph nodes, legalizes operations against hardware limits, and schedules tasks, revealing the opaque layers that separate “supported” from “executable” operations.  
+### Automatically detecting AI text in my browser | TLDR [tldr]  
+A Chrome extension called **Deckard** runs a locally hosted small language model to flag AI‑generated text, achieving ~2 % false‑positive rates while catching roughly half of AI‑written passages. Though less accurate than cloud services like Pangram, it offers a privacy‑preserving solution for personal use.
 
-### **Can Tesla Cybercab Actually Kill Uber? Day‑Two Pricing From Austin** [farzad.fm]  
-A live test in Austin showed Tesla’s Cybercab charging $14.87 with a 30‑minute wait, undercutting Uber’s $25‑$56 pricing but suffering longer wait times due to limited fleet size during launch.  
+### Deploy a SaaS App to Production With Claude Code (No Coding) | TLDR [tldr]  
+The guide demonstrates how a product manager can launch a multi‑tenant SaaS platform (AskOne) without writing code, leveraging Claude for design, GitHub for version control, Supabase for backend, Netlify for hosting, and Clerk for authentication. It outlines steps to add a moderator role, configure organization billing, and move the app to a production environment.
 
----  
+---
 
-## Software Engineering and Dev Tools  
+## Cybersecurity and Privacy
 
-### **GitHub – MoonTechLab/LunaTV** [GitHub]  
-LunaTV is a Docker‑deployable, Next.js‑based media aggregator with multi‑source search, PWA support, and optional ad‑skip, licensed under CC BY‑NC‑SA to prohibit commercial reuse.  
+### Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials | TLDR [tldr]  
+JetBrains reported that threat actors exploited CVE‑2026‑63077 in an unpatched TeamCity server to access a Cadence instance, steal AWS IAM keys, S3 data, and personal user information. Users are urged to rotate all credentials, treat past executions as untrusted, and audit related cloud resources for suspicious activity.
 
-### **GrapheneOS: “We’re well into the process of converting the Mes…”** [GrapheneOS Mastodon]  
-*Content not provided – unable to summarise.*  
+### Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities | TLDR [tldr]  
+Newly disclosed PaperCut vulnerabilities (CVE‑2026‑81578, CVE‑2026‑82078) are being weaponized to harvest administrator credentials from educational institutions in the U.S. and Europe. Recommendations include removing PaperCut from internet exposure and monitoring for command‑line activity originating from the PaperCut process.
 
-### **LG smart TVs caught logging audio with screen off and snooping on local devices** [Notebookcheck News]  
-Research revealed LG OLED TVs continuously scan home networks and record audio even in standby, uploading the data to LG Ad Solutions; the devices also contain unpatched webOS vulnerabilities.  
+---
 
-### **Making sure you’re not a bot!** [hackernews_api]  
-The site now uses a JavaScript‑based proof‑of‑work challenge (Anubis) to deter large‑scale scrapers, requiring modern JS features and temporarily blocking headless browsers.  
+## Software Engineering and Dev Tools
 
-### **Switzerland's Federal Government is Replacing Microsoft on 3,000 Computers** [hackernews_api]  
-A CHF 9 million pilot will install the open‑source openDesk suite on 3,000 federal workstations, driven by concerns over U.S. cloud jurisdiction, vendor lock‑in, and rising licensing costs.  
+### A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over | Hacker News API [hackernews_api]  
+A leaked Border Patrol unit reportedly mines financial‑behavior data to generate traffic‑stop leads, directing local police to pull over individuals without specific criminal suspicion. The report includes internal communications and body‑camera footage illustrating the practice.
 
----  
+### Paramount Caught Using ‘Astroturf’ Group To Drum Up Fake Support For Merger | Techdirt [hackernews_api]  
+*Content not provided; unable to summarize.*
 
-## Open Source  
+### GitHub – argonautlabsai/deltafin: Kimi K3 (2.8 T MoE) streamed from SSDs on Apple Silicon | HNRSS [hnrss]  
+The Deltafin project demonstrates that the 2.8‑trillion‑parameter Kimi K3 model can be run on an M5 Max MacBook Pro by streaming expert weights from four SSDs, achieving ~1 token per second decode speed. The benchmark highlights scaling behavior with SSD count and showcases a consumer‑grade setup rivaling much larger server deployments.
 
-### **GitHub – roboflow/rf-detr: Real‑time object detection and segmentation model** [GitHub]  
-Roboflow’s RF‑DETR family delivers state‑of‑the‑art COCO detection, segmentation, and keypoint results at real‑time latency on a T4 GPU, outperforming YOLO 11/26 across accuracy‑speed trade‑offs.  
+### Architecting memory and storage in the AI era | MIT Technology Review [newsfeed]  
+The article argues that modern AI inference workloads make memory bandwidth, storage proximity, and data movement the primary performance constraints, requiring balanced, modular system designs. It proposes procurement frameworks that focus on workload‑specific needs rather than generic “AI‑ready” over‑provisioning, positioning AI infrastructure as a strategic business asset.
 
----  
+---
 
-## Notable Mentions  
-- No additional items were listed under a separate “Notable Mentions” section.
+## Notable Mentions
+- No notable mentions were listed in the source material.
