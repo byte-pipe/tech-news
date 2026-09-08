@@ -1,242 +1,242 @@
 [
   {
-    "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-    "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
-    "description": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "description": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
     "date": "2026-09-08",
-    "score": 311,
-    "comments": 259,
-    "discussion_url": "https://news.ycombinator.com/item?id=49607443",
+    "score": 186,
+    "comments": 95,
+    "discussion_url": "https://news.ycombinator.com/item?id=49611128",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775688"
+    "fetched_at": "2026-09-08T21:35:05.213904"
   },
   {
-    "title": "Antiquated HTML Snippets and Artefacts",
-    "url": "https://vale.rocks/posts/html-relics",
-    "description": "Antiquated HTML Snippets and Artefacts",
+    "title": "ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "description": "ChatGPT Images 2.5",
     "date": "2026-09-08",
-    "score": 146,
-    "comments": 47,
-    "discussion_url": "https://news.ycombinator.com/item?id=49607991",
+    "score": 235,
+    "comments": 296,
+    "discussion_url": "https://news.ycombinator.com/item?id=49614720",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775678"
+    "fetched_at": "2026-09-08T21:35:05.213846"
   },
   {
-    "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
-    "url": "https://news.ycombinator.com/item?id=49555592",
-    "description": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
-    "date": "2026-09-03",
-    "score": 150,
-    "comments": 67,
-    "discussion_url": "https://news.ycombinator.com/item?id=49555592",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775794"
-  },
-  {
-    "title": "How well do agents use test/verification techniques?",
-    "url": "https://danluu.com/agentic-testing/",
-    "description": "How well do agents use test/verification techniques?",
+    "title": "DaVinci Resolve 21.1",
+    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "description": "DaVinci Resolve 21.1",
     "date": "2026-09-08",
-    "score": 144,
-    "comments": 57,
-    "discussion_url": "https://news.ycombinator.com/item?id=49605246",
+    "score": 313,
+    "comments": 137,
+    "discussion_url": "https://news.ycombinator.com/item?id=49610181",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775706"
+    "fetched_at": "2026-09-08T21:35:05.213941"
   },
   {
-    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-    "description": "I've factored the RSA keys of a Certificate Authority from the 90s",
+    "title": "Flights cancelled at UK airports due to ATC issue",
+    "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+    "description": "Flights cancelled at UK airports due to ATC issue",
     "date": "2026-09-08",
-    "score": 426,
-    "comments": 91,
-    "discussion_url": "https://news.ycombinator.com/item?id=49604637",
+    "score": 111,
+    "comments": 84,
+    "discussion_url": "https://news.ycombinator.com/item?id=49614557",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775742"
+    "fetched_at": "2026-09-08T21:35:05.213858"
   },
   {
-    "title": "Jellyfin 12.0",
-    "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-    "description": "Jellyfin 12.0",
-    "date": "2026-09-08",
-    "score": 522,
-    "comments": 247,
-    "discussion_url": "https://news.ycombinator.com/item?id=49604861",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775731"
-  },
-  {
-    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-    "description": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-    "date": "2026-09-07",
-    "score": 242,
-    "comments": 125,
-    "discussion_url": "https://news.ycombinator.com/item?id=49602699",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775760"
-  },
-  {
-    "title": "LibreOffice breaks download records after declaring it has no AI features",
-    "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-    "description": "LibreOffice breaks download records after declaring it has no AI features",
-    "date": "2026-09-08",
-    "score": 166,
-    "comments": 46,
-    "discussion_url": "https://news.ycombinator.com/item?id=49610538",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775648"
-  },
-  {
-    "title": "Mistral raises €3B",
-    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "description": "Mistral raises €3B",
-    "date": "2026-09-08",
-    "score": 656,
-    "comments": 478,
-    "discussion_url": "https://news.ycombinator.com/item?id=49605767",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775697"
-  },
-  {
-    "title": "Scientists observe Einstein's gravity in the quantum world",
-    "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-    "description": "Scientists observe Einstein's gravity in the quantum world",
-    "date": "2026-09-04",
-    "score": 250,
-    "comments": 88,
-    "discussion_url": "https://news.ycombinator.com/item?id=49569838",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775786"
-  },
-  {
-    "title": "TALA Is Open-Source",
-    "url": "https://d2lang.com/blog/tala-is-open-source/",
-    "description": "TALA Is Open-Source",
-    "date": "2026-09-07",
-    "score": 276,
-    "comments": 23,
-    "discussion_url": "https://news.ycombinator.com/item?id=49604150",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775751"
-  },
-  {
-    "title": "There's a new \"Google Jail\" for independent wikis",
-    "url": "https://weirdgloop.org/blog/google-jail",
-    "description": "There's a new \"Google Jail\" for independent wikis",
-    "date": "2026-09-08",
-    "score": 362,
-    "comments": 134,
-    "discussion_url": "https://news.ycombinator.com/item?id=49604870",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775715"
-  },
-  {
-    "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-    "url": "https://lax-skyline.parcelscope.net/",
-    "description": "Watch Los Angeles get built, one building at a time (1880–2026)",
-    "date": "2026-09-07",
-    "score": 322,
-    "comments": 169,
-    "discussion_url": "https://news.ycombinator.com/item?id=49601655",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775769"
-  },
-  {
-    "title": "We built our house for LAN parties (2024)",
-    "url": "https://lanparty.house/",
-    "description": "We built our house for LAN parties (2024)",
-    "date": "2026-09-05",
-    "score": 298,
-    "comments": 205,
-    "discussion_url": "https://news.ycombinator.com/item?id=49579443",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775777"
-  },
-  {
-    "title": "WeatherNext 3",
-    "url": "https://deepmind.google/science/weathernext/",
-    "description": "WeatherNext 3",
-    "date": "2026-09-03",
-    "score": 393,
-    "comments": 97,
-    "discussion_url": "https://news.ycombinator.com/item?id=49552299",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775802"
-  },
-  {
-    "title": "Why getting your hands dirty is good for you",
+    "title": "Getting your hands dirty is good for you",
     "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-    "description": "Why getting your hands dirty is good for you",
+    "description": "Getting your hands dirty is good for you",
     "date": "2026-09-08",
-    "score": 131,
-    "comments": 107,
+    "score": 199,
+    "comments": 167,
     "discussion_url": "https://news.ycombinator.com/item?id=49608023",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-08T14:53:58.775668"
+    "fetched_at": "2026-09-08T21:35:05.213964"
+  },
+  {
+    "title": "Google DeepMind Releases AlphaGenome Atlas",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "description": "Google DeepMind Releases AlphaGenome Atlas",
+    "date": "2026-09-08",
+    "score": 422,
+    "comments": 105,
+    "discussion_url": "https://news.ycombinator.com/item?id=49611251",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-08T21:35:05.213883"
+  },
+  {
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "description": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "date": "2026-09-08",
+    "score": 235,
+    "comments": 180,
+    "discussion_url": "https://news.ycombinator.com/item?id=49610631",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-08T21:35:05.213929"
+  },
+  {
+    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "url": "https://github.com/argonautlabsai/deltafin",
+    "description": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "date": "2026-09-08",
+    "score": 113,
+    "comments": 45,
+    "discussion_url": "https://news.ycombinator.com/item?id=49616257",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-08T21:35:05.213791"
+  },
+  {
+    "title": "Muse: Meta's personal AI agent, features and capabilities",
+    "url": "https://ai.meta.com/muse/",
+    "description": "Muse: Meta's personal AI agent, features and capabilities",
+    "date": "2026-09-08",
+    "score": 171,
+    "comments": 153,
+    "discussion_url": "https://news.ycombinator.com/item?id=49615537",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-08T21:35:05.213833"
+  },
+  {
+    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "description": "Navier-Stokes – Tristan Buckmaster [pdf]",
+    "date": "2026-09-08",
+    "score": 871,
+    "comments": 396,
+    "discussion_url": "https://news.ycombinator.com/item?id=49605915",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-08T21:35:05.213975"
+  },
+  {
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "description": "On the Navier–Stokes Millennium Prize Problem",
+    "date": "2026-09-08",
+    "score": 903,
+    "comments": 712,
+    "discussion_url": "https://news.ycombinator.com/item?id=49613262",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-08T21:35:05.213871"
+  },
+  {
+    "title": "OpenAI fought dirty on career-making math problem",
+    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "description": "OpenAI fought dirty on career-making math problem",
+    "date": "2026-09-08",
+    "score": 110,
+    "comments": 16,
+    "discussion_url": "https://news.ycombinator.com/item?id=49615926",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-08T21:35:05.213817"
+  },
+  {
+    "title": "Show HN: Copperhead – Hardware as Fast as Software",
+    "url": "https://copperhead.sh/",
+    "description": "Show HN: Copperhead – Hardware as Fast as Software",
+    "date": "2026-09-08",
+    "score": 186,
+    "comments": 76,
+    "discussion_url": "https://news.ycombinator.com/item?id=49610059",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-08T21:35:05.213953"
+  },
+  {
+    "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
+    "url": "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html",
+    "description": "The 92-Year-Old Mathematician and the Teenage Apprentice",
+    "date": "2026-09-06",
+    "score": 100,
+    "comments": 8,
+    "discussion_url": "https://news.ycombinator.com/item?id=49591563",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-08T21:35:05.213996"
+  },
+  {
+    "title": "The Helicopter with Radioactive Blades",
+    "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+    "description": "The Helicopter with Radioactive Blades",
+    "date": "2026-09-07",
+    "score": 132,
+    "comments": 31,
+    "discussion_url": "https://news.ycombinator.com/item?id=49600901",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-08T21:35:05.213985"
+  },
+  {
+    "title": "The two Christian saints who are the Buddha",
+    "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+    "description": "The two Christian saints who are the Buddha",
+    "date": "2026-09-08",
+    "score": 183,
+    "comments": 117,
+    "discussion_url": "https://news.ycombinator.com/item?id=49611051",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-08T21:35:05.213917"
   }
 ]
