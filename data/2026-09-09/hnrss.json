@@ -1,227 +1,257 @@
 [
   {
-    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-    "description": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-    "date": "2026-09-08",
-    "score": 194,
-    "comments": 97,
-    "discussion_url": "https://news.ycombinator.com/item?id=49611128",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647721"
-  },
-  {
-    "title": "DaVinci Resolve 21.1",
-    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-    "description": "DaVinci Resolve 21.1",
-    "date": "2026-09-08",
-    "score": 325,
-    "comments": 143,
-    "discussion_url": "https://news.ycombinator.com/item?id=49610181",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647768"
-  },
-  {
-    "title": "FreeBSD 14.5-Release",
-    "url": "https://www.freebsd.org/releases/14.5R/announce/",
-    "description": "FreeBSD 14.5-Release",
-    "date": "2026-09-08",
-    "score": 102,
-    "comments": 18,
-    "discussion_url": "https://news.ycombinator.com/item?id=49609174",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647797"
-  },
-  {
-    "title": "Getting your hands dirty is good for you",
-    "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-    "description": "Getting your hands dirty is good for you",
-    "date": "2026-09-08",
-    "score": 205,
-    "comments": 171,
-    "discussion_url": "https://news.ycombinator.com/item?id=49608023",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647813"
-  },
-  {
-    "title": "Google DeepMind Releases AlphaGenome Atlas",
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-    "description": "Google DeepMind Releases AlphaGenome Atlas",
+    "description": "AlphaGenome Atlas: a high-resolution map of human DNA",
     "date": "2026-09-08",
-    "score": 452,
-    "comments": 108,
+    "score": 585,
+    "comments": 125,
     "discussion_url": "https://news.ycombinator.com/item?id=49611251",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647705"
+    "fetched_at": "2026-09-09T15:29:59.717218"
   },
   {
-    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "description": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-    "date": "2026-09-08",
-    "score": 258,
-    "comments": 203,
-    "discussion_url": "https://news.ycombinator.com/item?id=49610631",
+    "title": "Claude, change the \"Add to Cart\" button to blue",
+    "url": "https://opusfived.dev/",
+    "description": "Claude, change the \"Add to Cart\" button to blue",
+    "date": "2026-09-09",
+    "score": 432,
+    "comments": 165,
+    "discussion_url": "https://news.ycombinator.com/item?id=49623754",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647752"
+    "fetched_at": "2026-09-09T15:29:59.717156"
   },
   {
-    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-    "url": "https://github.com/argonautlabsai/deltafin",
-    "description": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-    "date": "2026-09-08",
-    "score": 177,
-    "comments": 75,
-    "discussion_url": "https://news.ycombinator.com/item?id=49616257",
+    "title": "Coyote v. Acme (1990)",
+    "url": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
+    "description": "Coyote v. Acme (1990)",
+    "date": "2026-09-06",
+    "score": 100,
+    "comments": 44,
+    "discussion_url": "https://news.ycombinator.com/item?id=49586494",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647612"
+    "fetched_at": "2026-09-09T15:29:59.717241"
   },
   {
-    "title": "Muse: Meta's personal AI agent, features and capabilities",
-    "url": "https://ai.meta.com/muse/",
-    "description": "Muse: Meta's personal AI agent, features and capabilities",
+    "title": "DaVinci Resolve 21.1",
+    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "description": "DaVinci Resolve 21.1",
     "date": "2026-09-08",
-    "score": 199,
+    "score": 427,
     "comments": 193,
+    "discussion_url": "https://news.ycombinator.com/item?id=49610181",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-09T15:29:59.717226"
+  },
+  {
+    "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+    "url": "https://news.ycombinator.com/item?id=49624603",
+    "description": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+    "date": "2026-09-09",
+    "score": 262,
+    "comments": 128,
+    "discussion_url": "https://news.ycombinator.com/item?id=49624603",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-09T15:29:59.717130"
+  },
+  {
+    "title": "Desert Ant Labs: local, fast models that run on device",
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "description": "Desert Ant Labs: local, fast models that run on device",
+    "date": "2026-09-09",
+    "score": 192,
+    "comments": 55,
+    "discussion_url": "https://news.ycombinator.com/item?id=49624823",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-09T15:29:59.717120"
+  },
+  {
+    "title": "How An AI math breakthrough ignited a controversy",
+    "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+    "description": "How An AI math breakthrough ignited a controversy",
+    "date": "2026-09-09",
+    "score": 186,
+    "comments": 181,
+    "discussion_url": "https://news.ycombinator.com/item?id=49624163",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-09T15:29:59.717139"
+  },
+  {
+    "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+    "description": "How GPT‑5.6 Sol helps run quantum computing experiments",
+    "date": "2026-09-09",
+    "score": 121,
+    "comments": 96,
+    "discussion_url": "https://news.ycombinator.com/item?id=49622561",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-09T15:29:59.717171"
+  },
+  {
+    "title": "How to build a printer",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "description": "How to build a printer",
+    "date": "2026-09-08",
+    "score": 412,
+    "comments": 91,
+    "discussion_url": "https://news.ycombinator.com/item?id=49617255",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-09T15:29:59.717191"
+  },
+  {
+    "title": "I advertise malicious software on Google Ads",
+    "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+    "description": "I advertise malicious software on Google Ads",
+    "date": "2026-09-09",
+    "score": 210,
+    "comments": 114,
+    "discussion_url": "https://news.ycombinator.com/item?id=49624856",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-09T15:29:59.717110"
+  },
+  {
+    "title": "Large language models develop novel social biases through adaptive exploration",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "description": "Large language models develop novel social biases through adaptive exploration",
+    "date": "2026-09-08",
+    "score": 193,
+    "comments": 98,
+    "discussion_url": "https://news.ycombinator.com/item?id=49617581",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-09T15:29:59.717182"
+  },
+  {
+    "title": "Lotus Notes and the dangers of starting from scratch",
+    "url": "https://buttondown.com/blog/lotus-notes-email",
+    "description": "Lotus Notes and the dangers of starting from scratch",
+    "date": "2026-09-09",
+    "score": 115,
+    "comments": 73,
+    "discussion_url": "https://news.ycombinator.com/item?id=49623937",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-09T15:29:59.717148"
+  },
+  {
+    "title": "Mercury 2.5",
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+    "description": "Mercury 2.5",
+    "date": "2026-09-08",
+    "score": 241,
+    "comments": 48,
+    "discussion_url": "https://news.ycombinator.com/item?id=49616354",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-09T15:29:59.717201"
+  },
+  {
+    "title": "Muse – Meta’s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "description": "Muse – Meta’s personal AI agent",
+    "date": "2026-09-08",
+    "score": 588,
+    "comments": 648,
     "discussion_url": "https://news.ycombinator.com/item?id=49615537",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647671"
+    "fetched_at": "2026-09-09T15:29:59.717210"
   },
   {
     "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
     "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
     "description": "Navier-Stokes – Tristan Buckmaster [pdf]",
     "date": "2026-09-08",
-    "score": 1004,
-    "comments": 439,
+    "score": 1893,
+    "comments": 775,
     "discussion_url": "https://news.ycombinator.com/item?id=49605915",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647828"
+    "fetched_at": "2026-09-09T15:29:59.717234"
   },
   {
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "url": "https://openai.com/index/navier-stokes-solution/",
-    "description": "On the Navier–Stokes Millennium Prize Problem",
-    "date": "2026-09-08",
-    "score": 991,
-    "comments": 799,
-    "discussion_url": "https://news.ycombinator.com/item?id=49613262",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647688"
-  },
-  {
-    "title": "Show HN: Copperhead – Hardware as Fast as Software",
-    "url": "https://copperhead.sh/",
-    "description": "Show HN: Copperhead – Hardware as Fast as Software",
-    "date": "2026-09-08",
-    "score": 190,
-    "comments": 76,
-    "discussion_url": "https://news.ycombinator.com/item?id=49610059",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647782"
-  },
-  {
-    "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
-    "url": "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html",
-    "description": "The 92-Year-Old Mathematician and the Teenage Apprentice",
-    "date": "2026-09-06",
-    "score": 115,
-    "comments": 9,
-    "discussion_url": "https://news.ycombinator.com/item?id=49591563",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647857"
-  },
-  {
-    "title": "The Helicopter with Radioactive Blades",
-    "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-    "description": "The Helicopter with Radioactive Blades",
-    "date": "2026-09-07",
-    "score": 138,
-    "comments": 34,
-    "discussion_url": "https://news.ycombinator.com/item?id=49600901",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647843"
-  },
-  {
-    "title": "The two Christian saints who are the Buddha",
-    "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
-    "description": "The two Christian saints who are the Buddha",
-    "date": "2026-09-08",
-    "score": 195,
+    "title": "Tailwind Labs is joining Shopify",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "description": "Tailwind Labs is joining Shopify",
+    "date": "2026-09-09",
+    "score": 340,
     "comments": 135,
-    "discussion_url": "https://news.ycombinator.com/item?id=49611051",
+    "discussion_url": "https://news.ycombinator.com/item?id=49626190",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647737"
+    "fetched_at": "2026-09-09T15:29:59.717091"
   },
   {
-    "title": "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
-    "url": "https://twitter.com/SouthPark/status/2097364141237539116",
-    "description": "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
-    "date": "2026-09-08",
-    "score": 113,
-    "comments": 48,
-    "discussion_url": "https://news.ycombinator.com/item?id=49616239",
+    "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+    "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+    "description": "Tension wood: A 'muscle' that can both bend and straighten plants",
+    "date": "2026-09-03",
+    "score": 145,
+    "comments": 36,
+    "discussion_url": "https://news.ycombinator.com/item?id=49546964",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-09T08:37:27.647652"
+    "fetched_at": "2026-09-09T15:29:59.717249"
   }
 ]
