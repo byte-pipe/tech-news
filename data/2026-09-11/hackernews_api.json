@@ -1,130 +1,96 @@
 [
   {
-    "title": "AI Is Breaking This Thing We Call Trust",
-    "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-    "author": "matheusml",
-    "date": "2026-09-10",
-    "score": 103,
-    "comments": 40,
-    "id": 49644179,
-    "discussion_url": "https://news.ycombinator.com/item?id=49644179",
-    "description": "AI Is Breaking This Thing We Call Trust",
+    "title": "A misalignment of AI in mathematics",
+    "url": "https://mathandai.org/",
+    "author": "meredydd",
+    "date": "2026-09-11",
+    "score": 374,
+    "comments": 442,
+    "id": 49662371,
+    "discussion_url": "https://news.ycombinator.com/item?id=49662371",
+    "description": "A misalignment of AI in mathematics",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547672"
+    "fetched_at": "2026-09-11T21:35:08.920717"
   },
   {
-    "title": "Cherenkov Radiation - traveling faster than light",
+    "title": "An interactive tour of the spanning tree protocol",
+    "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+    "author": "zdw",
+    "date": "2026-09-08",
+    "score": 87,
+    "comments": 8,
+    "id": 49610596,
+    "discussion_url": "https://news.ycombinator.com/item?id=49610596",
+    "description": "An interactive tour of the spanning tree protocol",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-11T21:35:08.920882"
+  },
+  {
+    "title": "CSS Curiosities of the Past",
+    "url": "https://vale.rocks/posts/css-relics",
+    "author": "robin_reala",
+    "date": "2026-09-11",
+    "score": 84,
+    "comments": 50,
+    "id": 49654962,
+    "discussion_url": "https://news.ycombinator.com/item?id=49654962",
+    "description": "CSS Curiosities of the Past",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-11T21:35:08.920930"
+  },
+  {
+    "title": "Cherenkov Radiation",
     "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
     "author": "andsoitis",
     "date": "2026-09-11",
-    "score": 152,
-    "comments": 77,
+    "score": 210,
+    "comments": 93,
     "id": 49655286,
     "discussion_url": "https://news.ycombinator.com/item?id=49655286",
-    "description": "Cherenkov Radiation - traveling faster than light",
+    "description": "Cherenkov Radiation",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547483"
+    "fetched_at": "2026-09-11T21:35:08.920869"
   },
   {
-    "title": "Claude is no longer available for minors",
+    "title": "Claude is only available to people over 18 years",
     "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
     "author": "Muhammad523",
     "date": "2026-09-11",
-    "score": 242,
-    "comments": 326,
+    "score": 514,
+    "comments": 556,
     "id": 49656225,
     "discussion_url": "https://news.ycombinator.com/item?id=49656225",
-    "description": "Claude is no longer available for minors",
+    "description": "Claude is only available to people over 18 years",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547594"
-  },
-  {
-    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-    "url": "https://cognition.com/blog/swe-2",
-    "author": "seelos",
-    "date": "2026-09-10",
-    "score": 431,
-    "comments": 184,
-    "id": 49645443,
-    "discussion_url": "https://news.ycombinator.com/item?id=49645443",
-    "description": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547602"
-  },
-  {
-    "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
-    "url": "https://magic.dev/blog/pretraining#",
-    "author": "ronfriedhaber",
-    "date": "2026-09-08",
-    "score": 116,
-    "comments": 62,
-    "id": 49613072,
-    "discussion_url": "https://news.ycombinator.com/item?id=49613072",
-    "description": "Compute-efficient pretraining and scaling to trillion-parameter models",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547718"
-  },
-  {
-    "title": "DeepSeek v4.1 Flash",
-    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-    "author": "Liwink",
-    "date": "2026-09-10",
-    "score": 976,
-    "comments": 557,
-    "id": 49639090,
-    "discussion_url": "https://news.ycombinator.com/item?id=49639090",
-    "description": "DeepSeek v4.1 Flash",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547714"
-  },
-  {
-    "title": "Detecting and countering misuse of AI: September 2026",
-    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "author": "garo-pro",
-    "date": "2026-09-10",
-    "score": 156,
-    "comments": 221,
-    "id": 49647300,
-    "discussion_url": "https://news.ycombinator.com/item?id=49647300",
-    "description": "Detecting and countering misuse of AI: September 2026",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547616"
+    "fetched_at": "2026-09-11T21:35:08.920768"
   },
   {
     "title": "Don't let anyone take away your big box of cables",
     "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
     "author": "Brajeshwar",
     "date": "2026-09-10",
-    "score": 671,
-    "comments": 411,
+    "score": 741,
+    "comments": 449,
     "id": 49645393,
     "discussion_url": "https://news.ycombinator.com/item?id=49645393",
     "description": "Don't let anyone take away your big box of cables",
@@ -133,66 +99,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547542"
+    "fetched_at": "2026-09-11T21:35:08.920923"
   },
   {
-    "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-    "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-    "author": "tosh",
-    "date": "2026-09-06",
-    "score": 204,
-    "comments": 89,
-    "id": 49587121,
-    "discussion_url": "https://news.ycombinator.com/item?id=49587121",
-    "description": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547584"
-  },
-  {
-    "title": "Exercise intensity is associated with cardiometabolic health",
-    "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
-    "author": "qclibre22",
+    "title": "Global Glacier Extinction Explorer",
+    "url": "https://glacierextinction.com",
+    "author": "guillego",
     "date": "2026-09-11",
-    "score": 118,
-    "comments": 57,
-    "id": 49653328,
-    "discussion_url": "https://news.ycombinator.com/item?id=49653328",
-    "description": "Exercise intensity is associated with cardiometabolic health",
+    "score": 139,
+    "comments": 47,
+    "id": 49660576,
+    "discussion_url": "https://news.ycombinator.com/item?id=49660576",
+    "description": "Global Glacier Extinction Explorer",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547695"
+    "fetched_at": "2026-09-11T21:35:08.920809"
   },
   {
-    "title": "Forgejo <=16.0.3 Critical RCE",
-    "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-    "author": "weierstass",
-    "date": "2026-09-10",
-    "score": 200,
-    "comments": 77,
-    "id": 49645907,
-    "discussion_url": "https://news.ycombinator.com/item?id=49645907",
-    "description": "Forgejo <=16.0.3 Critical RCE",
+    "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+    "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+    "author": "lukaspetersson",
+    "date": "2026-09-11",
+    "score": 293,
+    "comments": 277,
+    "id": 49652105,
+    "discussion_url": "https://news.ycombinator.com/item?id=49652105",
+    "description": "Google will buy half the electricity from one of Finland's nuclear power plants",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547561"
+    "fetched_at": "2026-09-11T21:35:08.920844"
+  },
+  {
+    "title": "GrapheneOS' rewritten Messages app is released",
+    "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+    "author": "microtonal",
+    "date": "2026-09-11",
+    "score": 112,
+    "comments": 64,
+    "id": 49663373,
+    "discussion_url": "https://news.ycombinator.com/item?id=49663373",
+    "description": "GrapheneOS' rewritten Messages app is released",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-11T21:35:08.920741"
+  },
+  {
+    "title": "Hacker News with reduced priority for AI driven content",
+    "url": "https://sprinklz.io/public/pdwt4dve5uai",
+    "author": "sammy0910",
+    "date": "2026-09-11",
+    "score": 95,
+    "comments": 53,
+    "id": 49660482,
+    "discussion_url": "https://news.ycombinator.com/item?id=49660482",
+    "description": "Hacker News with reduced priority for AI driven content",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-11T21:35:08.920872"
   },
   {
     "title": "Houthis 'take control' of key island in global shipping route",
     "url": "https://www.bbc.com/news/live/cmd683p01eljt",
     "author": "consumer451",
     "date": "2026-09-11",
-    "score": 101,
-    "comments": 66,
+    "score": 346,
+    "comments": 589,
     "id": 49658299,
     "discussion_url": "https://news.ycombinator.com/item?id=49658299",
     "description": "Houthis 'take control' of key island in global shipping route",
@@ -201,117 +184,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547440"
+    "fetched_at": "2026-09-11T21:35:08.920886"
   },
   {
-    "title": "List of references on Sony websites to players \"owning\" their digital games",
-    "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-    "author": "haunter",
-    "date": "2026-09-10",
-    "score": 412,
-    "comments": 145,
-    "id": 49642531,
-    "discussion_url": "https://news.ycombinator.com/item?id=49642531",
-    "description": "List of references on Sony websites to players \"owning\" their digital games",
+    "title": "How the Chorleywood Bread Process transformed British bread",
+    "url": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
+    "author": "baud147258",
+    "date": "2026-09-08",
+    "score": 84,
+    "comments": 85,
+    "id": 49610834,
+    "discussion_url": "https://news.ycombinator.com/item?id=49610834",
+    "description": "How the Chorleywood Bread Process transformed British bread",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547646"
+    "fetched_at": "2026-09-11T21:35:08.920837"
   },
   {
-    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-    "author": "rguiscard",
+    "title": "HuggingFace: Security.txt",
+    "url": "https://huggingface.co/security.txt",
+    "author": "yarapavan",
     "date": "2026-09-11",
-    "score": 311,
-    "comments": 104,
-    "id": 49652237,
-    "discussion_url": "https://news.ycombinator.com/item?id=49652237",
-    "description": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+    "score": 230,
+    "comments": 57,
+    "id": 49659245,
+    "discussion_url": "https://news.ycombinator.com/item?id=49659245",
+    "description": "HuggingFace: Security.txt",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547598"
+    "fetched_at": "2026-09-11T21:35:08.920834"
   },
   {
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "author": "pred_",
-    "date": "2026-09-10",
-    "score": 840,
-    "comments": 784,
-    "id": 49639408,
-    "discussion_url": "https://news.ycombinator.com/item?id=49639408",
-    "description": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+    "author": "adastral",
+    "date": "2026-09-07",
+    "score": 149,
+    "comments": 54,
+    "id": 49601138,
+    "discussion_url": "https://news.ycombinator.com/item?id=49601138",
+    "description": "I've operated petabyte-scale ClickHouse clusters for 5 years",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547533"
+    "fetched_at": "2026-09-11T21:35:08.920798"
   },
   {
-    "title": "Music Theory for the 21st-Century Classroom",
-    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-    "author": "aanet",
-    "date": "2026-09-10",
-    "score": 259,
-    "comments": 122,
-    "id": 49647134,
-    "discussion_url": "https://news.ycombinator.com/item?id=49647134",
-    "description": "Music Theory for the 21st-Century Classroom",
+    "title": "Logo Programming Language",
+    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "author": "azhenley",
+    "date": "2026-09-09",
+    "score": 192,
+    "comments": 88,
+    "id": 49622406,
+    "discussion_url": "https://news.ycombinator.com/item?id=49622406",
+    "description": "Logo Programming Language",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547528"
+    "fetched_at": "2026-09-11T21:35:08.920820"
   },
   {
-    "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-    "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-    "author": "mckn1ght",
-    "date": "2026-09-10",
-    "score": 132,
-    "comments": 233,
-    "id": 49650418,
-    "discussion_url": "https://news.ycombinator.com/item?id=49650418",
-    "description": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+    "title": "Measuring the sloppiness of code",
+    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "author": "doppp",
+    "date": "2026-09-11",
+    "score": 213,
+    "comments": 215,
+    "id": 49658311,
+    "discussion_url": "https://news.ycombinator.com/item?id=49658311",
+    "description": "Measuring the sloppiness of code",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547551"
+    "fetched_at": "2026-09-11T21:35:08.920827"
   },
   {
-    "title": "Neki – Sharded Postgres",
-    "url": "https://planetscale.com/blog/introducing-neki",
-    "author": "simon_weber",
-    "date": "2026-09-10",
-    "score": 260,
-    "comments": 142,
-    "id": 49645686,
-    "discussion_url": "https://news.ycombinator.com/item?id=49645686",
-    "description": "Neki – Sharded Postgres",
+    "title": "New York thoracic surgeon: \"For many patients 9/11 is not over\"",
+    "url": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/",
+    "author": "EA-3167",
+    "date": "2026-09-11",
+    "score": 93,
+    "comments": 49,
+    "id": 49658819,
+    "discussion_url": "https://news.ycombinator.com/item?id=49658819",
+    "description": "New York thoracic surgeon: \"For many patients 9/11 is not over\"",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547556"
+    "fetched_at": "2026-09-11T21:35:08.920937"
   },
   {
     "title": "Nine coding harnesses vs. your laptop",
     "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
     "author": "nasutton12",
     "date": "2026-09-10",
-    "score": 144,
-    "comments": 50,
+    "score": 172,
+    "comments": 65,
     "id": 49651221,
     "discussion_url": "https://news.ycombinator.com/item?id=49651221",
     "description": "Nine coding harnesses vs. your laptop",
@@ -320,83 +303,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547537"
+    "fetched_at": "2026-09-11T21:35:08.920926"
   },
   {
-    "title": "OpenAI Agents API",
-    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "author": "aquir",
-    "date": "2026-09-10",
-    "score": 307,
-    "comments": 164,
-    "id": 49649213,
-    "discussion_url": "https://news.ycombinator.com/item?id=49649213",
-    "description": "OpenAI Agents API",
+    "title": "RTK reports token savings, but our cost benchmarks disagree",
+    "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+    "author": "michalwarda",
+    "date": "2026-09-11",
+    "score": 133,
+    "comments": 64,
+    "id": 49656471,
+    "discussion_url": "https://news.ycombinator.com/item?id=49656471",
+    "description": "RTK reports token savings, but our cost benchmarks disagree",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547510"
+    "fetched_at": "2026-09-11T21:35:08.920823"
   },
   {
-    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-    "url": "https://merybenavente.me/blog/proof-of-capture",
-    "author": "merybenavente",
-    "date": "2026-09-10",
-    "score": 125,
-    "comments": 79,
-    "id": 49649222,
-    "discussion_url": "https://news.ycombinator.com/item?id=49649222",
-    "description": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+    "title": "Room 641A",
+    "url": "https://en.wikipedia.org/wiki/Room_641A",
+    "author": "paimapi",
+    "date": "2026-09-11",
+    "score": 121,
+    "comments": 39,
+    "id": 49662367,
+    "discussion_url": "https://news.ycombinator.com/item?id=49662367",
+    "description": "Room 641A",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547570"
+    "fetched_at": "2026-09-11T21:35:08.920813"
   },
   {
-    "title": "Python sets and dictionaries can have quadratic-time performance",
-    "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
-    "author": "ibobev",
-    "date": "2026-09-08",
-    "score": 103,
-    "comments": 59,
-    "id": 49612470,
-    "discussion_url": "https://news.ycombinator.com/item?id=49612470",
-    "description": "Python sets and dictionaries can have quadratic-time performance",
+    "title": "Rune is now open source",
+    "url": "https://rune.build/blog/rune-is-now-open-source",
+    "author": "ernestrc",
+    "date": "2026-09-11",
+    "score": 102,
+    "comments": 41,
+    "id": 49660149,
+    "discussion_url": "https://news.ycombinator.com/item?id=49660149",
+    "description": "Rune is now open source",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547704"
-  },
-  {
-    "title": "Rust is tier-1 language at Microsoft",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "author": "mmastrac",
-    "date": "2026-09-10",
-    "score": 707,
-    "comments": 473,
-    "id": 49643546,
-    "discussion_url": "https://news.ycombinator.com/item?id=49643546",
-    "description": "Rust is tier-1 language at Microsoft",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547611"
+    "fetched_at": "2026-09-11T21:35:08.920783"
   },
   {
     "title": "Shopify is moving from React Native back to Swift and Kotlin",
     "url": "https://shopify.engineering/back-to-native",
     "author": "fnthawar2",
     "date": "2026-09-10",
-    "score": 1172,
-    "comments": 858,
+    "score": 1219,
+    "comments": 910,
     "id": 49643982,
     "discussion_url": "https://news.ycombinator.com/item?id=49643982",
     "description": "Shopify is moving from React Native back to Swift and Kotlin",
@@ -405,32 +371,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547472"
+    "fetched_at": "2026-09-11T21:35:08.920889"
   },
   {
-    "title": "Silicon Valley is transforming the military-industrial complex? (2024)",
-    "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-    "author": "paimapi",
+    "title": "Show HN: Bodily Oddities",
+    "url": "https://vester.si/bodily-oddities/",
+    "author": "vesterde",
     "date": "2026-09-10",
-    "score": 173,
-    "comments": 355,
-    "id": 49645754,
-    "discussion_url": "https://news.ycombinator.com/item?id=49645754",
-    "description": "Silicon Valley is transforming the military-industrial complex? (2024)",
+    "score": 132,
+    "comments": 111,
+    "id": 49649789,
+    "discussion_url": "https://news.ycombinator.com/item?id=49649789",
+    "description": "Show HN: Bodily Oddities",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547650"
+    "fetched_at": "2026-09-11T21:35:08.920816"
+  },
+  {
+    "title": "Show HN: Hacker News, Without AI",
+    "url": "https://www.unslop.news/",
+    "author": "otherayden",
+    "date": "2026-09-11",
+    "score": 156,
+    "comments": 72,
+    "id": 49660783,
+    "discussion_url": "https://news.ycombinator.com/item?id=49660783",
+    "description": "Show HN: Hacker News, Without AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-11T21:35:08.920862"
+  },
+  {
+    "title": "Show HN: Hacker News, without AI",
+    "url": "https://hcker.news/?ai=exclude",
+    "author": "postalcoder",
+    "date": "2026-09-11",
+    "score": 153,
+    "comments": 78,
+    "id": 49659647,
+    "discussion_url": "https://news.ycombinator.com/item?id=49659647",
+    "description": "Show HN: Hacker News, without AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-11T21:35:08.920848"
   },
   {
     "title": "So you want to use OpenRouter?",
     "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
     "author": "player85",
     "date": "2026-09-09",
-    "score": 380,
-    "comments": 98,
+    "score": 651,
+    "comments": 179,
     "id": 49621546,
     "discussion_url": "https://news.ycombinator.com/item?id=49621546",
     "description": "So you want to use OpenRouter?",
@@ -439,74 +439,74 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547461"
+    "fetched_at": "2026-09-11T21:35:08.920758"
   },
   {
-    "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-    "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-    "author": "gumby",
-    "date": "2026-09-10",
-    "score": 360,
-    "comments": 60,
-    "id": 49645437,
-    "discussion_url": "https://news.ycombinator.com/item?id=49645437",
-    "description": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+    "title": "Stop making swap partitions—use swap files instead",
+    "url": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
+    "author": "jenders",
+    "date": "2026-09-08",
+    "score": 91,
+    "comments": 149,
+    "id": 49618087,
+    "discussion_url": "https://news.ycombinator.com/item?id=49618087",
+    "description": "Stop making swap partitions—use swap files instead",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547607"
+    "fetched_at": "2026-09-11T21:35:08.920791"
   },
   {
-    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-    "url": "https://auberon.xyz/blog/posts/deathray/",
-    "author": "auberonedu",
-    "date": "2026-09-10",
-    "score": 242,
-    "comments": 162,
-    "id": 49649124,
-    "discussion_url": "https://news.ycombinator.com/item?id=49649124",
-    "description": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547493"
-  },
-  {
-    "title": "The Waymo effect: how AI is quietly making research less collaborative",
-    "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-    "author": "JohnHammersley",
+    "title": "The EPA is planning to scrap public review rules for data center pollution",
+    "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+    "author": "doener",
     "date": "2026-09-11",
-    "score": 235,
-    "comments": 183,
-    "id": 49656496,
-    "discussion_url": "https://news.ycombinator.com/item?id=49656496",
-    "description": "The Waymo effect: how AI is quietly making research less collaborative",
+    "score": 224,
+    "comments": 146,
+    "id": 49662672,
+    "discussion_url": "https://news.ycombinator.com/item?id=49662672",
+    "description": "The EPA is planning to scrap public review rules for data center pollution",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547478"
+    "fetched_at": "2026-09-11T21:35:08.920772"
   },
   {
-    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-    "url": "https://system76.com/workstations/thelio-mira-ai",
-    "author": "jonifico",
-    "date": "2026-09-10",
-    "score": 116,
-    "comments": 116,
-    "id": 49651372,
-    "discussion_url": "https://news.ycombinator.com/item?id=49651372",
-    "description": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+    "title": "Working with Git Worktrees in Magit",
+    "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+    "author": "srijan4",
+    "date": "2026-09-08",
+    "score": 114,
+    "comments": 49,
+    "id": 49606281,
+    "discussion_url": "https://news.ycombinator.com/item?id=49606281",
+    "description": "Working with Git Worktrees in Magit",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-11T14:51:33.547723"
+    "fetched_at": "2026-09-11T21:35:08.920875"
+  },
+  {
+    "title": "iPod Classic 6G in QEMU",
+    "url": "https://www.reddit.com/r/emulation/s/VL4Au2HGxq",
+    "author": "dmonterocrespo",
+    "date": "2026-09-08",
+    "score": 139,
+    "comments": 44,
+    "id": 49611240,
+    "discussion_url": "https://news.ycombinator.com/item?id=49611240",
+    "description": "iPod Classic 6G in QEMU",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-11T21:35:08.920851"
   }
 ]
