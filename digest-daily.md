@@ -1,63 +1,74 @@
 ---
-date: '2026-09-11'
+date: '2026-09-12'
 model: gpt-oss:120b-cloud
-generated_at: '2026-09-11T08:31:04.027669'
+generated_at: '2026-09-12T01:23:32.511440'
 ---
 
 ## Executive Summary
-- AI talent is increasingly drawn to industry, where top researchers can earn an extra $1.5 million annually, prompting a rise in hybrid academic‑industry roles.  
-- Adobe is quietly building “Project Oasis,” a brand‑aware AI‑powered design tool, while Apple unveiled a premium foldable iPhone Duo and a suite of health‑focused wearables at its “Surprise and Shine” event.  
-- PlanetScale introduced Neki, a sharded PostgreSQL service that preserves native Postgres compatibility, and a new study shows how big‑tech firms and venture capital are reshaping the U.S. military‑industrial complex.  
-- A NASA‑originated image‑enhancement technique is now revealing hidden rock‑art worldwide, underscoring the cross‑disciplinary value of space‑technology tools.  
-- Algeria has severed diplomatic ties with the UAE, heightening regional tensions over Israel, Western Sahara and broader geopolitical rivalries.
+- Open‑source platforms **OpenResearch** and **Hyperresearch** are lowering the barrier for autonomous, citation‑rich AI‑driven research, signaling a shift toward locally‑controlled, reproducible experimentation.  
+- Anthropic’s Claude now enforces strict age‑verification, while a WebGPU‑based “Deathray” attack shows that even benign‑looking web content can freeze macOS systems.  
+- Geopolitical tension spikes as Iran‑backed Houthis claim control of Perim Island, a chokepoint for global shipping, and China pushes domestic DUV lithography using second‑hand Zeiss lenses.  
+- Industry observers warn that frictionless AI collaborators are eroding traditional research collaboration (“Waymo effect”) and that product‑management practices are deteriorating under AI‑generated output pressure.  
+- Consumer‑facing tech continues to blend shopping with media, as Amazon expands “Shop the Scene” on Prime Video, while the AI news flood dominates community feeds, prompting calls for better curation.
 
 ---
 
 ## AI and Machine Learning
 
-### AI researchers reckon with the $1.5 million ‘academia tax’ | Nature
-- A new NBER analysis finds the top 1 % of industry AI researchers earn about $1.5 million more per year than their academic peers, driving talent toward firms like Anthropic and OpenAI.  
-- Despite higher pay, many stay in academia for research freedom, open publishing, mentorship and societal impact, while hybrid roles are emerging to blend resources from both sectors.
+### OpenResearch – Parallel Research Agents Platform (GitHub)
+A new open‑source toolkit lets users run autonomous research agents (Claude Code, Codex, OpenCode) locally or on managed compute, preserving all code, logs, and artifacts in git‑based experiment trees.
 
-### Adobe Project Oasis: A New AI Design Tool in Development | TLDR
-- Adobe is piloting “Project Oasis,” a web‑based graphic‑design app that embeds brand‑aware AI directly into the workflow, targeting agency, freelance and in‑house designers.  
-- Participation requires an NDA; feature details, pricing and launch timing remain undisclosed.
+### Hyperresearch – Deep‑Research Knowledge Base (GitHub)
+Hyperresearch builds on Claude Code to generate adversarially‑audited reports with full source provenance, supporting multi‑step pipelines from literature sweep to final dissertation‑length output.
 
-### Apple unveils its first foldable, the iPhone Duo | TechCrunch
-- Apple introduced the iPhone Duo, a 7.6‑inch inner Retina display foldable with an under‑display camera, Touch ID, and a $1,999 price tag for 256 GB.  
-- The device runs iOS 27 with foldable‑optimized UI, supports Apple Pencil later this year, and aims to capture up to 25 % of the foldable market by year‑end.
+### Age Assurance on Claude (Hacker News) **(TRENDING)**
+Claude now requires users to verify they are 18+ via Yoti’s facial or ID checks; only a pass/fail result is shared with Anthropic, aiming to tighten compliance with age‑restriction policies.
+
+### “/path/to.” – Git Repository Tips (Hacker News)
+A practical guide for developers on optimizing Git commands, handling shallow clones, and scripting repository maintenance, with warnings for automated scrapers targeting Codeberg.
+
+### The Waymo Effect: AI’s Quiet De‑collaboration (Hacker News) **(TRENDING)**
+An essay argues that frictionless AI tools act like driverless cars for research, stripping away serendipitous human interaction and risking a systemic loss of collaborative “friction” essential for innovation.
+
+### Ask HN: Can We Please Limit the AI News Flood? (Hacker News)
+Community members lament AI‑dominated front pages on Hacker News, proposing tagging, custom filters, or platform‑level curation to preserve diversity of tech coverage.
+
+### Amazon Expands “Shop the Scene” on Prime Video (TechCrunch)
+Prime Video now embeds a “Shop” tab in X‑Ray, letting viewers purchase on‑screen items via visual‑search Lens; the feature rolls out to 8,000 U.S. titles, widening shoppable TV experiences.
+
+### 7 Weak Product Management Signs (TLDR)
+A former head of product revisits classic symptoms of poor product management—solution‑over‑problem, output‑over‑outcome, immortal features—and warns AI‑generated prompts are amplifying these flaws.
+
+---
+
+## Cybersecurity and Privacy
+
+### The Deathray: WebGPU‑Based Mac Freeze (Hacker News) **(TRENDING)**
+Researchers demonstrate that a malicious WebGPU shader can lock a Mac’s GPU, rendering the UI unusable until a restart, highlighting a low‑barrier denial‑of‑service vector across browsers.
 
 ---
 
 ## Software Engineering and Dev Tools
 
-### Introducing Neki — PlanetScale *(trending)* | Hacker News
-- PlanetScale’s Neki offers a sharded PostgreSQL service that keeps a full Postgres instance on each shard, allowing existing drivers and ORMs to work unchanged.  
-- It provides built‑in online workflows for schema changes, upgrades, failovers and resharding, but is currently a platform preview not yet recommended for production.
+### DeskcommCRM – Open‑Source AI‑Powered Sales OS (GitHub)
+A self‑hosted CRM integrates AI assistants and WhatsApp (WAHA) for lead qualification and sales, offering one‑click VPS deployment via HostGator and full Docker‑based stack.
 
-### Algeria cuts diplomatic ties with UAE: What we know | Al Jazeera
-- Algeria announced a break in diplomatic relations with the UAE, accusing Abu Dhabi of “provocative and hostile” actions and closing its airspace to UAE‑registered aircraft.  
-- The split reflects long‑standing disputes over Israel, Western Sahara and regional influence, with the UAE calling the move “temporary.”
+### OpenFlux – Pluggable Transport TCP Tunnel (GitHub)
+OpenFlux provides a Go‑based research tool for creating TCP tunnels with custom transports (Yandex Docs, Max Messenger), supporting desktop, Android, and iOS clients.
 
----
+### Houthis Claim Capture of Perim Island (BBC News via HN RSS)
+Iran‑backed forces say they seized Perim (Mayyun) Island in the Bab al‑Mandab Strait, a strategic chokepoint for Red Sea‑to‑Indian Ocean traffic, raising concerns for global shipping security.
 
-## Startups and Business
+### Notion – JavaScript Requirement Notice (Notion via HN RSS)
+A brief notice informs users that JavaScript must be enabled in their browsers to access Notion’s web interface.
 
-### How Big Tech and Silicon Valley are Transforming the Military‑Industrial Complex *(trending)* | Brown University (Costs of War)
-- Anthropologist Roberto González documents a shift of U.S. defense spending toward big‑tech firms, noting $28 billion in contracts to Microsoft, Amazon and Google (2018‑2022) and nearly $100 billion VC investment in defense startups (2021‑2023).  
-- The influx of private capital is creating high‑tech, often classified, defense products that may be costly, unpredictable and opaque to taxpayers.
+### NTSB Update on B‑767 Runway Excursion in Miami (NTSB via HN RSS)
+The NTSB releases new data from the September 6 cargo flight accident, detailing CVR and FDR recordings that show a failed go‑around attempt leading to runway overrun.
 
----
-
-## Science and Research
-
-### This NASA Color Trick Was Meant for Mars. Now It’s Unveiling Rock Art on Earth *(trending)* | Hacker News
-- A NASA‑developed “decorrelation stretch” image‑enhancement algorithm, originally for Martian terrain analysis, is now used by archaeologists to reveal hidden details in rock‑art across the globe.  
-- The technique has uncovered previously invisible figures in sites from Baja California to Angkor Wat, demonstrating the interdisciplinary impact of space‑technology tools.
+### China’s Answer to ASML – Zeiss Lens‑Based DUV Lithography (TLDR)
+Huawei coordinates China’s push for domestic deep‑ultraviolet lithography, relying on second‑hand Zeiss projection lenses while developing home‑grown optics and light sources to reduce dependence on ASML.
 
 ---
 
-## Uncategorized
-
-- **Music Theory for the 21st‑Century Classroom** – *Content not provided; unable to summarize.*  
-- **Analogy as the Core of Cognition – YouTube** – *Insufficient source material; summary requires transcript or detailed outline.*
+## Notable Mentions
+- ChatGPT Sites: Build a Professional Website in Minutes (TLDR)
