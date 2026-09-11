@@ -50,6 +50,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "7 Weak Product Management Signs (5 minute read)",
+    "url": "https://dpereira.substack.com/p/7-weak-product-management-signs",
+    "description": "7 Weak Product Management Signs (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
     "title": "A Vision for Built-in Linting (4 minute read)",
     "url": "https://opentofu.org/blog/plans-for-linting/",
     "description": "A Vision for Built-in Linting (4 minute read)",
@@ -73,16 +83,6 @@
     "title": "AI Audit Trails: The Missing Piece of Enterprise AI Adoption (6 minute read)",
     "url": "https://mattermost.com/blog/ai-audit-trails-the-missing-piece-of-enterprise-ai-adoption/",
     "description": "AI Audit Trails: The Missing Piece of Enterprise AI Adoption (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI Can Climb the Hill. Humans Pick the Next One (3 minute read)",
-    "url": "https://threadreaderapp.com/thread/2096966511974064535.html",
-    "description": "AI Can Climb the Hill. Humans Pick the Next One (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -170,6 +170,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Alien (GitHub Repo)",
+    "url": "https://github.com/alienplatform/alien",
+    "description": "Alien (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
     "title": "An Organizational Second Brain (15 minute read)",
     "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
     "description": "An Organizational Second Brain (15 minute read)",
@@ -182,7 +192,7 @@
   {
     "title": "Anthropic Models AI's Potential Impact on the US Economy (11 minute read)",
     "url": "https://www.anthropic.com/institute/econ-scenarios",
-    "description": "AI agent traffic grew 7,851% in 2025. Security and marketing teams are both flying blind, and the fix runs through visibility, identity, and governance, in that order.",
+    "description": "Anthropic Models AI's Potential Impact on the US Economy (11 minute read)",
     "tags": [
       "tldr"
     ],
@@ -280,39 +290,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Bloom Filters And Keyed Nonces (5 minute read)",
-    "url": "https://ethresear.ch/t/bloom-filters-and-keyed-nonces/25950",
-    "description": "Bloom Filters And Keyed Nonces (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Build a SaaS App Without Coding (16 minute read)",
-    "url": "https://www.productcompass.pm/p/product-engineering-for-pms-part-2",
-    "description": "Build a SaaS App Without Coding (16 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-11",
-    "site_name": "tldr"
-  },
-  {
     "title": "Built for reliability: How American Express processes payments at scale (12 minute read)",
     "url": "https://blog.bytebytego.com/p/built-for-reliability-how-american",
     "description": "Built for reliability: How American Express processes payments at scale (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "ByteDance is Preparing a Real-Time Spatial Video Model (3 minute read)",
-    "url": "https://thenextweb.com/news/bytedance-spatial-video-world-model-zhang-yiming",
-    "description": "ByteDance is Preparing a Real-Time Spatial Video Model (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -430,9 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Cracks in the AI Thesis Part 2 (4 minute read)",
-    "url": "https://econlab.substack.com/p/ai-index-sept-2026",
-    "description": "Cracks in the AI Thesis Part 2 (4 minute read)",
+    "title": "Crumbs Launches Stock-Token Shopping Rewards on Robinhood Chain (2 minute read)",
+    "url": "https://threadreaderapp.com/thread/2097142187657937100.html",
+    "description": "Crumbs Launches Stock-Token Shopping Rewards on Robinhood Chain (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -440,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Crumbs Launches Stock-Token Shopping Rewards on Robinhood Chain (2 minute read)",
-    "url": "https://threadreaderapp.com/thread/2097142187657937100.html",
-    "description": "Crumbs Launches Stock-Token Shopping Rewards on Robinhood Chain (2 minute read)",
+    "title": "Crypto card comparison: EtherFi vs. Plasma vs. KAST (1 minute read)",
+    "url": "https://threadreaderapp.com/thread/2097344992465293465.html",
+    "description": "Crypto card comparison: EtherFi vs. Plasma vs. KAST (1 minute read)",
     "tags": [
       "tldr"
     ],
@@ -463,6 +443,16 @@
     "title": "De-Brainrot Vacations (6 minute read)",
     "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
     "description": "De-Brainrot Vacations (6 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "De-identification Protects Your Name. It Doesn't Protect Your Idea (7 minute read)",
+    "url": "https://www.distributedthoughts.org/2026-09-10-de-identification-protects-your-name/",
+    "description": "AI agent traffic grew 7,851% in 2025. Security and marketing teams are both flying blind, and the fix runs through visibility, identity, and governance, in that order.",
     "tags": [
       "tldr"
     ],
@@ -650,9 +640,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Genome language models can design cancer vaccines (32 minute read)",
-    "url": "https://www.radicalnumerics.ai/blog/omnii-cancer-vaccines",
-    "description": "Genome language models can design cancer vaccines (32 minute read)",
+    "title": "God Help Us, Let's Try To Learn About Mechanistic Interpretability Techniques (29 minute read)",
+    "url": "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about",
+    "description": "God Help Us, Let's Try To Learn About Mechanistic Interpretability Techniques (29 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google says enterprise AI assistants are moving beyond chat (5 minute read)",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants",
+    "description": "Google says enterprise AI assistants are moving beyond chat (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -770,6 +770,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "How and why Google will share anonymized search data with their competitors (26 minute read)",
+    "url": "https://desfontain.es/blog/google-search-dma-data-sharing.html",
+    "description": "How and why Google will share anonymized search data with their competitors (26 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How do you illustrate arguments? Igor Bastidas on illustrating You Be The Judge, The Guardian column that settles the nation's disputes (12 minute read)",
+    "url": "https://www.itsnicethat.com/features/igor-bastidas-illustration-spotlight-070926",
+    "description": "How do you illustrate arguments? Igor Bastidas on illustrating You Be The Judge, The Guardian column that settles the nation's disputes (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
     "title": "How to Build a One-Person Company That Runs from Slack (17 minute read)",
     "url": "https://x.com/VibeMarketer_/status/2095870007016116337",
     "description": "How to Build a One-Person Company That Runs from Slack (17 minute read)",
@@ -790,19 +810,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How to give away free product and make money doing it (17 minute read)",
+    "title": "How to give away free product and make money doing it (8 minute read)",
     "url": "https://www.elenaverna.com/p/how-to-give-away-free-product-and",
-    "description": "How to give away free product and make money doing it (17 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How to write a definition of done for an AI feature (3 minute read)",
-    "url": "https://jeffgothelf.com/blog/how-to-write-a-definition-of-done-for-an-ai-feature/",
-    "description": "How to write a definition of done for an AI feature (3 minute read)",
+    "description": "How to give away free product and make money doing it (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -890,16 +900,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Is behavioural science becoming AI's next product category? (6 minute read)",
-    "url": "https://industrycontents.com/clementine-ai-behavioral-science",
-    "description": "Is behavioural science becoming AI's next product category? (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-11",
-    "site_name": "tldr"
-  },
-  {
     "title": "Is the Like button dead? (3 minute read)",
     "url": "https://futuresocial.beehiiv.com/p/is-the-like-button-dead",
     "description": "Is the Like button dead? (3 minute read)",
@@ -940,6 +940,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Loops, graphs, & harnesses – getting quality out of a software factory (17 minute read)",
+    "url": "https://www.ivokund.com/loops-graphs-harnesses-getting-quality-out-of-a-software-factory/",
+    "description": "Loops, graphs, & harnesses – getting quality out of a software factory (17 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
     "title": "Make Posteingänge Sexy Again (4 minute read)",
     "url": "https://annhandley.com/how-to-write-email-readers-want-to-open/",
     "description": "Make Posteingänge Sexy Again (4 minute read)",
@@ -963,6 +973,16 @@
     "title": "Open source is reshaping the AI infrastructure stack (8 minute read)",
     "url": "https://www.thecloudcast.net/",
     "description": "Open source is reshaping the AI infrastructure stack (8 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI did it again. But what did they do? (3 minute read)",
+    "url": "https://benhylak.substack.com/p/openai-did-it-again-but-what-did",
+    "description": "OpenAI did it again. But what did they do? (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1020,9 +1040,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Portal by Spotify cut my Claude Code token usage by 90% (7 minute read)",
+    "title": "Portal by Spotify Cut My Claude Code Token Usage by 90% (8 minute read)",
     "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "description": "Portal by Spotify cut my Claude Code token usage by 90% (7 minute read)",
+    "description": "Portal by Spotify Cut My Claude Code Token Usage by 90% (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1063,6 +1083,16 @@
     "title": "Privileged Identity and Access in Microsoft Entra (GitHub Repo)",
     "url": "https://github.com/Cloud-Architekt/AzurePrivilegedIAM",
     "description": "Privileged Identity and Access in Microsoft Entra (GitHub Repo)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Product Strategy Starts With What You Will Not Build (15 minute read)",
+    "url": "https://uxcrush.com/product-strategy",
+    "description": "Product Strategy Starts With What You Will Not Build (15 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1180,9 +1210,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Slop-Creep: When Building Gets Cheaper Than Thinking (7 minute read)",
-    "url": "https://awaitinginput.substack.com/p/slop-creep-when-building-gets-cheaper",
-    "description": "Slop-Creep: When Building Gets Cheaper Than Thinking (7 minute read)",
+    "title": "Software as Content (5 minute read)",
+    "url": "https://adaptivesoftware.substack.com/p/software-as-content",
+    "description": "Software as Content (5 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Software is about to eat the world much faster (2 minute read)",
+    "url": "https://x.com/pmarca/status/2097762851788398971",
+    "description": "Software is about to eat the world much faster (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1220,9 +1260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Tailwind Labs is joining Shopify (3 minute read)",
+    "title": "Tailwind Labs Is Joining Shopify (3 minute read)",
     "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-    "description": "Tailwind Labs is joining Shopify (3 minute read)",
+    "description": "Tailwind Labs Is Joining Shopify (3 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1280,6 +1320,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The Eval You Cannot Trust Is Your Own (12 minute read)",
+    "url": "https://aibyshrabony.substack.com/p/the-eval-you-cannot-trust-is-your",
+    "description": "The Eval You Cannot Trust Is Your Own (12 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
     "title": "The LLM Architecture Problem (7 minute read)",
     "url": "https://riskmusings.substack.com/p/the-llm-architecture-problem",
     "description": "The LLM Architecture Problem (7 minute read)",
@@ -1310,6 +1360,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The Principles of Getting Ahead (3 minute read)",
+    "url": "https://x.com/0xHvdes/status/2098009222302540086",
+    "description": "The Principles of Getting Ahead (3 minute read)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-11",
+    "site_name": "tldr"
+  },
+  {
     "title": "The big winners and losers in US website traffic over the past year (7 minute read)",
     "url": "https://searchengineland.com/winners-losers-us-website-traffic-past-year-486843",
     "description": "The big winners and losers in US website traffic over the past year (7 minute read)",
@@ -1320,9 +1380,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The coming product retention crisis (7 minute read)",
+    "title": "The coming product retention crisis (4 minute read)",
     "url": "https://andrewchen.substack.com/p/adversarial-creativity-and-the-coming",
-    "description": "The coming product retention crisis (7 minute read)",
+    "description": "The coming product retention crisis (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1440,9 +1500,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Writer launches a shared memory layer for enterprise AI agents (7 minute read)",
-    "url": "https://finance.yahoo.com/technology/ai/articles/writer-unveils-enterprise-brain-first-130000144.html",
-    "description": "Writer launches a shared memory layer for enterprise AI agents (7 minute read)",
+    "title": "Will AI soon lead to double-digit growth? (38 minute read)",
+    "url": "https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit",
+    "description": "Will AI soon lead to double-digit growth? (38 minute read)",
     "tags": [
       "tldr"
     ],
