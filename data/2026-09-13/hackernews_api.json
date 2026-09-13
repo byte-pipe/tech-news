@@ -4,8 +4,8 @@
     "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
     "author": "wcrichton",
     "date": "2026-09-09",
-    "score": 373,
-    "comments": 99,
+    "score": 447,
+    "comments": 129,
     "id": 49626718,
     "discussion_url": "https://news.ycombinator.com/item?id=49626718",
     "description": "A Design Space Exploration of Async/Await",
@@ -14,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028963"
+    "fetched_at": "2026-09-13T14:49:44.536680"
   },
   {
     "title": "A misalignment of AI in mathematics",
     "url": "https://mathandai.org/",
     "author": "meredydd",
-    "date": "2026-09-12",
-    "score": 1099,
-    "comments": 1045,
+    "date": "2026-09-11",
+    "score": 1202,
+    "comments": 1185,
     "id": 49662371,
     "discussion_url": "https://news.ycombinator.com/item?id=49662371",
     "description": "A misalignment of AI in mathematics",
@@ -31,117 +31,185 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028882"
+    "fetched_at": "2026-09-13T14:49:44.536713"
   },
   {
-    "title": "Another way to leak traffic on Android has been discovered",
-    "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
-    "author": "mhitza",
+    "title": "After Math",
+    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+    "author": "throwaway81523",
+    "date": "2026-09-13",
+    "score": 120,
+    "comments": 104,
+    "id": 49679637,
+    "discussion_url": "https://news.ycombinator.com/item?id=49679637",
+    "description": "After Math",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536706"
+  },
+  {
+    "title": "Apple iPod Engraver (2019)",
+    "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+    "author": "NaOH",
+    "date": "2026-09-09",
+    "score": 255,
+    "comments": 67,
+    "id": 49619848,
+    "discussion_url": "https://news.ycombinator.com/item?id=49619848",
+    "description": "Apple iPod Engraver (2019)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536593"
+  },
+  {
+    "title": "Don't be the out of touch Kung Fu master",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+    "author": "dsubburam",
     "date": "2026-09-12",
-    "score": 119,
+    "score": 184,
+    "comments": 249,
+    "id": 49677577,
+    "discussion_url": "https://news.ycombinator.com/item?id=49677577",
+    "description": "Don't be the out of touch Kung Fu master",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536586"
+  },
+  {
+    "title": "Everyone should slow down AI development except for me",
+    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+    "author": "xena",
+    "date": "2026-09-13",
+    "score": 629,
+    "comments": 376,
+    "id": 49678683,
+    "discussion_url": "https://news.ycombinator.com/item?id=49678683",
+    "description": "Everyone should slow down AI development except for me",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536590"
+  },
+  {
+    "title": "Flock worker calls police on reporter filming public camera installation",
+    "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+    "author": "SanjayMehta",
+    "date": "2026-09-13",
+    "score": 132,
+    "comments": 68,
+    "id": 49683853,
+    "discussion_url": "https://news.ycombinator.com/item?id=49683853",
+    "description": "Flock worker calls police on reporter filming public camera installation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536516"
+  },
+  {
+    "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+    "url": "https://eiln.github.io/posts/ane-dma.html",
+    "author": "eiln",
+    "date": "2026-09-10",
+    "score": 188,
     "comments": 29,
-    "id": 49665502,
-    "discussion_url": "https://news.ycombinator.com/item?id=49665502",
-    "description": "Another way to leak traffic on Android has been discovered",
+    "id": 49636479,
+    "discussion_url": "https://news.ycombinator.com/item?id=49636479",
+    "description": "Getting 50 GB/S Back from the Apple Neural Engine",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029126"
+    "fetched_at": "2026-09-13T14:49:44.536611"
   },
   {
-    "title": "Claude is only available to people over 18 years",
-    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-    "author": "Muhammad523",
+    "title": "Homebrew 7.0.0",
+    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+    "author": "mikemcquaid",
+    "date": "2026-09-13",
+    "score": 272,
+    "comments": 120,
+    "id": 49681545,
+    "discussion_url": "https://news.ycombinator.com/item?id=49681545",
+    "description": "Homebrew 7.0.0",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536571"
+  },
+  {
+    "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
+    "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+    "author": "ichacas",
+    "date": "2026-09-10",
+    "score": 120,
+    "comments": 61,
+    "id": 49640913,
+    "discussion_url": "https://news.ycombinator.com/item?id=49640913",
+    "description": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536524"
+  },
+  {
+    "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+    "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+    "author": "sbulaev",
     "date": "2026-09-11",
-    "score": 660,
-    "comments": 636,
-    "id": 49656225,
-    "discussion_url": "https://news.ycombinator.com/item?id=49656225",
-    "description": "Claude is only available to people over 18 years",
+    "score": 134,
+    "comments": 146,
+    "id": 49658672,
+    "discussion_url": "https://news.ycombinator.com/item?id=49658672",
+    "description": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029189"
+    "fetched_at": "2026-09-13T14:49:44.536728"
   },
   {
-    "title": "Fuck it, make it anyway",
-    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-    "author": "JayOtter",
+    "title": "I made a build visualizer to understand Bun's compile times",
+    "url": "https://lalitm.com/post/buildprof/",
+    "author": "lalitmaganti",
     "date": "2026-09-12",
-    "score": 373,
-    "comments": 297,
-    "id": 49671329,
-    "discussion_url": "https://news.ycombinator.com/item?id=49671329",
-    "description": "Fuck it, make it anyway",
+    "score": 152,
+    "comments": 30,
+    "id": 49672842,
+    "discussion_url": "https://news.ycombinator.com/item?id=49672842",
+    "description": "I made a build visualizer to understand Bun's compile times",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028725"
-  },
-  {
-    "title": "GrapheneOS' rewritten Messages app is released",
-    "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-    "author": "microtonal",
-    "date": "2026-09-12",
-    "score": 291,
-    "comments": 217,
-    "id": 49663373,
-    "discussion_url": "https://news.ycombinator.com/item?id=49663373",
-    "description": "GrapheneOS' rewritten Messages app is released",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029141"
-  },
-  {
-    "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-    "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-    "author": "bookofjoe",
-    "date": "2026-09-09",
-    "score": 116,
-    "comments": 31,
-    "id": 49624456,
-    "discussion_url": "https://news.ycombinator.com/item?id=49624456",
-    "description": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029011"
-  },
-  {
-    "title": "How the Chorleywood Bread Process transformed British bread",
-    "url": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
-    "author": "baud147258",
-    "date": "2026-09-09",
-    "score": 121,
-    "comments": 117,
-    "id": 49610834,
-    "discussion_url": "https://news.ycombinator.com/item?id=49610834",
-    "description": "How the Chorleywood Bread Process transformed British bread",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029239"
+    "fetched_at": "2026-09-13T14:49:44.536639"
   },
   {
     "title": "I spent $220 on Google app ads and 60% of the installs were robots",
     "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
     "author": "nickabe",
-    "date": "2026-09-12",
-    "score": 664,
-    "comments": 365,
+    "date": "2026-09-11",
+    "score": 744,
+    "comments": 415,
     "id": 49662990,
     "discussion_url": "https://news.ycombinator.com/item?id=49662990",
     "description": "I spent $220 on Google app ads and 60% of the installs were robots",
@@ -150,32 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028793"
-  },
-  {
-    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
-    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-    "author": "adastral",
-    "date": "2026-09-08",
-    "score": 234,
-    "comments": 85,
-    "id": 49601138,
-    "discussion_url": "https://news.ycombinator.com/item?id=49601138",
-    "description": "I've operated petabyte-scale ClickHouse clusters for 5 years",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028913"
+    "fetched_at": "2026-09-13T14:49:44.536775"
   },
   {
     "title": "IKEA made a mod for Skyrim [video]",
     "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
     "author": "kegenaar",
     "date": "2026-09-10",
-    "score": 411,
-    "comments": 88,
+    "score": 581,
+    "comments": 158,
     "id": 49639647,
     "discussion_url": "https://news.ycombinator.com/item?id=49639647",
     "description": "IKEA made a mod for Skyrim [video]",
@@ -184,304 +235,270 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028743"
+    "fetched_at": "2026-09-13T14:49:44.536735"
   },
   {
-    "title": "Inverse Kinematics and Foot Locking",
-    "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
-    "author": "airhangerf15",
-    "date": "2026-09-07",
-    "score": 103,
-    "comments": 11,
-    "id": 49595505,
-    "discussion_url": "https://news.ycombinator.com/item?id=49595505",
-    "description": "Inverse Kinematics and Foot Locking",
+    "title": "JetKVM Mini",
+    "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+    "author": "taubek",
+    "date": "2026-09-13",
+    "score": 305,
+    "comments": 118,
+    "id": 49681152,
+    "discussion_url": "https://news.ycombinator.com/item?id=49681152",
+    "description": "JetKVM Mini",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028810"
+    "fetched_at": "2026-09-13T14:49:44.536492"
   },
   {
-    "title": "Litelm: LiteLLM Without the Bloat",
-    "url": "https://github.com/kennethwolters/litelm",
-    "author": "kennethwolters",
+    "title": "LG Says We're Fake News [video]",
+    "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+    "author": "HelloUsername",
     "date": "2026-09-12",
-    "score": 163,
-    "comments": 57,
-    "id": 49662767,
-    "discussion_url": "https://news.ycombinator.com/item?id=49662767",
-    "description": "Litelm: LiteLLM Without the Bloat",
+    "score": 285,
+    "comments": 146,
+    "id": 49676324,
+    "discussion_url": "https://news.ycombinator.com/item?id=49676324",
+    "description": "LG Says We're Fake News [video]",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028691"
+    "fetched_at": "2026-09-13T14:49:44.536752"
   },
   {
-    "title": "Logo Programming",
-    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-    "author": "azhenley",
+    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+    "author": "datakan",
+    "date": "2026-09-10",
+    "score": 581,
+    "comments": 449,
+    "id": 49645480,
+    "discussion_url": "https://news.ycombinator.com/item?id=49645480",
+    "description": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536621"
+  },
+  {
+    "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+    "url": "https://hachyderm.io/@simontatham/117201594980991062",
+    "author": "encyclopedism",
+    "date": "2026-09-12",
+    "score": 364,
+    "comments": 133,
+    "id": 49675902,
+    "discussion_url": "https://news.ycombinator.com/item?id=49675902",
+    "description": "Linux Zoom client proactively reading everything written to X11 clipboard",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536720"
+  },
+  {
+    "title": "Make your first edit to OpenStreetMap",
+    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "author": "juliantigler",
+    "date": "2026-09-12",
+    "score": 523,
+    "comments": 133,
+    "id": 49674050,
+    "discussion_url": "https://news.ycombinator.com/item?id=49674050",
+    "description": "Make your first edit to OpenStreetMap",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536579"
+  },
+  {
+    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "author": "pwg",
+    "date": "2026-09-12",
+    "score": 117,
+    "comments": 40,
+    "id": 49673580,
+    "discussion_url": "https://news.ycombinator.com/item?id=49673580",
+    "description": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536668"
+  },
+  {
+    "title": "Nvidia is the central bank of AI",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "author": "tolugenius",
+    "date": "2026-09-12",
+    "score": 522,
+    "comments": 380,
+    "id": 49673098,
+    "discussion_url": "https://news.ycombinator.com/item?id=49673098",
+    "description": "Nvidia is the central bank of AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536503"
+  },
+  {
+    "title": "P(doom)",
+    "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+    "author": "lumpa",
+    "date": "2026-09-12",
+    "score": 136,
+    "comments": 100,
+    "id": 49677450,
+    "discussion_url": "https://news.ycombinator.com/item?id=49677450",
+    "description": "P(doom)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536688"
+  },
+  {
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "url": "https://withspecific.com/benchmarks/real-swe",
+    "author": "theanonymousone",
+    "date": "2026-09-12",
+    "score": 251,
+    "comments": 140,
+    "id": 49676820,
+    "discussion_url": "https://news.ycombinator.com/item?id=49676820",
+    "description": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536717"
+  },
+  {
+    "title": "Stabilizing Rust's Never Type",
+    "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+    "author": "cjd8",
     "date": "2026-09-09",
-    "score": 298,
-    "comments": 120,
-    "id": 49622406,
-    "discussion_url": "https://news.ycombinator.com/item?id=49622406",
-    "description": "Logo Programming",
+    "score": 220,
+    "comments": 78,
+    "id": 49625056,
+    "discussion_url": "https://news.ycombinator.com/item?id=49625056",
+    "description": "Stabilizing Rust's Never Type",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028897"
+    "fetched_at": "2026-09-13T14:49:44.536564"
   },
   {
-    "title": "Mind-altering drugs played key role in rise of Andean civilization",
-    "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-    "author": "geneticdrifts",
-    "date": "2026-09-12",
-    "score": 198,
-    "comments": 131,
-    "id": 49662020,
-    "discussion_url": "https://news.ycombinator.com/item?id=49662020",
-    "description": "Mind-altering drugs played key role in rise of Andean civilization",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028674"
-  },
-  {
-    "title": "Navier-Stokes Announcement",
-    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-    "author": "rvz",
-    "date": "2026-09-12",
-    "score": 240,
-    "comments": 183,
-    "id": 49668706,
-    "discussion_url": "https://news.ycombinator.com/item?id=49668706",
-    "description": "Navier-Stokes Announcement",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029060"
-  },
-  {
-    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "url": "https://www.rubyhack.ai/",
-    "author": "chao-",
-    "date": "2026-09-12",
-    "score": 859,
-    "comments": 502,
-    "id": 49666735,
-    "discussion_url": "https://news.ycombinator.com/item?id=49666735",
-    "description": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028657"
-  },
-  {
-    "title": "Project Blinkenlights",
-    "url": "https://blinkenlights.de/en/",
-    "author": "doener",
-    "date": "2026-09-12",
-    "score": 105,
-    "comments": 33,
-    "id": 49666146,
-    "discussion_url": "https://news.ycombinator.com/item?id=49666146",
-    "description": "Project Blinkenlights",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029157"
-  },
-  {
-    "title": "RTK reports token savings, but our cost benchmarks disagree",
-    "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-    "author": "michalwarda",
-    "date": "2026-09-11",
-    "score": 166,
-    "comments": 82,
-    "id": 49656471,
-    "discussion_url": "https://news.ycombinator.com/item?id=49656471",
-    "description": "RTK reports token savings, but our cost benchmarks disagree",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029333"
-  },
-  {
-    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-    "url": "https://eiln.github.io/posts/ane.html",
-    "author": "zdw",
-    "date": "2026-09-12",
-    "score": 173,
-    "comments": 18,
-    "id": 49670032,
-    "discussion_url": "https://news.ycombinator.com/item?id=49670032",
-    "description": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028845"
-  },
-  {
-    "title": "Rune is now open source",
-    "url": "https://rune.build/blog/rune-is-now-open-source",
-    "author": "ernestrc",
-    "date": "2026-09-12",
-    "score": 205,
-    "comments": 66,
-    "id": 49660149,
-    "discussion_url": "https://news.ycombinator.com/item?id=49660149",
-    "description": "Rune is now open source",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029077"
-  },
-  {
-    "title": "Shopify is moving from React Native back to Swift and Kotlin",
-    "url": "https://shopify.engineering/back-to-native",
-    "author": "fnthawar2",
-    "date": "2026-09-11",
-    "score": 1247,
-    "comments": 935,
-    "id": 49643982,
-    "discussion_url": "https://news.ycombinator.com/item?id=49643982",
-    "description": "Shopify is moving from React Native back to Swift and Kotlin",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029349"
-  },
-  {
-    "title": "Show HN: Bodily Oddities",
-    "url": "https://vester.si/bodily-oddities/",
-    "author": "vesterde",
-    "date": "2026-09-11",
-    "score": 306,
-    "comments": 189,
-    "id": 49649789,
-    "discussion_url": "https://news.ycombinator.com/item?id=49649789",
-    "description": "Show HN: Bodily Oddities",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029026"
-  },
-  {
-    "title": "So you want to use OpenRouter?",
-    "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-    "author": "player85",
-    "date": "2026-09-09",
-    "score": 734,
-    "comments": 194,
-    "id": 49621546,
-    "discussion_url": "https://news.ycombinator.com/item?id=49621546",
-    "description": "So you want to use OpenRouter?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029441"
-  },
-  {
-    "title": "Stop making swap partitions—use swap files instead",
-    "url": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
-    "author": "jenders",
-    "date": "2026-09-09",
-    "score": 132,
-    "comments": 229,
-    "id": 49618087,
-    "discussion_url": "https://news.ycombinator.com/item?id=49618087",
-    "description": "Stop making swap partitions—use swap files instead",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029425"
-  },
-  {
-    "title": "The EPA is planning to scrap public review rules for data center pollution",
-    "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-    "author": "doener",
-    "date": "2026-09-12",
-    "score": 482,
-    "comments": 356,
-    "id": 49662672,
-    "discussion_url": "https://news.ycombinator.com/item?id=49662672",
-    "description": "The EPA is planning to scrap public review rules for data center pollution",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029270"
-  },
-  {
-    "title": "Usenet rewind archive search engine",
-    "url": "https://www.usenet-rewind.com/",
-    "author": "cstadler1869",
-    "date": "2026-09-12",
-    "score": 108,
-    "comments": 33,
-    "id": 49668777,
-    "discussion_url": "https://news.ycombinator.com/item?id=49668777",
-    "description": "Usenet rewind archive search engine",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028995"
-  },
-  {
-    "title": "We Must Pace the Frontier",
-    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-    "author": "apsec112",
+    "title": "The Interim Computer Museum",
+    "url": "https://icm.museum/",
+    "author": "mulmen",
     "date": "2026-09-13",
     "score": 140,
-    "comments": 168,
-    "id": 49672510,
-    "discussion_url": "https://news.ycombinator.com/item?id=49672510",
-    "description": "We Must Pace the Frontier",
+    "comments": 16,
+    "id": 49679459,
+    "discussion_url": "https://news.ycombinator.com/item?id=49679459",
+    "description": "The Interim Computer Museum",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028584"
+    "fetched_at": "2026-09-13T14:49:44.536552"
+  },
+  {
+    "title": "The worst spam emails: iLands AI agent hustle",
+    "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+    "author": "ColinWright",
+    "date": "2026-09-12",
+    "score": 115,
+    "comments": 55,
+    "id": 49671159,
+    "discussion_url": "https://news.ycombinator.com/item?id=49671159",
+    "description": "The worst spam emails: iLands AI agent hustle",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536765"
+  },
+  {
+    "title": "We must pace the frontier",
+    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "author": "apsec112",
+    "date": "2026-09-12",
+    "score": 699,
+    "comments": 962,
+    "id": 49672510,
+    "discussion_url": "https://news.ycombinator.com/item?id=49672510",
+    "description": "We must pace the frontier",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536618"
+  },
+  {
+    "title": "Why are AI agents lying, cheating and coordinating?",
+    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "author": "jonifico",
+    "date": "2026-09-13",
+    "score": 399,
+    "comments": 478,
+    "id": 49678969,
+    "discussion_url": "https://news.ycombinator.com/item?id=49678969",
+    "description": "Why are AI agents lying, cheating and coordinating?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536548"
+  },
+  {
+    "title": "Will there be a 7G?",
+    "url": "https://arxiv.org/abs/2609.01877",
+    "author": "Betelbuddy",
+    "date": "2026-09-12",
+    "score": 117,
+    "comments": 169,
+    "id": 49674498,
+    "discussion_url": "https://news.ycombinator.com/item?id=49674498",
+    "description": "Will there be a 7G?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-13T14:49:44.536625"
   },
   {
     "title": "google.com/goto: Google's anti-scraping update",
     "url": "https://www.autom.dev/blog/google-search-goto-links",
     "author": "1e1a",
     "date": "2026-09-12",
-    "score": 529,
-    "comments": 428,
+    "score": 653,
+    "comments": 517,
     "id": 49668386,
     "discussion_url": "https://news.ycombinator.com/item?id=49668386",
     "description": "google.com/goto: Google's anti-scraping update",
@@ -490,23 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.028543"
-  },
-  {
-    "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-    "url": "https://snap.berkeley.edu/",
-    "author": "dr_kiszonka",
-    "date": "2026-09-12",
-    "score": 158,
-    "comments": 94,
-    "id": 49662214,
-    "discussion_url": "https://news.ycombinator.com/item?id=49662214",
-    "description": "Λ Snap – An inviting programming language for kids and adults for CS study",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-13T02:06:02.029109"
+    "fetched_at": "2026-09-13T14:49:44.536742"
   }
 ]

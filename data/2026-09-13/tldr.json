@@ -50,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "7 AI Models Ran Real Businesses: $12,431 in Fake Invoices, 2,797 Spam Emails, $0 Revenue (10 minute read)",
+    "title": "7 AI models ran real businesses: $12,431 in fake invoices, 2,797 spam emails, and $0 revenue (18 minute read)",
     "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-    "description": "7 AI Models Ran Real Businesses: $12,431 in Fake Invoices, 2,797 Spam Emails, $0 Revenue (10 minute read)",
+    "description": "7 AI models ran real businesses: $12,431 in fake invoices, 2,797 spam emails, and $0 revenue (18 minute read)",
     "tags": [
       "tldr"
     ],
@@ -63,16 +63,6 @@
     "title": "7 Weak Product Management Signs (5 minute read)",
     "url": "https://dpereira.substack.com/p/7-weak-product-management-signs",
     "description": "7 Weak Product Management Signs (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "A decade of software infrastructure (8 minute read)",
-    "url": "https://www.innovationendeavors.com/insights/a-decade-of-software-infrastructure",
-    "description": "A decade of software infrastructure (8 minute read)",
     "tags": [
       "tldr"
     ],
@@ -210,16 +200,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Applied AI Doesn't Work (14 minute read)",
-    "url": "https://x.com/vasuman/status/2095999742031675738",
-    "description": "Applied AI Doesn't Work (14 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "Astra for Coding: Why Are We Doing This Again? (28 minute read)",
     "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
     "description": "Astra for Coding: Why Are We Doing This Again? (28 minute read)",
@@ -230,29 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Atlas: A World Model for Spatial Intelligence (10 minute read)",
-    "url": "https://www.worldlabs.ai/blog/atlas",
-    "description": "Atlas: A World Model for Spatial Intelligence (10 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting) (12 minute read)",
     "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
     "description": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting) (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Automatically detecting AI text in my browser (5 minute read)",
-    "url": "https://www.seangoedecke.com/deckard/",
-    "description": "Automatically detecting AI text in my browser (5 minute read)",
     "tags": [
       "tldr"
     ],
@@ -303,16 +263,6 @@
     "title": "Camera app in iOS 27 reportedly includes four major pro photography features (3 minute read)",
     "url": "https://9to5mac.com/2026/09/08/camera-app-in-ios-27-reportedly-includes-four-major-pro-photography-features/",
     "description": "Camera app in iOS 27 reportedly includes four major pro photography features (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "ChatGPT May Soon Learn Your Writing Style From Your Slack or Gmail (2 minute read)",
-    "url": "https://www.pcmag.com/news/chatgpt-may-soon-learn-your-writing-style-from-your-slack-or-gmail",
-    "description": "ChatGPT May Soon Learn Your Writing Style From Your Slack or Gmail (2 minute read)",
     "tags": [
       "tldr"
     ],
@@ -410,16 +360,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "De-Brainrot Vacations (6 minute read)",
-    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-    "description": "De-Brainrot Vacations (6 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "Detecting and countering misuse of AI: September 2026 (5 hour read)",
     "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
     "description": "Detecting and countering misuse of AI: September 2026 (5 hour read)",
@@ -510,16 +450,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google's Gemini Spark Can Now Manage Your Google Photos Library (1 minute read)",
-    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-    "description": "Google's Gemini Spark Can Now Manage Your Google Photos Library (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "Hackers Breach F5 BIG-IP APM Devices to Deploy Linux Rootkit (2 minute read)",
     "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
     "description": "Hackers Breach F5 BIG-IP APM Devices to Deploy Linux Rootkit (2 minute read)",
@@ -560,29 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How Our Agents Build On-Brand Pages with design.md (12 minute read)",
-    "url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
-    "description": "How Our Agents Build On-Brand Pages with design.md (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "How Starface Made Pimple Patches Cool (5 minute read)",
     "url": "https://www.marketergems.com/p/starface-marketing-strategy-deep-dive",
     "description": "How Starface Made Pimple Patches Cool (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How The Leading AI Companies Do Product (9 minute read)",
-    "url": "https://www.antmurphy.me/newsletter/how-the-leading-ai-companies-do-product-part-1",
-    "description": "How The Leading AI Companies Do Product (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -870,16 +780,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI prepares managed agents for DevDay 2026 (3 minute read)",
-    "url": "https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026/",
-    "description": "OpenAI prepares managed agents for DevDay 2026 (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "OpenAI's ChatGPT Images Gets Faster, with Sharper Details and More Refined Edits (3 minute read)",
     "url": "https://siliconangle.com/2026/09/08/openais-chatgpt-images-gets-faster-with-sharper-details-and-more-refined-edits/",
     "description": "OpenAI's ChatGPT Images Gets Faster, with Sharper Details and More Refined Edits (3 minute read)",
@@ -893,16 +793,6 @@
     "title": "OpenCodeReview (GitHub Repo)",
     "url": "https://github.com/alibaba/open-code-review",
     "description": "OpenCodeReview (GitHub Repo)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenScreen (GitHub Repo)",
-    "url": "https://github.com/getopenscreen/openscreen",
-    "description": "OpenScreen (GitHub Repo)",
     "tags": [
       "tldr"
     ],
@@ -940,29 +830,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "PostGREShell: The database powering much of the internet had an open door for 12 years (9 minute read)",
-    "url": "https://www.cyera.com/pt-br/research/postgreshell-the-database-powering-much-of-the-internet-had-an-open-door-for-12-years",
-    "description": "PostGREShell: The database powering much of the internet had an open door for 12 years (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "Product Strategy Starts With What You Will Not Build (15 minute read)",
     "url": "https://uxcrush.com/product-strategy",
     "description": "Product Strategy Starts With What You Will Not Build (15 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Programming Is Art (4 minute read)",
-    "url": "https://orchidfiles.com/programming-is-art/",
-    "description": "Programming Is Art (4 minute read)",
     "tags": [
       "tldr"
     ],
@@ -983,16 +853,6 @@
     "title": "Robinhood to Take Minority Stake in Crypto.com (1 minute read)",
     "url": "https://threadreaderapp.com/thread/2097295371345240434.html",
     "description": "Robinhood to Take Minority Stake in Crypto.com (1 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Run cloud agents on machines you manage (6 minute read)",
-    "url": "https://cursor.com/blog/self-hosted-machines",
-    "description": "Run cloud agents on machines you manage (6 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1090,26 +950,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Sophos brings OpenAI models to vulnerability prioritization (2 minute read)",
-    "url": "https://www.expresscomputer.in/news/sophos-to-bring-openai-cyber-models-into-its-managed-risk-offering/138516/",
-    "description": "Sophos brings OpenAI models to vulnerability prioritization (2 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Streaming Is Raising Prices Faster Than Cable Ever Did (3 minute read)",
-    "url": "https://www.hollywoodreporter.com/business/business-news/streaming-inflation-raising-prices-cable-1236691404/",
-    "description": "Streaming Is Raising Prices Faster Than Cable Ever Did (3 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "Switzerland begins testing alternatives to Microsoft 365 to protect its \"most sensitive data\" and strengthen digital sovereignty (2 minute read)",
     "url": "https://www.windowscentral.com/microsoft/microsoft-office/switzerland-testing-alternatives-to-microsoft-365-digital-sovereignty",
     "description": "Switzerland begins testing alternatives to Microsoft 365 to protect its \"most sensitive data\" and strengthen digital sovereignty (2 minute read)",
@@ -1140,16 +980,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Tesla Cybercab Specs: Supermanifold V3, No Rare Earth Magnets, & More (5 minute read)",
-    "url": "https://www.notateslaapp.com/news/4657/tesla-cybercab-specs-supermanifold-v3-no-rare-earth-magnets-more",
-    "description": "Tesla Cybercab Specs: Supermanifold V3, No Rare Earth Magnets, & More (5 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "The 11x ROAS account that lost money on every order (5 minute read)",
     "url": "https://searchengineland.com/roas-account-lost-money-every-order-486999",
     "description": "The 11x ROAS account that lost money on every order (5 minute read)",
@@ -1163,16 +993,6 @@
     "title": "The AI Data Sprawl (12 minute read)",
     "url": "https://www.linkedin.com/pulse/ai-data-sprawl-barry-mccardel-mpfpc/",
     "description": "The AI Data Sprawl (12 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The Education of a Doomer (9 minute read)",
-    "url": "https://borretti.me/article/the-education-of-a-doomer",
-    "description": "The Education of a Doomer (9 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1223,16 +1043,6 @@
     "title": "The SaaSpocalypse was more like a RenaiSaaS (8 minute read)",
     "url": "https://www.stripeeconomics.com/p/the-saaspocalypse-was-more-like-a",
     "description": "The SaaSpocalypse was more like a RenaiSaaS (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The big winners and losers in US website traffic over the past year (7 minute read)",
-    "url": "https://searchengineland.com/winners-losers-us-website-traffic-past-year-486843",
-    "description": "The big winners and losers in US website traffic over the past year (7 minute read)",
     "tags": [
       "tldr"
     ],
@@ -1350,16 +1160,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Who Killed the Cryptoanarchist? (8 minute read)",
-    "url": "https://x.com/Beylin/status/2095306290650329172",
-    "description": "Who Killed the Cryptoanarchist? (8 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "Why Spotify is not using Bayesian A/B testing (12 minute read)",
     "url": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing",
     "description": "Why Spotify is not using Bayesian A/B testing (12 minute read)",
@@ -1443,16 +1243,6 @@
     "title": "YouTube influencers have an AI audience: What millions of citation events reveal about influencer sponsorships (9 minute read)",
     "url": "https://scrunch.com/blog/youtube-influencers-have-an-ai-audience-influencer-sponsorships/",
     "description": "YouTube influencers have an AI audience: What millions of citation events reveal about influencer sponsorships (9 minute read)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Your AI Can Fix the Bug. But Can It Find It? (9 minute read)",
-    "url": "https://blog.reqproof.com/p/your-ai-can-fix-the-bug-can-it-find",
-    "description": "Your AI Can Fix the Bug. But Can It Find It? (9 minute read)",
     "tags": [
       "tldr"
     ],
