@@ -1,0 +1,512 @@
+[
+  {
+    "title": "\"Do You Still Read the Code?\"",
+    "url": "https://zanlib.dev/blog/do-you-still-read-the-code",
+    "description": "\"Do You Still Read the Code?\"",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A Brain Too Big to Carry — On-Device vs Datacenter Inference",
+    "url": "https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device",
+    "description": "A Brain Too Big to Carry — On-Device vs Datacenter Inference",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A beginning for mathematics",
+    "url": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics",
+    "description": "A beginning for mathematics",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI IPOs and Frontier AI as a Prisoner's Dilemma",
+    "url": "https://paulkedrosky.com/ai-ipos-and-frontier-ai-as-a-prisoners-dilemma",
+    "description": "AI IPOs and Frontier AI as a Prisoner's Dilemma",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI is making the nice version worth building",
+    "url": "https://lord.technology/2026/09/14/ai-is-making-the-nice-version-worth-building.html",
+    "description": "AI is making the nice version worth building",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic",
+    "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+    "description": "Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple files Supreme Court brief challenging contempt ruling in Epic case [U]",
+    "url": "https://9to5mac.com/2026/09/14/apple-files-supreme-court-brief-challenging-contempt-ruling-in-epic-case",
+    "description": "Apple files Supreme Court brief challenging contempt ruling in Epic case [U]",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Brain implant lets people with paralysis speak and gesture at the same time",
+    "url": "https://www.newscientist.com/article/2589210-brain-implant-lets-people-with-paralysis-speak-and-gesture-at-the-same-time",
+    "description": "Brain implant lets people with paralysis speak and gesture at the same time",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Brownfield Agentic Engineering",
+    "url": "https://addyo.substack.com/p/brownfield-agentic-engineering",
+    "description": "Brownfield Agentic Engineering",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Cline Desktop: An open-source app for open-weight models",
+    "url": "https://cline.ghost.io/cline-desktop-an-open-source-app-for-open-weight-models",
+    "description": "Cline Desktop: An open-source app for open-weight models",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Defense Startup Shield AI in Talks for Valuation of at Least $20 Billion",
+    "url": "https://www.theinformation.com/articles/defense-startup-shield-ai-talks-valuation-least-20-billion",
+    "description": "Defense Startup Shield AI in Talks for Valuation of at Least $20 Billion",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Donated livers can be made biologically younger",
+    "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger",
+    "description": "Donated livers can be made biologically younger",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Feature: Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone",
+    "url": "https://www.digitalfoundry.net/features/porting-half-life-alyx-to-steam-frame-how-valves-engineers-went-from-theres-no-way-to-shipping-standalone",
+    "description": "Feature: Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GitHub - ag-ui-protocol/ag-ui: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "url": "https://github.com/ag-ui-protocol/ag-ui",
+    "description": "GitHub - ag-ui-protocol/ag-ui: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GitHub - google/artemis: ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark. Created by Google's Pixel-Test-Engineering (PTE) Fusion team.",
+    "url": "https://github.com/google/artemis",
+    "description": "GitHub - google/artemis: ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark. Created by Google's Pixel-Test-Engineering (PTE) Fusion team.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GitHub - huggingface/tau: A Python port of Pi’s minimalist coding agent.",
+    "url": "https://github.com/huggingface/tau",
+    "description": "GitHub - huggingface/tau: A Python port of Pi’s minimalist coding agent.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Googlebook pre-orders finally have a date: Here's when you can buy one",
+    "url": "https://www.androidcentral.com/chromebooks-laptops/googlebook-pre-orders-begin-sept-21",
+    "description": "Googlebook pre-orders finally have a date: Here's when you can buy one",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "If AI writes all the code, what’s left for engineers?",
+    "url": "https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left",
+    "description": "If AI writes all the code, what’s left for engineers?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Internet Shocked: Unsolved Problem by Fields Medalist Breached by Two High School Students with AI | HTX Insights",
+    "url": "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j",
+    "description": "Internet Shocked: Unsolved Problem by Fields Medalist Breached by Two High School Students with AI | HTX Insights",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Interpreting Pangram",
+    "url": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram",
+    "description": "Interpreting Pangram",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Agentic Batch Changes: the frontier agent for code change at scale",
+    "url": "https://sourcegraph.com/blog/introducing-agentic-batch-changes",
+    "description": "Introducing Agentic Batch Changes: the frontier agent for code change at scale",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Loops for product management – Changelog",
+    "url": "https://linear.app/changelog/2026-09-14-loops-for-product-management",
+    "description": "Loops for product management – Changelog",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Many people I talk to find it hard to understand how the same companies can both push the frontie...",
+    "url": "https://x.com/thom_wolf/status/2099520857181737366",
+    "description": "Many people I talk to find it hard to understand how the same companies can both push the frontie...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "New York Seizes 12 Celebrity Deepfake Websites",
+    "url": "https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites",
+    "description": "New York Seizes 12 Celebrity Deepfake Websites",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Nvidia, Palantir, and others restrict advanced AI model usage over privacy concerns, report claims — 'paranoia' rising over customer intellectual property | Tom's Hardware",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-palantir-and-others-restrict-advanced-ai-model-usage-over-privacy-concerns-report-claims-paranoia-rising-over-customer-intellectual-property",
+    "description": "Nvidia, Palantir, and others restrict advanced AI model usage over privacy concerns, report claims — 'paranoia' rising over customer intellectual property | Tom's Hardware",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Op-Ed: I Worked at Google DeepMind. You Should Listen to the Warnings About AI",
+    "url": "https://www.lesswrong.com/posts/YGTWfyZb9oE5EQPu6/op-ed-i-worked-at-google-deepmind-you-should-listen-to-the",
+    "description": "Op-Ed: I Worked at Google DeepMind. You Should Listen to the Warnings About AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+    "description": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai",
+    "description": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown",
+    "url": "https://www.theinformation.com/articles/openais-top-priority-ai-agents-automating-ai-research-says-noam-brown",
+    "description": "OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Peak traffic shouldn’t mean peak anxiety",
+    "url": "https://links.tldrnewsletter.com/JJmoyH",
+    "description": "Peak traffic shouldn’t mean peak anxiety",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+    "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
+    "description": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Prompts aren’t Real",
+    "url": "https://evaluation.club",
+    "description": "Prompts aren’t Real",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Review of Valve's Steam Frame: comfortable to wear, supports multiple ways to play games, but it doesn't feel like a finished product and has short battery life",
+    "url": "https://www.theverge.com/tech/994267/steam-frame-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjVxUTRYR3pEbkMiLCJwIjoiL3RlY2gvOTk0MjY3L3N0ZWFtLWZyYW1lLXJldmlldyIsImV4cCI6MTc4OTgzNzg0NywiaWF0IjoxNzg5NDA1ODQ4fQ.AvNzVQPpuoQDf5HH3Y2PRC8AD6H66aZ7Pnu26NWxfr0",
+    "description": "Review of Valve's Steam Frame: comfortable to wear, supports multiple ways to play games, but it doesn't feel like a finished product and has short battery life",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Robinhood Says Shares And Votes Are Coming For Stock Tokens",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-says-shares-and-votes-are-coming-for-stock-tokens",
+    "description": "Robinhood Says Shares And Votes Are Coming For Stock Tokens",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Russian freelancers use Claude to program autonomous combat drone swarm — AI-enabled target selection and detonation without a human in the loop",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/russian-freelancers-use-claude-to-program-autonomous-combat-drone-swarm-ai-enabled-target-selection-and-detonation-without-a-human-in-the-loop",
+    "description": "Russian freelancers use Claude to program autonomous combat drone swarm — AI-enabled target selection and detonation without a human in the loop",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push",
+    "url": "https://uk.finance.yahoo.com/news/softbank-gets-upsized-11-9-014242702.html",
+    "description": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Superhuman Acquires Fathom, AI Notetaker",
+    "url": "https://blog.superhuman.com/superhuman-acquires-fathom",
+    "description": "Superhuman Acquires Fathom, AI Notetaker",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Temporal raises $550M at a $12.55B valuation as demand grows for reliable AI infrastructure",
+    "url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
+    "description": "Temporal raises $550M at a $12.55B valuation as demand grows for reliable AI infrastructure",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The AI-as-Normal-Technology view of loss-of-control incidents",
+    "url": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "description": "The AI-as-Normal-Technology view of loss-of-control incidents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Expanding Potential of Neuromodulation | Contrary Research",
+    "url": "https://research.contrary.com/deep-dive/the-expanding-potential-of-neuromodulation",
+    "description": "The Expanding Potential of Neuromodulation | Contrary Research",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The multi-AI model stack is here. Now someone has to manage it",
+    "url": "https://www.informationweek.com/machine-learning-ai/the-multi-ai-model-stack-is-here-now-someone-has-to-manage-it",
+    "description": "The multi-AI model stack is here. Now someone has to manage it",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The world deserves confidence that American companies developing increasingly capable AI will act...",
+    "url": "https://x.com/sama/status/2099348812305473766",
+    "description": "The world deserves confidence that American companies developing increasingly capable AI will act...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "US coal ‘biggest contributor by far’ to rise in global emissions - News - The Chemical Engineer",
+    "url": "https://www.thechemicalengineer.com/news/us-coal-biggest-contributor-by-far-to-rise-in-global-emissions",
+    "description": "US coal ‘biggest contributor by far’ to rise in global emissions - News - The Chemical Engineer",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Vegas, Deal Us In! We’re welcoming riders today",
+    "url": "https://waymo.com/blog/2026/09/ride-in-las-vegas",
+    "description": "Vegas, Deal Us In! We’re welcoming riders today",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "We All Wanted to Be Netflix, who do we want to be next?",
+    "url": "https://www.architecture-weekly.com/p/we-all-wanted-to-be-netflix-who-do",
+    "description": "We All Wanted to Be Netflix, who do we want to be next?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "What Does Pacing Mean?",
+    "url": "https://tomtunguz.com/what-does-the-pause-mean",
+    "description": "What Does Pacing Mean?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "What’s New - Xcode - Apple Developer",
+    "url": "https://developer.apple.com/xcode/whats-new",
+    "description": "What’s New - Xcode - Apple Developer",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why we built Pion | Andon Labs",
+    "url": "https://andonlabs.com/blog/why-we-built-pion",
+    "description": "Why we built Pion | Andon Labs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why you should work on AI for AI Research — Richard Socher of Recursive",
+    "url": "https://www.latent.space/p/recursive",
+    "description": "Why you should work on AI for AI Research — Richard Socher of Recursive",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "macOS 27: The MacStories Review",
+    "url": "https://www.macstories.net/stories/macos-27-the-macstories-review",
+    "description": "macOS 27: The MacStories Review",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "“Deep theorems were scarce and difficult and so became an effective mechanism to identify deep thought. AI has broken this system.”",
+    "url": "https://terrytao.wordpress.com/2026/09/13/deep-theorems-were-scarce-and-difficult-and-so-became-an-effective-mechanism-to-identify-deep-thought-ai-has-broken-this-system",
+    "description": "“Deep theorems were scarce and difficult and so became an effective mechanism to identify deep thought. AI has broken this system.”",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  }
+]
