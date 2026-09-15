@@ -1,8 +1,8 @@
 [
   {
-    "title": "A Brain Too Big to Carry — On-Device vs Datacenter Inference",
-    "url": "https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device",
-    "description": "A Brain Too Big to Carry — On-Device vs Datacenter Inference",
+    "title": "AI Is Making Product Development Faster. But Where Did the Work Go?",
+    "url": "https://rogerwong.me/2026/09/production-useful-not-production-ready",
+    "description": "AI Is Making Product Development Faster. But Where Did the Work Go?",
     "tags": [
       "tldr"
     ],
@@ -10,29 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Is Making Activity-Based Engineering Metrics Obsolete",
-    "url": "https://bharatsharma.pro/articles/activity-based-engineering-metrics-are-obsolete",
-    "description": "AI Is Making Activity-Based Engineering Metrics Obsolete",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AWS cannot restore its Bahrain region or one UAE zone six months after the strikes",
-    "url": "https://thenextweb.com/news/aws-bahrain-uae-cloud-zones-cannot-restore-war-damage",
-    "description": "AWS cannot restore its Bahrain region or one UAE zone six months after the strikes",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic",
-    "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-    "description": "Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic",
+    "title": "AWS says it can't restore service to Bahrain, UAE facilities 6 months after Iran strikes",
+    "url": "https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html",
+    "description": "AWS says it can't restore service to Bahrain, UAE facilities 6 months after Iran strikes",
     "tags": [
       "tldr"
     ],
@@ -50,9 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agents have favorite tools",
-    "url": "https://ianbarber.blog/2026/09/14/agents-have-favorite-tools",
-    "description": "Agents have favorite tools",
+    "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+    "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers",
+    "description": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
     "tags": [
       "tldr"
     ],
@@ -60,9 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agility Robotics: Agility Unveils Digit 5 Humanoid Robot Built for Safe Work at Scale",
-    "url": "https://www.agilityrobotics.com/content/agility-unveils-digit-5-humanoid-robot-built-for-cooperatively-safe-work-at-scale",
-    "description": "Agility Robotics: Agility Unveils Digit 5 Humanoid Robot Built for Safe Work at Scale",
+    "title": "Aider vs Claude Code in 2026: Which Should You Use?",
+    "url": "https://munderdiffl.in/blog/aider-vs-claude-code",
+    "description": "Aider vs Claude Code in 2026: Which Should You Use?",
     "tags": [
       "tldr"
     ],
@@ -70,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "An updated look for the Raspberry Pi Desktop",
-    "url": "https://www.raspberrypi.com/news/an-updated-look-for-the-raspberry-pi-desktop",
-    "description": "An updated look for the Raspberry Pi Desktop",
+    "title": "Bringing Salesforce into Claude",
+    "url": "https://claude.com/blog/salesforce-in-claude",
+    "description": "Bringing Salesforce into Claude",
     "tags": [
       "tldr"
     ],
@@ -80,19 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple files Supreme Court brief challenging contempt ruling in Epic case [U]",
-    "url": "https://9to5mac.com/2026/09/14/apple-files-supreme-court-brief-challenging-contempt-ruling-in-epic-case",
-    "description": "Apple files Supreme Court brief challenging contempt ruling in Epic case [U]",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "ByteDance’s First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending",
-    "url": "https://www.theinformation.com/articles/bytedances-first-half-profit-drops-20-billion-weighed-ai-spending",
-    "description": "ByteDance’s First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending",
+    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+    "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
+    "description": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
     "tags": [
       "tldr"
     ],
@@ -110,16 +80,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Cline Desktop: An open-source app for open-weight models",
-    "url": "https://cline.ghost.io/cline-desktop-an-open-source-app-for-open-weight-models",
-    "description": "Cline Desktop: An open-source app for open-weight models",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "Codex on the ChatGPT Free plan: we gave it $0 and the same booking app",
     "url": "https://okaneland.com/proof/codex-free",
     "description": "Codex on the ChatGPT Free plan: we gave it $0 and the same booking app",
@@ -130,9 +90,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "David Baker’s team designs enzymes switched by a separate protein effector",
-    "url": "https://x.com/BiologyAIDaily/status/2099853842905194549",
-    "description": "David Baker’s team designs enzymes switched by a separate protein effector",
+    "title": "Comment on Intel apps and macOS Golden Gate by isotopp",
+    "url": "https://derflounder.wordpress.com/2026/09/15/intel-apps-and-macos-golden-gate#comment-72940",
+    "description": "Comment on Intel apps and macOS Golden Gate by isotopp",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "DOJ Says Two Robinhood Engineers Used Perpetual Futures to Trade Ahead of Its Crypto Listings",
+    "url": "https://unchainedcrypto.com/doj-says-two-robinhood-engineers-used-perpetual-futures-to-trade-ahead-of-its-crypto-listings",
+    "description": "DOJ Says Two Robinhood Engineers Used Perpetual Futures to Trade Ahead of Its Crypto Listings",
     "tags": [
       "tldr"
     ],
@@ -150,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
-    "description": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "title": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree",
+    "url": "https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums",
+    "description": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree",
     "tags": [
       "tldr"
     ],
@@ -160,9 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Exclusive: Open Chinese models close gap with Silicon Valley’s frontier AI models",
-    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
-    "description": "Exclusive: Open Chinese models close gap with Silicon Valley’s frontier AI models",
+    "title": "Feature: Inside Steam Frame: Valve on How They Made It Performant, Why It Costs So Much and What's Next",
+    "url": "https://www.digitalfoundry.net/features/inside-steam-frame-valve-on-how-they-made-it-performant-why-it-costs-so-much-and-whats-next",
+    "description": "Feature: Inside Steam Frame: Valve on How They Made It Performant, Why It Costs So Much and What's Next",
     "tags": [
       "tldr"
     ],
@@ -170,9 +140,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Feature: Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone",
-    "url": "https://www.digitalfoundry.net/features/porting-half-life-alyx-to-steam-frame-how-valves-engineers-went-from-theres-no-way-to-shipping-standalone",
-    "description": "Feature: Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone",
+    "title": "Fedora 45 Beta Released With KMSCON Console, GNOME 51 & Other Updates",
+    "url": "https://www.phoronix.com/news/Fedora-45-Beta",
+    "description": "Fedora 45 Beta Released With KMSCON Console, GNOME 51 & Other Updates",
     "tags": [
       "tldr"
     ],
@@ -180,9 +150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Funded projects | Enduring Atmospheric Platforms",
-    "url": "https://aria.org.uk/opportunity-spaces/adaptive-machines/enduring-atmospheric-platforms/funded-projects",
-    "description": "Funded projects | Enduring Atmospheric Platforms",
+    "title": "For safety, recursive self-improvement is a red herring",
+    "url": "https://catalini.com/notes/rsi-is-a-red-herring",
+    "description": "For safety, recursive self-improvement is a red herring",
     "tags": [
       "tldr"
     ],
@@ -190,9 +160,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "GM gives its most important trucks a new UI—and includes CarPlay",
-    "url": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay",
-    "description": "GM gives its most important trucks a new UI—and includes CarPlay",
+    "title": "Free-Threaded Python on a Real Workload",
+    "url": "https://thinhdanggroup.github.io/measuring-free-threaded-python",
+    "description": "Free-Threaded Python on a Real Workload",
     "tags": [
       "tldr"
     ],
@@ -220,9 +190,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Grab Enters BNPL Space With $1.4 Billion Atome Acquisition",
-    "url": "https://www.pymnts.com/bnpl/2026/grab-enters-bnpl-space-with-1-4-billion-atome-acquisition",
-    "description": "Grab Enters BNPL Space With $1.4 Billion Atome Acquisition",
+    "title": "Google is backing Planted Solar’s plan for clean data center power",
+    "url": "https://www.latitudemedia.com/news/google-is-backing-planted-solars-plan-for-clean-data-center-power",
+    "description": "Google is backing Planted Solar’s plan for clean data center power",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Grab To Acquire 60% Of Atome Financial For $1.49 Billion And Plans To Buy Remaining 40%",
+    "url": "https://pulse2.com/grab-to-acquire-60-of-atome-financial-for-1-49-billion-and-plans-to-buy-remaining-40",
+    "description": "Grab To Acquire 60% Of Atome Financial For $1.49 Billion And Plans To Buy Remaining 40%",
     "tags": [
       "tldr"
     ],
@@ -240,9 +220,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Meta stock rises on cost-saving AI chip deployment plans",
-    "url": "https://ca.finance.yahoo.com/news/meta-stock-rises-cost-saving-144536465.html",
-    "description": "Meta stock rises on cost-saving AI chip deployment plans",
+    "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+    "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge",
+    "description": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
     "tags": [
       "tldr"
     ],
@@ -250,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "ModelTalk: Pacing the Frontier",
-    "url": "https://www.chinatalk.media/p/modeltalk-pacing-the-frontier",
-    "description": "ModelTalk: Pacing the Frontier",
+    "title": "Helion funding round grows to $500M amid uncertainty over fusion startup’s Microsoft timeline",
+    "url": "https://www.geekwire.com/2026/helion-funding-round-grows-to-500m-amid-uncertainty-over-fusion-startups-microsoft-timeline",
+    "description": "Helion funding round grows to $500M amid uncertainty over fusion startup’s Microsoft timeline",
     "tags": [
       "tldr"
     ],
@@ -260,9 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "New Apple Watch features may require new legal precedent for privacy",
-    "url": "https://9to5mac.com/2026/09/15/new-apple-watch-features-may-require-new-legal-precedent-for-privacy",
-    "description": "New Apple Watch features may require new legal precedent for privacy",
+    "title": "How should we approach the software factory as a product team?",
+    "url": "https://www.robert-glaser.de/approach-the-software-factory-as-a-product-team",
+    "description": "How should we approach the software factory as a product team?",
     "tags": [
       "tldr"
     ],
@@ -270,9 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Noam Brown (@polynoamial) gave a very interesting interview on The Information on OpenAI’s priori...",
-    "url": "https://x.com/kimmonismus/status/2099871107226669391",
-    "description": "Noam Brown (@polynoamial) gave a very interesting interview on The Information on OpenAI’s priori...",
+    "title": "I spent 2015-2023 building self-driving cars. It was so painful. It's now 2026, and we tasked ju...",
+    "url": "https://x.com/olivercameron/status/2099901297940185126",
+    "description": "I spent 2015-2023 building self-driving cars. It was so painful. It's now 2026, and we tasked ju...",
     "tags": [
       "tldr"
     ],
@@ -280,9 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Foundation Gives $125M to Public Data for AI-Driven Health Program",
-    "url": "https://www.insideprecisionmedicine.com/topics/informatics/openai-foundation-gives-125m-to-public-data-for-ai-driven-health-program",
-    "description": "OpenAI Foundation Gives $125M to Public Data for AI-Driven Health Program",
+    "title": "Inside OpenAI’s agentic software factory",
+    "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+    "description": "Inside OpenAI’s agentic software factory",
     "tags": [
       "tldr"
     ],
@@ -290,9 +270,69 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
-    "description": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+    "description": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
+    "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
+    "description": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Kimi K3 Performance Optimizations in vLLM: The Road to 2.8× Throughput",
+    "url": "https://vllm.ai/blog/2026-09-13-kimi-k3-performance-optimization",
+    "description": "Kimi K3 Performance Optimizations in vLLM: The Road to 2.8× Throughput",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "M6 Chip Benchmark Surfaces Ahead of New Mac Mini Launch Next Week",
+    "url": "https://www.macrumors.com/2026/09/15/apple-m6-chip-benchmark",
+    "description": "M6 Chip Benchmark Surfaces Ahead of New Mac Mini Launch Next Week",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta Platforms Makes Big Move to Cut Cost of AI Boom",
+    "url": "https://ca.finance.yahoo.com/news/meta-platforms-makes-big-move-205012317.html",
+    "description": "Meta Platforms Makes Big Move to Cut Cost of AI Boom",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Model Context Protocol overview | API Gateway | Google Cloud Documentation",
+    "url": "https://docs.cloud.google.com/api-gateway/docs/mcp-overview",
+    "description": "Model Context Protocol overview | API Gateway | Google Cloud Documentation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI buys camera startup Glass Imaging for over $300m, WSJ reports",
+    "url": "https://thenextweb.com/news/openai-glass-imaging-acquisition-300m-smartphone-camera",
+    "description": "OpenAI buys camera startup Glass Imaging for over $300m, WSJ reports",
     "tags": [
       "tldr"
     ],
@@ -310,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Our agent used 5B tokens to build a business empire in 3 weeks. It made $1.54.",
-    "url": "https://dfdxlabs.com/research/2026/hans-kraemer",
-    "description": "Our agent used 5B tokens to build a business empire in 3 weeks. It made $1.54.",
+    "title": "Opting Into Training Siri AI and Apple Foundation Models",
+    "url": "https://mjtsai.com/blog/2026/09/15/opting-into-training-siri-ai-and-apple-foundation-models",
+    "description": "Opting Into Training Siri AI and Apple Foundation Models",
     "tags": [
       "tldr"
     ],
@@ -320,9 +360,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "PNAS study finds covert AI advice can shift user preferences",
-    "url": "https://x.com/ValerioCapraro/status/2099853553992945711",
-    "description": "PNAS study finds covert AI advice can shift user preferences",
+    "title": "Ottawa Will Help Pay for Your Private AI Stack · Northwood Systems",
+    "url": "https://northwoodsystems.ai/research/canadian-ai-tax-incentives",
+    "description": "Ottawa Will Help Pay for Your Private AI Stack · Northwood Systems",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Our agent used 5B tokens to build a business empire in 3 weeks. It made $1.54.",
+    "url": "https://dfdxlabs.com/research/2026/hans-kraemer",
+    "description": "Our agent used 5B tokens to build a business empire in 3 weeks. It made $1.54.",
     "tags": [
       "tldr"
     ],
@@ -340,9 +390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Radical Ventures launches Canada’s largest AI fund with $1-billion USD first close",
-    "url": "https://betakit.com/radical-ventures-launches-canadas-largest-ai-fund-with-1-billion-usd-first-close",
-    "description": "Radical Ventures launches Canada’s largest AI fund with $1-billion USD first close",
+    "title": "Plan Advice in PostgreSQL 19",
+    "url": "https://tapoueh.org/blog/2026/09/plan-advice-in-postgresql-19",
+    "description": "Plan Advice in PostgreSQL 19",
     "tags": [
       "tldr"
     ],
@@ -350,9 +400,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Researchers release new manipulation work built from human data",
-    "url": "https://x.com/chelseabfinn/status/2099560893201949051",
-    "description": "Researchers release new manipulation work built from human data",
+    "title": "Python dependencies | pnpm",
+    "url": "https://pnpm.io/python",
+    "description": "Python dependencies | pnpm",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Robots Have No Voice",
+    "url": "https://randsinrepose.com/archives/robots-have-no-voice",
+    "description": "Robots Have No Voice",
     "tags": [
       "tldr"
     ],
@@ -370,9 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Sara Hooker opens an API that generates licensable training datasets from plain descriptions",
-    "url": "https://x.com/sarahookr/status/2099844681530012084",
-    "description": "Sara Hooker opens an API that generates licensable training datasets from plain descriptions",
+    "title": "Single Digit Thousand Dollar AI SDR",
+    "url": "https://tomtunguz.com/single-digit-thousand-dollar-ai-sdr",
+    "description": "Single Digit Thousand Dollar AI SDR",
     "tags": [
       "tldr"
     ],
@@ -380,9 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Shield AI in talks to raise at $20B valuation, up 60% in five months",
-    "url": "https://oodaloop.com/briefs/technology/shield-ai-in-talks-to-raise-at-20b-valuation-up-60-in-five-months",
-    "description": "Shield AI in talks to raise at $20B valuation, up 60% in five months",
+    "title": "Starlink V3 constellation starts being deployed this month. Ultimately, it will deliver more th...",
+    "url": "https://x.com/elonmusk/status/2099933912697127398",
+    "description": "Starlink V3 constellation starts being deployed this month. Ultimately, it will deliver more th...",
     "tags": [
       "tldr"
     ],
@@ -400,49 +460,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The AI Inference Revolution Is Here",
-    "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-    "description": "The AI Inference Revolution Is Here",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The AI Tipping Point",
-    "url": "https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown",
-    "description": "The AI Tipping Point",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The complete guide to Codex",
-    "url": "https://flaviocopes.com/codex",
-    "description": "The complete guide to Codex",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "Trying to understand Freedom",
     "url": "https://mceglowski.substack.com/p/trying-to-understand-freedom",
     "description": "Trying to understand Freedom",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Vegas, Deal Us In! We’re welcoming riders today",
-    "url": "https://waymo.com/blog/2026/09/ride-in-las-vegas",
-    "description": "Vegas, Deal Us In! We’re welcoming riders today",
     "tags": [
       "tldr"
     ],
@@ -460,9 +480,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What Frontier is Amodei Really Pacing?",
-    "url": "https://ahalflife.substack.com/p/whose-frontier-are-we-pacing",
-    "description": "What Frontier is Amodei Really Pacing?",
+    "title": "Why a DeepSeek Engineer Is Helping AI Replace Him",
+    "url": "https://www.geopolitechs.org/p/why-a-deepseek-engineer-is-helping",
+    "description": "Why a DeepSeek Engineer Is Helping AI Replace Him",
     "tags": [
       "tldr"
     ],
@@ -470,29 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What’s New - Xcode - Apple Developer",
-    "url": "https://developer.apple.com/xcode/whats-new",
-    "description": "What’s New - Xcode - Apple Developer",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Why we built Pion | Andon Labs",
-    "url": "https://andonlabs.com/blog/why-we-built-pion",
-    "description": "Why we built Pion | Andon Labs",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Why you should work on AI for AI Research — Richard Socher of Recursive",
-    "url": "https://www.latent.space/p/recursive",
-    "description": "Why you should work on AI for AI Research — Richard Socher of Recursive",
+    "title": "Xcode 27 Is Out: Requirements, Targets, and What Broke",
+    "url": "https://blakecrosley.com/blog/xcode-27-release",
+    "description": "Xcode 27 Is Out: Requirements, Targets, and What Broke",
     "tags": [
       "tldr"
     ],

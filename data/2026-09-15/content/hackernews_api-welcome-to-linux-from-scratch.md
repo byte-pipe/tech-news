@@ -1,0 +1,74 @@
+---
+title: Welcome to Linux From Scratch!
+url: https://www.linuxfromscratch.org/
+site_name: hackernews_api
+content_file: hackernews_api-welcome-to-linux-from-scratch
+fetched_at: '2026-09-15T21:56:15.371783'
+original_url: https://www.linuxfromscratch.org/
+author: sippingabonedry
+date: '2026-09-15'
+description: Linux from Scratch
+tags:
+- hackernews
+- trending
+---
+
+WebLFS
+
+* Patches
+* Hints
+* SLFS
+* GLFS
+* MLFS
+* ALFS
+* BLFS
+* LFS
+
+* Home
+* News
+* Support
+* Advisories
+* General FAQ
+* Mailing Lists
+* Wiki
+* Search
+* Credits
+* Contribute
+* Website Mirrors
+* Site Map
+
+# Welcome to Linux From Scratch!
+
+Linux From Scratch (LFS) is a project that provides you with
+ step-by-step instructions for building your own custom Linux system,
+ entirely from source code.
+
+Currently, the Linux From Scratch organization consists of the following
+ subprojects:
+
+* LFS:: Linux From Scratch is the main book, the
+ base from which all other projects are derived.
+* BLFS:: Beyond Linux From Scratch helps you
+ extend your finished LFS installation into a more customized and usable
+ system.
+* ALFS:: Automated Linux From Scratch provides
+ tools for automating and managing LFS and BLFS builds.
+* MLFS:: Multilib Linux From Scratch is a variant
+ of LFS which sets up an LFS system that is able to build and execute
+ 32-bit binaries.
+* GLFS:: Gaming Linux From Scratch is based on 
+ BLFS and helps you install gaming support software like Steam or Wine
+ on a new LFS or MLFS system.
+* SLFS:: Supplemental Linux From Scratch
+ supplements an LFS installation beyond BLFS.
+* Hints:: The Hints project is a collection of
+ documents that explain how to enhance your LFS system in ways that are
+ not included in the LFS or BLFS books.
+* Patches:: The Patches project serves as a
+ central repository for all patches useful to an LFS user.
+* LFS Editor's Guide:: A document that 
+ describes the LFS development process.
+* Museum:: Copies of ancient LFS and BLFS versions.
+
+© 1998-2026 Gerard Beekmans. Website design by Jeremy Huntwork &
+ Matthew Burgess.
