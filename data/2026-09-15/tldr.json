@@ -1,15 +1,5 @@
 [
   {
-    "title": "\"Do You Still Read the Code?\"",
-    "url": "https://zanlib.dev/blog/do-you-still-read-the-code",
-    "description": "\"Do You Still Read the Code?\"",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
     "title": "A Brain Too Big to Carry — On-Device vs Datacenter Inference",
     "url": "https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device",
     "description": "A Brain Too Big to Carry — On-Device vs Datacenter Inference",
@@ -20,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "A beginning for mathematics",
-    "url": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics",
-    "description": "A beginning for mathematics",
+    "title": "AI Is Making Activity-Based Engineering Metrics Obsolete",
+    "url": "https://bharatsharma.pro/articles/activity-based-engineering-metrics-are-obsolete",
+    "description": "AI Is Making Activity-Based Engineering Metrics Obsolete",
     "tags": [
       "tldr"
     ],
@@ -30,19 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI IPOs and Frontier AI as a Prisoner's Dilemma",
-    "url": "https://paulkedrosky.com/ai-ipos-and-frontier-ai-as-a-prisoners-dilemma",
-    "description": "AI IPOs and Frontier AI as a Prisoner's Dilemma",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI is making the nice version worth building",
-    "url": "https://lord.technology/2026/09/14/ai-is-making-the-nice-version-worth-building.html",
-    "description": "AI is making the nice version worth building",
+    "title": "AWS cannot restore its Bahrain region or one UAE zone six months after the strikes",
+    "url": "https://thenextweb.com/news/aws-bahrain-uae-cloud-zones-cannot-restore-war-damage",
+    "description": "AWS cannot restore its Bahrain region or one UAE zone six months after the strikes",
     "tags": [
       "tldr"
     ],
@@ -60,6 +40,46 @@
     "site_name": "tldr"
   },
   {
+    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
+    "url": "https://danluu.com/ai-coding",
+    "description": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agents have favorite tools",
+    "url": "https://ianbarber.blog/2026/09/14/agents-have-favorite-tools",
+    "description": "Agents have favorite tools",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agility Robotics: Agility Unveils Digit 5 Humanoid Robot Built for Safe Work at Scale",
+    "url": "https://www.agilityrobotics.com/content/agility-unveils-digit-5-humanoid-robot-built-for-cooperatively-safe-work-at-scale",
+    "description": "Agility Robotics: Agility Unveils Digit 5 Humanoid Robot Built for Safe Work at Scale",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "An updated look for the Raspberry Pi Desktop",
+    "url": "https://www.raspberrypi.com/news/an-updated-look-for-the-raspberry-pi-desktop",
+    "description": "An updated look for the Raspberry Pi Desktop",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "Apple files Supreme Court brief challenging contempt ruling in Epic case [U]",
     "url": "https://9to5mac.com/2026/09/14/apple-files-supreme-court-brief-challenging-contempt-ruling-in-epic-case",
     "description": "Apple files Supreme Court brief challenging contempt ruling in Epic case [U]",
@@ -70,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Brain implant lets people with paralysis speak and gesture at the same time",
-    "url": "https://www.newscientist.com/article/2589210-brain-implant-lets-people-with-paralysis-speak-and-gesture-at-the-same-time",
-    "description": "Brain implant lets people with paralysis speak and gesture at the same time",
+    "title": "ByteDance’s First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending",
+    "url": "https://www.theinformation.com/articles/bytedances-first-half-profit-drops-20-billion-weighed-ai-spending",
+    "description": "ByteDance’s First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending",
     "tags": [
       "tldr"
     ],
@@ -80,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Brownfield Agentic Engineering",
-    "url": "https://addyo.substack.com/p/brownfield-agentic-engineering",
-    "description": "Brownfield Agentic Engineering",
+    "title": "ChatGPT desktop app for Linux | ChatGPT Learn",
+    "url": "https://learn.chatgpt.com/docs/linux/linux-app",
+    "description": "ChatGPT desktop app for Linux | ChatGPT Learn",
     "tags": [
       "tldr"
     ],
@@ -100,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Defense Startup Shield AI in Talks for Valuation of at Least $20 Billion",
-    "url": "https://www.theinformation.com/articles/defense-startup-shield-ai-talks-valuation-least-20-billion",
-    "description": "Defense Startup Shield AI in Talks for Valuation of at Least $20 Billion",
+    "title": "Codex on the ChatGPT Free plan: we gave it $0 and the same booking app",
+    "url": "https://okaneland.com/proof/codex-free",
+    "description": "Codex on the ChatGPT Free plan: we gave it $0 and the same booking app",
     "tags": [
       "tldr"
     ],
@@ -110,9 +130,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "Donated livers can be made biologically younger",
-    "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger",
-    "description": "Donated livers can be made biologically younger",
+    "title": "David Baker’s team designs enzymes switched by a separate protein effector",
+    "url": "https://x.com/BiologyAIDaily/status/2099853842905194549",
+    "description": "David Baker’s team designs enzymes switched by a separate protein effector",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Developers Find Ways to Use Claude Code Without Anthropic Models",
+    "url": "https://www.theinformation.com/articles/developers-find-ways-use-claude-code-without-anthropic-models",
+    "description": "Developers Find Ways to Use Claude Code Without Anthropic Models",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
+    "description": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Exclusive: Open Chinese models close gap with Silicon Valley’s frontier AI models",
+    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models",
+    "description": "Exclusive: Open Chinese models close gap with Silicon Valley’s frontier AI models",
     "tags": [
       "tldr"
     ],
@@ -130,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "GitHub - ag-ui-protocol/ag-ui: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-    "url": "https://github.com/ag-ui-protocol/ag-ui",
-    "description": "GitHub - ag-ui-protocol/ag-ui: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "title": "Funded projects | Enduring Atmospheric Platforms",
+    "url": "https://aria.org.uk/opportunity-spaces/adaptive-machines/enduring-atmospheric-platforms/funded-projects",
+    "description": "Funded projects | Enduring Atmospheric Platforms",
     "tags": [
       "tldr"
     ],
@@ -140,9 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "GitHub - google/artemis: ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark. Created by Google's Pixel-Test-Engineering (PTE) Fusion team.",
-    "url": "https://github.com/google/artemis",
-    "description": "GitHub - google/artemis: ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark. Created by Google's Pixel-Test-Engineering (PTE) Fusion team.",
+    "title": "GM gives its most important trucks a new UI—and includes CarPlay",
+    "url": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay",
+    "description": "GM gives its most important trucks a new UI—and includes CarPlay",
     "tags": [
       "tldr"
     ],
@@ -150,9 +200,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "GitHub - huggingface/tau: A Python port of Pi’s minimalist coding agent.",
-    "url": "https://github.com/huggingface/tau",
-    "description": "GitHub - huggingface/tau: A Python port of Pi’s minimalist coding agent.",
+    "title": "GitHub - enactic/openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
+    "url": "https://github.com/enactic/OpenArm",
+    "description": "GitHub - enactic/openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
     "tags": [
       "tldr"
     ],
@@ -160,9 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Googlebook pre-orders finally have a date: Here's when you can buy one",
-    "url": "https://www.androidcentral.com/chromebooks-laptops/googlebook-pre-orders-begin-sept-21",
-    "description": "Googlebook pre-orders finally have a date: Here's when you can buy one",
+    "title": "Give every teammate and agent the right level of access to your Workers | Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/workers-granular-authorization",
+    "description": "Give every teammate and agent the right level of access to your Workers | Cloudflare Blog",
     "tags": [
       "tldr"
     ],
@@ -170,9 +220,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "If AI writes all the code, what’s left for engineers?",
-    "url": "https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left",
-    "description": "If AI writes all the code, what’s left for engineers?",
+    "title": "Grab Enters BNPL Space With $1.4 Billion Atome Acquisition",
+    "url": "https://www.pymnts.com/bnpl/2026/grab-enters-bnpl-space-with-1-4-billion-atome-acquisition",
+    "description": "Grab Enters BNPL Space With $1.4 Billion Atome Acquisition",
     "tags": [
       "tldr"
     ],
@@ -180,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Internet Shocked: Unsolved Problem by Fields Medalist Breached by Two High School Students with AI | HTX Insights",
-    "url": "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j",
-    "description": "Internet Shocked: Unsolved Problem by Fields Medalist Breached by Two High School Students with AI | HTX Insights",
+    "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers",
+    "description": "Have it both ways: stay discoverable in search while disallowing AI training",
     "tags": [
       "tldr"
     ],
@@ -190,9 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Interpreting Pangram",
-    "url": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram",
-    "description": "Interpreting Pangram",
+    "title": "Meta stock rises on cost-saving AI chip deployment plans",
+    "url": "https://ca.finance.yahoo.com/news/meta-stock-rises-cost-saving-144536465.html",
+    "description": "Meta stock rises on cost-saving AI chip deployment plans",
     "tags": [
       "tldr"
     ],
@@ -200,9 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Agentic Batch Changes: the frontier agent for code change at scale",
-    "url": "https://sourcegraph.com/blog/introducing-agentic-batch-changes",
-    "description": "Introducing Agentic Batch Changes: the frontier agent for code change at scale",
+    "title": "ModelTalk: Pacing the Frontier",
+    "url": "https://www.chinatalk.media/p/modeltalk-pacing-the-frontier",
+    "description": "ModelTalk: Pacing the Frontier",
     "tags": [
       "tldr"
     ],
@@ -210,9 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Loops for product management – Changelog",
-    "url": "https://linear.app/changelog/2026-09-14-loops-for-product-management",
-    "description": "Loops for product management – Changelog",
+    "title": "New Apple Watch features may require new legal precedent for privacy",
+    "url": "https://9to5mac.com/2026/09/15/new-apple-watch-features-may-require-new-legal-precedent-for-privacy",
+    "description": "New Apple Watch features may require new legal precedent for privacy",
     "tags": [
       "tldr"
     ],
@@ -220,9 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Many people I talk to find it hard to understand how the same companies can both push the frontie...",
-    "url": "https://x.com/thom_wolf/status/2099520857181737366",
-    "description": "Many people I talk to find it hard to understand how the same companies can both push the frontie...",
+    "title": "Noam Brown (@polynoamial) gave a very interesting interview on The Information on OpenAI’s priori...",
+    "url": "https://x.com/kimmonismus/status/2099871107226669391",
+    "description": "Noam Brown (@polynoamial) gave a very interesting interview on The Information on OpenAI’s priori...",
     "tags": [
       "tldr"
     ],
@@ -230,29 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "New York Seizes 12 Celebrity Deepfake Websites",
-    "url": "https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites",
-    "description": "New York Seizes 12 Celebrity Deepfake Websites",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Nvidia, Palantir, and others restrict advanced AI model usage over privacy concerns, report claims — 'paranoia' rising over customer intellectual property | Tom's Hardware",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-palantir-and-others-restrict-advanced-ai-model-usage-over-privacy-concerns-report-claims-paranoia-rising-over-customer-intellectual-property",
-    "description": "Nvidia, Palantir, and others restrict advanced AI model usage over privacy concerns, report claims — 'paranoia' rising over customer intellectual property | Tom's Hardware",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Op-Ed: I Worked at Google DeepMind. You Should Listen to the Warnings About AI",
-    "url": "https://www.lesswrong.com/posts/YGTWfyZb9oE5EQPu6/op-ed-i-worked-at-google-deepmind-you-should-listen-to-the",
-    "description": "Op-Ed: I Worked at Google DeepMind. You Should Listen to the Warnings About AI",
+    "title": "OpenAI Foundation Gives $125M to Public Data for AI-Driven Health Program",
+    "url": "https://www.insideprecisionmedicine.com/topics/informatics/openai-foundation-gives-125m-to-public-data-for-ai-driven-health-program",
+    "description": "OpenAI Foundation Gives $125M to Public Data for AI-Driven Health Program",
     "tags": [
       "tldr"
     ],
@@ -270,9 +300,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-    "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai",
-    "description": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "title": "Opening our doors to Tokyo riders in 2027 with Nihon Kotsu and GO",
+    "url": "https://waymo.com/blog/2026/09/opening-tokyo-in-2027-with-nihon-kotsu-go",
+    "description": "Opening our doors to Tokyo riders in 2027 with Nihon Kotsu and GO",
     "tags": [
       "tldr"
     ],
@@ -280,9 +310,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown",
-    "url": "https://www.theinformation.com/articles/openais-top-priority-ai-agents-automating-ai-research-says-noam-brown",
-    "description": "OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown",
+    "title": "Our agent used 5B tokens to build a business empire in 3 weeks. It made $1.54.",
+    "url": "https://dfdxlabs.com/research/2026/hans-kraemer",
+    "description": "Our agent used 5B tokens to build a business empire in 3 weeks. It made $1.54.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "PNAS study finds covert AI advice can shift user preferences",
+    "url": "https://x.com/ValerioCapraro/status/2099853553992945711",
+    "description": "PNAS study finds covert AI advice can shift user preferences",
     "tags": [
       "tldr"
     ],
@@ -300,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-    "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
-    "description": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+    "title": "Radical Ventures launches Canada’s largest AI fund with $1-billion USD first close",
+    "url": "https://betakit.com/radical-ventures-launches-canadas-largest-ai-fund-with-1-billion-usd-first-close",
+    "description": "Radical Ventures launches Canada’s largest AI fund with $1-billion USD first close",
     "tags": [
       "tldr"
     ],
@@ -310,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Prompts aren’t Real",
-    "url": "https://evaluation.club",
-    "description": "Prompts aren’t Real",
+    "title": "Researchers release new manipulation work built from human data",
+    "url": "https://x.com/chelseabfinn/status/2099560893201949051",
+    "description": "Researchers release new manipulation work built from human data",
     "tags": [
       "tldr"
     ],
@@ -320,9 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Review of Valve's Steam Frame: comfortable to wear, supports multiple ways to play games, but it doesn't feel like a finished product and has short battery life",
-    "url": "https://www.theverge.com/tech/994267/steam-frame-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjVxUTRYR3pEbkMiLCJwIjoiL3RlY2gvOTk0MjY3L3N0ZWFtLWZyYW1lLXJldmlldyIsImV4cCI6MTc4OTgzNzg0NywiaWF0IjoxNzg5NDA1ODQ4fQ.AvNzVQPpuoQDf5HH3Y2PRC8AD6H66aZ7Pnu26NWxfr0",
-    "description": "Review of Valve's Steam Frame: comfortable to wear, supports multiple ways to play games, but it doesn't feel like a finished product and has short battery life",
+    "title": "Salesforce wants enterprises to ‘break free of a shared user interface’ with AIforce",
+    "url": "https://www.itpro.com/technology/artificial-intelligence/salesforce-wants-enterprises-to-break-free-of-a-shared-user-interface-with-aiforce",
+    "description": "Salesforce wants enterprises to ‘break free of a shared user interface’ with AIforce",
     "tags": [
       "tldr"
     ],
@@ -330,9 +370,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Robinhood Says Shares And Votes Are Coming For Stock Tokens",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-says-shares-and-votes-are-coming-for-stock-tokens",
-    "description": "Robinhood Says Shares And Votes Are Coming For Stock Tokens",
+    "title": "Sara Hooker opens an API that generates licensable training datasets from plain descriptions",
+    "url": "https://x.com/sarahookr/status/2099844681530012084",
+    "description": "Sara Hooker opens an API that generates licensable training datasets from plain descriptions",
     "tags": [
       "tldr"
     ],
@@ -340,9 +380,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Russian freelancers use Claude to program autonomous combat drone swarm — AI-enabled target selection and detonation without a human in the loop",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/russian-freelancers-use-claude-to-program-autonomous-combat-drone-swarm-ai-enabled-target-selection-and-detonation-without-a-human-in-the-loop",
-    "description": "Russian freelancers use Claude to program autonomous combat drone swarm — AI-enabled target selection and detonation without a human in the loop",
+    "title": "Shield AI in talks to raise at $20B valuation, up 60% in five months",
+    "url": "https://oodaloop.com/briefs/technology/shield-ai-in-talks-to-raise-at-20b-valuation-up-60-in-five-months",
+    "description": "Shield AI in talks to raise at $20B valuation, up 60% in five months",
     "tags": [
       "tldr"
     ],
@@ -350,9 +390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push",
-    "url": "https://uk.finance.yahoo.com/news/softbank-gets-upsized-11-9-014242702.html",
-    "description": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push",
+    "title": "Tell agents the why, not just the how",
+    "url": "https://seangoedecke.com/tell-agents-the-why",
+    "description": "Tell agents the why, not just the how",
     "tags": [
       "tldr"
     ],
@@ -360,9 +400,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Superhuman Acquires Fathom, AI Notetaker",
-    "url": "https://blog.superhuman.com/superhuman-acquires-fathom",
-    "description": "Superhuman Acquires Fathom, AI Notetaker",
+    "title": "The AI Inference Revolution Is Here",
+    "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+    "description": "The AI Inference Revolution Is Here",
     "tags": [
       "tldr"
     ],
@@ -370,9 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Temporal raises $550M at a $12.55B valuation as demand grows for reliable AI infrastructure",
-    "url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
-    "description": "Temporal raises $550M at a $12.55B valuation as demand grows for reliable AI infrastructure",
+    "title": "The AI Tipping Point",
+    "url": "https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown",
+    "description": "The AI Tipping Point",
     "tags": [
       "tldr"
     ],
@@ -380,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The AI-as-Normal-Technology view of loss-of-control incidents",
-    "url": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
-    "description": "The AI-as-Normal-Technology view of loss-of-control incidents",
+    "title": "The complete guide to Codex",
+    "url": "https://flaviocopes.com/codex",
+    "description": "The complete guide to Codex",
     "tags": [
       "tldr"
     ],
@@ -390,39 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Expanding Potential of Neuromodulation | Contrary Research",
-    "url": "https://research.contrary.com/deep-dive/the-expanding-potential-of-neuromodulation",
-    "description": "The Expanding Potential of Neuromodulation | Contrary Research",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The multi-AI model stack is here. Now someone has to manage it",
-    "url": "https://www.informationweek.com/machine-learning-ai/the-multi-ai-model-stack-is-here-now-someone-has-to-manage-it",
-    "description": "The multi-AI model stack is here. Now someone has to manage it",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The world deserves confidence that American companies developing increasingly capable AI will act...",
-    "url": "https://x.com/sama/status/2099348812305473766",
-    "description": "The world deserves confidence that American companies developing increasingly capable AI will act...",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "US coal ‘biggest contributor by far’ to rise in global emissions - News - The Chemical Engineer",
-    "url": "https://www.thechemicalengineer.com/news/us-coal-biggest-contributor-by-far-to-rise-in-global-emissions",
-    "description": "US coal ‘biggest contributor by far’ to rise in global emissions - News - The Chemical Engineer",
+    "title": "Trying to understand Freedom",
+    "url": "https://mceglowski.substack.com/p/trying-to-understand-freedom",
+    "description": "Trying to understand Freedom",
     "tags": [
       "tldr"
     ],
@@ -440,9 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "We All Wanted to Be Netflix, who do we want to be next?",
-    "url": "https://www.architecture-weekly.com/p/we-all-wanted-to-be-netflix-who-do",
-    "description": "We All Wanted to Be Netflix, who do we want to be next?",
+    "title": "Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar",
+    "url": "https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference",
+    "description": "Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar",
     "tags": [
       "tldr"
     ],
@@ -450,9 +460,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What Does Pacing Mean?",
-    "url": "https://tomtunguz.com/what-does-the-pause-mean",
-    "description": "What Does Pacing Mean?",
+    "title": "What Frontier is Amodei Really Pacing?",
+    "url": "https://ahalflife.substack.com/p/whose-frontier-are-we-pacing",
+    "description": "What Frontier is Amodei Really Pacing?",
     "tags": [
       "tldr"
     ],
@@ -490,19 +500,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "macOS 27: The MacStories Review",
-    "url": "https://www.macstories.net/stories/macos-27-the-macstories-review",
-    "description": "macOS 27: The MacStories Review",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "“Deep theorems were scarce and difficult and so became an effective mechanism to identify deep thought. AI has broken this system.”",
-    "url": "https://terrytao.wordpress.com/2026/09/13/deep-theorems-were-scarce-and-difficult-and-so-became-an-effective-mechanism-to-identify-deep-thought-ai-has-broken-this-system",
-    "description": "“Deep theorems were scarce and difficult and so became an effective mechanism to identify deep thought. AI has broken this system.”",
+    "title": "iCloud+ Now Includes Apple TV, Apple Arcade, and Curated Apple Music Stations in Over 100 Countries",
+    "url": "https://www.macrumors.com/2026/09/15/icloud-plus-includes-apple-tv-arcade-100-countries",
+    "description": "iCloud+ Now Includes Apple TV, Apple Arcade, and Curated Apple Music Stations in Over 100 Countries",
     "tags": [
       "tldr"
     ],

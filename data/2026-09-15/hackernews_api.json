@@ -1,130 +1,164 @@
 [
   {
-    "title": "A 386 PC for Your RP2350",
-    "url": "https://github.com/rh1tech/frank-386",
-    "author": "SamuraiLion",
-    "date": "2026-09-14",
-    "score": 196,
-    "comments": 71,
-    "id": 49693613,
-    "discussion_url": "https://news.ycombinator.com/item?id=49693613",
-    "description": "A 386 PC for Your RP2350",
+    "title": "25 Years of Mass Surveillance Is Enough",
+    "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+    "author": "iamnothere",
+    "date": "2026-09-15",
+    "score": 370,
+    "comments": 97,
+    "id": 49710883,
+    "discussion_url": "https://news.ycombinator.com/item?id=49710883",
+    "description": "25 Years of Mass Surveillance Is Enough",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722243"
+    "fetched_at": "2026-09-15T15:27:43.478216"
   },
   {
-    "title": "A Beginning for Mathematics",
+    "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+    "url": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+    "author": "mdp2021",
+    "date": "2026-09-15",
+    "score": 86,
+    "comments": 6,
+    "id": 49711309,
+    "discussion_url": "https://news.ycombinator.com/item?id=49711309",
+    "description": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478271"
+  },
+  {
+    "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+    "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+    "author": "arunbahl",
+    "date": "2026-09-12",
+    "score": 187,
+    "comments": 57,
+    "id": 49675817,
+    "discussion_url": "https://news.ycombinator.com/item?id=49675817",
+    "description": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478275"
+  },
+  {
+    "title": "A beginning for mathematics",
     "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
     "author": "robinhouston",
-    "date": "2026-09-15",
-    "score": 134,
-    "comments": 64,
+    "date": "2026-09-14",
+    "score": 260,
+    "comments": 140,
     "id": 49698699,
     "discussion_url": "https://news.ycombinator.com/item?id=49698699",
-    "description": "A Beginning for Mathematics",
+    "description": "A beginning for mathematics",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722280"
+    "fetched_at": "2026-09-15T15:27:43.478299"
   },
   {
-    "title": "An atlas of periodic solutions to the three-body problem",
-    "url": "https://www.threebodyorbits.com/",
-    "author": "danielmorozoff",
+    "title": "Alternatives to MinIO for single-node local S3",
+    "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+    "author": "rmoff",
+    "date": "2026-09-15",
+    "score": 148,
+    "comments": 71,
+    "id": 49709381,
+    "discussion_url": "https://news.ycombinator.com/item?id=49709381",
+    "description": "Alternatives to MinIO for single-node local S3",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478226"
+  },
+  {
+    "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+    "url": "https://pub.sakana.ai/pc-alm/",
+    "author": "guld",
+    "date": "2026-09-14",
+    "score": 112,
+    "comments": 39,
+    "id": 49701182,
+    "discussion_url": "https://news.ycombinator.com/item?id=49701182",
+    "description": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478376"
+  },
+  {
+    "title": "CSS-Tricks in Limbo",
+    "url": "https://vale.rocks/micros/20260915-0135",
+    "author": "edent",
+    "date": "2026-09-15",
+    "score": 169,
+    "comments": 69,
+    "id": 49708993,
+    "discussion_url": "https://news.ycombinator.com/item?id=49708993",
+    "description": "CSS-Tricks in Limbo",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478212"
+  },
+  {
+    "title": "Charts built for Chat",
+    "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+    "author": "thingsilearned",
+    "date": "2026-09-14",
+    "score": 279,
+    "comments": 80,
+    "id": 49704246,
+    "discussion_url": "https://news.ycombinator.com/item?id=49704246",
+    "description": "Charts built for Chat",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478288"
+  },
+  {
+    "title": "Compressing a flag to 11 bits",
+    "url": "https://read.vantezzen.io/miniflags",
+    "author": "bennett_dev",
     "date": "2026-09-12",
-    "score": 311,
-    "comments": 70,
-    "id": 49670852,
-    "discussion_url": "https://news.ycombinator.com/item?id=49670852",
-    "description": "An atlas of periodic solutions to the three-body problem",
+    "score": 176,
+    "comments": 66,
+    "id": 49673689,
+    "discussion_url": "https://news.ycombinator.com/item?id=49673689",
+    "description": "Compressing a flag to 11 bits",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722684"
-  },
-  {
-    "title": "Apple's Dimensional Drawings",
-    "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-    "author": "herbertl",
-    "date": "2026-09-14",
-    "score": 369,
-    "comments": 123,
-    "id": 49690174,
-    "discussion_url": "https://news.ycombinator.com/item?id=49690174",
-    "description": "Apple's Dimensional Drawings",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722443"
-  },
-  {
-    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-    "author": "tosh",
-    "date": "2026-09-14",
-    "score": 214,
-    "comments": 151,
-    "id": 49695409,
-    "discussion_url": "https://news.ycombinator.com/item?id=49695409",
-    "description": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.723056"
-  },
-  {
-    "title": "Claude is a Contrarian",
-    "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-    "author": "rdsubhas",
-    "date": "2026-09-15",
-    "score": 100,
-    "comments": 129,
-    "id": 49699373,
-    "discussion_url": "https://news.ycombinator.com/item?id=49699373",
-    "description": "Claude is a Contrarian",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722667"
-  },
-  {
-    "title": "Cops Search Flock Cameras for Reasons of 'LMAO,' 'IDK,' and 'Asdfg'",
-    "url": "https://www.404media.co/cops-search-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg/",
-    "author": "cdrnsf",
-    "date": "2026-09-15",
-    "score": 88,
-    "comments": 12,
-    "id": 49699493,
-    "discussion_url": "https://news.ycombinator.com/item?id=49699493",
-    "description": "Cops Search Flock Cameras for Reasons of 'LMAO,' 'IDK,' and 'Asdfg'",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.723025"
+    "fetched_at": "2026-09-15T15:27:43.478332"
   },
   {
     "title": "Dario, Please",
     "url": "https://pop.rdi.sh/dario-please/",
     "author": "0x5FC3",
-    "date": "2026-09-15",
-    "score": 84,
-    "comments": 30,
+    "date": "2026-09-14",
+    "score": 587,
+    "comments": 271,
     "id": 49697893,
     "discussion_url": "https://news.ycombinator.com/item?id=49697893",
     "description": "Dario, Please",
@@ -133,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722614"
+    "fetched_at": "2026-09-15T15:27:43.478379"
   },
   {
     "title": "Distributed Systems Classics (2017)",
     "url": "https://nvartolomei.com/dist-sys-classics/",
     "author": "grep_it",
-    "date": "2026-09-15",
-    "score": 186,
-    "comments": 37,
+    "date": "2026-09-14",
+    "score": 332,
+    "comments": 70,
     "id": 49699158,
     "discussion_url": "https://news.ycombinator.com/item?id=49699158",
     "description": "Distributed Systems Classics (2017)",
@@ -150,49 +184,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722050"
+    "fetched_at": "2026-09-15T15:27:43.478324"
   },
   {
-    "title": "EuroBirdPortal – Live bird movements across Europe",
-    "url": "https://www.eurobirdportal.org/ebp/en/",
-    "author": "NKosmatos",
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "author": "nathannaveen",
     "date": "2026-09-14",
-    "score": 207,
-    "comments": 62,
-    "id": 49693610,
-    "discussion_url": "https://news.ycombinator.com/item?id=49693610",
-    "description": "EuroBirdPortal – Live bird movements across Europe",
+    "score": 146,
+    "comments": 29,
+    "id": 49697477,
+    "discussion_url": "https://news.ycombinator.com/item?id=49697477",
+    "description": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722188"
+    "fetched_at": "2026-09-15T15:27:43.478328"
   },
   {
-    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "author": "u1hcw9nx",
-    "date": "2026-09-14",
-    "score": 1164,
-    "comments": 538,
-    "id": 49688695,
-    "discussion_url": "https://news.ycombinator.com/item?id=49688695",
-    "description": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "title": "Forgotten Woodlands",
+    "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+    "author": "NaOH",
+    "date": "2026-09-11",
+    "score": 83,
+    "comments": 27,
+    "id": 49665549,
+    "discussion_url": "https://news.ycombinator.com/item?id=49665549",
+    "description": "Forgotten Woodlands",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722648"
+    "fetched_at": "2026-09-15T15:27:43.478306"
   },
   {
     "title": "How my e-reader lost its stripes",
     "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
     "author": "simonmic",
-    "date": "2026-09-15",
-    "score": 95,
-    "comments": 11,
+    "date": "2026-09-14",
+    "score": 216,
+    "comments": 40,
     "id": 49699489,
     "discussion_url": "https://news.ycombinator.com/item?id=49699489",
     "description": "How my e-reader lost its stripes",
@@ -201,117 +235,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722410"
+    "fetched_at": "2026-09-15T15:27:43.478392"
   },
   {
-    "title": "How to write an effective software design document",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "author": "fagnerbrack",
-    "date": "2026-09-14",
-    "score": 283,
-    "comments": 123,
-    "id": 49696125,
-    "discussion_url": "https://news.ycombinator.com/item?id=49696125",
-    "description": "How to write an effective software design document",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722751"
-  },
-  {
-    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
-    "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-    "author": "Alephinitesimal",
+    "title": "I can't stop thinking about Papua New Guinea",
+    "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+    "author": "networked",
     "date": "2026-09-15",
-    "score": 155,
-    "comments": 74,
-    "id": 49699297,
-    "discussion_url": "https://news.ycombinator.com/item?id=49699297",
-    "description": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+    "score": 633,
+    "comments": 270,
+    "id": 49708431,
+    "discussion_url": "https://news.ycombinator.com/item?id=49708431",
+    "description": "I can't stop thinking about Papua New Guinea",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722565"
+    "fetched_at": "2026-09-15T15:27:43.478171"
   },
   {
-    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-    "author": "0o_MrPatrick_o0",
-    "date": "2026-09-14",
-    "score": 104,
-    "comments": 48,
-    "id": 49697014,
-    "discussion_url": "https://news.ycombinator.com/item?id=49697014",
-    "description": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722582"
-  },
-  {
-    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "author": "gregnavis",
-    "date": "2026-09-14",
-    "score": 304,
-    "comments": 269,
-    "id": 49695876,
-    "discussion_url": "https://news.ycombinator.com/item?id=49695876",
-    "description": "OpenAI bots knew about the RubyGems caching vulnerability",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722318"
-  },
-  {
-    "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-    "url": "https://github.com/anuj0456/OpenArch",
-    "author": "anuj0456",
-    "date": "2026-09-14",
-    "score": 127,
-    "comments": 30,
-    "id": 49693384,
-    "discussion_url": "https://news.ycombinator.com/item?id=49693384",
-    "description": "OpenArch – PyTorch implementations of modern LLM architectures",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722899"
-  },
-  {
-    "title": "Oracle's cold 6am layoff emails hit staff amid new wave of cuts",
-    "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
-    "author": "akis33",
+    "title": "Java 27 Released",
+    "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+    "author": "mkurz",
     "date": "2026-09-15",
-    "score": 104,
-    "comments": 69,
-    "id": 49702239,
-    "discussion_url": "https://news.ycombinator.com/item?id=49702239",
-    "description": "Oracle's cold 6am layoff emails hit staff amid new wave of cuts",
+    "score": 181,
+    "comments": 129,
+    "id": 49712041,
+    "discussion_url": "https://news.ycombinator.com/item?id=49712041",
+    "description": "Java 27 Released",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722393"
+    "fetched_at": "2026-09-15T15:27:43.478175"
+  },
+  {
+    "title": "Linux from Scratch",
+    "url": "https://www.linuxfromscratch.org/",
+    "author": "sippingabonedry",
+    "date": "2026-09-15",
+    "score": 306,
+    "comments": 94,
+    "id": 49707627,
+    "discussion_url": "https://news.ycombinator.com/item?id=49707627",
+    "description": "Linux from Scratch",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478279"
+  },
+  {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "author": "myth_drannon",
+    "date": "2026-09-15",
+    "score": 89,
+    "comments": 58,
+    "id": 49711240,
+    "discussion_url": "https://news.ycombinator.com/item?id=49711240",
+    "description": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478230"
+  },
+  {
+    "title": "OpenArm: An open-source 7DOF humanoid arm",
+    "url": "https://github.com/enactic/OpenArm",
+    "author": "Lwrless",
+    "date": "2026-09-13",
+    "score": 174,
+    "comments": 36,
+    "id": 49684289,
+    "discussion_url": "https://news.ycombinator.com/item?id=49684289",
+    "description": "OpenArm: An open-source 7DOF humanoid arm",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478208"
+  },
+  {
+    "title": "People who can't picture anything are rewriting the science of imagination",
+    "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+    "author": "giuliomagnifico",
+    "date": "2026-09-14",
+    "score": 197,
+    "comments": 277,
+    "id": 49696453,
+    "discussion_url": "https://news.ycombinator.com/item?id=49696453",
+    "description": "People who can't picture anything are rewriting the science of imagination",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478340"
   },
   {
     "title": "Pion, an agent designed to run any company autonomously",
     "url": "https://andonlabs.com/blog/why-we-built-pion",
     "author": "lukaspetersson",
-    "date": "2026-09-15",
-    "score": 206,
-    "comments": 223,
+    "date": "2026-09-14",
+    "score": 457,
+    "comments": 554,
     "id": 49700477,
     "discussion_url": "https://news.ycombinator.com/item?id=49700477",
     "description": "Pion, an agent designed to run any company autonomously",
@@ -320,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722510"
+    "fetched_at": "2026-09-15T15:27:43.478257"
   },
   {
     "title": "Principles for Fast Tokio Applications",
     "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
     "author": "carllerche",
-    "date": "2026-09-15",
-    "score": 137,
-    "comments": 25,
+    "date": "2026-09-14",
+    "score": 235,
+    "comments": 60,
     "id": 49698607,
     "discussion_url": "https://news.ycombinator.com/item?id=49698607",
     "description": "Principles for Fast Tokio Applications",
@@ -337,83 +371,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722334"
+    "fetched_at": "2026-09-15T15:27:43.478351"
   },
   {
-    "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-    "url": "https://github.com/callbacked/kinesis",
-    "author": "callbacked",
-    "date": "2026-09-14",
-    "score": 106,
-    "comments": 32,
-    "id": 49695408,
-    "discussion_url": "https://news.ycombinator.com/item?id=49695408",
-    "description": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722734"
-  },
-  {
-    "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-    "url": "https://www.neobrutalism.dev/",
-    "author": "samke-",
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "url": "https://github.com/arnegiacomo/fugleramme",
+    "author": "arnemunthekaas",
     "date": "2026-09-15",
-    "score": 111,
-    "comments": 50,
-    "id": 49699159,
-    "discussion_url": "https://news.ycombinator.com/item?id=49699159",
-    "description": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+    "score": 414,
+    "comments": 72,
+    "id": 49711544,
+    "discussion_url": "https://news.ycombinator.com/item?id=49711544",
+    "description": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722493"
+    "fetched_at": "2026-09-15T15:27:43.478153"
   },
   {
-    "title": "Show HN: Pelican-bicycle alternatives",
-    "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-    "author": "tkgally",
-    "date": "2026-09-14",
-    "score": 97,
-    "comments": 39,
-    "id": 49696402,
-    "discussion_url": "https://news.ycombinator.com/item?id=49696402",
-    "description": "Show HN: Pelican-bicycle alternatives",
+    "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+    "url": "https://poltora.dev/redis",
+    "author": "poltora",
+    "date": "2026-09-12",
+    "score": 145,
+    "comments": 23,
+    "id": 49676425,
+    "discussion_url": "https://news.ycombinator.com/item?id=49676425",
+    "description": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722208"
-  },
-  {
-    "title": "Spaceships (Reverse Asteroid)",
-    "url": "https://spaceships.treybastian.com/",
-    "author": "zdw",
-    "date": "2026-09-10",
-    "score": 356,
-    "comments": 69,
-    "id": 49638510,
-    "discussion_url": "https://news.ycombinator.com/item?id=49638510",
-    "description": "Spaceships (Reverse Asteroid)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722529"
+    "fetched_at": "2026-09-15T15:27:43.478295"
   },
   {
     "title": "Steam Frame starts at $1059",
     "url": "https://store.steampowered.com/hardware/steamframe",
     "author": "bsimpson",
-    "date": "2026-09-15",
-    "score": 400,
-    "comments": 270,
+    "date": "2026-09-14",
+    "score": 709,
+    "comments": 585,
     "id": 49700661,
     "discussion_url": "https://news.ycombinator.com/item?id=49700661",
     "description": "Steam Frame starts at $1059",
@@ -422,66 +422,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722113"
+    "fetched_at": "2026-09-15T15:27:43.478388"
   },
   {
-    "title": "Texas judge rules TikTok misled users on child safety feature",
-    "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
-    "author": "1vuio0pswjnm7",
-    "date": "2026-09-14",
-    "score": 143,
-    "comments": 71,
-    "id": 49695829,
-    "discussion_url": "https://news.ycombinator.com/item?id=49695829",
-    "description": "Texas judge rules TikTok misled users on child safety feature",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722993"
-  },
-  {
-    "title": "The case against JPEG XL",
-    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-    "author": "contact9879",
-    "date": "2026-09-14",
-    "score": 254,
-    "comments": 333,
-    "id": 49690554,
-    "discussion_url": "https://news.ycombinator.com/item?id=49690554",
-    "description": "The case against JPEG XL",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722833"
-  },
-  {
-    "title": "Why don't machine learning research agents overfit?",
-    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-    "author": "Betelbuddy",
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "author": "choult",
     "date": "2026-09-15",
-    "score": 86,
-    "comments": 49,
-    "id": 49699648,
-    "discussion_url": "https://news.ycombinator.com/item?id=49699648",
-    "description": "Why don't machine learning research agents overfit?",
+    "score": 320,
+    "comments": 297,
+    "id": 49710253,
+    "discussion_url": "https://news.ycombinator.com/item?id=49710253",
+    "description": "Suspected sabotage causes major Netherlands rail disruption",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722546"
+    "fetched_at": "2026-09-15T15:27:43.478234"
+  },
+  {
+    "title": "US confirms for first time it has deployed space weapons",
+    "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+    "author": "harporoeder",
+    "date": "2026-09-15",
+    "score": 227,
+    "comments": 143,
+    "id": 49707473,
+    "discussion_url": "https://news.ycombinator.com/item?id=49707473",
+    "description": "US confirms for first time it has deployed space weapons",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478246"
+  },
+  {
+    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "author": "theanonymousone",
+    "date": "2026-09-14",
+    "score": 250,
+    "comments": 279,
+    "id": 49696697,
+    "discussion_url": "https://news.ycombinator.com/item?id=49696697",
+    "description": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-15T15:27:43.478313"
   },
   {
     "title": "XCancel service is suspended until further notice",
     "url": "https://xcancel.com/#",
     "author": "gaganyaan",
     "date": "2026-09-14",
-    "score": 345,
-    "comments": 637,
+    "score": 728,
+    "comments": 984,
     "id": 49694296,
     "discussion_url": "https://news.ycombinator.com/item?id=49694296",
     "description": "XCancel service is suspended until further notice",
@@ -490,15 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722476"
+    "fetched_at": "2026-09-15T15:27:43.478395"
   },
   {
     "title": "iOS 27, iPadOS 27, and macOS 27",
     "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
     "author": "throw0101d",
-    "date": "2026-09-15",
-    "score": 269,
-    "comments": 270,
+    "date": "2026-09-14",
+    "score": 688,
+    "comments": 791,
     "id": 49701004,
     "discussion_url": "https://news.ycombinator.com/item?id=49701004",
     "description": "iOS 27, iPadOS 27, and macOS 27",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-15T07:38:02.722134"
+    "fetched_at": "2026-09-15T15:27:43.478348"
   }
 ]
