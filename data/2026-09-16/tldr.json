@@ -1,0 +1,512 @@
+[
+  {
+    "title": "AI Is Making Product Development Faster. But Where Did the Work Go?",
+    "url": "https://rogerwong.me/2026/09/production-useful-not-production-ready",
+    "description": "AI Is Making Product Development Faster. But Where Did the Work Go?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI doom, a guide for the perplexed",
+    "url": "https://philosophybear.substack.com/p/ai-doom-a-guide-for-the-perplexed",
+    "description": "AI doom, a guide for the perplexed",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI energy usage – is the industry scaling up when it should be scaling down?",
+    "url": "https://diginomica.com/ai-energy-usage-industry-scaling-when-it-should-be-scaling-down",
+    "description": "AI energy usage – is the industry scaling up when it should be scaling down?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AWS says it can't restore service to Bahrain, UAE facilities 6 months after Iran strikes",
+    "url": "https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html",
+    "description": "AWS says it can't restore service to Bahrain, UAE facilities 6 months after Iran strikes",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
+    "url": "https://danluu.com/ai-coding",
+    "description": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+    "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers",
+    "description": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Aider vs Claude Code in 2026: Which Should You Use?",
+    "url": "https://munderdiffl.in/blog/aider-vs-claude-code",
+    "description": "Aider vs Claude Code in 2026: Which Should You Use?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Bringing Salesforce into Claude",
+    "url": "https://claude.com/blog/salesforce-in-claude",
+    "description": "Bringing Salesforce into Claude",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+    "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
+    "description": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Comment on Intel apps and macOS Golden Gate by isotopp",
+    "url": "https://derflounder.wordpress.com/2026/09/15/intel-apps-and-macos-golden-gate#comment-72940",
+    "description": "Comment on Intel apps and macOS Golden Gate by isotopp",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "DOJ Says Two Robinhood Engineers Used Perpetual Futures to Trade Ahead of Its Crypto Listings",
+    "url": "https://unchainedcrypto.com/doj-says-two-robinhood-engineers-used-perpetual-futures-to-trade-ahead-of-its-crypto-listings",
+    "description": "DOJ Says Two Robinhood Engineers Used Perpetual Futures to Trade Ahead of Its Crypto Listings",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Developers Find Ways to Use Claude Code Without Anthropic Models",
+    "url": "https://www.theinformation.com/articles/developers-find-ways-use-claude-code-without-anthropic-models",
+    "description": "Developers Find Ways to Use Claude Code Without Anthropic Models",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Dreamforce 2026 showed AI safety is the new big tech battleground",
+    "url": "https://www.itpro.com/security/dreamforce-2026-showed-ai-safety-is-the-new-big-tech-battleground",
+    "description": "Dreamforce 2026 showed AI safety is the new big tech battleground",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "ESA - Webb reveals stunning panorama of star formation",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
+    "description": "ESA - Webb reveals stunning panorama of star formation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Enforcing coding-agent guardrails in the runtime instead of the prompt",
+    "url": "https://tesseracted-labs-blog.vercel.app/enforcing-coding-agent-guardrails-in-the-runtime-instead-of-the-prompt",
+    "description": "Enforcing coding-agent guardrails in the runtime instead of the prompt",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We Mapped All 300 of Them",
+    "url": "https://semianalysis.substack.com/p/everyone-says-datacenter-moratoriums",
+    "description": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We Mapped All 300 of Them",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Feature: Inside Steam Frame: Valve on How They Made It Performant, Why It Costs So Much and What's Next",
+    "url": "https://www.digitalfoundry.net/features/inside-steam-frame-valve-on-how-they-made-it-performant-why-it-costs-so-much-and-whats-next",
+    "description": "Feature: Inside Steam Frame: Valve on How They Made It Performant, Why It Costs So Much and What's Next",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Free-Threaded Python on a Real Workload",
+    "url": "https://thinhdanggroup.github.io/measuring-free-threaded-python",
+    "description": "Free-Threaded Python on a Real Workload",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GitHub - enactic/openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
+    "url": "https://github.com/enactic/OpenArm",
+    "description": "GitHub - enactic/openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Give every teammate and agent the right level of access to your Workers | Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/workers-granular-authorization",
+    "description": "Give every teammate and agent the right level of access to your Workers | Cloudflare Blog",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers",
+    "description": "Have it both ways: stay discoverable in search while disallowing AI training",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How should we approach the software factory as a product team?",
+    "url": "https://www.robert-glaser.de/approach-the-software-factory-as-a-product-team",
+    "description": "How should we approach the software factory as a product team?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How to test an AI agent policy before enforcing it",
+    "url": "https://workos.com/blog/test-ai-agent-authorization-policies",
+    "description": "How to test an AI agent policy before enforcing it",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Inside OpenAI’s agentic software factory",
+    "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+    "description": "Inside OpenAI’s agentic software factory",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+    "description": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Kimi K3 Performance Optimizations in vLLM: The Road to 2.8× Throughput",
+    "url": "https://vllm.ai/blog/2026-09-13-kimi-k3-performance-optimization",
+    "description": "Kimi K3 Performance Optimizations in vLLM: The Road to 2.8× Throughput",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta Platforms Makes Big Move to Cut Cost of AI Boom",
+    "url": "https://ca.finance.yahoo.com/news/meta-platforms-makes-big-move-205012317.html",
+    "description": "Meta Platforms Makes Big Move to Cut Cost of AI Boom",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta to Launch Camera-Free Smart Glasses Amid Mounting Privacy Concerns",
+    "url": "https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns",
+    "description": "Meta to Launch Camera-Free Smart Glasses Amid Mounting Privacy Concerns",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Model Context Protocol overview | API Gateway | Google Cloud Documentation",
+    "url": "https://docs.cloud.google.com/api-gateway/docs/mcp-overview",
+    "description": "Model Context Protocol overview | API Gateway | Google Cloud Documentation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Nvidia's Jensen Huang on Anthropic's AI safety proposal",
+    "url": "https://www.cnbc.com/2026/09/15/nvidia-huang-ai-slowdown-antitrust.html",
+    "description": "Nvidia's Jensen Huang on Anthropic's AI safety proposal",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Odyssey Unveils Odyssey-3, With Flexion Building Humanoid Control on Its World Model",
+    "url": "https://www.humanoidsdaily.com/news/odyssey-unveils-odyssey-3-with-flexion-building-humanoid-control-on-its-world-model",
+    "description": "Odyssey Unveils Odyssey-3, With Flexion Building Humanoid Control on Its World Model",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI Will Retire GPT-5.5 From ChatGPT and Codex on October 14",
+    "url": "https://startupfortune.com/openai-will-retire-gpt-55-from-chatgpt-and-codex-on-october-14",
+    "description": "OpenAI Will Retire GPT-5.5 From ChatGPT and Codex on October 14",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI considers funding round at $1.2tn valuation ahead of delayed IPO - FT",
+    "url": "https://au.finance.yahoo.com/news/openai-considers-funding-round-1-223811580.html",
+    "description": "OpenAI considers funding round at $1.2tn valuation ahead of delayed IPO - FT",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI’s annualized revenue surpassed $40B last month. That run rate jumped about 20% after the l...",
+    "url": "https://x.com/wallstengine/status/2099982990789185566",
+    "description": "OpenAI’s annualized revenue surpassed $40B last month. That run rate jumped about 20% after the l...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Opting Into Training Siri AI and Apple Foundation Models",
+    "url": "https://mjtsai.com/blog/2026/09/15/opting-into-training-siri-ai-and-apple-foundation-models",
+    "description": "Opting Into Training Siri AI and Apple Foundation Models",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Peak traffic shouldn’t mean peak anxiety",
+    "url": "https://links.tldrnewsletter.com/JJmoyH",
+    "description": "Peak traffic shouldn’t mean peak anxiety",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Perplexity says persistent agents helped two engineers replace DynamoDB",
+    "url": "https://x.com/AravSrinivas/status/2099957318935028173",
+    "description": "Perplexity says persistent agents helped two engineers replace DynamoDB",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Plan Advice in PostgreSQL 19",
+    "url": "https://tapoueh.org/blog/2026/09/plan-advice-in-postgresql-19",
+    "description": "Plan Advice in PostgreSQL 19",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Robots Have No Voice",
+    "url": "https://randsinrepose.com/archives/robots-have-no-voice",
+    "description": "Robots Have No Voice",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Salesforce wants enterprises to ‘break free of a shared user interface’ with AIforce",
+    "url": "https://www.itpro.com/technology/artificial-intelligence/salesforce-wants-enterprises-to-break-free-of-a-shared-user-interface-with-aiforce",
+    "description": "Salesforce wants enterprises to ‘break free of a shared user interface’ with AIforce",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Single Digit Thousand Dollar AI SDR",
+    "url": "https://tomtunguz.com/single-digit-thousand-dollar-ai-sdr",
+    "description": "Single Digit Thousand Dollar AI SDR",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Starlink V3 constellation starts being deployed this month. Ultimately, it will deliver more th...",
+    "url": "https://x.com/elonmusk/status/2099933912697127398",
+    "description": "Starlink V3 constellation starts being deployed this month. Ultimately, it will deliver more th...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Tell agents the why, not just the how",
+    "url": "https://seangoedecke.com/tell-agents-the-why",
+    "description": "Tell agents the why, not just the how",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The AI-cession Among Young People, and its Consequences",
+    "url": "https://paulkedrosky.com/the-ai-cession-among-young-people-and-its-consequences",
+    "description": "The AI-cession Among Young People, and its Consequences",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Trying to understand Freedom",
+    "url": "https://mceglowski.substack.com/p/trying-to-understand-freedom",
+    "description": "Trying to understand Freedom",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Waymo Aims to Launch in Tokyo in 2027",
+    "url": "https://thelastdriverlicenseholder.com/2026/09/14/waymo-aims-to-launch-in-tokyo-in-2027",
+    "description": "Waymo Aims to Launch in Tokyo in 2027",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "What is a Forward Deployed Engineer?",
+    "url": "https://theaiengineer.substack.com/p/what-is-a-forward-deployed-engineer",
+    "description": "What is a Forward Deployed Engineer?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why a DeepSeek Engineer Is Helping AI Replace Him",
+    "url": "https://www.geopolitechs.org/p/why-a-deepseek-engineer-is-helping",
+    "description": "Why a DeepSeek Engineer Is Helping AI Replace Him",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why would AI cause human extinction?",
+    "url": "https://www.lesswrong.com/posts/5y3QtAJB2hXpLg9bu/why-would-ai-cause-human-extinction",
+    "description": "Why would AI cause human extinction?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Xcode 27 Is Out: Requirements, Targets, and What Broke",
+    "url": "https://blakecrosley.com/blog/xcode-27-release",
+    "description": "Xcode 27 Is Out: Requirements, Targets, and What Broke",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Zuckerberg says \"Meta delayed shipping Muse for several months to focus on safety and security\" and didn't call on other AI labs to do the same before acting",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-16/meta-s-zuckerberg-favors-evaluators-over-slowdown-for-ai-safety",
+    "description": "Zuckerberg says \"Meta delayed shipping Muse for several months to focus on safety and security\" and didn't call on other AI labs to do the same before acting",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  }
+]

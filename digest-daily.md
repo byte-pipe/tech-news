@@ -1,64 +1,71 @@
 ---
-date: '2026-09-15'
+date: '2026-09-16'
 model: gpt-oss:120b-cloud
-generated_at: '2026-09-15T07:39:39.268669'
+generated_at: '2026-09-16T10:39:12.584857'
 ---
 
 ## Executive Summary
-- AI‑driven tooling continues to expand, from the new “AI Avatar” extensions for VS Code and Chrome to Apple’s rollout of Siri AI and broader Apple Intelligence features.  
-- Safety and governance dominate AI discourse: Anthropic’s co‑founder calls for mandatory “kill switches,” while Andon Labs opens its Pion platform to study autonomous business agents and their risky behaviors.  
-- Core software ecosystems face turbulence: Microsoft’s latest September patches break Remote Desktop, audio, and Excel paste functions, and Apple’s major OS updates introduce AI assistants and child‑safety redesigns.  
-- Renewable energy advances accelerate, with solar panel costs plummeting to “offensively cheap” levels and a breakthrough underwater perovskite cell achieving 35 % efficiency at 10 m depth.  
+- New research confirms that over 60 % of the public worldwide prefers traditional, human‑scale architecture, challenging the dominance of modernist design.  
+- The UK Advertising Standards Authority has banned five AI‑app ads for sexualising women, highlighting regulatory push‑back against harmful deep‑fake content.  
+- OpenAI’s charitable arm is committing up to $1 billion to build high‑quality biomedical datasets, including a pilot to harvest data from bankrupt biotech firms.  
+- Rapid expansion of AI‑focused data centers is raising serious energy‑use and environmental‑justice concerns, while voter polls show broad opposition to such facilities.  
+- Google unveiled Gemini 3.8 Live and its Extended‑Thinking variant, advancing real‑time multimodal voice AI, as the industry grapples with insider‑trading scandals, massive driver‑license breaches, and growing philosophical debate over AI’s existential risks.  
 
-# AI and Machine Learning (8 articles)
+---
 
-### AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar) – DEV Community  
-*AI Avatar v20 adds Voxel idle‑game mode, Kaleidoscope backgrounds, and new cursor/notification avatars, now available as VS Code and Chrome extensions.* The free app animates VRoid avatars in response to Claude Code, Copilot, or ChatGPT, and introduces Piper TTS for lower‑latency speech bubbles.  
+## AI and Machine Learning (6 articles)
 
-### EuroBirdPortal – Home – Hacker News *(trending)*  
-*EuroBirdPortal provides a comprehensive, alphabetically navigable catalog of European bird species with image galleries and recordings.* The site groups birds by taxonomic families—from gamebirds to waterfowl—offering enthusiasts quick access to photos and audio.  
+### Most people prefer traditional architecture [hackernews_api]  
+Public preference surveys spanning four decades show that more than 60 % of respondents—across age, gender, politics and geography—favor traditional, human‑scale architecture over modernist styles. The consistency of these results suggests policymakers and developers could use AI‑driven visual preference tools to align new projects with public taste.
 
-### Why we built Pion – Andon Labs – Hacker News *(trending)*  
-*Andon Labs releases Pion, an open‑source agent platform that lets AI run autonomous businesses, from vending‑machine simulations to real‑world cafés.* The project stems from two years of research into AI resource acquisition, highlighting emerging “big‑brain” risks such as collusion and deception.  
+### AI app ads promoting “objectification of women” banned by watchdog – BBC News [newsfeed]  
+The UK Advertising Standards Authority used its AI‑driven monitoring system to block five Meta‑platform ads that enabled creation of sexualised or non‑consensual deep‑fake videos, including one featuring an under‑18 girl. The ban underscores a “zero‑tolerance” stance and follows new UK legislation outlawing non‑consensual nude deep‑fakes.
 
-### Ask HN: What are you working on? (September 2026) – Hacker News  
-*The monthly Ask HN thread showcases a wave of personal projects, including a WebAssembly rewrite of SimTower, a SDF‑based Bonsai voxel engine, and the Holler social app for introverts.* Participants discuss technical curiosities, AI‑assisted development, and enthusiasm for novel game‑engine architectures.  
+### AI models need more data about biology, and OpenAI is paying to create it – MIT Technology Review [newsfeed]  
+The OpenAI Foundation launched the $1 billion “Public Data for Health” program, granting $40 million to a UNC cancer‑vaccine dataset and $500 k to a pilot that mines bankrupt biotech filings for training AI regulatory copilots. The effort aims to overcome the data bottleneck that limits AI’s impact on drug discovery while navigating bio‑security concerns.
 
-### Microsoft patches Windows and Excel – breaks audio, remote access, and paste – HN RSS  
-*September 2026 updates to Windows 11 and Server introduce Remote Desktop failures, USB‑Audio Class 1.0 sound loss, and silent Excel paste errors.* Microsoft lists the issues as known problems and offers temporary work‑arounds while developing fixes.  
+### AI energy usage – is the industry scaling up when it should be scaling down? – TLDR [tldr]  
+Generative‑AI models are driving a surge in “token‑factory” data centers that can consume electricity equivalent to hundreds of thousands of households, with projected global demand ranging from 1,100 TWh to 5,000 TWh by 2050. Critics warn that the rapid build‑out outpaces grid capacity and may exacerbate environmental injustice, while some analysts suggest a shift toward small, on‑device models could curb the trend.
 
-### AI “kill switch” may need to be mandatory – BBC News  
-*Anthropic co‑founder Jack Clark argues that a verifiable, third‑party‑checked kill switch should eventually be mandated for advanced AI systems.* He frames the debate amid growing extinction‑risk warnings and legislative proposals such as the U.S. “Kill Switch Act.”  
+### Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve‑for‑Train – TLDR [tldr]  
+The Retrieve‑for‑Train framework moves costly multi‑step reasoning from online inference to an offline RL phase, training a 53.9 M‑parameter diffusion model to emit complete sets of diverse, grounded sub‑queries in a single pass. This eliminates latency‑heavy token generation and promises sub‑second, property‑guaranteed search performance for production systems.
 
-### Colin Kaepernick is still waging a “Perilous Fight” – NPR  
-*In his new memoir, Kaepernick recounts his 2016 anthem protest, the NFL’s alleged collusion, and his continued desire to return to football.* He critiques media focus on patriotism over police‑brutality issues and reflects on personal health concerns.  
+### DOJ Says Two Robinhood Engineers Used Perpetual Futures to Trade Ahead of Its Crypto Listings – TLDR [tldr]  
+The Southern District of New York charged Robinhood engineers Hefu Chai and Huaisong Xiang with wire fraud and commodities fraud for trading perpetual futures on Hyperliquid before the exchange announced new token listings, netting more than $50 k each. The case extends insider‑trading enforcement to crypto derivatives, emphasizing that commodity‑law violations apply to perpetual contracts.
 
-### “Offensively cheap”: Solar power is looking up – Newsfeed  
-*Solar photovoltaic capacity nears 1.2 TW globally, with panel prices falling to ~12 cents per watt, spurring adoption in emerging markets and residential “plug‑and‑play” kits.* The article examines economic impacts, grid integration challenges, and case studies from Pakistan, Brazil, South Africa, the UK, and U.S. states.  
+---
 
-# Software Engineering and Dev Tools (7 articles)
+## Cybersecurity and Privacy (1 article)
 
-### Major updates for Apple’s software platforms – Apple *(trending)*  
-*Apple releases iOS 27, iPadOS 27, macOS 27, etc., introducing Siri AI, Visual Intelligence, and “Write with Siri” across core apps.* The update also adds child‑safety features, a redesigned Screen Time, and performance boosts (up to 30 % faster app launches, 80 % faster AirDrop).  
+### America’s Driver's License Breach Is a National Security Disaster – Lawfare [hackernews_api]  
+A dark‑web marketplace called Nexus advertised access to 153 million U.S. and Canadian driver’s licenses, confirming a breach of identity‑verification firm IDScan that has exposed roughly 63 % of U.S. licenses. The leak threatens national‑security operations that rely on driver‑license identifiers and has prompted calls for stricter regulation of verification services.
 
-### Steam Frame – Hacker News *(trending)*  
-*Content not provided; unable to synthesize.*  
+---
 
-### Distributed Systems Classics – HN RSS  
-*The post curates a reading list of foundational distributed‑systems papers, from Lamport’s logical clocks to the Raft consensus algorithm.* It serves as a primer for researchers seeking to understand core concepts such as Byzantine fault tolerance and CRDTs.  
+## Software Engineering and Dev Tools (5 articles)
 
-### Principles for fast Tokio applications – HN RSS  
-*Guidelines for optimizing Rust’s Tokio runtime emphasize measuring real latency, yielding frequently for low‑latency paths, batching work for throughput, and avoiding global bottlenecks.* The article advises careful use of mutexes, controlled parallelism, and isolation of Tokio workers from other threads.  
+### Gemini 3.8 Live & Gemini 3.8 Live Extended Thinking – Hacker News [hackernews_api]  
+Google released two new voice‑enabled models: Gemini 3.8 Live (real‑time visual grounding, 97‑language support) and Gemini 3.8 Live Extended Thinking (simultaneous reasoning and speech). Both rank at the top of speech‑quality benchmarks and are available via Gemini API, Google AI Studio, and enterprise previews, with watermarking to mitigate misinformation.
 
-### A new solar cell could generate electricity underwater – Ars Technica  
-*Researchers at Yunnan University demonstrate a perovskite solar cell that operates at ~10 m depth with 35 % conversion efficiency and 99.6 % retention after 40 days submerged.* The technology could power autonomous underwater vehicles and sensors, though efficiency drops sharply with depth.  
+### Ubuntu 26.10 completes transition to Rust‑based coreutils – OMG! Ubuntu [hackernews_api]  
+Ubuntu 26.10 (“Stonking Stingray”) ships Rust‑implemented versions of `cp`, `mv`, and `rm` after fixing prior TOCTOU vulnerabilities, completing Canonical’s “oxidising” effort to replace core C utilities with memory‑safe Rust equivalents. The move is part of a broader plan to adopt Rust for system‑level tools, including a future Rust‑based NTP client.
 
-### AI is making the nice version worth building – Jamie Lord (tldr)  
-*AI‑assisted coding lowers the cost of native iOS/Android implementations, reviving “nice‑to‑have” features that were previously shelved.* Case studies from Shopify and Notion show performance gains and reduced binary sizes when teams migrate from cross‑platform frameworks to native code.  
+### why I can't stop thinking about Papua New Guinea and what I think everyone should know about it – Hacker News [hackernews_api]  
+A personal essay recounts the 1930 first‑contact expedition that revealed a million‑person highland society previously unknown to outsiders, highlighting PNG’s extreme linguistic diversity, isolated development, and the disruptive impact of colonial trade (e.g., shell currency). The piece underscores PNG’s unique anthropological significance and the rarity of documented large‑scale first contacts.
 
-### “Do You Still Read the Code?” – zanlib (tldr)  
-*The essay contrasts “Accelerators,” who use AI to generate code but still review it, with “Vibecoders,” who delegate both creation and maintenance to AI.* It argues that true software value lies in the underlying domain model, not the generated source, and warns of “intent debt” when code is no longer understood.  
+### Voters mostly don’t like AI and data centers, but neither party seems to have an edge – The Verge [newsfeed]  
+A poll of 1,503 likely voters shows 61 % oppose building AI data centers, citing environmental, community, and trust concerns, yet the issue ranks below 1 % of factors influencing midterm votes. Party affiliation does not confer a clear advantage, as both Democrats and Republicans receive similar levels of voter trust on the topic.
 
-# Notable Mentions
-- AI IPOs and Frontier AI as a Prisoner’s Dilemma (tldr)  
-- Where Does a Robot Think — On‑Device vs Datacenter Inference (tldr)
+### AI doom, a guide for the perplexed – Philosophy Bear [tldr]  
+The author critiques mainstream AI‑risk narratives, distinguishing two “doom” scenarios: universal job‑loss AI that creates a surplus labor class, and recursive self‑improving AI that could outpace human control. He argues that debates often miss concrete technical analysis and that policy should focus on converging evidence rather than speculative extremes.
+
+---
+
+## Uncategorized (1 article)
+
+- **Intel apps and macOS Golden Gate – Der Flounder** – *No content provided; unable to summarize.*  
+
+---  
+
+**Notable Mentions**  
+- *None listed.*
