@@ -1,15 +1,5 @@
 [
   {
-    "title": "4 New Evals and 16 Experiment Variants to Fix 1 Customer Complaint",
-    "url": "https://www.producttalk.org/4-new-evals-and-16-experiment-variants",
-    "description": "4 New Evals and 16 Experiment Variants to Fix 1 Customer Complaint",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "A warning about ‘model welfare’",
     "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
     "description": "A warning about ‘model welfare’",
@@ -20,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Academic Doomerism",
-    "url": "https://muratbuffalo.blogspot.com/2026/09/academic-doomerism.html",
-    "description": "Academic Doomerism",
+    "title": "AI Labs Want Compute Commitments and Their Customers Want Model Choice",
+    "url": "https://davefriedman.substack.com/p/ai-labs-want-compute-commitments",
+    "description": "AI Labs Want Compute Commitments and Their Customers Want Model Choice",
     "tags": [
       "tldr"
     ],
@@ -30,9 +20,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-    "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers",
-    "description": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+    "title": "Agent Reliability Needs Repeated Evidence | Jason Doyle",
+    "url": "https://jasondoyle.ie/whitepapers/agent-reliability-needs-repeated-evidence",
+    "description": "Agent Reliability Needs Repeated Evidence | Jason Doyle",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agent Substrate available on GKE",
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke",
+    "description": "Agent Substrate available on GKE",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Algorithmic Progress is not Exogenous",
+    "url": "https://www.beren.io/2026-09-16-Algorithmic-Progress-is-not-Exogenous",
+    "description": "Algorithmic Progress is not Exogenous",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Altman, Amodei talk AI pacing at Dreamforce",
+    "url": "https://www.informationweek.com/machine-learning-ai/altman-amodei-talk-ai-pacing-at-dreamforce",
+    "description": "Altman, Amodei talk AI pacing at Dreamforce",
     "tags": [
       "tldr"
     ],
@@ -50,9 +70,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic to build $31bn datacentre in western Queensland, David Crisafulli says",
-    "url": "https://www.theguardian.com/technology/2026/sep/16/anthropic-lands-31bn-datacentre-deal-in-western-queensland",
-    "description": "Anthropic to build $31bn datacentre in western Queensland, David Crisafulli says",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+    "description": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
     "tags": [
       "tldr"
     ],
@@ -60,19 +80,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic, OpenAI's proposed AI risk evaluators may not have enough power to prevent disasters",
-    "url": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
-    "description": "Anthropic, OpenAI's proposed AI risk evaluators may not have enough power to prevent disasters",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Apple planning to sell AI servers powered by M8 Ultra chips, says report",
-    "url": "https://9to5mac.com/2026/09/16/apple-planning-to-sell-ai-servers-powered-by-m8-ultra-chips-says-report",
-    "description": "Apple planning to sell AI servers powered by M8 Ultra chips, says report",
+    "title": "Anthropic signs first Australian data centre agreement",
+    "url": "https://www.itnews.com.au/news/anthropic-signs-first-australian-data-centre-agreement-628972",
+    "description": "Anthropic signs first Australian data centre agreement",
     "tags": [
       "tldr"
     ],
@@ -90,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "ByteDance’s AI drug unit Anew Labs raises $290M at $1.5B valuation, Reuters reports",
-    "url": "https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery",
-    "description": "ByteDance’s AI drug unit Anew Labs raises $290M at $1.5B valuation, Reuters reports",
+    "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+    "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster",
+    "description": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
     "tags": [
       "tldr"
     ],
@@ -100,9 +110,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "China Is Told It’s Behind in AI. Now It’s Being Asked to Slow Down.",
-    "url": "https://www.thexpin.com/p/why-china-rejects-us-ai-rules",
-    "description": "China Is Told It’s Behind in AI. Now It’s Being Asked to Slow Down.",
+    "title": "California may gut state net neutrality law to comply with Trump admin demand",
+    "url": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand",
+    "description": "California may gut state net neutrality law to comply with Trump admin demand",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Chasing Nines",
+    "url": "https://nikogura.com/blog/chasing-nines",
+    "description": "Chasing Nines",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Claude Cowork and chat are now one Claude | Claude by Anthropic",
+    "url": "https://claude.com/blog/cowork-is-now-claude",
+    "description": "Claude Cowork and chat are now one Claude | Claude by Anthropic",
     "tags": [
       "tldr"
     ],
@@ -130,9 +160,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Cohere reaches terms with German peer Aleph Alpha to take on AI giants",
-    "url": "https://betakit.com/cohere-reaches-terms-with-german-peer-aleph-alpha-to-take-on-ai-giants",
-    "description": "Cohere reaches terms with German peer Aleph Alpha to take on AI giants",
+    "title": "Cohere and Aleph Alpha sign, with headquarters in Berlin and Toronto",
+    "url": "https://thenextweb.com/news/cohere-aleph-alpha-definitive-agreement-transatlantic-sovereign-ai",
+    "description": "Cohere and Aleph Alpha sign, with headquarters in Berlin and Toronto",
     "tags": [
       "tldr"
     ],
@@ -140,9 +170,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Constraining AI agents with Red Hat AI: Containment, identity, and governance",
-    "url": "https://developers.redhat.com/articles/2026/09/16/constraining-ai-agents-with-red-hat-ai-containment-identity-and-governance",
-    "description": "Constraining AI agents with Red Hat AI: Containment, identity, and governance",
+    "title": "Crux AI lines up reported $22B TPU loan, status still unclear",
+    "url": "https://runtimewire.com/article/crux-ai-22-billion-tpu-chip-loan-blackstone-google",
+    "description": "Crux AI lines up reported $22B TPU loan, status still unclear",
     "tags": [
       "tldr"
     ],
@@ -150,39 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "DuckDB Skills for Claude Code",
-    "url": "https://duckdb.org/2026/09/16/duckdb-skills.html",
-    "description": "DuckDB Skills for Claude Code",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-    "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
-    "description": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
-    "url": "https://arxiv.org/abs/2609.17320",
-    "description": "Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We Mapped All 300 of Them",
-    "url": "https://semianalysis.substack.com/p/everyone-says-datacenter-moratoriums",
-    "description": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We Mapped All 300 of Them",
+    "title": "Databricks: Databricks announces Lakebase Postgres with addressable transaction history",
+    "url": "https://x.com/databricks/status/2100233829092876740",
+    "description": "Databricks: Databricks announces Lakebase Postgres with addressable transaction history",
     "tags": [
       "tldr"
     ],
@@ -200,9 +200,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "GitHub - grafana/agento11y: Actually Useful Agent Observability",
-    "url": "https://github.com/grafana/agento11y",
-    "description": "GitHub - grafana/agento11y: Actually Useful Agent Observability",
+    "title": "First-of-its-kind DNA computer solves complex math without wires or continuous power",
+    "url": "https://interestingengineering.com/science/first-of-its-kind-dna-computer-solves-complex-math-without-wires-or-continuous-power",
+    "description": "First-of-its-kind DNA computer solves complex math without wires or continuous power",
     "tags": [
       "tldr"
     ],
@@ -210,9 +210,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google DeepMind cofounder Shane Legg warns that advancing AI must never run ahead of safety and launches the DeepMind Institute to explore the deployment of AGI",
-    "url": "https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e",
-    "description": "Google DeepMind cofounder Shane Legg warns that advancing AI must never run ahead of safety and launches the DeepMind Institute to explore the deployment of AGI",
+    "title": "Gemini Live audio",
+    "url": "https://simonwillison.net/2026/Sep/15/gemini-live",
+    "description": "Gemini Live audio",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GitHub - bilawalsidhu/gods-eye-view: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "description": "GitHub - bilawalsidhu/gods-eye-view: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home",
+    "url": "https://9to5google.com/2026/09/16/google-home-mcp",
+    "description": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home",
     "tags": [
       "tldr"
     ],
@@ -230,9 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "If Your Tool Isn't Reachable by Agents, It Doesn't Exist",
-    "url": "https://lws.io/blog/if-your-tool-isnt-reachable-by-agents-it-doesnt-exist",
-    "description": "If Your Tool Isn't Reachable by Agents, It Doesn't Exist",
+    "title": "How We Scaled Our LLM Inference Infrastructure to Serve 100+ Billion Requests a Week",
+    "url": "https://blog.superhuman.com/scaling-gec-inference",
+    "description": "How We Scaled Our LLM Inference Infrastructure to Serve 100+ Billion Requests a Week",
     "tags": [
       "tldr"
     ],
@@ -240,9 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-    "description": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "title": "Introducing TIN: full-text search for Postgres",
+    "url": "https://planetscale.com/blog/introducing-tin",
+    "description": "Introducing TIN: full-text search for Postgres",
     "tags": [
       "tldr"
     ],
@@ -250,9 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Odyssey-3: A General-Purpose Physical Intelligence",
-    "url": "https://odyssey.systems/introducing-odyssey-3",
-    "description": "Introducing Odyssey-3: A General-Purpose Physical Intelligence",
+    "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+    "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data",
+    "description": "Iran strikes on Amazon data centers caused permanent loss of customer data",
     "tags": [
       "tldr"
     ],
@@ -260,9 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Kimi K3 Performance Optimizations in vLLM: The Road to 2.8× Throughput",
-    "url": "https://vllm.ai/blog/2026-09-13-kimi-k3-performance-optimization",
-    "description": "Kimi K3 Performance Optimizations in vLLM: The Road to 2.8× Throughput",
+    "title": "Is Anthropic the New Netscape?",
+    "url": "https://deadneurons.substack.com/p/is-anthropic-the-new-netscape",
+    "description": "Is Anthropic the New Netscape?",
     "tags": [
       "tldr"
     ],
@@ -270,9 +290,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "MLCommons Sets Participation Record with New MLPerf Inference v6.1 Benchmark Results",
-    "url": "https://mlcommons.org/2026/09/mlperf-inference-v6-1-results",
-    "description": "MLCommons Sets Participation Record with New MLPerf Inference v6.1 Benchmark Results",
+    "title": "Memory in Grok Build | SpaceXAI",
+    "url": "https://x.ai/news/grok-build-memory",
+    "description": "Memory in Grok Build | SpaceXAI",
     "tags": [
       "tldr"
     ],
@@ -290,39 +310,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft AI chief flags dangers of Anthropic training Claude on ideas of consciousness, welfare",
-    "url": "https://www.thehindubusinessline.com/info-tech/microsoft-ai-chief-flags-dangers-of-anthropic-training-claude-on-ideas-of-consciousness-welfare/article71473045.ece",
-    "description": "Microsoft AI chief flags dangers of Anthropic training Claude on ideas of consciousness, welfare",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Mirror publisher to cut 220 editorial jobs as readers turn to AI summaries",
-    "url": "https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google",
-    "description": "Mirror publisher to cut 220 editorial jobs as readers turn to AI summaries",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
     "url": "https://mistral.ai/news/mistral-x-mozilla",
     "description": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Novo Nordisk partners with Anthropic to turbocharge drug discovery",
-    "url": "https://au.finance.yahoo.com/news/novo-nordisk-partners-anthropic-turbocharge-124211611.html",
-    "description": "Novo Nordisk partners with Anthropic to turbocharge drug discovery",
     "tags": [
       "tldr"
     ],
@@ -340,29 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI investors have approached the company about a new funding round",
-    "url": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
-    "description": "OpenAI investors have approached the company about a new funding round",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI unveils Sponsored Agents, its first paid advertising format",
-    "url": "https://www.aichatdaily.com/ai-business/openai-unveils-sponsored-agents-first-paid-advertising-format",
-    "description": "OpenAI unveils Sponsored Agents, its first paid advertising format",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
     "title": "Peak traffic shouldn’t mean peak anxiety",
     "url": "https://links.tldrnewsletter.com/JJmoyH",
-    "description": "Peak traffic shouldn’t mean peak anxiety",
+    "description": "Traffic skyrocketing? If you’re onMicrosoft Azure, there’s no reason to panic. When user demand spikes, Azure adjusts capacity in the background. Performance stays steady with no manual intervention, no late-night firefighting, and no scrambling to explain why the site went down during the big launch.",
     "tags": [
       "tldr"
     ],
@@ -380,9 +350,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Salesforce suffered a global outage just as its Dreamforce conference got underway",
-    "url": "https://qz.com/salesforce-global-outage-dreamforce-conference-091626",
-    "description": "Salesforce suffered a global outage just as its Dreamforce conference got underway",
+    "title": "Salesforce Down: Service Disruption Impacts Customers Across All Regions",
+    "url": "https://thecybersecguru.com/news/salesforce-down-outage-september-2026",
+    "description": "Salesforce Down: Service Disruption Impacts Customers Across All Regions",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Scientists create mice with part-human brains",
+    "url": "https://www.theguardian.com/science/2026/sep/16/mice-part-human-brains-research",
+    "description": "Scientists create mice with part-human brains",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Scientists develop new method for deciphering ancient scrolls",
+    "url": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls",
+    "description": "Scientists develop new method for deciphering ancient scrolls",
     "tags": [
       "tldr"
     ],
@@ -400,29 +390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
-    "url": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
-    "description": "Shared Selective Persistent Memory for Agentic LLM Systems",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Single Digit Thousand Dollar AI SDR",
-    "url": "https://tomtunguz.com/single-digit-thousand-dollar-ai-sdr",
-    "description": "Single Digit Thousand Dollar AI SDR",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The AI-cession Among Young People, and its Consequences",
-    "url": "https://paulkedrosky.com/the-ai-cession-among-young-people-and-its-consequences",
-    "description": "The AI-cession Among Young People, and its Consequences",
+    "title": "Some Focus Areas for Embedded Evaluations and How to Approach Them | Transluce AI",
+    "url": "https://transluce.org/embedded-evaluations",
+    "description": "Some Focus Areas for Embedded Evaluations and How to Approach Them | Transluce AI",
     "tags": [
       "tldr"
     ],
@@ -440,9 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The decay you cannot see: what we measured and the one thing we will not claim",
-    "url": "https://blog.officefloor.net/2026/09/the-decay-you-cannot-see-what-we.html",
-    "description": "The decay you cannot see: what we measured and the one thing we will not claim",
+    "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal | Electronic Frontier Foundation",
+    "url": "https://www.eff.org/deeplinks/2026/09/victory-court-using-new-test-rules-embedding-links-legal",
+    "description": "Victory: Court, Using a New Test, Rules Embedding Links is Legal | Electronic Frontier Foundation",
     "tags": [
       "tldr"
     ],
@@ -450,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What Regulatory Capture Actually Looks Like",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-regulatory-capture-actually-looks-like.html",
-    "description": "What Regulatory Capture Actually Looks Like",
+    "title": "What happens when neutrinos swap identities inside a supernova?",
+    "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova",
+    "description": "What happens when neutrinos swap identities inside a supernova?",
     "tags": [
       "tldr"
     ],
@@ -470,9 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "When to use SAST versus an LLM security scanner",
-    "url": "https://about.gitlab.com/blog/sast-vs-llm-security-scanner",
-    "description": "When to use SAST versus an LLM security scanner",
+    "title": "Zipline seeks $1B at a $20B valuation for its U.S. delivery push",
+    "url": "https://runtimewire.com/article/zipline-seeks-1-billion-20-billion-valuation-us-drone-delivery",
+    "description": "Zipline seeks $1B at a $20B valuation for its U.S. delivery push",
     "tags": [
       "tldr"
     ],
@@ -480,9 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why your Kafka topic ignores retention.ms (and how to fix it)",
-    "url": "https://developers.redhat.com/articles/2026/09/16/why-your-kafka-topic-ignores-retentionms-and-how-fix-it",
-    "description": "Why your Kafka topic ignores retention.ms (and how to fix it)",
+    "title": "evaluations",
+    "url": "https://surgehq.ai/learn/evaluations",
+    "description": "evaluations",
     "tags": [
       "tldr"
     ],
@@ -490,9 +460,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Your Computer Might Demand Your Age Soon, No Matter Where You Live",
-    "url": "https://au.pcmag.com/security/119944/your-computer-might-demand-your-age-soon-no-matter-where-you-live",
-    "description": "Your Computer Might Demand Your Age Soon, No Matter Where You Live",
+    "title": "macOS 27 Golden Gate Is Out: What Changes for Developers",
+    "url": "https://blakecrosley.com/blog/macos-27-golden-gate-release",
+    "description": "macOS 27 Golden Gate Is Out: What Changes for Developers",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "“A clearly labeled conversation”: OpenAI tests Sponsored Agents in ChatGPT",
+    "url": "https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify",
+    "description": "“A clearly labeled conversation”: OpenAI tests Sponsored Agents in ChatGPT",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "“An ill-advised moment to go public”: OpenAI eyes a $1.5tn private round",
+    "url": "https://thenextweb.com/news/openai-funding-round-1-2-trillion-valuation-ipo",
+    "description": "“An ill-advised moment to go public”: OpenAI eyes a $1.5tn private round",
     "tags": [
       "tldr"
     ],
@@ -503,6 +493,16 @@
     "title": "“Crazy nonsense”: Benioff dismisses the SaaSpocalypse and launches AIforce",
     "url": "https://thenextweb.com/news/benioff-saaspocalypse-crazy-nonsense-aiforce-koa-dreamforce",
     "description": "“Crazy nonsense”: Benioff dismisses the SaaSpocalypse and launches AIforce",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "“We must not sleepwalk”: Microsoft’s AI chief takes on Anthropic’s Claude",
+    "url": "https://thenextweb.com/news/suleyman-anthropic-claude-consciousness-sleepwalk",
+    "description": "“We must not sleepwalk”: Microsoft’s AI chief takes on Anthropic’s Claude",
     "tags": [
       "tldr"
     ],

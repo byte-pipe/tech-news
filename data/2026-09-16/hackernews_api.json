@@ -1,62 +1,45 @@
 [
   {
-    "title": "25 years of mass surveillance is enough",
-    "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-    "author": "iamnothere",
-    "date": "2026-09-15",
-    "score": 887,
-    "comments": 331,
-    "id": 49710883,
-    "discussion_url": "https://news.ycombinator.com/item?id=49710883",
-    "description": "25 years of mass surveillance is enough",
+    "title": "A warning about 'model welfare'",
+    "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+    "author": "andsoitis",
+    "date": "2026-09-16",
+    "score": 166,
+    "comments": 431,
+    "id": 49727580,
+    "discussion_url": "https://news.ycombinator.com/item?id=49727580",
+    "description": "A warning about 'model welfare'",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485428"
+    "fetched_at": "2026-09-16T21:54:36.877993"
   },
   {
-    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-    "url": "https://www.effort.news/irregular",
-    "author": "yusufozkan",
-    "date": "2026-09-14",
-    "score": 650,
-    "comments": 221,
-    "id": 49704132,
-    "discussion_url": "https://news.ycombinator.com/item?id=49704132",
-    "description": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485420"
-  },
-  {
-    "title": "An update on Wayback Machine access",
-    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-    "author": "ChrisArchitect",
+    "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+    "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+    "author": "berkeleyjunk",
     "date": "2026-09-15",
-    "score": 623,
-    "comments": 336,
-    "id": 49716176,
-    "discussion_url": "https://news.ycombinator.com/item?id=49716176",
-    "description": "An update on Wayback Machine access",
+    "score": 85,
+    "comments": 46,
+    "id": 49719249,
+    "discussion_url": "https://news.ycombinator.com/item?id=49719249",
+    "description": "AWS says it can't restore some data from mideast facilities struck by Iran",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485267"
+    "fetched_at": "2026-09-16T21:54:36.877927"
   },
   {
     "title": "Apple Reference Image: A New Approach for Verified Photography",
     "url": "https://security.apple.com/blog/apple-reference-image/",
     "author": "imwally",
     "date": "2026-09-16",
-    "score": 387,
-    "comments": 253,
+    "score": 490,
+    "comments": 327,
     "id": 49721322,
     "discussion_url": "https://news.ycombinator.com/item?id=49721322",
     "description": "Apple Reference Image: A New Approach for Verified Photography",
@@ -65,49 +48,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485253"
+    "fetched_at": "2026-09-16T21:54:36.878110"
   },
   {
-    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-    "url": "https://codyho.dev/blog/gpu-driver/",
-    "author": "ADevWithAnIdea",
-    "date": "2026-09-15",
-    "score": 390,
-    "comments": 239,
-    "id": 49717638,
-    "discussion_url": "https://news.ycombinator.com/item?id=49717638",
-    "description": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+    "title": "Can we stop with the uptime percentages?",
+    "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+    "author": "surprisetalk",
+    "date": "2026-09-16",
+    "score": 125,
+    "comments": 96,
+    "id": 49728733,
+    "discussion_url": "https://news.ycombinator.com/item?id=49728733",
+    "description": "Can we stop with the uptime percentages?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485314"
+    "fetched_at": "2026-09-16T21:54:36.878069"
   },
   {
-    "title": "Chopping up books when they're physically too big",
-    "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-    "author": "matt_kirkland",
-    "date": "2026-09-15",
-    "score": 203,
-    "comments": 189,
-    "id": 49716953,
-    "discussion_url": "https://news.ycombinator.com/item?id=49716953",
-    "description": "Chopping up books when they're physically too big",
+    "title": "Claude Cowork and chat are now one Claude",
+    "url": "https://claude.com/blog/cowork-is-now-claude",
+    "author": "vertigoruntime",
+    "date": "2026-09-16",
+    "score": 184,
+    "comments": 192,
+    "id": 49729412,
+    "discussion_url": "https://news.ycombinator.com/item?id=49729412",
+    "description": "Claude Cowork and chat are now one Claude",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485340"
+    "fetched_at": "2026-09-16T21:54:36.878020"
+  },
+  {
+    "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+    "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+    "author": "talhof8",
+    "date": "2026-09-16",
+    "score": 150,
+    "comments": 60,
+    "id": 49725800,
+    "discussion_url": "https://news.ycombinator.com/item?id=49725800",
+    "description": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-16T21:54:36.878121"
   },
   {
     "title": "Doing Everyone Else's Job",
     "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
     "author": "luu",
     "date": "2026-09-15",
-    "score": 157,
-    "comments": 72,
+    "score": 192,
+    "comments": 90,
     "id": 49705944,
     "discussion_url": "https://news.ycombinator.com/item?id=49705944",
     "description": "Doing Everyone Else's Job",
@@ -116,83 +116,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485205"
+    "fetched_at": "2026-09-16T21:54:36.878081"
   },
   {
-    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "author": "leumon",
-    "date": "2026-09-15",
-    "score": 462,
-    "comments": 307,
-    "id": 49715947,
-    "discussion_url": "https://news.ycombinator.com/item?id=49715947",
-    "description": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "title": "Douglas Adams and the exterminated Doctor Who adventure",
+    "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
+    "author": "6LLvveMx2koXfwn",
+    "date": "2026-09-13",
+    "score": 68,
+    "comments": 66,
+    "id": 49689062,
+    "discussion_url": "https://news.ycombinator.com/item?id=49689062",
+    "description": "Douglas Adams and the exterminated Doctor Who adventure",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485258"
+    "fetched_at": "2026-09-16T21:54:36.878024"
   },
   {
-    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-    "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-    "author": "summarity",
-    "date": "2026-09-15",
-    "score": 257,
-    "comments": 97,
-    "id": 49718928,
-    "discussion_url": "https://news.ycombinator.com/item?id=49718928",
-    "description": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "url": "https://arxiv.org/abs/2609.14858",
+    "author": "bananaflag",
+    "date": "2026-09-16",
+    "score": 167,
+    "comments": 48,
+    "id": 49726955,
+    "discussion_url": "https://news.ycombinator.com/item?id=49726955",
+    "description": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485275"
+    "fetched_at": "2026-09-16T21:54:36.877977"
   },
   {
-    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+    "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+    "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+    "author": "geox",
+    "date": "2026-09-16",
+    "score": 135,
+    "comments": 124,
+    "id": 49730239,
+    "discussion_url": "https://news.ycombinator.com/item?id=49730239",
+    "description": "ER visits for gambling disorders doubled after expanded online gambling market",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-16T21:54:36.878088"
+  },
+  {
+    "title": "Hackers Got Inside a Flock Camera",
     "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
     "author": "driverdan",
     "date": "2026-09-16",
-    "score": 160,
-    "comments": 65,
+    "score": 395,
+    "comments": 193,
     "id": 49726586,
     "discussion_url": "https://news.ycombinator.com/item?id=49726586",
-    "description": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+    "description": "Hackers Got Inside a Flock Camera",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485235"
+    "fetched_at": "2026-09-16T21:54:36.878042"
   },
   {
-    "title": "I can't stop thinking about Papua New Guinea",
-    "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-    "author": "networked",
+    "title": "How big are factorials?",
+    "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+    "author": "ibobev",
     "date": "2026-09-15",
-    "score": 1089,
-    "comments": 452,
-    "id": 49708431,
-    "discussion_url": "https://news.ycombinator.com/item?id=49708431",
-    "description": "I can't stop thinking about Papua New Guinea",
+    "score": 72,
+    "comments": 30,
+    "id": 49712185,
+    "discussion_url": "https://news.ycombinator.com/item?id=49712185",
+    "description": "How big are factorials?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485383"
+    "fetched_at": "2026-09-16T21:54:36.878030"
+  },
+  {
+    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "url": "https://arxiv.org/abs/2511.07885",
+    "author": "pythonic_hell",
+    "date": "2026-09-14",
+    "score": 156,
+    "comments": 54,
+    "id": 49694035,
+    "discussion_url": "https://news.ycombinator.com/item?id=49694035",
+    "description": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-16T21:54:36.878084"
   },
   {
     "title": "Introducing System One Models and Jev",
     "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
     "author": "albelfio",
     "date": "2026-09-15",
-    "score": 1632,
-    "comments": 452,
+    "score": 1776,
+    "comments": 472,
     "id": 49717558,
     "discussion_url": "https://news.ycombinator.com/item?id=49717558",
     "description": "Introducing System One Models and Jev",
@@ -201,32 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485220"
-  },
-  {
-    "title": "Jean-Pierre Serre turns 100",
-    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-    "author": "jzox",
-    "date": "2026-09-15",
-    "score": 141,
-    "comments": 25,
-    "id": 49718822,
-    "discussion_url": "https://news.ycombinator.com/item?id=49718822",
-    "description": "Jean-Pierre Serre turns 100",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485379"
+    "fetched_at": "2026-09-16T21:54:36.878061"
   },
   {
     "title": "Learning Programming in an Age of LLMs",
     "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
     "author": "moneroloop2018",
     "date": "2026-09-16",
-    "score": 156,
-    "comments": 101,
+    "score": 222,
+    "comments": 170,
     "id": 49723873,
     "discussion_url": "https://news.ycombinator.com/item?id=49723873",
     "description": "Learning Programming in an Age of LLMs",
@@ -235,32 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485305"
-  },
-  {
-    "title": "Let's make quality the norm again",
-    "url": "https://www.forbrukerradet.no/short-life/",
-    "author": "ingve",
-    "date": "2026-09-15",
-    "score": 443,
-    "comments": 457,
-    "id": 49710109,
-    "discussion_url": "https://news.ycombinator.com/item?id=49710109",
-    "description": "Let's make quality the norm again",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485328"
+    "fetched_at": "2026-09-16T21:54:36.878114"
   },
   {
     "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
     "url": "https://mistral.ai/news/mistral-x-mozilla/",
     "author": "vertigoruntime",
     "date": "2026-09-16",
-    "score": 293,
-    "comments": 91,
+    "score": 497,
+    "comments": 177,
     "id": 49723408,
     "discussion_url": "https://news.ycombinator.com/item?id=49723408",
     "description": "Mistral X Mozilla: Private, Multilingual AI Browsing",
@@ -269,15 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485174"
+    "fetched_at": "2026-09-16T21:54:36.877988"
+  },
+  {
+    "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+    "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+    "author": "bananaboy",
+    "date": "2026-09-16",
+    "score": 115,
+    "comments": 37,
+    "id": 49721548,
+    "discussion_url": "https://news.ycombinator.com/item?id=49721548",
+    "description": "Negativland, Culture Jamming, and the Art of Making Something New",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-16T21:54:36.878132"
   },
   {
     "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
     "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
     "author": "rbanffy",
     "date": "2026-09-16",
-    "score": 129,
-    "comments": 36,
+    "score": 252,
+    "comments": 70,
     "id": 49725356,
     "discussion_url": "https://news.ycombinator.com/item?id=49725356",
     "description": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
@@ -286,32 +303,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485160"
+    "fetched_at": "2026-09-16T21:54:36.878076"
   },
   {
-    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-    "author": "zdw",
+    "title": "Performance Improvements in .NET 11",
+    "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+    "author": "soheilpro",
     "date": "2026-09-15",
-    "score": 165,
-    "comments": 49,
-    "id": 49719938,
-    "discussion_url": "https://news.ycombinator.com/item?id=49719938",
-    "description": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+    "score": 72,
+    "comments": 3,
+    "id": 49711424,
+    "discussion_url": "https://news.ycombinator.com/item?id=49711424",
+    "description": "Performance Improvements in .NET 11",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485284"
+    "fetched_at": "2026-09-16T21:54:36.877961"
   },
   {
     "title": "Salesforce Global Outage",
     "url": "https://status.salesforce.com/products/all",
     "author": "mabil",
     "date": "2026-09-16",
-    "score": 178,
-    "comments": 99,
+    "score": 256,
+    "comments": 166,
     "id": 49724488,
     "discussion_url": "https://news.ycombinator.com/item?id=49724488",
     "description": "Salesforce Global Outage",
@@ -320,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485225"
+    "fetched_at": "2026-09-16T21:54:36.878057"
   },
   {
     "title": "Saving Jet Fuel",
     "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
     "author": "marklit",
     "date": "2026-09-15",
-    "score": 122,
-    "comments": 61,
+    "score": 130,
+    "comments": 63,
     "id": 49720164,
     "discussion_url": "https://news.ycombinator.com/item?id=49720164",
     "description": "Saving Jet Fuel",
@@ -337,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485323"
+    "fetched_at": "2026-09-16T21:54:36.878139"
   },
   {
     "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "url": "https://github.com/arnegiacomo/fugleramme",
     "author": "arnemunthekaas",
     "date": "2026-09-15",
-    "score": 1821,
-    "comments": 218,
+    "score": 2013,
+    "comments": 235,
     "id": 49711544,
     "discussion_url": "https://news.ycombinator.com/item?id=49711544",
     "description": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -354,83 +371,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485168"
+    "fetched_at": "2026-09-16T21:54:36.877981"
   },
   {
-    "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-    "url": "https://withcapsule.app/",
-    "author": "bashtian",
+    "title": "Small programming tricks",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "author": "signa11",
+    "date": "2026-09-16",
+    "score": 310,
+    "comments": 157,
+    "id": 49729000,
+    "discussion_url": "https://news.ycombinator.com/item?id=49729000",
+    "description": "Small programming tricks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-16T21:54:36.877913"
+  },
+  {
+    "title": "Tell the speakers that you liked their talks",
+    "url": "https://ohhelloana.blog/tell-the-speakers/",
+    "author": "whisper2020",
     "date": "2026-09-15",
-    "score": 358,
-    "comments": 152,
-    "id": 49712278,
-    "discussion_url": "https://news.ycombinator.com/item?id=49712278",
-    "description": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+    "score": 256,
+    "comments": 71,
+    "id": 49710903,
+    "discussion_url": "https://news.ycombinator.com/item?id=49710903",
+    "description": "Tell the speakers that you liked their talks",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485318"
+    "fetched_at": "2026-09-16T21:54:36.877996"
   },
   {
-    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-    "url": "https://bkovac.github.io/modem-thing/",
-    "author": "bobili1234",
-    "date": "2026-09-15",
-    "score": 195,
-    "comments": 35,
-    "id": 49712102,
-    "discussion_url": "https://news.ycombinator.com/item?id=49712102",
-    "description": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+    "title": "The DeepMind Institute",
+    "url": "https://institute.deepmind.com/",
+    "author": "vertigoruntime",
+    "date": "2026-09-16",
+    "score": 105,
+    "comments": 33,
+    "id": 49727659,
+    "discussion_url": "https://news.ycombinator.com/item?id=49727659",
+    "description": "The DeepMind Institute",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485417"
-  },
-  {
-    "title": "Show HN: I made a flight simulator, except you're just a passenger",
-    "url": "https://inflightsimulator.com",
-    "author": "rkotcher",
-    "date": "2026-09-14",
-    "score": 306,
-    "comments": 168,
-    "id": 49693971,
-    "discussion_url": "https://news.ycombinator.com/item?id=49693971",
-    "description": "Show HN: I made a flight simulator, except you're just a passenger",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485249"
-  },
-  {
-    "title": "Suspected sabotage causes major Netherlands rail disruption",
-    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-    "author": "choult",
-    "date": "2026-09-15",
-    "score": 510,
-    "comments": 454,
-    "id": 49710253,
-    "discussion_url": "https://news.ycombinator.com/item?id=49710253",
-    "description": "Suspected sabotage causes major Netherlands rail disruption",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485344"
+    "fetched_at": "2026-09-16T21:54:36.878000"
   },
   {
     "title": "The Google Play app review process now regularly takes longer than a week",
     "url": "https://gultsch.social/@daniel/117280438824908947",
     "author": "inputmice",
     "date": "2026-09-16",
-    "score": 221,
-    "comments": 186,
+    "score": 330,
+    "comments": 319,
     "id": 49724927,
     "discussion_url": "https://news.ycombinator.com/item?id=49724927",
     "description": "The Google Play app review process now regularly takes longer than a week",
@@ -439,74 +439,74 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485184"
+    "fetched_at": "2026-09-16T21:54:36.878038"
   },
   {
-    "title": "The Inference Hardware Revolution of 2026",
-    "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-    "author": "vinhnx",
-    "date": "2026-09-15",
-    "score": 153,
-    "comments": 19,
-    "id": 49713024,
-    "discussion_url": "https://news.ycombinator.com/item?id=49713024",
-    "description": "The Inference Hardware Revolution of 2026",
+    "title": "This Code Is CRAP (2011)",
+    "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+    "author": "luispa",
+    "date": "2026-09-16",
+    "score": 71,
+    "comments": 52,
+    "id": 49729228,
+    "discussion_url": "https://news.ycombinator.com/item?id=49729228",
+    "description": "This Code Is CRAP (2011)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485405"
+    "fetched_at": "2026-09-16T21:54:36.878092"
   },
   {
-    "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-    "url": "https://github.com/GraafHenk/numberwang",
-    "author": "Liogra123",
-    "date": "2026-09-15",
-    "score": 169,
-    "comments": 60,
-    "id": 49717605,
-    "discussion_url": "https://news.ycombinator.com/item?id=49717605",
-    "description": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "author": "polyphilz",
+    "date": "2026-09-16",
+    "score": 243,
+    "comments": 40,
+    "id": 49731285,
+    "discussion_url": "https://news.ycombinator.com/item?id=49731285",
+    "description": "Training a 4B model to produce 81% faster query plans than Postgres",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485375"
+    "fetched_at": "2026-09-16T21:54:36.877891"
   },
   {
-    "title": "We got admin access to Baseten's production GitHub",
-    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-    "author": "bearsyankees",
-    "date": "2026-09-15",
-    "score": 310,
-    "comments": 173,
-    "id": 49716476,
-    "discussion_url": "https://news.ycombinator.com/item?id=49716476",
-    "description": "We got admin access to Baseten's production GitHub",
+    "title": "Vectorized and performance-portable Quicksort (2022)",
+    "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+    "author": "mococa",
+    "date": "2026-09-16",
+    "score": 156,
+    "comments": 24,
+    "id": 49731054,
+    "discussion_url": "https://news.ycombinator.com/item?id=49731054",
+    "description": "Vectorized and performance-portable Quicksort (2022)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485310"
+    "fetched_at": "2026-09-16T21:54:36.877965"
   },
   {
-    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "author": "jaykru",
-    "date": "2026-09-15",
-    "score": 339,
-    "comments": 425,
-    "id": 49715927,
-    "discussion_url": "https://news.ycombinator.com/item?id=49715927",
-    "description": "Why I'm still bearish on LLMs after Navier-Stokes",
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "url": "https://mimo.xiaomi.com/rl/",
+    "author": "krackers",
+    "date": "2026-09-16",
+    "score": 123,
+    "comments": 36,
+    "id": 49732270,
+    "discussion_url": "https://news.ycombinator.com/item?id=49732270",
+    "description": "Xiaomi Mimo 2.6 live post-training dashboard",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-16T15:21:39.485271"
+    "fetched_at": "2026-09-16T21:54:36.877952"
   }
 ]
